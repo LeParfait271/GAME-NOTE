@@ -3,8 +3,8 @@
 Petit site de guides gaming, pensé pour lire les soluces chronologiques sans
 spoiler sur ordinateur comme sur téléphone.
 
-Le site contient actuellement 24 guides actifs, dont les routes chronologiques
-des jeux de la premiere capture et les huit jeux ajoutes dans le dernier lot.
+Le site contient actuellement 59 guides actifs, dont les routes chronologiques
+des jeux des captures Steam et les guides Valve ajoutes dans le dernier lot.
 Les jeux competitifs, les jeux a runs sans route stable et les jeux-service
 evolutifs restent exclus du catalogue.
 

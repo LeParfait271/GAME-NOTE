@@ -501,3 +501,46 @@ conditions difficiles ; elles ne justifient jamais une copie mot a mot.
   https://steamdb.info/app/2208920/stats/
 - Points verifies : Angleterre, colonie, Ordre, Orlog, peche, Tombs of the
   Fallen, Mastery Challenge, Irlande, Francia, Forgotten Saga et Ragnarok.
+
+## HALF-LIFE
+
+- Page Steam de l'AppID 70 et perimetre de l'edition visible :
+  https://store.steampowered.com/app/70/HalfLife/
+- Verification : l'edition visible n'expose pas de liste de succes Steam ;
+  le guide est donc classe special et annonce 0/0.
+
+## HALF-LIFE 2
+
+- Steam, liste officielle des 69 succes incluant les Episodes :
+  https://steamcommunity.com/stats/HL2/achievements
+- AppID et categories Steam :
+  https://steamdb.info/app/220/stats/
+- Points verifies : caches Lambda, Ravenholm, citoyens, vehicules, noyau,
+  Episode One, Episode Two, gnome, caches radar et defenses.
+
+## HALF-LIFE: ALYX
+
+- Steam, liste officielle des 42 succes :
+  https://steamcommunity.com/stats/546560/achievements
+- AppID et categorie VR :
+  https://steamdb.info/app/546560/stats/
+- Points verifies : gnome, resines, armes, bouteilles, zones Xen, geiger,
+  mines, grenades et interactions VR.
+
+## PORTAL
+
+- Steam, liste officielle des 15 succes :
+  https://steamcommunity.com/stats/Portal/achievements
+- AppID et categories de defis :
+  https://steamdb.info/app/400/stats/
+- Points verifies : campagne, six salles avancees, radios, cameras et
+  medailles bronze, argent et or.
+
+## PORTAL 2
+
+- Steam, liste officielle des 51 succes :
+  https://steamcommunity.com/stats/Portal2/achievements/
+- AppID et categories solo/coop :
+  https://steamdb.info/app/620/stats/
+- Points verifies : campagne solo, cinq parcours coop, gestes, cubes,
+  cameras, contraintes de temps et Professor Portal.

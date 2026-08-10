@@ -64,6 +64,10 @@ soluce chronologique classique n'apporterait rien.
 - Assassin's Creed Origins
 - Assassin's Creed Odyssey
 - Assassin's Creed Valhalla
+- Half-Life 2
+- Half-Life: Alyx
+- Portal
+- Portal 2
 
 ## Futurs guides chronologiques (`planned`)
 
@@ -90,9 +94,6 @@ soluce chronologique classique n'apporterait rien.
 - Dying Light
 - F.E.A.R. 2: Project Origin
 - F.E.A.R. 3
-- Half-Life
-- Half-Life 2
-- Half-Life: Alyx
 - Jotun: Valhalla Edition
 - LIMBO
 - Little Nightmares II
@@ -121,8 +122,6 @@ soluce chronologique classique n'apporterait rien.
 - DOOM 3: Resurrection of Evil
 - Duke Nukem Forever
 - Painkiller: Redemption
-- Portal
-- Portal 2
 - Penumbra: Overture
 - Penumbra: Black Plague
 - Penumbra: Requiem
@@ -179,6 +178,7 @@ soluce chronologique classique n'apporterait rien.
 
 ## Soluces spéciales sans succès Steam à vérifier (`special`)
 
+- Half-Life — AppID 70 sans succès Steam ; guide de campagne transparent
 - Assassin's Creed — pas de succès Steam sur l'édition visible ; soluce spéciale possible
 - Assassin's Creed II — pas de succès Steam sur l'édition visible
 - Assassin's Creed Brotherhood — pas de succès Steam sur l'édition visible

@@ -57,6 +57,11 @@
     { "id": "assassins-creed-origins", "appId": 582160, "steamAchievements": 67, "guideType": "100-steam-plus-two-dlc", "source": "https://steamcommunity.com/stats/582160/achievements" },
     { "id": "assassins-creed-odyssey", "appId": 812140, "steamAchievements": 93, "guideType": "100-steam-plus-dlc", "source": "https://steamcommunity.com/stats/812140/achievements" },
     { "id": "assassins-creed-valhalla", "appId": 2208920, "steamAchievements": 92, "guideType": "100-steam-plus-dlc-modes", "source": "https://steamcommunity.com/stats/2208920/achievements" },
+    { "id": "half-life", "appId": 70, "steamAchievements": 0, "guideType": "special-no-steam-achievements", "source": "https://store.steampowered.com/app/70/HalfLife/" },
+    { "id": "half-life-2", "appId": 220, "steamAchievements": 69, "guideType": "100-steam-base-plus-episodes", "source": "https://steamcommunity.com/stats/HL2/achievements" },
+    { "id": "half-life-alyx", "appId": 546560, "steamAchievements": 42, "guideType": "100-steam-vr", "source": "https://steamcommunity.com/stats/546560/achievements" },
+    { "id": "portal", "appId": 400, "steamAchievements": 15, "guideType": "100-steam-campaign-advanced-challenges", "source": "https://steamcommunity.com/stats/Portal/achievements" },
+    { "id": "portal-2", "appId": 620, "steamAchievements": 51, "guideType": "100-steam-solo-coop-online", "source": "https://steamcommunity.com/stats/Portal2/achievements" },
     { "id": "titan-quest-2", "appId": 1154030, "steamAchievements": 0, "guideType": "hold-early-access", "source": "https://store.steampowered.com/app/1154030/Titan_Quest_II/" }
   ]
 }

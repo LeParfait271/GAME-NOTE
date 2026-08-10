@@ -901,6 +901,86 @@ const guides: Guide[] = [
       "A surveiller : les actions speciales, les modes et les cartes DLC.",
     meta: ["92/92 Steam", "DLC + modes", "Sans spoiler"],
   },
+  {
+    id: "half-life",
+    steamAppId: 70,
+    title: "Half-Life",
+    eyebrow: "Valve",
+    subtitle: "Campagne originale, chapitres et caches dans l'ordre.",
+    count: "0 succes Steam",
+    file: "half-life.txt",
+    accent: "blue",
+    tag: "Guide special",
+    description:
+      "Parcours solo complet et transparent pour l'edition Steam sans succes.",
+    highlight:
+      "A savoir : 0 succes Steam sur l'AppID visible, donc aucune promesse artificielle de 100 %.",
+    meta: ["0 succes Steam", "Solo", "Sans spoiler"],
+  },
+  {
+    id: "half-life-2",
+    steamAppId: 220,
+    title: "Half-Life 2",
+    eyebrow: "Valve",
+    subtitle: "Jeu de base, Episodes One et Two, caches et actions uniques.",
+    count: "69 succes",
+    file: "half-life-2.txt",
+    accent: "blue",
+    tag: "Campagne + episodes",
+    description:
+      "Caches Lambda, citoyens, vehicules, gnome, defenses et runs dediees.",
+    highlight:
+      "A surveiller : Ravenholm, citoyens, caches radar, gnome et succes sans combat.",
+    meta: ["69/69 Steam", "Episodes inclus", "Sans spoiler"],
+  },
+  {
+    id: "half-life-alyx",
+    steamAppId: 546560,
+    title: "Half-Life: Alyx",
+    eyebrow: "Valve VR",
+    subtitle: "Campagne VR, armes, fouille et objets interactifs.",
+    count: "42 succes",
+    file: "half-life-alyx.txt",
+    accent: "coral",
+    tag: "Guide VR",
+    description:
+      "Route sans spoiler pour les 42 succes, le gnome, les bouteilles et les armes.",
+    highlight:
+      "A surveiller : gnome, resines, bouteilles, geiger et sauvegardes d'interaction.",
+    meta: ["42/42 Steam", "VR solo", "Sans spoiler"],
+  },
+  {
+    id: "portal",
+    steamAppId: 400,
+    title: "Portal",
+    eyebrow: "Valve",
+    subtitle: "Campagne, salles avancees, defis et radios.",
+    count: "15 succes",
+    file: "portal.txt",
+    accent: "blue",
+    tag: "Puzzle 100 %",
+    description:
+      "Ordre des chambres, six cartes avancees et trois niveaux de medailles.",
+    highlight:
+      "A surveiller : radios, cameras, salles avancees et medailles des defis.",
+    meta: ["15/15 Steam", "Hors ligne", "Sans spoiler"],
+  },
+  {
+    id: "portal-2",
+    steamAppId: 620,
+    title: "Portal 2",
+    eyebrow: "Valve",
+    subtitle: "Solo puis cinq parcours cooperatifs dans l'ordre.",
+    count: "51 succes",
+    file: "portal-2.txt",
+    accent: "coral",
+    tag: "Solo + coop",
+    description:
+      "Chambres, objets caches, gestes, contraintes de cubes et succes en ligne.",
+    highlight:
+      "A surveiller : partenaire debutant pour Professor Portal et sessions d'actions.",
+    meta: ["51/51 Steam", "Coop en ligne", "Sans spoiler"],
+  },
 ];
 
 const steamHeaderUrl = (appId: number) =>
