@@ -37,6 +37,10 @@ soluce chronologique classique n'apporterait rien.
 - Resident Evil 2
 - Resident Evil 3
 - Resident Evil 4
+- Resident Evil 5
+- Resident Evil 6
+- Resident Evil 7 biohazard
+- Resident Evil Village
 - Resident Evil Revelations
 - Resident Evil Revelations 2
 - Red Dead Redemption 2
@@ -81,10 +85,6 @@ soluce chronologique classique n'apporterait rien.
 
 ### Resident Evil et action-aventure
 
-- Resident Evil 5
-- Resident Evil 6
-- Resident Evil 7 biohazard
-- Resident Evil Village
 - Aliens vs. Predator
 - Dark Sector
 - Dead Island

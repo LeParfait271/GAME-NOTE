@@ -353,3 +353,42 @@ conditions difficiles ; elles ne justifient jamais une copie mot a mot.
 - Page Steam et Gold Edition : https://store.steampowered.com/app/2050650/Resident_Evil_4/
 - Points verifies : 16 chapitres, Castellans, requetes, tresors, stands de
   tir, armes, S+, Frugalist, Minimalist, No Merchant et DLC separe.
+
+## RESIDENT EVIL 5
+
+- Steam, liste officielle des 70 succes :
+  https://steamcommunity.com/stats/21690/achievements
+- Page Steam et Untold Stories : https://store.steampowered.com/app/21690/Resident_Evil_5/
+- Manuel CAPCOM et objets de campagne : https://static.capcom.com/manuals/re5/RE5_360_DMNL_EN.pdf
+- Points verifies : campagne, 30 emblemes, tresors, armes, ameliorations,
+  Professional, Lost in Nightmares, Desperate Escape, Reunion et Versus.
+
+## RESIDENT EVIL 6
+
+- Steam, liste officielle des 70 succes :
+  https://steamcommunity.com/stats/221040/achievements
+- Guide Steam 100 % : https://steamcommunity.com/sharedfiles/filedetails/?id=1698811175
+- Manuel officiel CAPCOM : https://game.capcom.com/manual/bio6/en/page-45.html
+- Points verifies : quatre campagnes, 20 chapitres, emblemes, competences,
+  titres, Mercenaries, Agent Hunt, Professional et actions de partenaire.
+
+## RESIDENT EVIL 7 BIOHAZARD
+
+- Steam, liste officielle des 58 succes :
+  https://steamcommunity.com/stats/418370/achievements
+- Guide des modes, objets et DLC :
+  https://steamcommunity.com/sharedfiles/filedetails/?id=1761418830
+- Guide de controle du compteur : https://steamvault.dev/games/418370
+- Points verifies : campagne, fichiers, Mr. Everywhere, monnaies, Madhouse,
+  Not a Hero, End of Zoe, Banned Footage, Ethan Must Die et Blackjack.
+
+## RESIDENT EVIL VILLAGE
+
+- Steam, liste officielle des 56 succes :
+  https://steamcommunity.com/stats/1196590/achievements
+- Guide Steam 100 % jeu et DLC :
+  https://steamcommunity.com/sharedfiles/filedetails/?id=2479485375
+- DLC Winters' Expansion : https://store.steampowered.com/app/1731080/Resident_Evil_Village__Winters_Expansion/
+- Guide des 20 Chevres : https://www.windowscentral.com/gaming/resident-evil-village-every-goat-warding-location
+- Points verifies : campagne, 20 Chevres, toilettes, fenetres, recettes,
+  Village of Shadows, Mercenaries, Shadows of Rose et six succes DLC.

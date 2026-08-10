@@ -41,6 +41,10 @@
     { "id": "resident-evil-2", "appId": 883710, "steamAchievements": 44, "guideType": "100-steam-scenarios", "source": "https://store.steampowered.com/app/883710/Resident_Evil_2/" },
     { "id": "resident-evil-3", "appId": 952060, "steamAchievements": 32, "guideType": "100-steam-difficulty", "source": "https://store.steampowered.com/app/952060/RESIDENT_EVIL_3/" },
     { "id": "resident-evil-4", "appId": 2050650, "steamAchievements": 46, "guideType": "100-steam-plus-dlc-check", "source": "https://store.steampowered.com/app/2050650/Resident_Evil_4/" },
+    { "id": "resident-evil-5", "appId": 21690, "steamAchievements": 70, "guideType": "100-steam-plus-dlc-coop-check", "source": "https://store.steampowered.com/app/21690/Resident_Evil_5/" },
+    { "id": "resident-evil-6", "appId": 221040, "steamAchievements": 70, "guideType": "100-steam-campaigns-coop-check", "source": "https://store.steampowered.com/app/221040/Resident_Evil_6/" },
+    { "id": "resident-evil-7", "appId": 418370, "steamAchievements": 58, "guideType": "100-steam-plus-dlc", "source": "https://store.steampowered.com/app/418370/Resident_Evil_7_biohazard/" },
+    { "id": "resident-evil-village", "appId": 1196590, "steamAchievements": 56, "guideType": "100-steam-plus-winters-expansion", "source": "https://store.steampowered.com/app/1196590/Resident_Evil_Village/" },
     { "id": "titan-quest-2", "appId": 1154030, "steamAchievements": 0, "guideType": "hold-early-access", "source": "https://store.steampowered.com/app/1154030/Titan_Quest_II/" }
   ]
 }

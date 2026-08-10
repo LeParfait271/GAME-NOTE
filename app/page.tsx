@@ -645,6 +645,70 @@ const guides: Guide[] = [
       "A surveiller : les requetes du marchand, les 16 Castellans et les runs S+.",
     meta: ["46/46 Steam", "16 chapitres", "Sans spoiler"],
   },
+  {
+    id: "resident-evil-5",
+    steamAppId: 21690,
+    title: "Resident Evil 5",
+    eyebrow: "CAPCOM",
+    subtitle: "Campagne, DLC et cooperation jusqu'au 100 %.",
+    count: "70 succes",
+    file: "resident-evil-5.txt",
+    accent: "coral",
+    tag: "DLC et coop",
+    description:
+      "Emblemes, tresors, armes, Professional, Lost in Nightmares, Reunion et Versus.",
+    highlight:
+      "A surveiller : les 30 emblemes, les ameliorations et la disponibilite des modes en ligne.",
+    meta: ["70/70 Steam", "4 DLC", "Coop a verifier"],
+  },
+  {
+    id: "resident-evil-6",
+    steamAppId: 221040,
+    title: "Resident Evil 6",
+    eyebrow: "CAPCOM",
+    subtitle: "Quatre campagnes, competences et Professional.",
+    count: "70 succes",
+    file: "resident-evil-6.txt",
+    accent: "blue",
+    tag: "Quatre campagnes",
+    description:
+      "Leon, Chris, Jake, Ada, emblemes, titres, Mercenaries et records de partenaire.",
+    highlight:
+      "A surveiller : les emblemes par campagne et les competences avant Professional.",
+    meta: ["70/70 Steam", "80 emblemes", "Sans spoiler"],
+  },
+  {
+    id: "resident-evil-7",
+    steamAppId: 418370,
+    title: "Resident Evil 7 biohazard",
+    eyebrow: "CAPCOM",
+    subtitle: "Campagne, DLC et modes difficiles sans spoiler.",
+    count: "58 succes",
+    file: "resident-evil-7-biohazard.txt",
+    accent: "coral",
+    tag: "Guide DLC",
+    description:
+      "Fichiers, Mr. Everywhere, Madhouse, Not a Hero, End of Zoe, Banned Footage et modes score.",
+    highlight:
+      "A surveiller : les pieces selon la difficulte et les runs 4 h/sans soin/sans coffre.",
+    meta: ["58/58 Steam", "DLC inclus", "Sans spoiler"],
+  },
+  {
+    id: "resident-evil-village",
+    steamAppId: 1196590,
+    title: "Resident Evil Village",
+    eyebrow: "CAPCOM",
+    subtitle: "Village, Mercenaries et Winters' Expansion.",
+    count: "56 succes",
+    file: "resident-evil-village.txt",
+    accent: "gold",
+    tag: "Guide DLC",
+    description:
+      "Chevres, fenetres, toilettes, tresors, recettes, Village of Shadows et Shadows of Rose.",
+    highlight:
+      "A surveiller : les 20 Chevres, les records Mercenaries et les six succes DLC.",
+    meta: ["56/56 Steam", "20 Chevres", "DLC inclus"],
+  },
 ];
 
 const steamHeaderUrl = (appId: number) =>
