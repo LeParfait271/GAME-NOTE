@@ -580,7 +580,7 @@ export default function Home() {
     return () => controller.abort();
   }, [selected.file]);
 
-  const normalizedSearch = search.trim().toLocaleLowerCase("fr");
+  const normalizedSearch = normalizeCatalogText(search.trim());
   const matchingLines = useMemo(() => {
     if (!normalizedSearch) {
       return guideText.split(/\r?\n/).length;
@@ -588,7 +588,7 @@ export default function Home() {
 
     return guideText
       .split(/\r?\n/)
-      .filter((line) => line.toLocaleLowerCase("fr").includes(normalizedSearch))
+      .filter((line) => normalizeCatalogText(line).includes(normalizedSearch))
       .length;
   }, [guideText, normalizedSearch]);
 
