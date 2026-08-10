@@ -1365,6 +1365,54 @@ const guides: Guide[] = [
       "A surveiller : les Weapon Power Chests renforcent l'arme temporairement.",
     meta: ["0/0 Steam", "11 chapitres", "Sans spoiler"],
   },
+  {
+    id: "legend-of-mysteria",
+    steamAppId: 407230,
+    title: "Legend of Mysteria RPG",
+    eyebrow: "Labyrinthine",
+    subtitle: "Enquete, disguises, enigmes et 6 succes.",
+    count: "6 succes",
+    file: "legend-of-mysteria.txt",
+    accent: "coral",
+    tag: "Guide enigmes",
+    description:
+      "Route complete du JRPG, preuves, vetements, objets de quete et fin correcte.",
+    highlight:
+      "A surveiller : le Tomb of Elements, les deux Carnival Potions et le dossier final.",
+    meta: ["6/6 Steam", "Solo", "Sans spoiler"],
+  },
+  {
+    id: "the-last-remnant",
+    steamAppId: 23310,
+    title: "The Last Remnant",
+    eyebrow: "Square Enix",
+    subtitle: "Campagne, 68 quetes et Ancient Ruins.",
+    count: "0 succes Steam",
+    file: "the-last-remnant.txt",
+    accent: "gold",
+    tag: "Guide special",
+    description:
+      "Route chronologique PC, quetes missables, leaders uniques et True Conqueror.",
+    highlight:
+      "A surveiller : le nettoyage avant Nest of Eagles, Duke of Ghor et The Fallen.",
+    meta: ["0/0 Steam", "68 quetes", "Sans spoiler"],
+  },
+  {
+    id: "legendary",
+    steamAppId: 16730,
+    title: "Legendary",
+    eyebrow: "Spark Unlimited",
+    subtitle: "6 arcs, PDA et campagne solo.",
+    count: "0 succes Steam",
+    file: "legendary.txt",
+    accent: "blue",
+    tag: "Guide special",
+    description:
+      "Route de campagne, armes, objectifs, messages et pickups PDA sans spoiler.",
+    highlight:
+      "A surveiller : les pickups locaux avant chaque changement d'arc.",
+    meta: ["0/0 Steam", "6 arcs", "Sans spoiler"],
+  },
 ];
 
 const steamHeaderUrl = (appId: number) =>

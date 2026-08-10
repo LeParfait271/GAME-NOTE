@@ -86,6 +86,9 @@
     { "id": "tomb-raider-i-1996", "appId": 224960, "steamAchievements": 0, "guideType": "special-no-steam-achievements-45-secrets", "source": "https://store.steampowered.com/app/224960/Tomb_Raider_I/" },
     { "id": "tomb-raider-ii-1997", "appId": 225300, "steamAchievements": 0, "guideType": "special-no-steam-achievements-48-secrets", "source": "https://store.steampowered.com/app/225300/Tomb_Raider_II/" },
     { "id": "tomb-raider-iii-1998", "appId": 225320, "steamAchievements": 0, "guideType": "special-no-steam-achievements-59-secrets", "source": "https://store.steampowered.com/app/225320/Tomb_Raider_Anniversary/" },
-    { "id": "blood-omen-2", "appId": 242960, "steamAchievements": 0, "guideType": "special-no-steam-achievements-campaign-coffers", "source": "https://store.steampowered.com/app/242960/Blood_Omen_2_Legacy_of_Kain/" }
+    { "id": "blood-omen-2", "appId": 242960, "steamAchievements": 0, "guideType": "special-no-steam-achievements-campaign-coffers", "source": "https://store.steampowered.com/app/242960/Blood_Omen_2_Legacy_of_Kain/" },
+    { "id": "legend-of-mysteria", "appId": 407230, "steamAchievements": 6, "guideType": "100-steam-puzzle-rpg", "source": "https://store.steampowered.com/app/407230/Legend_of_Mysteria_RPG/" },
+    { "id": "the-last-remnant", "appId": 23310, "steamAchievements": 0, "guideType": "special-no-steam-achievements-68-quests", "source": "https://store.steampowered.com/app/23310/The_Last_Remnant/" },
+    { "id": "legendary", "appId": 16730, "steamAchievements": 0, "guideType": "special-no-steam-achievements-pda-campaign", "source": "https://store.steampowered.com/app/16730/Legendary/" }
   ]
 }
