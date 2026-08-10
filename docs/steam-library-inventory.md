@@ -52,6 +52,10 @@ soluce chronologique classique n'apporterait rien.
 - Titan Quest Anniversary Edition
 - A Plague Tale: Requiem
 - The Witcher 2: Assassins of Kings Enhanced Edition
+- Batman: Arkham Asylum GOTY Edition
+- Beyond: Two Souls
+- Detroit: Become Human
+- Dishonored
 
 ## Futurs guides chronologiques (`planned`)
 
@@ -69,11 +73,6 @@ soluce chronologique classique n'apporterait rien.
 - Assassin's Creed Origins
 - Assassin's Creed Odyssey
 - Assassin's Creed Valhalla
-- Batman: Arkham Asylum
-- Batman: Arkham Asylum GOTY Edition — variante AppID à contrôler
-- Beyond: Two Souls
-- Detroit: Become Human
-- Dishonored
 - Hogwarts Legacy
 - Marvel's Guardians of the Galaxy
 - Rise of the Tomb Raider

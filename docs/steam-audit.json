@@ -45,6 +45,10 @@
     { "id": "resident-evil-6", "appId": 221040, "steamAchievements": 70, "guideType": "100-steam-campaigns-coop-check", "source": "https://store.steampowered.com/app/221040/Resident_Evil_6/" },
     { "id": "resident-evil-7", "appId": 418370, "steamAchievements": 58, "guideType": "100-steam-plus-dlc", "source": "https://store.steampowered.com/app/418370/Resident_Evil_7_biohazard/" },
     { "id": "resident-evil-village", "appId": 1196590, "steamAchievements": 56, "guideType": "100-steam-plus-winters-expansion", "source": "https://store.steampowered.com/app/1196590/Resident_Evil_Village/" },
+    { "id": "batman-arkham-asylum", "appId": 35140, "steamAchievements": 47, "guideType": "100-steam-goty", "source": "https://store.steampowered.com/app/35140/Batman_Arkham_Asylum_GOTY_Edition/" },
+    { "id": "beyond-two-souls", "appId": 960990, "steamAchievements": 45, "guideType": "100-steam-two-runs-duo-check", "source": "https://store.steampowered.com/app/960990/Beyond_Two_Souls/" },
+    { "id": "detroit-become-human", "appId": 1222140, "steamAchievements": 48, "guideType": "100-steam-flowchart", "source": "https://store.steampowered.com/app/1222140/Detroit_Become_Human/" },
+    { "id": "dishonored", "appId": 205100, "steamAchievements": 80, "guideType": "100-steam-plus-dlc-trials", "source": "https://store.steampowered.com/app/205100/Dishonored/" },
     { "id": "titan-quest-2", "appId": 1154030, "steamAchievements": 0, "guideType": "hold-early-access", "source": "https://store.steampowered.com/app/1154030/Titan_Quest_II/" }
   ]
 }

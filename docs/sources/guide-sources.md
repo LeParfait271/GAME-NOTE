@@ -392,3 +392,36 @@ conditions difficiles ; elles ne justifient jamais une copie mot a mot.
 - Guide des 20 Chevres : https://www.windowscentral.com/gaming/resident-evil-village-every-goat-warding-location
 - Points verifies : campagne, 20 Chevres, toilettes, fenetres, recettes,
   Village of Shadows, Mercenaries, Shadows of Rose et six succes DLC.
+
+## BATMAN: ARKHAM ASYLUM GOTY EDITION
+
+- Steam, liste officielle des 47 succes :
+  https://steamcommunity.com/stats/35140/achievements
+- Manuel Steam : https://shared.akamai.steamstatic.com/steam/apps/35140/manuals/Manual_EN_STM.pdf
+- Points verifies : campagne, Homme-Mystere, trophees, 24 medailles Combat,
+  24 medailles Predator, Freeflow, difficulte et cartes GOTY.
+
+## BEYOND: TWO SOULS
+
+- Steam, liste officielle des 45 succes :
+  https://steamcommunity.com/stats/960990/achievements
+- Hub Steam et mode Duo : https://steamcommunity.com/app/960990
+- Verification AppID et cooperation : https://steamdb.info/app/960990/stats/
+- Points verifies : deux parcours, bonus, choix, fins, mode Duo, furtivite,
+  combat, possession et reprises de chapitre.
+
+## DETROIT: BECOME HUMAN
+
+- Steam, liste officielle des 48 succes :
+  https://steamcommunity.com/stats/1222140/achievements
+- Page Steam : https://store.steampowered.com/app/1222140/Detroit_Become_Human/
+- Points verifies : magazines, Flowchart, relations, chapitres, fins,
+  survivants et sauvegardes de branches.
+
+## DISHONORED
+
+- Steam, liste officielle des 80 succes :
+  https://steamcommunity.com/stats/Dishonored/achievements/
+- Manuel Steam : https://cdn.steamstatic.com/steam/apps/205100/manuals/dishonored-gfw-manual-v15.pdf
+- Points verifies : Ghost, Clean Hands, Low/High Chaos, pouvoirs, runes,
+  bone charms, deux DLC narratifs et Dunwall City Trials.

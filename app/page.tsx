@@ -709,6 +709,70 @@ const guides: Guide[] = [
       "A surveiller : les 20 Chevres, les records Mercenaries et les six succes DLC.",
     meta: ["56/56 Steam", "20 Chevres", "DLC inclus"],
   },
+  {
+    id: "batman-arkham-asylum",
+    steamAppId: 35140,
+    title: "Batman: Arkham Asylum",
+    eyebrow: "Rocksteady",
+    subtitle: "Campagne, Riddler et cartes de defi GOTY.",
+    count: "47 succes",
+    file: "batman-arkham-asylum.txt",
+    accent: "blue",
+    tag: "Collectibles et defis",
+    description:
+      "Gadgets, trophees, enigmes, combats, Predator, Freeflow et 100 % de l'ile.",
+    highlight:
+      "A surveiller : les 24 medailles de chaque famille et les retours apres chaque gadget.",
+    meta: ["47/47 Steam", "24 + 24 medailles", "Sans spoiler"],
+  },
+  {
+    id: "beyond-two-souls",
+    steamAppId: 960990,
+    title: "Beyond: Two Souls",
+    eyebrow: "Quantic Dream",
+    subtitle: "Deux parcours, bonus et fins sans spoiler.",
+    count: "45 succes",
+    file: "beyond-two-souls.txt",
+    accent: "coral",
+    tag: "Deux parcours",
+    description:
+      "Bonus, choix, fins, furtivite, combat, possession et mode Duo.",
+    highlight:
+      "A surveiller : la liste des bonus par chapitre et la reprise avant chaque choix.",
+    meta: ["45/45 Steam", "Solo + Duo", "Sans spoiler"],
+  },
+  {
+    id: "detroit-become-human",
+    steamAppId: 1222140,
+    title: "Detroit: Become Human",
+    eyebrow: "Quantic Dream",
+    subtitle: "Flowchart, magazines et branches sous controle.",
+    count: "48 succes",
+    file: "detroit-become-human.txt",
+    accent: "gold",
+    tag: "Flowchart 100 %",
+    description:
+      "Parcours protege, reprises de chapitre, relations, magazines et fins.",
+    highlight:
+      "A surveiller : jouer chaque reprise jusqu'a la fin du chapitre pour enregistrer la Flowchart.",
+    meta: ["48/48 Steam", "Flowchart", "Sans spoiler"],
+  },
+  {
+    id: "dishonored",
+    steamAppId: 205100,
+    title: "Dishonored",
+    eyebrow: "Arkane Studios",
+    subtitle: "Ghost, chaos, DLC et City Trials dans le bon ordre.",
+    count: "80 succes",
+    file: "dishonored.txt",
+    accent: "coral",
+    tag: "Deux parcours",
+    description:
+      "Clean Hands, Ghost, pouvoirs, runes, bone charms, DLC narratifs et defis.",
+    highlight:
+      "A surveiller : ne pas melanger la sauvegarde Low Chaos avec la run High Chaos.",
+    meta: ["80/80 Steam", "2 DLC", "Sans spoiler"],
+  },
 ];
 
 const steamHeaderUrl = (appId: number) =>
