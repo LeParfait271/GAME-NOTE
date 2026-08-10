@@ -823,3 +823,44 @@ conditions difficiles ; elles ne justifient jamais une copie mot a mot.
   https://www.youtube.com/watch?v=8V6k7pgHRZM
 - Points verifies : edition Steam solo sans succes, campagne en 11 chapitres,
   Dark Gifts, coffers de lore et Weapon Power Chests ; aucun DLC ni online.
+
+## LEGEND OF MYSTERIA RPG
+
+- Fiche Steam officielle, AppID 407230 et 6 succes :
+  https://store.steampowered.com/app/407230/Legend_of_Mysteria_RPG/
+- Guide communautaire de parcours, disguises et quetes :
+  https://steamcommunity.com/sharedfiles/filedetails/?id=533832171
+- Guide communautaire espagnol pour les objets et les enigmes :
+  https://steamcommunity.com/sharedfiles/filedetails/?id=901286218
+- Liste des six succes :
+  https://cheatbook.de/files/legend-of-mysteria.htm
+- Points verifies : campagne solo, six succes, prison, Triste, Djinni, Tomb of
+  Elements, Elvenforth et jugement final ; aucune route online ou DLC.
+
+## THE LAST REMNANT
+
+- Fiche Steam officielle non repertoriee, AppID 23310 :
+  https://store.steampowered.com/app/23310/The_Last_Remnant/
+- Disponibilite et fenetres des quetes :
+  https://lastremnant.fandom.com/wiki/Availability_of_Side_Quests
+- Liste des quetes par ville et par partie :
+  https://lastremnant.fandom.com/wiki/Quests
+- Route chronologique des quetes :
+  https://lastremnant.fandom.com/wiki/Quick_Walkthrough_of_Side_Quests_in_Chronological_Order
+- Manuel PC :
+  https://cdn.akamai.steamstatic.com/steam/apps/23310/manuals/PC_TLR_7.pdf?t=1324000446
+- Points verifies : edition Steam solo sans succes, 68 quetes, bases, Duke of
+  Ghor, The Fallen, Ancient Ruins et Things Unchangeable ; aucun faux 100 % Steam.
+
+## LEGENDARY
+
+- Fiche Steam officielle, AppID 16730 :
+  https://store.steampowered.com/app/16730/Legendary/
+- Guide de campagne et PDA de reference :
+  https://gamefaqs.gamespot.com/ps3/941874-legendary/faqs/54862
+- Manuel de l'edition :
+  https://www.gamesdatabase.org/Media/SYSTEM/Microsoft_Xbox_360/Manual/formated/Legendary_-_2008_-_Gamecock_Media_Group.pdf
+- Presentation des arcs et lieux de campagne :
+  https://en.wikipedia.org/wiki/Legendary_%28video_game%29
+- Points verifies : fiche Steam sans succes, campagne solo, six arcs de route,
+  PDA, armes, messages et objectifs ; aucun guide online ou DLC n'est annonce.

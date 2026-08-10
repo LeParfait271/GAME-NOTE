@@ -92,19 +92,17 @@ soluce chronologique classique n'apporterait rien.
 - Tomb Raider II (1997) (guide special sans succes Steam)
 - Tomb Raider III (1998) (guide special sans succes Steam)
 - Blood Omen 2: Legacy of Kain (guide special sans succes Steam)
+- Legend of Mysteria RPG
+- The Last Remnant (guide special sans succes Steam)
+- Legendary (guide special sans succes Steam)
 
 ## Futurs guides chronologiques (`planned`)
 
 ### Final Fantasy et RPG proches
 
-- FINAL FANTASY RESONANCE — intitulé à confirmer par AppID
-- The Last Remnant
+- FINAL FANTASY RESONANCE — hold jusqu'à la sortie annoncée du 22 octobre 2026 ; AppID 3259780, guide et total de succès à figer après sortie
 - Grim Dawn
-- Legend of Mysteria
-- Legendary
 - The Witcher 3: Wild Hunt
-
-### Assassin's Creed, Batman et aventures
 
 ### Resident Evil et action-aventure
 
