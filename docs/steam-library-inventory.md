@@ -33,6 +33,10 @@ soluce chronologique classique n'apporterait rien.
 - OCTOPATH TRAVELER II
 - Ori and the Will of the Wisps
 - Resident Evil 0
+- Resident Evil
+- Resident Evil 2
+- Resident Evil 3
+- Resident Evil 4
 - Resident Evil Revelations
 - Resident Evil Revelations 2
 - Red Dead Redemption 2
@@ -77,10 +81,6 @@ soluce chronologique classique n'apporterait rien.
 
 ### Resident Evil et action-aventure
 
-- Resident Evil
-- Resident Evil 2
-- Resident Evil 3
-- Resident Evil 4
 - Resident Evil 5
 - Resident Evil 6
 - Resident Evil 7 biohazard

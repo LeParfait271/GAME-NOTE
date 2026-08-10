@@ -320,3 +320,36 @@ conditions difficiles ; elles ne justifient jamais une copie mot a mot.
 - Verification des fonctions et de l'AppID : https://steamdb.info/app/20920/stats/
 - Points verifies : deux voies, Arena, trolls, nids, poker, alchimie,
   mutagenes, quetes de chapitre et Insane.
+
+## RESIDENT EVIL HD REMASTER
+
+- Steam, liste officielle des 44 succes :
+  https://steamcommunity.com/stats/304240/achievements/
+- Page Steam :
+  https://store.steampowered.com/app/304240/Resident_Evil_biohazard_HD_REMASTER/
+- Points verifies : Jill, Chris, Real Survival, Invisible Enemy, One Dangerous
+  Zombie, objets, fichiers, armes et fins.
+
+## RESIDENT EVIL 2
+
+- Steam, liste officielle des 44 succes :
+  https://steamcommunity.com/stats/883710/achievements
+- Page Steam et edition Deluxe : https://store.steampowered.com/app/883710/Resident_Evil_2/
+- Points verifies : scenarios A/B, quatre routes, 15 Mr. Raccoon, fichiers,
+  rangs S/S+, Hardcore, Frugalist, Minimalist, 4th Survivor et Tofu.
+
+## RESIDENT EVIL 3
+
+- Steam, liste officielle des 32 succes :
+  https://steamcommunity.com/stats/952060/achievements/
+- Page Steam : https://store.steampowered.com/app/952060/RESIDENT_EVIL_3/
+- Points verifies : 20 Charlie Dolls, fichiers, armes, records, boutique,
+  Standard, Hardcore, Nightmare, Inferno et rangs.
+
+## RESIDENT EVIL 4
+
+- Steam, liste officielle des 46 succes :
+  https://steamcommunity.com/stats/2050650/achievements
+- Page Steam et Gold Edition : https://store.steampowered.com/app/2050650/Resident_Evil_4/
+- Points verifies : 16 chapitres, Castellans, requetes, tresors, stands de
+  tir, armes, S+, Frugalist, Minimalist, No Merchant et DLC separe.

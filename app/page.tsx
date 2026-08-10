@@ -581,6 +581,70 @@ const guides: Guide[] = [
       "A surveiller : la sauvegarde avant la branche du chapitre 2 et les quetes de chapitre.",
     meta: ["52/52 Steam", "2 voies", "Sans spoiler"],
   },
+  {
+    id: "resident-evil-hd-remaster",
+    steamAppId: 304240,
+    title: "Resident Evil",
+    eyebrow: "CAPCOM",
+    subtitle: "Jill, Chris et les modes bonus dans le bon ordre.",
+    count: "44 succes",
+    file: "resident-evil-hd-remaster.txt",
+    accent: "coral",
+    tag: "Multiple runs",
+    description:
+      "Fouilles, armes, fichiers, fins, Real Survival, Invisible Enemy et One Dangerous Zombie.",
+    highlight:
+      "A surveiller : les choix de sauvetage et la collecte avant de bruler une salle.",
+    meta: ["44/44 Steam", "Jill + Chris", "Sans spoiler"],
+  },
+  {
+    id: "resident-evil-2",
+    steamAppId: 883710,
+    title: "Resident Evil 2",
+    eyebrow: "CAPCOM",
+    subtitle: "Les quatre scenarios et les records sans spoiler.",
+    count: "44 succes",
+    file: "resident-evil-2-remake.txt",
+    accent: "blue",
+    tag: "Scenarios A/B",
+    description:
+      "Leon, Claire, Mr. Raccoon, fichiers, Hardcore, S+, 4th Survivor et Tofu.",
+    highlight:
+      "A surveiller : les fichiers propres aux scenarios et les rubans de la run S+.",
+    meta: ["44/44 Steam", "15 Mr. Raccoon", "Sans spoiler"],
+  },
+  {
+    id: "resident-evil-3",
+    steamAppId: 952060,
+    title: "Resident Evil 3",
+    eyebrow: "CAPCOM",
+    subtitle: "Campagne, 20 Charlie Dolls et Inferno.",
+    count: "32 succes",
+    file: "resident-evil-3-remake.txt",
+    accent: "coral",
+    tag: "Records et difficulte",
+    description:
+      "Fichiers, armes, fabrications, esquives, boutique, rangs et quatre niveaux de defi.",
+    highlight:
+      "A surveiller : les Charlie Dolls et les sauvegardes avant les sequences de fuite.",
+    meta: ["32/32 Steam", "20 Charlie Dolls", "Sans spoiler"],
+  },
+  {
+    id: "resident-evil-4",
+    steamAppId: 2050650,
+    title: "Resident Evil 4",
+    eyebrow: "CAPCOM",
+    subtitle: "16 chapitres, requetes et S+ sans spoiler.",
+    count: "46 succes",
+    file: "resident-evil-4-remake.txt",
+    accent: "gold",
+    tag: "Guide marathon",
+    description:
+      "Castellans, tresors, stands de tir, armes, Professional, restrictions et records.",
+    highlight:
+      "A surveiller : les requetes du marchand, les 16 Castellans et les runs S+.",
+    meta: ["46/46 Steam", "16 chapitres", "Sans spoiler"],
+  },
 ];
 
 const steamHeaderUrl = (appId: number) =>

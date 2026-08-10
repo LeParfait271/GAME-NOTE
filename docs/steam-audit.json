@@ -37,6 +37,10 @@
     { "id": "fallout-new-vegas", "appId": 22380, "steamAchievements": 75, "guideType": "100-steam-plus-dlc-factions", "source": "https://store.steampowered.com/app/22380/Fallout_New_Vegas/" },
     { "id": "forspoken", "appId": 1680880, "steamAchievements": 53, "guideType": "100-steam-plus-dlc-check", "source": "https://store.steampowered.com/app/1680880/FORSPOKEN/" },
     { "id": "the-witcher-2-assassins-of-kings", "appId": 20920, "steamAchievements": 52, "guideType": "100-steam-two-runs-insane", "source": "https://store.steampowered.com/app/20920/The_Witcher_2_Assassins_of_Kings_Enhanced_Edition/" },
+    { "id": "resident-evil-hd-remaster", "appId": 304240, "steamAchievements": 44, "guideType": "100-steam-multiple-runs", "source": "https://store.steampowered.com/app/304240/Resident_Evil_biohazard_HD_REMASTER/" },
+    { "id": "resident-evil-2", "appId": 883710, "steamAchievements": 44, "guideType": "100-steam-scenarios", "source": "https://store.steampowered.com/app/883710/Resident_Evil_2/" },
+    { "id": "resident-evil-3", "appId": 952060, "steamAchievements": 32, "guideType": "100-steam-difficulty", "source": "https://store.steampowered.com/app/952060/RESIDENT_EVIL_3/" },
+    { "id": "resident-evil-4", "appId": 2050650, "steamAchievements": 46, "guideType": "100-steam-plus-dlc-check", "source": "https://store.steampowered.com/app/2050650/Resident_Evil_4/" },
     { "id": "titan-quest-2", "appId": 1154030, "steamAchievements": 0, "guideType": "hold-early-access", "source": "https://store.steampowered.com/app/1154030/Titan_Quest_II/" }
   ]
 }
