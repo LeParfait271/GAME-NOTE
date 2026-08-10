@@ -83,6 +83,10 @@ texte du guide est rédigé de façon originale et pratique.
 - Pour chaque nouveau jeu, conserver dans `docs/steam-audit.json` l'AppID, le
   nombre de succès relevé et le périmètre exact : DLC, Raid, Survival,
   coopération, online ou absence de contenu annexe.
+- Chaque jeu ajouté au catalogue doit avoir au moins un visuel de référence :
+  en priorité l'icône, la couverture ou la bannière officielle du jeu. La
+  source ou le chemin de l'image doit être conservé avec la fiche ; sans image
+  validée, le jeu reste en `draft` et ne peut pas passer en `published`.
 - Distinguer les collectibles récupérables par sélection de chapitre des
   collectibles à fenêtre unique. Une route doit prévenir le missable avant la
   zone, puis proposer une sauvegarde ou un nettoyage séparé.
@@ -102,6 +106,8 @@ texte du guide est rédigé de façon originale et pratique.
 ## Contrôle avant publication
 
 - [ ] le bon jeu et le bon AppID sont identifiés ;
+- [ ] une icône, une couverture ou une bannière officielle est définie,
+      accessible et affichée sur la carte du jeu ;
 - [ ] le nombre de succès Steam est relevé ;
 - [ ] chaque succès est présent une fois, sans doublon ;
 - [ ] chaque missable est placé avant son point de non-retour ;

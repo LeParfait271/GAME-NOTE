@@ -196,3 +196,72 @@ conditions difficiles ; elles ne justifient jamais une copie mot a mot.
   https://steamcommunity.com/sharedfiles/filedetails/?id=2087920263
 - Points verifies : 12 stages, actions de decor, combos, rangs, Arcade,
   personnages, All Clear, Survival, mouvements alternatifs et 8 succes DLC.
+
+## FINAL FANTASY VII (2013)
+
+- Steam, liste officielle des 36 succes :
+  https://steamcommunity.com/stats/FINALFANTASYVII/achievements
+- Guide de parcours, objets missables, Materias et Enemy Skills :
+  https://www.rpgsite.net/guide/20383-final-fantasy-vii-walkthrough-100-missable-items-materia-all-achievements-enemy-skills-step-by-step-guide
+- Points verifies : 36 succes, Yuffie, Vincent, limites finales, Great Gospel,
+  Huge Materia, Bahamut Zero, chocobo Gold, Emerald, Ruby et Materia Overlord.
+
+## FINAL FANTASY IX
+
+- Steam, liste officielle des 85 succes :
+  https://steamcommunity.com/stats/377840/achievements
+- Guide Steam 100 % des succes et missables :
+  https://steamcommunity.com/sharedfiles/filedetails/?id=665159772
+- Guide de controle pour les ATE, objets et route Excalibur II :
+  https://www.gamerguides.com/final-fantasy-ix/guide/trophies-achievements/guide/overview
+- Points verifies : 85 succes, 79 ATE, Excalibur II sous 12 heures, King of
+  Jump Rope, Moonstones, Tetra Master, Stiltzkin, Ozma, grenouilles et plages.
+
+## FINAL FANTASY X/X-2 HD REMASTER
+
+- Steam, liste officielle des 69 succes :
+  https://steamcommunity.com/stats/359870/achievements
+- Guide X-2 avec flowchart de pourcentage :
+  https://www.gamerguides.com/final-fantasy-x-2/guide/walkthrough/introduction/100-flowchart
+- Guide Steam 100 % X-2 et mini-jeux :
+  https://steamcommunity.com/sharedfiles/filedetails/?id=685587220
+- Points verifies : 26 Primers, Cloisters, Aeons, Jecht Spheres, Celestial
+  Weapons, 200 eclairs, pourcentage X-2, dresspheres, Sphere Break, tour et
+  Trema.
+
+## FINAL FANTASY XII THE ZODIAC AGE
+
+- Steam, liste officielle des 41 succes :
+  https://steamcommunity.com/stats/595520/achievements
+- Guide de campagne, chasses, rare games et contenu complet :
+  https://gamefaqs.gamespot.com/ps4/191202-final-fantasy-xii-the-zodiac-age/faqs/82302/introduction
+- Manuel officiel Steam pour les systemes et cartes :
+  https://cdn.cloudflare.steamstatic.com/steam/apps/595520/manuals/FF12_PC_manual_en.pdf
+- Points verifies : 41 succes, chasses, Espers, Magies, Technicks,
+  Concurrences, Cartographer, Scrivener, Trials 50/100 et Yiazmat.
+
+## FINAL FANTASY XV WINDOWS EDITION
+
+- Steam, liste officielle des 97 succes :
+  https://steamcommunity.com/stats/637650/achievements
+- Page Steam confirmant les 97 succes et les fonctions online/co-op :
+  https://store.steampowered.com/app/637650/FINAL_FANTASY_XV_WINDOWS_EDITION/
+- Guide de reference jeu principal et DLC :
+  https://steamcommunity.com/sharedfiles/filedetails/?id=1323195342
+- Guide PC avec liste des succes et exigences de difficulte :
+  https://gamefaqs.gamespot.com/pc/217648-final-fantasy-xv-windows-edition/faqs/78363/achievements
+- Points verifies : 97 succes, 80 quetes, Datalog, objets, documents, Royal
+  Pack, quatre episodes, scores et dependance possible de Comrades au service.
+
+## A PLAGUE TALE: REQUIEM
+
+- Steam, liste officielle des 35 succes :
+  https://steamcommunity.com/stats/1182900/achievements
+- Guide Steam 100 % des actions, collectibles et coffres :
+  https://steamcommunity.com/sharedfiles/filedetails/?id=2876613341
+- PowerPyx, emplacements chronologiques des souvenirs, fleurs, plumes,
+  couteaux et coffres :
+  https://www.powerpyx.com/a-plague-tale-requiem-all-collectibles-locations-guide/
+- Points verifies : 35 succes, 21 souvenirs, 5 fleurs, 7 plumes, 10 coffres,
+  16 objets Old Protector, Perfect shot, Mercy, Perfect throw et les trois
+  profils de competence.

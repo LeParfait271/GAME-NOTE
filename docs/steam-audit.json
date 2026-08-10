@@ -26,6 +26,12 @@
     { "id": "inside", "appId": 304430, "steamAchievements": 14, "guideType": "100-steam", "source": "https://store.steampowered.com/app/304430/INSIDE/" },
     { "id": "final-fantasy-viii-remastered", "appId": 1026680, "steamAchievements": 34, "guideType": "100-steam", "source": "https://store.steampowered.com/app/1026680/FINAL_FANTASY_VIII_Remastered/" },
     { "id": "streets-of-rage-4", "appId": 985890, "steamAchievements": 45, "guideType": "100-steam-plus-dlc", "source": "https://store.steampowered.com/app/985890/Streets_of_Rage_4/" },
+    { "id": "final-fantasy-vii-2013", "appId": 39140, "steamAchievements": 36, "guideType": "100-steam", "source": "https://store.steampowered.com/app/39140/FINAL_FANTASY_VII/" },
+    { "id": "final-fantasy-ix", "appId": 377840, "steamAchievements": 85, "guideType": "100-steam", "source": "https://store.steampowered.com/app/377840/FINAL_FANTASY_IX/" },
+    { "id": "final-fantasy-x-x-2-hd-remaster", "appId": 359870, "steamAchievements": 69, "guideType": "100-steam-bundle", "source": "https://store.steampowered.com/app/359870/FINAL_FANTASY_XX2_HD_Remaster/" },
+    { "id": "final-fantasy-xii-the-zodiac-age", "appId": 595520, "steamAchievements": 41, "guideType": "100-steam", "source": "https://store.steampowered.com/app/595520/FINAL_FANTASY_XII_THE_ZODIAC_AGE/" },
+    { "id": "final-fantasy-xv-windows-edition", "appId": 637650, "steamAchievements": 97, "guideType": "100-steam-plus-dlc-online-check", "source": "https://store.steampowered.com/app/637650/FINAL_FANTASY_XV_WINDOWS_EDITION/" },
+    { "id": "a-plague-tale-requiem", "appId": 1182900, "steamAchievements": 35, "guideType": "100-steam", "source": "https://store.steampowered.com/app/1182900/A_Plague_Tale_Requiem/" },
     { "id": "titan-quest-2", "appId": 1154030, "steamAchievements": 0, "guideType": "hold-early-access", "source": "https://store.steampowered.com/app/1154030/Titan_Quest_II/" }
   ]
 }

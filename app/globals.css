@@ -58,7 +58,6 @@ input:focus-visible {
 
 .site-shell {
   min-height: 100vh;
-  overflow: hidden;
 }
 
 .topbar,
@@ -73,12 +72,17 @@ input:focus-visible {
 }
 
 .topbar {
+  position: sticky;
+  top: 0;
+  z-index: 20;
   min-height: 86px;
   display: flex;
   align-items: center;
   justify-content: space-between;
   gap: 24px;
   border-bottom: 1px solid var(--line);
+  background: color-mix(in srgb, var(--paper) 91%, transparent);
+  backdrop-filter: blur(14px);
 }
 
 .brand,
@@ -331,8 +335,9 @@ input:focus-visible {
 
 .board-tape {
   position: absolute;
-  top: -11px;
+  top: 3px;
   left: 55px;
+  z-index: 1;
   padding: 9px 16px;
   background: var(--coral-soft);
   color: var(--navy);
@@ -345,6 +350,7 @@ input:focus-visible {
 .board-topline {
   display: flex;
   justify-content: space-between;
+  padding-top: 24px;
   padding-bottom: 17px;
   border-bottom: 1px solid rgba(255, 255, 255, 0.21);
   color: #b5ccd4;
@@ -440,6 +446,13 @@ input:focus-visible {
   padding-block: 112px 124px;
 }
 
+#top,
+#guides,
+#methode,
+#reader {
+  scroll-margin-top: 108px;
+}
+
 .section-heading,
 .reader-header {
   display: flex;
@@ -467,10 +480,86 @@ input:focus-visible {
   line-height: 1.65;
 }
 
+.library-tools {
+  display: grid;
+  grid-template-columns: auto minmax(220px, 1fr) auto;
+  align-items: center;
+  gap: 13px;
+  margin: -8px 0 21px;
+  padding: 12px 15px;
+  border: 1px solid var(--line);
+  border-radius: 5px;
+  background: color-mix(in srgb, var(--card) 72%, transparent);
+}
+
+.library-tools > label {
+  color: var(--navy);
+  font-size: 0.72rem;
+  font-weight: 800;
+}
+
+.catalog-search-wrap {
+  display: flex;
+  align-items: center;
+  min-height: 43px;
+  padding: 0 12px;
+  border: 1px solid var(--line);
+  border-radius: 4px;
+  background: var(--card);
+}
+
+.catalog-search-wrap > span {
+  color: var(--coral);
+  font-size: 1.25rem;
+  line-height: 1;
+}
+
+.catalog-search-wrap input {
+  width: 100%;
+  min-width: 0;
+  padding: 0 10px;
+  border: 0;
+  outline: 0;
+  background: transparent;
+  color: var(--ink);
+  font-size: 0.82rem;
+}
+
+.catalog-search-wrap input::placeholder {
+  color: #a2a7a4;
+}
+
+.catalog-count {
+  color: var(--muted);
+  font-size: 0.7rem;
+  white-space: nowrap;
+}
+
 .guide-grid {
   display: grid;
   grid-template-columns: repeat(3, 1fr);
   gap: 17px;
+}
+
+.empty-state {
+  display: grid;
+  justify-items: start;
+  gap: 8px;
+  padding: 35px;
+  border: 1px dashed var(--line);
+  border-radius: 5px;
+  background: color-mix(in srgb, var(--card) 72%, transparent);
+}
+
+.empty-state strong {
+  color: var(--navy);
+  font-size: 1.1rem;
+}
+
+.empty-state p {
+  margin: 0 0 10px;
+  color: var(--muted);
+  font-size: 0.85rem;
 }
 
 .guide-card {
@@ -532,19 +621,40 @@ input:focus-visible {
   letter-spacing: 0.04em;
 }
 
-.card-badge {
-  display: grid;
-  width: 79px;
-  height: 79px;
-  margin: 40px 0 21px;
-  place-items: center;
-  border-radius: 50%;
-  background: var(--card-accent);
-  color: #fffdf7;
-  font-size: 1.4rem;
-  font-weight: 800;
-  letter-spacing: -0.08em;
-  box-shadow: 10px 10px 0 color-mix(in srgb, var(--card-accent) 20%, transparent);
+.card-artwork {
+  position: relative;
+  aspect-ratio: 460 / 215;
+  margin: 19px 0 21px;
+  overflow: hidden;
+  border: 1px solid color-mix(in srgb, var(--card-accent) 42%, var(--line));
+  border-radius: 3px;
+  background: color-mix(in srgb, var(--card-accent) 13%, var(--paper-deep));
+}
+
+.card-artwork::after {
+  position: absolute;
+  inset: 0;
+  content: "";
+  pointer-events: none;
+  background: linear-gradient(
+    135deg,
+    color-mix(in srgb, var(--card-accent) 14%, transparent),
+    transparent 48%,
+    rgba(13, 28, 38, 0.19)
+  );
+}
+
+.card-artwork img {
+  display: block;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  transition: transform 220ms ease;
+}
+
+.guide-card:hover .card-artwork img,
+.guide-card.is-selected .card-artwork img {
+  transform: scale(1.025);
 }
 
 .card-eyebrow {
@@ -745,6 +855,12 @@ input:focus-visible {
 
 .search-wrap input::placeholder {
   color: #a2a7a4;
+}
+
+.search-wrap input[type="search"]::-webkit-search-cancel-button,
+.catalog-search-wrap input[type="search"]::-webkit-search-cancel-button {
+  -webkit-appearance: none;
+  appearance: none;
 }
 
 .clear-search {
@@ -951,6 +1067,16 @@ input:focus-visible {
     max-width: none;
   }
 
+  .library-tools {
+    grid-template-columns: 1fr;
+    gap: 8px;
+    margin-top: -4px;
+  }
+
+  .catalog-count {
+    justify-self: end;
+  }
+
   .method-section {
     padding-block: 70px;
   }
@@ -989,6 +1115,13 @@ input:focus-visible {
     align-items: start;
     flex-direction: column;
   }
+
+  #top,
+  #guides,
+  #methode,
+  #reader {
+    scroll-margin-top: 86px;
+  }
 }
 
 @media (prefers-reduced-motion: reduce) {
@@ -998,6 +1131,7 @@ input:focus-visible {
 
   .button,
   .guide-card,
+  .card-artwork img,
   .main-nav a {
     transition: none;
   }

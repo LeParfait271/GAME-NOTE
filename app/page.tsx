@@ -4,6 +4,8 @@ import { useEffect, useMemo, useState } from "react";
 
 type Guide = {
   id: string;
+  steamAppId: number;
+  artworkUrl?: string;
   title: string;
   eyebrow: string;
   subtitle: string;
@@ -19,6 +21,7 @@ type Guide = {
 const guides: Guide[] = [
   {
     id: "expedition-33",
+    steamAppId: 1903340,
     title: "Expedition 33",
     eyebrow: "Clair Obscur",
     subtitle: "La route complète, sans révéler l’histoire.",
@@ -34,6 +37,7 @@ const guides: Guide[] = [
   },
   {
     id: "type-0",
+    steamAppId: 340170,
     title: "Final Fantasy Type-0 HD",
     eyebrow: "Final Fantasy",
     subtitle: "Une partie organisée jusqu’au 100 % Steam.",
@@ -49,6 +53,7 @@ const guides: Guide[] = [
   },
   {
     id: "octopath",
+    steamAppId: 921570,
     title: "Octopath Traveler",
     eyebrow: "Octopath Traveler 1",
     subtitle: "Une route chronologique pour ne rien laisser derrière.",
@@ -64,6 +69,7 @@ const guides: Guide[] = [
   },
   {
     id: "octopath-2",
+    steamAppId: 1971650,
     title: "Octopath Traveler II",
     eyebrow: "Octopath Traveler",
     subtitle: "Les huit routes, dans un ordre propre et lisible.",
@@ -79,6 +85,7 @@ const guides: Guide[] = [
   },
   {
     id: "after-years",
+    steamAppId: 346830,
     title: "Final Fantasy IV: The After Years",
     eyebrow: "Final Fantasy",
     subtitle: "Les contes dans l’ordre conseillé, sans révéler l’histoire.",
@@ -94,6 +101,7 @@ const guides: Guide[] = [
   },
   {
     id: "divided-reigns",
+    steamAppId: 1139160,
     title: "Divided Reigns",
     eyebrow: "RPG indépendant",
     subtitle: "Une progression complète avec les quatre difficultés.",
@@ -109,6 +117,7 @@ const guides: Guide[] = [
   },
   {
     id: "hellblade",
+    steamAppId: 414340,
     title: "Hellblade: Senua’s Sacrifice",
     eyebrow: "Ninja Theory",
     subtitle: "La campagne et les 44 lorestones dans le même parcours.",
@@ -124,6 +133,7 @@ const guides: Guide[] = [
   },
   {
     id: "rdr2",
+    steamAppId: 1174180,
     title: "Red Dead Redemption 2",
     eyebrow: "Rockstar Games",
     subtitle: "Histoire, 100 % interne et Red Dead Online séparés.",
@@ -139,6 +149,9 @@ const guides: Guide[] = [
   },
   {
     id: "breath-of-fire-iv",
+    steamAppId: 4249150,
+    artworkUrl:
+      "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4249150/426a889a2d4ec776dc4d87530dadd659ffa393a6/header.jpg?t=1784878197",
     title: "Breath of Fire IV",
     eyebrow: "Capcom",
     subtitle: "La campagne complète et le contenu optionnel, sans faux succès.",
@@ -154,6 +167,7 @@ const guides: Guide[] = [
   },
   {
     id: "titan-quest",
+    steamAppId: 475150,
     title: "Titan Quest Anniversary Edition",
     eyebrow: "Iron Lore",
     subtitle: "Les trois difficultés et les trois DLC dans une seule route.",
@@ -169,6 +183,7 @@ const guides: Guide[] = [
   },
   {
     id: "jedi-survivor",
+    steamAppId: 1774580,
     title: "STAR WARS Jedi: Survivor",
     eyebrow: "Star Wars",
     subtitle: "Planètes, collectibles et 53 succès dans le bon ordre.",
@@ -184,6 +199,7 @@ const guides: Guide[] = [
   },
   {
     id: "chrono-trigger",
+    steamAppId: 613830,
     title: "CHRONO TRIGGER",
     eyebrow: "Square Enix",
     subtitle: "Les 13 fins et leurs fenêtres de Nouvelle Partie +.",
@@ -199,6 +215,7 @@ const guides: Guide[] = [
   },
   {
     id: "chrono-cross",
+    steamAppId: 1133760,
     title: "CHRONO CROSS",
     eyebrow: "The Radical Dreamers Edition",
     subtitle: "Techniques, cadres, NG+ et personnages, sans spoiler.",
@@ -214,6 +231,7 @@ const guides: Guide[] = [
   },
   {
     id: "grandia-ii",
+    steamAppId: 330390,
     title: "GRANDIA II HD Remaster",
     eyebrow: "Grandia",
     subtitle: "Une partie propre jusqu’au dernier succès manquable.",
@@ -229,6 +247,7 @@ const guides: Guide[] = [
   },
   {
     id: "ori",
+    steamAppId: 1057090,
     title: "Ori and the Will of the Wisps",
     eyebrow: "Moon Studios",
     subtitle: "Exploration, quêtes et runs à contrainte dans le même plan.",
@@ -244,6 +263,7 @@ const guides: Guide[] = [
   },
   {
     id: "gris",
+    steamAppId: 683320,
     title: "GRIS",
     eyebrow: "Nomada Studio",
     subtitle: "Une route courte avec les 28 mementos bien placés.",
@@ -259,133 +279,244 @@ const guides: Guide[] = [
   },
   {
     id: "resident-evil-0",
+    steamAppId: 339340,
     title: "Resident Evil 0",
     eyebrow: "Resident Evil",
-    subtitle: "La route des 47 succes, modes bonus et armes.",
-    count: "47 succes",
+    subtitle: "La route des 47 succès, modes bonus et armes.",
+    count: "47 succès",
     file: "resident-evil-0.txt",
     accent: "coral",
     tag: "Nouveau guide",
     description:
       "Campagne, fichiers, Leech Hunter, Wesker Mode, rangs et contraintes dans l'ordre utile.",
     highlight:
-      "A surveiller : les fichiers, les armes et les runs Leech Hunter / Wesker.",
+      "À surveiller : les fichiers, les armes et les runs Leech Hunter / Wesker.",
     meta: ["47/47 Steam", "Leech Hunter", "Sans spoiler"],
   },
   {
     id: "resident-evil-revelations-2",
+    steamAppId: 287290,
     title: "Resident Evil Revelations 2",
     eyebrow: "Resident Evil",
-    subtitle: "Episodes, medailles et Raid Mode sans spoiler.",
-    count: "43 succes",
+    subtitle: "Épisodes, médailles et Raid Mode sans spoiler.",
+    count: "43 succès",
     file: "resident-evil-revelations-2.txt",
     accent: "blue",
     tag: "Nouveau guide",
     description:
-      "Les quatre episodes, les deux routes, les medailles, les modes alternatifs et le Raid.",
+      "Les quatre épisodes, les deux routes, les médailles, les modes alternatifs et le Raid.",
     highlight:
-      "A surveiller : les medailles, le couteau, les routes et les modes Countdown / Invisible.",
-    meta: ["43/43 Steam", "Medailles", "Raid Mode"],
+      "À surveiller : les médailles, le couteau, les routes et les modes Countdown / Invisible.",
+    meta: ["43/43 Steam", "Médailles", "Raid Mode"],
   },
   {
     id: "resident-evil-revelations",
+    steamAppId: 222480,
     title: "Resident Evil Revelations",
     eyebrow: "Resident Evil",
-    subtitle: "Campagne, 30 empreintes et Raid Mode dans le meme parcours.",
-    count: "50 succes",
+    subtitle: "Campagne, 30 empreintes et Raid Mode dans le même parcours.",
+    count: "50 succès",
     file: "resident-evil-revelations.txt",
     accent: "gold",
     tag: "Nouveau guide",
     description:
-      "Episodes, scans, empreintes de main, difficultes, Ghost Ship et bonus Raid.",
+      "Épisodes, scans, empreintes de main, difficultés, Ghost Ship et bonus Raid.",
     highlight:
-      "A surveiller : les 30 empreintes sans selection de chapitre et les extractions de campagne.",
+      "À surveiller : les 30 empreintes sans sélection de chapitre et les extractions de campagne.",
     meta: ["50/50 Steam", "30 empreintes", "Raid Mode"],
   },
   {
     id: "assassins-creed-rogue",
+    steamAppId: 311560,
     title: "Assassin's Creed Rogue",
     eyebrow: "Assassin's Creed",
-    subtitle: "Campagne, carte et defis Abstergo dans l'ordre.",
-    count: "46 succes",
+    subtitle: "Campagne, carte et défis Abstergo dans l’ordre.",
+    count: "46 succès",
     file: "assassins-creed-rogue.txt",
     accent: "coral",
     tag: "Nouveau guide",
     description:
-      "Synchronisation complete, QG, forts, ordinateurs, navires et collectibles.",
+      "Synchronisation complète, QG, forts, ordinateurs, navires et collectibles.",
     highlight:
-      "A surveiller : les 35 defis Abstergo, les 20 ordinateurs et les compteurs navals.",
-    meta: ["46/46 Steam", "35 defis", "Sans online"],
+      "À surveiller : les 35 défis Abstergo, les 20 ordinateurs et les compteurs navals.",
+    meta: ["46/46 Steam", "35 défis", "Sans online"],
   },
   {
     id: "a-plague-tale-innocence",
+    steamAppId: 752590,
     title: "A Plague Tale: Innocence",
     eyebrow: "Asobo Studio",
     subtitle: "La campagne et les 50 collectibles sans spoiler.",
-    count: "35 succes",
+    count: "35 succès",
     file: "a-plague-tale-innocence.txt",
     accent: "blue",
     tag: "Nouveau guide",
     description:
-      "Chapitres, cadeaux, curiosites, fleurs, chariots d'alchimiste et actions specifiques.",
+      "Chapitres, cadeaux, curiosités, fleurs, chariots d’alchimiste et actions spécifiques.",
     highlight:
-      "A surveiller : les actions de chapitre et les collectibles a reprendre par selection.",
+      "À surveiller : les actions de chapitre et les collectibles à reprendre par sélection.",
     meta: ["35/35 Steam", "50 collectibles", "Sans spoiler"],
   },
   {
     id: "inside",
+    steamAppId: 304430,
     title: "INSIDE",
     eyebrow: "Playdead",
-    subtitle: "Les 14 orbes caches dans un parcours propre.",
-    count: "14 succes",
+    subtitle: "Les 14 orbes cachées dans un parcours propre.",
+    count: "14 succès",
     file: "inside.txt",
     accent: "gold",
     tag: "Nouveau guide",
     description:
-      "Chaque orb dans l'ordre, avec la derniere reservee au nettoyage final.",
+      "Chaque orb dans l’ordre, avec la dernière réservée au nettoyage final.",
     highlight:
-      "A surveiller : la quatorzieme orb ne devient accessible qu'apres les treize premieres.",
+      "À surveiller : la quatorzième orb ne devient accessible qu’après les treize premières.",
     meta: ["14/14 Steam", "14 orbes", "Sans spoiler"],
   },
   {
     id: "final-fantasy-viii-remastered",
+    steamAppId: 1026680,
     title: "FINAL FANTASY VIII - REMASTERED",
     eyebrow: "Final Fantasy",
     subtitle: "G-Forces, cartes et missables dans l'ordre des disques.",
-    count: "34 succes",
+    count: "34 succès",
     file: "final-fantasy-viii-remastered.txt",
     accent: "blue",
     tag: "Nouveau guide",
     description:
       "Junctions, Timber Maniacs, Club de cartes, Doomtrain, UFO, Omega et compteurs.",
     highlight:
-      "A surveiller : les extractions de G-Forces, les cartes et le bateau des SeeD blancs.",
+      "À surveiller : les extractions de G-Forces, les cartes et le bateau des SeeD blancs.",
     meta: ["34/34 Steam", "16 G-Forces", "Anti-missables"],
   },
   {
     id: "streets-of-rage-4",
+    steamAppId: 985890,
     title: "Streets of Rage 4",
     eyebrow: "Dotemu",
     subtitle: "Stages, personnages, rangs et DLC Mr. X Nightmare.",
-    count: "45 succes",
+    count: "45 succès",
     file: "streets-of-rage-4.txt",
     accent: "coral",
     tag: "Nouveau guide",
     description:
-      "Actions des 12 stages, combos, All Clear, bornes retro, Arcade et Survival.",
+      "Actions des 12 stages, combos, All Clear, bornes rétro, Arcade et Survival.",
     highlight:
-      "A surveiller : les campagnes solo par personnage et les mouvements alternatifs du DLC.",
+      "À surveiller : les campagnes solo par personnage et les mouvements alternatifs du DLC.",
     meta: ["45/45 Steam", "Mr. X Nightmare", "Sans spoiler"],
   },
+  {
+    id: "final-fantasy-vii-2013",
+    steamAppId: 39140,
+    title: "FINAL FANTASY VII (2013)",
+    eyebrow: "Final Fantasy",
+    subtitle: "Les 36 succes et les grandes fenetres dans l'ordre.",
+    count: "36 succes",
+    file: "final-fantasy-vii-2013.txt",
+    accent: "gold",
+    tag: "Nouveau guide",
+    description:
+      "Personnages optionnels, limites, Huge Materia, chocobos, Materias maitres et armes du nettoyage.",
+    highlight:
+      "A surveiller : Yuffie, Vincent, Great Gospel, Bahamut Zero et Excalibur des chocobos.",
+    meta: ["36/36 Steam", "2 personnages optionnels", "Sans spoiler"],
+  },
+  {
+    id: "final-fantasy-ix",
+    steamAppId: 377840,
+    title: "FINAL FANTASY IX",
+    eyebrow: "Final Fantasy",
+    subtitle: "La route des 85 succes, ATE et missables.",
+    count: "85 succes",
+    file: "final-fantasy-ix.txt",
+    accent: "blue",
+    tag: "Nouveau guide",
+    description:
+      "Disques, ATE, Tetra Master, Chocobo, grenouilles, monstres amicaux et run Excalibur II.",
+    highlight:
+      "A surveiller : 79 ATE, les quatre Moonstones, 1 000 sauts et la run sous 12 heures.",
+    meta: ["85/85 Steam", "2 parcours", "Sans spoiler"],
+  },
+  {
+    id: "final-fantasy-x-x-2-hd-remaster",
+    steamAppId: 359870,
+    title: "FINAL FANTASY X/X-2 HD Remaster",
+    eyebrow: "Final Fantasy",
+    subtitle: "Les deux jeux et les 69 succes sur une route controlee.",
+    count: "69 succes",
+    file: "final-fantasy-x-x-2-hd-remaster.txt",
+    accent: "coral",
+    tag: "Double parcours",
+    description:
+      "Primers, Aeons, Blitzball, armes celestes, pourcentage X-2, dresspheres et tour optionnelle.",
+    highlight:
+      "A surveiller : les Cloisters, 200 eclairs et le compteur 100 % de X-2.",
+    meta: ["69/69 Steam", "FFX + X-2", "Sans spoiler"],
+  },
+  {
+    id: "final-fantasy-xii-the-zodiac-age",
+    steamAppId: 595520,
+    title: "FINAL FANTASY XII THE ZODIAC AGE",
+    eyebrow: "Final Fantasy",
+    subtitle: "Chasses, cartes, jobs et Bestiaire jusqu'au 100 %.",
+    count: "41 succes",
+    file: "final-fantasy-xii-the-zodiac-age.txt",
+    accent: "blue",
+    tag: "Nouveau guide",
+    description:
+      "Les 12 jobs, les Espers, les 100 Trials, les Magies, Technicks, Concurrences et le Bestiaire.",
+    highlight:
+      "A surveiller : les cartes des zones uniques, le Bestiaire et les chasses optionnelles.",
+    meta: ["41/41 Steam", "100 Trials", "Sans spoiler"],
+  },
+  {
+    id: "final-fantasy-xv-windows-edition",
+    steamAppId: 637650,
+    title: "FINAL FANTASY XV WINDOWS EDITION",
+    eyebrow: "Final Fantasy",
+    subtitle: "Jeu principal, Royal, episodes et Comrades.",
+    count: "97 succes",
+    file: "final-fantasy-xv-windows-edition.txt",
+    accent: "gold",
+    tag: "Guide marathon",
+    description:
+      "Quetes, chasses, activites, Datalog, Royal Pack, quatre episodes et controle du mode Comrades.",
+    highlight:
+      "A surveiller : les 80 quetes, les documents, les scores Royal et la disponibilite de Comrades.",
+    meta: ["97/97 Steam", "DLC inclus", "Online a verifier"],
+  },
+  {
+    id: "a-plague-tale-requiem",
+    steamAppId: 1182900,
+    title: "A Plague Tale: Requiem",
+    eyebrow: "Asobo Studio",
+    subtitle: "Chapitres, collectibles et 35 succes sans spoiler.",
+    count: "35 succes",
+    file: "a-plague-tale-requiem.txt",
+    accent: "coral",
+    tag: "Nouveau guide",
+    description:
+      "Souvenirs, herbier, coffres secrets, objets du sanctuaire, actions de fenetre et competences.",
+    highlight:
+      "A surveiller : les couteaux des coffres, les cones, les couronnes et Old protector.",
+    meta: ["35/35 Steam", "21 souvenirs", "Sans spoiler"],
+  },
 ];
+
+const steamHeaderUrl = (appId: number) =>
+  `https://cdn.akamai.steamstatic.com/steam/apps/${appId}/header.jpg`;
+
+const normalizeCatalogText = (value: string) =>
+  value
+    .normalize("NFD")
+    .replace(/[\u0300-\u036f]/g, "")
+    .toLocaleLowerCase("fr");
 
 function scrollToReader(
   id: string,
   setSelectedId: (value: string) => void,
-  setLoading: (value: boolean) => void,
   setSearch: (value: string) => void,
 ) {
-  setLoading(true);
   setSearch("");
   setSelectedId(id);
   window.requestAnimationFrame(() => {
@@ -400,9 +531,28 @@ export default function Home() {
   const [selectedId, setSelectedId] = useState("expedition-33");
   const [guideText, setGuideText] = useState("");
   const [search, setSearch] = useState("");
+  const [catalogSearch, setCatalogSearch] = useState("");
   const [loading, setLoading] = useState(true);
 
   const selected = guides.find((guide) => guide.id === selectedId) ?? guides[0];
+  const visibleGuides = useMemo(() => {
+    const query = normalizeCatalogText(catalogSearch.trim());
+
+    if (!query) {
+      return guides;
+    }
+
+    return guides.filter((guide) =>
+      [
+        guide.title,
+        guide.eyebrow,
+        guide.subtitle,
+        guide.tag,
+        guide.description,
+        ...guide.meta,
+      ].some((value) => normalizeCatalogText(value).includes(query)),
+    );
+  }, [catalogSearch]);
 
   useEffect(() => {
     const controller = new AbortController();
@@ -549,8 +699,36 @@ export default function Home() {
           </p>
         </div>
 
-        <div className="guide-grid">
-          {guides.map((guide, index) => (
+        <div className="library-tools">
+          <label htmlFor="catalog-search">Trouver un guide</label>
+          <div className="catalog-search-wrap">
+            <span aria-hidden="true">⌕</span>
+            <input
+              id="catalog-search"
+              type="search"
+              placeholder="Ex. Resident Evil, RPG, collectibles..."
+              value={catalogSearch}
+              onChange={(event) => setCatalogSearch(event.target.value)}
+            />
+            {catalogSearch ? (
+              <button
+                className="clear-search"
+                type="button"
+                onClick={() => setCatalogSearch("")}
+                aria-label="Effacer la recherche de guides"
+              >
+                ×
+              </button>
+            ) : null}
+          </div>
+          <span className="catalog-count" aria-live="polite">
+            {visibleGuides.length} guide{visibleGuides.length > 1 ? "s" : ""} sur {guides.length}
+          </span>
+        </div>
+
+        {visibleGuides.length > 0 ? (
+          <div className="guide-grid">
+            {visibleGuides.map((guide, index) => (
             <article
               className={
                 "guide-card guide-card-" +
@@ -560,15 +738,18 @@ export default function Home() {
               key={guide.id}
             >
               <div className="card-top">
-                <span className="card-index">0{index + 1}</span>
+                <span className="card-index">{String(index + 1).padStart(2, "0")}</span>
                 <span className="card-tag">{guide.tag}</span>
               </div>
-              <div className="card-badge" aria-hidden="true">
-                {guide.title
-                  .split(" ")
-                  .slice(0, 2)
-                  .map((word) => word[0])
-                  .join("")}
+              <div className="card-artwork">
+                <img
+                  src={guide.artworkUrl ?? steamHeaderUrl(guide.steamAppId)}
+                  alt={`Illustration officielle de ${guide.title}`}
+                  width={460}
+                  height={215}
+                  loading="lazy"
+                  decoding="async"
+                />
               </div>
               <p className="card-eyebrow">{guide.eyebrow}</p>
               <h3>{guide.title}</h3>
@@ -582,15 +763,31 @@ export default function Home() {
               <button
                 className="card-link"
                 type="button"
-                onClick={() =>
-                  scrollToReader(guide.id, setSelectedId, setLoading, setSearch)
-                }
+                onClick={() => {
+                  if (selected.id !== guide.id) {
+                    setLoading(true);
+                  }
+                  scrollToReader(guide.id, setSelectedId, setSearch);
+                }}
               >
                 Ouvrir la soluce <span aria-hidden="true">↗</span>
               </button>
             </article>
-          ))}
-        </div>
+            ))}
+          </div>
+        ) : (
+          <div className="empty-state" role="status">
+            <strong>Aucun guide ne correspond à cette recherche.</strong>
+            <p>Essaie un autre titre, une série ou un mot-clé.</p>
+            <button
+              className="button button-outline"
+              type="button"
+              onClick={() => setCatalogSearch("")}
+            >
+              Afficher les {guides.length} guides
+            </button>
+          </div>
+        )}
       </section>
 
       <section className="method-section" id="methode">
