@@ -7,13 +7,18 @@
   },
   "scripts": {
     "dev": "vinext dev",
-    "build": "vinext build",
-    "deploy": "npm run build && wrangler deploy --config dist/server/wrangler.json",
+    "build": "node scripts/build-pages.mjs",
+    "deploy": "npm run build && wrangler pages deploy dist/client",
     "start": "vinext start",
-    "test": "npm run build && node --test tests/rendered-html.test.mjs",
+    "test": "npm run build && node --test tests/site-smoke.test.mjs",
     "lint": "eslint . --ignore-pattern dist --ignore-pattern .next",
     "validate:guides": "node scripts/validate-guides.mjs",
     "validate:guides:strict": "node scripts/validate-guides.mjs --strict",
+    "validate:site": "node scripts/validate-site-guardrails.mjs",
+    "validate:site:strict": "node scripts/validate-site-guardrails.mjs --strict-catalog",
+    "validate:pages": "node scripts/validate-pages-output.mjs",
+    "preflight": "node scripts/preflight-pages.mjs",
+    "preflight:strict": "node scripts/preflight-pages.mjs --strict-catalog",
     "db:generate": "drizzle-kit generate"
   },
   "dependencies": {

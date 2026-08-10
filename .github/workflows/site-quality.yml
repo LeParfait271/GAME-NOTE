@@ -1,0 +1,26 @@
+name: Game Note quality
+
+on:
+  push:
+  pull_request:
+
+jobs:
+  quality:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - name: Récupérer le dépôt
+        uses: actions/checkout@v4
+      - name: Utiliser Node.js 22
+        uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+      - name: Installer les dépendances
+        run: npm ci --no-audit --no-fund
+      - name: Vérifier le code
+        run: npm run lint
+      - name: Construire et tester le site
+        run: npm test
+      - name: Exécuter le préflight Pages
+        run: npm run preflight

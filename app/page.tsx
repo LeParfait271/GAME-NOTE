@@ -1,6 +1,6 @@
 "use client";
 
-import { useEffect, useMemo, useState } from "react";
+import { useEffect, useMemo, useRef, useState } from "react";
 
 type Guide = {
   id: string;
@@ -28,12 +28,156 @@ const guides: Guide[] = [
     count: "55 succès",
     file: "expedition-33.txt",
     accent: "coral",
-    tag: "Le plus récent",
+    tag: "Nouveau guide",
     description:
-      "Une progression par actes avec les missables, les relations, les journaux, les disques et les zones optionnelles.",
+      "Actions des 12 stages, combos, All Clear, bornes rétro, Arcade et Survival.",
     highlight:
-      "À surveiller : le prologue, les relations et plusieurs scènes de camp.",
-    meta: ["55/55 Steam", "49 journaux", "33 disques"],
+      "À surveiller : les campagnes solo par personnage et les mouvements alternatifs du DLC.",
+    meta: ["45/45 Steam", "Mr. X Nightmare", "Sans spoiler"],
+  },
+  {
+    id: "final-fantasy-vii-2013",
+    steamAppId: 39140,
+    title: "FINAL FANTASY VII (2013)",
+    eyebrow: "Final Fantasy",
+    subtitle: "Les 36 succes et les grandes fenetres dans l'ordre.",
+    count: "36 succes",
+    file: "final-fantasy-vii-2013.txt",
+    accent: "gold",
+    tag: "Guide marathon",
+    description:
+      "Castellans, tresors, stands de tir, armes, Professional, restrictions et records.",
+    highlight:
+      "A surveiller : les requetes du marchand, les 16 Castellans et les runs S+.",
+    meta: ["46/46 Steam", "16 chapitres", "Sans spoiler"],
+  },
+  {
+    id: "resident-evil-5",
+    steamAppId: 21690,
+    title: "Resident Evil 5",
+    eyebrow: "CAPCOM",
+    subtitle: "Campagne, DLC et cooperation jusqu'au 100 %.",
+    count: "70 succes",
+    file: "resident-evil-5.txt",
+    accent: "coral",
+    tag: "DLC et coop",
+    description:
+      "Emblemes, tresors, armes, Professional, Lost in Nightmares, Reunion et Versus.",
+    highlight:
+      "A surveiller : les 30 emblemes, les ameliorations et la disponibilite des modes en ligne.",
+    meta: ["70/70 Steam", "4 DLC", "Coop a verifier"],
+  },
+  {
+    id: "resident-evil-6",
+    steamAppId: 221040,
+    title: "Resident Evil 6",
+    eyebrow: "CAPCOM",
+    subtitle: "Quatre campagnes, competences et Professional.",
+    count: "70 succes",
+    file: "resident-evil-6.txt",
+    accent: "blue",
+    tag: "Puzzle 100 %",
+    description:
+      "Ordre des chambres, six cartes avancees et trois niveaux de medailles.",
+    highlight:
+      "A surveiller : radios, cameras, salles avancees et medailles des defis.",
+    meta: ["15/15 Steam", "Hors ligne", "Sans spoiler"],
+  },
+  {
+    id: "portal-2",
+    steamAppId: 620,
+    title: "Portal 2",
+    eyebrow: "Valve",
+    subtitle: "Solo puis cinq parcours cooperatifs dans l'ordre.",
+    count: "51 succes",
+    file: "portal-2.txt",
+    accent: "coral",
+    tag: "Solo + coop",
+    description:
+      "Chambres, objets caches, gestes, contraintes de cubes et succes en ligne.",
+    highlight:
+      "A surveiller : partenaire debutant pour Professor Portal et sessions d'actions.",
+    meta: ["51/51 Steam", "Coop en ligne", "Sans spoiler"],
+  },
+  {
+    id: "bioshock-remastered",
+    steamAppId: 409710,
+    title: "BioShock Remastered",
+    eyebrow: "2K Games",
+    subtitle: "Rapture, recherches, petites soeurs et Challenge Rooms.",
+    count: "65 succes",
+    file: "bioshock-remastered.txt",
+    accent: "coral",
+    tag: "Guide complet",
+    description:
+      "Campagne, hacks, recherches, inventions, tonics, fins et trois Challenge Rooms.",
+    highlight:
+      "A surveiller : petites soeurs, recherche par zone, chambre optionnelle et saves de difficulte.",
+    meta: ["65/65 Steam", "DLC inclus", "Sans spoiler"],
+  },
+  {
+    id: "bioshock-2-remastered",
+    steamAppId: 409720,
+    title: "BioShock 2 Remastered",
+    eyebrow: "2K Games",
+    subtitle: "Rapture, ADAM, Protector Trials et Minerva's Den.",
+    count: "53 succes",
+    file: "bioshock-2-remastered.txt",
+    accent: "blue",
+    tag: "Campagne + DLC",
+    description:
+      "Petites soeurs, recherche, armes, difficulte, Trials et Vacuum Bots.",
+    highlight:
+      "A surveiller : Vita-Chambers, recherches, 36 etoiles des Trials et 10 Vacuum Bots.",
+    meta: ["53/53 Steam", "DLC inclus", "Sans spoiler"],
+  },
+  {
+    id: "black-mesa",
+    steamAppId: 362890,
+    title: "Black Mesa",
+    eyebrow: "Crowbar Collective",
+    subtitle: "Campagne complete, Xen, caches et actions techniques.",
+    count: "50 succes",
+    file: "black-mesa.txt",
+    accent: "coral",
+    tag: "Campagne FPS",
+    description:
+      "Route chronologique pour les scientifiques, caches, armes et objectifs Xen.",
+    highlight:
+      "A surveiller : pacifisme, stealth, chrono, choix de fin et objectifs de Xen.",
+    meta: ["50/50 Steam", "Solo", "Sans spoiler"],
+  },
+  {
+    id: "jotun-valhalla-edition",
+    steamAppId: 323580,
+    title: "Jotun: Valhalla Edition",
+    eyebrow: "Thunder Lotus",
+    subtitle: "Boss, sanctuaires, pommes et Valhalla Mode.",
+    count: "36 succes",
+    file: "jotun-valhalla-edition.txt",
+    accent: "blue",
+    tag: "Boss rush",
+    description:
+      "Exploration puis routes dediees pour les combats parfaits, temps et pouvoirs.",
+    highlight:
+      "A surveiller : essais sans pouvoir, parfaits, contre-la-montre et Valhalla.",
+    meta: ["36/36 Steam", "Hors ligne", "Sans spoiler"],
+  },
+  {
+    id: "little-nightmares-ii",
+    steamAppId: 860510,
+    title: "Little Nightmares II",
+    eyebrow: "Tarsier Studios",
+    subtitle: "Cinq chapitres, chapeaux, glitches et actions cachees.",
+    count: "35 succes",
+    file: "little-nightmares-ii.txt",
+    accent: "coral",
+    tag: "Collectibles",
+    description:
+      "Route sans spoiler pour les collectes et les interactions de chaque chapitre.",
+    highlight:
+      "A surveiller : chapeaux, glitches et actions uniques avant chaque transition.",
+    meta: ["35/35 Steam", "Hors ligne", "Sans spoiler"],
   },
   {
     id: "type-0",
@@ -406,22 +550,6 @@ const guides: Guide[] = [
     meta: ["45/45 Steam", "Mr. X Nightmare", "Sans spoiler"],
   },
   {
-    id: "final-fantasy-vii-2013",
-    steamAppId: 39140,
-    title: "FINAL FANTASY VII (2013)",
-    eyebrow: "Final Fantasy",
-    subtitle: "Les 36 succes et les grandes fenetres dans l'ordre.",
-    count: "36 succes",
-    file: "final-fantasy-vii-2013.txt",
-    accent: "gold",
-    tag: "Nouveau guide",
-    description:
-      "Personnages optionnels, limites, Huge Materia, chocobos, Materias maitres et armes du nettoyage.",
-    highlight:
-      "A surveiller : Yuffie, Vincent, Great Gospel, Bahamut Zero et Excalibur des chocobos.",
-    meta: ["36/36 Steam", "2 personnages optionnels", "Sans spoiler"],
-  },
-  {
     id: "final-fantasy-ix",
     steamAppId: 377840,
     title: "FINAL FANTASY IX",
@@ -644,38 +772,6 @@ const guides: Guide[] = [
     highlight:
       "A surveiller : les requetes du marchand, les 16 Castellans et les runs S+.",
     meta: ["46/46 Steam", "16 chapitres", "Sans spoiler"],
-  },
-  {
-    id: "resident-evil-5",
-    steamAppId: 21690,
-    title: "Resident Evil 5",
-    eyebrow: "CAPCOM",
-    subtitle: "Campagne, DLC et cooperation jusqu'au 100 %.",
-    count: "70 succes",
-    file: "resident-evil-5.txt",
-    accent: "coral",
-    tag: "DLC et coop",
-    description:
-      "Emblemes, tresors, armes, Professional, Lost in Nightmares, Reunion et Versus.",
-    highlight:
-      "A surveiller : les 30 emblemes, les ameliorations et la disponibilite des modes en ligne.",
-    meta: ["70/70 Steam", "4 DLC", "Coop a verifier"],
-  },
-  {
-    id: "resident-evil-6",
-    steamAppId: 221040,
-    title: "Resident Evil 6",
-    eyebrow: "CAPCOM",
-    subtitle: "Quatre campagnes, competences et Professional.",
-    count: "70 succes",
-    file: "resident-evil-6.txt",
-    accent: "blue",
-    tag: "Quatre campagnes",
-    description:
-      "Leon, Chris, Jake, Ada, emblemes, titres, Mercenaries et records de partenaire.",
-    highlight:
-      "A surveiller : les emblemes par campagne et les competences avant Professional.",
-    meta: ["70/70 Steam", "80 emblemes", "Sans spoiler"],
   },
   {
     id: "resident-evil-7",
@@ -965,22 +1061,6 @@ const guides: Guide[] = [
       "A surveiller : radios, cameras, salles avancees et medailles des defis.",
     meta: ["15/15 Steam", "Hors ligne", "Sans spoiler"],
   },
-  {
-    id: "portal-2",
-    steamAppId: 620,
-    title: "Portal 2",
-    eyebrow: "Valve",
-    subtitle: "Solo puis cinq parcours cooperatifs dans l'ordre.",
-    count: "51 succes",
-    file: "portal-2.txt",
-    accent: "coral",
-    tag: "Solo + coop",
-    description:
-      "Chambres, objets caches, gestes, contraintes de cubes et succes en ligne.",
-    highlight:
-      "A surveiller : partenaire debutant pour Professor Portal et sessions d'actions.",
-    meta: ["51/51 Steam", "Coop en ligne", "Sans spoiler"],
-  },
 ];
 
 const steamHeaderUrl = (appId: number) =>
@@ -992,6 +1072,49 @@ const normalizeCatalogText = (value: string) =>
     .replace(/[\u0300-\u036f]/g, "")
     .toLocaleLowerCase("fr");
 
+type Theme = "light" | "dark";
+
+type StoredPreferences = {
+  theme?: Theme;
+  catalogSearch?: string;
+};
+
+const FAVORITES_KEY = "game-note-favorites";
+const PREFERENCES_KEY = "game-note-preferences";
+
+function readStoredFavorites() {
+  if (typeof window === "undefined") {
+    return [];
+  }
+
+  try {
+    const value = JSON.parse(window.localStorage.getItem(FAVORITES_KEY) ?? "[]");
+    return Array.isArray(value)
+      ? value.filter(
+          (id): id is string =>
+            typeof id === "string" && guides.some((guide) => guide.id === id),
+        )
+      : [];
+  } catch {
+    return [];
+  }
+}
+
+function readStoredPreferences(): StoredPreferences {
+  if (typeof window === "undefined") {
+    return {};
+  }
+
+  try {
+    const value = JSON.parse(
+      window.localStorage.getItem(PREFERENCES_KEY) ?? "{}",
+    );
+    return value && typeof value === "object" ? value : {};
+  } catch {
+    return {};
+  }
+}
+
 function scrollToReader(
   id: string,
   setSelectedId: (value: string) => void,
@@ -999,6 +1122,11 @@ function scrollToReader(
 ) {
   setSearch("");
   setSelectedId(id);
+  const url = new URL(window.location.href);
+  url.searchParams.delete("view");
+  url.searchParams.set("guide", id);
+  url.hash = "reader";
+  window.history.replaceState(null, "", url);
   window.requestAnimationFrame(() => {
     document.getElementById("reader")?.scrollIntoView({
       behavior: "smooth",
@@ -1013,26 +1141,148 @@ export default function Home() {
   const [search, setSearch] = useState("");
   const [catalogSearch, setCatalogSearch] = useState("");
   const [loading, setLoading] = useState(true);
+  const [favorites, setFavorites] = useState<string[]>([]);
+  const [favoritesOnly, setFavoritesOnly] = useState(false);
+  const [theme, setTheme] = useState<Theme>("light");
+  const [isOnline, setIsOnline] = useState(true);
+  const [preferencesReady, setPreferencesReady] = useState(false);
+  const catalogSearchRef = useRef<HTMLInputElement>(null);
+  const guideSearchRef = useRef<HTMLInputElement>(null);
 
   const selected = guides.find((guide) => guide.id === selectedId) ?? guides[0];
+  const favoriteSet = useMemo(() => new Set(favorites), [favorites]);
   const visibleGuides = useMemo(() => {
     const query = normalizeCatalogText(catalogSearch.trim());
 
-    if (!query) {
-      return guides;
-    }
+    return guides.filter((guide) => {
+      if (favoritesOnly && !favoriteSet.has(guide.id)) {
+        return false;
+      }
 
-    return guides.filter((guide) =>
-      [
+      if (!query) {
+        return true;
+      }
+
+      return [
         guide.title,
         guide.eyebrow,
         guide.subtitle,
         guide.tag,
         guide.description,
         ...guide.meta,
-      ].some((value) => normalizeCatalogText(value).includes(query)),
-    );
-  }, [catalogSearch]);
+      ].some((value) => normalizeCatalogText(value).includes(query));
+    });
+  }, [catalogSearch, favoriteSet, favoritesOnly]);
+
+  // These values come from browser-only storage and must hydrate after the static shell mounts.
+  /* eslint-disable react-hooks/set-state-in-effect */
+  useEffect(() => {
+    const storedPreferences = readStoredPreferences();
+    const storedTheme =
+      storedPreferences.theme === "dark" || storedPreferences.theme === "light"
+        ? storedPreferences.theme
+        : undefined;
+    const preferredTheme =
+      storedTheme ??
+      (window.matchMedia?.("(prefers-color-scheme: dark)")?.matches
+        ? "dark"
+        : "light");
+    const url = new URL(window.location.href);
+    const requestedGuide = url.searchParams.get("guide");
+    const requestedSearch = url.searchParams.get("q");
+
+    setFavorites(readStoredFavorites());
+    setTheme(preferredTheme);
+    setCatalogSearch(requestedSearch ?? storedPreferences.catalogSearch ?? "");
+    if (requestedGuide && guides.some((guide) => guide.id === requestedGuide)) {
+      setSelectedId(requestedGuide);
+    }
+    if (url.searchParams.get("view") === "favorites") {
+      setFavoritesOnly(true);
+    }
+    setIsOnline(window.navigator.onLine);
+    setPreferencesReady(true);
+  }, []);
+  /* eslint-enable react-hooks/set-state-in-effect */
+
+  useEffect(() => {
+    if (!preferencesReady) {
+      return;
+    }
+
+    try {
+      window.localStorage.setItem(FAVORITES_KEY, JSON.stringify(favorites));
+    } catch {
+      // Local storage can be disabled in private browsing.
+    }
+  }, [favorites, preferencesReady]);
+
+  useEffect(() => {
+    document.documentElement.dataset.theme = theme;
+    document.documentElement.style.colorScheme = theme;
+
+    if (!preferencesReady) {
+      return;
+    }
+
+    try {
+      window.localStorage.setItem(
+        PREFERENCES_KEY,
+        JSON.stringify({ theme, catalogSearch }),
+      );
+    } catch {
+      // Local storage can be disabled in private browsing.
+    }
+  }, [catalogSearch, preferencesReady, theme]);
+
+  useEffect(() => {
+    const updateOnlineState = () => setIsOnline(window.navigator.onLine);
+    window.addEventListener("online", updateOnlineState);
+    window.addEventListener("offline", updateOnlineState);
+    return () => {
+      window.removeEventListener("online", updateOnlineState);
+      window.removeEventListener("offline", updateOnlineState);
+    };
+  }, []);
+
+  useEffect(() => {
+    const handleKeyboardShortcut = (event: KeyboardEvent) => {
+      const target = event.target;
+      const isTyping =
+        target instanceof HTMLElement &&
+        (target.tagName === "INPUT" ||
+          target.tagName === "TEXTAREA" ||
+          target.tagName === "SELECT" ||
+          target.isContentEditable);
+
+      if (
+        (event.metaKey || event.ctrlKey) &&
+        event.key.toLowerCase() === "k"
+      ) {
+        event.preventDefault();
+        catalogSearchRef.current?.focus();
+        return;
+      }
+
+      if (event.key === "/" && !isTyping) {
+        event.preventDefault();
+        guideSearchRef.current?.focus();
+        return;
+      }
+
+      if (event.key === "Escape") {
+        if (document.activeElement === catalogSearchRef.current) {
+          setCatalogSearch("");
+        }
+        if (document.activeElement === guideSearchRef.current) {
+          setSearch("");
+        }
+      }
+    };
+
+    window.addEventListener("keydown", handleKeyboardShortcut);
+    return () => window.removeEventListener("keydown", handleKeyboardShortcut);
+  }, []);
 
   useEffect(() => {
     const controller = new AbortController();
@@ -1055,7 +1305,11 @@ export default function Home() {
           );
         }
       })
-      .finally(() => setLoading(false));
+      .finally(() => {
+        if (!controller.signal.aborted) {
+          setLoading(false);
+        }
+      });
 
     return () => controller.abort();
   }, [selected.file]);
@@ -1079,12 +1333,64 @@ export default function Home() {
 
     return guideText
       .split(/\r?\n/)
-      .filter((line) => line.toLocaleLowerCase("fr").includes(normalizedSearch))
+      .filter((line) => normalizeCatalogText(line).includes(normalizedSearch))
       .join("\n");
   }, [guideText, normalizedSearch]);
 
+  const toggleFavorite = (id: string) => {
+    setFavorites((current) =>
+      current.includes(id)
+        ? current.filter((favoriteId) => favoriteId !== id)
+        : [...current, id],
+    );
+  };
+
+  const toggleTheme = () => {
+    setTheme((current) => (current === "dark" ? "light" : "dark"));
+  };
+
+  const showFavorites = () => {
+    setFavoritesOnly(true);
+    const url = new URL(window.location.href);
+    url.searchParams.set("view", "favorites");
+    url.hash = "guides";
+    window.history.replaceState(null, "", url);
+    document.getElementById("guides")?.scrollIntoView({
+      behavior: "smooth",
+      block: "start",
+    });
+  };
+
+  const showAllGuides = () => {
+    setFavoritesOnly(false);
+    const url = new URL(window.location.href);
+    url.searchParams.delete("view");
+    window.history.replaceState(null, "", url);
+  };
+
   return (
-    <main className="site-shell">
+    <main
+      className={"site-shell theme-" + theme}
+      id="main-content"
+      tabIndex={-1}
+    >
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{
+          __html: JSON.stringify({
+            "@context": "https://schema.org",
+            "@type": "WebSite",
+            name: "Game Note",
+            url: "https://game-note.pages.dev/",
+            inLanguage: "fr-FR",
+            description:
+              "Des soluces chronologiques pour jouer sans rater les succès, quêtes et collectibles.",
+          }),
+        }}
+      />
+      <a className="skip-link" href="#main-content">
+        Aller au contenu
+      </a>
       <header className="topbar">
         <a className="brand" href="#top" aria-label="Game Note, accueil">
           <span className="brand-mark">GN</span>
@@ -1103,11 +1409,55 @@ export default function Home() {
           <a href="#reader">Lire une soluce</a>
         </nav>
 
-        <div className="topbar-status">
-          <span className="status-dot" aria-hidden="true" />
-          <span>{guides.length} guides disponibles</span>
+        <div className="topbar-actions">
+          <button
+            className="topbar-action"
+            type="button"
+            aria-pressed={favoritesOnly}
+            aria-label="Afficher les guides favoris"
+            title="Afficher les favoris"
+            onClick={showFavorites}
+          >
+            <span aria-hidden="true">♥</span>
+            <strong>{favorites.length}</strong>
+            <span className="topbar-action-label">favoris</span>
+          </button>
+          <button
+            className="topbar-action"
+            type="button"
+            aria-label={
+              theme === "dark"
+                ? "Activer le thème clair"
+                : "Activer le thème sombre"
+            }
+            title="Changer le thème"
+            onClick={toggleTheme}
+          >
+            <span aria-hidden="true">{theme === "dark" ? "☼" : "☾"}</span>
+            <span className="topbar-action-label">
+              {theme === "dark" ? "jour" : "nuit"}
+            </span>
+          </button>
+          <div className="topbar-status">
+            <span
+              className={"status-dot" + (isOnline ? "" : " status-dot-offline")}
+              aria-hidden="true"
+            />
+            <span>
+              {isOnline
+                ? guides.length + " guides disponibles"
+                : "Hors ligne · guides en cache"}
+            </span>
+          </div>
         </div>
       </header>
+
+      {!isOnline ? (
+        <div className="offline-banner" role="status" aria-live="polite">
+          <span aria-hidden="true">●</span>
+          Tu es hors ligne : les guides déjà ouverts et les TXT restent accessibles.
+        </div>
+      ) : null}
 
       <section className="hero" id="top">
         <div className="hero-copy">
@@ -1185,9 +1535,11 @@ export default function Home() {
             <span aria-hidden="true">⌕</span>
             <input
               id="catalog-search"
+              ref={catalogSearchRef}
               type="search"
               placeholder="Ex. Resident Evil, RPG, collectibles..."
               value={catalogSearch}
+              aria-keyshortcuts="Control+K Meta+K"
               onChange={(event) => setCatalogSearch(event.target.value)}
             />
             {catalogSearch ? (
@@ -1200,6 +1552,24 @@ export default function Home() {
                 ×
               </button>
             ) : null}
+          </div>
+          <div className="library-filters" aria-label="Filtrer la bibliothèque">
+            <button
+              className="filter-button"
+              type="button"
+              aria-pressed={!favoritesOnly}
+              onClick={showAllGuides}
+            >
+              Tous
+            </button>
+            <button
+              className="filter-button"
+              type="button"
+              aria-pressed={favoritesOnly}
+              onClick={showFavorites}
+            >
+              Favoris ({favorites.length})
+            </button>
           </div>
           <span className="catalog-count" aria-live="polite">
             {visibleGuides.length} guide{visibleGuides.length > 1 ? "s" : ""} sur {guides.length}
@@ -1220,6 +1590,27 @@ export default function Home() {
               <div className="card-top">
                 <span className="card-index">{String(index + 1).padStart(2, "0")}</span>
                 <span className="card-tag">{guide.tag}</span>
+                <button
+                  className={
+                    "favorite-toggle" +
+                    (favoriteSet.has(guide.id) ? " is-active" : "")
+                  }
+                  type="button"
+                  aria-pressed={favoriteSet.has(guide.id)}
+                  aria-label={
+                    favoriteSet.has(guide.id)
+                      ? "Retirer " + guide.title + " des favoris"
+                      : "Ajouter " + guide.title + " aux favoris"
+                  }
+                  title={
+                    favoriteSet.has(guide.id)
+                      ? "Retirer des favoris"
+                      : "Ajouter aux favoris"
+                  }
+                  onClick={() => toggleFavorite(guide.id)}
+                >
+                  {favoriteSet.has(guide.id) ? "♥" : "♡"}
+                </button>
               </div>
               <div className="card-artwork">
                 {/* eslint-disable-next-line @next/next/no-img-element */}
@@ -1321,9 +1712,11 @@ export default function Home() {
             <span aria-hidden="true">⌕</span>
             <input
               id="guide-search"
+              ref={guideSearchRef}
               type="search"
               placeholder="ex. succès, chapitre, missable..."
               value={search}
+              aria-keyshortcuts="/"
               onChange={(event) => setSearch(event.target.value)}
             />
             {search ? (
@@ -1358,10 +1751,48 @@ export default function Home() {
               Chargement de la soluce...
             </div>
           ) : (
-            <pre className="guide-text">{visibleText}</pre>
+            <pre className="guide-text" aria-label={"Texte du guide " + selected.title}>
+              {visibleText}
+            </pre>
           )}
         </div>
       </section>
+
+      <nav className="mobile-bottom-nav" aria-label="Navigation mobile">
+        <a href="#top">
+          <span aria-hidden="true">⌂</span>
+          <small>Accueil</small>
+        </a>
+        <a href="#guides">
+          <span aria-hidden="true">▦</span>
+          <small>Guides</small>
+        </a>
+        <button
+          type="button"
+          aria-pressed={favoritesOnly}
+          aria-label="Afficher les favoris"
+          onClick={showFavorites}
+        >
+          <span aria-hidden="true">♥</span>
+          <small>Favoris</small>
+        </button>
+        <a href="#reader">
+          <span aria-hidden="true">▤</span>
+          <small>Lire</small>
+        </a>
+        <button
+          type="button"
+          aria-label={
+            theme === "dark"
+              ? "Activer le thème clair"
+              : "Activer le thème sombre"
+          }
+          onClick={toggleTheme}
+        >
+          <span aria-hidden="true">{theme === "dark" ? "☼" : "☾"}</span>
+          <small>{theme === "dark" ? "Jour" : "Nuit"}</small>
+        </button>
+      </nav>
 
       <footer className="site-footer">
         <div className="footer-brand">

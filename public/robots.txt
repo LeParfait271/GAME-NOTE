@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://game-note.pages.dev/sitemap.xml

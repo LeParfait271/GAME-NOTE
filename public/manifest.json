@@ -1,0 +1,32 @@
+{
+  "name": "Game Note",
+  "short_name": "Game Note",
+  "description": "Guides de jeux chronologiques, sans spoiler, disponibles hors-ligne",
+  "id": "/",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "display_override": ["window-controls-overlay", "standalone", "browser"],
+  "orientation": "portrait-primary",
+  "background_color": "#f5f1e9",
+  "theme_color": "#173b53",
+  "lang": "fr",
+  "categories": ["games", "books", "utilities"],
+  "icons": [{ "src": "favicon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }],
+  "shortcuts": [
+    {
+      "name": "Mes favoris",
+      "short_name": "Favoris",
+      "url": "/?view=favorites#guides",
+      "description": "Ouvrir les guides sauvegardés",
+      "icons": [{ "src": "favicon.svg", "sizes": "any", "type": "image/svg+xml" }]
+    },
+    {
+      "name": "Rechercher un guide",
+      "short_name": "Recherche",
+      "url": "/#guides",
+      "description": "Trouver un jeu dans la bibliothèque",
+      "icons": [{ "src": "favicon.svg", "sizes": "any", "type": "image/svg+xml" }]
+    }
+  ]
+}
