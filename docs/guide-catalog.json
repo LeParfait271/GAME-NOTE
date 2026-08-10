@@ -1,0 +1,29 @@
+{
+  "project": "Game Note",
+  "language": "fr",
+  "guidePolicy": "chronological-100-steam-no-story-spoilers",
+  "entries": [
+    { "id": "octopath-traveler-1", "title": "Octopath Traveler", "scope": "full-guide", "status": "draft", "file": "public/guides/octopath-traveler-1.txt" },
+    { "id": "octopath-traveler-2", "title": "Octopath Traveler II", "scope": "full-guide", "status": "planned", "file": "public/guides/octopath-traveler-2.txt" },
+    { "id": "final-fantasy-iv-the-after-years", "title": "FINAL FANTASY IV: THE AFTER YEARS", "scope": "full-guide", "status": "planned", "file": "public/guides/final-fantasy-iv-the-after-years.txt" },
+    { "id": "divided-reigns", "title": "Divided Reigns", "scope": "full-guide", "status": "planned", "file": "public/guides/divided-reigns.txt" },
+    { "id": "final-fantasy-type-0-hd", "title": "FINAL FANTASY TYPE-0 HD", "scope": "full-guide", "status": "draft", "file": "public/guides/final-fantasy-type-0-hd.txt" },
+    { "id": "expedition-33", "title": "Clair Obscur: Expedition 33", "scope": "full-guide", "status": "draft", "file": "public/guides/expedition-33.txt" },
+    { "id": "hellblade-senuas-sacrifice", "title": "Hellblade: Senua's Sacrifice", "scope": "full-guide", "status": "planned", "file": "public/guides/hellblade-senuas-sacrifice.txt" },
+    { "id": "red-dead-redemption-2", "title": "Red Dead Redemption 2", "scope": "full-guide", "status": "planned", "file": "public/guides/red-dead-redemption-2.txt" },
+    { "id": "breath-of-fire-iv", "title": "Breath of Fire IV", "scope": "full-guide", "status": "planned", "file": "public/guides/breath-of-fire-iv.txt" },
+    { "id": "titan-quest-anniversary-edition", "title": "Titan Quest Anniversary Edition", "scope": "full-guide", "status": "planned", "file": "public/guides/titan-quest-anniversary-edition.txt" },
+    { "id": "star-wars-jedi-survivor", "title": "STAR WARS Jedi: Survivor", "scope": "full-guide", "status": "planned", "file": "public/guides/star-wars-jedi-survivor.txt" },
+    { "id": "chrono-trigger", "title": "CHRONO TRIGGER", "scope": "full-guide", "status": "planned", "file": "public/guides/chrono-trigger.txt" },
+    { "id": "chrono-cross-the-radical-dreamers-edition", "title": "CHRONO CROSS: THE RADICAL DREAMERS EDITION", "scope": "full-guide", "status": "planned", "file": "public/guides/chrono-cross-the-radical-dreamers-edition.txt" },
+    { "id": "grandia-ii-hd-remaster", "title": "GRANDIA II HD Remaster", "scope": "full-guide", "status": "planned", "file": "public/guides/grandia-ii-hd-remaster.txt" },
+    { "id": "ori-and-the-will-of-the-wisps", "title": "Ori and the Will of the Wisps", "scope": "full-guide", "status": "planned", "file": "public/guides/ori-and-the-will-of-the-wisps.txt" },
+    { "id": "gris", "title": "GRIS", "scope": "full-guide", "status": "planned", "file": "public/guides/gris.txt" },
+    { "id": "titan-quest-2", "title": "Titan Quest II", "scope": "hold", "status": "hold", "file": null, "reason": "Accès anticipé : campagne, systèmes et contenu susceptibles de changer." },
+    { "id": "rocket-league", "title": "Rocket League", "scope": "excluded", "status": "excluded", "file": null, "reason": "Jeu compétitif sans route chronologique de soluce." },
+    { "id": "dota-underlords", "title": "Dota Underlords", "scope": "excluded", "status": "excluded", "file": null, "reason": "Autobattler sans campagne chronologique." },
+    { "id": "brotato", "title": "Brotato", "scope": "excluded", "status": "excluded", "file": null, "reason": "Roguelite à runs : une roadmap succès séparée serait plus adaptée." },
+    { "id": "dota-2", "title": "Dota 2", "scope": "excluded", "status": "excluded", "file": null, "reason": "Jeu compétitif sans parcours chronologique." },
+    { "id": "final-fantasy-vii-ever-crisis", "title": "FINAL FANTASY VII EVER CRISIS", "scope": "excluded", "status": "excluded", "file": null, "reason": "Jeu-service et contenu évolutif, sans route 100 % stable." }
+  ]
+}

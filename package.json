@@ -12,6 +12,8 @@
     "start": "vinext start",
     "test": "npm run build && node --test tests/rendered-html.test.mjs",
     "lint": "eslint . --ignore-pattern dist --ignore-pattern .next",
+    "validate:guides": "node scripts/validate-guides.mjs",
+    "validate:guides:strict": "node scripts/validate-guides.mjs --strict",
     "db:generate": "drizzle-kit generate"
   },
   "dependencies": {

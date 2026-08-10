@@ -1,0 +1,23 @@
+{
+  "checkedAt": "2026-08-10",
+  "sourcePolicy": "Steam store page first; achievement conditions still require a second source during each guide audit.",
+  "games": [
+    { "id": "octopath-traveler-1", "appId": 921570, "steamAchievements": 88, "guideType": "100-steam", "source": "https://store.steampowered.com/app/921570/OCTOPATH_TRAVELER/" },
+    { "id": "octopath-traveler-2", "appId": 1971650, "steamAchievements": 33, "guideType": "100-steam", "source": "https://store.steampowered.com/app/1971650/OCTOPATH_TRAVELER_II/" },
+    { "id": "final-fantasy-iv-the-after-years", "appId": 346830, "steamAchievements": 50, "guideType": "100-steam", "source": "https://store.steampowered.com/app/346830/FINAL_FANTASY_IV_THE_AFTER_YEARS/" },
+    { "id": "divided-reigns", "appId": 1139160, "steamAchievements": 40, "guideType": "100-steam", "source": "https://store.steampowered.com/app/1139160/Divided_Reigns/" },
+    { "id": "final-fantasy-type-0-hd", "appId": 340170, "steamAchievements": 49, "guideType": "100-steam", "source": "https://store.steampowered.com/app/340170/FINAL_FANTASY_TYPE0_HD/" },
+    { "id": "expedition-33", "appId": 1903340, "steamAchievements": 55, "guideType": "100-steam", "source": "https://store.steampowered.com/app/1903340/Clair_Obscur_Expedition_33/" },
+    { "id": "hellblade-senuas-sacrifice", "appId": 414340, "steamAchievements": 14, "guideType": "100-steam", "source": "https://store.steampowered.com/app/414340/Hellblade_Senuas_Sacrifice/" },
+    { "id": "red-dead-redemption-2", "appId": 1174180, "steamAchievements": 51, "guideType": "100-steam-plus-online", "source": "https://store.steampowered.com/app/1174180/Red_Dead_Redemption_2/" },
+    { "id": "breath-of-fire-iv", "appId": 4249150, "steamAchievements": 0, "guideType": "complete-walkthrough-no-steam-achievements", "source": "https://store.steampowered.com/app/4249150/Breath_of_Fire_IV/" },
+    { "id": "titan-quest-anniversary-edition", "appId": 475150, "steamAchievements": 115, "guideType": "100-steam", "source": "https://store.steampowered.com/app/475150/Titan_Quest_Anniversary_Edition/" },
+    { "id": "star-wars-jedi-survivor", "appId": 1774580, "steamAchievements": 53, "guideType": "100-steam", "source": "https://store.steampowered.com/app/1774580/STAR_WARS_Jedi_Survivor/" },
+    { "id": "chrono-trigger", "appId": 613830, "steamAchievements": 13, "guideType": "100-steam", "source": "https://store.steampowered.com/app/613830/CHRONO_TRIGGER/" },
+    { "id": "chrono-cross-the-radical-dreamers-edition", "appId": 1133760, "steamAchievements": 37, "guideType": "100-steam", "source": "https://store.steampowered.com/app/1133760/CHRONO_CROSS_THE_RADICAL_DREAMERS_EDITION/" },
+    { "id": "grandia-ii-hd-remaster", "appId": 330390, "steamAchievements": 36, "guideType": "100-steam", "source": "https://store.steampowered.com/app/330390/GRANDIA_II_HD_Remaster/" },
+    { "id": "ori-and-the-will-of-the-wisps", "appId": 1057090, "steamAchievements": 37, "guideType": "100-steam", "source": "https://store.steampowered.com/app/1057090/ori_and_the_will_of_the_wisps/" },
+    { "id": "gris", "appId": 683320, "steamAchievements": 17, "guideType": "100-steam", "source": "https://store.steampowered.com/app/683320/GRIS/" },
+    { "id": "titan-quest-2", "appId": 1154030, "steamAchievements": 0, "guideType": "hold-early-access", "source": "https://store.steampowered.com/app/1154030/Titan_Quest_II/" }
+  ]
+}
