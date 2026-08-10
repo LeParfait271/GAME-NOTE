@@ -1,10 +1,11 @@
-import { access } from "node:fs/promises";
+import { access, rm } from "node:fs/promises";
 import { spawn } from "node:child_process";
 import { fileURLToPath } from "node:url";
 import { join, resolve } from "node:path";
 
 const ROOT = resolve(fileURLToPath(new URL("..", import.meta.url)));
 const OUTPUT_DIR = join(ROOT, "dist", "client");
+const OUTPUT_WRANGLER_CONFIG = join(ROOT, "dist", "server", "wrangler.json");
 const VINEXT_CLI = join(ROOT, "node_modules", "vinext", "dist", "cli.js");
 
 const result = await new Promise((resolveBuild, rejectBuild) => {
@@ -42,6 +43,11 @@ if (result.code !== 0 && !toleratedPostBuildExit) {
   process.exit(result.code ?? 1);
 }
 if (!outputExists) throw new Error("Le build Pages n'a pas produit dist/client/index.html.");
+
+// Vinext's Cloudflare plugin must run for the build, but its generated Worker
+// config is incompatible with this project's static Cloudflare Pages deploy.
+// Keep the Pages config in the repository as the only deploy configuration.
+await rm(OUTPUT_WRANGLER_CONFIG, { force: true });
 
 await import("./prepare-pages-output.mjs");
 await import("./validate-pages-output.mjs");
