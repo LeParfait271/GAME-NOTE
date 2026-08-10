@@ -59,6 +59,8 @@ soluce chronologique classique n'apporterait rien.
 - Tomb Raider (2013)
 - Rise of the Tomb Raider
 - Shadow of the Tomb Raider: Definitive Edition
+- Hogwarts Legacy
+- Marvel's Guardians of the Galaxy
 
 ## Futurs guides chronologiques (`planned`)
 
@@ -76,8 +78,6 @@ soluce chronologique classique n'apporterait rien.
 - Assassin's Creed Origins
 - Assassin's Creed Odyssey
 - Assassin's Creed Valhalla
-- Hogwarts Legacy
-- Marvel's Guardians of the Galaxy
 - Tomb Raider I
 - Tomb Raider II
 - Tomb Raider III: Adventures of Lara Croft

@@ -452,3 +452,25 @@ conditions difficiles ; elles ne justifient jamais une copie mot a mot.
 - DLC et sept tombeaux : https://store.steampowered.com/dlc/750920/Shadow_of_the_Tomb_Raider_Definitive_Edition/
 - Points verifies : 100 % des zones principales, actions manquables,
   difficultes cumulatives, Deadly Obsession et sept tombeaux DLC.
+
+## HOGWARTS LEGACY
+
+- Steam, liste officielle des 45 succes :
+  https://steamcommunity.com/stats/990080/achievements
+- AppID et perimetre hors ligne :
+  https://steamdb.info/app/990080/stats/
+- Guide de verification des quatre routes de maison :
+  https://steamcommunity.com/sharedfiles/filedetails/?id=2929892913
+- Points verifies : collections, Merlin, Demiguise, missions, talents,
+  sorts, animaux, plantes, potions, arenes et quatre succes de maison.
+
+## MARVEL'S GUARDIANS OF THE GALAXY
+
+- Steam, liste officielle des 59 succes :
+  https://steamcommunity.com/stats/1088850/achievements
+- AppID et categorie solo :
+  https://steamdb.info/app/1088850/stats/
+- Guide de verification des objets et sauvegardes :
+  https://steamcommunity.com/sharedfiles/filedetails/?id=2714304602
+- Points verifies : 16 chapitres, tenues, objets de Gardiens, archives,
+  compendium, aptitudes, combats et paiement de l'amende du chapitre 6.

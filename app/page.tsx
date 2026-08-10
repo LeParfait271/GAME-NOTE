@@ -821,6 +821,38 @@ const guides: Guide[] = [
       "A surveiller : les actions ennemies avant la fin et les quatre difficultes.",
     meta: ["99/99 Steam", "7 tombeaux DLC", "Sans spoiler"],
   },
+  {
+    id: "hogwarts-legacy",
+    steamAppId: 990080,
+    title: "Hogwarts Legacy",
+    eyebrow: "Avalanche Software",
+    subtitle: "Collections, missions et quatre maisons sans spoiler.",
+    count: "45 succes",
+    file: "hogwarts-legacy.txt",
+    accent: "blue",
+    tag: "Route 100 %",
+    description:
+      "Sorts, talents, Merlin, Demiguise, collections, elevage et mini-routes de maisons.",
+    highlight:
+      "A surveiller : les quatre succes de maison jusqu'a Jackdaw's Rest.",
+    meta: ["45/45 Steam", "4 maisons", "Sans spoiler"],
+  },
+  {
+    id: "marvels-guardians-of-the-galaxy",
+    steamAppId: 1088850,
+    title: "Marvel's Guardians of the Galaxy",
+    eyebrow: "Eidos-Montreal",
+    subtitle: "16 chapitres, collectibles et capacites en continu.",
+    count: "59 succes",
+    file: "marvels-guardians-of-the-galaxy.txt",
+    accent: "coral",
+    tag: "Collectibles et combat",
+    description:
+      "Tenues, objets de Gardiens, archives, compendium, capacites et actions de combat.",
+    highlight:
+      "A surveiller : la sauvegarde continue, les objets de chapitre et l'amende du chapitre 6.",
+    meta: ["59/59 Steam", "Hors ligne", "Sans spoiler"],
+  },
 ];
 
 const steamHeaderUrl = (appId: number) =>

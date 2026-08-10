@@ -52,6 +52,8 @@
     { "id": "tomb-raider-2013", "appId": 203160, "steamAchievements": 50, "guideType": "100-steam-campaign-multiplayer", "source": "https://steamcommunity.com/stats/TombRaider/achievements" },
     { "id": "rise-of-the-tomb-raider", "appId": 391220, "steamAchievements": 143, "guideType": "100-steam-plus-dlc-coop", "source": "https://steamcommunity.com/stats/391220/achievements" },
     { "id": "shadow-of-the-tomb-raider", "appId": 750920, "steamAchievements": 99, "guideType": "100-steam-plus-seven-dlc", "source": "https://steamcommunity.com/stats/750920/achievements" },
+    { "id": "hogwarts-legacy", "appId": 990080, "steamAchievements": 45, "guideType": "100-steam-four-house-routes", "source": "https://steamcommunity.com/stats/990080/achievements" },
+    { "id": "marvels-guardians-of-the-galaxy", "appId": 1088850, "steamAchievements": 59, "guideType": "100-steam-collectibles-combat", "source": "https://steamcommunity.com/stats/1088850/achievements" },
     { "id": "titan-quest-2", "appId": 1154030, "steamAchievements": 0, "guideType": "hold-early-access", "source": "https://store.steampowered.com/app/1154030/Titan_Quest_II/" }
   ]
 }
