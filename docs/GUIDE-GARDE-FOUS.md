@@ -17,6 +17,22 @@ terminés.
 
 ## Promesse de chaque guide actif
 
+### Regle absolue : sans spoiler
+
+Tous les guides Game Note, sans exception, sont rediges sans spoiler d'histoire.
+Cette regle s'applique aussi aux jeux a fins multiples, aux guides de succes
+et aux sections post-game. Il est interdit de reveler une mort, une identite,
+une trahison, une fin, un twist, la resolution d'une quete ou la consequence
+narrative d'un choix. Les noms de lieux, de missions, de boss, de personnages
+et de succes sont autorises uniquement quand ils servent a se reperer.
+
+Une condition de succes est formulee par son action de jeu, son emplacement,
+son ordre et son effet mecanique. Si un intitulé impose un nom narratif, le nom
+est conserve sans commentaire scenaristique. Aucun guide ne doit contenir une
+formule du type « spoilers intégraux », « avec spoilers », « voici la fin » ou
+une explication qui incite a lire une révélation. En cas de doute, on retire le
+detail narratif et on laisse le guide en `draft` pour relecture.
+
 Chaque fichier TXT doit fournir, dans cet ordre :
 
 1. une fiche de périmètre : version, DLC inclus ou non, succès Steam couverts
@@ -70,6 +86,8 @@ texte du guide est rédigé de façon originale et pratique.
 - [ ] chaque missable est placé avant son point de non-retour ;
 - [ ] les DLC et le online sont séparés du parcours principal ;
 - [ ] la route peut être suivie sans connaître l'histoire ;
+- [ ] une relecture spoiler confirme l'absence de mort, identité, trahison,
+      fin, twist et conséquence narrative révélés ;
 - [ ] les fichiers TXT s'ouvrent en UTF-8 et gardent les accents ;
 - [ ] le fichier est référencé dans `docs/guide-catalog.json` ;
 - [ ] le contrôle automatique normal puis le contrôle strict passent ;

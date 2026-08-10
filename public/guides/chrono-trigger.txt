@@ -1,0 +1,133 @@
+CHRONO TRIGGER
+GUIDE CHRONOLOGIQUE 100 % STEAM - SANS SPOILER
+
+Version de travail : 10 aout 2026
+
+Les 13 succes Steam correspondent aux 13 fins enregistrees par la version
+Windows. Le guide recommande une partie normale puis une Nouvelle Partie +
+avec des sauvegardes separees. Les noms d'epoque, de lieu, de boss et de succes
+sont uniquement des reperes de navigation ; aucune consequence narrative n'est
+revelee.
+
+REGLES DE SAUVEGARDE
+
+MISSABLES
+
+Les fins ont des fenetres manquables : les slots B et C servent a revenir avant
+chaque fenetre courte.
+
+- Slot A : progression principale.
+- Slot B : juste avant chaque fenetre indiquee « FIN MAINTENANT ».
+- Slot C : debut de Nouvelle Partie +.
+- Quand une fin est obtenue, sauvegarde l'enregistrement de fin si le jeu le
+  propose, puis recharge le slot de route pour continuer.
+- Si un succes ne tombe pas, regarde la fin dans Extras avant de refaire le
+  combat ; certains correctifs Steam ont change le moment de validation.
+
+PARTIE 1 - ROUTE NORMALE
+
+1. Joue jusqu'a la conclusion normale de l'histoire.
+2. Avant le combat final, termine les quetes optionnelles des allies, le
+   nettoyage des coffres et l'equipement de fin que tu veux conserver.
+3. Pour la fin Beyond Time, bats Lavos en passant par le Black Omen, apres le
+   retour de Crono dans l'equipe.
+4. Pour Dream's Epilogue, apres la premiere fin, termine les trois Vortex
+   dimensionnels de 12 000 av. J.-C., 1 000 apr. J.-C. et 2 300 apr. J.-C.
+   Parle ensuite a Gaspar a la Fin des Temps et choisis Time's Eclipse dans le
+   seau. Cette fin est propre a la version Steam/DS/iOS.
+
+SUCCES DES FINS - ORDRE CHRONOLOGIQUE RECOMMANDE EN NG+
+
+La Nouvelle Partie + conserve les niveaux et l'equipement. Des le debut,
+utilise le telepod droit de la Foire du Millenaire pour rejoindre Lavos. Le
+seau de la Fin des Temps sert aux fenetres suivantes. Quand la ligne indique
+« FIN MAINTENANT », ne poursuis pas l'histoire avant de battre Lavos.
+
+1. The Dream Project
+   - En NG+, depuis la presentation de la machine de Lucca a la Foire, prends
+     le telepod de droite avant de rejoindre la suite du scenario.
+   - Alternative : gagner le combat de l'Ocean Palace, mais la version NG+ est
+     la voie la plus sure.
+
+2. The Successor of Guardia
+   - Depuis le debut de NG+, suis le parcours jusqu'au retour en 1 000 apr. J.-C.
+     apres la premiere section en 600 apr. J.-C.
+   - Prends immediatement le telepod droit de la Foire.
+
+3. Good Night
+   - A la toute premiere arrivee a la Fin des Temps, utilise immediatement le
+     seau. Ne va pas plus loin dans l'histoire.
+
+4. The Legendary Hero
+   - Apres le second retour a 600 apr. J.-C., reviens tout de suite a la Fin des
+     Temps et utilise le seau.
+
+5. The Unknown Past
+   - Apres avoir recupere le medaillon et les deux morceaux de Masamune en
+     600 apr. J.-C., mais avant d'aller chercher la Dreamstone en 65 000 000
+     av. J.-C., utilise le seau.
+
+6. People of the Times
+   - Apres avoir recupere la Gate Key en 65 000 000 av. J.-C., retourne a la Fin
+     des Temps et utilise immediatement le seau.
+
+7. The Oath
+   - Apres avoir remis la Masamune reparee a Frog, retourne a la Fin des Temps
+     avant toute autre etape et utilise le seau.
+
+8. Dino Age
+   - Apres le combat contre Magus, mais avant de terminer la section de
+     65 000 000 av. J.-C., utilise le seau.
+
+9. What the Prophet Seeks
+   - Des que la section de 65 000 000 av. J.-C. est terminee, utilise le seau
+     avant de progresser vers la suite.
+
+10. Memory Lane
+    - Dans Zeal Palace, apres que Schala a ouvert la porte scellee, arrete-toi
+      immediatement. Ne recharge pas le pendentif et n'explore pas le palais.
+      Utilise le seau depuis la Fin des Temps.
+
+11. Reunion
+    - Apres le combat de l'Ocean Palace qui retire Crono de l'equipe, mais avant
+      de le recuperer a Death Peak, utilise le seau puis bats Lavos.
+
+12. Beyond Time
+    - Apres avoir recupere Crono, passe par le Black Omen et bats Lavos. Si tu
+      l'as deja obtenu en partie 1, le succes reste valide.
+
+13. Dream's Epilogue
+    - Voir la section Partie 1. Ne le confonds pas avec The Dream Project : le
+      Vortex dimensionnel est une zone post-game distincte.
+
+CHECKLIST DES 13 SUCCES
+
+[ ] Beyond Time.
+[ ] Dream's Epilogue.
+[ ] The Dream Project.
+[ ] The Successor of Guardia.
+[ ] Good Night.
+[ ] The Legendary Hero.
+[ ] The Unknown Past.
+[ ] People of the Times.
+[ ] The Oath.
+[ ] Dino Age.
+[ ] What the Prophet Seeks.
+[ ] Memory Lane.
+[ ] Reunion.
+
+CONTROLE DES FENETRES COURTES
+
+[ ] Une sauvegarde avant chaque utilisation du seau.
+[ ] The Unknown Past : seau avant 65 000 000 av. J.-C., des que les morceaux
+    sont obtenus.
+[ ] Memory Lane : seau avant de recharger le pendentif.
+[ ] Reunion : seau avant Death Peak.
+[ ] Chaque fin est visible dans Extras avant de supprimer un slot.
+
+VERIFICATION
+
+Steam doit afficher 13/13. Il n'y a pas de DLC de succes ni de multijoueur.
+Le 100 % consiste ici a enregistrer les 13 fins ; les donjons optionnels et les
+quetes de la partie normale sont recommandes pour preparer la fin post-game,
+mais ne remplacent pas une ligne de la checklist ci-dessus.

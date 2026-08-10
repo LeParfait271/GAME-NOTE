@@ -62,9 +62,211 @@ const guides: Guide[] = [
       "À surveiller : les quêtes secondaires et les combats optionnels à faire avant la fin.",
     meta: ["Route chronologique", "100 % Steam", "Sans spoiler"],
   },
+  {
+    id: "octopath-2",
+    title: "Octopath Traveler II",
+    eyebrow: "Octopath Traveler",
+    subtitle: "Les huit routes, dans un ordre propre et lisible.",
+    count: "33 succès",
+    file: "octopath-traveler-2.txt",
+    accent: "gold",
+    tag: "Guide complet",
+    description:
+      "Chapitres, Crossed Paths, jobs avancés, équipements Battle-Tested et nettoyage final.",
+    highlight:
+      "À surveiller : les actions de ville, les jobs avancés et le boss optionnel final.",
+    meta: ["33/33 Steam", "8 voyageurs", "Sans spoiler"],
+  },
+  {
+    id: "after-years",
+    title: "Final Fantasy IV: The After Years",
+    eyebrow: "Final Fantasy",
+    subtitle: "Les contes dans l’ordre conseillé, sans révéler l’histoire.",
+    count: "50 succès",
+    file: "final-fantasy-iv-the-after-years.txt",
+    accent: "blue",
+    tag: "Route des épisodes",
+    description:
+      "Ordre des contes, bandes, donjons de défi, objets rares et nettoyage Steam.",
+    highlight:
+      "À surveiller : l’ordre des contes, les bandes et les donjons de défi.",
+    meta: ["50/50 Steam", "Contes complets", "Sans spoiler"],
+  },
+  {
+    id: "divided-reigns",
+    title: "Divided Reigns",
+    eyebrow: "RPG indépendant",
+    subtitle: "Une progression complète avec les quatre difficultés.",
+    count: "40 succès",
+    file: "divided-reigns.txt",
+    accent: "coral",
+    tag: "Route intégrale",
+    description:
+      "Actes, bounties, villes libérées, attaques maîtrisées et tombeau optionnel.",
+    highlight:
+      "À surveiller : les deux réponses de l’enquête et les compteurs d’attaques.",
+    meta: ["40/40 Steam", "4 difficultés", "Sans spoiler"],
+  },
+  {
+    id: "hellblade",
+    title: "Hellblade: Senua’s Sacrifice",
+    eyebrow: "Ninja Theory",
+    subtitle: "La campagne et les 44 lorestones dans le même parcours.",
+    count: "14 succès",
+    file: "hellblade-senuas-sacrifice.txt",
+    accent: "blue",
+    tag: "Collectibles guidés",
+    description:
+      "Ordre des chapitres, pierres de savoir et vérification du seul succès à collectionner.",
+    highlight:
+      "À surveiller : les lorestones avant de quitter chaque chapitre.",
+    meta: ["14/14 Steam", "44 lorestones", "Sans spoiler"],
+  },
+  {
+    id: "rdr2",
+    title: "Red Dead Redemption 2",
+    eyebrow: "Rockstar Games",
+    subtitle: "Histoire, 100 % interne et Red Dead Online séparés.",
+    count: "51 succès",
+    file: "red-dead-redemption-2.txt",
+    accent: "coral",
+    tag: "Guide marathon",
+    description:
+      "Chapitres, activités de camp, compendium, médailles d’or et 18 succès Online.",
+    highlight:
+      "À surveiller : les activités de camp, les demandes et les missions d’honneur.",
+    meta: ["51/51 Steam", "100 % interne", "Sans spoiler"],
+  },
+  {
+    id: "breath-of-fire-iv",
+    title: "Breath of Fire IV",
+    eyebrow: "Capcom",
+    subtitle: "La campagne complète et le contenu optionnel, sans faux succès.",
+    count: "0 succès Steam",
+    file: "breath-of-fire-iv.txt",
+    accent: "gold",
+    tag: "Contenu complet",
+    description:
+      "Route, maîtres, dragons, village des fées, pêche, mini-jeux et sauvegarde claire.",
+    highlight:
+      "À surveiller : Una, les Treasure Balls, les fées et les techniques de maîtres.",
+    meta: ["0 succès Steam", "100 % contenu", "Sans spoiler"],
+  },
+  {
+    id: "titan-quest",
+    title: "Titan Quest Anniversary Edition",
+    eyebrow: "Iron Lore",
+    subtitle: "Les trois difficultés et les trois DLC dans une seule route.",
+    count: "115 succès",
+    file: "titan-quest-anniversary-edition.txt",
+    accent: "blue",
+    tag: "Guide XXL",
+    description:
+      "Campagnes, classes Legendary, zéro mort, coopératif, Ragnarok, Atlantis et Eternal Embers.",
+    highlight:
+      "À surveiller : les DLC, les personnages zéro mort et les maîtrises Legendary.",
+    meta: ["115/115 Steam", "3 DLC", "Sans spoiler"],
+  },
+  {
+    id: "jedi-survivor",
+    title: "STAR WARS Jedi: Survivor",
+    eyebrow: "Star Wars",
+    subtitle: "Planètes, collectibles et 53 succès dans le bon ordre.",
+    count: "53 succès",
+    file: "star-wars-jedi-survivor.txt",
+    accent: "coral",
+    tag: "Nettoyage post-jeu",
+    description:
+      "Chambres Jedi, Failles, primes, holotactiques, poissons, jardin et scans.",
+    highlight:
+      "À surveiller : les assistances de compagnons avant la dernière séquence.",
+    meta: ["53/53 Steam", "100 % zones", "Sans spoiler"],
+  },
+  {
+    id: "chrono-trigger",
+    title: "CHRONO TRIGGER",
+    eyebrow: "Square Enix",
+    subtitle: "Les 13 fins et leurs fenêtres de Nouvelle Partie +.",
+    count: "13 succès",
+    file: "chrono-trigger.txt",
+    accent: "gold",
+    tag: "Fins guidées",
+    description:
+      "Route principale, fins, objets clés et nettoyage NG+ sans exposer les événements.",
+    highlight:
+      "À surveiller : les fenêtres de fin et les sauvegardes avant le dernier combat.",
+    meta: ["13/13 Steam", "13 fins", "Sans spoiler"],
+  },
+  {
+    id: "chrono-cross",
+    title: "CHRONO CROSS",
+    eyebrow: "The Radical Dreamers Edition",
+    subtitle: "Techniques, cadres, NG+ et personnages, sans spoiler.",
+    count: "37 succès",
+    file: "chrono-cross-the-radical-dreamers-edition.txt",
+    accent: "blue",
+    tag: "Route multi-parties",
+    description:
+      "Les techniques uniques, 15 cadres, les fins NG+, Mastermune et le recrutement complet.",
+    highlight:
+      "À surveiller : Kid, Razzly, les cadres à fenêtre courte et les trois parcours.",
+    meta: ["37/37 Steam", "15 cadres", "Sans spoiler"],
+  },
+  {
+    id: "grandia-ii",
+    title: "GRANDIA II HD Remaster",
+    eyebrow: "Grandia",
+    subtitle: "Une partie propre jusqu’au dernier succès manquable.",
+    count: "36 succès",
+    file: "grandia-ii-hd-remaster.txt",
+    accent: "coral",
+    tag: "Route HD",
+    description:
+      "Anniversary Edition, objets rares, boss optionnels, difficulté Hard et Hut of Trials.",
+    highlight:
+      "À surveiller : Exorcism Bow, Melfice avec Ryudo seul et la branche Hard.",
+    meta: ["36/36 Steam", "Hard requis", "Sans spoiler"],
+  },
+  {
+    id: "ori",
+    title: "Ori and the Will of the Wisps",
+    eyebrow: "Moon Studios",
+    subtitle: "Exploration, quêtes et runs à contrainte dans le même plan.",
+    count: "37 succès",
+    file: "ori-and-the-will-of-the-wisps.txt",
+    accent: "gold",
+    tag: "100 % exploration",
+    description:
+      "Zones, sanctuaires, courses, fragments, quêtes, combats et runs dédiés.",
+    highlight:
+      "À surveiller : les objectifs de temps, de difficulté et les sauvegardes de sécurité.",
+    meta: ["37/37 Steam", "100 % zones", "Sans spoiler"],
+  },
+  {
+    id: "gris",
+    title: "GRIS",
+    eyebrow: "Nomada Studio",
+    subtitle: "Une route courte avec les 28 mementos bien placés.",
+    count: "17 succès",
+    file: "gris.txt",
+    accent: "blue",
+    tag: "Guide contemplatif",
+    description:
+      "Les cinq chapitres, mementos, animaux et statues, sans expliquer les images.",
+    highlight:
+      "À surveiller : les mementos de chaque chapitre avant de changer de zone.",
+    meta: ["17/17 Steam", "28 mementos", "Sans spoiler"],
+  },
 ];
 
-function scrollToReader(id: string, setSelectedId: (value: string) => void) {
+function scrollToReader(
+  id: string,
+  setSelectedId: (value: string) => void,
+  setLoading: (value: boolean) => void,
+  setSearch: (value: string) => void,
+) {
+  setLoading(true);
+  setSearch("");
   setSelectedId(id);
   window.requestAnimationFrame(() => {
     document.getElementById("reader")?.scrollIntoView({
@@ -84,8 +286,6 @@ export default function Home() {
 
   useEffect(() => {
     const controller = new AbortController();
-    setLoading(true);
-    setSearch("");
 
     fetch("/guides/" + selected.file, {
       signal: controller.signal,
@@ -155,7 +355,7 @@ export default function Home() {
 
         <div className="topbar-status">
           <span className="status-dot" aria-hidden="true" />
-          <span>3 guides disponibles</span>
+          <span>{guides.length} guides disponibles</span>
         </div>
       </header>
 
@@ -187,7 +387,7 @@ export default function Home() {
             <span>CHECKLIST DE PARTIE</span>
             <span>2026</span>
           </div>
-          <div className="board-number">03</div>
+          <div className="board-number">{String(guides.length).padStart(2, "0")}</div>
           <p className="board-title">jeux suivis</p>
           <div className="board-lines">
             <span>ordre chronologique</span>
@@ -204,7 +404,7 @@ export default function Home() {
 
       <section className="stats-row" aria-label="Chiffres clés">
         <div>
-          <strong>03</strong>
+          <strong>{String(guides.length).padStart(2, "0")}</strong>
           <span>jeux dans la collection</span>
         </div>
         <div>
@@ -262,7 +462,9 @@ export default function Home() {
               <button
                 className="card-link"
                 type="button"
-                onClick={() => scrollToReader(guide.id, setSelectedId)}
+                onClick={() =>
+                  scrollToReader(guide.id, setSelectedId, setLoading, setSearch)
+                }
               >
                 Ouvrir la soluce <span aria-hidden="true">↗</span>
               </button>
