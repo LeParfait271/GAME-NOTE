@@ -1,0 +1,352 @@
+METRO 2033
+GUIDE CHRONOLOGIQUE 100 % STEAM - EDITION ORIGINALE - SANS SPOILER
+
+Version de travail : 11 aout 2026
+
+Ce fichier vise l'AppID Steam 43110, intitule Metro 2033. Ce n'est pas
+Metro 2033 Redux (AppID 286690) : les listes de succes, les armes et certains
+emplacements different. L'edition originale compte 48 succes Steam.
+
+OBJECTIF
+
+[ ] 48/48 succes Steam.
+[ ] Une run Ranger Easy de collecte avec toutes les munitions dorees, armes,
+    caches de Rangers, lieux visites et points de route.
+[ ] Invisible man et Hedge-hopper faits sur deux passages distincts de
+    Frontline.
+[ ] Les deux fins validees depuis une sauvegarde finale.
+[ ] Last Man Standing sur Ranger Hardcore.
+
+PLAN DE RUNS
+
+RUN A - RANGER EASY, COLLECTE ET SUCCES TECHNIQUES
+
+- Joue en Ranger Easy pour obtenir Survivor. Fais toute la campagne dans
+  l'ordre et conserve une sauvegarde manuelle au debut de chaque chapitre.
+- Cette run porte les 500 cartouches conservees, les 500 cartouches echangees,
+  Weaponsmith, Sherlock, Explorer, Metro dweller, Enlightened et les caches.
+- Ne depense pas les cartouches militaires dorees dans les quatre stations
+  de collecte. Ne donne pas de cartouche au gamin avant d'avoir valide Realist
+  sur une sauvegarde temporaire, puis recharge et fais Generous.
+- Garde deux sauvegardes dans Frontline : une avant toute alerte pour
+  Invisible man, une autre pour Hedge-hopper et Rescue Ranger.
+
+RUN B - RANGER HARDCORE
+
+- Termine la campagne en Ranger Hardcore pour Last Man Standing.
+- Les succes cumulatifs deja obtenus restent acquis, mais ne compte pas sur
+  cette run pour reparer Sherlock : son suivi est ancien et peut etre
+  capricieux. Utilise la run A pour la collecte.
+
+GARDE-FOUS TECHNIQUES ET MISSABLES
+
+- Pour Sherlock, ramasse toutes les cartouches dorees dans une seule run,
+  dans l'ordre ci-dessous. Evite les achats dans les stations de collecte et
+  garde une sauvegarde avant chaque transition.
+- Pour Weaponsmith, fais au moins un kill avec chaque arme ci-dessous dans
+  la meme run. Les tourelles ne comptent pas et les variantes avec lunette
+  comptent comme la meme arme.
+- Pour Explorer, ouvre toutes les portes accessibles, parle a chaque habitant,
+  fouille cadavres, caisses, wagons, chambres et alcoves. Le succes est
+  connu pour son suivi irregulier : sauvegarde a chaque station.
+- Pour les fins, fais une sauvegarde juste avant la derniere sequence de
+  choix. Valide une issue, recharge la sauvegarde, puis valide l'autre sans
+  modifier le reste de la run.
+
+ORDRE CHRONOLOGIQUE
+
+1. PROLOGUE / EXHIBITION
+
+- Termine l'introduction, recupere les armes et parle a tous les personnages
+  avant la sortie. Pour Metro dweller, examine aussi chaque objet interactif.
+- Hunter : garde le revolver. Tue les nosalises qui sortent des grilles avant
+  qu'elles ne cèdent pour Quick Draw, puis conserve le revolver pour Cowboy.
+- Exhibition : donne une aide a la famille avec l'enfant et le nounours pour
+  Generous, mais seulement apres avoir valide Realist dans la sauvegarde
+  temporaire de Riga.
+- Premiere route Sherlock :
+  [ ] Cartouches du debut dans la chambre.
+  [ ] Pot/casserole renverse apres la sortie de la chambre.
+  [ ] Chapeau du musicien pres du groupe d'enfants.
+  [ ] Caisse basse dans la grande salle aux etageres.
+- Fouille les pieces, le dortoir, les caisses et les marchands. Les quatre
+  reperes ci-dessus sont les quatre groupes de la station de depart.
+
+2. RIGA
+
+- Avant de suivre le guide vers le contact, passe par le bar, les salles
+  inferieures, les quais et les baraques. Ecoute tout le monde.
+- Garde une sauvegarde avant le gamin qui propose son aide contre une
+  cartouche militaire :
+  [ ] Premier passage : refuse pour Realist.
+  [ ] Recharge : accepte, puis aide les pauvres et les malades pour Generous.
+- Deuxieme route Sherlock, 17 reperes :
+  [ ] Table apres la scene d'arrivee.
+  [ ] Table libre du bar.
+  [ ] Evier pres de l'escalier.
+  [ ] Sol derriere les classeurs pres de l'armurerie.
+  [ ] Entre les planches empilees pres de l'escalier.
+  [ ] Sol derriere les rails, au bout de la zone des mendiants.
+  [ ] Toit en bois au bout de l'embranchement apres le gamin.
+  [ ] Couchette superieure de la baraque ouverte apres le pont.
+  [ ] Sol a droite de la porte de la baraque aux dormeurs.
+  [ ] Toilette de droite au bout du niveau bas.
+  [ ] Derriere la bougie sur les caisses apres les toilettes.
+  [ ] Couchette superieure de la baraque pres de la poubelle en feu.
+  [ ] Sol pres du lit dans la baraque ouverte avant le pont suivant.
+  [ ] Table libre derriere le contact, avant de lui parler.
+  [ ] Munitions obtenues apres la conversation avec lui.
+  [ ] Caisses a gauche dans la zone des sanitaires detruits.
+  [ ] Derriere la bougie sur la caisse metallique suspendue.
+- Valide ensuite la transition. N'achete pas de cartouches dorees dans cette
+  station si tu vises Sherlock sur cette run.
+
+3. LOST TUNNELS / MARKET
+
+- Lost Tunnels : desamorce les pieges de fil sur ton chemin. Le compteur
+  demande 10 pieges, pas tous les pieges du jeu.
+- Recupere le Volt Driver, le Tikhar et les couteaux de lancer quand ils
+  apparaissent. Utilise le tir alternatif du Volt Driver pour commencer
+  Stunning et garde l'arme pour Shocking.
+- Fais progresser Knife, Slice & Dice, Sterling Effort, Ninja, Air gunner et
+  Air Bender sur des ennemis isoles. Les couteaux de lancer ne remplacent pas
+  les kills au couteau.
+- Market : achete ou conserve des grenades collantes, fais dix deals au total
+  dans les boutiques et garde les munitions militaires pour Wheeler-Dealer.
+- Troisieme route Sherlock, 16 reperes :
+  [ ] Petite caisse pres des sacs de sable, avant l'entree.
+  [ ] Casier bleu de droite pres de l'entree.
+  [ ] Baril avec bougie pres de la fenetre.
+  [ ] Couchette haute au debut du wagon.
+  [ ] Couchette haute de la derniere alcove du wagon.
+  [ ] Couchette de l'alcove opposee dans le wagon.
+  [ ] Munitions donnees par le contact apres la scene.
+  [ ] Sol a droite, pres des petites caisses apres la scene.
+  [ ] Echelle de l'alcove sombre.
+  [ ] Table des deux personnes sous l'inscription de la station.
+  [ ] Tableau a bouteilles et verres a cote de cette table.
+  [ ] Sous le banc du boucher.
+  [ ] Entre les bagages d'un banc au centre du marche.
+  [ ] Dans les caisses de la palette entre les boutiques.
+  [ ] Sol derriere le trolley du marche d'armes.
+  [ ] Derriere le bidon pose sur le petit meuble du vendeur.
+- Les achats de la run A se font apres le dernier ramassage necessaire, puis
+  uniquement pour atteindre Wheeler-Dealer/Metro Trader.
+
+4. DEAD CITY 1 / DEAD CITY 2 / DRY
+
+- Porte le masque tant que le jeu l'impose et fouille chaque appartement,
+  hotel, toit, sous-sol et station de Ranger.
+- Ramasse toutes les caches de Rangers des deux chapitres. Les recoins
+  comprennent notamment les batiments abandonnes, les toits, les pieces au
+  fond des couloirs et les zones accessibles par echelle.
+- Termine Ranger, Explorer et les compteurs de couteau, arme pneumatique,
+  revolver, fusil a pompe, grenades et explosifs sur les mutants.
+- Dans Dry, prends l'Automatique shotgun et le Kalash quand ils sont
+  disponibles. Valide des kills avec chaque arme de la liste avant la fin de
+  la run A.
+
+5. GHOSTS / ANOMALY
+
+- Fais une sauvegarde avant Ghosts et une seconde avant Anomaly.
+- Termine ces deux chapitres sans mourir pour Exorcist. Suis le groupe,
+  reste attentif aux indications et ne prends pas de risque pour une cache.
+- Les groupes de petites creatures dans les salles en chaine sont pratiques
+  pour Ka-Boom! et Sticks like a bur. Recharge le checkpoint si necessaire,
+  sans sacrifier la run Exorcist.
+
+6. CURSED
+
+- Place les explosifs demandes dans le tunnel et le sas pour Demolitionist.
+- Avant de detruire le dernier passage, utilise la mitrailleuse fixe sur les
+  mutants jusqu'a Heavy Metal si le compteur n'est pas termine.
+- Le tunnel lateral permet de faire progresser Shocking avec le Volt Driver,
+  Air gunner ou les grenades. Fais une sauvegarde avant le farm, car un deces
+  peut annuler le compteur de cette sequence.
+
+7. ARMORY
+
+- Fais une sauvegarde au debut. Suis le marchand sans te faire repérer,
+  sans déclencher d'alerte et sans mourir pour Fugitive.
+- Quatrieme route Sherlock, cinq reperes :
+  [ ] Sol pres des trois tonneaux au bout de la premiere plateforme.
+  [ ] Caisses au bout de la plateforme pres du train oppose.
+  [ ] Caisses a droite apres la sequence de poursuite et le passage bas.
+  [ ] Caisse apres la sortie de la maison du contact de Khan.
+  [ ] Sol derriere la planche droite de l'echelle, dans le trou du trolley.
+- Achète/ramasse les versions manquantes de VSV, Helsing, Tikhar,
+  Hellbreath et fusil automatique lourd. Fais un kill avec chaque arme
+  avant la fin de la run A.
+- Utilise les boutiques pour les 10 deals, puis depense au moins 500
+  cartouches militaires en achat de munitions pour Wheeler-Dealer. Fais
+  d'abord une sauvegarde pour conserver Scrooge si tu es proche des 500
+  cartouches en reserve.
+
+8. FRONTLINE
+
+- Ne combine jamais les trois objectifs de Frontline sur le meme passage.
+- PASSAGE INVISIBLE MAN : ne tue personne, n'allume pas les zones inutiles,
+  passe sous les ponts et contourne les groupes. Valide le succes puis
+  recharge la sauvegarde du debut.
+- PASSAGE RESCUE RANGER : libere le groupe de Reds en eliminant les gardes
+  de la zone de detention. Valide le succes puis recharge si tu dois garder
+  la run de collecte.
+- PASSAGE HEDGE-HOPPER : tue tous les soldats Red Army et Fascist de la
+  zone, y compris les blesses, les soldats en retrait et les prisonniers
+  accessibles. Ce passage annule Invisible man : fais-le en dernier.
+- Ramasse le Tikhar ou le Helsing et termine Air gunner/Air Bender avec des
+  kills humains au pneumatique uniquement. Desamorce les fils restants.
+- Recupere les armes et valide Heavy Metal, Cowboy, Gunman, Sniper et Ninja
+  si les compteurs ne sont pas pleins.
+
+9. TROLLEY COMBAT / DEPOT
+
+- Sur le trolley, vise les supports qui font tomber le Panzer pour Tank Buster.
+- Utilise les mitrailleuses fixes pour Heavy Metal et les armes restantes
+  pour Weaponsmith.
+- Depot : sauvegarde avant le premier garde. Tue-le silencieusement avant
+  qu'il ne donne l'alerte, puis entre dans la station sans etre repere pour
+  Raider. Recharge si l'alerte se declenche.
+
+10. DEFENSE / OUTPOST
+
+- Dans Defense, fouille le commandant au terme de la defense et prends la
+  bande avant la sortie. Ne quitte pas le chapitre sans elle.
+- Outpost : monte jusqu'a la tour radio, lis la bande et lance la diffusion
+  pour DJ Artyom.
+- Fouille les etages de l'avant-poste, les toits, l'excavatrice et les
+  passerelles. Les deux demons de la zone sont pratiques pour Inquisitor.
+- Termine les pieges, les munitions dorees si un repere a ete oublie, et les
+  kills de flamethrower si une arme incendiaire est disponible.
+
+11. BLACK STATION / POLIS
+
+- Black Station : sauvegarde avant l'entree. Coupe les lumieres, avance
+  discretement et ne tue aucun soldat Fascist pour Merciful.
+- Polis : parle a tous les habitants, fouille la gare et visite les salles
+  accessibles avant de partir. Metro dweller et Explorer peuvent se valider
+  tardivement, mais ne laisse aucune porte interactive.
+- Fais la sauvegarde finale de la run A avant la derniere sequence de la
+  campagne. Valide une issue, recharge, puis l'autre. Le guide ne nomme pas
+  les deux issues pour ne pas spoiler.
+
+12. ALLEY / DEPOSITORY / ARCHIVES
+
+- Alley : avance avec le masque, fouille les embranchements et utilise les
+  grenades collantes sur les groupes compacts.
+- Depository et Archives : tue au moins un Librarian pour Heavy Reader, meme
+  si le chemin semble inviter a fuir. Conserve les munitions lourdes.
+- Termine les kills d'amoebas, de lurkers, de demons, de mutants au couteau
+  et de kills au Volt Driver avant la sortie de la campagne.
+
+13. DRIVING TO SPARTA / DARK STAR / DUNGEON
+
+- Recupere l'equipement manquant a la base, y compris l'arme automatique
+  lourde, puis valide Weaponsmith dans cette meme run.
+- Dans Dark Station, ne tue aucun soldat Fascist si Merciful n'est pas encore
+  obtenu. Les mutants et les ennemis non concernes ne remplacent pas cette
+  regle.
+- Explore chaque salle avant la transition. Les succes Explorer et Metro
+  dweller peuvent tomber dans cette portion si toutes les interactions ont
+  ete faites.
+
+14. D6 / TOWER
+
+- Termine la campagne de la run A en Ranger Easy, puis verifie Survivor.
+- Garde une sauvegarde avant la sequence finale et valide les deux issues
+  depuis cette sauvegarde.
+- Lance ensuite la run B en Ranger Hardcore, en utilisant les sauvegardes
+  manuelles uniquement si le mode choisi l'autorise, puis termine Tower pour
+  Last Man Standing.
+
+LISTE DES ARMES POUR WEAPONSMITH
+
+[ ] Knife.
+[ ] Throwing knives.
+[ ] Grenade.
+[ ] Sticky grenade.
+[ ] Revolver.
+[ ] Bastard.
+[ ] Duplet.
+[ ] Automatic Shotgun / Uboyneg.
+[ ] Heavy Automatic Shotgun.
+[ ] Kalash.
+[ ] Kalash 2012.
+[ ] VSV.
+[ ] Tikhar.
+[ ] Helsing.
+[ ] Hellbreath / Volt Driver, tir normal.
+[ ] Hellbreath / Volt Driver, tir alternatif.
+
+CHECKLIST DES 48 SUCCES
+
+[ ] First blood - subir les premiers degats.
+[ ] Nosalis hunter - 30 nosalises.
+[ ] Demolitionist - tunnel et sas de Cursed.
+[ ] Tank Buster - Panzer de Trolley Combat.
+[ ] Exorcist - Ghosts et Anomaly sans mourir.
+[ ] Fire in the hole - 20 lurkers.
+[ ] Realist - refuser la cartouche au gamin.
+[ ] Cowboy - 30 kills au revolver.
+[ ] Fugitive - Armory sans etre repere.
+[ ] Heavy Reader - tuer un Librarian.
+[ ] Pathoanatomist - 5 amoebas.
+[ ] Pyro - 5 kills au flamethrower.
+[ ] Raider - premier garde de Depot silencieux et infiltration.
+[ ] If it's hostile, you kill it - compteur de kills hostiles.
+[ ] Ka-Boom! - 10 ennemis exploses.
+[ ] Quick Draw - nosalises de Hunter avant les grilles.
+[ ] Old school - 30 kills au fusil a pompe double.
+[ ] Inquisitor - 2 demons.
+[ ] Rescue Ranger - sauver les Reds prisonniers.
+[ ] Sniper - 25 tirs a la tete.
+[ ] Ninja - 10 kills aux couteaux de lancer.
+[ ] Scrooge - conserver 500 cartouches militaires.
+[ ] DJ Artyom - tour radio d'Outpost.
+[ ] Gunman - 50 kills au fusil automatique lourd.
+[ ] Metro Trader - 10 deals dans les boutiques.
+[ ] Shocking - 50 kills au Volt Driver.
+[ ] Quick-witted - support et lustre en moins de 20 secondes.
+[ ] Soft Touch - desamorcer 10 pieges a fil.
+[ ] Generous - aider les pauvres, l'enfant et le malade.
+[ ] Enlightened - route de points de moralite demandee par le succes cache.
+[ ] Heavy Metal - 15 kills a la mitrailleuse fixe.
+[ ] Metro dweller - interactions et lieux de la metro.
+[ ] Ranger - toutes les caches Ranger de Dead City 1 et 2.
+[ ] Air gunner - 30 kills aux armes pneumatiques.
+[ ] Slice & Dice - 20 kills au couteau.
+[ ] Invisible man - Frontline sans tuer.
+[ ] Merciful - Black Station sans tuer de soldat Fascist.
+[ ] Hedge-hopper - tuer tous les soldats des deux camps sur Frontline.
+[ ] Explorer - visiter toutes les zones et fouiller chaque endroit.
+[ ] Last Man Standing - campagne Ranger Hardcore.
+[ ] Survivor - campagne Ranger Easy.
+[ ] Wheeler-Dealer - echanger 500 cartouches militaires contre des munitions.
+[ ] Air Bender - 30 humains aux armes pneumatiques seulement.
+[ ] Weaponsmith - un kill avec chaque arme.
+[ ] Sterling Effort - 50 mutants au couteau.
+[ ] Stunning - 25 kills au tir alternatif du Volt Driver.
+[ ] Sherlock - toutes les cartouches dorees des stations.
+[ ] Sticks like a bur - 15 kills a la grenade collante.
+
+VERIFICATION FINALE
+
+- [ ] 48/48 dans Steam.
+- [ ] La page Steam identifie bien Metro 2033 AppID 43110, pas Redux.
+- [ ] Les quatre stations de cartouches dorees ont ete fouillees sans saut.
+- [ ] Les armes et les deux passages Frontline sont valides.
+- [ ] Les deux issues et les deux modes Ranger sont valides.
+- [ ] Aucun detail de fin ou de retournement n'est revele.
+
+SOURCES DE CONTROLE
+
+- Steam, liste officielle des 48 succes :
+  https://steamcommunity.com/stats/43110/achievements
+- Page Steam de l'edition originale :
+  https://store.steampowered.com/app/43110/Metro_2033/
+- Repere detaille des cartouches dorees :
+  https://www.trueachievements.com/a61170/sherlock-achievement
+- Guide communautaire de verification des routes et armes :
+  https://steamcommunity.com/sharedfiles/filedetails/?id=3374820923
+
+FIN DU GUIDE - SANS SPOILER

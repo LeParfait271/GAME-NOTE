@@ -33,7 +33,7 @@ const guides: Guide[] = [
       "Actions des 12 stages, combos, All Clear, bornes rétro, Arcade et Survival.",
     highlight:
       "À surveiller : les campagnes solo par personnage et les mouvements alternatifs du DLC.",
-    meta: ["45/45 Steam", "Mr. X Nightmare", "Sans spoiler"],
+    meta: ["55/55 Steam", "Mr. X Nightmare", "Sans spoiler"],
   },
   {
     id: "final-fantasy-vii-2013",
@@ -49,7 +49,7 @@ const guides: Guide[] = [
       "Castellans, tresors, stands de tir, armes, Professional, restrictions et records.",
     highlight:
       "A surveiller : les requetes du marchand, les 16 Castellans et les runs S+.",
-    meta: ["46/46 Steam", "16 chapitres", "Sans spoiler"],
+    meta: ["36/36 Steam", "16 chapitres", "Sans spoiler"],
   },
   {
     id: "resident-evil-5",
@@ -1060,6 +1060,166 @@ const guides: Guide[] = [
     highlight:
       "A surveiller : radios, cameras, salles avancees et medailles des defis.",
     meta: ["15/15 Steam", "Hors ligne", "Sans spoiler"],
+  },
+  {
+    id: "limbo",
+    steamAppId: 48000,
+    title: "LIMBO",
+    eyebrow: "Playdead",
+    subtitle: "Oeufs caches, DING! et run sans mort dans l'ordre.",
+    count: "13 succes",
+    file: "limbo.txt",
+    accent: "blue",
+    tag: "Guide sans spoiler",
+    description:
+      "Route des 13 oeufs, detours de puzzles et run No Point in Dying separee.",
+    highlight:
+      "A surveiller : les oeufs doivent etre valides avant DING!, puis la run sans mort se fait seule.",
+    meta: ["13/13 Steam", "Hors ligne", "Sans spoiler"],
+  },
+  {
+    id: "metro-2033",
+    steamAppId: 43110,
+    title: "Metro 2033",
+    eyebrow: "4A Games",
+    subtitle: "Stations, caches, armes et deux routes Ranger.",
+    count: "48 succes",
+    file: "metro-2033.txt",
+    accent: "coral",
+    tag: "FPS chronologique",
+    description:
+      "Guide de l'edition originale avec moral points, cartouches dorees, Frontline et Ranger.",
+    highlight:
+      "A surveiller : les quatre stations de cartouches et les choix de Frontline avant la sortie.",
+    meta: ["48/48 Steam", "Edition originale", "Sans spoiler"],
+  },
+  {
+    id: "fear-2-project-origin",
+    steamAppId: 16450,
+    title: "F.E.A.R. 2: Project Origin",
+    eyebrow: "Monolith",
+    subtitle: "Campagne, Intel et Reflex Injectors sans faux succes.",
+    count: "0 succes Steam",
+    file: "fear-2-project-origin.txt",
+    accent: "gold",
+    tag: "Guide special",
+    description:
+      "Route des 14 missions, 76 Intel et 13 Reflex Injectors pour l'edition Steam visible.",
+    highlight:
+      "A surveiller : guide transparent classe special, car cette edition n'expose pas de succes Steam.",
+    meta: ["0/0 Steam", "76 Intel", "Sans spoiler"],
+  },
+  {
+    id: "call-of-juarez-gunslinger",
+    steamAppId: 204450,
+    title: "Call of Juarez: Gunslinger",
+    eyebrow: "Techland",
+    subtitle: "Story, Nuggets, difficulte, Arcade et Duels.",
+    count: "26 succes",
+    file: "call-of-juarez-gunslinger.txt",
+    accent: "coral",
+    tag: "Campagne + arcade",
+    description:
+      "Route des 14 missions, 54 Nuggets et nettoyage des competences et modes annexes.",
+    highlight:
+      "A surveiller : les Nuggets par mission et les objectifs Arcade/True West apres la campagne.",
+    meta: ["26/26 Steam", "54 Nuggets", "Sans spoiler"],
+  },
+  {
+    id: "call-of-juarez-bound-in-blood",
+    steamAppId: 21980,
+    title: "Call of Juarez: Bound in Blood",
+    eyebrow: "Techland",
+    subtitle: "Campagne, secrets et difficultes sans faux succes.",
+    count: "0 succes Steam",
+    file: "call-of-juarez-bound-in-blood.txt",
+    accent: "blue",
+    tag: "Guide special",
+    description:
+      "Route des 15 chapitres, 89 secrets et des deux personnages jouables.",
+    highlight:
+      "A surveiller : guide special transparent, car l'edition Steam visible n'expose pas de succes.",
+    meta: ["0/0 Steam", "89 secrets", "Sans spoiler"],
+  },
+  {
+    id: "call-of-juarez",
+    steamAppId: 3020,
+    title: "Call of Juarez",
+    eyebrow: "Techland",
+    subtitle: "Prologue, episodes, secrets et difficultes dans l'ordre.",
+    count: "0 succes Steam",
+    file: "call-of-juarez.txt",
+    accent: "gold",
+    tag: "Guide special",
+    description:
+      "Route du prologue, des 15 episodes, des 40 secrets et des missions bonus.",
+    highlight:
+      "A surveiller : guide special transparent, sans inventer un compteur de succes Steam absent.",
+    meta: ["0/0 Steam", "40 secrets", "Sans spoiler"],
+  },
+  {
+    id: "fear-3",
+    steamAppId: 21100,
+    title: "F.E.A.R. 3",
+    eyebrow: "Day 1 Studios",
+    subtitle: "Intervalles, Alma Dolls, scores, INSANE et coop.",
+    count: "50 succes",
+    file: "fear-3.txt",
+    accent: "coral",
+    tag: "Campagne + coop",
+    description:
+      "Route des 8 intervalles, dolls aleatoires, defis de score et modes Contractions/Soul King.",
+    highlight:
+      "A surveiller : une doll par intervalle, les scores et les succes en ligne sont separes.",
+    meta: ["50/50 Steam", "8 Alma Dolls", "Sans spoiler"],
+  },
+  {
+    id: "rage",
+    steamAppId: 9200,
+    title: "RAGE",
+    eyebrow: "id Software",
+    subtitle: "Campagne, cartes, schematics, courses et The Scorchers.",
+    count: "60 succes",
+    file: "rage.txt",
+    accent: "gold",
+    tag: "Guide XXL",
+    description:
+      "54 cartes, 19 schematics, 18 sauts, mini-jeux, point de non-retour et DLC.",
+    highlight:
+      "A surveiller : The Well et Authority Prison, puis 100 % avant Assault on Authority Bridge.",
+    meta: ["60/60 Steam", "DLC inclus", "Sans spoiler"],
+  },
+  {
+    id: "aliens-vs-predator",
+    steamAppId: 10680,
+    title: "Aliens vs. Predator",
+    eyebrow: "Rebellion",
+    subtitle: "Trois campagnes, trois collectibles et Nightmare.",
+    count: "50 succes",
+    file: "aliens-vs-predator.txt",
+    accent: "blue",
+    tag: "Trois campagnes",
+    description:
+      "Marine, Alien et Predator avec 67 diaries, 50 Royal Jelly et 45 Trophy Belts.",
+    highlight:
+      "A surveiller : les dix succes ranked sont un gate multijoueur et ne sont pas masques.",
+    meta: ["50/50 Steam", "45 belts", "Sans spoiler"],
+  },
+  {
+    id: "dying-light",
+    steamAppId: 239140,
+    title: "Dying Light",
+    eyebrow: "Techland",
+    subtitle: "Harran, The Following, Bozak, Parkour Fever et Hellraid.",
+    count: "78 succes",
+    file: "dying-light.txt",
+    accent: "coral",
+    tag: "Campagne + DLC",
+    description:
+      "Quetes, zones sures, 67 textes, quarantaine, buggy, coop et extensions.",
+    highlight:
+      "A surveiller : les textes apres l'histoire, les zones de quarantaine et les succes coop.",
+    meta: ["78/78 Steam", "DLC inclus", "Sans spoiler"],
   },
 ];
 

@@ -1,0 +1,229 @@
+F.E.A.R. 2: PROJECT ORIGIN
+GUIDE CHRONOLOGIQUE DE CAMPAGNE - SPECIAL SANS SUCCES STEAM
+
+Version de travail : 11 aout 2026
+
+La page Steam de l'AppID 16450 ne propose pas de succes Steam. Ce guide
+annonce donc 0/0 succes au lieu de transformer les recompenses console ou les
+compteurs internes en faux succes Steam. Il couvre la campagne Project Origin,
+les 76 Intel, les 13 Reflex Injectors et le DLC Reborn quand il est installe.
+
+OBJECTIF
+
+[ ] 14 missions de la campagne terminees dans l'ordre.
+[ ] 76/76 Intel, avec le compteur du menu PDA a 100 %.
+[ ] 13/13 Reflex Injectors, avec toutes les ameliorations de reflexes.
+[ ] Les armes, armures, soins, couvertures interactives et scenes de combat
+    visites au moins une fois.
+[ ] La campagne terminee dans la difficulte la plus haute disponible.
+[ ] Reborn termine separement si le DLC est installe.
+[ ] 0/0 succes Steam confirme sur l'AppID 16450.
+
+GARDE-FOUS ET MISSABLES
+
+- Les chiffres 76 et 13 concernent la campagne Project Origin. Le compteur
+  Intel du PDA fait foi si une edition ou une sauvegarde affiche une
+  difference de progression.
+- Ramasse chaque Intel avant de franchir une porte de transition ou de lancer
+  une longue sequence scriptée. Beaucoup de salles ne sont plus accessibles
+  apres la sortie.
+- Pour une vraie run de collecte, garde une sauvegarde au debut de chaque
+  mission. La selection de mission ne remplace pas une sauvegarde propre
+  si le compteur a mal enregistre un objet.
+- Les noms de mission et les lieux servent de reperes. Ce guide ne revele
+  aucune identite, mort, fin ou revelation narrative.
+
+ORDRE CHRONOLOGIQUE ET COLLECTIBLES
+
+1. INTERVAL 01 - PREMONITION / SANCTUARY
+
+- Fouille le hall, les bureaux, les postes de securite et les pieces situees
+  derriere les portes qui s'ouvrent avec l'equipe.
+- Intel 1 a 8 : ramasse-les dans l'ordre du parcours, avant chaque ascenseur,
+  sas ou porte necessitant une interaction d'equipe.
+- Il n'y a pas de Reflex Injector dans cette mission. Termine les combats
+  sans depenser toutes les grenades et prends l'habitude de retourner les
+  couvertures interactives.
+
+2. INTERVAL 02 - ISOLATION / AWAKENING
+
+- Intel 9 a 19 : explore les chambres, toilettes, bureaux, salles de
+  consultation et culs-de-sac avant de suivre l'objectif.
+- Reflex Injector 1 : apres la sequence d'ascenseur, ouvre les deux portes
+  avec la carte et prends l'injecteur dans la salle optionnelle avant la
+  porte qui fait avancer l'histoire.
+- Profite des couloirs pour les dix kills au corps a corps si ce compteur
+  interne n'est pas encore termine.
+
+3. INTERVAL 02 - ISOLATION / DISCOVERY
+
+- Intel 20 a 23 : apres chaque grande rencontre, monte dans la salle de
+  controle, inspecte les couloirs bloques et les bureaux derriere les vitres.
+- Reflex Injector 2 : apres le conduit et le premier ennemi avec l'arme
+  incendiaire, cherche la salle de bains attenante.
+- Utilise l'arme incendiaire sur dix ennemis si tu veux valider tous les
+  compteurs de combat internes.
+
+4. INTERVAL 03 - RECOGNITION / WITHDRAWAL
+
+- Intel 24 a 28 : inspecte les salles medicales, les postes avec cadavres,
+  les passerelles et la salle de stockage avant chaque ascenseur.
+- Reflex Injector 3 : dans la zone de l'ascenseur, descends par l'escalier
+  lateral avant de monter.
+- Fais une sauvegarde avant les couloirs en feu et verifie que l'Intel du
+  grand espace de caisses est bien dans le PDA.
+
+5. INTERVAL 03 - RECOGNITION / REPLICA
+
+- Intel 29 a 33 : visite les laboratoires, les salles d'observation et les
+  bureaux en hauteur. Quand une caisse bloque une porte, verifie la piece
+  qui vient d'etre liberee avant de la deplacer.
+- Reflex Injector 4 : ouvre le circuit de la conduite en feu, puis reviens
+  dans la salle auparavant inaccessible.
+- Utilise l'arme Penetrator/Hammerhead sur dix ennemis en les fixant a une
+  paroi ou une couverture pour le compteur interne correspondant.
+
+6. INTERVAL 04 - DEVASTATION / RUIN
+
+- Intel 34 a 36 : fouille les bureaux, les batiments autour de l'avion et
+  les pieces laterales apres les nouvelles apparitions.
+- Reflex Injector 5 : dans le batiment de la zone de l'avion, monte a l'etage
+  et va jusqu'au fond de la salle avant de reprendre le trajet.
+- Retourne chaque couverture mobile et profite des vagues pour les actions
+  contextuelles plutot que de les ignorer.
+
+7. INTERVAL 04 - DEVASTATION / TOP
+
+- Intel 37 a 38 : prends l'objet dans le premier bloc de bureaux, puis
+  explore la salle de controle avant de quitter l'armure.
+- Reflex Injector 6 : apres la sequence en armure, remonte par les escaliers
+  vers la piece situee a gauche des portes fermees.
+- Les tirs de sniper sur dix tetes sont plus simples dans cette mission :
+  fais une sauvegarde avant l'essai si tu veux eviter de gaspiller la
+  munition.
+
+8. INTERVAL 05 - PROVOCATION / ELEMENTARY
+
+- Intel 39 a 42 : inspecte le rez-de-chaussee, le couloir du premier etage,
+  la salle du globe et les salles de classe.
+- Reflex Injector 7 : dans le couloir avec les casiers jaunes, prends la
+  salle laterale avant de poursuivre le groupe.
+- Retourne au moins 50 couvertures interactives sur l'ensemble du jeu. Une
+  couverture peut etre utilisee plusieurs fois selon le compteur interne,
+  mais varie les zones pour eviter une progression mal enregistree.
+
+9. INTERVAL 05 - PROVOCATION / NURSE'S OFFICE
+
+- Intel 43 a 52 : apres chaque combat, visite les salles de classe, toilettes,
+  bureaux, cubicles et salles avec des vitres. Deux Intel peuvent se trouver
+  dans la meme petite zone : ne pars pas apres le premier.
+- Reflex Injector 8 : dans le couloir apres la scene d'incineration, fouille
+  la salle de bains laterale.
+- Utilise l'arme Penetrator pour les ennemis alignes et complete les actions
+  de melee si le compteur n'est pas encore valide.
+
+10. INTERVAL 05 - PROVOCATION / SNAKE FIST
+
+- Intel 53 a 59 : commence par les bureaux avec les grands ecrans, puis
+  fouille les salles de laboratoire, morgue et securite avant de suivre la
+  cible.
+- Reflex Injector 9 : verifie les pieces situees derriere les portes a carte
+  et les salles de controle avant l'ascenseur suivant.
+- Quand une salle offre une machine ou un objet explosif, utilise-le au moins
+  une fois pour completer les opportunites de combat internes.
+
+11. INTERVAL 06 - DETERIORATION / KEEGAN
+
+- Intel 60 a 64 : examine la cabine, les escaliers, le quai, les wagons et
+  les bureaux avant de sortir sur les voies.
+- Reflex Injector 10 : apres la montee, fais demi-tour dans l'escalier et
+  prends la niche avant de redescendre.
+- Les explosions de barils, vehicules et objets lourds comptent comme
+  opportunites de combat. Utilise la tourelle quand elle est fournie.
+
+12. INTERVAL 06 - DETERIORATION / EPICENTER
+
+- Aucun Intel dans cette mission.
+- Reflex Injector 11 : avant le theatre principal, fouille la salle laterale
+  que les ennemis ouvrent depuis l'interieur.
+- Sauvegarde avant la grande salle et utilise les armes a energie sur les
+  ennemis blindes sans vider l'inventaire.
+
+13. INTERVAL 07 - UNION / APPROACH
+
+- Intel 65 a 71 : visite les quais de chargement, les bureaux, les plateformes
+  et les dessous d'escaliers avant d'ouvrir les portes blanches.
+- Reflex Injector 12 : dans la grande salle de chargement, descends par la
+  premiere echelle puis remonte par la seconde vers la niche qui surplombe
+  l'entree.
+- Fais les dix kills au Hammerhead et les dix tirs de sniper manquants avant
+  la fin de la mission.
+
+14. INTERVAL 07 - UNION / CLIMAX
+
+- Reflex Injector 13 : a la sortie du tunnel, prends l'objet directement
+  visible avant la prochaine transition.
+- Intel 72 a 76 : fouille la salle apres la bataille de tourelle, la piece
+  apres l'ascenseur, le couloir avec les machines, le bout du pont et les
+  caisses rouges apres le sas.
+- Verifie le PDA : Oracle correspond a 76/76 Intel et All Juiced Up a 13/13
+  injecteurs dans les versions qui affichent ces recompenses internes.
+- Termine la campagne dans la difficulte la plus haute pour clore la run.
+
+CHECKLIST DE CAMPAGNE
+
+[ ] Mission 01 Sanctuary - Intel 1-8.
+[ ] Mission 02 Awakening - Intel 9-19, Injector 1.
+[ ] Mission 03 Discovery - Intel 20-23, Injector 2.
+[ ] Mission 04 Withdrawal - Intel 24-28, Injector 3.
+[ ] Mission 05 Replica - Intel 29-33, Injector 4.
+[ ] Mission 06 Ruin - Intel 34-36, Injector 5.
+[ ] Mission 07 Top - Intel 37-38, Injector 6.
+[ ] Mission 08 Elementary - Intel 39-42, Injector 7.
+[ ] Mission 09 Nurse's Office - Intel 43-52, Injector 8.
+[ ] Mission 10 Snake Fist - Intel 53-59, Injector 9.
+[ ] Mission 11 Keegan - Intel 60-64, Injector 10.
+[ ] Mission 12 Epicenter - aucun Intel, Injector 11.
+[ ] Mission 13 Approach - Intel 65-71, Injector 12.
+[ ] Mission 14 Climax - Intel 72-76, Injector 13.
+
+COMPTEURS DE COMBAT A NETTOYER
+
+[ ] 10 kills au corps a corps.
+[ ] 10 ennemis rotis a l'arme incendiaire.
+[ ] 10 ennemis plantes au Hammerhead/Penetrator.
+[ ] 10 tetes au fusil de precision.
+[ ] 50 couvertures interactives retournees.
+[ ] 10 ennemis tues avec des opportunites de combat.
+[ ] Toutes les armes principales ramassees et testees.
+[ ] Toutes les armures, soins et munitions des salles secondaires ramasses.
+
+REborn - DLC OPTIONNEL
+
+- Si le DLC F.E.A.R. 2: Reborn apparait dans la bibliotheque, traite-le comme
+  une campagne separee apres Project Origin.
+- Fais les quatre missions du DLC dans l'ordre, fouille les salles laterales
+  et utilise les sauvegardes manuelles avant les arenas.
+- Le DLC n'ajoute pas de succes Steam a l'AppID 16450 : il reste inclus ici
+  comme contenu de campagne, pas comme une fausse extension de succes.
+
+VERIFICATION FINALE
+
+- [ ] 14/14 missions terminees.
+- [ ] PDA a 76/76 Intel.
+- [ ] PDA a 13/13 Reflex Injectors.
+- [ ] Compteurs de combat et de couverture verifies.
+- [ ] Difficulte la plus haute terminee.
+- [ ] Reborn termine si possede.
+- [ ] 0/0 succes Steam confirme pour l'edition visible.
+
+SOURCES DE CONTROLE
+
+- Page Steam de l'AppID 16450 :
+  https://store.steampowered.com/app/16450/FEAR_2_Project_Origin/
+- Repartition des 76 Intel et 13 Reflex Injectors :
+  https://fear.fandom.com/wiki/Interval_01_-_Premonition_-_Sanctuary
+- Parcours de verification de la campagne :
+  https://www.trueachievements.com/game/FEAR-2/walkthrough/2
+
+FIN DU GUIDE SPECIAL - SANS SPOILER

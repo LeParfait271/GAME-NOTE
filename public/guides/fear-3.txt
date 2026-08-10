@@ -1,0 +1,265 @@
+F.E.A.R. 3
+GUIDE CHRONOLOGIQUE 100 % STEAM - SANS SPOILER
+
+Version de travail : 11 aout 2026
+
+Ce parcours couvre les 50 succes Steam du jeu de base. Il separe la campagne,
+les defis de score, les Alma Dolls, les modes cooperatifs et les modes en
+ligne. Les noms d'intervalles servent uniquement de reperes de navigation :
+aucune mort, identite, trahison, fin ou consequence narrative n'est devoilee.
+
+OBJECTIF
+
+[ ] 50/50 succes Steam.
+[ ] 8/8 Alma Dolls, une par intervalle.
+[ ] 8 seuils de score atteints.
+[ ] Campagne terminee dans n'importe quelle difficulte.
+[ ] Campagne terminee en INSANE.
+[ ] Defis de combat et de grade termines.
+[ ] Contractions, Soul King et succes cooperatifs nettoyes.
+
+PERIMETRE STEAM
+
+- AppID Steam : 21100.
+- La page Steam officielle compte 50 succes.
+- Le solo couvre les 8 intervalles, les scores, les defis, les dolls et les
+  actions de combat.
+- Les succes de Contractions, Soul King, les revives et les deux succes
+  d'aide Pointman/Fettel demandent le mode coop ou multijoueur. Ils ne sont
+  pas remplacables par une partie solo.
+- Les scores de mission sont cumulatifs avec les defis : garde un objectif de
+  score par intervalle au lieu de rusher la sortie.
+
+GARDE-FOUS ET MISSABLES
+
+- Une seule Alma Doll apparait par intervalle et sa position est aleatoire,
+  sauf la premiere dans Prison. Si la doll n'est pas dans le premier repere,
+  redemarre l'intervalle : le jeu peut tirer un autre emplacement.
+- Ne valide pas la fin d'un intervalle avant d'avoir fouille les zones de doll
+  et tente le score indique. Le menu de selection d'intervalle permet de
+  refaire uniquement ce qui manque.
+- Pour A Precursor, fais la salle de poker de Prison avant de continuer :
+  active le ralenti et touche les trois cibles a la tete pendant la meme
+  fenetre.
+- Pour State-of-the-Art. Bang, Bang!, conserve un fusil de sniper et ne
+  change pas de cible entre les dix tirs a la tete consecutifs.
+- Pour Extremist, utilise un intervalle court en INSANE, sans recharger un
+  checkpoint et sans tomber en Last Stand. Fais une sauvegarde manuelle avant
+  le lancement de l'essai, puis traite chaque arene comme une run unique.
+- Les objectifs de Soul King et Contractions sont a faire dans un groupe
+  coordonne ; ne compte pas sur une partie publique pour un succes precis.
+
+ORDRE RECOMMANDE
+
+1. Premiere campagne en Normal avec les dolls et les actions faciles.
+2. Selection d'intervalle pour les seuils de score et le nettoyage des defis.
+3. Campagne INSANE, de preference avec Pointman si tu joues seul.
+4. Session coop Pointman/Fettel et Contractions.
+5. Soul King et derniers objectifs de grade.
+
+ROUTE CHRONOLOGIQUE DE CAMPAGNE
+
+INTERVALLE 01 - PRISON
+
+- Cherche la doll sous l'escalier, juste apres l'ouverture de la serrure
+  electrique. C'est le seul emplacement fixe de la campagne.
+- Dans la salle de poker, ne quitte pas la zone avant d'avoir obtenu A
+  Precursor : active le ralenti, aligne les trois tetes et ne gaspille pas la
+  fenetre sur un autre ennemi.
+- Pour Prison Impossible, atteins le seuil de score de l'intervalle :
+  [ ] 95 000 points.
+- Profite des premiers combats pour lancer Slow-Mo, faire des tirs a la tete,
+  utiliser les coups de pied et commencer les liens psychiques sur les corps.
+
+INTERVALLE 02 - SLUMS
+
+- La doll est aleatoire. Verifie d'abord le petit espace pres de la cabane,
+  a cote de la zone ou arrive le vehicule blinde.
+- Si elle n'est pas la, inspecte la piece avec le trou dans le mur, apres la
+  recuperation des grenades electriques et avant de retourner dans la rue.
+- [ ] Get To The Chopper valide par la progression de l'intervalle.
+- Seuil a viser pour Magna Slum Laude : [ ] 85 000 points.
+- Garde une cible vivante pour les tirs de sniper et les liens psychiques ;
+  les cadavres de cette mission peuvent etre utilises pour commencer les 100
+  liens sans modifier la route.
+
+INTERVALLE 03 - STORE
+
+- Dans l'entrepot, monte les rayonnages jusqu'au niveau superieur et inspecte
+  le secteur des televiseurs.
+- Dans la section jardin, regarde derriere le rideau et sur les rayonnages
+  accessibles par l'echelle. Un seul des points possibles contient la doll.
+- Pour Through the Haystack, conserve le multiplicateur de score et elimine
+  les ennemis rapproches avec des tirs propres plutot qu'en reculant hors de
+  la zone.
+- Seuil de Cannibal Run : [ ] 95 000 points.
+- Profite de cette mission pour faire des coups de pied et des tirs de sniper;
+  recharge la selection d'intervalle si une serie est interrompue.
+
+INTERVALLE 04 - SUBURBS
+
+- Verifie le terrain de basket a cote du mech avant de monter dans celui-ci.
+- Si la doll n'y est pas, inspecte le garage a l'arriere du batiment, apres le
+  champ de transformateurs. La doll peut etre dans l'un ou l'autre point.
+- Pour House Arrest, vise [ ] 105 000 points.
+- Pour Yo, Adrian!, profite de la zone ouverte : place-toi sur une trajectoire
+  sure, attends que deux ennemis soient regroupes, puis execute le slide kick
+  en Slow-Mo. Ce succes doit compter deux victimes avec un seul coup.
+
+INTERVALLE 05 - TOWER
+
+- Les apparitions de doll sont aleatoires dans les rues et les interieurs de
+  cette mission. Fouille chaque piece avant de franchir un portail de zone,
+  en commencant par le premier batiment puis les abords du checkpoint.
+- Les emplacements de repli les plus frequents sont le garage et les espaces
+  lateraux en hauteur ; regarde derriere les voitures, caisses et debris.
+- Seuil de Point Taken : [ ] 110 000 points.
+- Cette mission est pratique pour atteindre le grade 10 puis le grade 21 :
+  conserve les multiplicateurs et valide les defis secondaires qui s'affichent.
+
+INTERVALLE 06 - BRIDGE
+
+- Inspecte le chariot de transport au debut de l'intervalle, avant de suivre
+  la route principale.
+- Dans la place avec le mech sous bouclier energetique, longe le batiment du
+  panneau de commande et les projecteurs portatifs.
+- Quand tu controles le mech, franchis le premier pont puis tourne a gauche
+  avant la tour de garde ; le bord du pont peut contenir la doll.
+- Ces emplacements sont aleatoires : si les trois zones sont vides, relance
+  l'intervalle au lieu d'aller jusqu'au prochain point de controle.
+- Seuil de Crossing Over : [ ] 70 000 points.
+
+INTERVALLE 07 - PORT
+
+- Apres l'ascenseur avec les corps, descends et prends la porte a droite entre
+  les cabines telephoniques : c'est un emplacement possible.
+- Depuis le meme ascenseur, prends les escaliers puis va a droite vers le
+  restaurant Sophie’s Pizza : inspecte l'interieur avant de continuer.
+- Seuil de Point Authority : [ ] 110 000 points.
+- Fais ici les dix tirs de sniper consecutifs si tu ne les as pas encore. La
+  serie est validee seulement si aucun tir rate ou touche un autre emplacement
+  que la tete entre les victimes.
+
+INTERVALLE 08 - WARD
+
+- Avant d'activer le premier objectif de la zone centrale, fouille le hall,
+  les petites pieces laterales et la salle d'observation. Deux ou trois points
+  peuvent etre tires aleatoirement ; un seul contient la doll.
+- Garde la doll pour la fin du nettoyage de la selection de chapitre si tu
+  veux eviter de traverser la grande arene deux fois.
+- Le score Dream Score demande [ ] 50 000 points.
+- Yo, Adrian!, Doll Collector et Mission... accomplished? peuvent se terminer
+  sur cette derniere selection d'intervalle.
+
+CAMPAGNE ET DEFIS DE COMBAT
+
+- [ ] Mission... accomplished? : terminer les 8 intervalles dans n'importe
+  quelle difficulte.
+- [ ] Man Mode : terminer la campagne en INSANE.
+- [ ] Earl of Pain : 1 000 eliminations, tous modes confondus.
+- [ ] God Among Men : 250 eliminations pendant Slow-Mo.
+- [ ] Spiritually Attuned : 100 Psychic Links, en partage ou en vol.
+- [ ] Almost Halfway : atteindre le grade 10.
+- [ ] You’ve got the Touch! : atteindre le grade 21.
+- [ ] That's a lot of Zeros : obtenir 250 000 points cumules dans les defis.
+- [ ] Supreme Challenger : terminer 500 defis cumules de toutes categories.
+- [ ] Completionist : terminer chaque defi au moins une fois.
+- [ ] Insider Trading : posseder chaque type d'ennemi possedable.
+- [ ] Art Collector : empaler 100 ennemis avec le Penetrator ou les couteaux
+  Leaper.
+- [ ] No can defense! : 100 eliminations par Jump Kick ou Slide Kick.
+- [ ] Footy Foul : tuer deux ennemis avec un seul Slide Kick en Slow-Mo.
+- [ ] Head Crab Removal : 20 eliminations au pied-de-biche.
+- [ ] State-of-the-Art. Bang, Bang! : dix tirs de sniper a la tete consecutifs.
+- [ ] A Precursor : les trois tirs a la tete de la salle de poker de Prison.
+- [ ] Yo, Adrian! : le double Slide Kick en Slow-Mo dans Suburbs.
+- [ ] Doll Collector : une Alma Doll dans chacun des 8 intervalles.
+
+SCORES A VALIDER
+
+- [ ] Up The River : Intervalle 01 - 95 000.
+- [ ] Magna Slum Laude : Intervalle 02 - 85 000.
+- [ ] Cannibal Run : Intervalle 03 - 95 000.
+- [ ] House Arrest : Intervalle 04 - 105 000.
+- [ ] Point Taken : Intervalle 05 - 110 000.
+- [ ] Crossing Over : Intervalle 06 - 70 000.
+- [ ] Point Authority : Intervalle 07 - 110 000.
+- [ ] Dream Score : Intervalle 08 - 50 000.
+
+COOP POINTMAN / FETTEL
+
+- [ ] Little Brother's Helper : en Pointman, tuer 100 ennemis suspendus par
+  Fettel.
+- [ ] Big Brother's Helper : en Fettel, suspendre 100 ennemis que Pointman
+  tue.
+- Fais une session dediee avec un partenaire : l'un immobilise, l'autre
+  elimine, puis inversez les roles. Les compteurs sont plus fiables si la
+  partie reste dans le meme intervalle jusqu'a la notification.
+- [ ] I’m not a Doctor, I’m a Medic! : 50 revives dans n'importe quel mode.
+
+CONTRACTIONS
+
+- [ ] We’ll Try Again Tomorrow! : survivre a trois vagues consecutives sans
+  qu'un joueur ne ramene une caisse.
+- [ ] Dead Blind : passer une manche complete dans le brouillard profond sans
+  entrer en Last Stand.
+- [ ] I F.E.A.R. Nothing! : terminer une vague en INSANE sans Last Stand pour
+  personne.
+- [ ] Hanging 20 : atteindre la vague 20.
+- [ ] Handle with Care : ramener 30 caisses dans une seule partie.
+- Choisis une carte connue, attribue un joueur aux caisses, un autre aux
+  revives et conserve les grenades pour les vagues a brouillard.
+- Pour Extremist, fais une campagne INSANE sans recharge de checkpoint ni Last
+  Stand ; ce n'est pas le meme objectif que I F.E.A.R. Nothing!.
+
+SOUL KING
+
+- [ ] Soul Gatherer : 6 000 Souls dans une manche.
+- [ ] Indecisive : posseder 20 ennemis differents dans une manche.
+- [ ] Unstoppable! : gagner les 5 manches d'une partie en 5 manches.
+- [ ] Soul Hoarder : 25 000 Souls cumulees dans le match.
+- [ ] Monarch : gagner 20 manches de Soul King.
+- Fais d'abord une partie d'entrainement pour memoriser les apparitions, puis
+  une partie avec un partenaire qui te laisse le quota de Souls. Les objectifs
+  de victoire sont independants du score individuel.
+
+CHECKLIST FINALE DES 50 SUCCES
+
+01 [ ] Prison Impossible              26 [ ] State-of-the-Art. Bang, Bang!
+02 [ ] Get To The Chopper              27 [ ] Dead Blind
+03 [ ] Pain, In Bulk                   28 [ ] Soul Gatherer
+04 [ ] Town Hall Beating               29 [ ] Supreme Challenger
+05 [ ] Through the Haystack            30 [ ] I'm not a Doctor, I'm a Medic!
+06 [ ] Trouble Cross                   31 [ ] Head Crab Removal
+07 [ ] Terminal Victory                32 [ ] Indecisive
+08 [ ] Homecoming King                 33 [ ] Cannibal Run
+09 [ ] Mission... accomplished?        34 [ ] Doll Collector
+10 [ ] That's a lot of Zeros            35 [ ] Point Taken
+11 [ ] Almost Halfway                  36 [ ] Crossing Over
+12 [ ] A Precursor                     37 [ ] Man Mode
+13 [ ] Earl of Pain                    38 [ ] Magna Slum Laude
+14 [ ] God Among Men                   39 [ ] Up The River
+15 [ ] Spiritually Attuned             40 [ ] I F.E.A.R. Nothing!
+16 [ ] Dream Score                     41 [ ] Extremist
+17 [ ] Score Monger                    42 [ ] Point Authority
+18 [ ] Insider Trading                 43 [ ] Little Brother's Helper
+19 [ ] You've got the Touch!           44 [ ] Big Brother's Helper
+20 [ ] Footy Foul                      45 [ ] Unstoppable!
+21 [ ] Art Collector                   46 [ ] Hanging 20
+22 [ ] No can defense!                 47 [ ] Soul Hoarder
+23 [ ] Yo, Adrian!                     48 [ ] Monarch
+24 [ ] House Arrest                    49 [ ] Completionist
+25 [ ] We'll Try Again Tomorrow!       50 [ ] Handle with Care
+
+VALIDATION SANS SPOILER
+
+- [ ] Chaque intervalle affiche sa notification de fin.
+- [ ] Le compteur de dolls indique 8/8.
+- [ ] Les huit seuils de score sont obtenus.
+- [ ] Les modes coop et en ligne sont traites a part.
+- [ ] La page Steam affiche 50/50.
+
+Sources de verification utilisees pour la redaction : page officielle des
+succes Steam de F.E.A.R. 3, guide de reperage des Alma Dolls et manuel de
+progression par intervalles. Les conditions sont reformulees et le parcours
+reste volontairement sans element narratif.

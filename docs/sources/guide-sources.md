@@ -544,3 +544,159 @@ conditions difficiles ; elles ne justifient jamais une copie mot a mot.
   https://steamdb.info/app/620/stats/
 - Points verifies : campagne solo, cinq parcours coop, gestes, cubes,
   cameras, contraintes de temps et Professor Portal.
+
+## BIOSHOCK REMASTERED
+
+- Steam, liste officielle des 65 succes :
+  https://steamcommunity.com/stats/409710/achievements
+- AppID et edition remastered :
+  https://steamdb.info/app/409710/stats/
+- Points verifies : campagne, petites soeurs, recherche, inventions, tonics,
+  hacks, upgrades et Challenge Rooms.
+
+## BIOSHOCK 2 REMASTERED
+
+- Steam, liste officielle des 53 succes :
+  https://steamcommunity.com/stats/409720/achievements
+- AppID et edition remastered :
+  https://steamdb.info/app/409720/stats/
+- Points verifies : campagne, ADAM, recherche, Protector Trials, Minerva's Den
+  et Vacuum Bots.
+
+## BLACK MESA
+
+- Steam, liste officielle des 50 succes :
+  https://steamcommunity.com/stats/362890/achievements
+- AppID et campagne complete :
+  https://steamdb.info/app/362890/stats/
+- Points verifies : actions de campagne, recherches, pacifisme, stealth,
+  caches, scientifiques et objectifs Xen.
+
+## JOTUN: VALHALLA EDITION
+
+- Steam, liste officielle des 36 succes :
+  https://steamcommunity.com/stats/323580/achievements
+- AppID et perimetre Valhalla :
+  https://steamdb.info/app/323580/stats/
+- Points verifies : boss, sanctuaires, pommes, combats parfaits,
+  contre-la-montre et Valhalla Mode.
+
+## LITTLE NIGHTMARES II
+
+- Steam, liste officielle des 35 succes :
+  https://steamcommunity.com/stats/860510/achievements
+- AppID et perimetre des collectibles :
+  https://steamdb.info/app/860510/stats/
+- Points verifies : cinq chapitres, chapeaux, glitches et actions
+  contextuelles.
+
+## LIMBO
+
+- Steam, liste officielle des 13 succes :
+  https://steamcommunity.com/stats/48000/achievements
+- Guide de reperage des oeufs :
+  https://steamcommunity.com/sharedfiles/filedetails/?id=2948922082
+- Points verifies : 13 oeufs, DING! apres les autres oeufs et No Point in
+  Dying sur une run separee.
+
+## METRO 2033 - EDITION ORIGINALE
+
+- Steam, liste officielle des 48 succes :
+  https://steamcommunity.com/stats/43110/achievements
+- Page Steam de l'AppID original :
+  https://store.steampowered.com/app/43110/Metro_2033/
+- Guide de reperage des cartouches dorees :
+  https://www.trueachievements.com/a61170/sherlock-achievement
+- Points verifies : quatre stations de cartouches, caches Ranger, Frontline
+  en routes opposees, armes, deux modes Ranger et deux issues.
+
+## F.E.A.R. 2: PROJECT ORIGIN
+
+- Page Steam de l'AppID 16450 :
+  https://store.steampowered.com/app/16450/FEAR_2_Project_Origin/
+- Repartition des Intel et Reflex Injectors :
+  https://fear.fandom.com/wiki/Interval_01_-_Premonition_-_Sanctuary
+- Parcours de verification de la campagne :
+  https://www.trueachievements.com/game/FEAR-2/walkthrough/2
+- Statut verifie : aucun succes Steam sur l'edition visible ; le guide
+  couvre 14 missions, 76 Intel et 13 Reflex Injectors.
+
+## CALL OF JUAREZ: GUNSLINGER
+
+- Steam, liste officielle des 26 succes :
+  https://steamcommunity.com/stats/CallofJuarezGunslinger/achievements/
+- Page Steam :
+  https://store.steampowered.com/app/204450/Call_of_Juarez_Gunslinger/
+- Guide de verification des 54 Nuggets :
+  https://www.gamesradar.com/call-juarez-gunslinger-nuggets-truth-locations-guide-walkthrough/
+- Points verifies : Story, Hard, True West, competences, Arcade et Duel
+  Challenge.
+
+## CALL OF JUAREZ: BOUND IN BLOOD
+
+- Page Steam de l'AppID 21980 :
+  https://store.steampowered.com/app/21980/Call_of_Juarez_Bound_in_Blood/
+- Parcours de campagne, 15 chapitres et secrets :
+  https://www.trueachievements.com/game/Call-of-Juarez-Bound-in-Blood/walkthrough/1
+- Guide de chapitres :
+  https://www.gamepressure.com/callofjuarezboundinblood/
+- Statut verifie : aucun succes Steam sur l'edition visible ; le guide
+  couvre 15 chapitres et 89 secrets, hors anciens modes en ligne.
+
+## CALL OF JUAREZ
+
+- Page Steam de l'AppID 3020 :
+  https://store.steampowered.com/app/3020/Call_of_Juarez/
+- Manuel Steam officiel :
+  https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3020/manuals/manual_en.pdf
+- Liste de campagne et reperes des secrets :
+  https://callofjuarez.fandom.com/wiki/Call_of_Juarez_%28video_game%29
+- Statut verifie : aucun succes Steam sur l'edition visible ; le guide
+  couvre le prologue, 15 episodes et les missions bonus.
+
+## F.E.A.R. 3
+
+- Steam, liste officielle des 50 succes :
+  https://steamcommunity.com/stats/FEAR3/achievements
+- Reperes des 8 intervalles et des apparitions aleatoires des Alma Dolls :
+  https://www.gamepressure.com/fear3/alma-dolls/zd2e1e
+- Verification des scores, defis et dolls :
+  https://www.powerpyx.com/guides/fear_3.html
+- Points verifies : 8 intervalles, 8 dolls, seuils de score, INSANE,
+  Contractions, Soul King et succes coop.
+
+## RAGE
+
+- Steam, liste officielle des 60 succes :
+  https://steamcommunity.com/stats/Rage/achievements/
+- Page officielle de The Scorchers et son mode Ultra-Nightmare :
+  https://store.steampowered.com/app/209460/Rage_The_Scorchers/
+- Parcours des cartes, schematics, mini-jeux et point de non-retour :
+  https://gamefaqs.gamespot.com/xbox360/942657-rage/faqs/67125
+- Points verifies : AppID 9200, 54 cartes, 19 schematics, 18 sauts,
+  Authority Prison, The Well, 10 succes DLC et deux succes Road RAGE publics.
+
+## ALIENS VS. PREDATOR
+
+- Steam, liste officielle des 50 succes :
+  https://steamcommunity.com/stats/AliensvsPredator/achievements/
+- Manuel officiel PC, reperes des Audio Diaries, Royal Jelly et Trophy Belts :
+  https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/10680/manuals/AVP_G4W_MG_UK_DD.pdf?t=1603127038
+- Route de verification des trois collectibles :
+  https://www.playstationtrophies.org/game/aliens-vs-predator/guide/
+- Points verifies : trois campagnes, 67 Audio Diaries, 50 Royal Jelly,
+  45 Trophy Belts, difficultes Hard/Nightmare et 10 succes ranked.
+
+## DYING LIGHT
+
+- Steam, liste officielle des 78 succes :
+  https://steamcommunity.com/stats/DyingLight/achievements
+- Site officiel et perimetre Definitive Edition / The Following :
+  https://dyinglightgame.com/dying-light-1?lang=en
+- Repartition des 67 textes : 34 notes, 17 Battle Journals et 16 Voice Mails :
+  https://www.powerpyx.com/guide/dying-light-all-battle-journal-text-collectibles.html
+- Liste des zones de quarantaine et distinction base / DLC :
+  https://dyinglight.fandom.com/wiki/Quarantine_Zones
+- Points verifies : campagne, zones sures, quetes secondaires, 8 zones de
+  quarantaine de base, The Following, Bozak, Parkour Fever, Hellraid et gates
+  coop.

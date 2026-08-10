@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-08-10",
+  "checkedAt": "2026-08-11",
   "sourcePolicy": "Steam store page first; achievement conditions still require a second source during each guide audit.",
   "games": [
     { "id": "octopath-traveler-1", "appId": 921570, "steamAchievements": 88, "guideType": "100-steam", "source": "https://store.steampowered.com/app/921570/OCTOPATH_TRAVELER/" },
@@ -62,6 +62,21 @@
     { "id": "half-life-alyx", "appId": 546560, "steamAchievements": 42, "guideType": "100-steam-vr", "source": "https://steamcommunity.com/stats/546560/achievements" },
     { "id": "portal", "appId": 400, "steamAchievements": 15, "guideType": "100-steam-campaign-advanced-challenges", "source": "https://steamcommunity.com/stats/Portal/achievements" },
     { "id": "portal-2", "appId": 620, "steamAchievements": 51, "guideType": "100-steam-solo-coop-online", "source": "https://steamcommunity.com/stats/Portal2/achievements" },
+    { "id": "bioshock-remastered", "appId": 409710, "steamAchievements": 65, "guideType": "100-steam-plus-challenge-rooms", "source": "https://steamcommunity.com/stats/409710/achievements" },
+    { "id": "bioshock-2-remastered", "appId": 409720, "steamAchievements": 53, "guideType": "100-steam-plus-trials-minervas-den", "source": "https://steamcommunity.com/stats/409720/achievements" },
+    { "id": "black-mesa", "appId": 362890, "steamAchievements": 50, "guideType": "100-steam-campaign-xen", "source": "https://steamcommunity.com/stats/362890/achievements" },
+    { "id": "jotun-valhalla-edition", "appId": 323580, "steamAchievements": 36, "guideType": "100-steam-bosses-valhalla", "source": "https://steamcommunity.com/stats/323580/achievements" },
+    { "id": "little-nightmares-ii", "appId": 860510, "steamAchievements": 35, "guideType": "100-steam-collectibles", "source": "https://steamcommunity.com/stats/860510/achievements" },
+    { "id": "limbo", "appId": 48000, "steamAchievements": 13, "guideType": "100-steam-oeufs-run-no-death", "source": "https://steamcommunity.com/stats/48000/achievements" },
+    { "id": "metro-2033", "appId": 43110, "steamAchievements": 48, "guideType": "100-steam-original-two-ranger-runs", "source": "https://steamcommunity.com/stats/43110/achievements" },
+    { "id": "fear-2-project-origin", "appId": 16450, "steamAchievements": 0, "guideType": "special-no-steam-achievements-intel-reflex", "source": "https://store.steampowered.com/app/16450/FEAR_2_Project_Origin/" },
+    { "id": "call-of-juarez-gunslinger", "appId": 204450, "steamAchievements": 26, "guideType": "100-steam-story-arcade-duels", "source": "https://steamcommunity.com/stats/CallofJuarezGunslinger/achievements/" },
+    { "id": "call-of-juarez-bound-in-blood", "appId": 21980, "steamAchievements": 0, "guideType": "special-no-steam-achievements-campaign-secrets", "source": "https://store.steampowered.com/app/21980/Call_of_Juarez_Bound_in_Blood/" },
+    { "id": "call-of-juarez", "appId": 3020, "steamAchievements": 0, "guideType": "special-no-steam-achievements-campaign", "source": "https://store.steampowered.com/app/3020/Call_of_Juarez/" },
+    { "id": "fear-3", "appId": 21100, "steamAchievements": 50, "guideType": "100-steam-campaign-dolls-coop", "source": "https://steamcommunity.com/stats/FEAR3/achievements" },
+    { "id": "rage", "appId": 9200, "steamAchievements": 60, "guideType": "100-steam-campaign-scorchers-online", "source": "https://steamcommunity.com/stats/Rage/achievements/" },
+    { "id": "aliens-vs-predator", "appId": 10680, "steamAchievements": 50, "guideType": "100-steam-three-campaigns-collectibles-online", "source": "https://steamcommunity.com/stats/AliensvsPredator/achievements/" },
+    { "id": "dying-light", "appId": 239140, "steamAchievements": 78, "guideType": "100-steam-campaign-dlc-coop", "source": "https://steamcommunity.com/stats/DyingLight/achievements" },
     { "id": "titan-quest-2", "appId": 1154030, "steamAchievements": 0, "guideType": "hold-early-access", "source": "https://store.steampowered.com/app/1154030/Titan_Quest_II/" }
   ]
 }

@@ -68,6 +68,21 @@ soluce chronologique classique n'apporterait rien.
 - Half-Life: Alyx
 - Portal
 - Portal 2
+- BioShock Remastered
+- BioShock 2 Remastered
+- Black Mesa
+- Jotun: Valhalla Edition
+- Little Nightmares II
+- LIMBO
+- Metro 2033 (edition originale AppID 43110)
+- F.E.A.R. 2: Project Origin (guide special sans succes Steam)
+- Call of Juarez: Gunslinger
+- Call of Juarez: Bound in Blood (guide special sans succes Steam)
+- Call of Juarez (guide special sans succes Steam)
+- F.E.A.R. 3
+- RAGE
+- Aliens vs. Predator
+- Dying Light
 
 ## Futurs guides chronologiques (`planned`)
 
@@ -88,35 +103,20 @@ soluce chronologique classique n'apporterait rien.
 
 ### Resident Evil et action-aventure
 
-- Aliens vs. Predator
 - Dark Sector
 - Dead Island
-- Dying Light
-- F.E.A.R. 2: Project Origin
-- F.E.A.R. 3
-- Jotun: Valhalla Edition
-- LIMBO
-- Little Nightmares II
-- Metro 2033
 - Mirror's Edge
-- RAGE
 - Strife
 
 ### BioShock, Borderlands et FPS à campagne
 
 - BioShock
-- BioShock Remastered
 - BioShock 2
-- BioShock 2 Remastered
-- Black Mesa
 - Blood Omen 2: Legacy of Kain — soluce spéciale si aucun succès Steam
 - Borderlands 2
 - Borderlands GOTY
 - Borderlands GOTY Enhanced — variante à contrôler
 - Borderlands: The Pre-Sequel
-- Call of Juarez
-- Call of Juarez: Bound in Blood
-- Call of Juarez: Gunslinger
 - Command & Conquer Remastered Collection
 - DOOM 3: BFG Edition
 - DOOM 3: Resurrection of Evil
@@ -193,7 +193,6 @@ soluce chronologique classique n'apporterait rien.
 - Fable: The Lost Chapters
 - Fable III
 - The Witcher: Enhanced Edition
-- Metro 2033 — si l'édition affichée est l'ancienne version
 - S.T.A.L.K.E.R. — si les éditions Enhanced sont des doublons sans succès
 - Tomb Raider I / II / III — selon l'AppID et la présence réelle de succès
 
