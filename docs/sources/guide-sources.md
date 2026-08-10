@@ -120,3 +120,79 @@ conditions difficiles ; elles ne justifient jamais une copie mot a mot.
 - Points verifies : 37 succes, six techniques, 11 variantes de conclusion,
   15 cadres, Grand Slam, Feeding Frenzy, Immoral Compass, Chrono Cross,
   Mastermune et recrutement via les NG+.
+
+## RESIDENT EVIL 0
+
+- Steam, liste officielle des 47 succes : https://steamcommunity.com/stats/339340/achievements
+- Guide Steam 100 % des fichiers, armes et modes bonus :
+  https://steamcommunity.com/sharedfiles/filedetails/?id=3682732714
+- Parcours Steam de controle pour les contraintes et le nettoyage :
+  https://steamcommunity.com/sharedfiles/filedetails/?id=3593361837
+- Points verifies : campagne, Leech Hunter, Wesker Mode, fichiers, armes,
+  rangs et succes de contraintes.
+
+## RESIDENT EVIL REVELATIONS 2
+
+- Steam, liste officielle des 43 succes : https://steamcommunity.com/stats/287290/achievements
+- Guide Steam des medailles, routes et modes alternatifs :
+  https://steamcommunity.com/sharedfiles/filedetails/?id=3302926009&l=english
+- Points verifies : quatre episodes, medailles Claire / Barry, routes, couteau,
+  Countdown, Invisible et Raid Mode.
+
+## RESIDENT EVIL REVELATIONS
+
+- Steam, liste officielle des 50 succes : https://steamcommunity.com/stats/222480/achievements
+- Guide Steam 100 % de campagne et Raid :
+  https://steamcommunity.com/sharedfiles/filedetails/?id=2808198122
+- Guide Steam des 30 empreintes de main :
+  https://steamcommunity.com/sharedfiles/filedetails/?id=3541405688
+- PowerPyx, controle des emplacements d'empreintes :
+  https://www.powerpyx.com/guide-resident-evil-revelations-all-hand-print-locations.html
+- Points verifies : scans, 30 empreintes, extractions de campagne, Infernal,
+  bonus et Raid Mode.
+
+## ASSASSIN'S CREED ROGUE
+
+- Steam, liste officielle des 46 succes : https://steamcommunity.com/stats/311560/achievements
+- Guide Steam francais des defis, cartes et compteurs :
+  https://steamcommunity.com/sharedfiles/filedetails/?id=3448848242&l=french
+- Points verifies : synchronisation complete, 35 defis Abstergo, ordinateurs,
+  QG, forts, prisonniers, fragments, activites navales et absence de requis online.
+
+## A PLAGUE TALE: INNOCENCE
+
+- Steam, liste officielle des 35 succes : https://steamcommunity.com/stats/752590/achievements
+- Guide Steam chronologique :
+  https://steamcommunity.com/sharedfiles/filedetails/?id=1987696466
+- PowerPyx, cadeaux, curiosites, fleurs et chariots :
+  https://www.powerpyx.com/a-plague-tale-innocence-all-collectible-locations-herbariums-curiosities-gifts-carts/
+- Points verifies : 11 cadeaux, 26 curiosites, 13 fleurs, 5 chariots et reprise
+  par selection de chapitre.
+
+## INSIDE
+
+- Steam, liste officielle des 14 succes : https://steamcommunity.com/stats/304430/achievements
+- Guide Steam 100 % des orbes :
+  https://steamcommunity.com/sharedfiles/filedetails/?id=2147616108
+- Guide Steam de parcours et emplacements :
+  https://steamcommunity.com/sharedfiles/filedetails/?id=2564598727
+- Points verifies : 14 orbes, derniere orb conditionnee par les treize
+  precedentes et selection de chapitre.
+
+## FINAL FANTASY VIII - REMASTERED
+
+- Steam, liste officielle des 34 succes : https://steamcommunity.com/stats/1026680/achievements
+- Guide 100 % des succes et quetes :
+  https://steamah.com/final-fantasy-viii-remastered-100-achievement-guide/
+- Guide des objets et missables par disque :
+  https://gamefaqs.gamespot.com/ps/197343-final-fantasy-viii/faqs/72431/missable-item-walkthrough
+- Points verifies : 16 G-Forces, 12 Timber Maniacs, Club de cartes, Doomtrain,
+  UFO / PuPu, Obel Lake, Bahamut, Eden, Omega et compteurs.
+
+## STREETS OF RAGE 4
+
+- Steam, liste officielle des 45 succes : https://steamcommunity.com/stats/985890/achievements
+- Guide Steam 100 % avec la mise a jour Mr. X Nightmare :
+  https://steamcommunity.com/sharedfiles/filedetails/?id=2087920263
+- Points verifies : 12 stages, actions de decor, combos, rangs, Arcade,
+  personnages, All Clear, Survival, mouvements alternatifs et 8 succes DLC.

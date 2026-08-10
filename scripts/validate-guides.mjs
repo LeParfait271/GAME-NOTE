@@ -12,6 +12,14 @@ const steamAudit = JSON.parse(fs.readFileSync(steamAuditPath, "utf8"));
 const active = catalog.entries.filter((entry) => entry.scope === "full-guide");
 const issues = [];
 const pending = [];
+const catalogIds = new Set();
+
+for (const entry of catalog.entries) {
+  if (catalogIds.has(entry.id)) {
+    issues.push(`catalogue: identifiant duplique (${entry.id})`);
+  }
+  catalogIds.add(entry.id);
+}
 
 for (const entry of active) {
   const filePath = path.join(root, entry.file);
@@ -22,6 +30,9 @@ for (const entry of active) {
 
   const text = fs.readFileSync(filePath, "utf8");
   const auditEntry = steamAudit.games.find((game) => game.id === entry.id);
+  if (!auditEntry) {
+    issues.push(`${entry.id}: entree absente de docs/steam-audit.json`);
+  }
   const steamCheck = entry.id === "breath-of-fire-iv"
     ? [/(0|aucun)\s+succ[eè]s?\s+Steam/i, "exception sans succès Steam"]
     : [/(100\s*%|100\s*pour\s*cent).*Steam/i, "périmètre 100 % Steam"];

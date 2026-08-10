@@ -78,6 +78,27 @@ La fiche de recherche d'un jeu doit conserver les liens, la date de lecture,
 la version du jeu et les points vérifiés. Les sources ne sont pas copiées : le
 texte du guide est rédigé de façon originale et pratique.
 
+## Garde-fous renforcés pour les nouveaux lots
+
+- Pour chaque nouveau jeu, conserver dans `docs/steam-audit.json` l'AppID, le
+  nombre de succès relevé et le périmètre exact : DLC, Raid, Survival,
+  coopération, online ou absence de contenu annexe.
+- Distinguer les collectibles récupérables par sélection de chapitre des
+  collectibles à fenêtre unique. Une route doit prévenir le missable avant la
+  zone, puis proposer une sauvegarde ou un nettoyage séparé.
+- Pour les jeux à modes multiples, séparer la partie chronologique, les runs à
+  contrainte, le post-game et le coop. Ne jamais faire croire qu'un succès
+  online ou DLC est inclus dans la campagne de base.
+- Pour les jeux à runs ou à personnages, prévoir un ordre de déblocage, les
+  campagnes dédiées sans changement de personnage et le nettoyage des
+  compteurs ; une seule route narrative ne suffit pas pour le 100 %.
+- Pour les RPG à objets ou compétences missables, vérifier chaque extraction,
+  magazine, carte, quête et boss optionnel dans une sauvegarde dédiée avant le
+  point de non-retour. Le guide doit indiquer quoi sauvegarder et quoi vérifier
+  avant de gagner le combat.
+- La checklist finale doit contenir chaque intitulé Steam une seule fois, le
+  même total que l'audit et une vérification des modes additionnels.
+
 ## Contrôle avant publication
 
 - [ ] le bon jeu et le bon AppID sont identifiés ;

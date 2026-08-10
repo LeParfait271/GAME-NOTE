@@ -18,6 +18,14 @@
     { "id": "grandia-ii-hd-remaster", "appId": 330390, "steamAchievements": 36, "guideType": "100-steam", "source": "https://store.steampowered.com/app/330390/GRANDIA_II_HD_Remaster/" },
     { "id": "ori-and-the-will-of-the-wisps", "appId": 1057090, "steamAchievements": 37, "guideType": "100-steam", "source": "https://store.steampowered.com/app/1057090/ori_and_the_will_of_the_wisps/" },
     { "id": "gris", "appId": 683320, "steamAchievements": 17, "guideType": "100-steam", "source": "https://store.steampowered.com/app/683320/GRIS/" },
+    { "id": "resident-evil-0", "appId": 339340, "steamAchievements": 47, "guideType": "100-steam", "source": "https://store.steampowered.com/app/339340/Resident_Evil_0/" },
+    { "id": "resident-evil-revelations-2", "appId": 287290, "steamAchievements": 43, "guideType": "100-steam-plus-raid", "source": "https://store.steampowered.com/app/287290/Resident_Evil_Revelations_2/" },
+    { "id": "resident-evil-revelations", "appId": 222480, "steamAchievements": 50, "guideType": "100-steam-plus-raid", "source": "https://store.steampowered.com/app/222480/Resident_Evil_Revelations/" },
+    { "id": "assassins-creed-rogue", "appId": 311560, "steamAchievements": 46, "guideType": "100-steam", "source": "https://store.steampowered.com/app/311560/Assassins_Creed_Rogue/" },
+    { "id": "a-plague-tale-innocence", "appId": 752590, "steamAchievements": 35, "guideType": "100-steam", "source": "https://store.steampowered.com/app/752590/A_Plague_Tale_Innocence/" },
+    { "id": "inside", "appId": 304430, "steamAchievements": 14, "guideType": "100-steam", "source": "https://store.steampowered.com/app/304430/INSIDE/" },
+    { "id": "final-fantasy-viii-remastered", "appId": 1026680, "steamAchievements": 34, "guideType": "100-steam", "source": "https://store.steampowered.com/app/1026680/FINAL_FANTASY_VIII_Remastered/" },
+    { "id": "streets-of-rage-4", "appId": 985890, "steamAchievements": 45, "guideType": "100-steam-plus-dlc", "source": "https://store.steampowered.com/app/985890/Streets_of_Rage_4/" },
     { "id": "titan-quest-2", "appId": 1154030, "steamAchievements": 0, "guideType": "hold-early-access", "source": "https://store.steampowered.com/app/1154030/Titan_Quest_II/" }
   ]
 }

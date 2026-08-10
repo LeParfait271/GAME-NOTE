@@ -257,6 +257,126 @@ const guides: Guide[] = [
       "À surveiller : les mementos de chaque chapitre avant de changer de zone.",
     meta: ["17/17 Steam", "28 mementos", "Sans spoiler"],
   },
+  {
+    id: "resident-evil-0",
+    title: "Resident Evil 0",
+    eyebrow: "Resident Evil",
+    subtitle: "La route des 47 succes, modes bonus et armes.",
+    count: "47 succes",
+    file: "resident-evil-0.txt",
+    accent: "coral",
+    tag: "Nouveau guide",
+    description:
+      "Campagne, fichiers, Leech Hunter, Wesker Mode, rangs et contraintes dans l'ordre utile.",
+    highlight:
+      "A surveiller : les fichiers, les armes et les runs Leech Hunter / Wesker.",
+    meta: ["47/47 Steam", "Leech Hunter", "Sans spoiler"],
+  },
+  {
+    id: "resident-evil-revelations-2",
+    title: "Resident Evil Revelations 2",
+    eyebrow: "Resident Evil",
+    subtitle: "Episodes, medailles et Raid Mode sans spoiler.",
+    count: "43 succes",
+    file: "resident-evil-revelations-2.txt",
+    accent: "blue",
+    tag: "Nouveau guide",
+    description:
+      "Les quatre episodes, les deux routes, les medailles, les modes alternatifs et le Raid.",
+    highlight:
+      "A surveiller : les medailles, le couteau, les routes et les modes Countdown / Invisible.",
+    meta: ["43/43 Steam", "Medailles", "Raid Mode"],
+  },
+  {
+    id: "resident-evil-revelations",
+    title: "Resident Evil Revelations",
+    eyebrow: "Resident Evil",
+    subtitle: "Campagne, 30 empreintes et Raid Mode dans le meme parcours.",
+    count: "50 succes",
+    file: "resident-evil-revelations.txt",
+    accent: "gold",
+    tag: "Nouveau guide",
+    description:
+      "Episodes, scans, empreintes de main, difficultes, Ghost Ship et bonus Raid.",
+    highlight:
+      "A surveiller : les 30 empreintes sans selection de chapitre et les extractions de campagne.",
+    meta: ["50/50 Steam", "30 empreintes", "Raid Mode"],
+  },
+  {
+    id: "assassins-creed-rogue",
+    title: "Assassin's Creed Rogue",
+    eyebrow: "Assassin's Creed",
+    subtitle: "Campagne, carte et defis Abstergo dans l'ordre.",
+    count: "46 succes",
+    file: "assassins-creed-rogue.txt",
+    accent: "coral",
+    tag: "Nouveau guide",
+    description:
+      "Synchronisation complete, QG, forts, ordinateurs, navires et collectibles.",
+    highlight:
+      "A surveiller : les 35 defis Abstergo, les 20 ordinateurs et les compteurs navals.",
+    meta: ["46/46 Steam", "35 defis", "Sans online"],
+  },
+  {
+    id: "a-plague-tale-innocence",
+    title: "A Plague Tale: Innocence",
+    eyebrow: "Asobo Studio",
+    subtitle: "La campagne et les 50 collectibles sans spoiler.",
+    count: "35 succes",
+    file: "a-plague-tale-innocence.txt",
+    accent: "blue",
+    tag: "Nouveau guide",
+    description:
+      "Chapitres, cadeaux, curiosites, fleurs, chariots d'alchimiste et actions specifiques.",
+    highlight:
+      "A surveiller : les actions de chapitre et les collectibles a reprendre par selection.",
+    meta: ["35/35 Steam", "50 collectibles", "Sans spoiler"],
+  },
+  {
+    id: "inside",
+    title: "INSIDE",
+    eyebrow: "Playdead",
+    subtitle: "Les 14 orbes caches dans un parcours propre.",
+    count: "14 succes",
+    file: "inside.txt",
+    accent: "gold",
+    tag: "Nouveau guide",
+    description:
+      "Chaque orb dans l'ordre, avec la derniere reservee au nettoyage final.",
+    highlight:
+      "A surveiller : la quatorzieme orb ne devient accessible qu'apres les treize premieres.",
+    meta: ["14/14 Steam", "14 orbes", "Sans spoiler"],
+  },
+  {
+    id: "final-fantasy-viii-remastered",
+    title: "FINAL FANTASY VIII - REMASTERED",
+    eyebrow: "Final Fantasy",
+    subtitle: "G-Forces, cartes et missables dans l'ordre des disques.",
+    count: "34 succes",
+    file: "final-fantasy-viii-remastered.txt",
+    accent: "blue",
+    tag: "Nouveau guide",
+    description:
+      "Junctions, Timber Maniacs, Club de cartes, Doomtrain, UFO, Omega et compteurs.",
+    highlight:
+      "A surveiller : les extractions de G-Forces, les cartes et le bateau des SeeD blancs.",
+    meta: ["34/34 Steam", "16 G-Forces", "Anti-missables"],
+  },
+  {
+    id: "streets-of-rage-4",
+    title: "Streets of Rage 4",
+    eyebrow: "Dotemu",
+    subtitle: "Stages, personnages, rangs et DLC Mr. X Nightmare.",
+    count: "45 succes",
+    file: "streets-of-rage-4.txt",
+    accent: "coral",
+    tag: "Nouveau guide",
+    description:
+      "Actions des 12 stages, combos, All Clear, bornes retro, Arcade et Survival.",
+    highlight:
+      "A surveiller : les campagnes solo par personnage et les mouvements alternatifs du DLC.",
+    meta: ["45/45 Steam", "Mr. X Nightmare", "Sans spoiler"],
+  },
 ];
 
 function scrollToReader(
