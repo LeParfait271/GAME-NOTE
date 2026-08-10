@@ -773,6 +773,54 @@ const guides: Guide[] = [
       "A surveiller : ne pas melanger la sauvegarde Low Chaos avec la run High Chaos.",
     meta: ["80/80 Steam", "2 DLC", "Sans spoiler"],
   },
+  {
+    id: "tomb-raider-2013",
+    steamAppId: 203160,
+    title: "Tomb Raider (2013)",
+    eyebrow: "Crystal Dynamics",
+    subtitle: "Campagne, collecte et multijoueur dans le bon ordre.",
+    count: "50 succes",
+    file: "tomb-raider-2013.txt",
+    accent: "coral",
+    tag: "Solo + online",
+    description:
+      "Zones, tombeaux, defis, armes, competences et les 20 succes multijoueur.",
+    highlight:
+      "A surveiller : les actions de dynamite, tyrolienne et les matchs classes.",
+    meta: ["50/50 Steam", "20 online", "Sans spoiler"],
+  },
+  {
+    id: "rise-of-the-tomb-raider",
+    steamAppId: 391220,
+    title: "Rise of the Tomb Raider",
+    eyebrow: "Crystal Dynamics",
+    subtitle: "Campagne, DLC, score et Endurance en cooperation.",
+    count: "143 succes",
+    file: "rise-of-the-tomb-raider.txt",
+    accent: "blue",
+    tag: "Guide XXL",
+    description:
+      "Hubs, tombeaux, Baba Yaga, Blood Ties, cartes, Endurance et 19 objectifs coop.",
+    highlight:
+      "A surveiller : les scores, Extreme Survivor et l'Endurance coop.",
+    meta: ["143/143 Steam", "19 coop", "DLC inclus"],
+  },
+  {
+    id: "shadow-of-the-tomb-raider",
+    steamAppId: 750920,
+    title: "Shadow of the Tomb Raider",
+    eyebrow: "Definitive Edition",
+    subtitle: "100 % des zones, difficultes et sept tombeaux DLC.",
+    count: "99 succes",
+    file: "shadow-of-the-tomb-raider.txt",
+    accent: "gold",
+    tag: "DLC et difficulte",
+    description:
+      "Missions, collections, actions rares, New Game+ et Deadly Obsession.",
+    highlight:
+      "A surveiller : les actions ennemies avant la fin et les quatre difficultes.",
+    meta: ["99/99 Steam", "7 tombeaux DLC", "Sans spoiler"],
+  },
 ];
 
 const steamHeaderUrl = (appId: number) =>

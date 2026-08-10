@@ -56,6 +56,9 @@ soluce chronologique classique n'apporterait rien.
 - Beyond: Two Souls
 - Detroit: Become Human
 - Dishonored
+- Tomb Raider (2013)
+- Rise of the Tomb Raider
+- Shadow of the Tomb Raider: Definitive Edition
 
 ## Futurs guides chronologiques (`planned`)
 
@@ -75,9 +78,6 @@ soluce chronologique classique n'apporterait rien.
 - Assassin's Creed Valhalla
 - Hogwarts Legacy
 - Marvel's Guardians of the Galaxy
-- Rise of the Tomb Raider
-- Shadow of the Tomb Raider
-- Tomb Raider (2013)
 - Tomb Raider I
 - Tomb Raider II
 - Tomb Raider III: Adventures of Lara Croft

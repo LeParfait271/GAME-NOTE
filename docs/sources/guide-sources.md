@@ -425,3 +425,30 @@ conditions difficiles ; elles ne justifient jamais une copie mot a mot.
 - Manuel Steam : https://cdn.steamstatic.com/steam/apps/205100/manuals/dishonored-gfw-manual-v15.pdf
 - Points verifies : Ghost, Clean Hands, Low/High Chaos, pouvoirs, runes,
   bone charms, deux DLC narratifs et Dunwall City Trials.
+
+## TOMB RAIDER (2013)
+
+- Steam, liste officielle des 50 succes :
+  https://steamcommunity.com/stats/TombRaider/achievements
+- AppID et edition Game of the Year :
+  https://steamdb.info/app/203160/stats/
+- Points verifies : 30 succes solo, 20 succes multijoueur, collectibles,
+  tombeaux optionnels, defis, armes, competences, matchs classes et niveau 60.
+
+## RISE OF THE TOMB RAIDER
+
+- Steam, liste officielle des 143 succes :
+  https://steamcommunity.com/stats/391220/achievements
+- Page Steam et contenu 20 Year Celebration :
+  https://store.steampowered.com/app/391220/Rise_of_the_Tomb_Raider/
+- Points verifies : campagne, hubs, Baba Yaga, Blood Ties, Lara's Nightmare,
+  Cold Darkness, Endurance solo, Score Attack et 19 objectifs Endurance coop.
+
+## SHADOW OF THE TOMB RAIDER - DEFINITIVE EDITION
+
+- Steam, liste officielle des 99 succes :
+  https://steamcommunity.com/stats/750920/achievements
+- Page Steam officielle : https://store.steampowered.com/app/750920/Shadow_of_the_Tomb_Raider/
+- DLC et sept tombeaux : https://store.steampowered.com/dlc/750920/Shadow_of_the_Tomb_Raider_Definitive_Edition/
+- Points verifies : 100 % des zones principales, actions manquables,
+  difficultes cumulatives, Deadly Obsession et sept tombeaux DLC.

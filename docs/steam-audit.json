@@ -49,6 +49,9 @@
     { "id": "beyond-two-souls", "appId": 960990, "steamAchievements": 45, "guideType": "100-steam-two-runs-duo-check", "source": "https://store.steampowered.com/app/960990/Beyond_Two_Souls/" },
     { "id": "detroit-become-human", "appId": 1222140, "steamAchievements": 48, "guideType": "100-steam-flowchart", "source": "https://store.steampowered.com/app/1222140/Detroit_Become_Human/" },
     { "id": "dishonored", "appId": 205100, "steamAchievements": 80, "guideType": "100-steam-plus-dlc-trials", "source": "https://store.steampowered.com/app/205100/Dishonored/" },
+    { "id": "tomb-raider-2013", "appId": 203160, "steamAchievements": 50, "guideType": "100-steam-campaign-multiplayer", "source": "https://steamcommunity.com/stats/TombRaider/achievements" },
+    { "id": "rise-of-the-tomb-raider", "appId": 391220, "steamAchievements": 143, "guideType": "100-steam-plus-dlc-coop", "source": "https://steamcommunity.com/stats/391220/achievements" },
+    { "id": "shadow-of-the-tomb-raider", "appId": 750920, "steamAchievements": 99, "guideType": "100-steam-plus-seven-dlc", "source": "https://steamcommunity.com/stats/750920/achievements" },
     { "id": "titan-quest-2", "appId": 1154030, "steamAchievements": 0, "guideType": "hold-early-access", "source": "https://store.steampowered.com/app/1154030/Titan_Quest_II/" }
   ]
 }
