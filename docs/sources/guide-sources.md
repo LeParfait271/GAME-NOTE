@@ -474,3 +474,30 @@ conditions difficiles ; elles ne justifient jamais une copie mot a mot.
   https://steamcommunity.com/sharedfiles/filedetails/?id=2714304602
 - Points verifies : 16 chapitres, tenues, objets de Gardiens, archives,
   compendium, aptitudes, combats et paiement de l'amende du chapitre 6.
+
+## ASSASSIN'S CREED ORIGINS
+
+- Steam, liste officielle des 67 succes :
+  https://steamcommunity.com/stats/582160/achievements
+- AppID et edition Steam :
+  https://steamdb.info/app/582160/stats/
+- Points verifies : Egypte, lieux, papyrus, arena, hippodrome, Phylakes,
+  The Hidden Ones, The Curse of the Pharaohs et compteurs speciaux.
+
+## ASSASSIN'S CREED ODYSSEY
+
+- Steam, liste officielle des 93 succes :
+  https://steamcommunity.com/stats/812140/achievements
+- Page Steam et perimetre DLC :
+  https://store.steampowered.com/app/812140/Assassins_Creed_Odyssey/
+- Points verifies : Grece, culte, mercenaires, Adrestia, Lost Tales,
+  Legacy of the First Blade et Fate of Atlantis.
+
+## ASSASSIN'S CREED VALHALLA
+
+- Steam, liste officielle des 92 succes :
+  https://steamcommunity.com/stats/2208920/achievements
+- AppID et edition Steam :
+  https://steamdb.info/app/2208920/stats/
+- Points verifies : Angleterre, colonie, Ordre, Orlog, peche, Tombs of the
+  Fallen, Mastery Challenge, Irlande, Francia, Forgotten Saga et Ragnarok.

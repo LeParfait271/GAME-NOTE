@@ -54,6 +54,9 @@
     { "id": "shadow-of-the-tomb-raider", "appId": 750920, "steamAchievements": 99, "guideType": "100-steam-plus-seven-dlc", "source": "https://steamcommunity.com/stats/750920/achievements" },
     { "id": "hogwarts-legacy", "appId": 990080, "steamAchievements": 45, "guideType": "100-steam-four-house-routes", "source": "https://steamcommunity.com/stats/990080/achievements" },
     { "id": "marvels-guardians-of-the-galaxy", "appId": 1088850, "steamAchievements": 59, "guideType": "100-steam-collectibles-combat", "source": "https://steamcommunity.com/stats/1088850/achievements" },
+    { "id": "assassins-creed-origins", "appId": 582160, "steamAchievements": 67, "guideType": "100-steam-plus-two-dlc", "source": "https://steamcommunity.com/stats/582160/achievements" },
+    { "id": "assassins-creed-odyssey", "appId": 812140, "steamAchievements": 93, "guideType": "100-steam-plus-dlc", "source": "https://steamcommunity.com/stats/812140/achievements" },
+    { "id": "assassins-creed-valhalla", "appId": 2208920, "steamAchievements": 92, "guideType": "100-steam-plus-dlc-modes", "source": "https://steamcommunity.com/stats/2208920/achievements" },
     { "id": "titan-quest-2", "appId": 1154030, "steamAchievements": 0, "guideType": "hold-early-access", "source": "https://store.steampowered.com/app/1154030/Titan_Quest_II/" }
   ]
 }

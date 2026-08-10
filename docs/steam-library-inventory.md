@@ -61,6 +61,9 @@ soluce chronologique classique n'apporterait rien.
 - Shadow of the Tomb Raider: Definitive Edition
 - Hogwarts Legacy
 - Marvel's Guardians of the Galaxy
+- Assassin's Creed Origins
+- Assassin's Creed Odyssey
+- Assassin's Creed Valhalla
 
 ## Futurs guides chronologiques (`planned`)
 
@@ -75,9 +78,6 @@ soluce chronologique classique n'apporterait rien.
 
 ### Assassin's Creed, Batman et aventures
 
-- Assassin's Creed Origins
-- Assassin's Creed Odyssey
-- Assassin's Creed Valhalla
 - Tomb Raider I
 - Tomb Raider II
 - Tomb Raider III: Adventures of Lara Croft

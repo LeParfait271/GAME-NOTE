@@ -853,6 +853,54 @@ const guides: Guide[] = [
       "A surveiller : la sauvegarde continue, les objets de chapitre et l'amende du chapitre 6.",
     meta: ["59/59 Steam", "Hors ligne", "Sans spoiler"],
   },
+  {
+    id: "assassins-creed-origins",
+    steamAppId: 582160,
+    title: "Assassin's Creed Origins",
+    eyebrow: "Ubisoft Montreal",
+    subtitle: "Egypte, lieux, arena et deux DLC dans l'ordre.",
+    count: "67 succes",
+    file: "assassins-creed-origins.txt",
+    accent: "gold",
+    tag: "Guide DLC",
+    description:
+      "Carte, papyrus, cercles, arena, hippodrome, Phylakes et compteurs speciaux.",
+    highlight:
+      "A surveiller : les 100 trinkets, Overdesign et les fenetres de DLC.",
+    meta: ["67/67 Steam", "2 DLC", "Sans spoiler"],
+  },
+  {
+    id: "assassins-creed-odyssey",
+    steamAppId: 812140,
+    title: "Assassin's Creed Odyssey",
+    eyebrow: "Ubisoft Quebec",
+    subtitle: "Grece, culte, navire et DLC en parcours complet.",
+    count: "93 succes",
+    file: "assassins-creed-odyssey.txt",
+    accent: "blue",
+    tag: "Guide XXL",
+    description:
+      "Regions, choix, mercenaires, Adrestia, Lost Tales et deux arcs DLC.",
+    highlight:
+      "A surveiller : les choix de relation, les sous-regions et les trois episodes.",
+    meta: ["93/93 Steam", "DLC inclus", "Sans spoiler"],
+  },
+  {
+    id: "assassins-creed-valhalla",
+    steamAppId: 2208920,
+    title: "Assassin's Creed Valhalla",
+    eyebrow: "Ubisoft Montreal",
+    subtitle: "Angleterre, colonie et tous les modes DLC.",
+    count: "92 succes",
+    file: "assassins-creed-valhalla.txt",
+    accent: "coral",
+    tag: "Guide marathon",
+    description:
+      "Territoires, Ordre, raids, Orlog, peche, Mastery, Irlande, Francia et Ragnarok.",
+    highlight:
+      "A surveiller : les actions speciales, les modes et les cartes DLC.",
+    meta: ["92/92 Steam", "DLC + modes", "Sans spoiler"],
+  },
 ];
 
 const steamHeaderUrl = (appId: number) =>
@@ -1094,6 +1142,7 @@ export default function Home() {
                 <span className="card-tag">{guide.tag}</span>
               </div>
               <div className="card-artwork">
+                {/* eslint-disable-next-line @next/next/no-img-element */}
                 <img
                   src={guide.artworkUrl ?? steamHeaderUrl(guide.steamAppId)}
                   alt={`Illustration officielle de ${guide.title}`}
