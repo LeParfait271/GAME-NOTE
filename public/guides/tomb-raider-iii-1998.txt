@@ -1,0 +1,218 @@
+TOMB RAIDER III (1998)
+GUIDE SPECIAL CHRONOLOGIQUE - SANS SPOILER
+
+Version de travail : 11 aout 2026
+
+Ce guide couvre l'edition Steam originale AppID 225320, pas Tomb Raider I-III
+Remastered. La fiche Steam originale n'expose pas de succes Steam. Le 100 %
+utile est la campagne en 19 niveaux, les 59 secrets officiels et le niveau
+bonus All Hallows. The Lost Artifact est une extension separee et reste hors
+du perimetre de l'AppID 225320.
+
+OBJECTIF REEL
+
+[ ] 19/19 niveaux de la campagne principale.
+[ ] 59/59 secrets officiels et ouverture de All Hallows.
+[ ] Routes alternatives de Coastal Village et de Londres traitees avec les
+    bons choix de sauvegarde.
+[ ] Tous les artefacts, cles et objets de progression valides.
+[ ] 0/0 succes Steam : l'AppID 225320 n'en propose pas.
+
+GARDE-FOUS ET MISSABLES
+
+- Apres l'Inde, le jeu laisse choisir l'ordre de plusieurs regions. Ce guide
+  fixe l'ordre Nevada, South Pacific, London, puis Antarctica pour conserver
+  une route chronologique reproductible.
+- Le compteur officiel est 59 secrets. Coastal Village peut afficher 4/3
+  avec les deux branches ; ce resultat est normal et le total peut monter a
+  60/59. La cible minimum pour All Hallows reste 59 secrets.
+- Dans Lud's Gate, une branche privilegie le secret et l'autre un objet de
+  munitions. Fais une sauvegarde avant la decision et choisis la branche du
+  secret pour ce guide ; ne promets pas tous les pickups des deux branches en
+  une seule route.
+- Thames Wharf contient un objet de passage qui compte comme secret. Note le
+  compteur avant d'entrer dans le metro et recharge si le son manque.
+- La plupart des niveaux ne permettent pas un retour complet. Sauvegarde au
+  debut de chaque niveau et controle la statistique avant la sortie.
+
+ROUTE CHRONOLOGIQUE - CAMPAGNE PRINCIPALE
+
+00 - LARA'S HOME
+
+- Fais le tutoriel et teste les mouvements de sprint, d'accroupissement et de
+  rampe. Aucun secret de campagne ne compte ici.
+- [ ] Sauvegarde fonctionnelle avant Jungle.
+
+01 - JUNGLE
+
+- Explore les hauteurs, les ruines laterales et les zones de vegetation avant
+  d'utiliser les leviers de sortie.
+- [ ] Secrets selon la statistique ; objectif de route : 6.
+- Fais la collecte avant de prendre le vehicule et note le compteur de niveau.
+
+02 - TEMPLE RUINS
+
+- Traite les salles a leviers et les bassins par boucles, puis verifie les
+  chemins sur les cotes avant les portes de sortie.
+- [ ] Objectif de route : 4 secrets.
+- Les pieges et les interrupteurs peuvent fermer un retour : sauvegarde avant
+  chaque grande salle et recharge si la statistique est incomplete.
+
+03 - RIVER GANGES
+
+- Explore la berge et les raccourcis avant chaque saut de vehicule.
+- [ ] Objectif de route : 5 secrets.
+- La conduite peut isoler une plateforme : prends les secrets avant de suivre
+  le courant et controle la statistique avant l'arrivee.
+
+04 - CAVES OF KALIYA
+
+- Termine le labyrinthe et conserve les munitions pour la sortie.
+- [ ] 0 secret officiel dans ce niveau.
+- [ ] Inde complete ; note le total cumule avant de choisir Nevada.
+
+05 - NEVADA DESERT
+
+- Fouille les canyons, les rampes et les zones de passage avant de poursuivre
+  vers l'installation.
+- [ ] Objectif de route : 3 secrets.
+- Fais une sauvegarde avant la zone de vehicule et une autre avant la sortie.
+
+06 - HIGH SECURITY COMPOUND
+
+- Utilise les passages de service et les salles laterales avant d'activer la
+  progression vers la zone securisee.
+- [ ] Objectif de route : 3 secrets.
+- Un objet de progression ouvre une boucle temporaire : ramasse le secret
+  avant de revenir vers la porte principale.
+
+07 - AREA 51
+
+- Parcours les hangars, les passerelles et les couloirs de securite avant le
+  dernier code de sortie.
+- [ ] Objectif de route : 3 secrets.
+- La zone finale ne se revisite pas facilement : sauvegarde avant le dernier
+  panneau et valide [ ] Nevada 9 secrets.
+
+08 - COASTAL VILLAGE
+
+- Pour le chemin de collecte, explore la premiere branche, conserve une
+  sauvegarde, puis traite l'autre branche si le niveau permet le retour.
+- [ ] 3 secrets requis dans la statistique ; le jeu peut permettre [ ] 4/3
+  selon la combinaison de chemins.
+- Le total cumule peut depasser le compteur officiel : ne panique pas si tu
+  vois 60/59, c'est une consequence du secret alternatif.
+
+09 - CRASH SITE
+
+- Fais le tour des epaves, des plates-formes et des passages en hauteur avant
+  de remettre le parcours en mouvement.
+- [ ] Objectif de route : 3 secrets.
+- Controle la sortie du niveau avant de passer a Madubu Gorge.
+
+10 - MADUBU GORGE
+
+- Avance par bassins, cascades et passages de vehicule en sauvegardant avant
+  les longues descentes.
+- [ ] Objectif de route : 3 secrets.
+- Les courants peuvent fermer les retours : prends les secrets avant l'usage
+  du vehicule et verifie la statistique.
+
+11 - TEMPLE OF PUNA
+
+- Explore les salles de pieges et les passerelles avant le dernier levier.
+- [ ] Objectif de route : 3 secrets.
+- [ ] South Pacific valide ; fais une sauvegarde avant la transition vers
+  Thames Wharf.
+
+12 - THAMES WHARF
+
+- Fouille les quais, les toits et les galeries avant de descendre dans le
+  metro.
+- [ ] Objectif de route : 3 secrets, dont l'objet de progression qui compte
+  dans le total des secrets.
+- Sauvegarde avant l'entree dans le metro : le retour complet n'est plus
+  fiable apres cette transition.
+
+13 - ALDWYCH
+
+- Explore les quais, salles laterales et escaliers avant de suivre le tunnel
+  principal.
+- [ ] Objectif de route : 3 secrets.
+- Controle les salles de service avant de consommer le dernier levier de
+  sortie.
+
+14 - LUD'S GATE
+
+- Fais une sauvegarde avant la bifurcation de collecte.
+- [ ] Objectif de route : 3 secrets.
+- Choisis la branche qui preserve le secret ; l'autre peut offrir un pickup de
+  munitions a la place. Ne continue pas si le compteur de secret est faux.
+
+15 - CITY
+
+- Parcours les toits et les rues dans les deux sens avant la porte de sortie.
+- [ ] Objectif de route : 3 secrets.
+- [ ] London valide ; garde une sauvegarde avant Antarctica.
+
+16 - ANTARCTICA
+
+- Explore les cabanes, l'eau et les passerelles avant de prendre la route des
+  mines.
+- [ ] Objectif de route : 3 secrets.
+- Le froid et l'eau rendent les retours dangereux : sauvegarde avant chaque
+  grande traversee.
+
+17 - RX-TECH MINES
+
+- Utilise les rails et les passerelles en controlant les boucles laterales
+  avant la sortie de la mine.
+- [ ] Objectif de route : 3 secrets.
+- Un objet de passage ouvre une zone qui ne revient pas apres le dernier
+  transport : verifie la statistique avant de partir.
+
+18 - LOST CITY OF TINNOS
+
+- Traite les quatre familles de mecanismes et les salles laterales avant la
+  derniere porte.
+- [ ] Objectif de route : 3 secrets.
+- Sauvegarde avant la section finale et confirme le total cumule.
+
+19 - METEORITE CAVERN
+
+- Termine la campagne et valide la statistique avant le generique.
+- [ ] Objectif de route : 3 secrets.
+- Si le cumul atteint 59/59, le niveau bonus All Hallows devient accessible
+  apres la fin de la campagne.
+
+20 - ALL HALLOWS - BONUS
+
+- Ce niveau est la recompense de la route secrets ; il ne remplace aucun des
+  19 niveaux principaux.
+- [ ] All Hallows termine.
+- Le niveau comporte sa propre statistique et une collecte supplementaire,
+  mais le compteur officiel de la campagne reste 59.
+
+EXTENSION SEPAREE - THE LOST ARTIFACT
+
+- Cette extension n'est pas la campagne de l'AppID 225320. Si elle est
+  disponible, traite-la apres All Hallows.
+- Ordre : Highland Fling, Willard's Lair, Shakespeare Cliff, Sleeping with
+  the Fishes, It's a Madhouse!, Reunion.
+- [ ] 6/6 niveaux de l'extension ; garde les secrets de l'extension separes du
+  total 59/59 de Tomb Raider III original.
+
+CHECKLIST FINALE
+
+[ ] Inde complete ; Nevada complete ; South Pacific complete ; London
+    complete ; Antarctica complete.
+[ ] 59/59 secrets officiels, ou 60/59 si le secret alternatif de Coastal
+    Village a ete obtenu.
+[ ] All Hallows termine.
+[ ] The Lost Artifact separee si installee.
+[ ] 0/0 succes Steam et aucun gate online.
+
+Sources de verification : fiches Steam de Tomb Raider III (1998), StrategyWiki
+pour l'ordre des regions et des niveaux, WikiRaider pour les 59 secrets et All
+Hallows, et les reperes de la solution officielle. Les instructions sont
+reformulees et la route ne revele pas l'histoire.

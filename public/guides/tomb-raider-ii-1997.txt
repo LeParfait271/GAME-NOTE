@@ -1,0 +1,204 @@
+TOMB RAIDER II (1997)
+GUIDE SPECIAL CHRONOLOGIQUE - SANS SPOILER
+
+Version de travail : 11 aout 2026
+
+Ce guide couvre l'edition Steam originale AppID 225300, pas Tomb Raider I-III
+Remastered. La fiche Steam originale n'expose pas de succes Steam : le 100 %
+utile est donc la campagne de 18 niveaux et ses 48 secrets. Chaque secret de
+la campagne est un dragon d'une des trois couleurs. The Golden Mask est une
+extension PC separee, decrite dans un chapitre optionnel.
+
+OBJECTIF REEL
+
+[ ] 18/18 niveaux de la campagne originale.
+[ ] 48/48 dragons secrets : trois dans chacun des 16 niveaux qui en proposent.
+[ ] Tous les objets de progression, armes utiles et vehicules controles.
+[ ] Sauvegardes avant les demolitions, descentes, vehicules et sorties de zone.
+[ ] 0/0 succes Steam : l'AppID 225300 n'en propose pas.
+
+GARDE-FOUS ET MISSABLES
+
+- Les dragons sont comptabilises par l'ecran de statistiques. Les niveaux 17
+  et 18 n'ajoutent pas de dragons : ne cherche pas un 49e ou un 50e secret.
+- Bartoli's Hideout contient un dragon derriere une zone detruite : sauvegarde
+  avant de declencher la demolition et valide le son avant de poursuivre.
+- Dans les niveaux sous-marins, le retour est parfois limite par l'air et les
+  courants. Fais une sauvegarde au debut de chaque epave et note les trois
+  dragons avant de prendre la sortie.
+- Le mode de progression peut faire perdre les armes d'un niveau a l'autre.
+  Ce n'est pas un bug de compteur : conserve munitions et medipacks pour la
+  zone en cours, puis utilise les statistiques comme preuve de 100 %.
+
+ROUTE CHRONOLOGIQUE - CAMPAGNE ORIGINALE
+
+00 - LARA'S HOME
+
+- Fais le tutoriel et teste les sauvegardes. Aucun dragon secret ne compte ici.
+- [ ] Commandes, inventaire et sauvegarde valides.
+
+01 - THE GREAT WALL
+
+- Explore le chemin exterieur et les hauteurs avant d'utiliser la tyrolienne.
+- [ ] 3/3 dragons.
+- Le troisieme est dans la boucle basse : ne prends pas la tyrolienne sans
+  avoir verifie le son de secret.
+
+02 - VENICE
+
+- Fais les canaux lateraux et les toits avant d'utiliser le bateau pour la
+  progression principale.
+- [ ] 3/3 dragons.
+- La vitesse du bateau peut fermer un retour ; sauvegarde avant chaque long
+  trajet et reviens inspecter les quais.
+
+03 - BARTOLI'S HIDEOUT
+
+- Fais les pieces laterales, les terrasses et le parcours sous l'eau avant de
+  preparer les explosifs de la zone.
+- [ ] 3/3 dragons.
+- Le dragon de la structure condamnee est le missable critique : prends-le
+  avant la demolition et verifie l'ecran de statistiques.
+
+04 - OPERA HOUSE
+
+- Explore les passerelles, les salles laterales et les balcons avant la sortie
+  vers l'appareil de transport.
+- [ ] 3/3 dragons.
+- Une longue descente et la sequence de sortie empechent le retour ; sauvegarde
+  avant le dernier levier.
+
+05 - OFFSHORE RIG
+
+- Fouille les coursives, les cabines et les plateformes avant de restaurer la
+  route de sortie.
+- [ ] 3/3 dragons.
+- Ne confonds pas les zones de maintenance et les couloirs de retour : fais
+  le tour complet avant de prendre l'ascenseur.
+
+06 - DIVING AREA
+
+- Controle les salles immergees, les conduits et les passerelles avant de
+  repasser en surface.
+- [ ] 3/3 dragons.
+- Garde une sauvegarde avant chaque plongee et utilise les poches d'air pour
+  verifier les trois sons sans vider la barre d'oxygene.
+
+07 - 40 FATHOMS
+
+- Traite le parcours sous-marin par sections courtes et marque chaque retour
+  vers les poches d'air.
+- [ ] 3/3 dragons.
+- Le secret n'est pas une raison pour prendre un courant sans reserve :
+  recharge si tu arrives a court d'air avant la sortie.
+
+08 - WRECK OF THE MARIA DORIA
+
+- Parcours les ponts, cabines et passages inverses en gardant une sauvegarde
+  au debut de chaque epave.
+- [ ] 3/3 dragons.
+- Les decors se ressemblent : note le dragon deja ramasse avant de changer de
+  pont et ne quitte pas la carcasse sans les trois sons.
+
+09 - LIVING QUARTERS
+
+- Fais les pieces de service, les dortoirs et les couloirs avant la route vers
+  le pont suivant.
+- [ ] 3/3 dragons.
+- Verifie les alcoves avant de remettre le niveau en mouvement et conserve les
+  munitions pour les couloirs fermes.
+
+10 - THE DECK
+
+- Nettoie le pont, les superstructures et les portes de progression avant de
+  lancer la sortie du secteur.
+- [ ] 3/3 dragons.
+- Dernier niveau du bloc maritime : [ ] 18/30 dragons apres validation des
+  niveaux 5 a 10 et [ ] 30/48 depuis le debut si les deux premiers blocs sont
+  propres.
+
+11 - TIBETAN FOOTHILLS
+
+- Fais le parcours exterieur et les chemins de neige avant d'utiliser les
+  vehicules et les passerelles.
+- [ ] 3/3 dragons.
+- Sauvegarde avant chaque course de vehicule ; les pentes peuvent empecher le
+  retour vers un dragon laisse derriere.
+
+12 - BARKHANG MONASTERY
+
+- Explore les salles du monastere, les cours et les galeries avant de suivre
+  la porte de sortie.
+- [ ] 3/3 dragons.
+- Les portes et les alliés ouvrent des boucles temporaires : fais les salles
+  laterales avant de valider l'objectif principal.
+
+13 - CATACOMBS OF THE TALION
+
+- Parcours les galeries, les puits et les passerelles avant de reprendre la
+  route vers la zone de glace.
+- [ ] 3/3 dragons.
+- Sauvegarde avant le combat de la zone finale et verifie les trois dragons
+  dans la statistique de niveau.
+
+14 - ICE PALACE
+
+- Explore les salles de glace et les huttes avant d'activer les mecanismes de
+  progression.
+- [ ] 3/3 dragons.
+- Le dragon de la zone de combat est plus simple a prendre avant le dernier
+  interrupteur ; ne franchis pas la descente sans le son.
+
+15 - TEMPLE OF XIAN
+
+- Fais la boucle des pieges, salles laterales et plateformes avant la grande
+  section de sortie.
+- [ ] 3/3 dragons.
+- Les longues glissades sont des points de non-retour pratiques : sauvegarde
+  au sommet et recharge si un des trois sons manque.
+
+16 - FLOATING ISLANDS
+
+- Avance par ilots, verifie chaque rebord avant le saut suivant et garde une
+  sauvegarde avant les plateformes mobiles.
+- [ ] 3/3 dragons.
+- Les erreurs de saut coutent souvent une collecte et beaucoup de munitions :
+  recharge plutot que de continuer avec un compteur incomplet.
+
+17 - THE DRAGON'S LAIR
+
+- Termine le niveau final de la campagne principale.
+- Aucun dragon secret n'est compte ici : [ ] 48/48 apres les 16 niveaux
+  precedents.
+- Fais une sauvegarde avant la derniere confrontation et controle l'ecran de
+  statistiques avant de lancer l'epilogue.
+
+18 - HOME SWEET HOME
+
+- Termine l'epilogue et conserve la sauvegarde de fin.
+- Aucun dragon secret n'est compte dans ce niveau.
+- [ ] 18/18 niveaux ; [ ] 48/48 dragons ; [ ] campagne complete.
+
+EXTENSION SEPAREE - THE GOLDEN MASK
+
+- Cette extension PC n'est pas la campagne de l'AppID 225300 visible sur la
+  fiche Steam originale. Si elle est installee, traite-la apres le jeu de base.
+- Ordre : The Cold War, Fool's Gold, Furnace of the Gods, Kingdom.
+- Chaque niveau contient 3 secrets, soit [ ] 12/12. La collecte des 12 ouvre
+  le bonus Nightmare in Vegas, qui contient encore [ ] 3/3 secrets.
+- [ ] 5/5 niveaux Gold ; [ ] 15/15 secrets Gold si cette extension est
+  disponible ; ne les melange pas aux 48 dragons du jeu de base.
+
+CHECKLIST FINALE
+
+[ ] 16 niveaux a dragons verifies a 3/3.
+[ ] 48/48 dragons de la campagne originale.
+[ ] The Dragon's Lair termine sans chercher de secret supplementaire.
+[ ] Home Sweet Home termine.
+[ ] Golden Mask separee si installee.
+[ ] 0/0 succes Steam ; aucun gate online.
+
+Sources de verification : fiche Steam de Tomb Raider II (1997), WikiRaider
+pour l'ordre des 18 niveaux et les 48 secrets, la page WikiRaider des dragons
+et les reperes de The Golden Mask. Les emplacements sont reformules et la
+route ne revele pas l'histoire.
