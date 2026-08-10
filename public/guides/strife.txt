@@ -1,0 +1,200 @@
+STRIFE: VETERAN EDITION
+GUIDE CHRONOLOGIQUE 100 % STEAM - SANS SPOILER
+
+Version de travail : 11 aout 2026
+
+Ce guide couvre l'AppID Steam 317040 et ses 20 succes. Il separe la route
+principale, les trois conclusions, les secret areas, les talismans, la demo
+Trust No One, Bloodbath et le mode Capture the Chalice. Les noms de zones et
+de missions sont des reperes de navigation ; aucun evenement narratif n'est
+explique.
+
+OBJECTIF
+
+[ ] 20/20 succes Steam.
+[ ] 16/16 secret areas pour Completionist dans une seule sauvegarde.
+[ ] 10 ameliorations stamina/accuracy pour Fully Amphed.
+[ ] 3 talismans pour Berserk Reborn.
+[ ] Trois conclusions obtenues depuis des sauvegardes branchees.
+[ ] Best ending en Bloodbath pour Unstoppable.
+[ ] Demo Trust No One terminee sur n'importe quelle difficulte puis en moins
+    de six minutes en Bloodbath.
+[ ] Une victoire Capture the Chalice en multijoueur.
+
+SAUVEGARDES OBLIGATOIRES
+
+- Slot A : debut de campagne, apres l'entrainement.
+- Slot B : juste avant le choix de route dans New Front Base.
+- Slot C : avant chaque branche de conclusion.
+- Slot D : avant l'Entity pour la run Bloodbath.
+- Ne remplace jamais la sauvegarde de la route complete avant d'avoir valide
+  les 16 secrets et les trois talismans.
+
+GARDE-FOUS
+
+- MISSABLES : les sauvegardes de securite et les branches de conclusion sont
+  traitees avant chaque point de non-retour.
+- Les 16 secret areas et les ameliorations de stats doivent etre obtenues dans
+  une seule sauvegarde ; suis la route favorable a la collecte jusqu'au
+  nettoyage final.
+- Le premier parcours doit etre Normal pour apprendre les zones. La run
+  Bloodbath est separee ; n'essaie pas de combiner toutes les conclusions,
+  les secrets et la difficulte maximale sans sauvegardes.
+- Pour How Hard Can It Be?, desactive les alarmes de la Power Station : ne
+  declenche pas de rayon laser, ne tire pas sur un garde devant une alarme et
+  sauvegarde avant d'ouvrir la zone du cristal.
+- Trust No One n'affiche pas de condition detaillee dans la page statistique
+  Steam. Place-le sur la premiere fin de campagne et verifie la notification ;
+  conserve la sauvegarde si le succes ne tombe pas immediatement.
+
+ORDRE CHRONOLOGIQUE
+
+01 - DEMO / TRAINING FACILITY
+
+- Fais d'abord le parcours d'entrainement sans le chrono, puis recharge la
+  demo Trust No One depuis le menu principal.
+- [ ] Top of the class : entrainement termine.
+- [ ] Tourist : demo terminee dans n'importe quelle difficulte.
+- [ ] Hardcore Warm-up : demo terminee en Bloodbath en moins de 6 minutes.
+- Pour le chrono, memorise la porte, le raccourci, la recharge et la sortie
+  avant de viser le temps. Une mort impose de recommencer la demo.
+
+02 - SANCTUARY / TOWN / FRONT BASE
+
+- Termine la mission de Rowan avant de prendre les missions secondaires.
+- Recupere le Com Unit et le Base Key, puis parle aux vendeurs, medic et
+  entraineur avant de partir.
+- Secret 01 [ ] Town : cache pres de la porte du Governor.
+- Secret 02 [ ] Front Base : alcove cachee dans l'ascenseur vers les barracks.
+- [ ] Silence is Golden : mission de Rowan.
+- Utilise les tokens de stats des que la mission rend un chit disponible.
+
+03 - POWER STATION
+
+- Fais la route furtive jusqu'au cristal sans declencher d'alarme.
+- Secrets 03-04 [ ] Power Station : les deux caches derriere les cascades.
+- [ ] How Hard Can It Be? : cristal recupere sans alarme.
+- Apres la mission, retourne voir les medics et l'entraineur pour convertir les
+  tokens en stamina et accuracy.
+
+04 - PRISON / SEWERS
+
+- Ouvre les cellules et termine la mission de liberation avant de continuer.
+- Secret 05 [ ] Prison : alcove ouverte par l'interrupteur de l'autel.
+- [ ] Lending a Hand : prisonniers liberes.
+- Secret 06 [ ] Sewers : porte secrete en diagonale de la salle de la porte du
+  Gate Mechanism.
+- [ ] Gate Mechanism termine ; recupere le token de stats de Macil.
+
+05 - CASTLE / AUDIENCE CHAMBER / PROGRAMMER'S KEEP
+
+- Termine la formation, puis avance vers l'Audience Chamber et le Keep.
+- Secrets 07-09 [ ] Audience Chamber : derriere le trone, sous le lit du
+  Programmer et alcove de la salle nord.
+- Secret 10 [ ] Programmer's Keep : derriere le contrefort au sud-est en haut
+  de la pyramide.
+- [ ] Bish-Slapped : Bishop vaincu.
+- [ ] Code Monkey : Programmer vaincu.
+- [ ] Mystical Doubletalk : Loremaster vaincu quand la route le rend
+  disponible.
+- Convertis chaque token de stats immediatement, puis verifie le menu avant
+  de quitter la zone.
+
+06 - NEW FRONT BASE / BORDERLANDS
+
+- Apres la mort du Programmer, le Front Base change : recharge la sauvegarde
+  uniquement si tu dois reprendre un secret ou un token.
+- Secret 11 [ ] Borderlands : cache accessible en longeant la corniche depuis
+  l'entree de la Fortress.
+- [ ] Fully Amphed : toutes les ameliorations stamina et accuracy obtenues.
+- [ ] Spontaneous Combustion : equipe le flamethrower, enflamme un Acolyte et
+  laisse le corps en feu toucher trois autres Acolytes. Fais-le dans une zone
+  avec quatre cibles groupees et recharge si la chaine casse.
+
+07 - TEMPLE OF THE ORACLE / CATABCOMS / MINES
+
+- Suis l'ordre donne par le Front et fouille les zones avant chaque transfert.
+- Secret 12 [ ] Catacombs: Ruined Temple : zone cachee au nord ; active le
+  pilier de la salle pour rabattre les murs puis ressors sans te faire ecraser.
+- Rassemble les fragments et retourne au point de branchement avec la
+  sauvegarde Slot B intacte.
+
+08 - FORTRESS / FACTORY / ORDER COMMONS
+
+- Parcours Administration, Bishop's Tower, Bailey, Stores et Security Complex
+  avant Factory Receiving.
+- Secret 13 [ ] Factory: Manufacturing : porte cachee de la tour de garde au
+  dessus du reacteur.
+- Secret 14 [ ] Factory: Conversion Chapel : les deux passages caches de la
+  chapelle.
+- Secret 15 [ ] Order Commons : passage dans la tour pres de l'entree de la
+  Factory.
+- Exploite les bancs de munitions et convertis les derniers tokens avant la
+  route de fin.
+
+09 - TALISMANS / FACTORY: PRODUCTION
+
+- Talisman vert [ ] : Catacombs: Ruined Temple, dans la salle secrete du nord.
+- Talisman bleu [ ] : conserve le Blue Offering Chalice trouve dans la
+  Factory, donne-le a Timothy dans Order Commons puis suis l'indication vers
+  la zone de forge.
+- Talisman rouge [ ] : ouvre Factory: Production apres la sequence du chalice
+  et recupere le talisman dans cette map bonus.
+- [ ] Berserk Reborn : trois talismans sur la meme sauvegarde.
+
+10 - BRANCHES DE CONCLUSION
+
+- Avant de parler au personnage qui propose la decision de route, cree Slot C.
+- Branche 1 [ ] Galiant Hero : route de la meilleure conclusion, puis termine
+  l'Entity.
+- Branche 2 [ ] Without Hope : route de la conclusion intermediaire, puis
+  termine l'Entity.
+- Branche 3 [ ] Extinction : route de la pire conclusion ou echec final selon
+  le choix de la sauvegarde ; valide la notification sans chercher de details
+  narratifs.
+- [ ] Trust No One : fin de campagne validee ; condition Steam non detaillee,
+  verifier la notification.
+- [ ] Unstoppable : rejoue la branche de la meilleure conclusion en Bloodbath.
+
+11 - SECRET AREAS RESTANTES
+
+- Secret 16 [ ] Abandoned Front Base : alcove secrete de l'ascenseur vers les
+  barracks, distincte de celle de Front Base.
+- Compteur final : [ ] 16/16 secret areas ; [ ] 10/10 stats ; [ ] 3/3
+  talismans.
+- [ ] Completionist : notification sur la sauvegarde de collecte.
+
+MODE EN LIGNE
+
+- [ ] Grab the Fancy Cup : gagne une partie Capture the Chalice.
+- Le succes demande un match multijoueur ; il ne se remplace pas par un
+  botmatch ou par la campagne. Verifie l'acces au lobby avant de lancer la
+  derniere phase de nettoyage.
+
+CHECKLIST FINALE DES 20 SUCCES
+
+01 [ ] Silence is Golden
+02 [ ] Lending a Hand
+03 [ ] Code Monkey
+04 [ ] Bish-Slapped
+05 [ ] So Much for Prognostication
+06 [ ] Trust No One
+07 [ ] Top of the class
+08 [ ] Spontaneous Combustion
+09 [ ] Mystical Doubletalk
+10 [ ] Galiant Hero
+11 [ ] Extinction
+12 [ ] Tourist
+13 [ ] How Hard Can It Be?
+14 [ ] Fully Amphed
+15 [ ] Berserk Reborn
+16 [ ] Without Hope
+17 [ ] Hardcore Warm-up
+18 [ ] Completionist
+19 [ ] Unstoppable
+20 [ ] Grab the Fancy Cup
+
+Sources de verification : liste officielle des 20 succes Steam de Strife,
+StrategyWiki/Doom Wiki pour les fins, les missions, les stats et les 16
+secrets, et le forum Steam pour les trois talismans. Les conditions sont
+reformulees et la route reste sans spoiler.

@@ -1221,6 +1221,86 @@ const guides: Guide[] = [
       "A surveiller : les textes apres l'histoire, les zones de quarantaine et les succes coop.",
     meta: ["78/78 Steam", "DLC inclus", "Sans spoiler"],
   },
+  {
+    id: "dark-sector",
+    steamAppId: 29900,
+    title: "Dark Sector",
+    eyebrow: "Digital Extremes",
+    subtitle: "Campagne en 10 chapitres et 37 weapon upgrades.",
+    count: "0 succes Steam",
+    file: "dark-sector.txt",
+    accent: "blue",
+    tag: "Guide special",
+    description:
+      "Route de campagne, Black Markets, rubles et 37 upgrades dans une seule sauvegarde.",
+    highlight:
+      "A surveiller : les upgrades 11, 16 et 20 sont a prendre avant la transition de zone.",
+    meta: ["0/0 Steam", "37 upgrades", "Sans spoiler"],
+  },
+  {
+    id: "mirrors-edge",
+    steamAppId: 17410,
+    title: "Mirror's Edge",
+    eyebrow: "DICE",
+    subtitle: "Prologue, neuf chapitres, Runner Bags et Time Trials.",
+    count: "0 succes Steam",
+    file: "mirrors-edge.txt",
+    accent: "coral",
+    tag: "Guide special",
+    description:
+      "Route du mode Story, 30 Runner Bags, checkpoints et DLC Pure Time Trials.",
+    highlight:
+      "A surveiller : trois sacs par niveau ; les Time Trials et le DLC restent separes.",
+    meta: ["0/0 Steam", "30 Runner Bags", "Sans spoiler"],
+  },
+  {
+    id: "bioshock",
+    steamAppId: 7670,
+    title: "BioShock",
+    eyebrow: "2K Boston",
+    subtitle: "Rapture, 122 Audio Diaries et 12 Power to the People.",
+    count: "0 succes Steam",
+    file: "bioshock.txt",
+    accent: "blue",
+    tag: "Guide special",
+    description:
+      "Route originale de Rapture, missables, recherches, plasmids et tonics.",
+    highlight:
+      "A surveiller : 5 diaries definitivement missables dans Welcome to Rapture et Central Control.",
+    meta: ["0/0 Steam", "122 diaries", "Sans spoiler"],
+  },
+  {
+    id: "strife",
+    steamAppId: 317040,
+    title: "Strife: Veteran Edition",
+    eyebrow: "Night Dive Studios",
+    subtitle: "Missions, secrets, trois conclusions, Bloodbath et multi.",
+    count: "20 succes",
+    file: "strife.txt",
+    accent: "gold",
+    tag: "Campagne + online",
+    description:
+      "Route 100 % Steam, 16 secrets, trois talismans et branches de fin.",
+    highlight:
+      "A surveiller : preserve une sauvegarde avant la branche finale et le mode Capture the Chalice.",
+    meta: ["20/20 Steam", "3 fins", "Sans spoiler"],
+  },
+  {
+    id: "bioshock-2",
+    steamAppId: 8850,
+    title: "BioShock 2",
+    eyebrow: "2K Marin",
+    subtitle: "Campagne, Protector Trials, Minerva's Den et multi.",
+    count: "68 succes",
+    file: "bioshock-2.txt",
+    accent: "coral",
+    tag: "Guide XXL",
+    description:
+      "Route solo, recherches, Little Sisters, DLC, trials et succes multijoueur.",
+    highlight:
+      "A surveiller : la run sans Vita-Chambers, les 10 Vacuum Bots et le gate online.",
+    meta: ["68/68 Steam", "DLC inclus", "Online separe"],
+  },
 ];
 
 const steamHeaderUrl = (appId: number) =>

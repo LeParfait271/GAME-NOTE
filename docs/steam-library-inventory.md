@@ -83,6 +83,11 @@ soluce chronologique classique n'apporterait rien.
 - RAGE
 - Aliens vs. Predator
 - Dying Light
+- Dark Sector (guide special sans succes Steam)
+- Mirror's Edge (guide special sans succes Steam)
+- BioShock (guide special sans succes Steam)
+- Strife: Veteran Edition
+- BioShock 2
 
 ## Futurs guides chronologiques (`planned`)
 
@@ -103,15 +108,10 @@ soluce chronologique classique n'apporterait rien.
 
 ### Resident Evil et action-aventure
 
-- Dark Sector
 - Dead Island
-- Mirror's Edge
-- Strife
 
 ### BioShock, Borderlands et FPS à campagne
 
-- BioShock
-- BioShock 2
 - Blood Omen 2: Legacy of Kain — soluce spéciale si aucun succès Steam
 - Borderlands 2
 - Borderlands GOTY

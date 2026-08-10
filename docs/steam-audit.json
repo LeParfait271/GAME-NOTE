@@ -77,6 +77,11 @@
     { "id": "rage", "appId": 9200, "steamAchievements": 60, "guideType": "100-steam-campaign-scorchers-online", "source": "https://steamcommunity.com/stats/Rage/achievements/" },
     { "id": "aliens-vs-predator", "appId": 10680, "steamAchievements": 50, "guideType": "100-steam-three-campaigns-collectibles-online", "source": "https://steamcommunity.com/stats/AliensvsPredator/achievements/" },
     { "id": "dying-light", "appId": 239140, "steamAchievements": 78, "guideType": "100-steam-campaign-dlc-coop", "source": "https://steamcommunity.com/stats/DyingLight/achievements" },
-    { "id": "titan-quest-2", "appId": 1154030, "steamAchievements": 0, "guideType": "hold-early-access", "source": "https://store.steampowered.com/app/1154030/Titan_Quest_II/" }
+    { "id": "titan-quest-2", "appId": 1154030, "steamAchievements": 0, "guideType": "hold-early-access", "source": "https://store.steampowered.com/app/1154030/Titan_Quest_II/" },
+    { "id": "dark-sector", "appId": 29900, "steamAchievements": 0, "guideType": "special-no-steam-achievements-37-upgrades", "source": "https://store.steampowered.com/app/29900/Dark_Sector/" },
+    { "id": "mirrors-edge", "appId": 17410, "steamAchievements": 0, "guideType": "special-no-steam-achievements-30-runner-bags", "source": "https://store.steampowered.com/app/17410/Mirrors_Edge/" },
+    { "id": "bioshock", "appId": 7670, "steamAchievements": 0, "guideType": "special-no-steam-achievements-diaries-upgrades", "source": "https://store.steampowered.com/app/7670/BioShock/" },
+    { "id": "strife", "appId": 317040, "steamAchievements": 20, "guideType": "100-steam-campaign-endings-online", "source": "https://steamcommunity.com/stats/317040/achievements/" },
+    { "id": "bioshock-2", "appId": 8850, "steamAchievements": 68, "guideType": "100-steam-campaign-dlc-online", "source": "https://steamcommunity.com/stats/8850/achievements" }
   ]
 }

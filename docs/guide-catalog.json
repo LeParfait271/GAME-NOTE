@@ -83,6 +83,11 @@
     { "id": "dota-underlords", "title": "Dota Underlords", "scope": "excluded", "status": "excluded", "file": null, "reason": "Autobattler sans campagne chronologique." },
     { "id": "brotato", "title": "Brotato", "scope": "excluded", "status": "excluded", "file": null, "reason": "Roguelite à runs : une roadmap succès séparée serait plus adaptée." },
     { "id": "dota-2", "title": "Dota 2", "scope": "excluded", "status": "excluded", "file": null, "reason": "Jeu compétitif sans parcours chronologique." },
-    { "id": "final-fantasy-vii-ever-crisis", "title": "FINAL FANTASY VII EVER CRISIS", "scope": "excluded", "status": "excluded", "file": null, "reason": "Jeu-service et contenu évolutif, sans route 100 % stable." }
+    { "id": "final-fantasy-vii-ever-crisis", "title": "FINAL FANTASY VII EVER CRISIS", "scope": "excluded", "status": "excluded", "file": null, "reason": "Jeu-service et contenu évolutif, sans route 100 % stable." },
+    { "id": "dark-sector", "title": "Dark Sector", "scope": "special", "status": "draft", "file": "public/guides/dark-sector.txt", "reason": "L'AppID Steam visible n'expose pas de succes : guide de campagne et 37 upgrades transparent." },
+    { "id": "mirrors-edge", "title": "Mirror's Edge", "scope": "special", "status": "draft", "file": "public/guides/mirrors-edge.txt", "reason": "L'AppID Steam visible n'expose pas de succes : guide de campagne, 30 Runner Bags et Time Trials transparent." },
+    { "id": "bioshock", "title": "BioShock", "scope": "special", "status": "draft", "file": "public/guides/bioshock.txt", "reason": "L'AppID original 7670 n'expose pas de succes Steam : guide de campagne, diaries et upgrades transparent." },
+    { "id": "strife", "title": "Strife: Veteran Edition", "scope": "full-guide", "status": "draft", "file": "public/guides/strife.txt" },
+    { "id": "bioshock-2", "title": "BioShock 2", "scope": "full-guide", "status": "draft", "file": "public/guides/bioshock-2.txt" }
   ]
 }

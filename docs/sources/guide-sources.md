@@ -700,3 +700,68 @@ conditions difficiles ; elles ne justifient jamais une copie mot a mot.
 - Points verifies : campagne, zones sures, quetes secondaires, 8 zones de
   quarantaine de base, The Following, Bozak, Parkour Fever, Hellraid et gates
   coop.
+
+## DARK SECTOR
+
+- Fiche Steam officielle, AppID 29900 et absence de fonctionnalite Steam
+  Achievements sur l'edition visible :
+  https://store.steampowered.com/app/29900/Dark_Sector/
+- Ordre des dix chapitres et reperes de campagne :
+  https://darksector.fandom.com/wiki/Category%3AWalkthrough
+- FAQ des 37 weapon upgrades, repartis des chapitres 2 a 9 :
+  https://gamefaqs.gamespot.com/ps3/928272-dark-sector/faqs/52289
+- Points verifies : route en 10 chapitres, Black Markets, rubles et upgrades
+  facultatifs ; aucun faux succes Steam n'est ajoute.
+
+## MIRROR'S EDGE
+
+- Fiche Steam officielle, AppID 17410 :
+  https://store.steampowered.com/app/17410/Mirrors_Edge/
+- Chapitres et ordre de progression :
+  https://strategywiki.org/wiki/Mirror%27s_Edge/Table_of_Contents
+- Repartition et checkpoints des 30 Runner Bags :
+  https://www.gamerstemple.com/vg/games39/004156/004156g115.asp
+- DLC Pure Time Trials, neuf courses sur sept cartes nouvelles :
+  https://s204.q4cdn.com/701424631/files/doc_news/2008/12/1/352306.pdf
+- Points verifies : edition Steam sans succes Steam, 30 sacs, Story et Time
+  Trials separes ; aucun faux 100 % Steam n'est ajoute.
+
+## BIOSHOCK ORIGINAL
+
+- Fiche Steam officielle, AppID 7670 :
+  https://store.steampowered.com/app/7670/BioShock/
+- Confirmation de la difference avec BioShock Remastered AppID 409710 et ses
+  65 succes :
+  https://steamcommunity.com/stats/409710/achievements
+- Liste des 122 Audio Diaries et des cinq missables definitifs :
+  https://bioshock.fandom.com/wiki/Historian
+- Emplacements des 12 Power to the People :
+  https://www.supercheats.com/guides/bioshock/weapon-upgrades
+- Points verifies : route de l'edition originale, diaries, stations, recherches
+  et missables ; aucun succes Remastered n'est attribue a l'AppID 7670.
+
+## STRIFE VETERAN EDITION
+
+- Liste officielle des 20 succes Steam :
+  https://steamcommunity.com/stats/317040/achievements/
+- Secrets, stats et reperes des zones :
+  https://doom.fandom.com/wiki/All_secrets_and_stats_increases_in_Strife%3A_Veteran_Edition
+- Branches de fin et sauvegarde de securite :
+  https://strategywiki.org/wiki/Strife/Endings
+- Talismans et conditions de routes :
+  https://steamcommunity.com/app/317040/discussions/0/626329820960865457/
+- Points verifies : 20 succes, 16 secrets, missions, upgrades, trois branches
+  de fin et gates Bloodbath/multijoueur ; conditions reformulees.
+
+## BIOSHOCK 2 ORIGINAL
+
+- Fiche Steam et contenu inclus, AppID 8850 :
+  https://store.steampowered.com/app/8850/BioShock_2/
+- Liste officielle des 68 succes Steam :
+  https://steamcommunity.com/stats/8850/achievements
+- Annonce Valve confirmant les DLC, Protector Trials, Minerva's Den et succes :
+  https://store.steampowered.com/news/11567/
+- Ordre des zones de campagne et de Minerva's Den :
+  https://bioshock.fandom.com/wiki/BioShock_2_Locations
+- Points verifies : campagne, Little Sisters, recherches, Protector Trials,
+  Minerva's Den, 68 succes et gate multijoueur separe.
