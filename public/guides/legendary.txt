@@ -1,0 +1,148 @@
+LEGENDARY
+GUIDE SPECIAL CHRONOLOGIQUE - SANS SPOILER
+
+Version de travail : 11 aout 2026
+
+Ce guide couvre l'edition Steam AppID 16730, campagne solo. La fiche Steam
+n'affiche pas de liste Steam Achievements : il n'y a donc pas de 100 % Steam a
+promettre. Le 100 % utile consiste a terminer les six arcs de campagne, a
+ramasser tous les objets PDA visibles et a lire chaque entree obtenue.
+
+OBJECTIF REEL
+
+[ ] Campagne terminee dans l'ordre.
+[ ] Tous les pickups PDA ramasses pendant les six arcs.
+[ ] Les armes et le fonctionnement de l'Animus testes.
+[ ] Les zones laterales et les portes a code controlees.
+[ ] 0/0 succes Steam : l'AppID 16730 n'en propose pas.
+
+GARDE-FOUS
+
+- Sauvegarde avant chaque changement d'arc et avant les grandes arenes.
+- Les pickups PDA sont locaux a la zone. Quand une alerte ou un combat ouvre
+  un nouveau chemin, fouille d'abord les anciennes salles avant de franchir la
+  porte d'objectif.
+- Les zones de feu demandent une vanne, une alarme ou un extincteur. Les
+  firedrakes reviennent tant que leur source n'est pas neutralisee.
+- L'Animus soigne et charge les pouvoirs du Signet. Garde une reserve avant
+  chaque machine, generator ou sequence qui demande une charge continue.
+- Les claviers ne sont pas des collectibles : utilise le PDA, les indices et
+  l'exploration des pieces adjacentes au lieu d'improviser des codes.
+
+ORDRE CHRONOLOGIQUE
+
+01 - MEET VIVIAN / MUSEE ET RUES
+
+- Suis le tutoriel dans le musee, utilise les commandes d'infiltration et
+  examine chaque salle avant de prendre la sortie verte.
+- Ramasse le premier message PDA pres du clavier, puis la hache incendie.
+- Dans les rues, fouille les vehicules, le cafe et les bureaux avant de
+  descendre dans le metro. Les messages sont souvent poses au pied d'un bureau,
+  d'une machine ou d'un vehicule detruit.
+- Utilise la hache sur les planches et les grilles, les vannes pour eteindre
+  les foyers et l'Animus pour te soigner apres un combat.
+- Checklist : [ ] toutes les salles du musee ; [ ] cafe ; [ ] premier bureau ;
+  [ ] entree du metro ; [ ] chaque clavier et chaque pickup PDA.
+
+02 - GOLEM SMASH / METRO ET GENERATEURS
+
+- Traverse les wagons et les tunnels sans rester dans une zone de firedrakes.
+  Eteins chaque fosse avec l'alarme ou la vanne avant de fouiller la piece.
+- Dans les tunnels, verifie les deux branches : elles peuvent se rejoindre,
+  mais chacune peut cacher un message ou une arme.
+- A la surface, recupere pistolet, cocktail Molotov et arme automatique avant
+  de suivre les fleches de l'objectif.
+- Pour les trois generateurs EMP, ramasse toutes les pieces, assemble-les,
+  protege le soldat pendant la reconstruction puis charge la machine avec
+  l'Animus. Apres chaque generator, fouille la zone avant de redescendre.
+- Dans la salle d'eau, recupere la manivelle volee, traite le courant et detruis
+  les quatre points verts avant de poursuivre.
+- Checklist : [ ] tunnels 1 et 2 ; [ ] rues ; [ ] generator 1 ; [ ] generator 2 ;
+  [ ] generator 3 ; [ ] chaque pickup du metro et des egouts.
+
+03 - CATHEDRAL ASSAULT
+
+- Depuis le crash site, traverse le bassin et les portes en hauteur. Detruis
+  les nids de blood spiders avant de t'attarder dans une piece.
+- Dans les egouts, utilise les manivelles et les vannes. Quand une ombre ou un
+  bruit signale un werewolf, garde la distance et vise apres son attaque.
+- Dans la cathedrale, progresse par la cour, les galeries, les salles de
+  services et les toits. Cherche les bureaux et les escaliers secondaires
+  avant chaque porte de forcefield.
+- Pour le griffon, conserve les munitions explosives, deplace-toi dans
+  l'arene et profite des piles de rockets lorsqu'elles sont disponibles.
+- Checklist : [ ] crash site ; [ ] crash site sewers ; [ ] cathedrale ;
+  [ ] cour et toits ; [ ] tous les messages Council et Intercepted.
+
+04 - COUNCIL HQ ET PARLIAMENT
+
+- Dans le complexe, visite Information, Armory, Lab et les salles de stockage
+  avant de prendre l'ascenseur. Telecharge tous les terminaux accessibles.
+- Recupere le code d'armurerie, remplis les munitions et ramasse les pickups
+  autour du laboratoire et de l'elevator.
+- Pendant l'attaque, avance de salle en salle, neutralise les nids et detruis
+  les sources d'ennemis avant de fouiller les alcoves.
+- Dans Parliament, traite les grilles, les incendies et les portes de securite
+  dans l'ordre des vannes. Les pieces laterales se referment apres certains
+  combats : fouille-les avant de franchir l'objectif suivant.
+- Checklist : [ ] Information ; [ ] Armory ; [ ] Lab ; [ ] elevator ;
+  [ ] Parliament ; [ ] chaque email et message Council.
+
+05 - NEW YORK / RETOUR DANS LES RUES
+
+- Reviens dans les rues en suivant les fleches et les fusées de signalisation.
+  Utilise le fusil a lunette contre les soldats et reserve les explosifs aux
+  grosses cibles.
+- Desactive les forcefields en visant les transformateurs verts, puis fouille
+  le batiment ouvert avant de descendre au metro.
+- Dans les tunnels, detruis les blood-spider nests avec Molotov ou gaz enflamme.
+  Utilise les vannes depuis les alcoves et verifie chaque wagon avant de
+  franchir la sortie creee par le Conseil.
+- Dans les grandes salles, repere les minotaurs avant de depenser les rockets.
+  Le shotgun et les explosives sont plus fiables a courte distance.
+- Checklist : [ ] rues et immeubles ; [ ] forcefields ; [ ] metro ;
+  [ ] nids ; [ ] salles de minotaurs ; [ ] pickups de la seconde visite.
+
+06 - BLACK ORDER TOWER
+
+- Suis les laboratoires, les ascenseurs et les passerelles. Dans chaque lab,
+  detruis le nid avant de lire le terminal ou de prendre le pickup.
+- Ouvre les salles verrouillees avec les claviers, puis verifie les couloirs
+  adjacents avant l'ascenseur suivant.
+- Dans la zone de liberation, fouille les cellules, laboratoires et bureaux
+  lateraux avant de remonter.
+- Au sommet, active les trois power clusters. Derriere le troisieme se trouve
+  un dernier pickup PDA a ne pas laisser derriere.
+- Pour la machine finale, detruis les clusters, recupere l'Animus genere et
+  charge le panneau central par petites reserves. Garde une sauvegarde avant
+  l'activation finale.
+- Checklist : [ ] labs ; [ ] elevator ; [ ] liberation ; [ ] sommet ;
+  [ ] trois clusters ; [ ] pickup derriere le troisieme cluster ; [ ] campagne.
+
+CONTROLE PDA
+
+- Onglet Information : laisse chaque terminal, message et broadcast se
+  synchroniser avant de quitter la zone.
+- Onglet Weapons : ramasse chaque nouvelle arme, y compris les armes posees
+  dans les zones de transition.
+- Onglet Creatures : examine chaque espece quand le PDA le permet ; le texte
+  n'a pas besoin d'etre lu en combat, il faut seulement valider l'entree.
+- Onglet Pickups : c'est la checklist principale. Si une entree manque, recharge
+  le dernier slot de l'arc avant de progresser vers l'objectif suivant.
+- Onglet Objectives : verifie que l'objectif courant est valide avant chaque
+  checkpoint et avant le changement d'arc.
+
+CHECKLIST FINALE
+
+[ ] Les six arcs termines.
+[ ] Aucun pickup PDA manque dans les zones deja fermees.
+[ ] Les trois generateurs EMP completes.
+[ ] Les nids de firedrakes et blood spiders neutralises.
+[ ] Les weapons, messages, creatures et objectives consultes.
+[ ] 0/0 succes Steam : aucun faux 100 % n'est annonce.
+
+SOURCES DE CONTROLE
+
+- Fiche Steam AppID 16730 : https://store.steampowered.com/app/16730/Legendary/
+- Guide de parcours et PDA de reference : https://gamefaqs.gamespot.com/ps3/941874-legendary/faqs/54862
+- Manuel de l'edition : https://www.gamesdatabase.org/Media/SYSTEM/Microsoft_Xbox_360/Manual/formated/Legendary_-_2008_-_Gamecock_Media_Group.pdf
