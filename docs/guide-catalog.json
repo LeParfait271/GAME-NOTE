@@ -88,6 +88,10 @@
     { "id": "mirrors-edge", "title": "Mirror's Edge", "scope": "special", "status": "draft", "file": "public/guides/mirrors-edge.txt", "reason": "L'AppID Steam visible n'expose pas de succes : guide de campagne, 30 Runner Bags et Time Trials transparent." },
     { "id": "bioshock", "title": "BioShock", "scope": "special", "status": "draft", "file": "public/guides/bioshock.txt", "reason": "L'AppID original 7670 n'expose pas de succes Steam : guide de campagne, diaries et upgrades transparent." },
     { "id": "strife", "title": "Strife: Veteran Edition", "scope": "full-guide", "status": "draft", "file": "public/guides/strife.txt" },
-    { "id": "bioshock-2", "title": "BioShock 2", "scope": "full-guide", "status": "draft", "file": "public/guides/bioshock-2.txt" }
+    { "id": "bioshock-2", "title": "BioShock 2", "scope": "full-guide", "status": "draft", "file": "public/guides/bioshock-2.txt" },
+    { "id": "tomb-raider-i-1996", "title": "Tomb Raider I (1996)", "scope": "special", "status": "draft", "file": "public/guides/tomb-raider-i-1996.txt", "reason": "L'AppID Steam visible n'expose pas de succes : guide de campagne et 45 secrets transparent." },
+    { "id": "tomb-raider-ii-1997", "title": "Tomb Raider II (1997)", "scope": "special", "status": "draft", "file": "public/guides/tomb-raider-ii-1997.txt", "reason": "L'AppID Steam visible n'expose pas de succes : guide de campagne et 48 dragons secrets transparent." },
+    { "id": "tomb-raider-iii-1998", "title": "Tomb Raider III (1998)", "scope": "special", "status": "draft", "file": "public/guides/tomb-raider-iii-1998.txt", "reason": "L'AppID Steam visible n'expose pas de succes : guide de campagne, 59 secrets et All Hallows transparent." },
+    { "id": "blood-omen-2", "title": "Blood Omen 2: Legacy of Kain", "scope": "special", "status": "draft", "file": "public/guides/blood-omen-2.txt", "reason": "L'AppID Steam visible n'expose pas de succes : guide de campagne, Dark Gifts et coffres transparent." }
   ]
 }

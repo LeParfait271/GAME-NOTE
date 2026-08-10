@@ -1301,6 +1301,70 @@ const guides: Guide[] = [
       "A surveiller : la run sans Vita-Chambers, les 10 Vacuum Bots et le gate online.",
     meta: ["68/68 Steam", "DLC inclus", "Online separe"],
   },
+  {
+    id: "tomb-raider-i-1996",
+    steamAppId: 224960,
+    title: "Tomb Raider I (1996)",
+    eyebrow: "Core Design",
+    subtitle: "15 niveaux, 45 secrets et Unfinished Business separe.",
+    count: "0 succes Steam",
+    file: "tomb-raider-i-1996.txt",
+    accent: "gold",
+    tag: "Guide special",
+    description:
+      "Route de la campagne originale, secrets par niveau et extension separee.",
+    highlight:
+      "A surveiller : 45/45 secrets, statistiques de fin de niveau et dernier secret de Great Pyramid.",
+    meta: ["0/0 Steam", "45 secrets", "Sans spoiler"],
+  },
+  {
+    id: "tomb-raider-ii-1997",
+    steamAppId: 225300,
+    title: "Tomb Raider II (1997)",
+    eyebrow: "Core Design",
+    subtitle: "18 niveaux, 48 dragons et Golden Mask optionnel.",
+    count: "0 succes Steam",
+    file: "tomb-raider-ii-1997.txt",
+    accent: "blue",
+    tag: "Guide special",
+    description:
+      "Route campagne, dragons secrets, demolitions, vehicules et extension Gold.",
+    highlight:
+      "A surveiller : dragon de Bartoli's Hideout avant demolition et 48/48 au total.",
+    meta: ["0/0 Steam", "48 dragons", "Sans spoiler"],
+  },
+  {
+    id: "tomb-raider-iii-1998",
+    steamAppId: 225320,
+    title: "Tomb Raider III (1998)",
+    eyebrow: "Core Design",
+    subtitle: "19 niveaux, 59 secrets et All Hallows.",
+    count: "0 succes Steam",
+    file: "tomb-raider-iii-1998.txt",
+    accent: "coral",
+    tag: "Guide special",
+    description:
+      "Route fixe des cinq regions, branches de collecte et bonus All Hallows.",
+    highlight:
+      "A surveiller : Coastal Village, Lud's Gate et le seuil 59/59 pour All Hallows.",
+    meta: ["0/0 Steam", "59 secrets", "Sans spoiler"],
+  },
+  {
+    id: "blood-omen-2",
+    steamAppId: 242960,
+    title: "Blood Omen 2: Legacy of Kain",
+    eyebrow: "Crystal Dynamics",
+    subtitle: "11 chapitres, Dark Gifts et coffers.",
+    count: "0 succes Steam",
+    file: "blood-omen-2.txt",
+    accent: "blue",
+    tag: "Guide special",
+    description:
+      "Route solo, coffers de lore, Weapon Power Chests et portes de glyphes.",
+    highlight:
+      "A surveiller : les Weapon Power Chests renforcent l'arme temporairement.",
+    meta: ["0/0 Steam", "11 chapitres", "Sans spoiler"],
+  },
 ];
 
 const steamHeaderUrl = (appId: number) =>

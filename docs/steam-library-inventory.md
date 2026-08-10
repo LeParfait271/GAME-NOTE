@@ -88,6 +88,10 @@ soluce chronologique classique n'apporterait rien.
 - BioShock (guide special sans succes Steam)
 - Strife: Veteran Edition
 - BioShock 2
+- Tomb Raider I (1996) (guide special sans succes Steam)
+- Tomb Raider II (1997) (guide special sans succes Steam)
+- Tomb Raider III (1998) (guide special sans succes Steam)
+- Blood Omen 2: Legacy of Kain (guide special sans succes Steam)
 
 ## Futurs guides chronologiques (`planned`)
 
@@ -102,17 +106,12 @@ soluce chronologique classique n'apporterait rien.
 
 ### Assassin's Creed, Batman et aventures
 
-- Tomb Raider I
-- Tomb Raider II
-- Tomb Raider III: Adventures of Lara Croft
-
 ### Resident Evil et action-aventure
 
 - Dead Island
 
 ### BioShock, Borderlands et FPS à campagne
 
-- Blood Omen 2: Legacy of Kain — soluce spéciale si aucun succès Steam
 - Borderlands 2
 - Borderlands GOTY
 - Borderlands GOTY Enhanced — variante à contrôler
@@ -183,7 +182,6 @@ soluce chronologique classique n'apporterait rien.
 - Assassin's Creed II — pas de succès Steam sur l'édition visible
 - Assassin's Creed Brotherhood — pas de succès Steam sur l'édition visible
 - Assassin's Creed Revelations — statut des succès Steam contradictoire selon l'édition ; à vérifier avant toute promesse de 100 %
-- Blood Omen 2: Legacy of Kain
 - Legacy of Kain: Defiance
 - Legacy of Kain: Soul Reaver
 - Legacy of Kain: Soul Reaver 2
@@ -194,7 +192,6 @@ soluce chronologique classique n'apporterait rien.
 - Fable III
 - The Witcher: Enhanced Edition
 - S.T.A.L.K.E.R. — si les éditions Enhanced sont des doublons sans succès
-- Tomb Raider I / II / III — selon l'AppID et la présence réelle de succès
 
 ## Exclusions prévues (`excluded`)
 

@@ -765,3 +765,61 @@ conditions difficiles ; elles ne justifient jamais une copie mot a mot.
   https://bioshock.fandom.com/wiki/BioShock_2_Locations
 - Points verifies : campagne, Little Sisters, recherches, Protector Trials,
   Minerva's Den, 68 succes et gate multijoueur separe.
+
+## TOMB RAIDER I 1996
+
+- Fiche Steam officielle, AppID 224960 :
+  https://store.steampowered.com/app/224960/Tomb_Raider_I/
+- Ordre des 15 niveaux et 45 secrets :
+  https://tombraiderwiki.org/index.php/Tomb_Raider
+- Repartition des secrets par niveau :
+  https://www.wikiraider.com/index.php/Secret
+- Parcours de campagne de reference :
+  https://www.croftgeneration.com/en/games/tr1/walkthrough/tomb-raider-1996-walkthrough/
+- Extension Unfinished Business :
+  https://tombraider.fandom.com/wiki/Tomb_Raider%3A_Unfinished_Business
+- Points verifies : edition Steam sans succes, 15 niveaux, 45 secrets et
+  extension separee ; aucun faux 100 % Steam n'est ajoute.
+
+## TOMB RAIDER II 1997
+
+- Fiche Steam officielle, AppID 225300 :
+  https://store.steampowered.com/app/225300/Tomb_Raider_II/
+- Ordre des 18 niveaux :
+  https://tombraiderwiki.org/index.php/Tomb_Raider_2
+- Secrets dragons et repartition de la campagne :
+  https://tombraiderwiki.org/index.php/Tomb_Raider_II_Secrets
+- Extension Gold The Golden Mask :
+  https://tombraiderwiki.org/index.php/The_Golden_Mask
+- Points verifies : 48 dragons sur la campagne principale, niveaux finaux
+  sans dragon et extension Golden Mask separee.
+
+## TOMB RAIDER III 1998
+
+- Fiche Steam officielle, AppID 225320 :
+  https://store.steampowered.com/app/225320/Tomb_Raider_Anniversary/
+- Ordre des regions et des niveaux :
+  https://strategywiki.org/wiki/Tomb_Raider_III
+- Secrets, total 59 et bonus All Hallows :
+  https://www.tombraiderwiki.org/index.php/Tomb_Raider_III_Story
+- Solution de reference des niveaux :
+  https://www.tombraidercie.com/downloads/tr3solution01.pdf
+- Extension The Lost Artifact :
+  https://tombraiderwiki.org/index.php/The_Lost_Artefact
+- Points verifies : route a embranchements, 59 secrets, All Hallows et DLC
+  separes ; aucune promesse de succes Steam n'est ajoutee.
+
+## BLOOD OMEN 2
+
+- Fiche Steam officielle, AppID 242960 :
+  https://store.steampowered.com/app/242960/Blood_Omen_2_Legacy_of_Kain/
+- Manuel PC et controles :
+  https://cdn.akamai.steamstatic.com/steam/apps/242960/manuals/manual.pdf?t=1380892466
+- Ordre des 11 chapitres :
+  https://gamefaqs.gamespot.com/ps2/472310-blood-omen-2/faqs/16366
+- Dark Gifts, coffers et fonctionnement general :
+  https://strategywiki.org/wiki/Blood_Omen_2/Gameplay
+- Reference video pour le reperage des coffres et ameliorations :
+  https://www.youtube.com/watch?v=8V6k7pgHRZM
+- Points verifies : edition Steam solo sans succes, campagne en 11 chapitres,
+  Dark Gifts, coffers de lore et Weapon Power Chests ; aucun DLC ni online.
