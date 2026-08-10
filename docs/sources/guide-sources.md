@@ -936,3 +936,29 @@ conditions difficiles ; elles ne justifient jamais une copie mot a mot.
 - Points verifies : edition solo sans succes Steam, huit niveaux, six cartes du
   Tarot Noir, secrets, objets sacres et conditions par niveau ; aucun online ou
   DLC a ajouter.
+
+## LEGACY OF KAIN
+
+- Fiche Steam officielle de Legacy of Kain: Defiance, AppID 224300 :
+  https://store.steampowered.com/app/224300/Legacy_of_Kain_Defiance/
+- Fiches SteamDB des editions originales Soul Reaver, AppIDs 224920 et 224940 :
+  https://steamdb.info/app/224920/
+  https://steamdb.info/app/224940/
+- Manuel PC de Soul Reaver :
+  https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/224920/manuals/manual.pdf
+- Walkthrough PC de Soul Reaver, ordre des parties, glyphes et ameliorations :
+  https://gamefaqs.gamespot.com/pc/142681-legacy-of-kain-soul-reaver/faqs/66054
+- Reference des glyphes de Soul Reaver :
+  https://legacyofkain.fandom.com/wiki/Glyphs
+- Walkthrough de Soul Reaver 2, ordre des sections A a T et puzzles :
+  https://gamefaqs.gamespot.com/ps2/913911-soul-reaver-2/faqs/15521
+- Guide de route des quatre forges de Soul Reaver 2 :
+  https://www.neoseeker.com/soul-reaver-2/walkthrough
+- Guide strategie de Defiance, ordre des 13 chapitres :
+  https://www.ogxbox.co.uk/media/com_eshop/attachments/Legacy_of_Kain_Defiance_Strategy_Guide_2003_Book.pdf
+- Walkthrough de Defiance, route chapitre par chapitre :
+  https://gamefaqs.gamespot.com/ps2/914777-legacy-of-kain-defiance/faqs/26948
+- Points verifies : les trois editions Steam originales sont solo et sans succes
+  Steam exposes ; les guides couvrent respectivement la campagne, les glyphes et
+  ameliorations, les quatre forges, puis les 13 chapitres Kain/Raziel. Aucun
+  online ni DLC autonome a ajouter.

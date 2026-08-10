@@ -100,6 +100,9 @@ soluce chronologique classique n'apporterait rien.
 - Penumbra: Requiem (guide special sans succes Steam)
 - DOOM 3: Resurrection of Evil (guide special sans succes Steam)
 - Painkiller: Redemption (guide special sans succes Steam)
+- Legacy of Kain: Soul Reaver (guide special sans succes Steam)
+- Legacy of Kain: Soul Reaver 2 (guide special sans succes Steam)
+- Legacy of Kain: Defiance (guide special sans succes Steam)
 
 ## Futurs guides chronologiques (`planned`)
 
@@ -180,9 +183,6 @@ soluce chronologique classique n'apporterait rien.
 - Assassin's Creed II — pas de succès Steam sur l'édition visible
 - Assassin's Creed Brotherhood — pas de succès Steam sur l'édition visible
 - Assassin's Creed Revelations — statut des succès Steam contradictoire selon l'édition ; à vérifier avant toute promesse de 100 %
-- Legacy of Kain: Defiance
-- Legacy of Kain: Soul Reaver
-- Legacy of Kain: Soul Reaver 2
 - Fallout
 - Fallout 2
 - Fallout Tactics

@@ -94,6 +94,9 @@
     { "id": "penumbra-black-plague", "appId": 22120, "steamAchievements": 0, "guideType": "special-no-steam-achievements-10-artifacts", "source": "https://store.steampowered.com/app/22120/Penumbra_Black_Plague_Gold_Edition/" },
     { "id": "penumbra-requiem", "appId": 22140, "steamAchievements": 0, "guideType": "special-no-steam-achievements-9-puzzle-levels", "source": "https://store.steampowered.com/app/22140/Penumbra_Requiem/" },
     { "id": "doom-3-resurrection-of-evil", "appId": 9070, "steamAchievements": 0, "guideType": "special-no-steam-achievements-12-levels-pdas", "source": "https://steamdb.info/app/9070/info/" },
-    { "id": "painkiller-redemption", "appId": 65560, "steamAchievements": 0, "guideType": "special-no-steam-achievements-8-levels-tarot", "source": "https://help.steampowered.com/en/wizard/HelpWithGameTechnicalIssue?appid=65560" }
+    { "id": "painkiller-redemption", "appId": 65560, "steamAchievements": 0, "guideType": "special-no-steam-achievements-8-levels-tarot", "source": "https://help.steampowered.com/en/wizard/HelpWithGameTechnicalIssue?appid=65560" },
+    { "id": "legacy-of-kain-soul-reaver", "appId": 224920, "steamAchievements": 0, "guideType": "special-no-steam-achievements-6-glyphs", "source": "https://steamdb.info/app/224920/" },
+    { "id": "legacy-of-kain-soul-reaver-2", "appId": 224940, "steamAchievements": 0, "guideType": "special-no-steam-achievements-4-forges", "source": "https://steamdb.info/app/224940/" },
+    { "id": "legacy-of-kain-defiance", "appId": 224300, "steamAchievements": 0, "guideType": "special-no-steam-achievements-13-chapters", "source": "https://store.steampowered.com/app/224300/Legacy_of_Kain_Defiance/" }
   ]
 }

@@ -1493,6 +1493,54 @@ const guides: Guide[] = [
       "A surveiller : les conditions de cartes a la fin des six premiers niveaux.",
     meta: ["0/0 Steam", "8 niveaux", "Sans spoiler"],
   },
+  {
+    id: "legacy-of-kain-soul-reaver",
+    steamAppId: 224920,
+    title: "Legacy of Kain: Soul Reaver",
+    eyebrow: "Crystal Dynamics",
+    subtitle: "15 parties, 6 glyphes et 14 ameliorations.",
+    count: "0 succes Steam",
+    file: "legacy-of-kain-soul-reaver.txt",
+    accent: "blue",
+    tag: "Guide special",
+    description:
+      "Route de Raziel, glyphes, portails et ameliorations sans spoiler.",
+    highlight:
+      "A surveiller : les retours apres phase, escalade, Force et nage.",
+    meta: ["0/0 Steam", "6 glyphes", "Sans spoiler"],
+  },
+  {
+    id: "legacy-of-kain-soul-reaver-2",
+    steamAppId: 224940,
+    title: "Legacy of Kain: Soul Reaver 2",
+    eyebrow: "Crystal Dynamics",
+    subtitle: "20 sections et 4 forges de Reaver.",
+    count: "0 succes Steam",
+    file: "legacy-of-kain-soul-reaver-2.txt",
+    accent: "coral",
+    tag: "Guide special",
+    description:
+      "Route lineaire, forges, fonts et retours temporels sans spoiler.",
+    highlight:
+      "A surveiller : les Dark, Light, Air et Fire Forges.",
+    meta: ["0/0 Steam", "20 sections", "Sans spoiler"],
+  },
+  {
+    id: "legacy-of-kain-defiance",
+    steamAppId: 224300,
+    title: "Legacy of Kain: Defiance",
+    eyebrow: "Crystal Dynamics",
+    subtitle: "13 chapitres, Kain et Raziel.",
+    count: "0 succes Steam",
+    file: "legacy-of-kain-defiance.txt",
+    accent: "gold",
+    tag: "Guide special",
+    description:
+      "Route alternee Kain/Raziel, pouvoirs et enigmes sans spoiler.",
+    highlight:
+      "A surveiller : les recharges, les portes de Reaver et les bonus de hauteur.",
+    meta: ["0/0 Steam", "13 chapitres", "Sans spoiler"],
+  },
 ];
 
 const steamHeaderUrl = (appId: number) =>
