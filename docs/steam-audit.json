@@ -32,6 +32,11 @@
     { "id": "final-fantasy-xii-the-zodiac-age", "appId": 595520, "steamAchievements": 41, "guideType": "100-steam", "source": "https://store.steampowered.com/app/595520/FINAL_FANTASY_XII_THE_ZODIAC_AGE/" },
     { "id": "final-fantasy-xv-windows-edition", "appId": 637650, "steamAchievements": 97, "guideType": "100-steam-plus-dlc-online-check", "source": "https://store.steampowered.com/app/637650/FINAL_FANTASY_XV_WINDOWS_EDITION/" },
     { "id": "a-plague-tale-requiem", "appId": 1182900, "steamAchievements": 35, "guideType": "100-steam", "source": "https://store.steampowered.com/app/1182900/A_Plague_Tale_Requiem/" },
+    { "id": "final-fantasy-vii-rebirth", "appId": 2909400, "steamAchievements": 61, "guideType": "100-steam-two-phase", "source": "https://store.steampowered.com/app/2909400/FINAL_FANTASY_VII_REBIRTH/" },
+    { "id": "fable-anniversary", "appId": 288470, "steamAchievements": 50, "guideType": "100-steam", "source": "https://store.steampowered.com/app/288470/Fable_Anniversary/" },
+    { "id": "fallout-new-vegas", "appId": 22380, "steamAchievements": 75, "guideType": "100-steam-plus-dlc-factions", "source": "https://store.steampowered.com/app/22380/Fallout_New_Vegas/" },
+    { "id": "forspoken", "appId": 1680880, "steamAchievements": 53, "guideType": "100-steam-plus-dlc-check", "source": "https://store.steampowered.com/app/1680880/FORSPOKEN/" },
+    { "id": "the-witcher-2-assassins-of-kings", "appId": 20920, "steamAchievements": 52, "guideType": "100-steam-two-runs-insane", "source": "https://store.steampowered.com/app/20920/The_Witcher_2_Assassins_of_Kings_Enhanced_Edition/" },
     { "id": "titan-quest-2", "appId": 1154030, "steamAchievements": 0, "guideType": "hold-early-access", "source": "https://store.steampowered.com/app/1154030/Titan_Quest_II/" }
   ]
 }

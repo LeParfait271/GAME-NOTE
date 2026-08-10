@@ -21,7 +21,11 @@ soluce chronologique classique n'apporterait rien.
 - FINAL FANTASY X/X-2 HD Remaster
 - FINAL FANTASY XII THE ZODIAC AGE
 - FINAL FANTASY XV WINDOWS EDITION
+- FINAL FANTASY VII REBIRTH
 - GRANDIA II HD Remaster
+- Fable Anniversary
+- Fallout: New Vegas
+- Forspoken
 - GRIS
 - Hellblade: Senua's Sacrifice
 - INSIDE
@@ -39,26 +43,17 @@ soluce chronologique classique n'apporterait rien.
 - Streets of Rage 4
 - Titan Quest Anniversary Edition
 - A Plague Tale: Requiem
+- The Witcher 2: Assassins of Kings Enhanced Edition
 
 ## Futurs guides chronologiques (`planned`)
 
 ### Final Fantasy et RPG proches
 
-- FINAL FANTASY VII REBIRTH
 - FINAL FANTASY RESONANCE — intitulé à confirmer par AppID
 - The Last Remnant
-- Fable: The Lost Chapters — soluce spéciale si la version ne possède pas
-  de succès Steam
-- Fable Anniversary
-- Fable III
-- Fallout: New Vegas
-- Fallout Tactics — soluce spéciale si la version ne possède pas de succès
-- Forspoken
 - Grim Dawn
 - Legend of Mysteria
 - Legendary
-- The Witcher: Enhanced Edition
-- The Witcher 2: Assassins of Kings Enhanced Edition
 - The Witcher 3: Wild Hunt
 
 ### Assassin's Creed, Batman et aventures
@@ -196,6 +191,9 @@ soluce chronologique classique n'apporterait rien.
 - Fallout
 - Fallout 2
 - Fallout Tactics
+- Fable: The Lost Chapters
+- Fable III
+- The Witcher: Enhanced Edition
 - Metro 2033 — si l'édition affichée est l'ancienne version
 - S.T.A.L.K.E.R. — si les éditions Enhanced sont des doublons sans succès
 - Tomb Raider I / II / III — selon l'AppID et la présence réelle de succès

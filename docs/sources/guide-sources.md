@@ -265,3 +265,58 @@ conditions difficiles ; elles ne justifient jamais une copie mot a mot.
 - Points verifies : 35 succes, 21 souvenirs, 5 fleurs, 7 plumes, 10 coffres,
   16 objets Old Protector, Perfect shot, Mercy, Perfect throw et les trois
   profils de competence.
+
+## FINAL FANTASY VII REBIRTH
+
+- Steam, liste officielle des 61 succes :
+  https://steamcommunity.com/stats/2909400/achievements
+- Page Steam et compteur officiel :
+  https://store.steampowered.com/app/2909400/FINAL_FANTASY_VII_REBIRTH/
+- Route de nettoyage post-jeu et combats :
+  https://www.gamerguides.com/final-fantasy-vii-rebirth/guide/walkthrough/chapter-14/post-game-roadmap
+- Points verifies : 14 chapitres, Selection de chapitre, Difficile, intel,
+  Queen's Blood, piano, chocobos, Gold Saucer, Johnny et Chadley.
+
+## FABLE ANNIVERSARY
+
+- Steam, liste officielle des 50 succes :
+  https://steamcommunity.com/stats/288470/achievements
+- Guide Steam chronologique et missables :
+  https://steamcommunity.com/sharedfiles/filedetails/?id=3115830087
+- Portes demon et garde-fous des cles :
+  https://steamcommunity.com/sharedfiles/filedetails/?id=565825185
+- Points verifies : 30 cles, coffres, portes demon, armes legendaires,
+  poupees, chaine du maire et contenu The Lost Chapters.
+
+## FALLOUT: NEW VEGAS
+
+- Steam, liste officielle des 75 succes :
+  https://steamcommunity.com/stats/22380/achievements
+- Page Steam et contenu Ultimate :
+  https://store.steampowered.com/app/22380/Fallout_New_Vegas/
+- Page Steam d'un DLC avec succes :
+  https://store.steampowered.com/app/72770/Fallout_New_Vegas_Dead_Money/
+- Points verifies : factions, quatre voies, compagnons, Hardcore, quatre DLC,
+  casinos, Caravan et defis Gun Runners' Arsenal.
+
+## FORSPOKEN
+
+- Steam, liste officielle des 53 succes :
+  https://steamcommunity.com/stats/1680880/achievements
+- Page Steam et compteur officiel :
+  https://store.steampowered.com/app/1680880/FORSPOKEN/
+- DLC In Tanta We Trust a controler separement :
+  https://store.steampowered.com/app/1819222/Forspoken_In_Tanta_We_Trust/
+- Verification AppID du DLC : https://steamdb.info/app/1819222/charts/
+- Points verifies : campagne, quatre ecoles, detours, monuments, fontaines,
+  labyrinthes, familiers, archives et nettoyage post-jeu.
+
+## THE WITCHER 2: ASSASSINS OF KINGS ENHANCED EDITION
+
+- Steam, liste officielle des 52 succes :
+  https://steamcommunity.com/stats/20920/achievements
+- Page Steam :
+  https://store.steampowered.com/app/20920/The_Witcher_2_Assassins_of_Kings_Enhanced_Edition/
+- Verification des fonctions et de l'AppID : https://steamdb.info/app/20920/stats/
+- Points verifies : deux voies, Arena, trolls, nids, poker, alchimie,
+  mutagenes, quetes de chapitre et Insane.

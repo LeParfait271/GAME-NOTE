@@ -501,6 +501,86 @@ const guides: Guide[] = [
       "A surveiller : les couteaux des coffres, les cones, les couronnes et Old protector.",
     meta: ["35/35 Steam", "21 souvenirs", "Sans spoiler"],
   },
+  {
+    id: "final-fantasy-vii-rebirth",
+    steamAppId: 2909400,
+    title: "FINAL FANTASY VII REBIRTH",
+    eyebrow: "Final Fantasy",
+    subtitle: "Les 14 chapitres et le nettoyage 100 % sans spoiler.",
+    count: "61 succes",
+    file: "final-fantasy-vii-rebirth.txt",
+    accent: "gold",
+    tag: "Nouveau guide",
+    description:
+      "Regions, intel, quetes, Queen's Blood, piano, chocobos, Gold Saucer et defis de Chadley.",
+    highlight:
+      "A surveiller : l'affinite du chapitre 12, les mini-jeux et le Difficile.",
+    meta: ["61/61 Steam", "14 chapitres", "Sans spoiler"],
+  },
+  {
+    id: "fable-anniversary",
+    steamAppId: 288470,
+    title: "Fable Anniversary",
+    eyebrow: "Lionhead Studios",
+    subtitle: "La campagne et The Lost Chapters dans le bon ordre.",
+    count: "50 succes",
+    file: "fable-anniversary.txt",
+    accent: "blue",
+    tag: "Route anti-missables",
+    description:
+      "Cles d'argent, portes demon, armes legendaires, poupees, livres, peche et quetes.",
+    highlight:
+      "A surveiller : la chaine du maire et la porte de Necropolis qui consomme les cles.",
+    meta: ["50/50 Steam", "30 cles", "Sans spoiler"],
+  },
+  {
+    id: "fallout-new-vegas",
+    steamAppId: 22380,
+    title: "Fallout: New Vegas",
+    eyebrow: "Bethesda / Obsidian",
+    subtitle: "Mojave, DLC et quatre voies de fin sous controle.",
+    count: "75 succes",
+    file: "fallout-new-vegas.txt",
+    accent: "coral",
+    tag: "Guide marathon",
+    description:
+      "Quetes, compagnons, factions, casinos, Caravan, Hardcore, DLC et defis d'armes.",
+    highlight:
+      "A surveiller : la sauvegarde de carrefour des factions et le mode Hardcore.",
+    meta: ["75/75 Steam", "4 DLC", "Sans spoiler"],
+  },
+  {
+    id: "forspoken",
+    steamAppId: 1680880,
+    title: "Forspoken",
+    eyebrow: "Square Enix",
+    subtitle: "Campagne, sorts et Athia au complet sans spoiler.",
+    count: "53 succes",
+    file: "forspoken.txt",
+    accent: "blue",
+    tag: "Nettoyage post-jeu",
+    description:
+      "Detours, monuments, fontaines, labyrinthes, familiers, archives et equipements.",
+    highlight:
+      "A surveiller : revenir dans les regions apres chaque nouveau pouvoir.",
+    meta: ["53/53 Steam", "4 ecoles", "Sans spoiler"],
+  },
+  {
+    id: "the-witcher-2-assassins-of-kings",
+    steamAppId: 20920,
+    title: "The Witcher 2",
+    eyebrow: "CD PROJEKT RED",
+    subtitle: "Les deux voies et Insane sans perdre les missables.",
+    count: "52 succes",
+    file: "the-witcher-2-assassins-of-kings.txt",
+    accent: "coral",
+    tag: "Deux parcours",
+    description:
+      "Roche, Iorveth, quetes, trolls, nids, Arena, poker, alchimie et difficulte Insane.",
+    highlight:
+      "A surveiller : la sauvegarde avant la branche du chapitre 2 et les quetes de chapitre.",
+    meta: ["52/52 Steam", "2 voies", "Sans spoiler"],
+  },
 ];
 
 const steamHeaderUrl = (appId: number) =>
