@@ -907,3 +907,32 @@ conditions difficiles ; elles ne justifient jamais une copie mot a mot.
   https://strategywiki.org/wiki/Penumbra%3A_Requiem
 - Points verifies : extension puzzle solo sans succes Steam, neuf niveaux, neuf
   artefacts et enigmes de physique ; aucun online ou DLC separe a ajouter.
+
+## DOOM 3 RESURRECTION OF EVIL
+
+- Fiche SteamDB de l'ancien AppID 9070, retiree du magasin :
+  https://steamdb.info/app/9070/info/
+- Fiche DOOM 3 BFG qui inclut Resurrection of Evil :
+  https://store.steampowered.com/app/208200/Doom_3_BFG_Edition/
+- Route des 12 niveaux :
+  https://doomwiki.org/wiki/Doom_3%3A_Resurrection_of_Evil
+- Solution PC et codes de l'extension :
+  https://www.gamespot.com/articles/doom-3-resurrection-of-evil-walkthrough/1100-6122486/
+- Verification croisee des PDAs et des objectifs :
+  https://www.trueachievements.com/walkthrough/7-resurrection-of-evil-doom-3-bfg-edition-walkthrough
+- Points verifies : ancien AppID sans succes Steam, douze niveaux, PDAs, codes
+  769/428/714, Artifact et contenu integre a DOOM 3 BFG ; aucun online a ajouter.
+
+## PAINKILLER REDEMPTION
+
+- Fiche d'assistance Steam de l'AppID 65560 :
+  https://help.steampowered.com/en/wizard/HelpWithGameTechnicalIssue?appid=65560
+- Ordre des niveaux et statistiques de route :
+  https://www.speedrun.com/pkredemption/levels
+- Solution PC, cartes et secrets :
+  https://gamefaqs.gamespot.com/pc/620864-painkiller-redemption/faqs/62837
+- Guide de reference Painkiller et cartes du Tarot :
+  https://gamefaqs.gamespot.com/pc/927435-painkiller-gold-edition/faqs/31168
+- Points verifies : edition solo sans succes Steam, huit niveaux, six cartes du
+  Tarot Noir, secrets, objets sacres et conditions par niveau ; aucun online ou
+  DLC a ajouter.

@@ -98,6 +98,8 @@ soluce chronologique classique n'apporterait rien.
 - Penumbra: Overture (guide special sans succes Steam)
 - Penumbra: Black Plague (guide special sans succes Steam)
 - Penumbra: Requiem (guide special sans succes Steam)
+- DOOM 3: Resurrection of Evil (guide special sans succes Steam)
+- Painkiller: Redemption (guide special sans succes Steam)
 
 ## Futurs guides chronologiques (`planned`)
 
@@ -119,9 +121,7 @@ soluce chronologique classique n'apporterait rien.
 - Borderlands: The Pre-Sequel
 - Command & Conquer Remastered Collection
 - DOOM 3: BFG Edition
-- DOOM 3: Resurrection of Evil
 - Duke Nukem Forever
-- Painkiller: Redemption
 
 ### Coopération ou campagne à route dédiée
 

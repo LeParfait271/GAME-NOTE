@@ -92,6 +92,8 @@
     { "id": "legendary", "appId": 16730, "steamAchievements": 0, "guideType": "special-no-steam-achievements-pda-campaign", "source": "https://store.steampowered.com/app/16730/Legendary/" },
     { "id": "penumbra-overture", "appId": 22180, "steamAchievements": 0, "guideType": "special-no-steam-achievements-physics-puzzles", "source": "https://store.steampowered.com/app/22180/Penumbra_Overture/" },
     { "id": "penumbra-black-plague", "appId": 22120, "steamAchievements": 0, "guideType": "special-no-steam-achievements-10-artifacts", "source": "https://store.steampowered.com/app/22120/Penumbra_Black_Plague_Gold_Edition/" },
-    { "id": "penumbra-requiem", "appId": 22140, "steamAchievements": 0, "guideType": "special-no-steam-achievements-9-puzzle-levels", "source": "https://store.steampowered.com/app/22140/Penumbra_Requiem/" }
+    { "id": "penumbra-requiem", "appId": 22140, "steamAchievements": 0, "guideType": "special-no-steam-achievements-9-puzzle-levels", "source": "https://store.steampowered.com/app/22140/Penumbra_Requiem/" },
+    { "id": "doom-3-resurrection-of-evil", "appId": 9070, "steamAchievements": 0, "guideType": "special-no-steam-achievements-12-levels-pdas", "source": "https://steamdb.info/app/9070/info/" },
+    { "id": "painkiller-redemption", "appId": 65560, "steamAchievements": 0, "guideType": "special-no-steam-achievements-8-levels-tarot", "source": "https://help.steampowered.com/en/wizard/HelpWithGameTechnicalIssue?appid=65560" }
   ]
 }

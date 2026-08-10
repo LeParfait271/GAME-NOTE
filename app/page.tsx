@@ -1461,6 +1461,38 @@ const guides: Guide[] = [
       "A surveiller : les 9 niveaux et les artefacts avant chaque sortie.",
     meta: ["0/0 Steam", "9 niveaux", "Sans spoiler"],
   },
+  {
+    id: "doom-3-resurrection-of-evil",
+    steamAppId: 9070,
+    title: "DOOM 3: Resurrection of Evil",
+    eyebrow: "id Software / Nerve Software",
+    subtitle: "12 niveaux, PDAs et Artifact.",
+    count: "0 succes Steam",
+    file: "doom-3-resurrection-of-evil.txt",
+    accent: "coral",
+    tag: "Guide special",
+    description:
+      "Route de l'extension, PDAs, codes, armes et pouvoirs de l'Artifact sans spoiler.",
+    highlight:
+      "A surveiller : les PDAs, les powercells et les codes 769, 428 et 714.",
+    meta: ["0/0 Steam", "12 niveaux", "Sans spoiler"],
+  },
+  {
+    id: "painkiller-redemption",
+    steamAppId: 65560,
+    title: "Painkiller: Redemption",
+    eyebrow: "Eggtooth Team",
+    subtitle: "8 niveaux et Tarot Noir.",
+    count: "0 succes Steam",
+    file: "painkiller-redemption.txt",
+    accent: "gold",
+    tag: "Guide special",
+    description:
+      "Route des niveaux, secrets, objets sacres et six cartes du Tarot Noir.",
+    highlight:
+      "A surveiller : les conditions de cartes a la fin des six premiers niveaux.",
+    meta: ["0/0 Steam", "8 niveaux", "Sans spoiler"],
+  },
 ];
 
 const steamHeaderUrl = (appId: number) =>
