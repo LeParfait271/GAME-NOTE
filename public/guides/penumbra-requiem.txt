@@ -1,0 +1,212 @@
+PENUMBRA: REQUIEM
+GUIDE CHRONOLOGIQUE 100 % UTILE - SANS SPOILER
+
+Version de travail : 11 aout 2026
+
+Ce guide couvre l'extension Steam AppID 22140. Requiem est un epilogue de
+puzzles physiques, sans campagne de combat classique. La fiche Steam n'expose
+pas de succes Steam : objectif 0/0 succes Steam. La route vise les 9 niveaux,
+les 9 Strange Artefacts et tous les objets utiles, sans raconter la fin.
+
+OBJECTIF
+
+[ ] 0/0 succes Steam : aucun succes Steam sur cette edition.
+[ ] Les 9 niveaux termines dans l'ordre.
+[ ] 9/9 Strange Artefacts recuperes.
+[ ] Tous les orbes, keyboxes, interrupteurs et sorties valides.
+[ ] Aucun raccourci de physique utilise pour la route de reference.
+[ ] Bonus secret consulte seulement apres la sauvegarde finale, si souhaite.
+
+ALERTES MISSABLES ET GARDE-FOUS
+
+- Chaque niveau est une salle-puzzle independante. Active l'artefact avant de
+  quitter la zone et sauvegarde quand l'ecran l'autorise.
+- Les caisses et les objets peuvent tomber dans le vide. Si un objet important
+  disparait, recharge le dernier artefact plutot que de chercher un raccourci.
+- Les lasers bleus sont traversables par le joueur dans plusieurs niveaux,
+  mais detruisent certains objets. Ne lance pas une keybox au hasard.
+- Les codes et les vannes sont des solutions pratiques, pas des elements de
+  recit. Ils sont donnes directement pour eviter les allers-retours.
+- Le jeu n'a ni online ni DLC separe a ajouter a la liste Steam. Requiem est
+  l'extension puzzle associee a Black Plague Gold Edition.
+
+ORDRE CHRONOLOGIQUE
+
+01 - THE TOMB
+
+- Dans la salle du broyeur, place une caisse sous le mecanisme et declenche-le.
+  Utilise les morceaux pour construire un escalier jusqu'a l'echelle.
+- En hauteur, aligne les trois pyramides du pilier mobile sur une seule ligne.
+  La grande passerelle s'abaisse ensuite.
+- Jette deux blocs dans la cage sous la passerelle. Place un troisieme bloc sur
+  une plaque et reste sur l'autre plaque.
+- Avant de prendre la sortie, empile les blocs sous la petite passerelle pour
+  atteindre la plateforme haute : Strange Artefact 01/09.
+- Coche la sortie uniquement apres l'artefact et la sauvegarde.
+
+02 - RESIDENTIAL
+
+- Descends et deplace la caisse en restant hors du faisceau vert de la camera.
+  Place-la contre la porte, retourne au bouton, puis declenche le compte a
+  rebours et pousse la caisse dans l'ouverture avant de sauter a sa suite.
+- Pour le 100 %, prends la route haute avec les poutres metalliques au lieu de
+  la route rapide. Dans la piece suivante, utilise les caisses cachees pour
+  atteindre les boutons au plafond pendant que l'eau monte.
+- En sortant de la salle inondee, utilise les caisses pour atteindre la bouche
+  d'aeration au-dessus des moniteurs : Strange Artefact 02/09.
+- Dans le couloir laser, pousse une caisse jusqu'a la plaque. Traverse ensuite
+  les plateformes mobiles sans sauter trop tot.
+- Si tu preferes la route courte, le laser peut etre desactive sur l'ordinateur
+  de la salle des moniteurs ; la route haute reste recommandee pour le 100 %.
+
+03 - VERTICAL SHAFT
+
+- Sous le tube, pousse le bouton central hors de son logement. Lance la keybox
+  sur la plateforme puis bouche les trois trous centraux avec les caisses.
+- Active les boutons 2 et 3, grimpe sur les caisses et prends l'echelle.
+- Jette la keybox dans le faisceau bleu, recupere une bouteille explosive dans
+  le tube de transfert et lance-la sur les chaines de la passerelle.
+- Traverse la passerelle. Quand la keybox reapparait, detruis-la avec une
+  seconde bouteille et ramasse la boule produite.
+- Actionne le levier, puis utilise les caisses pour monter jusqu'au conteneur
+  pres de l'aeration. Lance une bouteille sur l'interrupteur en hauteur.
+- Dans le bureau, ouvre le tiroir : Strange Artefact 03/09. Prends aussi la
+  plaque metallique et ramene-la vers le sommet pour la suite du puzzle.
+- Termine par la salle suivante et la sortie verticale.
+
+04 - SEWER
+
+- Dans la premiere salle, empile un objet pour atteindre Strange Artefact 04/09.
+  Fais-le avant de nager vers le long conduit.
+- Nage jusqu'au fond et ramasse l'orbe au fond du canal. Active l'interrupteur
+  final pour lancer le flux d'eau.
+- Reviens au generateur et place les caisses dans la capsule une par une. Le
+  courant les renvoie vers le canal ; utilise-les comme plateformes.
+- Continue jusqu'a la vanne et tourne-la. Une caisse tombe pres du point de
+  depart : porte-la jusqu'a son support pour faire monter l'eau.
+- Plonge dans la grande salle et active l'interrupteur immerge. Les plateformes
+  montent pendant un temps limite : traverse rapidement et recupere le dernier
+  orbe avant la sortie.
+
+05 - SURFACE STATION
+
+- Dans la petite cabane de droite, prends l'orbe sur l'etagere et le tube
+  metallique.
+- Porte le tube jusqu'au batiment a antenne. Fais contact entre les deux plaques
+  du generateur avec le tube, puis allume les machines.
+- Le fusible saute. Va a la grotte de glace, appuie sur le bouton DOOR et entre
+  dans le batiment ouvert.
+- Grimpe sur les etageres pour passer la barriere, prends le fusible de rechange
+  et actionne l'interrupteur au fond. Remplace le fusible puis relance les
+  machines.
+- Recupere le boitier electrique dans la meme piece et pose-le sur la plaque de
+  la cabane informatique. Ouvre le programme Satellite Dish.exe et envoie le
+  message.
+- Monte sur le toit, recupere la keybox et lance-la dans les engrenages de la
+  salle des machines.
+- Pour ouvrir la trappe sans te faire enfermer, bloque la porte avec un objet,
+  appuie sur HATCH et fonce vers l'ouverture.
+- Depuis le toit, suis le rebord exterieur jusqu'au coin eloigne :
+  Strange Artefact 05/09.
+
+06 - POWER STATION
+
+- Pousse la boule electrique hors de son support. Contourne les deux champs
+  laser en faisant rouler la boule, puis envoie-la dans le trou du couloir.
+- Dans la tour centrale, prends la radio. Traverse les plateformes mobiles vers
+  la tour de gauche et active son interrupteur.
+- Passe ensuite par la tour de droite, franchis le vide et active le second
+  interrupteur. La passerelle haute devient accessible.
+- Traverse la passerelle et la rampe de verre. Au portail ferme, saute sur le
+  cote et actionne l'interrupteur.
+- Reviens par le portail ouvert, recupere la seconde boule/keybox et ouvre les
+  trois grilles avec la commande de la tour droite.
+- Sur la rampe de verre, saute sur la poutre metallique et monte la tour. Avant
+  de descendre tout en bas, saute sur le petit rebord lateral :
+  Strange Artefact 06/09.
+- Descends ensuite et fais rouler la boule dans les tubes de la radio. Une
+  seconde recompense apparait ; prends-la et remonte sans attendre.
+
+07 - THE ENGINE
+
+- Prends la premiere roue dentee devant les lasers et descends l'echelle.
+  Installe-la dans le mecanisme.
+- La deuxieme roue est cachee pres du mecanisme, derriere un tuyau. La troisieme
+  est derriere la vapeur : descends vers les pistons et cherche la bouche
+  d'aeration.
+- Dans la bouche d'aeration, tourne la roue de vanne. Sors, prends l'orbe dans
+  la salle voisine et reviens chercher la troisieme roue.
+- Installe les trois roues. Fais rouler l'orbe bleue dans le conduit prevu,
+  trouve les deux leviers autour des pistons et place-les dans leurs supports.
+- Regle les leviers pour guider l'orbe jusqu'au bout. Les lasers se coupent.
+- Ne prends pas encore la sortie : monte sur le batiment des pistons depuis
+  l'echelle et recupere Strange Artefact 07/09.
+- Cherche les deux orbes/clefs de sortie : l'une sur le cote gauche, l'autre
+  dans la petite zone de tonneaux. Reviens au portail.
+
+08 - STEAM
+
+- Dans la salle aux deux cubes, empile un cube sur l'autre pour faire sortir le
+  premier. Pose-le sur une plaque puis prends le second cube ; reste sur la
+  seconde plaque.
+- Entre dans la salle ouverte et pousse la caisse metallique de la trappe pour
+  recuperer l'orbe.
+- Prends une buche sur l'etagere et descends vers l'incinerateur. Sous la pile
+  de tonneaux, avant toute manipulation, recupere Strange Artefact 08/09.
+- Place la buche dans l'incinerateur, ferme la trappe et actionne le levier.
+  Avec le feu allume, tourne les vannes 1 et 2 ; laisse la vanne 3 fermee.
+- Monte sur la plateforme, prends l'orbe de la salle laterale et va au coffre.
+  Code du coffre : 6497. Lance la bouteille dans la trappe pres du long couloir.
+- Retourne a la chaudiere, annule la vanne 2 puis ouvre la vanne 3. Place une
+  caisse sur la plateforme et mets-la sur une plaque ; tiens l'autre plaque.
+- Ouvre le second coffre, lance sa bouteille dans la seconde trappe et prends
+  l'ascenseur. Termine les plateformes jusqu'au portail.
+- Avant de quitter, remets les vannes dans l'etat qui permet aux plateformes de
+  bouger si l'ascenseur refuse de repartir.
+
+09 - CLOSURE
+
+- Empile les caisses pour franchir la grille et entre dans l'aeration.
+- Dans la salle inondee, ne touche pas l'eau. Va au boitier, retire le fusible,
+  puis reviens prendre l'orbe devenu accessible. Replace le fusible dans le
+  troisieme logement.
+- Dans la salle suivante, active le bouton vert et pousse les caisses dans la
+  flaque pour creer un chemin de plateformes.
+- Va a droite jusqu'au tableau de circuits et installe les cartes pour alimenter
+  la porte. Dans cette salle, grimpe sur le grand conteneur :
+  Strange Artefact 09/09.
+- Entre dans la bouche d'aeration voisine et prends le conteneur de nitroglycerine.
+  Garde-le jusqu'au dernier rocher.
+- Reviens a la flaque par le chemin oppose, insere la prise au sol et appuie sur
+  le gros bouton rouge. Reprends le parcours des passerelles mobiles et ramasse
+  l'orbe visible sur le trajet.
+- En bas des escaliers, place le conteneur devant les rochers. Trouve la corde,
+  mets une extremite dans le conteneur et l'autre dans l'huile, puis active le
+  dispositif et eloigne-toi.
+- Recupere les derniers orbes, franchis la sortie et verifie la statistique :
+  [ ] 9/9 artefacts ;
+  [ ] 9 niveaux ;
+  [ ] 0/0 succes Steam.
+
+CHECKLIST FINALE DES ARTEFACTS
+
+[ ] 01 The Tomb - plateforme au-dessus de la petite passerelle.
+[ ] 02 Residential - bouche d'aeration au-dessus des moniteurs.
+[ ] 03 Vertical Shaft - tiroir du bureau.
+[ ] 04 Sewer - premiere salle, zone haute.
+[ ] 05 Surface Station - rebord eloigne depuis le toit.
+[ ] 06 Power Station - rebord de la rampe de verre.
+[ ] 07 The Engine - sommet du batiment des pistons.
+[ ] 08 Steam - sous les tonneaux de l'incinerateur.
+[ ] 09 Closure - sommet du grand conteneur du tableau de circuits.
+
+SOURCES DE CONTROLE
+
+- Fiche Steam officielle, AppID 22140 :
+  https://store.steampowered.com/app/22140/Penumbra_Requiem/
+- Ordre des 9 niveaux, puzzles et artefacts :
+  https://steamcommunity.com/sharedfiles/filedetails/?id=679487159
+- Verification croisee de la route :
+  https://www.supercheats.com/pc/walkthroughs/penumbrarequiem-walkthrough01.txt
+- Index de la solution par niveau :
+  https://strategywiki.org/wiki/Penumbra%3A_Requiem

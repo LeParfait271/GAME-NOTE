@@ -1,0 +1,291 @@
+PENUMBRA: BLACK PLAGUE
+GUIDE CHRONOLOGIQUE 100 % UTILE - SANS SPOILER
+
+Version de travail : 11 aout 2026
+
+Ce guide couvre l'edition Steam AppID 22120 / Gold Edition. La fiche Steam
+n'expose pas de succes Steam : objectif reel 0/0 succes Steam. La route vise
+les 10 artefacts, les 20 notes, les fichiers informatiques, les objets de
+puzzle et la campagne complete, sans reveler les evenements ni les identites.
+
+OBJECTIF
+
+[ ] 0/0 succes Steam : aucun succes Steam sur cette edition.
+[ ] Campagne terminee dans l'ordre des secteurs.
+[ ] 10/10 Strange Artefacts recuperes.
+[ ] 20/20 notes, fichiers et documents valides dans les statistiques finales.
+[ ] Ordinateurs, projecteur, livres et fichiers optionnels examines.
+[ ] Toutes les portes, casiers et detours accessibles faits avant la sortie.
+[ ] Requiem lance ensuite comme extension separee si tu veux terminer la trilogie.
+
+ALERTES MISSABLES ET GARDE-FOUS
+
+- Le compteur de fin est la reference : 10/10 artefacts et 20/20 notes. Un
+  guide de reference connu oublie parfois une note ; ce guide ajoute donc un
+  controle explicite du document de la mess hall et du fichier Antidote.
+- Active chaque artefact des que tu le rencontres. Fais un slot avant chaque
+  zone de cameras, d'eau, de lasers ou de poursuite.
+- Fouille les tiroirs, casiers, poubelles et etageres. La lampe, les piles, la
+  seringue, le briquet et les cartes d'acces sont plus importants que les soins
+  immediats : ne les abandonne pas.
+- Quand un ennemi patrouille, coupe la lampe, accroupis-toi, attends son passage
+  et change de salle. La route est pensee pour l'esquive ; le combat inutile
+  peut bloquer un passage ou consommer les ressources.
+- Lis les fichiers sur les ordinateurs jusqu'au bout. Une lecture partielle ne
+  valide pas toujours la note correspondante.
+
+ROUTE CHRONOLOGIQUE
+
+01 - THE FIRST CELL
+
+- Fouille la cellule : prends le baton lumineux, la piece, les soins et les
+  petits objets des tiroirs.
+- Place la piece dans l'etau/compresseur et aplatis-la. Utilise-la sur les vis
+  de la grille d'aeration, puis rampe dans le conduit.
+- Ressors pres du distributeur. Utilise la piece ou un objet lance pour obtenir
+  la canette, puis conserve-la. Prends la note du depart avant de poursuivre.
+- Reviens dans le bloc, visite chaque cellule ouverte et lis les documents.
+  Controle la statistique du journal :
+  [ ] Scrap of Paper ;
+  [ ] Escapee Note ;
+  [ ] Medical Report ;
+  [ ] Survivor's Note dans la mess hall, sur la table a droite du point de depart.
+- Ouvre le chemin vers la ventilation. Avant de franchir la porte de sortie,
+  fouille les tiroirs et garde la lampe pour la zone sombre suivante.
+
+02 - VENTILATION ET CELL BLOCK
+
+- Suis les conduits jusqu'a la salle technique. Prends les piles, la lampe et
+  la canette ; chaque objet doit etre utilise en economisant la batterie.
+- Dans le cell block, recupere la seringue dans l'armoire et lis la Medical
+  Report si elle n'est pas encore validee.
+- Utilise la seringue et les objets du poste de soin pour ouvrir la route. La
+  bonne solution est de regarder les indications de la piece avant d'essayer
+  chaque combinaison.
+- Reviens vers les cellules et ouvre le passage vers la mess hall. Fais une
+  sauvegarde avant la cuisine.
+
+03 - MESS HALL, KITCHEN ET BUREAU
+
+- Dans la cuisine, ouvre les placards hauts proches de la porte : Strange
+  Artefact 01/10.
+- Examine la table de la mess hall pour Survivor's Note, puis explore chaque
+  casier, la cuisine et les surfaces sous les tables.
+- Dans le petit bureau au fond, prends la lampe dans le tiroir haut et les
+  piles dans le tiroir du milieu. Place le CD dans l'ordinateur.
+- Lis les deux fichiers du CD : Password Changes et Shelter Orientation. Lis
+  ensuite Howard's Research. La sequence genere les notes, ne quitte pas le
+  poste avant la fin des fichiers.
+- Allume le projecteur et lis la timeline : Timeline of Events. Entre le code
+  indique par le fichier de mots de passe sur la porte correspondante.
+- Avant de sortir :
+  [ ] artefact cuisine ;
+  [ ] Survivor's Note ;
+  [ ] Password Changes ;
+  [ ] Shelter Orientation ;
+  [ ] Howard's Research ;
+  [ ] Timeline of Events ;
+  [ ] CD, piles, lampe et tous les tiroirs controles.
+
+04 - MENTAL REALM ET SEWERS
+
+- La zone mentale ne demande pas de combat ni de collecte numerotee. Suis les
+  indications visuelles, examine les objets marques et termine-la avant de
+  revenir aux conduits.
+- Dans les sewers, avance jusqu'au panneau et aux vannes. Le chemin se construit
+  avec les caisses et les controles de debit : ouvre la voie, place les caisses
+  comme marchepieds et garde la lampe pour les retours.
+- Cherche les passages lateraux avant de monter. Lis toute note posee pres des
+  pompes et verifie la statistique avant de continuer.
+- Lorsque tu rejoins Residential Area 4, fais une sauvegarde et ne ferme pas la
+  route derriere toi avant d'avoir fouille la salle de depart.
+
+05 - DR. SWANSON'S ROOM ET RESIDENTIAL AREA 4
+
+- Ouvre le passage bloque par le tonneau depuis le bon cote. Fouille Dr.
+  Swanson's Room et prends tous les documents, soins et piles.
+- Dans R104, cherche le vestiaire. Le livre Archaic History est a controler
+  dans ce secteur.
+- Dans la chambre R104, fouille le casier signale : Strange Artefact 03/10.
+- Va dans Storage avant Machine Room. Strange Artefact 02/10 se trouve dans
+  Storage : cherche dans les caisses et les coins bas avant d'activer la sortie.
+- Les zones de Residential Area 4 sont interconnectees. Fais le tour complet
+  avant de declencher l'apparition d'une nouvelle patrouille.
+- Controle documents :
+  [ ] Archaic History ;
+  [ ] notes et rapports de la zone ;
+  [ ] artefact Storage 02/10 ;
+  [ ] artefact R104 03/10.
+
+06 - MACHINE ROOM ET COMPUTER CENTRAL
+
+- Apres Storage, entre dans Machine Room. Ventile le gaz et utilise les vannes
+  dans l'ordre donne par les indications de la salle ; ne traverse pas un nuage
+  sans protection.
+- Cherche la carte rouge et les documents de securite. Elle ouvre le controle
+  suivant.
+- Dans Computer Central, lis Password Changes, Computer Manual et tous les
+  fichiers presents. Le code a utiliser est celui affiche par l'ordinateur,
+  jamais un code memorise d'une autre partie.
+- Fais les commandes de portes une par une : selectionne la porte, confirme le
+  code, attends l'ouverture et sauvegarde avant de quitter l'ordinateur.
+- Reviens vers la porte de l'Infirmary maintenant accessible. Ne pars pas vers
+  la bibliotheque avant d'avoir termine Computer Central.
+
+07 - INFIRMARY
+
+- Entre dans l'Infirmary avec la carte activee par Computer Central. Fouille les
+  armoires, les tiroirs et le cabinet ferme.
+- Prends Viscae Somnus et lis Medical Info, Virus Research Report #2 et toute
+  note de laboratoire visible.
+- Cherche l'artefact dans la salle de soins : Strange Artefact 04/10.
+- Controle la sortie et sauvegarde. Si un passage semble bloque, retourne au
+  terminal de Computer Central et verifie que la porte a bien ete deverrouillee.
+
+08 - LIBRARY
+
+- La bibliotheque ne s'ouvre qu'apres les autres zones de Residential Area 4.
+  Utilise le lecteur retinal et le lecteur de paume apres avoir fini Infirmary,
+  Storage, Machine Room et Computer Central.
+- Fouille les rayonnages et les tables. Strange Artefact 05/10 se trouve dans
+  la bibliotheque ; active-le avant de repartir.
+- Lis Cryo Manual et Computer Manual s'ils ne sont pas encore valides. Examine
+  aussi les journaux et le livre pose a part.
+- Reviens dans le hall principal et prepare une sauvegarde avant la zone de
+  chantier.
+
+09 - CONSTRUCTION SITE / SCAFFOLDING
+
+- Avance sur les planches, utilise les caisses pour stabiliser les passerelles
+  et ne saute pas sur une plateforme avant d'avoir verifie le prochain point de
+  chute.
+- Sur le scaffolding, Strange Artefact 06/10 est place a l'ecart du chemin
+  principal. Fais le detour avant de descendre.
+- Cherche le plan de la zone et les documents de chantier. Toute note lue ici
+  doit etre validee avant le passage vers la surface.
+
+10 - A COLD SURFACE
+
+- Dans les cabanes, prends le briquet, les piles et le spray. Utilise les
+  elements de chaleur sur les dispositifs prevus pour traverser le froid.
+- Controle les tiroirs, les etageres et la cabane de droite avant d'aller vers
+  l'issue. La survie depend du temps passe dehors : prepare la route avant
+  d'allumer une flamme.
+- Active la sauvegarde de la zone et lis Greenland Site, Temple Operation et
+  Water Cave Operation si les fichiers ne l'ont pas encore ete.
+
+11 - SCIENCE WING A
+
+- Entre par le couloir de Science Wing A et repere la salle b455. Dans la salle
+  sombre, vide le sac ou la poubelle pour atteindre Strange Artefact 07/10.
+- Repere les cameras et les zones de lumiere. Avance d'un abri a l'autre, en
+  restant accroupi et en n'allumant la lampe que pour lire ou chercher.
+- Fouille les pieces accessibles, puis sauvegarde avant le long couloir qui
+  descend vers les Kennels.
+- Ne tente pas la porte du Research Facility sans la carte : elle se recupere
+  dans la sequence des Kennels.
+
+12 - KENNELS
+
+- Dans le premier enclos, inspecte le chenil de gauche : Strange Artefact 08/10.
+- Dans la salle aux deux trous, deplace les deux grosses caisses pour bloquer
+  les ouvertures du couloir. Cela rend la route de la lumiere controlable.
+- Active le panneau electrique de la petite salle de sauvegarde. Prends le
+  rapport Wilbur Frisk Efficiency Report et les piles.
+- Suis le cycle des lumieres sans courir a l'aveugle. Reste dans les zones
+  eclairees jusqu'a la piece du corps, puis prends la Research Key Card.
+- Reviens au secteur principal, recharge si necessaire et sauvegarde avant
+  Research Facility.
+
+13 - RESEARCH FACILITY
+
+- Utilise la Research Key Card a l'entree. Un ennemi patrouille desormais dans
+  le secteur : passe par les ombres et memorise ses retours.
+- Dans le vestiaire/douche, examine le coin derriere le panneau lumineux :
+  Strange Artefact 09/10.
+- Fouille les bureaux et recupere la cle de Swanson quand la route la rend
+  disponible. Lis Howard's Final Words et les documents de recherche.
+- Dans la salle informatique, ouvre Antidote et lis le fichier en entier : il
+  valide la 20e note et ouvre aussi le bonus informatique optionnel.
+- Termine les commandes de la porte du Chemical Research Lab depuis ce poste.
+  Avant de quitter :
+  [ ] Wilbur Frisk Efficiency Report ;
+  [ ] Howard's Final Words ;
+  [ ] Antidote ;
+  [ ] Strange Artefact 09/10 ;
+  [ ] tous les tiroirs et fichiers de l'ordinateur.
+
+14 - CHEMICAL RESEARCH LAB
+
+- Passe les deux zones de cameras en restant hors des faisceaux. Dans la salle
+  de substance, deplace l'armoire devant la porte pour te donner le temps de
+  fouiller.
+- Dans le bureau, ouvre le tiroir du bas : Strange Artefact 10/10.
+- Prends le Substance Container et les produits. Lis Chemical Tests avant de
+  melanger quoi que ce soit. Les trois produits utiles sont Viscae Somnus,
+  Sulphur et Nitrogen ; le fichier donne l'ordre et la methode.
+- Utilise le recipient dans la salle prevue, valide chaque etape du protocole,
+  puis sauvegarde avant l'Examination Area.
+
+15 - EXAMINATION AREA ET FIN DE CAMPAGNE
+
+- Dans l'Examination Area, recupere les produits manquants et relis Chemical
+  Tests, Greenland Site et Antidote. La combinaison se fait par etapes :
+  recipient, produits identifies, appareil puis validation.
+- Ouvre les portes de securite avec l'ordinateur, traverse les cameras et
+  conserve le produit jusqu'au dernier poste. Ne le jette pas en pensant que
+  l'objectif est deja valide.
+- Termine la derniere epreuve, lis les fichiers de fin et suis la sortie.
+  N'essaie pas de revenir dans les zones fermees pendant la sequence finale.
+
+CHECKLIST 100 %
+
+ARTEFACTS :
+[ ] 01 Kitchen
+[ ] 02 Storage
+[ ] 03 Residential Area 4 / R104
+[ ] 04 Infirmary
+[ ] 05 Library
+[ ] 06 Construction Site / scaffolding
+[ ] 07 Science Wing A / b455
+[ ] 08 Kennels
+[ ] 09 Research Facility / douche
+[ ] 10 Chemical Research Lab
+
+NOTES ET FICHIERS :
+[ ] Scrap of Paper
+[ ] Escapee Note
+[ ] Medical Report
+[ ] Survivor's Note
+[ ] Password Changes
+[ ] Shelter Orientation
+[ ] Howard's Research
+[ ] Timeline of Events
+[ ] Virus Research Report #2
+[ ] Computer Manual
+[ ] Theoretic Effects of Controlled Infection
+[ ] Temple Operation
+[ ] Water Cave Operation
+[ ] Greenland Site
+[ ] Archaic History
+[ ] Cryo Manual
+[ ] Chemical Tests
+[ ] Howard's Final Words
+[ ] Wilbur Frisk Efficiency Report
+[ ] Antidote
+
+[ ] Statistiques finales : Notes 20/20, Collectables 10/10.
+[ ] 0/0 succes Steam confirme ; aucun DLC ou mode online a ajouter.
+
+SOURCES DE CONTROLE
+
+- Fiche Steam officielle / Gold Edition, AppID 22120 :
+  https://store.steampowered.com/app/22120/Penumbra_Black_Plague_Gold_Edition/
+- Manuel PC officiel :
+  https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/22120/manuals/manual_english.pdf?t=1727954568
+- Ordre des secteurs et solution complete :
+  https://www.neoseeker.com/penumbra-black-plague/faqs/181357-requiem.html
+- Verification croisee des cartes, objets et statistiques :
+  https://gamefaqs.gamespot.com/pc/943291-penumbra-black-plague/faqs/52302
+- Liste des notes et fichiers :
+  https://penumbra.fandom.com/wiki/Penumbra%3A_Black_Plague_notes

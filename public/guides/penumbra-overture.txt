@@ -1,0 +1,182 @@
+PENUMBRA: OVERTURE
+GUIDE CHRONOLOGIQUE 100 % UTILE - SANS SPOILER
+
+Version de travail : 11 aout 2026
+
+Ce guide couvre l'edition Steam AppID 22180. La fiche Steam n'expose pas de
+succes Steam : le compteur reel est donc 0/0 succes Steam. La route ci-dessous
+vise la campagne complete, les artefacts de sauvegarde, les notes, les objets
+de puzzle et les detours utiles, sans raconter l'histoire ni les revelations.
+
+OBJECTIF
+
+[ ] 0/0 succes Steam : aucun succes Steam sur cette edition.
+[ ] Prologue termine.
+[ ] Les quatre chapitres traverses dans l'ordre.
+[ ] Chaque artefact de sauvegarde active au moins une fois.
+[ ] Chaque note, journal, carte et document lisible examine.
+[ ] Les detours de stockage, bureaux et casiers faits avant les changements de zone.
+[ ] Inventaire final controle avant la derniere sequence.
+
+ALERTES MISSABLES ET GARDE-FOUS
+
+- Les artefacts lumineux sont les points de sauvegarde. Active-les des que tu
+  les vois, puis ajoute les sauvegardes importantes aux favoris : le jeu ne
+  garde qu'un nombre limite de sauvegardes automatiques.
+- Garde toujours une source de lumiere, quelques piles, une fuse de rechange,
+  les outils et les objets de combinaison. Ne jette pas un objet simplement
+  parce qu'il semble inutile : les puzzles utilisent la physique et les objets
+  ordinaires.
+- Avant de changer de secteur, examine les casiers, tiroirs, bureaux, cartes et
+  notes. Plusieurs salles ne sont plus pratiques a revisiter apres une course,
+  un effondrement ou un changement de chapitre.
+- Dans l'ombre, coupe les lumieres et accroupis-toi quand c'est possible. Les
+  ennemis reagissent differemment a la lampe et au joueur immobile.
+- Ne transporte pas une arme pendant une recherche de puzzle : elle peut
+  empecher certaines interactions. Pose-la au sol avant de deplacer les caisses.
+- En cas de doute, conserve trois slots : debut de zone, dernier artefact et
+  juste avant une sequence de poursuite. Ce sont les seuls vrais garde-fous
+  contre un aller-retour impossible.
+
+ORDRE CHRONOLOGIQUE
+
+00 - PROLOGUE : LE BATEAU ET LA DESCENTE
+
+- Dans la cabine, ouvre le meuble avec la cle de depart. Prends le glowstick,
+  les piles et le carnet avant de sortir.
+- Examine chaque document et chaque objet interactif du bateau. La route est
+  lineaire, mais ce controle evite de laisser un document de cote.
+- A l'arrivee, suis le seul chemin jusqu'a l'entree de la mine. Active le
+  premier artefact de sauvegarde et garde la lampe eteinte quand tu n'en as pas
+  besoin.
+
+01 - CHAPITRE 1 : THE FEARS OF MINE / OLD MINE
+
+- Consulte la carte de la mine et repere Storage. Dans la salle de stockage,
+  prends le briquet vide sur l'etagere, puis explore d'abord le bureau avant de
+  t'engager dans les couloirs.
+- Dans le bureau, prends les piles, les soins, les fusées et les deux viandes
+  sechees disponibles. Active l'artefact sur la table et lis le journal.
+- Dans la piece avec la caisse de pierres, vide la caisse puis deplace-la pour
+  reveler la trappe. Descends et accroupis-toi dans le passage bas.
+- Dans le tunnel, prends d'abord la branche de droite pour la note et la fusee.
+  Reviens ensuite par la branche indiquee par la carte. Passe la zone de vapeur
+  sans te precipiter et examine les documents au sol.
+- Retourne au stockage. Remplis le briquet avec le liquide trouve dans la zone,
+  puis utilise-le sur les lampes a petrole des couloirs principaux.
+- Ouvre les salles accessibles autour du point de depart, fouille les casiers
+  et active chaque artefact rencontre. Si une porte resiste, verifie d'abord la
+  carte et l'eclairage : le verrou est souvent une progression de zone, pas un
+  objet manque.
+- Avant de quitter Old Mine :
+  [ ] artefact du bureau active ;
+  [ ] briquet rempli ;
+  [ ] note du tunnel lue ;
+  [ ] piles, soins et fusees ramasses ;
+  [ ] carte et journaux examines.
+
+02 - CHAPITRE 2 : A VOICE IN THE DARK / NEW MINE
+
+- Rejoins Power Room par la premiere bifurcation. Prends les deux piles, la
+  note et l'artefact situes pres de l'entree.
+- Casse les planches qui ferment le grand puits, pousse la caisse dans l'ouverture
+  et descends recuperer la pile tombee. Remonte et place-la dans le generateur.
+- Reviens dans le couloir et repere la barriere, la grille et le clavier. Ne
+  force pas le passage : explore la salle laterale avant de revenir au chien.
+- Dans la salle de stockage, empile deux caisses devant l'etagere haute. Monte
+  dessus pour prendre la fuse blanche ; le balai peut aussi la faire tomber.
+  Prends la viande sechee, la fusee et la note avant de repartir.
+- Pour le reservoir de gaz, recupere le jerrycan et remplis le systeme quand la
+  route te le demande. Ne depense pas le gaz ailleurs.
+- Avant la zone du chien, sauvegarde. Choisis la discretion ou une diversion,
+  puis file vers la porte de l'auxiliary shaft. L'objectif est de franchir la
+  zone, pas de nettoyer la mine.
+- Fouille les petits bureaux et les etageres de New Mine avant de prendre la
+  sortie de chapitre. Active tout artefact visible avant d'utiliser une porte
+  qui declenche un effondrement.
+- Controle de fin de chapitre :
+  [ ] pile placee dans le generateur ;
+  [ ] fuse blanche recuperee ;
+  [ ] jerrycan conserve puis utilise au bon systeme ;
+  [ ] artefact et note de Power Room ;
+  [ ] aucun casier ou bureau accessible oublie.
+
+03 - CHAPITRE 3 : HEAVY INDUSTRIES / IRON MINE
+
+- Consulte la carte et pars vers Shaft 13. Si le passage se ferme derriere toi,
+  reste sur le cote gauche du tunnel, examine les notes et cherche la salle aux
+  casiers.
+- Dans les casiers, prends les objets, la note du banc et le papier laisse sous
+  le casque. Fais rouler la grosse pierre pour bloquer le passage venant des
+  araignees, puis ressors par la route de la carte.
+- Va a Tool Storage. Prends le tournevis et le coupe-boulons. Ces deux outils
+  servent aux chapitres suivants : ne les depose pas dans un endroit inaccessible.
+- Explore ensuite la Refinery. Monte l'escalier, lis les indications de la
+  machine et memorise la route du convoyeur. Les crushers, le moteur et les
+  vannes doivent etre traites comme un seul puzzle : ouvre d'abord les acces,
+  puis utilise les commandes dans l'ordre de la carte.
+- Quand un convoyeur ou un broyeur se met en mouvement, reste sur les cotes et
+  utilise les caisses comme protections. Ne cours pas en portant un outil si tu
+  dois encore manipuler une vanne.
+- Reviens vers les bureaux d'Iron Mine et cherche la grande cle dans l'armoire
+  signalisee. Elle ouvre la suite de la route ; aucun objet rare ne doit etre
+  combine avant ce point.
+- Termine par le passage des pistons et de la vapeur. Active l'artefact de la
+  salle de commande, lis la carte et garde le tournevis et le coupe-boulons.
+- Avant d'entrer en Section C :
+  [ ] Shaft 13 explore et notes lues ;
+  [ ] tournevis et coupe-boulons dans l'inventaire ;
+  [ ] grande cle recuperee ;
+  [ ] artefacts et sauvegardes de l'Iron Mine actives ;
+  [ ] Refinery et bureaux fouilles.
+
+04 - CHAPITRE 4 : THE PROMISE / SECTION C
+
+- Dans Section C, lis la carte puis pars vers Chemical Storage par la porte
+  indiquee. Sauvegarde avant d'entrer : la prochaine route est une poursuite.
+- Des que la course commence, ferme la premiere porte avec le bouton, tourne
+  vers la droite et traverse la matiere verte sans t'arreter. Utilise la hache
+  sur les planches, place deux caisses dans la zone visqueuse pour te faire un
+  pont, puis casse la colonne qui bloque la sortie.
+- Tourne la vanne et active l'artefact de la salle suivante. Fouille Chemical
+  Storage methodiquement : six bouteilles de produits, la liste des produits,
+  les fusees et la viande sechee sont a conserver.
+- Pour identifier les bouteilles, lis la fiche de combinaison et applique le
+  moyen mnemonique donne par la salle. Ne melange rien tant que les six noms ne
+  sont pas verifies.
+- Va ensuite a Lake Utuqaq. Active l'artefact pres du lac et recupere les soins
+  dans le sac. Traverse la glace lentement : quand elle craque, arrete-toi et
+  passe par les plaques flottantes. Les planches de la cabane donnent une route
+  plus sure.
+- Sur l'autre rive, recupere la scie puis le pied-de-biche. Reviens par le lac
+  sans jeter la scie : elle est necessaire pour la suite.
+- Dans l'incinerateur, examine les portes et les salles laterales. Active
+  l'artefact de la chambre, puis ouvre la boite d'alimentation avec le tournevis
+  et coupe les fils avec le coupe-boulons.
+- Utilise le pied-de-biche sur la porte centrale. Lis la note dans l'escalier,
+  descends et prepare le melange demande avec les produits identifies. Place la
+  fuse, le recipient et le melange dans le dispositif prevu, puis eloigne-toi
+  avant l'allumage.
+- La derniere route est lineaire. Avance sans revenir dans une zone fermee,
+  active l'artefact disponible, puis suis les portes jusqu'a la conclusion.
+
+CHECKLIST FINALE
+
+[ ] Les quatre chapitres apparaissent comme termines.
+[ ] Tous les artefacts de sauvegarde rencontres ont ete actives.
+[ ] Toutes les notes, cartes, journaux, tableaux et documents ont ete lus.
+[ ] Le briquet, le gaz, les fuses, la scie, le pied-de-biche et les outils ont
+    ete utilises dans la route prevue.
+[ ] 0/0 succes Steam confirme : il n'y a pas de nettoyage Steam a inventer.
+[ ] Aucun DLC ni mode online n'est a ajouter a cette edition.
+
+SOURCES DE CONTROLE
+
+- Fiche Steam officielle, AppID 22180 :
+  https://store.steampowered.com/app/22180/Penumbra_Overture/
+- Manuel PC officiel :
+  https://shared.steamstatic.com/store_item_assets/steam/apps/22180/manuals/Penumbra%20Overture%20Manual.pdf?t=1727954565
+- Ordre des chapitres et route des puzzles :
+  https://penumbra.fandom.com/wiki/Penumbra%3A_Overture_Walkthrough
+- Verification croisee des objets et documents :
+  https://gamefaqs.gamespot.com/pc/934076-penumbra-overture/faqs/47768
