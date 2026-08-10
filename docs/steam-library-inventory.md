@@ -95,6 +95,9 @@ soluce chronologique classique n'apporterait rien.
 - Legend of Mysteria RPG
 - The Last Remnant (guide special sans succes Steam)
 - Legendary (guide special sans succes Steam)
+- Penumbra: Overture (guide special sans succes Steam)
+- Penumbra: Black Plague (guide special sans succes Steam)
+- Penumbra: Requiem (guide special sans succes Steam)
 
 ## Futurs guides chronologiques (`planned`)
 
@@ -119,9 +122,6 @@ soluce chronologique classique n'apporterait rien.
 - DOOM 3: Resurrection of Evil
 - Duke Nukem Forever
 - Painkiller: Redemption
-- Penumbra: Overture
-- Penumbra: Black Plague
-- Penumbra: Requiem
 
 ### Coopération ou campagne à route dédiée
 

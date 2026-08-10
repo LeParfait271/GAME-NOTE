@@ -864,3 +864,46 @@ conditions difficiles ; elles ne justifient jamais une copie mot a mot.
   https://en.wikipedia.org/wiki/Legendary_%28video_game%29
 - Points verifies : fiche Steam sans succes, campagne solo, six arcs de route,
   PDA, armes, messages et objectifs ; aucun guide online ou DLC n'est annonce.
+
+## PENUMBRA OVERTURE
+
+- Fiche Steam officielle, AppID 22180 :
+  https://store.steampowered.com/app/22180/Penumbra_Overture/
+- Manuel PC officiel :
+  https://shared.steamstatic.com/store_item_assets/steam/apps/22180/manuals/Penumbra%20Overture%20Manual.pdf?t=1727954565
+- Ordre des chapitres et route des puzzles :
+  https://penumbra.fandom.com/wiki/Penumbra%3A_Overture_Walkthrough
+- Verification croisee des objets et documents :
+  https://gamefaqs.gamespot.com/pc/934076-penumbra-overture/faqs/47768
+- Points verifies : edition solo sans succes Steam, quatre chapitres, artefacts
+  de sauvegarde, notes, mine, puzzles d'objets et detours de fin ; aucun online
+  ou DLC a ajouter.
+
+## PENUMBRA BLACK PLAGUE
+
+- Fiche Steam officielle / Gold Edition, AppID 22120 :
+  https://store.steampowered.com/app/22120/Penumbra_Black_Plague_Gold_Edition/
+- Manuel PC officiel :
+  https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/22120/manuals/manual_english.pdf?t=1727954568
+- Ordre des secteurs et solution complete :
+  https://www.neoseeker.com/penumbra-black-plague/faqs/181357-requiem.html
+- Verification croisee des cartes, objets et statistiques :
+  https://gamefaqs.gamespot.com/pc/943291-penumbra-black-plague/faqs/52302
+- Liste des notes et fichiers :
+  https://penumbra.fandom.com/wiki/Penumbra%3A_Black_Plague_notes
+- Points verifies : edition solo sans succes Steam, Shelter, 10 artefacts, 20
+  notes/fichiers, stealth, ordinateurs et route vers l'examen final ; aucun
+  online ou DLC a ajouter.
+
+## PENUMBRA REQUIEM
+
+- Fiche Steam officielle, AppID 22140 :
+  https://store.steampowered.com/app/22140/Penumbra_Requiem/
+- Ordre des 9 niveaux, puzzles et artefacts :
+  https://steamcommunity.com/sharedfiles/filedetails/?id=679487159
+- Verification croisee de la route :
+  https://www.supercheats.com/pc/walkthroughs/penumbrarequiem-walkthrough01.txt
+- Index de la solution par niveau :
+  https://strategywiki.org/wiki/Penumbra%3A_Requiem
+- Points verifies : extension puzzle solo sans succes Steam, neuf niveaux, neuf
+  artefacts et enigmes de physique ; aucun online ou DLC separe a ajouter.

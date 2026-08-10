@@ -1413,6 +1413,54 @@ const guides: Guide[] = [
       "A surveiller : les pickups locaux avant chaque changement d'arc.",
     meta: ["0/0 Steam", "6 arcs", "Sans spoiler"],
   },
+  {
+    id: "penumbra-overture",
+    steamAppId: 22180,
+    title: "Penumbra: Overture",
+    eyebrow: "Frictional Games",
+    subtitle: "Mine, enigmes physiques et 4 chapitres.",
+    count: "0 succes Steam",
+    file: "penumbra-overture.txt",
+    accent: "blue",
+    tag: "Guide special",
+    description:
+      "Route de la mine, objets de puzzle, artefacts et notes sans spoiler.",
+    highlight:
+      "A surveiller : sauvegardes sur artefacts, briquet, gaz et fuse avant les zones fermees.",
+    meta: ["0/0 Steam", "4 chapitres", "Sans spoiler"],
+  },
+  {
+    id: "penumbra-black-plague",
+    steamAppId: 22120,
+    title: "Penumbra: Black Plague",
+    eyebrow: "Frictional Games",
+    subtitle: "Shelter, recherches et 10 artefacts.",
+    count: "0 succes Steam",
+    file: "penumbra-black-plague.txt",
+    accent: "coral",
+    tag: "Guide special",
+    description:
+      "Route du Shelter, stealth, cartes, notes et collectibles sans spoiler.",
+    highlight:
+      "A surveiller : 10/10 artefacts, cartes d'acces et documents avant les changements de secteur.",
+    meta: ["0/0 Steam", "10 artefacts", "Sans spoiler"],
+  },
+  {
+    id: "penumbra-requiem",
+    steamAppId: 22140,
+    title: "Penumbra: Requiem",
+    eyebrow: "Frictional Games",
+    subtitle: "9 niveaux de puzzles physiques.",
+    count: "0 succes Steam",
+    file: "penumbra-requiem.txt",
+    accent: "gold",
+    tag: "Guide special",
+    description:
+      "Epilogue puzzle, cubes, pression, gravite et artefacts sans spoiler.",
+    highlight:
+      "A surveiller : les 9 niveaux et les artefacts avant chaque sortie.",
+    meta: ["0/0 Steam", "9 niveaux", "Sans spoiler"],
+  },
 ];
 
 const steamHeaderUrl = (appId: number) =>

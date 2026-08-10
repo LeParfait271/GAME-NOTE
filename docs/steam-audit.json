@@ -89,6 +89,9 @@
     { "id": "blood-omen-2", "appId": 242960, "steamAchievements": 0, "guideType": "special-no-steam-achievements-campaign-coffers", "source": "https://store.steampowered.com/app/242960/Blood_Omen_2_Legacy_of_Kain/" },
     { "id": "legend-of-mysteria", "appId": 407230, "steamAchievements": 6, "guideType": "100-steam-puzzle-rpg", "source": "https://store.steampowered.com/app/407230/Legend_of_Mysteria_RPG/" },
     { "id": "the-last-remnant", "appId": 23310, "steamAchievements": 0, "guideType": "special-no-steam-achievements-68-quests", "source": "https://store.steampowered.com/app/23310/The_Last_Remnant/" },
-    { "id": "legendary", "appId": 16730, "steamAchievements": 0, "guideType": "special-no-steam-achievements-pda-campaign", "source": "https://store.steampowered.com/app/16730/Legendary/" }
+    { "id": "legendary", "appId": 16730, "steamAchievements": 0, "guideType": "special-no-steam-achievements-pda-campaign", "source": "https://store.steampowered.com/app/16730/Legendary/" },
+    { "id": "penumbra-overture", "appId": 22180, "steamAchievements": 0, "guideType": "special-no-steam-achievements-physics-puzzles", "source": "https://store.steampowered.com/app/22180/Penumbra_Overture/" },
+    { "id": "penumbra-black-plague", "appId": 22120, "steamAchievements": 0, "guideType": "special-no-steam-achievements-10-artifacts", "source": "https://store.steampowered.com/app/22120/Penumbra_Black_Plague_Gold_Edition/" },
+    { "id": "penumbra-requiem", "appId": 22140, "steamAchievements": 0, "guideType": "special-no-steam-achievements-9-puzzle-levels", "source": "https://store.steampowered.com/app/22140/Penumbra_Requiem/" }
   ]
 }

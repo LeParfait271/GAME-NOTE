@@ -95,6 +95,9 @@
     { "id": "blood-omen-2", "title": "Blood Omen 2: Legacy of Kain", "scope": "special", "status": "draft", "file": "public/guides/blood-omen-2.txt", "reason": "L'AppID Steam visible n'expose pas de succes : guide de campagne, Dark Gifts et coffres transparent." },
     { "id": "legend-of-mysteria", "title": "Legend of Mysteria RPG", "scope": "full-guide", "status": "draft", "file": "public/guides/legend-of-mysteria.txt" },
     { "id": "the-last-remnant", "title": "The Last Remnant", "scope": "special", "status": "draft", "file": "public/guides/the-last-remnant.txt", "reason": "La fiche Steam non repertoriee n'expose pas de succes : guide de campagne, 68 quetes et Ancient Ruins transparent." },
-    { "id": "legendary", "title": "Legendary", "scope": "special", "status": "draft", "file": "public/guides/legendary.txt", "reason": "La fiche Steam visible n'expose pas de succes : guide de campagne et PDA transparent." }
+    { "id": "legendary", "title": "Legendary", "scope": "special", "status": "draft", "file": "public/guides/legendary.txt", "reason": "La fiche Steam visible n'expose pas de succes : guide de campagne et PDA transparent." },
+    { "id": "penumbra-overture", "title": "Penumbra: Overture", "scope": "special", "status": "draft", "file": "public/guides/penumbra-overture.txt", "reason": "La fiche Steam n'expose pas de succes : guide de campagne, puzzles physiques et artefacts transparent." },
+    { "id": "penumbra-black-plague", "title": "Penumbra: Black Plague", "scope": "special", "status": "draft", "file": "public/guides/penumbra-black-plague.txt", "reason": "La fiche Steam n'expose pas de succes : guide de campagne, stealth, notes et 10 artefacts transparent." },
+    { "id": "penumbra-requiem", "title": "Penumbra: Requiem", "scope": "special", "status": "draft", "file": "public/guides/penumbra-requiem.txt", "reason": "Extension puzzle incluse dans Black Plague Gold Edition sans succes Steam : guide des 9 niveaux et artefacts." }
   ]
 }
