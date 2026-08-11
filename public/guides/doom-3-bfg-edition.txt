@@ -1,0 +1,197 @@
+DOOM 3: BFG EDITION
+GUIDE 100 % STEAM - 65 SUCCES STEAM - CHRONOLOGIQUE - SANS SPOILER
+
+Version de travail : 11 aout 2026
+
+PERIMETRE
+
+Cette route couvre les campagnes DOOM 3, Resurrection of Evil, Lost Mission,
+Ultimate DOOM, DOOM II: Hell on Earth, DOOM II: No Rest for the Living, les
+PDAs, les video logs, les casiers, les secrets, les minijeux, les difficultes
+et les succes multiplayer. Le total officiel de l'AppID 208200 est 65/65.
+
+OBJECTIF REEL
+
+[ ] Les trois campagnes DOOM 3 sont terminees et leurs PDAs/collectibles coches.
+[ ] Ultimate DOOM et DOOM II sont termines avec les difficultes requises.
+[ ] Les niveaux, secrets, casiers, videos et minijeux sont valides.
+[ ] Les combats, artefacts, sentry bots et objectifs speciaux sont coches.
+[ ] Les 6 succes multiplayer sont faits avec des joueurs disponibles.
+[ ] 65/65 succes Steam apparaissent dans la bibliotheque.
+
+GARDE-FOUS ET MISSABLES
+
+- Les campagnes peuvent etre rejouees. Fais une sauvegarde a chaque niveau et
+  ne remplace pas le fichier principal avant le controle des PDAs.
+- Pour les difficultes, vise directement Nightmare sur DOOM 3, Resurrection of
+  Evil et Lost Mission si tu es a l'aise : les paliers inferieurs se valident
+  sur la meme route selon le comportement du jeu. Sinon fais une campagne de
+  controle puis une campagne Nightmare dediee.
+- `Speed Run` exige DOOM 3 en 10 heures ou moins. Fais-le sur une sauvegarde
+  separee en difficulte basse, sans detour de collectibles.
+- Les succes `To Be or Not to Be`, `Not a Scratch`, `Bot Buddy`, les minijeux et
+  les secrets sont plus fiables avec une sauvegarde avant la salle concernee.
+- Les 6 succes multiplayer (`Clean Sheet`, `Berserked!`, `Crushed!`,
+  `Telefragged!`, `Ninja Killer`, `2 Deaths - 1 Gun`) dependent d'une vraie
+  partie a plusieurs. Ne compte pas sur une population aleatoire.
+- Aucun detail de scenario, de boss ou de denouement n'est revele. Les noms de
+  niveaux et de succes servent uniquement a la checklist.
+
+ROUTE CHRONOLOGIQUE
+
+00 - ULTIMATE DOOM ET DOOM II : BASE CLASSIQUE
+
+- Commence par Ultimate DOOM. Termine au moins un niveau en solo pour
+  `Neophyte`, puis l'Episode 1 en Hurt Me Plenty ou plus pour `DOOM: Episode 1`.
+- Fais les Episodes 2, 3 et 4 au meme niveau ou plus pour les quatre succes
+  d'episodes. Sur une partie de nettoyage, termine tous les niveaux en
+  Ultra-Violence ou plus pour `DOOM: Rampage`.
+- Dans un niveau, obtiens 100 % des kills, objets et secrets pour `DOOM:
+  Burning Out of Control`. Fais aussi un niveau en Nightmare pour `DOOM:
+  Nightmare` avec une sauvegarde courte.
+- Passe a DOOM II: Hell on Earth, puis No Rest for the Living. Trouve une zone
+  secrete, un BFG et termine les campagnes. La difficulte Ultra-Violence de
+  Hell on Earth valide `DOOM II: Superior Firepower`.
+- [ ] `Neophyte`, `DOOM II: Just Getting Started`, `DOOM II: An Important
+      Looking Door`, `DOOM: Episode 1`, `DOOM: Episode 2`.
+- [ ] `DOOM: Episode 3`, `DOOM: Episode 4`, `DOOM: Burning Out of Control`,
+      `DOOM: Nightmare`, `DOOM: Rampage`, `DOOM II: Burning Out of Control`.
+- [ ] `DOOM II: A Really Big Gun`, `DOOM II: From Earth to Hell`,
+      `DOOM II: And Back Again`, `DOOM II: Superior Firepower`.
+
+01 - DOOM 3 : MARS CITY ET PREMIERS PDAS
+
+- Lance DOOM 3 en campagne complete. Choisis Nightmare pour la run principale
+  si tu veux eviter de refaire les niveaux de difficulte.
+- A Mars City, ramasse chaque PDA, video log et code. Les armoires de stockage
+  sont a ouvrir des qu'elles apparaissent ; `Goody Finder` demande tous les
+  casiers du jeu.
+- Garde un sentry bot en vie jusqu'a sa destination pour `Bot Buddy`. La salle
+  d'entrainement n'est pas le meilleur choix : recommence sur une escort courte
+  avec sauvegarde avant le depart.
+- Utilise les barrels, la tronconneuse, les poings et le Soul Cube au fil de la
+  campagne. Note les compteurs 50 barrels, 20 chainsaw, 20 melee et 20 Soul Cube.
+- [ ] `DOOMed Recruit`, `DOOMed Marine`, `DOOMed Veteran`, `Ready for Action!`,
+      `Bot Buddy`, `Boomtastic`, `Ripped!`, `Unarmed Badass`, `Soulfood`.
+- [ ] `Goody Finder`, `DOOMed Collector`, `I Like to Watch` en progression.
+
+02 - DOOM 3 : LABORATOIRES ET OBJECTIFS SPECIAUX
+
+- Continue niveau par niveau en lisant tous les PDAs avant les portes de sortie.
+  Les journaux et videos peuvent se trouver dans des bureaux hors trajet.
+- Fais `Turncoat` en attirant deux demons l'un vers l'autre sans les finir.
+  Fais `That was Close!` sur un ennemi a une barre de vie, avec une sauvegarde
+  juste avant le tir.
+- Fais `Double the Fun!` avec un tir de shotgun sur deux Imps proches et
+  `To Be or Not to Be` sur la sauvegarde de choix indiquee par le niveau.
+- Cherche la salle logo id pour `All of Us`, joue a Super Turbo Turkey Puncher
+  3 jusqu'a 25 000 pour `Killing time`, et garde le score en sauvegarde.
+- [ ] `Turncoat`, `That was Close!`, `Double the Fun!`, `To Be or Not to Be`,
+      `All of Us`, `Killing time`.
+
+03 - DOOM 3 : FIN DE CAMPAGNE ET SPEED RUN
+
+- Termine la campagne en verifiant la liste de PDAs, casiers et videos. Les
+  niveaux de difficulte et les combats principaux s'enregistrent a la fin.
+- Fais une sauvegarde separee pour `Speed Run`. Redemarre la campagne en
+  Recruit, ignore les recherches et avance uniquement par les objectifs du
+  journal. Termine en moins de 10 heures.
+- Si le compteur des PDAs n'est pas complet, reprends le fichier Nightmare ou
+  Veteran et utilise une liste par niveau. Ne supprime pas la run rapide.
+- [ ] `Sticky Situation`, `Cookie Stealer`, `You're Not My Boss!`, `Big Boy`,
+      `DOOMed Nightmare`, `Speed Run`, `DOOMed Collector`.
+
+04 - RESURRECTION OF EVIL : ARTIFACT ET CAMPAGNE
+
+- Lance Resurrection of Evil sur la difficulte choisie et garde l'artefact
+  charge. Fais les trois capacites pendant la route : Hell Time, Berserk et
+  Invulnerability.
+- Termine les trois boss/rencontres de l'extension pour `Gimme Time!`, `Gimme
+  Power!`, `Shocking!` et `Eat This!`.
+- Ouvre tous les PDAs de l'extension pour `Evil Collector`. Utilise le Grabber
+  sur 20 projectiles pour `Play Catch`, puis frappe 20 ennemis avec Berserk pour
+  `Fists of Fury`.
+- Termine une campagne Recruit, Marine, Veteran et Nightmare selon la
+  sauvegarde de difficulte. `Evil Recruit`, `Evil Marine`, `Evil Veteran` et
+  `Evil Nightmare` sont controles a l'ecran de fin.
+- [ ] `Gimme Time!`, `Gimme Power!`, `Shocking!`, `Eat This!`, `Evil Recruit`,
+      `Evil Marine`, `Evil Veteran`, `Evil Nightmare`, `Evil Collector`.
+- [ ] `Play Catch`, `Too Slow, Fool!`, `Fists of Fury`.
+
+05 - LOST MISSION : CAMPAGNE ET COLLECTIBLES
+
+- Termine Lost Mission en lisant chaque PDA et en ouvrant chaque secret. Le
+  succes `Lost Collector` exige tous les PDAs de cette campagne.
+- Garde les sentry bots en vie, les barrels et les minijeux lorsque la zone les
+  contient. Les objectifs generiques peuvent se valider ici si DOOM 3 est deja
+  termine.
+- Trouve le logo RAGE pour `RAGE`. Termine la campagne en Recruit, Marine,
+  Veteran et Nightmare selon les sauvegardes.
+- [ ] `Lost Recruit`, `Lost Marine`, `Lost Veteran`, `Lost Nightmare`,
+      `Lost Collector`, `RAGE`.
+
+06 - NETTOYAGE DE COMBAT ET COLLECTIBLES
+
+- Reprends une campagne ouverte et valide les compteurs restant : 50 barrels,
+  20 chainsaw, 20 poings, 20 Soul Cube, demons qui se battent, Imps au shotgun,
+  projectiles Grabber et kills Hell Time.
+- Verifie les PDA de DOOM 3, RoE et Lost Mission, tous les video logs de DOOM 3,
+  les casiers et la salle logo.
+- Pour `Not a Scratch`, choisis un niveau court hors Mars City, sauvegarde avant
+  l'entree et avance lentement sans subir de degats.
+- [ ] `Not a Scratch`, `Boomtastic`, `Ripped!`, `Turncoat`, `That was Close!`,
+      `Unarmed Badass`, `Soulfood`, `Double the Fun!`.
+
+07 - MULTIPLAYER ET CONTROLE FINAL
+
+- Organise une partie DOOM 3 multiplayer avec un ami. Valide `Clean Sheet` en
+  terminant un match sans mourir, puis `Berserked!` en tuant un joueur avec
+  Berserk.
+- Sur Frag Chamber, fais `Crushed!` dans le Reactor, `Telefragged!` apres un
+  teleporteur et `2 Deaths - 1 Gun` avec une roquette sur deux joueurs dans la
+  meme salle. Fais `Ninja Killer` avec invisibilite.
+- Controle les trois campagnes DOOM 3, les deux jeux classiques, les extensions,
+  les difficultes et les collectibles.
+- [ ] `Clean Sheet`, `Berserked!`, `Crushed!`, `Telefragged!`,
+      `Ninja Killer`, `2 Deaths - 1 Gun`.
+- [ ] Surcouche Steam : 65/65.
+
+CHECKLIST COMPLETE DES 65 SUCCES STEAM
+
+[ ] Neophyte  [ ] Sticky Situation  [ ] Bot Buddy
+[ ] DOOM II: Just Getting Started  [ ] Boomtastic
+[ ] DOOM II: An Important Looking Door  [ ] Turncoat
+[ ] That was Close!  [ ] Ripped!  [ ] Cookie Stealer
+[ ] You're Not My Boss!  [ ] Big Boy  [ ] DOOMed Recruit
+[ ] Ready for Action!  [ ] To Be or Not to Be  [ ] Gimme Time!
+[ ] DOOMed Marine  [ ] You Laugh, It Works  [ ] Soulfood
+[ ] DOOM: Episode 1  [ ] DOOM: Burning Out of Control
+[ ] Unarmed Badass  [ ] Speed Run  [ ] DOOM II: Burning Out of Control
+[ ] Gimme Power!  [ ] Shocking!  [ ] Lost Recruit  [ ] All of Us
+[ ] Evil Recruit  [ ] Eat This!  [ ] Killing time
+[ ] DOOM II: A Really Big Gun  [ ] Lost Marine  [ ] Evil Marine
+[ ] DOOM: Episode 2  [ ] Lost Collector  [ ] Goody Finder
+[ ] Play Catch  [ ] DOOMed Veteran  [ ] DOOM: Episode 3
+[ ] DOOM: Nightmare  [ ] Double the Fun!  [ ] Not a Scratch
+[ ] Too Slow, Fool!  [ ] Lost Veteran  [ ] DOOM: Episode 4
+[ ] Evil Veteran  [ ] Evil Collector  [ ] DOOM II: From Earth to Hell
+[ ] DOOM II: And Back Again  [ ] RAGE  [ ] I Like to Watch
+[ ] Fists of Fury  [ ] DOOM: Rampage  [ ] DOOM II: Superior Firepower
+[ ] Clean Sheet  [ ] Berserked!  [ ] DOOMed Nightmare
+[ ] DOOMed Collector  [ ] Lost Nightmare  [ ] Crushed!
+[ ] Evil Nightmare  [ ] Telefragged!  [ ] Ninja Killer
+[ ] 2 Deaths - 1 Gun
+
+CONTROLE FINAL
+
+[ ] Les PDAs, videos, casiers et secrets des trois campagnes sont coches.
+[ ] Les campagnes classiques et leurs difficultes sont terminees.
+[ ] Le multiplayer est valide avec un ami.
+[ ] Les 65 succes Steam sont debloques.
+
+SOURCES DE CONTROLE
+
+- Succes officiels Steam : https://steamcommunity.com/stats/DOOM3BFGEdition/achievements/
+- Fiche Steam : https://store.steampowered.com/app/208200/DOOM_3_BFG_Edition/
+- Manuel PC : https://assets.ctfassets.net/rporu91m20dc/2QQO4Ogi4oKquUeSuUMEUa/05cfbdab5d88ab3b08d3d0def8d3c61f/manual_doom3bfg_pc_en-us.pdf
+- Guides Steam DOOM 3 BFG : https://steamcommunity.com/app/208200/guides/
