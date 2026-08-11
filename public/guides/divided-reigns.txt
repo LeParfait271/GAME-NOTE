@@ -1,175 +1,585 @@
 DIVIDED REIGNS
-GUIDE CHRONOLOGIQUE 100 % STEAM - SANS SPOILER
+GUIDE CHRONOLOGIQUE 100 % STEAM — 40 SUCCÈS — SANS SPOILER NARRATIF
 
-Version de travail : 10 aout 2026
+Version du guide : 11 août 2026
+Périmètre : campagne complète, toutes les zones, coffres importants, enquêtes, chasses, villes libérées, Choicemaker’s Tomb et 40 succès Steam.
 
-Le jeu compte 40 succes Steam. La route principale ci-dessous est basee sur
-une partie en Hard, puis deux replays rapides pour les difficultes et les deux
-reponses de l'enquete de Kairon. Les noms de lieux, de monstres et de succes
-sont utilises comme reperes de navigation ; aucun evenement de l'histoire n'est
-explique.
+Les noms de lieux, de monstres et d’objets servent uniquement de repères de navigation. Aucun événement de l’histoire n’est raconté.
 
-MISSABLES ET SAUVEGARDES
+PLAN DE COMPLETION RECOMMANDÉ
 
-- Avant l'enquete du livre vole a Kairon, fais deux sauvegardes. Les succes
-  Morals Over Truth et Truth Over Morals demandent deux resolutions differentes.
-- Au Great Wall, aide les Abeyans pour The Honorable Thing avant de continuer.
-- Dans les villes liberees, parle au chef local et visite les batiments apres
-  chaque victoire ; Liberation compte 9 villes.
-- Avant les bounties finales, sauvegarde. Tiamat est une rencontre unique et
-  peut etre ferocious ; recharge si le combat n'est pas stable.
-- Les compteurs d'ennemis et les niveaux d'attaques sont cumulatifs. Utilise les
-  combats ordinaires au lieu de fuir tout le temps.
+Le jeu demande quatre victoires de difficulté pour une validation garantie. Pour éviter une condition mal comptabilisée, fais une partie dédiée par difficulté : Easy, Regular, Hard puis Very Hard. Les succès de combats, de compétences, de chasses et d’exploration sont cumulatifs dans une sauvegarde ; garde ta partie Hard comme sauvegarde principale.
 
-DEBUT ET PROLOGUE
+Ordre sûr :
 
-1. Termine le tutoriel, sauve Helos et forme le groupe : No burned village? et
-   It's dangerous to go alone.
-2. Dans les premieres grottes, equipe une arme de chaque type. Monte les
-   familles d'attaques (Low, High, Side, Reach, Thrust, Trip, Ranged, Martial
-   Arts) en variant les membres.
-3. Passe le test des Spartiates, puis bats Polyphemus et les Gorgons.
-4. Termine la route jusqu'au Minotaur Lord. Vise le niveau conseille du guide
-   de zone avant les combats de boss en Hard.
+1. Partie Hard : faire toute l’exploration, les quêtes, les 9 libérations, les 18 chasses et Choicemaker’s Tomb.
+2. Partie Easy : terminer rapidement la campagne, sans perdre de temps sur les chasses déjà validées.
+3. Partie Regular : terminer la campagne.
+4. Partie Very Hard : terminer la campagne avec l’équipement et les réflexes appris.
 
-ACTE 1 - EXILED
+Ne supprime jamais la sauvegarde Hard avant de vérifier les 40 succès dans Steam.
 
-1. Mount Elban : vide les coffres, recupere les capes et les accessoires de
-   resistance, puis bats Roc.
-2. Zeben : achete les soins, le Poison Bangle et les armes de la Combat School.
-3. Suis la route jusqu'au Vooresh Controlled Shipyard : So Green.
-4. Aldair Cave et Abeyan Camp : parle aux Abeyans, prends la quete de secours
-   et conserve les objets de camp.
-5. Great Wall -> Northern Fort : detruis les soldats, recupere la cle de prison
-   et libere Kain : The Honorable Thing.
-6. Reviens a Abeyan Camp, puis passe le Kairon Checkpoint. Vends les objets
-   inutiles avant la suite et garde une reserve de Talents.
+RÈGLES DE SAUVEGARDE ET MISSABLES
 
-ACTE 2 - THE ROAD TO PEACE
+□ Désactiver l’AutoSave avant l’enquête du livre volé à Kairon : les deux résultats demandent deux sauvegardes différentes.
+□ Faire une sauvegarde avant chaque départ de ville, chaque boss de chasse et chaque séquence de libération.
+□ Au Great Wall, aider les Abeyans avant de continuer afin de sécuriser The Honorable Thing et la route de libération.
+□ La tour ouest de Vooresh est visitable une seule fois pendant l’évasion : prendre ses coffres avant de sortir.
+□ La quête des coffres de Poe devient disponible après l’airship. La terminer avant la sortie de l’acte 5.
+□ Tiamat est une chasse à apparition ponctuelle : sauvegarder avant de la chercher et recharger si le combat devient Ferocious sans préparation.
+□ Dans les temples, les coffres derrière les leviers et les passages à sens unique doivent être pris avant la sortie.
+□ Les compteurs de monstres et d’attaques sont cumulatifs : ne fuis pas tous les combats pendant la partie Hard.
+□ Les 8 familles d’attaques atteignent le niveau maître après l’utilisation répétée des techniques ; utilise chaque nouvelle attaque immédiatement.
 
-1. Aldair : enquete du Lester Mansion et quetes de l'eglise. Termine les
-   coffres et la Combat School avant le depart.
-2. Kaifek / Vooresh : explore les chemins secondaires et accepte les premieres
-   bounties. Apprends Vitriolic Cascade des que le jeu le permet.
-3. Kairon : finis les evenements et les bounties accessibles, mais sauvegarde
-   avant l'enquete du livre.
-4. Enquete :
-   - sauvegarde A : choisis les reponses qui resolvent partiellement le vol et
-     epargnent une vie : Morals Over Truth ;
-   - recharge B : choisis toutes les preuves correctement : Truth Over Morals.
-5. Complete les dix bounties de la region quand ton niveau le permet et bats
-   les monstres de chaque tableau.
+MÉCANIQUE DE COMBAT — À UTILISER DÈS LE PROLOGUE
 
-ACTE 3 - THE FIRE TEMPLE
+□ Les familles sont Thrust, High, Side, Low, Trip, Reach, Ranged et Martial Arts.
+□ Chaque famille possède ses propres niveaux d’expérience : alterner les types est plus rapide que spécialiser un seul personnage.
+□ Les scanners de l’équipe servent à révéler les faiblesses. Celeste, Habar, Niomi, Masret et Ralts sont donc à conserver dans la rotation.
+□ Exploiter une faiblesse fait gagner du temps et évite de gaspiller les objets de soin.
+□ Les ennemis Ferocious ont davantage de points de vie et de vitesse : si un combat optionnel est trop dur, noter sa zone et revenir avec l’airship.
+□ Une attaque maître remplace la famille correspondante après environ 175 utilisations : les compteurs d’attaque avancent même sur des combats ordinaires.
+□ Les armes élémentaires et les bagues de résistance doivent être gardées, même si leur valeur de vente semble intéressante.
 
-1. Suis les deux groupes jusqu'au Fire Temple. Verifie les interrupteurs, les
-   coffres et les coins lateraux avant chaque salle de lave.
-2. Garde les objets de resistance au feu et les soins de zone.
-3. Termine les deux chemins sans separer l'equipe active : Never Split the
-   Party! tombe avec la recompense Flame Claw.
-4. Apres la sortie, reviens a Kaifek, equipe les nouvelles attaques et avance
-   les compteurs de kills.
+PROLOGUE — CAMP D’AILFRED ET THALDEN
 
-ACTE 4 - THE SEA CONNECTS ALL
+Camp d’Ailfred
 
-1. Obtiens le bateau et visite les trois zones cachees accessibles par mer :
-   Dark Cave, Northernmost Point et Kairon Lookout. Cela donne The High Seas.
-2. Trouve l'ile secrete de Wiggle Man : Wiggle Wiggle.
-3. Explore les bounties maritimes, le Dead Circle et les chemins de Schism,
-   mais reporte les combats niveau 85+ jusqu'a l'equipement final.
-4. Termine le siege et obtiens l'airship : Unbound by Gravity.
+□ Prendre la Tente dans la caisse.
+□ Ouvrir les deux caisses de trousses de premiers secours.
+□ Prendre l’Herbe de dissipation et le Stimulant dans la tente de commandement.
+□ Prendre le Casque simple dans la tente de commandement.
+□ Réprimander le soldat en civil, puis parler aux soldats pour connaître les premières faiblesses.
+□ Utiliser Thrust contre les Tundra Orcs et éviter Piercing quand la résistance est indiquée.
+□ Faire au moins une utilisation de Thrust, Side, Low, Reach, Ranged, High, Trip et Martial Arts avant la sortie du prologue.
 
-ACTE 5 - THE BATTLE FOR SCHISM
+Thalden
 
-1. Vooresh : utilise le Herald Sigil Ring pour entrer dans les egouts et la
-   base. Ouvre tous les passages secrets de la base Herald.
-2. Rends-toi a Virion's Citadel, explore Rygor's Wing et Chessere's Wing, puis
-   termine les rencontres de l'acte.
-3. Avant la bataille finale, fais les bounties de Vooresh, Hess-erabi et
-   Kairon disponibles a ton niveau.
+□ Prendre Trousse de premiers secours, Stimulant et Fronde simple dans l’école de combat.
+□ Fouiller les jarres : 85 Talents dans l’auberge et les objets de soin autour des bâtiments.
+□ Parler à l’Abeyan sous la tente et récupérer l’Herbe de dissipation.
+□ Acheter la carte du monde Schism pour 50 Talents.
+□ Apprendre Sling et Greataxe à l’école de combat pour 100 Talents chacun.
+□ Entrer à l’échoppe d’objets pour déclencher le ravitaillement : 5 trousses, 2 stimulants, 2 herbes et une tente.
+□ Vendre les butins ordinaires, mais garder les objets signalés par les quêtes secondaires.
+□ Lire le Journal d’Ailfred.
 
-ACTE 6 - A FISSURE IN REALITY
+Grotte de Thalden
 
-1. Termine le passage de Unity et les combats forces : Definitely not Kansas!.
-2. Apprends les sorts et talents nouveaux, puis utilise les portails pour
-   revenir en ville et acheter les protections de statut.
-3. Ouvre la Floating Citadel, recupere l'airship et active la fin de l'acte.
+□ Niveau 1 : Stimulants, Lance simple, Arbalète simple, Herbes de dissipation, Circlet simple, trousses, Crampons simples, Casquette simple et Gants de chimiste.
+□ Niveau 2 : Bouclier simple, trousses, stimulants, Herbe de dissipation, Tente et Plastron simple.
+□ Écouter le soldat et utiliser Side lorsque High est signalé inefficace.
+□ Atteindre le niveau 2 et faire une sauvegarde au cercle magique.
+□ Le premier Boss Challenge est scénarisé : conserver les objets plutôt que gaspiller les soins.
+□ Dans la salle secrète, prendre Grande hache simple, Arbalète simple et Bouclier tour simple.
+□ Bats Sodiodon en exploitant Side et les attaques physiques adaptées.
+□ The Cockroach se débloque à la fin de la séquence.
+□ Revenir au camp si nécessaire, puis poursuivre vers Vooresh.
 
-ACTE 7 - EXTERMINATION
+ACTE 1 — EXILED
 
-1. Avant de lancer la derniere bataille, libere les 9 villes occupees : Vooresh,
-   Kairon, Hess-erabi, Kaifek, Zeben, Aldair, Abel, Rus et Sadak-Reel.
-2. Chaque liberation : bats le groupe de la ville, visite le lieu de victoire,
-   parle au responsable et verifie le drapeau sur la carte.
-3. Termine les derniers combats optionnels et le bounty Tiamat. Pour Tiamat,
-   utilise tes meilleures attaques Trip, dispel son Reflect et sauvegarde juste
-   avant l'atterrissage.
-4. Fusionne les Schism Ore et les armes elementaires a Cecil's Forge.
-5. Parle a King Ferrin, termine Hess-erabi Castle puis la fin principale.
+Vooresh
 
-NETTOYAGE POST-GAME
+□ Ville : Trousse, Éther, Herbe de dissipation, 94 Talents, Stimulant et les jarres de l’école de combat.
+□ Château : caisse de Trousse, Stimulants, Épaulières simples, Éther, Potion de soin, Brigandine simple, Bottes blindées simples, Épée simple et Potion de rage.
+□ Jouer du piano au pub, puis dans le château lorsque l’accès est ouvert.
+□ Apprendre Whip et Staves à l’école de combat.
+□ Acheter les Cowls de mage simples et les Bottes de vitesse simples avant la suite.
+□ Prendre les coffres de la tour ouest pendant l’évasion : Stimulant, Herbe de dissipation, Fouet simple et Platemail simple.
+□ Dans le donjon, recruter Habar et Niomi.
+□ Sortir par la porte nord et ne pas revenir en arrière après la disparition de la zone.
 
-1. Moloke / Unity : parle a la bibliothecaire, suis-la a sa maison et recupere
-   le Dwarven Translator.
-2. Schism : entre dans Choicemaker's Tomb, decode les hieroglyphes et termine
-   les neuf salles du donjon bonus : The Choicemaker.
-3. Termine les bounties restantes et atteins les niveaux utiles pour les
-   ennemis rares.
-4. Si un compteur de kills manque, farme la Floating Citadel, puis le Tomb.
-5. Les attaques de chaque famille doivent etre au maximum pour les succes
-   Master ... Attacks. Utilise les ennemis resistants comme sacs de frappe et
-   sauvegarde avant d'apprendre une nouvelle capacite.
+Chasses de Vooresh — première série
 
-SUCCES DE COMBAT ET COMPTEURS
+□ Orc War Band — au sud de Thalden ; priorité au soigneur du groupe ; récompense : 10 Tentes.
+□ Juvenile Roc — sud-est de Vooresh ; utiliser Ranged ou Reach ; récompense : Fine Crossbow et Major Elixir.
+□ Undying Shoggoth — dernier indice à l’est de Zeben, près de l’atelier de Cecil ; récompense : 2 Potions of Life.
+□ Frost Giant — île au sud de Rus, bateau nécessaire ; protection contre Ice ; récompense : Frost Battleaxe.
+□ Desecrator — île en forme de point d’interrogation à l’ouest de Zeben, airship nécessaire ; attention à Neurotoxin ; récompense : 5000 Talents et Desecrator’s Eye.
+□ Grich Morgot — au sud de Vooresh ; faible à Ranged et Martial Arts ; récompense : Mega Elixir et Destruction Orb.
+□ Les 6 contrats terminés débloquent Vooresh Monster Hunter.
 
-[ ] Battling Novice - 250 ennemis.
-[ ] Battling Student - 1 000 ennemis.
-[ ] Battling Apprentice - 2 000 ennemis.
-[ ] Battling Expert - 3 000 ennemis.
-[ ] Battling Master - 5 000 ennemis.
-[ ] Master Thrust Attacks.
-[ ] Master Ranged Attacks.
-[ ] Master High Attacks.
-[ ] Master Side Attacks.
-[ ] Master Reach Attacks.
-[ ] Master Martial Arts Attacks.
-[ ] Master Low Attacks.
-[ ] Master Trip Attacks.
-[ ] Unlimited Power! - apprendre Vitriolic Cascade.
+Vooresh Controlled Shipyard
 
-SUCCES DE ROUTE ET D'EXPLORATION
+□ Sur le pont : 37 Talents, Cowl de mage simple, Ground Bangle et Bracelets d’escrimeur simples.
+□ Sous le pont : prendre la clé puis entrer dans la cabine du capitaine.
+□ Docks : Éther, Bracelets simples, Épaulières simples, Potion de rage, 319 Talents, Bottes d’évasion simples et Fine Sword.
+□ Exploiter Side contre le Ship Captain avant son changement de forme, puis Martial Arts lorsque la faiblesse évolue.
+□ So Green! se débloque en atteignant le royaume correspondant.
 
-[ ] The Cockroach.
-[ ] So Green!.
-[ ] The Honorable Thing.
-[ ] Blue Freedom.
-[ ] Unbound by Gravity.
-[ ] Definitely not Kansas!.
-[ ] Never Split the Party!.
-[ ] Wiggle Wiggle.
-[ ] The High Seas.
-[ ] Liberation - 9 villes.
-[ ] Poe Boy, Not Poe Any Moe, Poe's Got Some Dough.
-[ ] Vooresh Monster Hunter.
-[ ] Kairon Monster Hunter.
-[ ] Hess-erabi Monster Hunter.
-[ ] Dragonslayer - Tiamat.
-[ ] The Choicemaker - Choicemaker Tomb.
+Northern Fort et Great Wall
 
-DIFFICULTES
+□ Aldair Cave au nord-ouest du chantier : Éther, Tunique simple, Fine Bow et Aggro Bracelet.
+□ Camp Abeyan : Fine Robe, Tente et Fire Bangle.
+□ Parler à l’Abeyan de la tente est avant d’entrer dans le Great Wall.
+□ Aider les Abeyans : c’est la seule fenêtre sûre pour cette branche.
+□ Northern Fort extérieur : Fine Shirt, Fine Hat, Fine Shield et Éther dans le puits.
+□ Casernes : Tente, 648 Talents, Fine Sling, Bottes d’attaque simples et Kama enchanté.
+□ Prison : Potion of Life.
+□ Après la première bataille, fouiller le fort puis résister aux deux vagues de soldats, marins et vétérans.
+□ Trouver la Northern Base Prison Key.
+□ Entrer dans la prison pour sauver Kain : The Honorable Thing.
+□ Retourner au camp Abeyan et parler à la famille réunie pour Ground Bangle et Cape d’évasion simple.
 
-[ ] Extermination Made Easy - Easy.
-[ ] Extermination by Force - Regular.
-[ ] Extermination the Hard Way - Hard.
-[ ] Extermination the Insane Way - Very Hard.
+ACTE 2 — THE ROAD TO PEACE
 
-Fais la partie principale en Hard, puis utilise New Game+ ou des parties
-courtes pour Easy, Regular et Very Hard. Les options de difficulte ne doivent
-pas etre changees au milieu d'une partie comptabilisee.
+Aldair
 
-VERIFICATION
+□ Ville : Fouiller les barils, jarres et l’école de combat avant l’enquête.
+□ Jouer du piano de l’auberge et parler à la nonne pour obtenir la clé de l’église.
+□ Apprendre Throwing Axes et Bows à l’école Abeyan.
+□ Acheter Poison Bangle si tu n’as pas de protection contre Poison.
+□ Ne pas quitter la ville avant d’avoir commencé l’enquête du Lester Mansion.
 
-Steam doit afficher 40/40 : 8 familles d'attaques au maximum, 5 paliers de
-kills, 9 villes, 18 bounties de region, Tiamat, Choicemaker Tomb et les quatre
-difficultes. Divided Reigns n'a pas de DLC de succes ni de contenu online
-necessaire.
+Église d’Aldair — infestation de rats
+
+□ Commencer par l’escalier sud-ouest, vaincre les rats et marcher sur le bouton.
+□ Prendre l’escalier sud-est et appuyer sur le bouton.
+□ Prendre l’escalier nord, vaincre les rats et appuyer sur le bouton.
+□ Reprendre le sud-ouest, récupérer Simple Evasion Boots et appuyer sur le bouton.
+□ Reprendre le sud-est et appuyer sur le bouton.
+□ Sud-ouest : prendre Minor Elixir, tirer le levier puis appuyer sur le bouton.
+□ Sud-est : vaincre les rats et appuyer sur le bouton.
+□ Sud-ouest : prendre Fine Shirt et appuyer sur le bouton.
+□ Sud-est : appuyer sur le bouton, ignorer le levier.
+□ Nord : appuyer sur le bouton.
+□ Sud-ouest : vaincre les derniers rats et prendre Fine Strength Belt.
+□ Parler à la nonne pour Fine Boots of Health et Major Elixir.
+□ La crypte devient inaccessible ensuite : terminer tout le nettoyage avant de sortir.
+
+Lester Mansion
+
+□ Jouer du piano et fouiller les pièces avant de parler au connétable.
+□ Vérifier la fenêtre de gauche à l’étage et tous les coffres.
+□ Dans la chambre est, ouvrir les placards et inspecter l’horloge sans quitter la maison.
+□ Dans la chambre ouest, trouver le compartiment caché.
+□ Parler au connétable pour recevoir 100 Talents et doubler la récompense de Xen.
+□ Faire une sauvegarde séparée avant le combat des mercenaires.
+
+Bois de Wilton et Earth Temple
+
+□ Wilton Woods : Fine Staff, Minor Elixir, Whump Stone, Bottes d’attaque simples, Fine Brigandine, Potion, 422 Talents, Ferocious Lure, Fine Breastplate, Disengage Bracelet et Bracelets de moine simples.
+□ Au premier cul-de-sac, récupérer Auto First Aid.
+□ Au second panneau, inspecter le cul-de-sac avant de poursuivre.
+□ Earth Temple, source : Sonic Bangle et Nullmagic Mantle simple.
+□ Carte principale : Minor Elixir, trousses, Fine Hat, Potions, Fine Whip, Stimulant.
+□ Salle nord-est : Fine Great Axe, Éther, Fine Sling, Fine Scale Mail et Fine Greaves.
+□ Salle sud-est : Fine Focus Crystal, Stimulant, Éther, Fine Throwing Axe et Fine Robes.
+□ Salle sud-ouest : Potion, Fine Crampons, Potion de rage, Herbe, Fine Speed Boots, Tente et Éther.
+□ Salle nord-ouest : Simple Augment Sigil, Stimulants et trousses.
+□ Désactiver les pièges avec Shakar avant de marcher sur les dalles.
+□ Carte 1 : désactiver 4 pièges. Carte 2 : 5. Carte 3 : 1.
+□ Sur la carte 2, ignorer les grands escaliers et prendre Potent Ether, Masterwork Rod et Masterwork Hat.
+□ Tente après la fresque, mettre Niomi en réserve, puis combattre Rust Beast Queen.
+□ Sortir par l’ouest et rejoindre le bateau.
+
+Abel, Kairon et l’enquête du livre volé
+
+□ Abel : récupérer la récompense des Crocodile Teeth au quai, puis Lesser Sonic Gem auprès du PNJ.
+□ Parler au Prefect Trellic pour Masterwork Mage Cowl.
+□ Kairon : Major Elixir, Masterwork Breastplate, Masterwork Crossbow, Potent Ether, Pointy Hat, Healing Potion, 238 Talents, Stimulant et Tente.
+□ Apprendre Kama, Flails et Rapiers à l’école de combat.
+□ Prendre Simple Mage Ring près de la bijouterie et visiter le camp Abeyan.
+□ Faire une sauvegarde A et une sauvegarde B, puis désactiver AutoSave.
+
+Enquête — méthode sans spoiler
+
+□ Dana, la femme de ménage : inspecter d’abord le sol, puis poser les questions de haut en bas.
+□ Matt, le musicien : fouiller les lits et la maison avant les questions ; ne pas parler du livre au père avant la fin.
+□ Margaret, l’Abeyan : poser sa dernière question en dernier.
+□ Sauvegarde A : choisir la résolution partiellement correcte qui épargne une vie pour Morals Over Truth.
+□ Sauvegarde B : sélectionner toutes les preuves correctes pour Truth Over Morals.
+□ Le jeu peut afficher les récompenses de l’enquête avec une formulation différente selon les réponses : garder les deux succès Steam comme référence.
+□ Après le résultat choisi, rendre le livre au prêtre pour les Éthers et aider l’orphelin Abeyan avec les Talents si tu veux la récompense annexe.
+□ Revenir à la sauvegarde opposée et valider le deuxième succès.
+
+ACTE 3 — THE ENCOUNTER WITHIN / FIRE TEMPLE
+
+Kaifek et Kaifek Pit
+
+□ Ville : Masterwork Whip, 384 Talents, Shakar’s Note 2, Lesser Water Gem et les accessoires de la boutique.
+□ École de combat : Staff, Whips et Bows.
+□ Dans le Pit, suivre Shakar’s Note 2 pour Fine Monk Bracers, Guisarme et Genji Gloves.
+□ Depuis le hub, partir à droite pour rencontrer Wiggle Wiggle Man.
+□ Accepter la quête du champignon : remettre le Fungus à l’orphelinat dans les 3 minutes après l’obtention.
+□ Sud du hub : vaincre les Changelings et sauvegarder avant le combat.
+□ Revenir au hub, suivre Shakar’s Note 1, prendre 752 Talents et Exploding Fungus.
+□ Courir vers l’orphelinat sans perdre de temps dans les combats ; obtenir Memento Necklace.
+□ Revenir à Kaifek, parler à Ailfred et récupérer la suite de la note.
+□ Suivre Shakar’s Note 3 pour Potent Rage Potion, Red Disenchantment Sphere, Fine Nullmagic Mantle, Blue Disenchantment Sphere, Potent Healing Potion, Masterwork Tunic et le coffre derrière le piège de glace.
+□ Atteindre la sortie du Pit et sauvegarder.
+
+Montagnes Eras-Bashi et Sadak-Reel
+
+□ Eras-Bashi : atteindre la carte 4 nord et parler au moine ; Gall rejoint ensuite l’équipe.
+□ Sadak-Reel : apprendre les armes, acheter des soins et parler à l’enfant pour Shakar’s Note 2 si ce n’est pas fait.
+□ Obtenir la Lesser Water Gem et les accessoires de la boutique.
+□ Jouer du piano puis entrer dans l’auberge pour ouvrir la route du Sandstorm Temple.
+
+Sandstorm Temple
+
+□ Extérieur : Fine Crampons, Minor Elixir, Masterwork Claw, 2 Healing Potions, Fine Regen Ring, Masterwork Staff, Fine Fencer’s Bracers, Masterwork Great Axe, Masterwork Hat, Masterwork Whip, Fine Boots of Health, Fine Circlet, Masterwork Kama, Wind Bangle et Minor Elixir.
+□ Grotte 1 : Masterwork Glove et Masterwork Pointy Hat.
+□ Grotte 2 : Potent Ether.
+□ Faire les embranchements latéraux avant l’œil de la tempête.
+□ Depuis le coffre de Fine Regen Ring, le nord-est est bloqué par le vent ; aller au nord-ouest puis au sud-est.
+□ Le passage caché à l’est du coffre de Masterwork Hat contient les derniers objets de la zone.
+□ Prendre la Tente dans la petite grotte avant Sand Wyvern.
+□ Contre Sand Wyvern, tuer le Sand Kite en premier.
+□ Sortir au nord-est après l’apaisement de la tempête.
+
+ACTE 4 — THE SEA CONNECTS ALL
+
+Bateau et trois zones cachées
+
+□ Obtenir le Sailing Ship : Blue Freedom.
+□ Visiter Dark Cave par la mer.
+□ Visiter Northernmost Point par la mer.
+□ Visiter Kairon Lookout par la mer.
+□ Les trois lieux visités débloquent The High Seas.
+□ Entre Kairon et Hess-erabi, trouver l’île de Wiggle-Wiggle Man : Wiggle Wiggle.
+□ Sur l’île, parler au personnage et terminer les objectifs du champignon et des notes si la quête n’est pas terminée.
+
+Villes et bateau
+
+□ Revisiter les magasins avec Niomi dans l’équipe fixe de l’acte.
+□ Apprendre Staff, Whips, Slings et Crossbows selon les personnages.
+□ Acheter des Regen Rings pour les combats longs.
+□ Aldair : parler aux membres de la TFU puis dormir à l’auberge pour poursuivre.
+□ Wilton Woods : inspecter le tronc indiqué et rejoindre Herald’s Hideout.
+
+Herald’s Hideout
+
+□ Carte 1 : Potent Rage Potion, Stimulant, Masterwork Brigandine et Masterwork Monk Bracers.
+□ Carte 2 : Masterwork Pauldrons, Masterwork Fencer’s Bracers et Stimulant.
+□ Carte 3 : Net Gun.
+□ Carte 4 : Healing Potions et Masterwork Bracers.
+□ Carte 5 : Potent Ether, Masterwork Strength Belt, Potent Healing Potion et Masterwork Crampons.
+□ Zone d’interrogatoire : Minor Elixir, Wrist Crossbow et Potent Rage Potion.
+□ Lire les notes C47, H13 et D29 ; trouver le lit de J19.
+□ Dans la séquence furtive de la carte 3, ne toucher à aucun objet.
+□ En cas d’erreur, recharger la sauvegarde avant la séquence : le combat des quatre Heralds est beaucoup plus difficile.
+□ Battre Heralds Investigator en éliminant rapidement les autres Heralds, puis utiliser Trip sur le boss.
+□ Ralts rejoint l’équipe au niveau 40.
+□ Enseigner de nouvelles armes à Ralts à Aldair avant de repartir.
+□ Lineage se débloque après cette séquence, lorsque la véritable filiation d’Ailfred est révélée par le jeu.
+
+ACTE 5 — THE BATTLE FOR SCHISM
+
+Gouleg Volcano
+
+□ Dans Kaifek Pit, suivre Elmyra’s Note (Volcano) et prendre Major Elixir, 682 Talents, Potent Healing Potion et Fire Bangle.
+□ Gouleg A : Herbe de dissipation, Phoenix Down, Major Elixir, Masterwork Circlet, Fire Bangle et Masterwork Regen Ring.
+□ Gouleg B : Minor Elixir, 2 Potent Ethers, Jaguar Pelt, Masterwork Monk Bracers, Potent Rage Potion, Ferocious Lure, Perfect Rage Potion, Tente, Potent Healing Potion, Ruby et Magic Evasion Pendant.
+□ Salle de tente : Potent Healing Potion et Masterwork Tunic.
+□ Sauter sur les pierres de lave aux endroits prévus et poser une Tente dans les alcôves.
+□ Conserver Niomi équipée du Memento Necklace si tu utilises ses sorts de dégâts.
+□ Terminer la séquence devant le temple et préparer deux soigneurs.
+
+Vooresh Sewers et Major Herald Base
+
+□ À Vooresh, entrer dans la maison ouest et utiliser Herald’s Sigil Ring sur la cheminée.
+□ Égouts : Chitin Claw, Death Seal, Major Elixir, Ferocious Lure et Potent Rage Potion.
+□ Castle Moat : Hartedge Greatsword.
+□ Base Herald carte 1 : Potent Healing Potion et Perfect Healing Potion.
+□ Carte 2 : Potent Ether, Poison Barbs, Minor Elixir et Ring of Aggression par le passage secret.
+□ Carte 3 : Perfect Ether et Potent Rage Potion.
+□ Carte 4 : Stun Bangle.
+□ Carte 5 : Mega Elixir par le passage secret.
+□ Lire les livres des cartes 3 et 4 et inspecter tous les passages.
+□ Avant la salle sud et Wind Dagger, vérifier le passage caché.
+□ Battre General Syleen avec Niomi en utilisant ses sorts les plus puissants.
+
+Poe’s Chest Quest — à faire avant le Temple de foudre
+
+□ Obtenir l’airship et voler jusqu’à la petite île près de Kairon.
+□ Série Low Point, ticket 1 : tente Abeyan inférieure de Kairon.
+□ Ticket 2 : près du pêcheur à Abel.
+□ Ticket 3 : hub du Kaifek Pit.
+□ Ticket 4 : rez-de-chaussée de Magic Tower.
+□ Ticket 5 : entrée est de Mount Elban.
+□ Récompense : Perfect Healing Potion, Perfect Ether, Genji Gloves et Poe Boy.
+□ Série Meetings, ticket 1 : près de l’item shop à Vooresh.
+□ Ticket 2 : derrière l’église d’Aldair.
+□ Ticket 3 : camp de la carte 4 nord d’Eras-Bashi Mountain.
+□ Ticket 4 : Kaifek Pit, zone Through / Rebellion Camp.
+□ Ticket 5 : salle du trône du château de Vooresh après le repas avec le roi.
+□ Récompense : Major Elixir, Perfect Rage Potion, Sonic Gem et Not Poe Any Moe.
+□ Série Off the Beaten Path, ticket 1 : Kairon Lookout.
+□ Ticket 2 : île de Wiggle-Wiggle.
+□ Ticket 3 : Northern Fort.
+□ Ticket 4 : Aldair Cave 2.
+□ Ticket 5 : Choicemaker’s Tomb.
+□ Récompense : Mega Elixir, Infinity Sword et Poe’s Got Some Dough.
+
+Over the Clouds et Lightning Temple
+
+□ Îles flottantes : Healing Breeze Potion, Potion of Life dans le temple effondré et Major Elixir.
+□ Attention aux Volatile Drifters : ils explosent.
+□ Suivre les nuages qui s’assombrissent pour trouver le temple.
+□ Dans le Lightning Temple, fouiller les salles latérales avant chaque ascenseur.
+□ Utiliser les résistances à Lightning, les soins de groupe et les bagues de Regen.
+□ Terminer l’acte et conserver la sauvegarde avant l’entrée dans Unity.
+
+ACTE 6 — A FISSURE IN REALITY
+
+Unity et Crystal Mines
+
+□ Explorer le portail de Unity et atteindre l’objectif : Definitely not Kansas! se débloque à l’arrivée dans Unity.
+□ Revenir dans les villes par les portails pour acheter les protections de statut.
+□ Crystal Mines, entrée : récupérer les coffres et poser une Tente.
+□ Faire les salles d’énigmes dans l’ordre des leviers, sans laisser les cristaux derrière les barrières colorées.
+□ Les emplacements de Magic Shards de la Crystal Mine sont répartis entre l’entrée, la salle des énigmes et la deuxième partie de la mine.
+□ Deuxième Unity Tower : ouvrir les barrières bleue, verte et violette après avoir tiré les leviers correspondants.
+□ Virion’s Castle Bridge : prendre les coffres pendant l’attaque, avant que le pont ne se referme.
+
+Swamp
+
+□ Équiper Blessed Ribbons, Green Pendants ou Poison Bangles contre Poison.
+□ Récupérer Auto Healing Breeze, Potent Ethers, Green Gems, White Gems, herbes, stimulants, leurres, Magic Shards, Mythril Hat, Tente, Red Gem, Potions et Mythril Strength Belt.
+□ Tuer chaque Deathcap en un tour : ils régénèrent fortement à chaque cycle.
+□ Utiliser Fire, Lightning ou Flashbombs pour révéler les créatures de Bioloom.
+□ Éliminer les Squidlings avant le boss et conserver Gem of Severing pour le premier tour utile.
+
+Floating Citadel
+
+□ Fouiller les îles et les ponts avant de suivre l’objectif principal.
+□ Récupérer les Magic Shards et les équipements de protection de statut.
+□ Utiliser un scanner à chaque nouveau groupe afin d’enregistrer les faiblesses.
+□ Contre les ennemis qui changent de forme, refaire un scan après chaque changement.
+□ Préparer Death Seals pour les soigneurs avant le combat de Virion.
+□ Contre Virion, éliminer Life Orb et Heal Orb avant de prolonger le combat.
+□ Life Orb est vulnérable aux attaques Ranged ; Heal Orb aux attaques Thrust/Reach.
+□ Virion est vulnérable à High et Trip : dissiper ses buffs.
+□ Dans la phase suivante, utiliser High, Reach et Martial Arts selon la forme.
+□ Après la victoire, Niomi apprend Vitriolic Cascade : Unlimited Power! se débloque.
+□ Revenir à Moloke pour se soigner et se ravitailler avant l’acte final.
+
+ACTE 7 — EXTERMINATION
+
+Préparation
+
+□ Le jeu permet encore de revenir à Unity et d’achever les chasses restantes.
+□ Faire une sauvegarde avant chaque libération de ville.
+□ Ne pas parler à King Ferrin au château de Kairon avant d’avoir libéré les 9 villes et fini les chasses.
+□ Acheter des Death Seals, des protections contre Instant Faint, Neurotoxin, Petrify, Mind Control et les éléments.
+□ Mettre Ailfred en tank, Celeste en dégâts physiques, Niomi en dégâts magiques et Habar/Masret/Ralts en soin selon la ville.
+
+Les 9 villes à libérer
+
+□ Thalden — vaincre Lamia ; récupérer Magic Shard of Will et Mirror Shield ; obtenir Putrid Schism Ore.
+□ Vooresh — vaincre Unity Commander, 2 Glaivesmen et Unity Assassin ; éliminer les renforts avant le soin de zone ; obtenir Static Schism Ore.
+□ Zeben — vaincre Elite Sorcerer, Unity Assassin et Unity Glaivesman ; dissiper les buffs ; obtenir Frigid Schism Ore.
+□ Rus — vaincre Spirit Harvester ; protéger l’équipe contre Mind Control et le drain de MP ; obtenir Telepathic Schism Ore.
+□ Aldair — vaincre Unity Duelist, Herald Firestarter et Unity Soldier ; Martial Arts sur le dueliste, High/Side sur le Herald ; obtenir Wet Schism Ore.
+□ Abel — vaincre Hydra ; utiliser Side, Martial Arts, Water, Psychic, Poison ou Sonic ; obtenir Rocky Schism Ore.
+□ Kairon — vaincre Destruction Totem avant la fin du compte à rebours ; obtenir Lightweight Schism Ore.
+□ Sadak-Reel — vaincre Battle Master et Unity Alchemist ; passer de High à Low quand la faiblesse change ; obtenir Warm Schism Ore.
+□ Kaifek — vaincre Life Harvester ; utiliser Thrust/Reach et du Regen ; obtenir Echoing Schism Ore.
+□ Après les neuf victoires, Liberation se débloque.
+
+Forge de Cecil
+
+□ Putrid Ore + Bio Whip + Unity Bio Whip → Synchronous Bio Whip.
+□ Static Ore + Bolt Sword + Unity Bolt Sword → Synchronous Bolt Sword.
+□ Telepathic Ore + Physic Rod + Unity Physic Rod → Synchronous Physic Rod.
+□ Wet Ore + Hydro Rapier + Unity Hydro Rapier → Synchronous Hydro Rapier.
+□ Rocky Ore + Ground Staff + Unity Ground Staff → Synchronous Ground Staff.
+□ Lightweight Ore + Wind Dagger + Unity Wind Dagger → Synchronous Dagger.
+□ Warm Ore + Flame Claw + Unity Flame Claw → Synchronous Flame Claw.
+□ Echoing Ore + Caco Flail + Unity Caco Flail → Synchronous Caco Flail.
+□ Frigid Ore + Ice Spear + Unity Ice Spear → Synchronous Ice Spear.
+□ Conserver les fragments après chaque fusion : ils servent à vérifier que les 9 libérations ont été consommées.
+
+Hess-erabi Castle et fin principale
+
+□ Préparer un groupe avec dispel, résistance aux éléments, soins de groupe et résurrection.
+□ Contre Syleen, utiliser High et Trip, avec une protection contre les sorts de zone.
+□ La deuxième phase ne soigne pas automatiquement l’équipe : conserver les Potions of Life.
+□ Dissiper Reflect lorsque la protection apparaît.
+□ Obtenir Sophia’s Necklace après la séquence.
+□ Terminer le jeu sur la difficulté en cours et vérifier le succès correspondant.
+
+CHOICEMAKER’S TOMB — DONJON BONUS
+
+Accès
+
+□ Terminer l’accès post-game puis voler vers l’île/zone indiquée par le portail de Schism.
+□ Avant l’entrée, acheter des soins, des Potent Ethers, des Tentes et des protections contre les altérations.
+□ Faire une sauvegarde séparée avant le premier passage de pièges.
+□ Le donjon demande trois équipes : Team 1 autour d’Ailfred, Team 2 autour de Celeste, Team 3 autour de Ralts.
+□ Chaque équipe doit avoir un tank, un damage dealer et un soigneur ou un personnage équipé de Chemist Gloves et Auto Healing Breeze.
+□ Dans Key Items, préparer Team Swap avant de commencer.
+
+Ponts et pièges
+
+□ Tirer le premier levier avec l’équipe 1.
+□ Passer immédiatement à l’équipe 2 avant le couloir de pièges.
+□ Équipe 2 : Mythril Evasion Boots, Mythril Armored Boots, Mythril Speed Boots, Mythril Attacking Boots, Mythril Boots of Health, Mythril Buckler, Mythril Shield, Mythril Tower Shield, Mythril Strength Belt et Mythril Focus Crystal.
+□ Équipe 3 : Mythril Hat, Mythril Cap, Mythril Helm, Mythril Shirt, Mythril Robes, Mythril Breastplate, Mythril Scale Mail et Mythril Plate Mail.
+□ Éviter les pièges au retour : ils se réinitialisent.
+□ Ouvrir les portes en tirant les leviers dans l’ordre et noter la position de chaque équipe.
+□ Dans Deepest Cave, prendre Tente, Stimulant, Berserker’s Axe, Mega Elixir, Magic Shards, White Gems, Probing Great Axe, Potent Healing Potions, Finn’s Kama et les objets de soin.
+□ Tirer le levier du gouffre pour sauter et récupérer Lucille’s Robes.
+□ Avant Grand Mimic, distribuer les accessoires Regen et Auto Potion.
+□ Utiliser Inquest pour identifier la faiblesse High/Reach.
+□ Vaincre Grand Mimic et vérifier The Choicemaker.
+
+MAGIC SHARDS — GESTION SANS GÂCHIS
+
+Chaque personnage a une limite de 5 shards par statistique et 15 shards au total. Priorités conseillées :
+
+□ Body : personnages de première ligne.
+□ Spirit : Niomi, Habar, Masret, Ralts et Gall.
+□ Strength : Celeste, Gall et Ailfred.
+□ Magic : Niomi, Habar, Masret et Gall.
+□ Defense : Ailfred, Ralts et Orson.
+□ Will : Niomi, Habar et Masret.
+□ Speed : Shakar, Celeste et Habar.
+□ Ne pas dépenser un shard au hasard : noter personnage, statistique et zone dans la fiche de sauvegarde.
+
+CHASSES — TABLEAU COMPLET DES 18 CONTRATS
+
+Vooresh
+
+□ Orc War Band.
+□ Juvenile Roc.
+□ Undying Shoggoth.
+□ Frost Giant.
+□ Desecrator.
+□ Grich Morgot.
+□ Débloquer Vooresh Monster Hunter.
+
+Hess-erabi
+
+□ Giant — fermes près du château, environ niveau 25.
+□ Changeling — Winding Tunnels du Pit, environ niveau 30.
+□ Gassy Giant — au nord des Barrens, environ niveau 42 ; protection contre les altérations et dégâts High.
+□ Force/Chromatic Changelings — île à l’est de Hess-erabi, bateau ; leurs faiblesses changent.
+□ King Phoenix — Phoenix Island, airship ; protection contre Fire et dissipation de Tranquility.
+□ Ancient One — à l’ouest de Kaifek, environ niveau 90 ; protection contre Instant Faint et Stone, dissiper l’invisibilité.
+□ Débloquer Hess-erabi Monster Hunter.
+
+Kairon
+
+□ Giga Wump — lac à l’ouest d’Abel, environ niveau 25 ; Side/Instant Faint peuvent simplifier le combat.
+□ Rhyme & Reason — côté est de la chaîne montagneuse de Kairon, bateau ; dégâts physiques et Habar en soin.
+□ Nidhoggr — péninsule sud-ouest de Kairon, environ niveau 85-99 ; défense contre Earth et dégâts variés.
+□ Tiamat — vole au-dessus de Schism après les autres séries ; suivre son ombre jusqu’à un point d’atterrissage.
+□ Tiamat est vulnérable à Trip ; dissiper Reflect et éviter de lui laisser deux tours d’affilée.
+□ Après victoire, parler au roi de Kairon pour Excalibur et Dragonslayer.
+□ Débloquer Kairon Monster Hunter après les six contrats de Kairon.
+
+COMPÉTENCES ET SUCCÈS DE COMBAT
+
+Les niveaux 1 à 7 de chaque famille sont obtenus par utilisation. Les noms ci-dessous servent de repères pour confirmer que chaque arbre progresse.
+
+□ Thrust : Thrust Attack, Strong Thrust Attack, Lunge, Focus, Dual Thrust, World-Splitter, Master Thrust Attack.
+□ High : High Attack, Strong High Attack, Cranial Attack, Overhead Strike, High Stance, Heaven Strike, Master High Attack.
+□ Side : Side Attack, Strong Side Attack, Cleave, Aim for Vitals, Improved Cleave, Decapitating Swing, Master Side Attack.
+□ Low : Low Attack, Strong Low Attack, Thumble, Low Sweep, Double Swing, Reckless Abandon, Master Low Attack.
+□ Trip : Trip Attack, Strong Trip Attack, Strafing Blows, Opportunistic Strike, Rolling Tripwire, Vertigo Blast, Master Trip Attack.
+□ Ranged : Ranged Attack, Strong Ranged Attack, Aimed Shot, Spray & Pray, Blanket the Sky, Spray and Pray II, Master Ranged Attack.
+□ Reach : Reach Attack, Strong Reach Attack, Phalanx, Bring Down, Jump, Whirling Fury, Master Reach Attack.
+□ Martial Arts : Martial Arts Attack, Strong Martial Arts Attack, Eye Gouge, Suplex, Head Blow, Bum Rush, Master Martial Arts Attack.
+□ Utiliser chaque famille sur des groupes de monstres pendant la campagne Hard.
+□ Si une famille est en retard, farmer un groupe résistant et alterner les personnages.
+□ Master Thrust Attacks, Master High Attacks, Master Side Attacks, Master Low Attacks, Master Trip Attacks, Master Reach Attacks, Master Ranged Attacks et Master Martial Arts Attacks se débloquent quand l’arbre atteint son maximum.
+
+VITRIOLIC CASCADE
+
+□ Terminer l’acte 6 et le combat de Virion.
+□ Sortir de la citadelle et attendre l’apprentissage de la magie par Niomi.
+□ Vérifier le menu des sorts : Vitriolic Cascade est alors disponible.
+□ Unlimited Power! se débloque à l’apprentissage, pas au premier lancement.
+
+COMPTEURS DE VICTOIRES
+
+□ Battling Novice — 250 ennemis.
+□ Battling Student — 1000 ennemis.
+□ Battling Apprentice — 2000 ennemis.
+□ Battling Expert — 3000 ennemis.
+□ Battling Master — 5000 ennemis.
+□ Ne pas chercher à farmer ces compteurs avant le post-game : les villes, chasses et Choicemaker’s Tomb fournissent la majorité des combats.
+□ Pour le dernier palier, la Floating Citadel et Choicemaker’s Tomb sont les zones les plus rentables.
+
+NEW GAME PLUS ET DIFFICULTÉS
+
+□ Après les crédits, noter l’indice laissé par Celeste.
+□ Dans une nouvelle partie, parler cinq fois au soldat en civil du camp d’Ailfred, en entrant dans la tente du capitaine entre les dialogues.
+□ Répondre aux cinq indices : Niomi, Orange, le chiot de Sadak-Reel, Abel Wall et Masret.
+□ Le New Game+ peut fournir des objets supplémentaires et des Time Flux Shoes, mais ne pas en dépendre pour les quatre succès de difficulté.
+□ Partie 1 : Easy — terminer la campagne.
+□ Partie 2 : Regular — terminer la campagne.
+□ Partie 3 : Hard — campagne complète, chasses, libérations et donjon bonus.
+□ Partie 4 : Very Hard — terminer la campagne sans changer la difficulté en cours de route.
+□ Vérifier dans Steam chaque succès immédiatement après les crédits ; si une difficulté ne s’est pas débloquée, recharger la sauvegarde de fin et rejouer la dernière séquence sur la difficulté concernée.
+
+CHECKLIST FINALE — 40/40 SUCCÈS STEAM
+
+- [ ] The Cockroach — Orson s’échappe après le combat de Sodiodon.
+- [ ] So Green! — Atteindre le royaume de Kairon.
+- [ ] The Honorable Thing — Sauver Kain du fort de Kairon.
+- [ ] Battling Novice — Vaincre 250 ennemis.
+- [ ] Not So Green! — Atteindre le royaume de Hess-erabi.
+- [ ] Blue Freedom — Obtenir le Sailing Ship.
+- [ ] Lineage — Découvrir qu’Ailfred est l’héritier légitime du trône de Vooresh.
+- [ ] Never Split the Party! — Terminer le Fire Temple.
+- [ ] Wiggle Wiggle — Trouver l’île secrète de Wiggle Man.
+- [ ] Unbound by Gravity — Obtenir l’Airship.
+- [ ] Master Thrust Attacks — Monter Thrust au maximum.
+- [ ] Master Ranged Attacks — Monter Ranged au maximum.
+- [ ] Master High Attacks — Monter High au maximum.
+- [ ] Master Side Attacks — Monter Side au maximum.
+- [ ] Master Reach Attacks — Monter Reach au maximum.
+- [ ] Battling Student — Vaincre 1000 ennemis.
+- [ ] Definitely not Kansas! — Atteindre Unity.
+- [ ] Master Martial Arts Attacks — Monter Martial Arts au maximum.
+- [ ] Morals Over Truth — Résoudre partiellement l’enquête du livre de Kairon et épargner une vie.
+- [ ] Master Low Attacks — Monter Low au maximum.
+- [ ] Truth Over Morals — Résoudre complètement l’enquête du livre de Kairon.
+- [ ] Unlimited Power! — Apprendre le sort Vitriolic Cascade.
+- [ ] Master Trip Attacks — Monter Trip au maximum.
+- [ ] The High Seas — Trouver les 3 zones cachées accessibles par bateau.
+- [ ] Liberation — Libérer les 9 villes occupées.
+- [ ] Poe Boy — Terminer la première quête de coffres de Poe.
+- [ ] Not Poe Any Moe — Terminer la deuxième quête de coffres de Poe.
+- [ ] Vooresh Monster Hunter — Terminer les 6 chasses de Vooresh.
+- [ ] Extermination Made Easy — Terminer le jeu en Easy.
+- [ ] Poe’s Got Some Dough — Terminer la troisième quête de coffres de Poe.
+- [ ] Kairon Monster Hunter — Terminer les 6 chasses de Kairon.
+- [ ] Hess-erabi Monster Hunter — Terminer les 6 chasses de Hess-erabi.
+- [ ] Extermination by Force — Terminer le jeu en Regular.
+- [ ] Dragonslayer — Vaincre Tiamat.
+- [ ] The Choicemaker — Terminer le donjon bonus Choicemaker’s Tomb dans Schism.
+- [ ] Extermination the Hard Way — Terminer le jeu en Hard.
+- [ ] Battling Apprentice — Vaincre 2000 ennemis.
+- [ ] Extermination the Insane Way — Terminer le jeu en Very Hard.
+- [ ] Battling Expert — Vaincre 3000 ennemis.
+- [ ] Battling Master — Vaincre 5000 ennemis.
+
+CONTRÔLE FINAL AVANT DE SUPPRIMER UNE SAUVEGARDE
+
+□ Steam affiche 40 succès.
+□ Les deux succès d’enquête sont obtenus.
+□ Les 9 drapeaux de villes sont visibles sur la carte.
+□ Les 18 contrats de chasse sont terminés.
+□ Tiamat est vaincue et Excalibur récupérée.
+□ Les 3 quêtes de Poe sont terminées.
+□ Les 8 familles d’attaques sont au maximum.
+□ Vitriolic Cascade est dans le menu des sorts.
+□ Choicemaker’s Tomb est terminé.
+□ Les quatre difficultés ont chacune leur succès.
+□ Aucun fichier de sauvegarde principal n’a été écrasé avant la validation Steam.
+
+SOURCES ET CONTRÔLE ÉDITORIAL
+
+Cette fiche synthétise la route et les conditions au lieu de recopier une solution. Les sources servent à contrôler les 40 succès, les emplacements de coffres, les chasses, les quêtes de Poe, les villes et le donjon final.
+
+□ Succès Steam et conditions : https://steamcommunity.com/stats/1139160/achievements
+□ Liste détaillée des conditions : https://truesteamachievements.com/game/Divided-Reigns/achievements
+□ Walkthrough de référence pour les coffres et étapes : https://steamcommunity.com/sharedfiles/filedetails/?id=2458031997
+□ Version miroir du walkthrough : https://steamah.com/divided-reigns-complete-walkthrough-on-hard-mode/
+□ Page Steam officielle : https://store.steampowered.com/app/1139160/Divided_Reigns/
+
+FIN DE FICHE — GARDER LA SAUVEGARDE HARD JUSQU’À L’AFFICHAGE DES 40 SUCCÈS.
