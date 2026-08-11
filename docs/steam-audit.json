@@ -161,7 +161,6 @@
     { "id": "homefront", "appId": 55100, "steamAchievements": 47, "guideType": "100-steam-campaign-pickups-difficulty-multiplayer", "source": "https://steamcommunity.com/stats/55100/achievements" },
     { "id": "max-payne-3", "appId": 204100, "steamAchievements": 67, "guideType": "100-steam-campaign-difficulties-collectibles-multiplayer", "source": "https://steamcommunity.com/stats/204100/achievements" },
     { "id": "mortal-kombat-x", "appId": 307780, "steamAchievements": 73, "guideType": "100-steam-story-towers-factions-online", "source": "https://steamcommunity.com/stats/307780/achievements" },
-    { "id": "far-cry-2", "appId": 19900, "steamAchievements": 0, "guideType": "special-no-steam-achievements-campaign-exploration", "source": "https://store.steampowered.com/app/19900/Far_Cry_2/" },
-    { "id": "half-life", "appId": 70, "steamAchievements": 0, "guideType": "special-no-steam-achievements-campaign-classic", "source": "https://store.steampowered.com/app/70/HalfLife/" }
+    { "id": "far-cry-2", "appId": 19900, "steamAchievements": 0, "guideType": "special-no-steam-achievements-campaign-exploration", "source": "https://store.steampowered.com/app/19900/Far_Cry_2/" }
   ]
 }

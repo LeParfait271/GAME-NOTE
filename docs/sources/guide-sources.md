@@ -1396,5 +1396,3 @@ conditions difficiles ; elles ne justifient jamais une copie mot a mot.
   https://store.steampowered.com/app/307780/Mortal_Kombat_X/
 - Fiche Steam Far Cry 2, AppID 19900, sans succes Steam :
   https://store.steampowered.com/app/19900/Far_Cry_2/
-- Fiche Steam Half-Life, AppID 70, sans succes Steam :
-  https://store.steampowered.com/app/70/HalfLife/

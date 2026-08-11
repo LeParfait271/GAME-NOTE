@@ -167,7 +167,6 @@
     { "id": "homefront", "title": "Homefront", "scope": "full-guide", "status": "draft", "file": "public/guides/homefront.txt" },
     { "id": "max-payne-3", "title": "Max Payne 3", "scope": "full-guide", "status": "draft", "file": "public/guides/max-payne-3.txt" },
     { "id": "mortal-kombat-x", "title": "Mortal Kombat X", "scope": "full-guide", "status": "draft", "file": "public/guides/mortal-kombat-x.txt" },
-    { "id": "far-cry-2", "title": "Far Cry 2", "scope": "special", "status": "draft", "file": "public/guides/far-cry-2.txt", "reason": "L'AppID Steam 19900 n'expose pas de succes Steam : soluce de campagne, factions, buddies, diamants et exploration transparente." },
-    { "id": "half-life", "title": "Half-Life", "scope": "special", "status": "draft", "file": "public/guides/half-life.txt", "reason": "L'AppID Steam 70 n'expose pas de succes Steam : guide de campagne classique et exploration transparente." }
+    { "id": "far-cry-2", "title": "Far Cry 2", "scope": "special", "status": "draft", "file": "public/guides/far-cry-2.txt", "reason": "L'AppID Steam 19900 n'expose pas de succes Steam : soluce de campagne, factions, buddies, diamants et exploration transparente." }
   ]
 }

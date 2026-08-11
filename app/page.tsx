@@ -2565,22 +2565,6 @@ const guides: Guide[] = [
       "A surveiller : cet AppID n'expose pas de succes Steam ; la completion est suivie manuellement par activites.",
     meta: ["0/0 Steam", "Campagne", "Exploration"],
   },
-  {
-    id: "half-life",
-    steamAppId: 70,
-    title: "Half-Life",
-    eyebrow: "Valve",
-    subtitle: "Campagne classique et exploration dans l'ordre.",
-    count: "0 succes Steam",
-    file: "half-life.txt",
-    accent: "blue",
-    tag: "Soluce speciale",
-    description:
-      "Route de la campagne solo, ressources, armes, transitions et exploration des chapitres classiques.",
-    highlight:
-      "A surveiller : cet AppID n'expose pas de succes Steam ; la completion est suivie par chapitres et zones visitees.",
-    meta: ["0/0 Steam", "Campagne classique", "Solo"],
-  },
 ];
 
 const steamHeaderUrl = (appId: number) =>
