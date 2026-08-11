@@ -2553,6 +2553,216 @@ button {
   }
 }
 
+/* Guide cards: the source TXT stays exportable, but the reader is a real
+   editorial fiche with hierarchy, metrics and a persistent route language. */
+.reader-vitals {
+  display: grid;
+  grid-template-columns: repeat(4, minmax(0, 1fr));
+  gap: 10px;
+  margin: 16px 0 20px;
+}
+
+.reader-vital {
+  min-height: 86px;
+  padding: 16px 17px 14px;
+  border: 1px solid var(--line);
+  border-radius: 13px 13px 13px 4px;
+  background: color-mix(in srgb, var(--card) 90%, var(--paper));
+  box-shadow: 0 8px 24px color-mix(in srgb, var(--route-ink) 5%, transparent);
+}
+
+.reader-vital > span,
+.reader-document-kicker,
+.guide-heading-eyebrow {
+  display: block;
+  margin: 0;
+  color: var(--muted);
+  font-size: 0.56rem;
+  font-weight: 900;
+  letter-spacing: 0.15em;
+  line-height: 1.25;
+  text-transform: uppercase;
+}
+
+.reader-vital strong {
+  display: block;
+  margin-top: 9px;
+  overflow: hidden;
+  color: var(--navy);
+  font-size: 1.1rem;
+  letter-spacing: -0.04em;
+  line-height: 1;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.reader-vital small {
+  display: block;
+  margin-top: 7px;
+  color: var(--muted);
+  font-size: 0.62rem;
+  line-height: 1.25;
+}
+
+.reader-vital-accent {
+  border-color: color-mix(in srgb, var(--coral) 42%, var(--line));
+  background: linear-gradient(145deg, color-mix(in srgb, var(--coral) 9%, var(--card)), var(--card));
+}
+
+.reader-vital-accent strong {
+  color: var(--coral);
+  font-size: 0.78rem;
+  letter-spacing: 0.03em;
+}
+
+.reader-document-intro {
+  display: flex;
+  align-items: flex-end;
+  justify-content: space-between;
+  gap: 18px;
+  margin: 26px 0 4px;
+  padding: 0 0 19px;
+  border-bottom: 1px solid color-mix(in srgb, var(--route-ink) 14%, transparent);
+}
+
+.reader-document-intro h3 {
+  margin: 8px 0 0;
+  color: var(--navy);
+  font-size: clamp(1.15rem, 2vw, 1.55rem);
+  letter-spacing: -0.055em;
+  line-height: 1.05;
+}
+
+.reader-document-stamp {
+  flex: 0 0 auto;
+  padding: 8px 10px;
+  border: 1px solid var(--line);
+  border-radius: 5px;
+  color: var(--route-ink);
+  font-size: 0.56rem;
+  font-weight: 900;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+}
+
+.guide-heading-row {
+  display: grid;
+  grid-template-columns: 39px minmax(0, 1fr);
+  gap: 15px;
+  align-items: start;
+  scroll-margin-top: 173px;
+  margin: 38px 0 17px;
+  padding: 15px 0 13px;
+  border-top: 1px solid color-mix(in srgb, var(--route-ink) 18%, transparent);
+}
+
+.guide-heading-row:first-of-type {
+  margin-top: 28px;
+}
+
+.guide-heading-index {
+  display: grid;
+  width: 39px;
+  height: 39px;
+  place-items: center;
+  border: 1px solid color-mix(in srgb, var(--coral) 45%, var(--line));
+  border-radius: 50% 50% 50% 5px;
+  background: color-mix(in srgb, var(--coral) 8%, var(--card));
+  color: var(--coral);
+  font-size: 0.68rem;
+  font-weight: 900;
+  letter-spacing: 0.04em;
+}
+
+.guide-heading-eyebrow {
+  margin-bottom: 7px;
+  color: var(--coral);
+  font-size: 0.52rem;
+}
+
+.guide-heading {
+  margin: 0;
+  padding: 0;
+  font-size: clamp(1.3rem, 2.25vw, 2.02rem);
+}
+
+.guide-subheading {
+  scroll-margin-top: 173px;
+  margin: 27px 0 12px;
+  padding: 9px 13px;
+  border: 1px solid color-mix(in srgb, var(--route-ink) 15%, var(--line));
+  border-left: 3px solid var(--coral);
+  border-radius: 0 8px 8px 0;
+  background: color-mix(in srgb, var(--route-ink) 4%, var(--card));
+}
+
+.guide-paragraph {
+  max-width: 820px;
+}
+
+.guide-bullet {
+  max-width: 850px;
+  padding: 9px 12px 9px 8px;
+  border-left: 1px solid color-mix(in srgb, var(--coral) 32%, var(--line));
+  background: color-mix(in srgb, var(--paper) 32%, transparent);
+}
+
+@media (max-width: 860px) {
+  .reader-vitals {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+}
+
+@media (max-width: 680px) {
+  .reader-vitals {
+    gap: 8px;
+    margin-top: 13px;
+  }
+
+  .reader-vital {
+    min-height: 78px;
+    padding: 13px 13px 12px;
+  }
+
+  .reader-vital strong {
+    margin-top: 8px;
+    font-size: 0.98rem;
+  }
+
+  .reader-vital-accent strong {
+    font-size: 0.68rem;
+  }
+
+  .reader-document-intro {
+    align-items: flex-start;
+    flex-direction: column;
+    gap: 13px;
+    margin-top: 21px;
+    padding-bottom: 15px;
+  }
+
+  .reader-document-stamp {
+    font-size: 0.5rem;
+  }
+
+  .guide-heading-row {
+    grid-template-columns: 31px minmax(0, 1fr);
+    gap: 11px;
+    margin-top: 30px;
+    padding-top: 12px;
+  }
+
+  .guide-heading-index {
+    width: 31px;
+    height: 31px;
+    font-size: 0.57rem;
+  }
+
+  .guide-heading {
+    font-size: 1.32rem;
+  }
+}
+
 @media (prefers-reduced-motion: reduce) {
   html {
     scroll-behavior: auto;
