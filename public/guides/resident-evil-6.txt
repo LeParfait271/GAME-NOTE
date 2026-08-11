@@ -1,131 +1,1287 @@
 RESIDENT EVIL 6
 GUIDE CHRONOLOGIQUE 100 % STEAM - SANS SPOILER
 
-Version de travail : 10 aout 2026
+Version : 12 aout 2026
+Plateforme visee : Steam, AppID 221040
+Perimetre : 4 campagnes, 20 chapitres, 80 emblemes de serpent, bonus et
+contenus online. La version Steam compte exactement 70 succes.
 
-Ce parcours couvre les 70 succes Steam de l'AppID 221040 : quatre campagnes,
-20 chapitres, emblemes de serpent, competences, titres, records, Agent Hunt,
-Mercenaries et difficulte Professional. La cooperation est utile mais le
-parcours peut etre organise en solo ; le Remote Play est une option pour les
-objectifs de partenaire.
+PROMESSE DE LA FICHE
 
-OBJECTIF
+Cette fiche est un vrai parcours de completion, pas une simple liste de
+succes. Elle donne un ordre chronologique pratique, les actions a preparer
+avant chaque chapitre, les emplacements des 80 emblemes, les armes et les
+competences a monter, les records, les figures, les difficultes et les modes
+annexes. Les points pouvant rater dans une session sont signales comme
+manquables, avec une methode de reprise par chapitre ou checkpoint.
 
-[ ] 70/70 succes Steam.
-[ ] Campagnes Leon, Chris, Jake et Ada.
-[ ] 80 emblemes de serpent, competences et points.
-[ ] Titres, actions de partenaire, records et Mercenaries.
-[ ] Amateur a Professional, puis nettoyage Agent Hunt/coop si necessaire.
+REGLE SANS SPOILER
 
-GARDE-FOUS ABSOLUS
+Les campagnes, chapitres, zones, armes, ennemis et objectifs techniques sont
+utilises comme reperes de navigation. Aucun retournement, identite, mort,
+fin, consequence de scenario ou relation entre personnages n'est explique.
+Quand une action doit viser une cible precise, seul le geste necessaire est
+decrit. Tu peux donc suivre la fiche dans l'ordre sans te faire raconter le
+jeu.
 
-- Joue les campagnes dans l'ordre Leon, Chris, Jake, Ada. Les trois premieres
-  se croisent et les scenes d'Ada deviennent plus lisibles ensuite.
-- Ramasse les emblemes de serpent et les mallettes de points a chaque passage.
-  Le compteur est cumulatif mais les emblemes ne reapparaissent pas.
-- Achète les competences apres chaque chapitre : survie, munitions, critique,
-  soins et partenaire avant les skills de score.
-- Professional se fait apres le nettoyage, avec la route et les partenaires
-  appris. Les titres et Mercenaries ne demandent pas de rejouer toute l'histoire.
-- Aucun passage ne revele une mort, une identite, une fin ou un retournement.
+COMMENT LIRE LE GUIDE
 
-MISSABLES ET COMPTEURS
+- Le mot chapitre designe le chapitre de la campagne indiquee dans le menu.
+- Un repere de zone est donne juste avant l'action : ne progresse pas au
+  prochain checkpoint tant que l'embleme ou l'objectif n'est pas valide.
+- Les emblemes de serpent sont numerotes par campagne, du 1 au 20. Chaque
+  chapitre en contient quatre.
+- Dans Resident Evil 6, il n'existe pas de systeme de coffres a ouvrir comme
+  dans Resident Evil 5. Les objets importants sont des emblemes, armes,
+  munitions, soins, fichiers, figurines et armes de scenario. Les emblemes
+  et les objets lies aux succes sont donc les repères de 100 % a suivre.
+- Le compteur d'embleme se verifie dans Records / Extra Content. Un embleme
+  est valide uniquement apres l'impact ou le tir confirme par le jeu.
+- Pour quitter sans refaire toute la zone, tire l'embleme, attends la prise
+  en compte, puis recharge ou quitte le chapitre. Controle le compteur avant
+  de passer au suivant.
 
-- 80 emblemes de serpent, titres, mallettes, actions de partenaire, competences,
-  records de campagne et objectifs de boss. Coche les emblemes par campagne.
+OBJECTIF 100 % STEAM
 
-ORDRE DE PARTIE
+- 70/70 succes Steam.
+- Les 20 chapitres des campagnes Leon, Chris, Jake et Ada.
+- 80/80 emblemes de serpent et les 40 figurines debloquees par les emblemes.
+- Les 25 fiches d'armes validees par 10 eliminations chacune.
+- Les competences a progression entierement montees pour Mad Skillz.
+- 150 medailles distinctes et au moins 10 titres differents.
+- Les difficultes Amateur, Normal, Veteran et Professional.
+- Mercenaries, No Mercy, Agent Hunt, Survivors, Predator, Siege et Onslaught.
+- Les objectifs online, avec une dependance reseau clairement signalee.
 
-1. Leon chapitres 1-5.
-2. Chris chapitres 1-5.
-3. Jake chapitres 1-5.
-4. Ada chapitres 1-5.
-5. Nettoyage des emblemes, competences, titres, records et Mercenaries.
-6. Professional et Agent Hunt/coop.
+MISSABLES, REPRISES ET GARDE-FOUS
 
-LEON - CAMPAGNE 1 A 5
+- Les succes de campagne restent recuperables par Selection de chapitre, mais
+  les actions de session ne se valident pas toujours si tu quittes avant le
+  checkpoint. Attends la notification Steam ou la validation du Record.
+- Hard Choice, Flying Ace, Bring the Heat, Sneaking Around, I Prefer Them
+  Alive, Stuntman et High Voltage sont les plus faciles a rater. Fais-les en
+  Amateur, avec une sauvegarde de chapitre dediee, puis recommence le
+  checkpoint si le geste est rate.
+- Les succes de difficulte sont traites comme des runs completes. Pour eviter
+  un compteur capricieux, termine les 20 chapitres d'une difficulte avant de
+  changer de niveau et ne melange pas les campagnes en cours de run.
+- Les 80 emblemes ne sont pas manquables definitivement : la Selection de
+  chapitre permet le nettoyage, mais note chaque numero dans la checklist.
+- Les succes de modes online demandent une connexion et souvent un autre
+  joueur. Ils ne doivent pas etre presentes comme faisables hors ligne.
+- Fais une copie de ta liste de records avant chaque grosse session. Le menu
+  Records est l'autorite finale pour les medailles, armes, titres et figures.
 
-- Fais le tutoriel en utilisant glissade, esquive, melee, contre et aide au
-  partenaire. Achete une competence des que les points sont disponibles.
-- Ramasse chaque mallette, document et embleme de serpent. Le premier passage
-  sert de route de collection, pas de chrono.
-- Fais au moins cinq attaques furtives et dix sauvetages de partenaire au fil
-  de la campagne. Le succes demande une action reussie, pas seulement une
-  interaction de bouton.
-- Verifie les titres de chapitre et les actions speciales avant de continuer.
+ORDRE CHRONOLOGIQUE RECOMMANDE
 
-CHRIS - CAMPAGNE 1 A 5
+Les campagnes se chevauchent volontairement. L'ordre ci-dessous suit les
+sequences de maniere pratique, sans imposer de lecture narrative :
 
-- Les combats sont plus lourds : equipe des competences de degats, endurance,
-  munition et partenaire. Termine les sauvetages et attaques de melee.
-- Explore les detours, les salles de securite et les couloirs de vehicule.
-  Les emblemes sont souvent caches dans des pieces laterales.
-- Valide les objectifs de precision, de combo et de destruction de zombies.
-  Garde les grosses armes pour le nettoyage des records.
+1. Prologue / tutoriel.
+2. Chris chapitre 1.
+3. Jake chapitre 1.
+4. Jake chapitre 2.
+5. Chris chapitre 2.
+6. Leon chapitre 1.
+7. Leon chapitre 2.
+8. Leon chapitre 3.
+9. Jake chapitre 3.
+10. Chris chapitre 3.
+11. Jake chapitre 4.
+12. Leon chapitre 4.
+13. Chris chapitre 4.
+14. Leon chapitre 5.
+15. Chris chapitre 5.
+16. Jake chapitre 5.
+17. Ada chapitre 1.
+18. Ada chapitre 2.
+19. Ada chapitre 3.
+20. Ada chapitre 4.
+21. Ada chapitre 5.
 
-JAKE - CAMPAGNE 1 A 5
+Si tu veux uniquement utiliser le menu de facon simple, l'ordre Leon 1-5,
+Chris 1-5, Jake 1-5 puis Ada 1-5 fonctionne aussi. Il ne change aucun
+collectible ni aucun succes. L'ordre croise est recommande ici parce qu'il
+evite de passer d'une campagne a l'autre sans repere.
 
-- Utilise les coups de melee et l'escalade dans les zones de detour. Les
-  emblemes peuvent etre en hauteur ou derriere un chemin de glissade.
-- Ramasse les points de competence et achete les skills qui augmentent les
-  degats de melee, la recuperation et la survie.
-- Fais les sections de vehicule et les combats de boss sans chercher le
-  Professional. Note les records qui demandent une action specifique.
+ROUTE DE DEPART ET REGLAGES
 
-ADA - CAMPAGNE 1 A 5
+- Lance le Prologue et achete la premiere competence des que le menu est
+  disponible. Une competence de niveau 1 peu couteuse suffit pour One Is
+  Better Than None.
+- Pour la premiere completion, joue en Normal si tu connais deja les TPS, ou
+  en Amateur si tu veux prioriser les emblemes et les actions de succes.
+- Utilise le solo pour les actions de precision. En coop, les sauvetages et
+  certains records deviennent plus simples, mais les positions de joueur
+  peuvent rendre un embleme plus delicat.
+- Apres chaque chapitre, ouvre Records et note : emblemes, figures, armes,
+  medailles, titres et chapitre valide.
+- Ne depense pas tous les points de competence au hasard. Priorite : Defense,
+  Firearm, Recovery, Field Medic, Combat Gauge Boost, puis les competences
+  necessaires a ton style.
 
-- Termine Ada apres les trois autres campagnes pour profiter de la carte et
-  des habitudes de combat. Explore chaque zone avant d'activer un ascenseur.
-- L'arc et les gadgets servent aux kills techniques, aux cibles eloignees et
-  aux actions silencieuses. Coche les emblemes propres a Ada.
-- Les puzzles et chemins exclusifs d'Ada contiennent des documents et points.
-  Rejoue le chapitre si le menu Records garde une ligne vide.
+PROLOGUE - TUTORIEL
 
-EMBLEMES, COMPETENCES ET TITRES
+Parcours
 
-- Emblemes : fais une liste 1-20 par campagne, inspecte les toits, vehicules,
-  bureaux et pieces derriere les portes. Verifie le compteur global 80/80.
-- Competences : achete les packs de survie, munition, critique, soins,
-  partenaire et melee. Equipe chaque skill au moins une fois si le titre le
-  demande.
-- Titres : les titres viennent de la campagne, des actions, des records et de
-  Mercenaries. Atteins dix titres puis continue jusqu'a la grille complete.
-- Actions partenaires : releve un partenaire, protege-le, soigne-le et
-  execute les actions contextuelles dix fois sur plusieurs chapitres.
+- Suis les instructions de deplacement, visée, esquive et soin jusqu'a la
+  fin du tutoriel. Ce segment ne contient pas d'embleme de campagne.
+- Le succes The Longest Night tombe a la fin du tutoriel.
+- Ouvre le menu Skills immediatement apres et achete Firearm niveau 1 ou une
+  competence de meme cout. Cela valide One Is Better Than None.
+- Profite de ce premier passage pour regler la sensibilite, l'assistance de
+  visee et les commandes rapides. Les memes reglages seront utilises pour
+  les tirs a longue distance et les sequences de vehicule.
 
-MERCENARIES ET AGENT HUNT
+Ordre de nettoyage
 
-- Termine d'abord une carte Mercenaries avec un personnage facile, puis
-  debloque les autres. Les combos et le temps restant valent plus que les
-  kills rapides isoles.
-- Pour les succes de score, garde les ennemis en vie, detruis les objets de
-  temps et utilise les executions pour maintenir le multiplicateur.
-- Agent Hunt/coop : le mode peut demander un autre joueur ou des conditions
-  reseau. Verifie l'etat du service et utilise Remote Play si necessaire.
+- Ne commence pas les modes annexes avant d'avoir vu le menu Records.
+- Si le succes de competence ne tombe pas, achete bien une competence et non
+  un emplacement ou un objet cosmétique.
 
-PROFESSIONAL ET NETTOYAGE
+CHRIS - CHAPITRE 1 : PREMIER PARCOURS
 
-- Professional : fais une run dediee apres avoir achete les competences de
-  survie. Sauvegarde les chapitres, economise les soins et apprends les
-  sections de vehicule.
-- Titres et records : consulte la liste des Records apres chaque campagne.
-  Les objectifs de tir, de melee, de sauvetage, de glissade et de combo sont
-  plus simples dans les premiers chapitres.
-- Si un succes d'action ne tombe pas, rejoue une courte section en solo avec
-  l'IA et verifie la notification avant de quitter.
+Objectifs et succes
 
-CHECKLIST STEAM FINALE - 70/70
+- Termine le chapitre pour Rescue the Hostages.
+- Fais au moins cinq eliminations furtives dans cette campagne ou dans Leon.
+  Le premier couloir avec ennemis de dos est le meilleur endroit pour
+  Silent Killer.
+- Dans la zone a escaliers et passerelles, pousse dix ennemis dans le vide
+  au fil des essais pour Give a Little Push. Ne les elimine pas tous a
+  distance avant d'avoir tente les projections.
+- Garde une session dediee aux sauvetages : approche un partenaire en etat
+  HELP ou DYING, lance l'interaction et repete jusqu'a dix validations pour
+  Lifesaver.
 
-[ ] Leon, Chris, Jake et Ada 5/5 chapitres.
-[ ] 80/80 emblemes de serpent.
-[ ] Competences, points, titres et records.
-[ ] 500 zombies, furtivite, melee et sauvetages.
-[ ] Mercenaries et Agent Hunt controles.
-[ ] Professional.
-[ ] Coop/Remote Play verifie pour les actions necessaires.
-[ ] Verification finale du profil Steam : 70/70.
+Parcours de completion
+
+- Dans la premiere rue, fouille chaque piece avant de monter. Les caisses
+  hautes et les etageres contiennent munitions et soins, mais ne remplacent
+  pas les emblemes numerotes plus bas.
+- Dans le batiment avec viande suspendue, utilise les ennemis de dos pour les
+  attaques furtives. Une attaque furtive est valide quand l'animation
+  d'elimination commence, pas lorsqu'un tir termine la cible.
+- Dans la zone de toit, repere les ennemis places sur les passerelles. Les
+  projections sont plus fiables quand tu les approches de cote, sans courir.
+- Avant chaque changement de zone, verifie Records et le compteur d'emblemes.
+
+CHRIS - CHAPITRE 2 : DEFENSE ET TIR THERMIQUE
+
+Objectifs et succes
+
+- Termine le chapitre pour Tragedy in Europe.
+- Pour Bring the Heat, prends le controle de Piers quand le fusil a visee
+  thermique est disponible. Eloigne-toi au maximum, attends une cible stable
+  et realise un tir a la tete a plus de 50 metres.
+- La distance est mesuree par le jeu : le tir doit etre realise avec la
+  lunette thermique, pas avec une autre arme ou une simple longue vue.
+
+Parcours de completion
+
+- Dans le depot ferroviaire, nettoie les angles avant de defendre les charges.
+  Les fenetres en hauteur permettent de reperer les ennemis sans avancer.
+- Sur le pont du vehicule blindé, joue Piers si tu vises le succes thermique.
+  Place-toi au fond de la zone, active la vision thermique et vise la tête
+  d'un ennemi immobile.
+- Dans le hall, passe sous les escaliers et derriere les comptoirs avant la
+  progression. Les objets sont souvent dans des alcoves a droite ou a gauche.
+- Si Bring the Heat ne tombe pas, redemarre le checkpoint sans changer de
+  personnage et recommence avec une cible plus lointaine.
+
+CHRIS - CHAPITRE 3 : DESERT ET PASSERELLES
+
+Objectifs et succes
+
+- Termine le chapitre pour After Her!
+- Les ennemis a cocon sont nombreux dans les chapitres Chris et Jake. Detruis
+  les cocons apres apparition et laisse le compteur B.O.W.s Are Ugly monter.
+- Continue les projections depuis les balcons et passerelles si Give a
+  Little Push n'est pas encore obtenu.
+
+Parcours de completion
+
+- Dans la rue d'entree, fouille le terrain de jeu et les boutiques avant de
+  suivre le groupe. La plupart des caisses utiles sont sur les cotes.
+- Dans les habitations sur pilotis, regarde au-dessus de l'eau et des grues.
+  Les angles bas sont difficiles a voir quand on court.
+- Pendant la poursuite, ne depense pas toutes les grenades avant le passage
+  des vehicules. Les points de controle separement rechargés peuvent servir
+  a farmer les ennemis ou les records de combat.
+- Dans le parking, garde une arme de precision pour les ouvertures de bus et
+  les fenetres en hauteur.
+
+CHRIS - CHAPITRE 4 : CIEL ET PORTE-AVIONS
+
+Objectifs et succes
+
+- Termine le chapitre pour There's Always Hope.
+- Flying Ace est manquable dans la sequence VTOL : aucun impact ne doit faire
+  passer l'appareil en etat endommage. Detruis les armes anti-aeriennes
+  rapidement mais ne tire pas au hasard sur les structures.
+- Sneaking Around concerne Ada, pas cette campagne. Ne perds pas de temps a
+  le chercher ici.
+
+Parcours de completion
+
+- Dans le hangar, fais demi-tour autour du gros helicoptere et inspecte le
+  poste de pilotage avant de quitter la zone.
+- Pendant le vol, donne la priorite aux canons et missiles qui ont une ligne
+  de tir directe. Si l'appareil prend un impact visible, redemarre le
+  checkpoint tout de suite.
+- Dans l'exterieur du porte-avions, utilise le fusil de precision pour les
+  silhouettes eloignees et regarde les tours lumineuses.
+- Dans les escaliers, inspecte dessous la premiere volée apres l'ouverture
+  de la vanne. Les petits espaces sous les marches sont faciles a oublier.
+
+CHRIS - CHAPITRE 5 : INSTALLATION ET EVACUATION
+
+Objectifs et succes
+
+- Termine le chapitre pour Duty Calls.
+- Les cocons et ennemis transformes de ce chapitre sont efficaces pour
+  completer B.O.W.s Are Ugly si le compteur n'est pas encore a 100.
+- Ne quitte pas avant la validation du chapitre dans Records si tu l'utilises
+  pour les succes de difficulte.
+
+Parcours de completion
+
+- Apres le passage de ventilation, descends l'echelle de gauche et vise
+  l'embleme a travers le ventilateur avant d'ouvrir la suite.
+- Dans le centre de commande, nettoie les bureaux et les armoires en hauteur
+  avant de repartir vers les portes d'entree.
+- Dans le tunnel d'evacuation, inspecte les deux tuyaux apres la chute au
+  sol. La progression continue vite : fais le nettoyage avant le prochain
+  mur durci.
+- Dans le couloir final, vise le long luminaire au fond avant de declencher
+  la prochaine sequence.
+
+JAKE - CHAPITRE 1 : PREMIERE ROUTE
+
+Objectifs et succes
+
+- Termine le chapitre pour Money Talks.
+- High Voltage est reserve a Sherry : charge la matraque jusqu'a l'etat
+  electrique puis elimine dix ennemis avec l'attaque chargee.
+- Dans la premiere zone de ferme, utilise un checkpoint pour recommencer les
+  ennemis si le compteur de matraque n'est pas suffisant.
+
+Parcours de completion
+
+- A la sortie des egouts, prends le chemin gauche et lève la camera vers le
+  haut du passage avant de suivre le mouvement du groupe.
+- Apres le balancement sur le poteau, inspecte la tour metallique a droite de
+  l'echelle brisee avant d'aider le partenaire.
+- Dans le canal d'eau, Sherry doit se placer pour etre propulsee. Tourne la
+  camera vers le trou et utilise un tir ou une grenade flash depuis le bon
+  angle.
+- Dans les ruines, apres l'echelle de la zone de mannequins, regarde le
+  batiment en face de la porte. L'embleme est au-dessus de l'entree.
+
+JAKE - CHAPITRE 2 : MONTAGNE ET AVALANCHE
+
+Objectifs et succes
+
+- Termine le chapitre pour A Revolting Development.
+- Les chapitres enneiges sont un bon endroit pour les eliminitions de J'avo.
+  Fais monter J'avo Genocide naturellement avant de farmer.
+
+Parcours de completion
+
+- Au milieu du chemin de montagne, inspecte le siege de la grue et le
+  dispositif de memoire avant de repartir.
+- Au sommet, contourne la cabane et vise la tour derriere ou a gauche.
+- Pendant la sequence en motoneige, reste sur le cote droit pres de l'entree
+  de la grotte. La neige peut masquer l'embleme si tu avances trop vite.
+- Dans la troisieme caverne, vise le cylindre au-dessus de l'alcove puis
+  ouvre immediatement la valve. Le poursuivant limite le temps disponible.
+
+JAKE - CHAPITRE 3 : CENTRE DE DETENTION
+
+Objectifs et succes
+
+- Termine le chapitre pour Let's Blow This Joint.
+- Les cocons du centre de recherche servent a B.O.W.s Are Ugly. Detruis-les
+  apres apparition et verifie le Record au menu.
+- Utilise ce chapitre pour tester les executions, les esquives et les armes
+  avant la run Veteran.
+
+Parcours de completion
+
+- Dans le hall de surveillance, l'embleme est derriere les casiers et ne se
+  tire qu'avec l'arme de la camera. Controle que le tir a touche avant de
+  quitter la salle.
+- Dans les quartiers de vie, cherche l'etagere centrale entre les caisses.
+- Dans la salle de statue, laisse le vehicule detruire la statue centrale,
+  puis inspecte les debris avant de progresser.
+- Dans la pagode et la zone de dechets, entre dans l'eau peu profonde a
+  droite des escaliers et longe le mur. L'embleme est bas.
+
+JAKE - CHAPITRE 4 : VILLE ET HELICOPTERE
+
+Objectifs et succes
+
+- Termine le chapitre pour Still on the Run.
+- Hard Choice est manquable : joue Jake, equipe l'Elephant Killer, grimpe la
+  corde quand l'helicoptere depose les ennemis et tire le pilote a bout
+  portant avant que la sequence se termine.
+- Si le tir n'est pas valide, quitte immediatement et relance le chapitre ou
+  le checkpoint. Ne depense pas la derniere munition de Magnum ailleurs.
+
+Parcours de completion
+
+- Pendant la moto, Sherry doit viser le panneau situe a gauche lorsque le
+  camion-citerne entre dans la ligne de tir. Ralentis et tire avant la sortie
+  de la zone.
+- Dans la ruelle commercante, inspecte la voiture rouge/blanche renversee,
+  puis le pare-brise de la voiture blanche.
+- Dans la deuxieme rue, passe derriere les grosses caisses a gauche du bus
+  renverse. L'embleme est assez bas pour une attaque melee.
+- Dans le couloir vers l'echelle rouge, franchis le trou dans les caisses et
+  vise la plateforme du fond avant de monter.
+
+JAKE - CHAPITRE 5 : INSTALLATION SOUS-MARINE
+
+Objectifs et succes
+
+- Termine le chapitre pour See You Around.
+- Utilise la zone des caisses et passerelles pour completer les records
+  d'armes qui manquent. Verifie le nom exact de l'arme dans Records.
+
+Parcours de completion
+
+- Apres avoir recupere tes armes, retourne dans la cellule au lieu d'aller
+  directement a la ventilation. L'embleme est sur le tuyau en hauteur a
+  droite.
+- Dans la salle F, attends la charge de la batterie, brise la vitrine et
+  regarde l'etagere centrale a gauche.
+- Dans la zone de maintenance avec lave, inspecte la base de la colonne
+  metallique au bord de la passerelle.
+- Apres le combat au corps a corps, le premier couloir du centre d'expedition
+  contient l'embleme pres de la rambarde droite.
+
+LEON - CHAPITRE 1 : CAMPUS ET RUES
+
+Objectifs et succes
+
+- Termine le chapitre pour Gone to Hell.
+- Le succes The Longest Night concerne le Prologue, pas ce chapitre.
+- Utilise les premiers ennemis pour des attaques furtives si tu n'as pas
+  encore obtenu Silent Killer.
+
+Parcours de completion
+
+- Dans la zone des visiteurs, apres la rencontre avec le pere de Liz, ouvre
+  l'angle de la petite piece a droite de l'ordinateur et de la table centrale.
+- Dans la bibliotheque du batiment administratif, inspecte le tiroir du
+  bureau avant de prendre la carte du campus.
+- Dans le tunnel de metro 2, apres les trains, descends de la plateforme et
+  passe sous le train de droite. Le medaillon est sous la structure.
+- Dans le bar de la ville, apres l'ouverture de la grille, regarde le petit
+  comptoir a gauche du comptoir principal avant le combat de la station.
+
+LEON - CHAPITRE 2 : CATHEDRALE ET CIMETIERE
+
+Objectifs et succes
+
+- Termine le chapitre pour Buried Secrets.
+- I Prefer Them Alive est manquable : dans la cathedrale, agis vite pour
+  sauver les deux survivantes avant que la situation ne change. Amateur et
+  une arme de degats eleves rendent l'action plus sure.
+- Pour Bob and Weave, realise trois contres consecutifs. Le cimetiere offre
+  des ennemis previsibles : bloque au bon moment, contre, puis attends le
+  prochain coup au lieu de frapper entre les deux.
+- Pour Down, Not Out, equipe Lone Wolf, laisse Leon entrer en etat DYING,
+  elimine un ennemi, puis recupere sans aide. Le checkpoint du cimetiere est
+  pratique et l'IA ne doit pas interrompre la recuperation.
+- Pour Finish What You Start, fais dix coups de grace sur des ennemis a
+  genoux. La zone avec creature gazeuse peut etre reprise par checkpoint.
+
+Parcours de completion
+
+- Dans le cimetiere, apres le quatrieme lampadaire, passe derriere l'obelisque
+  ou la pierre tombale a gauche du chemin. Attention aux eclairs.
+- Au dernier etage de la cathedrale, leve la camera vers la fenetre circulaire
+  au-dessus de l'entree. Un fusil de precision aide.
+- Dans le laboratoire souterrain, inspecte le lavabo de la petite salle
+  d'eau pendant la sequence de porte.
+- Dans le passage d'eau, apres les deux cavernes, prends le chemin gauche et
+  cherche l'embleme dans l'eau derriere l'obstacle en bois.
+
+LEON - CHAPITRE 3 : EAUX ET TEMPLES
+
+Objectifs et succes
+
+- Termine le chapitre pour Get on the Plane.
+- Les sequences d'eau demandent de fouiller avant de franchir les leviers.
+  Utilise la camera lente et garde une munition de precision.
+
+Parcours de completion
+
+- Dans la zone de depart avant les leviers, regarde la partie haute gauche
+  avant de descendre.
+- Apres avoir remonte sur la berge, ouvre le cercueil a gauche du chemin.
+- Dans l'abime, apres que le partenaire a ete hisse, inspecte la plateforme
+  de gauche avant de continuer.
+- Apres la sequence du requin, retourne vers l'entree et detruis les caisses
+  en bois brisees. L'embleme est dans l'angle de retour.
+
+LEON - CHAPITRE 4 : AVION ET MARCHE NOCTURNE
+
+Objectifs et succes
+
+- Termine le chapitre pour Big Trouble in China.
+- Finish What You Start peut etre complete ici avec les ennemis a genoux,
+  mais ne force pas les executions si cela met en danger le nettoyage.
+
+Parcours de completion
+
+- Apres le monstre de gaz, monte les escaliers et inspecte la zone de bagages
+  entrouverte a droite, en bas.
+- Dans le bas de l'avion, brise ou inspecte les vitrines a droite parmi les
+  bouteilles.
+- Dans le marche de nuit, entre dans la boutique ouverte a droite et regarde
+  la table a cote des cartons.
+- Dans la zone d'echelle, fais hisser le partenaire puis vise les fils en
+  hauteur a droite. Un sniper simplifie le tir.
+
+LEON - CHAPITRE 5 : INSTALLATION FINALE
+
+Objectifs et succes
+
+- Termine le chapitre pour The Trouble with Women.
+- Ce chapitre valide le dernier succes de chapitre de Leon. Garde la meme
+  difficulte jusqu'a l'ecran de resultat si tu travailles une run de niveau.
+
+Parcours de completion
+
+- Dans la premiere salle apres le gaz, inspecte les vitrines de chaussures a
+  droite.
+- Dans la zone du camion militaire, fais demi-tour et cherche a l'interieur
+  du camion, sur les caisses en bois.
+- Apres l'accident d'helicoptere, fouille la reception a droite, derriere les
+  etageres et les moniteurs.
+- Sur le toit, apres la cinematique, passe sous les escaliers, franchis la
+  grille metallique et vise le sol derriere le bloc de climatisation.
+
+ADA - CHAPITRE 1 : SOUS-MARIN
+
+Objectifs et succes
+
+- Termine le chapitre pour I Spy.
+- Ada est une campagne solo : ses enigmes et ses passages de grappin se
+  suivent sans partenaire humain.
+
+Parcours de completion
+
+- Dans l'armurerie, apres le couloir de discretion, monte les escaliers et
+  regarde au-dessus du premier meuble a droite.
+- Dans le reacteur, apres la salle de couchettes et le PDA, vise l'arriere
+  gauche du pilier metallique pres de la caisse.
+- Dans le tunnel de vent, apres la troisieme echelle, choisis le conduit
+  gauche et regarde le mur a droite de l'echelle, pres de la lumiere orange.
+- Dans la salle des torpilles, franchis la porte vers la salle a manger, puis
+  retourne la camera vers les tuyaux bas.
+
+ADA - CHAPITRE 2 : FORET ET LABORATOIRE
+
+Objectifs et succes
+
+- Termine le chapitre pour Counterintelligence.
+- Les carreaux d'arbalete silencieux sont preferables si tu veux cumuler des
+  records sans attirer les ennemis.
+
+Parcours de completion
+
+- Derriere la cathedrale, regarde la tombe centrale du groupe de trois sur la
+  droite. L'embleme est derriere la pierre du milieu.
+- Dans la crypte, apres l'ouverture avec les trois crests et la descente,
+  vise le haut du pilier sur le mur du fond.
+- Dans la zone de retention du laboratoire, apres l'ascenseur, inspecte les
+  caisses tout a gauche au-dessus de la rambarde d'eau.
+- Dans la chambre d'eau, apres la seconde porte Napad et la chute, retourne
+  la camera vers le mur derriere toi dans l'eau peu profonde.
+
+ADA - CHAPITRE 3 : MARCHE ET RAILS
+
+Objectifs et succes
+
+- Termine le chapitre pour This Takes Me Back.
+- Les passages de grappin deviennent plus rapides avec une camera sensible,
+  mais garde la visee lente pour les emblemes distants.
+
+Parcours de completion
+
+- Dans la rue du marche apres le grappin et l'aire de jeu, inspecte les liens
+  suspendus du dernier stand a droite.
+- Dans la rue bloquee, regarde les stands verts a droite, puis l'encoche
+  circulaire a gauche du barrage rouge.
+- Apres le combat du bus, vise le cote du batiment lointain pres du poteau
+  en bois. Un fusil a dispersion ou une mitraillette aide.
+- Dans l'immeuble pres de la voie ferree, apres le grappin, l'escalier est
+  bloque par une caisse : l'embleme se trouve derriere, a droite.
+
+ADA - CHAPITRE 4 : PORTE-AVIONS
+
+Objectifs et succes
+
+- Termine le chapitre pour Ada's Demise.
+- Sneaking Around est manquable : traverse la passerelle du pont sans
+  declencher l'alerte. Utilise les carreaux non explosifs, glisse sous le
+  second projecteur et recharge le checkpoint au moindre signal.
+- Le succes se valide sur la zone de pont, pas dans le hangar precedent.
+
+Parcours de completion
+
+- Apres le premier projecteur et le grappin vers la passerelle, longe la
+  rambarde a gauche, en face de la grande caisse.
+- Dans le vestiaire apres la trappe, inspecte le troisieme casier a gauche.
+- Apres la rencontre avec Carla, utilise la trappe et l'echelle, puis vise
+  derriere le pilier metallique gauche avant la poursuite.
+- Apres la valve et les spores, prends l'alcove derriere les armoires. Le
+  medaillon est pres de l'herbe rouge.
+
+ADA - CHAPITRE 5 : TOITS ET TOUR
+
+Objectifs et succes
+
+- Termine le chapitre pour What's Next?
+- La campagne Ada complete les 20 chapitres necessaires aux runs de
+  difficulte. Ne la laisse pas pour un chapitre isole si tu suis une run
+  complete.
+
+Parcours de completion
+
+- Dans la rue avec helicoptere, vise l'arriere du camion jaune pres de la
+  cabine. Avance vers la droite puis retourne la camera pour le tir.
+- Dans les rues de Tatchi, cherche sous le batiment bleu, pres de l'enseigne
+  chinoise blanche a droite. Les armes de l'helicoptere permettent le tir.
+- Sur le second toit de la Quad Tower, descends vers le toit bas de gauche
+  avec les lucarnes, a cote des civils.
+- Sur l'heliport, utilise le grappin sur la poutre jaune, puis regarde vers
+  le bas de la structure couverte a gauche de la rambarde.
+
+80 EMBLEMES DE SERPENT - MODE D'EMPLOI
+
+Chaque chapitre contient quatre emblemes. Un tir, une attaque melee ou une
+action de camera suffit. Les numeros ci-dessous sont ceux de la campagne,
+pas ceux d'un compteur global. Si un tir est douteux, recharge avant le
+checkpoint suivant et recommence. Les 20 emblemes d'une campagne debloquent
+10 figurines : les quatre premiers groupes de cinq emblemes donnent les
+figurines de chapitre, les colonnes de chapitres donnent les figurines
+suivantes, et les 20 donnent la derniere.
+
+LEON - EMBLEMES 1 A 20
+
+Chapitre 1
+
+1. Visitor's Area / Storage Room : apres la rencontre dans la zone des
+   visiteurs, vise la petite piece a droite du PC et de la table centrale.
+2. Campus / Staff Building : dans la petite bibliotheque, tire le tiroir du
+   bureau avant de prendre la carte du campus.
+3. Underground / Subway Tunnel 2 : apres les trains, descends de la
+   plateforme, passe sous le train de droite et vise sous sa structure.
+4. Town / After Hours Bar : apres l'ouverture de la grille, regarde le petit
+   comptoir a gauche du comptoir principal, avant le combat de la station.
+
+Chapitre 2
+
+5. Forest Cemetery : apres le quatrieme lampadaire, passe derriere
+   l'obelisque ou la pierre tombale a gauche du sentier.
+6. Cathedral : sur l'etage superieur, leve la camera vers la fenetre circulaire
+   au-dessus de l'entree. Un sniper est recommande.
+7. Underground Laboratory : dans le petit lavabo de la salle d'eau pendant
+   la sequence des portes.
+8. Underground Walkway / Water : apres les deux cavernes, prends le chemin
+   gauche et vise dans l'eau derriere l'obstacle en bois.
+
+Chapitre 3
+
+9. Conclave / Levers : dans la zone de depart avant les leviers, en hauteur
+   a gauche.
+10. First Water Shore : apres avoir remonte sur la berge, ouvre le cercueil
+    situe a gauche.
+11. Abyss : apres que le partenaire a ete hisse, inspecte la plateforme de
+    gauche.
+12. Retour apres le demon marin : reviens vers l'entree et detruis les
+    caisses en bois brisees.
+
+Chapitre 4
+
+13. Apres le monstre gazeux : monte les escaliers et vise le bas de la zone
+    de bagages entrouverte a droite.
+14. Bas de l'avion : inspecte les vitrines en verre a droite, parmi les
+    bouteilles.
+15. Marche de nuit : entre dans la boutique ouverte a droite et vise la
+    table placee a cote des cartons.
+16. Marche de nuit / echelle : apres avoir fait hisser le partenaire, vise
+    les fils en hauteur a droite avec un fusil.
+
+Chapitre 5
+
+17. Premiere salle apres le gaz : cherche dans les etageres de presentation
+    de chaussures a droite.
+18. Zone du camion militaire : fais demi-tour et vise l'interieur du camion,
+    sur les caisses en bois.
+19. Reception apres l'accident : inspecte les etageres derriere les
+    moniteurs, a droite de la salle.
+20. Toit : passe sous les escaliers, franchis la grille et vise le sol
+    derriere le bloc de climatisation.
+
+CHRIS - EMBLEMES 1 A 20
+
+Chapitre 1
+
+1. Main Street / boucherie : dans le premier batiment apres les escaliers,
+   salle de viande suspendue, etagere basse a gauche.
+2. Back Street / entree : apres la premiere ruelle, casse la grande caisse et
+   vise l'etagere situee derriere.
+3. Rooftops / batiment vert : monte sur le petit batiment vert et vise
+   l'extension metallique centrale. Fusil de precision conseille.
+4. Tenement / sixieme etage : apres le second otage, regarde le comptoir ou
+   l'armoire metallique de la boutique de viande.
+
+Chapitre 2
+
+5. Train Yard : pendant la defense des explosifs, vise les fenetres de la
+   salle situee sous la plateforme haute, tout a droite.
+6. Steel Beast Bridge : cote Piers, apres le tir sur le reservoir, vise la
+   poutre haute au-dessus du camion, a droite.
+7. City Hall Foyer : passe sous les escaliers et regarde derriere le
+   comptoir, sur le mur entre les peintures.
+8. City Hall Patient Room : dans l'alcove droite, au-dessus de l'armoire
+   metallique pres de l'herbe.
+
+Chapitre 3
+
+9. Poisawan entrance : apres la grille rouge et l'aire de jeu, traverse vers
+   la gauche et vise le haut de la caisse derriere la rambarde.
+10. Poisawan living quarters : apres l'helicoptere, entre dans la chambre et
+    regarde la partie basse de la couchette.
+11. Stilt Housing / Banquet : dehors au second etage, vise le poteau de la
+    premiere maison sur pilotis, pres de la grue.
+12. Main Thoroughfare / Parking : pendant la poursuite, monte au second
+    niveau et vise la fenetre haute du bus.
+
+Chapitre 4
+
+13. Rear Hangar : entre dans le cockpit du gros transporteur et vise derriere
+    le siege gauche.
+14. Aircraft Carrier exterior : vise la tour du bateau lointain au-dessus de
+    la lumiere. Un sniper rend le tir fiable.
+15. Bridge stairway : apres l'abaissement de l'echelle par la valve, passe
+    sous le premier escalier et vise a gauche des deux boites noires.
+16. Carrier top / Airspace : avec Piers, apres le premier conteneur rouge,
+    vise le pneu a droite pres des poutres, avant le second blocage.
+
+Chapitre 5
+
+17. Underwater Facility / Cargo Bay : apres le conduit d'air, descends
+    l'echelle de gauche et tire a travers le ventilateur vers le tuyau.
+18. Command Center : apres avoir nettoye la salle, reviens vers les portes
+    d'entree et vise le haut du mur a droite du trou.
+19. Emergency Escape Tunnel 1 : apres la chute et la remontee, regarde entre
+    les deux tuyaux, a gauche et en bas, pres de la cloison.
+20. Escape Corridor : avant le troisieme mur de Chrysalid, vise le long
+    luminaire situe au fond, sur la droite.
+
+JAKE - EMBLEMES 1 A 20
+
+Chapitre 1
+
+1. Sewer / Battlefield Path 1 : dehors au depart, prends le chemin gauche et
+   vise au-dessus de l'embrasure.
+2. Sewers / Mountain Path : apres le poteau, vise le sommet de la tour
+   metallique a droite de l'echelle brisee.
+3. Water Channel / Men's Restroom : avec Sherry, apres la propulsion par le
+   toit, retourne la camera vers la droite du trou. Jake peut lancer une
+   grenade flash vers le haut.
+4. Underground Passage / Ruins : apres le couloir de mannequins et l'echelle,
+   vise le batiment en face, au-dessus de la porte.
+
+Chapitre 2
+
+5. Mountain Path centre : inspecte le siege de l'operateur de grue pres du
+   dispositif de memoire FOS A.
+6. Mountain Path sommet : contourne la cabane et vise le sommet de la tour
+   situee derriere ou a gauche.
+7. Snowmobile / avalanche : reste a droite pres de l'entree de la grotte et
+   attends que la motoneige casse le passage.
+8. Mining Cave 3 : vise le cylindre au-dessus de l'alcove face aux escaliers,
+   puis active vite la valve et la porte.
+
+Chapitre 3
+
+9. Detention Center / surveillance : dans le hall des cameras, vise les
+   casiers avec l'arme de surveillance. C'est la seule facon de le toucher.
+10. Living Quarters / storage : cherche l'etagere centrale a droite, entre
+    les caisses.
+11. Research Facility / Statue Room : laisse le tank detruire la statue
+    centrale et vise l'embleme dans les debris.
+12. Pagoda / garbage : entre dans l'eau peu profonde a droite des escaliers
+    et longe le mur jusqu'a l'embleme bas.
+
+Chapitre 4
+
+13. City / highway motorcycle : avec Sherry, vise le panneau en hauteur a
+    gauche au moment ou le camion-citerne apparait.
+14. Poisawan shopping alley : derriere la voiture rouge et blanche renversee,
+    vise le pare-brise de la voiture blanche.
+15. Shopping District second street : passe derriere les grosses caisses a
+    gauche du bus renverse. L'embleme est bas.
+16. Couloir vers l'echelle rouge : passe par le trou dans les caisses de
+    droite et vise la plateforme du fond.
+
+Chapitre 5
+
+17. Underwater Facility / holding : apres avoir recupere les armes, retourne
+    dans la cellule et vise le tuyau haut a droite du conduit d'air.
+18. Underwater Facility / Room F : apres la batterie, brise la vitrine et
+    vise l'etagere du milieu a gauche.
+19. Maintenance / lave : dans le premier combat sur la passerelle, vise le
+    bas de la colonne metallique entre les caisses de droite.
+20. Shipping Center : apres le passage au corps a corps, vise pres de la
+    rambarde droite du premier couloir.
+
+ADA - EMBLEMES 1 A 20
+
+Chapitre 1
+
+1. Submarine armory : apres le couloir de discretion, monte et vise au-dessus
+   du premier meuble a droite.
+2. Submarine reactor : apres la salle de couchettes et le PDA, vise l'arriere
+   gauche du pilier metallique pres de la caisse.
+3. Reactor / wind tunnel : apres la troisieme echelle, choisis le conduit
+   gauche et vise le mur a droite, pres de la lumiere orange.
+4. Torpedo Room / control : franchis la porte vers la salle a manger, puis
+   retourne la camera vers les tuyaux bas.
+
+Chapitre 2
+
+5. Forest Cemetery : derriere la cathedrale, vise la tombe du milieu dans le
+   groupe de trois a droite.
+6. Crypt altar entrance : apres les trois crests et la descente, vise le haut
+   du pilier situe sur le mur du fond.
+7. Underground lab holding : apres l'ascenseur, vise au-dessus des caisses
+   tout a gauche, pres de la rambarde d'eau.
+8. Underground lab water chamber : apres la seconde porte Napad et la chute,
+   retourne-toi et vise le mur derriere dans l'eau peu profonde.
+
+Chapitre 3
+
+9. Poisawan Market Street : apres le grappin et l'aire de jeu, vise les liens
+   suspendus du dernier stand a droite.
+10. Blocked Street : regarde les stands verts puis l'encoche circulaire a
+    gauche du barrage rouge.
+11. Shopping District bus : apres le combat, vise le cote du batiment distant
+    pres du poteau en bois, au bord du chemin de bambou.
+12. Railroad / apartment : apres le grappin, vise derriere la caisse qui
+    bloque l'escalier, sur la droite.
+
+Chapitre 4
+
+13. Bridge / corridor : apres le premier projecteur et le grappin, longe la
+    rambarde a gauche, en face de la grande caisse.
+14. Bridge locker room : apres la trappe, ouvre ou vise le troisieme casier
+    a gauche.
+15. Carrier lower entrance : apres la rencontre avec Carla, descends par la
+    trappe et vise derriere le pilier metallique gauche.
+16. Carrier corridor : apres la valve et les spores, cherche l'alcove derriere
+    les armoires, pres de l'herbe rouge.
+
+Chapitre 5
+
+17. High-rise street / helicopter : vise l'arriere du camion jaune pres de la
+    cabine, en revenant de la droite.
+18. Streets of Tatchi : vise sous le batiment bleu, pres de l'enseigne
+    chinoise blanche a droite.
+19. Quad Tower second rooftop : descends vers le toit bas de gauche avec les
+    lucarnes, a cote des civils.
+20. Quad Tower heliport : utilise le grappin sur la poutre jaune et regarde
+    vers le bas de la structure couverte a gauche.
+
+FIGURINES, FICHIERS ET EXTRA CONTENT
+
+- Chaque campagne contient 20 fichiers lies aux 20 emblemes et 10 figurines.
+- Les quatre emblemes d'un chapitre debloquent la figurine de ce chapitre.
+- Les groupes par colonne debloquent les figurines transversales. Les quatre
+  colonnes sont 1/5/9/13/17, 2/6/10/14/18, 3/7/11/15/19 et 4/8/12/16/20.
+- Les 20 emblemes d'une campagne debloquent sa dixieme figurine.
+- Three ACTION Figures demande seulement trois figurines pour le succes,
+  mais le 100 % catalogue vise les 40.
+- Quand un embleme semble tire mais que la figurine ne se debloque pas,
+  retourne dans Records et verifie le numero de chapitre. Un tir non confirme
+  ne compte pas.
+
+ARMES ET WEAPONS MASTER
+
+Weapons Master demande dix eliminations avec chacune des 25 armes suivies par
+le Record. Le RPG, les tourelles et les armes qui ne possedent pas de fiche
+de suivi ne sont pas a inclure dans ce calcul. Consulte Records / Weapons
+apres chaque session et utilise les checkpoints courts plutot que de compter
+de memoire.
+
+1. Nine-Oh-Nine (909) : Chris ou Jake.
+2. Picador : Helena.
+3. Wing Shooter : Leon.
+4. Shotgun : Leon, Helena, Jake ou Sherry.
+5. Assault Shotgun : Chris, Piers ou Ada.
+6. Hydra : Helena.
+7. Lightning Hawk : Leon ou Helena.
+8. Elephant Killer : Jake ou Sherry.
+9. Sniper Rifle : Jake, Sherry ou Ada.
+10. Semi-Automatic SR : Leon, Helena, Chris ou Piers.
+11. Anti-Materiel Rifle : Piers.
+12. Ammo Box 50 : Ada.
+13. Triple Shot : Sherry.
+14. MP-AF : Piers.
+15. Assault Rifle for Special Tactics : Chris.
+16. Bear Commander : Jake, Sherry ou Ada.
+17. Assault Rifle RN : Leon ou Helena.
+18. Grenade Launcher : Chris ou Piers.
+19. Hand Grenade.
+20. Incendiary Grenade.
+21. Remote Bomb.
+22. Crossbow : Ada.
+23. Survival Knife : Leon.
+24. Combat Knife : Chris.
+25. Stun Rod : Sherry.
+
+Methode rapide
+
+- Equipe une arme et reste sur un checkpoint contenant plusieurs ennemis.
+- Tue avec cette arme, laisse le checkpoint se recharger, puis repete.
+- Pour les grenades, les bombes et la matraque, attends la validation du
+  Record avant de quitter.
+- Pour Hydra, fais des quick shots sur des ennemis peu resistants. Une simple
+  elimination au tir normal ne remplace pas l'attaque quick shot demandee.
+
+COMPETENCES ET MAD SKILLZ
+
+Mad Skillz demande de maximiser toutes les competences qui proposent des
+niveaux. Les competences uniques sans niveau ne sont pas a monter pour ce
+succes. Les noms peuvent varier legerement selon la langue du menu ; le
+principe reste le meme : achete chaque niveau jusqu'a ce que le bouton de
+niveau suivant disparaisse.
+
+Familles a niveaux a controler
+
+- Firearm niveau 1 a 3.
+- Melee niveau 1 a 3.
+- Defense niveau 1 a 3.
+- Lock-On niveau 1 a 3.
+- Rock Steady niveau 1 a 3.
+- Critical Hit niveau 1 a 3.
+- Piercing niveau 1 a 3.
+- J'avo Killer, tous les niveaux disponibles.
+- Zombie Hunter, tous les niveaux disponibles.
+- Combat Gauge Boost, tous les niveaux disponibles.
+- Recovery, tous les niveaux disponibles.
+- Field Medic, tous les niveaux disponibles.
+
+Ordre de farming
+
+- Garde les points de competence obtenus pendant les campagnes et ne les
+  depense pas dans chaque competence unique tant que les familles a niveaux
+  ne sont pas remplies.
+- Les chapitres Leon 2, Chris 1-2 et Jake 2 contiennent des groupes utiles
+  pour gagner des points sans mode online.
+- Mercenaries est plus rapide pour les points et les medals quand tu maitrises
+  une carte, mais les campagnes suffisent avec plusieurs runs.
+- Le menu Skills est l'unique verification fiable. Le succes tombe lorsque
+  le dernier niveau eligible est achete.
+
+MEDAILLES ET TITRES
+
+- Covered in Brass demande 150 medailles distinctes. Il ne suffit pas de
+  repeter une meme medaille : chaque nom doit etre different dans Records.
+- Commence par les medailles de chapitres, emblemes, armes, counters,
+  attaques furtives, coups de grace, sauvetages et difficultes.
+- Complete ensuite les records de Mercenaries et les objectifs online. Les
+  medailles de campagne et de mode annexe alimentent le meme catalogue.
+- Titular Achievement demande dix titres differents. Ouvre Dog Tags / Titles
+  et change de titre pour verifier les noms debloques ; dix niveaux d'un seul
+  titre ne suffisent pas.
+- Pour Rising Up, vise un titre de niveau 4 en cumulant des records sur les
+  campagnes et les modes. Le niveau n'est pas une difficulte de campagne.
+
+DOG TAGS
+
+- Ouvre Play Game / Dog Tags.
+- Modifie au moins un element de personnalisation et valide le changement.
+- Le succes Check Out My Dogs tombe apres la validation, pas uniquement a
+  l'ouverture du menu.
+- Profite de ce menu pour equiper un titre puis verifier les dix titres.
+
+SUCCES DE COMBAT ET D'ACTION
+
+Zombie Massacre
+
+- 500 zombies. Le compteur est cumulatif. Les campagnes Leon et Ada le font
+  progresser naturellement ; le cimetiere de Leon chapitre 2 permet un
+  farming simple par checkpoint.
+
+J'avo Genocide
+
+- 500 J'avo. Les campagnes Chris et Jake sont les plus rentables. Ne confonds
+  pas les ennemis issus de cocons avec tous les J'avo du compteur.
+
+Silent Killer
+
+- Cinq eliminations par attaque furtive. Approche un ennemi de dos, attends
+  l'invite, puis valide l'attaque sans tirer avant.
+
+Down, Not Out
+
+- Active Lone Wolf. Laisse ton personnage entrer en etat DYING, elimine un
+  ennemi pendant cet etat, puis reste en vie jusqu'a la recuperation sans
+  aide de l'IA ou d'un joueur.
+
+Finish What You Start
+
+- Mets dix ennemis a genoux puis execute-les avec le coup de grace. Le compteur
+  doit progresser dans Records ; une elimination par balle ne compte pas.
+
+Bob and Weave
+
+- Contre trois attaques consecutives. Le cimetiere de Leon chapitre 2 est
+  recommande : espace ouvert, ennemis lents et checkpoint proche.
+
+Give a Little Push
+
+- Pousse dix ennemis depuis une hauteur. Les escaliers et passerelles de Chris
+  chapitre 1 permettent de combiner ce succes avec les attaques furtives.
+
+B.O.W.s Are Ugly
+
+- Elimine 100 ennemis sortis d'un cocon. Laisse les cocons se transformer,
+  puis tue l'ennemi apparu. Les morts ordinaires ne font pas monter ce
+  compteur.
+
+Bring the Heat
+
+- Chris chapitre 2, controle Piers, fusil Anti-Materiel avec lunette
+  thermique, tir a la tete a plus de 50 metres. La distance et la lunette
+  sont obligatoires.
+
+Flying Ace
+
+- Chris chapitre 4, sequence VTOL. Detruis les menaces avant qu'elles ne
+  touchent l'appareil. Si l'etat de l'appareil devient endommage, recharge le
+  checkpoint.
+
+Hard Choice
+
+- Jake chapitre 4, Elephant Killer, pilote vise a bout portant pendant la
+  descente de l'helicoptere. Ne laisse pas la sequence se fermer avant le tir.
+
+Stuntman
+
+- Hydra, quick shot, 20 ennemis. Helena peut utiliser l'Hydra ; fais un
+  checkpoint de farming et confirme le compteur dans Records.
+
+High Voltage
+
+- Sherry, attaque chargee de la matraque electrique, dix ennemis. Maintiens
+  la charge jusqu'a l'etat electrique avant de frapper.
+
+Sneaking Around
+
+- Ada chapitre 4, passerelle du porte-avions. Utilise les carreaux non
+  explosifs, evite les projecteurs et glisse au second. Au moindre signal,
+  recharge le checkpoint.
+
+I Prefer Them Alive
+
+- Leon chapitre 2, sauve deux survivantes dans la cathedrale. Joue en Amateur,
+  equipe une arme forte et elimine rapidement les menaces autour d'elles.
+
+DIFFICULTES ET ORDRE DES RUNS
+
+Amateur / Normal / Veteran / Professional
+
+- Chaque succes exige la completion de l'ensemble du jeu au niveau indique.
+  Pour une validation propre, traite les 20 chapitres, y compris Ada, comme
+  une run complete au meme niveau.
+- La Selection de chapitre est utile pour verifier un chapitre manquant,
+  mais ne melange pas plusieurs niveaux dans la meme run de validation.
+- Fais d'abord une run de nettoyage en Amateur ou Normal avec les 80 emblemes,
+  les actions manquables et les 25 armes.
+- Fais ensuite Veteran, puis Professional, en gardant les emblemes deja
+  valides. Les points de competence et les armes ameliorees rendent ces runs
+  beaucoup plus stables.
+- Pour Professional, gere les soins, abuse des couvertures et utilise les
+  checkpoints. Une action technique ratee vaut mieux qu'une mort suivie d'une
+  perte de progression.
+- Verifie apres le dernier chapitre de chaque niveau que le succes est tombe.
+  Si ce n'est pas le cas, consulte Records et rejoue uniquement le chapitre
+  signale comme incomplet, puis termine la suite jusqu'au resultat.
+
+MODES ANNEXES ET ONLINE
+
+Les 70 succes Steam incluent les modes competitifs. Ils sont faisables avec
+des partenaires, mais leur validation depend du service online, du nombre de
+joueurs et du mode selectionne. Organise une session de boost plutot que de
+compter sur un matchmaking aleatoire.
+
+Mercenaries / No Mercy
+
+- Termine plusieurs cartes avec un personnage fiable et apprends les points
+  de temps. Le mode sert aux medailles, aux points de competence et au
+  nettoyage du catalogue.
+- No Mercy ajoute une densite d'ennemis plus forte. Il n'est pas necessaire
+  pour remplacer les chapitres de campagne, mais il est inclus dans le
+  perimetre de contenu du 100 %.
+
+Onslaught
+
+- Killer Combo : monte une chaine de 30 ennemis.
+- Surrounded on All Sides : envoie 2 000 ennemis sur la carte adverse.
+- You Are S.O.L. : elimine dix fois l'adversaire avec des ennemis que tu lui
+  as envoyes.
+- Take the Stage : bats ton adversaire et gagne en trois stages.
+- Kill or Be Killed : gagne alors que ton personnage est en etat DYING.
+- Le plus efficace est une session a deux avec alternance des kills et des
+  envois. Regle la communication avant de lancer la partie.
+
+Survivors
+
+- Staying Alive : reviens dans la partie en personnage humain.
+- Team Effort : gagne sans qu'un membre de ton equipe soit tue.
+- Last Man Standing--Again : gagne cinq parties consecutives.
+- Take 'Em All Down : elimine 100 agents.
+- Kung Fu Fighting : survis jusqu'a la fin en n'utilisant que les attaques
+  physiques.
+- Le succes de cinq victoires consecutives demande une session stable : ne
+  change pas de salon entre deux victoires.
+
+Predator
+
+- Not without a Fight : bats Ustanak 20 fois.
+- Invincible : bats Ustanak sans qu'un membre de l'equipe soit capture.
+- Held Captive : bats Ustanak avec un seul Agent encore en vie.
+- Easy Pickings : avec Ustanak, capture ou elimine tous les joueurs en moins
+  d'une minute.
+- One Is Never Enough : avec Ustanak, capture 50 humains au total.
+- Murder Spree : bats la BSAA en creature sans mourir une fois.
+- Protect and Serve : protege la BSAA sans qu'aucun membre ne soit blesse.
+- Two Sides of the Same Coin : gagne dix parties.
+- Everybody Dies : bats 100 agents controles par des joueurs et 100 creatures
+  controlees par des joueurs.
+
+Siege
+
+- Civilian Casualties : bats la BSAA 100 fois. Une session de deux joueurs sur
+  la carte Catacombs est une methode de boost rapide et controlee.
+- Coordonne le role de chaque joueur, garde les civils en vue et verifie la
+  progression apres chaque partie.
+
+Agent Hunt
+
+- Active le mode dans les options online et laisse la recherche autoriser les
+  agents externes. Ce mode ne remplace pas les succes Predator, Siege,
+  Survivors ou Onslaught, mais il fait partie du contenu a verifier pour un
+  100 % de jeu et non seulement de profil.
+- Si le service ne trouve personne, utilise une session privee, un ami ou
+  Remote Play plutot que de supposer que le succes est impossible.
+
+TABLEAU DES 70 SUCCES - CONDITIONS DE VALIDATION
+
+Cette section reprend chaque condition avec une methode courte. Le parcours
+detaille plus haut explique les endroits et les reprises ; cette liste sert
+de controle avant la checklist Steam finale.
+
+1. The Longest Night : termine le Prologue / tutoriel.
+2. One Is Better Than None : achete une competence.
+3. Gone to Hell : termine Leon chapitre 1.
+4. Buried Secrets : termine Leon chapitre 2.
+5. Lifesaver : aide ou sauve ton partenaire dix fois.
+6. Get on the Plane : termine Leon chapitre 3.
+7. Big Trouble in China : termine Leon chapitre 4.
+8. Zombie Massacre : elimine 500 zombies.
+9. The Trouble with Women : termine Leon chapitre 5.
+10. Silent Killer : realise cinq attaques furtives.
+11. Rescue the Hostages : termine Chris chapitre 1.
+12. Titular Achievement : obtiens dix titres differents.
+13. Tragedy in Europe : termine Chris chapitre 2.
+14. Money Talks : termine Jake chapitre 1.
+15. Down, Not Out : elimine un ennemi en etat DYING puis recupere sans aide.
+16. Finish What You Start : realise dix coups de grace.
+17. After Her! : termine Chris chapitre 3.
+18. There's Always Hope : termine Chris chapitre 4.
+19. A Revolting Development : termine Jake chapitre 2.
+20. Let's Blow This Joint : termine Jake chapitre 3.
+21. Check Out My Dogs : personnalise tes dog tags.
+22. J'avo Genocide : elimine 500 J'avo.
+23. Duty Calls : termine Chris chapitre 5.
+24. Still on the Run : termine Jake chapitre 4.
+25. I Spy : termine Ada chapitre 1.
+26. See You Around : termine Jake chapitre 5.
+27. Counterintelligence : termine Ada chapitre 2.
+28. Rising Up : obtiens un titre de niveau 4.
+29. This Takes Me Back : termine Ada chapitre 3.
+30. Ada's Demise : termine Ada chapitre 4.
+31. What's Next? : termine Ada chapitre 5.
+32. I Prefer Them Alive : sauve deux survivantes dans la cathedrale.
+33. Green around the Ears : termine l'ensemble du jeu en Amateur.
+34. Normal Is Good : termine l'ensemble du jeu en Normal.
+35. Bob and Weave : contre trois attaques de suite.
+36. Flying Ace : pilote le VTOL sans l'endommager.
+37. B.O.W.s Are Ugly : elimine 100 ennemis sortis d'un cocon.
+38. Give a Little Push : pousse dix ennemis depuis une hauteur.
+39. They're ACTION Figures! : collecte trois figurines.
+40. Bring the Heat : tir a la tete a plus de 50 metres avec lunette thermique.
+41. Covered in Brass : obtiens 150 medailles differentes.
+42. Mad Skillz : monte tous les niveaux de competences eligible au maximum.
+43. Back in My Day : termine l'ensemble du jeu en Veteran.
+44. Hard Choice : tire le pilote a bout portant avec un Magnum.
+45. Stuntman : elimine 20 ennemis avec Hydra en quick shot.
+46. Leave It to the Pro : termine l'ensemble du jeu en Professional.
+47. High Voltage : elimine dix ennemis avec la charge de la matraque.
+48. Sneaking Around : traverse le pont du porte-avions sans etre repere.
+49. Weapons Master : utilise toutes les armes suivies et tue dix ennemis avec
+    chacune.
+50. Heirlooms : collecte tous les emblemes de serpent.
+51. Easy Pickings : avec Ustanak, elimine tous les joueurs en moins d'une
+    minute.
+52. Killer Combo : realise une chaine de 30.
+53. Staying Alive : reviens dans la partie en humain.
+54. Team Effort : gagne sans membre d'equipe tue.
+55. Invincible : bats Ustanak sans capture d'un membre.
+56. Held Captive : bats Ustanak avec un seul Agent restant.
+57. Murder Spree : bats la BSAA en creature sans mourir.
+58. Take the Stage : bats l'adversaire et gagne en trois stages.
+59. Kill or Be Killed : gagne en etat DYING.
+60. Last Man Standing--Again : gagne cinq fois de suite.
+61. Kung Fu Fighting : survis en n'utilisant que les attaques physiques.
+62. Protect and Serve : protege la BSAA sans blessure.
+63. Surrounded on All Sides : envoie 2 000 ennemis sur la carte adverse.
+64. You Are S.O.L. : bats l'adversaire dix fois avec les ennemis envoyes.
+65. Take 'Em All Down : elimine 100 agents.
+66. Not without a Fight : bats Ustanak 20 fois.
+67. One Is Never Enough : capture 50 humains avec Ustanak.
+68. Two Sides of the Same Coin : gagne dix fois.
+69. Everybody Dies : elimine 100 agents joueurs et 100 creatures joueurs.
+70. Civilian Casualties : bats la BSAA 100 fois en Siege.
+
+ROUTE DE NETTOYAGE FINALE
+
+1. Termine les quatre campagnes dans l'ordre chronologique, en prenant les
+   80 emblemes et les actions manquables indiquees.
+2. Ouvre Records et complete les 25 lignes d'armes, les familles de
+   competences a niveaux, les titres et les medailles faciles.
+3. Termine les campagnes aux quatre difficultes. Pour une validation fiable,
+   garde les 20 chapitres d'une difficulte dans le meme cycle.
+4. Termine Mercenaries / No Mercy et utilise ses medailles pour atteindre 150
+   medailles distinctes si la campagne seule ne suffit pas.
+5. Organise les sessions Onslaught, Survivors, Predator et Siege. Note les
+   victoires, kills, captures et envois de chaque mode.
+6. Recharge les chapitres courts pour les compteurs restants : zombies,
+   J'avo, cocons, armes, coups de grace et projections.
+7. Ouvre Steam, puis le menu Records en jeu. Les deux compteurs doivent
+   confirmer 70 succes et 80 emblemes.
+
+CHECKLIST FINALE - 70 SUCCES STEAM
+
+[ ] The Longest Night — Prologue termine.
+[ ] One Is Better Than None — une competence achetee.
+[ ] Gone to Hell — Leon chapitre 1.
+[ ] Buried Secrets — Leon chapitre 2.
+[ ] Lifesaver — dix aides ou sauvetages du partenaire.
+[ ] Get on the Plane — Leon chapitre 3.
+[ ] Big Trouble in China — Leon chapitre 4.
+[ ] Zombie Massacre — 500 zombies.
+[ ] The Trouble with Women — Leon chapitre 5.
+[ ] Silent Killer — cinq attaques furtives.
+[ ] Rescue the Hostages — Chris chapitre 1.
+[ ] Titular Achievement — dix titres differents.
+[ ] Tragedy in Europe — Chris chapitre 2.
+[ ] Money Talks — Jake chapitre 1.
+[ ] Down, Not Out — ennemi elimine en DYING puis recuperation sans aide.
+[ ] Finish What You Start — dix coups de grace.
+[ ] After Her! — Chris chapitre 3.
+[ ] There's Always Hope — Chris chapitre 4.
+[ ] A Revolting Development — Jake chapitre 2.
+[ ] Let's Blow This Joint — Jake chapitre 3.
+[ ] Check Out My Dogs — dog tags personnalises.
+[ ] J'avo Genocide — 500 J'avo.
+[ ] Duty Calls — Chris chapitre 5.
+[ ] Still on the Run — Jake chapitre 4.
+[ ] I Spy — Ada chapitre 1.
+[ ] See You Around — Jake chapitre 5.
+[ ] Counterintelligence — Ada chapitre 2.
+[ ] Rising Up — titre de niveau 4.
+[ ] This Takes Me Back — Ada chapitre 3.
+[ ] Ada's Demise — Ada chapitre 4.
+[ ] What's Next? — Ada chapitre 5.
+[ ] I Prefer Them Alive — deux survivantes sauvees.
+[ ] Green around the Ears — jeu complet en Amateur.
+[ ] Normal Is Good — jeu complet en Normal.
+[ ] Bob and Weave — trois contres consecutifs.
+[ ] Flying Ace — VTOL preserve.
+[ ] B.O.W.s Are Ugly — 100 ennemis sortis d'un cocon.
+[ ] Give a Little Push — dix ennemis pousses d'une hauteur.
+[ ] They're ACTION Figures! — trois figurines.
+[ ] Bring the Heat — tir thermique a la tete a plus de 50 metres.
+[ ] Covered in Brass — 150 medailles distinctes.
+[ ] Mad Skillz — niveaux de competences eligibles au maximum.
+[ ] Back in My Day — jeu complet en Veteran.
+[ ] Hard Choice — pilote touche au Magnum a bout portant.
+[ ] Stuntman — 20 kills Hydra en quick shot.
+[ ] Leave It to the Pro — jeu complet en Professional.
+[ ] High Voltage — dix charges de matraque.
+[ ] Sneaking Around — pont du porte-avions sans alerte.
+[ ] Weapons Master — 25 armes, dix eliminations chacune.
+[ ] Heirlooms — 80 emblemes de serpent.
+[ ] Easy Pickings — tous les joueurs en moins d'une minute avec Ustanak.
+[ ] Killer Combo — chaine de 30.
+[ ] Staying Alive — retour en humain.
+[ ] Team Effort — victoire sans membre tue.
+[ ] Invincible — Ustanak sans capture.
+[ ] Held Captive — Ustanak avec un seul Agent restant.
+[ ] Murder Spree — BSAA battue en creature sans mourir.
+[ ] Take the Stage — victoire en trois stages.
+[ ] Kill or Be Killed — victoire en DYING.
+[ ] Last Man Standing--Again — cinq victoires consecutives.
+[ ] Kung Fu Fighting — survie aux seules attaques physiques.
+[ ] Protect and Serve — BSAA protegee sans blessure.
+[ ] Surrounded on All Sides — 2 000 ennemis envoyes.
+[ ] You Are S.O.L. — dix victoires avec ennemis envoyes.
+[ ] Take 'Em All Down — 100 agents battus.
+[ ] Not without a Fight — Ustanak battu 20 fois.
+[ ] One Is Never Enough — 50 humains captures avec Ustanak.
+[ ] Two Sides of the Same Coin — dix victoires.
+[ ] Everybody Dies — 100 agents joueurs et 100 creatures joueurs.
+[ ] Civilian Casualties — BSAA battue 100 fois en Siege.
+
+VERIFICATION FINALE
+
+- Steam doit afficher 70/70 succes Resident Evil 6.
+- Records doit afficher 80/80 emblemes de serpent et les 40 figurines si le
+  catalogue est vise a 100 %.
+- Records / Weapons doit afficher dix eliminations pour chacune des 25 armes.
+- Skills doit ne plus proposer de niveau pour les familles eligibles.
+- Dog Tags / Titles doit confirmer dix titres et un titre de niveau 4.
+- Medals doit afficher au moins 150 noms distincts, pas 150 repetitions.
+- Les succes online doivent etre verifies dans le profil Steam apres la fin de
+  la session, car leur affichage peut etre retarde par le reseau.
+
+SOURCES DE CONTROLE
+
+- Steam achievements officiel : https://steamcommunity.com/stats/221040/achievements/
+- Guide des 80 emblemes : https://gamefaqs.gamespot.com/ps4/187186-resident-evil-6/faqs/65370
+- Emblemes par campagne : https://gamewith.net/resident-evil-6/article/show/12689
+- Guide de completion : https://www.powerpyx.com/guides/resident_evil_6.html
+- Informations Capcom sur les emblemes : https://game.capcom.com/residentevil/en/news_topics-201403141117.html
+- Manuel Capcom des competences : https://game.capcom.com/manual/bio6/en/page-45.html
+- Medailles et titres : https://gamefaqs.gamespot.com/ps3/605603-resident-evil-6/faqs/65827
+- Modes Predator et objectifs : https://gamefaqs.gamespot.com/pc/715414-resident-evil-6-predator-mode/achievements
+- Siege / Civilian Casualties : https://www.trueachievements.com/a214422/civilian-casualties-achievement
+- Ordre des campagnes : https://gamefaqs.gamespot.com/boards/605603-resident-evil-6/64179933
 
 REGLE ANTI-SPOILER
 
-Les campagnes et chapitres donnent seulement l'ordre de jeu. Les fins,
-morts, identites, boss et consequences ne sont pas decrits.
+La fiche ne donne que des reperes de progression, d'objets, de combats et de
+succes. Les fins, revelations, morts, identites et consequences ne sont pas
+decrites. Tu peux donc cocher chaque objectif sans perdre la decouverte du
+scenario.
