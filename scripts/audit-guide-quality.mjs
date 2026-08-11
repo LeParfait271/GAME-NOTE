@@ -18,17 +18,31 @@ const results = [];
 
 const count = (text, pattern) => (text.match(pattern) ?? []).length;
 const hasAny = (text, patterns) => patterns.some((pattern) => pattern.test(text));
-const checklistPattern = /^\s*(?:[-*]\s*)?\[\s*\]\s+.+$/gim;
 
 const finalChecklistCount = (text) => {
-  const headings = [
-    ...text.matchAll(/^(?:(?:#\s*)?.*(?:checklist|liste complète|liste complete).*)$/gim),
-  ];
-  if (headings.length === 0) return 0;
-  const start = headings.at(-1).index ?? 0;
-  const tail = text.slice(start);
-  const end = tail.search(/^(?:vérification|verification|sources|fin du guide)\b/im);
-  return count(end >= 0 ? tail.slice(0, end) : tail, checklistPattern);
+  const lines = text.split(/\r?\n/);
+  const starts = lines.reduce((indices, line, index) => {
+    const trimmed = line.trim();
+    const headingLike =
+      !/^[-*]/.test(trimmed) &&
+      (trimmed.startsWith("#") ||
+        /^\d+(?:\.\d+)*[.)]\s+/.test(trimmed) ||
+        trimmed === trimmed.toLocaleUpperCase("fr"));
+    if (headingLike && /(?:checklist|liste complète|liste complete)/i.test(trimmed)) {
+      indices.push(index);
+    }
+    return indices;
+  }, []);
+  if (starts.length === 0) return 0;
+  const start = starts.at(-1);
+  const endOffset = lines
+    .slice(start + 1)
+    .findIndex((line) => /^(?:vérification|verification|sources|fin du guide)\b/i.test(line.trim()));
+  const end = endOffset < 0 ? lines.length : start + 1 + endOffset;
+  return lines
+    .slice(start, end)
+    .filter((line) => /^\s*(?:[-*]\s*)?\[\s*\]\s+.+$/i.test(line))
+    .length;
 };
 
 for (const entry of active) {

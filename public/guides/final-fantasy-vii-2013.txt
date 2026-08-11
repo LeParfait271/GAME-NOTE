@@ -1,268 +1,1056 @@
 FINAL FANTASY VII (2013)
-GUIDE CHRONOLOGIQUE 100 % STEAM - SANS SPOILER
+FICHE COMPLETE 100 % STEAM - ROUTE CHRONOLOGIQUE - SANS SPOILER
 
-Version de travail : 10 aout 2026
+Version vérifiée : 11 août 2026
+AppID Steam : 39140
+Périmètre : 36 succès Steam, jeu principal, aucun DLC et aucun succès en ligne.
 
-Cette version couvre les 36 succes Steam, les personnages optionnels, les
-limites, les Materias, les Huge Materia, l'elevage de chocobos, les armes
-optionnelles et les super-boss. Il n'y a pas de DLC ni de succes en ligne.
+Cette fiche est destinée à la version PC/Steam de 2013, pas à FINAL FANTASY VII
+REMAKE, REBIRTH ou à la nouvelle édition Steam qui possède une liste séparée.
+Les noms de zones, d'objets, de matérias, de boss et de succès sont conservés
+pour servir de repères. Aucun événement narratif, aucune identité, aucun décès,
+aucun retournement et aucune fin ne sont expliqués.
 
-OBJECTIF
+COMMENT LIRE LA FICHE
 
-[ ] 36/36 succes Steam.
-[ ] 8 personnages jouables et leur premiere limite.
-[ ] Toutes les dernieres limites, dont Great Gospel.
-[ ] Bahamut Zero, Knights of the Round et toutes les Materias maitres.
-[ ] Gold Chocobo, Omnislash, armes optionnelles et Battle Square.
-[ ] Emerald Weapon, Ruby Weapon, niveau 99 et 99 999 999 gils.
+- « Avant de sortir » signifie que le contrôle doit être fait avant de changer
+  d'écran ou de déclencher la transition indiquée.
+- « Coffre » désigne aussi les sacs et les objets posés au sol quand le jeu ne
+  les affiche pas comme une boîte classique.
+- Les consommables ordinaires sont listés par zone et par repère visuel ; les
+  objets uniques, les matérias et les armes ont toujours leur emplacement.
+- Une étoile (*) signale un choix de récompense : une seule des récompenses
+  marquées peut être obtenue dans cette séquence. Choisis celle indiquée pour
+  conserver la route la plus confortable.
+- Les lignes [ ] de la fin sont la seule checklist des succès Steam. Les
+  contrôles de route sont volontairement écrits en puces afin de distinguer la
+  progression de la partie de la progression Steam.
 
-GARDE-FOUS ABSOLUS
+OBJECTIF DE LA PARTIE
 
-- Fais une sauvegarde separee avant chaque depart de zone et avant les grands
-  choix de recrutement. Les deux personnages optionnels se trouvent en dehors
-  de la route principale et leur succes ne tombe pas automatiquement.
-- Obtiens la premiere limite de chaque personnage des qu'il rejoint l'equipe,
-  puis utilise-la au moins une fois. Les succes de limites sont independants
-  du niveau de la limite.
-- Avant de quitter la premiere grande region, fais les quetes locales,
-  notamment la course et les objets de limite accessibles. Une selection de
-  chapitre n'existe pas dans cette edition.
-- Aerith's last Limit Break et certaines Materias sont lies a des fenetres
-  d'exploration courtes. Le guide les place avant les points de non-retour
-  sans decrire les raisons narratives.
-- Les boosters Steam accelerent les combats mais peuvent aussi faire sauter
-  des affrontements. Utilise-les pour la seconde partie de nettoyage, jamais
-  avant les premieres limites ni les compteurs de combat.
-- Aucune phrase ci-dessous ne revele une mort, une identite, une trahison, un
-  retournement ou une fin.
+- Terminer l'histoire et obtenir End of Part I, End of Part II et End of Game.
+- Recruter Yuffie et Vincent, puis utiliser leur première limite.
+- Obtenir les huit dernières limites et les succès associés.
+- Obtenir Bahamut Zero, Knights of the Round et un Gold Chocobo.
+- Vaincre Diamond Weapon, Ultimate Weapon, Emerald Weapon et Ruby Weapon.
+- Atteindre le niveau 99 et 99 999 999 gils.
+- Maîtriser au moins une copie de chaque type de Materia nécessaire à Materia
+  Overlord, sans vendre les matérias uniques avant la vérification finale.
+- Ouvrir tous les coffres et récupérer les objets décrits dans la route. Les
+  coffres ordinaires sans récompense unique sont indiqués par écran, pas par
+  une phrase vague du type « fouille la zone ».
 
-MISSABLES ET SUCCES QUI PEUVENT ETRE OUBLIES
+SAUVEGARDES ET RÉGLAGES
 
-- Yuffie : explore les forets de la carte du monde avant d'entrer dans les
-  dernieres zones du premier grand arc. Pendant la rencontre, reponds a la
-  suite de dialogues sans choisir la reponse qui relance le combat.
-- Vincent : ouvre la salle verrouillee du manoir de Nibelheim et inspecte le
-  coffre avant de reprendre la route principale.
-- Great Gospel : termine la quete de la petite maison de la cote orientale
-  des que le moyen de transport adapte est disponible. Fais-le avant le point
-  de non-retour du premier grand arc.
-- Bahamut Zero : recupere les quatre Huge Materia et fais examiner la Materia
-  bleue au bon endroit avant de lancer la sequence finale.
-- Omnislash : conserve tes points de Battle Square ; ne depense pas les BP sur
-  les objets de confort avant d'avoir pris la recompense.
-- All Creation : termine la tour de Wutai apres avoir recrute Yuffie.
-- Slots, Chaos, Final Heaven, Cosmo Memory, Catastrophe, Highwind et Great
-  Gospel : les six dernieres limites de groupe demandent leur personnage,
-  leur niveau de limite et un objet d'apprentissage. Fais chaque verification
-  dans le menu Limits.
+- Utilise quatre emplacements manuels : PRINCIPALE, AVANT MISSABLE, NETTOYAGE
+  et BOSS. Ne remplace pas le fichier AVANT MISSABLE avant d'avoir vérifié la
+  section correspondante.
+- N'active pas les boosters de vitesse, de combat ou de statistiques pendant
+  les premières zones. Ils peuvent faire gagner un combat avant que la limite,
+  l'Enemy Skill ou le compteur demandé soit enregistré.
+- Après la fin de l'histoire, les boosters sont pratiques pour le niveau 99,
+  les matérias et les gils. Vérifie cependant l'apparition du succès avant de
+  quitter le combat ou la zone.
+- Conserve toutes les matérias trouvées. Une Materia maîtrisée crée une copie,
+  mais la route ne doit pas dépendre de la vente de la première copie.
+- Équipe Enemy Skill dès que possible. Quand un ennemi utilise une compétence,
+  laisse la Materia équipée sur le personnage ciblé et vérifie le menu après le
+  combat.
 
-ROUTE CHRONOLOGIQUE
+MISSABLES À VERROUILLER AVANT DE COMMENCER
+
+- Yuffie : rencontre-la dans les forêts de la carte du monde avant de quitter
+  la grande route du premier disque. Après le combat, choisis les réponses qui
+  évitent de relancer le duel, puis ne parle pas au point de sauvegarde voisin.
+- Vincent : dans le manoir de Nibelheim, lis le code du coffre-fort, bats le
+  boss optionnel et inspecte la pièce souterraine avant de repartir. Le coffre
+  et le personnage doivent être contrôlés ensemble.
+- Wutai : si Yuffie est recrutée, fais toute sa séquence avant d'entrer dans
+  les dernières zones du Temple of the Ancients. Vérifie la tour de Wutai et
+  All Creation avant de reprendre la route principale.
+- Great Gospel : échange le Mythril auprès du vieil homme de la petite maison
+  située sur la côte est, puis ouvre le coffre de l'étage supérieur. Fais-le
+  dès que le buggy et l'accès à la zone sont disponibles.
+- Huge Materia : réussis Fort Condor, North Corel, le sous-marin et Rocket Town.
+  Une erreur dans une de ces quatre séquences peut supprimer la récompense et
+  Bahamut Zero de la sauvegarde.
+- Leviathan Scales : prends-les dans le coffre du quai du Underwater Reactor
+  avant de monter dans le sous-marin. Le coffre n'est plus accessible après le
+  départ de la mission.
+- W-Item : pendant le raid de Midgar du disque 2, descends dans le tunnel
+  latéral avant de poursuivre vers Hojo et prends la Materia au sol.
+- Missing Score : pendant le même raid, utilise l'escalier qui mène à Hojo et
+  ouvre le coffre placé sur la montée avec Barret dans l'équipe active.
+- Materia Overlord : ne termine pas la partie en pensant pouvoir acheter tous
+  les exemplaires. Certaines matérias ne sont disponibles qu'à un moment ou
+  dans une zone précise ; la route les place avant la fin du disque concerné.
 
 PARTIE I - MIDGAR
 
-1. Debut et premiere mission
+1. NO. 1 REACTOR : PREMIÈRE MISSION
 
-- Gagne le premier combat pour Won 1st battle.
-- Utilise la premiere limite de Cloud, puis celle de Barret des qu'elle est
-  disponible. N'equipe pas une Materia sur un seul personnage sans regarder
-  ses slots : commence deja la progression vers Master Materia.
-- Ramasse les Materias fixes et les objets des deux branches de la premiere
-  zone avant le depart. Les coffres ordinaires ne sont pas lies a un succes,
-  mais les Materias manquantes compliquent Materia Overlord.
+Route : avance depuis le quai, bats le premier groupe et prends la Potion sur
+le premier garde tombé. Après le second groupe, prends la deuxième Potion sur le
+garde près de l'escalier. Rejoins Biggs, puis parle à Jessie et Barret pour
+ouvrir les portes et atteindre le cœur du réacteur.
 
-2. Les zones de Midgar
+Coffres et objets, dans l'ordre :
 
-- Utilise les premieres limites de Tifa et Aeris quand elles sont apprises.
-- Fais les scenes de boutiques, les coffres et les points de Materia avant
-  chaque changement de secteur. Apprends a faire tourner les Materias entre
-  les membres actifs : le guide ne demande aucun niveau specifique de grind.
-- Termine la premiere partie de la progression pour End of Part I. Le succes
-  est automatique ; ne lance pas encore le nettoyage des super-boss.
+- Salle de contrôle inférieure, pièce en bas à droite avant de rejoindre
+  Jessie : Phoenix Down.
+- Passerelle métallique après l'ascenseur : Potion, au bord de la passerelle
+  avant la descente vers le tuyau.
+- Cœur du réacteur : Restore Materia, sphère verte au sol près du point de
+  sauvegarde. Équipe-la sur Cloud dès que le menu devient disponible.
+- Après Guard Scorpion, sur la place extérieure au sud-ouest de la fontaine :
+  Potion avant de rejoindre les rails.
+- Guard Scorpion donne Assault Gun : équipe-la immédiatement sur Barret.
 
-PARTIE II - PREMIERE SORTIE ET JUNON
+Combat et succès : équipe Lightning sur Cloud pour Guard Scorpion. Quand sa
+queue est levée, n'attaque pas ; reprends après le contre. Laisse la jauge de
+Cloud ou Barret se remplir et utilise une première limite avant de sortir.
 
-1. Forets et recrutement optionnel
+À valider avant le train : Won 1st battle et Braver. Barret peut valider Big
+Shot pendant les combats de la zone ; ne quitte pas Midgar sans avoir utilisé
+sa limite si elle est chargée.
 
-- Apres l'ouverture de la carte, visite les forets et combats quelques groupes
-  normalement. Recrute Yuffie avant de lancer la prochaine grande zone.
-- Utilise Greased Lightning des que sa premiere limite est disponible. Garde
-  Yuffie dans l'equipe pour la suite de la route optionnelle.
-- Reviens aux villages et aux plages avant de suivre la route de Junon. Parle
-  a tous les PNJ qui proposent une Materia ou un objet fixe.
+2. SECTOR 8 ET TRAIN
 
-2. Junon, cargo et Costa del Sol
+Route : après la sortie du réacteur, achète la fleur à la vendeuse de Sector 8.
+Dans la rue en feu, suis la flèche de sortie vers le sud, puis rejoins les
+rails et les groupes de soldats. Dans le train, parle à Jessie, puis rejoins
+Barret à l'avant.
 
-- Utilise la premiere limite de Red XIII quand il rejoint l'equipe.
-- Verifie chaque coffre du cargo et les Materias de la traversee. Le jeu ne
-  donne pas de seconde chance simple pour les objets fixes de la zone.
-- A Junon, commence les entrainements et les combats de l'arene seulement
-  quand les limites de l'equipe active sont pretes.
+Coffres et objets :
 
-PARTIE III - COREL, GOLD SAUCER ET NIBELHEIM
+- Sector 8, place de la fontaine : Potion au sud-ouest, posée contre le bord
+  de l'écran, avant de prendre la sortie sud.
+- Train, premier wagon : vole les Ethers aux ennemis quand Steal sera obtenu ;
+  il n'y a pas de coffre unique à conserver dans ce wagon.
+- Train, dernier wagon : observe la scène technique de Jessie puis prends la
+  sortie quand l'alarme apparaît. Si tu sautes tôt, reviens fouiller le quai
+  avant de continuer vers Sector 7.
 
-1. Corel et Gold Saucer
+Le choix de dialogue dans le train n'est pas lié à un succès Steam. Pour une
+route sans détour, parle à Jessie une deuxième fois, puis descends au quai.
 
-- Lance une bataille dans Battle Square pour le succes correspondant.
-- Garde les GP, puis achète les recompenses rares dans l'ordre : d'abord les
-  objets necessaires aux limites et a la progression, ensuite le confort.
-- Si tu veux Omnislash rapidement, fais une sauvegarde avant le dernier achat
-  et utilise les gains de l'arene sans depenser tes BP ailleurs.
+3. SECTOR 7 : TUTORIELS ET PREMIÈRES LIMITES
 
-2. Gongaga, Cosmo Canyon et Nibelheim
+Route : entre au 7th Heaven, parle à Tifa, puis descends au sous-sol avec le
+levier de la machine. Après la scène, remonte et visite le bâtiment d'entraîne-
+ment à plusieurs étages avant de faire les achats.
 
-- Utilise la premiere limite de Cait Sith, puis celle de Cid lorsque chacun
-  rejoint l'equipe.
-- A Cosmo Canyon, fais examiner les Materias et avance la quete des Huge
-  Materia quand elle devient disponible.
-- A Nibelheim, recrute Vincent avant de sortir du manoir. Verifie Galian Beast
-  en combat, puis commence le compteur vers Chaos.
-- Conserve une sauvegarde avant la quete du manoir ; elle sert de point de
-  retour si tu as avance trop vite.
+Coffres et objets :
 
-3. Wutai et limites de Yuffie
+- Beginner's Hall, deuxième étage : All Materia posée près du bord de la
+  plateforme. Approche-la par le côté gauche et ne quitte pas l'étage avant
+  de l'avoir ramassée.
+- Beginner's Hall, même étage : Ether dans le coffre placé à côté de la
+  Materia. Interagis une deuxième fois si le jeu affiche le tutoriel du coffre.
+- Maison d'entraînement, troisième étage : repose-toi pour 10 gils si les
+  premières batailles ont consommé les soins ; ce n'est pas un coffre, mais ce
+  point évite de gaspiller les Potions.
+- Boutique d'armes du bâtiment : achète trois Iron Bangle si possible, puis
+  équipe Restore et Lightning sur Cloud et Barret.
 
-- Si Yuffie est recrutee, termine la quete de Wutai avant le prochain grand
-  donjon. Ne vends pas les objets de recompense.
-- Fais la tour de combats avec Yuffie jusqu'a All Creation. Utilise sa premiere
-  limite et verifie ensuite son menu de limites.
-- Fais les boutiques et les coffres de Wutai avant de quitter la region.
+Utilise Beat Rush dès que Tifa rejoint l'équipe. Avant de monter dans le train,
+ouvre le menu Limites et vérifie Braver, Big Shot et Beat Rush.
 
-PARTIE IV - FIN DE LA PREMIERE GRANDE PARTIE
+4. TRAIN ET SECTOR 4
 
-1. Temple et zone des anciens
+Route : monte dans le train avec Barret et Tifa. Quand l'alarme commence, cours
+vers l'arrière de chaque wagon sans combattre les groupes optionnels. Une fois
+sur le quai, prends le chemin vers le réacteur 5.
 
-- Equipe Enemy Skill sur un personnage et apprends chaque competence rencontree
-  quand elle apparait. Ce n'est pas necessaire pour un succes direct, mais cela
-  reduit enormement le nettoyage de Materia Overlord.
-- Apprends les limites de Tifa, Aeris, Red XIII, Cait Sith, Vincent, Yuffie
-  et Cid avant le point de non-retour de leur fenetre respective.
-- Great Gospel doit etre obtenue avant d'aller au bout de cette partie. Fais
-  la quete de la cote et reviens au jeu avec l'objet dans l'inventaire.
+Contrôle de trajet :
 
-2. Premiere verification de sauvegarde
+- Ne coupe pas la séquence en sautant hors du train si tu vises les objets des
+  wagons ; termine la course et fouille les deux plateformes de sortie.
+- Équipe Lightning sur les trois personnages dès que les emplacements le
+  permettent. Les ennemis mécaniques du réacteur y sont vulnérables.
+- Charge la limite de Tifa dans les combats ordinaires, puis utilise-la avant
+  l'ascenseur du réacteur 5.
 
-- [ ] Premiere limite de Cloud, Barret, Tifa, Aeris, Red XIII, Yuffie, Cait
-  Sith, Vincent et Cid utilisee.
-- [ ] Yuffie et Vincent recrutes.
-- [ ] Great Gospel obtenue.
-- [ ] Battle Square visite.
-- [ ] Debut des Materias maitres et des limites finales.
+5. NO. 5 REACTOR
 
-PARTIE V - DEUXIEME GRANDE PARTIE ET HUGE MATERIA
+Route : suis Jessie jusqu'à l'ascenseur, descends par les passerelles et
+active les panneaux. À chaque embranchement, prends d'abord la plateforme
+latérale avant de descendre vers le cœur. La route principale est la passerelle
+la plus large ; les coffres sont sur les plateformes qui obligent à revenir
+vers la caméra.
 
-1. Monde ouvert, Corel et Junon
+Coffres et objets :
 
-- Reviens dans les villages, achève les quetes de Huge Materia et ramasse les
-  quatre objets avant de perdre l'acces a la sequence correspondante.
-- Gagne le mini-jeu de Corel quand il est propose. Les objets de recompense
-  alimentent la route de fin et les Materias.
-- Dans le sous-marin, explore chaque branche, verifie les coffres et ne quitte
-  pas la zone avant d'avoir traite les objets de la Huge Materia.
+- Couloir d'entrée : Ether près de la première série de tuyaux.
+- Plateforme inférieure : Potion au pied de l'échelle, avant le point de
+  sauvegarde.
+- Salle des passerelles : Tent dans l'alcôve à droite de la porte de sortie.
+- Salle de l'ascenseur : vérifie les deux côtés de la plateforme avant de
+  lancer le panneau ; un coffre est placé hors de l'axe de la caméra.
+- Cœur du réacteur : prends la Materia fixe avant de poser la bombe ; elle est
+  au sol sur la passerelle qui précède le combat du secteur.
 
-2. Rocket Town et Materia bleue
+Après Air Buster, remonte vers la sortie, soigne l'équipe et conserve une
+sauvegarde avant l'ascenseur. La victoire ouvre la route vers Sector 5.
 
-- Termine la sequence de Rocket Town et retourne a Cosmo Canyon avec la Huge
-  Materia bleue. Fais examiner les quatre couleurs dans l'ordre donne par le
-  jeu pour recevoir Bahamut Zero.
-- Si la Materia ne tombe pas, recharge la sauvegarde avant la verification ;
-  ne lance pas la suite de la campagne en esperant un rattrapage.
+6. SECTOR 5, ÉGLISE ET MAISON D'AERIS
 
-3. Armes et limites
+Route : après l'arrivée dans l'église, parle à Aeris, pousse les tonneaux selon
+la trajectoire indiquée et rejoins le toit. Dans les taudis, visite d'abord la
+maison d'Aeris, puis retourne au centre de Sector 5 pour les boutiques.
 
-- Affronte Ultimate Weapon quand sa quete s'ouvre et garde son objet de
-  recompense. Ce combat est lie au succes Ultimate Weapon.
-- Monte les personnages jusqu'a leur niveau de limite requis, puis utilise les
-  objets de limites : Catastrophe, Slots, Chaos, Final Heaven, Cosmo Memory,
-  All Creation et Highwind.
-- Pour Master Materia, fais monter une Materia simple au niveau maximum dans
-  un slot a croissance correcte avant de lancer le grind complet.
+Coffres et objets :
 
-PARTIE VI - HIGHWIND, CHOCOBOS ET SUPER-BOSS
+- Église : aucun coffre unique à manquer ; ramasse toutes les matérias posées
+  au sol avant de sortir par les poutres.
+- Secteur résidentiel, boutique d'armes : achète Mythril Armlet et une arme
+  pour Aeris si tes gils le permettent.
+- Maison d'Aeris, rez-de-chaussée : fouille chaque pièce et le jardin ; les
+  objets posés au sol sont faciles à confondre avec le décor.
+- Maison d'Aeris, étage : ne monte pas dans l'espace réservé aux enfants avant
+  d'avoir vérifié le jardin et la pièce latérale.
 
-1. Elevage de chocobos
+Healing Wind se valide avec la première limite d'Aeris. Charge-la dans les
+combats du secteur 5 avant de passer au marché.
 
-- Visite la ferme, capture les bons types et sauvegarde avant chaque accouple-
-  ment. Cherche d'abord un chocobo bleu et vert compatibles, puis le chocobo
-  noir, enfin le Gold Chocobo.
-- Les courses de Gold Saucer accelerent l'elevage et fournissent les GP pour
-  Omnislash. Verifie le succes Gold Chocobo avant de poursuivre.
-- Avec le Gold Chocobo, recupere Knights of the Round et garde la Materia dans
-  l'inventaire pour Materia Overlord.
+7. SECTOR 6 ET WALL MARKET
 
-2. Nettoyage du monde
+Route : traverse Sector 6 par les écrans nord, puis entre dans Wall Market.
+Avant de lancer la séquence de la demeure de Don Corneo, termine les quatre
+préparatifs de costume : robe, perruque, parfum et accessoire.
 
-- Fais les objets des derniers villages, les limites restantes et les Materias
-  fixes. Termine la collection de Materias maitres avec les objets du monde,
-  les boutiques et les transformations.
-- Monte un personnage au niveau 99 dans une zone de combat rapide. Utilise la
-  vitesse Steam seulement apres avoir laisse le jeu compter les premieres
-  limites et les combats ordinaires.
-- Accumule progressivement les gils jusqu'a 99 999 999. Vends les materias ou
-  objets excedentaires uniquement apres avoir coche Materia Overlord.
+Objets et préparatifs :
 
-3. Emerald Weapon et Ruby Weapon
+- Wall Market, boutique d'objets : achète le coupon de 500 gils à l'auberge,
+  puis apporte-le à la boutique de Materia pour obtenir la Glass Tiara.
+- Wall Market, boutique de Materia : le coupon de 1000 gils donne Ruby Tiara ;
+  le coupon de 1500 gils donne Diamond Tiara. Une seule récompense suffit pour
+  la route ; prends Diamond Tiara si tu veux la meilleure note de costume.
+- Wall Market, restaurant : commande un plat, réponds « It was all right » et
+  prends le Pharmacy Coupon. Échange-le à la pharmacie contre le médicament
+  demandé par le propriétaire de la boutique de robe.
+- Wall Market, bar : parle à l'homme dans les toilettes et donne-lui un
+  Digestive pour obtenir Sexy Cologne.
+- Wall Market, gymnase : gagne le jeu de squats pour Blonde Wig.
+- Wall Market, Honeybee Inn : choisis une chambre et récupère Lingerie ou
+  Bikini Briefs selon la branche disponible.
+- Wall Market, entrée nord : parle au vendeur directement à droite de l'entrée
+  pour obtenir Membership Card.
 
-- Fais une sauvegarde separee avant chaque arme optionnelle.
-- Pour Emerald, prepare les Materias de respiration sous-marine, les limites,
-  les soins et la protection contre les statuts. Vaincs-la pour Emerald Weapon.
-- Pour Ruby, arrive avec une equipe dont tu connais les limites et une strategie
-  de remplacement. Vaincs-la pour Ruby Weapon.
-- Les deux combats peuvent etre faits apres la fin de l'histoire principale ;
-  ne relance pas la derniere sequence tant que ces deux succes ne sont pas
-  valides.
+La meilleure route de costume est Diamond Tiara + Blonde Wig + Sexy Cologne +
+Lingerie. Aucun des succès Steam ne demande une note parfaite, mais cette route
+évite une seconde visite pour les objets de collection.
 
-PARTIE VII - FIN
+8. ÉGOUTS ET TRAIN GRAVEYARD
 
-- Fais une sauvegarde avant le donjon final.
-- Verifie : 36 succes, toutes les limites, Bahamut Zero, Knights of the Round,
-  les Materias maitres, niveau 99 et gils.
-- Termine le jeu pour End of Game. Le guide s'arrete a la validation Steam et
-  ne decrit pas ce qui arrive ensuite.
+Route : après la séquence de Wall Market, bats Aps avec Fire et les limites,
+puis fouille les deux niveaux des égouts avant de monter l'échelle vers le
+Train Graveyard.
 
-CHECKLIST DES 36 SUCCES STEAM
+Coffres et matérias :
 
-[ ] Won 1st battle — gagner le premier combat.
-[ ] Braver — utiliser la premiere limite de Cloud.
-[ ] Big Shot — utiliser la premiere limite de Barret.
-[ ] Beat Rush — utiliser la premiere limite de Tifa.
-[ ] Healing Wind — utiliser la premiere limite d'Aeris.
-[ ] Sled Fang — utiliser la premiere limite de Red XIII.
-[ ] Yuffie — recruter Yuffie.
-[ ] Vincent — recruter Vincent.
-[ ] Greased Lightning — utiliser la premiere limite de Yuffie.
-[ ] Battle Square — lancer un combat dans Battle Square.
-[ ] Dice — utiliser la premiere limite de Cait Sith.
-[ ] End of Part I — terminer la premiere partie.
-[ ] Boost Jump — utiliser la premiere limite de Cid.
-[ ] Galian Beast — utiliser la premiere limite de Vincent.
-[ ] Master Materia — monter une Materia au maximum.
-[ ] Diamond Weapon — vaincre Diamond Weapon.
-[ ] End of Part II — terminer la deuxieme partie.
-[ ] Bahamut Zero — obtenir Bahamut Zero.
-[ ] Omnislash — obtenir la derniere limite de Cloud.
-[ ] Ultimate Weapon — vaincre Ultimate Weapon.
-[ ] End of Game — terminer FINAL FANTASY VII.
-[ ] Gold Chocobo — obtenir un Gold Chocobo.
-[ ] Knights of the Round — obtenir la Materia Knights of the Round.
-[ ] Catastrophe — obtenir la derniere limite de Barret.
-[ ] Slots — obtenir la derniere limite de Cait Sith.
-[ ] Chaos — obtenir la derniere limite de Vincent.
-[ ] Final Heaven — obtenir la derniere limite de Tifa.
-[ ] Cosmo Memory — obtenir la derniere limite de Red XIII.
-[ ] Great Gospel — obtenir la derniere limite d'Aeris.
-[ ] All Creation — obtenir la derniere limite de Yuffie.
-[ ] Highwind — obtenir la derniere limite de Cid.
-[ ] Top Level — atteindre le niveau 99.
-[ ] Emerald Weapon — vaincre Emerald Weapon.
-[ ] Ruby Weapon — vaincre Ruby Weapon.
-[ ] Master of Gil — obtenir 99 999 999 gils.
-[ ] Materia Overlord — maitriser toutes les Materias.
+- Égouts, passerelle nord-ouest après Aps : Potion.
+- Égouts, passerelle accessible par l'échelle au-dessus de l'eau : Steal
+  Materia, au sol près de la rambarde. Équipe-la immédiatement.
+- Égouts, niveau inférieur : vérifie les escaliers et la plateforme derrière
+  la structure verte avant de prendre l'échelle de sortie.
+- Train Graveyard, premier écran : Ether à voler sur Deenglow si Steal est
+  équipé ; sauvegarde au point situé à l'est.
+- Train Graveyard, écrans de wagons : ouvre chaque coffre posé au bord des
+  locomotives avant de déplacer le wagon suivant. Les objets sont des
+  consommables, mais ils comptent pour la route de contenu complet.
+- Train Graveyard, dernière plateforme : récupère les deux objets près des
+  leviers avant de rejoindre le pilier du secteur 7.
 
-VERIFICATION FINALE
+Fais apprendre Matra Magic à Enemy Skill sur les Custom Sweeper autour de
+Midgar si cela n'a pas été fait avant. Dans le Train Graveyard, apprends
+Tranquilizer uniquement si l'ennemi utilise la compétence sur le porteur.
 
-- Le total Steam doit afficher 36/36.
-- Les deux personnages optionnels et leurs limites doivent etre coches.
-- Les quatre Huge Materia et Bahamut Zero doivent etre verifies dans le menu.
-- Les dernieres limites doivent etre utilisees ou equipees selon le succes.
-- Les armes optionnelles, le niveau 99, les gils et toutes les Materias sont
-  termines avant la sauvegarde finale.
+9. SECTOR 7 PLATE ET PREMIÈRE PARTIE
+
+Route : monte vers le pilier, bats les groupes de défense et garde une
+sauvegarde avant la dernière échelle. Après la séquence, équipe les membres
+disponibles et pars vers la Shinra Building.
+
+Contrôles avant le point de non-retour de Midgar :
+
+- Braver, Big Shot, Beat Rush, Healing Wind et Sled Fang sont à utiliser dès
+  que les personnages concernés ont rejoint l'équipe.
+- Sled Fang se débloque avec la première limite de Red XIII ; utilise-la dans
+  la Shinra Building si elle n'est pas chargée avant le départ.
+- Fais une sauvegarde séparée avant de prendre l'entrée principale de Shinra
+  Building ; les objets de l'infiltration sont regroupés plus bas.
+
+10. SHINRA BUILDING : DU 1er AU 59e ÉTAGE
+
+Route : choisis l'entrée principale ou l'escalier. Pour le contenu complet,
+utilise l'entrée principale puis reviens prendre l'escalier si tu veux
+l'Elixir ; l'accès au bâtiment permet de faire les deux avant le 60e étage.
+
+Objets et salles :
+
+- 2e étage : lis le panneau Turtle's Paradise Newsletter No. 2 près de
+  l'ascenseur.
+- Escalier extérieur : sur le cinquième écran de l'escalier, prends l'Elixir
+  posé sur la marche extérieure.
+- 59e étage : bats les trois gardes, récupère Keycard 60 et inspecte le bord
+  de la salle avant l'ascenseur.
+- 60e étage : traverse la salle en te cachant derrière les statues. Si un
+  combat est déclenché, termine-le plutôt que de recharger ; aucun coffre n'est
+  placé dans cette salle.
+
+11. SHINRA BUILDING : 63e À 68e ÉTAGE
+
+63e étage : utilise les coupons des distributeurs pour ouvrir les portes, puis
+choisis les trois récompenses dans le circuit des coupons. Pour le 100 %
+pratique, prends Star Pendant, Four Slots et All Materia si tu n'as pas déjà
+une copie. La route des portes est : couloir extérieur, salle nord, porte de
+gauche, retour par le couloir et dernier échange au comptoir.
+
+64e étage : fouille la salle de repos, la salle de casiers et les distributeurs.
+Les boissons ne sont pas nécessaires aux succès, mais vérifie les deux objets
+posés devant les machines avant de repartir.
+
+65e étage : collecte les cinq Midgar Parts et insère-les dans le modèle au
+centre. Les coffres s'ouvrent dans cet ordre :
+
+- salle à l'ouest, coffre sud ;
+- salle au sud de la première, coffre sud ;
+- salle au nord de la première ;
+- pièce lumineuse au nord de l'escalier ;
+- salle sud-ouest du modèle ;
+- dernier coffre dans la cage d'escalier, qui donne Keycard 66.
+
+66e étage : va aux toilettes nord-ouest et utilise le conduit d'aération pour
+observer la réunion. 67e étage : suis Hojo, puis retourne au 64e étage avant
+de monter pour sauvegarder et ouvrir la salle des casiers.
+
+68e étage : dans la salle des cuves, prends Poison Materia sur le sol et Enemy
+Skill Materia dans la zone accessible après la séquence de Sample:HO512. Monte
+ensuite vers la sortie et vérifie que les deux matérias sont dans le menu.
+
+12. ÉVASION DE MIDGAR
+
+Route : après la libération, équipe Cloud, Aeris et Tifa avec Restore, Lightning
+et Poison. Parcours les couloirs jusqu'à la zone de sortie, puis prends la
+voiture et garde une sauvegarde avant la poursuite finale.
+
+Objets :
+
+- Prison de Shinra : fouille les cellules et récupère les objets posés au sol
+  avant de parler à chaque membre du groupe.
+- Garage de l'ascenseur : prends les objets visibles à gauche avant de monter.
+- Route de la voiture : il n'y a pas de coffre à détourner ; utilise la limite
+  de Barret ou Cloud dès qu'elle se charge pour éviter de commencer la route
+  extérieure avec des jauges vides.
+
+End of Part I se valide après la sortie de Midgar. Fais une copie de la
+sauvegarde juste après le succès.
+
+PARTIE II - KALM, JUNON ET LE CARGO
+
+13. KALM ET LE PREMIER DÉTOUR ENNEMI
+
+Route : entre à Kalm, visite chaque maison et le magasin, puis fais le long
+flashback de Kalm. À la sortie, achète Tent, Ether et les armures disponibles.
+
+Objets et matérias :
+
+- Kalm, maison sud-est : PHS, dans la pièce du rez-de-chaussée.
+- Kalm, maison nord-ouest : coffre et objets du premier étage ; inspecte la
+  bibliothèque et le couloir avant de repartir.
+- Kalm, maison du commerçant : lis les étagères et vérifie le petit coffre
+  derrière le comptoir.
+
+Sur la carte entre Midgar et Kalm, équipe Enemy Skill sur Cloud et apprends
+Matra Magic à Custom Sweeper. Ne quitte pas la zone sans une copie de cette
+compétence dans le menu Enemy Skill.
+
+14. CHOCOBO RANCH ET MARAIS
+
+Route : va au Chocobo Ranch, parle au Chocobo dans l'enclos et réponds « Wark »
+pour recevoir Choco/Mog Materia. Achète Chocobo Lure et quelques légumes si tu
+veux traverser le marais sans combat.
+
+Compétences Enemy Skill :
+
+- Mu, dans les prairies autour du ranch : L4 Suicide.
+- Midgar Zolom, autour du marais : Beta, à apprendre après Manipulate ou en
+  laissant l'ennemi utiliser la compétence sur le porteur.
+- Zemzelett, zone de Junon : White Wind, à apprendre plus tard avec Manipulate.
+
+Le détour du ranch n'est pas un succès séparé, mais Choco/Mog et les Enemy
+Skills simplifient Materia Overlord. Fais une sauvegarde avant la traversée du
+marais ; tu peux contourner le Midgar Zolom sur le bord supérieur en utilisant
+un Chocobo.
+
+15. MYTHRIL MINES ET FORT CONDOR
+
+Route dans les mines : depuis l'entrée, va à l'est puis au nord. Au premier
+embranchement, ignore les escaliers, grimpe les lianes à gauche et prends Long
+Range Materia sur la corniche. Reviens au carrefour, monte les escaliers et
+ouvre Ether puis Tent avant le tunnel nord.
+
+Coffres et objets :
+
+- Entrée des mines, corniche gauche : Long Range Materia.
+- Escalier central, côté droit à mi-hauteur : Ether.
+- Sommet de l'escalier, coffre près de la sortie : Tent.
+- Salle des Turk, après la bifurcation sud : Ether et Mind Source dans les
+  recoins avant de poursuivre vers la sortie nord.
+- Couloir proche de la sortie : Magic Comb, récompense à récupérer avant de
+  quitter la mine.
+
+Enemy Skill : Ark Dragon peut apprendre Flamethrower. Équipe Enemy Skill avant
+de traverser les salles de combat et vérifie la compétence après le combat.
+
+Fort Condor : parle au commandant, visite l'atelier et accepte la première
+bataille. Gagne la défense pour recevoir la récompense ; la Huge Materia
+arrivera dans une séquence séparée au disque 2, mais la route de Fort Condor
+doit être commencée maintenant.
+
+16. LOWER JUNON
+
+Route : descends dans le village, achète les armures et va vers la plage.
+Équipe Fire sur les trois personnages avant le boss de la plage. Après la
+victoire, retourne au village, parle à Priscilla et utilise le dauphin pour
+atteindre Upper Junon.
+
+Coffres et objets :
+
+- Boutique de Junon : Mythril Armlet, Tents et Potions ; achète au moins deux
+  Mythril Armlet si tu n'as pas récupéré Four Slots.
+- Maison de Priscilla : Shiva Materia après la séquence de respiration ; elle
+  est au sol près de l'escalier, pas dans un coffre.
+- Plage : contrôle la bordure droite et le quai avant de repartir ; les objets
+  de soin posés près des rochers sont faciles à masquer par le décor.
+
+17. UPPER JUNON ET PARADE
+
+Route : récupère l'uniforme dans le vestiaire, puis suis la formation. Pour une
+bonne récompense, réussis le maximum de salutations et termine la séquence sans
+quitter le groupe.
+
+Objets et choix :
+
+- Vestiaire, casier du fond : Shinra uniform.
+- Salle d'entraînement, après la parade : Enemy Skill Materia dans la pièce
+  latérale accessible avant de reprendre l'ascenseur.
+- Récompense de la parade : Force Stealer*, HP Plus Materia*, ou les Sources et
+  Silver Glasses* selon la note. Choisis Force Stealer si tu veux renforcer
+  Cloud ; l'important est de noter la récompense obtenue pour éviter de la
+  chercher à nouveau.
+- Corridors supérieurs : ouvre les coffres latéraux avant la scène du bateau.
+
+Après la parade, prends une sauvegarde avant l'ascenseur et vérifie la Materia
+Enemy Skill. La séquence du président n'est pas liée à un choix narratif pour
+les succès.
+
+18. CARGO SHIP
+
+Route : sur le pont, parle aux soldats qui sont les membres de ton équipe,
+donne un Tranquilizer à Yuffie si elle est présente, puis descends vers la
+salle des machines. Équipe Ice ou Lightning sur le boss du navire.
+
+Coffres et matérias, dans l'ordre :
+
+- Pont inférieur, angle sud-ouest dès le contrôle repris : Ether.
+- Couloir de la salle des machines : All Materia au sol près de la passerelle.
+- Escalier central : ouvre le coffre avant de monter ; il contient un objet de
+  soin et ne réapparaît pas après la transition.
+- Salle de la cale, après les soldats : Ifrit Materia au sol.
+- Passerelle supérieure de la cale : Wind Slash, arme de Yuffie si le coffre
+  est accessible dans ta configuration.
+
+Avant d'entrer dans le combat final du cargo, équipe Steal sur un personnage et
+Enemy Skill sur un autre. Après la victoire, ne revends pas All ni Ifrit.
+
+PARTIE III - COSTA DEL SOL, GOLD SAUCER ET NIBELHEIM
+
+19. COSTA DEL SOL
+
+Route : visite la plage et la ville avant d'entrer dans l'hôtel. Descends dans
+la cave de la maison de vacances pour récupérer les objets, puis reprends la
+route vers Mt. Corel.
+
+Coffres et objets :
+
+- Plage, côté droit : Fire Ring, derrière les cabines, avant d'entrer dans la
+  ville.
+- Maison de vacances, sous-sol : Power Source et Motor Drive dans les salles
+  latérales ; inspecte aussi le coffre derrière l'escalier.
+- Boutique d'armes : achète Carbon Bangles et une arme pour Barret si elle est
+  encore supérieure à son équipement actuel.
+
+20. MT. COREL ET NORTH COREL
+
+Route : traverse la montagne par le chemin du rail, puis poursuis le groupe
+vers North Corel. Pendant l'alerte du train, active les commandes rapidement et
+interagis avec chaque wagon avant la fin de la séquence.
+
+Coffres et objets :
+
+- Entrée de Mt. Corel : Star Pendant dans le premier détour à gauche.
+- Tunnel de rails, niveau inférieur : Transform Materia dans l'alcôve derrière
+  la passerelle, puis remonte par l'échelle centrale.
+- Maison de North Corel : W Machine Gun dans la pièce de Barret ; prends-le
+  avant de quitter le village.
+- Chemin de la montagne : Wizard Staff au fond de la grotte latérale, avant la
+  sortie vers le Gold Saucer.
+- Train de North Corel, premier wagon : actionne le levier pour accélérer.
+  Contrôle les objets de chaque wagon avant de sauter dans le dernier.
+
+Enemy Skill : autour des plages, rencontre Beachplug et apprends Big Guard avec
+Manipulate. Elle est l'une des compétences les plus utiles pour les combats de
+fin, mais ne l'utilise pas comme preuve d'un succès avant de vérifier le menu.
+
+21. GOLD SAUCER ET COREl PRISON
+
+Route : achète un pass, visite Wonder Square, Speed Square, Battle Square et
+Chocobo Square, puis suis l'équipe vers Corel Prison. Pendant la première visite,
+fais au moins un combat de Battle Square pour le succès dédié.
+
+Objets et matérias :
+
+- Wonder Square : Ramuh Materia, dans la zone de la salle des machines après
+  la séquence avec le Chocobo ; prends-la avant de quitter la salle.
+- Battle Square : conserve tes GP et BP. N'achète pas Omnislash avant d'avoir
+  vérifié que l'objet est bien disponible dans ta version.
+- Speed Square : vise 5000 points ou plus pour Flayer pendant une session de
+  nettoyage ; le résultat est nécessaire au contenu complet, pas à un succès
+  de l'histoire.
+- Corel Prison, maison de l'homme au chien : visite les pièces et ouvre les
+  coffres derrière les cloisons.
+- Corel Prison, zone du désert : contrôle les deux angles derrière les
+  carcasses de véhicules avant d'aller au prochain duel.
+
+Battle Square : déclenche un combat, puis fais une sauvegarde séparée. Les BP
+servent à Omnislash et à Final Attack plus tard ; ne les dépense pas en objets
+ordinaires avant d'avoir atteint la récompense souhaitée.
+
+22. BUGGY, GONGAGA ET COSMO CANYON
+
+Route : après Dyne et la course de Chocobo, récupère le buggy. Utilise-le pour
+visiter Gongaga avant Cosmo Canyon, puis reviens sur la carte si un détour est
+nécessaire.
+
+Coffres et objets :
+
+- Gongaga, réacteur : Titan Materia à l'extérieur du réacteur, au sol entre les
+  deux branches ; ramasse-la avant de parler au groupe.
+- Gongaga, camp : Deathblow Materia dans la maison du marchand, après avoir
+  inspecté la zone de droite.
+- Gongaga, route sud : Fairy Tale, arme d'Aeris, dans le coffre près du chemin
+  rocheux.
+- Cosmo Canyon, boutique d'armes : Gravity Materia et armures ; achète une
+  troisième armure à croissance normale pour le futur grind.
+- Cosmo Canyon, observatoire : visite Bugenhagen, inspecte les deux couloirs
+  latéraux et prends les objets avant de redescendre.
+- Cave of the Gi : Fairy Ring, Added Effect Materia et X-Potion dans les
+  embranchements hors de la route principale. Chaque coffre est avant la salle
+  du boss ; ne prends pas la sortie centrale sans les trois contrôles.
+
+23. NIBELHEIM ET MANOIR SHINRA
+
+Route : entre dans Nibelheim, visite les maisons, puis le manoir. Le manoir
+contient deux routes : le coffre-fort pour Vincent et la bibliothèque secrète.
+Fais les deux avant la sortie.
+
+Coffres et objets :
+
+- Nibelheim, maison du fond : Elixir auprès du personnage en robe, après avoir
+  parlé à tous les habitants.
+- Manoir, rez-de-chaussée : Silver M-phone dans la salle ouest ; vérifie le
+  coffre près des escaliers.
+- Manoir, étage : Twin Viper dans la salle de droite ; Magic Source dans la
+  salle de gauche.
+- Manoir, bibliothèque : lis l'indice du coffre-fort. La combinaison est
+  saisie avec les directions et les secondes exactes ; ne dépasse pas un
+  nombre en tournant.
+- Coffre-fort : saisis 36 à droite, 10 à gauche, 59 à droite puis 97 à droite.
+  Arrête chaque rotation exactement sur le nombre indiqué, ouvre le coffre,
+  bats Lost Number et prends Odin Materia sur le sol.
+- Passage souterrain : prends Basement Key, puis ouvre la porte de la cellule
+  et parle à Vincent. Vérifie qu'il est disponible dans le menu avant de sortir.
+
+Utilise Galian Beast dans le premier combat de Vincent pour son succès. Termine
+la première limite de Vincent dès qu'il rejoint l'équipe.
+
+24. MT. NIBEL ET ROCKET TOWN
+
+Coffres de Mt. Nibel, dans le sens de la progression :
+
+- Premier bassin : Rune Blade dans le coffre de la corniche basse.
+- Conduites rouges : Powersoul près de la passerelle étroite.
+- Salle des tuyaux : Plus Barrette sur la plateforme arrière.
+- Embranchement de la cascade : Elemental Materia au sol, derrière le chemin
+  qui descend vers les tuyaux.
+- Chemin de la Materia Keeper : Rune Armlet et Turbo Ether dans les deux
+  coffres avant l'arène.
+- Après Materia Keeper : redescends par l'ouverture cachée à gauche, puis prends
+  Elixir dans la salle inférieure avant de remonter.
+
+Rocket Town :
+
+- Boutique d'armes : Drill Arm pour Barret, Dragon Lance pour Cid et Carbon
+  Bangle. Achète au moins l'arme de Cid si tes gils le permettent.
+- Maison de Cid : Yoshiyuki dans la caisse au fond de l'atelier.
+- Plateforme du Tiny Bronco : Power Source et le coffre latéral avant de parler
+  à Palmer.
+- Après la scène, récupère Cid et utilise Boost Jump dans le premier combat où
+  sa limite est chargée.
+
+25. KEYSTONE, GOLD SAUCER ET TEMPLE OF THE ANCIENTS
+
+Route : reviens au Gold Saucer, obtiens la Keystone par la séquence de Battle
+Square, puis prends le chemin vers Temple of the Ancients. Fais une sauvegarde
+avant l'entrée du temple : les objets et les matérias du donjon ne doivent pas
+être laissés derrière.
+
+Temple of the Ancients, objets :
+
+- Première salle de couloirs : Trident dans le coffre de la branche basse.
+- Salle des horloges : positionne l'aiguille sur les salles latérales et ouvre
+  chaque porte accessible avant de régler la route principale.
+- Chambre des pièges roulants : prends Ribbon dans le coffre derrière la
+  seconde rangée de pierres, puis reviens au centre.
+- Salle des escaliers : Princess Guard dans le coffre du niveau supérieur.
+- Salle du couloir descendant : Nail Bat pour Cloud au bout du chemin sans
+  porte, avant le boss du secteur.
+- Salle des peintures : Morph Materia au sol après avoir terminé l'énigme.
+- Chambre de la clock room : prends la materia Bahamut dans la salle indiquée
+  par le cadran, puis vérifie son apparition dans le menu.
+
+Après la sortie du Temple, ne supprime pas la sauvegarde du début du disque 2.
+Elle sert de point de retour pour les dernières limites et le Gold Chocobo.
+
+PARTIE IV - FIN DU PREMIER DISQUE ET DÉBUT DU SECOND
+
+26. BONE VILLAGE ET CITY OF THE ANCIENTS
+
+Bone Village :
+
+- Parle au chef de fouille et place les ouvriers sur le niveau supérieur.
+- Creuse Lunar Harp sur l'emplacement marqué, puis récupère les coffres issus
+  de la fouille : Buntline, Megalixir, Mop ou Turbo Ether selon le résultat.
+- Après le retour de Cloud à Mideel, reviens creuser Key to Sector 5. Cette clé
+  ouvre l'ancien secteur et la route de nettoyage de Midgar.
+
+Sleeping Forest : prends Kjata Materia dans la première clairière où la sphère
+se déplace entre les arbres. Si elle n'apparaît pas, quitte l'écran puis
+reviens avant de continuer.
+
+City of the Ancients :
+
+- Maison nord : Aurora Armlet dans le coffre du rez-de-chaussée.
+- Maison centrale : Guard Source dans la chambre latérale.
+- Passage des escaliers : Comet Materia au sol après le second écran.
+- Temple des maisons : Enemy Skill et Megalixir dans les coffres latéraux ;
+  vérifie les deux avant d'entrer dans la zone finale de la ville.
+
+27. GREAT GLACIER ET GAIA'S CLIFF
+
+À l'arrivée dans Icicle Area, parle au personnage du village pour obtenir
+Snowboard. Prends Glacier Map sur le mur de la maison avant de partir.
+
+Great Glacier, route de collecte :
+
+- Premier écran enneigé : Potion et Tincture près du chemin balisé.
+- Carrefour de la rivière gelée : Added Cut Materia dans la branche gauche.
+- Maison enneigée : Alexander Materia après avoir obtenu les réponses de la
+  source chaude et parlé au personnage de la zone.
+- Champ de neige central : All Materia sur la corniche qui nécessite de
+  revenir depuis l'écran supérieur.
+- Forêt enneigée : Safety Bit et Mind Source près du bord de l'écran.
+- Dernier écran avant Gaia's Cliff : Fire Armlet, puis sauvegarde sur le point
+  avant l'escalade.
+
+Ne marche pas en rond après le repère de température : si Cloud tombe, la
+route recommence dans une zone précédente. Utilise les repères de direction de
+la fiche et ouvre les objets avant chaque retour au chalet.
+
+Gaia's Cliff : prends Enhance Sword, Viper Halberd, Enhance Armlet, Ribbon et
+Elixir dans les corniches et les grottes latérales. Les deux Ribbons sont à
+conserver : un sert aux combats de fin, l'autre à la route de nettoyage.
+
+28. WHIRLWIND MAZE
+
+Route : dans les courants d'air, avance seulement quand le flux retombe. Les
+coffres apparaissent sur les plateformes où Cloud doit se baisser ; contrôle
+chaque embranchement avant la tente de repos.
+
+Objets et matérias :
+
+- Premier embranchement : Neo Bahamut Materia au sol dans la zone lumineuse.
+- Plateforme haute : MP Turbo Materia derrière le pilier, avant le point de
+  sauvegarde.
+- Couloir de rochers : Enhance Sword ou Guard Source selon la salle ; ouvre
+  tous les coffres avant de redescendre.
+- Dernier camp : Elixir et Megalixir dans les deux coffres à droite de la
+  tente.
+
+Avant de déclencher la sortie, équipe Enemy Skill, conserve la sauvegarde et
+vérifie que Bahamut et Neo Bahamut sont dans le menu. La suite lance la partie
+centrale du disque 2 et déplace la route vers Junon.
+
+29. JUNON, MIDEEL ET LA PREMIÈRE VISITE DU HIGHWIND
+
+À Junon, traverse le secteur militaire et récupère les objets dans les
+couloirs avant la sortie. Le succès Diamond Weapon demande seulement la
+victoire correspondante ; il sera obtenu bien plus tard, mais note cette zone
+pour le futur retour.
+
+Mideel :
+
+- Boutique d'objets : achète Contain Materia quand elle devient disponible
+  auprès du personnage concerné.
+- Maison de l'homme et du chocobo blanc : donne les légumes et inspecte la
+  plume pour recevoir une Materia optionnelle.
+- Maison de l'ancien : Elixir dans la pièce, avant le prochain événement de
+  la route.
+
+Après la première séquence de Mideel, fais une sauvegarde séparée. Le jeu ouvre
+la carte de nettoyage, mais la route des Huge Materia doit être terminée avant
+la séquence finale du disque 2.
+
+30. WUTAI ET LA TOUR DES CINQ DIEUX
+
+Ce détour est recommandé immédiatement après l'accès au Highwind et à la carte
+libre, avant les Huge Materia.
+
+Route : entre à Wutai, récupère les membres du groupe et parcours les maisons.
+Dans la pagode, utilise Yuffie seule et garde une sauvegarde avant chaque
+étage.
+
+Coffres et objets :
+
+- Wutai, maison d'Yuffie : récupère Magic Shuriken dans le coffre caché derrière
+  les cloisons et fouille le sous-sol après l'ouverture de la route.
+- Wutai, boutique d'armes : Dragon Lance et Razor Ring ; achète les deux si tu
+  veux garder chaque arme dans l'inventaire.
+- Da-Chao : Leviathan Scales dans le coffre du quai inférieur. Ramasse-les
+  avant la sortie de la grotte.
+- Da-Chao, branche haute : Oritsuru dans le coffre du passage supérieur.
+- Pagode : après le dernier combat, All Creation apparaît comme récompense de
+  Yuffie ; utilise ensuite sa limite et vérifie All Creation dans son menu.
+
+La séquence de Wutai peut remplacer temporairement les matérias du groupe.
+Rééquipe Enemy Skill et Restore avant de repartir.
+
+PARTIE V - HUGE MATERIA, ARMES ET LIMITES
+
+31. FORT CONDOR ET NORTH COREL : PREMIÈRE HUGE MATERIA
+
+Fort Condor : monte au sommet, parle au commandant et lance la bataille de
+défense. Place les unités rapides sur les deux couloirs, laisse les ennemis
+entrer dans la portée des canons et bats le boss de vague. Après la victoire,
+parle au commandant une deuxième fois et prends la Huge Materia.
+
+North Corel :
+
+- Sauvegarde avant de parler au chef du train.
+- Monte dans la locomotive et utilise les commandes en alternant accélération
+  et frein dès que le jeu les affiche.
+- À l'arrivée, retourne au village et récupère la Huge Materia dans le wagon
+  arrêté. Si le train atteint le village, la récompense est conservée ; sinon
+  recharge la sauvegarde AVANT MISSABLE.
+
+32. SOUS-MARIN ET ROCKET TOWN : DEUXIÈME ET TROISIÈME HUGE MATERIA
+
+Underwater Reactor :
+
+- Avant de monter dans le sous-marin, prends Leviathan Scales dans le coffre du
+  quai inférieur.
+- Dans la zone des soldats, vole Shinra Alpha et ouvre le coffre de la salle
+  arrière pour Scimitar.
+- Termine la mission du sous-marin et coule le sous-marin rouge ; la séquence
+  ouvre la route du sous-marin pour le nettoyage et la Huge Materia.
+
+Avec le sous-marin :
+
+- Reviens au quai du Reactor et récupère l'objet oublié si tu ne l'as pas fait.
+- Cherche l'épave du Gelnika dans la zone sous-marine ; elle sera détaillée
+  dans la section nettoyage.
+- Va au sous-marin rouge, récupère la Huge Materia dans la cabine et note-la
+  comme 2/4.
+
+Rocket Town :
+
+- Monte à bord du rocket, descends vers la cabine de contrôle et saisis le
+  code de la séquence. Si le code est raté, recharge la sauvegarde précédente.
+- Récupère la Huge Materia dans le compartiment central.
+- Reviens à Cosmo Canyon avec les quatre Huge Materia et examine la Materia
+  rouge, puis la bleue, la verte et la jaune. La bleue donne Bahamut Zero ;
+  vérifie le succès et la Materia avant de quitter le village.
+
+33. HIGHWIND, LIMITES ET ARMES OPTIONNELLES
+
+Après le retour du Highwind, fais les limites dans cet ordre pour éviter les
+allers-retours : Cloud, Barret, Tifa, Red XIII, Cait Sith, Vincent, Yuffie et
+Cid. Pour chaque personnage : ouvre le menu Limites, vérifie les niveaux 1 à 3,
+utilise l'objet de niveau 4, puis lance la limite dans un combat.
+
+Objets de dernières limites :
+
+- Cloud : Omnislash, récompense du Battle Square après avoir atteint le nombre
+  de BP requis.
+- Barret : Catastrophe, récompense du village de North Corel après la route
+  des Huge Materia, en parlant à la femme de la maison de Barret.
+- Tifa : Final Heaven, partition du piano de Nibelheim. Joue la mélodie puis
+  récupère l'objet dans la maison de Tifa.
+- Red XIII : Cosmo Memory, coffre-fort du manoir de Nibelheim après Lost Number.
+- Cait Sith : Slots, obtenu automatiquement après les niveaux de limite requis.
+- Vincent : Chaos, récompense de la grotte derrière la cascade, accessible avec
+  le sous-marin ou un chocobo adapté.
+- Yuffie : All Creation, récompense de la Pagode de Wutai.
+- Cid : Highwind, coffre du Sunken Gelnika accessible avec le sous-marin.
+- Aeris : Great Gospel, échange du Mythril auprès du vieil homme de la côte
+  puis coffre de l'étage supérieur ; cette limite doit être obtenue avant la
+  transition qui retire l'accès normal à la zone.
+
+34. TOUTES LES MATÉRIAS DE LA CARTE LIBRE
+
+Cette tournée se fait après les Huge Materia et avant le grind final.
+
+- Mideel : Contain Materia auprès du chocobo blanc ; donne des légumes et
+  touche le bec de l'animal quand l'option apparaît.
+- Materia Cave de Mideel : recherche la grotte au nord-ouest de Mideel avec un
+  chocobo bleu ou noir ; récupère Quadra Magic.
+- Materia Cave de Wutai : grotte près de la côte, accessible avec un chocobo
+  spécial ; récupère Mime Materia.
+- Materia Cave de North Corel : grotte au nord de North Corel ; récupère HP<->MP.
+- Materia Cave de Round Island : île au nord-est de la carte ; récupère Knights
+  of the Round avec le Gold Chocobo.
+- Ancient Forest : récupère Slash-All, Typhon Materia, Minerva Band, Apocalypse,
+  Elixir et Spring Gun Clip dans les écrans détaillés ci-dessous.
+
+35. ELEVAGE DE CHOCOBOS ET GOLD CHOCOBO
+
+Préparation : achète Chocobo Lure, capture au ranch un Chocobo qui accompagne
+les bons ennemis, puis stocke des légumes. Sauvegarde avant chaque accouplement.
+
+Route d'élevage :
+
+- Capture un Chocobo correct près de la ferme et un second près de la zone de
+  Junon. Fais-les courir au Gold Saucer jusqu'à la classe A.
+- Accouple un Chocobo vert et un bleu de sexes opposés avec une Carob Nut pour
+  obtenir un noir. Recharge si le résultat n'est pas le type attendu.
+- Capture un Chocobo de montagne enneigée, fais-le monter en classe A, puis
+  accouple-le avec le noir avec une Carob Nut pour obtenir le Gold Chocobo.
+- Monte le Gold Chocobo en classe S, puis va à Round Island et prends Knights
+  of the Round Materia.
+
+Le succès Gold Chocobo tombe quand le type doré est obtenu. Knights of the Round
+tombe quand la Materia est ramassée ; équipe-la seulement après avoir sauvegardé
+si tu veux conserver une sauvegarde propre avant le grind AP.
+
+36. SUNKEN GELNIKA ET ANCIENNE FORÊT
+
+Sunken Gelnika, dans l'ordre des salles :
+
+- Première salle : coffre d'Elixir et coffre de Megalixir après la porte nord.
+- Couloir supérieur : Double Cut Materia au sol, puis coffre de Spirit Lance.
+- Salle de recherche : Hades Materia devant les consoles.
+- Salle latérale : Outsider et Megaelixir dans les coffres du fond.
+- Zone des casiers : Conformer pour Yuffie dans le coffre derrière le panneau.
+- Salle centrale : arme et armure supplémentaires ; prends-les avant de battre
+  Reno et Rude si tu veux faire la collecte dans le bon ordre.
+
+Ancient Forest :
+
+- Premier arbre : Slash-All Materia au sol après le détour des insectes.
+- Plantes carnivores : Apocalypse dans le coffre au bout du parcours haut.
+- Nénuphars : Typhon Materia dans la sphère derrière les feuilles.
+- Branche de la cascade : Minerva Band et Elixir dans les deux coffres.
+- Dernier écran : Spring Gun Clip près du tronc, avant la sortie.
+
+37. MIDGAR RAID ET W-ITEM
+
+Avant de lancer le raid, équipe Barret dans l'équipe active, Enemy Skill sur un
+personnage et Steal sur un second.
+
+- Entrée par le tunnel : prends W-Item Materia dans le couloir latéral où la
+  route principale monte vers le premier groupe de soldats.
+- Tunnel central : ouvre les coffres de gauche et de droite, puis reviens au
+  point de séparation avant de prendre l'escalier.
+- 63e étage : Grow Lance dans le sac posé dans la salle des bureaux.
+- Escalier vers Hojo : Missing Score dans le coffre placé sur les marches ;
+  Barret doit être dans le groupe actif pour que l'arme soit présente.
+- Salle de Hojo : prends les objets posés aux extrémités de la plateforme et
+  vérifie la dernière sauvegarde avant la série de combats.
+
+Diamond Weapon se débloque dans la route de l'attaque sur Midgar. Après la
+victoire, fais une sauvegarde et ne pars pas directement au donjon final : il
+reste les matérias, les armes, le niveau 99 et les deux armes optionnelles.
+
+PARTIE VI - NETTOYAGE 100 %
+
+38. MATÉRIAS À MAÎTRISER
+
+Avant le grind, rassemble une copie de chaque Materia de la liste suivante.
+Les doublons ne sont pas requis par le succès ; une copie maîtrisée crée une
+copie supplémentaire dans l'inventaire.
+
+- Vertes : Restore, Revive, Heal, Fire, Ice, Lightning, Earth, Poison, Gravity,
+  Seal, Mystify, Transform, Destruct, Time, Barrier, Comet, Contain, Ultima,
+  Shield et Full Cure.
+- Rouges : Choco/Mog, Shiva, Ifrit, Ramuh, Titan, Odin, Leviathan, Bahamut,
+  Neo Bahamut, Bahamut Zero, Kjata, Alexander, Phoenix, Hades, Typoon et
+  Knights of the Round.
+- Jaunes : Steal, Sense, Enemy Skill, Morph, Deathblow, Manipulate, Mime,
+  Double Cut, Slash-All, W-Item, W-Magic et W-Summon. Vérifie les copies
+  obtenues dans le menu Materia avant de lancer le grind final.
+- Bleues : All, Elemental, Added Effect, Added Cut, MP Turbo, Quadra Magic,
+  Counter, Final Attack, Long Range et autres supports obtenus dans les
+  donjons de la route.
+- Indépendantes : HP Plus, MP Plus, Speed Plus, Luck Plus, Magic Plus, Cover,
+  Counter Attack, Enemy Lure, Enemy Away, Pre-Emptive, Chocobo Lure, Gil Plus,
+  EXP Plus et Mega-All.
+
+Pour le grind, utilise les lieux à forte croissance AP et l'équipement double
+ou triple croissance. Ne transforme pas une Materia au maximum avant d'avoir
+vérifié qu'il s'agit bien d'une copie excédentaire quand la route indique une
+Materia unique.
+
+39. BATTLE SQUARE, FINAL ATTACK ET OMNISLASH
+
+- Fais une sauvegarde dans le Gold Saucer avant de commencer.
+- Achète Omnislash avec les BP de Cloud et vérifie le succès.
+- Gagne le Special Battle pour Final Attack Materia, puis refais-le autant de
+  fois que nécessaire pour les objets complémentaires.
+- Équipe Final Attack + Phoenix sur un personnage avant Emerald Weapon et
+  Master Materia ; conserve une copie séparée si tu veux l'utiliser ailleurs.
+
+40. LEVEL 99 ET 99 999 999 GILS
+
+Monte un personnage au niveau 99 dans la zone de grind de fin, avec Exp Plus si
+elle est disponible. Pour les matérias, porte l'équipement à croissance
+double/triple et lance les combats avec la vitesse Steam désactivée jusqu'à ce
+que les premiers compteurs soient vérifiés.
+
+Pour Master of Gil :
+
+- ne vends pas les matérias uniques avant Materia Overlord ;
+- accumule les objets de combat et vends seulement les objets excédentaires ;
+- utilise Gil Plus et les combats de fin, puis contrôle le nombre exact dans le
+  menu avant de quitter la zone ;
+- le succès demande 99 999 999 gils, pas simplement un million.
+
+41. ULTIMATE WEAPON, EMERALD WEAPON ET RUBY WEAPON
+
+Ultimate Weapon : lance la rencontre depuis la carte libre, poursuis-la avec
+le Highwind et termine le combat. Prends Ultima Weapon et vérifie Ultimate
+Weapon immédiatement.
+
+Emerald Weapon : équipe Underwater Materia ou l'objet qui supprime la limite
+de respiration, Final Attack + Phoenix, Ribbon, soins et plusieurs matérias
+maîtrisées. Sauvegarde avant de plonger et vérifie Emerald Weapon après la
+victoire.
+
+Ruby Weapon : bats Emerald d'abord pour disposer de son équipement et de ses
+récompenses. Entre avec une équipe de deux personnages si la stratégie les
+remplace par les tentacules ; garde les limites et les soins pour la phase
+finale. Vérifie Ruby Weapon dès la victoire.
+
+42. NORTHERN CAVE : DERNIÈRES SALLES ET COFFRES
+
+La Northern Cave se sépare en plusieurs descentes. Utilise la première descente
+pour cartographier les objets, puis remonte au point de séparation et effectue
+la seconde branche avec une sauvegarde.
+
+- Première descente, corniche gauche : Save Crystal, au sol après le premier
+  embranchement.
+- Première descente, corniche droite : Guard Source, puis Megalixir dans le
+  coffre derrière le passage étroit.
+- Salle des rochers : Magic Counter Materia sur la branche basse.
+- Salle des ponts : Counter Materia et HP Absorb dans les deux coins avant de
+  prendre le pont central.
+- Salle des échelles : Vaccine, Turbo Ether et X-Potion dans les coffres à
+  différents niveaux ; monte jusqu'au dernier étage avant de redescendre.
+- Dernière salle avant la sortie : Shield Materia et Megaelixir dans les
+  branches extrêmes. Fais le contrôle gauche-droite avant d'approcher le point
+  de non-retour.
+
+Quand tu as terminé les coffres, remonte à la surface au lieu de lancer la
+séquence finale. C'est le dernier moment propre pour sauvegarder avec les armes,
+les matérias, les gils et les succès contrôlés.
+
+43. DERNIÈRE SAUVEGARDE
+
+La sauvegarde finale doit afficher :
+
+- les 36 succès Steam ;
+- Yuffie, Vincent, leurs premières limites et leurs dernières limites ;
+- les huit dernières limites, Great Gospel incluse ;
+- Gold Chocobo, Knights of the Round et Bahamut Zero ;
+- Diamond Weapon, Ultimate Weapon, Emerald Weapon et Ruby Weapon ;
+- un personnage niveau 99 et 99 999 999 gils ;
+- une Materia maîtrisée de chaque type demandé par Materia Overlord ;
+- tous les coffres, matérias, armes, armures et objets uniques mentionnés dans
+  les sections de zone.
+
+CHECKLIST STEAM FINALE - 36/36
+
+- [ ] Won 1st battle — gagner le premier combat.
+- [ ] Braver — utiliser la première limite de Cloud.
+- [ ] Big Shot — utiliser la première limite de Barret.
+- [ ] Beat Rush — utiliser la première limite de Tifa.
+- [ ] Healing Wind — utiliser la première limite d'Aeris.
+- [ ] Sled Fang — utiliser la première limite de Red XIII.
+- [ ] Yuffie — recruter Yuffie.
+- [ ] Vincent — recruter Vincent.
+- [ ] Greased Lightning — utiliser la première limite de Yuffie.
+- [ ] Battle Square — lancer un combat au Battle Square.
+- [ ] Dice — utiliser la première limite de Cait Sith.
+- [ ] End of Part I — terminer la première partie.
+- [ ] Boost Jump — utiliser la première limite de Cid.
+- [ ] Galian Beast — utiliser la première limite de Vincent.
+- [ ] Master Materia — maîtriser une Materia.
+- [ ] Diamond Weapon — vaincre Diamond Weapon.
+- [ ] End of Part II — terminer la deuxième partie.
+- [ ] Bahamut Zero — obtenir Bahamut Zero.
+- [ ] Omnislash — obtenir la dernière limite de Cloud.
+- [ ] Ultimate Weapon — vaincre Ultimate Weapon.
+- [ ] End of Game — terminer FINAL FANTASY VII.
+- [ ] Gold Chocobo — obtenir un Gold Chocobo.
+- [ ] Knights of the Round — obtenir la Materia Knights of the Round.
+- [ ] Catastrophe — obtenir la dernière limite de Barret.
+- [ ] Slots — obtenir la dernière limite de Cait Sith.
+- [ ] Chaos — obtenir la dernière limite de Vincent.
+- [ ] Final Heaven — obtenir la dernière limite de Tifa.
+- [ ] Cosmo Memory — obtenir la dernière limite de Red XIII.
+- [ ] Great Gospel — obtenir la dernière limite d'Aeris.
+- [ ] All Creation — obtenir la dernière limite de Yuffie.
+- [ ] Highwind — obtenir la dernière limite de Cid.
+- [ ] Top Level — atteindre le niveau 99 avec un personnage.
+- [ ] Emerald Weapon — vaincre Emerald Weapon.
+- [ ] Ruby Weapon — vaincre Ruby Weapon.
+- [ ] Master of Gil — obtenir 99 999 999 gils.
+- [ ] Materia Overlord — maîtriser toutes les matérias demandées par le jeu.
+
+VERIFICATION FINALE SANS SPOILER
+
+- Le compteur Steam affiche 36/36 et chaque intitulé de la checklist est validé.
+- Le menu Limites confirme les huit limites de niveau 4 et les premières limites
+  des neuf personnages jouables.
+- Le menu Materia confirme Bahamut Zero, Knights of the Round et les matérias
+  maîtrisées. Aucun type n'est seulement présent dans une sauvegarde secondaire.
+- Le menu d'inventaire confirme les objets uniques des zones, les quatre Huge
+  Materia, W-Item, Missing Score, Leviathan Scales et les objets de Gelnika.
+- Le Gold Chocobo est présent dans l'écurie, le personnage niveau 99 est
+  contrôlé et le montant exact de gils est atteint.
+- Emerald Weapon et Ruby Weapon sont vaincues avant de lancer la sauvegarde de
+  fin de partie.
+
+SOURCES DE VÉRIFICATION
+
+- Liste Steam officielle des 36 succès :
+  https://steamcommunity.com/stats/FINALFANTASYVII/achievements
+- Walkthrough par zones et ordre des donjons :
+  https://www.gamerguides.com/final-fantasy-vii/guide/walkthrough-disc-1/midgar/no-1-reactor
+- Index des objets, matérias et objets manquables :
+  https://gamefaqs.gamespot.com/ps/197341-final-fantasy-vii/faqs/42714
+- Route des coffres, des Huge Materia et du nettoyage :
+  https://gamefaqs.gamespot.com/ps/197341-final-fantasy-vii/faqs/16888
+
+FIN DE LA FICHE - OBJECTIF : 36/36 SUCCÈS STEAM ET CONTENU COMPLET
