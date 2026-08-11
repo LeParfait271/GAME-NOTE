@@ -1,126 +1,1099 @@
 ARIZONA SUNSHINE VR LEGACY
-GUIDE 100 % STEAM - 48 SUCCES STEAM - CHRONOLOGIQUE - SANS SPOILER
+GUIDE CHRONOLOGIQUE 100 % STEAM - 48 SUCCES STEAM - FICHE PREMIUM - SANS SPOILER NARRATIF
 
 Version de travail : 11 aout 2026
+Plateforme : Steam - AppID 342180
+Perimetre : campagne, mode Two Handed, Horde, Dead Man et The Damned
 
-OBJECTIF
+======================================================================
+OBJECTIF DE COMPLETION
+======================================================================
 
-Route VR de la campagne, des armes, du loot et des collectibles, puis Horde,
-Dead Man et The Damned en difficulté normale et Apocalyptic. Aucun spoiler de
-l'histoire n'est donné.
+Cette fiche suit le jeu dans l'ordre le plus sur : campagne principale,
+nettoyage des armes et objets, Horde, Dead Man, The Damned, puis runs
+Apocalyptic. Elle donne les reperes de pieces et de vehicules pour les objets
+qui comptent, et une procedure de fouille repetable pour le butin.
 
-PERIMETRE ET GARDE-FOUS
+Le jeu ne possede pas de tableau public donnant le nombre exact de munitions
+par niveau. Le compteur de butin est global : vise 200 objets ramasses pour
+Master Scavenger et fouille tous les casiers, tiroirs, voitures, caisses,
+etageres et boites a munitions de chaque zone avec la procedure ci-dessous.
 
-- AppID Steam : 342180. 48 succès Steam. Le jeu demande un casque VR ; le
-  online/co-op est utile mais la campagne peut être suivie en solo.
-- Les DLC Dead Man et The Damned sont inclus dans le périmètre de la checklist.
-- Fais une sauvegarde/note du compteur de loot, armes, ducks et burgers après
-  chaque niveau. La fatigue VR n'est pas une condition de succès : fais des
-  pauses et ne force pas une session longue.
+OBJECTIFS :
 
+- 48/48 succes Steam.
+- Campagne principale terminee et chaque niveau controle.
+- 24 armes uniques de la campagne normale ramassees.
+- 4 canards, 20 burgers ramasses, 10 burgers manges.
+- 200 objets de butin ramasses.
+- Dead Man : 4 armes comptabilisables et 3 masques.
+- Horde : 300, 400, 1 000 kills en serie et Last Man Standing.
+- Campagne, Dead Man et The Damned termines en Apocalyptic.
+
+======================================================================
+COMMENT LIRE LA FICHE
+======================================================================
+
+- [ROUTE] : ordre de progression et objectifs qui ouvrent la suite.
+- [FOUILLE] : boucle de collecte a faire avant de franchir le prochain
+  checkpoint ou de quitter le niveau.
+- [ARME] : arme unique a ramasser. Le compteur Gun Collector valide la prise
+  en main ; il n'est pas necessaire de tuer avec ni de la conserver.
+- [OBJET] : canard, masque, pelle, burger, grenade ou objet de succes.
+- [COMBAT] : endroit recommande pour une condition de combat.
+- [RUN] : tentative dediee, a ne pas melanger avec la collecte.
+- [CONTROLE] : compteur ou condition a noter avant de quitter la carte.
+
+======================================================================
+GARDE-FOUS AVANT DE COMMENCER
+======================================================================
+
+- Les 48 succes sont ceux de l'application Steam AppID 342180. Les DLC Dead
+  Man et The Damned font donc partie du 100 % de cette fiche.
+- Fais une premiere campagne en Normal ou Easy. Le but est de comprendre les
+  declencheurs de hordes et de ramasser les armes, les canards et le butin.
+- Les armes de Gun Collector viennent de la campagne normale. Le mode Two
+  Handed remplace plusieurs emplacements par d'autres armes, mais ces armes
+  bonus ne sont pas necessaires a Gun Collector.
+- Un canard doit etre ramasse, pas seulement regarde. Pour eviter un compteur
+  capricieux, ramasse les quatre canards dans une meme campagne puis termine
+  le niveau Sunshine.
+- Le butin est surtout des boites de munitions et des chargeurs dans les
+  tiroirs. Ouvre chaque contenant visible ; ramasser une arme ne remplace pas
+  le ramassage du butin qui se trouve a cote.
+- Les burgers se trouvent principalement dans les refrigerateurs. Ramasse
+  20 burgers et mange-en 10 : manger un burger compte aussi comme un burger
+  ramasse, mais ne prends aucun risque avec le compteur, mange ce que tu
+  trouves pendant la route.
+- VR Creep! demande quatre heures consecutives. Lance une tentative dediee,
+  desactive la veille automatique de SteamVR et ne ferme pas le jeu avant la
+  notification.
+- Last Man Standing demande une partie Horde multijoueur. Organise la session
+  avec un partenaire avant de lancer la carte ; une campagne solo ne valide
+  pas cette condition.
+- Les succes Apocalyptic sont des runs sans checkpoint de milieu de niveau,
+  avec degats mortels. Ne lance pas ce mode avant d'avoir appris les combats
+  de la route normale.
+- Les zombies peuvent apparaitre legerement differemment selon la difficulte
+  et le mode. Les reperes de salles, caisses et objectifs restent les memes.
+- Fais des pauses regulieres. Une session VR de quatre heures ne doit pas
+  etre forcee si tu as des symptomes de malaise.
+
+======================================================================
 MISSABLES ET CONDITIONS RATABLES
+======================================================================
 
-- Les ducks, pelles, armes, loot, burgers et le poste radio sont à prendre avant
-  de quitter leur niveau. Rejoue le niveau si le compteur ne progresse pas.
-- Les succès de Horde demandent des séries de victimes ; fais-les sur des
-  tentatives dédiées, sans mélanger la collecte de campagne.
-- Dead Man et The Damned ont leurs propres runs Normal puis Apocalyptic.
+- No Mercy : les trois zombies dans la cage de Canyon doivent etre tues
+  avant de quitter la zone de depart.
+- Quack Quack %$#@! : quatre canards precis sont repartis dans Bridge,
+  Traintracks et Sunshine. Controle les quatre avant la fin de Sunshine.
+- Gun Collector : ramasse au moins une fois chacune des 24 armes uniques de
+  la campagne normale. Les fusils fixes comptent aussi : sniper, minigun et
+  lance-grenades.
+- Green Thumb : dans Sunshine, prends toutes les pelles du presentoir du
+  magasin avant de repartir.
+- I'm not the only one? : ecoute la radio dans Sunshine avant la derniere
+  defense.
+- One-Man Militia : les quatre armes comptabilisables de Dead Man doivent
+  etre prises dans le meme parcours de collecte ; le Beretta de depart et les
+  deux lampes ne comptent pas.
+- Wearing Smells From Laboratories : trois masques, un par partie de Dead
+  Man. Le masque de la partie 2 se trouve apres l'armement du missile ; ne
+  pars pas directement vers l'ascenseur.
+- Easy way out : dans The Damned, recupere la cle de la salle de reunion puis
+  ouvre le bureau du CEO avant la zone des generateurs.
+- Barracuda et Great White : la sortie apres le controle de The Damned est
+  un labyrinthe de vannes. Memorise l'ordre indique dans la section DLC.
+- Horde : les 300, 400 et 1 000 kills sont une serie, pas un total cumulatif.
+  Mourir ou quitter la Horde remet la tentative a zero.
+- Last Man Standing : joue en Horde multijoueur et reste seul survivant
+  jusqu'a la fin de la vague apres la mort du partenaire.
+- Hard Boiled : termine la campagne principale en Apocalyptic.
+- The Apocalypse of John : termine Dead Man en Apocalyptic.
+- Great White : termine The Damned en Apocalyptic.
 
-ORDRE RECOMMANDE
+======================================================================
+TABLEAU DES 48 SUCCES STEAM
+======================================================================
 
-1. CAMPAGNE PRINCIPALE
+1. Steady Hand - tuer 50 zombies par tir en pleine tete.
+2. Headshots like a Boss! - tuer 100 zombies par tir en pleine tete.
+3. LOOT! - ramasser du butin.
+4. Master Scavenger - ramasser 200 objets de butin.
+5. Medium well beef plz - manger 10 burgers.
+6. Juicy Meat - ramasser 20 burgers.
+7. Charley Horse - jouer deux heures au total.
+8. Freddy, you there? - jouer trois heures au total.
+9. VR Creep! - jouer quatre heures d'affilee.
+10. A Thousand Miles - parcourir 10 miles.
+11. Badabing Badaboom! - tuer 20 zombies avec des grenades.
+12. Direct Hit! - tuer un zombie avec un objet.
+13. And the award for Can Killer goes to... - terminer Base.
+14. Quack Quack %$#@! - ramasser les quatre canards.
+15. So Sqhuishy - lancer un canard.
+16. Duck Attack! - tuer un zombie avec un canard.
+17. It's a Sunny Day! - terminer Bridge.
+18. No Mercy - tuer les zombies enfermes dans la cage de Canyon.
+19. It's getting Hot Hot Hot! - terminer Canyon.
+20. Flashed your way out! - terminer Caves.
+21. Eye see you.. - tirer avec un sniper.
+22. You climbed the "Stellage" - monter l'echafaudage de Traintracks.
+23. Delayed - terminer Traintracks.
+24. Baby Wipe War - tirer avec la mitrailleuse de Refinery.
+25. Biting the Bullet - terminer Refinery.
+26. Howdeeyhow! - terminer Trailerpark.
+27. Green Thumb - ramasser toutes les pelles du magasin de Sunshine.
+28. I'm not the only one? - ecouter la radio de Sunshine.
+29. You Win! - terminer Sunshine.
+30. Rescued! - terminer toute la campagne principale.
+31. Last Man Standing - etre le seul survivant en Horde.
+32. Skull Cracker - tuer 300 zombies en serie en Horde.
+33. We have ourselves a Cowboy - tuer 400 zombies en serie en Horde.
+34. The Sherrif has arrived! - tuer 1 000 zombies en serie en Horde.
+35. Online - redemarrer le courant dans Dead Man.
+36. Rocket Science - lancer l'ICBM de Dead Man.
+37. The Beginning Of The End - terminer Dead Man.
+38. One-Man Militia - trouver les armes de Dead Man.
+39. Wearing Smells From Laboratories - trouver les trois masques de Dead Man.
+40. This will have to do - entrer dans le barrage de The Damned.
+41. Are you there? - retablir le contact radio avec Emily.
+42. Easy way out - trouver le CEO du barrage.
+43. Apocalyptic Engineer - reactiver le barrage.
+44. Barracuda - terminer The Damned en Normal.
+45. Hard Boiled - terminer la campagne en Apocalyptic.
+46. The Apocalypse of John - terminer Dead Man en Apocalyptic.
+47. Great White - terminer The Damned en Apocalyptic.
+48. Gun Collector - ramasser toutes les armes uniques de la campagne.
 
-- Base : termine le niveau Base, ramasse le premier loot et valide LOOT!.
-- Bridge : termine Bridge, puis poursuis les headshots (50 puis 100) sans
-  gaspiller les munitions rares.
-- Canyon : ouvre la cage et élimine tous les zombies enfermés pour No Mercy,
-  puis termine Canyon.
-- Caves : termine Caves et utilise le sniper au moins une fois.
-- Traintracks : grimpe le scaffold, puis termine le niveau.
-- Refinery : utilise la mitrailleuse et termine Refinery.
-- Trailerpark : termine le niveau, puis Sunshine ; écoute la radio dans Sunshine
-  et ramasse les pelles, ducks et loot restants.
-- Fais les éliminations cumulatives, les burgers, les 10 miles et les kills par
-  objet après la campagne pour ne pas interrompre la route.
+Remarque : l'ordre numerote ci-dessus suit l'ordre de lecture de la fiche,
+pas l'ordre technique des identifiants Steam. Le tableau final reprend les
+48 noms sans doublon ; le succes Gun Collector est controle dans chaque
+niveau puis confirme apres Sunshine.
 
-2. HORDE ET NETTOYAGE SOLO
+======================================================================
+PROCEDURE DE FOUILLE DU BUTIN
+======================================================================
 
-- Fais une session de deux heures puis une de trois heures si les compteurs ne
-  sont pas déjà débloqués. Une session de quatre heures valide VR Creep! ; fais
-  une pause physique entre les sessions même si le compteur est cumulatif.
-- En Horde, utilise une tentative pour être le dernier survivant, une pour 300
-  kills en série et une pour 400/1 000 kills en série.
-- Termine le tir à la grenade, le kill avec un objet, le duck et la collection
-  de tous les guns. Contrôle les ducks de chaque niveau.
+Le butin est le compteur le plus facile a rater parce qu'il n'est pas lie a
+une seule categorie d'objet. A chaque zone, applique cette boucle :
 
-3. DEAD MAN DLC
+1. Fais le tour de la zone dans le sens des aiguilles d'une montre avant de
+   franchir la porte ou le declencheur suivant.
+2. Ouvre toutes les boites a munitions, coffres de voiture, tiroirs de
+   classeur, armoires, etageres et bureaux.
+3. Entre dans les maisons, boutiques, bureaux, salles de pause et wagons
+   accessibles ; un contenant dans une petite piece compte comme un repere.
+4. Ramasse les chargeurs, grenades, armes, burgers et objets poses en vue.
+5. Avant le dernier zombie d'une horde, ramasse les nouveaux objets apparus.
+6. Note le niveau quitte et le nombre de burgers/canards/armes deja vus.
 
-- Termine Dead Man en Normal. Ramasse toutes les armes et les masques du DLC,
-  puis valide One-Man Militia et Wearing Smells From Laboratories.
-- Refais Dead Man en Apocalyptic pour The Apocalypse of John. La route est
-  séparée du run de collecte.
+Si Master Scavenger ne tombe pas a la fin de Sunshine, rejoue en Normal les
+niveaux dans lesquels tu as le moins fouille. Bridge, Canyon, Caves et
+Traintracks offrent assez de caisses et de tiroirs pour completer rapidement
+le compteur. Il est inutile de recommencer toute la campagne : utilise la
+selection de niveau, fouille les pieces dans l'ordre, puis laisse le niveau se
+terminer pour conserver la progression.
 
-4. THE DAMNED DLC
+======================================================================
+CHAPITRE 1 - BASE
+======================================================================
 
-- Termine The Damned en Normal pour Barracuda, puis en Apocalyptic pour Great
-  White. Fais Apocalyptic Mode sur la campagne concernée et vérifie le profil.
+OBJECTIFS
 
+- [ROUTE] Apprendre les gestes de prise, de recharge et de holster.
+- [ARME 01/24] M1911 : au tout debut, dans la zone de depart.
+- [COMBAT] Profiter des premiers zombies pour commencer les headshots.
+- [SUCCES] And the award for Can Killer goes to... se valide a la fin.
+
+[ROUTE]
+
+1. Prends le M1911 et les munitions de depart. Recharge calmement avant de
+   quitter la premiere piece.
+2. Avance par la route principale. Pour Steady Hand et Headshots like a
+   Boss!, vise le haut du crane ; un tir dans le cou ne compte pas toujours.
+3. [FOUILLE] Ouvre les premiers caissons, tiroirs et boites de munitions
+   avant de passer le point de non-retour de la zone.
+4. Elimine la petite defense, puis suis le chemin jusqu'a la fin de Base.
+5. Attends la notification de fin avant de revenir au menu.
+
+[CONTROLE BASE]
+
+- M1911 pris en main.
+- Au moins quelques headshots comptabilises.
+- Premiere notification de niveau obtenue.
+- Butin de la zone ramasse avant la sortie.
+
+======================================================================
+CHAPITRE 2 - BRIDGE
+======================================================================
+
+OBJECTIFS
+
+- [ARME 02/24] Walther PPK : premier SUV a droite, sur le siege conducteur.
+- [ARME 03/24] Ruger Blackhawk : Ol' Dutchman House, etage, dans la vitrine.
+- [ARME 04/24] Tokarev TT-33 : meuble a dossiers superieur droit, pres des
+  cles de voiture.
+- [OBJET 01/04] Canard 1 : coffre du SUV sur le pont.
+- [OBJET 02/04] Canard 2 : Ol' Dutchman Mine House, etagere du haut au-dessus
+  d'une boite de munitions.
+- [COMBAT] Premier endroit pratique pour Direct Hit!, So Sqhuishy! et
+  Duck Attack!.
+
+[ROUTE ET FOUILLE]
+
+1. Dans le premier SUV a droite, prends le Walther PPK sur le siege
+   conducteur. Ouvre ensuite le coffre du SUV sur le pont pour le premier
+   canard.
+2. Fouille les voitures du pont, en particulier les coffres et les boites
+   posees sur les sieges. Dans la deuxieme voiture de police, prends la
+   grenade disponible en Normal.
+3. Avance jusqu'a la zone de l'Ol' Dutchman. Ne traverse pas la maison sans
+   monter : au rez-de-chaussee, prends le deuxieme canard sur l'etagere haute.
+4. Monte a l'etage de l'Ol' Dutchman House et prends le Ruger Blackhawk dans
+   la vitrine. Pres des cles de voiture, ouvre le classeur du haut a droite
+   pour le Tokarev TT-33.
+5. Pour Direct Hit!, tire d'abord dans un bras ou une jambe d'un zombie isole,
+   puis lance un objet quelconque. Pour Duck Attack!, affaiblis le zombie,
+   fais couiner le canard avec la gachette, puis lance-le sur lui. Le canard
+   doit porter le coup final.
+6. Cherche la manivelle et prepare la deuxieme horde. Dans une tentative
+   dediee aux grenades, regroupe plusieurs zombies et lance une grenade au
+   centre ; les kills sont cumulatifs.
+7. Termine Bridge et attends la notification It's a Sunny Day!.
+
+[FOUILLE DETAILLEE]
+
+- Pont : SUV, voitures de police, coffres et caisses au bord de la route.
+- Ol' Dutchman : chaque piece du rez-de-chaussee, etageres et classeurs.
+- Maison et zone de manivelle : bureaux, tiroirs et caisses avant de prendre
+  la manivelle ; la prise de la manivelle declenche la defense.
+
+[CONTROLE BRIDGE]
+
+- 2/4 canards.
+- Walther PPK, Ruger Blackhawk et Tokarev TT-33 pris.
+- So Sqhuishy!, Direct Hit! et Duck Attack! faits, ou notes pour le nettoyage.
+- Au moins une grenade conservee si Badabing Badaboom! est encore loin.
+
+======================================================================
+CHAPITRE 3 - CANYON
+======================================================================
+
+OBJECTIFS
+
+- [SUCCES] No Mercy : tuer les trois zombies enfermes dans la cage au depart.
+- [ARME 05/24] Walther P38 : siege arriere du Humvee.
+- [ARME 06/24] Ingram MAC-11 : etagere du fond de l'Ol' Dutchman Gift Shop.
+- [ARME 07/24] Skorpion vz. 61 : caisse sur le chemin a gauche du generateur.
+- [OBJET] Deux grenades dans la tente militaire et deux dans le classeur du
+  gift shop en Normal.
+
+[ROUTE ET FOUILLE]
+
+1. Au depart, ne passe pas la cage : elimine les trois zombies a l'interieur.
+   C'est le meilleur moment pour No Mercy, avant les hordes.
+2. Autour du Humvee, ouvre les portieres et le coffre. Prends le Walther P38
+   sur le siege arriere droit.
+3. Fais une boucle par la tente militaire : ramasse les grenades et chaque
+   boite de munitions. Ne laisse pas de caisse sur les tables.
+4. Dans l'Ol' Dutchman Gift Shop, fouille les etageres du fond pour l'Ingram
+   MAC-11, puis le classeur pour les deux grenades. La boutique est aussi un
+   bon repere pour le butin.
+5. Reviens vers le generateur. Sur le chemin a gauche du generateur, prends
+   la Skorpion vz. 61 sur la caisse.
+6. Prepare la horde de fin avec tes armes automatiques. Les grenades peuvent
+   etre utilisees pour Badabing Badaboom!, mais ne gaspille pas toutes les
+   munitions si tu vises le run Apocalyptic plus tard.
+7. Termine Canyon et controle la notification It's getting Hot Hot Hot!.
+
+[FOUILLE DETAILLEE]
+
+- Cage de depart et Humvee : sieges, boites et caisses autour des barrieres.
+- Tente militaire : caisses, munitions et grenades.
+- Gift shop : etageres, classeurs et comptoirs ; la MAC-11 est sur une
+  etagere du fond, pas dans un coffre.
+- Chemin du generateur : caisses sur les deux cotes, puis la caisse de la
+  Skorpion avant de tirer la manivelle.
+
+[CONTROLE CANYON]
+
+- No Mercy valide.
+- Walther P38, Ingram MAC-11 et Skorpion vz. 61 pris.
+- Compteur de grenades note.
+- Chaque salle et la tente militaire fouillees.
+
+======================================================================
+CHAPITRE 4 - CAVES
+======================================================================
+
+OBJECTIFS
+
+- [OBJET] Lampe : boite rouge a l'entree de la mine.
+- [ARME 08/24] Glock 17 : pres de la premiere cle, a cote du squelette.
+- [ARME 09/24] Remington Model 870 : salle avec le baril rouge explosif.
+- [ARME 10/24] Uzi pistol : juste a cote de la manivelle.
+- [ARME] Deux Ruger Blackhawks : vitrine de la zone.
+
+[ROUTE ET FOUILLE]
+
+1. Prends la lampe dans la boite rouge a l'entree. Elle aide a reperer les
+   caisses, mais range-la pendant les combats si tu as besoin de deux armes.
+2. Dans la premiere zone avec une cle, prends le Glock 17 pres du squelette.
+3. Cherche la vitrine et prends les Ruger Blackhawks. Une seule variante
+   suffit pour Gun Collector, mais ramasser les deux emplacements rend la
+   fouille plus fiable.
+4. Dans la piece du baril rouge explosif, prends le Remington Model 870 et
+   ouvre tous les tiroirs avant de declencher l'explosion.
+5. Dans le bureau sous l'ascenseur, ouvre la boite et ramasse les deux
+   grenades en Normal. Ce bureau est un repere important pour le butin.
+6. Active la manivelle. La defense pres de l'interrupteur est plus sure si tu
+   restes pres de la sortie de la piece et surveilles le son des zombies.
+7. Avant la horde finale, prends l'Uzi pistol a cote de la manivelle. Termine
+   la section sombre et attends Flashed your way out!.
+
+[FOUILLE DETAILLEE]
+
+- Entree : boite rouge, caisses et premiers tiroirs.
+- Zone de la premiere cle : squelette, vitrine, bureaux et coins derriere les
+  rochers.
+- Bureau sous l'ascenseur : grenades, boites et tiroirs.
+- Piece du baril rouge : casiers et caisses avant l'explosion.
+- Manivelle et sortie : caisse de l'Uzi, munitions de la horde et objets
+  apparus apres le combat.
+
+[CONTROLE CAVES]
+
+- Glock 17, Remington 870 et Uzi pistol pris.
+- Lampe ramassee.
+- Grenades du bureau ramassees.
+- Niveau termine avec la notification Flashed your way out!.
+
+======================================================================
+CHAPITRE 5 - TRAINTRACKS
+======================================================================
+
+OBJECTIFS
+
+- [OBJET 03/04] Canard 3 : bureau a l'etage du batiment.
+- [ARME 11/24] FN Five-seveN : passerelle entre les trains a l'entree.
+- [ARME 12/24] B&T MP9 : bureau du bas.
+- [ARME 13/24] Accuracy International Arctic Warfare : deux emplacements
+  fixes, sommet de la gare et sommet de l'echafaudage.
+- [ARME 14/24] Glock 23 + CQ Flash : sommet de l'echafaudage, derriere la
+  grille verrouillee.
+- [ARME 15/24] Lance-grenades 40 mm : apres la horde du tunnel, prends le
+  chemin de gauche puis reviens dans l'autre tunnel.
+- [ARME 16/24] Spectre M4 : a cote du lance-grenades.
+- [SUCCES] Eye see you.. et You climbed the "Stellage".
+
+[ROUTE ET FOUILLE]
+
+1. A l'entree, ramasse le FN Five-seveN sur la passerelle entre les trains.
+2. Fais le tour du batiment bas et prends le B&T MP9 sur le bureau. Ouvre
+   classeurs et tiroirs avant de monter.
+3. Monte dans le bureau a l'etage et prends le troisieme canard sur le bureau.
+   Il est visible en entrant dans la piece.
+4. Monte l'echafaudage. La notification You climbed the "Stellage" doit
+   apparaitre. Sur le trajet, prends le Glock 23 + CQ Flash derriere la grille
+   verrouillee et le fusil Arctic Warfare au sommet.
+5. Pour Eye see you.., utilise le sniper fixe au sommet de la gare ou de
+   l'echafaudage. Tire au moins une fois avec la lunette avant de quitter la
+   zone.
+6. Apres la horde du tunnel, prends le chemin de gauche puis reviens dans
+   l'autre tunnel pour le lance-grenades 40 mm. Le Spectre M4 est juste a
+   cote. Ces deux armes sont faciles a laisser derriere soi.
+7. Utilise le lance-grenades dans la grande horde si tu veux avancer
+   Badabing Badaboom!, puis termine le niveau pour Delayed.
+
+[FOUILLE DETAILLEE]
+
+- Entree entre les trains : FN, voitures, caisses et bureaux bas.
+- Batiment : tous les tiroirs du rez-de-chaussee et le bureau du haut.
+- Echafaudage : grille, sniper, caisses de munitions et passerelles.
+- Tunnel : le chemin secondaire apres le declenchement de la horde, puis les
+  caisses autour du lance-grenades et du Spectre.
+
+[CONTROLE TRAINTRACKS]
+
+- 3/4 canards.
+- FN Five-seveN, MP9, Arctic Warfare, Glock 23 + CQ Flash, lance-grenades et
+  Spectre M4 pris.
+- Eye see you.. et You climbed the "Stellage" valides.
+- Les objets de la horde du tunnel ramasses avant de quitter la carte.
+
+======================================================================
+CHAPITRE 6 - REFINERY
+======================================================================
+
+OBJECTIFS
+
+- [ARME 17/24] Remington Model 870 : coffre du Humvee, pres du hayon.
+- [ARME 18/24] Uzi : caisse pres des soldats morts.
+- [ARME 19/24] Beretta M9 : table derriere l'Uzi.
+- [ARME 20/24] M134 Minigun : grande allee apres les echelles.
+- [ARME 21/24] SIG Sauer P250 : caisse a outils dans la piece apres le
+  minigun.
+- [SUCCES] Baby Wipe War et Biting the Bullet.
+
+[ROUTE ET FOUILLE]
+
+1. A l'arrivee, ouvre le coffre du Humvee pres du hayon pour le Remington
+   Model 870. Ramasse les boites de munitions autour des soldats.
+2. Pres des corps, prends l'Uzi sur la caisse puis la Beretta M9 sur la table
+   derriere. Regarde aussi les bureaux et casiers de la zone.
+3. Franchis les echelles et atteins la grande allee. La M134 Minigun est
+   montee sur place : utilise-la au moins une fois pour Baby Wipe War.
+4. Apres le minigun, entre dans la piece suivante et prends le SIG Sauer P250
+   sur la caisse a outils.
+5. La zone nocturne contient trois defenses importantes : entree, soldats et
+   minigun. Ferme les angles avant de declencher chaque vague et utilise une
+   arme a visee lumineuse si tu en as une.
+6. Termine Refinery pour Biting the Bullet. Ne pars pas avant d'avoir ramasse
+   les munitions apparues apres la derniere horde.
+
+[FOUILLE DETAILLEE]
+
+- Humvee et soldats : coffre, caisses, tables et casiers.
+- Allees apres les echelles : caisses laterales et emplacement de la M134.
+- Piece apres le minigun : caisse a outils, bureaux et boites de munitions.
+- Avant la grille finale : fouille les angles sombres et les objets apparus
+  apres les combats.
+
+[CONTROLE REFINERY]
+
+- Remington 870, Uzi, Beretta M9, M134 et SIG P250 pris.
+- Baby Wipe War valide.
+- Butin des trois defenses ramasse.
+- Biting the Bullet valide.
+
+======================================================================
+CHAPITRE 7 - TRAILERPARK
+======================================================================
+
+OBJECTIFS
+
+- [ARME 22/24] Colt Python : caisse juste avant le sniper.
+- [ARME 23/24] Accuracy International Arctic Warfare : pres de l'entree du
+  parc.
+- [ARME] Remington Model 870 : premiere maison, en face de la maison avec la
+  radio.
+- [ARME 24/24] SIG Sauer P250 : deuxieme maison a droite depuis la rue.
+- [ARME] B&T MP9 : derniere maison a droite depuis la rue.
+- [SUCCES] Howdeeyhow!.
+
+[ROUTE ET FOUILLE]
+
+1. Depuis l'entree, prends le fusil Arctic Warfare. Utilise-le dans le parc
+   si Eye see you.. n'a pas ete valide a Traintracks.
+2. Avant de t'engager dans la rue principale, prends le Colt Python sur la
+   caisse juste avant la position du sniper.
+3. Dans la premiere maison en face de celle avec la radio, ramasse le
+   Remington Model 870.
+4. Depuis la rue principale, entre dans la deuxieme maison a droite pour le
+   SIG Sauer P250. Dans la derniere maison a droite, prends le B&T MP9.
+5. Les trois bombes sont fixes :
+   - Bombe 1 : entre la premiere et la deuxieme maison a gauche.
+   - Bombe 2 : dans la troisieme maison a droite.
+   - Bombe 3 : dans la derniere maison a gauche.
+6. Fouille chaque maison, garage et voiture avant de prendre la derniere
+   bombe. L'arrivee dans la piece de la derniere bombe fait apparaitre des
+   zombies supplementaires ; se saisir de la bombe n'est pas le declencheur.
+7. Pose les trois bombes, prepare la defense finale, puis termine le niveau.
+
+[FOUILLE DETAILLEE]
+
+- Entree : sniper, caisses, voitures et premiers tiroirs.
+- Rue : maisons de gauche et de droite, garages, placards et bureaux.
+- Trois bombes : inspecte la piece complete de chaque bombe avant de partir.
+- Derniere defense : ramasse les armes et munitions apparues quand la vague
+  est terminee.
+
+[CONTROLE TRAILERPARK]
+
+- Colt Python, Arctic Warfare, shotgun, SIG P250 et MP9 pris.
+- Trois bombes posees.
+- Niveau termine et Howdeeyhow! valide.
+
+======================================================================
+CHAPITRE 8 - SUNSHINE
+======================================================================
+
+OBJECTIFS
+
+- [ARME] Desert Eagle : caisse militaire pres du debut.
+- [ARME] Uzi : etagere dans le hangar.
+- [ARME] B&T MP9 : balcon du deuxieme etage du magasin.
+- [ARME] Remington Model 870 et Heckler & Koch MP5 : chambre du deuxieme
+  etage de la ferme.
+- [ARME] Makarov, Colt Python, MP5 et Spectre M4 : zone de la derniere
+  defense.
+- [OBJET 04/04] Canard 4 : bar du motel, sous l'ecran plat a droite.
+- [OBJET] Toutes les pelles : presentoir du magasin de firepower.
+- [SUCCES] Green Thumb, I'm not the only one? et You Win!.
+
+[ROUTE ET FOUILLE]
+
+1. Pres du debut, ramasse le Desert Eagle sur la caisse militaire. En mode
+   Two Handed, l'emplacement contient le M16A4 a la place.
+2. Dans le hangar, prends l'Uzi sur l'etagere. Dans le magasin, monte au
+   balcon du deuxieme etage pour le B&T MP9.
+3. Quand la route conduit a la ferme, monte au deuxieme etage. Prends le
+   Remington 870 et le Heckler & Koch MP5 dans la chambre.
+4. Dans le bar du motel, a droite sous l'ecran plat, prends le dernier canard.
+   Ne quitte pas la rue du motel sans verifier le comptoir et les caisses.
+5. Le magasin de firepower se reconnait a la replique indiquant qu'il faut
+   plus de puissance de feu. Dans ce magasin, prends toutes les pelles du
+   presentoir, une par une, pour Green Thumb.
+6. Suis la route jusqu'a la radio et ecoute l'emission completement. La
+   notification I'm not the only one? doit apparaitre avant la derniere
+   defense.
+7. Pour la derniere horde, ramasse les armes sur les tables et caisses :
+   Makarov, Colt Python, MP5 et Spectre M4. Les armes de cette zone comptent
+   pour la collection, meme si certaines sont des doublons.
+8. Termine la defense finale puis attends You Win! et Rescued!.
+
+[FOUILLE DETAILLEE]
+
+- Debut et hangar : caisse militaire, hangar, etageres, voitures et caisses.
+- Magasin : toutes les pelles, comptoirs, tiroirs et balcon.
+- Motel : bar, dessous de l'ecran, chambres et caisses.
+- Ferme : chambre du deuxieme etage, refrigerateurs et placards.
+- Quartier final : maison par maison, radio, caisses de la derniere horde et
+  objets apparus apres l'extraction.
+
+[CONTROLE SUNSHINE]
+
+- 4/4 canards.
+- Pelles du magasin prises.
+- Radio ecoutee.
+- Desert Eagle, Uzi, MP9, shotgun, MP5 et armes de la derniere defense
+  examinees.
+- Gun Collector, Juicy Meat, Medium well beef plz, Rescued! et You Win!
+  controles.
+
+======================================================================
+COLLECTION DES 24 ARMES DE LA CAMPAGNE NORMALE
+======================================================================
+
+Le succes valide une arme unique lorsqu'elle est prise en main. Les doublons
+dans plusieurs niveaux ne demandent pas de refaire la collection. Cette liste
+sert de feuille de controle apres les chapitres :
+
+01. M1911 - Base, depart.
+02. Walther PPK - Bridge, premier SUV, siege conducteur.
+03. Ruger Blackhawk - Bridge, Ol' Dutchman House, vitrine de l'etage.
+04. Tokarev TT-33 - Bridge, classeur superieur droit pres des cles.
+05. Walther P38 - Canyon, siege arriere du Humvee.
+06. Ingram MAC-11 - Canyon, etagere du gift shop.
+07. Skorpion vz. 61 - Canyon, caisse a gauche du generateur.
+08. Glock 17 - Caves, squelette pres de la premiere cle.
+09. Remington Model 870 - Caves, piece du baril rouge.
+10. Uzi pistol - Caves, pres de la manivelle.
+11. FN Five-seveN - Traintracks, passerelle entre les trains.
+12. B&T MP9 - Traintracks, bureau bas.
+13. Accuracy International Arctic Warfare - Traintracks ou Trailerpark.
+14. Glock 23 + CQ Flash - Traintracks, echafaudage derriere la grille.
+15. Lance-grenades 40 mm - Traintracks, tunnel secondaire.
+16. Spectre M4 - Traintracks, a cote du lance-grenades.
+17. Uzi - Refinery, caisse pres des soldats morts.
+18. Beretta M9 - Refinery, table derriere l'Uzi.
+19. M134 Minigun - Refinery, grande allee apres les echelles.
+20. SIG Sauer P250 - Refinery ou Trailerpark.
+21. Colt Python - Trailerpark, caisse avant le sniper.
+22. Desert Eagle - Sunshine, caisse militaire du debut.
+23. Heckler & Koch MP5 - Sunshine, chambre de la ferme.
+24. Makarov Pistol - Sunshine, derniere defense.
+
+Le Remington 870, le MP5, le Python, le P250 et le MP9 apparaissent plusieurs
+fois. Si le succes ne tombe pas, rejoue Traintracks et Sunshine en prenant les
+armes de la liste dans l'ordre, sans te fier a la seule notification de prise.
+
+======================================================================
+BURGERS, GRENADE ET COMPTEURS CUMULATIFS
+======================================================================
+
+[BURGERS]
+
+- Ouvre chaque refrigerateur rencontre dans Bridge, Canyon, Trailerpark,
+  Sunshine et en Horde.
+- Ramasse les burgers meme si ta sante est pleine, puis mange-en au moins dix
+  lorsque la zone est sure.
+- Si Juicy Meat ne tombe pas apres Sunshine, utilise une partie Horde : les
+  burgers apparaissent sur le grill entre les vagues. Garde les burgers des
+  premieres vagues avant de tuer le dernier zombie.
+
+[HEADSHOTS]
+
+- Vise le haut du crane, pas le cou.
+- Les zombies isoles de Base, Bridge et Canyon sont les endroits les plus
+  propres pour monter de 50 a 100 sans gaspiller les munitions.
+- Si le compteur est insuffisant, rejoue Canyon en Easy et conserve la meme
+  arme de precision pendant toute la zone.
+
+[GRENADE]
+
+- Les grenades de Bridge, Canyon, Caves et Sunshine suffisent pour commencer.
+- Le tunnel final de Traintracks, la horde de Canyon et les defenses de
+  Sunshine donnent les groupes les plus simples.
+- Une serie de kills sur checkpoint peut etre repetee en rechargeant le
+  point, mais controle que les notifications se cumulent bien dans ta partie.
+
+[TEMPS ET DISTANCE]
+
+- Charley Horse et Freddy, you there? sont cumulatifs.
+- VR Creep! est la seule condition de temps a faire sur une session continue.
+- A Thousand Miles se valide naturellement en campagne, en Horde et dans les
+  runs de nettoyage. Il n'est pas necessaire de marcher en rond des le debut.
+
+======================================================================
+MODE TWO HANDED - BONUS COMPLET
+======================================================================
+
+Ce mode remplace certains emplacements de la campagne par 13 armes a deux
+mains. Il n'ajoute pas de succes Steam a la liste des 48, et ces armes ne sont
+pas necessaires a Gun Collector, mais voici les emplacements pour une fiche
+complete :
+
+- M1 Carbine : Base, remplace le M1911 au depart.
+- K-50M : Bridge, premier SUV, remplace le Walther PPK.
+- Thompson M1A1 : Canyon, emplacement special accessible en lancant une
+  nouvelle partie directement depuis Canyon si l'arme n'apparait pas sur la
+  route.
+- Type 100 : Canyon, etagere du gift shop a la place de la MAC-11.
+- StG 44 : Canyon, caisse a gauche du generateur a la place de la Skorpion.
+- SIG SG 552 : Caves, pres du squelette et de la premiere cle a la place du
+  Glock 17.
+- PTR-91 : Caves, pres de la manivelle a la place de l'Uzi pistol.
+- M2 Carbine : Traintracks, passerelle entre les trains a la place du FN.
+- K-50M : Traintracks, bureau bas a la place du MP9.
+- AK-47 : Traintracks, echafaudage derriere la grille a la place du Glock 23.
+- Steyr AUG : Refinery, caisse pres des soldats a la place de l'Uzi.
+- PTR-91 : Refinery, table derriere l'AUG a la place de la Beretta.
+- M16A1 : Refinery, caisse a outils apres le minigun a la place du P250.
+- L85A1 : Trailerpark, caisse avant le sniper a la place du Colt Python.
+- M16A4 : Sunshine, caisse militaire du debut a la place du Desert Eagle.
+
+Les armes fixes comme le sniper, le lance-grenades, le minigun, le shotgun et
+le MP5 restent presentes dans leurs emplacements habituels selon la variante.
+
+======================================================================
+NETTOYAGE APRES LA CAMPAGNE
+======================================================================
+
+Fais cette sequence si une condition ne s'est pas validee :
+
+1. Bridge : refais la boucle des deux canards, des trois armes et des
+   voitures. Termine le niveau.
+2. Canyon : tue la cage, reprends les trois armes, prends les grenades et
+   termine le niveau.
+3. Caves : reprends les armes de la vitrine, le Glock, le shotgun, l'Uzi et
+   les grenades du bureau.
+4. Traintracks : reprends le canard, le Glock 23, le sniper, le MP9, le
+   lance-grenades et le Spectre ; termine le niveau.
+5. Sunshine : refais le canard, les pelles, la radio et les armes de la
+   derniere zone ; termine le niveau.
+6. Si le compteur de butin est encore sous 200, refais les pieces et maisons
+   de Bridge et Sunshine en ouvrant chaque contenant avant les hordes.
+
+======================================================================
+HORDES - 4 CARTES ET PROCEDURE 100 %
+======================================================================
+
+Les cartes disponibles sont Canyon, Old Mine, Undead Valley et Trailer Park.
+Les vagues sont infinies. Les munitions et objets reapparaissent entre les
+vagues ; prends-les avant de tuer le dernier zombie de la vague suivante.
+
+[STRATEGIE GENERALE]
+
+- Vise la tete au debut pour economiser le stock et maintenir la serie.
+- Quand la vague devient dense, privilegie la survie et les tirs rapides ;
+  mourir avec des munitions n'aide pas le compteur.
+- Les flares attirent les zombies. Lance-en un a distance, puis profite du
+  regroupement pour ramasser des munitions ou lancer une grenade.
+- Garde un pistolet facile a viser dans la main dominante et une arme
+  automatique en reserve. Le Python et le Desert Eagle sont efficaces quand
+  la distance le permet.
+
+[CANYON - CARTE CONSEILLEE]
+
+- Les pauses de rythme arrivent toutes les cinq vagues.
+- Les jalons de kills utiles sont environ 53 a la vague 5, 147 a la vague 10,
+  279 a la vague 15, 448 a la vague 20 et 643 a la vague 25.
+- Skull Cracker apparait vers la vague 16, We have ourselves a Cowboy vers la
+  vague 19 et The Sherrif has arrived! vers les vagues 30 a 35.
+- Reste dans une zone de tir avec une sortie derriere toi. Ne tue pas le
+  dernier zombie avant d'avoir ramasse les boites et burgers de la vague.
+
+[OLD MINE]
+
+- La carte est sombre mais ses goulots d'etranglement sont pratiques.
+- Utilise la lampe seulement pour le placement ; range-la pendant les
+  vagues pour garder deux armes.
+- Le palier de 1 000 kills arrive plus tard que Canyon, autour des vagues 50
+  a 55 selon la partie. Le compteur exact peut varier.
+
+[UNDEAD VALLEY]
+
+- La carte est plus grande et demande de se deplacer entre les zones et les
+  cles pendant les vagues.
+- Apprends le chemin de ravitaillement avant de viser 1 000 kills. Ne pars
+  pas au milieu d'une vague sans avoir une route de retour.
+- Le palier de 1 000 arrive generalement vers les vagues 40 a 45.
+
+[TRAILER PARK]
+
+- Les maisons et voitures servent de couvertures, mais peuvent bloquer la
+  ligne de tir.
+- Tourne entre les maisons pour les caisses de munitions ; ne reste pas
+  enferme dans une piece sans sortie.
+- Le palier de 1 000 arrive generalement vers les vagues 30 a 35.
+
+[LAST MAN STANDING]
+
+1. Lance une Horde multijoueur a deux joueurs minimum.
+2. Jouez une premiere vague sans chercher le score.
+3. Laisse le partenaire mourir pendant une vague controlee, puis reste en
+   vie jusqu'a la fin de cette vague.
+4. La notification doit apparaitre avant de quitter la carte. Si elle ne
+   tombe pas, recommence avec une nouvelle session multijoueur.
+
+======================================================================
+DEAD MAN - PARCOURS NORMAL ET COLLECTE
+======================================================================
+
+Dead Man est une campagne en trois parties. Les trois masques et les quatre
+armes comptabilisables doivent etre pris avant de poursuivre.
+
+[PARTIE 1 - COURANT]
+
+1. Au depart, le Beretta M9 est equipe. Il ne compte pas pour One-Man
+   Militia, mais utilise-le pour apprendre le parcours.
+2. Dans les ascenseurs, ouvre les boites rouges et prends les lampes. Elles
+   sont utiles dans les passages sombres mais ne comptent pas comme armes.
+3. [ARME DEAD MAN 01/04] L85A1 : caisse juste a cote du generateur.
+4. [MASQUE 01/03] Depuis le generateur, va vers la zone sombre a gauche,
+   sous la plateforme des rails. Le masque est pose sur une caisse.
+5. Dans la salle des wagonnets, monte au niveau superieur. La cle du
+   generateur se trouve sur une table dans la piece en face de la porte du
+   wagon ; utilise-la ensuite sur la porte du niveau inferieur.
+6. Utilise le treuil pour redemarrer le generateur. Online se valide.
+
+[PARTIE 2 - MISSILE]
+
+1. Avance jusqu'a la salle de lancement et prends le chemin vers l'armurerie.
+2. [ARME DEAD MAN 02/04] FN P90 : dans l'armurerie, sur une caisse derriere
+   la fenetre.
+3. La cle manquante de la salle du missile est dans un tiroir du bureau de
+   l'autre cote du pont. Prends-la avant de revenir.
+4. [ARME DEAD MAN 03/04] Pancor Jackhammer : juste apres le bureau ou se
+   trouve la cle de la salle nucleaire.
+5. Arme l'ICBM. Le compte a rebours est court : suis la passerelle, monte
+   jusqu'au sommet du tube et prends l'ascenseur de sortie.
+6. [MASQUE 02/03] Apres l'armement, monte au niveau superieur du tube, depasse
+   l'ascenseur et prends le masque pose sur le tonneau.
+7. Lance le missile pour Rocket Science.
+
+[PARTIE 3 - SORTIE]
+
+1. Traverse les egouts jusqu'a la sortie. Garde une arme automatique pour les
+   couloirs et ne laisse pas de caisse derriere toi.
+2. En entrant dans la zone exterieure, tourne immediatement a gauche et
+   cherche le dessous du pont. [MASQUE 03/03] Il est pose sur un arbre tombe.
+3. [ARME DEAD MAN 04/04] SIG Sauer P320 TacOps : pres de l'epave du camion
+   en flammes apres la sortie de la base.
+4. Poursuis le chemin jusqu'a l'entree de la Refinery. The Beginning Of The
+   End se valide a la fin du parcours.
+
+[CONTROLE DEAD MAN]
+
+- L85A1, FN P90, Pancor Jackhammer et SIG P320 TacOps pris.
+- Les trois masques pris.
+- Online, Rocket Science, The Beginning Of The End, One-Man Militia et
+  Wearing Smells From Laboratories valides.
+
+======================================================================
+THE DAMNED - PARCOURS NORMAL COMPLET
+======================================================================
+
+[ENTREE DU BARRAGE]
+
+1. Avance hors du tunnel et traverse les epaves sur le sommet du barrage.
+2. Dans la voiture proche de l'ascenseur, prends la carte d'acces. Utilise-la
+   pour entrer : This will have to do se valide.
+3. Fouille les voitures, bureaux et caisses autour de l'ascenseur. Les armes
+   du DLC sont des variantes de la campagne ; elles ne sont pas necessaires
+   pour Gun Collector, mais ramasse-les si tu veux le nettoyage complet.
+
+[INSTALLATIONS ET CONTACT RADIO]
+
+1. Progresse par les bureaux, le couloir et la premiere grande salle avec
+   moquette.
+2. Sors par la fenetre cassee vers l'exterieur et retablis le contact radio.
+   Are you there? doit apparaitre.
+3. Dans la deuxieme grande salle, fouille la salle de reunion et les bureaux.
+   Garde une note des cles : plusieurs cles ouvrent des pieces differentes.
+
+[EASY WAY OUT - BUREAU DU CEO]
+
+1. A la fin de la deuxieme grande salle, pres des sanitaires, repere la porte
+   verrouillee du bureau du CEO.
+2. Monte a la salle de reunion. Dans la porte la plus eloignee a gauche,
+   avant l'ascenseur, prends la cle sur la table.
+3. Redescends et ouvre le bureau verrouille. Easy way out se valide.
+4. Ne confonds pas cette cle avec celle qui se trouve sous le bureau du
+   couloir : cette seconde cle ouvre le placard de ravitaillement.
+
+[GENERATEURS]
+
+1. Rejoins la salle des hydro-generateurs. Il y a quatre leviers, un sur
+   chaque generateur.
+2. Active les quatre leviers. Les zombies apparaissent sans fin : avance
+   vite, ferme les angles et ne cherche pas le butin pendant l'activation.
+3. Une fois les quatre generateurs actifs, ouvre la porte centrale et ferme-la
+   avec le levier interieur gauche.
+4. Plus loin, dans la salle de controle, tire les trois leviers de la console.
+   Apocalyptic Engineer se valide.
+
+[SORTIE - BARRACUDA]
+
+Apres la mise en route, le bruit attire une horde et il faut traverser le
+labyrinthe des vannes. L'ordre fiable est :
+
+1. Depuis la salle de controle, porte de droite. La porte de gauche ne s'ouvre
+   pas.
+2. Prends a gauche.
+3. Prends a droite jusqu'a l'echelle qui descend dans les tunnels.
+4. Passe le checkpoint.
+5. Prends a droite.
+6. Va tout droit.
+7. Prends a gauche : le chemin conduit directement a la sortie.
+
+Termine la sortie en Normal pour Barracuda.
+
+[ARMES UTILES DE THE DAMNED]
+
+- Beretta M9 : equipee au depart et dans le coffre d'une voiture de police.
+- Ruger Blackhawk et M2 Carbine : pres des voitures de police.
+- Glock 23 + CQ Flash : corps d'un soldat pres de l'ascenseur puis pres de la
+  deuxieme cle.
+- Remington 870 : bureau proche de la carte d'acces.
+- Deux SIG Sauer P250 : caisse apres les planches et caisses au-dessus de
+  l'escalier.
+- Walther P38 : armoire a armes apres une fenetre donnant sur le barrage.
+- Colt Python : bureau de la premiere grande salle moquettee.
+- M2 Carbine : dessus du refrigerateur entre les deux salles moquettees.
+- FN Five-seveN : dehors, autour de l'angle de la fenetre de la deuxieme
+  grande salle.
+- SIG P320 TacOps : etagere pres d'une boite de munitions dans cette salle.
+- Uzi pistol : dans les sanitaires, a l'interieur d'une cuvette.
+- FN Five-seveN : bureau du CEO.
+- M16A4 : placard de ravitaillement verrouille, apres la cle sous le bureau.
+- Thompson M1A1 : etagere avec la carte de la salle du generateur.
+- Apres les generateurs : plusieurs M1911, Beretta, Desert Eagle, Glock,
+  Python, SIG SG 552, shotgun, Spectre, MP9 et MP5 apparaissent selon la
+  difficulte et les pieces ; prends ceux visibles avant la sortie.
+
+======================================================================
+APOCALYPTIC - CAMPAGNE PRINCIPALE
+======================================================================
+
+Hard Boiled demande de terminer la campagne principale en Apocalyptic. La
+difficulte change la route de securite :
+
+- Le Desert Eagle remplace l'arme de depart.
+- Il n'y a pas d'autres armes a ramasser dans le niveau selectionne.
+- Les munitions sont fortement reduites.
+- Les checkpoints de milieu de niveau disparaissent.
+- Tout degat est mortel.
+- Les zombies qui rampent ne meurent pas automatiquement.
+- Il n'y a pas de zombies casques, blindes ou avec excroissances.
+- Un nouveau depart depuis la selection de niveau donne une seule chargeur
+  de sept balles ; ne relance pas une partie si tu as encore plus de munitions.
+
+[ORDRE DE PREPARATION]
+
+1. Termine Base, Bridge, Canyon, Caves, Traintracks, Refinery, Trailerpark et
+   Sunshine en Normal au moins une fois.
+2. Note le declencheur de chaque horde et l'endroit ou tu peux reculer sans
+   rencontrer de mur invisible.
+3. Commence par Base et Bridge en Apocalyptic pour apprendre la precision.
+4. Dans Bridge, la horde pres de la pile de voitures est declenchee en
+   avancant ; la seconde est declenchee par la prise de la manivelle. Fais un
+   combat a la fois et conserve un angle de retraite.
+5. Dans Canyon et Caves, ne tire pas sur un zombie lointain si tu n'as pas
+   besoin de le faire. Un tir rate vaut plus cher que le temps gagne.
+6. Dans Traintracks, certaines hordes peuvent etre depassees en courant si
+   l'espace se ferme ; apprends le mouvement en Normal avant de tenter.
+7. Pour les niveaux de nuit, memorise les silhouettes et les sons. La lampe
+   occupe une main et ne doit pas rester sortie pendant une horde.
+8. Dans Sunshine, traite chaque defense comme une tentative de survie :
+   ferme une porte, utilise les maisons comme couverture, puis avance seulement
+   quand la vague est termine.
+
+[REGLE DE REPRISE]
+
+Si tu prends un degat ou si tu rates une balle importante, recommence le niveau
+depuis le debut. Les checkpoints manquants ne permettent pas de reparer une
+tentative Apocalyptic.
+
+======================================================================
+APOCALYPTIC - DEAD MAN ET THE DAMNED
+======================================================================
+
+[DEAD MAN]
+
+- The Apocalypse of John demande de terminer tout Dead Man en Apocalyptic.
+- Il n'y a pas de checkpoints de milieu de niveau : apprends les trois parties
+  en Normal, puis repete le trajet sans pause inutile.
+- Garde la lampe rangee pendant les combats et utilise les caisses comme
+  reperes de position.
+- Dans la partie missile, prends la cle du bureau avant d'armer l'ICBM et
+  memorise la remontee du tube. Le compte a rebours ne pardonne pas les
+  detours.
+- Dans les egouts, avance sans t'arreter dans les angles ; une arme a cadence
+  stable est plus sure qu'un rechargement au contact.
+
+[THE DAMNED]
+
+- Great White demande de terminer The Damned en Apocalyptic.
+- Stabilise la visibilite et la cadence d'affichage avant le run ; une chute
+  de performance peut ruiner une tentative longue.
+- Teleport ou deplacement confortable aide a ne pas entrer au contact des
+  zombies rapides. Desactive le snap turn si tes controles le declenchent par
+  erreur.
+- Les quatre generateurs et la console finale sont les deux grands pics de
+  risque. Apprends l'ordre des leviers en Normal, puis cours d'un levier a
+  l'autre en Apocalyptic.
+- A la sortie, utilise l'ordre droite, gauche, droite vers l'echelle,
+  checkpoint, droite, tout droit, gauche. Ne tourne pas au hasard dans les
+  vannes.
+
+======================================================================
+DEPANNAGE DES COMPTEURS
+======================================================================
+
+[GUN COLLECTOR NON VALIDE]
+
+- Rejoue la liste des 24 armes uniques, en prenant chaque arme en main.
+- Commence par Bridge, Canyon, Caves et Traintracks : les petites armes sont
+  les plus faciles a oublier.
+- Ne compte pas les variantes Two Handed, le Golden Desert Eagle ou les armes
+  Horde pour ce succes.
+- Termine le niveau apres la derniere prise, puis regarde Steam au menu.
+
+[QUACK QUACK %$#@! NON VALIDE]
+
+- Les emplacements sont Bridge SUV, Bridge Ol' Dutchman, Traintracks bureau
+  haut et Sunshine motel.
+- Ramasse chaque canard puis termine son niveau. Si le succes ne tombe pas,
+  reprends les quatre dans une seule campagne sans quitter le jeu entre deux.
+
+[MASTER SCAVENGER NON VALIDE]
+
+- Ouvre les tiroirs de classeurs et les coffres de voitures : ils sont les
+  emplacements les plus oublies.
+- Rejoue les chapitres avec le moins de notes de fouille, en prenant chaque
+  objet visible avant la horde.
+- Les objets de Horde peuvent aider pour les compteurs de burgers et de
+  butin, mais ne remplacent pas une fouille de campagne.
+
+[SUCCES HORDE NON VALIDE]
+
+- Verifie que tu n'as pas quitte la session ou change de carte entre les
+  vagues.
+- Pour 300/400/1 000, le mot streak est important : il faut une seule serie.
+- Pour Last Man Standing, la session doit etre multijoueur et le partenaire
+  doit mourir avant la fin de la vague.
+
+[SUCCES APOCALYPTIC NON VALIDE]
+
+- Termine le niveau complet, pas seulement une section.
+- Ne recharge pas un checkpoint : il n'y en a pas pour ce mode.
+- Attends le retour a la selection de niveau et la notification Steam avant de
+  fermer le jeu.
+
+======================================================================
 CHECKLIST FINALE - 48/48 SUCCES STEAM
+======================================================================
 
 - [ ] Steady Hand
-- [ ] And the award for Can Killer goes to...
 - [ ] Headshots like a Boss!
 - [ ] LOOT!
+- [ ] Master Scavenger
+- [ ] Medium well beef plz
+- [ ] Juicy Meat
+- [ ] Charley Horse
+- [ ] Freddy, you there?
+- [ ] VR Creep!
+- [ ] A Thousand Miles
+- [ ] Badabing Badaboom!
+- [ ] Direct Hit!
+- [ ] And the award for Can Killer goes to...
+- [ ] Quack Quack %$#@!
+- [ ] So Sqhuishy
+- [ ] Duck Attack!
 - [ ] It's a Sunny Day!
 - [ ] No Mercy
-- [ ] Charley Horse
 - [ ] It's getting Hot Hot Hot!
-- [ ] So Sqhuishy
-- [ ] Freddy, you there?
 - [ ] Flashed your way out!
 - [ ] Eye see you..
-- [ ] Master Scavenger
 - [ ] You climbed the "Stellage"
 - [ ] Delayed
 - [ ] Baby Wipe War
-- [ ] Badabing Badaboom!
 - [ ] Biting the Bullet
 - [ ] Howdeeyhow!
+- [ ] Green Thumb
 - [ ] I'm not the only one?
-- [ ] Rescued!
 - [ ] You Win!
-- [ ] Medium well beef plz
-- [ ] Juicy Meat
-- [ ] A Thousand Miles
-- [ ] Direct Hit!
+- [ ] Rescued!
+- [ ] Last Man Standing
+- [ ] Skull Cracker
+- [ ] We have ourselves a Cowboy
+- [ ] The Sherrif has arrived!
 - [ ] Online
 - [ ] Rocket Science
 - [ ] The Beginning Of The End
+- [ ] One-Man Militia
+- [ ] Wearing Smells From Laboratories
 - [ ] This will have to do
 - [ ] Are you there?
-- [ ] Last Man Standing
-- [ ] Skull Cracker
-- [ ] Apocalyptic Engineer
-- [ ] VR Creep!
 - [ ] Easy way out
+- [ ] Apocalyptic Engineer
 - [ ] Barracuda
-- [ ] We have ourselves a Cowboy
-- [ ] One-Man Militia
-- [ ] Gun Collector
-- [ ] Duck Attack!
-- [ ] Green Thumb
-- [ ] Quack Quack %$#@!
-- [ ] The Sherrif has arrived!
-- [ ] Wearing Smells From Laboratories
 - [ ] Hard Boiled
 - [ ] The Apocalypse of John
 - [ ] Great White
+- [ ] Gun Collector
 
-VERIFICATION
+======================================================================
+VERIFICATION FINALE
+======================================================================
 
-- [ ] 48/48 succès Steam.
-- [ ] Sept niveaux, loot, armes, ducks, pelles, burgers et radio contrôlés.
-- [ ] Horde, campagne solo, co-op, Dead Man et The Damned vérifiés.
-- [ ] Runs Normal/Apocalyptic séparés.
-- [ ] Aucune scène ni révélation narrative expliquée.
+- [ ] Steam affiche 48/48 succes pour Arizona Sunshine VR Legacy.
+- [ ] 24 armes uniques de campagne controlees.
+- [ ] 4 canards, pelles de Sunshine, 20 burgers et 200 objets de butin
+  controles.
+- [ ] 50 puis 100 headshots, 20 kills grenade et kills objet controles.
+- [ ] Horde : 300, 400, 1 000 et Last Man Standing controles.
+- [ ] Dead Man : campagne, 4 armes, 3 masques et Apocalyptic controles.
+- [ ] The Damned : CEO, radio, quatre generateurs, Normal et Apocalyptic
+  controles.
+- [ ] Campagne principale terminee en Normal et Apocalyptic.
+- [ ] Aucune revelation narrative detaillee dans cette fiche.
+
+======================================================================
+SOURCES DE VERIFICATION
+======================================================================
+
+- Steam Community - liste officielle des 48 succes :
+  https://steamcommunity.com/stats/342180/achievements?l=french
+- Steam Community - guide 100 % et emplacements des armes, canards, Horde,
+  Dead Man et The Damned :
+  https://steamcommunity.com/sharedfiles/filedetails/?id=2068808585&l=english
+- Steam Community - emplacements des quatre canards :
+  https://steamcommunity.com/sharedfiles/filedetails/?id=2420730760
+- Steam Community - guide Apocalyptic de The Damned :
+  https://steamcommunity.com/sharedfiles/filedetails/?id=2172898178
+- Steam Store - Arizona Sunshine et ses DLC :
+  https://store.steampowered.com/app/342180/Arizona_Sunshine/
 
