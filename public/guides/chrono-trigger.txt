@@ -1,133 +1,1243 @@
 CHRONO TRIGGER
-GUIDE CHRONOLOGIQUE 100 % STEAM - SANS SPOILER
+GUIDE CHRONOLOGIQUE 100 % STEAM - 13 SUCCES - FICHE PREMIUM - SANS SPOILER NARRATIF
 
-Version de travail : 10 aout 2026
+Version de travail : 11 aout 2026
+AppID Steam : 613830
 
-Les 13 succes Steam correspondent aux 13 fins enregistrees par la version
-Windows. Le guide recommande une partie normale puis une Nouvelle Partie +
-avec des sauvegardes separees. Les noms d'epoque, de lieu, de boss et de succes
-sont uniquement des reperes de navigation ; aucune consequence narrative n'est
-revelee.
+OBJECTIF DE CETTE FICHE
 
-REGLES DE SAUVEGARDE
+Cette fiche est la route complete de la version Steam de CHRONO TRIGGER. Elle
+sert a faire les choses dans le bon ordre sans perdre les meilleurs coffres,
+les equipements uniques, les quetes optionnelles, les objets de charme, les
+deux donjons additionnels de la version PC et les 13 succes Steam.
 
-MISSABLES
+Le guide est sans spoiler narratif : les noms des epoques, des villes, des
+donjons, des boss et des objets sont conserves comme reperes de navigation,
+mais l'histoire, les revelations et le contenu des fins ne sont pas racontes.
 
-Les fins ont des fenetres manquables : les slots B et C servent a revenir avant
-chaque fenetre courte.
+Le 100 % de cette fiche signifie :
 
-- Slot A : progression principale.
-- Slot B : juste avant chaque fenetre indiquee « FIN MAINTENANT ».
-- Slot C : debut de Nouvelle Partie +.
-- Quand une fin est obtenue, sauvegarde l'enregistrement de fin si le jeu le
-  propose, puis recharge le slot de route pour continuer.
-- Si un succes ne tombe pas, regarde la fin dans Extras avant de refaire le
-  combat ; certains correctifs Steam ont change le moment de validation.
+- 13/13 succes Steam.
+- Route principale terminee avec tous les personnages recrutables.
+- Coffres uniques, coffres scelles et portes scellees recuperes.
+- Quetes annexes de la version originale terminees.
+- Lost Sanctum termine, car il est present sur Steam.
+- Trois Dimensional Vortex termines, puis Time's Eclipse et Dream Devourer.
+- Equipements finaux et recompenses importantes conservees.
 
-PARTIE 1 - ROUTE NORMALE
+La version Steam ne contient pas l'Arena of the Ages. Il n'y a donc aucune
+etape a chercher pour ce mini-jeu absent de la version PC.
 
-1. Joue jusqu'a la conclusion normale de l'histoire.
-2. Avant le combat final, termine les quetes optionnelles des allies, le
-   nettoyage des coffres et l'equipement de fin que tu veux conserver.
-3. Pour la fin Beyond Time, bats Lavos en passant par le Black Omen, apres le
-   retour de Crono dans l'equipe.
-4. Pour Dream's Epilogue, apres la premiere fin, termine les trois Vortex
-   dimensionnels de 12 000 av. J.-C., 1 000 apr. J.-C. et 2 300 apr. J.-C.
-   Parle ensuite a Gaspar a la Fin des Temps et choisis Time's Eclipse dans le
-   seau. Cette fin est propre a la version Steam/DS/iOS.
+COMMENT LIRE LA FICHE
 
-SUCCES DES FINS - ORDRE CHRONOLOGIQUE RECOMMANDE EN NG+
+- « Coffre » designe un coffre visible ou un objet brillant au sol.
+- « Coffre scelle » designe un coffre noir active par le pendentif charge.
+- « Porte scellee » designe une porte du futur ouverte par le meme pendentif.
+- « Charme » signifie utiliser Ayla et sa technique Charm avant de vaincre
+  l'ennemi. Les objets de charme ne tombent pas toujours comme butin normal.
+- Les cases marquees « □ » sont des controles internes. Les seules cases
+  Steam comptabilisees par la fiche sont les 13 lignes [ ] de la checklist
+  finale.
+- Quand une action est indiquee « avant le verrou », fais-la avant la scene ou
+  le boss qui ferme temporairement l'acces a la zone.
 
-La Nouvelle Partie + conserve les niveaux et l'equipement. Des le debut,
-utilise le telepod droit de la Foire du Millenaire pour rejoindre Lavos. Le
-seau de la Fin des Temps sert aux fenetres suivantes. Quand la ligne indique
-« FIN MAINTENANT », ne poursuis pas l'histoire avant de battre Lavos.
+PLAN DE SAUVEGARDES
+
+Garde au minimum quatre slots tournants :
+
+- Slot A : sauvegarde de progression principale.
+- Slot B : sauvegarde avant chaque choix unique, chaque fin et chaque grosse
+  quete de fin de jeu.
+- Slot C : sauvegarde juste avant l'ouverture des coffres scelles en 600 AD.
+- Slot D : sauvegarde claire apres la premiere fin, utilisee pour le New Game +.
+
+Le New Game + conserve les niveaux, les techniques, les objets et la plupart
+des equipements. C'est la methode normale pour les fins rapides. Ne supprime
+jamais le fichier de fin avant d'avoir verifie le succes dans Steam et dans le
+menu Extras.
+
+REGLES DE 100 % A NE PAS OUBLIER
+
+MISSABLES ET ALERTES DE ROUTE
+
+Les objets les plus sensibles ne sont pas les succes eux-memes : ce sont les
+coffres scelles, les recompenses de charme et les zones qui se ferment apres
+un boss. Les lignes suivantes sont le garde-fou a relire avant chaque verrou.
+
+1. COFFRES SCELLES : L'ORDRE QUI DONNE LES MEILLEURS OBJETS
+
+Pour les coffres du Moyen Age qui possedent une version au Present :
+
+1. Au 600 AD, interagis avec le coffre avec le pendentif charge.
+2. Quand le jeu demande si tu veux prendre l'objet, choisis NON.
+3. Va au 1000 AD et ouvre le coffre correspondant : tu obtiens la version
+   amelioree.
+4. Retourne au 600 AD et recupere enfin l'objet d'origine.
+
+Si tu prends d'abord la version 600 AD, le coffre du Present ne donnera pas la
+version amelioree. Ce n'est pas necessaire pour les succes, mais c'est la
+regle indispensable pour une fiche 100 % propre.
+
+2. LES COFFRES SCELLES QUI NE S'AMELIORENT PAS
+
+- Guardia Forest, 600 AD : Speed Tab.
+- Guardia Forest, 1000 AD : Power Ring.
+- Magic Cave, 600 AD : Magic Ring.
+- Heckran Cave, 1000 AD : Wall Ring et Dash Ring dans le meme coffre.
+- Forest Ruins, 1000 AD : Swallow OU Safe Helm. Fais une sauvegarde avant le
+  choix. Pour completer l'inventaire unique, prends Swallow ; pour le confort
+  de combat, Safe Helm est le choix defensif.
+
+3. PORTES SCELLEES DU FUTUR
+
+Ouvre-les apres avoir charge le pendentif a la Mammon Machine, en profitant des
+trajets de retour vers le futur :
+
+- Trann Dome : Gold Stud, Full Ether et Magic Tab.
+- Bangor Dome : Charm Top, Wallet et Full Ether.
+- Arris Dome : Luminous Robe, Hit Ring, Gold Earring, Elixir et Power Tab.
+- Keeper's Dome : Magic Tab.
+
+4. OBJETS DE CHARME
+
+Quand Ayla apprend Charm, utilise-la sur chaque nouveau boss avant de le
+vaincre. Les priorites de la route sont :
+
+- Naga-ette : Naga-ette Bromide dans la Cathedral si tu n'as pas recupere le
+  Bromide cache par la fouille du meuble.
+- Nizbel et Nizbel II : Third Eye.
+- Azala : Magic Tab.
+- Black Tyrano : Power Tab.
+- Giga Gaia : Speed Tab.
+- Son of Sun : Black Mail.
+- Retinite : Speed Tab sur le noyau.
+- Yakra XIII : White Mail.
+- Rust Tyrano : Red Mail.
+- Mother Brain : Blue Mail.
+- Ozzie, Slash et Flea : objets rares de leurs combats ; utilise Ayla des que
+  la scene te laisse agir.
+- Black Omen : Panels pour les Speed Tabs, Ghaj pour les Magic Tabs, Blubber
+  Hulk pour les Power Tabs, Flyclops pour les Gold Studs et les boss pour les
+  equipements rares.
+
+5. LE NU DE KAJAR ET LE GRAINE
+
+Avant d'utiliser la Mammon Machine dans Zeal Palace :
+
+- Fais le puzzle des livres a Enhasa et Kajar.
+- Recupere le Black Rock, le Speed Tab et le Magic Tab de Kajar.
+- Apprends le « scratch point » du Nu a Zeal Palace.
+- Demande a la femme de planter la Seed.
+
+Interagir avec la Mammon Machine trop tot ferme temporairement toute la zone
+de Zeal et peut faire perdre des objets de cette visite. Le New Game + permet
+de rattraper beaucoup de choses, mais la route ci-dessous evite de devoir le
+faire.
+
+========================================
+PARTIE I - ROUTE PRINCIPALE COMPLETE
+========================================
+
+1. 1000 AD - LEENE SQUARE ET GUARDIA
+
+Avant de quitter Crono's House :
+
+- Parle a la mere et fouille la chambre pour l'argent de depart.
+- Fais une sauvegarde manuelle avant d'entrer a Leene Square.
+
+Dans Leene Square :
+
+- Parle a Marle sans courir directement vers le telepod.
+- Recupere le pendentif et rends-le a Marle.
+- Achete Iron Blade a Melchior si tu peux le payer ; c'est l'achat utile de
+  cette premiere zone.
+- Combats Gato autant que necessaire pour accumuler des points de foire.
+- Essaie le soda et le jeu de course ; ces activites ne sont pas requises par
+  un succes, mais elles servent a obtenir les recompenses de Norstein Bekkler.
+- Pour la route de collection, vise au moins 40 points avant le jeu de
+  Bekkler. Les paliers utiles sont 10, 40 et 80 points.
+
+Recompenses de Bekkler a recuperer plus tard :
+
+- Jeu 10 points : Poyozo Doll.
+- Jeu 40 points : Clone.
+- Jeu 80 points : le chat de Crono.
+- Rejouer apres une recompense : nourriture du chat.
+
+Route du telepod :
+
+1. Regarde la demonstration de Lucca.
+2. Laisse Marle utiliser le telepod de droite.
+3. Entre dans le portail et avance dans Truce Canyon.
+
+Truce Canyon - objets :
+
+- Coffre nord-ouest : Tonic.
+- Coffre central : PowerGlove.
+- Fouille chaque recoin avant de sortir ; aucun coffre n'est bloque a ce
+  moment.
+
+2. 600 AD - GUARDIA FOREST ET LA CATHEDRAL
+
+Guardia Forest, premiere visite :
+
+- Traverse la foret jusqu'a Guardia Castle.
+- Dans le present 600 AD, un Power Tab est cache dans la clairiere sud-est.
+  Le petit eclat est facile a manquer : longe les arbres plutot que de suivre
+  uniquement le chemin central.
+
+Guardia Castle :
+
+- Fais le tour des etages avant de poursuivre.
+- Le coffre de la zone contient Bronze Mail.
+- N'enleve pas encore le pendentif des evenements de Marle ; suis la scene
+  jusqu'a la Cathedral.
+
+Manoria Cathedral - route et coffres :
+
+1. Entre dans la Cathedral et inspecte les pieces laterales avant de passer
+   par le corridor principal.
+2. Fouille les salles avec bancs et tonneaux : tu y trouveras des soins et
+   des armures de debut de jeu.
+3. Dans la salle avec l'autel et la statue de Magus, ouvre les deux coffres
+   caches derriere le passage lateral : Guardian Bangle et Speed Belt.
+4. Dans la salle de gauche, fouille le meuble du haut pour le Naga-ette
+   Bromide. Il ne s'affiche pas toujours comme un objet ordinaire.
+5. Recupere les coffres d'equipement : Maiden Suit, Steel Saber, Defender,
+   Iron Sword et Power Tab.
+6. Sauvegarde avant le combat de Yakra.
+
+Boss Yakra :
+
+- Garde Marle pour le soin et utilise les techniques physiques de Crono et
+  Lucca sans gaspiller les points de magie.
+- Si Ayla est deja disponible sur une autre sauvegarde, le combat n'est pas
+  Charmable ; ne reviens pas chercher un objet ici.
+
+Apres la Cathedral :
+
+- Recupere l'equipement de Frog avant la transition si tu veux conserver son
+  ancien equipement dans l'inventaire.
+- Retourne a Guardia Castle et suis la reine jusqu'au portail.
+
+3. 1000 AD - PROCES ET PRISON
+
+Guardia Castle :
+
+- Laisse la sequence du proces se derouler.
+- Les reponses du proces changent le jugement et certaines scenes, mais pas
+  les 13 succes. Pour une partie sans variation inutile, garde le slot B
+  avant d'entrer dans la salle du tribunal.
+
+Prison de Guardia :
+
+- Recupere tous les coffres visibles avant de quitter chaque bloc de cellules.
+- Ouvre la cellule de Lucca quand elle arrive, puis suis le chemin vers la
+  salle du directeur.
+- Dans le couloir avec les gardes, utilise les passages lateraux plutot que
+  de foncer vers la sortie ; plusieurs coffres ordinaires sont sur le trajet.
+- Une fois le combat du directeur termine, retourne vers la sortie et ne
+  laisse aucun coffre dans les cellules.
+
+Guardia Forest, fuite :
+
+- Suis le chemin de sortie vers Bangor Dome.
+- Les zones de foret traversables a 600 AD et 1000 AD contiennent des objets
+  differents : note la clairiere avec l'eclat, car elle reviendra dans la
+  section des coffres scelles.
+
+4. 2300 AD - LES DÔMES ET LA FACTORY
+
+Bangor Dome et Trann Dome :
+
+- Parle a tous les survivants, achete les soins et sauvegarde.
+- Trann Dome devient la base pratique pour soigner et acheter des potions.
+- N'essaie pas encore d'ouvrir les portes scellees : le pendentif n'est pas
+  charge.
+
+Lab 16 :
+
+- Reste sur les passerelles et inspecte les deux embranchements.
+- Coffres uniques : Berserker, Lode Sword et Lode Bow.
+- Les soins ordinaires peuvent etre pris maintenant ; il n'y a pas de raison
+  de les conserver.
+
+Arris Dome :
+
+1. Parle a Doan et accepte la mission de nourriture.
+2. Traverse les salles en faisant le tour des murs : la salle de stockage
+   contient le passage du repas et des objets de soin.
+3. Recupere la Seed et donne-la a Doan pour recevoir Bike Key.
+4. Fais une sauvegarde avant Lab 32.
+
+Sewer Access - passage optionnel mais recommande :
+
+- Explore-le avant ou apres Lab 32 ; il ne bloque pas la progression.
+- Coffres uniques : Rage Band et Bolt Sword.
+- La salle aux rats et le passage a leviers contiennent surtout des combats,
+  mais inspecte chaque alcove avant le raccourci de sortie.
+
+Lab 32 :
+
+- Utilise Bike Key pour affronter Johnny ou traverse a pied.
+- Apres la course, reviens d'un ecran vers l'ouest pour prendre Race Log.
+- Pour le Power Tab de Johnny, obtiens un score de 1 500 ou plus.
+- Ne quitte pas la zone sans prendre Race Log : l'objet sert a la collection,
+  meme s'il ne sert plus directement a la progression.
+
+Proto Dome et Factory :
+
+1. Rejoins Robo dans Proto Dome.
+2. Entre dans Factory et retablis l'alimentation des portes.
+3. Suis les tapis roulants jusqu'a la grue, puis reviens dans les zones
+   laterales ouvertes par les interrupteurs.
+4. Coffres uniques de Factory : Robin Bow, Bolt Sword, Titan Vest et Hammer
+   Arm. Les autres coffres sont des Ether, Mid-Ether, Shelter et armures
+   ordinaires ; prends-les tous pendant la premiere visite.
+5. Sauvegarde avant R-Series.
+6. Apres le combat, retourne a Proto Dome et accompagne Robo.
+
+5. FIN DES TEMPS - PREMIER PASSAGE
+
+- Parle a l'ancien et aux personnages de la salle.
+- Fais le tour de Spekkio trois fois dans le sens indique par le jeu pour
+  apprendre la magie.
+- Fais essayer la magie a Crono, Marle et Lucca.
+- Spekkio donne une recompense quand il est vaincu. Les formes changent avec
+  le niveau moyen du groupe ; reviens a chaque changement de forme.
+
+Passages et recompenses de Spekkio :
+
+- Forme la plus faible : Keara et Magic Tab.
+- Formes intermediaires : recompenses de soin, d'Ether et capsules.
+- Formes de fin de jeu : Magic Tabs supplementaires.
+
+Le nombre exact de recompenses depend du niveau du groupe. La regle fiable est
+de revenir a la Fin des Temps apres chaque grand chapitre, de parler a Spekkio
+et de refaire le combat si sa forme a change.
+
+6. 65 000 000 BC - AYLA ET LE GATE KEY
+
+Mystic Mountains :
+
+- Traverse les montagnes jusqu'a Ioka Village.
+- Dans les combats avec Ayla, commence a utiliser Charm des que la technique
+  est apprise.
+
+Ioka Village et Hunting Range :
+
+- Parle aux artisans et au chef de tribu.
+- Fais au moins une visite de Hunting Range sous la pluie pour rencontrer le
+  Nu et recuperer les objets d'echange.
+- Les objets d'echange utiles sont les armures Ruby, les armes Dreamstone et
+  les accessoires defensifs. Garde les Petal, Fang, Horn et Feather jusqu'a
+  ce que les quatre armes et le Ruby Vest soient obtenus.
+- Si tu veux toutes les recompenses de charme, capture les objets des ennemis
+  suivants : Prehistoric Frog, Nu, Nizbel et les monstres du Reptite Lair.
+
+Dactyl Nest :
+
+- Fouille les deux embranchements avant le sommet.
+- Coffre unique : Meso Mail.
+- La monture Dactyl est necessaire pour les trajets qui suivent.
+
+Forest Maze et Reptite Lair :
+
+1. Suis les traces de Kino a travers le labyrinthe.
+2. Ramasse chaque eclat et coffre avant la sortie ; certains passages
+   reviennent sur eux-memes, donc verifie la carte apres chaque ecran.
+3. Dans Reptite Lair, les coffres contiennent des armes de troc, des armures
+   et des capsules. Inspecte les salles nord et est avant le boss.
+4. Utilise Charm sur Nizbel pour Third Eye.
+5. Recupere Gate Key et retourne a la Fin des Temps.
+
+7. 600 AD - LE PONT, DENADORO ET LA MASAMUNE
+
+Avant de quitter la zone :
+
+- Passe par Guardia Castle pour la mission du pont.
+- Prends la nourriture dans les cuisines et rapporte-la aux soldats de Zenan
+  Bridge.
+- Fouille Residence avec le Naga-ette Bromide : le proprietaire donne un
+  Magic Tab.
+- A Porre, achete Beret au marche et recupere le Power Tab dans la zone de
+  l'ancien.
+
+Cursed Woods :
+
+- Trouve Frog dans la partie cachee de la foret.
+- Recupere le Magic Scarf.
+- Le passage cache derriere les arbres contient le Bent Hilt de la Masamune.
+
+Denadoro Mountains :
+
+1. Prends le chemin haut puis reviens par les passerelles basses pour ne pas
+   laisser de coffre derriere toi.
+2. Coffres uniques : Mirage Hand, Gold Helm, Silver Stud, Silver Earring et
+   Gold Suit.
+3. Au point de sauvegarde, inspecte la zone inferieure pour le Speed Tab.
+4. Parle au Kilwala en haut de la montagne pour recevoir le Magic Tab.
+5. Continue jusqu'a Tata's House et recupere Hero's Medal.
+
+Cursed Woods, seconde visite :
+
+- Avec le Bent Hilt et Hero's Medal, retourne voir Frog.
+- Recupere le Bent Sword et la moitie restante de la Masamune.
+
+Melchior's Hut, 1000 AD :
+
+- Apporte le Bent Sword a Melchior.
+- Il demande Dreamstone : garde le slot B avant de repartir.
+
+8. 65 000 000 BC - DREAMSTONE ET REPARATION
+
+- Retourne a Ioka avec le portail de la Fin des Temps.
+- Participe au concours d'Ayla et gagne Dreamstone.
+- Pendant la scene de la fete, fouille le village et prends les objets
+  accessibles avant de suivre la piste de Kino.
+- Retourne a Melchior's Hut avec Dreamstone.
+- Rapporte la Masamune restauree a Frog dans Cursed Woods.
+- Une fois Frog de retour, fais-le passer par la Fin des Temps pour apprendre
+  la magie.
+
+9. 600 AD - MAGIC CAVE ET MAGUS'S CASTLE
+
+Magic Cave :
+
+- Active le coffre scelle proche de l'entree mais ne t'attends pas a une
+  version amelioree : Magic Ring est une recompense unique.
+- Utilise des techniques elementaires et garde un soin de zone pret.
+
+Magus's Castle - route complete :
+
+1. Choisis une aile et termine-la ; les deux chemins rejoignent la salle
+   centrale.
+2. Dans la salle de Slash, recupere Slasher apres le combat.
+3. Dans la zone de Flea, prends Magic Tab apres le combat.
+4. Salle du corridor est : Mist Robe.
+5. Salle du corridor ouest : Dark Mail et Doom Finger.
+6. Salle des ombres et du point de sauvegarde : Magic Tab, Speed Belt,
+   Magic Scarf et la seconde Mist Robe.
+7. Dans la salle de la guillotine, ouvre le coffre visible et le passage
+   cache avant la salle de Magus.
+
+Liste complete des recompenses uniques de Magus's Castle :
+
+- Slasher.
+- Magic Tab x2.
+- Mist Robe x2.
+- Dark Mail.
+- Doom Finger.
+- Speed Belt.
+- Magic Scarf.
+- Lapis, Barrier, Shelter, Revive et Mid-Ether dans les coffres ordinaires.
+
+Boss Magus :
+
+- Les protections elementaires et les sorts de soin sont plus importants que
+  le niveau.
+- Apres la bataille, suis la transition vers la Prehistoire.
+
+10. 65 000 000 BC - TYRANO LAIR
+
+- Passe par Laruba Ruins pour retrouver Ayla.
+- Utilise Dactyl Nest pour atteindre Tyrano Lair.
+- Dans Tyrano Lair, prends tous les coffres des salles laterales avant de
+  descendre vers Azala.
+- Coffres uniques : Cera Topper, Meso Mail et une seconde Cera Topper.
+- Avec Ayla, Charm Azala pour Magic Tab, Nizbel II pour Third Eye et Black
+  Tyrano pour Power Tab.
+- Termine la zone et emprunte le portail vers 12 000 BC.
+
+11. 12 000 BC - ZEAL, ENHASA, KAJAR ET MOUNT WOE
+
+Enhasa :
+
+- Parle aux habitants et fais le tour de la bibliotheque.
+- Complete le puzzle des livres pour obtenir Magic Tab et Speed Tab.
+- Fais une sauvegarde avant de partir vers Kajar.
+
+Kajar :
+
+- Active les trois livres elementaires de la bibliotheque pour ouvrir le
+  passage secret.
+- Coffre cache : Black Rock.
+- Eclat a l'exterieur de la salle de recherche : Speed Tab.
+- Apres avoir appris le scratch point a Zeal Palace, reviens gratter le Nu
+  de Kajar : Magic Tab.
+- Achete les armures et armes de Kajar si tu veux completer les listes de
+  boutique avant la chute de Zeal.
+
+Zeal Palace, avant la Mammon Machine :
+
+- Parle a Schala, Janus, aux Nus et aux habitants.
+- Apprends le scratch point du Nu.
+- Dans la salle de la Seed, dis a la femme de planter la Seed.
+- Utilise Ayla sur Golem pour Charm Magic Tab.
+- N'utilise la Mammon Machine qu'apres avoir termine les etapes ci-dessus.
+
+Mountain of Woe :
+
+1. Fais le tour des six zones avant de prendre l'ascenseur final.
+2. Coffres : Lode Helm, Lode Vest, Barrier x3, Shield x2, Lapis x2,
+   Full Ether x2, Time Hat et Magic Tab.
+3. Les Rubble donnent beaucoup de points de technique : si un personnage est
+   proche d'une nouvelle technique, c'est le dernier bon moment pour la
+   debloquer sans farmer.
+4. Sur Giga Gaia, Charm la Speed Tab sur la partie superieure.
+5. Termine la montagne et retourne a Terra Cave.
+
+Terra Cave et village de Zeal :
+
+- Achete Comet Arrow, Mega Blast, Megaton Arm et Flash Blade si tu vises la
+  collection de boutique.
+- Le vendeur disparait plus tard ; les objets achetes ici ne seront pas tous
+  disponibles au meme prix ensuite.
+- Achete les armures de Terra Cave avant de poursuivre.
+
+12. ZEAL PALACE ET OCEAN PALACE
+
+Zeal Palace, deuxieme passage :
+
+- Utilise le pendentif charge pour franchir la porte scellee.
+- Quand Schala ouvre la porte, le jeu entre dans une fenetre de fin : si tu
+  veux The Memory Lane dans ton NG+, cree le slot B avant de restaurer le
+  pendentif a la Mammon Machine.
+- Pour la route normale 100 %, restaure le pendentif et poursuis.
+
+Ocean Palace - tous les coffres uniques :
+
+- Premier secteur : Rune Blade et Aeon Suit.
+- Salle est : Aeon Helm.
+- Salle ouest : Star Sword.
+- Secteur sud : Kaiser Arm, SonicArrow, Shock Wave et Demon Hit.
+- Sommet du premier ascenseur : Magic Tab cache ; monte avec l'ascenseur,
+  puis redescends et remonte pour faire apparaitre le point brillant.
+- Salle du dernier point de sauvegarde : Elixir.
+
+Pendant les combats :
+
+- Les ennemis de couleur rouge et bleue ont des faiblesses elementaires
+  opposees ; utilise les techniques correspondantes.
+- Les Golem peuvent etre Charm pour Magic Tab.
+- Fais une sauvegarde avant le sommet, puis avance jusqu'au combat obligatoire.
+
+Apres Ocean Palace :
+
+- Le groupe est transporte dans Commons.
+- Recupere l'equipement des personnages dans Blackbird : les grilles nord-ouest,
+  sud-ouest et nord-est contiennent l'equipement retire au groupe.
+- Fouille la zone ouest pour l'argent, puis la salle suivante pour les objets
+  de sortie.
+- Dans les conduits d'aeration du Blackbird, au nord-est, prends Magic Tab.
+- Une fois Epoch recupere et transforme, la route de fin de jeu est ouverte.
+
+========================================
+PARTIE II - LES COFFRES ET PORTES SCELLES
+========================================
+
+Fais cette section juste apres avoir le pendentif charge et avant de lancer les
+grosses quetes annexes. Le trajet le plus rapide passe par Bangor Dome.
+
+2300 AD - PORTES SCELLEES
+
+Bangor Dome :
+
+- Prends le portail vers Guardia Forest si tu as besoin du Power Ring.
+- Ouvre la porte scellee : Charm Top, Wallet et Full Ether.
+- Le Wallet est l'objet cache dans la salle profonde ; ne pars pas apres le
+  premier coffre.
+
+Trann Dome :
+
+- Ouvre la porte scellee : Gold Stud et Full Ether.
+- Prends le Magic Tab sur le sol, dans le coin de la salle.
+
+Arris Dome :
+
+- Ouvre la porte scellee dans l'aile de stockage.
+- Recompenses : Luminous Robe, Hit Ring, Gold Earring, Elixir et Power Tab.
+
+Keeper's Dome :
+
+- Ouvre la porte scellee avant de nommer Epoch et avant de quitter la zone.
+- Recompense : Magic Tab.
+
+600 AD - ACTIVATION DES COFFRES A AMELIORER
+
+Ne prends aucun objet lorsque le coffre affiche l'aura de reaction. Active-les
+simplement, choisis NON, puis passe au 1000 AD.
+
+- Guardia Castle, escalier vers les quartiers du roi : active le coffre Red.
+- Truce Inn : active le coffre Blue.
+- Porre Mayor's Manor : active les deux coffres White et Black.
+- Northern Ruins : active les trois coffres de la salle de Cyrus apres avoir
+  obtenu la Masamune restauree.
+
+1000 AD - RECUPERATION DES VERSIONS AMELIOREES
+
+- Porre Mayor's Manor : Black Mail et White Mail.
+- Guardia Castle : Red Mail.
+- Truce Inn : Blue Mail.
+- Northern Ruins : Moon Armor, Valkyrie et Suzaku apres la reparation des
+  ruines et l'ouverture des salles.
+
+600 AD - RECUPERATION DES VERSIONS DE BASE
+
+Retourne une derniere fois aux memes coffres :
+
+- Porre Mayor's Manor : Black Vest et White Vest.
+- Guardia Castle : Red Vest.
+- Truce Inn : Blue Vest.
+- Northern Ruins : Nova Armor, Siren's Kiss et Kali Blade.
+
+SINGLE CHESTS SCELLES
+
+- Guardia Forest 600 AD : Speed Tab.
+- Guardia Forest 1000 AD : Power Ring.
+- Magic Cave 600 AD : Magic Ring.
+- Heckran Cave 1000 AD : Wall Ring et Dash Ring.
+- Forest Ruins 1000 AD : Swallow ou Safe Helm.
+
+CHOIX DE FOREST RUINS
+
+Avant d'ouvrir le coffre, fais le slot B. Le coffre propose un choix unique :
+
+- Swallow : arme de Crono, rapide et utile pour toute la route.
+- Safe Helm : casque defensif ; un autre exemplaire peut etre obtenu plus
+  tard, alors que Swallow est le choix unique de cette zone.
+
+Pour une collection d'objets distincts, selectionne Swallow. Pour un groupe
+qui joue principalement sans Crono, Safe Helm est acceptable, mais tu n'auras
+pas les deux dans la meme partie.
+
+========================================
+PARTIE III - ROUTE DES QUETES ANNEXES
+========================================
+
+Cette route commence apres la transformation d'Epoch. Elle est conseillee
+avant Black Omen, avec l'ordre Sun Stone avant Rainbow Shell pour obtenir toutes
+les fabrications de Melchior au meme passage.
+
+1. DEATH PEAK - RAMENER CRONO
+
+Ordre exact :
+
+1. A la Fin des Temps, parle a Gaspar pour obtenir Chrono Trigger.
+2. A Keeper's Dome, parle au Nu et apprends qu'il faut un Clone.
+3. A Leene Square, gagne le jeu 40 points de Norstein Bekkler.
+4. Recupere le Clone a Crono's House.
+5. Retourne a Keeper's Dome et prends le portail de Death Peak.
+6. Dans Death Peak, suis les arbres comme abris contre le vent.
+7. Au premier plateau, fais le detour vers la droite pour Power Tab.
+8. Dans la zone enneigee, utilise les petits arbres pour bloquer les rafales,
+   puis reviens chercher les coffres des rebords.
+9. Garde la sauvegarde B avant l'utilisation de Chrono Trigger.
+10. Termine la sequence et verifie que Crono est de nouveau selectionnable.
+
+Recompenses : Chrono Trigger consomme, Crono recupere, Power Tab, Magic Ring,
+Wall Ring, Giga Arm, Brave Sword et Star Scythe selon les coffres de la
+montagne et de Keeper's Dome.
+
+2. FIONA'S FOREST ET SUNKEN DESERT - ROBO
+
+Depart : Fiona's Villa, 600 AD, a l'est de Dorino.
+
+1. Parle a Fiona et a Marco.
+2. Dans Zeal Palace, donne l'ordre de planter la Seed si ce n'est pas deja
+   fait ; cette etape doit etre faite avant la transformation de l'Epoch.
+3. Entre dans Sunken Desert, au sud de Fiona's Villa.
+4. Dans la premiere zone, prends Aeon Suit, Aeon Helm, Memory Cap et Muscle
+   Ring. Inspecte les angles de chaque salle avant de descendre.
+5. Dans la salle de Retinite, garde le slot B. Tu peux entrer et ressortir,
+   mais ne lance pas le boss tant que le groupe n'est pas equipe.
+6. Retinite se divise en noyau et parties laterales : detruis les parties,
+   garde des soins de zone et utilise Water/Ice sur les bonnes cibles.
+7. Avec Ayla, Charm la Speed Tab sur le noyau.
+8. Retourne a Fiona et laisse Robo rester avec elle.
+9. Va a 1000 AD, Fiona's Shrine, et complete la sequence de reforestation.
+10. Recupere GreenDream a la fin de la scene.
+
+Objets a controler : Aeon Suit, Aeon Helm, Memory Cap, Muscle Ring, Elixir,
+Speed Tab de Retinite et GreenDream.
+
+3. GENO DOME - ROBO
+
+Depart : ile sud de 2300 AD. Robo doit etre dans le groupe.
+
+1. Entre dans Geno Dome et active les ordinateurs de la salle principale.
+2. Le systeme alterne tapis roulants, ascenseurs et interrupteurs. Quand un
+   robot Robo peut atteindre un interrupteur en sautant, utilise-le : cette
+   action ouvre les portes de la partie rouge.
+3. Dans le couloir aux lampes rouges, prends le Power Tab dans le coin sud-est.
+4. Dans la salle du convoyeur, les combats rapportent beaucoup de points de
+   technique ; utilise ce passage pour terminer les techniques manquantes.
+5. Coffres de la premiere partie : Full Tonic, HyperEther, Full Ether,
+   Vigil Hat, Lapis et 50 000 G.
+6. Monte a l'etage et ouvre les coffres autour du combat d'Atropos XR :
+   MegaElixir, Magic Tab et 15 000 G.
+7. Sauvegarde avant Atropos XR.
+8. Apres le combat, utilise le nouveau passage de Robo pour atteindre les
+   coffres est et sud : Elixir, Lapis, Magic Tab, Full Ether et capsules.
+9. Prends le Speed Tab cache sous le Poyozo Doll en quittant puis en
+   revenant dans la salle si l'eclat n'est pas visible.
+10. Dans la salle de Mother Brain, detruis les ecrans selon la priorite
+    indiquee par le combat, puis attaque le coeur.
+11. Utilise Charm sur Mother Brain pour Blue Mail.
+12. Recompenses finales : Terra Arm, Crisis Arm et Atropos Ribbon.
+
+Geno Dome devient inaccessible apres la conclusion de sa quete. Ne pars pas
+avant d'avoir ouvert tous les coffres et pris les capsules.
+
+4. OZZIE'S FORT - MAGUS
+
+Depart : foret mystique du 600 AD, au nord-ouest.
+
+1. Entre dans Ozzie's Fort apres la conclusion de Magus's Castle.
+2. Dans la salle de la guillotine, prends Full Ether.
+3. Entre dans la zone noire cachee par le mur nord-est.
+4. Coffres de la salle cachee : Magic Tab, DoomSickle, Gloom Helm et Gloom
+   Cape.
+5. Dans la salle des boss, prends Dash Ring et Sight Cap.
+6. Charm Flea Plus, Super Slash et Great Ozzie avant de les vaincre : Flea
+   Vest, Slasher 2 et Ozzie Pants sont les recompenses rares.
+7. Pour le dernier combat, frappe les interrupteurs autour d'Ozzie plutot que
+   de gaspiller les techniques de zone.
+
+Recompenses : DoomSickle, Gloom Helm, Gloom Cape, Dash Ring, Sight Cap,
+Magic Tab et Ozzie Pants.
+
+5. SUN STONE - LUCCA
+
+L'ordre qui donne tous les objets :
+
+1. 2300 AD, Sun Keep : interagis avec le socle vide pour confirmer le lieu.
+2. 65 000 000 BC, Sun Palace : combats Son of Sun.
+3. Sur Son of Sun, utilise une armure Red Mail/Red Vest ou une protection
+   contre le feu. Attaque les flammes une par une jusqu'a toucher la bonne.
+4. Charm Black Mail sur le corps principal.
+5. Recupere Moon Stone au socle.
+6. 65 000 000 BC, Sun Keep : depose Moon Stone.
+7. 1000 AD, Sun Keep : verifie que Moon Stone n'est plus au socle.
+8. 1000 AD, Snail Stop : achete Jerky.
+9. 600 AD, Elder's House de Porre : donne Jerky gratuitement a la femme.
+10. 1000 AD, Mayor's Manor de Porre : le maire remet Moon Stone.
+11. 1000 AD, Sun Keep : replace Moon Stone.
+12. 2300 AD, Sun Keep : avec Lucca dans le groupe, recupere Sun Stone.
+13. Lucca's House, 1000 AD : donne Sun Stone a Taban.
+14. Recupere WonderShot et Sun Shades.
+
+Ne vends pas Jerky et ne quitte pas la route avant de l'avoir donne. Le maire
+ne remet pas Moon Stone si la donation n'a pas ete faite.
+
+6. NORTHERN RUINS ET CYRUS - FROG
+
+Depart : Choras, 600 AD.
+
+1. Parle a l'homme du Cafe de Choras : il demande les Carpenter's Tools.
+2. 1000 AD, Choras Inn : parle a l'homme qui possede les outils.
+3. Retourne en 600 AD et donne les outils au Carpenter de la Residence.
+4. Alterne Residence et Northern Ruins pour faire fuir les monstres et
+   reparer les murs.
+5. Ne prends pas encore les trois coffres scelles de Northern Ruins : active
+   chacun au 600 AD, choisis NON.
+6. Va au 1000 AD, reviens dans les ruines et termine les reparations.
+7. Avec Frog en leader, visite le tombeau de Cyrus.
+8. Ouvre les versions ameliorees : Moon Armor, Valkyrie et Suzaku, puis
+   retourne au 600 AD pour Nova Armor, Siren's Kiss et Kali Blade.
+9. Recupere les Magic Tab, Power Tab et Elixir de la partie profonde.
+10. La Masamune de Frog est amelioree automatiquement a la fin.
+
+Garde Frog en premiere position dans le groupe avant d'entrer dans la salle de
+Cyrus. Sans lui en leader, la scene du tombeau ne se declenche pas.
+
+7. GIANT'S CLAW ET RAINBOW SHELL - MARLE
+
+Depart : West Cape, 1000 AD, apres avoir parle a Toma a Choras 600 AD.
+
+1. 600 AD, Cafe de Choras : parle a Toma et recupere son Toma's Pop.
+2. 1000 AD, West Cape : verse Toma's Pop sur la tombe.
+3. Le passage vers Giant's Claw s'ouvre dans le 600 AD.
+4. Dans Giant's Claw, utilise les interrupteurs et prends chaque detour avant
+   de suivre la salle centrale.
+5. Coffres : Sight Cap, Power Tab x3, Blue Rock et Zodiac Cape.
+6. Utilise Ayla sur Rust Tyrano pour Red Mail.
+7. Recupere Rainbow Shell et retourne a Guardia Castle 1000 AD.
+8. Sauvegarde avant le deuxieme proces de Guardia.
+9. Suis le passage de la salle du tribunal vers les sous-sols.
+10. Utilise Yakra Key sur le coffre pour liberer le vrai Chancellor.
+11. Recupere Prism Shard / Rainbow Shell et presente-la a Melchior.
+12. Choisis Prism Dress OU trois Prism Helms.
+13. Comme Sun Stone est deja terminee, Melchior fabrique Rainbow et Prism
+    Specs dans la meme visite.
+
+Choix d'equipement : Prism Dress est la meilleure piece pour les personnages
+feminins ; trois Prism Helms donnent une collection plus flexible. Les Queen
+Zeal du Black Omen permettent ensuite de recuperer des pieces Prism
+supplementaires avec Ayla.
+
+8. BLACK OMEN - TROIS PASSAGES DE COLLECTION
+
+Le Black Omen existe en 1000 AD, 600 AD et 12 000 BC. Pour obtenir le maximum
+de recompenses, fais les passages dans cet ordre :
+
+1. Entree 1000 AD.
+2. Entree 600 AD.
+3. Entree 12 000 BC.
+
+Une entree a une epoque plus ancienne supprime l'edifice dans les epoques
+suivantes. Les coffres et plusieurs ennemis uniques ne reapparaissent qu'une
+fois, meme si tu changes d'epoque. Les trois combats de Queen Zeal, eux,
+permettent de nouvelles recompenses a chaque passage.
+
+Black Omen - route des coffres :
+
+- Hall des panneaux : MegaElixir et 30 000 G.
+- Couloir suivant : Magic Seal.
+- Salle du point de sauvegarde : Nova Armor, Vigil Hat, Haste Helm, Elixir
+  et MegaElixir x2.
+- Chemin de l'energie blanche : Zodiac Cape, MegaElixir, Power Seal et Speed
+  Tab.
+- Grande salle d'energie blanche : Elixir, Speed Tab et MegaElixir.
+- Salle finale des coffres : Speed Tab, White Rock et MegaElixir.
+
+Total des recompenses de coffre a controler : MegaElixir x6, Elixir x2,
+30 000 G, Magic Seal, Power Seal, Vigil Hat, Nova Armor, Haste Helm, Zodiac
+Cape, Speed Tab x4 et White Rock.
+
+Charme prioritaire :
+
+- Panels : Speed Tab, objets rares et capsules.
+- Ghaj : Magic Tab.
+- Blubber Hulk : Power Tab.
+- Flyclops : Gold Stud.
+- Hydraconda : MegaElixir.
+- Les mains de Queen Zeal : Prism Helm et Prism Dress.
+
+Boss principaux : Mega Mutant, Giga Mutant, Terra Mutant, Lavos Spawn,
+Mammon Machine et Queen Zeal. Equipe les armures elementaires scellees avant
+la fin ; White Mail, Black Mail, Red Mail et Blue Mail rendent plusieurs
+attaques beaucoup plus faciles a gerer.
+
+9. PREPARATION DE LA PREMIERE FIN
+
+Avant de battre Lavos :
+
+- Recupere Crono a Death Peak.
+- Termine les quetes Sunken Desert, Geno Dome, Ozzie's Fort, Sun Stone,
+  Northern Ruins et Rainbow Shell.
+- Termine Lost Sanctum si tu veux une route de collection vraiment complete.
+- Fais les trois passages de Black Omen si tu veux les Prism pieces et les
+  capsules de charme.
+- Reviens a la Fin des Temps et bats Spekkio dans sa forme actuelle.
+- Fais une sauvegarde B avant le portail de Lavos.
+
+Pour le premier succes, entre dans Black Omen depuis 1000 AD, suis le donjon
+jusqu'au bout, puis bats Lavos. Cette route donne Beyond Time et cree le fichier
+clair necessaire aux Vortex.
+
+========================================
+PARTIE IV - LOST SANCTUM STEAM
+========================================
+
+Lost Sanctum apparait apres la transformation d'Epoch et la montee du Black
+Omen. Deux portails sont presents :
+
+- 65 000 000 BC : coin nord-est de la carte.
+- 600 AD : au nord d'Ozzie's Fort.
+
+Le village reptite est commun aux deux epoques mais les quetes changent selon
+le portail. Termine chaque quete en suivant l'ordre ci-dessous ; les trajets
+entre la Prehistoire et le Moyen Age sont obligatoires.
+
+1. CLEAR THE FOREST - PREHISTOIRE
+
+- Parle au reptite du village et accepte la demande.
+- Traverse Millennial Wood et detruis tous les groupes d'ennemis.
+- Retourne au village et prends Dragon's Tear.
+
+2. CLEAR THE FOREST - MOYEN AGE
+
+- Reviens par le portail 600 AD.
+- Nettoie Southern Glade / Great Southern Swamp.
+- Retourne au village pour Megalixir.
+
+3. THE GOLDEN HAMMER
+
+- Accepte la demande du chef au village.
+- Suis le chemin vers Mount Emerald.
+- Recupere les indices dans les deux epoques.
+- Bats Golden Hammer.
+- Recompense : 100 000 G.
+
+4. PRISMASTONE ET SAINTSTONE
+
+Prismastone, Prehistoire :
+
+- Parle au reptite du nord-ouest.
+- Recupere Prismastone dans la grotte.
+- Bats Nu Guardian.
+- Donne Prismastone au village.
+- Recompense : deux Strength Capsules, deux Speed Capsules et deux Magic
+  Capsules.
+
+Saintstone, Moyen Age :
+
+- Accepte la demande dans le village.
+- Recupere Saintstone dans Tower of the Ancients.
+- Retourne au village.
+- Recompense : Dragon Arm.
+
+5. BEFRIENDING THE NU MASTER
+
+- Accepte la quete et trouve le Nu Master dans Mount Emerald.
+- Ramene-le a la zone de village avec la Waystone.
+- Bats Nu Master lorsque le combat devient disponible.
+- Recompense finale : Nova Armor.
+
+6. BUILDING THE BRIDGE
+
+- Moyen Age : accepte la mission et collecte les Bridge Materials.
+- Prehistoire : recupere le bois et les ressources dans Millennial Wood.
+- Retourne en 600 AD et remets les materiaux au constructeur.
+- Recompense : Haste Helm.
+
+7. THE DARK CAVERN
+
+- Prehistoire : entre dans Dark Cavern.
+- Utilise Waystone pour ouvrir les passages.
+- Prends Judgment Scythe.
+- Verifie les detours et les coffres avant de revenir au village.
+
+8. FINDING THE BRIDGE BUILDER
+
+- Moyen Age : parle au reptite qui cherche le constructeur.
+- Explore Tower of the Ancients et les zones de Mount Emerald.
+- Ramene le constructeur au village.
+- Recompense : Saurian Leathers.
+
+9. DEFEND THE VILLAGE
+
+- Prehistoire : accepte l'alerte du village.
+- Place les membres du groupe devant les deux chemins d'invasion.
+- Bats Archaeofang Elder puis Archaeofang Younger.
+- Recompense : Valor Crest.
+
+10. TOWER OF THE ANCIENTS
+
+- Moyen Age : ouvre la tour avec les objets obtenus dans les quetes
+  precedentes.
+- Grimpe jusqu'au sommet, prends tous les coffres et sauvegarde avant le
+  combat.
+- Bats Master-at-Arms et Bladesman.
+- Recompense finale : Champion's Badge.
+
+Controle Lost Sanctum :
+
+- Dragon's Tear.
+- Megalixir.
+- 100 000 G.
+- Six capsules de Prismastone.
+- Dragon Arm.
+- Nova Armor.
+- Haste Helm.
+- Judgment Scythe.
+- Saurian Leathers.
+- Valor Crest.
+- Champion's Badge.
+
+========================================
+PARTIE V - DIMENSIONAL VORTEX ET DREAM'S EPILOGUE
+========================================
+
+Les trois Dimensional Vortex apparaissent apres avoir charge un fichier clair
+de fin. Ils sont independants les uns des autres et peuvent etre faits dans
+n'importe quel ordre. Pour une route lisible, utilise l'ordre suivant :
+
+1. 12 000 BC - Vortex de Marle.
+2. 1000 AD - Vortex de Crono.
+3. 2300 AD - Vortex de Lucca.
+
+Regle commune : chaque Vortex commence par cinq salles variables, puis arrive
+a Nameless Cave. A Nameless Cave :
+
+- Prends le point de sauvegarde.
+- Le portail sud sert a quitter sans perdre la progression deja validee.
+- Le portail nord continue vers la zone unique de l'epoque.
+- Fouille chaque salle variable avant de continuer ; le tirage des salles peut
+  changer quand tu ressors et reviens.
+
+1. VORTEX 12 000 BC - MARLE
+
+- Traverse Strath si cette salle apparait et prends Angel's Tiara.
+- Dans Frozen Cliffs, fouille les plates-formes et les niches : Elixir x2,
+  Megalixir, Lapis, Athenian Water, Hi-Potion, Hi-Ether, Shadowplume Robe,
+  Speed Capsule, Magic Capsule et Strength Capsule.
+- Dans Winding Passage, prends Turbo Ether, Megalixir et Venus Bow.
+- Continue jusqu'au combat d'Alabaster Shade.
+- Equipe Red Mail/Red Vest ou une protection contre Ice/Water.
+- Charm Haste Helm si le combat te le permet.
+- La victoire augmente les statistiques de Marle et ferme le Vortex de
+  l'epoque.
+
+2. VORTEX 1000 AD - CRONO
+
+- Dans Volcano, prends Athenian Water, Master's Crown, Spellslinger,
+  Elixir, Strength Capsules x2, Hi-Potion et Dreamreaper.
+- Continue vers la zone finale de Guardia Castle.
+- Bats Once-King Dalton si le boss apparait avant la salle du clone.
+- Termine avec Steel Shade.
+- Steel Shade est immunise a Lightning et faible a Shadow : utilise Magus,
+  les attaques physiques ou Dark Matter.
+- Charm Prism Spectacles sur Steel Shade.
+- La victoire augmente les statistiques de Crono.
+
+3. VORTEX 2300 AD - LUCCA
+
+- Dans Ancient Keep, si la salle apparait, prends 50 000 G, Hi-Potion,
+  Elixir et Master's Crown.
+- Dans Curious Village, inspecte les maisons et les coffres avant la sortie.
+- Dans Temporal Research Lab, prends Magic Capsule, Regal Plate, 50 000 G,
+  Turbo Ether, Megalixir x2 et Apocalypse Arm.
+- Apocalypse Arm est un objet de collection prioritaire pour Robo ; ne le
+  laisse pas dans une salle optionnelle.
+- Termine avec Crimson Shade.
+- Crimson Shade est immunise a Fire et faible a Ice/Water.
+- La victoire augmente les statistiques de Lucca.
+
+CONTROLE APRES LES TROIS VORTEX
+
+- Le menu Extras doit afficher les trois zones validees.
+- Retourne a la Fin des Temps.
+- Parle a Gaspar.
+- Utilise le seau et choisis Time's Eclipse.
+- Termine le combat de Dream Devourer.
+- Recompenses de fin : Dreamseeker pour Crono et Dream's Epilogue.
+
+Pour Dream Devourer :
+
+- Equipe les armures qui absorbent ou reduisent les elements.
+- Garde des Megalixir et des revives.
+- Robo avec Crisis Arm ou Apocalypse Arm, Marle pour le soin et Magus/Lucca
+  pour la magie forment une equipe stable.
+- Si Dream Devourer reduit les ressources du groupe, passe temporairement aux
+  attaques physiques et soigne apres chaque phase.
+- Fais une sauvegarde claire apres le combat et verifie le succes avant de
+  relancer le New Game +.
+
+========================================
+PARTIE VI - 13 FINS / 13 SUCCES STEAM
+========================================
+
+Les 13 succes sont les 13 fins comptabilisees par Steam. La premiere partie
+sert a obtenir Beyond Time et un fichier clair ; le New Game + sert aux fins
+rapides. Garde le slot C au debut du NG+ et sauvegarde avant chaque fenetre.
+
+ORDRE RAPIDE CONSEILLE EN NG+
 
 1. The Dream Project
-   - En NG+, depuis la presentation de la machine de Lucca a la Foire, prends
-     le telepod de droite avant de rejoindre la suite du scenario.
-   - Alternative : gagner le combat de l'Ocean Palace, mais la version NG+ est
-     la voie la plus sure.
+
+- Commence une Nouvelle Partie +.
+- A Leene Square, pendant la demonstration de Lucca, prends le telepod de
+  droite au lieu de suivre la route normale.
+- Termine Lavos immediatement.
+- Le succes se declenche a la fin.
 
 2. The Successor of Guardia
-   - Depuis le debut de NG+, suis le parcours jusqu'au retour en 1 000 apr. J.-C.
-     apres la premiere section en 600 apr. J.-C.
-   - Prends immediatement le telepod droit de la Foire.
+
+- Recharge le debut du NG+.
+- Suis la route jusqu'a la fin de la premiere section 600 AD.
+- Des le retour au 1000 AD, retourne a Leene Square et utilise le telepod de
+  droite.
+- Bats Lavos et sauvegarde la fin.
 
 3. Good Night
-   - A la toute premiere arrivee a la Fin des Temps, utilise immediatement le
-     seau. Ne va pas plus loin dans l'histoire.
+
+- Recharge la route NG+.
+- Avance jusqu'a la toute premiere arrivee a la Fin des Temps.
+- Utilise immediatement le seau, avant de prendre un autre portail.
+- Bats Lavos.
 
 4. The Legendary Hero
-   - Apres le second retour a 600 apr. J.-C., reviens tout de suite a la Fin des
-     Temps et utilise le seau.
+
+- Reprends la route jusqu'a la seconde arrivee a 600 AD.
+- Retourne sans detour a la Fin des Temps.
+- Utilise le seau et bats Lavos.
 
 5. The Unknown Past
-   - Apres avoir recupere le medaillon et les deux morceaux de Masamune en
-     600 apr. J.-C., mais avant d'aller chercher la Dreamstone en 65 000 000
-     av. J.-C., utilise le seau.
+
+- Continue jusqu'a la fin de la seconde section 600 AD.
+- Apres la Masamune et les fragments obtenus, mais avant de repartir vers
+  65 000 000 BC, retourne a la Fin des Temps.
+- Utilise le seau et bats Lavos.
 
 6. People of the Times
-   - Apres avoir recupere la Gate Key en 65 000 000 av. J.-C., retourne a la Fin
-     des Temps et utilise immediatement le seau.
+
+- Continue la route de 65 000 000 BC.
+- Des que Gate Key est recupere, retourne a la Fin des Temps.
+- Utilise le seau avant de lancer la suite de la Prehistoire.
+- Bats Lavos.
 
 7. The Oath
-   - Apres avoir remis la Masamune reparee a Frog, retourne a la Fin des Temps
-     avant toute autre etape et utilise le seau.
+
+- Continue jusqu'a la Masamune reparee.
+- Donne-la a Frog et retourne immediatement a la Fin des Temps.
+- Utilise le seau et bats Lavos.
 
 8. Dino Age
-   - Apres le combat contre Magus, mais avant de terminer la section de
-     65 000 000 av. J.-C., utilise le seau.
+
+- Continue jusqu'au combat de Magus.
+- Apres la victoire et avant de terminer la route de 65 000 000 BC, retourne
+  a la Fin des Temps.
+- Utilise le seau et bats Lavos.
 
 9. What the Prophet Seeks
-   - Des que la section de 65 000 000 av. J.-C. est terminee, utilise le seau
-     avant de progresser vers la suite.
+
+- Termine la section 65 000 000 BC, y compris le retour par le portail.
+- Des le retour a la route suivante, reviens a la Fin des Temps avant de
+  progresser vers Zeal Palace.
+- Utilise le seau et bats Lavos.
 
 10. Memory Lane
-    - Dans Zeal Palace, apres que Schala a ouvert la porte scellee, arrete-toi
-      immediatement. Ne recharge pas le pendentif et n'explore pas le palais.
-      Utilise le seau depuis la Fin des Temps.
+
+- Avance jusqu'a Zeal Palace.
+- Quand Schala ouvre la porte scellee, cree une sauvegarde B immediatement.
+- Ne recharge pas le pendentif, ne visite aucune autre salle et ne poursuis
+  pas l'exploration.
+- Retourne a la Fin des Temps par le chemin disponible.
+- Utilise le seau et bats Lavos.
 
 11. Reunion
-    - Apres le combat de l'Ocean Palace qui retire Crono de l'equipe, mais avant
-      de le recuperer a Death Peak, utilise le seau puis bats Lavos.
+
+- Continue jusqu'au combat de l'Ocean Palace qui retire Crono du groupe.
+- Avant de recuperer Crono a Death Peak, retourne a la Fin des Temps.
+- Utilise le seau et bats Lavos.
 
 12. Beyond Time
-    - Apres avoir recupere Crono, passe par le Black Omen et bats Lavos. Si tu
-      l'as deja obtenu en partie 1, le succes reste valide.
+
+- C'est la fin de la route normale.
+- Recupere Crono a Death Peak.
+- Termine les quetes annexes si elles ne le sont pas deja.
+- Traverse Black Omen, puis bats Lavos.
+- Le succes se declenche avec la fin standard.
 
 13. Dream's Epilogue
-    - Voir la section Partie 1. Ne le confonds pas avec The Dream Project : le
-      Vortex dimensionnel est une zone post-game distincte.
 
-CHECKLIST DES 13 SUCCES
+- Sur le fichier clair de Beyond Time, termine les trois Dimensional Vortex.
+- Parle a Gaspar a la Fin des Temps.
+- Utilise le seau, choisis Time's Eclipse.
+- Bats Dream Devourer.
+- Verifie le succes dans Extras et dans Steam.
 
-[ ] Beyond Time.
-[ ] Dream's Epilogue.
-[ ] The Dream Project.
-[ ] The Successor of Guardia.
-[ ] Good Night.
-[ ] The Legendary Hero.
-[ ] The Unknown Past.
-[ ] People of the Times.
-[ ] The Oath.
-[ ] Dino Age.
-[ ] What the Prophet Seeks.
-[ ] Memory Lane.
-[ ] Reunion.
+FENETRES A NE JAMAIS DEPASSER AVANT LA FIN CORRESPONDANTE
 
-CONTROLE DES FENETRES COURTES
+- Premiere arrivee a la Fin des Temps : Good Night.
+- Retour en 600 AD : The Legendary Hero.
+- Fin de 600 AD avant la Prehistoire : The Unknown Past.
+- Gate Key recupere : People of the Times.
+- Masamune remise a Frog : The Oath.
+- Magus vaincu, Prehistoire non terminee : Dino Age.
+- Retour apres la Prehistoire : What the Prophet Seeks.
+- Schala ouvre la porte de Zeal : Memory Lane.
+- Crono perdu, Death Peak non termine : Reunion.
 
-[ ] Une sauvegarde avant chaque utilisation du seau.
-[ ] The Unknown Past : seau avant 65 000 000 av. J.-C., des que les morceaux
-    sont obtenus.
-[ ] Memory Lane : seau avant de recharger le pendentif.
-[ ] Reunion : seau avant Death Peak.
-[ ] Chaque fin est visible dans Extras avant de supprimer un slot.
+DEPANNAGE DES SUCCES
 
-VERIFICATION
+- Si le succes ne tombe pas pendant le generique, ouvre Extras et lance la
+  fin enregistree.
+- Si Steam n'actualise pas le compteur, ferme puis relance le client avant de
+  refaire le combat.
+- Si une fenetre a ete depassee, ne recommence pas la partie normale : utilise
+  le slot C de NG+ et refais uniquement le jalon concerne.
+- Si un coffre scelle a ete ouvert dans le mauvais ordre, la sauvegarde B ou
+  le New Game + sont les solutions propres ; ne supprime pas le fichier clair.
 
-Steam doit afficher 13/13. Il n'y a pas de DLC de succes ni de multijoueur.
-Le 100 % consiste ici a enregistrer les 13 fins ; les donjons optionnels et les
-quetes de la partie normale sont recommandes pour preparer la fin post-game,
-mais ne remplacent pas une ligne de la checklist ci-dessus.
+========================================
+CHECKLIST FINALE - 100 % CONTENU
+========================================
+
+ROUTE PRINCIPALE
+
+□ Cathedral terminee, Naga-ette Bromide recupere, coffres d'equipement ouverts.
+□ Lab 16, Lab 32 et Factory explores ; Race Log et Power Tab de Johnny obtenus.
+□ Hunting Range visite et objets de troc utilises.
+□ Denadoro Mountains nettoyee ; Hero's Medal, tabs et equipements obtenus.
+□ Magus's Castle nettoye ; Slasher, Magic Tabs et equipements conserves.
+□ Tyrano Lair nettoye ; Cera Topper et Meso Mail recuperes.
+□ Enhasa et Kajar completes ; Black Rock, Speed Tab et Magic Tab obtenus.
+□ Mountain of Woe et Ocean Palace nettoyes ; chaque coffre unique ouvert.
+□ Blackbird fouille ; equipement, argent et Magic Tab recuperes.
+
+COFFRES SCELLES
+
+□ Les quatre coffres 600 AD a ameliorer ont ete actives puis refuses.
+□ Les quatre versions 1000 AD ont ete ouvertes avant le retour en 600 AD.
+□ Les quatre versions 600 AD ont ensuite ete recuperees.
+□ Northern Ruins : trois coffres actives au 600 AD, versions ameliorees puis
+  versions de base recuperees.
+□ Guardia Forest, Magic Cave, Heckran Cave et Forest Ruins controles.
+□ Trann, Bangor, Arris et Keeper's Dome : portes scellees ouvertes.
+
+QUETES ANNEXES
+
+□ Crono recupere a Death Peak.
+□ Sunken Desert terminee ; GreenDream et objets des coffres obtenus.
+□ Geno Dome termine ; Atropos Ribbon, Terra Arm et Crisis Arm obtenus.
+□ Ozzie's Fort termine ; DoomSickle, Gloom gear et objets de charme obtenus.
+□ Sun Stone terminee ; WonderShot et Sun Shades fabriques.
+□ Northern Ruins terminee avec Frog en leader ; Masamune amelioree.
+□ Rainbow Shell terminee ; Rainbow, Prism Specs et choix Prism conserve.
+□ Black Omen fait en 1000 AD, 600 AD puis 12 000 BC.
+□ Lost Sanctum : les dix quetes et toutes les recompenses controlees.
+□ Les trois Dimensional Vortex termines et les armes Venus Bow, Spellslinger,
+  Apocalypse Arm obtenues.
+
+SUCCES STEAM
+
+- [ ] Beyond Time.
+- [ ] Dream's Epilogue.
+- [ ] The Dream Project.
+- [ ] The Successor of Guardia.
+- [ ] Good Night.
+- [ ] Reunion.
+- [ ] The Legendary Hero.
+- [ ] The Unknown Past.
+- [ ] People of the Times.
+- [ ] The Oath.
+- [ ] Dino Age.
+- [ ] What the Prophet Seeks.
+- [ ] Memory Lane.
+
+VERIFICATION FINALE
+
+□ Steam affiche 13/13 succes.
+□ Extras affiche les 13 fins enregistrees.
+□ Le fichier clair de Beyond Time est conserve.
+□ Dream's Epilogue est visible et Dreamseeker est dans l'inventaire.
+□ Les coffres scelles ont ete ouverts dans l'ordre 600 AD -> 1000 AD -> 600 AD.
+□ Le choix Swallow/Safe Helm est note sur la sauvegarde.
+□ Les equipements et objets de charme rares sont conserves au lieu d'etre
+  vendus.
+
+SOURCES DE CONTROLE
+
+- Steam, liste officielle des succes :
+  https://steamcommunity.com/stats/613830/achievements
+- Guide Steam des 13 fins, utilise pour verifier les fenetres de NG+ :
+  https://steamcommunity.com/sharedfiles/filedetails/?id=1317635712
+- Chrono Trigger 100% Checklist, coffres et objets uniques :
+  https://gamefaqs.gamespot.com/snes/563538-chrono-trigger/faqs/80240
+- Sealed Chests, Sealed Doors et ordre d'amelioration :
+  https://strategywiki.org/wiki/Chrono_Trigger/Sealed_chests
+- Walkthrough principal, ordre des zones et quetes :
+  https://guides.gamercorner.net/ct/walkthrough/
+- Treasure database, coffres et objets par zone :
+  https://guides.gamercorner.net/ct/treasure/
+- Lost Sanctum, liste des quetes et recompenses :
+  https://strategywiki.org/wiki/Chrono_Trigger/Lost_Sanctum
+- Dimensional Vortex, routes et recompenses :
+  https://strategywiki.org/wiki/Chrono_Trigger/Dimensional_Vortex
+- Confirmation Square Enix du contenu PC :
+  https://support.square-enix-games.com/s/article/000012827?language=en_GB
+
+FIN DE LA FICHE
