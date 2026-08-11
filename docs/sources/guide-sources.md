@@ -1339,3 +1339,22 @@ conditions difficiles ; elles ne justifient jamais une copie mot a mot.
   https://store.steampowered.com/app/619390/Oddworld_Soulstorm_Enhanced_Edition/
 - Succes officiels Oddworld: Soulstorm, AppID 619390 :
   https://steamcommunity.com/stats/619390/achievements
+
+## GRIM DAWN, WITCHER ET SEGA
+
+- Succes officiels Grim Dawn, AppID 219990, total 234 :
+  https://steamcommunity.com/stats/219990/achievements
+- Fiche Steam Grim Dawn, campagnes, extensions et endgame :
+  https://store.steampowered.com/app/219990/Grim_Dawn/
+- Succes officiels The Witcher 3: Wild Hunt, AppID 292030, total 78 :
+  https://steamcommunity.com/stats/292030/achievements
+- Fiche Steam The Witcher 3: Wild Hunt, campagne et extensions :
+  https://store.steampowered.com/app/292030/The_Witcher_3_Wild_Hunt/
+- Succes officiels The Escapists 2, AppID 641990, total 58 :
+  https://steamcommunity.com/stats/641990/achievements
+- Fiche Steam The Escapists 2, prisons, escapes et multijoueur :
+  https://store.steampowered.com/app/641990/The_Escapists_2/
+- Succes officiels SEGA Mega Drive & Genesis Classics, AppID 34270, total 25 :
+  https://steamcommunity.com/stats/34270/achievements/
+- Fiche Steam SEGA Mega Drive & Genesis Classics, hub et jeux classiques :
+  https://store.steampowered.com/app/34270/SEGA_Mega_Drive_and_Genesis_Classics/

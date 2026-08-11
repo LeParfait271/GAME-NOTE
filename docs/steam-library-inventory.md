@@ -188,18 +188,18 @@ soluce chronologique classique n'apporterait rien.
 - Oddworld: New 'n' Tasty! — guide publie : 35/35 succes Steam, Mudokons, difficultes et runs
 - Oddworld: Soulstorm Enhanced Edition — guide publie : 32/32 succes Steam, Quarma, badges et runs
 
+### Grim Dawn, Witcher et collection SEGA
+
+- Grim Dawn - guide publie : 234/234 succes Steam, campagnes, extensions, Hardcore et endgame
+- The Witcher 3: Wild Hunt - guide publie : 78/78 succes Steam, campagne, Gwent et deux extensions
+- The Escapists 2 - guide publie : 58/58 succes Steam, prisons, escapes et multijoueur
+- SEGA Mega Drive & Genesis Classics - guide publie : 25/25 succes Steam, classiques, scores et challenges
+
 ## Futurs guides chronologiques (`planned`)
 
 ### Final Fantasy et RPG proches
 
 - FINAL FANTASY RESONANCE — hold jusqu'à la sortie annoncée du 22 octobre 2026 ; AppID 3259780, guide et total de succès à figer après sortie
-- Grim Dawn
-- The Witcher 3: Wild Hunt
-
-### Coopération ou campagne à route dédiée
-
-- The Escapists 2 — roadmap de défis plutôt que soluce classique
-- SEGA Mega Drive & Genesis Classics — guide de collection multi-jeux
 
 ### Oddworld, stratégie et jeux à campagne
 

@@ -2325,6 +2325,70 @@ const guides: Guide[] = [
       "A surveiller : les branches GOOD/BAD, les 1000 Mudokons, les badges platine et le run sans mort.",
     meta: ["32/32 Steam", "Quarma", "Badges et runs"],
   },
+  {
+    id: "grim-dawn",
+    steamAppId: 219990,
+    title: "Grim Dawn",
+    eyebrow: "Crate Entertainment",
+    subtitle: "Campagnes, extensions et endgame dans l'ordre.",
+    count: "234 succes Steam",
+    file: "grim-dawn.txt",
+    accent: "blue",
+    tag: "Guide 100 % Steam",
+    description:
+      "Route de Cairn, factions, shrines, difficultes, Hardcore, Crucible, Shattered Realm et Asterkarn.",
+    highlight:
+      "A surveiller : les factions contradictoires, Veteran sous niveau 11, Hardcore, Nemesis, Crucible et Ascendant.",
+    meta: ["234/234 Steam", "3 extensions", "Hardcore / Endgame"],
+  },
+  {
+    id: "the-witcher-3-wild-hunt",
+    steamAppId: 292030,
+    title: "The Witcher 3: Wild Hunt",
+    eyebrow: "CD PROJEKT RED",
+    subtitle: "Campagne, Gwent et extensions dans l'ordre.",
+    count: "78 succes Steam",
+    file: "the-witcher-3-wild-hunt.txt",
+    accent: "coral",
+    tag: "Guide 100 % Steam",
+    description:
+      "Route de la campagne, decisions, Gwent, contrats, equipements, Death March et deux extensions.",
+    highlight:
+      "A surveiller : les cartes de Gwent, les compagnons, les quetes de poings, les courses et les sauvegardes de decisions.",
+    meta: ["78/78 Steam", "2 extensions", "Gwent / Death March"],
+  },
+  {
+    id: "the-escapists-2",
+    steamAppId: 641990,
+    title: "The Escapists 2",
+    eyebrow: "Team17",
+    subtitle: "Prisons, escapes et defis dans l'ordre.",
+    count: "58 succes Steam",
+    file: "the-escapists-2.txt",
+    accent: "gold",
+    tag: "Guide 100 % Steam",
+    description:
+      "Route des prisons, escapes uniques, crafting, statistiques, quetes et objectifs multijoueur.",
+    highlight:
+      "A surveiller : les sept escapes classiques, les routes solo/multi, les quotas de metiers et le Versus en ligne.",
+    meta: ["58/58 Steam", "Prisons", "Solo / Multi"],
+  },
+  {
+    id: "sega-mega-drive-genesis-classics",
+    steamAppId: 34270,
+    title: "SEGA Mega Drive & Genesis Classics",
+    eyebrow: "SEGA",
+    subtitle: "Jeux classiques, objectifs et challenges dans l'ordre.",
+    count: "25 succes Steam",
+    file: "sega-mega-drive-genesis-classics.txt",
+    accent: "coral",
+    tag: "Guide 100 % Steam",
+    description:
+      "Route du hub, des jeux individuels, des scores, des vies, des challenges et du nettoyage final.",
+    highlight:
+      "A surveiller : les Chaos Emeralds, les vies, la magie, les runs sans continue et les challenges du hub.",
+    meta: ["25/25 Steam", "25 classiques", "Challenges"],
+  },
 ];
 
 const steamHeaderUrl = (appId: number) =>

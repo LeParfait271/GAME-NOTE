@@ -146,6 +146,10 @@
     { "id": "dead-island", "appId": 91310, "steamAchievements": 48, "guideType": "100-steam-campaign-coop-collectibles", "source": "https://steamcommunity.com/stats/91310/achievements" },
     { "id": "oddworld-abes-oddysee", "appId": 15700, "steamAchievements": 0, "guideType": "special-no-steam-achievements-campaign-mudokons", "source": "https://store.steampowered.com/app/15700/Oddworld_Abes_Oddysee/" },
     { "id": "oddworld-new-n-tasty", "appId": 314660, "steamAchievements": 35, "guideType": "100-steam-mudokons-multiple-runs", "source": "https://steamcommunity.com/stats/314660/achievements" },
-    { "id": "oddworld-soulstorm", "appId": 619390, "steamAchievements": 32, "guideType": "100-steam-quarma-badges-multiple-runs", "source": "https://steamcommunity.com/stats/619390/achievements" }
+    { "id": "oddworld-soulstorm", "appId": 619390, "steamAchievements": 32, "guideType": "100-steam-quarma-badges-multiple-runs", "source": "https://steamcommunity.com/stats/619390/achievements" },
+    { "id": "grim-dawn", "appId": 219990, "steamAchievements": 234, "guideType": "100-steam-campaigns-dlc-hardcore-endgame", "source": "https://steamcommunity.com/stats/219990/achievements" },
+    { "id": "the-witcher-3-wild-hunt", "appId": 292030, "steamAchievements": 78, "guideType": "100-steam-campaign-gwent-dlc-death-march", "source": "https://steamcommunity.com/stats/292030/achievements" },
+    { "id": "the-escapists-2", "appId": 641990, "steamAchievements": 58, "guideType": "100-steam-prisons-escapes-dlc-multiplayer", "source": "https://steamcommunity.com/stats/641990/achievements" },
+    { "id": "sega-mega-drive-genesis-classics", "appId": 34270, "steamAchievements": 25, "guideType": "100-steam-classics-challenges-scores", "source": "https://steamcommunity.com/stats/34270/achievements" }
   ]
 }

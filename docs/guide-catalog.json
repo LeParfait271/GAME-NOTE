@@ -152,6 +152,10 @@
     { "id": "dead-island", "title": "Dead Island", "scope": "full-guide", "status": "draft", "file": "public/guides/dead-island.txt" },
     { "id": "oddworld-abes-oddysee", "title": "Oddworld: Abe's Oddysee", "scope": "special", "status": "draft", "file": "public/guides/oddworld-abes-oddysee.txt", "reason": "L'AppID Steam 15700 n'expose pas de succes Steam : soluce de campagne et de completion des Mudokons sans faux 100 % Steam." },
     { "id": "oddworld-new-n-tasty", "title": "Oddworld: New 'n' Tasty!", "scope": "full-guide", "status": "draft", "file": "public/guides/oddworld-new-n-tasty.txt" },
-    { "id": "oddworld-soulstorm", "title": "Oddworld: Soulstorm Enhanced Edition", "scope": "full-guide", "status": "draft", "file": "public/guides/oddworld-soulstorm.txt" }
+    { "id": "oddworld-soulstorm", "title": "Oddworld: Soulstorm Enhanced Edition", "scope": "full-guide", "status": "draft", "file": "public/guides/oddworld-soulstorm.txt" },
+    { "id": "grim-dawn", "title": "Grim Dawn", "scope": "full-guide", "status": "draft", "file": "public/guides/grim-dawn.txt" },
+    { "id": "the-witcher-3-wild-hunt", "title": "The Witcher 3: Wild Hunt", "scope": "full-guide", "status": "draft", "file": "public/guides/the-witcher-3-wild-hunt.txt" },
+    { "id": "the-escapists-2", "title": "The Escapists 2", "scope": "full-guide", "status": "draft", "file": "public/guides/the-escapists-2.txt" },
+    { "id": "sega-mega-drive-genesis-classics", "title": "SEGA Mega Drive & Genesis Classics", "scope": "full-guide", "status": "draft", "file": "public/guides/sega-mega-drive-genesis-classics.txt" }
   ]
 }
