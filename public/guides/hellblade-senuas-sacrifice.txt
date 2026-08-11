@@ -1,178 +1,584 @@
-HELLBLADE: SENUA'S SACRIFICE
-GUIDE CHRONOLOGIQUE 100 % STEAM - SANS SPOILER
+HELLBLADE: SENUA’S SACRIFICE
+GUIDE CHRONOLOGIQUE 100 % STEAM — 14 SUCCÈS — 44 LORESTONES — SANS SPOILER NARRATIF
 
-Version de travail : 10 aout 2026
+Version du guide : 11 août 2026
+Durée réaliste : 6 à 10 heures pour une première partie guidée, davantage si les combats sont difficiles.
+Périmètre : campagne complète, puzzles, combats principaux, tous les Lorestones et les 14 succès Steam.
 
-Le jeu compte 14 succes Steam. Treize se debloquent par la progression ; le
-seul succes qui demande une route speciale est Stories From the North, pour
-les 44 lorestones. Il n'y a pas de selection de chapitre ni de nettoyage libre
-apres la fin. Fais donc les lorestones dans l'ordre ci-dessous, en activant
-chaque pierre avec la concentration.
+Ce guide donne uniquement les noms de zones, les repères nécessaires et les solutions de navigation. Il ne raconte pas les scènes ni les révélations.
 
-PREPARATION ET SECURITE
+PLAN 100 % EN UNE PARTIE
 
-- Joue en difficulte qui te convient : les succes ne demandent pas un niveau
-  particulier.
-- Fais une copie de sauvegarde au debut de chaque chapitre. Les pierres sont
-  validees au checkpoint ; si une pierre n'apparait pas dans l'anneau, recharge
-  avant de poursuivre.
-- N'avance pas devant une porte a symboles ou un portail avant d'avoir suivi
-  la ligne de lorestones de la zone.
-- Les noms de boss et de zones servent uniquement a la navigation ; aucun
-  evenement de l'histoire n'est explique ici.
+Le jeu possède 44 Lorestones, tous ratables, sans exploration libre après la fin et sans sélection de chapitre. La méthode sûre est de suivre la numérotation ci-dessous et de faire une sauvegarde manuelle au début de chaque chapitre/zone. Le compteur circulaire autour du Lorestone permet de vérifier les runes activées : une rune rouge est encore manquante, une rune blanche est validée.
 
-ROUTE CHRONOLOGIQUE DES 44 LORESTONES
+□ Activer chaque Lorestone en maintenant la touche de Focus jusqu’à la fin de l’écoute.
+□ Ne pas avancer vers la porte ou le pont suivant tant que le total de la zone n’est pas atteint.
+□ Garder une sauvegarde au début de chaque groupe : 1, 5, 10, 15, 17, 23, 27, 33, 35 et 41.
+□ En cas d’oubli, ne pas supposer qu’un simple retour suffira : certains passages se ferment définitivement.
+□ Une nouvelle partie conserve une partie du suivi, mais les runes peuvent changer ; pour éviter les problèmes de validation, refaire les 44 dans la même partie.
+□ Les 13 succès de progression se débloquent automatiquement si la route est terminée.
+□ Stories From the North se débloque au 44e Lorestone, généralement avant la toute dernière séquence.
 
-CHAPITRE 1 - PROLOGUE, 4 PIERRES
+RÉGLAGES ET CONTRÔLES
 
-1. En sortant de la barque, tourne legerement a droite.
-2. Sur la cote, passe sous le pont mais ne monte pas encore les marches ; la
-   pierre est au bord de l'eau.
-3. Apres la premiere porte a symbole, traverse la poutre en equilibre : la
-   pierre est a l'autre extremite.
-4. Apres le premier combat, avance jusqu'a la porte et regarde a droite.
+□ Jouer au casque si possible : les voix donnent des indications de direction et d’ennemis.
+□ Activer les sous-titres si tu veux suivre les consignes sans augmenter le volume.
+□ Vérifier la luminosité : plusieurs runes et Lorestones sont dans des zones sombres.
+□ Focus : maintenir la commande indiquée par le jeu pour lire un Lorestone, révéler une rune ou voir une illusion.
+□ Attaque rapide : garder la distance courte et enchaîner après une esquive.
+□ Attaque forte : charger pendant un instant puis frapper après une ouverture.
+□ Blocage : utile contre les coups ordinaires, mais certaines attaques lourdes doivent être esquivées.
+□ Parade : déclencher juste avant l’impact pour ouvrir une riposte.
+□ Esquive : privilégier le côté contre les attaques verticales et les charges.
+□ Focus en combat : accélère Senua, ralentit l’action et permet de toucher les formes d’ombre.
+□ Après un combat, reprendre immédiatement la numérotation des Lorestones : le jeu ne possède pas de journal de chapitre classique.
 
-CHAPITRE 2 - EPREUVE DE L'ILLUSION, 5 PIERRES
+CHAPITRE 1 — PROLOGUE / THE ROAD TO HEL
 
-Prends d'abord le portail de gauche.
+Sauvegarde de départ : créer une sauvegarde avant de descendre du bateau.
 
-5. Juste apres l'ouverture de l'epreuve, monte la pente et regarde les ruines
-   a droite.
-6. Plus loin, devant une grande porte verrouillee, utilise le portail d'illusion
-   pour entrer dans les ruines, ouvre les deux portes puis repare le mur avec le
-   meme portail. Reviens par la porte ouverte, monte a l'etage et traverse la
-   poutre.
-7. Apres le deuxieme combat de l'epreuve, avance tout droit.
-8. Dans la zone qui suit, examine l'alcove tout a droite derriere les silhouettes
-   de corbeaux.
-9. Apres avoir examine le grand symbole rouge, repare le pont central, traverse
-   la passerelle puis le portail qui retire les murs. Entre dans la forteresse et
-   prends la pierre au fond du passage souterrain.
+Progression
 
-CHAPITRE 3 - EPREUVE DU FEU, 5 PIERRES
+□ Avancer depuis le bateau et suivre le chemin principal sans courir vers la porte suivante.
+□ Utiliser le premier portail/runestone comme tutoriel de Focus.
+□ Pour une rune, regarder la forme du symbole, reculer puis aligner les éléments du décor dans le viseur.
+□ Traverser la passerelle en bois avec prudence : une chute force un retour mais ne supprime pas le Lorestone.
+□ Après le premier combat, écouter la direction donnée par les voix et garder l’oreille ouverte aux ennemis hors champ.
+□ Le premier succès de progression apparaît en atteignant la première grande porte.
 
-Apres le boss Valravn, reviens au debut et prends le portail jaune a droite.
+Lorestone 1/44
 
-10. Apres le portail, prends le chemin de droite et traverse l'eau vers la
-    petite grotte visible.
-11. Apres le deuxieme combat et la sortie de la zone incendie, face au pont,
-    pars a gauche puis encore a gauche.
-12. Dans la meme zone, passe sous le pont et fouille la foret brulee au fond.
-13. Apres la deuxieme zone de feu, entre dans la maison detruite a droite.
-14. Dans la zone des deux maisons et des trois symboles, passe derriere la
-    seconde maison par la porte ouverte.
+□ Dès la sortie du bateau, avancer légèrement puis regarder à droite du chemin.
+□ Le Lorestone est au bord de la zone avant le premier objectif.
 
-CHAPITRE 4 - FORTERESSE, 2 PIERRES
+Lorestone 2/44
 
-15. Apres le combat dans la forteresse, avant la porte a trois symboles, tourne
-    a droite ; la pierre est sur le chemin.
-16. Apres avoir recupere le troisieme symbole, descends l'echelle a l'etage.
-    Prends la pierre pres de la porte que tu peux ouvrir. Ne valide pas encore
-    la porte a trois symboles.
+□ Depuis la côte, passer sous le grand pont.
+□ Avant de monter les escaliers, suivre le bord vers la cascade.
+□ Le Lorestone se trouve juste sous la cascade.
 
-CHAPITRE 5 - PLAGE, 6 PIERRES
+Lorestone 3/44
 
-17. Au bout de la plage, pres de la porte a symboles, longe la rive gauche.
-18. En remontant vers la porte, la pierre est presque dans l'axe du chemin.
-19. Continue le long de la rive, au-dela du bateau echoue.
-20. Dans la zone des epaves, tourne a droite des l'entree.
-21. Dans la zone de l'arbre, contourne-le par la gauche jusqu'a la rive.
-22. Dans la meme zone, continue le long de l'eau derriere l'arbre.
+□ Résoudre la première porte à symbole.
+□ Traverser la poutre en bois au-dessus du vide.
+□ À l’autre extrémité de la poutre, regarder le bord de la falaise face au pont.
 
-CHAPITRE 6 - ECLAT DU LABYRINTHE, 4 PIERRES
+Lorestone 4/44
 
-Apres l'arbre, ouvre les quatre portails. Les quatre pierres ci-dessous sont
-dans l'epreuve du labyrinthe, le portail le plus proche du cote bleu de l'arbre.
+□ Après le premier combat, atteindre la porte de sortie de la grotte.
+□ Avant de la franchir, tourner à droite : le Lorestone est dans l’alcôve.
 
-23. Sur la plage d'arrivee, pars a gauche jusqu'au bout, entre deux gros rochers.
-24. Dans le labyrinthe : gauche, gauche, gauche ; prends la salle au bout.
-25. Dans le labyrinthe : gauche, droite, gauche ; cherche le couloir partiellement
-    eclaire dont le plafond comporte des trous.
-26. Depuis la precedente, avance vers le tunnel sombre, puis droite, droite,
-    gauche, droite ; la pierre est dans la salle laterale.
+Contrôle de sortie — Prologue
 
-CHAPITRE 7 - ECLAT DE LA TOUR, 6 PIERRES
+□ Total de la zone : 4/4.
+□ The Fight Begins est obtenu.
+□ Sauvegarde manuelle avant de choisir la porte rouge ou la porte jaune.
 
-27. Traverse le pont dans le passe, monte les marches et prends la pierre face a
-    l'ancienne forteresse.
-28. Dans la forteresse, passe dans le passe et cherche la pierre pres de la
-    grande table.
-29. Dans la forteresse au present, prends la pierre au bas des marches, devant
-    le mur casse.
-30. Au present, monte au deuxieme etage et prends la pierre en face de l'escalier.
-31. Au troisieme etage, passe dans le passe et tourne a droite avant la porte.
-32. Toujours dans le passe, abaisse le second pont et prends la pierre sur le
-    balcon exterieur.
+CHAPITRE 2 — MARK OF VALRAVN / ILLUSION TRIAL
 
-CHAPITRE 8 - ECLAT DU MARAIS, 2 PIERRES
+Route recommandée : prendre d’abord la porte rouge et terminer toute la zone de Valravn avant de revenir pour la porte jaune.
 
-33. Dans le premier marais, quand tu dois reparer le pont, prends le portail
-    d'illusion pres de la tour en bois et fouille l'arriere.
-34. Apres le pont repare, entre dans la maison a porte a trois symboles et
-    tourne-toi. Prends la pierre au fond avant d'examiner les symboles de la
-    porte : les examiner d'abord change de zone et peut faire rater la pierre.
+Lorestone 5/44
 
-CHAPITRE 9 - EPREUVE DE L'AVEUGLEMENT
+□ Après la porte rouge, atteindre la première bifurcation.
+□ Prendre l’escalier à droite vers les ruines.
+□ Le Lorestone se trouve en haut, sur le côté droit de la zone.
 
-Aucune lorestone. Termine les quatre portails et reprends la route principale.
+Puzzle des portes d’illusion
 
-CHAPITRE 10 - HELHEIM, 6 PIERRES
+□ Lire le symbole de Valravn avec Focus.
+□ Chercher un arc en bois ou une structure dont les lignes forment le même symbole.
+□ Se placer derrière l’arc, regarder dans la direction du symbole puis utiliser Focus.
+□ Un mur, un pont ou une échelle peut apparaître ; revenir au même point si le chemin semble fermé.
+□ Ne pas franchir le portail suivant sans vérifier le côté opposé de la zone.
 
-35. Apres avoir recupere l'epee, entre dans la montagne et monte les premieres
-    marches.
-36. Dans les grottes, depuis le rayon de lumiere pres du symbole-reflet, pars
-    a droite vers la grande caverne.
-37. En sortant des grottes, avant la porte verrouillee, grimpe par le trou sombre
-    a gauche de la porte.
-38. Beaucoup plus loin, apres la porte a trois symboles puis la porte a un
-    symbole, rallume la torche apres la cascade, traverse la poutre et tourne
-    a droite pres des corps crucifies.
-39. Dans la meme zone, suis le chemin de gauche jusqu'a la porte a un symbole
-    marque en rouge ; la pierre est a gauche de la porte.
-40. Dans le tunnel juste apres cette porte.
+Lorestone 6/44 — château et porte verrouillée
 
-CHAPITRE 11 - APRES LE BOSS FINAL DE LA ZONE, 4 PIERRES
+□ Après un combat, atteindre la grande porte verrouillée.
+□ Utiliser le portail d’illusion à gauche pour ouvrir un passage dans le mur.
+□ Entrer dans les ruines du château et ouvrir les deux portes verrouillées de l’intérieur.
+□ Revenir au portail et réparer le mur.
+□ Repasser par la porte que tu viens de déverrouiller.
+□ Monter à l’étage et traverser la poutre en bois.
+□ Le Lorestone est à l’extrémité de la poutre.
 
-41. Apres le boss, monte les marches, grimpe l'echelle a gauche, suis le mur
-    droit jusqu'a l'escalier en colimaçon et prends la pierre en bas.
-42. Apres la courte scene, retourne-toi devant le grand pont.
-43. Depuis le petit balcon, repare le morceau de pont. Aligne les eclats de
-    verre pour faire disparaitre le mur, descends vers les anciennes cellules
-    et prends la pierre dans la cellule.
-44. Remonte l'escalier en colimaçon et prends la pierre au sommet, avant de
-    reparer completement le grand pont.
+Lorestone 7/44
 
-PROGRESSION ET SUCCES AUTOMATIQUES
+□ Après le deuxième combat de la zone, continuer sur le chemin principal.
+□ Le Lorestone est directement devant Senua, difficile à manquer.
 
-Les 13 autres succes tombent en suivant la route principale. Coche-les au fur
-et a mesure sans chercher une action supplementaire :
+Lorestone 8/44
 
-[ ] The Fight Begins.
-[ ] Master of Illusion.
-[ ] Extinguished.
-[ ] Source of the Darkness.
-[ ] Escaped.
-[ ] Different Perspectives.
-[ ] Cure For The Plague.
-[ ] Trust Your Senses.
-[ ] Gram Released.
-[ ] Warrior.
-[ ] Into the Mountain.
-[ ] Tamed the Beast.
-[ ] The Final Battle.
-[ ] Stories From the North - les 44 pierres activees.
+□ Depuis le Lorestone 7, avancer jusqu’au chemin suivant.
+□ Chercher une petite route sur la droite derrière la barrière de figures/corbeaux.
+□ Entrer dans l’alcôve dissimulée pour trouver le Lorestone.
 
-ORDRE DES CONTROLES
+Lorestone 9/44
 
-1. A la fin de chaque chapitre, l'anneau des lorestones doit montrer le nombre
-   attendu : 4 / 9 / 14 / 16 / 22 / 26 / 32 / 34 / 34 / 40 / 44.
-2. Si une rune reste rouge, ne poursuis pas. Recharge le dernier checkpoint ou
-   la sauvegarde du debut de chapitre.
-3. Apres la derniere pierre, attends la validation du succes avant de franchir
-   le pont final.
+□ Lire le grand symbole rouge de la porte.
+□ Revenir vers les trois portails et utiliser celui du milieu pour réparer le pont central.
+□ Traverser le pont-levis.
+□ Utiliser le portail de l’autre côté pour supprimer le mur du château.
+□ Entrer dans le château puis suivre le passage en grotte.
+□ Le dernier Lorestone de Valravn est au fond de cette grotte.
 
-VERIFICATION
+Combat : Valravn
 
-Steam doit afficher 14/14. Le jeu n'a pas de DLC de succes, pas de mode online
-et pas d'autre collection necessaire. Les 44 lorestones sont le seul element
-manquable du 100 % Steam ; la route principale donne le reste.
+□ Les charges se gèrent par une double esquive latérale.
+□ Les coups de faux peuvent être parés, mais l’esquive reste plus sûre pendant les phases rapides.
+□ Quand les gardes arrivent, réduire le nombre d’ennemis avant de reprendre le boss.
+□ Lorsque Valravn passe en forme d’ombre, utiliser Focus pour le rendre vulnérable.
+□ Garder une charge de Focus pour la phase d’ombre et frapper après son attaque.
+□ Vaincre Valravn pour Master of Illusion.
+
+Contrôle de sortie — Valravn
+
+□ Total cumulé : 9/44.
+□ Master of Illusion est obtenu.
+□ Avant de revenir aux deux portes initiales, faire une sauvegarde séparée.
+
+CHAPITRE 3 — MARK OF SURTR / FIRE TRIAL
+
+□ Revenir à la zone des deux portes.
+□ Prendre maintenant la porte jaune.
+□ Le feu est réel dans cette épreuve : ne pas rester dans les flammes et suivre les portails circulaires.
+□ Pour les runes, utiliser les poutres, les troncs et les lignes des maisons comme formes à aligner.
+
+Lorestone 10/44
+
+□ Après la porte jaune, prendre le chemin de droite.
+□ Traverser l’eau et entrer dans la petite grotte visible.
+□ Le Lorestone est en vue dans la grotte.
+
+Lorestone 11/44
+
+□ Après le deuxième combat et la première fuite à travers la zone en flammes, atteindre le pont.
+□ Face au bûcher, tourner à gauche puis descendre le chemin.
+□ Tourner encore à gauche : le Lorestone est près du bord.
+
+Lorestone 12/44
+
+□ Depuis le Lorestone 11, passer sous le pont.
+□ Dans la forêt brûlée, rester sur l’arrière de la zone.
+□ Le Lorestone est près du fond, après les arbres calcinés.
+
+Lorestone 13/44
+
+□ Après la deuxième fuite de feu, atteindre les deux maisons détruites.
+□ Entrer dans la maison la plus à droite.
+□ Le Lorestone est à l’intérieur.
+
+Lorestone 14/44
+
+□ Après la séquence de feu suivante, atteindre le groupe de deux maisons.
+□ Passer derrière la deuxième maison par la porte ouverte à l’arrière.
+□ Le Lorestone est derrière la maison, dans la zone où il faut trouver trois symboles.
+
+Épreuve des flammes
+
+□ Pour la première sortie, suivre le chemin sans feu jusqu’au portail circulaire.
+□ Pour la zone des maisons, entrer dans la première maison à gauche pendant la fuite, monter et traverser la poutre.
+□ Les ennemis peuvent être repoussés vers le feu, mais Senua ne doit pas le toucher.
+□ Vérifier le compteur 14/44 avant de résoudre le dernier symbole.
+
+Combat : Surtr
+
+□ Esquiver les attaques verticales sur le côté.
+□ Après son combo à l’épée, frapper pendant la récupération.
+□ Interrompre sa charge de puissance avec une attaque rapide.
+□ Quand il s’embrase, utiliser Focus : l’illusion disparaît et les coups redeviennent sûrs.
+□ Vaincre Surtr pour Extinguished.
+
+Contrôle de sortie — Surtr
+
+□ Total cumulé : 14/44.
+□ Extinguished est obtenu.
+□ Sauvegarder avant d’ouvrir la porte vers le pont.
+
+CHAPITRE 4 — BRIDGE TO HELHEIM / FORTRESS
+
+Progression et succès
+
+□ Traverser le pont en combattant les gardes par vagues.
+□ Contre l’Executioner, esquiver les charges et ne pas s’acharner pendant son attaque verticale chargée.
+□ Atteindre le grand pont et la scène de progression pour Source of the Darkness.
+□ La forteresse devient accessible après la séquence de combat.
+
+Lorestone 15/44
+
+□ Après le combat dans la forteresse, atteindre la porte à trois symboles.
+□ Avant de résoudre cette porte, tourner à droite.
+□ Le Lorestone est sur le chemin et doit être activé avant de continuer.
+
+Lorestone 16/44
+
+□ Récupérer le troisième symbole de la porte.
+□ Monter à l’étage puis redescendre par l’échelle près de la porte déverrouillable.
+□ Ne pas ouvrir la porte à trois symboles avant d’avoir pris ce Lorestone.
+□ Le Lorestone est près de la porte, dans la zone d’échelle.
+
+Contrôle de sortie — Forteresse
+
+□ Total cumulé : 16/44.
+□ Source of the Darkness est obtenu.
+□ La sauvegarde de début de chapitre est encore conservée.
+
+CHAPITRE 5 — BEACH / SHORE
+
+□ Suivre la silhouette et les restes de bateaux sans avancer directement vers l’arbre.
+□ Inspecter la côte de gauche à droite : plusieurs Lorestones sont posés hors du chemin central.
+□ Ne pas entrer dans l’objectif de l’arbre avant les six pierres.
+
+Lorestone 17/44
+
+□ À la fin de la plage, près de la porte à symboles, rester du côté de la mer à gauche.
+□ Le Lorestone est visible près du rivage.
+
+Lorestone 18/44
+
+□ En remontant vers la porte à symboles de la plage, le Lorestone est presque devant Senua.
+□ L’activer avant de résoudre la porte.
+
+Lorestone 19/44
+
+□ Depuis la zone précédente, longer le rivage.
+□ Passer l’épave échouée.
+□ Le Lorestone est plus loin le long de la côte.
+
+Lorestone 20/44
+
+□ Atteindre la zone des épaves nombreuses.
+□ En entrant dans les épaves, tourner à droite.
+□ Le Lorestone est entre les coques.
+
+Lorestone 21/44
+
+□ Atteindre la zone du grand arbre.
+□ Faire le tour de l’arbre par la gauche.
+□ Le Lorestone est près de la rive.
+
+Lorestone 22/44
+
+□ Dans la même zone de l’arbre, continuer à longer le rivage.
+□ Passer derrière l’arbre.
+□ Le dernier Lorestone de la plage se trouve au bord de l’eau.
+
+Gramr et sortie de la plage
+
+□ Activer le grand arbre après les six Lorestones.
+□ Tirer Gramr uniquement après avoir confirmé 22/44.
+□ Gram Released se débloque en retirant Gramr de l’arbre.
+□ Les quatre portails de fragments s’ouvrent ensuite.
+
+Contrôle de sortie — Plage
+
+□ Total cumulé : 22/44.
+□ Gram Released est obtenu.
+□ Sauvegarder avant d’entrer dans le premier fragment.
+
+CHAPITRE 6 — LABYRINTH SHARD CHALLENGE
+
+Ordre conseillé : commencer par le fragment proche de la gauche de l’arbre quand l’arbre est derrière Senua, puis suivre les torches.
+
+Lorestone 23/44 — plage du fragment
+
+□ Après l’entrée dans le portail du Labyrinthe, tourner à gauche.
+□ Suivre le rivage jusqu’au bout.
+□ Le Lorestone est entre deux gros rochers.
+
+Lorestone 24/44 — labyrinthe
+
+□ Dans le labyrinthe, faire Gauche, Gauche, puis Gauche.
+□ Le Lorestone est au bout du couloir, derrière les débris.
+
+Lorestone 25/44 — labyrinthe
+
+□ Revenir dans la salle précédente.
+□ Faire Gauche, Gauche pour atteindre le secteur suivant.
+□ Dans la branche éclairée par des trous du toit, faire Gauche puis Gauche selon l’orientation de la salle.
+□ Le Lorestone se trouve en bout de couloir, visible devant Senua.
+
+Lorestone 26/44 — labyrinthe
+
+□ Depuis le Lorestone 25, tourner vers le tunnel sombre.
+□ Suivre Droite, Droite, Gauche, Droite.
+□ Dans la petite salle latérale, le Lorestone est sur le côté.
+
+Navigation du labyrinthe
+
+□ Allumer chaque torche rencontrée : elles servent de fil d’Ariane et évitent de compter les virages à l’aveugle.
+□ Pour ressortir après les Lorestones : revenir vers la dernière salle, Gauche, Gauche, Droite, Gauche, Gauche, Gauche, Droite, Gauche, Droite.
+□ Pour la route de sortie : Gauche, Droite, Gauche, Droite, Gauche, Droite, Droite, Droite, puis passer par le grand trou au fond.
+□ Dans la salle à bifurcation finale, prendre Droite vers la porte rouge.
+□ Escaped se débloque à la fin du Labyrinth Shard Challenge.
+
+Contrôle de sortie — Labyrinthe
+
+□ Total cumulé : 26/44.
+□ Escaped est obtenu.
+
+CHAPITRE 7 — TOWER SHARD CHALLENGE
+
+Mécanique passé/présent
+
+□ Les masques changent l’état de la zone : certains ponts, murs et portes existent dans un seul état.
+□ Après chaque changement, refaire un tour visuel de la plateforme : un passage peut être apparu derrière Senua.
+□ Le terme « présent » ci-dessous désigne l’état clair/courant ; « passé » désigne l’état alternatif accessible par le masque.
+
+Lorestone 27/44 — état passé
+
+□ Réparer ou abaisser le premier pont.
+□ Traverser le pont dans l’état passé.
+□ Monter les escaliers vers la forteresse.
+□ Le Lorestone est sur la plateforme ronde devant la forteresse viking.
+
+Lorestone 28/44 — état passé
+
+□ Entrer dans la forteresse en état passé.
+□ Rejoindre la salle avec la table.
+□ Le Lorestone est juste à côté de la table.
+
+Lorestone 29/44 — état présent
+
+□ Revenir à l’état présent.
+□ Entrer dans la forteresse et descendre les escaliers.
+□ Au bas de l’escalier, devant le mur détruit, activer le Lorestone.
+
+Lorestone 30/44 — état présent
+
+□ Toujours dans l’état présent, monter au deuxième étage.
+□ Le Lorestone est dans la salle supérieure.
+□ Ne pas le chercher dans l’état passé : il est bien dans le présent.
+
+Lorestone 31/44 — état passé
+
+□ Passer à l’état passé.
+□ Monter au troisième étage.
+□ Avant la porte, tourner à droite.
+□ Le Lorestone est dans l’embranchement avant la porte.
+
+Lorestone 32/44 — état passé
+
+□ Depuis le troisième étage, abaisser le deuxième pont.
+□ Sortir sur la balcon extérieur.
+□ Le Lorestone est au bout de la plateforme.
+
+Contrôle de sortie — Tour
+
+□ Total cumulé : 32/44.
+□ Different Perspectives est obtenu.
+□ Ne pas quitter le chapitre sans avoir activé le sixième Lorestone de la tour.
+
+CHAPITRE 8 — SWAMP SHARD CHALLENGE
+
+Lorestone 33/44
+
+□ Avancer dans le premier marais jusqu’à la passerelle cassée.
+□ Atteindre la tour de guet et utiliser l’arc d’illusion pour ouvrir le chemin.
+□ Passer sous l’arc puis tourner à droite derrière les planches.
+□ Le Lorestone est dans la zone qui s’ouvre derrière le troisième arc.
+
+Lorestone 34/44 — attention au verrou à trois symboles
+
+□ Réparer la passerelle depuis la tour.
+□ Entrer dans la maison avec le verrou à trois symboles.
+□ Quand le verrou est face à Senua, se retourner immédiatement.
+□ Le Lorestone est dans le fond de la maison, sur une poutre.
+□ Ne pas scanner les trois symboles de la porte avant d’avoir activé cette pierre : l’activation de la porte transporte Senua et peut fermer la zone.
+
+Maze de fuite
+
+□ Au départ, courir vers la droite pour distancer l’ombre.
+□ Premier symbole : après les chaînes, longer le mur de droite puis prendre le passage qui s’ouvre.
+□ Deuxième symbole : depuis le premier, suivre le mur de droite, passer sous les deux ouvertures et revenir vers la paroi du fond.
+□ Troisième symbole : depuis le deuxième, suivre le mur de droite, passer les chaînes, puis prendre l’ouverture sous le mur.
+□ Retour : quitter le troisième symbole par la gauche, prendre immédiatement la gauche à la bifurcation et courir vers la porte runique.
+□ Cure For the Plague se débloque à la sortie du Swamp Shard Challenge.
+
+Contrôle de sortie — Marais
+
+□ Total cumulé : 34/44.
+□ Cure For the Plague est obtenu.
+
+CHAPITRE 9 — BLINDNESS SHARD CHALLENGE
+
+□ Cette épreuve ne contient aucun Lorestone.
+□ Trust Your Senses se débloque en terminant le Blindness Shard Challenge.
+□ Utiliser les sons, les voix et la lumière comme repères plutôt que chercher des pierres.
+□ Avancer lentement, vérifier les bordures et ne pas quitter la zone en pensant avoir raté un Lorestone.
+□ Aucun collectible n’est attendu : le compteur reste à 34/44.
+
+CHAPITRE 10 — HELHEIM / APRÈS GRAMR
+
+□ Après les quatre fragments, revenir à l’arbre et suivre la route avec Gramr.
+□ Faire une sauvegarde avant d’entrer dans la montagne.
+□ Les six Lorestones suivants sont dans Helheim, avant le combat contre la bête.
+
+Lorestone 35/44
+
+□ Entrer dans la montagne par les grandes portes.
+□ Monter les premiers escaliers.
+□ Le Lorestone est en haut des escaliers, dans l’axe du chemin.
+
+Lorestone 36/44
+
+□ Atteindre la porte/symbole de réflexion à trois verrous.
+□ Descendre l’escalier circulaire et entrer dans les grottes.
+□ Depuis le premier faisceau de lumière, traverser l’eau jusqu’au second faisceau.
+□ Regarder à droite dans la grande grotte : le Lorestone est contre la paroi et difficile à voir.
+
+Lorestone 37/44
+
+□ Sortir de la grotte et monter l’escalier en spirale.
+□ Avant d’ouvrir la porte verrouillée, regarder à gauche.
+□ Monter sur la corniche sombre au-dessus du passage.
+□ Le Lorestone est dans l’alcôve obscure.
+
+Lorestone 38/44
+
+□ Poursuivre après la porte à trois symboles.
+□ Après la porte à un symbole, traverser la cascade : elle éteint la torche.
+□ Rallumer la torche et traverser la poutre.
+□ De l’autre côté, tourner à droite vers les corps crucifiés.
+□ Le Lorestone est dans cette alcôve.
+
+Lorestone 39/44
+
+□ Dans la même zone, reprendre l’objectif et descendre par le chemin de gauche.
+□ Devant la prochaine porte à un symbole, le Lorestone est à gauche de la porte.
+
+Lorestone 40/44
+
+□ Résoudre la porte à un symbole.
+□ Entrer dans le tunnel juste après la porte.
+□ Le Lorestone est sur la droite du tunnel, presque dans le chemin principal.
+
+Contrôle de sortie — Helheim avant la bête
+
+□ Total cumulé : 40/44.
+□ Into the Mountain est obtenu en entrant dans Helheim.
+□ Sauvegarder avant le combat de la bête.
+
+CHAPITRE 11 — APRÈS LE COMBAT DE FENRIR
+
+Lorestone 41/44
+
+□ Après le combat contre la bête, monter les escaliers.
+□ Prendre l’échelle à gauche.
+□ Longer le mur de droite pour atteindre une salle à escalier en spirale.
+□ Le Lorestone est au pied de l’escalier.
+
+Lorestone 42/44
+
+□ Après la courte scène, Senua se trouve devant un grand pont en bois.
+□ Faire immédiatement demi-tour.
+□ Le Lorestone est dans l’alcôve derrière la position de départ.
+
+Lorestone 43/44
+
+□ Depuis le balcon, réparer le pont avec Focus.
+□ Se placer sur la section réparée et aligner les éclats de verre avec le mur.
+□ Le mur s’ouvre et mène aux anciennes cellules.
+□ Descendre dans la prison et activer le Lorestone dans une cellule.
+
+Lorestone 44/44
+
+□ Depuis la zone des cellules, ne pas réparer complètement le grand pont immédiatement.
+□ Monter l’escalier en spirale suivant.
+□ Le dernier Lorestone est tout en haut.
+□ Maintenir Focus jusqu’à la fin de l’écoute.
+□ Stories From the North se débloque après l’activation du 44e.
+
+Fin et The Final Battle
+
+□ Vérifier le cercle des Lorestones : aucune rune rouge ne doit rester.
+□ Continuer vers la confrontation finale.
+□ The Final Battle demande d’aller au bout de la séquence de combat ; le succès est automatique.
+□ Pendant la dernière séquence, utiliser Focus contre les formes d’ombre et esquiver les attaques lourdes.
+□ Le jeu peut conclure le combat sans demander une victoire classique : suivre la séquence jusqu’à son terme.
+
+COMBATS PRINCIPAUX — REPÈRES SANS SPOILER
+
+Valravn
+
+□ Phase normale : parade des faux ou esquive latérale.
+□ Charge : double esquive sur le côté.
+□ Sauts verticaux : esquiver immédiatement, puis contre-attaquer.
+□ Renforts : réduire le groupe sans se faire coincer contre les bords.
+□ Forme d’ombre : Focus obligatoire pour toucher.
+
+Surtr
+
+□ Grand coup vertical : esquiver sur le côté, ne pas bloquer.
+□ Combo : attendre le dernier coup avant la riposte.
+□ Piétinement : passer derrière lui après l’impact.
+□ Chargement : interrompre avec une attaque rapide.
+□ Flammes autour du boss : Focus pour révéler la fenêtre de dégâts.
+
+Executioner et variantes
+
+□ Écouter les voix pour les attaques hors champ.
+□ Ne pas rester devant une grande arme chargée.
+□ Utiliser Focus si la silhouette devient illisible.
+□ La parade est efficace sur les gardes ordinaires ; l’esquive est plus sûre sur les variantes lourdes.
+
+Fenrir / bête de fin de zone
+
+□ Garder Focus pour les moments où la cible disparaît ou devient difficile à lire.
+□ Esquiver les attaques en ligne et ne pas se placer contre les parois.
+□ Frapper après chaque récupération plutôt que chercher une longue combinaison.
+□ Tamed the Beast se débloque à la fin du combat.
+
+Stories From the North — contrôle des 44 Lorestones
+
+□ 1 à 4 — Prologue.
+□ 5 à 9 — Illusion Trial / Valravn.
+□ 10 à 14 — Fire Trial / Surtr.
+□ 15 à 16 — Fortress.
+□ 17 à 22 — Beach.
+□ 23 à 26 — Labyrinth Shard.
+□ 27 à 32 — Tower Shard.
+□ 33 à 34 — Swamp Shard.
+□ Aucun — Blindness Shard.
+□ 35 à 40 — Helheim avant Fenrir.
+□ 41 à 44 — zone après Fenrir.
+□ Si le compteur affiche 43/44, rechercher d’abord la zone dont le groupe entre deux points du cercle est rouge.
+□ Si une pierre déjà activée semble rouge en seconde partie, refaire toutes les pierres de la zone : le jeu peut présenter une rune différente lors d’un replay.
+
+CHECKLIST FINALE — 14/14 SUCCÈS STEAM
+
+- [ ] The Fight Begins — Atteindre la première grande porte.
+- [ ] Master of Illusion — Vaincre Valravn.
+- [ ] Extinguished — Vaincre Surtr.
+- [ ] Source of the Darkness — Rencontrer Hela pour la première fois sur le pont.
+- [ ] Escaped — Terminer le Labyrinth Shard Challenge.
+- [ ] Different Perspectives — Terminer le Tower Shard Challenge.
+- [ ] Cure For the Plague — Terminer le Swamp Shard Challenge.
+- [ ] Trust Your Senses — Terminer le Blindness Shard Challenge.
+- [ ] Gram Released — Retirer Gramr de l’arbre.
+- [ ] Warrior — S’échapper de la Sea of Corpses.
+- [ ] Into the Mountain — Entrer dans Helheim.
+- [ ] Tamed the Beast — Vaincre Fenrir.
+- [ ] The Final Battle — Affronter Hela.
+- [ ] Stories From the North — Collecter les 44 Lorestones.
+
+CONTRÔLE FINAL AVANT DE QUITTER LE JEU
+
+□ 44/44 Lorestones activés.
+□ Le dernier Lorestone a été lu jusqu’à la fin.
+□ Les 13 succès de progression sont présents dans Steam.
+□ Stories From the North est présent.
+□ Aucune rune rouge ne reste sur le cercle de suivi.
+□ Une sauvegarde finale est conservée si tu veux revoir la fin bonus.
+
+SOURCES ET CONTRÔLE ÉDITORIAL
+
+Cette fiche synthétise la route et les solutions de repérage ; elle ne recopie pas les textes narratifs des sources. Les numéros et les points de non-retour ont été contrôlés avec les listes de succès et les guides de collecte chronologiques.
+
+□ Succès Steam officiels : https://steamcommunity.com/stats/414340/achievements
+□ Liste des conditions : https://www.trueachievements.com/game/Hellblade-Senuas-Sacrifice/achievements
+□ Emplacements chronologiques des 44 Lorestones : https://www.powerpyx.com/hellblade-senuas-sacrifice-all-lorestones-locations/
+□ Walkthrough des puzzles et combats : https://gamefaqs.gamespot.com/pc/188084-hellblade-senuas-sacrifice/faqs/75120
+□ Guide Steam français des Lorestones : https://steamcommunity.com/sharedfiles/filedetails/?id=2198791562
+
+FIN DE FICHE — NE PAS AVANCER DANS UN CHAPITRE TANT QUE LE COMPTEUR DE SA ZONE N’EST PAS VALIDÉ.
