@@ -1,7 +1,7 @@
 {
   "name": "Game Note",
   "short_name": "Game Note",
-  "description": "Guides de jeux chronologiques, sans spoiler, disponibles hors-ligne",
+  "description": "Guides de progression chronologiques, sans spoiler, disponibles hors-ligne",
   "id": "/",
   "start_url": "/",
   "scope": "/",
@@ -14,13 +14,6 @@
   "categories": ["games", "books", "utilities"],
   "icons": [{ "src": "favicon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }],
   "shortcuts": [
-    {
-      "name": "Mes favoris",
-      "short_name": "Favoris",
-      "url": "/?view=favorites#guides",
-      "description": "Ouvrir les guides sauvegardés",
-      "icons": [{ "src": "favicon.svg", "sizes": "any", "type": "image/svg+xml" }]
-    },
     {
       "name": "Rechercher un guide",
       "short_name": "Recherche",
