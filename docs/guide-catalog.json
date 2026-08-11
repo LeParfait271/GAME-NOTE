@@ -135,6 +135,9 @@
     { "id": "left-4-dead-2", "title": "Left 4 Dead 2", "scope": "full-guide", "status": "draft", "file": "public/guides/left-4-dead-2.txt" },
     { "id": "castle-crashers", "title": "Castle Crashers", "scope": "full-guide", "status": "draft", "file": "public/guides/castle-crashers.txt" },
     { "id": "magicka", "title": "Magicka", "scope": "full-guide", "status": "draft", "file": "public/guides/magicka.txt" },
-    { "id": "magicka-2", "title": "Magicka 2", "scope": "full-guide", "status": "draft", "file": "public/guides/magicka-2.txt" }
+    { "id": "magicka-2", "title": "Magicka 2", "scope": "full-guide", "status": "draft", "file": "public/guides/magicka-2.txt" },
+    { "id": "trine", "title": "Trine Enchanted Edition", "scope": "full-guide", "status": "draft", "file": "public/guides/trine.txt" },
+    { "id": "trine-2", "title": "Trine 2: Complete Story", "scope": "full-guide", "status": "draft", "file": "public/guides/trine-2.txt" },
+    { "id": "we-were-here", "title": "We Were Here", "scope": "full-guide", "status": "draft", "file": "public/guides/we-were-here.txt" }
   ]
 }

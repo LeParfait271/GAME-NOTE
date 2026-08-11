@@ -2053,6 +2053,54 @@ const guides: Guide[] = [
       "A surveiller : les deux runs des Veterans, les torches, les Challenges et Bananas.",
     meta: ["47/47 Steam", "3 difficultes", "Coop"],
   },
+  {
+    id: "trine",
+    steamAppId: 35700,
+    title: "Trine Enchanted Edition",
+    eyebrow: "Frozenbyte",
+    subtitle: "Campagne, secrets et collecte dans l'ordre.",
+    count: "33 succes Steam",
+    file: "trine.txt",
+    accent: "gold",
+    tag: "Guide 100 % Steam",
+    description:
+      "Route des 15 niveaux, de l'Experience, des coffres secrets, des runs Hard et des objectifs de heros.",
+    highlight:
+      "A surveiller : Tower of Sarek sans mort, la collecte complete et le lancement de l'Enchanted Edition.",
+    meta: ["33/33 Steam", "15 niveaux", "Solo / Coop"],
+  },
+  {
+    id: "trine-2",
+    steamAppId: 35720,
+    title: "Trine 2: Complete Story",
+    eyebrow: "Frozenbyte",
+    subtitle: "Campagne, Goblin Menace et collectibles dans l'ordre.",
+    count: "97 succes Steam",
+    file: "trine-2.txt",
+    accent: "coral",
+    tag: "Guide 100 % Steam",
+    description:
+      "Route des 18 niveaux, Experience, coffres, objectifs physiques et runs Hard Hardcore.",
+    highlight:
+      "A surveiller : les deux collections, les trois heros en solo et les paliers Hardcore des deux campagnes.",
+    meta: ["97/97 Steam", "18 niveaux", "Hardcore"],
+  },
+  {
+    id: "we-were-here",
+    steamAppId: 582500,
+    title: "We Were Here",
+    eyebrow: "Total Mayhem Games",
+    subtitle: "Escape coop, deux roles et Perfect Play dans l'ordre.",
+    count: "26 succes Steam",
+    file: "we-were-here.txt",
+    accent: "blue",
+    tag: "Guide 100 % Steam",
+    description:
+      "Route des salles, rotation des roles, Perfect Play, run sans mort et conditions de fin.",
+    highlight:
+      "A surveiller : le micro, les huit Perfect Play, les deux roles et la run complete sans mort.",
+    meta: ["26/26 Steam", "2 joueurs", "Micro / Online"],
+  },
 ];
 
 const steamHeaderUrl = (appId: number) =>

@@ -1236,3 +1236,24 @@ conditions difficiles ; elles ne justifient jamais une copie mot a mot.
   https://store.steampowered.com/app/238370/Magicka_2/
 - Liste complete Magicka 2 :
   https://www.exophase.com/game/magicka-2-steam/achievements/
+
+## TRINE ET ESCAPE COOP
+
+- Fiche Steam Trine Enchanted Edition, total 33 succes :
+  https://store.steampowered.com/app/35700/Trine_Enchanted_Edition/
+- Succes officiels Trine, AppID 35700 :
+  https://steamcommunity.com/stats/35700/achievements
+- Liste complete Trine, collecte et difficulte :
+  https://www.exophase.com/game/trine-steam/achievements/
+- Fiche Steam Trine 2: Complete Story, total 97 succes :
+  https://store.steampowered.com/app/35720/Trine_2/
+- Succes officiels Trine 2, AppID 35720 :
+  https://steamcommunity.com/stats/35720/achievements
+- Liste complete Trine 2 et Goblin Menace :
+  https://www.exophase.com/game/trine-2-steam/achievements/
+- Fiche Steam We Were Here, total 26 succes :
+  https://store.steampowered.com/app/582500/We_Were_Here/
+- Succes officiels We Were Here, AppID 582500 :
+  https://steamcommunity.com/stats/582500/achievements
+- Liste complete We Were Here, roles et Perfect Play :
+  https://www.exophase.com/game/we-were-here-steam/achievements/

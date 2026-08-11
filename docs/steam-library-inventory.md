@@ -156,6 +156,12 @@ soluce chronologique classique n'apporterait rien.
 - Magicka — guide publie : 88/88 succes Steam, campagne, DLC, evenements et Versus
 - Magicka 2 — guide publie : 47/47 succes Steam, campagne, trois difficultes et Challenges
 
+### Plateforme et enigmes coop
+
+- Trine Enchanted Edition — guide publie : 33/33 succes Steam, 15 niveaux, Experience et secrets
+- Trine 2: Complete Story — guide publie : 97/97 succes Steam, deux campagnes, collectibles et Hardcore
+- We Were Here — guide publie : 26/26 succes Steam, deux roles, Perfect Play et online
+
 ## Futurs guides chronologiques (`planned`)
 
 ### Final Fantasy et RPG proches
@@ -173,9 +179,6 @@ soluce chronologique classique n'apporterait rien.
 - Lara Croft and the Temple of Osiris
 - Overcooked! All You Can Eat
 - Sniper Elite: Nazi Zombie Army
-- Trine
-- Trine 2
-- We Were Here
 - The Forest
 - Sons Of The Forest
 - Green Hell

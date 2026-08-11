@@ -129,6 +129,9 @@
     { "id": "left-4-dead-2", "appId": 550, "steamAchievements": 101, "guideType": "100-steam-campaign-modes-events", "source": "https://steamcommunity.com/stats/L4D2/achievements" },
     { "id": "castle-crashers", "appId": 204360, "steamAchievements": 12, "guideType": "100-steam-campaign-animals-coop-arena", "source": "https://steamcommunity.com/stats/204360/achievements" },
     { "id": "magicka", "appId": 42910, "steamAchievements": 88, "guideType": "100-steam-campaign-dlc-events-coop", "source": "https://steamcommunity.com/stats/Magicka/achievements/" },
-    { "id": "magicka-2", "appId": 238370, "steamAchievements": 47, "guideType": "100-steam-campaign-difficulties-coop", "source": "https://steamcommunity.com/stats/238370/achievements" }
+    { "id": "magicka-2", "appId": 238370, "steamAchievements": 47, "guideType": "100-steam-campaign-difficulties-coop", "source": "https://steamcommunity.com/stats/238370/achievements" },
+    { "id": "trine", "appId": 35700, "steamAchievements": 33, "guideType": "100-steam-collectibles-difficulty-coop", "source": "https://steamcommunity.com/stats/35700/achievements" },
+    { "id": "trine-2", "appId": 35720, "steamAchievements": 97, "guideType": "100-steam-collectibles-dlc-hardcore", "source": "https://steamcommunity.com/stats/35720/achievements" },
+    { "id": "we-were-here", "appId": 582500, "steamAchievements": 26, "guideType": "100-steam-coop-roles-perfect-play", "source": "https://steamcommunity.com/stats/582500/achievements" }
   ]
 }
