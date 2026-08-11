@@ -1396,3 +1396,84 @@ conditions difficiles ; elles ne justifient jamais une copie mot a mot.
   https://store.steampowered.com/app/307780/Mortal_Kombat_X/
 - Fiche Steam Far Cry 2, AppID 19900, sans succes Steam :
   https://store.steampowered.com/app/19900/Far_Cry_2/
+
+## LOT DU 11 AOUT 2026 — RPG, PLATEFORME ET VR
+
+- Fiche Steam GRANDIA HD Remaster, AppID 1034860 :
+  https://store.steampowered.com/app/1034860/GRANDIA_HD_Remaster/
+- Succes officiels GRANDIA HD Remaster, total 36 :
+  https://steamcommunity.com/stats/1034860/achievements/
+- Succes officiels Destiny Warriors RPG, AppID 399790, total 6 :
+  https://steamcommunity.com/stats/399790/achievements/
+- Fiche Steam Greyfox RPG, AppID 341310 :
+  https://store.steampowered.com/app/341310/Greyfox_RPG/
+- Succes officiels Greyfox RPG, total 16 :
+  https://steamcommunity.com/stats/341310/achievements/
+- Succes officiels Secret Of Magia, AppID 396160, total 5 :
+  https://steamcommunity.com/stats/396160/achievements/
+- Succes officiels SONIC THE HEDGEHOG 4 Episode I, total 12 :
+  https://steamcommunity.com/stats/202530/achievements/
+- Succes officiels SONIC THE HEDGEHOG 4 Episode II, total 12 :
+  https://steamcommunity.com/stats/203650/achievements/
+- Succes officiels Arizona Sunshine VR Legacy, AppID 342180, total 48 :
+  https://steamcommunity.com/stats/342180/achievements/
+- Succes officiels LIVE A LIVE, AppID 2014380, total 48 :
+  https://steamcommunity.com/stats/2014380/achievements/
+- Succes officiels FINAL FANTASY XVI, AppID 2515020, total 69, avec les deux extensions Steam :
+  https://steamcommunity.com/stats/2515020/achievements
+- Fiche Steam FINAL FANTASY XVI :
+  https://store.steampowered.com/app/2515020/FINAL_FANTASY_XVI/
+
+## LOT DU 11 AOUT 2026 — CAMPAGNES ET COOPERATION
+
+- Succes officiels Baldur's Gate 3, AppID 1086940, total 54 :
+  https://steamcommunity.com/stats/1086940/achievements/
+- Fiche Steam Baldur's Gate 3 :
+  https://store.steampowered.com/app/1086940/Baldurs_Gate_3/
+- Succes officiels BRINK, AppID 22350, total 43 :
+  https://steamcommunity.com/stats/22350/achievements/
+- Fiche Steam BRINK :
+  https://store.steampowered.com/app/22350/BRINK/
+- Succes officiels Call of Juarez: The Cartel, AppID 33420, total 50 :
+  https://steamcommunity.com/stats/33420/achievements/
+- Fiche Steam Call of Juarez: The Cartel :
+  https://store.steampowered.com/app/33420/Call_of_Juarez_The_Cartel/
+- Succes officiels DEATH STRANDING DIRECTOR'S CUT, AppID 1850570, total 63 :
+  https://steamcommunity.com/stats/1850570/achievements/
+- Fiche Steam DEATH STRANDING DIRECTOR'S CUT :
+  https://store.steampowered.com/app/1850570/DEATH_STRANDING_DIRECTORS_CUT/
+- Succes officiels Grand Theft Auto IV: The Complete Edition, AppID 12210, total 55 :
+  https://steamcommunity.com/stats/12210/achievements/
+- Fiche Steam Grand Theft Auto IV: The Complete Edition :
+  https://store.steampowered.com/app/12210/Grand_Theft_Auto_IV_The_Complete_Edition/
+- Succes officiels Hellblade II: Senua's Saga, AppID 2461850, total 12 :
+  https://steamcommunity.com/stats/2461850/achievements/
+- Succes officiels Hellblade: Senua's Sacrifice VR Edition, AppID 747350, total 14 :
+  https://steamcommunity.com/stats/747350/achievements/
+- Succes officiels Ori and the Blind Forest, AppID 261570, total 50 :
+  https://steamcommunity.com/stats/261570/achievements/
+- Succes officiels Ori and the Blind Forest: Definitive Edition, AppID 387290, total 57 :
+  https://steamcommunity.com/stats/387290/achievements/
+- Succes officiels PAYDAY: The Heist, AppID 24240, total 56 :
+  https://steamcommunity.com/stats/PAYDAYTheHeist/achievements/
+- Succes officiels RV There Yet?, AppID 3949040, total 96 au 11 aout 2026 :
+  https://steamcommunity.com/stats/3949040/achievements/
+- Succes officiels Warhammer: Vermintide 2, AppID 552500, total 26 :
+  https://steamcommunity.com/stats/552500/achievements/
+
+## LOT DU 11 AOUT 2026 — JEUX SANS SUCCES STEAM
+
+- Fiche Steam Battlefield: Bad Company 2, AppID 24960 :
+  https://store.steampowered.com/app/24960/Battlefield_Bad_Company_2/
+- Fiche Steam Call of Duty (2003), AppID 2620 :
+  https://store.steampowered.com/app/2620/Call_of_Duty/
+- Fiche Steam Crysis, AppID 17300 :
+  https://store.steampowered.com/app/17300/Crysis/
+- Fiche Steam Crysis Warhead, AppID 17330 :
+  https://store.steampowered.com/app/17330/Crysis_Warhead/
+- Fiche Steam Crysis 2 - Maximum Edition, AppID 108800 :
+  https://store.steampowered.com/app/108800/Crysis_2_-_Maximum_Edition/
+- Fiche Steam DOOM 3 original, AppID 9050 :
+  https://store.steampowered.com/app/9050/DOOM_3/
+- Verification de l'assistance Steam pour l'AppID Battlefield: Bad Company 2 :
+  https://help.steampowered.com/en/wizard/HelpWithGameTechnicalIssue?appid=24960
