@@ -3163,24 +3163,19 @@ export default function Home() {
         </a>
 
         <nav className="main-nav" aria-label="Navigation principale">
-          <a href="#guides">Les guides</a>
-          <a href="#methode">La méthode</a>
-          <a href="#reader">Lire une soluce</a>
+          <a href="#guides">Bibliothèque</a>
+          <a href="#reader">Lire</a>
+          <a href="#methode">Méthode</a>
         </nav>
 
         <div className="topbar-actions">
-          <button
-            className="topbar-action"
-            type="button"
-            aria-pressed={favoritesOnly}
-            aria-label="Afficher les guides favoris"
-            title="Afficher les favoris"
-            onClick={showFavorites}
-          >
-            <span aria-hidden="true">♥</span>
-            <strong>{favorites.length}</strong>
-            <span className="topbar-action-label">favoris</span>
-          </button>
+          <div className="topbar-status">
+            <span
+              className={"status-dot" + (isOnline ? "" : " status-dot-offline")}
+              aria-hidden="true"
+            />
+            <span>{isOnline ? guides.length + " guides prêts" : "Hors ligne"}</span>
+          </div>
           <button
             className="topbar-action"
             type="button"
@@ -3197,17 +3192,6 @@ export default function Home() {
               {theme === "dark" ? "jour" : "nuit"}
             </span>
           </button>
-          <div className="topbar-status">
-            <span
-              className={"status-dot" + (isOnline ? "" : " status-dot-offline")}
-              aria-hidden="true"
-            />
-            <span>
-              {isOnline
-                ? guides.length + " guides disponibles"
-                : "Hors ligne · guides en cache"}
-            </span>
-          </div>
         </div>
       </header>
 
@@ -3220,59 +3204,74 @@ export default function Home() {
 
       <section className="hero" id="top">
         <div className="hero-copy">
-          <p className="kicker">SANS SPOILER · 100 % STEAM</p>
+          <p className="kicker">GUIDES DE PROGRESSION · SANS SPOILER</p>
           <h1>
-            Joue tranquille.
+            Le bon chemin.
             <br />
-            <em>Ne rate rien.</em>
+            <em>Sans rien rater.</em>
           </h1>
           <p className="hero-intro">
-            Des soluces chronologiques pour garder succès, quêtes et collectibles
-            sous contrôle.
+            Des routes chronologiques qui te disent quoi faire, quand le faire et
+            quoi ne surtout pas oublier.
           </p>
           <div className="hero-actions">
             <a className="button button-primary" href="#guides">
-              Choisir un jeu <span aria-hidden="true">↓</span>
+              Explorer la bibliothèque <span aria-hidden="true">↓</span>
             </a>
-            <a className="button button-quiet" href="#methode">
-              Comment ça marche
+            <a className="button button-quiet" href="#reader">
+              Reprendre la lecture <span aria-hidden="true">↗</span>
             </a>
+          </div>
+          <div className="hero-proof" aria-label="Ce que propose Game Note">
+            <span><strong>{guides.length}</strong> guides</span>
+            <span><strong>01</strong> checklist locale</span>
+            <span><strong>24/7</strong> hors ligne</span>
           </div>
         </div>
 
-        <div className="hero-board" aria-label="Résumé de Game Note">
-          <div className="board-tape">VERSION 01 · À GARDER SOUS LA MAIN</div>
-          <div className="board-topline">
-            <span>CHECKLIST DE PARTIE</span>
-            <span>2026</span>
+        <div className="hero-feature" aria-label={`Guide en vedette : ${selected.title}`}>
+          <div className="feature-topline">
+            <span>GUIDE EN VEDETTE</span>
+            <span>{selected.count}</span>
           </div>
-          <div className="board-number">{String(guides.length).padStart(2, "0")}</div>
-          <p className="board-title">jeux suivis</p>
-          <div className="board-lines">
-            <span>ordre chronologique</span>
-            <span>missables signalés</span>
-            <span>lecture mobile</span>
+          <div className="feature-artwork">
+            {/* eslint-disable-next-line @next/next/no-img-element */}
+            <img
+              src={selected.artworkUrl ?? steamHeaderUrl(selected.steamAppId)}
+              alt={`Illustration officielle de ${selected.title}`}
+              width={460}
+              height={215}
+              fetchPriority="high"
+            />
+            <span className={`feature-accent feature-accent-${selected.accent}`} />
           </div>
-          <div className="board-stamp">
-            NO
-            <br />
-            SPOIL
+          <div className="feature-copy">
+            <p className="feature-eyebrow">{selected.eyebrow} · {selected.tag}</p>
+            <h2>{selected.title}</h2>
+            <p>{selected.subtitle}</p>
+            <button
+              className="feature-cta"
+              type="button"
+              onClick={() => scrollToReader(selected.id, setSelectedId, setSearch)}
+            >
+              Lire le guide <span aria-hidden="true">↗</span>
+            </button>
           </div>
         </div>
       </section>
 
       <section className="stats-row" aria-label="Chiffres clés">
         <div>
-          <strong>{String(guides.length).padStart(2, "0")}</strong>
-          <span>jeux dans la collection</span>
-        </div>
-        <div>
-          <strong>100%</strong>
-          <span>objectif succès et contenu</span>
+          <strong>{guides.length}</strong>
+          <span>guides accessibles immédiatement</span>
         </div>
         <div>
           <strong>01</strong>
-          <span>règle : garder le bon ordre</span>
+          <span>recherche pour trouver le bon repère</span>
+        </div>
+        <div>
+          <strong>0</strong>
+          <span>compte nécessaire pour jouer</span>
         </div>
       </section>
 
@@ -3280,23 +3279,23 @@ export default function Home() {
         <div className="section-heading">
           <div>
             <p className="kicker">LA BIBLIOTHÈQUE</p>
-            <h2>Choisis ton aventure.</h2>
+            <h2>Le guide qu’il te faut.</h2>
           </div>
           <p>
-            Chaque carte ouvre le guide complet. Les fichiers TXT restent
-            téléchargeables pour jouer hors ligne.
+            Recherche un jeu, ouvre sa route et garde ta progression sur cet
+            appareil. Rien ne vient ralentir la lecture.
           </p>
         </div>
 
         <div className="library-tools">
-          <label htmlFor="catalog-search">Trouver un guide</label>
+          <label htmlFor="catalog-search">Rechercher dans les guides</label>
           <div className="catalog-search-wrap">
             <span aria-hidden="true">⌕</span>
             <input
               id="catalog-search"
               ref={catalogSearchRef}
               type="search"
-              placeholder="Ex. Resident Evil, RPG, collectibles..."
+              placeholder="Ex. Resident Evil, RPG, collectibles…"
               value={catalogSearch}
               aria-keyshortcuts="Control+K Meta+K"
               onChange={(event) => setCatalogSearch(event.target.value)}
@@ -3312,27 +3311,10 @@ export default function Home() {
               </button>
             ) : null}
           </div>
-          <div className="library-filters" aria-label="Filtrer la bibliothèque">
-            <button
-              className="filter-button"
-              type="button"
-              aria-pressed={!favoritesOnly}
-              onClick={showAllGuides}
-            >
-              Tous
-            </button>
-            <button
-              className="filter-button"
-              type="button"
-              aria-pressed={favoritesOnly}
-              onClick={showFavorites}
-            >
-              Favoris ({favorites.length})
-            </button>
-          </div>
           <span className="catalog-count" aria-live="polite">
             {visibleGuides.length} guide{visibleGuides.length > 1 ? "s" : ""} sur {guides.length}
           </span>
+          <span className="shortcut-hint">⌘K / Ctrl K</span>
         </div>
 
         {visibleGuides.length > 0 ? (
@@ -3349,61 +3331,40 @@ export default function Home() {
               <div className="card-top">
                 <span className="card-index">{String(index + 1).padStart(2, "0")}</span>
                 <span className="card-tag">{guide.tag}</span>
-                <button
-                  className={
-                    "favorite-toggle" +
-                    (favoriteSet.has(guide.id) ? " is-active" : "")
-                  }
-                  type="button"
-                  aria-pressed={favoriteSet.has(guide.id)}
-                  aria-label={
-                    favoriteSet.has(guide.id)
-                      ? "Retirer " + guide.title + " des favoris"
-                      : "Ajouter " + guide.title + " aux favoris"
-                  }
-                  title={
-                    favoriteSet.has(guide.id)
-                      ? "Retirer des favoris"
-                      : "Ajouter aux favoris"
-                  }
-                  onClick={() => toggleFavorite(guide.id)}
-                >
-                  {favoriteSet.has(guide.id) ? "♥" : "♡"}
-                </button>
-              </div>
-              <div className="card-artwork">
-                {/* eslint-disable-next-line @next/next/no-img-element */}
-                <img
-                  src={guide.artworkUrl ?? steamHeaderUrl(guide.steamAppId)}
-                  alt={`Illustration officielle de ${guide.title}`}
-                  width={460}
-                  height={215}
-                  loading="lazy"
-                  decoding="async"
-                />
-              </div>
-              <p className="card-eyebrow">{guide.eyebrow}</p>
-              <h3>{guide.title}</h3>
-              <p className="card-subtitle">{guide.subtitle}</p>
-              {selected.id === guide.id ? (
-                <p className="card-description">{guide.description}</p>
-              ) : null}
-              <div className="card-meta">
-                {guide.meta.map((item) => (
-                  <span key={item}>{item}</span>
-                ))}
               </div>
               <button
-                className="card-link"
+                className="guide-card-open"
                 type="button"
+                aria-label={`Ouvrir la soluce ${guide.title}`}
                 onClick={() => {
-                  if (selected.id !== guide.id) {
-                    setLoading(true);
-                  }
                   scrollToReader(guide.id, setSelectedId, setSearch);
                 }}
               >
-                Ouvrir la soluce <span aria-hidden="true">↗</span>
+                <div className="card-artwork">
+                  {/* eslint-disable-next-line @next/next/no-img-element */}
+                  <img
+                    src={guide.artworkUrl ?? steamHeaderUrl(guide.steamAppId)}
+                    alt={`Illustration officielle de ${guide.title}`}
+                    width={460}
+                    height={215}
+                    loading="lazy"
+                    decoding="async"
+                  />
+                </div>
+                <div className="card-copy">
+                  <p className="card-eyebrow">{guide.eyebrow}</p>
+                  <h3>{guide.title}</h3>
+                  <p className="card-subtitle">{guide.subtitle}</p>
+                  <p className="card-description">{guide.description}</p>
+                  <div className="card-meta">
+                    {guide.meta.map((item) => (
+                      <span key={item}>{item}</span>
+                    ))}
+                  </div>
+                  <span className="card-link">
+                    Lire la soluce <span aria-hidden="true">↗</span>
+                  </span>
+                </div>
               </button>
             </article>
             ))}
@@ -3426,26 +3387,26 @@ export default function Home() {
       <section className="method-section" id="methode">
         <div className="method-heading">
           <p className="kicker">LA MÉTHODE</p>
-          <h2>Un guide qui te laisse jouer.</h2>
+          <h2>Tout ce qui sert. Rien de plus.</h2>
           <p>
-            Les informations arrivent au moment où elles servent.
+            Game Note reste un outil de jeu : lis, coche, reprends quand tu veux.
           </p>
         </div>
         <div className="method-grid">
           <div className="method-item">
             <span className="method-number">01</span>
-            <h3>Avance dans l’ordre</h3>
-            <p>Les chapitres et les retours dans les zones sont placés au bon moment.</p>
+            <h3>Trouve vite</h3>
+            <p>Une recherche tolérante aux accents pour passer directement du jeu au guide.</p>
           </div>
           <div className="method-item">
             <span className="method-number">02</span>
-            <h3>Repère les alertes</h3>
-            <p>Les activités difficiles à récupérer plus tard sont annoncées clairement.</p>
+            <h3>Suis le bon ordre</h3>
+            <p>Les missables et les retours dans les zones arrivent au moment où ils servent.</p>
           </div>
           <div className="method-item">
             <span className="method-number">03</span>
-            <h3>Coche sans pression</h3>
-            <p>Les checklists restent lisibles sur téléphone et les TXT sont toujours là.</p>
+            <h3>Garde la main</h3>
+            <p>Les cases cochées restent locales, le TXT se télécharge et le site reste installable.</p>
           </div>
         </div>
       </section>
@@ -3468,15 +3429,6 @@ export default function Home() {
           <span aria-hidden="true">▦</span>
           <small>Guides</small>
         </a>
-        <button
-          type="button"
-          aria-pressed={favoritesOnly}
-          aria-label="Afficher les favoris"
-          onClick={showFavorites}
-        >
-          <span aria-hidden="true">♥</span>
-          <small>Favoris</small>
-        </button>
         <a href="#reader">
           <span aria-hidden="true">▤</span>
           <small>Lire</small>
@@ -3506,7 +3458,7 @@ export default function Home() {
             <small>fait pour jouer, pas pour se perdre</small>
           </span>
         </div>
-        <p>Guides sans spoiler · prêts à jouer</p>
+        <p>Guides sans spoiler · lecture locale · progression sur l’appareil</p>
         <a href="#top">Retour en haut ↑</a>
       </footer>
     </main>
