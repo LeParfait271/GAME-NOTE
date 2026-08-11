@@ -18,11 +18,13 @@ export const metadata: Metadata = {
     type: "website",
     url: "/",
     siteName: "Game Note",
+    images: [{ url: "/og.png", alt: "Game Note — une partie, une route, pas un oubli" }],
   },
   twitter: {
     card: "summary",
     title: "Game Note — une partie, une route, pas un oubli",
     description: "Le carnet de route sans spoiler pour avancer dans le bon ordre.",
+    images: ["/og.png"],
   },
   robots: { index: true, follow: true },
   icons: {
