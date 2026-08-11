@@ -2962,26 +2962,7 @@ type StoredPreferences = {
   catalogSearch?: string;
 };
 
-const FAVORITES_KEY = "game-note-favorites";
 const PREFERENCES_KEY = "game-note-preferences";
-
-function readStoredFavorites() {
-  if (typeof window === "undefined") {
-    return [];
-  }
-
-  try {
-    const value = JSON.parse(window.localStorage.getItem(FAVORITES_KEY) ?? "[]");
-    return Array.isArray(value)
-      ? value.filter(
-          (id): id is string =>
-            typeof id === "string" && guides.some((guide) => guide.id === id),
-        )
-      : [];
-  } catch {
-    return [];
-  }
-}
 
 function readStoredPreferences(): StoredPreferences {
   if (typeof window === "undefined") {
@@ -3022,8 +3003,6 @@ export default function Home() {
   const [selectedId, setSelectedId] = useState("expedition-33");
   const [search, setSearch] = useState("");
   const [catalogSearch, setCatalogSearch] = useState("");
-  const [favorites, setFavorites] = useState<string[]>([]);
-  const [favoritesOnly, setFavoritesOnly] = useState(false);
   const [theme, setTheme] = useState<Theme>("light");
   const [isOnline, setIsOnline] = useState(true);
   const [preferencesReady, setPreferencesReady] = useState(false);
@@ -3031,15 +3010,10 @@ export default function Home() {
   const guideSearchRef = useRef<HTMLInputElement>(null);
 
   const selected = guides.find((guide) => guide.id === selectedId) ?? guides[0];
-  const favoriteSet = useMemo(() => new Set(favorites), [favorites]);
   const visibleGuides = useMemo(() => {
     const query = normalizeCatalogText(catalogSearch.trim());
 
     return guides.filter((guide) => {
-      if (favoritesOnly && !favoriteSet.has(guide.id)) {
-        return false;
-      }
-
       if (!query) {
         return true;
       }
@@ -3053,7 +3027,7 @@ export default function Home() {
         ...guide.meta,
       ].some((value) => normalizeCatalogText(value).includes(query));
     });
-  }, [catalogSearch, favoriteSet, favoritesOnly]);
+  }, [catalogSearch]);
 
   // These values come from browser-only storage and must hydrate after the static shell mounts.
   /* eslint-disable react-hooks/set-state-in-effect */
@@ -3072,31 +3046,15 @@ export default function Home() {
     const requestedGuide = url.searchParams.get("guide");
     const requestedSearch = url.searchParams.get("q");
 
-    setFavorites(readStoredFavorites());
     setTheme(preferredTheme);
     setCatalogSearch(requestedSearch ?? storedPreferences.catalogSearch ?? "");
     if (requestedGuide && guides.some((guide) => guide.id === requestedGuide)) {
       setSelectedId(requestedGuide);
     }
-    if (url.searchParams.get("view") === "favorites") {
-      setFavoritesOnly(true);
-    }
     setIsOnline(window.navigator.onLine);
     setPreferencesReady(true);
   }, []);
   /* eslint-enable react-hooks/set-state-in-effect */
-
-  useEffect(() => {
-    if (!preferencesReady) {
-      return;
-    }
-
-    try {
-      window.localStorage.setItem(FAVORITES_KEY, JSON.stringify(favorites));
-    } catch {
-      // Local storage can be disabled in private browsing.
-    }
-  }, [favorites, preferencesReady]);
 
   useEffect(() => {
     document.documentElement.dataset.theme = theme;
@@ -3165,35 +3123,8 @@ export default function Home() {
     return () => window.removeEventListener("keydown", handleKeyboardShortcut);
   }, []);
 
-  const toggleFavorite = (id: string) => {
-    setFavorites((current) =>
-      current.includes(id)
-        ? current.filter((favoriteId) => favoriteId !== id)
-        : [...current, id],
-    );
-  };
-
   const toggleTheme = () => {
     setTheme((current) => (current === "dark" ? "light" : "dark"));
-  };
-
-  const showFavorites = () => {
-    setFavoritesOnly(true);
-    const url = new URL(window.location.href);
-    url.searchParams.set("view", "favorites");
-    url.hash = "guides";
-    window.history.replaceState(null, "", url);
-    document.getElementById("guides")?.scrollIntoView({
-      behavior: "smooth",
-      block: "start",
-    });
-  };
-
-  const showAllGuides = () => {
-    setFavoritesOnly(false);
-    const url = new URL(window.location.href);
-    url.searchParams.delete("view");
-    window.history.replaceState(null, "", url);
   };
 
   return (
