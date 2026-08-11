@@ -1,294 +1,980 @@
 TITAN QUEST ANNIVERSARY EDITION
-GUIDE CHRONOLOGIQUE 100 % STEAM - SANS SPOILER
+FICHE PREMIUM 100 % STEAM — ROUTE CHRONOLOGIQUE — SANS SPOILER NARRATIF
 
-Version de travail : 10 aout 2026
+Version vérifiée : 11 août 2026
+AppID Steam : 475150
+Périmètre : 115 succès Steam, campagne principale, Ragnarök, Atlantis et
+Eternal Embers. Les trois extensions à succès sont indispensables au 100 %.
 
-Cette route couvre les 115 succes Steam de l'edition Anniversary, le jeu de
-base, Ragnarok, Atlantis et Eternal Embers. Elle separe le parcours de
-campagne, les trois difficultes, les classes, les objectifs sans mort, le
-contenu optionnel, les succes cooperatifs et les objectifs de farm. Les noms
-de zones, de quetes et de boss sont utilises comme reperes de carte ; aucun
-evenement d'histoire n'est raconte.
+Cette fiche est une route de progression et de succès. Elle ne raconte pas les
+révélations du scénario : les noms de villes, de quêtes, de zones et de boss
+servent de repères pour savoir où aller et quoi contrôler. Elle sépare la
+partie principale, les objectifs de combat, les difficultés, les maîtrises,
+les quêtes DLC, le coopératif et les longues accumulations.
 
-CONDITION ABSOLUE DU 100 %
+IMPORTANT — CE QUE COUVRE LE 100 %
 
-- Les trois DLC qui ajoutent des succes sont requis : Ragnarok, Atlantis et
-  Eternal Embers. L'edition seule ne suffit pas si le contenu n'est pas
-  installe dans Steam.
-- La liste Steam compte 115 succes. Le guide comprend les succes Offline,
-  Cooperative et ceux des trois DLC dans une seule checklist.
-- Le plus propre est de faire Normal, Epic et Legendary avec des sauvegardes
-  distinctes, puis de creer des personnages de classe pour les succes
-  Legendary. Un personnage qui meurt ne doit pas etre reutilise pour un
-  objectif zero mort.
-- Le jeu est long : joue legitime, sans editeur de personnage ni outil externe.
-  Les sauvegardes de securite sont autorisees et recommandees.
+- 115 succès Steam exactement.
+- Actes I à IV de la campagne originale.
+- Atlantis, branche optionnelle accessible après l'ouverture de Gadir.
+- Acte V Ragnarök.
+- Acte VI Eternal Embers, accessible sur Legendary.
+- 11 maîtrises validées en Legendary : Warfare, Defense, Dream, Hunting,
+  Nature, Earth, Storm, Rogue, Spirit, Rune et Neidan.
+- Trois succès zéro mort : Normal, Epic et Legendary.
+- Trois Tartarus : Normal, Epic et Legendary.
+- 15 quêtes secondaires d'Eternal Embers pour No Stone Unturned.
+- Les deux succès coopératifs : Medic! et Together we stand.
 
-SAUVEGARDES ET MISSABLES
+CE QUI N'EST PAS UN OBJECTIF DU JEU
 
-1. S1 : debut de chaque difficulte ; S2 : avant chaque boss optionnel ; S3 :
-   avant les zones DLC et les combats de defi.
-2. Dark corners of the map demande de battre Shadowmaw en Normal avant de
-   quitter la Grece. Fais-le avant de traverser l'acte d'Egypte.
-3. Masterful start demande d'atteindre le niveau 2 sans subir de degats. Cree
-   un personnage neuf, evite tous les contacts et sauvegarde avant le premier
-   groupe.
-4. Specialist et I have minions for that demandent des personnages Normal
-   construits selon une regle precise. Ne choisis pas la deuxieme maitrise
-   avant le niveau requis pour Specialist ; pour les serviteurs, utilise une
-   maitrise qui tue a ta place.
-5. Les succes online Medic! et Together we stand necessitent d'autres joueurs.
-   Ils sont independants de la route solo.
-6. Pour les zero morts, ne ressuscite pas le personnage par rechargement apres
-   un ecran de mort sans conserver une sauvegarde propre. Un personnage
-   dedie par difficulte est la solution la plus lisible.
+Titan Quest n'a pas de compteur global « carte 100 % » ni de liste de coffres à
+vider. Les coffres ordinaires se régénèrent et leur contenu est aléatoire. La
+route contrôle donc chaque zone importante, chaque quête à récompense unique,
+chaque boss optionnel, chaque objet de succès et chaque maîtrise. Les objets
+uniques ne doivent pas être vendus avant le bilan de la fiche.
 
-ORDRE DES CAMPAGNES
+PLAN DE PARTIES RECOMMANDÉ
 
-NORMAL - ACTE I : GRECE
+Une seule partie ne peut pas raisonnablement couvrir les 11 maîtrises
+Legendary, les trois zéro mort, Specialist, I have minions for that et Greece
+Lightning. Le plan fiable est le suivant :
 
-1. Helos : sauve le village, equipe les armes et apprends les deux maitrises
-   que tu veux garder pour la partie principale. No burned village? et It's
-   dangerous to go alone. arrivent tres tot.
-2. Sparta : passe le test des Spartiates, termine les quetes de la ville et
-   ouvre les coffres lateraux avant Megara.
-3. Megara et les bois : bats Polyphemus, puis les Gorgones et le Minotaur Lord
-   dans la route principale. Ces combats valident Nobody did this, Hearts of
-   Stone et Taste the beast!.
-4. Delphi, Pythian Caves et Athens : nettoie les temples, assemble les premiers
-   relics et utilise le menu d'enchantement. Une relique recuperee d'un objet
-   valide Recycling.
-5. Knossos et le palais : termine la route et bats le Telkine. Avant le depart
-   vers l'Egypte, explore Shadowmaw et bats-le en Normal pour Dark corners of
-   the map.
-6. Fabrique un Lesser Artefact, puis recupere assez de reliques et de charmes
-   pour viser Artisan, Archeologist et Survivalist. Les recettes peuvent etre
-   completes dans les trois difficultes.
+1. MAIN-100 : personnage principal, Normal → Atlantis → Ragnarök, puis Epic et
+   Legendary. Fais-y la campagne confortable, les quêtes, le craft, les boss,
+   les trois Tartarus si le personnage reste solide, et le farm de compteurs.
+2. HC-N : personnage neuf en Normal, zéro mort.
+3. HC-E : personnage neuf en Epic, zéro mort.
+4. HC-L / EE : personnage neuf en Legendary, zéro mort ; termine Ragnarök,
+   Eternal Embers et Peach of Immortality sur ce personnage.
+5. SPECIALIST : personnage neuf, une seule maîtrise, fin de Normal.
+6. MINIONS : personnage Nature ou Spirit, moins de 100 victimes personnelles
+   avant la fin de Normal.
+7. MASTERY-1 à MASTERY-6 : six personnages Legendary couvrant les 11 maîtrises
+   par paires. Un personnage qui termine Legendary avec deux maîtrises valide
+   les deux succès correspondants.
+8. RUSH : personnage réservé à Greece Lightning. Ne fais aucun farm, aucune
+   quête secondaire et aucune exploration inutile.
+9. ALTOHOLIC : personnages niveau 10, à créer séparément ou en profitant des
+   héros accomplis disponibles dans le jeu. N'utilise pas de mod qui désactive
+   les succès.
 
-NORMAL - ACTE II : EGYPTE
+SAUVEGARDES ET GARDE-FOUS
 
-1. Arrivee a Rhodes : ouvre les sanctuaires et avance par les oasis. Vise les
-   50 niveaux de teintes et les assemblages de reliques au fil des combats.
-2. Fayum et Memphis : visite les tombeaux secondaires, l'ancienne bibliotheque
-   et le Sphinx. Scarabeus et la garde du Sphinx valident Found a bug et Tough
-   crowd.
-3. Temple d'Atum et desert : bats Nehebkau, puis explore les tombeaux de
-   Ramses et Aktaios. No more sequels et Fight in the shade tombent sur cette
-   route.
-4. Gizeh et pyramides : termine les quetes, trouve Medea et ouvre la porte
-   antique. Can't always use more et What lies below demandent l'exploration
-   optionnelle, pas seulement le marqueur principal.
-5. Avant de quitter l'acte, termine les rencontres de Talos, Boar Snatcher,
-   Manticore, Hydra et Dragon Lich lorsqu'elles apparaissent. Utilise une
-   sauvegarde S2 avant chaque zone de boss.
+- S0 : début de chaque personnage.
+- S1 : avant Shadowmaw, avant chaque boss optionnel et avant chaque zone DLC.
+- S2 : avant Hades, Surtr, Tartarus et la fin d'Eternal Embers.
+- S3 : copie propre du personnage HC après chaque portail important.
+- Ne continue pas un personnage HC après une mort enregistrée. Recharge une
+  copie propre ou recommence avec un nouveau personnage.
+- Sur Steam Cloud, attends la fin de la synchronisation avant de remplacer une
+  sauvegarde. Le jeu utilise plusieurs fichiers ; garde le dossier entier de
+  sauvegarde si tu fais une copie de sécurité.
+- Les objets de quête, les formules, les reliques complètes, les charmes
+  complets et les objets de sets restent dans le coffre partagé jusqu'au bilan.
+- Un succès de boss doit être vérifié dans Steam avant de quitter la zone.
 
-NORMAL - ACTE III : ORIENT
+RÈGLES DE BUILD POUR LA ROUTE PRINCIPALE
 
-1. Chine et route de la Soie : avance par les villages, valide New lands au
-   nord des Alpes et garde les amulettes de resistance.
-2. Grande Muraille : termine la quete de defense et ouvre les chemins
-   lateraux. Be a man! demande la defense de la Grande Muraille.
-3. Route occidentale : bats Barmanu, puis la Chimere du temple de Marduk.
-   Best served cold et Discount mercenary se valident ici.
-4. Palais de Jade : rencontre l'Empereur Jaune et nettoie les secteurs
-   secondaires avant le retour vers le mont Wusao.
-5. Mont Wusao et route de l'Olympe : termine l'acte et bats Typhon pour
-   Imperial summit et Worthy of song. Fabrique ou ameliore une relique avant
-   de passer a l'acte IV.
+1. Monte une compétence d'attaque fiable et une compétence défensive avant de
+   répartir les points dans toutes les branches. Un build moyen mais cohérent
+   finit mieux Legendary qu'un personnage qui possède vingt compétences à un
+   point.
+2. Cappe progressivement les résistances poison, feu, froid, foudre, vitalité,
+   saignement et étourdissement. Les actes IV à VI punissent davantage les
+   résistances négatives que les actes précédents.
+3. Garde toujours un anneau ou une amulette de rechange pour les résistances du
+   boss qui arrive. Les objets de vitesse et de récupération sont aussi plus
+   utiles qu'une arme légèrement plus forte.
+4. Utilise les Sanctuaires de maîtrise avant les essais Call of Nature, Daemon
+   ex machina et Morpheus : ils ajoutent temporairement des niveaux aux
+   compétences et rendent les seuils réalistes.
+5. Pour les personnages à zéro mort, quitte proprement après une mort ou une
+   erreur grave et recharge la dernière copie saine. Ne fais aucun test de
+   boss optionnel sans sauvegarde de retour.
 
-NORMAL - ACTE IV : HADES
+ORDRE CHRONOLOGIQUE GLOBAL
 
-1. Fais la route de Medea, puis les zones des Graeae et du Styx. Les succes
-   Can't always use more, I O U et Don't Pay the Ferryman se valident dans cet
-   ordre.
-2. Champs d'Elysion : ouvre les chemins optionnels et termine les quetes des
-   compagnons. Echoes in Eternity arrive en traversant la zone.
-3. Hades : vide le tresor, prends la route de la quete Odysseus' 11 et combats
-   les boss optionnels. Termine le scenario pour When Gods Fall et Delayed
-   until further notice.
-4. Fabrique un Greater Artefact et equipe cinq pieces d'un meme set. Garde
-   les fragments rares pour Master Artificer et The power of Set.
-5. Avant d'ouvrir Ragnarok, ramasse les objets de classes et fais les succes de
-   combat encore faciles : quatre ennemis avec une fleche, 14 ennemis sous
-   Plague, 2500 degats de mana et le premier niveau 80.
+NORMAL :
 
-RAGNAROK - ACTE V
+Acte I — Greece → Acte II — Egypt → Acte III — Orient → Acte IV — Hades.
 
-- Installe l'extension puis continue avec le meme personnage a partir de la
-  sauvegarde de fin d'acte IV.
-- Traverse les regions du Nord, les fjords, les ruines et les zones de glace.
-  Termine les quetes secondaires avant de franchir les portes de Valhalla.
-- Fais Rheingold en suivant la piste du tresor d'Andvari.
-- Termine les quetes de Mistletoe, les rencontres du Nord et la route de
-  Ragnarok. Les boss Qiong Qi, Sihai Longwang, Terracotta General, Ancient One,
-  Ladon et les Suns sont des controles separes : note leur nom avant de quitter
-  leur zone.
-- Les succes de maitrise Legendary de Warfare, Defense, Dream, Hunting,
-  Nature, Earth, Storm, Rogue et Spirit peuvent etre planifies dans des
-  personnages dedies. Rune et Neidan arrivent avec les contenus recents.
+Après Hades, la route conseillée est :
 
-ATLANTIS - ACTE VI OPTIONNEL
+1. Atlantis à partir de Gadir.
+2. Ragnarök depuis le port de Kenchreai.
 
-- Lance la quete depuis le contenu additionnel, puis visite le port et les
-  ruines dans l'ordre des marqueurs.
-- Termine le defi Tartarus sur Normal, Epic puis Legendary ; ces trois
-  victoires donnent Beginner's Luck, Double or Nothing et High Roller.
-- Nettoie le contenu optionnel de l'Atlantis avant de changer de difficulte.
-- Utilise les zones denses pour Epidemic, Circe, Delirium, Bloody Roots,
-  Morpheus, Target immobilized, Rock beats scissors et Surprise!.
+EPIC : même ordre. LEGENDARY : même ordre, puis Eternal Embers après Surtr.
+Eternal Embers est une extension Legendary : elle ne doit pas être cherchée
+sur Normal ou Epic.
 
-ETERNAL EMBERS - ACTE VII DLC
+PARTIE 1 — HELos, LACONIA ET SPARTA
 
-- Cree S3 avant l'entree du DLC. Le contenu comprend des quetes secondaires,
-  des boss, des potions et un set complet.
-- Termine toutes les quetes, tous les developpeurs, les boss Prosoro,
-  Dimonoider, Exhumed Medjai, Mr. Fae et les defis de la zone.
-- Equipe un set complet Eternal Embers pour Emperor's New Clothes.
-- Bois chaque nouvelle potion une fois pour Connoisseur.
-- Achete les objets de monstre de Bao : un objet peu frequent pour BAO et un
-  objet normal pour Bao.
-- Termine Eternal Embers sans mort avec un personnage dedie pour Peach of
-  Immortality.
+OBJECTIF : démarrer la campagne, gagner les premières récompenses et préparer
+la route Shadowmaw sans verrouiller les objectifs de départ.
 
-EPIC ET LEGENDARY
+1. À Helos, parle au chef du village et accepte A Troubled Village. Sauve Helos
+   et vérifie No burned village? dès la fin de la quête.
+2. Ouvre les maisons, la boutique et les coffres latéraux avant de sortir. Les
+   premières pièces de reliques et de charmes sont plus utiles conservées que
+   vendues.
+3. Sur la route de Laconia, prends les quêtes secondaires proposées par les
+   habitants et termine la grotte des satyres avant de rejoindre Sparta. Les
+   récompenses de début alimentent le premier enchantement.
+4. Dans Laconia Woods et Laconia Hills, suis les torches de la route principale
+   mais fais les embranchements en cul-de-sac : ruines, petites grottes et
+   camps de satyres. Active chaque fontaine de renaissance.
+5. Arrivé au Spartan War Camp, parle au général et prépare la mission vers
+   Pellana Valley. Passe l'épreuve des Spartiates : The first threshold.
+6. Achète une arme à distance pour Masterful start si tu fais l'essai sur un
+   personnage neuf. Pour l'instant, MAIN-100 peut jouer normalement.
+7. Dans le camp, équipe une résistance physique et garde une potion de soin sur
+   la barre. Ne choisis pas la deuxième maîtrise avant le chapitre Specialist
+   si le personnage SPECIALIST est en cours.
 
-1. Rejoue les actes I a IV, puis Ragnarok, Atlantis et Eternal Embers avec le
-   meme personnage ou un equipement transfere legitimement.
-2. Valide Double or Nothing a la difficulte Epic et High Roller a Legendary
-   contre Tartarus.
-3. Zero mort : Hardcore Player en Normal, Hardcore Master en Epic et Hardcore
-   Legend en Legendary. Utilise S1/S2 et evite les boss optionnels jusqu'a ce
-   que la resistance soit suffisante.
-4. Classes Legendary : cree un personnage, choisis la maitrise correspondante,
-   avance jusqu'a Legendary puis termine la difficulte. Les classes demandees
-   sont Warfare, Defense, Dream, Hunting, Nature, Earth, Storm, Rogue, Spirit,
-   Rune et Neidan.
-5. Specialist : partie Normal sans selectionner de seconde maitrise.
-6. Altoholic : dix personnages de classes differentes au niveau 10 minimum.
-7. I have minions for that : termine Normal avec moins de 100 victimes
-   personnelles ; laisse les familiers, pets et alliés faire le travail.
-8. Greece Lightning : finis les trois difficultes en moins de 20 heures de
-   temps de jeu. Fais une route rapide dediee, ne la melange pas avec le
-   nettoyage des reliques et les zero morts.
+AVANT DE QUITTER SPARTA
 
-FARM ET TECHNIQUES DE COMBAT
+- [ ] No burned village? reçu.
+- [ ] The first threshold reçu.
+- [ ] Quêtes des villages de Helos et Laconia rendues.
+- [ ] Premières reliques et premiers charmes gardés.
+- [ ] S0/S1 créée sur les personnages sans mort.
+- [ ] Aucun personnage SPECIALIST n'a choisi de deuxième maîtrise.
 
-- Masterful start : personnage neuf, aucun contact avant le niveau 2.
-- Strength of Atlas : utilise une competence a gros multiplicateur et un
-  ennemi robuste pour atteindre 100000 degats en un coup.
-- Good point : aligne quatre ennemis et utilise une fleche perforante.
-- Epidemic : regroupe 14 cibles et applique Plague avant la dispersion.
-- K.O. : empile les bonus d'etourdissement jusqu'a dix secondes.
-- Surprise! : Phantom Strike doit toucher six ennemis.
-- Double Standard : deux personnages doivent poser Battle Standard en meme
-  temps en cooperatif ou avec les conditions permettant deux zones actives.
-- Rock beats scissors : tue dix ennemis pendant une seule Stoneform.
-- Someone your size : bats Polyphemus sous Colossus Form.
-- Magebreaker : brule 2500 points de mana sur une cible disposant d'une grosse
-  reserve.
-- Daemon ex machina : invoque un Outsider niveau 20.
-- Circe : controle six ennemis simultanement.
-- Target immobilized : maintiens un ennemi ensnared 30 secondes.
-- Morpheus : endormis 12 ennemis en meme temps.
-- Bloody Roots : immobilise 10 ennemis simultanement.
-- Sick lewt : utilise la table de butin rare ou le contenu de farm jusqu'a la
-  validation du succes ; garde une sauvegarde avant la tentative.
-- Hercules : 100000 victimes sur un seul personnage ; conserve le personnage
-  principal pour le farm de Legendary.
-- Avatar of Thanatos : 500000 victimes cumulatives, objectif de tres longue
-  duree qui tombe apres les replays et le DLC.
+PARTIE 2 — PELLANA, MEGARA ET POLYPHEMUS
 
-COOPERATIF
+1. Traverse Pellana Valley, Spartan Highlands et les camps jusqu'à Megara.
+   Ouvre les grottes et les autels sur les branches, puis active le portail de
+   Megara.
+2. À Megara, prends les quêtes des soldats et des habitants avant d'aller dans
+   les bois. La route rouge vers le camp assiégé mène à Polyphemus.
+3. Dans la grotte de Polyphemus, élimine d'abord les petits ennemis et garde une
+   potion d'énergie pour la phase de cri. Nobody did this tombe en le battant.
+4. Pour Someone your size, utilise Defense et Colossus Form. Amène Polyphemus
+   très bas en vie, active Colossus Form, puis donne le dernier coup pendant la
+   transformation. Fais une sauvegarde avant l'arène : un coup accidentel peut
+   tuer le boss trop tôt.
+5. Sur les personnages HC, la priorité est de rester derrière le boss, de
+   sortir de la zone de cri et de ne pas forcer l'objectif Colossus.
+6. Continue vers les bois et les grottes de Tegea. Sur Epic ou Legendary,
+   reviens à la grotte à l'ouest de Tegea pour le Boar Snatcher : Agreeable
+   pursuit. Il n'apparaît pas sur Normal.
 
-- Medic! : soigne d'autres joueurs pour un total de 200000 PV.
-- Together we stand : lance Rally sur toi-meme et trois autres joueurs.
-- Fais ces deux objectifs dans une partie privee avec quatre personnes,
-  sauvegarde les personnages et verifie le compteur Steam a la sortie.
+AVANT DE QUITTER MEGARA
 
-LISTE COMPLETE DES 115 SUCCES STEAM
+- [ ] Nobody did this.
+- [ ] Someone your size sur le personnage Defense dédié ou validé plus tard.
+- [ ] Boar Snatcher prévu en Epic/Legendary.
+- [ ] Quêtes de Megara, Tegea et des camps rendues.
+- [ ] Reliques/charmes déposés dans le coffre avant le premier Telkine.
 
-ACTES I A IV - PROGRESSION ET EXPLORATION (1-36)
+PARTIE 3 — DELPHI, PYTHIAN CAVES ET ATHENS
 
-[ ] No burned village? [ ] It's dangerous to go alone. [ ] The first threshold.
-[ ] Nobody did this. [ ] Hearts of Stone. [ ] Taste the beast!
-[ ] Found a bug. [ ] Tough crowd. [ ] No more sequels. [ ] Fight in the shade.
-[ ] Artisan. [ ] Discount mercenary. [ ] Out there on the dunes.
-[ ] Be a man! [ ] Best served cold. [ ] Imperial summit. [ ] Worthy of song.
-[ ] Recycling. [ ] Can't always use more. [ ] I O U. [ ] Don't Pay the Ferryman.
-[ ] Echoes in Eternity. [ ] Dark corners of the map. [ ] When Gods Fall.
-[ ] Good point. [ ] Archeologist. [ ] Odysseus' 11. [ ] Fifty Shades.
-[ ] New lands. [ ] Survivalist. [ ] The one she forgot. [ ] Call of Nature.
-[ ] A matter of principle. [ ] What lies below. [ ] Mission Accomplished.
-[ ] Delayed until further notice.
+1. Suis la route vers Delphi, en activant les fontaines et en visitant les
+   ruines latérales. Assemble les fragments dès qu'un ensemble est complet,
+   mais garde un exemplaire de chaque relique utile.
+2. Entre dans les Pythian Caves avec une résistance poison correcte. La salle
+   des Gorgones est obligatoire : Hearts of Stone tombe après la victoire.
+3. Dans les temples de Delphi et d'Athens, parle à chaque PNJ de quête avant
+   d'ouvrir le passage suivant. Les récompenses de compétences ou d'attributs
+   sont plus importantes sur les personnages HC.
+4. Dans Athens Marsh, note la sortie sud-ouest. La Hydra y apparaît uniquement
+   sur Legendary : What it says on the tin. Ne la tente pas avant d'avoir une
+   résistance poison et un moyen de supprimer les invocations.
+5. Prends la direction de Minoan Labyrinth. Sur Epic et Legendary, Talos garde
+   l'entrée du labyrinthe : A matter of principle.
 
-CRAFTING, BOSS ET COMBAT (37-67)
+PARTIE 4 — KNOSSOS, MINOAN LABYRINTH ET PREMIER TELKINE
 
-[ ] Master Artificer. [ ] The power of Set. [ ] Agreeable pursuit.
-[ ] Detective. [ ] Dear diary... [ ] Down to the 'core. [ ] Clawsome!
-[ ] Beast of Beliar. [ ] Weedkiller. [ ] Turtle Power. [ ] Marduked.
-[ ] I AM TITAN SLAYER. [ ] Masterful start. [ ] Strength of Atlas.
-[ ] Precision Dvergan Engineering. [ ] Beginner's Luck. [ ] Epidemic. [ ] K.O.
-[ ] What it says on the tin. [ ] Sisyphus go home! [ ] Surprise! [ ] Pharaoh's
-    curse. [ ] Double Standard. [ ] Hardcore Player. [ ] Son of Hephaestus.
-[ ] Rock beats scissors. [ ] Someone your size. [ ] Magebreaker. [ ] Specialist.
-[ ] Altoholic. [ ] Medic!
+1. Active le portail de Knossos. Explore d'abord les côtés du labyrinthe, puis
+   descends vers le palais. Les pièges et automatoi doivent être traités avec
+   une résistance étourdissement et une distance de sécurité.
+2. Sur Epic/Legendary, bats Talos à l'entrée du Minoan Labyrinth avant d'aller
+   au Minotaur Lord. Sur Normal, Talos n'est pas disponible.
+3. Dans le palais, bats le Minotaur Lord : Taste the beast! Vérifie que la
+   quête principale et le succès sont tous les deux fermés.
+4. Termine le premier Telkine et la route vers Rhodes. Sur MAIN-100, fais
+   Recycling dès que tu possèdes une relique complète : applique-la à un objet,
+   parle à un enchanteur puis récupère la relique. L'objet enchanté est détruit.
+5. Sur les personnages HC, sauvegarde avant le Telkine et ne ramasse pas un
+   coffre dans une zone dangereuse si les résistances ne sont pas prêtes.
 
-LEGENDARY, MAITRISES ET LONGUE DUREE (68-96)
+AVANT DE QUITTER LA GRÈCE CENTRALE
 
-[ ] Achilles' Equal. [ ] Rheingold. [ ] Double or Nothing. [ ] Daemon ex machina.
-[ ] Circe. [ ] One Man Phalanx. [ ] Living the Dream.
-[ ] I have minions for that. [ ] Hercules. [ ] High Roller.
-[ ] Titanic Game Hunter. [ ] Hardcore Master. [ ] Delirium. [ ] Bloody Roots.
-[ ] Force of Nature. [ ] Breaker of Chains. [ ] Target immobilized. [ ] Morpheus.
-[ ] The Fourth Peril. [ ] The Dragon King. [ ] Nesting Doll. [ ] Trail of Ashes.
-[ ] I am the Storm. [ ] Master of Shadows. [ ] The power of Osiris.
-[ ] Hardcore Legend. [ ] Greece Lightning. [ ] Sick lewt. [ ] Together we stand.
+- [ ] Hearts of Stone.
+- [ ] Taste the beast!.
+- [ ] A matter of principle en Epic/Legendary.
+- [ ] What it says on the tin réservé au personnage Legendary.
+- [ ] Recycling.
+- [ ] Première relique complète et premier charme complet conservés.
+- [ ] Quêtes de Delphi, Athens, Knossos et Minoan rendues.
 
-ETERNAL EMBERS ET CONTENU TARDIF (97-115)
+PARTIE 5 — SHADOWMAW : LE SEUL VRAI OBJECTIF RATABLE DE L'ACTE I
 
-[ ] The Forgotten King. [ ] Danger Noodle. [ ] Avatar of Thanatos.
-[ ] The Setting Sun. [ ] Old Friend. [ ] Wodan's Knowledge.
-[ ] Give me your Lupines. [ ] I don't like sand. [ ] Emperor's New Clothes.
-[ ] No Stone Unturned. [ ] The Line of Epic Heroes. [ ] BAO. [ ] Revenge.
-[ ] Connoisseur. [ ] You must not read from the book! [ ] Amusing Mudcrab.
-[ ] Brewmaster. [ ] Bao. [ ] Peach of Immortality.
+1. Après le portail de Phocian Swamps, reste sur le côté gauche de la zone.
+   Cherche le chemin qui monte vers Natural Cave.
+2. Entre dans Natural Cave et va jusqu'à la dernière salle. Shadowmaw a un taux
+   d'apparition non garanti : si la salle est vide, recharge ou revisite la zone
+   lors d'une nouvelle génération.
+3. Shadowmaw doit être vaincu en Normal avant de quitter la Grèce. Fais S1
+   juste avant l'entrée, vérifie les résistances et prends une compétence de
+   contrôle des adds.
+4. Dark corners of the map se valide à sa mort. Si tu passes le portail vers
+   Egypt sans le succès, la partie est ratée pour cette sauvegarde : utilise une
+   copie antérieure ou un autre personnage Normal.
 
-CONTROLE DES 115 CONDITIONS
+PARTIE 6 — RHODES, FAYUM ET MEMPHIS
 
-[ ] 24 succes de progression des actes I a IV.
-[ ] Boss optionnels : Sandwing queen, Talos, Boar Snatcher, Manticore,
-    Dragon Lich, Ladon, Turtle Power, Tiamat, Lyktos, Hydra, Akhenaten,
-    Feiyi, Suns, Qiong Qi, Sihai Longwang, Terracotta General, Exhumed Medjai,
-    Prosoro, Dimonoider et Mr. Fae.
-[ ] Fabrication : Lesser, Greater et Divine Artefacts, 50 reliques, cinq pieces
-    d'un set, amelioration legendaire et potions Eternal Embers.
-[ ] Classes Legendary : Warfare, Defense, Dream, Hunting, Nature, Earth,
-    Storm, Rogue, Spirit, Rune et Neidan.
-[ ] Difficultes : Normal, Epic, Legendary, zero mort sur les trois et Tartarus
-    sur les trois niveaux.
-[ ] Personnages : dix classes niveau 10, un personnage niveau 80, 100000 puis
-    500000 victimes.
-[ ] Farm de combat : Plague, stun, Confusion, immobilisation, sommeil, pets,
-    Stoneform, Colossus, Phantom Strike, mana et fleche perforante.
-[ ] Online : Medic! et Together we stand.
-[ ] DLC : Ragnarok, Atlantis et Eternal Embers valides.
+1. À Rhodes, active le portail et parle aux marchands. Fais les quêtes de la
+   ville avant de traverser les oasis ; les récompenses de résistances sont
+   utiles pour les tombes.
+2. Dans Fayum, prends la route vers Sobek Plateau. Sandwing queen apparaît sur
+   les trois difficultés. Out there on the dunes tombe lorsque Sandwing queen
+   est vaincue.
+3. Dans Sandswept Cave, à l'est du Fayum Desert, Manticore apparaît sur Epic et
+   Legendary : Down to the 'core. Fais S1 avant de descendre, car les couloirs
+   étroits amplifient les dégâts de poison.
+4. À Memphis, ouvre le portail puis rejoins Rhakotis Library. Nettoie la
+   bibliothèque et bats Scarabeus the Desert King : Found a bug.
+5. Entre dans le Great Sphinx. Les Honor Guard sont dans la pyramide et donnent
+   Tough crowd. Ensuite, le chemin vers Temple of Atum mène à Nehebkau : No more
+   sequels.
 
-VALIDATION FINALE
+AVANT DE QUITTER MEMPHIS
 
-[ ] Steam : 115/115.
-[ ] Tous les DLC installes et leurs quetes terminees.
-[ ] Trois difficultes terminees sans confondre les personnages zero mort.
-[ ] Onze succes de maitrise Legendary.
-[ ] 10 personnages de classes differentes niveau 10.
-[ ] Greece Lightning obtenu sur une route rapide dediee.
-[ ] Les deux succes cooperatifs valides avec d'autres joueurs.
-[ ] Eternal Embers sans mort pour Peach of Immortality.
-[ ] Les compteurs 100000 et 500000 victimes controles.
+- [ ] Out there on the dunes.
+- [ ] Found a bug.
+- [ ] Tough crowd.
+- [ ] No more sequels.
+- [ ] Manticore réservé à Epic/Legendary.
+- [ ] Toutes les quêtes de Rhodes, Fayum et Memphis rendues.
+- [ ] S1 créée avant chaque boss encore non validé.
 
-Sources de verification :
-- Steam, page officielle des 115 succes :
+PARTIE 7 — DÉSERT, GIZEH ET PYRAMIDES
+
+1. Depuis Fayum, traverse les oasis et les tombeaux dans l'ordre des marqueurs.
+   Les chemins secondaires à droite et à gauche contiennent des coffres, des
+   autels et les fragments nécessaires aux 50 reliques et 50 charmes.
+2. Dans le désert, fais Sandwing queen si ce n'est pas déjà fait. Vise les
+   groupes de scarabées pour les premiers essais de Plague et de tir perforant.
+3. À Gizeh, accepte les quêtes avant d'entrer dans les pyramides. Les portes
+   anciennes ne s'ouvrent pas toujours au premier passage : suis le marqueur
+   d'objet, puis reviens au donneur.
+4. Dans les tombes de Ramses, Aktaios donne Fight in the shade. Sur MAIN-100,
+   conserve les pierres de quête d'Acte IV qui seront nécessaires pour
+   Odysseus' 11.
+5. Termine la route jusqu'à la seconde rencontre avec le Telkine. Ne vends pas
+   les formules d'artefact ni les sets bleus/verts : les trois grades d'artefact
+   et The power of Set demandent des réserves.
+
+PARTIE 8 — ACTE III : BABYLON, ROUTE DE LA SOIE ET GRANDE MURAILLE
+
+1. À Babylon, active le portail, parle aux habitants et prends la route de la
+   Sickle. Ouvre les camps latéraux avant de sortir vers la Silk Road.
+2. Dans Western Silk Road, une grotte située après le portail mène à Barmanu.
+   Bats-le pour Best served cold.
+3. Dans le Temple of Marduk, progresse jusqu'au quatrième niveau et bats la
+   Chimera : Discount mercenary. Sauvegarde avant sa salle, les dégâts de zone
+   peuvent tuer un personnage qui reste au contact.
+4. Dans la région de la Grande Muraille, accepte Peng problems. Défends les
+   soldats et termine la quête pour Be a man!. Ne traverse pas la muraille sans
+   parler au donneur de quête.
+5. À Chang'an et au Jade Palace, parle au Yellow Emperor dès que le jeu le
+   permet. Imperial summit est lié à la rencontre de la campagne ; Old Friend
+   sera validé plus tard dans Eternal Embers auprès d'une autre apparition.
+6. Dans Shrine of Zhong Kui, après Chang'an, le Dragon Lich apparaît dans sa
+   salle. Beast of Beliar tombe à sa mort.
+
+PARTIE 9 — MONT WUSAO, OLYMPUS ET SICK LEWT
+
+1. Traverse Mount Wusao et les zones de la route de l'Olympe. Termine les
+   quêtes des villages avant l'ascension finale.
+2. Au sommet de Mount Olympus, bats Typhon : Worthy of song. Une sauvegarde
+   S2 est obligatoire pour HC.
+3. Dans Acte III, le troisième Telkine peut laisser tomber l'Adamantine Sickle
+   of Kronos, surtout sur Epic/Legendary. Pour Sick lewt, il faut la manier,
+   pas seulement la ramasser. Garde-la dans la main du personnage et remplis
+   les prérequis d'équipement.
+4. Le drop est rare. Si la Sickle disparaît pendant la transformation ou ne
+   tombe pas, ne vends rien et recommence le boss. Vérifie la notification après
+   l'équipement.
+
+AVANT DE QUITTER L'ORIENT NORMAL
+
+- [ ] Best served cold.
+- [ ] Discount mercenary.
+- [ ] Be a man!.
+- [ ] Imperial summit.
+- [ ] Worthy of song.
+- [ ] Beast of Beliar.
+- [ ] Sickle of Kronos obtenue et équipée pour Sick lewt.
+- [ ] Toutes les quêtes des villages, de la muraille et de Chang'an rendues.
+
+PARTIE 10 — ACTE IV : MEDEA, GRAEAE ET STYX
+
+1. Depuis Rhodes, prends la route vers Epirus et les zones de l'Underworld.
+   Fais les petits tombeaux et les camps avant le marqueur principal.
+2. Trouve Medea : Can't always use more. Parle-lui puis suis sa demande sans
+   quitter la zone avant d'avoir fermé le dialogue.
+3. Dans les ruines après Medea, bats les Graeae : I O U. Elles changent de
+   position et punissent les builds sans résistance ; garde une potion de
+   purge.
+4. Traverse le Styx : Don't Pay the Ferryman. Active les fontaines et ouvre les
+   cages d'âmes de Stygian Marsh dès leur apparition.
+5. Libère 50 Shades pour Fifty Shades, puis continue à 500 pour Breaker of
+   Chains. Ouvre toutes les soul cages rencontrées sur MAIN-100 : ce compteur
+   est cumulatif mais l'acte IV offre le meilleur départ.
+6. Traverse les Fields of Elysion : Echoes in Eternity. Parle aux compagnons
+   et prends les quêtes avant de passer le portail suivant.
+
+PARTIE 11 — ODYSSEUS' 11, HADES ET TURTLE POWER
+
+1. Pour Odysseus' 11, récupère les quatre pierres de boss dans Acte IV :
+   Frost Stone sur Thyia of the Stygian Frosts dans Daemon Camp ; Venom Stone
+   sur Canace the Serpent Queen dans le quatrième domaine de Tower of Judgment ;
+   Flame Stone sur Metriche dans Fields of the Diadochi/Philos Plateau ; Soul
+   Stone sur The Night's Mistress à Polis Daemonai, devant les Royal Chambers.
+2. Place les quatre pierres sur les autels de Hades' Treasury. Entre dans le
+   coffre et ramasse le butin pour Odysseus' 11.
+3. À Coastal Asomata, après Rhodes, cherche le passage secret. L'objet The
+   Overlord tombe parfois de Hades ; il faut le farmer. Ouvre ensuite Secret
+   Passage pour Turtle Power.
+4. Dans Hades' Underworld, ouvre le portail de la salle finale et prépare S2.
+   Bats Hades : When Gods Fall. Avec les DLC installés, le succès peut demander
+   que la branche de campagne soit entièrement validée : laisse les crédits se
+   terminer puis recharge avant de conclure à un bug.
+5. À la sortie, ne change pas de personnage pour Atlantis tant que les succès
+   d'Acte IV n'ont pas été vérifiés.
+
+PARTIE 12 — CRAFT, SETS ET COMPTEURS À FAIRE SUR MAIN-100
+
+RECYCLING
+
+1. Assemble une relique complète.
+2. Pose-la sur un objet équipé ou dans l'inventaire.
+3. Va voir un Enchanter, reconnaissable à l'icône jaune, et choisis Retrieve.
+4. Récupère la relique : l'objet support est détruit. Recycling se débloque.
+
+ARCHEOLOGIST ET SURVIVALIST
+
+- Assemble 50 reliques complètes : trois fragments correspondants par relique.
+- Assemble 50 charmes complets : cinq fragments correspondants par charme.
+- Les compteurs sont globaux à la sauvegarde Steam. Assemble les fragments
+  ordinaires au fil des actes, ne compte pas seulement les reliques équipées.
+- Un joueur qui assemble dans une partie coopérative peut faire progresser le
+  compteur du serveur ; le contrôle le plus sûr reste une partie personnelle.
+
+ARTISAN, MASTER ARTIFICER ET SON OF HEPHAESTUS
+
+- Artisan : craft un Lesser Artefact auprès d'un Enchanter avec une Arcane
+  Formula et les composants.
+- Master Artificer : craft un Greater Artefact. Les formules tombent surtout
+  sur Epic/Legendary.
+- Son of Hephaestus : craft un Divine Artefact. Les formules Divine ne tombent
+  que sur Epic ou Legendary.
+- Conserve les formules et les composants dans le coffre. Le craft peut être
+  fait sur MAIN-100 dès que le grade est disponible.
+
+THE POWER OF SET
+
+1. Récupère cinq pièces correspondant au même set.
+2. Équipe simultanément les cinq pièces sur le même personnage.
+3. Les bonus de set ne demandent pas de terminer la campagne ; une réserve de
+   pièces dans le coffre partagé permet de déclencher ce succès rapidement.
+
+PARTIE 13 — ATLANTIS
+
+Fais Atlantis après Hades et avant Ragnarök sur Normal, puis reproduis la
+branche sur Epic/Legendary si tu veux y faire Tartarus à la même difficulté.
+
+1. Depuis Gadir, parle à Marinos, Intrepid Explorer, près du bateau. Suis la
+   route vers Gadir Outskirts et le portail d'Atlantis.
+2. Dans Gadir Necropolis, ouvre le tombeau au bout de la zone. Active le
+   sarcophage de King Arganthonios et bats-le pour Dear diary....
+3. Depuis Gaulos Portal, suis les Coral Temples jusqu'aux Catacombs. Le boss
+   The Ancient One est au fond : Clawsome!.
+4. Depuis Atlas Mountains Portal, prends la grotte au nord et le Mysterious
+   Portal. Dans Garden of Hesperides, Ladon est au nord-est : Weedkiller.
+5. Depuis Inner Atlantis Portal, traverse Temple of Poseidon et bats Tiamat :
+   Marduked. Après le temple, Lyktos se trouve dans Atlantis Ascent : I AM
+   TITAN SLAYER.
+6. À Gadir, ouvre Tartarus. Le mode enchaîne les vagues et un boss :
+   Beginner's Luck sur Normal, Double or Nothing sur Epic, High Roller sur
+   Legendary. Termine le run complet à chaque difficulté ; une sortie avant
+   le boss final ne compte pas.
+
+AVANT DE QUITTER ATLANTIS
+
+- [ ] Dear diary....
+- [ ] Clawsome!.
+- [ ] Weedkiller.
+- [ ] Marduked.
+- [ ] I AM TITAN SLAYER.
+- [ ] Tartarus Normal — Beginner's Luck.
+- [ ] Tartarus Epic — Double or Nothing.
+- [ ] Tartarus Legendary — High Roller.
+- [ ] Portails Gadir, Gaulos, Atlas Mountains et Inner Atlantis activés.
+
+PARTIE 14 — RAGNARÖK, KENCHREAI ET LE NORD
+
+1. Au Port of Kenchreai, parle à Dorieus et choisis de voyager vers le Nord.
+   New lands tombe dès l'arrivée.
+2. Traverse les premiers villages, Scandia et les zones de forêt. Parle à
+   Laidulf près de Scandia pour la quête Giesel. Ne suis pas immédiatement la
+   route la plus évidente : la méthode alternative de Give me your Lupines
+   demande de ne pas retrouver le mouton.
+3. À Kaupangr, accepte The Craftsman's Passion auprès de Bjarni. Termine la
+   quête pour recevoir Lupine Necklace Design, fabrique Lupine Necklace, puis
+   retourne à Laidulf à Scandia. Give me your Lupines se débloque.
+4. À Kaupangr, avance vers Ancestral Lands jusqu'à Southern Gate. Active
+   Ancient Mechanism, bats le groupe qui apparaît et ouvre l'ancienne porte :
+   What lies below.
+5. Dans Suebi Lakelands et Nerthus Sanctuary, bats successivement Ancient of
+   the Sky, Ancient of the Lake, Ancient of the Wild et Ancient of the Soil.
+   Ramasse Mistletoe of Nerthus à l'Inner Sanctum : The one she forgot.
+6. Dans les zones du Nord, fais les quêtes des villages avant Valhöll. Les
+   boss de route, les salles de Jotun et les grottes doivent être activés avant
+   le dernier portail.
+
+PARTIE 15 — RAGNARÖK : VALHÖLL, HEUNEBURG ET SURTR
+
+1. Dans Valhöll, termine The Rescue. La série de combats contre Wodan, Freyja
+   et Baldr débloque Mission Accomplished.
+2. À Heuneburg, prends le portail et avance dans Swabian Jura. Entre dans Salt
+   Mines. Au fond, Vengeful Ghost laisse Ornate Seal Ring.
+3. Rapporte Ornate Seal Ring à Elise, Wealthy Citizen, à Heuneburg : Detective.
+4. Dans Halls of the Dvergr, parle à Durin pour Legendary Craftsmanship.
+   Apporte Mead of Valhöll obtenu de Heidrun à Valhöll, Mead of Poetry au
+   fountain de Hnitbjorg et Blacksteel Ingot dans un coffre de Land's End
+   Second Floor.
+5. Après les trois objets, Durin améliore un objet Epic ou Legendary. Une seule
+   amélioration est possible par partie : choisis l'arme ou l'objet qui restera
+   équipé. Precision Dvergan Engineering se débloque.
+6. À Eldr Fields, suis la quête vers Fire Shrine, Land's End et Muspelheim.
+   Termine la séquence de Surtr pour Delayed until further notice.
+7. Sur Legendary, laisse le portail ouvert après la fin : il donne accès à
+   Eternal Embers. Sur Normal/Epic, la campagne du Nord se termine ici.
+
+AVANT DE QUITTER RAGNARÖK
+
+- [ ] New lands.
+- [ ] The one she forgot.
+- [ ] What lies below.
+- [ ] Mission Accomplished.
+- [ ] Detective.
+- [ ] Precision Dvergan Engineering.
+- [ ] Give me your Lupines.
+- [ ] Delayed until further notice.
+- [ ] Mead of Valhöll, Mead of Poetry et Blacksteel Ingot contrôlés.
+- [ ] S1/S2 créées avant la fin de Surtr sur les parties sans mort.
+
+PARTIE 16 — ETERNAL EMBERS : RÈGLES D'ACCÈS
+
+Eternal Embers est l'Acte VI, accessible uniquement en Legendary. Une partie
+MAIN-100 qui termine Ragnarök en Legendary peut continuer au Summer Palace. Il
+est également possible de créer un Accomplished Hero Legendary, mais la route
+la plus lisible pour Peach of Immortality reste un personnage neuf avec une
+copie de sauvegarde à chaque portail.
+
+- La zone ajoute 15 quêtes secondaires.
+- La zone ajoute sept types de potions spéciales, qui partagent un cooldown.
+- Les potions spéciales ne se vendent pas comme les potions de vie/énergie :
+  garde chaque nouveau type dans le coffre.
+- No Stone Unturned tombe après les quêtes principales et les 15 quêtes
+  secondaires, souvent après la fin et le rechargement de la campagne.
+- Le contenu est long et comporte plusieurs passages où un coffre ou une
+  grotte ressemble à une impasse. Active tous les portails et parle à chaque
+  PNJ dans les villes.
+
+PARTIE 17 — ETERNAL EMBERS : SUMMER PALACE, HINTERLAND ET LAI
+
+1. Au Summer Palace, ouvre le portail et parle aux PNJ avant de partir vers
+   Hinterland Marshes. Le premier marin blessé lance The Root of the Problem.
+2. Pour The Root of the Problem, visite Haunted Grove, puis Riverside et Upper
+   Wilds. Entre dans Flooded Caves, rejoins Haunted Shipwreck et bats Pirate
+   Captain. Reviens valider la quête.
+3. À Lai, accepte Monkey Business auprès d'Oldwife Shan. Quitte Lai vers Xiao,
+   trouve la fontaine dans Silk Road Approach, règle le problème des singes,
+   puis retourne à Shan.
+4. Dans Valley of the Failed près de Xiao, Bai Su Zhen lance A Book and its
+   Cover. Descends vers Kunlun Approach, récupère le bon objet dans la zone de
+   glace et parle aux moines de Kunlun Monastery pour l'antidote. Retourne à
+   Bai Su Zhen.
+5. À Xiao, accepte The Council of Three auprès du PNJ de la ville. Dans la
+   forêt au nord de Hou Yi, entre dans la grotte de bandits, libère les
+   prisonniers et pose la bougie sur l'autel.
+6. Sur Silk Road Approach, Roadside Tomb contient Feiyi. Bats-le pour Danger
+   Noodle. Si l'entrée de la tombe n'est pas visible, suis la bordure droite de
+   la route et ouvre le détour avant le portail de Lai.
+
+PARTIE 18 — ETERNAL EMBERS : PINGYANG ET THE HEAVENS
+
+1. À Pingyang, parle à Kwan-Yu, Master of Bells, pour Emperor Yao's Bell.
+   Trouve Bell Scheme sur le bandit marqué, rapporte-le à Kwan-Yu puis frappe la
+   cloche près de lui.
+2. Wang Wei lance Love and Loss. Descends dans les tunnels souterrains de
+   Pingyang, bats le bandit ciblé et retourne à Wang Wei.
+3. Depuis The Ascent, parle à Mingyu, Miner, pour Lust for Jade. Entre dans la
+   Yushi Jade Mine et bats le chef Mogwai, puis rends la quête.
+4. À The Ascent, Jinshen lance Fire and Gold. Va au nord vers le dieu du feu,
+   nettoie la grotte et retourne à Jinshen. Ne quitte pas la zone sans valider.
+5. Dans The Heavens, Zhinu lance Heavenly Lovers. Suis le pont vers les
+   démons, bats le boss et reviens à Zhinu.
+6. Dans The Heavens, parle au Yellow Emperor dès que tu le vois : Old Friend.
+   Cette conversation est indépendante de Imperial summit de l'acte III.
+7. Dans Crystalline Corridors, cherche la grotte accessible depuis le second
+   fountain et bats la source des illusions : Maze of Mirages. La quête peut
+   être terminée même si aucun donneur n'est visible.
+
+PARTIE 19 — ETERNAL EMBERS : LOWER EGYPT
+
+1. À Asyut Encampment, Khemu lance Shadowstone of Anubis. Entre dans Collapsed
+   Catacombs, cherche le passage secret en haut à droite de la carte, bats le
+   boss, prends Shadowstone et retourne à Khemu. I don't like sand est obtenu
+   en battant Exhumed Medjai dans cette zone.
+2. À Necropolis Outskirts, Re'yesh lance No Peace for the Fallen. Va vers la
+   grotte en haut à droite du portail, nettoie les pilleurs et reviens à Re'yesh.
+3. À Thebes, User, Physician, lance A Venom Most Foul. Descends vers Temple of
+   Serket, prends le passage secret intérieur, récupère les poisons des
+   scorpions et rapporte les ingrédients.
+4. Dans Abydos, Thebes Borderlands et les temples, inspecte les tombes non
+   marquées. Les quêtes d'Eternal Embers comptent même si elles ne portent pas
+   un symbole de quête rouge.
+5. À Temple of Aten, bats Akhenaten : The Forgotten King.
+
+PARTIE 20 — ETERNAL EMBERS : MARSHLAND, BAO ET SECRET DUNGEONS
+
+1. Dans Infested Bog, Jin Chan lance The Phoenix and the Frog. Remonte vers la
+   forêt, prends la cave par la sortie basse et sauve Phoenix Fenghuang. Retourne
+   à Jin Chan.
+2. Bao apparaît dans la forêt près du marais. Il lance Just Desserts. Depuis
+   Scorched Ridge, prends le chemin vers la cave indiquée, bats le démon qui
+   garde le repas et reviens à Bao.
+3. Après Just Desserts, change de zone par un portail et reviens. Bao devient
+   marchand. Achète-lui un monster item normal pour Bao et un infrequent monster
+   item pour BAO. Les deux achats sont nécessaires.
+4. Pour The Line of Epic Heroes, explore la route de Mr. Fae et bats-le. Pour
+   You must not read from the book!, trouve Prosoro et bats-le dans son chemin
+   optionnel.
+5. Pour Amusing Mudcrab, explore le passage secret du marais et bats Dimonoider.
+   Le nom du succès est un indice de la créature, pas le nom de la zone.
+6. Pour Revenge, nettoie les deux passages de développeurs connus de la route
+   (Turtle Pass et Primrose Pass), puis le passage secret d'Eternal Embers. Le
+   succès ne tombe qu'après tous les développeurs.
+
+PARTIE 21 — ETERNAL EMBERS : PINGYANG, ASCENT ET HEAVENLY PALACE
+
+1. À Pingyang Outskirts, ouvre les caves élémentaires et les mines secondaires.
+   Qiong Qi apparaît dans les variantes de la zone de Ruined Fort/Pingyang
+   Outskirts : bats le boss et contrôle The Fourth Peril.
+2. Dans The Ascent, traverse Subterranean Kilns et Golden Idol Cave. Les boss
+   Huoshen et les salles de feu sont des combats optionnels à conserver pour
+   MAIN-100, pas à improviser sur Peach of Immortality.
+3. Dans Heavenly Gardens et Jade Court, ouvre le portail avant de traverser
+   les corridors. Les boss de sanctuaire doivent être vaincus avant Sihai
+   Longwang.
+4. Dans Halls of Sihai Longwang, bats Sihai Longwang : The Dragon King.
+5. Dans Tiantan, à la fin de Scorched Ridge/Path of Fenghuang, bats The Suns :
+   The Setting Sun. Prépare une résistance feu et une compétence de purge.
+6. Conserve un exemplaire de chaque potion spéciale d'Eternal Embers. Il y a
+   sept types ; bois-les un par un sur le même personnage pour Connoisseur. Le
+   cooldown partagé est long : attends entre chaque potion et ne les vends pas.
+
+PARTIE 22 — ETERNAL EMBERS : NO STONE UNTURNED ET PEACH OF IMMORTALITY
+
+1. Le total attendu est 15 quêtes secondaires : The Root of the Problem,
+   Monkey Business, A Book and its Cover, The Council of Three, Emperor Yao's
+   Bell, Lust for Jade, Fire and Gold, Love and Loss, Heavenly Lovers, Maze of
+   Mirages, Shadowstone of Anubis, No Peace for the Fallen, A Venom Most Foul,
+   The Phoenix and the Frog et Just Desserts.
+2. Ajoute les quêtes principales de l'Acte VI et termine le dernier boss de la
+   campagne. Si No Stone Unturned ne tombe pas immédiatement, laisse la scène
+   finale se terminer, reviens au menu puis recharge : la validation a parfois
+   lieu après le recalcul du journal.
+3. Pour Emperor's New Clothes, complète un set Eternal Embers et équipe toutes
+   ses pièces sur le même personnage. Les pièces de set peuvent être farmées
+   dans les coffres de la zone et sur les boss ; ne mélange pas deux sets.
+4. Pour Peach of Immortality, utilise HC-L/EE. Aucun décès enregistré depuis
+   l'entrée d'Eternal Embers jusqu'à la fin du DLC. Sauvegarde avant chaque boss,
+   surtout Exhumed Medjai, Akhenaten, The Suns, Sihai Longwang et le boss final.
+
+OBJECTIFS DE COMBAT — MÉTHODES FIABLES
+
+GOOD POINT
+
+- Hunting : investis dans Marksmanship et Puncture Shot Arrows, regroupe au
+  moins quatre ennemis et tire à travers la ligne. La compétence peut valider
+  le succès avec une seule flèche.
+- Alternative Storm : Ice Shard et Velocity peuvent aussi traverser un groupe.
+
+TARGET IMMOBILIZED
+
+- Hunting et Ensnare. Mets assez de points pour que la durée dépasse le
+  cooldown, puis réapplique Ensnare sur la même cible pendant 30 secondes.
+- N'achève pas l'ennemi avant la notification.
+
+EPIDEMIC
+
+- Nature et Plague. Regroupe 14 ennemis dans un camp peu dangereux, lance Plague
+  sur le groupe et ne les tue pas pendant l'application. La difficulté basse
+  facilite l'essai.
+
+K.O.
+
+- Il faut étourdir une cible pendant 10 secondes en un seul hit. Utilise un
+  bonus de durée d'étourdissement, une arme lente ou un sanctuaire, puis teste
+  sur un ennemi robuste. Un ennemi déjà mort ne doit pas être la cible du test.
+
+DELIrium
+
+- Rogue et Flash Powder. Monte la compétence, attire un groupe de dix ennemis
+  de mêlée, lance la poudre au centre et recommence si tous ne sont pas
+  confus simultanément.
+
+BLOODY ROOTS
+
+- Il faut immobiliser 10 ennemis en même temps. La compétence Storm Freezing
+  Blast est la méthode la plus régulière depuis les correctifs récents. Utilise
+  un groupe dense, baisse les dégâts directs et vérifie les dix silhouettes
+  bloquées avant de tuer.
+
+CIRCE
+
+- Spirit et Enslave Spirit demandent un temps de recharge réduit. Les objets
+  Aphrodite's Favor/Orpheus' Garland aident, tout comme le Scroll of Persuasion
+  vendu dans Ragnarök. Utilise le parchemin au centre d'une grande foule et
+  vérifie que six ennemis passent sous ton contrôle.
+
+MORPHEUS
+
+- Dream et Sands of Sleep. Le niveau de base ne touche pas 12 cibles ; utilise
+  un sanctuaire de maîtrise, des objets +skills et un groupe de douze ennemis.
+  Lance l'effet quand ils sont réunis, puis réapplique au cooldown.
+
+CALL OF NATURE
+
+- Nature : Call of the Wild au niveau suffisant pour trois loups, puis Sylvan
+  Nymph. Un sanctuaire de maîtrise +4 permet d'atteindre le seuil. Invoque les
+  quatre familiers après activation du sanctuaire.
+
+DAEMON EX MACHINA
+
+- Spirit : Summon Outsider doit atteindre le niveau 20. Monte la maîtrise et la
+  compétence, puis active un sanctuaire ou équipe les bonus +skills avant
+  l'invocation. Le niveau visible de l'Outsider doit être 20.
+
+SURPRISE!
+
+- Dream : Phantom Strike doit toucher six ennemis. Monte Dream Stealer,
+  regroupe six cibles et lance Phantom Strike au centre, pas sur une cible
+  isolée.
+
+ROCK BEATS SCISSORS
+
+- Earth : Stone Form et Molten Rock. Baisse les PV de dix ennemis, attire-les
+  ensemble, puis lance Stone Form et laisse Molten Rock les finir pendant la
+  même transformation.
+
+SOMEONE YOUR SIZE
+
+- Voir le chapitre Polyphemus : dernier coup avec Colossus Form active. La
+  compétence doit être active avant le coup fatal.
+
+MAGEBREAKER
+
+- Brûle 2500 points de mana sur un ennemi qui possède une grosse réserve. Les
+  compétences de dégâts de mana et un boss d'acte sont plus fiables qu'un petit
+  monstre qui meurt trop vite.
+
+STRENGTH OF ATLAS
+
+- Vise un hit de 100000 dégâts sur un ennemi robuste. Utilise une compétence
+  mono-cible fortement amplifiée, les bonus physiques, un debuff de résistance
+  et le niveau Legendary. Le succès compte le coup, pas le total du combat.
+
+I HAVE MINIONS FOR THAT
+
+- Termine Normal avec moins de 100 victimes personnelles. Nature, Spirit ou
+  Earth sont les choix sûrs. Laisse loups, nymphe, Liche, Outsider, Core
+  Dweller, pets et pièges tuer ; n'utilise pas d'attaque directe pour achever.
+- Le compteur Steam regarde les kills personnels, pas les ennemis morts par les
+  familiers. Fais une sauvegarde dédiée et vérifie le compteur avant Hades.
+
+DOUBLE STANDARD
+
+- Deux Battle Standards doivent être actifs au même moment. Le succès demande
+  deux joueurs ou deux personnages capables de poser Battle Standard dans une
+  zone commune. Le moyen propre est une partie coop privée avec deux Warfare,
+  chacun lançant son étendard avant que le premier expire.
+
+COOPÉRATIF
+
+MEDIC!
+
+1. Nature : Regrowth, ou Defense : Rally.
+2. Rejoins une partie avec d'autres joueurs réels. Soigner tes propres pets ne
+   compte pas comme soin d'un joueur.
+3. Accumule 200000 PV soignés et laisse le compteur se mettre à jour. Utilise
+   des alliés qui acceptent de perdre des PV puis soigne-les régulièrement.
+
+TOGETHER WE STAND
+
+1. Organise une partie avec quatre joueurs.
+2. Le joueur Defense pose Rally sur lui-même au moment où les trois autres
+   joueurs sont dans la zone.
+3. Le succès doit valider les quatre participants ; vérifie Steam avant de
+   fermer la session.
+
+DIFFICULTÉS ET 11 MAÎTRISES LEGENDARY
+
+RÈGLES COMMUNES
+
+- Finir Hades/Surtr sur une difficulté débloque la suivante pour les parties
+  classiques.
+- Un personnage Legendary avec deux maîtrises peut valider les deux succès de
+  maîtrise à la fin. Cela réduit le nombre de campagnes à six personnages pour
+  couvrir les onze maîtrises.
+- Les succès de maîtrise n'exigent pas que la maîtrise soit principale : elle
+  peut être secondaire, mais elle doit être sélectionnée avant la fin.
+- Ne change pas la maîtrise sélectionnée. La respec de compétences ne remplace
+  pas la sélection de la maîtrise.
+
+Paires optimisées :
+
+1. Warfare + Defense → Achilles' Equal, One Man Phalanx.
+2. Dream + Hunting → Living the Dream, Titanic Game Hunter.
+3. Nature + Earth → Force of Nature, Trail of Ashes.
+4. Storm + Rogue → I am the Storm, Master of Shadows.
+5. Spirit + Rune → The power of Osiris, Wodan's Knowledge.
+6. Neidan + une maîtrise déjà validée → Brewmaster.
+
+HARDCORE PLAYER, MASTER ET LEGEND
+
+- HC-N : finir la difficulté Normal avec zéro mort.
+- HC-E : finir Epic avec zéro mort.
+- HC-L : finir Legendary avec zéro mort.
+- Le personnage doit être propre depuis le début de la difficulté. Une mort
+  comptabilisée dans le fichier ne doit pas être corrigée en continuant la
+  même copie.
+- Pour Eternal Embers, Peach of Immortality est séparé : il faut zéro mort
+  dans l'Acte VI, même si le personnage principal a déjà terminé le Nord sans
+  mourir.
+
+GREECE LIGHTNING
+
+1. Crée RUSH avec une classe rapide et solide.
+2. Options : Game Speed = Very Fast.
+3. Fais uniquement les quêtes rouges nécessaires, les boss de progression et
+   les portails. Ignore coffres, sanctuaires, grottes optionnelles, reliques,
+   charmes et Tartarus.
+4. Termine les trois difficultés avec le même personnage en moins de 20 heures
+   de temps de jeu. Garde une marge : 6 h par difficulté n'est pas une cible,
+   vise moins de 5 h 30 chacune.
+5. Atlantis, Ragnarok et Eternal Embers ne sont pas nécessaires à la route
+   rapide du succès ; fais-les sur MAIN-100.
+
+ALTOHOLIC
+
+- Il faut 10 classes différentes niveau 10.
+- Avec deux maîtrises par personnage, cinq personnages niveau 10 peuvent couvrir
+  dix classes. Le jeu compte les classes obtenues, pas seulement le nombre de
+  sauvegardes.
+- Crée les personnages, sélectionne deux maîtrises distinctes, atteins le
+  niveau 10, sauvegarde puis passe au suivant. Le héros accompli intégré au jeu
+  peut accélérer cet objectif sans modifier les fichiers.
+
+SISYPHUS GO HOME!
+
+- La description historique affichait niveau 75 ; la version actuelle demande
+  niveau 80. Le succès se débloque avec un personnage niveau 80.
+- La route la plus saine est MAIN-100 en Legendary, avec les quêtes et les
+  boss. Ne compte pas sur un mod de multiplication des ennemis : les mods
+  peuvent désactiver les succès.
+
+HERCULES ET AVATAR OF THANATOS
+
+- Hercules : 100000 monstres tués avec un seul personnage.
+- Avatar of Thanatos : 500000 monstres tués au total.
+- Les compteurs montent sur les parties normales et les replays, mais pas avec
+  les mods qui multiplient les monstres. Garde MAIN-100 comme personnage de
+  farm et nettoie les actes complets plutôt que de tuer un groupe puis de
+  relancer un portail.
+
+CHECKLIST FINALE — 115 SUCCÈS STEAM
+
+- [ ] No burned village? — sauver Helos.
+- [ ] It's dangerous to go alone. — former une équipe avec d'autres héros.
+- [ ] The first threshold — réussir l'épreuve des Spartiates.
+- [ ] Nobody did this — vaincre Polyphemus.
+- [ ] Hearts of Stone — vaincre les Gorgones.
+- [ ] Taste the beast! — vaincre le Minotaur Lord.
+- [ ] Found a bug — nettoyer la bibliothèque.
+- [ ] Tough crowd — vaincre l'Honor Guard.
+- [ ] No more sequels — vaincre Nehebkau.
+- [ ] Fight in the shade — vaincre Aktaios.
+- [ ] Artisan — fabriquer un Lesser Artefact.
+- [ ] Discount mercenary — vaincre la Chimera.
+- [ ] Out there on the dunes — vaincre Sandwing queen.
+- [ ] Be a man! — défendre la Great Wall.
+- [ ] Best served cold — vaincre Barmanu.
+- [ ] Imperial summit — rencontrer le Yellow Emperor.
+- [ ] Worthy of song — vaincre un titan.
+- [ ] Recycling — récupérer une relique depuis un objet.
+- [ ] Can't always use more — trouver Medea.
+- [ ] I O U — vaincre les Graeae.
+- [ ] Don't Pay the Ferryman — traverser le Styx.
+- [ ] Echoes in Eternity — traverser les champs d'Elysion.
+- [ ] Dark corners of the map — vaincre Shadowmaw en Normal avant de quitter la Grèce.
+- [ ] When Gods Fall — terminer la storyline de Hades.
+- [ ] Good point — transpercer quatre ennemis avec une flèche.
+- [ ] Archeologist — assembler 50 reliques.
+- [ ] Odysseus' 11 — piller le trésor de Hades.
+- [ ] Fifty Shades — libérer 50 Shades.
+- [ ] New lands — voyager au nord des Alpes.
+- [ ] Survivalist — compléter 50 charmes.
+- [ ] The one she forgot — obtenir le mistletoe.
+- [ ] Call of Nature — voyager avec trois loups et une nymphe.
+- [ ] A matter of principle — vaincre Talos.
+- [ ] What lies below — ouvrir la porte ancienne.
+- [ ] Mission Accomplished — trouver de nouveaux alliés.
+- [ ] Delayed until further notice — terminer la storyline principale.
+- [ ] Master Artificer — fabriquer un Greater Artefact.
+- [ ] The power of Set — porter cinq pièces d'un même set.
+- [ ] Agreeable pursuit — vaincre Boar Snatcher.
+- [ ] Detective — amener un criminel devant la justice.
+- [ ] Dear diary... — vaincre King Arganthonios.
+- [ ] Down to the 'core — vaincre Manticore.
+- [ ] Clawsome! — vaincre The Ancient One.
+- [ ] Beast of Beliar — vaincre Dragon Lich.
+- [ ] Weedkiller — vaincre Ladon.
+- [ ] Turtle Power — trouver le Secret Passage.
+- [ ] Marduked — vaincre Tiamat.
+- [ ] I AM TITAN SLAYER — vaincre Lyktos.
+- [ ] Masterful start — atteindre le niveau 2 sans subir de dégâts.
+- [ ] Strength of Atlas — infliger 100000 dégâts à un ennemi.
+- [ ] Precision Dvergan Engineering — améliorer un objet Legendary.
+- [ ] Beginner's Luck — vaincre Tartarus en Normal.
+- [ ] Epidemic — avoir 14 ennemis affectés par Plague en même temps.
+- [ ] K.O. — étourdir un ennemi 10 secondes en un coup.
+- [ ] What it says on the tin — vaincre Hydra.
+- [ ] Sisyphus go home! — atteindre le niveau 80 avec un personnage.
+- [ ] Surprise! — toucher six ennemis avec Phantom Strike.
+- [ ] Pharaoh's curse — échouer à apprendre d'une mauvaise expérience.
+- [ ] Double Standard — avoir deux Battle Standards actifs en même temps.
+- [ ] Hardcore Player — terminer Normal sans mort.
+- [ ] Son of Hephaestus — fabriquer un Divine Artefact.
+- [ ] Rock beats scissors — vaincre dix ennemis pendant une Stone Form.
+- [ ] Someone your size — vaincre Polyphemus sous Colossus Form.
+- [ ] Magebreaker — brûler 2500 points de mana à un ennemi.
+- [ ] Specialist — terminer Normal sans choisir de deuxième maîtrise.
+- [ ] Altoholic — avoir dix personnages de classes différentes niveau 10.
+- [ ] Medic! — soigner 200000 PV d'autres joueurs.
+- [ ] Achilles' Equal — terminer Legendary avec Warfare.
+- [ ] Rheingold — trouver le trésor perdu d'Andvari.
+- [ ] Double or Nothing — vaincre Tartarus en Epic.
+- [ ] Daemon ex machina — invoquer un Outsider niveau 20.
+- [ ] Circe — contrôler mentalement six ennemis en même temps.
+- [ ] One Man Phalanx — terminer Legendary avec Defense.
+- [ ] Living the Dream — terminer Legendary avec Dream.
+- [ ] I have minions for that — terminer Normal avec moins de 100 victimes personnelles.
+- [ ] Hercules — tuer 100000 monstres avec un seul personnage.
+- [ ] High Roller — vaincre Tartarus en Legendary.
+- [ ] Titanic Game Hunter — terminer Legendary avec Hunting.
+- [ ] Hardcore Master — terminer Epic sans mort.
+- [ ] Delirium — avoir dix ennemis confus en même temps.
+- [ ] Bloody Roots — avoir dix ennemis immobilisés en même temps.
+- [ ] Force of Nature — terminer Legendary avec Nature.
+- [ ] Breaker of Chains — libérer 500 Shades.
+- [ ] Target immobilized — maintenir un ennemi ensnared 30 secondes.
+- [ ] Morpheus — avoir 12 ennemis endormis en même temps.
+- [ ] The Fourth Peril — vaincre Qiong Qi.
+- [ ] The Dragon King — vaincre Sihai Longwang.
+- [ ] Nesting Doll — vaincre le Terracotta General.
+- [ ] Trail of Ashes — terminer Legendary avec Earth.
+- [ ] I am the Storm — terminer Legendary avec Storm.
+- [ ] Master of Shadows — terminer Legendary avec Rogue.
+- [ ] The power of Osiris — terminer Legendary avec Spirit.
+- [ ] Hardcore Legend — terminer Legendary sans mort.
+- [ ] Greece Lightning — finir les trois difficultés en moins de 20 heures.
+- [ ] Sick lewt — manier la Sickle of Kronos.
+- [ ] Together we stand — lancer Rally sur soi et trois autres joueurs.
+- [ ] The Forgotten King — vaincre Akhenaten.
+- [ ] Danger Noodle — vaincre Feiyi.
+- [ ] Avatar of Thanatos — tuer 500000 monstres.
+- [ ] The Setting Sun — vaincre The Suns.
+- [ ] Old Friend — parler au Yellow Emperor.
+- [ ] Wodan's Knowledge — terminer Legendary avec Rune.
+- [ ] Give me your Lupines — résoudre la quête d'une manière inhabituelle.
+- [ ] I don't like sand — vaincre Exhumed Medjai.
+- [ ] Emperor's New Clothes — équiper un set complet Eternal Embers.
+- [ ] No Stone Unturned — terminer toutes les quêtes Eternal Embers.
+- [ ] The Line of Epic Heroes — vaincre Mr. Fae.
+- [ ] BAO — acheter un objet de monstre infrequent à Bao.
+- [ ] Revenge — vaincre tous les développeurs.
+- [ ] Connoisseur — boire chaque nouvelle potion.
+- [ ] You must not read from the book! — vaincre Prosoro.
+- [ ] Amusing Mudcrab — vaincre Dimonoider.
+- [ ] Brewmaster — terminer Legendary avec Neidan.
+- [ ] Bao — acheter un objet de monstre à Bao.
+- [ ] Peach of Immortality — terminer Eternal Embers sans mort.
+
+VERIFICATION FINALE — CONTENU ET COMPTEURS
+
+- [ ] Steam affiche 115/115.
+- [ ] Les trois DLC à succès sont installés.
+- [ ] Shadowmaw est vaincu en Normal avant le départ de Grèce.
+- [ ] Hades storyline validée et When Gods Fall reçu.
+- [ ] Atlantis : cinq boss, trois Tartarus et les quatre portails contrôlés.
+- [ ] Ragnarök : New lands, Mistletoe, Ancient Gate, trois alliés, Surtr,
+  Detective, Legendary Craftsmanship, Lupines et Rheingold contrôlés.
+- [ ] Eternal Embers : 15 quêtes secondaires rendues.
+- [ ] Eternal Embers : toutes les quêtes principales et le dernier boss rendus.
+- [ ] Eternal Embers : sept types de potions bus par le même personnage.
+- [ ] Eternal Embers : set complet équipé.
+- [ ] Eternal Embers : Bao et BAO validés.
+- [ ] Eternal Embers : Akhenaten, Feiyi, Exhumed Medjai, Qiong Qi, Sihai
+  Longwang, The Suns, Mr. Fae, Prosoro et Dimonoider vaincus.
+- [ ] Les deux passages de développeurs classiques et le passage secret EE
+  nettoyés pour Revenge.
+- [ ] 11 maîtrises Legendary validées.
+- [ ] Normal, Epic et Legendary terminés sans mort sur les personnages dédiés.
+- [ ] Peach of Immortality validé sur un run EE propre.
+- [ ] 50 reliques, 50 charmes et les trois grades d'artefact validés.
+- [ ] Niveau 80 atteint et compteurs 100000/500000 contrôlés.
+- [ ] Les deux succès coopératifs validés par Steam.
+
+DIAGNOSTIC SI UN SUCCÈS MANQUE
+
+1. Ferme la partie et vérifie Steam après le rechargement : certains succès de
+   compteur se valident au menu et non au moment exact de l'action.
+2. Pour une quête, retourne au donneur et reparle-lui après avoir pris la
+   récompense. Une quête dans le journal n'est pas toujours une quête rendue.
+3. Pour un boss, recharge la sauvegarde avant la salle, pas celle créée après la
+   cinématique.
+4. Pour les maîtrises, vérifie que la maîtrise est sélectionnée et que le boss
+   de fin de Legendary a été vaincu avec le personnage concerné.
+5. Pour les achievements de DLC, vérifie que tu n'es pas en mode moddé et que
+   l'extension correspondante est installée dans Steam.
+6. Pour Greece Lightning, regarde le temps de jeu du personnage et non le temps
+   total du compte.
+7. Pour les succès de compteurs, ne mélange pas les personnages : Hercules est
+   par personnage, Avatar of Thanatos est cumulatif.
+
+SOURCES DE VÉRIFICATION
+
+- Liste officielle Steam des 115 succès :
   https://steamcommunity.com/stats/TitanQuestAnniversaryEdition/achievements/
-- Guide Steam 100 % et dependances DLC :
-  https://steamcommunity.com/sharedfiles/filedetails/?id=773087425
-- Fiche officielle de l'edition Anniversary :
+- Page officielle du jeu :
   https://store.steampowered.com/app/475150/Titan_Quest_Anniversary_Edition/
+- Guide Steam de référence des succès de la campagne et de Ragnarök/Atlantis :
+  https://steamcommunity.com/sharedfiles/filedetails/?id=773087425
+- Liste des 15 quêtes secondaires d'Eternal Embers :
+  https://steamcommunity.com/sharedfiles/filedetails/?id=2952016869
+- Carte et liste des zones Eternal Embers :
+  https://titanquest.fandom.com/wiki/The_East
+- Wiki des quêtes et du DLC Eternal Embers :
+  https://titanquest.fandom.com/wiki/Titan_Quest%3A_Eternal_Embers
+- Fiche officielle de l'extension :
+  https://store.steampowered.com/app/1804460/Titan_Quest_Eternal_Embers/
+
+FIN DE LA FICHE
