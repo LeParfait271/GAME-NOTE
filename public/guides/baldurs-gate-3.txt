@@ -1,167 +1,955 @@
 BALDUR'S GATE 3
-GUIDE 100 % STEAM - 54 SUCCES STEAM - CHRONOLOGIQUE - SANS SPOILER
+FICHE PREMIUM 100 % STEAM - ROUTE CHRONOLOGIQUE - SANS SPOILER NARRATIF
 
-Version de travail : 11 aout 2026
+Version vérifiée : 11 août 2026
+AppID Steam : 1086940
+Périmètre : 54 succès Steam, jeu principal, aucune extension ni succès en ligne.
 
-OBJECTIF
-
-Route de complétion sans spoiler pour les trois actes, les quêtes secondaires,
-les compagnons, les objets, les combats spéciaux et les deux modes de
-difficulté requis. Les noms de lieux, de boss et de succès servent uniquement
-de repères ; aucune résolution narrative n'est expliquée.
-
-PERIMETRE ET GARDE-FOUS
-
-- AppID Steam : 1086940. La fiche Steam totalise 54 succès.
-- Aucun DLC séparé ni online requis pour le 100 % Steam ; le mode coop est
-  optionnel mais les sauvegardes partagées demandent la même prudence.
-- Utilise une sauvegarde manuelle avant chaque zone, chaque dialogue important,
-  chaque prison et chaque combat à arène. Garde un fichier propre et un fichier
-  de nettoyage pour les branches de succès.
-- Premier passage conseillé en difficulté équilibrée. Tactician et Honour
-  demandent des runs dédiés ; ne mélange pas leurs objectifs avec la collecte.
+Cette fiche est une route de complétion pour obtenir les 54 succès Steam avec le
+moins de retours en arrière possible. Elle indique les zones, les objets uniques,
+les coffres utiles, les personnages à sauver, les combats à préparer et les
+branches à sauvegarder. Les noms de lieux, de compagnons, de boss et de succès
+servent de repères pratiques ; les révélations d'histoire, les identités, les
+trahisons, les décès et les conclusions ne sont pas racontés.
 
 MISSABLES ET CONDITIONS RATABLES
 
-- Le nautiloid, le commandant optionnel, les quatre Long Rests, Detect Thoughts,
-  les cinq coffres enterrés, Scratch, la lecture de livres et l'alchimie sont à
-  contrôler dans l'Acte I.
-- Pour Leave No One Behind, rescue toutes les cibles concernées avant chaque
-  transition d'acte. Pour To Bloom in Darkest Night, Penny Pincher, Under Lock
-  and Key, A Grym Fate et Non-Invasive Procedure, sauvegarde avant la zone et
-  ne lance pas le combat principal avant d'avoir préparé la condition.
-- Les prisons, les pièges de Gortash, le Wyrmway, le duel aérien, le jeu du
-  gnome, la date et les objectifs de compagnons sont signalés avant leur zone.
-- Le mode Honour efface la marge d'erreur : fais une copie de ta route de
-  préparation, règle les combats et ne tente pas le succès avant de connaître
-  les trois actes.
+- Le commandant Zhalk, la Matriarche araignée, Grym, Sazza, les prisonniers de
+  Moonrise, les tieffelins, les pièges de Gortash, Ansur et le dragon final ont
+  tous une condition précise contrôlée dans leur zone.
+- Ne passe pas dans l'Acte II avant d'avoir terminé le bosquet, la grotte de
+  l'ourse-hibou, l'Underdark, Grymforge et la crèche. Ne descends pas dans la
+  zone de non-retour de l'Acte II avant d'avoir libéré les prisonniers.
+- Leave No One Behind, She Cannot Be Caged!, Hot Date et les objectifs de
+  compagnons sont suivis sur une partie de référence. Les branches Dark Urge,
+  Murder Tribunal et les fins utilisent des sauvegardes séparées.
+- Les quatre repos longs, Detect Thoughts, les cinq coffres enterrés, 100 livres,
+  trois recettes alchimiques, les inspirations, les performances et le mercenaire
+  sont des compteurs à démarrer dès l'Acte I.
+- Toute condition de succès est validée seulement après la notification Steam.
+  Garde la sauvegarde avant la zone jusqu'à cette notification.
 
-ORDRE RECOMMANDE
+COMMENT LIRE LA FICHE
 
-1. NAUTILOID ET CAMP
+- Une ligne « Avant de partir » est un contrôle obligatoire avant la transition.
+- Une « sauvegarde de branche » est un emplacement manuel qui permet de valider
+  un succès puis de reprendre la route principale sans refaire tout le jeu.
+- Les coffres ordinaires sont à ouvrir quand Perception les révèle. Les coffres,
+  sacs et objets posés au sol contenant un objet unique ou une clé sont indiqués
+  avec leur emplacement et leur repère visuel.
+- Les succès cumulatifs se contrôlent dans la section de leur première occurrence,
+  puis de nouveau dans le bilan final. Le jeu peut afficher le succès après un
+  repos ou dans les crédits : attends toujours la confirmation Steam.
+- La route principale vise un premier run équilibré avec les succès de sauvetage,
+  de compagnons et de combat. Les branches Dark Urge, Honour et les fins se font
+  ensuite sur des sauvegardes ou des runs dédiés.
+- Les noms anglais des succès sont conservés exactement comme sur Steam pour
+  éviter toute ambiguïté dans la checklist.
 
-- Explore chaque pont du nautiloid, libère les alliés accessibles et prends la
-  commande pour Descent From Avernus.
-- Avant de quitter la première zone, bats le commandant optionnel pour Devil's
-  in the Details si tu veux le faire au premier passage. Utilise les barils et
-  les actions de déplacement ; le succès ne demande pas de révéler son rôle.
-- Recrute les premiers compagnons, fais quatre repos longs et utilise Detect
-  Thoughts dès qu'une option sûre apparaît. Lance une sauvegarde avant les
-  dialogues de camp.
+OBJECTIF DE LA PARTIE
 
-2. ACTE I : EXPLORATION ET COLLECTES
+- Explorer les trois actes en laissant les zones secondaires terminées avant la
+  transition suivante.
+- Recruter les compagnons et mercenaires utiles, conserver les compagnons de la
+  route principale et terminer leurs points de contrôle de camp.
+- Sauver les réfugiés tieffelins, les prisonniers de Moonrise et les cibles
+  demandées par Leave No One Behind dans une partie de référence.
+- Ouvrir les coffres importants, récupérer les objets de quête et lire les livres
+  rencontrés afin de ne pas repousser les compteurs à la fin du jeu.
+- Valider les 54 succès Steam, y compris les branches de fin, Dark Urge,
+  Tactician, Honour et Jack-of-all-Trades.
 
-- Ramasse une pelle ou un outil équivalent et déterre cinq coffres ; lis les
-  livres rencontrés, vise 100 lectures sans attendre la fin du jeu.
-- Fais dix objectifs d'inspiration et une attaque de cinq coups dans un tour
-  avec Action Surge. Pousse un ennemi dans un danger lorsque le terrain est
-  sûr pour Shove Off, puis réalise une élimination à mains nues pour Fists of
-  Fury.
-- Recrute Scratch et joue à rapporter. Fais trois recettes alchimiques uniques,
-  un repos en ne consommant que de l'alcool et un recrutement de mercenaire.
-- Termine les régions de l'Acte I sans fermer les quêtes secondaires. Forge
-  l'objet lié au boss de Grym et conserve les ressources pour la suite.
+GARDE-FOUS ABSOLUS
 
-3. ACTE II : QUETES ET COMBATS A FENETRE
+- N'entre pas dans la zone de transition d'acte avec une quête de sauvetage
+  ouverte. Termine d'abord la zone précédente et fais la sauvegarde indiquée.
+- Dans l'Acte I, ne lance pas l'assaut du bosquet avant d'avoir sauvé les
+  tieffelins, Mirkon, Arabella, Rolan et Sazza si tu vises la route 100 %.
+- Dans l'Acte II, visite Moonrise Towers et libère les prisonniers avant la zone
+  de non-retour signalée par la fiche. Ne te contente pas de passer directement
+  au temple final.
+- Dans l'Acte III, fais une sauvegarde avant Orin, Gortash, Ansur, le tribunal,
+  les romances et la séquence finale. Plusieurs succès utilisent la même zone,
+  mais pas toujours la même décision.
+- Pour Leave No One Behind, ne laisse pas Isobel tomber, ne tue pas les réfugiés
+  du bosquet et libère les prisonniers avant de fermer la fenêtre de l'Acte II.
+- Pour les succès de branche, le succès Steam reste acquis après rechargement.
+  Ne détruis pas la sauvegarde de référence avant de voir la notification.
+- Pour Critical Hit et Foehammer, désactive les mods qui bloquent les succès et
+  réserve un run propre aux difficultés concernées.
 
-- Avant la transition, vérifie les prisonniers, les quêtes de compagnons et les
-  objectifs de sauvetage. Ne ferme pas la zone avant d'avoir sécurisé Leave No
-  One Behind.
-- Prépare un groupe de contrôle et termine le combat de chirurgie sans laisser
-  l'action adverse s'accomplir pour Non-Invasive Procedure.
-- Termine les objectifs de floraison, de serrure et de collecte dès qu'ils sont
-  disponibles. Laisse une sauvegarde de zone avant le point de transition.
-- Continue les conversations de camp, les romances et les objectifs de rôle
-  sans commenter leurs résultats ; Hot Date se fait sur une sauvegarde dédiée.
+SAUVEGARDES MANUELLES À CRÉER
 
-4. ACTE III : VILLE, PRISONS ET BOSS
+1. BG3-00 : après le nautiloïde, avant d'explorer la plage.
+2. BG3-01 : avant l'entrée dans le bosquet et avant toute décision concernant
+   Kagha, Sazza ou les réfugiés.
+3. BG3-02 : devant la mère ourse-hibou, puis une seconde fois avant le camp des
+   gobelins si le petit n'est pas encore en sécurité.
+4. BG3-03 : devant la Matriarche araignée, avec les trois amas d'œufs intacts.
+5. BG3-04 : devant la Forge adamantine, après avoir rassemblé le minerai et un
+   moule, mais avant l'activation de la forge.
+6. BG3-05 : avant le monastère de Rosymorn et la crèche, avec Lae'zel dans le
+   groupe ou disponible au camp.
+7. BG3-06 : juste avant d'entrer dans les Terres maudites par l'ombre.
+8. BG3-07 : à l'arrivée à Last Light, avant de parler à Isobel.
+9. BG3-08 : devant Moonrise Towers avant l'infiltration de la prison.
+10. BG3-09 : devant la porte de la zone de non-retour de l'Acte II.
+11. BG3-10 : à l'arrivée à Rivington, avant les quêtes de ville et les romances.
+12. BG3-11 : avant Wyrm's Rock, le tribunal, le Wyrmway et chaque boss de ville.
+13. BG3-12 : avant l'entrée dans la séquence finale, pour les fins et le dragon.
+14. BG3-13 : niveau 11 ou 12, pour préparer le nettoyage Tactician et le
+    mercenaire Jack-of-all-Trades sans toucher au personnage principal.
 
-- Lis les livres manquants, termine les quêtes de compagnons et prépare les
-  rencontres de la ville avant d'entrer dans les bâtiments verrouillés.
-- Dans le Wyrmway, attends le moment mécanique indiqué par le succès et frappe
-  la cible aérienne pour Crash Landing. Dans Wyrm's Rock, désactive les pièges
-  avant le duel pour Fancy Footwork.
-- Fais jouer un gnome comme arme improvisée contre un autre ennemi pour Kill
-  Two Birds With One Gnome. Vérifie les cages, les prisonniers et les contrats.
-- Termine les objectifs de ville, les confrontations et le dernier acte sans
-  décrire les conséquences. Une sauvegarde avant chaque boss permet le
-  nettoyage Tactician/Honour.
+TABLEAU DES 54 SUCCÈS ET DE LEUR CONDITION
 
-5. DIFFICULTES ET NETTOYAGE
+01. Descent From Avernus — s'échapper du nautiloïde.
+02. Bedrolls and Breakfast — faire quatre repos longs dans une partie.
+03. No Penny Required — lancer Detect Thoughts avec succès pendant un dialogue.
+04. Dig for Victory — déterrer cinq coffres avec une pelle.
+05. Roleplayer — obtenir dix objectifs d'inspiration grâce à son historique.
+06. Action Surge — réaliser cinq attaques en un seul tour avec Action Surge.
+07. Expand Your Mind — consommer un parasite et débloquer un pouvoir illithid.
+08. The Plot Thickens — entrer dans les Terres maudites par l'ombre.
+09. Just a Nibble — laisser Astarion boire du sang pendant la scène de camp.
+10. Shove Off — tuer un ennemi avec des dégâts de chute.
+11. Repairing the Weave — laisser Elminster stabiliser l'orbe de Gale.
+12. Fists of Fury — tuer une créature avec une attaque à mains nues.
+13. Devil's in the Details — tuer le commandant Zhalk dans le nautiloïde.
+14. The City Awaits — entrer dans l'Acte III.
+15. Forged in Blood and Fire — fabriquer un objet à la Forge adamantine.
+16. Bookworm — lire 100 livres différents.
+17. Fetch Quest — jouer à rapporter avec Scratch.
+18. The Lich-Queen's Wrath — s'allier à Voss contre la reine githyanki.
+19. Taking Blood — prendre le Sang de Lathandre.
+20. No Free Lunches — vaincre l'Apostle of Myrkul avant qu'il ne consomme des
+    nécrophages.
+21. Bottoms Up — faire un repos long en dépensant 40 ravitaillements d'alcool.
+22. Escapologist — s'échapper d'une arrestation.
+23. Homebrewer — préparer trois solutions alchimiques différentes.
+24. Penny Pincher — vaincre Gerringothe Thorm sans qu'elle utilise son or contre
+    le groupe.
+25. To Bloom in Darkest Night — offrir une orchidée de nuit à Shadowheart.
+26. Under Lock and Key — libérer les tieffelins et les gnomes de la prison de
+    Moonrise Towers.
+27. You Have Two Hands for a Reason — faire en sorte que Scratch et l'ourson-hibou
+    jouent avec le personnage en même temps au camp.
+28. Hero of the Forgotten Realms — tuer le Netherbrain et détruire les parasites.
+29. Loophole — rompre le pacte de Wyll avec Mizora.
+30. All's Well That Ends Well — terminer le jeu.
+31. Non-Invasive Procedure — tuer Malus Thorm avant qu'il n'effectue son
+    opération.
+32. A Grym Fate — tuer Grym sans utiliser le marteau de la forge.
+33. First Blood — tuer Orin pendant que le rituel est encore en cours.
+34. Outsourcing — recruter un mercenaire auprès de Withers.
+35. Interfectorem Draconis — tuer le dragon rouge dominé dans la séquence finale.
+36. Rude, Crude, and Full of Attitude — invoquer Shovel depuis son parchemin.
+37. Pest Control — tuer la Matriarche araignée avant l'éclosion des amas d'œufs.
+38. Mind Blown — avoir une relation avec l'Empereur après avoir visité son ancien
+    refuge.
+39. Kill Two Birds With One Gnome — utiliser un gnome comme arme improvisée contre
+    un autre gnome.
+40. Ceremorphosis — devenir un flagelleur mental puis vaincre le Netherbrain.
+41. Murder in Baldur's Gate — terminer l'enquête des meurtres et le tribunal.
+42. Embrace Your Urge — devenir le Slayer avec l'origine Dark Urge.
+43. Crash Landing — tuer Ansur pendant qu'il est en vol.
+44. Absolute Power Corrupts — dominer le Netherbrain et devenir l'Absolute.
+45. Critical Hit — terminer le jeu en difficulté Tactician ou supérieure.
+46. Leave No One Behind — sauver tous les réfugiés tieffelins possibles dans une
+    même partie.
+47. Hot Date — avoir le rendez-vous avec Karlach.
+48. Fancy Footwork — tuer Gortash sans activer aucun piège.
+49. She Cannot Be Caged! — sauver Sazza dans les trois situations où elle est
+    emprisonnée ou menacée.
+50. Sins of the Father — prendre le contrôle du Netherbrain pour Bhaal.
+51. Jack-of-all-Trades — atteindre le niveau 12 avec un personnage ayant un niveau
+    dans chacune des douze classes, sans le respecialiser.
+52. Foehammer — terminer le jeu en difficulté Honour.
+53. Punch Drunk — vaincre 20 adversaires alors qu'un membre du groupe est sous
+    l'effet d'alcool.
+54. Busker — gagner 100 pièces d'or en jouant de la musique.
 
-- Fais d'abord un run Tactician pour Critical Hit, puis un run Honour pour
-  Foehammer. Les sauvegardes rapides ne doivent jamais remplacer une stratégie
-  stable et un stock de parchemins.
-- Pour Jack-of-all-Trades, multiclasse une seule fois dans chaque classe au
-  cours d'une partie sans demander de changement complet à Withers.
-- Punch Drunk se fait sur une zone peu dangereuse avec une sauvegarde dédiée ;
-  Busker se valide en jouant de la musique jusqu'à gagner 100 gold.
-- Termine la progression complète pour Hero of the Forgotten Realms, puis
-  reviens au profil et contrôle les succès de branche séparés.
+COMPTEURS À LANCER DÈS LE DÉBUT
 
-CHECKLIST FINALE - 54/54 SUCCES STEAM
+- Livres : lis les livres reliés et les ouvrages lisibles dès que tu les vois.
+  La lecture doit s'afficher comme une action réussie ; les simples notes et
+  parchemins ne remplacent pas les livres. Le compteur est cumulatif.
+- Inspiration : garde le personnage dont l'historique correspond à la scène et
+  explore les dialogues facultatifs. Utilise les points d'inspiration pour ne pas
+  bloquer de nouveaux objectifs.
+- Alchimie : ramasse plantes, minerais et champignons. Ouvre la fenêtre Alchimie,
+  fabrique trois solutions différentes et garde les composants rares.
+- Performances : un barde, ou un personnage maîtrisant un instrument, peut jouer
+  dans les zones peuplées. Accepte les pourboires et renouvelle la performance
+  quand une zone contient plusieurs spectateurs.
+- Parasites : utilise au moins un spécimen et dépense un point dans l'arbre
+  illithid pour Expand Your Mind. Fais-le sur une sauvegarde de la route
+  principale ; la fiche ne demande pas de consommer tous les spécimens.
+- Repos : fais quatre repos longs avant la fin de l'Acte I, puis continue à
+  visiter le camp après chaque recrutement et chaque événement important.
 
-- [ ] Descent From Avernus
-- [ ] Bedrolls and Breakfast
-- [ ] No Penny Required
-- [ ] Dig for Victory
-- [ ] Roleplayer
-- [ ] Action Surge
-- [ ] Expand Your Mind
-- [ ] The Plot Thickens
-- [ ] Just a Nibble
-- [ ] Shove Off
-- [ ] Repairing the Weave
-- [ ] Fists of Fury
-- [ ] Devil's in the Details
-- [ ] The City Awaits
-- [ ] Forged in Blood and Fire
-- [ ] Bookworm
-- [ ] Fetch Quest
-- [ ] The Lich-Queen's Wrath
-- [ ] Taking Blood
-- [ ] No Free Lunches
-- [ ] Bottoms Up
-- [ ] Escapologist
-- [ ] Homebrewer
-- [ ] Penny Pincher
-- [ ] To Bloom in Darkest Night
-- [ ] Under Lock and Key
-- [ ] You Have Two Hands for a Reason
-- [ ] Hero of the Forgotten Realms
-- [ ] Loophole
-- [ ] All's Well That Ends Well
-- [ ] Non-Invasive Procedure
-- [ ] A Grym Fate
-- [ ] First Blood
-- [ ] Outsourcing
-- [ ] Interfectorem Draconis
-- [ ] Rude, Crude, and Full of Attitude
-- [ ] Pest Control
-- [ ] Mind Blown
-- [ ] Kill Two Birds With One Gnome
-- [ ] Ceremorphosis
-- [ ] Murder in Baldur's Gate
-- [ ] Embrace Your Urge
-- [ ] Crash Landing
-- [ ] Absolute Power Corrupts
-- [ ] Critical Hit
-- [ ] Leave No One Behind
-- [ ] Hot Date
-- [ ] Fancy Footwork
-- [ ] She Cannot Be Caged!
-- [ ] Sins of the Father
-- [ ] Jack-of-all-Trades
-- [ ] Foehammer
-- [ ] Punch Drunk
-- [ ] Busker
+PROLOGUE — NAUTILOÏDE
 
-VERIFICATION
+OBJECTIF : Descent From Avernus, Devil's in the Details, recrutement de départ,
+objets de combat et première sauvegarde propre.
 
-- [ ] 54/54 succès Steam.
-- [ ] Trois actes, compagnons, prisonniers, coffres, livres, alchimie, forge et
-      branches contrôlés.
-- [ ] Runs Tactician, Honour et Jack-of-all-Trades séparés.
-- [ ] Aucun DLC ni online requis.
-- [ ] Relecture sans spoiler terminée.
+1. Dès le contrôle du personnage, fouille la salle de départ : ouvre les coffres,
+   ramasse les potions et récupère toute arme ou armure adaptée à ton groupe.
+2. Avance vers le premier poste de combat. Utilise les hauteurs, les barils et
+   les surfaces seulement si elles accélèrent le combat ; ne quitte pas la zone
+   sans fouiller les corps et les pièces latérales.
+3. Libère Shadowheart de son pod par le panneau de commande. Si tu préfères
+   l'autre méthode, récupère l'objet nécessaire dans la pièce voisine puis
+   reviens au panneau. Elle doit être disponible après l'évasion.
+4. Recrute Shadowheart et avance avec elle. Les combats du nautiloïde sont un
+   tutoriel : garde les actions de déplacement pour les ennemis qui veulent
+   atteindre le transpondeur et ne gaspille pas les potions rares.
+5. Avant le pont final, crée BG3-00-NAUTILOÏDE. Cette sauvegarde sert aux deux
+   succès de combat et évite de refaire la partie si le commandant s'échappe.
+6. Pour Devil's in the Details, retourne vers Commander Zhalk, élimine d'abord
+   les petits ennemis qui gênent le groupe et concentre les attaques sur lui.
+   Command: Drop Weapon, le désarmement et les surfaces de feu accélèrent le
+   combat. Ramasse son épée si tu veux une arme de départ confortable.
+7. Ne lance pas l'évasion avant que le commandant soit mort et que le succès
+   Steam soit apparu. Si le combat est trop lent, utilise les alliés présents
+   comme écran et maintiens la pression sur la cible principale.
+8. Rejoins le transpondeur et termine la séquence. Descent From Avernus apparaît
+   à l'évasion ; attends la notification avant de fermer le jeu.
 
+AVANT DE QUITTER LE NAUTILOÏDE
+
+- [ ] Shadowheart libérée et recrutée.
+- [ ] Commander Zhalk vaincu pour Devil's in the Details.
+- [ ] Épée, armures, potions et coffres du pont récupérés.
+- [ ] Descent From Avernus confirmé sur Steam.
+- [ ] BG3-00-NAUTILOÏDE conservée jusqu'à la validation des deux succès.
+
+ACTE I — PLAGE, CAMP ET PRÉPARATION
+
+OBJECTIF : poser tous les compteurs, récupérer les compagnons, ouvrir les zones
+de départ et éviter de fermer une quête avant le bosquet.
+
+1. Sur la plage, fouille les cadavres et les caisses près du point d'arrivée.
+   Ramasse une pelle avant d'atteindre le bosquet ; une pelle peut être achetée,
+   trouvée ou récupérée dans un contenant de la zone de départ.
+2. Recrute Shadowheart si elle n'est pas dans le groupe. Récupère Astarion sur
+   le chemin côtier, puis Gale au waypoint et Lae'zel près de la zone de combat.
+   Les dialogues peuvent être joués sans choisir leur résolution narrative.
+3. Fais un premier repos long au camp. Contrôle les personnages présents, les
+   conversations et les objets de quête avant de repartir.
+4. Fais quatre repos longs au total avant la fin de l'Acte I. Entre chaque repos,
+   vérifie les scènes de compagnons, les demandes de Gale, la morsure d'Astarion
+   et les nouvelles options de dialogue. Pour Just a Nibble, laisse Astarion
+   terminer la scène de morsure puis accepte la conséquence prévue par le jeu.
+5. Utilise un parasite et dépense un point dans le menu illithid pour Expand Your
+   Mind. Fais une sauvegarde avant si tu veux garder une route sans ce choix.
+6. Dès qu'un dialogue permet Detect Thoughts, lance le sort avec un personnage
+   qui le connaît ou un parchemin. Choisis un dialogue où l'échec ne ferme pas
+   une quête, sauvegarde avant et attends No Penny Required.
+7. Explore les ruines côtières et le Repos des eaux avant d'entrer profondément
+   dans le bosquet. Ouvre les coffres cachés par Perception, désactive les pièges
+   et prends les clés plutôt que de forcer les serrures quand une quête dépend
+   du contenu.
+8. Trouve Withers dans la crypte des ruines côtières. Désactive les pièges de
+   dalles et de sarcophages, ouvre le coffre du prêtre dans la pièce latérale et
+   récupère les parchemins. Rejoins le camp après la rencontre.
+9. Parle à Withers au camp et engage un mercenaire pour Outsourcing. Un
+   mercenaire de niveau 1 est aussi la base idéale du futur Jack-of-all-Trades.
+   Ne le respecialise pas avec Withers ; engage-le puis monte ses niveaux
+   manuellement quand le nettoyage sera lancé.
+10. Au nord-est du village ravagé, repère la grotte de l'ourse-hibou. Avant le
+    combat, BG3-02-OURSE-HIBOU. Le résultat de la rencontre ne doit pas tuer le
+    petit ourse-hibou si tu vises Fetch Quest et You Have Two Hands for a Reason.
+11. Va au camp des gobelins après la grotte. Libère le petit pendant le jeu de
+    course, puis laisse-le repartir. Repose-toi plusieurs fois au camp et donne-lui
+    de l'attention ; Scratch et lui doivent finir par jouer ensemble.
+12. Approche Scratch sur la route forestière au nord-est du village. Parle-lui
+    calmement, laisse son collier intact et invite-le au camp. Au camp, lance
+    l'interaction de rapporter et récupère le jouet pour Fetch Quest.
+13. Déterre cinq coffres avec la pelle. Les emplacements les plus simples sont
+    les monticules de la plage près des ruines, du bosquet, du village ravagé,
+    de la Route dévastée et du camp gobelin. Attends la réussite Perception,
+    clique le monticule puis utilise la pelle ; cinq réussites suffisent.
+14. Quand un membre du groupe obtient une inspiration, valide le point et
+    continue à sélectionner les dialogues liés à l'historique. Les personnages
+    peuvent changer de rôle selon la scène : le compteur est par partie, pas par
+    classe jouée.
+
+OBJETS ET COFFRES DE LA ZONE DE DÉPART
+
+- Plage : coffres près du point d'arrivée, du bateau et des ruines ; ouvre le
+  coffre verrouillé de la petite salle avant de partir vers le bosquet.
+- Ruines côtières : coffre du prêtre dans la crypte piégée, coffre de la salle
+  latérale et sarcophages de la grande chambre. Désactive les pièges avant de
+  prendre les objets.
+- Crypte : récupère les clés sur les gardes, les parchemins de résurrection et
+  les armes dans les sarcophages. Ne laisse pas les couvercles piégés fermés si
+  tu veux le butin de la pièce.
+- Route forestière : ouvre les caisses autour du waypoint et fouille les corps
+  de la rencontre de Scratch. Ne lance pas de combat contre Scratch.
+
+LE BOSQUET D'ÉMERAUDE — PREMIÈRE PASSE
+
+OBJECTIF : Leave No One Behind, She Cannot Be Caged!, Escapologist, inspirations,
+compétences de performance et préparation de la résolution du bosquet.
+
+1. Entre par la porte principale et participe à la défense sans tuer de
+   réfugiés. Après le combat, parle aux gardes, aux soigneurs et aux vendeurs.
+   Achète une pelle de secours, des potions, des outils de voleur et les
+   composants alchimiques que tu n'as pas encore.
+2. Dans la zone d'entraînement, parle à Wyll et aux jeunes tieffelins. Aide le
+   personnage en difficulté face au bugbear au lieu de laisser le combat se
+   terminer seul. Cette intervention est un point de contrôle de Leave No One
+   Behind.
+3. Fais la sauvegarde BG3-01-BOSQUET. À partir de ce point, ne valide aucune
+   décision de chef avant d'avoir terminé la liste ci-dessous.
+4. Arabella : va au sanctuaire, assiste à la scène et interviens pour la sauver.
+   Reviens ensuite voir sa famille et lis les livres de la salle.
+5. Mirkon : descends vers la plage des harpies. Sauve-le avant de fouiller les
+   rochers. Le coffre de la plage se trouve derrière les rochers, près du point
+   où les enfants s'abritent.
+6. Rolan, Cal et Lia : parle aux trois frères. Convaincs Rolan de rester au
+   bosquet. Ne les envoie pas vers une route qui ferme le sauvetage.
+7. Damays et Nymessa : traite la scène de Lae'zel sans tuer les deux tieffelins.
+   Si Lae'zel est déjà recrutée, utilise un dialogue calme et contrôle les deux
+   corps avant de repartir.
+8. Arka et Sazza : fais d'abord BG3-01-SAZZA. Parle à Arka et empêche-la de
+   tuer Sazza. Désamorce les pièges de l'Underground Passage, traverse avec Sazza
+   et escorte-la jusqu'au camp gobelin. N'attaque pas le bosquet pendant cette
+   étape.
+9. Pour Escapologist, fais une sauvegarde de branche avant l'arrestation. Vole
+   ou prends un objet sans valeur devant un garde, accepte l'arrestation, puis
+   quitte la cellule par la porte, la serrure ou le passage accessible à ton
+   groupe. Dès que le succès apparaît, recharge BG3-01-SAZZA.
+10. Pour She Cannot Be Caged!, dans le camp gobelin parle pour Sazza quand
+    Minthara la menace. Laisse Sazza franchir cette étape vivante, puis reviens
+    sur la route principale et élimine les chefs gobelins sans attaquer les
+    réfugiés. Dans Moonrise, protège-la encore quand elle est jugée. Les trois
+    situations doivent être réussies dans la même partie.
+11. Volo : parle-lui au bosquet et libère-le plus tard au camp gobelin. Fais les
+    dialogues de camp après son recrutement sans fermer les autres quêtes.
+12. Performance : si un personnage maîtrise un instrument, joue devant les
+    spectateurs du bosquet. Si une option de performance n'apparaît pas, équipe
+    un instrument et utilise la maîtrise donnée par une classe ou un don.
+13. Vendeurs : achète les outils de voleur, les parchemins de contrôle, les
+    potions de soin et les objets de quête. Le coffre du marchand se trouve dans
+    sa pièce arrière ; ne le force que sur une sauvegarde de nettoyage.
+14. Parle à Kagha, mais ne lance pas encore la confrontation définitive. Trouve
+    les indices de la quête du bosquet, explore les passages cachés et termine
+    la liste des réfugiés avant toute résolution de la cérémonie.
+
+CHECKPOINT LEAVE NO ONE BEHIND — ACTE I
+
+- [ ] Damays et Nymessa ne sont pas morts.
+- [ ] Arabella est sauvée.
+- [ ] Mirkon est sauvé.
+- [ ] Le tieffelin menacé par le bugbear est sauvé.
+- [ ] Arka n'a pas tué Sazza.
+- [ ] Rolan est resté au bosquet.
+- [ ] Cal et Lia sont encore présents.
+- [ ] Le bosquet n'est pas attaqué.
+- [ ] Les livres visibles de la zone sont lus.
+- [ ] La performance musicale est disponible pour Busker.
+
+VILLAGE RAVAGÉ — SOUS-SOL, MATRIARCHE ET COMPTEURS
+
+1. Entre dans la maison de l'apothicaire et descends dans la cave. Lis les livres,
+   ouvre les coffres et récupère le parchemin Scroll of Summon Quasit derrière
+   la zone de l'autel. Utilise-le pour invoquer Shovel et obtiens Rude, Crude,
+   and Full of Attitude. Si le dialogue de Shovel te propose une seconde
+   rencontre, garde le familier en suivant les réponses de classe ou de magie.
+2. Inspecte le miroir dans la cave et passe les contrôles avec un personnage
+   capable de parler ou de lire les indices. Le miroir ouvre un accès vers la
+   zone de la Matriarche ; fouille les caisses avant de descendre.
+3. Avant d'engager la Matriarche araignée, BG3-03-MATRIARCHE. Les trois amas
+   d'œufs sont visibles sur les plateformes et les parois. Détruis-les en
+   furtivité avec des attaques à distance ou des sorts, puis seulement lance le
+   combat contre la Matriarche.
+4. Pendant le combat, empêche les nouvelles araignées de rejoindre le groupe et
+   tue la Matriarche sans qu'un seul des trois amas initiaux n'éclose. Pest
+   Control se valide à la mort de la cible ; attends la notification.
+5. Fouille la salle après le combat : récupère les bottes, les composants, les
+   coffres et les œufs restants. Les plateformes accessibles par les toiles
+   contiennent le butin secondaire ; coupe les toiles après avoir traversé.
+6. Dans le village, parle aux habitants, aux morts et aux groupes neutres avant
+   de déclencher un combat. Lis les livres des maisons, de la scierie et de la
+   maison de garde. C'est une zone efficace pour Bookworm et Roleplayer.
+7. Pour Shove Off, sauvegarde avant un petit combat près d'un ravin. Réduis la
+   vie d'un adversaire, place ton personnage au bord opposé et utilise Shove afin
+   que la chute tue réellement la cible. Recharge si l'ennemi meurt autrement.
+8. Pour Fists of Fury, enlève l'arme d'un moine ou utilise un personnage avec
+   Unarmed Strike. Termine un adversaire faible à mains nues, sans dégâts de
+   sort ou d'arme sur la dernière action.
+9. Fabrique deux solutions alchimiques avec les composants du village et garde
+   les ingrédients ramassés. Ajoute une troisième recette différente avant de
+   quitter l'Acte I pour Homebrewer.
+
+ROUTE DÉVASTÉE, WAUKEEN'S REST ET GROTTE DE L'OURSE-HIBOU
+
+1. Sur la Route dévastée, recrute Karlach sans tuer de tieffelins. Reviens au
+   bosquet et parle à Dammon avec elle. Garde tout Infernal Iron trouvé dans les
+   coffres, les ateliers et les corps de la zone.
+2. Termine l'affaire des paladins et récupère le butin de la maison et du corps
+   de la cible. Ouvre le coffre caché dans les pièces latérales et vérifie chaque
+   cadavre avec Alt.
+3. À Waukeen's Rest, arrive par le côté sûr, sauve les habitants et récupère les
+   coffres des bâtiments avant que le feu ne se propage. La zone devient
+   temporairement dangereuse après certains dialogues : fais BG3-01-WAukeen
+   avant d'entrer dans la maison principale.
+4. Fouille les chambres, les greniers et la réserve. Les coffres de quête sont
+   souvent derrière des portes verrouillées ou sous des poutres ; utilise
+   Perception, Jump et les outils de voleur plutôt que de lancer une boule de
+   feu dans toute la maison.
+5. Dans la grotte de l'ourse-hibou, garde le petit en vie. Au camp gobelin,
+   récupère-le et libère-le pendant le jeu de course. Au camp du joueur, nourris
+   le petit et Scratch, puis caresse les deux après plusieurs repos longs.
+6. Une fois les deux scènes de camp vues, interagis avec les deux animaux dans
+   le même moment. You Have Two Hands for a Reason et Fetch Quest doivent être
+   confirmés avant le passage à l'Acte II.
+
+CAMP DES GOBELINS — SAZZA, VOLO, HALSIN ET BOSQUET
+
+1. Entre dans le camp sans fermer la porte du bosquet. Si Sazza est avec toi,
+   parle pour elle auprès des gobelins et de Minthara. Elle doit survivre à la
+   conversation et rester disponible pour la troisième rencontre de Moonrise.
+2. Explore les cours, la salle de fête, les cellules et le sanctuaire. Ouvre les
+   coffres derrière les tentures, fouille les chambres des chefs et récupère les
+   clés avant de déclencher le combat général.
+3. Libère Volo de sa cage et parle-lui au camp. Lis les livres du sanctuaire et
+   vérifie les autels, les caisses et le coffre du chef ; les objets importants
+   ne sont pas tous marqués comme des coffres classiques.
+4. Trouve Halsin dans les cellules. Libère-le, puis termine ses objectifs sans
+   tuer un réfugié. Les portes des cellules et les coffres des gardes contiennent
+   les clés et les potions utiles à la suite.
+5. Élimine les trois chefs gobelins et nettoie les zones adjacentes. La route
+   Leave No One Behind demande de maintenir le bosquet et ses réfugiés en vie.
+   Ne clique pas sur l'option qui lance l'attaque du bosquet.
+6. Après la chute des chefs, retourne au bosquet. Parle à Zevlor, Rolan, Cal,
+   Lia, Dammon, Arabella et les autres tieffelins. Termine les récompenses et
+   les conversations avant de partir vers l'Underdark.
+7. Dammon : donne-lui le premier Infernal Iron avec Karlach. Garde une seconde
+   pièce pour l'Acte II, et ne vends pas les matériaux infernaux.
+8. Les coffres à contrôler sont : salle de Minthara, réserve de Gut, salle du
+   chef, cages des cellules, coffre de Volo, coffres près de l'entrée et sacs
+   des gobelins. Utilise Alt et Perception pour ne laisser aucune clé.
+9. Repose-toi au camp après la résolution. Contrôle Scratch, le petit ourse-hibou,
+   Volo, Gale, Astarion, Lae'zel, Shadowheart, Wyll et Karlach.
+
+AVANT DE QUITTER LE BOSQUET
+
+- [ ] Les trois chefs gobelins sont vaincus.
+- [ ] Le bosquet et les réfugiés sont vivants.
+- [ ] Sazza a survécu à sa rencontre avec Minthara.
+- [ ] Sazza a déjà été escortée hors de la prison et du camp.
+- [ ] Rolan, Cal, Lia, Arabella et Mirkon ont été contrôlés.
+- [ ] Karlach a vu Dammon pour la première pièce d'Infernal Iron.
+- [ ] Scratch et le petit ourse-hibou sont au camp.
+- [ ] Fetch Quest est validé.
+- [ ] Escapologist est validé sur la branche dédiée.
+- [ ] Les coffres de quête du camp sont ouverts.
+
+UNDERDARK — EXPLORATION COMPLÈTE AVANT LA FORGE
+
+OBJECTIF : finir les quêtes secondaires, récupérer les matériaux, lire les livres
+et conserver un inventaire suffisant avant Grymforge.
+
+1. Descends par les Profondeurs de la toile ou un autre accès vers l'Underdark.
+   Crée BG3-04-UNDERDARK à l'arrivée. Les deux accès peuvent être explorés
+   avant la transition de l'acte ; ne considère pas le premier waypoint comme
+   une fin de zone.
+2. Explore le poste sélunite, les champignons, la plage et les cavernes de
+   l'Ebonlake. Ouvre chaque coffre visible, vérifie les rebords avec Jump et
+   désactive les pièges avant de ramasser les champignons instables.
+3. Parle aux Myconides et termine leurs demandes avant de prendre le bateau des
+   duergars. Récupère le Noblestalk si tu peux le protéger ; garde-le pour la
+   scène de personnage que tu veux approfondir.
+4. Au camp des duergars, parle aux groupes neutres, ouvre les coffres de leurs
+   postes et récupère la poudre fumigène. Les duergars et les gnomes sont les
+   cibles les plus pratiques pour Kill Two Birds With One Gnome.
+5. Pour le succès du gnome, garde au moins deux gnomes ou ennemis gnomes dans la
+   zone. Avec un personnage assez fort, sélectionne Action > Arme improvisée,
+   choisis un gnome comme projectile et lance-le sur un second gnome. Le coup
+   doit toucher et produire la validation Steam ; recharge si le jeu tue la
+   cible par un autre effet.
+6. Ne détruis pas la poudre, le minerai de mithral ni les moules. Ils servent à
+   la Forge adamantine. Une armure, une arme ou un bouclier forgé suffit pour
+   Forged in Blood and Fire.
+
+GRYMF​​ORGE ET FORGE ADAMANTINE
+
+1. Avant le combat principal, BG3-04-FORGE. Libère les gnomes demandés, ouvre
+   les coffres de la zone des ascenseurs et récupère deux minerais de mithral si
+   possible. Prends un moule adapté au résultat que tu veux forger.
+2. Active la forge avec le moule et le mithral, puis ouvre la valve de lave.
+   Cette activation fait apparaître Grym. Pour A Grym Fate, n'utilise jamais le
+   levier du marteau central, même pour infliger les dégâts.
+3. Grym ne subit les dégâts que lorsqu'il est Superheated. Ouvre la valve de
+   lave à chaque perte de l'effet, place un personnage à distance pour attirer
+   Grym sous la plateforme, puis frappe avec des attaques contondantes ou des
+   sorts efficaces. Évite de le faire marcher sur le bouton du marteau.
+4. Éloigne les personnages fragiles des évents et des rebords. Utilise Jump,
+   Misty Step et les actions à distance ; les dégâts de lave ne doivent pas
+   remplacer le plan de combat.
+5. Une fois Grym vaincu sans marteau, forge l'objet et attends Forged in Blood
+   and Fire. Ouvre les coffres autour de la forge, récupère le moule restant et
+   vérifie le cadavre de Grym.
+6. Termine les quêtes de Nere et des gnomes. Ne pars pas avant d'avoir fouillé
+   les ateliers, les quais, le dortoir, la salle du mécanisme et les coffres des
+   duergars. Les clés récupérées sur les gardes ouvrent les coffres fermés.
+
+MONTAGNE ET PASSAGE DE LA MONTAGNE — MONASTÈRE DE ROSYMORN
+
+1. Avant de passer la frontière, crée BG3-05-CRÈCHE et prends Lae'zel dans le
+   groupe ou garde-la au camp. Explore le monastère de Rosymorn, les falaises,
+   la cave et les salles de kobolds.
+2. Récupère les quatre armes cérémonielles : l'épée longue déjà liée au puzzle,
+   la masse dans la salle des kobolds, la hache de bataille portée par le gardien
+   et le marteau de guerre dans le nid d'aigles. Les positions peuvent être
+   atteintes avec Jump, invisibilité ou les escaliers cassés.
+3. Dans la salle du vitrail, place chaque arme sur le socle portant le nom du
+   Dawnmaster correspondant. L'épée longue, la masse, le marteau de guerre et
+   la hache ont chacune un socle ; si une arme n'est pas reconnue, retire-la et
+   vérifie qu'elle porte bien la mention Ceremonial.
+4. Ouvre la salle secrète, désactive les pièges de rayons et récupère le Dawnmas-
+   ter's Crest. Insère le crest lors de la prise du Sang de Lathandre afin de
+   sortir sans détruire l'objet de quête. Taking Blood se valide quand l'arme est
+   récupérée ; attends la notification.
+5. Entre dans la crèche avec Lae'zel. Explore les dortoirs, les salles d'étude,
+   l'infirmerie, les archives et les chambres. Ouvre les coffres des examinateurs,
+   prends les clés et lis les livres avant la confrontation de l'Inquisiteur.
+6. Voss : ne le tue pas au pont et ne ferme pas la scène par une attaque. Laisse
+   la conversation se terminer, puis accepte la piste de Voss au camp. Avance
+   avec Lae'zel jusqu'à la rencontre de l'Inquisiteur et conserve l'alliance
+   nécessaire à The Lich-Queen's Wrath.
+7. Termine les quêtes de la crèche, visite la chambre de l'enfant et la salle
+   des œufs, puis fais le plein de potions. Une fois le nettoyage terminé,
+   reviens au waypoint et prépare la transition vers l'Acte II.
+
+AVANT LA TRANSITION VERS L'ACTE II
+
+- [ ] Bosquet terminé, réfugiés vivants, Rolan contrôlé.
+- [ ] Sazza est encore en vie et les deux premières situations sont validées.
+- [ ] Scratch et le petit ourse-hibou ont joué avec le personnage.
+- [ ] Matriarche tuée sans éclosion des trois amas.
+- [ ] Grym tué sans marteau et objet forgé.
+- [ ] Gnome projeté sur un second gnome.
+- [ ] Sang de Lathandre récupéré.
+- [ ] Voss conservé pour l'alliance.
+- [ ] Five coffres déterrés, trois solutions alchimiques et quatre repos longs.
+- [ ] La majorité des livres lisibles de l'Acte I a été lue.
+
+ACTE II — TERRES MAUDITES PAR L'OMBRE
+
+OBJECTIF : The Plot Thickens, Leave No One Behind, Gale, Karlach, Shadowheart,
+les succès de Thorm et la prison de Moonrise avant le point de non-retour.
+
+1. Entre dans les Terres maudites par l'ombre par l'ascenseur de l'Underdark ou
+   le Passage de la montagne. The Plot Thickens se valide à l'entrée. Crée
+   BG3-06-OMBRES avant le passage, puis BG3-07-LAST LIGHT à l'arrivée.
+2. Avance avec une source de lumière ou une protection contre l'ombre. Explore
+   les routes, les maisons abandonnées, les cimetières et les petites grottes.
+   Ouvre les coffres derrière les maisons et récupère les potions de protection.
+3. Rejoins Last Light Inn sans déclencher une bataille contre les réfugiés.
+   Parle à Jaheira, aux tieffelins et aux marchands. Note les coffres de Dammon,
+   les sacs de soin et les objets uniques de la terrasse.
+4. Isobel : BG3-07-ISO​​BEL avant le dialogue. Défends la zone et maintiens tous
+   les tieffelins en vie. Leave No One Behind échoue si Isobel tombe ou si le
+   groupe laisse les réfugiés se faire enlever.
+5. Dammon : donne le second Infernal Iron avec Karlach. Fais une sauvegarde au
+   camp puis laisse la relation progresser sans abandonner Karlach.
+6. Art Cullagh : trouve-le à l'auberge ou dans la zone indiquée, puis lance la
+   suite de la quête de Halsin. Explore la maison, les lits, les coffres et les
+   pièces adjacentes avant de repartir.
+7. Rolan : quand il quitte l'auberge ou disparaît dans les ombres, suis sa trace
+   et sauve-le avant le point de non-retour. Contrôle ensuite les autres
+   tieffelins de Last Light.
+8. Shadowheart et orchidée de nuit : ramasse une Night Orchid dans les zones
+   boisées autour de Reithwin, notamment les falaises proches de la House of
+   Healing. Offre-la à Shadowheart au camp quand son dialogue le permet. To Bloom
+   in Darkest Night apparaît après l'offre ; ne la vends pas au marchand.
+9. Pour Repairing the Weave, fais un repos long après l'arrivée d'Elminster dans
+   les Terres maudites. Parle-lui au camp et laisse la stabilisation de l'orbe de
+   Gale se terminer. Ne quitte pas le camp avant la notification.
+10. Pour Penny Pincher, BG3-08-TOLLHOUSE. Entre dans le Tollhouse et sauvegarde
+    avant Gerringothe. La méthode la plus sûre est de retirer l'or de l'inventaire
+    du groupe, de réduire les crânes et de préparer les dialogues ; ne la laisse
+    pas encaisser de l'or puis utiliser cette ressource contre le groupe.
+11. Option dialogue sûre : donne exactement la somme demandée quand la fiche de
+    dialogue te permet de poursuivre les contrôles de persuasion, puis choisis
+    les réponses qui la font quitter la zone. Si un contrôle échoue, recharge.
+    Méthode combat : détruis les crânes et les pièces de la salle avant de
+    blesser Gerringothe, puis engage-la sans lui fournir d'or.
+12. House of Healing : explore les salles de soins, les lits, le bureau et les
+    chambres. Récupère les clés et les livres avant Malus. BG3-08-MALUS avant
+    d'entrer dans la salle d'opération.
+13. Pour Non-Invasive Procedure, déclenche un vrai combat et tue Malus avant
+    qu'il n'utilise les instruments chirurgicaux. Tu peux faire parler les
+    infirmières entre elles, mais n'accepte pas une résolution qui laisse Malus
+    se tuer sans combat ; c'est la mort de la cible pendant le combat qui compte.
+14. Explore Reithwin, la maison de péage, les tours, les cimetières et les
+    chemins de patrouille. Lis les livres, ouvre les coffres avec Perception et
+    récupère les clés sur les juges et les gardes.
+
+MOONRISE TOWERS — INFILTRATION ET PRISON
+
+1. Entre dans Moonrise Towers avant la zone de non-retour. Présente-toi comme
+   attendu par la zone, parle aux marchands et ouvre les coffres des couloirs.
+   La tour est une zone de quête, pas seulement un donjon final.
+2. Visite la prison immédiatement. BG3-08-PRISON avant d'ouvrir une cellule ou
+   de tuer un gardien. Fais le tour des passerelles, repère les scrying eyes et
+   libère les prisonniers avant de déclencher l'assaut.
+3. Prisonniers tieffelins à conserver : Cal, Lakrissa, Lia et Danis. Prisonniers
+   gnomes des Ironhands : Wulbren, Nickels et Nimble. Les noms sont ton contrôle
+   de Under Lock and Key ; si un seul manque à l'arrivée à Last Light, recharge.
+4. Détruis les scrying eyes et les gardes qui peuvent appeler des renforts. Utilise
+   les marteaux, les explosifs ou les attaques contondantes sur les murs de cellule
+   selon le plan de Wulbren. Ne fais pas entrer les prisonniers dans la ligne de
+   vue des gardes.
+5. Ouvre la route vers le bateau, monte avec les prisonniers et accompagne-les
+   jusqu'à Last Light. Parle à chacun à l'arrivée. Under Lock and Key se valide
+   quand les tieffelins et les gnomes sont en sécurité.
+6. Si Sazza a survécu, conserve BG3-08-SAZZA. Quand la tour la juge, choisis les
+   réponses qui l'épargnent et ne déclenche pas de combat contre elle. She Cannot
+   Be Caged! apparaît après cette troisième situation.
+7. Fouille la prison après le départ : cellules, bureaux, passerelles, coffres
+   derrière les murs, clés des gardes et objets sur les scrying eyes. Les cellules
+   possèdent plusieurs conteneurs peu visibles.
+8. Explore les étages accessibles de Moonrise, la bibliothèque, les salles de
+   stockage et les bureaux. Achète les objets importants, lis les livres et
+   récupère les clés avant de rejoindre la suite de l'histoire.
+
+GAUNTLET ET POINT DE NON-RETOUR DE L'ACTE II
+
+1. Termine toutes les tâches de Last Light, Moonrise, House of Healing, Tollhouse
+   et Reithwin avant la zone de non-retour. Contrôle Rolan, les prisonniers,
+   Dammon, Isobel, Halsin, Art Cullagh, Shadowheart et Gale.
+2. Explore la Gauntlet of Shar et récupère les gemmes, clés et coffres des salles
+   latérales. Termine les épreuves, les salles de pièges et les rencontres de
+   compagnons avant d'utiliser le dernier ascenseur.
+3. BG3-09-SHADOWFELL : cette sauvegarde est le point de non-retour pratique.
+   Ne descends pas avant d'avoir la confirmation suivante : Under Lock and Key,
+   To Bloom in Darkest Night, Repairing the Weave, Non-Invasive Procedure,
+   Penny Pincher et la route tieffeline sont terminés.
+4. Avance dans la zone finale de l'Acte II. Dans la colonie mind flayer, libère
+   Zevlor pour Leave No One Behind. Ouvre les chambres, les réserves et les
+   caisses médicales avant la salle finale.
+5. Pour No Free Lunches, pendant le combat contre l'Apostle of Myrkul, ne laisse
+   aucun Necromite atteindre la cible pour la soigner ou être consommé. Utilise
+   Silence, contrôle de terrain, attaques à distance et élimination prioritaire
+   des nouveaux Necromites. Vaincs l'Apostle avant qu'il ne consomme un seul.
+6. Pour Loophole, protège Mizora dans la colonie mind flayer. Termine la scène,
+   puis attends l'arrivée de la décision concernant le pacte de Wyll en Acte III.
+   Ne laisse pas Mizora mourir ou disparaître avant la branche de camp.
+7. Après le combat de l'Acte II, termine les conversations de camp et sauvegarde
+   avant la sortie. The City Awaits se valide en atteignant Rivington et l'Acte III.
+
+CONTRÔLE LEAVE NO ONE BEHIND — ACTE II
+
+- [ ] Last Light Inn est défendue.
+- [ ] Isobel est encore présente.
+- [ ] Les tieffelins de l'auberge ont été salués.
+- [ ] Dammon a reçu le second Infernal Iron.
+- [ ] Art Cullagh et Halsin ont été traités.
+- [ ] Rolan a été retrouvé et sauvé.
+- [ ] Cal, Lakrissa, Lia et Danis ont quitté Moonrise.
+- [ ] Wulbren, Nickels et Nimble ont quitté Moonrise.
+- [ ] Zevlor a été retrouvé dans la colonie.
+- [ ] Sazza a survécu à la scène de Moonrise.
+
+ACTE III — RIVINGTON ET PREMIERS COMPTEURS DE VILLE
+
+OBJECTIF : lancer les romances, terminer les réfugiés, préparer les branches de
+ville et conserver une sauvegarde avant chaque grand verrou.
+
+1. À l'entrée de Rivington, crée BG3-10-R​​IVINGTON. Parle aux réfugiés, aux
+   tieffelins et aux marchands. Ouvre les coffres des maisons, du monastère et
+   des granges avant de déclencher les combats de foule.
+2. Continue Leave No One Behind : parle aux tieffelins de la zone de réfugiés,
+   puis à ceux d'Elfsong Tavern quand la ville est accessible. Retrouve Mol
+   dans la zone de la Guilde et aide Rolan quand sa quête l'exige.
+3. Termine les objectifs des réfugiés du camp, les demandes de l'auberge et les
+   quêtes qui empêchent les tieffelins de rester en sécurité. Ne lance pas le
+   tribunal de Bhaal avant le contrôle de la route principale.
+4. Pour Bottoms Up, dépose au camp 40 unités de ravitaillement composées
+   uniquement d'alcool. Lance un repos long et vérifie que l'interface ne prend
+   ni nourriture ni eau. Le succès se valide à la fin du repos.
+5. Pour Punch Drunk, sauvegarde avant le combat. Place une bouteille d'alcool
+   dans l'inventaire d'un membre du groupe, applique l'état Alcohol, puis vaincs
+   20 adversaires pendant que l'état reste actif. La cuisine d'Elfsong et les
+   groupes faibles de la ville sont adaptés au nettoyage ; ne compte pas les
+   ennemis tués par un autre personnage si l'état n'est pas actif sur le groupe.
+6. Pour Hot Date, garde Karlach dans le groupe ou au camp, maintiens son affinité
+   et refuse les choix qui la quittent. Le second traitement de Dammon doit être
+   terminé. Quand le dialogue de rendez-vous apparaît au camp en Acte III,
+   accepte-le sur BG3-10-KARLACH et laisse la scène se terminer.
+7. Recrute ou conserve Jaheira et Minsc si tu veux la route complète des
+   compagnons. Explore les maisons, les égouts et les quartiers de faction
+   avant de fermer les portes de la ville.
+8. Vendeurs et butin : achète les parchemins de résurrection, les outils de
+   voleur, les potions de vitesse et les composants de contrôle. Ouvre les coffres
+   du monastère, des granges, de la maison de comptage et des maisons de quai.
+
+ACTE III — LOWER CITY, ENQUÊTE ET ROMANCES
+
+1. Entre dans la Lower City et crée BG3-11-LOWER CITY. Commence par Open Hand
+   Temple et l'enquête des meurtres. Lis les journaux, récupère les preuves et
+   ouvre les coffres de la cave, des chambres et des magasins.
+2. Pour Murder in Baldur's Gate, crée une sauvegarde séparée avant de poursuivre
+   l'enquête vers Fraygo's Flophouse, Candulhallow's Tombstones et le tribunal.
+   Termine l'enquête, entre au Murder Tribunal, valide la condition du succès et
+   attends la notification. Recharge ensuite BG3-11-LOWER CITY pour garder la
+   route de référence.
+3. Pour la route Leave No One Behind, parle à Mol dans la Guilde, aux réfugiés
+   d'Elfsong et aux tieffelins de la ville. Aide Rolan dans Sorcerous Sundries
+   et termine ses dialogues avant la confrontation de la tour.
+4. Pour Busker, utilise un barde ou une maîtrise d'instrument. Joue dans les
+   rues de la Lower City, accepte chaque pourboire, change de place quand les
+   spectateurs cessent de répondre et contrôle le total dans l'inventaire.
+   Continue jusqu'à 100 pièces d'or cumulées.
+5. Pour Bookworm, ouvre les bibliothèques de Sorcerous Sundries, les archives,
+   la maison de comptage, les quartiers de la Guilde, les tavernes et les égouts.
+   Lis chaque livre unique au lieu de seulement le ramasser.
+6. Pour Jack-of-all-Trades, engage un mercenaire niveau 1 avec Withers. À chaque
+   niveau, donne-lui exactement une classe différente : Barbarian, Bard, Cleric,
+   Druid, Fighter, Monk, Paladin, Ranger, Rogue, Sorcerer, Warlock et Wizard.
+   Il doit arriver au niveau 12 avec les douze classes, sans cliquer sur
+   Respec. Engager le mercenaire auprès de Withers est autorisé ; le
+   respecialiser ne l'est pas.
+
+WY​​RM'S ROCK — FANCY FOOTWORK ET W​​YLL
+
+1. Crée BG3-11-GORTASH devant l'accès à Wyrm's Rock. Avant de déclencher le
+   combat de Gortash, observe les murs, balcons, grenades, braseros et pièges
+   mécaniques. Les pièges peuvent être détruits ou désamorcés à distance avec
+   une flèche, un sort ou un outil de voleur.
+2. Fais le tour par les plateformes, les vignes et les escaliers latéraux.
+   Détruis chaque piège visible sans laisser d'explosion, d'onde de feu ou de
+   grenade se déclencher. Sauvegarde quand la salle est propre.
+3. Lance alors le combat et ne marche jamais sur un piège restant. Tuer Gortash
+   dans cette salle sans qu'aucun piège ne s'active valide Fancy Footwork. Si
+   une seule plaque explose, recharge BG3-11-GORTASH.
+4. Wyll et Mizora : après avoir sauvé Mizora dans la colonie, reviens au camp
+   avec Wyll. Dans la scène du pacte, choisis le dialogue qui demande de rompre
+   immédiatement le pacte de Wyll, puis confirme la rupture. Loophole apparaît
+   après la décision ; fais une sauvegarde avant cette scène car elle peut
+   modifier les objectifs de Wyll.
+5. Ouvre les coffres de la forteresse après le combat, récupère les clés des
+   officiers et vérifie les passerelles. Ne quitte pas la zone sans contrôler les
+   cellules et les salles latérales.
+
+WY​​RMWAY ET ANSUR — CRASH LANDING
+
+1. Trouve l'entrée du Wyrmway sous Wyrm's Rock et crée BG3-11-WYR​​MWAY. Termine
+   les quatre épreuves, ouvre les coffres des salles, récupère les clés et garde
+   une composition capable de résister à la foudre.
+2. Avant Ansur, BG3-11-ANSUR. Le succès Crash Landing demande de tuer Ansur
+   pendant qu'il est en vol. Prépare des dégâts à distance, des actions rapides,
+   de la résistance à la foudre et un personnage capable de rejoindre les
+   plateformes.
+3. Quand Ansur prend son envol pour l'attaque aérienne, ne le tue pas avant la
+   phase de vol. Attends qu'il soit clairement hors du sol, puis concentre les
+   dégâts sur lui pendant cette phase. Si sa mort survient au sol, recharge.
+4. Fouille la salle, les coffres, les présentoirs et les corps après le combat.
+   Ne ferme pas la quête avant d'avoir récupéré les objets de Wyrmway et lu les
+   livres de la salle.
+
+ORIN, TRIBUNAL ET FIRST BLOOD
+
+1. Pour First Blood, BG3-11-ORIN avant le temple de Bhaal. Entre dans l'arène
+   avec un groupe qui peut infliger un burst rapide et ne tue pas les cultistes
+   qui chantent autour du rituel.
+2. Pendant le combat, cible Orin uniquement. Laisse les cultistes en vie et ne
+   les frappe pas avec une attaque de zone. Tue Orin alors que le rituel continue
+   pour valider First Blood.
+3. Pour Murder in Baldur's Gate, suis l'enquête des meurtres jusqu'au Murder
+   Tribunal sur la sauvegarde dédiée. Termine le tribunal et récupère la
+   notification avant de recharger la route principale.
+4. Sur la route Dark Urge, crée un run séparé. Ne mélange pas la route de
+   sauvetage avec la route qui demande d'accepter l'héritage de Bhaal ; la
+   sauvegarde de branche est plus sûre qu'un choix improvisé en fin de jeu.
+
+EMPEROR, KARLACH ET RELATIONS DE CAMP
+
+1. Quand la quête de l'ancien refuge de l'Empereur devient accessible, visite
+   l'ancien refuge et ouvre ses coffres, bureaux et salles de stockage. Termine
+   l'exploration avant le repos long suivant.
+2. Au camp, accepte la scène romantique de l'Empereur et les réponses directes
+   qui permettent la relation. Mind Blown apparaît après la scène ; sauvegarde
+   avant si tu ne veux pas conserver cette relation dans la route principale.
+3. Pour Hot Date, accepte le rendez-vous de Karlach dans la scène de camp
+   dédiée. Le rendez-vous demande Karlach vivante, les deux traitements de Dammon
+   et une affinité suffisante ; ne laisse pas la scène être remplacée par une
+   autre romance sur BG3-10-KARLACH.
+4. Après chaque quête de compagnon, fais un repos long, parle aux compagnons et
+   ouvre les coffres du camp. Les petites scènes de camp sont la progression,
+   pas du contenu à ignorer après les combats.
+
+FIN DE JEU — SAUVEGARDES DE BRANCHE
+
+1. Termine les quêtes principales et secondaires, recrute les compagnons restants,
+   lis les livres de la ville et crée BG3-12-FINALE juste avant l'entrée dans la
+   séquence finale. Ne remplace pas cette sauvegarde.
+2. Route HÉROS : choisis les réponses qui détruisent le Netherbrain et les
+   parasites. Termine la séquence, laisse les crédits défiler et attends Hero
+   of the Forgotten Realms et All's Well That Ends Well.
+3. Route CEREMORPHOSIS : recharge BG3-12-FINALE ou crée une branche avant le
+   choix final. Fais devenir le personnage principal un flagelleur mental, puis
+   détruis le Netherbrain. Attends les crédits ; le succès peut apparaître après
+   la dernière scène.
+4. Route ABSOLUTE : recharge la sauvegarde finale et choisis le dialogue qui
+   demande de trahir l'allié, de dominer le cerveau et de devenir l'Absolute.
+   Absolute Power Corrupts apparaît à la validation de la fin.
+5. Route DRAGON : sur la séquence finale de la partie de référence, amène le
+   dragon rouge dominé dans la High Hall/Upper City et tue-le avant le boss
+   final. Interfectorem Draconis est un succès de combat séparé de Crash Landing.
+6. Ne supprime aucune branche avant de voir les notifications Steam. Les succès
+   de fin sont conservés dans le profil même si tu recharges une ancienne
+   sauvegarde.
+
+DARK URGE — RUN DÉDIÉ POUR EMBRACE YOUR URGE ET SINS OF THE FATHER
+
+1. Crée une partie avec l'origine Dark Urge. Cette route est séparée de Leave No
+   One Behind : elle demande des décisions de personnage incompatibles avec la
+   route de sauvetage parfaite.
+2. Suis les scènes de l'Urge, lis les entrées de journal et fais les repos longs
+   nécessaires. Quand le jeu te propose de céder à la transformation du Slayer,
+   valide la branche sur une sauvegarde dédiée pour Embrace Your Urge.
+3. Avance jusqu'à Orin, remporte la confrontation et accepte le cadeau de Bhaal.
+   Ne quitte pas la scène avant la validation du succès.
+4. Avant la séquence finale, BG3-DURGE-FINALE. Choisis la branche où le
+   Netherbrain est dominé au nom de Bhaal. Sins of the Father apparaît à la fin
+   de la scène et peut demander le passage des crédits.
+5. Si le succès ne se valide pas, ne rejoue pas immédiatement tout le run :
+   recharge la sauvegarde avant le choix de fin, vérifie que le personnage est
+   bien l'origine Dark Urge et que le don de Bhaal a été accepté.
+
+DIFFICULTÉ TACTICIAN — CRITICAL HIT
+
+1. Lance une partie propre en Tactician ou garde une sauvegarde de difficulté
+   déjà adaptée. N'utilise pas de mod qui désactive les succès.
+2. Prépare chaque combat avec contrôle, invisibilité, résistances, potions de
+   vitesse et parchemins de résurrection. Termine les quêtes de la route
+   principale, les boss d'Acte II et les combats de ville avec cette difficulté.
+3. Critical Hit apparaît à la fin d'une victoire complète en Tactician ou dans
+   une difficulté supérieure. Vérifie le profil Steam après les crédits.
+4. Si tu veux économiser un run, réalise directement Foehammer en Honour : la
+   difficulté supérieure peut également créditer le succès Tactician, mais ne
+   considère Critical Hit comme acquis avant la notification.
+
+HONOUR MODE — FOEHAMMER
+
+1. Commence un run sans mods et désactive tout changement qui empêche les
+   succès. Utilise un groupe équilibré, un personnage de contrôle et un stock
+   de parchemins de résurrection.
+2. Conserve les règles de la sauvegarde Honour : ne compte pas sur le rechargement
+   après une mort et évite les combats facultatifs avant d'avoir une issue de
+   fuite. Les boss peuvent avoir des actions légendaires supplémentaires.
+3. Utilise les sauvegardes de préparation décrites au début, mais considère le
+   run comme définitif. Récupère les objets de protection, termine la route
+   de sauvetage avec prudence et ne tente pas les succès de branche pendant ce
+   run si cela met la victoire en danger.
+4. Termine le jeu en Honour, laisse les crédits passer et vérifie Foehammer.
+   Si le run se termine dans une autre issue, ne valide pas la réussite avant la
+   notification Steam ; les menus de victoire ne suffisent pas toujours.
+
+NETTOYAGE RAPIDE DES SUCCÈS CUMULATIFS
+
+- [ ] Bedrolls and Breakfast : quatre repos longs confirmés.
+- [ ] Dig for Victory : cinq monticules réellement déterrés avec une pelle.
+- [ ] Roleplayer : dix inspirations obtenues.
+- [ ] Action Surge : six attaques réalisées avec un Fighter de haut niveau, ou
+      cinq attaques avec les actions supplémentaires et le bonus d'une autre
+      configuration.
+- [ ] Bookworm : 100 livres différents lus, pas seulement ramassés.
+- [ ] Homebrewer : trois recettes alchimiques différentes fabriquées.
+- [ ] Outsourcing : un mercenaire engagé auprès de Withers.
+- [ ] Busker : 100 pièces d'or de pourboires de performance.
+- [ ] Punch Drunk : 20 ennemis vaincus pendant Alcohol.
+- [ ] Jack-of-all-Trades : douze classes sur le même mercenaire niveau 12, sans
+      respecialisation.
+
+CHECKLIST FINALE — 54/54 SUCCÈS STEAM
+
+- [ ] Descent From Avernus — évasion du nautiloïde.
+- [ ] Bedrolls and Breakfast — quatre repos longs.
+- [ ] No Penny Required — Detect Thoughts réussi.
+- [ ] Dig for Victory — cinq coffres enterrés.
+- [ ] Roleplayer — dix inspirations.
+- [ ] Action Surge — cinq attaques dans un tour.
+- [ ] Expand Your Mind — premier pouvoir illithid débloqué.
+- [ ] The Plot Thickens — entrée dans les Terres maudites par l'ombre.
+- [ ] Just a Nibble — scène de morsure d'Astarion terminée.
+- [ ] Shove Off — mort par chute.
+- [ ] Repairing the Weave — orbe de Gale stabilisé.
+- [ ] Fists of Fury — élimination à mains nues.
+- [ ] Devil's in the Details — Commander Zhalk tué.
+- [ ] The City Awaits — Acte III atteint.
+- [ ] Forged in Blood and Fire — objet de la Forge adamantine fabriqué.
+- [ ] Bookworm — 100 livres différents lus.
+- [ ] Fetch Quest — partie de rapporter avec Scratch.
+- [ ] The Lich-Queen's Wrath — alliance avec Voss.
+- [ ] Taking Blood — Sang de Lathandre récupéré.
+- [ ] No Free Lunches — Apostle of Myrkul vaincu sans consommation de Necromite.
+- [ ] Bottoms Up — repos avec 40 ravitaillements d'alcool.
+- [ ] Escapologist — arrestation puis évasion.
+- [ ] Homebrewer — trois solutions alchimiques.
+- [ ] Penny Pincher — Gerringothe sans utilisation d'or contre le groupe.
+- [ ] To Bloom in Darkest Night — orchidée de nuit offerte à Shadowheart.
+- [ ] Under Lock and Key — prisonniers tieffelins et gnomes libérés.
+- [ ] You Have Two Hands for a Reason — Scratch et l'ourson-hibou réunis au jeu.
+- [ ] Hero of the Forgotten Realms — Netherbrain détruit.
+- [ ] Loophole — pacte de Wyll rompu.
+- [ ] All's Well That Ends Well — jeu terminé.
+- [ ] Non-Invasive Procedure — Malus tué avant l'opération.
+- [ ] A Grym Fate — Grym tué sans marteau.
+- [ ] First Blood — Orin tuée pendant le rituel.
+- [ ] Outsourcing — mercenaire recruté.
+- [ ] Interfectorem Draconis — dragon rouge dominé tué dans la finale.
+- [ ] Rude, Crude, and Full of Attitude — Shovel invoqué.
+- [ ] Pest Control — Matriarche avant l'éclosion.
+- [ ] Mind Blown — relation avec l'Empereur.
+- [ ] Kill Two Birds With One Gnome — gnome lancé sur un second gnome.
+- [ ] Ceremorphosis — personnage devenu flagelleur mental puis victoire.
+- [ ] Murder in Baldur's Gate — enquête et tribunal terminés.
+- [ ] Embrace Your Urge — Slayer obtenu avec Dark Urge.
+- [ ] Crash Landing — Ansur tué en vol.
+- [ ] Absolute Power Corrupts — Netherbrain dominé.
+- [ ] Critical Hit — jeu terminé en Tactician ou supérieur.
+- [ ] Leave No One Behind — réfugiés tieffelins sauvés.
+- [ ] Hot Date — rendez-vous avec Karlach.
+- [ ] Fancy Footwork — Gortash sans piège activé.
+- [ ] She Cannot Be Caged! — Sazza sauvée trois fois.
+- [ ] Sins of the Father — fin Bhaal validée.
+- [ ] Jack-of-all-Trades — douze classes sur un personnage niveau 12.
+- [ ] Foehammer — jeu terminé en Honour.
+- [ ] Punch Drunk — 20 ennemis vaincus sous Alcohol.
+- [ ] Busker — 100 pièces d'or gagnées en musique.
+
+VERIFICATION FINALE — CONTRÔLE DE CONTENU, HORS SUCCÈS STEAM
+
+- [ ] Trois actes parcourus avec les transitions contrôlées.
+- [ ] Coffres uniques, clés, objets de quête et équipements de zones contrôlés.
+- [ ] Réfugiés du bosquet, prisonniers de Moonrise et Zevlor contrôlés.
+- [ ] Compagnons, romances, camp, Voss, Gale, Shadowheart, Karlach et Wyll
+      contrôlés sur les sauvegardes prévues.
+- [ ] Matriarche, Grym, Gerringothe, Malus, Apostle, Orin, Gortash et Ansur
+      traités avec leurs conditions précises.
+- [ ] Branches Héros, Ceremorphosis, Absolute, Murder Tribunal et Dark Urge
+      validées avant suppression des sauvegardes.
+- [ ] Tactician, Honour et Jack-of-all-Trades confirmés dans le profil Steam.
+- [ ] Les 54 cases Steam sont cochées après notification, pas seulement après la
+      fin d'une quête.
+- [ ] Aucun mod ou DLC n'a été supposé nécessaire.
+- [ ] Relecture sans spoiler narratif terminée.
+
+SOURCES DE CONTRÔLE
+
+- Liste officielle Steam des succès :
+  https://steamcommunity.com/stats/1086940/achievements
+- Fiche officielle Steam du jeu :
+  https://store.steampowered.com/app/1086940/Baldurs_Gate_3/
+- Roadmap et conditions détaillées des succès :
+  https://www.xboxachievements.com/game/baldurs-gate-3/guide/
+- Index communautaire des succès et conditions de jeu :
+  https://bg3.wiki/wiki/Achievements
+
+FIN DE LA FICHE — CONTRÔLE 100 % STEAM
