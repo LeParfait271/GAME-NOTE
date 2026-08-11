@@ -31,6 +31,7 @@ const serviceWorker = await read("dist/client/service-worker.js");
 const headers = await read("dist/client/_headers");
 const redirects = await read("dist/client/_redirects");
 const manifest = JSON.parse(await read("dist/client/manifest.json"));
+const socialCard = await stat(join(ROOT, "dist", "client", "og.png"));
 
 test("le shell statique conserve les repères accessibles", () => {
   assert.match(index, /<html lang="fr"/);
@@ -101,4 +102,9 @@ test("la surface Cloudflare reste protégée", () => {
     false,
     "raccourci favoris obsolète",
   );
+});
+
+test("la carte sociale suit l’identité du site", () => {
+  assert.match(index, /og\.png/);
+  assert.ok(socialCard.size > 1000, "carte sociale absente ou vide");
 });
