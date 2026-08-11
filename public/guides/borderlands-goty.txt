@@ -1,0 +1,258 @@
+BORDERLANDS GAME OF THE YEAR
+GUIDE 100 % STEAM - 80 SUCCES STEAM - CHRONOLOGIQUE - SANS SPOILER
+
+Version de travail : 11 aout 2026
+
+PERIMETRE
+
+Ce guide concerne l'edition originale Steam Borderlands Game of the Year,
+AppID 8980. Elle contient la campagne, Zombie Island of Dr. Ned, Mad Moxxi's
+Underdome Riot, The Secret Armory of General Knoxx et Claptrap's New Robot
+Revolution. Objectif : 80/80 succes Steam. Borderlands GOTY Enhanced possede
+une carte et un TXT dedies, mais suit la meme route sans spoiler.
+
+OBJECTIF REEL
+
+[ ] Arid Badlands et Rust Commons nettoyes par missions et lieux nommes.
+[ ] Les 4 classes ont valide leur action de classe, avec une sauvegarde principale.
+[ ] Les 4 DLC sont termines, y compris les arènes et les collectibles.
+[ ] Le personnage principal atteint le niveau 61 et bat Crawmerax.
+[ ] Les succes coop, duel et les missions partagees sont coches.
+[ ] 80/80 succes Steam apparaissent dans la bibliotheque.
+
+GARDE-FOUS ET MISSABLES
+
+- L'edition originale affiche 80 succes Steam. La route recommande une campagne
+  normale, les DLC, puis un second passage ou du farm jusqu'au niveau 61.
+- Les succes sont globalement recuperables, mais les missions, les collectibles
+  et les choix d'arene sont plus surs avec une sauvegarde avant chaque chapitre.
+- Sauvegardes conseillees : DEBUT-BADLANDS, AVANT-NEW-HAVEN,
+  AVANT-DESTROYER, AVANT-KNOXX, AVANT-MOXxi et AVANT-CRAWMERAX.
+- Ne vends pas les objets de mission, les kits d'amelioration d'inventaire, les
+  clés et les objets de collecte avant d'avoir verifie le compteur.
+- Les succes `Group LF Healer`, `There's No "I" In "Team"`, `United We Stand`,
+  `Duel-icious`, `Duelinator` et `And They'll Tell Two Friends` exigent une
+  vraie session coop ou un ami Steam. Fais-les au debut.
+- Pour `Fully Loaded`, sauve tous les Claptraps et utilise chaque kit SDU.
+  Le compteur ne se recupere pas en vendant les kits par erreur.
+- Dans General Knoxx, vise le niveau 61 avant Crawmerax. `Vincible` est le
+  dernier gros verrou de la route et demande un build, des munitions et une
+  sauvegarde dedies.
+- Aucun detail d'intrigue, de revelation, de cible finale ou de denouement n'est
+  donne ici. Les noms de missions servent de balises de progression.
+
+ROUTE CHRONOLOGIQUE
+
+00 - CREATION ET ARID BADLANDS
+
+- Choisis une classe principale. Garde-la pour la campagne et les missions de
+  DLC. Les trois autres classes seront creees ensuite uniquement pour leur
+  action de classe.
+- Dans les premieres zones, accepte toutes les missions avant de partir. Fais
+  les 5 missions d'Arid Badlands pour `Paid in Fyrestone`, puis reste dans la
+  region jusqu'a ce que `Made in Fyrestone` soit pret.
+- Active chaque element trouve : incendiaire pour `Pyro`, explosif pour
+  `Master Exploder`, puis rampe les armes et la competence de type d'arme.
+- Utilise le vehicule pour 25 eliminations en collision. Profite d'un groupe de
+  Rakk pour les 5 eliminations en moins de 10 secondes.
+- Equipe le premier artefact elementaire, puis un mod de classe. Vends 50 armes
+  progressivement, sans vendre les objets gardes dans la checklist.
+- [ ] `Paid in Fyrestone`, `Ding! Newbie`, `Discovered Skag Gully`,
+      `Ding! Novice`, `Pyro`, `Discovered Sledge's Safe House`.
+- [ ] `Master Exploder`, `Get A Little Blood on the Tires`,
+      `Rootinest, Tootinest, Shootinest`, `Discovered Headstone Mine`,
+      `You call this archaeology?`, `There are some who call me...Tim`, `Fence`.
+
+01 - ARID BADLANDS : MISSIONS ET PREMIERS LIEUX
+
+- Termine les missions de chaque panneau et de chaque habitant. Regarde la
+  carte apres chaque sortie : Skag Gully, Sledge's Safe House et les autres
+  sous-zones doivent afficher leur nom.
+- Monte au niveau 20, puis termine la cible principale de la region. Fais les
+  missions secondaires avant de passer aux Rust Commons.
+- Conserve une arme de chaque element et augmente une categorie d'arme jusqu'au
+  niveau de proficiency 10. Garde les munitions pour les missions d'arene.
+- [ ] `Ding! Expert`, `Wanted: Sledge`, `Paid in New Haven` debute seulement
+      apres le passage vers Rust Commons.
+- [ ] `Discovered The Scrapyard` et les lieux de transition sont marques.
+
+02 - RUST COMMONS ET NEW HAVEN
+
+- A New Haven, accepte toutes les missions, puis nettoie les sous-zones dans
+  l'ordre du journal. Ne quitte pas une zone avec une mission bleue non suivie.
+- Fais les 5 missions des Rust Commons pour `Paid in New Haven`, puis toutes
+  les missions pour `Made in New Haven`.
+- Utilise les armes de choc et corrosives jusqu'a 25 eliminations chacune.
+  Garde une arme de zone pour les defis et une arme precise pour les boss.
+- Lance une session coop ici : sauve un equipier, termine 15 missions a deux,
+  gagne un duel puis un duel sans perdre de vie. Joue avec un ami Steam pour
+  `And They'll Tell Two Friends`.
+- [ ] `Ding! Expert`, `Paid in New Haven`, `1.21 Gigawatts`, `Weapon Aficionado`,
+      `Discovered The Scrapyard`.
+- [ ] `Group LF Healer`, `There's No "I" In "Team"`, `Duel-icious`,
+      `Duelinator`, `And They'll Tell Two Friends`.
+
+03 - THE SCRAPYARD, KROM'S CANYON ET LES MISSIONS DE PANDORA
+
+- Poursuis la campagne vers The Scrapyard, puis Krom's Canyon. Visite tous les
+  embranchements et les cartes interieures avant la prochaine transition.
+- Fais les missions de chasse et de vehicule, puis depense ou conserve ton
+  argent selon le compteur. Un million de dollars cumules valide `Pandora-dog
+  Millionaire` naturellement ; ne farm pas trop tot.
+- Atteins le niveau 30 puis 40 avec le personnage principal. Pour `12 Days of
+  Pandora`, utilise les types d'armes, les ennemis et les elements demandes au
+  fil des zones et verifie le compteur de defis.
+- Termine tous les objectifs d'Arid Badlands et Rust Commons avant la zone
+  finale : `Made in Fyrestone` et `Made in New Haven` doivent etre verts.
+- [ ] `Ding! Hardcore`, `Discovered Krom's Canyon`, `Facemelter`, `Wanted: Krom`,
+      `Pandora-dog Millionaire`, `12 Days of Pandora`, `Made in Fyrestone`,
+      `Made in New Haven`.
+
+04 - TRASH COAST, CRIMSON LANCE ET FIN DE CAMPAGNE
+
+- Decouvre Trash Coast, Crimson Lance Enclave et Eridian Promontory. Fais les
+  missions de la campagne et les missions de zone avant la derniere transition.
+- Conserve des sauvegardes AVANT-DESTROYER et APRES-CAMPAGNE. Elles servent a
+  verifier les succes de niveau, les classes et le nettoyage des lieux.
+- Cree au besoin trois personnages temporaires. Avec chacun, utilise l'action
+  de classe pour le nombre demande : Siren, Soldier, Hunter et Berserker.
+- Termine la campagne principale avec un ami pour `United We Stand`. Si le
+  succes ne s'enregistre pas, refais uniquement la derniere mission en coop.
+- [ ] `Discovered Trash Coast`, `Destroyed the Hive`, `Discovered Crimson Lance
+      Enclave`, `Wanted: Flynt`, `Discovered Eridian Promontory`,
+      `Destroyed the Destroyer`, `United We Stand`.
+- [ ] `Truly Outrageous`, `Down in Front!`, `Careful, He Bites`,
+      `Reckless Abandon`.
+
+05 - NETTOYAGE NORMAL ET NIVEAUX
+
+- Apres la campagne, vide le journal des missions de base et de chasse. Les
+  missions de zones et les objectifs de lieux sont obligatoires pour `Made in
+  Fyrestone` et `Made in New Haven`.
+- Atteins les niveaux 40, 50 et 51. Ne passe pas au DLC Knoxx sans preparer
+  l'objectif niveau 61, car son contenu donne les meilleurs paliers de farm.
+- Ouvre les coffres, vends 50 armes, garde un objet de chaque element et
+  conserve les objets SDU pour `Fully Loaded`.
+- [ ] `Ding! Sleepless`, `Ding! Champion`, `Ding! Overleveled`,
+      `Ding! Overleveled to 11`, `12 Days of Pandora`.
+
+06 - DLC 1 : ZOMBIE ISLAND OF DR. NED
+
+- Lance le DLC depuis le panneau de voyage, puis suis la route de Jakobs Cove.
+  Fais les missions de la campagne et les missions secondaires dans chaque
+  village avant de quitter la zone.
+- Termine `House of the Ned`, puis la ligne de Jakobs Fodder. Les objectifs de
+  zombies et de collecte se font pendant le trajet ; n'accelere pas la sortie.
+- Fais la mission `Braaaaaaaaaaaaains!` et la demande de Tannis. Ramasse les
+  collectibles de la zone pour `The Collector`.
+- [ ] `House of the Ned`, `Jakobs Fodder`, `Ned's Undead, Baby`,
+      `Night of the Living Ned`, `Ned-Trap`, `Braaaaaaaaaaaaains!`,
+      `The Collector`.
+
+07 - DLC 2 : MAD MOXXI'S UNDERDOME RIOT
+
+- Fais d'abord une petite arene pour apprendre les manches, puis garde une
+  sauvegarde avant chaque grande arene. Le but est de terminer les trois
+  grandes arenas, pas seulement le tutoriel.
+- Valide `Small Tournament`, puis termine The Gully, Hell-Burbia et The Angelic
+  Ruins. `Big Tournament` demande les trois avec un seul personnage.
+- Une session coop facilite les manches et donne `Can't We Get BEYOND
+  Thunderdome?`. Ne vends pas les munitions et les consommables pendant une
+  grande arene.
+- [ ] `Small Tournament`, `The Gully`, `Hell-Burbia`, `The Angelic Ruins`,
+      `Big Tournament`, `Can't We Get BEYOND Thunderdome?`.
+
+08 - DLC 3 : THE SECRET ARMORY OF GENERAL KNOXX
+
+- Commence la route de T-Bone Junction et ouvre les missions de chaque base.
+  Les trajets sont longs : active les stations et termine les missions de
+  livraison avant de poursuivre.
+- Construis le Monster pour `Making a Monster`, puis utilise les vehicules pour
+  `Speed Kills` et `Speedy McSpeederton`.
+- Fais `Depot Demolition`, les missions de la Secret Armory et les missions
+  secondaires. `Completionist` exige tout le journal de cette extension.
+- Ramasse les 3D glasses, les loot midgets et les objets de claptrap pendant le
+  nettoyage. Fais les trois succes de defaite de cibles de DLC.
+- [ ] `Making a Monster`, `Athena, Out`, `Depot Demolition`, `Fully Loaded`,
+      `Speed Kills`, `My Brother is an Italian Plumber`.
+- [ ] `Knoxx-Trap`, `Steele-Trap`, `Ding! Overleveled to 11`, `It's so realistic!`,
+      `Completionist`, `Sneaky Little Buggers`, `Vincible`.
+
+09 - DLC 4 : CLAPTRAP'S NEW ROBOT REVOLUTION
+
+- Termine la campagne de la revolution puis parcours toutes les zones a pied
+  pour les objectifs de collecte. Les claptraps, les bobbleheads et les oil
+  cans peuvent etre coches sur une liste papier.
+- Sauve les claptraps necessaires pour obtenir 42 emplacements, puis verifie le
+  total avant de rendre la mission finale. Les kits deja recus sont definitifs.
+- Lis les 6 panneaux de statues, collecte 25 oil cans, 15 bobbleheads et les
+  objets demandes pour `What a party!`.
+- Termine la mission de la cible ninja pour `Muerte la robo-lucion`. Explore la
+  zone de transition du bateau pour `You're on a boat!`.
+- [ ] `Muerte la robo-lucion`, `It's so realistic!`, `You're on a boat!`,
+      `The Lubricator`, `Bobble-trap`, `What a party!`, `Tourist`, `Fully Loaded`.
+
+10 - NIVEAU 61, CRAWMERAX ET CONTROLE FINAL
+
+- Monte le personnage principal au niveau 61 avec les missions, les arenas et
+  les repetitions de DLC. Requipe un build defensif avant Crawmerax.
+- Fais `Vincible` avec une sauvegarde AVANT-CRAWMERAX. En coop, tous les joueurs
+  doivent rester dans la zone de combat et verifier l'apparition du succes.
+- Controle les 4 classes, les 4 elements, les niveaux et les lieux. Si un lieu
+  manque, refais le voyage dans l'ordre des zones plutot que de recommencer.
+- [ ] Surcouche Steam : 80/80.
+
+CHECKLIST COMPLETE DES 80 SUCCES STEAM
+
+CAMPAGNE PRINCIPALE
+
+[ ] Paid in Fyrestone  [ ] Ding! Newbie  [ ] Discovered Skag Gully
+[ ] Ding! Novice  [ ] Pyro  [ ] Discovered Sledge's Safe House
+[ ] Master Exploder  [ ] Get A Little Blood on the Tires
+[ ] Rootinest, Tootinest, Shootinest  [ ] Discovered Headstone Mine
+[ ] You call this archaeology?  [ ] There are some who call me...Tim
+[ ] Fence  [ ] Ding! Expert  [ ] Wanted: Sledge  [ ] Paid in New Haven
+[ ] 1.21 Gigawatts  [ ] Weapon Aficionado  [ ] Discovered The Scrapyard
+[ ] Group LF Healer  [ ] There's No "I" In "Team"  [ ] Ding! Hardcore
+[ ] Discovered Krom's Canyon  [ ] Facemelter  [ ] Wanted: Krom
+[ ] Pandora-dog Millionaire  [ ] 12 Days of Pandora  [ ] Made in Fyrestone
+[ ] Discovered Trash Coast  [ ] Destroyed the Hive
+[ ] Discovered Crimson Lance Enclave  [ ] Wanted: Flynt
+[ ] Discovered Eridian Promontory  [ ] Destroyed the Destroyer
+[ ] United We Stand  [ ] Truly Outrageous  [ ] Down in Front!
+[ ] Careful, He Bites  [ ] Duel-icious  [ ] And They'll Tell Two Friends
+[ ] Ding! Sleepless  [ ] Made in New Haven  [ ] Duelinator
+[ ] Reckless Abandon  [ ] Ding! Champion
+
+ZOMBIE / MOXXI / KNOXX / CLAPTRAP
+
+[ ] House of the Ned  [ ] Making a Monster  [ ] Jakobs Fodder
+[ ] Ned's Undead, Baby  [ ] Night of the Living Ned  [ ] Athena, Out
+[ ] Depot Demolition  [ ] Fully Loaded  [ ] Speed Kills
+[ ] My Brother is an Italian Plumber  [ ] Ding! Overleveled
+[ ] Knoxx-Trap  [ ] Steele-Trap  [ ] Ned-Trap
+[ ] Muerte la robo-lución  [ ] Ding! Overleveled to 11
+[ ] It's so realistic!  [ ] Small Tournament  [ ] You're on a boat!
+[ ] Braaaaaaaaaaaaains!  [ ] The Collector
+[ ] Can't We Get BEYOND Thunderdome?  [ ] Speedy McSpeederton
+[ ] Sneaky Little Buggers  [ ] Vincible  [ ] Sucker born every minute
+[ ] Tourist  [ ] Completionist  [ ] The Gully  [ ] Hell-Burbia
+[ ] The Angelic Ruins  [ ] Big Tournament  [ ] The Lubricator
+[ ] Bobble-trap  [ ] What a party!
+
+CONTROLE FINAL
+
+[ ] Le personnage principal est niveau 61.
+[ ] Les quatre grandes arenas de Moxxi sont cochees.
+[ ] Les collectibles de Claptrap et les missions des quatre DLC sont coches.
+[ ] La coop et les duels sont valides.
+[ ] Les 80 succes Steam sont debloques.
+
+SOURCES DE CONTROLE
+
+- Steam achievements original : https://steamcommunity.com/stats/8980/achievements
+- Steam store original : https://store.steampowered.com/app/8980/Borderlands_Game_of_the_Year/
+- Steam achievements Enhanced : https://steamcommunity.com/stats/729040/achievements
+- Steam store Enhanced : https://store.steampowered.com/app/729040/Borderlands_Game_of_the_Year_Enhanced/
+- Manuel PC : https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/8980/manuals/Borderlands%20PC%20final.pdf
+- Guide communautaire 100 % : https://steamcommunity.com/sharedfiles/filedetails/?id=3402245409
