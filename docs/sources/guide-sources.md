@@ -1190,3 +1190,28 @@ conditions difficiles ; elles ne justifient jamais une copie mot a mot.
   https://www.exophase.com/game/duke-nukem-forever-steam/achievements/
 - Manuel PC Duke Nukem Forever :
   https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/57900/manuals/DNF%20PC%20DOWNLOAD%20MAN%20ENG.pdf
+
+## FPS COOPERATIFS
+
+- Succes officiels Back 4 Blood, AppID 924970 :
+  https://steamcommunity.com/stats/924970/achievements
+- Fiche Steam Back 4 Blood :
+  https://store.steampowered.com/app/924970/Back_4_Blood/
+- Liste complete Back 4 Blood, base et trois extensions :
+  https://www.exophase.com/game/back-4-blood-steam/achievements/
+- Guide Steam de controle Back 4 Blood 100 % :
+  https://steamcommunity.com/sharedfiles/filedetails/?id=2634664014
+- Succes officiels Left 4 Dead, AppID 500 :
+  https://steamcommunity.com/stats/500/achievements
+- Fiche Steam Left 4 Dead :
+  https://store.steampowered.com/app/500/Left_4_Dead/
+- Liste complete Left 4 Dead :
+  https://www.exophase.com/game/left-4-dead-steam/achievements/
+- Succes officiels Left 4 Dead 2, AppID 550 :
+  https://steamcommunity.com/stats/L4D2/achievements
+- Fiche Steam Left 4 Dead 2 :
+  https://store.steampowered.com/app/550/Left_4_Dead_2/
+- Liste complete Left 4 Dead 2 :
+  https://www.exophase.com/game/left-4-dead-2-steam/achievements/
+- Guide Steam de controle Left 4 Dead 2 101 succes :
+  https://steamcommunity.com/sharedfiles/filedetails/?id=2419666451

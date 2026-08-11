@@ -144,6 +144,12 @@ soluce chronologique classique n'apporterait rien.
 - DOOM 3: BFG Edition — guide publie : 65/65 succes Steam, trois campagnes et multiplayer
 - Duke Nukem Forever — guide publie : 50/50 succes de base + 12 succes DLC The Doctor Who Cloned Me
 
+### FPS cooperatifs
+
+- Back 4 Blood — guide publie : 93/93 succes Steam, trois DLC et online
+- Left 4 Dead — guide publie : 73/73 succes Steam, campagnes, Survival et Versus
+- Left 4 Dead 2 — guide publie : 101/101 succes Steam, extensions, modes et evenements
+
 ## Futurs guides chronologiques (`planned`)
 
 ### Final Fantasy et RPG proches
@@ -158,9 +164,6 @@ soluce chronologique classique n'apporterait rien.
 
 ### Coopération ou campagne à route dédiée
 
-- Back 4 Blood
-- Left 4 Dead
-- Left 4 Dead 2
 - Castle Crashers
 - Lara Croft and the Temple of Osiris
 - Magicka

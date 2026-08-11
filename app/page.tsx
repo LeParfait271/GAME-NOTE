@@ -1957,6 +1957,54 @@ const guides: Guide[] = [
       "A surveiller : le pistolet dore, les recompenses Ego, les casques, les messages, les calendriers et les quatre difficultes.",
     meta: ["50/50 base", "12 DLC", "Solo"],
   },
+  {
+    id: "back-4-blood",
+    steamAppId: 924970,
+    title: "Back 4 Blood",
+    eyebrow: "Turtle Rock Studios / Warner Bros.",
+    subtitle: "Actes, DLC et modes coop dans l'ordre.",
+    count: "93 succes Steam",
+    file: "back-4-blood.txt",
+    accent: "coral",
+    tag: "Guide 100 % Steam",
+    description:
+      "Route complete des actes 1 a 6, secrets, difficultes, trois extensions et modes online.",
+    highlight:
+      "A surveiller : les runs Nightmare/No Hope, les secrets, Swarm, Trial of the Worm et la cooperation.",
+    meta: ["93/93 Steam", "3 DLC", "Online"],
+  },
+  {
+    id: "left-4-dead",
+    steamAppId: 500,
+    title: "Left 4 Dead",
+    eyebrow: "Valve",
+    subtitle: "Campagnes, Survival et Versus dans l'ordre.",
+    count: "73 succes Steam",
+    file: "left-4-dead.txt",
+    accent: "gold",
+    tag: "Guide 100 % Steam",
+    description:
+      "Route des campagnes, Crash Course, The Sacrifice, Expert, medailles et objectifs Infected.",
+    highlight:
+      "A surveiller : les runs sans degats, les quatre campagnes Expert et les objectifs Versus.",
+    meta: ["73/73 Steam", "6 campagnes", "Online"],
+  },
+  {
+    id: "left-4-dead-2",
+    steamAppId: 550,
+    title: "Left 4 Dead 2",
+    eyebrow: "Valve",
+    subtitle: "Campagnes, extensions et modes online dans l'ordre.",
+    count: "101 succes Steam",
+    file: "left-4-dead-2.txt",
+    accent: "blue",
+    tag: "Guide 100 % Steam",
+    description:
+      "Route des neuf campagnes, Expert Realism, Survival, Scavenge, Versus et evenements.",
+    highlight:
+      "A surveiller : Good Guy Nick, Ghost of Christmas Present, les medailles et The Last Stand.",
+    meta: ["101/101 Steam", "9 campagnes", "Online"],
+  },
 ];
 
 const steamHeaderUrl = (appId: number) =>
