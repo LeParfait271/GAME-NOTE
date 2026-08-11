@@ -1,122 +1,1347 @@
 RESIDENT EVIL 3
+EDITION PC
+OBJECTIF : 32/32 succes Steam
 GUIDE CHRONOLOGIQUE 100 % STEAM - SANS SPOILER
 
-Version de travail : 10 aout 2026
+Version de travail : 12 aout 2026
+AppID Steam : 952060
 
-Ce parcours couvre les 32 succes Steam de l'AppID 952060 : campagne,
-collectibles, armes, records, rangs, difficulte et boutique. Resistance est
-un produit distinct ; les costumes et bonus de l'edition Deluxe n'ajoutent pas
-de succes au compteur principal.
+Cette fiche est la route complete de Resident Evil 3 Remake sur PC. Elle
+couvre la campagne, les 32 succes Steam, les 56 fichiers, les 20 Charlie
+Dolls, les 20 serrures, les 4 armes optionnelles, les 10 pieces d'armes,
+les 6 poches d'inventaire, les 3 joyaux, les codes, les puzzles, les combats
+obligatoires et les runs de difficulte.
 
-OBJECTIF
+Le guide est chronologique et sans spoiler narratif. Les noms de lieux, les
+noms d'objets, les combats obligatoires et les objectifs Steam sont donnes
+uniquement comme reperes de progression. Les scenes, les identites, les
+issues et les details de l'histoire ne sont pas racontes.
 
-[ ] 32/32 succes Steam.
-[ ] Campagne Standard avec fichiers, Charlie Dolls, poches et pieces d'armes.
-[ ] Records de temps, fabrication, esquive parfaite et objets de combat.
-[ ] Hardcore, Nightmare et Inferno avec les rangs necessaires.
-[ ] Boutique, armes bonus et modes de nettoyage.
+OBJECTIF FINAL
+
+- 32/32 succes Steam.
+- 56/56 fichiers lus jusqu'a la derniere page.
+- 20/20 Charlie Dolls detruits.
+- 20/20 serrures, coffres, casiers et strongboxes ouverts.
+- 4/4 armes optionnelles de la campagne recuperees avec Jill.
+- 10/10 pieces d'armes installees ou validees.
+- 6/6 poches d'inventaire recuperees.
+- 3/3 joyaux places dans le monument de la station.
+- Une fin Standard ou superieure, puis Hardcore, Nightmare et Inferno.
+- Le rang S, le temps sous 2 heures, le soin unique maximum, le casier
+  d'objets interdit et le defi des trois fusibles.
+
+PERIMETRE DE LA FICHE
+
+- Les objets fixes qui comptent pour Steam ou les Records sont tous
+  repertories avec leur zone et leur fenetre de collecte.
+- Les munitions, poudres, herbes et caisses ordinaires sont indiquees quand
+  elles servent a une route difficile, un puzzle ou un raccourci. Elles ne
+  sont pas toutes comptees comme des collectibles Steam.
+- Une salle de securite signifie une machine a ecrire, un coffre d'objets,
+  ou les deux. Pour Minimalist, le coffre d'objets reste interdit.
+- Les collectibles valides par le profil restent normalement comptabilises
+  apres une mort ou un changement de partie. Pour eviter toute ambiguite,
+  la route conseillee les prend dans une seule partie de nettoyage.
+
+COMMENT LIRE LA FICHE
+
+- ROUTE : action necessaire pour progresser.
+- COLLECTIBLE : objet permanent a valider avant de quitter la zone.
+- RATABLE : fenetre qui se ferme dans la partie en cours.
+- CODE : combinaison ou reglage exact.
+- COMBAT : objectif de succes ou preparation importante.
+- POINT DE NON-RETOUR : sauvegarde avant de continuer.
+- Une zone decrit un lieu et une fenetre, jamais une scene narrative.
 
 GARDE-FOUS ABSOLUS
 
-- Premier parcours en Standard : explore, lis les fichiers, ramasse les 20
-  Charlie Dolls et garde les poudres pour les armes.
-- Sauvegarde avant chaque grand combat et avant chaque zone de fuite. Le jeu
-  est court mais ne possede pas une Selection de chapitre complete.
-- Les rangs S se font en run dediee. Utilise la boutique apres une premiere
-  fin pour reduire le nombre de parties difficiles.
-- Note les fichiers par zone et valide chaque Charlie Doll avec une attaque.
-  Le compteur global est cumulatif, mais une destruction non confirmee peut
-  etre oubliee.
-- Aucun passage ne revele une mort, une identite, une fin, un boss ou un
-  retournement narratif.
+1. Ne melange pas le nettoyage et un speedrun. La premiere partie sert a
+   explorer et a apprendre les trajets ; les runs chronometrees viennent
+   ensuite.
+2. Lis chaque fichier jusqu'a la fin. Le simple fait de ramasser une note
+   ne suffit pas toujours a valider le compteur.
+3. Detruis chaque Charlie Doll avec le couteau ou une balle, puis verifie
+   l'enregistrement dans les Records avant de quitter la zone.
+4. Ouvre les serrures dans la liste de cette fiche. Les cadenas et coffres
+   sont un compteur separe des fichiers et des Charlie Dolls.
+5. La premiere poursuite apres la sous-station est la fenetre de la piece
+   Extended Magazine. La poursuite suivante pres de Moon's Donuts est la
+   fenetre de la piece Moderator. Si Nemesis tombe, examine la mallette.
+6. Le safe de l'infirmerie de l'hopital doit etre ouvert avec Carlos avant
+   de rendre le controle a Jill. Son code est 9 gauche, 3 droite.
+7. Le safe de l'Art Storage Room est 9 gauche, 3 droite, 7 gauche. Le
+   1 et le 8 parfois affiches dans de vieux guides sont faux pour la version
+   finale de Resident Evil 3 Remake.
+8. Pour les fichiers, les zones deviennent souvent definitivement
+   inaccessibles apres un objectif de fuite. Consulte la liste de la zone
+   avant chaque porte de sortie.
+9. Pour Minimalist, ne touche jamais un coffre d'objets, meme pour ranger
+   une arme ou recuperer une cle.
+10. Pour I Might Need These Later!, ne depasse pas un seul objet de soin.
+    La route la plus sure utilise zero soin et recharge une sauvegarde en
+    cas d'erreur.
+11. Pour Sprinter et le rang S, le chronometre continue dans les menus et
+    sur la carte. Il s'arrete pendant la pause du jeu.
+12. Les objets de la boutique sont autorises pour les rangs S et les
+    difficultes superieures. Achete-les apres la premiere victoire.
+13. Fais une sauvegarde dediee avant la sous-station, l'hopital et le
+    stockage souterrain. Ne remplace pas la sauvegarde de nettoyage.
+14. Les 4 fichiers d'apprentissage qui apparaissent dans le menu Fichiers
+    ne font pas partie des 56 fichiers du succes Bookworm.
 
-MISSABLES A SECURISER
+PLAN OPTIMISE POUR LES 32 SUCCES
 
-- 20 Charlie Dolls, fichiers, poches, pieces d'armes, objets de fabrication,
-  esquives parfaites, compteurs de temps et conditions de rang.
+RUN 1 - STANDARD, NETTOYAGE COMPLET
 
-ORDRE DE PARTIE
+- Prends les 56 fichiers dans l'ordre de la route.
+- Detruis les 20 Charlie Dolls dans l'ordre de la route.
+- Ouvre les 20 serrures et prends les 6 poches.
+- Recupere les 4 armes optionnelles et les 10 pieces d'armes.
+- Place les 3 joyaux dans le monument.
+- Valide les succes de fabrication, d'inventaire, d'arme, de combat et de
+  progression qui se declenchent naturellement.
+- Fais le defi des trois fusibles dans une sauvegarde separee si necessaire.
 
-1. Standard : campagne, exploration et collectibles.
-2. Nettoyage des records et des achats de boutique.
-3. Hardcore puis Nightmare.
-4. Inferno et rang S avec les objets bonus necessaires.
+RUN 2 - STANDARD OU ASSISTED, TEMPS ET CONDITIONS
 
-DEBUT DE CAMPAGNE - CENTRE-VILLE
+- Utilise cette partie pour Sprinter, I Might Need These Later! et
+  Minimalist.
+- Ne ramasse que le necessaire, n'ouvre pas le coffre d'objets et garde un
+  seul soin maximum.
+- Assisted simplifie la route si les trois conditions sont encore manquantes.
 
-- Fouille les appartements, ruelles, magasin et zones de transition. Note les
-  fichiers, poudres, pieces et Charlie Dolls avant d'activer les objectifs.
-- Apprends la fabrication : munitions, soins et poudre speciale. Fabrique une
-  fois chaque famille et garde les composants pour les records.
-- Fais une esquive parfaite sur un ennemi lent. Recharge le point de controle
-  si l'action n'est pas reconnue.
-- Agrandis l'inventaire avec les poches et ouvre les coffres secondaires
-  avant le premier grand transport.
+RUN 3 - HARDCORE, PUIS NIGHTMARE
 
-SOUS-STATION ET EGOUTS
+- Termine d'abord Hardcore pour Veteran.
+- Termine Nightmare pour Conqueror.
+- Utilise les objets de la boutique et les armes infinies si tu les as.
+- Les emplacements d'objets peuvent changer en Nightmare : ne suis pas les
+  emplacements de la run Standard sans verifier la carte.
 
-- Releve la carte et les fichiers avant de suivre les objectifs. Les zones
-  laterales sont courtes et se nettoient mieux avant le retour.
-- Cherche la Charlie Doll dans les conduits et les hauteurs. Utilise la lampe
-  et le viseur ; elle peut etre visible depuis une autre piece.
-- Termine les enigmes, ramasse les pieces d'arme et fabrique une munition
-  speciale. Ne depense pas tous les composants sur les petits ennemis.
+RUN 4 - INFERNO, RANG S
 
-COMMISSARIAT ET ZONES DE TRANSITION
+- Termine Inferno pour Dominator.
+- Fais une run dediee au rang S d'Inferno pour Jill Valentine.
+- Vise moins de 2 heures et cinq sauvegardes ou moins.
+- La boutique, le lance-roquettes infini et les pieces defensives simplifient
+  fortement les combats obligatoires.
 
-- Dans les zones revisitees, utilise la carte pour controler les salles
-  rouges. Les fichiers et objets d'upgrade se cachent souvent dans des
-  bureaux, casiers et salles de securite.
-- Fais les actions techniques : explosion de tonneau, esquive, utilisation du
-  couteau, combinaison d'objets et destruction de Charlie Dolls.
-- Avant chaque fuite, ramasse le dernier objet visible puis sauvegarde. Les
-  sequences de course ne sont pas les bonnes fenetres pour fouiller.
+DIFFICULTES ET RANG S
 
-HOPITAL ET FIN DE CAMPAGNE
+- S Assisted : moins ou egal a 2 h 30 et cinq sauvegardes maximum.
+- S Standard : moins ou egal a 2 h et cinq sauvegardes maximum.
+- S Hardcore : moins ou egal a 1 h 45 et cinq sauvegardes maximum.
+- S Nightmare : moins ou egal a 2 h et cinq sauvegardes maximum.
+- S Inferno : moins ou egal a 2 h et cinq sauvegardes maximum.
+- Les pauses arretent le temps ; la carte et les menus d'inventaire ne
+  l'arretent pas.
+- Les armes et accessoires de la boutique n'annulent pas le rang S.
+- Ignore les combats facultatifs, les coffres ordinaires et les detours.
+- Coupe les cinematiques, connais les portes et recharge les sauvegardes
+  plutot que de perdre du temps a soigner.
 
-- Fouille les salles de patients, le poste de securite et les zones exterieures.
-  Note chaque fichier et chaque poche d'inventaire.
-- Recupere les pieces d'armes et les poudres avant la derniere preparation.
-  Fais une sauvegarde Normal complete avant de lancer la suite finale.
-- Termine la campagne, puis ouvre la boutique et depense les points dans les
-  objets qui facilitent les runs Hardcore et Inferno.
+BOUTIQUE APRES LA PREMIERE VICTOIRE
 
-COLLECTIBLES ET RECORDS
+- Priorite 1 : lance-roquettes infini pour les runs Hardcore, Nightmare et
+  Inferno.
+- Priorite 2 : coins de defense et manuel de combat pour securiser les
+  esquives et les degats.
+- Priorite 3 : poches supplementaires et armes bonus pour le confort.
+- Les bonus de boutique sont separés des 4 armes de campagne. Ils ne
+  remplacent pas le M3, le MGL, le G18 Burst ou le Lightning Hawk.
 
-- 20 Charlie Dolls : verifie les rues, le magasin, les conduits, le metro,
-  le commissariat, l'hopital et les zones finales. Une liste par sequence
-  evite de confondre deux passages.
-- Fichiers : ramasse les notes dans les bureaux et pieces de securite ; les
-  documents de campagne se cumulent dans le menu Records.
-- Armes et pieces : installe les mods puis verifie le menu avant de vendre une
-  arme. La boutique ne remplace pas les pieces de campagne.
-- Temps : le chronometre des records se valide en run dediee. Ignore les
-  combats non requis, utilise les raccourcis et recharge en cas de mort.
+ROUTE 01 - APPARTEMENT DE JILL ET PREMIER DEPART
 
-DIFFICULTES ET BOUTIQUE
+OBJECTIF DE ZONE
 
-- Hardcore : gere les poudres, les sauvegardes et les combats obligatoires.
-  Les ennemis resistent davantage : utilise les barils, esquives et objets de
-  controle plutot que les munitions lourdes.
-- Nightmare : apprends les placements et les objets de la boutique. Les
-  ennemis et objets peuvent etre rearranges : revalide la carte a chaque run.
-- Inferno : garde l'arme bonus et les accessoires autorises, sauvegarde sur
-  les machines a ruban et memorise les attaques des combats obligatoires.
-- Achats : vise les armes bonus, poches, accessoires et objets de soins selon
-  les records restants. Chaque achat est permanent dans la boutique mais les
-  points sont recuperables sur les records.
+- Fouiller l'appartement avant la sortie.
+- Lire les 4 premiers fichiers.
+- Rejoindre la premiere zone de rue et le metro.
 
-CHECKLIST STEAM FINALE - 32/32
+ROUTE
 
-[ ] Campagne Standard.
-[ ] 20/20 Charlie Dolls et fichiers.
-[ ] Fabrication, esquives, pieces d'armes et poches.
-[ ] Records de temps et actions techniques.
-[ ] Hardcore, Nightmare et Inferno.
-[ ] Boutique, armes bonus et rangs.
-[ ] Verification finale du profil Steam : 32/32.
+1. Dans l'appartement, allume la lumiere a cote du tableau d'affichage.
+2. Lis les deux documents accroches au tableau avant de bouger.
+3. Tourne a gauche vers la commode et prends le document sur le livre,
+   pres de la chaine stereo.
+4. Entre dans la cuisine et lis le document pose a cote de la boite de
+   pizza.
+5. Fais le tour de l'appartement, puis suis l'objectif de sortie.
+6. Dans la rue, ramasse l'arme de depart et les munitions visibles.
+7. Avance jusqu'au metro et lis tous les objets fixes sur le chemin.
+
+FICHIERS
+
+- Fichier 01 - Jill's Report : tableau d'affichage de l'appartement, pres
+  de l'interrupteur, lumiere allumee.
+- Fichier 02 - Investigation Notes : meme tableau, juste a cote du premier.
+- Fichier 03 - Unsealed Envelope : commode a gauche du tableau, sur le
+  livre pres de la chaine stereo.
+- Fichier 04 - Message from a Colleague : cuisine, a cote de la boite de
+  pizza.
+
+SUCCES POSSIBLES
+
+- First Escape : quitter l'immeuble de Jill.
+- Somebody to Lean On : sortir de la zone d'Uptown.
+- Basic Chemistry : fabriquer une munition ou une herbe des que deux
+  composants compatibles sont disponibles.
+
+GARDE-FOU
+
+- Ne quitte pas l'appartement sans les 4 fichiers. Ils sont tres faciles a
+  oublier car la progression peut continuer immediatement.
+
+ROUTE 02 - STATION DE METRO ET REDSTONE STREET
+
+OBJECTIF DE ZONE
+
+- Lire les fichiers 05 a 08.
+- Detruire la Charlie Doll 01.
+- Recuperer les premiers indices du monument et du quartier.
+
+ROUTE
+
+1. Apres la rencontre dans le metro, quitte le wagon.
+2. Avant de suivre le groupe, tourne-toi vers les escaliers de l'arrivee.
+3. Monte et regarde entre les deux distributeurs de journaux.
+4. Redescends ensuite vers le metro pour ne pas perdre le fil de la route.
+5. En sortant du wagon, prends le classeur pose sur le banc.
+6. En remontant les marches vers la salle de securite, lis la une du
+   journal sur le kiosque.
+7. Dans la salle de securite du metro, lis le manuel sur la table.
+8. Examine la boite rouge dans cette salle pour obtenir le premier indice
+   du monument. Ne l'utilise pas encore si ton inventaire est plein.
+
+CHARLIE DOLL
+
+- Charlie 01 : Redstone Street, avant l'entree du metro, remonte les
+  escaliers et vise l'espace entre les deux distributeurs de journaux.
+  Detruis-la avant de descendre.
+
+FICHIERS
+
+- Fichier 05 - U.B.C.S. Ammo Crafting Manual : banc devant le wagon du metro.
+- Fichier 06 - Tabloid Front Page : kiosque en haut des marches.
+- Fichier 07 - U.B.C.S. Herb Field Manual : salle de securite du metro.
+- Fichier 08 - Drugstore Owner's Journal : il sera pris dans la prochaine
+  boucle de Downtown, dans la piece au-dessus de la pharmacie.
+
+POINT DE CONTROLE
+
+- Sauvegarde dans la salle de securite avant d'entrer dans les rues.
+- Le coffre d'objets est optionnel en run de nettoyage et interdit en
+  Minimalist.
+
+ROUTE 03 - DOWNTOWN, PREMIERE BOUCLE
+
+OBJECTIF DE ZONE
+
+- Prendre la carte mentale du quartier : Moon's Donuts, Toy Uncle,
+  pharmacie, Subway Office, garage et sous-station.
+- Recuperer le tuyau d'incendie et preparer les cisailles.
+- Prendre les fichiers 08 a 14 et les premiers objets ratables.
+
+MOON'S DONUTS ET PHARMACIE
+
+1. Entre dans Moon's Donuts et regarde derriere le comptoir, entre le
+   micro-ondes et le mur.
+2. Dans la salle de securite du magasin, examine la boite fantaisie pour
+   obtenir le Joyau rouge.
+3. Depuis la rue, utilise la passerelle pres de Moon's Donuts pour monter
+   vers la piece de la pharmacie.
+4. Lis le Drugstore Owner's Journal a gauche du coffre.
+5. Ouvre le coffre de l'Art Storage Room quand tu as le code ci-dessous.
+
+CHARLIE DOLL
+
+- Charlie 02 : Moon's Donuts, derriere le comptoir, entre le micro-ondes et
+  le mur.
+- Charlie 03 : piece contenant le coffre de l'Art Storage Room, en hauteur
+  sur la droite. Regarde au-dessus de la ligne des yeux.
+
+SERRURES
+
+- Serrure 01 - coffre de l'Art Storage Room : 9 gauche, 3 droite, 7 gauche.
+  Recompense : viseur point rouge pour le G19.
+- Serrure 06 - casier de Moon's Donuts : a gauche en entrant, contient une
+  grenade a main.
+
+FICHIER
+
+- Fichier 08 - Drugstore Owner's Journal : piece au-dessus de la pharmacie,
+  accessible par la passerelle pres de Moon's Donuts, a gauche du coffre.
+
+TOY UNCLE ET JOYAUX
+
+1. Continue jusqu'a obtenir le Lock Pick dans la sous-station. Reviens
+   ensuite dans la rue principale.
+2. Ouvre la grille de Toy Uncle avec le Lock Pick.
+3. Lis le fichier accroche au mur pres de l'affiche de figurines.
+4. Detruis le Charlie Doll a cote de la statue Mega Man.
+5. Examine la boite fantaisie pour obtenir le Joyau vert.
+6. Ouvre la grille du magasin de proximite avec les Bolt Cutters.
+7. Examine la boite fantaisie a l'interieur pour obtenir le Joyau bleu.
+8. Retourne au monument dans la salle de securite de la station.
+9. Place les joyaux un par un. Les recompenses arrivent apres chaque
+   insertion : grenade, piece Tactical Stock, puis poche d'inventaire.
+
+CHARLIE DOLL ET FICHIER
+
+- Charlie 04 : Toy Uncle, juste a cote de la statue Mega Man.
+- Fichier 11 - Your Charlie Doll : Toy Uncle, poster d'affiche de
+  figurines sur le mur pres de la vitrine. Ce document est distinct de la
+  figurine.
+
+POWER STONES
+
+- Joyau rouge : boite dans la salle de securite de Moon's Donuts.
+- Joyau vert : boite dans Toy Uncle, Lock Pick necessaire.
+- Joyau bleu : boite dans le magasin de proximite, Bolt Cutters necessaires.
+- Place les trois dans le monument de la station.
+- Recompenses : grenade, Tactical Stock du M3, Hip Pouch 02.
+- Succes : Power Stones.
+
+PIECES ET OBJETS RATABLES DE DOWNTOWN
+
+- Piece 01 - Handgun Dot Sight : coffre de l'Art Storage Room, code
+  9L-3R-7L.
+- Piece 02 - Extended Magazine : premiere chute de Nemesis apres la
+  sous-station. La fenetre est la poursuite de rue qui suit le retour du
+  courant. Utilise un baril explosif ou une grenade, puis examine la
+  mallette.
+- Piece 03 - Handgun Moderator : deuxieme chute de Nemesis, apres la
+  sequence de zombies parasites, devant Moon's Donuts. Examine la seconde
+  mallette avant de continuer.
+- Piece 04 - Tactical Stock : deuxieme recompense du monument apres les
+  deux premiers joyaux.
+
+GARDE-FOU
+
+- Ne lance pas la prochaine grande poursuite sans avoir fait la premiere
+  chute de Nemesis. Les deux pieces de pistolet sont liees a la fenetre de
+  Downtown et ne sont pas des recompenses generiques.
+
+ROUTE 04 - KITE BROS RAILWAY ET GARAGE
+
+SUBWAY OFFICE
+
+1. Entre dans le batiment Kite Bros Railway par l'allee derriere Moon's
+   Donuts.
+2. Dans la premiere piece, prends le manuel pose sur la chaise devant la
+   console.
+3. Dans le bureau contenant l'arme a pompe, lis le memo sur le bureau.
+4. Ouvre le strongbox pose sur deux tiroirs metalliques.
+5. Dans la petite Supply Room, ouvre le casier pres de l'emplacement du
+   M3 et prends le spray.
+6. Prends le Fire Hose, puis suis l'objectif qui mene au garage.
+
+FICHIERS
+
+- Fichier 09 - Kite Bros. Railway Manual : premiere piece du Subway Office,
+  sur la chaise devant la console.
+- Fichier 10 - Subway Employee's Memo : bureau du Subway Office, pres du
+  casier de l'arme a pompe.
+
+SERRURES
+
+- Serrure 07 - strongbox du Subway Office : sur deux tiroirs metalliques,
+  dans la salle de controle.
+- Serrure 08 - casier de la Supply Room : pres de l'emplacement du M3,
+  contient un First Aid Spray.
+
+ARME ET SUCCES
+
+- Arme optionnelle 01 - M3 Shotgun : Subway Office, dans le râtelier
+  enchaine. Les Bolt Cutters du garage sont necessaires.
+- Succes Kendo's Armory : cette arme compte parmi les quatre armes
+  optionnelles a recuperer avec Jill.
+
+GARAGE
+
+1. Apres avoir eteint l'incendie, entre par la porte rouge avec les Bolt
+   Cutters.
+2. Prends les Bolt Cutters si ce n'est pas deja fait, puis lis le Training
+   Log a cote du corps pres de la voiture.
+3. Ouvre le casier du garage.
+4. Sors dans l'allee et tourne a droite vers le corps pour lire le suicide
+   note.
+5. Reviens a la bifurcation et prends l'autre direction. Lis la note collee
+   au mur de briques.
+
+FICHIERS
+
+- Fichier 12 - Training Log : garage, a cote du corps pres de la voiture.
+- Fichier 13 - U.B.C.S. Suicide Note : allee apres le garage, a droite a la
+  bifurcation, pres d'un corps.
+- Fichier 14 - Electrician's Notice : meme allee, a gauche a la
+  bifurcation, note collee au mur de briques.
+
+SERRURE
+
+- Serrure 04 - casier du garage : dans la piece ou se trouvent les
+  Bolt Cutters.
+
+ROUTE 05 - SOUS-STATION ELECTRIQUE
+
+OBJECTIF DE ZONE
+
+- Prendre le Lock Pick.
+- Lire les fichiers 15 a 18.
+- Detruire Charlie 06.
+- Recuperer Hip Pouch 01.
+- Alimenter les quatre panneaux et securiser les deux pieces de Nemesis.
+
+ENTREE ET SALLE DE SECURITE
+
+1. Entre dans la salle de controle de la sous-station.
+2. Lis le Fax from Substation Chief sur le bureau face a la boite rouge.
+3. Detruis Charlie 06 dans le coin oppose a la machine a ecrire et au
+   coffre d'objets.
+4. Prends Hip Pouch 01 a cote de la machine a ecrire et du coffre.
+5. Recupere le Lock Pick sur le corps pres de l'acces verrouille.
+6. Ouvre la porte a cadenas de la cloture et le casier du premier etage.
+
+FICHIERS
+
+- Fichier 15 - Fax from Substation Chief : salle de controle, bureau pres
+  de la boite d'urgence rouge.
+- Fichier 16 - Green Herbs: They Work! : bas des escaliers, a cote des
+  herbes vertes.
+- Fichier 17 - Substation Internal Memo : mur pres de la porte avec le
+  panneau Danger High Voltage.
+- Fichier 18 - Chad's Notes : plateforme en hauteur, pres de l'amas de
+  corps et du livre ouvert.
+
+SERRURES ET POCHE
+
+- Serrure 02 - porte a cadenas de la cloture : ouvre-la avec le Lock Pick.
+- Serrure 03 - casier du premier etage : ouvre-le avec le Lock Pick.
+- Hip Pouch 01 : salle de controle, pres de la machine a ecrire et du
+  coffre.
+
+ALIMENTATION
+
+1. Suis les passerelles et active les quatre panneaux electriques.
+2. Ramasse la batterie, les herbes et les munitions utiles avant de
+   revenir vers l'ascenseur.
+3. Recharge la sauvegarde si tu veux tenter la piece de temps sans
+   consommer de soin.
+
+COMBAT ET PIECE RATABLE
+
+- Nemesis Down : apres les quatre panneaux, fais tomber Nemesis pendant la
+  poursuite de rue. Une grenade, un baril explosif ou des degats lourds
+  peuvent provoquer la chute. Examine la mallette.
+- Piece 02 - Extended Magazine : mallette de la premiere chute de Downtown.
+- Succes Nemesis Down : cause Nemesis to relinquish an item.
+
+GARDE-FOU
+
+- La piece Extended Magazine est liee a cette fenetre. Ne la confonds pas
+  avec la piece Moderator de la poursuite suivante.
+
+ROUTE 06 - RETOUR DOWNTOWN ET OUVERTURE DU METRO
+
+1. Apres le retour dans les rues, ouvre les portes et les coffres encore
+   rouges sur la carte.
+2. Si la deuxieme poursuite de Nemesis se declenche pres de Moon's Donuts,
+   provoque sa chute et examine la mallette.
+3. Dans le batiment a cote de Kendo, derriere la cloture, ouvre le
+   strongbox avant de suivre la voie vers les egouts.
+4. Reviens au Subway Office quand la zone devient accessible.
+5. Utilise la console de l'itineraire.
+
+PIECE RATABLE
+
+- Piece 03 - Handgun Moderator : deuxieme mallette de Nemesis, apres la
+  sequence pres de Moon's Donuts. Cette fenetre ne se represente pas plus
+  tard dans la campagne.
+
+SERRURE
+
+- Serrure 05 - cadenas de Toy Uncle : deja ouverte avec le Lock Pick.
+- Serrure 09 - strongbox de Redstone Street Station : table large pres du
+  mur portant la carte de Raccoon City, contient des cartouches de M3.
+- Serrure 11 - strongbox du batiment pres de Kendo : entre par la zone
+  ouverte, contient des munitions explosives.
+
+PUZZLE DU METRO
+
+- Console du Subway Office, de haut en bas :
+  RE-01
+  FA-02
+  RA-03
+  SA-02
+  FO-01
+- Valide avec Enter.
+- La carte doit afficher la ligne vers Fox Park en vert.
+- Reviens a la station et monte dans le train.
+
+ROUTE 07 - EGOUTS
+
+OBJECTIF DE ZONE
+
+- Recuperer le MGL Grenade Launcher.
+- Lire les fichiers 19 a 23.
+- Detruire Charlie 07 et Charlie 08.
+- Recuperer la batterie et Hip Pouch 03.
+- Ouvrir le casier du laboratoire.
+
+ENTREE ET PREMIERE BOUCLE
+
+1. Dans la salle de securite d'entree, lis la carte des egouts si elle est
+   disponible et organise les munitions explosives.
+2. Lis Increased Sewer Security a cote de la porte verrouillee par la
+   batterie.
+3. Suis la galerie jusqu'a la bifurcation.
+4. Prends la branche vers l'Office, puis recupere le MGL Grenade Launcher
+   sur la table.
+5. Lis Invoice from Gun Shop Kendo sur l'escabeau pres du lance-grenades.
+6. Retourne-toi et lis Research Assistant's Logs sur le bureau.
+7. Dans le tunnel avant le laboratoire, traverse la fausse cascade de
+   dechets vers le cul-de-sac. Lis Sewer Worker's Notes et ramasse les
+   munitions.
+
+FICHIERS
+
+- Fichier 19 - Increased Sewer Security : mur pres de la porte de la
+  batterie, au debut des egouts.
+- Fichier 20 - Invoice from Gun Shop Kendo : Office des egouts, sur
+  l'escabeau pres du MGL.
+- Fichier 21 - Research Assistant's Logs : Office des egouts, sur le
+  bureau apres le fichier 20.
+- Fichier 22 - Sewer Worker's Notes : tunnel cache derriere la fausse
+  cascade avant le laboratoire, au bout du cul-de-sac.
+- Fichier 23 - A Love Letter? : laboratoire, sur la table pres des casiers.
+
+CHARLIE ET SERRURE
+
+- Charlie 07 : au bas de l'echelle qui descend vers le laboratoire,
+  regarde a travers les barreaux.
+- Serrure 10 - casier du laboratoire : dans la piece contenant la batterie.
+- Charlie 08 : juste apres la porte de sortie des egouts, remonte les
+  marches puis retourne-toi et regarde en hauteur.
+
+BATTERIE ET HIP POUCH
+
+1. Recupere la Battery Pack dans le laboratoire.
+2. Utilise-la sur la porte qui ouvre le raccourci.
+3. Reviens chercher la batterie, puis utilise-la sur l'acces de la Security
+   Room de l'Upper Waterway.
+4. Entre dans la Security Room et prends Hip Pouch 03 sur la table.
+5. Avant la sortie, verifie que les fichiers 19 a 23 sont lus.
+
+COMBAT
+
+- Utilise le MGL avec les munitions Flame ou Mine sur les ennemis aquatiques.
+- Garde au moins une sauvegarde avant la sortie vers le chantier.
+- Les soins ne sont pas necessaires pour une run de temps si tu esquives
+  les attaques dans les galeries.
+
+ROUTE 08 - CHANTIER DE DEMOLITION ET KENDO
+
+CHANTIER
+
+1. Avance dans le batiment du chantier en utilisant les echelles.
+2. Dans la salle de securite pres de la machine a ecrire, lis le fichier.
+3. Utilise les objets de progression, puis prepare le combat obligatoire.
+4. Sauvegarde avant la grande zone ouverte.
+
+FICHIER
+
+- Fichier 24 - Notice of Demolition Delay : chantier, a cote de la machine
+  a ecrire en montant vers le toit.
+
+COMBAT ET SUCCES
+
+- Nemesis Down? : vaincre Nemesis sur le toit du chantier.
+- Utilise les generateurs pour creer des ouvertures, garde la distance et
+  vise les points vulnerables visibles.
+- Le succes se declenche a la fin du combat obligatoire.
+
+KENDO'S GUN SHOP ET MAISON
+
+1. Apres le combat, examine les etageres pres de la porte de Kendo.
+2. Recupere la piece Semi-Auto Barrel du M3.
+3. Traverse la maison derriere le magasin.
+4. Dans la maison, detruis Charlie 09 des que tu entres.
+5. Monte a l'etage et lis le journal plie sur le lit.
+6. Fouille la petite zone pres de la cloture et verifie le strongbox 11 si
+   tu ne l'as pas encore ouvert.
+
+COLLECTIBLES
+
+- Piece 05 - Semi-Auto Barrel : Kendo's Gun Shop, etageres pres de la
+  porte d'entree.
+- Charlie 09 : maison a traverser apres Kendo, immediatement a l'entree.
+- Fichier 25 - Raccoon Times Reader's Column : etage de la maison,
+  journal pose sur le lit.
+
+POINT DE NON-RETOUR
+
+- Apres la sortie de la maison, Carlos prend la suite. Verifie les
+  fichiers, les serrures, les pieces et les Charlie Dolls de Downtown avant
+  de franchir ce passage.
+
+ROUTE 09 - COMMISSARIAT AVEC CARLOS
+
+OBJECTIF DE ZONE
+
+- Lire les fichiers 26 a 32.
+- Detruire Charlie 10 et Charlie 11.
+- Ouvrir les trois serrures du commissariat.
+- Recuperer le S.T.A.R.S. ID et la piece AR Scope.
+- Sortir du commissariat pour The Carlos Express.
+
+EXTERIEUR
+
+1. Avant l'entree du commissariat, descends les escaliers.
+2. Traverse le tunnel vers la facade et detruis Charlie 10 pres des plantes.
+3. Dans la piece en bas des escaliers, lis Email Outbox sur le bureau.
+4. Rejoins la grille puis lis ID Card Security Protocols sur le banc.
+5. Si tu veux An Unfortunate End, elimine le zombie Brad avant de continuer
+   et recupere la carte S.T.A.R.S.
+
+SUCCES
+
+- An Unfortunate End : vaincre le zombie Brad.
+- La carte S.T.A.R.S. ouvre le coffre contenant la piece AR Scope.
+
+FICHIERS
+
+- Fichier 26 - Email Outbox : piece du Night Watchman, en bas des
+  escaliers devant le commissariat.
+- Fichier 27 - ID Card Security Protocols : banc juste apres la grille
+  ouest.
+
+WEST OFFICE ET DARKROOM
+
+1. Entre dans le West Office et lis le Sept. 20 Arrest Report sur le bureau
+   avec la plaque de Marvin.
+2. Ouvre le coffre du petit bureau.
+3. Prends Hip Pouch 04 dans le coffre : 9 gauche, 15 droite, 7 gauche.
+4. Ouvre le coffre S.T.A.R.S. avec la carte de Brad et prends l'AR Scope.
+5. Entre dans la Darkroom et lis Internal Memo a cote de la machine a
+   ecrire.
+
+FICHIERS
+
+- Fichier 28 - Sept. 20 Arrest Report : West Office, bureau avec la plaque
+  Marvin.
+- Fichier 29 - Internal Memo : Darkroom, table pres de la machine a ecrire.
+
+SERRURE ET PIECES
+
+- Serrure 12 - safe du West Office : 9L-15R-7L, Hip Pouch 04.
+- Piece 06 - AR Scope du CQBR : coffre S.T.A.R.S. du West Office, carte
+  S.T.A.R.S. necessaire.
+
+SAFETY DEPOSIT ROOM ET 3F
+
+1. Dans le Safety Deposit Room, lis le document 3F Locker sur le tableau
+   blanc.
+2. Detruis Charlie 11 au sommet de l'armoire dans le coin nord-ouest.
+3. Prends la cle et les objets de progression necessaires.
+4. Monte au 3F et ouvre le casier avec le code DCM.
+5. Descends ensuite vers la Shower Room du 2F et ouvre le casier avec le
+   code CAP.
+6. Dans la S.T.A.R.S. Office, lis le Report on the Mansion Incident sur
+   le bureau de Wesker.
+
+FICHIERS
+
+- Fichier 30 - Note to a Friend : Shower Room du 2F, banc pres du panier.
+- Fichier 31 - 3F Locker : Safety Deposit Room, tableau blanc.
+- Fichier 32 - Report on the Mansion Incident : S.T.A.R.S. Office, petit
+  bureau pres de la porte.
+
+SERRURES
+
+- Serrure 13 - casier du 3F : code DCM, munitions de fusil.
+- Serrure 14 - casier de la Shower Room du 2F : code CAP, grenade aveuglante.
+
+SORTIE
+
+- The Carlos Express : quitter le commissariat apres l'objectif obligatoire.
+- Sauvegarde dans la prochaine salle avant de poursuivre Jill.
+
+ROUTE 10 - TUNNELS DU METRO ET CLOCK TOWER PLAZA
+
+OBJECTIF DE ZONE
+
+- Lire les fichiers 33 et 34.
+- Detruire Charlie 12 et Charlie 13.
+- Quitter la Clock Tower Plaza pour I Don't Feel So Good.
+
+TUNNELS
+
+1. Dans la premiere salle de securite, lis U.B.C.S. New Weaponry Notice.
+2. Quitte la salle et entre dans la zone des couchettes.
+3. Dans la deuxieme chambre a droite, detruis Charlie 12. Ne tire pas a
+   l'aveugle avec une mine avant de l'avoir repere.
+4. Suis la galerie vers la place.
+
+FICHIER ET CHARLIE
+
+- Fichier 33 - U.B.C.S. New Weaponry Notice : salle de securite, banc
+  entre les Mine Rounds et le First Aid Spray.
+- Charlie 12 : zone des couchettes, deuxieme chambre a droite apres la
+  premiere salle de securite.
+- Fichier 34 - Clock Tower Brochure : Clock Tower Plaza, sur l'un des deux
+  bancs rouges pres de la riviere.
+- Charlie 13 : Clock Tower Plaza, cote arriere droit du van vert avant le
+  pont.
+
+COMBAT DE LA PLACE
+
+- Prepare les Mine Rounds ou les munitions du MGL.
+- Pose les mines sur les trajectoires visibles et utilise les ouvertures
+  pour infliger des degats.
+- I Don't Feel So Good : quitter la Clock Tower Plaza apres le combat
+  obligatoire.
+
+POINT DE NON-RETOUR
+
+- Avant de quitter la place, lis le fichier et detruis Charlie 13.
+- Les fichiers et la figurine ne sont pas recuperables dans la meme
+  fenetre une fois la route de l'hopital lancee.
+
+ROUTE 11 - HOPITAL AVEC CARLOS
+
+OBJECTIF DE ZONE
+
+- Lire les fichiers 35 a 43.
+- Detruire Charlie 14, 15 et 16.
+- Ouvrir les serrures 15 a 20.
+- Recuperer les pieces AR et le Hip Pouch du siege.
+- Valider I Need a Hero.
+
+RECEPTION
+
+1. Dans la reception, prends le Spencer Memorial Pamphlet sur le presentoir
+   pres de la porte a cadenas.
+2. Lis Nurse's Journal: Sept. 25 sur le bureau de reception.
+3. Ouvre la porte a cadenas quand la progression le permet.
+4. Dans le couloir juste apres Reception, detruis Charlie 14 sur le lit.
+5. Fais une sauvegarde avant la montee vers les salles du deuxieme etage.
+
+FICHIERS
+
+- Fichier 35 - Spencer Memorial Pamphlet : presentoir de la reception, pres
+  de la porte a cadenas.
+- Fichier 36 - Nurse's Journal: Sept. 25 : bureau de reception, classeur
+  ouvert sur la droite.
+
+SERRURES
+
+- Serrure 16 - porte a cadenas de la reception : ouvre-la pendant la
+  progression de Carlos.
+
+ETAGE, STAFF ROOM ET NURSES' STATION
+
+1. Dans la Records Room du 2F, lis Nurse's Journal: Sept. 27 sur l'etagere.
+2. Dans la Nurses' Station, lis Note about a Tape Recording derriere le
+   comptoir, pres du safe.
+3. Dans la Staff Room, lis Nurse's Journal: Sept. 29 sur le bureau.
+4. Lis Memos from Administration sur le mur pres de la porte du vestiaire.
+5. Ouvre le casier du Staff Room.
+6. Ouvre le Linen Room du 2F et son casier.
+7. Descends vers l'Operating Room avec la carte d'hopital.
+
+FICHIERS
+
+- Fichier 37 - Nurse's Journal: Sept. 27 : Records Room du 2F, etagere.
+- Fichier 38 - Nurse's Journal: Sept. 29 : Staff Room du 2F, bureau pres
+  des ordinateurs.
+- Fichier 39 - Memos from Administration : Staff Room, mur pres de la
+  porte du vestiaire.
+- Fichier 40 - Note about a Tape Recording : Nurses' Station du 2F,
+  derriere le comptoir, pres du safe.
+
+SERRURES
+
+- Serrure 15 - safe de la Nurses' Station : 9 gauche, 3 droite. A ouvrir
+  avec Carlos avant le retour de Jill. Recompense : Dual Mag du CQBR.
+- Serrure 19 - casier du Staff Room du 2F : contient des cartouches de M3.
+- Serrure 20 - casier du Linen Room du 2F : contient des munitions de MAG.
+
+OPERATING ROOM ET COURTYARD
+
+1. Utilise l'Hospital ID pour entrer dans l'Operating Room.
+2. Lis Re: Lost Items sur le chariot pres de la table d'operation.
+3. Utilise le code de ce document dans le safe de la Nurses' Station si
+   tu ne l'as pas deja ouvert.
+4. Depuis le 2F, passe par les fenetres brisees vers la Courtyard.
+5. Recupere la piece Tactical Grip dans le coffre de la Courtyard.
+6. Dans l'aire d'urgence du 1F, ouvre le strongbox sur le chariot.
+7. Ouvre le casier de l'Emergency Entrance.
+
+FICHIER
+
+- Fichier 41 - Re: Lost Items : Operating Room du 1F, derriere le chariot
+  central, accessible avec l'Hospital ID.
+
+PIECE ET SERRURES
+
+- Piece 07 - Tactical Grip du CQBR : Courtyard de l'hopital, apres les
+  fenetres brisees du 2F, coffre pres de l'herbe verte.
+- Serrure 17 - strongbox du 1F : chariot dans le couloir de gauche depuis
+  la reception, contient des munitions de MAG.
+- Serrure 18 - casier de l'Emergency Entrance du 1F : contient des
+  munitions explosives.
+
+SIEGE ET FICHIERS FINAUX DE CARLOS
+
+1. Prepare une arme de controle et garde les munitions pour la defense.
+2. Pendant le siege, fouille la petite piece derriere le comptoir de la
+   reception et prends Hip Pouch 05.
+3. Tiens la position jusqu'a la fin de l'objectif.
+4. I Need a Hero : withstand the zombie siege.
+5. Dans le Private Lab, lis Banquet Invitation a cote du corps.
+6. Examine le PC de la salle pour valider Email from Nathaniel Bard.
+7. Lis tous les documents avant de rendre le controle a Jill.
+
+FICHIERS
+
+- Fichier 42 - Banquet Invitation : Private Lab, a cote du bureau et du
+  corps.
+- Fichier 43 - Email from Nathaniel Bard : PC du Private Lab, progression
+  obligatoire.
+
+POCHE
+
+- Hip Pouch 05 : petite piece derriere le comptoir de la reception pendant
+  le siege de Carlos. Elle est facile a manquer en courant vers la defense.
+
+ROUTE 12 - HOPITAL AVEC JILL
+
+OBJECTIF DE ZONE
+
+- Recuperer les deux armes optionnelles de Jill de l'hopital.
+- Detruire Charlie 17.
+- Verifier les derniers fichiers de l'hopital si un document de Carlos a
+  ete rate.
+
+DEBUT ET G18 BURST
+
+1. Apres le changement de controle, fouille la Makeshift Sickroom.
+2. Prends le G18 Handgun Burst Model sur le comptoir a gauche des portes.
+3. Ouvre l'acces vers le garage.
+4. Avant de descendre vers le stockage souterrain, detruis Charlie 17 sur
+   le forklift.
+
+ARME OPTIONNELLE
+
+- Arme optionnelle 02 - G18 Handgun Burst Model : Makeshift Sickroom,
+  comptoir pres de la sortie.
+- Cette arme compte pour Kendo's Armory et doit etre prise avec Jill.
+
+CHARLIE DOLL
+
+- Charlie 17 : garage de l'hopital, pose sur le forklift juste avant
+  l'acces aux niveaux souterrains.
+
+LIGHTNING HAWK
+
+1. Remonte au 2F de l'hopital avant de prendre l'ascenseur vers le bas.
+2. Depuis le couloir de la Nurses' Station, rampe sous les debris et
+   franchis la fenetre brisee.
+3. Descends dans la Courtyard.
+4. Ouvre la mallette et prends le .44 AE Lightning Hawk.
+5. Si la piece Tactical Grip n'a pas ete prise par Carlos, verifie aussi le
+   coffre de la Courtyard.
+
+ARME ET PIECE
+
+- Arme optionnelle 03 - .44 AE Lightning Hawk : Courtyard de l'hopital,
+  accessible par le passage sous les debris du 2F.
+- Piece 08 - Tactical Grip du CQBR : coffre de la Courtyard, deja ouvert
+  par Carlos ou recuperable par Jill selon la fenetre.
+
+GARDE-FOU
+
+- Le Lightning Hawk est le plus facile des quatre armes optionnelles a
+  oublier. Il est dans la Courtyard et non dans la derniere zone du jeu.
+
+ROUTE 13 - STOCKAGE SOUTERRAIN
+
+OBJECTIF DE ZONE
+
+- Lire les fichiers 44 a 46.
+- Detruire Charlie 18.
+- Recuperer Hip Pouch 06.
+- Prendre les pieces Shell Holder et Extended Magazine du Lightning Hawk.
+- Reussir Electric Slide avec les trois fusibles.
+- Suivre l'objectif vers NEST 2.
+
+OFFICE ET PREMIERS COLLECTIBLES
+
+1. Apres le grand ascenseur, entre dans l'Office de la zone.
+2. Lis Elevator Notice a cote de la machine a ecrire.
+3. Prends Hip Pouch 06 sur le meuble blanc de la salle de securite.
+4. Dans l'entrepot, apres le passage entre les etageres, regarde l'unite
+   de rangement sur la droite et detruis Charlie 18.
+5. Dans la petite salle de stockage au sud de l'Office, lis Employee Memo
+   sur la pile de caisses.
+
+FICHIERS
+
+- Fichier 44 - Elevator Notice : Office, a cote de la machine a ecrire.
+- Fichier 45 - Employee Memo : petite salle de stockage au sud de l'Office,
+  sur les caisses pendant la recherche des fusibles.
+- Fichier 46 - Unfinished Activity Log : Warehouse Control Room, ecran
+  lumineux de la console apres l'ascenseur.
+
+POCHE ET CHARLIE
+
+- Hip Pouch 06 : Office, salle de securite, sur le meuble blanc pres de la
+  machine a ecrire.
+- Charlie 18 : entrepot, apres le passage entre les etageres, sur l'unite
+  de rangement a droite.
+
+ELECTRIC SLIDE - ROUTE DES TROIS FUSIBLES
+
+PREPARATION
+
+- Fais une sauvegarde dans l'Office.
+- Equipe le Magnum, le MGL ou le fusil selon tes munitions.
+- Le chronometre commence quand le boitier provoque la coupure et que la
+  salle plonge dans le noir, pas quand tu entres dans l'entrepot.
+- Tu peux ignorer les ennemis qui ne bloquent pas le chemin.
+
+FUSIBLE 01
+
+1. Apres la coupure, pars de l'ascenseur et reviens vers le pont.
+2. Elimine ou esquive le Pale Head sur la passerelle.
+3. Active le panneau pour faire descendre la plateforme.
+4. Monte sur la plateforme, puis utilise le panneau de commande.
+5. En haut, prends le fusible sur le generateur rouge.
+
+FUSIBLE 02
+
+1. Depuis le generateur 01, descends par l'echelle.
+2. Traverse la zone des chiens en utilisant les containers comme couvert.
+3. Passe entre les deux etageres quand la voie directe est bloquee.
+4. Monte l'escalier, puis reviens vers le pont lateral.
+5. Active le panneau pour relever la plateforme.
+6. Traverse, descends l'echelle et avance jusqu'au generateur pres des
+   containers.
+7. Laisse les zombies sortir si necessaire, puis prends le fusible.
+
+FUSIBLE 03
+
+1. Reviens vers l'echelle et remonte sur la plateforme.
+2. Entre par la porte ignoree lors du premier passage.
+3. Dans la piece suivante, prends la porte de gauche vers le couloir
+   borde de containers.
+4. Esquive ou bats le Hunter Beta, puis prends le dernier fusible sur le
+   generateur.
+
+RETOUR AU BOITIER
+
+1. Reviens dans la piece avec les trois zombies et la porte de la salle
+   de securite.
+2. Ouvre le raccourci vers l'Office.
+3. Traverse les doubles portes et le pont.
+4. Elimine rapidement les zombies contamines pres de l'ascenseur.
+5. Insere les trois fusibles dans le boitier.
+6. Prends l'ascenseur avant la fin des cinq minutes.
+- Succes : Electric Slide.
+
+PIECES D'ARMES
+
+- Piece 09 - Shell Holder du M3 : zone de stockage, pres de l'escalier
+  apres les fusibles. Active l'interrupteur au niveau du sol pour abaisser
+  le lift, puis ouvre la caisse dans la zone assombrie.
+- Piece 10 - Extended Magazine du Lightning Hawk : Control Room apres les
+  fusibles, derriere la rangee d'ordinateurs pres de la grande fenetre.
+
+SUCCES
+
+- The Pursuer : suivre l'objectif qui mene plus profondement sous terre.
+- Electric Slide : recuperer les trois fusibles et les inserer en moins
+  de cinq minutes.
+
+ROUTE 14 - NEST 2, ENTREE ET PREMIER ETAGE
+
+OBJECTIF DE ZONE
+
+- Lire les fichiers 47, 48 et 50.
+- Detruire Charlie 19 et Charlie 20.
+- Recuperer l'Override Key, l'Adjuvant Sample et l'Antigen Sample.
+- Ouvrir toutes les portes de NEST 2 avant le retour final.
+
+ENTREE ET STOCKAGE
+
+1. Entre dans NEST 2 et prends le chemin sud vers la salle de stockage.
+2. Lis NEST 2 Employee Regulations sur le bureau.
+3. Le meme ramassage fournit la carte de la zone ; conserve-la.
+4. Monte au 2F, prends le passage sud puis tourne a gauche vers le
+   cul-de-sac.
+5. Elimine le zombie qui se releve et lis Isaac Graves' Diary sous son
+   emplacement.
+
+FICHIERS
+
+- Fichier 47 - NEST 2 Employee Regulations : salle Storage de l'entree,
+  bureau de la salle de securite.
+- Fichier 48 - Isaac Graves' Diary : 2F, passage sud-ouest en cul-de-sac,
+  sous le corps du zombie.
+
+VACCINE EQUIPMENT ROOM
+
+1. Rejoins la Vaccine Equipment Room.
+2. Detruis Charlie 19 sur le balcon pres de la machine qui fournit
+   l'Override Key.
+3. Prends l'Override Key et lis les documents des bureaux.
+4. Utilise la cle sur la porte de la salle de securite qui ouvre l'escalier
+   vers les laboratoires.
+5. Dans Lab 1, entre dans le couloir isole a l'ouest et detruis Charlie 20.
+
+CHARLIE DOLLS
+
+- Charlie 19 : Vaccine Equipment Room, balcon pres de la machine de
+  l'Override Key.
+- Charlie 20 : couloir superieur de NEST 2, porte ouest de Lab 1, apres
+  avoir recupere l'Override Key.
+
+ROUTE 15 - NEST 2, SAMPLES ET DOCUMENTS
+
+ADJUVANT SAMPLE
+
+1. Dans la zone 2F, repere le meuble ou la lumiere verte signale le
+   composant.
+2. Prends l'Adjuvant Sample.
+3. Lis Expression of Concern dans la meme zone de laboratoire ou pres du
+   poste contenant l'echantillon.
+4. Retourne vers la machine de synthese sans lancer le puzzle trop tot.
+
+Fichier
+
+- Fichier 52 - Expression of Concern : laboratoire du 2F, pres de la zone
+  ou se trouve l'Adjuvant Sample.
+
+ANTIGEN SAMPLE
+
+1. Rejoins Lab 1 et prends l'Antigen Sample sur le bureau pres du
+   manipulateur.
+2. Lis Weaponry Authorization Request sur le meme bureau.
+3. Combine Adjuvant Sample et Antigen Sample pour obtenir le Vaccine Base.
+
+Fichier
+
+- Fichier 51 - Weaponry Authorization Request : Lab 1, bureau pres du
+  manipulateur et de l'Antigen Sample.
+
+ESSAI SUR LE VACCIN
+
+1. Dans la salle du synthesizer, lis Essay on Vaccine Synthesis sur la
+   table capitonnee.
+2. Place le Vaccine Base dans la machine.
+3. Regle les trois commandes de gauche a droite :
+   MID - HIGH - LOW.
+4. Valide quand les trois valeurs affichent 50 %.
+5. Recupere le Vaccine.
+
+Fichier
+
+- Fichier 49 - Essay on Vaccine Synthesis : salle du Vaccine Synthesizer,
+  sur une table capitonnee pres de la machine.
+
+PREMIER ETAGE ET SHIPPING NOTICE
+
+1. Utilise l'Override Key sur la porte du couloir de la salle de securite.
+2. Descends vers la salle de stockage des corps.
+3. Lis Shipping Notice sur la table roulante au pied de l'escalier.
+4. Dans la piece verrouillee donnant sur la Machinery Room, cherche le
+   cadavre dans le coin et lis Scientist's Dying Message.
+
+FICHIERS
+
+- Fichier 50 - Shipping Notice : salle de stockage des corps, table
+  roulante au pied de l'escalier.
+- Fichier 53 - Scientist's Dying Message : zone de la Machinery Room,
+  pres du corps au balcon et de la porte du local verrouille.
+
+GARDE-FOU
+
+- Les fichiers 49 a 53 sont repartis entre le synthesizer, Lab 1, le
+  couloir de l'Override Key et la Machinery Room. Ne quitte pas NEST 2 en
+  pensant que les documents sont tous dans une seule salle.
+
+ROUTE 16 - VACCIN, FIN DE NEST 2 ET DERNIERS DOCUMENTS
+
+1. Apres avoir recupere le Vaccine, passe par la porte de securite lourde.
+2. Dans la salle de repos situee apres la fuite, lis Disposal Center sur
+   le mur a cote de la porte.
+3. Entre dans le Staff Break Room et lis Weapon Spec Sheet dans le livre
+   vert de la troisieme etagere.
+4. Poursuis jusqu'au dernier combat obligatoire.
+5. Une fois la zone de combat terminee, monte l'echelle vers le balcon.
+6. A gauche de la porte de sortie, lis Suspicious Contract Memo au sol.
+7. Verifie le compteur des fichiers avant la fin de la partie.
+
+FICHIERS
+
+- Fichier 54 - Disposal Center : salle de securite apres la recuperation
+  du Vaccine, sur le mur pres de la porte lourde.
+- Fichier 55 - Weapon Spec Sheet : Staff Break Room, livre vert sur la
+  troisieme etagere de la bibliotheque metallique.
+- Fichier 56 - Suspicious Contract Memo : balcon apres le dernier combat,
+  au sol a gauche de la porte de sortie.
+
+SUCCES DE COMBAT
+
+- Nemesis Down!? : vaincre la deuxieme forme de Nemesis dans NEST 2.
+- Nemesis Down!!! : vaincre la troisieme forme de Nemesis.
+- Ne depense pas toutes les munitions lourdes sur les ennemis secondaires.
+- Utilise les panneaux rouges et les installations de l'arene quand ils
+  deviennent accessibles.
+
+POINT DE FIN DE PARTIE
+
+- Avant de franchir la derniere porte, verifie :
+  56 fichiers lus ;
+  20 Charlie Dolls detruits ;
+  20 serrures ouvertes ;
+  4 armes optionnelles de Jill ;
+  10 pieces d'armes ;
+  6 poches ;
+  3 joyaux places.
+
+INDEX CHRONOLOGIQUE DES 20 CHARLIE DOLLS
+
+01. Redstone Street, entre les deux distributeurs de journaux avant le metro.
+02. Moon's Donuts, derriere le comptoir.
+03. Piece du coffre de l'Art Storage Room, en hauteur a droite.
+04. Toy Uncle, a cote de la statue Mega Man.
+05. Subway Control, sous les bureaux du premier couloir.
+06. Substation, salle de securite, coin oppose au coffre.
+07. Egouts, a travers les barreaux au bas de l'echelle du laboratoire.
+08. Sortie des egouts, en hauteur dans l'escalier apres la porte.
+09. Maison apres le chantier, immediatement a l'entree.
+10. Exterieur du commissariat, pres des plantes de la facade.
+11. Safety Deposit Room, sommet de l'armoire nord-ouest.
+12. Tunnels du metro, deuxieme chambre a droite dans la zone des couchettes.
+13. Clock Tower Plaza, cote arriere droit du van vert.
+14. Hopital, couloir juste apres Reception, sur un lit.
+15. Hopital, toit, pres du haut des escaliers.
+16. Hopital, Sickroom, dans la poubelle pres de la porte sud.
+17. Hopital Jill, garage, sur le forklift.
+18. Underground Storage, apres les etageres, rangement a droite.
+19. NEST 2, Vaccine Equipment Room, balcon de l'Override Key.
+20. NEST 2, couloir ouest de Lab 1 apres l'Override Key.
+
+INDEX DES 20 SERRURES ET RECOMPENSES
+
+01. Art Storage Room safe : 9L-3R-7L, Handgun Dot Sight.
+02. Substation, porte a cadenas de la cloture : acces aux herbes.
+03. Substation, casier du premier etage : munitions.
+04. Garage, casier de la salle des Bolt Cutters : munitions.
+05. Toy Uncle, cadenas de la grille : acces au Joyau vert et a Charlie 04.
+06. Moon's Donuts, casier d'entree : grenade a main.
+07. Subway Office, strongbox sur tiroirs : munitions.
+08. Subway Office, casier de la Supply Room : First Aid Spray.
+09. Redstone Street Station, strongbox pres de la carte : cartouches de M3.
+10. Sewers Lab, casier de la piece de la batterie : munitions explosives.
+11. Batiment pres de Kendo, strongbox derriere la cloture : munitions explosives.
+12. RPD West Office safe : 9L-15R-7L, Hip Pouch 04.
+13. RPD 3F locker : DCM, munitions de CQBR.
+14. RPD Shower Room 2F locker : CAP, grenade aveuglante.
+15. Hospital Nurses' Station safe : 9L-3R, Dual Mag du CQBR.
+16. Hospital Reception, porte a cadenas : acces a la zone laterale.
+17. Hospital 1F, strongbox sur chariot : munitions de MAG.
+18. Hospital Emergency Entrance, casier : munitions explosives.
+19. Hospital Staff Room 2F, casier : cartouches de M3.
+20. Hospital Linen Room 2F, casier : munitions de MAG.
+
+INDEX DES 4 ARMES OPTIONNELLES DE KENDO'S ARMORY
+
+01. M3 Shotgun : Subway Office, râtelier enchaine, Bolt Cutters necessaires.
+02. MGL Grenade Launcher : Sewers Office, table de la salle sud.
+03. G18 Handgun Burst Model : Hospital Makeshift Sickroom, comptoir.
+04. .44 AE Lightning Hawk : Hospital Courtyard, passage du 2F.
+
+INDEX DES 10 PIECES D'ARMES
+
+01. Handgun Dot Sight : Art Storage Room safe, 9L-3R-7L.
+02. Handgun Extended Magazine : premiere chute de Nemesis a Downtown.
+03. Handgun Moderator : deuxieme chute de Nemesis pres de Moon's Donuts.
+04. M3 Tactical Stock : monument apres deux joyaux.
+05. M3 Semi-Auto Barrel : Kendo's Gun Shop, etageres pres de la porte.
+06. CQBR AR Scope : coffre S.T.A.R.S. du West Office avec l'ID de Brad.
+07. CQBR Tactical Grip : Courtyard de l'hopital, coffre sous les fenetres.
+08. CQBR Dual Mag : safe Nurses' Station de Carlos, 9L-3R.
+09. M3 Shell Holder : Underground Storage, coffre pres de l'escalier.
+10. Lightning Hawk Extended Magazine : Control Room, derriere les ordinateurs.
+
+INDEX DES 6 POCHES D'INVENTAIRE
+
+01. Substation, salle de controle pres de la machine a ecrire.
+02. Monument de la station, apres insertion des trois joyaux.
+03. Sewers Security Room, apres utilisation et recuperation de la batterie.
+04. RPD West Office safe, 9L-15R-7L.
+05. Hospital Lobby 1F, petite piece derriere le comptoir pendant le siege.
+06. Underground Storage Office, meuble blanc de la salle de securite.
+
+SUCCES STEAM - CONDITIONS ET FENETRES
+
+01. First Escape : sortir de l'immeuble de Jill.
+02. Somebody to Lean On : sortir d'Uptown Raccoon City.
+03. Basic Chemistry : fabriquer un objet.
+04. Get Organized : agrandir l'inventaire avec une poche.
+05. Gunsmith : installer une piece sur une arme.
+06. Hello, Charlie! : detruire une Charlie Doll.
+07. Nemesis Down? : provoquer la chute de Nemesis et recuperer une mallette.
+08. Escape from the City : sortir de Downtown Raccoon City.
+09. The Carlos Express : quitter le commissariat avec Carlos.
+10. Two For One Deal : vaincre deux ennemis avec un seul tir.
+11. I Don't Feel So Good : quitter la Clock Tower Plaza.
+12. An Unfortunate End : vaincre le zombie Brad.
+13. I Need a Hero : survivre au siege de l'hopital.
+14. The Pursuer : suivre l'objectif qui mene plus profondement sous terre.
+15. Nemesis Down!? : vaincre la deuxieme forme de Nemesis.
+16. Nemesis Down!!! : vaincre la troisieme forme de Nemesis.
+17. Nemesis Down : faire abandonner un objet a Nemesis.
+18. Survivor : terminer en Standard ou superieur.
+19. Kendo's Armory : collecter les quatre armes optionnelles de la campagne.
+20. Power Stones : placer les trois joyaux dans le monument.
+21. RE: Master of Unlocking : ouvrir les 20 serrures repertoriees.
+22. Veteran : terminer en Hardcore ou superieur.
+23. Sprinter : terminer en moins de deux heures.
+24. I Might Need These Later! : terminer avec un seul soin ou moins.
+25. Electric Slide : prendre les trois fusibles en moins de cinq minutes.
+26. Sensational Work! : terminer avec un rang S.
+27. Conqueror : terminer en Nightmare ou superieur.
+28. Bookworm : lire les 56 fichiers.
+29. Minimalist : terminer sans ouvrir le coffre d'objets.
+30. Goodbye, Charlie! : detruire les 20 Charlie Dolls.
+31. Dominator : terminer en Inferno.
+32. Jill Valentine : terminer Inferno avec un rang S.
+
+TWO FOR ONE DEAL - METHODE FIABLE
+
+- Fais-le dans une zone ou deux ennemis sont alignes et ou tu peux
+  recharger sans perdre la progression.
+- Une cartouche de fusil ou un tir explosif peut toucher deux cibles.
+- Les ennemis affaiblis par un baril explosif peuvent compter si le tir
+  final touche les deux cibles.
+- Verifie le succes avant de poursuivre la run de temps.
+
+MINIMALIST - ROUTE SURE
+
+- Lance une partie Assisted ou Standard dediee.
+- Ne touche aucun coffre d'objets, meme si l'interface propose d'y entrer.
+- Garde seulement les armes et les objets necessaires dans l'inventaire.
+- Les poches et la place de depart suffisent si tu jettes les objets
+  devenus inutiles apres verification.
+- Termine la campagne et attends l'ecran de resultat avant de consulter le
+  coffre.
+
+I MIGHT NEED THESE LATER! - ROUTE SURE
+
+- Fais une sauvegarde avant chaque combat important.
+- N'utilise aucun soin dans la route recommandee.
+- Les soins poses au sol peuvent etre ignores ; ramasser un soin ne le
+  consomme pas.
+- Si Jill ou Carlos utilise un soin par erreur, recharge la sauvegarde
+  precedente.
+- Les objets de soin de la boutique ne doivent pas etre consommes.
+
+SPRINTER ET SENSATIONAL WORK
+
+- Utilise Assisted pour apprendre le trajet sous deux heures.
+- Passe les fichiers, les Charlie Dolls et les coffres facultatifs dans une
+  autre partie.
+- Coupe les detours, connais a l'avance le code du metro et le puzzle du
+  vaccin.
+- Pour le rang S, limite les sauvegardes a cinq et reviens au dernier point
+  propre plutot que de gaspiller du temps en combat.
+
+CONTROLE PRE-CHECKLIST - ETAT DU PROFIL
+
+- Dans le menu Steam : 32 succes Resident Evil 3.
+- Dans Records : Bookworm, Goodbye Charlie, Kendo's Armory et RE: Master
+  of Unlocking valides.
+- Dans le menu Fichiers : 56 documents lus.
+- Dans le menu Records : 20 Charlie Dolls detruits.
+- Dans la carte de la campagne : toutes les serrures fixes ouvertes.
+- Dans l'inventaire ou les Records : 4 armes optionnelles et 10 pieces.
+- Dans l'inventaire : six poches de campagne.
+- Dans la station : trois joyaux places et Power Stones valide.
+- Les quatre difficultes et les conditions de temps sont confirmees par
+  les ecrans de fin, pas seulement par une sauvegarde.
+
+CHECKLIST FINALE - 32 SUCCES STEAM
+
+[ ] 01 - First Escape
+[ ] 02 - Somebody to Lean On
+[ ] 03 - Basic Chemistry
+[ ] 04 - Get Organized
+[ ] 05 - Gunsmith
+[ ] 06 - Hello, Charlie!
+[ ] 07 - Nemesis Down?
+[ ] 08 - Escape from the City
+[ ] 09 - The Carlos Express
+[ ] 10 - Two For One Deal
+[ ] 11 - I Don't Feel So Good
+[ ] 12 - An Unfortunate End
+[ ] 13 - I Need a Hero
+[ ] 14 - The Pursuer
+[ ] 15 - Nemesis Down!?
+[ ] 16 - Nemesis Down!!!
+[ ] 17 - Nemesis Down
+[ ] 18 - Survivor
+[ ] 19 - Kendo's Armory
+[ ] 20 - Power Stones
+[ ] 21 - RE: Master of Unlocking
+[ ] 22 - Veteran
+[ ] 23 - Sprinter
+[ ] 24 - I Might Need These Later!
+[ ] 25 - Electric Slide
+[ ] 26 - Sensational Work!
+[ ] 27 - Conqueror
+[ ] 28 - Bookworm
+[ ] 29 - Minimalist
+[ ] 30 - Goodbye, Charlie!
+[ ] 31 - Dominator
+[ ] 32 - Jill Valentine
+
+VERIFICATION FINALE AVANT DE CONSIDERER LE JEU A 100 %
+
+- Tous les succes sont visibles sur le profil Steam.
+- Les 56 fichiers, 20 Charlie Dolls, 20 serrures, 4 armes optionnelles,
+  10 pieces, 6 poches et 3 joyaux sont valides.
+- Les runs Standard, Hardcore, Nightmare et Inferno sont terminees.
+- Le rang S Inferno et Jill Valentine sont valides.
 
 REGLE ANTI-SPOILER
 
-Les zones servent de repères de progression et de collecte. Les fins, morts,
-identites, boss et consequences ne sont pas decrits.
+Cette fiche donne les lieux, les objets, les codes, les combats obligatoires
+et les conditions Steam sans raconter l'histoire. Si tu veux conserver
+toute la decouverte, lis uniquement la section de la zone ou tu te trouves,
+puis reviens aux index de collectibles apres la fin de la campagne.
+
+SOURCES DE VERIFICATION
+
+- Steam, liste officielle des 32 succes :
+  https://steamcommunity.com/stats/952060/achievements/
+- Destructoid, 56 fichiers et emplacements chronologiques :
+  https://www.destructoid.com/resident-evil-3-files-guide-all-file-locations/
+- Vandal, documents et Charlie Dolls :
+  https://vandal.elespanol.com/en/resident-evil-3-remake/all-documents-in-resident-evil-3-remake-locations.html
+  https://vandal.elespanol.com/en/resident-evil-3-remake/resident-evil-3-remake-all-mr-charlie-dolls-locations.html
+- Samurai Gamers, 20 serrures et recompenses :
+  https://samurai-gamers.com/resident-evil-3-remake/all-lock-safes-locations/
+- GameSpot, codes et pieces d'armes :
+  https://www.gamespot.com/articles/resident-evil-3-safe-codes-and-locker-codes-guide/1100-6475417/
+  https://www.gamespot.com/articles/resident-evil-3-remake-weapon-parts-guide-where-to/1100-6475624/
+- Shacknews, route des trois fusibles :
+  https://www.shacknews.com/article/117257/hunt-for-fuses-in-resident-evil-3
+- PowerPyx, itineraire du puzzle du metro :
+  https://www.powerpyx.com/resident-evil-3-remake-subway-train-route-puzzle-solution/
+- Vandal, puzzle du vaccin et exigences du rang S :
+  https://vandal.elespanol.com/en/resident-evil-3-remake/resident-evil-3-remake-t-virus-vaccine-puzzle-solution.html
+  https://vandal.elespanol.com/en/resident-evil-3-remake/resident-evil-3-remake-how-to-get-an-s-rank-and-requirements.html
