@@ -1,186 +1,1204 @@
 FORSPOKEN
+Succes Steam : 53
 GUIDE CHRONOLOGIQUE 100 % STEAM - SANS SPOILER
 
-Version de travail : 10 aout 2026
+Version de travail : 11 aout 2026
+AppID Steam : 1680880
 
-Ce parcours couvre les 53 succes Steam de l'AppID 1680880, la campagne, les
-sorts, les detours, les labyrinthes, les monuments, les familiers, les
-archives, les equipements et le nettoyage de l'open world. Le DLC In Tanta We
-Trust est un contenu separe : joue-le apres la campagne si tu le possedes et
-controle son compteur dans l'entree DLC correspondante. L'objectif de cette
-page reste 53/53 sur le jeu principal.
+Cette fiche couvre le jeu principal, ses 53 succes Steam, la campagne, les
+detours, les 105 defis de sorts, les 70 equipements, les 20 familiers, les 20
+flashbacks, les 12 fontaines, les 54 monuments, les 50 photos, les 4
+abominations et les 100 points d'interet. Le DLC In Tanta We Trust possede
+une liste Steam separee : il est traite a la fin, mais ne compte pas dans les
+53 succes de cette fiche.
 
-OBJECTIF
+La route est chronologique, mais le nettoyage final est volontairement groupe
+par region. Les capacites de parcours rendent plusieurs coffres et lieux
+inaccessibles pendant la premiere visite. Ne force pas un detour impossible :
+note l'icone, avance dans la campagne, puis reviens au chapitre 13.
+
+OBJECTIF FINAL
 
 [ ] 53/53 succes Steam du jeu principal.
-[ ] Campagne complete et tous les pouvoirs de Frey.
-[ ] Detours, monuments, fontaines, labyrinthes et points photo.
-[ ] Archives, bijoux, capes, clous, crafts et familiers.
-[ ] Defis, epreuves de combat et nettoyage post-jeu.
-[ ] DLC In Tanta We Trust traite separement si installe.
+[ ] Campagne terminee, puis sauvegarde post-jeu conservee.
+[ ] 21 detours et evenements de Cipal suivis au meilleur moment.
+[ ] 9 poppets recuperes et echanges au marchand de Cipal.
+[ ] 105 defis de sorts termines et 105 sorts ameliores.
+[ ] 12 fontaines de benediction, 20 flashbacks et 20 familiers.
+[ ] 50 monuments minimum pour le succes, 54 recommandes pour le 100 % de la carte.
+[ ] 50 photos prises puis montrees aux enfants de Cipal.
+[ ] 70 equipements recuperes : 25 capes, 15 colliers et 30 ongles.
+[ ] 4 abominations vaincues.
+[ ] 100 points d'interet atteints.
+[ ] 464 entrees d'archives sur 580 minimum pour 80 %.
+
+COMMENT LIRE CETTE FICHE
+
+- Les noms de succes sont conserves en anglais pour correspondre a Steam.
+- Les cases sont des controles de progression, pas des estimations.
+- Un lieu indique avec sa region et sa sous-region est retrouvable depuis la
+  carte du jeu, meme si tu as deja retire le brouillard.
+- Les emplacements de coffres importants sont donnes par le lieu, la recompense
+  et le type d'icone. Pour le 100 % de carte, ouvre aussi tous les coffres
+  violets restants dans chaque sous-region.
+- Les chapitres indiquent quand agir sans raconter ce qui arrive dans la
+  trame. Aucun nom de boss, identite, mort, retournement ou fin n'est revele.
 
 GARDE-FOUS ABSOLUS
 
-- Termine la campagne en Normal pour comprendre les pouvoirs et ouvrir le
-  monde. L'open world reste nettoyable apres la campagne : ne recommence pas
-  une partie pour une icone oubliee.
-- Apres chaque nouveau pouvoir, reviens dans les regions precedentes. Les
-  points qui exigent un type de magie ou de parcours deviennent accessibles
-  plus tard.
-- Fais les detours et les objectifs de Cipal lorsqu'ils apparaissent. Ils
-  ouvrent des archives, des equipements et des ameliorations mais ne bloquent
-  pas definitivement le 100 %.
-- Ameliore les sorts de chaque ecole par les defis associes. Lance un defi
-  avant de quitter une zone et ne depense pas les ressources rares sans
-  verifier la prochaine amelioration.
-- Les labyrinthes verrouilles et les epreuves chronometrees se font mieux
-  apres avoir debloque les quatre ecoles de magie. Note leur icone et reviens
-  en nettoyage.
-- Aucun passage ne revele une mort, une identite, un retournement, une fin ou
-  une consequence narrative.
+1. Il n'y a pas de succes Steam definitivement ratable dans le jeu principal.
+   La campagne reste nettoyable apres sa conclusion.
+2. Deux equipements de sous-evenement sont temporaires pendant la campagne :
+   le collier Nemeni Prisaha au chapitre 7 et le collier Naee Aasha au chapitre
+   10. Ils ne sont normalement pas requis par Kit and Caboodle, mais on les
+   recupere quand meme pour supprimer tout doute.
+3. Les neuf chasses aux chats peuvent disparaitre entre deux chapitres. Elles
+   reapparaissent au chapitre 13 si elles ont ete manquees.
+4. Avant chaque depart de Cipal, ouvre la carte, parle aux icones jaunes et
+   fais une sauvegarde manuelle dans un emplacement different. Garde au moins
+   trois sauvegardes tournantes : CIPAL-A, CIPAL-B et POST-JEU.
+5. Apres le chapitre 12, accepte la creation d'une sauvegarde, puis choisis
+   Continue depuis l'ecran-titre. C'est ainsi que le chapitre 13 et les
+   activites post-jeu deviennent accessibles.
+6. Ne depense pas les vieilles pieces avant d'avoir verifie le compteur. Il
+   faut 64 pieces pour le Kit de couture de la Boutique de curiosites.
+7. Les defis de sorts se prennent sur la bibliotheque d'un refuge, trois a la
+   fois. Lorsqu'un defi est termine, valide l'amelioration dans le menu Magie
+   avant d'en prendre un autre.
+8. Pour les defis de mise a terre, equipe une cape peu amelioree afin de ne
+   pas tuer l'ennemi avant que le compteur ne valide la mise a terre.
+9. Pour les contres de precision, desactive l'auto-evasion dans les options.
+   Sinon Frey esquive automatiquement et le bon timing ne peut pas apparaitre.
+10. Pour les defis de degats, les groupes de Breakzombies a la frontiere de
+    The Guardians' Way et Dianthus Wood sont le meilleur point de farm. Fais
+    un voyage rapide vers le refuge proche pour faire reapparaitre le groupe.
 
-MISSABLES ET FENETRES
+100 % STEAM OU 100 % DE LA CARTE ?
 
-- Il n'y a pas de missable permanent annonce pour la campagne : garde une
-  sauvegarde avant les missions de chapitre et nettoie le monde apres la fin.
+Le 100 % Steam demande des seuils precis, pas chaque icone du monde :
 
-ORDRE DE PARTIE
+- 4 abominations, 20 familiers, 20 flashbacks, 12 fontaines.
+- 50 monuments sur les 54 existants.
+- 50 photos, 70 equipements et 100 points d'interet.
+- 80 % des archives, soit 464 entrees sur 580.
+- Les 105 defis de sorts.
 
-1. Chapitres 1 a 4 : campagne et apprentissage du parcours.
-2. Chapitres 5 a 8 : un pouvoir par grande region, nettoyage local.
-3. Chapitres 9 a 12 : derniers pouvoirs et detours de campagne.
-4. Fin de campagne, puis nettoyage libre et sorts.
-5. DLC In Tanta We Trust a part, sans melanger ses compteurs avec le jeu de
-   base.
+Le 100 % de carte personnel ajoute les 4 monuments restants, les 48 beffrois,
+les 47 refuges, les 39 mutants et les coffres violets qui ne donnent pas
+d'equipement. La route ci-dessous les integre comme nettoyage optionnel :
+chaque sous-region doit etre vide de ses icones avant de passer a la suivante.
 
-CHAPITRES 1 A 3 - ARRIVEE ET PREMIERS SORTS
+PROGRESSION RECOMMANDEE
 
-- Termine le tutoriel de parkour, les esquives, le soutien et les attaques de
-  magie. Utilise chaque commande en combat pour faire avancer les succes de
-  manipulation.
-- Dans Cipal, parle a tous les habitants dont l'icone est active, visite les
-  ateliers, le refuge et le tableau des detours. Commence la collection
-  d'archives sans acheter au hasard.
-- Explore les abords de la premiere region : monuments accessibles,
-  fontaines, coffres, fleurs et points d'artisanat.
-- Lance les defis de sorts des que l'option apparait. Ils progressent en
-  arriere-plan et peuvent etre termines sur les ennemis de la region.
+1. Chapitres 1 et 2 : tutoriel, premier sort, premiers succes de combat et de
+   parcours.
+2. Chapitre 3 : premier retour a Cipal, craft, premier chat, premier refuge et
+   debut des defis de sorts.
+3. Chapitre 4 : detours de Cipal, photos, monuments et premier flashback.
+4. Chapitre 5 : deuxieme ecole de magie, premiers defis de mise a terre et
+   premier equipement lie a une fenetre de chapitre.
+5. Chapitres 6 et 7 : detours de Cipal, collier Nemeni Prisaha et poursuite de
+   la route principale.
+6. Chapitre 8 : troisieme ecole, Glide et ouverture de l'exploration aquatique.
+7. Chapitres 9 et 10 : nettoyage des evenements de Cipal et collier Naee Aasha.
+8. Chapitres 11 et 12 : quatrieme ecole, dernieres capacites, sauvegarde
+   post-jeu.
+9. Chapitre 13 : detours de fin, puis nettoyage regional complet, sorts,
+   equipements, photos, archives, points d'interet et abominations.
 
-CHAPITRE 4 - PREMIERE GRANDE REGION
+COMMANDES ET COMPTEURS UTILES
 
-- Fais le tour des monuments, refuges, tours de cloches, coffres et
-  labyrinthes avant d'entrer dans le donjon principal de la region.
-- Termine les detours lies a Cipal, les points photo et les premiers familiers.
-  Les activites de photo demandent de se placer au point indique puis de
-  confirmer la prise de vue.
-- Ouvre les fontaines de magie et apprends le sort propose. Une fontaine
-  oubliee se retrouve par la carte et peut etre faite en fin de jeu.
+- Le scan de Cuff revele les coffres, le mana, les ennemis et les objectifs
+  proches. Utilise-le avant de quitter une zone.
+- Les icones jaunes sont les activites principales de carte : monuments,
+  photos, familiers, flashbacks, fontaines et points d'interet.
+- Les points violets sont les coffres. Certains contiennent des vieilles
+  pieces, des ressources ou de l'equipement.
+- Les refuges servent de voyage rapide, de lit, d'etabli et de bibliotheque.
+- Les beffrois devoilent la carte de leur secteur. Ils ne comptent pas dans
+  les 100 points d'interet, mais ils rendent toutes les autres icones visibles.
+- Le compteur de succes affiche la progression globale, mais l'Archive et la
+  carte sont les verifications de reference pour les objets.
 
-CHAPITRES 5 A 6 - DEUXIEME ECOLE DE MAGIE
+ETAPE 01 - CHAPITRES 1 ET 2 : ARRIVEE ET APPRENTISSAGE
 
-- Apres le nouveau pouvoir, reviens dans la region precedente et utilise le
-  nouveau mouvement sur les falaises, murs et courants. Les coffres caches
-  par hauteur deviennent accessibles.
-- Dans la nouvelle region, fais les objectifs de carte avant les combats
-  narratifs : monuments, forteresses, villages, zones d'ennemis, sources et
-  labyrinthes verrouilles.
-- Termine les detours qui debloquent un objet de cou, une cape ou une
-  amelioration. Fais une capture du menu d'equipement si tu veux suivre les
-  bonus sans reveler l'histoire.
+- Termine la sequence d'introduction et achete le premier sort avec du mana.
+  Cela valide automatiquement Attachments et Unlocked Potential au moment
+  prevu par la campagne.
+- Des que le parkour magique est disponible, maintiens la commande de course
+  et fais une boucle continue pendant 20 secondes pour Hell of a Run.
+- Passe au-dessus d'un meme ennemi dix fois avec le parkour pour Leapfrogger.
+  L'ennemi n'a pas besoin d'etre different a chaque passage.
+- Pendant un combat, utilise Disperse trois fois sans quitter l'affrontement.
+  Un adversaire robuste est preferable, car le temps de recharge est long.
+  Cela valide Help Me Out Here.
+- Fais au moins un contre de Cuff et un Killer Blow des que le jeu les
+  presente. Ne cherche pas encore les 30 Killer Blows, mais prends l'habitude
+  d'achever les ennemis a terre.
+- N'ignore pas le mana bleu au sol. Le total necessaire pour acheter les sorts
+  est de 3 200 mana, avec une reserve confortable dans le monde.
 
-CHAPITRES 7 A 8 - TROISIEME REGION
+CONTROLE AVANT DE CONTINUER
 
-- Utilise les sorts des trois ecoles en alternance. Les succes de combat
-  demandent de toucher des ennemis en l'air, de briser un bouclier, de faire
-  un soutien et de changer d'element, pas de farmer un seul monstre.
-- Explore les ruines, les labyrinthes et les detours de la region. Pour un
-  labyrinthe, ouvre tous les coffres lateraux avant la salle de recompense.
-- Ramasse les ressources rares, fabrique les soins et ameliore au moins une
-  cape, un collier et les clous. Les succes de craft se cumulent sur toute la
-  sauvegarde.
+[ ] Attachments obtenu.
+[ ] Unlocked Potential obtenu.
+[ ] Hell of a Run obtenu.
+[ ] Leapfrogger obtenu.
+[ ] Help Me Out Here obtenu.
+[ ] Au moins un craft ou un objectif de combat prepare.
 
-CHAPITRES 9 A 10 - DERNIERS DEBLOCAGES
+ETAPE 02 - CHAPITRE 3 : PREMIER REFUGE ET PREMIER CIPAl
 
-- Termine les detours de Cipal avant de suivre la mission principale suivante.
-  Les archivistes, enfants, musiciens et artisans possedent souvent une
-  seconde etape apres un voyage rapide.
-- Dans la region de Junoon, fais les points photo et les familiers. Les
-  familiers apparaissent dans des refuges ou des zones calmes ; approche sans
-  courir pour les valider.
-- Verifie la liste des sorts : chaque sort doit avoir un defi actif ou etre
-  marque comme complete. Rejoue un petit groupe d'ennemis pour les objectifs
-  d'execution, de magie de soutien et de parkour.
+Des l'arrivee a Cipal, ne repars pas directement vers l'objectif principal.
+Cette premiere fenetre sert a poser la sauvegarde tournante et les compteurs.
 
-CHAPITRES 11 A 12 - CAMPAGNE ET SAUVEGARDE
+1. Va dans un refuge, utilise l'etabli et fabrique une potion de soin ou un
+   objet simple. Cela valide Tinkerer.
+2. Installe un camp a l'exterieur de Cipal des que le jeu te montre la zone
+   de feu. Ramasse le bois autour de la route si necessaire. Cela valide
+   Outdoorsperson.
+3. Fais Chasing the Calico Cat au sud de Cipal. Termine la poursuite et prends
+   la bourse au sol : c'est le premier poppet.
+4. Examine la carte avant de quitter la ville. Toute icone jaune active doit
+   etre faite ou sauvegardee pour plus tard.
+5. Visite un premier monument ordinaire dans les environs si l'icone est
+   accessible. Pilgrimage: Initiate tombe ici ou pendant la premiere boucle
+   d'exploration.
+6. Dans un refuge, ouvre la bibliotheque et active Shot, Burst Shot et Flow.
+   Les trois emplacements actifs doivent toujours etre remplis.
 
-- Termine les dernieres activites de chapitre, puis cree une sauvegarde
-  manuelle avant la suite finale. Les detours et l'exploration restent
-  disponibles apres la campagne.
-- Equipe une magie offensive, un soin, une defense et un sort de mouvement.
-  Les combats de fin valident les succes de maitrise si les sorts sont varies.
-- Apres la campagne, reviens a Cipal et verifie les demandes de detours,
-  puis ouvre la carte mondiale pour compter les icones restantes.
+CONTROLE CHAPITRE 3
 
-NETTOYAGE POST-JEU PAR REGION
+[ ] Camp installe.
+[ ] Premier craft realise.
+[ ] Chasing the Calico Cat termine et poppet #1 obtenu.
+[ ] Premier monument visite.
+[ ] Premier refuge utilise comme point de sauvegarde.
 
-- Region 1 : fontaines, monuments de bravoure, tours de cloche, coffres,
-  villages et premiers labyrinthes.
-- Region 2 : detours de combat, points photo, familiers, forts et coffres de
-  parkour. Utilise le nouveau sort de traversée pour les hauteurs.
-- Region 3 : monuments, archives, labyrinthes et ateliers. Les forteresses
-  peuvent etre nettoyees en difficulte basse puis revisitees pour les defis.
-- Region 4 : labyrinthes restants, epreuves de temps, familiers et zones de
-  fin. Termine les marqueurs sans icone narrative en dernier.
-- Cipal : detours, archives, livres, objets d'ameublement, demandes de PNJ,
-  photos et artisanat.
+ETAPE 03 - CHAPITRE 4 : FENETRE DE CIPAl, PHOTOS ET PREMIERS DETOURS
 
-SORTS, EQUIPEMENT ET ARCHIVES
+Cette visite est la plus facile a rater parce que plusieurs activites se
+deverrouillent apres une conversation ou la sortie des archives. Apres chaque
+objectif de chapitre, retourne a la carte et attends que le message indiquant
+de nouveaux detours soit apparu.
 
-- Complete chaque defi de sort : nombre de sorts, ennemis affectes,
-  degats, soutiens, contres et deplacements. Un defi peut etre epingle dans
-  le menu pour eviter les oublis.
-- Fabrique les soins, les potions et les ameliorations. Garde les materiaux
-  de niveau superieur jusqu'a ce que le menu indique l'amelioration suivante.
-- Equipe plusieurs effets de cape et de collier, puis teste les modifications
-  de clous. Les succes de customization se valident en modifiant, pas en
-  possedant seulement l'objet.
-- Consulte les archives apres chaque detour. Les entrees de monde, de
-  personnages et d'objets sont plus faciles a trouver au moment ou elles
-  sont debloquees.
+DETOURS A FAIRE DANS CETTE FENETRE
 
-COMBATS ET SUCCES TECHNIQUES
+- A Guided Tour : suis le guide dans Cipal. La mission enchaine directement
+  sur Feeding the Sheep ; termine aussi cette deuxieme partie.
+- Chasing the Black and White Cat Part 1 : poursuis le chat et ramasse la
+  bourse pour le poppet #2.
+- Chasing the Gray Cat Part 1 : poursuis le chat pour le poppet #3.
+- Chasing the Black and White Cat Part 2 : disponible apres la premiere
+  poursuite, dans la zone des moutons pres du cimetiere a l'est de Cipal.
+  Recupere le poppet #4.
+- Robian's Treasured Memories : disponible en revenant des archives. Cherche
+  d'abord pres de l'arbre lumineux a l'ouest, puis dans la ville haute et
+  enfin dans la ville basse. Le scan de Cuff met les personnes en evidence.
+- New Perspectives : detour automatique avant de quitter Cipal. Il ouvre les
+  50 points photo. Prends la premiere photo pour apprendre le cadrage, mais
+  garde le nettoyage des 50 photos pour le chapitre 13.
+- Chasing the Gray Cat Part 2 : disponible apres la premiere poursuite grise,
+  pres du mur au sud-ouest des enfants. Recupere le poppet #5.
 
-- Fais les attaques de soutien et les contre-attaques en groupe d'ennemis.
-- Utilise le sort adapte a la faiblesse, brise la posture, termine un ennemi
-  avec une attaque de parkour et change d'ecole en plein combat.
-- Pour les defis chronometres, regle la difficulte si necessaire, equipe le
-  mouvement le plus rapide et ignore les ennemis non requis.
-- Si un succes ne tombe pas, verifie le compteur dans le menu avant de
-  recommencer : certaines actions demandent une confirmation apres la fin du
-  combat ou du detour.
+Le chapitre 4 est aussi le bon moment pour :
+
+- visiter la premiere fontaine accessible ;
+- faire le premier flashback si son icone est accessible ;
+- prendre 10 points d'interet pour Explorer: Seeker ;
+- ouvrir un beffroi, meme s'il ne compte pas dans les 100 points ;
+- activer les defis de Burrow, Bind et Screen lorsque ces sorts sont achetes.
+
+CONTROLE CHAPITRE 4
+
+[ ] A Guided Tour et Feeding the Sheep termines.
+[ ] Chasing the Black and White Cat Parts 1 et 2 termines.
+[ ] Chasing the Gray Cat Parts 1 et 2 termines.
+[ ] Robian's Treasured Memories termine.
+[ ] New Perspectives active.
+[ ] 5 poppets obtenus au total.
+[ ] Premier flashback termine.
+
+ETAPE 04 - CHAPITRE 5 : DEUXIEME ECOLE ET PREMIER OBJET DE FENETRE
+
+- Termine le chapitre. La magie de Sila devient disponible a la fin de cette
+  etape de campagne : Wildfire devient faisable.
+- Avec la magie de Frey, lance Bind sur un ennemi faible, change de magie et
+  tue le meme ennemi avec Sila pendant qu'il est immobilise. Cela valide
+  Wildfire. Si l'ennemi meurt trop vite, utilise une cape moins amelioree.
+- Fais 10 contres de precision au fil des combats. Pour les provoquer, coupe
+  Auto-Evasion, attends le halo blanc de Cuff, puis utilise la commande de
+  contre au moment de l'impact. La frontiere Guardians' Way / Dianthus Wood
+  est le meilleur endroit pour recommencer.
+- Fais les premiers Killer Blows avec Arc Slice : charge l'attaque sur un
+  Breakzombie, attends l'icone de mise a terre, puis utilise le prompt proche.
+- Active les defis de Sila sur la bibliotheque : Slice, Arc Slice, Charge.
+
+EQUIPEMENT AUTOMATIQUE A CONTROLER
+
+- Cape Hooded Cloak : recompense automatique du chapitre 3, a verifier dans
+  l'equipement si tu as avance rapidement.
+- Ongles Slay et Blue Flash : recompenses automatiques du chapitre 3.
+- Ongles Aftershock : recompense automatique du chapitre 5, sur l'ennemi de
+  l'objectif d'entree dans le chateau. Si l'ongle n'apparait pas, verifie
+  l'Archive plutot que de refaire une nouvelle partie.
+
+ETAPE 05 - CHAPITRE 6 : CIPAl ET DANSE
+
+- Pendant la celebration, parle a Pilo dans la taverne et termine Dancing in
+  Cipal. Les boutons peuvent etre recommences si une entree est ratee.
+- Fais le combat de chapitre et profite des groupes d'ennemis pour continuer
+  les compteurs de Killer Blows, combats parkour et changements de magie.
+- Dans un refuge, valide les defis de sorts termines avant de quitter la zone.
+
+ETAPE 06 - CHAPITRE 7 : OBJET TEMPORAIRE ET CHAT RAYE
+
+Avant de suivre l'objectif qui fait quitter Cipal, entre dans les archives par
+la porte sous l'escalier de priere et parle a Johedy.
+
+- Fais Sila's Pact jusqu'au bout. La mission demande de partir a Praenost,
+  vider la zone indiquee, prendre l'objet dans le batiment puis revenir.
+  Recompense : collier Nemeni Prisaha.
+- Apres Sila's Pact, fais Helping the Broken au tribunal avec Auden. Il ajoute
+  des archives utiles pour Archivist.
+- Apres l'objectif Find Robian, fais Chasing the Striped Cat Part 1 avant de
+  quitter Cipal. Recupere le poppet #6.
+- Fais ensuite Chasing the Striped Cat Part 2 dans la ville haute, a l'est.
+  Recupere le poppet #7.
+- Controle l'equipement et sauvegarde manuellement avant de quitter la ville.
+
+CONTROLE CHAPITRE 7
+
+[ ] Sila's Pact termine.
+[ ] Collier Nemeni Prisaha obtenu.
+[ ] Helping the Broken termine.
+[ ] Chasing the Striped Cat Parts 1 et 2 termines.
+[ ] 7 poppets obtenus au total.
+
+ETAPE 07 - CHAPITRE 8 : TROISIEME ECOLE ET PARCOURS AQUATIQUE
+
+- Termine le chapitre pour obtenir la magie de Prav.
+- Ouvre la carte de magie et marque les fontaines qui donnent Glide et Float.
+  Le jeu peut afficher la cible avant que la region soit atteignable : ne
+  gaspille pas de temps a chercher un passage bloque.
+- Des que Glide est disponible, active son defi sur la bibliotheque. Parcours
+  1 km sur l'eau en maintenant la commande de glissade.
+- Active les defis de Fan Bolt, Chain Bolt et Cluster Bolt. Les groupes de
+  Breakzombies valident rapidement les compteurs de plusieurs ennemis.
+- A partir de maintenant, les sous-regions aquatiques de Avoalet et les
+  passages de Junoon deviennent plus simples. Note les coffres violets que tu
+  ne peux pas atteindre et reviens au chapitre 13.
+
+ETAPE 08 - CHAPITRES 9 ET 10 : DERNIERE FENETRE DE CIPAl
+
+Au chapitre 10, pendant le passage obligatoire aux archives et juste avant de
+partir vers Junoon, parle a Johedy quand son icone d'evenement est visible.
+
+- Recupere le collier Naee Aasha.
+- Fais tous les evenements jaunes de Cipal avant le depart. Les conversations
+  donnent des entrees d'archives, meme lorsqu'elles ne donnent pas de coffre.
+- Si une chasse aux chats manque, ne recommence pas la campagne : son icone
+  reviendra au chapitre 13.
+- Continue les defis de Prav, notamment Float, Naedre et les defis de mise a
+  terre. N'essaie pas encore les abominations si ton equipement est faible.
+
+ETAPE 09 - CHAPITRE 11 : QUATRIEME ECOLE
+
+- Termine la partie de campagne qui debloque la magie d'Olas.
+- Fais From Every Angle dans un combat unique : utilise un sort de Frey,
+  Sila, Prav et Olas contre des ennemis encore vivants, sans sortir du combat.
+- Pour Shocker, charge le Surge d'Olas et touche trois ennemis regroupes avec
+  la foudre. Les Breakzombies sont le choix le plus sur.
+- Active Storm Dart, Seeker Dart, Pulse Dart et Tempest sur la bibliotheque.
+- Active aussi Suppression lorsque la fontaine correspondante est accessible.
+  Le succes Barely There sera fait au chapitre 13, pas pendant la campagne.
+- Fais le reste de l'histoire sans chercher a vider la carte. Avant la
+  derniere sequence, garde une sauvegarde manuelle separee.
+
+ETAPE 10 - CHAPITRE 12 ET TRANSITION POST-JEU
+
+- Termine le chapitre 12. Les succes narratifs manquants se valident ici ou
+  automatiquement pendant les chapitres precedents.
+- Lorsque le jeu propose de creer une sauvegarde, accepte et conserve-la sous
+  le nom POST-JEU-AVANT-NETTOYAGE.
+- Depuis l'ecran-titre, choisis Continue. Le chapitre 13 se lance avec le
+  monde ouvert et les detours de fin accessibles.
+
+CONTROLE DE TRANSITION
+
+[ ] Toutes les ecoles de magie sont disponibles.
+[ ] La sauvegarde POST-JEU-AVANT-NETTOYAGE est conservee.
+[ ] Le mode Continue a ouvert le chapitre 13.
+[ ] Aucun nouveau depart n'a ete cree pour rattraper un objet.
+
+ETAPE 11 - CHAPITRE 13 : DETOURS DE FIN ET SUCCES DE CIPAl
+
+Fais ces detours avant le grand nettoyage regional. Ils sont courts, donnent
+des archives et evitent de parcourir deux fois la ville.
+
+1. Chasing the Black Cat Part 1 : a l'entree de la ville haute. Poppet #8.
+2. Chasing the Black Cat Part 2 : disponible apres la premiere. Poppet #9.
+3. Va au marchand au centre de Cipal et echange les 9 poppets contre tous les
+   objets disponibles. Cela valide A Roaring Trade. Les deux objets
+   d'equipement du marchand sont Pelerine et Stranith.
+4. Cipal Reborn : parle a Pilo dans la ville basse et aide les trois personnes
+   indiquees. Cela valide Rebirth.
+5. Dancing in Cipal: Encore : retourne a la taverne et termine la danse.
+6. Dancing in Cipal: Finale : termine la seconde danse, puis valide Moves.
+   Les boutons peuvent etre recommences autant de fois que necessaire.
+7. Lost Lullabies : parle a Johedy dans la ville haute, suis les objectifs
+   vers les archives, la tour de prison puis Junoon. Cela valide Promises.
+8. A Blast from the Past se lance apres Lost Lullabies. Termine les reprises
+   de combats si tu veux debloquer toutes les relectures et les archives.
+9. Va au point de priere au nord de Cipal. Dis les quatre prieres disponibles :
+   Olevia, Robian, les Tantas puis Cinta. Les deux dernieres demandent la
+   progression post-jeu et Lost Lullabies. Cela valide Remembrance.
+
+CONTROLE CIPAl POST-JEU
+
+[ ] 9 poppets recuperes.
+[ ] Tous les objets du marchand achetes.
+[ ] A Roaring Trade obtenu.
+[ ] Rebirth obtenu.
+[ ] Moves obtenu.
+[ ] Promises obtenu.
+[ ] Les quatre prieres dites.
+[ ] Remembrance obtenu.
+
+ETAPE 12 - NETTOYAGE REGIONAL : ORDRE SANS RETOUR INUTILE
+
+Pour chaque sous-region, utilise cet ordre :
+
+1. Active le beffroi pour reveler les icones si ce n'est pas deja fait.
+2. Fais les 20 familiers, les 20 flashbacks, les fontaines et les photos de
+   la sous-region.
+3. Fais le monument ordinaire et detruis les cristaux autour de lui.
+4. Fais tous les points d'interet qui donnent un equipement dans la liste
+   d'equipement ci-dessous.
+5. Ajoute les villages, forts, guildes, labyrinthes, grottes, ruines, reliques,
+   traces et portes Tanta jusqu'a atteindre 100 points d'interet.
+6. Ouvre tous les coffres violets visibles si tu vises aussi le 100 % de carte.
+7. Controle le compteur de la sous-region en haut de la carte avant de partir.
+
+Les points d'interet qui comptent pour les succes sont : 4 abominations, 25
+grottes, 26 guildes Cognoscents, 21 forts, 13 labyrinthes verrouilles, 8
+reliques des Tantas, 2 ponts, 36 ruines, 4 portes Tanta, 11 traces et 39
+villages. Les beffrois, refuges, mutants, familiers, flashbacks, fontaines,
+monuments et photos ne comptent pas dans ce compteur precis.
+
+REGION 1 - ENVIRONS DE CIPAl
+
+Sous-regions : The Barren Plains, The Sacred Peaks, The Pilgrims' Path, Dead
+Man's Ledge et The Blessed Plains.
+
+- Fontaine : The Barren Plains, Mulberry Fount, sort Leap.
+- Flashback : The Barren Plains, The Fallen Temple.
+- Familier : The Sacred Peaks, Advik.
+- Monuments ordinaires #1 a #8 : #1 Barren Plains, #2 et #3 Sacred Peaks,
+  #4 Pilgrims' Path, #5 a #7 Blessed Plains, #8 Dead Man's Ledge.
+- Photos : The Blessed Plains, photos #1 a #3.
+- Equipement : Orison au Locked Labyrinth: East du Barren Plains ; Balle
+  Balle au Place of Prayer des Sacred Peaks ; On Point a l'Abandoned Merchant
+  Convoy des Sacred Peaks ; Clutch au Village: Reeve des Blessed Plains ;
+  Divers au Locked Labyrinth: Hill des Blessed Plains.
+- Fais au moins 10 points d'interet valides dans cette boucle si la carte est
+  suffisamment ouverte. Cela valide normalement Explorer: Seeker.
+
+REGION 2 - PRAENOST
+
+Sous-regions : The Guardians' Way, Middle Praenost, The Path of Glory, Home of
+Heroes, Brass Hollow, Dianthus Wood, The Citadel, Pioneers' Plain, Opal Hills,
+Fields of the Fallen, The Mustering Ground et Mount Garrison.
+
+- Fontaines : Brass Hollow, Mulberry Fount, sort Burrow ; The Citadel,
+  Mulberry Fount, sort Shimmy ; The Mustering Ground, Rosewood Fount, sort
+  Beacon.
+- Flashbacks : The Guardians' Way, A Fortress Overrun ; Middle Praenost,
+  A Signal To Strike ; Brass Hollow, Raging Raider ; Pioneers' Plain, Race
+  for the Ramparts ; The Mustering Ground, A Village Besieged.
+- Familiers : Mia a Dianthus Wood ; Clere a Middle Praenost ; Constantia a
+  Brass Hollow ; Ziti a Opal Hills ; Ledat a Fields of the Fallen.
+- Monuments ordinaires #9 a #20 : #9-10 Guardians' Way, #11 Dianthus Wood,
+  #12 Brass Hollow, #13 Home of Heroes, #14 Middle Praenost, #15 Citadel,
+  #16 Pioneers' Plain, #17 Opal Hills, #18-19 Mustering Ground, #20 Mount
+  Garrison.
+- Photos : #4-5 Guardians' Way, #6 Dianthus Wood, #7-8 Brass Hollow,
+  #9 Middle Praenost, #10 Citadel, #11-12 Pioneers' Plain, #13 Mustering
+  Ground, #14 Fields of the Fallen, #15 Opal Hills.
+- Points a haut rendement : Fort Wielki, Kloros Guild, Village Vivus, Ruins
+  of Zelenina, Locked Labyrinth: Barrier, Locked Labyrinth: Cliff, Militis
+  Academy et Fort Optima.
+- Abomination : Gigas, dans Mount Garrison. L'acces se fait par The
+  Guardians' Way / Pioneers' Plain puis la porte ouverte au sud-ouest de la
+  zone de chateau. Sa recompense est les ongles Fatale.
+- Ce secteur est le meilleur farm pour les Breakzombies, les contres, les
+  mises a terre, les attaques sur plusieurs cibles et les defis de degats.
+
+REGION 3 - AVOALET
+
+Sous-regions : The Water Garden, The Barleycorn Plains, Trout Mountain, The
+Fountainfields, The Untrodden Forest, The Misty Shore, Samum Coast et The
+Moulderings, puis Golden Hills.
+
+- Fontaines : The Moulderings, Juniper Fount, sort Suppression ; Golden Hills,
+  Rosewood Fount, sort Rush ; The Water Garden, Rosewood Fount, sort Soar.
+- Flashbacks : The Water Garden, A Vital Outpost ; The Fountainfields, A
+  Bridge Too Far ; The Moulderings, Fortress Clear-Out ; Golden Hills,
+  Runner's Choice.
+- Familiers : Saglan et Sana dans The Water Garden ; Aramak dans The Untrodden
+  Forest ; Gregoire dans Golden Hills ; Rinat dans The Moulderings.
+- Monuments ordinaires #21 a #32 : #21-22 Water Garden, #23 Trout Mountain,
+  #24 Fountainfields, #25 Misty Shore, #26 Untrodden Forest, #27-28 Samum
+  Coast, #29 Moulderings, #30-32 Golden Hills.
+- Photos : #17-22 Water Garden, #23 Trout Mountain, #24 Fountainfields,
+  #25 Untrodden Forest, #26-27 Misty Shore, #28-29 Samum Coast, #30
+  Moulderings.
+- Points a haut rendement : Village Chichek, Village Gyuzel, Shoal Pond,
+  Ruins of Eskii, Village Colline, Locked Labyrinth: Mountain Base, Ruins of
+  Calme, Molybdos Guild, Locked Labyrinth: Depths, Ruins of Sommay et Village
+  Kabosharr.
+- Abomination : Deinosuchus, dans The Moulderings. Depuis Samum Coast:
+  Western Refuge, glisse sur le lac vers l'est, rejoins Eastern Refuge puis
+  monte la pente. Sa recompense est les ongles Spectrum.
+- Utilise Glide pour ouvrir les coffres aquatiques et atteindre les passages
+  de Samum Coast. Le village Perle, tres haut sur une montagne volante, est
+  un bon controle de parcours : utilise le vol de fin de jeu si necessaire.
+
+REGION 4 - VISORIA
+
+Sous-regions : Shepherd's Meadow, The Windy Hills, Humble Plain, Visorian
+Plateau, Tanta's Demesne, Homestead Hills, South Plateau, Yonder Cape,
+Academy Hills, Inner Visoria et Visorian Isthmus.
+
+- Fontaines : The Windy Hills, Lilac Fount, sort Fortify ; Visorian Plateau,
+  Lilac Fount, sort Alb ; Inner Visoria, Lilac Fount, sort Float.
+- Flashbacks : Academy Hills, Outpost at the Edge of Despair ; Inner Visoria,
+  Downhill Dash ; Yonder Cape, Back-Road Raid ; Visorian Plateau, Nightmare's
+  Roost ; Shepherd's Meadow, Head for the Plains.
+- Familiers : Eldie a Academy Hills ; Zestion a Inner Visoria ; Kennah a
+  Tanta's Demesne ; Sigrun a Homestead Hills ; Leite a The Windy Hills.
+- Monuments ordinaires #33 a #45 : #33 Shepherd's Meadow, #34-35 Windy Hills,
+  #36-37 Humble Plain, #38-39 Visorian Plateau, #40 Homestead Hills, #41
+  Yonder Cape, #42 Academy Hills, #43-44 Inner Visoria, #45 Visorian Isthmus.
+- Photos : #31 Windy Hills, #32 Humble Plain, #33-34 Visorian Plateau,
+  #35-37 Tanta's Demesne, #38 Homestead Hills, #39 South Plateau, #40 Academy
+  Hills, #41-42 Inner Visoria, #43 Northern Corridor.
+- Points a haut rendement : Plateau Hollow, Ruins of Austur, Locked Labyrinth:
+  Field, Fort Sestina, Ruins of Mercador, Locked Labyrinth: West, Redclaw
+  Cavern, Village Fruegel, Ruins of Alda, Village Zakto, Locked Labyrinth:
+  South, Niccoline Guild, Fort Gabb, Locked Labyrinth: North et Village Upril.
+- Les 64 vieilles pieces du Kit de couture se trouvent dans des coffres
+  violets repartis dans toutes les regions. Inner Visoria est la zone de la
+  Boutique de curiosites, mais la boutique peut etre atteinte plus facilement
+  apres la campagne.
+- Abomination : Amphicynodon, dans South Plateau. Depuis Visorian Plateau,
+  pars vers Homestead Hills, puis utilise Glide sur la riviere au sud. Sa
+  recompense est les ongles Honor.
+
+REGION 5 - JUNOON
+
+Sous-regions : Crosstide Coast, Nearcoast Terrace, Farcoast Terrace, The
+Harvest Lands, The Blossomwoods, Cipalian Way, The Wolfwoods, Physic Garden,
+Nowhere et les passages de la cote.
+
+- Fontaines : Physic Garden, Juniper Fount, sort Spoof ; Crosstide Coast,
+  Juniper Fount, sort Diversify.
+- Flashbacks : Cipalian Way, The Tempest ; The Blossomwoods, Impregnable
+  Defenses ; The Wolfwoods, Monsters' Lair ; Physic Garden, Run the Gauntlet ;
+  Crosstide Coast, The Last Stand.
+- Familiers : Kalpana et Chini a Cipalian Way ; Bodhi a The Blossomwoods ;
+  Esha a The Wolfwoods.
+- Monuments ordinaires #46 a #54 : #46 Crosstide Coast, #47 Farcoast Terrace,
+  #48-49 Harvest Lands, #50-52 Blossomwoods, #53 Cipalian Way, #54 Physic
+  Garden.
+- Photos : #44-46 Cipalian Way, #47-48 The Wolfwoods, #49 Crosstide Coast,
+  #50 Nowhere.
+- Points a haut rendement : Fort Chahiye, Ruins of Teharnaa, Oxys Guild,
+  Locked Labyrinth: Forest, The Forbidden Meadow, Village Biichu, Locked
+  Labyrinth: Castle, Bhulna Villa et Fort Laayak.
+- Pour The Forbidden Meadow, termine Altar of Aasaan au sud-est. Le portail
+  violet au sommet de l'escalier ouvre la zone et donne la cape Incomparable.
+- Abomination : Apsaravis, dans Nowhere. Depuis The Wolfwoods, entre dans
+  Depths of Corruption au nord, glisse jusqu'a Crosstide Coast, monte les
+  piliers pres du coffre violet puis utilise la capacite de teleportation de
+  fin de jeu pour franchir les grands ecarts. Sa recompense est les ongles
+  Escalate.
+- Farcoast Terrace contient une tempete permanente utile pour les cauchemars,
+  les guirlandes Lucid et les defis de sorts. Reviens-y par voyage rapide pour
+  renouveler les adversaires.
+
+COLLECTIBLES 1 - LES 12 FONTAINES DE BENEDICTION
+
+Chaque fontaine donne un sort unique. La carte de magie permet de marquer la
+fontaine depuis le sort correspondant. Les noms de fontaine peuvent se repeter
+mais la sous-region ne se repete pas.
+
+[ ] 01 - Near Cipal / The Barren Plains : Mulberry Fount -> Leap.
+[ ] 02 - Praenost / Brass Hollow : Mulberry Fount -> Burrow.
+[ ] 03 - Praenost / The Citadel : Mulberry Fount -> Shimmy.
+[ ] 04 - Praenost / The Mustering Ground : Rosewood Fount -> Beacon.
+[ ] 05 - Avoalet / The Moulderings : Juniper Fount -> Suppression.
+[ ] 06 - Avoalet / Golden Hills : Rosewood Fount -> Rush.
+[ ] 07 - Avoalet / The Water Garden : Rosewood Fount -> Soar.
+[ ] 08 - Visoria / The Windy Hills : Lilac Fount -> Fortify.
+[ ] 09 - Visoria / Visorian Plateau : Lilac Fount -> Alb.
+[ ] 10 - Visoria / Inner Visoria : Lilac Fount -> Float.
+[ ] 11 - Junoon / Physic Garden : Juniper Fount -> Spoof.
+[ ] 12 - Junoon / Crosstide Coast : Juniper Fount -> Diversify.
+
+La premiere fontaine valide Call of the Fount: Baptized. La douzieme valide
+Call of the Fount: Beatified. Chaque sort de fontaine doit ensuite recevoir
+son defi de sort pour Paragon et Above and Beyond.
+
+COLLECTIBLES 2 - LES 20 FLASHBACKS
+
+Les monuments a drapeau jaune lancent une epreuve chronometree. Le score n'a
+aucune importance pour le succes : termine simplement l'epreuve. Une difficulte
+plus basse et les options d'accessibilite sont autorisees.
+
+[ ] 01 - Near Cipal / The Barren Plains : The Fallen Temple.
+[ ] 02 - Praenost / The Guardians' Way : A Fortress Overrun.
+[ ] 03 - Praenost / Middle Praenost : A Signal To Strike.
+[ ] 04 - Praenost / Brass Hollow : Raging Raider.
+[ ] 05 - Praenost / Pioneers' Plain : Race for the Ramparts.
+[ ] 06 - Praenost / The Mustering Ground : A Village Besieged.
+[ ] 07 - Avoalet / The Water Garden : A Vital Outpost.
+[ ] 08 - Avoalet / The Fountainfields : A Bridge Too Far.
+[ ] 09 - Avoalet / The Moulderings : Fortress Clear-Out.
+[ ] 10 - Avoalet / Golden Hills : Runner's Choice.
+[ ] 11 - Visoria / Academy Hills : Outpost at the Edge of Despair.
+[ ] 12 - Visoria / Inner Visoria : Downhill Dash.
+[ ] 13 - Visoria / Yonder Cape : Back-Road Raid.
+[ ] 14 - Visoria / Visorian Plateau : Nightmare's Roost.
+[ ] 15 - Visoria / Shepherd's Meadow : Head for the Plains.
+[ ] 16 - Junoon / Cipalian Way : The Tempest.
+[ ] 17 - Junoon / The Blossomwoods : Impregnable Defenses.
+[ ] 18 - Junoon / The Wolfwoods : Monsters' Lair.
+[ ] 19 - Junoon / Physic Garden : Run the Gauntlet.
+[ ] 20 - Junoon / Crosstide Coast : The Last Stand.
+
+Le premier valide Through the Eyes of Another: Empath, le dixieme valide
+Through the Eyes of Another: Seer et les vingt valident Through the Eyes of
+Another: Visionary.
+
+COLLECTIBLES 3 - LES 20 FAMILIERS
+
+Approche chaque statue de patte jaune. Le chat apparait sur une pierre.
+Accroupis-toi, avance uniquement quand le point d'exclamation jaune disparait,
+puis arrete-toi a chaque nouvelle alerte. Si le chat fuit, la statue reste
+active : recommence calmement. Chaque familier rejoint ensuite les refuges.
+
+[ ] 01 - Near Cipal / The Sacred Peaks : Advik.
+[ ] 02 - Praenost / Dianthus Wood : Mia.
+[ ] 03 - Praenost / Middle Praenost : Clere.
+[ ] 04 - Praenost / Brass Hollow : Constantia.
+[ ] 05 - Praenost / Opal Hills : Ziti.
+[ ] 06 - Praenost / Fields of the Fallen : Ledat.
+[ ] 07 - Avoalet / The Water Garden : Saglan.
+[ ] 08 - Avoalet / The Water Garden : Sana.
+[ ] 09 - Avoalet / The Untrodden Forest : Aramak.
+[ ] 10 - Avoalet / Golden Hills : Gregoire.
+[ ] 11 - Avoalet / The Moulderings : Rinat.
+[ ] 12 - Visoria / Academy Hills : Eldie.
+[ ] 13 - Visoria / Inner Visoria : Zestion.
+[ ] 14 - Visoria / Tanta's Demesne : Kennah.
+[ ] 15 - Visoria / Homestead Hills : Sigrun.
+[ ] 16 - Visoria / The Windy Hills : Leite.
+[ ] 17 - Junoon / Cipalian Way : Kalpana.
+[ ] 18 - Junoon / Cipalian Way : Chini.
+[ ] 19 - Junoon / The Blossomwoods : Bodhi.
+[ ] 20 - Junoon / The Wolfwoods : Esha.
+
+Les vingt valident Cat Person. Les familiers ne comptent pas dans les 100
+points d'interet, mais donnent des archives et doivent donc etre faits avant
+de verifier Archivist.
+
+COLLECTIBLES 4 - LES 54 MONUMENTS ORDINAIRES
+
+Les monuments ordinaires donnent des bonus de statistiques. Il y en a 54 ;
+50 suffisent pour Pilgrimage: Adept. Pour une fiche vraiment complete, vide
+les 54. Les numeros ci-dessous sont un index de suivi, pas un ordre obligatoire
+de visite.
+
+NEAR CIPAl
+[ ] #01 - The Barren Plains.
+[ ] #02-03 - The Sacred Peaks.
+[ ] #04 - The Pilgrims' Path.
+[ ] #05-07 - The Blessed Plains.
+[ ] #08 - Dead Man's Ledge.
+
+PRAENOST
+[ ] #09-10 - The Guardians' Way.
+[ ] #11 - Dianthus Wood.
+[ ] #12 - Brass Hollow.
+[ ] #13 - Home of Heroes.
+[ ] #14 - Middle Praenost.
+[ ] #15 - The Citadel.
+[ ] #16 - Pioneers' Plain.
+[ ] #17 - Opal Hills.
+[ ] #18-19 - The Mustering Ground.
+[ ] #20 - Mount Garrison.
+
+AVOALET
+[ ] #21-22 - The Water Garden.
+[ ] #23 - Trout Mountain.
+[ ] #24 - The Fountainfields.
+[ ] #25 - The Misty Shore.
+[ ] #26 - The Untrodden Forest.
+[ ] #27-28 - Samum Coast.
+[ ] #29 - The Moulderings.
+[ ] #30-32 - Golden Hills.
+
+VISORIA
+[ ] #33 - Shepherd's Meadow.
+[ ] #34-35 - The Windy Hills.
+[ ] #36-37 - Humble Plain.
+[ ] #38-39 - Visorian Plateau.
+[ ] #40 - Homestead Hills.
+[ ] #41 - Yonder Cape.
+[ ] #42 - Academy Hills.
+[ ] #43-44 - Inner Visoria.
+[ ] #45 - Visorian Isthmus.
+
+JUNOON
+[ ] #46 - Crosstide Coast.
+[ ] #47 - Farcoast Terrace.
+[ ] #48-49 - The Harvest Lands.
+[ ] #50-52 - The Blossomwoods.
+[ ] #53 - Cipalian Way.
+[ ] #54 - Physic Garden.
+
+Pour casser les cristaux rapidement, une attaque chargee de Sila fonctionne
+bien. Si un monument est sur une hauteur, utilise High Jump, Float, Zip et les
+capacites de teleportation du chapitre 13 plutot que de chercher un chemin au
+sol.
+
+COLLECTIBLES 5 - LES 50 PHOTOS
+
+Le point photo devient jaune apres New Perspectives. Place le sujet dans le
+cadre jusqu'a voir le contour jaune, puis confirme la photo. Les 50 peuvent
+etre prises avant de retourner voir les enfants ; montre-les toutes a la fin.
+
+[ ] 01-03 - Near Cipal / The Blessed Plains.
+[ ] 04-05 - Praenost / The Guardians' Way.
+[ ] 06 - Praenost / Dianthus Wood.
+[ ] 07-08 - Praenost / Brass Hollow.
+[ ] 09 - Praenost / Middle Praenost.
+[ ] 10 - Praenost / The Citadel.
+[ ] 11-12 - Praenost / Pioneers' Plain.
+[ ] 13-14 - Praenost / The Mustering Ground.
+[ ] 15 - Praenost / Fields of the Fallen.
+[ ] 16 - Praenost / Opal Hills.
+[ ] 17-22 - Avoalet / The Water Garden.
+[ ] 23 - Avoalet / Trout Mountain.
+[ ] 24 - Avoalet / The Fountainfields.
+[ ] 25 - Avoalet / The Untrodden Forest.
+[ ] 26-27 - Avoalet / The Misty Shore.
+[ ] 28-29 - Avoalet / Samum Coast.
+[ ] 30 - Avoalet / The Moulderings.
+[ ] 31 - Visoria / The Windy Hills.
+[ ] 32 - Visoria / Humble Plain.
+[ ] 33-34 - Visoria / Visorian Plateau.
+[ ] 35-37 - Visoria / Tanta's Demesne.
+[ ] 38 - Visoria / Homestead Hills.
+[ ] 39 - Visoria / South Plateau.
+[ ] 40 - Visoria / Academy Hills.
+[ ] 41-42 - Visoria / Inner Visoria.
+[ ] 43 - Visoria / The Northern Corridor.
+[ ] 44-46 - Junoon / Cipalian Way.
+[ ] 47-48 - Junoon / The Wolfwoods.
+[ ] 49 - Junoon / Crosstide Coast.
+[ ] 50 - Junoon / Nowhere.
+
+Quand les 50 photos sont prises, reviens a Cipal et montre-les aux enfants.
+Cette remise est obligatoire pour Happy Snapper : prendre les photos ne
+suffit pas.
+
+COLLECTIBLES 6 - LES 70 EQUIPEMENTS ET LES COFFRES IMPORTANTS
+
+Kit and Caboodle demande tous les equipements sauf ceux qui sont uniquement
+obtenus par des sous-quetes. Pour eviter tout doute, prends aussi les deux
+colliers temporaires. Le total utile est 25 capes, 15 colliers et 30 ongles.
+
+FENETRES ET RECOMPENSES AUTOMATIQUES
+
+[ ] Cape Hooded Cloak - automatique au chapitre 3.
+[ ] Ongles Slay - automatique au chapitre 3.
+[ ] Ongles Blue Flash - automatique au chapitre 3.
+[ ] Ongles Aftershock - automatique au chapitre 5, dans l'objectif d'entree
+    du chateau.
+[ ] Collier Nemeni Prisaha - recompense de Sila's Pact au chapitre 7.
+[ ] Collier Naee Aasha - evenement de Johedy au chapitre 10.
+
+MARCHAND ET CRAFT
+
+[ ] Cape Pelerine - marchand de Cipal, echange contre un poppet.
+[ ] Cape Stranith - marchand de Cipal, echange contre un poppet.
+[ ] Cape Unbroken - acheter le Kit de couture a la Boutique de curiosites de
+    Visoria / Inner Visoria, puis fabriquer l'objet a un etabli.
+[ ] Collier Home Sweet Hell - meme Kit de couture, puis fabrication a un
+    etabli.
+
+Pour le Kit de couture, ouvre les coffres violets jusqu'a obtenir 64 vieilles
+pieces. Les coffres qui donnent des pieces sont repartis dans le monde et le
+jeu les marque sur la carte apres revelation de la region. Les deux crafts
+demandent au total 6 Fluteblossoms, 6 Bumbershoot et 6 Lucid Garlands. Les
+Fluteblossoms et Bumbershoot viennent surtout des coffres de fin de jeu ; les
+Lucid Garlands tombent sur les ennemis a aura jaune dans les tempetes, avec
+Farcoast Terrace comme point de farm permanent.
+
+ONGLES DES ABOMINATIONS
+
+[ ] Fatale - Gigas, Praenost / Mount Garrison.
+[ ] Spectrum - Deinosuchus, Avoalet / The Moulderings.
+[ ] Honor - Amphicynodon, Visoria / South Plateau.
+[ ] Escalate - Apsaravis, Junoon / Nowhere.
+
+EQUIPEMENTS LIES AUX POINTS D'INTERET
+
+JUNOON ET ENVIRONS DE CIPAl
+
+[ ] Orison - Locked Labyrinth: East, Near Cipal / The Barren Plains, collier.
+[ ] Balle Balle - The Place of Prayer, Near Cipal / The Sacred Peaks, collier.
+[ ] On Point - Abandoned Merchant Convoy, Near Cipal / The Sacred Peaks,
+    ongles.
+[ ] Clutch - Village: Reeve, Near Cipal / The Blessed Plains, ongles.
+[ ] Divers - Locked Labyrinth: Hill, Near Cipal / The Blessed Plains, cape.
+
+PRAENOST
+
+[ ] Valorous - Village: Ligare, The Guardians' Way, cape.
+[ ] Dig Deep - Fort Wielki, The Guardians' Way, ongles.
+[ ] Lief - Locked Labyrinth: Barrier, The Guardians' Way, cape.
+[ ] Dauntless - Cave: Brass Cavern, Brass Hollow, cape.
+[ ] III - Kloros Guild, Middle Praenost, ongles. Utilise la capacite de vol
+    de fin de jeu pour entrer par la fenetre haute de la tour.
+[ ] Nadezhda - Village: Vivus, Middle Praenost, collier.
+[ ] Ignite - Ruins of Zelenina, The Path of Glory, ongles.
+[ ] Puissant - Locked Labyrinth: Cliff, The Citadel, cape.
+[ ] Sarka - Ruins of Pagus, The Citadel, collier.
+[ ] Shrift - Locked Labyrinth: Mountain, Pioneers' Plain, collier.
+[ ] Nightshade - Ruins of Lepsi, Fields of the Fallen, ongles.
+[ ] Unstoppable - Militis Academy, The Mustering Ground, cape.
+[ ] Passion - Fort Optima, Mount Garrison, ongles.
+
+AVOALET
+
+[ ] Blessed - Village: Chichek, The Water Garden, ongles.
+[ ] Judicious - Village: Gyuzel, The Water Garden, cape.
+[ ] Aslani - Shoal Pond, The Water Garden, collier.
+[ ] Twisted - Ruins of Eskii, The Fountainfields, ongles.
+[ ] Yavuz Gagnant - Village: Colline, The Fountainfields, collier.
+[ ] Fain - Locked Labyrinth: Mountain Base, The Fountainfields, cape.
+[ ] Amped - Ruins of Calme, The Untrodden Forest, ongles.
+[ ] Faultless - Molybdos Guild, The Untrodden Forest, cape.
+[ ] Troth - Locked Labyrinth: Depths, The Untrodden Forest, collier.
+[ ] Jet - Ruins of Sommay, Golden Hills, ongles.
+[ ] Infallible - Village: Kabosharr, Golden Hills, cape.
+[ ] Heavy - Village: Perle, Samum Coast, ongles. La capacite de vol de fin de
+    jeu simplifie l'acces aux rochers flottants.
+[ ] Bounce - Brome Guild, The Moulderings, ongles. Utilise Glide depuis Samum
+    Coast pour rejoindre la montagne.
+
+VISORIA
+
+[ ] Grit - Cave: Plateau Hollow, Shepherd's Meadow, ongles.
+[ ] Oithur - Ruins of Austur, The Windy Hills, collier.
+[ ] Bonifate - Locked Labyrinth: Field, Humble Plain, cape.
+[ ] Frostbite - Fort Sestina, Visorian Plateau, ongles.
+[ ] Audacious - Ruins of Mercador, Visorian Plateau, cape.
+[ ] Whilom - Locked Labyrinth: West, Visorian Plateau, cape.
+[ ] Boundless - Cave: Redclaw Cavern, Academy Hills, cape.
+[ ] Tesouro de Athia - Village: Fruegel, Academy Hills, collier.
+[ ] Beaucoup - Ruins of Alda, Inner Visoria, ongles.
+[ ] Lit - Village: Zakto, Tanta's Demesne, ongles.
+[ ] Sooth - Locked Labyrinth: South, Homestead Hills, collier.
+[ ] Unsurpasable - Niccoline Guild, South Plateau, cape.
+[ ] Flaunt - Fort Gabb, Yonder Cape, ongles.
+[ ] Veriment - Locked Labyrinth: North, Visorian Isthmus, cape.
+[ ] Savage - Village: Upril, Visorian Isthmus, ongles.
+
+JUNOON
+
+[ ] Hope - Fort Chahiye, Crosstide Coast, ongles.
+[ ] Tease - Ruins of Teharnaa, Nearcoast Terrace, ongles.
+[ ] Fearless - Oxys Guild, Farcoast Terrace, cape.
+[ ] Monsterful - Locked Labyrinth: Forest, The Wolfwoods, cape.
+[ ] Incomparable - The Forbidden Meadow, The Harvest Lands, cape. Termine
+    Altar of Aasaan puis traverse le portail violet.
+[ ] Wired - Village: Biichu, The Blossomwoods, ongles.
+[ ] Forfend - Locked Labyrinth: Castle, Cipalian Way, cape.
+[ ] Gracious - Bhulna Villa, Physic Garden, cape.
+[ ] Wisdom - Fort Laayak, Physic Garden, ongles.
+
+Cette liste permet de controler chaque piece par nom, lieu et categorie. Les
+coffres violets qui ne donnent pas un equipement restent optionnels pour les
+succes, mais ils sont a ouvrir dans la boucle 100 % carte.
+
+POINTS D'INTERET - ROUTE GARANTIE VERS 100
+
+Les monuments, photos, fontaines, familiers et flashbacks ne comptent pas dans
+ce compteur. Les points d'interet valides sont les villages, forts, guildes,
+grottes, ruines, labyrinthes, reliques, traces, ponts, portes Tanta et
+abominations.
+
+Route conseillee :
+
+1. Fais d'abord les 56 lieux de la liste d'equipements qui sont des villages,
+   forts, guildes, grottes, ruines ou labyrinthes.
+2. Fais les quatre abominations : elles comptent et donnent les quatre onglets
+   d'ongles.
+3. Dans chaque region, vide ensuite les icones jaunes de type Village,
+   Fortress, Cognoscents' Guild, Cave, Ruins et Locked Labyrinth.
+4. Ajoute les Reliques des Tantas, les Traces, les Ponts et les Portes Tanta.
+5. Ignore les mutants pour ce compteur, sauf si tu vises la carte complete.
+6. Verifie les trois paliers : 10, 50 puis 100. Le succes Trailblazer tombe a
+   l'arrivee du centieme point valide.
+
+[ ] Explorer: Seeker - 10 points valides.
+[ ] Explorer: Pathfinder - 50 points valides.
+[ ] Explorer: Trailblazer - 100 points valides.
+
+ARCHIVES - 464 ENTREES MINIMUM
+
+Archivist demande 80 % du total, soit 464 entrees. Le jeu fournit des entrees
+par l'histoire, les detours, les evenements, les nouveaux ennemis, les
+ressources, chaque equipement, les familiers et les points d'interet qui
+affichent Archive Entry en recompense.
+
+- Fais les 21 detours et les evenements de Cipal pour obtenir une base solide.
+- Ramasse chaque nouvelle ressource au moins une fois.
+- Scanne chaque nouveau type d'ennemi avant de le vaincre.
+- Recupere les 70 equipements et les 20 familiers : ils donnent des entrees.
+- Si le compteur reste sous 464, ouvre les icones jaunes affichant Archive
+  Entry dans leur recompense, plutot que de nettoyer des coffres au hasard.
+- Le compteur se lit dans le menu Archive. Ne te fie pas au nombre de pages
+  visibles : seul le pourcentage global valide le succes.
+
+105 DEFIS DE SORTS - METHODE COMPLETE
+
+Chaque defi s'active sur la bibliotheque d'un refuge. Trois defis peuvent etre
+actifs en meme temps. Les niveaux I, II et III d'un meme sort sont trois cases
+distinctes. Quand le compteur est rempli, ouvre le menu Magie et valide
+l'amelioration ; sans cette validation, le defi reste termine mais le sort ne
+monte pas de niveau.
+
+FREY'S MAGIC - 29 DEFIS
+
+[ ] Shot - attaquer des ennemis pendant le parkour magique (35).
+[ ] Burst Shot I - vaincre des ennemis vulnerables a la magie de Frey (10).
+[ ] Burst Shot II - toucher au moins 3 ennemis avec un seul tir (10 fois).
+[ ] Burst Shot III - toucher des ennemis dans le dos (45).
+[ ] Scatter Shot I - infliger des degats cumules (10 000).
+[ ] Scatter Shot II - infliger 1 500 degats en 60 secondes.
+[ ] Scatter Shot III - transpercer au moins 2 ennemis avec la meme attaque
+    (20 fois).
+[ ] Shield Shot I - mettre des ennemis a terre (25).
+[ ] Shield Shot II - vaincre des ennemis avec le contre du bouclier (15).
+[ ] Shield Shot III - percuter des ennemis avec l'attaque chargee (70).
+[ ] Genesis I - vaincre des ennemis vulnerables a la magie de Frey (10).
+[ ] Genesis II - vaincre le dernier ennemi d'un combat avec Genesis (5).
+[ ] Genesis III - infliger des degats cumules avec Genesis (30 000).
+[ ] Flow - esquiver des attaques avec le parkour magique (25).
+[ ] Leap - grimper une distance cumulee de 500.
+[ ] Shimmy - utiliser Shimmy (50).
+[ ] Modify - transformer des Breakshards a l'etabli (15).
+[ ] Rarify - augmenter la valeur de Breakshards a l'etabli (20).
+[ ] Vivify - augmenter de 50 ou plus le bonus de sante d'un collier.
+[ ] Bind - frapper dans le dos des ennemis immobilises, pour 1 000 degats.
+[ ] Disperse - tuer des ennemis volants avec la fleur (3).
+[ ] Leach - guerir l'empoisonnement (3).
+[ ] Screen - activer Screen pendant un combat (10).
+[ ] Tendril - recuperer de la sante avec Tendril (750 PV cumules).
+[ ] Implant - toucher des ennemis avec Implant (10).
+[ ] Prime - mettre des ennemis a terre avec les mines (5).
+[ ] Burrow - ramasser des objets avec les racines (5).
+[ ] Cut and Run - vaincre des ennemis avec l'explosion de transition (15).
+[ ] Skip - activer Skip pendant un combat (15).
+
+ASTUCES FREY
+
+- Pour Burst Shot dans le dos, immobilise un groupe avec Bind puis passe
+  derriere lui.
+- Pour Shield Shot et Prime, utilise des ennemis resistants ou une cape faible :
+  une mort instantanee ne compte pas comme mise a terre.
+- Pour Disperse, les oiseaux de The Guardians' Way sont faciles a laisser
+  approcher ; attends que la fleur porte le coup final.
+- Les transformations Modify et Rarify se font en serie a l'etabli. Garde
+  assez de Breakshards de bas niveau avant de commencer.
+
+SILA'S MAGIC - 26 DEFIS
+
+[ ] Slice - sauter par-dessus des ennemis et les frapper en l'air (15).
+[ ] Arc Slice I - infliger 10 000 degats.
+[ ] Arc Slice II - toucher au moins 3 ennemis avec une attaque (10 fois).
+[ ] Arc Slice III - vaincre le dernier ennemi d'un combat (5).
+[ ] Rage Slice I - infliger 3 000 degats aux serviteurs des Tantas.
+[ ] Rage Slice II - faire un pas de cote pendant le combo (20).
+[ ] Rage Slice III - vaincre des ennemis avec l'explosion finale (25).
+[ ] Blast Slice I - vaincre des ennemis vulnerables a la magie de Sila (10).
+[ ] Blast Slice II - frapper des ennemis depuis une grande distance (15).
+[ ] Blast Slice III - vaincre 3 ennemis avec une meme attaque (15 fois).
+[ ] Conflagration I - vaincre le dernier ennemi d'un combat (5).
+[ ] Conflagration II - vaincre des Cauchemars (5).
+[ ] Conflagration III - infliger 30 000 degats.
+[ ] Zip - effectuer des actions speciales avec Zip (15).
+[ ] Charge - mettre des ennemis a terre (15).
+[ ] Crucible - toucher au moins 3 ennemis avec une seule zone (5).
+[ ] Fusillade - vaincre des ennemis vulnerables a la magie de Sila (8).
+[ ] Legion - laisser les soldats invoques vaincre des ennemis (5).
+[ ] Aegis - guerir des effets qui reduisent attaque ou defense (5).
+[ ] Beacon - activer Beacon pendant un combat (5).
+[ ] Soar - utiliser Soar (10).
+[ ] Rush - reussir l'acceleration de Rush (15).
+[ ] Drag and Drop - attirer des ennemis eloignes (20).
+[ ] Amplify - augmenter de 50 ou plus le bonus de magie d'une cape.
+[ ] Bombardier - vaincre le dernier ennemi d'un combat (5).
+[ ] Firetrap - attaquer des ennemis deja a terre (5).
+
+ASTUCES SILA
+
+- Blast Slice est le meilleur outil pour mettre des groupes a terre et enchainer
+  Firetrap, Maelstrom et les coups de fin.
+- Les serviteurs des Tantas comptent facilement dans les flashbacks qui font
+  apparaitre des ennemis simulacres.
+- Fusillade inflige peu de degats : affaiblis la cible, puis laisse les lames
+  invoquees donner le coup final.
+
+PRAV'S MAGIC - 25 DEFIS
+
+[ ] Bolt - infliger des degats pendant le parkour magique (500).
+[ ] Fan Bolt I - vaincre 3 ennemis avec une attaque (3 fois).
+[ ] Fan Bolt II - vaincre des ennemis vulnerables a la magie de Prav (15).
+[ ] Fan Bolt III - toucher au moins 10 ennemis avec une attaque (3 fois).
+[ ] Chain Bolt I - infliger des degats critiques cumules (1 000).
+[ ] Chain Bolt II - toucher des ennemis depuis une grande distance (25).
+[ ] Chain Bolt III - infliger 1 500 degats en 30 secondes.
+[ ] Cluster Bolt I - vaincre des serviteurs des Tantas (5).
+[ ] Cluster Bolt II - vaincre des ennemis volants (10).
+[ ] Cluster Bolt III - vaincre des Cauchemars (7).
+[ ] Cataract I - toucher au moins 5 ennemis avec une attaque (3 fois).
+[ ] Cataract II - vaincre des ennemis vulnerables a la magie de Prav (10).
+[ ] Cataract III - infliger 30 000 degats.
+[ ] Float - rester en l'air pendant 5 secondes pour finir le defi.
+[ ] Glide - glisser sur l'eau pendant 1 km.
+[ ] Fortify - augmenter de 30 ou plus la defense d'un equipement.
+[ ] Naedre - empoisonner des ennemis (15).
+[ ] Ablution - guerir un effet qui ralentit la recuperation d'endurance (2).
+[ ] Inundation - infliger 5 000 degats critiques sous Inundation.
+[ ] Maelstrom - vaincre des ennemis deja a terre (5).
+[ ] Brume - toucher des ennemis avec Brume (15).
+[ ] Eagre - toucher au moins 5 ennemis avec une attaque (5 fois).
+[ ] Alb - recevoir des attaques perforantes ou imparables sous Alb (10).
+[ ] Oubliette - vaincre des ennemis en brisant leur sphere d'eau (10).
+[ ] Up and Away - toucher au moins 3 ennemis avec une attaque (3 fois).
+
+ASTUCES PRAV
+
+- Float doit etre ameliore avant de viser I Can Fly!. Fais le defi de 5
+  secondes, valide le sort, puis maintiens Float 10 secondes au-dessus d'un
+  vide sans toucher le sol.
+- Pour les defis de groupes, attends que les Breakzombies soient serres. Les
+  tirs charges et Cataract sont plus fiables que les attaques rapides.
+- Pour Cluster Bolt et Pulse Dart contre les Cauchemars, Farcoast Terrace
+  reste le point de farm le plus regulier.
+
+OLAS'S MAGIC - 25 DEFIS
+
+[ ] Dart - toucher des ennemis 10 fois en 5 secondes.
+[ ] Storm Dart I - infliger 5 000 degats.
+[ ] Storm Dart II - toucher des ennemis depuis les airs (25).
+[ ] Storm Dart III - toucher des ennemis 5 fois en 2 secondes (5 fois).
+[ ] Seeker Dart I - toucher des ennemis 8 fois en 2 secondes.
+[ ] Seeker Dart II - vaincre des ennemis volants (5).
+[ ] Seeker Dart III - attaquer des ennemis a terre (20).
+[ ] Pulse Dart I - infliger 700 degats dans un intervalle d'une seconde.
+[ ] Pulse Dart II - vaincre des ennemis vulnerables a la magie d'Olas (15).
+[ ] Pulse Dart III - vaincre des Cauchemars (5).
+[ ] Tempest I - toucher au moins 3 ennemis avec une attaque (5 fois).
+[ ] Tempest II - vaincre le dernier ennemi d'un combat en etant en tres
+    mauvaise sante. La traduction anglaise du jeu omet cette condition.
+[ ] Tempest III - infliger 30 000 degats.
+[ ] Diversify - ajouter un quatrieme effet a un collier.
+[ ] Scale - utiliser Scale (10).
+[ ] Spoof - declencher Spoof pendant un combat (10).
+[ ] Distortion - vaincre des ennemis rendus confus (5).
+[ ] Aggression - toucher des ennemis 4 fois en 2 secondes.
+[ ] Projection - toucher des ennemis 6 fois en 2 secondes.
+[ ] Compulsion - vaincre des ennemis vulnerables a la magie d'Olas (10).
+[ ] Sublimation - recuperer 500 PV avec Sublimation.
+[ ] Compensation - charger la magie Surge grace aux esquives (50).
+[ ] Suppression - ouvrir le mode Photo pendant que Suppression est actif.
+[ ] Displacement - activer Displacement pendant un combat (15).
+[ ] Hide and Seek - infliger 1 000 degats en 10 secondes.
+
+ASTUCES OLAS ET DEFIS TRADUITS DE MANIERE TROMPEUSE
+
+- Tempest II : garde un seul ennemi vivant, laisse-le amener Frey au seuil de
+  sante critique, puis elimine-le avec Tempest. Fais une sauvegarde avant.
+- Spoof : le jeu demande une combinaison peu claire. Saute, esquive en l'air,
+  puis maintiens l'attaque ou le soutien pendant le mouvement. Le compteur
+  confirme l'activation ; repete sur des Breakzombies si necessaire.
+- Suppression : lance le sort, ouvre le menu Photo Mode, puis quitte-le. Le
+  defi se valide sans prendre une photo.
+- Barely There est un succes, pas un defi : apres Suppression, laisse un seul
+  ennemi vivant, lance le sort et reste parfaitement immobile 10 secondes.
+
+SUCCES DE COMBAT ET DE PARCOURS - NETTOYAGE CIBLE
+
+- No Mercy : 30 Killer Blows. Le symbole de dague apparait sur un ennemi a
+  terre ; approche-toi et valide l'execution. Arc Slice charge sur les zombies
+  est la methode la plus simple.
+- Knock 'Em Dead : charge une Surge Magic, regroupe trois ennemis faibles et
+  tue-les avec la meme explosion. Barren Plains est fiable.
+- Hell of a Run et Endless Runner : le premier se fait en 20 secondes, le
+  second demande 100 km cumules et tombe naturellement pendant les collectibles.
+- From Every Angle : un combat, quatre ecoles, un sort de chaque couleur.
+- Shocker : Surge d'Olas sur trois ennemis groupes.
+- Tit for Tat : dix contres de precision avec Auto-Evasion desactivee.
+- Hop, Step, Jump : cinq Shimmies consecutifs. Appuie sur la commande au
+  moment ou les etincelles apparaissent apres l'atterrissage, pas avant.
+- Barely There : Suppression, un seul ennemi vivant, immobilite complete
+  pendant 10 secondes.
+
+ABOMINATIONS - 4/4
+
+Fais-les apres la campagne avec toutes les magies. Chaque combat donne un
+ongle et compte dans les points d'interet.
+
+[ ] Gigas - Praenost / Mount Garrison - faiblesse : magie d'Olas.
+[ ] Deinosuchus - Avoalet / The Moulderings - faiblesse : magie de Frey.
+[ ] Amphicynodon - Visoria / South Plateau - faiblesse : magie de Sila.
+[ ] Apsaravis - Junoon / Nowhere - faiblesse : magie de Prav.
+
+Si Abominizer ne tombe pas apres la quatrieme, voyage rapidement ailleurs,
+laisse les abominations reapparaitre et bats-les une nouvelle fois dans un
+ordre different. Controle aussi que chaque ongle de la liste est bien present.
+
+CRAFTSPERSON - PROCEDURE SANS AMBIGUITE
+
+1. Ramasse 64 vieilles pieces dans les coffres violets.
+2. Va a la Boutique de curiosites de Visoria / Inner Visoria.
+3. Achete le Kit de couture.
+4. Dans un refuge, ouvre l'onglet Craft de l'etabli, pas seulement Upgrade.
+5. Fabrique Unbroken et Home Sweet Hell.
+6. Fabrique une potion de soin si aucune n'a deja ete fabriquee.
+
+Le succes se valide apres les trois crafts. Si les deux equipements ne sont
+pas visibles, verifie l'onglet Craft, la sauvegarde post-jeu et la possession
+du Kit avant de refaire la route.
+
+CHECKLIST FINALE - 53 SUCCES STEAM
+
+[ ] 01 - Attachments - progresser dans le chapitre 1.
+[ ] 02 - Unlocked Potential - depenser du mana pour apprendre un sort.
+[ ] 03 - Stuck - progresser dans le chapitre 2.
+[ ] 04 - Call of the Fount: Baptized - obtenir le pouvoir d'une fontaine.
+[ ] 05 - Tinkerer - fabriquer un objet pour la premiere fois.
+[ ] 06 - Pilgrimage: Initiate - visiter un premier monument ordinaire.
+[ ] 07 - The Interloper - progresser dans le chapitre 3.
+[ ] 08 - Knock 'Em Dead - tuer au moins 3 ennemis avec une Surge Magic.
+[ ] 09 - Hell of a Run - faire du parkour magique pendant 20 secondes continues.
+[ ] 10 - Leapfrogger - sauter au-dessus d'ennemis 10 fois.
+[ ] 11 - Help Me Out Here - utiliser Disperse 3 fois dans un meme combat.
+[ ] 12 - Through the Eyes of Another: Empath - terminer un flashback.
+[ ] 13 - Explorer: Seeker - visiter 10 points d'interet valides.
+[ ] 14 - What Must Be Done - progresser dans le chapitre 4.
+[ ] 15 - No Mercy - effectuer 30 Killer Blows.
+[ ] 16 - Might and Main - progresser dans le chapitre 5.
+[ ] 17 - Damned If You Do... - progresser dans le chapitre 6.
+[ ] 18 - The Hue of Blue - progresser dans le chapitre 7.
+[ ] 19 - The Truth Will Out - progresser dans le chapitre 8.
+[ ] 20 - Outdoorsperson - installer un camp.
+[ ] 21 - Breaking Point - progresser dans le chapitre 9.
+[ ] 22 - Hop, Step, Jump - reussir 5 Shimmies consecutifs.
+[ ] 23 - None the Wiser - progresser dans le chapitre 10.
+[ ] 24 - Forspoken - terminer la campagne principale.
+[ ] 25 - Endless Runner - parcourir 100 km en parkour magique.
+[ ] 26 - Awakening - terminer la derniere etape narrative de la campagne.
+[ ] 27 - From Every Angle - utiliser les 4 magies dans un meme combat.
+[ ] 28 - Shocker - electrocuter 3 ennemis a la fois.
+[ ] 29 - Explorer: Pathfinder - visiter 50 points d'interet valides.
+[ ] 30 - Pilgrimage: Novice - visiter 20 monuments ordinaires.
+[ ] 31 - Wildfire - vaincre avec Sila un ennemi immobilise par Bind.
+[ ] 32 - Realized Potential - acheter tous les sorts coutant du mana.
+[ ] 33 - Promises - terminer Lost Lullabies.
+[ ] 34 - A Roaring Trade - echanger les 9 poppets contre tous les objets.
+[ ] 35 - Explorer: Trailblazer - visiter 100 points d'interet valides.
+[ ] 36 - Call of the Fount: Beatified - obtenir les pouvoirs des 12 fontaines.
+[ ] 37 - Rebirth - terminer Cipal Reborn.
+[ ] 38 - Through the Eyes of Another: Seer - terminer 10 flashbacks.
+[ ] 39 - Paragon - apprendre tous les sorts, fontaines comprises.
+[ ] 40 - Craftsperson - fabriquer un soin et les 2 equipements originaux.
+[ ] 41 - I Can Fly! - rester en l'air 10 secondes avec Float.
+[ ] 42 - Archivist - debloquer 80 % des archives, soit 464 entrees.
+[ ] 43 - Tit for Tat - effectuer 10 contres de precision.
+[ ] 44 - Cat Person - apprivoiser les 20 familiers des Tantas.
+[ ] 45 - Pilgrimage: Adept - visiter 50 monuments ordinaires.
+[ ] 46 - Abominizer - vaincre les 4 abominations.
+[ ] 47 - Remembrance - dire les 4 prieres aux disparus.
+[ ] 48 - Happy Snapper - montrer les 50 photos aux enfants.
+[ ] 49 - Through the Eyes of Another: Visionary - terminer les 20 flashbacks.
+[ ] 50 - Moves - obtenir les felicitations de Pilo apres les danses.
+[ ] 51 - Kit and Caboodle - obtenir tous les equipements requis, hors sous-quetes.
+[ ] 52 - Barely There - rester cache avec Suppression pendant 10 secondes.
+[ ] 53 - Above and Beyond - ameliorer les 105 sorts avec leurs defis.
+
+VERIFICATION FINALE
+
+[ ] Le profil Steam affiche 53/53.
+[ ] Les 53 cases de cette fiche sont cochees.
+[ ] Les 105 sorts sont ameliores dans le menu Magie, pas seulement appris.
+[ ] Les 12 fontaines et les 20 flashbacks sont valides sur la carte.
+[ ] Les 20 familiers sont visibles dans les refuges.
+[ ] Les 4 recompenses d'abomination sont dans le menu des ongles.
+[ ] Les 70 equipements sont dans l'Archive, y compris les ongles.
+[ ] Le compteur Archive affiche au moins 80 %.
+[ ] Le compteur de points d'interet affiche 100.
+[ ] Les 50 photos ont ete remises aux enfants de Cipal.
+[ ] Les 9 poppets ont ete depenses chez le marchand.
+[ ] La sauvegarde POST-JEU-AVANT-NETTOYAGE est conservee.
+
+OPTION 100 % CARTE
+
+[ ] Les 54 monuments ordinaires sont visites, pas seulement 50.
+[ ] Les 48 beffrois sont actives.
+[ ] Les 47 refuges sont decouverts.
+[ ] Les 39 mutants sont vaincus.
+[ ] Tous les coffres violets de chaque sous-region sont ouverts.
+[ ] Toutes les icones de carte restantes sont nettoyees.
 
 DLC IN TANTA WE TRUST
 
-- Lance le DLC depuis son entree dediee apres la campagne principale.
-- Termine ses missions, detours, defis et objets dans un fichier de sauvegarde
-  separe si tu veux garder la campagne claire.
-- Controle le compteur Steam du DLC separement : ne considere pas son contenu
-  comme inclus dans les 53 succes de l'AppID 1680880 sans verification de ton
-  client Steam.
+Le DLC est separe de cette fiche et possede ses propres succes. Lance-le
+uniquement apres avoir conserve la sauvegarde POST-JEU. Ne melange pas ses
+compteurs avec ceux des 53 succes du jeu principal. Pour une fiche DLC
+complete, reprends la meme methode : sauvegarde dediee, route chronologique,
+collectibles avant la sortie d'une zone et checklist Steam independante.
 
-CHECKLIST STEAM FINALE - 53/53
+SOURCES DE CONTROLE
 
-[ ] Succes des chapitres et des combats.
-[ ] Tous les pouvoirs et sorts avec leurs defis.
-[ ] Detours de Cipal et de toutes les regions.
-[ ] Monuments, fontaines, labyrinthes, refuges, tours et coffres.
-[ ] Familiers, points photo, archives, capes, colliers, clous et crafts.
-[ ] Epreuves de combat et actions techniques.
-[ ] Nettoyage post-jeu de la carte.
-[ ] Verification finale du profil Steam : 53/53.
+- Steam, liste officielle des 53 succes :
+  https://steamcommunity.com/stats/1680880/achievements
+- PowerPyx, collectibles region par region :
+  https://www.powerpyx.com/forspoken-all-collectible-locations/
+- PowerPyx, equipements :
+  https://www.powerpyx.com/forspoken-all-equipment-locations/
+- PowerPyx, detours et fenetres de chapitre :
+  https://www.powerpyx.com/forspoken-all-detours-side-quests-locations/
+- PowerPyx, fontaines :
+  https://www.powerpyx.com/forspoken-all-founts-of-blessing-locations/
+- PowerPyx, flashbacks :
+  https://www.powerpyx.com/forspoken-all-flashbacks-challenge-locations-wisdom-monuments/
+- PowerPyx, familiers :
+  https://www.powerpyx.com/forspoken-all-tantas-familiars-locations/
+- PowerPyx, monuments :
+  https://www.powerpyx.com/forspoken-all-monument-locations/
+- PowerPyx, photos :
+  https://www.powerpyx.com/forspoken-all-photo-spot-pictures-locations/
+- PowerPyx, defis de sorts :
+  https://www.powerpyx.com/forspoken-all-spellcraft-challenges-guide-spell-upgrades/
+- PowerPyx, abominations et succes :
+  https://www.powerpyx.com/forspoken-trophy-guide-roadmap/
 
-REGLE ANTI-SPOILER
-
-Les chapitres et regions indiquent seulement le moment ideal pour nettoyer
-les activites. La trame, les identites, les morts, la fin et les consequences
-ne sont pas decrites.
+FIN DU GUIDE
