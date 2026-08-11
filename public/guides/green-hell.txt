@@ -1,0 +1,278 @@
+GREEN HELL
+GUIDE 100 % STEAM - 68 SUCCES STEAM - CHRONOLOGIQUE - SANS SPOILER
+
+Version de travail : 11 aout 2026
+
+PERIMETRE
+
+Cette soluce couvre le tutoriel, Story mode, les deux fins, les difficultes,
+les challenges, la survie, les maladies, les recettes, les plantes, la carte,
+les collectibles et Spirits of Amazonia. Le profil Steam affiche 68 succes :
+les succes Spirits of Amazonia sont inclus dans la derniere partie du guide.
+Les objectifs narratifs sont nommes de facon technique et sans detail de fin.
+
+OBJECTIF REEL
+
+- Fais d'abord le tutoriel, puis une partie Story en difficulte standard avec
+  un carnet de cartes, de collectibles et de villages.
+- Conserve une sauvegarde juste avant chaque grande bifurcation. Les deux fins,
+  Greedy et Green Hell demandent des routes distinctes ou des rechargements
+  controles.
+- Fais les defis de nourriture, de pacifisme, de mort volontaire et d'etats
+  negatifs sur des profils ou sauvegardes separes. Ils sont incompatibles avec
+  une partie propre et ne doivent pas contaminer la route principale.
+- Termine Story, puis Spirits of Amazonia. Dans Spirits, distingue confiance,
+  villages, enfants, femmes, totems, pecheurs, cartes, legumes et legends.
+
+GARDE-FOUS ET MISSABLES
+
+- Les succes sont majoritairement rejouables, mais une sauvegarde avancee peut
+  supprimer une fenetre utile. Garde quatre fichiers : TUTORIEL, STORY, DEFIS
+  et AMAZONIA.
+- `Greedy` demande de finir Story avec le sac d'or dans le sac a dos. Place-le
+  dans l'inventaire avant la conclusion et verifie la notification.
+- `Green Hell` demande la difficulte maximale. Lance une partie dediee ; ne
+  change pas la difficulte et ne compte pas sur une victoire precedente.
+- `Vegan!` et `Pacifist` ont des conditions de duree et de difficulte. Ne tue
+  pas, ne detruis pas de nid d'abeilles et ne touche pas aux pieges sur la
+  sauvegarde PACIFIST ; ne consomme que plantes et champignons sur VEGAN.
+- `Mr... I don't feel so good` demande plusieurs etats simultanes. Fais une
+  sauvegarde de test, prepare soins et abri, puis laisse la notification tomber
+  avant de soigner. Ne tente pas ce succes sur la partie principale.
+- Les tribus et les villages de Spirits ont des compteurs differents. Chaque
+  action de confiance, sauvetage, soin, totem, peche et legende doit etre notee
+  dans une colonne avec le nom de la tribu.
+- La route est chronologique et sans spoiler : les noms des fins sont utilises
+  seulement comme indicateurs de checklist, sans expliquer les evenements.
+
+ROUTE CHRONOLOGIQUE
+
+00 - TUTORIEL ET PREMIERS REFLEXES
+
+- Termine le tutoriel pour `You are not prepared`. Fabrique le premier outil,
+  allume un feu, trouve de l'eau potable et construis un premier abri.
+- Sauvegarde dans l'abri pour `I'm saved`, puis survis a une nuit dans la
+  jungle pour `Welcome to the jungle`.
+- Apprends les quatre familles de besoins : eau, nourriture, sommeil et
+  blessures. Retire les sangsues, inspecte les plaies et garde des feuilles,
+  bandages et charbons pour les premiers jours.
+- Explore sans courir. Les points visibles sur la carte et les notes sont plus
+  importants que la distance parcourue ; marque chaque source d'eau et chaque
+  abri.
+
+01 - STORY : CAMP, CARTE ET BASE DE SURVIE
+
+- Commence Story en difficulte standard. Construis un camp pres d'eau douce,
+  un feu couvert, un sechoir, un filtre et un abri de sauvegarde.
+- Fais les recettes de base : outils, armes, bandages, torches, armure et
+  nourriture sechee. `Caveman`, `I made fire!`, `Fresh Water` et `Home Sweet
+  Home` doivent tomber pendant cette installation.
+- Atteins le maximum dans une competence naturelle, par exemple recolte ou
+  fabrication, pour `Making progress`. Note le niveau avant et apres chaque
+  action si le succes tarde.
+- Recupere les cinq cartes et ouvre progressivement les points de la carte.
+  Le nettoyage final demandera 60 lieux pour `Cartographer`, mais ne cherche
+  pas encore la perfection pendant la premiere boucle.
+
+02 - STORY : SANTE, RESSOURCES ET COLLECTIBLES
+
+- Ramasse et lis les journaux, notes et objets de campagne. Garde une liste
+  numerotee pour atteindre 50 collectibles avec `Librarian`.
+- Retire 50 sangsues sur plusieurs jours. Laisse volontairement quelques
+  sangsues apres une marche humide, puis inspecte le corps avant de les enlever.
+- Fais l'experience des maladies et blessures sans sacrifier la sauvegarde
+  principale : brulure, plaie, rash, parasites, fievre, intoxication,
+  insomnia, salete, sangsues et autres etats requis pour `Got to catch them
+  all`.
+- Pour `Improvise, adapt, survive`, laisse des asticots nettoyer une plaie
+  infectee dans une sauvegarde de test. Soigne ensuite et reprends STORY.
+- Fabrique les quatre outils d'allumage pour `Pyromaniac`, maintiens un feu
+  unique pendant plus de cinq jours pour `Keeper of the flame`, et utilise une
+  tortue pour la soupe sur PRINCIPAL si l'action ne met pas en danger la route.
+
+03 - STORY : VILLAGES, CURE ET DEUX CONCLUSIONS
+
+- Suis les objectifs de Story dans l'ordre donne par le journal. A chaque
+  nouveau camp, sauvegarde, lis les notes, ouvre la carte et ferme les petits
+  objectifs de ressources avant de repartir.
+- Trouve la cure pour `I have it!`, puis complete les objectifs qui demandent
+  la progression normale. Le guide ne decrit pas la cause des maladies ni les
+  resultats des choix.
+- Fais une copie de STORY avant la conclusion. Depuis cette copie, valide la
+  fin A pour `It's all over, again`, puis recharge et valide la fin B pour
+  `Just, wait for me...`.
+- Sur une autre sauvegarde Story, garde le sac d'or dans le sac a dos avant la
+  fin pour `Greedy`. Ne le depose pas dans un coffre et verifie l'inventaire au
+  dernier point de sauvegarde.
+- Pour `This is Jake Higgins...`, retourne a la base au moment indique par le
+  journal. Cette action est separee de la validation des fins.
+
+04 - DEFIS DE DIFFICULTE ET CONTRAINTES
+
+- `The first step to greatness` : meurs une fois sur une sauvegarde jetable,
+  puis recharge STORY. La mort volontaire ne doit pas interrompre la route de
+  collecte.
+- `Tastes like chicken...` : mange de la viande humaine sur DEFIS. Ne le fais
+  pas sur VEGAN.
+- `Self-defense` : tue un membre de tribu sur PRINCIPAL ou DEFIS, puis garde
+  une sauvegarde avant le combat si la notification est absente.
+- `Am I losing it?` : rencontre l'etat de Sanity requis et tue le type
+  d'ennemi correspondant sur DEFIS. Ne transforme pas la partie principale en
+  farm de Sanity.
+- `I don't need to sleep` : accumule cinq niveaux d'insomnie. `Mr... I don't
+  feel so good` : reunis simultanement les etats listes par Steam. Ces deux
+  actions se font avec une reserve de soins et un abri tout proche.
+- `Iron Man` : fabrique et porte l'armure metal complete. `King of the jungle`
+  : chasse le serpent, le jaguar, le puma, le caiman et les trois familles
+  d'arachnides. Fais-le sur PRINCIPAL avant la route PACIFIST.
+- `Vegan!` : sur une nouvelle partie, difficulte Welcome to the Jungle ou
+  superieure, survis 25 jours en mangeant uniquement plantes et champignons.
+  Aucun aliment animal ne doit entrer dans la partie.
+- `Pacifist` : sur une nouvelle partie, difficulte King of the Jungle ou
+  superieure, survis dix jours sans tuer humain ou animal, detruire un nid
+  d'abeilles ni interagir avec un piege. Evite les zones dangereuses plutot que
+  de tenter de repousser les ennemis.
+- `I made it` : survis dix jours en King of the Jungle ou plus. Fais une
+  sauvegarde dediee avec camp, eau et feu, puis ne change jamais la difficulte.
+
+05 - STORY : NETTOYAGE NATURE ET ACTIONS SPECIFIQUES
+
+- Attrape neuf animaux aquatiques avec les pieges ou outils adaptes pour
+  `Gotcha!`. Note chaque type, pas seulement le nombre de prises.
+- Fais pousser 12 plantes differentes pour `Gardener`, conserve les graines et
+  utilise plusieurs jardinières pour eviter de perdre une espece.
+- Fais une soupe de tortue dans sa carapace pour `Going back home`.
+- Trouve le paquet de bonhomme de neige dans trois lieux pour `Do you want to
+  play with a snowman?`. Note les trois lieux dans la feuille de route.
+- Brule dix tas de dechets toxiques et dix corps de membres de tribu dans les
+  zones ou cela est autorise. `Cleaning volunteer` et `Rest in peace` peuvent
+  etre etales sur plusieurs retours.
+- Parcours la carte par secteurs jusqu'a 60 lieux debloques et 64 km parcourus
+  pour `Cartographer` et `Globetrotter`. Une boucle de collecte finale suffit
+  souvent pour le kilometrage.
+
+06 - SPIRITS OF AMAZONIA : ORDRE DE TRAVAIL
+
+- Lance la sauvegarde AMAZONIA apres avoir termine Story et installe un camp.
+  Apprends les nouvelles recettes, construis un abri, puis ouvre la carte du
+  chapitre en cours.
+- Commence par les actions locales : reparation de totems, destruction des
+  tas de dechets, soins, pecheurs, cages et enfants. Chaque action augmente un
+  compteur different, donc note la tribu et la zone.
+- Decouvre les villages Mu'agi, Un'garaca et Habbacu. Nomme les trois lignes
+  de carte `Oyohua Mu'agi`, `Oyohua Un'garaca` et `Oyohua Habbacu` dans ton
+  suivi.
+- Atteins 800 de confiance pour chaque tribu : Mu'agi, Un'garaca et Habbacu.
+  Alterne quetes, sauvetages et actions de village au lieu de farmer une seule
+  activite.
+- Realise les trois rituels et les trois series de legends de la tribu
+  correspondante. N'archive une tribu que lorsque village, confiance, rituel,
+  legends et habitants sont tous coches.
+
+07 - SPIRITS OF AMAZONIA : HABITANTS ET ANIMAUX
+
+- Libere neuf femmes de tribu et ramene neuf enfants en securite. Fais les
+  sauvetages avant de quitter la zone, puis sauvegarde dans un abri.
+- Aide cinq pecheurs de tribu, soigne au moins un membre avec Molineria et
+  reconstruis dix totems. `Molineria-man`, `Fishing in troubled waters` et
+  `Handyman` sont suivis par compteurs separes.
+- Trouve les cinq cartes de Spirits et lis les collectibles requis. Reviens
+  dans chaque village avec les objets necessaires avant les rituels.
+- Place un animal dans l'Animal Pen, caresse-le et fais-le se reproduire pour
+  `A new friend`, `Emotional support` et `Circle of Life`. Fais ces trois
+  actions dans une installation stable.
+- Termine l'histoire Spirits of Amazonia pour `This is how it began`, puis
+  valide `Thats the spirit!` lorsque tous les objectifs Spirits sont fermes.
+
+08 - FARM FINAL ET CHECK DES NOTIFICATIONS
+
+- `Casted Far Away` : trouve l'ami inattendu indique par le contenu de la
+  partie, sans modifier la route de Story.
+- `It's all their fault` : trouve le champignon demande. `Soul Vine` : bois
+  l'ayahuasca. Ces deux actions peuvent se faire apres la campagne principale.
+- `I have it!` et les deux fins doivent etre valides avant de supprimer un
+  ancien fichier de Story. Les succes de difficulte doivent etre verifies
+  dans une partie qui n'a jamais baisse son niveau.
+- Relis la checklist par familles : debut, Story, sante, survie, nature, carte,
+  Spirits villages, Spirits habitants, Spirits rituals et animaux.
+- Steam doit afficher 68/68. Si un compteur semble bloque, ferme le jeu apres
+  la notification, relance Steam et verifie le succes avant de recharger.
+
+CHECKLIST STEAM - 68/68
+
+[ ] You are not prepared - terminer le tutoriel.
+[ ] Soul Vine - boire l'ayahuasca.
+[ ] It's all over, again - terminer Story, fin A.
+[ ] Just, wait for me... - terminer Story, fin B.
+[ ] Greedy - terminer Story avec le sac d'or dans le sac a dos.
+[ ] Green Hell - terminer le jeu en difficulte Green Hell.
+[ ] Globetrotter - parcourir 64 km.
+[ ] I made fire! - allumer un feu.
+[ ] Welcome to the jungle - survivre une nuit dans la jungle.
+[ ] I made it - survivre dix jours en King of the Jungle ou plus.
+[ ] The first step to greatness - mourir.
+[ ] Tastes like chicken... - manger de la viande humaine.
+[ ] Self-defense - tuer un membre de tribu.
+[ ] Caveman - fabriquer le premier outil.
+[ ] Vegan! - survivre 25 jours avec seulement plantes et champignons en Welcome to the Jungle ou plus.
+[ ] Pacifist - survivre dix jours en King of the Jungle ou plus sans tuer, detruire de nid d'abeilles ni piege.
+[ ] Casted Far Away - trouver l'ami inattendu.
+[ ] Making progress - atteindre le maximum d'une competence.
+[ ] Iron Man - fabriquer et porter une armure metal complete.
+[ ] I'm saved - sauvegarder dans un abri.
+[ ] It's all their fault - trouver le champignon a l'origine de tout.
+[ ] Am I losing it? - tuer un membre de tribu de Sanity.
+[ ] Leeches, leeches everywhere - retirer 50 sangsues.
+[ ] Improvise, adapt, survive - laisser des asticots manger une plaie infectee.
+[ ] Home Sweet Home - construire le premier abri.
+[ ] I have it! - trouver la cure.
+[ ] Fresh Water - boire de l'eau potable.
+[ ] I don't need to sleep - obtenir cinq niveaux d'insomnie.
+[ ] Keeper of the flame - garder un feu allume plus de cinq jours en Welcome to the Jungle ou plus.
+[ ] Going back home - faire une soupe de tortue dans sa carapace.
+[ ] Gotcha! - attraper neuf animaux aquatiques.
+[ ] King of the jungle - chasser serpent, jaguar, puma, caiman et trois types d'arachnides.
+[ ] Do you want to play with a snowman? - trouver le paquet de bonhomme de neige dans trois lieux.
+[ ] Pyromaniac - debloquer quatre outils d'allumage.
+[ ] Mr... I don't feel so good - avoir simultanement les etats demandes par Steam.
+[ ] Got to catch them all - subir 12 maladies ou blessures uniques.
+[ ] I'm not afraid of any work - terminer sept challenges.
+[ ] Gardener - cultiver 12 plantes differentes.
+[ ] Cartographer - debloquer 60 lieux sur la carte.
+[ ] Librarian - lire 50 collectibles.
+[ ] Mu'agi Friend - atteindre 800 de confiance Mu'agi.
+[ ] Un'garaca Friend - atteindre 800 de confiance Un'garaca.
+[ ] Habbacu Friend - atteindre 800 de confiance Habbacu.
+[ ] Babysitter - ramener neuf enfants en securite.
+[ ] Molineria-man - soigner un membre de tribu.
+[ ] Rest in peace - bruler dix corps de membres de tribu.
+[ ] Cleaning volunteer - bruler dix tas de dechets toxiques.
+[ ] Fishing in troubled waters - aider cinq pecheurs de tribu.
+[ ] Handyman - reconstruire dix totems de tribu.
+[ ] Cage opener - liberer neuf femmes de tribu.
+[ ] Map Collector - trouver cinq cartes.
+[ ] This is how it began - terminer l'histoire Spirits of Amazonia.
+[ ] This is Jake Higgins... - faire le rapport a la base.
+[ ] The Ritual of Mu'agi - terminer l'epreuve Mu'agi.
+[ ] The Ritual of Habbacu - terminer l'epreuve Habbacu.
+[ ] The Ritual of Un'garaca - terminer l'epreuve Un'garaca.
+[ ] Are we there yet? - atteindre le village Yabahuaca.
+[ ] Work hard, play hard - terminer l'epreuve Yabahuaca.
+[ ] Oyohua Mu'agi - decouvrir le village Mu'agi.
+[ ] Oyohua Habbacu - decouvrir le village Habbacu.
+[ ] Oyohua Un'garaca - decouvrir le village Un'garaca.
+[ ] The Legends of Mu'agi - terminer toutes les legends Mu'agi.
+[ ] The Legends of Un'garaca - terminer toutes les legends Un'garaca.
+[ ] The Legends of Habbacu - terminer toutes les legends Habbacu.
+[ ] Thats the spirit! - terminer tous les succes Spirits of Amazonia.
+[ ] A new friend - placer un animal dans l'Animal Pen.
+[ ] Emotional support - caresser un animal.
+[ ] Circle of Life - faire se reproduire un animal.
+
+VERIFICATION FINALE
+
+- Controle les quatre sauvegardes et les 68 notifications Steam avant archivage.
+- Si un succes manque, reviens a la famille correspondante : les objectifs
+  de Story, de difficulte et de Spirits ne partagent pas tous leurs compteurs.
+- Le guide reste chronologique et sans spoiler : les deux fins sont seulement
+  deux cases techniques a valider, jamais une explication de l'histoire.
