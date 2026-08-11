@@ -162,6 +162,12 @@ soluce chronologique classique n'apporterait rien.
 - Trine 2: Complete Story — guide publie : 97/97 succes Steam, deux campagnes, collectibles et Hardcore
 - We Were Here — guide publie : 26/26 succes Steam, deux roles, Perfect Play et online
 
+### Coop et defis
+
+- Lara Croft and the Temple of Osiris — guide publie : 40/40 succes Steam, tombes, defis et coop a quatre
+- Overcooked! All You Can Eat — guide publie : 42/42 succes Steam, deux campagnes, Arcade, Versus et chefs
+- Sniper Elite: Nazi Zombie Army — guide publie : 26/26 succes Steam, cinq chapitres, collectibles et Elite a quatre
+
 ## Futurs guides chronologiques (`planned`)
 
 ### Final Fantasy et RPG proches
@@ -178,7 +184,6 @@ soluce chronologique classique n'apporterait rien.
 
 - Lara Croft and the Temple of Osiris
 - Overcooked! All You Can Eat
-- Sniper Elite: Nazi Zombie Army
 - The Forest
 - Sons Of The Forest
 - Green Hell

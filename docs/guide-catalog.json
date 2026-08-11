@@ -138,6 +138,9 @@
     { "id": "magicka-2", "title": "Magicka 2", "scope": "full-guide", "status": "draft", "file": "public/guides/magicka-2.txt" },
     { "id": "trine", "title": "Trine Enchanted Edition", "scope": "full-guide", "status": "draft", "file": "public/guides/trine.txt" },
     { "id": "trine-2", "title": "Trine 2: Complete Story", "scope": "full-guide", "status": "draft", "file": "public/guides/trine-2.txt" },
-    { "id": "we-were-here", "title": "We Were Here", "scope": "full-guide", "status": "draft", "file": "public/guides/we-were-here.txt" }
+    { "id": "we-were-here", "title": "We Were Here", "scope": "full-guide", "status": "draft", "file": "public/guides/we-were-here.txt" },
+    { "id": "lara-croft-temple-of-osiris", "title": "Lara Croft and the Temple of Osiris", "scope": "full-guide", "status": "draft", "file": "public/guides/lara-croft-temple-of-osiris.txt" },
+    { "id": "overcooked-all-you-can-eat", "title": "Overcooked! All You Can Eat", "scope": "full-guide", "status": "draft", "file": "public/guides/overcooked-all-you-can-eat.txt" },
+    { "id": "sniper-elite-nazi-zombie-army", "title": "Sniper Elite: Nazi Zombie Army", "scope": "full-guide", "status": "draft", "file": "public/guides/sniper-elite-nazi-zombie-army.txt" }
   ]
 }

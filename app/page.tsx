@@ -2101,6 +2101,54 @@ const guides: Guide[] = [
       "A surveiller : le micro, les huit Perfect Play, les deux roles et la run complete sans mort.",
     meta: ["26/26 Steam", "2 joueurs", "Micro / Online"],
   },
+  {
+    id: "lara-croft-temple-of-osiris",
+    steamAppId: 289690,
+    title: "Lara Croft and the Temple of Osiris",
+    eyebrow: "Crystal Dynamics / Square Enix",
+    subtitle: "Campagne, tombes et defis dans l'ordre.",
+    count: "40 succes Steam",
+    file: "lara-croft-temple-of-osiris.txt",
+    accent: "gold",
+    tag: "Guide 100 % Steam",
+    description:
+      "Route des tombes, defis de temps, cranes rouges, scores, canopic jars et cooperation.",
+    highlight:
+      "A surveiller : les familles de defis, les classements multijoueur et les quatre joueurs.",
+    meta: ["40/40 Steam", "Challenge Tombs", "Coop 4 joueurs"],
+  },
+  {
+    id: "overcooked-all-you-can-eat",
+    steamAppId: 1243830,
+    title: "Overcooked! All You Can Eat",
+    eyebrow: "Team17 / Ghost Town Games",
+    subtitle: "Deux campagnes, bonus et coop dans l'ordre.",
+    count: "42 succes Steam",
+    file: "overcooked-all-you-can-eat.txt",
+    accent: "coral",
+    tag: "Guide 100 % Steam",
+    description:
+      "Route des deux jeux, Ever Peckish Rises, Arcade, Versus et configurations de chefs.",
+    highlight:
+      "A surveiller : les quatre chefs, les cuisines Classic, les emotes et les chiens Kevin.",
+    meta: ["42/42 Steam", "200+ niveaux", "Coop 4 joueurs"],
+  },
+  {
+    id: "sniper-elite-nazi-zombie-army",
+    steamAppId: 227100,
+    title: "Sniper Elite: Nazi Zombie Army",
+    eyebrow: "Rebellion",
+    subtitle: "Campagne, collectibles et coop dans l'ordre.",
+    count: "26 succes Steam",
+    file: "sniper-elite-nazi-zombie-army.txt",
+    accent: "blue",
+    tag: "Guide 100 % Steam",
+    description:
+      "Route des cinq chapitres, bouteilles de sang, lingots d'or et objectifs a quatre.",
+    highlight:
+      "A surveiller : les explosions de masse, la campagne Elite a quatre et la possession de deux jeux Nazi Zombie Army.",
+    meta: ["26/26 Steam", "5 chapitres", "Coop 4 joueurs"],
+  },
 ];
 
 const steamHeaderUrl = (appId: number) =>

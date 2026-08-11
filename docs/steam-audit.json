@@ -132,6 +132,9 @@
     { "id": "magicka-2", "appId": 238370, "steamAchievements": 47, "guideType": "100-steam-campaign-difficulties-coop", "source": "https://steamcommunity.com/stats/238370/achievements" },
     { "id": "trine", "appId": 35700, "steamAchievements": 33, "guideType": "100-steam-collectibles-difficulty-coop", "source": "https://steamcommunity.com/stats/35700/achievements" },
     { "id": "trine-2", "appId": 35720, "steamAchievements": 97, "guideType": "100-steam-collectibles-dlc-hardcore", "source": "https://steamcommunity.com/stats/35720/achievements" },
-    { "id": "we-were-here", "appId": 582500, "steamAchievements": 26, "guideType": "100-steam-coop-roles-perfect-play", "source": "https://steamcommunity.com/stats/582500/achievements" }
+    { "id": "we-were-here", "appId": 582500, "steamAchievements": 26, "guideType": "100-steam-coop-roles-perfect-play", "source": "https://steamcommunity.com/stats/582500/achievements" },
+    { "id": "lara-croft-temple-of-osiris", "appId": 289690, "steamAchievements": 40, "guideType": "100-steam-tombs-challenges-coop", "source": "https://steamcommunity.com/stats/289690/achievements" },
+    { "id": "overcooked-all-you-can-eat", "appId": 1243830, "steamAchievements": 42, "guideType": "100-steam-campaigns-arcade-versus-coop", "source": "https://steamcommunity.com/stats/1243830/achievements" },
+    { "id": "sniper-elite-nazi-zombie-army", "appId": 227100, "steamAchievements": 26, "guideType": "100-steam-campaign-collectibles-coop", "source": "https://steamcommunity.com/stats/227100/achievements" }
   ]
 }

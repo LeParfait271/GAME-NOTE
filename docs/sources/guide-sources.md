@@ -1257,3 +1257,20 @@ conditions difficiles ; elles ne justifient jamais une copie mot a mot.
   https://steamcommunity.com/stats/582500/achievements
 - Liste complete We Were Here, roles et Perfect Play :
   https://www.exophase.com/game/we-were-here-steam/achievements/
+
+## COOP ET DEFIS
+
+- Succes officiels Lara Croft and the Temple of Osiris, AppID 289690 :
+  https://steamcommunity.com/stats/289690/achievements
+- Liste complete Lara Croft and the Temple of Osiris :
+  https://www.exophase.com/game/lara-croft-and-the-temple-of-osiris-steam/achievements/
+- Succes officiels Overcooked! All You Can Eat, AppID 1243830 :
+  https://steamcommunity.com/stats/1243830/achievements
+- Fiche Steam Overcooked! All You Can Eat, total 42 succes :
+  https://store.steampowered.com/app/1243830/Overcooked_All_You_Can_Eat/
+- Liste complete Overcooked! All You Can Eat :
+  https://www.exophase.com/game/overcooked-all-you-can-eat-steam/achievements/
+- Succes officiels Sniper Elite: Nazi Zombie Army, AppID 227100 :
+  https://steamcommunity.com/stats/227100/achievements
+- Fiche Steam Sniper Elite: Nazi Zombie Army :
+  https://store.steampowered.com/app/227100/Sniper_Elite_Nazi_Zombie_Army/
