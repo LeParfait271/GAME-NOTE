@@ -96,4 +96,9 @@ test("la surface Cloudflare reste protégée", () => {
   assert.doesNotMatch(headers, /unsafe-eval/);
   assert.match(redirects, /\/index\.html \/\s*301/);
   assert.equal(manifest.display, "standalone");
+  assert.equal(
+    manifest.shortcuts.some((shortcut) => /favori/i.test(JSON.stringify(shortcut))),
+    false,
+    "raccourci favoris obsolète",
+  );
 });
