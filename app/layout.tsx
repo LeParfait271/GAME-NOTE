@@ -3,9 +3,9 @@ import "./globals.css";
 import PwaRegister from "./pwa-register";
 
 export const metadata: Metadata = {
-  title: "Game Note — guides chronologiques sans spoiler",
+  title: "Game Note — le bon chemin, sans rien rater",
   description:
-    "Des soluces chronologiques pour jouer sans rater les succès, quêtes et collectibles.",
+    "Des guides de progression chronologiques pour jouer sans spoiler et ne rien rater.",
   applicationName: "Game Note",
   authors: [{ name: "Game Note" }],
   keywords: ["guides jeux video", "succes Steam", "soluces", "sans spoiler"],
@@ -14,7 +14,7 @@ export const metadata: Metadata = {
   alternates: { canonical: "/" },
   openGraph: {
     title: "Game Note",
-    description: "Des soluces chronologiques pour jouer sans rater les succes, quetes et collectibles.",
+    description: "Des guides de progression chronologiques pour jouer sans spoiler et ne rien rater.",
     type: "website",
     url: "/",
     siteName: "Game Note",
@@ -22,7 +22,7 @@ export const metadata: Metadata = {
   twitter: {
     card: "summary",
     title: "Game Note",
-    description: "Des soluces chronologiques pour jouer sans rater les succes, quetes et collectibles.",
+    description: "Des guides de progression chronologiques pour jouer sans spoiler et ne rien rater.",
   },
   robots: { index: true, follow: true },
   icons: {
