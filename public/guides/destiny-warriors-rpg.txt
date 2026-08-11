@@ -1,72 +1,1151 @@
 DESTINY WARRIORS RPG
-GUIDE 100 % STEAM - 6 SUCCES STEAM - CHRONOLOGIQUE - SANS SPOILER
+GUIDE CHRONOLOGIQUE 100 % STEAM - 6 SUCCES STEAM - FICHE PREMIUM - SANS SPOILER NARRATIF
 
 Version de travail : 11 aout 2026
+Plateforme visee : Steam - AppID 399790
+Difficulte conseillee : Easy pour une premiere completion
 
-OBJECTIF
+======================================================================
+OBJECTIF DE COMPLETION
+======================================================================
 
-Petite route RPG complète, dans l'ordre des zones et des entraînements. Les
-succès sont indiqués par l'action à effectuer, sans raconter l'histoire.
+Cette fiche suit Destiny Warriors RPG dans l'ordre exact des chapitres et
+des zones. Elle sert a terminer la route, ouvrir les coffres reperes,
+acheter l'equipement utile, reussir les enigmes et valider les 6 succes Steam
+sans devoir consulter une autre soluce.
 
+Le recit n'est pas raconte. Les noms des lieux, adversaires et personnages
+sont conserves uniquement comme reperes de progression.
+
+OBJECTIFS A LA FIN :
+
+- 6/6 succes Steam.
+- Tous les coffres et ressources signales dans les zones principales.
+- Les achats prioritaires faits avant les chapitres qui suivent.
+- Les enigmes des cinq balises resolues.
+- Le duel d'entrainement gagne avant de quitter sa fenetre.
+- Les combats finaux abordes avec les consommables et l'equipement adequats.
+
+======================================================================
+COMMENT LIRE LA FICHE
+======================================================================
+
+- [ZONE] : endroit ou se deroule l'etape.
+- [COFFRES] : compte a controler dans la zone avant de partir.
+- [ACHAT] : equipement recommande ; la liste n'impose pas les achats
+  cosmetiques ou les doublons deja possedes.
+- [COMBAT] : preparation et plan simple, sans detail narratif.
+- [SUCCES] : controle immediat a faire dans Steam.
+- □ : case interne de route ; elle ne remplace pas la checklist finale.
+- Conserve les noms anglais affiches par le jeu pour retrouver facilement
+  les menus, objets et succes.
+
+======================================================================
 GARDE-FOUS AVANT DE COMMENCER
+======================================================================
 
-- AppID Steam : 399790. Il y a 6 succès, aucun DLC et aucun online requis.
-- Garde une sauvegarde au village, avant chaque entraînement et avant chaque
-  entrée dans une nouvelle partie. Fouille les bords des cartes avant de
-  déclencher l'objectif principal.
-- Les combats optionnels servent à monter les personnages ; ne vends pas les
-  objets uniques tant que les boutiques n'ont pas été vérifiées.
+- Cree au moins trois sauvegardes tournantes : une au village, une avant
+  chaque entrainement ou tournoi, et une avant chaque nouvelle zone.
+- Joue en Easy si ton objectif est le 100 %. La difficulte ne rapporte aucun
+  succes supplementaire et les combats peuvent devenir inutilement longs.
+- Ouvre les coffres avant de declencher l'objectif qui fait avancer la zone.
+- Garde les Ryo pour les achats listes. Les boutiques demandent parfois des
+  sommes importantes juste avant un chapitre.
+- Ne vide pas ton inventaire de Half X-Pill, Full X-Pill, X-Hp Pill,
+  X-Tp Pill et First Aid Kit avant le desert et les combats contre les
+  Phantom.
+- Les rencontres aleatoires peuvent etre longues. Fuis les monstres visibles
+  quand la route le permet et combats les affrontements imposes.
+- Si tu sauvegardes dans un desert pendant un combat impossible a fuir,
+  recharge une sauvegarde precedente : garde toujours un slot de secours.
+- Le succes Brother Fight est le seul succes signale comme ratable par les
+  guides communautaires : gagne le duel de Zane des que la salle
+  d'entrainement devient accessible.
+- Les autres succes se debloquent sur la route si tu suis les controles de la
+  fiche, mais verifie leur apparition avant d'ecraser la sauvegarde precedente.
 
-MISSABLES ET CONDITIONS RATABLES
+======================================================================
+TABLEAU DES 6 SUCCES
+======================================================================
 
-- Les cloches de la forêt sont la seule collecte à contrôler dès la première
-  visite. Fais demi-tour avant la sortie si le compteur n'est pas complet.
-- Le duel d'entraînement et le rendez-vous de Spark se font dans leur séquence
-  dédiée ; sauvegarde avant de parler aux personnages concernés.
-- Les chapitres peuvent être rejoués, mais une sauvegarde préventive évite de
-  refaire la zone entière.
+1. Ring-a-Ding-Dong
+   Condition : trouver les 5 cloches de Tree Leaf Forest.
+   Fenetre : chapitre 1, avant le combat contre Zane.
 
-ORDRE RECOMMANDE
+2. Wanna meet that dad
+   Condition : parler a Mike dans sa maison.
+   Fenetre : chapitre 3, Thunder Cloud Village.
 
-1. ACADEMIE ET FORET
+3. Defeated Ikibo
+   Condition : terminer le combat prevu contre Ikibo.
+   Fenetre : chapitre 4, Death's Forest.
 
-- Termine le tutoriel et l'entraînement initial. Fais le tour de la forêt,
-  ramasse toutes les cloches et confirme Ring-a-Ding-Dong.
-- Reviens à l'académie pour le combat d'entraînement avec Zane : Brother Fight.
-- Soigne l'équipe, équipe les meilleures armes et garde les consommables pour
-  le premier donjon.
+4. Brother Fight
+   Condition : gagner le duel d'entrainement contre Zane.
+   Fenetre : chapitre 4, Training Shed de Tree Leaf Village.
+   Ratable : oui, ne continue pas la route sans le succes.
 
-2. VOYAGE ET PREMIERE PARTIE
+5. Part Two
+   Condition : atteindre Part Two.
+   Fenetre : fin du chapitre 6.
 
-- Suis la route principale, ouvre les coffres latéraux et parle à chaque allié
-  avant de quitter une ville.
-- Lorsque Spark est disponible, termine le détour qui mène à son père pour
-  Wanna meet that dad. Ne pars pas avant l'affichage du succès.
-- Bats Ikibo dans la séquence prévue : Defeated Ikibo. Recharge si le combat
-  est interrompu avant l'écran de résultat.
+6. Til Next Time
+   Condition : terminer l'entrainement Ninja final.
+   Fenetre : chapitre 11, Carnival de Tree Leaf Village.
 
-3. DEUXIEME PARTIE ET ENTRAINEMENT FINAL
+======================================================================
+PROGRESSION DE COMBAT ET EQUIPE
+======================================================================
 
-- Continue jusqu'à l'écran de progression de Part Two et valide Part Two.
-- Termine le nouvel entraînement Ninja, sans sauter les objectifs facultatifs,
-  pour Til Next Time.
-- Fais ensuite le nettoyage des coffres et des compétences. Les six succès sont
-  maintenant couverts ; aucune fin supplémentaire n'est requise par Steam.
+Les commandes et objets peuvent varier selon le niveau, mais la logique
+suivante reste fiable :
 
+- J.C. : degats physiques et attaques de feu ; Fire Wall, Hell's Fire et
+  Radiant Blade sont les reperes de fin de jeu.
+- Spark : degats physiques, foudre et Shadow Blade ; X-Zap Blade est utile
+  contre les adversaires sensibles a la foudre ou au sacre.
+- Maddie : magie et soins ; Bubble Storm sert a nettoyer les groupes.
+- Max : soutien, soins et attaques d'ombre dans la premiere moitie.
+- Kitt : soutien et degats physiques ; VXAP-Tp Boost, Restore II et
+  Deadly Sweep Kick! deviennent le noyau de la fin de jeu.
+- Shizuney : soins et magie de foudre ; garde Healing Rain et Recovery
+  pour les combats de groupe.
+- Zane : revient tard avec des attaques sacrees et Hell's Fire.
+- Mike : utile selon la composition imposee, mais ne gaspille pas les
+  consommables rares pour le rendre offensif.
+
+Raccourcis utiles :
+
+- Bubble Storm pour affaiblir plusieurs adversaires.
+- X-Tu de zone au premier tour contre les petits groupes.
+- Tp Boost ou X-Tp Boost avant une technique decisive.
+- Restore, Recovery ou Healing Rain des que le groupe passe sous la moitie
+  de ses PV.
+- Les ennemis resistants au feu se traitent avec attaques physiques ou
+  foudre ; ne depense pas tout le Chi dans un element inefficace.
+
+======================================================================
+CHAPITRE 1 - ACADEMIE, FORET ET PREMIER DUEL
+======================================================================
+
+[ZONE] TREE LEAF VILLAGE
+
+1. Sors de la maison et monte a la Ninja Academy, le batiment signale par un
+   livre au nord du village.
+2. Parle au professeur pour lancer l'entrainement.
+3. Avant de quitter le village, repere l'auberge, la boutique d'armes et la
+   boutique d'objets. Ne depense pas tout ton argent avant la foret.
+
+[ZONE] TREE LEAF FOREST
+
+Objectif de collecte : 5 cloches et 13 coffres.
+
+1. Depuis l'entree, prends la branche de gauche et termine toute la boucle.
+   Controle 2 cloches et 8 coffres.
+2. Reviens au carrefour, prends la branche de droite et termine-la.
+   Controle 3 cloches et 5 coffres.
+3. Ne retourne pas vers Zane tant que les 5 cloches ne sont pas comptees.
+4. Reviens a Zane.
+
+[SUCCES] Ring-a-Ding-Dong doit apparaitre apres le retour avec les 5 cloches.
+Sauvegarde seulement apres l'avoir vu.
+
+[COMBAT] Zane
+
+- Le premier duel est simple : attaques normales et soins si necessaire.
+- Ne consomme pas les objets rares pour ce combat.
+
+CONTROLE DE CHAPITRE
+
+□ 5/5 cloches.
+□ 13/13 coffres de Tree Leaf Forest.
+□ Ring-a-Ding-Dong affiche.
+□ Sauvegarde faite apres le succes.
+
+======================================================================
+CHAPITRE 2 - STICKY SWAMPS ET HADES'S BASE
+======================================================================
+
+[ZONE] TREE LEAF VILLAGE - PREMIER RETOUR
+
+1. Sors de la maison.
+2. A la boutique Weapon/Armor, achete si possible :
+   - 2 Common Short Sword pour J.C. et Spark.
+   - 2 Adventurer's Garb pour Spark et Max.
+   - 1 Bronze Plate pour J.C.
+   - 4 Leather Bandana pour l'equipe.
+3. Dans l'Abandoned House au nord-est, parle au Grave Keeper et ecoute son
+   histoire pour recevoir 500 Ryo.
+4. Va a Kage's Place, le batiment avec les statues au nord-ouest.
+
+[ZONE] STICKY SWAMPS - PREMIERE TRAVERSEE
+
+Objectif de collecte :
+
+- Ecran 1 : 10 coffres et 4 champignons.
+- Ecran 2 : 4 coffres et 14 herbes.
+- Ecran 3 : 5 coffres, 3 champignons et 2 herbes.
+
+1. La zone est lineaire : longe chaque bord avant la sortie.
+2. Soigne et sauvegarde avant le dernier ecran.
+3. Termine les deux combats de Gekko.
+
+[COMBAT] Gekko puis Gekko (Injured)
+
+- Utilise une attaque de zone pour les ennemis qui accompagnent le boss.
+- Garde Maddie en soin si Poison apparait.
+- Termine avec les attaques normales une fois le groupe nettoye.
+
+[ZONE] TREE LEAF VILLAGE - DEUXIEME RETOUR
+
+1. Dans ta maison, ouvre le coffre : 100 Ryo.
+2. Dans la maison de Spark, prends Large HP Pill et 100 Ryo.
+3. Achete Iron Staff pour Maddie et Fire Hand Axe pour Max.
+4. A la boutique d'objets, prends 2 Powerful Chye Gem pour J.C./Spark et
+   1 Mindful Chye Gem pour Maddie.
+5. Retourne a Kage's Place.
+
+[ZONE] STICKY SWAMPS: DEEPER
+
+Objectif de collecte :
+
+- Ecran 1 : 9 coffres, 5 champignons et 3 herbes.
+- Ecran 2 : 3 coffres et 6 herbes.
+- Ecran 3 : 6 coffres et 4 herbes.
+
+1. Avance jusqu'au fermier Brown.
+2. Sauve Farmer Brown et achete Grass Clippers pour 500 Ryo.
+3. Utilise les cisailles pour poursuivre la route.
+4. Controle les compteurs de l'ecran 2 et de l'ecran 3.
+5. Soigne et sauvegarde avant Hades's Base.
+
+[COMBAT] Gekko
+
+- Une attaque X-Tu de zone ouvre le combat.
+- Termine les petits ennemis avant le boss.
+- Maddie soigne Poison ; les attaques normales suffisent ensuite.
+
+[COMBAT] Hades (Hooded)
+
+- Le boss est faible a l'eau et resiste au feu et aux tenebres.
+- J.C., Spark et Max attaquent normalement.
+- Maddie utilise la meilleure attaque d'eau disponible.
+- Soigne avant de quitter la base.
+
+CONTROLE DE CHAPITRE
+
+□ 19/19 coffres de Sticky Swamps.
+□ 18/18 coffres de Sticky Swamps: Deeper.
+□ Grass Clippers achetees.
+□ Equipement de depart achete avant la zone suivante.
+
+======================================================================
+CHAPITRE 3 - EQUIPE COMPLETE ET SPARK
+======================================================================
+
+[ZONE] TREE LEAF VILLAGE
+
+1. Recrute Maddie a Punk's Inn.
+2. Recrute Max au nord, entre Kage's Place et l'Academie.
+3. Recrute Kitt dans sa maison, au centre du groupe de cinq maisons.
+4. A la boutique Weapon/Armor, achete si possible :
+   - Bronze Long Sword pour J.C.
+   - Bronze Claw pour Kitt.
+   - Bronze Staff pour Maddie.
+   - Fire Battle Axe pour Max.
+   - Adventurer's Garb pour Kitt.
+   - Iron Plate pour J.C.
+   - Sturdy Robe pour Maddie.
+   - 3 Feather Cap pour J.C., Max et Kitt.
+   - Iron Hairpin pour Maddie.
+5. A la boutique d'objets, prends 2 Lucky Chye Gem pour Max et Kitt.
+6. Retourne chez le Grave Keeper pour le dialogue et les 1 000 Ryo.
+7. Parle au garde a l'est et quitte le village.
+
+[ZONE] STONE VALLEY
+
+Objectif de collecte : 13 coffres et 39 herbes.
+
+1. Fais le tour de la carte jusqu'au nord-ouest.
+2. Controle les 13 coffres avant la sortie.
+3. Les herbes servent aux consommables : ramasse les 39 avant de quitter la
+   zone si tu veux la completion de ressources.
+
+[ZONE] MAGMA ROCKS VILLAGE
+
+1. Avec J.C., entre dans Kage's Place au nord-ouest.
+2. Avec Max, sauvegarde puis entre dans la Ninja Academy au nord.
+
+[COMBAT] combat de l'Academie
+
+- Utilise Shadow Blade en priorite.
+- Soigne entre les tours ; ne gaspille pas les objets de zone.
+
+3. Apres la sequence, parle a Kitt, Maddie puis Max pour reformer l'equipe.
+4. Sors par le sud.
+
+[ZONE] WORLD MAP -> THUNDER CLOUD VILLAGE
+
+1. Rejoins Thunder Cloud Village au nord-est de la carte.
+2. Entre dans Mike's House, au nord-est du village.
+
+[SUCCES] Wanna meet that dad doit apparaitre apres le dialogue dans la maison.
+Controle-le avant de repartir.
+
+CONTROLE DE CHAPITRE
+
+□ 13/13 coffres de Stone Valley.
+□ Equipe complete.
+□ Wanna meet that dad affiche.
+□ Sauvegarde apres le succes.
+
+======================================================================
+CHAPITRE 4 - DEATH'S FOREST, IKIBO ET BROTHER FIGHT
+======================================================================
+
+[ZONE] TREE LEAF VILLAGE - RETOUR
+
+1. Ouvre les coffres suivants :
+   - Spark's House : Fire Hand Axe et Iron Bar.
+   - Villager's House #1 : 100 Ryo et Cure Pill.
+   - Villager's House #2 : 200 Ryo et Lightning Claw.
+2. A la boutique, achete Lightning Armour pour J.C.
+3. Retourne a Magma Rocks Village et, chez Blake, achete selon tes moyens :
+   - Eyepatch of Fury pour J.C.
+   - Shining Sword pour J.C.
+   - Sun Staff pour Maddie.
+   - Lucky Coin pour Maddie.
+4. Priorite : Shining Sword, puis Lucky Coin. Les deux autres sont utiles
+   mais ne bloquent pas la route.
+5. Va a Kage's Place pour etre envoye vers Death's Forest.
+
+[ZONE] DEATH'S FOREST - PREMIERE SECTION
+
+Objectif de collecte : 6 coffres et 6 herbes.
+
+1. Remplace Zane par Shizuney si elle est disponible.
+2. Avance au nord et examine les rochers qui bloquent le chemin.
+3. Apprends Rock Breaker X-Tu.
+4. Controle les 6 coffres et les 6 herbes.
+
+[ZONE] DEATH'S FOREST - ENIGME
+
+Reponses a entrer :
+
+- J.C. est amoureux de : Maddie.
+- Blake est l'oncle de : J.C. & Zane.
+- 2 + 2 = 4.
+
+Une mauvaise reponse lance un combat force. Ce n'est pas bloquant, mais la
+bonne reponse evite de perdre des objets et du temps.
+
+[ZONE] DEATH'S FOREST - SECTION DES NINJAS
+
+Objectif de collecte : 20 coffres.
+
+1. Poursuis vers le nord.
+2. Ouvre les 20 coffres de cette section avant d'approcher l'objectif final.
+3. Soigne et sauvegarde avant les groupes de quatre ennemis.
+4. Termine les quatre groupes de Rogue Ninjas, puis Ikibo.
+
+[COMBAT] quatre groupes de Rogue Ninjas
+
+- J.C. utilise Fire Wall.
+- Max utilise Shadow Blade.
+- Passe aux attaques normales quand il reste un ou deux ennemis.
+- Max soigne avec les pilules si Maddie n'est pas dans l'equipe.
+
+[COMBAT] Ikibo
+
+- J.C. garde Fire Wall sur la cible prioritaire.
+- Max utilise Shadow Blade sur les Elite-Rogue Ninja Swordsmen.
+- Ikibo resiste aux tenebres : ne perds pas les tours a repeter une magie
+  sombre directement sur lui.
+
+[SUCCES] Defeated Ikibo doit apparaitre a l'ecran de resultat.
+Sauvegarde apres le succes.
+
+[COMBAT] Kuramaroo
+
+- Le combat n'est pas a gagner dans cette sequence.
+- Utilise la defense et les soins si le jeu te laisse agir, puis laisse la
+  sequence se terminer.
+
+[ZONE] TREE LEAF VILLAGE - RETOUR
+
+1. Ouvre le coffre de ta maison : 100 Ryo.
+2. Dans Spark's House : Large HP Pill et Casual Clothes.
+3. Dans Villager's House #1 : 50 Ryo et Small HP Pill.
+4. Dans Villager's House #2 : Fire Long Sword.
+5. Le Grave Keeper donne 1 500 Ryo apres son dialogue.
+6. A la Ninja Academy, achete Tournament Pass pour 500 Ryo.
+7. A la boutique d'objets, achete :
+   - 2 Mega Powerful Chye Gem pour J.C. et Spark.
+   - 1 Mega Mindful Chye Gem pour Maddie.
+   - 1 Mega Lucky Chye Gem pour Shizuney.
+8. Passe par Magma Rocks Village pour le detour de coffres si tu veux tout
+   ouvrir avant le tournoi.
+
+[ZONE] MAGMA ROCKS VILLAGE - COFFRES
+
+Objectif de collecte : 15 coffres.
+
+- 7 coffres devant Blake's House.
+- 2 coffres derriere Blake's House.
+- 4 coffres pres de Magma Rocks Inn.
+- 2 coffres a l'interieur de l'auberge.
+
+Chez Blake, achats optionnels :
+
+- Death Scythe pour Maddie.
+- Venom Kunai pour Spark.
+- Poseidon's Trident pour Shizuney.
+
+[ZONE] THUNDER CLOUD VILLAGE
+
+Objectif de collecte : 9 coffres au nord.
+
+1. Ouvre les 9 coffres.
+2. Va dans Mike's House et parle a Spark.
+3. Retourne a Tree Leaf Village.
+
+[ZONE] TRAINING SHED - DUEL DE ZANE
+
+GARDE-FOU MAJEUR : sauvegarde avant d'entrer.
+
+1. Va au Training Shed au sud-est de Tree Leaf Village.
+2. Lance l'entrainement.
+3. Gagne le duel contre Zane.
+4. Zane resiste au feu : privilegie les attaques normales.
+5. Attends d'avoir assez de TP pour V-Slash ou Aura Blade.
+6. Evite Double Attack, Triple Attack et Strong Attack si leur rendement
+   est inferieur a l'attaque normale.
+7. Ne quitte pas le Training Shed avant de voir le succes.
+
+[SUCCES] Brother Fight doit apparaitre apres la victoire.
+Si le succes n'apparait pas, recharge la sauvegarde faite avant le duel.
+
+CONTROLE DE CHAPITRE
+
+□ 26/26 coffres de la premiere Death's Forest.
+□ 15/15 coffres de Magma Rocks Village.
+□ 9/9 coffres du premier retour a Thunder Cloud Village.
+□ Defeated Ikibo affiche.
+□ Brother Fight affiche.
+
+======================================================================
+CHAPITRE 5 - NINJA TOURNAMENT ET OUTSKIRTS
+======================================================================
+
+[ZONE] NINJA TOURNAMENT
+
+1. Soigne l'equipe a l'auberge en bas a droite.
+2. Parle a Spark, Max puis Maddie.
+3. Parle au garde pour entrer.
+4. Sauvegarde avant de lancer les combats consecutifs.
+
+Jour 1 :
+
+[COMBAT] Karra
+
+- La victoire n'est pas requise dans cette manche.
+- Garde tes ressources pour la suite.
+
+[COMBAT] Lea
+
+- Tidal Wave est le meilleur choix disponible.
+- Utilise Tp Boost si le TP baisse trop.
+- Utilise Restore pour remonter le Chi.
+
+[COMBAT] Xavier
+
+- X-Zap Blade inflige de bons degats et peut paralyser.
+- Passe aux attaques normales si tu dois conserver le Chi pour Fast Healing.
+
+[COMBAT] Jenji
+
+- Fire Wall ou attaques normales.
+- V-Slash et Aura Blade quand le TP est pret.
+- Surveille les PV, car le combat peut devenir plus serre.
+
+[COMBAT] Akimbo
+
+- Shadow Blade suffit.
+
+[COMBAT] Yuniko
+
+- Poseidon's Trident simplifie le combat si tu l'as achete.
+- Sinon, utilise Zap Blade et soigne entre les tours.
+
+Jour 2 :
+
+[COMBAT] Shizuney
+
+- La victoire n'est pas requise : survis 18 tours.
+- Soigne tot et souvent.
+- Une paralysie ou un etourdissement peut s'enchainer : garde une pilule
+  de soin disponible.
+
+[COMBAT] Karra
+
+- Shadow Blade suffit a nouveau.
+
+[COMBAT] Spark
+
+- Les attaques normales sont suffisantes.
+- Garde Lightning Armour sur J.C. si tu l'as conserve.
+
+[ZONE] OUTSKIRTS OF TREE LEAF
+
+Objectif de collecte : 2 coffres, 11 champignons et 9 herbes.
+
+1. Ramasse les 2 coffres, puis les champignons et les herbes.
+2. Soigne et sauvegarde avant le combat.
+
+[COMBAT] Karra
+
+- J.C. : Fire Wall puis Judgement.
+- Spark/Max : Thunder et Shadow Blade/X-Zap Blade sur les Golems.
+- Le premier combat permet de depenser le Chi restant.
+
+[COMBAT] Karra (BS Mode)
+
+- Certains degats peuvent rester a 1 selon le comportement du combat.
+- J.C. utilise Dragon's Flame jusqu'a l'application de Burn, puis
+  Dragon's Roar pour tenter Confuse.
+- Spark garde sa position et soigne avec Small HP Pill quand un allie passe
+  sous environ 2 000 PV.
+- Garde et recommence si l'etat de l'equipe rend le combat impossible.
+
+CONTROLE DE CHAPITRE
+
+□ 2/2 coffres de Outskirts.
+□ 11/11 champignons et 9/9 herbes si tu fais la completion de ressources.
+□ Toutes les manches du tournoi terminees.
+□ Sauvegarde faite avant le chapitre suivant.
+
+======================================================================
+CHAPITRE 6 - DEATH'S FOREST, PART TWO
+======================================================================
+
+[ZONE] TREE LEAF VILLAGE
+
+1. Reforme l'equipe :
+   - Spark dans sa maison.
+   - Maddie a Punk's Inn.
+   - Kitt dans sa maison.
+2. Ouvre Villager's House #1 : 200 Ryo, X-HP Pill et X-TP Pill.
+3. Ouvre Villager's House #2 : X-Chi Pill.
+4. Le Grave Keeper donne 2 000 Ryo apres son dialogue.
+5. Pars vers Thunder Cloud Village.
+
+[ZONE] THUNDER CLOUD VILLAGE
+
+Objectif de collecte : 7 coffres au nord.
+
+1. Ouvre les 7 coffres.
+2. Au Mall, achete si Blake ne fournit pas mieux :
+   - Steel Short Sword pour Spark.
+   - Steel Staff pour Maddie.
+   - Steel Kunai pour Kitt.
+   - Steel Armour pour J.C.
+   - Iron Robe pour Maddie.
+   - 2 Leather Chain Mail pour Spark et Kitt.
+   - 2 Omega Powerful Chye Gem pour J.C. et Spark.
+   - 1 Omega Mindful Chye Gem pour Maddie.
+   - 1 Omega Lucky Chye Gem pour Kitt.
+3. Reviens a Magma Rocks Village.
+
+[ZONE] MAGMA ROCKS VILLAGE
+
+Objectif de collecte : 3 coffres pres de l'auberge.
+
+1. Ouvre les 3 coffres.
+2. Parle a Blake.
+3. Reviens a la World Map et entre dans Death's Forest.
+
+[ZONE] DEATH'S FOREST - SECOND PASS
+
+Objectif de collecte :
+
+- 23 herbes avant la deuxieme section.
+- Ecran 2 : 8 coffres.
+- Ecran 3 : 8 coffres, 6 champignons et 14 herbes.
+
+1. Avance vers le nord et ramasse les 23 herbes.
+2. Gekko demande 1 000 Ryo : paye pour eviter le combat optionnel si tu
+   veux conserver tes ressources. Si tu refuses, le combat reste gagnable.
+3. Dans l'ecran 2, ouvre les 8 coffres.
+4. Soigne avant la troisieme section.
+5. Dans l'ecran 3, ouvre les 8 coffres, ramasse les 6 champignons et
+   les 14 herbes.
+6. Sauvegarde avant d'examiner l'une ou l'autre porte.
+
+[COMBAT] Gekko
+
+- J.C. avec Shining Sword inflige de bons degats sacres.
+- Elimine les Elite-Rogue Ninjas avec les techniques habituelles.
+
+[COMBAT] Charlotte et Dogma
+
+- Charlotte endort souvent l'equipe.
+- Bubble Storm de Maddie retire une grande partie de leurs PV.
+- Kitt finit la cible restante avec les attaques normales.
+
+[COMBAT] Brain et Zak
+
+- Ils sont sensibles aux degats sacres.
+- J.C. attaque normalement ; Spark utilise X-Zap Blade.
+
+[COMBAT] Brain, Charlotte, Dogma, Vince et Zak
+
+- Firewall, Thunder II et Bubble Storm nettoient le groupe.
+- Kitt utilise Tp Boost puis Restore si le Chi de l'equipe baisse.
+
+[SUCCES] Part Two apparait apres la fin de cette sequence.
+
+CONTROLE DE CHAPITRE
+
+□ 7/7 coffres de Thunder Cloud Village.
+□ 3/3 coffres de Magma Rocks Village.
+□ 16/16 coffres du second passage de Death's Forest.
+□ Part Two affiche.
+□ Sauvegarde sur un nouveau slot.
+
+======================================================================
+CHAPITRE 7 - WIND TEMPLE ET CLOUDY CAVES
+======================================================================
+
+[ZONE] TREE LEAF VILLAGE
+
+1. Prends X-HP Pill et sors.
+2. Parle a Zane devant Kage's Place.
+3. Rejoins l'equipe :
+   - Spark dans sa maison : 100 Ryo et X-TP Pill.
+   - Maddie a Punk's Inn.
+   - Kitt dans sa maison.
+4. Ouvre Villager's House #1 : Steel Staff et Leather Mail.
+5. Ouvre Villager's House #2 : 5 Huge HP Pill et Lightning Armour.
+6. A la boutique, achete 3 Chye Circlet pour Spark, Maddie et Kitt et
+   1 Chye Cap pour J.C.
+7. Reviens vers Zane.
+
+[ZONE] WIND-UP VILLAGE
+
+Objectif de collecte : 5 coffres.
+
+1. Parle au Brown Cow Kid au sud des boutiques : 5 Chocolate Moo-Moo Milk.
+2. Parle au White Cow Kid a l'est : 5 Moo-Moo Milk.
+3. Ouvre les 5 coffres.
+4. A la boutique, achete :
+   - Golden Claw pour Kitt.
+   - Golden Battle Axe pour Zane.
+   - Golden Short Sword pour Spark.
+   - Golden Long Sword pour J.C.
+5. Entre dans Ruxes's House au nord-ouest.
+
+[ZONE] WIND TEMPLE - PREMIERE SECTION
+
+Objectif de collecte :
+
+- Ecran 1 : 10 coffres, 27 champignons et 34 herbes.
+- Ecran 2 : 1 coffre, 15 champignons et 14 herbes.
+
+1. La zone ne donne au depart que Maddie et Kitt.
+2. Maddie utilise Bubble Storm, puis Big Bubble quand il reste une cible.
+3. Contre les Jelly Fish, utilise Ice Brigade.
+4. Kitt utilise X-Tp Boost, Restore/Restore II et Deadly Sweep Kick!.
+5. Ramasse tous les compteurs des deux ecrans.
+6. Soigne et sauvegarde avant la sortie de l'ecran 2.
+7. Termine Gekko.
+
+[ZONE] WIND TEMPLE - LEVIERS
+
+1. Dans la premiere salle, tire le levier de droite pour ouvrir le coffre.
+2. Tire le levier de gauche pour ouvrir le passage.
+3. Le troisieme levier est inaccessible a ce moment.
+4. Tire le quatrieme levier pour rendre le troisieme accessible.
+5. Boucle jusqu'a la sortie.
+6. Pres du point de sauvegarde :
+   - levier gauche : deux coffres au nord-est ;
+   - levier droit : deux coffres au nord-est et un coffre pres du point ;
+   - levier le plus a droite : l'autre pont vers le coffre pres du point.
+7. Depuis le bas-gauche, tourne dans le sens inverse des aiguilles d'une
+   montre et actionne les leviers.
+8. Reviens au bas-gauche et repasse sur les trois leviers du bas pour ouvrir
+   le chemin final.
+9. Soigne et sauvegarde.
+
+[COMBAT] Phantom (Maddie), Phantom (Kitt)
+
+- Maddie : Bubble Storm a chaque tour.
+- Kitt : X-Tp Boost puis Deadly Sweep Kick!.
+- Restore des que le Chi ou les PV deviennent critiques.
+
+[COMBAT] Phantom (Maddie), Phantom (Kitt), Phantom
+
+- Meme strategie.
+- Les attaques de zone limitent les ressuscitations.
+- Ne laisse pas les deux cibles secondaires revenir plusieurs fois.
+
+[ZONE] THUNDER CLOUD VILLAGE - SECOND PASS
+
+Objectif de collecte : 10 coffres au nord.
+
+1. Ouvre les 10 coffres.
+2. Va dans Mike's House.
+3. Au Mall, achete pour Shizuney si besoin :
+   - Golden Spear.
+   - Leather Chain Mail.
+   - Winged Boots.
+   - Omega Magical Chye Gem pour Mike.
+   - 2 Omega Mindful Chye Gem pour Spark et Shizuney.
+4. Va a Thunder Cloud: Kage's Place au sud-est.
+
+[ZONE] CLOUDY CAVES
+
+Objectif de collecte :
+
+- Entree : 4 bars et 3 gems.
+- Premier secteur : les trois trous ; celui de gauche continue, les deux
+  autres donnent acces a une salle de 8 coffres.
+- Main Mining Area : 15 coffres et 19 gems signales ; 2 coffres et 2 gems
+  restent inaccessibles.
+- Un dernier secteur contient 3 coffres apres le dernier switch.
+
+1. Prends les 4 bars a l'entree.
+2. Dans la premiere salle, prends les 3 gems.
+3. Prends le trou de gauche pour continuer ; explore les deux autres pour
+   les 8 coffres.
+4. Dans la salle des leviers, tire le premier levier pour ouvrir la sortie.
+5. Traverse le pont, soigne, puis constate la porte fermee.
+6. Fais le tour jusqu'aux Red Lizard Men et bats-les pour obtenir la cle.
+7. Controle les 15 coffres et 19 gems accessibles autour de la zone.
+8. A la premiere fourche de la Main Mining Area :
+   - gauche : quatre coffres ;
+   - droite : deuxieme fourche.
+9. A la deuxieme fourche, prends droite pour atteindre l'ecran suivant.
+10. Descends et reviens a l'ecran gauche pour le levier 1.
+11. Reviens a droite et suis la route lineaire : leviers 2 a 5, switches 1
+    et 2.
+12. Apres le levier 5, reviens au levier 1 pour atteindre le switch 3.
+13. Retourne a la premiere fourche pour le levier 6.
+14. Depuis la deuxieme fourche, prends gauche pour le switch 4 et 3 coffres.
+15. Reviens au deuxieme ecran et sors.
+16. Soigne et sauvegarde.
+
+[COMBAT] Phantom, Phantom (Shizuney), Phantom (Spark), Phantom (Mike)
+
+- Shizuney commence par Healing Rain.
+- Utilise Recovery pour les soins continus.
+- Thunder II nettoie rapidement les cibles.
+- Resserre la formation avant de sortir des grottes.
+
+[ZONE] MAGMA ROCKS VILLAGE -> MAGMA CAVES
+
+1. Ouvre 5 coffres pres de l'auberge et 2 derriere Blake's House.
+2. Achete First Aid Kit et pilules avant d'entrer.
+3. Donne Blazing Armour a J.C. si tu l'as.
+4. Les combats peuvent devenir obligatoires : ne compte pas uniquement sur
+   l'esquive.
+
+[ZONE] MAGMA CAVES
+
+Objectif de collecte :
+
+- BF3 : 9 coffres.
+- BF4 : 9 coffres.
+
+1. Suis la route en alternant F1 et BF1.
+2. Actionne les leviers 1 et 2.
+3. A BF1, prends les 3 coffres a gauche.
+4. Prends d'abord le chemin du haut :
+   - escalier sud : 2 coffres ;
+   - escalier nord : 4 coffres, 2 gems et un levier qui ouvre le reste.
+5. Reviens au nord de BF1 et prends le chemin du bas vers BF2.
+6. Dans BF3 et BF4, ouvre les 9 coffres de chaque ecran.
+7. Sauvegarde avant la Sacred Item Room.
+
+[COMBAT] Max, Gekko, Ikibo
+
+- La victoire n'est pas requise dans cette sequence.
+
+[COMBAT] Elite-Rogue Ninja Spearmen, Max, Gekko, Ikibo
+
+- J.C./Zane : Hell's Fire.
+- Karra : Meteor Shower.
+- Ne gaspille pas les tours a relever Zane s'il tombe.
+- Passe aux attaques normales quand Karra manque de Chi.
+
+[COMBAT] Phantom, Phantom (Zane), Phantom (J.C.), Phantom (Max)
+
+- Reprends la strategie de groupe : attaques de zone, soins et sauvegarde
+  entre les ecrans si le jeu le permet.
+
+[ZONE] WIND-UP VILLAGE - FIN DE CHAPITRE
+
+Objectif de collecte : 2 coffres derriere Ruxes's House.
+
+1. Ouvre les 2 coffres.
+2. Entre dans Ruxes's House pour terminer le chapitre.
+
+CONTROLE DE CHAPITRE
+
+□ 5/5 coffres de Wind-Up Village.
+□ Compteurs de Wind Temple controles.
+□ Coffres accessibles de Cloudy Caves controles.
+□ 18/18 coffres de Magma Caves BF3/BF4.
+□ 2/2 coffres derriere Ruxes's House.
+
+======================================================================
+CHAPITRE 8 - BALISES, SANDY SANDS ET DRY SANDS
+======================================================================
+
+[ZONE] WORLD MAP - LES CINQ BALISES
+
+Chaque balise pose une serie de questions. Les mauvaises reponses peuvent
+faire perdre du temps ; utilise cette fiche dans l'ordre.
+
+BALISE 1
+
+- Beast Spirits are? -> Chi made into a life form.
+- What element type does J.C. and Zane use mostly? -> Fire.
+- What did Zane promise J.C. if he kept quiet about the Game Maker? -> Ramen.
+
+BALISE 2
+
+- What were the Beast Spirits originally designed for? -> A Weapon of War.
+- Who was responsible for the attack on Tree Leaf 13 years ago? -> Nunez.
+- What is the name of the team that Akimbo, Lea and Xavier are in? ->
+  Team Sunrise.
+
+BALISE 3
+
+- What item allows you to cut grass? -> Grass Clippers.
+- What is the name of Spark's father? -> Mike.
+- Who is Alex? -> The 2nd Kage of Tree Leaf.
+- What was the prize of the annual ninja tournament? -> 10,000 Ryo.
+
+BALISE 4
+
+- Ikibo is a disciple of? -> Kuramaroo.
+- Who is Yuniko in love with? -> Kitt.
+- Why was Kitt distracting Lola during the Ninja Finals? -> Because J.C.
+  was running late.
+- The six different lands are? -> Grass, Fire, Earth, Water, Wind, Steel.
+- What X-Tu is used to break gray rocks? -> None. Gray rocks are
+  unbreakable.
+
+BALISE 5
+
+- What is Maddie's last name? -> Punk.
+- What are phantoms? -> Guardians of rare objects.
+- What is the name of Lea's brother? -> Jenji.
+- What activity did Zane make the gang do after they passed their finals? ->
+  Treasure Hunt.
+- Long ago the ninja faction was fighting the? -> Samurai Faction.
+- 2 + 3 = 5.
+
+[ZONE] SANDY SANDS VILLAGE
+
+Objectif de collecte : 8 coffres.
+
+1. Ouvre les 8 coffres disperses dans le village.
+2. A la boutique est, achete :
+   - Platinum Long Sword pour Zane.
+   - Platinum Claw pour Kitt.
+   - Poseidon's Trident pour Shizuney.
+   - 2 Chye Chain Mail pour Kitt et Shizuney.
+   - Dragon Armour et Dragon Cap pour Zane.
+   - X-Powerful Chye Gem pour Kitt.
+   - 2 X-Mindful Chye Gem pour Zane et Shizuney.
+3. Va a Sandy Sands: Kage's Place au nord.
+4. Parle au garde au sud pour entrer dans Dry Sands.
+
+[ZONE] DRY SANDS
+
+1. Les combats visibles peuvent etre evites. Les rencontres imposees suffisent
+   generalement pour mettre l'equipe a niveau.
+2. Les coffres de cette zone peuvent imposer un combat : sauvegarde avant
+   chaque detour si tu veux les ouvrir.
+3. Pour les combats, garde :
+   - Zane : Hell's Fire et Radiant Blade.
+   - Kitt : VXAP-Tp Boost, Restore II et Deadly Sweep Kick!.
+   - Shizuney : Thunder II et Xero Blast.
+4. Depuis le sud, tourne dans le sens des aiguilles d'une montre et actionne
+   les quatre premiers leviers.
+5. Continue vers l'ouest en depassant la grande ouverture de sortie :
+   - levier 5 ;
+   - au sud, levier 6 et switch 1 ;
+   - reviens a la grande ouverture pour le levier 7 ;
+   - repasse pres du levier 6, va a droite, puis au nord vers le levier 8
+     et le switch 2 ;
+   - au sud du levier 8, prends la route qui revient pres du levier 6 ;
+   - reviens au levier 7 pour le levier 9 ;
+   - au sud du levier 6, trouve le pont vers l'entree et le switch 3 ;
+   - reviens au levier 9 et parle a Vince.
+
+[COMBAT] Brain, Charlotte, Dogma, Vince et Zak
+
+- Reprends les attaques de zone.
+- Si les etourdissements et sommeils s'accumulent, recharge rapidement la
+  sauvegarde plutot que de vider tous les soins.
+
+CONTROLE DE CHAPITRE
+
+□ 5/5 balises resolues.
+□ 8/8 coffres de Sandy Sands Village.
+□ 3/3 switches de Dry Sands.
+□ Sauvegarde avant le retour a Tree Leaf Village.
+
+======================================================================
+CHAPITRE 9 - TREE LEAF VILLAGE DETRUIT ET CREATOR
+======================================================================
+
+[ZONE] TREE LEAF VILLAGE - PREPARATION
+
+A la boutique Weapon/Armor, achete :
+
+- Platinum Short Sword pour Spark.
+- Platinum Robe pour Maddie.
+- Chye Chain Mail pour Spark.
+- Dragon Armour pour J.C.
+- Dragon Cap pour J.C.
+
+Parle au garde a l'est pour avancer.
+
+[ZONE] TREE LEAF VILLAGE (DESTROYED)
+
+1. Il n'y a pas de rencontres aleatoires dans cette section.
+2. Au premier embranchement, prends est pour les coffres, puis reviens au
+   sud pour continuer.
+3. Au deuxieme embranchement, prends est pour les coffres, puis reviens a
+   l'ouest pour continuer.
+4. Va au sud et sauvegarde avant les combats.
+
+[COMBAT] Ruxes, Archi et Laki
+
+Ordre conseille :
+
+- Tour 1 : J.C. Hell's Fire ; Spark Thunder II ; Maddie Bubble Storm ;
+  Kitt VXAP-Tp Boost.
+- Tour 2 : J.C. Radiant Blade ; Spark Thunder II ; Maddie Bubble Storm ;
+  Kitt Deadly Sweep Kick!.
+- Recharge si J.C. ou Kitt est paralyse/etourdi au debut.
+- Radiant Blade est tres efficace contre ce groupe.
+
+[COMBAT] Creator
+
+- Tour 1 : Hell's Fire, Thunder II, Big Bubble et VXAP-Tp Boost.
+- Tour 2 : Radiant Blade, Thunder II, Big Bubble et Deadly Sweep Kick!.
+- A partir du tour 3, conserve les memes actions offensives.
+- Kitt porte la majeure partie des degats physiques : recharge si elle tombe
+  avant que le rythme soit installe.
+
+CONTROLE DE CHAPITRE
+
+□ Coffres des deux embranchements ouverts.
+□ Boutique de chapitre faite.
+□ Combat contre Creator termine.
+□ Sauvegarde sur un slot distinct.
+
+======================================================================
+CHAPITRE 10 - ENDLESS DESERT ET MAX'S ROOM
+======================================================================
+
+[ZONE] TREE LEAF VILLAGE
+
+1. Parle a Zane devant Kage's Place.
+2. Rejoins Sandy Sands Village depuis la World Map.
+3. Entre dans Sandy Sands: Kage's Place, puis parle au garde au sud.
+
+[ZONE] ENDLESS DESERT - PREMIERE TRAVERSEE
+
+1. Va tout droit vers le nord.
+2. Evite les monstres visibles ; tu peux normalement atteindre la sortie sans
+   combattre tous les groupes.
+3. Soigne et sauvegarde avant le combat.
+
+[COMBAT] Phantom et Phantom (J.C.)
+
+- Equipe Shining Sword sur J.C.
+- Attaque Phantom en premier pour limiter les ressuscitations.
+- Utilise les attaques normales pour charger le TP, puis Aura Blade a 50 TP
+  ou plus.
+- Utilise Healing Blaze sous environ 3 500 PV.
+- Les X-Tp Pill peuvent remplacer la phase de charge si le combat devient
+  dangereux.
+
+[ZONE] MAX'S ROOM
+
+Objectif de collecte : 2 coffres.
+
+1. Ouvre les 2 coffres.
+2. Equipe le meilleur kunai de Max.
+3. Sauvegarde puis sors.
+
+[COMBAT] Ikibo
+
+- La victoire n'est pas necessaire pour continuer.
+- Pour gagner : utilise X-Tp Pill, puis Ninja's Edge deux fois.
+- Recommence la sequence trois fois environ.
+- Ne depense pas toutes les pilules si tu vises seulement la progression.
+
+[ZONE] SANDY SANDS VILLAGE - ACHATS
+
+Achete :
+
+- Platinum Kunai.
+- Chye Chain Mail.
+- X-Healthy Chye Gem.
+
+Complete le stock de X-Hp Pill et X-Tp Pill avant de repartir au sud.
+
+[ZONE] ENDLESS DESERT - DEUXIEME TRAVERSEE
+
+1. Va au nord ; les rencontres peuvent etre fuies.
+2. Sauvegarde avant le combat.
+
+[COMBAT] Phantom et Phantom (Max)
+
+- Sur Max, utilise X-Tp Pill puis Ninja's Edge deux fois contre Phantom.
+- Soigne avec X-Hp Pill sous environ 4 000 PV.
+- Phantom (Max) utilise Clone Storm en plusieurs frappes : ne laisse pas
+  les PV descendre trop bas.
+- Apres la chute du premier Phantom, passe a Valiant Edge contre le second.
+- Le combat peut dependre des paralysies : recharge si tu subis une sequence
+  impossible a stabiliser.
+
+CONTROLE DE CHAPITRE
+
+□ 2/2 coffres de Max's Room.
+□ Platinum Kunai et Chye Chain Mail achetes si necessaires.
+□ Stock de X-Hp Pill et X-Tp Pill controle.
+□ Deux combats du desert termines.
+
+======================================================================
+CHAPITRE 11 - CARNIVAL ET ENTRAINEMENT NINJA FINAL
+======================================================================
+
+[ZONE] TREE LEAF VILLAGE: CARNIVAL
+
+1. Apres le controle, entre dans la tente Equipment/Item en haut a gauche.
+2. Achete :
+   - X-Healthy Chye Gem pour J.C.
+   - 10 Half X-Pill.
+   - 10 Full X-Pill.
+3. Dans la tente Game Center en haut a droite, achete :
+   - Candy Cane Staff pour Maddie.
+   - Serpent's Blade pour J.C.
+   - Heaven Blade pour Spark.
+   - 4 Ninja Santa's Coat pour l'equipe.
+4. Ces achats sont la derniere grosse fenetre d'achat de la route :
+   depense les Ryo restants avant de continuer.
+5. Entre dans le Tunnel of Love en bas a gauche quand l'equipe est prete.
+
+[COMBAT] Gekko
+
+- J.C. : Eruption.
+- Soigne avec Half X-Pill sous environ la moitie des PV.
+- Eruption peut bruler le groupe adverse ; laisse les degats sur la duree
+  travailler.
+
+[ZONE] TREE LEAF VILLAGE - RETOUR FINAL
+
+1. Va a Kage's Place.
+2. Sauvegarde avant de lancer l'entrainement final.
+
+[COMBAT] Lola, Gutt, Mike et Zane
+
+Ordre conseille :
+
+- Tour 1 : J.C. Eruption ; Spark Full X-Pill ; Maddie Bubble Storm ;
+  Kitt VXAP-Tp Boost.
+- Tour 2 : J.C. Radiant Blade ; Spark Full X-Pill ; Maddie Bubble Storm ;
+  Kitt Deadly Sweep Kick!.
+- Tours suivants : conserve Eruption/Radiant Blade, Bubble Storm et
+  Deadly Sweep Kick!.
+- Spark doit rester plus rapide que le reste du groupe si possible afin que
+  les soins arrivent au bon moment.
+- Recharge si Spark est paralyse ou etourdi au debut.
+
+[SUCCES] Til Next Time apparait avant la fin des derniers dialogues.
+Attends l'affichage, puis sauvegarde la partie.
+
+======================================================================
+TABLE DE DEPANNAGE DES SUCCES
+======================================================================
+
+RING-A-DING-DONG ABSENT
+
+- Recharge avant le retour a Zane.
+- Repars dans Tree Leaf Forest et controle gauche 2 cloches, droite
+  3 cloches.
+- Le succes demande les 5 cloches, pas seulement les coffres.
+
+WANNA MEET THAT DAD ABSENT
+
+- Reviens a Thunder Cloud Village au chapitre 3.
+- Entre dans Mike's House au nord-est et parle directement a Mike.
+- Attends le son et la notification Steam avant de repartir.
+
+DEFEATED IKIBO ABSENT
+
+- Controle que tu as termine le combat d'Ikibo de Death's Forest au chapitre 4.
+- Le combat d'Ikibo du chapitre 10 n'est pas le controle principal du succes.
+- Recharge la sauvegarde faite avant la sequence si necessaire.
+
+BROTHER FIGHT ABSENT
+
+- C'est le succes le plus important a proteger.
+- Recharge la sauvegarde avant le Training Shed.
+- Gagne le duel contre Zane dans l'entrainement du chapitre 4.
+- Les combats de tournoi ne remplacent pas ce duel.
+
+PART TWO ABSENT
+
+- Termine la sequence de Death's Forest du chapitre 6 et ses quatre combats.
+- Le succes apparait a l'arrivee de Part Two, avant le chapitre 7.
+
+TIL NEXT TIME ABSENT
+
+- Reviens au dernier entrainement apres le Carnival.
+- Termine le combat complet contre Lola, Gutt, Mike et Zane.
+- Attends la notification avant de quitter ou d'ecraser la sauvegarde.
+
+======================================================================
 CHECKLIST FINALE - 6/6 SUCCES STEAM
+======================================================================
 
-- [ ] Ring-a-Ding-Dong
-- [ ] Wanna meet that dad
-- [ ] Defeated Ikibo
-- [ ] Brother Fight
-- [ ] Part Two
-- [ ] Til Next Time
+- [ ] Ring-a-Ding-Dong - les 5 cloches de Tree Leaf Forest.
+- [ ] Wanna meet that dad - Mike rencontre a Thunder Cloud Village.
+- [ ] Defeated Ikibo - combat d'Ikibo termine au chapitre 4.
+- [ ] Brother Fight - Zane battu au Training Shed.
+- [ ] Part Two - Part Two atteint au chapitre 6.
+- [ ] Til Next Time - entrainement Ninja final termine.
 
-VERIFICATION
+======================================================================
+VERIFICATION 100 %
+======================================================================
 
-- [ ] 6/6 succès Steam.
-- [ ] Toutes les cloches de la forêt contrôlées.
-- [ ] Duel, père de Spark, Ikibo, Part Two et entraînement Ninja validés.
-- [ ] Aucun DLC, online ou contenu retiré.
-- [ ] Relecture sans spoiler effectuée.
+□ Les 6 succes sont visibles dans le profil Steam.
+□ Les coffres des zones prioritaires sont tous ouverts.
+□ Les 5 balises ont ete resolues.
+□ Les achats de fin de jeu sont termines avant le Tunnel of Love.
+□ Les sauvegardes de secours ont ete conservees autour des entrainements,
+  tournois et deserts.
+□ La fiche a ete suivie sans raconter le recit.
+
+======================================================================
+SOURCES DE VERIFICATION
+======================================================================
+
+- SteamDB - fiche de Destiny Warriors RPG, AppID 399790 :
+  https://steamdb.info/app/399790/
+- Steam Community - hub du jeu et liste des succes :
+  https://steamcommunity.com/app/399790
+- KosGames - parcours detaille et conditions des succes :
+  https://kosgames.com/destiny-warriors-walkthrough-all-achievement-guide-7725/
+- SteamApp - rappel des six conditions de succes :
+  https://steamapp.net/app/399790
 
