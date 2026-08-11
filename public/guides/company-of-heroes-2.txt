@@ -1,0 +1,554 @@
+COMPANY OF HEROES 2
+GUIDE 100 % STEAM - 452 SUCCES STEAM - CHRONOLOGIQUE - SANS SPOILER
+
+Version de travail : 11 aout 2026
+
+PERIMETRE
+
+Cette route couvre les 452 succes Steam de l'AppID 231430 : campagne sovietique,
+Theater of War, scenarios et challenges, parties contre IA, automatch,
+grades, factions, farms d'unites et objectifs des contenus additionnels.
+
+GARDE-FOUS ET MISSABLES
+
+- La liste inclut beaucoup de succes online, automatch et parties contre IA.
+  Prepare un tableau de suivi par mode, faction, carte et difficulte.
+- Les missions Conscript, Captain et General doivent etre validees dans le
+  niveau demande. Fais d'abord une partie de familiarisation, puis des runs
+  Captain/General avec des sauvegardes propres.
+- Les objectifs de survie d'unite, de destructions dans un ordre precis et de
+  defense d'une zone sont ratables pour la session. Recharge la sauvegarde de
+  mission au lieu de compromettre la campagne.
+- Les paliers de 15 parties, 25 parties, 100 parties, 500 parties, ressources,
+  veterans et constructions sont des farms. Utilise des parties personnalisees
+  ou des adversaires IA, pas les missions de campagne.
+- Les descriptions masquees restent anonymes dans le texte d'introduction.
+  L'annexe conserve les noms et conditions officielles sans reveler d'issue
+  narrative.
+
+ROUTE CHRONOLOGIQUE
+
+00 - TUTORIEL, GRADES ET PREMIERS MATCHS
+
+- Lance une mission de campagne, puis une partie contre IA. Fais progresser
+  le grade en jouant plusieurs modes, mais note le mode de chaque partie.
+- Termine une partie contre IA avec chacune des factions utiles et commence
+  les farms de ressources : carburant, munitions, unite d'infanterie,
+  vehicules et armes d'equipe.
+- Fais une partie d'automatch quand la connexion est stable. Verifie la fin
+  de partie et le grade Steam avant de quitter le lobby.
+
+01 - CAMPAGNE SOVIETIQUE
+
+- Termine les missions 1 a 14 en Conscript, puis rejoue les missions qui ont
+  des contraintes Captain ou General. Garde une sauvegarde avant chaque
+  objectif M.01, M.02, etc.
+- Pour les missions de sauvetage, de survie d'unite, de pont, d'artillerie
+  et de destruction, lis la condition de la checklist avant de lancer la
+  mission. Un replay dedie est plus rapide qu'une campagne compromise.
+- Termine la campagne complete en Conscript puis Captain. Les objectifs General
+  sont a faire sur les missions et Theater of War qui les demandent.
+
+02 - THEATER OF WAR ET SCENARIOS
+
+- Termine les Battle et Challenges du Theater of War en Conscript, Captain
+  puis General selon les cases Steam. Note chaque scenario dans un tableau
+  avec la difficulte et les objectifs secondaires.
+- Valide les zones Cold Weather, Winter Storm, Stalingrad, Leningrad, Minsk,
+  Kharkov, Smolensk, Case Blue, Ardennes et les scenarios nommes dans la
+  checklist. Les campagnes historiques et les packs peuvent etre traites
+  depuis leur menu sans ordre narratif impose.
+- Pour chaque scenario, fais d'abord une victoire normale, puis le run sans
+  pertes, avec un nombre d'unites ou une arme precise. Recharge au point de
+  depart si l'objectif est rate.
+
+03 - PARTIES CONTRE IA ET AUTOMATCH
+
+- Fais 3 puis 25 parties contre IA, puis les paliers 100 parties ou trois IA.
+  Utilise des cartes petites et une IA passive si le succes demande un
+  nombre d'unites, de ressources ou de victoires.
+- Termine les 3 puis 100 parties d'automatch. Fais les 15 parties a majorite
+  d'infanterie, d'armes d'equipe ou d'une faction precise avec un suivi des
+  kills.
+- Termine les 500 parties automatch ou skirmish necessaires, les victoires
+  par marge de points et les defaites par points. Ces objectifs sont longs :
+  ne supprime pas le profil de progression.
+
+04 - UNITES, VETERANS ET ECONOMIE DE GUERRE
+
+- Fabrique les series demandees de T-34, Panther, T-70, StuG, Tiger, IS-2,
+  Elefant, SU-76, mortiers, Katyusha et armes d'equipe. Utilise des parties
+  de farm avec ressources elevees et laisse les unites survivre assez longtemps.
+- Monte les niveaux de veterancy des unites demandees, puis valide les kills
+  specifiques par cible. Note chaque unite et chaque kill dans un tableau.
+- Fais les objectifs de bunkers, mines, champs de mines, canons, halftracks,
+  mortiers, avions et ressources. Les farms peuvent valider plusieurs cases
+  dans une seule partie, mais controle la notification avant de recommencer.
+
+05 - DIFICULTES, DLC ET CLEANUP
+
+- Rejoue les missions Captain/General et les Theater of War incomplets. Termine
+  les packs additionnels visibles dans le menu, sans supposer qu'une victoire
+  en Conscript valide Captain.
+- Controle les rangs, factions, parties, automatch, IA, ressources, veterans,
+  destructions, objectifs de scenario et conditions de victoire.
+- Fais une derniere session de synchronisation Steam. Les 452 cases de
+  l'annexe doivent etre cochees et la page Steam de l'AppID 231430 doit
+  afficher 452/452.
+
+CHECKLIST STEAM OFFICIELLE - 452/452
+
+[ ] M.01 - German Engineering — Kill a German tank with a German AT Gun
+[ ] Campaign Conscript — Play 1 Campaign mission
+[ ] Stalingrad Rail Station - Conscript — Complete Campaign Mission 01 - Stalingrad Rail Station on Conscript difficulty
+[ ] Senior Private — Reach the rank of Senior Private
+[ ] Comp-Stomp Conscript — Play 1 match versus AI
+[ ] M.01 - Compassion in War — Rescue the trapped civilians
+[ ] Corporal — Reach the rank of Corporal
+[ ] Scorched Earth - Conscript — Complete Campaign Mission 02 - Scorched Earth on Conscript difficulty
+[ ] Stalingrad Rail Station - Captain — Complete Campaign Mission 01 - Stalingrad Rail Station on Captain difficulty
+[ ] Campaign Officer — Play 3 Campaign missions
+[ ] Comp-Stomp Officer — Play 3 matches versus AI
+[ ] Senior Corporal — Reach the rank of Senior Corporal
+[ ] Stealing the Spotlight — Kill 40 Panzer Grenadiers with Guards
+[ ] Support is on the Way - Conscript — Complete Campaign Mission 03 - Support is on the Way on Conscript difficulty
+[ ] M.02 - Invaluable Resources — Keep the Shock Troops alive throughout Mission 2
+[ ] Scorched Earth - Captain — Complete Campaign Mission 02 - Scorched Earth on Captain difficulty
+[ ] Junior Sergeant — Reach the rank of Junior Sergeant
+[ ] The Miraculous Winter - Conscript — Complete Campaign Mission 04 - The Miraculous Winter on Conscript difficulty
+[ ] Multi-talented — Kill 100 infantry and 20 vehicles with T-34/76s
+[ ] M.05 - Help from the North — Secure the Northern bridge in Stalingrad
+[ ] Support is on the Way - Captain — Complete Campaign Mission 03 - Support is on the Way on Captain difficulty
+[ ] Stalingrad - Conscript — Complete Campaign Mission 05 - Stalingrad on Conscript difficulty
+[ ] Sergeant — Reach the rank of Sergeant
+[ ] Stalingrad Aftermath - Conscript — Complete Campaign Mission 06 - Stalingrad Aftermath on Conscript difficulty
+[ ] M.05 - Some Room to Breathe — Locate and destroy the enemy howitzers in Stalingrad
+[ ] Land Bridge to Leningrad - Conscript — Complete Campaign Mission 07 - Land Bridge to Leningrad on Conscript difficulty
+[ ] Hit the Deck! — Kill 600 infantry with Heavy Machine Guns
+[ ] Senior Sergeant — Reach the rank of Senior Sergeant
+[ ] Automatch Conscript — Play 1 automatch game
+[ ] The Miraculous Winter - Captain — Complete Campaign Mission 04 - The Miraculous Winter on Captain difficulty
+[ ] Theater of War Scenario Conscript — Play 1 Theater of War Scenario
+[ ] Tiger Hunting - Conscript — Complete Campaign Mission 08 - Tiger Hunting on Conscript difficulty
+[ ] Comp-Stomp Lieutenant — Play 10 matches versus AI
+[ ] Hold the Line — Build 30 bunkers
+[ ] Radio Silence - Conscript — Complete Campaign Mission 09 - Radio Silence on Conscript difficulty
+[ ] Command Economy — Spend over 7500 resources in 15 games
+[ ] M.03 - Something Borrowed — Capture at least 3 enemy weapons on the Ridge
+[ ] Master Sergeant — Reach the rank of Master Sergeant
+[ ] Stalingrad - Captain — Complete Campaign Mission 05 - Stalingrad on Captain difficulty
+[ ] Lublin - Conscript — Complete Campaign Mission 10 - Lublin on Conscript difficulty
+[ ] Campaign Lieutenant — Play 10 Campaign missions
+[ ] M.11 - Snipe the driver — Snipe the driver of a moving Opel truck
+[ ] Behind Enemy Lines - Conscript — Complete Campaign Mission 11 - Behind Enemy Lines on Conscript difficulty
+[ ] Stalingrad Aftermath - Captain — Complete Campaign Mission 06 - Stalingrad Aftermath on Captain difficulty
+[ ] King Tiger — Kill 50 enemies with a single Tiger PzKpfw VI
+[ ] Poznan Citadel - Conscript — Complete Campaign Mission 12 - Poznan Citadel on Conscript difficulty
+[ ] Sergeant Major — Reach the rank of Sergeant Major
+[ ] Land Bridge to Leningrad - Captain — Complete Campaign Mission 07 - Land Bridge to Leningrad on Captain difficulty
+[ ] More Than Just a Personnel Carrier — Kill 250 infantry with M5 Halftracks
+[ ] Attrition — End 25 games with a kill:death ratio greater than 2:1
+[ ] Theater of War Challenge Conscript — Play 1 Theater of War Challenge
+[ ] Theater of War Battle Conscript — Play 1 Theater of War Battle
+[ ] Halbe - Conscript — Complete Campaign Mission 13 - Halbe on Conscript difficulty
+[ ] The Reichstag - Conscript — Complete Campaign Mission 14 - The Reichstag on Conscript difficulty
+[ ] M.12 - Howitzer Hunter — Destroy all of the German Howitzers in the city of Poznan
+[ ] Tiger Hunting - Captain — Complete Campaign Mission 08 - Tiger Hunting on Captain difficulty
+[ ] Radio Silence - Captain — Complete Campaign Mission 09 - Radio Silence on Captain difficulty
+[ ] Campaign - Conscript — Complete the Campaign on Conscript difficulty
+[ ] War Footing Fuel I — Spend over 750 fuel in each of 15 games
+[ ] Warrant Officer — Reach the rank of Warrant Officer
+[ ] Lublin - Captain — Complete Campaign Mission 10 - Lublin on Captain difficulty
+[ ] Soviet Infantry Specialist — End 15 games with the majority of your kills from infantry (Soviet)
+[ ] M.12 - To the Rescue — Find and rescue the Penal Battalions incarcerated in the city of Poznan
+[ ] Automatch Officer — Play 3 automatch games
+[ ] M.12 - Solo Commander — Capture both squares in Poznan before Colonel-General Kolpakchi’s army does
+[ ] Senior Warrant Officer — Reach the rank of Senior Warrant Officer
+[ ] Behind Enemy Lines - Captain — Complete Campaign Mission 11 - Behind Enemy Lines on Captain difficulty
+[ ] Poznan Citadel - Captain — Complete Campaign Mission 12 - Poznan Citadel on Captain difficulty
+[ ] M.10 - Glass Cannons — Destroy an Elefant or all Pak-43s before they destroy a vehicle
+[ ] Brody Tank War - Conscript — Complete the Brody Tank War on Conscript difficulty
+[ ] M.07 - Suchka Specialist — Earn three ranks of veterancy with an SU-76
+[ ] War Footing Munitions I — Spend over 1500 munitions in each of 15 games
+[ ] Comp-Stomp Commander — Play 25 matches versus AI
+[ ] The Reichstag - Captain — Complete Campaign Mission 14 - The Reichstag on Captain difficulty
+[ ] Halbe - Captain — Complete Campaign Mission 13 - Halbe on Captain difficulty
+[ ] Junior Lieutenant — Reach the rank of Junior Lieutenant
+[ ] Campaign - Captain — Complete the Campaign on Captain difficulty
+[ ] Target Practice — Kill 300 infantry with GrW 34 8cm Mortar teams
+[ ] War Footing Fuel II — Spend over 1000 fuel in each of 15 games
+[ ] M.06 - Scout vs. Sniper — Kill at least 3 snipers with an M3A1 Scout Car
+[ ] M.03 - Mtsensk Mine Field — Place at least 10 mines before the village defense
+[ ] Lieutenant — Reach the rank of Lieutenant
+[ ] General Winter - Conscript — Complete the General Winter Scenario on Conscript difficulty
+[ ] M.11 - Armia Krajowa — Mobilize all three types of partisan troops during the fight
+[ ] HMG Hero — Kill 15 enemies with each of 10 different M1910 Maxim Heavy Machine Guns squads
+[ ] Theater of War Scenario Officer — Play 3 Theater of War Scenarios
+[ ] Silence the Guns — Destroy the Soviet Artillery positions on the central plateau in the Encirclement at Smolensk
+[ ] Theater of War Challenge Officer — Play 3 Theater of War Challenges
+[ ] M.06 - Get Out of the Truck! — Destroy all the German halftracks
+[ ] Shooting Gallery — Kill 500 infantry with M1910 Maxim Heavy Machine Guns
+[ ] Senior Lieutenant — Reach the rank of Senior Lieutenant
+[ ] Stalingrad Rail Station - General — Complete Campaign Mission 01 - Stalingrad Rail Station on General difficulty
+[ ] Encirclement at Smolensk - Conscript — Complete the Encirclement at Smolensk on Conscript difficulty
+[ ] Faceoff at Rostov - Conscript — Complete the Faceoff at Rostov on Conscript difficulty
+[ ] War Material — Capture five team weapons or vehicles in 25 different games
+[ ] Theater of War Battle Officer — Play 3 Theater of War Battles
+[ ] War Footing Munitions II — Spend over 2000 munitions in each of 15 games
+[ ] Brody Tank War - Captain — Complete the Brody Tank War on Captain difficulty
+[ ] Captain — Reach the rank of Captain
+[ ] Cold Weather - Conscript — Complete the Cold Weather Challenge on Conscript difficulty
+[ ] Winter Defense - Conscript — Complete the Winter Defense Challenge on Conscript difficulty
+[ ] M.04 - Revenge — Destroy all 10 tanks in Mission 4
+[ ] Gold Defense — Complete all objectives in the Winter Defense Challenge
+[ ] Panzer Graveyard — Destroy 20 German tanks or assault guns during the Brody Tank War
+[ ] Evenly Matched — Destroy 25 T-34/76s with Panzer IVs
+[ ] Automatch Lieutenant — Play 10 automatch games
+[ ] Battle of Minsk - Conscript — Complete the Battle of Minsk on Conscript difficulty
+[ ] War Footing Fuel III — Spend over 1250 fuel in each of 15 games
+[ ] Oorah! — Use the Conscripts' Oorah! Ability 100 times
+[ ] Battle of Pripyat River - Conscript — Complete the Battle of Pripyat River on Conscript difficulty
+[ ] General Winter - Captain — Complete the General Winter Scenario on Captain difficulty
+[ ] One Tank Army — Destroy 20 Vehicles and kill 200 Infantry with IS-2s
+[ ] Senior Captain — Reach the rank of Senior Captain
+[ ] To the Frontlines! — Build 50 Shock Troops and kill 300 infantry with Shock Troops
+[ ] Commando Style — Kill 15 enemies with each of 25 different Panzer Grenadier squads
+[ ] Mortar Hero — Complete Campaign Mission 08 - Tiger Hunting on Captain difficulty
+[ ] Panzer Krieg — End 15 games with the majority of your kills from vehicles (German)
+[ ] Defense of Schildkröteberg - Conscript — Complete the Defense of Schildkröteberg Challenge on Conscript difficulty
+[ ] Encirclement at Smolensk - Captain — Complete the Encirclement at Smolensk on Captain difficulty
+[ ] Moscow Approach - Conscript — Complete the battle: Moscow Approach on Conscript difficulty
+[ ] MG42 Specialist — Achieve three levels of veteran status with 15 MG42s
+[ ] Battle of the Crimea - Conscript — Complete the Battle of Crimea on Conscript difficulty
+[ ] Gold Weather — Complete all objectives in the Cold Weather challenge
+[ ] Just a Scratch! — Get a KV1 to Veterancy Rank 3.
+[ ] Major — Reach the rank of Major
+[ ] Blitzkrieg - Conscript — Complete the Blitzkrieg Challenge on Conscript difficulty
+[ ] Halftracked — Recrew all the abandoned German halftracks on the General Winter Scenario map
+[ ] Scorched Earth - General — Complete Campaign Mission 02 - Scorched Earth on General difficulty
+[ ] Indirect Fire - Conscript — Complete the Indirect Fire Challenge on Conscript difficulty
+[ ] Cold Weather - Captain — Complete the Cold Weather Challenge on Captain difficulty
+[ ] Winter Defense - Captain — Complete the Winter Defense Challenge on Captain difficulty
+[ ] Moscow Lines - Conscript — Complete the battle: Moscow Lines on Conscript difficulty
+[ ] Soviet Vehicle Specialist — End 15 games with the majority of your kills from vehicles (Soviet)
+[ ] Fusilier — End 15 games with the majority of your kills from infantry (German)
+[ ] Officer Assassination - Conscript — Complete the Officer Assassination Challenge on Conscript difficulty
+[ ] Kinslayer — Destroy 50 Mortar team members with GrW 34 8cm Mortars
+[ ] First Battle of Kharkov - Conscript — Complete the First Battle of Kharkov on Conscript difficulty
+[ ] M.08 - No Help Needed — Complete the “Hunt” without calling in any additional troops
+[ ] 'Pak's Quite a Punch — Build 100 Pak40 Anti-tank Guns and kill 15 medium tanks with Pak40 Anti-tank Guns
+[ ] Lieutenant Colonel — Reached the rank of Lieutenant Colonel
+[ ] Battle of Minsk - Captain — Complete the Battle of Minsk on Captain difficulty
+[ ] Theater of War - 1941 - Scenarios — Complete all Theater of War Co-op Scenarios in 1941
+[ ] War Footing Munitions III — Spend over 2500 munitions in each of 15 games
+[ ] Infantry Production I — Build 100 Conscripts, 100 Grenadiers, and 60 Panzer Grenadiers
+[ ] Leningrad Approach - Conscript — Complete the battle: Leningrad Approach on Conscript difficulty
+[ ] Triple Triple — Have three squads reach triple veterancy during the Defense of Schildkröteberg
+[ ] Assault on Voronezh - Conscript — Complete the Theater of War Scenario: Assault on Voronezh on Conscript difficulty
+[ ] Knife through Butter — Destroy 100 light vehicles with Pak40 Anti-tank Guns
+[ ] Support is on the Way - General — Complete Campaign Mission 03 - Support is on the Way on General difficulty
+[ ] Faceoff at Rostov - Captain — Complete the Faceoff at Rostov on Captain difficulty
+[ ] M.07 - Direct Fire — Complete the mission without capturing or deploying a Mortar
+[ ] Burn Baby Burn — Use the Conscripts' Molotov Cocktail ability 80 times and kill 500 enemy infantry with Conscripts
+[ ] Colonel — Reached the rank of Colonel
+[ ] Automatch Commander — Play 25 automatch games
+[ ] Battle of Pripyat River - Captain — Complete the Battle of Pripyat River on Captain difficulty
+[ ] Gold Assassin — Complete all objectives in the Officer Assassination Challenge
+[ ] Turtle Gold — Complete all objectives in the Defense of Schildkröteberg
+[ ] Cookout — Build 10 Campfires during the General Winter Scenario
+[ ] Tougher Meat — Kill 100 light vehicles with Heavy Machine Guns
+[ ] Battle of Oka River - Conscript — Complete the Battle of Oka River on Conscript difficulty
+[ ] Moscow Approach - Captain — Complete the battle: Moscow Approach on Captain difficulty
+[ ] Goldkrieg — Complete all objectives in the Blitzkrieg Challenge
+[ ] With Extreme Difficulty — Destroy 5 heavy tanks with Grenadiers
+[ ] Campaign Commander — Play 25 Campaign missions
+[ ] The Miraculous Winter - General — Complete Campaign Mission 04 - The Miraculous Winter on General difficulty
+[ ] M.14 - Before the Winter — Achieve victory in 60 minutes or less.
+[ ] Brigadier General — Reached the rank of Brigadier General
+[ ] Stalingrad - General — Complete Campaign Mission 05 - Stalingrad on General difficulty
+[ ] Blitzkrieg - Captain — Complete the Blitzkrieg Challenge on Captain difficulty
+[ ] Moscow Lines - Captain — Complete the battle: Moscow Lines on Captain difficulty
+[ ] Red Dead — Kill 20 squads of Soviet Shock Troops or Penal Battalions during Faceoff at Rostov
+[ ] Comp-Stomp General — Play 100 matches versus AI
+[ ] Officer Assassination - Captain — Complete the Officer Assassination Challenge on Captain difficulty
+[ ] Defense of Schildkröteberg - Captain — Complete the Defense of Schildkröteberg Challenge on Captain difficulty
+[ ] Indirect Fire - Captain — Complete the Indirect Fire Challenge on Captain difficulty
+[ ] M.13 - Halbe Massacre — Allow no Germans to escape the encirclement
+[ ] Wrong Place, Wrong Time — Destroy 30 vehicles with leFH 18 Artillery
+[ ] Sitting Ducks — Kill 50 Mortar team memberss and 50 HMG team members with leFH 18 Artillery
+[ ] Stalingrad Aftermath - General — Complete Campaign Mission 06 - Stalingrad Aftermath on General difficulty
+[ ] Land Bridge to Leningrad - General — Complete Campaign Mission 07 - Land Bridge to Leningrad on General difficulty
+[ ] Battle of the Crimea - Captain — Complete the Battle of Crimea on Captain difficulty
+[ ] First Battle of Kharkov - Captain — Complete the First Battle of Kharkov on Captain difficulty
+[ ] Tiger Ace - Conscript — Complete the Theater of War Challenge: Tiger Ace on Conscript difficulty
+[ ] Kalach - Conscript — Complete the Theater of War Scenario: Kalach Pincer on Conscript difficulty
+[ ] Breaking Lines - Conscript — Complete the Theater of War Battle: Breaking Lines on Conscript difficulty
+[ ] Occupation - Conscript — Complete the Theater of War Challenge: Occupation on Conscript difficulty
+[ ] Sibling Rivalry (German) — Destroy 10 IS-2s with Tiger PzKpfw VIs
+[ ] Major General — Reached the rank of Major General
+[ ] Radio Silence - General — Complete Campaign Mission 09 - Radio Silence on General difficulty
+[ ] The Reichstag - General — Complete Campaign Mission 14 - The Reichstag on General difficulty
+[ ] Assault on Voronezh - Captain — Complete the Theater of War Scenario: Assault on Voronezh on Captain difficulty
+[ ] Stalingrad Encirclement - Conscript — Complete the Theater of War Battle: Stalingrad Encirclement on Conscript difficulty
+[ ] HMG Production I — Build 80 M1910 Maxim Heavy Machine Gun teams and 80 MG42 Heavy Machine Gun teams
+[ ] Never Make an Engineer Mad — Upgrade 100 Combat Engineers with flamethrowers and kill 200 infantry with Combat Engineers
+[ ] Tiger Hunting - General — Complete Campaign Mission 08 - Tiger Hunting on General difficulty
+[ ] Lublin - General — Complete Campaign Mission 10 - Lublin on General difficulty
+[ ] M.06 - Repel and Repair — Complete the mission with at least 50 percent HQ integrity on General difficulty
+[ ] Retreat at the Don - Conscript — Complete the Theater of War Battle: Retreat at the Don on Conscript difficulty
+[ ] No Retreat No Surrender - Conscript — Complete the Theater of War Battle: No Retreat No Surrender on Conscript difficulty
+[ ] Spring Rasputitsa - Conscript — Complete the Theater of War Challenge: Spring Rasputitsa on Conscript difficulty
+[ ] Attrition Expert — Win 100 Victory Point games
+[ ] Poznan Citadel - General — Complete Campaign Mission 12 - Poznan Citadel on General difficulty
+[ ] Leningrad Approach - Captain — Complete the battle: Leningrad Approach on Captain difficulty
+[ ] Convoy - Conscript — Complete the Theater of War Challenge: Convoy on Conscript difficulty
+[ ] Assault Grenadiers — Kill 50 enemies with a single Assault Grenadier Squad
+[ ] Tank Hunter — Destroy 50 medium tanks and 30 heavy tanks with Panther PzKpfw Vs
+[ ] Missiles Everywhere! — Use the BM-13 Katyusha 132mm Barrage ability 75 times and kill 30 enemies with each of 15 BM-13 Katyushas
+[ ] Death from Above — Kill 600 infantry with Panzerwerfers
+[ ] Halbe - General — Complete Campaign Mission 13 - Halbe on General difficulty
+[ ] Battle of Oka River - Captain — Complete the Battle of Oka River on Captain difficulty
+[ ] General Mud - Conscript — Complete the Theater of War Battle: General Mud on Conscript difficulty
+[ ] Blow It All Up! — Destroy 30 buildings and kill 300 infantry with Katyushas
+[ ] Rocket Siege — Use the Panzerwerfer Rocket Barrage 30 times and build 60 Panzerwerfers
+[ ] A Tool for Every Occasion — Use Grenadiers' Panzerfaust ability 50 times and destroy 50 light vehicles with Grenadiers
+[ ] Behind Enemy Lines - General — Complete Campaign Mission 11 - Behind Enemy Lines on General difficulty
+[ ] Theater of War - 1941 - Challenges — Complete all Theater of War Challenges in 1941
+[ ] Indirect Gold — Complete all objectives in the Indirect Fire Challenge
+[ ] Stalingrad Encirclement - Captain — Complete the Theater of War Battle: Stalingrad Encirclement on Captain difficulty
+[ ] Kalach - Captain — Complete the Theater of War Scenario: Kalach Pincer on Captain difficulty
+[ ] Breaking Lines - Captain — Complete the Theater of War Battle: Breaking Lines on Captain difficulty
+[ ] Panzer Crossing - Conscript — Complete the Theater of War Battle: Panzer Crossing on Conscript difficulty
+[ ] Heavy Rain - Conscript — Complete the Theater of War Battle: Heavy Rain on Conscript difficulty
+[ ] Penetrating Performance — Destroy 75 medium tanks with ZIS-3 76mm Divisional Field Guns
+[ ] Panzer Grenadier Specialist — Achieve three levels of veteran status with 20 Panzer Grenadier squads and kill 300 Conscripts with Panzer Grenadier squads
+[ ] Battlefield Menace — Build 150 Barbed Wire pieces and plant 20 Soviet TM-35 mines
+[ ] Theater of War Challenge Lieutenant — Play 10 Theater of War Challenges
+[ ] M.03 - Hardened Armor — Re-take the Ridge without losing a vehicle on General difficulty
+[ ] M.10 - Gate Crusher — Breach the gate without losing an ISU-152 on General difficulty
+[ ] General Mud - Captain — Complete the Theater of War Battle: General Mud on Captain difficulty
+[ ] Kharkov Divide - Conscript — Complete the Theater of War Battle: Kharkov Divide on Conscript difficulty
+[ ] No Retreat No Surrender - Captain — Complete the Theater of War Battle: No Retreat No Surrender on Captain difficulty
+[ ] Retreat to the Donets - Conscript — Complete the Theater of War Battle: Retreat to the Donets on Conscript difficulty
+[ ] Occupation - Captain — Complete the Theater of War Challenge: Occupation on Captain difficulty
+[ ] Attrition over Annihilation — Play 250 Victory Point games
+[ ] Medium Tank Production II — Build 30 T-34/76s, 30 Panzer Ivs and 30 Ostwinds
+[ ] Artillery Production II — Build 15 ML-20 152mm Gun-Howitzer pieces and 15 leFH 18 Artillery Artillery pieces
+[ ] Theater of War Battle Lieutenant — Play 10 Theater of War Battles
+[ ] Campaign - General — Complete the Campaign on General difficulty
+[ ] Theater of War - 1941 - Battles — Complete all Theater of War Battles in 1941
+[ ] Retreat at the Don - Captain — Complete the Theater of War Battle: Retreat at the Don on Captain difficulty
+[ ] Stalingrad Resistance - Conscript — Complete the Theater of War Battle: Stalingrad Resistance on Conscript difficulty
+[ ] Tatsinskaya Raid - Conscript — Complete the Theater of War Challenge: Tatsinskaya Raid on Conscript difficulty
+[ ] Overwhelming Might — Win 50 games with a point lead greater than 400
+[ ] Top of the Food Chain — Destroy 20 T-34/76s and 10 T-34/85s with Tiger PzKpfw VI tanks
+[ ] Panzer IV Specialist — Build 50 Panzer Ivs and achieve three levels of veteran status with 15 Panzer Ivs
+[ ] Explosivist — Use the ZIS-3 76mm Divisional Field Gun Light Artillery Barrage ability 75 times
+[ ] Brotherly Love (German) — Kill 100 M1910 Maxim Heavy Machine Gun team members and 300 Conscripts with MG42 Heavy Machine Guns
+[ ] Automatch General — Play 100 automatch games
+[ ] Brody Tank War - General — Complete the Brody Tank War on General difficulty
+[ ] General Winter - General — Complete the General Winter Scenario on General difficulty
+[ ] Sharpshooter — Use a Sniper to deliver the killing shot to five Soviet officers during the Officer Assassination Challenge
+[ ] In the Noose — Destroy all the vehicles in the Soviet breakout convoy during the Encirclement at Smolensk
+[ ] Tiger Ace - Captain — Complete the Theater of War Challenge: Tiger Ace on Captain difficulty
+[ ] Storming the Donets - Conscript — Complete the Theater of War Battle: Storming the Donets on Conscript difficulty
+[ ] Direct Indirect Fire — Build 80 PM-41 82mm Mortar teams and use their Mortar Barrage ability 40 times
+[ ] Encirclement at Smolensk - General — Complete the Encirclement at Smolensk on General difficulty
+[ ] M.07 - Point Blank Demolition — Destroy the German strongholds from close range on General difficulty
+[ ] Convoy - Captain — Complete the Theater of War Challenge: Convoy on Captain difficulty
+[ ] Kharkov Divide - Captain — Complete the Theater of War Battle: Kharkov Divide on Captain difficulty
+[ ] Heavy Rain - Captain — Complete the Theater of War Battle: Heavy Rain on Captain difficulty
+[ ] Spring Rasputitsa - Captain — Complete the Theater of War Challenge: Spring Rasputitsa on Captain difficulty
+[ ] German Team Weapon Specialist — End 15 games with the majority of your kills from team weapons (German)
+[ ] Medium Tank Production I — Build 50 Panther PzKpfw Vs and 40 T-34/85s
+[ ] Infantry Production II — Build 60 Shock Troops, 60 Guard Troops, and 60 Penal Battalions
+[ ] Cold Weather - General — Complete the Cold Weather Challenge on General difficulty
+[ ] Help Indeed — Rescue all three Partizan squads in the Cold Weather challenge
+[ ] Panzer Crossing - Captain — Complete the Theater of War Battle: Panzer Crossing on Captain difficulty
+[ ] Retreat to the Donets - Captain — Complete the Theater of War Battle: Retreat to the Donets on Captain difficulty
+[ ] Storming the Donets - Captain — Complete the Theater of War Battle: Storming the Donets on Captain difficulty
+[ ] Soviet Team Weapon Specialist — End 15 games with the majority of your kills from team weapons (Soviet)
+[ ] StuG Lover — Build 60 StuG IIIs and destroy 80 vehicles with StuG IIIs
+[ ] Brotherly Love (Soviet) — Kill 100 MG42 HMG team members and 300 Grenadier squads with M1910 Maxim Heavy Machine Guns
+[ ] Winter Defense - General — Complete the Winter Defense Challenge on General difficulty
+[ ] Battle of Minsk - General — Complete the Battle of Minsk on General difficulty
+[ ] M.09 - The Spice of Life — Create all available types of tank in Mission 9
+[ ] Kharkov Pursuit - Conscript — Complete the Theater of War Battle: Kharkov Pursuit on Conscript difficulty
+[ ] Stalingrad Resistance - Captain — Complete the Theater of War Battle: Stalingrad Resistance on Captain difficulty
+[ ] Bridge Defense - Conscript — Complete the Theater of War Challenge: Bridge on Conscript difficulty
+[ ] Sibling Rivalry (Soviet) — Destroy 10 Tiger PzKpfw VIs with IS-2s
+[ ] Light Snack — Destroy 50 T-70s with Panzer IVs
+[ ] Never Know What Hit 'Em — Kill 500 infantry with ML-20 152mm Gun-Howitzers
+[ ] Blitzkrieg - General — Complete the Blitzkrieg Challenge on General difficulty
+[ ] Moscow Lines - General — Complete the battle: Moscow Lines on General difficulty
+[ ] Moscow Approach - General — Complete the battle: Moscow Approach on General difficulty
+[ ] Battle of Pripyat River - General — Complete the Battle of Pripyat River on General difficulty
+[ ] Theater of War - 1941 - Conscript — Complete all Theater of War missions in 1941 on Conscript difficulty
+[ ] Winter Driver — Recrew and fully repair a Panzer IV tank during the Cold Weather challenge
+[ ] Winter Storm - Conscript — Complete the Theater of War Battle: Winter Storm on Conscript difficulty
+[ ] Tatsinskaya Raid - Captain — Complete the Theater of War Challenge: Tatsinskaya Raid on Captain difficulty
+[ ] Total Victory — Win 25 games with 500 or greater point lead
+[ ] To the Last Bullet — Finish 500 automatch or skirmish games
+[ ] PM-41 82mm Mortar Specialist — Achieve three levels of veteran status with 20 PM-41 82mm Mortar Teams
+[ ] Officer Assassination - General — Complete the Officer Assassination Challenge on General difficulty
+[ ] Outrun and Outgun — Destroy 75 light vehicles with T-70s
+[ ] No-Fly Zone — Upgrade 60 M5 Halftracks with the M17 Quad AA package
+[ ] Flanking Maneuvers — Kill 70 HMG team members and 70 Mortar team members with Shock Troops
+[ ] Destined for Destruction — Destroy 30 T-34/76s with StuG IIIs
+[ ] Bigger is Better — Build 100 HM-38 120mm Mortar teams and kill 200 infantry with HM-38 120mm Mortars
+[ ] Artillery Production I — Build 60 BM-13 Katyushas and 60 Panzerwerfers
+[ ] Don't Step on the Grass — Build 30 mine fields and plant 15 Teller AT Mines
+[ ] Indirect Fire - General — Complete the Indirect Fire Challenge on General difficulty
+[ ] Faceoff at Rostov - General — Complete the Faceoff at Rostov on General difficulty
+[ ] First Battle of Kharkov - General — Complete the First Battle of Kharkov on General difficulty
+[ ] Winter Storm - Captain — Complete the Theater of War Battle: Winter Storm on Captain difficulty
+[ ] Stalingrad Encirclement - General — Complete the Theater of War Battle: Stalingrad Encirclement on General difficulty
+[ ] Pak43 Specialist — Achieve three levels of veteran status with 10 Pak43 Anti-tank Guns
+[ ] Indirect but Deadly — Destroy 200 Infantry with SU-76s and use the SU-76 Barrage ability 100 times
+[ ] Armored Assassin — Destroy 30 BM-13 Katyushas with Panther PzKpfw Vs
+[ ] Theater of War Scenario Lieutenant — Play 10 Theater of War Scenarios
+[ ] Defense of Schildkröteberg - General — Complete the Defense of Schildkröteberg Challenge on General difficulty
+[ ] Leningrad Approach - General — Complete the battle: Leningrad Approach on General difficulty
+[ ] Battle of the Crimea - General — Complete the Battle of Crimea on General difficulty
+[ ] Battle of Oka River - General — Complete the Battle of Oka River on General difficulty
+[ ] M.01 - Soviet Zeal — Complete Mission 01 without calling in additional Shock Troops
+[ ] Kharkov - Pursuit - Captain — Complete the Theater of War Battle: Kharkov Pursuit on Captain difficulty
+[ ] Assault on Voronezh - General — Complete the Theater of War Scenario: Assault on Voronezh on General difficulty
+[ ] Theater of War - Case Blue - Conscript — Complete all Theater of War missions in Case Blue on Conscript difficulty
+[ ] Makeshift Artillery — Kill 200 infantry with STUG III E assault guns
+[ ] Breaking Lines - General — Complete the Theater of War Battle: Breaking Lines on General difficulty
+[ ] General Mud - General — Complete the Theater of War Battle: General Mud on General difficulty
+[ ] No Retreat No Surrender - General — Complete the Theater of War Battle: No Retreat No Surrender on General difficulty
+[ ] Tank Destroyer — Destroy 15 heavy tanks with SU-85s
+[ ] Mortar Production I — Build 60 GrW 34 8cm Mortars, 60 PM-41 82mm Mortars, and 50 HM-38 120mm Mortars
+[ ] Theater of War - 1941 - Captain — Complete all Theater of War missions in 1941 on Captain difficulty
+[ ] Hard Shell — Build 3 Panzer IV Medium Tanks during the match during the Defense of Schildkröteberg
+[ ] Retreat at the Don - General — Complete the Theater of War Battle: Retreat at the Don on General difficulty
+[ ] Bridge Defense - Captain — Complete the Theater of War Challenge: Bridge on Captain difficulty
+[ ] Kalach - General — Complete the Theater of War Scenario: Kalach Pincer on General difficulty
+[ ] Theater of War - Victory at Stalingrad - Conscript — Complete all Theater of War missions in Victory at Stalingrad on Conscript difficulty
+[ ] Rapid Fire Anti-Tank — Destroy 20 vehicles with DShK Heavy Machine Guns.
+[ ] Storming the Donets - General — Complete the Theater of War Battle: Storming the Donets on General difficulty
+[ ] Heavy Rain - General — Complete the Theater of War Battle: Heavy Rain on General difficulty
+[ ] Theater of War - Southern Fronts - Conscript — Complete all Theater of War mission in Southern Fronts on Conscript difficulty
+[ ] Deadly Purpose — Build 50 T-34/85s and destroy 10 heavy tanks with T-34/85s
+[ ] Up Close and Personal — Kill 150 Anti-tank Gun team members with T-70s
+[ ] Torched — Upgrade 30 Penal Battalions with flamethrowers and kill 300 infantry with Penal Battalions
+[ ] Anti-tank Gun Production I — Build 60 Pak40 Anti-tank Guns, 30 Pak43 Anti-tank Guns, and 60 ZIS-3 76mm Divisional Field Guns
+[ ] Sniper Hero — Kill 25 enemies with each of 15 different German Snipers
+[ ] M.02 - What's Mine is Mine — Defend the trainyard without placing any mines on the roads
+[ ] M.04 - Cool Efficiency — Take all three German outposts in Mission 4 using only snipers
+[ ] To the Front — Call in 20 squads of Fresh Conscripts during the Winter Defense Challenge
+[ ] Uncompromising — Complete Faceoff at Rostov without the Soviets ever controlling more Victory Points than you do.
+[ ] Panzer Crossing - General — Complete the Theater of War Battle: Panzer Crossing on General difficulty
+[ ] Retreat to the Donets - General — Complete the Theater of War Battle: Retreat to the Donets on General difficulty
+[ ] Occupation - General — Complete the Theater of War Challenge: Occupation on General difficulty
+[ ] Annihilator — Win 100 annihilate games
+[ ] IS-2 Specialist — Build 30 IS-2 and achieve three levels of veteran status with 5 IS-2s
+[ ] Even Heavy Armor Cannot Withstand Fire of this Magnitude — Destroy 25 heavy tanks with Elefants
+[ ] Flame On! — Upgrade 60 Sdkfz 251 Halftracks with Flame Projectors
+[ ] Unstoppable Force — Build 50 Pak43 Anti-tank Guns and kill 5 IS-2 heavy tanks with Pak43s
+[ ] Satchel of Trouble — Use the Satchel Charge ability 40 times and Kill 70 Mortar teams with Penal Battalions
+[ ] Nothing Left Standing — Destroy 25 buildings and destroy 50 vehicles with ISU-152s
+[ ] Special Ingredients — Use MG42 Incendiary Armor Piercing rounds 100 times and destroy 30 light vehicles with MG42 Heavy Machine Guns
+[ ] HM-38 120mm Mortar Specialist — Destroy 15 buildings and achieve three levels of veteran status with 20 HM-38 120mm Mortars
+[ ] M.05 - The Silent Organs — Complete Mission 5 without firing the Katyusha rockets
+[ ] M.09 - All on Your Own — Complete Mission 9 without reestablishing radio communication
+[ ] Convoy - General — Complete the Theater of War Challenge: Convoy on General difficulty
+[ ] Theater of War - Case Blue - Captain — Complete all Theater of War missions in Case Blue on Captain difficulty
+[ ] Stalingrad Resistance - General — Complete the Theater of War Battle: Stalingrad Resistance on General difficulty
+[ ] Tatsinskaya Raid - General — Complete the Theater of War Challenge: Tatsinskaya Raid on General difficulty
+[ ] Kharkov Divide - General — Complete the Theater of War Battle: Kharkov Divide on General difficulty
+[ ] Spring Rasputitsa - General — Complete the Theater of War Challenge: Spring Rasputitsa on General difficulty
+[ ] Theater of War - Southern Fronts - Captain — Complete all Theater of War mission in Southern Fronts on Captain difficulty
+[ ] War Games IV — Win 100 games versus four AI opponents
+[ ] War Games II — Win 100 games versus two AI opponents
+[ ] Challenging Victory — Win 25 games with a point lead under 100
+[ ] Elefant Frenzy — Kill 30 enemies with each of 5 different Elefant tanks
+[ ] Ramming Speed! — Use the T-34/76 ramming ability 50 times
+[ ] Infantry Annihilator — Kill 250 Conscripts and 500 more infantry with Sturmpanzer IV "Brummbärs"
+[ ] Light Vehicle Production I — Build 50 T-70s, 50 Sdkfz 222 Scout Cars, and 50 M3A1 Scout Cars
+[ ] Light Vehicle Production II — Build 70 M5 Halftracks and 70 Sdkfz 251 Halftracks
+[ ] Theater of War Battle Commander — Play 25 Theater of War Battles
+[ ] Kharkov Pursuit - General — Complete the Theater of War Battle: Kharkov Pursuit on General difficulty
+[ ] Tiger Ace - General — Complete the Theater of War Challenge: Tiger Ace on General difficulty
+[ ] Winter Storm - General — Complete the Theater of War Battle: Winter Storm on General difficulty
+[ ] Theater of War - Victory at Stalingrad - Captain — Complete all Theater of War missions in Victory at Stalingrad on Captain difficulty
+[ ] SURPRISE! — Destroy 20 vehicles with Partisan Tank Hunters.
+[ ] Heartbreaking Loss — Lose 25 Victory Point games by reaching zero points with a 100 or less point difference
+[ ] Delaying the Inevitable — Play 50 games against a Soviet opponent that last longer than 45 minutes
+[ ] Staunch Defense — Build 10 or more bunkers in 15 games
+[ ] Death from Afar — Destroy 40 T-34/76 medium tanks with Elefants
+[ ] Massacre — Kill 250 HMG team members and 250 Mortar team members with Ostwinds
+[ ] Sturmpanzer IV Specialist — Achieve three levels of veteran status with 10 Sturmpanzer IV "Brummbärs"s and kill 40 enemies with the same Sturmpanzer IV "Brummbär"
+[ ] Assault Gun Production I — Build 50 Sturmpanzer IVs, 10 ISU-152s, and 50 SU-85s
+[ ] Assault Gun Production II — Build 70 SU-76s and 70 StuG IIIs
+[ ] Invulnerable — Destroy 50 T-70s with Panther PzKpfw Vs and achieve three levels of veteran status with 25 Panther PzKpfw Vs
+[ ] Theater of War Challenge Commander — Play 25 Theater of War Challenges
+[ ] Theater of War - 1941 - General — Complete all Theater of War missions in 1941 on General difficulty
+[ ] M.14 - Claimed for the Motherland — Recrew the abandoned StuG, Brummbär and Ostwind
+[ ] M.14 - Boots in the Streets — Complete the mission without building any additional vehicles
+[ ] Rocket Recovery — Recrew all of the Katyusha trucks on the map during the Indirect Fire Challenge
+[ ] Clean Sweep — Clear the entire minefield in the Blitzkrieg Challenge
+[ ] Bridge Defense - General — Complete the Theater of War Challenge: Bridge on General difficulty
+[ ] We're Going to Need a Bigger Gun — Get 100 kills using a KV2.
+[ ] They don't Call Him Ace for Nothing! — Kill 200 units with a single Tiger Ace.
+[ ] War Games III — Win 100 games versus three AI opponents
+[ ] War Games I — Win 100 games versus one AI opponent
+[ ] German Battle Medallion — Play as the Germans 500 times
+[ ] KV-8 Specialist — Kill 300 infantry and achieve three levels of veteran status with 5 KV-8s
+[ ] Not Simply Anti-Air — Destroy 100 light vehicles with Ostwinds
+[ ] Sniper Hunter — Kill 50 snipers with Sdkfz 222 Scout Cars
+[ ] SU-76 Specialist — Destroy 40 Light Vehicles with SU-76s and achieve three levels of veteran status with 20 SU-76s
+[ ] Heavy Tank Production I — Build 20 Tiger PzKpfw Vis, 20 IS-2s, and 40 Elefants
+[ ] M.13 - The Might of the Red Army — Complete the Halbe encirclement without producing any additional units
+[ ] Massive Destruction — Destroy 75% of the neutral structures during the Indirect Fire Challenge
+[ ] Theater of War - Case Blue - General — Complete all Theater of War missions in Case Blue on General difficulty
+[ ] Theater of War - Victory at Stalingrad - General — Complete all Theater of War missions in Victory at Stalingrad on General difficulty
+[ ] Theater of War - Southern Fronts - General — Complete all Theater of War mission in Southern Fronts on General difficulty
+[ ] Annihilation over Attrition — Play 250 Annihilate games
+[ ] Soviet Battle Medallion — Play as the Soviets 500 times
+[ ] Now That's What I Call Recon — Kill 15 enemies with each of 20 different M3A1 Scout Cars
+[ ] Long Distance Combat — Destroy 5 Elefant tanks with ML-20 152mm Gun-Howitzers
+[ ] Heavy Weapons — Destroy 30 Sdkfz 222 Scout Cars, 15 Ostwinds, and 40 more vehicles with Guards
+[ ] Mobile Bombardment — Use the Sdkfz 250/7 Mortar Halftrack's Mortar Barrage, Smoke Barrage, and Incendiary Mortar Barrage 25 times each
+[ ] Master Flanker — Snipe 70 HMG Team Members and 70 Mortar Team Members
+[ ] Panzer Theft — Recrew and repair a Panzer IV tank during the Winter Defense Challenge
+[ ] Scrounger — Pick up 80% of the supply caches on the map during the Officer Assassination Challenge
+[ ] I Need No Help — Do not call in any reinforcements during the Brody Tank War
+[ ] M.10 - Zero-Risk Market — Capture the Lublin market squad without losing a soldier or vehicle
+[ ] BOOM! — Kill 100 vehicles with B4 howitzers.
+[ ] It's Super Effective! — Kill 200 Heavy Machine Gun team members and 200 Mortar team members with Sdkfz 222 Scout Cars
+[ ] Outranged — Destroy 50 leFH 18 Artillery Howitzer team members with ML-20 152mm Gun-Howitzer
+[ ] Beast Killer — Destroy 25 Panthers PzKpfw V and 10 Tiger PzKpfw VIs with ISU-152s
+[ ] Lucky Shot — Destroy 25 Sdkfz 222 Scout Cars with PM-41 82mm Mortars
+[ ] Heavy Machine Gun Specialist — Complete all HMG intelligence bulletins
+[ ] Someone Needs to Man those Guns! — Deploy 200 Osttruppen squads.
+[ ] Defending the Motherland — Kill 100 infantry units with Soviet Irregulars
+[ ] Occupation - Blood in the Snow — Rescued the wounded Commander on Occupation
+[ ] Snore, Snore, Total Bore! — Condition masquee sur Steam : valide cet objectif avec la route de la zone.
+[ ] M3A1 Specialist — Achieve three levels of veteran status with 40 M3A1 Scout Cars
+[ ] Assault Gun Specialist — Complete all Assault Gun intelligence bulletins
+[ ] Anti-Tank Gun Specialist — Complete all Anti-Tank intelligence bulletins
+[ ] Medium Tank Specialist — Complete all Medium Tank intelligence bulletins
+[ ] Mortar Specialist — Complete all Mortar intelligence bulletins
+[ ] Campaign General — Play 100 Campaign missions
+[ ] Theater of War Scenario Commander — Play 25 Theater of War Scenarios
+[ ] Armored and Dangerous — Recrew 10 Soviet vehicles during the Blitzkrieg Challenge
+[ ] Size Doesn't Matter — Kill 5 Tigers with M-42 AT guns
+[ ] Blood Toll — Win a game despite having twice as many deaths as kills
+[ ] Human Wave — Win a game as Soviets despite having three times as many deaths as kills
+[ ] Artillery Specialist — Complete all Artillery intelligence bulletins
+[ ] Heavy Tank Specialist — Complete all Heavy Tank intelligence bulletins
+[ ] Light Vehicles Specialist — Complete all Light Vehicles intelligence bulletins
+[ ] Infantry Specialist — Complete all Infantry intelligence bulletins
+[ ] Theater of War Challenge General — Play 100 Theater of War Challenges
+[ ] Theater of War Scenario General — Play 100 Theater of War Scenarios
+[ ] Theater of War Battle General — Play 100 Theater of War Battles
+[ ] BLITZKRIEG — Deploy 50 Mechanized Assault Groups and 50 Mechanized Grenadier Groups.
+[ ] They're Coming Out of the Woodwork! — Deploy 50 Partisan LMG Squads, 50 Partisan SMG Squads and 50 Partisan Rifle Squads.
+[ ] Spring Rasputitsa - Bombers on Approach — Cleared the way for bombers on Spring Rasputitsa
+[ ] Romani Ite Domum — Condition masquee sur Steam : valide cet objectif avec la route de la zone.
+[ ] Romeo is Dead! — Condition masquee sur Steam : valide cet objectif avec la route de la zone.
+
+
