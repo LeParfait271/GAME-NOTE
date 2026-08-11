@@ -1,260 +1,808 @@
 FINAL FANTASY VIII - REMASTERED
-GUIDE CHRONOLOGIQUE 100 % STEAM - SANS SPOILER
+GUIDE CHRONOLOGIQUE 100 % STEAM - SANS SPOILER NARRATIF
 
-Version de travail : 10 aout 2026
+Version : 11 aout 2026
+Plateforme : Steam / Remastered
+Succes Steam : 34
 
-Ce parcours couvre les 34 succes Steam, les 16 G-Forces, les cartes, les
-Timber Maniacs, les quetes optionnelles et les combats de nettoyage. Il n'y a
-pas de DLC ni de succes en ligne. Les vrais risques sont les G-Forces a
-extraire pendant certains combats, le bateau des SeeD blancs, les cartes et
-la quete du Club de cartes.
+PERIMETRE DE CE GUIDE
 
-OBJECTIF
+Cette fiche est une route complete pour obtenir les 34 succes Steam sans
+reveler les identites, les retournements, les morts ni la fin. Elle indique
+les lieux precis, les fenetres de disponibilite, les extractions de G-Forces,
+les Timber Maniacs, le Club de cartes, les quetes secondaires et le nettoyage
+des compteurs.
+
+Le jeu ne demande pas de collecter toutes les cartes pour Steam. La route
+ci-dessous va cependant assez loin dans Triple Triad pour securiser le Club de
+cartes, la perte controlee d'une carte rare et les ressources utiles.
+
+OBJECTIFS DE FIN DE PARTIE
 
 [ ] 34/34 succes Steam.
-[ ] 16 G-Forces obtenues, dont les extractions missables.
-[ ] 12 Timber Maniacs lus / ramasses.
-[ ] Quete Cards Club terminee avant la fenetre de fin du disque 3.
-[ ] UFO / PuPu, Obel Lake, Doomtrain, Deep Sea Research Center et Omega.
-[ ] 100 puis 1 000 ennemis vaincus, 100 tirages et 9 999 HP.
+[ ] Les 16 G-Forces principales confirmees dans le menu.
+[ ] Les 12 Timber Maniacs recuperes.
+[ ] Le Club de cartes termine.
+[ ] Les quetes Obel Lake, UFO / PuPu et Doomtrain terminees.
+[ ] Bahamut, Eden, Cactuar, Tonberry et le combat Omega termines.
+[ ] 100 et 1 000 ennemis vaincus.
+[ ] 100 tirages sur des ennemis et 100 tirages sur des points de magie.
+[ ] 9 999 HP atteints.
+[ ] Rang SeeD A atteint.
 
-GARDE-FOUS ABSOLUS
+REGLES DE LECTURE
 
-- Avant de quitter une ville ou une base, ouvre les chambres, parle aux PNJ
-  utiles et verifie les objets fixes. Les cartes et Timber Maniacs ne sont
-  pas tous recuperables comme des collectibles ordinaires.
-- Sauvegarde dans un emplacement separe avant chaque boss qui peut contenir
-  une G-Force. Si le bouton Draw n'apparait pas, recharge avant de gagner.
-- Prends la Magic Lamp aupres de Cid avant de quitter la zone de depart et
-  utilise-la pour Diablos des que tu es pret. Ne la vends pas et ne termine
-  pas la sequence suivante sans l'avoir ouverte.
-- Fais le Club de cartes avant la fin du disque 3, avant la derniere grande
-  fenetre de liberte. Le roi peut demander plusieurs retours au dortoir :
-  garde une sauvegarde a l'interieur du Ragnarok quand la zone est ouverte.
-- Le succes Loser demande de perdre une carte rare. Fais une sauvegarde avant
-  cette partie, perds la carte demandee, attends le succes, puis recharge si
-  tu veux conserver ton jeu de cartes.
-- Les noms de lieux et de personnages sont des reperes de route. Aucun nom ne
-  sert a devoiler une identite, une mort, un retournement ou une fin.
+- [MISSABLE] signifie : fais l'action dans la fenetre indiquee ou utilise le
+  rattrapage du chateau final indique plus loin.
+- [A FAIRE] est une action de route. [VERIFIER] signifie qu'il faut regarder
+  le menu, la liste des G-Forces ou la notification Steam avant de continuer.
+- Les compteurs Steam se cumulent sur la partie. Une sauvegarde rechargee
+  apres une notification conserve normalement le succes dans Steam ; garde
+  toujours une sauvegarde principale propre en plus de la sauvegarde de test.
+- Les noms de zones et de boss sont donnes comme reperes de navigation. Ils ne
+  devoilent pas l'intrigue.
 
-PARTIE 1 - DEBUT DU DISQUE 1
+GARDE-FOUS AVANT DE COMMENCER
 
-1. Dollet et le premier examen
+1. Cree trois sauvegardes tournantes : ROUTE, AVANT BOSS et NETTOYAGE. Ne
+   remplace jamais la sauvegarde ROUTE par une sauvegarde d'experimentation.
+2. Dans chaque combat de boss, ouvre le menu Draw avant de frapper. Si une
+   G-Force est presente dans la liste, tire-la et stocke-la avant de terminer.
+3. NORG, Fujin, Edea, Elvoret et Iguions contiennent des extractions a faire
+   dans leur combat. Si tu oublies une extraction, le chateau final offre un
+   rattrapage pour plusieurs d'entre elles, mais la route principale reste
+   plus sure.
+4. Le White SeeD Ship est la vraie urgence des Timber Maniacs. Le bateau ne
+   reste pas visitable comme une ville ordinaire : ramasse le magazine pendant
+   sa visite obligatoire.
+5. Obel Lake doit etre fini avant le disque 4. La quete n'est pas recuperable
+   une fois la derniere phase atteinte.
+6. Le Club de cartes se prepare dans Balamb Garden puis se termine apres la
+   remise en etat du Garden. Termine-le avant la derniere grande sequence du
+   disque 3 ; ne reporte pas la quete a la fin par confort.
+7. Pour Loser, sauvegarde avant de perdre une carte rare, attends la
+   notification, puis recharge si tu veux conserver la carte. La notification
+   est le controle important, pas l'etat de la sauvegarde rechargee.
+8. Ne laisse pas Odin finir les combats a ta place lorsque tu comptes les
+   victoires. Les victoires attribuees a un membre du groupe sont plus faciles
+   a suivre pour 100 Kills et 1000 Kills.
+9. Pour les boosters de confort de la Remastered, utilise-les uniquement
+   pendant le nettoyage. Les rencontres UFO ignore l'absence de rencontres :
+   il faut quand meme parcourir les zones indiquees.
 
-- Obtiens Quezacotl et Shiva dans le menu d'etude avant de partir. Fais
-  Card Player en jouant ta premiere partie de Triple Triad.
-- Prends la Magic Lamp a Cid juste avant le depart, puis utilise-la hors de la
-  zone de progression pour vaincre Diablos. Fais une sauvegarde avant le
-  combat si tu veux apprendre son rythme sans risque.
-- Pendant les premiers combats, tire les sorts depuis les points de tirage et
-  les ennemis. Pour Magic Miner, commence a compter les interactions avec les
-  points de tirage : l'objectif est 100 tirages, pas 100 unites stockees.
-- Pour First Salary, termine la premiere mission SeeD. Pour Top Rank,
-  augmente ton rang avec les rapports, les tests et une progression propre ;
-  ne depense pas de temps a monter les niveaux des personnages uniquement.
+COMPTEURS A LANCER DES LE DEBUT
 
-2. Levee de Timber et preparation des cartes
+MAGIC MINER - 100 TIRAGES SUR DES POINTS
 
-- Tire Siren du boss Elvoret. C'est une extraction missable : ne lance pas
-  l'attaque finale avant d'avoir verifie Siren dans le menu Draw.
-- Continue a jouer aux cartes sans accepter toutes les regles aleatoires si tu
-  ne les maitrises pas. Les cartes servent aux transformations d'objets et au
-  Club de cartes, pas seulement au succes Card Player.
-- Commence 100 Kills naturellement. Les ennemis de la route suffisent ; ne
-  lance pas encore le grind des 1 000 tant que les zones d'entrainement ne
-  sont pas ouvertes.
+- A chaque point de tirage, choisis Draw et tire au moins une fois. Le succes
+  compte l'interaction avec le point, pas le nombre d'unites stockees.
+- Les points reapparaissent dans certaines zones apres un retour. Pour finir
+  rapidement, equipe Move-Find quand tu l'as, puis parcours les points visibles
+  dans les zones de fin et l'Ile la plus proche de l'enfer.
+- Note les zones visitees dans le journal de route. Ne confonds pas un point
+  de tirage avec une magie tiree sur un ennemi.
 
-3. Galbadia Garden
+MAGICIAN - 100 TIRAGES SUR DES ENNEMIS
 
-- Tire Carbuncle des Iguions. Fais une sauvegarde avant l'affrontement et
-  verifie les deux personnages qui peuvent recevoir la commande Draw.
-- Tire Cerberus dans le combat optionnel de Galbadia Garden. Si tu oublies le
-  combat, une sauvegarde de la zone permet de le refaire avant de quitter.
-- Termine les missions du disque 1, garde les rapports SeeD et commence la
-  route des Timber Maniacs indiquee ci-dessous.
+- Dans un combat, utilise Draw puis Stock sur un ennemi. Une action de tirage
+  valide compte ; lancer la magie depuis le stock ne compte pas.
+- Fais-le sur les premiers monstres, meme si tu ne veux pas garder toutes les
+  magies. Le compteur se termine naturellement avec une route complete.
 
-TIMBER MANIACS - PREMIERE MOITIE
+100 KILLS ET 1000 KILLS
 
-Ramasse chaque numero quand la zone est accessible ; l'ordre exact des deux
-emplacements de Balamb depend de la partie, car un seul des deux exemplaires
-peut apparaitre.
+- Ne fuis pas tous les combats sur les trajets obligatoires. Le premier palier
+  arrive souvent pendant le disque 2.
+- Apres Ragnarok, l'Ile la plus proche de l'enfer est la zone de nettoyage la
+  plus pratique. Les groupes y sont nombreux et Quistis peut utiliser
+  Degenerator si tu as obtenu un Black Hole.
+- Autre option sure en fin de partie : la foret accessible depuis le premier
+  portail avant le chateau final. Les combats y forment souvent des groupes
+  de trois ennemis.
 
-- Balamb : hotel ou gare, un seul des deux emplacements.
-- Timber : bureau de Timber Maniacs.
-- Timber : hotel.
-- Dollet : hotel.
-- Dollet : pub.
-- Deling City : hotel.
+ROUTE CHRONOLOGIQUE
 
-Note chaque numero dans une liste personnelle. Le succes Timber Maniacs tombe
-apres le douzieme ; ne te fie pas a une liste web qui melange les magazines
-avec les livres de lore.
+PARTIE 0 - BALAMB GARDEN, AVANT LA PREMIERE MISSION
 
-PARTIE 2 - FIN DU DISQUE 1 ET DISQUE 2
+1. Menu d'etude et deux premieres G-Forces
 
-1. Tombeau du roi inconnu
+- Apres le cours, retourne au bureau ou tu etais assis et ouvre le terminal.
+  Choisis Tutorials dans le menu d'etude.
+- Recupere Quezacotl et Shiva avant de parler a Quistis pour partir.
+- Ouvre le menu G-Force et verifie les deux noms. Equipe Draw sur au moins un
+  personnage ; le meilleur confort est de l'equiper sur chaque membre actif.
+- Active les capacites d'apprentissage utiles : HP-J, Mag-J, Draw et Item.
+  Ne depense pas les objets rares avant d'avoir compris les commandes.
 
-- Recupere Brothers dans le Tomb of the Unknown King. Fais le parcours des
-  deux freres, puis verifie la G-Force dans le menu avant de sortir.
-- Mets a jour les jonctions et les capacites de combat. Le succes 100 Kills
-  tombera en explorant si tu ne fuis pas tous les combats.
+2. Centre d'entrainement
 
-2. NORG et les missions du jardin
+- Explore le chemin normalement et tire la magie des points rencontres.
+- Garde les premiers combats pour lancer les compteurs. Ne cherche pas a
+  monter les niveaux : dans FFVIII, les jonctions comptent davantage que le
+  niveau brut.
+- Fais une sauvegarde avant de quitter la zone.
 
-- Tire Leviathan de NORG apres avoir expose son corps. C'est la derniere
-  chance de l'obtenir dans cette scene : Draw doit apparaitre avant la
-  victoire.
-- Tire Pandemona de Fujin dans l'hotel de Balamb. Fais la verification avant
-  d'achever le combat.
-- Complete les visites de ville, les quetes de cartes et les combats de
-  tutoriel. Pour Handyman, fabrique / utilise les objets demandes par les
-  capacites des G-Forces plutot que de vendre toutes les ressources.
+PARTIE 1 - DISQUE 1 : FIRE CAVERN ET DOLLET
 
-3. Prison et bataille de Garden
+1. Fire Cavern - Ifrit
 
-- Les G-Forces obtenues precedemment doivent etre equipees sur les membres
-  actifs. Utilise les limites et jonctions pour les combats de scenario.
-- Pour Maximum HP, approche 9 999 HP avec HP-J et une jonction de magie HP.
-  Le succes se valide a l'affichage du maximum, pas seulement avec une barre
-  presque pleine.
-- Continue 1000 Kills uniquement si tu as deja une zone rapide et un niveau
-  de jonction stable. Sinon reporte au nettoyage des iles.
+- Entre dans la Fire Cavern avec Draw equipe et quelques soins.
+- Le temps choisi a l'entree change uniquement la pression de la sortie. Pour
+  une premiere route propre, choisis une duree confortable.
+- Termine la zone, bats Ifrit et attends l'ecran de resultat.
+- [VERIFIER] Ifrit est ajoute automatiquement comme recompense de combat.
 
-4. Centra Ruins
+2. Retour au Garden et examen SeeD
 
-- Termine la quete de la tour en allant jusqu'au roi. Vaincs-le pour Tonberry.
-  Les combats repetes de la zone alimentent aussi 100 Kills.
-- Laisse une sauvegarde avant la derniere salle ; c'est une zone a timer et
-  une tentative calme vaut mieux qu'une course non preparee.
+- Change-toi dans la chambre, equipe les G-Forces et pars pour la mission.
+- Pendant le trajet, conserve les points de tirage et continue Magician.
+- Le premier examen influence le rang, les gil et la progression SeeD. Evite
+  les discussions inutiles avec les soldats, ne quitte pas le groupe et
+  accomplis les objectifs de la mission avant de revenir.
 
-TIMBER MANIACS - FIN DE LA LISTE
+3. Dollet - tour des communications
 
-- Fishermans Horizon : hotel.
-- Fishermans Horizon : maison du Grease Monkey.
-- Shumi Village : maison de l'artisan.
-- Trabia Garden : cimetiere.
-- Edea's House.
-- White SeeD Ship : pont.
+- Avant l'affrontement final de la mission, verifie Draw sur le personnage
+  actif.
+- Elvoret possede Siren. Tire Siren des que la commande apparait, puis
+  controle la ligne de stock avant d'achever le combat.
+- [MISSABLE] Ne laisse pas Elvoret tomber avant d'avoir vu Siren dans Draw.
+- Termine l'examen, puis retourne a Balamb.
 
-Le numero du bateau des SeeD blancs est le plus facile a oublier : fais-le
-pendant la courte fenetre ou le bateau est accessible, avant le nettoyage des
-iles. Si tu n'as pas le 12e magazine, ne lance pas le dernier trajet avant de
-verifier ce point.
+4. Balamb Garden apres l'examen
 
-PARTIE 3 - DISQUE 2, CARTES ET G-FORCES RESTANTES
+- Le premier salaire SeeD arrive pendant le retour vers la chambre et valide
+  First Salary. Si la notification n'apparait pas, marche dans le Garden et
+  laisse la sequence de paiement se terminer avant de repartir.
+- Apres la remise de la premiere mission, parle une seconde fois a Cid. Il
+  donne la Magic Lamp.
+- Sauvegarde, ouvre la Magic Lamp depuis le menu Objets et bats Diablos.
+  L'objet ne lance pas un combat de scenario : utilise-le volontairement.
+- [VERIFIER] Diablos est dans la liste des G-Forces avant de continuer.
 
-1. Club de cartes
+5. Premiere arme et premier jeu de cartes
 
-- Commence la quete dans Balamb Garden en battant les membres du groupe un a
-  un : Jack, Club, Diamond puis Spade, dans l'ordre qui t'est propose par la
-  zone. La membre Heart et le roi se valident apres les duels precedents.
-- Gagne contre les membres, retourne au dortoir si necessaire et bats le roi
-  quand l'option apparait. Fais Cards Club Master avant la fin du disque 3.
-- Garde les cartes rares pour la quete. Si une regle aleatoire se propage,
-  recharge la sauvegarde avant la partie plutot que de la laisser contaminer
-  toutes les regions.
+- Va a un Junk Shop des que tu as une arme et les materiaux demandes par le
+  menu. Choisis Remodel sur une arme disponible : une seule amelioration
+  suffit pour Handyman.
+- Joue une partie de Triple Triad avec un PNJ. La victoire n'est pas requise
+  pour Card Player : le succes demande simplement d'avoir joue.
+- Pour Loser, sauvegarde avant une partie contre un adversaire dont la table
+  accepte une carte rare. Joue une carte rare que tu peux perdre, perds-la,
+  attends la notification, puis recharge ROUTE si tu veux la recuperer.
 
-2. Deep Sea Research Center
+6. Timber Maniacs de Balamb
 
-- Explore le centre avec une sauvegarde separee et un stock de soins.
-- Resous la sequence de lumiere et obtiens Bahamut.
-- Continue jusqu'a Ultima Weapon et tire Eden avant la victoire. Ce sont deux
-  G-Forces distinctes : verifie les deux menus Draw / G-Force apres les
-  combats.
-- N'efface pas la sauvegarde de la zone avant d'avoir confirme Bahamut et Eden.
+- A Balamb, ramasse le Timber Maniacs dans la chambre de l'hotel OU celui de
+  la gare. Un seul des deux emplacements compte pour cette partie.
+- Ne cherche pas un second exemplaire s'il n'apparait pas : c'est normal.
+- [VERIFIER] Note Balamb dans le tableau de suivi des 12 magazines plus bas.
 
-3. Cactuar
+PARTIE 2 - DISQUE 1 : TIMBER, DOLLET ET LE TOMBEAU
 
-- Rejoins l'ile de Cactuar et bats Jumbo Cactuar. Cactuar rejoint l'equipe
-  apres le combat ; pense a le junctionner une fois pour faire tomber le
-  succes.
-- Complete Ragnarok, puis debloque les zones de fin sans lancer la derniere
-  sequence. Le succes Ragnarok se valide simplement en montant a bord de
-  l'aeronef.
+1. Timber - les deux exemplaires
 
-PARTIE 4 - DOOMTRAIN, UFO ET OBEL LAKE
+- Dans le batiment Timber Maniacs, entre dans l'arriere-salle de la newsroom
+  et ramasse le magazine.
+- Apres la scene de la station, visite l'hotel de Timber. Le Timber Maniacs
+  est dans la chambre ; si la porte est temporairement bloquee, reviens juste
+  apres le trajet en train indique par la progression.
+- Ne confonds pas les livres de la bibliotheque avec les magazines de cette
+  liste.
 
-1. Doomtrain
+2. Dollet - chambre et pub
 
-- Recupere Solomon Ring.
-- Reunis 6 Marlboro Tentacles, 6 Remedy+ et 6 Steel Pipes. Les cartes, les
-  ennemis et les capacites de transformation peuvent fournir ces ressources.
-- Utilise Solomon Ring dans l'inventaire quand les trois piles de six sont
-  pretes. Doomtrain rejoint alors la liste des G-Forces.
+- Reviens a Dollet par la route cotiere apres avoir obtenu l'acces aux trajets.
+- A l'hotel, monte dans la chambre d'ami et ramasse le Timber Maniacs.
+- Dans le pub, monte a l'etage et ramasse le second Timber Maniacs.
+- Ces deux emplacements sont independants de celui de Balamb.
 
-2. UFO et PuPu
+3. Tombeau du roi inconnu - Brothers
 
-- Observe les quatre apparitions de l'UFO dans les zones indiquees par les
-  indices du monde : Winhill, Mandy Beach pres de Timber, Kashkabald Desert et
-  la peninsule pres de Trabia.
-- Apres les quatre rencontres, rends-toi dans la foret de Grandidi et
-  affronte l'UFO. Pour la derniere etape, garde cinq Elixirs et choisis
-  l'option de don demandee a PuPu. Le succes UFO tombe quand la chaine est
-  terminee.
-- Fais une sauvegarde avant la derniere rencontre : une attaque accidentelle
-  peut supprimer la possibilite de donner les objets.
+- Le tombeau se trouve au nord-est de Deling City.
+- A l'interieur, fais les trois mecanismes avant de prendre la sortie :
+  parcours est pour le premier combat, nord pour le mecanisme d'eau, puis
+  ouest pour le pont et les engrenages.
+- A chaque carrefour a quatre directions, prendre la droite permet de suivre
+  le circuit est -> nord -> ouest -> sud sans se perdre.
+- Reviens ensuite au centre du tombeau et termine l'affrontement final.
+- Brothers est obtenu comme recompense. [VERIFIER] Controle le menu G-Force.
 
-3. Obel Lake Secret
+4. Deling City
 
-- Interagis avec l'ombre du lac et suis ses indications de paysages et d'objets.
-- Termine la boucle de recherche jusqu'a obtenir l'objet final du secret. La
-  quete n'est pas liee a un succes de fin de jeu, mais elle est incluse dans
-  ce parcours de 100 %.
+- Avant de quitter Deling City, visite l'hotel et ouvre la chambre. Le Timber
+  Maniacs est sous le lit / pres du couchage selon l'angle de la camera.
+- Fais une sauvegarde avant la sequence de la parade et equipe Draw sur les
+  membres qui y participeront.
+- Pendant l'affrontement Iguions, tire Carbuncle avant la victoire.
+- [MISSABLE] Verifie Carbuncle immediatement dans Draw puis dans le menu
+  G-Force. Ne te contente pas de voir un sort de soin dans la liste.
 
-PARTIE 5 - DISQUE 3 ET FIN
+5. Timber Maniacs - controle de fin du disque 1
 
-- Recupere Ragnarok et termine le Club de cartes avant le point de non-retour
-  de la progression finale. Si le roi n'est pas encore valide, ne lance pas
-  la derniere sequence.
-- Fais les derniers combats de scenario, puis sauvegarde avant le donjon
-  final. Verifie : Siren, Carbuncle, Leviathan, Pandemona, Cerberus,
-  Alexander, Doomtrain, Bahamut, Eden, Tonberry et Cactuar.
-- Tire Alexander d'Edea pendant le combat correspondant. C'est l'extraction
-  missable la plus souvent oubliee avec Siren et Pandemona.
-- Termine les 16 G-Forces, puis End of Game. Le succes de fin ne demande pas
-  de raconter l'issue : laisse simplement le jeu afficher le resultat.
+Le tableau complet est plus bas. A ce stade, les cases attendues sont :
+Balamb, Timber newsroom, Timber hotel, Dollet chambre, Dollet pub et Deling
+City hotel. Si une case manque, corrige-la avant de pousser la progression.
 
-NETTOYAGE COMBAT ET STATS
+PARTIE 3 - DISQUE 2 : NORG, BALAMB GARDEN ET LE CLUB DE CARTES
 
-- 100 Kills : 100 ennemis vaincus, normalement acquis avant la fin du disque 2.
-- 1000 Kills : utilise une zone a rencontres rapides, une jonction de vitesse
-  et les multiplicateurs de combat si tu veux finir sans fatigue.
-- Maximum HP : place une magie HP de haut niveau sur HP-J jusqu'a atteindre
-  9 999. Une commande de soin ne suffit pas.
-- Omega Destroyed : fais une sauvegarde avant le combat optionnel final,
-  equipe les personnages rapides, stocke les limites et utilise les objets de
-  protection. Le succes tombe apres la victoire ; ne detaille pas la scene.
-- Top Rank : si le rang SeeD reste trop bas, reprends les tests du menu et
-  termine les missions avec des rapports propres. Ne monte pas les niveaux
-  pour compenser un rang de rapport.
+1. NORG - Leviathan
 
-LISTE OFFICIELLE DES 34 SUCCES - CHECK FINAL
+- Avant le combat, cree une sauvegarde AVANT BOSS et equipe Draw.
+- Endommage le pod jusqu'a ce que son occupant soit visible. La commande Draw
+  de Leviathan apparait seulement a ce moment.
+- Tire Leviathan, stocke quelques exemplaires de sa magie si necessaire, puis
+  termine le combat.
+- [MISSABLE] Ne detruis pas le pod sans verifier la liste Draw. Le chateau
+  final peut fournir Leviathan plus tard, mais cette verification evite un
+  retour inutile.
 
-[ ] Quezacotl  [ ] Shiva  [ ] Ifrit  [ ] Card Player  [ ] First Salary
-[ ] Siren  [ ] Magician  [ ] 100 Kills  [ ] Diablos  [ ] Loser
-[ ] Handyman  [ ] Brothers  [ ] Carbuncle  [ ] Leviathan  [ ] Pandemona
-[ ] Cerberus  [ ] Alexander  [ ] Ragnarok  [ ] Tonberry  [ ] Cactuar
-[ ] Maximum HP  [ ] Chocobo  [ ] Bahamut  [ ] Eden  [ ] Doomtrain
-[ ] End of Game  [ ] Cards Club Master  [ ] Top Rank  [ ] Magic Miner
-[ ] 1000 Kills  [ ] UFO  [ ] Omega Destroyed  [ ] Obel Lake Secret
+2. Preparation du Club de cartes
+
+- Dans Balamb Garden, gagne 15 parties de Triple Triad dans la zone du hall
+  principal / directory. Les parties de la cafeteria, de la bibliotheque et
+  de la salle de classe du 2e etage ne comptent pas pour le prealable.
+- Sauvegarde apres la quinzieme victoire.
+- Bats les membres dans cet ordre strict : Jack, Joker, Club, Diamond Duo,
+  puis Spade. Si un membre n'apparait pas, change d'ecran et reviens ; ne
+  change pas l'ordre pour forcer un combat.
+
+3. Emplacements du premier groupe CC
+
+- Jack : hall principal de Balamb Garden.
+- Joker : centre d'entrainement, chemin de droite vers les quais. S'il n'est
+  pas present, change d'ecran puis reviens aux quais.
+- Club : couloir situe sous le dortoir. Fais des allees-retours autour du
+  dortoir jusqu'a son apparition.
+- Diamond Duo : sous le directory, a proximite du dortoir.
+- Spade : 2e etage, apres la resolution de NORG. Challenge le membre de
+  droite lorsque les deux hommes sont visibles.
+- Chaque victoire doit etre validee avant de chercher le suivant.
+
+4. Fishermans Horizon
+
+- A l'hotel, monte au 2e etage et ramasse le Timber Maniacs.
+- Suis les rails vers le nord jusqu'au cul-de-sac. Entre dans la maison du
+  Grease Monkey et ramasse le Timber Maniacs au sol.
+- Ces deux exemplaires sont les deux magazines de Fishermans Horizon.
+
+5. Coeur et Roi du Club de cartes
+
+- Quand le Garden est repare, va au pont et challenge Xu. Elle represente
+  Heart. Gagne la partie.
+- Va a l'infirmerie et tente de challenger Dr Kadowaki. Elle donne la piste
+  de la derniere membre.
+- Sauvegarde dans le dortoir. Si tu es dans un groupe, choisis l'option
+  demandant de rester seul, puis examine le lit une seconde fois et repose-toi.
+- La Roi apparait dans la sequence du dortoir. Gagne la partie.
+- En cas de nul ou de defaite, elle peut etre reaffrontee sur le pont.
+- [VERIFIER] Cards Club Master tombe apres la victoire contre la Roi, pas apres
+  la premiere serie de cinq membres.
+
+6. Shumi Village
+
+- Visite Shumi Village apres avoir acces a la route libre du Garden. Descends
+  par l'ascenseur, va vers le bassin, puis entre dans la maison de l'Artisan.
+- Ramasse le Timber Maniacs dans la maison.
+- Pour une route stable, fais cette visite apres le passage a Trabia Garden,
+  meme si le village est accessible plus tot. Cela evite les vieux problemes
+  de synchronisation des sequences de Laguna signales par certains guides.
+
+PARTIE 4 - DISQUE 2 : GARDEN, CENTRA RUINS ET CHOCOBO
+
+1. Galbadia Garden - Cerberus
+
+- Pendant la visite de Galbadia Garden, sauvegarde avant la grande salle
+  centrale.
+- Interagis avec Cerberus, accepte le combat et bats-le. La G-Force est une
+  recompense de victoire, pas une extraction Draw.
+- [MISSABLE DE ROUTE] Ne quitte pas le Garden sans avoir touche Cerberus. En
+  cas d'oubli, Cerberus pourra etre tire dans le chateau final.
+
+2. Fin de la sequence Edea - Alexander
+
+- Avant la salle d'audience, equipe Draw sur un personnage qui peut agir.
+- Dans le combat contre Edea, termine d'abord la partie du combat demandee par
+  la route, puis ouvre Draw sur Edea et tire Alexander.
+- [MISSABLE] Alexander n'est pas une recompense automatique : controle la
+  presence de la G-Force avant de porter le coup final.
+
+3. Trabia Garden
+
+- Explore le cimetiere a droite de l'entree et ramasse le Timber Maniacs.
+- Termine les dialogues et les objectifs de la zone avant de repartir. Les
+  objets decoratifs et les livres ne remplacent pas le magazine.
+
+4. Centra Ruins - Odin puis Tonberry
+
+- Fais une sauvegarde a l'exterieur. Le compteur de la zone est actif tant que
+  tu n'as pas termine le mecanisme principal.
+- Entre, monte par les escaliers et utilise l'ascenseur. Active le panneau de
+  commande sur la partie gauche.
+- Descends jusqu'a l'autel et active l'orbe bleue. Prends l'escalier apparu
+  sur la droite.
+- Monte par l'echelle, examine la statue et prends son oeil gauche.
+- Passe a la statue superieure, place l'oeil et note le code genere pour ta
+  partie. Reprends les deux yeux, retourne a la premiere statue, place-les et
+  saisis le code de haut en bas. Appuie sur Annuler pour confirmer le code.
+- Le combat dans la salle ouverte donne Odin, la carte Odin et supprime la
+  pression du minuteur dans le reste des Ruins. Odin est un renfort optionnel,
+  pas l'une des 16 G-Forces du succes.
+- Pour Tonberry, vaincs environ 20 Tonberries ordinaires dans la zone. Compte
+  les victoires et arrete-toi quand Tonberry King apparait.
+- Bats Tonberry King : Tonberry est obtenu comme recompense de combat.
+- [VERIFIER] Le menu G-Force doit afficher Tonberry, meme si Odin est traite
+  separement.
+
+5. Premiers Chocobos
+
+- Dans la Beginner's Forest, pres de Shumi Village, parle a Chocoboy et achete
+  le ChocoWhis pour 1 000 gil si c'est ta premiere foret.
+- Utilise ChocoSonar pour localiser les points et ChocoZiner pour faire tomber
+  les Chicobos. Dans cette premiere foret, vise la zone ou un seul oiseau
+  tombe ; parle-lui pour faire venir la mere, puis choisis de la monter.
+- [VERIFIER] La notification Chocobo tombe quand tu as capture / monte un
+  Chocobo, pas quand tu as seulement parle a Chocoboy.
+
+6. Les six forets Chocobo - route complete vers le Sanctuaire
+
+La cinquieme rencontre UFO exige l'acces au Chocobo Sanctuary. Il faut donc
+resoudre les six forets et recuperer le tresor de chacune ; une simple location
+payee a Chocoboy ne valide pas la reunion.
+
+- Beginner's Forest : Winter Island, a cote de Shumi Village. Fais tomber le
+  Chicobo isole, puis utilise ChocoZiner a l'arriere-droit pour le tresor.
+- Basics Forest : Sorbald Snowfield, au sud de Shumi Village. La solution
+  demande deux coups de sifflet ; laisse un seul Chicobo dans la partie basse
+  gauche, puis cherche le tresor sur la gauche.
+- Roaming Forest : au nord de Trabia Garden, autour du massif de Bika
+  Snowfield. Suis les reactions du Sonar et ne fais venir que l'oiseau qui
+  correspond au point actif ; le tresor apparait une fois la mere presente.
+- Forest of Fun : a l'est de la maison d'Edea, dans les Lenown Plains. Suis
+  l'indice bowling : quatre bouteilles puis une boule. Active les points de
+  droite vers la gauche (D vers A) pour ne laisser qu'un Chicobo ; utilise
+  ensuite ChocoZiner a droite pour les trois pierres du tresor.
+- Forest of Solitude : Nectar Peninsula, au sud de Fishermans Horizon. Le
+  point de Sonar est tres precis : avance par petites touches jusqu'au signal
+  maximal. Pour le tresor, demande a Chocoboy de jouer puis choisis de le faire
+  bouger ; le point cache est la ou il se tenait.
+- Enclosed Forest : Talle Mountains, au sud d'Esthar. Collecte d'abord les
+  reactions exterieures, puis celles de l'interieur, conformement a l'indice
+  de Chocoboy. Quand la mere est la, suis le Sonar jusqu'au tresor.
+- Dans chaque foret, ne quitte pas apres l'arrivee de la mere : utilise
+  ChocoZiner une derniere fois pour deterrer le tresor. C'est cette etape qui
+  marque la foret comme resolue.
+- Apres les six tresors, retourne a Roaming Forest, monte le Chocobo, traverse
+  l'eau peu profonde a l'est puis entre dans Grandidi Forest. Le Chocobo
+  Sanctuary est la foret circulaire sur les hauteurs du nord-est.
+- Entre a cheval dans le Sanctuaire, assiste a la reunion, puis parle au
+  Chicobo restant pour obtenir la carte Chicobo. Le succes Chocobo est deja
+  acquis depuis la premiere capture ; ce passage sert aussi au UFO.
+
+PARTIE 5 - DISQUE 3 : MAGAZINES, RAGNAROK ET NETTOYAGE DU MONDE
+
+1. Edea's House
+
+- A l'entree de la maison d'Edea, ramasse le Timber Maniacs pose au sol a
+  droite de la porte.
+- Fais une sauvegarde avant de prendre la route vers le bateau des SeeD
+  blancs.
+
+2. White SeeD Ship - dernier magazine a risque
+
+- Le bateau se trouve dans une crique de la partie sud du continent de Centra,
+  entre les montagnes et la mer.
+- Entre, laisse la scene d'accueil se terminer, puis, quand tu recuperes le
+  controle, prends l'escalier situe a gauche. Le Timber Maniacs est au sol.
+- [MISSABLE] Ramasse-le avant de quitter le bateau. C'est le seul magazine
+  dont la fenetre de visite est vraiment facile a perdre.
+- [VERIFIER] Si le succes Timber Maniacs n'apparait pas, compare le tableau
+  des 12 emplacements au lieu de compter les livres de lore.
+
+3. Ragnarok
+
+- Suis la progression jusqu'a l'acces a Ragnarok. Explore l'interieur et
+  monte a bord quand le jeu te le permet.
+- [VERIFIER] Ragnarok se valide au premier acces / embarquement. L'aeronef
+  devient ensuite le point de depart de toutes les quetes de nettoyage.
+
+4. Cactuar Island
+
+- Depuis Ragnarok, vole vers la petite ile du continent d'Esthar. Le Jumbo
+  Cactuar apparait sur l'ile comme une silhouette mobile.
+- Touche-le pour lancer le combat. Garde une equipe rapide, soigne entre les
+  tours et bats-le sans le laisser fuir.
+- Cactuar est obtenu comme recompense de victoire.
+
+5. Doomtrain
+
+- A Tears' Point, ramasse le Solomon Ring au pied de la grande statue.
+- Reunis 6 Steel Pipes : vole-les aux Wendigos avec Mug dans la foret pres de
+  Dollet, ou transforme des cartes Elastoid.
+- Reunis 6 Malboro Tentacles : vole-les / obtiens-les sur des Malboros, ou
+  transforme 24 cartes Malboro a raison de 4 cartes pour 1 tentacule.
+- Reunis 6 Remedy+. Achète au moins 60 Remedies, fais apprendre Med Data puis
+  Med Lv Up a Alexander et transforme les Remedies en Remedy+.
+- Quand les trois piles sont pretes, ouvre le menu Objets et utilise Solomon
+  Ring. Doomtrain est alors ajoute ; il ne faut pas seulement garder l'anneau
+  dans l'inventaire.
+
+6. Ile la plus proche de l'enfer - compteurs et preparation
+
+- Equipe Enc-None si tu veux seulement les points et les combats choisis.
+- Equipe Move-Find sur un personnage pour afficher les points caches.
+- Parcours l'ile en appuyant sur la touche d'action a chaque reaction. Tire
+  les points jusqu'a Magic Miner. Si le succes ne tombe pas, fais un second
+  tour complet : les points se rechargent selon la zone et la progression.
+- Continue les combats jusqu'a 1 000 Kills si le compteur n'est pas encore
+  termine. Utilise Degenerator de Quistis pour une route rapide si disponible.
+- Pour Maximum HP, equipe HP-J, place une magie de HP forte et active HP+40 % /
+  HP+80 % sur un personnage. Le succes se valide a l'affichage de 9 999 HP.
+
+7. UFO et PuPu - route exacte
+
+Prepare avant la cinquieme rencontre : au moins 5 Elixirs dans l'inventaire et
+la commande Item equipee sur un membre actif.
+
+- Rencontre 1 : Mandy Beach, sur la cote a l'est de Timber. Parcours le bord
+  de mer jusqu'a l'apparition.
+- Rencontre 2 : Kashkabald Desert, le grand desert a l'est du continent de
+  Centra, au sud d'Esthar.
+- Rencontre 3 : Winhill Bluffs, dans les champs a l'est de Winhill.
+- Rencontre 4 : Heath Peninsula, a l'est de Trabia Garden. Va jusqu'a la
+  petite ile degagee et parcours-la.
+- Rencontre 5 : Chocobo Sanctuary. Vole au-dessus du sanctuaire et atterris
+  sur les hauteurs / le plateau au nord-est. Parcours le plateau : l'UFO est
+  cette fois un combat.
+- Bats l'UFO. Tu obtiens un Aegis Amulet, qui apprend Eva-J a une G-Force.
+- Retourne a Balamb, a l'endroit du cratere ou se trouvait autrefois le
+  Garden. Parcours le bord du cratere jusqu'a la rencontre avec PuPu.
+- Utilise Item et donne exactement 5 Elixirs. Ne frappe pas PuPu et ne pars
+  pas avant le don.
+- [VERIFIER] UFO apparait apres le don des cinq Elixirs. La carte PuPu est une
+  recompense supplementaire de la quete.
+
+8. Obel Lake Secret - solution integrale
+
+Fais cette quete avant le disque 4. Les noms de lieux ci-dessous servent de
+coordonnees et ne revelent aucun element de l'histoire.
+
+- Obel Lake se trouve entre Timber et East Academy. Va sur la pointe de la
+  petite presqu'ile du lac et choisis Try humming jusqu'a faire apparaitre
+  l'ombre. Interroge-la puis accepte de chercher Mr. Monkey.
+- Va dans la foret la plus proche de Dollet. Parcours-la avec la touche
+  d'action jusqu'a Mr. Monkey et choisis Throw a rock.
+- Retourne a Obel Lake, fais apparaitre l'ombre et parle-lui. Lance des pierres
+  jusqu'a obtenir la phrase indiquant que la pierre a saute de nombreuses
+  fois. Continue le dialogue jusqu'a ce qu'elle repete ses indices.
+- Indice 1 : retourne dans la foret de Dollet et lance des pierres a Mr.
+  Monkey jusqu'a ce qu'il renvoie une pierre gravee U R H A E O.
+- Indice 2 : va sur la voie ferree reliee a Fishermans Horizon, puis vers
+  l'ouest jusqu'a la petite presqu'ile au nord du raccord. La pierre gravee
+  indique R E A I D R.
+- Indice 3 : sur le Monterosa Plateau, entre Galbadia Garden et la prison du
+  district D, atterris au sommet de la falaise pres de la cascade. Examine le
+  nid ; termine le combat qui se declenche pour recuperer E A S N P D.
+- Indice 4 : sur la plage de Balamb, parcours le rivage avec la touche
+  d'action jusqu'a trouver la pierre gravee S T S L R M.
+- Pour les trois etoiles, va dans les Mordred Plains au nord d'Esthar. Les
+  roches bleues expliquent le mensonge, les blanches donnent des directions
+  aleatoires, les noires repetent, et les rouges indiquent l'inverse. Quand une
+  roche rouge dit est, cherche ouest ; quand elle dit nord, cherche sud, etc.
+  Examine la case opposee jusqu'a recevoir Three Stars.
+- Retourne a Obel Lake. L'ombre donne l'indice Eldbeak Peninsula. Examine la
+  pointe de la presqu'ile au sud-ouest du continent de Trabia. Le texte grave
+  se lit en retirant les mots TIME et OFF : il indique Minde Isle.
+- Va a Minde Isle, petite ile au sud-ouest d'Esthar. Examine l'interieur de
+  l'ile, pas ses bords, jusqu'a obtenir Luck-J.
+- [VERIFIER] Obel Lake Secret tombe a la recompense finale de Minde Isle.
+
+PARTIE 6 - DEEP SEA RESEARCH CENTER : BAHAMUT ET EDEN
+
+1. Acces
+
+- Le Deep Sea Research Center se trouve au sud-ouest de la carte. Il faut
+  Ragnarok pour atterrir et entrer.
+- Sauvegarde devant le laboratoire. Les ennemis de la zone peuvent avoir un
+  niveau eleve ; equipe les jonctions defensives, Shell, Stop et une protection
+  contre la foudre / le vent si tes stocks le permettent.
+
+2. Bahamut
+
+- Avance vers le coeur uniquement quand la lumiere est eteinte. Quand le coeur
+  devient actif, arrete-toi : chaque pas inutile peut declencher un combat.
+- A la sequence de questions, choisis dans l'ordre :
+  1. It's not our will to fight.
+  2. Never.
+  3. La reponse cachee tout en bas de la liste.
+- Pendant le combat, Blind et Slow facilitent la stabilite. Tire Full-Life et
+  les magies utiles avant d'attaquer si tes jonctions en ont besoin.
+- Bahamut est obtenu apres la victoire.
+- [VERIFIER] Attends l'ecran de nommage puis confirme Bahamut dans le menu.
+
+3. Eden - deux routes valides
+
+Route complete conseillee :
+
+- Quitte le centre, puis reviens. Le coeur et l'acces a la descente sont alors
+  ouverts.
+- Mets Zell dans le groupe. Depuis la salle de depart, depense les unites de
+  vapeur ainsi : 4 au premier panneau, 2 au deuxieme, puis 1 aux trois
+  niveaux suivants. A l'etage inferieur, laisse Zell ouvrir le passage sans
+  depenser les unites restantes.
+- Fais une sauvegarde au point de sauvegarde en bas. Equipe Draw et Move-Find,
+  puis utilise les 10 unites restantes sur le terminal pour atteindre le
+  combat final.
+- Avant de vaincre Ultima Weapon, tire Eden. C'est l'occasion la plus propre
+  d'obtenir la G-Force et de terminer la zone avec les objets de recompense.
+
+Route de secours :
+
+- Si Ultima Weapon est trop difficile ou si Eden a ete oublie, Eden peut etre
+  tire sur Tiamat dans le chateau final. Le succes reste recuperable.
+- Eden est une extraction : ouvre Draw avant le dernier coup et verifie la
+  ligne Eden dans la liste.
+
+PARTIE 7 - PREPARATION FINALE ET CHATEAU
+
+1. Dernier passage du monde
+
+Avant de lancer la derniere sequence, controle ces points :
+
+- Les 12 Timber Maniacs du tableau sont coches.
+- Cards Club Master est obtenu.
+- Obel Lake Secret et UFO sont obtenus.
+- Doomtrain, Bahamut, Cactuar et Tonberry sont dans le menu.
+- Le compteur de magie, les kills et les HP sont finis ou planifies dans le
+  nettoyage ci-dessous.
+- La sauvegarde ROUTE est separee d'une sauvegarde AVANT CHATEAU.
+
+2. Rattrapage des G-Forces dans Ultimecia Castle
+
+Le premier gardien vaincu permet de liberer la commande Draw. Les combats
+suivants servent de filet de securite :
+
+- Tri-Point : Siren.
+- Trauma : Leviathan.
+- Red Giant : Pandemona.
+- Krysta : Carbuncle.
+- Gargantua : Cerberus.
+- Catoblepas : Alexander.
+- Tiamat : Eden.
+
+Tire la G-Force au debut du combat associe, puis valide-la dans le menu avant
+de continuer. Ce rattrapage ne remplace pas les sauvegardes anti-ratés : il
+permet simplement de terminer une partie sans recommencer tout le jeu.
+
+3. Omega Weapon
+
+- Termine les gardiens du chateau et garde une sauvegarde AVANT OMEGA.
+- Place l'equipe qui combattra Omega pres de la fontaine.
+- Passe a l'autre equipe, va dans la salle juste avant la galerie de tableaux
+  et tire la corde de la cloche. Un court minuteur commence.
+- Reviens a la premiere equipe et cours vers la chapelle. Le combat Omega est
+  alors disponible.
+- Prepare Auto-Haste, Auto-Shell, Auto-Protect, une bonne vitesse, Meltdown
+  ou Doomtrain pour Vit 0 et des limites avec Aura. Les objets Holy War / Hero
+  et les Aura Stones sont des solutions de confort si tu les possedes.
+- Bats Omega Weapon. [VERIFIER] Omega Destroyed est attribue apres la victoire.
+
+4. Fin du jeu
+
+- Avant le dernier enchainement, sauvegarde si le jeu le permet et verifie les
+  G-Forces restantes dans Draw.
+- Termine le dernier combat et laisse les resultats s'afficher.
+- [VERIFIER] End of Game apparait apres la fin du jeu. Aucun detail de la fin
+  n'est decrit ici.
+
+SUIVI DES 12 TIMBER MANIACS
+
+Il existe 12 magazines comptant pour le succes. L'entree de rapport automatique
+des Centra Ruins n'est pas un treizieme magazine a ramasser.
+
+[ ] 01 - Balamb : hotel OU gare, un seul des deux.
+[ ] 02 - Timber : arriere-salle du batiment Timber Maniacs / newsroom.
+[ ] 03 - Timber : chambre de l'hotel.
+[ ] 04 - Dollet : chambre d'ami de l'hotel.
+[ ] 05 - Dollet : pub, deuxieme etage.
+[ ] 06 - Deling City : chambre de l'hotel.
+[ ] 07 - Fishermans Horizon : hotel, deuxieme etage.
+[ ] 08 - Fishermans Horizon : maison du Grease Monkey, au bout des rails.
+[ ] 09 - Shumi Village : maison de l'Artisan, pres du bassin.
+[ ] 10 - Trabia Garden : cimetiere a droite de l'entree.
+[ ] 11 - Edea's House : sol a droite de l'entree.
+[ ] 12 - White SeeD Ship : apres la premiere scene, escalier a gauche.
+
+LES 16 G-FORCES PRINCIPALES
+
+[ ] 01 - Quezacotl : terminal d'etude du Balamb Garden.
+[ ] 02 - Shiva : terminal d'etude du Balamb Garden.
+[ ] 03 - Ifrit : recompense du combat de la Fire Cavern.
+[ ] 04 - Siren : Draw sur Elvoret a Dollet ; rattrapage Tri-Point.
+[ ] 05 - Diablos : Magic Lamp remise par Cid.
+[ ] 06 - Brothers : recompense du Tombeau du roi inconnu.
+[ ] 07 - Carbuncle : Draw sur Iguions ; rattrapage Krysta.
+[ ] 08 - Leviathan : Draw sur NORG ; rattrapage Trauma.
+[ ] 09 - Pandemona : Draw sur Fujin a Balamb ; rattrapage Red Giant.
+[ ] 10 - Cerberus : recompense du combat optionnel a Galbadia Garden ;
+     rattrapage Gargantua.
+[ ] 11 - Alexander : Draw sur Edea ; rattrapage Catoblepas.
+[ ] 12 - Tonberry : recompense de Tonberry King dans Centra Ruins.
+[ ] 13 - Cactuar : recompense de Jumbo Cactuar sur Cactuar Island.
+[ ] 14 - Bahamut : recompense du Deep Sea Research Center.
+[ ] 15 - Eden : Draw sur Ultima Weapon ou Tiamat.
+[ ] 16 - Doomtrain : Solomon Ring + 6 Steel Pipes + 6 Malboro Tentacles +
+     6 Remedy+.
+
+Odin est une aide optionnelle de Centra Ruins. Il ne remplace pas Tonberry et
+ne compte pas comme une des 16 G-Forces principales de la liste Steam.
+
+SEE D RANK A - METHODE FIABLE
+
+- Ouvre Menu > Tutorial > TEST et passe les tests disponibles. Les tests sont
+  repetables : une erreur n'empoche pas le succes, elle ralentit seulement le
+  rang.
+- Marche regulierement pour recevoir les paiements SeeD, termine les missions
+  avec peu de fuite et ne laisse pas les combats obligatoires s'eterniser.
+- Le niveau SeeD est independant du niveau des personnages. Monter Squall au
+  niveau 100 ne suffit pas a obtenir Top Rank.
+- Si tu veux une methode mecanique, utilise la matrice de reponses ci-dessous.
+  Y = Yes, N = No. Chaque ligne correspond a un test, de 1 a 30, et les dix
+  lettres sont les reponses Q1 a Q10.
+
+TEST 01 : Y N Y Y Y N N Y N N
+TEST 02 : Y N Y Y Y N Y Y N N
+TEST 03 : N N Y N Y Y Y N Y N
+TEST 04 : N Y Y Y N N Y Y N N
+TEST 05 : N N N Y Y N N Y Y Y
+TEST 06 : Y N Y Y N N Y Y N Y
+TEST 07 : Y Y Y Y Y Y N Y Y N
+TEST 08 : N Y N N Y Y N N Y N
+TEST 09 : N Y N N N N N N Y Y
+TEST 10 : Y N N N N N N N Y N
+TEST 11 : Y Y N Y Y N Y N N Y
+TEST 12 : N Y N N Y N Y N Y N
+TEST 13 : Y N N N Y N N N N N
+TEST 14 : Y Y Y Y N Y Y N Y N
+TEST 15 : Y Y N N N N N Y N Y
+TEST 16 : Y N N Y N Y N N Y N
+TEST 17 : Y N N N Y N N Y N N
+TEST 18 : Y N N N Y N N N N N
+TEST 19 : Y N N Y N N N N N Y
+TEST 20 : Y Y N Y N Y Y Y N N
+TEST 21 : Y Y Y Y N N Y Y Y N
+TEST 22 : N N N Y N N N Y Y N
+TEST 23 : Y N N N N Y Y Y Y Y
+TEST 24 : Y Y N N Y Y N N N Y
+TEST 25 : Y N Y Y Y N N Y N N
+TEST 26 : Y Y N Y N Y N Y N N
+TEST 27 : N Y N N N N Y N Y N
+TEST 28 : Y N N N Y Y N Y N N
+TEST 29 : N N N Y Y N N N Y N
+TEST 30 : N Y N N N N Y N N N
+
+OPTIMISATION DES COMBATS ET DES JONCTIONS
+
+- Ne monte pas tout le groupe au meme niveau avant d'avoir de bonnes
+  jonctions : les ennemis evoluent avec le niveau moyen.
+- Pour une equipe stable, mets une magie forte sur HP, Str et Spd, equipe
+  Draw / Item / GF selon le combat et garde un membre avec Move-Find pendant
+  les explorations.
+- Pour 9 999 HP, HP-J + une magie HP forte + HP+40 % / HP+80 % sur Brothers
+  ou Diablos est la combinaison la plus simple. Le succes demande d'atteindre
+  le maximum affiche, pas seulement d'avoir une grosse reserve de soins.
+- Pour Omega et Ultima Weapon, Meltdown ou Doomtrain reduit la defense. Aura
+  et les limites terminent les combats plus vite ; les soins restent prioritaires
+  apres une attaque de 9 999.
+- Pour les points de tirage de l'Ile la plus proche de l'enfer, Enc-None et
+  Move-Find permettent un nettoyage sans combats. Pour les 1 000 kills, retire
+  Enc-None et utilise la meme ile avec une equipe preparee.
+
+FICHES DES 34 SUCCES STEAM
+
+01 - Quezacotl : recupere-le dans le terminal d'etude du Garden.
+02 - Shiva : recupere-la dans le meme terminal, avant la Fire Cavern.
+03 - Ifrit : bats Ifrit dans la Fire Cavern.
+04 - Card Player : joue une premiere partie de Triple Triad.
+05 - First Salary : termine l'examen / la premiere mission SeeD et attends le
+     paiement pendant le retour au dortoir.
+06 - Siren : tire Siren d'Elvoret a Dollet, ou de Tri-Point au chateau.
+07 - Magician : stocke de la magie tiree sur des ennemis 100 fois.
+08 - 100 Kills : vaincs 100 ennemis.
+09 - Diablos : utilise la Magic Lamp de Cid et bats Diablos.
+10 - Loser : perds volontairement une carte rare apres une sauvegarde.
+11 - Handyman : ameliore une arme dans un Junk Shop.
+12 - Brothers : termine le Tombeau du roi inconnu et bats les deux freres.
+13 - Carbuncle : tire Carbuncle d'Iguions, ou de Krysta au chateau.
+14 - Leviathan : tire Leviathan de NORG, ou de Trauma au chateau.
+15 - Pandemona : tire Pandemona de Fujin, ou de Red Giant au chateau.
+16 - Cerberus : bats Cerberus a Galbadia Garden, ou tire-le de Gargantua.
+17 - Alexander : tire Alexander d'Edea, ou de Catoblepas.
+18 - Ragnarok : trouve et monte a bord de Ragnarok.
+19 - Tonberry : bats Tonberry King dans Centra Ruins.
+20 - Cactuar : bats Jumbo Cactuar sur Cactuar Island.
+21 - Maximum HP : affiche 9 999 HP avec HP-J et les capacites HP.
+22 - Chocobo : capture un Chocobo dans une foret resolue.
+23 - Bahamut : bats Bahamut dans le Deep Sea Research Center.
+24 - Eden : tire Eden d'Ultima Weapon ou de Tiamat.
+25 - Doomtrain : utilise Solomon Ring avec les trois piles de materiaux.
+26 - End of Game : termine le jeu.
+27 - Cards Club Master : bats Jack, Joker, Club, Diamond, Spade, Heart puis
+     la Roi du Club de cartes.
+28 - Top Rank : atteins le rang SeeD A avec les tests et les rapports.
+29 - Magic Miner : tire 100 fois depuis des points de tirage.
+30 - 1000 Kills : vaincs 1 000 ennemis.
+31 - UFO : termine la chaine des quatre apparitions, le combat UFO et le don
+     de cinq Elixirs a PuPu.
+32 - Omega Destroyed : bats Omega Weapon dans la chapelle du chateau.
+33 - Obel Lake Secret : termine la quete et recupere Luck-J a Minde Isle.
+34 - Timber Maniacs : ramasse les 12 magazines du tableau dedie.
+
+CHECKLIST FINALE - 34 SUCCES STEAM
+
+[ ] Quezacotl
+[ ] Shiva
+[ ] Ifrit
+[ ] Card Player
+[ ] First Salary
+[ ] Siren
+[ ] Magician
+[ ] 100 Kills
+[ ] Diablos
+[ ] Loser
+[ ] Handyman
+[ ] Brothers
+[ ] Carbuncle
+[ ] Leviathan
+[ ] Pandemona
+[ ] Cerberus
+[ ] Alexander
+[ ] Ragnarok
+[ ] Tonberry
+[ ] Cactuar
+[ ] Maximum HP
+[ ] Chocobo
+[ ] Bahamut
+[ ] Eden
+[ ] Doomtrain
+[ ] End of Game
+[ ] Cards Club Master
+[ ] Top Rank
+[ ] Magic Miner
+[ ] 1000 Kills
+[ ] UFO
+[ ] Omega Destroyed
+[ ] Obel Lake Secret
 [ ] Timber Maniacs
 
-VERIFICATION 100 %
+VERIFICATION FINALE
 
-- [ ] 34 succes coches dans Steam.
-- [ ] Tous les G-Forces sont presents et confirmes dans le menu.
-- [ ] 12 Timber Maniacs, Club de cartes et Loser verifies sur sauvegardes
-    separees si necessaire.
-- [ ] Doomtrain, UFO / PuPu, Obel Lake, Bahamut, Eden et Omega confirmes.
-- [ ] Les compteurs 100 / 1 000, 100 tirages, HP maximum et rang SeeD sont
-    termines.
-- [ ] Aucun detail d'histoire, d'identite ou d'issue narrative n'est revele.
+[ ] Steam affiche 34 succes sur 34.
+[ ] Le menu G-Force contient les 16 G-Forces principales.
+[ ] Les 12 cases Timber Maniacs sont cochees ; Balamb ne compte qu'une fois.
+[ ] Siren, Carbuncle, Leviathan, Pandemona et Alexander ont ete tires ou
+    rattrapes dans le chateau final.
+[ ] Club de cartes termine avec notification Cards Club Master.
+[ ] Loser obtenu sur une sauvegarde de test.
+[ ] UFO / PuPu termine avec cinq Elixirs donnes.
+[ ] Obel Lake termine par Luck-J a Minde Isle.
+[ ] Doomtrain utilise depuis le menu Objets.
+[ ] Bahamut et Eden confirmes dans le menu.
+[ ] Omega vaincu avant la fin ou dans la meme exploration du chateau.
+[ ] Compteurs 100 / 1 000 kills, 100 ennemis tires, 100 points tires et
+    9 999 HP controles.
+[ ] Rang SeeD A affiche.
+[ ] Aucun spoiler narratif lu ou ajoute a cette route.
 
 SOURCES DE CONTROLE
 
 - Steam, liste officielle des 34 succes :
   https://steamcommunity.com/stats/1026680/achievements
-- Guide 100 % des succes et quetes :
-  https://steamah.com/final-fantasy-viii-remastered-100-achievement-guide/
-- Guide des objets et missables par disque :
-  https://gamefaqs.gamespot.com/ps/197343-final-fantasy-viii/faqs/72431/missable-item-walkthrough
+- Guide Steam de verification des succes, G-Forces et quetes :
+  https://steamcommunity.com/sharedfiles/filedetails/?id=1853178178
+- Walkthrough Remastered et emplacement des quetes / objets :
+  https://gamefaqs.gamespot.com/ps4/266152-final-fantasy-viii-remastered/faqs/72431
+- Guide des Timber Maniacs et des objets missables :
+  https://gamefaqs.gamespot.com/ps/197343-final-fantasy-viii/faqs/72431
+
+FIN DE LA FICHE - BONNE ROUTE
