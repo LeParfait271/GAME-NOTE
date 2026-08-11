@@ -1,4 +1,4 @@
-import { access, rm } from "node:fs/promises";
+import { access, mkdir, writeFile } from "node:fs/promises";
 import { spawn } from "node:child_process";
 import { fileURLToPath } from "node:url";
 import { join, resolve } from "node:path";
@@ -46,8 +46,15 @@ if (!outputExists) throw new Error("Le build Pages n'a pas produit dist/client/i
 
 // Vinext's Cloudflare plugin must run for the build, but its generated Worker
 // config is incompatible with this project's static Cloudflare Pages deploy.
-// Keep the Pages config in the repository as the only deploy configuration.
-await rm(OUTPUT_WRANGLER_CONFIG, { force: true });
+// Cloudflare's v2 build flow already points .wrangler/deploy/config.json at
+// this path, so replace the generated config with a valid Pages config rather
+// than removing the file and breaking that redirect.
+await mkdir(join(ROOT, "dist", "server"), { recursive: true });
+await writeFile(
+  OUTPUT_WRANGLER_CONFIG,
+  `${JSON.stringify({ name: "game-note", pages_build_output_dir: OUTPUT_DIR }, null, 2)}\n`,
+  "utf8",
+);
 
 await import("./prepare-pages-output.mjs");
 await import("./validate-pages-output.mjs");
