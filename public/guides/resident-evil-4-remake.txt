@@ -1,166 +1,1608 @@
-RESIDENT EVIL 4
+RESIDENT EVIL 4 REMAKE
+EDITION PC / STEAM
 GUIDE CHRONOLOGIQUE 100 % STEAM - SANS SPOILER
 
-Version de travail : 10 aout 2026
+Version de travail : 12 aout 2026
+Objectif : 46 succes Steam
+AppID Steam : 2050650
 
-Ce parcours couvre les 46 succes Steam de l'AppID 2050650 et le contenu du
-jeu principal : 16 chapitres, requetes du marchand, tresors, armes, charms,
-Castellans, stands de tir, records et difficultes. Separate Ways et les
-elements Gold Edition sont des contenus separes : controle leur AppID si tu
-veux aussi leur 100 % propre.
+PERIMETRE EXACT DE LA FICHE
 
-OBJECTIF
+Cette fiche couvre les 46 succes visibles sur la fiche Steam PC :
 
-[ ] 46/46 succes Steam du jeu principal.
-[ ] 16/16 chapitres, tresors, requetes et 16 Castellans.
-[ ] Toutes les armes, ameliorations, charms, recettes et fichiers utiles.
-[ ] Stands de tir, fuite en bateau, combats techniques et records.
-[ ] Standard/Hardcore, Professional, S+, Frugalist, Minimalist et No Merchant.
-[ ] Separate Ways traite a part si installe.
+- 39 succes de la campagne principale de Leon.
+- 7 succes du DLC Separate Ways, integre au meme AppID Steam.
+- Les 16 chapitres principaux et les 7 chapitres de Separate Ways.
+- Les collectibles, les requetes, les armes, les puzzles, les records et les
+  runs de difficulte necessaires pour obtenir les succes sans recommencer au
+  hasard.
+
+La fiche ne raconte pas l'histoire. Les noms de zones et les noms demandes
+par les succes Steam servent uniquement de reperes techniques. Aucun twist,
+aucune fin et aucune consequence narrative ne sont expliques.
+
+LECTURE RAPIDE DE LA FICHE
+
+1. Lis les garde-fous avant de lancer la partie.
+2. Suis les chapitres dans l'ordre et valide le sas de fin de chapitre.
+3. Ne considere jamais un tresor ou une requete comme acquis sans verifier le
+   compteur de la carte ou la liste de ce guide.
+4. Garde une sauvegarde manuelle au debut de chaque chapitre pendant la run
+   de collecte.
+5. Fais les runs de restrictions apres avoir obtenu les armes et accessoires
+   qui rendent ces contraintes fiables.
+6. Separate Ways est traite dans la meme fiche, mais ses compteurs de tresors,
+   ses requetes et ses difficultes sont separes de ceux de Leon.
+
+COMPTEURS A OBTENIR
+
+- 16/16 Castellans : un par chapitre principal.
+- 104/104 tresors principaux : 39 Village, 41 Chateau, 24 Ile.
+- 19/19 requetes du marchand principal.
+- 32 medaillons bleus lies aux 6 requetes de la campagne principale.
+- 29/29 armes comptees par Gun Fanatic.
+- 7/7 pieces d'armes.
+- 5/5 recettes de fabrication.
+- 12/12 epreuves du stand de tir : 1-A a 4-C.
+- 58 objets de valeur de Separate Ways et 7/7 requetes du DLC.
+- 46/46 succes Steam.
 
 GARDE-FOUS ABSOLUS
 
-- Premier parcours en Standard avec exploration et quetes du marchand. Les
-  requetes ratees ne se rattrapent pas toujours dans le meme chapitre : lis
-  le tableau avant chaque transition.
-- Ramasse les tresors, les Castellans et les requetes dans le chapitre ou ils
-  apparaissent. Garde une sauvegarde manuelle avant chaque changement de zone.
-- Pour le Professional S+, fais une partie dediee avec une route de temps et
-  le nombre de sauvegardes controle. Les objets bonus sont autorises selon le
-  record mais pas tous les bonus ne sont utiles a la premiere run.
-- Les records Frugalist, Minimalist et No Merchant demandent chacun une run
-  separee. Ne melange pas les restrictions.
-- Aucun passage ne revele une mort, une identite, une fin, un boss ou un
-  retournement narratif.
+- MISSABLES / ELEMENTS RATABLES : les tresors de chaque region, les requetes,
+  les medaillons, les Castellans, les armes de zone et les sequences de
+  records doivent etre traites avant la transition indiquee. Recharge une
+  sauvegarde de chapitre si l'un de ces elements est manque.
+- Il n'y a pas de vraie exploration libre ni de selection de chapitre apres la
+  fin. Les tresors d'une region doivent etre trouves dans une seule partie
+  pour Bandit, Raider et Burglar.
+- Les Castellans, les armes, les pieces, les recettes et les requetes peuvent
+  etre recuperes sur une autre sauvegarde ou en New Game Plus, mais cela ne
+  repare pas une region de tresors deja abandonnee.
+- Un Castellan detruit est enregistre immediatement, meme si Leon meurt.
+  Un tresor pris avant le dernier point de sauvegarde doit etre repris apres
+  un chargement si le jeu n'a pas valide la progression.
+- Achete la carte au tresor de chaque region des que le marchand la propose :
+  Village au chapitre 2, Chateau au chapitre 7, Ile au chapitre 13.
+- Les tresors additionnels de la carte Deluxe ne sont pas requis pour les
+  succes Steam. Ils ne remplacent aucun des 104 tresors de la liste.
+- Toutes les requetes doivent etre validees aupres du marchand apres leur
+  objectif. Faire l'objectif seul ne suffit pas pour Jack of All Trades.
+- Les medaillons du chapitre 1 ne sont pas marques par la carte. Les suivants
+  apparaissent sur la carte apres lecture de leur affiche bleue.
+- Pour les records de degats, de soins, d'armes ou de marchand, fais une
+  sauvegarde juste avant la sequence. Recharge au lieu de continuer sur une
+  tentative ratee.
+- Le succes You Talk Too Much! concerne une action pendant le combat de
+  Ramon. Il ne faut pas le confondre avec la requete du portrait au chapitre
+  12, qui est une autre action.
+- Le stand de tir ne consomme pas tes munitions. Quitte l'epreuve et relance-la
+  immediatement si une condition de bonus est ratee.
 
-MISSABLES A SECURISER
+ORDRE DE PARTIE RECOMMANDE
 
-- 16 Castellans, requetes du marchand, tresors, armes, charms, stands de tir,
-  objets de chapitre et conditions S+.
+RUN 1 - STANDARD : COLLECTE COMPLETE
 
-ORDRE DE PARTIE
+Fais la campagne en Standard avec les 104 tresors, les 19 requetes, les 16
+Castellans, les armes disponibles, les pieces, les recettes, les 12 epreuves
+du stand de tir et les records techniques. Cette run obtient les succes
+d'histoire, les trois succes de tresors, Jack of All Trades, Revolution
+Wind-up, Gun Fanatic si les armes bonus sont deja disponibles, et les succes
+de combat que tu prepares a l'endroit indique.
 
-1. Standard : histoire, tresors, requetes et collectibles.
-2. Nettoyage du village, chateau et ile via les sauvegardes de chapitre.
-3. New Game Plus pour les achats et records simples.
-4. Hardcore, Professional, S+ et restrictions.
-5. Separate Ways/bonus en contenu separe.
+Ne force pas les restrictions ici. La priorite est de finir avec une carte de
+chaque region totalement propre.
 
-CHAPITRE 1 - VILLAGE ET PREMIERS OUTILS
+RUN 2 - NEW GAME PLUS ASSISTED : RESTRICTIONS
 
-- Fouille la maison de depart, les cabanes et le premier village. Fais les
-  requetes du marchand affichees sur la carte avant de suivre l'objectif.
-- Castellan 1/16 : valide la destruction et note l'emplacement dans ta liste.
-- Recupere les tresors et les objets de crafting, mais ne vends pas les
-  tresors combines avant d'avoir verifie leur bonus de vente.
-- Achete le couteau et l'arme de poing selon ton budget. Commence les
-  conditions de melee, parade, headshots et attaques au couteau.
+Combine Frugalist, Minimalist et Silent Stranger dans une run dediee si tu
+maitrises deja les trajets. Utilise un couteau durable obtenu precedemment et
+un pistolet ameliore. Aucun soin, aucune grenade, aucun fusil, aucun fusil a
+pompe, aucune mitraillette, aucun magnum, et aucun dialogue avec le marchand.
 
-CHAPITRES 2 A 3 - VILLAGE ET CARRIERES
+Les objectifs de requete peuvent etre realises sans parler au marchand, mais
+leur validation exige le dialogue. Garde une sauvegarde avant le dernier
+marchand, termine la partie pour valider Silent Stranger, puis recharge cette
+sauvegarde et valide les requetes si le compteur Jack of All Trades n'est pas
+encore complet.
 
-- Termine les requetes du marchand, les medaillons bleus et les objectifs de
-  tir. Les recompenses de spinelles servent aux cartes et aux armes.
-- Fouille les fermes, usines, vallees et lacs. Ramasse tous les tresors
-  visibles sur la carte puis retourne aupres du marchand avant le passage.
-- Pour la section du lac, explore les embarcaderes, les epaves et les petites
-  grottes. Les indices des tresors sont toujours dans la zone proche.
-- Castellans 2/16 et suivants : coche-les dans l'ordre de chapitre et garde
-  une sauvegarde au debut de chaque zone.
+RUN 3 - NEW GAME PLUS PROFESSIONAL : GRADE A
 
-CHAPITRES 4 A 6 - VILLAGE, FORTERESSE ET ROUTE
+Utilise l'equipement conserve et une arme bonus si necessaire. Obtiens au
+minimum le grade A pour debloquer le Chicago Sweeper. Cette run valide aussi
+Proficient Agent si le succes n'est pas encore obtenu et Peerless Agent si la
+campagne Professional est terminee.
 
-- Termine les requetes, medaillons, tresors et pieces d'armes avant la
-  sequence de siege. Achete les recettes utiles, surtout soins et munitions.
-- Les stands de tir ont plusieurs series. Fais les premiers rangs en Standard
-  et conserve les series difficiles pour le nettoyage avec une arme amelioree.
-- Fouille les forteresses, les granges et les chemins secondaires. Les
-  Castellans de ces chapitres sont dans des pieces de repos ou en hauteur.
-- Avant de quitter le village, verifie la carte du marchand et les tresors
-  colores. Une requete grisee est deja validee ; une requete blanche reste a
-  faire.
+RUN 4 - PROFESSIONAL S+ FRAIS
 
-CHAPITRES 7 A 10 - CHATEAU
+Lance une nouvelle partie et non un New Game Plus. Termine en moins de 5 h
+30 avec 15 sauvegardes manuelles maximum. Les armes bonus deja debloquees
+peuvent etre utilisees sur cette run S+, mais pas l'Infinite Rocket Launcher
+de NG+ puisque la partie doit etre une nouvelle partie.
 
-- Apres l'arrivee, fais les quetes du marchand et les tresors accessibles.
-  Certains passages a deux personnages se nettoient lors du retour : note
-  l'icone et ne la considere pas comme perdue.
-- Explore la bibliotheque, les salles de mecanismes, les remparts et les
-  donjons. Les fichiers et armes de zone sont coches dans le menu.
-- Termine les sections de canon, de mine et de chariot avec une sauvegarde
-  avant chaque ride. Les records techniques se valident avec peu de reprises.
-- Castellans de chateau : utilise le son et la visibilite des pieces ; ne
-  lance pas le passage suivant avant d'avoir verifie la zone precedente.
+Une run Professional S+ bien preparee donne aussi les grades inferieurs de
+difficulte et le succes S+ Rank Investigator. Si le Handcannon n'est pas
+encore obtenu, trois rangs S dans les cartes de Mercenaries permettent de le
+debloquer sans faire la version sans armes bonus.
 
-CHAPITRES 11 A 12 - MINES ET RETOUR
+RUN 5 - SEPARATE WAYS STANDARD : COLLECTE
 
-- Fais les requetes, tresors et stands de tir encore actifs. Achete les pieces
-  d'arme avec des spinelles, puis compare les ameliorations au marchand.
-- Les sequences de mine et de chariot ont des conditions de vitesse et de
-  survie. Pour le succes associe, recharge la sauvegarde avant la section.
-- Termine la liste des Castellans du chateau avant la sortie definitive.
+Fais les 7 chapitres du DLC en Standard avec les 58 objets de valeur et les
+7 requetes. Cela debloque l'Elite Knife, tres utile pour la run Professional.
 
-CHAPITRES 13 A 16 - ILE ET FIN
+RUN 6 - SEPARATE WAYS PROFESSIONAL S+
 
-- Sur l'ile, recupere les tresors, les cartes, les armes et les requetes avant
-  les zones de laboratoire et de combat. Les chemins de service contiennent
-  des collectibles.
-- Termine le stand de tir, les medaillons bleus et les objectifs de conduite
-  avant le dernier transport.
-- Fais une sauvegarde Standard complete avant la fin, puis termine le jeu.
-  L'ecran de resultats ouvre les grades, le New Game Plus et le nettoyage.
-- Castellans finaux : valide les 16/16 avant la conclusion si possible ; sinon
-  recharge le chapitre correspondant.
+Nouvelle partie Professional. Termine en moins de 2 h 30 avec 10 sauvegardes
+manuelles maximum. Ce resultat valide Capable Operative, Skilled Agent, The
+Perfect Mission et Ada the "S+"py.
 
-COLLECTIBLES ET RECORDS
+AVANT DE COMMENCER : ECONOMIE ET INVENTAIRE
 
-- 16 Castellans : un par chapitre ou segment majeur. Tire-les immediatement
-  et verifie le total du menu Bonus.
-- Requetes du marchand : medaillons bleus, rats, chasse, peche et objectifs
-  de zone. Fais-les avant la derniere sortie de chaque carte.
-- Tresors : ouvre la carte au marchand, puis fouille les toits, puits,
-  autels, grottes et passages en hauteur. Les tresors combines valent mieux
-  mais ne sont pas obligatoires pour tous les records.
-- Stands de tir : vise les cibles de bonus et le rang S. Entraine-toi avec
-  les armes de poing avant les series de fusil et de harpon.
-- Armes : achete, ameliore et utilise chaque famille. Le succes des upgrades
-  se valide quand une arme atteint son amelioration speciale.
+- Garde toujours une arme de poing, une arme de zone, une arme de precision,
+  une source de degats lourds et un couteau en bon etat.
+- Incruste les gemmes seulement quand la combinaison augmente la valeur du
+  tresor. Pour Astute Appraiser, conserve la Couronne elegante et cinq
+  couleurs de gemmes afin de depasser 100 000 pesetas.
+- N'achete pas toutes les armes au premier passage. Priorite : carte au
+  tresor, Punisher, pieces qui servent a ton arme principale, puis ticket
+  d'amelioration exclusive.
+- Le fusil Stingray est une base fiable pour le Biosensor Scope. Garde un
+  fusil et de la munition de fusil pour les deux vers dans un Regenerador.
+- Les oeufs sont des objets de mission. Conserve un oeuf normal pour le
+  succes You Talk Too Much! et un oeuf dore pour la requete du portrait.
+- L'inventaire plein peut empecher la validation d'une arme. Envoie le
+  contenu au stockage avant de ramasser le CQBR ou le LE 5.
 
-DIFFICULTES ET RESTRICTIONS
+CHRONOLOGIE PRINCIPALE - CAMPAGNE DE LEON
 
-- Hardcore : fais une run apres le Standard, avec un stock de munitions et
-  des soins. Les armes bonus peuvent simplifier les combats.
-- Professional : aucun auto-save fiable. Apprends les sections, sauvegarde
-  chez le marchand et parie sur les parades plutot que sur les soins.
-- S+ : respecte la limite de temps et de sauvegardes indiquee dans le menu.
-  Un seul chapitre rate peut annuler le grade : recharge plutot que forcer.
-- Frugalist : aucun soin, equipe les charmes defensifs et utilise les bancs
-  sans objet de soin. Fais-le en run separee.
-- Minimalist : couteau et armes autorisees selon le record ; ne prends pas
-  une arme interdite meme pour une seule salle.
-- No Merchant : n'entre pas dans le menu d'achat en run dediee ; depose les
-  spinelles et tresors au coffre pour ne pas cliquer par erreur.
+CHAPITRE 1 - VILLAGE : PREMIERE BOUCLE
 
-SEPARATE WAYS ET CONTENU ANNEXE
+ROUTE SANS SPOILER
 
-- Separate Ways possede son propre parcours, objets et compteur eventuel.
-  Lance-le depuis son entree Steam et ne l'additionne pas aux 46 sans
-  verifier l'AppID de ton installation.
-- Mercenaries est un mode score ; il ne devient pas une route chronologique.
-  Termine-le dans le catalogue DLC seulement si un succes Steam est present.
+1. Explore la maison de la place du village avant de quitter la zone. Le
+   W-870 est au deuxieme etage et compte dans Gun Fanatic : prends-le, meme si
+   tu ne comptes pas l'utiliser.
+2. A la Ferme, lis l'affiche bleue et detruis les 5 medaillons de la premiere
+   requete. Ils ne sont pas marques sur la carte : grange, moulin, palissades
+   et structures de la ferme. Utilise le viseur si un medaillon est en hauteur.
+3. Dans la grange du nord-est de la Ferme, prends le Kitchen Knife et la roue
+   en bois necessaire a la progression.
+4. Avant le passage definitif vers la suite, ouvre tous les tonneaux, cages et
+   toits de la Place du village et valide la sauvegarde de chapitre.
 
-CHECKLIST STEAM FINALE - 46/46
+TRESORS 1 A 5 - VILLAGE
 
-[ ] 16 chapitres et histoire.
-[ ] Requetes du marchand et medaillons bleus.
-[ ] Tresors, armes, upgrades, charms et recettes.
-[ ] 16/16 Castellans.
-[ ] Stands de tir et records de combat.
-[ ] Standard/Hardcore, Professional et S+.
-[ ] Frugalist, Minimalist et No Merchant.
-[ ] Separate Ways controle a part.
-[ ] Verification finale du profil Steam : 46/46.
+1. Velvet Blue : toit de la maison qui contient le W-870, en cassant la fenetre
+   puis en sortant sur le toit.
+2. Ruby : dernier abri a gauche de la Place du village apres la premiere
+   grande rencontre, avant la porte de sortie.
+3. Pearl Pendant : Ferme, conteneur argente suspendu au moulin. Tire quand il
+   n'est pas au-dessus du puits pour eviter la version sale.
+4. Flagon : balcon superieur du moulin a vent, derriere la palissade, dans le
+   coffre au bout du passage.
+5. Ruby : grande grange de la Ferme, apres avoir tire sur le verrou de la
+   porte, dans l'angle. Prends aussi le Kitchen Knife et la roue en bois.
+
+CASTELLAN 1/16
+
+Lakeside Settlement : maison centrale de la zone avec les ennemis a dynamite.
+Entre ou regarde par l'ouverture du toit et vise la figurine posee sur les
+ poutres cassees. Le bruit mecanique confirme que tu es au bon endroit.
+
+SAS DE FIN DE CHAPITRE 1
+
+- Tresors : 5/5.
+- Medaillons de la Ferme : 5/5.
+- Requete 1 : objectif termine, puis validation chez le marchand.
+- Castellan : 1/1.
+- W-870 et Kitchen Knife ramasses.
+- Sauvegarde manuelle de fin de chapitre creee.
+
+CHAPITRE 2 - USINE, VALLEE ET MANOIR
+
+ROUTE
+
+1. Au debut, prends le Kitchen Knife sur le corps et ouvre le deuxieme four
+   a gauche apres le tutoriel de parade.
+2. Termine Pest Control avant de quitter l'Usine : trois rats, deux dans la
+   salle centrale et un dans le couloir detruit a droite. Retourne parler au
+   marchand.
+3. Achete la carte au tresor du Village pour 1 Spinel.
+4. Dans la Vallee, prends le coffre nord, la petite cle au sud et l'embleme
+   hexagonal apres le combat. Ouvre le tiroir verrouille de l'Usine en
+   revenant sur tes pas.
+5. Au Manoir du chef, lis le livre a l'etage avant de redescendre si tu veux
+   comprendre le code. Le code direct est : RECOLTE - COCHON - BEBE.
+6. Place ensuite la bille de cristal sur la porte de la chambre et tourne-la
+   jusqu'a ce que les points blancs recouvrent exactement l'embleme.
+
+TRESORS 6 A 12 - VILLAGE
+
+6. Sapphire : Usine abandonnee, deuxieme four a gauche dans la salle du
+   tutoriel de parade.
+7. Ruby : Vallee, coffre dans la partie la plus au nord, en hauteur.
+8. Elegant Mask : Usine abandonnee, tiroir verrouille derriere la porte de
+   la piece ou tu recuperes ton equipement ; utilise la petite cle.
+9. Sapphire : apres l'embleme hexagonal, accroupis-toi sous les caisses a
+   gauche et ouvre le coffre au bout du passage.
+10. Sapphire : zone boisee apres l'embleme, conteneur argente suspendu a un
+    arbre au centre de la zone.
+11. Pearl Pendant : meme zone, tire d'abord le baton derriere le puits puis
+    le conteneur du puits pour faire tomber le pendentif sur le couvercle.
+12. Ruby : maison suivante, tiroir du couloir d'entree au rez-de-chaussee.
+
+CASTELLAN 2/16
+
+Apres l'embleme hexagonal, monte dans la zone boisee et entre dans la premiere
+cabane a gauche. La figurine est a l'interieur.
+
+SAS DE FIN DE CHAPITRE 2
+
+- Tresors : 12/39 dans le Village.
+- Requetes : Pest Control validee ; Viper Hunter et Grave Robber sont pour le
+  chapitre suivant.
+- Carte au tresor du Village achetee.
+- Castellan : 2/2.
+- Manoir : code RECOLTE - COCHON - BEBE, bille de cristal et petite cle pris.
+- Sauvegarde manuelle creee avant la sortie du Manoir.
+
+CHAPITRE 3 - EGLISE, PLACE, CARRIERES ET PREMIER STAND DE TIR
+
+ROUTE ET REQUETES
+
+1. En revenant vers l'Eglise, ouvre le tiroir verrouille de la petite maison
+   de la Place du village avec la petite cle du chapitre precedent.
+2. Prends les affiches Viper Hunter et Grave Robber. Garde les trois vipers
+   dans l'inventaire jusqu'au marchand ; les casseroles et caisses de la zone
+   fournissent les vipers. Dans le cimetiere de l'Eglise, detruis les deux
+   emblemes jumeaux des tombes pour Grave Robber.
+3. Au Quarry/Fish Farm, accepte Destroy the Blue Medallions 2. Detruis les
+   cinq medaillons avant de quitter la zone.
+4. Achete la Hexagon Piece A dans le coffre en face du marchand du lac.
+5. Dans la Fish Farm, prends la Hexagon Piece B dans le coffre rouge pres de
+   la cabane du carburant et la petite cle au fond de la zone.
+6. Au premier marchand de la zone du Quarry, joue au stand de tir. Les
+   series 1-A, 1-B et 1-C sont les premieres a obtenir. Vise le rang S et
+   garde les jetons pour les charmes.
+
+TRESORS 13 A 18 - VILLAGE
+
+13. Vintage Compass : Place du village, tiroir de la petite maison accessible
+    avec une petite cle.
+14. Velvet Blue : Hotel de ville, conteneur argente suspendu dans la salle.
+15. Elegant Headdress : exterieur de l'Eglise, chemin de droite jusqu'au
+    bout, pres de la lettre de requete.
+16. Ruby : zone du Quarry, lanterne suspendue au-dessus de la zone ou le
+    chien apparait ; tire-la depuis l'angle degage.
+17. Antique Pipe : Fish Farm, conteneur argente dans la partie inondee a
+    droite.
+18. Brass Pocket Watch : tiroir verrouille pres du marchand du Quarry, avec
+    la petite cle obtenue dans la Fish Farm.
+
+CASTELLAN 3/16
+
+Chez le marchand du Quarry, descends l'echelle, avance jusqu'au bout du quai
+et leve la camera : la figurine se trouve entre le toit et les caisses en bois.
+
+HEXA-GONES : PREPARATION
+
+- Piece A : coffre en face du marchand du lac.
+- Piece B : coffre rouge de la Fish Farm, pres de la cabane du carburant.
+- Piece C : petite grotte du lac au chapitre 4, dans le sanctuaire qui
+  contient la tete du blasphemateur.
+- Garde une sauvegarde juste avant le socle de l'Hexagone.
+- Assisted/Standard : tourne la piece de gauche une fois, puis la piece du
+  haut une fois.
+- Hardcore/Professional : tourne la piece de droite deux fois, la piece de
+  gauche deux fois, puis la piece du haut une fois.
+
+SAS DE FIN DE CHAPITRE 3
+
+- Tresors : 18/39.
+- Requetes 3, 4 et 5 valides.
+- Medaillons du Village : 10/10.
+- Pieces Hexagone A et B prises.
+- Stand de tir 1-A, 1-B, 1-C tente et scores notes.
+- Castellan : 3/3.
+
+CHAPITRE 4 - LAC, GROTTES, EGLISE ET TRESORS A RETOURNER CHERCHER
+
+ROUTE ET REQUETES
+
+1. En sortant de la grotte murale, prends la Old Wayshrine Key dans le petit
+   sanctuaire. Elle ouvre toutes les Wayshrines du Village.
+2. Lis Egg Hunt avant de prendre le bateau. Sur l'ile est du lac, ramasse
+   l'oeuf dore et vends-le au marchand au sud-ouest du lac.
+3. Lis Catch Me a Big Fish. Le Lunker Bass se trouve devant la Boat House au
+   sud-est ; harponne le plus gros poisson et vends-le au marchand.
+4. Fais d'abord la petite grotte au nord-est, puis la grande grotte au sud.
+   Petite grotte : boutons gauche, bas-gauche, bas-droite. Grande grotte :
+   boutons haut-gauche, haut-droite, bas. L'ordre entre les trois boutons
+   n'a pas d'importance.
+5. Retourne a la grotte murale avec les deux tetes, recupere la cle de l'Eglise
+   et ouvre la porte. Dans l'Eglise, prends la petite cle sur la table de
+   l'autel et le Blue Dial dans le couloir de droite. Active le levier a
+   gauche de l'autel puis superpose les trois disques colores sur l'embleme.
+6. Ouvre la Wayshrine de la Lakeside Settlement, le sanctuaire du lac,
+   celui de la grotte sud-ouest et celui du chemin de retour vers l'Eglise.
+
+TRESORS 19 A 31 - VILLAGE
+
+19. Alexandrite : epave au centre du lac, coffre sur le ponton.
+20. Red9 : deuxieme coffre de la meme epave. Ramasse l'arme ou envoie-la au
+    stockage pour que Gun Fanatic la valide.
+21. Velvet Blue : ile est du lac, tonneau dans la zone des poules.
+22. Pearl Bangle : Wayshrine de la Lakeside Settlement, avec la Old Wayshrine
+    Key.
+23. Gold Bar : premiere maison de la Lakeside Settlement, tiroir verrouille.
+24. Red Gemstone Ring : sous-sol de la meme maison, apres avoir ouvert le
+    passage.
+25. Ruby : etage de cette maison, conteneur argente suspendu.
+26. Depraved Idol : socle de l'Hexagone avec les trois pieces. Assisted/Normal
+    gauche x1 puis haut x1 ; Hardcore/Professional droite x2, gauche x2,
+    haut x1.
+27. Splendid Bangle : Wayshrine du tunnel ouest du lac.
+28. Alexandrite : conteneur argente au-dessus du sanctuaire precedent.
+29. Velvet Blue : grotte sud-ouest du lac, passage de la grande grotte et
+    conteneur argente au-dessus de la Wayshrine.
+30. Butterfly Lamp : Wayshrine sur le chemin de retour vers l'Eglise.
+31. Yellow Diamond : Eglise, tiroir de la salle de sauvegarde.
+
+CASTELLAN 4/16
+
+Depuis le bateau, accoste au nord-ouest du lac. Utilise la cle de l'insigne
+sur la grille de la Lakeside Settlement, grimpe l'echelle vers la Forest Altar
+et regarde a travers la palissade au-dessus de l'autel.
+
+SUCCES ET RECORDS DU CHAPITRE 4
+
+- Harpoon Hurler : le combat du lac valide le succes d'histoire.
+- Pour la version parfaite du harpon, fais une sauvegarde avant le combat et
+  ne rate aucun lancer. Ce record n'est pas le succes Steam, mais il complete
+  les defis du jeu.
+- `You Talk Too Much!` n'est pas encore a faire ici : garde un oeuf normal
+  pour le chapitre 12.
+
+SAS DE FIN DE CHAPITRE 4
+
+- Tresors : 31/39 dans le Village.
+- Medaillons du Village : 10/10 avant la fin de la region.
+- Requetes 6 et 7 validees.
+- Piece Hexagone C prise dans la petite grotte.
+- Old Wayshrine Key, petite cle de l'Eglise et Blue Dial pris.
+- Red9 ramasse et compte dans l'inventaire ou le stockage.
+- Castellan : 4/4.
+
+CHAPITRE 5 - RETOUR AU VILLAGE ET MANOIR
+
+ROUTE ET REQUETE
+
+1. Au debut, retourne dans la salle ou le chapitre precedent s'est termine
+   pour le conteneur argente du plafond.
+2. Dans la Place du village, booste Ashley a la derniere maison et ouvre le
+   coffre bleu.
+3. Dans le Manoir du chef, booste Ashley vers l'attique. Rampe sous la planche
+   au bout de l'attique pour obtenir l'Antique Camera.
+4. A la Ferme, ouvre la Wayshrine avec la Old Wayshrine Key.
+5. Lis A Savage Mutt apres avoir explore l'attique. Reviens a la Place du
+   village : la cible apparait dans la zone. Termine l'objectif et valide la
+   requete au marchand.
+
+TRESORS 32 A 35 - VILLAGE
+
+32. Yellow Diamond : debut du chapitre, salle de sauvegarde de l'Eglise,
+    conteneur argente au plafond.
+33. Elegant Bangle : Place du village, booste Ashley par la fenetre jaune de
+    la derniere maison et ouvre le coffre bleu.
+34. Antique Camera : Manoir du chef, attique accessible avec Ashley, sous la
+    planche a l'extremite.
+35. Antique Pipe : Wayshrine de la Ferme.
+
+CASTELLAN 5/16
+
+Attique du Manoir du chef : fais monter Ashley depuis la chambre, puis
+regarde derriere la caisse jaune. Tire la figurine avant de redescendre.
+
+RECORDS OPTIONNELS A SECURISER
+
+- Talk About Near-Death Experience! : si Ashley est emportee, etourdis le
+  porteur et libere-la immediatement. Une sauvegarde avant la rencontre permet
+  de retenter sans modifier la run de collecte.
+- Did You Send Out Those Invitations? : pendant la defense de la Villa,
+  termine la sequence sans placer les planches aux fenetres. Les meubles et
+  les ennemis peuvent etre geres autrement ; recharge si une fenetre est
+  barricadee.
+
+SAS DE FIN DE CHAPITRE 5
+
+- Tresors : 35/39.
+- Requete 8 validee.
+- Castellan : 5/5.
+- Antique Camera et Antique Pipe ramassees.
+- Sauvegarde de depart du chapitre 6 conservee avant le dernier passage.
+
+CHAPITRE 6 - CHECKPOINT ET SORTIE DU VILLAGE
+
+ROUTE ET FIN DE REGION
+
+1. Dans la premiere salle apres la machine a ecrire, prends le coffre a
+   gauche en haut des escaliers.
+2. Apres la porte suivante, entre dans la premiere maison a gauche pour le
+   coffre avec le Chalice of Atonement.
+3. Dans le Checkpoint, monte a l'etage et ouvre la Wayshrine.
+4. Apres la grande zone de combat, tire le conteneur argente pres de la
+   vieille voiture et de l'arbre.
+5. Avant la transition vers le Chateau, ouvre la carte du Village et confirme
+   le compteur 39/39. Si le compteur n'est pas complet, recharge la sauvegarde
+   de debut de chapitre au lieu de quitter la region.
+
+TRESORS 36 A 39 - VILLAGE
+
+36. Yellow Diamond : apres la premiere machine a ecrire, salle suivante,
+    coffre en haut de l'escalier gauche.
+37. Chalice of Atonement : maison a gauche apres la porte suivante, coffre.
+38. Elegant Headdress : Checkpoint, Wayshrine a l'etage.
+39. Emerald : apres la zone de Mendez, conteneur argente pres de l'arbre et
+    de la vieille voiture.
+
+CASTELLAN 6/16
+
+Chemin de la colline juste avant le Checkpoint : la figurine est sous le
+brasier. Approche par la zone du tresor precedent et ecoute le bruit.
+
+SAS VILLAGE COMPLET
+
+- Bandit doit apparaitre : 39/39 tresors du Village dans cette partie.
+- 32 medaillons du parcours total : Village 10/10, Chateau et Ile a suivre.
+- 19 requetes : 8/19.
+- Castellans : 6/16.
+- Recettes, pieces et achats accessibles aupres du dernier marchand du Village
+  faits ou notes dans la liste globale.
+- Sauvegarde manuelle de fin de Village creee avant la transition.
+
+CHAPITRE 7 - ENTREE DU CHATEAU ET PREMIER STAND
+
+ROUTE ET REQUETE
+
+1. Chez le premier marchand du Chateau, achete la carte au tresor du Chateau.
+2. Accepte Destroy the Blue Medallions 3 derriere la porte ouverte par le
+   canon. Les 6 medaillons sont dans le pavillon, les ruines, le plafond de
+   la salle du contrepoids et les passerelles autour du canon.
+3. Prends le Boot Knife sur le premier ennemi de la Chapelle.
+4. Fais le stand de tir des series 2-A, 2-B et 2-C quand elles sont ouvertes.
+5. Pour Overkill, sauvegarde avant le canon, charge-le et utilise son tir sur
+   un zealot standard plutot que sur la porte. Recharge ensuite si tu veux
+   conserver tes ressources.
+6. Pour le tresor et la porte de la Treasury, ouvre la grille en tirant les
+   symboles et en tirant la chaine indiquee. Dans la salle des quatre sabres,
+   place de gauche a droite : Iron Sword, Golden Sword, Bloodied Sword,
+   Rusted Sword.
+
+TRESORS 1 A 7 - CHATEAU
+
+1. Vintage Compass : coffre derriere la boutique du marchand, en faisant le
+   tour du batiment.
+2. Elegant Bangle : apres le contrepoids du canon, echelle avant la porte
+   suivante.
+3. Elegant Perfume Bottle : Audience Chamber, booste Ashley vers le coffre du
+   chemin de droite.
+4. Ruby : passage a ramper, conteneur argente au plafond.
+5. Spinel : apres la porte du Dungeon et l'echelle, piece de stockage devant
+   toi.
+6. Gold Bangle : apres les sabres de la Treasury, coffre du couloir suivant.
+7. Golden Hourglass : apres l'echelle, saute depuis le lustre puis descends
+   par l'ouverture centrale.
+
+CASTELLAN 7/16
+
+Treasury : apres la premiere rencontre avec le Garrador, traverse la salle de
+stockage et regarde au-dessus de la caisse sur l'etagere superieure.
+
+SAS DE FIN DE CHAPITRE 7
+
+- Carte du Chateau achetee.
+- Requete 9 validee et 6 medaillons tires.
+- Tresors Chateau : 7/41.
+- Stand 2-A, 2-B, 2-C tente.
+- Boot Knife ramasse.
+- Castellan : 7/16.
+
+CHAPITRE 8 - ATELIER, BINDERY ET REMPARTS
+
+ROUTE ET PUZZLES
+
+1. Dans la Wine Cellar, ouvre le coffre derriere le Summoner.
+2. Dans le Bindery, recupere les trois pierres lithographiques et place-les
+   ainsi : gauche casque orange dans un hexagone, haut bouclier orange dans un
+   carre, droite epee bleue dans un carre, bas armure bleue dans un hexagone.
+3. Prends la petite cle dans le couloir apres le puzzle et reviens au tiroir
+   verrouille du Bindery.
+4. Sur les remparts, recupere les tresors avant de continuer vers la tour
+   suivante. Le danger qui pousse Leon sur les remparts ne bloque pas les
+   tresors si tu explores les deux niveaux avant la transition.
+
+TRESORS 8 A 13 - CHATEAU
+
+8. Mirror with Pearls & Rubies : Wine Cellar, coffre derriere le Summoner.
+9. Extravagant Clock : Bindery, coffre de la salle.
+10. Brass Pocket Watch : Bindery, tiroir verrouille avec la petite cle.
+11. Ornate Necklace : remparts, apres l'interrupteur de nuit, dans la zone
+    de ruines ou il faut descendre.
+12. Emerald : remparts, coffre superieur ouest apres le passage du geant.
+13. Ruby : remparts, sous la troisieme tour apres l'interrupteur de jour,
+    conteneur argente.
+
+CASTELLAN 8/16
+
+Remparts : apres le lancer de rocher, avance vers le toit de la tour ouest et
+va jusqu'au bout du chemin. La figurine est sur le toit, avant la sortie.
+
+SAS DE FIN DE CHAPITRE 8
+
+- Tresors Chateau : 13/41.
+- Petite cle du Bindery prise et tiroir du Bindery ouvert.
+- Puzzle lithographique valide.
+- Castellan : 8/16.
+- Si tu vises le Professional S+, sauvegarde uniquement aux emplacements
+  prevus ; ne gaspille pas une sauvegarde sur une tentative de puzzle.
+
+CHAPITRE 9 - GRAND HALL, BIBLIOTHEQUE ET SECTION D'ASHLEY
+
+ROUTE ET REQUETES
+
+1. Dans la cour, avant de passer la porte definitive, recupere le tresor de
+   l'est du labyrinthe et celui de la porte ouest en revenant par la Wine
+   Cellar.
+2. Pour la requete More Pest Control, elimine les trois rats dans le Grand
+   Hall, la Bibliotheque et la Dining Hall.
+3. Pour Destroy the Blue Medallions 4, detruis les 6 medaillons du Grand Hall,
+   du balcon, de la salle a manger et de la cour.
+4. Dans la Dining Hall, compare les portraits. Ashley doit s'asseoir a la
+   table eloignee, deuxieme chaise a droite en regardant les portraits. Leon
+   s'assoit a la table proche, derniere chaise a gauche. Sonne la cloche.
+5. Pendant la section d'Ashley, prends la petite cle, le dispositif cubique
+   et les deux tresors de la Bibliotheque. La pendule se regle a 11:04 en
+   Assisted/Standard et a 7:00 en Hardcore/Professional.
+6. Dans le Mausolee, place les lampes : gauche demi-lune, droite etoile, haut
+   pleine lune.
+
+TRESORS 14 A 23 - CHATEAU
+
+14. Elegant Chessboard : cote est de la cour, coffre avant le labyrinthe.
+15. Depraved Idol : depuis la sortie ouest du labyrinthe, reviens a la Wine
+    Cellar et booste Ashley par l'ouverture. Fais-le avant la transition.
+16. Alexandrite : Grand Hall, lanterne dans la main de la statue.
+17. Yellow Diamond : Gallery, apres le levier et la rencontre du Summoner.
+18. Butterfly Lamp : Grand Hall, Square Lock Box ouvert avec le Cubic Device.
+19. Justitia Statue : Audience Chamber, chemin de la gondole puis Square Lock
+    Box avec le Cubic Device.
+20. Gold Bar : Audience Hall, tiroir verrouille avec la petite cle.
+21. Elegant Perfume Bottle : Bibliotheque d'Ashley, sous la bibliotheque,
+    deuxieme cle en partant de la gauche.
+22. Sapphire : Bibliotheque, porte nord et troisieme cle ; ascenseur, salle de
+    sauvegarde et coffre ouvert avec la quatrieme cle.
+23. Emerald : pendules de la Bibliotheque. Regle la pendule puis reviens par
+    la porte ouverte vers le Mausolee et ouvre le coffre au bout.
+
+CASTELLAN 9/16
+
+Labyrinthe de la cour : va dans l'angle nord-ouest du rez-de-chaussee, sous
+l'escalier pres de la palette. Ecoute le bruit avant de lancer la sequence de
+la statue.
+
+STAND DE TIR
+
+Si tu as acces au marchand du Grand Hall, verifie les series 1-A a 2-C et
+termine les tentatives encore manquantes avant de quitter la zone. Les scores
+se cumulent entre les stands : il n'est pas obligatoire de tout faire dans une
+seule visite.
+
+SAS DE FIN DE CHAPITRE 9
+
+- Tresors Chateau : 23/41.
+- Requetes 10 et 11 validees.
+- Medaillons du Chateau : 12/12.
+- Bibliotheque : petite cle, Cubic Device et tresors d'Ashley pris.
+- Horloge et lampes resolues.
+- Castellan : 9/16.
+
+CHAPITRE 10 - PROFONDEURS, LABORATOIRE ET GARRADOR
+
+ROUTE
+
+1. Dans la Bibliotheque, reviens sur la zone de Leon avec le Cubic Device.
+   Ouvre le Square Lock Box du cote sud et prends le CQBR Assault Rifle.
+   Ramasse-le ou envoie-le au stockage : l'examiner seulement ne suffit pas.
+2. Dans la salle de sauvegarde au-dessus de la Bibliotheque, ouvre le second
+   Square Lock Box pour le Golden Lynx.
+3. Termine Merciless Knight au Mausolee avec l'arme la plus sure, puis valide
+   la requete aupres du marchand.
+4. Dans les Profondeurs, fais les deux tresors avant de sortir vers le
+   marchand. La zone aquatique devient inaccessible apres le passage.
+5. Pour Never Heard It Coming, sauvegarde avant le premier Garrador, eloigne
+   les autres ennemis et inflige tous les degats au couteau. Aucun tir,
+   grenade ou degat indirect ne doit toucher la cible.
+6. Pour Wave Goodbye, Right Hand, le succes est obtenu en battant Verdugo.
+   Le faire en NG+ avec une arme lourde est plus fiable.
+
+TRESORS 24 A 30 - CHATEAU
+
+24. CQBR Assault Rifle : Bibliotheque, etage sud, Square Lock Box avec le
+    Cubic Device. Si l'arme est deja validee, le coffre devient Gold Bar L.
+25. Golden Lynx : salle de sauvegarde au-dessus de la Bibliotheque, Square
+    Lock Box.
+26. Ruby : Ballroom, lanterne argentee derriere les debris centraux.
+27. Ornate Beetle : Ballroom, cote nord, en faisant le tour par le rez-de-
+    chaussee.
+28. Elegant Crown : Profondeurs, au bout de la zone inondee avant le passage
+    et l'echelle.
+29. Red Beryl : apres le tresor precedent, casse le mur a gauche, grimpe et
+    prends le conteneur dans l'alcove avant le marchand.
+30. Yellow Diamond : Underground Laboratory, salle du commutateur et de la
+    porte, apres le reroutage de l'energie.
+
+CASTELLAN 10/16
+
+Underground Laboratory : pres du marchand, passe derriere les barreaux et
+regarde la figurine au fond du passage. Elle est sur la zone haute, pas dans
+la salle principale du laboratoire.
+
+SAS DE FIN DE CHAPITRE 10
+
+- Tresors Chateau : 30/41.
+- Requete 12 validee.
+- CQBR ramasse.
+- Never Heard It Coming tente sur une sauvegarde separee.
+- Castellan : 10/16.
+
+CHAPITRE 11 - MINES, ARRET ET CHARIOTS
+
+ROUTE ET REQUETES
+
+1. Accepte Insect Hive dans la zone Hive. Detruis les quatre entrees de la
+   ruche, reconnaissables a leur coeur lumineux, avant de quitter le tunnel.
+2. Dans la premiere salle des Mines, prends le tresor a droite de l'escalier.
+3. Apres le premier chariot, prends le Flagon au balcon de l'Arret. Le
+   Castellan du chapitre est dans cette zone : ne monte pas dans le deuxieme
+   chariot avant de l'avoir tire.
+4. Pour Hope You Like Thrill Rides!, fais les deux sections de chariot sans
+   subir de degats. Sauvegarde avant la premiere, puis recharge au moindre
+   choc, y compris un obstacle lateral.
+5. Fais le stand de tir 3-A, 3-B et 3-C au marchand de l'Arret.
+
+TRESORS 31 A 34 - CHATEAU
+
+31. Sapphire : Mines, premiere salle ennemie, escalier de droite, conteneur
+    argente.
+32. Golden Hourglass : meme salle, apres le pont et le levier, alcove au bout
+    pres de la dynamite.
+33. Flagon : Arret, balcon du batiment apres le premier chariot.
+34. Gold Bar L : apres le deuxieme chariot, tunnel ouest de la Hive, detruis
+    les debris avec le tonneau explosif.
+
+CASTELLAN 11/16
+
+Arret : apres le premier passage de chariot, regarde sur le mur ou sous la
+charpente du batiment avant la seconde section. Sa position est au-dessus du
+trajet, donc baisse la camera si tu ne l'entends pas.
+
+SAS DE FIN DE CHAPITRE 11
+
+- Tresors Chateau : 34/41.
+- Requete 13 validee et 4 entrees de ruche detruites.
+- Stand 3-A, 3-B, 3-C tente.
+- Les deux chariots reussis pour le record.
+- Castellan : 11/16.
+
+CHAPITRE 12 - TOUR, SALLE DU TRONE ET PORTRAIT
+
+REQUETES ET ACTIONS A NE PAS CONFONDRE
+
+1. Au debut du chapitre, prends la petite cle dans la mallette apres
+   l'ascenseur.
+2. Lis Jewel Thief et The Disgrace of the Salazar Family pres du marchand.
+3. Pour Jewel Thief, sors vers la Cour et repere le nid du corbeau. Recupere
+   l'emeraude raye et vends-la au marchand.
+4. Pour Disgrace, ouvre le sanctuaire de la Salle du Trone avec le Cubic
+   Device et recupere l'oeuf dore. Equipe l'oeuf, ne le consomme pas, puis
+   lance-le sur le portrait de Ramon. Recharge si le projectile touche une
+   autre peinture.
+5. Pour You Talk Too Much!, garde un oeuf normal pour le combat de Ramon.
+   Equipe-le, attends l'ouverture de la bouche pendant le combat et lance-le
+   directement dedans. Une sauvegarde juste avant le combat evite toute perte.
+6. Dans la Clock Tower, pour Capacity Compliance, nettoie les engrenages,
+   planches et ennemis qui peuvent arreter l'ascenseur avant d'appuyer sur le
+   bouton. Le but est d'atteindre le sommet sans aucun arret.
+7. Avant le levier final de la Clock Tower, recupere le dernier tresor de la
+   zone. C'est le dernier point de retour fiable du Chateau.
+
+TRESORS 35 A 41 - CHATEAU
+
+35. Gold Chicken Egg : Salle du Trone, sanctuaire oppose a la gondole, avec
+    le Cubic Device. Conserve-le pour le portrait.
+36. Ornate Beetle : remparts, tiroir verrouille avec la petite cle ; reviens
+    par la sauvegarde de la Cour si necessaire.
+37. Gold Bar : rez-de-chaussee de la Clock Tower, derriere les caisses a
+    gauche.
+38. Alexandrite : etage suivant de la Clock Tower, au bout du chemin,
+    conteneur argente.
+39. Mirror with Pearls & Rubies : sommet de la Clock Tower, derriere la
+    rambarde cassee pres du levier.
+40. Extravagant Clock : dernier niveau de la Clock Tower, a gauche apres
+    l'echelle. Prends-le avant d'actionner le levier.
+41. Yellow Diamond : apres l'ascenseur, dans la zone de planches et d'echafaud,
+    conteneur argente au-dessus du passage ; accroupis-toi.
+
+CASTELLAN 12/16
+
+Rez-de-chaussee nord-ouest de la Clock Tower : passe sous l'escalier et
+regarde derriere la caisse. Tire la figurine avant d'utiliser l'ascenseur.
+
+SAS DE FIN DE CHAPITRE 12
+
+- Tresors Chateau : 41/41.
+- Raider doit apparaitre apres le dernier tresor.
+- Requetes 14 et 15 validees.
+- Medaillons du Chateau : 12/12.
+- Stand de tir 4 non encore accessible, normal.
+- Castellan : 12/16.
+- Portrait et succes de l'oeuf valides sur les sauvegardes dediees.
+
+CHAPITRE 13 - ILE, QUAI, LABORATOIRES ET BIOSENSOR
+
+ROUTE ET OUTILS
+
+1. Achete la carte au tresor de l'Ile pour 5 Spinels chez le premier marchand.
+2. Au Wharf, tourne la tourelle et ouvre le coffre de la premiere section.
+3. Dans le Freezer, prends la carte de niveau 1, reroute l'energie, puis
+   resous le terminal pour ouvrir la porte optionnelle du LE 5.
+4. Dans le couloir au sud du Freezer, utilise la carte de niveau 2 pour
+   entrer dans l'Incubation Lab. Prends le Biosensor Scope dans sa boite.
+5. Pour Two Bugs, equipe le Biosensor sur le Stingray ou un autre fusil,
+   attends qu'un Regenerador presente deux parasites alignes et abats-les avec
+   une seule balle. Le tir doit tuer deux parasites, pas seulement toucher
+   deux formes.
+6. Fais les tresors de la Dissection et de l'Incubation avant la sortie de
+   l'Ile. La route de la carte de niveau 3 bloque les retours mal prepares.
+
+TERMINAUX ELECTRIQUES
+
+Le but est de connecter chaque symbole d'electricite. Les solutions changent
+entre deux groupes de difficultes :
+
+- Assisted/Standard et Hardcore/Professional n'utilisent pas le meme motif.
+- Dissection : le rappel numerique le plus simple est 3-2-0 en
+  Assisted/Standard et 3-2-2 en Hardcore/Professional, en comptant les
+  rotations des trois couronnes dans l'ordre affiche.
+- Freezer et Waste Disposal : pars de la source, aligne chaque ligne vers les
+  noeuds, puis verifie les quatre symboles allumes avant de confirmer. Ne
+  tourne pas une couronne deja validee ; si tu as perdu la configuration,
+  recharge la sauvegarde avant le terminal.
+- Le LE 5 est derriere le terminal du Freezer : il faut le ramasser pour
+  compter l'arme.
+
+TRESORS 1 A 9 - ILE
+
+1. Pearl Bangle : premier Wharf, coffre de la tourelle apres avoir tourne le
+   canon.
+2. Golden Lynx : premier groupe de roquettes, tunnel de droite, debris pres
+   du tonneau explosif.
+3. Elegant Crown : embranchement de la route, descends par l'escalier droit
+   vers le coffre.
+4. Velvet Blue : Surveillance, mallette argentee a droite apres la porte.
+5. Velvet Blue : Utilities, lave-vaisselle de la salle avant le deuxieme
+   marchand ; fais demi-tour depuis le marchand.
+6. Red Beryl : Dissection, piece gauche apres le levier, derriere la vitrine.
+7. Gold Ingot : Dissection, apres la carte de niveau 1, angle sud-est de la
+   salle derriere la vitre.
+8. LE5 : Freezer, apres le reroutage de l'energie et le terminal optionnel.
+9. Biosensor Scope : Incubation Lab, boite de la salle avec la carte de
+   niveau 2. C'est une piece d'arme, pas un des 24 tresors de la carte.
+
+CASTELLAN 13/16
+
+Wharf, apres la premiere zone de roquettes : entre le chariot elevateur vert
+et le camion. Tire la figurine avant d'emprunter le passage vers Utilities.
+
+SAS DE FIN DE CHAPITRE 13
+
+- Tresors Ile : 7/24, car le LE 5 et le Biosensor sont comptabilises a part.
+- Carte de l'Ile achetee.
+- LE 5 ramasse.
+- Biosensor Scope ramasse.
+- Two Bugs, One Stone tente dans l'Incubation Lab.
+- Castellan : 13/16.
+
+CHAPITRE 14 - DEPOT, DECHETS ET REQUETES DE L'ILE
+
+REQUETES
+
+1. Au Cargo Depot, lis Destroy the Blue Medallions 5 et detruis les 5
+   medaillons : passerelles, conteneurs, toit et angle du depot.
+2. A Waste Disposal, lis Even More Pest Control et elimine les 4 rats avant
+   de quitter la passerelle.
+3. Lis The Wandering Dead a l'Incubation Lab. La cible est un Regenerador
+   special : utilise le Biosensor, vise les parasites et garde une distance
+   suffisante pour tirer sans gaspiller tes soins.
+4. Apres l'ascenseur, recupere la Fighting Knife automatiquement obtenue a la
+   fin de la section correspondante. Elle compte dans Gun Fanatic.
+
+TRESORS 10 A 17 - ILE
+
+10. Crystal Ore : Holding Cell, angle droit de la cellule.
+11. Alexandrite : conteneur argente au-dessus de la porte a l'exterieur du
+    marchand.
+12. Gold Bangle : Cargo Depot, premier conteneur a ordures a gauche.
+13. Velvet Blue : Facility 2, conteneur argente au plafond.
+14. Emerald : Waste Disposal, angle sud-ouest de la zone inondee.
+15. Ornate Necklace : Waste Disposal, salle apres le pont d'Ashley, mallette
+    argentee sur le comptoir.
+16. Crystal Ore : Amber Storeroom, caisse en bois au nord.
+17. Gold Bar L : Campsite, coffre de la tente centrale.
+
+CASTELLAN 14/16
+
+Apres l'Amber Storeroom et la zone de la boule de demolition, entre dans le
+petit batiment du chemin. La figurine est sur le dessus du casier.
+
+SAS DE FIN DE CHAPITRE 14
+
+- Tresors Ile : 17/24.
+- Requetes 16, 17 et 18 validees.
+- Medaillons de l'Ile : 5/5.
+- Fighting Knife ramassee.
+- Castellan : 14/16.
+
+CHAPITRE 15 - RUINES ET DERNIERE SERIE DE MEDAILLONS
+
+ROUTE ET REQUETE
+
+1. Lis Destroy the Blue Medallions 6 dans les Cliffside Ruins et detruis les
+   5 medaillons avant la derniere progression de l'helicoptere.
+2. Dans les ruines, utilise les echelles et les poutres avant de traverser la
+   porte finale : les tresors sont dans des coffres et conteneurs en hauteur.
+3. Verifie l'achat des dernieres armes, pieces et recettes chez le marchand.
+4. Termine le stand de tir 4-A, 4-B et 4-C. Pour Trick Shot, choisis 4-C,
+   aligne au moins cinq cibles avec un tir perçant et evite les marins qui
+   retirent des points.
+5. Pour Real Deadeye, S-rank les 12 jeux 1-A a 4-C. Le rang S depend surtout
+   des conditions de bonus et des tirs propres ; la vitesse seule ne suffit
+   pas.
+
+TRESORS 18 A 21 - ILE
+
+18. Red Beryl : premier secteur avec ennemis, conteneur argente derriere la
+    maison de gauche.
+19. Velvet Blue : Stronghold, apres la tour de l'helicoptere, conteneur sur la
+    poutre metallique.
+20. Staff of Royalty : Cliffside Ruins, coffre bleu au bout de l'echelle.
+21. Splendid Bangle : Specimen Storage, coffre de la salle nord.
+
+CASTELLAN 15/16
+
+Specimen Storage : salle nord-est, regarde la poutre en bois situee au-dessus
+du coffre. Tire la figurine avant de suivre la route de sortie.
+
+SAS DE FIN DE CHAPITRE 15
+
+- Tresors Ile : 21/24.
+- Requete 19 validee.
+- Medaillons de l'Ile : 10/10.
+- Stand de tir : 12 epreuves accessibles, scores S a verifier.
+- Trick Shot tente sur 4-C.
+- Castellan : 15/16.
+
+CHAPITRE 16 - COMPTE A REBOURS ET FIN DE LA CAMPAGNE
+
+ROUTE
+
+1. Au debut, apres le laboratoire de Luis, booste Ashley a gauche, monte
+   l'echelle et tire le conteneur argente au-dessus du pont.
+2. Dans le Sanctuaire, recupere le pendentif derriere l'autel puis le lingot
+   sur le chemin de droite avant le marchand.
+3. Au dernier marchand, achete les 5 recettes, les pieces manquantes et les
+   armes manquantes. Verifie le compteur Gun Fanatic avant de lancer la fin.
+4. Pour Smooth Escape, sauvegarde avant le scooter des mers et termine la
+   fuite sans heurter un obstacle. Recharge au moindre choc.
+5. Pendant le compte a rebours final, avance vers la grande salle rectangulaire
+   avec les chariots elevateurs et les caisses. Le dernier Castellan se trouve
+   dans cette salle : tire-le avant de prendre la sortie.
+6. Termine le jeu et conserve la sauvegarde de fin pour le New Game Plus.
+
+TRESORS 22 A 24 - ILE
+
+22. Velvet Blue : debut du chapitre, apres le laboratoire de Luis, booste
+    Ashley, monte l'echelle et tire le conteneur au-dessus du pont.
+23. Iluminados Pendant : Sanctuaire, derriere l'autel.
+24. Gold Ingot : Sanctuaire, chemin de droite avant le dernier marchand.
+
+CASTELLAN 16/16
+
+Pendant le compte a rebours, dans la salle rectangulaire avec les ennemis,
+regarde a droite vers le nord-ouest, entre le chariot elevateur et les caisses.
+Le tir doit etre fait avant la sortie : il n'y a pas de retour apres la fin.
+
+SAS DE FIN DE CAMPAGNE PRINCIPALE
+
+- Tresors : Village 39/39, Chateau 41/41, Ile 24/24.
+- Bandit, Raider et Burglar valides ou prets a apparaitre.
+- Castellans : 16/16.
+- Requetes : 19/19.
+- Medaillons : 32/32.
+- Armes : verifier le compteur Gun Fanatic, y compris les armes bonus et
+  l'Infinite Rocket Launcher.
+- Pieces d'armes : 7/7.
+- Recettes : 5/5.
+- Stand de tir : 12/12 avec rang S pour Real Deadeye.
+- Smooth Escape tente.
+- Sauvegarde de fin conservee pour les runs suivantes.
+
+LISTE COMPLETE DES 19 REQUETES DU MARCHAND PRINCIPAL
+
+1. Destroy the Blue Medallions : chapitre 1, Ferme, 5 medaillons.
+2. Pest Control : chapitre 2, Usine abandonnee, 3 rats.
+3. Viper Hunter : chapitre 3, vendre 3 vipers.
+4. Grave Robber : chapitre 3, detruire les 2 emblemes du cimetiere.
+5. Destroy the Blue Medallions 2 : chapitre 3, Quarry/Fish Farm, 5.
+6. Egg Hunt : chapitre 4, vendre l'oeuf dore de l'ile est du lac.
+7. Catch Me a Big Fish : chapitre 4, vendre le Lunker Bass devant la Boat
+   House.
+8. A Savage Mutt : chapitre 5, vaincre la cible de la Place du village apres
+   l'exploration de l'attique du Manoir.
+9. Destroy the Blue Medallions 3 : chapitre 7, porte du canon, 6.
+10. Destroy the Blue Medallions 4 : chapitre 9, Grand Hall, 6.
+11. More Pest Control : chapitre 9, Grand Hall/Bibliotheque/Dining Hall,
+    3 rats.
+12. Merciless Knight : chapitre 10, Mausolee, vaincre le chevalier cible.
+13. Insect Hive : chapitre 11, Hive, detruire 4 entrees de ruche.
+14. Jewel Thief : chapitre 12, recuperer l'emeraude raye du nid de corbeau.
+15. The Disgrace of the Salazar Family : chapitre 12, lancer l'oeuf dore sur
+    le portrait de Ramon.
+16. Destroy the Blue Medallions 5 : chapitre 14, Cargo Depot, 5.
+17. Even More Pest Control : chapitre 14, Waste Disposal, 4 rats.
+18. The Wandering Dead : chapitre 14, vaincre le Regenerador special de
+    l'Incubation Lab.
+19. Destroy the Blue Medallions 6 : chapitre 15, Cliffside Ruins, 5.
+
+COMPTE DES MEDAILLONS BLEUS
+
+- Chapitre 1 / Ferme : 5.
+- Chapitre 3 / Quarry-Fish Farm : 5.
+- Chapitre 7 / Castle Gate : 6.
+- Chapitre 9 / Grand Hall : 6.
+- Chapitre 14 / Cargo Depot : 5.
+- Chapitre 15 / Cliffside Ruins : 5.
+- Total : 32.
+
+La carte marque les medaillons apres lecture de l'affiche, sauf les 5 de la
+premiere Ferme. Un viseur de fusil ou de Stingray facilite les angles en
+hauteur. Chaque serie doit etre validee chez le marchand.
+
+LISTE COMPLETE DES 16 CASTELLANS
+
+1. Ch1 : Lakeside Settlement, maison centrale, poutres du toit casse.
+2. Ch2 : zone boisee apres l'embleme hexagonal, premiere cabane a gauche.
+3. Ch3 : Quarry, quai sous le marchand, entre le toit et les caisses.
+4. Ch4 : Forest Altar, derriere la grille ouverte avec la cle de l'insigne,
+   tir a travers la palissade.
+5. Ch5 : attique du Manoir du chef, derriere la caisse jaune.
+6. Ch6 : chemin vers le Checkpoint, sous le brasier.
+7. Ch7 : Treasury, salle de stockage apres le premier Garrador, etagere haute.
+8. Ch8 : remparts, toit de la tour ouest apres le passage du rocher.
+9. Ch9 : labyrinthe de la cour, angle nord-ouest sous l'escalier.
+10. Ch10 : Underground Laboratory, passage derriere les barreaux pres du
+    marchand.
+11. Ch11 : Arret, batiment apres le premier chariot, mur/charpente au-dessus.
+12. Ch12 : Clock Tower, rez-de-chaussee nord-ouest sous l'escalier.
+13. Ch13 : Wharf, entre le chariot elevateur vert et le camion.
+14. Ch14 : Campsite, petit batiment apres l'Amber Storeroom, haut du casier.
+15. Ch15 : Specimen Storage, poutre haute au-dessus du coffre nord-est.
+16. Ch16 : salle rectangulaire du compte a rebours, entre chariot elevateur
+    et caisses au nord-ouest.
+
+ARMES : LES 29 QUI COMPTENT POUR GUN FANATIC
+
+Les armes comptent une fois qu'elles ont ete possedees. Tu peux les vendre
+ensuite. Les deux armes Deluxe Sentinel Nine et Skull Shaker sont facultatives
+et ne sont pas requises pour les 29.
+
+1. Combat Knife : arme de depart.
+2. SG-09 R : pistolet de depart.
+3. W-870 : maison de la Place du village, chapitre 1.
+4. Kitchen Knife : grande grange de la Ferme, chapitre 1.
+5. Red9 : epave au centre du lac, chapitre 4.
+6. Boot Knife : butin du premier ennemi de la Chapelle, chapitre 7.
+7. CQBR Assault Rifle : Square Lock Box de la Bibliotheque, chapitre 10.
+8. LE 5 : Freezer, chapitre 13, terminal optionnel.
+9. Fighting Knife : obtenu automatiquement a la fin du chapitre 14.
+10. Special Rocket Launcher : obtenu automatiquement pendant la fin.
+11. Blacktail : achat au marchand, 24 000 pesetas.
+12. Bolt Thrower : achat au marchand, 10 000 pesetas.
+13. TMP : achat au marchand, 10 000 pesetas.
+14. Riot Gun : achat au marchand, 28 000 pesetas.
+15. Striker : achat au marchand, 38 000 pesetas.
+16. SR M1903 : achat au marchand, 12 000 pesetas.
+17. Stingray : achat au marchand, 30 000 pesetas.
+18. Broken Butterfly : achat au marchand, 42 000 pesetas.
+19. Killer7 : achat au marchand, 77 700 pesetas.
+20. Rocket Launcher : achat au marchand, 50 000 pesetas.
+21. Punisher : echange de 5 Spinels.
+22. Matilda : echange de 10 Spinels.
+23. Hand Grenade : butin aleatoire.
+24. Heavy Grenade : butin, ou fabrication avec la recette.
+25. Flash Grenade : butin, ou fabrication avec la recette.
+26. Infinite Rocket Launcher : achat chez le marchand en New Game Plus,
+    2 000 000 de pesetas.
+27. Chicago Sweeper : Professional avec grade A ou mieux, puis achat dans
+    l'Extra Content Shop.
+28. Handcannon : trois rangs S dans les 3 cartes de Mercenaries, ou nouvelle
+    partie Professional sans arme bonus ; puis achat dans l'Extra Content Shop.
+29. Primal Knife : detruire les 16 Castellans, puis achat dans l'Extra Content
+    Shop.
+
+PIECES D'ARMES 1 A 7
+
+1. Biosensor Scope : Incubation Lab, chapitre 13.
+2. Scope : achat marchand, 4 000 pesetas.
+3. Laser Sight : echange de 10 Spinels.
+4. High-Power Scope : echange de 7 Spinels.
+5. TMP Stock : echange de 8 Spinels.
+6. Red9 Stock : echange de 9 Spinels.
+7. Matilda Stock : echange de 12 Spinels.
+
+RECETTES DE FABRICATION 1 A 5
+
+1. Heavy Grenade : achat marchand, 12 000 pesetas.
+2. Flash Grenade : achat marchand, 6 000 pesetas.
+3. Bolts : achat marchand, 6 000 pesetas.
+4. Attachable Mines : achat marchand, 8 000 pesetas.
+5. Magnum Ammo : achat marchand, 7 000 pesetas.
+
+STAND DE TIR : 12 EPREUVES
+
+Les stands apparaissent progressivement. Les jeux precedents restent
+accessibles depuis les stands suivants.
+
+- 1-A : SG-09 R.
+- 1-B : SR M1903.
+- 1-C : SR M1903 et SG-09 R.
+- 2-A : TMP.
+- 2-B : Riot Gun.
+- 2-C : TMP et Riot Gun.
+- 3-A : Red9.
+- 3-B : Punisher.
+- 3-C : Punisher.
+- 4-A : Punisher et Riot Gun.
+- 4-B : Bolt Thrower.
+- 4-C : Blacktail, Stingray, Striker et TMP.
+
+METHODE POUR REAL DEADEYE
+
+1. Fais un premier passage pour memoriser les mouvements.
+2. Tire les cranes de bonus uniquement quand aucun marin ne se trouve derriere
+   la cible. Les marins retirent des points et peuvent casser le rang S.
+3. Valide la condition de bonus de chaque epreuve pour ouvrir la vague bonus.
+4. Quitte l'epreuve si une cible est ratee ; les munitions et le score ne sont
+   pas consommes dans le monde principal.
+5. Note les jeux S dans la liste 1-A a 4-C, pas seulement le total de jetons.
+
+METHODE POUR TRICK SHOT
+
+Le jeu 4-C est le plus pratique. Attends la ligne de cibles, utilise une arme
+avec penetration, et place le reticule pour traverser au moins cinq cibles
+avec un seul projectile. Les marins ne comptent pas comme cibles a detruire
+et peuvent annuler le score : tire la ligne qui ne passe que par les cibles.
+
+SUCCES TECHNIQUES DE COMBAT
+
+- Knife Basics : pare une attaque avec le couteau, des le premier village.
+- My Preferred Piece : ameliore une arme chez le marchand.
+- Nice One, Stranger! : termine une requete et valide-la chez le marchand.
+- Harpoon Hurler : termine le combat du lac.
+- Talk About Near-Death Experience! : libere Ashley quand elle est emportee.
+- Grilled Big Cheese : termine la confrontation du chapitre 6.
+- Amateur Shooter : termine une epreuve du stand de tir.
+- Revolt Against the Revolting : detruis un Castellan.
+- No Thanks, Bro! : termine la confrontation de la Salle du Trone.
+- Overkill : utilise le canon de la porte du Chateau contre un zealot.
+- You Used to Be a Good Guy : termine la confrontation du chapitre 14.
+- You're Small Time! : termine la confrontation finale de la campagne.
+- A Masterpiece : achete un ticket d'exclusivite ou termine toutes les
+  ameliorations d'une arme puis applique l'amelioration exclusive.
+- Shield Your Eyes : lance une grenade aveuglante sur un groupe d'au moins
+  trois ennemis et verifie qu'ils meurent, pas seulement qu'ils chancellent.
+- Wave Goodbye, Right Hand : bats Verdugo. L'Infinite Rocket Launcher en NG+
+  rend le test tres sur.
+- Two Bugs, One Stone : Biosensor sur fusil, deux parasites d'un Regenerador,
+  une seule balle.
+- Astute Appraiser : vends un seul tresor pour au moins 100 000 pesetas. La
+  Couronne elegante avec cinq couleurs de gemmes est le chemin le plus fiable.
+- Capacity Compliance : atteins le sommet de la Clock Tower sans que
+  l'ascenseur s'arrete.
+- Never Heard It Coming : tue un Garrador uniquement au couteau.
+- You Talk Too Much! : lance un oeuf normal dans la bouche de Ramon pendant le
+  combat ; ne le confonds pas avec l'oeuf dore du portrait.
+- Hope You Like Thrill Rides! : deux sections de chariot sans degats.
+- Smooth Escape : scooter des mers sans degats.
+- Frugalist : aucune herbe, aucun spray et aucun objet de soin pendant toute
+  la campagne.
+- Minimalist : uniquement couteaux et armes de poing, hors exceptions imposees
+  par certains passages et vehicules.
+- Silent Stranger : aucun dialogue avec le marchand une seule fois.
+
+CAPACITY COMPLIANCE - ROUTE SURE
+
+- Sauvegarde avant l'ascenseur.
+- Equipe une arme de precision et detruis les cibles qui peuvent bloquer le
+  mecanisme avant qu'elles ne l'atteignent.
+- Tire les ennemis qui sautent sur la plateforme et les planches qui tombent.
+- Ne quitte pas l'ascenseur avant l'ecran de sommet.
+- Recharge si le mouvement s'interrompt, meme si Leon n'a pas subi de degats.
+
+HOPE YOU LIKE THRILL RIDES - ROUTE SURE
+
+- Sauvegarde avant la premiere rampe.
+- Vise les ennemis qui tirent depuis les passerelles ; les obstacles du rail
+  sont plus importants que les tirs.
+- Actionne les changements de voie a temps et garde le curseur au centre.
+- Apres le premier chariot, sauvegarde a nouveau avant le second.
+- Au moindre choc, quitte au menu et recharge la sauvegarde manuelle.
+
+FRUGALIST + MINIMALIST + SILENT STRANGER
+
+- Difficulté conseillee : Assisted en New Game Plus.
+- Arme principale : Primal Knife ameliore ou Elite Knife pour Separate Ways,
+  plus un pistolet fiable.
+- Ne prends pas de spray, herbe, oeuf de soin ou poisson de soin.
+- Les canons, harpons, tourelles et vehicules imposes par la progression sont
+  des exceptions du record ; les grenades ne le sont pas.
+- N'entre jamais dans le menu du marchand. Les machines a ecrire et le coffre
+  suffisent pour gerer l'equipement.
+- Verifie le compteur de chaque record dans le menu Defis apres les scenes
+  sensibles. Une valeur qui passe a 1 impose de recharger la sauvegarde de
+  debut de run.
+
+DIFFICULTES ET GRADES
+
+- Promising Agent : histoire en Standard ou mieux.
+- Proficient Agent : histoire en Hardcore ou mieux.
+- Peerless Agent : histoire en Professional.
+- Mission Accomplished S+ : Standard avec rang S+ ; vise moins de 5 h et une
+  partie fraiche pour respecter le grade.
+- S+ Rank Investigator : Hardcore avec rang S+ ; vise moins de 5 h 30 sur une
+  partie fraiche.
+- Sprinter : histoire en moins de 8 h, toutes difficultes confondues.
+- Professional S+ : moins de 5 h 30 et 15 sauvegardes maximum sur une nouvelle
+  partie. Cette run est a traiter comme une route de vitesse, pas comme une
+  collecte.
+
+ROUTE DE SAUVEGARDES PROFESSIONAL S+ PRINCIPALE
+
+Ce planning reste sous la limite de 15 sauvegardes. Adapte les emplacements a
+ton niveau, mais ne depasse pas le compteur :
+
+1. Fin du chapitre 1.
+2. Avant la grosse defense du chapitre 2.
+3. Avant le combat du lac.
+4. Avant la defense du chapitre 6.
+5. Avant l'arrivee au Chateau.
+6. Avant la section de Ashley du chapitre 9.
+7. Avant les chariots du chapitre 11.
+8. Avant la zone de laboratoire du chapitre 13.
+9. Avant le combat du chapitre 14.
+10. Avant la section de ruines du chapitre 15.
+11. Avant la tour du chapitre 12 si tu preferes repartir d'une zone plus sure.
+12. Avant le passage final de l'Ile.
+13. Avant la sequence de sortie.
+14. Avant la derniere confrontation.
+15. Sauvegarde de securite finale, uniquement si le compteur le permet.
+
+Regle pratique : en cas de mort, quitte jusqu'au menu principal puis recharge
+la sauvegarde manuelle. Ne choisis pas Continuer depuis l'ecran de mort si tu
+veux conserver un temps propre.
+
+SEPARATE WAYS - PARCOURS COMPLET DU DLC
+
+Le DLC comporte 7 chapitres, 7 succes Steam, 58 objets de valeur et 7
+requetes. Les tresors ne sont pas requis par un succes Steam, mais ils donnent
+l'argent necessaire a la route Professional S+ et terminent le contenu du DLC.
+Achete la carte globale des tresors des que le marchand la propose au chapitre
+2. Les petites cles du marchand s'achetent progressivement pour 2, 3, 4, 5 et
+6 Spinels.
+
+SEPARATE WAYS - CHAPITRE 1 : CHATEAU
+
+1. Explore les deux niveaux de Castle Gate avant de desactiver les canons.
+2. Prends le SR M1903 et le Scope sur la table pres du mecanisme du canon.
+3. Desactive les canons, redescends par l'escalier et ouvre le coffre avant le
+   grappin de sortie.
+4. Aucun marchand ni requete dans ce chapitre ; conserve les Spinels et les
+   ressources pour le chapitre 2.
+
+OBJETS DE VALEUR 1 A 3
+
+1. Elegant Headdress : niveau superieur de Castle Gate, autour du petit
+   batiment dans l'angle.
+2. Splendid Bangle : niveau inferieur, coffre derriere les caisses du petit
+   batiment.
+3. Ruby : apres la desactivation des canons, dernier coffre au bas de
+   l'escalier avant le grappin.
+
+SEPARATE WAYS - CHAPITRE 2 : FALAISE, EGLISE ET VILLAGE
+
+1. Au premier passage marchand, achete la carte globale et au moins une petite
+   cle si les Spinels le permettent.
+2. Lis Eradicate the Blue Medallions sur le poteau au-dessus du chemin du
+   puzzle. Les 4 medaillons sont autour de la passerelle, du poteau et de la
+   falaise ; utilise le grappin pour les angles sous la structure.
+3. A l'Eglise, prends le Ruby sur le nid du clocher en te retournant au debut
+   de l'objectif suivant.
+4. Dans la Place du village, tire le conteneur du premier batiment, ouvre le
+   tiroir verrouille et grapille le coffre de la grange par sa fenetre.
+
+OBJETS DE VALEUR 4 A 9
+
+4. Red Gemstone Ring : coffre en haut des marches avant la grille de la Falaise.
+5. Flagon : chemin derriere la Villa, coffre de l'itineraire exterieur.
+6. Ruby : apres la scene de la cloche de l'Eglise, grimpe par grappin sur le
+   toit et tire le nid d'oiseau.
+7. Velvet Blue : premier batiment apres le marchand, conteneur argente.
+8. Gold Bangle : tiroir verrouille d'une maison de la Place du village.
+9. Elegant Perfume Bottle : grange en haut a gauche de la Place, entree par
+   la fenetre ouest avec le grappin.
+
+REQUETE DLC 1/7
+
+Eradicate the Blue Medallions : 4 medaillons de la Falaise. Valide au
+marchand avant de sortir de la zone.
+
+SEPARATE WAYS - CHAPITRE 3 : MANOIR, USINE ET FERME
+
+1. Dans le Manoir du chef, prends le coffre au-dessus de la cheminee.
+2. Pendant la poursuite, recupere le coffre immediatement a la sortie ; il
+   reste recuperable apres la scene si tu l'as rate.
+3. A l'Usine, accepte Jacket of All Trades. Vaincs l'ennemi portant la veste,
+   recupere la Jacket et vends-la au marchand.
+4. Prends le Blast Crossbow sur la table et ouvre le tiroir verrouille a cote.
+5. Avant la Villa, nettoie le batiment nord-est de la Place et les deux cotes
+   du moulin de la Ferme.
+
+OBJETS DE VALEUR 10 A 18
+
+10. Extravagant Clock : cheminee du rez-de-chaussee du Manoir du chef.
+11. Red Beryl : coffre juste a l'exterieur du Manoir pendant la poursuite.
+12. Emerald : apres le grappin de sortie du Manoir, chemin gauche, lampe
+    suspendue.
+13. Jacket : objet de la requete Jacket of All Trades, recupere sur la cible
+    puis vendu au marchand.
+14. Gold Bar : tiroir verrouille a cote du Blast Crossbow dans l'Usine.
+15. Antique Pipe : petit batiment pres de la sortie nord-est de la Place.
+16. Pearl Pendant : petit moulin ouest de la Ferme ; tire hors de la zone sale.
+17. Yellow Diamond : exterieur du grand moulin au nord-est de la Ferme.
+18. Sapphire : interieur du grand moulin, coffre de l'autre cote.
+
+REQUETE DLC 2/7
+
+Jacket of All Trades : elimine la cible de l'Usine, ramasse sa Jacket et
+vends-la au marchand.
+
+SEPARATE WAYS - CHAPITRE 4 : CHATEAU, LABYRINTHE ET REMPARTS
+
+1. Apres le passage de Luis, recupere le Gold Bar L en te retournant avant
+   l'echelle.
+2. Dans la salle du bouclier, tire le conteneur du plafond.
+3. Apres le puzzle des gongs et la perceuse, prends le coffre de la salle
+   suivante et le tiroir verrouille avant les escaliers.
+4. Apres la bouteille doree, ouvre les planches cassees par les chevaliers,
+   puis le passage lateral avec l'Elegant Chessboard.
+5. Au marchand, accepte Eradicate the Blue Medallions 2. Les 5 medaillons
+   couvrent la fontaine, l'entree du labyrinthe, les barreaux et les passerelles.
+6. Nettoie la fontaine, le labyrinthe et les deux tours des remparts avant de
+   lancer le prochain objectif.
+
+OBJETS DE VALEUR 19 A 31
+
+19. Gold Bar L : plateforme superieure apres la sauvegarde de Luis, avant
+    l'echelle.
+20. Velvet Blue : salle du bouclier, conteneur au plafond.
+21. Vintage Compass : coffre apres le puzzle des gongs et de la perceuse.
+22. Ornate Necklace : tiroir verrouille avant l'escalier suivant.
+23. Alexandrite : petite zone derriere les planches cassees par les chevaliers.
+24. Elegant Chessboard : passage lateral ouvert avec la bouteille doree.
+25. Velvet Blue : derriere la fontaine apres le marchand.
+26. Red Beryl : chemin de droite avant le labyrinthe, coffre pres de la seconde
+    fontaine.
+27. Butterfly Lamp : ouverture courte derriere le cinquieme medaillon.
+28. Sapphire : table a gauche juste apres la sortie du labyrinthe.
+29. Ruby : premiere tour des remparts, deux niveaux sous le sommet.
+30. Golden Hourglass : salle de la manette apres la premiere tour, portail du
+    niveau inferieur.
+31. Yellow Diamond : apres la descente de la deuxieme tour, devant la salle
+    de collecte.
+
+REQUETE DLC 3/7
+
+Eradicate the Blue Medallions 2 : 5 medaillons dans le secteur du labyrinthe
+et des fontaines. Termine-la avant la sortie du Chateau.
+
+SEPARATE WAYS - CHAPITRE 5 : VOIE D'EAU, CAVERNES ET QUAIS
+
+1. Debut : retourne-toi et monte l'echelle pour le coffre de la Pearl Bangle.
+2. Dans la tour suivante, ouvre le coffre derriere la manette de la lune.
+3. Dans la voie d'eau, remonte l'escalier casse et tire le conteneur du plafond.
+4. Lis Lord of the Waterway au marchand. Apres la vidange, prends le gros
+   poisson dans le tunnel sous les champignons et vends-le.
+5. Lis Bug Buster. Les trois insectes sont sur les piliers mobiles, a la
+   sortie des cavernes et en hauteur sur le batiment. Le Biosensor simplifie
+   le troisieme.
+6. Dans les quais, tire le conteneur au-dessus de l'ennemi isole.
+
+OBJETS DE VALEUR 32 A 43
+
+32. Pearl Bangle : debut du chapitre, echelle a gauche apres s'etre retourne.
+33. Elegant Crown : coffre au bas de la tour, derriere la manette de la lune.
+34. Velvet Blue : voie d'eau, en haut de l'escalier casse.
+35. Ruby : voie d'eau, conteneur argente apres les premiers ennemis.
+36. Lunker Bass : gros poisson du tunnel, objet necessaire a la requete Lord
+    of the Waterway.
+37. Gold Bar L : salle de la vanne de vidange, tiroir verrouille.
+38. Mirror with Pearls and Rubies : apres la vidange, coffre du couloir droit.
+39. Alexandrite : zone inondee vidangee, extremite nord, echelle et coffre.
+40. Yellow Diamond : zone vidangee, conteneur argente du mur gauche.
+41. Depraved Idol : zone nord des piliers mobiles, coffre apres la manette.
+42. Emerald : entre les deux piliers mobiles, conteneur argente au plafond.
+43. Brass Pocket Watch : debut des quais, conteneur suspendu au-dessus de
+    l'ennemi isole.
+
+REQUETES DLC 4 ET 5 / 7
+
+- Lord of the Waterway : attrape et vends le gros poisson du tunnel.
+- Bug Buster : detruis les 3 Novistadors de la zone des cavernes et des quais.
+
+SEPARATE WAYS - CHAPITRE 6 : INSTALLATIONS ET LIGNES DE DEFENSE
+
+1. Dans l'Amber Storeroom, prends le coffre du coin nord-est.
+2. Avant l'ascenseur vers la cour, tire le conteneur du plafond et celui de
+   la grue.
+3. Au marchand de Facility 1 Loft, accepte Beautiful Beetles.
+4. Dans l'Incubation Lab, detruis le Regenerador isole et recupere le premier
+   Ornate Beetle.
+5. Dans Dissection, ouvre la vitrine nord, puis la caisse de la salle droite
+   apres le second Regenerador pour le deuxieme Ornate Beetle.
+6. Apres la coupure de courant, prends le Golden Lynx dans l'alcove de la
+   cuisine et le Gold Ingot du tiroir verrouille de Utilities.
+7. Dans la Defensive Line, lis Bug Buster 2 et elimine les trois Novistadors :
+   mur a gauche du premier couvert, tour de garde a droite, mur du dernier
+   bunker. Le Biosensor est recommande.
+8. Detruis les deux tourelles avant d'ouvrir la benne du Gold Bar L.
+9. Dans la Comms Facility, tire le conteneur au plafond du couloir vert puis
+   ouvre la caisse de la salle de monitoring.
+
+OBJETS DE VALEUR 44 A 54
+
+44. Crystal Ore : Amber Storeroom, coffre du coin nord-est.
+45. Alexandrite : conteneur suspendu avant l'ascenseur de la cour.
+46. Red Beryl : conteneur de la grue dans la cour de construction.
+47. Ornate Beetle 1 : Regenerador isole de l'Incubation Lab.
+48. Velvet Blue : Dissection, vitrine de la petite salle nord.
+49. Ornate Beetle 2 : salle de droite de Dissection, caisse du fond gauche.
+50. Golden Lynx : alcove de la cuisine apres la coupure de courant.
+51. Gold Ingot : tiroir verrouille au bout de Utilities, derniere petite cle.
+52. Gold Bar L : benne au centre de la Defensive Line apres destruction des
+    deux tourelles.
+53. Sapphire : couloir vert de la Comms Facility, conteneur argente au plafond.
+54. Ornate Necklace : salle de monitoring apres la grande poursuite, caisse
+    argentee a gauche.
+
+REQUETES DLC 6 ET 7 / 7
+
+- Beautiful Beetles : recupere les deux Ornate Beetles et vends-les.
+- Bug Buster 2 : detruis les 3 Novistadors de la Defensive Line.
+
+SEPARATE WAYS - CHAPITRE 7 : DERNIER PARCOURS
+
+1. Apres l'ascenseur, tire le conteneur au-dessus de la passerelle.
+2. Descends l'escalier et prends le Staff of Royalty dans le coffre a gauche.
+3. Apres l'ascenseur suivant, ouvre le coffre juste avant le marchand.
+4. Dans le dernier tunnel, apres les deux ennemis volants, tire le conteneur
+   difficile a voir au plafond.
+5. Termine le chapitre et conserve la sauvegarde pour la run Professional S+.
+
+OBJETS DE VALEUR 55 A 58
+
+55. Velvet Blue : au-dessus de la passerelle apres le premier ascenseur.
+56. Staff of Royalty : coffre a gauche en bas de l'escalier.
+57. Justitia Statue : coffre a droite avant le marchand, apres le second
+    ascenseur.
+58. Ruby : conteneur du plafond du dernier tunnel, apres les deux ennemis
+    volants.
+
+SAS SEPARATE WAYS STANDARD
+
+- Objets de valeur : 58/58.
+- Requetes : 7/7.
+- Medaillons du DLC : 4 + 5 = 9 medaillons tires.
+- Elite Knife obtenu apres validation des 7 requetes.
+- Sauvegarde de fin conservee avant la run Professional S+.
+
+SEPARATE WAYS PROFESSIONAL S+
+
+CONDITIONS
+
+- Nouvelle partie Professional, pas un chargement de campagne deja terminee.
+- Temps total inferieur a 2 h 30.
+- Dix sauvegardes manuelles maximum.
+- Les armes bonus debloquees dans la campagne principale peuvent etre
+  utilisees. Le Chicago Sweeper avec upgrade exclusive est le chemin le plus
+  simple ; l'Elite Knife est excellent pour les ennemis faibles.
+- En cas de mort, quitte au menu principal puis recharge la sauvegarde
+  manuelle pour ne pas ajouter le temps de la tentative abandonnee.
+
+ROUTE DE 10 SAUVEGARDES DLC
+
+1. Fin du chapitre 1.
+2. Avant le combat de fin du chapitre 2.
+3. Avant le combat du chapitre 3.
+4. Avant la salle des chevaliers du chapitre 4.
+5. Fin du chapitre 4.
+6. Avant la salle du Garrador du chapitre 5.
+7. Avant la grande cible du chapitre 5.
+8. Fin du chapitre 5.
+9. Apres la gondole du chapitre 6.
+10. Avant la section chronometree du chapitre 7.
+
+SUCCES SEPARATE WAYS
+
+- Giant Slayer : terminer l'affrontement du chapitre 3.
+- "It" Kept You Busy : terminer l'affrontement du chapitre 5.
+- Had Enough of Preachers : terminer la confrontation du chapitre 7.
+- Capable Operative : terminer Separate Ways en Standard ou mieux.
+- Skilled Agent : terminer en Hardcore ou mieux.
+- The Perfect Mission : terminer en Professional.
+- Ada the "S+"py : terminer en Professional avec rang S+.
+
+INDEX DES 46 SUCCES STEAM ET CONDITION DE VALIDATION
+
+CAMPAGNE PRINCIPALE - 39
+
+1. Knife Basics : parer une attaque avec un couteau.
+2. My Preferred Piece : ameliorer une arme.
+3. Nice One, Stranger! : terminer une requete du marchand et la valider.
+4. Harpoon Hurler : terminer le combat du lac.
+5. Talk About Near-Death Experience! : sauver Ashley lorsqu'elle est
+   emportee.
+6. Grilled Big Cheese : terminer la confrontation du chapitre 6.
+7. Amateur Shooter : terminer une epreuve du stand de tir.
+8. Revolt Against the Revolting : detruire un Clockwork Castellan.
+9. No Thanks, Bro! : terminer la confrontation de la Salle du Trone.
+10. Overkill : utiliser le canon sur un zealot.
+11. You Used to Be a Good Guy : terminer la confrontation du chapitre 14.
+12. You're Small Time! : terminer la confrontation finale de la campagne.
+13. Promising Agent : terminer la campagne en Standard ou mieux.
+14. A Masterpiece : appliquer une amelioration exclusive.
+15. Shield Your Eyes : tuer 3 ennemis a la fois avec une grenade aveuglante.
+16. Wave Goodbye, Right Hand : vaincre Verdugo.
+17. Two Bugs, One Stone : tuer deux parasites d'un Regenerador avec une balle.
+18. Astute Appraiser : vendre un tresor pour au moins 100 000 pesetas.
+19. Proficient Agent : terminer la campagne en Hardcore ou mieux.
+20. Hope You Like Thrill Rides! : terminer les deux parcours de chariot sans
+    subir de degats.
+21. Smooth Escape : terminer le scooter des mers sans subir de degats.
+22. Trick Shot : detruire 5 cibles du stand de tir avec une seule balle.
+23. Raider : trouver tous les tresors marques de l'Ile en une partie.
+24. Sprinter : terminer la campagne en moins de 8 heures.
+25. Jack of All Trades : terminer les 19 requetes du marchand.
+26. Peerless Agent : terminer la campagne en Professional.
+27. Bandit : trouver tous les tresors marques du Village en une partie.
+28. Revolution Wind-up : detruire les 16 Castellans.
+29. Capacity Compliance : atteindre le sommet de la Clock Tower sans arret
+    de l'ascenseur.
+30. Never Heard It Coming : vaincre un Garrador uniquement au couteau.
+31. You Talk Too Much! : lancer un oeuf dans la bouche de Ramon pendant le
+    combat.
+32. Real Deadeye : obtenir le rang S dans tous les jeux du stand de tir.
+33. Burglar : trouver tous les tresors marques du Chateau en une partie.
+34. S+ Rank Investigator : terminer la campagne en Hardcore avec le rang S+.
+35. Mission Accomplished S+ : terminer la campagne en Standard avec le rang
+    S+.
+36. Frugalist : terminer la campagne sans utiliser d'objet de recuperation.
+37. Gun Fanatic : obtenir les 29 armes comptees par le jeu.
+38. Silent Stranger : terminer la campagne sans parler au marchand.
+39. Minimalist : terminer la campagne uniquement avec couteaux et armes de
+    poing, hors exceptions imposees.
+
+SEPARATE WAYS - 7
+
+40. Giant Slayer : vaincre El Gigante dans Separate Ways, chapitre 3.
+41. "It" Kept You Busy : vaincre Pesanta dans Separate Ways, chapitre 5.
+42. Had Enough of Preachers : vaincre Osmund Saddler dans Separate Ways,
+    chapitre 7.
+43. Capable Operative : terminer Separate Ways en Standard ou mieux.
+44. Skilled Agent : terminer Separate Ways en Hardcore ou mieux.
+45. The Perfect Mission : terminer Separate Ways en Professional.
+46. Ada the "S+"py : terminer Separate Ways en Professional avec le rang S+.
+
+CHECKLIST FINALE - 46 SUCCES STEAM
+
+[ ] 01 - Knife Basics : parer une attaque avec un couteau.
+[ ] 02 - My Preferred Piece : ameliorer une arme.
+[ ] 03 - Nice One, Stranger! : valider une requete du marchand.
+[ ] 04 - Harpoon Hurler : terminer le combat du lac.
+[ ] 05 - Talk About Near-Death Experience! : sauver Ashley emportee.
+[ ] 06 - Grilled Big Cheese : terminer la confrontation du chapitre 6.
+[ ] 07 - Amateur Shooter : terminer une epreuve du stand de tir.
+[ ] 08 - Revolt Against the Revolting : detruire un Castellan.
+[ ] 09 - No Thanks, Bro! : terminer la confrontation de la Salle du Trone.
+[ ] 10 - Overkill : utiliser le canon sur un zealot.
+[ ] 11 - You Used to Be a Good Guy : terminer la confrontation du chapitre 14.
+[ ] 12 - You're Small Time! : terminer la confrontation finale.
+[ ] 13 - Promising Agent : Standard ou mieux.
+[ ] 14 - A Masterpiece : appliquer une amelioration exclusive.
+[ ] 15 - Shield Your Eyes : tuer 3 ennemis avec une grenade aveuglante.
+[ ] 16 - Wave Goodbye, Right Hand : vaincre Verdugo.
+[ ] 17 - Two Bugs, One Stone : tuer 2 parasites en une balle.
+[ ] 18 - Astute Appraiser : vendre un tresor a 100 000 pesetas ou plus.
+[ ] 19 - Proficient Agent : Hardcore ou mieux.
+[ ] 20 - Hope You Like Thrill Rides! : deux chariots sans degats.
+[ ] 21 - Smooth Escape : scooter des mers sans degats.
+[ ] 22 - Trick Shot : 5 cibles avec une seule balle.
+[ ] 23 - Raider : tous les tresors de l'Ile en une partie.
+[ ] 24 - Sprinter : campagne en moins de 8 heures.
+[ ] 25 - Jack of All Trades : 19 requetes du marchand validees.
+[ ] 26 - Peerless Agent : campagne en Professional.
+[ ] 27 - Bandit : tous les tresors du Village en une partie.
+[ ] 28 - Revolution Wind-up : 16 Castellans detruits.
+[ ] 29 - Capacity Compliance : sommet de la Clock Tower sans arret.
+[ ] 30 - Never Heard It Coming : Garrador au couteau uniquement.
+[ ] 31 - You Talk Too Much! : oeuf dans la bouche de Ramon.
+[ ] 32 - Real Deadeye : rang S dans les 12 jeux du stand.
+[ ] 33 - Burglar : tous les tresors du Chateau en une partie.
+[ ] 34 - S+ Rank Investigator : Hardcore S+.
+[ ] 35 - Mission Accomplished S+ : Standard S+.
+[ ] 36 - Frugalist : aucun objet de recuperation.
+[ ] 37 - Gun Fanatic : 29 armes obtenues.
+[ ] 38 - Silent Stranger : aucun dialogue avec le marchand.
+[ ] 39 - Minimalist : couteaux et armes de poing uniquement.
+[ ] 40 - Giant Slayer : El Gigante dans Separate Ways.
+[ ] 41 - "It" Kept You Busy : Pesanta dans Separate Ways.
+[ ] 42 - Had Enough of Preachers : Osmund Saddler dans Separate Ways.
+[ ] 43 - Capable Operative : Separate Ways Standard ou mieux.
+[ ] 44 - Skilled Agent : Separate Ways Hardcore ou mieux.
+[ ] 45 - The Perfect Mission : Separate Ways Professional.
+[ ] 46 - Ada the "S+"py : Separate Ways Professional S+.
+
+VERIFICATION FINALE AVANT DE CONSIDERER LE JEU A 100 %
+
+- Profil Steam : 46/46 succes visibles sur Resident Evil 4.
+- Campagne principale : 39/39 succes et les trois regions de tresors a 100 %.
+- Separate Ways : 7/7 succes, 58 objets de valeur et 7 requetes.
+- Aucun succes ne reste dans le filtre Steam du jeu.
+- Les compteurs internes importants sont captures par une sauvegarde de fin.
+- Les sauvegardes de collecte, restrictions et S+ sont conservees separement.
+- Si un compteur est contradictoire, le succes Steam et le menu Defis font foi ;
+  ne supprime aucune sauvegarde avant d'avoir controle les deux.
+
+SOURCES DE VERIFICATION
+
+- Steam achievements : https://steamcommunity.com/stats/2050650/achievements/
+- Steam store : https://store.steampowered.com/app/2050650/Resident_Evil_4/
+- Campagne et collecte : https://www.powerpyx.com/resident-evil-4-remake-collectibles-locations-guide/
+- Tresors Village : https://www.powerpyx.com/resident-evil-4-remake-all-village-treasures-locations/
+- Tresors Chateau : https://www.powerpyx.com/resident-evil-4-remake-all-castle-treasures-locations/
+- Tresors Ile : https://www.powerpyx.com/resident-evil-4-remake-all-island-treasures-locations/
+- Requetes : https://www.powerpyx.com/resident-evil-4-remake-all-merchant-requests/
+- Castellans : https://www.powerpyx.com/resident-evil-4-remake-all-clockwork-castellans-locations/
+- Armes : https://www.powerpyx.com/resident-evil-4-remake-all-weapons-locations/
+- Pieces : https://www.powerpyx.com/resident-evil-4-remake-all-weapon-parts-locations/
+- Recettes : https://www.powerpyx.com/resident-evil-4-remake-all-crafting-recipes/
+- Puzzles : https://www.powerpyx.com/resident-evil-4-remake-all-puzzles-solutions-guide/
+- Terminaux : https://www.powerpyx.com/resident-evil-4-remake-reroute-power-puzzle-solutions-power-calibration/
+- Stand de tir : https://game.capcom.com/manual/re4/en/steam/page/9/1
+- Separate Ways collecte : https://www.powerpyx.com/resident-evil-4-remake-ada-separate-ways-all-collectible-locations/
+- Separate Ways succes : https://www.powerpyx.com/resident-evil-4-remake-separate-ways-dlc-trophy-guide-roadmap/
 
 REGLE ANTI-SPOILER
 
-Les chapitres et zones servent uniquement de repères de collecte. Les fins,
-morts, identites, boss et consequences ne sont pas decrits.
+Les reperes de chapitres, zones, objets, ennemis et noms de succes sont
+donnes uniquement pour permettre le 100 %. Aucun evenement narratif, twist,
+identite, fin ou consequence n'est raconte dans cette fiche.
