@@ -48,7 +48,7 @@ const makeBlockId = (text: string, index: number) => {
 };
 
 const isUppercaseHeading = (value: string) => {
-  const letters = value.replace(/[^A-Za-zÀ-ÖØ-öø-ÿ]/g, "");
+  const letters = value.replace(/[^\p{L}]/gu, "");
   return (
     letters.length > 2 &&
     letters === letters.toLocaleUpperCase("fr") &&
@@ -57,7 +57,7 @@ const isUppercaseHeading = (value: string) => {
 };
 
 const isNamedHeading = (value: string) =>
-  /^(?:partie|chapitre|acte|épisode|episode|route|ordre|objectif|périmètre|perimetre|garde-fous|garde fous|missables|conditions|checklist|vérification|verification|nettoyage|préparation|preparation|prologue|épilogue|epilogue|campagne|post-game|post game|dlc|succès|succes|fin)\b/i.test(
+  /^(?:partie|chapitre|acte|épisode|episode|route|ordre|objectif|périmètre|perimetre|garde-fous|garde fous|missables|conditions|checklist|vérification|verification|nettoyage|préparation|preparation|prologue|épilogue|epilogue|campagne|post-game|post game|dlc|succès|succes|fin|sources)\b/i.test(
     value,
   );
 
@@ -115,7 +115,7 @@ const parseGuide = (text: string): GuideBlock[] => {
       continue;
     }
 
-    const bullet = line.match(/^(?:[-*•])\s+(.+)$/);
+    const bullet = line.match(/^(?:[-*•])\s+(.+)$/u);
     if (bullet) {
       flushParagraph();
       blocks.push({
@@ -133,18 +133,20 @@ const parseGuide = (text: string): GuideBlock[] => {
 
     if (heading && line.length <= 120) {
       flushParagraph();
-      if (/(?:checklist|liste complete)/i.test(line)) {
+      if (/(?:checklist|liste complète|liste complete)/i.test(line)) {
         finalChecklistMode = true;
       } else if (
         finalChecklistMode &&
-        /^(?:verification|sources|fin du guide)\b/i.test(line)
+        /^(?:verification|vérification|sources|fin du guide)\b/i.test(line)
       ) {
         finalChecklistMode = false;
       }
       blocks.push({
         id: makeBlockId(line, blocks.length),
         kind: numberedHeading ? "subheading" : "heading",
-        text: numberedHeading ? `${line.match(/^\d+(?:\.\d+)*[.)]/)?.[0] ?? ""} ${headingText}` : line,
+        text: numberedHeading
+          ? `${line.match(/^\d+(?:\.\d+)*[.)]/)?.[0] ?? ""} ${headingText}`
+          : line,
       });
       continue;
     }
@@ -236,9 +238,24 @@ export default function GuideReader({
       return blocks;
     }
 
-    return blocks.filter((block) =>
-      normalizeGuideText(block.text).includes(query),
-    );
+    const matchingIndexes = blocks.reduce<number[]>((indexes, block, index) => {
+      if (normalizeGuideText(block.text).includes(query)) {
+        indexes.push(index);
+      }
+      return indexes;
+    }, []);
+    const contextIndexes = new Set(matchingIndexes);
+
+    matchingIndexes.forEach((index) => {
+      for (let cursor = index - 1; cursor >= 0; cursor -= 1) {
+        if (blocks[cursor].kind === "heading" || blocks[cursor].kind === "subheading") {
+          contextIndexes.add(cursor);
+          break;
+        }
+      }
+    });
+
+    return blocks.filter((_, index) => contextIndexes.has(index));
   }, [blocks, query]);
   const outline = useMemo(
     () =>
@@ -250,6 +267,18 @@ export default function GuideReader({
   const completed = checklist.filter(
     (block) => block.checkIndex !== undefined && checked[block.checkIndex],
   ).length;
+  const guideMetrics = useMemo(
+    () => ({
+      routeSections: outline.filter((block) => block.kind === "heading").length,
+      objectives: checklist.length,
+      locationAnchors: blocks.filter((block) =>
+        /\b(?:zone|salle|chapitre|coffre|trésor|tresor|emblème|embleme|collectible|quête|quete|ville|temple|grotte|room)\b/i.test(
+          block.text,
+        ),
+      ).length,
+    }),
+    [blocks, checklist.length, outline],
+  );
 
   const toggleCheck = (index: number) => {
     setChecked((current) => {
@@ -260,7 +289,7 @@ export default function GuideReader({
           JSON.stringify(next),
         );
       } catch {
-        // The guide remains usable if local storage is unavailable.
+        // La fiche reste utilisable si le stockage local est indisponible.
       }
       return next;
     });
@@ -302,8 +331,8 @@ export default function GuideReader({
             <p>{selected.highlight}</p>
             <span className="reader-alert-note">À valider avant de continuer</span>
           </div>
-          </div>
         </div>
+      </div>
 
       <div className="reader-tools">
         <div className="reader-tools-copy">
@@ -340,6 +369,31 @@ export default function GuideReader({
               : "Lecture complète"}
         </span>
       </div>
+
+      {!loading && !error && guideText ? (
+        <div className="reader-vitals" aria-label="Résumé de la fiche">
+          <div className="reader-vital">
+            <span>STRUCTURE</span>
+            <strong>{guideMetrics.routeSections || "—"}</strong>
+            <small>sections de route</small>
+          </div>
+          <div className="reader-vital">
+            <span>OBJECTIFS</span>
+            <strong>{guideMetrics.objectives || "—"}</strong>
+            <small>cases interactives</small>
+          </div>
+          <div className="reader-vital">
+            <span>REPÈRES</span>
+            <strong>{guideMetrics.locationAnchors || "—"}</strong>
+            <small>points détectés</small>
+          </div>
+          <div className="reader-vital reader-vital-accent">
+            <span>FORMAT</span>
+            <strong>SANS SPOILER</strong>
+            <small>parcours guidé</small>
+          </div>
+        </div>
+      ) : null}
 
       {loading ? (
         <div className="reader-paper reader-loading" role="status">
@@ -394,38 +448,58 @@ export default function GuideReader({
               <span>{selected.tag}</span>
               <span>ROUTE SANS SPOILER</span>
             </div>
+            <div className="reader-document-intro">
+              <div>
+                <p className="reader-document-kicker">DOSSIER OPÉRATIONNEL</p>
+                <h3>Un parcours clair, repère après repère.</h3>
+              </div>
+              <span className="reader-document-stamp">GAME NOTE / {selected.count}</span>
+            </div>
             {query && visibleBlocks.length === 0 ? (
               <div className="reader-empty-search">
                 Aucun bloc ne contient « {search} ». Essaie un autre repère.
               </div>
             ) : null}
-            {visibleBlocks.map((block) => {
-              const text = formatText(block.text);
-              if (block.kind === "heading") {
-                return <h3 className="guide-heading" id={block.id} key={block.id}>{text}</h3>;
-              }
-              if (block.kind === "subheading") {
-                return <h4 className="guide-subheading" id={block.id} key={block.id}>{text}</h4>;
-              }
-              if (block.kind === "bullet") {
-                return <p className="guide-bullet" key={block.id}><span aria-hidden="true">→</span>{text}</p>;
-              }
-              if (block.kind === "check" && block.checkIndex !== undefined) {
-                const isChecked = Boolean(checked[block.checkIndex]);
-                return (
-                  <label className={`guide-check ${isChecked ? "is-checked" : ""}`} key={block.id}>
-                    <input
-                      type="checkbox"
-                      checked={isChecked}
-                      onChange={() => toggleCheck(block.checkIndex as number)}
-                    />
-                    <span className="guide-check-box" aria-hidden="true" />
-                    <span>{text}</span>
-                  </label>
-                );
-              }
-              return <p className="guide-paragraph" key={block.id}>{text}</p>;
-            })}
+            {(() => {
+              let visibleHeadingNumber = 0;
+              return visibleBlocks.map((block) => {
+                const text = formatText(block.text);
+                if (block.kind === "heading") {
+                  visibleHeadingNumber += 1;
+                  const number = String(visibleHeadingNumber).padStart(2, "0");
+                  return (
+                    <div className="guide-heading-row" id={block.id} key={block.id}>
+                      <span className="guide-heading-index" aria-hidden="true">{number}</span>
+                      <div>
+                        <p className="guide-heading-eyebrow">SÉQUENCE {number}</p>
+                        <h3 className="guide-heading">{text}</h3>
+                      </div>
+                    </div>
+                  );
+                }
+                if (block.kind === "subheading") {
+                  return <h4 className="guide-subheading" id={block.id} key={block.id}>{text}</h4>;
+                }
+                if (block.kind === "bullet") {
+                  return <p className="guide-bullet" key={block.id}><span aria-hidden="true">→</span>{text}</p>;
+                }
+                if (block.kind === "check" && block.checkIndex !== undefined) {
+                  const isChecked = Boolean(checked[block.checkIndex]);
+                  return (
+                    <label className={`guide-check ${isChecked ? "is-checked" : ""}`} key={block.id}>
+                      <input
+                        type="checkbox"
+                        checked={isChecked}
+                        onChange={() => toggleCheck(block.checkIndex as number)}
+                      />
+                      <span className="guide-check-box" aria-hidden="true" />
+                      <span>{text}</span>
+                    </label>
+                  );
+                }
+                return <p className="guide-paragraph" key={block.id}>{text}</p>;
+              });
+            })()}
           </article>
         </div>
       )}
