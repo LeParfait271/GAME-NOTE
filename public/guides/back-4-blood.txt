@@ -41,6 +41,15 @@ GARDE-FOUS ONLINE ET DIFFICULTE
 - Les trois DLC sont melanges dans la liste Steam : les regroupe ici par acte
   et par extension pour eviter de perdre un secret.
 
+MISSABLES ET FENETRES
+
+- Aucun succes de campagne n'est definitivement missable : les actes et les
+  cartes peuvent etre rejoues. Considere toutefois chaque objectif de groupe
+  comme missable pour la session et reserve-lui un run dedie.
+- Les succes de Swarm, Trial of the Worm et les objectifs de difficulte ne se
+  valident pas en les supposant faits : controle le message de succes avant de
+  quitter la partie.
+
 ROUTE CHRONOLOGIQUE
 
 00 - FORT HOPE ET PREMIERE PARTIE

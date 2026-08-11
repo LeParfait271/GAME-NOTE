@@ -36,6 +36,15 @@ GARDE-FOUS ONLINE
 - Les medailles Survival sont plus stables avec un joueur qui garde le point de
   spawn, un joueur qui couvre les ressources et un joueur qui gere le Tank.
 
+MISSABLES ET FENETRES
+
+- Les succes de campagne et de mode restent rejouables : il n'y a pas de
+  succes definitivement missable dans la progression. Traite chaque objectif
+  de run sans degats, Expert ou Versus comme missable pour la session.
+- Avant de quitter un chapitre ou un salon, verifie l'apparition du succes :
+  les objectifs de campagne, d'Infected et de Versus ne se rattrapent pas
+  toujours dans la meme partie.
+
 ROUTE CHRONOLOGIQUE
 
 00 - INTRODUCTION ET COMPTEURS

@@ -37,6 +37,16 @@ GARDE-FOUS ONLINE ET EVENEMENTS
 - Pour les campagnes sans degats, sans Witch ou sans mort, desactive les mods
   qui changent les spawns et garde les versions officielles des cartes.
 
+MISSABLES ET FENETRES
+
+- Les campagnes, modes et mutations peuvent etre relances : aucun succes de
+  progression classique n'est definitivement missable. Les objectifs de run
+  parfaite et de Versus sont toutefois missables pour la session ; dedie-leur
+  un salon et une sauvegarde de depart.
+- Les succes lies aux week-ends gratuits, aux evenements et aux anciennes
+  distributions sont des fenetres externes : ne les marque pas obtenus ou
+  impossibles sans verifier leur disponibilite actuelle.
+
 ROUTE CHRONOLOGIQUE
 
 00 - FORT HOPE ET COMPTEURS DE BASE
