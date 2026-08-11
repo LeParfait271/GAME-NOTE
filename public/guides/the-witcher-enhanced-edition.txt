@@ -1,0 +1,225 @@
+THE WITCHER: ENHANCED EDITION DIRECTOR'S CUT
+GUIDE SPECIAL CHRONOLOGIQUE - SANS SPOILER
+
+Version de travail : 11 aout 2026
+
+Cette fiche couvre l'edition Steam AppID 20900. L'edition ne propose pas de
+liste Steam Achievements : le total est donc 0/0. Le 100 % utile couvre le
+prologue, les cinq chapitres, l'epilogue, les quetes secondaires, contrats,
+trophees, livres, alchimie, jeux et les deux modules officiels de l'Enhanced
+Edition : The Price of Neutrality et Side Effects.
+
+OBJECTIF REEL
+
+[ ] Prologue, chapitres I a V et epilogue termines.
+[ ] Toutes les quetes et contrats disponibles avant chaque transition valides.
+[ ] Bestiaire, trophées de contrats, livres, recettes, ingredients et signes
+    controles.
+[ ] Dice Poker, fistfights, bras de fer, courses et activites secondaires.
+[ ] Branches de factions sauvegardees avant les choix incompatibles.
+[ ] The Price of Neutrality et Side Effects termines.
+[ ] 0/0 succes Steam : aucun faux 100 % n'est annonce.
+
+GARDE-FOUS ET MISSABLES
+
+- Fais une sauvegarde manuelle au debut de chaque chapitre, avant la derniere
+  quete de zone et avant toute mission qui demande de choisir un camp. Le jeu
+  ferme plusieurs portes lors des transitions.
+- Ne valide pas la quete principale de sortie d'un chapitre tant que le
+  journal contient un contrat, un combat de poings, une partie de des, une
+  course, un livre ou un trophée non coche.
+- Achete les livres de monstres, lis-les puis marque les ingredients dans le
+  bestiaire. Un livre vendu ou un PNJ mort peut rendre un contrat plus long a
+  retrouver, meme si la campagne reste terminable.
+- Les decisions de neutralite, de l'Ordre, des Scoia'tael et de la politique
+  de Vizima ne sont pas cumulables dans la meme sauvegarde. Garde un slot de
+  branche avant les discussions de faction.
+- Les quetes de dés et de boxe sont attribuees a des PNJ de zone. Defie-les
+  avant de commencer la derniere mission d'un chapitre, puis reviens apres
+  chaque gain pour verifier le journal.
+- Les modules officiels sont des aventures separees. Lance-les depuis le menu
+  principal ou apres la campagne afin de ne pas confondre leurs sauvegardes
+  avec celles des cinq chapitres.
+
+PREPARATION ET SYSTEMES
+
+- Garde de l'argent pour les livres, lames, huiles, ingredients, boissons et
+  parties de des. Vendre un livre rare avant lecture est une mauvaise economie.
+- Utilise l'argent sur les entrainements de combat, les potions et les huiles
+  plutot que sur les cadeaux tant que le bestiaire n'est pas rempli.
+- A chaque nouveau campement, active l'alchimie, lis les recettes disponibles,
+  fabrique les potions de soin et d'endurance, puis garde une place libre pour
+  les ingredients de contrat.
+- Les signes et les styles de combat ont tous une utilite. Teste Aard, Igni,
+  Quen, Yrden et Axii au fil des chapitres ; garde une sauvegarde avant les
+  investissements de talents si tu changes de style.
+
+ORDRE CHRONOLOGIQUE
+
+00 - PROLOGUE : KAER MORHEN
+
+- Fais le tutoriel de combat, recupere les armes, lis les livres de monstres et
+  parle a Vesemir, Triss et Berengar avant de traverser la forteresse.
+- Termine A Potion for Triss et Berengar's Secret quand elles apparaissent.
+  Fouille les salles, l'armurerie, les coffres et les zones d'entrainement.
+- Valide Defending Kaer Morhen sans depenser toutes tes potions. Le prologue
+  enseigne les styles, les signes, l'alchimie et les sauvegardes de combat.
+- [ ] Potion ; [ ] Berengar ; [ ] livres ; [ ] armes ; [ ] defense ;
+  [ ] sauvegarde avant la transition.
+
+01 - CHAPITRE I : OUTSKIRTS DE VIZIMA
+
+- Explore les faubourgs, la taverne, la digue, le cimetiere, la crypte, la
+  grotte et les marais. Parle a chaque habitant avant d'accuser qui que ce soit.
+- Ferme The Beast, The Viziman Connection, The Secret Garden, The Monster of
+  the Lake et The Lost Lamb dans l'ordre du journal.
+- Fais les contrats de barghests, drowners, ghouls, echinops et autres monstres
+  donnes par les habitants. Lis le livre correspondant avant de tuer la cible.
+- Termine The Rat, The Crypt, A Game of Dice et les combats de poings de la
+  taverne. Reviens au marchand d'armes et au forgeron pour les recettes.
+- Fais une sauvegarde avant la mission qui ouvre la ville. Tout le contenu des
+  faubourgs doit etre coche avant de traverser.
+
+02 - CHAPITRE II : QUARTIER DU TEMPLE
+
+- Visite l'auberge, le cimetiere, la banque, la prison, les boutiques, la
+  clinique et les maisons du quartier. Demande tous les indices avant de
+  choisir un interlocuteur.
+- Traite The Unforgiven, The Vizima Confidential, Anatomy of a Crime, The
+  Sentry et A Mysterious Tower avec une sauvegarde avant les choix.
+- Termine les missions du Royal Huntsman, les contrats du quartier, les
+  monstres de la crypte, les combats de poings, les parties de dés et les
+  livraisons de livres.
+- Explore les marais, les ruines et la tour quand l'acces est ouvert. Les
+  monolithes, cles et objets lies aux teleporteurs doivent etre notes avant
+  chaque retour en ville.
+- Ferme les petites missions de marchand, enfant, fosse, non-humain et garde
+  avant de lancer la resolution du chapitre.
+- [ ] Journal du quartier ; [ ] contrats ; [ ] tour ; [ ] cimetiere ;
+  [ ] dés ; [ ] boxe ; [ ] livres ; [ ] faction sauvegardee.
+
+03 - CHAPITRE III : QUARTIER MARCHAND ET MARAIS
+
+- Commence par les boutiques, les banques, le quartier marchand, les egouts et
+  les ruines. Les quetes de faction s'ouvrent en plusieurs etapes : ne livre
+  pas un indice avant d'avoir parle aux deux camps.
+- Traite The Source, The Gold Rush, The Lock and Key, The Sins of the Fathers
+  et les quetes liees a la tour dans l'ordre du journal.
+- Fais les contrats du marais et du quartier : wyverns, cockatrices,
+  kikimores, drowners et plantes doivent etre lis dans le bestiaire avant
+  l'affrontement.
+- Complete les courses, les combats a mains nues, le poker aux dés et les
+  rencontres de taverne. Les joueurs de dés changent de lieu quand leur serie
+  avance.
+- Le chapitre offre des choix de faction importants. Fais une sauvegarde
+  "avant pacte" avant de remettre un objet ou de confirmer une alliance.
+- Avant la sortie, verifie que les trophées de monstres, les livres et les
+  contrats du marais ne sont pas encore marques en attente.
+
+04 - CHAPITRE IV : LAC ET CAMPAGNE
+
+- Explore le village, le lac, les champs, la chapelle, les caves, le moulin,
+  les maisons et les quais. Les distances sont longues : fais les quetes par
+  boucle geographique.
+- Traite The Lady of the Lake, The Heat of the Day, The Drowned Dead, The
+  Wedding, The Wolf et les missions du Peller avec une sauvegarde de zone.
+- Termine les contrats du lac, les noyeurs, les fantomes, les champs et les
+  monstres de grotte. Ramasse les herbes rares et lis les livres avant de
+  quitter les huttes.
+- Joue les parties de des, les combats de poings et les courses de la zone.
+  Les objets de cadeaux et d'alchimie sont des ressources de quetes : garde-les
+  jusqu'a la validation du journal.
+- Controle les autels, les caves et les teleporteurs avant la quete de sortie.
+  [ ] lac ; [ ] champs ; [ ] Peller ; [ ] mariage ; [ ] contrats ; [ ]
+  activites ; [ ] ingredients.
+
+05 - CHAPITRE V : VIEILLE VIZIMA
+
+- Fais une sauvegarde au campement, puis explore les rues, les maisons,
+  l'hopital, les egouts, les ruines et les zones de guerre. Les groupes
+  ennemis peuvent rouvrir des chemins mais ferment aussi des dialogues.
+- Termine The Prodigal Son, The Great Escape, les missions de faction et la
+  chaine d'enquete dans l'ordre des objectifs. Ne choisis pas de camp sans le
+  slot reserve.
+- Fais tous les contrats de la vieille ville, les quetes de soldats, les
+  survivants, les cimetiere et les monstres. Garde une huile d'argent, une
+  potion de soin et des bombes pour les arenas longues.
+- Le chapitre V ferme plusieurs lieux. Avant la derniere mission, verifie les
+  livres, trophées, recettes, des, boxe, courses, objets de quete et dialogues.
+- Les noms des personnes, morts et resultats de branche ne sont pas donnes ici.
+
+06 - EPILOGUE ET FIN DE CAMPAGNE
+
+- Fais le tour des inventaires, de l'alchimie, des potions et des armes avant
+  la derniere zone. Garde le slot de chapitre V intact.
+- Suis les objectifs de l'epilogue sans ouvrir de page de soluce narrative.
+  Le guide indique seulement la route ; il ne revele ni identite, ni fin, ni
+  trahison, ni consequence.
+- Apres les credits, retourne au menu principal pour lancer les deux aventures
+  premium, puis conserve ta sauvegarde de campagne pour les relectures.
+
+07 - MODULE OFFICIEL : THE PRICE OF NEUTRALITY
+
+- Lance le module separe depuis le menu. Explore Kaer Morhen et les environs,
+  parle a tous les personnages, lis les livres et termine les objectifs
+  secondaires avant la mission de sortie.
+- Fais les combats, les dialogues et les fouilles dans la boucle geographique.
+  Garde une potion de soin et une huile pour le dernier secteur.
+- [ ] Personnages ; [ ] quetes ; [ ] livres ; [ ] coffres ; [ ] module termine.
+
+08 - MODULE OFFICIEL : SIDE EFFECTS
+
+- Lance Side Effects apres Price of Neutrality. Explore les quartiers, les
+  boutiques et les lieux secondaires avant de remettre un objet de mission.
+- Termine les contrats, les dialogues, les ingredients et les affrontements.
+  Fais une sauvegarde au debut du module et une avant sa resolution.
+- [ ] Journal complet ; [ ] objets ; [ ] ingredients ; [ ] coffres ; [ ] module.
+
+COMPLETION SYSTEMES
+
+[ ] Bestiaire lu pour chaque contrat.
+[ ] Trophées de monstres recuperes et remis au bon donneur.
+[ ] Livres, formules et plantes rares collectes.
+[ ] Signes, styles, talents et alchimie utilises.
+[ ] Des poker : chaque serie de joueurs terminee par zone.
+[ ] Fistfights, bras de fer et courses termines.
+[ ] Marchands, forgerons, herboristes, auberges et teleporteurs visites.
+[ ] Quetes neutres, Ordre et Scoia'tael sauvegardees sur les branches souhaitees.
+[ ] Price of Neutrality et Side Effects termines.
+
+ONLINE, DLC ET CONTENU COMMUNAUTAIRE
+
+- La fiche Steam est solo et ne contient pas de succes Steam. Il n'y a pas de
+  parcours online a ajouter au 0/0.
+- L'Enhanced Edition comprend officiellement The Price of Neutrality et Side
+  Effects. Les modules communautaires du patch 1.5, l'editeur D'jinni et les
+  aventures installees a la main sont hors perimetre, sauf si tu les ajoutes
+  explicitement au catalogue.
+
+CHECKLIST FINALE
+
+[ ] Prologue ; chapitres I, II, III, IV, V ; epilogue.
+[ ] Toutes les quetes de zone et contrats avant chaque transition.
+[ ] Livres, formules, trophées, alchimie, des, boxe et courses.
+[ ] Sauvegardes de branches de faction conservees.
+[ ] Price of Neutrality et Side Effects.
+[ ] 0/0 succes Steam confirme ; aucun online ou DLC autonome a ajouter.
+
+SOURCES DE CONTROLE
+
+- Fiche Steam officielle, AppID 20900 :
+  https://store.steampowered.com/app/20900/The_Witcher_Enhanced_Edition_Directors_Cut/
+- Fiche SteamDB de l'edition et AppID :
+  https://steamdb.info/app/20900/info/
+- Verification de l'absence de succes Steam :
+  https://steamcommunity.com/app/20900/discussions/0/2632849569463081169/
+- Liste des quetes par chapitre :
+  https://witcher-games.fandom.com/wiki/The_Witcher_quests
+- Walkthrough Enhanced Edition, contrats et quetes :
+  https://www.gamebanshee.com/thewitcher/walkthrough.php
+- Support CD PROJEKT RED et patch Enhanced Edition :
+  https://support.cdprojektred.com/en/witcher-1/pc/sp-technical/issue/582/enhanced-edition-patch-how-to
+- Contenu officiel et modules premium :
+  https://witcher-games.fandom.com/wiki/The_Witcher%3A_Enhanced_Edition
+
+FIN DU GUIDE SPECIAL - SANS SPOILER
