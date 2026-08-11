@@ -1109,3 +1109,36 @@ conditions difficiles ; elles ne justifient jamais une copie mot a mot.
   que les trois AppID Enhanced exposent respectivement 44, 43 et 47 succes.
   Les routes gardent les sauvegardes avant les transitions sensibles, les
   factions et les conclusions, sans reproduire les revelations du scenario.
+
+## BORDERLANDS
+
+- Succes officiels Borderlands 2, AppID 49520 :
+  https://steamcommunity.com/stats/49520/achievements
+- Fiche Steam Borderlands 2 :
+  https://store.steampowered.com/app/49520/Borderlands_2/
+- Manuel PC Borderlands 2 :
+  https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/49520/manuals/BL2_PC_Long_ENG_ManInt_081712_HighRes.pdf
+- Roadmap Borderlands 2 et missables :
+  https://steamcommunity.com/sharedfiles/filedetails/?id=2616108921
+- Guide Borderlands 2 100 % DLC et succes :
+  https://steamcommunity.com/sharedfiles/filedetails/?id=1295175782
+- Succes officiels Borderlands GOTY original, AppID 8980 :
+  https://steamcommunity.com/stats/8980/achievements
+- Fiche Steam Borderlands GOTY original :
+  https://store.steampowered.com/app/8980/Borderlands_Game_of_the_Year/
+- Succes officiels Borderlands GOTY Enhanced, AppID 729040 :
+  https://steamcommunity.com/stats/729040/achievements
+- Fiche Steam Borderlands GOTY Enhanced :
+  https://store.steampowered.com/app/729040/Borderlands_Game_of_the_Year_Enhanced/
+- Manuel PC Borderlands original :
+  https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/8980/manuals/Borderlands%20PC%20final.pdf
+- Guide commun Borderlands GOTY et Enhanced, campagne et quatre DLC :
+  https://steamcommunity.com/sharedfiles/filedetails/?id=3402245409
+- Succes officiels Borderlands: The Pre-Sequel, AppID 261640 :
+  https://steamcommunity.com/stats/261640/achievements
+- Fiche Steam Borderlands: The Pre-Sequel :
+  https://store.steampowered.com/app/261640/Borderlands_The_PreSequel/
+- Roadmap Borderlands: The Pre-Sequel, missables et DLC :
+  https://steamcommunity.com/sharedfiles/filedetails/?id=2457396623
+- Liste de controle des succes Pre-Sequel :
+  https://www.trueachievements.com/game/Borderlands-The-PreSequel/achievements

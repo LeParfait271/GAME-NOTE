@@ -113,6 +113,10 @@
     { "id": "stalker-clear-sky", "appId": 20510, "steamAchievements": 0, "guideType": "special-no-steam-achievements-enhanced-companion", "source": "https://steamdb.info/app/20510/info/" },
     { "id": "stalker-clear-sky-enhanced", "appId": 2427420, "steamAchievements": 43, "guideType": "100-steam-enhanced", "source": "https://steamcommunity.com/stats/2427420/achievements" },
     { "id": "stalker-call-of-pripyat", "appId": 41700, "steamAchievements": 0, "guideType": "special-no-steam-achievements-enhanced-companion", "source": "https://steamdb.info/app/41700/info/" },
-    { "id": "stalker-call-of-pripyat-enhanced", "appId": 2427430, "steamAchievements": 47, "guideType": "100-steam-enhanced", "source": "https://steamcommunity.com/stats/2427430/achievements" }
+    { "id": "stalker-call-of-pripyat-enhanced", "appId": 2427430, "steamAchievements": 47, "guideType": "100-steam-enhanced", "source": "https://steamcommunity.com/stats/2427430/achievements" },
+    { "id": "borderlands-2", "appId": 49520, "steamAchievements": 75, "guideType": "100-steam-plus-dlc-coop", "source": "https://steamcommunity.com/stats/49520/achievements" },
+    { "id": "borderlands-goty", "appId": 8980, "steamAchievements": 80, "guideType": "100-steam-plus-dlc-coop", "source": "https://steamcommunity.com/stats/8980/achievements" },
+    { "id": "borderlands-goty-enhanced", "appId": 729040, "steamAchievements": 80, "guideType": "100-steam-plus-dlc-enhanced", "source": "https://steamcommunity.com/stats/729040/achievements" },
+    { "id": "borderlands-the-pre-sequel", "appId": 261640, "steamAchievements": 63, "guideType": "100-steam-plus-dlc-missables", "source": "https://steamcommunity.com/stats/261640/achievements" }
   ]
 }

@@ -1797,6 +1797,70 @@ const guides: Guide[] = [
       "A surveiller : Pinocchio avant Courier of Justice, les caches de Zaton et la sauvegarde avant Kindergarten.",
     meta: ["47/47 Steam", "6 outils", "Sans spoiler"],
   },
+  {
+    id: "borderlands-2",
+    steamAppId: 49520,
+    title: "Borderlands 2",
+    eyebrow: "Gearbox Software",
+    subtitle: "Pandore, campagne, defis et cinq DLC dans l'ordre.",
+    count: "75 succes Steam",
+    file: "borderlands-2.txt",
+    accent: "coral",
+    tag: "Guide 100 % Steam",
+    description:
+      "Route complete, missions secondaires, lieux, classes, raids et cinq DLC sans spoiler.",
+    highlight:
+      "A surveiller : Did It All, les choix Tiny Tina et Commander Lilith, Haderax et les actions de classe.",
+    meta: ["75/75 Steam", "5 DLC", "Coop a verifier"],
+  },
+  {
+    id: "borderlands-goty",
+    steamAppId: 8980,
+    title: "Borderlands Game of the Year",
+    eyebrow: "Gearbox Software",
+    subtitle: "Pandora et les quatre extensions dans l'ordre.",
+    count: "80 succes Steam",
+    file: "borderlands-goty.txt",
+    accent: "gold",
+    tag: "Guide 100 % Steam",
+    description:
+      "Route de la campagne, missions, quatre DLC, arenas, collectibles et Crawmerax sans spoiler.",
+    highlight:
+      "A surveiller : les missions coop, les kits Claptrap, les grandes arenas et le niveau 61.",
+    meta: ["80/80 Steam", "4 DLC", "Coop requis"],
+  },
+  {
+    id: "borderlands-goty-enhanced",
+    steamAppId: 729040,
+    title: "Borderlands Game of the Year Enhanced",
+    eyebrow: "Gearbox Software",
+    subtitle: "Pandora Enhanced, quatre DLC et 80 succes dans l'ordre.",
+    count: "80 succes Steam",
+    file: "borderlands-goty-enhanced.txt",
+    accent: "blue",
+    tag: "Guide 100 % Steam",
+    description:
+      "Fiche Enhanced autonome, route complete, collectibles, arenas et Crawmerax sans spoiler.",
+    highlight:
+      "A surveiller : AppID Enhanced distinct, les kits Claptrap, les missions coop et le niveau 61.",
+    meta: ["80/80 Steam", "4 DLC", "Enhanced"],
+  },
+  {
+    id: "borderlands-the-pre-sequel",
+    steamAppId: 261640,
+    title: "Borderlands: The Pre-Sequel",
+    eyebrow: "2K Australia / Gearbox",
+    subtitle: "Elpis, missions, Grinder et DLC dans l'ordre.",
+    count: "63 succes Steam",
+    file: "borderlands-the-pre-sequel.txt",
+    accent: "coral",
+    tag: "Guide 100 % Steam",
+    description:
+      "Route complete, missions secondaires, lieux, classes, coop et trois DLC sans spoiler.",
+    highlight:
+      "A surveiller : Who You Gonna Call?, Guardian Guardian, Wheely Fast et les missions de lancement.",
+    meta: ["63/63 Steam", "3 DLC", "3 missables"],
+  },
 ];
 
 const steamHeaderUrl = (appId: number) =>

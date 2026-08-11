@@ -110,6 +110,28 @@ soluce chronologique classique n'apporterait rien.
 - Fable III (guide special sans succes Steam ; objectifs GFWL hors profil Steam)
 - The Witcher: Enhanced Edition (guide special sans succes Steam)
 
+### Borderlands
+
+- Borderlands 2 — guide publie : 75/75 succes Steam, 5 DLC et coop a verifier
+- Borderlands Game of the Year — guide publie : AppID 8980, 80/80 succes Steam et 4 DLC
+- Borderlands Game of the Year Enhanced — guide publie : AppID 729040, 80/80 succes Steam et 4 DLC
+- Borderlands: The Pre-Sequel — guide publie : 63/63 succes Steam, 3 DLC et 3 missables
+
+### S.T.A.L.K.E.R. : editions originales et Enhanced
+
+- S.T.A.L.K.E.R.: Shadow of Chernobyl — guide publie : AppID original 4500,
+  0/0 succes Steam
+- S.T.A.L.K.E.R.: Shadow of Chornobyl - Enhanced Edition — guide publie :
+  44/44 succes Steam
+- S.T.A.L.K.E.R.: Clear Sky — guide publie : AppID original 20510, 0/0
+  succes Steam
+- S.T.A.L.K.E.R.: Clear Sky - Enhanced Edition — guide publie : 43/43
+  succes Steam
+- S.T.A.L.K.E.R.: Call of Pripyat — guide publie : AppID original 41700, 0/0
+  succes Steam
+- S.T.A.L.K.E.R.: Call of Prypiat - Enhanced Edition — guide publie : 47/47
+  succes Steam
+
 ## Futurs guides chronologiques (`planned`)
 
 ### Final Fantasy et RPG proches
@@ -124,10 +146,6 @@ soluce chronologique classique n'apporterait rien.
 
 ### BioShock, Borderlands et FPS à campagne
 
-- Borderlands 2
-- Borderlands GOTY
-- Borderlands GOTY Enhanced — variante à contrôler
-- Borderlands: The Pre-Sequel
 - Command & Conquer Remastered Collection
 - DOOM 3: BFG Edition
 - Duke Nukem Forever
@@ -172,21 +190,6 @@ soluce chronologique classique n'apporterait rien.
 - Homefront
 - Max Payne 3 — succès online à auditer
 - Mortal Kombat X — online à séparer
-
-### S.T.A.L.K.E.R. : editions originales et Enhanced
-
-- S.T.A.L.K.E.R.: Shadow of Chernobyl — guide publie : AppID original 4500,
-  0/0 succes Steam
-- S.T.A.L.K.E.R.: Shadow of Chornobyl - Enhanced Edition — guide publie :
-  44/44 succes Steam
-- S.T.A.L.K.E.R.: Clear Sky — guide publie : AppID original 20510, 0/0
-  succes Steam
-- S.T.A.L.K.E.R.: Clear Sky - Enhanced Edition — guide publie : 43/43
-  succes Steam
-- S.T.A.L.K.E.R.: Call of Pripyat — guide publie : AppID original 41700, 0/0
-  succes Steam
-- S.T.A.L.K.E.R.: Call of Prypiat - Enhanced Edition — guide publie : 47/47
-  succes Steam
 
 ### Star Wars et autres campagnes
 

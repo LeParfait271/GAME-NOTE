@@ -119,6 +119,10 @@
     { "id": "stalker-clear-sky", "title": "S.T.A.L.K.E.R.: Clear Sky", "scope": "special", "status": "draft", "file": "public/guides/stalker-clear-sky.txt", "reason": "L'AppID Steam original 20510 n'expose pas de succes : guide de campagne, factions, flash drives et artefacts." },
     { "id": "stalker-clear-sky-enhanced", "title": "S.T.A.L.K.E.R.: Clear Sky - Enhanced Edition", "scope": "full-guide", "status": "draft", "file": "public/guides/stalker-clear-sky-enhanced.txt" },
     { "id": "stalker-call-of-pripyat", "title": "S.T.A.L.K.E.R.: Call of Pripyat", "scope": "special", "status": "draft", "file": "public/guides/stalker-call-of-pripyat.txt", "reason": "L'AppID Steam original 41700 n'expose pas de succes : guide de campagne, outils, caches et route Enhanced separee." },
-    { "id": "stalker-call-of-pripyat-enhanced", "title": "S.T.A.L.K.E.R.: Call of Prypiat - Enhanced Edition", "scope": "full-guide", "status": "draft", "file": "public/guides/stalker-call-of-pripyat-enhanced.txt" }
+    { "id": "stalker-call-of-pripyat-enhanced", "title": "S.T.A.L.K.E.R.: Call of Prypiat - Enhanced Edition", "scope": "full-guide", "status": "draft", "file": "public/guides/stalker-call-of-pripyat-enhanced.txt" },
+    { "id": "borderlands-2", "title": "Borderlands 2", "scope": "full-guide", "status": "draft", "file": "public/guides/borderlands-2.txt" },
+    { "id": "borderlands-goty", "title": "Borderlands Game of the Year", "scope": "full-guide", "status": "draft", "file": "public/guides/borderlands-goty.txt" },
+    { "id": "borderlands-goty-enhanced", "title": "Borderlands Game of the Year Enhanced", "scope": "full-guide", "status": "draft", "file": "public/guides/borderlands-goty-enhanced.txt" },
+    { "id": "borderlands-the-pre-sequel", "title": "Borderlands: The Pre-Sequel", "scope": "full-guide", "status": "draft", "file": "public/guides/borderlands-the-pre-sequel.txt" }
   ]
 }
