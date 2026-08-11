@@ -107,6 +107,7 @@ const requiredSourceFiles = [
   "A_LIRE_EN_PREMIER.md",
   "GAME_NOTE_RULES.md",
   "app/page.tsx",
+  "app/GuideReader.tsx",
   "app/layout.tsx",
   "app/globals.css",
   "app/pwa-register.tsx",
@@ -132,6 +133,7 @@ for (const file of requiredSourceFiles) {
 }
 
 const page = await readText("app/page.tsx");
+const reader = await readText("app/GuideReader.tsx");
 const layout = await readText("app/layout.tsx");
 const stylesheet = await readText("app/globals.css");
 const serviceWorkerSource = await readText("public/service-worker.js");
@@ -170,8 +172,9 @@ unique(pageFiles, "app/page.tsx fichiers");
 if (page.length !== 0 && (page.match(/const guides\s*:/g) ?? []).length !== 1) {
   fail("app/page.tsx: plusieurs tableaux guides détectés.");
 }
-if ((page.match(/className="reader-paper"/g) ?? []).length !== 1) {
-  fail("app/page.tsx: lecteur reader-paper absent ou dupliqué.");
+if ((reader.match(/className="reader-cover"/g) ?? []).length !== 1 ||
+    (reader.match(/className="reader-layout"/g) ?? []).length !== 1) {
+  fail("app/GuideReader.tsx: fiche premium ou mise en page du lecteur absente ou dupliquée.");
 }
 if ((page.match(/export default function Home/g) ?? []).length !== 1) {
   fail("app/page.tsx: export Home absent ou dupliqué.");

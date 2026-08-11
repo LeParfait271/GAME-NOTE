@@ -1,6 +1,7 @@
 "use client";
 
 import { useEffect, useMemo, useRef, useState } from "react";
+import GuideReader from "./GuideReader";
 
 type Guide = {
   id: string;
@@ -3019,10 +3020,8 @@ function scrollToReader(
 
 export default function Home() {
   const [selectedId, setSelectedId] = useState("expedition-33");
-  const [guideText, setGuideText] = useState("");
   const [search, setSearch] = useState("");
   const [catalogSearch, setCatalogSearch] = useState("");
-  const [loading, setLoading] = useState(true);
   const [favorites, setFavorites] = useState<string[]>([]);
   const [favoritesOnly, setFavoritesOnly] = useState(false);
   const [theme, setTheme] = useState<Theme>("light");
@@ -3166,59 +3165,6 @@ export default function Home() {
     return () => window.removeEventListener("keydown", handleKeyboardShortcut);
   }, []);
 
-  useEffect(() => {
-    const controller = new AbortController();
-
-    fetch("/guides/" + selected.file, {
-      signal: controller.signal,
-      cache: "no-store",
-    })
-      .then((response) => {
-        if (!response.ok) {
-          throw new Error("Guide indisponible");
-        }
-        return response.text();
-      })
-      .then((text) => setGuideText(text))
-      .catch((error: Error) => {
-        if (error.name !== "AbortError") {
-          setGuideText(
-            "Ce guide n’a pas pu être chargé. Télécharge le fichier TXT depuis le bouton ci-dessus.",
-          );
-        }
-      })
-      .finally(() => {
-        if (!controller.signal.aborted) {
-          setLoading(false);
-        }
-      });
-
-    return () => controller.abort();
-  }, [selected.file]);
-
-  const normalizedSearch = normalizeCatalogText(search.trim());
-  const matchingLines = useMemo(() => {
-    if (!normalizedSearch) {
-      return guideText.split(/\r?\n/).length;
-    }
-
-    return guideText
-      .split(/\r?\n/)
-      .filter((line) => normalizeCatalogText(line).includes(normalizedSearch))
-      .length;
-  }, [guideText, normalizedSearch]);
-
-  const visibleText = useMemo(() => {
-    if (!normalizedSearch) {
-      return guideText;
-    }
-
-    return guideText
-      .split(/\r?\n/)
-      .filter((line) => normalizeCatalogText(line).includes(normalizedSearch))
-      .join("\n");
-  }, [guideText, normalizedSearch]);
-
   const toggleFavorite = (id: string) => {
     setFavorites((current) =>
       current.includes(id)
@@ -3337,7 +3283,7 @@ export default function Home() {
       {!isOnline ? (
         <div className="offline-banner" role="status" aria-live="polite">
           <span aria-hidden="true">●</span>
-          Tu es hors ligne : les guides déjà ouverts et les TXT restent accessibles.
+          Hors ligne : les fiches déjà ouvertes restent accessibles.
         </div>
       ) : null}
 
@@ -3350,8 +3296,8 @@ export default function Home() {
             <em>Ne rate rien.</em>
           </h1>
           <p className="hero-intro">
-            Des soluces chronologiques, pensées pour avancer dans le bon ordre
-            et garder les succès, les quêtes et les collectibles sous contrôle.
+            Des soluces chronologiques pour garder succès, quêtes et collectibles
+            sous contrôle.
           </p>
           <div className="hero-actions">
             <a className="button button-primary" href="#guides">
@@ -3551,8 +3497,7 @@ export default function Home() {
           <p className="kicker">LA MÉTHODE</p>
           <h2>Un guide qui te laisse jouer.</h2>
           <p>
-            Pas de roman à lire avant de commencer. Les informations
-            importantes arrivent au moment où elles servent.
+            Les informations arrivent au moment où elles servent.
           </p>
         </div>
         <div className="method-grid">
@@ -3575,71 +3520,12 @@ export default function Home() {
       </section>
 
       <section className="reader-section" id="reader">
-        <div className="reader-header">
-          <div>
-            <p className="kicker">LECTEUR DE SOLUCE</p>
-            <h2>{selected.title}</h2>
-            <p>{selected.highlight}</p>
-          </div>
-          <a
-            className="button button-outline"
-            href={"/guides/" + selected.file}
-            download
-          >
-            Télécharger le TXT <span aria-hidden="true">↓</span>
-          </a>
-        </div>
-
-        <div className="reader-tools">
-          <label htmlFor="guide-search">Rechercher dans le guide</label>
-          <div className="search-wrap">
-            <span aria-hidden="true">⌕</span>
-            <input
-              id="guide-search"
-              ref={guideSearchRef}
-              type="search"
-              placeholder="ex. succès, chapitre, missable..."
-              value={search}
-              aria-keyshortcuts="/"
-              onChange={(event) => setSearch(event.target.value)}
-            />
-            {search ? (
-              <button
-                className="clear-search"
-                type="button"
-                onClick={() => setSearch("")}
-                aria-label="Effacer la recherche"
-              >
-                ×
-              </button>
-            ) : null}
-          </div>
-          <span className="result-count">
-            {normalizedSearch ? (
-              <>
-                {matchingLines} ligne{matchingLines > 1 ? "s" : ""}
-              </>
-            ) : (
-              "guide complet"
-            )}
-          </span>
-        </div>
-
-        <div className="reader-paper">
-          <div className="paper-label">
-            <span>{selected.count}</span>
-            <span>{selected.subtitle}</span>
-          </div>
-          {loading ? (
-            <div className="reader-loading" role="status">
-              Chargement de la soluce...
-            </div>
-          ) : (
-            <pre className="guide-text" aria-label={"Texte du guide " + selected.title}>
-              {visibleText}
-            </pre>
-          )}
-        </div>
+        <GuideReader
+          selected={selected}
+          search={search}
+          setSearch={setSearch}
+          guideSearchRef={guideSearchRef}
+        />
       </section>
 
       <nav className="mobile-bottom-nav" aria-label="Navigation mobile">
@@ -3689,7 +3575,7 @@ export default function Home() {
             <small>fait pour jouer, pas pour se perdre</small>
           </span>
         </div>
-        <p>Guides personnels · sans spoiler · à déployer où tu veux</p>
+        <p>Guides sans spoiler · prêts à jouer</p>
         <a href="#top">Retour en haut ↑</a>
       </footer>
     </main>
