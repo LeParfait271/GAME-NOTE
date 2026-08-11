@@ -1,137 +1,1063 @@
 LIVE A LIVE
-GUIDE 100 % STEAM - 48 SUCCES STEAM - CHRONOLOGIQUE - SANS SPOILER
+GUIDE CHRONOLOGIQUE 100 % STEAM - 48 SUCCÈS - FICHE PREMIUM - SANS SPOILER
 
-Version de travail : 11 aout 2026
+Version de travail : 11 août 2026
+AppID Steam : 2014380
 
-OBJECTIF
+OBJECTIF DE CETTE FICHE
 
-Route chapitre par chapitre de la version Steam, avec les actions à faire avant
-la fin de chaque chapitre puis le nettoyage final. Tous les chapitres restent
-rejouables : une sauvegarde dédiée est néanmoins conseillée avant un mini-jeu.
-Le guide ne révèle aucun événement narratif.
+Cette fiche accompagne la version Steam du remake HD-2D de LIVE A LIVE jusqu'à
+ses 48 succès. Elle donne un ordre de jeu conseillé, les actions à faire avant
+chaque fin de chapitre, les objets importants par zone, les recettes, les
+mini-jeux, les boss optionnels, les sept épreuves de la dernière partie et les
+routes de fin nécessaires pour fermer le 100 %.
 
-PERIMETRE ET GARDE-FOUS
+Le texte reste sans révélation narrative : les chapitres, personnages, lieux,
+objets, boss et conditions de succès sont nommés parce qu'ils sont nécessaires
+pour jouer, mais les événements et leurs conséquences ne sont pas racontés.
 
-- AppID Steam : 2014380. 48 succès Steam, aucun DLC et aucun online requis.
-- Les chapitres peuvent être rejoués depuis le menu ; les actions temporelles
-  sont signalées avant la transition.
-- Garde une sauvegarde par chapitre et une sauvegarde de fin de chapitre. Ne
-  supprime pas les fichiers avant d'avoir contrôlé les succès.
+COMMENT LIRE LA FICHE
 
-MISSABLES ET CONDITIONS RATABLES
+- Une action placée avant « verrou de chapitre » doit être faite avant la
+  dernière séquence de la partie concernée.
+- « Sauvegarde A » désigne une sauvegarde manuelle conservée séparément. Les
+  chapitres terminés restent rejouables depuis le menu, mais une sauvegarde
+  dédiée évite de refaire une longue route pour un objet ou une fin.
+- Les succès Steam sont cités à l'endroit où ils se débloquent, puis repris
+  une seule fois dans la checklist finale.
+- Les objets ordinaires de soin n'ont pas tous une ligne individuelle quand ils
+  sont sans conséquence. Les objets uniques, équipements, recettes, clés,
+  récompenses et objets nécessaires au 100 % ont toujours un repère de zone.
 
-- Rien n'est définitivement manquable grâce à la rejouabilité, mais les actions
-  de chapitre doivent être faites avant l'écran de fin correspondant.
-- Dans Préhistoire, fais le jeu de comptage, la chasse à l'odorat et les dix
-  crafts avant la sortie.
-- Dans Edo, recrute le prisonnier, active la technique de l'ombre et le Mimic
-  Mammet avant la dernière séquence.
-- Dans Far West, prépare tous les pièges et rends le journal avant la fin.
-- Dans Présent, bats les six combattants et apprends une technique. Dans Futur
-  proche, lis un esprit et termine l'invention demandée.
+PÉRIMÈTRE ET PLAN DE SAUVEGARDES
 
-ORDRE RECOMMANDE
+Le jeu contient sept chapitres de départ, un chapitre du Moyen Âge qui apparaît
+après les sept premiers, puis la dernière partie. L'ordre ci-dessous est
+chronologique et permet d'apprendre les systèmes progressivement :
 
-1. PREHISTOIRE
+1. Préhistoire — The First
+2. Chine impériale — The Successor
+3. Ouest sauvage — The Wanderer
+4. Japon d'Edo — The Infiltrator
+5. Présent — The Strongest
+6. Futur proche — The Outsider
+7. Futur lointain — The Mechanical Heart
+8. Moyen Âge — The Lord of Dark
+9. Dernière partie — The Dominion of Hate
 
-- Utilise l'odorat pour chasser, gagne le jeu de comptage et fabrique dix objets.
-- Termine le chapitre après avoir fouillé les passages latéraux : Sniff Sniff,
-  One, Two, Three, Many, Make Good Lots et Raw Instinct.
+Avant de commencer :
 
-2. CHINE IMPERIALE
+- Garde une sauvegarde générale avant chaque chapitre.
+- Dans la Préhistoire, conserve les matériaux et fabrique avant l'exil.
+- Dans Edo, fais une sauvegarde juste à l'entrée du château, une autre avant
+  la dernière salle et une troisième avant le choix 0 victime / massacre.
+- Dans l'Ouest sauvage, sauvegarde immédiatement avant le compte à rebours de
+  huit minutes.
+- Dans le Futur lointain, conserve une sauvegarde avant Captain Square et une
+  autre avant la dernière séquence.
+- Dans le Moyen Âge, ne vide pas les coffres du château ni du donjon si tu
+  veux obtenir leurs versions améliorées dans la dernière partie.
+- Dans la dernière partie, garde une sauvegarde avant le choix du personnage
+  principal, une avant le boss final et une après chaque fin obtenue.
 
-- Lance les entraînements avec le disciple, augmente-le dans l'ordre voulu et
-  transmets la technique finale avant la fin : The First Painful Step,
-  Nothing Left to Teach et Keeper of the Legacy.
+MISSABLES, BRANCHES ET RÈGLES DE 100 %
 
-3. OUEST SAUVAGE
+- Les chapitres peuvent être rejoués : une erreur ne détruit donc pas le
+  profil, mais elle peut obliger à refaire tout un scénario.
+- Le succès de l'Ouest « Rolling out the Welcome Wagon » exige d'avoir préparé
+  toutes les variantes de pièges, pas seulement d'en placer quelques-uns.
+- Le succès « Bold as Brass » exige de rendre le journal à Annie avant de
+  quitter la phase de préparation.
+- En Edo, la route sans victime donne la récompense unique Mutsunokami et
+  permet de protéger tous les civils. La route des 100 victimes sert surtout
+  à compléter les objets et les combats ; elle n'est pas indispensable aux
+  succès Steam.
+- Dans le Présent, chaque adversaire possède deux techniques à apprendre. Il
+  faut laisser l'ennemi utiliser la technique sur Masaru avant de le vaincre.
+- Dans le Futur proche, fais les lectures d'esprit, les ventes de taiyaki et
+  les échanges avec les enfants avant la dernière infiltration.
+- Dans le Futur lointain, le mot de passe « warp speed » et la carte mémoire
+  doivent être récupérés avant de terminer Captain Square si tu veux conserver
+  ta progression.
+- Dans la dernière partie, « An Incomplete Destiny » et « United in Defiance
+  of Hate » demandent deux routes différentes. Fais-les sur deux sauvegardes.
+- Les cinq boss d'équipement cosmique, les sept armes ultimes et les sept
+  personnages recrutables sont inclus dans la route complète.
 
-- Fais préparer un piège, prépare toutes les variantes possibles et rends le
-  journal à la bonne personne avant de conclure : Preparing for the Big Soirée,
-  Rolling out the Welcome Wagon et Bold as Brass.
+COMBAT ET PROGRESSION COMMUNS
+
+- Les combats se jouent sur une grille : déplace-toi avant de frapper et évite
+  d'aligner tout le groupe devant une attaque en ligne.
+- Les cases élémentaires peuvent soigner les boss. Quand un boss transforme le
+  terrain, remplace l'élément avec une attaque d'un autre type.
+- Dans les chapitres classiques, ne fuis pas systématiquement : quelques
+  niveaux et techniques apprises rendent les boss beaucoup plus sûrs.
+- Cube ne gagne pas de niveaux comme les autres personnages : améliore-le avec
+  les pièces mécaniques récupérées sur les ennemis machines.
+- Les équipements et objets non utilisés dans les premiers chapitres peuvent
+  être transmis à la dernière partie. Garde les équipements uniques plutôt que
+  de les vendre ou de les jeter.
+
+1. PRÉHISTOIRE — THE FIRST
+
+Objectifs de chapitre : Sniff Sniff, One, Two, Three, Many, Make Good Lots et
+Raw Instinct. Le système à contrôler ici est le craft : chaque matériau doit
+être ramassé avant l'exil, car le mini-jeu de comptage n'est plus disponible
+ensuite.
+
+1.1 Caverne sûre — première fouille
+
+1. Prends le Stick dans la chambre de Pogo.
+2. Dans la première salle à droite, prends Hard Rock, Stick et Pelt.
+3. Dans la salle la plus à droite, prends Stick puis Bone.
+4. Dans la salle de l'Ancien au nord-ouest, ouvre le meuble et prends Stick.
+5. Dans la salle voisine, lance le jeu de comptage. Choisis la botte de foin
+   qui contient exactement le nombre demandé. Une victoire débloque One, Two,
+   Three, Many.
+6. Rejoue le jeu de comptage tant que tu as besoin de matériaux. Profite de
+   cette phase pour fabriquer l'équipement de Pogo, Gori et Beru.
+7. Parle à l'Ancien et utilise Sniff sur les nuages de la zone extérieure.
+   Parcours les nuages nord-est, sous l'os de dinosaure, sud-est et nord-est
+   pour prendre Stick, Hard Rock, Pelt et Bone.
+8. Termine la chasse et reviens faire le rapport à l'Ancien. Le succès Sniff
+   Sniff se débloque pendant cette action.
+
+1.2 Craft complet de la Préhistoire
+
+Le Tribe Artisan se trouve dans la salle sud-ouest de la caverne, puis dans la
+zone des terres sauvages après l'exil. Les combinaisons sont interchangeables :
+la liste donne un exemple fiable pour chaque résultat.
+
+Matériau intermédiaire :
+
+- Bone + Hard Rock → Stone Knife.
+- Stone Knife + Pelt → Leather Strap.
+
+Armes :
+
+- Bone + Stick → Horn Spear.
+- Stone Knife + Stick → Quick Spear.
+- Stone Knife + Bone → Quick Spear.
+- Stone Knife + Leather Strap → Fury Knife.
+- Beast Fang + Stick → Fang Club.
+- Stick + Pelt → Fire Club.
+- Stick + Hard Rock → Strong Axe.
+- Stick + Leather Strap → Fast Whip.
+- Bone + Leather Strap → Angry Bone.
+
+Armures et têtes :
+
+- Pelt + Leather Strap → Wildheart Dress.
+- Stone Knife + Dried Skins → Wildheart Armor.
+- Pelt + Beast Fang → Chest Hair.
+- Bone + Pelt → Beastskin Cap.
+- Beast Horn + Leather Strap → Loin Guard.
+- Beast Horn + Dried Skins → Laughing Mask.
+
+Gants, chaussures et accessoires :
+
+- Hard Rock + Dried Skins → Bang Glove.
+- Bone + Dried Skins → Thump Drum.
+- Beast Horn + Bone → Rough Bands.
+- Bone + Beast Fang → Pretty Flower.
+- Beast Fang + Leather Strap → Fang Necklace.
+- Stone Knife + Hard Rock → Fertility Charm.
+
+Objets d'attaque :
+
+- Hard Rock + Leather Strap → Bola.
+- Beast Fang + Stone Knife → Prickly Stones.
+
+Priorité recommandée : Fury Knife ou Quick Spear pour Pogo, Wildheart Dress
+pour Beru, Wildheart Armor pour Pogo, Beastskin Cap, Bang Glove et Fertility
+Charm. Fabrique au moins dix objets distincts avant de continuer pour
+Make Good Lots. Si tu vises le 100 % des objets de craft, fabrique une fois
+chaque résultat de la liste ci-dessus et conserve un exemplaire.
+
+1.3 Grotte de départ — nuit et combat
+
+1. Retourne dormir dans la chambre de Pogo.
+2. La nuit, cherche Gori dans la salle nord-est marquée par l'os.
+3. Examine l'os puis la botte de foin où Beru se cache. Utilise Sniff lorsque
+   l'interaction classique ne la trouve plus.
+4. Donne-lui la viande, quitte la salle, reviens puis parle-lui à nouveau.
+5. Récupère Gori et ramène-le vers la chambre de Pogo.
+6. Après l'invasion, bats les ennemis puis le premier Zaki. Poop Throw de Gori
+   crée une case toxique utile si tu manques d'équipement.
+
+1.4 Terres sauvages — point de non-retour de Beru
+
+1. Avant d'entrer dans la grotte nord-est, équipe Beru avec Wildheart Dress,
+   une arme correcte et un accessoire. Elle ne sera plus disponible pendant
+   l'essentiel de la zone.
+2. Fouille les nuages et les traces odorantes de la carte. Prends les
+   matériaux de craft au sol et combats quelques groupes pour apprendre les
+   techniques de Pogo et atteindre un niveau confortable.
+3. Entre dans la grotte nord-est, puis bats le Zaki seul avec Pogo.
+4. Rejoins Gori et brise le mur. Dans la grotte sombre, utilise Sniff : les
+   odeurs en forme de crâne déclenchent les combats ; l'odeur de Zaki indique
+   le mur à briser trois fois.
+5. Avant les trois grottes de la fin, visite l'Artisan au nord-ouest et
+   termine le craft. La troisième grotte mène à Kuu Village.
+
+1.5 Secret du Basic Rock et King Mammoth
+
+1. Dans les Terres sauvages, avant la grotte de Zaki, repère le petit visage
+   de pierre près du trou au sol.
+2. Examine-le exactement 100 fois. Après le son de confirmation, n'appuie plus
+   sur aucun bouton jusqu'à la fin de l'animation.
+3. Va dans la grotte cachée au nord-ouest et donne un Bone au miroir bleu pour
+   obtenir Rock of Rocks. Ne consomme pas ton dernier Bone avant cette étape.
+4. Pour le King Mammoth, cherche avec Sniff l'icône de mammouth dans les
+   Terres sauvages. Sauvegarde avant d'approcher le point d'exclamation.
+5. Utilise Poke Bind pour tenter la paralysie, Sleep Trick si elle passe, puis
+   Big Bang Boom au niveau 16. Gori utilise Poop Throw pour empêcher le terrain
+   de feu de soigner le boss.
+6. Le Cola Bottle peut tomber du boss ; le drop n'est pas garanti. Recommence
+   depuis la sauvegarde jusqu'à l'obtenir si tu veux le 100 % d'objets.
+
+1.6 Kuu Village et fin
+
+1. Dans les tiroirs de Kuu Village, prends Stone Knife, Pelt, Hard Rock, Bone
+   et Stick.
+2. Parle plusieurs fois à Gori pour le récupérer.
+3. Fais une dernière visite à l'Artisan et vérifie que Make Good Lots est
+   débloqué, que les dix crafts sont comptés et que ton équipement est prêt.
+4. Traverse la grotte de Zaki, puis bats Zaki et Odo. Les attaques à distance,
+   la guérison de Beru et les cases toxiques de Gori sécurisent ces combats.
+5. Après le combat final du chapitre, crée la sauvegarde de chapitre terminé.
+   Raw Instinct tombe avec la fin de la Préhistoire.
+
+CHECKPOINT PRÉHISTOIRE
+
+- 6 succès contrôlés : Sniff Sniff, One, Two, Three, Many, Make Good Lots,
+  Raw Instinct et les deux suivants de la route si l'écran les a affichés.
+- Tous les matériaux importants ramassés.
+- Dix crafts réalisés ; si tu veux le 100 % d'objets, chaque résultat de la
+  liste de craft obtenu au moins une fois.
+- Rock of Rocks récupéré.
+- King Mammoth vaincu et Cola Bottle obtenu si tu fais le 100 % des secrets.
+
+2. CHINE IMPÉRIALE — THE SUCCESSOR
+
+Objectifs de chapitre : The First Painful Step, Nothing Left to Teach et Keeper
+of the Legacy. Le choix important concerne l'élève qui héritera du style :
+pour la meilleure progression générale, entraîne un seul disciple presque à
+chaque séance. Le guide conserve les trois chemins et leurs objets.
+
+2.1 Cottage du Shifu — objets immédiats
+
+1. Dans la pièce de départ, prends Weathered Boots et Qilin Boots.
+2. Dans la pièce arrière, prends Weathered Garments x2, Red Bean Bun et Pork
+   Bun x2.
+3. En sortant, examine l'herbe près de la maison pour White Clover.
+4. Sur le chemin de la montagne, va à l'extrémité ouest et prends Birdeye
+   Speedwell.
+5. Reviens au cottage et lance la première séance d'entraînement dès que les
+   disciples sont réunis. Cela débloque The First Painful Step.
+
+2.2 Mont Aspiration et choix des trois élèves
+
+Les trois chemins partent de Mont Aspiration. Fais-les dans l'ordre suivant
+pour récupérer les objets avant de recruter l'élève : Bamboo Forest, Wong
+Village, Yunfa Market.
+
+Bamboo Forest :
+
+- Nature's Providence près de l'entrée.
+- Nature's Providence et White Clover à l'ouest, au centre.
+- Nature's Providence et Birdeye Speedwell à l'ouest, au carrefour.
+- Nature's Providence au nord-est.
+- Nature's Providence et Shepherd's Purse au nord.
+- Au bout du chemin, choisis la réponse qui refuse le paiement pour déclencher
+  le combat puis recruter Lei.
+
+Wong Village :
+
+- Aide la vieille femme à gauche avec Nature's Providence : Iron Wok.
+- Aide le vieil homme à droite : Red Bean Bun.
+- Aide la vieille femme en bas à gauche : Catfish Whisker.
+- Aide le vieil homme en bas à droite : Red Bean Bun.
+- Garde une Nature's Providence pour la scène du pickpocket.
+- Après le combat, refuse d'abord puis accepte quand le recrutement est
+  proposé pour obtenir Yun.
+
+Yunfa Market :
+
+- Déclenche la scène au nord.
+- Pour le garçon, choisis de payer ou de combattre : il rejoint le groupe dans
+  les deux cas.
+- Parle aux habitants après la scène : Peach Bun, Panda Charm, Chow Chow Charm,
+  Soup Dumpling, Pork Bun x2, Scroll of Martial Arts, Pot Lid, Beijing Pot,
+  Bottle of Tieguanyin, Red Bean Bun, Tiger Glove et Tiger Attire.
+- Fais une sauvegarde avant de répartir l'entraînement.
+
+2.3 Entraînement du successeur
+
+1. Choisis l'élève à spécialiser. Entraîne-le en priorité jusqu'à ce que le
+   Shifu annonce que les progrès sont suffisants ; les autres peuvent recevoir
+   une séance ponctuelle pour obtenir des statistiques et des techniques.
+2. Répète les séances dans le cottage et vérifie la progression après chaque
+   retour de Mont Aspiration.
+3. Avant de quitter la zone pour le dojo, donne au successeur les meilleurs
+   objets : Tiger Glove/Tiger Attire, Panda Charm, Chow Chow Charm et le
+   meilleur soin disponible.
+4. À la dernière séance, transmets la technique ultime au disciple choisi.
+   Nothing Left to Teach se débloque à ce moment.
+
+2.4 Indomitable Fist Fortress — route des objets
+
+1. Entre dans le dojo et bats les groupes de l'entrée.
+2. Première salle : Red Bean Bun, Fuxi Feather et Weathered Boots à gauche.
+3. Couloir suivant : Peach Bun Jar et Qilin Boots.
+4. Salle après les ennemis : Peach Bun x2 et Soup Dumplings.
+5. Dernière salle avant le boss rush : Bottle Gourd et Pork Bun dans la zone
+   en haut à gauche.
+6. Les combats se suivent : San Xi/Su Xi, Yi Xi/Er Xi, Tong Cha/Sha Cha,
+   Pei Cha/Nan Cha, Lin/Xian/Chan, puis Yi Pei Kou. Utilise la faiblesse
+   physique indiquée par l'animation et soigne entre les vagues.
+7. Termine le chapitre avec le successeur choisi. Keeper of the Legacy tombe
+   après la dernière séquence.
+
+CHECKPOINT CHINE IMPÉRIALE
+
+- The First Painful Step obtenu.
+- Nothing Left to Teach obtenu avec l'élève choisi.
+- Keeper of the Legacy obtenu.
+- Objets de la cottage, Bamboo Forest, Wong Village, Yunfa Market et fortress
+  contrôlés.
+- Équipement du successeur conservé pour la dernière partie.
+
+3. OUEST SAUVAGE — THE WANDERER
+
+Objectifs de chapitre : Preparing for the Big Soirée, Rolling out the Welcome
+Wagon, Bold as Brass et Into the Sunset. Le cœur du chapitre est le compte à
+rebours de huit minutes à Success Town.
+
+3.1 Duel d'entrée et Crystal Saloon
+
+1. Bats Mad Dog avec Hollow Point en te plaçant en diagonale.
+2. Dans Crystal Saloon, prends Herbal Liniment derrière le comptoir.
+3. Parle au barman, puis à tout le monde dans le saloon et enfin à Mad Dog.
+4. Récupère Sheriff's Badge.
+5. Fais la sauvegarde spéciale : le chronomètre commence dès que la préparation
+   des pièges est disponible.
+
+3.2 Inventaire complet de Success Town
+
+Ramasse d'abord tout, puis attribue les pièges. Les emplacements sont :
+
+- Warehouse A / Storehouse : Carrot x2, Coal Tar.
+- Sheriff's House : Oil.
+- Brewery : Miracle Tonic.
+- Crystal Saloon : Slingshot auprès de Billy, Oil, Miracle Tonic, Herbal
+  Liniment, Jerky, Barkeep's Beloved Poster et Annie's Diary quand Annie est
+  partie poser un piège.
+- Post Office : Jerky, Empty Bottle, Herbal Liniment.
+- Sheriff's Office : Jerky, Dynamite, Peacemaker, Buntline Special.
+- Warehouse B / Stables : Horse Shit, Carrot, Empty Bottle.
+
+3.3 Pièges et attribution optimale
+
+1. Parle plusieurs fois au Sheriff pour débloquer l'attribution.
+2. Confie Slingshot uniquement à Billy et Frying Pan uniquement à Annie.
+3. Attribue immédiatement la mission la plus longue à Billy, puis enchaîne les
+   missions dès le retour des habitants.
+4. Ordre de vitesse utile : Sheriff 0:30, Annie 0:50, Barkeep 1:10, James
+   1:30, Mrs. Wayne 1:50, Wayne 2:10, Clint 2:30, Sancho 2:50, Pancho 3:10,
+   Billy 3:30, Cesar 3:40. Delos est aléatoire : utilise-le seulement si le
+   temps restant le permet.
+5. Place au moins une fois chaque type disponible : Carrot, Bottled Fire,
+   Coal Tar, Oil, Dynamite, Horse Shit, Slingshot et Frying Pan.
+6. Prépare toutes les variantes avant la dernière cloche. Preparing for the
+   Big Soirée se débloque au premier piège posé ; Rolling out the Welcome Wagon
+   se débloque quand toutes les variantes sont prêtes.
+7. Rends le journal à Annie avant de quitter la ville pour Bold as Brass.
+
+3.4 Combat final et fin de chapitre
+
+- Si les pièges sont complets, le combat ne garde que le groupe principal.
+- Reste hors de la diagonale et de la ligne de tir d'O. Dio.
+- Utilise les objets restants comme grenades si plusieurs ennemis sont encore
+  présents.
 - Termine le chapitre pour Into the Sunset.
 
-4. EDO ET PRESENT
+CHECKPOINT OUEST SAUVAGE
 
-- Dans Edo, apprends la technique de l'ombre, aide le prisonnier et active le
-  compagnon mécanique : Now You See Me, Not Your Average Ronin, Dawn May
-  Banish the Darkest Night et Clockwork Companion.
-- Dans Présent, bats les six combattants, apprends une technique adverse et
-  termine le chapitre : Hail to the Champ, What's Yours Is Mine et Here Comes a
-  New Challenger.
+- Les huit minutes ont été utilisées avec tous les pièges.
+- Slingshot donné à Billy et Frying Pan à Annie.
+- Barkeep's Beloved Poster, Annie's Diary, Peacemaker et Buntline Special
+  récupérés.
+- Bold as Brass obtenu avant la fin.
+- Into the Sunset obtenu.
 
-5. FUTUR PROCHE ET FUTUR LOINTAIN
+4. JAPON D'EDO — THE INFILTRATOR
 
-- Dans Futur proche, lis un esprit et termine l'invention demandée : A Yen for
-  Your Thoughts, Great Scott et The Kids Are Alright.
-- Dans Futur lointain, prépare le café, utilise le pied-de-biche, joue Captain
-  Square et termine le chapitre : Budding Barista, Elbow Grease, Captain Cube,
-  The Heart that Bleeds et A Clean Slate.
+Objectifs de chapitre : Now You See Me, Not Your Average Ronin, Clockwork
+Companion et Dawn May Banish the Darkest Night. Pour la route de complétion,
+fais d'abord le parcours sans victime. Rejoue ensuite le chapitre depuis sa
+sauvegarde si tu veux compléter la variante des 100 victimes et les drops.
 
-6. CHAPITRE FINAL ET NETTOYAGE
+4.1 Règle de la route sans victime
 
-- Termine l'ensemble des chapitres disponibles, puis effectue les actions
-  finales demandées par les succès sans commenter leurs conséquences.
-- Rejoue les chapitres pour les techniques, pêches, objets, pièges et combats
-  qui manquent. Les intitulés ci-dessous sont les seuls repères nécessaires.
-- Le succès LIVE A LIVE se débloque avec les 47 autres cases validées.
+- Le compteur ne doit jamais augmenter : fuis si un combat humain se déclenche.
+- Les démons, fantômes et monstres non humains ne comptent pas comme victimes.
+- Ne parle pas aux soldats ou aux civils hors des interactions indiquées.
+- Le mot de passe change après la cloche. Écoute le garde ou le dialogue avant
+  chaque porte : les réponses possibles sont River et Origin.
+- Utilise la furtivité et Shadowed Self dès qu'un garde te repère. Now You See
+  Me se débloque lors de la première utilisation réussie de Shadowed Self.
 
-CHECKLIST FINALE - 48/48 SUCCES STEAM
+4.2 Château — première boucle
 
-- [ ] Sniff Sniff
-- [ ] One, Two, Three, Many
-- [ ] Now You See Me
-- [ ] What's Yours Is Mine
-- [ ] A Yen for Your Thoughts
-- [ ] Preparing for the Big Soirée
-- [ ] Hail to the Champ
-- [ ] Here Comes a New Challenger
-- [ ] The First Painful Step
-- [ ] Raw Instinct
-- [ ] Into the Sunset
-- [ ] Nothing Left to Teach
-- [ ] Keeper of the Legacy
-- [ ] Make Good Lots
-- [ ] Not Your Average Ronin
-- [ ] Budding Barista
-- [ ] Dawn May Banish the Darkest Night
-- [ ] Elbow Grease
-- [ ] The Kids Are Alright
-- [ ] Captain Cube
-- [ ] The Heart that Bleeds
-- [ ] Great Scott
-- [ ] The Hero's Vow
-- [ ] Triumph and Tragedy
-- [ ] Hatred's Coronation
-- [ ] The True Design
-- [ ] Clockwork Companion
-- [ ] Consummate Businessman
-- [ ] Heart's Potential
-- [ ] Skill's Proof
-- [ ] Keys' Reward
-- [ ] Time's Testament
-- [ ] Wisdom's Gift
-- [ ] Denizen of the Dark
-- [ ] United in Defiance of Hate
-- [ ] Bold as Brass
-- [ ] Power's Glory
-- [ ] Instinct's Prize
-- [ ] Believe in Me
-- [ ] Rolling out the Welcome Wagon
-- [ ] Fisher of Ornery Fish
-- [ ] Let They Without Sin
-- [ ] Seeker of Forgotten Wisdom
-- [ ] A Clean Slate
-- [ ] Temptation of the Void
-- [ ] Arbiter of Destined Death
-- [ ] An Incomplete Destiny
-- [ ] LIVE A LIVE
+1. Entre en courant dans le château et écoute derrière le mur pour connaître le
+   mot de passe actif.
+2. Dans le couloir est, évite le garde et prends Chain Mail dans la salle au
+   bout, puis ressors immédiatement.
+3. Reviens à l'ouest de la torche, évite le samouraï et prends la sortie nord
+   vers la cour.
+4. Traverse vers le bâtiment sud-ouest gardé par deux soldats et donne le mot
+   de passe entendu.
+5. Dans Residential Palace 2, entre dans la salle la plus à droite. Passe par
+   la porte secrète en haut à gauche et donne le mot de passe au ninja.
+6. Monte à l'échelle. Dans le grenier, prends Koban dans le coffre du sud ; les
+   deux autres coffres sont vides.
+7. Prends Castella Cake à gauche, puis Suijin Tabi en haut avant de redescendre.
+8. Donne le mot de passe au samouraï en bas, remonte, examine plusieurs fois
+   les souris et quitte le grenier par le nord-ouest. Si le shinobi attaque,
+   fuis immédiatement.
 
-VERIFICATION
+4.3 Château — prisonnier et Mimic Mammet
 
-- [ ] 48/48 succès Steam.
-- [ ] Sept chapitres, mini-jeux, techniques, objets, pièges et pêches contrôlés.
-- [ ] Rejouabilité utilisée pour le nettoyage, sans faux missable définitif.
-- [ ] Aucun DLC ni online.
-- [ ] Relecture anti-spoiler terminée.
+1. Passe par les toits et les petits greniers sans traverser les zones centrales
+   marquées par les trous.
+2. Examine les pièces de la prison jusqu'à trouver le levier et la route vers
+   le prisonnier. Dans la route 0 victime, ne le libère pas trop tôt : conserve
+   la progression furtive jusqu'à la zone où sa libération est sûre.
+3. Dans l'atelier de Gennai, récupère le Mainspring et active le Mimic Mammet.
+   Clockwork Companion se débloque après son activation.
+4. Le Mimic Mammet permet de neutraliser la séquence du toit sans augmenter le
+   compteur. Évite l'eau et les trous : certains événements le désactivent.
+5. Replace les Koban dans le mécanisme et ouvre la route supérieure.
+6. Dans la salle des femmes, accepte le cadeau Maid's Sash. Reste sur place
+   environ quinze secondes et reparle à la femme pour obtenir Lacquer Medicine
+   Box. Ne quitte pas la pièce avant le second cadeau.
 
+4.4 Boss et fin sans victime
+
+1. Bats Mimic Mammet si la confrontation est déclenchée ; il copie les
+   compétences d'Oboromaru mais possède peu de vie.
+2. Pour Miyamoto Musashi et Yodogimi, place le Prisoner en appât et frappe à
+   distance avec Phantom Butterflies ou Shuriken.
+3. Dans la dernière salle, sépare les personnages pour éviter l'attaque de zone
+   d'Ode Iou. Le Prisoner encaisse et Oboromaru attaque à distance.
+4. Termine le chapitre sans victime pour recevoir Mutsunokami et déclencher
+   Dawn May Banish the Darkest Night.
+
+4.5 Route alternative des 100 victimes
+
+Cette route est séparée de la route Steam principale. Recharge la sauvegarde
+d'entrée et, si tu veux compléter les deux variantes de gameplay :
+
+1. Parcours chaque aile du château, tue les soldats, samouraïs et ninjas et
+   vérifie le compteur après chaque aile.
+2. Ne tue pas le personnage nécessaire à la récompense des civils si tu veux
+   conserver une sauvegarde de la route sans victime ; utilise une copie.
+3. Atteins 100 victimes avant la dernière salle. Cette route donne davantage
+   d'expérience et de drops mais empêche Mutsunokami et la récompense de la
+   route pacifiste.
+4. Pour les objets rares, reviens dans les zones de coffres et utilise les
+   combats de Shadow pour obtenir les clés rouillées et les drops manquants.
+
+CHECKPOINT EDO
+
+- Now You See Me obtenu.
+- Prisonnier recruté : Not Your Average Ronin.
+- Mimic Mammet activé : Clockwork Companion.
+- Maid's Sash et Lacquer Medicine Box obtenus.
+- Route 0 victime terminée et Mutsunokami conservé.
+- Route 100 victimes rejouée uniquement sur une copie si tu vises les deux
+  variantes de contenu.
+
+5. PRÉSENT — THE STRONGEST
+
+Objectifs de chapitre : What's Yours Is Mine, Hail to the Champ et Here Comes a
+New Challenger. Les six adversaires peuvent être affrontés dans n'importe quel
+ordre ; l'ordre ci-dessous donne rapidement une attaque à distance fiable.
+
+5.1 Règle d'apprentissage
+
+Pour chaque adversaire, laisse Masaru être touché par ses deux techniques avant
+de le vaincre. Une technique apprise apparaît dans la liste de compétences.
+Fais une sauvegarde avant chaque combat si tu ne veux pas le refaire.
+
+5.2 Ordre complet des six combats
+
+1. Seishi Moribe :
+   - Mets Masaru au contact pour apprendre Celestial Palm.
+   - Place-le ensuite à environ deux cases pour provoquer Fleetfoot.
+   - Éloigne-toi, soigne avec Focus, puis termine le combat.
+2. Namkiat :
+   - Provoque Lookpanjama Kick en frappant la case du corps.
+   - Mets-toi à une case pour faire sortir Spiral Knee, puis recule.
+3. The Great Aja :
+   - Place Masaru en diagonale pour apprendre Frankensteiner.
+   - Reste à deux cases pour Tornado Press.
+   - Les coups de pied le déséquilibrent ensuite.
+4. Tula Han :
+   - Reste dans l'axe de ses bras pour apprendre les deux techniques de sumo.
+   - Ne reste pas collé aux coins : les attaques de poussée peuvent bloquer la
+     grille.
+5. Max Morgan :
+   - Utilise une distance moyenne pour faire apparaître les deux prises de
+     catch, puis soigne avant de le finir.
+6. Jackie Iaukea :
+   - Laisse Masaru encaisser chacune des deux attaques de kick et de projection.
+   - Termine avec les compétences apprises plutôt qu'en risquant un échange au
+     contact.
+
+Après les six victoires et les douze techniques, What's Yours Is Mine et Hail to
+the Champ se débloquent. Termine la dernière confrontation du chapitre pour
+Here Comes a New Challenger.
+
+CHECKPOINT PRÉSENT
+
+- Les 12 compétences des six adversaires sont visibles dans la liste de Masaru.
+- What's Yours Is Mine obtenu.
+- Hail to the Champ obtenu.
+- Here Comes a New Challenger obtenu.
+
+6. FUTUR PROCHE — THE OUTSIDER
+
+Objectifs de chapitre : A Yen for Your Thoughts, Great Scott, Consummate
+Businessman et The Kids Are Alright. Akira doit lire les esprits ; l'objet
+important et les upgrades se trouvent dans les zones visitées plusieurs fois.
+
+6.1 Rues et orphelinat
+
+1. Lis l'esprit des habitants du parc dès que le pouvoir est disponible.
+2. Sors par l'est et lis l'esprit des voyous. Lors du premier combat, laisse
+   Lawless Matsu gérer les cibles faibles.
+3. Lis l'esprit de Matsu après le combat et entre à Bright Sparks Orphanage.
+4. Dans la salle de douche au nord-est, examine l'angle supérieur droit pour
+   Shampoo Hat.
+5. Parle aux enfants à droite jusqu'à ce que Watanabe parte, puis retrouve-le
+   dans les pièces de gauche.
+6. Examine la télévision, puis parle à Kaori dans la pièce la plus à gauche.
+7. À chaque retour à l'orphelinat, lis les esprits des enfants et des adultes :
+   certaines interactions ne se déclenchent que de cette façon.
+
+6.2 Timeless Wonders Antiques et taiyaki
+
+1. Lis l'esprit de la porte de l'antiquaire, suis Doc Tobei au sous-sol et
+   utilise le téléporteur.
+2. Au parc, aide Matsu à vendre les taiyaki. Les choix de prix sont :
+   - enfant : 100 ou 300 yens ;
+   - fille : 300 ou 1000 yens ;
+   - salaryman : 100 ou 10 000 yens ;
+   - vieille dame : 100 ou 10 000 yens.
+3. Vends une pâtisserie à 10 000 yens pour Consummate Businessman. Le Misawa
+   Special obtenu sera utile pour les échanges.
+4. Donne les bons aliments aux enfants :
+   - Yuki : Misawa Special → Power Wristguard ;
+   - Aki : Taiyaki → Misanga ;
+   - Watanabe : Banana Crepe → Cap ;
+   - Kazu, dehors : Guts and Glory Special → Baseball Glove.
+5. Dans la salle de bain, examine la machine à laver pour Matron's Crochet.
+6. Examine plusieurs fois les toilettes pour recevoir Pocket Lint, Taeko's
+   Pouch, Taeko's Picture, Taeko's Furious Fist puis Taeko's Secret Stash.
+   Cette séquence est nécessaire pour ouvrir la suite.
+
+6.3 Inventions et lecture d'esprit
+
+1. Retourne au sous-sol de Doc Tobei et accepte l'invention.
+2. Utilise l'atelier et produis en priorité Showa Chick Launcher, Showa
+   Goldfish Launcher, Kotobuki Lacquer, Rock Launcher et Plasma Spark.
+3. Répète les essais jusqu'à obtenir les objets de combat manquants ; conserve
+   les matériaux au lieu de les vendre.
+4. Lis l'esprit de Doc Tobei et déclenche la scène d'invention. Great Scott se
+   débloque quand il produit l'objet demandé.
+5. Reviens à l'orphelinat, lis l'esprit de Taeko et bats les voyous.
+
+6.4 City Docks et Tsukuba Research Facility
+
+1. Aux docks, poursuis les voyous vers le sud et bats le Crusader Road Captain.
+2. Lis l'esprit des voyous puis celui de Lawless Matsu.
+3. Retourne à Kaori, parle-lui et lis son esprit avant l'installation de la
+   prochaine mission.
+4. À Tsukuba Research Facility, choisis « Appointment? » pour entrer.
+5. NW2, étage supérieur : Throwing Knife et Fragmentation Grenade.
+6. NW1, salle basse du couloir : Throwing Knife et Fragmentation Grenade.
+7. SE1, salle centrale : Throwing Knife, Napalm Grenade ; arrière-salle avec
+   Fragmentation Grenade, 100 Volt Laser, Throwing Knife et une autre
+   Fragmentation Grenade/100 Volt Laser.
+8. SE1, salle est : Napalm Grenade x3 et Plasma Spark.
+9. Les gardes déclenchent les combats au contact. Fais-les pour gagner quelques
+   niveaux, puis remonte par les escalators et termine la mission.
+
+6.5 Dernière séquence
+
+1. Fais une dernière boucle parc → orphelinat → antiquaire avant l'infiltration.
+2. Vérifie A Yen for Your Thoughts dans la liste : il doit avoir été débloqué
+   lors d'une lecture d'esprit, sans dépendre d'un choix narratif.
+3. Termine la zone finale et The Kids Are Alright tombe avec la fin du chapitre.
+
+CHECKPOINT FUTUR PROCHE
+
+- A Yen for Your Thoughts obtenu.
+- Great Scott obtenu.
+- Consummate Businessman obtenu avec la vente à 10 000 yens.
+- The Kids Are Alright obtenu.
+- Tous les objets d'enfants, de toilettes, de craft et de Tsukuba contrôlés.
+
+7. FUTUR LOINTAIN — THE MECHANICAL HEART
+
+Objectifs de chapitre : Budding Barista, Elbow Grease, Captain Cube et The Heart
+that Bleeds. La progression est surtout une suite d'interactions ; ne te
+précipite pas dans Captain Square avant d'avoir la carte mémoire.
+
+7.1 Cogito Ergo Sum — première tournée
+
+1. Quitte la salle de démarrage et parle à Kato.
+2. Dans Duty Module, examine l'interface et nomme Cube.
+3. Au nord, entre dans Cryostasis Chamber, examine le panneau puis chaque
+   capsule. Examine Huey après la scène.
+4. Dans Recreation Room au nord-ouest, parle à Huey puis à Kato et utilise la
+   machine à café. Budding Barista se débloque à la première préparation.
+5. Parle à Commander Darthe.
+6. Examine l'arcade à gauche pour tester Captain Square, mais quitte-la si tu
+   n'as pas encore Memory Card.
+7. Prends l'ascenseur vers le niveau 3, parle à Kato dans Main Computer et
+   accompagne-le au Cargo Hold.
+8. Examine le Behemoth si tu veux l'entrée de journal, puis reviens au Bridge.
+9. Parle à tout le monde sur le Bridge, puis à Rachel.
+
+7.2 Medical Bay, airlock et mémoire
+
+1. Au niveau 1, entre dans Airlock Room. N'appuie pas sur les deux boutons dans
+   cet ordre si tu ne veux pas provoquer le game over optionnel.
+2. Retourne au niveau 3, parle à Huey au Bridge, puis au niveau 2 dans Medical
+   Bay parle à Rachel et à Darthe.
+3. Retourne au Bridge, parle à Kato puis offre le café à Huey.
+4. Dans Kirk's Quarters, entre le nom de Cube pour ouvrir la porte.
+5. Examine le panneau près du lit et saisis le mot de passe « warp speed ».
+6. Prends Memory Card sous le lit. Captain Cube ne doit pas être validé avant
+   cette étape.
+
+7.3 Captain Square
+
+1. Insère Memory Card et joue l'arcade depuis Recreation Room.
+2. Le mini-jeu comporte neuf combats, un par étape de la progression spatiale.
+3. Utilise Plasma Ball à distance ; évite de rester sur les cases qui soignent
+   les ennemis et exploite les cases favorables à Cube.
+4. Termine une partie complète ou, au minimum, valide la scène jouable pour
+   Captain Cube.
+5. Si tu vises le 100 % de la fiche, rejoue Captain Square jusqu'à avoir noté
+   les neuf étapes terminées dans ta sauvegarde.
+
+7.4 Cargo Hold et fin
+
+1. Retourne à l'Airlock puis à Medical Bay selon les dialogues demandés.
+2. Va au Cargo Hold, examine le panneau du Behemoth et suis la séquence de
+   fuite sans t'arrêter devant les portes secondaires.
+3. Reviens à Airlock et parle à Darthe.
+4. Dans Recreation Room, prépare et offre le café à Rachel.
+5. Examine l'écran principal jusqu'à ce que la salle soit vide.
+6. Termine le chapitre et vérifie Budding Barista, Elbow Grease, Captain Cube
+   et The Heart that Bleeds.
+
+CHECKPOINT FUTUR LOINTAIN
+
+- Budding Barista obtenu.
+- Elbow Grease obtenu en utilisant le powered prybar au bon moment.
+- Captain Cube obtenu.
+- The Heart that Bleeds obtenu.
+- Memory Card conservée et Captain Square terminé.
+
+8. MOYEN ÂGE — THE LORD OF DARK
+
+Ce chapitre apparaît après les sept précédents. Il débloque The Hero's Vow,
+Triumph and Tragedy et Hatred's Coronation. Pour améliorer le butin de la
+dernière partie, ne ramasse pas les coffres du château et du donjon durant ce
+chapitre : les emplacements seront remplacés par de meilleurs objets ensuite.
+
+8.1 Château et ville
+
+1. Termine les trois combats du prologue et récupère la carte du royaume.
+2. Sors du château et parle à tous les habitants de la place. Prends Defender
+   si l'objet t'est proposé.
+3. Rejoins Streibough et pars vers Fugalia Village.
+4. Dans les fleurs à gauche de Fugalia, récolte Balmgrass.
+5. Dans la maison à gauche, examine le bouclier, puis parle au vieil homme.
+6. Ne vide pas les autres coffres du château : note leurs emplacements et
+   continue vers Hero's Rest.
+
+8.2 Hero's Rest et recrutement
+
+1. Dans la montagne, prends Balmgrass près du rebord d'entrée.
+2. Les combats peuvent faire tomber Axion Sword et Ice Helm ; conserve-les si
+   tu ne les as pas déjà.
+3. Dans la cabane au nord-ouest, examine le bouclier puis reviens à Fugalia.
+4. Dans Fugalia, examine le bouclier de la maison de gauche pour rejoindre la
+   progression du groupe.
+5. Retourne à la cabane et récupère le dernier membre du groupe.
+6. Avant de partir vers le sud-est, équipe Hasshe avec Brion et déplace son
+   meilleur équipement vers Oersted si nécessaire.
+7. Au sommet de Hero's Rest, examine la tombe pour récupérer Brion. The Hero's
+   Vow se débloque à cette étape.
+
+8.3 Archon's Roost et fin
+
+1. Dans le chemin au sud-ouest sous le pont de Fugalia, ramasse Joshua Tree
+   Seeds x2.
+2. Entre dans Archon's Roost et avance sans vider les coffres : ils seront
+   améliorés dans la dernière partie.
+3. Bats le Lord of Dark pour Triumph and Tragedy.
+4. Termine la séquence du Moyen Âge pour Hatred's Coronation.
+5. Crée la sauvegarde de chapitre terminé ; toutes les données de niveaux,
+   compétences et objets seront utilisées par la dernière partie.
+
+CHECKPOINT MOYEN ÂGE
+
+- Brion obtenu au sommet de Hero's Rest.
+- The Hero's Vow obtenu.
+- Triumph and Tragedy obtenu.
+- Hatred's Coronation obtenu.
+- Coffres du château et d'Archon's Roost laissés pour leur version améliorée.
+
+9. DERNIÈRE PARTIE — THE DOMINION OF HATE
+
+Cette section contient les 18 derniers objectifs Steam, les sept personnages,
+les sept épreuves, les cinq boss cosmiques et les fins alternatives. Elle est
+volontairement rédigée en objectifs et repères de lieux pour limiter les
+révélations narratives.
+
+9.1 Préparation et choix du personnage principal
+
+1. Fais une sauvegarde avant de sélectionner le personnage principal.
+2. Pour une route de complétion pratique, choisis Sundown Kid : il est plus
+   pénible à suivre s'il est laissé pour la fin. N'importe lequel des sept
+   héros mène à la route principale ; Oersted sert à la route de fin
+   alternative.
+3. Équipe immédiatement le héros principal avec les meilleurs objets conservés
+   des chapitres précédents.
+4. Explore la carte avant de courir vers Archon's Roost : Silent Wood,
+   Condemned Village, Last Hero's Grave, Seat of the Betrayers et Lucrece
+   Castle contiennent les recrutements, les objets et les entrées des épreuves.
+
+9.2 Recrutement des sept alliés
+
+Le groupe est limité à quatre combattants, mais un allié déjà recruté reste
+disponible à son point de recrutement. Quand le jeu demande de laisser partir
+quelqu'un, cela ne supprime pas son recrutement : reviens simplement à son lieu.
+
+- Pogo : Silent Wood, massif fleuri au sud de Condemned Village. Termine le
+  cache-cache puis le combat ; si Lei est le successeur, le combat est évité.
+- Oboromaru : route centrale vers Archon's Roost, examine le panneau juste
+  avant l'entrée et accepte le duel si le personnage choisi le déclenche.
+- Successeur du Shifu : sommet de Last Hero's Grave. Hong demande plusieurs
+  Balmgrass ; Lei et Yun rejoignent la route sans cette collecte.
+- Masaru : cellule de Seat of the Betrayers / Lucrece Castle.
+- Akira : base ouest de Condemned Village. Choisis la réponse de confiance pour
+  éviter un combat inutile.
+- Cube : toit de Seat of the Betrayers. Récupère d'abord la batterie brillante
+  dans la montagne de Last Hero's Grave, puis reviens l'activer.
+- Sundown Kid : s'il n'est pas le héros principal, suis les marqueurs « ? »
+  dans les montagnes, près du panneau de la ville, devant le trône, dans la
+  chambre puis à la sortie de la ville. Ne le renvoie pas avant la dernière
+  étape, sinon sa prochaine position devient aléatoire.
+
+United in Defiance of Hate exige que chacun des sept alliés ait été recruté au
+moins une fois avant le boss final. Note le recrutement dans une sauvegarde
+séparée ; tu peux ensuite composer le groupe final librement.
+
+9.3 Objets du monde final
+
+Last Hero's Grave :
+
+- Balmgrass près de l'entrée.
+- Brion sur la tombe au sommet.
+- Batterie de Cube dans la zone sud-est avant le sommet.
+
+Condemned Village :
+
+- Balmgrass x5 dans la zone habitée.
+- Joshua Tree Seeds x2 à l'extérieur, au sud-ouest du pont.
+
+Seat of the Betrayers / Lucrece Castle :
+
+- Defender avant la cellule.
+- Salle au trésor : Peach Bun, No. 9 Potion, Unicorn Horn, Haunch of Meat,
+  Castella Cake, Sacred Silver Armor, Genji Armor, Helm of Nightmares,
+  Genji Helm, Axion Sword, Sword of Marvels, Amethyst Shield x3, Genji Tabi,
+  Izanagi Scroll x2, Genji Glove, Bang Glove et une autre Unicorn Horn.
+- Salle de repos à l'ouest du trône : Sword of Marvels, Amethyst Shield,
+  Divine Armor et Unicorn Horn.
+- Salle de repos à l'est du trône : Sacred Silver Armor, Parasite Sword et
+  Izanagi Scroll.
+
+Archon's Roost :
+
+- Première zone : Alice Biscuit, Shroud of Demons, Fujin Scroll.
+- Deuxième zone : Unicorn Horn, Enma Charm, Shroud of Demons.
+- Troisième zone : Izanagi Scroll et Golden Topknot.
+- Quatrième zone : Golden Burial Gown, Eye of Argos, Fertility Charm et No. 9
+  Potion.
+
+9.4 Les sept épreuves et les armes ultimes
+
+Chaque épreuve donne une arme ultime et un succès. Fais une sauvegarde avant
+chaque entrée ; les coffres et chemins ci-dessous sont le parcours intégral.
+
+Trial of Instinct — Pogo — Last Hero's Grave, chemin caché au nord-est :
+
+1. Suis le chemin de gauche, puis descends au niveau inférieur.
+2. Première sortie : Alice Biscuit. Troisième sortie : Unicorn Horn.
+3. Dans le passage suivant, prends Bird-of-Paradise Tailfeather à gauche.
+4. Au dernier niveau, donne Golden Topknot au poisson géant et accepte les
+   réponses demandées pour combattre Lucretius. Il garde Cosmic Ring.
+5. Continue vers l'extrémité est et prends Great Stone Axe.
+6. Great Stone Axe débloque Instinct's Prize.
+
+Trial of Keys — Oboromaru — résidence de Lucrece Castle :
+
+1. Depuis l'entrée sud-ouest, bats les Shadow jusqu'à obtenir des Rusted Keys.
+2. Ouvre les portes successives et prends Key of Suzaku.
+3. Monte au nord puis prends Key of Genbu.
+4. Passe par le bâtiment voisin avec l'enseigne de taverne, descends et prends
+   Key of Seiryuu.
+5. Continue vers l'ouest et prends Key of Byakko.
+6. Les portes sont codées rouge Suzaku, vert Genbu, bleu Seiryuu et blanc
+   Byakko. Ouvre-les pour Murasame.
+7. Reviens dans la branche haute pour Castella Cake et Parasite Sword.
+8. Murasame débloque Keys' Reward.
+
+Trial of Skill — successeur du Shifu — Last Hero's Grave, rocher au nord-ouest :
+
+1. Les rochers s'ouvrent avec les compétences du successeur : Heavenly Peaks
+   Descent, Wise Fox's Grace, Chipmunk's Delight, Monkey's Withdrawal,
+   Traveler's First Step et Lion's Dismissal.
+2. Sur la première carte, ouvre les six rochers avec Dynamite, Glove of the
+   Goddess, Chest Hair, Gold Hairpin, Charioteer's Boots et Ice Helm.
+3. Sur la seconde, ouvre les rochers avec Holy Water, Loin Guard, Mermaid
+   Tights, Glove of the Goddess, Amon's Blood, Bael's Blood et Saint's Bell.
+4. Dans la dernière salle, ouvre le rocher avec Nunchaku of the Master, puis
+   prends l'arme.
+5. Nunchaku of the Master débloque Skill's Proof.
+
+Trial of Time — Sundown Kid — sud-est de Silent Wood :
+
+1. Suis le cheval près de la route d'Archon's Roost.
+2. Ramasse Fertility Charm, Eye of Argos, Holy Water, Magicked Wood et
+   Charioteer's Boots.
+3. Le compteur s'assombrit régulièrement. Va directement vers le coffre final
+   si tu ne veux pas déclencher le boss de temps ; si le compteur arrive à zéro,
+   bats le boss caché et garde Cosmic Glove.
+4. Prends .44 Magnum à la fin.
+5. .44 Magnum débloque Time's Testament.
+
+Trial of Power — Masaru — passage caché à l'est du panneau de Last Hero's Grave :
+
+1. Bats Apophisphilo à l'entrée. Les coups de pied à moyenne distance évitent
+   sa pétrification.
+2. Récupère Blood of Amon après le combat.
+3. Le donjon devient éclairé après la récompense finale. Ramasse alors Mermaid
+   Tights, Ice Helm, Demon Blood Armor, Golden Topknot, Amethyst Shield, Glove
+   of the Goddess, Charioteer's Boots, Holy Water et Occult Pendant.
+4. Prends Champion's Wraps à la fin.
+5. Champion's Wraps débloque Power's Glory.
+
+Trial of Heart — Akira — accès aléatoire avec Teleport :
+
+1. Quand Teleport ouvre la zone, sauvegarde immédiatement : l'épreuve ne se
+   revisite pas après la sortie.
+2. Lis les flammes bleues avec Akira pour les entrées de l'âme et fouille la
+   branche ouest, puis la branche est.
+3. Prends Helm of Nightmares, Demon Blood Armor, Coral Ring et Holy Water.
+4. Termine le parcours et récupère Guts and Glory Glove.
+5. Guts and Glory Glove débloque Heart's Potential.
+
+Trial of Wisdom — Cube — maisons de Condemned Village :
+
+1. Entre par l'une des deux maisons et parle à la copie de Cube.
+2. Dans les sols quadrillés, les commandes sont inversées : avance lentement,
+   utilise les chaises lumineuses comme indices et ne te fie pas à la direction
+   graphique du personnage.
+3. Dans le puzzle des boules de fer, touche les quatre petites boules dans le
+   sens horaire en partant du nord-est : nord-est, sud-est, sud-ouest,
+   nord-ouest, puis la grosse boule au sud.
+4. Termine pour obtenir 17nm Diode.
+5. 17nm Diode débloque Wisdom's Gift.
+
+9.5 Les cinq boss de l'équipement cosmique
+
+Ils sont nécessaires pour le 100 % Steam et donnent les succès Fisher of Ornery
+Fish, Seeker of Forgotten Wisdom, Denizen of the Dark, Arbiter of Destined Death
+et Temptation of the Void.
+
+- Lucretius : Trial of Instinct, dernier niveau, offre Golden Topknot et accepte
+  les réponses demandées. Récompense : Cosmic Ring et Fisher of Ornery Fish.
+- Jaggedy Jacks : Trial of Time, laisse le temps s'écouler et bats le groupe
+  dans la zone sombre. Récompense : Cosmic Glove et Denizen of the Dark.
+- Euraokos : Trial of Wisdom, après avoir terminé le puzzle, revisite la zone
+  quadrillée et bats le boss caché. Récompense : Cosmic Helm et Seeker of
+  Forgotten Wisdom.
+- Death Prophet : fuis exactement 100 combats dans la dernière partie. Un
+  avertissement apparaît autour du 95e ; le combat se déclenche au 100e.
+  Récompense : Cosmic Mail et Arbiter of Destined Death.
+- Headhunter : arrive à la fin d'Archon's Roost, déclenche la rencontre, puis
+  quitte la salle au lieu de combattre immédiatement. Récompense : Cosmic Boots
+  et Temptation of the Void.
+
+9.6 Confrontation finale et succès de route
+
+Avant d'entrer dans Archon's Roost :
+
+- Les sept alliés ont tous été recrutés.
+- Les sept armes ultimes et les cinq pièces cosmiques sont contrôlées.
+- La ville, les coffres et les objets de la section 9.3 sont terminés.
+- Fais une sauvegarde « FINAL — FULL PARTY ».
+
+Route complète :
+
+1. Entre dans Archon's Roost et fouille les quatre zones avant la salle finale.
+2. Utilise le passage secret derrière la statue et avance jusqu'au sommet.
+3. Si tu veux Temptation of the Void, quitte la salle dès que le boss caché est
+   proposé et bats Headhunter. Recharge ensuite la sauvegarde si nécessaire.
+4. Pour la fin complète, reviens affronter le boss final.
+5. Après le premier combat, choisis d'épargner l'adversaire pour ouvrir la route
+   de l'affrontement final complet et la fin principale.
+6. Pendant l'affrontement final, les personnages sont remplacés par les
+   membres restants : garde des soins de zone et frappe les bras quand ils
+   deviennent vulnérables.
+7. United in Defiance of Hate tombe si les sept alliés ont été recrutés avant
+   le combat final.
+8. The True Design se débloque à l'entrée de la dernière partie, si ce n'est
+   pas déjà fait.
+
+9.7 Routes de fins pour fermer les succès
+
+Route A — fin principale :
+
+- Recrute les sept alliés.
+- Termine les sept épreuves et les cinq boss cosmiques.
+- Après le premier boss final, épargne-le.
+- Termine l'affrontement final complet : United in Defiance of Hate.
+
+Route B — route incomplète :
+
+- Recharge « FINAL — PARTIAL » avant le recrutement final, ou recommence la
+  dernière partie avec au moins un allié non recruté.
+- Ne recrute pas tout le monde.
+- Termine la dernière partie : An Incomplete Destiny.
+
+Route C — vengeance :
+
+- Recharge une sauvegarde avant la confrontation finale.
+- Choisis l'action de vengeance demandée dans la dernière partie : Believe in
+  Me.
+
+Route D — Armageddon :
+
+- Sur une sauvegarde séparée, utilise la commande Armageddon quand elle est
+  disponible dans la dernière partie : A Clean Slate.
+
+Route E — choix après Purity of Odio :
+
+- Recharge avant la séquence concernée.
+- Après avoir vaincu Purity of Odio, choisis l'action qui accorde le souhait du
+  héros tombé : Let They Without Sin.
+
+Ces routes sont intentionnellement séparées : ne remplace pas la sauvegarde de
+la route complète avant d'avoir vérifié les cinq succès de fin.
+
+10. CHECKLIST FINALE — 48/48 SUCCÈS STEAM
+
+- [ ] Sniff Sniff — utiliser l'odorat pour chasser dans la Préhistoire.
+- [ ] One, Two, Three, Many — gagner le jeu de comptage de la Préhistoire.
+- [ ] Now You See Me — utiliser Shadowed Self dans Edo.
+- [ ] What's Yours Is Mine — apprendre une technique dans le Présent.
+- [ ] A Yen for Your Thoughts — lire l'esprit d'une personne dans le Futur proche.
+- [ ] Preparing for the Big Soirée — faire préparer un piège dans l'Ouest sauvage.
+- [ ] Hail to the Champ — vaincre les six meilleurs combattants du Présent.
+- [ ] Here Comes a New Challenger — terminer le chapitre du Présent.
+- [ ] The First Painful Step — terminer la première séance d'entraînement en Chine.
+- [ ] Raw Instinct — terminer le chapitre de la Préhistoire.
+- [ ] Into the Sunset — terminer le chapitre de l'Ouest sauvage.
+- [ ] Nothing Left to Teach — transmettre la technique ultime en Chine.
+- [ ] Keeper of the Legacy — terminer le chapitre de la Chine impériale.
+- [ ] Make Good Lots — fabriquer dix objets dans la Préhistoire.
+- [ ] Not Your Average Ronin — devenir ami avec le prisonnier dans Edo.
+- [ ] Budding Barista — préparer le café dans le Futur lointain.
+- [ ] Dawn May Banish the Darkest Night — terminer le chapitre d'Edo.
+- [ ] The Kids Are Alright — terminer le chapitre du Futur proche.
+- [ ] Elbow Grease — utiliser le pied-de-biche amélioré dans le Futur lointain.
+- [ ] Captain Cube — jouer à Captain Square.
+- [ ] The Heart that Bleeds — terminer le chapitre du Futur lointain.
+- [ ] Great Scott — faire inventer un objet à Doc Tobei.
+- [ ] The Hero's Vow — obtenir Brion au Moyen Âge.
+- [ ] Triumph and Tragedy — vaincre le Lord of Dark au Moyen Âge.
+- [ ] Hatred's Coronation — terminer le chapitre du Moyen Âge.
+- [ ] The True Design — jouer la dernière partie.
+- [ ] Clockwork Companion — activer Mimic Mammet.
+- [ ] Consummate Businessman — vendre un taiyaki pour 10 000 yens.
+- [ ] Heart's Potential — obtenir Guts and Glory Glove dans Trial of Heart.
+- [ ] Skill's Proof — obtenir Nunchaku of the Master dans Trial of Skill.
+- [ ] Keys' Reward — obtenir Murasame dans Trial of Keys.
+- [ ] Time's Testament — obtenir .44 Magnum dans Trial of Time.
+- [ ] Wisdom's Gift — obtenir 17nm Diode dans Trial of Wisdom.
+- [ ] Denizen of the Dark — vaincre Jaggedy Jacks.
+- [ ] United in Defiance of Hate — vaincre Sin of Odio après les sept recrutements.
+- [ ] Bold as Brass — rendre le journal d'Annie à Annie.
+- [ ] Power's Glory — obtenir Champion's Wraps dans Trial of Power.
+- [ ] Instinct's Prize — obtenir Great Stone Axe dans Trial of Instinct.
+- [ ] Believe in Me — embrasser la vengeance dans la dernière partie.
+- [ ] Rolling out the Welcome Wagon — préparer tous les pièges de l'Ouest sauvage.
+- [ ] Fisher of Ornery Fish — vaincre Lucretius.
+- [ ] Let They Without Sin — accorder le souhait après Purity of Odio.
+- [ ] Seeker of Forgotten Wisdom — vaincre Euraokos.
+- [ ] Temptation of the Void — vaincre Headhunter.
+- [ ] A Clean Slate — utiliser Armageddon.
+- [ ] Arbiter of Destined Death — vaincre Death Prophet après 100 fuites.
+- [ ] An Incomplete Destiny — terminer sans recruter tous les alliés.
+- [ ] LIVE A LIVE — débloquer les 47 autres succès.
+
+11. CONTRÔLE FINAL DU 100 %
+
+- [ ] Profil Steam : 48/48 succès.
+- [ ] Les neuf chapitres ont été terminés.
+- [ ] Les recettes de Préhistoire ont été fabriquées et les dix crafts validés.
+- [ ] King Mammoth, avec Cola Bottle si le drop est recherché, est terminé.
+- [ ] La route Edo sans victime, Mutsunokami, le prisonnier et Mimic Mammet
+      sont validés ; la route des 100 victimes a été revue sur une copie si
+      l'objectif est le 100 % de contenu.
+- [ ] Les six combattants du Présent ont fourni leurs deux techniques.
+- [ ] Les ventes de taiyaki, échanges d'enfants, inventions et objets de
+      Tsukuba sont terminés.
+- [ ] Memory Card et Captain Square sont terminés.
+- [ ] Brion et les coffres réservés de la dernière partie sont récupérés.
+- [ ] Les sept alliés ont été recrutés au moins une fois.
+- [ ] Les sept armes ultimes et les cinq pièces cosmiques sont équipées ou
+      conservées.
+- [ ] Les cinq boss cosmiques sont vaincus.
+- [ ] Les routes principale, incomplète, vengeance, Armageddon et souhait sont
+      validées sur des sauvegardes séparées.
+- [ ] Une sauvegarde claire est conservée après la route principale.
+
+SOURCES DE CONTRÔLE
+
+- Steam — liste officielle des 48 succès :
+  https://steamcommunity.com/stats/2014380/achievements
+- LIVE A LIVE Wiki — lieux, chapitres, épreuves et objets :
+  https://livealive.wiki.gg/wiki/Locations
+  https://livealive.wiki.gg/wiki/Trials
+  https://livealive.wiki.gg/wiki/The_Dominion_of_Hate_%28Final_Chapter%29
+- RPG Site — walkthrough des chapitres et emplacements :
+  https://www.rpgsite.net/feature/13052-live-a-live-walkthrough-guide
+  https://www.rpgsite.net/feature/13028-prehistory-walkthrough-how-to-beat-king-mammoth-live-a-live-guide
+  https://www.rpgsite.net/feature/13029-twilight-of-edo-japan-walkthrough-for-both-pacifist-and-100-kill-runs-live-a-live-guide
+  https://www.rpgsite.net/feature/13049-live-a-live-final-chapter-walkthrough-character-boss-strategies-for-the-dominion-of-hate
+- Craft complet :
+  https://www.rpgsite.net/feature/13079-live-a-live-crafting-guide-how-to-craft-the-best-items-in-prehistoric-times
+
+FIN DE LA FICHE
