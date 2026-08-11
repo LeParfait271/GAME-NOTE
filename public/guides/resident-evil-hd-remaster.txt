@@ -1,132 +1,1014 @@
-RESIDENT EVIL HD REMASTER
+RESIDENT EVIL / BIOHAZARD HD REMASTER
+Succes Steam : 44
 GUIDE CHRONOLOGIQUE 100 % STEAM - SANS SPOILER
 
-Version de travail : 10 aout 2026
+Version de travail : 11 aout 2026
+AppID Steam : 304240
 
-Ce parcours couvre les 44 succes Steam de l'AppID 304240, les campagnes de
-Jill et Chris, les modes Real Survival et Invisible Enemy, les costumes, les
-objets, les armes et les fins de scenario. Il n'y a pas de DLC a compter ni
-de succes en ligne.
+Cette fiche couvre les 44 succes Steam du remake HD, les routes Jill et Chris,
+les fins, les sauvetages de partenaires, les armes, les costumes, les fichiers,
+les cartes vertes, les modes Real Survival et Invisible Enemy, la run au
+couteau, les runs chronometrees et la run sans sauvegarde.
 
-OBJECTIF
+Le parcours reste volontairement pratique et sans spoiler narratif. Les noms
+des boss, des objets et des succes sont conserves quand ils permettent de
+retrouver un lieu. Les consequences des fins sont indiquees comme des
+conditions de succes, sans raconter les scenes ni les revelations.
 
-[ ] 44/44 succes Steam.
-[ ] Premier parcours Normal ou Facile avec fouille complete.
-[ ] Deuxieme personnage et route opposee.
-[ ] Real Survival, Invisible Enemy et One Dangerous Zombie.
-[ ] Objets, armes, fichiers, costumes et succes de combat.
+OBJECTIF FINAL
+
+- 44/44 succes Steam.
+- Deux personnages termines et quatre costumes bonus obtenus.
+- Toutes les fins utiles : partenaires sauves et personne sauve.
+- Toutes les armes, tous les types de munitions du lance-grenades et les
+  deux armes bonus chronometrees.
+- Toutes les salles rendues vertes sur les cartes de la partie de nettoyage.
+- Une victoire en Hard, une en Real Survival et une en Invisible Enemy.
+- Une victoire au couteau, une sous trois heures, une sous cinq heures et une
+  victoire sans utiliser de ruban encreur.
+
+COMMENT LIRE CETTE FICHE
+
+- RUN 1 a RUN 8 sont des parties conseillees. Les succes se conservent sur le
+  profil Steam, mais les objets et les compteurs de carte sont lies a la run.
+- Jill et Chris ont des salles, armes, partenaires et objets propres. Ne
+  suppose jamais qu'un pickup trouve par Jill existe au meme endroit avec Chris.
+- Une carte rouge indique qu'il reste au moins un objet dans une salle. Une
+  salle verte est vide pour la partie en cours.
+- Les munitions, plantes et rubans ne sont pas tous listes dans la route :
+  prends-les si la carte est rouge, en priorisant les objets de la fiche.
+- BRANCHE = sauvegarde avant un choix de partenaire ou de fin.
+- MISSABLE = condition a faire avant de quitter la zone ou avant la sequence
+  finale. Les objectifs chronometres et sans sauvegarde sont des parties
+  dediees, jamais des objectifs a melanger avec une premiere decouverte.
+- Tous les noms de succes sont exacts pour faciliter la verification Steam.
 
 GARDE-FOUS ABSOLUS
 
-- Fais un premier parcours en Facile ou Normal avec sauvegardes manuelles. Le
-  jeu n'a pas de Selection de chapitre : les objets et les fins se suivent
-  sur des parties ou des fichiers separes.
-- Utilise une sauvegarde avant chaque choix d'aide, chaque cle speciale et
-  chaque sortie de manoir. Les portes ne se rouvrent pas toujours.
-- Pour Every Nook and Cranny, fouille chaque salle avant de bruler l'objet
-  de la zone. Garde les cartes affichees jusqu'a ce que la piece soit validee.
-- Les modes Real Survival et Invisible Enemy arrivent apres une partie
-  normale. Ne tente pas les collectibles complets sur la run de difficulte.
-- Aucun passage ne revele une mort, une identite, une fin, un retournement ou
-  le resultat d'un choix.
+1. Ne combine pas la premiere decouverte, la run au couteau, Real Survival,
+   Invisible Enemy, la run sans sauvegarde et la run sous trois heures. Les
+   parties dediees sont plus rapides et evitent les blocages.
+2. Fais la partie de nettoyage sur Very Easy ou Easy avec Jill. Les salles
+   contiennent plus d'objets et Jill possede plus de place dans l'inventaire.
+3. Garde les sauvegardes de fin de partie et utilise l'option Once Again pour
+   les deuxiemes parties de Jill et Chris. C'est la route la plus sure pour
+   Passion for Fashion.
+4. Ne depense pas les rubans d'encre sur la partie Ink is for Squids. Cette
+   partie ne doit contenir aucune sauvegarde manuelle ou automatique par
+   machine a ecrire.
+5. Pour CQC FTW, n'utilise ni pistolet, ni couteau de defense, ni briquet, ni
+   ecrasement de tete. Le lance-roquettes impose par la derniere scene ne
+   compte pas comme une arme choisie pour le run, mais ne tire rien d'autre.
+6. Les armes bonus et les costumes sont debloques apres une fin. Conserve le
+   fichier clair et lance Once Again depuis ce fichier au lieu de Nouvelle
+   partie si le menu le propose.
+7. Pour Every Nook and Cranny, fais une seule partie de nettoyage en ouvrant
+   chaque salle et en ramassant chaque objet. Le nombre d'ennemis tues ne
+   compte pas : l'etat de la carte, les fichiers et les objets comptent.
+8. Pour Starsenal, le lance-grenades de Jill doit avoir servi avec les trois
+   types de munitions : Grenade, Acid et Incendiary. Ramasse et charge les
+   trois au moins une fois.
+9. Pour les fins, donne a Barry son arme et ouvre la cellule de Chris pour la
+   meilleure fin de Jill ; avec Chris, sauve Rebecca puis Jill. Fais ensuite
+   les fins sans sauvetage depuis des sauvegardes dediees.
+10. En Real Survival, les coffres ne partagent pas leur contenu. En Invisible
+    Enemy, les ennemis ne sont plus visibles mais leurs salles et leurs sons
+    restent les memes. Ne melange pas les itineraires de ces modes avec la
+    liste de nettoyage.
 
-MISSABLES A SECURISER
+PLAN DES PARTIES OPTIMISE
 
-- Choix d'aide, herbes rares, armes, documents, rubans, emblemes, serpents,
-  couteau, lance-roquettes, sauvegarde sans soins et objets de chaque salle.
+RUN 1 - JILL - VERY EASY/EASY - NETTOYAGE ET BONNE FIN
 
-ORDRE DE PARTIE
+- Fais Every Nook and Cranny, tous les fichiers, tous les objets de carte,
+  Jill, les boss, les armes Jill, les partenaires sauves et les premiers
+  costumes. Garde une sauvegarde de fin.
+- Sauve Richard avec le Serum, rends l'arme a Barry et libere Chris avec les
+  trois MO Disks. Cela couvre Delaying the Inevitable, Trust Him, What a Great
+  Guy, Sorry About the Wait et la bonne fin Jill.
 
-1. Jill en Facile/Normal pour les mecanismes et les objets.
-2. Chris en Facile/Normal pour les objets et les fins de scenario restants.
-3. Real Survival et Invisible Enemy avec un itineraire appris.
-4. One Dangerous Zombie et nettoyage des succes de combat.
+RUN 2 - CHRIS - VERY EASY/EASY - NETTOYAGE CHRIS ET BONNE FIN
 
-RUN 1 - JILL, PARCOURS D'APPRENTISSAGE
+- Fais les objets propres a Chris, Plant 42, Lisa Trevor, le livre final,
+  Rebecca, Jill et la bonne fin Chris.
+- Fais Bravo, Rebecca en sauvant Chris avec Rebecca lors de la sequence Serum.
+- Garde un fichier clair Chris pour la deuxieme partie.
 
-- Fouille la salle de depart, le couloir, les escaliers et chaque piece avant
-  de depenser les rubans. Utilise la carte : une salle bleue doit rester vide
-  seulement quand elle est reellement nettoyee.
-- Recupere le couteau, le briquet, les cles et les armes sans jeter un objet
-  de quete. Conserve au moins un emplacement libre pour les herbes et les
-  munitions.
-- Dans les jardins, ramasse les objets de la carte, peche la recompense et
-  termine les petites salles avant d'utiliser la manivelle et le disque.
-- Valide les enigmes de la serre, de la maison et du laboratoire en lisant
-  tous les documents. Ne brule pas une salle avant d'avoir recupere son item.
-- Sur la premiere partie, termine le jeu sans utiliser de spray de premiers
-  secours si possible. Les herbes combinees sont plus faciles a compter.
+RUN 3 - JILL - NORMAL OU HARD - MOINS DE 3 HEURES
 
-RUN 1 - COMBAT ET FOUILLE
+- Fais la route connue, ignore les salles inutiles et vise moins de 3 heures.
+- Cette partie donne Don't Stop Running, Racing and Pacing, Samurai Edge et
+  Infinite Rocket Launcher. Si elle est faite en Normal ou plus, Take that,
+  Zombies! est aussi validee. Ne vise pas les fichiers ni la carte.
 
-- Tue avec le couteau plusieurs ennemis faciles, incendie les ennemis qui
-  le demandent et utilise le pistolet, le fusil et le magnum au moins une
-  fois. Ne gaspille pas le magnum sur les ennemis communs.
-- Pour le succes de collection, recupere tous les fichiers, cartes, objets
-  de soigneur, munitions, objets cle et armes. Note les deux personnages
-  capables de prendre chaque item.
-- A chaque decision de sauver ou d'abandonner un personnage, cree une
-  sauvegarde. Les fins et certains succes se valident selon le nombre de
-  survivants.
-- Termine avec le meilleur rang possible, puis garde le fichier de fin pour
-  les bonus de la partie suivante.
+RUN 4 - CHRIS - VERY EASY - COUTEAU ET PERSONNE SAUVEE
 
-RUN 2 - CHRIS ET FIN RESTANTE
+- Utilise uniquement le couteau, sans briquet, objet defensif ni ecrasement.
+- Ne sauve pas Rebecca et ne libere pas Jill. Cela combine CQC FTW et Every Man
+  for Himself. Le lance-roquettes final est la seule exception imposee.
 
-- Chris possede moins d'emplacements : prepare les coffres avant chaque
-  sortie et utilise les points de depot proches du manoir.
-- Reprends l'itineraire de fouille : fichiers, cartes, objets de salle,
-  armes, plantes, rubans et enigmes. Les objets propres a Chris doivent etre
-  coches dans une liste separee.
-- Fais l'autre combinaison de choix d'aide et de sauvetage pour obtenir la
-  fin restante. Recharge la sauvegarde de choix au lieu de refaire la partie
-  si un succes ne tombe pas.
+RUN 5 - JILL - REAL SURVIVAL - SECOND COSTUME
 
-REAL SURVIVAL
+- Lance Once Again depuis le fichier clair Jill. Termine Real Survival avec
+  une route prudente. Le costume Jill suivant est obtenu sur cette fin.
 
-- Lance le mode avec la carte et le chemin des cles deja appris. Les coffres
-  ne sont plus relies : planifie chaque aller-retour et depose les objets de
-  quete dans le bon coffre.
-- Joue en Facile si le succes ne demande pas une difficulte. Les rubans et les
-  munitions doivent servir aux salles de transition, pas aux petits ennemis.
-- Ne ramasse pas les objets optionnels avant d'avoir une route claire. Dans
-  les jardins et le laboratoire, verifie le coffre correspondant avant chaque
-  enigme.
+RUN 6 - CHRIS - INVISIBLE ENEMY - SECOND COSTUME
 
-INVISIBLE ENEMY ET ONE DANGEROUS ZOMBIE
+- Lance Once Again depuis le fichier clair Chris. Utilise l'Infinite Rocket
+  Launcher si disponible, termine Invisible Enemy et Ghost of a Chance.
 
-- Fais Invisible Enemy en Facile avec la visibilite des ennemis apprise par
-  les sons et les portes. Garde les munitions pour les couloirs obligatoires.
-- Pour One Dangerous Zombie, ne tire jamais a proximite du zombie special.
-  Apprends ses salles, detourne-le et garde une sauvegarde hors de sa zone.
-- Termine les modes sans modifier la sauvegarde de Normal. Les succes sont
-  independants et les compteurs de collection ne valent pas le risque.
+RUN 7 - JILL - VERY EASY - SANS SAUVEGARDE ET SANS PARTENAIRE
 
-NETTOYAGE DES SUCCES
+- Utilise une arme bonus si disponible, ne touche jamais une machine a ecrire,
+  ne sauve ni Barry ni Chris et termine. Cela valide Ink is for Squids et
+  Every Woman for Herself.
 
-- Fins : valide les differentes combinaisons de sauvetage par sauvegardes de
-  choix et termine la partie apres chaque notification.
-- Armes : recupere le couteau, le pistolet, le fusil, le lance-grenades, le
-  magnum et le lance-roquettes ; utilise l'arme bonus quand elle est active.
-- Combat : tue avec le couteau, les flammes, une attaque chargee et les
-  armes lourdes. Les ennemis faibles des premieres zones sont les meilleurs
-  pour les succes techniques.
-- Collection : fichiers, cartes, objets de soin, munitions, plantes et armes
-  doivent etre verifies dans le menu et sur la sauvegarde terminee.
+RUN 8 - CHRIS OU JILL - HARD - FINITIONS
 
-CHECKLIST STEAM FINALE - 44/44
+- Utilise cette run seulement si Oh, the Horror, Starsenal, Passion for Fashion
+  ou un fichier de carte n'est pas encore valide. Le reste est normalement
+  couvert par les sept parties precedentes.
 
-[ ] Jill et Chris termines.
-[ ] Fins et choix de sauvetage.
-[ ] Fichiers, cartes, objets, armes, herbes et salles inspectees.
-[ ] Combat au couteau, flammes, armes et succes techniques.
-[ ] Real Survival.
-[ ] Invisible Enemy.
-[ ] One Dangerous Zombie.
-[ ] Costumes et bonus de fin.
-[ ] Verification finale du profil Steam : 44/44.
+TABLEAU DES SUCCES PAR PARTIE
 
-REGLE ANTI-SPOILER
+Succes | Partie recommandee | Point de controle
+-------|---------------------|------------------
+First Kills Are Special | N'importe | Premier zombie.
+Get Used To It | N'importe | Mourir une fois.
+Not Taking Any Chances | RUN 1 | Bruler un zombie avec le fuel canteen.
+Break Out the Marshmallows! | RUN 1 | Bruler deux zombies avec une flaque de kerosene.
+Seeing Red | RUN 1 | Tuer un Crimson Head.
+Not Waiting to Exhale | RUN 1 Jill | Survivre a la premiere rencontre avec Yawn.
+Deep Sixed | RUN 1 | Tuer Mother Neptune.
+Spider Sense | RUN 1 | Tuer Black Tiger.
+Who's the Hunter Now? | RUN 1 | Premier Hunter tue.
+Delaying the Inevitable | RUN 1 Jill | Sauver Richard avec le Serum.
+What a Great Guy | RUN 1 Jill | Barry sauve Jill du plafond.
+Giant Snake Got Nothin' | RUN 1 Jill | Tuer Yawn a la seconde rencontre.
+Grave Digger | RUN 1 Jill | Tuer Crimson Head Prototype-1.
+The Key Master | RUN 1 Jill | Obtenir Helmet Key.
+Where the Magic Happens | RUN 1 Jill | Entrer au laboratoire.
+Alpha Team's Finest | RUN 1 | Finir avec Jill.
+Not Just Any Object | RUN 2 Chris | Recuperer Stone & Metal Object.
+Herbicide | RUN 2 Chris | Vaincre Plant 42 avec Chris.
+Written Word is Dead | RUN 2 Chris | Ramasser Last Book Vol. 2.
+An End to a Poor Girl's Misery | RUN 2 Chris | Vaincre Lisa Trevor.
+You da Man, Chris | RUN 2 | Finir avec Chris.
+Bravo, Rebecca | RUN 2 Chris | Rebecca sauve Chris.
+That Was Nice of You | RUN 2 Chris | Sauver Rebecca d'un Hunter.
+Sorry I Made You Wait | RUN 2 Chris | Liberer Jill avec les trois MO Disks.
+The Nightmare Ends | RUN 2 Chris | Sauver Rebecca et Jill.
+Trust Him | RUN 1 Jill | Rendre l'arme a Barry.
+Sorry About the Wait | RUN 1 Jill | Liberer Chris avec les trois MO Disks.
+I'm a Member of S.T.A.R.S. | RUN 1 Jill | Finir avec Chris et Barry.
+Every Man for Himself | RUN 4 Chris | Ne sauver personne.
+Every Woman for Herself | RUN 7 Jill | Ne sauver personne.
+Like Taking Candy from a Baby | Toute victoire | Very Easy ou plus.
+Not in the Mood to Die | Toute victoire | Easy ou plus.
+Take that, Zombies! | RUN 3 | Normal ou plus.
+Oh, the Horror | RUN 8 | Hard.
+We're in This Together | RUN 2 | Finir avec Jill et Chris sur le profil.
+The Survival Horror | RUN 5 | Real Survival.
+Ghost of a Chance | RUN 6 | Invisible Enemy.
+Racing and Pacing | RUN 3 | Moins de cinq heures.
+Don't Stop Running | RUN 3 | Moins de trois heures.
+CQC FTW | RUN 4 Chris | Couteau seulement.
+Ink is for Squids | RUN 7 Jill | Finir sans sauvegarder.
+Every Nook and Cranny | RUN 1 Jill | Toutes les salles vertes.
+Starsenal | Runs 1-6 | Toutes les armes et shells.
+Passion for Fashion | Runs 1,2,5,6 | Deux fins Jill et deux fins Chris.
 
-Les personnages jouables, les zones et les modes servent a gerer la route.
-Les fins, identites, morts, retournements et consequences ne sont pas decrits.
+INVENTAIRE ET COMBAT
+
+GESTION DES SALLES
+
+- Quand tu entres dans une salle, regarde la carte avant de sortir. Si elle
+  reste rouge, cherche les objets dans les angles, sur les bureaux, derriere
+  les tableaux et dans les petits renfoncements.
+- Ramasse d'abord les objets uniques, les cartes, les fichiers, les cles, les
+  medaillons et les armes. Les munitions peuvent attendre si l'inventaire est
+  plein.
+- Brule les zombies definitivement quand une salle est sur un trajet repete.
+  Le fuel canteen doit etre rempli avec kerosene dans une salle de sauvegarde.
+- Ne brule pas les zombies au hasard en run chronometree. Le detour vers le
+  fuel canteen est reserve a RUN 1.
+
+COMBAT
+
+- Handgun : zombies seuls, chiens faibles et corbeaux si tu dois nettoyer une
+  salle. Un zombie au sol peut se relever ; verifie la carte avant de partir.
+- Shotgun : vise bas pour toucher la tete, surtout contre Hunters et chiens.
+- Grenade Launcher : Jill l'obtient sur Forest ; utilise les trois shells pour
+  Starsenal, puis garde Flame ou Acid pour les Hunters et les araignees.
+- Magnum : reserve-la aux boss et aux Hunters difficiles. Le magnum de Barry
+  est une arme separee de Starsenal et se trouve dans la branche ou Jill ne
+  rend pas son arme.
+- Quen? Aucun signe : dans Resident Evil, le placement, les portes et le
+  couteau de defense remplacent les protections. Ne traverse pas une porte
+  avec la jauge jaune si tu peux eviter le combat.
+- Pour un Hunter, cours en diagonale, attends sa position d'atterrissage et
+  tire au shotgun. Pour un zombie, passe sur le cote plutot que de gaspiller
+  des balles dans un couloir.
+
+OBJETS DEFENSIFS ET CQC
+
+- Dagger et Battery Pack peuvent etre utilises dans les runs normales.
+- Sur CQC FTW, ne ramasse pas de couteau de defense si l'inventaire le permet,
+  n'appuie pas sur l'action defensive et ne pietine jamais un zombie.
+- Le couteau de Chris est plus pratique pour la run CQC. Les zombies sont
+  esquives dans les couloirs ; les boss sont geres par position et timing.
+
+PROLOGUE - ENTREE DANS LE MANOIR
+
+PREMIER ZOMBIE ET PREMIERS FICHIERS
+
+1. Dans la salle a manger, prends le ruban si la table est accessible et
+   repere la machine a ecrire. Avec Jill, passe la porte droite, rencontre le
+   premier zombie et tue-le pour First Kills Are Special.
+2. Avec Chris, utilise le couteau et le couloir de la meme maniere. Le succes
+   est partage entre les personnages.
+3. Reviens dans la salle a manger et laisse la sequence avec Barry se terminer.
+   Retourne ensuite dans le hall principal et cherche Wesker derriere l'escalier.
+4. Dans la salle du cadavre de Kenneth, prends Kenneth's Film sur le corps.
+   Dans la crypte, examine Book of Curses et inspecte-le pour obtenir la Sword
+   Key. Le fichier se valide a l'inspection, pas au simple ramassage.
+5. Dans la petite bibliotheque du 2F, prends Dog Whistle et lis Crumpled Memo.
+   Dans la meme salle, prends Botany Book sur le bureau si le personnage y
+   trouve le fichier.
+
+PREMIERE BOUCLE DU MANOIR
+
+1. Depuis le hall, traverse la salle a manger et passe la porte pres du corps
+   de Kenneth. Monte dans le couloir de la cage a oiseaux, puis prends l'escalier.
+2. Dans la piece au miroir, elimine le zombie et prends Golden Arrow sur la
+   statue. Sur le balcon au-dessus de la salle a manger, pousse la statue dans
+   le vide et ramasse Blue Jewel en bas.
+3. Examine Golden Arrow dans l'inventaire pour obtenir Arrowhead. Place-le sur
+   le relief de la crypte et prends Book of Curses/Sword Key.
+4. Ouvre les premieres portes avec Sword Key. Avec Jill, garde Lockpick ; avec
+   Chris, utilise les petites cles quand elles apparaissent.
+5. Dans le bar 1F, ouvre le passage cache avec le briquet et lis la premiere
+   partie de Trevor's Diary a cote du piano.
+6. Dans la grande salle d'art 1F, lis la deuxieme partie de Trevor's Diary sur
+   le banc d'exposition.
+7. Dans le passage secret 1F, lis la troisieme partie de Trevor's Diary sur la
+   petite tombe au bout du passage.
+
+WHAT A GREAT GUY - ROUTE JILL
+
+1. Dans le couloir ou se trouve la Broken Shotgun, prends la vraie Shotgun
+   dans la salle d'armes a l'ouest du manoir.
+2. Ne remplace pas la vraie arme par la Broken Shotgun. Sors de la salle et
+   verifie que les deux sorties sont bloquees par le plafond.
+3. Attends le declenchement de la scene ou Barry ouvre la porte. What a Great
+   Guy apparait quand Jill est sortie.
+4. Si tu veux simplement la route standard, tu peux utiliser la Broken Shotgun
+   plus tard, mais la condition du succes doit etre faite avant la fermeture
+   de la salle.
+
+ARMOR KEY ET ZONE EST
+
+1. Dans la petite bibliotheque, prends Dog Whistle et le fichier. Descends vers
+   la salle de sauvegarde situee sous l'escalier est : c'est la Serum Room.
+2. Remplis le Fuel Canteen si tu veux bruler un zombie. Pour Not Taking Any
+   Chances, tue un zombie, attends qu'il soit au sol et utilise le canteen.
+3. Avec Dog Whistle, ouvre la porte metallique vers la terrasse. Tue les deux
+   chiens, recupere le Collar et examine-le pour obtenir la fausse Armor Key.
+4. Au couloir du cercueil et de l'armure, avance jusqu'au socle. Prends la
+   vraie Armor Key puis remplace-la immediatement par la fausse pour eviter le
+   piege de lances.
+5. Dans cette meme boucle, fais une sauvegarde devant le premier groupe de
+   zombies. Pour Seeing Red, laisse un zombie devenir Crimson Head ou abats
+   le premier Crimson Head disponible avec le shotgun.
+6. Dans l'East Wing Storeroom, lis Body Disposal avant d'entrer dans Medical
+   Storage si tu veux obtenir sa premiere position. L'autre position apparait
+   si l'ordre des salles est inverse ; une seule occurrence suffit.
+7. Dans Researcher's Bedroom 1F, lis Keeper's Diary sous le bureau oppose a
+   l'armoire.
+8. Dans la salle du poisson 2F, lis Researcher's Will. Barry peut le donner a
+   Jill ; sinon le document attend sur le bureau pres du bassin.
+9. Dans Trophy Room 2F, lis Mail to the Chief of Security sur la petite table.
+
+DELAYING THE INEVITABLE - RICHARD ET SERUM
+
+1. Avec Jill, apres avoir obtenu Armor Key et Grenade Launcher, va au couloir
+   nord-est du hall. Richard est blesse et le jeu lance une sequence chronometree.
+2. Ne fais aucun detour. Retourne dans la Serum Room sous l'escalier est,
+   prends Serum et reviens directement a Richard.
+3. Donne-lui le Serum avant la fin du temps. Delaying the Inevitable apparait.
+4. Garde Richard vivant en RUN 1 : il aide pendant la prochaine rencontre et
+   son Assault Shotgun sera recuperable dans la salle de l'affrontement.
+5. Avec Chris, la meme sequence peut etre utilisee pour organiser la route de
+   Rebecca. Pour Bravo, Rebecca, le chemin le plus sur est de laisser Chris
+   etre empoisonne par Yawn puis de courir au Serum en controlant Rebecca.
+
+KNIGHT PUZZLE ET PREMIER MASQUE
+
+1. Dans la salle aux armures, pousse les chevaliers dans l'ordre Spear, Axe,
+   Shield. Prends la Jewelry Box et examine-la pour trouver le premier Death
+   Mask.
+2. Si le gaz se declenche, sors de la salle et soigne-toi avant de poursuivre.
+3. Dans le coffre de la salle de sauvegarde, depose les objets inutiles et
+   conserve Sword Key, Armor Key, une arme, des soins et le Death Mask.
+
+SHIELD KEY, BEE ROOM ET PLANT 42 ROOTS
+
+1. Dans la salle de la porte verrouillee pres du sommet de l'escalier, utilise
+   Lockpick avec Jill ou la petite cle de Chris. Dans la piece des vitrines,
+   combine Fishhook et Lure of a Bee.
+2. Place le leurre assemble dans la vitrine gauche, Bee Specimen dans l'autre,
+   puis presse l'interrupteur. Prends Wind Crest et evite la bee.
+3. Dans la serre, utilise Chemical au panneau de pompe et tourne le bouton sur
+   RED. Le choix vert empoisonne les herbes utiles.
+4. Derriere la plante morte, ramasse le deuxieme Death Mask.
+5. Dans la salle du journal Itchy Tasty, ouvre le placard avec le briquet,
+   lis le contenu si tu veux les fichiers de la carte et prends les objets.
+6. Dans le salon pres de la cheminee, prends Wooden Emblem. Si Sword Key a
+   encore des portes, ouvre-les puis jette-la quand elle devient inutile.
+7. Dans la salle du piano, pousse l'etagere et prends Moonlight Sonata Cover.
+   Combine-la avec Musical Score et joue le morceau.
+8. Prends Gold Emblem dans le passage et remplace-le par Wooden Emblem. Place
+   Gold Emblem au-dessus de la cheminee de la salle a manger.
+9. Regle la grande horloge sur six heures et prends Shield Key.
+
+NOT WAITING TO EXHALE ET GIANT SNAKE GOT NOTHIN'
+
+1. Sauvegarde avant la porte de l'attique. Prends une arme efficace et un soin.
+2. Entre et survis a la premiere rencontre avec Yawn. Tu peux courir autour de
+   la salle et sortir : Not Waiting to Exhale apparait apres l'echappee.
+3. Avec Jill, si Richard est vivant, laisse-le aider puis termine la sequence.
+   Ramasse l'objet de progression et retourne au hall.
+4. Avec Chris, si tu veux Bravo, Rebecca par Serum, laisse Yawn te mordre une
+   fois pour declencher l'empoisonnement, puis controle Rebecca.
+5. Plus tard, retourne dans la bibliotheque 2F avec Helmet Key. C'est la seconde
+   rencontre avec Yawn. Tue-le avec Grenade Launcher, Magnum ou Shotgun.
+6. Avec Jill, Giant Snake Got Nothin' apparait au meurtre de Yawn. Avec Chris,
+   examine Last Book Vol. 2 apres le combat : c'est Written Word is Dead.
+7. Dans le livre, recupere Wolf Medal. Garde-le dans le coffre jusqu'a la fin.
+
+MASQUES ET CRIMSON HEAD PROTOTYPE
+
+1. Recupere les Death Masks restant dans les zones ouvertes par Armor Key.
+   Le troisieme se trouve apres le puzzle de salle aux armures, le quatrieme
+   dans la galerie des tableaux.
+2. Galerie : change les tableaux dans l'ordre suivant : tableau 1 orange,
+   tableau 2 vert, tableau 3 violet. Presse le bouton final et prends le
+   dernier Death Mask.
+3. Reviens au coffre, prends les quatre masques et l'arme. Place chaque masque
+   sur le visage correspondant dans la crypte derriere l'escalier principal.
+4. Le cercueil s'ouvre. Le Crimson Head Prototype-1 attaque.
+5. Avec Jill, tue-le et prends Stone & Metal Object. Grave Digger apparait.
+6. Avec Chris, tue-le et prends Stone & Metal Object. Not Just Any Object
+   apparait.
+7. Place Stone & Metal Object dans la porte derriere la crypte et ouvre le
+   passage vers la remise, le bassin et la cour.
+
+COUR ET CHEMIN DE LA CABANE
+
+1. Dans la remise, lis la premiere partie de Family Picture and Notes sur la
+   table pres de la machine a ecrire.
+2. Dans le couloir de la remise, descends et regle la girouette rouge sur West.
+   Regle la bleue sur North pour ouvrir la porte aux statues de chiens.
+3. Dans le cimetiere, pose Wind Crest dans la tombe de droite. Examine Moon,
+   Star et Sun Crests et presse les boutons de chaque medaillon.
+4. Place les trois crests dans la tombe de gauche et prends Magnum.
+5. Dans le chemin boise, evite les serpents et les corbeaux si tu n'es pas en
+   run de nettoyage. Le chemin conduit a la cabane.
+6. Dans la cabane, sauvegarde dans la partie normale puis prends Square Crank
+   au fond. Lisa Trevor apparait ; frappe-la seulement pour ouvrir un passage
+   et sors sans gaspiller tes munitions.
+7. Apres la cabane, utilise Square Crank au bassin de la cour, descends par
+   l'ascenseur et traverse les jardins jusqu'au portail de Residence.
+
+RESIDENCE - PUZZLES ET CARTE COMPLETE
+
+ARRIVEE, CARTES ET FICHIERS
+
+1. Dans la salle de controle de la Residence, lis la carte et ramasse les
+   fournitures. Dans Room 001, prends Self Defense Gun et lis Suicide Note.
+2. Dans Room 002, prends la carte de Residence si elle est sur le mur, lis
+   Plant 42 Report sur le bureau et recupere la cle de Room 003 selon le trajet.
+3. Dans Room 003, lis Organic Chemistry Lab Experiment sur la bibliotheque
+   parmi les livres rouges.
+4. Dans la petite salle de sauvegarde, note les trois lampes et les valeurs du
+   billard. Les combinaisons sont generees pour la partie : ne copie pas un
+   code d'une autre run.
+5. Dans la salle du bassin, prends Red Book et les objets de la carte avant de
+   descendre. Si la carte est rouge, inspecte les petits bureaux et les coins.
+
+AQUA RING - DEEP Sixed
+
+1. Avec Control Room Key, va dans la salle de controle du bassin. Note le
+   numero de valve inscrit sur le tableau : 1, 2 ou 3 selon la partie.
+2. Active la console de pression, puis la commande des volets. Quand elle se
+   bloque, cours dans le couloir et tourne la valve note au tableau.
+3. Reviens a la console, ferme les volets et active le drainage. Descends par
+   la porte, pas par la grille, puis suis le couloir jusqu'a la plateforme.
+4. Passe devant Mother Neptune et monte sur la plateforme. Pousse la console
+   dans l'eau et active le levier pour l'electrocuter.
+5. Ramasse Gallery Key aupres du corps. Deep Sixed apparait.
+6. Dans la salle Aqua Ring de Chris, Richard et l'Assault Shotgun dependent de
+   la condition de Richard. En run d'armes, ramasse le fusil avant de partir.
+
+V-JOLT ET PLANT 42
+
+1. Avec Gallery Key, ouvre la galerie. Prends Insecticide Spray sur le corps
+   dans le couloir et retourne au trou de la carte de Residence.
+2. Utilise le spray dans le trou pour eliminer les abeilles. Retourne dans la
+   galerie et prends la cle de Room 003 derriere la ruche.
+3. Place Red Book dans la bibliotheque de Room 003 et range les livres pour
+   former la silhouette demandee. Ouvre le passage secret, mais prepare le
+   V-Jolt si tu veux economiser des munitions.
+4. Dans la salle de code, regarde les lampes et le billard de ta partie. Le
+   code couleur, oeil et chiffre est aleatoire ; recopie-le avant d'entrer.
+5. Pour V-Jolt, prends des bouteilles vides et fais exactement :
+   - Water + UMB No.3 = NP-004.
+   - NP-004 + Yellow-6 = UMB No.10.
+   - Water + Yellow-6 = UMB No.7.
+   - UMB No.10 + UMB No.7 = VP-017.
+   - VP-017 + UMB No.3 = V-Jolt.
+6. Retourne dans la salle des racines de l'Aqua Ring et applique V-Jolt.
+7. Avec Jill, cette preparation affaiblit Plant 42 et permet l'intervention de
+   Barry dans la scene. Avec Chris, Rebecca peut fabriquer V-Jolt selon la
+   condition de Richard ; Chris doit ensuite vaincre Plant 42 lui-meme.
+8. Avec Chris, entre dans le passage de Room 003, bats Plant 42 et prends
+   Helmet Key dans la cheminee. Herbicide apparait quand Chris termine le
+   combat.
+9. Avec Jill, prends Helmet Key apres la scene de Room 003. Sauvegarde avant
+   de retourner au manoir.
+
+CHRIS - BRAVO, REBECCA ET HUNTER
+
+1. Dans une partie Chris, fais une sauvegarde avant la premiere rencontre avec
+   Yawn. Laisse Yawn mordre Chris une fois, puis sors pour passer a Rebecca.
+2. Controle Rebecca, va directement a la Serum Room, prends Serum et reviens
+   au personnage empoisonne avant la fin de la sequence. Bravo, Rebecca apparait.
+3. Plus tard, apres avoir ouvert la porte Emblem et entendu le cri, cours vers
+   la Reading Room par le couloir C. Entre par cette porte et tue le Hunter
+   avant de sortir. That Was Nice of You apparait.
+4. Si tu arrives trop tard ou quittes la Reading Room, Rebecca meurt et la
+   meilleure fin Chris devient impossible pour cette run.
+5. Pour RUN 4, ne fais pas cette sauvegarde : laisse Rebecca mourir afin de
+   combiner Every Man for Himself et CQC FTW.
+
+RETOUR AU MANOIR - HUNTERS ET EMBLEM KEY
+
+1. Avec Helmet Key, ouvre les portes restantes. Les Hunters remplacent une
+   partie des zombies : prends le shotgun avant d'ouvrir une piece nouvelle.
+2. Dans la chambre de l'aigle, pousse les meubles sous les deux tetes et
+   ramasse Red Jewel et Yellow Jewel avant que l'aigle ne te pousse.
+3. Dans Tiger Statue Room, place Blue Jewel et Yellow Jewel pour obtenir les
+   munitions et un MO Disk. Ne place pas Red Jewel ici.
+4. Dans le hall, ouvre la porte Helmet Key et examine Jewelry Box avec Red
+   Jewel. Resous le puzzle, examine Brooch et obtiens Emblem Key.
+5. Dans le bureau 1F est, allume la lampe, ramasse Metal Object et lis les
+   fichiers accessibles. Ne jette pas Metal Object.
+6. Dans la salle de l'ancienne Armor Key, ouvre la porte restante avec Helmet
+   Key et prepare une arme lourde. Yawn revient dans la bibliotheque.
+
+GIANT SNAKE, EAGLE MEDAL ET JARDIN
+
+1. Avec Jill, tue Yawn et prends Wolf Medal dans Last Book. Avec Chris,
+   ramasse Last Book Vol. 2 pour Written Word is Dead.
+2. Dans le couloir ou les murs avancent, pousse la statue vers le trou en te
+   protegeant derriere elle. Active le bouton au mur et recule chaque fois.
+3. Ouvre le passage, ramasse Eagle Medal dans le livre et descends dans le
+   sous-sol. Retablis le courant a l'interrupteur, elimine les zombies et
+   prends Battery.
+4. Dans le jardin, place Battery dans le boitier pres de l'ascenseur. Remonte,
+   utilise Square Crank sur le bassin pour arreter la cascade et descends dans
+   les tunnels.
+5. Depose Wolf Medal et Eagle Medal dans le coffre de la salle de sauvegarde
+   si tu n'es pas encore pret pour Lisa.
+
+TUNNELS - SPIDER SENSE ET OBJETS DE LISA
+
+1. Dans la salle d'arrivee, prends Hex Crank sur le corps d'Enrico. Une attaque
+   de Hunter se produit au retour : avance avec shotgun equipe.
+2. Utilise Hex Crank sur le mur plusieurs fois pour ouvrir le passage gauche.
+   Evite le rocher roulant en te placant dans l'alcove.
+3. Dans la salle de Black Tiger, utilise Flame Shell ou une arme incendiaire.
+   Tue ensuite les petites araignees et coupe les toiles de la porte avec Knife.
+4. Spider Sense apparait quand Black Tiger est vaincu. Ramasse Survival Knife
+   dans la salle si la carte le demande.
+5. Dans la salle de la statue, utilise Hex Crank pour pousser le bloc et aligner
+   la statue vers le carre tournant. Prends Cylinder.
+6. Retourne a la console de l'ascenseur et prends Shaft. Combine Shaft et
+   Cylinder, place l'ensemble dans le panneau et saisis 4231.
+7. Dans la salle de Lisa, ne gaspille pas toutes tes munitions : contourne-la,
+   ouvre le passage et pousse la caisse sur l'ascenseur.
+8. Active l'ascenseur, pousse la caisse dans le compacteur et prends Broken
+   Flamethrower dans la fosse.
+9. Active l'interrupteur de la salle de Lisa, cours vers la porte et place
+   Broken Flamethrower sur les crochets pour la deverrouiller.
+10. Dans Lisa's Room, esquive les serpents dans l'eau, prends Jewelry Box 3 et
+    examine-le. Lis la deuxieme partie de Family Picture and Notes.
+11. Dans Jessica's Tomb/Altar B2, lis la troisieme partie de Family Picture and
+    Notes dans le sarcophage. Pour Jill, si Barry tombe dans la branche sans
+    arme, recupere Barry's Photograph sur lui.
+12. Combine la frame de l'objet avec Metal Object et recupere le second Stone
+    and Metal Object. Reviens a la porte derriere l'escalier du hall.
+13. Prends le premier Stone and Metal Object dans l'encoche de la remise et
+    place les deux objets derriere l'escalier. Accede au laboratoire.
+
+TRUST HIM - BRANCHE JILL AVEC BARRY
+
+1. Avant la rencontre de Barry devant Jessica's Tomb, cree BRANCHE-BARRY.
+2. Quand Barry demande son arme, donne-la-lui. Trust Him apparait quand Barry
+   rejoint la confrontation.
+3. Pour la bonne fin, ne le laisse pas tomber dans la fosse et protege-le
+   pendant la premiere rencontre avec Tyrant.
+4. Pour Every Woman for Herself, recharge BRANCHE-BARRY, ne rends pas l'arme,
+   puis continue la branche sans Barry. Cette decision fait aussi apparaitre
+   Barry's Photograph si le corps est fouille.
+
+AN END TO A POOR GIRL'S MISERY - ROUTE CHRIS
+
+1. Avec Chris, avance dans les tunnels et conserve shotgun/magnum pour Lisa.
+2. Dans la salle du tombeau, pousse les quatre piliers en pierre dans le vide
+   ou tire Lisa jusqu'a ouvrir le sarcophage.
+3. Termine la confrontation et sors de la salle. An End to a Poor Girl's
+   Misery apparait pour Chris.
+4. Avec Jill, la meme zone est parcourue avec Barry : l'objectif est surtout
+   Trust Him, la carte verte et le bon embranchement de fin.
+
+SECRET LABORATORY - CARTES, MO DISKS ET FILMS
+
+ENTREE ET FICHIERS
+
+1. Dans l'escalier du laboratoire B3, prends le MO Disk situe avant les marches.
+2. Dans X-Ray Room A B3, lis Researcher's Letter sur le bureau a droite du
+   panneau. Place les deux radios sur le panneau et classe les noms par ordre
+   alphabetique pour lire le mot CELL.
+3. Dans Visual Data Room B2, prends le deuxieme MO Disk et lis Security
+   Protocols dans la bibliotheque nord-ouest.
+4. Utilise Slide Filter dans le projecteur pour obtenir 8462, ouvre le panneau
+   et prends Laboratory Key dans Editing Room.
+5. Dans X-Ray Room B B3, lis FAX sur les etageres nord-est.
+6. Dans l'Operating Room B3, lis V-ACT sur le bureau pres de l'ordinateur.
+7. Dans Main Laboratory B4, lis Observation Note sur le corps de Wesker.
+8. Le jeu contient les trois MO Disks dans la Tiger Statue Room, l'escalier
+   B2 et la Visual Data Room. Ramasse les trois avant d'activer le premier
+   Tyrant si tu veux sauver le partenaire.
+
+ORDINATEUR ET TROIS VERROUS
+
+1. Dans la salle de l'ordinateur, saisis les mots de passe ADA, JOHN puis CELL.
+2. Dans la salle proche, place le premier MO Disk dans le lecteur.
+3. Retourne a Visual Data Room et prends le deuxieme MO Disk. Le Slide Filter
+   donne 8462 et ouvre Editing Room ; Laboratory Key se trouve dedans.
+4. Descends a la morgue B3, pousse l'etagere et place le deuxieme MO Disk dans
+   son lecteur.
+5. Ouvre le Boiler Room avec Laboratory Key. Elimine les Chimeras avant de
+   porter le carburant : leurs attaques peuvent interrompre la marche.
+6. Dans la salle nord du Boiler Room, prends Fuel Supply Capsule, remplis-la
+   avec Nitro Compound et marche, ne cours pas, jusqu'au generateur.
+7. Insere Fuel Supply Capsule dans le generateur. Une course ou une attaque
+   pendant le transport fait exploser la capsule et annule la tentative.
+8. Passe par le couloir apres le Boiler Room, trouve le dernier lecteur MO et
+   insere le troisieme disque. Les trois leviers de la cellule sont maintenant
+   accessibles.
+
+SORRY ABOUT THE WAIT ET SORRY I MADE YOU WAIT
+
+1. Prepare un fichier avant le premier Tyrant. Dans le couloir de la cellule,
+   utilise les trois lecteurs MO et active les trois verrous.
+2. Apres le premier combat contre Tyrant, descends au niveau de la cellule.
+3. Avec Jill, ouvre la cellule de Chris : Sorry About the Wait apparait.
+4. Avec Chris, ouvre la cellule de Jill : Sorry I Made You Wait apparait.
+5. Pour les fins sans sauvetage, ne collecte pas ou n'utilise pas les trois
+   MO Disks, meme si tu les as dans l'inventaire.
+
+FINALE, SIGNAL ROCKETS ET PARTENAIRES
+
+1. Apres le premier Tyrant, recupere Master Key et ouvre la cellule si c'est la
+   route bonne fin.
+2. Dans le laboratoire d'entree, prends Fuse Unit et place-le dans le panneau
+   pour alimenter l'ascenseur du toit.
+3. Dans le couloir d'evasion, laisse tes partenaires suivre. Dans les branches
+   sans sauvetage, le chemin et la scene peuvent etre plus courts.
+4. Au toit, utilise Signal Rockets. Le compte a rebours de 30 minutes commence.
+5. Pendant le dernier Tyrant, garde tes partenaires hors de la zone d'attaque,
+   tire avec Magnum ou Grenade Launcher et recupere le Rocket Launcher jete par
+   Brad. Une seule roquette bien placee termine le combat.
+6. Avec Jill, une bonne fin demande Barry vivant et Chris libere. Avec Chris,
+   une bonne fin demande Rebecca vivante et Jill liberee.
+
+FINS ET SUCCES DE PARTENAIRES
+
+JILL - BONNE FIN
+
+- Sauvegarde Barry lors de Lisa : donne-lui son arme.
+- Sauvegarde Chris : les trois MO Disks dans le laboratoire.
+- Protege Barry pendant la premiere rencontre de Tyrant et finis la campagne.
+- I'm a Member of S.T.A.R.S. apparait en terminant avec Chris et Barry.
+- Alpha Team's Finest apparait au premier ecran de fin Jill.
+
+JILL - AUCUN PARTENAIRE
+
+- Refuse de rendre l'arme a Barry et laisse la branche se conclure sans lui.
+- Ne depense pas les trois MO Disks et ne libere pas Chris.
+- Termine l'evasion avec Jill seule. Every Woman for Herself apparait.
+- Fais cette fin sur RUN 7 avec aucune sauvegarde si Ink is for Squids est aussi
+  visee ; les deux conditions sont compatibles.
+
+CHRIS - BONNE FIN
+
+- Sauve Rebecca du Hunter dans Reading Room par le couloir C.
+- Sauve Jill dans sa cellule avec les trois MO Disks.
+- Termine la finale avec Rebecca et Jill presentes. The Nightmare Ends apparait.
+- You da Man, Chris apparait egalement.
+
+CHRIS - AUCUN PARTENAIRE
+
+- Ne pars pas sauver Rebecca lorsqu'elle crie dans la Reading Room.
+- Ne depense pas les trois MO Disks et ne libere pas Jill.
+- Termine seul. Every Man for Himself apparait.
+- Cette fin est recommandee pour RUN 4, avec la run au couteau.
+
+100 % DES FICHIERS
+
+Les fichiers sont un controle de route. Prends-les dans l'ordre ci-dessous et
+ouvre chaque fichier dans l'inventaire si le succes de texte de Chris est vise.
+
+MANSION I
+
+- S.T.A.R.S. Manual : inventaire de depart.
+- Kenneth's Film : corps de Kenneth dans Tea Room 1F.
+- Book of Curses : crypte B1 ; l'inspection donne Sword Key et le fichier.
+- Trevor's Diary 1 : Bar 1F, a cote de la statue de Beethoven dans le passage.
+- Trevor's Diary 2 : Large Art Room 1F, sur le banc d'exposition.
+- Trevor's Diary 3 : Secret Passage 1F, sur la petite tombe au bout.
+- Crumpled Memo : Small Library 2F, obtenu avec Dog Whistle.
+
+MANSION II
+
+- Botany Book : Small Library 2F, sur le bureau oppose a l'entree est.
+- Body Disposal : East Wing Storeroom 1F ou Medical Storage 1F selon l'ordre
+  des deux salles. Une seule apparition suffit.
+- Keeper's Diary : Researcher's Bedroom 1F, sous le bureau face a l'armoire.
+- Researcher's Will : Fish Tank Room 2F, donne par Barry ou pose sur le bureau.
+- Mail to the Chief of Security : Trophy Room 2F, petite table centrale.
+- Last Book Vol. 2 : Library 2F, apres la seconde rencontre avec Yawn, Chris.
+
+COURTYARD ET RESIDENCE
+
+- Suicide Note : Room 001, ramasser Self Defense Gun.
+- Plant 42 Report : Room 002, bureau pres du lit.
+- Organic Chemistry Lab Experiment : Room 003, parmi les livres rouges.
+- Family Picture and Notes 1 : Cabin, table pres de la machine a ecrire.
+- Family Picture and Notes 2 : Lisa's Room B2, Jewelry Box 3.
+- Family Picture and Notes 3 : Jessica's Tomb B2, sarcophage.
+- Barry's Photograph : route Jill sans rendre l'arme, sur Barry apres sa chute.
+
+LABORATORY
+
+- Researcher's Letter : X-Ray Room A B3, bureau a droite du panneau.
+- V-ACT : Operating Room B3, bureau pres de l'ordinateur.
+- FAX : X-Ray Room B B3, etageres au nord-est.
+- Security Protocols : Visual Data Room B2, bibliotheque nord-ouest.
+- Observation Note : Main Laboratory B4, corps de Wesker.
+
+ARMES ET STARSENAL
+
+ARMES QUI COMPTENT
+
+- Survival Knife : inventaire de Jill ; dans les tunnels pour Chris selon la
+  route. Les couteaux defensifs ne remplacent pas cette arme.
+- Handgun : Jill au depart ; Chris le recupere dans le hall selon le scenario.
+- Shotgun : salle d'armes du manoir, avec Broken Shotgun ou evenement Barry.
+- Grenade Launcher : corps de Forest sur la terrasse est, Jill uniquement.
+- Grenade Shells, Acid Shells et Incendiary Shells : charge chaque type dans
+  le Grenade Launcher au moins une fois pour Starsenal.
+- Magnum : tombe du cimetiere apres Moon, Star et Sun Crests.
+- Assault Shotgun : Jill dans l'attique apres Richard/Yawn ; Chris dans Aqua
+  Ring apres le drainage. Ramasse-le avant de quitter la salle avec Jill.
+- Self Defense Gun : Room 001 de la Residence. Il ne compte pas pour Starsenal,
+  mais ramasse-le pour vider la carte et les fichiers.
+- Barry's 44 Magnum : Jill seulement, route ou elle ne rend pas son arme.
+- Flamethrower : Chris seulement, dans les tunnels, apres avoir pousse la caisse
+  et ramasse Broken Flamethrower.
+- Rocket Launcher : lance-roquettes de la finale ; il compte comme l'arme
+  obtenue pendant la campagne.
+- Samurai Edge : obtenu avec une victoire sous cinq heures.
+- Infinite Handgun : recompense de la victoire sous cinq heures selon le bonus
+  de la version et du fichier clair. Equipe-le dans les runs de nettoyage final.
+- Infinite Rocket Launcher : obtenu avec une victoire sous trois heures.
+
+SEQUENCE SURE POUR STARSENAL
+
+1. RUN 1 Jill : Grenade Launcher, les trois types de shells, Shotgun, Magnum,
+   Assault Shotgun, Self Defense Gun et Barry's 44 si tu fais la branche.
+2. RUN 2 Chris : Flamethrower et Assault Shotgun de Chris.
+3. RUN 3 : Rocket Launcher de Brad et armes bonus sous cinq/trois heures.
+4. Si le succes n'apparait pas, verifie que les trois munitions ont ete
+   chargees dans l'arme, pas simplement ramassees.
+
+COSTUMES - PASSION FOR FASHION
+
+1. Termine Jill une premiere fois, puis lance Once Again avec Jill depuis le
+   fichier clair. Termine la seconde Jill.
+2. Termine Chris une premiere fois, puis lance Once Again avec Chris depuis le
+   fichier clair. Termine la seconde Chris.
+3. Les costumes BSAA sont disponibles au debut ; les quatre costumes bonus
+   sont lies aux victoires des deux personnages.
+4. Conserve les fichiers clairs dans des emplacements differents et charge le
+   bon fichier avant de choisir le second personnage.
+5. Passion for Fashion apparait apres le quatrieme clear, quand toutes les
+   tenues sont dans le profil.
+
+EVERY NOOK AND CRANNY - ROUTE DE CARTES VERTES
+
+REGLE DE NETTOYAGE
+
+- Fais ce nettoyage en RUN 1 Jill Very Easy/Easy.
+- Dans le menu Map, une zone rouge signifie qu'un objet, un fichier ou une
+  carte reste dans une salle. Une zone verte signifie qu'elle est vide.
+- Les ennemis ne sont pas requis. Tu peux courir devant eux si la salle passe
+  verte apres les pickups.
+- Ne quitte pas une zone avec une salle rouge en pensant revenir plus tard :
+  certains evenements changent les portes et les objets disponibles.
+
+MANSION - PREMIERE PASSE
+
+- Dining Room : fichier, Wooden Emblem quand il devient accessible, et tout
+  objet sur les tables.
+- Kenneth's Tea Room : Kenneth's Film sur le corps.
+- Birdcage Corridor et Mirror Room : zombies, objets des bureaux, Golden Arrow.
+- Dining Balcony : pousser la statue, puis revenir prendre Blue Jewel.
+- Crypt et Book of Curses : ouvrir le livre, prendre Sword Key et les objets.
+- Bar, Large Art Room et Secret Passage : les trois parties du journal Trevor.
+- Small Library : Dog Whistle, Crumpled Memo, Botany Book et fournitures.
+- Serum Room, East Wing Storeroom, Medical Storage : Body Disposal, fuel,
+  rubans, objets de soins et map color.
+- Armor Corridor, Armour Puzzle Room et Shotgun Room : Broken Shotgun, Armor
+  Key, vraies armes et objets de la salle.
+
+MANSION - ARMOR KEY ET SHIELD KEY
+
+- Forest Balcony : Grenade Launcher et objets de Forest avec Jill.
+- Fish Tank Room : Researcher's Will, objets et assault shotgun selon Chris.
+- Knight Room : Jewelry Box et premier Death Mask.
+- Bee Room : Fishhook, Lure, Bee Specimen et Wind Crest.
+- Greenhouse : Chemical, deuxieme Death Mask et toutes les herbes disponibles.
+- Itchy Tasty Room : fichier/objets du bureau et placard.
+- Piano Room : Moonlight Sonata Cover, Musical Score, Gold Emblem.
+- Dining Room : replacer Gold Emblem, regler l'horloge, Shield Key.
+- Gallery : tous les objets, les trois couleurs, quatrieme Death Mask.
+- Crypt : quatre masques, Crimson Head Prototype-1, Stone & Metal Object.
+- Passage to Shed : objet, carte, chien, Square Crank et portes.
+
+COURTYARD, SHED ET RESIDENCE
+
+- Cabin : fichier Family Picture, machine a ecrire, coffre et Square Crank.
+- Graveyard : Wind Crest, Moon/Star/Sun Crests et Magnum.
+- Pool, Waterfall et Garden : utiliser Square Crank, Batterie et toutes les
+  plantes/objets des plateformes.
+- Residence Hall : carte, salle de sauvegarde, fournitures et files.
+- Room 001 : Self Defense Gun, Suicide Note, baignoire et Control Room Key.
+- Room 002 : Residence Map, Plant 42 Report et acces aux chambres.
+- Aqua Ring : Control Room Key, map, Valve, Gallery Key et Mother Neptune.
+- Gallery/Insecticide : spray, ruche, Room 003 Key et objets du couloir.
+- Room 003 : Red Book, Organic Chemistry file, livres, code et passage.
+- V-Jolt Room : bouteilles, UMB chemicals et panneau de combinaison.
+- Plant Root Room : V-Jolt sur les racines et objets de la carte.
+
+MANOIR - RETOUR ET TUNNELS
+
+- Eagle Room : Red Jewel et Yellow Jewel.
+- Tiger Statue Room : Blue/Yellow Jewel, MO Disk et shells.
+- Jewelry Box/Study : Red Jewel, Emblem Key, Metal Object et files.
+- Library : Last Book Vol. 2 avec Chris, Wolf Medal et objets.
+- Moving Wall Room : statue, Eagle Medal, sous-sol et Battery.
+- Garden Water Console : batterie, Square Crank et descente de cascade.
+- Enrico Room : Hex Crank, file et objets avant l'attaque Hunter.
+- Boulder Passage : deux rochers, objets des alcoves.
+- Black Tiger Lair : Survival Knife, Spider Sense et objets du coffre.
+- Cylinder Room : Cylinder, Shaft, combinaison 4231.
+- Lisa's Room : Broken Flamethrower, Jewelry Box 3 et Family Picture.
+- Jessica's Tomb : troisieme partie de Family Picture, Barry's Photograph selon
+  la branche et le coffre du tombeau.
+- Main Hall secret door : deux Stone & Metal Objects et entree du laboratoire.
+
+LABORATORY
+
+- B2 Visual Data Room : MO Disk, Security Protocols, Slide Filter et code.
+- B3 X-Ray Rooms A/B : Researcher's Letter, FAX, panneaux et MO reader.
+- B3 Operating Room : V-ACT, objets, cle et lecteur.
+- B3 Morgue : lecteur MO, objets et chemin vers Boiler Room.
+- Boiler Room : Laboratory Key, Fuel Capsule, Nitro, generateur et rubans.
+- B4 Main Laboratory : Observation Note, ordinateur ADA/JOHN/CELL, dernier
+  lecteur et portes de cellule.
+- Power Room et Elevator : batterie/fusible, objets de fin et voie du toit.
+- Cell : Chris ou Jill selon le personnage, fichiers et porte.
+- Heliport : Signal Rockets, munitions finales et Rocket Launcher.
+
+RUNS SPECIALES
+
+RUN CHRONOMETREE - MOINS DE 3 HEURES
+
+1. Choisis Jill sur Normal si tu veux Take that, Zombies!, sinon Very Easy pour
+   une marge maximale. Le compteur ne s'arrete pas dans les menus : prepare
+   l'itineraire et les codes avant la partie.
+2. Ignore tous les fichiers, la plupart des objets de carte, les salles sans
+   cle et les combats evitables.
+3. Prends seulement : Knife, Handgun, Shotgun, Armor Key, Shield Key, les quatre
+   masques, Stone & Metal Object, Square Crank, Control Room Key, Helmet Key,
+   Wolf/Eagle Medals, Hex Crank, deux objets de laboratoire, MO Disks, Fuel et
+   fuse.
+4. Utilise les codes fixes : Knight Room Spear/Axe/Shield, horloge six heures,
+   girouette rouge West/bleue North, Cylinder code 4231, laboratoire ADA/JOHN/
+   CELL. Les codes de Residence sont aleatoires : lis les lampes et le billard.
+5. Pour Plant 42, utilise la route la plus courte qui ne te fait pas mourir.
+   Pour le laboratoire, ne porte le Fuel Capsule qu'apres avoir nettoye le
+   trajet des Chimeras.
+6. Termine en moins de trois heures. Don't Stop Running et Racing and Pacing
+   apparaissent ensemble. Le temps affiche dans l'ecran de fin fait foi.
+
+RUN REAL SURVIVAL
+
+1. Choisis Jill si tu veux profiter de ses huit cases et de son Lockpick, puis
+   laisse les armes lourdes dans les coffres adaptes a chaque zone.
+2. Les coffres ne partagent plus leur inventaire. Note ce qui reste dans chaque
+   coffre : ammo dans le manoir, soins au courtyard, shells dans la Residence,
+   magnum au laboratoire.
+3. Utilise les salles de sauvegarde avec economie. Real Survival n'est pas la
+   run Ink : les sauvegardes sont permises.
+4. Emporte les cles dans une route lineaire, puis reviens par les salles de
+   stockage. Ne garde jamais deux objets de quete dans un coffre eloigne.
+5. Le menu de selection de mode affiche Real Survival une fois le mode debloque.
+   Termine la partie sans changer le mode en cours.
+6. The Survival Horror apparait a la fin. Ne confonds pas Real Survival avec
+   Invisible Enemy : ce sont deux modes differents.
+
+RUN INVISIBLE ENEMY
+
+1. Choisis Chris si tu veux une route simple avec Infinite Rocket Launcher.
+   Very Easy reste le choix prudent si le mode le permet.
+2. Les ennemis sont invisibles, mais les collisions, sons, animations des
+   portes et positions des objets ne changent pas. Utilise la route normale et
+   compte les pas entre deux portes.
+3. Ne tente pas de vider les salles au couteau. Les monstres invisibles ne
+   comptent pas pour Every Nook and Cranny.
+4. Utilise le shotgun dans les salles de Hunters, le Grenade Launcher dans les
+   couloirs de Chimeras et la Infinite Rocket pour les boss.
+5. Ghost of a Chance apparait en finissant le jeu en Invisible Enemy. Le temps
+   de cinq heures n'est pas requis pour ce succes.
+
+RUN COUTEAU - CQC FTW
+
+1. Choisis Chris en Very Easy, avec un fichier vierge ou un fichier bonus.
+2. Ne tire aucune arme et n'utilise aucun briquet, couteau de defense ou
+   ecrasement de tete. Tu peux ouvrir les portes, pousser les statues, utiliser
+   les cles et les puzzles normalement.
+3. Evite les zombies des couloirs. Avec le couteau, vise les jambes et recule
+   en cercle. Pour un Crimson Head, contourne-le plutot que de le combattre.
+4. Les chiens et Hunters sont esquives. Dans les salles etroites, utilise les
+   portes et les angles fixes pour passer sans etre attrape.
+5. Pour Yawn, cours et ne gaspille pas de temps. Pour Plant 42, utilise V-Jolt
+   si Rebecca le permet, puis termine la plante au couteau.
+6. Pour Lisa, pousse les piliers et ne cherche pas a la tuer avec une arme.
+7. Pour Tyrant, le rocket launcher de la fin est autorise par la condition du
+   jeu ; ne tire aucune autre arme pendant toute la partie.
+8. Ne sauve ni Rebecca ni Jill pour obtenir Every Man for Himself dans la meme
+   partie, si tu te sens a l'aise. Sinon fais les deux parties separement.
+
+RUN SANS SAUVEGARDE - INK IS FOR SQUIDS
+
+1. Choisis Jill Very Easy, avec Infinite Rocket Launcher si elle est debloquee.
+2. Ne touche aucune machine a ecrire. L'absence de sauvegarde est la condition
+   du succes : les rubans peuvent etre ramasses mais pas utilises.
+3. Garde un trajet lineaire, ne retourne pas chercher des collectibles et
+   evite les combats. Les doors transitions ne sauvegardent pas la partie.
+4. Si tu meurs, la run est terminee. Recommence depuis le debut et ne charge
+   pas une sauvegarde d'une autre partie pour contourner la condition.
+5. Combine cette run avec Every Woman for Herself : ne rends pas l'arme a
+   Barry, ne libere pas Chris et prends l'helicoptere seul.
+6. Ink is for Squids apparait sur l'ecran de fin.
+
+CONTROLE DE FIN PAR PERSONNAGE
+
+JILL
+
+- [ ] Delaying the Inevitable : Richard sauve par Serum.
+- [ ] What a Great Guy : Barry ouvre la salle du plafond.
+- [ ] Giant Snake Got Nothin' : Yawn vaincu a la bibliotheque.
+- [ ] Grave Digger : Crimson Head Prototype vaincu.
+- [ ] The Key Master : Helmet Key obtenu.
+- [ ] Where the Magic Happens : laboratoire atteint.
+- [ ] Trust Him : arme rendue a Barry.
+- [ ] Sorry About the Wait : Chris libere par trois MO Disks.
+- [ ] I'm a Member of S.T.A.R.S. : Chris et Barry finissent vivants.
+- [ ] Every Woman for Herself : aucun partenaire sauve.
+- [ ] Alpha Team's Finest : campagne Jill finie.
+
+CHRIS
+
+- [ ] Bravo, Rebecca : Chris sauve par Rebecca.
+- [ ] That Was Nice of You : Rebecca sauvee du Hunter.
+- [ ] Not Just Any Object : Stone & Metal Object recupere.
+- [ ] Herbicide : Plant 42 vaincue par Chris.
+- [ ] Written Word is Dead : Last Book Vol. 2 recupere.
+- [ ] An End to a Poor Girl's Misery : Lisa Trevor vaincue.
+- [ ] Sorry I Made You Wait : Jill liberee par trois MO Disks.
+- [ ] The Nightmare Ends : Rebecca et Jill finissent vivantes.
+- [ ] Every Man for Himself : aucun partenaire sauve.
+- [ ] You da Man, Chris : campagne Chris finie.
+
+MODES ET BONUS
+
+- [ ] Like Taking Candy from a Baby : Very Easy ou plus.
+- [ ] Not in the Mood to Die : Easy ou plus.
+- [ ] Take that, Zombies! : Normal ou plus.
+- [ ] Oh, the Horror : Hard.
+- [ ] We're in This Together : Jill et Chris finis sur le profil.
+- [ ] The Survival Horror : Real Survival.
+- [ ] Ghost of a Chance : Invisible Enemy.
+- [ ] Don't Stop Running : moins de trois heures.
+- [ ] Racing and Pacing : moins de cinq heures.
+- [ ] CQC FTW : couteau seulement.
+- [ ] Ink is for Squids : aucune sauvegarde.
+- [ ] Every Nook and Cranny : toutes les cartes nettoyees.
+- [ ] Starsenal : toutes les armes et shells charges.
+- [ ] Passion for Fashion : toutes les tenues.
+
+CHECKLIST FINALE - 44 SUCCES STEAM
+
+[ ] First Kills Are Special - vaincre un zombie.
+[ ] Get Used To It - mourir pour la premiere fois.
+[ ] Seeing Red - vaincre un Crimson Head.
+[ ] Not Taking Any Chances - bruler un zombie.
+[ ] Deep Sixed - vaincre Mother Neptune.
+[ ] Who's the Hunter Now? - vaincre un Hunter.
+[ ] Delaying the Inevitable - sauver Richard avec un Serum.
+[ ] Spider Sense - vaincre Black Tiger.
+[ ] Like Taking Candy from a Baby - terminer en Very Easy ou plus.
+[ ] Grave Digger - vaincre Crimson Head Prototype-1 avec Jill.
+[ ] What a Great Guy - sauver Jill avec Barry.
+[ ] Not Waiting to Exhale - survivre a la premiere rencontre avec Yawn.
+[ ] The Key Master - obtenir Helmet Key avec Jill.
+[ ] Giant Snake Got Nothin' - vaincre Yawn avec Jill.
+[ ] Where the Magic Happens - entrer au laboratoire avec Jill.
+[ ] Not in the Mood to Die - terminer en Easy ou plus.
+[ ] Alpha Team's Finest - terminer avec Jill.
+[ ] Trust Him - sauver Barry de Lisa Trevor.
+[ ] Sorry About the Wait - sauver Chris de sa cellule avec Jill.
+[ ] I'm a Member of S.T.A.R.S. - finir avec Chris et Barry.
+[ ] Not Just Any Object - obtenir Stone & Metal Object avec Chris.
+[ ] Herbicide - vaincre Plant 42 avec Chris.
+[ ] Written Word is Dead - obtenir Last Book Vol. 2 avec Chris.
+[ ] An End to a Poor Girl's Misery - vaincre Lisa Trevor avec Chris.
+[ ] You da Man, Chris - terminer avec Chris.
+[ ] Break Out the Marshmallows! - bruler deux zombies avec le briquet.
+[ ] Sorry I Made You Wait - sauver Jill de sa cellule avec Chris.
+[ ] That Was Nice of You - sauver Rebecca d'un Hunter.
+[ ] Bravo, Rebecca - sauver Chris avec Rebecca.
+[ ] The Nightmare Ends - finir en sauvant Rebecca et Jill avec Chris.
+[ ] Take that, Zombies! - terminer en Normal ou plus.
+[ ] We're in This Together - finir avec Jill et Chris.
+[ ] Racing and Pacing - terminer en cinq heures.
+[ ] Oh, the Horror - terminer en Hard.
+[ ] Don't Stop Running - terminer en trois heures.
+[ ] Every Woman for Herself - finir sans sauver personne avec Jill.
+[ ] Every Nook and Cranny - visiter toutes les salles de toutes les cartes.
+[ ] Ink is for Squids - finir sans sauvegarder.
+[ ] Every Man for Himself - finir sans sauver personne avec Chris.
+[ ] Starsenal - obtenir toutes les armes et charger les trois shells.
+[ ] Passion for Fashion - obtenir tous les costumes.
+[ ] The Survival Horror - terminer en Real Survival.
+[ ] CQC FTW - terminer uniquement au couteau.
+[ ] Ghost of a Chance - terminer en Invisible Enemy.
+
+VERIFICATION FINALE
+
+Succes Steam : 44 / 44
+Personnages : Jill + Chris
+Fins partenaires : bonne fin Jill, bonne fin Chris, aucune aide Jill, aucune aide Chris
+Armes : Starsenal valide, trois shells charges dans le lance-grenades
+Costumes : deux clears Jill + deux clears Chris
+Cartes : Mansion, Courtyard/Residence, Tunnels et Laboratory vertes sur RUN 1
+Difficultes : Very Easy, Easy, Normal, Hard, Real Survival et Invisible Enemy
+Chrono : moins de 5 heures + moins de 3 heures
+Restrictions : couteau seulement + aucune sauvegarde
+
+SOURCES DE VERIFICATION
+
+Liste officielle des 44 succes Steam :
+https://steamcommunity.com/stats/304240/achievements
+
+Page Steam du jeu :
+https://store.steampowered.com/app/304240/Resident_Evil_biohazard_HD_REMASTER/
+
+Walkthrough chronologique et solutions de puzzles :
+https://adventuregamers.com/walkthroughs/resident-evil-hd-remaster
+
+Liste des fichiers et emplacements :
+https://gamefaqs.gamespot.com/pc/826294-resident-evil-hd-remaster/faqs/76750/file-list-and-location-guide
+
+Liste de recompenses et conditions de succes :
+https://residentevil.fandom.com/wiki/List_of_awards_for_Resident_Evil
+
+Guide des armes et de Starsenal :
+https://residentevil.fandom.com/wiki/Starsenal
+
+FIN DU GUIDE
