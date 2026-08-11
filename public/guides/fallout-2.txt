@@ -1,0 +1,348 @@
+FALLOUT 2: A POST NUCLEAR ROLE-PLAYING GAME
+GUIDE SPECIAL CHRONOLOGIQUE - SANS SPOILER
+
+Version de travail : 11 aout 2026
+
+Cette fiche couvre l'edition Steam AppID 38410. Elle ne propose pas de liste
+Steam Achievements : le total est donc 0/0. Le 100 % utile vise la campagne,
+les quetes des villes, les zones optionnelles, les compagnons, les objets de
+progression et les embranchements gardes par sauvegardes. La route suit la
+version Steam de base ; les mods de restauration ajoutent des zones et des
+quetes qui ne sont pas melangees ici.
+
+OBJECTIF REEL
+
+[ ] Temple des Epreuves et Arroyo termines.
+[ ] Klamath, Den, Modoc, Ghost Farm, Vault City, Gecko, Redding, Broken Hills,
+    New Reno, NCR, Vault 15, Vault 13, San Francisco, Navarro et l'Enclave
+    visites dans la route conseillee.
+[ ] GECK, NavCom Parts, FOB et objets de fin recuperes.
+[ ] Quetes de ville, zones optionnelles, compagnons et retours valides.
+[ ] 0/0 succes Steam : aucun faux 100 % n'est annonce.
+
+GARDE-FOUS ET EMBRANCHEMENTS
+
+- Il n'y a pas de delai global equivalent a Fallout 1, mais plusieurs quetes
+  locales ont une fenetre courte ou un etat irreversible. Fais une sauvegarde
+  avant Ghost Farm, avant les familles de New Reno, avant les choix de Redding,
+  NCR, Vault City et San Francisco.
+- Le 100 % reel n'est pas cumulable dans une seule sauvegarde pour les conflits
+  de factions, les combats de familles et certaines reputations. Garde un slot
+  de branche, execute une route, puis recharge pour verifier l'autre resultat.
+- Quand une ville devient amicale, parle a tous ses habitants avant de voyager.
+  Les recompenses peuvent apparaitre sur un autre PNJ et ne sont pas toujours
+  rappelees par le journal.
+- La version Steam vanilla n'inclut pas les extensions de restauration. Ne
+  cherche pas EPA, certaines quetes coupees ou des correctifs de mod dans cette
+  checklist : cela ferait croire a un contenu manquant.
+- Fais une sauvegarde avant chaque changement de membre. Les compagnons ont
+  leurs propres conditions, limites de groupe et objets ; recupere leur
+  equipement avant de les renvoyer.
+
+PREPARATION
+
+- Une competence de combat, Discours, Crochetage, Sciences, Discours et une
+  competence de soin ou de reparation couvrent la plupart des solutions.
+- L'Agilite determine fortement les points d'action. La Perception aide les
+  armes a distance ; l'Intelligence et le Charisme facilitent les dialogues et
+  la taille du groupe, sans etre obligatoires.
+- Apporte toujours corde, trousse de premiers soins, outils, Rad-X, RadAway,
+  antidotes, munitions et une arme de secours. Le jeu adore separer l'objet
+  utile de la zone ou il est demande.
+
+ORDRE CHRONOLOGIQUE COMPLET
+
+01 - TEMPLE DES EPREUVES
+
+- Termine le tutoriel a ton rythme, mais sauvegarde avant chaque salle de
+  combat. Utilise dialogue, crochetage et objets quand ils sont proposes.
+- Ramasse les soins, les armes et les objets qui ne sont pas sur le chemin
+  principal. Le temple est la seule vraie zone de depart : ne pars pas avec un
+  inventaire vide.
+- Fais une sauvegarde avant la derniere epreuve, puis retourne a Arroyo.
+
+02 - ARROYO : TOUT LE VILLAGE AVANT LE DEPART
+
+- Parle a l'Elder, Hakunin, les chasseurs, les artisans et les familles. Note
+  les demandes qui parlent d'un objet, d'un animal ou d'une personne a retrouver.
+- Accomplis les taches du village : chasse, plantes, puits, entrainement et
+  demandes des anciens. Trouve Nagor et ramene Smoke ; ne tue pas le chien par
+  erreur en poursuivant les geckos.
+- Recupere les cadeaux de depart, verifie l'equipement du personnage et cree
+  la sauvegarde "carte ouverte". L'objectif du GECK est maintenant actif, mais
+  la route commence par Klamath.
+- [ ] Toutes les demandes d'Arroyo ; [ ] Nagor ; [ ] Smoke ; [ ] objets et
+  recompenses ; [ ] sauvegarde avant la carte.
+
+03 - KLAMATH : SULIK ET LES CAVES
+
+- Parle a Maida, Torr, Ardin, les trappeurs, les tenanciers et les travailleurs
+  avant de choisir une direction. Visite les quartiers de Klamath et le camp
+  des geckos dans le meme passage.
+- Recrute Sulik apres avoir traite sa dette. Fais les quetes de la taverne,
+  des brahmines et des geckos ; conserve les objets de troc plutot que de les
+  vendre tous.
+- Explore les Toxic Caves avec soins, corde, munitions et sauvegarde. Termine
+  la recherche du trappeur disparu et la resolution de la zone avant de partir.
+- Les Dunton et les quetes de vol peuvent avoir plusieurs solutions. Fais un
+  slot avant de les accuser ou de les combattre.
+- [ ] Klamath ; [ ] Sulik ; [ ] Toxic Caves ; [ ] trappeur ; [ ] quetes de
+  taverne ; [ ] Dunton ; [ ] tous les coffres.
+
+04 - THE DEN : VIC, ESCLAVES ET PIECES DE VOITURE
+
+- Parle a Vic, Karl, Becky, Lars, Lara, Metzger et aux habitants des deux
+  quartiers. Le Den concentre plusieurs quetes qui se ferment si tu attaques
+  trop tot.
+- Retrouve Vic et organise sa liberation ; recrute-le ensuite et equipe-le
+  avant le voyage. Termine aussi la dette et la mission de Sulik si elle est
+  encore ouverte.
+- Traite le conflit de Lara avec les gardes, l'affaire de Becky, les esclaves,
+  la locket d'Anna et les missions de taverne. Utilise une sauvegarde avant
+  toute attaque contre Metzger.
+- Repere le garage et la voiture. La piece de controle et le carburant seront
+  finalises apres Gecko ; ne quitte pas la ville sans avoir note le retour.
+- [ ] Vic ; [ ] Lara ; [ ] Becky ; [ ] Anna ; [ ] esclaves ; [ ] garage ;
+  [ ] quetes de Lars et des tavernes.
+
+05 - MODOC ET GHOST FARM : PRIORITE LOCALE
+
+- Entre a Modoc, parle au maire, aux fermiers, aux marchands et aux familles.
+  La piste de Ghost Farm doit etre traitee rapidement : ne la repousse pas
+  apres une longue serie de voyages.
+- Explore la ferme et ses environs, suis les traces, parle aux habitants et
+  verifie les souterrains. Ne force pas la conclusion sans avoir lu chaque
+  indice.
+- Retourne a Modoc, compare les declarations et choisis une solution en
+  gardant le slot d'entree. Complete ensuite les petites demandes de la ville,
+  les coffres et les objets de troc.
+- Reviens au Den si la quete de Karl ou une livraison t'y renvoie. Le retour
+  ferme la boucle et valide la meilleure partie des dialogues des deux villes.
+- [ ] Ghost Farm ; [ ] Karl ; [ ] familles de Modoc ; [ ] demandes locales ;
+  [ ] retour Den ; [ ] aucune alerte de delai abandonnee.
+
+06 - VAULT CITY : CITOYENNETE ET INFORMATIONS
+
+- Visite la cour, la clinique, les dortoirs, le magasin, les portes de l'Abri
+  et les zones exterieures. Parle aux gardes et aux habitants sans provoquer
+  de combat.
+- Travaille la citoyennete et les droits d'acces. Termine les demandes du
+  docteur, du conseil, des serviteurs et des caravanes avant de choisir ton
+  camp.
+- Note toutes les references a Gecko, au GECK, au jet et aux expeditions. Le
+  jeu exige souvent une preuve, un formulaire ou un objet plutot qu'un combat.
+- Ouvre la boucle avec Vic et les autres compagnons. Fais une sauvegarde avant
+  de transmettre une information qui peut rendre une faction hostile.
+
+07 - GECKO : REACTEUR ET BOUCLE VAULT CITY
+
+- Parle a Harold, Lynette et aux ouvriers de la centrale. Visite les niveaux
+  du reacteur, la maintenance et les maisons avant de toucher aux commandes.
+- Accepte la mission de stabilisation du reacteur. Utilise les outils,
+  Sciences ou Reparation selon ton personnage, puis controle les voyants avant
+  de sortir.
+- Termine les negociations entre Gecko et Vault City avec la sauvegarde du
+  premier passage. Certaines solutions donnent des resultats differents mais
+  ferment d'autres demandes.
+- Retourne a Vault City, rends les preuves et ouvre les services qui etaient
+  bloques. Le but n'est pas seulement de gagner un combat : les deux villes
+  doivent avoir leur etat de quete final.
+- [ ] Reacteur ; [ ] maintenance ; [ ] Gecko ; [ ] Vault City ; [ ] jet et
+  medecine ; [ ] citoyens et services.
+
+08 - LE DEN : VOITURE ET DERNIERES QUETES
+
+- Avec la piece de controle, retourne au garage, repare la voiture et prends
+  le carburant necessaire. Teste la voiture sur la carte avant d'y stocker des
+  objets importants.
+- Ferme les quetes du Den qui dependent de Vic, des esclaves ou de Becky. Si
+  une faction est hostile, recharge le slot du premier passage plutot que de
+  perdre toutes les branches.
+- Fais le tour des marchands et achete les outils, munitions et soins utiles.
+
+09 - REDDING : MINES ET ARBITRAGES
+
+- Parle au shérif, aux mineurs, aux proprietaires des mines, au saloon et aux
+  travailleurs. Explore les trois zones de la ville et les galeries dans le
+  meme voyage.
+- Traite les geckos, la mine, les disparitions et la securite des convois.
+  Utilise une sauvegarde avant le choix entre les exploitants : les contrats
+  et les recompenses ne sont pas tous compatibles.
+- Termine les missions de deputes, les demandes du saloon, les boites et les
+  caches. Fais valider la ville par le responsable approprie avant de partir.
+- [ ] Mines ; [ ] geckos ; [ ] sheriff ; [ ] deputes ; [ ] saloon ; [ ] choix
+  de contrat sauvegarde.
+
+10 - BROKEN HILLS : MINE, DISPARUS ET MARCUS
+
+- Explore la mine, les maisons, la bibliotheque, l'arene et les dortoirs.
+  Parle aux humains, goules et mutants pour ne pas rater la partie sociale.
+- Resous le probleme de la mine, retrouve les disparus et traite la question
+  de la communaute. Les solutions de dialogue demandent parfois une competence
+  ou un objet recupere dans une autre piece.
+- Recrute Marcus une fois sa ville stabilisee. Equipe-le avec une arme et un
+  type de munitions que tu peux maintenir ; verifie sa place dans le groupe.
+- Fais une sauvegarde avant le jugement final de la ville. [ ] Mine ; [ ]
+  disparus ; [ ] bibliotheque ; [ ] Marcus ; [ ] toutes les maisons.
+
+11 - NEW RENO : QUATRE FAMILLES, UNE SAUVEGARDE PAR BRANCHE
+
+- New Reno est le plus gros carrefour de quetes. Avant de travailler pour une
+  famille, visite le hall, les bars, les rings, les stables, le casino, les
+  magasins et Golgotha.
+- Cree un slot "Reno vierge". Traite ensuite les contrats des Mordino,
+  Wright, Bishop et Salvatore en notant la reputation gagnee et les portes
+  fermees. Pour le 100 % utile, recharge ce slot pour les branches mutuellement
+  exclusives.
+- Complete la boxe, les defis du ring, les missions de casino, les quetes de
+  famille, l'enquete de Golgotha et les demandes du Stables avant la derniere
+  alliance.
+- Recrute Myron dans les Stables et recupere ses objets avant de modifier la
+  composition du groupe. Son role est lie aux quetes de jet et de medecine.
+- Termine les dialogues avec les Bishop et les contacts de l'exterieur avant
+  de partir vers NCR. Ne lance pas le passage final d'une famille sans avoir
+  sauvegarde la ville neutre.
+- [ ] Mordino ; [ ] Wright ; [ ] Bishop ; [ ] Salvatore ; [ ] ring ; [ ]
+  Stables/Myron ; [ ] Golgotha ; [ ] Sierra Army Depot prepare.
+
+12 - SIERRA ARMY DEPOT ET ZONES OPTIONNELLES
+
+- Entree recommandee apres New Reno avec une equipe equipee. Sauvegarde avant
+  le depot : les pieges, tourelles et portes ne pardonnent pas.
+- Explore chaque niveau, recupere les cartes, les armes, les ordinateurs et
+  les pieces de robot. Utilise Sciences, Reparation et Crochetage avant le
+  combat quand le jeu le permet.
+- Repare et recrute K-9 si tu veux la liste complete des compagnons. Note que
+  le chien robot occupe une place et possede une condition speciale.
+- Termine Golgotha, les tombes, les rencontres et les caches indiquees par la
+  carte avant de retourner a la route principale.
+
+13 - RAIDERS ET RETOURS VAULT CITY
+
+- La zone des Raiders est la boucle de secours pour les quetes de Vault City,
+  NCR et les caravanes. Parle a tous les responsables avant l'assaut.
+- Resous la question des prisonniers, des otages et des fournitures selon ta
+  competence. Garde un slot avant l'attaque generale si tu veux comparer une
+  solution diplomatique.
+- Retourne a Vault City et Gecko, rends les resultats, verifie les acces et
+  recupere les recompenses. Les deux villes doivent etre controlees avant NCR.
+
+14 - NCR ET VAULT 15
+
+- Entre a la NCR, parle aux Rangers, aux marchands, aux chercheurs et aux
+  responsables militaires. Explore les maisons et les bureaux avant d'accepter
+  un contrat.
+- Traite les missions de Westin, les Rangers, les espions et les problemes de
+  population. Certaines taches changent selon ta reputation et tes actions a
+  New Reno : utilise le slot de branche.
+- Va a Vault 15, explore les niveaux, les ordinateurs et les survivants.
+  Termine les negociations avec les habitants et rends compte a la NCR.
+- Fais valider les deux villes avant de quitter la zone. [ ] NCR ; [ ] Rangers ;
+  [ ] Westin ; [ ] Vault 15 ; [ ] toutes les recompenses.
+
+15 - VAULT 13 : LE GECK
+
+- Va a l'Abri 13 quand la route de la NCR et de Vault 15 est ferme. Fais une
+  sauvegarde avant l'entree : l'endroit contient des dialogues et des coffres
+  qui ne se revisitent pas toujours proprement.
+- Explore tous les niveaux, parle aux habitants, lis les terminaux et traite
+  la communaute locale avant de prendre le GECK.
+- Recupere l'objet de progression, les objets de technologie et la condition
+  du compagnon Goris si tu veux le groupe complet.
+- Quitte la zone seulement apres avoir valide la quete du GECK et les dialogues
+  de l'Abri. [ ] GECK ; [ ] niveaux ; [ ] Goris ; [ ] terminaux ; [ ] objets.
+
+16 - BASE MILITAIRE DE MARIPOSA
+
+- Cette zone est optionnelle mais utile pour l'experience, l'equipement et la
+  checklist de campagne. Arrive avec armure, explosifs, soins et munitions.
+- Explore les niveaux, les laboratoires, les cages, les armureries et les
+  terminaux. Fais une sauvegarde avant chaque ascenseur et ne laisse pas une
+  porte verrouillee sans noter la cle ou la competence necessaire.
+- Termine les objectifs de la base, recupere le butin et repars avant d'ouvrir
+  le dernier slot de San Francisco.
+
+17 - SAN FRANCISCO : SHI, BROTHERHOOD ET HUBOLOGISTS
+
+- Explore les quais, les temples, la base de la Confrerie, les quartiers Shi
+  et le secteur des Hubologists. Parle a chaque responsable avant de choisir
+  une faction.
+- Termine les missions de combat, de recherche et de sabotage. Les trois
+  blocs possedent des recompenses et des consequences incompatibles : cree un
+  slot avant le premier serment.
+- Recupere le Tanker FOB et les NavCom Parts. Le premier objet vient d'une
+  route militaire ; le second demande une fouille de Navarro. Ne pars pas sans
+  l'un ou l'autre.
+- [ ] Shi ; [ ] Brotherhood ; [ ] Hubologists ; [ ] FOB ; [ ] NavCom Parts ;
+  [ ] quais ; [ ] objets et magasins.
+
+18 - NAVARRO : INFILTRATION ET EQUIPEMENT FINAL
+
+- Sauvegarde avant l'approche. Explore les bureaux, dortoirs, hangars et
+  laboratoires avant de declencher une alerte.
+- Utilise la discretion, le deguisement ou la force selon ton build. Recupere
+  l'armure, les plans, les cartes et les objets techniques utiles a la fin.
+- Complete la boucle du tanker et du sous-marin, verifie que le moteur est
+  valide, puis reviens a San Francisco pour enregistrer les resultats.
+
+19 - TANKER ET DERNIERE PREPARATION
+
+- Installe les composants du tanker, parle a l'equipage et confirme la route.
+  Fais un dernier tour des marchands et compagnons avant d'embarquer.
+- Place les compagnons definitifs, distribue les armes, garde des soins pour
+  les combats longs et sauvegarde dans un slot independant.
+- Les zones precedentes ne sont pas toujours accessibles apres cette transition.
+  Verifie : GECK, FOB, NavCom Parts, armure, compagnons et branches sauvegardees.
+
+20 - ENCLAVE : ROUTE FINALE SANS SPOILER
+
+- Fouille chaque pont et chaque piece avant d'utiliser les ascenseurs ou les
+  ordinateurs. Les solutions de dialogue, sabotage, discretion et combat se
+  combinent selon les competences.
+- Libere les prisonniers et traite les demandes optionnelles avant l'objectif
+  final. Lis les terminaux et recupere les objets de quete sans lancer la
+  derniere sequence.
+- Cree un dernier slot avant la fin. Le guide ne donne aucun nom, mort,
+  identite, retournement ou resultat narratif ; suis les objectifs de l'ecran
+  et utilise le chemin ouvert par tes quetes precedentes.
+
+COMPAGNONS ET EQUIPEMENT
+
+[ ] Sulik - Klamath.
+[ ] Vic - The Den.
+[ ] Cassidy - Vault City, selon le dialogue et la place disponible.
+[ ] Marcus - Broken Hills.
+[ ] Myron - Stables de New Reno.
+[ ] Goris - Vault 13.
+[ ] Lenny - Gecko, condition de recrutement a verifier sur place.
+[ ] K-9 - Sierra Army Depot, apres sa sequence de reparation.
+[ ] Rencontre du chien paria notee si elle apparait sur la carte.
+[ ] Voiture reparee et carburant installe.
+[ ] GECK, Tanker FOB, NavCom Parts, armure et equipement final controles.
+
+CHECKLIST FINALE
+
+[ ] Arroyo, Klamath, Den, Modoc, Ghost Farm, Vault City, Gecko, Redding,
+    Broken Hills, New Reno, NCR, Vault 15, Vault 13, SF, Navarro et Enclave.
+[ ] Toutes les boucles optionnelles fermees ou notees sur un slot de branche.
+[ ] Compagnons et equipement recenses avant chaque renvoi.
+[ ] Branches New Reno, Redding, NCR, Vault City et San Francisco sauvegardees.
+[ ] GECK et tanker valides avant l'embarquement.
+[ ] 0/0 succes Steam confirme ; aucun DLC ni online a ajouter.
+
+SOURCES DE CONTROLE
+
+- Fiche Steam officielle, AppID 38410 :
+  https://store.steampowered.com/app/38410/Fallout_A_Post_Nuclear_Role_Playing_Game/
+- Fiche SteamDB et depot de l'edition :
+  https://steamdb.info/app/38410/info/
+- Walkthrough de reference et route des villes :
+  https://strategywiki.org/wiki/Fallout_2/Walkthrough
+- Guide PC detaille, quetes et objets de progression :
+  https://gamefaqs.gamespot.com/pc/63576-fallout-2/faqs/16193
+- Quetes et embranchements par lieu :
+  https://fallout.fandom.com/wiki/Fallout_2_quests
+- Walkthrough croise des zones et du GECK :
+  https://tartarus.rpgclassics.com/fallout2/walkthrough.php
+
+FIN DU GUIDE SPECIAL - SANS SPOILER
