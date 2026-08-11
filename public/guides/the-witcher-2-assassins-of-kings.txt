@@ -1,161 +1,1067 @@
 THE WITCHER 2: ASSASSINS OF KINGS ENHANCED EDITION
+Succes Steam : 52
 GUIDE CHRONOLOGIQUE 100 % STEAM - SANS SPOILER
 
-Version de travail : 10 aout 2026
+Version de travail : 11 aout 2026
+AppID Steam : 20920
 
-Ce parcours couvre les 52 succes Steam de l'AppID 20920, les deux voies du
-jeu, l'Arena, les trolls, les quetes de chapitre, l'alchimie, le poker aux
-des, les executions et la difficulte Insane. L'Enhanced Edition ne demande
-pas de succes en ligne et ne rajoute pas un DLC Steam a traiter a part.
+Cette fiche est un parcours complet et chronologique des 52 succes Steam de
+The Witcher 2. Elle couvre le prologue, les chapitres 1 a 3, les deux routes
+de l'acte II, les contrats de monstres, les quetes secondaires importantes,
+les mini-jeux, les embranchements, les fins, la difficulte Insane et les
+objets utiles a conserver.
 
-OBJECTIF
+Le guide donne les actions et les emplacements sans raconter les raisons, les
+identites, les morts, les trahisons ni les consequences narratives. Les noms
+de quetes et les noms de succes sont inevitables pour rendre la route suivable.
+Les choix de succes sont marques au moment exact ou ils deviennent utiles.
 
-[ ] 52/52 succes Steam.
-[ ] Prologue, chapitres 1, 2, 3 et epilogue.
-[ ] Deux voies de chapitre 2 et de chapitre 3 avec sauvegarde de branche.
-[ ] Arena, trolls, nids de monstres, quetes secondaires et collections.
-[ ] Poker, rixes, bras de fer, alchimie, mutagenes et niveau 35.
-[ ] Une run Insane complete.
+OBJECTIF FINAL
+
+- 52/52 succes Steam.
+- Deux parties completes : une route Roche et une route Iorveth.
+- Une victoire en difficulte Insane.
+- Les quatre contrats qui comptent pour Pest Control.
+- Les trois trolls de quete geres une fois pour chaque resultat.
+- Les quetes secondaires de zone terminees avant les points de non-retour.
+- L'alchimie, l'artisanat, les talents, les mini-jeux et les combats speciaux.
+
+COMMENT LIRE CETTE FICHE
+
+- RUN 1 = premiere partie conseillee, en Normal ou Difficile, route Roche.
+- RUN 2 = seconde partie, route Iorveth, en Insane pour obtenir Madman.
+- BRANCHE = sauvegarde manuelle a conserver avant un choix.
+- MISSABLE = objectif qui peut etre perdu jusqu'a la prochaine partie.
+- ZONE = repere de carte ou sous-zone permettant de retrouver l'endroit.
+- Un succes conserve son nom anglais exact pour correspondre a Steam.
+- Les cases de progression intermediaires servent a controler la route.
+- La checklist de fin contient exactement les 52 succes, une seule fois chacun.
 
 GARDE-FOUS ABSOLUS
 
-- Fais une sauvegarde manuelle avant la decision qui determine la voie du
-  chapitre 2. Les voies Roche et Iorveth possedent des quetes et succes
-  differents ; une seule partie ne peut pas tout valider.
-- Garde une sauvegarde au debut de chaque chapitre et avant l'epilogue. Les
-  quetes de troll, de nids, de poker et d'arene se ferment si tu avances trop
-  loin.
-- Pour les deux voies, une partie Normal puis une partie Insane est la route
-  la plus sure. Utilise la seconde pour la difficulte et sa branche, pas pour
-  improviser les quetes.
-- Termine les quetes secondaires avant de franchir le marqueur de mission
-  principale qui change la zone. Les changements de chapitre ne sont pas des
-  points de retour universels.
-- Aucun passage ne revele une mort, une identite, une trahison, une fin ou une
-  consequence narrative.
+1. Fais deux parties. Les routes Roche et Iorveth remplacent une grande partie
+   de l'acte II et de l'acte III : une sauvegarde de branche ne remplace pas
+   une vraie seconde partie pour la route la plus fiable.
+2. Fais RUN 1 en Normal ou Difficile. Elle sert a apprendre les combats, a
+   faire tous les detours et a debloquer les succes par rechargement.
+3. Fais RUN 2 sur Iorveth en Insane. Le succes Madman demande de terminer la
+   campagne avec la mort permanente activee. Considere chaque mort comme une
+   perte de partie et joue defensivement.
+4. Desactive les QTE difficiles dans Options > Gameplay. Cela evite une mort
+   artificielle, surtout en Insane.
+5. Utilise des sauvegardes manuelles nommees : PROLOGUE, C1-DEPART, C1-LOREDO,
+   C1-KAYRAN, C1-BRANCHE, C2-DEPART, C2-POINT-DE-NON-RETOUR, C3-DEPART et
+   C3-FINALE. Ne remplace jamais la sauvegarde de branche par une sauvegarde
+   rapide.
+6. Avant chaque point de non-retour, ouvre le journal et termine les quetes
+   de zone. Le depart de Flotsam, l'entree dans la Bataille eternelle et le
+   lancement du Sommet des mages ferment des activites.
+7. Les succes de choix se debloquent pendant la partie puis restent acquis
+   apres un rechargement. Pour les deux resultats d'un choix, sauvegarde,
+   valide le premier, attends le succes, puis recharge et valide l'autre.
+8. Les quatre contrats de Pest Control sont : Nekker, Endrega, Rotfiend ou
+   Harpie selon la route, puis Gargouille. Il faut finir le contrat, pas
+   seulement tuer quelques monstres.
+9. Les trolls qui comptent pour Friend of Trolls et Trollslayer sont le troll
+   du pont de Flotsam et le couple rencontre en acte II. Le troll hostile
+   optionnel du camp ne compte pas pour ces deux succes.
+10. Ne vends pas les composants de Kayran, les mutagenes, les runes Ysgith,
+    les outils chirurgicaux, les cles de poste et les objets de quete avant
+    d'avoir verifie les sections correspondantes.
 
-MISSABLES A SECURISER
+PLAN DES DEUX PARTIES
 
-- Sauvegarde avant la branche du chapitre 2, avant chaque changement de
-  chapitre et avant les quetes de troll, de nids, d'arene et de poker.
+RUN 1 - ROCHE - NORMAL OU DIFFICILE
 
-ORDRE DE PARTIE CONSEILLE
+- Fais le prologue et tout le chapitre 1.
+- Fais les deux contrats Nekker et Endrega.
+- Fais Librarian, Man of the Shadows, les mini-jeux, les objets de Kayran,
+  Ricochet, les combats speciaux et les activites de Flotsam.
+- A la fin du chapitre 1, choisis Roche.
+- Fais le contrat Rotfiend, Black Ops, Tourist, Gladiator, Heartbreaker,
+  Necromancer, Focus, les trois trolls tues et Reasons of State.
+- En chapitre 3, fais le contrat Gargouille, Kingmaker et les deux branches
+  finales avec des sauvegardes : Witch Hunter/Sensitive Guy, Dragonheart/Being
+  Witcher George et Old Friends/Avenger.
+- Atteins le niveau 35 avant le Sommet des mages et termine la partie.
 
-1. Prologue et chapitre 1 en Normal, avec tous les objectifs secondaires.
-2. Sauvegarde de branche avant le choix Roche/Iorveth.
-3. Premiere voie en Normal, puis fin de campagne.
-4. Deuxieme voie en Normal ou Insane, avec les objectifs specifiques.
-5. Dernier nettoyage et validation d'Insane.
+RUN 2 - IORVETH - INSANE
 
-PROLOGUE - TUTORIEL ET PREMIER CAMP
+- Rejoue calmement le prologue et le chapitre 1.
+- Fais les deux contrats de l'acte I, puis choisis la route Iorveth.
+- Epargne les trois trolls pour Friend of Trolls.
+- Fais le contrat Harpie, les quetes de Vergen, Winter Solstice et
+  Spellbreaker.
+- Rejoue les embranchements Sile et Letho si necessaire. Pour le dragon,
+  l'itineraire Iorveth permet de conserver la voie de sauvetage.
+- Termine la campagne en Insane pour Madman. Ne cherche pas a refaire chaque
+  quete deja validee si elle n'est pas necessaire a la survie de la run.
 
-- Utilise une potion, fabrique une huile ou une bombe et lance cinq potions ou
-  huiles au fil de la campagne. Commence l'alchimie sans depenser tous les
-  composants rares.
-- Reussis les parades, ripostes, esquives et finishers. Pour le succes de
-  perfection, tue dix ennemis consecutivement sans perdre de vitalite.
-- Termine la mission du camp avec le tir de baliste et l'infiltration. Garde
-  une sauvegarde avant l'approche furtive si tu rates l'alarme.
-- Fouille les cellules, tentes et ruelles. Les documents du prologue sont
-  necessaires aux succes de bibliotheque et de quetes secondaires.
+TABLEAU DES EMBRANCHEMENTS
 
-CHAPITRE 1 - FLÔTSAM ET PREMIERES QUETES
+Objectif | Partie conseillee | Action de securite
+---------|--------------------|-------------------
+Ricochet | Les deux | Sauver avant l'embuscade d'Iorveth, utiliser 2 points, recharger.
+Trollslayer | RUN 1 | Tuer le troll du pont puis les deux trolls de l'acte II.
+Friend of Trolls | RUN 2 | Epargner le troll du pont puis aider le couple de Vergen.
+Rotfiend Contract | RUN 1 Roche | Bruler les neuf cadavres apres avoir lu le livre.
+Harpy Contract | RUN 2 Iorveth | Detruire les sept nids avec des pieges a harpie.
+Black Ops | RUN 1 Roche | Passer le camp inferieur sans alarme.
+Kingmaker | RUN 1 Roche | Choisir le sauvetage d'Anais puis la remettre a Natalis.
+Spellbreaker | RUN 2 Iorveth | Liberer Philippa au lieu de partir vers Triss.
+Sensitive Guy | Une branche | Retirer le cristal instable.
+Witch Hunter | Autre branche | Ne pas retirer le cristal instable.
+Dragonheart | Une branche | Apres le combat, epargner le dragon.
+Being Witcher George | Autre branche | Apres le combat, tuer le dragon.
+Old Friends | Une branche | Laisser Letho partir.
+Avenger | Autre branche | Accepter le combat final contre Letho.
+Madman | RUN 2 | Terminer la campagne en Insane sans mourir.
 
-- Fais toutes les quetes du port, de la foret et des environs avant la suite
-  principale : troll, nids de monstres, arena, bras de fer, poker et rixes.
-- La quete du troll demande de prendre la bonne piste et de parler a tous les
-  temoins. Ne quitte pas la zone avant d'avoir valide sa conclusion.
-- Termine les nids de monstres demandes dans le chapitre. Conserve les
-  composants de monstre pour les huiles, mutagenes et armures.
-- Fais l'arene jusqu'au bout et gagne chaque adversaire. Recupere le loot,
-  parle a l'organisateur et verifie la notification Steam.
-- Lance le bras de fer, les rixes et le poker aux des contre chaque adversaire
-  disponible. Pour le cinq d'un coup, sauvegarde avant chaque lancer.
-- Dans la quete qui concerne le piege du Kayran, explore la zone basse, la
-  cour de Loredo et la cache d'ingredient avant de valider la mission.
+PREPARATION GENERALE ET COMBAT
 
-FIN DU CHAPITRE 1 - SAUVEGARDE DE BRANCHE
+OPTIONS ET INVENTAIRE
 
-- Termine la quete principale du chapitre et ouvre une sauvegarde manuelle
-  nommee BRANCHE. Ne remplace pas ce fichier par une sauvegarde rapide.
-- Voie Roche : garde les quetes de soldats, l'enquete et la zone de camp pour
-  les succes associes.
-- Voie Iorveth : garde les quetes de non-humains, l'enquete et la zone de
-  refuge pour les succes associes.
-- Les deux voies donnent des quetes, objets et succes differents. Termine une
-  voie jusqu'a l'epilogue avant de recharger BRANCHE.
+- Desactive les QTE difficiles avant de commencer. Les QTE restent lisibles,
+  mais la fenetre de reussite devient moins punitive.
+- Fouille les coffres, cadavres et maisons avant de changer de zone. Le jeu
+  ne possede pas un inventaire illimite : utilise le coffre de l'auberge de
+  Flotsam, puis celui du camp de Kaedwen et de Vergen.
+- Garde toujours une reserve de Rebis, Aether, Caelum, Vitriol et Fulgar.
+- Garde les composants de monstre jusqu'a la fin de l'acte II : les potions,
+  huiles et pieges consomment beaucoup plus de composants que l'histoire.
+- Achete les diagrammes importants des artisans quand tu les rencontres. Les
+  stocks changent entre les actes et certains marchands disparaissent.
 
-CHAPITRE 2 - VOIE ROCHE
+BUILD DE SURVIE CONSEILLE
 
-- Fais la visite du camp, le tour avec Zyvik, le poker, les quetes de trolls,
-  les nids et l'arene avant la mission qui ferme l'acces.
-- Obtiens l'armure du Kayran avec la carapace et fais-la fabriquer. Garde les
-  composants necessaires avant de vendre les pieces.
-- Realise l'infiltration du camp inferieur sans alarme et le succes du
-  projectile de baliste si ce n'est pas deja fait.
-- Explore toutes les tentes et les maisons. Les notes sur l'asile et les
-  objets de quete se comptent dans la progression globale.
+- Debut : Hardiness, Parrying, Fortitude, puis Training et Footwork.
+- Milieu : Position, Riposte, Magical Vigor et une version renforcee de Quen.
+- Fin : Combat Acumen, Whirlwind, Invincible et les talents qui augmentent
+  le Vigor. Quen, roulade et placement valent mieux que les degats bruts.
+- Pour Insane, ne te bats jamais au milieu d'un groupe. Attire un ennemi,
+  roule lateralement, relance Quen et frappe dans le dos.
+- Contre les humains : parer, riposter, puis executer. Contre les monstres :
+  Quen, esquive, huile adaptee, attaque dans le dos.
+- Contre les explosions de rotfiend : frappe, recule avant l'explosion et ne
+  reste jamais sur le cadavre.
+- Contre les boss : sauvegarde avant l'arene, garde un point de Vigor pour
+  Quen et recharge au moindre degat evitables en RUN 2.
 
-CHAPITRE 2 - VOIE IORVETH
+TALENTS ET SUCCES DE SPECIALISATION
 
-- Repars de BRANCHE et choisis l'autre voie. Termine les quetes du camp,
-  l'arene, les trolls, les nids et les activites de poker disponibles.
-- Fouille les chemins de foret, les camps et les ruines avant de suivre la
-  mission principale. Les quetes de compagnon et de liberte de la zone sont
-  faciles a fermer.
-- Valide les succes de quetes politiques et de chapitre lies a cette voie.
-  Ne compare pas les noms de succes si tu veux conserver une lecture sans
-  indice narratif : les notifications suffisent.
+Les trois succes suivants demandent chacun une competence finale d'arbre :
 
-CHAPITRE 3 - DEUX VOIES ET ZONE FINALE
+- Swordmaster : competence Combat Acumen de l'arbre d'escrime.
+- Master of Magic : competence Sense of Magic de l'arbre de magie.
+- Master Alchemist : competence Mutant de l'arbre d'alchimie.
 
-- Chaque voie possede une entree differente dans la zone finale. Fais toutes
-  les quetes, le poker, les combats, les documents et la rencontre de troll
-  avant d'entrer dans la mission de sortie.
-- Termine les equinoxes de saison et les quetes optionnelles de la zone en
-  verifiant les conditions de dialogue. Recharge une sauvegarde de chapitre
-  si le compteur n'apparait pas.
-- Atteins le niveau 35 et debloque les capacites Sense of Magic, Combat
-  Acumen, Mutant et Master Alchemist sur l'ensemble des parties.
+La methode la plus sure est la suivante :
 
-ALCHIMIE, COMBAT ET COLLECTIONS
+1. Avance jusqu'a environ huit points de talent non depenses, autour du
+   niveau 15 si tu fais les quetes secondaires.
+2. Sauvegarde dans un emplacement manuel.
+3. Depense les points dans un premier arbre jusqu'a la competence demandee,
+   quitte le menu et attends le succes.
+4. Recharge la sauvegarde et recommence avec le deuxieme arbre, puis le
+   troisieme. Les succes deja obtenus restent sur Steam.
+5. Recharge une derniere fois et conserve une vraie repartition de combat.
 
-- Fabrique cinq potions ou huiles, cinq mutagenes et la potion ostmurk. Garde
-  les composants d'alchimie, les mutagenes et les formules rares.
-- Utilise des bombes pour toucher plusieurs ennemis, renvoie une fleche,
-  execute trois ennemis et enchaine trois ripostes. Les petites escouades de
-  la foret sont ideales pour ces objectifs.
-- Termine tous les nids de monstres et tous les trolls des deux parties. Les
-  quetes de troll peuvent avoir une issue differente selon les dialogues,
-  donc garde la sauvegarde du chapitre.
-- Pour le poker cinq d'un coup, joue a faible mise, sauvegarde avant le lancer
-  et ne quitte pas la table avant la notification.
+Pour Mutant!, garde au moins cinq mutagenes et n'utilise que des competences
+qui acceptent un mutagene. Les competences compatibles comprennent notamment
+Arrow Redirection, Fortitude, Invincible, Combat Acumen, Whirlwind, Enhanced
+Yrden, Sense of Magic, Control Over Power, Condensation, Metathesis, Berserker
+et Mutant. Sauvegarde avant chaque utilisation si tu veux verifier le compteur.
 
-INSANE - ROUTE DE SECURITE
+MINI-JEUX ET OBJECTIFS GENERAUX
 
-- Commence une nouvelle partie en Insane avec la branche qui te manque.
-  L'Insane se joue sans resurrection fiable : sauvegarde souvent mais ne
-  remplace pas la sauvegarde de debut de chapitre.
-- Fais les quetes de soin, les mutagenes, les potions et l'armure avant les
-  combats de boss. Equipe Quen, les huiles adaptees et les bombes de controle.
-- Evite les combats facultatifs quand le succes ne les demande pas, mais ne
-  ferme pas les quetes de troll, nids, arena et politique deja listees.
-- Termine le jeu en Insane, attends la notification, puis controle les deux
-  branches dans le profil Steam.
+- Gambler : gagne au moins un bras de fer, un poker aux des et une rixe.
+- Poker! : fais un cinq d'une sorte puis gagne effectivement la partie. Un
+  cinq obtenu sur le premier lancer peut faire abandonner l'adversaire et ne
+  pas compter : sauvegarde, vise le cinq au second lancer si possible et
+  termine la partie.
+- Intimidator : utilise une option de dialogue d'intimidation, reconnaissable
+  a son icone rouge, dans le prologue ou a Flotsam.
+- Craftsman : demande a n'importe quel artisan de fabriquer un objet.
+- Apprentice : fabrique cinq potions ou huiles separement. Fabriquer une pile
+  ne doit pas etre considere comme cinq actions ; valide cinq fabrications.
+- Taster : bois une potion, par exemple Cat dans le puits du prologue.
+- Perfectionist : tue dix ennemis de suite sans perdre de Vitalite. Le bouclier
+  Quen ne remplace pas une perte de Vitalite : si la barre verte baisse,
+  recharge la sauvegarde de l'affrontement.
+- The Butcher of Blaviken : 500 ennemis tues. Le succes vient naturellement
+  en faisant les contrats ; les harpies de l'acte II offrent un farm sur.
+- Journeyman : niveau 10. Il arrive normalement avant la fin du chapitre 1.
+- Guru : niveau 35. Verifie le niveau avant de lancer le Sommet des mages.
+- Threesome : debloque les finishers de groupe, affaiblis trois ennemis et
+  declenche un finisher de groupe quand les trois marqueurs sont actifs.
+- Torn Asunder! : lance Grapeshot sur au moins deux ennemis proches et attends
+  que la meme explosion tue plusieurs cibles.
+- Focus : avec Riposte, bloque trois attaques humaines au bon signal et
+  enchaine trois ripostes sans casser la serie.
+- Ricochet : garde deux points de talent, achete Arrow Redirection, parre une
+  fleche en visant son archer et laisse la fleche le tuer.
 
-CHECKLIST STEAM FINALE - 52/52
+PROLOGUE - LA VALETTE
 
-[ ] Prologue et chapitres 1, 2, 3, epilogue.
-[ ] Voie Roche et voie Iorveth validees.
-[ ] Kayran, baliste, infiltration, troll et tous les nids de monstres.
-[ ] Arena complete, bras de fer, rixes, poker et cinq d'un coup.
-[ ] Niveau 10, niveau 35, mutagenes et alchimie complete.
-[ ] Compagnons, quetes politiques et documents de l'asile.
-[ ] Trolls epargnes puis trolls vaincus selon les sauvegardes necessaires.
-[ ] Insane complete.
-[ ] Verification finale du profil Steam : 52/52.
+SAUVEGARDE ET REGLAGES
 
-REGLE ANTI-SPOILER
+1. Lance une nouvelle partie et desactive les QTE difficiles.
+2. Cree la sauvegarde PROLOGUE avant le premier combat important.
+3. Apprends les signes, la parade et la roulade dans le tutoriel. Le tutoriel
+   peut etre passe, mais le garder aide pour la future run Insane.
+4. Ne depense pas les deux premiers points de talent. Ils serviront a Ricochet.
 
-Les noms de voies et de chapitres servent a gerer les sauvegardes. Les choix,
-les fins, les morts, les identites et les consequences ne sont pas racontes.
+CAMP DE FOLTEST - BALISTE ET COMBAT SANS DEGAT
+
+1. Avance jusqu'a la baliste et fais une sauvegarde juste avant de la viser.
+2. Dans le viseur, cible le soldat lie a Count Etcheverry, le personnage
+   indique dans l'objectif de la scene. La cible correcte se trouve du cote
+   gauche du groupe depuis la baliste, avec les plumes visibles sur le casque.
+3. Si le tir ne debloque pas Eagle Eye, recharge et ajuste legerement l'angle.
+   Ne quitte pas le prologue en pensant pouvoir revenir a la baliste.
+4. Sur le chemin du camp, utilise Quen et les roulades pour ne pas perdre de
+   Vitalite. Sauvegarde devant un groupe de soldats et compte tes dix victimes.
+5. Une fois Perfectionist obtenu, tu peux jouer normalement. Si la serie est
+   interrompue, recharge la sauvegarde du groupe et recommence.
+
+HUTTE, PUITS ET DIALOGUES
+
+1. Dans la hutte ou deux soldats agressent des paysans, utilise l'option rouge
+   d'intimidation. Intimidator apparait a la fin du dialogue.
+2. Dans le puits qui conduit au monastere, medite avant la descente et bois
+   Cat. Taster apparait apres la consommation.
+3. Fouille les maisons de la zone du camp, les coffres de tente et les cadavres
+   avant de continuer. Les orens et composants servent a l'artisanat.
+4. Termine les combats du camp en separant les soldats. Contre un bouclier,
+   frappe dans le dos ou utilise Aard, jamais une attaque frontale repetitive.
+
+CHATEAU, TEMPLE ET EGOUTS
+
+1. Si tu affrontes le detenteur du chateau, garde Quen et attends sa fin de
+   combo avant de frapper. Les QTE deviennent plus simples avec l'option
+   difficile desactivee.
+2. Dans les egouts du temple, prends le premier couloir puis utilise Aard sur
+   le mur cassable situe a gauche du passage du second noyeur. Le squelette
+   derriere ce mur contient l'epee temerienne, un bon equipement de depart.
+3. Dans la tour, avance avec Quen actif. Les chevaliers en espace etroit sont
+   plus dangereux que les ennemis de la cour : attire-les un par un.
+4. Dans la cour de la cle du garde, elimine d'abord les soldats legers, puis
+   le porteur de bouclier et le chevalier lourd. Ne traverse pas le groupe en
+   courant.
+5. Pendant la fuite sur le pont, cours jusqu'au bout sans t'arreter. Le feu
+   du dragon et le bord du pont peuvent provoquer une mort instantanee.
+
+DONJONS DE LA VALETTE ET FIN DU PROLOGUE
+
+1. Dans les cellules, gagne la rixe avec les gardes. Si une option de dialogue
+   permet d'en neutraliser un, prends-la pour reduire le risque.
+2. Dans les escaliers et couloirs, attire les gardes sur un palier et combats
+   un seul adversaire a la fois.
+3. Fouille la salle de l'executeur apres le combat : composants et coffres.
+4. Termine la fuite et monte sur le navire. The Fugitive apparait en achevant
+   le prologue.
+
+CONTROLE DE FIN DE PROLOGUE
+
+- Eagle Eye obtenu pendant la baliste.
+- Intimidator obtenu dans la hutte.
+- Taster obtenu dans le puits.
+- Perfectionist obtenu sur une serie de dix victimes.
+- The Fugitive obtenu en quittant la zone.
+- Deux points de talent encore disponibles ou un plan de rechargement pour
+  Ricochet.
+
+CHAPITRE 1 - FLOTSAM ET FORET
+
+ARRIVEE A FLOTSAM
+
+1. Apres l'arrivee, cree C1-DEPART. La ville, l'auberge et la foret restent
+   accessibles pendant la majeure partie du chapitre, mais pas apres les
+   emeutes.
+2. Lis le tableau d'affichage devant l'auberge. Prends Nekker Contract,
+   Endrega Contract et Troll Trouble.
+3. Va a l'auberge : a l'etage, gagne un bras de fer ; au sous-sol, gagne une
+   rixe puis une partie de poker aux des.
+4. Pour Poker!, sauvegarde avant le premier lancer. Cherche un cinq d'une
+   sorte, puis gagne la partie. Si l'adversaire abandonne immediatement,
+   recharge et fais durer la partie jusqu'a la victoire.
+5. Parle a l'artisan dans le quartier non humain et demande une fabrication.
+   Craftsman se debloque sur le premier objet fabrique.
+6. Dans le coffre de l'auberge, depose les composants et les mutagenes rares.
+   Cela evite de les vendre par erreur.
+7. Achete a Einar Gausel les livres Nekkers in the Mist et Three Years Among
+   the Endregas. Ils sont dans sa maison du quartier non humain, pres de
+   l'artisan. Lis-les depuis l'inventaire.
+8. Achete aussi le livre sur les rotfiends si le marchand le propose. Il
+   simplifie le contrat de l'acte II.
+
+ALCHIMIE, ARTISANAT ET MUTAGENES
+
+1. Reviens au coffre, prends les composants et fabrique cinq potions ou huiles
+   en cinq validations separees. Apprentice apparait sur la cinquieme.
+2. Bois une potion si ce n'est pas deja fait. Taster peut etre obtenu ici si
+   le prologue a ete passe.
+3. Ne depense pas tous les mutagenes : conserve au moins cinq exemplaires de
+   n'importe quel type pour Mutant!.
+4. Chaque fois qu'une competence avec emplacement de mutagene est disponible,
+   fais une sauvegarde puis ameliore-la. Cinq ameliorations debloquent Mutant!.
+5. Fabrique une Grapeshot et plusieurs exemplaires. Elle servira aux nids de
+   nekkers et a Torn Asunder!.
+
+CONTRAT NEKKER - FORET ET CAVES PRES DE FLOTSAM
+
+1. Apres avoir lu Nekkers in the Mist, achete la formule de Grapeshot a Cedric
+   dans Lobinden, sur la plateforme d'observation.
+2. Entre dans les caves de la foret proches du chemin entre Flotsam et le port
+   de Roche. Tue les nekkers, puis cherche leurs nids avec les sens de sorceleur.
+3. Place une Grapeshot sur chaque nid. Les nids ne valident pas le contrat si
+   tu tues seulement les creatures autour.
+4. Termine les deux galeries, reviens en ville et valide le contrat aupres du
+   chancelier qui paie les contrats. Ne quitte pas l'acte sans la validation.
+5. Garde les composants de nekkers : ils servent a vendre, a fabriquer et a
+   financer l'armure de Kayran.
+
+CONTRAT ENDREGA - FORET SUD ET COCOONS
+
+1. Apres avoir lu Three Years Among the Endregas, suis les zones d'endregas
+   dans la foret au sud de Flotsam et autour de la grotte de Malena.
+2. Localise chaque cocon avec les sens de sorceleur. Ouvre et detruis tous les
+   cocoons avant de chercher la reine.
+3. Controle le compteur du contrat dans le journal. Un cocon oublie empeche
+   Pest Control a la fin de la campagne.
+4. Pour les reines, pose un piege, utilise Yrden, puis frappe dans le dos.
+   Sur Insane, ne reste jamais entre deux endregas.
+5. Retourne aupres du responsable du contrat et recupere le diagramme d'epee
+   d'argent si la recompense le propose. Termine le contrat, pas seulement le
+   combat.
+
+TORN ASUNDER! - CAVE A NEKKERS
+
+1. Sauvegarde devant l'entree d'une cave a nekkers proche du port de Roche.
+2. Attire au moins deux nekkers dans la meme zone, recule pour les regrouper
+   et lance Grapeshot au centre.
+3. Le succes exige que l'explosion unique tue plusieurs ennemis. Si un seul
+   meurt, recharge et utilise une deuxieme bombe sur un groupe plus faible.
+
+TROLL TROUBLE - ROUTE TROLLSLAYER DE RUN 1
+
+1. Lis la mission du troll sur le tableau d'affichage. Le troll se trouve sous
+   le pont au nord-ouest de Flotsam, sur le chemin de la foret.
+2. Parle-lui et, pour RUN 1, choisis l'affrontement. Active Quen, pose Yrden
+   et frappe dans le dos apres chaque lancer de rocher.
+3. Fouille ensuite le corps et retourne valider la mission. Le troll hostile
+   optionnel du camp n'a pas besoin d'etre tue pour Trollslayer.
+4. Pour RUN 2, ne suis pas cette instruction : epargne le troll et termine
+   l'enquete indiquee dans la section Friend of Trolls.
+
+TROLL TROUBLE - ROUTE FRIEND OF TROLLS DE RUN 2
+
+1. Parle au troll du pont, n'attaque pas et accepte de chercher la personne
+   liee a sa mission.
+2. Parle au chasseur Sendler a Lobinden. Ne gagne pas sa partie de des avant
+   d'avoir compris que son trophee est utile a la mission : si besoin,
+   sauvegarde avant la partie et remporte le trophee demande.
+3. Suis la piste jusqu'au cimetiere de Lobinden, trouve Dmitri et ses hommes,
+   puis recupere les indices et l'objet necessaire.
+4. Retourne au troll avec la preuve et termine la quete sans le tuer. Cette
+   decision valide le premier troll epargne de Friend of Trolls.
+
+IN THE CLAWS OF MADNESS - LES QUATRE DOSSIERS
+
+1. Demande a Cedric s'il a du travail de sorceleur. Accepte In the Claws of
+   Madness, puis va a l'asile brule au sud des derniers cocoons d'endrega.
+2. Parle a Rupert et Gridley avant d'explorer. Fais une sauvegarde devant la
+   porte de l'asile : les dossiers ne sont pas recuperables apres le depart.
+3. Dossier III : apres le premier effondrement et le passage du fantome,
+   tombe dans la salle suivante. Le coffre est contre le mur a droite.
+4. Dossier I : continue, tombe dans la salle ou apparaissent deux spectres,
+   puis fouille le coffre de cette salle.
+5. Dossier II : apres avoir trouve Gridley et la table de medecine, regarde la
+   petite piece sur la gauche de la table. Le coffre contient le dossier.
+6. Dossier IV : dans la salle du fantome nilfgaardien, prends le coffre dans
+   l'angle tout a gauche de la piece.
+7. Les quatre objets sont Hospital File I, II, III et IV. Le succes Librarian
+   apparait sur le dernier dossier. Si le compteur ne s'affiche pas, recharge
+   la sauvegarde de l'asile et verifie les quatre coffres.
+8. Fouille aussi le mur friable pres de la salle du garde fantome avec Aard.
+   Le coffre cache contient du butin, mais ce coffre n'est pas requis pour
+   Librarian.
+
+SUMMER SOLSTICE - AUTEL DE LA FORET
+
+1. Depuis la zone du troll du pont, suis le cours d'eau puis monte le pont
+   casse vers le repaire de bandits.
+2. Nettoie le repaire, puis longe la paroi a droite de l'entree du repaire.
+   Cherche la statue/autel dans le renfoncement au bout de la plateforme.
+3. Approche l'autel et utilise l'interaction d'inclinaison. Summer Solstice
+   apparait et l'aptitude associee est ajoutee.
+4. Fouille le coffre du repaire avec la cle recuperee sur les chasseurs de
+   trolls. Il contient une bonne epee d'acier de chapitre 1.
+
+QUESTES SECONDAIRES ET COFFRES A FAIRE AVANT LOREDO
+
+- Malena : accepte la mission a Lobinden, explore la grotte et termine-la
+  avant le depart de Flotsam. Ne laisse pas le marqueur actif sans conclusion.
+- The Scent of Incense : suis la piste de l'encens, fouille les zones marquees
+  et termine la resolution avant les emeutes.
+- A Matter of Price : negocie la recompense du contrat de Kayran. Le gain
+  supplementaire aide a acheter les diagrammes et composants.
+- Mystic River : dans la zone du repaire de Kayran, fouille l'epave. Recupere
+  le document et la cle de boite postale pour la suite de la quete.
+- Dans la maison de Louis Merse, cherche la boite postale royale. Elle est
+  utile a la continuation de Mystic River.
+- Fouille les coffres de Lobinden, de l'auberge, du quartier non humain, de
+  la maison de Cedric, du repaire de bandits et des caves a nekkers.
+- N'achete pas d'epee couteuse avant d'avoir compare le butin et les diagrammes
+  de l'armure de chasseur ; garde des orens pour le piege de Kayran.
+
+MAN OF THE SHADOWS - JARDIN DE LOREDO
+
+1. Cree C1-LOREDO et avance la mission Indecent Proposal jusqu'a la visite
+   nocturne de la residence. Attends la nuit si le jeu te demande un horaire.
+2. Quand Roche attire l'arbaletrier, sauvegarde. Cette sauvegarde doit etre
+   avant toute detection.
+3. Reste accroupi, longe les murs et evite les soldats et les patrouilles.
+   N'ouvre pas les coffres visibles si cela te fait sortir de la couverture.
+4. Va vers la partie gauche de la residence, grimpe le petit muret et ouvre
+   le coffre de la remise isolee. Il contient l'Iron Frame, composant du piege.
+5. Reviens pres de la fenetre et ecoute la conversation demandee, sans etre
+   detecte. Retourne a Roche par le meme cote.
+6. Man of the Shadows apparait en sortant de la section furtive. Si une alarme
+   part, recharge immediatement C1-LOREDO ; ne poursuis pas la mission.
+
+THE KAYRAN - PREPARATION COMPLETE
+
+1. Cree C1-KAYRAN avant d'entrer dans la taniere. Va avec Triss examiner la
+   zone et ramasse le mucus de Kayran.
+2. La formule de la potion est donnee pendant cette quete. En alchimie,
+   fabrique la potion Ostmurk/Mongoose affichee par la recette de la quete.
+   Les agents usuels sont Rebis, Aether et Fulgar ; verifie la recette du jeu.
+3. Retourne voir Cedric et achete le diagramme du Kayran Trap. Le composant
+   Iron Frame vient du jardin de Loredo.
+4. Reunis Oil x2, Iron Ore x1 et Silver Ore x1, puis fabrique le piege chez un
+   artisan. Ne lance pas le combat sans le piege dans l'inventaire.
+5. Ouvre une sauvegarde manuelle dans la taniere, avant le declenchement de
+   l'affrontement. Equipe Quen, Yrden et la potion de Kayran.
+
+GREAT POTION!, ARTFUL DODGER ET KAYRAN
+
+1. Great Potion! apparait quand la potion Ostmurk/Mongoose est fabriquee. Si
+   elle n'apparait pas, ne consomme pas la recette : verifie que tu as bien
+   fabrique la potion liee au mucus et pas une potion generique.
+2. Dans l'arene, place le Kayran Trap sur l'un des emplacements lumineux devant
+   une tentacule. Reste assez pres pour que la tentacule frappe le piege.
+3. La tentacule doit etre coupee par le piege. Artful Dodger apparait alors.
+   Si le monstre frappe a cote, recharge C1-KAYRAN et recommence.
+4. Utilise Yrden sur une tentacule, roule hors de la zone rouge et coupe les
+   tentacules necessaires. Ne reste jamais devant le monstre.
+5. Tue le Kayran. Oh My God! You Killed the Kayran! You Bastards! apparait a
+   la fin du combat.
+6. Fouille la carcasse et conserve Kayran Skin/Carapace. Ne vends aucun morceau
+   avant d'avoir fabrique l'armure requise par Backbone.
+
+BACKBONE - ARMURE DE CARAPACE
+
+1. Rends la recompense de la mission A Matter of Price et recupere le diagramme
+   Kayran Skin Armor.
+2. Dans le coffre de l'artisan, reunit au minimum : Kayran Skin x1, Robust
+   Cloth x14, Hardened Leather x6, Twine x8 et 375 orens.
+3. Le tissu robuste et le cuir durci peuvent etre achetes ou fabriques. Si tu
+   manques d'or, vends les composants de nekkers et d'endregas deja valides.
+4. Demande a un artisan de fabriquer Kayran Skin Armor. Backbone apparait au
+   moment de la fabrication, pas au moment du ramassage de la peau.
+
+RICOCHET - EMBUSCADE D'IORVETH
+
+1. Dans The Assassins of Kings, cree une sauvegarde avant la rencontre ou
+   Iorveth est amene devant Roche et les Blue Stripes.
+2. Pour faire apparaitre rapidement les archers, choisis l'option qui frappe
+   Iorveth a la gorge au lieu de lui rendre son epee. Ce choix ne fixe pas
+   encore la route finale : il sert a obtenir la rencontre utile.
+3. Avant de suivre la piste dans la foret, medite et depense deux points dans
+   Arrow Redirection. Verrouille l'archer, maintiens la parade dans sa direction
+   et laisse une de ses fleches revenir vers lui.
+4. Tue les combattants au corps a corps et un des archers, puis garde le
+   dernier en vie. La fleche reflechie doit le tuer. Ricochet apparait.
+5. Recharge la sauvegarde d'avant l'embuscade si tu veux recuperer les points
+   de talent et faire le choix de route proprement. Les succes restent acquis.
+
+FIN DU CHAPITRE 1 - BRANCHE ROCHE
+
+1. Termine les contrats Nekker et Endrega, Librarian, Troll Trouble, les
+   mini-jeux, les quetes de foret, l'armure de Kayran et toutes les fabrications.
+2. Cree C1-BRANCHE avant de valider At a Crossroads. Conserve-la dans un
+   emplacement manuel et ne la remplace pas.
+3. Pour RUN 1, suis Vernon Roche. Termine la ligne Roche jusqu'au depart de
+   Flotsam et debloque To Aedirn!.
+4. Si tu veux tester Iorveth avant RUN 2, recharge C1-BRANCHE ; pour la route
+   complete, garde toutefois RUN 2 comme vraie partie Iorveth.
+
+CHAPITRE 2 - ROUTE ROCHE
+
+ARRIVEE AU CAMP DE KAEDWEN
+
+1. Cree C2-DEPART-R. Apres la sequence du champ de bataille, suis Zyvik mais
+   ne lui demande pas de te conduire directement au roi.
+2. Laisse-le faire sa visite du camp : tu dois voir le camp, la cantine et le
+   prisonnier avant d'entrer dans la partie suivante. Tourist apparait a la fin
+   de la visite.
+3. Lis le tableau de la cantine et prends Rotfiend Contract. Achete ou lis
+   The Horrors of War: Rotfiends aupres de Sambor hors du camp.
+
+ROTFIEND CONTRACT - NEUF CADAVRES
+
+1. Depuis la sortie sud du camp, passe pres de la zone avec le grand groupe de
+   rotfiends : cadavres 1, 2 et 3.
+2. Remonte vers le nord, depasse le bordel et cherche la caravane detruite :
+   cadavres 4 et 5 sont autour de la caravane ; le cadavre 6 est plus loin
+   pres du ruisseau.
+3. Longe les fortifications vers l'extreme nord. Entre dans le passage entre
+   les falaises : cadavres 7, 8 et 9 sont dans cette zone.
+4. Brule les neuf cadavres avec l'interaction de la mission, puis retourne a
+   Proximo pour valider le contrat. Le succes Pest Control attendra le
+   quatrieme contrat de l'acte III.
+
+GLADIATOR - ARENE DE KAEDWEN
+
+1. Avance la mission The Butcher of Cidaris jusqu'a la proposition de Proximo.
+   Fais une sauvegarde devant l'entree de l'arene.
+2. Termine tous les adversaires du tournoi, sans quitter entre les combats.
+   Les deux premiers combats sont suivis du duel contre Ves.
+3. Utilise Quen avant chaque manche et garde une potion de soin. Une victoire
+   dans l'arene ne suffit pas : tous les adversaires du tournoi doivent etre
+   vaincus. Gladiator apparait apres le dernier.
+
+HEARTBREAKER - VES
+
+1. Apres l'arene, va au camp de Roche pres du bordel et parle a Ves.
+2. Choisis successivement les reponses qui expriment : l'envie de profiter de
+   l'occasion, le courage et la beaute de Ves, puis l'accord avec son idee.
+3. Si tu veux le texte exact dans une version localisee, repere les trois
+   options correspondant a ces trois intentions, plutot que de cliquer vite.
+4. Heartbreaker apparait a la fin du dialogue. Si aucune apparition, recharge
+   la sauvegarde d'avant la conversation et recommence.
+
+MISER - 10 000 ORENS
+
+1. Le compteur demande de posseder 10 000 orens, pas seulement d'avoir gagne
+   10 000 orens sur toute la partie.
+2. Pendant The Blood Curse, atteins la maison du Visionnaire et sauvegarde
+   avant d'entrer dans le cercle de bougies.
+3. Tant que tu n'entres pas dans le cercle, les harpies de la zone peuvent
+   etre utilisees comme farm. Tue-les avec Quen, ramasse plumes, yeux, oeufs
+   et salive, puis vends les composants au camp.
+4. Si tu preferes une methode plus courte, termine Bring It On et bats Adam
+   Pangratt au bras de fer en misant le maximum. Recommence jusqu'au seuil.
+5. Verifie la somme dans l'inventaire et garde les 10 000 orens au moment du
+   succes Miser. Ne les depense pas juste avant la notification.
+
+NECROMANCER - LES TROIS MEMOIRES
+
+1. Apres la levee de la malediction, avance la mission jusqu'a la vision de
+   Dethmold. Cree une sauvegarde au debut de chaque souvenir.
+2. Souvenir 1 : suis le compagnon dans la grotte, evite tous les pieges au sol
+   et ne te precipite pas dans les couloirs etroits.
+3. Souvenir 2 : approche-toi du camp sans declencher l'alerte. Sauvegarde au
+   debut, longe les couvertures et attends que les gardes se separent. La
+   memoire se valide quand l'ennemi demande est neutralise sans detection.
+4. Souvenir 3 : avance dans la grotte puis affronte les soldats autour de la
+   tente. Reste en mouvement, utilise Quen et ne meurs pas avant la fin de la
+   scene.
+5. Necromancer apparait apres le troisieme souvenir. Une detection ou une mort
+   oblige a recharger la sauvegarde de la memoire concernee, pas a continuer.
+
+FOCUS - RIPOSTES
+
+1. Depense deux points dans Riposte avant la Bataille eternelle si possible.
+2. Pendant la sequence ou tu controles le soldat dans le champ de bataille,
+   verrouille un ennemi a l'epee et attends le signal de parade.
+3. Appuie sur l'attaque rapide exactement au signal. Apres la premiere riposte,
+   garde le meme adversaire ou passe au suivant sans subir de coup.
+4. Reussis trois ripostes consecutives. Focus apparait. Si la serie est brisee,
+   recharge le dernier autosave de la sequence ou entraine-toi plus tard sur
+   un groupe de soldats humains.
+
+TROLLS DE L'ACTE II - TROLLSLAYER RUN 1
+
+1. Apres le passage vers la zone de Vergen, le premier troll du couple, la
+   femelle, bloque le chemin. Pour RUN 1, provoque le combat et tue-la.
+2. Plus loin dans les ravins, trouve le troll male attaque par des soldats.
+   Tue d'abord les soldats, puis choisis la reponse qui refuse de croire que
+   sa compagne est vivante afin de provoquer le combat. Tue le troll.
+3. Avec le troll du pont de Flotsam deja tue, Trollslayer apparait apres le
+   troisieme troll de quete.
+4. Ne tue pas le troll hostile situe sur un chemin secondaire du camp pour
+   essayer d'accelerer le compteur : il ne compte pas et ne remplace aucun
+   troll de quete.
+
+REASONS OF STATE - SAUVEGARDE DE DECISION
+
+1. Avant la discussion qui suit le combat de Vergen et l'affrontement de la
+   maison de Philippa, cree C2-DECISION-R.
+2. Quand Roche demande a achever le prisonnier, choisis le refus de l'execution
+   et interromps Roche. Reasons of State apparait.
+3. Recharge C2-DECISION-R uniquement si tu veux voir l'autre resultat narratif.
+   Le succes reste valide ; conserve la branche qui te convient.
+
+FAT MAN ET ALEA IACTA EST
+
+1. Termine les souvenirs du champ de bataille et le combat contre le Draug.
+   Fat Man apparait a la fin du combat.
+2. Avant de franchir le dernier seuil de l'acte II, verifie que Rotfiend
+   Contract est valide, que les trois trolls de RUN 1 sont morts et que les
+   quetes de Vergen necessaires sont terminees.
+3. Complete la siege et le depart pour Loc Muinne. Alea Iacta Est apparait en
+   terminant le chapitre 2.
+
+BLACK OPS - INFILTRATION DU CAMP INFERIEUR
+
+1. Lorsque Roche propose un passage par les grottes ou par le camp, choisis le
+   camp. Cree C2-BLACK-OPS avant de grimper depuis la plage pres de la cantine.
+2. Attends qu'un soldat ivre sorte de la tente et parte entre les tentes. Quand
+   il disparait, eteins le brasero pres de la tente suivante.
+3. Attends que les deux soldats assis pres du feu partent. Traverse alors en
+   diagonale vers les forges, puis longe le mur est.
+4. Avant l'angle suivant, attends le groupe de six soldats qui marche depuis
+   la sortie du bordel. Laisse-le passer sans avancer.
+5. Continue derriere les tentes. Quand un garde se retourne, attends qu'il
+   s'eloigne, puis longe le mur jusqu'au cuisinier pres du feu.
+6. Le cuisinier doit te voir. Approche assez pour obtenir le dialogue et
+   utilise Axii pour le calmer. Le contourner provoque souvent l'alerte.
+7. Reviens derriere les tentes et attends la patrouille qui doit entrer par la
+   porte. Quand elle est passee, sors par les portes et sauvegarde.
+8. Hors du camp, neutralise le soldat seul avec une longue-vue sur la plage,
+   puis descends vers les grottes. Black Ops apparait en entrant dans la suite.
+9. Si une fleche te touche ou si l'alarme part, recharge C2-BLACK-OPS avant la
+   fin de la cinematique. Ne tente pas de reparer une infiltration deja ratee.
+
+CHAPITRE 2 - ROUTE IORVETH
+
+CHOIX DE ROUTE ET PREPARATION
+
+1. Pour RUN 2, repars de zero et suis Iorveth apres la fin du chapitre 1.
+2. Les decisions de l'embuscade a Iorveth ne changent pas encore la route,
+   mais conserve les deux points de talent si Ricochet n'est pas obtenu.
+3. Fais une sauvegarde C2-DEPART-I avant les sequences jouables avec le prince,
+   puis une sauvegarde C2-VERGEN avant les quetes de la ville.
+4. Termine les activites de Vergen avant d'entrer dans la Brume. L'entree dans
+   la Bataille eternelle ferme les quetes laissees ouvertes.
+
+VERGEN - ACTIVITES ET QUETES SECONDAIRES
+
+1. A l'auberge, gagne les parties de poker et le bras de fer disponibles. Le
+   jeu de des de Skalen peut donner une epee d'acier utile.
+2. Dans les mines sous Vergen, accepte Hey, Work's On In the Mines!. Ferme les
+   tunnels de rotfiends avec les bombes demandees avant de prendre l'Immortelle.
+3. Achete les outils chirurgicaux a Felicia Cori au marche. Ils sont requis
+   dans les catacombes pour la quete With Flickering Heart.
+4. Dans les catacombes, fouille les cadavres pour le fragment de metal et
+   utilise les outils. Termine la quete avant la Brume.
+5. Fais The Butcher of Cidaris, In Cervisia Veritas, A Path to Vision et les
+   quetes des symboles avant le depart. Ramasse tous les cristaux de reve dans
+   la taniere des harpies, pas seulement celui du marqueur principal.
+6. Pour Baltimore's Nightmare et Suspect: Thorak, inspecte l'atelier, utilise
+   Aard sur le mur arriere, prends la cle, puis fouille la cache du ravin et
+   l'epave au-dessus de la carriere. Recupere les notes, la cle et le recu,
+   puis rends la preuve a Cecil pour l'epee Gwyhyr.
+7. Achete les runes Ysgith au marchand mysterieux avant de quitter l'acte II.
+   Son stock de chapitre 3 ne remplace pas ce stock.
+
+CONTRAT HARPIE - SEPT NIDS
+
+1. Prends le contrat au tableau de Vergen et lis Harpies - Daughters of the
+   Gale chez Felicia Cori. Achete ou fabrique au moins sept pieges a harpie.
+2. Dans la carriere, ne tue pas toutes les harpies immediatement. Pose un
+   piege au sol et attends qu'une harpie le prenne et l'emporte au nid.
+3. Detruis les quatre premiers nids accessibles dans la grande carriere.
+4. Avance Hunting Magic jusqu'a ouvrir la porte verrouillee de l'ancienne
+   carriere. Passe derriere cette porte et detruis les trois nids restants.
+5. Ne pose qu'un piege a la fois : si aucune harpie ne le prend, recupere-le,
+   arme-le a nouveau et attends. Les nids doivent etre detruits par pieges.
+6. Tue les harpies restantes, puis rends le contrat a l'organisateur de Vergen.
+   Cette validation remplace Rotfiend Contract pour Pest Control de RUN 2.
+
+FRIEND OF TROLLS - LES TROIS TROLLS EPARGNES
+
+1. Le troll du pont a deja ete epargne et sa quete est terminee en RUN 2.
+2. Dans les ravins au-dessus de la carriere de harpies, parle au troll male
+   ivre. Accepte de chercher sa compagne et recupere l'indice necessaire.
+3. Trouve la femelle attaquee par Adam Pangratt et ses mercenaires. Defense-la
+   sans la frapper ; elimine les mercenaires, en neutralisant Adam en premier
+   si tu veux raccourcir le combat.
+4. Dis a la femelle de rejoindre son compagnon, puis retourne parler au troll
+   male. Recupere la bandana et termine la quete.
+5. Friend of Trolls apparait apres cette remise. Le troll hostile optionnel du
+   camp peut etre ignore, car il ne fait pas partie du trio de l'achievement.
+
+STENNIS, LA BRUME ET PREPARATION DE FIN D'ACTE
+
+1. Pendant les sequences du debut d'acte, reste dans les zones protegees et ne
+   quitte pas la barriere magique pendant la traverse de la Brume.
+2. Garde Quen, Swallow et Rook prets avant le retour de Geralt. Les personnages
+   temporaires n'utilisent pas toujours tous les talents de Geralt.
+3. Avant le dernier depart de Vergen, termine les quetes, l'arene de Vergen,
+   le poker, les bras de fer, les mines, les harpies et Baltimore's Nightmare.
+4. Cree C2-POINT-DE-NON-RETOUR-I. Parle a Philippa uniquement quand toutes les
+   cases de zone sont verifiees, puis traverse la Brume.
+5. Tue le Draug en restant derriere lui et en renouvelant Quen. Fat Man apparait.
+6. Termine le chapitre et rejoins Loc Muinne. Alea Iacta Est apparait comme
+   sur la route Roche.
+
+CHAPITRE 3 - LOC MUINNE ET FINALE
+
+REGLE DU POINT DE NON-RETOUR
+
+1. A l'arrivee a Loc Muinne, cree C3-DEPART. Ne lance pas A Summit of Mages.
+2. Fais d'abord les contrats, les quetes secondaires, les mini-jeux et les
+   fouilles. Le Sommet des mages est la derniere sequence : apres son lancement,
+   la ville n'est plus un espace de nettoyage libre.
+3. Vise le niveau 34 avant le Sommet. Le gain de fin de campagne doit te faire
+   passer 35 pour Guru. Si tu es encore 32 ou moins, ne lance pas la finale.
+
+GARGOYLE CONTRACT - TROIS CHAMBRES DE RUNES
+
+1. Prends le contrat au tableau pres de la taverne de Loc Muinne. Lis le livre
+   Gargoyles, Gutters, Splutters - Maintenance & Repairs chez Felicia Cori ou
+   parle a Bras de Ban Ard.
+2. Chambre 1 : elle est dans les ruines pres du camp temerien, de l'autre cote
+   de l'entree. Elimine le golem puis descends vers la porte barree.
+3. Pour la premiere combinaison, si les indices affichent "poisson brillant,
+   mort sur une fresque, frappe par la foudre", utilise Animal, Temps, Mort,
+   Ciel. Si les indices affichent "comete, loup en periode de disette,
+   berceuse mauvaise", utilise Ciel, Animal, Temps, Mort.
+4. Chambre 2 : traverse vers le sud du camp temerien. Les escaliers et la
+   salle de runes sont dans les ruines gardees par les gargouilles.
+5. Si les indices affichent "longue ombre d'un daim, lune qui gemit,
+   automne", utilise Animal, Ciel, Mort, Temps. Si les indices affichent
+   "trois souris des champs, danse au crepuscule, etoiles comme le grain",
+   utilise Animal, Mort, Temps, Ciel.
+6. Chambre 3 : va a l'ouest de l'amphitheatre, pres de la zone du Sommet.
+   Elimine les gargouilles et descends dans la derniere chambre.
+7. Si les indices affichent "Divertimento, nuages comme des abeilles, quand
+   sonnent les cloches", utilise Mort, Ciel, Animal, Temps. Si les indices
+   affichent "ciel sombre, vol d'un faucon, plus vite et encore plus vite",
+   utilise Ciel, Mort, Animal, Temps.
+8. Les indices peuvent etre presentes dans un ordre different selon la partie.
+   Lis toujours les phrases de la chambre avant d'activer les quatre symboles.
+9. Desactive les trois chambres et rends le contrat. Pest Control apparait si
+   les deux contrats de l'acte I et le contrat de l'acte II ont ete valides.
+
+COFFRES ET OBJETS UTILES DE LOC MUINNE
+
+- Fouille la zone d'entree, le camp temerien, le marche, les ruines et les
+  abords de l'amphitheatre avant la finale.
+- La cle de poste de Mystic River ouvre un coffre dans les egouts : prends
+  l'armure d'Ysgith avant de continuer vers la cellule.
+- Equipe l'armure avec des renforcements de diamant si tu en as. Conserve les
+  runes Ysgith pour l'epee d'argent et compare les diagrammes avant de vendre.
+- Dans chaque chambre de gargouilles, fouille les coffres apres le combat. Les
+  ecrits de la quete donnent des composants, mais le contrat exige les trois
+  sceaux, pas tous les coffres.
+- Termine les parties de poker, bras de fer et rixes restantes a la taverne.
+
+WINTER SOLSTICE - ROUTE IORVETH
+
+1. Cette activite se fait sur le chemin de montagne vers Loc Muinne en route
+   Iorveth. Cree une sauvegarde avant l'entree dans les grottes.
+2. Apres le passage avec les endregas, arrive devant le mur ou le chemin
+   principal demande de grimper vers la ville.
+3. Au lieu de grimper directement, prends la pente qui monte sur la droite,
+   le long de la paroi. Cherche l'aura du sanctuaire d'hiver au sommet.
+4. Entre dans l'aura et utilise l'interaction d'inclinaison devant le sanctuaire.
+   Winter Solstice apparait et l'aptitude est permanente.
+5. Si l'aura n'apparait pas, verifie que tu es bien sur la route Iorveth et que
+   tu n'as pas deja franchi le mur vers Loc Muinne. Recharge C3-DEPART-I.
+
+KINGMAKER - ROUTE ROCHE
+
+1. Sur la route Roche, rencontre Radovid puis cree C3-KINGMAKER avant la
+   decision qui oppose le sauvetage d'Anais et l'aide a Triss.
+2. Choisis d'aider Roche et de sauver Anais.
+3. Termine Crown Witness et Lilies and Vipers dans la chaine de quetes. Suis
+   les marqueurs jusqu'au rendez-vous dans les egouts sous la place.
+4. Ne parle pas a Shilard Fitz-Oesterlen devant l'ambassade nilfgaardienne
+   avant d'avoir termine la chaine Roche : cette conversation lance l'autre
+   branche et peut fermer Kingmaker.
+5. Termine For Temeria! et Of His Blood and Bone, puis remets Anais a John
+   Natalis. Kingmaker apparait lors de la remise.
+6. Pour Guru, ne remets pas Anais a Radovid si tu comptes utiliser le farm des
+   chevaliers. Remets-la a Natalis, puis rends les chevaliers de l'Ordre
+   hostiles a l'entree de Loc Muinne et farm-les avant le Sommet.
+
+SPELLBREAKER - ROUTE IORVETH
+
+1. Sur Iorveth, avance jusqu'aux egouts et a la cellule de Philippa. Cree
+   C3-SPELLBREAKER devant la decision de route finale.
+2. Pour Spellbreaker, libere Philippa et accepte de l'escorter. Partir vers
+   Triss ferme cette quete et le succes.
+3. Dans les egouts, elimine les rotfiends en gardant Quen et en reculant avant
+   leurs explosions. Rejoins les quartiers de Philippa.
+4. Monte a l'etage, tue les gardiens et fouille la chambre. Le coffre protege
+   par magie contient le dagger Spellbreaker.
+5. Lis les notes de Philippa sur le bureau. Le dessin donne l'ordre des bougies
+   et les quatre symboles ; le cinquieme symbole est le centre du motif.
+6. Sauvegarde devant le puzzle. Allume les bougies dans l'ordre indique par les
+   notes. Si le motif est different de la tentative precedente, suis les notes
+   de ta partie : le code n'est pas a deviner au hasard.
+7. Vaincs le gardien elemental, recupere la dague et termine la mission.
+   Spellbreaker apparait sur la conclusion de cette quete.
+
+SENSITIVE GUY ET WITCH HUNTER - TOUR DE SILE
+
+1. Avant d'entrer dans la tour pendant A Summit of Mages, cree C3-SILE.
+2. Monte les escaliers sans t'arreter quand ils commencent a s'effondrer.
+3. Aupres de Sile, laisse la scene du megascope se lancer. Pour Sensitive Guy,
+   interagis avec le megascope et retire le cristal instable.
+4. Attends Sensitive Guy, puis recharge C3-SILE. Refais la meme section et,
+   pour Witch Hunter, ne touche pas au megascope et laisse le compte a rebours
+   se terminer.
+5. Les deux succes doivent etre obtenus sur deux chargements depuis la meme
+   sauvegarde. Une seule decision ne peut pas donner les deux.
+
+DRAGONHEART ET BEING WITCHER GEORGE
+
+1. Cree C3-DRAGON juste avant la decision avec Sile, ou conserve C3-SILE si tu
+   veux commencer par les deux succes precedents.
+2. Combats le dragon avec Quen actif. En premiere phase, reste sous les
+   structures, esquive le feu et frappe quand la creature est au sol.
+3. En seconde phase, monte la tour sans t'arreter et renouvelle Quen apres
+   chaque impact. Une sauvegarde automatique arrive entre les phases.
+4. Apres le combat, attends la scene de decision. Pour Being Witcher George,
+   choisis de tuer le dragon. Le succes apparait apres cette resolution.
+5. Recharge C3-DRAGON et refais le combat. Pour Dragonheart, choisis de
+   laisser le dragon vivre. Sur Iorveth avec Spellbreaker, la dague permet la
+   resolution de sauvetage correspondante.
+6. Si tu vises 100 % sans spoiler, arrete la lecture de la fiche a cette ligne
+   jusqu'a avoir fait les deux sauvegardes : les deux actions sont les seules
+   informations narratives donnees ici.
+
+GURU - NIVEAU 35 AVANT LA FINALE
+
+1. Avant A Summit of Mages, regarde le niveau dans la fiche de personnage.
+2. Si tu es niveau 34, les derniers gains de la finale suffisent normalement
+   a atteindre 35. Ne lance pas la mission au niveau 33 en esperant un miracle.
+3. Sur Roche, apres Kingmaker et la remise d'Anais a Natalis, rends hostiles
+   les chevaliers de l'Ordre pres de l'entree de Loc Muinne. Fais une sauvegarde,
+   tue-les un par un et quitte/reviens pour les faire reapparaitre.
+4. Sur Iorveth, utilise les quetes secondaires, les gargouilles, les harpies
+   et les combats de la ville. La run Insane n'a pas besoin de refaire le farm
+   complet si Guru est deja acquis.
+5. Une fois niveau 35 obtenu, seulement alors lance le Sommet des mages.
+
+FIN DE CAMPAGNE ET LETHO
+
+1. Conserve C3-FINALE avant la sequence de fin et reussis la branche Sile.
+2. Avance jusqu'a la rencontre finale avec Letho. Pour Avenger, choisis le
+   combat et termine-le.
+3. Recharge C3-FINALE et refais la conversation. Pour Old Friends, laisse
+   Letho partir sans lancer le combat.
+4. Once Ain't Enough apparait en atteignant l'epilogue. To Be Continued...
+   apparait en terminant la campagne a n'importe quelle difficulte.
+5. Sur RUN 2 Insane, choisis Old Friends si tu veux reduire le risque : le
+   combat final n'est pas necessaire pour Madman.
+
+INSANE - ROUTE DE SURVIE POUR RUN 2
+
+AVANT DE COMMENCER
+
+- Joue la premiere partie au moins en Difficile pour connaitre les attaques.
+- Ne lance pas Insane pour decouvrir le jeu. Tu dois savoir ou sont les QTE,
+  les passages de mort instantanee et les combats de groupe.
+- Sauvegarde souvent, mais considere les sauvegardes comme des points de
+  reprise, pas comme une assurance contre la mort permanente.
+- Desactive les QTE difficiles, active Quen avant chaque porte et conserve
+  toujours une potion Swallow et une potion de resistance utile.
+
+PROLOGUE INSANE
+
+1. Mets les premiers points dans Hardiness, Parrying et Fortitude.
+2. Fais la baliste, l'intimidation et le prologue sans courir dans les groupes.
+3. Pendant le dragon, reste sous les abris jusqu'a la fin du souffle de feu.
+4. Dans les egouts et la cour, attire les soldats dans les escaliers et ne
+   laisse jamais un porteur de bouclier t'acculer.
+5. Pendant la fuite sur le pont, cours jusqu'au marqueur sans t'arreter.
+
+CHAPITRE 1 INSANE
+
+1. Apres l'auberge, achete Cat, Swallow et Rook. Remplis le coffre de
+   composants avant de quitter Flotsam.
+2. Fais d'abord les contrats et les objectifs faciles. Pour les reines
+   endrega et le Kayran, sauvegarde juste avant l'arene et relance Quen.
+3. Ne te fais pas encercler dans les caves de nekkers. Frappe, roule et
+   recule ; ne poursuis pas un ennemi dans un couloir sans Vigor.
+4. Pour Loredo, fais l'infiltration sans loot superflu. Un coffre rate vaut
+   mieux qu'une alarme et une partie perdue.
+5. Contre Letho, Aard pour interrompre, Quen avant l'approche et attaque dans
+   le dos. Si sa protection magique apparait, roule et attends.
+6. Choisis Iorveth pour le reste de RUN 2 et vise Friend of Trolls, Harpy
+   Contract, Winter Solstice et Spellbreaker.
+
+CHAPITRE 2 INSANE
+
+1. Le champ de bataille est le passage le plus dangereux : reste dans la zone
+   de protection et ne poursuis pas un spectre hors de la barriere.
+2. Dans la carriere de Vergen, recule vers l'espace ouvert. Les harpies et les
+   rotfiends tuent rapidement un Geralt encercle.
+3. Dans les mines, ferme les tunnels avec les bombes puis sors. Ne cherche pas
+   a nettoyer chaque couloir si le combat te force a rester sans Vigor.
+4. Dans la Brume, suis la barriere sans t'en eloigner. Les sequences jouables
+   temporaires sont a traiter comme des combats de survie, pas comme du farm.
+5. Contre le Draug, reste sur son flanc, evite les projectiles et garde Quen
+   pour les charges. Ne tente pas de boire une potion au milieu d'une attaque.
+
+CHAPITRE 3 INSANE
+
+1. Fais les gargouilles une chambre a la fois et sauvegarde entre les chambres.
+2. Sur la montagne Iorveth, sauvegarde avant les deux arachas qui peuvent te
+   prendre en sandwich. Passe derriere le premier et combats avec un mur dans
+   le dos.
+3. Pour Spellbreaker, garde Quen pendant les rotfiends et ne reste pas sur les
+   cadavres. Sauvegarde devant le puzzle et devant l'elemental.
+4. Pour le dragon, garde Quen, frappe seulement quand la voie est sure et
+   renouvelle la protection avant chaque phase.
+5. Pour Letho, choisis Old Friends en Insane si Avenger est deja obtenu. Le
+   succes Madman se valide avec l'epilogue, pas avec le combat.
+6. A la fin des credits, verifie Madman dans Steam avant de supprimer la run.
+
+VERIFICATION PAR CHAPITRE
+
+PROLOGUE
+
+- Eagle Eye, Perfectionist, Intimidator, Taster et The Fugitive controles.
+- Deux points de talent preserves ou Ricochet deja obtenu.
+- QTE difficiles desactives.
+
+CHAPITRE 1
+
+- Deux contrats : Nekker et Endrega termines et rendus.
+- Les quatre dossiers de l'asile recuperes pour Librarian.
+- Man of the Shadows obtenu sans detection.
+- Ostmurk/Mongoose fabriquee, piege pose, Kayran tue.
+- Kayran Skin Armor fabriquee pour Backbone.
+- Summer Solstice obtenu a l'autel de la foret.
+- Ricochet obtenu puis points recuperes si necessaire.
+- Mini-jeux, alchimie, artisanat, mutagenes et Torn Asunder! controles.
+- BRANCHE du choix Roche/Iorveth conservee.
+
+CHAPITRE 2 ROCHE
+
+- Tourist, Rotfiend Contract, Gladiator et Heartbreaker controles.
+- Miser valide avec 10 000 orens possedes.
+- Necromancer obtenu avec les trois souvenirs propres.
+- Focus obtenu avec trois ripostes consecutives.
+- Les deux trolls de la route Roche tues en RUN 1.
+- Black Ops obtenu sans alarme.
+- Reasons of State obtenu avant Alea Iacta Est.
+
+CHAPITRE 2 IORVETH
+
+- Harpy Contract valide sur les sept nids.
+- Les deux trolls de Vergen epargnes en RUN 2.
+- Friend of Trolls apparait apres la bandana.
+- Les mines, catacombes et Baltimore's Nightmare terminees.
+- Passage de la Brume effectue apres les quetes de zone.
+- Fat Man et Alea Iacta Est controles.
+
+CHAPITRE 3
+
+- Gargoyle Contract valide dans les trois chambres.
+- Pest Control obtenu apres le retour du contrat.
+- Kingmaker ou Spellbreaker valide selon la route.
+- Winter Solstice valide sur la route Iorveth.
+- Guru obtenu avant le Sommet des mages.
+- Sensitive Guy et Witch Hunter obtenus par rechargement.
+- Dragonheart et Being Witcher George obtenus par rechargement.
+- Once Ain't Enough et To Be Continued... controles.
+- Old Friends et Avenger obtenus par rechargement.
+- Madman obtenu en terminant RUN 2 Insane.
+
+CHECKLIST FINALE - 52 SUCCES STEAM
+
+[ ] Perfectionist - tuer 10 ennemis de suite sans perdre de Vitalite.
+[ ] Taster - boire une potion.
+[ ] The Fugitive - terminer le prologue.
+[ ] Intimidator - intimider quelqu'un.
+[ ] Craftsman - engager un artisan pour fabriquer un objet.
+[ ] Great Potion! - fabriquer la potion Ostmurk.
+[ ] Journeyman - atteindre le niveau 10.
+[ ] Oh My God! You Killed the Kayran! You Bastards! - tuer le Kayran.
+[ ] Apprentice - fabriquer cinq potions ou huiles.
+[ ] To Aedirn! - terminer le chapitre 1.
+[ ] Gambler - gagner un bras de fer, un poker aux des et une rixe.
+[ ] The Butcher of Blaviken - tuer 500 ennemis.
+[ ] Fat Man - tuer le Draug.
+[ ] Alea Iacta Est - terminer le chapitre 2.
+[ ] To Be Continued... - terminer le jeu a n'importe quelle difficulte.
+[ ] Once Ain't Enough - atteindre l'epilogue.
+[ ] Librarian - trouver toutes les informations sur l'asile.
+[ ] Swordmaster - acquerir la competence Combat Acumen.
+[ ] Torn Asunder! - tuer plusieurs adversaires avec une bombe explosive.
+[ ] Eagle Eye - toucher Count Etcheverry avec la baliste.
+[ ] Sensitive Guy - sauver Sile du portail instable.
+[ ] Man of the Shadows - traverser le jardin de Loredo sans alarme.
+[ ] Friend of Trolls - epargner tous les trolls du jeu.
+[ ] Old Friends - terminer le jeu en epargnant Letho.
+[ ] Dragonheart - epargner ou sauver Saskia.
+[ ] Ricochet - tuer un ennemi avec sa propre fleche.
+[ ] Threesome - tuer trois ennemis avec un finisher de groupe.
+[ ] Backbone - fabriquer l'armure avec la carapace de Kayran.
+[ ] Gladiator - vaincre tous les adversaires de l'arene de Kaedwen.
+[ ] Heartbreaker - seduire Ves.
+[ ] Pest Control - terminer tous les contrats de destruction de nids.
+[ ] Mutant! - ameliorer cinq competences avec des mutagenes.
+[ ] Guru - atteindre le niveau 35.
+[ ] Being Witcher George - tuer le dragon.
+[ ] Master of Magic - acquerir la competence Sense of Magic.
+[ ] Avenger - terminer le jeu en tuant Letho.
+[ ] Black Ops - traverser le camp inferieur sans alarme.
+[ ] Tourist - visiter le camp avec Zyvik.
+[ ] Spellbreaker - aider Iorveth a trouver la dague qui brise le sort.
+[ ] Witch Hunter - laisser Sile mourir dans le portail instable.
+[ ] Focus - reussir trois ripostes consecutives.
+[ ] Necromancer - revivre tous les souvenirs d'Auckes.
+[ ] Summer Solstice - s'incliner devant l'autel d'ete.
+[ ] Artful Dodger - couper une tentacule avec le piege de Kayran.
+[ ] Winter Solstice - s'incliner devant l'autel d'hiver.
+[ ] Kingmaker - aider Roche a sauver Anais.
+[ ] Master Alchemist - acquerir la competence Mutant.
+[ ] Miser - posseder 10 000 orens.
+[ ] Reasons of State - empecher Roche de tuer Henselt.
+[ ] Poker! - obtenir un cinq d'une sorte au poker aux des.
+[ ] Trollslayer - tuer tous les trolls de quete.
+[ ] Madman - terminer le jeu en difficulte Insane.
+
+VERIFICATION FINALE
+
+Succes Steam : 52 / 52
+Routes : Roche + Iorveth
+Difficulte : Insane terminee
+Contrats Pest Control : 4 / 4
+Trolls epargnes : 3 / 3 sur la route Friend of Trolls
+Trolls tues : 3 / 3 sur la route Trollslayer
+Choix Sile : Sensitive Guy + Witch Hunter
+Choix dragon : Dragonheart + Being Witcher George
+Choix Letho : Old Friends + Avenger
+Niveau final requis : Guru valide avant la finale
+
+SOURCES DE VERIFICATION
+
+Steam - liste officielle des 52 succes :
+https://steamcommunity.com/stats/20920/achievements
+
+Page Steam du jeu :
+https://store.steampowered.com/app/20920/The_Witcher_2_Assassins_of_Kings_Enhanced_Edition/
+
+Manuel officiel des quetes CD PROJEKT RED :
+https://dlc-patcher.thewitcher.com/Bonus/Quest_Handbooks/The_Witcher_2_English_Quest_Handbook/The_Witcher_2_-_Guide_-_134x190.pdf
+
+Liste de succes et conditions de quetes :
+https://witcher-games.fandom.com/wiki/The_Witcher_2_achievements
+
+Contrats de nids et emplacements de progression :
+https://steamcommunity.com/sharedfiles/filedetails/?id=731591488
+
+Guide communautaire de recoupement des embranchements :
+https://steamcommunity.com/sharedfiles/filedetails/?id=2843431991&l=french
+
+FIN DU GUIDE
