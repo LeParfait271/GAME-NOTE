@@ -1,147 +1,1171 @@
 RESIDENT EVIL 5
 GUIDE CHRONOLOGIQUE 100 % STEAM - SANS SPOILER
 
-Version de travail : 10 aout 2026
+Version : 12 aout 2026
+Plateforme visee : Steam, AppID 21690
+Perimetre : campagne, collections, bonus Untold Stories et Versus
 
-Ce parcours couvre les 70 succes Steam de l'AppID 21690 : campagne 1-1 a
-6-3, tresors, emblemes BSAA, armes, ameliorations, Mercenaries Reunion,
-Lost in Nightmares, Desperate Escape, Versus et les bonus Untold Stories.
-Certains modes sont plus simples en cooperation ; controle le service Steam
-et le mode Remote Play si tu vises les succes de Versus.
+PROMESSE DE LA FICHE
 
-OBJECTIF
+Cette fiche est un parcours de nettoyage complet, pas un resume de l'histoire.
+Elle donne l'ordre de jeu, les points de non-retour pratiques, les emplacements
+des 30 emblemes BSAA, les 50 types de tresors, les armes, les ameliorations,
+les figurines, les costumes, les records et les 70 succes Steam.
 
-[ ] 70/70 succes Steam.
-[ ] Campagne complete, tous les tresors, emblemes et armes.
-[ ] Toutes les ameliorations, costumes, figurines et records.
-[ ] Lost in Nightmares, Desperate Escape, Mercenaries Reunion et Versus.
-[ ] Easy/Normal, Veteran et Professional.
+Les noms de chapitres, de zones, d'ennemis et de succes sont conserves comme
+reperes techniques. Aucun retournement, mort, identite, fin ou consequence de
+scenario n'est explique. Si un succes exige de viser une cible precise, seul
+le geste necessaire est indique.
 
-GARDE-FOUS ABSOLUS
+OBJECTIF 100 %
 
-- Premier parcours en Normal avec un partenaire IA ou humain. Ramasse chaque
-  tresor, embleme BSAA, oeuf et objet de crafting avant la sortie de la zone.
-- Le partenaire peut jeter ou consommer une ressource. Donne-lui uniquement
-  les objets necessaires et garde les tresors dans le coffre entre les
-  chapitres.
-- Fais une sauvegarde avant chaque chapitre et avant chaque gros combat. Le
-  classement, le temps et les munitions servent aux runs de difficulte, pas
-  au premier nettoyage.
-- Les succes de Versus et certains records de cooperation dependent d'un
-  partenaire ou d'un service encore accessible. Le guide les marque comme
-  dependance externe, sans les confondre avec les missions solo.
-- Aucun passage ne revele une mort, une identite, une fin ou un retournement.
+- 70/70 succes Steam.
+- Campagne 1-1 a 6-3 en Normal, avec les collections nettoyees.
+- 30/30 emblemes BSAA et 50/50 types de tresors.
+- Les 25 armes de la collection, toutes les ameliorations compatibles et les
+  munitions infinies utiles aux runs de difficulte.
+- Les 8 costumes alternatifs, les 46 figurines et tous les bonus achetables.
+- Veteran et Professional sur les 16 chapitres.
+- Lost in Nightmares et Desperate Escape, avec leurs rangs et objectifs.
+- Mercenaries et Mercenaries Reunion pour le 100 % du contenu, meme si ces
+  modes n'ajoutent pas de succes Steam propres.
+- Versus et ses 10 succes, avec la dependance online clairement signalee.
 
 MISSABLES ET DEPENDANCES
 
-- 30 emblemes BSAA, tresors, oeufs, figurines, armes, niveaux, costumes,
-  chapitres DLC et objectifs de score. Les emblemes deja detruits restent
-  valides sur le profil, mais coche-les par chapitre.
+- Les emblemes et les tresors ne disparaissent pas du profil une fois ramasses,
+  mais plusieurs points de zone deviennent inaccessibles apres une transition.
+  Utilise le tableau du chapitre avant chaque porte de sortie.
+- Heart of Africa, certains tresors de 5-3, les objets de la cage de 6-1 et
+  les Score Stars du DLC doivent etre pris avant la sequence qui ferme la zone.
+- A Friend in Need, Lifeguard, Who Do You Trust?, The Works, Masters of
+  Removing et les trois Agitator de Desperate Escape sont des conditions
+  manquables pendant une run ; le chapitre select est la solution de secours.
+- Les succes de Versus, les rangs et la disponibilite du matchmaking sont des
+  dependances externes. Ne les compte comme valides qu'apres confirmation dans
+  Steam.
 
-ORDRE DE PARTIE
+COMMENT UTILISER LA FICHE
 
-1. Campagne 1-1 a 6-3 en Normal avec collecte.
-2. Nettoyage des tresors, armes, figurines, costumes et records.
-3. Veteran puis Professional.
-4. Lost in Nightmares, Desperate Escape, Mercenaries Reunion.
-5. Versus et succes de cooperation selon la disponibilite du service.
+- Run 1 : joue en Normal et suis les chapitres ci-dessous dans l'ordre.
+- Dans chaque chapitre, fais d'abord les objets de zone, puis les actions de
+  succes, puis la sortie. Un objet ramasse peut etre vendu plus tard ; il
+  restera inscrit dans le catalogue des tresors.
+- Le compteur des emblemes se verifie dans Bonus. Le catalogue des tresors
+  doit contenir 50 types differents, pas 50 exemplaires physiques.
+- Les recettes, armes et figurines sont conservees entre les chapitres. Ne
+  revends pas une arme avant d'avoir verifie Stockpile et Take It to the Max.
+- Le chapitre select permet de rejouer une section. Pour une collection
+  manquante, relance le chapitre avec le bon point de depart au lieu de refaire
+  toute la campagne.
 
-CHAPITRES 1-1 A 1-2 - VILLE ET INSTALLATIONS
+ORDRE RECOMMANDE SANS PERDRE DE TEMPS
 
-- Fouille les ruelles, maisons et postes de garde. Ramasse les premiers
-  tresors et note l'embleme BSAA de chaque section.
-- Fais une explosion de tonneau, une attaque physique, un headshot et une
-  elimination d'un ennemi au couteau. Les petites zones sont ideales pour
-  les succes techniques.
-- Au premier marchand, garde les oeufs et les composants. Un oeuf pourri et
-  un oeuf d'or ont des utilisations de succes distinctes.
-- Termine les chapitres avec une sauvegarde et verifie la grille des emblemes.
+1. Campagne 1-1 a 6-3 en Normal : objets, emblemes, tresors, oeufs et armes.
+2. Nettoyage des armes, ameliorations, costumes, figurines et succes de
+   combat avec le chapitre select.
+3. Mercenaries puis Mercenaries Reunion pour les points et les personnages.
+4. Lost in Nightmares : Normal, S, Professional et 18 Score Stars.
+5. Desperate Escape : 150 eliminations, trois Agitator, S puis Professional.
+6. Veteran sur les 16 chapitres.
+7. Professional sur les 16 chapitres.
+8. Versus, uniquement quand un partenaire et le service Steam sont disponibles.
 
-CHAPITRES 2-1 A 2-3 - ROUTES ET MARAIS
+GARDE-FOUS AVANT DE COMMENCER
 
-- Avant le bateau et les vehicules, fouille les maisons, docks et ruines.
-  Les tresors en hauteur sont visibles depuis les passerelles.
-- Utilise les barils, les bidons et les attaques physiques pour les compteurs.
-  Ne depense pas les munitions de magnum sur les ennemis ordinaires.
-- Les sections de conduite se jouent en visee calme : detruis les menaces
-  et ramasse les tresors apres la sequence si le chemin reste ouvert.
+- Les succes de difficulte se valident chapitre par chapitre. Termine les
+  16 chapitres sur la meme difficulte pour obtenir le palier correspondant.
+- Professional se debloque apres Veteran. Garde une arme puissante, un soin
+  et un plan de secours dans chaque run ; ne poursuis pas les records pendant
+  le premier nettoyage.
+- Le partenaire IA peut consommer ou jeter des objets. Donne-lui seulement
+  ce qui est necessaire et place les tresors dans l'inventaire commun avant
+  les transitions.
+- Les etats HELP et DYING sont deux compteurs differents pour A Friend in Need
+  et Lifeguard. Fais les deux avec un partenaire IA sur une faible difficulte.
+- Pour Who Do You Trust?, les actions de soin et de remerciement doivent etre
+  faites avec le partenaire IA ; cette methode est plus fiable en solo.
+- Pour les succes de Versus, les victoires et eliminations doivent etre faites
+  contre de vrais joueurs. Les matchs prives organises sont la methode la plus
+  courte, mais la disponibilite du service et d'un partenaire est externe.
+- Ne quitte pas une section avant d'avoir franchi le checkpoint ou termine la
+  sequence. Le jeu ne propose pas une sauvegarde manuelle libre a chaque pas.
 
-CHAPITRES 3-1 A 3-3 - MARAIS ET RUINES
+SUCCES A PREPARER PENDANT LA CAMPAGNE
 
-- Explore chaque ile, cabane et autel avant de lever les portes. Le chapitre
-  contient des tresors qui demandent d'utiliser le bateau plusieurs fois.
-- Recupere les emblemes BSAA depuis les points de vue, les toits et les
-  embarcaderes. Utilise une lunette si l'embleme est trop loin.
-- Ameliore une arme de poing, un fusil, une mitrailleuse et un fusil a pompe.
-  Garde une arme de chaque famille dans le coffre.
+- Exploding Heads : 20 headshots. Il tombera naturellement ; ne gaspille pas
+  une balle si une melee est plus sure.
+- Get Physical : 20 eliminations avec une attaque physique. Tire dans le bras
+  ou la jambe, attends l'etourdissement, puis utilise la commande de melee.
+- A Cut Above : cinq eliminations au couteau. Fais-les sur des ennemis isoles.
+- Fireworks : tire un cocktail Molotov, un baton de dynamite ou une grenade
+  avant son impact.
+- Meat Shower : tue trois Majini avec une seule grenade ou mine de proximite.
+- Baptism by Fire : attire trois Majini autour d'un bidon ou d'un reservoir
+  explosif et declenche l'explosion.
+- Stop, Drop, & Roll : enflamme trois Majini avec des bidons d'huile dans la
+  meme zone. Le chapitre 1-1 est le plus simple pour preparer l'essai.
+- Go into the Light : une grenade flash doit tuer deux ennemis a la fois ;
+  les ennemis parasites sont la cible la plus fiable.
+- Drive By : dans 2-1, vise le conducteur du camion blinde. Ne detruis pas le
+  vehicule uniquement avec les barils si tu veux valider ce succes.
+- Ride the Lightning : attire un Majini sous le transformateur de 1-1, puis
+  tire sur le boitier quand il est dans la zone de l'arc electrique.
+- Lead Aspirin : saute depuis un rebord et realise un headshot pendant la
+  phase aerienne. Les ennemis a arbalete de 2-1 sont un bon endroit.
+- Be the Knife : leve le couteau face a un carreau d'arbalete et pare-le au
+  dernier moment ; les premiers Majini a arbalete permettent plusieurs essais.
+- The Works : etourdis un ennemi, puis enchaine la sequence melee maximale
+  avec le partenaire. La zone de 2-1 apres le camion laisse le temps d'aligner
+  le combo ; retire l'arme du partenaire pour eviter une elimination parasite.
+- Cattle Prod : achete la matraque electrique apres 2-3 et elimine 30 ennemis
+  avec elle. Rejoue une zone remplie en Amateur si le compteur est court.
+- Crowd Control : debloque le Gatling Gun en ameliorant completement le VZ61,
+  puis fais 30 eliminations avec cette arme.
+- Bull's-eye : debloque le Longbow en ameliorant completement le S75, puis fais
+  30 eliminations avec lui. Les zones ouvertes de 3-1 sont pratiques.
+- Egg Hunt : ramasse les quatre types d'oeuf : White, Brown, Gold et Rotten.
+  Les poules de 3-1 permettent de relancer rapidement le chapitre et de
+  patienter jusqu'aux apparitions rares.
+- Egg on Your Face : tue un Majini avec un Rotten Egg. Ne le lance pas sur une
+  poule ; garde-le pour un ennemi solide et expose-toi a courte distance.
+- A Friend in Need : sauve le partenaire dix fois quand HELP est affiche.
+  En solo, provoque l'etat sur une faible difficulte, puis utilise la commande
+  de relevage. Le compteur se cumule entre les chapitres.
+- Lifeguard : sauve le partenaire dix fois quand DYING est affiche. C'est un
+  etat plus critique : soigne immediatement et ne tente pas cette methode en
+  Professional.
+- Who Do You Trust? : en solo, laisse le partenaire IA te soigner, puis utilise
+  tout de suite Partner Action > Thanks. Repete la sequence jusqu'au succes,
+  generalement huit a dix soins/remerciements.
+- Masters of Removing : dans la deuxieme rencontre de 5-3, realise la sequence
+  a deux au moment ou la cible est encore debout : le partenaire immobilise et
+  l'autre retire le dispositif. Si la cible est deja au sol, la condition peut
+  ne pas compter ; rejoue la section.
+- Heart Stopper : dans 5-1, mets un Licker sur le dos avec le fusil a pompe,
+  puis utilise l'action de couteau sur le coeur quand le prompt apparait.
+- Bad Blood : pendant la premiere rencontre de 5-3, inflige suffisamment de
+  degats avant la limite de temps. Reste dans le dos de la cible, utilise une
+  arme forte, puis recommence si elle se retourne. Le succes doit apparaitre
+  avant la fin de la sequence.
 
-CHAPITRES 4-1 A 4-2 - GROTTES ET TEMPLES
+RUN 1 — CAMPAGNE CHRONOLOGIQUE
 
-- Fais les puzzles de lumiere et les ascenseurs en fouillant les salles
-  laterales avant d'ouvrir la derniere porte.
-- Les emblemes sont souvent places derriere une grille, au-dessus d'un
-  chemin ou dans une salle d'ennemis. Coche le numero apres destruction.
-- Termine les tresors et les documents, puis conserve les pierres combinees
-  pour les ventes qui donnent le plus d'argent.
+CHAPITRE 1-1 — CIVILIAN CHECKPOINT
 
-CHAPITRES 5-1 A 5-3 - LABORATOIRES
+ROUTE SANS SPOILER
 
-- Le partenaire possede des actions obligatoires : garde-lui une arme de
-  secours et un soin, mais ne lui donne pas tes grenades rares.
-- Fouille les laboratoires, cages, ordinateurs et salles de controle. Les
-  emblemes BSAA se voient mieux apres avoir nettoye les ennemis.
-- Termine les objectifs de tir, de degats et d'esquive. Fais une sauvegarde
-  avant les combats de boss pour les records de difficulte.
+- Fouille la rue de depart, la premiere maison et les pieces laterales avant
+  de traverser la place. Casse les caisses apres avoir nettoye les angles.
+- Pour les compteurs, fais ici une melee, un headshot et une elimination au
+  couteau. Les groupes autour des barils servent aussi a Meat Shower et
+  Baptism by Fire.
+- Dans la zone du transformateur, attire un Majini sous les cables et tente
+  Ride the Lightning. Si l'essai rate, laisse ce succes pour un chapitre
+  select : il ne depend pas de la fin du niveau.
+- Dans la zone d'embuscade, utilise un bidon d'huile pour Stop, Drop, & Roll.
+  Le tir doit enflammer trois ennemis en une seule activation.
+- Termine la section sans vendre les objets recupérés. Le classement n'est pas
+  la priorite de cette premiere run.
 
-CHAPITRES 6-1 A 6-3 - FIN DE CAMPAGNE
+TRESORS ET OBJETS
 
-- Ramasse les derniers tresors et emblemes avant l'embarquement. Un objet
-  laisse dans une caisse peut disparaitre a la transition.
-- Termine la campagne en Normal, attends les resultats et garde la sauvegarde.
-  Les chapitres se rejouent ensuite pour les rangs et le nettoyage.
+- Gold Ring : apres le combat contre le gros Majini de la zone de depart,
+  inspecte le corps ou le drop avant de quitter la zone.
+- Topaz (Marquise) : dans la premiere zone urbaine apres la fenetre, fouille
+  la maison et le dernier ennemi de la petite embuscade ; le tresor apparait
+  au sol apres l'elimination.
+- Oeufs : inspecte les poules et ramasse tout oeuf visible. Le type Rotten est
+  rare ; ne depense pas un exemplaire tant que Egg on Your Face n'est pas fait.
 
-COLLECTIONS ET UPGRADES
+SUCCES ET VERIFICATION
 
-- 30 emblemes BSAA : un compteur par chapitre et une verification finale dans
-  le menu Bonus. Rejoue une section courte si le total reste a 29.
-- Tresors : ouvre chaque coffre, abat les nids, fouille les corps et inspecte
-  les points de vue. Les tresors combines sont a conserver jusqu'au bilan.
-- Armes : achete les familles, installe chaque amelioration et atteins le
-  niveau maximal. Les armes bonus et munitions infinies servent aux runs de
-  difficulte apres validation de la collection.
-- Figurines : les emblemes et les rangs de chapitre donnent les points
-  necessaires. Achete les figurines dans le menu bonus et verifie la galerie.
+- Completed Chapter 1-1 tombe a la fin du chapitre.
+- Completed Chapter 1-2 est le prochain jalon ; ne le cherche pas ici.
+- Exploding Heads et A Cut Above peuvent etre termines naturellement.
+- Verifie que Gold Ring et Topaz (Marquise) apparaissent dans le catalogue.
 
-DIFFICULTES ET DLC
+CHAPITRE 1-2 — PUBLIC ASSEMBLY
 
-- Veteran : utilise les armes ameliorees et les munitions infinies seulement
-  apres la run de collecte. Le classement est lie a chaque chapitre.
-- Professional : joue avec un partenaire qui connait la route. Sauvegarde
-  au debut de chaque chapitre et utilise les attaques physiques pour economiser
-  les munitions.
-- Lost in Nightmares : fais la campagne, les puzzles, les objets et les
-  scores. Le mode classique et le combat d'ascenseur ont leurs propres
-  records.
-- Desperate Escape : protege le compteur de munitions, explore les petites
-  salles et vise les scores de combo en seconde run.
-- Mercenaries Reunion : debloque les personnages et vise les rangs S/SS avec
-  une route de combo. Le score est plus simple a deux.
-- Versus : controle que les serveurs et la recherche de partie fonctionnent.
-  Si l'activite est indisponible, note la dependance externe au lieu de
-  promettre un 100 % local garanti.
+ROUTE SANS SPOILER
 
-CHECKLIST STEAM FINALE - 70/70
+- Parcours les maisons du quartier avant la porte du partenaire. Monte sur les
+  balcons et regarde sous les citernes : plusieurs objets sont hors de l'axe.
+- Dans le batiment de l'Uroboros, place le partenaire a distance, ouvre le
+  chemin du four et fouille la zone avant l'ascenseur.
+- Utilise une grenade flash sur deux ennemis parasites pour Go into the Light.
+  Tire aussi un projectile ennemi pour Fireworks si le succes manque.
 
-[ ] Campagne 1-1 a 6-3.
-[ ] Tresors, 30/30 emblemes BSAA, oeufs et armes.
-[ ] Toutes les ameliorations, costumes, figurines et records.
-[ ] Veteran et Professional.
-[ ] Lost in Nightmares et Desperate Escape.
-[ ] Mercenaries Reunion et Versus.
-[ ] Succes cooperation/online verifies selon le service.
-[ ] Verification finale du profil Steam : 70/70.
+EMBLEMES BSAA 1 A 3
+
+- Embleme 1 : dans la premiere ruelle, monte sur le balcon de la maison et
+  vise le mur/balcon oppose au-dessus de la limite de la cour.
+- Embleme 2 : dans la zone de la citerne, regarde sous le reservoir et vers le
+  batiment de l'equipe Alpha ; une lunette facilite le tir.
+- Embleme 3 : apres le four, avant l'ascenseur, longe la grille metallique et
+  vise le mur sur la droite derriere la barriere.
+
+TRESORS ET ARMES
+
+- Antique Clock : dans le batiment du cote sud, monte au balcon et ouvre le
+  coffre avant la porte qui demande le partenaire.
+- Ivory Relief : le drop de la femme blonde infectee est un tresor ; ramasse-le
+  apres la sequence et avant la sortie.
+- M92F : arme de depart. Ne vends pas le pistolet avant d'avoir commence ses
+  ameliorations.
+- VZ61 : dans la caisse de la zone de depart/entrepot. Il devient necessaire
+  pour le Gatling Gun.
+- Ithaca M37 : dans la maison de 1-2. Ramasse-le meme si tu preferes le M92F.
+
+SUCCES ET VERIFICATION
+
+- Completed Chapter 1-2 tombe a la fin.
+- Go into the Light : recommence la section avec une grenade flash si le groupe
+  n'etait pas assez rapproche.
+- Fireworks, Meat Shower et Get Physical sont cumulables avec le chapitre 2-1.
+- Verifie les emblemes 1/30 a 3/30 et les deux tresors du chapitre.
+
+CHAPITRE 2-1 — STORAGE FACILITY / SHANTY TOWN
+
+ROUTE SANS SPOILER
+
+- Dans l'entrepot de depart, ouvre les angles hauts et les petits bureaux avant
+  de franchir la porte des docks. Le fusil de precision aide pour les objets
+  visibles au loin.
+- Au port, fais les maisons, les toits et la cabane verte avant la porte de
+  sortie. Apres le saut assiste, tourne-toi : la corniche de depart reste
+  accessible un court moment.
+- Sur le pont, vise le conducteur du camion blinde pour Drive By. Si tu detruis
+  d'abord le camion, rejoue le checkpoint du chapitre.
+- Apres le camion, utilise l'espace pour The Works et les attaques physiques.
+  Les barils, bidons et ennemis groupes conviennent a Meat Shower.
+- Dans les ruines, avance apres avoir inspecte les caisses ; garde une grenade
+  pour les trois ennemis reunis devant un baril.
+
+EMBLEMES BSAA 4 A 8
+
+- Embleme 4 : dans le hall de stockage initial, vise le mur sud depuis le
+  niveau bas, entre les rayonnages.
+- Embleme 5 : apres le pont, retourne vers l'entree des egouts et vise le
+  support du pont depuis la berge.
+- Embleme 6 : aux docks, fais le tour de la petite cabane verte et vise son
+  mur arriere pres de la porte de la jetee fermee.
+- Embleme 7 : apres l'arrivee de Kirk, monte sur le batiment nord-ouest et
+  regarde par la fenetre vers la rue opposee.
+- Embleme 8 : dans Shanty Town, avant le saut assiste, retourne vers la zone
+  precedente et vise la corniche du toit au-dessus du chemin.
+
+TRESORS ET ARMES
+
+- Topaz (Pear) : dans l'eau du port, pres du bateau avant la porte du port.
+- Emerald (Square) : sur le toit du batiment contenant la Port Key.
+- Sapphire (Pear) : dans l'eau du port, autour du virage gauche.
+- Ruby (Marquise) : derriere l'etallage destructible ; lance une grenade sur
+  les fruits ou detruis le support pour faire tomber le tresor.
+- Jewel Bangle : drop du Big Man Majini ; fouille le corps avant la transition.
+- H&K MP5 : dans le batiment du port. Range-le meme si tu ne l'equipes pas.
+- S75 : fusil de precision de la zone portuaire. Il est necessaire pour le
+  Longbow et pour les emblemes eloignes.
+- Grenade Launcher : conserve-le quand tu le trouves en 4-1, mais prepare deja
+  les munitions flash et explosives dans le coffre.
+
+SUCCES ET VERIFICATION
+
+- Completed Chapter 2-1 tombe a la sortie.
+- Drive By : conducteur touche en premier, puis camion neutralise.
+- Meat Shower : grenade ou mine sur trois Majini en meme temps.
+- The Works : ennemi etourdi, puis chaine melee complete a deux.
+- Verifie les emblemes 4/30 a 8/30 et les cinq types de tresors.
+
+CHAPITRE 2-2 — TRAIN STATION / MINES
+
+ROUTE SANS SPOILER
+
+- A la gare, vide les wagons et inspecte les hauts de pylones avant de prendre
+  le chemin des mines. Un fusil de precision est recommande.
+- Dans les mines, explore les plateformes, les passerelles et les alcoves
+  avant la longue echelle. A chaque point de retour, regarde derriere toi.
+- Avant le dernier levier, suis la voie secondaire jusqu'au coffre. Dans la
+  salle de la grue, elimine les ennemis du haut avant de pousser le chariot.
+- Pour Be the Knife, utilise un Majini a arbalete sur une passerelle degagee.
+  Pour Lead Aspirin, saute d'un rebord et vise la tete pendant le saut.
+
+EMBLEMES BSAA 9 A 11
+
+- Embleme 9 : a la gare, vise le sommet du pylone ouest depuis la voie.
+- Embleme 10 : dans la zone de mine avec cascade, regarde tres haut a droite,
+  dans la chute d'eau.
+- Embleme 11 : au sommet de la longue echelle, retourne-toi et vise au loin
+  vers le batiment industriel ; un fusil de precision est presque obligatoire.
+
+TRESORS ET OBJETS
+
+- Jewel Beetle : a la gare, longe la cloture est et casse les planches/caisses
+  pour atteindre le tresor.
+- Ruby (Pear) : dans la mine, inspecte le toit et la torche apres le premier
+  groupe ; plusieurs drops existent, mais cette zone est la plus simple.
+- Ruby (Square) : tire le tresor pose sur l'appareil central, puis recupere-le
+  sur la passerelle.
+- Diamond (Oval) : avant la manivelle de sortie, quitte la voie et suis le
+  mur jusqu'au coffre cache.
+- Diamond (Brilliant) : dans la partie exterieure, pres du coffre/vehicule
+  rouille, inspecte la malle a cote du batiment.
+- Diamond (Pear) : a l'exterieur de la mine, grimpe au sommet de la premiere
+  grande echelle et regarde la plateforme haute.
+- Diamond (Square) : au-dessus de l'echelle du saut assiste, monte dans la
+  salle haute avant d'activer le passage.
+- Proximity Bomb : premiere rencontre dans les mines ; ramasse-la et reserve
+  une utilisation pour Meat Shower si besoin.
+- Dragunov SVD : dans la mine, derriere une porte/alcove laterale. Il est utile
+  pour les emblemes 10 et 11.
+
+SUCCES ET VERIFICATION
+
+- Completed Chapter 2-2 tombe a la sortie.
+- Be the Knife : carreau pare au couteau, pas simplement esquive.
+- Lead Aspirin : headshot pendant un saut.
+- Verifie les emblemes 9/30 a 11/30 et les sept types de tresors.
+
+CHAPITRE 2-3 — SAVANNAH
+
+ROUTE SANS SPOILER
+
+- C'est une section de conduite. Reste centre sur les menaces a l'avant et
+  utilise les bordures comme repere pour eviter de perdre du temps.
+- Nettoie les ennemis et les objets visibles avant la sequence finale. Il n'y
+  a pas d'embleme BSAA ni de type de tresor unique a rater ici.
+- L'action de melee est disponible seulement dans les fenetres prevues ; ne
+  redemarre pas le chapitre pour un compteur de combat si la run est deja sure.
+
+SUCCES ET VERIFICATION
+
+- Completed Chapter 2-3 tombe a la fin.
+- Cattle Prod se prepare apres le deblocage de la matraque au magasin.
+- Aucun embleme BSAA a ajouter a ce chapitre.
+
+CHAPITRE 3-1 — MARSHLANDS
+
+ROUTE SANS SPOILER
+
+- Parcours d'abord les iles du sud et les cabanes, puis les iles nord-ouest et
+  centrale. Le bateau permet de revenir tant que les portes de l'autel ne
+  sont pas toutes activees.
+- Sur chaque ile, vide les poules, les coffres et les points de vue avant de
+  prendre une tablette. Note les emplacements dans l'ordre du bateau.
+- Garde une grenade flash pour Go into the Light et une arme de poing pour
+  les oiseaux/ennemis parasites. Ne depense pas les munitions rares sur les
+  groupes ordinaires.
+
+EMBLEMES BSAA 12 A 15
+
+- Embleme 12 : sur l'ile de depart, vise le poteau nord-ouest depuis l'eau.
+- Embleme 13 : sur l'ile des poules au nord-ouest, regarde sous le toit de la
+  hutte, derriere les planches.
+- Embleme 14 : sur l'ile centrale, place-toi au dock et vise sous la hutte.
+- Embleme 15 : apres la porte aux quatre tablettes, descends dans le marais,
+  retourne-toi sous la passerelle et vise le dessous du chemin.
+
+TRESORS, ARMES ET OEUFS
+
+- Brown Beetle : sur l'arbre du premier dock, cote sud de l'ile de depart.
+- Silver Chalice : coffre dans la hutte de l'ile centrale aux poules. Une
+  variante se trouve sur la zone nord-est apres un saut assiste.
+- Silver Idol : coffre de l'ile nord-ouest, apres le saut assiste pres des
+  tablettes.
+- Emerald (Pear) : sur l'autel/la zone de crane du premier groupe de tablettes.
+- Ceremonial Mask : dans le tunnel de fin, avant la gondole.
+- Blue Enigma : drop du Giant Majini ; si le drop manque, il existe une autre
+  source lors du nettoyage de 4-1.
+- S&W M29 : dans le coffre de l'ile marais. Il ouvre la progression du M500.
+- Oeufs : cette ile est la meilleure zone pour obtenir White, Brown, Gold et
+  Rotten. Relance le chapitre si le type rare n'apparait pas.
+
+SUCCES ET VERIFICATION
+
+- Completed Chapter 3-1 tombe a la fin.
+- Egg Hunt : les quatre types doivent etre inscrits dans le menu des tresors.
+- Egg on Your Face : utilise le Rotten Egg sur un Majini, pas sur un animal.
+- Verifie les emblemes 12/30 a 15/30 et les six types de tresors de la zone.
+
+CHAPITRE 3-2 — EXECUTION GROUND
+
+ROUTE SANS SPOILER
+
+- Dans les tentes Tricell, fouille les allees et l'espace entre les toiles avant
+  de lancer le compte a rebours. Les actions du partenaire ouvrent des chemins
+  secondaires, donc ne coure pas directement au bouton.
+- Dans le port, explore la cabine au bout de la jetee avant de remonter. Les
+  ennemis a la tronconneuse peuvent lacher un objet rare : reste a distance.
+- Utilise la matraque sur les ennemis simples si Cattle Prod est en retard.
+
+EMBLEMES BSAA 16 ET 17
+
+- Embleme 16 : derriere/entre les tentes Tricell, regarde le mur au-dessus des
+  caisses apres avoir nettoye la cour.
+- Embleme 17 : dans le port a compte a rebours, entre dans la cabine au bout
+  de la jetee et vise le mur interieur.
+
+TRESORS ET ARMES
+
+- Sapphire (Square) : dans la grotte/zone de torche, inspecte les recoins avant
+  la derniere porte.
+- Brown Beetle : une seconde source est disponible pres du camp Tricell et des
+  barils de petrole ; cette repetition n'ajoute pas un nouveau type.
+- Venom Fang : drop d'un Majini a la tronconneuse dans la raffinerie. Il peut
+  y en avoir deux, mais un seul suffit au catalogue.
+- H&K P8 : achetable au magasin apres 3-1. Achete-le pour Stockpile.
+- Stun Rod : achetable apres 2-3. Equipe-le maintenant si le compteur manque.
+
+SUCCES ET VERIFICATION
+
+- Completed Chapter 3-2 tombe a la fin.
+- Cattle Prod : total de 30 eliminations a la matraque.
+- Verifie les emblemes 16/30 et 17/30 ; le Brown Beetle peut deja etre connu.
+
+CHAPITRE 3-3 — OIL FIELD / DRILLING FACILITIES
+
+ROUTE SANS SPOILER
+
+- Dans chaque barge, fouille le poste de pilotage, les containers et la salle
+  laterale avant d'actionner le levier. Le bateau avance par petites sections.
+- A la premiere porte, vise l'embleme depuis la plateforme avant de continuer.
+- Le M3 se trouve dans une caisse de la section ; garde-le pour Stockpile et
+  ne le jette pas en fin de chapitre.
+
+EMBLEME BSAA 18
+
+- Embleme 18 : au sommet/au milieu de la premiere grande porte, vise-le depuis
+  la plateforme apres le passage de la barge ou depuis la zone suivante.
+
+TRESORS ET ARMES
+
+- Emerald (Marquise) : dans un tiroir au sommet de la passerelle, avant de
+  quitter la zone de pilotage.
+- M3 : dans la zone des installations, derriere une caisse/porte laterale.
+
+SUCCES ET VERIFICATION
+
+- Completed Chapter 3-3 tombe a la fin.
+- Verifie l'embleme 18/30 et Emerald (Marquise).
+- H&K P8 et M3 doivent apparaitre dans l'inventaire avant de poursuivre.
+
+CHAPITRE 4-1 — CAVES / ANCIENT VILLAGE / LABYRINTH
+
+ROUTE SANS SPOILER
+
+- Au debut, suis le chemin de la grotte et inspecte le cul-de-sac avant la
+  porte des ruines. Utilise le bateau/les passerelles pour regarder en bas.
+- Dans le village antique, apres la chute du piege, ouvre les trois coffres
+  de la zone avant de remettre en route le chemin principal.
+- Dans le labyrinthe, note la couleur des statues et inspecte chaque balcon.
+  Ne te precipite pas vers la sortie : plusieurs tresors sont au-dessus ou
+  derriere les statues.
+- Le Grenade Launcher se trouve dans ce chapitre. Garde-le dans la collection
+  et reserve ses grenades speciales aux succes de groupe.
+
+EMBLEMES BSAA 19 A 21
+
+- Embleme 19 : apres la petite echelle et le pont, regarde dans le ravin a
+  droite, en contrebas du chemin.
+- Embleme 20 : dans le village antique, vise la base de la structure a lentille
+  depuis une position sure, avec le fusil de precision.
+- Embleme 21 : dans le labyrinthe, vise au-dessus de la statue verte/jade.
+
+TRESORS ET ARMES
+
+- Topaz (Trilliant) : dans le cul-de-sac de la grotte, avant la premiere
+  echelle prevue par la route.
+- Topaz (Square) : au-dessus de la premiere arche/porte en ruine.
+- Ruby (Trilliant), Sapphire (Trilliant) et Emerald (Trilliant) : apres le
+  piege du sarcophage vide, ouvre les trois coffres sud, est et ouest.
+- Gold Idol : coffre sud-ouest du labyrinthe, en utilisant la statue verte.
+- Ruby (Oval) : apres la chaine de statues rouges, inspecte la zone de drop.
+- Soul Gem : elimine Popokarimu au lieu de simplement fuir ; le tresor tombe
+  a la fin de la confrontation.
+- Blue Enigma : seconde possibilite si le drop de 3-1 a ete rate.
+- Gold Idol et les gemmes peuvent etre vendus apres verification du catalogue.
+- Grenade Launcher : coffre de la zone des grottes/ruines ; indispensable pour
+  certaines strategies mais pas pour un succes de collection seul.
+
+SUCCES ET VERIFICATION
+
+- Completed Chapter 4-1 tombe a la fin.
+- Heart Stopper n'est pas ici : reserve-le pour le Licker de 5-1.
+- Verifie les emblemes 19/30 a 21/30 et les huit types de tresors ci-dessus.
+
+CHAPITRE 4-2 — WORSHIP AREA / LASER PUZZLES
+
+ROUTE SANS SPOILER
+
+- Avant chaque rayon, fouille la salle laterale et les alcoves au-dessus des
+  portes. Le puzzle est plus simple si tu elimines d'abord les ennemis et
+  reperes les interrupteurs.
+- Dans la salle du dernier puzzle, ouvre la salle nord avant d'aligner le rayon
+  final. Apres l'insertion des trois emblemes, regarde au-dessus de la porte de
+  sortie avant de quitter la zone.
+
+EMBLEME BSAA 22
+
+- Embleme 22 : au niveau bas du puzzle laser, dans la salle nord, au-dessus de
+  la porte. Vise-le avant de remettre le rayon en mouvement.
+
+TRESORS
+
+- Gold Beetle : salle au tresor ouest du puzzle laser ; explore le chemin
+  lateral avant le retour vers le rayon principal.
+- Diamond (Trilliant) : au-dessus de la porte de sortie apres l'insertion des
+  trois emblemes. Retourne la camera vers l'arche et tire avant de partir.
+
+SUCCES ET VERIFICATION
+
+- Completed Chapter 4-2 tombe a la sortie.
+- Verifie l'embleme 22/30, Gold Beetle et Diamond (Trilliant).
+
+CHAPITRE 5-1 — UNDERGROUND GARDEN
+
+ROUTE SANS SPOILER
+
+- Des le depart, fouille le jardin de chaque cote de la passerelle. Les Lickers
+  peuvent etre contournes, mais elimine-en assez pour le drop Lion Heart et
+  l'action de Heart Stopper.
+- Pour Heart Stopper, utilise un fusil a pompe pour mettre un Licker sur le
+  dos ; approche-toi seulement quand le prompt de couteau apparait.
+- Pendant le combat de la zone, utilise une grenade flash si Go into the Light
+  n'est pas encore valide.
+
+EMBLEME BSAA 23
+
+- Embleme 23 : dans le jardin de depart, cote est, sous la catwalk/passerelle.
+  Place-toi au bord de l'allee et vise sous la structure.
+
+TRESORS ET ARMES
+
+- Lion Heart : drop aleatoire d'un Licker. Elimine plusieurs Lickers et
+  ramasse le drop ; 5-2 est une alternative pour le farm.
+- SIG P226 : achetable au magasin apres ce chapitre. Il compte pour Stockpile.
+- Le fusil a pompe deja collecte sert a Heart Stopper ; ne le revends pas.
+
+SUCCES ET VERIFICATION
+
+- Completed Chapter 5-1 tombe a la fin.
+- Heart Stopper : le prompt de couteau doit viser le coeur, pas une elimination
+  de Licker avec une balle.
+- Verifie l'embleme 23/30 et Lion Heart.
+
+CHAPITRE 5-2 — EXPERIMENTAL FACILITY / CONVEYORS
+
+ROUTE SANS SPOILER
+
+- Dans les laboratoires, fouille les bureaux et les caisses avant de lancer
+  les tapis roulants. Le chemin de retour reste ouvert jusqu'a l'objectif de
+  la section.
+- Sur le convoyeur, observe les corps et les caisses : certains objets se
+  recuperent en les laissant venir vers toi, d'autres en arretant le courant.
+- Apres les generateurs, elimine les Reapers a distance et inspecte leur drop.
+  Une mort provoquee par le vide peut faire perdre le tresor : attends que le
+  corps tombe sur une plateforme.
+- Utilise la matraque electrique sur les ennemis ordinaires si Cattle Prod n'est
+  pas fini. Ne l'utilise pas sur les Reapers.
+
+EMBLEME BSAA 24
+
+- Embleme 24 : apres les bouteilles de gaz explosives du convoyeur, vise le
+  fond du dumpster ouvert depuis le cote ; tire avant de faire repartir le
+  tapis.
+
+TRESORS ET ARMES
+
+- Dead Bride's Necklace : sur le tapis roulant avec les corps. Attends que le
+  corps correct arrive sur une zone accessible et ramasse le drop.
+- Power Stone : drop d'un Reaper apres le retablissement des generateurs.
+- SIG 556 : dans une caisse de l'installation, avant la sortie du chapitre.
+
+SUCCES ET VERIFICATION
+
+- Completed Chapter 5-2 tombe a la fin.
+- Verifie l'embleme 24/30, Dead Bride's Necklace et Power Stone.
+
+CHAPITRE 5-3 — UROBOROS RESEARCH FACILITY / CONTROL ROOM
+
+ROUTE SANS SPOILER
+
+- Dans la salle de recherche, inspecte le ventilateur, les passerelles et les
+  petits bureaux avant de lancer la sequence suivante. Une lunette est utile
+  pour les emblemes 25 a 27.
+- Dans la zone de l'ascenseur rotatif, arrete-toi au premier palier et fouille
+  le balcon. Apres le levier, regarde dans la cage de l'ascenseur avant de
+  descendre.
+- Dans la salle de controle, nettoie les ennemis avant d'abaisser le pont et
+  fouille les casiers. L'objet du casier n'apparait pas toujours sur la ligne
+  principale.
+- Avant le combat dans la salle des sarcophages, fais les tresors sur les
+  balcons et dans les coffres. Pendant le combat, certaines portes deviennent
+  inaccessibles si la sequence est terminee.
+
+EMBLEMES BSAA 25 A 27
+
+- Embleme 25 : apres la premiere sortie de la zone de boss, longe le grand
+  ventilateur et vise derriere ses pales.
+- Embleme 26 : dans l'ascenseur rotatif, au premier arret, descends sur le
+  balcon ou le Majini manipule le levier et vise le sol/bord oppose.
+- Embleme 27 : dans les ruines avant l'ascenseur, regarde dans le puits de
+  l'ascenseur et vise vers le bas depuis la passerelle.
+
+TRESORS
+
+- Sapphire (Marquise) : dans le coffre de la salle de securite apres le
+  combat de l'Uroboros, pres de l'echelle et du couloir ouest.
+- Royal Necklace : dans la salle de controle avec les ennemis au lance-roquettes.
+  Fouille le casier avant d'abaisser le pont.
+- Gold Chalice : dans le casier de la zone ou le pont est abaisse.
+- Sapphire (Oval) : dans le vase/pot de la salle des sarcophages, a droite
+  apres l'ouverture de la porte par la sequence de combat.
+- Emerald (Oval) : dans le sarcophage du couloir arriere ; utilise l'action
+  du partenaire pour l'ouvrir.
+- Topaz (Brilliant) : au-dessus du rocher/chemin dans la salle du pont avec
+  les Lickers, regarde la paroi haute en traversant.
+- Ruby (Brilliant) : au plafond/haut du passage avant la salle du pont.
+- Sapphire (Brilliant) : dans un sarcophage accessible avec le partenaire.
+- Emerald (Brilliant) : sur le balcon est pres du container Tricell ; ramasse
+  avant de terminer le combat de la zone.
+- Heart of Africa : dans la premiere zone de combat de 5-3, fais durer la
+  confrontation jusqu'au depart de la cible avant la fin du delai. Le tresor
+  apparait entre les escaliers ; ramasse-le avant de quitter la salle.
+- H&K PSG-1 : dans le laboratoire/armurerie du chapitre.
+- L. Hawk : dans le coffre de la zone des sarcophages ; il compte pour
+  Stockpile et ouvre la voie du S&W M500.
+
+SUCCES ET VERIFICATION
+
+- Completed Chapter 5-3 tombe a la fin.
+- Bad Blood : inflige les degats requis a la premiere rencontre de la zone
+  avant la limite de temps, en privilegiant les attaques dans le dos.
+- Masters of Removing : reussis l'action a deux quand la cible est encore
+  debout ; rejoue le checkpoint si le prompt disparait.
+- Verifie les emblemes 25/30 a 27/30 et les dix types de tresors.
+
+CHAPITRE 6-1 — SHIP DECK / CAGE
+
+ROUTE SANS SPOILER
+
+- Des le depart, grimpe toutes les echelles et nettoie les ennemis de la grue.
+  Certains drops ne sont accessibles qu'en tirant sur les ennemis en hauteur.
+- Dans la zone des containers, observe les ouvertures avant de sauver le
+  partenaire ; l'embleme est derriere une paroi et demande une grenade ou une
+  arme explosive.
+- Dans la salle de controle, inspecte le meuble derriere le projecteur et les
+  fleurs avant de lancer l'objectif. Une fois la porte franchie, le retour est
+  bloque.
+
+EMBLEMES BSAA 28 A 30
+
+- Embleme 28 : au sommet du mat radar, a l'extremite du pont ; utilise le fusil
+  de precision depuis la passerelle.
+- Embleme 29 : pendant la sequence de la cage, vise le container nord depuis
+  une position sure ; grenade, roquette ou tir explosif facilite l'angle.
+- Embleme 30 : dans la salle d'Excella, vise le meuble derriere le projecteur
+  et les fleurs sur le mur nord, derriere la vitre.
+
+TRESORS ET ARMES
+
+- Topaz (Oval) : au debut du chapitre, grimpe les echelles et elimine tous les
+  Majini de la grue ; l'un d'eux laisse tomber le tresor.
+- Dead Bride's Necklace : une autre source possible est un Majini au
+  lance-roquettes. Utilise-la seulement si le convoyeur de 5-2 a ete rate.
+- Jail Breaker : dans une caisse du pont/containers. Il compte pour Stockpile.
+
+SUCCES ET VERIFICATION
+
+- Completed Chapter 6-1 tombe a la fin.
+- Badge of Honor est valide des que l'embleme 30 est detruit ; verifie 30/30
+  dans Bonus avant d'abandonner la run de collection.
+- Verifie Topaz (Oval) : c'est le type le plus souvent oublie.
+
+CHAPITRE 6-2 — MAIN DECK
+
+ROUTE SANS SPOILER
+
+- Fouille les cabines et le pont avant chaque porte. Il n'y a pas d'embleme
+  BSAA unique a ce chapitre et aucun type de tresor necessaire a l'index des
+  50, mais les munitions et les soins servent aux derniers combats.
+- Les succes Lifeguard et A Friend in Need peuvent encore etre termines sur
+  cette section en faible difficulte, mais il est plus sur de les farmer au
+  debut de la campagne.
+- Termine le chapitre et conserve la sauvegarde de campagne pour la selection
+  de chapitre.
+
+SUCCES ET VERIFICATION
+
+- Completed Chapter 6-2 tombe a la fin.
+- Aucun embleme BSAA dans 6-2. Si le compteur n'est pas a 30/30, utilise la
+  liste par chapitre ci-dessus, pas une recherche au hasard.
+
+CHAPITRE 6-3 — BRIDGE DECK / VOLCANIC SECTION
+
+ROUTE SANS SPOILER
+
+- Avant la derniere sequence, fouille la salle de pont et les angles hauts.
+  Garde une arme de precision et plusieurs soins pour la progression finale.
+- Dans la zone volcanique, regarde le rocher distinct a droite et utilise le
+  tir puis le saut prevu par la plateforme pour recuperer le dernier type de
+  diamant.
+- Termine le chapitre en Normal. La selection de chapitre permet ensuite de
+  revenir pour les rangs, les difficultes et les succes specifiques.
+
+TRESOR FINAL
+
+- Diamond (Marquise) : dans la section volcanique finale, tire le rocher qui se
+  detache a droite, puis franchis la plateforme pour ramasser le tresor. Ne
+  lance pas la sequence de sortie avant d'avoir verifie l'inventaire.
+
+SUCCES ET VERIFICATION
+
+- Completed Chapter 6-3 tombe a la fin.
+- Tous les 30 emblemes BSAA doivent etre inscrits.
+- Les 50 types de tresors doivent etre presents avant de passer aux runs de
+  difficulte. Le catalogue est detaille plus bas pour un controle croise.
+
+INDEX COMPLET DES 50 TYPES DE TRESORS
+
+REGLE DE COMPTE
+
+L'objectif Steam compte 50 types differents. Certains types ont plusieurs
+sources physiques ; une seule acquisition suffit. Si un type manque, utilise
+la source recommandee ci-dessous et relance le chapitre avec la selection de
+chapitre. Les objets vendus restent valides dans le catalogue.
+
+15 TRESORS SPECIAUX
+
+01. Gold Ring — 1-1, drop de la grosse cible de la zone de depart.
+02. Antique Clock — 1-2, coffre du balcon de la maison sud.
+03. Dead Bride's Necklace — 5-2, convoyeur avec les corps.
+04. Royal Necklace — 5-3, casier de la salle de controle.
+05. Jewel Bangle — 2-1, drop du Big Man Majini.
+06. Venom Fang — 3-2, drop du Majini a la tronconneuse.
+07. Ivory Relief — 1-2, drop de la cible blonde infectee.
+08. Chalice (Silver) — 3-1, coffre de l'ile centrale aux poules.
+09. Chalice (Gold) — 5-3, casier de la zone du pont abaisse.
+10. Idol (Silver) — 3-1, coffre de l'ile nord-ouest.
+11. Idol (Gold) — 4-1, coffre sud-ouest du labyrinthe.
+12. Ceremonial Mask — 3-1, tunnel avant la gondole.
+13. Jewel Beetle — 2-2, gare, cloture est et planches.
+14. Brown Beetle — 3-1, arbre du premier dock sud.
+15. Gold Beetle — 4-2, salle au tresor ouest du puzzle laser.
+
+30 GEMMES — CINQ COULEURS, SIX TAILLES
+
+16. Topaz (Pear) — 2-1, eau du port pres du bateau.
+17. Topaz (Square) — 4-1, au-dessus de la premiere arche en ruine.
+18. Topaz (Oval) — 6-1, drop d'un Majini de la grue apres avoir grimpe.
+19. Topaz (Trilliant) — 4-1, cul-de-sac de la grotte.
+20. Topaz (Brilliant) — 5-3, paroi haute de la salle du pont et des Lickers.
+21. Topaz (Marquise) — 1-1, drop de l'embuscade de la premiere zone urbaine.
+22. Ruby (Pear) — 2-2, zone de mine avec torche/toit.
+23. Ruby (Square) — 2-2, appareil central de la mine.
+24. Ruby (Oval) — 4-1, zone de la chaine de statues rouges.
+25. Ruby (Trilliant) — 4-1, l'un des trois coffres apres le piege.
+26. Ruby (Brilliant) — 5-3, plafond du passage avant le pont.
+27. Ruby (Marquise) — 2-1, derriere l'etallage destructible du port.
+28. Sapphire (Pear) — 2-1, eau du port au virage gauche.
+29. Sapphire (Square) — 3-2, grotte/zone de torche.
+30. Sapphire (Oval) — 5-3, pot de la salle des sarcophages.
+31. Sapphire (Trilliant) — 4-1, l'un des trois coffres apres le piege.
+32. Sapphire (Brilliant) — 5-3, sarcophage accessible avec le partenaire.
+33. Sapphire (Marquise) — 5-3, coffre de la salle de securite ouest.
+34. Emerald (Pear) — 3-1, zone d'autel des premieres tablettes.
+35. Emerald (Square) — 2-1, toit du batiment de la Port Key.
+36. Emerald (Oval) — 5-3, sarcophage du couloir arriere.
+37. Emerald (Trilliant) — 4-1, l'un des trois coffres apres le piege.
+38. Emerald (Brilliant) — 5-3, balcon est pres du container Tricell.
+39. Emerald (Marquise) — 3-3, tiroir au sommet de la passerelle.
+40. Diamond (Pear) — 2-2, plateforme au sommet de la premiere grande echelle.
+41. Diamond (Square) — 2-2, salle au-dessus du saut assiste.
+42. Diamond (Oval) — 2-2, coffre du cul-de-sac avant la manivelle.
+43. Diamond (Trilliant) — 4-2, au-dessus de la porte de sortie.
+44. Diamond (Brilliant) — 2-2, coffre pres du vehicule rouille.
+45. Diamond (Marquise) — 6-3, rocher detachable de la zone volcanique.
+
+5 AUTRES TRESORS
+
+46. Blue Enigma — 3-1, drop du Giant Majini ; 4-1 est une solution de secours.
+47. Power Stone — 5-2, drop d'un Reaper apres les generateurs.
+48. Soul Gem — 4-1, drop de Popokarimu si la confrontation est terminee.
+49. Lion Heart — 5-1 ou 5-2, drop aleatoire des Lickers.
+50. Heart of Africa — 5-3, entre les escaliers apres la sequence prolongee.
+
+ARMES ET STOCKPILE
+
+OBJECTIF
+
+Pour Stockpile, possede simultanement toutes les armes disponibles. Pour Take
+It to the Max, maximise toutes les armes ameliorables. Les grenades et les
+objets jetables restent dans l'inventaire, mais ne sont pas des armes a
+ameliorer.
+
+ARMES A RAMASSER OU ACHETER
+
+- M92F — 1-1, arme de depart.
+- VZ61 — 1-1, caisse de la zone de depart.
+- Ithaca M37 — 1-2, maison du quartier.
+- H&K MP5 — 2-1, batiment du port.
+- S75 — 2-1, zone portuaire.
+- Proximity Bomb — 2-2, premiere zone de mine.
+- Dragunov SVD — 2-2, alcove de la mine.
+- Stun Rod — magasin apres 2-3.
+- S&W M29 — 3-1, coffre des marais.
+- M3 — 3-3, caisse des installations.
+- Grenade Launcher — 4-1, coffre des grottes/ruines.
+- Rocket Launcher — achat au magasin apres 3-1.
+- H&K P8 — achat apres 3-1.
+- SIG P226 — achat apres 5-1.
+- AK-74 — achat/collecte en 5-1.
+- SIG 556 — 5-2, caisse de l'installation.
+- H&K PSG-1 — 5-3, laboratoire/armurerie.
+- L. Hawk — 5-3, coffre de la zone des sarcophages.
+- Jail Breaker — 6-1, caisse du pont/containers.
+- Grenade — inventaire de base.
+- Incendiary Grenade — collecte dans la campagne.
+- Flash Grenade — collecte dans la campagne.
+- S&W M500 — apres amelioration complete du S&W M29.
+- M93R — apres amelioration complete du M92F.
+- Hydra — apres amelioration complete de l'Ithaca M37.
+
+ARMES BONUS A DEBLOQUER
+
+- Gatling Gun — VZ61 completement ameliore.
+- Longbow — S75 completement ameliore.
+- Samurai Edge, Beretta M92F, et armes de Versus : ne les compte pas a la
+  place de la liste principale ; elles se verifient dans le menu Bonus selon
+  la version du DLC. Stockpile exige la collection campagne du jeu Steam.
+
+ORDRE D'AMELIORATION ECONOMIQUE
+
+1. M92F : puissance, capacite, puis cadence/rechargement selon les points.
+2. VZ61 : complet pour debloquer Gatling Gun.
+3. S75 : complet pour debloquer Longbow.
+4. Ithaca M37 : complet pour debloquer Hydra.
+5. Une arme de poing, un fusil, une mitrailleuse et un fusil de precision a
+   fond pour les runs Veteran/Professional.
+6. Termine les autres armes ameliorables avant d'acheter les figurines.
+7. Place toutes les armes dans l'inventaire, puis quitte le menu pour laisser
+   Steam enregistrer Stockpile et Take It to the Max.
+
+FIGURINES, COSTUMES ET BONUS
+
+- Les 46 figurines se debloquent avec les chapitres, les emblemes BSAA et les
+  rangs. Achete-les toutes dans Bonus Features avec les points de jeu.
+- Les 8 costumes a acheter sont Chris Safari, Chris S.T.A.R.S., Chris Warrior,
+  Chris Heavy Metal, Sheva Clubbin', Sheva Tribal, Sheva Business et Sheva
+  Fairy Tale. Le succes All Dressed Up exige l'achat, pas seulement la
+  consultation de la galerie.
+- Pour les figurines, vise au minimum les rangs A/S sur les chapitres et
+  conserve des points. Les meilleures sessions de farm sont 4-1, 5-1 et 5-3,
+  une fois les armes ameliorees.
+- Les records et les figurines ne sont pas tous des succes Steam, mais ils
+  font partie du 100 % de la fiche.
+
+DIFFICULTES ET RANGS
+
+RUN NORMAL
+
+- Fais la campagne 1-1 a 6-3 une fois, avec les collections ci-dessus.
+- Nettoie ensuite les succes de combat avec une arme de farm et les munitions
+  infinies si elles sont deja debloquees.
+
+RUN VETERAN
+
+- Rejoue les 16 chapitres, chacun au moins une fois en Veteran. Tu peux les
+  lancer dans l'ordre depuis Chapter Select ; ne change pas la difficulte en
+  cours de chapitre.
+- Utilise les munitions infinies seulement apres avoir valide les succes qui
+  demandent une arme precise. Un partenaire humain reduit le risque de DYING.
+- Le succes Veteran apparait quand les 16 resultats sont enregistres.
+
+RUN PROFESSIONAL
+
+- Professional se debloque apres Veteran. Fais les 16 chapitres avec le meme
+  profil de difficulte et laisse le jeu enregistrer chaque resultat.
+- En solo, donne au partenaire IA une arme faible et des soins uniquement ;
+  en cooperation, partage les munitions et annonce les actions assistees.
+- Le premier hit peut mettre le partenaire en etat critique tres vite. Reste
+  a portee des releves et utilise les raccourcis de chapter select pour
+  reprendre un chapitre echoue.
+- Le succes War Hero apparait apres le dernier resultat Professional.
+
+LOST IN NIGHTMARES — PARCOURS COMPLET SANS SPOILER
+
+PERIMETRE
+
+- Cinq succes Steam : Must've Got Lost, It's Just a Bad Dream!, Night Terrors,
+  Wish Upon a Star et Kung Fu Fighting.
+- Le DLC suit une route compacte : hall et couloirs, objets de serrure,
+  piege, zone souterraine/prison, labyrinthe, bibliotheque et combat final.
+- Pour le 100 %, fais une run Normal de reperage, une run S avec les 18 Score
+  Stars et une run Professional. Les etoiles deja detruites restent comptees.
+
+ROUTE ET OBJETS
+
+- Hall principal : fouille sous les escaliers et les alcoves du plafond avant
+  de monter. Note les lanternes et les tableaux hors axe.
+- Etage du hall : inspecte le dessus de la porte d'entree, le lustre et le
+  couloir des cabinets avant d'ouvrir la chambre.
+- Salle a manger : regarde le mur sud-ouest, puis inspecte l'horloge. Un tir
+  sur son interieur fait apparaitre une Score Star.
+- Salle de bain et stockage : la star de la salle de bain est au-dessus de
+  l'urinoir ; celle du stockage est derriere la cage et le drap blanc.
+- Couloir du piege : vise le plafond avant d'actionner le levier. La star du
+  mur sud doit etre detruite avant que le plafond ne descende trop.
+- Prison : apres chaque echelle et chaque virage, regarde les cellules, les
+  etageres et les zones sous les cadavres. Plusieurs stars sont au sol ou
+  derriere les barreaux.
+- Labyrinthe : avance avec un seul partenaire en tete, note la couleur des
+  portes et reviens dans chaque branche avant le passage suivant.
+- Bibliotheque : apres le labyrinthe, monte, ramasse l'arme sur le corps et
+  vise le haut du couloir du fond avant la derniere porte.
+
+18 SCORE STARS — ORDRE CHRONOLOGIQUE
+
+1. Hall principal : sous l'escalier, derriere la lanterne du portail barre.
+2. Hall, etage : au-dessus des portes de l'entree principale.
+3. Hall, etage : derriere le lustre central.
+4. Couloir superieur : sur le cabinet a assiettes avant la chambre.
+5. Salle a manger : mur sud-ouest, a gauche de l'horloge.
+6. Salle a manger : a l'interieur de l'horloge, tire quand elle sonne.
+7. Salle de bain : au-dessus de l'urinoir.
+8. Stockage : dans la cage derriere le drap blanc, pres de la caisse.
+9. Couloir avant le piege : au plafond pres de la grille ; le levier peut
+   etre utilise avant le tir si l'angle est mauvais.
+10. Salle du piege : mur sud superieur, au-dessus du coffre mural ; tire avant
+    que le plafond ne bloque la ligne de vue.
+11. Prison : apres la descente de la corniche en bois, au-dessus des etageres.
+12. Prison : cinquieme cellule a droite, au sol sous le corps.
+13. Prison : apres le virage, mur haut au-dessus des cellules.
+14. Prison : cellule fermee sous le premier escalier.
+15. Prison : premiere cellule a droite apres les escaliers.
+16. Prison : apres les escaliers descendants, etagere basse pres du sujet.
+17. Prison, zone d'eau : apres le blason argent, sixieme alcove barree a
+    gauche, la deuxieme depuis le fond sous les escaliers.
+18. Bibliotheque : apres le labyrinthe, monte et vise le haut du couloir du
+    fond avec le M92F.
+
+OBJECTIFS DE SUCCES
+
+- Must've Got Lost : termine le DLC a n'importe quelle difficulte.
+- It's Just a Bad Dream! : termine le DLC avec un rang S. La vitesse, les
+  soins economises, les morts limitees et les 18 stars sont la route la plus
+  sure.
+- Night Terrors : termine le DLC en Professional.
+- Wish Upon a Star : detruis les 18 Score Stars d'une ou plusieurs runs ;
+  verifie le compteur apres la fin.
+- Kung Fu Fighting : pendant le combat final, provoque la charge, esquive au
+  prompt, puis utilise l'action melee. Repete le contre jusqu'au succes ; a
+  deux, un joueur attire et l'autre se tient pret a la melee.
+
+DESPERATE ESCAPE — PARCOURS COMPLET SANS SPOILER
+
+PERIMETRE
+
+- Cinq succes Steam : Getaway, The Great Escape, Way of the Warrior, Run the
+  Gauntlet et Shoot the Messenger.
+- Le DLC est une succession de trois grandes zones de defense. Les ennemis
+  peuvent reapparaitre tant que l'objectif de la zone n'est pas termine.
+- Fais trois passes : 150 eliminations en solo, trois Agitator avec le meme
+  joueur, puis S et Professional.
+
+RUN 1 — WAY OF THE WARRIOR
+
+- Joue en Amateur/Normal, seul si possible. Le joueur qui vise le succes doit
+  faire 150 eliminations lui-meme ; les eliminations du partenaire ne comptent
+  pas pour son compteur.
+- Dans chaque zone, utilise les vagues pour monter le total mais avance les
+  interrupteurs et les portes des que le compteur est confortable.
+- Garde les munitions lourdes pour les gros ennemis et les couloirs de sortie.
+  Le compteur se verifie a la fin du chapitre, pas dans le menu pause.
+
+RUN 2 — SHOOT THE MESSENGER
+
+- Fais une run dediee en Amateur/Normal et laisse les trois Agitator Majini
+  apparaitre. Ne laisse pas le partenaire les tuer.
+- Agitator 1 : dans la premiere zone, nettoie les ennemis puis patiente ; il
+  arrive plus tard et tente de sortir rapidement.
+- Agitator 2 : dans la zone des deux tourelles lance-grenades, nettoie le pont
+  et les vagues ; il finit par apparaitre dans la meme arene.
+- Agitator 3 : dans la derniere zone, il sort de l'ascenseur environ quinze
+  secondes avant la fin. Garde des munitions et une ligne de tir pour lui.
+- Le Big Man au megaphone ne compte pas comme Agitator.
+
+RUN 3 — RANG S ET PROFESSIONAL
+
+- The Great Escape : vise le rang S. Avance par les objectifs, evite les
+  retours, maintiens les combos et utilise les grenades dans les goulots.
+- Run the Gauntlet : termine le DLC en Professional. Les vagues sont plus
+  severes ; un partenaire humain est recommande.
+- Getaway : tombe sur n'importe quelle fin de run.
+
+MERCENARIES ET MERCENARIES REUNION — 100 % DU CONTENU
+
+- Ces modes n'ajoutent pas de succes Steam, mais ils font partie de la fiche
+  100 %. Debloque les cartes et les profils disponibles avec les rangs de la
+  campagne et les resultats de Mercenaries.
+- Termine les huit cartes standard puis les huit variantes Reunion. Vise S,
+  puis SS si le menu de records le demande pour debloquer tout le contenu.
+- Apprends une route de combo par carte : tuer les ennemis proches, prendre le
+  bonus de temps, garder le combo, puis utiliser les tonneaux sur les vagues
+  fortes. A deux, partage les couloirs sans casser le combo de l'autre.
+- Le menu Bonus/Records est l'autorite finale pour les profils et les cartes
+  effectivement debloques dans ta version Steam.
+
+VERSUS — LES 10 SUCCES STEAM
+
+DEPENDANCE EXTERNE
+
+Versus demande des adversaires humains et le contenu Untold Stories. Les quatre
+regles sont Slayers, Survivors, Team Slayers et Team Survivors. Les matchs
+prives sont la methode la plus courte, mais la disponibilite du service, d'un
+partenaire et du matchmaking doit etre verifiee au moment de jouer.
+
+PREPARATION
+
+- Debloque les huit personnages Versus dans Bonus Features : Chris Safari
+  8 000 BP, Chris S.T.A.R.S. 13 000 BP, Sheva Clubbin' 6 000 BP, Sheva Tribal
+  15 000 BP, Jill BSAA 5 000 BP, Jill Battle Suit 7 000 BP, Wesker Midnight
+  30 000 BP et Wesker S.T.A.R.S. 50 000 BP.
+- Total a prevoir : 134 000 BP. Fais 4-1, 5-1 ou 5-3 en chapter select avec
+  une arme puissante pour reunir les points.
+- Les modes solo demandent deux joueurs pour compter les manches ; les modes
+  team demandent quatre places. Coordonne les victoires et change de gagnant
+  a chaque serie pour faire progresser les deux profils.
+
+ROUTE DE BOOST EFFICACE
+
+1. Slayers : 30 victoires par joueur, avec une manche a combo 20.
+2. Survivors : 30 victoires par joueur et une manche a 40 000 points.
+3. Team Slayers : 30 victoires par equipe et une manche a combo 40.
+4. Team Survivors : 30 victoires par equipe et une manche a 80 000 points.
+5. Pendant les manches, cumule 100 eliminations par attaques physiques contre
+   de vrais joueurs pour Bringing the Pain.
+6. Termine par la verification des 8 personnages debloques dans Bonus.
+
+CONDITIONS DES 10 SUCCES
+
+- Let's Get This Party Started! : debloque les huit personnages selectionnables.
+- It's All About the Points : 40 000 points dans Survivors.
+- Keep the Good Times Rolling : combo de 20 eliminations dans Slayers.
+- There's no "I" in Team : 80 000 points dans Team Survivors.
+- Bringing the Pain : 100 eliminations de joueurs avec des attaques physiques.
+- Army of One : 30 victoires dans Slayers.
+- Eye of the Tiger : 30 victoires dans Survivors.
+- The Team That Slays Together... : 30 victoires dans Team Slayers.
+- We Will Survive : 30 victoires dans Team Survivors.
+- It Takes Two to Tango : combo de 40 eliminations dans Team Slayers.
+
+CHECKLIST FINALE — 70 SUCCÈS STEAM
+
+[ ] 01 - Completed Chapter 1 - 1 — terminer le chapitre 1-1.
+[ ] 02 - Completed Chapter 1 - 2 — terminer le chapitre 1-2.
+[ ] 03 - Exploding Heads — obtenir 20 headshots.
+[ ] 04 - Completed Chapter 2 - 1 — terminer le chapitre 2-1.
+[ ] 05 - Fireworks — tirer un projectile explosif ennemi en vol.
+[ ] 06 - Completed Chapter 2 - 2 — terminer le chapitre 2-2.
+[ ] 07 - Completed Chapter 2 - 3 — terminer le chapitre 2-3.
+[ ] 08 - Get Physical — eliminer 20 ennemis avec des attaques physiques.
+[ ] 09 - Completed Chapter 3 - 1 — terminer le chapitre 3-1.
+[ ] 10 - Meat Shower — eliminer trois Majini avec une grenade ou mine.
+[ ] 11 - Baptism by Fire — eliminer trois Majini avec un bidon explosif.
+[ ] 12 - Completed Chapter 3 - 3 — terminer le chapitre 3-3.
+[ ] 13 - Completed Chapter 3 - 2 — terminer le chapitre 3-2.
+[ ] 14 - Completed Chapter 4 - 1 — terminer le chapitre 4-1.
+[ ] 15 - A Cut Above — eliminer cinq ennemis au couteau.
+[ ] 16 - Completed Chapter 4 - 2 — terminer le chapitre 4-2.
+[ ] 17 - Completed Chapter 5 - 1 — terminer le chapitre 5-1.
+[ ] 18 - A Friend in Need — sauver le partenaire 10 fois avec HELP.
+[ ] 19 - Completed Chapter 5 - 2 — terminer le chapitre 5-2.
+[ ] 20 - Completed Chapter 6 - 1 — terminer le chapitre 6-1.
+[ ] 21 - Completed Chapter 6 - 2 — terminer le chapitre 6-2.
+[ ] 22 - Completed Chapter 5 - 3 — terminer le chapitre 5-3.
+[ ] 23 - Lifeguard — sauver le partenaire 10 fois avec DYING.
+[ ] 24 - Completed Chapter 6 - 3 — terminer le chapitre 6-3.
+[ ] 25 - Recruit — terminer tous les chapitres en Amateur.
+[ ] 26 - Soldier — terminer tous les chapitres en Normal.
+[ ] 27 - Stop, Drop, & Roll — bruler trois Majini avec des bidons d'huile.
+[ ] 28 - Drive By — arreter le camion blinde en touchant son conducteur.
+[ ] 29 - Go into the Light — tuer deux ennemis avec une grenade flash.
+[ ] 30 - Masters of Removing — reussir l'action a deux de 5-3.
+[ ] 31 - Heart Stopper — tuer un ennemi vise au coeur avec le couteau.
+[ ] 32 - Ride the Lightning — tuer un Majini avec le transformateur.
+[ ] 33 - Must've Got Lost — terminer Lost in Nightmares.
+[ ] 34 - Veteran — terminer tous les chapitres en Veteran.
+[ ] 35 - Bad Blood — infliger les degats requis lors de la premiere rencontre.
+[ ] 36 - Cattle Prod — eliminer 30 ennemis avec la matraque electrique.
+[ ] 37 - Lead Aspirin — headshot d'un ennemi pendant un saut.
+[ ] 38 - The Works — enchainer le nombre maximal de coups de melee.
+[ ] 39 - Getaway — terminer Desperate Escape.
+[ ] 40 - Badge of Honor — trouver les 30 emblemes BSAA.
+[ ] 41 - All Dressed Up — acheter les huit costumes alternatifs.
+[ ] 42 - Who Do You Trust? — atteindre le niveau de confiance requis.
+[ ] 43 - Crowd Control — eliminer 30 ennemis au Gatling Gun.
+[ ] 44 - Bull's-eye — eliminer 30 ennemis au Longbow.
+[ ] 45 - The Great Escape — terminer Desperate Escape avec un rang S.
+[ ] 46 - Egg on Your Face — tuer un Majini avec un Rotten Egg.
+[ ] 47 - Egg Hunt — trouver les quatre types d'oeufs.
+[ ] 48 - Take It to the Max — maximiser toutes les armes ameliorables.
+[ ] 49 - Way of the Warrior — faire 150 eliminations seul dans Desperate Escape.
+[ ] 50 - It's Just a Bad Dream! — terminer Lost in Nightmares avec un rang S.
+[ ] 51 - Be the Knife — parer un carreau d'arbalete avec le couteau.
+[ ] 52 - War Hero — terminer tous les chapitres en Professional.
+[ ] 53 - Stockpile — obtenir toutes les armes disponibles.
+[ ] 54 - Kung Fu Fighting — infliger les degats requis dans Lost in Nightmares.
+[ ] 55 - They Belong in a Museum — obtenir les 50 types de tresors.
+[ ] 56 - Let's Get This Party Started! — debloquer tous les personnages Versus.
+[ ] 57 - They're ACTION Figures! — obtenir toutes les figurines.
+[ ] 58 - Night Terrors — terminer Lost in Nightmares en Professional.
+[ ] 59 - Wish Upon a Star — detruire les 18 Score Stars.
+[ ] 60 - Run the Gauntlet — terminer Desperate Escape en Professional.
+[ ] 61 - Shoot the Messenger — eliminer trois Agitator dans une run.
+[ ] 62 - It's All About the Points — obtenir 40 000 points dans Survivors.
+[ ] 63 - Keep the Good Times Rolling — combo de 20 dans Slayers.
+[ ] 64 - There's no "I" in Team — obtenir 80 000 points dans Team Survivors.
+[ ] 65 - Bringing the Pain — eliminer 100 joueurs avec des attaques physiques.
+[ ] 66 - Army of One — gagner 30 matchs dans Slayers.
+[ ] 67 - Eye of the Tiger — gagner 30 matchs dans Survivors.
+[ ] 68 - The Team That Slays Together... — gagner 30 matchs dans Team Slayers.
+[ ] 69 - We Will Survive — gagner 30 matchs dans Team Survivors.
+[ ] 70 - It Takes Two to Tango — combo de 40 dans Team Slayers.
+
+SOURCES DE VERIFICATION
+
+- Steam, liste officielle des 70 succes :
+  https://steamcommunity.com/stats/21690/achievements/
+- Emblemes et cartes de tresors, guide PDF de reference :
+  https://www.supercheats.com/guides/pdf/resident-evil-5.pdf
+- Tresors et armes, guide chronologique GameFAQs :
+  https://gamefaqs.gamespot.com/ps4/187184-resident-evil-5/faqs/55995
+- Liste des tresors et armes, autre index GameFAQs :
+  https://gamefaqs.gamespot.com/xbox360/929197-resident-evil-5/faqs/55940
+- Score Stars de Lost in Nightmares :
+  https://gamefaqs.gamespot.com/ps3/989571-resident-evil-5-lost-in-nightmares/faqs/59224
+- Solution alternative Lost in Nightmares :
+  https://gamefaqs.gamespot.com/ps3/989571-resident-evil-5-lost-in-nightmares/faqs/59192
+- Versus, modes et conditions :
+  https://gamewith.net/resident-evil-5/article/show/12372
+- Agitator de Desperate Escape :
+  https://gamefaqs.gamespot.com/xbox360/991007-resident-evil-5-desperate-escape/answers/169300-shoot-the-messenger-
+
+VERIFICATION FINALE
+
+- Le dernier compteur Steam doit afficher 70/70.
+- Bonus doit afficher 30/30 emblemes, 50 types de tresors et 46 figurines.
+- Toutes les armes de la section Stockpile doivent etre presentes ou marquees
+  comme debloquees dans le menu ; les armes bonus doivent etre verifiees dans
+  Bonus Features.
+- Les quatre modes Versus doivent etre valides uniquement si les matchs ont
+  ete comptabilises par Steam ; la disponibilite online reste une dependance
+  externe et ne doit pas etre declaree resolue sans test reel.
+- Si un compteur manque, utilise d'abord le tableau des chapitres, puis la
+  selection de chapitre. Ne recommence pas toute la campagne sans diagnostic.
 
 REGLE ANTI-SPOILER
 
-Les chapitres et modes servent a ordonner les objectifs. Les fins, morts,
-identites, boss et consequences ne sont pas decrits.
+Cette fiche indique uniquement des zones, objets, actions, conditions de
+succes et routes de nettoyage. Elle ne raconte pas l'histoire et ne devoile
+aucune fin, identite, mort, revelation ou consequence narrative.
