@@ -132,6 +132,12 @@ soluce chronologique classique n'apporterait rien.
 - S.T.A.L.K.E.R.: Call of Prypiat - Enhanced Edition — guide publie : 47/47
   succes Steam
 
+### Star Wars
+
+- STAR WARS Jedi: Fallen Order — guide publie : 39/39 succes Steam, collectibles et combat
+- STAR WARS Knights of the Old Republic — guide special publie : AppID 32370, 0/0 succes Steam
+- STAR WARS Knights of the Old Republic II: The Sith Lords — guide publie : 57/57 succes Steam, branches et compagnons
+
 ## Futurs guides chronologiques (`planned`)
 
 ### Final Fantasy et RPG proches
@@ -190,12 +196,6 @@ soluce chronologique classique n'apporterait rien.
 - Homefront
 - Max Payne 3 — succès online à auditer
 - Mortal Kombat X — online à séparer
-
-### Star Wars et autres campagnes
-
-- STAR WARS Jedi: Fallen Order
-- STAR WARS Knights of the Old Republic
-- STAR WARS Knights of the Old Republic II: The Sith Lords
 
 ## Soluces spéciales sans succès Steam à vérifier (`special`)
 

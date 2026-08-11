@@ -117,6 +117,9 @@
     { "id": "borderlands-2", "appId": 49520, "steamAchievements": 75, "guideType": "100-steam-plus-dlc-coop", "source": "https://steamcommunity.com/stats/49520/achievements" },
     { "id": "borderlands-goty", "appId": 8980, "steamAchievements": 80, "guideType": "100-steam-plus-dlc-coop", "source": "https://steamcommunity.com/stats/8980/achievements" },
     { "id": "borderlands-goty-enhanced", "appId": 729040, "steamAchievements": 80, "guideType": "100-steam-plus-dlc-enhanced", "source": "https://steamcommunity.com/stats/729040/achievements" },
-    { "id": "borderlands-the-pre-sequel", "appId": 261640, "steamAchievements": 63, "guideType": "100-steam-plus-dlc-missables", "source": "https://steamcommunity.com/stats/261640/achievements" }
+    { "id": "borderlands-the-pre-sequel", "appId": 261640, "steamAchievements": 63, "guideType": "100-steam-plus-dlc-missables", "source": "https://steamcommunity.com/stats/261640/achievements" },
+    { "id": "star-wars-jedi-fallen-order", "appId": 1172380, "steamAchievements": 39, "guideType": "100-steam-collectibles-combat", "source": "https://steamcommunity.com/stats/1172380/achievements" },
+    { "id": "star-wars-knights-of-the-old-republic", "appId": 32370, "steamAchievements": 0, "guideType": "special-no-steam-achievements-campaign-completion", "source": "https://store.steampowered.com/app/32370/STAR_WARS_Knights_of_the_Old_Republic/" },
+    { "id": "star-wars-knights-of-the-old-republic-ii", "appId": 208580, "steamAchievements": 57, "guideType": "100-steam-branching-rpg", "source": "https://steamcommunity.com/stats/208580/achievements" }
   ]
 }

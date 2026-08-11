@@ -1861,6 +1861,54 @@ const guides: Guide[] = [
       "A surveiller : Who You Gonna Call?, Guardian Guardian, Wheely Fast et les missions de lancement.",
     meta: ["63/63 Steam", "3 DLC", "3 missables"],
   },
+  {
+    id: "star-wars-jedi-fallen-order",
+    steamAppId: 1172380,
+    title: "STAR WARS Jedi: Fallen Order",
+    eyebrow: "Respawn Entertainment",
+    subtitle: "Campagne, planètes, combats et collectibles dans l'ordre.",
+    count: "39 succes Steam",
+    file: "star-wars-jedi-fallen-order.txt",
+    accent: "gold",
+    tag: "Guide 100 % Steam",
+    description:
+      "Route complete, cartes BD-1, coffres, secrets, scans, graines, stims et combats sans spoiler.",
+    highlight:
+      "A surveiller : retours sur les planetes, cartes a 100 %, terrarium, donnees BD-1 et creatures legendaires.",
+    meta: ["39/39 Steam", "Collectibles", "Sans spoiler"],
+  },
+  {
+    id: "star-wars-knights-of-the-old-republic",
+    steamAppId: 32370,
+    title: "STAR WARS: Knights of the Old Republic",
+    eyebrow: "BioWare / LucasArts",
+    subtitle: "Campagne, mondes, compagnons et cartes stellaires dans l'ordre.",
+    count: "0 succes Steam",
+    file: "star-wars-knights-of-the-old-republic.txt",
+    accent: "blue",
+    tag: "Guide special",
+    description:
+      "Soluce complete transparente : l'AppID Steam n'expose pas de succes, mais tous les contenus sont suivis.",
+    highlight:
+      "A surveiller : sauvegardes de branche, quetes de compagnons, cartes stellaires, swoop et pazaak.",
+    meta: ["0/0 Steam", "Solo", "Sans spoiler"],
+  },
+  {
+    id: "star-wars-knights-of-the-old-republic-ii",
+    steamAppId: 208580,
+    title: "STAR WARS: Knights of the Old Republic II",
+    eyebrow: "Obsidian Entertainment",
+    subtitle: "57 succes, compagnons, mondes et branches dans l'ordre.",
+    count: "57 succes Steam",
+    file: "star-wars-knights-of-the-old-republic-ii.txt",
+    accent: "coral",
+    tag: "Guide 100 % Steam",
+    description:
+      "Route lumineuse et obscure, competences, compagnons, factions, pazaak et 57 succes sans spoiler.",
+    highlight:
+      "A surveiller : deux sauvegardes de branche, Khoonda, Onderon, compagnons et pouvoirs des deux orientations.",
+    meta: ["57/57 Steam", "2 campagnes conseillees", "Branches"],
+  },
 ];
 
 const steamHeaderUrl = (appId: number) =>

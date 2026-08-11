@@ -1142,3 +1142,26 @@ conditions difficiles ; elles ne justifient jamais une copie mot a mot.
   https://steamcommunity.com/sharedfiles/filedetails/?id=2457396623
 - Liste de controle des succes Pre-Sequel :
   https://www.trueachievements.com/game/Borderlands-The-PreSequel/achievements
+
+## STAR WARS
+
+- Succes officiels STAR WARS Jedi: Fallen Order, AppID 1172380 :
+  https://steamcommunity.com/stats/1172380/achievements
+- Fiche Steam Jedi: Fallen Order :
+  https://store.steampowered.com/app/1172380/STAR_WARS_Jedi_Fallen_Order/
+- Manuel PC EA Jedi: Fallen Order :
+  https://eaassets-hzj5tqgqf2d3f0b6.z01.azurefd.net/eahelp/manuals/star-wars-jedi-fallen-order-pc_en.pdf
+- Guides Steam Jedi: Fallen Order, collectibles et succes :
+  https://steamcommunity.com/app/1172380/guides/?browsefilter=trend&requiredtags%5B%5D=Achievements
+- Fiche Steam STAR WARS: Knights of the Old Republic, AppID 32370 :
+  https://store.steampowered.com/app/32370/STAR_WARS_Knights_of_the_Old_Republic/
+- Manuel PC KOTOR :
+  https://cdn.steamstatic.com/steam/apps/32370/manuals/KOTORI_Manual.pdf
+- Guide de zones et quetes KOTOR :
+  https://strategywiki.org/wiki/Star_Wars:_Knights_of_the_Old_Republic
+- Succes officiels STAR WARS Knights of the Old Republic II, AppID 208580 :
+  https://steamcommunity.com/stats/208580/achievements
+- Fiche Steam KOTOR II :
+  https://store.steampowered.com/app/208580/STAR_WARS_Knights_of_the_Old_Republic_II_The_Sith_Lords/
+- Guide de mondes, compagnons et branches KOTOR II :
+  https://strategywiki.org/wiki/Star_Wars:_Knights_of_the_Old_Republic_II:_The_Sith_Lords

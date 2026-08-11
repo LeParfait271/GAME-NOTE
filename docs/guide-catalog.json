@@ -123,6 +123,9 @@
     { "id": "borderlands-2", "title": "Borderlands 2", "scope": "full-guide", "status": "draft", "file": "public/guides/borderlands-2.txt" },
     { "id": "borderlands-goty", "title": "Borderlands Game of the Year", "scope": "full-guide", "status": "draft", "file": "public/guides/borderlands-goty.txt" },
     { "id": "borderlands-goty-enhanced", "title": "Borderlands Game of the Year Enhanced", "scope": "full-guide", "status": "draft", "file": "public/guides/borderlands-goty-enhanced.txt" },
-    { "id": "borderlands-the-pre-sequel", "title": "Borderlands: The Pre-Sequel", "scope": "full-guide", "status": "draft", "file": "public/guides/borderlands-the-pre-sequel.txt" }
+    { "id": "borderlands-the-pre-sequel", "title": "Borderlands: The Pre-Sequel", "scope": "full-guide", "status": "draft", "file": "public/guides/borderlands-the-pre-sequel.txt" },
+    { "id": "star-wars-jedi-fallen-order", "title": "STAR WARS Jedi: Fallen Order", "scope": "full-guide", "status": "draft", "file": "public/guides/star-wars-jedi-fallen-order.txt" },
+    { "id": "star-wars-knights-of-the-old-republic", "title": "STAR WARS: Knights of the Old Republic", "scope": "special", "status": "draft", "file": "public/guides/star-wars-knights-of-the-old-republic.txt", "reason": "L'AppID Steam 32370 n'expose pas de succes : soluce de campagne, mondes, compagnons et contenus annexes transparente." },
+    { "id": "star-wars-knights-of-the-old-republic-ii", "title": "STAR WARS: Knights of the Old Republic II", "scope": "full-guide", "status": "draft", "file": "public/guides/star-wars-knights-of-the-old-republic-ii.txt" }
   ]
 }
