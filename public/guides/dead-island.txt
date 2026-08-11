@@ -1,0 +1,215 @@
+DEAD ISLAND
+GUIDE 100 % STEAM - 48 SUCCES STEAM - CHRONOLOGIQUE - SANS SPOILER
+
+Version de travail : 11 aout 2026
+
+PERIMETRE
+
+Cette route couvre la campagne originale de Dead Island, les quatre actes, les
+collectibles, les armes, les farms, les objectifs de combat et la cooperation.
+L'AppID Steam 91310 affiche 48 succes. Riptide et la Definitive Edition sont
+des produits distincts : leurs succes ne sont pas melanges ici.
+
+GARDE-FOUS ET MISSABLES
+
+- Fais une sauvegarde de base avant chaque fin d'acte et garde-la jusqu'a la
+  validation du palier correspondant. La campagne se rejoue, mais un objectif
+  de combat ou de cooperation peut demander une session dediee.
+- Les succes cooperatifs demandent de vraies sessions en ligne. Prepare un
+  groupe stable pour les quetes partagees, une equipe de quatre personnages
+  differents et les partenaires necessaires. Ne compte pas sur une partie
+  locale hors ligne pour `Originality` ou les objectifs de partenaires.
+- Les recompenses de collectibles se cumulent. Active les compteurs de zone,
+  ramasse les journaux, enregistrements et objets signales avant de quitter une
+  zone, puis utilise le voyage rapide pour verifier les oublis.
+- Garde une partie FARM separee pour les 25 armes personnalisees, les armes
+  exceptionnelles, les kills par type d'arme et les soins. Evite de depenser
+  toutes les armes rares avant `Rootin' Tootin' Lootin'`.
+- Pour `Right 4 Life`, termine l'acte 1 avec chacun des quatre personnages.
+  Pour les objectifs de manettes et de melee, utilise des sauvegardes dediees :
+  les kills deja faits ne doivent pas etre supposes acquis par une autre route.
+- `How many days exactly?` est un objectif de temps reel : conserve la partie
+  et relance-la au moins 28 jours apres la premiere creation. Ne change pas
+  l'horloge Windows pour le forcer.
+- Les noms de zones et d'ennemis ci-dessous sont des reperes de gameplay. Aucun
+  resultat d'histoire, mort, identite, trahison ou fin n'est revele.
+
+ROUTE CHRONOLOGIQUE
+
+00 - PREPARATION ET PREMIERE ZONE
+
+- Choisis ton personnage principal et garde ce fichier comme run campagne.
+  Des le debut, ouvre les coffres, ramasse les objets nommes et accepte les
+  quetes secondaires avant de quitter une zone.
+- Active une session cooperative des que possible. Rejoins la partie d'un
+  autre joueur une fois, puis laisse la session active assez longtemps pour
+  le premier objectif de partenaire.
+- Fais les premiers kills avec des armes de types differents. Conserve au
+  moins une arme tranchante, une arme contondante, une arme a feu et une arme
+  modifiable pour les etapes suivantes.
+
+[ ] Need a hand? — Rejoins la partie d'un autre joueur.
+[ ] Learning the ropes — Atteins le niveau 10.
+[ ] A taste of everything — Tue un zombie avec 10 armes de melee differentes.
+[ ] Warranty Void if Used — Cree une arme personnalisee a un etabli.
+[ ] Knock, knock — Ouvre une porte verrouillee avec le premier coup.
+[ ] Cardio — Parcours 20 kilometres a pied ; marche et course cumulent.
+[ ] Road Trip — Conduis sur 10 kilometres au total.
+[ ] Tis but a flesh wound! — Sectionne 100 membres.
+
+01 - ACTE 1 : PREMIER PASSAGE ET COOPERATION
+
+- Termine les quetes principales de l'acte 1 sans ignorer les quetes de
+  sauvetage. Fais les objectifs de combat quand les ennemis sont nombreux et
+  recharge une sauvegarde si un essai de precision tourne mal.
+- Sur la premiere grande zone, ouvre tous les coffres et valide les compteurs
+  de collectibles avant la transition d'acte. Les journaux peuvent etre
+  relus depuis le menu sans changer la progression.
+- Organise une session avec les memes partenaires et complete cinq quetes
+  avec eux. Puis commence le cumul de quetes cooperatives, sans quitter la
+  partie entre deux objectifs lorsque c'est possible.
+
+[ ] Hell in paradise — Termine l'acte 1.
+[ ] Savior — Sauve cinq personnes assiegees par des zombies.
+[ ] Together in the light — Termine cinq quetes dans une partie cooperative
+    avec les memes partenaires.
+[ ] Going steady — Termine 25 quetes avec au moins un partenaire cooperatif.
+
+02 - ACTE 1 BIS : LES QUATRE PERSONNAGES
+
+- A partir d'une sauvegarde avant la conclusion de l'acte 1, fais une courte
+  route avec chacun des quatre personnages jouables. Ne supprime pas le
+  fichier principal : garde quatre sauvegardes clairement nommees.
+- Pour chaque personnage, valide la fin de l'acte 1. Une seule des quatre
+  routes peut servir de campagne principale ; les trois autres servent a
+  l'objectif dedie et aux essais de combat.
+- Si tu joues a quatre, utilise une equipe ou les quatre personnages sont
+  differents pendant une meme session. Cette etape est distincte des simples
+  changements de personnage en solo.
+
+[ ] Right 4 Life — Termine l'acte 1 avec quatre personnages differents.
+[ ] Originality — Joue dans une equipe cooperative de quatre personnages
+    jouables differents.
+
+03 - ACTE 2 : VILLE, ARMES ET PREMIERS FARMS
+
+- Dans l'acte 2, commence la partie FARM avec un etabli, une voiture et un
+  point de voyage rapide. Personnalise les armes les plus communes jusqu'a
+  atteindre 25, en notant celles qui ont deja ete modifiees.
+- Tue les humains rencontres dans les quetes de cette zone, mais ne vide pas
+  tes munitions : les 250 kills d'armes a feu se font plus facilement en
+  rejouant une zone avec des munitions disponibles.
+- Fais cinq quetes avec trois partenaires cooperatifs differents. Ensuite,
+  joue au moins 15 minutes avec dix partenaires distincts ; note les pseudos
+  pour ne pas confondre une reconnexion avec un nouveau partenaire.
+- Fais les deux objectifs a la grenade sur des types d'ennemis distincts.
+  Place une sauvegarde avant chaque essai et verifie l'apparition de la
+  notification Steam avant de reprendre la route.
+
+[ ] No raccoons in here — Termine l'acte 2.
+[ ] Humanitarian — Tue 50 ennemis humains.
+[ ] I want one of those — Personnalise 25 armes.
+[ ] First! — Tue un Suicider avec une grenade.
+[ ] Catch! — Tue un Infected avec l'explosion d'une grenade.
+[ ] Menage et Trois — Termine cinq quetes avec trois partenaires cooperatifs.
+[ ] People Person — Joue au moins 15 minutes avec dix partenaires cooperatifs
+    differents.
+[ ] 10 heads better than 1 — Tue 10 zombies d'affilee par headshots.
+
+04 - ACTE 2 ET 3 : COMBAT, FURY ET COLLECTIBLES
+
+- Termine les collectibles des zones de l'acte 2 puis de l'acte 3 avant de
+  lancer leur derniere mission principale. L'objectif de 60 doit tomber avant
+  le nettoyage final ; continue jusqu'a 120 sans remettre le compteur a zero.
+- Utilise une sauvegarde de combat pour les armes tranchantes et contondantes.
+  Les armes a feu, les armes modifiees et la Fury peuvent etre farmees sur les
+  groupes reapparus d'une zone deja sure.
+- Pour le marteau, attire 15 zombies dans un espace lisible, frappe sans
+  encaisser de degats et recharge si tu es touche. Pour les poings, equipe la
+  competence correspondante et finis les ennemis a mains nues.
+- Quand un Butcher apparait, conserve une hache et vise uniquement ce type
+  d'ennemi. Quand un Ram apparait, place-toi a distance pour charger la
+  competence tackle au bon moment.
+
+[ ] Gotta find'em all — Trouve 60 collectibles.
+[ ] Nearly there — Trouve 120 collectibles.
+[ ] Hack & slash — Tue 250 zombies avec des armes de melee tranchantes.
+[ ] To put it bluntly — Tue 250 zombies avec des armes de melee contondantes.
+[ ] Guns don't kill but they help — Tue 250 zombies avec des armes a feu.
+[ ] Tae Kwon Leap — Tue 25 zombies a mains nues.
+[ ] Rageman — Tue 100 ennemis avec des attaques de Fury.
+[ ] A very special day — Tue 250 zombies avec des armes modifiees.
+[ ] Ah! Spoiled meat! — Tue un Butcher avec une hache.
+[ ] Oh, no you don't — Tue un Ram avec la competence tackle.
+[ ] Can't touch this — Tue une serie de 15 zombies au marteau sans subir de
+    degats.
+
+05 - ACTE 3 : ROUTE PRINCIPALE ET OBJECTIFS DE VEHICULE
+
+- Termine l'acte 3 en continuant les quetes secondaires et les sauvetages.
+  Les victimes assiegees peuvent etre comptees dans la progression generale :
+  regarde la notification apres chaque sauvetage.
+- Utilise une voiture sur une longue boucle sure jusqu'a atteindre 50 zombies
+  tues en vehicule. Les dix kilometres de conduite sont deja inclus dans la
+  progression precedente, mais verifie le compteur avant de quitter la zone.
+- Fais le succes de feu avec un groupe de dix zombies dans une zone ouverte.
+  Les flammes persistantes et les tonneaux peuvent aider, mais laisse la
+  notification Steam apparaitre avant de poursuivre.
+
+[ ] King of the jungle — Termine l'acte 3.
+[ ] Karma-geddon — Tue 50 zombies avec un vehicule.
+[ ] Light my fire — Mets 10 zombies en feu simultanement.
+
+06 - ACTE 4 : DERNIER ACTE ET EXPLORATION
+
+- Termine l'acte 4 sans abandonner les collectibles accessibles. A la fin,
+  utilise le voyage rapide et les compteurs de zone pour revenir dans chaque
+  secteur ouvert ; les quetes restantes restent disponibles selon l'etat de
+  la campagne.
+- Explore chaque portion de l'ile, y compris les chemins secondaires, toits,
+  tunnels et zones atteignables en voiture. `There and back again` demande
+  l'exploration de l'ensemble, pas seulement la fin de l'acte.
+- Conserve les armes exceptionnelles trouvees dans les coffres et recompenses.
+  Ouvre 25 recompenses de cette categorie avant de vendre ou de demonter.
+- Fais les quetes cumulatives restantes jusqu'a 75. Les quetes de campagne,
+  secondaires et cooperatives comptent selon le meme total Steam.
+
+[ ] Banoii Redemption — Termine l'acte 4.
+[ ] There and back again — Explore l'ensemble de l'ile.
+[ ] Rootin' Tootin' Lootin' — Ramasse 25 armes exceptionnelles.
+[ ] Busy, busy, busy — Termine 75 quetes au total.
+
+07 - FARM FINAL ET NETTOYAGE SANS SPOILER
+
+- Atteins le niveau 25 puis 50 avec la meme sauvegarde ou une sauvegarde FARM.
+  Les quetes repetables et les groupes reapparus sont plus fiables que les
+  combats forces pendant une mission chronometree.
+- Utilise les trousses de soin sur de vraies blessures jusqu'a 100 soins.
+  Pour `Everybody lies`, laisse la sante a 5 % ou moins, applique une grande
+  trousse et verifie le succes avant toute autre recuperation.
+- Pour `One is all I need`, aligne cinq Infected et cherche un coup unique
+  suffisamment puissant. Pour `Swing them sticks`, active les commandes
+  Analog Fighting avant de commencer et ne melange pas les deux styles.
+- Si le compteur de temps est arrive a 28 jours depuis la creation initiale
+  de la partie, recharge cette sauvegarde et laisse Steam synchroniser.
+
+[ ] Steam Punk — Cree une arme capable de rivaliser avec les dieux du feu ou
+    du tonnerre.
+[ ] Dedicated student — Atteins le niveau 25.
+[ ] One is all I need — Tue cinq Infected d'affilee d'un seul coup.
+[ ] School of hard knocks — Atteins le niveau 50.
+[ ] Gesundheit! — Soigne-toi avec une trousse de soin 100 fois.
+[ ] Everybody lies — Utilise une grande trousse sur une blessure de 5 % ou
+    moins.
+[ ] Swing them sticks — Tue 150 ennemis avec les commandes Analog Fighting.
+[ ] How many days exactly? — Joue a Dead Island au moins 28 jours apres son
+    premier lancement.
+
+08 - VERIFICATION STEAM 48/48
+
+Tous les objectifs ci-dessus doivent etre coches dans Steam. Si un compteur
+semble juste mais que la notification manque, ferme proprement le jeu, laisse
+Steam synchroniser puis controle la page des succes de l'AppID 91310. Ne
+reinitialise pas les fichiers de progression avant d'avoir compare les deux
+compteurs.
+

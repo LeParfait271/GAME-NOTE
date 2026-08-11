@@ -1,0 +1,180 @@
+ODDWORLD: SOULSTORM ENHANCED EDITION
+GUIDE 100 % STEAM - 32 SUCCES STEAM - CHRONOLOGIQUE - SANS SPOILER
+
+Version de travail : 11 aout 2026
+
+PERIMETRE
+
+Cette route couvre les 32 succes Steam de l'AppID 619390, la campagne
+Enhanced Edition, le Quarma, les Mudokons, les recettes, les badges, les
+collectibles et les runs contradictoires. Les noms de niveaux sont utilises
+comme reperes, sans raconter les revelations ni les fins.
+
+GARDE-FOUS ET MISSABLES
+
+- Garde trois fichiers : BAD QUARMA, GOOD QUARMA et NO DEATH. Les routes
+  positive et negative, `Too Pure For This World` et `Whose Side Are You On?`
+  ne doivent pas etre forcees sur la meme partie.
+- Pour `Hardest Mudokon in the West`, aucune mort d'Abe ne doit rester dans la
+  campagne. Si Abe meurt, quitte sans poursuivre la sequence et recharge une
+  sauvegarde propre ; pour une securite maximale, termine ce run apres avoir
+  memorise les niveaux en mode normal.
+- Le Quarma se valide a la fin des niveaux. Consulte le bilan de chaque niveau
+  avant de passer au suivant et conserve une copie avant les choix qui font
+  varier le bilan.
+- Les badges demandent une route de nettoyage par niveau : secret areas,
+  Mudokons, loot, jellies, vending et objectifs de combat. Le menu des badges
+  est la source de verite, pas le souvenir d'une ancienne partie.
+- Les descriptions masquees sont laissees dans leur nom Steam avec une action
+  neutre. Aucun twist, identite, mort importante ou fin n'est explique.
+
+ROUTE CHRONOLOGIQUE
+
+00 - OUTILS, LOOT ET PREMIER QUARMA
+
+- Fouille les casiers, poubelles, coffres, distributeurs et objets interactifs
+  de chaque niveau. Ramasse puis recycle les bouteilles au lieu de les laisser
+  dans les zones deja nettoyees.
+- Fabrique la premiere recette des que le menu le permet. Conserve les
+  materiaux rares et ajoute chaque nouvelle recette a un journal externe.
+- Pour le premier niveau, termine avec un bilan positif une fois et negatif
+  une fois sur les fichiers correspondants. Les objectifs de Quarma se
+  debloquent au bilan, pas au milieu du niveau.
+
+[ ] Teach A Mud To Fish — Fabrique ta premiere recette.
+[ ] Scavenger — Ramasse 250 objets de butin.
+[ ] Sekto Spring's Favourite Recycler — Recycle 100 bouteilles.
+[ ] Bloodless — Termine un niveau avec un Quarma positif.
+[ ] Heartless — Termine un niveau avec un Quarma negatif.
+
+01 - PREMIERS NIVEAUX : CRAFT, SLOGS ET POSSESSION
+
+- Apprends les objets consommables et fabrique chaque variante utile. Une
+  recette est comptee quand l'objet est cree, pas seulement quand sa fiche est
+  decouverte.
+- Dans un niveau avec Slogs, prepare une longue ligne droite sure, laisse une
+  poursuite commencer puis cours au moins 15 secondes sans te faire rattraper.
+- Possede des Sligs au fil de la campagne. Note chaque type rencontre et
+  utilise au moins une fois la possession de chacun avant le dernier niveau.
+- En possession, tue 100 Sligs au total et neutralise 100 Sligs par
+  depossession. Utilise le replay de niveau pour finir les compteurs sans
+  compromettre le run GOOD QUARMA.
+
+[ ] Brewtal — Tue un Slig apres l'avoir recouvert de Brew.
+[ ] What A Slog — Devance un Slog pendant au moins 15 secondes.
+[ ] TriggerFinger — Tue 100 Sligs en etant possede.
+[ ] IT'S A KNOCKOUT! — Mets 100 Sligs KO par depossession.
+[ ] Ch'i Master — Possede au moins un Slig de chaque type.
+
+02 - MUDOKONS, ANTIDOTE ET MOOLAH
+
+- Dans le niveau ou l'antidote devient disponible, soigne les Mudokons malades
+  avant de quitter les salles annexes. Continue jusqu'a 15 Mudokons distincts.
+- Cherche les bouteilles et objets recyclables dans les chemins lateraux. Les
+  100 bouteilles et 250 lootables se cumulent sur la campagne et les replays.
+- Depense le Moolah aux portes prevues et conserve une reserve pour les achats
+  qui manquent a une recette. Le palier de 500 depenses se fait naturellement
+  avec les replays de nettoyage.
+- Cherche les portails d'oiseaux dans les salles secretes et envoie les
+  Mudokons par ces portails. Le compteur demande 100 sauvetages par ce moyen.
+
+[ ] Abe The Healer — Decouvre, fabrique et utilise l'antidote sur 15 Mudokons
+    malades differents.
+[ ] Big Spender — Depense 500 Moolah aux portes Moolah.
+[ ] Now You're Thinking With Bird Portals — Sauve 100 Mudokons par des
+    portails d'oiseaux.
+
+03 - CAMPAGNE CENTRALE ET OBJECTIFS DE NIVEAU
+
+- Termine les niveaux dans l'ordre, mais ouvre chaque zone secrete avant la
+  sortie. Pour les badges, note par niveau les objectifs deja dores et rejoue
+  seulement les lignes incompletes.
+- Dans la zone de train, complete le niveau puis controle la notification
+  Steam. Dans la zone des mines, termine le niveau et controle le meme journal.
+- A chaque fin de niveau, conserve le bilan Quarma. Cinq fins positives sur
+  le fichier GOOD et cinq negatives sur le fichier BAD sont necessaires.
+- Evite les distributeurs dans le niveau de l'oeil de la tempete sur le fichier
+  dedie. La reserve doit etre preparee avant d'entrer dans ce niveau.
+
+[ ] Captured The Train — Termine le niveau du train et echappe-toi de la zone.
+[ ] Escaped The Sanctum — Termine le niveau Sanctum.
+[ ] Soulful — Obtiens un Quarma positif sur cinq niveaux.
+[ ] Soulless — Obtiens un Quarma negatif sur cinq niveaux.
+[ ] Savin' That Moolah — Termine Eye of the Storm sans utiliser de vendo.
+
+04 - RECETTES COMPLETES ET BADGES
+
+- Fabrique au moins une fois chaque objet de la liste de recettes. Ramasse les
+  composants dans les niveaux et utilise les replays uniquement apres avoir
+  note le niveau qui manque.
+- Pour les badges, traite chaque niveau en quatre passages rapides :
+  exploration/secrets, sauvetage, loot/recyclage, puis combat et objectifs.
+  Termine par le bilan et compare le menu des badges.
+- Les paliers bronze, silver et gold se debloquent pendant la progression.
+  Le platine demande tous les badges ; conserve les replays jusqu'a ce que le
+  menu ne montre plus de badge absent.
+- Les 500 Moolah depenses et les 1000 bouteilles/loot ne sont pas des objectifs
+  de vitesse : privilegie une partie stable et lisible.
+
+[ ] A Brewtiful Relationship — Fabrique au moins une fois chaque objet du jeu.
+[ ] Gameplay master, bronze — Obtiens un quart des badges du jeu.
+[ ] Gameplay master, silver — Obtiens la moitie des badges du jeu.
+[ ] Gameplay master, gold — Obtiens les trois quarts des badges du jeu.
+[ ] Gameplay master, platinum — Obtiens tous les badges du jeu.
+
+05 - RUN BAD QUARMA
+
+- Pars d'une sauvegarde separee et vise un bilan negatif sur au moins cinq
+  niveaux. Pour le compteur de 1000 Mudokons, les replays et les zones a forte
+  densite sont plus rapides que les kills improvises dans le run principal.
+- Ne melange pas cette route avec les sauvetages GOOD. Controle le compteur
+  global apres chaque niveau et garde le fichier BAD intact jusqu'a l'obtention
+  de la notification finale.
+- Fais aussi les objectifs de combat restants, sans remplacer par erreur le
+  fichier NO DEATH.
+
+[ ] Whose Side Are You On? — Tue 1000 Mudokons et termine avec le mauvais
+    bilan de Quarma.
+
+06 - RUN GOOD, SAUVETAGES ET SANS MORT
+
+- Repars du fichier GOOD. Sauve les Mudokons dans chaque zone, soigne ceux qui
+  le demandent et vise un bilan positif sur au moins cinq niveaux.
+- Atteins 1000 Mudokons sauves pour le palier de sauvetage final. Les niveaux
+  optionnels et les salles secretes doivent etre inclus dans les replays.
+- Pour les deux amis des Mudokons, assure un bilan positif dans Reunion at the
+  Old Trellis puis dans le niveau d'escape associe. Controle les deux bilans
+  avant de quitter leur fichier.
+- Sur le fichier NO DEATH, termine chaque niveau sans mort d'Abe. Les retries
+  qui laissent une mort enregistree doivent etre rejoues depuis une sauvegarde
+  propre ; la prudence vaut mieux qu'un replay partiel.
+
+[ ] Friend of the Mudokons, Part 1 — Obtiens assez de sauvetages pour un bon
+    Quarma dans Reunion at the Old Trellis.
+[ ] Friend of the Mudokons, Part 2 — Obtiens assez de sauvetages pour un bon
+    Quarma dans le niveau d'escape.
+[ ] As It Was Foretold — Sauve 1000 Mudokons et obtiens la bonne fin de Quarma.
+[ ] Too Pure For This World — Termine le jeu en tuant au plus 100 Sligs.
+[ ] Hardest Mudokon in the West — Termine tous les niveaux sans qu'Abe meure.
+
+07 - OBJECTIFS SPECIFIQUES ET VERIFICATION
+
+- Dans Monsaic Lines, fais un replay sans subir de degat. Apprends le trajet,
+  puis utilise une sauvegarde au debut du niveau pour eviter tout contact.
+- Sur un replay de Sanctum, prepare les points de controle et termine sans
+  mourir pour le succes de mise a l'epreuve. Garde ce fichier separe du run
+  BAD.
+- Continue les recettes, badges, recyclage, loot, possession, depossession,
+  Sleeches et Moolah jusqu'a ce que les compteurs Steam soient completes.
+
+[ ] You're (Not) On Fire! — Sors de Monsaic Lines sans subir de degat.
+[ ] High Stakes — Termine The Sanctum sans mourir.
+[ ] The Light, It Burns! — Fais fuir au moins 500 Sleeches.
+
+08 - 32/32 STEAM
+
+La page Steam de l'AppID 619390 doit afficher 32/32. Si le jeu affiche un
+badge ou un Quarma mais que Steam ne synchronise pas, termine le niveau,
+attends la notification, puis ferme proprement le jeu avant de relancer. Ne
+supprime pas les sauvegardes BAD, GOOD ou NO DEATH avant cette verification.
+
