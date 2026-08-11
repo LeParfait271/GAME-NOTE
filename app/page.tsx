@@ -1701,6 +1701,102 @@ const guides: Guide[] = [
       "A surveiller : les 48 succes incluent Lost Archive ; verifie sa licence avant le 100 %.",
     meta: ["48/48 Steam", "100 fragments", "DLC a verifier"],
   },
+  {
+    id: "stalker-shadow-of-chernobyl",
+    steamAppId: 4500,
+    title: "S.T.A.L.K.E.R.: Shadow of Chernobyl",
+    eyebrow: "GSC Game World",
+    subtitle: "Zone, missions, artefacts et armes uniques dans l'ordre.",
+    count: "0 succes Steam",
+    file: "stalker-shadow-of-chernobyl.txt",
+    accent: "coral",
+    tag: "Guide special",
+    description:
+      "Campagne complete de l'edition originale, avec le parcours Enhanced en reference.",
+    highlight:
+      "A surveiller : AppID original a 0/0 succes ; la checklist utile porte sur la campagne et les objets.",
+    meta: ["0/0 Steam", "Enhanced 44", "Sans spoiler"],
+  },
+  {
+    id: "stalker-shadow-of-chornobyl-enhanced",
+    steamAppId: 2427410,
+    title: "S.T.A.L.K.E.R.: Shadow of Chornobyl - Enhanced Edition",
+    eyebrow: "GSC Game World",
+    subtitle: "44 succes Steam, missables et sauvegardes de bifurcation.",
+    count: "44 succes Steam",
+    file: "stalker-shadow-of-chornobyl-enhanced.txt",
+    accent: "gold",
+    tag: "Guide 100 % Steam",
+    description:
+      "Route complete, artefacts, armes uniques, compteurs, Arena et fins sans spoiler.",
+    highlight:
+      "A surveiller : Tolik, Kruglov, les artefacts de plage, le Brain Scorcher et le nettoyage avant le final.",
+    meta: ["44/44 Steam", "Original inclus", "Sans spoiler"],
+  },
+  {
+    id: "stalker-clear-sky",
+    steamAppId: 20510,
+    title: "S.T.A.L.K.E.R.: Clear Sky",
+    eyebrow: "GSC Game World",
+    subtitle: "Marais, factions, flash drives et campagne originale.",
+    count: "0 succes Steam",
+    file: "stalker-clear-sky.txt",
+    accent: "blue",
+    tag: "Guide special",
+    description:
+      "Route complete de l'edition originale, objets uniques et branches de factions.",
+    highlight:
+      "A surveiller : AppID original a 0/0 succes ; conserve les memes sauvegardes de securite.",
+    meta: ["0/0 Steam", "Enhanced 43", "Sans spoiler"],
+  },
+  {
+    id: "stalker-clear-sky-enhanced",
+    steamAppId: 2427420,
+    title: "S.T.A.L.K.E.R.: Clear Sky - Enhanced Edition",
+    eyebrow: "GSC Game World",
+    subtitle: "43 succes Steam, factions et 18 flash drives dans l'ordre.",
+    count: "43 succes Steam",
+    file: "stalker-clear-sky-enhanced.txt",
+    accent: "coral",
+    tag: "Guide 100 % Steam",
+    description:
+      "Marais, artefacts sensibles, armes uniques, factions, Limansk et difficulte.",
+    highlight:
+      "A surveiller : Stone Blood, Gun Baron, les flash drives et la sauvegarde avant le pont vers Limansk.",
+    meta: ["43/43 Steam", "18 flash drives", "Sans spoiler"],
+  },
+  {
+    id: "stalker-call-of-pripyat",
+    steamAppId: 41700,
+    title: "S.T.A.L.K.E.R.: Call of Pripyat",
+    eyebrow: "GSC Game World",
+    subtitle: "Zaton, Jupiter, Pripyat et les caches a armes.",
+    count: "0 succes Steam",
+    file: "stalker-call-of-pripyat.txt",
+    accent: "gold",
+    tag: "Guide special",
+    description:
+      "Campagne originale, outils, detecteurs, artefacts, factions et evacuation.",
+    highlight:
+      "A surveiller : AppID original a 0/0 succes ; suis les memes alertes de missables.",
+    meta: ["0/0 Steam", "Enhanced 47", "Sans spoiler"],
+  },
+  {
+    id: "stalker-call-of-pripyat-enhanced",
+    steamAppId: 2427430,
+    title: "S.T.A.L.K.E.R.: Call of Prypiat - Enhanced Edition",
+    eyebrow: "GSC Game World",
+    subtitle: "47 succes Steam, quetes, caches et deux conclusions.",
+    count: "47 succes Steam",
+    file: "stalker-call-of-pripyat-enhanced.txt",
+    accent: "blue",
+    tag: "Guide 100 % Steam",
+    description:
+      "Route complete, Flint, outils, detecteurs, factions, documents X-8 et evacuations.",
+    highlight:
+      "A surveiller : Pinocchio avant Courier of Justice, les caches de Zaton et la sauvegarde avant Kindergarten.",
+    meta: ["47/47 Steam", "6 outils", "Sans spoiler"],
+  },
 ];
 
 const steamHeaderUrl = (appId: number) =>

@@ -1077,3 +1077,35 @@ conditions difficiles ; elles ne justifient jamais une copie mot a mot.
 - Points verifies : Assassin's Creed, II et Brotherhood n'ont pas de compteur
   Steam sur leurs AppID visibles ; Revelations en a 48. Les huit objectifs de
   The Lost Archive restent soumis a la presence du DLC dans la licence Steam.
+
+## S.T.A.L.K.E.R. TRILOGIE
+
+- Fiche SteamDB de Shadow of Chernobyl, AppID original 4500 :
+  https://steamdb.info/app/4500/info/
+- Succes officiels de Shadow of Chornobyl - Enhanced Edition, AppID 2427410 :
+  https://steamcommunity.com/stats/2427410/achievements/
+- Guide Steam Enhanced de Shadow, route et checklist :
+  https://steamcommunity.com/sharedfiles/filedetails/?id=3484669950
+- Parcours de campagne de Shadow sans liste Steam originale :
+  https://strategywiki.org/wiki/S.T.A.L.K.E.R.%3A_Shadow_of_Chernobyl/Walkthrough
+- Manuel Steam de Shadow : https://store.steampowered.com/manual/4500/
+- Fiche SteamDB de Clear Sky, AppID original 20510 :
+  https://steamdb.info/app/20510/info/
+- Succes officiels de Clear Sky - Enhanced Edition, AppID 2427420 :
+  https://steamcommunity.com/stats/2427420/achievements
+- Guide Steam Enhanced de Clear Sky, flash drives, factions et artefacts :
+  https://steamcommunity.com/sharedfiles/filedetails/?id=3484667897
+- Manuel Steam de Clear Sky :
+  https://cdn.akamai.steamstatic.com/steam/apps/20510/manuals/manual_english.pdf?t=1655974621
+- Fiche SteamDB de Call of Pripyat, AppID original 41700 :
+  https://steamdb.info/app/41700/info/
+- Succes officiels de Call of Prypiat - Enhanced Edition, AppID 2427430 :
+  https://steamcommunity.com/stats/2427430/achievements
+- Guide Steam Enhanced de Call of Prypiat, route et missables :
+  https://steamcommunity.com/sharedfiles/filedetails/?id=3484672387
+- Manuel Steam de Call of Pripyat :
+  https://cdn.akamai.steamstatic.com/steam/apps/41700/manuals/STALKER-COP-%28en%29.pdf
+- Points verifies : les trois AppID originaux sont a 0/0 succes Steam, tandis
+  que les trois AppID Enhanced exposent respectivement 44, 43 et 47 succes.
+  Les routes gardent les sauvegardes avant les transitions sensibles, les
+  factions et les conclusions, sans reproduire les revelations du scenario.

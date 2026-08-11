@@ -107,6 +107,12 @@
     { "id": "assassins-creed", "appId": 15100, "steamAchievements": 0, "guideType": "special-no-steam-achievements-420-flags-60-templars", "source": "https://steamdb.info/app/15100/info/" },
     { "id": "assassins-creed-ii", "appId": 33230, "steamAchievements": 0, "guideType": "special-no-steam-achievements-100-feathers-20-glyphs", "source": "https://steamdb.info/app/33230/info/" },
     { "id": "assassins-creed-brotherhood", "appId": 48190, "steamAchievements": 0, "guideType": "special-no-steam-achievements-101-flags-full-sync", "source": "https://steamdb.info/app/48190/info/" },
-    { "id": "assassins-creed-revelations", "appId": 201870, "steamAchievements": 48, "guideType": "100-steam-plus-lost-archive-license-check", "source": "https://steamcommunity.com/stats/201870/achievements" }
+    { "id": "assassins-creed-revelations", "appId": 201870, "steamAchievements": 48, "guideType": "100-steam-plus-lost-archive-license-check", "source": "https://steamcommunity.com/stats/201870/achievements" },
+    { "id": "stalker-shadow-of-chernobyl", "appId": 4500, "steamAchievements": 0, "guideType": "special-no-steam-achievements-enhanced-companion", "source": "https://steamdb.info/app/4500/info/" },
+    { "id": "stalker-shadow-of-chornobyl-enhanced", "appId": 2427410, "steamAchievements": 44, "guideType": "100-steam-enhanced", "source": "https://steamcommunity.com/stats/2427410/achievements/" },
+    { "id": "stalker-clear-sky", "appId": 20510, "steamAchievements": 0, "guideType": "special-no-steam-achievements-enhanced-companion", "source": "https://steamdb.info/app/20510/info/" },
+    { "id": "stalker-clear-sky-enhanced", "appId": 2427420, "steamAchievements": 43, "guideType": "100-steam-enhanced", "source": "https://steamcommunity.com/stats/2427420/achievements" },
+    { "id": "stalker-call-of-pripyat", "appId": 41700, "steamAchievements": 0, "guideType": "special-no-steam-achievements-enhanced-companion", "source": "https://steamdb.info/app/41700/info/" },
+    { "id": "stalker-call-of-pripyat-enhanced", "appId": 2427430, "steamAchievements": 47, "guideType": "100-steam-enhanced", "source": "https://steamcommunity.com/stats/2427430/achievements" }
   ]
 }

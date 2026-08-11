@@ -173,11 +173,23 @@ soluce chronologique classique n'apporterait rien.
 - Max Payne 3 — succès online à auditer
 - Mortal Kombat X — online à séparer
 
-### Stalker, Star Wars et autres campagnes
+### S.T.A.L.K.E.R. : editions originales et Enhanced
 
-- S.T.A.L.K.E.R.: Shadow of Chernobyl
-- S.T.A.L.K.E.R.: Clear Sky
-- S.T.A.L.K.E.R.: Call of Pripyat
+- S.T.A.L.K.E.R.: Shadow of Chernobyl — guide publie : AppID original 4500,
+  0/0 succes Steam
+- S.T.A.L.K.E.R.: Shadow of Chornobyl - Enhanced Edition — guide publie :
+  44/44 succes Steam
+- S.T.A.L.K.E.R.: Clear Sky — guide publie : AppID original 20510, 0/0
+  succes Steam
+- S.T.A.L.K.E.R.: Clear Sky - Enhanced Edition — guide publie : 43/43
+  succes Steam
+- S.T.A.L.K.E.R.: Call of Pripyat — guide publie : AppID original 41700, 0/0
+  succes Steam
+- S.T.A.L.K.E.R.: Call of Prypiat - Enhanced Edition — guide publie : 47/47
+  succes Steam
+
+### Star Wars et autres campagnes
+
 - STAR WARS Jedi: Fallen Order
 - STAR WARS Knights of the Old Republic
 - STAR WARS Knights of the Old Republic II: The Sith Lords
@@ -191,7 +203,8 @@ soluce chronologique classique n'apporterait rien.
   synchronisation complète ; le multijoueur est indisponible
 - Assassin's Creed Revelations — guide publié : 48 succès Steam ; les huit
   succès de The Lost Archive demandent que le DLC soit présent dans la licence
-- S.T.A.L.K.E.R. — si les éditions Enhanced sont des doublons sans succès
+- S.T.A.L.K.E.R. — les trois AppID originaux et les trois éditions Enhanced
+  sont maintenant séparés dans le catalogue, avec leurs totaux Steam vérifiés
 
 ## Exclusions prévues (`excluded`)
 
