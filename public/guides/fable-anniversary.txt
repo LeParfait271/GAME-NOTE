@@ -1,195 +1,1211 @@
 FABLE ANNIVERSARY
+Succes Steam : 50
 GUIDE CHRONOLOGIQUE 100 % STEAM - SANS SPOILER
 
-Version de travail : 10 aout 2026
+Version controlee : 11 aout 2026
+AppID Steam : 288470
+Edition visee : Fable Anniversary sur PC, avec le contenu The Lost Chapters
+Mode : solo, aucun succes en ligne
 
-Ce parcours couvre les 50 succes Steam de l'AppID 288470 et le contenu de
-Fable: The Lost Chapters inclus dans Anniversary. Les packs Scythe,
-Heroes & Villains et Modding ne remplacent pas le compteur de 50 succes ;
-ils sont signales comme contenu additionnel. Il n'y a pas de succes en ligne.
+Cette fiche est un parcours complet, chronologique et sans spoiler narratif.
+Elle couvre la campagne, les quetes secondaires, les collections, les armes,
+les livres, les portes demon, les coffres a cles et les 50 succes Steam.
+Les noms des succes sont conserves dans leur langue Steam pour permettre une
+verification directe dans le profil. Les conditions sont formulees sans
+decrire la fin, les identites, les morts ou les retournements de l'histoire.
 
-OBJECTIF
+COMMENT UTILISER CETTE FICHE
 
-[ ] 50/50 succes Steam.
-[ ] Campagne principale et contenu The Lost Chapters.
-[ ] 30/30 cles d'argent et tous les coffres ouverts.
-[ ] 15/15 portes demon, 10/10 armes legendaires et 7/7 poupees de heros.
-[ ] Livres, peche, excavation, expressions, boutiques et quetes secondaires.
-[ ] Histoire de Scythe et activites des packs si les DLC sont installes.
+Suis les etapes dans l'ordre. A chaque nouvelle zone, termine d'abord les
+objets et activites de la zone, puis reprends la mission principale. Les
+compteurs de cles, livres, poupees et armes sont cumulatifs : une sauvegarde
+ne remplace pas une verification manuelle.
+
+Le parcours recommande demarre en difficultes Heroic pour obtenir les 50
+succes sur une seule partie. Si tu privilegies la decouverte tranquille,
+joue en difficulte normale, puis relance une partie Heroic avec les astuces
+de la section correspondante. Les succes de collection et de combat restent
+compatibles avec les deux methodes.
+
+COMPTEURS DE FIN DE JEU
+
+Succes Steam : 50/50
+Silver Keys : 30/30
+Silver Key Chests : 12/12
+Demon Doors : 15/15
+Legendary Weapons : 17/17 pour la completion d'Albion ; 10 suffisent au
+succes Horde Mode
+Hero Dolls necessaires a la quete : 7/7, puis echange contre la poupee finale
+Books acceptes par l'ecole : 25/25
+Blue Mushrooms : 4/4
+Zones visitees : toutes les zones accessibles, hors portes demon comptees a
+part
 
 GARDE-FOUS ABSOLUS
 
-- Fais une sauvegarde manuelle dans un emplacement reserve avant la chaine
-  de quetes du maire de Bowerstone. La decision prise dans cette chaine
-  conditionne des acces, une cle et une porte demon.
-- Pendant la quete qui mene au combat de la colline, recupere la cle d'argent
-  dans l'eau avant de quitter la zone. Elle est facile a laisser derriere.
-- Ouvre tous les coffres de cle avant de parler a la porte demon de Necropolis.
-  Cette porte peut absorber les cles presentes dans l'inventaire.
-- Ouvre la porte demon de la Route abandonnee avant la toute derniere
-  selection de la campagne. Garde les tenues et les objets de condition dans
-  le coffre de ta sauvegarde si l'expression demandee n'est pas disponible.
-- Les livres, poupees, armes et cles sont des compteurs cumulatifs. Note les
-  numeros au fur et a mesure et ne vends pas les objets de quete ou les
-  trophees avant verification.
-- Aucun passage ne revele la fin, l'identite d'un personnage, une mort, un
-  retournement ou une consequence narrative.
+1. Cree une sauvegarde manuelle avant la quete Mayor's Invitation. Cette
+   sauvegarde protege la cle de Headsman's Hill, le coffre de la grotte et
+   l'acces a la porte demon de Grey House.
+2. Pendant le duel de Headsman's Hill, prends la cle dans l'eau avant de
+   quitter la zone. Elle ne se trouve pas sur le chemin principal.
+3. Ouvre les 12 coffres a cles avant d'entrer dans la porte demon de
+   Necropolis. Cette porte consomme toutes les cles presentes.
+4. Termine la porte demon d'Abandoned Road avant la derniere decision de la
+   campagne. Conserve les tenues Bandit, Dark Will et Bright Plate.
+5. Achete la poupee de Thunder dans la salle d'attente de l'Arena avant de
+   commencer l'Arena. Elle reste achetable plus tard a Bowerstone North,
+   mais l'achat immediat supprime tout risque.
+6. Pour les huit manches de l'Arena, sauvegarde avant d'entrer et ne choisis
+   jamais de pause entre les manches. Quitter le combat annule le succes.
+7. Prends la Redhead Wig au Darkwood Bordello et fais le succes de la tenue
+   avant de conserver l'objet de fin qui peut modifier l'equipement de tete.
+8. Pour les armes de la decision finale, garde une sauvegarde avant la
+   sequence finale. Une seule branche ne donne pas les deux variantes.
+9. Ne vends pas les objets de quete, les livres, les trophees et les pieces
+   d'armure uniques avant la verification finale.
+10. Les conditions de succes marquees missable doivent etre faites au moment
+    indique. Les autres peuvent etre nettoyees apres la campagne.
 
-MISSABLES A SECURISER
+MISSABLES ET FENETRES DE SECURITE
 
-- Sauvegarde la chaine du maire, la cle de Headsman's Hill, la porte de la
-  Route abandonnee et les coffres avant la porte de Necropolis.
+La cle de Headsman's Hill est liee a la quete Mayor's Invitation. Entre dans
+la zone, termine le duel, peche dans le bassin, puis seulement quitte la map.
 
-ORDRE DE PARTIE
+La porte demon de Grey House demande le mariage avec Lady Grey. Si tu veux
+garder les deux resolutions possibles, fais une sauvegarde juste avant le
+choix final de la chaine. Pour le 100 % pratique, la route mariage ouvre la
+porte et donne l'arme Ronok the Axe ; l'autre route permet de voir l'autre
+conclusion de la quete, mais ne donne pas cette ouverture sur cette sauvegarde.
 
-1. Histoire principale jusqu'a l'ouverture du monde.
-2. Nettoyage local apres chaque nouvelle region.
-3. Sauvegarde de la chaine du maire et validation des deux routes utiles avec
-   des sauvegardes separees si tu veux tout voir sans recommencer.
-4. Contenu The Lost Chapters.
-5. Dernieres portes, coffres, armes, poupees, difficulte et succes divers.
+La porte d'Abandoned Road demande trois tenues completes. Achete la Bright
+Plate avant de terminer l'Arena si tu veux eviter de devoir attendre
+Snowspire. Recupere aussi la tenue Bandit dans la zone de la quete.
 
-SEQUENCE 1 - GUILDE ET APPRENTISSAGE
+Le succes As Quiet As A Whisper doit etre obtenu pendant le combat
+d'entrainement indique dans la route. Si tu prends un degat, recharge le
+checkpoint et recommence.
 
-- Termine toutes les lecons de combat : melee, distance et Volonte. Utilise
-  chaque type d'attaque au moins une fois.
-- Fouille la Guilde, la bibliotheque et les bois. Recupere les premiers livres,
-  la premiere cle et les expressions disponibles.
-- Durant l'entrainement, valide les objectifs de precision et de parade. Ces
-  compteurs sont plus simples au debut qu'en plein combat.
-- Apres la graduation, achete une pelle et une canne a peche des que possible.
-  Toute zone avec un cercle de fouille ou un remous doit etre notee.
+Le succes Are You Not Entertained?! demande les huit manches de l'Arena sans
+prendre de pause. Le succes Hero, Their Health Is Low demande de soigner un
+suiveur pendant une escorte : fais-le sur la premiere escorte disponible.
 
-SEQUENCE 2 - PREMIERES QUETES
+PREPARATION DE PARTIE
 
-- A Bowerstone Sud, fais les quetes, commerces, cadeaux, expressions et
-  entrainements avant de repartir.
-- Passe par Lookout Point et la Guilde pour ouvrir la premiere porte demon.
-  Lis son indice et garde une sauvegarde si sa condition demande une emote.
-- A Greatwood, explore les embranchements et recupere chaque coffre. Les
-  ennemis respawnent : tu peux revenir pour les compteurs de combat.
-- Termine les activites de marchand, escortes et sauvetages accessibles avant
-  d'entrer dans la prochaine zone de l'histoire.
+Avant de commencer
 
-SEQUENCE 3 - FERME, CAMP ET PREMIERS OBJETS RARES
-
-- A Orchard Farm et au camp des bandits, fais les missions secondaires avant
-  la mission principale. Garde au moins une sauvegarde avant l'attaque du
-  camp pour les objectifs de score et de sauvetage.
-- Recupere les cles visibles, les coffres et les livres. Une peche pres d'un
-  pont ou d'une porte demon est souvent le bon moyen d'obtenir une cle.
-- Commence la collection d'armes legendaires et compare les coffres a cles
-  deja ouverts. Ne depense pas toutes les cles sur un coffre de faible rang.
-
-SEQUENCE 4 - DARKWOOD ET HOBBE CAVE
-
-- Termine l'escorte, les quetes de l'ermite et les portes demon de Darkwood.
-- Dans Hobbe Cave, fouille chaque salle avant la sortie et termine la mission
-  avec la recompense choisie. Certaines recompenses sont uniques a la route.
-- Dans le Bordel, la zone est optionnelle : recupere son objet de collection,
-  son livre et son succes lie aux interactions sans depenser un objet rare.
-
-SEQUENCE 5 - OAKVALE ET COLLINES
-
-- Fais les activites de peche, de commerce, de mariage et de combat d'Oakvale.
-  Achete les maisons uniquement apres avoir note les coffres et objets.
-- Dans la chaine qui oppose deux heros, garde une sauvegarde avant d'entrer
-  dans la zone de duel. Cette sauvegarde sert a gerer les portes demon et la
-  cle de la colline.
-- Ramasse la cle dans le bassin de Headsman's Hill avant de poursuivre le
-  combat et de quitter la zone.
-
-SEQUENCE 6 - BOWERSTONE NORD ET CHAINE DU MAIRE
-
-- Ne lance pas la derniere mission du maire sans sauvegarde manuelle.
-- Route conseillee pour le 100 % : ouvre l'acces de la maison et de la porte
-  demon lies au mariage, puis reviens chercher la cle et le coffre de la zone.
-  Si tu veux conserver l'autre resolution de quete, recharge la sauvegarde
-  avant la decision et valide-la dans un second emplacement.
-- Fais toutes les expressions, coiffures, tatouages et achats necessaires aux
-  succes de style. Les vetements de chaque alignement doivent rester en stock.
-
-SEQUENCE 7 - KNOTHole GLADE ET ARENE
-
-- Termine la quete de la creature blanche, les combats de l'arene et la porte
-  demon de la region.
-- Pour l'arene, garde une sauvegarde avant d'entrer et termine la serie sans
-  abandonner. Les multiplicateurs de score et la recompense sont suivis a la
-  fin de la manche.
-- Fais le concours de tir a l'arc et les activites de force. En cas d'echec,
-  recharge la sauvegarde de zone au lieu de quitter la partie.
-- Recupere les poupees de heros lorsqu'un marchand ou une recompense de
-  concours en propose une ; note leur nom dans la checklist finale.
-
-SEQUENCE 8 - COTE NORD ET NECROPOLE
-
-- Fais la chaine des morts-vivants, recupere les pieces d'armure necessaires
-  et fouille chaque tombe et maison.
-- Ouvre tous les coffres qui demandent des cles avant de parler a la porte
-  demon de Necropolis. Ne donne jamais tes 30 cles a la porte avant la fin de
-  cette liste.
-- Verifie le compteur : 30 cles, coffres de 5/10/15/20/25/30 cles, armes
-  legendaires et portes demon deja validees.
-
-SEQUENCE 9 - FIN DE LA CAMPAGNE PRINCIPALE
-
-- Avant le dernier enchainement, termine les quetes secondaires, livres,
-  portes, armes, poupees et magasins encore disponibles.
-- Fais une sauvegarde de securite avant la decision finale de la campagne.
-  Le contenu qui suit s'ouvre ensuite dans les zones du nord.
-- Ne porte pas un objet de quete de fin devant la porte demon de la Route
-  abandonnee si son compteur n'est pas encore valide.
-
-SEQUENCE 10 - THE LOST CHAPTERS / SCYTHE
-
-- Explore Lookout Point, Hook Coast, Snowspire, Lost Bay et Necropolis dans
-  l'ordre donne par la Guilde.
-- Termine les enigmes des portes demon, les quetes de Scythe et les nouveaux
-  ennemis avant de passer a la zone finale de cette extension.
-- Les cinq cles de l'extension s'ajoutent au total de 30. Ouvre les coffres
-  d'extension avant la porte qui demande toutes les cles.
-- Recupere les armes legendaires, les poupees et les livres propres a cette
-  partie, puis reviens au monde ouvert pour les derniers commerces.
-
-COLLECTIONS ET SUCCES DIVERS
-
-- 30/30 cles : zones de Guilde, Lookout Point, Bowerstone, Greatwood,
-  Orchard Farm, camp des bandits, Darkwood, Oakvale, Knothole, Headsman's
-  Hill, Lychfield, Necropolis et extension. Note chaque cle par zone.
-- 15/15 portes demon : valide chaque indice des portes de la campagne puis
-  celles des nouvelles zones. La porte de Necropolis vient en dernier, apres
-  tous les coffres.
-- 10/10 armes legendaires : ouvre les coffres de cle, gagne les recompenses
-  de quete et verifie le menu d'equipement ; une arme peut etre dans un
-  coffre, en boutique ou donnee par un concours.
-- Livres : inspecte les bibliotheques, vole ou achete les livres manquants et
-  depose-les a l'ecole quand la quete correspondante est active.
-- Poupees : reussis les concours et les recompenses de collection jusqu'a
-  avoir les sept figurines differentes.
-- Peche et excavation : sonde chaque remous et chaque cercle brillant,
-  surtout pres des portes demon, des ponts, des cimetieres et des plages.
-- Combat : utilise les sorts, armes, executions, coups critiques, parades et
-  sorts de zone au fil de la partie. Les compteurs peuvent etre finis sur les
-  ennemis respawnables.
-- Alignement : les succes de purete et de corruption sont plus faciles avec
-  une sauvegarde dediee. Ne change pas d'alignement au hasard juste avant une
-  porte demon ou une recompense de quete.
-
-CHECKLIST STEAM FINALE - 50/50
-
-[ ] Histoire principale et graduation de la Guilde.
-[ ] Quetes de combat, arene, tir a l'arc, peche et commerces.
-[ ] Chaine du maire securisee avec sauvegardes de choix.
-[ ] 30/30 cles, tous les coffres et la porte de Necropolis en dernier.
-[ ] 15/15 portes demon.
-[ ] 10/10 armes legendaires.
-[ ] 7/7 poupees de heros.
-[ ] Livres, expressions, styles, alignements et compteurs de combat.
-[ ] The Lost Chapters, Scythe et contenu additionnel verifies.
-[ ] 50/50 dans le profil Steam.
+- Choisis Heroic si tu veux obtenir Great Balls Of Fire! dans la meme partie.
+- Mets une touche rapide sur la potion de sante, la potion de mana et les
+  potions Ages Of... ; elles servent aussi aux combats a multiplicateur.
+- Achete une pelle et une canne a peche des que Bowerstone South est ouverte.
+- Garde toujours une arme de melee, une arme a distance et au moins un sort
+  de controle dans tes raccourcis.
+- N'investis pas toute ton experience dans une seule branche avant d'avoir
+  appris Turncoat et Summon, necessaires aux succes optionnels.
+- Fais des captures ou note les numeros des cles dans cette fiche. Le jeu ne
+  fournit pas une liste detaillee fiable par zone.
 
 REGLE ANTI-SPOILER
 
-Les zones et les conditions sont donnees uniquement comme repères de route.
-Les noms d'evenements, les identites, la fin, les morts et les consequences
-des choix narratifs ne sont pas reveles.
+La route cite les villes, les quetes, les portes et les objets necessaires.
+Elle ne donne pas le nom du dernier adversaire, ne decrit pas la fin et ne
+revele pas les liens entre les personnages. Le succes Steam masque par
+"(#SPOILERS)" reste volontairement sans condition narrative detaillee.
+
+ORDRE GLOBAL OPTIMAL
+
+1. Enfance, entrainement et nettoyage de la Guilde.
+2. Bowerstone South, Lookout Point et Greatwood.
+3. Orchard Farm, Fisher Creek, Rose Cottage et Hobbe Cave.
+4. Darkwood, Oakvale et Twinblade's Camp.
+5. Witchwood, Knothole Glade et Arena.
+6. Bowerstone North, chaine du maire et Headsman's Hill.
+7. Lychfield Graveyard, Bargate Prison et Hook Coast.
+8. Suite de campagne, Northern Wastes et contenu The Lost Chapters.
+9. Nettoyage des livres, armes, portes, coffres et succes divers.
+10. Derniere campagne et verification Steam.
+
+ETAPE 01 - ENFANCE A OAKVALE
+
+Objectif de route
+
+L'enfance sert a apprendre les controles et a lancer le premier succes.
+Fais toutes les petites actions proposees par les habitants avant de rendre
+le cadeau d'anniversaire. Elles ne sont pas toutes necessaires aux succes,
+mais elles donnent de l'or, de l'alignement et un meilleur depart.
+
+Parcours
+
+- Parle au pere puis suis le marqueur vers les habitants.
+- Aide les habitants qui demandent une action simple et observe les objets
+  interactifs : tonneaux, caisses, poules et portes.
+- Pour les actions d'alignement, choisis la reponse que tu veux conserver ;
+  aucune n'est obligatoire pour la route 100 %.
+- Termine Birthday Gift pour faire avancer l'histoire et obtenir From The
+  Smallest Acorn.
+- Retourne dans chaque rue d'Oakvale avant la transition. Le jeu changera
+  ensuite le statut de la zone, mais ses objets utiles resteront accessibles
+  plus tard.
+
+Premier entrainement
+
+- Rejoins la Heroes Guild et accepte les lecons de melee, de parade et de
+  distance.
+- Utilise au moins une attaque normale, une parade et un tir charge.
+- Apprends a verrouiller une cible et a changer de cible sans tourner autour
+  d'elle ; cette habitude rend l'Arena et les trolls beaucoup plus simples.
+- Dans Guild Woods, observe le bassin et la zone des beetles. La Silver Key
+  de cette zone sera ramassee avec une canne a peche plus tard.
+
+ETAPE 02 - HEROES GUILD : FORMATION COMPLETE
+
+Avant la graduation
+
+- Termine la lecon de melee, puis reussis la parade demandee par le maitre.
+- Termine la lecon de tir et vise les cibles les plus eloignees avec un tir
+  charge ; economise tes fleches mais ne quitte pas la lecon trop vite.
+- Apprends au moins un sort de Volonte. Les points de Volonte pourront etre
+  reinvestis plus tard si tu changes de style.
+- Fais les petites missions disponibles dans les salles de la Guilde : elles
+  donnent des livres, de l'or et parfois des objets qui ne reapparaissent pas
+  immediatement dans les etageres.
+
+Combat contre Whisper
+
+- Avant d'entrer, fais une sauvegarde au point de controle.
+- Reste en garde, attends la fin de chaque enchainement et frappe une fois ou
+  deux avant de reprendre la garde.
+- N'utilise pas une potion qui te ferait perdre la lecture de ta barre de
+  sante ; le succes As Quiet As A Whisper exige de ne subir aucun degat.
+- Si la barre de sante descend, recharge sans quitter la zone et recommence.
+
+Graduation et nettoyage de la Guilde
+
+- Reussis l'examen final pour obtenir The Graduation.
+- Active la lampe obtenue pendant la formation et ouvre la Demon Door des
+  Heroes Guild, au sud de la zone, pres des cascades.
+- Dans la salle derriere la porte, prends les livres, le tatouage Howl et
+  l'Elixir of Life avant de repartir.
+- Dans Guild Woods, peche au remous du bassin pour la Silver Key #1.
+- Dans la bibliotheque, ramasse les livres de la liste Education Rules The
+  Nation plus bas. Tu peux revenir les prendre si tu n'as pas encore la pelle.
+- Achete ou recupere une pelle et une canne a peche avant la premiere grande
+  boucle d'exploration.
+
+ETAPE 03 - BOWERSTONE SOUTH ET LOOKOUT POINT
+
+Bowerstone South : premiere boucle
+
+- Entre par la porte principale et parle a la petite fille qui peut lancer la
+  chaine des Blue Mushrooms. Ne la laisse pas de cote : la quete est utile
+  pour le nettoyage des objets et les interactions sociales.
+- Passe chez le marchand de nourriture, le marchand de vetements, le barbier
+  et le marchand d'armes. Achete une tenue feminine complete plus tard, mais
+  note deja les magasins.
+- Fais une vente avec benefice a un marchand pour What Are Ya Sellin'?. Une
+  difference de prix suffit ; n'utilise pas de glitch.
+- Apprends l'expression Steal. Si tu preferes ne pas voler, fais simplement
+  une vente profitable.
+- Va a l'ecole et parle au professeur pour activer Book Collection apres
+  avoir obtenu un premier livre.
+
+Silver Key #3 - Bowerstone South
+
+- Entre dans le magasin de vetements a l'entree de la ville.
+- Monte a l'etage, franchis la porte vers la terrasse et prends la cle.
+
+Premiere poupee
+
+- Dans la taverne, joue a Card Pairs.
+- Obtiens moins de 30 secondes pour recevoir la Briar Rose Hero Doll.
+- Le chronometre de ce jeu ne se manipule pas avec Slow Time : memorise les
+  paires et commence par les cartes des deux premieres lignes.
+- Des que tu obtiens une poupee, retourne dans la rue et parle a l'enfant.
+  La quete Collect the Hero Dolls est alors officiellement active.
+
+Silver Key #4 - Book Collection
+
+- Donne 25 livres acceptes au professeur de l'ecole pour obtenir cette cle.
+- Ne donne pas des livres au hasard si tu veux choisir entre la Bright Wizard
+  Hat et la Dark Wizard Hat. La recompense depend de la tendance des livres
+  remis apres les premiers paliers.
+- La liste complete des 25 livres figure dans une section separee. Note les
+  livres remis, car le jeu ne fournit pas une liste fiable.
+
+Lookout Point
+
+- En sortant vers la Guilde, suis le chemin jusqu'a la statue.
+- Coupe les lianes sur le mur lateral, puis suis le petit chemin jusqu'au
+  fond pour la Silver Key #2.
+- Observe la Demon Door de Lookout Point. Elle restera liee a la quete du
+  Fire Heart ; ne t'en preoccupe pas maintenant.
+- Peche ou explore les remous de cette zone si une quete secondaire l'exige,
+  puis reviens a la Guilde pour choisir la prochaine carte.
+
+ETAPE 04 - GREATWOOD ET PREMIERE GRANDE BOUCLE
+
+Greatwood Entrance et Greatwood Lake
+
+- Elimine les ennemis de Greatwood Entrance et ouvre tous les coffres visibles.
+- Dans Greatwood Lake, prends le chemin nord jusqu'au pont casse. La Silver
+  Key #8 se trouve a l'extremite du chemin, pres du panneau.
+- Ouvre le Silver Chest de Greatwood Lake avec 5 cles pour l'Elixir of Life.
+- Active la porte de Greatwood Gorge mais garde les Crunchy Chicks achetes
+  chez les marchands de Darkwood ou Twinblade's Camp pour plus tard.
+- Dans Greatwood, garde un multiplicateur de combat positif. Il servira pour
+  Combat, Evolved et pour la porte des Hobbe Caves.
+
+Quest des Blue Mushrooms : premier champignon
+
+- Retourne dans la Picnic Area apres la quete de la Wasp Queen.
+- Parle a la femme pres de la zone de pique-nique.
+- Utilise les expressions qui la font rire jusqu'a ce qu'elle donne le
+  premier Blue Mushroom. Tu peux essayer plusieurs expressions sans risque.
+
+Achievements a preparer
+
+- Achete Turncoat a la Guilde des que tu peux. Le niveau 1 suffit pour There
+  Is No Spoon.
+- Achete Summon puis monte-le jusqu'a un niveau ou la creature peut tuer un
+  ennemi. Le succes The Summoner's Tail tombe quand la creature invoquee
+  combat effectivement a tes cotes.
+- Pour Turncoat, trouve deux beetles ou deux Hobbes proches. Affaiblis l'un,
+  lance Turncoat sur l'autre et laisse l'ennemi converti tuer son allie.
+
+ETAPE 05 - ORCHARD FARM ET FISHER CREEK
+
+Orchard Farm
+
+- Accepte la mission de defense ou d'attaque selon ton choix d'alignement.
+- Pour une route propre, laisse la mission activee, explore les abords de la
+  ferme, puis reviens faire les objectifs avant de repartir.
+- Sur le quai nord, peche le remous pour la Silver Key #5.
+- Fouille les coffres et les barils autour de la grange. Les objets de ferme
+  alimentent aussi les objectifs de commerce et de nourriture.
+- Le passage a Orchard Farm declenche Becoming A Man automatiquement.
+
+Fisher Creek
+
+- Sauve le pecheur puis achete ou conserve la canne a peche.
+- Peche le remous sur le cote nord pour la Silver Key #6.
+- Termine le concours de peche. Vise une prise d'au moins 30 g et le premier
+  prix pour garantir That's A Real Lunker!.
+- Le concours donne aussi Silver Key #7 si tu termines au moins deuxieme ;
+  fais le premier prix pour obtenir les deux objectifs a la fois.
+- Le chapeau du pecheur est une recompense utile mais pas necessaire a Steam.
+
+Blue Mushroom : champignon de Guild Woods
+
+- Retourne a Lookout Point et ecoute les deux hommes qui parlent du champignon.
+- Dans Guild Woods, peche le remous devant la Demon Door pour obtenir le
+  champignon.
+- Profite de ce retour pour verifier que Silver Key #1 est bien dans ton
+  compteur. Ne refais pas uniquement le chemin de l'histoire.
+
+ETAPE 06 - ROSE COTTAGE ET HOBBE CAVE
+
+Rose Cottage
+
+- Dans le jardin de la vieille dame, repere le cercle de fleurs pres de la
+  maison et creuse pour la Silver Key #9.
+- Donne un cadeau simple a la Demon Door de Rose Cottage : rose, chocolat ou
+  petit bijou. La porte s'ouvre sur la Bright Will User's Outfit.
+- Prends chaque piece du coffre, surtout si tu veux ouvrir Abandoned Road.
+- Ne confonds pas cette porte avec celle de Greatwood Gorge : la condition est
+  un cadeau, pas un alignement.
+
+Hobbe Cave
+
+- Dans la premiere grande salle, ramasse les coffres et garde un sort de zone
+  equipe. Ne traverse pas directement la sortie.
+- Dans la Focus Chamber, creuse le cercle de champignons pour la Silver Key
+  #10.
+- Ouvre le Silver Chest de Hobbe Cave avec 5 cles pour le Will Master's Elixir.
+- Pour la porte Greatwood Caves, fais monter ton multiplicateur a 20 environ
+  dans la grotte avec Slow Time ou Physical Shield, puis sors rapidement.
+- Quand le multiplicateur est encore au moins 14 devant la porte, parle-lui.
+  Elle donne Cutlass Bluetane.
+- Si tu rates la fenetre du multiplicateur, ne force pas : retourne dans la
+  grotte et recommence avec une arme moins puissante.
+
+Escort et soin
+
+- Accepte une quete d'escorte des qu'elle est disponible.
+- Laisse le suiveur perdre un peu de vie sans le laisser tomber a zero.
+- Lance Heal Life sur le suiveur, pas seulement sur toi, pour Hero, Their
+  Health Is Low.
+- Si la quete se termine sans degat, recommence une escorte plus tard ; le
+  succes ne demande pas que le suiveur soit gravement blesse.
+
+ETAPE 07 - DARKWOOD ET ANCIENT CULLIS GATE
+
+Darkwood Entrance et Darkwood Camp
+
+- Fais les missions de Darkwood et elimine les ennemis qui bloquent les
+  chemins lateraux.
+- Achete plusieurs Crunchy Chicks au marchand pour la porte de Greatwood
+  Gorge. Ils seront utilises plus tard devant la porte.
+- Achete ou ramasse une piece de l'Assassin Outfit si elle est disponible.
+- Garde un heros ou un compagnon hors de la zone si tu veux ouvrir Darkwood
+  Marshes : les vagues de Hobbes peuvent les mettre en danger.
+
+Darkwood Marshes
+
+- Parle a la Demon Door et accepte son epreuve.
+- Elimine toutes les vagues de Hobbes sans quitter la zone.
+- Le coffre contient l'ensemble Dark Will User's Outfit. Prends chaque piece
+  et note-le pour Abandoned Road.
+
+Darkwood Lake
+
+- A l'extremite sud, repere la haute pierre mystique avec un trou.
+- Charge une fleche et tire dans le trou. La Silver Key #11 tombe a cote.
+- Ouvre le Silver Chest de Darkwood Lake avec 15 cles pour Arken's Crossbow.
+- Le Darkwood Bordello se trouve dans cette zone. N'entre pas seulement pour
+  avancer : la perruque et la porte demon sont a faire maintenant ou au retour.
+
+Darkwood Bordello
+
+- Pour la Demon Door, dors dix fois avec une pensionnaire du bordel. Une seule
+  pensionnaire convient ; le compteur monte a chaque interaction complete.
+- Si tu veux jouer une route Heroic, fais une sauvegarde avant cette action.
+- Monte a l'etage apres avoir obtenu l'acces et fouille le meuble pour la
+  Redhead Wig.
+- La porte donne le Pimp Hat et la perruque sert au succes I Did This For A
+  Cheevo. Ne quitte pas la zone sans les deux objets.
+
+Ancient Cullis Gate
+
+- Dans la zone de l'ancien portail, peche le remous pres du pont ouest pour la
+  Silver Key #12.
+- Nettoie les coffres et les ennemis avant de poursuivre vers Oakvale.
+
+Greatwood Gorge
+
+- Achete puis mange dix Crunchy Chicks devant la porte demon. La condition
+  demande un acte mauvais, mais cette methode evite de sacrifier une quete.
+- Coupe les lianes derriere la porte et prends Wellow's Pickhammer.
+- Si ton alignement est deja totalement mauvais, la porte peut s'ouvrir sans
+  les poulets ; verifie tout de meme que le coffre a ete pille.
+
+ETAPE 08 - OAKVALE, TOMBEAUX ET CAMP DE TWINBLADE
+
+Oakvale : collection et commerce
+
+- Dans Memorial Garden, creuse a la base de la statue pour Silver Key #14.
+- Dans le cimetiere, note les tombes et les points de peche ; le nettoyage
+  complet de ce type de zone sert a Fishing In A Graveyard.
+- Dans la taverne, joue a Coin Golf et vise 11 coups ou moins pour la Whisper
+  Hero Doll.
+- Lance Chicken Kicking Competition. Fais une premiere sauvegarde avant de
+  jouer.
+- Atteins au moins 150 points pour la Silver Key #15. Rejoue si necessaire
+  pour viser le Chicken Hat et Fight Cluck.
+- Si tu obtiens un score trop haut pour la recompense souhaitee, recharge la
+  sauvegarde de la competition et change la strategie.
+
+Chaine de Lady Grey : preparation
+
+- Avant d'accepter Mayor's Invitation, cree la sauvegarde "MAIRE".
+- Recupere les indices, le collier et les elements de la quete sans quitter
+  les zones tant que tu n'as pas fouille chaque maison accessible.
+- Suis la mission jusqu'au duel de Headsman's Hill.
+- Apres le duel, peche le bassin de la colline pour Silver Key #22.
+- Ouvre le Silver Chest de Headsman's Cave avec 15 cles pour l'augmentation
+  de Mana.
+- Retourne a Bowerstone North et termine la resolution que tu as choisie.
+- Pour obtenir Ronok the Axe et la porte Grey House, choisis le mariage avec
+  Lady Grey. Pour conserver l'autre resolution dans ton journal, recharge la
+  sauvegarde "MAIRE" dans un second emplacement apres avoir verifie l'objet.
+
+Twinblade's Camp
+
+- Fouille les tentes, les coffres et les chemins lateraux avant de lancer la
+  mission de la Seeress.
+- Creuse le cercle de fleurs au bord sud-est pour Silver Key #16.
+- Dans la taverne, joue a Spot the Addition. Le meilleur temps donne Twinblade
+  Hero Doll ; apprends les objets qui reviennent a chaque manche.
+- Achete les pieces manquantes de l'Assassin Outfit chez le marchand.
+- Garde la tenue Bandit si elle est obtenue dans les coffres de la zone. Elle
+  est indispensable a la porte d'Abandoned Road.
+
+Assassin Outfit et Ass Creed
+
+- Pieces a obtenir : Assassin Shirt, Assassin Gloves, Assassin Trousers et
+  Assassin Boots.
+- Les gants et le pantalon sont disponibles chez le marchand de Twinblade's
+  Camp ; la chemise peut etre achetee a Darkwood ou trouvee a la Chapel of
+  Skorm ; les bottes se trouvent sur la plage d'Oakvale ou en boutique.
+- Equipe les quatre pieces en meme temps.
+- Utilise l'expression Fart face a un habitant pour obtenir Ass Creed.
+- L'expression suffit : aucun meurtre et aucune infiltration ne sont requis.
+
+ETAPE 09 - WITCHWOOD ET KNOTHOLE GLADE
+
+Witchwood Stones
+
+- Pendant Find the Archaeologist, active la porte demon en frappant les
+  pierres pour former HITS, dans l'ordre H-I-T-S.
+- Dans la grotte, ouvre le Silver Chest avec 15 cles pour l'augmentation de
+  Sante. Prends aussi la potion, les gemmes et le tatouage.
+- Peche le remous pres de la porte pour Silver Key #17.
+- Termine Find the Archaeologist puis reviens parler aux personnages de la
+  quete avant d'avancer.
+
+Witchwood Lake
+
+- Pres de la statue rouge lumineuse, creuse a sa base pour Silver Key #18.
+- Fais la quete du White Balverine jusqu'a l'etape qui ouvre Knothole Glade.
+- Pour Under A Full Moon, progresse avec la quete et termine la rencontre
+  demandee dans la zone. Le succes se declenche pendant cette progression.
+
+Knothole Glade
+
+- A l'extreme sud, entre les deux maisons, creuse dans le cercle de plantes
+  pour Silver Key #19.
+- Ouvre la porte demon en chargeant un tir puissant avec un arc correct. Une
+  Ebony Bow ou un haut niveau de Precision rend la condition fiable.
+- Prends l'Elixir of Life derriere la porte.
+- Dans la taverne, joue a Card Sorting et vise moins de 25 secondes pour la
+  Scarlet Robe Hero Doll. Slow Time peut aider ce jeu.
+- Achete The Balverine Slayer pour la collection des 25 livres si le marchand
+  l'a en stock.
+- Fais la competition d'archerie quand elle est ouverte. Le meilleur prix
+  donne le Silver Arrow Trophy et peut remplacer la route de l'epee dans
+  Arthur or Robin?.
+
+Troll et competences
+
+- Pendant le parcours Witchwood, combats le Troll a distance en visant les
+  points lumineux et en evitant les projectiles.
+- Une attaque de zone ou un arc charge peut faire Feed The Troll.
+- Monte une branche complete de Strength, Skill ou Will pour That's My Man!.
+- Pour The Swinging Sword, rassemble au moins trois ennemis et utilise une
+  attaque Flourish qui touche les trois cibles simultanement.
+
+ETAPE 10 - ARENA ET PREMIERS NETTOYAGES
+
+Avant d'entrer
+
+- Fais une sauvegarde manuelle.
+- Achete la Thunder Hero Doll dans la boutique de la salle d'attente avant
+  d'accepter le combat.
+- Achete la Bright Plate Outfit complete si le marchand la propose. Elle est
+  necessaire a Abandoned Road et devient moins pratique a recuperer apres la
+  mission.
+- Prends des potions de sante et de mana, une Resurrection Phial et une
+  potion Ages Of... pour le multiplicateur.
+
+Les huit manches
+
+- Manche 1 : Wasps. Reste en mouvement et utilise le verrouillage.
+- Manche 2 : Hobbes. Garde une distance moyenne et evite de casser le rythme.
+- Manche 3 : Balverines. Bloque la charge puis contre-attaque.
+- Manche 4 : Undead. Utilise une arme ou une augmentation efficace contre les
+  morts-vivants.
+- Manche 5 : Bandits. Le tir charge permet de finir les archers rapidement.
+- Manche 6 : Earth Troll. Reste hors des zones de pierre et attaque entre les
+  projectiles.
+- Manche 7 : Rock Troll. Ne te place pas devant le point d'impact ; utilise
+  une longue distance et garde une potion de sante.
+- Manche 8 : Arachanox. Termine la manche et ne choisis pas de pause entre les
+  vagues.
+- La fin de la huitieme manche donne Are You Not Entertained?! si aucune pause
+  n'a ete prise.
+
+Nettoyage apres l'Arena
+
+- Passe par la boutique de Bowerstone North si tu n'as pas achete Thunder.
+- Achete des pieces de robe, de barbe et de tatouage pour The Ultimate Warrior.
+- Achete la propriete la moins chere possible dans plusieurs villes. Les
+  loyers cumulent progressivement pour Get Rich Or Die Tryin'.
+- Pour Project Ego, expose un trophee aux temoins d'un jeu de trophee ou
+  accroche un trophee dans une maison achetee.
+- Fais The Hero Of Time a Bowerstone : mange un Moonfish pendant le jour ou
+  une Golden Carrot pendant la nuit.
+
+ETAPE 11 - BOWERSTONE NORTH ET CHAINE DU MAIRE
+
+Bowerstone North
+
+- Entre dans le manoir et fouille la chambre de Lady Grey pour Silver Key #23.
+- Ouvre le Silver Chest de la chambre avec 15 cles pour Katana Hiryu.
+- Achete le livre The Tailor's Tragedy si le marchand le propose.
+- Termine les achats de style : barbe, coupe et tatouage pour The Ultimate
+  Warrior. Les trois elements doivent etre equipes ou appliques selon leur
+  type ; le jeu valide le succes apres la derniere transformation.
+- Achete Thunder Hero Doll si tu ne l'as pas prise dans la salle d'attente.
+
+Mayor's Invitation : route complete
+
+- Reprends ta sauvegarde "MAIRE" et accepte la mission.
+- Suis tous les marqueurs jusqu'a Headsman's Hill sans faire de voyage rapide
+  inutile, afin de ne pas manquer la fenetre de peche.
+- Apres le duel, ramasse Silver Key #22 et ouvre le coffre de Headsman's Cave.
+- Si tu vises le 100 % d'objets sur cette sauvegarde, poursuis la route mariage.
+- Ouvre ensuite la porte demon de Grey House pour Ronok the Axe.
+- A Grey House, peche le remous pres de la porte pour Silver Key #13.
+- Ouvre le Silver Chest de Grey House avec 10 cles pour l'augmentation de
+  Sharpening.
+- Si tu veux conserver l'autre route narrative, charge la sauvegarde "MAIRE"
+  dans un second emplacement apres avoir enregistre les objets obtenus.
+
+Marital Relations et alignement
+
+- Epouse un personnage dont la barre d'attitude est suffisamment haute.
+- Offre des cadeaux, utilise des expressions positives et installe-toi dans
+  une maison avec un lit et une alliance.
+- Recois un cadeau du conjoint pour Marital Relations, ou utilise l'autre
+  condition du succes devant le conjoint.
+- Pour For Every Choice, An Achievement, pousse l'alignement jusqu'a une
+  extremite. La route la plus simple est de faire une sauvegarde, d'atteindre
+  l'extreme choisi, puis de recharger la sauvegarde principale.
+- Les dons au Temple of Avo et les sacrifices a la Chapel of Skorm sont
+  traites dans la section des armes et ne sont pas necessaires tous les deux
+  pour le succes Steam.
+
+ETAPE 12 - WINDMILL HILL, LYCHFIELD ET BARGATE
+
+Windmill Hill
+
+- Pres de la maison occidentale, creuse le cercle de fleurs pour Silver Key
+  #20.
+- Derriere le moulin, creuse le second cercle de fleurs pour Silver Key #21.
+- Nettoie les coffres des maisons et rapporte les objets de quete avant de
+  poursuivre la mission de la zone.
+
+Lychfield Graveyard
+
+- La zone est une grande boucle : commence par les tombeaux, puis le bassin,
+  puis la porte de sortie.
+- Peche le remous pres de la maison du gardien pour Silver Key #24.
+- Creuse dans la tombe de Katie Stutter, a l'exterieur de la crypte centrale,
+  pour Silver Key #25.
+- Ouvre le cercueil dans la crypte centrale pour Silver Key #26.
+- Trouve les pieces de l'armure de Nostro et equipe-les lorsque la quete le
+  demande. La Demon Door de Lychfield est une porte d'histoire.
+- Ouvre le Silver Chest de Circle of the Dead avec 10 cles pour l'augmentation
+  de Piercing.
+- Fais Fishing In A Graveyard en pechant dans la zone et en creusant une tombe.
+
+Cliffside Path et Bargate Prison
+
+- Sur Cliffside Path, suis le chemin nord jusqu'au cercle de champignons et
+  creuse pour Silver Key #27.
+- Fouille le coffre proche du cercle avant de descendre.
+- Termine la mission de Bargate Prison et l'ouverture de l'entree secrete
+  pour A Family Friend.
+- Au retour, visite les maisons et les commerces de Bowerstone North ; des
+  livres ou pieces de tenue peuvent etre apparus.
+
+ETAPE 13 - HOOK COAST ET DERNIERE BOUCLE D'ALBION
+
+Hook Coast
+
+- Monte dans le phare et fouille le meuble pour Silver Key #28.
+- Ouvre le Silver Chest du sommet avec 15 cles pour Murren Greataxe.
+- Termine les interactions du phare et le succes There's Always A Lighthouse
+  se debloque avec la progression principale de la zone.
+- Dans la taverne, joue a Shove Ha'penny. Obtiens environ 30 points ou le
+  meilleur score demande par le maitre pour Maze Hero Doll.
+- Achete The Maze Hero Doll si la recompense est valide et note-la.
+
+Legendary weapons a ce stade
+
+- Arken's Crossbow : Darkwood Lake, coffre a 15 cles.
+- Katana Hiryu : Bowerstone Manor, coffre a 15 cles.
+- Murren Greataxe : Hook Coast, coffre a 15 cles.
+- Cutlass Bluetane : porte des Greatwood Caves.
+- Ronok the Axe : porte de Grey House.
+- Wellow's Pickhammer : porte de Greatwood Gorge.
+- Dollmaster's Mace : porte d'Abandoned Road, a faire avant la fin.
+
+Abandoned Road
+
+- Entre avec la tenue Bandit complete.
+- Parle a la porte, equipe successivement Bright Plate, Dark Will puis Bandit
+  si le dialogue ne valide pas les trois tenues en une seule fois.
+- Ouvre le coffre et prends Dollmaster's Mace.
+- Verifie la liste des trois tenues avant de repartir : Bandit, Dark Will et
+  Bright Plate. C'est la fenetre missable la plus souvent oubliee.
+
+ETAPE 14 - CHAPITRES FINAUX DE LA CAMPAGNE PRINCIPALE
+
+Avant la derniere selection
+
+- Termine les quetes secondaires visibles a la Guilde.
+- Termine les 25 livres si ce n'est pas deja fait.
+- Termine les sept Hero Dolls et rends-les au professeur pour recevoir la
+  recompense finale de la collection.
+- Ouvre les coffres de 5, 10, 15 et 20 cles deja accessibles.
+- Verifie les quatre portes demon d'histoire : Witchwood Stones, Headsman's
+  Hill, Lychfield Graveyard et Lookout Point lorsqu'elles seront activees.
+- Termine les succes de style, de mariage, d'alignement et de combat avant
+  de lancer la derniere carte de campagne.
+
+Main campaign
+
+- Suis la carte de la Guilde et ne saute pas les zones laterales signalees par
+  un coffre ou un remous.
+- A chaque nouveau chapitre, vide les coffres et parle aux marchands avant
+  de repartir.
+- Les succes The Bloodline Part I et Part II, A Wild Jack Appears et la
+  conclusion masquee se debloquent par la progression. Pour rester sans
+  spoiler, leur condition narrative n'est pas detaillee ici.
+- Pour les armes liees a la decision finale, fais une sauvegarde juste avant
+  la sequence et conserve-la jusqu'a la verification de Steam.
+
+ETAPE 15 - THE LOST CHAPTERS : PROPHECIES ET NORTHERN WASTES
+
+Acces au contenu additionnel
+
+- Le contenu The Lost Chapters est inclus dans Fable Anniversary ; il ne
+  demande pas un achat DLC separe et ses zones se fondent dans la route.
+- Accepte la carte de quete liee au Fire Heart quand elle devient disponible.
+- Retourne a Lookout Point et ouvre la porte demon en suivant la quete des
+  Prophets. La porte s'ouvre par la progression, pas par une enigme libre.
+- Termine les etapes de la quete sans quitter une zone avant d'avoir fouille
+  les coffres et les remous.
+- Le succes The Bloodline Part II se debloque pendant la suite de campagne.
+
+Snowspire Village
+
+- Explore toutes les maisons, boutiques et quais avant de repartir.
+- Dans la taverne, joue a Coin Golf et vise 10 coups ou moins pour Scythe Hero
+  Doll. Slow Time peut faciliter la memorisation des angles.
+- Achete le livre ou les pieces de tenue disponibles chez les marchands.
+- Achete la Redhead Wig si tu ne l'as pas recuperee au Bordello ; l'edition
+  Anniversary en propose une seconde possibilite dans cette ville.
+- Retourne au professeur de Bowerstone South avec les sept poupees si ce
+  n'est pas deja fait. Jack Hero Doll est la recompense de l'echange.
+
+Lost Bay
+
+- Suis le chemin de la baie jusqu'a la maison abandonnee.
+- Creuse la tombe du gardien de la maison, pres de la rive ouest, pour Silver
+  Key #29.
+- Ouvre le Silver Chest de Lost Bay avec 30 cles. Il contient The Avenger et
+  un exemplaire de chaque gemme.
+- Fouille le coffre de l'armure Holy Warrior et les maisons avant de repartir.
+
+Necropolis
+
+- Avant de parler a la porte demon, confirme que les 12 coffres a cles sont
+  ouverts. Le coffre 25 cles doit etre ouvert ici avant la porte.
+- Peche le remous de la riviere pres de la porte pour Silver Key #30. Ne
+  double-compte pas cette cle : le compteur final doit afficher 30/30.
+- Ouvre le Silver Chest de Necropolis avec 25 cles pour Archon's Battle Armour.
+- Fais une sauvegarde manuelle juste avant de parler a la porte.
+- Donne toutes les Silver Keys a la porte demon et entre pour obtenir The
+  Bereaver. Cette action vide le compteur de cles, mais les coffres deja ouverts
+  restent valides.
+
+NUMEROTATION RETENUE POUR LES DEUX DERNIERES CLES
+
+Les guides anciens inversent parfois Lost Bay et Necropolis. Dans cette fiche,
+Lost Bay est la Silver Key #29, Necropolis est la Silver Key #30. Verifie le
+compteur du jeu plutot que le nom d'une ancienne video ; le resultat attendu
+reste 30/30 avant l'ouverture de Necropolis.
+
+ETAPE 16 - CLEANUP DES 30 SILVER KEYS
+
+Cette liste utilise les emplacements de l'edition Anniversary / The Lost
+Chapters. Coche chaque ligne dans ton suivi externe et compare le compteur du
+jeu apres chaque zone.
+
+1. Guild Woods : peche le remous du bassin.
+2. Lookout Point : coupe les lianes pres de la statue et suis le chemin cache.
+3. Bowerstone South : terrasse au dernier etage du magasin de vetements.
+4. Bowerstone South : recompense de Book Collection apres 25 livres.
+5. Orchard Farm : peche le remous du quai nord.
+6. Fisher Creek : peche le remous sur le cote nord.
+7. Fisher Creek : recompense du Fishing Competition, deuxieme place minimum.
+8. Greatwood Lake : bout du chemin nord, pres du pont casse.
+9. Rose Cottage : cercle de fleurs pres de la maison.
+10. Hobbe Cave : cercle de champignons dans la Focus Chamber.
+11. Darkwood Lake : fleche dans le trou de la pierre mystique au sud.
+12. Ancient Cullis Gate : remous pres du pont ouest.
+13. Grey House : remous pres de la Demon Door.
+14. Oakvale Memorial Garden : base de la statue.
+15. Oakvale : recompense du Chicken Kicking Competition, 150 points minimum.
+16. Twinblade's Camp : cercle de fleurs a l'extreme sud-est.
+17. Witchwood Stones : remous pres de la Demon Door.
+18. Witchwood Lake : base de la statue rouge lumineuse.
+19. Knothole Glade : cercle de plantes entre deux maisons au sud.
+20. Windmill Hill : cercle de fleurs pres de la maison occidentale.
+21. Windmill Hill : cercle de fleurs derriere le moulin.
+22. Headsman's Hill : remous du bassin pendant Mayor's Invitation.
+23. Bowerstone Manor : lit de la chambre de Lady Grey.
+24. Lychfield Graveyard : remous pres de la maison du gardien.
+25. Lychfield Graveyard : tombe de Katie Stutter devant la crypte centrale.
+26. Lychfield Graveyard : interieur de la crypte centrale.
+27. Cliffside Path : cercle de champignons a l'extreme nord.
+28. Hook Coast : meuble dans le phare.
+29. Lost Bay : tombe du gardien de la maison abandonnee, rive ouest.
+30. Necropolis : remous de la riviere pres de la Demon Door.
+
+ETAPE 17 - LES 12 SILVER CHESTS
+
+Ouvre les coffres au fil de la route, mais toujours avant Necropolis. Les
+Silver Keys ne sont pas depensees par l'ouverture d'un coffre.
+
+1. Heroes Guild - 20 cles : Murren Greathammer.
+2. Greatwood Lake - 5 cles : Elixir of Life.
+3. Hobbe Cave - 5 cles : Will Master's Elixir.
+4. Darkwood Lake - 15 cles : Arken's Crossbow.
+5. Grey House - 10 cles : Sharpening Augmentation.
+6. Witchwood Stones - 15 cles : Health Augmentation.
+7. Headsman's Cave - 15 cles : Mana Augmentation.
+8. Bowerstone Manor - 15 cles : Katana Hiryu.
+9. Circle of the Dead, Lychfield - 10 cles : Piercing Augmentation.
+10. Hook Coast - 15 cles : Murren Greataxe.
+11. Necropolis - 25 cles : Archon's Battle Armour.
+12. Lost Bay - 30 cles : The Avenger et un exemplaire de chaque gemme.
+
+Le premier coffre ouvert donne Get It Off Your Chest. Le dernier coffre a
+ouvrir avant la porte de Necropolis est celui de Lost Bay ou de Necropolis
+selon ton ordre de voyage ; dans tous les cas, ne donne les 30 cles a la porte
+qu'apres les avoir tous ouverts.
+
+ETAPE 18 - LES 15 DEMON DOORS
+
+1. Heroes Guild
+   Allume la lampe recue pendant la formation puis parle a la porte. Fouille
+   l'Arcanum pour l'Elixir of Life, les livres et le tatouage.
+
+2. Rose Cottage
+   Donne un cadeau a la porte. Une rose ou un chocolat suffit. Prends la
+   Bright Will User's Outfit.
+
+3. Darkwood Marshes
+   Accepte le defi et elimine toutes les vagues de Hobbes. Prends la Dark Will
+   User's Outfit dans le coffre.
+
+4. Darkwood Bordello
+   Dors dix fois avec une pensionnaire. Monte ensuite a l'etage et prends le
+   Pimp Hat, la Redhead Wig et les objets du coffre.
+
+5. Greatwood Gorge
+   Mange dix Crunchy Chicks devant la porte, ou utilise une route d'alignement
+   mauvais equivalente. Prends Wellow's Pickhammer.
+
+6. Greatwood Caves
+   Reviens avec un combat multiplier d'au moins 14. Le chemin Hobbe Cave,
+   Slow Time et Physical Shield rendent la fenetre plus facile. Prends Cutlass
+   Bluetane.
+
+7. Witchwood Stones
+   Pendant Find the Archaeologist, frappe les pierres dans l'ordre H-I-T-S.
+   Prends le coffre a 15 cles au-dela de la porte.
+
+8. Knothole Glade
+   Charge un tir a l'arc puissant et frappe la porte. Prends l'Elixir of Life.
+
+9. Abandoned Road
+   Presente les tenues Bright Plate, Dark Will et Bandit. Prends Dollmaster's
+   Mace. Fais cette porte avant la derniere decision de campagne.
+
+10. Barrow Fields
+    Mange jusqu'a ce que la fiche du heros affiche un poids obese. Les tartes
+    ou la viande rouge sont les plus simples. Prends le Will Master's Elixir.
+
+11. Headsman's Hill
+    Termine le duel de Mayor's Invitation. La porte s'ouvre depuis la zone du
+    duel et le coffre contient la recompense de la grotte.
+
+12. Grey House
+    Epouse Lady Grey, puis reviens a la porte. Prends Ronok the Axe.
+
+13. Lychfield Graveyard
+    Recupere les pieces de Nostro dans la quete Graveyard Path. La porte
+    s'ouvre dans le cadre de l'histoire.
+
+14. Lookout Point
+    Termine la quete des Prophets of the Fire Heart. Reviens avec le Fire Heart
+    et suis la sequence de la porte.
+
+15. Necropolis
+    Ouvre tous les coffres, recupere la derniere cle, puis parle a la porte et
+    donne les cles. Prends The Bereaver et seulement ensuite quitte la zone.
+
+Le succes Open Saysamemiddlefinger se debloque quand les portes sont
+ouvertes. Les trois portes d'histoire comptent comme les autres ; ne te fie
+pas a une ancienne liste qui demande seulement douze portes.
+
+ETAPE 19 - LES 17 LEGENDARY WEAPONS
+
+La Steam demande 10 armes pour Horde Mode. Cette fiche vise les 17 armes
+legendaires de l'edition Anniversary et indique aussi les objets uniques qui
+ne sont pas dans ce compteur.
+
+1. The Harbinger
+   Tire l'epee de la pierre pres du Temple of Avo. Monte Strength si elle ne
+   sort pas tout de suite. Elle compte aussi pour Arthur or Robin?.
+
+2. Katana Hiryu
+   Silver Chest de Bowerstone Manor, 15 cles.
+
+3. Cutlass Bluetane
+   Coffre de la porte demon des Greatwood Caves.
+
+4. Ronok the Axe
+   Coffre de la porte demon de Grey House, donc route mariage.
+
+5. Wellow's Pickhammer
+   Coffre de la porte demon de Greatwood Gorge.
+
+6. Dollmaster's Mace
+   Coffre de la porte demon d'Abandoned Road.
+
+7. Murren Greathammer
+   Silver Chest de Heroes Guild, 20 cles.
+
+8. Murren Greataxe
+   Silver Chest de Hook Coast, 15 cles.
+
+9. Solus Greatsword
+   Achete au marchand d'armes de Bowerstone North. Le stock peut demander
+   plusieurs visites et une grosse reserve d'or.
+
+10. The Sentinus
+    Fais des dons au Temple of Avo jusqu'a ce que l'arme soit proposee. Le
+    montant depend de l'alignement et de la progression des dons.
+
+11. Skorm's Bow
+    Fais des sacrifices a la Chapel of Skorm et vise la recompense maximale
+    d'une offrande nocturne. Une sauvegarde avant l'offrande permet de refaire
+    l'essai sans perdre la partie principale.
+
+12. Arken's Crossbow
+    Silver Chest de Darkwood Lake, 15 cles.
+
+13. Sword of Aeons
+    Armee obtenue par une branche de la decision finale. Conserve une
+    sauvegarde avant la sequence pour la verifier sans perdre la route.
+
+14. Avo's Tear
+    Variante de la meme decision finale. Elle se verifie sur la sauvegarde
+    secondaire si tu veux les deux armes sur le meme profil de completion.
+
+15. The Avenger
+    Silver Chest de Lost Bay, 30 cles.
+
+16. The Bereaver
+    Coffre derriere la Demon Door de Necropolis, apres remise des 30 cles.
+
+17. Orkon's Club
+    Coffre normal pres d'Archon's Shrine dans le contenu The Lost Chapters.
+    Cette arme est legendaire mais ne compte pas pour Horde Mode dans
+    Anniversary : prends-la tout de meme pour le 100 % objets.
+
+Objets uniques a ajouter a l'inventaire
+
+- Frying Pan : recompense de Hidden Booty Hunt, avec les six Treasure Clues.
+- The Harbinger, Avo's Tear et Sword of Aeons : ne confonds pas les variantes
+  de fin avec des doublons du menu.
+- Les augmentations deja placees sur une arme legendaire ne se retirent pas.
+
+ETAPE 20 - LES 7 HERO DOLLS ET LES JEUX DE TAVERNE
+
+Les sept poupees necessaires sont gagnees avec les recompenses exceptionnelles
+des mini-jeux, sauf Thunder qui s'achete. La Doll of You ne compte pas dans
+la quete et la Jack Hero Doll est obtenue apres l'echange final.
+
+1. Briar Rose Hero Doll
+   Bowerstone South, Card Pairs, moins de 30 secondes.
+
+2. Whisper Hero Doll
+   Oakvale, Coin Golf, 11 coups ou moins.
+
+3. Twinblade Hero Doll
+   Twinblade's Camp, Spot the Addition, meilleur temps de la serie.
+
+4. Scarlet Robe Hero Doll
+   Knothole Glade, Card Sorting, moins de 25 secondes.
+
+5. Thunder Hero Doll
+   Achete dans la salle d'attente de l'Arena ou chez le marchand de
+   Bowerstone North.
+
+6. Maze Hero Doll
+   Hook Coast, Shove Ha'penny, vise au moins 30 points.
+
+7. Scythe Hero Doll
+   Snowspire Village, Coin Golf, 10 coups ou moins.
+
+Methode pour les mini-jeux chronometres
+
+- Fais une sauvegarde avant chaque partie.
+- Memorise la disposition plutot que de cliquer au hasard.
+- Utilise Slow Time avant de parler au maitre du jeu quand le mini-jeu le
+  permet. Card Pairs de Bowerstone est l'exception principale.
+- Si le jeu ne donne pas la poupee, recharge le checkpoint et recommence.
+- Quand les sept poupees sont dans l'inventaire, retourne a l'ecole de
+  Bowerstone South et remets-les au professeur pour Fable Heroes.
+
+ETAPE 21 - LES 25 LIVRES DE L'ECOLE
+
+Donne les livres au professeur de Bowerstone South. Les livres peuvent etre
+trouves dans la Guilde, achetes a des marchands ou recuperes dans les maisons.
+Les emplacements ci-dessous sont les premiers endroits fiables ou les
+chercher ; un livre deja pris peut apparaitre ailleurs dans le stock d'un
+marchand.
+
+1. Creatures of Albion Book I - Heroes Guild.
+2. Creatures of Albion Book II - Heroes Guild.
+3. Creatures of Albion Book III - Heroes Guild.
+4. The Old Kingdom - Heroes Guild.
+5. The Dragons - Heroes Guild.
+6. The Other Land - Heroes Guild.
+7. The Northern Wastes - Heroes Guild.
+8. The Tale of Twinblade - Heroes Guild.
+9. The Arena - Heroes Guild.
+10. A Love Story - Heroes Guild.
+11. The Pale Balverine - Heroes Guild.
+12. The Tale of Maxley - Heroes Guild.
+13. Jack of Blades - Heroes Guild.
+14. Making Friends - Heroes Guild.
+15. Windbreaker Rule Book - Bowerstone South.
+16. The Repentant Alchemist - Bowerstone South.
+17. Eyes of a Killer - Bowerstone South.
+18. The Guild of Zeros - Bowerstone South.
+19. You Are Not a Bad Person - Bowerstone South.
+20. The Trials of Aarkan - Oakvale.
+21. The Oakvale Raid - Oakvale.
+22. The Sock Method - Oakvale.
+23. The Ugly Guide - Oakvale.
+24. The Balverine Slayer - Knothole Glade.
+25. The Tailor's Tragedy - Bowerstone North.
+
+Remets les livres par lots et note le nombre remis. Au 25e livre, prends la
+Silver Key de Book Collection. Le succes Education Rules The Nation tombe
+apres la remise requise. Le livre donne aussi une scene courte ; aucune ne
+revele la fin de la campagne.
+
+ETAPE 22 - BLUE MUSHROOMS ET QUETES SECONDAIRES
+
+Blue Mushrooms
+
+- Picnic Area : fais rire la femme apres la quete de la Wasp Queen.
+- Heroes Guild : peche le remous pres de la porte demon de la Guilde.
+- Guild Woods : parle a l'homme, puis remets sa lettre a la jeune femme
+  d'Oakvale avant de revenir chercher le champignon.
+- Barrow Fields : achete le dernier champignon au marchand pour 1 500 gold,
+  ou vole-le selon ton alignement.
+- Remets les quatre champignons a la sorciere de Bowerstone Quay, puis reviens
+  a la mere pour la recompense.
+
+Side quests a ne pas laisser en attente
+
+- Fist Fighters : participe aux trois niveaux et vise le titre mondial si tu
+  veux l'autre route de Fight Cluck.
+- Escort Quests : fais une escorte et soigne le suiveur.
+- Hidden Booty Hunt : reviens avec les six Treasure Clues puis creuse pour la
+  Frying Pan.
+- Assassin Attacks : accepte la serie a Knothole Glade, puis elimine les
+  assassins dans Knothole, Witchwood, Windmill Hill et Hook Coast. Le dernier
+  donne la Doll of You ; elle ne compte pas dans les sept requises.
+- Mayor's Invitation : traite-la avec la sauvegarde de la section 11.
+- Find the Archaeologist : ouvre Witchwood Stones et le coffre a 15 cles.
+- Darkwood Disturbance : profite de cette zone pour les multiplicateurs et
+  les vagues d'ennemis.
+
+ETAPE 23 - SUCCES DE COMBAT ET DE PERSONNAGE
+
+Combat, Evolved
+
+- Apprends Physical Shield ou Slow Time pour garder ton multiplicateur.
+- Elimine plusieurs vagues sans prendre de degat, puis utilise une potion
+  Ages Of... quand le multiplicateur est au moins 20.
+- La potion doit etre utilisee pendant que le multiplicateur est encore a 20,
+  pas apres la fin du combat.
+
+The Swinging Sword
+
+- Va dans une zone de beetles, de Hobbes ou de bandits.
+- Rassemble trois cibles, verrouille le groupe et execute Flourish quand elles
+  sont dans le meme angle. Le coup doit toucher les trois simultanement.
+
+There Is No Spoon
+
+- Achete Turncoat niveau 1 a la Heroes Guild.
+- Affaiblis une cible et garde son allie a portee.
+- Maintiens le sort jusqu'a conversion complete, puis attends que l'allie
+  converti tue son ancien compagnon.
+
+The Summoner's Tail
+
+- Achete Summon et monte le sort si les creatures ne finissent pas les
+  adversaires.
+- Invoque dans Greatwood ou Hobbe Cave et laisse la creature porter le coup.
+
+But You're A Wizard, Hero
+
+- Apprends au moins un sort de chaque famille de Volonte, ou possede un type
+  de chaque arme. La route des sorts est la plus stable : soigne, attaque,
+  controle et invocation sont plus faciles a verifier dans le menu.
+
+Beauty Or The Beast
+
+- Choisis une seule extremite : nourriture et vetements pour augmenter
+  l'attractivite, ou corruption et scariness pour l'autre.
+- Atteins le maximum de l'orientation choisie. Fais une sauvegarde avant le
+  nettoyage d'alignement si tu veux conserver ton personnage principal.
+
+The Ultimate Warrior
+
+- Equipe un ensemble de barbe, une coupe de cheveux et un tatouage.
+- Les trois transformations peuvent etre faites chez les marchands de
+  Bowerstone South et North. Le succes tombe apres la derniere action.
+
+I Did This For A Cheevo
+
+- Equipe les trois pieces d'un Dress : haut, bas et gants.
+- Equipe une barbe qui couvre le menton.
+- Equipe Redhead Wig, recuperee au deuxieme etage de Darkwood Bordello ou
+  achetee a Snowspire.
+- Equipe n'importe quelle Crossbow.
+- Va a Greatwood, charge un tir et decapite un bandit par headshot.
+- Si le succes ne tombe pas, verifie d'abord les gants de la robe : le jeu
+  exige la tenue complete, pas seulement le haut et le bas.
+
+Ass Creed
+
+- Equipe les quatre pieces Assassin Outfit : chemise, gants, pantalon et
+  bottes. Les pieces Fire Assassin peuvent etre melangees si besoin.
+- Utilise l'expression Fart devant un personnage.
+
+The Drinking Game
+
+- Dans une taverne, bois jusqu'a vomir, ou aide un habitant a boire selon la
+  proposition du jeu. Une sauvegarde avant l'action evite de perdre de l'or.
+
+The Hero Of Time
+
+- Mange un Moonfish a Bowerstone pendant le jour, ou une Golden Carrot la
+  nuit. Le cycle jour/nuit est celui de la zone, pas l'heure Windows.
+
+Get Rich Or Die Tryin'
+
+- Achète des maisons et commerces, repare-les et laisse les loyers s'accumuler.
+- Attends le total de 10 000 gold de revenus locatifs ; l'or ramasse ne compte
+  pas comme loyer.
+
+Project Ego
+
+- Gagne un trophee de competition, puis montre-le aux temoins du mini-jeu,
+  ou accroche-le dans la maison achetee.
+
+ETAPE 24 - MODE HEROIC ET BOSS DE FIN
+
+Conseils de route Heroic
+
+- Monte Health et Toughness avant les statistiques de degats si tu connais
+  mal le jeu.
+- Utilise Physical Shield pour eviter les pertes de sante pendant les zones
+  a vagues.
+- Garde plusieurs Resurrection Phials et potions Ages Of... dans l'inventaire.
+- Exploite les armes legendaires et les coffres ouverts avant le dernier
+  chapitre ; le mode Heroic ne demande pas de route differente.
+- Ne quitte pas la derniere sequence avant l'ecran de fin. Great Balls Of
+  Fire! tombe apres avoir termine la partie en Heroic.
+
+Decision finale et armes
+
+- Sauvegarde avant la derniere decision.
+- Termine la sequence choisie et attends le retour au menu ou la validation
+  Steam.
+- Recharge la sauvegarde secondaire si tu veux verifier la variante d'arme
+  sans recommencer toute la campagne.
+- Le succes (#SPOILERS) est masque dans Steam : sa ligne de checklist reste
+  volontairement sans explication narrative.
+
+ETAPE 25 - VERIFICATION AVANT DE FERMER LA PARTIE
+
+Dans le menu du jeu, verifie les compteurs d'objets. Puis ouvre Steam et
+compare le nombre de succes, pas seulement le pourcentage affiche par le jeu.
+
+- 30 cles obtenues avant la porte de Necropolis.
+- 12 coffres ouverts, y compris Lost Bay et Necropolis.
+- 15 portes demon ouvertes et leurs coffres fouilles.
+- 17 armes legendaires notees, dont 10 au minimum pour Horde Mode.
+- 25 livres remis a l'ecole.
+- 7 poupees rendues au professeur, puis recompense recuperee.
+- 4 Blue Mushrooms remis a la sorciere.
+- 6 Treasure Clues et Frying Pan recuperes.
+- Assassin Outfit complet, Redhead Wig, robe complete et Crossbow verifies.
+- Heroic terminee si Great Balls Of Fire! n'est pas encore debloque.
+
+CHECKLIST FINALE - 50 SUCCES STEAM
+
+[ ] 01 - From The Smallest Acorn - terminer Birthday Gift.
+[ ] 02 - The Graduation - obtenir le diplome de la Heroes Guild.
+[ ] 03 - Becoming A Man - atteindre Orchard Farm.
+[ ] 04 - What Are Ya Sellin'? - vendre avec benefice ou voler avec Steal.
+[ ] 05 - As Quiet As A Whisper - battre Whisper sans perdre de vie.
+[ ] 06 - The Bloodline Part I - progresser dans la premiere partie de la campagne.
+[ ] 07 - Feed The Troll - vaincre le Troll de la route.
+[ ] 08 - That's A Real Lunker! - gagner le premier prix de peche ou valider la boast nue.
+[ ] 09 - Under A Full Moon - terminer l'etape de Knothole Glade sous la pleine lune.
+[ ] 10 - Gladiator, Ready! - atteindre l'Arena et terminer son introduction.
+[ ] 11 - Beauty Or The Beast - atteindre le maximum de l'orientation d'attractivite choisie.
+[ ] 12 - For Every Choice, An Achievement - atteindre l'extreme Avo ou l'extreme Skorm.
+[ ] 13 - Are You Not Entertained?! - terminer les 8 manches de l'Arena sans pause.
+[ ] 14 - A Family Friend - sauver l'Archaeologist et ouvrir l'entree secrete de Bargate Prison.
+[ ] 15 - Project Ego - montrer un trophee aux temoins ou le placer chez soi.
+[ ] 16 - Fishing In A Graveyard - pecher et creuser dans un cimetiere.
+[ ] 17 - Get Rich Or Die Tryin' - obtenir 10 000 gold de loyers.
+[ ] 18 - The Swinging Sword - toucher 3 ennemis avec un Flourish.
+[ ] 19 - The Bloodline Part II - progresser dans la seconde partie de la campagne.
+[ ] 20 - That's My Man! - monter une arborescence complete de Strength, Skill ou Will.
+[ ] 21 - Get It Off Your Chest - ouvrir un premier Silver Chest.
+[ ] 22 - The Ultimate Warrior - faire une barbe, une coupe et un tatouage.
+[ ] 23 - Arthur or Robin? - tirer The Harbinger de la pierre ou gagner le meilleur prix d'archerie.
+[ ] 24 - I Am Legendary - atteindre le rang de renommee Legendary.
+[ ] 25 - There's Always A Lighthouse - terminer la mission principale du phare.
+[ ] 26 - A Wild Jack Appears - atteindre le chapitre de campagne correspondant.
+[ ] 27 - Winter Is Coming - atteindre les Northern Wastes.
+[ ] 28 - Hero, Their Health Is Low - soigner un suiveur pendant une escorte.
+[ ] 29 - Fight Cluck - devenir champion de Fist Fighters ou gagner le Chicken Hat.
+[ ] 30 - Are You Listening To Me? - ouvrir la porte demon liee a l'enigme des sons.
+[ ] 31 - The Drinking Game - boire jusqu'a vomir ou aider un habitant a boire.
+[ ] 32 - Making Tough Decisions - terminer la mission derriere la porte Bronze.
+[ ] 33 - (#SPOILERS) - succes masque : terminer la confrontation finale, sans detail narratif.
+[ ] 34 - Definitely Not On Rails - visiter toutes les regions hors portes demon, ou atteindre le poids requis.
+[ ] 35 - Combat, Evolved - utiliser une potion Ages Of... avec un multiplicateur d'au moins 20.
+[ ] 36 - But You're A Wizard, Hero - apprendre un type de chaque sort ou posseder un type de chaque arme.
+[ ] 37 - Choosing My Religion - donner 100 000 gold a Avo ou sacrifier 10 personnes a Skorm.
+[ ] 38 - Marital Relations - recevoir un cadeau du conjoint ou flirter devant lui.
+[ ] 39 - The Summoner's Tail - invoquer une creature assez forte pour combattre.
+[ ] 40 - The Hero Of Time - manger un Moonfish le jour ou une Golden Carrot la nuit.
+[ ] 41 - Horde Mode - trouver au moins 10 Legendary Weapons.
+[ ] 42 - Education Rules The Nation - donner les 25 livres acceptes a l'ecole.
+[ ] 43 - You Are A Super Player - obtenir les 30 Silver Keys.
+[ ] 44 - Open Saysamemiddlefinger - ouvrir les 15 Demon Doors ; 12 suffisent techniquement au succes, mais les 15 completent la fiche.
+[ ] 45 - There Is No Spoon - utiliser Turncoat pour faire tuer un allie par un ennemi converti.
+[ ] 46 - Out Of The Frying Pan... - utiliser la Frying Pan pour exprimer ses sentiments.
+[ ] 47 - Ass Creed - porter les 4 pieces Assassin et utiliser Fart.
+[ ] 48 - Great Balls Of Fire! - terminer Fable Anniversary en Heroic.
+[ ] 49 - I Did This For A Cheevo - decapiter un ennemi a l'arbalete avec robe, barbe et Redhead Wig.
+[ ] 50 - Fable Heroes - obtenir les 7 Hero Dolls et les remettre au professeur.
+
+VERIFICATION FINALE
+
+Le profil Steam doit afficher 50 succes sur 50 pour l'AppID 288470.
+Le compteur d'objets doit confirmer 30 cles avant la porte de Necropolis,
+12 coffres ouverts, 15 portes demon, 25 livres remis et 7 poupees echangees.
+Les armes de la decision finale peuvent etre verifiees sur une sauvegarde
+secondaire ; cela ne retire pas le succes Steam obtenu sur la sauvegarde
+principale.
+
+SOURCES DE VERIFICATION
+
+- Liste officielle des succes Steam :
+  https://steamcommunity.com/stats/288470/achievements
+- Guide de walkthrough et emplacements des 30 Silver Keys :
+  https://gamefaqs.gamespot.com/pc/828264-fable-anniversary/faqs/45276
+- Liste detaillee des cles, coffres et livres :
+  https://gamefaqs.gamespot.com/pc/828264-fable-anniversary/faqs/39110
+- Guide de collectibles Anniversary :
+  https://steamcommunity.com/sharedfiles/filedetails/?id=334741458
+
+FIN DU GUIDE
