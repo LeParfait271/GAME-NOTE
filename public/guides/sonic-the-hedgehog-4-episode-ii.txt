@@ -1,73 +1,874 @@
 SONIC THE HEDGEHOG 4 - EPISODE II
-GUIDE 100 % STEAM - 12 SUCCES STEAM - CHRONOLOGIQUE - SANS SPOILER
+GUIDE CHRONOLOGIQUE 100 % STEAM - 12 SUCCES STEAM - FICHE PREMIUM - SANS SPOILER NARRATIF
 
 Version de travail : 11 aout 2026
+Plateforme visee : Steam - AppID 203650
+Bonus : Episode Metal se debloque si Episode I et Episode II sont possedes
 
-OBJECTIF
+======================================================================
+OBJECTIF DE COMPLETION
+======================================================================
 
-Route des quatre zones, des Chaos Emeralds, des Red Star Rings, du mode
-Super Sonic et du contenu Metal, sans révéler l'histoire.
+Cette fiche suit Episode II dans l'ordre des quatre zones principales, de
+Death Egg Mk. II, des sept Chaos Emeralds, des 13 Red Star Rings et des modes
+de completion.
 
+Le jeu comporte quatre zones de trois actes et un acte final Death Egg Mk. II,
+puis les boss associes. Chaque acte principal contient un Red Star Ring :
+3 Sylvania Castle, 3 White Park, 3 Oil Desert, 3 Sky Fortress et 1 Death Egg
+Mk. II, soit 13 au total.
+
+Episode Metal est un bonus de quatre actes reinterpretes. Il ne rajoute pas
+de succes Steam a cette fiche, mais une section finale indique comment le
+terminer pour une completion du contenu disponible.
+
+Les zones, boss, objets et techniques sont des reperes de jeu ; aucun detail
+de recit n'est raconte.
+
+OBJECTIFS :
+
+- 12/12 succes Steam.
+- Campagne principale terminee et fin vue.
+- 7/7 Chaos Emeralds.
+- 13/13 Red Star Rings.
+- Special Stage 1 terminee avec tous ses Rings.
+- Sylvania Castle Act 1 sous une minute.
+- Tous les boss battus avec Super Sonic.
+- Endurance Race validee sans retour a la World Map.
+- Une partie avec Tails selectionne au moins 50 fois.
+- Un score ou temps multiplayer envoye.
+
+======================================================================
+COMMENT LIRE LA FICHE
+======================================================================
+
+- [ZONE] : zone et acte.
+- [RED RING] : emplacement et geste de recuperation.
+- [SPECIAL] : acces et chemin a suivre.
+- [SUCCES] : notification Steam attendue.
+- [RUN DEDIEE] : tentative a faire sans melanger les objectifs.
+- □ : controle interne.
+- Les noms anglais correspondent aux textes et a la carte du jeu.
+
+======================================================================
 GARDE-FOUS AVANT DE COMMENCER
+======================================================================
 
-- AppID Steam : 203650. 12 succès, aucun DLC séparé ; le mode coop local/online
-  est facultatif sauf pour Tag Partner.
-- Note les anneaux et les scores par Act. Fais une sauvegarde séparée avant
-  chaque Special Stage et avant la carte Metal.
-- Endurance Race se fait sur un run dédié : ne retourne pas à la World Map.
+- Fais une campagne normale avant les runs de temps et les collectes.
+- Pour ouvrir une Special Stage, termine un acte avec au moins 50 Rings et
+  saute dans le Giant Ring qui apparait apres la sortie.
+- Les Special Stages avancent dans l'ordre des sept emeraudes.
+- Quand une emeraude est obtenue, le meme acte ne sert plus a ouvrir une
+  nouvelle Special Stage ; utilise un autre acte.
+- Un Red Star Ring doit etre recupere puis l'acte doit etre termine. Une mort
+  peut obliger a reprendre le Red Ring de l'acte.
+- Pour Endurance Race, ne reviens jamais a la World Map entre le premier acte
+  et la fin de la liste.
+- Pour A Golden Wave, fais une run dediee des combats avec Super Sonic apres
+  les sept emeraudes.
+- Pour I Love Tails, selectionne Tails au moins 50 fois dans des actes ;
+  note le compteur et ne compte pas seulement les fois ou il apparait comme
+  partenaire automatique.
+- Tag Partner demande un score ou un temps en mode multiplayer.
+- Sauvegarde l'avancement des Red Rings par zone et garde une note des actes
+  deja valides.
 
+======================================================================
 MISSABLES ET CONDITIONS RATABLES
+======================================================================
 
-- La première zone donne les repères de route ; récupère les sept Chaos Emeralds
-  et tous les Red Star Rings avant les runs de vitesse.
-- Utilise le duo Sonic/Tails pour Rolling Combo!, puis publie un temps coop
-  pour Tag Partner. Les runs compétitifs ne remplacent pas la collecte.
+- All Red Star Rings Found! : 13/13 Red Rings, un par acte principal, puis
+  termine l'acte apres chaque collecte.
+- Ring Collector : tous les Rings de Special Stage 1 dans une seule tentative
+  terminee, soit 314 Rings selon le parcours de reference.
+- Proof of Speed : Sylvania Castle Act 1 en 1:00 ou moins.
+- Endurance Race : tous les stages de la campagne sans retour a la World Map.
+- A Golden Wave : tous les combats de boss a refaire avec Super Sonic.
+- Tag Partner : envoie au moins un score ou temps multiplayer.
+- I Love Tails : joue 50 fois avec Tails.
+- All Chaos Emeralds Found! : ouvre et termine les 7 Special Stages.
+- Les Red Star Rings n'ouvrent pas de bonus de gameplay : ils servent a la
+  completion et au succes, mais il faut quand meme terminer l'acte.
 
-ORDRE RECOMMANDE
+======================================================================
+TABLEAU DES 12 SUCCES
+======================================================================
 
-1. ZONES ET PREMIERS SUCCES
+1. The Adventure Begins
+   Clear SYLVANIA CASTLE ZONE, Act 1.
 
-- Termine Sylvania Castle Zone, Act 1 pour The Adventure Begins.
-- Active le Rolling Combo avec Sonic et Tails pour Rolling Combo!, puis bats
-  le premier boss et termine les zones normalement.
-- Termine tous les Acts et le dernier affrontement pour All Stages Cleared!.
+2. Rolling Combo!
+   Activate the Rolling Combo with Sonic and Tails.
 
-2. COLLECTES, METAL ET SUPER SONIC
+3. All Stages Cleared!
+   Defeat the final foe and watch the ending.
 
-- Récupère les sept Chaos Emeralds et tous les Red Star Rings. Le compteur
-  peut être contrôlé sur la carte ; rejoue uniquement l'Act incomplet.
-- Termine Sky Fortress Zone, Act 1 pour Metal Sonic Falls.
-- Fais Sylvania Castle Act 1 en une minute ou moins pour Proof of Speed.
-- Après les collectes, bats tous les boss en Super Sonic pour A Golden Wave.
+4. All Chaos Emeralds Found!
+   Collect all seven Chaos Emeralds.
 
-3. RUNS ET COOPERATION
+5. Metal Sonic Falls
+   Defeat Metal Sonic in SKY FORTRESS ZONE, Act 1.
 
-- Termine tous les stages sans retour à la World Map pour Endurance Race.
-- Dans Special Stage 1, prends tous les anneaux avant la ligne d'arrivée :
-  Ring Collector.
-- Publie un score ou un temps multijoueur pour Tag Partner et joue Tails au
-  moins 50 fois pour I Love Tails.
+6. All Red Star Rings Found!
+   Collect all 13 Red Star Rings puis termine le dernier combat si la
+   notification attend cette confirmation.
 
+7. Proof of Speed
+   Clear SYLVANIA CASTLE ZONE, Act 1 in one minute or less.
+
+8. Tag Partner
+   Upload a Multiplayer score or time.
+
+9. Endurance Race
+   Clear all stages without returning to the World Map.
+
+10. A Golden Wave
+    Defeat every boss as Super Sonic.
+
+11. Ring Collector
+    Beat Special Stage 1 after collecting every Ring.
+
+12. I Love Tails
+    Play as Tails 50 times.
+
+======================================================================
+TECHNIQUES ET COMBOS
+======================================================================
+
+- Rolling Combo : Sonic et Tails roulent ensemble et franchissent les murs,
+  pentes et obstacles plus vite.
+- Flying Combo : Tails porte Sonic ; utilise-le pour atteindre les hauteurs.
+- Swim Combo : permet les trajets sous l'eau et les remontées rapides.
+- Pinball Crash : transforme une section de rebonds en attaque de zone.
+- Tornado Boost : attaque et propulsion dans Sky Fortress Act 1.
+- Plane Charge : attaque de fin dans les phases aeriennes.
+- 50 Rings : ouvre les Giant Rings de Special Stage.
+- Super Sonic : disponible apres 7 Chaos Emeralds ; collecte 50 Rings avant
+  chaque boss et active-le avant la zone de combat.
+
+======================================================================
+CHAPITRE 1 - SYLVANIA CASTLE ZONE
+======================================================================
+
+[ZONE] SYLVANIA CASTLE - ACT 1
+
+Route normale :
+
+1. Apres l'atterrissage, cours a droite.
+2. Saute sur la corniche haute puis sur le ressort en haut a droite.
+3. Passe le trou et charge la roue en Spin Dash pour ouvrir le passage.
+4. Laisse les boosts t'envoyer sur l'eau.
+5. Utilise Flying Combo au sommet du dernier lancement pour atteindre la
+   colline.
+6. Saute avant le mur de la section sur l'eau afin de rester sur la corniche.
+7. Traverse les boosts et utilise les ennemis comme points d'Homing Attack.
+8. Sur les caisses retractables, ne reste pas immobile.
+9. Prends les sneakers si tu fais la route rapide.
+10. Charge la roue et pars a droite jusqu'au panneau.
+
+[RED RING 01/13]
+
+- Dans la section ou Sonic court sur l'eau, saute avant de toucher le mur.
+- Atterris sur la corniche haute : le Red Ring est sur ce rebord.
+- Termine l'acte apres la collecte.
+
+[SUCCES] The Adventure Begins.
+
+[RUN DEDIEE] PROOF OF SPEED
+
+1. Rejoue l'acte en Time Attack.
+2. Depuis l'atterrissage, utilise la route haute : corniche, ressort, roue,
+   boosts et Flying Combo.
+3. Evite le detour du 1-Up s'il te ralentit.
+4. Saute avant le mur d'eau.
+5. Ne t'arrete pas sur les caisses retractables.
+6. Termine en 1:00 ou moins.
+
+[SUCCES] Proof of Speed.
+
+[ZONE] SYLVANIA CASTLE - ACT 2
+
+1. Descends la pente et casse les murs.
+2. Apres le lancement, utilise Swim Combo vers le mur de droite.
+3. Descends jusqu'a la zone avec la boite de 10 Rings.
+4. Remonte sur la corniche superieure a droite de la boite.
+5. Utilise Swim Combo pour atteindre le boost a gauche.
+6. Reste sur le terrain haut quand l'eau monte et descend.
+7. Termine l'acte.
+
+[RED RING 02/13]
+
+- Apres la zone sous-marine et la boite de 10 Rings, remonte sur la corniche
+  haute.
+- Le Red Ring apparait sur la route de droite.
+- Saute vers la gauche quand tu le vois.
+- Termine l'acte sans mourir pour enregistrer la collecte.
+
+[ZONE] SYLVANIA CASTLE - ACT 3
+
+1. Le debut est sous l'eau : avance jusqu'au terrain sec.
+2. Monte avec Homing Attack et renverse la colonne.
+3. Utilise le boost puis attends le premier passage du Rolling Combo.
+4. Reste en boule sur les plateformes inclinables.
+5. Desactive le combo sur le ressort, puis utilise Homing Attack pour remettre
+   les plateformes a plat.
+6. Recommence sur les plateformes suivantes pour atteindre le haut.
+7. Avec Tails, utilise Flying Combo si une chute devient probable.
+8. Traverse la ligne de plateformes tournantes avec Rolling Combo.
+
+[RED RING 03/13]
+
+- Quand une colonne peut etre renversee pour atteindre les Rings situes dessous,
+  passe au-dessus de la colonne au lieu de descendre.
+- Le Red Ring est sur le sommet de la boucle qui suit.
+- Termine l'acte apres l'avoir pris.
+
+[SUCCES] Rolling Combo! apparait a la premiere activation du combo avec Sonic
+et Tails, dans cet acte.
+
+[ZONE] SYLVANIA CASTLE - BOSS
+
+- Le boss expose sa zone vulnerable pendant l'ouverture du mecanisme.
+- Les deux premiers coups sont simples ; ensuite utilise Flying Combo et
+  laisse Sonic tomber sur la cible au lieu de Homing Attack.
+- Apres le changement de pattern, surveille les tentacules qui se redressent :
+  leur angle indique la zone frappee.
+- Quand le laser balaie les surfaces, attaque avant son declenchement pour
+  interrompre la sequence.
+
+CONTROLE SYLVANIA
+
+□ Act 1 termine.
+□ Red Ring 01/13.
+□ Proof of Speed affiche.
+□ Act 2 termine.
+□ Red Ring 02/13.
+□ Act 3 termine.
+□ Red Ring 03/13.
+□ Rolling Combo! affiche.
+□ Boss termine.
+
+======================================================================
+CHAPITRE 2 - WHITE PARK ZONE
+======================================================================
+
+[ZONE] WHITE PARK - ACT 1
+
+1. Au premier boost, une avalanche se declenche : cours sans t'arreter.
+2. Au premier grand lancement, utilise Flying Combo vers la corniche haute.
+3. Pousse la boule de neige sur les Spikes pour ouvrir le passage.
+4. Dans la section de neige, utilise Rolling Combo pour creuser.
+5. Ne reste pas dans le tunnel : la neige se referme.
+6. Sur l'avalanche suivante, reste sur la route haute si possible.
+7. Utilise Homing Attack sur les Bubbles pour atteindre la corniche.
+8. Sors par la droite.
+
+[RED RING 04/13]
+
+- Apres le premier lancement, utilise Flying Combo vers la corniche haute a
+  droite.
+- Le Red Ring est sur cette route superieure, avant la section des boules de
+  neige.
+- Termine l'acte pour enregistrer le Ring.
+
+[ZONE] WHITE PARK - ACT 2
+
+1. Avance sur les rails du roller coaster.
+2. Rejoins l'alcove a droite et utilise le ressort vers l'avant-plan.
+3. Attends que les plateformes tournantes soient horizontales.
+4. Dans la section des rails gauche-droite, attends le mouvement vers la
+   droite, puis descends au centre.
+5. Utilise les springs pour remonter.
+
+[RED RING 05/13]
+
+- Dans la partie haute, ignore le ressort qui renvoie Sonic entre les deux
+  scenes.
+- Saute au-dessus de ce ressort pour franchir le trou.
+- Le Red Ring est sur cette trajectoire.
+- Recupere ensuite la boite de 10 Rings et reviens sur les rails.
+
+[ZONE] WHITE PARK - ACT 3
+
+1. Utilise les rails pour etre lance dans l'eau.
+2. Sous l'eau, collecte les bulles d'air et utilise Swim Combo.
+3. Passe vite les Steelions qui forment des blocs de glace.
+4. Apres la premiere sortie de l'eau, reste sur la route haute.
+5. Evite les plateformes qui ecrasent : la premiere est dangereuse par-dessus,
+   la seconde par-dessous.
+6. Utilise ressort puis Flying Combo pour remonter.
+7. Quand l'eau remonte, passe les Steelions en suivant les lignes de Rings.
+
+[RED RING 06/13]
+
+- Apres la premiere section d'eau, utilise Swim/Flying Combo pour atteindre
+  la corniche superieure.
+- Le Ring est sur la route haute avant le prochain passage sous l'eau.
+- Termine l'acte apres la collecte.
+
+[ZONE] WHITE PARK - BOSS
+
+- Le premier passage de Metal Sonic roule au sol : saute par-dessus.
+- Attaque uniquement lorsqu'il ne clignote pas en violet.
+- Quand la piste s'ouvre, utilise les ressorts pour garder la trajectoire.
+- Si la portion est detruite, saute le trou immediatement.
+- Pour le dernier coup, evite le roulage puis frappe apres son atterrissage.
+
+CONTROLE WHITE PARK
+
+□ Act 1 termine.
+□ Red Ring 04/13.
+□ Act 2 termine.
+□ Red Ring 05/13.
+□ Act 3 termine.
+□ Red Ring 06/13.
+□ Boss termine.
+
+======================================================================
+CHAPITRE 3 - OIL DESERT ZONE
+======================================================================
+
+[ZONE] OIL DESERT - ACT 1
+
+1. Prends la route haute apres le premier boost.
+2. Evite les Scarabesques et leurs rochers explosifs.
+3. Traverse les quicksands sans t'arreter.
+4. Utilise Flying Combo pour passer au-dessus des groupes.
+5. Sous les plateformes, attends l'explosion du rocher avant de traverser le
+   sol fragile.
+6. Sur les vents, reste dans la trajectoire des Rings.
+7. Dans la section de vol finale, repere la ligne de Rings qui monte.
+
+[RED RING 07/13]
+
+- Dans la derniere section de vent, suis la ligne de Rings ascendante.
+- Appuie sur saut au moment ou elle monte pour atteindre le Ring en haut a
+  droite.
+- Utilise ensuite le vent jusqu'a l'ouverture.
+- Les Flamers peuvent rendre l'approche dangereuse : n'attaque pas de face.
+
+[ZONE] OIL DESERT - ACT 2
+
+1. Au debut, descends sur la nappe d'huile.
+2. Saute en plein vol pour atteindre la plateforme avec le ressort incline.
+3. N'utilise pas ce ressort.
+4. Utilise Rolling Combo pour remonter la nappe d'huile vers la gauche.
+5. Quand Sonic touche le mur, saute et deroule-toi sur la plateforme.
+
+[RED RING 08/13]
+
+- Le Ring est le premier collectible difficilement accessible au debut de
+  l'acte.
+- Suis exactement la route nappe d'huile -> plateforme avec ressort incline
+  -> Rolling Combo vers la gauche.
+- Deroule-toi en touchant le mur pour prendre le Red Ring.
+- Redescends ensuite sur l'huile et poursuis vers la sortie.
+
+[ZONE] OIL DESERT - ACT 3
+
+1. Le niveau contient trois sections de quicksand.
+2. Reste devant le sable.
+3. Dans la deuxieme section, casse rapidement les murs solides avec trois
+   Homing Attacks.
+4. Traverse les surfaces vertes fragiles avant que le sable ne monte.
+5. Utilise Flying Combo au-dessus des boites de charbon.
+6. Prends l'invincibilite en bas a droite pour traverser les Flamers.
+7. Utilise Pinball Crash pour detruire les Flamers et casser les murs.
+8. Dans la derniere section, reste sur la corniche haute gauche.
+
+[RED RING 09/13]
+
+- Dans la derniere quicksand, utilise Flying Combo vers la corniche haute
+  gauche.
+- Le Red Ring est sur cette corniche.
+- Redescends et charge Spin Dash quand le sable couvre les pointes basses.
+- Sors avant que le sable ne rattrape Sonic.
+
+[ZONE] OIL DESERT - BOSS
+
+- Grimpe pendant que les blocs tombent ; les fleches rouges indiquent le
+  prochain point de chute.
+- Frappe le boss seulement quand le dome s'ouvre.
+- Utilise Flying Combo avec les queues de Tails.
+- Evite les blocs a pointes et les bombes a compte a rebours.
+- Quand les blocs cessent et que le boss remonte, utilise Flying Combo.
+- Pour le dernier impact, attends son second saut vers l'avant puis frappe le
+  pied avec Rolling Combo.
+
+CONTROLE OIL DESERT
+
+□ Act 1 termine.
+□ Red Ring 07/13.
+□ Act 2 termine.
+□ Red Ring 08/13.
+□ Act 3 termine.
+□ Red Ring 09/13.
+□ Boss termine.
+
+======================================================================
+CHAPITRE 4 - SKY FORTRESS ZONE
+======================================================================
+
+[ZONE] SKY FORTRESS - ACT 1
+
+1. Il n'y a pas de panneau de fin classique : l'acte se termine lorsque Metal
+   Sonic tombe ou se retire.
+2. Utilise Tornado Boost contre les caisses solides, les Bubbles et les
+   groupes au sol.
+3. Durant la section rapide, garde la position au centre de l'ecran.
+4. Evite les lasers de Metal Sonic.
+5. Contre les Turtloids empiles, detruis celui du bas, utilise sa carapace et
+   enchaine Homing Attack.
+6. Utilise Tornado Boost pour renvoyer les boulets.
+7. Huit impacts font tomber Metal Sonic.
+
+[RED RING 10/13]
+
+- Dans la section aerienne rapide, prends les deux premiers groupes de Rings.
+- Ne suis pas le groupe suivant immediatement : passe au-dessus du missile.
+- Redescends ensuite pour toucher le Red Ring.
+- Reprends la ligne de Rings et les Tornado Boosts.
+- Termine l'acte apres Metal Sonic.
+
+[SUCCES] Metal Sonic Falls.
+
+[ZONE] SKY FORTRESS - ACT 2
+
+1. Descends puis utilise le ressort et les propellers pour remonter.
+2. Prends la route haute sur la zero-gravity fence.
+3. Garde le mouvement pour ne pas tomber.
+4. Utilise les boosts en zigzag.
+5. Prends l'invincibilite avant les Clucks, Fullboars et jets de feu.
+6. Attends que le feu du moteur se retire avant le Spin Dash.
+7. Utilise Pinball Crash contre les Clucks.
+
+[RED RING 11/13]
+
+- Sur la zero-gravity fence de la fin, monte puis redescends legerement apres
+  le mur.
+- Le Red Ring est sur cette portion, avant la sortie.
+- Utilise Flying Combo pour atterrir sans perdre l'appui.
+
+[ZONE] SKY FORTRESS - ACT 3
+
+1. Homing Attack sur les capuchons des canons pour entrer dedans.
+2. Dans les vagues de feu, laisse passer les premiers jets.
+3. Descends pres des panneaux orange et utilise Flying Combo sous les flammes.
+4. Dans la derniere serie, un saut rythme suffit.
+5. Evite d'etre ecrase entre les plateformes.
+6. Attends que les flammes s'eteignent avant de tenter le rebord.
+
+[RED RING 12/13]
+
+- Apres un canon, rejoins le rebord superieur avant la section de flammes.
+- Attends que les jets s'eteignent.
+- Fais un Spin Dash depuis le bord pour prendre le Red Ring.
+- Saute aussitot vers le bas avant le retour des flammes.
+- Flying Combo et ressorts permettent de rejoindre la sortie.
+
+[ZONE] SKY FORTRESS - BOSS
+
+- Vise le cockpit quand Metal Sonic est accessible.
+- Lorsque les quatre lasers partent ensemble, profite du court espace pour
+  courir a droite et frapper.
+- Quand il tire les lasers vers le haut, il est invulnerable.
+- Dans la phase avec Balkiries, suis la ligne fine qui indique le laser.
+- Dans la tempete de missiles, lis la fleche haute/basse.
+- Termine avec Plane Charge.
+
+CONTROLE SKY FORTRESS
+
+□ Act 1 termine.
+□ Red Ring 10/13.
+□ Metal Sonic Falls affiche.
+□ Act 2 termine.
+□ Red Ring 11/13.
+□ Act 3 termine.
+□ Red Ring 12/13.
+□ Boss termine.
+
+======================================================================
+CHAPITRE 5 - DEATH EGG MK. II
+======================================================================
+
+[ZONE] DEATH EGG MK. II - ACT 1
+
+1. Avance jusqu'au combat avec Eggman et Metal Sonic.
+2. Eggman est protege : frappe Metal Sonic lorsqu'il ne produit pas
+   l'etincelle violette.
+3. Quand Eggman monte, saute par-dessus Metal Sonic et attends la fin de la
+   boule d'energie avant l'Homing Attack.
+4. Utilise Rolling Combo contre les charges d'Eggman.
+5. Dans la section de course, garde la vitesse avec Rolling Combo.
+6. Quand le combo ralentit, deroule-toi puis relance-le.
+7. Une defaite dans la course tue Sonic : reste au centre de la route.
+
+[RED RING 13/13]
+
+- Dans la section ou une plateforme monte vers un ressort du mur gauche,
+  ignore ce ressort.
+- Saute par-dessus et utilise Flying Combo vers le coin superieur gauche.
+- Le Red Ring est sur cette trajectoire.
+- Redescends puis poursuis jusqu'a la course.
+
+[ZONE] DEATH EGG MK. II - FINAL BOSS
+
+1. Recupere les Rings du debut.
+2. Le boss se trouve au centre de trois anneaux concentriques.
+3. Traverse les anneaux jusqu'a la partie haute du coeur.
+4. Frappe la cible puis reviens vers l'anneau de depart.
+5. Ne reste pas trop longtemps sur le troisieme anneau.
+6. Apres la premiere frappe, certains panneaux deviennent electriques.
+7. Apres la deuxieme, des lasers compliquent les retours.
+8. Lorsque des segments du deuxieme anneau disparaissent, utilise Rolling
+   Combo pour franchir la barriere.
+9. Place le dernier impact.
+
+[SUCCES] All Stages Cleared! apres le dernier combat et la fin.
+[SUCCES] All Red Star Rings Found! apres 13/13 ; si la notification attend
+la validation finale, termine le boss puis regarde l'ecran de fin.
+
+CONTROLE CAMPAGNE
+
+□ Sylvania Castle 3/3 + boss.
+□ White Park 3/3 + boss.
+□ Oil Desert 3/3 + boss.
+□ Sky Fortress 3/3 + boss.
+□ Death Egg Mk. II Act 1 + boss.
+□ Red Star Rings 13/13.
+□ All Stages Cleared! affiche.
+□ All Red Star Rings Found! affiche.
+
+======================================================================
+SPECIAL STAGES ET LES 7 CHAOS EMERALDS
+======================================================================
+
+[ACCES]
+
+1. Termine un acte avec 50 Rings ou plus.
+2. Saute dans le Giant Ring apres la ligne de fin.
+3. Les sept Special Stages s'obtiennent dans l'ordre.
+4. La route la plus simple est de changer d'acte a chaque emeraude.
+5. Death Egg Act 1 n'a pas besoin de fournir un Giant Ring : utilise les
+   actes principaux avant lui.
+
+[CONSEILS]
+
+- Appuie sur la commande de boost pour attirer plusieurs Rings proches.
+- Les Rings sont necessaires pour franchir les seuils de chaque phase.
+- Anticipe les changements de voie ; ne corrige pas au dernier instant.
+- Utilise les bonus de temps sans quitter la ligne de Rings.
+- La septieme Special Stage est plus exigeante : utilise un acte facile pour
+  l'ouvrir afin de ne pas arriver fatigue d'un acte difficile.
+
+[SUCCES] All Chaos Emeralds Found! apres la septieme emeraude.
+
+======================================================================
+SPECIAL STAGE 1 - RING COLLECTOR
+======================================================================
+
+Objectif de reference : 314/314 Rings, puis fin de la Special Stage.
+
+PHASE 1
+
+- Milieu.
+- Droite.
+- Milieu.
+- Gauche.
+- Milieu.
+- Milieu.
+- Milieu.
+- Gauche.
+- Milieu.
+
+PHASE 2
+
+- Droite.
+- Milieu.
+- Milieu.
+- Milieu.
+- Gauche.
+- Milieu.
+- Droite.
+- Milieu.
+- Gauche.
+- Sur cette derniere trajectoire, pousse jusqu'au bout pour prendre les
+  Rings lateraux puis utilise Tails pour recuperer les autres groupes.
+
+PHASE 3
+
+- Milieu.
+- Gauche.
+- Droite.
+- Saute pour le groupe de 10 Rings.
+- Reste au milieu jusqu'au bonus de Rings.
+- Dans le bonus final : Milieu, Droite, Milieu, Gauche, Milieu.
+
+1. Le total de reference est 294 Rings de parcours + 20 du bonus = 314.
+2. Evite tous les obstacles.
+3. Termine le stage apres le dernier groupe.
+
+[SUCCES] Ring Collector.
+
+GARDE-FOU :
+
+- Les Rings doivent etre tous pris dans la meme tentative.
+- Si tu meurs apres avoir ramasse un Red Ring dans un acte, refais l'acte :
+  la collecte peut ne pas etre conservee.
+- Ring Collector ne concerne que Special Stage 1.
+
+======================================================================
+A GOLDEN WAVE - TOUS LES BOSS EN SUPER SONIC
+======================================================================
+
+[PREPARATION]
+
+1. Obtiens les 7 Chaos Emeralds.
+2. Ouvre chaque combat depuis la carte.
+3. Dans chaque boss stage, collecte 50 Rings ou utilise les Rings disponibles
+   avant la transformation.
+4. Active Super Sonic avant les impacts importants.
+5. Termine les boss sans revenir a une partie normale.
+
+[COMBATS A VALIDER]
+
+- Sylvania Castle Boss.
+- White Park Boss.
+- Oil Desert Boss.
+- Sky Fortress Act 1 : Metal Sonic, si le menu le considere comme stage
+  de boss.
+- Sky Fortress Boss.
+- Death Egg Mk. II Final Boss.
+
+GARDE-FOU :
+
+- Pour ne laisser aucun doute, fais aussi Metal Sonic Falls en Super Sonic,
+  meme si la condition Steam peut ne compter que les combats etiquetes Boss.
+- Super Sonic consomme les Rings en continu : ramasse les boites entre deux
+  phases.
+- Rejoue un combat seul depuis la carte si le succes ne s'affiche pas.
+
+[SUCCES] A Golden Wave.
+
+======================================================================
+ENDURANCE RACE
+======================================================================
+
+Objectif : tous les stages sans revenir a la World Map.
+
+[RUN DEDIEE]
+
+1. Fais cette run apres avoir appris chaque zone et obtenu les collectes.
+2. Commence par Sylvania Castle Act 1.
+3. Termine les trois actes et le boss.
+4. Continue directement vers White Park.
+5. Termine les trois actes et le boss.
+6. Continue directement vers Oil Desert.
+7. Termine les trois actes et le boss.
+8. Continue directement vers Sky Fortress.
+9. Termine les trois actes, le combat de Metal Sonic et le boss.
+10. Continue vers Death Egg Mk. II.
+11. Termine Act 1 et le final boss.
+12. Regarde la fin.
+
+[REGLES]
+
+- Ne selectionne pas la World Map entre les stages.
+- Une pause est autorisee, mais ne valide pas une nouvelle zone depuis la
+  carte.
+- Les morts peuvent faire perdre du temps ; garde des vies et apprends les
+  sections de quicksand, avalanche et lasers avant la run.
+- Les Special Stages ne sont pas necessaires a cette run : fais-les sur une
+  autre route si elles te renvoient a la carte.
+
+[SUCCES] Endurance Race.
+
+======================================================================
+TAG PARTNER
+======================================================================
+
+1. Depuis le mode multiplayer, lance un acte avec deux joueurs.
+2. Termine l'acte ou le mode qui propose un score/temps.
+3. Ouvre l'ecran de resultats.
+4. Utilise la commande Upload pour envoyer le score ou le temps multiplayer.
+5. Attends la notification Steam.
+
+[SUCCES] Tag Partner.
+
+GARDE-FOU :
+
+- Un score solo ne suffit pas.
+- Le mode doit afficher Multiplayer.
+- Si l'upload echoue, verifie la connexion puis renvoie le record depuis
+  l'ecran de resultats sans refaire toute la campagne.
+
+======================================================================
+I LOVE TAILS
+======================================================================
+
+Objectif : jouer 50 fois avec Tails.
+
+1. Selectionne Tails comme personnage jouable quand l'ecran le permet.
+2. Termine des actes courts ou recommence des actes deja connus.
+3. Note le compteur : ne confonds pas apparition de Tails comme partenaire et
+   selection de Tails comme personnage.
+4. Rejoue 50 fois.
+5. Attends la notification.
+
+[SUCCES] I Love Tails.
+
+======================================================================
+EPISODE METAL - BONUS SANS NOUVEAUX SUCCES
+======================================================================
+
+Episode Metal se debloque lorsque Episode I et Episode II sont possedes sur
+le meme profil Steam. Il ne rajoute pas de succes a la liste des 12, mais
+termine-le pour la completion du contenu bonus.
+
+[ROUTE]
+
+1. Ouvre Episode Metal depuis l'ecran bonus.
+2. Termine l'acte reinterprete de Splash Hill.
+3. Termine l'acte reinterprete de Casino Street.
+4. Termine l'acte reinterprete de Lost Labyrinth.
+5. Termine l'acte reinterprete de Mad Gear.
+6. Controle la fin de chaque acte et le contenu bonus.
+7. Les objectifs de Red Star Rings, Special Stages et A Golden Wave de cette
+   fiche concernent la campagne principale Episode II, pas les quatre actes
+   Metal.
+
+CONTROLE EPISODE METAL
+
+□ Splash Hill bonus termine.
+□ Casino Street bonus termine.
+□ Lost Labyrinth bonus termine.
+□ Mad Gear bonus termine.
+□ Aucun succes supplementaire attendu.
+
+======================================================================
+ORDRE DE FINITION OPTIMAL
+======================================================================
+
+1. Campagne normale et 13 Red Star Rings.
+2. Les 7 Chaos Emeralds.
+3. Special Stage 1 avec 314 Rings.
+4. Les 12 actes principaux avec les collectes validees.
+5. Proof of Speed sur Sylvania Act 1.
+6. A Golden Wave sur tous les combats de boss.
+7. Tag Partner avec un upload multiplayer.
+8. I Love Tails a 50 selections.
+9. Endurance Race sans World Map.
+10. All Stages Cleared! et All Red Star Rings Found! controles.
+11. Episode Metal si les deux episodes sont possedes.
+
+======================================================================
+TABLE DE DEPANNAGE DES SUCCES
+======================================================================
+
+ROLLING COMBO! ABSENT
+
+- Rejoue Sylvania Castle Act 3.
+- Active le combo avec Sonic et Tails, pas seulement Flying Combo.
+- Attends la notification avant de quitter l'acte.
+
+PROOF OF SPEED ABSENT
+
+- Le chrono concerne Sylvania Castle Act 1.
+- Vise 1:00 ou moins.
+- Utilise la route haute, le boost et Flying Combo.
+- Evite le 1-Up et tout detour.
+
+RED STAR RINGS INCOMPLETS
+
+- Le total attendu est 13, pas 15.
+- Controle : Sylvania 3, White Park 3, Oil Desert 3, Sky Fortress 3, Death
+  Egg Mk. II 1.
+- Termine l'acte apres chaque Ring.
+- Si tu meurs, refais l'acte et verifie le compteur.
+
+RING COLLECTOR ABSENT
+
+- Special Stage 1 demande 314 Rings de reference.
+- Suis les choix de voie Phase 1, Phase 2 et Phase 3.
+- Le bonus final ajoute 20 Rings.
+- Une tentative incomplete ne valide pas le succes.
+
+A GOLDEN WAVE ABSENT
+
+- Les 7 Chaos Emeralds sont obligatoires.
+- Termine chaque combat avec Super Sonic.
+- Fais aussi le combat de Metal Sonic pour couvrir l'ambiguite du menu.
+- Verifie les boss depuis la carte un par un.
+
+ENDURANCE RACE ABSENT
+
+- Ne reviens pas a la World Map.
+- Recommence depuis Sylvania Act 1 dans une run dediee.
+- Termine les boss et Death Egg sans passer par l'ecran monde.
+
+TAG PARTNER ABSENT
+
+- Le score doit etre multiplayer.
+- Utilise Upload depuis l'ecran de resultats.
+- Un record solo ne suffit pas.
+
+I LOVE TAILS ABSENT
+
+- Selectionne Tails 50 fois comme personnage.
+- Note le compteur avant chaque serie de runs.
+- Termine l'acte pour que la selection soit enregistree.
+
+ALL STAGES CLEARED! ABSENT
+
+- Termine Death Egg Mk. II Final Boss.
+- Regarde l'ending complet.
+- Les Special Stages ne remplacent pas le dernier combat.
+
+======================================================================
 CHECKLIST FINALE - 12/12 SUCCES STEAM
+======================================================================
 
-- [ ] The Adventure Begins
-- [ ] Rolling Combo!
-- [ ] All Stages Cleared!
-- [ ] All Chaos Emeralds Found!
-- [ ] Metal Sonic Falls
-- [ ] Proof of Speed
-- [ ] Tag Partner
-- [ ] Endurance Race
-- [ ] Ring Collector
-- [ ] A Golden Wave
-- [ ] I Love Tails
-- [ ] All Red Star Rings Found!
+- [ ] The Adventure Begins - Sylvania Castle Act 1 termine.
+- [ ] Rolling Combo! - combo Sonic/Tails active.
+- [ ] All Stages Cleared! - dernier foe vaincu et fin vue.
+- [ ] All Chaos Emeralds Found! - 7/7 Chaos Emeralds.
+- [ ] Metal Sonic Falls - Metal Sonic vaincu dans Sky Fortress Act 1.
+- [ ] All Red Star Rings Found! - 13/13 Red Star Rings.
+- [ ] Proof of Speed - Sylvania Castle Act 1 en 1:00 ou moins.
+- [ ] Tag Partner - score ou temps multiplayer envoye.
+- [ ] Endurance Race - campagne sans retour a World Map.
+- [ ] A Golden Wave - tous les boss termines avec Super Sonic.
+- [ ] Ring Collector - 314/314 Rings de Special Stage 1.
+- [ ] I Love Tails - Tails selectionne 50 fois.
 
-VERIFICATION
+======================================================================
+VERIFICATION FINALE
+======================================================================
 
-- [ ] 12/12 succès Steam.
-- [ ] Chaos Emeralds, Red Star Rings, Metal, vitesse, endurance, Special Stage
-      et coopération contrôlés.
-- [ ] Aucun DLC séparé oublié.
-- [ ] Guide relu sans spoiler.
+□ 13/13 Red Star Rings.
+□ 7/7 Chaos Emeralds.
+□ 314 Rings de Special Stage 1.
+□ Sylvania Castle Act 1 sous une minute.
+□ Tous les boss valides avec Super Sonic.
+□ Un score multiplayer envoye.
+□ Tails joue 50 fois.
+□ Endurance Race terminee sans World Map.
+□ Episode Metal termine si le bonus est disponible.
+□ Les 12 succes sont visibles dans Steam.
+□ La fiche a ete relue sans spoiler narratif.
+
+======================================================================
+SOURCES DE VERIFICATION
+======================================================================
+
+- Steam Community - liste officielle des 12 succes :
+  https://steamcommunity.com/stats/203650/achievements
+- Steam Store - Episode II, quatre zones et Episode Metal :
+  https://store.steampowered.com/app/203650/Sonic_the_Hedgehog_4__Episode_II/
+- GameFAQs - parcours, emplacements des Red Rings et Special Stage 1 :
+  https://gamefaqs.gamespot.com/xbox360/623294-sonic-the-hedgehog-4-episode-ii/faqs/64663
+- Steam Community - guide video des Red Star Rings :
+  https://steamcommunity.com/sharedfiles/filedetails/?id=550189923
+- Sonic Wiki Zone - structure des zones et des actes :
+  https://sonic.fandom.com/wiki/Sonic_the_Hedgehog_4%3A_Episode_II
 
