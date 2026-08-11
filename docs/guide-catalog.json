@@ -144,6 +144,10 @@
     { "id": "sniper-elite-nazi-zombie-army", "title": "Sniper Elite: Nazi Zombie Army", "scope": "full-guide", "status": "draft", "file": "public/guides/sniper-elite-nazi-zombie-army.txt" },
     { "id": "the-forest", "title": "The Forest", "scope": "full-guide", "status": "draft", "file": "public/guides/the-forest.txt" },
     { "id": "sons-of-the-forest", "title": "Sons Of The Forest", "scope": "full-guide", "status": "draft", "file": "public/guides/sons-of-the-forest.txt" },
-    { "id": "green-hell", "title": "Green Hell", "scope": "full-guide", "status": "draft", "file": "public/guides/green-hell.txt" }
+    { "id": "green-hell", "title": "Green Hell", "scope": "full-guide", "status": "draft", "file": "public/guides/green-hell.txt" },
+    { "id": "stronghold-hd", "title": "Stronghold HD", "scope": "special", "status": "draft", "file": "public/guides/stronghold-hd.txt", "reason": "L'AppID Steam 40950 n'expose pas de succes Steam : guide de campagne, economie et sieges transparent." },
+    { "id": "stronghold-3", "title": "Stronghold 3 Gold", "scope": "special", "status": "draft", "file": "public/guides/stronghold-3.txt", "reason": "L'AppID Steam 47400 n'expose pas de succes Steam : guide des trois campagnes et des sieges historiques transparent." },
+    { "id": "stronghold-crusader-2", "title": "Stronghold Crusader 2", "scope": "full-guide", "status": "draft", "file": "public/guides/stronghold-crusader-2.txt" },
+    { "id": "stronghold-warlords", "title": "Stronghold: Warlords", "scope": "full-guide", "status": "draft", "file": "public/guides/stronghold-warlords.txt" }
   ]
 }

@@ -138,6 +138,10 @@
     { "id": "sniper-elite-nazi-zombie-army", "appId": 227100, "steamAchievements": 26, "guideType": "100-steam-campaign-collectibles-coop", "source": "https://steamcommunity.com/stats/227100/achievements" },
     { "id": "the-forest", "appId": 242760, "steamAchievements": 45, "guideType": "100-steam-survival-collectibles-coop", "source": "https://steamcommunity.com/stats/242760/achievements" },
     { "id": "sons-of-the-forest", "appId": 1326470, "steamAchievements": 32, "guideType": "100-steam-survival-story-collectibles-coop", "source": "https://steamcommunity.com/stats/1326470/achievements" },
-    { "id": "green-hell", "appId": 815370, "steamAchievements": 68, "guideType": "100-steam-survival-story-dlc-difficulty", "source": "https://steamcommunity.com/stats/815370/achievements" }
+    { "id": "green-hell", "appId": 815370, "steamAchievements": 68, "guideType": "100-steam-survival-story-dlc-difficulty", "source": "https://steamcommunity.com/stats/815370/achievements" },
+    { "id": "stronghold-hd", "appId": 40950, "steamAchievements": 0, "guideType": "special-no-steam-achievements-campaign-sieges", "source": "https://store.steampowered.com/app/40950/Stronghold_HD/" },
+    { "id": "stronghold-3", "appId": 47400, "steamAchievements": 0, "guideType": "special-no-steam-achievements-three-campaigns", "source": "https://store.steampowered.com/app/47400/Stronghold_3/" },
+    { "id": "stronghold-crusader-2", "appId": 232890, "steamAchievements": 81, "guideType": "100-steam-campaign-trails-dlc-multiplayer", "source": "https://steamcommunity.com/stats/232890/achievements" },
+    { "id": "stronghold-warlords", "appId": 907650, "steamAchievements": 102, "guideType": "100-steam-campaigns-dlc-trails-multiplayer", "source": "https://steamcommunity.com/stats/907650/achievements" }
   ]
 }

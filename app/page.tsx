@@ -2197,6 +2197,70 @@ const guides: Guide[] = [
       "A surveiller : les deux fins, Green Hell, Vegan, Pacifist et les compteurs de tribus.",
     meta: ["68/68 Steam", "Story + DLC", "Sans spoiler"],
   },
+  {
+    id: "stronghold-hd",
+    steamAppId: 40950,
+    title: "Stronghold HD",
+    eyebrow: "Firefly Studios",
+    subtitle: "Campagnes, economie et sieges dans l'ordre.",
+    count: "0 succes Steam",
+    file: "stronghold-hd.txt",
+    accent: "gold",
+    tag: "Soluce speciale",
+    description:
+      "Route de la campagne, de l'economie, des sieges, du Free Build et de l'escarmouche.",
+    highlight:
+      "A surveiller : cet AppID n'expose pas de succes Steam ; la fiche reste une soluce de campagne transparente.",
+    meta: ["0/0 Steam", "Campagne classique", "Solo / Multi"],
+  },
+  {
+    id: "stronghold-3",
+    steamAppId: 47400,
+    title: "Stronghold 3 Gold",
+    eyebrow: "Firefly Studios",
+    subtitle: "Trois campagnes et sieges historiques dans l'ordre.",
+    count: "0 succes Steam",
+    file: "stronghold-3.txt",
+    accent: "coral",
+    tag: "Soluce speciale",
+    description:
+      "Route des campagnes economique, principale et Blackstaff, puis des sieges et du sandbox.",
+    highlight:
+      "A surveiller : cet AppID n'expose pas de succes Steam ; les DLC et modes sont separes de la campagne.",
+    meta: ["0/0 Steam", "3 campagnes", "Sieges historiques"],
+  },
+  {
+    id: "stronghold-crusader-2",
+    steamAppId: 232890,
+    title: "Stronghold Crusader 2",
+    eyebrow: "Firefly Studios",
+    subtitle: "Campagnes, trails et DLC dans l'ordre.",
+    count: "81 succes Steam",
+    file: "stronghold-crusader-2.txt",
+    accent: "blue",
+    tag: "Guide 100 % Steam",
+    description:
+      "Route des campagnes, trails, quatre DLC, farms, Workshop et parties multijoueur.",
+    highlight:
+      "A surveiller : les objectifs Hard, les contraintes de trails, les quatre DLC et les victoires reseau.",
+    meta: ["81/81 Steam", "4 DLC", "Solo / Multi"],
+  },
+  {
+    id: "stronghold-warlords",
+    steamAppId: 907650,
+    title: "Stronghold: Warlords",
+    eyebrow: "Firefly Studios",
+    subtitle: "Campagnes, warlords et trails dans l'ordre.",
+    count: "102 succes Steam",
+    file: "stronghold-warlords.txt",
+    accent: "coral",
+    tag: "Guide 100 % Steam",
+    description:
+      "Route des neuf campagnes, warlords, trails, DLC, farms et escarmouches techniques.",
+    highlight:
+      "A surveiller : les runs sans poulets, les campagnes Hard/Extreme et les parties personnalisees.",
+    meta: ["102/102 Steam", "9 campagnes", "DLC et trails"],
+  },
 ];
 
 const steamHeaderUrl = (appId: number) =>

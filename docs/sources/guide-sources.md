@@ -1295,3 +1295,26 @@ conditions difficiles ; elles ne justifient jamais une copie mot a mot.
   https://store.steampowered.com/app/815370/Green_Hell/
 - Liste complete Green Hell, difficultes, Story et Spirits of Amazonia :
   https://www.exophase.com/game/green-hell-steam/achievements/
+
+## STRONGHOLD
+
+- Fiche Steam Stronghold HD, AppID 40950, campagne classique sans succes Steam :
+  https://store.steampowered.com/app/40950/Stronghold_HD/
+- Manuel Steam Stronghold HD, economie, campagnes et sieges :
+  https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/40950/manuals/Stronghold%20HD%20Manual%20-%20English.pdf
+- Fiche Steam Stronghold 3 Gold, AppID 47400, trois campagnes sans succes Steam :
+  https://store.steampowered.com/app/47400/Stronghold_3/
+- Manuel Steam Stronghold 3, campagnes, sandbox et modes de siege :
+  https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/47400/manuals/SH3_EN.pdf
+- Succes officiels Stronghold Crusader 2, AppID 232890, total 81 :
+  https://steamcommunity.com/stats/232890/achievements
+- Fiche Steam Stronghold Crusader 2, campagnes, trails, Workshop et DLC :
+  https://store.steampowered.com/app/232890/Stronghold_Crusader_2/
+- Liste complete Stronghold Crusader 2, 81 succes et quatre trails DLC :
+  https://www.exophase.com/game/stronghold-crusader-2-steam/achievements/
+- Succes officiels Stronghold: Warlords, AppID 907650, total 102 :
+  https://steamcommunity.com/stats/907650/achievements
+- Fiche Steam Stronghold: Warlords, campagnes, warlords et trails :
+  https://store.steampowered.com/app/907650/Stronghold_Warlords/
+- Liste complete Stronghold: Warlords, DLC, difficultes et trails :
+  https://www.exophase.com/game/stronghold-warlords-steam/achievements/

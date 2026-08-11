@@ -174,6 +174,13 @@ soluce chronologique classique n'apporterait rien.
 - Sons Of The Forest — guide publie : 32/32 succes Steam, campagne, collections, compagnons et deux fins
 - Green Hell — guide publie : 68/68 succes Steam, Story, difficultes, carte et Spirits of Amazonia
 
+### Stronghold
+
+- Stronghold HD — soluce speciale publiee : AppID 40950, 0/0 succes Steam, campagne et sieges
+- Stronghold 3 Gold — soluce speciale publiee : AppID 47400, 0/0 succes Steam, trois campagnes et sieges
+- Stronghold Crusader 2 — guide publie : 81/81 succes Steam, campagnes, trails et quatre DLC
+- Stronghold: Warlords — guide publie : 102/102 succes Steam, neuf campagnes, trails et DLC
+
 ## Futurs guides chronologiques (`planned`)
 
 ### Final Fantasy et RPG proches
@@ -188,10 +195,6 @@ soluce chronologique classique n'apporterait rien.
 
 ### Coopération ou campagne à route dédiée
 
-- Stronghold HD
-- Stronghold 3
-- Stronghold: Crusader 2
-- Stronghold: Warlords
 - The Escapists 2 — roadmap de défis plutôt que soluce classique
 - SEGA Mega Drive & Genesis Classics — guide de collection multi-jeux
 
