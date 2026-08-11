@@ -103,6 +103,10 @@
     { "id": "fallout-tactics", "appId": 38420, "steamAchievements": 0, "guideType": "special-no-steam-achievements-21-missions", "source": "https://store.steampowered.com/app/38420/Fallout_Tactics_Brotherhood_of_Steel/" },
     { "id": "fable-the-lost-chapters", "appId": 204030, "steamAchievements": 0, "guideType": "special-no-steam-achievements-30-keys-15-doors", "source": "https://store.steampowered.com/app/204030/Fable_-_The_Lost_Chapters/" },
     { "id": "fable-iii", "appId": 105400, "steamAchievements": 0, "guideType": "special-no-steam-achievements-royalty-collectibles", "source": "https://steamdb.info/app/105400/info/" },
-    { "id": "the-witcher-enhanced-edition", "appId": 20900, "steamAchievements": 0, "guideType": "special-no-steam-achievements-5-chapters-premium-modules", "source": "https://steamdb.info/app/20900/info/" }
+    { "id": "the-witcher-enhanced-edition", "appId": 20900, "steamAchievements": 0, "guideType": "special-no-steam-achievements-5-chapters-premium-modules", "source": "https://steamdb.info/app/20900/info/" },
+    { "id": "assassins-creed", "appId": 15100, "steamAchievements": 0, "guideType": "special-no-steam-achievements-420-flags-60-templars", "source": "https://steamdb.info/app/15100/info/" },
+    { "id": "assassins-creed-ii", "appId": 33230, "steamAchievements": 0, "guideType": "special-no-steam-achievements-100-feathers-20-glyphs", "source": "https://steamdb.info/app/33230/info/" },
+    { "id": "assassins-creed-brotherhood", "appId": 48190, "steamAchievements": 0, "guideType": "special-no-steam-achievements-101-flags-full-sync", "source": "https://steamdb.info/app/48190/info/" },
+    { "id": "assassins-creed-revelations", "appId": 201870, "steamAchievements": 48, "guideType": "100-steam-plus-lost-archive-license-check", "source": "https://steamcommunity.com/stats/201870/achievements" }
   ]
 }

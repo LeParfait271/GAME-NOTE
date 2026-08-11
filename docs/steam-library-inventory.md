@@ -185,10 +185,12 @@ soluce chronologique classique n'apporterait rien.
 ## Soluces spéciales sans succès Steam à vérifier (`special`)
 
 - Half-Life — AppID 70 sans succès Steam ; guide de campagne transparent
-- Assassin's Creed — pas de succès Steam sur l'édition visible ; soluce spéciale possible
-- Assassin's Creed II — pas de succès Steam sur l'édition visible
-- Assassin's Creed Brotherhood — pas de succès Steam sur l'édition visible
-- Assassin's Creed Revelations — statut des succès Steam contradictoire selon l'édition ; à vérifier avant toute promesse de 100 %
+- Assassin's Creed — guide publié : 0/0 Steam, 420 drapeaux et 60 Templiers
+- Assassin's Creed II — guide publié : 0/0 Steam, 100 plumes et 20 glyphes
+- Assassin's Creed Brotherhood — guide publié : 0/0 Steam, 101 drapeaux et
+  synchronisation complète ; le multijoueur est indisponible
+- Assassin's Creed Revelations — guide publié : 48 succès Steam ; les huit
+  succès de The Lost Archive demandent que le DLC soit présent dans la licence
 - S.T.A.L.K.E.R. — si les éditions Enhanced sont des doublons sans succès
 
 ## Exclusions prévues (`excluded`)

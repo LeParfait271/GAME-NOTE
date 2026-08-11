@@ -1637,6 +1637,70 @@ const guides: Guide[] = [
       "A surveiller : les transitions de chapitre et les branches de faction.",
     meta: ["0/0 Steam", "5 chapitres", "Sans spoiler"],
   },
+  {
+    id: "assassins-creed",
+    steamAppId: 15100,
+    title: "Assassin's Creed",
+    eyebrow: "Ubisoft Montreal",
+    subtitle: "420 drapeaux, 60 Templiers et la campagne complete.",
+    count: "0 succes Steam",
+    file: "assassins-creed.txt",
+    accent: "blue",
+    tag: "Guide special",
+    description:
+      "Route Director's Cut, investigations, citoyens, points et nettoyage du Royaume.",
+    highlight:
+      "A surveiller : 420 drapeaux, 60 Templiers et les investigations de chaque quartier.",
+    meta: ["0/0 Steam", "420 drapeaux", "Sans spoiler"],
+  },
+  {
+    id: "assassins-creed-ii",
+    steamAppId: 33230,
+    title: "Assassin's Creed II",
+    eyebrow: "Ubisoft Montreal",
+    subtitle: "100 plumes, 20 glyphes et les sequences PC dans l'ordre.",
+    count: "0 succes Steam",
+    file: "assassins-creed-ii.txt",
+    accent: "coral",
+    tag: "Guide special",
+    description:
+      "Route d'Ezio, villa, Codex, tombeaux, glyphes et contenus des sequences 12 et 13.",
+    highlight:
+      "A surveiller : les plumes sans carte, les six sceaux et le passage avant la sequence 14.",
+    meta: ["0/0 Steam", "100 plumes", "Sans spoiler"],
+  },
+  {
+    id: "assassins-creed-brotherhood",
+    steamAppId: 48190,
+    title: "Assassin's Creed Brotherhood",
+    eyebrow: "Ubisoft Montreal",
+    subtitle: "Rome, 101 drapeaux et synchronisation complete.",
+    count: "0 succes Steam",
+    file: "assassins-creed-brotherhood.txt",
+    accent: "gold",
+    tag: "Guide special",
+    description:
+      "Tours, guildes, recrues, six repaires, machines de Leonardo et contenu solo PC.",
+    highlight:
+      "A surveiller : les 18 drapeaux des repaires, les defis de guilde et les contraintes DNA.",
+    meta: ["0/0 Steam", "101 drapeaux", "Sans spoiler"],
+  },
+  {
+    id: "assassins-creed-revelations",
+    steamAppId: 201870,
+    title: "Assassin's Creed Revelations",
+    eyebrow: "Ubisoft Montreal",
+    subtitle: "48 succes, fragments et Lost Archive dans le bon ordre.",
+    count: "48 succes Steam",
+    file: "assassins-creed-revelations.txt",
+    accent: "coral",
+    tag: "Guide 100 % Steam",
+    description:
+      "Neuf sequences, Desmond, bombes, factions, 100 fragments et DLC a verifier.",
+    highlight:
+      "A surveiller : les 48 succes incluent Lost Archive ; verifie sa licence avant le 100 %.",
+    meta: ["48/48 Steam", "100 fragments", "DLC a verifier"],
+  },
 ];
 
 const steamHeaderUrl = (appId: number) =>

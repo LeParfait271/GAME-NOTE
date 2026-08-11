@@ -1042,3 +1042,38 @@ conditions difficiles ; elles ne justifient jamais une copie mot a mot.
   compteur de succes Steam, tandis que Fable III conserve des objectifs GFWL
   historiques ; The Witcher EE est solo sans succes Steam et inclut deux
   modules officiels. Aucun online ne complete le total Steam 0/0.
+
+## ASSASSIN'S CREED CLASSIQUE
+
+- Fiche SteamDB de Assassin's Creed, AppID 15100 :
+  https://steamdb.info/app/15100/info/
+- Parcours PC, points, drapeaux et Templiers de l'edition Director's Cut :
+  https://gamefaqs.gamespot.com/pc/935316-assassins-creed-directors-cut-edition/faqs/52638
+- Fiche SteamDB de Assassin's Creed II, AppID 33230 :
+  https://steamdb.info/app/33230/info/
+- Parcours des sequences 1 a 14 et activites d'Assassin's Creed II :
+  https://gamefaqs.gamespot.com/ps3/987424-assassins-creed-ii-bonfire-of-the-vanities/faqs/60391
+- Verification des plumes, glyphes, tombeaux et Codex d'Assassin's Creed II :
+  https://www.trueachievements.com/game/Assassins-Creed-2/walkthrough
+- Fiche SteamDB de Brotherhood, AppID 48190 :
+  https://steamdb.info/app/48190/info/
+- Fiche Steam Brotherhood et statut du multijoueur :
+  https://store.steampowered.com/app/48190/Assassins_Creed_Brotherhood/
+- Checklist des drapeaux, repaires, guildes et defis de Brotherhood :
+  https://steamcommunity.com/sharedfiles/filedetails/?id=1599779728
+- Manuel PC de Brotherhood et contenu solo :
+  https://cdn.steamstatic.com/steam/apps/48190/manuals/AssassinsCreed.pdf?t=1602600648
+- Fiche SteamDB de Revelations, AppID 201870 et DLC :
+  https://steamdb.info/app/201870/info/
+  https://steamdb.info/app/201870/dlc/
+- Liste Steam officielle des 48 succes de Revelations :
+  https://steamcommunity.com/stats/201870/achievements
+- Checklist de synchronisation et fragments de Revelations :
+  https://steamcommunity.com/sharedfiles/filedetails/?id=3411505049
+- Annonce Steam de l'ajout des succes de Revelations :
+  https://store.steampowered.com/news/posts/?appids=201870
+- Manuel et correctifs PC de Revelations :
+  https://cdn.steamstatic.com/steam/apps/201870/manuals/ReadMe.pdf?t=1602772760
+- Points verifies : Assassin's Creed, II et Brotherhood n'ont pas de compteur
+  Steam sur leurs AppID visibles ; Revelations en a 48. Les huit objectifs de
+  The Lost Archive restent soumis a la presence du DLC dans la licence Steam.
