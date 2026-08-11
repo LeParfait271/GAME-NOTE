@@ -1,0 +1,162 @@
+ASSASSIN'S CREED - DIRECTOR'S CUT EDITION
+GUIDE SPECIAL CHRONOLOGIQUE - SANS SPOILER
+
+Version de travail : 11 aout 2026
+
+Cette fiche couvre l'edition Steam PC AppID 15100. Elle n'expose pas de liste
+Steam Achievements : le total est donc 0/0. Le 100 % utile de cette edition
+correspond a la campagne complete, aux investigations, aux sauvetages, aux
+points d'observation, aux 420 drapeaux et aux 60 Templiers.
+
+OBJECTIF REEL
+
+[ ] Prologue, les neuf blocs de memoire et la conclusion termines.
+[ ] Toutes les investigations et tous les sauvetages de citoyens valides.
+[ ] Tous les points d'observation synchronises : 12 Royaume, 26 Damas,
+    30 Acre et 24 Jerusalem.
+[ ] 420/420 drapeaux et 60/60 Templiers.
+[ ] 0/0 succes Steam : aucune liste Steam n'est disponible sur l'AppID.
+
+GARDE-FOUS ET MISSABLES
+
+- Fais une sauvegarde manuelle au debut de chaque bloc de memoire, avant la
+  mission d'assassinat et apres le retour a Masyaf. Le nettoyage reste
+  accessible apres la fin, mais ces saves rendent les verifications rapides.
+- Dans chaque ville, synchronise les points d'observation puis traite toutes
+  les icones de citoyens et d'investigation avant de lancer la cible locale.
+  Les enquetes sont la vraie route de preparation, pas du remplissage.
+- Les drapeaux et les Templiers ne sont pas definitivement missables. Ne les
+  melange pas aux investigations : marque-les dans une liste par zone et
+  controle le compteur des memoires supplementaires.
+- La version PC Director's Cut peut presenter une repartition d'investigations
+  un peu differente des consoles. Suis les icones disponibles dans ta carte
+  et valide chaque type : ecoute, pickpocket, interrogatoire et informateur.
+- Ce guide ne donne aucun nom de cible, mort, identite, trahison, fin ou twist.
+  Les numéros de bloc servent uniquement a naviguer dans l'ordre.
+
+ROUTE CHRONOLOGIQUE
+
+00 - MASYAF / PROLOGUE
+
+- Fais le tutoriel de déplacement, de combat, d'escalade et de synchronisation.
+- [ ] Controle la sauvegarde et les commandes avant de sortir de Masyaf.
+- Le prologue ne contient pas le nettoyage des 420 drapeaux ; les drapeaux de
+  Masyaf se feront plus facilement a la fin.
+
+01 - BLOC DE MEMOIRE 1 / DAMAS
+
+- Traverse le Royaume sans detour de collecte ; synchronise les points que la
+  route rend visibles et garde les drapeaux pour le nettoyage final.
+- A Damas, ouvre la carte des quartiers accessibles, synchronise les points
+  d'observation et sauve tous les citoyens reperes.
+- Complete toutes les investigations de la zone, puis verifie le journal avant
+  de lancer la mission principale locale.
+- Applique la contrainte de sortie de la mission, puis retourne a Masyaf.
+- [ ] Damas : points, citoyens et investigations disponibles valides.
+
+02 - BLOC DE MEMOIRE 2 / ACRE
+
+- A l'arrivee, fais les points d'observation du quartier accessible et les
+  sauvetages de citoyens avant les investigations.
+- Termine chaque enquete active, controle le nombre d'icones restantes puis
+  lance l'assassinat depuis le bureau de la ville.
+- Apres la fuite, n'ouvre pas une nouvelle zone au hasard : retour a Masyaf,
+  sauvegarde et passage au bloc suivant.
+- [ ] Acre : preparation complete et mission locale terminee.
+
+03 - BLOC DE MEMOIRE 3 / JERUSALEM
+
+- Synchronise les points de chaque quartier ouvert, puis traite les citoyens
+  et les quatre types d'investigation dans l'ordre que propose la carte.
+- Avant la cible, verifie que les raccourcis de fuite et les groupes de savants
+  sont connus. Cela aide a respecter la sortie sans reveler l'histoire.
+- Termine la mission et sauvegarde a Masyaf.
+- [ ] Jerusalem : preparation complete et mission locale terminee.
+
+04 - BLOC DE MEMOIRE 4 / DAMAS
+
+- Reviens dans les nouveaux quartiers de Damas. Synchronise tout ce qui est
+  nouvellement visible avant de faire les investigations.
+- Fais les missions d'informateur et de pickpocket sans laisser une icone
+  active dans le quartier de la cible.
+- Lance la mission, respecte sa contrainte de sortie et confirme le retour.
+- [ ] Damas : quartiers nouvellement ouverts controles.
+
+05 - BLOC DE MEMOIRE 5 / ACRE
+
+- Controle les hauteurs et les points d'observation du nouveau quartier avant
+  de descendre dans les zones denses.
+- Sauve les citoyens, finis toutes les enquetes et note les drapeaux apercus
+  sans interrompre la route principale pour les poursuivre.
+- Termine la mission et fais une sauvegarde avant de repartir.
+- [ ] Acre : nouveaux points, citoyens et investigations valides.
+
+06 - BLOC DE MEMOIRE 6 / JERUSALEM
+
+- Nettoie les icones d'investigation des quartiers nouvellement accessibles.
+- Fais les sauvetages de citoyens avant les missions d'informateur : les
+  savants et les groupes de fuite peuvent servir de reperes de trajet.
+- Termine la cible, confirme la sortie de mission et sauvegarde a Masyaf.
+- [ ] Jerusalem : preparation et mission du bloc terminees.
+
+07 - BLOC DE MEMOIRE 7 / DAMAS
+
+- Synchronise les derniers points de Damas que la progression rend visibles.
+- Valide les investigations restantes, puis verifie que le journal ne contient
+  plus de mission locale avant l'assassinat.
+- Apres la mission, ne commence pas encore le grand nettoyage des drapeaux :
+  la route du Royaume reste plus efficace apres la campagne.
+- [ ] Damas : toutes les icones de preparation de campagne fermees.
+
+08 - BLOC DE MEMOIRE 8 / ACRE
+
+- Fais les derniers points d'observation et sauvetages de citoyens d'Acre.
+- Termine les investigations, puis prepare une sauvegarde avant la mission.
+- Valide la sortie, retourne a Masyaf et controle le journal global.
+- [ ] Acre : toutes les icones de campagne fermees.
+
+09 - BLOC DE MEMOIRE 9 / JERUSALEM ET FIN
+
+- Termine les points, citoyens et investigations de Jerusalem encore visibles.
+- Lance la mission finale du bloc et conserve une sauvegarde avant la traversee
+  du Royaume vers la derniere zone.
+- Fais la mission de conclusion sans quitter la route principale. Apres les
+  credits, recharge la sauvegarde libre et passe au nettoyage.
+- [ ] Campagne complete, retour libre confirme.
+
+NETTOYAGE 100 % APRES LA CAMPAGNE
+
+1. Masyaf : 20 drapeaux. Fais le tour des hauteurs et des batiments avant de
+   quitter la forteresse.
+2. Royaume : 100 drapeaux et 30 Templiers. Divise la carte en nord, centre et
+   sud ; valide le compteur apres chaque secteur et ne voyage pas au hasard.
+3. Damas : 100 drapeaux. Controle les trois quartiers : pauvre 33, moyen 34,
+   riche 33. Il reste 10 Templiers dans la ville, repartis 3, 3 et 4.
+4. Jerusalem : 100 drapeaux. Controle pauvre 34, moyen 33, riche 33. Il reste
+   10 Templiers, repartis 3, 3 et 4.
+5. Acre : 100 drapeaux. Controle pauvre 33, moyen 33, riche 34. Il reste 10
+   Templiers, repartis 4, 3 et 3.
+6. Quand les compteurs de secteurs sont corrects, la somme doit etre 420/420
+   drapeaux et 60/60 Templiers. Si un compteur manque, recharge la save du
+   debut de secteur plutot que de repartir toute la carte.
+
+CHECKLIST FINALE
+
+[ ] Masyaf : 20/20 drapeaux.
+[ ] Royaume : 100/100 drapeaux et 30/30 Templiers.
+[ ] Damas : 100/100 drapeaux et 10/10 Templiers.
+[ ] Jerusalem : 100/100 drapeaux et 10/10 Templiers.
+[ ] Acre : 100/100 drapeaux et 10/10 Templiers.
+[ ] 12/12 points du Royaume, 26/26 de Damas, 30/30 d'Acre,
+    24/24 de Jerusalem.
+[ ] Citizens, investigations et campagne termines.
+[ ] 420/420 drapeaux, 60/60 Templiers.
+[ ] 0/0 succes Steam, sans gate online ni DLC Steam a ajouter.
+
+SOURCES DE VERIFICATION
+
+- Fiche SteamDB de l'AppID 15100 : https://steamdb.info/app/15100/info/
+- Parcours PC et repartition des drapeaux/Templiers :
+  https://gamefaqs.gamespot.com/pc/935316-assassins-creed-directors-cut-edition/faqs/52638
+- Fiche Steam : https://store.steampowered.com/app/15100/Assassins_Creed/
+
