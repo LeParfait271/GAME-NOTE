@@ -1,240 +1,693 @@
 STREETS OF RAGE 4
-GUIDE CHRONOLOGIQUE 100 % STEAM - SANS SPOILER
+GUIDE CHRONOLOGIQUE 100 % STEAM - SANS SPOILER NARRATIF
 
-Version de travail : 10 aout 2026
+Version : 11 aout 2026
+Plateforme : Steam
+Succes : 45 au total, dont 8 lies au DLC Mr. X Nightmare
 
-Ce guide couvre les 45 succes Steam, dont les 8 succes du DLC Mr. X
-Nightmare. Le 100 % est faisable sans matchmaking obligatoire, mais Oops,
-Somebody Call the Cops! se fait avec un deuxieme joueur local ou en ligne, et
-le DLC Mr. X Nightmare est necessaire pour les succes Estel, Shiva, Max,
-Roo et le mode Survival.
+PERIMETRE DE LA FICHE
 
-OBJECTIF
+Cette route couvre la campagne Story, les 12 stages et leurs actions de decor,
+les combos, les rangs S, l'Arcade, les personnages retro, les personnages du
+DLC, Survival, les mouvements alternatifs, les actions a deux joueurs et les
+45 succes Steam. Aucun retournement, aucune identite, aucune mort et aucune
+issue narrative ne sont detaillees.
 
-[ ] 45/45 succes Steam.
-[ ] Les 12 stages et tous les succes d'action specifiques.
-[ ] Tous les personnages de base, retro et DLC disponibles.
-[ ] All Clear pour les personnages demandes, en solo sans changer de perso.
-[ ] S sur un stage, puis S sur les 12 stages en Hard+.
-[ ] Arcade Hard+, Survival niveaux 18 et 30, mouvements alternatifs et 5 M
-    de score cumule.
+Si le DLC Mr. X Nightmare n'est pas installe, les 37 succes du jeu de base
+restent accessibles ; les 8 derniers necessitent le DLC.
+
+OBJECTIFS DE FIN DE PARCOURS
+
+[ ] Les 45 succes Steam, DLC compris.
+[ ] Les 12 stages termines et les succes de decor valides.
+[ ] Les personnages modernes, retro et DLC utilises pour les All Clear.
+[ ] Un rang S sur chaque stage en Difficile ou plus.
+[ ] Un stage termine en Mania et un stage sans degats.
+[ ] Arcade termine en Difficile ou plus.
+[ ] Survival niveau 18 puis niveau 30.
+[ ] Tous les mouvements alternatifs, y compris ceux de Roo.
+[ ] 5 000 000 de score historique atteint.
+
+COMMENT UTILISER LA ROUTE
+
+- Une action de stage peut etre refaite avec Selection de stage. Les actions
+  de decor ne sont donc pas definitivement perdues si tu les rates.
+- Pour un All Clear, lance Story en solo et garde le meme personnage pendant
+  les 12 stages. Easy suffit et le rang n'a pas d'importance.
+- Les rangs S ne demandent pas un seul run parfait : valide chaque stage avec
+  un S et conserve une liste des 12 stages.
+- Les assists de vies / etoiles facilitent les combats, mais reduisent le
+  score. Utilise-les pour les succes de completion et de combo, pas pour les
+  runs S.
+- En co-op, les deux joueurs peuvent aider pour l'Arcade, mais Oops demande
+  obligatoirement une partie a deux. Une seconde manette ou Steam Remote Play
+  suffit ; aucun matchmaking public n'est necessaire.
 
 GARDE-FOUS
 
-- Fais une premiere route Story en Easy ou Normal, en ramassant les objets de
-  stage dans l'ordre ci-dessous. Les actions specifiques peuvent etre
-  rejouees par selection de stage.
-- Pour un succes All Clear, lance la campagne en solo avec le personnage
-  choisi et ne change jamais de personnage sur les 12 stages. Easy suffit.
-- Pour les scores, laisse les combos monter et evite d'utiliser les coups
-  etoile quand tu vises un rang S : les etoiles conservees donnent des points.
-- Les noms de stages servent uniquement a naviguer. Rien dans ce guide ne
-  revele l'histoire, une identite, une mort ou une issue narrative.
+1. Fais une premiere campagne en Easy avec un personnage moderne. Elle sert a
+   apprendre les 12 stages et a obtenir les succes de progression.
+2. Ne change pas de personnage au milieu d'une campagne qui vise All Clear.
+   Un changement via Retry invalide le principe de la run : recommence la
+   campagne avec le personnage selectionne au depart.
+3. Pour les succes d'action de decor, lis la section du stage avant de partir.
+   Les ennemis peuvent etre vaincus avant que tu aies le temps de placer une
+   moto, un tonneau ou une boule.
+4. Pour Family Reunion, ne frappe jamais le poulet dore. Ramasse-le, porte-le
+   jusqu'a la reserve et depose-le avec le bouton de drop.
+5. Pour les combos, garde une zone avec plusieurs ennemis, utilise les objets
+   pour prolonger la chaine et ne depense pas les etoiles si tu vises un rang S.
+6. Pour Survival, ne depense pas tous les soins et etoiles sur les premieres
+   vagues. Les bonus sont plus importants quand les ennemis deviennent
+   nombreux.
 
 MISSABLES ET FENETRES A SECURISER
 
-- Les actions de decor sont des missables de stage : voiture, bouteille,
-  tonneau, trous, motos, lance, vitres, boule et lustre doivent etre valides
-  avant la sortie. La selection de stage permet de les refaire.
-- Family Reunion est la fenetre la plus fragile : porte le poulet dore jusqu'a
-  la reserve et pose-le, sans jamais l'utiliser comme arme.
-- Chaque All Clear demande une campagne solo complete avec le meme personnage;
-  les succes de score, Survival et mouvements alternatifs se nettoient apres
-  les campagnes et ne sont pas missables dans Story.
+- Les actions de decor sont manquables pendant une tentative, mais pas
+  definitivement : la Selection de stage permet de les refaire.
+- Family Reunion est la fenetre la plus fragile : le poulet dore devient
+  inutilisable pour le succes s'il est lance, frappe ou consomme.
+- Oops, Somebody Call the Cops! est le seul succes qui exige un deuxieme
+  joueur local ou via Steam Remote Play.
+- Un All Clear devient manquable dans la logique de la campagne si tu changes
+  de personnage en cours de route ; recommence alors la campagne complete avec
+  le personnage choisi.
 
-ROUTE STORY - STAGES 1 A 4
+PLAN OPTIMAL DES RUNS
 
-Stage 1 - The Streets
+RUN 1 - DECOUVERTE ET SUCCES DE STAGE
 
-- Ramasse un aliment au sol et consomme-le pour Eating off the Ground.
-- Quand la voiture percute le mur, detruis-la completement pour Dude, My Car?.
-- Pour Birth of the Cool, lance une arme contre un mur ou un ennemi puis
-  rattrape-la en l'air au bon moment.
-- Apprends le compteur de combo sans utiliser toutes tes etoiles ; 200 points
-  de degats dans une seule chaine valident Combo Pro.
+- Story Easy avec Axel, Blaze, Cherry, Floyd ou un autre personnage moderne.
+- Fais les actions des stages 1 a 12 dans les sections ci-dessous.
+- Valide les succes de progression, Throwback, les trois combos, Family
+  Reunion, Somebody Call the Cops! et les premiers scores.
 
-Stage 2 - Police Precinct
+RUNS 2 A 6 - ALL CLEAR MODERNES ET RETRO
 
-- Laisse un policier t'attraper, puis martèle les touches pour te liberer :
-  Life's a Struggle.
-- Utilise le pistolet a impulsion sur la borne d'arcade de la piece ouverte
-  pres des cellules. Cela ouvre le premier niveau retro de Throwback.
-- Pour le premier entrainement de combo, la difficulte Mania avec les bonus de
-  vies et d'etoiles est pratique, mais fais-le dans une tentative dediee.
+- Fais une campagne Story solo complete avec Axel moderne.
+- Fais la meme chose avec Blaze, Adam, Cherry et Floyd.
+- Fais une campagne avec un personnage de Streets of Rage 1, une avec un
+  personnage de Streets of Rage 2 et une avec un personnage de Streets of Rage
+  3. Une seule campagne par famille suffit.
+- Regroupe les personnages qui te manquent apres les avoir debloques par score
+  historique. Easy suffit pour toutes ces campagnes.
 
-Stage 3 - Cargo Ship
+RUN 7 - PERFORMANCE
 
-- Dans la salle du capitaine, casse la bouteille de vin contre un ennemi :
-  Wasted Wine.
-- Au debut de la scene, attire trois ennemis autour du tonneau ou d'une
-  grenade et provoque l'explosion pour Collateral Damage.
-- Atteins 500 points de degats dans une chaine pour Combo Expert. Recharge un
-  stage facile si le compteur est interrompu.
+- Obtiens un S facile sur un stage pour Stage Mastery.
+- Termine un stage en Mania pour All Too Easy.
+- Fais le stage 7 en Easy sans recevoir de degats pour Perfect.
+- Puis traite les 12 stages un par un en Difficile ou plus pour Maniac.
 
-Stage 4 - Old Pier
+RUN 8 - ARCADE ET DLC
 
-- Jette un ennemi dans un trou pour THIS IS WOOD OAK CITY!!!.
-- Rencontre Adam a la fin du stage pour Miss Me?.
-- Dans la salle marquee Arcade, utilise le taser sur la borne pour le niveau
-  retro correspondant a Throwback.
+- Termine Arcade en Difficile ou plus.
+- Fais Survival jusqu'au niveau 30, puis rejoue les runs necessaires pour les
+  mouvements alternatifs.
+- Fais les All Clear Estel, Shiva et Max en solo.
+- Debloque Roo, puis valide Clown Wars.
+- Termine les mouvements alternatifs de tous les personnages, Roo compris.
 
-ROUTE STORY - STAGES 5 A 8
+DEBUT DE PARTIE - MECANIQUES A APPRENDRE
 
-Stage 5 - Underground
+- Les coups speciaux consomment de la vie verte temporaire. Enchaine ensuite
+  avec des coups normaux pour recuperer cette vie avant de prendre un risque.
+- Un coup special defensif est utile pour sortir d'un encerclement, mais il
+  casse souvent une chaine de combo. Pour les succes de combo, prepare plutot
+  un espace avec des ennemis groupes.
+- Les etoiles sont des ressources offensives et des points de fin de stage.
+  Garde-les pendant les runs de rang S si tu peux.
+- Les armes lancees peuvent etre rattrapees. Lance une arme vers un mur ou un
+  ennemi puis appuie au moment ou elle revient a hauteur du personnage.
+- Ramasser une pomme ou un poulet valide Eating off the Ground quand l'objet
+  est consomme. Un soin utilise depuis le sol est le cas le plus simple.
 
-- Pendant le combat de fin, detruis toutes les motos presentes pour Walk on
-  Foot.
-- Dans le bar pres du panneau Heaven Man, utilise le taser sur la borne
-  d'arcade pour Throwback.
-- Une sauvegarde de selection de stage permet de recommencer la scene sans
-  refaire les stages precedents.
+ROUTE CHRONOLOGIQUE DES 12 STAGES
 
-Stage 6 - Chinatown
+STAGE 1 - THE STREETS
 
-- Dans la salle aux armes anciennes, frappe la lance jusqu'a la casser : Broke
-  My Toy.
-- Termine le stage pour Dojo Master.
-- Pour les combos, utilise les ennemis nombreux d'une section facile et garde
-  une issue de secours avec un coup special defensif.
+1. Festin a meme le sol / Eating off the Ground
 
-Stage 7 - Skytrain
+- Au premier passage avec un objet de soin au sol, ramasse-le puis consomme-le.
+- N'utilise pas l'objet uniquement comme projectile : il faut vraiment
+  recuperer de la vie.
 
-- Fais une tentative sans prendre de degat sur Easy. Skate SOR3 est un choix
-  confortable pour Perfect, mais tout personnage reste valide.
-- C'est aussi un bon stage pour Stage Mastery si tu vises un S avec beaucoup de
-  combo, de nourriture ramassee a pleine vie et d'etoiles conservees.
+2. Eh mec, ma caisse ? / Dude, My Car?
 
-Stage 8 - Art Gallery
+- Quand la voiture percute le mur au debut du stage, ne pars pas tout de
+  suite. Detruis completement la voiture avec les coups du personnage.
+- Le succes tombe quand la voiture est entierement cassee, pas quand elle a
+  seulement perdu une partie de sa barre de vie.
 
-- Brise la statue de poulet dore au debut, ramasse-la et transporte-la jusqu'a
-  la reserve. Ne l'utilise jamais comme arme : pose-la avec le bouton de drop,
-  puis elimine les ennemis pour Family Reunion.
-- Dans la reserve, utilise le taser sur la borne d'arcade pour le quatrieme
-  niveau retro de Throwback.
+3. Trop la classe / Birth of the Cool
 
-ROUTE STORY - STAGES 9 A 12
+- Ramasse une arme, lance-la contre un ennemi ou un mur, puis rattrape-la en
+  plein vol. Le timing est plus facile avec un objet lance a courte distance.
 
-Stage 9 - Y Tower
+4. Pro des combos / Combo Pro
 
-- Dans l'ascenseur, projette des ennemis sur les deux vitres et casse-les pour
-  It's Chilly in Here.
-- Termine le stage pour Snap Out of It.
+- Une chaine Super! demande 200 points de degats sans interruption.
+- Si tu rates la tentative dans le premier stage, garde-la pour le stage 2 en
+  Mania avec deux assists d'etoiles et trois vies : les assists facilitent la
+  survie, et le score n'a aucune importance pour ce succes.
 
-Stage 10 - To The Concert
+STAGE 2 - POLICE PRECINCT
 
-- Fais tomber une cible sous la boule de demolition pour Demolition Man.
-- La boule ne doit pas etre seulement touchee : l'ennemi doit mourir de son
-  impact.
+1. La vie est un combat / Life's a Struggle
 
-Stage 11
+- Laisse un policier t'attraper. Quand ton personnage est saisi, martèle les
+  touches d'attaque / direction pour te liberer.
+- Ne tue pas tous les policiers avant de laisser la saisie se produire.
 
-- Utilise ce stage pour completer Combo Master si le 1 000 degats n'est pas
-  encore tombe. Les ennemis de la section sont assez nombreux pour prolonger
-  une chaine avec les objets du decor.
+2. Comme au bon vieux temps / Throwback - borne 1
 
-Stage 12 - Y Island
+- Cherche la piece ouverte pres des cellules.
+- Recupere le pistolet a impulsion d'un policier, puis tire sur la borne
+  d'arcade. Le tir doit toucher la borne ; le simple fait de l'approcher ne
+  suffit pas.
+- Entre dans le niveau retro qui s'ouvre pour confirmer que la decouverte est
+  validee.
 
-- Dans le chateau, frappe le lustre quand un ennemi est dessous pour An Elegant
-  Death.
-- Termine le stage pour Old-Schooled.
-- Apres la premiere route, conserve la sauvegarde et passe au nettoyage des
-  personnages plutot que de refaire la campagne au hasard.
+3. Combo de secours
 
-COMBOS, RANGS ET DIFFICULTES
+- Le stage 2 est le meilleur endroit pour 200, 500 et 1 000 degats en combo.
+- Pour 500, utilise les ennemis du couloir et les objets sans laisser le
+  compteur redescendre. Pour 1 000, recommence le stage en Easy et garde les
+  groupes d'ennemis des zones larges.
 
-- Combo Pro : 200 degats dans une chaine, affichage Super!.
-- Combo Expert : 500 degats dans une chaine, affichage Amazing!!.
-- Combo Master : 1 000 degats dans une chaine, affichage Out of this world!!!.
-- Stage Mastery : rang S sur n'importe quel stage. Easy, score eleve et combo
-  long rendent le premier stage simple ; garde la nourriture a pleine vie.
-- Maniac : rang S sur les 12 stages en Hard ou plus. Le score se valide stage
-  par stage ; utilise la selection de stage et une route d'entrainement dediee.
-- All Too Easy : termine un stage en Mania. Le stage 1 est le plus court ;
-  l'assistance de vies / etoiles peut etre ajoutee apres le lancement.
-- Perfect : termine un stage sans prendre de degat. Le stage 7 en Easy est une
-  bonne tentative, mais recharge au moindre contact.
-- 100 Yen : termine le mode Arcade en Hard ou plus. Fais-le apres avoir appris
-  les 12 stages et garde une deuxieme manette si un co-op t'aide.
-- Bleeding Knuckles : atteins 5 000 000 de score de vie. Les points viennent
-  des fins de stage ; les premiers clears avec chaque personnage et les bons
-  rangs accelerent le compteur.
+STAGE 3 - CARGO SHIP
 
-ALL CLEAR - PERSONNAGES
+1. Degats collateraux / Collateral Damage
 
-Chaque ligne ci-dessous demande une campagne Story solo complete, stages 1 a
-12, sans changer de personnage. Easy suffit et il n'est pas necessaire de
-faire un rang S pour le succes All Clear.
+- Au debut, pousse trois ennemis autour du tonneau explosif dans le coin
+  inferieur droit, ou utilise une grenade si une explosion groupe est plus
+  facile.
+- Frappe le tonneau quand les trois ennemis sont dans le rayon, puis eloigne-
+  toi. Les trois ennemis doivent mourir de la meme explosion.
+- Easy est recommande : tu peux recommencer le placement sans perdre de vies.
 
-1. Axel, Blaze, Adam, Cherry et Floyd : personnages modernes.
-2. All Clear: SOR1 : termine avec un personnage SOR1.
-3. All Clear: SOR2 : termine avec un personnage SOR2.
-4. All Clear: SOR3 : termine avec un personnage SOR3.
-5. Mr. X Nightmare : termine en solo avec Estel, Shiva et Max.
+2. Vin gaspille / Wasted Wine
 
-Deblocage des personnages retro par score de vie : Axel SOR1 a 200 000,
-Adam SOR1 a 250 000, Blaze SOR1 a 310 000, Max SOR2 a 390 000, Axel SOR2 a
-480 000, Blaze SOR2 a 570 000, Skate SOR2 a 650 000, Axel SOR3 a 730 000,
-Blaze SOR3 a 840 000, Skate SOR3 a 940 000, Dr. Zan SOR3 a 1 050 000 et
-Shiva SOR3 a 1 150 000. Adam moderne se debloque apres le stage 4.
+- Dans la salle du capitaine, prends la bouteille de vin a cote du fauteuil.
+- Lance-la ou frappe un ennemi avec. La bouteille doit se briser, pas seulement
+  etre ramassee.
+
+3. Expert en combos / Combo Expert
+
+- Une chaine Amazing!! demande 500 degats.
+- Utilise les ennemis du stage 3 apres avoir valide la bouteille. Garde un
+  ennemi faible vivant pour relancer la chaine si le groupe est presque fini.
+
+STAGE 4 - OLD PIER
+
+1. C'EST COMME CA A WOOD OAK CITY !!!
+
+- Les trous du quai sont des zones de mise a mort. Frappe ou saisis un ennemi,
+  aligne-le sur un trou, puis projette-le dedans.
+- Le succes demande que la chute tue l'ennemi.
+
+2. Je vous ai manque ? / Miss Me?
+
+- Termine le stage. La rencontre liee a cette progression est validee a la
+  fin du stage, sans action cachee.
+
+3. Comme au bon vieux temps / Throwback - borne 2
+
+- Entre dans la salle portant le panneau Arcade par la porte laterale.
+- Utilise le pistolet a impulsion sur la borne d'arcade.
+- Le niveau retro associe s'ouvre immediatement ; termine ou quitte-le apres
+  l'apparition de l'ecran de transition.
+
+STAGE 5 - UNDERGROUND
+
+1. Marche a pied / Walk on Foot
+
+- Pendant le combat de fin, detruis toutes les motos presentes autour de la
+  zone. Ne termine pas la vague avant d'avoir casse chaque moto.
+- Si une moto sort de l'ecran, avance par petits pas et verifie les deux cotes
+  avant de vaincre le dernier ennemi.
+
+2. Comme au bon vieux temps / Throwback - borne 3
+
+- Dans le bar proche du panneau Heaven Man, recupere le pistolet a impulsion
+  puis tire sur la borne.
+- La borne doit produire la transition vers le niveau retro.
+
+STAGE 6 - CHINATOWN
+
+1. Jouet casse / Broke My Toy
+
+- Apres le combat contre le karatéka en tenue blanche, entre dans la salle des
+  armes anciennes.
+- Frappe la lance jusqu'a sa destruction. Elle demande plusieurs coups ; ne
+  quitte pas la piece apres le premier impact.
+
+2. Maitre du dojo / Dojo Master
+
+- Termine le stage et bats le combat de dojo qui le conclut.
+- Le succes tombe a la victoire ; aucun rang particulier n'est demande.
+
+STAGE 7 - SKYTRAIN
+
+1. Parfait / Perfect
+
+- Lance ce stage en Easy, de preference avec Skate SOR3 pour ses mouvements
+  rapides et son controle de distance. N'importe quel personnage reste valide.
+- Le succes demande de terminer tout le stage sans recevoir le moindre degat.
+  Au premier contact, fais Pause > Restart et recommence.
+- Utilise les armes a distance, les projections et les coups defensifs. Ne
+  prends pas de risque pour le score : la survie est le seul objectif.
+
+2. Maîtrise du niveau / Stage Mastery
+
+- Pour un premier rang S, rejoue le stage 1 en Easy.
+- Conserve la chaine le plus longtemps possible, ramasse la nourriture quand
+  ta vie est deja pleine pour le bonus de points et garde tes etoiles.
+- Le score de fin doit atteindre le seuil S affiche par le jeu. Le seuil peut
+  varier avec les assists : retire-les pour le run de score.
+
+STAGE 8 - ART GALLERY
+
+1. Reunion de famille / Family Reunion
+
+- Pres du debut, casse la statue de poulet dore.
+- Ramasse le poulet dore et porte-le pendant tout le chemin jusqu'a la
+  reserve. Ne le lance jamais, ne frappe aucun ennemi avec et ne le consomme
+  pas.
+- Dans la reserve, depose-le immobile avec le bouton de drop, puis elimine les
+  ennemis. La victoire dans la reserve valide le succes.
+- Si le poulet disparait ou est utilise comme arme, redemarre le stage.
+
+2. Comme au bon vieux temps / Throwback - borne 4
+
+- La borne se trouve dans la reserve, pres des poulets dores.
+- Recupere le pistolet a impulsion, tire sur la borne, puis controle l'ecran
+  de transition du niveau retro.
+
+STAGE 9 - Y TOWER
+
+1. Il fait froid ici / It's Chilly in Here
+
+- Dans l'ascenseur, projette des ennemis contre la vitre de gauche puis contre
+  celle de droite.
+- Les deux vitres doivent etre cassees pendant la meme section d'ascenseur.
+  Attire les ennemis vers le centre avant de les lancer pour eviter qu'ils
+  tombent hors de portee.
+
+2. Reveille-toi / Snap Out of It
+
+- Termine le stage. Le succes est lie au combat de fin du niveau et ne demande
+  pas de condition supplementaire.
+
+STAGE 10 - TO THE CONCERT
+
+Demolition Man
+
+- Dans la zone de la boule de demolition, attire un ennemi sous la trajectoire
+  de la boule.
+- Frappe le mecanisme ou attends que la boule passe, puis laisse l'impact tuer
+  l'ennemi. Une mise au sol par tes propres coups ne valide pas le succes.
+- Si l'ennemi meurt avant l'impact, recommence la section par Selection de
+  stage.
+
+STAGE 11 - TO THE CONCERT / SECTION DE NETTOYAGE
+
+- Il n'y a pas d'action de decor specifique a cocher ici. Utilise ce stage pour
+  terminer Combo Master si les 1 000 points manquent.
+- Une chaine Out of this world!!! demande 1 000 degats sans interruption.
+  Garde les ennemis faibles, exploite les armes et utilise les attaques qui
+  touchent plusieurs cibles sans depenser toutes les etoiles.
+- Ne vise pas le rang S lors de la premiere tentative de combo : le succes est
+  plus simple sur Easy avec des assists de vies.
+
+STAGE 12 - Y ISLAND
+
+1. Mort elegante / An Elegant Death
+
+- Dans le chateau, repere le lustre suspendu.
+- Attire un ennemi sous le lustre, frappe le mecanisme pour le faire tomber et
+  laisse l'impact tuer l'ennemi.
+- Si l'ennemi est seulement blesse, conserve la section ouverte et repete avec
+  une cible plus faible.
+
+2. Raclee a l'ancienne / Old-Schooled
+
+- Termine le stage. La victoire finale de ce stage valide le succes de
+  progression, sans condition de difficulte.
+
+3. Controle de sortie
+
+- Avant de quitter la campagne, verifie les cases des 12 stages et garde la
+  sauvegarde de la premiere run. Elle servira de base aux campagnes All Clear.
+
+COMBOS - PROCEDURES EXACTES
+
+COMBO PRO - 200 DEGATS
+
+- Lance Stage 1 ou Stage 2 en Easy.
+- Regroupe deux ou trois ennemis, alterne coups normaux, projections et armes.
+- Evite une chute ou un ennemi hors ecran : une chaine interrompue repart de
+  zero.
+
+COMBO EXPERT - 500 DEGATS
+
+- Stage 3 est pratique : garde un ennemi vivant dans la salle du tonneau et
+  fais entrer les suivants un par un.
+- Utilise l'explosion seulement si elle prolonge la chaine ; n'envoie pas tous
+  les ennemis hors de l'arene.
+
+COMBO MASTER - 1 000 DEGATS
+
+- Stage 11 ou Stage 2 en Easy avec trois vies d'assist sont les choix les plus
+  indulgents.
+- Commence avec une zone propre, ramasse les armes, puis enchaine les coups
+  rapides. Les coups speciaux defensifs servent a sortir du danger mais ne
+  doivent pas remplacer les coups qui alimentent la chaine.
+- Le texte de validation est Out of this world!!! ; c'est le meilleur repere
+  pour confirmer les 1 000 degats.
+
+PERFORMANCE, SCORES ET ARCADE
+
+STAGE MASTERY - UN RANG S
+
+- Le stage 1 en Easy est le plus court pour obtenir le premier S.
+- Garde le compteur de combo haut, finis avec peu de degats recus, conserve
+  les etoiles et ramasse la nourriture a pleine vie pour les points bonus.
+- Les assists retirent du score : desactive-les sur la tentative S.
+
+MANIAC - 12 RANGS S
+
+- Valide un S sur chacun des 12 stages en Difficile ou plus.
+- Les succes se cumulent stage par stage ; tu peux changer de personnage et
+  de sauvegarde entre les stages.
+- Tiens ce tableau de controle, independamment de l'ordre des tentatives :
+
+[ ] Stage 1 - The Streets
+[ ] Stage 2 - Police Precinct
+[ ] Stage 3 - Cargo Ship
+[ ] Stage 4 - Old Pier
+[ ] Stage 5 - Underground
+[ ] Stage 6 - Chinatown
+[ ] Stage 7 - Skytrain
+[ ] Stage 8 - Art Gallery
+[ ] Stage 9 - Y Tower
+[ ] Stage 10 - To The Concert
+[ ] Stage 11 - section de concert
+[ ] Stage 12 - Y Island
+
+ALL TOO EASY - MANIA
+
+- Lance le Stage 1 en Mania.
+- Au debut, ouvre Pause > Retry et active les assists de vies / etoiles si tu
+  veux securiser le clear. Les assists rendent le run plus facile et le rang
+  n'a aucune importance pour ce succes.
+- Termine le stage en Mania ; un seul stage suffit.
+
+PERFECT - SANS DEGATS
+
+- Stage 7 en Easy est la tentative recommandee. Skate SOR3 permet de garder
+  une bonne distance, mais le choix est libre.
+- Le moindre degat impose Restart. Les degats temporaires des coups speciaux
+  ne sont pas des degats recus : ne confonds pas la barre verte perdue avec un
+  impact ennemi.
+
+100 YEN - ARCADE
+
+- Ouvre Arcade, selectionne Difficile ou plus et termine la suite complete.
+- Les vies et continues sont limitees selon le mode : utilise une equipe que
+  tu connais plutot qu'un personnage en cours de deblocage.
+- Le co-op local / Remote Play facilite le run mais n'est pas obligatoire.
+- Le succes tombe a la sortie du dernier stage Arcade.
+
+BLEEDING KNUCKLES - 5 000 000 DE SCORE HISTORIQUE
+
+- Le score historique s'accumule apres les stages termines. Les premiers
+  clears avec chaque personnage et les rangs S sont les moyens les plus rapides
+  de le faire monter.
+- Ne cherche pas un run special au debut : les All Clear modernes, retro et
+  DLC approchent naturellement le total.
+- Controle le score depuis le menu avant de lancer le grind final. Si le total
+  reste court, refais Stage 1 en Easy avec un bon combo et sans assistants.
+
+ALL CLEAR - CAMPAGNES MODERNES
+
+REGLE COMMUNE
+
+- Menu Story, mode Solo, difficulte Easy.
+- Selectionne le personnage au depart et ne le change jamais jusqu'au stage 12.
+- Tu peux utiliser les continue, mais termine les 12 stages dans la meme
+  campagne Story.
+
+PERSONNAGES A VALIDER
+
+[ ] All Clear: Axel - campagne solo complete avec Axel moderne.
+[ ] All Clear: Blaze - campagne solo complete avec Blaze moderne.
+[ ] All Clear: Adam - campagne solo complete avec Adam moderne.
+[ ] All Clear: Cherry - campagne solo complete avec Cherry moderne.
+[ ] All Clear: Floyd - campagne solo complete avec Floyd.
+
+- Adam se debloque apres avoir termine le stage 4 de la campagne.
+- Les autres personnages modernes sont disponibles dans la selection de base.
+- Pour economiser du temps, fais d'abord la campagne de decouverte, puis les
+  campagnes Axel / Blaze / Cherry / Floyd / Adam en utilisant la Selection de
+  stage uniquement pour t'entrainer, pas pour remplacer la campagne complete.
+
+ALL CLEAR - PERSONNAGES RETRO
+
+Le score historique debloque les personnages retro. Le seuil est global et ne
+demande pas de gagner une partie particuliere avec le personnage concerne.
+
+[ ] Axel SOR1 - 200 000 points historiques.
+[ ] Adam SOR1 - 250 000 points historiques.
+[ ] Blaze SOR1 - 310 000 points historiques.
+[ ] Max SOR2 - 390 000 points historiques.
+[ ] Axel SOR2 - 480 000 points historiques.
+[ ] Blaze SOR2 - 570 000 points historiques.
+[ ] Skate SOR2 - 650 000 points historiques.
+[ ] Axel SOR3 - 730 000 points historiques.
+[ ] Blaze SOR3 - 840 000 points historiques.
+[ ] Skate SOR3 - 940 000 points historiques.
+[ ] Dr. Zan SOR3 - 1 050 000 points historiques.
+[ ] Shiva SOR3 - 1 150 000 points historiques.
+
+MISSION ACCOMPLIE : SOR1
+
+- Apres avoir debloque un personnage SOR1, fais une campagne Story solo
+  complete avec lui. Axel SOR1 est le premier choix pratique.
+
+MISSION ACCOMPLIE : SOR2
+
+- Fais une campagne complete avec Max, Axel SOR2, Blaze SOR2 ou Skate SOR2.
+
+MISSION ACCOMPLIE : SOR3
+
+- Fais une campagne complete avec Axel SOR3, Blaze SOR3, Skate SOR3, Dr. Zan
+  SOR3 ou Shiva SOR3.
 
 DLC MR. X NIGHTMARE - SURVIVAL
 
-- Phantom in the Hull : atteins le niveau 18 de Survival.
-- I Am the One : atteins le niveau 30. Utilise les objets de soin, garde les
-  etoiles pour les vagues dangereuses et apprends les apparitions plutot que
-  de changer d'equipement a chaque manche.
-- Ultimate Warrior : debloque tous les mouvements alternatifs d'un personnage.
-  Les personnages SOR1 sont rapides car ils n'ont qu'un mouvement alternatif.
-- The Possibilities Are Endless : debloque tous les mouvements alternatifs de
-  tous les personnages, y compris Roo. Termine plusieurs runs de Survival
-  avec chaque personnage jusqu'a ce que la liste soit complete.
-- All Clear: Estel, All Clear: Shiva et All Clear: Max : campagne Story solo
-  complete avec le personnage DLC correspondant.
+1. Fonctionnement
 
-ROO ET CLOWN WARS
+- Survival enchaine des niveaux de vagues et propose des choix de bonus entre
+  les affrontements.
+- Une defaite termine le run, mais les mouvements alternatifs debloques sont
+  conserves.
+- Choisis les soins quand la barre est basse, les etoiles pour les vagues
+  denses et les bonus de vitesse / degats quand ta survie est deja stable.
 
-- Roo appartient au contenu Mr. X Nightmare. Depuis le menu principal,
-  selectionne le mode Story et utilise la combinaison de deblocage indiquee
-  par le jeu / la manette pour le faire apparaitre dans la selection.
-- Lance un stage avec Roo, active son mouvement etoile et fais apparaitre trois
-  clowns / Bruces a l'ecran. Clown Wars se valide quand les trois sont presents.
-- Pour Oops, Somebody Call the Cops!, lance une partie a deux en local ou en
-  ligne, frappe ton allie une fois. Pour Somebody Call the Cops!, utilise un
-  personnage SOR1 et son coup Special : l'appel de police est intentionnel.
+2. Phantom in the Hull
 
-LISTE OFFICIELLE DES 45 SUCCES - CHECK FINAL
+- Atteins le niveau 18 dans une run Survival.
+- Le niveau 18 n'exige pas de battre le mode jusqu'a la fin : garde la run
+  active jusqu'a l'ecran de validation.
 
-[ ] Eating off the Ground  [ ] Combo Pro  [ ] Dude, My Car?
-[ ] Life's a Struggle  [ ] Birth of the Cool
-[ ] THIS IS WOOD OAK CITY!!!  [ ] Wasted Wine  [ ] Miss Me?
-[ ] Combo Expert  [ ] Dojo Master  [ ] Broke My Toy  [ ] Demolition Man
-[ ] Snap Out of It  [ ] Collateral Damage  [ ] It's Chilly in Here
-[ ] Old-Schooled  [ ] Walk on Foot  [ ] An Elegant Death
-[ ] Oops, Somebody Call the Cops!  [ ] Throwback  [ ] Combo Master
-[ ] Stage Mastery  [ ] All Too Easy  [ ] Phantom in the Hull
-[ ] Ultimate Warrior  [ ] All Clear: Axel  [ ] All Clear: Blaze
-[ ] I Am the One  [ ] All Clear: Adam  [ ] All Clear: Floyd
-[ ] All Clear: Shiva  [ ] 100 Yen  [ ] Family Reunion
-[ ] Bleeding Knuckles  [ ] All Clear: SOR1  [ ] Perfect
-[ ] Clown Wars  [ ] All Clear: SOR3  [ ] Maniac
-[ ] All Clear: Estel  [ ] All Clear: SOR2  [ ] All Clear: Max
-[ ] The Possibilities Are Endless  [ ] Somebody Call the Cops!
+3. I Am the One
+
+- Atteins le niveau 30 dans Survival.
+- La route la plus sure est de ne pas depenser toutes les etoiles avant les
+  combats difficiles, de conserver au moins un soin et d'eviter les bonus qui
+  retirent de la mobilite.
+- Niveau 30 valide aussi Phantom in the Hull si ce n'est pas deja fait.
+
+4. Ultimate Warrior
+
+- Debloque tous les mouvements alternatifs d'un personnage.
+- Les personnages SOR1 sont les plus rapides pour ce succes car leur liste de
+  mouvements alternatifs est plus courte. Fais des runs Survival avec le meme
+  personnage et verifie la liste dans la selection des coups.
+
+5. The Possibilities Are Endless
+
+- Debloque tous les mouvements alternatifs de tous les personnages.
+- La liste comprend les personnages modernes, retro et DLC, ainsi que Roo.
+- Les mouvements sont conserves entre les runs : ne recommence pas une liste
+  deja complete, passe au personnage dont les cases sont encore vides.
+- Controle chaque page de mouvements apres une run, car une victoire courte
+  peut n'en debloquer qu'une partie.
+
+6. All Clear DLC
+
+[ ] All Clear: Estel - Story solo complete, stages 1 a 12.
+[ ] All Clear: Shiva - Story solo complete, stages 1 a 12.
+[ ] All Clear: Max - Story solo complete, stages 1 a 12.
+
+- Easy suffit. La regle est identique aux personnages modernes : pas de
+  changement de personnage en cours de campagne.
+
+ROO, CLOWNS ET POLICE
+
+ROO - DEBLOCAGE
+
+- Depuis le menu principal, survole Story.
+- Avec une manette, maintiens le bouton Attack, appuie sur Haut, puis sur
+  Start. Avec un clavier, utilise l'equivalent Attack puis F1 / Start selon
+  les commandes affichees par le jeu.
+- Roo apparait dans la selection. Le contenu Mr. X Nightmare est necessaire.
+
+CLOWN WARS
+
+- Lance un stage avec Roo.
+- Ouvre Pause > Retry et ajoute l'assist de deux etoiles si tu veux accelerer
+  la recharge.
+- Utilise le mouvement etoile de Roo trois fois pour faire apparaitre trois
+  clowns / Bruces. Ne les tue pas entre deux utilisations : le succes demande
+  que les trois soient presents simultanement.
+- [VERIFIER] Clown Wars tombe lorsque l'armee de trois clowns est visible.
+
+SOMEBODY CALL THE COPS!
+
+- Selectionne n'importe quel personnage Streets of Rage 1.
+- En plein stage, execute son coup Special. L'appel de police est l'effet
+  attendu du personnage retro ; aucun ennemi precis n'est requis.
+
+OOPS, SOMEBODY CALL THE COPS!
+
+- Lance une partie Story, Arcade ou stage libre a deux joueurs, en local ou
+  avec Steam Remote Play.
+- Frappe une fois ton allie avec une attaque ou une projection.
+- Le succes demande le coup sur l'allie, pas l'appel de police du succes
+  precedent. Fais cette action dans une zone sans foule pour eviter de tuer
+  l'autre joueur avant le contact.
+
+FICHES RAPIDES DES 45 SUCCES
+
+01 - Eating off the Ground : consomme un objet de soin ramasse au sol.
+02 - Combo Pro : realise une chaine Super! a 200 degats.
+03 - Dude, My Car? : detruis la voiture du Stage 1.
+04 - Life's a Struggle : libere-toi d'une saisie.
+05 - Birth of the Cool : attrape une arme en plein vol.
+06 - THIS IS WOOD OAK CITY!!! : tue un ennemi en le projetant dans un trou.
+07 - Wasted Wine : casse la bouteille de vin du Stage 3.
+08 - Miss Me? : termine le Stage 4.
+09 - Combo Expert : realise une chaine Amazing!! a 500 degats.
+10 - Dojo Master : termine le Stage 6.
+11 - Broke My Toy : casse la lance du Stage 6.
+12 - Demolition Man : tue un ennemi avec la boule du Stage 10.
+13 - Snap Out of It : termine le Stage 9.
+14 - Collateral Damage : tue trois ennemis avec une explosion commune.
+15 - It's Chilly in Here : casse les deux vitres de l'ascenseur du Stage 9.
+16 - Old-Schooled : termine le Stage 12.
+17 - Walk on Foot : detruis toutes les motos du Stage 5.
+18 - An Elegant Death : tue un ennemi avec le lustre du Stage 12.
+19 - Oops, Somebody Call the Cops! : frappe un allie en co-op.
+20 - Throwback : active les quatre bornes retro avec le pistolet a impulsion.
+21 - Combo Master : realise une chaine Out of this world!!! a 1 000 degats.
+22 - Stage Mastery : obtiens un rang S sur un stage.
+23 - All Too Easy : termine un stage en Mania.
+24 - Phantom in the Hull : atteins le niveau 18 de Survival.
+25 - Ultimate Warrior : debloque tous les mouvements alternatifs d'un
+     personnage.
+26 - All Clear: Axel : termine les 12 stages en solo avec Axel moderne.
+27 - All Clear: Blaze : termine les 12 stages en solo avec Blaze moderne.
+28 - I Am the One : atteins le niveau 30 de Survival.
+29 - All Clear: Adam : termine les 12 stages en solo avec Adam.
+30 - All Clear: Floyd : termine les 12 stages en solo avec Floyd.
+31 - All Clear: Shiva : termine les 12 stages en solo avec Shiva.
+32 - All Clear: Cherry : termine les 12 stages en solo avec Cherry.
+33 - 100 Yen : termine Arcade en Difficile ou plus.
+34 - Family Reunion : porte le poulet dore de l'Art Gallery a la reserve.
+35 - Bleeding Knuckles : atteins 5 000 000 de score historique.
+36 - All Clear: SOR1 : termine les 12 stages avec un personnage SOR1.
+37 - Perfect : termine un stage sans degats.
+38 - Clown Wars : fais apparaitre trois clowns avec Roo.
+39 - All Clear: SOR3 : termine les 12 stages avec un personnage SOR3.
+40 - Maniac : obtiens un rang S sur les 12 stages en Difficile ou plus.
+41 - All Clear: Estel : termine les 12 stages avec Estel.
+42 - All Clear: SOR2 : termine les 12 stages avec un personnage SOR2.
+43 - All Clear: Max : termine les 12 stages avec Max.
+44 - The Possibilities Are Endless : debloque tous les mouvements alternatifs,
+     personnages DLC et Roo compris.
+45 - Somebody Call the Cops! : utilise le Special d'un personnage SOR1.
+
+CHECKLIST FINALE - 45 SUCCES STEAM
+
+[ ] Eating off the Ground
+[ ] Combo Pro
+[ ] Dude, My Car?
+[ ] Life's a Struggle
+[ ] Birth of the Cool
+[ ] THIS IS WOOD OAK CITY!!!
+[ ] Wasted Wine
+[ ] Miss Me?
+[ ] Combo Expert
+[ ] Dojo Master
+[ ] Broke My Toy
+[ ] Demolition Man
+[ ] Snap Out of It
+[ ] Collateral Damage
+[ ] It's Chilly in Here
+[ ] Old-Schooled
+[ ] Walk on Foot
+[ ] An Elegant Death
+[ ] Oops, Somebody Call the Cops!
+[ ] Throwback
+[ ] Combo Master
+[ ] Stage Mastery
+[ ] All Too Easy
+[ ] Phantom in the Hull
+[ ] Ultimate Warrior
+[ ] All Clear: Axel
+[ ] All Clear: Blaze
+[ ] I Am the One
+[ ] All Clear: Adam
+[ ] All Clear: Floyd
+[ ] All Clear: Shiva
 [ ] All Clear: Cherry
+[ ] 100 Yen
+[ ] Family Reunion
+[ ] Bleeding Knuckles
+[ ] All Clear: SOR1
+[ ] Perfect
+[ ] Clown Wars
+[ ] All Clear: SOR3
+[ ] Maniac
+[ ] All Clear: Estel
+[ ] All Clear: SOR2
+[ ] All Clear: Max
+[ ] The Possibilities Are Endless
+[ ] Somebody Call the Cops!
 
-VERIFICATION 100 %
+VERIFICATION FINALE
 
-- [ ] 45 succes coches dans Steam, DLC compris.
-- [ ] Les actions des stages 1 a 12 et les quatre bornes retro sont cochees.
-- [ ] All Clear moderne, retro et DLC realise en solo sans changement de
-    personnage.
-- [ ] Survival 18 / 30, mouvements alternatifs, Roo et 5 000 000 de points
-    confirmes.
-- [ ] Oops realise en local ou en ligne avec un deuxieme joueur.
-- [ ] Aucun detail d'histoire, d'identite ou d'issue narrative n'est revele.
+[ ] Steam affiche 45 succes, dont les 8 du DLC Mr. X Nightmare.
+[ ] Les actions des Stages 1, 2, 3, 4, 5, 6, 8, 9, 10 et 12 sont cochees.
+[ ] Les quatre bornes retro ont toutes ete activees.
+[ ] Les cinq campagnes modernes sont terminees en solo sans changement.
+[ ] Les campagnes SOR1, SOR2 et SOR3 sont terminees.
+[ ] Les campagnes Estel, Shiva et Max sont terminees en solo.
+[ ] Le tableau des 12 rangs S en Difficile ou plus est complet.
+[ ] Arcade Difficile ou plus, Mania, Perfect et 5 000 000 de score confirmes.
+[ ] Survival 18, Survival 30 et les mouvements alternatifs sont confirms.
+[ ] Roo, Clown Wars et les deux succes de police sont confirmes.
+[ ] Aucun spoiler narratif n'est necessaire pour suivre cette fiche.
 
 SOURCES DE CONTROLE
 
 - Steam, liste officielle des 45 succes :
   https://steamcommunity.com/stats/985890/achievements
-- Guide Steam 100 % avec le DLC Mr. X Nightmare :
+- Guide de reference des succes et du DLC :
   https://steamcommunity.com/sharedfiles/filedetails/?id=2087920263
+- Page de verification du contenu et des 45 succes :
+  https://www.trueachievements.com/game/Streets-of-Rage-4/dlc
+
+FIN DE LA FICHE - BONNE ROUTE
