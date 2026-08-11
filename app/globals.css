@@ -1086,6 +1086,10 @@ button {
   letter-spacing: 0.15em;
 }
 
+.card-index::before {
+  content: "ROUTE ";
+}
+
 .card-tag {
   max-width: calc(100% - 36px);
   overflow: hidden;
@@ -1170,8 +1174,9 @@ button {
   white-space: nowrap;
 }
 
-.card-eyebrow span {
+.card-eyebrow::after {
   color: var(--route-ink);
+  content: " / REPÈRE";
   letter-spacing: 0.08em;
 }
 

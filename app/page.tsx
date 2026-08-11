@@ -3341,7 +3341,7 @@ export default function Home() {
               key={guide.id}
             >
               <div className="card-top">
-                <span className="card-index">ROUTE {String(index + 1).padStart(2, "0")}</span>
+                <span className="card-index">{String(index + 1).padStart(2, "0")}</span>
                 <span className="card-tag">{guide.tag}</span>
               </div>
               <button
@@ -3364,7 +3364,7 @@ export default function Home() {
                   />
                 </div>
                 <div className="card-copy">
-                  <p className="card-eyebrow">{guide.eyebrow} <span aria-hidden="true">/ REPÈRE</span></p>
+                  <p className="card-eyebrow">{guide.eyebrow}</p>
                   <h3>{guide.title}</h3>
                   <p className="card-subtitle">{guide.subtitle}</p>
                   <div className="card-meta">
