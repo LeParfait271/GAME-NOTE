@@ -97,6 +97,9 @@
     { "id": "painkiller-redemption", "appId": 65560, "steamAchievements": 0, "guideType": "special-no-steam-achievements-8-levels-tarot", "source": "https://help.steampowered.com/en/wizard/HelpWithGameTechnicalIssue?appid=65560" },
     { "id": "legacy-of-kain-soul-reaver", "appId": 224920, "steamAchievements": 0, "guideType": "special-no-steam-achievements-6-glyphs", "source": "https://steamdb.info/app/224920/" },
     { "id": "legacy-of-kain-soul-reaver-2", "appId": 224940, "steamAchievements": 0, "guideType": "special-no-steam-achievements-4-forges", "source": "https://steamdb.info/app/224940/" },
-    { "id": "legacy-of-kain-defiance", "appId": 224300, "steamAchievements": 0, "guideType": "special-no-steam-achievements-13-chapters", "source": "https://store.steampowered.com/app/224300/Legacy_of_Kain_Defiance/" }
+    { "id": "legacy-of-kain-defiance", "appId": 224300, "steamAchievements": 0, "guideType": "special-no-steam-achievements-13-chapters", "source": "https://store.steampowered.com/app/224300/Legacy_of_Kain_Defiance/" },
+    { "id": "fallout", "appId": 38400, "steamAchievements": 0, "guideType": "special-no-steam-achievements-15-steps-water-chip", "source": "https://steamdb.info/app/38400/" },
+    { "id": "fallout-2", "appId": 38410, "steamAchievements": 0, "guideType": "special-no-steam-achievements-20-steps-geck", "source": "https://steamdb.info/app/38410/info/" },
+    { "id": "fallout-tactics", "appId": 38420, "steamAchievements": 0, "guideType": "special-no-steam-achievements-21-missions", "source": "https://store.steampowered.com/app/38420/Fallout_Tactics_Brotherhood_of_Steel/" }
   ]
 }

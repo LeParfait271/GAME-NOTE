@@ -962,3 +962,38 @@ conditions difficiles ; elles ne justifient jamais une copie mot a mot.
   Steam exposes ; les guides couvrent respectivement la campagne, les glyphes et
   ameliorations, les quatre forges, puis les 13 chapitres Kain/Raziel. Aucun
   online ni DLC autonome a ajouter.
+
+## FALLOUT CLASSIQUE
+
+- Fiche Steam officielle de Fallout, AppID 38400 :
+  https://store.steampowered.com/app/38400/Fallout_A_Post_Nuclear_Role_Playing_Game/
+- Fiche SteamDB et depot de Fallout :
+  https://steamdb.info/app/38400/
+- Route de Fallout 1, delai de la puce et villes :
+  https://strategywiki.org/wiki/Fallout/Walkthrough
+- Walkthrough PC croise de Fallout 1 :
+  https://gamefaqs.gamespot.com/pc/197289-fallout/faqs/8056
+- Fiche Steam officielle de Fallout 2, AppID 38410 :
+  https://store.steampowered.com/app/38410/Fallout_A_Post_Nuclear_Role_Playing_Game/
+- Fiche SteamDB et depot de Fallout 2 :
+  https://steamdb.info/app/38410/info/
+- Route des villes, du GECK et des branches de Fallout 2 :
+  https://strategywiki.org/wiki/Fallout_2/Walkthrough
+- Walkthrough PC de Fallout 2, quetes et objets :
+  https://gamefaqs.gamespot.com/pc/63576-fallout-2/faqs/16193
+- Walkthrough croise de Fallout 2 :
+  https://tartarus.rpgclassics.com/fallout2/walkthrough.php
+- Fiche Steam officielle de Fallout Tactics, AppID 38420 :
+  https://store.steampowered.com/app/38420/Fallout_Tactics_Brotherhood_of_Steel/
+- Manuel Steam de Fallout Tactics :
+  https://cdn.akamai.steamstatic.com/steam/apps/38420/manuals/Fallout%20Tactics%20English.pdf?t=1401982483
+- Liste des 21 missions et de Springfield bonus :
+  https://fallout.fandom.com/wiki/Fallout_Tactics_missions
+- Walkthrough version 1.27, objectifs et route :
+  https://www.gamebanshee.com/fallouttactics/walkthrough.php
+- Verification des recrues de Tactics :
+  https://fallout.fandom.com/wiki/Fallout_Tactics_recruits
+- Points verifies : les trois AppID Steam sont des editions solo sans liste de
+  succes Steam ; Fallout 1 est traite avec son delai d'eau, Fallout 2 avec ses
+  branches et objets de progression, et Tactics avec ses 21 missions, options,
+  recrues et vehicules. Aucun DLC ou online autonome a ajouter.

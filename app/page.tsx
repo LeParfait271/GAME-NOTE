@@ -1541,6 +1541,54 @@ const guides: Guide[] = [
       "A surveiller : les recharges, les portes de Reaver et les bonus de hauteur.",
     meta: ["0/0 Steam", "13 chapitres", "Sans spoiler"],
   },
+  {
+    id: "fallout",
+    steamAppId: 38400,
+    title: "Fallout",
+    eyebrow: "Black Isle Studios",
+    subtitle: "15 etapes, puce d'eau et delai maitrise.",
+    count: "0 succes Steam",
+    file: "fallout.txt",
+    accent: "blue",
+    tag: "Guide special",
+    description:
+      "Route des villes, compagnons, Glow et zones finales sans spoiler.",
+    highlight:
+      "A surveiller : le delai de la puce d'eau et les sauvegardes de factions.",
+    meta: ["0/0 Steam", "15 etapes", "Sans spoiler"],
+  },
+  {
+    id: "fallout-2",
+    steamAppId: 38410,
+    title: "Fallout 2",
+    eyebrow: "Black Isle Studios",
+    subtitle: "20 etapes, GECK et branches de factions.",
+    count: "0 succes Steam",
+    file: "fallout-2.txt",
+    accent: "coral",
+    tag: "Guide special",
+    description:
+      "Route des villes, quetes, compagnons, tanker et Enclave sans spoiler.",
+    highlight:
+      "A surveiller : Ghost Farm, New Reno et les objets du tanker.",
+    meta: ["0/0 Steam", "20 etapes", "Sans spoiler"],
+  },
+  {
+    id: "fallout-tactics",
+    steamAppId: 38420,
+    title: "Fallout Tactics",
+    eyebrow: "Micro Forté",
+    subtitle: "21 missions et objectifs optionnels.",
+    count: "0 succes Steam",
+    file: "fallout-tactics.txt",
+    accent: "gold",
+    tag: "Guide special",
+    description:
+      "Route des bunkers, recrues, vehicules et objectifs sans spoiler.",
+    highlight:
+      "A surveiller : Peoria, Quincy, St. Louis et les extractions.",
+    meta: ["0/0 Steam", "21 missions", "Sans spoiler"],
+  },
 ];
 
 const steamHeaderUrl = (appId: number) =>

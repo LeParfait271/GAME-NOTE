@@ -103,6 +103,9 @@ soluce chronologique classique n'apporterait rien.
 - Legacy of Kain: Soul Reaver (guide special sans succes Steam)
 - Legacy of Kain: Soul Reaver 2 (guide special sans succes Steam)
 - Legacy of Kain: Defiance (guide special sans succes Steam)
+- Fallout (guide special sans succes Steam)
+- Fallout 2 (guide special sans succes Steam)
+- Fallout Tactics: Brotherhood of Steel (guide special sans succes Steam)
 
 ## Futurs guides chronologiques (`planned`)
 
@@ -183,9 +186,6 @@ soluce chronologique classique n'apporterait rien.
 - Assassin's Creed II — pas de succès Steam sur l'édition visible
 - Assassin's Creed Brotherhood — pas de succès Steam sur l'édition visible
 - Assassin's Creed Revelations — statut des succès Steam contradictoire selon l'édition ; à vérifier avant toute promesse de 100 %
-- Fallout
-- Fallout 2
-- Fallout Tactics
 - Fable: The Lost Chapters
 - Fable III
 - The Witcher: Enhanced Edition
