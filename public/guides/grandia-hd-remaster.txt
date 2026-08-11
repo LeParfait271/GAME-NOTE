@@ -1,102 +1,1367 @@
 GRANDIA HD REMASTER
-GUIDE 100 % STEAM - 36 SUCCES STEAM - CHRONOLOGIQUE - SANS SPOILER
+GUIDE CHRONOLOGIQUE 100 % STEAM - 36 SUCCES STEAM - FICHE PREMIUM - SANS SPOILER NARRATIF
 
 Version de travail : 11 aout 2026
+Plateforme visee : Steam - AppID 1034860
 
-OBJECTIF
+======================================================================
+OBJECTIF DE COMPLETION
+======================================================================
 
-Cette route suit l'aventure dans l'ordre, place les objets importants avant les
-transitions et réserve le nettoyage des compteurs à la fin. Elle ne décrit
-aucun événement narratif : les noms de lieux et de succès servent seulement de
-repères pratiques.
+Cette fiche suit la version Steam de GRANDIA dans l'ordre utile. Elle ne se
+contente pas de recopier les succes : chaque grande zone possede un parcours,
+un inventaire de coffres et d'objets, les recompenses uniques, les boss et le
+point de sauvegarde a conserver avant de partir.
 
-PERIMETRE ET GARDE-FOUS
+Le 100 % de cette fiche signifie :
 
-- AppID Steam : 1034860. Le jeu couvre 36 succès Steam, sans DLC ni online.
-- Garde trois sauvegardes tournantes : début de zone, avant un donjon et avant
-  chaque départ définitif. Ne vends pas les Mana Eggs, les objets de quête ou
-  les armes uniques avant d'avoir contrôlé le journal.
-- Les combats et certains coffres peuvent être nettoyés par retour dans les
-  zones accessibles ; fais tout de même une sauvegarde avant chaque départ.
-- Route sans spoiler : aucun nom de personnage ou succès n'est commenté par
-  son rôle dans l'histoire.
+- 36/36 succes Steam.
+- Les 18 Mana Eggs, dans l'ordre de ramassage.
+- Les objets de quete : Spirit Stone, Sacred Nectar, Medal of Wisdom, Medal
+  of Knowledge, Horn of Knowledge et Spirit Sword.
+- Les deux objectifs secondaires de Parm : la lettre de Francois et la pin de
+  Marie.
+- Les trois activites a fenetre courte : allowance de Lilly, nettoyage du
+  pont et stowaway du navire.
+- Les trois donjons bonus : Soldier's Graveyard, Castle of Dreams et Tower of
+  Temptation, avec leurs boss et leurs recompenses principales.
+- La route principale, tous les boss nommes, les coffres rares et les gros
+  objets d'amelioration.
+- 2 500 monstres et 250 000 G obtenus sans devoir recommencer la partie.
 
-MISSABLES ET CONDITIONS RATABLES
+Le guide est sans spoiler narratif. Les villes, donjons, noms de boss,
+personnages et succes sont visibles parce qu'ils servent de reperes de route ;
+les revelations, les liens entre personnages et le contenu des scenes ne sont
+pas racontes.
 
-- Les premières étapes de progression, le Spirit Stone, le premier Mana Egg,
-  le Ghost Ship, la Sacred Nectar, les armes et les objets de connaissance
-  doivent être validés dès qu'ils deviennent accessibles.
-- Avant une transition de zone, termine les combats visibles, ouvre les coffres
-  latéraux et confirme les compteurs. En cas de doute, recharge la sauvegarde
-  de début de zone.
-- Les succès de fin de parcours et les compteurs de monstres peuvent être
-  nettoyés après l'aventure ; garde une sauvegarde avant le dernier départ.
+======================================================================
+COMMENT LIRE LA FICHE
+======================================================================
 
-ORDRE RECOMMANDE
+- [COFFRE] : coffre, bourse ou objet pose au sol a ramasser.
+- [OBJET UNIQUE] : objet qui ne doit pas etre vendu ou jete avant controle.
+- [MANA EGG] : un des 18 oeufs necessaires a Eggsellence.
+- [MISSABLE] : action a faire avant une transition qui ferme la zone.
+- [BOSS] : combat obligatoire ou bonus a preparer avec une sauvegarde.
+- □ : controle interne de route. Ces cases ne comptent pas comme succes.
+- Les directions utilisent le nord de la boussole du jeu.
+- Les montants G sont les poches et coffres d'or ; les nombres x N
+  indiquent le nombre total de points de ramassage de cette valeur.
 
-1. PARM ET PREMIERS COMBATS
+Quand une zone comporte beaucoup de petits coffres d'or, la fiche donne le
+chemin de balayage et le total de l'inventaire. Un trajet n'est pas valide tant
+que le total indique dans le bloc de controle n'est pas retrouve.
 
-- Termine l'introduction, gagne le premier combat et fais rejoindre Sue au
-  groupe : cela couvre Charge!, Besties et Growth Spurt.
-- Explore chaque maison et le port avant de quitter Parm. Ne saute aucun
-  coffre et garde les objets de soin pour les combats suivants.
-- Dans la première zone de combat, gagne quelques rencontres supplémentaires
-  jusqu'à ce que Little Green soit naturellement proche, sans farmer au point
-  de retarder la route.
+======================================================================
+PLAN DE SAUVEGARDES ET GARDE-FOUS
+======================================================================
 
-2. SULT ET DOM RUINS
+Conserve au minimum six emplacements tournants :
 
-- Acquiers le Spirit Stone dès que le détour est ouvert pour Icarian Energy
-  Item. Place le premier Mana Egg dans la sauvegarde et conserve-le.
-- Nettoie les coffres et les ennemis des ruines avant l'arène. Le combat du
-  Orc King valide Bringing Down the Orcs ; recharge si un objectif de zone a
-  été oublié.
-- Utilise les améliorations disponibles et remporte des combats réguliers
-  jusqu'à 50 victoires pour Little Green.
+□ S1 - Parm, avant la sortie vers Marna Road.
+□ S2 - Steamer, avant le premier nettoyage du pont.
+□ S3 - Dight, avant Typhoon Tower et avant le depart vers les Twin Towers.
+□ S4 - Zil Desert, avant d'entrer dans Soldier's Graveyard ou Castle of Dreams.
+□ S5 - East Savanna, avant Tower of Temptation et avant le retour vers Luzet.
+□ S6 - dernier point de sauvegarde avant Icarian City et Gaia.
 
-3. VOYAGE, BATEAU ET RUINES
+Regles simples :
 
-- Avant chaque embarquement, vérifie l'équipement de Justin, Feena et Sue.
-- Explore intégralement le Ghost Ship et le donjon associé pour Beneath the
-  Spooky Seas. Fais les combats sans fuir la première visite.
-- Recrute Feena et déclenche Professional On Board ; continue à faire monter
-  les armes et les compétences plutôt que l'expérience seule.
-- Dans les ruines suivantes, bats Ganymede pour Wrecked in the Ruins et prends
-  la Sacred Nectar pour Gift of the Gods.
+- Ne vends jamais un Mana Egg, un Seed, un Charm, un Bond of Trust, une arme
+  unique ou un objet de connaissance tant que l'inventaire n'a pas ete coche.
+- Dans les villes, parle aux habitants importants avant de dormir ou de partir.
+- Dans un donjon, ouvre d'abord les alcoves laterales puis active le point de
+  sauvegarde. Le point de sauvegarde ne remplace pas le controle des coffres.
+- Avant chaque boss, garde au moins une sauvegarde qui n'est pas la sauvegarde
+  automatique et equipe les protections contre l'etat dominant du combat.
+- Apres une scene de depart, ne suppose jamais qu'un ancien lieu restera
+  visitable. Les Mana Eggs et les donjons bonus sont traites avant leurs
+  fenetres de fermeture.
 
-4. GADWIN, RAPP ET LA GRANDEUR
+======================================================================
+MISSABLES : LA LISTE A RELIRE AVANT CHAQUE DEPART
+======================================================================
 
-- Fais les combats d'entraînement et valide Warrior Bud lorsque Gadwin rejoint
-  l'équipe. Prends Medal of Wisdom dès que le coffre est accessible.
-- Pendant le segment du train, sauvegarde avant l'objectif et termine la
-  séquence sans quitter les wagons latéraux : Train Robbers.
-- Les combats Massacre Machine, Gaia Battler et Gaia Trent doivent être
-  rejoués immédiatement si le succès ne s'affiche pas ; ne change pas de
-  difficulté en cours de tentative.
+1. PARM : allowance de Lilly
 
-5. FIN DU MONDE ET ALENT
+[MISSABLE] Dans la cuisine du Seagull Restaurant, parle a Lilly jusqu'a ce que
+le dialogue sur son apparence soit disponible. Choisis trois fois la reponse
+qui lui dit qu'elle est belle. Elle donne l'allowance et le succes Overdue
+Booty. Fais-le avant de partir pour le musee.
 
-- Ouvre toutes les alcôves et les coffres de l'End of the World avant le point
-  de sortie. Atteins son sommet pour The End is the Beginning.
-- Fais l'action de nettoyage du pont pour Swab Boss avant de quitter le navire.
-- Dans Alent, récupère Horn of Knowledge et valide Brilliant!, puis prépare
-  une sauvegarde séparée avant les combats de sortie.
-- Escape la Grandeur et General Baal pour Going Down, puis arrive à Alent pour
-  Spaced Out. Ne dépense pas les ressources rares avant le prochain atelier.
+2. PARM : lettre de Francois
 
-6. DERNIER PARCOURS ET NETTOYAGE
+[MISSABLE] Dans la maison du nord, monte a l'etage et parle plusieurs fois a
+Francois. Il confie une lettre pour Clara. Ne la perds pas : elle se remet a
+Clara dans la grande maison de l'est a New Parm. Le succes Speedy Delivery se
+valide a la remise.
 
-- Termine la route principale et valide Brawny Blade, Dream Catcher et Final
-  Foe dans l'ordre où les combats apparaissent.
-- Après la fin, recharge la sauvegarde de nettoyage : 250 000 gold, 1 000 puis
-  2 500 monstres, Klepp King, les combats manqués, les Mana Eggs et les
-  objectifs de vitesse. Les succès Speedy Delivery, Fast As Lightning,
-  Overdue Booty, Slayer of the Seas, Castle Bustin et Mum's the Word sont à
-  vérifier individuellement dans le journal Steam.
-- Ne ferme pas la dernière sauvegarde tant que les 36 cases ci-dessous ne sont
-  pas cochées.
+3. PARM : pin de Marie
 
+Ce n'est pas un succes, mais c'est le petit contenu secondaire a faire pour le
+100 %. Parle a Marie pres de la gare, cherche sa pin autour du musee, rends-la
+a Marie puis parle a sa mere dans le musee pour recevoir une Wound Salve.
+
+4. STEAMER : Swab Boss
+
+[MISSABLE] Avant toute tentative, cree S2. Pendant le nettoyage du pont,
+remplis la jauge sans la faire depasser et vise un temps inferieur a 26
+secondes. Le succes peut etre sensible au rythme : si le nettoyage ne valide
+pas Swab Boss, recharge S2 et recommence avant de quitter le navire.
+
+5. STEAMER / NEW PARM : Mum's the Word
+
+[MISSABLE] Sur le Steamer, inspecte les tonneaux et parle au stowaway dans la
+zone de repos jusqu'a ce que le dialogue se repete. A l'arrivee, inspecte aussi
+le tonneau mobile pres du quai et du port avant d'aller plus loin. Le succes
+Mum's the Word est verifie uniquement apres cette recherche complete.
+
+6. MANA EGGS
+
+[MISSABLE] Les 18 emplacements deviennent indisponibles a mesure que le
+scenario avance. Suis le registre de la section suivante : il ne faut pas
+attendre la fin pour completer les oeufs.
+
+7. DONJONS BONUS
+
+[MISSABLE] Soldier's Graveyard et Castle of Dreams sont dans le Zil Desert.
+Fais-les avant le depart definitif de la zone : Castle Bustin et Fast As
+Lightning ne doivent pas etre reportes a la fin.
+
+[MISSABLE] Tower of Temptation se trouve dans l'East Savanna. Fais-le apres le
+retour d'Alent, avant de repasser par Luzet Mountains et J Base. La tour est
+le chemin du succes Slayer of the Seas.
+
+======================================================================
+REGISTRE DES 18 MANA EGGS
+======================================================================
+
+Ramasse-les dans cet ordre. Le premier vient d'un boss ; les 17 autres sont
+des objets au sol ou dans des coffres.
+
+□ 01 - Ghost Ship : Squid King, dans la Captain's Cabin.
+□ 02 - Merrill Road : branche ouest de la grande zone avant Feena's House.
+□ 03 - New Parm Underground Passage : fond du passage, tunnel nord-est apres
+     avoir baisse le niveau de l'eau.
+□ 04 - West Rangle Mountains : passage nord de la jonction vers East Rangle.
+□ 05 - East Rangle Mountains : alcove nord-est en suivant la paroi apres le
+     point de sauvegarde.
+□ 06 - Dom Ruins (2) : coffre de la zone basse, apres le premier grand boss.
+□ 07 - Valley of the Flying Dragon (3) : au sud de la maison de Gadwin,
+     a cote de la plante qui sert d'escalier en spirale.
+□ 08 - Valley of the Flying Dragon (4) : a droite apres la zone d'arbres,
+     le long de la lisiere avant Dight.
+□ 09 - Mt. Typhoon : coin nord-ouest de la zone exterieure, apres la riviere
+     toxique et les champignons.
+□ 10 - Typhoon Tower (1) : salle ouest du premier etage, derriere le groupe
+     d'ennemis et avant de monter les escaliers.
+□ 11 - Volcano Slope (1) : zone du volcan, au sud du point de sauvegarde.
+□ 12 - Petrified Forest (1) : zone du vieux village, chemin sud-est pres du
+     carrefour a l'icone de donjon.
+□ 13 - Castle of Dreams : Dining Hall, derriere le grand bouclier appuye au
+     mur.
+□ 14 - West Savanna Wilderness : pres de la riviere, a l'est de l'icone de
+     depart.
+□ 15 - East Savanna Wilderness : partie est, au sud du passage de sortie vers
+     Brinan Plateau.
+□ 16 - Abandoned Laine Village : Warp Space (2), apres les plateformes bleues,
+     en suivant la paroi droite aux deux intersections.
+□ 17 - Zil Ruins (4) : coffre de la grande zone basse apres Ruin Guard et les
+     scenes de separation, avant la sortie.
+□ 18 - Alent : Garden, sur le chemin nord avant le premier point de sauvegarde.
+
+Le jeu peut donner un oeuf sur un ennemi de la derniere zone, mais ce n'est pas
+une solution de secours utile : on ne peut plus retourner en ville pour acheter
+la magie. Le registre des 18 oeufs doit donc etre termine avant Gaia.
+
+======================================================================
+BASE DE COMBAT ET DE PROGRESSION
+======================================================================
+
+- Fais les combats qui se trouvent sur la route au lieu de fuir chaque groupe.
+  Les seuils 50, 1 000 et 2 500 se completent naturellement si tu nettoies
+  les grandes zones et quelques boucles de farm.
+- Monte les armes et la magie par utilisation. Les niveaux de personnage ne
+  suffisent pas a debloquer les meilleurs coups.
+- Utilise les commandes Cancel, Defend et les attaques de zone : annuler une
+  attaque ennemie avant son tour vaut souvent mieux qu'un soin tardif.
+- Garde les Resurrect Potions et les objets de soin de zone pour les boss.
+- Water donne un acces pratique au soin ; Wind et Earth fournissent des
+  attaques de zone utiles pour les groupes ; adapte ensuite les Mana Eggs aux
+  personnages encore presents.
+- Pour les derniers combats, l'Energy Charm du Soldier's Graveyard reduit le
+  cout des moves. Equipe-le sur Justin quand tu l'obtiens.
+
+======================================================================
+ROUTE COMPLETE : MESSINA / ANCIEN CONTINENT
+======================================================================
+
+1. PARM - LES PREMIERS TRESORS
+
+Objectifs : Besties, Charge!, Growth Spurt, Overdue Booty, Speedy Delivery et
+le controle des premiers objets.
+
+1. Apres le debut, parle a Gantz au centre de Parm. Il donne les indices sur
+les quatre tresors. Explore South Parm, North Parm, le port et chaque maison
+avant de quitter la ville.
+2. Au port, longe l'arriere de l'entrepot : [COFFRE] Pot Lid.
+3. Descends dans le canal pres de la riviere : [OBJET] Battered Pot.
+4. Retourne voir Gantz, puis sa mere dans la maison centrale. Va voir Tentz a
+l'entree du cafe. Choisis la deuxieme reponse pour qu'il avoue avoir perdu la
+cle, puis cherche la cle dans le canal.
+5. Ouvre le coffre de la maison de Gantz : [OBJET UNIQUE] Spirit Sword du
+debut. Il s'agit de l'objet du defi de Parm ; ne le confonds pas avec le
+succes Brawny Blade de la fin.
+6. Dans la chambre de Justin au Seagull Restaurant, prends le First-Aid Kit
+dans le coffre, l'or sous le bureau et l'Antidote au fond de la piece.
+7. Dans la cuisine, fais l'allowance de Lilly avant de partir : Overdue Booty.
+8. Dans la maison du nord, monte voir Francois et prends sa lettre.
+9. Pres de la gare, parle a Marie, ramasse sa pin autour du musee, rends-la et
+parle a sa mere pour la Wound Salve.
+10. Au Baal Museum, parle au conservateur et recupere la Spirit Stone dans le
+parcours de visite : Icarian Energy Item. La lettre d'introduction obtenue
+ouvre la suite de la route.
+11. Equipe Justin et Sue, achete des soins et quelques Poison Antidotes, puis
+fais une sauvegarde S1 avant de sortir vers Marna Road.
+
+CONTROLE PARM
+
+□ Pot Lid, Battered Pot et Spirit Sword du defi recuperes.
+□ First-Aid Kit, or sous le bureau et Poison Antidote recuperes.
+□ Allowance de Lilly valide.
+□ Lettre de Francois dans l'inventaire.
+□ Pin de Marie rendue et Wound Salve recuperee.
+□ Spirit Stone recuperee : Icarian Energy Item.
+□ Charge! et Growth Spurt affiches apres un premier combat et un premier
+  niveau ; Sue rejoint le groupe pour Besties.
+
+2. MARNA ROAD
+
+Inventaire complet : Herbs x2, 10G x2, 30G, Officer's Baton.
+
+1. Depuis l'entree, va au sud-ouest pour les Herbs, puis longe la riviere
+jusqu'aux deux points de 10G et au 30G du cote de Parm.
+2. Traverse le pont, suis la riviere pour les Herbs.
+3. A la sortie, longe la paroi est vers le sud : [OBJET UNIQUE] Officer's
+Baton. Reviens ensuite au chemin vers Sult Ruins.
+
+CONTROLE MARNA ROAD
+
+□ 2 Herbs, 2 poches de 10G et 1 poche de 30G.
+□ Officer's Baton equipe ou place dans la reserve.
+□ Les combats de la zone ont ete faits au moins une fois pour la progression.
+
+3. SULT RUINS
+
+Inventaire complet : 10G x5, 30G x5, Shiny Shoes, Rune Ring, Ceremonial Rock
+Ax, Dynamite, Outdated Armor, Resurrect Potion.
+
+1. Utilise le point de sauvegarde pres de l'entree. Dans le premier couloir,
+prends le 10G de la niche est.
+2. A la bifurcation avec l'icone de donjon, pars a l'ouest derriere le Baby
+Bat pour le premier pouch, puis reviens et prends les 10G et 30G autour des
+escaliers.
+3. Monte sur la plateforme pour le Rune Ring. Reviens a l'intersection puis
+descends vers le niveau inferieur.
+4. Sur le premier niveau bas, suis le mur pour les 10G et 30G, puis ouvre les
+coffres lateraux : Shiny Shoes, Ceremonial Rock Ax, Outdated Armor et Dynamite.
+5. Recupere la Resurrect Potion pres du point de sauvegarde du niveau bas.
+6. Avant la sortie, compte bien 5 points de 10G et 5 points de 30G au total.
+7. [BOSS] Rock Bird : garde Sue en retrait, annule les attaques chargees et
+utilise les coups d'arme plutot que les objets rares.
+
+CONTROLE SULT RUINS
+
+□ Les trois points de sauvegarde ont ete vus.
+□ Shiny Shoes, Rune Ring, Ceremonial Rock Ax, Dynamite, Outdated Armor et
+  Resurrect Potion recuperes.
+□ 5 x 10G et 5 x 30G confirmes.
+□ Rock Bird vaincu.
+
+4. PARM / PREPARATION DU STEAMER
+
+Apres Leck Mines, la route repasse par Parm avant le depart. Vends seulement
+les armes et armures remplacees ; garde les Seeds, Charms, Bonds of Trust et
+les objets dont le nom est unique. Le magasin de Parm permet de completer les
+soins et les protections contre poison.
+
+5. LECK MINES
+
+Inventaire complet : Work Clothes, Herbs, 20G x8, 60G x5, Grenade x3, Rubber
+Boots, Safety Helmet, Wobbly Sword, Hand Ax, Miner's Hammer, Wound Salve, Oaken
+Shield, Seed of Defense, Steamer Pass.
+
+1. Depuis la maison de Java, prends les Work Clothes a l'ouest de l'entree.
+2. Pars au nord-ouest : 20G, 60G, Grenade et Herbs. Reviens au point des
+Work Clothes et pars au sud-ouest pour les deux premiers 20G.
+3. Continue le long des rails et des couloirs lateraux pour Rubber Boots,
+Safety Helmet, Wobbly Sword et Hand Ax. Les pouches de 20G et les coffres de
+60G sont parfois caches derriere les rochers : ne suis pas uniquement les
+rails.
+4. Dans les salles du fond, prends Miner's Hammer, Wound Salve et Oaken Shield.
+5. Avant la salle du boss, verifie le total : 8 x 20G et 5 x 60G. Le Steamer
+Pass ne se recupere qu'apres l'epreuve de Java.
+6. [BOSS] Orc King : detruis d'abord les soutiens si le groupe est encercle,
+garde Sue en soin et termine le combat avec une attaque de Justin. Le succes
+Bringing Down the Orcs se valide ici.
+7. Apres l'effondrement, prends le Seed of Defense avant de sortir et parle a
+Java pour recevoir le Steamer Pass.
+
+CONTROLE LECK MINES
+
+□ 8 x 20G et 5 x 60G.
+□ Tous les equipements de mineur et le Seed of Defense.
+□ Steamer Pass obtenu.
+□ Bringing Down the Orcs affiche.
+
+6. THE STEAMER
+
+Inventaire : Cabin Key, Beef Jerky, 125 Gold, Chocolate.
+
+1. Explore les cabines de deuxieme classe et utilise le point de sauvegarde et
+la reserve des Crew's Quarters.
+2. Le lendemain, prends la Cabin Key. Reponds correctement aux trois regles
+du marin pour obtenir Beef Jerky : ne pas etre stowaway, ne pas verser de sang
+pendant une bagarre, ne pas salir la mer.
+3. Achete les soins et les pieces d'equipement utiles avant la fermeture des
+magasins du navire.
+4. [MISSABLE] Cree S2 avant le premier nettoyage du pont. Remplis la jauge
+sans la faire depasser et vise moins de 26 secondes. Le succes Swab Boss doit
+apparaitre pendant cette fenetre.
+5. Inspecte les cabines de premiere classe, la passerelle et les ponts. Ne
+quitte pas le navire avant d'avoir fait le controle du stowaway.
+6. Quand Feena est presente sur le pont, prepare Justin, Sue et Feena pour le
+Ghost Ship. La suite ouvre Professional On Board.
+
+CONTROLE STEAMER
+
+□ Cabin Key, Beef Jerky, 125 Gold et Chocolate.
+□ Swab Boss affiche.
+□ Stowaway parle et tonneaux inspectes.
+□ Sauvegarde S2 conservee jusqu'a l'arrivee a New Parm.
+
+7. GHOST SHIP
+
+Inventaire complet : 30G x7, Herbs, 90G x2, Wind Charm, Wound Salve x2,
+Pirate's Hat, Admiral's Sword, Resurrect Potion, Mana Egg du Squid King.
+
+1. Monte par la grue, descends par le trou et active le point Ghost Pantry.
+2. Dans le Hold, prends les 30G visibles et les Herbs a droite. Descends par
+le trou du plancher.
+3. Au niveau inferieur, prends les deux 30G, remonte par la corde sud-ouest
+vers la Treasure Room, puis le 30G de l'est.
+4. Reviens par la porte centrale, remonte et evite le piege de la lame. Dans le
+Lower Deck, prends le 90G du sud, le Wind Charm et la Wound Salve.
+5. Explore le couloir est, ramasse les poches restantes et passe par le Ghost
+Ship Hall. Dans les cabines, prends le Pirate's Hat.
+6. Dans la Captain's Hall, prends Admiral's Sword, Resurrect Potion et le
+second 90G. Active le point de sauvegarde avant Captain's Cabin.
+7. [BOSS] Squid King : les tentacules attirent le groupe. Elimine-les si elles
+interrompent les soins, puis utilise les moves et la magie de zone sur le corps.
+8. Le Mana Egg tombe du Squid King : [MANA EGG 01] et Ghost Egg.
+9. La sequence de sortie valide Beneath the Spooky Seas. Quand le navire
+commence a couler, suis la route vers le couloir est sans revenir fouiller.
+
+CONTROLE GHOST SHIP
+
+□ 7 x 30G, Herbs, 2 x 90G, Wind Charm et 2 Wound Salves.
+□ Pirate's Hat, Admiral's Sword et Resurrect Potion.
+□ Mana Egg du Squid King conserve.
+□ Ghost Egg et Beneath the Spooky Seas affiches.
+
+======================================================================
+ROUTE COMPLETE : ELENCIA / NOUVEAU MONDE
+======================================================================
+
+8. PORT OF NEW PARM ET NEW PARM
+
+1. Des l'arrivee, inspecte chaque tonneau mobile autour du quai et du Steamer.
+Le stowaway donne une Golden Potion. Repasse aussi par le tonneau du port si
+le succes Mum's the Word n'apparait pas immediatement.
+2. Dans New Parm, parle a tous les habitants, repose-toi a l'Adventurer's Hut
+et equipe Sue avec le sort achete grace au Mana Egg du Ghost Ship. Water est
+un choix pratique pour garder un soin des le debut.
+3. [MISSABLE] Va dans la grande maison de l'est et donne la lettre de Francois
+a Clara : Speedy Delivery.
+4. Passe par l'Adventurer's Society et recupere le mot de passe donne par la
+responsable. Cette etape ouvre la rencontre necessaire avec Feena.
+5. Achete Poison Antidotes, First-Aid Kits et Snake Earrings avant Merrill Road.
+6. Pour Mum's the Word, le succes doit etre controle avant la sortie de New
+Parm : stowaway parle, tonneau du quai inspecte, Golden Potion recuperee.
+
+CONTROLE NEW PARM
+
+□ Golden Potion du tonneau.
+□ Lettre remise a Clara.
+□ Speedy Delivery affiche.
+□ Snake Earrings, antidotes et soins prets.
+□ Mum's the Word affiche.
+
+9. MERRILL ROAD
+
+Inventaire complet : 40G x4, 120G, Snake Earrings, [MANA EGG 02].
+
+1. Prends le 40G de l'entree, puis suis le chemin sud-est jusqu'au premier
+embranchement. Fais le detour est pour le deuxieme 40G.
+2. Reviens au carrefour, prends le nord, traverse la petite grotte ouest et
+ouvre le coffre de l'autre cote : Snake Earrings.
+3. Reviens sur la route, prends le 40G du carrefour suivant puis le coffre de
+120G au nord-est.
+4. Dans la grande zone pres de l'icone de donjon, prends le dernier 40G puis
+continue vers l'ouest au-dela de la fourche : [MANA EGG 02].
+5. Reviens vers la sortie nord de Feena's House. Achete la prochaine magie
+avant de continuer.
+
+CONTROLE MERRILL ROAD
+
+□ 4 x 40G et 120G.
+□ Snake Earrings.
+□ Mana Egg 02 dans la sauvegarde.
+
+10. FEENA'S HOUSE
+
+Explore la maison avant la scene suivante. Apres le segment de New Parm, reviens
+parler a Feena et prepare les trois membres pour Rangle Mountains. Le depart de
+Feena valide Professional On Board. Ne quitte pas la zone sans avoir ouvert les
+pieces laterales et utilise la reserve si l'inventaire est plein.
+
+CONTROLE FEENA'S HOUSE
+
+□ Feena a rejoint le groupe.
+□ Professional On Board affiche.
+□ Equipement de Sue, Justin et Feena verifie.
+
+11. NEW PARM UNDERGROUND PASSAGE
+
+Inventaire complet : 50G x3, Shell Shield, 150G, Iron Mace, [MANA EGG 03].
+
+1. Entre par le local derriere l'eglise. Tourne la premiere roue pour relever
+la grille et baisser l'eau.
+2. Dans la grande salle, prends le premier 50G, tourne la seconde roue, puis
+descends par les escaliers maintenant accessibles.
+3. Avant le fond, prends le coffre Shell Shield et releve la grille voisine.
+4. Reviens par le tunnel, descends au niveau inferieur, prends le second 50G
+et le 150G dans la salle du bas.
+5. Suis le petit tunnel nord-est : [MANA EGG 03]. Reviens ensuite pour le
+dernier 50G et l'Iron Mace avant la sortie.
+
+CONTROLE UNDERGROUND PASSAGE
+
+□ Roues et niveaux d'eau utilises dans le bon ordre.
+□ Shell Shield, Iron Mace, 3 x 50G et 150G.
+□ Mana Egg 03.
+
+12. WEST RANGLE MOUNTAINS
+
+Inventaire des deux sections : 60G x5, 180G x2, Fruit of Power, Ginseng,
+Medal of Yore, Seed of Moves, [MANA EGG 04], [MANA EGG 05].
+
+1. A l'entree, va au nord pour 180G, puis redescends au sud-ouest pour 60G.
+2. Reviens au point d'entree et monte les collines a l'est pour un autre 60G.
+3. Continue sud-est vers Medal of Yore. Fais ensuite le detour nord-est vers
+Seed of Moves.
+4. A la jonction pres de la sortie est, prends le passage nord avant de
+changer de section : [MANA EGG 04].
+
+13. EAST RANGLE MOUNTAINS
+
+1. Depuis le point de sauvegarde, pars au sud. Dans la premiere zone ouverte,
+cherche le 60G dans l'alcove sud-est.
+2. Remonte vers le nord-ouest pour un second 60G, puis l'alcove nord avec
+Fruit of Power.
+3. Suis la paroi vers le nord et l'est : 180G, Ginseng et le dernier 60G sont
+sur les detours lateraux.
+4. Dans l'alcove nord-est, a droite de la paroi apres la sauvegarde : [MANA
+EGG 05].
+5. Fais la scene de camp et sors vers Road to Dom Ruins. Avant de partir,
+retourne a New Parm depenser les deux Mana Eggs si la route le permet.
+
+CONTROLE RANGLE
+
+□ 5 x 60G et 2 x 180G.
+□ Medal of Yore, Seed of Moves, Fruit of Power et Ginseng.
+□ Mana Eggs 04 et 05.
+
+14. ROAD TO DOM RUINS
+
+Inventaire complet : 70G x3, 210G x2, Miracle Drink, Seed of Speed.
+
+1. Depuis le panneau, entre dans la foret au lieu de suivre directement le
+bord exterieur. Au premier chemin, prends 70G au nord puis le coffre 210G au
+sud-ouest.
+2. Continue est puis sud pour le deuxieme 70G. Dans la clairiere, fais le
+detour est-nord vers le second coffre 210G.
+3. Reviens au carrefour, prends le coffre ouest : Miracle Drink.
+4. Quand le chemin tourne au nord, prends le passage discret vers l'est :
+Seed of Speed. Reviens au bord sud-est pour le dernier 70G et Dom Ruins.
+
+15. DOM RUINS
+
+Inventaire complet : Blue Medicine x3, 70G x8, Dynamite, Herbs, Resurrect
+Potion x2, 210G x2, Holy Mace, Magic Lamp, Shell Armor, Yellow Medicine,
+[MANA EGG 06].
+
+1. Dans le Vestibule, tombe sous la premiere plateforme pour Blue Medicine,
+puis prends les 70G le long des murs est et sud. Ouvre la porte est vers les
+ruines internes.
+2. Reviens au point de sauvegarde bloque au debut, prends Dynamite et le 70G
+du bas, puis entre dans la partie centrale.
+3. Suis les leviers, les lianes et les portes jusqu'au premier point de
+sauvegarde. Les detours de colonnes donnent Herbs, Blue Medicines et les deux
+Resurrect Potions.
+4. Cherche les passages secrets dans les murs de la Room of Illusion : ils
+contiennent le Holy Mace, la Magic Lamp et la Yellow Medicine. Le Holy Mace
+est l'arme a conserver pour les ennemis fantomatiques.
+5. Dans Dom Ruins (2), active la reserve et le point de sauvegarde avant la
+zone de boss. Explore le cote oppose du ravin pour les coffres de 210G et
+Shell Armor.
+6. Dans la grande zone basse, prends le coffre a droite de la salle apres le
+boss : [MANA EGG 06]. Compte bien les 8 poches de 70G du donjon.
+7. [BOSS] Ganymede : place le groupe en bas a gauche. Quand le boss attire les
+personnages, il les rapproche d'une zone moins exposee ; frappe ensuite la
+cible principale avec les moves de Justin et les sorts de Feena.
+8. Le combat valide Wrecked in the Ruins. Equipe Shell Armor, puis utilise la
+sortie vers Feena's House.
+
+CONTROLE DOM RUINS
+
+□ 3 Blue Medicines, 8 x 70G, 2 x 210G, 2 Resurrect Potions.
+□ Dynamite, Herbs, Holy Mace, Magic Lamp, Shell Armor et Yellow Medicine.
+□ Mana Egg 06.
+□ Ganymede vaincu et Wrecked in the Ruins affiche.
+
+16. HERB MOUNTAINS
+
+Inventaire complet : Herbs x2, White Sulfa Weed x3, Smelling Salts, Poison
+Antidote x3, Seed of Life, Weeds, Red Sulfa Weed.
+
+1. Ouvre la barriere au sud de Feena's House. Dans Herb Mountains, longe le
+bord nord et prends les deux Antidotes des premieres branches.
+2. Reviens au centre, prends les Herbs, puis passe par les branches est et
+nord-est pour White Sulfa Weed et Smelling Salts.
+3. Continue par le bord sud-est vers le deuxieme et troisieme White Sulfa Weed,
+puis remonte au nord pour le Seed of Life.
+4. Dans la zone ouest finale, prends Weeds puis le Red Sulfa Weed au nord-ouest.
+5. Reviens a Feena's House, puis laisse l'enchainement automatique t'amener a
+Garlyle Base. Il n'y a pas de Mana Egg ici, mais le Seed of Life est unique.
+
+17. GARLYLE BASE
+
+Inventaire complet : Resurrect Potion, Ultra Drink, Soldier's Uniform, Officer's
+Uniform, Master Key, 80G x5, Army Saber, Army Boots, Miracle Drink, Army Darts.
+
+1. Dans la cellule, examine le tuyau pour ouvrir le passage. Dans la piece du
+garde, prends la cle et la Resurrect Potion.
+2. Apres le retour en cellule, recupere la cle lancee dans la cellule puis
+libere Sue et Feena.
+3. Dans les Barracks, prends Ultra Drink et active le point de sauvegarde.
+4. Utilise les conduits pour fouiller les deux salles laterales : Soldier's
+Uniform puis Officer's Uniform.
+5. Dans le Locker Room, memorise la combinaison des boutons : droite, droite,
+gauche, gauche, bas, haut, bas, haut. Ouvre la porte electronique.
+6. Dans le Warehouse, ouvre la cage et recupere les noix. Apres le combat de
+Saki, prends le Master Key.
+7. Dans l'exterieur, fais le tour complet de la cloture : Miracle Drink au sud,
+80G x5, puis Army Darts dans le coffre de la cloture est. Army Saber et Army
+Boots se trouvent dans les salles laterales accessibles avec la cle.
+8. [BOSS] Nana, Saki et Mio : garde les antidotes et les soins de zone. Les
+trois combats font partie du parcours ; ne repars pas sans le Master Key.
+
+18. MILITARY TRAIN
+
+Inventaire : Crimson Potion, 80G x2, Officer's Badge.
+
+1. Depuis l'arriere du train, avance wagon par wagon vers la locomotive.
+2. Ouvre le premier coffre : Crimson Potion. Dans les deux wagons suivants,
+prends 80G x2 apres les groupes de soldats.
+3. Le dernier wagon contient l'Officer's Badge. Rejoins la locomotive et
+actionne le frein.
+4. La sequence de fuite valide Train Robbers. Fais une sauvegarde a Luc Village
+des que le train arrive : les villes de l'ancien continent ne sont plus
+accessibles pendant la traversee de la foret.
+
+CONTROLE MILITARY TRAIN
+
+□ Crimson Potion, 2 x 80G et Officer's Badge.
+□ Train Robbers affiche.
+
+19. WEST MISTY FOREST ET LUC VILLAGE
+
+Inventaire West Misty Forest : 90G x7, Baobab Fruit, 270G, Weak-Knee Weed.
+
+1. Depuis le train, prends les 90G des branches nord et est, puis reviens au
+point de sauvegarde pour le detour ouest vers Weak-Knee Weed.
+2. Dans la clairiere suivante, prends 90G, puis Baobab Fruit au nord. Suis la
+route est, ramasse le 90G restant, puis le 270G.
+3. Traverse la riviere par le rocher et va au nord-est jusqu'a Luc Village.
+4. Dans Luc Village, utilise l'auberge, la reserve de Rem et les magasins.
+Achete Tree God Amulets, Resurrect Potions et protections d'etat si besoin.
+5. Parle au chef pour obtenir la route vers God of Light Mountain.
+
+20. GOD OF LIGHT MOUNTAIN
+
+Inventaire complet : 100G x8, Seed of Life, 300G x2, Move Breaker, Paralysis
+Charm, Resurrect Potion, Mist-Cracking Whip, Light God Amulet, Bond of Trust,
+Sacred Nectar, Mist-Clearing Nut apres l'invasion.
+
+1. Au pied de la montagne, prends 100G au nord-est, puis le Seed of Life au
+nord-ouest. Remonte par le chemin est pour 300G et les deux 100G de la zone
+ouverte.
+2. Reviens au pied et prends le chemin ouest. Dans la zone nord, ramasse
+Paralysis Charm, 100G et le Move Breaker.
+3. Au sommet, fais le balayage ouest : 2 x 100G, coffre 300G, Resurrect Potion,
+Mist-Cracking Whip, Light God Amulet et Bond of Trust.
+4. Examine la bouteille devant la statue : Sacred Nectar et Gift of the Gods.
+5. Retourne a Luc Village, dors, puis remonte au sommet lors de l'invasion.
+Recupere le Mist-Clearing Nut avant de repartir dans la foret.
+
+21. EAST MISTY FOREST
+
+Inventaire complet : 110G x16, Crimson Potion, 330G x3, Cholla Flowers x2,
+Resurrect Potion, Baobab Fruit x2, Smarna Weed x2, Oracle's Staff, Ginseng,
+Seed of Speed.
+
+1. Dans la section 1, suis le bord est puis nord pour les 110G. Fais le detour
+sud vers Crimson Potion, puis la clairiere avec 110G, 330G et Cholla Flowers.
+2. Au carrefour suivant, prends Resurrect Potion au sud, puis Baobab Fruit et
+Cholla Flowers au nord. Reviens pour le 110G du bord sud et le 330G de la
+clairiere avant la section 2.
+3. Apres le camp, prends les 2 x 110G de la branche est. Traverse la zone qui
+ressemble a un lac en suivant la riviere, puis prends 330G, 110G, Oracle's
+Staff et Smarna Weed.
+4. Dans la section 3, ramasse Ginseng, les 110G des branches nord et est,
+Smarna, Baobab Fruit et les derniers 110G. Le Seed of Speed est sur le detour
+sud de la derniere branche.
+5. Sors au sud-est vers End of the World. Controle le total de 16 x 110G
+avant d'activer le point de sortie.
+
+22. END OF THE WORLD
+
+Inventaire : Seed of Speed, Fruit of Agility, 110G x8, Orb of Silence, Gust
+Knife, Bond of Trust, 330G.
+
+1. Cette zone est verticale et comporte dix sections. Dans la section 1,
+attends que les blocs tombent avant de prendre Seed of Speed puis Fruit of
+Agility. Prends le 110G de l'alcove nord.
+2. Dans la section 2, redescends le bloc, prends le Paperweight, declenche le
+piege du coffre puis reviens ouvrir Orb of Silence. Prends Gust Knife au nord.
+3. Utilise les boutons gris pour monter les blocs des sections 3 a 5. A chaque
+section, fais le detour vers les 110G avant d'utiliser l'icone d'action.
+4. Pour les statues et oiseaux, attire l'ennemi sous le bloc ou eloigne-toi de
+la zone de tir avant de pousser le bouton.
+5. Dans les sections 6 a 9, le trajet utile est toujours : coffre lateral,
+110G, bouton, ascenseur. Ne saute pas les petites alcoves ; elles regroupent
+les 110G et Bond of Trust.
+6. Au sommet de la section 10, le succes The End is the Beginning apparait.
+Fais une sauvegarde avant la transition vers Valley of the Flying Dragon.
+
+CONTROLE END OF THE WORLD
+
+□ Seed of Speed, Fruit of Agility, Orb of Silence, Gust Knife et Bond of Trust.
+□ 8 x 110G et 330G.
+□ The End is the Beginning affiche au sommet.
+
+======================================================================
+ROUTE COMPLETE : THE LOST WORLD
+======================================================================
+
+23. VALLEY OF THE FLYING DRAGON
+
+Inventaire complet : 360G x4, 120G x10, Poison Antidote, Cholla Flowers,
+Sue's Shoes, Vaccine, Fruit of Magic, Fire Charm, Seed of Power, Slouch Weed,
+[MANA EGG 07], [MANA EGG 08].
+
+1. Depuis le point de sauvegarde, prends 360G au sud, puis les 120G caches
+derriere les rochers. Fais le detour sud-est pour le 360G et le Cholla Flowers.
+2. Traverse les plantes-ponts avec prudence. Dans la deuxieme section, ramasse
+120G, puis Sue's Shoes et le coffre Resurrect Potion.
+3. Prends Vaccine, traverse la riviere par la plante et recupere Fruit of Magic.
+4. [MANA EGG 07] se trouve dans la section 3, au sud de la maison de Gadwin,
+a cote de la plante-escalier en spirale.
+5. Retourne dans la section 4 par la route de Dight. [MANA EGG 08] est a
+droite apres le rideau d'arbres, le long de la lisiere avant le village.
+6. Prends le Seed of Power et les derniers 120G/360G avant Gadwin's House.
+7. [BOSS] Gadwin : son duel avec Justin est prevu par la route. Apres le duel,
+Justin apprend Dragon Cut et Gadwin rejoint l'equipe : Warrior Bud.
+
+CONTROLE VALLEY OF THE FLYING DRAGON
+
+□ Sue's Shoes, Vaccine, Fruit of Magic, Fire Charm et Seed of Power.
+□ 4 x 360G et 10 x 120G.
+□ Mana Eggs 07 et 08.
+□ Warrior Bud affiche.
+
+24. DIGHT VILLAGE ET MT. TYPHOON
+
+Dight Village : repose-toi, achete les soins, les protections contre poison et
+les meilleures pieces d'equipement. Parle a l'ancien puis accepte la route vers
+Typhoon Tower avec Gadwin.
+
+Inventaire Mt. Typhoon : Power Mushroom, 130G x9, 390G x3, Move Mushroom,
+Mushroom Shield, Disease Charm, Dream Truffle, Healthweed x2, Demon Sword
+Amulet, Seed of Magic, [MANA EGG 09].
+
+1. Dans la zone basse, passe derriere la cascade toxique pour Power Mushroom,
+puis prends 130G autour des rampes.
+2. Traverse les rivieres avec les rochers et champignons. Dans l'alcove nord,
+prends [MANA EGG 09] avant de revenir vers la rampe principale.
+3. Continue pour Move Mushroom, Mushroom Shield et 390G. Avant la sortie,
+fais le tour de la zone haute pour Disease Charm, 130G, Dream Truffle,
+Healthweed x2, Demon Sword Amulet et Seed of Magic.
+4. Ne reste pas dans l'eau verte : elle inflige des degats continus. Utilise
+les sauvegardes de Dight entre deux trajets.
+
+25. TYPHOON TOWER
+
+Inventaire complet : [MANA EGG 10], Confusion Charm, 130G x7, 390G x2,
+Klepp's Sickle, Pirate's Helmet, Warrior's Spear.
+
+1. Des l'entree, va a l'ouest dans la premiere salle. Fais bouger les ennemis
+si necessaire, appuie sur le bouton vert et prends [MANA EGG 10] au nord-ouest.
+2. Reviens vers la grande salle est. Evite le bouton rouge au sol tant que tu
+n'as pas pris le coffre Confusion Charm.
+3. Monte par les escaliers du nord-ouest, prends 130G et descends la corde
+ouest pour Klepp's Sickle. Reviens au rez-de-chaussee.
+4. Prends l'escalier rouge ouest, puis les boutons bleus du deuxieme etage
+pour faire pivoter le pont. Ramasse Pirate's Helmet a l'ouest.
+5. Fais le circuit complet des deux etages pour les 130G x7 et 390G x2. La
+derniere salle de sauvegarde se trouve avant le sommet.
+6. [BOSS] Klepp King / Serpent : detruis d'abord Nice Head pour supprimer le
+soin, puis Bad Head pour retirer la paralysie. Les attaques de zone touchent
+les cinq cibles. Le succes Klepp Killer apparait au resultat.
+7. Dans la Room of Destiny, prends Warrior's Spear. Equipe les deux Mana Eggs
+dans Dight avant de partir pour Lama Mountains.
+
+CONTROLE TYPHOON TOWER
+
+□ Mana Egg 10, Confusion Charm, 7 x 130G et 2 x 390G.
+□ Klepp's Sickle, Pirate's Helmet et Warrior's Spear.
+□ Klepp King vaincu et Klepp Killer affiche.
+
+26. LAMA MOUNTAINS ET GUMBO VILLAGE
+
+Inventaire Lama Mountains : 140G x10, 420G x2, Yellow Medicine, Orb of Silence,
+Healthweed, Dragon Killer, Demon Eye Stone.
+
+1. Dans la section nord, suis la paroi est pour 140G, puis la paroi ouest pour
+le coffre 420G et Orb of Silence.
+2. Continue par la zone sud : Yellow Medicine, 140G x3, Dragon Killer, second
+420G, Demon Eye Stone et Healthweed sont sur les ilots relies par les ascenseurs.
+3. Utilise le point de sauvegarde avant la sortie vers Gumbo.
+4. Gumbo : fais les magasins et dialogues, puis complete le segment du village.
+Avant la fete, sauvegarde S3. Quand la route du volcan est ouverte, prepare
+une protection contre feu et confusion.
+
+27. VOLCANO
+
+Inventaire complet : Healthweed x2, Deep Blue Potion, [MANA EGG 11], 150G x12,
+Seed of Defense, 450G x2, Snooze Scroll, Chain of Gems, Fire Charm, Dragon
+Scales, Confusion Charm.
+
+1. Dans la pente, prends les Healthweeds, puis suis la route est et sud pour
+les premieres poches de 150G.
+2. [MANA EGG 11] est sur le cote de la pente au sud du point de sauvegarde.
+3. Continue par les plateformes pour Deep Blue Potion, Seed of Defense,
+450G x2, Snooze Scroll, Chain of Gems, Fire Charm, Dragon Scales et Confusion
+Charm. Les 12 poches de 150G sont visibles en faisant un tour complet avant
+le sommet.
+4. [BOSS] Madragon : equipe les attaques d'eau et garde Feena prete a soigner.
+5. Apres le segment de Gumbo, reviens dans la zone d'entree du volcan pour le
+coffre Confusion Charm si tu ne l'avais pas pu atteindre avant la scene.
+
+28. TWIN TOWERS
+
+Inventaire complet : Seed of Speed, 160G x11, Spell Breaker, Healthweed,
+Vacuum Scroll, 480G x3, Revival Stone, Sudden Death Charm, Medal of Wisdom,
+Forest Charm, Bond of Trust, Odd Hat, Seed of Power, Move Breaker, Angel's
+Darts.
+
+1. Sur la cote, prends Seed of Speed et les 2 x 160G autour du bateau.
+2. Dans l'enceinte sud, longe le mur ouest puis passe par la porte nord. Les
+interrupteurs retirent les statues et les poutres : fais chaque detour avant
+de poursuivre.
+3. Dans le Vestibule, prends 160G, Healthweed, Spell Breaker et Vacuum Scroll.
+4. Dans les tours, utilise les boutons bleus pour les ponts tournants. Le
+chemin integral donne les 160G restants, 3 x 480G, Revival Stone, Sudden Death
+Charm, Forest Charm, Odd Hat, Seed of Power, Move Breaker et Angel's Darts.
+5. Dans le secteur de Liete, ramasse la Medal of Wisdom avant la sortie. Cela
+valide Brain Power. Ne pars pas avec un compteur de coffre incomplet.
+
+CONTROLE TWIN TOWERS
+
+□ Seed of Speed, 11 x 160G, 3 x 480G et tous les objets nommes.
+□ Medal of Wisdom recuperee.
+□ Brain Power affiche.
+
+29. MYSTERIOUS VANISHING HILL
+
+Inventaire complet : 170G x6, Seed of Life, Healthweed, Silver Key, Gold Key,
+Wind Charm, Teleportation Orb.
+
+1. Au depart, prends 170G et Seed of Life. Fais le tour ouest de l'autel pour
+les autres 170G.
+2. Active les interrupteurs ouest et est pour creer les ponts. Derriere la
+porte qui s'ouvre, prends Healthweed.
+3. Le coffre de la grande zone contient Silver Key ; ouvre les deux petites
+portes puis reviens au grand portail pour Gold Key.
+4. [BOSS] Massacre Machine : sauvegarde avant le combat et bats-le. Continue
+vers le sommet, puis bats la seconde version Massacre Machine-2. Les deux
+victoires dans cette meme route valident Double-Tap.
+5. Prends Wind Charm et Teleportation Orb avant de sortir.
+
+CONTROLE MYSTERIOUS VANISHING HILL
+
+□ 6 x 170G, Seed of Life et Healthweed.
+□ Silver Key, Gold Key, Wind Charm et Teleportation Orb.
+□ Massacre Machine vaincu deux fois : Double-Tap affiche.
+
+30. PIRATE'S ISLAND
+
+Inventaire complet : 540G x3, Rainbow Weed x2, 180G x4, Fruit of Life, Seed of
+Defense, Tear Jewel.
+
+1. Depuis le bateau, fais une boucle complete par l'est puis le nord. Prends
+les 180G, Seed of Defense et la premiere Rainbow Weed.
+2. Au carrefour nord, detour ouest pour un 180G et un coffre 540G. Reviens par
+le nord pour Tear Jewel.
+3. Reviens au carrefour central, prends le chemin sud vers l'ile uniquement
+apres avoir ramasse la deuxieme Rainbow Weed, le Fruit of Life et le dernier
+coffre de 540G.
+4. [BOSS] Grinwhale : ignore le Lure tant que le corps reste actif, utilise
+les attaques de zone et soigne a environ deux tiers des HP.
+5. Repose-toi dans le Sea Dragon avant la transition vers East Elencia.
+
+======================================================================
+ROUTE COMPLETE : EAST ELENCIA
+======================================================================
+
+31. VIRGIN FOREST
+
+Inventaire complet : Slouch Weed, Thor's Fury, 190G x13, Torte's Whistle,
+570G x3, Healthweed, Seed of Running, Water Charm, Resurrect Potion, Golden
+Potion, Leaf Shield, Seed of Magic.
+
+1. Depuis la plage, longe l'exterieur au nord puis entre par la premiere
+branche est pour Slouch Weed et Thor's Fury.
+2. Fais le tour des clairieres sans utiliser les fleurs comme raccourci tant
+que les branches ne sont pas fouillees. Ramasse les 190G caches contre les
+parois, puis les coffres 570G.
+3. Dans la section de Guido, prends Torte's Whistle, Healthweed, Seed of
+Running, Water Charm et Resurrect Potion.
+4. La derniere zone est : Golden Potion, Leaf Shield et Seed of Magic. Rejoins
+Cafu et ne pars pas avant le controle des 13 poches de 190G.
+
+32. CAFU VILLAGE ET RAPP
+
+1. Parle a Rapp et aux habitants, puis rends visite a l'ancien. Equipe les
+nouvelles armes et garde un sort pour Rapp grace au prochain Mana Egg.
+2. Le dialogue qui suit l'arc de Cafu valide Cafu Comrade et Rapp rejoint le
+groupe. Controle le succes avant de sortir vers Petrified Forest.
+3. Achete les protections contre paralysie et confusion. Les combats de la
+Virgin Forest sont un bon endroit pour atteindre 50 victoires si Little Green
+n'est pas encore affiche.
+
+33. PETRIFIED FOREST
+
+Inventaire complet : 200G x9, 600G x2, Seed of Defense x2, Paralysis Charm,
+Seed of Life, Seed of Magic, [MANA EGG 12], Blizzard Charm, Chocolate Cookies.
+
+1. Depuis l'entree, prends le 200G sud-ouest, puis les trois 200G, les deux
+coffres de 600G et Seed of Defense autour du vieux village.
+2. Prends Seed of Life, Seed of Magic, Paralysis Charm et Blizzard Charm.
+3. A l'icone de donjon dans le nord-est du vieux village, suis le chemin
+sud-est au lieu de sortir : [MANA EGG 12].
+4. Prends Chocolate Cookies et le dernier 200G avant de monter vers Tower of
+Doom. Les neufs 200G doivent etre confirmes.
+
+34. TOWER OF DOOM
+
+Inventaire complet : 210G x14, Rescue Set, Bond of Trust, Seed of Running,
+Vaccine, 630G, Plug Suit, Gaia Sprout.
+
+1. [BOSS] Milda ouvre la zone. Apres le combat, recupere 210G dans le
+warehouse et utilise le point de sauvegarde.
+2. Dans l'exterieur, prends Rescue Set, Seed of Running et les poches de 210G
+derriere les batiments.
+3. Dans les etages, ouvre Bond of Trust, Vaccine, 630G, Plug Suit et Gaia
+Sprout. Utilise les interrupteurs pour couper les lasers, puis rallume-les
+pour ouvrir les portes necessaires.
+4. [BOSS] Gaia Battler : vise le corps et utilise les attaques de zone. Le
+succes Battler Battler est associe au combat de Tower of Doom.
+5. Sors par le chemin direct sud apres le segment de la tour. Cette zone ne
+sera plus visitable ensuite : le controle doit etre fait avant de sortir.
+
+CONTROLE CAFU / PETRIFIED FOREST / TOWER OF DOOM
+
+□ Cafu Comrade affiche.
+□ Mana Egg 12, les 9 x 200G et les 2 x 600G.
+□ 14 x 210G, Rescue Set, Bond of Trust, Seed of Running, Vaccine, 630G,
+  Plug Suit et Gaia Sprout.
+□ Gaia Battler vaincu et Battler Battler affiche.
+
+35. ZIL DESERT : SOLDIER'S GRAVEYARD
+
+Dans North Zil Desert, prends les 220G autour du cactus, Cactus Armor, Cactus
+Thorns, les deux Resurrect Potions, le coffre 660G et Energy Ring. Dans South
+Zil Desert, prends Anklet, le second 660G et les deux derniers 220G avant les
+donjons bonus.
+
+Inventaire Soldier's Graveyard : 230G x6, Heavy Shield, 690G x2, Sonic Walnut,
+Fireproof Cape, Expensive Jewel, Soldier's Key, Diana's Amulet, Ice Blade,
+All-Around Seed, Soldier's Soul x4, All-Around Fruit, Energy Charm, Godspeed
+Knife.
+
+1. Fais une sauvegarde S4 a l'entree : un seul point de sauvegarde se trouve
+dans le donjon.
+2. Fais le tour du premier niveau pour 230G, Heavy Shield, 690G et Sonic
+Walnut. Utilise les ressorts pour descendre sans sauter les alcoves.
+3. Au niveau B3, cherche les passages secrets autour des statues. Ils donnent
+Expensive Jewel, Soldier's Key et Diana's Amulet.
+4. Au niveau B5, prends Ice Blade et All-Around Seed. N'equipe pas Ice Blade
+contre les ennemis resistants a la glace.
+5. Utilise Soldier's Key sur la grande porte. Fouille les quatre passages
+secrets pour Soldier's Soul x4 et All-Around Fruit.
+6. Apres les quatre Souls, la plateforme descend. Prends le Godspeed Knife,
+puis ouvre le grand coffre : Energy Charm.
+7. [BOSS] Kung-Fu Master : ses attaques sont physiques. Equipe une defense
+physique elevee, garde Feena en soin et utilise Energy Charm sur Justin apres
+la victoire. Le succes Fast As Lightning apparait ici.
+
+36. ZIL DESERT : CASTLE OF DREAMS
+
+Inventaire complet : 240G x11, Bloody Knife, Dark Armor, Gauntlets, Death Mask,
+[MANA EGG 13], Binding Whip, Lightning Sword.
+
+1. Depuis South Zil Desert, prends le chemin nord-ouest vers Castle of Dreams.
+Ne pars pas vers Zil Padon avant de l'avoir termine.
+2. Dans le Great Hall, prends 240G et Bloody Knife. Descends au Cemetery pour
+Dark Armor, 240G et Gauntlets.
+3. Dans Knight's Room puis Library, ramasse 240G et Death Mask.
+4. Dans Dining Hall, prends les deux 240G et [MANA EGG 13], cache derriere le
+grand bouclier. Dans Small Room et Study, prends les 240G restants et Binding
+Whip.
+5. Passe par le livre/porte cachee vers le toit. Sauvegarde au Study avant le
+Lord's Chamber.
+6. [BOSS] Lord's Ghost : le boss utilise surtout la foudre et ses cibles sont
+separees. Frappe rapidement le corps, garde le groupe espace et reserve
+Alhealer/Resurrect. La victoire donne Lightning Sword et Castle Bustin.
+
+CONTROLE DESERT ET BONUS 1-2
+
+□ Zil Desert : Cactus Armor, Cactus Thorns, 2 Resurrect Potions, Energy Ring,
+  Anklet, Seed of Defense et tous les 220G/660G.
+□ Soldier's Graveyard termine, 4 Soldier's Souls, Godspeed Knife et Energy
+  Charm.
+□ Fast As Lightning affiche.
+□ Castle of Dreams termine, Mana Egg 13 et Lightning Sword.
+□ Castle Bustin affiche.
+
+37. ZIL PADON
+
+1. Repose-toi a Hotel Alqada, vide la reserve et achete les protections et
+les pieces d'equipement du magasin. Il n'y a pas de Mana Egg dans cette etape.
+2. Parle aux habitants et controle que Rich Man est en progression si la
+reserve d'or depasse deja 250 000 G. Ne depense pas tout l'or des grosses
+recompenses.
+
+38. WEST ET EAST SAVANNA WILDERNESS
+
+Inventaire complet : [MANA EGG 14], [MANA EGG 15], 220G x14, Deep Blue Potion,
+Seed of Moves, All-Around Seed, Slouch Weed, 660G.
+
+1. A l'entree de West Savanna, pars directement a l'est de l'icone de depart
+vers la riviere : [MANA EGG 14].
+2. Reviens, prends les 220G autour des rochers et le Deep Blue Potion. Fais le
+detour sud-ouest pour Seed of Moves, puis traverse le pont de rondins.
+3. Avant de sortir, prends les poches de 220G restantes et l'All-Around Seed.
+4. Dans East Savanna, longe le rocher par le sud pour All-Around Seed si tu ne
+l'as pas deja pris, puis la paroi nord pour les 220G.
+5. Prends [MANA EGG 15] dans la zone est, au sud du passage qui monte vers
+Brinan Plateau. Ramasse Slouch Weed et le coffre 660G avant la sortie.
+6. Fais une sauvegarde S5 dans la zone de transport avant de commencer le
+prochain passage vers Brinan.
+
+CONTROLE SAVANNA
+
+□ 14 x 220G, 660G, Deep Blue Potion, Seed of Moves, All-Around Seed et Slouch
+  Weed.
+□ Mana Eggs 14 et 15.
+
+39. BRINAN PLATEAU
+
+Inventaire complet : 250G x4, 750G, Restraint Walnut, Seed of Power, Seed of
+Life, Fire Sword, Silence Sword, Explosion Charm, Crampons.
+
+1. Depuis l'entree nord, prends 750G au nord de la premiere bifurcation.
+2. Brise le bloc de glace, prends 250G puis le coffre central Crampons.
+3. Fais le detour ouest et sud pour Restraint Walnut, puis le chemin sud-est
+pour Seed of Power et Seed of Life.
+4. Les coffres de la zone sud donnent Fire Sword, Silence Sword et Explosion
+Charm. Controle 4 x 250G et 750G avant Laine Village.
+
+40. LAINE VILLAGE ET ABANDONED LAINE VILLAGE
+
+1. Dans Laine Village, utilise l'auberge et les magasins. Parle aux trois
+anciens et accepte le trajet vers la lower village.
+2. Dans Abandoned Laine Village, utilise les trois Warp Spaces comme points de
+repere. Commence par le chemin ouest, puis boucle par le sud et le nord pour
+les 260G x10, 780G x3, Smoked Salmon, Warp Staff, Prime Rib x2, Ogre Helm,
+Seed of Power, Fruit of Defense et Wolf Boots.
+3. [MANA EGG 16] se trouve dans Warp Space (2) : depuis la sauvegarde, prends
+la premiere droite, puis la droite a la seconde intersection et longe la paroi
+droite autour des deux virages.
+4. Dans la derniere zone, prends Horn of Knowledge avant le boss. Il valide
+Brilliant! et ne doit pas etre laisse dans le decor.
+5. [BOSS] Gaia Battler : vise le corps, coupe les attaques chargees et garde
+Rapp pret pour les moves de zone. Termine ensuite la route vers Laine.
+
+CONTROLE LAINE
+
+□ Mana Egg 16.
+□ Warp Staff, Ogre Helm, Wolf Boots, Fruit of Defense et Horn of Knowledge.
+□ Brilliant! affiche.
+
+41. ZIL RUINS
+
+Inventaire complet : Warp Shoes, 270G x25, 810G x5, Seed of Magic, Seed of
+Power x3, Miracle Drink, Lightning Charm, Seed of Defense, Resurrect Potion,
+All-Around Seed, Medal of Knowledge, Counter Ring, Seed of Running x2,
+[MANA EGG 17], Revival Stone, Seed of Speed x2, Crimson Potion, Earth Charm,
+Fruit of Magic, Demon Eye Stone.
+
+1. Cree une sauvegarde avant l'entree : on ne ressort pas des ruines avant la
+fin de l'objectif.
+2. Dans Section 1, prends 270G a l'est, Warp Shoes au nord-ouest et les poches
+autour de l'entree. Descends ensuite vers Section 4 pour All-Around Seed et
+les 270G du cul-de-sac.
+3. Reviens a Section 1, prends le coffre 810G est, puis Seed of Magic. Dans
+Section 2, fouille les plateformes pour Lightning Charm, Miracle Drink, Seed
+of Power, Seed of Defense et les 270G/810G.
+4. Active les boutons rouges au bas des escaliers, traverse les plateformes
+mobiles et sauvegarde avant Shrine 1.
+5. [BOSS] Ruin Guard : detruis la hache ou concentre les attaques de zone sur
+le corps ; veille a interrompre Healer.
+6. Apres Ruin Guard, prends le Medal of Knowledge, puis le passage secret au
+sud de Shrine 1 pour Counter Ring et Seed of Running.
+7. Dans Section 4 basse, prends la Crimson Potion, Earth Charm, les derniers
+Seed of Power/Running/Speed et le coffre de Mana Egg : [MANA EGG 17].
+8. Recupere Revival Stone, Fruit of Magic et Demon Eye Stone avant de sortir.
+9. Le Medal of Knowledge est un objet de collection distinct de la Medal of
+Wisdom : conserve les deux.
+
+CONTROLE ZIL RUINS
+
+□ Les 25 x 270G et 5 x 810G.
+□ Warp Shoes, Medal of Knowledge, Counter Ring et Revival Stone.
+□ Mana Egg 17.
+□ Seeds, Charms, Crimson Potion, Earth Charm, Fruit of Magic et Demon Eye
+  Stone.
+
+42. THE GRANDEUR
+
+Inventaire complet : Fruit of Moves, 280G x7, 840G x2, Warrior's Mail.
+
+1. Dans le Passageway, prends Fruit of Moves, puis les 280G des deux
+embranchements.
+2. Dans les salles de soldats, prends les deux coffres de 840G et Warrior's
+Mail sous l'escalier.
+3. Utilise le point de sauvegarde de l'Engine Room avant le combat des trois
+sergents.
+4. [BOSS] Saki, Nana et Mio : soigne les etats Sleep/Poison/Paralysis, garde
+les attaques de zone pour les groupes et utilise les moves de Justin.
+5. [BOSS] General Baal : concentre les attaques sur le corps, interromps son
+soin et conserve la sauvegarde S5. La fuite de la Grandeur et l'affrontement
+valident Going Down.
+
+43. RAINBOW MOUNTAIN
+
+Inventaire complet : 290G x8, Fruit of Life, Seed of Defense x2, 870G x2,
+Seed of Life, Phantom Silk, Bond of Trust, Fruit of Defense.
+
+1. Traverse la premiere corde est, prends 290G, puis la corde nord-ouest vers
+Fruit of Life.
+2. Utilise les cordes sud-ouest et est pour les 290G et le premier coffre Seed
+of Defense. Continue par les ilots pour les poches 290G et Seed of Life.
+3. Descends derriere la cascade pour Phantom Silk et le coffre 870G cache.
+4. Dans la partie haute, prends Bond of Trust, Fruit of Defense, le second
+Seed of Defense et les derniers 290G/870G.
+5. Au Rainbow Spring, conserve la sauvegarde avant la transition vers Alent.
+
+44. ALENT
+
+Inventaire : [MANA EGG 18], 260G.
+
+1. Des l'arrivee par Rainbow, prends [MANA EGG 18] dans le Garden avant le
+premier point de sauvegarde. C'est le dernier oeuf du registre.
+2. Utilise la reserve d'Alent et recupere l'equipement de Guido avant la suite.
+3. Les trois combats de la zone sont Hydra, Great Susano-O et Phantom Dragon.
+Utilise les attaques de zone sur les groupes de tetes et soigne avant chaque
+machine de transport.
+4. L'ascenseur final valide Spaced Out. Controle ensuite les 18 Mana Eggs et
+Eggsellence avant de reprendre la route.
+
+CONTROLE ALENT
+
+□ Mana Egg 18.
+□ Hydra, Great Susano-O et Phantom Dragon vaincus.
+□ Spaced Out affiche.
+□ Eggsellence affiche : 18/18 Mana Eggs.
+
+======================================================================
+CONTENU BONUS A TERMINER AVANT LE VERROU FINAL
+======================================================================
+
+45. TOWER OF TEMPTATION - EAST SAVANNA
+
+Cette tour est le troisieme donjon bonus et le plus difficile. Elle ne fait pas
+partie de la route narrative, mais elle est necessaire pour Slayer of the Seas.
+Le point d'acces se trouve dans l'East Savanna, derriere la route de la zone de
+teleportation. Fais-la apres le retour d'Alent, avant de traverser Luzet
+Mountains pour J Base.
+
+Inventaire a ramasser : Resurrect Potion, Ruination Knife, Golden Potion,
+Glass Slippers, Ethereal Miracle, Astral Miracle, Revival Stone x2, Holy Crown,
+Hertz Spike, Ring of Rage, Fruit of Defense, Fairy Tiara, Sonic Belt, 250G x4,
+750G.
+
+Route courte et sure :
+
+1. Depuis l'entree, monte au 9F par l'escalier A.
+2. Sur le 9F, evite les trappes et prends d'abord les cinq tresors visibles.
+La trappe G est la seule a utiliser pour atteindre la route superieure ; une
+fois tombee, la remontee n'est plus possible.
+3. Sur le 8F, prends les quatre tresors puis passe par la trappe M pour la
+connexion au 7F et reviens par la route principale.
+4. Au 10F, [BOSS] Gargoyle. Garde SP et MP pour les deux combats suivants.
+5. Au 11F, [BOSS] Slug Fish. Detruis le corps avant la Lure et soigne la
+confusion sans gaspiller les gros objets.
+6. Au 12F, [BOSS] Leviathan. Detruis les deux tentacules pour retirer Twin
+Typhoon et les soins, puis concentre les meilleurs moves sur le corps.
+7. Au sommet, prends les dix recompenses, dont Ethereal Miracle et Astral
+Miracle. Le Teleport Pad ramene a l'East Savanna.
+8. Le succes Slayer of the Seas apparait apres Leviathan. Si la tour est
+terminee mais que le succes manque, recharge S5 avant de quitter la zone.
+
+CONTROLE TOWER OF TEMPTATION
+
+□ Les trois boss bonus vaincus : Gargoyle, Slug Fish, Leviathan.
+□ Ethereal Miracle et Astral Miracle recuperes.
+□ Tous les coffres des 8F, 9F et du sommet.
+□ Slayer of the Seas affiche.
+
+46. NETTOYAGE DES COMPTEURS ET DE L'OR
+
+Little Green :
+
+□ 50 combats remportes. Il devrait tomber avant ou autour de Dom Ruins.
+
+Brutal Slayer et Savage Slayer :
+
+□ 1 000 monstres vaincus.
+□ 2 500 monstres vaincus.
+
+Si le compteur est en retard, utilise les boucles suivantes avant J Base :
+
+- West Misty Forest : groupes de Grim Haze et retours par Luc Village.
+- Petrified Forest / Cafu : groupes d'Alligator pres de la sortie de Tower of
+  Doom.
+- East Savanna apres Alent : groupes de monstres mutants, souvent nombreux.
+- Icarian City : boucle autour des points de sauvegarde, sans depenser les
+  objets de soin de la sauvegarde finale.
+
+Rich Man :
+
+□ Solde de 250 000 G atteint. Ne vends pas Energy Charm, Ethereal Miracle,
+  Astral Miracle, Seeds et armes uniques pour atteindre le seuil : les gros
+  coffres, les boss et les achats evites suffisent avec les boucles de Savanna.
+□ Rich Man affiche dans Steam.
+
+======================================================================
+DERNIER PARCOURS : LUZET, J BASE, SANCTUAIRE ET GAIA
+======================================================================
+
+47. LUZET MOUNTAINS - PREMIER PASSAGE
+
+Inventaire : 300G x5, Seed of Running x2, Magic Lipstick, 900G x3, Deep Blue
+Potion, Soul of Asura, Seed of Moves.
+
+1. Dans la premiere section, prends 300G, Seed of Running et le coffre Magic
+Lipstick. Utilise les portes et les tunnels en suivant les points de sauvegarde.
+2. Dans la seconde section, prends les 900G, Deep Blue Potion, Soul of Asura
+et Seed of Moves. La route est lineaire apres la derniere porte.
+3. Avant J Base, verifie que les trois donjons bonus sont termines et que les
+compteurs Steam sont enregistres. Apres le verrou de J Base, les retours sont
+limites.
+
+48. J BASE ET UNDERGROUND RAILWAY RUINS
+
+1. Dans J Base, active le point de sauvegarde du Hangar et explore les salles
+des officiers. Dans TACOM, examine la statue pres du garde blesse pour ouvrir
+le passage secret.
+2. Dans les Underground Railway Ruins, suis les rails vers le sud. Le donjon
+est court mais les ennemis interrompent souvent les tours : utilise Dragon Cut
+et les coups de zone.
+3. [BOSS] General Baal, seconde confrontation : frappe le corps et les
+tentacules avec les attaques a distance, puis sors vers Field Base.
+4. Controle Going Down dans le journal Steam si la victoire et la fuite n'ont
+pas affiche le succes immediatement.
+
+49. FIELD BASE ET ZIL PADON
+
+1. A Field Base, utilise le magasin et le point de sauvegarde. Parle a Feena
+et Leen dans les tentes avant de repartir.
+2. A Zil Padon, aide les habitants et les survivants dans l'ordre indique par
+les icones. Dans la zone sure, sauvegarde chez Guido.
+3. [BOSS] Gaia Battler : vise le corps, puis les bras si une attaque chargee
+menace le groupe. Ce combat ne remplace pas le succes du premier Battler si
+Tower of Doom n'a pas ete fait.
+4. Reviens au magasin de Zil Padon, fais les achats de soins, puis repars vers
+Luzet Mountains.
+
+50. LUZET MOUNTAINS - SECOND PASSAGE ET J BASE
+
+1. Le trajet reprend la carte deja nettoyee, mais de nouveaux ennemis
+apparaissent. Utilise cette boucle pour finir Brutal/Savage Slayer si besoin.
+2. A J Base, active la sauvegarde du Control Room et prepare l'equipement de
+Justin, Feena, Rapp et Liete.
+3. Les scenes suivantes ferment progressivement les acces. Termine les
+conversations indiquees par les icones, puis rejoins Field Base quand la route
+l'ordonne.
+4. Quand le portail de Zil Padon s'ouvre, va chez Guido et entre dans le
+Spirit Sanctuary.
+
+51. SPIRIT SANCTUARY
+
+Inventaire complet : Revival Stone, Force Knife, Spirit Shoes, All-Around
+Fruit, Fruit of Magic, Fruit of Moves, Seed of Life, Gauntlets of Light,
+Spirit Sword.
+
+1. Active le point de sauvegarde et prends la branche droite au premier choix.
+2. Dans la zone des chemins colores, traverse rouge, bleu puis rouge dans cet
+ordre pour faire apparaitre le chemin de lumiere.
+3. Ramasse Revival Stone, Force Knife, Spirit Shoes, All-Around Fruit, Fruit
+of Magic, Fruit of Moves, Seed of Life et Gauntlets of Light avant la salle du
+boss.
+4. [BOSS] Mage King : frappe rapidement le corps et garde une Resurrection
+disponible ; les attaques de zone sont efficaces contre la Wand.
+5. Dans la Room of Truth, prends la Spirit Sword. Le succes Brawny Blade est
+valide ici, pas par l'objet du defi de Parm.
+
+CONTROLE SPIRIT SANCTUARY
+
+□ Tous les objets nommes recuperes.
+□ Spirit Sword de la Room of Truth.
+□ Brawny Blade affiche.
+
+52. ICARIAN CITY
+
+Inventaire complet : 320G x13, Golden Potion, Spirit Shield, Gauntlets of
+Light, Spirit Helmet, Crimson Potion, Angel's Robe, 960G, Evil Shuriken,
+Lion Boots.
+
+1. Dans la premiere section, ramasse les 320G autour de l'entree puis prends
+la fenetre vers Lion Boots. Evite les dalles qui declenchent le plafond.
+2. Descends la spirale jusqu'a la section 4. Utilise la sphere rouge : rouge
+ramene, jaune avance, bleu conduit aux coffres. Controle chaque couleur avant
+de choisir.
+3. Ramasse Spirit Shield, Gauntlets of Light, Spirit Helmet, Crimson Potion,
+Angel's Robe, Evil Shuriken, Golden Potion, 960G et les 13 x 320G.
+4. [BOSS] Gaia Battler : concentre les attaques sur le corps et annule les
+bras quand ils chargent.
+5. Active le point de sauvegarde de Section 4. Equipe Spirit Sword et
+Energy Charm sur Justin avant le combat suivant.
+6. [BOSS] Mullen : utilise Dragon Cut/Midair Cut et soigne apres chaque attaque
+de zone. Passe ensuite dans la derniere zone sans depenser les potions rares.
+
+53. GAIA
+
+Inventaire complet : Tear Jewel, 990G x2, Chain of Gems, Whip of Light, 330G
+x6, Spirit Potion, Fruit of Power, Discus, Deep Blue Potion, Spirit Armor,
+Spirit Charm, Robe of the Sun.
+
+1. Au premier point de sauvegarde, prends Tear Jewel, les 990G et Chain of
+Gems. Les ennemis de Gaia peuvent etre evites, mais ne saute pas les coffres.
+2. Dans la premiere zone, ouvre Whip of Light, les 330G x6, Spirit Potion,
+Fruit of Power, Discus, Deep Blue Potion et Spirit Armor.
+3. Dans la zone des chemins colores, choisis une couleur differente a chaque
+carrefour jusqu'a la salle des trois tentacules. Active-les pour ouvrir le
+dernier chemin.
+4. Utilise le dernier point de sauvegarde. Equipe Spirit Sword, Energy Charm,
+Spirit Armor et les meilleurs soins. Garde les SP pour les trois combats de
+fin.
+5. [BOSS] Gaia Trent : vise le corps, utilise les moves de zone et soigne
+avant que les bras ne jouent. La victoire valide Dream Catcher.
+6. Traverse le tunnel qui inverse les chemins. Utilise les points lumineux et
+les spheres pour eviter les detours inutiles.
+7. [BOSS] Gaia Armor/Eye : detruis la cible qui bloque la progression, puis
+reviens au point de sauvegarde si les SP sont bas.
+8. [BOSS] Baal/Gaia : frappe le corps et annule les soins. Les attaques de
+Justin avec Energy Charm sont la priorite.
+9. [BOSS] Gaia Core : detruis les Mega Gaia avant qu'elles n'empilent les
+tentacules, puis regenere SP et MP avant le dernier combat.
+10. [BOSS] Gaia : utilise les meilleurs moves, les soins de zone et les
+Resurrect Potions. Le succes Final Foe apparait apres la victoire.
+
+CONTROLE FINAL DU DONJON
+
+□ Tous les objets de Gaia et les 6 x 330G.
+□ Gaia Trent vaincu : Dream Catcher.
+□ Gaia vaincu : Final Foe.
+□ La sauvegarde finale reste conservee jusqu'a la verification Steam.
+
+======================================================================
+TABLE DE DEPANNAGE DES SUCCES
+======================================================================
+
+Besties : Sue rejoint le groupe au debut.
+Charge! : gagne le premier combat.
+Icarian Energy Item : recupere la Spirit Stone au Baal Museum.
+Growth Spurt : monte de niveau pour la premiere fois.
+Bringing Down the Orcs : bats Orc King dans Leck Mines.
+Little Green : gagne 50 combats.
+Ghost Egg : recupere le premier Mana Egg, celui du Squid King.
+Beneath the Spooky Seas : termine le Ghost Ship et bats Squid King.
+Professional On Board : Feena rejoint la route apres Feena's House.
+Wrecked in the Ruins : bats Ganymede dans Dom Ruins.
+Train Robbers : termine la fuite du Military Train.
+Gift of the Gods : prends Sacred Nectar a God of Light Mountain.
+The End is the Beginning : atteint le sommet de End of the World.
+Swab Boss : nettoie le pont dans la fenetre du Steamer, idealement sous 26 s.
+Brutal Slayer : bats 1 000 monstres.
+Klepp Killer : bats Klepp King/Serpent en haut de Typhoon Tower.
+Warrior Bud : Gadwin rejoint le groupe apres son duel.
+Brain Power : recupere Medal of Wisdom dans Twin Towers.
+Double-Tap : bats Massacre Machine et Massacre Machine-2.
+Battler Battler : bats Gaia Battler dans Tower of Doom.
+Cafu Comrade : deviens l'ami de Rapp a Cafu.
+Rich Man : obtiens 250 000 G.
+Brilliant! : recupere Horn of Knowledge a Abandoned Laine Village.
+Going Down : echappe a The Grandeur et General Baal.
+Spaced Out : arrive a Alent.
+Brawny Blade : recupere la Spirit Sword au Spirit Sanctuary.
+Dream Catcher : bats Gaia Trent.
+Final Foe : bats Gaia.
+Castle Bustin : bats Lord's Ghost a Castle of Dreams.
+Savage Slayer : bats 2 500 monstres.
+Fast As Lightning : bats Kung-Fu Master a Soldier's Graveyard.
+Speedy Delivery : remets la lettre de Francois a Clara.
+Overdue Booty : obtiens l'allowance de Lilly.
+Slayer of the Seas : bats Leviathan dans Tower of Temptation.
+Mum's the Word : trouves le stowaway et inspectes les tonneaux du port.
+Eggsellence : recuperes les 18 Mana Eggs.
+
+Si un succes ne s'affiche pas :
+
+1. Attends la fin complete de la scene et le retour au controle du personnage.
+2. Ouvre le profil Steam et laisse quelques secondes au client pour synchroniser.
+3. Recharge la sauvegarde de la zone, jamais une sauvegarde automatique qui
+a deja franchi la transition.
+4. Pour les compteurs, verifie le nombre de monstres et le solde d'or dans la
+session courante avant de relancer le jeu.
+
+======================================================================
 CHECKLIST FINALE - 36/36 SUCCES STEAM
+======================================================================
 
 - [ ] Besties
 - [ ] Charge!
@@ -135,12 +1400,30 @@ CHECKLIST FINALE - 36/36 SUCCES STEAM
 - [ ] Mum's the Word
 - [ ] Eggsellence
 
-VERIFICATION
+======================================================================
+VERIFICATION FINALE
+======================================================================
 
-- [ ] 36/36 succès Steam affichés dans le profil.
-- [ ] Mana Eggs, objets de quête, armes et coffres contrôlés.
-- [ ] Compteurs 50, 1 000 et 2 500 monstres vérifiés.
-- [ ] Aucun DLC ni mode online oublié.
-- [ ] Route relue sans spoiler : aucune fin, mort, identité ou conséquence
-      narrative n'est expliquée.
+□ 36/36 succes Steam affiches dans le profil.
+□ 18/18 Mana Eggs et Eggsellence affiches.
+□ 250 000 G et Rich Man affiches.
+□ 2 500 monstres et Savage Slayer affiches.
+□ Soldier's Graveyard, Castle of Dreams et Tower of Temptation termines.
+□ Letter of Francois, pin de Marie, allowance de Lilly et stowaway controles.
+□ Les objets uniques sont dans la reserve ou equipes, sans vente accidentelle.
+□ Route relue sans spoiler narratif.
 
+======================================================================
+SOURCES DE VERIFICATION
+======================================================================
+
+- Steam - liste officielle des 36 succes :
+  https://steamcommunity.com/stats/1034860/achievements?l=french
+- GameFAQs - inventaires et parcours detaille de Grandia HD Remaster :
+  https://gamefaqs.gamespot.com/pc/246131-grandia-hd-remaster/faqs/6812
+- nJOY - registre des 18 Mana Eggs :
+  https://i-njoy.net/gd1e_04.html
+- nJOY - plans et parcours de Tower of Temptation :
+  https://i-njoy.net/gd1e_e05.html
+- Magic Game World - controle croise de la route principale :
+  https://www.magicgameworld.com/grandia-hd-remaster-full-game-walkthrough/
