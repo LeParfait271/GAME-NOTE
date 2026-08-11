@@ -1122,7 +1122,7 @@ button {
 }
 
 .reader-section {
-  padding-block: 120px 112px;
+  padding-block: 76px 112px;
 }
 
 .reader-tools {
@@ -1856,6 +1856,10 @@ button {
     padding-block: 82px 88px;
   }
 
+  .reader-section {
+    padding-top: 54px;
+  }
+
   .section-heading,
   .reader-header {
     align-items: flex-start;
@@ -2119,4 +2123,3 @@ button {
     animation-iteration-count: 1 !important;
   }
 }
-
