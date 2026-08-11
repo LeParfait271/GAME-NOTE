@@ -2501,6 +2501,86 @@ const guides: Guide[] = [
       "A surveiller : 0 succes Steam sur l'AppID ; la completion vise missions, bonus et scores.",
     meta: ["0/0 Steam", "Operations", "Scores"],
   },
+  {
+    id: "homefront",
+    steamAppId: 55100,
+    title: "Homefront",
+    eyebrow: "Kaos Studios / THQ",
+    subtitle: "Campagne, News Pickups et online dans l'ordre.",
+    count: "47 succes Steam",
+    file: "homefront.txt",
+    accent: "coral",
+    tag: "Guide 100 % Steam",
+    description:
+      "Route des sept chapitres, des 61 News Pickups, des runs Iron Man et Guerrilla et du multijoueur.",
+    highlight:
+      "A surveiller : les deux passages du chapitre 3, les runs sans checkpoint, les SAM trucks et les challenges online.",
+    meta: ["47/47 Steam", "7 chapitres", "Solo / Multi"],
+  },
+  {
+    id: "max-payne-3",
+    steamAppId: 204100,
+    title: "Max Payne 3",
+    eyebrow: "Rockstar Games",
+    subtitle: "Campagne, difficultes et multijoueur dans l'ordre.",
+    count: "67 succes Steam",
+    file: "max-payne-3.txt",
+    accent: "blue",
+    tag: "Guide 100 % Steam",
+    description:
+      "Route des trois parties, armes dorees, indices, modes solo, quatre difficultes et nettoyage online.",
+    highlight:
+      "A surveiller : la visee libre, les collectibles par chapitre, New York Minute et les conditions de cartes online.",
+    meta: ["67/67 Steam", "Campagne", "Multijoueur"],
+  },
+  {
+    id: "mortal-kombat-x",
+    steamAppId: 307780,
+    title: "Mortal Kombat X",
+    eyebrow: "NetherRealm Studios",
+    subtitle: "Story, Krypte, Tours et factions dans l'ordre.",
+    count: "73 succes Steam",
+    file: "mortal-kombat-x.txt",
+    accent: "coral",
+    tag: "Guide 100 % Steam",
+    description:
+      "Route du tutoriel, Story Mode, Krypt, Tours, personnages, variantes, factions et online.",
+    highlight:
+      "A surveiller : les Tours vivantes, les cinq factions, les personnages Kombat Pack 2 et les series online.",
+    meta: ["73/73 Steam", "Story + Tours", "Online"],
+  },
+  {
+    id: "far-cry-2",
+    steamAppId: 19900,
+    title: "Far Cry 2",
+    eyebrow: "Ubisoft Montreal",
+    subtitle: "Campagne, factions et exploration dans l'ordre.",
+    count: "0 succes Steam",
+    file: "far-cry-2.txt",
+    accent: "gold",
+    tag: "Soluce speciale",
+    description:
+      "Route de campagne, missions de faction, buddies, diamants, bandes, planques et armes.",
+    highlight:
+      "A surveiller : cet AppID n'expose pas de succes Steam ; la completion est suivie manuellement par activites.",
+    meta: ["0/0 Steam", "Campagne", "Exploration"],
+  },
+  {
+    id: "half-life",
+    steamAppId: 70,
+    title: "Half-Life",
+    eyebrow: "Valve",
+    subtitle: "Campagne classique et exploration dans l'ordre.",
+    count: "0 succes Steam",
+    file: "half-life.txt",
+    accent: "blue",
+    tag: "Soluce speciale",
+    description:
+      "Route de la campagne solo, ressources, armes, transitions et exploration des chapitres classiques.",
+    highlight:
+      "A surveiller : cet AppID n'expose pas de succes Steam ; la completion est suivie par chapitres et zones visitees.",
+    meta: ["0/0 Steam", "Campagne classique", "Solo"],
+  },
 ];
 
 const steamHeaderUrl = (appId: number) =>
