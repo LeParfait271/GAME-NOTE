@@ -1,0 +1,304 @@
+S.T.A.L.K.E.R.: CALL OF PRIPYAT
+GUIDE CHRONOLOGIQUE - ORIGINAL + ENHANCED - SANS SPOILER
+
+Version de travail : 11 aout 2026
+
+EDITION ENHANCED
+
+L'edition Steam Enhanced utilise l'AppID 2427430, affiche officiellement le
+nom Call of Prypiat et comporte 47 succes Steam. Objectif 100 % Steam = 47/47.
+
+EDITION ORIGINALE
+
+L'edition Steam originale est l'AppID 41700. Elle expose 0/0 succes Steam.
+La soluce commune couvre quand meme les trois grandes zones, les helicos, les
+missions secondaires, les outils, les artefacts, les caches et les fins.
+
+OBJECTIF REEL
+
+[ ] Zaton, Jupiter et Pripyat nettoyes dans l'ordre, avec retour aux bases
+    apres chaque nouveau renseignement.
+[ ] Les branches Stalkers/Bandits, Duty/Freedom et les fins sont protegees
+    par des sauvegardes dediees.
+[ ] Les 6 outils, les 4 detecteurs, les caches de Zaton, les documents X-8,
+    les notes des caches du groupe principal et les artefacts sont coches.
+[ ] 47/47 succes Steam pour l'Enhanced, ou 0/0 pour l'original.
+
+GARDE-FOUS ET MISSABLES
+
+- Utilise l'Enhanced sans mod de gameplay et verifie la surcouche Steam.
+- Sauvegardes conseillees : DEBUT-ZATON, APRES-PETRUHA, AVANT-FLINT,
+  AVANT-COMPASS, APRES-OUTILS, AVANT-X8, AVANT-EVACUATION.
+- Le point de non-retour arrive apres la desactivation de la source
+  d'interference dans le Kindergarten. Sauvegarde avant cette mission.
+- Pinocchio exige les sept histoires de Flint. Ne le denonce pas avant d'avoir
+  ecoute les six premieres, puis sauvegarde avant la septieme.
+- Courier of Justice se fait seulement apres Pinocchio : ne remets pas Flint
+  avant le dernier dialogue requis.
+- `Under every rock` depend du message de cache trouve. Si Steam ne confirme
+  pas une cache, recharge avant la fouille et prends tous les objets d'armes.
+- Les deux fins de l'evacuation, les choix de factions et l'homme de balance
+  ne se font pas sur la meme sauvegarde. Garde AVANT-EVACUATION et
+  AVANT-COMPASS.
+- Aucun nom de cible, revelation ou detail de denouement n'est donne. Les
+  noms de missions servent uniquement a cocher la progression.
+
+ROUTE CHRONOLOGIQUE
+
+00 - DEBUT / ZATON / SKADOVSK
+
+- Apres l'arrivee, active l'Echo dans ton equipement et explore l'anomalie
+  Boiler. Quand Petruha est blesse, aide-le avec une trousse pour Old
+  acquaintance. Le detecteur Bear est sa recompense.
+- Entre dans Skadovsk pour Unsinkable. Parle a Beard, Owl, Cardan, Trapper,
+  Grouse et aux chefs de groupes sans accepter un choix irreversible.
+- Fais les premieres missions de Beard et les recherches d'anomalies avant de
+  vendre des artefacts. Conserve chaque artefact rare jusqu'au controle du PDA.
+- Inspecte les helicos Stingray et recupere les cartes et documents a chaque
+  epave. Imperfect plans se valide au fil de cette enquete.
+- Visite les anomalies non marquees, les camps, le bateau de Noah et les
+  passages de Zaton. Le compteur Seasoned Stalker doit monter naturellement.
+- [ ] Echo utilise, Petruha aide, Bear obtenu, Skadovsk et premier helico.
+
+01 - ZATON : GROUSE ET DISPARITIONS
+
+- Suis la ligne de Grouse jusqu'a comprendre les disparitions de stalkers.
+  Ne quitte pas Skadovsk en laissant un dialogue ou une recherche active.
+  Detective se valide a la fin de cette ligne.
+- Fais les trois missions de Trapper a Yaniv plus tard, mais commence deja a
+  eliminer les mutants rencontres : Swamp Bloodsuckers, Unidentified Mutants
+  et Night Hunt sont necessaires pour Mutant Hunter.
+- Aide les groupes de stalkers, Vano et Mitay. Pour Diplomat, rembourse la
+  dette de Vano et sauve Mitay sans tuer les bandits.
+- Demarre les lignes A Friend of Stalkers, One of Ours et Boss uniquement
+  depuis AVANT-COMPASS. Chaque resultat demande une decision differente.
+- Explore chaque cache a arme de Zaton et attends le message `Stash found`.
+  Marque la liste Under every rock plus bas avant de passer a Jupiter.
+- [ ] Detective, Diplomat et les premieres caches de Zaton.
+
+02 - ZATON : COMPASS / FLINT / DETECTEURS
+
+- Fais la mission Compass en donnant l'artefact a Beard sur la branche
+  Stalkers. Depuis AVANT-COMPASS, recharge ensuite pour la branche Bandits
+  demandee par Boss.
+- Aide les stalkers en difficulte et garde Spartacus vivant pendant The Hit et
+  The Transaction. Cette precaution est necessaire pour A Friend of Stalkers.
+- Rencontre Magpie/Flint a Yaniv, mais ne le denonce pas tout de suite.
+  Ecoute les sept histoires dans cet ordre de declenchement :
+  [ ] arrivee a Yaniv;
+  [ ] apres Bloodsucker Lair;
+  [ ] apres Area Maps;
+  [ ] apres Oasis;
+  [ ] apres Anomaly research;
+  [ ] apres Retribution;
+  [ ] pendant l'accusation de Flint pour Splinter's death.
+- Fais une sauvegarde AVANT-FLINT avant le dernier dialogue. Quand les sept
+  histoires sont cochees, valide Pinocchio, puis seulement Courier of Justice.
+- Rencontre Noah sur sa vieille barge pour Arkless et utilise son passage
+  pour inspecter la zone de l'helico.
+- [ ] Pinocchio avant Courier of Justice, Compass et Noah.
+
+03 - ZATON : OUTILS, CACHES ET RECHERCHES
+
+- Pour Cardan, Nitro et les deux succes d'outils, trouve les six caisses :
+  [ ] outils basiques : grenier de la scierie de Zaton;
+  [ ] outils basiques : train avec anomalie Tesla pres du bunker Jupiter;
+  [ ] outils fins : ateliers de la sous-station apres avoir donne cinq
+      aliments au chef mercenaire;
+  [ ] outils fins : grenier du depot au sud de l'anomalie Concrete Bath;
+  [ ] outils de calibration : Old Service Center, deuxieme etage de Pripyat;
+  [ ] outils de calibration : sous-sol du grand magasin de Pripyat.
+- Donne les outils a Cardan et Nitro, puis verifie Weapon Systems Expert et
+  Hi-Tech Expert. Ne garde pas les outils dans une cache perso.
+- Obtiens les quatre detecteurs dans l'ordre : Echo au debut, Bear par
+  Petruha, Veles via la mission des Owl, Svarog apres les recherches.
+  Trouve au moins un artefact avec chacun pour Detectortive.
+- Fais les recherches de chaque formation anomalique : Altered Wheel a Beard,
+  Altered Insulator au bunker, Heart of the Oasis aux scientifiques et
+  Anomalous Plant dans la ligne d'Ozersky. Valide Pioneer.
+- [ ] 6/6 outils, 4/4 detecteurs, Pioneer et Detectortive.
+
+04 - ZATON : ANOMALIES ET CACHES A ARMES
+
+- Apres chaque Emission, repasse dans les anomalies de Zaton avec le meilleur
+  detecteur disponible. Garde Flame, Snowflake, Stone Flower et Moonlight
+  pour Natural disaster, qui demande les quatre equipes ensemble.
+- Pour Gifts of nature, trouve le Heart of the Oasis dans le tunnel ferroviaire
+  et donne-le aux scientifiques. Ne le vends pas et ne le donne pas a un autre
+  groupe.
+- Pour Marked by the Zone, attends l'acces aux anabiotiques puis survis a trois
+  Emissions a l'exterieur avec les pilules. Fais une sauvegarde avant chaque
+  tentative.
+- Pour Mirone, is it you?, fouille la grotte sous la ferme brulee et controle
+  l'anabiotique disponible dans la zone.
+- Pour Alpha predator, tue les mutants au fil des quetes. S'il reste des kills,
+  la zone du complexe d'antenne et le passage de Pripyat sont de bons lieux de
+  nettoyage depuis une sauvegarde.
+- [ ] Heart of the Oasis, Mirone, 3 Emissions et premiers 300 mutants.
+
+05 - JUPITER / YANOV
+
+- Rejoins Yanov pour Train to Yaniv. Parle a Zulu, Vano, Sokolov, Strider,
+  Loki et Shulga avant de choisir une faction.
+- Termine les quetes d'Hermann et Ozersky au bunker scientifique pour Research
+  Assistant. Fais aussi la mission de la plante anomalique pour l'equipement
+  de Sokolov.
+- Termine les trois chasses de Trapper a Yanov pour Mutant Hunter.
+- Trouve le Heart of the Oasis si ce n'est pas fait, puis donne-le aux
+  scientifiques. Explore toutes les anomalies de Jupiter pour Artifact Hunter.
+- Fais les trois caches du groupe de Strelok et prends leurs notes :
+  [ ] sous l'usine de ciment, acces par les marecages;
+  [ ] cabine de la roue-pelle a la carriere;
+  [ ] chateau d'eau de l'usine Jupiter, dans le reservoir.
+  Garde les notes et remets-les a la personne prevue, jamais a Owl.
+- [ ] Research Assistant, Mutant Hunter, A Keeper of Secrets.
+
+06 - JUPITER : FACTIONS ET INFORMATIONS
+
+- Recrute les membres de l'escouade avant le passage de l'overpass : Zulu,
+  Vano, Sokolov et Strider. Fais les missions necessaires pour Leader.
+- A Friend of Stalkers : Missing Stalkers, The Hit cote Stalkers,
+  Transaction cote Stalkers, Shady Business cote Stalkers, Bloodsucker Lair,
+  dette de Vano, toutes les chasses de Trapper, chimere avec Gonta et otage
+  Mitay. Spartacus doit rester vivant.
+- One of Ours : recharge AVANT-COMPASS, fais The Hit et Transaction cote
+  Stalkers et donne Compass a Beard.
+- Boss : recharge, fais les memes missions cote Bandits et refuse la remise
+  de Compass a Beard selon la branche demandee.
+- Diplomat : paie la dette de Vano et sauve Mitay sans combat fatal.
+- A Man of Balance : garde la voie de stalker libre, vends les PDAs Morgan et
+  Tachenko a Owl et informe Gonta au sujet de Flint. Cette voie peut bloquer
+  Strider et Leader : fais-la depuis une sauvegarde dediee.
+- A Friend of Freedom / A Friend of Duty : donne les deux PDAs au chef
+  correspondant, informe-le de Flint et integre le groupe de Strider a la
+  faction choisie. Une sauvegarde par faction est obligatoire.
+- Trafficker of Information : vends au moins 10 informations parmi les PDAs,
+  ordres, carnets, dossiers, notes de Jupiter et module du drone a un trader
+  interesse. Ne vends pas les notes des caches de Strelok a Owl.
+- [ ] Les branches Stalkers, Bandits, Freedom, Duty et Balance sont separees.
+
+07 - PRIPYAT / LAUNDROMAT / X-8
+
+- Entre dans Pripyat et valide Purgatory au Laundromat. Fais les missions de
+  Kovalsky, Zulu et les medecins avant l'operation finale.
+- Dans la mission Item 62, prends le fusil Gauss, donne-le a Cardan pour la
+  reparation et recupere-le ensuite. La notification vient apres la remise.
+- A X-8, fouille les six dossiers : chaque salle, la salle secrete et la
+  zone accessible par la cage d'ascenseur. Ne pars pas au premier message de
+  sortie : verifie les six documents pour Librarian.
+- Tue trois Poltergeists pour Ghostbuster : Circus, Iron Forest, X-8 et/ou
+  Kindergarten offrent des apparitions. Trois suffisent.
+- Termine les histoires de Flint si ce n'est pas deja fait, puis valide
+  Courier of Justice avec la branche dediee.
+- [ ] Purgatory, Item 62, Librarian, Ghostbuster et Flint.
+
+08 - PRIPYAT : ESCUADE ET POINT DE NON-RETOUR
+
+- Avant le Kindergarten, fais AVANT-X8 et controle : outils, caches de Zaton,
+  detec teurs, artefacts, factions, notes et documents.
+- Desactive la source d'interference dans le Kindergarten seulement apres le
+  nettoyage. Le jeu peut encore offrir le choix de rester, mais le retour aux
+  activites manquees est moins confortable.
+- Rassemble Zulu, Vano, Sokolov et Strider pour Leader. Si un membre manque,
+  recharge Jupiter et termine sa mission avant l'overpass.
+- Pendant l'evacuation, sauve tous les membres du groupe de Kovalsky jusqu'au
+  Prometheus, y compris le medecin pres de l'ecole, pour Well-timed backup.
+- [ ] Squad complete, Prometheus atteint, sauvegarde AVANT-EVACUATION.
+
+09 - EVACUATION ET FIN DE PARTIE
+
+- Depuis AVANT-EVACUATION, termine une fois en choisissant l'evacuation pour
+  Evacuation. Avant l'approche des helicos, passe en Veteran ou Master pour
+  The Zone will remember us si le succes n'est pas encore coche.
+- Recharge ensuite et choisis de rester dans la Zone pour Stalker by blood.
+  Cette branche permet le nettoyage libre avec les guides et les anomalies.
+- Termine ensuite les missions restantes et utilise Pilot pour quitter plus
+  tard si necessaire. Ne supprime jamais la sauvegarde des deux choix.
+- Intelligence agent et It's all fake se font depuis la meme sauvegarde finale
+  en changeant la difficulte en Stalker puis Novice avant la validation.
+- [ ] Les deux choix, les trois difficultes et Irresistable call.
+
+CACHES A ARMES DE ZATON - UNDER EVERY ROCK
+
+Prends tous les objets d'armes de chaque cache et attends le message de cache
+trouvee. Les emplacements a verifier sont :
+
+[ ] Buissons tout au nord - TRs-301 et grenades M203.
+[ ] Nord au-dessus de la scierie, sous un sapin - SVDm-2.
+[ ] Nord-ouest au-dessus de la scierie - AKM-72/2 et lance-grenades.
+[ ] Toit effondre de la scene a Izumrudnoye - AKM-74/2.
+[ ] Maison en ruine d'Izumrudnoye - TRs-301.
+[ ] Rochers pres de l'anomalie sous la ferme brulee - Viper-5.
+[ ] Toit d'une maison de la ferme brulee - Vintar BC.
+[ ] Buissons devant la Dangerous Cave - Chaser 13.
+[ ] Roseaux du marais, pres d'une coque de bateau - fusil de chasse.
+[ ] Arbre entre Boiler et dredge stations - PMm.
+[ ] Grenier de la Ranger station - SPSA-14.
+[ ] Poele de la Ranger station - AKM-74/2.
+[ ] Camion pres des grues du port - Martha.
+[ ] Bateau sous la barge - IL 86.
+[ ] Roseaux au nord-ouest de la barge de Noah - PMm.
+[ ] Rochers au nord de la station de carburant - SIP-t M200.
+[ ] Arbre au sud-est de la station de carburant - Kora-919.
+[ ] Table du batiment sud-ouest de Iron Forest - Black Kite.
+
+CHECKLIST ENHANCED - 47/47
+
+[ ] Unsinkable                    [ ] Arkless
+[ ] Train to Yaniv                [ ] Old acquaintance
+[ ] Detective                     [ ] Imperfect plans
+[ ] A Wealthy Client              [ ] Forgotten paths
+[ ] Courier of Justice            [ ] Purgatory
+[ ] Research Assistant            [ ] Gifts of nature
+[ ] Mutant Hunter                 [ ] Pioneer
+[ ] It's all fake                 [ ] Irresistable call
+[ ] Ghostbuster                   [ ] Weapon Systems Expert
+[ ] Item 62                       [ ] Mirone, is it you?
+[ ] Leader                        [ ] Seasoned Stalker
+[ ] One of Ours                   [ ] Hi-Tech Expert
+[ ] Intelligence agent            [ ] Evacuation
+[ ] Detectortive                  [ ] Well-timed backup
+[ ] A Friend of Stalkers          [ ] Librarian
+[ ] Stalker by blood              [ ] The Zone will remember us
+[ ] Artifact Hunter               [ ] Trafficker of Information
+[ ] Alpha predator                [ ] Coffee reactor
+[ ] Diplomat                      [ ] A Keeper of Secrets
+[ ] Natural disaster              [ ] Marked by the Zone
+[ ] A Friend of Freedom           [ ] A Friend of Duty
+[ ] A Man of Balance              [ ] Under every rock
+[ ] Agent F-1                     [ ] Boss
+[ ] Pinocchio
+
+COMPTEURS ENHANCED
+
+- Coffee reactor : bois 100 boissons energetiques. Avec une sauvegarde et
+  une petite serie de boissons, le compteur peut etre valide sans gaspiller.
+- Agent F-1 : tue 100 ennemis a la grenade. Les groupes de zombies de la
+  scierie sont pratiques depuis une sauvegarde de test.
+- A Wealthy Client : accumule 100 000 roubles, sans vendre les objets uniques.
+- Seasoned Stalker : visite au moins 18 anomalies, y compris celles absentes
+  de la carte principale.
+- Artifact Hunter : trouve chaque type d'artefact. Reviens apres chaque
+  Emission avec le Svarog et note les variantes dans le PDA.
+- Natural disaster : equipe en meme temps Snowflake, Flame, Stone Flower et
+  Moonlight dans une armure avec quatre slots.
+- Detectortive : fais apparaitre au moins un artefact avec Echo, Bear, Veles
+  et Svarog.
+- Mutant Hunter et Alpha predator : termine les trois chasses de Trapper puis
+  atteins 300 mutants.
+
+CONTROLE ORIGINAL 0/0
+
+[ ] AppID 41700 confirme dans la bibliotheque.
+[ ] Campagne, missions, artefacts, outils et caches termines.
+[ ] Aucun objectif Steam n'est attendu sur cette edition.
+
+SOURCES DE CONTROLE
+
+- Steam Enhanced, succes et total 47 :
+  https://steamcommunity.com/stats/2427430/achievements
+- Guide Steam Enhanced Call of Prypiat, route et missables :
+  https://steamcommunity.com/sharedfiles/filedetails/?id=3484672387
+- Fiche originale AppID 41700 : https://steamdb.info/app/41700/info/
+- Manuel Steam original :
+  https://cdn.akamai.steamstatic.com/steam/apps/41700/manuals/STALKER-COP-%28en%29.pdf

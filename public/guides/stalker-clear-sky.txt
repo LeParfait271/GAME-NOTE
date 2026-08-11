@@ -1,0 +1,321 @@
+S.T.A.L.K.E.R.: CLEAR SKY
+GUIDE CHRONOLOGIQUE - ORIGINAL + ENHANCED - SANS SPOILER
+
+Version de travail : 11 aout 2026
+
+EDITION ENHANCED
+
+L'edition Steam Enhanced est l'AppID 2427420. Elle comporte 43 succes Steam :
+objectif 100 % Steam = 43/43. Elle reprend la campagne de Clear Sky et ajoute
+les succes, les compteurs et les branches de factions a verifier.
+
+EDITION ORIGINALE
+
+L'edition Steam originale est l'AppID 20510. Elle expose 0/0 succes Steam.
+La route reste une soluce complete de campagne, de factions, d'artefacts,
+d'armes uniques et de zones, mais aucune notification Steam n'est attendue.
+
+OBJECTIF REEL
+
+[ ] Les Marais sont nettoyes avant de suivre la route vers Cordon.
+[ ] Les 18 flash drives, les armes uniques et les artefacts sont suivis dans
+    un registre personnel, sans vendre les objets de collection.
+[ ] Les branches de factions sont faites depuis une sauvegarde au pont vers
+    Limansk, sans refaire inutilement toute la campagne.
+[ ] 43/43 succes Steam sur l'Enhanced, ou 0/0 sur l'original.
+[ ] Les difficultes, les compteurs de ventes, de grenades, de boissons,
+    d'overload, de headshots et de services sont termines.
+
+GARDE-FOUS ET MISSABLES
+
+- Utilise l'Enhanced sans mod de gameplay et verifie la surcouche Steam.
+- Sauvegardes conseillees : DEBUT-MARAIS, STONE-BLOOD, CORDON-MILITAIRE,
+  GARBAGE-FACTIONS, AGROPROM-FLASH, AVANT-PONT et AVANT-FINAL.
+- Le passage du pont vers Limansk cree le point de non-retour pratique.
+  Sauvegarde avant de l'abaisser, puis reviens a cette sauvegarde pour les
+  factions, les armes, les artifacts et les zones manquantes.
+- Ne rejoins pas une faction apres les Marais tant que les quetes d'armes
+  uniques, les flash drives, les barmen et les techniciens ne sont pas faits.
+- Le succes Meat constructor est sensible aux apparitions aleatoires :
+  Stone Blood doit etre recherche au debut, et les quatre artefacts doivent
+  etre portes ensemble au moment du controle.
+- Les succes peuvent etre retards par un bug. Si une notification manque,
+  recharge avant la transition de zone ou la decision, puis refais l'action.
+- Ce guide donne les actions et les zones, pas les revelations de scenario.
+
+ROUTE CHRONOLOGIQUE
+
+00 - MARAIS / BASE CLEAR SKY
+
+- Fais les missions d'introduction et parle a Novikov, Suslov et Cold avant de
+  quitter la base. Utilise les services de Novikov au moins une fois.
+- Sauvegarde dans DEBUT-MARAIS avant d'entrer dans les anomalies au nord-ouest.
+  Cherche Stone Blood dans le brouillard acide derriere la tour. Si l'objet
+  n'est pas apparu, recharge avant la premiere entree dans la zone.
+- Dans la cache anomalique au nord-ouest, recupere le Veles cache derriere le
+  matelas et le Gravi. Cette action donne Decent start et aide I am machine.
+- Aide Clear Sky a chasser les Renegades, puis reste jusqu'a l'annonce de la
+  victoire pour Swamp Lord. Ne quitte pas les Marais sans les missions de
+  Novikov et Suslov disponibles.
+- Utilise le service de guide dix fois dans les Marais pour Taxi! et monte
+  l'overload progressivement. Passe voir le barman et le technicien.
+- Fouille la zone derriere la boutique de Suslov en passant par l'echelle et
+  prends les objets de la cache pour Stashfinder.
+- [ ] Stone Blood, Veles, Gravi, Swamp Lord, Decent start et Stashfinder.
+
+01 - MARAIS : FLASH DRIVES ET PREMIERS OBJETS
+
+- Novikov :
+  [ ] achète a Nimble l'indice du sac pres du cadavre, puis fouille-le;
+  [ ] termine Strengthen Clear Sky's Presence pour le flash drive;
+  [ ] termine Ascend the Tower pour le flash drive de protection.
+- Ne lance pas la sortie vers Cordon tant que les missions de Suslov, les
+  ventes, les services et l'artefact Stone Blood ne sont pas coches.
+- Pour Meat constructor, garde dans le meme inventaire : Stone Blood, Meat
+  Chunk, Eye et Soul. Les deux derniers se trouvent plus tard, mais Stone
+  Blood ne doit pas etre oublie au depart.
+- [ ] 3/18 flash drives de Novikov.
+
+02 - CORDON / PASSAGE MILITAIRE
+
+- Traverse le passage militaire, puis parle a Sidorovich pour New old friend.
+- Au poste militaire, prepare une arme precise et une sauvegarde : elimine le
+  mitrailleur depuis les rochers pour Avenger. Evite de le faire avant l'arrivee
+  normale a Cordon, sinon le declencheur peut ne pas apparaitre.
+- Sous le pont pres du village des debutants, aide Semyon Lambee. Recupere le
+  PDA du camarade dans l'anomalie au-dessus du pont et rapporte-le pour AWOL.
+- Fais toutes les missions des chefs de groupes neutres avant de choisir une
+  faction. Lance la quete du Trophy AKM-47/2 et conserve le fusil pour Trophy
+  Hunter et Gun Baron.
+- Utilise Van et son atelier au moins une fois. Note les 3 flash drives de Van
+  dans le registre ci-dessous.
+- [ ] Sidorovich, Avenger, AWOL, Trophy AKM-47/2 et Van utilises.
+
+03 - CORDON : FLASH DRIVES ET COMBAT DE FACTIONS
+
+- Van :
+  [ ] achete a Shilov l'indice Road to the Swamps;
+  [ ] apres la mission de Wolf, aide Drifter et fouille la caisse derriere la
+      casse pour le deuxieme flash drive;
+  [ ] recupere le flash drive sur General a la station des vehicules.
+- Ne rejoins aucune faction ici. Termine les petits contrats et les cachettes
+  avant de retourner au passage vers Garbage.
+- Ramasse les grenades, les boissons energetiques et les artefacts. Une
+  sauvegarde de ressource permet de valider PseudoFlash sans vider le stock.
+- [ ] 6/18 flash drives cumules.
+
+04 - GARBAGE / FLEA MARKET
+
+- Fais les missions de Fang et de tous les chefs avant de choisir entre les
+  Loners et les Bandits. Le succes Gun Baron depend de ces recompenses.
+- Avant d'entrer dans la cave du Flea Market pour Catch up with Fang, vide tes
+  poches et mets tes objets dans la caisse au deuxieme etage. Garde une
+  sauvegarde avant la descente pour In socks alone.
+- Utilise Limpid et Garin. Garin peut mourir dans la zone ouverte : fais son
+  service avant de pousser la guerre de factions.
+- Limpid :
+  [ ] achete l'indice Dead man's Backpack;
+  [ ] prends le flash drive dans le sous-sol du Flea Market;
+  [ ] achete l'indice du cadavre en zone radioactive.
+- Garin donne l'acces aux objets et aux ateliers, pas une permission de vendre
+  les armes uniques. Garde tout ce qui porte un nom propre.
+- [ ] Limpid, Garin, In socks alone et 9/18 flash drives.
+
+05 - GARBAGE : GUERRE ET COMPTEURS
+
+- Pour Garbage Hegemon, choisis les Loners ou les Bandits, aide leurs groupes
+  a prendre les points, puis attends l'annonce radio de victoire. Fais une
+  sauvegarde avant ce choix.
+- Pour les succes de faction, garde AVANT-PONT pour pouvoir relancer cette
+  guerre sans refaire les Marais, Cordon et Garbage.
+- Vends des artefacts et des armes communes pour depasser 100 000 puis
+  250 000. Ne vends pas les objets du registre.
+- Commence Stalkerstrike en visant les tetes et Explosions magnet en utilisant
+  une grenade depuis une sauvegarde de test. Les morts repetee depuis une
+  sauvegarde font progresser le compteur dans l'Enhanced.
+- [ ] Garbage Hegemon, 100 000, 250 000 et premiers compteurs.
+
+06 - DARK VALLEY / AGROPROM
+
+- Dans Dark Valley, passe voir Ganja et Yar, puis visite les groupes de Freedom
+  sans encore les rejoindre. Recupere la guitare oubliee pour Life of the party.
+- Yar :
+  [ ] achete l'indice du cadavre de soldat;
+  [ ] achete l'indice de la cache dans les buissons;
+  [ ] termine la mission d'elimination des mercenaires de Chekhov.
+- A Agroprom, visite les Loners et Duty. Utilise Aydar et Thunderov avant tout
+  changement de faction.
+- Aide Hermit dans les souterrains pour Know thyself. Controle toutes les
+  issues de la zone et valide True Stalker au fil des transitions.
+- Aydar :
+  [ ] indice du tuyau coupe;
+  [ ] indice du sac noir dans l'epave;
+  [ ] indice du tronc pres de l'arbre.
+- Thunderov :
+  [ ] indice du cadavre dans le point radioactif;
+  [ ] indice des cylindres sur la tombe;
+  [ ] recompense d'Hermit apres le PDA d'Abel.
+- [ ] Barmen de Dark Valley et Agroprom vus, 15/18 flash drives.
+
+07 - RED FOREST / ARMY WAREHOUSES
+
+- Renvoie l'objet perdu a Forester pour Junior forester. Fais les missions
+  d'artefacts avant les combats de faction.
+- Dans le village de Bloodsuckers, monte a la tour et ecoute le message radio
+  en entier pour To those who hear us.
+- Cherche le tank machine gun dans les quetes des chefs de groupe. Le fusil
+  unique peut etre la derniere piece de Gun Baron.
+- Visite toutes les zones et transitions avant Limansk : True Stalker demande
+  d'avoir ete partout, pas seulement d'avoir suivi la mission principale.
+- Controle les artefacts et le registre des armes. Les objets de Meat
+  constructor doivent rester dans le meme coffre, puis dans l'inventaire.
+- [ ] Junior forester, To those who hear us, Tank machine gun et toutes les
+  zones accessibles.
+
+08 - AVANT LE PONT VERS LIMANSK
+
+- Fais AVANT-PONT des que le pont est abaissable, sans traverser encore.
+- A partir de cette sauvegarde, fais les branches suivantes :
+  [ ] Forever aloner : termine sans rejoindre de faction apres les Marais;
+  [ ] One of us : recharge puis rejoins une faction et termine;
+  [ ] Friend for an hour : monte la reputation au maximum avec au moins trois
+      factions sans opposer deux groupes qui se bloquent;
+  [ ] Garbage Hegemon : recharge une sauvegarde precedente et gagne la guerre
+      Loners/Bandits;
+  [ ] The question of Ideology : depuis une autre sauvegarde, choisis Freedom
+      ou Duty et aide cette faction jusqu'a la victoire.
+- Pour ne pas casser les quetes d'armes, traite Gun Baron et Modifier avant
+  ces branches. Pour les factions, utilise une sauvegarde propre a chaque
+  couple de choix et ne combine pas les deux guerres sur le meme fichier.
+- [ ] Toutes les branches de faction sont notees, pas seulement la derniere.
+
+09 - LIMANSK / HOPITAL / CONCLUSION
+
+- Entre dans Limansk, puis fouille les rues, caves et transitions pour Relics
+  of the past : la machine temporelle est dans un sous-sol bloque par des
+  caisses.
+- Visite chaque zone atteignable a pied et valide The true Stalker.
+- A l'hopital, detruis le Boss Helicopter sans quitter la zone avant le
+  declenchement.
+- Continue la campagne, puis garde AVANT-FINAL. Termine d'abord sur Novice,
+  recharge sur Stalker, puis recharge sur Veteran ou Master pour les trois
+  paliers de difficulte. Les succes se cumulent dans Steam, mais la sauvegarde
+  finale evite de refaire les quetes de faction.
+- [ ] See the Clear Sky et les trois succes de difficulte.
+
+NETTOYAGE ENHANCED : ARTEFACTS ET COMPTEURS
+
+- Meat constructor : porte ensemble Stone Blood, Meat Chunk, Eye et Soul.
+  Stone Blood vient des Marais au debut. Les autres peuvent venir de Garbage,
+  Dark Valley, Agroprom, Yantar, Red Forest ou Army Warehouses selon les
+  apparitions. Sauvegarde avant chaque transition.
+- Artifact sommelier : controle la liste de noms dans un inventaire : Scarlet
+  Flower, Battery, Sparkler, Flash, Wrenched, Eye, Gravi, Soul, Goldfish,
+  Stone Flower, Kolobok, Compass, Crystal, Stone Blood, Meat Chunk, Moonlight,
+  Mama's Beads, Jellyfish, Night Star, Fireball, Bubble, Shell, Firefly,
+  Snowflake et Flame.
+- Mock of a stalker : meurs avec cinq types d'anomalies distincts. Fais-le
+  depuis cinq sauvegardes pour garder la route.
+- I am machine : augmente la charge de 60 kg avec les upgrades et les
+  artefacts. Night Star, Gravi et Golden Fish sont les meilleurs jalons.
+- Overloaded but not overcame : marche ou utilise les guides pendant 10 km
+  avec la charge depassee.
+- PseudoFlash : bois 100 boissons energetiques. Avec 10 boissons, sauvegarde,
+  bois, recharge et repete.
+- Pub crawl : parle aux quatre barmen : Cold aux Marais, Ganja a Freedom,
+  Kolobok a Duty et Borov chez les Bandits.
+- Who are you without a duct tape : utilise les services de Novikov, Van,
+  Limpid, Garin, Yar, Aydar et Thunderov.
+- Gunsmith : ameliore cinq armes differentes au maximum. Les fusils courts
+  demandent moins d'ameliorations, mais ne sacrifie pas les armes uniques.
+- Drag and sell / All the money in the Zone : depasse 100 000 puis 250 000 de
+  ventes. Les objets rares peuvent etre vendus depuis une sauvegarde de test.
+- Stalkerstrike : valide 50 headshots. Les combats de groupes sont les plus
+  pratiques, sans interrompre les missions importantes.
+- Explosions magnet : valide 20 morts par grenade depuis une sauvegarde de
+  test, sans ecraser AVANT-PONT.
+
+REGISTRE DES 18 FLASH DRIVES
+
+NOVIKOV - MARAIS
+[ ] Indice Nimble, sac du cadavre et frein de mitraillette.
+[ ] Recompense Suslov, renforcement de la presence Clear Sky.
+[ ] Recompense Suslov, Ascend the Tower.
+
+VAN - CORDON
+[ ] Indice Shilov, cache Road to the Swamps.
+[ ] Indice Drifter apres Wolf, caisse derriere la casse.
+[ ] Inventaire de General a la station des vehicules.
+
+LIMPID - GARBAGE
+[ ] Indice Dead man's Backpack.
+[ ] Sous-sol du Flea Market pendant Catch up with Fang.
+[ ] Indice du cadavre en zone radioactive.
+
+YAR - DARK VALLEY
+[ ] Indice du cadavre de soldat.
+[ ] Indice de la cache dans les buissons.
+[ ] Recompense de Chekhov apres les mercenaires.
+
+AYDAR - AGROPROM
+[ ] Indice du tuyau coupe.
+[ ] Indice du sac noir dans l'epave.
+[ ] Indice du tronc pres de l'arbre.
+
+THUNDEROV - AGROPROM
+[ ] Indice du point radioactif.
+[ ] Indice des cylindres sur la tombe.
+[ ] Recompense d'Hermit pour le PDA d'Abel.
+
+ARMES UNIQUES - GUN BARON
+
+[ ] Scar's Vintar BC - nord des Marais, pres du wagon.
+[ ] Modified PMm - drop des Renegades ou PMm ameliore.
+[ ] Trophy AKM-47/2 - mission d'un chef Loner de Cordon.
+[ ] Bandit's Chaser 13 - mission d'un chef Bandit de Garbage.
+[ ] Modified shooter - mission d'un chef Bandit de Garbage.
+[ ] Inscribed pistol - mission d'un chef Loner de Garbage.
+[ ] Duty member's assault rifle - mission d'un chef Duty d'Agroprom.
+[ ] Ripper shotgun - mission d'un chef Duty d'Agroprom.
+[ ] Tank machine gun - mission d'un chef de groupe de Red Forest.
+
+CHECKLIST ENHANCED - 43/43
+
+[ ] Swamp Lord                    [ ] New old friend
+[ ] Stalkerstrike                 [ ] The Savior
+[ ] Genesis flood                 [ ] Taxi!
+[ ] Overloaded but not overcame   [ ] One of us
+[ ] To those who hear us          [ ] Junior forester
+[ ] The lost city                 [ ] Avenger
+[ ] Boss Helicopter               [ ] The true Stalker
+[ ] See the Clear Sky             [ ] Mom, I'm going to the Zone
+[ ] Drag and sell                 [ ] Mock of a stalker
+[ ] Garbage Hegemon               [ ] Lucky son of a gun
+[ ] AWOL                          [ ] In socks alone
+[ ] Decent start                  [ ] Friend for an hour
+[ ] Stashfinder                   [ ] Trophy Hunter
+[ ] Gunsmith                      [ ] Forever aloner
+[ ] Stalker with a scar           [ ] Life of the party
+[ ] All the money in the Zone     [ ] I am machine
+[ ] Know thyself                  [ ] Pub crawl
+[ ] Explosions magnet             [ ] Modifier
+[ ] PseudoFlash                   [ ] The question of Ideology
+[ ] Meat constructor              [ ] Who are you without a duct tape
+[ ] Relics of the past            [ ] Gun Baron
+[ ] Artifact sommelier
+
+CONTROLE ORIGINAL 0/0
+
+[ ] AppID 20510 confirme dans la bibliotheque.
+[ ] Campagne et nettoyage termines avec la meme route.
+[ ] Aucun objectif Steam n'est attendu sur cette edition.
+
+SOURCES DE CONTROLE
+
+- Steam Enhanced, succes et total 43 :
+  https://steamcommunity.com/stats/2427420/achievements
+- Guide Steam Enhanced Clear Sky, flash drives, factions et artefacts :
+  https://steamcommunity.com/sharedfiles/filedetails/?id=3484667897
+- Fiche originale AppID 20510 : https://steamdb.info/app/20510/info/
+- Manuel Steam original :
+  https://cdn.akamai.steamstatic.com/steam/apps/20510/manuals/manual_english.pdf?t=1655974621

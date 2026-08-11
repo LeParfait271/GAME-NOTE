@@ -1,0 +1,271 @@
+S.T.A.L.K.E.R.: SHADOW OF CHERNOBYL
+GUIDE CHRONOLOGIQUE - ORIGINAL + ENHANCED - SANS SPOILER
+
+Version de travail : 11 aout 2026
+
+EDITION ENHANCED
+
+L'edition Steam Enhanced est l'AppID 2427410. Elle comporte 44 succes Steam :
+objectif 100 % Steam = 44/44. Cette version ajoute les succes Steam au jeu PC
+original et doit etre suivie sans mods qui peuvent modifier les declencheurs.
+
+EDITION ORIGINALE
+
+L'edition Steam originale est l'AppID 4500. Elle expose 0/0 succes Steam.
+La route ci-dessous reste utile pour terminer la campagne, les quetes, les
+armes, les armures, les artefacts et les secrets, mais il ne faut pas attendre
+de notification Steam dans cette version.
+
+OBJECTIF REEL
+
+[ ] Campagne terminee dans l'ordre, sans laisser les missions secondaires
+    sensibles aux transitions de zone.
+[ ] Toutes les branches de sauvegarde de l'Enhanced controlees.
+[ ] 44/44 succes Steam pour l'AppID 2427410, ou 0/0 pour l'AppID 4500.
+[ ] 5 artefacts equipes, les artefacts de plage et les artefacts d'endurance.
+[ ] Les 7 equipements ou armes uniques conserves jusqu'a leur notification.
+[ ] Les compteurs cumulatifs termines : pain, vodka, queues de chien,
+    stalkers, mutants et types de mutants.
+
+GARDE-FOUS ET MISSABLES
+
+- Joue la version Enhanced sans mod de gameplay et verifie que la surcouche
+  Steam fonctionne. Les succes originaux de l'AppID 4500 n'existent pas.
+- Cree au minimum ces sauvegardes manuelles : DEBUT-CORDON, GARBAGE-YURIK,
+  AGROPROM-MOLE, YANTAR-KRUGLOV, APRES-X16, AVANT-SCORCHER et AVANT-FINAL.
+- Le point de non-retour pratique arrive apres la desactivation du Brain
+  Scorcher. Sauvegarde avant cette action et nettoie Cordon, Garbage,
+  Agroprom, Dark Valley, Wild Territory, Yantar, le Bar et les Warehouses.
+- Garde les armes, armures, artefacts, documents, queues de chien, pains et
+  bouteilles de vodka dans un coffre identifie. Ne vends jamais un objet
+  unique avant d'avoir verifie la checklist ci-dessous.
+- Les objets et les declencheurs peuvent buguer. Si un succes ne tombe pas,
+  recharge la sauvegarde precedente a la transition de zone, pas une
+  sauvegarde automatique deja ecrasee.
+- Les deux decisions Tolik, les factions et les fins se font depuis des
+  sauvegardes separees. La route principale garde la branche qui preserve le
+  plus de contenu secondaire.
+- Aucun nom de cible, revelation, identite ou detail de denouement n'est
+  donne dans ce fichier. Les noms de zones servent uniquement a se reperer.
+
+ROUTE CHRONOLOGIQUE
+
+00 - NOUVELLE PARTIE / CORDON
+
+- Termine le tutoriel, parle au vendeur, puis fais une sauvegarde avant de
+  quitter le village des debutants.
+- Trouve Tolik dans le wagon indique par le marqueur. Depuis la sauvegarde,
+  fais d'abord la branche de secours avec une trousse medicale pour obtenir
+  A decent start, puis recharge et fais la branche alternative pour The worst
+  stalker in the Zone. Reviens ensuite sur la branche de secours.
+- Accepte la mission de sauvetage et parle aux groupes rencontres sur la route.
+  Ne traverse pas Cordon en courant : ouvre les caches et ramasse les pains,
+  les bouteilles et les queues de chien.
+- Quand Fanatic remplace Wolf au village, garde son aide pour plus tard. La
+  mission des mercenaires au nord du village donne Sentry apres le retour.
+- [ ] You're finally awake... obtenu sur la premiere partie.
+- [ ] Les provisions et objets a vendre sont ranges, pas jetes.
+
+01 - GARBAGE
+
+- Sauvegarde avant l'affrontement ou Yurik est retenu. Aide-le sans laisser
+  le combat le toucher : Law and Order peut rater si l'escarmouche commence
+  trop tot.
+- Apres Yurik, parle a Bes et accepte de defendre son groupe. Reste dans la
+  zone jusqu'a la fin de l'attaque pour No Loner stands alone.
+- Fais les caves, les collines de dechets et les anomalies avec un detecteur.
+  Ramasse les artefacts, mais ne les vends pas : ils serviront aux collections
+  Enhanced.
+- Commence les compteurs : mange le pain, bois la vodka et conserve les
+  queues de chien. Une sauvegarde avant chaque serie permet de recommencer
+  sans gaspiller les ressources.
+- [ ] Yurik sauve, Bes defendu, premiere checklist Garbage terminee.
+
+02 - AGROPROM ET SOUTERRAINS
+
+- Dans le marais au nord-ouest d'Agroprom, sauvegarde avant d'entrer dans le
+  wagon. Parle au soldat amical pour Headhunter, puis ressors avec des soins.
+- Trouve Mole et sauvegarde avant de le suivre dans les souterrains. Pour
+  Mole's weapon, recupere l'arme depuis la sauvegarde dediee, verifie le
+  succes, puis recharge si tu veux conserver la relation avec les Loners.
+- Explore les souterrains avec une lampe, un detecteur et assez de medkits.
+  Tuez chaque nouveau type de mutant rencontre et marque-le dans la liste
+  Chornobyl safari.
+- Avant de quitter Agroprom, compare ton inventaire avec les artefacts :
+  Jellyfish, Sparkler, Flash, Stone Flower, Stone Blood, Soul et Night Star
+  peuvent deja apparaitre selon l'heure et l'anomalie.
+- [ ] Headhunter et Mole's weapon traites depuis des sauvegardes propres.
+
+03 - DARK VALLEY ET X-18
+
+- Fais les missions du camp et la route vers le laboratoire sans vendre les
+  documents ni les armes uniques.
+- Dans le camp des bandits, prends les bouteilles de vodka disponibles. Une
+  sauvegarde avant de les boire permet d'atteindre I'm done with drinking for
+  good sans perdre la route principale.
+- Apres le passage principal, visite la ferme a droite de la transition vers
+  Cordon. La proposition a 800 roubles donne The last mammoth in the Zone.
+- Dans X-18, inspecte toutes les pieces hors de la route principale, dont la
+  petite salle aux photos, pour Meet the creator. Ne quitte pas le labo en
+  ayant laisse des documents ou un artefact dans une salle.
+- [ ] Les informations de X-18 sont remises aux bons interlocuteurs.
+- [ ] Les munitions et les bouteilles restent comptees dans le coffre.
+
+04 - RETOUR CORDON / YANTAR
+
+- En revenant de Dark Valley, retourne au village des debutants. Aide Fanatic
+  a eliminer le groupe de mercenaires au nord-est, puis reparle-lui pour
+  Sentry.
+- Dans Wild Territory, sauvegarde avant l'escorte de Kruglov. Protège-le
+  jusqu'a Yantar, effectue les mesures et ramene-le au bunker scientifique.
+  Cette meme sequence couvre Explore and protect et Lab Rat.
+- Ne rejoins pas Freedom avant d'avoir aide les scientifiques : certaines
+  relations peuvent fermer cette escorte.
+- A Yantar, explore les anomalies, ramasse les types de mutants nouveaux et
+  garde les artefacts. Prepare une sauvegarde avant le laboratoire X-16.
+- [ ] Kruglov arrive vivant au bunker.
+- [ ] Explore and protect et Lab Rat sont affiches dans Steam Enhanced.
+
+05 - X-16 / BAR
+
+- Fais X-16 avec des munitions pour fusil et des soins anti-radiation. Cherche
+  les pieces laterales et les artefacts avant de sortir.
+- Apres la mission, termine les actions disponibles au Bar et consulte le
+  classement PDA. Les manches de l'Arena se debloquent avec le rang : gagne
+  toutes les manches pour Gladiator.
+- Continue les demandes de faction seulement apres avoir fait la route
+  scientifique. Pour Freedom vs. Duty, une seule des deux voies suffit, mais
+  cree une sauvegarde avant de choisir et conserve-la.
+- Fais le nettoyage des bouteilles, pains, queues de chien et kills a chaque
+  retour au Bar. Les compteurs sont cumulatifs.
+- [ ] Gladiator et Freedom vs. Duty obtenus, ou branches mises de cote.
+
+06 - ARMY WAREHOUSES / RED FOREST
+
+- Avant le passage, recupere les quetes d'artefacts et d'armes des chefs de
+  groupes. Ne laisse pas une mission d'objet unique expirer.
+- Apres X-16, inspecte le tunnel et les cadavres sur la route pour la piste
+  de Fanged armor. Sauvegarde avant de fouiller : si la piste n'apparait pas,
+  recharge avant la transition.
+- Cherche The smile of Martha en aidant la mission de sauvetage correspondante
+  dans Dark Valley, puis recupere l'objet unique depuis sa sauvegarde dediee.
+- Pour Hiker, accepte la mission de l'artefact Night Star apres les documents
+  de X-18 et rends-le au vendeur demande. Le meme artefact sert a Party on the
+  beach, donc conserve-le.
+- Visite chaque transition, maison et camp : le compteur de rang et les
+  caches fournissent les derniers kills, artefacts et objets uniques.
+- [ ] Fanged armor, Martha, Tourist suit et armes uniques sont verifies.
+
+07 - RADAR / POINT DE NON-RETOUR
+
+- A Radar, ouvre la porte secrete avec le code 1287975 pour The Door Vinci
+  Code. Fais une sauvegarde avant le code et une autre avant le Brain Scorcher.
+- Avant de desactiver le Scorcher, controle les rubriques ci-dessous :
+  Arena, Tolik, Yurik, Bes, Headhunter, Kruglov, faction, Night Star,
+  artefacts de plage, endurance, mutants, pains, vodka et queues de chien.
+- Si l'un des compteurs manque, recharge AVANT-SCORCHER et nettoie les zones.
+  Apres le Scorcher, certaines transitions ne permettent plus de revenir.
+- [ ] APRES-X16 et AVANT-SCORCHER sont conservees sur deux emplacements.
+
+08 - PRIPYAT / CNPP / CONCLUSION
+
+- Apres le Doctor, recupere le decoder dans l'hotel de Pripyat pour Knock-Knock.
+- Dans le complexe final, prends la premiere arme Monolith unique rencontree
+  pour Weapon of the future. Ne la jette pas si le succes tarde : change de
+  zone puis verifie Steam.
+- Garde AVANT-FINAL. Depuis cette sauvegarde, fais la branche Wish Granter,
+  puis recharge et fais la branche qui refuse l'adhesion a la Conscience pour
+  Too good to be true. La sequence de teleports donne I'm all but certain it
+  was... quand elle passe par Sidorovich.
+- Ouvre la porte au decoder dans le Sarcophagus pour Stoic, puis termine la
+  campagne pour Explorer of the Zone.
+- Pour les difficultes, joue la route complete en Novice si tu veux securiser
+  Sidorovich's apprentice. Avant le Wish Granter, sauvegarde puis passe en
+  Stalker ou Veteran/Master et termine. Si un palier ne se valide pas, recharge
+  le meme AVANT-FINAL et termine le palier manquant sans refaire la campagne.
+- [ ] Les fins exigees sont faites depuis AVANT-FINAL, sans raconter le choix.
+
+NETTOYAGE ENHANCED : ARTEFACTS ET ANOMALIES
+
+- Garland : equipe cinq artefacts en meme temps. Les memes objets peuvent etre
+  reutilises, mais controle les slots et la protection contre la radiation.
+- Boltman : meurs avec cinq anomalies differentes. Fais cinq sauvegardes,
+  provoque une mort distincte, verifie le succes et recharge a chaque fois.
+  La radiation compte comme type distinct dans l'Enhanced.
+- Maximum endurance : equipe les trois artefacts d'endurance, Sparkler, Flash
+  et Moonlight. Les deux premiers apparaissent surtout dans les anomalies
+  electriques de nuit ; garde une sauvegarde avant la recherche.
+- Party on the beach : equipe Jellyfish, Sparkler, Urchin, Goldfish et Night
+  Star. Le succes demande aussi que les lumieres du lieu soient actives ;
+  fais-le dans une zone sure apres avoir obtenu les cinq objets.
+- Stalker legend : trouve chaque artefact commun et rare. Marque chaque nom
+  dans une liste et ne te fie pas uniquement au nombre visible dans le PDA.
+- Chornobyl safari : tue au moins une fois chaque type : blind dog,
+  pseudodog, flesh, boar, bloodsucker, snork, pseudogiant, controller,
+  poltergeist et rodent.
+
+COMPTEURS ET OBJETS UNIQUES
+
+- Bread-expert : mange 25 pains. Fais une sauvegarde, mange la serie, puis
+  recharge uniquement si tu veux conserver les provisions.
+- I'm done with drinking for good : bois 25 bouteilles de vodka. Le camp des
+  bandits de Dark Valley fournit une serie pratique.
+- Your dogstiny : vends 20 queues de chien. Ramasse-les sur les blind dogs et
+  vends-les par petites series a un stalker.
+- Hunting season : tue 250 mutants. Chornobyl safari doit etre valide avant
+  le nettoyage du compteur.
+- Killer : tue 500 stalkers. Les combats de camps et les missions de faction
+  font progresser le compteur ; n'essaie pas de le farmer avant d'avoir fini
+  les quetes importantes.
+- Legendary armor : recupere l'armure Ghost a la fin de X-16, sans oublier la
+  fouille du corps.
+- Mole's weapon : recupere le Walker 9x18 de Mole depuis la sauvegarde dediee.
+- Terminator : recupere le Threaded SPSA-14 sur Poker ou via sa mission.
+- The smile of Martha : recupere Martha via la mission de sauvetage associee.
+- Hiker : obtiens la Tourist suit en rendant la Night Star selon la mission.
+- Fanged armor : obtiens la piste de la cache puis recupere l'exosquelette a
+  Pripyat.
+- Weapon of the future : prends le fusil Gauss du premier Monolith de la zone
+  finale, puis controle le succes.
+
+CHECKLIST ENHANCED - 44/44
+
+[ ] You're finally awake...       [ ] A decent start
+[ ] No Loner stands alone          [ ] Law and Order
+[ ] The Man cave                  [ ] Garland
+[ ] The worst stalker in the Zone [ ] Lab Rat
+[ ] Legendary armor               [ ] Meet the creator
+[ ] Bread-expert                  [ ] Explore and protect
+[ ] Killer                        [ ] Freedom vs. Duty
+[ ] Weapon of the future          [ ] Explorer of the Zone
+[ ] Stalker legend                [ ] Chornobyl safari
+[ ] Sidorovich's apprentice       [ ] Get out of here, Stalker
+[ ] Follow your steps             [ ] Sentry
+[ ] The last mammoth in the Zone  [ ] In the Zone!
+[ ] Headhunter                    [ ] Knock-Knock
+[ ] Gladiator                     [ ] The Wish Granter
+[ ] Too good to be true           [ ] Stoic
+[ ] Terminator                    [ ] I'm all but certain it was...
+[ ] I'm done with drinking for good [ ] S.U.R.V.I.V.E.D.
+[ ] Boltman                       [ ] Hunting season
+[ ] Mole's weapon                 [ ] Fanged armor
+[ ] Maximum endurance             [ ] The Door Vinci Code
+[ ] Your dogstiny                [ ] The smile of Martha
+[ ] Hiker                         [ ] Party on the beach
+
+CONTROLE ORIGINAL 0/0
+
+[ ] AppID 4500 confirme dans la bibliotheque.
+[ ] Campagne et nettoyage termines avec la meme route.
+[ ] Aucun objectif Steam n'est attendu sur cette edition.
+
+SOURCES DE CONTROLE
+
+- Steam Enhanced, succes et total 44 :
+  https://steamcommunity.com/stats/2427410/achievements/
+- Guide Steam Enhanced Shadow, sauvegardes, missables et liste detaillee :
+  https://steamcommunity.com/sharedfiles/filedetails/?id=3484669950
+- Fiche originale AppID 4500 : https://steamdb.info/app/4500/info/
+- Guide de campagne sans liste Steam :
+  https://strategywiki.org/wiki/S.T.A.L.K.E.R.%3A_Shadow_of_Chernobyl/Walkthrough
+- Manuel Steam original : https://store.steampowered.com/manual/4500/
