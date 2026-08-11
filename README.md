@@ -3,8 +3,8 @@
 Petit site de guides gaming, pensé pour lire les soluces chronologiques sans
 spoiler sur ordinateur comme sur téléphone.
 
-Le site contient actuellement 64 guides actifs, dont les routes chronologiques
-des jeux des captures Steam et les guides solo ajoutes dans le dernier lot.
+Le site contient un catalogue de guides actifs, dont les routes chronologiques
+des jeux des captures Steam et les guides solo ajoutes dans les derniers lots.
 Les jeux competitifs, les jeux a runs sans route stable et les jeux-service
 evolutifs restent exclus du catalogue.
 
@@ -18,7 +18,7 @@ soluce, remplace simplement le fichier correspondant en gardant son nom.
 - recherche dans la soluce ouverte ;
 - téléchargement direct du TXT ;
 - affichage responsive ;
-- favoris persistants dans le navigateur ;
+- progression locale des checklists ;
 - theme jour/nuit avec respect du reglage systeme ;
 - installation PWA et lecture hors-ligne des guides ;
 - navigation mobile, raccourcis clavier et metadonnees SEO ;
