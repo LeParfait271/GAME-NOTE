@@ -3051,6 +3051,10 @@ export default function Home() {
     if (requestedGuide && guides.some((guide) => guide.id === requestedGuide)) {
       setSelectedId(requestedGuide);
     }
+    if (url.searchParams.has("view")) {
+      url.searchParams.delete("view");
+      window.history.replaceState(null, "", url);
+    }
     setIsOnline(window.navigator.onLine);
     setPreferencesReady(true);
   }, []);
