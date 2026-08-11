@@ -3508,7 +3508,9 @@ export default function Home() {
               <p className="card-eyebrow">{guide.eyebrow}</p>
               <h3>{guide.title}</h3>
               <p className="card-subtitle">{guide.subtitle}</p>
-              <p className="card-description">{guide.description}</p>
+              {selected.id === guide.id ? (
+                <p className="card-description">{guide.description}</p>
+              ) : null}
               <div className="card-meta">
                 {guide.meta.map((item) => (
                   <span key={item}>{item}</span>
