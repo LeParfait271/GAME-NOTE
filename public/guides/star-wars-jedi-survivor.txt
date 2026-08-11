@@ -1,261 +1,829 @@
 STAR WARS JEDI: SURVIVOR
-GUIDE CHRONOLOGIQUE 100 % STEAM - SANS SPOILER
+FICHE PREMIUM 100 % STEAM - ROUTE CHRONOLOGIQUE - SANS SPOILER NARRATIF
 
-Version de travail : 10 aout 2026
+Version vérifiée : 11 août 2026
+AppID Steam : 1774580
+Périmètre : 53 succès Steam, jeu principal, aucun succès en ligne ni DLC requis.
 
-Cette route couvre les 53 succes Steam, les zones principales, les Chambres
-Jedi, les Failles de Force, les adversaires legendaires, les primes, les
-holotactiques, les poissons, le jardin, le guide tactique et le nettoyage
-post-campagne. Les noms de planetes, de zones, d'ennemis, de compagnons et de
-succes ne servent qu'a la navigation. Aucun evenement, aucune identite,
-aucune perte et aucune consequence narrative ne sont decrits.
+Cette fiche suit le jeu dans l'ordre des missions, puis propose un nettoyage
+complet planète par planète. Elle indique les points de retour, les améliorations
+nécessaires, les coffres et récompenses utiles, les Chambres Jedi, les Failles de
+Force, les adversaires légendaires, les primes, les poissons, le jardin, les
+recrues de la cantina et les entrées du Guide tactique. Les noms de planètes,
+de zones, d'ennemis et de succès servent de repères ; aucun événement narratif,
+aucune identité, aucune perte et aucune fin ne sont racontés.
 
-PERIMETRE ET MISSABLE PRINCIPAL
+COMMENT LIRE LA FICHE
 
-- Les 53 succes sont faisables sur une partie normale ; aucun niveau de
-  difficulte n'est impose par Steam.
-- Le succes a proteger est You've Got A Friend : dirige chaque compagnon
-  concerne vers une assistance en combat dix fois. Fais-le des qu'un
-  compagnon devient disponible et verifie le compteur avant la derniere
-  sequence principale.
-- La majorite des collectibles reste accessible apres l'histoire : Chambres,
-  Failles, adversaires legendaires, poissons, primes, jardin et
-  holotactiques. Nettoie-les avant d'utiliser l'option de Nouvelle Partie +.
-- Cree une sauvegarde S1 avant chaque mission principale, S2 avant la derniere
-  zone d'une planete et S3 avant la derniere mission.
+- « Première visite » signifie que tu suis l'objectif principal sans chercher à
+  forcer une capacité qui n'est pas encore débloquée.
+- « Retour avec capacité » signifie que tu reviens par méditation rapide après
+  avoir obtenu l'amélioration indiquée. Les cartes restent accessibles après la
+  campagne.
+- Quand une zone est listée en nettoyage, active le point de méditation, ouvre
+  les coffres, récupère les essences, scanne les ennemis et vérifie les passages
+  en hauteur avant de quitter la zone.
+- Les cartes BD-1 deviennent complètes grâce à cinq terminaux d'amélioration.
+  Elles révèlent les coffres, les trésors, les essences et les entrées de données,
+  mais pas les Failles de Force, les poissons ni les Chambres Jedi.
+- Les objets ordinaires ne sont pas tous énumérés un par un : le guide donne le
+  balayage de chaque zone et les emplacements des récompenses uniques, des
+  cosmétiques et des ressources qui servent aux succès.
+- Les succès Steam peuvent apparaître avec un délai. Après une condition rare,
+  ouvre la carte ou le menu de méditation et attends la notification avant de
+  recharger.
 
-REGLES DE ROUTE
+MISSABLES ET CONDITIONS RATABLES
 
-1. Dans chaque zone, active les points de meditation, puis explore les
-   embranchements avant de suivre l'objectif jaune.
-2. Scanne chaque type d'ennemi avec BD-1, surtout les variantes rares et les
-   ennemis de primes. Le guide tactique doit rester ouvert jusqu'a la fin.
-3. Ramasse les coffres, donnees, essences et plantes visibles. Une carte
-   partiellement exploree n'empeche pas le nettoyage mais augmente les retours.
-4. Quand un compagnon accompagne Cal, utilise la commande d'assistance en
-   combat jusqu'a dix validations pour ce compagnon. Alterne les compagnons au
-   lieu d'attendre une seule zone.
-5. N'achete pas toutes les apparences immediatement : depense les donnees au
-   marchand qui valide les 25 objets echanges, puis garde les ressources pour
-   les ameliorations et les avantages.
+- You've Got a Friend est le seul vrai contrôle à faire dès le début : utilise
+  l'assistance de chaque compagnon dix fois avant de perdre son accès temporaire.
+- Les autres succès restent accessibles après l'histoire, mais ne lance pas une
+  Nouvelle Partie + avant d'avoir terminé le nettoyage et d'avoir vu les succès.
+- Le système de primes peut se désynchroniser si Kili Oso est vaincu trop tôt.
+  Suis l'ordre de la section CAIJ et parle à Caij après chaque groupe.
+- Scanne les ennemis rares quand BD-1 le propose. Les variantes de primes, de
+  boss et de lieux uniques sont les plus faciles à oublier.
+- Les 100 Priorite Shards servent à acheter tout le stock de Doma. Ne dépense
+  pas les éclats au hasard avant d'avoir atteint 100 si tu veux terminer vite.
+- Le minimum de 100 % Steam demande 7 Chambres Jedi, 15 Failles, 13 adversaires
+  légendaires, 12 poissons, le jardin complet, la cantina complète, 25 échanges,
+  10 emplacements de perks et les cosmétiques de combat indiqués.
 
-ROUTE CHRONOLOGIQUE
+DIFFICULTÉ ET RÉGLAGES
 
-1. CORUSCANT : PROLOGUE ET PREMIERS SUCCES
+- Tous les succès sont faisables dans n'importe quelle difficulté. Pour une route
+  confortable, choisis Story Mode ou Jedi Padawan.
+- Les Failles de Force ne sont pas simplifiées par la difficulté. Si une faille
+  de plateforme bloque, change la posture, dépense des points de compétence et
+  reviens avec les capacités de déplacement finales.
+- Le jeu n'impose pas de mode sans mort, de difficulté maximale ou de Nouvelle
+  Partie + pour les 53 succès.
+- Sur Steam, l'EA App peut être nécessaire au lancement, mais aucun mode en ligne
+  ne fait partie de cette checklist.
 
-- Termine l'ouverture et active chaque point de meditation.
-- Fais Rooftop Duel et For Saw Gerrera par la progression principale.
-- Dans la zone de la cantina, assieds-toi au siege disponible pour Grab Some
-  Seat.
-- Personnalise BD-1, le blaster et le sabre avec une nouvelle piece des que les
-  menus sont ouverts : Kitted Out.
-- Profite des premiers combats pour tuer 20 ennemis non alertes. Une attaque
-  depuis les hauteurs et une approche silencieuse accelerent They Never Saw It
-  Coming.
-- Equipe une nouvelle apparence dans chaque emplacement de Cal quand tu as
-  assez d'objets : Hey, Luke At Us.
-- Termine la planete et garde S1 avant le depart.
+SAUVEGARDES MANUELLES
 
-2. KOBOH : PREMIERE ARRIVEE ET BASE DE NETTOYAGE
+1. S0-CORUSCANT : avant le duel du toit et avant de quitter la première planète.
+2. S1-KOBOH : devant la première zone de la Gorge, avant les activités du ranch.
+3. S2-ASSISTANCE : dès que la commande d'assistance d'un compagnon est active.
+4. S3-FOREST ARRAY : avant le point de mission de la Forêt et la cuve de bacta.
+5. S4-PRIMES : au premier dialogue avec Caij, puis avant chaque groupe de primes.
+6. S5-JEDHA : avant la première traversée de la Lune et de Pilgrim's Sanctuary.
+7. S6-NOVA GARON : avant l'entrée dans la base et le dernier nettoyage narratif.
+8. S7-FINAL : après la campagne, avant d'utiliser Nouvelle Partie +.
 
-- Fais la route principale jusqu'a la cantina de Pyloon's Saloon. Parle a tous
-  les habitants et ouvre les services.
-- Trouve un bogling dans la zone de la cantina et caresse-le pour Can You Pet
-  the Bogling?.
-- Active la ferme : plante une premiere graine, recrute le responsable du
-  jardin et remplis progressivement les quatre parcelles. Growth Spurt demande
-  l'espace de jardin complet.
-- Dans Southern Reach, Smuggler's Tunnels, Gorge Crash Site et les environs,
-  ouvre les raccourcis et note les portes impossibles a franchir pour plus tard.
-- Atteins le point le plus haut de Harvest Ridge pour King of the World. Utilise
-  les ascenseurs, la monture et les raccourcis de la zone, pas le chemin de
-  retour au sol.
-- Aux tar pits, utilise la capacite de la zone pour aider a sortir le vaisseau
-  et valide There Is No Try.
-- Apprends la monte et parcours 500 m sur des creatures pour Now, This Isn't
-  Podracing. Les trajets sur Koboh suffisent.
-- Recrute Skoova des que l'activite de peche devient accessible. Chaque retour
-  a son point de peche ajoute une capture ; garde le journal des poissons.
-- Commence les primes de Caij : accepte chaque nouvelle cible, ramasse le
-  jeton sur le corps et retourne a Caij avant de repartir.
-- Fais les premiers combats de Failles et l'exploration des Chambres quand
-  leurs capacites de mouvement sont disponibles.
+TABLEAU DES 53 SUCCÈS
 
-ALERTE COMPAGNON 1 :
+01. Rooftop Duel — vaincre un Inquisiteur.
+02. For Saw Gerrera — se libérer de l'Empire.
+03. Grab Some Seat — parler au propriétaire de la cantina de Koboh.
+04. The Past Made Present — libérer le Jedi de la cuve de bacta.
+05. Survivors, We Adapt — voyager avec une Nightsister.
+06. Among the Masters — rencontrer les maîtres Jedi.
+07. For the Path — protéger Pilgrim's Sanctuary.
+08. Out of Bedlam — sauver un ami des Bedlam Raiders.
+09. Tanalorr Bound — récupérer l'Abyss Compass.
+10. Tragedy — défendre l'Archive.
+11. At the Precipice — survivre à Nova Garon.
+12. Into the Abyss — découvrir la route vers Tanalorr.
+13. A Place You Could Call Home — terminer l'histoire.
+14. Han Slowlo — vaincre 50 ennemis ralentis.
+15. You've Got a Friend — ordonner dix assistances de combat à chaque compagnon.
+16. Catch! — toucher trois ennemis avec une seule mine roulante.
+17. So Uncivilized — vaincre dix ennemis avec Point Blank.
+18. They Never Saw It Coming — tuer 20 ennemis sans être détecté.
+19. This Is Canon — pousser un ennemi dans le canon minier de Shattered Moon.
+20. I'm a Living Legend — vaincre tous les adversaires légendaires.
+21. Get Down From There — attaquer 20 ennemis soulevés.
+22. Mirror Match — faire tuer un ennemi par un ennemi Confused du même type.
+23. One With the Force — éviter 50 attaques avec Focus Sight.
+24. Slam Dunk — soulever cinq ennemis avec une seule utilisation de Slam.
+25. Pinpoint — réussir dix Precision Releases parfaits.
+26. Riposte — parer un ennemi qui résiste à Force Pull.
+27. King of the World — atteindre le point le plus haut de Harvest Ridge.
+28. There Is No Try — soulever un vaisseau hors des fosses de goudron.
+29. Star Tours — découvrir et terminer toutes les Chambres Jedi.
+30. Now, This Isn't Podracing — parcourir 500 m sur des créatures.
+31. Cleaning Up — tirer la chasse du Refresher.
+32. They're Probably Fine — faire tomber une monture dans le vide.
+33. Skywalker — rester 60 secondes sans toucher le sol ni un mur.
+34. It's a Trap — explorer les cavernes de Phon'Qi.
+35. Max Capacity — remplir la cantina de recrues.
+36. Can You Pet the Bogling? — caresser un bogling.
+37. Who Gives a Puck — obtenir sa première prime.
+38. Caij Match — attirer l'attention de Caij et terminer sa chaîne de primes.
+39. Perk of the Job — équiper un perk dans chaque emplacement.
+40. Greezy Money — échanger 25 objets collectés.
+41. Cobra Cal — s'entraîner avec les armes en portant un headband.
+42. A Presence I've Not Felt Since... — porter une ancienne tenue.
+43. Hey, Luke At Us — équiper un nouveau cosmétique dans chaque emplacement de Cal.
+44. Kitted Out — personnaliser BD-1, le blaster et le sabre laser.
+45. Road House — faire un dropkick en portant un mullet.
+46. Gambler — gagner toutes les parties d'holotactics.
+47. Reconnaissance — utiliser la visière de BD-1 pour examiner une cible distante.
+48. Skoova Diving — remplir l'aquarium de la cantina.
+49. Growth Spurt — trouver assez de place pour un jardin complet.
+50. Intergalactic Geographic — scanner chaque type d'ennemi du Guide tactique.
+51. The Jedi Path — améliorer complètement trois arbres de compétences.
+52. Splurgle — acheter toutes les marchandises de Doma.
+53. Blood, Sweat, and Tears — terminer toutes les Failles de Force.
 
-Dès que le premier compagnon de combat est disponible, utilise son assistance
-au moins dix fois. Une assistance compte seulement si la commande est lancee et
-que le compagnon execute l'action ; les attaques ordinaires ne comptent pas.
+COMPTEURS À LANCER DÈS LA PREMIÈRE HEURE
 
-3. JEDHA : PREMIERE TRAVERSEE
+- Assistance : dès que Bode ou un autre compagnon propose une assistance,
+  utilise la commande jusqu'à dix validations. Une assistance compte seulement
+  si le compagnon exécute réellement son attaque.
+- Ennemis surpris : attaque les soldats isolés par derrière, depuis une corniche
+  ou après une approche aérienne. Les vingt validations peuvent être obtenues
+  très tôt si tu évites les combats frontaux inutiles.
+- Guide tactique : après chaque combat, attends que BD-1 propose une analyse.
+  Scanne immédiatement les ennemis rares, les droids, les variantes de primes et
+  les boss ; ne quitte pas une arène avant le scan.
+- Ressources : ramasse Priorite Shards, Datadiscs, Jedha Scrolls et les graines.
+  Les échanges avec Doma, Zee, Sister Taske et Caij font progresser Greezy Money.
+- Compétences : garde des points pour trois arbres complets et pour les actions
+  de Force demandées par les succès. Les combats de nettoyage donnent assez
+  d'expérience pour terminer ces arbres après la campagne.
 
-- Termine la route principale de Jedha en activant les meditations et les
-  raccourcis.
-- Scanne les ennemis et les objets de la region. Les variantes de tempete,
-  droide, raider et faune peuvent remplir plusieurs lignes du guide tactique.
-- Fais les Failles de Force accessibles, les essences et les coffres de
-  raccourci. Marque les portes de sable et murs de course pour le retour.
-- Utilise chaque compagnon disponible dix fois et verifie le compteur de
-  You've Got A Friend avant de passer a l'etape suivante.
-- Les chapitres de progression de Jedha valident automatiquement plusieurs
-  succes : The Past Made Present, Survivors, We Adapt, Among the Masters et
-  les jalons nommes dans la liste Steam. Ne quitte pas la zone sans les points
-  de meditation.
+CHAPITRE 1 — CORUSCANT, PREMIÈRE VISITE
 
-4. SHATTERED MOON : EXPLORATION TECHNIQUE
+OBJECTIF : Rooftop Duel, For Saw Gerrera, Reconnaissance, premiers scans et
+premières assistances.
 
-- Termine la mission principale de Shattered Moon et active les raccourcis.
-- Pousse un ennemi dans le canon minier pour This Is Canon. Fais une sauvegarde
-  juste avant le dispositif si la tentative echoue.
-- Termine les Chambres et les Failles accessibles avec les capacites acquises.
-- Fais les combats a objectifs : 50 ennemis sous Slow pour Han Slowlo, 20
-  ennemis souleves pour Get Down From There et une parade contre un ennemi
-  resistant au Pull pour Riposte.
-- Equipe un bandeau, entraine-toi avec une arme pour Cobra Cal, puis retire-le
-  si tu preferes garder une apparence normale.
-- Termine la planete et S1 avant de revenir a Koboh.
+1. Dans la zone de départ, fouille la plateforme, les caisses et les passerelles
+   avant de suivre l'équipe. Utilise la visière de BD-1 sur un ennemi visible à
+   distance : Reconnaissance est le meilleur succès à prendre immédiatement.
+2. Dès que Bode peut assister Cal, utilise son aide contre les ennemis isolés.
+   Fais-le dix fois avant la fin de Coruscant ou garde une sauvegarde juste après
+   l'activation de la commande d'assistance.
+3. Dans Undercity Meats, observe les positions de hauteur. Fais au moins cinq
+   éliminations d'ennemis inconscients avant d'entrer dans l'arène suivante.
+4. Scanne chaque type de trooper, droid et créature. Les variantes de soldats
+   avec bouclier, fusil, roquette ou baton sont des entrées séparées.
+5. Dans les toits, ramasse les coffres et les banques de données signalés par
+   BD-1. Les caisses ordinaires donnent les premiers composants de sabre et de
+   tenue ; garde la monnaie de jeu pour les vendeurs de Koboh.
+6. Termine le duel du toit. Rooftop Duel se valide en vainquant l'Inquisiteur.
+   Ne quitte pas la zone avant la notification.
+7. Suis la dernière séquence de Coruscant et rejoins le vaisseau. For Saw Gerrera
+   est automatique quand Cal se libère et quitte la planète.
 
-5. KOBOH : RETOUR, CANTINA ET CONTENU SECONDAIRE
+AVANT DE QUITTER CORUSCANT
 
-- Nettoie Rambler's Reach, Foothill Falls, Prospector's Folly, Stone Spires,
-  Basalt Rift, Viscid Bog, Observatory Understructure et les tunnels ouverts.
-- Termine toutes les Chambres Jedi : introspection, dualite, detachement,
-  clarte, connexion, reniement et perseverance. Le nom de chaque chambre est
-  un reperage de carte ; le succes Star Tours demande de toutes les decouvrir
-  et de les terminer.
-- Termine les sept rencontres de holotactiques : recrute d'abord les joueurs,
-  puis gagne chaque match avec les unites ameliorees par les scans de BD-1.
-  Les adversaires deja vaincus dans l'histoire debloquent les meilleures
-  compositions.
-- Ouvre toutes les parcelles du jardin en ramenant les graines de couleurs et
-  de formes differentes. Growth Spurt tombe quand l'espace est complet.
-- Termine toutes les primes de Caij. Apres chaque serie, retourne a la
-  cantina ; les nouvelles cibles apparaissent par paliers de progression.
-- Vaincs tous les adversaires legendaires : ils sont signales par une icone
-  distincte sur la carte et peuvent etre faits apres la campagne. Valide I'm a
-  Living Legend.
-- Termine les missions et recompenses de la cantina necessaires a Max Capacity
-  et A Place You Could Call Home.
-- Echange 25 objets de collection au marchand pour Greezy Money.
-- Equipe des avantages dans tous les emplacements pour Perk of the Job. Si un
-  emplacement manque, poursuis les Chambres Jedi et les primes.
+- [ ] Rooftop Duel obtenu.
+- [ ] For Saw Gerrera obtenu.
+- [ ] Reconnaissance obtenu.
+- [ ] Assistance de Bode utilisée dix fois si possible.
+- [ ] Ennemis de Coruscant scannés avec BD-1.
+- [ ] Coffres et données des toits ouverts.
+- [ ] S0-CORUSCANT conservée jusqu'aux notifications.
 
-6. KOBOH : LUCREHULK ET SECTEURS BLOQUES
+CHAPITRE 2 — KOBOH, GORGE ET CANTINA
 
-- Suis la progression vers le Lucrehulk et explore les couloirs lateraux avant
-  l'objectif principal.
-- Scanne chaque type de droide et de raider, y compris les variantes d'armes.
-- Termine les Failles de Force et les portes ouvertes par les capacites de
-  saut, de Cable ascensionnel et de Force.
-- Fais Mirror Match avec un ennemi Confus qui bat un ennemi du meme type. Le
-  plus simple est de preparer deux ennemis identiques dans une zone ouverte,
-  puis de lancer Confusion sur un seul.
-- Fais Catch! avec une mine roulante qui touche trois ennemis, et Slam Dunk en
-  soulevant cinq ennemis avec une seule utilisation de Slam.
-- Gagne une minute de parcours sans toucher le sol ni un mur pour Skywalker :
-  utilise une suite de cables, de ballons et de descentes dans une zone
-  verticale ; recharge si la jauge est interrompue.
+1. À l'arrivée, active le point de méditation de Gorge Crash Site. Suis la route
+   principale vers Rambler's Reach, mais explore les plateformes autour du lac
+   de goudron : elles contiennent des coffres et des données faciles à rater.
+2. Dans la cantina de Pyloon's Saloon, parle au propriétaire Greez. Grab Some Seat
+   se valide au dialogue ; fouille ensuite les étages, les tables, les toilettes
+   et la terrasse.
+3. Descends l'escalier à droite du bar et tire la chasse du Refresher. La petite
+   récompense au fond de la cuvette confirme Cleaning Up.
+4. Sur le chemin du ranch, parle à Mosey et Turgle. Ils deviennent les premières
+   recrues de la cantina. Ne quitte pas Rambler's Reach sans parler aux personnes
+   avec une icône de rumeur.
+5. Va chez Doma et ouvre son coffre de commande. Achète les objets disponibles
+   avec les Priorite Shards seulement après avoir noté le total dans l'inventaire.
+   Le stock complet demande 100 éclats, tous trouvables sur Koboh, Coruscant et
+   Shattered Moon.
+6. Près de la zone de Rambler's Reach, caresse un bogling qui s'approche du
+   chemin. Can You Pet the Bogling? apparaît sans combat.
+7. Apprends à dompter une Nekko quand l'histoire ouvre les enclos. Monte plusieurs
+   fois et parcours les sentiers entre Rambler's Reach, les Nekko Pools et
+   Harvest Ridge jusqu'à dépasser 500 mètres cumulés.
+8. Au point de méditation de Derelict Dam, récupère le mullet dans le coffre
+   posé sur le rocher au milieu du goudron. Équipe-le dès que possible pour
+   Road House, mais garde le combat de dropkick pour une zone sûre.
+9. Au barrage, ouvre l'accès aux roller mines. Attire une mine vers trois
+   ennemis proches, puis pousse-la ou lance-la afin que l'explosion touche les
+   trois cibles en même temps. Catch! se valide à l'impact.
+10. Scanne les mines roulantes, les droids B1, B2, BX, les raiders et les animaux.
+    Quand un ennemi nouveau meurt, utilise la commande d'analyse de BD-1 avant
+    de lancer le suivant.
+11. Pour Road House, porte le mullet et utilise la posture Crossguard. Sprint vers
+    un petit ennemi ou un mannequin d'entraînement et exécute le coup de pied.
+    Le mannequin de Veiled Hangar sur Jedha est une solution de secours.
+12. Pour Greezy Money, échange 25 objets au fil du jeu : éclats chez Doma,
+    Datadiscs chez Zee, parchemins de Jedha chez Sister Taske et pucks chez Caij.
 
-7. JEDHA ET REGIONS FINALES : DERNIER PASSAGE PRINCIPAL
+KOBOH — PREMIER BALAYAGE DES ZONES ACCESSIBLES
 
-- Termine les objectifs de Jedha et les raccourcis de la base. Scanne les
-  ennemis qui n'apparaissent que dans les missions de cette planete.
-- Continue la serie des compagnons : chaque compagnon doit atteindre dix
-  assistances, même si cela demande de recharger une meditation proche.
-- Termine la sequence principale de l'Observatoire et garde S3 avant l'objectif
-  qui lance la derniere portion de campagne.
-- Avant de confirmer cette derniere mission, la page de controle doit afficher :
-  [ ] You've Got A Friend.
-  [ ] toutes les primes de Caij restantes acceptees ou rendues.
-  [ ] toutes les Chambres Jedi faites.
-  [ ] les Failles deja accessibles terminees.
-  [ ] les joueurs de holotactique recrutes.
-  [ ] les poissons de Skoova controles.
-  [ ] le jardin complet et tous les avantages équipés.
+GORGE CRASH SITE
 
-8. NETTOYAGE POST-CAMPAGNE
+- Active le point de méditation et fouille la plateforme du vaisseau englouti.
+- Récupère l'essence près du bord et les caisses derrière la porte métallique.
+- Repère le Pit Droid et son vaisseau dans le goudron. Tu ne peux pas encore le
+  soulever ; reviens avec Force Lift pour There Is No Try et son recrutement.
+- Scanne Gorger, B1, B2 et les mines avant de partir vers Derelict Dam.
 
-- Recharge S3 si un compteur de compagnon ou de combat manque ; sinon utilise
-  la libre exploration pour vider les cartes.
-- Fais toutes les Failles de Force pour Blood, Sweat, and Tears.
-- Fais tous les adversaires legendaires pour I'm a Living Legend.
-- Complete toutes les Chambres Jedi pour Star Tours.
-- Complete toutes les parties de holotactique pour Gambler.
-- Termine toutes les primes de Caij pour Caij Match, en recuperant les jetons
-  et les recompenses.
-- Termine les 12 captures de Skoova (ou toutes celles marquees dans son album),
-  puis verifie chaque aquarium.
-- Scanne toutes les entrees de la base de donnees et du guide tactique pour
-  Intergalactic Geographic. Les ennemis ordinaires manquants reapparaissent ;
-  les ennemis de missions nécessitent la sauvegarde de la mission concernée.
-- Reviens aux jardins, marchands, coffres et portes orange ; les cartes de
-  Koboh, Jedha, Coruscant et Shattered Moon doivent etre inspectees avec les
-  raccourcis actifs.
+DERELICT DAM
 
-COMBAT : CHECKLIST RAPIDE
+- Ouvre les caisses au bord des bassins et le coffre du rocher dans le goudron.
+- Attire la roller mine pour Catch!, puis utilise-la sur les murs cassables quand
+  l'histoire te demande d'ouvrir la route.
+- Dans le bâtiment abandonné, fouille les alcôves, les ponts inférieurs et les
+  passerelles près des treuils. Les coffres de matériaux de sabre sont au bout
+  des chemins qui obligent à revenir par le goudron.
+- La porte de la Gorocco Matriarch reste pour le retour avec Force Lift et Force
+  Slam ; ne cherche pas à la forcer pendant la première visite.
 
-[ ] They Never Saw It Coming : 20 ennemis non alertes.
-[ ] Mirror Match : un ennemi Confus tue un ennemi du même type.
-[ ] Skywalker : 60 secondes sans sol ni mur.
-[ ] Now, This Isn't Podracing : 500 m sur creatures.
-[ ] Kitted Out : pieces pour BD-1, blaster et sabre.
-[ ] Riposte : parade contre un ennemi qui resiste au Pull.
-[ ] Catch! : une mine roulante touche 3 ennemis.
-[ ] Han Slowlo : 50 ennemis sous Slow.
-[ ] This Is Canon : ennemi pousse dans le canon minier.
-[ ] Slam Dunk : 5 ennemis avec une seule competence Slam.
-[ ] Road House : Dropkick avec la coupe mulet équipée.
-[ ] Get Down From There : 20 ennemis souleves attaques.
-[ ] Cobra Cal : entrainement arme + bandeau.
-[ ] So Uncivilized : 10 ennemis avec Point Blank.
-[ ] One With the Force : 50 attaques evitees avec Focus Sight.
-[ ] Pinpoint : 10 Precision Releases parfaitement synchronises.
+SOUTHERN REACH ET RAMBLER'S REACH
 
-LISTE COMPLETE DES 53 SUCCES STEAM
+- Parle à Mosey, aux prospectors et aux vendeurs. Une caisse derrière les
+  bâtiments de l'avant-poste contient une première modification de tenue.
+- Beetu Deetu, adversaire légendaire, apparaît près du point de méditation de
+  Southern Reach. Si tu le combats tôt, pare ses tirs et renvoie ses roquettes.
+- Cherche les graines dans les zones herbeuses et plante chaque nouvelle variété
+  dès que le toit de la cantina devient accessible.
+- Le coffre secret des écuries de Doma apparaît après avoir placé une Nekko de
+  couleur inhabituelle dans l'enclos, médité, puis vérifié le box.
 
-Progression principale :
-[ ] Rooftop Duel. [ ] For Saw Gerrera. [ ] Grab Some Seat.
-[ ] Can You Pet the Bogling? [ ] The Past Made Present.
-[ ] Survivors, We Adapt. [ ] Among the Masters. [ ] Who Gives a Puck.
-[ ] For the Path. [ ] Out of Bedlam. [ ] Tanalorr Bound.
-[ ] Cleaning Up. [ ] Tragedy. [ ] At the Precipice. [ ] Into the Abyss.
-[ ] A Place You Could Call Home. [ ] They're Probably Fine. [ ] It's a Trap.
-[ ] A Presence I've Not Felt Since...
+CHAPITRE 2 — FORÊT, CHAMBRE DE DUALITÉ ET CUVE DE BACTA
 
-Exploration, collection et combats :
-[ ] They Never Saw It Coming. [ ] Mirror Match. [ ] Skywalker.
-[ ] Now, This Isn't Podracing. [ ] Kitted Out. [ ] Hey, Luke At Us.
-[ ] Greezy Money. [ ] Riposte. [ ] Catch! [ ] There Is No Try.
-[ ] Han Slowlo. [ ] The Jedi Path. [ ] This Is Canon. [ ] You've Got A Friend.
-[ ] King of the World. [ ] Max Capacity. [ ] Reconnaissance. [ ] Slam Dunk.
-[ ] Star Tours. [ ] Gambler. [ ] Growth Spurt. [ ] Caij Match.
-[ ] Perk of the Job. [ ] Skoova Diving. [ ] I'm a Living Legend.
-[ ] Road House. [ ] Get Down From There. [ ] Intergalactic Geographic.
-[ ] Cobra Cal. [ ] So Uncivilized. [ ] Blood, Sweat, and Tears.
-[ ] One With the Force. [ ] Splurgle. [ ] Pinpoint.
+1. Dans la Chamber of Duality de Rambler's Reach, termine le puzzle des boules,
+   ouvre le coffre de récompense et récupère l'essence. Cette chambre compte
+   pour Star Tours et ouvre la progression principale.
+2. Utilise les câbles et les sphères pour créer des ponts. Avant de sortir,
+   vérifie les plateformes latérales et les données de la chambre.
+3. Dans Southern Reach et Swindler's Wash, ramasse les graines, les coffres et
+   les données visibles. Sous la cascade de Swindler's Wash se trouve plus tard
+   la Faille Fractured Resolve.
+4. À la Forest Array, active les points de méditation et scanne chaque nouveau
+   type de droid et de créature. Les grandes arènes contiennent souvent un
+   écho de Force et un coffre sur la plateforme supérieure.
+5. Atteins la tour de la Forest Array et libère le Jedi de la cuve de bacta.
+   The Past Made Present se valide à cette étape.
+6. Pendant les déplacements avec Bode, utilise son assistance dès que l'icône
+   apparaît. Ne laisse pas les ennemis mourir par les dégâts de l'environnement
+   avant l'exécution de l'assistance.
+7. À la fin du chapitre, médite et retourne à la cantina. Parle à Greez, Turgle,
+   Mosey et tous les habitants jusqu'à épuiser les dialogues.
 
-Les succes de progression sans condition textuelle dans Steam se valident au
-fil des missions. Les autres sont controles dans les sections ci-dessus ;
-aucune action de mode Online n'est necessaire pour les 53 succes.
+CHAPITRE 3 — PYLON'S SALOON, STONE SPIRES ET CA​​IJ
 
-VALIDATION FINALE
+1. Lorsque l'histoire mène aux Stone Spires, prépare la sauvegarde S4-PRIMES.
+   Une première rencontre de chasseur de primes lance la chaîne de Caij et
+   donne Who Gives a Puck.
+2. Après la rencontre, parle à Caij au saloon et épuise toutes ses options. Les
+   primes s'ajoutent progressivement au journal ; reviens à la cantina après
+   chaque groupe éliminé.
+3. Explore les Stone Spires et la Devastated Settlement : plateformes, piliers,
+   coffres, Datadiscs, graines et points de méditation. Ne quitte pas la zone
+   sans scanner les Bramliks, Rawkas et Sutabans.
+4. Dans Hunter's Quarry, ouvre la boutique de Doma, le bâtiment derrière les
+   caméras et les passages souterrains. Ils servent à Fractured Delusion après
+   Force Dash et Force Slam.
+5. Recrute Zee au fil de l'histoire. Achète les emplacements de perks disponibles
+   avec les Datadiscs et ne dépense pas toutes les ressources en cosmétiques.
+6. Dans la zone de la cantina, recrute Toa près de Basalt Rift, Skoova à Foothill
+   Falls lorsque son lieu est ouvert et Pili à Jedha plus tard. Leur présence
+   fait progresser Max Capacity et Growth Spurt.
+7. Quand Caij ajoute une prime, lis le repère de zone avant de suivre l'histoire.
+   Le tableau CAIJ plus loin doit être suivi dans l'ordre pour éviter le bug de
+   progression de Kili Oso.
 
-[ ] Steam : 53/53.
-[ ] You've Got A Friend valide avant la derniere sequence.
-[ ] 7 Chambres Jedi.
-[ ] Toutes les Failles de Force.
-[ ] Tous les adversaires legendaires.
-[ ] Toutes les primes de Caij et tous les jetons rendus.
-[ ] Toutes les parties de holotactique.
-[ ] Album de Skoova termine.
-[ ] Jardin complet et tous les emplacements d'avantages remplis.
-[ ] Guide tactique complet et scans des ennemis rares.
-[ ] Aucune sauvegarde de securite necessaire avant de lancer Nouvelle Partie +.
+CHAPITRE 4 — JEDHA, MERRIN ET JEDI PATH
 
-Sources de verification :
-- Steam, page officielle des 53 succes :
-  https://steamcommunity.com/stats/1774580/achievements/
-- Guide de controle des succes, collectibles et fenetres de compagnon :
-  https://www.xboxachievements.com/game/star-wars-jedi-survivor/guide/
-- Soluce de zones et contenu optionnel :
-  https://www.neoseeker.com/star-wars-jedi-survivor/walkthrough
+1. À la première arrivée sur Jedha, active le point de méditation près du
+   Mantis, puis fouille les Halls of Ranvell. Scanne les stormtroopers, les
+   raiders et les créatures des couloirs.
+2. Voyage avec Merrin : Survivors, We Adapt se valide automatiquement après la
+   rencontre et la progression de la mission.
+3. Dans les Halls of Ranvell et les chemins de Pilgrim's Path, ouvre les coffres
+   en hauteur, les boîtes de données et les cachettes derrière les murs. Les
+   parchemins de Jedha peuvent être échangés auprès de Sister Taske.
+4. Rencontre les maîtres Jedi dans la mission de l'Archive. Among the Masters se
+   valide au dialogue ; continue à lire les entrées de l'Archive et à ouvrir les
+   coffres de la salle.
+5. Atteins Pilgrim's Sanctuary et protège la zone. For the Path apparaît pendant
+   la défense. Scanne les ennemis avant de quitter l'arène.
+6. Recrute Pili Walde dans Blustery Mesa. Reviens sur le toit de la cantina, parle
+   à Pili et plante des graines dans les quatre parcelles. Une graine de chaque
+   type doit être plantée ; Growth Spurt apparaît lorsque le jardin est complet.
+7. Utilise le mannequin de Veiled Hangar avec un headband acheté chez Doma pour
+   Cobra Cal. Équipe l'objet, active l'entraînement et termine la séquence.
+8. Pour les ennemis inconscients, profite des escaliers, des corniches et des
+   soldats isolés de Jedha. Atteins vingt éliminations avant la fin de l'acte.
+
+JEDHA — OBJETS, PUZZLES ET POISSONS DE LA PREMIÈRE VISITE
+
+- Halls of Ranvell : explore les deux niveaux, le couloir extérieur et la salle
+  de l'établi. Un duo de chasseurs de primes apparaît plus tard au même endroit.
+- Arid Flats : ouvre les coffres autour de l'Archive, récupère le parchemin de
+  Jedha et parle à Skoova pour le Snakefish quand sa barque est disponible.
+- Anchorite Base : récupère les données, les essences et le chemin vers Golden
+  Skriton. Les trois puzzles Path of Persistence, Path of Restoration et Path of
+  Conviction donnent chacun un emplacement de perk.
+- Crypt of Uhrma : garde la zone pour le nettoyage avec Force Dash. La solution
+  de la porte est rangée dans la section des adversaires légendaires ; le lieu
+  contient un poisson, un boss et une essence.
+- Monastery Walls : ouvre les passages de la ruine, les coffres de l'atelier et
+  la Faille Fractured Tradition.
+
+CHAPITRE 4 — KOBOH, LUCREHULK ET FORCE LIFT
+
+1. Retourne sur Koboh pour la mission du Lucrehulk. Scanne chaque nouveau type
+   de droïde, chaque Raider et les variantes du guide tactique. Les ennemis de
+   la zone sont faciles à revoir en post-campagne, mais certains scans sont plus
+   sûrs dans la première arène.
+2. Dans Viscid Bog, récupère Force Lift et retourne près du point de méditation.
+   Soulève le vaisseau du Pit Droid à Gorge Crash Site, parle-lui et recrute-le.
+   There Is No Try se valide à la levée du vaisseau.
+3. Dans la zone du Lucrehulk, ouvre les coffres derrière les portes soulevables,
+   les passerelles de chargement et les casiers de Yurt Barracks. Le Massiff,
+   adversaire légendaire, est derrière une porte élevée au-dessus des huttes.
+4. Dans Viscid Bog, soulève les trois rochers immergés à gauche de l'ascenseur
+   pour atteindre The Mire Terror. Scanne le boss avant de finir le combat.
+5. Dans Untamed Downs, utilise la monture et Force Dash pour entrer derrière la
+   barrière verte. E3-VE3 se trouve dans le bunker de la crête ; l'ennemi doit
+   être compté dans I'm a Living Legend.
+6. Dans Fort Kah'lin, monte les tours jusqu'à la plateforme ronde. Le sol cède
+   vers Spawn of Oggdo ; ouvre ensuite le coffre de la chambre pour récupérer
+   l'ancienne tenue et valider A Presence I've Not Felt Since....
+7. Retourne à la cantina, parle à Bhima et Tulli à Boiling Bluff après avoir
+   vaincu le Mogu qui les menace. Holotactics se débloque avec leurs parties.
+8. Pour Max Capacity, recrute aussi Ashe Javi et DD-EC sous la grange rouge de
+   Harvest Ridge, T-1N8 sous la cabane abandonnée de Foothill Falls, Zygg Soza
+   et Wini Eres près de leur maison, ainsi que le Jawa derrière le parcours de
+   plateforme accessible avec Dash et l'ascension améliorée.
+
+CHAPITRE 4 — HARVEST RIDGE ET KING OF THE WORLD
+
+1. Active le point de méditation de Harvest Ridge et apprivoise le bogling près
+   du panneau nord. Utilise le câble de traction, traverse Moldy Depths avec une
+   Nekko et saute par-dessus la grille fermée.
+2. Garde une Nekko à proximité, appelle-la en maintenant le panneau et place
+   deux montures devant la grande grange. Ouvre la porte latérale depuis le haut,
+   puis utilise le saut de Nekko pour atteindre la plateforme supérieure.
+3. Tire le câble au-dessus de la petite porte, appelle la monture à l'intérieur,
+   puis utilise l'autre Nekko pour franchir le bloc. Récupère le câble, ouvre le
+   raccourci et grimpe la paroi rouge.
+4. Active l'essence et le point de méditation au sommet. King of the World se
+   valide à la hauteur maximale de la ferme.
+5. Depuis une zone sûre de Jedha ou Koboh, monte une créature et laisse-la tomber
+   dans un ravin pour They're Probably Fine. Recharge immédiatement si tu veux
+   préserver tes ressources.
+
+CHAPITRE 5 — SHATTERED MOON, BLASTER ET CROSSGUARD
+
+1. Explore la Shattered Moon et récupère la posture Blaster quand la mission la
+   déverrouille. Porte le headband pour Cobra Cal seulement sur Jedha ; le
+   blaster sert ici à So Uncivilized.
+2. Obtiens Crossguard plus tard dans la route et ouvre les passages lourds. Pour
+   So Uncivilized, pare le coup d'un petit ennemi au moment où il frappe avec
+   Point Blank ; la riposte envoie le tir rouge et tue la cible. Les droids B1
+   sont les meilleurs essais.
+3. À Array Channel, attends l'activation du canon minier, garde un ennemi debout
+   devant la trajectoire et utilise Push pour l'envoyer dans le tir. This Is Canon
+   exige que le canon tue la cible, pas une chute.
+4. Dans Assembly Staging, ouvre les coffres, active l'établi et déverrouille la
+   Faille Fractured Endurance. Elle demande 150 B1 Battle Droids ; utilise
+   Mass Force Lift/Slam et la posture double lame pour gagner du temps.
+5. Scanne les formes de droids, les commandants et les raiders. Les entrées de
+   Shattered Moon sont indispensables pour Intergalactic Geographic.
+6. Reviens plus tard à Automated Forge pour la prime de Mash et la Faille de la
+   lune ; le tableau des primes indique le moment exact.
+
+CHAPITRE 5 — PRIMES, ABYSS COMPASS ET ARCHIVE
+
+1. Continue les missions principales jusqu'à l'Abyss Compass. Tanalorr Bound se
+   valide quand l'objet est récupéré ; Tragedy se valide pendant la défense de
+   l'Archive.
+2. Après chaque mission, retourne à la cantina, parle à Caij et médite pour
+   actualiser les rumeurs. Ne tue pas Kili Oso avant d'avoir éliminé tous les
+   petits groupes de primes du tableau.
+3. Continue d'utiliser les assistances avec les compagnons disponibles. Si un
+   compagnon quitte temporairement une zone, ne remplace pas les dix utilisations
+   par les mêmes ordres sur un autre personnage : le compteur est par compagnon.
+4. Dans les niveaux principaux, repère les murs verts, les ballons, les câbles et
+   les ascenseurs verrouillés. Marque-les mentalement pour le nettoyage après
+   l'obtention de toutes les capacités.
+
+CHAPITRE 6 — NOVA GARON ET ROUTE VERS TANALORR
+
+1. À Nova Garon, active les points de méditation, ouvre les coffres de la base
+   et scanne les ISB Agents, Security Droids, DT Sentries et variantes de la
+   section impériale.
+2. Récupère le terminal de mise à jour de carte dans Central Command. Il révèle
+   les entrées de données ; tu peux revenir l'utiliser après la campagne.
+3. At the Precipice se valide après la séquence de Nova Garon. Into the Abyss se
+   valide en découvrant la route de Tanalorr. Continue les dialogues, puis
+   termine l'histoire pour A Place You Could Call Home.
+4. Dans la séquence finale, scanne chaque nouvel ennemi avant la fin si BD-1 le
+   permet. Certains adversaires ne sont plus rencontrables comme une troupe
+   normale après leur scène ; ouvre le Guide tactique au dernier point de repos.
+5. Après la fin, crée S7-FINAL et ne lance pas Nouvelle Partie +. Le menu de
+   voyage rapide permet de nettoyer les cinq planètes et la lune.
+
+NETTOYAGE POST-CAMPAGNE — ORDRE OPTIMAL
+
+1. Commence par Coruscant : les deux adversaires légendaires, les coffres de
+   retour et la Faille du toit.
+2. Fais Jedha : les trois adversaires, les deux poissons, les trois puzzles de
+   chemin, les primes, les parchemins et les Failles.
+3. Fais Koboh par sous-région : Gorge, Rambler's Reach, Dredger Gorge, Southern
+   Reach, Riverbed Watch, Prospector's Folly, Stone Spires, Viscid Bog, Lucrehulk,
+   Harvest Ridge, Untamed Downs, Fort Kah'lin et Phon'Qi.
+4. Fais Shattered Moon : coffre, données, prime, Faille et Datadiscs.
+5. Achève Nova Garon : données, coffres et derniers scans.
+6. Ouvre les cinq terminaux de carte quand les prérequis sont réunis. Une fois
+   les cartes révélées, effectue un balayage zone par zone et passe les cases à
+   cocher du tableau de nettoyage.
+
+AMÉLIORATIONS DE CARTE ET PRÉREQUIS
+
+- Carte des coffres : termine Phon'Qi Caverns et récupère le terminal à la fin.
+  Elle révèle les coffres de Koboh, Coruscant, Jedha et Shattered Moon.
+- Carte des essences et améliorations : termine les six Chambres Jedi principales,
+  récupère l'essence de la septième chambre détruite à Devastated Settlement,
+  puis active le terminal d'Alignment Control Center.
+- Carte des trésors : termine les trois parcours Path of Persistence, Path of
+  Restoration et Path of Conviction sur Jedha, puis active les trois ruines à
+  boules des Arid Flats et ouvre Wayfinder's Tomb.
+- Carte des graines : plante chaque type trouvé, ouvre les quatre parcelles et
+  active le terminal du toit de la cantina. La carte révèle les graines restantes.
+- Carte des données : récupère le terminal de Central Command sur Nova Garon.
+- Les cartes n'indiquent pas les 15 Failles, les 12 poissons ni toutes les
+  Chambres. Utilise leurs listes ci-dessous, même si la planète affiche 100 %.
+
+CHAMBRES JEDI — 7/7
+
+1. Chamber of Duality — Rambler's Reach Outpost, ouverte pendant la mission
+   principale. Fais passer la sphère dans les conduits et récupère le perk.
+2. Chamber of Reason — Basalt Rift. Utilise les sphères et les ponts de lumière,
+   puis ouvre le coffre avant de sortir.
+3. Chamber of Clarity — Untamed Downs. Déplace les caisses en bois, traverse
+   les volumes latéraux et récupère l'essence de fin.
+4. Chamber of Detachment — Mountain Ascent. Reviens après avoir obtenu l'accès
+   à la barrière et utilise les ascenseurs pour atteindre le dernier coffre.
+5. Chamber of Connection — Viscid Bog. Utilise les globes de matière pour créer
+   une route rapide entre les portes et termine le puzzle en hauteur.
+6. Chamber of Fortitude — Southern Reach. Nécessite Force Lift ; termine le
+   combat et ouvre le coffre derrière les plateformes soulevables.
+7. Chambre détruite de Devastated Settlement — depuis le point Grand Courtyard,
+   prends un Relter et dirige-le en arrière vers la plateforme située près du
+   monastère High Republic. Descends dans la cavité et récupère l'essence. Elle
+   compte pour Star Tours même si la chambre n'a pas de nom dans le journal.
+
+FAILLES DE FORCE — 15/15
+
+KOBOH
+
+- Fractured Duality — toit du jardin de Rambler's Reach ; Pili et jardin étendu.
+  Combat à la double lame contre troopers et BX.
+- Fractured Delusion — Hunter's Quarry, derrière le bâtiment de Doma ; Force
+  Slam, Force Dash et câble d'ascension amélioré. Combat de primes et droids.
+- Fractured Resolve — sous la cascade de Swindler's Wash ; parcours de plateforme.
+- Fractured History — derrière Doma après Spawn of Oggdo ; deux adversaires
+  légendaires. Interagis avec l'écho pour faire apparaître la Faille.
+- Fractured Momentum — Smuggler's Tunnels ; Force Dash. Traverse la barrière
+  verte depuis la caverne et termine le parcours sans toucher les murs.
+- Fractured Agility — Derelict Dam ; câble d'ascension amélioré, ballons et
+  plateforme au-dessus de la zone du gros oiseau.
+- Fractured Burden — Gorge Crash Site ; Force Slam. Combat contre Mire Terror,
+  Gorocco Matriarch et Vile Bilemaw.
+- Fractured Power — Marl Cavern, Fogged Expanse ; câble amélioré et Crossguard.
+  Termine l'arène de troopers, raiders et créatures.
+- Fractured Punishment — Devastated Settlement ; prends le Relter vers le cube
+  doré opposé au point Grand Courtyard. Combat contre Sutabans et Rawkas.
+
+JEDHA
+
+- Fractured Cunning — Timeworn Bridge ; Wall Jump, Force Dash et Blaster. Suis
+  la passerelle extérieure à partir du point de méditation.
+- Fractured Dexterity — Blustery Mesa ; Force Dash et double lame. Passe le
+  tunnel venteux et prends la Faille derrière les salles de gardes.
+- Fractured Determination — Desert Ridge, derrière la barrière verte à gauche
+  d'Anchorite Base. Recharge le double saut avec les barrières de Force.
+- Fractured Tradition — Monastery Walls ; parcours à posture unique dans les
+  ruines sous le point de méditation.
+
+SHATTERED MOON ET CORUSCANT
+
+- Fractured Endurance — Assembly Staging, Shattered Moon ; vaincs 150 B1 dans
+  l'arène de ziplines. Utilise les attaques de zone.
+- Fractured Malice — Rooftops, Coruscant ; Force Lift sur la porte fermée près
+  du premier passage du début de jeu, puis combat contre deux Rancors.
+
+ADVERSAIRES LÉGENDAIRES — 13/13
+
+1. D-L1T — Hangar 2046-C, Coruscant. Reviens avec Electro Dart, ouvre la porte
+   du hangar et élimine le droid au fond.
+2. Frenzied Jotaz — Undercity Meats, Coruscant. Reviens quand la porte fermée
+   peut être ouverte et combat le Jotaz dans la zone de cuves.
+3. Gorocco Matriarch — Derelict Dam, Koboh. Utilise une roller mine sur le mur
+   cassable, active le raccourci d'ascenseur puis soulève la porte jaune.
+4. Beetu Deetu — Southern Reach, Koboh. Depuis le point de méditation, avance
+   sur le chemin ; le droid arrive devant Cal.
+5. E3-VE3 — Untamed Downs, Koboh. Passe la barrière verte de la crête à gauche
+   de l'entrée et entre dans le bunker.
+6. Spawn of Oggdo — Fort Kah'lin, Koboh. Traverse les tours et la plateforme
+   ronde qui s'effondre. Le coffre de la salle contient l'ancienne tenue.
+7. The Mire Terror — Viscid Bog, Koboh. Soulève les trois plateformes près de
+   l'ascenseur et atteins la zone humide à côté de l'essence.
+8. The Massiff — Yurt Barracks, Koboh. Grimpe sous les huttes, soulève la porte
+   et passe derrière la fenêtre au-dessus de la garnison.
+9. Urgost, Fist of Rayvis — Observatory Understructure, Koboh. Reviens au sommet
+   de l'observatoire par les ballons et les droids grapple.
+10. Rancor — Sodden Grotto, Koboh. Explore la grotte à gauche de Rambler's Reach
+    et élimine le Rancor dans la salle profonde.
+11. Vile Bilemaw — Fogged Expanse, Koboh. Passe le chemin de brouillard près du
+    point de méditation et franchis les plateformes en hauteur.
+12. Golden Skriton — Anchorite Base, Jedha. Suis le bord de Desert Ridge ; un
+    dialogue de Merrin confirme l'approche de l'arène.
+13. Sutaban Alpha — Crypt of Uhrma, Jedha. Résous la porte avec les leviers 1,
+    2, 3, 4 sur la rangée du haut et 5, 6, 7, 8 en bas : tire 1, 4, 6 et 7.
+    Traverse ensuite la porte verte et rejoins la salle du Sutaban.
+
+CAIJ — PRIMES DANS L'ORDRE SÛR
+
+1. Korej Lim — Devastated Settlement, Koboh. Rencontre automatique pendant la
+   première mission des Stone Spires.
+2. Meyer Corr — Boiling Bluff, Koboh. Quitte la zone par le chemin qui revient
+   vers le centre ; l'embuscade se déclenche sur la route.
+3. Kip Ostar — Derelict Dam, Koboh. Reviens au bâtiment des roller mines et
+   suis le couloir intérieur jusqu'à l'embuscade.
+4. Raz — Forest Array, Koboh. Depuis le point de méditation, prends la tyrolienne
+   vers la gauche et entre dans la salle circulaire.
+5. Cord et PR-85T — Halls of Ranvell, Jedha. Grimpe les niveaux de l'escalier,
+   sors sur le toit et franchis les grilles métalliques.
+6. Yuhong — Path of Restoration, Jedha. Depuis Anchorite Base, entre dans la
+   grotte à gauche du chemin inférieur et bats le droid lourd.
+7. Gatt Medo — Freight Handling Depot, Coruscant. Reviens au point de méditation,
+   traverse la salle des conteneurs et prends le couloir du fond.
+8. Mash — Automated Forge, Shattered Moon. Reviens après la seconde visite de
+   l'histoire et suis le couloir jaune depuis le point de méditation.
+9. Vaslyn Martz — Fogged Expanse, Koboh. Reviens après Mountain Ascent, puis
+   traverse les canyons brumeux pour déclencher l'embuscade.
+10. Selfin Jook — Observatory Understructure, Koboh. Reviens après la mission
+    de l'observatoire et utilise les grapple droids depuis le point de méditation.
+11. KLE-O, Masi Finau et Fenn Finau — Hangar Bay Exterior, Nova Garon. Retourne
+    au couloir vitré où se trouve la zone de Dark Trooper.
+12. Kili Oso — Sanctuary Temple, Jedha. Ne la lance qu'après les quatorze étapes
+    précédentes et après avoir épuisé le dialogue de Caij.
+13. Jo the Cannibal — Lucrehulk Core, Koboh. Disponible après Kili ; entre dans
+    Yurt Barracks et rejoins la grande arène avec les chars de droids.
+14. Caij Vanda — dernière confrontation. Après Jo, retourne au saloon et lis la
+    note laissée sur la table ; suis-la vers la zone de la première prime.
+15. Les groupes comptent plusieurs cibles et plusieurs pucks. Vérifie que chaque
+    icône de prime est disparue, puis parle à Caij au saloon avant de continuer.
+
+POISSONS DE SKOOVA — 12/12
+
+Recrute Skoova à Foothill Falls, près de la cabane abandonnée. Après chaque
+prise, retourne parfois à la cantina et épuise son histoire : le poisson est
+ajouté à l'aquarium même si la scène de dialogue semble terminée.
+
+1. See Fish — Foothill Falls, première rencontre avec Skoova.
+2. Frilled Newt — Gorge Crash Site, près du point de méditation.
+3. Fingerlip Garpon — Rambler's Reach, derrière la maison proche des écuries.
+4. Barbed Hookfish — Smuggler's Tunnels, bassin inférieur sous la cantina.
+5. Blue-Finned Crayfish — Nekko Pools, limite du chemin vers Bygone Settlement.
+6. Big-Mouth Faa — Basin près de Rambler's Reach, après l'accès au passage d'eau.
+7. Blinding Rayfish — Devastated Settlement, bassin au sommet d'un pilier.
+8. Glottsamcrab — Viscid Bog, bassin près de la tente et du marqueur de rumeur.
+9. Mee — Mountain Ascent, après les barrières vertes, sur la plateforme basse.
+10. Viscid Lurker — Phon'Qi Caverns, bassin profond après les droids kamikazes.
+11. Snakefish — Arid Flats, bassin près de l'Archive sur Jedha.
+12. Fantailed Laa — Crypt of Uhrma, après le puzzle des leviers et la porte cachée.
+
+JARDIN — PLANTES ET TERMINAL
+
+1. Ramasse toutes les graines dont BD-1 affiche le sac. Les graines proviennent
+   des plantes que Cal coupe, des graines colorées au sol et des récompenses de
+   petites activités. Une graine déjà possédée n'est pas à relire.
+2. Après avoir rencontré Pili dans Blustery Mesa, retourne au toit de la cantina.
+   Plante chaque variété dans les trois premières parcelles.
+3. Attends que les parcelles poussent, parle à Pili et ouvre la quatrième parcelle.
+   Plante les variétés restantes jusqu'à obtenir les quatre formes de terrain.
+4. Active le terminal de jardin pour la carte des graines. Growth Spurt apparaît
+   à l'ouverture de l'espace complet ; ne quitte pas le toit avant la notification.
+
+CANTINA — RECRUES POUR MAX CAPACITY
+
+- Mosey et Turgle — rencontrés lors du premier passage à Rambler's Reach.
+- Toa — alcôve au-delà du pont de rondins devant Basalt Rift.
+- Pili Walde — Blustery Mesa, Jedha.
+- Caij Vanda — après la première prime des Stone Spires.
+- Skoova Stev — Foothill Falls, après le dialogue de pêche.
+- Bhima et Tulli — Boiling Bluff, après avoir vaincu le Mogu près du rocher.
+- Ashe Javi et DD-EC — chemin rouge sous la grande grange d'Harvest Ridge.
+- T-1N8 — sous la cabane abandonnée de Foothill Falls, trapdoor à soulever.
+- Pit Droid — après avoir soulevé son vaisseau au Gorge Crash Site.
+- Jawa — parcours de plateforme derrière les vents, avec Force Dash et câble
+  d'ascension amélioré.
+- Zygg Soza et Wini Eres — soulève la plateforme près de leur maison, récupère
+  le datapad perdu et reviens leur parler.
+- Tous doivent être visibles dans la cantina avant Max Capacity. Fais plusieurs
+  repos et épuise les dialogues si le succès tarde à apparaître.
+
+HOL​​OTACTICS — GAMBLER
+
+1. Recrute Bhima et Tulli, puis commence la table au saloon. Chaque adversaire
+   est débloqué par un recrutement ou une progression de prime.
+2. Adversaires à battre : Turgle, Greez, Tulakt, Merrin, Caij, Skoova, T-1N8 et
+   Tulli. Termine toutes les vagues de chaque adversaire.
+3. Scanne les ennemis avant de jouer afin d'élargir l'armée disponible. Les
+   compositions suivantes donnent une base stable ; ajuste selon les unités
+   déjà scannées.
+4. Turgle : place un Skriton, un B1 et un B2 pour encaisser, puis ajoute un
+   Scout Trooper et un B2 pour les vagues suivantes.
+5. Greez : utilise un B2, un DT Sentry et des unités de distance. Économise les
+   points pour la dernière vague au lieu de tout dépenser au premier tour.
+6. Tulakt : deux Purge Troopers et une unité lourde, puis un AT-ST ou un Skriton
+   avec une unité de soutien.
+7. Merrin : les unités rapides et les droids à distance fonctionnent mieux que
+   les petits melee isolés. Garde un DT Sentry pour la vague finale.
+8. Caij : ouvre avec un Droideka ou un DT Sentry, puis complète avec des unités
+   à grande portée. Rejoue la vague si l'IA s'immobilise derrière une caisse.
+9. Skoova : Skriton, B1/B2, Scout Trooper puis deux Sutabans selon la vague.
+10. T-1N8 : trois B1 Melee devant et deux Stormtroopers dans les coins gardent
+    assez de points pour les vagues lourdes.
+11. Tulli : Droideka, deux Electrobaton Purge Troopers et Stormtrooper Commander
+    au début ; AT-ST, Skriton et Heavy Assault pour les dernières vagues.
+12. Après chaque victoire, reviens au menu et contrôle la progression. Gambler
+    apparaît seulement quand toutes les parties sont gagnées.
+
+GUIDE TACTIQUE — 100 % DES SCANS
+
+1. Scanne chaque ennemi au premier passage : Scout Trooper, Scout Commander,
+   Stormtrooper, Commander, AT-ST, Security Droid, Flametrooper, Heavy Assault,
+   Probe Droid, Rocket Trooper, les trois Purge Troopers, Shield Trooper,
+   Jetpack Trooper, Officer, Viper Probe, DT Sentry, Security Enforcer et ISB.
+2. Scanne les Bedlam Raiders : B1, B1 Melee, B2, BX, BX Hybrid, BX Rifle,
+   Droideka, E3-VE3, Massif, Bedlam Lieutenants, Magnaguard, Rayvis, Veteran,
+   Grunt, Smasher et Beetu Deetu. Les variantes d'un même modèle sont séparées.
+3. Scanne la Haxion Brood : Commando, Brawler Bounty Droid, Bounty Droid,
+   Bounty Hunter, Caij Vanda, Shock Commando, Gunslinger et Grenadier. Les
+   primes sont les sources les plus sûres de ces entrées.
+4. Scanne la faune : Gorocco, Gorger, Vile Bilemaw, Gorocco Matriarch, Mire
+   Terror, Rancor, Bilemaw, Rawka, Spawn of Oggdo, Bramlik, Shiverpede, Mogu,
+   Hardshell, Golden Skriton, Skriton, Sutaban et Sutaban Alpha.
+5. Scanne Roller Mine et Scavenger Droid. Les boss à plusieurs étapes peuvent
+   remplir deux ou trois emplacements ; ouvre le Guide tactique après chaque
+   phase pour vérifier que l'entrée s'est bien créée.
+6. Les entrées Bode et les ennemis d'histoire apparaissent automatiquement ou
+   après une analyse post-combat. Si le compteur est incomplet, reviens à la
+   zone listée dans le tableau des primes et des légendaires.
+7. Intergalactic Geographic se valide quand tous les groupes sont remplis. Ne
+   confonds pas 100 % d'une planète avec 100 % du Guide tactique.
+
+SUCCÈS DE FORCE — MÉTHODES FIABLES
+
+- Han Slowlo : débloque Slow amélioré dans l'arbre Jedi Concentration. Dans la
+  Faille Fractured Endurance, ralentis les B1 en groupe et exécute-les pendant
+  l'effet. Vise 50 éliminations, pas 50 applications.
+- You've Got a Friend : utilise l'assistance dix fois avec Bode, puis dix fois
+  avec Merrin et tout compagnon disponible. La notification arrive au total
+  requis par compagnon ; fais ce succès avant la fin des missions qui séparent
+  temporairement Cal de ses alliés.
+- Catch! : la première Roller Mine du barrage est la plus simple ; attire-la,
+  rassemble trois ennemis sur la rampe et pousse-la avec Force Push.
+- So Uncivilized : achète Point Blank, porte le Blaster et déclenche la parade
+  de tir juste avant l'attaque d'un B1 ou d'un Stormtrooper léger.
+- They Never Saw It Coming : utilise les assassinats aériens, les corniches et
+  les approches par derrière. L'icône d'élimination doit apparaître avant le
+  coup.
+- This Is Canon : dans Array Channel, attends le tir du canon de Shattered Moon,
+  garde l'ennemi debout et pousse-le dans la trajectoire.
+- Get Down From There : débloque Mass Force Lift, soulève plusieurs ennemis et
+  frappe-les à l'arme ou au blaster. Slam ne remplace pas l'attaque demandée.
+- Mirror Match : utilise Confuse sur un soldat sensible, puis laisse-le tuer un
+  autre ennemi du même modèle. Les droids et les ennemis lourds résistent souvent.
+- One With the Force : achète Focus Sight, attire un groupe et maintiens l'esquive
+  au bon moment jusqu'à cinquante attaques évitées.
+- Slam Dunk : Wrenching Pull rassemble cinq ennemis, puis Plunging Slam les
+  projette en même temps. La Faille de Shattered Moon est idéale.
+- Pinpoint : achète Precision Release dans l'arbre Dual Wield. Garde un ennemi
+  lent et relâche Force juste avant l'impact de son attaque.
+- Riposte : débloque Unrelenting Pull, tire un BX ou un Scout Commander résistant
+  et pare au moment où il est attiré vers Cal.
+- The Jedi Path : complète trois arbres, par exemple Resilience, Telekinesis et
+  Blaster. Les points gagnés par les Failles et les essences suffisent.
+- Perk of the Job : ouvre les dix emplacements de perks avec les essences de
+  Derelict Dam, Smuggler's Tunnels, la grange de Harvest Ridge, Zee et les trois
+  parcours de Jedha. Équipe dix perks, même si certains sont identiques.
+
+COSMÉTIQUES ET PERSONNALISATION
+
+- Kitted Out : à un établi, remplace au moins une pièce de BD-1, une pièce du
+  blaster et une pièce du sabre laser. Les récompenses de coffres suffisent.
+- Hey, Luke At Us : équipe au moins un nouveau visage, une barbe, une veste,
+  un pantalon, un matériau de sabre, une couleur BD-1 et une pièce d'équipement
+  dans chaque emplacement de Cal. Si le succès tarde, change aussi la coiffure.
+- A Presence I've Not Felt Since... : tue Spawn of Oggdo à Fort Kah'lin et ouvre
+  le coffre de sa salle pour récupérer l'ancienne tenue ; équipe-la.
+- Cobra Cal : achète le headband chez Doma, équipe-le et utilise le mannequin de
+  Veiled Hangar sur Jedha. Le mode d'entraînement de méditation ne compte pas.
+- Road House : récupère le mullet sur le rocher du goudron de Derelict Dam,
+  équipe Crossguard, cours vers un ennemi faible et lance le dropkick.
+- Greezy Money : échange 25 ressources collectées, pas 25 crédits gagnés. Les
+  éclats, Datadiscs, parchemins et pucks ont chacun leur vendeur.
+- Splurgle : atteins 100 Priorite Shards et achète tout le stock de Doma. Le
+  shard secret des écuries exige une Nekko de couleur inhabituelle puis une
+  méditation avant d'ouvrir le box.
+
+POINT DE CONTRÔLE AVANT LA FIN
+
+- [ ] Les 7 Chambres Jedi sont terminées.
+- [ ] Les 15 Failles de Force sont terminées.
+- [ ] Les 13 adversaires légendaires sont vaincus et scannés.
+- [ ] Les 13 groupes de primes sont terminés dans l'ordre.
+- [ ] Les 12 poissons sont dans l'aquarium.
+- [ ] Les recrues de Max Capacity sont dans la cantina.
+- [ ] Les 100 Priorite Shards sont obtenus et Doma est entièrement acheté.
+- [ ] Les 10 emplacements de perks sont ouverts et équipés.
+- [ ] Le Guide tactique ne comporte plus d'entrée vide.
+- [ ] Les 25 échanges, les trois arbres et les compteurs de combat sont terminés.
+
+CHECKLIST FINALE — 53/53 SUCCÈS STEAM
+
+- [ ] Rooftop Duel — vaincre un Inquisiteur.
+- [ ] For Saw Gerrera — se libérer de l'Empire.
+- [ ] Grab Some Seat — parler au propriétaire de la cantina de Koboh.
+- [ ] The Past Made Present — libérer le Jedi de la cuve de bacta.
+- [ ] Survivors, We Adapt — voyager avec une Nightsister.
+- [ ] Among the Masters — rencontrer les maîtres Jedi.
+- [ ] For the Path — protéger Pilgrim's Sanctuary.
+- [ ] Out of Bedlam — sauver un ami des Bedlam Raiders.
+- [ ] Tanalorr Bound — récupérer l'Abyss Compass.
+- [ ] Tragedy — défendre l'Archive.
+- [ ] At the Precipice — survivre à Nova Garon.
+- [ ] Into the Abyss — découvrir la route vers Tanalorr.
+- [ ] A Place You Could Call Home — terminer l'histoire.
+- [ ] Han Slowlo — 50 ennemis vaincus sous Slow.
+- [ ] You've Got a Friend — dix assistances par compagnon.
+- [ ] Catch! — trois ennemis touchés par une mine roulante.
+- [ ] So Uncivilized — dix ennemis tués par Point Blank.
+- [ ] They Never Saw It Coming — vingt éliminations sans alerte.
+- [ ] This Is Canon — ennemi poussé dans le canon minier.
+- [ ] I'm a Living Legend — treize adversaires légendaires vaincus.
+- [ ] Get Down From There — vingt ennemis soulevés attaqués.
+- [ ] Mirror Match — ennemi Confused tuant son propre type.
+- [ ] One With the Force — cinquante attaques évitées avec Focus Sight.
+- [ ] Slam Dunk — cinq ennemis frappés par un Slam.
+- [ ] Pinpoint — dix Precision Releases parfaits.
+- [ ] Riposte — parade après Force Pull résistant.
+- [ ] King of the World — sommet de Harvest Ridge atteint.
+- [ ] There Is No Try — vaisseau du Pit Droid soulevé.
+- [ ] Star Tours — sept Chambres Jedi terminées.
+- [ ] Now, This Isn't Podracing — 500 m à dos de créature.
+- [ ] Cleaning Up — chasse du Refresher tirée.
+- [ ] They're Probably Fine — monture tombée dans le vide.
+- [ ] Skywalker — 60 secondes sans sol ni mur.
+- [ ] It's a Trap — Phon'Qi Caverns explorées.
+- [ ] Max Capacity — cantina remplie.
+- [ ] Can You Pet the Bogling? — bogling caressé.
+- [ ] Who Gives a Puck — première prime obtenue.
+- [ ] Caij Match — chaîne de primes terminée.
+- [ ] Perk of the Job — tous les emplacements de perks équipés.
+- [ ] Greezy Money — 25 objets échangés.
+- [ ] Cobra Cal — entraînement avec headband.
+- [ ] A Presence I've Not Felt Since... — ancienne tenue portée.
+- [ ] Hey, Luke At Us — nouveau cosmétique dans chaque emplacement de Cal.
+- [ ] Kitted Out — BD-1, blaster et sabre personnalisés.
+- [ ] Road House — dropkick avec mullet.
+- [ ] Gambler — toutes les parties d'holotactics gagnées.
+- [ ] Reconnaissance — cible distante examinée par BD-1.
+- [ ] Skoova Diving — aquarium rempli.
+- [ ] Growth Spurt — jardin complet.
+- [ ] Intergalactic Geographic — Guide tactique rempli.
+- [ ] The Jedi Path — trois arbres complètement améliorés.
+- [ ] Splurgle — stock de Doma acheté.
+- [ ] Blood, Sweat, and Tears — quinze Failles de Force terminées.
+
+VERIFICATION FINALE — CONTRÔLE DE CONTENU, HORS SUCCÈS STEAM
+
+- [ ] Coruscant, Koboh, Jedha, Shattered Moon et Nova Garon nettoyées.
+- [ ] Coffres uniques, cosmétiques, essences, données et ressources contrôlés.
+- [ ] Cartes BD-1 et cinq terminaux d'amélioration activés.
+- [ ] Assistance, Guide tactique, jardin, cantina, poissons, primes et
+      holotactics contrôlés.
+- [ ] La sauvegarde S7-FINAL est conservée avant Nouvelle Partie +.
+- [ ] Les 53 notifications Steam sont visibles dans le profil.
+- [ ] Aucun mode de difficulté ou contenu en ligne n'a été supposé nécessaire.
+- [ ] Relecture sans spoiler narratif terminée.
+
+SOURCES DE CONTRÔLE
+
+- Liste et fiche Steam :
+  https://store.steampowered.com/app/1774580/STAR_WARS_Jedi_Survivor/
+- Guide Steam complet et liste des 53 succès :
+  https://steamcommunity.com/sharedfiles/filedetails/?id=2976471379
+- Roadmap et compteurs de collectibles :
+  https://www.powerpyx.com/guide/star-wars-jedi-survivor/
+- Adversaires légendaires et ordre de nettoyage :
+  https://www.powerpyx.com/star-wars-jedi-survivor-all-legendary-adversary-locations/
+- Primes de Caij :
+  https://gameranx.com/features/id/465337/article/star-wars-jedi-survivor-how-to-find-all-bounty-hunters-caij-match-guide/
+
+FIN DE LA FICHE — CONTRÔLE 100 % STEAM
