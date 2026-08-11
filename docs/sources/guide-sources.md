@@ -997,3 +997,48 @@ conditions difficiles ; elles ne justifient jamais une copie mot a mot.
   succes Steam ; Fallout 1 est traite avec son delai d'eau, Fallout 2 avec ses
   branches et objets de progression, et Tactics avec ses 21 missions, options,
   recrues et vehicules. Aucun DLC ou online autonome a ajouter.
+
+## FABLE ET THE WITCHER CLASSIQUES
+
+- Fiche Steam officielle de Fable - The Lost Chapters, AppID 204030 :
+  https://store.steampowered.com/app/204030/Fable_-_The_Lost_Chapters/
+- Walkthrough de route et quetes de Fable TLC :
+  https://strategywiki.org/wiki/Fable%3A_The_Lost_Chapters/Walkthrough
+- Guide PC de Fable TLC, cles, portes demon, coffres et quetes :
+  https://gamefaqs.gamespot.com/pc/926702-fable-the-lost-chapters/faqs/41298
+- Liste des 30 cles et coffres :
+  https://gamefaqs.gamespot.com/pc/926702-fable-the-lost-chapters/faqs/39110
+- Liste et conditions des portes demon :
+  https://fable.fandom.com/wiki/List_of_Demon_Doors_%28Fable%29
+- Guide officiel de The Lost Chapters :
+  https://www.ogxbox.co.uk/media/com_eshop/attachments/Fable_The_Lost_Chapters_Strategy_Guide_Book.pdf
+- Fiche SteamDB de Fable III, AppID 105400 :
+  https://steamdb.info/app/105400/info/
+- Guides Steam et verification du contexte GFWL/co-op :
+  https://steamcommunity.com/app/105400/guides/
+- Walkthrough complet de Fable III :
+  https://www.gamespot.com/articles/fable-iii-walkthrough/1100-6283590/
+- Guide de quetes secondaires et zones :
+  https://www.gamebanshee.com/fableiii/walkthrough.php
+- Guide officiel PC de Fable III :
+  https://download.microsoft.com/download/F/9/9/F99AB8F0-5191-4EDD-B312-7A9B9E4784FA/Fable3_MNL_EN-PEGI.pdf
+- Verification des cles, coffres et compteurs de Fable III :
+  https://fable.fandom.com/wiki/Silver_Chests_%28Fable_III%29
+- Fiche SteamDB de The Witcher: Enhanced Edition, AppID 20900 :
+  https://steamdb.info/app/20900/info/
+- Fiche Steam officielle de The Witcher EE Director's Cut :
+  https://store.steampowered.com/app/20900/The_Witcher_Enhanced_Edition_Directors_Cut/
+- Verification de l'absence de succes Steam :
+  https://steamcommunity.com/app/20900/discussions/0/2632849569463081169/
+- Liste des quetes par chapitre :
+  https://witcher-games.fandom.com/wiki/The_Witcher_quests
+- Walkthrough Enhanced Edition, contrats et activites :
+  https://www.gamebanshee.com/thewitcher/walkthrough.php
+- Support CD PROJEKT RED et version Enhanced :
+  https://support.cdprojektred.com/en/witcher-1/pc/sp-technical/issue/582/enhanced-edition-patch-how-to
+- Modules officiels Price of Neutrality et Side Effects :
+  https://witcher-games.fandom.com/wiki/The_Witcher%3A_Enhanced_Edition
+- Points verifies : Fable TLC et Fable III sont des editions solo Steam sans
+  compteur de succes Steam, tandis que Fable III conserve des objectifs GFWL
+  historiques ; The Witcher EE est solo sans succes Steam et inclut deux
+  modules officiels. Aucun online ne complete le total Steam 0/0.

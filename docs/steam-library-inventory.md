@@ -106,6 +106,9 @@ soluce chronologique classique n'apporterait rien.
 - Fallout (guide special sans succes Steam)
 - Fallout 2 (guide special sans succes Steam)
 - Fallout Tactics: Brotherhood of Steel (guide special sans succes Steam)
+- Fable - The Lost Chapters (guide special sans succes Steam)
+- Fable III (guide special sans succes Steam ; objectifs GFWL hors profil Steam)
+- The Witcher: Enhanced Edition (guide special sans succes Steam)
 
 ## Futurs guides chronologiques (`planned`)
 
@@ -186,9 +189,6 @@ soluce chronologique classique n'apporterait rien.
 - Assassin's Creed II — pas de succès Steam sur l'édition visible
 - Assassin's Creed Brotherhood — pas de succès Steam sur l'édition visible
 - Assassin's Creed Revelations — statut des succès Steam contradictoire selon l'édition ; à vérifier avant toute promesse de 100 %
-- Fable: The Lost Chapters
-- Fable III
-- The Witcher: Enhanced Edition
 - S.T.A.L.K.E.R. — si les éditions Enhanced sont des doublons sans succès
 
 ## Exclusions prévues (`excluded`)

@@ -1589,6 +1589,54 @@ const guides: Guide[] = [
       "A surveiller : Peoria, Quincy, St. Louis et les extractions.",
     meta: ["0/0 Steam", "21 missions", "Sans spoiler"],
   },
+  {
+    id: "fable-the-lost-chapters",
+    steamAppId: 204030,
+    title: "Fable: The Lost Chapters",
+    eyebrow: "Lionhead Studios",
+    subtitle: "30 cles, 15 portes demon et l'extension complete.",
+    count: "0 succes Steam",
+    file: "fable-the-lost-chapters.txt",
+    accent: "blue",
+    tag: "Guide special",
+    description:
+      "Route d'Albion, objets, portes et The Lost Chapters sans spoiler.",
+    highlight:
+      "A surveiller : le maire, Necropolis et les coffres avant la porte finale.",
+    meta: ["0/0 Steam", "30 cles", "Sans spoiler"],
+  },
+  {
+    id: "fable-iii",
+    steamAppId: 105400,
+    title: "Fable III",
+    eyebrow: "Lionhead Studios",
+    subtitle: "50 gnomes, 50 cles et la royaute sous controle.",
+    count: "0 succes Steam",
+    file: "fable-iii.txt",
+    accent: "coral",
+    tag: "Guide special",
+    description:
+      "Route royale, quetes, collectables, biens et DLC sans spoiler.",
+    highlight:
+      "A surveiller : Aurora, la tresorerie et le compte a rebours royal.",
+    meta: ["0/0 Steam", "50 gnomes", "Sans spoiler"],
+  },
+  {
+    id: "the-witcher-enhanced-edition",
+    steamAppId: 20900,
+    title: "The Witcher: Enhanced Edition",
+    eyebrow: "CD PROJEKT RED",
+    subtitle: "5 chapitres, contrats et 2 modules officiels.",
+    count: "0 succes Steam",
+    file: "the-witcher-enhanced-edition.txt",
+    accent: "gold",
+    tag: "Guide special",
+    description:
+      "Route des chapitres, quetes, contrats, alchimie et modules sans spoiler.",
+    highlight:
+      "A surveiller : les transitions de chapitre et les branches de faction.",
+    meta: ["0/0 Steam", "5 chapitres", "Sans spoiler"],
+  },
 ];
 
 const steamHeaderUrl = (appId: number) =>
