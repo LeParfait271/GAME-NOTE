@@ -21,6 +21,7 @@ const hasAny = (text, patterns) => patterns.some((pattern) => pattern.test(text)
 
 const isHeadingLike = (line) => {
   const trimmed = line.trim();
+  if (!trimmed) return false;
   return (
     !/^[-*]/.test(trimmed) &&
     (trimmed.startsWith("#") ||
