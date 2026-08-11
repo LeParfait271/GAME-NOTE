@@ -42,10 +42,10 @@ const finalChecklistCount = (text) => {
   if (starts.length === 0) return 0;
 
   const start = starts.at(-1);
-  const endOffset = lines.slice(start + 1).findIndex((line, offset) => {
+  const endOffset = lines.slice(start + 1).findIndex((line) => {
     const trimmed = line.trim();
     if (/^(?:verification|sources|fin du guide)\b/i.test(trimmed)) return true;
-    return offset > 0 && isHeadingLike(trimmed);
+    return false;
   });
   const end = endOffset < 0 ? lines.length : start + 1 + endOffset;
   return lines
