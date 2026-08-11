@@ -1,274 +1,1231 @@
 CHRONO CROSS: THE RADICAL DREAMERS EDITION
-GUIDE CHRONOLOGIQUE 100 % STEAM - SANS SPOILER
+GUIDE CHRONOLOGIQUE 100 % STEAM - 37 SUCCES STEAM - FICHE PREMIUM - SANS SPOILER NARRATIF
 
-Version de travail : 10 aout 2026
+Version de travail : 11 aout 2026
+Plateforme visee : Steam - AppID 1133760
 
-Cette route couvre les 37 succes Steam, la premiere partie, les techniques
-uniques, les deux variantes de conclusion, les neuf fenetres de Nouvelle Partie
-+, les 15 cadres, les mini-jeux, les personnages recrutable et les armes
-ultimes. Les choix sont donnes comme des reperes mecaniques ; leurs effets sur
-les personnages et la narration ne sont pas expliques.
+Cette fiche est une route de completion, pas un simple rappel de succes. Elle
+indique l'ordre des zones, les choix qui ferment des recrutements, les objets
+uniques, les coffres a controler, les cadres, les techniques, les mini-jeux,
+les neuf fins de Nouvelle Partie + liees aux succes et le contenu Radical
+Dreamers inclus dans l'edition PC.
 
-PERIMETRE ET NOMBRE DE PARTIES
+Le guide ne decrit pas les revelations de l'histoire. Les noms de zones,
+personnages, boss, objets et succes restent visibles parce qu'ils sont
+necessaires pour suivre une route 100 %.
 
-- Une partie normale permet les succes de progression et la plupart des
-  techniques, mais pas tous les personnages ni toutes les variantes de fin.
-- Prevois au minimum deux NG+ pour Gold Stars for Everyone, les neuf fins NG+
-  et The Recruiter. Trois parcours sont la methode la plus sure pour tous les
-  personnages.
-- Les seuls vrais points de sauvegarde critiques sont : le dialogue de Leena,
-  le choix concernant Kid, le choix du guide du manoir, les cadres de Termina,
-  la sequence de l'orphelinat et les fenetres NG+.
-- Aucun evenement de l'histoire, aucune identite, aucun destin et aucune
-  consequence narrative ne sont decrits.
+======================================================================
+OBJECTIF DE COMPLETION
+======================================================================
 
-MISSABLES ET FENETRES COURTES
+- 37 succes Steam.
+- 45 personnages a recruter au total, en plusieurs parcours.
+- 15 cadres de menu.
+- 6 techniques uniques necessaires aux succes et 2 triple-techs.
+- 2 fins de la partie normale et 9 fins de Nouvelle Partie + qui donnent un
+  succes Steam.
+- Une arme Rainbow, une armure Rainbow et le Mastermune.
+- 100 nourrissages du mini-jeu des dragons, 10 000 points de roulette et le
+  Grand Slam termine.
+- 500 combats, 99 niveaux d'etoile et une retraite de combat.
+- Le scenario principal de Radical Dreamers et ses routes bonus.
 
-- Hot Shot, RazFlower, plusieurs cadres, les fins NG+ et le recrutement complet
-  ont des fenetres courtes. Suis les sauvegardes S1 a S5, puis refais la route
-  en NG+ si une case est ratee.
+Le succes The Recruiter ne demande pas de garder les 45 personnages dans
+l'equipe active. Il demande de reunir les personnages obtenus sur les saves
+terminees avec l'objet Chrono Cross, dans la maison de Sprigg.
 
-SAUVEGARDES DE BASE
+======================================================================
+REGLES DE LECTURE ET SAUVEGARDES
+======================================================================
 
-S1 : avant le dialogue avec Leena a Opassa Beach au debut.
-S2 : avant le choix de sauver ou non Kid.
-S3 : avant l'infiltration de Viper Manor, apres avoir choisi Guile, Nikki ou
-Pierre comme guide.
-S4 : avant chaque seuil de fin NG+ indique plus bas.
-S5 : avant les frames a fenetre courte et avant le combat de Dario.
+□ S1 - juste avant le dialogue avec Leena a Opassa Beach (Home).
+□ S2 - juste avant le choix de sauver ou non Kid a Guldove (Another).
+□ S3 - juste avant de choisir Guile, Nikki ou Pierre comme guide du manoir.
+□ S4 - save terminee conservee avant le dernier boss de la partie normale.
+□ S5 - save terminee conservee avant le choix de chaque fenetre de fin NG+.
+□ S6 - save pendant le parcours de Lynx, avant de sauver Riddel, pour garder
+  Harle disponible dans le fichier clair utilise ensuite pour The Recruiter.
+□ S7 - save avant Dario et avant chaque vol de Rainbow Shell important.
 
-PARTIE NORMALE : ROUTE CHRONOLOGIQUE
+Notation :
+- [COFFRE] signifie ouvrir le coffre ou examiner le point brillant precise.
+- [OBJET UNIQUE] signifie que l'objet doit etre conserve pour un personnage,
+  une technique, un cadre, un equipement ou une fin.
+- [MISSABLE] signifie qu'un choix ou une fenetre peut fermer la recompense.
+- Les cases □ sont des controles internes. La checklist Steam finale est a la
+  fin, avec une ligne distincte pour chacun des 37 succes.
 
-1. PROLOGUE ET ARNI
+Conseil de sauvegarde : ne remplace jamais S1, S2, S3, S6 et S7 par une save
+automatique. Pour les fins NG+, utilise Continue+ depuis la save la plus
+proche du seuil quand c'est possible ; cela evite de refaire tout le jeu.
 
-- Termine le reve, puis la route de l'ile et les combats d'introduction.
-- A Arni (Home), fouille les maisons et le panier de la vendeuse d'elements :
-  Shellfish est l'un des 15 cadres et doit etre pris maintenant.
-- A Opassa Beach, utilise S1 et choisis les deux repliques qui preservent la
-  promesse de Leena : elles conditionnent MaidenFaith.
-- Reviens plus tard a Arni (Home) apres l'objet-cle Tear of Love et parle a la
-  grand-mere de Leena pour obtenir sa technique de niveau 7.
-- Explore Fossil Valley (Home) et recupere Infrared Vision derriere le grand
-  crane du premier secteur.
-- Recrute Poshul avec l'objet approprie, mais garde en tete que le premier
-  seuil de fins NG+ demande de ne pas encore le faire.
+======================================================================
+MISSABLES A VERIFIER AVANT DE QUITTER UNE ZONE
+======================================================================
 
-2. GULDOVE ET LE CHOIX DE KID
+1. Arni (Home) : Shark Tooth, Shellfish Frame et Heckran Bone.
+2. Opassa Beach (Home) : les deux reponses qui valident la technique de Leena.
+3. Cape Howl (Another) : refuser Kid trois fois pour recruter Leena.
+4. Fossil Valley (Another) : Big Egg pour Draggy.
+5. Termina (Another) : un seul guide du manoir par parcours ; cadre Tea for
+   Three ; dialogue du vendeur de churros.
+6. Shadow Forest (Another) : utiliser uniquement le blob rouge comme appat
+   pour Skullduggery.
+7. Viper Manor (Another) : ouvrir la cage de Pip avant l'ascenseur ; cadre
+   Porre's Furnace dans la salle secrete de la bibliotheque.
+8. Guldove (Another) : sauver Kid pour Korcha, Razzly et Mel, ou refuser pour
+   Macha, Glenn et Doc. Il faut deux parcours.
+9. Hydra Marshes (Home) : si Kid est sauvee, liberer Razzly et ne pas
+   l'emmener contre l'Hydra.
+10. Hydra Marshes (Another) : Life Sparkle et Good Backbone.
+11. Water Dragon Isle (Home) : faire la sequence des fees avec Razzly sans
+    la prendre dans l'equipe, puis revenir plus tard pour Raz-Flower.
+12. Dead Sea (Home) : prendre Prop Sword et Medical Book avant le boss.
+13. Dragons : amener Fargo et voler les Dragon Plates, surtout Black Plate.
+14. Earth Dragon Isle (Home), Fort Dragonia (Home) et Chronopolis : voler les
+    Rainbow Shells aux boss indiques.
+15. Marbule (Another) : cadre Valencian Cloth avant de lancer la liberation
+    de Marbule (Home), avec une equipe entierement non humaine.
+16. S.S. Zelbess (Home) : cadre Monster Mouth, Handle, roulette, Grand Slam,
+    Sneff et Irenes.
+17. Orphelinat en flammes : trois Rainbow Shells, puis Hot Shot avec Kid.
+18. Cadre Quill and Papyrus : parler a Toma dans la grotte de Marbule (Home)
+    au bon moment, apres la quete du Dragon Noir.
+19. Fenetres de fins NG+ : les seuils sont regroupes plus loin ; S5 doit etre
+    creee avant de les valider.
 
-- Fais la route vers Guldove et cree S2 avant la decision concernant Kid.
-- Pour la route normale recommandee, choisis de sauver Kid.
-- Sur Hydra Marshes (Home), libere Razzly de sa cage mais ne la prends pas dans
-  le combat contre l'Hydra. Cette condition preserve RazFlower.
-- Apres l'evenement de Water Dragon Isle, verifie que la suite de Razzly peut
-  etre terminee. Lorsque le nouvel arbre est accessible beaucoup plus tard,
-  parle a la fee pour apprendre RazFlower.
-- Pour le cadre Guldovian Stitch, choisis de chercher Mel lorsqu'elle vole les
-  elements de Kid, puis parle a Mel a Termina (Another) quand le bateau de
-  Korcha est disponible.
-- Pour obtenir Tropical Paradise, utilise une autre partie ou un NG+ dans
-  lequel tu ne sauves pas Kid ; Macha le remet sur cette route.
+======================================================================
+BASES DE COMBAT ET DE COLLECTE
+======================================================================
 
-3. VIPER MANOR ET GUIDES
+- Le niveau permanent monte surtout avec les boss et leurs etoiles. Evite de
+  chercher un niveau fixe par du farm inutile ; equipe les meilleurs Elements
+  disponibles et utilise les coffres de chaque zone.
+- Garde des Elements de soin, des Anti-Elements et au moins un Element de
+  chaque couleur. Le champ de bataille influence les degats et les soins.
+- Equipe Pilfer sur Kid des que possible. Les vols de boss sont la priorite
+  sur les drops aleatoires.
+- Dans chaque nouvelle zone, ouvre tous les coffres visibles avant le boss.
+  Les objets de consommables ne sont pas tous repetes dans la fiche ; les
+  coffres uniques, missables et elements rares sont tous listes dans la route
+  et dans le registre des coffres.
+- Les armes et armures Steel, Mythril, Denadorite puis Rainbow sont plus
+  importantes que quelques niveaux. Fais forger l'equipement quand un nouveau
+  materiau devient disponible.
+- Pour un boss a vol critique, sauvegarde juste avant, vole, puis recharge si
+  le coffre de combat donne un autre objet. Ne valide pas la zone avant de
+  controler le sac.
 
-- Avant l'infiltration, S3 puis choisis un guide. Pour la premiere partie,
-  Guile est pratique ; Nikki et Pierre seront utilises dans les replays pour
-  The Recruiter.
-- Termine la route de Shadow Forest (Another) et utilise l'Aroma Pouch pour
-  attirer la petite creature vers Quadffid : Skullduggery.
-- A Termina (Another), monte l'escalier pres du polisseur de statue, parle au
-  PNJ invisible dans l'ombre et choisis que tu le comprends pour Tea for Three.
-  Fais-le avant la prochaine grande transition de monde.
-- A Viper Manor (Another), cherche l'echelle cachee derriere le bureau de la
-  bibliotheque et parle au BeachBum pour Porre's Furnace.
-- Dans les ecuries de Viper Manor, nourris les dragons 100 fois pour Feeding
-  Frenzy. Entraine-toi d'abord, puis utilise le ralentissement si necessaire.
+======================================================================
+PARTIE 1 - ROUTE CHRONOLOGIQUE COMPLETE
+======================================================================
 
-4. FORT DRAGONIA, CORPS ET TECHNIQUES
+1. FORT DRAGONIA - REVE
 
-- Poursuis la route principale jusqu'a Fort Dragonia. Les huit succes de
-  progression suivants tombent automatiquement au fil des lieux et des boss :
-  The Awakening, The Nemesis, The Dream Labyrinth, The End and the Beginning,
-  The Enemy of the World, The Anomaly, The Defiant et The Devourer Undone.
-- Quand Serge revient dans l'equipe apres le 35e boss star, equipe Flying Arrow
-  et utilise-la une fois : Flight of the Swallow.
-- A 35 etoiles, equipe Forever Zero sur Lynx et utilise-la une fois : Call of
-  the Void.
-- A 25 etoiles, equipe Lunairetic sur Harle et utilise-la : Lunacy.
-- Dans la premiere salle de l'orphelinat en feu, inspecte la machine et saisis
-  la sequence manette X, L1, Triangle, R1, Triangle pour Hot Shot : Lucca's
-  Legacy. Si elle est ratee, refais-la en NG+.
-- Quand Kid, Leena et Razzly possedent leurs techniques et que Serge possede
-  Luminaire, lance Delta Force avec les trois membres demandes : Deadly Delta.
+- Avance dans le reve jusqu'au cristal et desactive-le.
+- Cette visite est un tutoriel. Il n'y a pas de coffre a conserver.
+- Termine le reve pour obtenir le premier succes de progression, The Awakening.
 
-5. DRAGONS, MERS ET S.S. ZELBESS
+2. ARNI VILLAGE - HOME WORLD
 
-- Termine la chasse aux reliques des dragons et ouvre les six zones de dragon.
-- Apres les evenements de S.S. Zelbess, ouvre le Grand Slam. Sprigg doit
-  connaitre plusieurs formes de Doppelgang ; fais tuer les monstres concernes
-  par Sprigg ou equipe Forget-me-not-pot sur le personnage qui porte le coup
-  final.
-- Attends un NG+ pour apprendre la forme de Slash au Bend of Time si tu veux
-  aussi Z-Slash sans detour.
-- Dans la salle des chats de S.S. Zelbess (Home), quand le groupe est transforme
-  en chats, utilise la petite porte de la cuisine et parle au chat pour
-  Monster's Mouth.
-- Sur le S.S. Zelbess, joue a la roulette et atteins 10000 points pour Immoral
-  Compass. Sauvegarde avant l'essai ; le menu de vitesse est disponible hors de
-  la salle du jeu.
-- Recupere la premiere Rainbow Shell facile pendant ce passage.
+- Parle a Radius si tu veux faire son entrainement de combat.
+- Avant de partir, fais le tour de chaque maison et controle les points
+  suivants :
+  - [COFFRE] 200G dans la zone de vie.
+  - [OBJET] Komodo Scale aupres du pecheur, en choisissant la reponse qui
+    donne l'objet.
+  - [CADRE] Shellfish dans le panier de la marchande d'Elements.
+  - [OBJET UNIQUE] Shark Tooth au sous-sol de la maison du pecheur.
+  - [COFFRE] Ivory Helmet dans la zone du cafe.
+  - [OBJET UNIQUE] Heckran Bone sous le lit dans l'arriere-salle du cafe.
+  - [ELEMENTS] Tablet, Uplift x2, Photon Ray, Aqua Beam et Cure.
+- Donne Heckran Bone a Poshul pres de la maison de Radius pour la recruter.
+  Si tu veux conserver le premier seuil de fin NG+, laisse Poshul et le
+  dialogue de Leena intacts sur le parcours reserve a cette fin.
+- Va au quai et accepte la demande de Leena concernant les Komodo Pups.
 
-6. MARBULE, DARIO ET MASTER MUNE
+3. LIZARD ROCK ET CAPE HOWL - HOME WORLD
 
-- Apres la suite de Zelbess, lance la liberation de Marbule et termine le
-  contenu de la grotte du Dragon Noir.
-- Vole Black Plate au Dragon Noir si possible : cet equipement simplifie le
-  combat de Dario et restera utile pour le nettoyage.
-- Sur l'ile interdite de Home, avec Riddel et Black Plate equipe, termine la
-  quete de Dario pour The Second Coming et la reforgure de Mastermune.
-- Quand tu controles Lynx, va a Marbule (Another) avec une equipe composee
-  uniquement de personnages demi-humains. Parle au personnage bleu a l'entree
-  avant le reveil du Dragon Noir pour Valencian Cloth.
-- Sur Sky Dragon Isle (Home), apres Starky, reviens et parle au coureur de la
-  zone haute pour Our Favorite Martian.
-- Sur Gaia's Navel (Another), utilise un Ancient Fruit et bats le Prehysteric
-  isole dans un arbre pour Snakes & Orbs.
+- A Lizard Rock, attrape les trois Komodo Pups et recupere les trois scales.
+- Pousse le rocher dans l'eau sur l'ecran bas : le coffre flotte et contient
+  [OBJET] Silver Loupe.
+- Fais un passage a Cape Howl pour le soin et le point de sauvegarde si besoin.
+- A Opassa Beach, cree S1.
 
-7. FIN DE LA PREMIERE PARTIE ET EQUIPEMENT RAINBOW
+4. OPASSA BEACH - HOME WORLD : DIALOGUE DE LEENA
 
-- Apres Tear of Love et Tear of Hate, et apres Chronopolis, va aux Divine
-  Dragon Falls (Another). Place les deux objets sur les autels pour obtenir
-  Chrono Cross : The Long-Lost Element.
-- Termine le scenario avec une sauvegarde S4 juste avant le dernier combat.
-- Pour An Unchanging Future, termine le combat final en reduisant simplement
-  les PV du boss a zero.
-- Recharge S4. Pour A New Future, utilise les six elements dans l'ordre jaune,
-  rouge, vert, bleu, noir, blanc, puis Chrono Cross.
-- Fais une Rainbow Weapon et une Rainbow Armor : recrute Zappa a Termina
-  (Home), obtiens deux Rainbow Shells, termine la quete du Master Hammer et
-  fais forger l'equipement avec Zappa. La Spectral Swallow est un choix fiable
-  pour l'arme du succes.
+- Choisis : "I remember".
+- Puis choisis : "We'll never forget this day".
+- Ces deux choix activent plus tard MaidenFaith, la technique de niveau 7 de
+  Leena. Si tu rates le dialogue, la technique est perdue pour ce parcours.
 
-8. CADRES RESTANTS
+5. LIZARD ROCK ET ARNI - ANOTHER WORLD
 
-Les 15 cadres sont controles ici ; les trois premiers sont donnes au debut.
+- Traverse Lizard Rock Another en surveillant les bords des ecrans et les
+  coffres de soin.
+- A Arni Another, montre Shark Tooth au meme pecheur qu'a Arni Home, avec Kid
+  ou Leena dans l'equipe : Mojo rejoint le groupe.
+- Fouille le village : les objets de soin et les Elements peuvent etre repris
+  avant les prochaines transitions.
+- A Cape Howl Another, refuse la proposition de Kid trois fois si tu suis la
+  route de completion recommandee. Leena rejoint ensuite.
+- Kid reste recrutables plus tard a Termina si elle a ete refusee a Cape Howl.
+- Si tu choisis Kid ici, utilise un parcours NG+ pour obtenir Leena.
 
-[ ] Arnian Wood.
-[ ] Simple Line.
-[ ] Iron Plate.
-[ ] Shellfish : panier de la vendeuse d'elements a Arni (Home).
-[ ] Tea for Three : PNJ dans l'ombre a Termina (Another), avec la reponse
-    permettant de le comprendre.
-[ ] Porre's Furnace : echelle cachee derriere le bureau de la bibliotheque a
-    Viper Manor (Another), puis BeachBum.
-[ ] Skullduggery : Aroma Pouch, creature rouge, puis Quadffid a Shadow Forest
-    (Another).
-[ ] Tropical Paradise : route ou Kid n'est pas sauvee, recompense de Macha.
-[ ] Guldovian Stitch : route ou Kid est sauvee, recherche de Mel, puis Mel a
-    Termina (Another).
-[ ] Infrared Vision : derriere le crane de Fossil Valley (Home).
-[ ] Valencian Cloth : equipe demi-humaine a Marbule (Another), avec Lynx,
-    avant le Dragon Noir.
-[ ] Monster's Mouth : chat dans la cuisine du S.S. Zelbess (Home).
-[ ] Our Favorite Martian : coureur de Sky Dragon Isle (Home) apres Starky.
-[ ] Snakes & Orbs : Prehysteric a Gaia's Navel (Another).
-[ ] Quill and Papyrus : Toma, deux conversations dans la grotte du Dragon Noir
-    a Marbule (Home), apres les evenements de Chronopolis.
+6. FOSSIL VALLEY - ANOTHER WORLD
 
-NOUVELLE PARTIE + : ORDRE DES NEUF FENETRES
+- Au garde, choisis la reponse qui permet de passer comme exorciste.
+- Descends la premiere echelle, puis prends la seconde echelle a gauche dans
+  la zone suivante.
+- [OBJET UNIQUE] Big Egg est dans la zone basse atteinte par cette route.
+  Ne quitte pas Fossil Valley sans l'avoir dans les objets cles.
+- Termine le combat de Solt et Peppor, puis pars vers Termina.
 
-Apres une premiere conclusion, utilise le Time Egg au portail violet d'Opassa
-Beach pour lancer les replays. Cree S4 au debut de chaque fenetre, bats le
-boss final, valide le succes, puis recharge pour la suivante.
+7. TERMINA - ANOTHER WORLD : PREPARATION DU MANOIR
 
-1. The Developers' Room : avant de parler a Leena sur le quai d'Arni (Home) ou
-   de recruter Poshul.
-2. The Acacian Empire : apres ce premier seuil, mais avant l'infiltration de
-   Viper Manor.
-3. The Magical Dreamers : Razzly recrutee, Kid sauvee, Hydra Humour obtenue,
-   avant Fort Dragonia (Another) et avant que Lynx devienne jouable ; Nikki et
-   Razzly dans l'equipe.
-4. The Shop Staff and the Three Unlikely Heroes : pendant que Kid est encore
-   empoisonnee.
-5. The Rebirth of Marbule : apres la prise du corps de Lynx et avant de sauver
-   Riddel.
-6. The Last Stand : apres avoir sauve Riddel a Viper Manor (Another), avant
-   de dormir a Hermit's Hideaway et de declencher le depart d'Harle.
-7. The Viper Orphanage : apres Dario et Mastermune, avant FATE a Chronopolis.
-8. The Dark Fate : apres le depart d'Harle du S.S. Zelbess, avant FATE.
-9. The Dragon God's Revenge : apres FATE, avant la forme temporaire du Dragon
-   God a Terra Tower.
+- Passe par la statue et la place haute.
+- [CADRE] Tea for Three : parle au personnage cache dans l'ombre pres de la
+  statue de Viper, puis choisis la reponse qui signifie que tu le comprends.
+- Vendeur de churros : dis que le prix est trop eleve, puis propose 50-60.
+  Cette reponse ouvre une recompense Rainbow Shell plus tard.
+- Dans la maison pres de la statue, examine Skelly et conserve ses os au fur
+  et a mesure de la partie.
+- Recupere le Teleporter quand Kid rejoint l'equipe a Termina.
+- Choisis un guide :
+  - Guile : bar de Termina, chemin des Viper Bluffs.
+  - Pierre : recupere Hero's Medal aupres de l'enfant pres de la statue, puis
+    parle a Pierre dans la salle arriere de la forge.
+  - Nikki : accepte d'aider Miki sur le navire des Magical Dreamers, puis
+    libere Nikki dans Shadow Forest.
+- Pour la premiere partie, choisis Guile. Utilise Nikki et Pierre dans deux
+  parcours suivants.
+- Cree S3 avant la selection du guide.
 
-TECHNIQUE Z-SLASH
+8. SHADOW FOREST - ANOTHER WORLD
 
-En NG+, recupere RedPin de Kid, Flying Arrow de Serge et la forme de Slash de
-Sprigg au Bend of Time. Fais porter le coup final a Sprigg, ou utilise
-Forget-me-not-pot sur le personnage qui tue Slash. Equipe les trois techniques
-et lance Z-Slash pour Z One and Only.
+- Route Guile/Pierre : traverse la foret et rejoins le manoir.
+- Route Nikki : retrouve Nikki dans la foret et accepte son aide.
+- [CADRE] Skullduggery : dans la zone du monstre endormi, attire uniquement le
+  blob rouge avec l'Aroma Pouch. Un autre appat invalide le cadre pour cette
+  visite.
+- Controle les cavites laterales et les coffres de soins avant la sortie.
 
-THE RECRUITER : PLAN DE TROIS PARTIES
+9. VIPER MANOR - ANOTHER WORLD : PREMIERE INFILTRATION
 
-Partie 1 : guide Guile, sauve Kid, recrute tous les personnages accessibles et
-termine la partie avec la base des techniques et des cadres.
+- Suis le chemin d'infiltration correspondant au guide choisi.
+- Dans la cour et le hall, ouvre tous les coffres avant de prendre
+  l'ascenseur :
+  - [ELEMENT] Turn Yellow au-dessus de la porte d'entree.
+  - [OBJET] Manor Key dans le placard apres le mini-jeu des dragons.
+  - [ELEMENT] Turn Blue et [OBJET] Ointment dans les couloirs lateraux.
+- Mini-jeu des dragons : nourris le dragon 10 fois pour ouvrir le placard et
+  obtenir Manor Key. Continue ensuite le mini-jeu jusqu'a 100 nourrissages
+  cumules pour Feeding Frenzy.
+- Avant de monter avec l'ascenseur, ouvre la cage de Pip dans le laboratoire
+  de Luccia, dans le coin de la salle. Pip sera recrutables sur le S.S.
+  Zelbess plus tard.
+- Dans la bibliotheque, active le mecanisme derriere le bureau du Prophet et
+  entre dans la salle secrete :
+  - [CADRE] Porre's Furnace aupres du Beach Bum.
+- Fouille la terrasse superieure apres les evenements :
+  - [OBJET] Silver Earring pres du bureau de Luccia.
+  - [OBJET] Sight Scope sur la plateforme atteinte par l'echelle.
+- Termine la suite du manoir et le combat de Lynx. Les succes The Nemesis et
+  The Dream Labyrinth sont valides au fil de ces visites de Fort Dragonia.
 
-NG+ 1 : guide Nikki, ne sauve pas Kid, recrute Harle et Sprigg, puis termine
-une partie avant le depart definitif d'Harle. Recupere Tropical Paradise et la
-route alternative des personnages.
+10. GULDOVE - ANOTHER WORLD : CHOIX DE KID
 
-NG+ 2 : guide Pierre, avance au moins jusqu'a l'obtention de Chrono Cross,
-puis va a Temporal Vortex par le portail des Hydra Marshes (Home) et utilise
-Chrono Cross dans la maison de Sprigg. La liste des personnages de toutes les
-parties est alors rappelable.
+- Cree S2 avant de parler de la decision concernant Kid.
+- Route recommandee pour la premiere partie : choisis de sauver Kid.
+- Les exclusivites sont :
+  - Sauver Kid : Korcha, Razzly, Mel et le cadre Guldovian Stitch.
+  - Ne pas sauver Kid : Macha, Glenn, Doc et le cadre Tropical Paradise.
+- Aucun choix ne donne tout en une seule partie. La route alternative est
+  obligatoire en NG+.
 
-Le succes demande d'utiliser l'objet Chrono Cross pour recruter toute la liste,
-pas de conserver tout le monde dans l'équipe au même instant.
+11. HYDRA MARSHES - HOME WORLD : ROUTE SAUVER KID
 
-GOLD STARS FOR EVERYONE
+- Entre dans les marais avec une equipe complete.
+- Bats le Beeba, recupere Beeba Flute puis prends les passages ouverts.
+- [COFFRES] Bone, Feather, Brace, Bushwhacker, Recover All, Cure, Aero
+  Saucer, Medicine et Antidote.
+- [OBJET UNIQUE] Hydra Humour se trouve dans la partie profonde du marais.
+- Libere Razzly de sa cage avant le combat contre l'Hydra.
+- Ne mets pas Razzly dans l'equipe active contre l'Hydra. Cette condition est
+  necessaire pour son evenement de niveau 7.
+- Reviens a Guldove avec Hydra Humour et laisse Korcha rejoindre le groupe.
+- Lorsque Mel vole les Elements de Kid, choisis de la poursuivre. La sequence
+  de recherche de Mel valide plus tard Guldovian Stitch quand tu la retrouves
+  a Termina Another.
+- A Guldove, recupere aussi :
+  - [OBJET UNIQUE] Pelvic Bone chez la commercante devant la hutte de Doc.
+  - [OBJET] Astral Amulet apres avoir sauve Kid.
+- Termine la sequence de Termina et reviens au bateau.
 
-Le jeu donne au maximum 48 stars par parcours. Termine les combats obligatoires
-et optionnels de chaque partie, puis lance au moins deux NG+ jusqu'a 99 stars.
-Le succes The Veteran tombe avec 500 combats ; il arrive normalement pendant
-les replays et le nettoyage des cadres.
+12. HYDRA MARSHES - ANOTHER WORLD : RAZZLY ET NEOFIO
 
+- Si Kid n'a pas ete sauvee dans ce parcours, cette zone est optionnelle pour
+  l'histoire, mais reste necessaire pour la collecte.
+- Prends Safety Gear avant d'entrer dans les zones empoisonnees.
+- Utilise Green Tinkler pour ecarter les plantes qui bloquent les chemins.
+- [COFFRES] Tablet, Copper, Electro-Jolt, Safety-Gear, Bushwhacker, Seed,
+  Carapace, Bat Eye, Good Backbone et Life Sparkle.
+- [OBJET UNIQUE] Good Backbone est une piece de Skelly.
+- [OBJET UNIQUE] Life Sparkle se trouve dans la zone superieure apres les
+  plantes et les gobelins.
+- A Viper Manor Another, utilise Life Sparkle dans la piscine de la terrasse
+  pour faire apparaitre NeoFio.
+- Apporte les six pieces de Skelly a sa grand-mere a Termina Another pour le
+  recruter : Skull, Scapula, Pelvic Bone, Good Backbone, Ribs et Mixed Bones.
+
+13. HERMIT'S HIDEAWAY ET S.S. INVINCIBLE - ANOTHER WORLD
+
+- Termine Hermit's Hideaway et le combat de Harle.
+- Recupere Ice Gun dans les coffres et garde-le pour le cadre et Turnip.
+- Monte a bord du S.S. Invincible et fouille les ponts, les chambres et les
+  soutes avant de quitter le navire.
+- Quand Sprigg apparait dans le Dimensional Vortex, recrute-la dans sa maison.
+- [OBJET] Astral Amulet permet de sortir du Vortex par le portail d'Opassa.
+
+14. FORT DRAGONIA - ANOTHER WORLD : PREMIERE VISITE REELLE
+
+- Desactive les chambres dans l'ordre qui te convient ; ne pars pas sans
+  rouvrir les salles optionnelles de coffres.
+- Chambre rouge : [ELEMENTS] Volcano (trap), Flame Charm, Magma Burst et Fire
+  Pillar.
+- Chambre verte : [ELEMENT] Aero Blaster et les coffres de soins.
+- Chambre bleue : [OBJET] Sea Charm et [ELEMENT] ElectroBolt.
+- Chambre jaune : les empreintes definissent Head, Body et Tail selon l'ordre
+  de l'equipe. Utilise la combinaison affichee par les empreintes.
+- Chambres noire et blanche : ouvre tous les coffres Anti-White, Anti-Black,
+  Nostrum et les Elements de soin.
+- [OBJETS] Angel Charm et Daemon Charm se trouvent dans les passages lateraux
+  du sommet.
+- Termine le fort et valide : The Dream Labyrinth, The Nemesis et The Enemy of
+  the World selon le moment du scenario.
+- Le changement de corps ouvre le Dimensional Vortex. Ne jette aucun objet de
+  collecte ; le nettoyage des deux mondes reprend a l'etape suivante.
+
+15. DIMENSIONAL VORTEX ET ARNI - HOME WORLD
+
+- Dans le Vortex, pousse le fruit pour atteindre la maison de Sprigg et
+  recrute-la si ce n'est pas deja fait.
+- Reviens a Hydra Marshes Home, puis traverse Opassa Beach pour changer de
+  monde.
+- A Arni Home, parle a la mere de Serge, puis bats Radius.
+- Avec Radius dans l'equipe, retourne a la forge de Termina Home : Zappa
+  rejoint le groupe.
+- A Termina Home, parle a Van et choisis la reponse serieuse pour le recruter.
+- A Shadow Forest Home, trouve Mushroom dans le passage souterrain en suivant
+  l'indice du pere et de l'enfant ; donne-le au Funguy dans la grotte sous la
+  cascade pour le recruter.
+- A Fossil Valley Home, apres Radius, monte l'echelle pres du grand crane et
+  ouvre les coffres :
+  - [CADRE] Infrared Vision.
+  - [OBJETS] les Elements et materiaux du secteur.
+
+16. ARNI, TERMINA, VIPER MANOR ET ZONES HOME : NETTOYAGE AVANT LA MER MORTE
+
+- A Arni Home, prends le cadre Shellfish si tu ne l'as pas deja fait et
+  verifie que Shark Tooth a bien ete montre a Arni Another.
+- A Termina Home, termine les dialogues de Van et Zappa.
+- A Viper Manor Home, descends dans les ruines et prends le Revive dans le
+  donjon. Quand la quete est ouverte, examine le passage vers les egouts et
+  prends tous les coffres de materiaux.
+- A Viper Manor Another apres les premiers evenements, recrute Luccia si tu ne
+  l'as pas deja fait et verifie Silver Earring, Sight Scope et Porre's Furnace.
+- A Hydra Marshes Another, obtiens NeoFio et tous les os de Skelly.
+- A Shadow Forest Another, valide Skullduggery et la quete Mushroom.
+- A Termina Another, assemble Skelly et recrute Greco dans le cimetiere apres
+  la suite du manoir.
+
+17. MONT PYRE ET FORT DRAGONIA - HOME WORLD
+
+- A Mount Pyre Another, vole aux boss les Elements et accessoires importants,
+  en particulier les objets rouges et la Red Plate si elle apparait au vol.
+- A Fort Dragonia Home, la Dragon Tear permet d'ouvrir les chambres sans
+  refaire les puzzles : profite-en pour prendre les coffres avant le boss.
+- Chambre jaune : [COFFRE] Denadorite et [ELEMENT] Thunda Storm.
+- Chambre rouge : [COFFRES] Denadorite, Nostrum et [ELEMENT] Volcano.
+- Chambre verte : [COFFRES] Denadorite x2, Nostrum x2 et [ELEMENT] Tornado.
+- Chambre bleue : [ELEMENT] Iceberg.
+- Chambre noire : [ELEMENTS] Anti-White, Anti-Black et Nostrum.
+- Chambre blanche : fais le tour meme si aucun coffre rare n'est present.
+- Vole Rainbow Shell au boss de Fort Dragonia Home. Recharge S7 si le vol
+  donne autre chose.
+- Termine la sequence pour recuperer Serge, recruter Orlha plus tard et
+  atteindre les succes The Enemy of the World et The Anomaly.
+
+18. RAZZLY, TURNIP ET LES TECHNIQUES DE NIVEAU 7
+
+- Apres Fort Dragonia Home, retourne a Water Dragon Isle Home avec Razzly dans
+  l'equipe mais pas dans le groupe actif si possible.
+- Avance dans la zone des fees et bats les ennemis. Pour Raz-Flower, la fee
+  Rosetta doit disparaitre pendant la sequence ; si la sequence se termine
+  trop vite, recharge une save anterieure.
+- Apres Chronopolis, reviens parler a la fee pres de l'arbre avec Razzly :
+  elle donne Floral Rod et Raz-Flower.
+- Leena : apres Tear of Love, retourne a Arni Home et parle a sa grand-mere
+  pour MaidenFaith.
+- Serge : Flying Arrow a 35 etoiles.
+- Lynx : Forever Zero a 35 etoiles.
+- Harle : Lunairetic a 25 etoiles ; utilise-la avant son depart definitif.
+- Pour Hot Shot, ne tente pas de remplacer une touche par une sequence clavier
+  arbitraire. Le jeu affiche la suite : dans l'interface manette, choisis
+  L, Triangle, R, Triangle sur la machine de l'orphelinat.
+
+19. DEAD SEA - HOME WORLD : ZONE A VERROUILLER
+
+- Obtiens Einlanzer a Isle of the Damned Home avant d'entrer dans la Mer Morte.
+- Avant le boss de la Mer Morte, ouvre absolument tous les coffres. La zone
+  devient inaccessible apres sa conclusion.
+- Highway Ruins :
+  - [COFFRES] Capsule et FreeFall sur la route haute.
+  - [COFFRES] Screw x2 et Mythril dans les chemins sous la route ; prends le
+    passage a gauche de l'escalier principal pour descendre.
+- City Ruins :
+  - [COFFRES] Resistance Belt, Kung-Fu Shoes et Stamina Ring.
+  - [COFFRE] Earring of Light dans la tour.
+- Tower of Geddon :
+  - [COFFRES] Feather, Mythril, Trashy Tiara et Station Pass.
+  - [ELEMENTS] Purify, HolyLight, CurePlus, HealAll, Seal All, Diminish et
+    HellBound.
+  - [OBJET UNIQUE] Medical Book sur le balcon accessible par le chemin lateral.
+  - [OBJET UNIQUE] Prop Sword dans la salle de la station apres les ecrans
+    de passerelles.
+  - [COFFRE] Screwy Dress dans la zone finale.
+- Prop Sword sert a la technique de Pierre et Medical Book a celle de Doc ;
+  ces deux objets sont conserves par NG+ mais il est plus propre de les
+  prendre ici.
+- Termine la Mer Morte et valide les prerequis de The Anomaly.
+
+20. ISLE OF THE DAMNED - HOME WORLD
+
+- Avec Garai Keepsake, ouvre les portes-miroirs.
+- [COFFRES] Earthquake et Carapace dans la premiere zone.
+- [ELEMENTS] Inferno et Golden Tiara dans la troisieme zone.
+- Fais combattre Sprigg et laisse-la porter le dernier coup contre Wight
+  Knight pour obtenir sa transformation.
+- Termine le combat de Garai et prends Einlanzer.
+- Dans la version Another de l'ile, reviens avec Karsh pour obtenir Memento
+  Pendant et Mixed Bones. Vole Forget-Me-Not Pot si le combat le permet.
+- Avec tous les os, termine le recrutement de Skelly a Termina Another.
+
+21. TERMINE OCCUPEE ET VIPER MANOR - ANOTHER WORLD : SAUVER RIDDEL
+
+- Recrute Norris a Viper Manor Home avant d'entrer dans la version Another
+  si le jeu demande sa presence.
+- Dans Viper Manor Another, ouvre chaque couloir, le laboratoire et les salles
+  du personnel avant la zone de detention.
+- [COFFRES] Prison Key, Humour, Denadorite, Magic Seal, Viper's Venom et
+  Rainbow Shell.
+- Si Zoah est dans l'equipe, place-le en tete avant d'ouvrir le coffre de sa
+  chambre pour Toss & Spike. Si Karsh est choisi a sa place, conserve une save
+  de branche pour le recuperer dans un autre parcours.
+- Termine la liberation de Riddel : Orcha, Grobyc, Riddel et Viper rejoignent
+  le groupe selon les scenes.
+- Pres de Luccia, pousse la statue du serpent dans son emplacement apres avoir
+  recupere Decor Shield : le panneau cache donne un materiau utile a l'equipement
+  Rainbow.
+
+22. DARIO ET MASTER MUNE
+
+- Apres le retour du corps de Serge, prends S7.
+- Dans Isle of the Damned Another, avec Karsh, bats Solt et Peppor et recupere
+  Memento Pendant.
+- Sur Forbidden Island Home, prends Riddel dans l'equipe.
+- Termine le duel de Dario avec des Elements de debuff, des soins et Black
+  Plate sur le personnage qui encaisse.
+- [ARME ULTIME] Mastermune est obtenue apres cette quete.
+- Cette etape valide The Second Coming.
+- Ne depense pas toutes les Rainbow Shells avant d'avoir ouvert la forge
+  Rainbow.
+
+23. S.S. ZELBESS - HOME WORLD : TOUT LE CONTENU DU NAVIRE
+
+- A Marbule Home, parle a Toma puis dors dans la premiere hutte pour rencontrer
+  Irenes. Elle conduit au S.S. Zelbess.
+- Sur le navire, bats le Sage of Marbule et recupere Fiddler Crab.
+- Ouvre tous les points de collecte :
+  - [OBJET] Handle dans le passage superieur du navire.
+  - [CADRE] Monster Mouth dans la cuisine en etant transforme en chat.
+  - [ARME] Frypan Ag47 dans le coffre derriere la cuisine.
+  - [OBJET] Fiddler Crab apres le Sage.
+- Recrute Sneff dans sa loge apres le Sage.
+- Lance Grand Slam et gagne les trois manches pour recruter Janice et valider
+  Grand Champion. Utilise Forget-Me-Not Pot ou les transformations de Sprigg
+  si les monstres requis ne sont pas encore disponibles.
+- Roulette : recupere Handle, utilise-le pour neutraliser la triche, puis
+  gagne 10 000 points cumules pour Immoral Compass.
+- Fais le mini-jeu des dragons jusqu'a 100 nourrissages si ce n'est pas deja
+  fait. La vitesse du remaster peut aider, mais la validation reste le nombre
+  de nourrissages reussis.
+- Apres la demande de Nikki, retourne a son navire et recrute Irenes.
+- Place Fargo dans l'equipe, parle a l'autre Fargo et lance la liberation de
+  Marbule.
+
+24. MARBULE - HOME WORLD : LIBERATION ET CADRES
+
+- Avant de lancer la liberation, verifie que Valencian Cloth a ete pris a
+  Marbule Another avec une equipe entierement non humaine.
+- Apres la chanson de Nikki, entre dans Marbule Home et bats tous les ennemis
+  de l'exterieur puis ceux de la grotte. Ne repars pas avant que la zone soit
+  propre.
+- [CADRE] Quill and Papyrus : apres la quete du Dragon Noir, reviens parler a
+  Toma dans la grotte derriere Marbule Home, puis reviens une seconde fois
+  apres la suite du S.S. Zelbess.
+- Reviens au S.S. Zelbess et recrute Miki dans le restaurant.
+- Avec Irenes dans l'equipe, parle au medecin de Marbule et valide la suite
+  jusqu'au bout pour Irenes et Miki.
+- Vole les six Dragon Plates sur les boss : Blue, Red, Green, Yellow, Black
+  et White Plate. Si un vol echoue, recharge S7 plutot que continuer.
+- A Marbule Another, bats le Dragon Noir apres la liberation pour son relic.
+
+25. DRAGONS ET EQUIPES RAINBOW
+
+- Dragon jaune : Earth Dragon Isle Home. Fais les deux chemins de sables et
+  prends les deux Mythril avant de sortir.
+- A l'arene du Criosphinx, vole [OBJET] Rainbow Shell. Recharge si necessaire.
+- Dragon rouge : Mount Pyre Another ; vole Red Plate et les objets rares.
+- Dragon vert : Hydra Marshes Home ; prends Green Relic et controle les
+  Element rares dans les coffres.
+- Dragon bleu : Water Dragon Isle Home ; termine l'evenement des fees.
+- Dragon noir : Marbule Another apres la liberation.
+- Dragon blanc : Sky Dragon Isle Another ; vole White Plate et termine la
+  zone. Reviens ensuite a Sky Dragon Isle Home.
+- Sky Dragon Isle Home : apres MegaStarky, quitte la zone, reviens et parle au
+  personnage pres de l'escalier pour [CADRE] Our Favorite Martian.
+- El Nido Triangle Home : recupere Star Fragment, puis utilise-le a Sky Dragon
+  Isle Home pour combattre MegaStarky et recruter Starky.
+- Gaea's Navel Another : utilise Ancient Fruit, puis bats le Prehysteric seul
+  dans l'arbre pour [CADRE] Snakes & Orbs.
+
+26. DRAGON SHRINE ET RAINBOW FORGE
+
+- Apres les six dragons, recupere Dragon Tear aupres de Steena a Guldove Home.
+- A Dragon Shrine Another, montre Tear of Hate a Direa pour obtenir Dragon
+  Emblem, puis utilise-le a Dragon Shrine Home.
+- Sur le chemin, recrute Steena et Leah si leurs scenes ne sont pas encore
+  faites.
+- A Marbule Home, avec Zappa dans l'equipe, achete Master Hammer et equipe-le
+  sur Zappa.
+- Va a Marbule Another et parle a l'autre Zappa : la forge Rainbow devient
+  disponible.
+- [ARME] forge au moins une arme Rainbow.
+- [ARMURE] forge au moins une Prism Vest, Prism Mail ou autre armure Rainbow.
+- Ces deux fabrications valident The Ultimate Weapon et The Ultimate Armor.
+
+27. CHRONOPOLIS ET SEA OF EDEN
+
+- Dans Sea of Eden, bats Vita Unus. C'est le combat a viser pour obtenir Vigora.
+- Ordre des iles : passe par Past et Future dans l'ordre que tu veux, mais
+  visite Present en dernier.
+- [ELEMENT UNIQUE] Vigora tombe de Vita Unus dans la configuration correcte.
+- A Chronopolis, apres PolisPolice :
+  - [COFFRE] Yellow Brooch sous le pont de l'entree.
+  - [COFFRE] White Brooch dans les egouts avec le robot telecommande.
+  - [OBJET] Forget-Me-Not Pot sous l'escalier de la premiere zone.
+  - [COFFRE] Rainbow Shell dans la zone du troisieme etage.
+  - [ELEMENTS] Recharge, Strong Arm, Hell Bound, Magnify, Card Key et Cure All.
+- Vole [OBJET] Rainbow Shell a PolisPolice. Recharge S7 si le vol donne un
+  autre objet.
+- Termine Chronopolis pour The End and the Beginning, puis The Defiant apres
+  le combat de FATE.
+
+28. ORPHELINAT EN FLAMMES : HOT SHOT ET RAINBOW SHELLS
+
+- Cette zone se rejoint avec Mastermune ou Chrono Cross ; Mastermune permet
+  d'entrer avec l'equipe complete.
+- Premier etage : prends la Rainbow Shell pres de la grande horloge.
+- Apres avoir aide les deux enfants contre les monstres de lave, parle-leur
+  avant de quitter la zone : deuxieme Rainbow Shell.
+- Deuxieme etage : aide la fille et controle le coffre de glace : troisieme
+  Rainbow Shell.
+- Apres la sequence, place Kid dans l'equipe et retourne a Viper Manor.
+- Dans le laboratoire, active la machine situee en haut a droite, a cote de
+  l'horloge ; selectionne L, Triangle, R, Triangle dans l'interface affichee.
+  [TECHNIQUE] Hot Shot valide Lucca's Legacy.
+
+29. CHRONO CROSS ET FIN DE LA PARTIE NORMALE
+
+- Apres Chronopolis, recupere Tear of Hate et Tear of Love si ce n'est pas
+  deja fait.
+- Va a Divine Dragon Falls Another, la cascade non marquee entre Arni et
+  Hydra Marshes.
+- Dans la grotte au fond, place Tear of Love et Tear of Hate sur les deux
+  autels.
+- [ELEMENT UNIQUE] Chrono Cross apparait dans l'inventaire : The Long-Lost
+  Element.
+- Passe par Hermit's Hideaway Another avec Chrono Cross pour la sequence de
+  Kid, ou Mastermune si la variante de la partie le permet.
+- Avant le dernier combat, cree S4.
+- Termine au moins une fois le combat final sans utiliser la sequence Chrono
+  Cross : An Unchanging Future.
+- Recharge S4. Pour A New Future, equipe Chrono Cross a Serge et lance dans
+  cet ordre exact une couleur jaune, rouge, verte, bleue, noire, blanche, puis
+  Chrono Cross. Utilise des Elements de faible niveau pour eviter les
+  interruptions et recharge la sequence si le champ est casse par un Element
+  ennemi.
+- Le succes The Devourer Undone tombe avec la victoire contre la forme finale.
+- Sauvegarde le fichier clair apres les credits. Il servira aux Continue+.
+
+======================================================================
+REGISTRE DETAILLE DES COFFRES ET OBJETS UNIQUES
+======================================================================
+
+Ce registre est le controle de collecte par lieu. Pour les zones qui contiennent
+des consommables repetes, la regle est : ouvrir chaque coffre avant le boss,
+puis comparer les objets uniques ci-dessous. Il n'y a pas de coffre unique a
+ignorer sous pretexte qu'il ne donne qu'un Element de soin.
+
+ARNI HOME
+- Zone de vie : 200G et Tablet.
+- Panier de la marchande : Shellfish Frame.
+- Maison du pecheur, sous-sol : Shark Tooth.
+- Maison du cafe, arriere-salle : Heckran Bone sous le lit et Ivory Helmet.
+- Comptoirs et tonneaux : Uplift x2, Photon Ray, Aqua Beam et Cure.
+- Pecheur : Komodo Scale selon la reponse.
+
+LIZARD ROCK HOME
+- Trois Komodo Pups : trois Komodo Scales de quete.
+- Ecran du rocher : pousser la pierre dans l'eau ; Silver Loupe dans le coffre
+  flotte.
+
+FOSSIL VALLEY ANOTHER
+- Zone des echelles : Big Egg dans la niche inferieure atteinte par la route
+  exorciste.
+- Tous les coffres de materiaux et d'armures des passages secondaires.
+
+TERMINA ANOTHER
+- Ombre pres de la statue de Viper : Tea for Three Frame.
+- Place et maisons : Teleporter, Profiteer Purse et Hero's Medal.
+- Churros : dialogue 50-60, puis recompense Rainbow Shell apres retour.
+- Maison de Skelly : reunion des six os.
+
+SHADOW FOREST ANOTHER
+- Zone du monstre endormi : Skullduggery si seul le blob rouge est utilise.
+- Cavites et racines : Aero Saucer, Elements de soin et materiaux.
+- Passage de l'Aroma Pouch : Mushroom selon la route, a garder pour Funguy.
+
+VIPER MANOR ANOTHER - PREMIERE INFILTRATION
+- Au-dessus de l'entree : Turn Yellow.
+- Ecuries : Manor Key apres 10 nourrissages.
+- Couloirs et salles laterales : Turn Blue et Ointment.
+- Laboratoire de Luccia : cage de Pip a ouvrir avant l'ascenseur.
+- Bibliotheque : salle derriere le bureau, Beach Bum, Porre's Furnace Frame.
+- Terrasse de Luccia : Silver Earring et Sight Scope.
+
+GULDOVE ANOTHER
+- Devant la hutte de Doc : Pelvic Bone chez la commercante.
+- Route sauver Kid : Astral Amulet et Green Tinkler.
+- Route ne pas sauver Kid : Tropical Paradise Frame donne par Macha.
+- Route sauver Kid puis poursuite de Mel : Guldovian Stitch Frame a Termina
+  Another et dans la chambre de Mel.
+- Apres le combat d'Orlha dans une visite tardive : Sapphire Brooch.
+
+HYDRA MARSHES HOME
+- Entree et passages : Bone, Feather, Brace, Bushwhacker et Beeba Flute.
+- Zone des marais : Recover All, Cure, Aero Saucer, Medicine et Antidote.
+- Partie profonde : Hydra Humour et la route de Razzly.
+
+HYDRA MARSHES ANOTHER
+- Premier ecran : Tablet et Copper.
+- Passage des plantes : Electro-Jolt, Safety-Gear, Bushwhacker et Seed.
+- Ecrans lateraux : Carapace, Copper et Bat Eye.
+- Zone de Life Sparkle : Life Sparkle.
+- Grotte du squelette : Good Backbone et Tablet.
+
+FORT DRAGONIA ANOTHER
+- Chambre rouge : Volcano (trap), Flame Charm, Magma Burst, Fire Pillar.
+- Chambre verte : Aero Blaster et Bushwhacker.
+- Chambre bleue : Sea Charm et ElectroBolt.
+- Chambre jaune : coffres et combinaison Head/Body/Tail.
+- Sommet : Angel Charm et Daemon Charm.
+- Chambre noire/blanche : Anti-White, Anti-Black, Nostrum et Elements de soin.
+
+FORT DRAGONIA HOME
+- Chambre jaune : Denadorite et Thunda Storm.
+- Chambre rouge : Denadorite, Nostrum et Volcano.
+- Chambre verte : Denadorite x2, Nostrum x2 et Tornado.
+- Chambre bleue : Iceberg.
+- Chambre noire : Anti-White, Anti-Black et Nostrum.
+- Boss : Rainbow Shell a voler.
+
+DIMENSIONAL VORTEX
+- Maison de Sprigg : Sprigg et acces au recrutement via Chrono Cross apres
+  une save terminee.
+- Route des fruits et passages : Elements de soin et objets de transition.
+
+FOSSIL VALLEY HOME
+- Echelle pres du crane : Infrared Vision.
+- Niches et coffres lateraux : Elements, armures et materiaux.
+
+SHADOW FOREST HOME
+- Zone souterraine : Mushroom.
+- Grotte sous la cascade : Funguy apres avoir donne Mushroom.
+
+DEAD SEA HOME
+- Highway Ruins : Capsule, FreeFall, Screw x2 et Mythril.
+- City Ruins : Resistance Belt, Kung-Fu Shoes, Stamina Ring et Earring of
+  Light.
+- Tower of Geddon : Feather, Mythril, Trashy Tiara, Station Pass, Purify,
+  HolyLight, Medical Book, CurePlus, Prop Sword, HealAll, Seal All, Diminish,
+  Screwy Dress et HellBound.
+- Le Prop Sword et le Medical Book doivent etre pris avant le boss.
+
+ISLE OF THE DAMNED HOME
+- Premiere zone : Earthquake et Carapace.
+- Zone du Wight Knight : Golden Tiara.
+- Zone finale : Inferno et Einlanzer.
+- Sprigg dernier coup sur Wight Knight : transformation permanente.
+
+ISLE OF THE DAMNED ANOTHER
+- Entree et chemin bas : Eyeball.
+- Chemin haut : Mixed Bones.
+- Zone centrale : Revenge.
+- Solt et Peppor : Memento Pendant et vol possible de Forget-Me-Not Pot.
+
+S.S. ZELBESS HOME
+- Cuisine en chat : Monster Mouth Frame.
+- Coffre derriere la cuisine : Frypan Ag47.
+- Passage superieur : Handle.
+- Sage of Marbule : Fiddler Crab.
+- Casino : roulette 10 000 points apres Handle.
+- Grand Slam : trois victoires et Janice.
+
+MARBULE HOME ET ANOTHER
+- Grotte Home apres liberation : Quill and Papyrus avec Toma.
+- Marbule Another avant liberation Home : Valencian Cloth avec six humains
+  exclus de l'equipe.
+- Dragon Noir : relic et vol Black Plate.
+- Puits et maisons : materiaux, Elements et dialogues de Miki/Irenes.
+
+EARTH DRAGON ISLE HOME
+- Deux chemins de sable : Mythril x2.
+- Boss Criosphinx : Rainbow Shell a voler.
+
+SKY DRAGON ISLE HOME
+- Coffres et zone haute : Star Fragment, Elements de soin et cadre Our Favorite
+  Martian apres MegaStarky.
+
+SEA OF EDEN
+- Trois iles : Elements de soin et combats de Vita.
+- Present en dernier : condition pour obtenir Vigora sur Vita Unus.
+
+CHRONOPOLIS
+- Entree sous le pont : Yellow Brooch.
+- Egouts avec robot : White Brooch et Cure All.
+- Sous l'escalier : Forget-Me-Not Pot.
+- Troisieme etage : Rainbow Shell a prendre et Rainbow Shell a voler sur
+  PolisPolice.
+- Etages suivants : Recharge, Strong Arm, Hell Bound, Magnify et Card Key.
+
+ORPHELINAT EN FLAMMES
+- Grande horloge du premier etage : Rainbow Shell.
+- Deux enfants apres les monstres de lave : Rainbow Shell.
+- Deuxieme etage, fille et coffre de glace : Rainbow Shell.
+- Machine de Kid : L, Triangle, R, Triangle, Hot Shot.
+
+TERRA TOWER
+- Entree : Betta Carotene et Nostrum.
+- Branche qui casse : remonter les lianes pour Pack of Lies.
+- Escaliers et salles laterales : Defender Plus, Rainbow Shell et Spectral
+  Glove.
+- Elements : Yellow Field, Red Field, Green Field, Blue Field, Black Hole,
+  Ultra Nova, Holy Healing et les Elements de soins.
+- Sommet : Time Egg et acces a la derniere zone.
+
+DIVINE DRAGON FALLS ANOTHER
+- Grotte non marquee au nord de la carte, entre Arni et Hydra Marshes.
+- Deux autels : Tear of Love + Tear of Hate donnent Chrono Cross.
+
+======================================================================
+PERSONNAGES : REGISTRE DES 45 RECRUTEMENTS
+======================================================================
+
+Le nombre total de personnages recrutables est 45. Certains sont automatiques,
+d'autres dependent de choix. Le registre ci-dessous donne le premier endroit
+ou verifier chacun et le parcours de repli.
+
+AUTOMATIQUES OU QUASI AUTOMATIQUES
+
+- Serge : heros de depart.
+- Poshul : Heckran Bone sous le lit du cafe d'Arni Home.
+- Kid : Cape Howl Another si acceptee, sinon statue de Viper a Termina.
+- Leena : refuser Kid trois fois a Cape Howl Another.
+- Fargo : suite principale du S.S. Invincible/S.S. Zelbess.
+- Sprigg : Dimensional Vortex, maison de Sprigg.
+- Lynx : suite principale apres Fort Dragonia Another.
+- Radius : battre Radius a Arni Home apres la premiere sortie du Vortex.
+- Harle : suite de l'histoire ; temporaire sur le parcours normal, recuperable
+  dans une save claire avec Chrono Cross.
+- Riddel : liberation de Viper Manor Another.
+- Viper : suite de la liberation de Viper Manor Another.
+- Orcha : suite de la liberation de Viper Manor Another.
+- Grobyc : vaincre Grobyc dans la liberation de Viper Manor Another, puis
+  accepter son aide.
+- Marcy : suite de Viper Manor Another.
+- Leah : suite de Gaea's Navel et de la quete des dragons.
+- Steena : Dragon Shrine Home apres les six dragons.
+
+CHOIX DU GUIDE DE VIPER MANOR
+
+- Guile : recrute-le au bar de Termina Another.
+- Nikki : accepte la demande de Miki au navire puis sauve Nikki dans Shadow
+  Forest Another.
+- Pierre : recupere Hero's Medal aupres de l'enfant de Termina, puis parle a
+  Pierre dans la salle arriere de la forge.
+- Un seul des trois est disponible dans une partie. Utilise Continue+ ou NG+
+  pour obtenir les deux autres, puis le troisieme.
+
+BRANCHE SAUVER KID
+
+- Razzly : libere-la dans Hydra Marshes Home avant l'Hydra.
+- Korcha : accepte son aide apres avoir choisi de sauver Kid.
+- Mel : poursuis-la lorsqu'elle vole les Elements de Kid.
+- Doc : n'est pas disponible sur cette branche ; prends-le sur la branche
+  oppos ee.
+
+BRANCHE NE PAS SAUVER KID
+
+- Macha : accepte son aide a Guldove.
+- Glenn : parle-lui a Termina Another apres le depart de Korcha.
+- Doc : retourne a Guldove avec la branche ne pas sauver Kid et accepte son
+  offre.
+- Korcha, Razzly et Mel seront recuperes dans un autre parcours.
+
+OPTIONNELS DE VILLES ET DE QUETES
+
+- Mojo : Shark Tooth montre au pecheur d'Arni Another avec Kid ou Leena.
+- Skelly : Skull a Fossil Valley Another, Scapula a Shadow Forest Another,
+  Pelvic Bone a Guldove Another, Good Backbone a Hydra Marshes Another, Ribs
+  a Water Dragon Isle Home et Mixed Bones a Isle of the Damned Another ;
+  assemble-le a Termina Another.
+- Greco : cimetiere de Termina Another apres la premiere infiltration.
+- Luccia : reviens a Viper Manor Another, terrasse puis laboratoire.
+- NeoFio : Life Sparkle dans Hydra Marshes Another, a utiliser dans la piscine
+  de Viper Manor Another.
+- Funguy : Mushroom de Shadow Forest Home, a donner dans la grotte sous la
+  cascade.
+- Zappa : forge de Termina Home avec Radius dans l'equipe.
+- Van : Termina Home, apres Radius, en choisissant la reponse serieuse.
+- Norris : Viper Manor Home, dans la base, avant la liberation suivante.
+- Draggy : Big Egg de Fossil Valley Another dans l'incubateur de Fort Dragonia.
+- Starky : Star Fragment a El Nido Triangle Home, puis MegaStarky a Sky Dragon
+  Isle Home.
+- Janice : gagner les trois manches du Grand Slam sur le S.S. Zelbess.
+- Irenes : suite de Marbule Home, puis recrutement sur le S.S. Zelbess.
+- Sneff : loge du S.S. Zelbess apres le Sage of Marbule.
+- Miki : revenir au restaurant du S.S. Zelbess apres la liberation de Marbule.
+- Turnip : utiliser Ice Gun ou Ice Breath sur la terre brulee de Hermit's
+  Hideaway Another, puis revenir avec Poshul a Hermit's Hideaway Home.
+- Orlha : la battre a Guldove Another, conserver Sapphire Brooch, puis lui
+  montrer le brooch apres le retour du corps de Serge.
+- Pip : cage de Luccia ouverte a Viper Manor Another, puis recrutement sur le
+  S.S. Zelbess.
+- Karsh et Zoah : choisir l'un pendant la liberation de Riddel et recuperer
+  l'autre dans un parcours de branche different ou avec Chrono Cross.
+
+PLAN DE RECRUTEMENT SANS RECOMMENCER INUTILEMENT
+
+Parcours A :
+- Guide Guile.
+- Refuser Kid a Cape Howl, puis la recruter a Termina.
+- Sauver Kid a Guldove.
+- Recruter Razzly, Korcha, Mel, Karsh, tous les personnages fixes et toutes
+  les quetes optionnelles.
+- Garder S3, S2, S6 et S4.
+
+Parcours B en Continue+ :
+- Charger S3 et prendre Nikki.
+- Choisir ne pas sauver Kid a Guldove pour Macha, Glenn et Doc.
+- Terminer une fin rapide et conserver la save claire la plus complete.
+
+Parcours C en Continue+ ou NG++ :
+- Charger S3 et prendre Pierre.
+- Atteindre le Chrono Cross et la save claire.
+- Utiliser Chrono Cross dans la maison de Sprigg du Dimensional Vortex pour
+  rappeler les personnages des saves terminees.
+- Pour Harle, le fichier clair doit provenir d'un parcours ou une save S6 a
+  ete faite avant le sauvetage de Riddel ; continue cette branche, bats le
+  boss final avec Harle encore disponible, puis utilise ce fichier clair.
+
+======================================================================
+CADRES : LES 15 EMPLACEMENTS
+======================================================================
+
+□ Arnian Wood - cadre de depart.
+□ Simple Line - cadre de depart.
+□ Iron Plate - cadre de depart.
+□ Shellfish - panier de la marchande a Arni Home.
+□ Tea for Three - ombre pres de la statue a Termina Another, reponse
+  permettant de comprendre le personnage.
+□ Skullduggery - Shadow Forest Another, blob rouge comme appat.
+□ Porre's Furnace - salle secrete derriere le bureau de la bibliotheque de
+  Viper Manor Another, Beach Bum.
+□ Tropical Paradise - route ne pas sauver Kid, recompense de Macha.
+□ Guldovian Stitch - route sauver Kid, poursuite de Mel puis retour dans sa
+  chambre a Termina Another.
+□ Infrared Vision - Fossil Valley Home, echelle pres du crane apres Radius.
+□ Our Favorite Martian - Sky Dragon Isle Home, retour apres MegaStarky et
+  personnage pres de l'escalier.
+□ Snakes & Orbs - Gaea's Navel Another, Ancient Fruit puis Prehysteric seul.
+□ Quill and Papyrus - Toma dans la grotte derriere Marbule Home, apres la
+  sequence Dragon Noir/S.S. Zelbess.
+□ Monster Mouth - S.S. Zelbess Home, transformation en chat puis cuisine.
+□ Valencian Cloth - Marbule Another, avant la liberation, sans humain dans
+  l'equipe.
+
+======================================================================
+TECHNIQUES ET TRIPLE-TECHS
+======================================================================
+
+FLIGHT OF THE SWALLOW - FLIGHT OF THE SWALLOW
+
+- Serge apprend Flying Arrow a 35 etoiles.
+- Equipe la technique dans sa grille et utilise-la une fois en combat.
+- Le succes est Flight of the Swallow.
+
+LUCCA'S LEGACY - HOT SHOT
+
+- Accede a l'orphelinat en flammes avec Mastermune ou Chrono Cross.
+- Apres les trois Rainbow Shells, mets Kid dans l'equipe.
+- Dans la machine en haut a droite du premier etage, choisis L, Triangle, R,
+  Triangle dans la sequence affichee.
+- Utilise Hot Shot une fois : Lucca's Legacy.
+
+CALL OF THE VOID - FOREVER ZERO
+
+- Lynx apprend Forever Zero a 35 etoiles.
+- Utilise la technique avant que Lynx ne soit remplace dans l'equipe sur ce
+  parcours. Le succes est Call of the Void.
+
+LUNACY - LUNAIRETIC
+
+- Harle apprend Lunairetic a 25 etoiles.
+- Harle est temporaire : active la technique des que le seuil est atteint,
+  avant son depart. Le succes est Lunacy.
+
+DEADLY DELTA - DELTA FORCE
+
+- Serge doit avoir Luminaire.
+- Leena doit avoir MaidenFaith : dialogue S1 puis grand-mere d'Arni Home apres
+  Tear of Love.
+- Razzly doit avoir Raz-Flower : sauver Kid, liberer Razzly, ne pas l'emmener
+  contre Hydra, sequence de Water Dragon Isle Home, retour apres Chronopolis.
+- Mets Serge, Leena et Razzly dans l'equipe.
+- Monte les grilles a Serge niveau 5 et Leena/Razzly niveau 7 ; la commande
+  Delta Force remplace les trois Elements quand les conditions sont reunies.
+- Lance-la une fois : Deadly Delta.
+
+Z ONE AND ONLY - Z-SLASH
+
+- Disponible en NG+.
+- Serge : Flying Arrow.
+- Kid : Red Pin, obtenu avec le niveau de technique de Kid.
+- Sprigg : ouvre la porte du Bend of Time, bats Slash et apprends DashSlash
+  par Doppelgang.
+- Mets Serge, Kid et Sprigg dans l'equipe ; transforme Sprigg en Slash.
+- Monte les niveaux des trois membres et lance Z-Slash.
+
+======================================================================
+MINI-JEUX ET SUCCES DE NETTOYAGE
+======================================================================
+
+THE VETERAN - 500 COMBATS
+
+- Fuis seulement quand tu vises A Tactical Retreat ; le reste des combats
+  peut etre termine normalement.
+- Les replays NG+ et les quetes des dragons font depasser 500 sans farm special.
+
+A TACTICAL RETREAT
+
+- Dans n'importe quel combat non obligatoire, ouvre le menu de combat et
+  choisis Flee. Le succes se valide immediatement.
+
+FEEDING FRENZY - 100 NOURRISSAGES
+
+- A Viper Manor Another, entre dans les ecuries et nourris les dragons.
+- Les dix nourrissages ouvrent le placard et le Manor Key.
+- Continue jusqu'a 100 nourrissages reussis au total.
+- Si le compteur est interrompu, fais une save avant le mini-jeu et verifie le
+  compteur du jeu avant de quitter la zone.
+
+IMMORAL COMPASS - 10 000 POINTS
+
+- Sur le S.S. Zelbess, pendant la sequence de transformation en chat, passe
+  par le trou vers la cuisine.
+- Prends Monster Mouth Frame, puis monte l'echelle de l'auberge pour Handle.
+- Utilise Handle sur le systeme de roulette, puis joue jusqu'a 10 000 points.
+- La vitesse remaster peut etre adaptee, mais ne quitte pas le jeu avant de
+  voir la validation.
+
+GRAND CHAMPION
+
+- Recrute Janice en gagnant les trois combats du Grand Slam.
+- Utilise des formes de Sprigg obtenues avec Doppelgang, des Elements de champ
+  et une equipe equipee en Denadorite ou Rainbow.
+- Les trois victoires donnent Janice et le succes Grand Champion.
+
+GOLD STARS FOR EVERYONE - 99 ETOILES
+
+- Les boss et certains combats optionnels donnent des etoiles.
+- Termine les boss de l'histoire, les dragons, Dario, Criosphinx, MegaStarky,
+  Vita Unus, les quetes optionnelles et les replays.
+- NG+ conserve les stats et les materiaux utiles ; lance les combats de boss
+  optionnels de chaque parcours.
+- Continue jusqu'a ce que le compteur atteigne 99. Le succes peut tomber au
+  milieu d'un NG+ ; ce n'est pas necessaire d'attendre la fin d'un parcours.
+
+======================================================================
+NOUVELLE PARTIE + : ORDRE OPTIMISE DES 9 FINS A SUCCES
+======================================================================
+
+Apres une fin normale, le portail violet d'Opassa Beach permet de lancer le
+combat final a presque n'importe quel seuil. Utilise une save claire et
+Continue+ pour garder les personnages ; ne remplace jamais S4/S5.
+
+1. THE DEVELOPERS' ROOM
+
+- NG+ immediat, des le reveil.
+- Va a Opassa Beach avant de parler a Leena et sans recruter Poshul.
+- Utilise le Time Egg et bats le boss final.
+
+2. THE ACACIAN EMPIRE
+
+- Apres le premier passage dans Another World.
+- Va directement a Opassa Beach avant l'infiltration de Viper Manor.
+- Utilise le Time Egg et bats le boss final.
+
+3. THE MAGICAL DREAMERS
+
+- Recrute Nikki et Razzly.
+- Kid doit etre guerie.
+- Ne termine pas Fort Dragonia Another avant le combat final.
+- Garde Nikki et Razzly dans l'equipe active au moment de l'affrontement.
+
+4. THE SHOP STAFF AND THE THREE UNLIKELY HEROES
+
+- Fenetre avant Fort Dragonia : Kid est encore dans l'etat de la sequence de
+  Guldove, et le groupe n'a pas Nikki et Razzly reunis pour la fin 3.
+- Pour la route la plus sure, ne va pas a Fort Dragonia, n'utilise pas la
+  combinaison Nikki + Razzly, puis bats le boss depuis Opassa Beach.
+
+5. THE REBIRTH OF MARBULE
+
+- Termine l'evenement qui donne le controle de Lynx.
+- Avant de sauver Riddel, utilise le Time Egg a Opassa Beach.
+- Harle peut etre dans l'equipe : conserve S6 si tu veux l'utiliser pour le
+  recrutement complet.
+
+6. THE LAST STAND
+
+- Sauve Riddel a Viper Manor Another.
+- Ne retourne pas encore a Hermit's Hideaway et ne declenche pas le depart
+  d'Harle.
+- Va a Opassa Beach et bats le boss.
+
+7. THE VIPER ORPHANAGE
+
+- Termine la quete de Dario et obtiens Mastermune.
+- Bats le boss final apres Dario mais avant FATE.
+- Fais une save juste avant le combat : cette fin peut parfois demander une
+  seconde validation sur la version remaster.
+
+8. THE DARK FATE
+
+- Laisse Harle quitter l'equipe.
+- Avant de vaincre FATE, retourne a Opassa Beach et bats le boss.
+- N'utilise pas Chrono Cross comme coup final pour ne pas basculer vers la fin
+  normale.
+
+9. THE DRAGON GOD'S REVENGE
+
+- Termine Chronopolis et bats FATE.
+- Avant de terminer Terra Tower, utilise le Time Egg a Opassa Beach.
+- N'utilise pas Chrono Cross comme coup final.
+
+FIN NORMALE - A NEW FUTURE
+
+- Dans le combat final scenarise, lance les couleurs dans l'ordre :
+  Yellow, Red, Green, Blue, Black, White.
+- Lance Chrono Cross juste apres White.
+- Un Element lance par le boss peut casser la suite ; attends une fenetre
+  calme et recommence la chaine si necessaire.
+
+FIN NORMALE - AN UNCHANGING FUTURE
+
+- Dans le combat final scenarise, bats le boss avec des attaques et Elements
+  classiques, sans utiliser la chaine Chrono Cross.
+- Cette fin ne doit pas etre faite depuis une fenetre NG+ si le but est de
+  valider l'achievement de la partie normale.
+
+======================================================================
+THE RECRUITER : PROCEDURE EXACTE POUR LES 45 PERSONNAGES
+======================================================================
+
+1. Termine un parcours avec le maximum de personnages de sa branche et
+   sauvegarde le fichier clair apres les credits.
+2. Continue+ ce fichier vers S3 et prends le guide manquant de Viper Manor.
+3. Bats le boss final depuis la fenetre The Acacian Empire, puis ecrase le
+   fichier clair avec la nouvelle liste de personnages.
+4. Recommence pour le dernier guide.
+5. Continue+ vers S2 et prends l'autre branche de Kid. Recrute les trois
+   personnages de cette branche, puis bats une fin courte et remplace le fichier
+   clair.
+6. Continue+ vers S6, lorsque Serge est Lynx et Riddel n'est pas encore sauvee.
+   Bats une fin, conserve la save claire avec Harle.
+7. Depuis la save claire, atteins Chronopolis, obtiens Chrono Cross, puis va a
+   Hydra Marshes Home et prends le portail qui reconduit au Dimensional Vortex.
+8. Dans la maison de Sprigg, ouvre l'inventaire des objets cles et utilise
+   Chrono Cross. Le jeu rappelle les personnages recrutes dans le fichier
+   clair precedent.
+9. Controle la liste des 45 noms ; le succes The Recruiter se valide quand le
+   dernier recrutement manquant est ajoute.
+
+Important : Chrono Cross ne se conserve pas automatiquement en NG+. Il faut
+   atteindre a nouveau Chronopolis, sauf si tu utilises Continue+ depuis une
+   save qui le possede deja. Les personnages, equipements, Elements et stats
+   sont la raison pour laquelle Continue+ est preferable aux parties vierges.
+
+======================================================================
+RADICAL DREAMERS : COMPLETION DU BONUS INCLUS
+======================================================================
+
+Radical Dreamers est un scenario de type roman interactif inclus dans le
+launcher. Il n'ajoute pas de ligne a la checklist des 37 succes Chrono Cross,
+mais il fait partie de la completion de l'edition.
+
+ROUTE PRINCIPALE SANS REVELATION
+
+- Pendant le combat initial contre les fauves, attaque deux fois puis choisis
+  la reponse qui indique que l'expedition ne fait que commencer : cela garde
+  la relation de Kid au niveau necessaire.
+- Dans le manoir : gauche, escaliers vers le bas, droite, chambre de Riddel,
+  commode ; puis chambre de Lynx, miroir et question sur Kid.
+- Retourne vers le haut, entre dans Study, inspecte le bureau et cache-toi sous
+  le bureau.
+- Va a Clocktower Storage, dis la verite a la vieille femme et accepte les
+  soins si necessaire.
+- Ouvre la salle de la tresorerie pour constater qu'elle est fermee, puis
+  visite Chamber of Death et force la porte quand le piege se referme.
+- Retourne a la chambre de Lynx et demande au miroir la cle de la tresorerie.
+- Dans Study, choisis le livre violet de l'etagere la plus eloignee.
+- Retourne a la tresorerie, prends la cle, puis choisis de proteger Kid.
+- Bats le Gob Squad ; utilise Hand-Shaped Plate sur Mouth of Truth pour vider
+  l'Atrium.
+- Va dans Kitchen, mange le rago ut si tu as besoin de soins, libere la souris
+  et retiens le code du griffon : droite trois fois, gauche deux fois, droite
+  deux fois.
+- Dans Guard Room, assieds-toi pres de Magil, accepte le the et raconte
+  l'histoire de la fille qui chasse les insectes puis peint le scarabee en or.
+- Dans Dungeon, choisis de comprendre Magil, puis retourne a la chambre de
+  Riddel pour obtenir l'indice suivant.
+- Dans Clocktower, recupere l'epee et plante-la dans le sol de Chamber of Death.
+- Entre ensuite dans Main Hall quand tu es pret : la sauvegarde n'est plus
+  disponible pendant la derniere section.
+- Dans le piege final, fais droite trois fois, gauche deux fois, droite deux
+  fois. Termine le scenario et laisse les credits aller jusqu'au bout.
+
+ROUTES BONUS APRES LE PREMIER CREDIT
+
+- Choisis Continue pour debloquer les scenarios secondaires.
+- Pour Magil: Love! Folly! Elopement! : dors, suis Kid et Magil, va a Study,
+  inspecte le bureau, puis chambre de Riddel.
+- Pour Kid and the Sunflower : ne dors pas, suis la lumiere ou la piste de Kid,
+  puis laisse la route se derouler jusqu'au choix final.
+- Pour The Great Space Chase! : dors, suis Kid, regarde les peintures de Study,
+  visite la tresorerie puis Clocktower.
+- Pour Homecoming: Felicia's Light : dors, suis la lumiere, va a Main Hall,
+  presse les deux touches blanches de part et d'autre de la touche noire
+  supplementaire, puis continue par Riddel's Room, Treasure Room, Lynx's Room
+  et Main Hall.
+- Pour Paradeus: The Mystery Mega-Weapon : dors, suis Kid, tente d'ouvrir la
+  tresorerie, demande au miroir la cle, prends le livre violet et repasse par
+  le miroir de Lynx.
+- Pour Death and the Realm of Shadow : dors, suis Kid, examine les etageres de
+  Study et demande a Magil d'ouvrir le livre selectionne.
+- Les rencontres aleatoires sont gerees par des choix textuels. Sauvegarde
+  souvent dans le bonus et recharge si une rencontre te retire trop de points
+  de vie.
+
+======================================================================
 LISTE COMPLETE DES 37 SUCCES STEAM
+======================================================================
 
-Progression automatique (8) :
-[ ] The Awakening. [ ] The Nemesis. [ ] The Dream Labyrinth.
-[ ] The End and the Beginning. [ ] The Enemy of the World. [ ] The Anomaly.
-[ ] The Defiant. [ ] The Devourer Undone.
+- [ ] The Awakening - se reveiller apres le labyrinthe du reve.
+- [ ] The Dream Labyrinth - revisiter Fort Dragonia dans la version reelle.
+- [ ] The Nemesis - vaincre Lynx a Fort Dragonia.
+- [ ] The Enemy of the World - vaincre Dark Serge a Fort Dragonia.
+- [ ] The Anomaly - utiliser les reliques des Dragon Gods aux ruines de la
+  Mer Morte pour entrer dans Sea of Eden.
+- [ ] The End and the Beginning - arriver a Chronopolis.
+- [ ] The Defiant - vaincre FATE.
+- [ ] The Long-Lost Element - obtenir Chrono Cross.
+- [ ] The Devourer Undone - vaincre la forme evoluee du Time Devourer.
+- [ ] A New Future - voir la bonne fin avec la sequence de couleurs et Chrono
+  Cross.
+- [ ] An Unchanging Future - voir la fin normale sans la sequence Chrono Cross.
+- [ ] The Developers' Room - voir la fin NG+ immediate.
+- [ ] The Acacian Empire - voir la fin NG+ avant Viper Manor.
+- [ ] The Magical Dreamers - voir la fin NG+ avec Nikki et Razzly avant Fort
+  Dragonia.
+- [ ] The Shop Staff and the Three Unlikely Heroes - voir la fenetre de fin
+  avant Fort Dragonia sans la route Magical Dreamers.
+- [ ] The Rebirth of Marbule - voir la fin NG+ apres le controle de Lynx et
+  avant le sauvetage de Riddel.
+- [ ] The Last Stand - voir la fin NG+ apres le sauvetage de Riddel et avant
+  Hermit's Hideaway.
+- [ ] The Viper Orphanage - voir la fin NG+ apres Dario et avant FATE.
+- [ ] The Dark Fate - voir la fin NG+ apres le depart d'Harle et avant FATE.
+- [ ] The Dragon God's Revenge - voir la fin NG+ apres FATE et avant Terra
+  Tower.
+- [ ] A Tactical Retreat - fuir un combat.
+- [ ] Flight of the Swallow - utiliser Flying Arrow de Serge.
+- [ ] Lucca's Legacy - utiliser Hot Shot de Kid.
+- [ ] Call of the Void - utiliser Forever Zero de Lynx.
+- [ ] Lunacy - utiliser Lunairetic de Harle.
+- [ ] Deadly Delta - utiliser Delta Force.
+- [ ] Z One and Only - utiliser Z-Slash.
+- [ ] The Veteran - gagner 500 combats.
+- [ ] The Recruiter - utiliser Chrono Cross pour recruter tous les personnages.
+- [ ] The Ultimate Weapon - creer une arme Rainbow.
+- [ ] The Ultimate Armor - creer une armure Rainbow.
+- [ ] The Second Coming - vaincre Dario et reforger Mastermune.
+- [ ] Hall of Framer - obtenir les 15 cadres.
+- [ ] Feeding Frenzy - nourrir les dragons 100 fois.
+- [ ] Grand Champion - terminer le Grand Slam.
+- [ ] Immoral Compass - atteindre 10 000 points a la roulette.
+- [ ] Gold Stars for Everyone - atteindre 99 niveaux d'etoile.
 
-Techniques (6) :
-[ ] Flight of the Swallow. [ ] Call of the Void. [ ] Lunacy.
-[ ] Lucca's Legacy. [ ] Deadly Delta. [ ] Z One and Only.
+======================================================================
+VERIFICATION FINALE 100 %
+======================================================================
 
-Variantes de conclusion (11) :
-[ ] An Unchanging Future. [ ] A New Future.
-[ ] The Developers' Room. [ ] The Acacian Empire. [ ] The Magical Dreamers.
-[ ] The Shop Staff and the Three Unlikely Heroes. [ ] The Rebirth of Marbule.
-[ ] The Last Stand. [ ] The Viper Orphanage. [ ] The Dark Fate.
-[ ] The Dragon God's Revenge.
+□ 37/37 succes Steam visibles dans la checklist precedente.
+□ S1, S2, S3, S4, S5, S6 et S7 sont conservees dans des emplacements
+  distincts.
+□ Tous les coffres uniques et objets cles du registre sont dans l'inventaire.
+□ Les 45 personnages ont ete recrutes ou rappeles avec Chrono Cross.
+□ Les 15 cadres sont marques.
+□ Les 6 techniques de succes et les deux triple-techs ont ete utilisees.
+□ Une arme Rainbow, une armure Rainbow et Mastermune sont dans le fichier.
+□ Les six Dragon Plates, Vigora et les Rainbow Shells critiques sont obtenus.
+□ 100 nourrissages, 10 000 points, trois victoires Grand Slam et 500 combats.
+□ Le compteur de stars affiche 99.
+□ Les deux fins normales et les neuf fins NG+ sont validees.
+□ Radical Dreamers a ete termine une premiere fois et ses routes bonus ont ete
+  parcourues depuis Continue.
 
-Mini-jeux et cadres (4) :
-[ ] Immoral Compass. [ ] Grand Champion. [ ] Feeding Frenzy. [ ] Hall of Framer.
+======================================================================
+SOURCES DE VERIFICATION
+======================================================================
 
-Nettoyage et equipement (8) :
-[ ] A Tactical Retreat. [ ] The Long-Lost Element. [ ] The Veteran.
-[ ] Gold Stars for Everyone. [ ] The Ultimate Armor. [ ] The Ultimate Weapon.
-[ ] The Recruiter. [ ] The Second Coming.
+- Steam : https://store.steampowered.com/app/1133760/CHRONO_CROSS_THE_RADICAL_DREAMERS_EDITION/
+- Liste des 37 succes : https://www.exophase.com/game/chrono-cross-the-radical-dreamers-edition-steam/achievements/
+- Missables, branches et recrutements : https://gamefaqs.gamespot.com/pc/357215-chrono-cross-the-radical-dreamers-edition/faqs/79953/first-playthrough
+- NG+, Continue+ et recrutement par Chrono Cross : https://www.gamerguides.com/chrono-cross-the-radical-dreamers-edition/guide/how-to-play/tips-and-secrets/how-to-use-the-chrono-cross-to-recruit-all-party-members
+- Coffres, cadres, techniques et route moderne : https://game8.co/games/Chrono-Cross-Radical-Dreamers-Edition
+- Radical Dreamers : https://www.rpgsite.net/feature/12630-radical-dreamers-walkthrough-guide
 
-VALIDATION FINALE
-
-[ ] Steam : 37/37.
-[ ] Une partie normale terminee avec la sequence Chrono Cross.
-[ ] Deux NG+ au minimum et neuf fenetres validees.
-[ ] 15 cadres.
-[ ] 6 techniques uniques et 2 triple-techs.
-[ ] Grand Slam, 100 nourritures, 10000 points de roulette.
-[ ] Rainbow Weapon, Rainbow Armor et Mastermune.
-[ ] 99 stars, 500 combats et tous les personnages rappelables.
-[ ] Aucun choix de replay n'a ete execute sans la sauvegarde S4 correspondante.
-
-Sources de verification :
-- Steam, page officielle des 37 succes :
-  https://steamcommunity.com/stats/1133760/achievements
-- Guide Steam des techniques, fins, cadres et personnages :
-  https://steamcommunity.com/sharedfiles/filedetails/?id=2790956813
+FIN DE LA FICHE
