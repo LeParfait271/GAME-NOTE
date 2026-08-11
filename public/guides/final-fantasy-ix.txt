@@ -1,286 +1,1003 @@
 FINAL FANTASY IX
-GUIDE CHRONOLOGIQUE 100 % STEAM - SANS SPOILER
+GUIDE CHRONOLOGIQUE 100 % STEAM - SANS SPOILER NARRATIF
 
-Version de travail : 10 aout 2026
+Version : 11 aout 2026
+Plateforme : Steam
+Succes : 85
+Duree indicative : 70 a 110 h pour le parcours normal, plusieurs dizaines
+d'heures de plus si Tetra Master et le niveau 99 sont faits sans turbo.
 
-Ce guide couvre les 85 succes Steam, les Active Time Events, les objets
-optionnels, les quetes de Chocobo, Tetra Master, les grenouilles, les monstres
-amicaux, les synthesises, les tresors du monde et Excalibur II. Il n'y a pas de
-DLC ni de succes en ligne.
+PERIMETRE DE LA FICHE
 
-OBJECTIF
+Cette fiche est une route de completion, pas une simple liste de succes. Elle
+indique quand faire les ATE, les coffres importants, les objets uniques, les
+syntheses, les quetes de Chocobo, les grenouilles, les monstres amicaux, les
+Stellazzio, Mognet, les achats de Stiltzkin, Tetra Master, les cartes du monde,
+les armes finales et les 85 succes Steam.
+
+Le texte reste sans spoiler narratif : il donne uniquement les noms de lieux,
+les noms de boss necessaires aux combats et les actions a effectuer. Aucune
+revelation sur les identites, les morts, les motivations ou la fin n'est
+utilisee pour suivre la route.
+
+OBJECTIFS DE FIN DE PARCOURS
 
 [ ] 85/85 succes Steam.
-[ ] 79 Active Time Events vus.
-[ ] 4 Moonstones, les 10 recompenses de Queen Stella et tous les achats de
-    Stiltzkin.
-[ ] 99 grenouilles, Chocobo niveau 99 et tous les tresors caches.
-[ ] Tous les monstres amicaux, Ragtime, Tetra Master et les armes ultimes.
-[ ] Excalibur II dans un parcours separe de moins de 12 heures.
+[ ] 79 ATE dans une seule partie, avec la branche de Treno choisie.
+[ ] Tous les coffres des zones a fenetre unique et les objets de quete.
+[ ] Les 24 Chocographs, les 8 tresors a Dead Pepper et les 21 plages.
+[ ] Les 4 Moonstones, les 13 Stellazzio et les 8 lots de Stiltzkin.
+[ ] 99 grenouilles, les 9 monstres amicaux et Ozma.
+[ ] Les 100 victoires Tetra Master, les 16 quiz Ragtime et les mini-jeux.
+[ ] Les armes demandees par les succes et toutes les competences de soutien.
+[ ] Une run separee Excalibur II sous la limite de 12 heures.
+
+COMMENT LIRE LA ROUTE
+
+- Chaque ligne [ ] est une verification. Ne passe pas a la zone suivante
+  tant que les cases marquees "avant de partir" ne sont pas cochees.
+- "Coffre" signifie ouvrir le coffre ou examiner le point brillant indique.
+  Les objets de confort peuvent etre differents si le contenu a deja ete
+  ramasse, mais les objets uniques sont nommes explicitement.
+- Les combats de boss sont l'occasion d'utiliser Voler. Si un vol rare
+  n'apparait pas, recharge avant la victoire.
+- Les ATE sont le point le plus fragile. Entre dans une ville avec une
+  sauvegarde libre, suis l'ordre de la liste et ne lance pas l'objectif
+  principal avant d'avoir coche les ATE disponibles.
+- Les noms d'objets restent en anglais quand c'est le nom affiche par Steam ou
+  par l'inventaire PC. Cela evite les confusions entre traductions.
 
 GARDE-FOUS ABSOLUS
 
-- Fais deux sauvegardes : un parcours normal de completion et un parcours
-  rapide dedie a Excalibur II. Chercher Excalibur II en meme temps que les
-  10 000 ennemis, 79 ATE et toutes les quetes est inutilement fragile.
-- Les ATE se declenchent a des fenetres precises. Entre dans chaque ville avec
-  un emplacement de sauvegarde libre et regarde la liste des ATE avant de
-  poursuivre l'objectif principal.
-- Le saut a la corde 1 000 fois et certains objets de debut se font plus
-  facilement dans la premiere visite d'Alexandrie. Fais au moins 100 sauts
-  avant de quitter la zone, et garde la sauvegarde pour le grind de 1 000.
-- Pour Excalibur II, active la vitesse Steam et les combats aleatoires reduits
-  uniquement sur le parcours rapide. Les boosters n'effacent pas le succes,
-  mais ils ne remplacent pas les objets et dialogues obligatoires.
-- Garde une somme pour Treno Auction House, les synthesistes et Stiltzkin.
-  N'achete pas des objets de confort si cela bloque un achat de progression.
-- Aucun passage ne revele une fin, une mort, une identite ou un retournement.
+1. Fais deux parcours. Le parcours normal vise les 79 ATE, les objets et les
+   quetes. Le parcours rapide vise Excalibur II. Ne melange pas les objectifs.
+2. Ne vends jamais une arme ou une armure avant d'avoir appris toutes ses
+   competences. Garde au moins un exemplaire de chaque objet rare.
+3. Ne consomme ni Moonstone, ni Emerald, ni Diamond, ni
+   Pumice Piece avant d'avoir termine les monstres amicaux. La liste amicale
+   indique exactement quelle pierre est donnee a chaque creature.
+4. A Cleyra, guide les trois groupes dans l'ordre precise. Une seule mauvaise
+   direction force le rechargement de la sauvegarde precedente.
+5. Achete chaque lot de Stiltzkin des son apparition. Un lot oublie bloque son
+   dernier cadeau et le succes Driving the Hard Bargain.
+6. Dans la run ATE, ne saute jamais un message automatique. Si une ATE
+   attendue n'apparait pas, recharge avant de poursuivre.
+7. Pour Excalibur II, le compteur doit rester sous 12 heures au moment ou
+   l'objet devient accessible. Le parcours rapide n'est pas un parcours de
+   completion : oublie les ATE, le Chocobo et les detours.
+8. La version Steam propose des boosters. Ils ne remplacent pas les
+   conditions de succes : le compteur ATE, les objets, les victoires et les
+   zones doivent toujours etre valides dans la sauvegarde.
 
-MISSABLES ET COMPTEURS
+MISSABLES ET FENETRES UNIQUES
 
-- A Round of Applause : pendant la sequence de theatre, reponds aux nobles et
-  recommence si la demande d'encore n'apparait pas.
-- Out of Harm's Way : a Cleyra, guide tous les habitants vers la sortie avant
-  d'aller au combat suivant.
-- Festival of the Hunt : choisis Vivi comme gagnant pour A-Hunting We Will Go.
-- Peek-A-Boo : libere Kuppo du mur de Fossil Roo avant de quitter la zone.
-- The Ultimate Sword : Excalibur II demande l'acces a l'arme dans la derniere
-  zone avant 12 heures sur le compteur interne. Fais-en une run separee.
-- Movie Critic : 79 ATE. Recharge la sauvegarde si un ATE attendu n'apparait
-  pas ; ne traverse pas la ville en courant directement vers l'objectif.
-- Over the Moon : obtiens les 4 Moonstones. Une des fenetres de nobles et les
-  recompenses de quetes doivent etre conservees.
-- Mister Nice Guy : approche tous les monstres amicaux sans les attaquer et
-  donne les pierres demandees quand ils se presentent.
-- Driving the Hard Bargain : achete chaque lot de Stiltzkin, dans chaque ville,
-  avant de fermer la zone.
+- Opening swordfight : atteindre 100 nobles impressionnes, puis parler a la
+  reine avec Steiner pour obtenir la Moonstone et A Round of Applause.
+- Jump rope : fais 100 sauts dans la premiere visite d'Alexandria ; garde une
+  sauvegarde avant la serie de 1 000.
+- Festival of the Hunt : termine le classement avec Vivi en tete pour
+  A-Hunting We Will Go.
+- Cleyra : sauver les trois groupes pour Out of Harm's Way.
+- Fossil Roo : liberer Kuppo du mur et miner Madain's Ring avant de quitter.
+- Stiltzkin : les lots de Burmecia, Cleyra, Fossil Roo, Conde Petie,
+  Alexandria disc 3, Oeilvert et Bran Bal sont des fenetres courtes.
+- Coffee : apporter les trois cafes a Morrid avant le depart vers Terra pour
+  My Little Airship.
+- ATE : la liste ci-dessous contient 79 cases. A Treno disc 3, choisis
+  Hippo's Prize OU Home Sweet Home, jamais les deux dans la meme partie.
+- Hippaul : Athlete Queen se fait pendant le retour a Alexandria disc 3,
+  avant le depart pour l'etape suivante.
+- Nero Brothers : la serie de 9 manches se fait dans l'armurerie
+  d'Alexandria disc 3.
+- Treasure Hunter : ne passe pas les grandes zones sans ouvrir les coffres
+  et sans ramasser les points brillants ; le rang S demande au moins 340
+  points de tresor.
+- Excalibur II : prends l'arme dans Memoria avant le point de non-retour et
+  avant 12 heures sur la run dediee.
 
-PARTIE NORMALE - DISQUE 1
+PLAN DES RUNS
 
-1. Theatre et Alexandrie
+RUN A - COMPLETION NORMALE
 
-- Fais 100 sauts a la corde pendant que la place et la tour sont encore
-  ouvertes. Le succes de 1 000 peut etre reserve a une sauvegarde a part.
-- Termine la scene de theatre et obtiens A Round of Applause.
-- Regarde les ATE de la ville avant chaque depart. Pour Movie Critic, note le
-  titre de chaque ATE dans une liste et coche-le des qu'il apparait.
-- Dans le chateau, inspecte les objets fixes et les chambres avant d'avancer.
-  Commence a voler au moins une fois par combat de boss pour Sticky Fingers.
+1. Suivre les parties Disque 1 a Disque 4 ci-dessous.
+2. Cocher les ATE au fil des villes, les coffres des donjons et les lots
+   Stiltzkin.
+3. Faire le nettoyage Chocobo, Mognet, amical, grenouilles, Tetra et
+   mini-jeux avant d'entrer dans le dernier donjon.
+4. Faire les combats de fin, Ozma et les compteurs 1 000 / 10 000.
 
-2. Premier continent et chasse
+RUN B - EXCALIBUR II
 
-- Fais la premiere partie du Festival of the Hunt avec Vivi gagnant.
-- Apprends les competences des armes avant de les vendre. Les AP naturels
-  suffisent si tu equipes les personnages en permanence.
-- Dans chaque boutique, compare les recettes de synthese. Synthetise 10 objets
-  des que l'atelier ouvre pour Coming Together I.
-- Joue une premiere partie de Tetra Master dans une zone sure, puis conserve
-  une sauvegarde avant d'accepter une nouvelle regle regionale.
+- Nouvelle sauvegarde. Active uniquement les aides de vitesse et de combat
+  si tu les maitrises ; elles ne dispensent jamais des combats obligatoires.
+- Ignore les ATE, Tetra Master, Chocobo, cartes du monde et detours.
+- Equipe les armes les plus fortes disponibles, vole les objets rares des
+  boss seulement si cela ne met pas le temps en danger, et sauvegarde souvent.
+- Dans Memoria, prends Kain's Lance, Tower, Angel Flute, Rune Claws et Mace
+  of Zeus si le chemin est deja ouvert, puis Excalibur II avant le seuil final.
+- Ne franchis pas la porte de la derniere salle avant d'avoir examine le
+  point interactif d'Excalibur II et verifie le succes.
 
-3. Cleyra, Treno et Fossil Roo
+DISQUE 1 - ALEXANDRIE, MIST CONTINENT ET TRENO
 
-- A Cleyra, ne suis pas immediatement la route principale : guide tous les
-  habitants rencontres vers le refuge pour Out of Harm's Way.
-- A Treno, fais les combats optionnels, les enchères et les syntheses. Achete
-  les objets necessaires a la serie des Moonstones et note les lots inutiles a
-  revendre plus tard.
-- Ne quitte pas Fossil Roo avant d'avoir libere Kuppo dans le mur et verifie
-  Peek-A-Boo.
-- Dans les zones de chasse, compte les monstres amicaux ; ne lance pas un
-  combat si l'icone ou le dialogue indique qu'il est pacifique.
+1. Theatre, swordfight et chateau d'Alexandria
 
-4. Lindblum et marais
+- Pendant le swordfight, valide chaque action rapidement et vise 100 nobles
+  impressionnes. Si le score est inferieur, recharge avant la fin de la
+  scene. Apres la recompense, [ ] A Round of Applause et [ ] Moonstone.
+- Dans la premiere place d'Alexandria, ouvre les points suivants avant de
+  suivre l'objectif : Potion, Phoenix Down et le point brillant accessible
+  dans la maison.
+- Avec Vivi, fais une sauvegarde manuelle avant la corde a sauter. Fais 100
+  sauts pour Skip to My Lou. Si tu veux tenter 1 000 maintenant, utilise une
+  sauvegarde separee ; la serie doit etre consecutive.
+- Dans les rues, parle a chaque vendeur et prends les cartes proposees. Les
+  cartes alimentent le premier succes Tetra Master sans depenser les cartes
+  fortes au hasard.
+- Dans le chateau, prends Phoenix Down, Phoenix Pinion, Wrist, Ether, 116 Gil
+  et Rubber Helm dans les chambres et la cabine. Examine aussi les points
+  brillants des quais et de la tour.
+- Quand Steiner est controle, parle a la reine apres la scene si les 100
+  nobles ont ete obtenus : [ ] Moonstone.
+- Equipe les armes qui apprennent les competences avant chaque changement de
+  personnage. Fais au moins un combat avec Steal pour demarrer Sticky Fingers.
 
-- Continue les ATE avant de monter dans le moyen de transport suivant.
-- Commence la quete des grenouilles dans les marecages. Laisse toujours une
-  grenouille male et une femelle, et garde au moins une grenouille doree pour
-  accelerer la reproduction. Le but final est 99, pas une recolte unique.
-- Attrape les monstres amicaux avec la commande demandee. Reviens plus tard
-  avec les pierres si tu n'as pas la ressource au premier passage.
+2. Prima Vista et Evil Forest
 
-PARTIE NORMALE - DISQUE 2
+- Dans le Prima Vista, ouvre Wrist, Ether, 116 Gil, Phoenix Down, Phoenix
+  Pinion, Rubber Helm et les deux points de la cabine. Tourne les leviers de
+  la salle des machines dans les deux sens pour faire tomber les coffres.
+- Apprends les premiers sorts et garde les Ether. Dans chaque combat de boss,
+  essaye de voler l'objet de tete, l'armure et l'objet rare avant de finir.
+- A Evil Forest, regarde les ATE dans cet ordre :
+  [ ] The Forest Keeper, [ ] Time to Escape, [ ] My Little Baby,
+  [ ] Girl Who Was Left Behind, [ ] Orchestra in the Forest,
+  [ ] Do As I Say, Not As I Do.
+- Les deux tutoriels Teach Me Mogster ne comptent pas dans les 79 ATE.
+- Libere le moogle et lis la lettre disponible. Au point de sauvegarde,
+  fais une premiere serie de combats jusqu'a avoir 50 Steal cumules si
+  necessaire. [ ] Peek-A-Boo se valide quand Kuppo est libere du mur de
+  Fossil Roo, pas ici.
+- Avant le depart, [ ] appeler Moguo sur la carte puis le renvoyer 17 fois
+  de suite sans sauvegarder ni utiliser la tente. [ ] One Nag Too Many.
 
-1. Retour a Alexandrie et Burmecia
+3. Ice Cavern et South Gate
 
-- Revisite les quartiers accessibles et regarde les ATE signales par la liste.
-- Continue Steal sur chaque boss : arme, armure, accessoire ou objet rare. Si
-  un vol important n'apparait pas, recharge avant la victoire.
-- Synthetise 30 objets avant la fin du disque 2 si possible. Garde les armes
-  de personnages et les objets de quete, ne vends que les doublons.
+- Dans Ice Cavern, examine tous les chemins lateraux avant les sorties :
+  Elixir derriere le mur de glace, Phoenix Down, Leather Wrist et les
+  coffres des impasses. Libere le moogle gele et recupere la lettre.
+- Equipe de la protection contre le sommeil et la glace si disponible. Les
+  combats dans la caverne servent a faire monter les AP ; ne vends aucune
+  piece qui n'a pas appris sa competence.
+- A South Gate, prends Phoenix Down dans la zone de repos et ouvre le coffre
+  du passage de train. Examine les deux portes laterales avant le depart.
+- Continue les attaques normales jusqu'a 100 ennemis et utilise les sorts
+  de Vivi quand il est en groupe : [ ] Let the Bodies Hit the Floor I,
+  [ ] That Old Black Magic quand les compteurs atteignent leurs seuils.
 
-2. Quete du Chocobo
+4. Dali et Observatory Mountain
 
-- Debloque Choco, fouille les forets et les fissures du monde dans l'ordre des
-  capacites. Note les tresors et les bulles d'eau au fur et a mesure.
-- Le compteur de beak level augmente avec les jeux de Chocobo. Fais monter le
-  niveau de maniere reguliere et garde les recompenses de la Chocograph.
-- Quand toutes les capacites du Chocobo sont disponibles, reviens sur la carte
-  et coche les tresors caches, les plages pour Beach Bum et les objets de
-  progression. N'attends pas le dernier donjon pour les decouvrir.
+- A l'arrivee a Dali, ne file pas directement a l'objectif. ATE dans l'ordre :
+  [ ] Vivi, Confused, [ ] Dagger Tries, [ ] Cat's Eye,
+  [ ] Cat's Eye 2, [ ] Dagger Tries Harder, [ ] Queen Brahne's Steiner.
+- Pour Dagger Tries Harder, evite de fermer la fenetre en entrant trop vite
+  dans la boutique d'equipement ; fais plusieurs changements de zone apres
+  Cat's Eye 2, puis reviens.
+- Ouvre la Potion et l'Eye Drops dans la maison de Vivi, l'Ether de l'auberge,
+  le coffre de la salle des machines, les 95 Gil et les Phoenix Down /
+  Phoenix Pinion de la zone de production. Examine le haut du moulin et le
+  point cache pres des tonneaux.
+- A l'Observatory Mountain, parle a Morrid et garde la quete Cafe en tete.
+  N'utilise pas les trois cafes avant de les avoir reunis.
+- Premier cafe : Moccha Coffee se trouve a South Gate, dans la zone proche du
+  Chocobo Forest. Ramasse-le maintenant si l'acces est ouvert.
 
-3. Tour de cartes et mini-jeux
+5. Lindblum et Festival of the Hunt
 
-- Continue Tetra Master vers 10 puis 100 victoires. Certains adversaires
-  restent re-jouables apres la progression : utilise-les pour le compteur.
-- Fais les questions de Ragtime Mouse quand il apparait dans les forets. Une
-  mauvaise reponse casse la serie ; garde une sauvegarde avant les rencontres.
-- Fais le jeu de melange des freres de Nero 9 fois de suite. Recharge si la
-  serie est interrompue.
-- Termine les recompenses de Queen Stella et les achats de Stiltzkin avant de
-  fermer les villes. Note chaque achat, pas seulement le nombre de gils.
+- Dans le quartier commerçant, regarde les ATE :
+  [ ] Small Town Knight in a Big City, [ ] Vivi's Shopping,
+  [ ] Steam Engine, [ ] What Can I Do?, [ ] Baku and His Crew.
+- Achete les armures et accessoires qui apprennent les competences de Zidane,
+  Vivi, Steiner et Freya. Synthetise 10 objets des que l'atelier est ouvert :
+  [ ] Coming Together I.
+- Pendant le Festival of the Hunt, choisis Vivi comme gagnant. Pour securiser
+  le resultat, laisse Zidane et Freya tomber contre le Zaghnal puis termine la
+  cible avec Vivi. [ ] A-Hunting We Will Go.
+- Prends la Theater Ship Card en recompense et garde les cartes fortes.
+- Dans les trois quartiers, ouvre les coffres et points brillants accessibles :
+  Ether, Hi-Potion, Leather Hat, Bronze Vest, Silk Shirt, Lindblum Card,
+  Gil et les objets des boutiques. Le rang S recompense l'ensemble des
+  tresors, pas seulement les gros coffres.
+- Deuxieme cafe : Burman Coffee sera pris plus tard a Dali, dans le moulin,
+  avec la cle du maire. Ne quitte pas la route sans noter ce retour.
 
-PARTIE NORMALE - DISQUE 3
+6. Qu's Marsh et grenouilles
 
-1. Quetes de personnages et equipement
+- Reviens a Qu's Marsh des que Quina peut rejoindre l'equipe. Laisse une
+  grenouille male et une femelle dans chaque mare ; ne capture jamais le
+  dernier couple reproducteur.
+- Attrape la premiere grenouille doree si elle apparait : [ ] Going for the
+  Gold. Commence le compteur, mais garde les grenouilles pour la fin.
+- Fais apprendre Blue Magic a Quina en utilisant Eat sur les monstres affaiblis.
+  Equipe Quina assez souvent pour avancer vers [ ] I'm So Blue.
+- Les marais sont aussi de bons endroits pour rencontrer Ragtime Mouse :
+  il apparait dans les forets, pas dans la mare. Sauvegarde avant les longues
+  sessions de farm.
 
-- Obtiens les armes finales et les pieces de Genji au fil des boutiques et des
-  coffres. Ne transforme pas un objet rare avant d'avoir verifie la recette.
-- Obtiens Angel Flute, Rune Claws, Whale Whisker, Mace of Zeus, Tiger Racket,
-  Tower, Ultima Weapon, Kain's Lance, Hammer, Excalibur et Gastro Fork dans la
-  route de nettoyage.
-- Fais le combat de Treno avec Dagger pour Dragon Lady, puis recharge si le
-  personnage impose n'est pas dans l'equipe.
-- Fais la quete Mognet Central et repare la machine. La lettre finale demande
-  plusieurs relais de mogs : utilise une liste par ville.
+7. Gizamaluk's Grotto, Burmecia et Cleyra
 
-2. Terra, Pandemonium et donjon final
+- Dans Gizamaluk's Grotto, ouvre les deux chemins de cloches, la Phoenix Down,
+  les coffres de la salle laterale et le point brillant derriere les racines.
+  Donne la Kupo Nut au moogle demandeur et lis les lettres disponibles.
+- Burmecia : ramasse Cancer Stellazzio, Bronze Vest, Mythril Gloves, Magus Hat,
+  Tent, Phoenix Down, Lightning Staff, Germinas Boots et les coffres des
+  chambres laterales. Examine chaque balcon avant de monter.
+- Dans la chambre a droite du soldat, achete a Stiltzkin le lot 333 Gil :
+  [ ] Soft, Hi-Potion, Ether. C'est le premier lot utile au succes final.
+- Visite aussi la chambre de Wei et Kal. Cette rencontre permet l'ATE The
+  Rally plus tard ; ne la remplace pas par une sortie directe.
+- Approche les monstres amicaux sans attaquer. Si tu rencontres Mu ou Ghost,
+  donne uniquement la pierre demandee dans le tableau plus bas.
+- A Cleyra, fais d'abord les coffres et le lot de Stiltzkin : 444 Gil pour
+  Ether, Hi-Potion et Phoenix Pinion. Prends Emerald dans la zone du pretre,
+  Phoenix Pinion, Ore, Echo Screen, Gysahl Greens et les coffres du tronc.
+- Pendant l'evacuation, reponds exactement :
+  1) premier groupe : envoie-le a droite et suis-le ;
+  2) famille : envoie-la a gauche et suis-la ;
+  3) mere et deux enfants : envoie-les a droite sur le pont, puis reponds
+     "oui" quand ils demandent si la voie est sure.
+  [ ] Out of Harm's Way.
+- ATE de Cleyra : [ ] No Yummy-Yummies!, [ ] There a Mushroom!,
+  [ ] Don't Hate Me, [ ] I-I Haven't Hurt Anyone!. Pour les deux scenes avec
+  Quina, garde Quina dans l'equipe active avant de changer d'ecran.
 
-- Regarde chaque ATE disponible avant de franchir une porte de donjon.
-- Fais 50 invocations et 100 Magies bleues au fil des combats ; Quina doit
-  etre dans l'equipe quand le monstre propose une competence bleue.
-- Forme une equipe de quatre hommes pour The B-Team, puis Quina et trois
-  personnages feminins pour Femme Fatales?. Ces deux succes se valident sans
-  lien avec la fin.
-- Avant le donjon final, verifie les invocations : Ramuh, Fenrir, Shiva, Ifrit,
-  Bahamut, Atomos, Leviathan, Carbuncle, Phoenix, Odin, Madeen et Ark.
+8. Treno, premiere visite
 
-PARTIE NORMALE - DISQUE 4 ET NETTOYAGE
+- Avant la premiere ATE, fais une sauvegarde dans l'auberge. ATE dans cet ordre :
+  [ ] Treno Tradition, [ ] Pursuit, [ ] Confusion, [ ] Ambition,
+  [ ] Meeting Place, [ ] Unexpected Visitor, [ ] Crime and Punishment.
+- Pour obtenir toutes les sept : depuis la place, pars a gauche pour Pursuit,
+  descends pour Confusion, entre dans le Card Stadium pour Ambition, reviens
+  vers Bishop's House puis remonte vers Queen's House pour Meeting Place.
+  Va ensuite au nord pour Unexpected Visitor et visite la tour de Tot pour
+  Crime and Punishment.
+- Ramasse Taurus derriere le stand, Gemini en jetant 10 Gil dans la fontaine
+  13 fois, et commence la liste Stellazzio. Donne les pieces a Queen Stella
+  des que possible, sans attendre la fin du jeu.
+- Participe aux enchères. Gagne 10 lots au total pour [ ] Auctioneer. Les
+  objets a acheter puis revendre aux PNJ pour debloquer Magical Fingertips
+  sont Doga's Artifact, Une's Mirror, Rat Tail et Griffin's Heart.
+- Le premier cafe n'a pas ete ramasse ici : garde l'itineraire South Gate.
+- Synthetise les objets accessibles et complete au moins 30 syntheses dans le
+  parcours global, en utilisant des recettes bon marche et des doublons.
 
-- Reviens sur la carte avec le dirigeable. Termine les plages, les tresors
-  caches, les grenouilles, les monstres amicaux et le rang S de chasseur.
-- Monte Choco au niveau de beak 99 et obtiens le Chocobo's Air Garden. Les
-  objets de ce parcours complet alimentent Diggin' It et Beach Bum.
-- Reunis les 4 Moonstones avant la fin du nettoyage. Utilise la liste des
-  recompenses et ne consomme pas un Moonstone unique par erreur.
-- Affronte Ozma apres avoir gagne la faveur de tous les monstres amicaux.
-- Monte un personnage au niveau 99, active Rebirth Flame avec tous les autres
-  personnages incapables, puis vaincs les gardiens et Ozma.
-- Termine les 10 000 ennemis sur une zone de farm, puis le jeu de blackjack.
+DISQUE 2 - ALEXANDRIA, FOSSIL ROO, CLEYRA ET OUTER CONTINENT
 
-RUN EXCALIBUR II - MOINS DE 12 HEURES
+9. Retour a Alexandria
 
-- Commence une sauvegarde dediee. Active la vitesse Steam et la reduction de
-  rencontres si tu en as besoin, mais garde les combats obligatoires et les
-  objets de soin.
-- Suis uniquement les objectifs principaux, vole les objets importants des
-  boss, prends les armes necessaires et evite les jeux de cartes, le Chocobo,
-  les ATE et les longues boutiques.
-- Sauvegarde avant chaque boss et utilise le raccourci de combat seulement
-  quand l'equipe est stable. Ne quitte pas la derniere zone avant d'avoir
-  Excalibur II dans l'inventaire et The Ultimate Sword valide.
-- Le parcours normal et le parcours rapide se cumulent dans les succes Steam ;
-  il n'est pas necessaire de forcer les 85 dans la partie sous 12 heures.
+- Apres la scene d'arrivee, explore les couloirs avant de pousser l'objectif.
+  Prends les Phoenix Down, Phoenix Pinion, Hi-Potion, Ether, Mythril Sword,
+  Mythril Armlet et les points brillants des chambres. Fais les vols des
+  combats imposes.
+- ATE Friendship se joue automatiquement apres l'affrontement de la cave :
+  [ ] Friendship.
+- Sur le chemin du retour, ouvre chaque coffre avant de parler au prochain
+  personnage. Les objets d'Alexandria Castle ne seront plus tous accessibles
+  plus tard.
 
-CHECKLIST DES 85 SUCCES STEAM
+10. Pinnacle Rocks et Lindblum
 
-PROGRESSION, COMBATS ET INVOCATIONS
+- Dans Pinnacle Rocks, examine chaque plateau pour Phoenix Pinion, Elixir,
+  Mythril Gloves et les points brillants. Equipe Dagger avec les Add-ons qui
+  apprennent les invocations.
+- A Lindblum disc 2, ATE :
+  [ ] The Third Jewel, [ ] Brahne's Fleet Arrives,
+  [ ] <Gwok-gwok!> How Infuriating!.
+- Pour The Third Jewel, choisis le detour manuel avant de retourner dans la
+  rue principale. Ne monte pas dans le transport avant que l'ATE apparaisse.
+- Fais une sauvegarde avant de quitter Lindblum. Les ateliers et boutiques
+  proposent de nouvelles pieces : apprends chacune avant revente.
 
-[ ] Getting Emotional — entrer en Trance une premiere fois.
-[ ] A Round of Applause — obtenir l'encore des nobles.
-[ ] Sticky Fingers — utiliser Steal 50 fois.
-[ ] Let the Bodies Hit the Floor I — vaincre 100 ennemis.
-[ ] Let the Bodies Hit the Floor II — vaincre 1 000 ennemis.
-[ ] Let the Bodies Hit the Floor III — vaincre 10 000 ennemis.
-[ ] That Old Black Magic — utiliser 100 Magies noires.
-[ ] A Healing Touch — utiliser 200 Magies blanches.
-[ ] The Best Offense — utiliser Defend 50 fois.
-[ ] Overly Emotional — entrer en Trance 50 fois.
-[ ] You Called? — invoquer 50 fois.
-[ ] All's Well That Ends Well — terminer le jeu.
-[ ] The B-Team — equipe de quatre hommes.
-[ ] Femme Fatales? — Quina et trois femmes.
-[ ] Backstabber — subir 30 attaques par derriere.
+11. Qu's Marsh, Fossil Roo et Gargan Roo
 
-TETRA MASTER, SYNTHESE ET VILLES
+- Avec Quina, prends le chemin de la mare et capture seulement les grenouilles
+  qui ne suppriment pas le couple reproducteur. Fais les premiers essais de
+  Frog Drop sur une zone sure.
+- Dans Fossil Roo, ouvre les coffres des galeries, le chemin des switches et
+  la cage d'Armodullahan. Les objets a confirmer sont Ether, Hi-Potion,
+  Phoenix Down, Survival Vest et les items des embranchements de gargant.
+- Libere Kuppo du mur en minant le passage vers lui avant de sortir :
+  [ ] Peek-A-Boo.
+- Mine jusqu'a obtenir Madain's Ring dans la zone du mineur :
+  [ ] The One Ring. Ne quitte pas la zone en pensant pouvoir y revenir.
+- Achete le lot Stiltzkin 555 Gil : [ ] Phoenix Pinion, Remedy, Ether.
+- Fouille les branches de switch 1, 2, 3 et 4 avant de prendre le gargant
+  final. Un coffre rate dans un embranchement devient inaccessible.
 
-[ ] It's All in the Cards I — gagner 1 match.
-[ ] It's All in the Cards II — gagner 10 matchs.
-[ ] It's All in the Cards III — gagner 100 matchs.
-[ ] Coming Together I — synthetiser 10 objets.
-[ ] Coming Together II — synthetiser 30 objets.
-[ ] Auctioneer — gagner 10 objets aux encheres de Treno.
-[ ] Path of the Samurai — set d'armure Genji complet.
-[ ] Earning the Queen's Favor — 10 recompenses de Queen Stella.
-[ ] Driving the Hard Bargain — tous les objets de Stiltzkin.
-[ ] Well Lubricated — obtenir Superslick.
-[ ] Back Online — reparer la machine de Mognet Central.
-[ ] Your Lucky Day — obtenir un Tres Bon Presage.
-[ ] Found in the Shuffle — gagner le melange 9 fois de suite.
-[ ] Taking the Black — jouer au blackjack.
+12. Conde Petie et Mountain Path
 
-INVOCATIONS, ARMES ET QUETES
+- A Conde Petie, ne lance pas la ceremonie tout de suite. ATE dans cet ordre :
+  [ ] Vivi and the Couple, [ ] Quina Accused, [ ] Quina Can't Communicate,
+  [ ] Dagger and William, [ ] Hungry Bryan.
+- Pour Hungry Bryan, donne-lui l'Oglop de montagne apres l'avoir rencontre
+  dans le chemin. Il donne la carte Oglop.
+- Achete le lot Stiltzkin 666 Gil : [ ] Magic Tag, Tent, Ether.
+- Dans Conde Petie Mountain Path, ouvre Remedy, Tent, Ether et les quatre
+  pierres colorees. Insere Green Stone, Red Stone, Yellow Stone et Blue Stone
+  dans la statue pour [ ] Moonstone. Garde-la absolument.
+- A Black Mage Village, ATE dans l'ordre :
+  [ ] Everyday Life, [ ] Life On The Run, [ ] Gourmand's Nose,
+  [ ] Different Language, [ ] Visitor, Not Invader, [ ] Life Cycle.
+- Pour Life On The Run, pars a droite d'un seul ecran ; ne traverse pas toute
+  la zone. Pour Gourmand's Nose, passe par la porte arriere de la boutique.
+  Pour Life Cycle, entre dans la synthesis shop puis laisse Dagger sortir.
+- Achete les armes et armures qui apprennent les competences. Fais une serie
+  de syntheses jusqu'a [ ] Coming Together II (30 objets).
 
-[ ] Bring on the Thunder — Ramuh.
-[ ] Wolf Insanity — Fenrir.
-[ ] You're Cold as Ice — Shiva.
-[ ] Heat of the Moment — Ifrit.
-[ ] King of Dragons — Bahamut.
-[ ] Bringing Down the House — Atomos.
-[ ] Surf's Up — Leviathan.
-[ ] Here to Help — Carbuncle.
-[ ] Rise from the Ashes — Phoenix.
-[ ] The Dim Mak — Odin.
-[ ] Wolf in Mog's Clothing — Madeen.
-[ ] Firin' Mah Lazer — Ark.
-[ ] Putting Out the Fire — Maliris.
-[ ] Gone with the Winds — Tiamat.
-[ ] All Washed Up — Kraken.
-[ ] Hitting Rock Bottom — Lich.
-[ ] The Ultimate Flute — Angel Flute.
-[ ] The Ultimate Claws — Rune Claws.
-[ ] The Ultimate Rod — Whale Whisker.
-[ ] The Ultimate Mace — Mace of Zeus.
-[ ] The Ultimate Racket — Tiger Racket.
-[ ] Close But No Cigar — Tower.
-[ ] The Ultimate Dual Blade — Ultima Weapon.
-[ ] Kain's Legacy — Kain's Lance.
-[ ] What's Your Sign? — Hammer.
-[ ] Sword of Kings — Excalibur.
-[ ] The Ultimate Fork — Gastro Fork.
-[ ] The Ultimate Sword — Excalibur II.
+13. Chocobo Forest et premiere route des Chocographs
 
-CHASSE, CHOCOBO ET EXPLORATION
+- Debloque Choco dans Chocobo Forest, au nord-est de Lindblum, de l'autre
+  cote de la riviere. Fais Chocobo Hot and Cold jusqu'au niveau de bec 30
+  environ avant de poursuivre.
+- Chocograph 1 Streamside : Chocobo Forest, King Ed Plains, au confluent de
+  la plage et du ruisseau.
+- Chocograph 2 Between Mountains : Chocobo Forest, Eunorus Plains, au nord-
+  ouest de Lindblum.
+- Chocograph 3 Uncultivated Land : Chocobo Forest, Gunitas Basin, pres
+  d'Evil Forest.
+- Chocograph 4 Healing Shore : Chocobo Forest, Metalark Shores, a l'ouest de
+  Cleyra ; il debloque l'aptitude Reef.
+- Chocograph 5 Abandoned Beach : Chocobo Forest, Gegalrich Shores, pres de
+  la grande foret de l'Outer Continent.
+- Pour chaque partie, ouvre la carte au moogle Mene, ramasse les recompenses
+  et coche le numero. La chasse reguliere suffit a atteindre [ ] Follow Your
+  Nose plus tard ; ne depense pas les points en objets inutiles si tu manques
+  de Gil.
 
-[ ] Going for the Gold — grenouille doree.
-[ ] Peek-A-Boo — Kuppo libere dans Fossil Roo.
-[ ] Out of Harm's Way — habitants de Cleyra guides.
-[ ] Diggin' It — tresors caches de la carte.
-[ ] Frog Wrangler — 99 grenouilles.
-[ ] Track Star — Athlete Queen.
-[ ] Hail to the King — 1 000 sauts et King of Jump Rope.
-[ ] Mister Nice Guy — tous les monstres amicaux.
-[ ] The One Ring — Madain's Ring par minage.
-[ ] To Ozma and Back — Ozma vaincu.
-[ ] Follow Your Nose — niveau de beak 99.
-[ ] Another Man's Treasure — rang S de chasseur.
-[ ] Beach Bum — toutes les plages de Gaia.
-[ ] A-Hunting We Will Go — Festival de la Chasse gagne avec Vivi.
-[ ] Movie Critic — 79 ATE.
-[ ] Cracking the Code — secret de l'Eidolon Wall.
-[ ] Dragon Lady — Behemoth de Treno avec Dagger.
-[ ] Still I Rise — Rebirth Flame quand tous sont hors combat.
-[ ] Over the Moon — quatre Moonstones.
-[ ] A Pillar of Support — toutes les competences de soutien.
-[ ] A Clean Bill of Health — tous les etats sur un personnage.
-[ ] End of the Road — niveau 99.
-[ ] I'm So Blue — 100 Magies bleues.
+14. Iifa Tree et Madain Sari
+
+- Dans Iifa Tree, equipe les protections contre Venom, Poison et Zombie.
+  Ouvre les Phoenix Down, Elixir, Brigandine, Lamia's Tiara et les coffres
+  des plateformes ; examine la racine derriere le moogle avant la sortie.
+- Apres l'arrivee a Madain Sari, ATE :
+  [ ] Vivi's Feelings, [ ] Dagger's Feelings, [ ] Eiko's Feelings,
+  [ ] Eiko's Kitchen, [ ] Eiko's Kitchen 2.
+- Pour Eiko's Feelings, va au nord puis reviens a la fontaine. Parle au moogle
+  pour faire apparaitre Quina, puis examine les points de peche, de pommes de
+  terre et la cuisine avant de ressortir.
+- Dans la cuisine, reponds 11 personnes, No oglop, puis Lend a hand. La
+  seconde scene demande le conseil de Quina.
+- Ramasse Libra a la fontaine. Dans Quan's Dwelling, prends Scorpio en bas
+  de la corde et garde l'endroit note pour Ophiuchus.
+- Deuxieme cafe : Kirman Coffee se trouve a Madain Sari. Ne le consomme pas.
+- Rencontres amicales : Yeti apparait dans la foret de Madain Sari ; donne
+  deux Ore si le dialogue demande cette quantite.
+
+DISQUE 3 - ALEXANDRIA, TRENO, LIND BLUM ET OEILVERT
+
+15. Retour a Alexandria, Hippaul et les ATE
+
+- Avec Vivi, explore la place et regarde [ ] It's So Big!.
+- Lance Hippaul depuis sa mere et monte au niveau 80. Une victoire nette fait
+  progresser plus vite ; une victoire serree fait progresser plus lentement.
+  [ ] Track Star - Athlete Queen.
+- ATE a faire avant de quitter la ville :
+  [ ] Long Time No See!, [ ] To Fly High, [ ] Artemicion, [ ] I Forgot!,
+  [ ] Clowns on a Dark Night.
+- Dans le Steeple, achete Stiltzkin 777 Gil : [ ] Phoenix Pinion, Hi-Potion,
+  Elixir. Son achat est obligatoire pour le Ribbon final.
+- Dans l'armurerie, joue au shuffle des Nero Brothers. Le bon personnage est
+  celui qui parle juste avant le melange. Gagne neuf fois de suite :
+  [ ] Found in the Shuffle.
+- Dans les quais, ouvre Phoenix Pinion, 3927 Gil, Ether, Phoenix Pinion,
+  Lapis Lazuli et Leo Stellazzio. Au chateau, ouvre Opal, Sapphire, Peridot
+  et les points brillants du jardin avant de partir.
+
+16. Treno disc 3 : branche ATE et quetes
+
+- A l'arrivee, ATE [ ] Eiko Talks Life.
+- Descends les premieres marches et regarde [ ] How He Ended Up Here.
+  Choisis la branche "Vivi reste" pour cette route, puis coche [ ] Hippo's
+  Prize. L'autre branche, "Vivi rentre chez lui", permet [ ] Home Sweet Home ;
+  elle est la seule case qui remplace Hippo's Prize.
+- Sors de Tot's House et regarde [ ] Memories By the Water.
+- Va au Card Stadium et regarde [ ] City People.
+- Apres la premiere partie de cartes, prends [ ] Good Old Days, puis choisis
+  "I'm interested" pour [ ] Lessons of Life.
+- Si tu as choisi la branche Vivi rentre, visite sa maison avant de valider
+  Home Sweet Home. Dans la route recommandee, continue sans fermer l'ATE.
+- Apres la deuxieme partie de cartes, valide [ ] Hallucination and Premonition.
+- Ramasse Leo a Alexandria si ce n'est pas fait et finis les enchères. A Treno,
+  la roulette de couleur doit donner [ ] Your Lucky Day : Very Good Omen.
+  Recharge si la fortune n'est pas "Very Good".
+- Pour Dragon Lady, reviens au Weapon Shop disc 4 avec Dagger en equipe ; la
+  section de nettoyage donne la procedure exacte.
+
+17. Lindblum disc 3 et le retour des Mog
+
+- Dans la ville, commence par [ ] Something Washed Ashore si Hallucination
+  and Premonition a ete vu a Treno.
+- Parle a Blank et choisis la question sur Dagger pour [ ] My Bad.
+- Continue les scenes automatiques [ ] Self-Reproach et [ ] Deep Anger.
+- Au Theatre District, fais [ ] My Hammer.
+- Dans la zone de Burmecia, la rencontre Wei/Kal vue au disc 1 permet
+  [ ] The Rally. Si elle manque, l'ATE ne peut pas etre forcee ici.
+- Depense ton argent pour passer sous 50 Gil avant [ ] No Free Lunch, puis
+  regarde [ ] Give Me My Money!. Garde toutefois 2 222 Gil minimum pour
+  Stiltzkin a Bran Bal plus tard.
+- Dans le second passage de ville, regarde [ ] Team et [ ] Recovery.
+- A Dali, ouvre la porte du moulin avec la Mayor's Key et prends Burman
+  Coffee. Apporte Moccha, Kirman et Burman a Morrid, a l'Observatory Mountain,
+  avant le depart pour Terra : [ ] My Little Airship.
+
+18. Desert Palace, Oeilvert et Stiltzkin
+
+- Avant la bifurcation des equipes, fais une sauvegarde et verifie les lots
+  de soins. L'equipe physique va a Oeilvert ; l'autre explore Desert Palace.
+- Dans Oeilvert, ouvre Remedy, Rising Sun, Elixir, Diamond Armor, Shield
+  Armor, Power Vest, Feather Boots, Gaia Gear, Anklet, Holy Miter et les
+  coffres des salles a monstres. Examine les consoles et le chemin derriere
+  les statues.
+- Prends le lot Stiltzkin 888 Gil dans Oeilvert : [ ] Hi-Potion, Emerald,
+  Elixir. Garde l'Emerald pour Jabberwock et ne le donne pas a un Gimme Cat.
+- Vole les pieces rares des boss. Equipe les protections contre Doom, Stop et
+  Petrify quand elles sont disponibles.
+- Dans Desert Palace, active les orbes, prends Remedy, Rising Sun et Elixir,
+  puis ouvre les chambres laterales avant de suivre la lumiere. Le contenu
+  exact peut etre remplace par le groupe de personnages, mais aucun coffre
+  n'est facultatif pour le rang de tresor.
+
+19. Mount Gulug, Bran Bal et Pandemonium
+
+- A Mount Gulug, ouvre Red Hat, Golden Hairpin, Wing Edge, Gaia Gear,
+  Demon's Mail, the Hammer/treasures of the lift and every chest near the
+  switches. Verifie les moogles et les lettres avant la sortie.
+- Apres l'arrivee a Bran Bal, prends Angel Earring, Flash Hat, Elixir, Wing
+  Edge, Gaia Gear, Demon's Mail et les coffres de l'auberge / laboratoire.
+- Dans Bran Bal, achete Stiltzkin 2 222 Gil : [ ] Diamond, Ether, Elixir.
+- Lis toutes les lettres des moogles. Si un Moogle apparait dans une salle
+  laterale, parle-lui avant de prendre l'ascenseur suivant.
+- A Pandemonium, suis les panneaux et les plateformes en testant les trois
+  rebords quand le jeu te renvoie au panneau. L'ATE [ ] The Elevator apparait
+  seulement apres avoir active les leviers dans l'ordre. Ne quitte pas cette
+  section sans l'avoir vue.
+- Apres Pandemonium, la derniere partie de l'ATE list est complete. Le compteur
+  attendu est [ ] 79/79.
+
+DISQUE 4 - NETTOYAGE COMPLET AVANT MEMORIA
+
+20. Stiltzkin, Moonstones et Stellazzio
+
+- A Alexandria Steeple, achete le dernier lot Stiltzkin 5 555 Gil :
+  [ ] Moonstone, Ruby, Elixir. Parle-lui une deuxieme fois pour recevoir
+  Ribbon. [ ] Driving the Hard Bargain.
+- Les 4 Moonstones doivent etre dans l'inventaire :
+  1) recompense des 100 nobles au debut ;
+  2) statue des quatre pierres de Conde Petie ;
+  3) Friendly Jabberwock apres lui avoir donne une Emerald ;
+  4) lot Stiltzkin d'Alexandria disc 4.
+  Ne synthese aucune de ces quatre pieces.
+- Les 13 Stellazzio et leurs emplacements sont :
+  [ ] Aries - moulin de Dali, etage superieur ;
+  [ ] Taurus - derriere le stand de la boutique d'objets de Treno ;
+  [ ] Gemini - fontaine de Treno, 10 Gil treize fois ;
+  [ ] Cancer - derriere le chariot de l'entree de Burmecia ;
+  [ ] Leo - quai gauche du chateau d'Alexandria ;
+  [ ] Virgo - auberge de Black Mage Village ;
+  [ ] Libra - fontaine de Madain Sari ;
+  [ ] Scorpio - Quan's Dwelling, en bas de la corde ;
+  [ ] Sagittarius - quartier commercial de Lindblum, pres du marchand ;
+  [ ] Capricorn - chemin d'eau de Daguerreo, a droite de l'entree ;
+  [ ] Aquarius - coffre de la salle d'Ipsen's Castle ;
+  [ ] Pisces - coffre central de l'Invincible ;
+  [ ] Ophiuchus - meme emplacement que Scorpio apres les douze autres.
+- Donne-les a Queen Stella dans l'ordre de collecte. Les 10e et 13e remises
+  valident [ ] Earning the Queen's Favor et [ ] What's Your Sign? (Hammer).
+- Les recompenses intermediaires sont Gil, Phoenix Pinion, Blood Sword,
+  Elixir, White Belt, Rosetta Ring, Robe of Lords et Hammer. Garde le Hammer
+  pour la synthese et le succes.
+
+21. Mognet Central
+
+- La chaine doit etre terminee sur le Disc 4 :
+  1) Kupo, Steeple d'Alexandria -> Atla, coffre de Burmecia ;
+  2) Atla -> Mogryo, Black Mage Village ;
+  3) Mogryo -> Kumool, deuxieme salle d'Ipsen's Castle ;
+  4) Kumool -> Mois, entree de Fossil Roo cote Qu's Marsh ;
+  5) Mois -> Noggy, deuxieme etage droit de Daguerreo ;
+  6) Noggy -> Kupo, Steeple d'Alexandria.
+- Ruby donne Superslick au Theatre District d'Alexandria. [ ] Well Lubricated.
+- Sur Likanmak Island, au nord-est de l'Outer Continent, utilise Dead Pepper
+  sur la fissure de montagne en forme de U. Entre dans Mognet Central, monte
+  au deuxieme etage et donne Superslick a Artemicion. [ ] Back Online.
+
+22. Grenouilles et Gastro Fork
+
+- Dans chaque Qu's Marsh, laisse toujours une grenouille male et une femelle.
+  Le meilleur cycle est de capturer les adultes visibles, quitter la mare,
+  faire quelques combats, puis revenir.
+- Les mares sont a Qu's Marsh du Mist Continent, Outer Continent, Forgotten
+  Continent et dans les zones ouvertes de Disc 4.
+- Reviens a Qu's Marsh avec Quina et capture jusqu'a 99. Le compteur s'affiche
+  chez Quale ; [ ] Frog Wrangler.
+- A 99 grenouilles, defie Quale. Vole les objets si possible, gagne le combat
+  et prends Gastro Fork. [ ] The Ultimate Fork.
+- La grenouille doree compte aussi pour Going for the Gold, mais ne doit pas
+  etre la seule grenouille de la mare.
+
+23. Monstres amicaux et Ozma
+
+- Ne frappe jamais un monstre amical. Termine la ligne dans l'ordre et donne
+  la pierre exacte :
+  [ ] Mu, pres de Dali / Nolrich Heights : 1 Ore -> Potion ;
+  [ ] Ghost, pres de Treno / Bentini Heights : 1 Ore -> Hi-Potion ;
+  [ ] Ladybug, foret entre Conde Petie et Black Mage Village : 2 Ore -> Ether ;
+  [ ] Yeti, foret de Madain Sari : 2 Ore -> Elixir ;
+  [ ] Nymph, foret de l'Iifa Tree : 3 Ore -> Emerald ;
+  [ ] Jabberwock, foret au nord-est d'Oeilvert : Emerald -> Moonstone ;
+  [ ] Feather Circle, foret enneigee du Lost Continent : Moonstone -> Lapis ;
+  [ ] Garuda, plateau boise au-dessus de Gizamaluk's Grotto : Lapis -> Diamond ;
+  [ ] Yan, foret de Vile Island : Diamond -> Rosetta Ring.
+- Les rencontres apparaissent aleatoirement. Equipe No Encounter si tu veux
+  chercher, car les monstres amicaux peuvent encore apparaitre.
+- Le Yan ne devient disponible qu'apres les huit precedents. Quand les neuf
+  dons sont faits, les attaques physiques peuvent atteindre Ozma.
+- Reviens ensuite a Chocobo's Air Garden et bats Ozma : [ ] To Ozma and Back.
+- Ne donne jamais une Emerald, une Moonstone ou un Diamond a un ennemi de type
+  Gimme Cat. Ce n'est pas la chaine des monstres amicaux.
+
+24. Chocobo : capacites et 24 Chocographs
+
+- Chocobo Forest est au nord-est de Lindblum. Chocobo Lagoon se trouve dans
+  Salvage Archipelago, au sud du Forgotten Continent. Chocobo's Air Garden
+  suit une ombre noire a cinq positions et demande Dead Pepper.
+- Fouille les 24 Chocographs, puis les six Chocograph Pieces qui forment
+  Mist Ocean. Coche chaque tresor :
+  [ ] 1 Streamside - King Ed Plains, au confluent pres de Chocobo Forest.
+  [ ] 2 Between Mountains - Eunorus Plains, nord-ouest de Lindblum.
+  [ ] 3 Uncultivated Land - Gunitas Basin, pres d'Evil Forest.
+  [ ] 4 Healing Shore - Metalark Shores, ouest de Cleyra ; Reef.
+  [ ] 5 Abandoned Beach - Gegalrich Shores, grande foret de l'Outer.
+  [ ] 6 Cold Field - cote est d'Esto Gaza, Lost Continent ; Blue Narciss.
+  [ ] 7 Forgotten Lagoon - eau peu profonde au nord du Forgotten Continent.
+  [ ] 8 Faraway Lagoon - ile occidentale, entree de lagon.
+  [ ] 9 Abandoned Lagoon - Kognish Shores, sud-est de l'Outer.
+  [ ] 10 Bird's-Eye Lagoon - autour de Qu's Marsh, petite ile ronde.
+  [ ] 11 Small Beach - cote sud de Mist Continent, au sud de Qu's Marsh.
+  [ ] 12 Dawn Lagoon - ile a l'est de Chocobo Forest ; Mountain.
+  [ ] 13 Forbidden Forest - foret au sud-ouest de Dali, dans les montagnes.
+  [ ] 14 Green Plains - falaise au sud de la plage en U du Mist.
+  [ ] 15 Dusk Plains - plateau le plus bas au sud-ouest d'Oeilvert.
+  [ ] 16 Forgotten Plains - rocher au sud-ouest d'Ipsen's Castle.
+  [ ] 17 Sea at Dusk - peninsule orientale du Forgotten Continent.
+  [ ] 18 Ocean - mer au large de la longue ile a l'ouest du Forgotten.
+  [ ] 19 Cold Lagoon - baie au nord-ouest du Lost Continent.
+  [ ] 20 Mist Ocean - apres les 6 morceaux, Edgecry Coast.
+  [ ] 21 Outer Island - Korua Island, est de l'Outer ; Air Garden/Sky.
+  [ ] 22 Outer Island 2 - Likanmak Island ; Lagoon/Ocean.
+  [ ] 23 Fairy Island - Vile Island, sud-ouest de l'Outer.
+  [ ] 24 Forgotten Island - Pilkiras Island, nord-est du Forgotten.
+- Le tresor 18 donne Whale Whisker : [ ] The Ultimate Rod.
+- Le tresor 21 donne Genji Armor et Ragnarok. Le 24 donne Ark Card. Les
+  objets non uniques doivent quand meme etre ramasses pour le Treasure Hunter.
+- Apres les Chocographs, ouvre les trois fissures et les cinq bulles Dead
+  Pepper :
+  [ ] Dive 1, petite anse au sud du Forgotten : Remedy, Black Robe, Genji
+  Gloves, Blue Narciss Card.
+  [ ] Dive 2, quai de Quan's Dwelling ou champignon a l'interieur : Ore,
+  Topaz, Tiger Racket, Red Rose Card. [ ] The Ultimate Racket.
+  [ ] Dive 3, sud-ouest de l'Outer : Straw Hat, Pearl Armlet, Aloha T-Shirt,
+  Sandals.
+  [ ] Dive 4, entre les peninsules du Lost et de l'Outer : Potions, Ether,
+  Elixirs.
+  [ ] Dive 5, emplacement de Shimmering Island : Aquamarine, Ultima Weapon,
+  Maximillian, Invincible Card. [ ] The Ultimate Dual Blade.
+  [ ] Crack 1, nord-est du Seatence Ice Field : Lapis Lazuli, Rosetta Ring,
+  Protect Ring, Airship Card.
+  [ ] Crack 2, foret au nord-ouest d'Oeilvert : Maiden Prayer, Dragon's
+  Hair, Gauntlets, Odin Card.
+  [ ] Crack 3, nord-est du Forgotten Continent : Eye Drops, Madain's Ring,
+  Genji Helm, Hilda Garde I Card.
+- A Chocobo's Paradise, sur Uaho Island au nord-ouest, utilise Dead Pepper
+  sur la fissure. Parle a Fat Chocobo, accepte le jeu de cartes, puis visite
+  les 21 plages avec Choco et valide [ ] Beach Bum.
+
+25. Beach Bum, 21 plages
+
+- Sur chaque plage, descends de Choco et appuie sur le bouton d'action. Une
+  simple traversee en Chocobo ne valide pas la plage.
+- Mist Continent : [ ] Derek Beach, [ ] Eesistern Coast, [ ] Makiki Beach,
+  [ ] Metalark Shores, [ ] Nomarania Beach, [ ] Togull Beach,
+  [ ] Tuhanda Shores.
+- Outer Continent : [ ] Banyano Shores, [ ] Kognish Shores,
+  [ ] Gegalrich Shores, [ ] Falstead Coast, [ ] Shengalasta Shores,
+  [ ] Dyshnose Shores.
+- Lost Continent : [ ] Ryuki Shores, [ ] Quelmiera Shores.
+- Iles : [ ] Commure Shores, [ ] Lanshake Island,
+  [ ] Lanar Island, [ ] Palmnell Island, [ ] Salvage Archipelago,
+  [ ] Everlang Island.
+- Si un nom n'apparait pas, remonte sur Choco, descends a nouveau et appuie
+  au centre du sable. Le compteur de plage se met a jour immediatement.
+
+26. Ragtime Mouse, quiz et cartes
+
+- Ragtime apparait dans les forets. Il peut apparaitre quatre fois avant
+  l'Outer Continent, puis jusqu'a seize rencontres au total. Apres chaque
+  apparition, marche quelques secondes dans la meme foret ; il n'apparait pas
+  immediatement deux fois de suite.
+- Reponds O pour vrai et X pour faux :
+  1 [ ] The 15th Lindblum War started in 1600. -> X.
+  2 [ ] Chocobo Forest is between Lindblum and South Gate. -> O.
+  3 [ ] I Want To Be Your Canary was written by Lord Afon. -> X.
+  4 [ ] Prima Vista was built in the Artania Shipyards. -> X.
+  5 [ ] Fossil Roo connects Treno and Alexandria. -> X.
+  6 [ ] Lindblum air cabs operate around the clock. -> O.
+  7 [ ] Berkmea cable cars have been running for eight years. -> O.
+  8 [ ] Treno Cafe Card is for members only. -> O.
+  9 [ ] Lindblum Castle is larger than Alexandria Castle. -> O.
+  10 [ ] Some Mus are friendly. -> O.
+  11 [ ] Prima Vista uses Mist energy. -> O.
+  12 [ ] Conde Petie is a village of Goblins. -> X.
+  13 [ ] There is only one desert in the world. -> X.
+  14 [ ] The Bobo bird brings fortune. -> X.
+  15 [ ] Prima Vista means love at first sight. -> X.
+  16 [ ] You can beat me, Ragtime Mouse. -> O.
+- Apres la 16e reponse, rencontre-le encore pour terminer le quiz :
+  [ ] Beating the Ragtime Blues.
+- Gagne 1, puis 10, puis 100 matchs Tetra Master. Le meilleur endroit de farm
+  est un adversaire rejouable d'Alexandria ou de Treno ; sauvegarde avant de
+  changer de regle regionale. [ ] It's All in the Cards I, II et III.
+
+27. Mini-jeux, niveaux et compteurs
+
+- A Alexandria, fais 1 000 sauts consecutifs. Sur Steam, le timing est plus
+  permissif au clavier/souris, mais garde une sauvegarde avant la tentative.
+  [ ] Hail to the King.
+- Fais 30 attaques par derriere dans les combats aleatoires en laissant un
+  ennemi agir avant d'attaquer. [ ] Backstabber.
+- Utilise Defend 50 fois, White Magic 200 fois, Blue Magic 100 fois, Black
+  Magic 100 fois et les Eidolons 50 fois. Les compteurs se cumulent entre les
+  combats ; ne depense pas les MP inutilement.
+- Equipe la capacite Auto-Life de Phoenix sur Eiko, provoque une situation ou
+  toute l'equipe est KO et laisse Rebirth Flame se declencher : [ ] Still I
+  Rise. Fais-le sur une sauvegarde preparee, pas pendant Ozma.
+- Forme quatre hommes pour [ ] The B-Team, puis Quina + trois personnages
+  feminins pour [ ] Femme Fatales?. Les cases se valident au debut du combat.
+- Monte n'importe quel personnage au niveau 99 dans une zone de farm sure :
+  [ ] End of the Road. Fais les 10 000 ennemis progressivement :
+  [ ] Let the Bodies Hit the Floor I, II et III.
+- Joue une partie de blackjack dans le menu bonus/mini-jeux :
+  [ ] Taking the Black.
+
+28. A Clean Bill of Health et A Pillar of Support
+
+- Choisis un seul personnage, de preference Steiner, et fais-lui subir au
+  moins une fois chaque statut positif et negatif au fil de la partie.
+  Les statuts utiles a cocher sont : Poison, Venom, Virus, Darkness, Trouble,
+  Zombie, Death, Silence, Berserk, Confuse, Heat, Freeze, Gradual Petrify,
+  Petrify, Doom, Stop, Sleep, Slow, Auto-Life, Regen, Haste, Float, Protect,
+  Shell, Reflect, Vanish et Trance.
+- Utilise les ennemis, les sorts de Quina, les objets et les competences de
+  soutien pour faire apparaitre chaque statut. La condition se cumule dans la
+  sauvegarde ; il n'est pas necessaire de les avoir tous en meme temps.
+  [ ] A Clean Bill of Health.
+- Pour [ ] A Pillar of Support, ne vends aucune piece avant apprentissage.
+  A chaque nouvelle boutique, ouvre le menu Abilities et trie les objets par
+  competence non apprise. Termine les armes, armures et Add-ons des quatre
+  groupes avant de passer a la zone suivante.
+- Les objets a verifier en priorite sont Ribbon, Genji Armor, Genji Gloves,
+  Genji Helmet, Genji Shield, Pumice Piece, Protect Ring, Rosetta Ring,
+  Madain's Ring, Angel's Flute, Mace of Zeus, Excalibur, Excalibur II,
+  Ultima Weapon, Kain's Lance, Rune Claws et Whale Whisker.
+- Apres l'apprentissage, reviens au menu des competences de chaque personnage
+  et verifie qu'aucune case d'ability n'est encore grisee par un objet unique.
+
+29. Exploration finale et Treasure Hunter
+
+- Fais tous les points brillants du monde : plages, fissures, bulles, forages
+  Chocobo, coffres d'Ipsen, Daguerreo, Memoria et Alexandria.
+- A Daguerreo, parle au Four-Armed Man pour connaitre le rang. Le rang S
+  demande au moins 340 points de tresor. Prends la Rank S Medal quand il
+  l'annonce : [ ] Another Man's Treasure.
+- A Treno, achete Magical Fingertips apres avoir gagne Doga's Artifact,
+  Une's Mirror, Rat Tail et Griffin's Heart aux encheres puis les avoir
+  revendus aux bons habitants. Apporte Magical Fingertips au vieil homme de
+  Daguerreo : [ ] Sword of Kings - Excalibur.
+- Dans le Weapon Shop de Treno, entre avec Dagger et lance le combat contre
+  Behemoth. Termine-le avec Dagger dans l'equipe active :
+  [ ] Dragon Lady.
+- Equipe les personnages avec les meilleures competences apprises, fais une
+  sauvegarde, puis termine la liste d'armes :
+  [ ] Angel Flute - coffre de Memoria, a gauche du tombeau ;
+  [ ] Rune Claws - coffre de Memoria, avant les escaliers de l'oeil ;
+  [ ] Whale Whisker - Chocograph Ocean ;
+  [ ] Mace of Zeus - coffre de Memoria, plateforme de la premiere echelle ;
+  [ ] Tiger Racket - plongee Dead Pepper pres de Quan's Dwelling ;
+  [ ] Tower - coffre de Memoria, plateforme de l'arc ;
+  [ ] Ultima Weapon - plongee Dead Pepper a l'emplacement de Shimmering
+      Island ;
+  [ ] Kain's Lance - coffre de la premiere salle de Memoria ;
+  [ ] Hammer - 13e Stellazzio ;
+  [ ] Excalibur - Magical Fingertips a Daguerreo ;
+  [ ] Gastro Fork - recompense des 99 grenouilles ;
+  [ ] Excalibur II - route rapide sous 12 heures.
+
+MEMORIA ET FIN DU PARCOURS NORMAL
+
+30. Coffres et boss de Memoria
+
+- Fais une sauvegarde sur l'orbe d'entree. Reorganise les equipements et les
+  competences avant chaque Guardian.
+- Entree : [ ] Kain's Lance derriere le mur a droite en haut des escaliers.
+- Plateforme suivante : [ ] Tower au bout du chemin lateral.
+- Apres le Guardian de feu : [ ] Angel Flute a gauche du tombeau.
+- Avant le Guardian de vent : [ ] Rune Claws a gauche des escaliers de l'oeil.
+- Apres la zone de la cascade, explore le point cache avant d'aller plus loin.
+  Le combat optionnel de Hades ouvre la meilleure synthesis shop ; garde les
+  composants rares jusqu'a verification.
+- Apres le Guardian d'eau, monte la premiere echelle et prends [ ] Mace of
+  Zeus sur la plateforme a gauche du Card Phantom.
+- Avant la derniere porte, vole les pieces Genji des Guardians quand elles
+  sont proposees. Si une piece manque, les recompenses Chocobo peuvent
+  completer le set. [ ] Path of the Samurai.
+- Sur la run normale, termine le boss final et coche [ ] All's Well That Ends
+  Well. Sur la run Excalibur II, prends d'abord l'arme sous 12 heures.
+
+31. Invocations et combats a confirmer
+
+- Les competences de Dagger/Eiko a obtenir et utiliser au moins une fois sont :
+  [ ] Ramuh, [ ] Fenrir, [ ] Shiva, [ ] Ifrit, [ ] Bahamut, [ ] Atomos,
+  [ ] Leviathan, [ ] Carbuncle, [ ] Phoenix, [ ] Odin, [ ] Madeen, [ ] Ark.
+- Les combats de boss associes aux succes sont : [ ] Maliris, [ ] Tiamat,
+  [ ] Kraken et [ ] Lich. Les invocations et boss se valident a la premiere
+  victoire si la condition est remplie.
+- Fais 50 invocations reelles, pas seulement l'apprentissage de l'objet :
+  [ ] You Called?. Utilise les combats de farm d'ennemis faibles.
+- Verifie les compteurs finaux : [ ] Getting Emotional, [ ] Overly Emotional,
+  [ ] The Best Offense, [ ] A Healing Touch, [ ] That Old Black Magic,
+  [ ] I'm So Blue et [ ] You Called?.
+
+CHECKLIST ATE - 79 CASES POUR MOVIE CRITIC
+
+Evil Forest
+
+[ ] The Forest Keeper
+[ ] Time to Escape
+[ ] My Little Baby
+[ ] Girl Who Was Left Behind
+[ ] Orchestra in the Forest
+[ ] Do As I Say, Not As I Do
+
+Dali
+
+[ ] Vivi, Confused
+[ ] Dagger Tries
+[ ] Cat's Eye
+[ ] Cat's Eye 2
+[ ] Dagger Tries Harder
+[ ] Queen Brahne's Steiner
+
+Lindblum - premiere visite
+
+[ ] Small Town Knight in a Big City
+[ ] Vivi's Shopping
+[ ] Steam Engine
+[ ] What Can I Do?
+[ ] Baku and His Crew
+
+Treno - premiere visite
+
+[ ] Treno Tradition
+[ ] Pursuit
+[ ] Confusion
+[ ] Ambition
+[ ] Meeting Place
+[ ] Unexpected Visitor
+[ ] Crime and Punishment
+
+Cleyra
+
+[ ] No Yummy-Yummies!
+[ ] There a Mushroom!
+[ ] Don't Hate Me
+[ ] I-I Haven't Hurt Anyone!
+
+Alexandria - deuxieme visite
+
+[ ] Friendship
+
+Lindblum - deuxieme visite
+
+[ ] The Third Jewel
+[ ] Brahne's Fleet Arrives
+[ ] <Gwok-gwok!> How Infuriating!
+
+Conde Petie - premiere visite
+
+[ ] Vivi and the Couple
+[ ] Quina Accused
+[ ] Quina Can't Communicate
+[ ] Dagger and William
+[ ] Hungry Bryan
+
+Black Mage Village
+
+[ ] Everyday Life
+[ ] Life On The Run
+[ ] Gourmand's Nose
+[ ] Different Language
+[ ] Visitor, Not Invader
+[ ] Life Cycle
+
+Conde Petie - deuxieme visite
+
+[ ] Nuptial Joy
+
+Madain Sari
+
+[ ] Vivi's Feelings
+[ ] Dagger's Feelings
+[ ] Eiko's Feelings
+[ ] Eiko's Kitchen
+[ ] Eiko's Kitchen 2
+
+Alexandria - disc 3
+
+[ ] It's So Big!
+[ ] Long Time No See!
+[ ] To Fly High
+[ ] Artemicion
+[ ] I Forgot!
+[ ] Clowns on a Dark Night
+
+Treno - disc 3
+
+[ ] Eiko Talks Life
+[ ] How He Ended Up Here
+[ ] Hippo's Prize OR Home Sweet Home
+[ ] Memories By the Water
+[ ] City People
+[ ] Good Old Days
+[ ] Lessons of Life
+[ ] Hallucination and Premonition
+
+Lindblum - disc 3
+
+[ ] Something Washed Ashore
+[ ] My Bad
+[ ] Self-Reproach
+[ ] Deep Anger
+[ ] My Hammer
+[ ] The Rally
+[ ] No Free Lunch
+[ ] Give Me My Money!
+[ ] Team
+[ ] Recovery
+
+Bran Bal et Pandemonium
+
+[ ] Place to Call Home
+[ ] Where the Heart Is
+[ ] Came into This World
+[ ] The Truth
+[ ] The Elevator
+
+CHECKLIST FINALE - 85 SUCCES STEAM
+
+[ ] Getting Emotional
+[ ] A Round of Applause
+[ ] It's All in the Cards I
+[ ] Let the Bodies Hit the Floor I
+[ ] Sticky Fingers
+[ ] Coming Together I
+[ ] Going for the Gold
+[ ] Bring on the Thunder
+[ ] That Old Black Magic
+[ ] Wolf Insanity
+[ ] Peek-A-Boo
+[ ] Take to the Skies
+[ ] The Best Offense
+[ ] Out of Harm's Way
+[ ] You're Cold as Ice
+[ ] Heat of the Moment
+[ ] King of Dragons
+[ ] Bringing Down the House
+[ ] Surf's Up
+[ ] Here to Help
+[ ] Putting Out the Fire
+[ ] Gone with the Winds
+[ ] Overly Emotional
+[ ] Rise from the Ashes
+[ ] All Washed Up
+[ ] Hitting Rock Bottom
+[ ] It's All in the Cards II
+[ ] The Dim Mak
+[ ] Coming Together II
+[ ] All's Well That Ends Well
+[ ] A Healing Touch
+[ ] Auctioneer
+[ ] The Ultimate Flute
+[ ] Path of the Samurai
+[ ] The Ultimate Claws
+[ ] The Ultimate Rod
+[ ] Wolf in Mog's Clothing
+[ ] The Ultimate Mace
+[ ] Skip to My Lou
+[ ] End of the Road
+[ ] The Ultimate Racket
+[ ] Diggin' It
+[ ] Close But No Cigar
+[ ] The B-Team
+[ ] You Called?
+[ ] The Ultimate Dual Blade
+[ ] Earning the Queen's Favor
+[ ] Kain's Legacy
+[ ] What's Your Sign?
+[ ] Sword of Kings
+[ ] My Little Airship
+[ ] Your Lucky Day
+[ ] One Nag Too Many
+[ ] Track Star
+[ ] Frog Wrangler
+[ ] Hail to the King
+[ ] Firin' Mah Lazer
+[ ] Well Lubricated
+[ ] Mister Nice Guy
+[ ] The One Ring
+[ ] The Ultimate Fork
+[ ] Back Online
+[ ] A-Hunting We Will Go
+[ ] Let the Bodies Hit the Floor II
+[ ] Taking the Black
+[ ] Backstabber
+[ ] Another Man's Treasure
+[ ] Driving the Hard Bargain
+[ ] I'm So Blue
+[ ] Follow Your Nose
+[ ] To Ozma and Back
+[ ] Cracking the Code
+[ ] Dragon Lady
+[ ] Still I Rise
+[ ] Femme Fatales?
+[ ] Over the Moon
+[ ] A Pillar of Support
+[ ] Beach Bum
+[ ] The Ultimate Sword
+[ ] Beating the Ragtime Blues
+[ ] A Clean Bill of Health
+[ ] Found in the Shuffle
+[ ] It's All in the Cards III
+[ ] Movie Critic
+[ ] Let the Bodies Hit the Floor III
 
 VERIFICATION FINALE
 
-- Steam affiche 85/85.
-- La run normale contient 79 ATE, 100 Tetra Master, les grenouilles, les
-  monstres amicaux, les tresors, Ozma et tous les objets.
-- La seconde run contient Excalibur II avant 12 heures.
-- Les compteurs de combat, de magie, de synthese et d'invocation sont coches.
-- Aucun element de la route ne raconte l'histoire ; les reperes servent
-  uniquement a localiser les actions, objets et fenetres de succes.
+[ ] Steam affiche 85 succes.
+[ ] La checklist ATE affiche 79/79, avec une seule branche choisie a Treno.
+[ ] Les 8 lots Stiltzkin sont achetes et Ribbon recu.
+[ ] Les 4 Moonstones sont dans l'inventaire avant le nettoyage amical.
+[ ] Les 13 Stellazzio sont rendus, Hammer obtenu et 10 recompenses confirmees.
+[ ] Les 24 Chocographs, 8 tresors Dead Pepper et 21 plages sont coches.
+[ ] Les 9 monstres amicaux sont valides et Ozma est vaincu.
+[ ] Le rang S de Treasure Hunter est confirme par le Four-Armed Man.
+[ ] Les compteurs Tetra Master, Ragtime, grenouilles, combats et magie sont
+    confirmes.
+[ ] Les armes ultimes, les competences de soutien, les coffres uniques et
+    Excalibur II sont confirmes.
+[ ] La run normale est terminee sans utiliser la run rapide comme sauvegarde
+    principale.
+
+SOURCES DE CONTROLE
+
+- Liste officielle des 85 succes Steam :
+  https://steamcommunity.com/stats/377840/achievements
+- Guide de verification des succes, ATE, coffres et objets :
+  https://steamcommunity.com/sharedfiles/filedetails/?id=680623233
+- Liste des ATE et fenetres de Movie Critic :
+  https://www.neoseeker.com/final-fantasy-ix/faqs/1816852-m.html
+- Liste Stiltzkin et prix des huit lots :
+  https://gamefaqs.gamespot.com/ps/197338-final-fantasy-ix/faqs/71891/stiltzkin-shopping
+- Chocographs, fouilles et monstres amicaux :
+  https://jegged.com/Games/Final-Fantasy-IX/Side-Quests/
+
+FIN DE LA FICHE - BONNE ROUTE
