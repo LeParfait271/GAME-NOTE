@@ -1,152 +1,678 @@
 GRANDIA II HD REMASTER
-GUIDE CHRONOLOGIQUE 100 % STEAM - SANS SPOILER
+FICHE PREMIUM 100 % STEAM - ROUTE CHRONOLOGIQUE - SANS SPOILER NARRATIF
 
-Version de travail : 10 aout 2026
+Version vérifiée : 11 août 2026
+AppID Steam : 330390
+Périmètre : 36 succès Steam, jeu principal, aucun succès en ligne ni DLC requis.
 
-Ce guide couvre les 36 succes Steam. La route ideale est une seule partie en
-Hard, avec les objets manquables controles au bon moment. Le jeu propose deux
-branches PC : active « Anniversary Edition » dans les proprietes Steam pour
-le succes Anniversary Activated!, puis garde cette branche pour toute la partie.
+Cette fiche sert à terminer Grandia II en récupérant les objets importants, les
+Mana Eggs, les Skill Books, les bijoux, les ceintures, les combats optionnels et
+les 36 succès Steam. Les noms de villes, de donjons, de boss et de personnages
+sont utilisés comme repères de navigation. Les révélations de scénario, les
+identités, les conséquences et la fin ne sont pas expliquées.
 
-ALERTES A FAIRE AVANT DE POURSUIVRE
+COMMENT LIRE LA FICHE
 
-- Demon's Law : prends l'Exorcism Bow dans l'alcove nord-est avant de quitter
-  la zone. Il devient inaccessible plus tard.
-- Underground Plant : prends le Forbear Necklace dans le labyrinthe de tuyaux.
-- Ceceile Reef : prends le Coral Necklace juste avant le dernier point de
-  sauvegarde.
-- Ghoss Forest East 2 : passe sous la racine pres de la sortie pour le Black
-  Belt.
-- St. Heim / Cyrum revisite : achete le Heracles' Belt quand la boutique le
-  propose.
-- Raul Hills revisite : prends le Sonic Belt et le Demon Necklace dans le
-  parcours de mort ; ne quitte pas la zone avant d'avoir verifie les deux.
-- Hut of Trials : conserve une sauvegarde avant le dernier test de noix. Il
-  faut prendre les 24 noix du test final pour Nut Grabber.
-- Combat de Melfice a Garlan : pour It's a Family Thing, seul Ryudo doit
-  infliger des degats. Les autres personnages peuvent soigner, proteger et
-  interrompre, mais pas frapper.
+- « Avant de quitter » est un contrôle obligatoire avant de changer de zone.
+- Les objets uniques sont toujours nommés. Les consommables et l'or ordinaires
+  sont indiqués par un balayage des coffres afin de ne pas transformer la route
+  en liste illisible de petits montants.
+- Les directions sont données avec la boussole du jeu : nord, sud, est, ouest,
+  puis les diagonales lorsque le coffre est derrière une racine ou un rocher.
+- Les Mana Eggs gardent leurs sorts et leurs niveaux quand ils sont équipés par
+  un autre personnage. Les Skill Books se développent avec les Skill Coins et les
+  Magic Coins ; ouvre le menu de livres après chaque boss.
+- Les succès cumulés Geohounded et Geohunted additionnent les monstres de toutes
+  les parties. Une seule route Hard qui ne fuit pas les combats approche déjà
+  des deux seuils ; la seconde partie complète le compteur si nécessaire.
+- Le 100 % Steam ne demande pas de faire deux parties complètes : une partie
+  principale, une partie Hard ou un nettoyage par sauvegarde suffisent.
 
-DEBUT ET PREMIERES ZONES
+MISSABLES ET CONDITIONS RATABLES
 
-1. Active Anniversary Edition dans les proprietes Steam, lance une partie en
-   Hard et ne change jamais la difficulte.
-2. Suis Ryudo jusqu'a l'acceptation du contrat. Gagne le premier combat,
-   equipe les armes et commence a remplir les livres de competence.
-3. Escorte Elena jusqu'a Garmia Tower : The Bodyguard puis Guard for Hire.
-4. A Garmia Tower, vide les coffres avant de sortir. Equipe au moins un Mana
-   Egg et un Skill Book des que possible.
-5. Traverse la foret et les villages jusqu'a l'arrivee de Millenia : Spicy Lady.
-6. A la premiere visite de Garlan, accepte les activites annexes et garde les
-   objets de collection. Quand Roan rejoint l'equipe : More Than He Could Chew.
+- Active Anniversary Activated! avant la première sauvegarde : dans Steam,
+  Propriétés > Bêtas, sélectionne la branche Anniversary si elle est proposée,
+  lance le jeu, charge ou crée une partie et attends le succès.
+- Exorcism Bow : prends-le dans Demon's Law avant de quitter la zone. La route
+  de l'histoire ferme ensuite l'accès.
+- Coral Necklace, Forbear Necklace et Demon Necklace : récupère-les dans leurs
+  zones respectives avant la progression qui ferme ces routes.
+- Sonic Belt : fais le deuxième passage dans Raul Hills et termine le Death Maze
+  avant la séquence finale.
+- Nut Grabber : dans Hut of Trials, réussis les trois fenêtres du test final et
+  ramasse 24 noix. Fais une sauvegarde avant le mini-jeu.
+- It's a Family Thing : devant Melfice, seul Ryudo doit infliger des dégâts. Les
+  autres personnages peuvent soigner, annuler, protéger et utiliser des objets,
+  mais ne doivent pas toucher la cible avec un sort ou une attaque.
+- Hard : ne change jamais la difficulté pendant la partie destinée à Professional
+  Lepidopterist. Crée une sauvegarde séparée avant le premier combat.
+- Les ceintures et colliers comptent quand l'objet est trouvé, pas quand il est
+  équipé. Si le succès ne tombe pas, retire puis rééquipe les quatre ceintures.
 
-ROUTE DE CAMPAGNE
+RÉGLAGE ANNIVERSARY ET SAUVEGARDES
 
-La progression suivante suit les zones dans l'ordre. Dans chaque ville, parle
-a tous les habitants, achete les nouvelles armes et vide les coffres avant le
-prochain donjon.
+1. Dans la bibliothèque Steam, clic droit sur le jeu > Propriétés > Bêtas.
+2. Choisis la branche Anniversary si elle apparaît, ferme la fenêtre et laisse
+   Steam télécharger la version. Lance le jeu puis crée ANN-00.
+3. Après la notification Anniversary Activated!, tu peux revenir à la branche
+   normale si tu veux jouer avec les réglages habituels. Ne supprime pas ANN-00.
+4. Crée les sauvegardes suivantes :
+   - S1-CARBO : avant Garmia Tower.
+   - S2-AGEAR : avant Durham Cave.
+   - S3-LILIGUE : avant Liligue Cave et Valmar's Tongue.
+   - S4-MIRUMU : avant Aira's Space et Valmar's Eye.
+   - S5-MELFICE : avant le combat réservé à Ryudo.
+   - S6-DEMONS-LAW : avant Exorcism Bow et les Naga Queens.
+   - S7-VALMAR : avant Valmar's Body et la séquence finale de l'histoire.
+   - S8-RAUL : avant le Special Stage et le Death Maze.
+   - S9-HUT : avant le test final des noix.
+   - S10-HARD : sauvegarde de référence de la partie Hard.
 
-1. Garmia Tower -> Ghoss Forest -> Agear Town.
-   - Dans Ghoss Forest East 2, Black Belt.
-   - Monte naturellement Ryudo, Elena, Millenia puis Roan vers le niveau 10.
-2. Valmar's Tongue.
-   - Bats le boss pour Tasty Freeze.
-   - Dans le menu, change l'equipement d'un personnage en combat : arme,
-     accessoire et Mana Egg differents pour Fashionista.
-3. Cyrum Kingdom -> Underground Plant.
-   - Forbear Necklace dans le labyrinthe de tuyaux.
-   - Termine la zone pour Reprogrammed quand Tio rejoint le groupe.
-4. Valmar's Eye.
-   - Bats le boss pour Eye See You.
-5. St. Heim Papal State -> Demon's Law.
-   - Dans Demon's Law, prends l'Exorcism Bow au nord-est avant l'expulsion.
-   - Valmar's Claw donne Claw Your Way to the Top.
-6. Ceceile Reef.
-   - Coral Necklace juste avant le dernier point de sauvegarde.
-   - Gagne l'epreuve d'arm-wrestling quand elle se presente : Gun Show.
-7. Valmar's Body.
-   - Dans l'Artery Passage, inspecte les embranchements et prends le Pretty
-     Necklace dans le coffre ou sur le Snow Leopard.
-   - Bats les parties de Valmar pour Hot Body puis He Has One?.
-8. Garlan Village.
-   - Accepte les combats et les scenes de la zone.
-   - Pour It's a Family Thing, sauvegarde avant le combat de Melfice. Seul
-     Ryudo attaque ; neutralise les autres actions offensives.
-9. Faitos / zones suivantes.
-   - Continue les boss principaux : Bad Apple, Brotherly Love et Amateur
-     Lepidopterist arrivent en suivant la campagne.
-   - Utilise les combats ordinaires pour atteindre 1 000 ennemis, puis 2 000
-     sur la partie ou le nettoyage ; ces compteurs sont cumulables.
-10. Raul Hills revisite.
-    - Termine le parcours de mort et ouvre les coffres : Sonic Belt et Demon
-      Necklace. Recupere Soul of Asura si tu dois finir les niveaux.
-11. Hut of Trials.
-    - Fais le test final en prenant les 24 noix : Nut Grabber.
-12. Dernieres zones et boss.
-    - Garde tous les personnages actifs pour atteindre les seuils de niveau.
-    - Avant le dernier combat, maxe au moins un Skill Book et un Mana Egg :
-      Encyclopedia et Egg Farmer.
-    - Gagne la campagne en Hard sans jamais passer en Normal : Professional
-      Lepidopterist.
+TABLEAU DES 36 SUCCÈS STEAM
 
-COLLECTIONS
+01. The Bodyguard — ajouter Elena au groupe.
+02. Growth Spurt — gagner un niveau.
+03. Guard for Hire — escorter Elena jusqu'à Garmia Tower.
+04. Spicy Lady — ajouter Millenia au groupe.
+05. Anniversary Activated! — activer la branche Anniversary Edition.
+06. More Than He Could Chew — ajouter Roan au groupe.
+07. On the Podium — retrouver la médaille manquante de Roan.
+08. Bloodhound — ajouter Mareg au groupe.
+09. Ryudo, Party of 10? — avoir un groupe complet de niveau 10 ou plus.
+10. Tasty Freeze — vaincre Valmar's Tongue.
+11. Ryudo, Party of 25? — avoir un groupe complet de niveau 25 ou plus.
+12. Eye See You — vaincre Valmar's Eye.
+13. Gun Show — gagner un combat de bras de fer.
+14. Reprogrammed — ajouter Tio au groupe.
+15. Claw Your Way to the Top — vaincre Valmar's Claw.
+16. Brotherly Love — vaincre Melfice.
+17. Encyclopedia — développer toutes les capacités d'un Skill Book.
+18. Geohounded — tuer 1 000 monstres sur l'ensemble des parties.
+19. Egg Farmer — développer toutes les capacités d'un Mana Egg.
+20. Hot Body — vaincre Valmar's Body.
+21. He Has One? — vaincre Valmar's Heart.
+22. Old Priest, Young Priest — trouver l'Exorcism Bow dans Demon's Law.
+23. All Cracked Up — vaincre l'Egg Guardian.
+24. Ryudo, Party of 50? — avoir un groupe complet de niveau 50 ou plus.
+25. Penny Pincher — posséder 250 000 pièces d'or en même temps.
+26. Visited Elmo's World — trouver Elmo dans Birthplace of the Gods.
+27. Bad Apple — vaincre Valmar's Core.
+28. Amateur Lepidopterist — vaincre Zera Valmar.
+29. Geohunted — tuer 2 000 monstres sur l'ensemble des parties.
+30. It's a Family Thing — vaincre Melfice avec Ryudo comme seul personnage qui
+    inflige des dégâts.
+31. Professional Lepidopterist — terminer Grandia II entièrement en Hard.
+32. Fashionista — changer en combat l'arme, l'accessoire et le Mana Egg d'un
+    personnage.
+33. Put a Notch in It — trouver les ceintures Black, Heracles, Hurricane et Sonic.
+34. Bling — trouver les colliers Coral, Demon, Forbear, Friends, Pretty et Rune.
+35. Weekend Bender — boire 100 potions.
+36. Nut Grabber — prendre 24 noix dans le test final de Hut of Trials.
 
-PUT A NOTCH IN IT
+RÈGLES DE COMBAT ET DE DÉVELOPPEMENT
 
-[ ] Black Belt - Ghoss Forest East 2, sous la racine pres de la sortie.
-[ ] Heracles' Belt - boutique de St. Heim / Cyrum lors de la revisite.
-[ ] Hurricane Belt - boutique finale ou recompense de progression.
-[ ] Sonic Belt - Raul Hills revisite, parcours de mort.
+- Les barres IP interrompent les actions ennemies. Garde un coup Cancel rapide
+  sur Ryudo et une attaque Cancel sur chaque personnage.
+- Monte d'abord les techniques Cancel, les soins, la vitesse d'utilisation des
+  objets et les compétences qui réduisent le temps d'incantation.
+- Les sorts s'apprennent avec les Magic Coins dans le Mana Egg équipé ; les
+  compétences de livre utilisent les Skill Coins ou Magic Coins selon l'icône.
+- Sauvegarde avant chaque boss. Si une cible charge une attaque longue, annule-la
+  plutôt que de consommer tous les soins.
+- Les objets uniques ne se vendent pas avant le bilan final. Stocke les herbes,
+  potions et noix ordinaires pour Weekend Bender et les combats Hard.
+- Ne fuis pas les groupes sur la partie Hard. Le compteur de monstres avance avec
+  chaque victoire et réduit le nettoyage nécessaire pour Geohounded/Geohunted.
 
-BLING
+CHAPITRE 0 — WITT FOREST PATH ET CARBO VILLAGE
 
-[ ] Rune Necklace - porte par Millenia au recrutement.
-[ ] Forbear Necklace - Underground Plant, labyrinthe de tuyaux.
-[ ] Coral Necklace - Ceceile Reef, avant le dernier point de sauvegarde.
-[ ] Friends Necklace - Garlan Village, donne par Gatta.
-[ ] Pretty Necklace - Snow Leopard ou coffre de l'Artery Passage.
-[ ] Demon Necklace - Raul Hills revisite, parcours de mort.
+OBJECTIF : apprendre le système, préparer Garmia Tower et prendre les premiers
+coffres sans fermer la zone.
 
-SUCCES CUMULATIFS ET DE COMBAT
+1. Dans Witt Forest Path, active le point de sauvegarde à l'entrée. Suis la route
+   principale, puis reviens vers les branches nord et est avant la sortie.
+2. Coffres de Witt Forest Path : Wound Salve, Hand Grenade, Poison Antidote,
+   Yomi's Elixir, second Wound Salve et Blizzard Charm. Le grand coffre à l'est
+   contient les soins et la grenade ; le Blizzard Charm est sur la branche près
+   de la sortie.
+3. Élimine les ennemis du chemin au lieu de courir entre eux sur la partie Hard.
+   Garde au moins une Hand Grenade pour le premier groupe de Garmia Tower.
+4. Dans Carbo Village, parle au marchand d'objets et au personnage qui propose le
+   tutoriel. Achète au moins cinq soins, deux antidotes, des équipements neufs et
+   des potions pour Elena.
+5. Explore l'auberge, les maisons, la boutique et la sortie sud. Parle aux PNJ
+   avant d'aller à l'église ; plusieurs dialogues disparaissent après l'ordre de
+   mission.
+6. Devant l'église, Elena rejoint la route. The Bodyguard se valide quand elle
+   devient membre du groupe. Sauvegarde S1-CARBO avant le départ.
+7. Utilise l'auberge pour récupérer les PV, les MP et les points d'action. Équipe
+   Elena avec le Holy Egg et donne à Ryudo le premier accessoire défensif.
 
-[ ] Growth Spurt - premier niveau apres l'arrivee d'Elena.
-[ ] Ryudo, Party of 10? - les quatre membres niveau 10 ou plus.
-[ ] Ryudo, Party of 25? - les quatre membres niveau 25 ou plus.
-[ ] Ryudo, Party of 50? - les quatre membres niveau 50 ou plus.
-[ ] Geohounded - 1 000 monstres sur toutes les parties.
-[ ] Geohunted - 2 000 monstres sur toutes les parties.
-[ ] Weekend Bender - boire 100 potions ; utilise les potions pendant les soins.
-[ ] Encyclopedia - maxer un Skill Book.
-[ ] Egg Farmer - maxer un Mana Egg.
+LA FORÊT NOIRE ET GARMIA TOWER
 
-SUCCES DE CAMPAGNE
+1. Dans Black Forest, suis les lanternes et les troncs. Une branche nord contient
+   50G ; la branche est derrière les arbres contient un Myriad Power Nut.
+2. Ouvre les coffres autour du chemin principal : herbes, antidotes et accessoires
+   de départ. Le point de sauvegarde devant la tour est le dernier retour sûr.
+3. Dans Garmia Tower, parle aux sœurs, puis monte étage par étage. Fouille les
+   alcôves avant d'utiliser chaque escalier : Wound Salve, Hand Grenade, 50G,
+   150G et Gold Statue se trouvent dans les chambres latérales.
+4. Évite les combats optionnels uniquement si tu es en difficulté normale. En
+   Hard, bats les groupes pour l'expérience et utilise les points de sauvegarde
+   comme récupération complète.
+5. Au sommet, termine la rencontre principale et quitte la tour. Guard for Hire
+   apparaît après l'escorte d'Elena et sa sortie de Garmia Tower.
+6. Après le retour à Carbo, ouvre les coffres de l'auberge, parle au marchand et
+   équipe les objets gagnés. Millenia rejoint temporairement le groupe : Spicy
+   Lady apparaît dès son arrivée.
+7. Quand Elena disparaît temporairement, son Holy Egg et son accessoire sont
+   disponibles dans l'inventaire. Équipe le Holy Egg sur Ryudo ou Millenia si tu
+   veux monter deux écoles de magie en parallèle.
 
-[ ] The Bodyguard.
-[ ] Guard for Hire.
-[ ] Spicy Lady.
-[ ] More Than He Could Chew.
-[ ] Tasty Freeze.
-[ ] Eye See You.
-[ ] Reprogrammed.
-[ ] Claw Your Way to the Top.
-[ ] Brotherly Love.
-[ ] Hot Body.
-[ ] He Has One?.
-[ ] Bad Apple.
-[ ] Amateur Lepidopterist.
+AVANT DE QUITTER LA PREMIÈRE ZONE
 
-VERIFICATION
+- [ ] Anniversary Activated! obtenu sur la branche prévue.
+- [ ] The Bodyguard et Guard for Hire obtenus.
+- [ ] Spicy Lady obtenu.
+- [ ] Coffres de Witt Forest Path ouverts.
+- [ ] Coffres de Black Forest et Garmia Tower ouverts.
+- [ ] S1-CARBO conservée.
 
-[ ] Anniversary Activated! : branche Anniversary Edition active.
-[ ] All cracked up : Egg Guardian vaincu.
-[ ] Old Priest, Young Priest : Exorcism Bow obtenu.
-[ ] Put a Notch in It : quatre ceintures obtenues.
-[ ] Bling : six colliers obtenus.
-[ ] It's a Family Thing : Melfice de Garlan, degats Ryudo uniquement.
-[ ] Nut Grabber : 24 noix du dernier test.
-[ ] Professional Lepidopterist : campagne entiere en Hard.
-[ ] Steam : 36/36.
+CHAPITRE 1 — INOR MOUNTAINS ET AGEAR TOWN
 
-Le DLC et le online ne sont pas necessaires pour cette liste Steam. Si un
-succes de collection ne tombe pas, retire puis remets l'objet concerne et
-change de zone avant de revenir au menu des succes.
+INOR MOUNTAINS
+
+1. Coupe les champignons visibles pour les objets et la monnaie. Suis la route
+   sud-est, puis remonte les plateformes après l'éboulement.
+2. Les coffres importants contiennent Yomi's Elixir, Crystal Brooch et 50G. Le
+   Crystal Brooch est sur une petite plateforme accessible en longeant les leviers
+   de pierre ; ne passe pas directement au waypoint de sortie.
+3. Scanne les Dodos et utilise des techniques quand ils descendent au sol. Les
+   ennemis aériens sont un bon endroit pour entraîner les coups rapides de Ryudo.
+
+AGEAR TOWN
+
+1. À l'arrivée, visite la Guards' Tent avant l'auberge. Achète l'équipement de
+   Ryudo et d'Elena, puis stocke des potions et des antidotes.
+2. Parle à l'aubergiste pour déclencher les événements. Millenia rejoint le groupe
+   et Spicy Lady doit déjà être validé ; si ce n'est pas le cas, sauvegarde puis
+   recharge avant de quitter l'auberge.
+3. Explore les maisons, la tente et les coffres autour de l'entrée. Les objets
+   de statut sont plus importants que les petites sommes d'or.
+4. Avant Durham Cave, équipe Chaos Egg sur Millenia et Holy Egg sur Elena. Monte
+   le premier sort de soin et un sort d'annulation rapide.
+
+DURHAM CAVE
+
+1. Descends par le premier chemin, puis examine les éboulements. Les coffres
+   contiennent Medicinal Herb x3, Firebomb, Yomi's Elixir, 100G x2, Sleep Charm,
+   Poff Nut x2, Calming Harp, Stone Head, 300G et Torte's Reedpipe.
+2. Trouve Roan, puis bats les trois Troglodytes. Le Mist Egg est obtenu après ce
+   combat ; il ne peut pas être manqué si tu termines la quête.
+3. Le Durham Minotaur est le combat optionnel de la zone. Sauvegarde avant lui,
+   utilise des attaques Cancel et récupère son Adventure Book.
+4. More Than He Could Chew apparaît lorsque Roan est ajouté au groupe. On the
+   Podium apparaît après la médaille récupérée sur le Durham Minotaur.
+5. Ouvre chaque embranchement avant de sortir. Le passage bas contient les objets
+   de soins, la partie nord contient les pièces de monnaie et le chemin du boss
+   contient le livre.
+6. Level Up peut tomber dès le premier combat avec le groupe complet. Si le succès
+   ne s'affiche pas, gagne un niveau après Guard for Hire avec un personnage actif.
+
+CHAPITRE 2 — BAKED PLAINS ET LILIGUE CITY
+
+BAKED PLAINS
+
+1. Suis les colonnes de vapeur et repère les plateformes latérales. Les coffres
+   sont : 200G x4, Seed of Running, 600G x3, Dash Shoes, Seed of Psyche, Seed of
+   Power, Seed of Defense, Healing Herb, North Wind Cape, Poison Charm, Poff Nut,
+   Seed of Swift, Seed of Magic, Swiftness Nut et Shell Armor.
+2. Utilise les graines sur les personnages qui jouent le rôle correspondant :
+   Ryudo reçoit Power/Defense, Elena reçoit Psyche/Magic et Millenia reçoit
+   Swift/Running si tu veux accélérer la route Hard.
+3. Avant de quitter la deuxième zone, vérifie la plateforme de vapeur au milieu
+   du chemin ; le coffre y est entouré de sable et facile à contourner.
+
+LILIGUE CITY
+
+1. Dans la ville, parle aux habitants, au marchand, à l'aubergiste et à Gadan.
+   Achète les nouvelles armes, armures, accessoires et au moins 20 potions pour
+   commencer Weekend Bender sans vider les boutiques plus tard.
+2. Ouvre les coffres des maisons, du magasin et des chambres. Les clés sont
+   obtenues par les dialogues de Gadan et de l'auberge.
+3. En visitant l'église de Liligue, Mareg intervient plus tard dans la route.
+   Ne quitte pas la ville avant d'avoir contrôlé les livres et les coffres de la
+   salle du prêtre.
+4. Utilise l'auberge et crée S3-LILIGUE avant d'entrer dans Liligue Cave.
+
+LILIGUE CAVE
+
+1. Descends par la porte de la maison de Gadan. Les passages se séparent en
+   niveaux supérieur et inférieur ; ouvre d'abord les chambres latérales, puis
+   reviens au chemin de l'histoire.
+2. Fouille les caisses et les coffres : potions, pièces, Poff Nuts, accessoires
+   de glace et protections contre le poison. Le coffre le plus éloigné du tuyau
+   contient les récompenses uniques de la zone.
+3. Le boss Valmar's Tongue laisse le Book of Wizards. Sauvegarde avant la salle
+   finale ; Tasty Freeze se valide à sa défaite.
+4. Combat : Shh! peut réduire ses actions, Diggin' est utile avec la Gravity ou
+   Mist Egg, et les coups Cancel interrompent les segmentations de la cible.
+5. Après le combat, ouvre le coffre du boss et vérifie le menu des Skill Books.
+   Développe une première capacité du Book of Wizards pour utiliser les Magic
+   Coins, mais garde assez de coins pour l'Egg Farmer.
+
+CHAPITRE 3 — LUMIR FOREST, MIRUMU VILLAGE ET AIRA'S SPACE
+
+LUMIR FOREST
+
+1. Suis les racines et les chemins lumineux. Les coffres principaux contiennent
+   une Seed of Swift, des soins et des accessoires de statut ; les petits coffres
+   sont dans les culs-de-sac derrière les buissons.
+2. Prends tous les combats sur Hard et ouvre la boîte avant le pont vers Mirumu.
+   Les ennemis du bois donnent les derniers niveaux nécessaires à Party of 10.
+
+MIRUMU VILLAGE
+
+1. Explore les maisons et les pontons avant d'aller à la source. Achète les objets
+   de statut et parle à chaque villageois ; la route s'actualise après les scènes.
+2. Accède à Aira's Space et prépare S4-MIRUMU. Les coffres de la zone contiennent
+   les dernières herbes, un accessoire de résistance et le Gravity Egg.
+
+AIRA'S SPACE ET VALMAR'S EYE
+
+1. Dans Aira's Space, suis les couloirs en spirale et active tous les points de
+   sauvegarde. Les chambres latérales ont des pièces, des potions et des objets
+   pour la résistance à la magie.
+2. Le boss Valmar's Eye est accompagné d'Eyeball Bats. Endors ou gèle les bats,
+   puis concentre les attaques Cancel sur l'œil. Eye See You apparaît à la mort
+   de la cible.
+3. Récupère le Gravity Egg après la séquence et équipe-le sur un lanceur de sorts.
+   Développe au moins un sort de soin et un sort d'explosion.
+4. Le Book of Warriors tombe sur les Eyeball Bats de Mysterious Fissure plus
+   tard ; ne confonds pas les deux salles de combat.
+
+MYSTERIOUS FISSURE
+
+1. Entre dans la fissure après la route de Mirumu. Le chemin souterrain contient
+   des groupes d'Eyeball Bats et des coffres de soins, de pièces et d'accessoires.
+2. Bats le groupe de bats qui garde le coffre et récupère le Book of Warriors.
+   Utilise Allheal/Allhealer et les techniques de zone pour empêcher les bats de
+   multiplier les tours.
+3. Termine les couloirs et remonte vers St. Heim Mountains. Les monstres de cette
+   zone sont bons pour les compteurs Geohounded/Geohunted.
+
+CHAPITRE 4 — MAREG, ST. HEIM ET CYRUM
+
+1. À l'arrivée à Liligue Church, Mareg rejoint le groupe. Bloodhound apparaît.
+   Équipe-lui un livre de combat, un accessoire de défense et les techniques qui
+   consomment peu de SP.
+2. Dans St. Heim Mountains, suis le chemin des pèlerins. Ouvre les coffres sur
+   les corniches, au pied des statues et derrière les portes à sens unique.
+3. Dans St. Heim Papal State, visite les boutiques et l'auberge. Achète des
+   potions, des armes et un stock d'objets de résurrection avant Raul Hills.
+4. Le succès Gun Show se fait au bras de fer de Cyrum. Le premier combat avec
+   Hemble est une victoire sûre grâce à Elena ; reste ensuite pour gagner cinq
+   fois de plus si tu veux les récompenses. Dépense l'endurance en petites
+   pressions, recharge deux fois et maintiens l'attaque quand sa jauge descend.
+5. Dans Raul Hills (premier passage), ouvre les coffres de la route principale,
+   les plateaux nord et les recoins derrière les falaises. Ne cherche pas encore
+   le Death Maze : il n'est accessible qu'au second passage.
+
+CYRUM KINGDOM ET CYRUM CASTLE
+
+1. Dans Cyrum Kingdom, parle au marchand, à l'aubergiste et à tous les gardes.
+   Achète une arme et une armure pour chaque membre actif.
+2. Dans le château, explore les salles avant les escaliers : les coffres
+   contiennent des protections, des soins et des pièces. Crée S5-MELFICE avant
+   le combat contre Melfice.
+3. Tio rejoint le groupe après la première confrontation de l'arc du château.
+   Reprogrammed apparaît quand elle devient jouable ; équipe-lui un Mana Egg et
+   un accessoire d'IP.
+4. Pour Brotherly Love, termine le combat contre Melfice. Pour It's a Family
+   Thing, recharge S5-MELFICE, place Elena, Mareg et Tio en défense, soin ou
+   annulation, et laisse Ryudo infliger tous les dégâts.
+5. Itinéraire sans erreur pour It's a Family Thing :
+   - Ryudo attaque chaque partie ciblable avec Tenseiken Slash, Flying Dragon
+     Slash et ses techniques Cancel.
+   - Elena soigne, protège ou utilise des objets ; elle ne lance aucun sort
+     offensif et ne frappe jamais.
+   - Mareg et Tio utilisent défense, annulation, buffs et soins uniquement.
+   - Évite les dégâts de poison, les contres automatiques et les objets offensifs.
+   - Termine toutes les parties de Melfice puis attends les deux succès.
+
+CHAPITRE 5 — UNDERGROUND PLANT ET CECEILE REEF
+
+UNDERGROUND PLANT
+
+1. Dans le pipe maze, suis les tuyaux en boucle et ouvre les caisses à chaque
+   intersection. Le Forbear Necklace se trouve dans un passage latéral du maze.
+2. Garde S6-PLANT avant la salle du boss. Valmar's Claw et son bras peuvent
+   soigner ; détruis d'abord les petites parties qui accélèrent ses tours.
+3. Le Book of Gales tombe avec Valmar's Claw. Récupère-le avant de quitter la
+   salle et développe Dash/Aim For Counter pour renforcer le groupe.
+4. Claw Your Way to the Top se valide à la défaite. Utilise Allheal et annule
+   les soins de la griffe dès qu'ils apparaissent dans la timeline.
+
+CECEILE REEF
+
+1. Explore les plates-formes de corail dans l'ordre des ponts. Les coffres
+   contiennent le Soul Egg, des protections d'eau, des potions et des pièces.
+2. Le Coral Necklace se trouve juste avant le dernier point de sauvegarde de la
+   zone. Sauvegarde S6-REEF, prends-le, puis seulement avance vers le boss.
+3. Les Crimson Tails gardent le Soul Egg. Utilise les attaques de zone, annule
+   leurs sorts et récupère l'œuf après le combat.
+4. Le Soul Egg est le meilleur choix pour les sorts Wind/Water/Lightning d'un
+   personnage qui doit soigner et interrompre. Monte au moins un sort de soin.
+
+CHAPITRE 6 — GARLAN VILLAGE, GRAIL MOUNTAIN ET GHOSS FOREST
+
+GARLAN VILLAGE
+
+1. Parle à Gatta et récupère le Friends Necklace. Fais le tour des maisons,
+   magasins et docks avant d'ouvrir la route de Grail Mountain.
+2. Les coffres contiennent des armes de Mareg, des herbes, un accessoire de
+   résistance et les derniers objets de village. Ne vends pas les colliers.
+
+GRAIL MOUNTAIN
+
+1. Suis les plateformes de montagne, ouvre les coffres en hauteur et récupère
+   les potions de statut. Le Book of Swords se trouve après la progression de
+   l'arc de Melfice, dans la route de Grail.
+2. Développe une capacité du livre et équipe-la sur Ryudo. Les coups d'épée
+   rapides sont utiles pour les annulations des combats suivants.
+
+GH​​OSS FOREST WEST
+
+1. Explore les deux branches du bois et ouvre les coffres derrière les racines.
+   Les objets de soin et les accessoires de vent sont à prendre avant la sortie.
+2. Ne passe pas directement au village Nanan : la route s'ouvre par les branches
+   latérales et les raccourcis de la forêt.
+
+NANAN VILLAGE ET HUT OF TRIALS
+
+1. Dans Nanan Village, parle à l'ancien, au marchand et à Gatta. Fais le tour
+   des maisons et achète les potions bon marché pour Weekend Bender.
+2. Entre dans Hut of Trials. Descends jusqu'au monument, active le test et
+   ramasse les noix en passant dans la fenêtre centrale.
+3. Pour Nut Grabber, le test final affiche trois fenêtres successives. Approche
+   chaque piédestal et valide uniquement quand l'indicateur est au centre. Il
+   faut 24 noix ; une noix ratée n'annule pas la sauvegarde, mais recharge
+   S9-HUT si le score final est inférieur à 24.
+4. Termine le mini-jeu cinq fois au total pour obtenir le Book of War. Même si
+   Book of War n'est pas obligatoire pour l'histoire, il rend le niveau 50 et
+   les combats Hard plus confortables.
+5. Récupère la Nut of Light, puis ouvre les coffres du bas et de la plateforme de
+   sortie. Le Miracle Scales peut servir au farm d'or selon la récompense obtenue.
+
+GHOSS FOREST EAST ET LE BLACK BELT
+
+1. Dans Ghoss Forest East, prends la branche sous la grosse racine près de la
+   sortie. Le coffre contient le Black Belt ; c'est le premier objet de Put a
+   Notch in It.
+2. Termine les coffres de la zone : pièces, herbes et accessoires. Les monstres
+   du bois sont faciles à vaincre avec les sorts de zone de Millenia.
+
+CHAPITRE 7 — THE GREAT RIFT ET DEMON'S LAW
+
+THE GREAT RIFT
+
+1. Active chaque point de sauvegarde et explore les branches autour des ponts.
+   Les coffres de la faille contiennent des protections d'éléments, des pièces
+   et des potions de résurrection.
+2. Crée S6-DEMONS-LAW devant l'entrée. Demon's Law est le dernier vrai point où
+   plusieurs objets uniques peuvent disparaître après la progression.
+
+DEMON'S LAW
+
+1. Dans la première zone, suis les plateformes et prends la branche nord-est.
+   Le coffre en alcôve contient l'Exorcism Bow. Prends-le avant de continuer ;
+   Old Priest, Young Priest se valide dès que l'objet est ajouté.
+2. Ouvre les coffres des salles de statues, des escaliers et du couloir final.
+   Les objets sont surtout des protections contre les démons, des Seeds et des
+   accessoires d'éléments.
+3. Les Naga Queens gardent le Star Egg. Annule les attaques longues et détruis
+   les cibles qui invoquent ou soignent en premier. Récupère le Star Egg après la
+   victoire.
+4. Vérifie le menu de collection avant de quitter : Exorcism Bow, Holy/Chaos/
+   Mist/Gravity/Soul/Star Eggs et les colliers déjà obtenus doivent être présents.
+
+VALMAR'S BODY
+
+1. Dans Artery Passage, ouvre le maze à interrupteurs. Le Pretty Necklace est
+   obtenu par un Snow Leopard ou dans le switch maze ; prends le coffre lorsque
+   tu vois la salle de leviers.
+2. Dans Tentacle Passage, repousse les obstacles et ouvre les branches nord et
+   ouest. Crée S7-VALMAR juste avant le point de sauvegarde du Core.
+3. Valmar's Body et ses tentacules : détruis d'abord les tentacules, utilise les
+   soins de groupe et annule Suck In. Hot Body apparaît à la défaite du corps.
+4. Dans la suite de l'exploration, atteins Valmar's Heart. Tio peut annuler les
+   attaques des parties regroupées ; concentre les dégâts sur le cœur et surveille
+   les attaques de gaz. He Has One? se valide à la victoire.
+5. Ouvre tous les coffres des trois passages, notamment les salles de switch,
+   les plateformes sous les artères et le chemin qui mène au Core. Reviens sur
+   une branche avant chaque porte à sens unique.
+
+CHAPITRE 8 — VALMAR'S MOON, CYRUM REVISITÉ ET RAUL HILLS SPECIAL STAGE
+
+1. Après les scènes de St. Heim, explore Valmar's Moon. Les coffres contiennent
+   des armes finales, des Seeds, des protections de magie et des objets de
+   résurrection. Ne quitte pas la zone sans ouvrir les salles latérales.
+2. Retourne à Cyrum Kingdom. Les boutiques sont renouvelées : le Heracles' Belt
+   peut y être acheté. Achète-le dès que possible pour Put a Notch in It.
+3. Le second passage de Raul Hills ouvre le Special Stage. Crée S8-RAUL avant
+   d'entrer dans la zone de ruines et du Death Maze.
+4. Dans le Death Maze, évite les combats inutiles seulement si tu n'es pas en
+   Hard. Les démons lancent des sorts de zone ; équipe la résistance magique,
+   annule les grosses attaques et sauvegarde à chaque point disponible.
+5. Récupère le Fairy Egg dans la tour/zone finale du Special Stage. Il contient
+   les meilleurs soins et buffs du jeu.
+6. Récupère le Sonic Belt dans le Death Maze. Le Demon Necklace est aussi dans
+   cette zone. Equipe ou déséquipe les objets après l'acquisition si Put a Notch
+   in It ou Bling tarde à s'afficher.
+7. Si tu n'es pas niveau 50 avec les quatre personnages, récupère Soul of a Hero
+   dans la zone optionnelle pour doubler l'expérience. Termine les combats du
+   Special Stage et vérifie Geohounded/Geohunted.
+
+CHAPITRE 9 — BIRTHPLACE OF THE GODS ET EL​​MO
+
+1. Dans Birthplace of the Gods, explore le premier étage avant de monter. Visited
+   Elmo's World se valide en trouvant Elmo dans la zone de connaissance.
+2. Pour le Book of Sages et le Dragon Egg, allume les trois lumières, puis reviens
+   au premier étage. Éteins la Blue Earth, ouvre la salle de miroirs et pousse
+   les deux blocs de manière à aligner les ombres. Le coffre abaissé contient le
+   Dragon Egg ; l'autel avec les orbes contient le Book of Sages.
+3. Ouvre les coffres de chaque aile : Seeds, armes, armures et objets de fin de
+   jeu. Les salles de lumière ont des chemins qui se réinitialisent ; active les
+   points de sauvegarde avant de déplacer un bloc.
+4. Développe une compétence du Book of Sages et monte le Dragon Egg avec les
+   Magic Coins. Pour Egg Farmer, choisis un seul Mana Egg et développe toutes
+   ses capacités jusqu'au maximum, le Holy ou le Chaos Egg étant les plus simples.
+5. Pour Encyclopedia, développe toutes les capacités de l'Adventure Book ou du
+   Book of Wizards. Les compétences avec prérequis de niveau demandent d'abord
+   de monter les capacités de base.
+
+CHAPITRE 10 — NEW VALMAR ET FIN DE L'HISTOIRE
+
+1. Avant New Valmar, achète les équipements finaux, vends les consommables
+   ordinaires inutiles et garde les objets uniques. Crée S7-VALMAR-FINAL.
+2. Explore les couloirs de New Valmar dans l'ordre des ascenseurs. Ouvre tous les
+   coffres de l'Artery, de la salle des yeux, des couloirs de l'estomac et du
+   Core. Les objets sont les armes et accessoires de fin de jeu.
+3. Les boss Valmar's Tongue, Eye, Claw, Body, Heart et Core donnent les succès
+   correspondants. Utilise les techniques Cancel, les soins de groupe et les
+   résistances élémentaires ; ne laisse pas un segment soigner toute la salle.
+4. Valmar's Core : détruis les parties secondaires si elles accélèrent les tours,
+   puis frappe le Core avec Ryudo/Mareg et les sorts de Millenia/Tio. Bad Apple
+   apparaît à la victoire.
+5. Zera Valmar : débuffe son ACT, utilise Heel/Allheal, annule les sorts longs et
+   conserve les résurrections. Amateur Lepidopterist apparaît à la défaite.
+6. Termine le jeu sans changer de difficulté dans la partie Hard. Professional
+   Lepidopterist apparaît après l'écran de fin ; attends le retour au menu et la
+   notification avant de fermer le jeu.
+
+OBJETS UNIQUES — CONTRÔLE RAPIDE
+
+CEINTURES
+
+- Black Belt — Ghoss Forest East 2, sous la grande racine près de la sortie.
+- Heracles' Belt — boutique de St. Heim Papal State/Cyrum après le retour.
+- Hurricane Belt — coffre de fin de route/zone de magasin selon la progression ;
+  contrôle le vendeur final si le compteur n'est pas complet.
+- Sonic Belt — Raul Hills revisité, Death Maze.
+- Steam affiche officiellement Black, Heracles et Sonic ; récupère aussi
+  Hurricane pour couvrir le compteur interne de l'édition remasterisée.
+- Si le succès tarde : déséquipe les quatre ceintures, achète un accessoire
+  ordinaire, puis rééquipe Black, Heracles, Hurricane et Sonic.
+
+COLLIERS
+
+- Rune Necklace — équipé sur Millenia à son arrivée.
+- Forbear Necklace — Underground Plant, pipe maze.
+- Coral Necklace — Ceceile Reef, juste avant le dernier point de sauvegarde.
+- Friends Necklace — Garlan Village, donné par Gatta.
+- Pretty Necklace — Snow Leopard ou coffre du switch maze de Valmar's Body.
+- Demon Necklace — Raul Hills revisité, Death Maze.
+- Le succès Bling exige les six noms ; ne vends aucun collier en pensant qu'il
+  s'agit d'un accessoire ordinaire.
+
+MANA EGGS — 8/8
+
+- Holy Egg — Elena, équipement de départ.
+- Chaos Egg — Millenia, équipement de départ.
+- Mist Egg — récompense des trois Troglodytes de Durham Cave.
+- Gravity Egg — obtenu après Valmar's Eye/Aira's Space.
+- Soul Egg — récompense des Crimson Tails de Ceceile Reef.
+- Star Egg — récompense des Naga Queens de Demon's Law.
+- Fairy Egg — Raul Hills Special Stage, tour du Death Maze.
+- Dragon Egg — Birthplace of the Gods, coffre abaissé après le puzzle des lumières.
+
+SKILL BOOKS — 8/8
+
+- Adventure Book — Durham Minotaur, Durham Cave.
+- Book of Wizards — Valmar's Tongue, Liligue Cave.
+- Book of Warriors — Eyeball Bats, Mysterious Fissure.
+- Book of Gales — Valmar's Claw, Underground Plant.
+- Book of Priests — donné par Zera dans la route de St. Heim.
+- Book of Swords — Grail Mountain, après l'arc de Melfice.
+- Book of War — récompense du mini-jeu des noix de Hut of Trials.
+- Book of Sages — Birthplace of the Gods, coffre de l'autel avec les orbes.
+
+SUCCÈS MISCELLANEOUS ET NETTOYAGE
+
+- Fashionista : dans un combat facile, ouvre le menu d'équipement pendant le
+  tour d'un personnage. Change son arme, son accessoire et son Mana Egg avant
+  la prochaine action. Termine le tour ; les trois modifications doivent être
+  enregistrées pendant le même combat.
+- Weekend Bender : achète ou garde 100 Potions. Utilise-les en combat sur un
+  personnage qui n'est pas au maximum ou sur un allié faible ; chaque utilisation
+  compte, même si le soin est petit.
+- Penny Pincher : porte 250 000G en une fois. Équipe Miracle Scales si disponible,
+  puis farm les groupes de Desert Divers autour de Demon's Law. Vends les
+  consommables ordinaires et les doublons, jamais les objets de la checklist.
+- Ryudo, Party of 10/25/50 : garde le groupe complet, équipe Soul of a Hero pour
+  le dernier palier, et termine les zones plutôt que de fuir. Les quatre niveaux
+  doivent respecter le palier au même moment.
+- Geohounded/Geohunted : termine les combats sur Hard et vérifie les statistiques
+  après la fin. Si le premier run reste sous 2 000, relance une partie de
+  nettoyage et bats les groupes sur le chemin au lieu de chercher un farm risqué.
+- Gun Show : le premier bras de fer est assuré par Elena. Reste à Cyrum et gagne
+  une manche complète ; le succès n'exige pas de battre le champion final.
+
+PARTIE HARD — PROFESSIONAL LEPIDOPTERIST
+
+1. Lance une nouvelle partie en Hard et crée S10-HARD. Ne change jamais la
+   difficulté dans le menu, même pour une zone optionnelle.
+2. Fais les mêmes contrôles de coffres et d'objets que sur la route principale.
+   Hard augmente la fréquence des attaques, les PV et la défense des monstres,
+   ainsi que les PV et la fréquence des boss.
+3. Monte les techniques Cancel dès qu'elles deviennent disponibles. Donne à
+   Elena le Holy Egg, à Millenia le Chaos Egg, puis permute Soul/Fairy/Dragon
+   selon le boss.
+4. Achète des objets de soin dans chaque ville. Les menus de boutique ne sont
+   pas verrouillés par le mode Hard ; la préparation est plus rentable que le
+   farm aléatoire.
+5. Pour chaque boss : sauvegarde, annule l'attaque en préparation, retire les
+   petits segments qui soignent, puis utilise les buffs et les attaques de zone.
+6. Termine New Valmar et Zera Valmar sans quitter le mode Hard. Attends
+   Professional Lepidopterist après les crédits.
+
+AVANT LA FIN
+
+- [ ] Les 8 Mana Eggs et les 8 Skill Books sont dans l'inventaire.
+- [ ] Black, Heracles, Hurricane et Sonic Belts sont trouvées.
+- [ ] Coral, Demon, Forbear, Friends, Pretty et Rune Necklaces sont trouvés.
+- [ ] Exorcism Bow, Dragon Egg, Fairy Egg et Book of War sont contrôlés.
+- [ ] Hut of Trials : 24 noix réussies.
+- [ ] Melfice réservé à Ryudo terminé sur S5-MELFICE.
+- [ ] 250 000G atteints.
+- [ ] 100 Potions utilisées.
+- [ ] Le niveau 50 est atteint par les quatre personnages.
+- [ ] Hard est resté actif sur toute la partie dédiée.
+
+CHECKLIST FINALE — 36/36 SUCCÈS STEAM
+
+- [ ] The Bodyguard — Elena ajoutée au groupe.
+- [ ] Growth Spurt — un niveau gagné.
+- [ ] Guard for Hire — Elena escortée à Garmia Tower.
+- [ ] Spicy Lady — Millenia ajoutée au groupe.
+- [ ] Anniversary Activated! — branche Anniversary activée.
+- [ ] More Than He Could Chew — Roan ajouté au groupe.
+- [ ] On the Podium — médaille de Roan retrouvée.
+- [ ] Bloodhound — Mareg ajouté au groupe.
+- [ ] Ryudo, Party of 10? — groupe complet niveau 10.
+- [ ] Tasty Freeze — Valmar's Tongue vaincu.
+- [ ] Ryudo, Party of 25? — groupe complet niveau 25.
+- [ ] Eye See You — Valmar's Eye vaincu.
+- [ ] Gun Show — combat de bras de fer gagné.
+- [ ] Reprogrammed — Tio ajoutée au groupe.
+- [ ] Claw Your Way to the Top — Valmar's Claw vaincu.
+- [ ] Brotherly Love — Melfice vaincu.
+- [ ] Encyclopedia — Skill Book entièrement développé.
+- [ ] Geohounded — 1 000 monstres tués.
+- [ ] Egg Farmer — Mana Egg entièrement développé.
+- [ ] Hot Body — Valmar's Body vaincu.
+- [ ] He Has One? — Valmar's Heart vaincu.
+- [ ] Old Priest, Young Priest — Exorcism Bow trouvé.
+- [ ] All Cracked Up — Egg Guardian vaincu.
+- [ ] Ryudo, Party of 50? — groupe complet niveau 50.
+- [ ] Penny Pincher — 250 000G possédés.
+- [ ] Visited Elmo's World — Elmo trouvé.
+- [ ] Bad Apple — Valmar's Core vaincu.
+- [ ] Amateur Lepidopterist — Zera Valmar vaincu.
+- [ ] Geohunted — 2 000 monstres tués.
+- [ ] It's a Family Thing — Melfice vaincu avec les dégâts de Ryudo uniquement.
+- [ ] Professional Lepidopterist — partie terminée en Hard.
+- [ ] Fashionista — arme, accessoire et Mana Egg changés en combat.
+- [ ] Put a Notch in It — ceintures uniques trouvées.
+- [ ] Bling — six colliers uniques trouvés.
+- [ ] Weekend Bender — 100 Potions utilisées.
+- [ ] Nut Grabber — 24 noix prises dans le test final.
+
+VERIFICATION FINALE — CONTRÔLE DE CONTENU, HORS SUCCÈS STEAM
+
+- [ ] Witt Forest, Carbo, Black Forest, Garmia Tower et Inor Mountains balayés.
+- [ ] Agear, Durham Cave, Baked Plains, Liligue et Liligue Cave balayés.
+- [ ] Lumir, Mirumu, Mysterious Fissure, Aira's Space et St. Heim balayés.
+- [ ] Raul Hills, Cyrum, Underground Plant, Ceceile Reef et Garlan balayés.
+- [ ] Grail Mountain, Ghoss Forest, Nanan, Great Rift et Demon's Law balayés.
+- [ ] Valmar's Body, Valmar's Moon, Raul Special Stage et Birthplace of Gods
+      balayés.
+- [ ] New Valmar et les boss de fin terminés.
+- [ ] Les objets missables sont confirmés avant suppression des sauvegardes.
+- [ ] Les 36 notifications Steam sont visibles dans le profil.
+- [ ] Relecture sans spoiler narratif terminée.
+
+SOURCES DE CONTRÔLE
+
+- Liste officielle Steam des 36 succès :
+  https://steamcommunity.com/stats/330390/achievements
+- Fiche officielle Steam :
+  https://store.steampowered.com/app/330390/_HD/
+- Guide Steam des succès et ratables :
+  https://steamcommunity.com/sharedfiles/filedetails/?id=505687583
+- Liste des Mana Eggs :
+  https://steamcommunity.com/sharedfiles/filedetails/?id=506299417
+- Parcours complet et ordre des donjons :
+  https://gamefaqs.gamespot.com/ps2/530934-grandia-ii/faqs/80399
+
+FIN DE LA FICHE — CONTRÔLE 100 % STEAM
