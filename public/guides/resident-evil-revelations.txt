@@ -1,185 +1,606 @@
 RESIDENT EVIL REVELATIONS
-GUIDE CHRONOLOGIQUE 100 % STEAM - SANS SPOILER
+FICHE PREMIUM 100 % STEAM - ROUTE CHRONOLOGIQUE - SANS SPOILER NARRATIF
 
-Version de travail : 10 aout 2026
+Version verifiee : 11 aout 2026
+AppID Steam : 222480
+Perimetre : 50 succes Steam, campagne, 30 empreintes de main, scans Genesis,
+Infernal, mode Raid, Ghost Ship, rangs S, Trinity, armes super rares, niveaux,
+BP, kills et cooperation.
 
-Ce parcours couvre les 50 succes Steam, la campagne, le mode Raid et les
-defis de bonus. Il n'y a pas de DLC ni de succes a faire en ligne pour
-completer la liste. La seule exception pratique est Dynamic Duo : prevois un
-partenaire pour une action en cooperation du Raid si le partenaire controle
-par le jeu ne valide pas le succes dans ta version.
+Cette fiche donne les lieux et les actions necessaires sans raconter l'histoire.
+Les noms d'episodes, de zones, d'ennemis et de boss sont conserves uniquement
+comme reperes de navigation. Aucun twist, identite, issue ou mort n'est revele.
 
-OBJECTIF
+OBJECTIF DU 100 %
 
-[ ] 50/50 succes Steam.
-[ ] Campagne terminee en Normal ou plus, puis en Infernal.
-[ ] Les 30 empreintes de main trouvees dans l'ordre.
-[ ] Tous les ennemis et objets importants scannes avec Genesis.
-[ ] Raid : Chasm, Trench, Abyss, Ghost Ship, niveaux, S, Trinity et bonus.
+- Terminer les episodes 1 a 12.
+- Terminer la campagne en Normal ou plus, puis en Infernal.
+- Scanner les 30 empreintes de main avec Genesis.
+- Scanner chaque type d'ennemi necessaire a Research Complete.
+- Faire les succes de combat et les actions ponctuelles pendant la campagne.
+- Nettoyer les 20 stages Chasm, 20 stages Trench, 20 stages Abyss et Ghost Ship.
+- Obtenir les trois rangs S de Raid, les bonus, les niveaux 5 a 50,
+  les trois armes super rares, le million de BP et 10 000 eliminations.
+- Prevoir une vraie deuxieme personne pour Dynamic Duo si le succes ne se
+  valide pas avec un partenaire controle par le jeu.
+
+ORDRE RECOMMANDE DES PARTIES
+
+1. Campagne en Normal : collecte des empreintes, scans Genesis et succes de
+   combat. Fais aussi le sans-mort si tu te sens a l'aise.
+2. Si tu meurs pendant la route sans-mort, choisis de quitter vers le dernier
+   checkpoint au lieu de continuer la partie apres l'ecran de mort. Sinon,
+   reserve une nouvelle partie Normal dediee a Surviving Deep Darkness.
+3. Campagne en Infernal : utilise les armes, pieces et habitudes de la premiere
+   partie. L'objectif est uniquement de finir la difficulte.
+4. Raid Mode : Chasm, Trench, Abyss, puis Ghost Ship, avec les rangs S et les
+   bonus. Les niveaux, BP et kills se feront en grande partie naturellement.
+5. Nettoyage Raid : armes super rares, 150 bonus, 10 000 kills, million de BP,
+   tir a 100 000 degats et Dynamic Duo.
 
 GARDE-FOUS AVANT DE COMMENCER
 
-- Fais une premiere campagne en Normal. Les empreintes de main sont
-  persistantes, mais il n'y a pas de selection de chapitre : rate-en une et
-  il faudra reprendre une nouvelle campagne pour la recuperer.
-- Equipe Genesis des que possible et scanne chaque nouveau type d'ennemi
-  avant de le tuer. Le scan est plus fiable quand tu balayes une salle avant
-  d'avancer dans le script.
-- Garde une sauvegarde a chaque episode. Fais les defis de difficulte et le
-  parcours sans mort dans des parties dediees : ne melange pas une contrainte
-  avec la collecte des empreintes.
-- Pour les actions de campagne, ne depense pas les munitions rares avant le
-  defis correspondant. Les succes de Raid peuvent etre nettoyes apres la
-  campagne, sans recommencer l'histoire.
-- Les noms de lieux, d'episodes et d'ennemis servent uniquement a te guider.
-  Aucune identite, issue, mort, retournement ou revelation narrative n'est
-  expliquee ici.
-
-ORDRE CONSEILLE DES PARTIES
-
-1. Campagne Normal : empreintes, scans, objets et succes specifiques.
-2. Campagne Normal sans mort si le succes n'est pas tombe naturellement.
-3. Campagne Infernal : connaitre les salles et les sauvegardes avant de la
-   lancer. Les bonus d'armes du Raid rendent le nettoyage independant.
-4. Raid Mode : Chasm, Trench, Abyss, Ghost Ship, bonus et niveaux 50.
-5. Nettoyage : S, Trinity, armes super rares, BP, kills et cooperation.
+- Genesis est la cle de la route : balaie chaque nouvelle salle avant de
+  franchir la porte de progression et scanne chaque nouvel ennemi avant de le
+  tuer quand le combat te le permet.
+- Une empreinte est enregistree au moment du scan et disparait ensuite de la
+  sauvegarde. Utilise la liste numerotee ci-dessous et ne valide jamais un
+  episode sans verifier le compteur correspondant.
+- Les empreintes ne sont pas toutes dans la zone principale : certaines sont
+  dans une salle optionnelle, sur une vitre, un casier, un tableau, un drapeau,
+  une machine ou un objet plat. Si Genesis ne reagit pas, change l'angle.
+- Pour les succes ponctuels, fais une sauvegarde avant la sequence : Rachael,
+  Scarmiglione, le Scagdead, la grenade a trois ennemis et Malacoda.
+- Pour le sans-mort, une mort acceptee par Continue compte comme une mort. Quitte
+  vers le dernier checkpoint et reprends avant de poursuivre.
+- Ne depense pas toutes les grenades avant Rachael, ni toutes les munitions
+  fortes avant Malacoda. Le but est de garder une marge, pas de jouer chaque
+  combat au couteau.
+- Les rangs S, Trinity et les niveaux de Raid ne sont pas des objectifs de
+  campagne. Fais-les dans leur mode dedie avec un equipement adapte.
+- Aucun mod, editeur de sauvegarde ou outil tiers n'est necessaire. Pour un
+  succes qui refuse de tomber, recharge une sauvegarde propre et refais
+  l'action dans le jeu.
 
 MISSABLES ET FENETRES A SECURISER
 
-- Les 30 empreintes et les scans sont les missables principaux de la campagne :
-  il n'y a pas de selection de chapitre, donc garde la sauvegarde de chaque
-  episode jusqu'a verification.
-- Rachael avant la cafeteria, les extractions de Genesis, la grenade a trois
-  ennemis, le projectile au couteau et Malacoda sans lance-roquettes sont des
-  tentatives a faire avant de quitter leur zone.
-- Les objectifs de difficulte, sans mort et Infernal se font apres la route de
-  collecte ; le Raid n'est pas missable et se nettoie a part.
+- Les 30 empreintes sont les collectibles les plus faciles a manquer : elles
+  sont donnees dans l'ordre exact des episodes plus bas. Scanne-les avant de
+  franchir la porte de sortie de leur zone et verifie le compteur 4, 9, 15,
+  21, 23, 27 et 30.
+- By the Crosshairs est manquable dans l'episode 4-1 : Rachael doit etre
+  vaincue avant la cafeteria. Sauvegarde avant la poursuite.
+- The Pool Is Open depend de l'appareil de purification active en 3-2 puis de
+  la baignade en 4-1. Ne quitte pas le Solarium sans faire les deux actions.
+- A Packaged Deal, Triple Play, Living on the Edge, Die Another Day et Rockets
+  are for Losers ont chacun une fenetre de combat. Fais une sauvegarde avant
+  chaque tentative et recharge si la condition n'est pas validee.
+- Research Complete peut etre rate si une variante ou une forme de boss n'est
+  pas scannee. Le registre Genesis de cette fiche sert de controle de rattrapage.
+- Surviving Deep Darkness est manquable pendant la partie sans mort : apres une
+  mort, quitte vers le checkpoint au lieu d'accepter Continue.
+- Aucun succes Raid n'est narrativement manquable, mais Gutsy est plus simple
+  avant de depasser les niveaux bas et Dynamic Duo demande un partenaire.
 
-PARTIE 1 - CAMPAGNE NORMALE, EPISODES 1 A 3
+REGLES DE GENESIS ET REGISTRE DE SCANS
 
-Episode 1
+Pour Research Complete, scanne les types suivants. Le registre est volontairement
+redondant : scanne un ennemi avant le combat, puis une deuxieme fois apres sa
+transformation ou son changement de forme lorsqu'il y en a un.
 
-- Scanne le premier ennemi avant de l'abattre. Continue a scanner chaque
-  variante au premier passage ; si le scan est rate, ne supprime pas la
-  sauvegarde d'avant la salle.
-- Recupere l'empreinte 1 sur la cote : caisse verte FBC pres du quai.
-- Dans le premier grand navire, garde Genesis actif dans les couloirs et les
-  pieces optionnelles. Fais les 20 esquives au fil de la campagne plutot que
-  de les forcer sous les degats.
-- Pour By the Crosshairs, elimine Rachael avant d'entrer dans la cafeteria.
-  Fais une sauvegarde avant la poursuite et n'avance pas dans la piece cible
-  tant que le compteur n'est pas valide.
+[ ] Globster
+[ ] Ooze
+[ ] Tricorne Ooze
+[ ] Pincer Ooze
+[ ] Fenrir
+[ ] Black Fenrir
+[ ] Hunter
+[ ] Farfarello
+[ ] Wall Blister
+[ ] Ghiozzo
+[ ] Sea Creeper
+[ ] Scagdead
+[ ] Chunk Ooze
+[ ] Scarmiglione - forme complete
+[ ] Scarmiglione - forme basse apres separation
+[ ] Rachael Ooze
+[ ] Draghignazzo
+[ ] Malacoda - tentacule au debut du combat
+[ ] Norman Mutant
 
-Episode 1.3 - empreintes 2 a 4
+Conseil de validation : le jeu peut compter une variante comme deja analysee
+apres un scan voisin, mais la methode la plus sure est de scanner chacune des
+entrees ci-dessus quand elle apparait. Si Research Complete ne tombe pas, ne
+recommence pas au hasard : compare la liste a tes rapports Genesis et refais la
+premiere apparition du type manquant.
 
-- #2 : couloir des quartiers de l'equipage, apres le premier conduit, sur le
-  mur bas marque par du sang.
-- #3 : cafeteria, pres du distributeur et du mur du fond.
-- #4 : salle d'examen, sur le tableau blanc / panneau d'examen.
-- Utilise Genesis dans la salle de la cafeteria avant de quitter la zone.
-  C'est aussi le bon moment pour viser les dix tirs a la tete d'Ooze et les
-  dix attaques de melee chargees.
+PARTIE 1 - CAMPAGNE NORMALE - EPISODES 1 A 3
 
-Episode 2.1 - empreintes 5 et 6
+EPISODE 1 - INTO THE DEPTHS
 
-- #5 : cockpit de l'avion ecrase.
-- #6 : derniere portion du couloir rocheux avant la chute de Chris, pres des
-  stalactites.
-- Scanne les ennemis de la zone de l'avion, puis conserve une sauvegarde
-  avant la salle de combat. Termine le chapitre sans laisser de scan en
-  attente.
+Episode 1-1
 
-Episode 2.2 - empreintes 7 a 9
+- Fais un tour complet de la plage et des couloirs avant chaque porte de
+  progression. Genesis revele les objets caches qui ne brillent pas.
+- Il n'y a pas d'empreinte dans cette sous-partie.
+- Scanne le premier ennemi avant de le tuer. Cette premiere analyse valide
+  Researcher.
+- Garde une sauvegarde avant la premiere longue section de combat : elle sert
+  de point de depart si tu dois refaire un scan ou une esquive.
 
-- #7 : salle a manger, sur la dinde posee sur la table.
-- #8 : salle de bain de la piece de depart.
-- #9 : salle de controle du pont, fenetre tout a droite derriere les postes.
-- Pour A Packaged Deal, apprends le comportement de l'ennemi a plusieurs
-  parties : il faut vaincre la cible sans detruire separement ses parties.
-  Fais-le en Normal avec une sauvegarde juste avant le combat.
+Episode 1-2 - empreinte 1
 
-Episode 3.2 - empreintes 10 a 15
+- Empreinte 1 : sur la face avant du conteneur de stockage FBC, dans le coin
+  nord-ouest de la plage, juste apres la sortie du tunnel.
+- Scanne l'empreinte en entier avec Genesis ; un simple balayage qui s'interrompt
+  ne valide pas le compteur.
+- Avant de partir, balaie les rochers, le conteneur et la zone autour du quai.
 
-- Six empreintes sont reparties dans le parcours urbain : controle Genesis
-  dans la salle de commandement, le hall principal, la rue exterieure, le
-  bureau, la ruelle et la place avant de franchir chaque porte de progression.
-- La methode sure est de scanner les murs, vitrines, affiches et panneaux
-  apres chaque changement de zone. L'empreinte apparait comme une marque
-  blanche au balayage ; ne te fie pas seulement a la couleur de la piece.
-- Termine les objectifs de melee et de scans avant de quitter cet episode.
+Episode 1-3 - empreintes 2 a 4
 
-PARTIE 1 - EPISODES 4 A 6
+- Empreinte 2 : Crew Quarters, dans le couloir pres de la porte du Small Stock
+  Room, sur le mur bas marque par le sang. Reviens dans la piece ou un ennemi
+  est passe dans une bouche d'aeration, puis franchis la porte suivante.
+- Empreinte 3 : Dining Hall / cafeteria, sur la machine distributrice du snack
+  bar. Utilise Genesis en regardant la machine, pas seulement le mur du fond.
+- Empreinte 4 : Doctor's Station, sur le tableau de radiographie dans le coin
+  nord-ouest de la salle.
+- Le compteur attendu a la fin de l'episode 1 est 4/30. Ne quitte pas la zone
+  si tu n'as pas ces quatre validations.
+- Scanne Ooze, Tricorne Ooze et Pincer Ooze a leur premiere apparition. Si une
+  variante tire a distance, elimine d'abord les autres ennemis pour pouvoir
+  garder Genesis braque dessus.
 
-Episode 4.1 - empreintes 16 a 18
+EPISODE 2 - DOUBLE MYSTERY
 
-- Fouille la salle de controle, les passerelles et le couloir adjacent avec
-  Genesis avant de relancer la progression. Les trois empreintes sont dans
-  ces transitions de la zone.
-- Fais le succes de grenade a impulsion en regroupant trois ennemis dans une
-  meme explosion. Sauvegarde avant d'essayer : la distance est plus simple a
-  regler avec un ennemi deja immobilise.
-- Pour stop the bullet, attends un projectile simple et intercepte-le avec le
-  couteau. N'utilise pas une arme a feu pour cette tentative.
+Episode 2-1 - empreintes 5 et 6
 
-Episode 5.1 et 5.2 - empreintes 19 et 20
+- Empreinte 5 : cockpit de l'avion ecrase, directement sur la console.
+- Empreinte 6 : dans la grotte, apres le pont en bois et le combat des loups,
+  dans l'alcove a gauche, pres des stalactites, avant de reprendre le chemin.
+- Scanne Fenrir avant de le tuer. Scanne aussi Black Fenrir lorsqu'il apparait
+  plus loin ; ne suppose pas que le premier scan de loup couvre la variante.
+- Fouille le cockpit, la grotte et l'arene de combat avec Genesis avant la
+  transition. Le compteur doit passer a 6/30.
 
-- #19 : Episode 5.1, dans la piece de transition apres le passage de combat.
-- #20 : Episode 5.2, dans la zone interieure avant de repasser vers le navire.
-- Scanne les ennemis amphibies et les variantes volantes avant la fin de leur
-  apparition. Conserve les munitions de lance-roquettes pour le nettoyage et
-  ne tente pas encore Rockets are for Losers sous pression.
+Episode 2-2 - empreintes 7 a 9
 
-Episode 6.2 - empreinte 21
+- Empreinte 7 : Dining Hall, sur la dinde posee sur la grande table au nord-est.
+  Oriente-toi face au double escalier pour la reperer.
+- Empreinte 8 : dans la salle ou Jill se reveille, entre dans la salle de bain
+  et vise l'interieur de la douche.
+- Empreinte 9 : Bridge, sur une vitre du cote ouest, a droite de la console
+  d'objectif. Scanne-la avant d'utiliser les commandes du pont.
+- Scanne Hunter, puis toute nouvelle variante qui apparait dans les couloirs.
+- Le compteur attendu a la fin de l'episode 2 est 9/30.
 
-- #21 : Episode 6.2, sur le trajet de retour, dans la piece de controle avant
-  le prochain sas.
-- Pour That'll Leave a Mark, utilise une arme chargee et vise un tir
-  critique. Pour The Dark Forest, la difficulte minimale est Normal+ : fais
-  cette tentative dans une sauvegarde dediee.
+EPISODE 3 - GHOSTS OF VELTRO
 
-PARTIE 1 - EPISODES 7 A 9
+Episode 3-1
 
-Episode 7.1 et 7.2 - empreintes 22 et 23
+- Il n'y a pas d'empreinte dans cette sous-partie.
+- Dans les zones ouvertes et les petites pieces, fais une boucle Genesis avant
+  chaque interaction importante. Le scanner revele aussi des munitions et des
+  pieces utiles pour Infernal.
 
-- #22 : Episode 7.1, dans la salle de transition avant la section suivante.
-- #23 : Episode 7.2, dans la zone de commande apres le changement de point de
-  vue.
-- Verifie chaque objet Genesis et avance lentement dans les couloirs a
-  portes. Les ennemis rares comptent pour Researcher et B.O.W. Hunter.
+Episode 3-2 - empreintes 10 a 15
 
-Episode 8.3 - empreintes 24 a 26
+- Empreinte 10 : Grand Hall, etage 2, sur le mur directement en face de la
+  porte du Communications Room.
+- Empreinte 11 : salle de purification du Solarium, sur le boitier electrique
+  du mur. Active ensuite l'appareil de purification de la piscine : cette
+  action prepare l'empreinte 16 et The Pool Is Open.
+- Empreinte 12 : Grand Hall, rez-de-chaussee, dans l'alcove au nord-est de la
+  piece, derriere l'escalier.
+- Empreinte 13 : Promenade Deck, dans la zone principale, sur les placards
+  au-dessus de l'evier de cuisine, du cote nord-ouest de la barricade.
+- Empreinte 14 : Promenade Deck 2F, dans le Stock Room, sur les grandes caisses
+  empilees dans le coin de la piece.
+- Empreinte 15 : Foredeck Interior, sur le set de table de la table avec le
+  verre de vin renverse, cote sud de la salle.
+- Le compteur attendu a la fin de l'episode 3 est 15/30. Cette verification
+  donne aussi Traces of Tragedy et debloque le fusil PSG-1.
+- Scanne Wall Blister, Ghiozzo, Sea Creeper et Chunk Ooze lorsqu'ils entrent
+  dans le registre. Pour un boss, scanne la cible avant de commencer le DPS.
 
-- Trois empreintes sont dans la zone de laboratoire : casier / salle
-  secondaire, aquarium et arche du premier tunnel. Fais le balayage avant de
-  franchir la porte de sortie.
-- Pour Meteoric Rise, augmente le rang Raid apres la campagne ; ne gaspille
-  pas une tentative de campagne en cherchant un score de vitesse.
+PARTIE 2 - CAMPAGNE NORMALE - EPISODES 4 A 6
 
-Episode 9.2 - empreinte 27
+EPISODE 4 - A NIGHTMARE REVISITED
 
-- #27 : laboratoire secret, sur l'ordinateur de la morgue.
-- Fais Research Complete lorsque toute la serie de scans est validee. Si un
-  type manque, consulte la liste de scans du chapitre plutot que de continuer
-  au hasard.
+Episode 4-1 - empreintes 16 a 18
 
-PARTIE 1 - EPISODES 10 A 12
+- Empreinte 16 : Solarium purifie, saute dans la piscine et nage jusqu'au
+  tremplin au sud. Le scan est au bout du plongeoir. Si la piscine n'a pas ete
+  purifiee en 3-2, le passage reste inaccessible.
+- Cette baignade valide The Pool Is Open. Fais-la avant de poursuivre vers le
+  Casino.
+- Empreinte 17 : Casino, derriere les escalators, sur le cote gauche de la
+  deuxieme machine a sous en partant de la droite.
+- Empreinte 18 : retour aux Crew Quarters, dans le Stock Room ou se trouve le
+  drapeau Veltro, sur le drapeau suspendu au mur sud.
+- Scanne Scagdead pendant la premiere rencontre. Reste a courte distance,
+  attends l'attaque d'execution et esquive-la pour Die Another Day.
+- Rachael : fais une sauvegarde avant de lire le document qui lance la poursuite.
+  Pendant la course a travers les Crew Quarters, utilise grenades, fusil et
+  munitions fortes. Elle doit etre vaincue avant d'atteindre la cafeteria pour
+  By the Crosshairs. Si elle passe la porte de la cafeteria, recharge.
+- Scarmiglione : fais une sauvegarde avant la rencontre. Pour A Packaged Deal,
+  vise rapidement le corps complet, notamment a la carabine ou au magnum, et
+  evite de detruire une partie puis l'autre separement. Le resultat doit tomber
+  pendant la mort d'une cible intacte.
 
-- Les deux derniers passages servent a la verification des scans, aux boss
-  et aux empreintes finales. Garde les succes de combat pour une sauvegarde
-  dediee si tu veux une route propre.
-- #28 : Episode 11.1, plateforme de l'epave / zone de chaudiere.
-- #29 : Episode 12.1, salle a manger, mur tache de sang.
-- #30 : Episode 12.1, a la base du trone, juste avant la sortie de la zone.
-- Pour Rockets are for Losers, termine le combat Malacoda sans utiliser le
-  lance-roquettes. Pour A Packaged Deal, le combat doit rester conforme a la
-  contrainte de la premiere tentative ; recharge si le compteur n'apparait
-  pas.
-- Termine la campagne en Normal pour The Shores of Purgatory, puis garde la
-  sauvegarde de clear avant tout nettoyage. The Unbroken Thread et Three is
-  the Magic Number se font ensuite dans Raid avec les bonus No Damage et
-  Trinity.
+Episode 4-2
 
-SUCCES DE CAMPAGNE A VERIFIER
+- Aucun nouveau numero d'empreinte. Profite du retour dans le navire pour
+  verifier Genesis dans les pieces revisitees et les zones de combat.
+- Termine les dix tirs a la tete d'Ooze avec le pistolet sur des cibles isolees.
+  Les variantes a bouclier ou a projectile ne sont pas des Ooze standard.
+- Commence les attaques physiques chargees : etourdis un ennemi, approche-toi,
+  maintiens l'attaque jusqu'a la charge complete, puis frappe. Une frappe
+  interrompue ne compte pas pour Angry Fist.
+
+EPISODE 5 - SECRETS UNCOVERED
+
+Episode 5-1 - empreinte 19
+
+- Empreinte 19 : Projector Room de l'aeroport, sur le coin inferieur droit de
+  l'ecran de projection. Genesis est obligatoire.
+- Scanne Farfarello avant de le tuer. Comme il peut etre difficile a voir,
+  utilise le scanner des que tu entends son deplacement mais avant de vider la
+  piece.
+- Balaye la salle de projection et ses coins avant la sortie ; la marque est
+  sur l'ecran, pas sur la table.
+
+Episode 5-2 - empreinte 20
+
+- Empreinte 20 : plate-forme inferieure du Freight Lift, dans le coin nord-est,
+  sur la couverture du scrapbook pose sur une table.
+- Scanne l'objet avant de reprendre l'ascenseur. Si tu passes directement a la
+  zone suivante, l'empreinte reste recuperable en revisitant la plate-forme,
+  mais il est plus sur de la prendre maintenant.
+- Scanne toute nouvelle variante aerienne et les ennemis amphibies avant le
+  combat final de la section.
+
+EPISODE 6 - CAT AND MOUSE
+
+Episode 6-1
+
+- Il n'y a pas de nouvelle empreinte dans cette sous-partie.
+- Garde Genesis en main dans les salles de controle et les zones de retour.
+  Les scans peuvent compter meme lorsque le groupe d'ennemis est deja engage.
+
+Episode 6-2 - empreinte 21
+
+- Empreinte 21 : Antenna Platform, sur le panneau de controle de l'antenne.
+  Scanne le panneau avant de retirer ou de reparer la boite electrique.
+- Verifie le compteur : 21/30.
+- Scanne Draghignazzo avant le combat, puis refais un balayage apres la mort si
+  Research Complete n'est pas encore tombe. Ne gaspille pas tes grenades si tu
+  n'as pas encore fait le succes de grenade a trois ennemis.
+
+PARTIE 3 - CAMPAGNE NORMALE - EPISODES 7 A 9
+
+EPISODE 7 - THE REGIA SOLIS
+
+Episode 7-1 - empreinte 22
+
+- Empreinte 22 : Foredeck, au bout de la passerelle tout a l'avant du navire,
+  au sol pres du bord.
+- La position est dans la zone du conteneur UAV. Fais le tour de la proue
+  avant de lancer l'interaction qui fait avancer la mission.
+
+Episode 7-2 - empreinte 23
+
+- Empreinte 23 : Control Room du Freight Lift, sur la vitre qui donne sur la
+  cale. Entre dans la petite salle de controle et vise la fenetre.
+- Profite de ce passage pour realiser Triple Play : regroupe trois Ghiozzo ou
+  trois ennemis faibles et lance une seule grenade a impulsion. Fais une
+  sauvegarde juste avant, car une grenade ratee ne se recupere pas.
+- Continue a scanner les variantes invisibles et rapides avant de les abattre.
+
+EPISODE 8 - ALL ON THE LINE
+
+Episode 8-1 et 8-2
+
+- Il n'y a pas d'empreinte dans ces deux sous-parties.
+- Dans la section aquatique, remonte dans chaque salle seche avant de sortir
+  vers l'objectif. Genesis peut detecter les ennemis dans l'eau avant qu'ils
+  atteignent le joueur.
+
+Episode 8-3 - empreintes 24 a 26
+
+- Empreinte 24 : Changing Room de l'Epidemic Prevention Block, sur la face
+  avant d'un casier du cote sud, de preference celui sans combinaison visible.
+- Empreinte 25 : Aquarium Laboratory, sur la vitre de l'aquarium pres des
+  traces de sang.
+- Empreinte 26 : Entrance Tunnel du laboratoire, sur le cote nord de l'arche
+  la plus a l'ouest apres l'ascenseur.
+- Scanne la nouvelle variante a bouclier et les ennemis du laboratoire avant
+  de franchir la derniere porte. Le compteur doit etre 26/30.
+
+EPISODE 9 - NO EXIT
+
+Episode 9-1
+
+- Il n'y a pas d'empreinte dans cette sous-partie.
+- Fais le tour des pieces du laboratoire et scanne les ennemis avant d'activer
+  la console. Ne quitte pas une salle en supposant qu'elle sera revisitee.
+
+Episode 9-2 - empreinte 27
+
+- Empreinte 27 : Experiment Room du laboratoire, sur le mur au-dessus de
+  l'ordinateur dans le coin sud-ouest. Entre dans la salle, place-toi derriere
+  le poste et leve Genesis vers le mur.
+- Compare le registre de scans aux 18 lignes de cette fiche. Si Research
+  Complete n'est pas tombe, la cible manquante est presque toujours une
+  variante analysee trop tard ou une forme de boss non scannee.
+
+PARTIE 4 - CAMPAGNE NORMALE - EPISODES 10 A 12
+
+EPISODE 10 - REVELATIONS
+
+- Il n'y a pas d'empreinte dans cet episode.
+- C'est un bon moment pour une sauvegarde de securite avant les dernieres
+  sequences de campagne. Garde les munitions de magnum et de fusil pour les
+  combats ou Rockets are for Losers demande un combat sans lance-roquettes.
+
+EPISODE 11 - REVELATIONS - empreinte 28
+
+- Empreinte 28 : au debut de l'episode, sur le cylindre / la chaudiere qui
+  depasse des debris au milieu de la plateforme du combat.
+- Scanne Malacoda sur un tentacule des le debut de la rencontre.
+- Pour Rockets are for Losers, n'utilise jamais le lance-roquettes qui tombe
+  pendant le combat. Tue la cible avec tes propres armes et les munitions
+  preparees. Si tu prends le lance-roquettes par erreur, recharge.
+- Scanne Norman Mutant avant de le tuer. Si la cible change de forme, fais un
+  nouveau balayage avant la phase suivante.
+
+EPISODE 12 - THE QUEEN IS DEAD - empreintes 29 et 30
+
+- Empreinte 29 : Dining Room, sur le mur couvert de traces de sang au-dela de
+  la table entouree de corps.
+- Empreinte 30 : derniere salle de combat, au pied des marches detruites devant
+  le trone. Scanne-la avant la fin du combat final.
+- Le compteur attendu est 30/30. Les paliers First Victim, Traces of Tragedy
+  et Last Victim doivent etre valides ; si le dernier ne tombe pas, compare le
+  numero du compteur et ne rescane pas une marque deja enregistree.
+- Termine la campagne en Normal pour The Dark Forest et The Shores of Purgatory.
+  La fin de cette partie peut aussi valider Surviving Deep Darkness si aucune
+  mort n'a ete acceptee par Continue.
+
+OBJECTIFS DE CAMPAGNE - METHODES SURES
+
+- Researcher : Genesis sur le premier ennemi de la partie.
+- B.O.W. Hunter : 150 ennemis en campagne. Il tombe normalement avant la fin ;
+  ne farm pas au debut au risque de manquer des scans.
+- Dodge Master : 20 esquives reussies. Entraine-toi sur des attaques lisibles,
+  sans attendre la derniere seconde d'un combat de boss.
+- Bamboozle the Oozes : dix Oozes standard acheves par tir a la tete. Utilise
+  le pistolet, isole la cible et fais le dernier tir sur la tete.
+- Angry Fist : dix attaques physiques pleinement chargees. L'indicateur de
+  charge doit aller jusqu'au bout avant le coup.
+- Living on the Edge : attends un projectile d'un Tricorne Ooze et coupe-le
+  avec le couteau. Elimine les autres ennemis avant de tenter l'interception.
+- Die Another Day : reste proche d'un Scagdead, lis son attaque d'execution et
+  esquive-la au dernier moment. Une esquive ordinaire ne suffit pas.
+- Triple Play : trois ennemis touches par une seule grenade a impulsion. Les
+  Ghiozzo en groupe sont la cible la plus simple.
+- A Packaged Deal : vaincre Scarmiglione sans detruire ses deux parties l'une
+  apres l'autre. Fais plusieurs tentatives depuis une sauvegarde avant combat.
+- By the Crosshairs : Rachael doit tomber avant la cafeteria, pendant l'episode
+  4-1. Degats rapides, grenades conservees et aucune perte de temps.
+- Rockets are for Losers : Malacoda sans le lance-roquettes fourni par la
+  sequence. Les armes deja dans l'inventaire sont autorisees.
+- Surviving Deep Darkness : fin Normal ou superieure sans accepter une mort.
+- The Dark Forest : fin Casual ou superieure. Normal valide aussi ce succes.
+- The Shores of Purgatory : fin Normal ou superieure.
+- The Vestibule of Hell : fin Infernal. Les empreintes et scans ne sont pas
+  necessaires dans cette partie si la campagne Normal est deja propre.
+
+PARTIE 5 - CAMPAGNE INFERNAL
+
+PREPARATION
+
+- Termine d'abord la campagne Normal et conserve la sauvegarde de fin.
+- Equipe les armes et pieces debloquees, puis reserve plusieurs emplacements
+  d'inventaire aux munitions de fusil, magnum, grenades et soins.
+- Ne cherche pas les rangs ni les bonus de temps. Infernal demande de survivre,
+  pas de faire un speedrun.
+- Les empreintes deja scannees et les scans valides ne doivent pas etre refaits.
+
+ROUTE
+
+- Episodes 1 a 3 : avance lentement, Genesis sur les angles et les plafonds,
+  utilise les barils et garde une arme de secours pour les couloirs.
+- Episodes 4 a 6 : fais les detours du Solarium seulement si tu as besoin de
+  ressources ; Rachael peut etre ignoree pour l'objectif Infernal si son succes
+  est deja valide.
+- Episodes 7 a 9 : ne force pas les groupes. Les ennemis rapides sont plus
+  dangereux que les ennemis resistants ; recule vers une porte sure.
+- Episodes 10 a 12 : garde les munitions fortes pour les boss. Une mort acceptee
+  n'annule pas Infernal, mais recharge le dernier checkpoint pour ne pas perdre
+  une bonne tentative.
+- La fin de la campagne valide The Vestibule of Hell. Si le succes n'apparait
+  pas au menu, ferme puis relance Steam avant de refaire la derniere section.
+
+PARTIE 6 - RAID MODE - STRUCTURE ET ORDRE
+
+Le Raid comprend trois difficultes de 20 stages : Chasm, Trench et Abyss, puis
+le stage bonus Ghost Ship. Les stages se jouent dans le menu Raid et ne suivent
+pas la progression de la campagne. Les succes de voyage demandent de terminer
+tous les stages d'une difficulte ; les succes Overseer demandent le rang S sur
+tous les stages de cette difficulte.
+
+ORDRE DE NETTOYAGE
+
+1. Chasm 1 a 20 : termine tous les stages, puis refais-les pour les rangs S et
+   les Trinity faciles. Cette etape donne First Circle Traveler et First Circle
+   Overseer.
+2. Monte progressivement jusqu'aux niveaux 5, 10 et 20. Fais Gutsy avant de
+   depasser le niveau requis pour les stages bas niveau.
+3. Trench 1 a 20 : termine tous les stages, puis vise S. Cette etape donne
+   Midland Traveler et Midland Overseer.
+4. Abyss 1 a 20 : utilise les armes et pieces super rares obtenues. Termine
+   tous les stages, puis vise S. Cette etape donne Seventh Circle Traveler et
+   Seventh Circle Overseer.
+5. Ghost Ship : garde-le pour la fin. C'est le stage bonus le plus exigeant ;
+   un equipement complet et un partenaire rendent la tentative plus realiste.
+6. Pendant les repetitions, depense les BP dans la boutique, ouvre les cases
+   d'armes et conserve les nouvelles armes super rares. Les paliers de niveau
+   30, 40 et 50, le million de BP et 10 000 kills tomberont avec le nettoyage.
+
+BONUS RAID A COMPRENDRE
+
+- No Damage : terminer le stage sans subir de degats. Un soin apres un coup ne
+  restaure pas ce bonus.
+- Genocide : vaincre tous les ennemis de la carte, y compris ceux des alcoves
+  et des detours. Consulte le compteur de fin plutot que de supposer.
+- Low Level : terminer avec un niveau de joueur suffisamment bas par rapport au
+  niveau recommande de la carte.
+- Trinity : obtenir No Damage, Genocide et Low Level dans la meme tentative.
+  C'est le moyen le plus efficace de faire progresser Bonus Demi-god.
+- Bonus Enthusiast, Bonus Ace, Bonus Legend et Bonus Demi-god comptent les
+  bonus obtenus sur le profil Raid ; ils ne demandent pas une difficulte precise.
+- Gutsy : choisis un stage dont le niveau recommande est au moins cinq niveaux
+  au-dessus du niveau du personnage, puis termine-le. Fais-le tot, sur Chasm,
+  avec une arme fiable et sans chercher le rang S dans la meme tentative.
+
+TRACKER RAID - CHASM
+
+[ ] Chasm 01 - terminer le stage / verifier le rang S
+[ ] Chasm 02 - terminer le stage / verifier le rang S
+[ ] Chasm 03 - terminer le stage / verifier le rang S
+[ ] Chasm 04 - terminer le stage / verifier le rang S
+[ ] Chasm 05 - terminer le stage / verifier le rang S
+[ ] Chasm 06 - terminer le stage / verifier le rang S
+[ ] Chasm 07 - terminer le stage / verifier le rang S
+[ ] Chasm 08 - terminer le stage / verifier le rang S
+[ ] Chasm 09 - terminer le stage / verifier le rang S
+[ ] Chasm 10 - terminer le stage / verifier le rang S
+[ ] Chasm 11 - terminer le stage / verifier le rang S
+[ ] Chasm 12 - terminer le stage / verifier le rang S
+[ ] Chasm 13 - terminer le stage / verifier le rang S
+[ ] Chasm 14 - terminer le stage / verifier le rang S
+[ ] Chasm 15 - terminer le stage / verifier le rang S
+[ ] Chasm 16 - terminer le stage / verifier le rang S
+[ ] Chasm 17 - terminer le stage / verifier le rang S
+[ ] Chasm 18 - terminer le stage / verifier le rang S
+[ ] Chasm 19 - terminer le stage / verifier le rang S
+[ ] Chasm 20 - terminer le stage / verifier le rang S
+
+TRACKER RAID - TRENCH
+
+[ ] Trench 01 - terminer le stage / verifier le rang S
+[ ] Trench 02 - terminer le stage / verifier le rang S
+[ ] Trench 03 - terminer le stage / verifier le rang S
+[ ] Trench 04 - terminer le stage / verifier le rang S
+[ ] Trench 05 - terminer le stage / verifier le rang S
+[ ] Trench 06 - terminer le stage / verifier le rang S
+[ ] Trench 07 - terminer le stage / verifier le rang S
+[ ] Trench 08 - terminer le stage / verifier le rang S
+[ ] Trench 09 - terminer le stage / verifier le rang S
+[ ] Trench 10 - terminer le stage / verifier le rang S
+[ ] Trench 11 - terminer le stage / verifier le rang S
+[ ] Trench 12 - terminer le stage / verifier le rang S
+[ ] Trench 13 - terminer le stage / verifier le rang S
+[ ] Trench 14 - terminer le stage / verifier le rang S
+[ ] Trench 15 - terminer le stage / verifier le rang S
+[ ] Trench 16 - terminer le stage / verifier le rang S
+[ ] Trench 17 - terminer le stage / verifier le rang S
+[ ] Trench 18 - terminer le stage / verifier le rang S
+[ ] Trench 19 - terminer le stage / verifier le rang S
+[ ] Trench 20 - terminer le stage / verifier le rang S
+
+TRACKER RAID - ABYSS
+
+[ ] Abyss 01 - terminer le stage / verifier le rang S
+[ ] Abyss 02 - terminer le stage / verifier le rang S
+[ ] Abyss 03 - terminer le stage / verifier le rang S
+[ ] Abyss 04 - terminer le stage / verifier le rang S
+[ ] Abyss 05 - terminer le stage / verifier le rang S
+[ ] Abyss 06 - terminer le stage / verifier le rang S
+[ ] Abyss 07 - terminer le stage / verifier le rang S
+[ ] Abyss 08 - terminer le stage / verifier le rang S
+[ ] Abyss 09 - terminer le stage / verifier le rang S
+[ ] Abyss 10 - terminer le stage / verifier le rang S
+[ ] Abyss 11 - terminer le stage / verifier le rang S
+[ ] Abyss 12 - terminer le stage / verifier le rang S
+[ ] Abyss 13 - terminer le stage / verifier le rang S
+[ ] Abyss 14 - terminer le stage / verifier le rang S
+[ ] Abyss 15 - terminer le stage / verifier le rang S
+[ ] Abyss 16 - terminer le stage / verifier le rang S
+[ ] Abyss 17 - terminer le stage / verifier le rang S
+[ ] Abyss 18 - terminer le stage / verifier le rang S
+[ ] Abyss 19 - terminer le stage / verifier le rang S
+[ ] Abyss 20 - terminer le stage / verifier le rang S
+[ ] Ghost Ship - terminer le stage bonus
+
+PARTIE 7 - RAID - PROGRESSION, ARMES ET FARM
+
+NIVEAUX ET EXPERIENCE
+
+- On Your Way : niveau 5.
+- Moving on Up : niveau 10.
+- Reaching Higher : niveau 20.
+- Raising the Bar : niveau 30.
+- Meteoric Rise : niveau 40.
+- Top of My Game : niveau 50.
+- Monte un personnage principal jusqu'au niveau 50 et garde un second profil
+  seulement si tu veux tester une autre arme. Changer de personnage ralentit
+  le compteur de kills et la gestion des armes.
+- Si une carte devient trop facile, refais-la avec le bonus Low Level pour
+  progresser vers Trinity et les paliers de bonus.
+
+ARMES SUPER RARES
+
+- Legendary Find : obtenir au moins une arme super rare.
+- Legends Are Made, Not Born : obtenir les trois armes super rares : Pale Rider,
+  Drake et Muramasa.
+- Les armes proviennent des cases d'armes et des recompenses de Raid. Ouvre les
+  cases apres les stages avances plutot qu'au tout debut, afin de profiter des
+  meilleurs paliers de loot.
+- Conserve chaque exemplaire Pale Rider, Drake et Muramasa dans le coffre ou
+  l'inventaire jusqu'a la validation. Ne vends pas la seule copie avant de
+  verifier Steam.
+
+BP ET ELIMINATIONS
+
+- Shop 'til Ya Drop : depenser 1 000 000 BP dans la boutique. Achète des
+  munitions, pieces et cases necessaires au lieu de jeter les BP dans des
+  objets inutiles ; le montant depense est cumulatif.
+- One for Each Minnesota Lake : 10 000 ennemis vaincus en Raid. Le compteur est
+  cumulatif ; choisis une carte courte que tu maitrises et elimine les ennemis
+  des detours. Ne quitte pas la carte avant l'ecran de resultat.
+- That'll Leave a Mark : 100 000 degats en un coup. Fais-le sur un ennemi ou un
+  boss de haut niveau avec un lance-roquettes ou une arme tres amelioree. Le
+  tir doit afficher une seule valeur de degats suffisante.
+
+COOPERATION - DYNAMIC DUO
+
+- Dynamic Duo demande qu'une attaque physique pleinement chargee touche le meme
+  ennemi au meme moment que celle du partenaire.
+- Lance un stage facile avec un vrai partenaire humain, et non une simple IA.
+  Etourdis un ennemi resistant, placez-vous de chaque cote, chargez les attaques
+  ensemble et frappez sur le meme signal.
+- Faites plusieurs tentatives sur le meme ennemi. Une frappe melee ordinaire,
+  deux ennemis differents ou deux attaques decalees ne comptent pas.
+- Le succes est le seul element du 100 % qui peut demander une coordination
+  externe ; le reste peut etre termine en solo.
+
+PARTIE 8 - NETTOYAGE FINAL
+
+1. Menu Steam : confirme les quatre paliers de campagne, les scans, les
+   empreintes et les objectifs de combat.
+2. Raid : verifie les trois badges Traveler et les trois badges Overseer.
+3. Verifie les niveaux 5, 10, 20, 30, 40 et 50.
+4. Verifie les compteurs Bonus Demi-god, One for Each Minnesota Lake et Shop
+   'til Ya Drop.
+5. Verifie Pale Rider, Drake et Muramasa dans l'inventaire ou le coffre.
+6. Termine Ghost Ship et Dynamic Duo en dernier si besoin.
+7. Ferme puis relance Steam si un succes apparait dans le jeu mais tarde a se
+   synchroniser. Ne supprime pas la sauvegarde avant la synchronisation.
+
+CHECKLIST FINALE - 50 SUCCES STEAM
 
 [ ] Researcher - scanner un ennemi pour la premiere fois.
 [ ] First Victim - scanner une empreinte de main cachee.
@@ -187,110 +608,74 @@ SUCCES DE CAMPAGNE A VERIFIER
 [ ] We'll Find You, Jill - terminer les episodes 1 a 3.
 [ ] Get Us Out of Here! - terminer les episodes 4 a 6.
 [ ] The Queen Zenobia - terminer les episodes 7 a 9.
-[ ] A Packaged Deal - vaincre la cible du combat sans detruire ses parties
-    separement.
+[ ] A Packaged Deal - vaincre Scarmiglione sans detruire ses deux parties separement.
 [ ] The Storm is Gone - terminer les episodes 10 a 12.
 [ ] The Dark Forest - terminer la campagne en Casual ou plus.
-[ ] Dodge Master - reussir 20 esquives en campagne.
+[ ] Dodge Master - reussir 20 esquives.
 [ ] The Shores of Purgatory - terminer la campagne en Normal ou plus.
 [ ] The Unbroken Thread - obtenir un bonus No Damage en Raid.
-[ ] The Pool Is Open - trouver la piscine et l'utiliser.
+[ ] The Pool Is Open - nager dans le Solarium purifie.
 [ ] Die Another Day - esquiver l'attaque mortelle d'un Scagdead.
 [ ] Three is the Magic Number - obtenir un bonus Trinity en Raid.
 [ ] Bamboozle the Oozes - vaincre 10 Oozes avec des tirs a la tete.
+[ ] Bonus Enthusiast - obtenir 10 bonus en Raid.
 [ ] On Your Way - atteindre le niveau 5 en Raid.
 [ ] Traces of Tragedy - scanner 15 empreintes de main.
-[ ] Legendary Find - obtenir une arme super rare en Raid.
-[ ] Angry Fist - realiser 10 attaques physiques chargees.
+[ ] Legendary Find - obtenir une arme super rare.
+[ ] Angry Fist - realiser 10 attaques physiques pleinement chargees.
 [ ] Moving on Up - atteindre le niveau 10 en Raid.
-[ ] By the Crosshairs - vaincre Rachael avant son entree dans la cafeteria.
+[ ] By the Crosshairs - vaincre Rachael avant son arrivee dans la cafeteria.
 [ ] Living on the Edge - arreter une balle ennemie avec le couteau.
-[ ] Beyond the Veil - terminer le Ghost Ship en Raid.
-[ ] That'll Leave a Mark - infliger 100 000 points en un seul coup en Raid.
-[ ] Rockets are for Losers - vaincre Malacoda sans lance-roquettes.
-[ ] Surviving Deep Darkness - terminer la campagne sans mourir en Normal+.
-[ ] The Vestibule of Hell - terminer la campagne en Infernal.
-
-RAID MODE - ORDRE DE NETTOYAGE
-
-1. Fais tous les stages Chasm et vise les rangs S. Monte ensuite dans Trench,
-   puis Abyss ; garde le Ghost Ship pour la fin de la progression normale.
-2. Termine les paliers de niveau 5, 10, 20, 30, 40 et 50. Ne monte pas trop
-   vite un personnage avant Gutsy : ce succes demande de terminer un stage
-   avec un ecart de niveau favorable.
-3. Fais Bonus Enthusiast, Bonus Ace et Bonus Legend en validant les bonus de
-   stage. Les objectifs No Damage, Trinity et niveau bas se font separement.
-4. Pour Triple Play, realise les trois bonus demandes du stage en une seule
-   tentative. Pour Dynamic Duo, joue avec un partenaire et valide l'attaque
-   chargee de partenaire.
-5. Fais les 10 000 kills et le million de BP naturellement pendant le
-   leveling, puis complete les armes super rares : Pale Rider, Drake et
-   Muramasa. Les armes peuvent demander des stages avances et des recompenses
-   de bonus : ne les cherche pas avant d'avoir debloque les difficulties.
-6. Termine Gutsy, Meteoric Rise et le Ghost Ship apres avoir stabilise une
-   equipe. La vitesse est moins importante que les bonus et le rang S.
-
-SUCCES RAID
-
 [ ] First Circle Traveler - terminer tous les stages Chasm.
 [ ] Reaching Higher - atteindre le niveau 20 en Raid.
-[ ] Triple Play - obtenir un bonus Trinity.
-[ ] Bonus Enthusiast - obtenir 10 bonus.
-[ ] Bonus Ace - obtenir 50 bonus.
-[ ] Bonus Legend - obtenir 100 bonus.
-[ ] Gutsy - terminer un stage en respectant l'ecart de niveau.
-[ ] Legends Are Made, Not Born - obtenir les armes super rares.
-[ ] Dynamic Duo - realiser l'action de partenaire en cooperation.
+[ ] Triple Play - vaincre trois ennemis avec une seule grenade a impulsion.
+[ ] Shop 'til Ya Drop - depenser 1 000 000 BP dans la boutique.
+[ ] Rockets are for Losers - vaincre Malacoda sans utiliser de lance-roquettes.
+[ ] Bonus Ace - obtenir 50 bonus en Raid.
+[ ] Gutsy - terminer un stage avec cinq niveaux de moins que le niveau recommande.
+[ ] Surviving Deep Darkness - terminer la campagne en Normal ou plus sans mourir.
+[ ] Raising the Bar - atteindre le niveau 30 en Raid.
+[ ] The Vestibule of Hell - terminer la campagne en Infernal.
+[ ] Legends Are Made, Not Born - obtenir les trois armes super rares.
+[ ] Dynamic Duo - frapper le meme ennemi avec une attaque chargee au meme moment que le partenaire.
 [ ] Midland Traveler - terminer tous les stages Trench.
 [ ] First Circle Overseer - obtenir le rang S sur tous les stages Chasm.
-[ ] Beyond the Veil - terminer le Ghost Ship.
-[ ] That'll Leave a Mark - infliger 100 000 points en un seul coup.
-[ ] Meteoric Rise - atteindre le niveau 40.
+[ ] That'll Leave a Mark - infliger 100 000 points de degats en un coup.
+[ ] Beyond the Veil - terminer le stage bonus Ghost Ship.
+[ ] Meteoric Rise - atteindre le niveau 40 en Raid.
+[ ] Research Complete - scanner tous les types d'ennemis.
+[ ] Last Victim - scanner les 30 empreintes de main.
+[ ] Bonus Legend - obtenir 100 bonus en Raid.
 [ ] Midland Overseer - obtenir le rang S sur tous les stages Trench.
 [ ] Seventh Circle Traveler - terminer tous les stages Abyss.
 [ ] Seventh Circle Overseer - obtenir le rang S sur tous les stages Abyss.
-[ ] Top of My Game - atteindre le niveau 50.
-[ ] One for Each Minnesota Lake - vaincre 10 000 ennemis.
-[ ] Bonus Demi-god - obtenir 150 bonus.
+[ ] Top of My Game - atteindre le niveau 50 en Raid.
+[ ] One for Each Minnesota Lake - vaincre 10 000 ennemis en Raid.
+[ ] Bonus Demi-god - obtenir 150 bonus en Raid.
 
-LISTE OFFICIELLE DES 50 SUCCES - CHECK FINAL
+VERIFICATION FINALE
 
-[ ] Researcher  [ ] First Victim  [ ] B.O.W. Hunter  [ ] We'll Find You, Jill
-[ ] Get Us Out of Here!  [ ] The Queen Zenobia  [ ] A Packaged Deal
-[ ] The Storm is Gone  [ ] The Dark Forest  [ ] Dodge Master
-[ ] The Shores of Purgatory  [ ] The Unbroken Thread
-[ ] The Pool Is Open  [ ] Die Another Day  [ ] Three is the Magic Number
-[ ] Bamboozle the Oozes  [ ] Bonus Enthusiast  [ ] On Your Way
-[ ] Traces of Tragedy  [ ] Legendary Find  [ ] Angry Fist  [ ] Moving on Up
-[ ] By the Crosshairs  [ ] Living on the Edge  [ ] First Circle Traveler
-[ ] Reaching Higher  [ ] Triple Play  [ ] Shop 'til Ya Drop
-[ ] Rockets are for Losers  [ ] Bonus Ace  [ ] Gutsy
-[ ] Surviving Deep Darkness  [ ] Raising the Bar  [ ] The Vestibule of Hell
-[ ] Legends Are Made, Not Born  [ ] Dynamic Duo  [ ] Midland Traveler
-[ ] First Circle Overseer  [ ] That'll Leave a Mark  [ ] Beyond the Veil
-[ ] Meteoric Rise  [ ] Research Complete  [ ] Last Victim
-[ ] Bonus Legend  [ ] Midland Overseer  [ ] Seventh Circle Traveler
-[ ] Seventh Circle Overseer  [ ] Top of My Game
-[ ] One for Each Minnesota Lake  [ ] Bonus Demi-god
-
-VERIFICATION 100 %
-
-- [ ] 50 succes coches dans Steam.
-- [ ] Empreintes 1 a 30 confirmees dans une sauvegarde.
-- [ ] Les scans de tous les types d'ennemis sont valides.
-- [ ] Infernal, sans mort, S, Trinity, armes rares, BP et kills confirmes.
-- [ ] La cooperation Raid a ete testee si Dynamic Duo reste verrouille.
-- [ ] Aucun detail d'histoire, d'identite ou d'issue narrative n'est revele.
+- [ ] Steam affiche 50/50 succes.
+- [ ] Campagne : Normal ou plus, Infernal, sans-mort et objectifs ponctuels.
+- [ ] Empreintes : 1 a 30, dans l'ordre de la route.
+- [ ] Scans : les 18 lignes du registre Genesis sont validees.
+- [ ] Raid : 60 stages termines, Ghost Ship termine, six badges de voyage et S.
+- [ ] Raid : niveau 50, 150 bonus, 10 000 kills et 1 000 000 BP depenses.
+- [ ] Raid : Pale Rider, Drake et Muramasa obtenus.
+- [ ] Dynamic Duo valide avec un partenaire humain si necessaire.
+- [ ] La sauvegarde est conservee jusqu'a la synchronisation complete de Steam.
 
 SOURCES DE CONTROLE
 
-- Steam, liste officielle des 50 succes :
+- Liste officielle Steam des 50 succes :
   https://steamcommunity.com/stats/222480/achievements
-- Guide Steam 100 % et cartes de campagne :
+- Guide Steam 100 % des succes :
   https://steamcommunity.com/sharedfiles/filedetails/?id=2808198122
 - Guide Steam des 30 empreintes :
-  https://steamcommunity.com/sharedfiles/filedetails/?id=3541405688
-- PowerPyx, emplacements des empreintes :
-  https://www.powerpyx.com/guide-resident-evil-revelations-all-hand-print-locations.html
-- GameFAQs, parcours de campagne :
-  https://gamefaqs.gamespot.com/pc/700995-resident-evil-revelations/faqs/63742
+  https://steamcommunity.com/sharedfiles/filedetails/?id=244173504
+- Base de cartes et positions des empreintes :
+  https://www.evilresource.com/resident-evil-revelations/miscellaneous-objects/handprint
+- Guide de localisation des empreintes :
+  https://www.gamefront.com/news/resident-evil-revelations-collectible-handprints-locations-guide
+
+FIN DE LA FICHE
