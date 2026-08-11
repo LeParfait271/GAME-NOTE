@@ -1,128 +1,1307 @@
 FINAL FANTASY XVI
-GUIDE 100 % STEAM - 69 SUCCES STEAM - CHRONOLOGIQUE - SANS SPOILER
+GUIDE COMPLET 100 % STEAM - 69 SUCCES STEAM - CHRONOLOGIQUE - SANS SPOILER NARRATIF
 
 Version de travail : 11 aout 2026
+AppID Steam : 2515020
+Succes Steam couverts : 69 (jeu de base + Echoes of the Fallen + The Rising Tide)
 
-OBJECTIF
+OBJECTIF DE CETTE FICHE
 
-Cette route couvre la campagne, les quêtes secondaires, les contrats de chasse,
-les objets de collection, les défis de combat et les deux extensions Steam. La
-route est écrite sans révéler de mort, d'identité, de trahison, de fin ni de
-conséquence narrative.
+Cette fiche est une route de jeu, pas un simple rappel de succes. Elle indique
+quand revenir au Hideaway, quelles quetes prendre avant chaque mission, quels
+coffres et objets uniques ramasser dans les donjons, quelles chasses lancer,
+quels souvenirs placer sur le Wall of Memories, puis comment terminer les deux
+DLC et le New Game+ Final Fantasy Mode.
 
-PERIMETRE ET GARDE-FOUS
+Le texte evite les revelations de scenario : pas de deces, d'identite cachee,
+de trahison, de contenu de fin ou d'issue de quete. Les noms de missions, de
+zones, de boss et de succes restent visibles parce qu'ils sont indispensables
+pour suivre une route 100 %.
 
-- AppID Steam : 2515020. La fiche Steam totalise 69 succès.
-- Inclus : jeu de base, Echoes of the Fallen et The Rising Tide. Aucun online
-  n'est requis ; les activités du Hall of Virtue et les Chronolith Trials se
-  font hors ligne.
-- Fais une sauvegarde manuelle à chaque ouverture de zone, avant chaque quête
-  marquée d'un +, avant chaque chasse et avant le dernier départ de campagne.
-- Premier passage conseillé en Action Focused ou difficulté normale. Le second
-  passage se fait en Final Fantasy Mode pour les objectifs de niveau supérieur.
+COMMENT LIRE LA FICHE
 
-MISSABLES ET CONDITIONS RATABLES
+- Chaque bloc commence par une mission principale ou une zone claire.
+- Fais les lignes "AVANT DE PARTIR" avant de lancer la mission suivante.
+- Une ligne "COFFRE / OBJET" donne le chemin depuis le dernier embranchement,
+  pas seulement le nom de la zone.
+- Une ligne "STEAM" indique le succes a preparer ou le moment ou il tombe.
+- Les objets decoratifs orange, les rouleaux d'orchestrion non requis et les
+  coffres de gil/materiaux ordinaires ne sont pas necessaires aux 69 succes.
+  Ils sont signales quand ils contiennent un equipement, une arme, une recette,
+  un souvenir ou un objet utile a la forge.
 
-- Aucun succès n'est définitivement manquable si les sauvegardes et le New Game+
-  sont utilisés, mais les quêtes secondaires, chasses et activités de fin de
-  zone doivent être contrôlées avant de passer à l'étape suivante.
-- Les objets des patrons, les curiosités, les recettes, les améliorations et
-  les cartes du monde sont à valider dès leur apparition. Note le compteur
-  dans le Hideaway après chaque série de quêtes.
-- Les succès de techniques demandent une action précise en combat. Fais une
-  sauvegarde avant le Hall of Virtue et utilise des ennemis résistants ; les
-  réussites dans le Hall ne comptent pas toujours pour les exclusions Steam.
-- Les deux DLC sont traités après la campagne et avant le second passage. Ne
-  lance pas Final Fantasy Mode avant d'avoir contrôlé leurs succès.
+GARDE-FOUS AVANT DE COMMENCER
 
-ORDRE RECOMMANDE
+- Le premier passage se fait en Action Focused ou en Story Focused. Le second
+  passage se fait en New Game+ Final Fantasy Mode.
+- Ne vends jamais les materiaux rares, les Orichalcum, les Darksteel, le
+  Primitive Battlehorn, les Fallen Enigma, les recettes et les objets de quete.
+  C'est la seule precaution importante pour Gotterdammerung.
+- Fais une sauvegarde manuelle avant The Crystals' Curse, avant chaque chasse
+  de rang S, avant Echoes, avant The Rising Tide et avant le depart vers Origin.
+- Les quetes secondaires disponibles avant The Crystals' Curse peuvent
+  disparaitre apres la progression de l'histoire. Elles ne bloquent aucun
+  succes Steam, mais elles sont incluses ici pour une partie complete et
+  chronologique : termine-les avant de lancer cette mission.
+- Le vrai dernier verrou de progression est Back to Their Origin. Avant de
+  voyager vers Origin, termine les quetes de fin, les chasses, les souvenirs,
+  les objets de patron, les Chronolithes et les nettoyages de combat.
+- Apres Of Gods and Men, cree toujours le clear save dans un nouvel emplacement.
+  Recharge ce fichier pour le nettoyage et utilise-le comme base du NG+.
+- Le Hall of Virtue sert a apprendre les gestes, mais plusieurs succes Steam
+  excluent explicitement ses combats. Refais toujours l'action dans une zone
+  normale ou dans un donjon de Stage Replay.
 
-1. PROLOGUE ET PREMIER PASSAGE
+ORDRE GLOBAL RECOMMANDE
 
-- Termine le prologue et apprends les commandes de base. Utilise les Shift
-  Strikes/Shift Shots au fil des premiers combats pour Sheeeeeeeeeeeeeeeift et
-  punis dix ennemis pour Punisher.
-- Caresse Torgal cinq fois dès qu'il est disponible : You Can Pet the Dog.
-- Achète les premières améliorations de consommables et d'inventaire. Ne vends
-  pas les matériaux rares et garde les accessoires uniques.
-- À chaque retour au Hideaway, parle aux vendeurs, forge l'équipement proposé,
-  ouvre les coffres et termine les quêtes secondaires disponibles.
+1. Prologue et missions 1 a 7.
+2. Premier Hideaway, premiers equipements et quetes secondaires 8 a 25.
+3. Mission 26, puis quetes, chasses et renown de fin de jeu.
+4. Campagne principale 27 a 68 en faisant chaque retour au Hideaway.
+5. Nettoyage complet sur le clear save : 32 chasses, 22 souvenirs, 16 patron
+   rewards, lettres, forge, Chronolithes, succes de combat.
+6. Echoes of the Fallen et ses six Fallen Bits.
+7. The Rising Tide, ses 11 quetes de Mysidia, Trial by Water et Kairos Gate.
+8. New Game+ Final Fantasy Mode, avec OMG, Thou Brakest the Head et Fantasy,
+   Finally. Pour gagner du temps, fais le contenu difficile des DLC dans ce
+   second passage.
 
-2. HIDEAWAY, QUETES ET COMBATS TECHNIQUES
+COMPTEURS A SURVEILLER
 
-- Débloque les améliorations de capacité et dépense les points régulièrement.
-  Pour les succès de combat, équipe Titanic Block, Blind Justice, Deadly
-  Embrace, Lightning Rod et Heatwave dès qu'ils apparaissent.
-- Fais les actions suivantes sur des ennemis ordinaires, hors Hall of Virtue :
-  50 orbes de Blind Justice, dix parades Titanic Block, cinq ennemis aériens
-  après Deadly Embrace, trois impacts Lightning Rod avant dissipation, deux
-  Heatwave Counters et le troisième coup de Titanic Counter deux fois dans un
-  seul combat.
-- Débloque les contrats de chasse dès qu'ils apparaissent et termine chaque
-  rang avant la prochaine grande étape. Vérifie Hunter, Hunted et les récompenses
-  dans le tableau de chasse.
+- Missions principales : 68.
+- Quetes secondaires du jeu de base : 76.
+- Chasses du Hunt Board : 32.
+- Souvenirs du Wall of Memories : 22.
+- Ameliorations de potions/inventaire : 4.
+- Lettres necessaires au succes : 10 lues, sur 48 existantes.
+- Patron rewards : 16, jusqu'a 2 850 Renown cumules.
+- Chronolithes du jeu de base : 7. The Rising Tide ajoute le 8e, Hand of Tethys.
+- Echoes : 6 Fallen Bits.
+- The Rising Tide : 11 quetes de Mysidia, dont 10 suffisent pour The End Can Wait.
 
-3. CARTES, ARTISANAT ET QUETES SECONDAIRES
+PARTIE 1 - PROLOGUE ET PREMIER PASSAGE
 
-- Visite toutes les zones sur la carte locale et mondiale pour Here Be Rosfields.
-- Termine chaque quête secondaire avec un marqueur +. Fais les quêtes de
-  compagnons, les demandes des habitants et les suites du Hideaway avant le
-  dernier départ ; leurs récompenses alimentent The Pen Is Mightier, Careful
-  Whisper, A Vessel Complete et My Reward Is with Me.
-- Améliore cinq pièces d'équipement pour Dressed to the Fives, puis complète
-  les versions finales et les armes demandées par la forge.
-- Ramasse les curiosités, musiques, lettres, trophées et objets de patron. Ne
-  les confonds pas avec les objets de décor : le tableau du Hideaway fait foi.
+MISSION 1 - A FLAME SUMMONED
 
-4. CHASSES, DEFIS ET FIN DE CAMPAGNE
+ZONE : Rosaria, section d'introduction.
 
-- Termine toutes les chasses et les contrats optionnels. Pour Think, Mark!,
-  ouvre le registre de chasse et lis chaque entrée après la victoire.
-- Fais les Chronolith Trials un par un avec la bonne configuration de capacités.
-  Termine les défis de temps avant d'ouvrir le second cycle.
-- Complète les activités d'arcade et les scores nécessaires ; si un score ne
-  progresse pas, quitte proprement l'activité puis recharge la sauvegarde de
-  début de défi.
-- Termine la campagne principale. Avant la dernière mission, vérifie la carte,
-  le tableau de chasse, les patrons, les musiques, la forge et les quêtes +.
+- Suis le tutoriel de deplacement et de combat sans chercher a economiser les
+  points de capacite : les premiers affrontements servent a prendre le rythme.
+- Ouvre chaque coffre visible avant de franchir une porte de mission. Les
+  objets du prologue ne sont pas conserves comme collection permanente, mais
+  le geste est utile pour apprendre le signal sonore des coffres.
+- Termine la mission normalement. Aucun succes optionnel n'est lie a cette
+  premiere section.
 
-5. ECHOES OF THE FALLEN
+MISSION 2 - TO KILL A DOMINANT
 
-- Depuis la sauvegarde de fin de campagne, ouvre l'accès au DLC et équipe une
-  configuration polyvalente. Explore chaque salle avant de déclencher la porte
-  suivante, récupère les coffres et termine toutes les rencontres.
-- Améliore l'équipement du DLC, complète les défis associés et vérifie les
-  succès Echoes dans le profil avant de quitter la zone.
+ZONE : forteresse et cour interieure.
 
-6. THE RISING TIDE
+- Fais tous les combats avant de monter dans la zone de sortie afin de gagner
+  quelques points de capacite.
+- Le coffre de la cour est sur le cote de la route principale, derriere les
+  premiers soldats. Il contient un objet de combat temporaire, pas un objet
+  requis pour les 69 succes.
+- Continue jusqu'au duel de fin de mission. Le succes obtenu ici est narratif
+  et ne peut pas etre rate.
 
-- Lance The Rising Tide depuis la même sauvegarde. Termine d'abord les quêtes
-  d'accès, puis les combats et activités annexes de la nouvelle zone.
-- Fais les défis Eikon et les épreuves optionnelles avec une sauvegarde dédiée.
-  Contrôle les objets, les recettes, les rangs et les récompenses avant la
-  dernière séquence du DLC.
-- Termine les succès du DLC, puis reviens au Hideaway et sauvegarde une copie
-  propre avant le second passage.
+MISSION 3 - PRIDE
 
-7. NEW GAME+ / FINAL FANTASY MODE
+- Mission tres courte. Termine les dialogues, puis le tutoriel de precision.
+- Profite de cette section pour regler les options : vibration, affichage des
+  degats, mode de verrouillage et raccourcis de capacites.
+- Ne depense pas tous tes points dans une capacite que tu n'aimes pas : le jeu
+  permet de rembourser les points a tout moment.
 
-- Lance un nouveau cycle en Final Fantasy Mode avec l'équipement transféré.
-  Ne cherche pas les collectes déjà validées : concentre-toi sur les combats,
-  les améliorations et les objectifs de difficulté.
-- Forge et améliore les pièces demandées, complète les défis les plus exigeants
-  et termine les épreuves du mode avec une configuration stable.
-- Utilise le Hall of Virtue uniquement pour t'entraîner ; refais les actions
-  concernées sur les ennemis de la campagne pour que les exclusions Steam soient
-  respectées.
+MISSION 4 - SUNRISE, SUNSET
 
-8. NETTOYAGE POST-GAME
+ZONE : village et terrain d'entrainement.
 
-- Utilise la sauvegarde de fin de campagne pour les quêtes, cartes, patrons,
-  curiosités, chasses, défis, recettes et musiques manquants.
-- Pour les compétences de combat, crée un groupe de trois ennemis faibles,
-  équipe une seule capacité ciblée et valide l'action avant de changer de zone.
-- Pour les objectifs de score et de temps, note le meilleur résultat dans un
-  tableau séparé et ne remplace pas la sauvegarde principale.
+- Termine l'entrainement de combat. Le souvenir Shield Ensign est une recompense
+  automatique, mais il ne compte pas dans les 22 souvenirs du mur.
+- Apprends a utiliser la parade, l'esquive de precision et la magie chargee.
+- STEAM : les premiers combats sont un bon endroit pour commencer Punisher,
+  Sheeeeeeeeeeeeeeeift et You Can Pet the Dog lorsque le compagnon est present.
+
+MISSION 5 - LOST IN A FOG
+
+ZONE : foret, grotte et village.
+
+- Dans la foret, vide les petites salles laterales avant de suivre le marqueur.
+- COFFRE / OBJET : l'armure Hard Leather Armlet tombe automatiquement du boss
+  Gigas. Elle est ensuite remplacee par l'equipement du saut temporel.
+- Fais une sauvegarde avant le boss si tu veux tenter une victoire sans degat
+  pour l'entrainement, mais ce boss ne valide pas You're Not the Boss of Me.
+
+MISSION 6 - FLIGHT OF A FLEDGLING
+
+- Suis la route principale et termine le combat Eikon.
+- Aucun coffre permanent ni collection Steam ne peut etre rate ici.
+- STEAM : Awoken tombe automatiquement en terminant cette mission.
+
+MISSION 7 - A CHANCE ENCOUNTER
+
+ZONE : Rosaria, route vers Martha's Rest.
+
+- Des le debut, ouvre les capacites Scarlet Cyclone et Heatwave quand les points
+  sont disponibles. Heatwave sera necessaire plus tard pour Packing Heat.
+- COFFRE / OBJET : les recompenses de mission debloquent les nouvelles actions
+  de Phoenix. Ne quitte pas la zone avant d'avoir equipe au moins une capacite
+  d'Eikon et une capacite de soutien.
+- STEAM : Awoken est deja obtenu au debut de cette mission. Avec Phoenix Shift,
+  commence Shift Strikes ou Shift Shots pour Sheeeeeeeeeeeeeeeift.
+
+MISSION 8 - HIDE, HIDEAWAY
+
+ZONE : nouveau Hideaway, White Adze, Black Hammer, Ale Hall.
+
+AVANT DE PARTIR : prends les deux quetes secondaires dans le Hideaway.
+
+- Make Do and Mend : visite le Carpenter dans le White Adze, ramasse les
+  planches de bois, puis rapporte-les a Geoffrey. Recompenses : Meteorite et
+  Gil Bug.
+- Food for Thought : apporte les 3 Salt Broths aux porteurs dans l'Ale Hall,
+  puis reviens voir Kenneth. Recompenses : gil, Wyrrite et AP.
+- COFFRE / OBJET : pendant l'initiation de forge, fabrique ou ameliore une piece
+  d'equipement. Iron Belt +1 est automatique. Le Broadsword est achetable au
+  marchand pour 500 gil. Apres Food for Thought, ouvre la caisse devant le
+  donneur de quete pour Badge of Mettle.
+- STEAM : Dressed to the Fives demande 5 fabrications ou ameliorations au total.
+  Commence maintenant et valide chaque nouvelle piece chez Blackthorne.
+
+MISSION 9 - FANNING EMBERS
+
+ZONE : Greatwood et donjon de la mission.
+
+- Le Ring of Timely Assistance est obtenu automatiquement au debut. Garde-le
+  seulement si tu veux du confort ; il n'est pas necessaire aux succes.
+- COFFRE / OBJET : ouvre les salles laterales du Greatwood avant de descendre
+  vers Midnight Raven. Les coffres contiennent surtout des equipements de debut.
+- STEAM : premier vrai essai pour You're Not the Boss of Me. Fais une sauvegarde
+  avant Midnight Raven, retire les actions qui peuvent te faire avancer sans
+  esquive et equipe Ring of Timely Evasion si tu veux securiser l'essai. Une
+  victoire sans degat peut aussi etre obtenue plus tard en Stage Replay.
+- Apprends le menu de Torgal. Utilise Precision Sic en synchronisant l'ordre Sic
+  avec tes coups de melee pour commencer A Fine Hound. Caresse Torgal cinq fois
+  dans le Hideaway ou apres un combat pour You Can Pet the Dog.
+
+MISSION 10 - LOUDER THAN WORDS
+
+ZONE : route de Martha's Rest.
+
+- Suis le marqueur et vide les petits groupes d'ennemis avant d'inspecter les
+  points de recherche. Les coffres visibles sur la route sont ordinaires.
+- Utilise les commandes de Torgal a chaque combat : Sic, Heal, puis Precision
+  Sic lorsqu'un ennemi est proche de la mise a terre.
+
+MISSION 11 - THE DEAD OF NIGHT
+
+ZONE : Martha's Rest et chemins environnants.
+
+- Fais le tour de Martha's Rest : marchand, forgeron, tableau des quetes et
+  coffre de chaque ruelle. Cela evite de revenir dans la ville plus tard.
+- Termine les combats de la mission, puis parle a tous les donneurs de quete
+  visibles avant de repartir.
+
+MISSION 12 - HEADWIND
+
+ZONE : Caer Norvent, forteresse et donjon.
+
+- Avant d'entrer dans la salle principale, equipe une configuration Phoenix/
+  Garuda des que le jeu le permet. Les capacites d'Eikon se remplacent librement.
+- COFFRE / OBJET : inspecte chaque salle avant d'ouvrir une porte de progression.
+  Les coffres de la forteresse sont sur les plateformes laterales et au bout des
+  escaliers en cul-de-sac.
+- STEAM : With Great Power tombe automatiquement en fin de mission.
+
+MISSION 13 - WINGS OF CHANGE
+
+- Garuda debloque les techniques Deadly Embrace, Gouge, Wicked Wheel et Rook's
+  Gambit. Achete Deadly Embrace tout de suite ; il est necessaire pour Fatal
+  Attraction et la sequence de Never Coming Down.
+- Pour Fatal Attraction, attire un petit ennemi dans les airs avec Deadly
+  Embrace puis tue-le avant qu'il ne retombe. Recommence 5 fois hors Hall.
+- Pour Never Coming Down, ameliore Wicked Wheel afin de le placer sur Phoenix,
+  equipe Gouge et Rook's Gambit sur Garuda, saute puis lance les trois capacites
+  avant l'atterrissage. Le Bighorn de Three Reeds est la meilleure cible.
+
+MISSION 14 - AWAKENING
+
+- Termine la mission et le combat Eikon. Les recompenses sont automatiques.
+- STEAM : ne cherche pas a valider des succes techniques pendant la sequence
+  Eikon ; les exclusions du Hall et les compteurs d'actions sont plus fiables
+  dans une zone libre.
+
+MISSION 15 - THE WAGES OF GUILT
+
+- Fais le tour du Hideaway au retour et depense tes points de capacite.
+- Ouvre les stocks de Blackthorne et du marchand. Fabrique l'arme et la piece
+  d'armure les plus hautes disponibles, mais conserve les materiaux rares.
+
+MISSION 16 - THE HUNTER AND THE HUNTED
+
+AVANT DE PARTIR : prends les deux quetes du Hideaway.
+
+- Moving Heaven and Earth : visite Bohumil, suis les points dans Gaultand's
+  Bales, elimine les Vine Spinners et rapporte les 4 echantillons de sol.
+- A Place For Everyone : aide Bohumil a organiser le jardin ; suis les marqueurs
+  dans le Hideaway et valide la quete avant de repartir.
+- Reviens au marchand et au forgeron. Chaque retour avec une icone verte doit
+  etre vide avant de lancer la mission suivante.
+
+MISSION 17 - HOMECOMING
+
+ZONE : Martha's Rest et aqueduc trans-rosarien.
+
+- What a Bird Wants : prends la caisse scellee a Rowan dans l'aqueduc puis
+  rapporte-la a Gerard, le responsable des ecuries.
+- COFFRE / OBJET : le coffre de Forevermore Orchestrion Roll est dans le coin
+  nord-est de Martha's Rest. Le roll The Founder's Footsteps est achetable au
+  marchand pour 20 000 gil ; il reste disponible apres la campagne.
+
+MISSION 18 - BUILDING BRIDGES
+
+- Mission secondaire liee a Homecoming. Suis les marqueurs de construction,
+  inspecte les materiaux, puis reviens au donneur de quete.
+- Aucun souvenir Steam ne depend de cette mission, mais termine-la pour la
+  route complete et pour le suivi de Harpocrates.
+
+MISSION 19 - A BEARER'S LOT
+
+- Termine toutes les etapes de dialogue et de livraison.
+- Le souvenir The Slumbering Chocobo est donne automatiquement en fin de quete.
+  Il ne remplace pas Ambrosia's Tack, qui sera obtenu plus tard pour le Wall.
+
+MISSION 20 - HOLDING ON
+
+AVANT DE PARTIR : trois quetes dans Martha's Rest et Greensheaves.
+
+- False Friends : trouve l'Iron Lantern, parle a Norreis, puis reviens voir
+  Brennan a Martha's Rest.
+- Crystalline Lifeline : bats les Bog Crabs dans la zone indiquee, ramasse le
+  Foul Crystal et rapporte-le a Clarke.
+- Beast Against Beast : va a Rhiannon's Ride, bats le Starving Alpha et les
+  loups, puis parle au villageois du Broken Hilt.
+- COFFRE / OBJET : Blood Hawk Jess est dans Greensheaves, derriere un Wivre,
+  directement au sud du nom Greensheaves sur la map. Lovely, Dark, and Deep est
+  achetable a Eastpool ou plus tard chez Charon.
+
+MISSION 21 - BACK IN THE DAY
+
+- Termine cette sous-mission sans repartir au marqueur principal trop vite.
+- Vide le marchand et la forge au Hideaway au retour.
+
+MISSION 22 - BURIED MEMORIES
+
+DONJON : Phoenix Gate Ruins.
+
+- Dans la salle du premier Fallen Guardian, ouvre le coffre bleu pour Favor of
+  Wind (Gouge).
+- Apres le deuxieme Fallen Guardian, ouvre le coffre de la salle suivante pour
+  Will of Wind (Rook's Gambit).
+- Apres le combat Iron Giant, fouille immediatement la salle de sortie pour
+  Favor of Wind (Wicked Wheel). Ce coffre est facile a depasser si tu suis le
+  marqueur sans regarder les murs.
+- Le Fire Shard de la fin sert a la forge de Flametongue.
+- STEAM : Acceptance tombe automatiquement a la fin de la mission.
+
+MISSION 23 - THE MEANING OF LIFE
+
+- Le mode Semi-Prime devient disponible. Active-le contre les groupes faibles
+  et termine 20 ennemis sous Semi-Prime pour Made to Be Broken.
+- Fais une sauvegarde avant les combats de la mission si tu veux nettoyer le
+  compteur de semi-prime sans pression.
+
+MISSION 24 - RIGHTING WRONGS
+
+AVANT DE PARTIR : vide toutes les quetes de cette etape.
+
+- Red Letter Day : ramasse les 3 fournitures perdues dans Gaultand's Bales,
+  trouve la lettre dans Lostwing et rapporte le tout a Glenn au Hideaway.
+- Needs of the Many : parle a Quinten a Lostwing, visite Laubert's Pass, bats
+  le Hill Gigas et les Hill Goblins a Norvent Valley, inspecte le corps puis
+  reviens a Quinten.
+- Welcoming Committee : apporte pain et vin au Bearer fatigue de Lostwing.
+- Dying on the Vine : bats les Vintner Wasps de Gaultand's Bales et reviens a
+  Emile.
+- While the Cat's Away : bats les intrus dans les Golden Stables de Martha's
+  Rest.
+- STEAM : ces quetes donnent du contenu d'univers et du renown plus tard, mais
+  aucun succes ne devient impossible si tu les rates avant le point de retrait.
+
+MISSION 25 - THE DAME
+
+AVANT DE PARTIR : fais les cinq quetes suivantes pour la partie complete.
+
+- The Want Beyond the Wall : depose les 3 bourses a l'Herbalist, au Liquormonger
+  et au Tinker de Northreach, puis rapporte les trois objets demandes.
+- Pride Comes Before a Fall : suis la serie d'entrainement et de combat a
+  Northreach, puis reviens a l'arene indiquee.
+- Friend of the People : aide les habitants et livre les objets dans l'ordre
+  du journal de quete.
+- All Bark : parle a la fermiere, inspecte le chien et le corps pres du moulin.
+- Playthings : suis la piste de la quete dans Northreach, inspecte chaque objet
+  avant le prochain marqueur et termine le combat final.
+
+POINT DE CONTROLE A - AVANT THE CRYSTALS' CURSE
+
+- Fais une sauvegarde manuelle.
+- Verifie que toutes les quetes du bloc 8-25 sont grises dans le journal.
+- Parle a Harpocrates, a Tarja, a Blackthorne, a Charon et aux marchands.
+- Les quetes precedentes sont surtout du contenu missable de scenario. Pour
+  Steam, elles ne donnent pas de souvenir du mur ni de renown obligatoire.
+- Tu peux maintenant lancer The Crystals' Curse.
+
+MISSION 26 - THE CRYSTALS' CURSE
+
+DONJON : Drake's Head et zone de progression de Sanbreque.
+
+- Avant chaque porte, fouille les petites salles laterales. Les coffres de la
+  mission donnent de l'equipement de transition et des materiaux, aucun ne
+  doit etre vendu avant la forge finale.
+- STEAM : Lawless tombe automatiquement en terminant la mission.
+- A partir de cette mission, le Renown commence a alimenter Patron's Whisper.
+  Chaque fois que Desiree ouvre une nouvelle recompense, reclame-la tout de
+  suite : le Renown n'est pas depense et le compteur continue de monter.
+
+PARTIE 2 - HIDEAWAY, CHASSES ET RENOWN
+
+MISSION 27 - CID THE OUTLAW
+
+ZONE : Hideaway, Reading Table, Wall of Memories.
+
+- Le Wall of Memories et la Reading Table deviennent accessibles. Examine la
+  salle de Clive et lis toutes les missives disponibles.
+- Ramuh debloque Blind Justice et Lightning Rod. Equipe Blind Justice pour
+  I Am the Thunder : marque des ennemis, libere les orbes, totalise 50 tirs.
+- Pour Rod to Redemption, pose Lightning Rod devant un ennemi lent et fais-le
+  frapper le piege 3 fois avant sa dissipation. Le Bighorn a Three Reeds est la
+  cible ideale : place-toi derriere la tige pour aligner ses charges.
+- Le souvenir The Oath est automatique a cette etape.
+- Parle a Desiree au Patron's Whisper pour voir le premier palier de Renown.
+
+MISSION 28 - HOME, SWEET HOME
+
+ZONE : Hideaway agrandi.
+
+- Le Tub & Crown est maintenant ouvert. Pour Eureka, depense exactement 36 000
+  gil en boissons : fais une sauvegarde, achete les rounds/drinks necessaires,
+  laisse le succes tomber, puis recharge pour recuperer l'argent.
+- Passe a la forge, au marchand, a la Reading Table et a Harpocrates.
+- Le Hunt Board sera disponible peu apres ; ne pars pas en chasse avant son
+  ouverture officielle afin de garder la route chronologique.
+
+MISSION 29 - THE GATHERING STORM
+
+AVANT DE PARTIR : accepte Caulk & Bawl au Hideaway.
+
+- Caulk & Bawl : rejoins Obolus, repare la barge et termine la mission. Le Badge
+  of Might +1 est une recompense d'equipement, pas un objet de mur.
+- Verifie le marchand de Northreach et les quetes de ville avant de repartir.
+
+MISSION 30 - DARK CLOUDS GATHER
+
+- Sous-mission de The Gathering Storm. Suis les etapes de voyage et de dialogue.
+- La recompense Breath of Wind (Gouge) est automatique. Equipe-la si tu veux
+  accelerer la jauge de volonte, mais garde les accessoires de degats pour les
+  boss si tu preferes.
+
+MISSION 31 - RELEASE
+
+ZONE : Rosaria, Martha's Rest, Northreach, Hunt Board.
+
+- Ahriman apparait automatiquement pendant la mission : c'est la chasse 1/32.
+- Apres la mission, ramasse Angel of Death / Aruna a Claireview, Sanbreque,
+  puis Belphegor a The Broken Hilt, Rosaria. Ne te fie pas seulement au texte
+  du tableau : teleporte-toi directement aux zones indiquees.
+- White-Winged Wonder apparait a Martha's Rest. Termine-la, obtiens Ambrosia's
+  Tack, puis appelle Ambrosia avec R3 et monte-la pour When You Ride Alone.
+- The Fruits of Her Labors : suis Gav, ramasse Martelle Apples et lis la lettre
+  An Apple a Day apres le debut de Bloodlines.
+- Le Hunt Board et Patron's Whisper sont maintenant actifs.
+
+LISTE DES 32 CHASSES - A FAIRE DES LEUR APPARITION
+
+Chaque ligne correspond a une entree du Hunt Board. Apres la victoire, retourne
+au tableau pour confirmer le marqueur. Les noms donnent la route et le secteur,
+pas la solution narrative.
+
+1. Ahriman - rencontre automatique pendant Release.
+2. Angel of Death / Aruna - Sanbreque, Northreach, Claireview.
+3. Belphegor - Rosaria, Eastpool, The Broken Hilt.
+4. Dozmare - Sanbreque, Caer Norvent West Gate, debloque par Blacksmith's Blues.
+5. Sekhret - Rosaria, Martha's Rest, Greenheaves nord-ouest.
+6. Severian - Rosaria, Martha's Rest, Sorrowise nord.
+7. Muddy Murder / Flan Prince - Rosaria, Hawk's Cry Cliff, coin nord.
+8. A Hill to Die On / Fastitocalon - Dhalmekia, Velkroy Desert.
+9. Soul Stingers - Dhalmekia, Dravozd, Fields of Corava est.
+10. Grimalkin - Dhalmekia, The Jaw, The Cattery.
+11. The Nine of Knives - Dhalmekia, The Jaw.
+12. The Breaker of Worlds / Atlas - Rosaria, Eastpool, Cressidia est.
+13. Bomb King - Sanbreque, Dragon's Aery, The Crock; debloque Weird Science.
+14. The Ten of Clubs - Dhalmekia sud, Fields of Corava, Vamare.
+15. The Mageth Brothers - Rosaria, Port Isolde, Quietsands.
+16. Ruin Reawakened / Svarog - Sanbreque, Caer Norvent Glorieuse Gate,
+    Mornebrume sud-est.
+17. The Pack - Dhalmekia, Tabor, The Gilded Path.
+18. The Man in Black / Holy Trumpitour - Sanbreque, Lostwing, Cellar Passage,
+    apres For Great Justice II.
+19. Dread Comet - Dhalmekia, The Jaw, The Sickle.
+20. Carrot - Rosaria, Three Reeds, Whispering Waters; debloque Please Sir.
+21. The Tricephalic Terror / Gorgimera - Dhalmekia, Velkroy Desert ouest du
+    Watcher; apparait apres la visite de l'Infirmary et les quetes requises.
+22. Pandemonium - Waloed, Shadow Coast, Skaithfarr.
+23. Gobermouch - Waloed, Eistla.
+24. Agni - Waloed, Edge of Infinity, Halfcombe.
+25. Bygul - Waloed, Ravenwit Walls, Kritten Hollow.
+26. Usher to the Underworld / Thanatos - Dhalmekia, Gilded Path, Titan's Wake.
+27. The Blood Moon / Terminus - Sanbreque, Dragon's Aery, The Crock.
+28. The Wailing Banshee / Gizamaluk - Waloed, Vidargraes, Garnick; apparait
+    apres An Inconvenient Truth.
+29. Kuza Beast - Waloed, Ravenwit Walls, Balmung Dark; uniquement pendant
+    Nobody's Tool.
+30. The Masterless Marauder / Behemoth King - Waloed, Vidargraes; apres
+    Nobody's Tool.
+31. Knight of the Splendent Heart - Sanbreque, Royal Meadows; apres Under New
+    Management II.
+32. The Grim Reaper / Prince of Death - Sanbreque, Royal Meadows; apres Under
+    New Management II.
+
+STEAM : Think, Mark! tombe a 10 chasses. Hunter, Hunted tombe apres les 32.
+Pour une verification propre, le Hunt Board doit afficher chaque entree terminee
+et le Renown final doit avoir ete ajoute avant la remise des patron rewards.
+
+PARTIE 3 - CAMPAGNE CENTRALE ET OBJETS DE DONJON
+
+MISSION 32 - BLOODLINES
+
+ZONE : Rosaria, Shallop Rock, Lostplume, Auldhyl Docks.
+
+- Orchestrion Roll Night Terrors : achete-le au marchand d'Amber, au nord de
+  Hawk's Cry Cliff. Il reste achetable apres la campagne.
+- COFFRE / OBJET : Bull's Horn Braid est dans un conteneur bleu/blanc sur le
+  chemin sud-ouest depuis le marqueur Lostplume, a Shallop Rock.
+- COFFRE / OBJET : Demontamer's Sash est dans l'angle sud-est d'Auldhyl Docks,
+  juste a l'exterieur d'une remise.
+- Reviens au Hideaway, lis la lettre An Apple a Day si elle est presente et
+  parle a Harpocrates.
+
+MISSION 33 - BLACK LIGHT BURNS
+
+- Termine le trajet principal et ramasse The Burnt Blade, recompense automatique
+  de Black or White.
+
+MISSION 34 - BLACK OR WHITE
+
+- Sous-mission de Black Light Burns. Fais-la integralement avant de repartir.
+- Aucun coffre Steam obligatoire dans cette section, mais termine-la pour
+  debloquer la suite des recompenses du Hideaway.
+
+MISSION 35 - HERE BE MONSTERS
+
+AVANT DE PARTIR : Blacksmith's Blues et A Culinary Pilgrimage.
+
+- Blacksmith's Blues : lance la chasse Dozmare a Caer Norvent West Gate, bats
+  le mark, puis rapporte les composants a Blackthorne. Recompense : Drakeslayer's
+  Belt Design Draft, a conserver pour le souvenir du mur si necessaire.
+- A Culinary Pilgrimage : suis la route de Molly et ramasse chaque ingredient
+  dans les zones demandees.
+- Dans le Hideaway, lis A Flame None Brighter et All Quiet in the Dominion a la
+  Reading Table lorsqu'elles apparaissent.
+
+MISSION 36 - FIRE AND ICE
+
+- Donjon de l'Iron Kingdom. Ouvre toutes les salles laterales avant les portes
+  de progression et garde les materiaux de forge.
+- STEAM : Legacy tombe automatiquement a la fin de la mission.
+
+MISSION 37 - AFTER THE STORM
+
+AVANT DE PARTIR : The Root of the Problem et Cut from the Cloth.
+
+- The Root of the Problem : va au jardin, ramasse les composants de racine et
+  rapporte-les. Cette quete donne la premiere Morganbeard potion upgrade.
+- Cut from the Cloth : suis les etapes de tissu dans les villes indiquees.
+- Chasses : Sekhret a Greenheaves et Severian a Sorrowise sont maintenant
+  disponibles si ce n'est pas deja fait.
+- Harpocrates peut atteindre le niveau 5 si le reste des quetes et chasses est
+  fait. Parle-lui a chaque retour pour More Than You Know.
+
+MISSION 38 - CAPITAL PUNISHMENT
+
+DONJON : Rosalith Castle.
+
+- Fouille les couloirs lateraux et les cours avant chaque escalier de sortie.
+- Les coffres de la salle d'armes et du couloir de garde contiennent les pieces
+  d'equipement de la mission ; equipe la meilleure piece, mais ne vends jamais
+  les doublons a base d'Orichalcum.
+- STEAM : Twilight Rose tombe automatiquement apres la mission.
+
+MISSION 39 - BOLTS FROM THE BLUE
+
+- Titan debloque Titanic Block. Equipe-le immediatement.
+- Pour Untouchable, bloque 10 attaques avec le timing de precision. Le Bighorn
+  de Three Reeds encaisse bien et telegraphie ses coups.
+- Pour Beat Rocking Blocks, fais une parade parfaite puis les trois coups du
+  Titanic Counter. Reussis le troisieme coup deux fois dans le meme combat.
+- Ces deux succes excluent le Hall of Virtue : utilise une rencontre libre.
+
+MISSION 40 - GETTING TO WORK
+
+AVANT DE PARTIR : Do No Harm et The Weight of Command.
+
+- Do No Harm : depuis le Hideaway, bats les groupes de Hawk's Cry Cliff, ramasse
+  les 3 Errmonea Leaves et rapporte-les a Rodrigue.
+- The Weight of Command : suis les donneurs et les objets dans l'ordre du
+  journal ; les choix de dialogue n'empêchent pas les recompenses.
+- COFFRE / OBJET : garde l'accessoire de reduction de cooldown remis par les
+  quetes, puis retourne chez Blackthorne.
+
+MISSION 41 - RIDDLE OF THE SANDS
+
+ZONE : Dhalmekia, Dalimil Inn, Velkroy Desert.
+
+- Fastitocalon est dans le Velkroy Desert. Fais la chasse avant d'entrer dans
+  la prochaine zone de mission si tu veux conserver l'ordre du journal.
+- Follow the Crystals est la sous-quete obligatoire de cette etape. Termine-la,
+  puis fais Carving Out a Niche et Hot Water a Dalimil Inn.
+- Carving Out a Niche : parle au Flesher, au Hunter puis a Sava, suis Sava dans
+  le desert, ramasse les 3 Spring Limes dans Doeznov Terraces.
+- Hot Water : bats Old Faithful et les Bath Bombs dans Doeznov Terraces, puis
+  reviens voir Xaver.
+- La quete Follow the Crystals donne Desert Rose ; conserve-la pour le suivi de
+  curiosites et de Renown.
+
+MISSION 42 - FOLLOW THE CRYSTALS
+
+- Pendant la sous-mission, avance jusqu'a chaque salle de cristal, detruis les
+  groupes et inspecte les coffres avant le teleporteur.
+- Ne quitte pas la zone apres le boss sans prendre les recompenses de quete et
+  faire la sauvegarde de retour au Hideaway.
+
+MISSION 43 - INTO THE DARKNESS
+
+DONJON : Drake's Fang et Titan's Wake.
+
+- Fais le tour des alcoves avant chaque ascenseur. Les objets de combat des
+  salles laterales ne sont pas Steam mais accelerent la suite.
+- STEAM : From Stone to Sand tombe automatiquement en fin de mission.
+- Apres la mission, valide toute la liste de chasse disponible avant de repartir.
+
+MISSION 44 - OUT OF THE SHADOW
+
+AVANT DE PARTIR : For Great Justice et Use Your Loaf.
+
+- For Great Justice : commence a Lostwing, parle a Quinten, visite les points
+  de la quete et bats le groupe de Heavenhall. La suite For Great Justice II
+  sera necessaire pour un signboard et une chasse.
+- Use Your Loaf : accepte la quete a Dalimil Inn, visite les boulangers et
+  reviens voir Sava. Les choix de dialogue ne changent pas la recompense.
+- Chasses : Soul Stingers, Grimalkin, The Nine of Knives et Atlas deviennent
+  accessibles selon l'avancement et les quetes. Fais-les toutes maintenant si
+  leur entree apparait.
+
+MISSION 45 - LETTING OFF STEAM I
+
+- Sous-mission courte. Termine-la avant de lancer la suite de Mid.
+
+MISSION 46 - LETTING OFF STEAM II
+
+- Fais la mission puis ouvre chaque coffre de la zone de travail.
+- L'accessoire The Eye of the Warrior est la recompense de la sous-mission.
+
+MISSION 47 - LETTING OFF STEAM III
+
+AVANT DE PARTIR : reviens au Reading Table apres avoir parle a Mid deux fois.
+
+- Lis Off the Record, A Bad Feeling... et About Blackthorne. Ces lettres sont
+  les trois declencheurs de quetes de nettoyage du Hideaway.
+- Payback : accepte la quete depuis Off the Record, suis Gaute et termine-la.
+  Elle donne Cid's Goblet, souvenir 11/22 du Wall of Memories.
+- A Bone to Pick : accepte-la depuis A Bad Feeling..., termine la route et
+  recupere Cavall's Fang.
+- Blacksmith's Blues II : accepte About Blackthorne, lance la chasse necessaire,
+  puis rapporte la recette Excalibur Design Draft a Blackthorne.
+- Weird Science : lance la quete et bats Bomb King a The Crock. Recompense :
+  Treated Potion Satchel, l'amelioration d'inventaire 3/4.
+- STEAM : The Pen Is Mightier tombe en lisant 10 lettres, pas en lisant un nom
+  precis. Ne ferme pas la Reading Table sans ouvrir les nouvelles missives.
+
+MISSION 48 - ONWARD
+
+AVANT DE PARTIR : Get Cart.
+
+- Get Cart : suis les objectifs de Boklad.
+- COFFRE / OBJET : Sand and Stone Orchestrion Roll est dans Boklad Markets,
+  pres du cristal qui verse de l'eau dans un puits, a cote du batiment.
+- Betrayal Orchestrion Roll est achetable au marche de Boklad pour 20 000 gil.
+- Bearer of Good News, Onward to Discovery et Live and Let Live se debloquent
+  apres Blood from the Stones : garde-les pour le bloc suivant.
+
+MISSION 49 - TO CATCH A THIEF
+
+- Sous-mission de Onward. Suis la piste, inspecte le lieu final et reviens au
+  donneur de quete. Aucun objet Steam n'est laisse au sol.
+
+MISSION 50 - BLOOD FROM THE STONES
+
+AVANT DE PARTIR : termine les trois quetes de Boklad apres la sous-mission.
+
+- Bearer of Good News : visite Oldrich, Milan, Bolek puis Ondrej dans Boklad.
+- Onward to Discovery : accompagne les explorateurs et recupere la recompense
+  d'accessoire.
+- Live and Let Live : aide Kveta dans Boklad. Pendant l'objectif "Investigate
+  the top of the cliff", grimpe la plateforme a l'ouest de Steps of the
+  Forgotten et ouvre le coffre : Ancient Sword.
+- Crimson Collar et Crimson Compass sont remis par Eloise et Theodore. Le jeu
+  les assemble en Compass and Collar ; conserve les deux et verifie le Wall.
+- STEAM : The More You Know peut tomber maintenant si Harpocrates a atteint le
+  niveau 5. Sinon, ce sera garanti au nettoyage de fin.
+
+MISSION 51 - FIRE IN THE SKY
+
+DONJON : Crystalline Dominion.
+
+COFFRES / OBJETS :
+
+- Apres le deuxieme Dragoon Lancer sur les remparts, entre dans le batiment,
+  descends l'escalier avec les deux ennemis et ouvre le coffre a gauche : Favor
+  of Earth (Raging Fists).
+- Apres le boss dragon, bats le premier Lich, monte la corniche et ouvre le
+  coffre immediatement a droite : Breath of Lightning (Judgment Bolt).
+- Necrophobe donne Favor of Earth (Windup) en recompense de combat.
+- Light Shard tombe du boss et sert a fabriquer Brightburn.
+- STEAM : Twin Flames tombe automatiquement en fin de mission.
+
+MISSION 52 - THINGS FALL APART
+
+AVANT DE PARTIR : Why We Fight, The Flames of War et Down the Rabbit Hole.
+
+- Why We Fight : termine la mission de groupe a partir du Hideaway.
+- The Flames of War : suis les marqueurs a Northreach et termine l'entrainement.
+  Le souvenir Guardians Scarf est obtenu ici, 5/22 du Wall of Memories.
+- Down the Rabbit Hole : visite les lieux demandes et valide la quete.
+- Smooth Like Butler, An Eye for an Eye, Not to Be Outdone et On Balance
+  apparaissent pendant ce bloc. Termine les quatre avant de repartir : ils
+  donnent du Renown et ouvrent les conditions de chasses suivantes.
+- Bahamut debloque Megaflare. Pour 100 Mfps, lance des Megaflares de niveau 2+
+  jusqu'a 100 coups cumules.
+- Pour Such Dodge, So Mega, ameliore Wings of Light, puis esquive 3 attaques de
+  precision pendant une seule charge avant d'atteindre le niveau 4. Le Bighorn
+  de Three Reeds est la cible la plus lisible.
+- STEAM : The More You Know doit etre obtenu au plus tard ici avec Harpocrates.
+
+MISSION 53 - WHY WE FIGHT
+
+- Sous-mission liee a Things Fall Apart. Termine-la et controle le journal avant
+  de lancer The Flames of War.
+
+MISSION 54 - THE FLAMES OF WAR
+
+- Termine la sous-mission, recupere Guardians Scarf et reviens au Hideaway.
+- Pas de coffre critique, mais ouvre les pieces laterales pour les accessoires.
+
+MISSION 55 - DOWN THE RABBIT HOLE
+
+- Termine la sous-mission et les quatre suites Smooth Like Butler, An Eye for an
+  Eye, Not to Be Outdone, On Balance.
+- Visite Harpocrates au retour et achete les nouvelles capacites de Bahamut.
+
+MISSION 56 - CLOAK AND DAGGER
+
+AVANT DE PARTIR : six quetes de villes et la boucle de chasses.
+
+- Bad Blood : prends la quete a Rymasov Flat, bats les groupes de l'encampement
+  republicain et reviens au soldat mourant.
+- Skin Trade : a Tabor, bats le Dread Aevis des Fields of Corava, ramasse sa
+  peau et rapporte-la a Karel.
+- Carved in Stone : lis les 3 inscriptions a Tabor, puis reponds aux trois
+  questions des gardiens. Les reponses sont donnees par les inscriptions ; lis
+  les trois avant de parler a Milos.
+- For Great Justice II : debloquee apres For Great Justice I et l'obelisque
+  Gilded Path. Termine la route, bats Minas et les Akashic Shields. Recompense :
+  Hanged Man Signboard, souvenir 2/22.
+- Rekindling the Flame : visite Martha, bats les Unsavory Settlers et Two Scoops
+  a Eastpool, puis reviens a Martha.
+- Trading Places : a Boklad, bats les Feral Hounds et Helldivers de l'Abandoned
+  Fishing Village, puis reviens a Eloise.
+- COFFRE / OBJET : le Regal Sash se trouve dans le passage ouest de Krozjit
+  Echoes, apres le combat contre le Coeurl, sur le plateau. Il ne faut pas
+  confondre cette position avec l'ancienne position de Masamune.
+- Chasses : The Pack et Holy Trumpitour apparaissent dans ce bloc, dont Holy
+  Trumpitour depend de For Great Justice II.
+
+MISSION 57 - EVENFALL
+
+- Termine la mission principale et fais un tour des marchands.
+- Les zones de Sanbreque devenues accessibles doivent etre visitees pour Here
+  Be Rosfields. Si une map affiche une tache grisee, rends-toi dans ce secteur
+  avant de continuer.
+
+MISSION 58 - A SONG OF HOPE
+
+- Dread Comet apparait dans The Jaw, The Sickle. Fais la chasse avant Like
+  Father, Like Daughter.
+- Continue au Hideaway jusqu'a l'ouverture de la sous-mission suivante.
+
+MISSION 59 - LIKE FATHER, LIKE DAUGHTER
+
+AVANT DE PARTIR : Tears of Mercy, Blacksmith's Blues III et Please Sir.
+
+- Tears of Mercy : visite Tarja, bats les Mitelings de Old Road, ramasse Spider
+  Eye et rapporte-le. Parle a Tarja une seconde fois apres la quete : Medicine
+  Chest apparaitra plus tard, 17/22 du Wall.
+- Blacksmith's Blues III : termine la chasse et rapporte Ouroboros Design Draft.
+  La recette sert a fabriquer Ouroboros et est necessaire pour la forge complete.
+- Please Sir, Can I Have Some Morbol : bats Carrot dans Whispering Waters,
+  recupere Morbol Tendril et termine la quete. Recompense : Invigorated
+  Morganbeard Extract, amelioration de potions 2/4.
+- COFFRE / OBJET : achete The Lion and the Hare au marchand de Dravozd et The
+  Thousand Tables a Dalimil si tu veux la collection musicale ; ils ne comptent
+  pas dans les 69 succes.
+
+MISSION 60 - FULL STEAM
+
+- Mission de transition. Profite du retour au Hideaway pour lire les lettres,
+  forger et vider les nouveaux marqueurs verts.
+
+MISSION 61 - THROUGH THE MAELSTROM
+
+DONJON : navire et zones de combat.
+
+- COFFRE / OBJET : apres le combat du pont superieur, en rentrant sous le pont,
+  le coffre est a gauche avant l'echelle : Breath of Earth (Earthen Fury).
+- La recompense du boss est Will of Light (Impulse).
+- STEAM : The Promise tombe automatiquement apres la mission.
+
+MISSION 62 - ACROSS THE NARROW
+
+AVANT DE PARTIR : la grande vague de quetes de fin s'ouvre ici.
+
+- Shiva debloque Cold Snap, Frostbite et Diamond Dust.
+- Pour Oh, Snap!, esquive 10 attaques avec Cold Snap en esquive de precision.
+  Le Bighorn de Three Reeds permet de repeter ses coups lents.
+- Pour Cold-blooded, affaiblis 3 loups a Royal Meadows, gèle-les ensemble par
+  Permafrost puis tue-les avec Diamond Dust pendant qu'ils sont figes.
+- Self Determination : accepte la lettre Captain Dorys a la Reading Table et
+  termine la quete.
+- Blacksmith's Blues IV : termine la quete, recupere Ragnarok et Gotterdammerung
+  Design Draft. Ne fabrique pas Gotterdammerung tant qu'il manque des composants.
+- Even Weirder Science : recupere Expanded Potion Satchel, amelioration 4/4.
+  STEAM : With Two Ds tombe avec les quatre ameliorations de potions et slots.
+- Under New Management : suis les objectifs d'Isabelle a Northreach.
+- Rekindling the Flame II : termine la suite a Martha's Rest. Recompense :
+  Martha's Rest Signboard, souvenir 3/22.
+- Lines in the Sand : fais la quete de Dhalmekia.
+- Trading Places II : termine la suite d'Eloise. Recompense : Crimson Caravans
+  Signboard, souvenir 7/22.
+- Duty Undying : suis Cyril vers The Gilded Path. Le coffre sur le chemin ouest
+  de l'obelisque contient Ring of the Demolitionist.
+- Phoenix, Heal Thyself : termine la quete de Rodrigue et les combats de Hawk's
+  Cry Cliff.
+- Chasses : Gorgimera est disponible apres la visite de l'Infirmary ; fais-la
+  pour son Orichalcum et le Renown.
+
+MISSION 63 - FOOTFALLS IN ASH
+
+ZONE : Waloed, Shadow Coast, Skaithfarr.
+
+- Pandemonium se trouve a Skaithfarr. Termine la chasse avant de quitter la map.
+- COFFRE / OBJET : Masamune se trouve desormais pres du Chronolithe de Shiva,
+  Hand of Rhea, juste avant Rikmal's Roost dans The Angry Cape. L'ancienne
+  indication de Footfalls in Ash peut mener a une autre piece d'equipement ;
+  la position actuelle de Masamune est celle a retenir.
+- La zone The Edge of Infinity au sud de Waloed est souvent oubliee. Explore-la
+  completement pour Here Be Rosfields.
+
+MISSION 64 - THE LAST KING
+
+- Termine la mission et les coffres du donjon avant de quitter la zone.
+- STEAM : A Vessel Complete tombe automatiquement en fin de mission.
+- Odin est maintenant disponible, donc les succes Every Damn Sinew et Fistful
+  of Steel peuvent etre nettoyes.
+
+STEAM - COMBATS ODIN
+
+- Every Damn Sinew : avec Arm of Darkness, charge Zantetsuken au niveau 2 ou
+  plus et lance-le 5 fois hors Hall. Dancing Steel accelere la jauge.
+- Fistful of Steel : retire Ring of Timely Evasion. Dans un combat long contre
+  Bighorn, pare une attaque avec l'arme d'Odin puis enchaine immediatement le
+  Steel Counter. Fais-le 3 fois dans le meme combat.
+
+MISSION 65 - BROTHERHOOD
+
+AVANT DE PARTIR : Laid to Rest et toutes les chasses de Waloed.
+
+- Laid to Rest : termine la quete a la tour et lis la recompense dans le journal.
+- Gobermouch a Eistla donne Primitive Battlehorn, obligatoire pour
+  Gotterdammerung.
+- Agni a Halfcombe, Bygul a Kritten Hollow et Thanatos a Titan's Wake completent
+  les marks de ce bloc. Thanatos donne un Darksteel.
+- Terminus a The Crock donne le second composant de la zone et du Renown.
+
+MISSION 66 - STREETS OF MADNESS
+
+DONJON : Waloed, villes et chateau.
+
+COFFRES / OBJETS :
+
+- Apres le premier boss, dans la zone de ville, avant la porte basse, prends le
+  coffre a gauche : Will of Ice (Rime).
+- Dans le chateau, a la bifurcation avec les escaliers a gauche, entre dans la
+  salle a droite avant de remonter : Will of Light (Satellite).
+- Goetz vend Defender, Circle of Heaven et Sun Bracelets apres le grand combat.
+- STEAM : Ashes to Ashes tombe automatiquement en fin de mission.
+
+MISSION 67 - BACK TO THEIR ORIGIN
+
+POINT DE CONTROLE B - NE VOYAGE PAS VERS ORIGIN TANT QUE CETTE LISTE N'EST PAS VIDE
+
+Fais d'abord les 14 quetes secondaires de fin dans l'ordre ci-dessous.
+
+- More Than Words : accepte In a Mood a la Reading Table, suis le compagnon,
+  puis lis la lettre A Fine Hound qui arrive apres la quete.
+- An Inconvenient Truth : accepte In Search of a Lost Tome, termine la recherche
+  a Northreach et reviens au Hideaway. Recompense : Scholar's Bonnet.
+- A Tail to Tell : accepte Making Amends, termine la quete et recupere Stolas
+  Quill, souvenir 14/22.
+- Litany of Errors : accepte la quete au Hideaway et termine les etapes de
+  recherche. Recompense : Breath of Ice (Mesmerise).
+- Aiming High : termine la quete de Mid et recupere Model Airship, souvenir
+  12/22.
+- Trial and Error : apres le Tot Aevis, ouvre le coffre a cote de la tour pour
+  Kestrel's Beak Braid.
+- Silver Linings : termine la suite et recupere Winter Mead, souvenir 16/22.
+- Nobody's Tool : bats Kuza Beast a Balmung Dark. Cette quete ouvre aussi
+  Behemoth King a Vidargraes.
+- Where There's a Will : termine la quete et recupere Rusted Battlehelm,
+  souvenir 9/22, ainsi que Founder's Grasp. Lis les lettres My Beloved Sons,
+  Concern for Jill et The Wages of Fate lorsqu'elles sont proposees.
+- Priceless : accepte la quete depuis Concern for Jill et recupere Snow Daisy
+  Garland, souvenir 10/22. Cette quete est aussi un prealable des deux DLC.
+- Three's Company : recupere The Triunity Accord, souvenir 13/22.
+- Lines in the Sand II : recupere Briar's Kiss Signboard, souvenir 6/22.
+- Duty Undying II : recupere Clayhearth Signboard, souvenir 8/22 et visite
+  Mikkelburg pour Here Be Rosfields.
+- Under New Management II : recupere Veil Signboard, souvenir 4/22 et debloque
+  les deux dernieres chasses de Sanbreque.
+
+CHASSES DE FIN
+
+- Gizamaluk a Garnick apparait apres An Inconvenient Truth.
+- Kuza Beast est dans Balmung Dark pendant Nobody's Tool.
+- Behemoth King apparait a Vidargraes apres Nobody's Tool.
+- Knight of the Splendent Heart et Prince of Death sont tous les deux dans
+  Royal Meadows apres Under New Management II.
+- Apres ces cinq marks, les 32 entrees du Hunt Board doivent etre terminees.
+
+MATERIAUX DE GOTTERDAMMERUNG
+
+Blackthorne a besoin de : Ragnarok, 3 Orichalcum, 2 Darksteel et Primitive
+Battlehorn.
+
+- Ragnarok et le Design Draft : Blacksmith's Blues IV.
+- Primitive Battlehorn : Gobermouch.
+- Darksteel : Thanatos et Prince of Death.
+- Orichalcum : recompenses de plusieurs marks de rang S, dont Atlas, Svarog,
+  Gorgimera et Behemoth King.
+- Ne vends aucun de ces composants. Fabrique Gotterdammerung pour Half Past
+  Twilight, puis garde-le pour les Chronolithes et le NG+.
+
+STEAM - FIN DU JEU DE BASE AVANT ORIGIN
+
+- Equipe toutes les upgrades de potion et de slots : With Two Ds.
+- Parle a Tarja apres Tears of Mercy pour Medicine Chest.
+- Lis au moins 10 lettres, parle a Harpocrates et reclame les patron rewards.
+- Termine les 7 Chronolithes de base. Ils donnent les 7 accessoires de pouvoir
+  et, apres les 21 stages, Circle of Malius, souvenir 22/22.
+- Examine le Wall of Memories dans la chambre de Clive apres les 22 souvenirs.
+  For the Hoard ne tombe pas simplement en ramassant le dernier objet : il faut
+  interagir avec le mur.
+- Reclame les 16 Patron rewards chez Desiree, jusqu'a 2 850 Renown. Careful
+  Whisper tombe en recuperant le dernier palier.
+- Pour Here Be Rosfields, active les obelisques et ouvre les zones grisees de la
+  map. Les coins oublies les plus frequents sont Weeping Rent pres de Lostwing,
+  The Edge of Infinity en Waloed et Mikkelburg via Duty Undying II.
+
+LES 22 SOUVENIRS DU WALL OF MEMORIES
+
+Cette liste est la seule qui compte pour For the Hoard. Le mur contient 22
+emplacements ; les objets orange et les rouleaux ne remplacent pas ces souvenirs.
+
+1. The Oath - automatique pendant Cid the Outlaw.
+2. Hanged Man Signboard - For Great Justice II.
+3. Martha's Rest Signboard - Rekindling the Flame II.
+4. Veil Signboard - Under New Management II.
+5. Guardians Scarf - The Flames of War.
+6. Briar's Kiss Signboard - Lines in the Sand II.
+7. Crimson Caravans Signboard - Trading Places II.
+8. Clayhearth Signboard - Duty Undying II.
+9. Rusted Battlehelm - Where There's a Will.
+10. Snow Daisy Garland - Priceless.
+11. Cid's Goblet - Payback.
+12. Model Airship - Aiming High.
+13. The Triunity Accord - Three's Company.
+14. Stolas Quill - A Tail to Tell.
+15. Scholar's Bonnet - An Inconvenient Truth.
+16. Winter Mead - Silver Linings.
+17. Medicine Chest - parle a Tarja apres la chaine Tears of Mercy.
+18. Continental Censer - recompense de quete de fin dans la chaine de villes.
+19. Martelle Apples - The Fruits of Her Labors.
+20. Ambrosia's Tack - The White-Winged Wonder.
+21. Charred Sparring Sword - More Than Words.
+22. The Circle of Malius - les 7 Chronolithes de base termines dans leurs 3
+    stages respectifs.
+
+LES 7 CHRONOLITHES DU JEU DE BASE
+
+Chaque epreuve comprend 3 salles, 3 vagues par salle, puis un boss final.
+Fais-les apres Gotterdammerung. Une epreuve reussie suffit pour Trial Run ; les
+7 sont necessaires a Circle of Malius et For the Hoard.
+
+- Hand of Hyperion - Phoenix - Rosaria, Martha's Rest, Greenheaves. Recompense :
+  Favor of Fire (Flames of Rebirth).
+- Hand of Dione - Garuda - Dhalmekia, Krozjit Echoes. Recompense : Will of Wind
+  (Aerial Blast).
+- Hand of Iapetus - Ramuh - Sanbreque, Caer Norvent River Gate, Norvent Valley.
+  Recompense : Favor of Lightning (Judgment Bolt).
+- Hand of Titan - Titan - Dhalmekia, Velkroy Desert, Northern Velkroy Desert.
+  Recompense : Favor of Earth (Earthen Fury).
+- Hand of Mimas - Bahamut - Sanbreque, Royal Meadows, Cape Orsiere. Recompense :
+  Favor of Light (Gigaflare).
+- Hand of Rhea - Shiva - Waloed, Eistla, The Angry Cape. Recompense : Will of
+  Ice (Diamond Dust).
+- Hand of Enceladus - Odin - Waloed, Vidargraes, Badbach Conservatory.
+  Recompense : Will of Darkness (Dancing Steel).
+
+CONSEILS CHRONOLITHE
+
+- Phoenix : garde Scarlet Cyclone et Flames of Rebirth pour les groupes.
+- Garuda : utilise Deadly Embrace pour regrouper puis Aerial Blast.
+- Ramuh : marque plusieurs cibles avec Blind Justice avant de liberer les orbes.
+- Titan : garde le bloc de precision pour les grosses attaques et enchaine les
+  Titanic Counters sur les ennemis lourds.
+- Bahamut : prends le temps de charger Megaflare, puis utilise Gigaflare sur le
+  boss final.
+- Shiva : Cold Snap et Diamond Dust controlent les groupes ; ne gaspille pas
+  Diamond Dust sur une vague presque morte.
+- Odin : retire Ring of Timely Strikes/auto-combo et garde Zantetsuken niveau 5
+  pour chaque vague. C'est la regle la plus importante de cette epreuve.
+
+LES 16 PATRON REWARDS
+
+Desiree se trouve au Patron's Whisper, a cote du Hunt Board. Le Renown est
+cumule, pas depense : reclame chaque palier sans crainte.
+
+1. Talk of the Teahouse - 15 Renown.
+2. Respect - 45 Renown.
+3. Pillow Talk - 85 Renown, Berserker Ring.
+4. A Swelling Chorus - 135 Renown.
+5. A Prayer for Safe Travels - 205 Renown, Cleric's Medallion.
+6. Safe Passage - 295 Renown, Dire Wolf Jess.
+7. A Token - 410 Renown.
+8. The Bearer's Plight - 550 Renown.
+9. A Light From The Heavens - 715 Renown, High Cleric's Medallion.
+10. A Pall Lifted - 905 Renown.
+11. Newfound Purpose - 1 120 Renown.
+12. A Gift - 1 360 Renown, Talisman of Priming.
+13. A Fitting Performance - 1 635 Renown.
+14. Faith Undying - 1 965 Renown, Ring of the Swiftshot.
+15. Continental Acclaim - 2 365 Renown, Genji Gloves.
+16. Unsigned - 2 850 Renown.
+
+MISSION 68 - OF GODS AND MEN
+
+DERNIERE VERIFICATION AVANT DEPART :
+
+- Wall of Memories examine et 22/22.
+- 32/32 Hunt Board.
+- 16/16 Patron rewards.
+- 4/4 upgrades de potion et slots.
+- Gotterdammerung fabrique.
+- 7 Chronolithes de base termines.
+- 10 lettres lues minimum.
+- Here Be Rosfields obtenu ou map sans tache grisee.
+- Tous les succes de combat de la partie 1 nettoyes, sauf ceux prevus pour le
+  NG+ ou les DLC.
+
+Termine la mission finale et laisse les credits defiler. STEAM : Falling Star
+tombe automatiquement apres la fin. Cree ensuite le clear save ; ce fichier est
+la base de tout le nettoyage et du New Game+.
+
+PARTIE 4 - ECHOES OF THE FALLEN
+
+ORDRE DE LANCEMENT
+
+- Sur le clear save, verifie que Where There's a Will et Priceless sont terminees.
+- Parle a Charon au Hideaway pour lancer Echoes of the Fallen.
+- Fais une sauvegarde avant d'entrer dans The Sagespire. Le donjon est lineaire,
+  mais plusieurs coffres sont places avant les ascenseurs et les boss.
+- STEAM : A Crystal Darkly tombe au lancement ; The Only Way Is Up tombe en
+  entrant dans la Spire.
+
+ROUTE DU SAGESPIRE ET DES 6 FALLEN BITS
+
+- Escapement Bit : premier coffre du Sagespire, dans la section apres l'entree
+  et avant le premier grand ascenseur. Explore la salle laterale avant de
+  prendre l'ascenseur.
+- Nourishment Bit : coffre de la section Lower Ring, apres l'ascenseur et avant
+  la salle avec les ennemis de la Spire. Fais le tour des passerelles.
+- Bombardment Bit : coffre dans la section suivante, avant la salle de boss
+  Sigma. Ne passe pas la porte d'arene avant d'avoir fouille l'alcove.
+- Disengagement Bit : coffre dans la zone intermediaire avant Angra Mainyu.
+  Suis la passerelle secondaire plutot que la ligne de lumiere principale.
+- Assailment Bit : coffre dans la section finale de la Spire, avant Omega.
+- Revivement Bit : dernier coffre de la route, dans la salle juste avant le
+  couloir final. Verifie le compteur 6/6 avant d'engager Omega.
+- STEAM : Bit Fit tombe au sixieme Fallen Bit.
+
+BOSS OMEGA ET FORGE
+
+- Termine les rencontres, puis Omega. Les objets Fallen Enforcer, Omega Nodule,
+  Living Tissue et Aqueous Humours sont les composants de l'Omega Weapon.
+- Reviens au Black Hammer apres la fin de l'expansion et fabrique Omega Weapon.
+- STEAM : Repercussion tombe a la fin d'Echoes ; My Reward Is with Me tombe en
+  forgeant l'Omega Weapon.
+- OMG exige de vaincre Omega en Final Fantasy Mode. Fais-le dans le NG+ plutot
+  que de rejouer un troisieme cycle.
+
+PARTIE 5 - THE RISING TIDE
+
+PREALABLES
+
+- Atteins Back to Their Origin sur le clear save.
+- Termine Where There's a Will et Priceless.
+- Lis la lettre sans marqueur a la Reading Table pour The Calm.
+- La zone Mysidia ne compte pas dans Here Be Rosfields, mais elle est necessaire
+  aux 13 succes DLC et a la completion de la fiche.
+
+MISSION DLC - THE RISING TIDE : ARRIVEE A MYSIDIA
+
+- Lis la lettre, rejoins le point de rendez-vous et suis Shula vers Mysidia.
+- Active l'obelisque de Tailwind Bay des que possible.
+- Dans Haven, vide le marchand et la forge quand ils deviennent disponibles.
+- STEAM : Homecoming tombe en entrant dans Mysidia.
+
+COFFRES DE HAVEN ET PREMIERES QUETES
+
+- Au sud de Haven, coffre acier pres d'une remise : Ageless Odorament.
+- Au sud de la maison proche de Witanhall, suis le petit chemin vers le coffre :
+  Writ in Water Orchestrion Roll et Silver Penning.
+- Entre dans Witanhall et recupere Ceaseless Rill.
+- It's the Thought that Counts : parle aux deux Flower Pickers pres du bassin,
+  apporte les 2 Basketful of Flowers a Pavaat. Recompense : Reflection of Earth
+  (Titanic Block). La forge de Haven s'ouvre.
+- The Pursuit of Knowledge : parle au Keeper of the Low Gate, puis a l'enfant
+  curieux de River's Edge. Le magasin de Haven s'ouvre.
+- Achete Minwu Waistcloth et Minwu Arm Ring des que possible.
+
+MISSION DLC - LEVIATHAN ET TAILWIND BAY
+
+- Depuis High Gate, traverse Father's Fell. A la bifurcation de Winged Wains,
+  prends d'abord la route ouest pour explorer, puis reviens par la route est.
+- Dans Swiftrum River, coffre en bois pres du grand arbre a l'est : Silver
+  Penning et Magicked Ash.
+- Dans la route est de Winged Wains, coffre acier pres du grand arbre apres le
+  Quindim : Fool's Gold. Garde-le pour l'arme de fin du DLC.
+- Active l'obelisque de Tailwind Bay et poursuis vers The Surge.
+- Apres le combat Perykos, Leviathan devient disponible.
+- STEAM : Flow tombe apres le combat et l'eveil du pouvoir.
+- Entraine-toi avec Serpent's Cry : les attaques melee et magie deviennent
+  Tidal. Pour Tideslinger, realise 300 attaques Tidal hors Hall.
+- Pour Supersoaker, affaiblis trois ennemis proches, aligne les deux cercles de
+  Quick Refill avec Serpent's Cry, puis tue les 3 ennemis pendant les munitions
+  infinies. Les groupes d'Ibex de Tailwind Bay sont les plus simples.
+
+QUETES DE MYSIDIA APRES L'EVEIL
+
+- Roles of Honor : inspecte la structure de Winged Wains si tu veux le dialogue
+  optionnel, parle a Sinewy Soul, traverse Riversmeet et bats Muddy Quindim et
+  Pincher Crabs. Reviens a Qatav.
+- Bird of Passage : parle a Manda, va a Martha's Rest voir Rowan, prends Mimett
+  Gourd et rapporte-le au pere de Manda dans Royal Meadows. Ambrosia devient
+  montable a Mysidia.
+- The Uninvited Guest : inspecte la bouteille de Path of Silence, bats les Wolf
+  Traps et Widowmakers, puis reviens a Jamila.
+- What Ails You : parle a Pavaat, Blasir et Fanet, bats les Tonberry Choppers de
+  Green Altar, inspecte l'autel et rapporte Silver Chain. Recompenses : Serpent
+  Ring Design Draft et Adder Stone.
+- The Serpent Ring Design Draft ouvre quatre accessoires de Leviathan : Serpent's
+  Wonder (Deluge), Serpent's Word (Cross Swell), Serpent's Watch (Abyssal Tear)
+  et Serpent's Worth (Tsunami). Il faut 8 Aquamarines, 2 par accessoire.
+
+AQUAMARINES ET COFFRES DE MYSIDIA
+
+- Aquamarine 1 : Conviction, mur juste au sud du nom sur la map, apres le fast
+  travel Lost Cloak.
+- Aquamarine 2 : Cloaktop, chemin de River's Edge, le long du mur sud.
+- Aquamarine 3 : Father's Fell, en bas de la colline, rocher pres des Wolf
+  Traps/Widowmakers.
+- Aquamarine 4 : Sunken Ruins, coin nord-ouest derriere les piliers casses.
+- Aquamarine 5 : Lesser Archelon pres du coffre de Tailwind Bay, apres Adder
+  Stone.
+- Aquamarine 6 : Father's Fell, grand arbre pres du coffre Fool's Gold, apres le
+  second Quindim.
+- Aquamarine 7 : Maiden's March, gros rocher au bord ouest apres le premier
+  groupe de Grey Widows.
+- Aquamarine 8 : dernier groupe de Mysidia, a prendre sur la route de la zone
+  finale ou dans le coffre/evenement signale par l'Adder Stone.
+- Fabrique les quatre Serpent accessories chez Pavaat avant d'entrer dans Aire
+  of Hours. Si une Aquamarine manque, utilise l'Adder Stone : les ennemis ou
+  coffres bleus de Mysidia indiquent leur presence.
+
+CHRONOLITHE 8 - HAND OF TETHYS / TRIAL BY WATER
+
+ZONE : Languor Falls, apres Riversmeet et Sunken Ruins.
+
+- Le Chronolithe comprend 4 stages : 3 salles de vagues, puis Waterbound King.
+- Stage 1 : Worgens et Wolf Traps, puis Domovikhas/Domovois, puis Waterbound
+  Guardian.
+- Stage 2 : Ibis/Antelopes, puis Creepers/Hexers, puis Waterbound Terminal et
+  Hunters.
+- Stage 3 : Undertaker/Frost Bombs, puis Raptors/Vultures, puis Waterbound
+  Master et Trifle.
+- Stage 4 : Waterbound King.
+- Utilise Cross Swell pour grouper, Tidal Torrent pour la volonte et Tsunami sur
+  les vagues denses. Recompense : Favor of Water (Tsunami).
+- STEAM : Still Breathing tombe en terminant les 4 stages de Trial by Water.
+
+SUITE DE MYSIDIA ET QUETES POST-DLC
+
+- Last Licks : apres The Rising Tide, bats les Ibexes de Father's Fell, inspecte
+  les fleurs de Dark Gate, lis les traces dans Gallery et bats Guivre.
+  Recompense : Reflection of Darkness (Arm of Darkness).
+- Beyond the Grave : bats les Chronoraptors et Gyps de Witchdrop, puis inspecte
+  la tombe.
+- Reign of Pain : bats les Tonberry Creepers de Low Gate et Cloaktop, puis le
+  Tonberry King.
+- Lost in the Woods : visite le chasseur de Riversmeet, bats Archelon, inspecte
+  les cadavres de crabes dans Sunken Ruins et bats Thalaos.
+- The Water of Life : disponible apres Last Licks. Recupere les 3 phials,
+  remplis-les a Riversmeet, Maiden's March et Journey's End de Tailwind Bay,
+  puis rapporte-les a Famiel. Recompense : First Rain Talisman.
+- Il y a 11 quetes de Mysidia : It's the Thought that Counts, The Pursuit of
+  Knowledge, Roles of Honor, Bird of Passage, The Uninvited Guest, What Ails
+  You, Last Licks, Beyond the Grave, Reign of Pain, Lost in the Woods, The Water
+  of Life. Termine les 11 pour une fiche complete ; 10 suffisent a The End Can
+  Wait.
+- STEAM : The End Can Wait tombe a la dixieme quete de Mysidia.
+
+MISSION DLC - AIRE OF HOURS ET FIN DE THE RISING TIDE
+
+- Entre dans Aire of Hours depuis Maiden's March. Ouvre le coffre de l'entree
+  avant les escaliers : Will of Water (Cross Swell).
+- Parcours chaque salle et chaque alcove avant de lancer les portes de boss.
+- Termine les combats Timekeeper puis Leviathan.
+- STEAM : Flood tombe apres Timekeeper ; Explain That tombe apres Leviathan.
+- Pour Thou Brakest the Head, la victoire contre Leviathan doit etre faite en
+  Final Fantasy Mode. C'est une raison de reserver le boss pour le NG+.
+
+PARTIE 6 - ULTIMA, LEVIATHAN ET KAIROS GATE
+
+DEUS EX
+
+- Apres The Rising Tide et la fin de la campagne, retourne au Hideaway.
+- L'Arete Stone affiche un marqueur inhabituel. Lance le combat d'essai et
+  termine-le : Ultima devient disponible comme Eikon.
+- STEAM : Deus Ex tombe apres cette activation.
+
+A MOST WORTHY VESSEL
+
+- Dans le menu Abilities, rembourse temporairement les points avec le bouton de
+  remboursement, puis achete et masterise toutes les capacites de Leviathan et
+  d'Ultima. Recommence ensuite la configuration souhaitee.
+- Ne confonds pas "acheter" et "masteriser" : chaque capacite doit afficher son
+  niveau maximum.
+- STEAM : A Most Worthy Vessel tombe quand les deux arbres sont complets.
+
+KAIROS GATE / OCCASIO CALVA
+
+- Kairos Gate se lance depuis l'Arete Stone apres The Rising Tide.
+- Une run comprend 20 cercles, chacun avec 3 vagues et un combat final tous les
+  5 cercles. La mort remet la run a zero.
+- Au debut de chaque cercle, choisis les bonus de degats, de cooldown et de
+  soin qui compensent le mieux ta configuration. Garde les bonus de score pour
+  les combats ou tu es deja a l'aise.
+- Pour le succes, terminer les 20 cercles suffit ; le rang S sur chaque cercle
+  n'est pas obligatoire pour Occasio Calva.
+- Les anneaux de confort restent autorises mais reduisent le score. Si tu veux
+  le boss secret, vise S sur les 20 cercles et n'utilise pas d'anneau penalise.
+- Fais une sauvegarde avant la tentative, car une run incomplete ne se reprend
+  pas au milieu.
+- STEAM : Occasio Calva tombe en terminant les 20 cercles.
+
+PARTIE 7 - SUCCES DE COMBAT : PROCEDURES PROPRES
+
+Ces procedures utilisent des zones normales, jamais le Hall of Virtue, pour
+respecter les exclusions Steam. Le Bighorn de Three Reeds sert de cible de
+confiance pour les actions de precision ; laisse-le en vie, soigne Torgal avec
+la commande Heal et recharge la zone si le compteur ne monte pas.
+
+- Sheeeeeeeeeeeeeeeift : Phoenix Shift puis Square ou Triangle, 15 Shift Strikes
+  ou Shift Shots cumules.
+- Punisher : frappe un ennemi au sol avec l'attaque melee, 10 fois.
+- Dressed to the Fives : craft ou upgrade 5 pieces chez Blackthorne ou Pavaat.
+- I Am the Thunder : Blind Justice, 50 orbes de foudre liberees.
+- It's Over 50,000 : sur une seule mise en stagger, fais 50 000 degats. En NG+
+  avec Zanetsuken, Gigaflare et Limit Break, le seuil tombe naturellement.
+- Untouchable : Titanic Block 10 attaques. Le texte Precision Block doit apparaitre.
+- With Two Ds : quatre upgrades, soit Morganbeard Extract, Invigorated Morganbeard
+  Extract, Treated Potion Satchel et Expanded Potion Satchel.
+- Beat Rocking Blocks : deux fois le troisieme coup du Titanic Counter dans le
+  meme combat.
+- Fatal Attraction : tue 5 ennemis encore en l'air apres Deadly Embrace.
+- Rod to Redemption : un meme ennemi frappe Lightning Rod trois fois avant sa
+  disparition.
+- Packing Heat : deux Heatwave Counters dans un combat, uniquement sur projectiles.
+- Never Coming Down : en l'air, place au moins une fois Gouge, Wicked Wheel et
+  Rook's Gambit avant d'atterrir.
+- 100 Mfps : Megaflare niveau 2 ou plus, 100 hits cumules.
+- Such Dodge, So Mega : trois Precision Dodges pendant une seule charge de
+  Megaflare, avant niveau 4.
+- Oh, Snap! : Cold Snap en esquive parfaite, 10 Permafrost.
+- Cold-blooded : tue simultanement au moins 3 ennemis geles par Frostbite,
+  Permafrost ou Diamond Dust.
+- Every Damn Sinew : cinq Zantetsuken niveau 2 ou plus.
+- Fistful of Steel : trois Steel Counters dans le meme combat ; retire l'anneau
+  d'esquive automatique.
+- Tideslinger : 300 attaques Tidal cumulees avec Serpent's Cry.
+- Supersoaker : trois ennemis tues pendant les munitions infinies de Quick Refill.
+
+PARTIE 8 - NEW GAME+ FINAL FANTASY MODE
+
+PREPARATION
+
+- Charge le clear save, choisis New Game+ puis Final Fantasy Mode.
+- Garde Omega Weapon ou Gotterdammerung selon la version disponible, les
+  capacites et les accessoires. Le contenu de collection deja valide n'a pas a
+  etre ramasse deux fois.
+- Equipe Ring of Timely Evasion seulement pour le confort. Pour Fistful of Steel,
+  Kairos Gate et les actions de parade, retire-le.
+- Equipe On Fortune and the Heavens pour l'EXP, puis Genji Gloves ou l'accessoire
+  de degats disponible. Craft les variantes + lorsque Blackthorne affiche une
+  nouvelle recette.
+- Active le skip des cutscenes si tu veux la route rapide. Ne saute pas les
+  combats obligatoires et verifie chaque marque de mission dans le journal.
+
+ROUTE NG+ RAPIDE
+
+- Suis les 68 missions principales uniquement. Ignore les quetes et coffres deja
+  valides, sauf si tu as besoin d'AP, de materiaux ou d'un objet de forge.
+- Termine les missions jusqu'a The Last King pour recuperer Odin, puis utilise
+  Dancing Steel et Zantetsuken niveau 5 contre les groupes.
+- Contre les boss : casse la barre de volonte avec Diamond Dust, Upheaval et
+  Scarlet Cyclone, puis enchaine Zantetsuken, Limit Break et Gigaflare pendant
+  le stagger.
+- Pour Masterclass, toutes les capacites de tous les arbres doivent etre au
+  maximum, y compris l'arbre central. Si les AP manquent, farm les Hyenas de
+  Vidargraes en fin de NG+ avec l'accessoire d'AP.
+- Termine Echoes en Final Fantasy Mode dans ce cycle, puis vaincs Omega : OMG.
+- Lance The Rising Tide dans le meme NG+, termine Aire of Hours et bats
+  Leviathan : Thou Brakest the Head.
+- Termine ensuite les quetes et les activites de DLC necessaires a la fiche.
+- Termine les missions jusqu'a Of Gods and Men : Fantasy, Finally tombe a la
+  fin du jeu en Final Fantasy Mode.
 
 CHECKLIST FINALE - 69/69 SUCCES STEAM
 
@@ -196,12 +1375,27 @@ CHECKLIST FINALE - 69/69 SUCCES STEAM
 - [ ] Thou Brakest the Head
 - [ ] The Chronicler
 
-VERIFICATION
+VERIFICATION FINALE
 
-- [ ] 69/69 succès Steam dans le profil.
-- [ ] Campagne, quêtes +, chasse, forge, cartes, patrons, curiosités et défis
-      vérifiés.
-- [ ] Echoes of the Fallen et The Rising Tide contrôlés séparément.
-- [ ] Final Fantasy Mode et objectifs de combat confirmés.
-- [ ] Aucun online requis et aucune révélation narrative présente.
+- Profil Steam : 69/69 succes.
+- Journal : 68 missions principales et 76 quetes secondaires terminees.
+- Hunt Board : 32/32 marks termines.
+- Wall of Memories : 22/22 et mur examine.
+- Patron's Whisper : 16/16 rewards reclamees.
+- Chronolithes : 7 de base + Hand of Tethys termines.
+- Echoes : 6/6 Fallen Bits, Omega Weapon forge.
+- Rising Tide : 11/11 quetes de Mysidia, Trial by Water et Kairos Gate termines.
+- NG+ : Omega vaincu en Final Fantasy Mode, Leviathan vaincu en Final Fantasy
+  Mode, campagne terminee en Final Fantasy Mode.
+- Aucune revelation de scenario n'est necessaire pour utiliser cette route.
 
+SOURCES DE VERIFICATION
+
+- Liste officielle Steam : https://steamcommunity.com/stats/2515020/achievements
+- Missions et quetes : https://www.powerpyx.com/final-fantasy-16-xvi-walkthrough-all-quests/
+- Collectibles : https://www.powerpyx.com/final-fantasy-16-xvi-all-collectible-locations-guide/
+- Chasses : https://www.powerpyx.com/final-fantasy-16-xvi-all-hunt-board-quest-locations-notorious-marks/
+- Patron's Whisper : https://www.powerpyx.com/final-fantasy-16-xvi-all-patron-items-locations/
+- Rising Tide : https://gamefaqs.gamespot.com/ps5/300958-final-fantasy-xvi/faqs/81194/the-rising-tide
+- Quetes Rising Tide : https://gamefaqs.gamespot.com/pc/491057-final-fantasy-xvi-the-rising-tide/faqs/81194/sidequests
+- Succes et conditions : https://jegged.com/Games/Final-Fantasy-XVI/Achievements-and-Trophies/Full-Descriptions.html
