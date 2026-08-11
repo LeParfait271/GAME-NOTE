@@ -37,6 +37,8 @@ test("le shell statique conserve les repères accessibles", () => {
   assert.match(index, /class="skip-link"/);
   assert.match(index, /application\/ld\+json/);
   assert.match(index, /class="mobile-bottom-nav"/);
+  assert.match(index, /class="guide-card-open"/);
+  assert.doesNotMatch(index, /favorite-toggle|Afficher les guides favoris|Favoris \(/i);
   assert.match(index, /aria-keyshortcuts="Control\+K Meta\+K"/);
   assert.match(index, /aria-keyshortcuts="\/"/);
   assert.doesNotMatch(index, /\uFFFD/);
