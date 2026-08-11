@@ -3147,7 +3147,7 @@ export default function Home() {
             url: "https://game-note.pages.dev/",
             inLanguage: "fr-FR",
             description:
-              "Des soluces chronologiques pour jouer sans rater les succès, quêtes et collectibles.",
+              "Le carnet de route Game Note : des guides chronologiques, sans spoiler, pour garder le bon repère au bon moment.",
           }),
         }}
       />
@@ -3156,13 +3156,16 @@ export default function Home() {
       </a>
       <header className="topbar">
         <a className="brand" href="#top" aria-label="Game Note, accueil">
-          <span className="brand-mark">GN</span>
+          <span className="brand-mark" aria-hidden="true">
+            <span>GN</span>
+            <i />
+          </span>
           <span>
             <strong className="wordmark">
               <span>GAME</span>
               <em>NOTE</em>
             </strong>
-            <small>guides qui vont droit au but</small>
+            <small>carnet de route · sans détour</small>
           </span>
         </a>
 
@@ -3208,35 +3211,37 @@ export default function Home() {
 
       <section className="hero" id="top">
         <div className="hero-copy">
-          <p className="kicker">GUIDES DE PROGRESSION · SANS SPOILER</p>
+          <p className="kicker"><span>ROUTE 01</span><span>CARNET DE JEU · SANS SPOILER</span></p>
           <h1>
-            Le bon chemin.
+            Une partie.
             <br />
-            <em>Sans rien rater.</em>
+            Une route.
+            <br />
+            <em>Pas un oubli.</em>
           </h1>
           <p className="hero-intro">
-            Des routes chronologiques qui te disent quoi faire, quand le faire et
-            quoi ne surtout pas oublier.
+            Game Note transforme chaque grande aventure en carnet de route : les
+            bonnes étapes, au bon moment, sans détour ni spoiler.
           </p>
           <div className="hero-actions">
             <a className="button button-primary" href="#guides">
-              Explorer la bibliothèque <span aria-hidden="true">↓</span>
+              Tracer ma route <span aria-hidden="true">↓</span>
             </a>
             <a className="button button-quiet" href="#reader">
-              Reprendre la lecture <span aria-hidden="true">↗</span>
+              Ouvrir le lecteur <span aria-hidden="true">↗</span>
             </a>
           </div>
           <div className="hero-proof" aria-label="Ce que propose Game Note">
-            <span><strong>{guides.length}</strong> guides</span>
-            <span><strong>01</strong> checklist locale</span>
-            <span><strong>24/7</strong> hors ligne</span>
+            <span><strong>{guides.length}</strong> routes prêtes</span>
+            <span><strong>01</strong> repère à la fois</span>
+            <span><strong>0</strong> bruit inutile</span>
           </div>
         </div>
 
         <div className="hero-feature" aria-label={`Guide en vedette : ${selected.title}`}>
           <div className="feature-topline">
-            <span>GUIDE EN VEDETTE</span>
-            <span>{selected.count}</span>
+            <span><i className="feature-route-dot" aria-hidden="true" /> REPÈRE ACTIF</span>
+            <span>ROUTE 01 / {selected.count}</span>
           </div>
           <div className="feature-artwork">
             {/* eslint-disable-next-line @next/next/no-img-element */}
@@ -3250,7 +3255,7 @@ export default function Home() {
             <span className={`feature-accent feature-accent-${selected.accent}`} />
           </div>
           <div className="feature-copy">
-            <p className="feature-eyebrow">{selected.eyebrow} · {selected.tag}</p>
+            <p className="feature-eyebrow">{selected.eyebrow} <span aria-hidden="true">/</span> {selected.tag}</p>
             <h2>{selected.title}</h2>
             <p>{selected.subtitle}</p>
             <button
@@ -3258,7 +3263,7 @@ export default function Home() {
               type="button"
               onClick={() => scrollToReader(selected.id, setSelectedId, setSearch)}
             >
-              Lire le guide <span aria-hidden="true">↗</span>
+              Ouvrir la route <span aria-hidden="true">↗</span>
             </button>
           </div>
         </div>
@@ -3266,40 +3271,43 @@ export default function Home() {
 
       <section className="stats-row" aria-label="Chiffres clés">
         <div>
+          <span className="stat-label">01 / BIBLIOTHÈQUE</span>
           <strong>{guides.length}</strong>
-          <span>guides accessibles immédiatement</span>
+          <span>routes prêtes à partir</span>
         </div>
         <div>
+          <span className="stat-label">02 / REPÈRE</span>
           <strong>01</strong>
-          <span>recherche pour trouver le bon repère</span>
+          <span>recherche pour viser juste</span>
         </div>
         <div>
+          <span className="stat-label">03 / TRACE</span>
           <strong>0</strong>
-          <span>compte nécessaire pour jouer</span>
+          <span>compte nécessaire pour avancer</span>
         </div>
       </section>
 
       <section className="section-block" id="guides">
         <div className="section-heading">
           <div>
-            <p className="kicker">LA BIBLIOTHÈQUE</p>
-            <h2>Le guide qu’il te faut.</h2>
+            <p className="kicker"><span>LA BIBLIOTHÈQUE</span><span>/ REPÈRES DISPONIBLES</span></p>
+            <h2>Choisis ta route.</h2>
           </div>
           <p>
-            Recherche un jeu, ouvre sa route et garde ta progression sur cet
-            appareil. Rien ne vient ralentir la lecture.
+            Recherche un jeu, ouvre son dossier et garde ta progression sur cet
+            appareil. La route reste lisible, même quand la partie se complique.
           </p>
         </div>
 
         <div className="library-tools">
-          <label htmlFor="catalog-search">Rechercher dans les guides</label>
+          <label htmlFor="catalog-search">Trouver une route</label>
           <div className="catalog-search-wrap">
             <span aria-hidden="true">⌕</span>
             <input
               id="catalog-search"
               ref={catalogSearchRef}
               type="search"
-              placeholder="Ex. Resident Evil, RPG, collectibles…"
+              placeholder="Ex. Resident Evil, missables, DLC…"
               value={catalogSearch}
               aria-keyshortcuts="Control+K Meta+K"
               onChange={(event) => setCatalogSearch(event.target.value)}
@@ -3316,7 +3324,7 @@ export default function Home() {
             ) : null}
           </div>
           <span className="catalog-count" aria-live="polite">
-            {visibleGuides.length} guide{visibleGuides.length > 1 ? "s" : ""} sur {guides.length}
+            {visibleGuides.length} route{visibleGuides.length > 1 ? "s" : ""} sur {guides.length}
           </span>
           <span className="shortcut-hint">⌘K / Ctrl K</span>
         </div>
@@ -3333,7 +3341,7 @@ export default function Home() {
               key={guide.id}
             >
               <div className="card-top">
-                <span className="card-index">{String(index + 1).padStart(2, "0")}</span>
+                <span className="card-index">ROUTE {String(index + 1).padStart(2, "0")}</span>
                 <span className="card-tag">{guide.tag}</span>
               </div>
               <button
@@ -3356,7 +3364,7 @@ export default function Home() {
                   />
                 </div>
                 <div className="card-copy">
-                  <p className="card-eyebrow">{guide.eyebrow}</p>
+                  <p className="card-eyebrow">{guide.eyebrow} <span aria-hidden="true">/ REPÈRE</span></p>
                   <h3>{guide.title}</h3>
                   <p className="card-subtitle">{guide.subtitle}</p>
                   <div className="card-meta">
@@ -3365,7 +3373,7 @@ export default function Home() {
                     ))}
                   </div>
                   <span className="card-link">
-                    Lire la soluce <span aria-hidden="true">↗</span>
+                    Ouvrir la route <span aria-hidden="true">↗</span>
                   </span>
                 </div>
               </button>
@@ -3389,27 +3397,28 @@ export default function Home() {
 
       <section className="method-section" id="methode">
         <div className="method-heading">
-          <p className="kicker">LA MÉTHODE</p>
-          <h2>Tout ce qui sert. Rien de plus.</h2>
+          <p className="kicker"><span>LE PROTOCOLE</span><span>/ 3 GESTES UTILES</span></p>
+          <h2>La route, pas le bruit.</h2>
           <p>
-            Game Note reste un outil de jeu : lis, coche, reprends quand tu veux.
+            Une fiche Game Note tient dans trois gestes : trouver le repère,
+            avancer dans le bon ordre, laisser une trace.
           </p>
         </div>
         <div className="method-grid">
           <div className="method-item">
-            <span className="method-number">01</span>
-            <h3>Trouve vite</h3>
-            <p>Une recherche tolérante aux accents pour passer directement du jeu au guide.</p>
+            <span className="method-number">01 / REPÈRE</span>
+            <h3>Vise juste</h3>
+            <p>Une recherche tolérante aux accents pour passer directement de la partie au bon passage.</p>
           </div>
           <div className="method-item">
-            <span className="method-number">02</span>
-            <h3>Suis le bon ordre</h3>
+            <span className="method-number">02 / ORDRE</span>
+            <h3>Avance proprement</h3>
             <p>Les missables et les retours dans les zones arrivent au moment où ils servent.</p>
           </div>
           <div className="method-item">
-            <span className="method-number">03</span>
-            <h3>Garde la main</h3>
-            <p>Les cases cochées restent locales, le TXT se télécharge et le site reste installable.</p>
+            <span className="method-number">03 / TRACE</span>
+            <h3>Laisse une trace</h3>
+            <p>Les cases cochées restent locales, le TXT se télécharge et la route reste installable.</p>
           </div>
         </div>
       </section>
@@ -3426,11 +3435,11 @@ export default function Home() {
       <nav className="mobile-bottom-nav" aria-label="Navigation mobile">
         <a href="#top">
           <span aria-hidden="true">⌂</span>
-          <small>Accueil</small>
+          <small>Départ</small>
         </a>
         <a href="#guides">
           <span aria-hidden="true">▦</span>
-          <small>Guides</small>
+          <small>Routes</small>
         </a>
         <a href="#reader">
           <span aria-hidden="true">▤</span>
@@ -3452,17 +3461,20 @@ export default function Home() {
 
       <footer className="site-footer">
         <div className="footer-brand">
-          <span className="brand-mark">GN</span>
+          <span className="brand-mark" aria-hidden="true">
+            <span>GN</span>
+            <i />
+          </span>
           <span>
             <strong className="wordmark">
               <span>GAME</span>
               <em>NOTE</em>
             </strong>
-            <small>fait pour jouer, pas pour se perdre</small>
+            <small>carnet de route · sans détour</small>
           </span>
         </div>
-        <p>Guides sans spoiler · lecture locale · progression sur l’appareil</p>
-        <a href="#top">Retour en haut ↑</a>
+        <p>ROUTE CHRONOLOGIQUE · REPÈRES UTILES · TRACE LOCALE</p>
+        <a href="#top">Remonter au départ ↑</a>
       </footer>
     </main>
   );
