@@ -3,9 +3,9 @@ import "./globals.css";
 import PwaRegister from "./pwa-register";
 
 export const metadata: Metadata = {
-  title: "Game Note — le bon chemin, sans rien rater",
+  title: "Game Note — une partie, une route, pas un oubli",
   description:
-    "Des guides de progression chronologiques pour jouer sans spoiler et ne rien rater.",
+    "Le carnet de route Game Note : des guides chronologiques, sans spoiler, pour garder le bon repère au bon moment.",
   applicationName: "Game Note",
   authors: [{ name: "Game Note" }],
   keywords: ["guides jeux video", "succes Steam", "soluces", "sans spoiler"],
@@ -13,16 +13,16 @@ export const metadata: Metadata = {
   metadataBase: new URL("https://game-note.pages.dev"),
   alternates: { canonical: "/" },
   openGraph: {
-    title: "Game Note",
-    description: "Des guides de progression chronologiques pour jouer sans spoiler et ne rien rater.",
+    title: "Game Note — une partie, une route, pas un oubli",
+    description: "Le carnet de route sans spoiler pour avancer dans le bon ordre.",
     type: "website",
     url: "/",
     siteName: "Game Note",
   },
   twitter: {
     card: "summary",
-    title: "Game Note",
-    description: "Des guides de progression chronologiques pour jouer sans spoiler et ne rien rater.",
+    title: "Game Note — une partie, une route, pas un oubli",
+    description: "Le carnet de route sans spoiler pour avancer dans le bon ordre.",
   },
   robots: { index: true, follow: true },
   icons: {

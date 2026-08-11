@@ -1,7 +1,7 @@
 {
   "name": "Game Note",
   "short_name": "Game Note",
-  "description": "Guides de progression chronologiques, sans spoiler, disponibles hors-ligne",
+  "description": "Le carnet de route sans spoiler pour avancer dans le bon ordre, même hors-ligne",
   "id": "/",
   "start_url": "/",
   "scope": "/",
