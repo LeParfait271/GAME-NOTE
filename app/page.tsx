@@ -3010,6 +3010,9 @@ export default function Home() {
   const guideSearchRef = useRef<HTMLInputElement>(null);
 
   const selected = guides.find((guide) => guide.id === selectedId) ?? guides[0];
+  const selectedRouteNumber = String(
+    Math.max(0, guides.findIndex((guide) => guide.id === selected.id) + 1),
+  ).padStart(2, "0");
   const visibleGuides = useMemo(() => {
     const query = normalizeCatalogText(catalogSearch.trim());
 
@@ -3177,7 +3180,7 @@ export default function Home() {
 
         <div className="topbar-route-code" aria-hidden="true">
           <span>FIELD GUIDE</span>
-          <strong>GN / 01</strong>
+          <strong>{"GN / " + selectedRouteNumber}</strong>
         </div>
 
         <div className="topbar-actions">
@@ -3217,7 +3220,7 @@ export default function Home() {
 
       <section className="hero" id="top">
         <div className="hero-copy">
-          <p className="kicker"><span>ROUTE 01</span><span>CARNET DE JEU · SANS SPOILER</span></p>
+          <p className="kicker"><span>{"ROUTE " + selectedRouteNumber}</span><span>CARNET DE JEU · SANS SPOILER</span></p>
           <h1>
             Une partie.
             <br />
@@ -3237,17 +3240,12 @@ export default function Home() {
               Ouvrir le lecteur <span aria-hidden="true">↗</span>
             </a>
           </div>
-          <div className="hero-proof" aria-label="Ce que propose Game Note">
-            <span><strong>{guides.length}</strong> routes prêtes</span>
-            <span><strong>01</strong> repère à la fois</span>
-            <span><strong>0</strong> bruit inutile</span>
-          </div>
         </div>
 
         <div className="hero-feature" aria-label={`Guide en vedette : ${selected.title}`}>
           <div className="feature-topline">
             <span><i className="feature-route-dot" aria-hidden="true" /> REPÈRE ACTIF</span>
-            <span>ROUTE 01 / {selected.count}</span>
+            <span>{"ROUTE " + selectedRouteNumber + " / " + selected.count}</span>
           </div>
           <div className="feature-artwork">
             {/* eslint-disable-next-line @next/next/no-img-element */}
@@ -3275,21 +3273,37 @@ export default function Home() {
         </div>
       </section>
 
-      <section className="stats-row" aria-label="Chiffres clés">
-        <div>
-          <span className="stat-label">01 / BIBLIOTHÈQUE</span>
-          <strong>{guides.length}</strong>
-          <span>routes prêtes à partir</span>
+      <section className="route-console" aria-label="Session de route active">
+        <div className="route-console-head">
+          <span className="route-console-kicker">GN / CONSOLE DE ROUTE</span>
+          <span className="route-console-status"><i aria-hidden="true" /> SESSION LOCALE · ACTIVE</span>
         </div>
-        <div>
-          <span className="stat-label">02 / REPÈRE</span>
-          <strong>01</strong>
-          <span>recherche pour viser juste</span>
+        <div className="route-console-main">
+          <div className="route-console-current">
+            <span className="route-console-index" aria-hidden="true">{selectedRouteNumber}</span>
+            <div>
+              <span className="route-console-label">REPÈRE ACTIF</span>
+              <strong>{selected.title}</strong>
+              <span>{selected.count} · {selected.tag}</span>
+            </div>
+          </div>
+          <div className="route-console-highlight">
+            <span className="route-console-label">À SURVEILLER</span>
+            <p>{selected.highlight}</p>
+          </div>
+          <button
+            className="route-console-action"
+            type="button"
+            onClick={() => scrollToReader(selected.id, setSelectedId, setSearch)}
+          >
+            Reprendre le dossier <span aria-hidden="true">↗</span>
+          </button>
         </div>
-        <div>
-          <span className="stat-label">03 / TRACE</span>
-          <strong>0</strong>
-          <span>compte nécessaire pour avancer</span>
+        <div className="route-console-foot">
+          <span><strong>{guides.length}</strong> routes prêtes</span>
+          <span><strong>01</strong> repère à la fois</span>
+          <span><strong>0</strong> compte nécessaire</span>
+          <span className="route-console-foot-note">La trace reste sur cet appareil.</span>
         </div>
       </section>
 
@@ -3345,12 +3359,13 @@ export default function Home() {
               className={
                 "guide-card guide-card-" +
                 guide.accent +
+                (index === 0 ? " is-shelf-lead" : "") +
                 (selected.id === guide.id ? " is-selected" : "")
               }
               key={guide.id}
             >
               <div className="card-top">
-                <span className="card-index">{String(index + 1).padStart(2, "0")}</span>
+                <span className="card-index">{String(guides.findIndex((item) => item.id === guide.id) + 1).padStart(2, "0")}</span>
                 <span className="card-tag">{guide.tag}</span>
               </div>
               <button

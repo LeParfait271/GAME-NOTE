@@ -131,7 +131,7 @@ button {
 
 .topbar,
 .hero,
-.stats-row,
+.route-console,
 .section-block,
 .method-section,
 .reader-section,
@@ -590,36 +590,6 @@ button {
   color: var(--coral);
 }
 
-.hero-proof {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 9px 21px;
-  margin-top: 50px;
-  color: var(--muted);
-  font-size: 0.66rem;
-  font-weight: 700;
-}
-
-.hero-proof span {
-  display: inline-flex;
-  align-items: center;
-  gap: 7px;
-}
-
-.hero-proof span + span::before {
-  width: 4px;
-  height: 4px;
-  margin-right: 7px;
-  border-radius: 50%;
-  background: var(--coral);
-  content: "";
-}
-
-.hero-proof strong {
-  color: var(--navy);
-  font-size: 0.77rem;
-}
-
 .hero-feature {
   position: relative;
   overflow: hidden;
@@ -803,87 +773,217 @@ button {
   transform: translateY(-1px);
 }
 
-.stats-row {
+.route-console {
   position: relative;
+  isolation: isolate;
   overflow: hidden;
-  display: grid;
-  grid-template-columns: repeat(3, 1fr);
-  border-top: 1px solid var(--line);
-  border-bottom: 1px solid var(--line);
+  padding: 19px 23px 17px;
+  border: 1px solid color-mix(in srgb, var(--feature-text) 18%, transparent);
+  border-radius: 18px 18px 18px 4px;
+  background-color: var(--feature-ink);
+  background-image:
+    linear-gradient(90deg, transparent 0 49.8%, color-mix(in srgb, var(--feature-text) 6%, transparent) 50%, transparent 50.2%),
+    linear-gradient(color-mix(in srgb, var(--feature-text) 6%, transparent) 1px, transparent 1px);
+  background-size: 100% 100%, 28px 28px;
+  box-shadow: var(--shadow);
+  color: var(--feature-text);
 }
 
-.stats-row::before {
+.route-console::before {
   position: absolute;
-  right: 7px;
-  bottom: 14px;
-  left: 7px;
-  border-top: 1px dashed color-mix(in srgb, var(--route-ink) 60%, transparent);
-  content: "";
-  opacity: 0.8;
-}
-
-.stats-row > div {
-  position: relative;
-  overflow: hidden;
-  display: grid;
-  gap: 5px;
-  z-index: 1;
-  padding: 24px 26px 38px;
-  border-right: 1px solid var(--line);
-}
-
-.stats-row > div::before {
-  position: absolute;
-  bottom: 9px;
-  left: 26px;
-  width: 8px;
-  height: 8px;
-  border: 2px solid var(--paper);
-  border-radius: 50%;
-  background: var(--coral);
-  box-shadow: 0 0 0 1px var(--coral);
-  content: "";
-}
-
-.stats-row > div::after {
-  display: none;
-}
-
-.stats-row > div:first-child {
-  padding-left: 0;
-}
-
-.stats-row > div:first-child::before {
+  top: 0;
+  right: 0;
   left: 0;
+  height: 2px;
+  background: linear-gradient(90deg, var(--coral) 0 18%, transparent 18% 100%);
+  content: "";
 }
 
-.stats-row > div:last-child {
-  border-right: 0;
+.route-console::after {
+  position: absolute;
+  right: -75px;
+  bottom: -110px;
+  width: 220px;
+  height: 220px;
+  border: 28px solid color-mix(in srgb, var(--coral) 62%, transparent);
+  border-radius: 50%;
+  content: "";
+  opacity: 0.7;
+  pointer-events: none;
 }
 
-.stats-row strong {
-  display: block;
-  color: var(--navy);
-  font-size: 1.72rem;
-  letter-spacing: -0.06em;
+.route-console > * {
+  position: relative;
+  z-index: 1;
 }
 
-.stats-row span {
-  color: var(--muted);
-  font-size: 0.7rem;
-  line-height: 1.45;
+.route-console-head,
+.route-console-foot {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 18px;
 }
 
-.stats-row .stat-label {
-  color: var(--route-ink);
+.route-console-head {
+  padding-bottom: 14px;
+  border-bottom: 1px solid color-mix(in srgb, var(--feature-text) 15%, transparent);
+}
+
+.route-console-kicker,
+.route-console-status,
+.route-console-label {
+  color: color-mix(in srgb, var(--feature-text) 68%, transparent);
   font-size: 0.56rem;
   font-weight: 900;
-  letter-spacing: 0.14em;
+  letter-spacing: 0.15em;
   text-transform: uppercase;
 }
 
-.stats-row > div > span:last-child {
-  max-width: 220px;
+.route-console-status {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  color: color-mix(in srgb, var(--feature-text) 78%, var(--coral));
+  font-size: 0.52rem;
+}
+
+.route-console-status i {
+  display: inline-block;
+  width: 7px;
+  height: 7px;
+  border-radius: 50%;
+  background: #8bc485;
+  box-shadow: 0 0 0 4px rgba(139, 196, 133, 0.16);
+}
+
+.route-console-main {
+  display: grid;
+  grid-template-columns: minmax(230px, 0.92fr) minmax(0, 1.38fr) auto;
+  align-items: center;
+  gap: 23px;
+  padding: 21px 0 19px;
+}
+
+.route-console-current {
+  display: flex;
+  min-width: 0;
+  align-items: center;
+  gap: 14px;
+  padding-right: 23px;
+  border-right: 1px solid color-mix(in srgb, var(--feature-text) 15%, transparent);
+}
+
+.route-console-index {
+  display: grid;
+  width: 56px;
+  height: 56px;
+  flex: 0 0 auto;
+  place-items: center;
+  border: 1px solid color-mix(in srgb, var(--coral) 75%, transparent);
+  border-radius: 50% 50% 50% 7px;
+  color: var(--coral);
+  font-size: 0.8rem;
+  font-weight: 900;
+  letter-spacing: 0.05em;
+}
+
+.route-console-current > div {
+  display: grid;
+  min-width: 0;
+  gap: 6px;
+}
+
+.route-console-current strong {
+  overflow: hidden;
+  color: var(--feature-text);
+  font-size: clamp(1.1rem, 2vw, 1.55rem);
+  letter-spacing: -0.06em;
+  line-height: 1;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.route-console-current > div > span:last-child {
+  overflow: hidden;
+  color: color-mix(in srgb, var(--feature-text) 55%, transparent);
+  font-size: 0.59rem;
+  font-weight: 800;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.route-console-highlight {
+  min-width: 0;
+}
+
+.route-console-highlight p {
+  max-width: 540px;
+  margin: 7px 0 0;
+  color: color-mix(in srgb, var(--feature-text) 76%, transparent);
+  font-family: Georgia, "Times New Roman", serif;
+  font-size: 0.92rem;
+  font-style: italic;
+  line-height: 1.42;
+}
+
+.route-console-action {
+  display: inline-flex;
+  min-height: 43px;
+  align-items: center;
+  justify-content: space-between;
+  gap: 17px;
+  padding: 0 14px;
+  border: 1px solid var(--coral);
+  border-radius: 999px;
+  background: var(--coral);
+  color: #fffaf5;
+  cursor: pointer;
+  font-size: 0.64rem;
+  font-weight: 900;
+  white-space: nowrap;
+  transition: background 160ms ease, color 160ms ease, transform 160ms ease;
+}
+
+.route-console-action:hover,
+.route-console-action:focus-visible {
+  background: var(--feature-text);
+  color: var(--feature-ink);
+  transform: translateY(-2px);
+}
+
+.route-console-action > span {
+  font-size: 1rem;
+}
+
+.route-console-foot {
+  justify-content: flex-start;
+  flex-wrap: wrap;
+  padding-top: 12px;
+  border-top: 1px solid color-mix(in srgb, var(--feature-text) 15%, transparent);
+  color: color-mix(in srgb, var(--feature-text) 56%, transparent);
+  font-size: 0.61rem;
+  font-weight: 800;
+}
+
+.route-console-foot span {
+  display: inline-flex;
+  align-items: baseline;
+  gap: 5px;
+}
+
+.route-console-foot strong {
+  color: var(--feature-text);
+  font-size: 0.76rem;
+  letter-spacing: -0.04em;
+}
+
+.route-console-foot-note {
+  margin-left: auto;
+  color: color-mix(in srgb, var(--feature-text) 78%, var(--coral));
+  font-size: 0.56rem;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
 }
 
 #top,
@@ -1074,6 +1174,36 @@ button {
   display: grid;
   grid-template-columns: repeat(3, minmax(0, 1fr));
   gap: 18px;
+}
+
+.guide-card.is-shelf-lead {
+  grid-column: span 2;
+}
+
+.guide-card.is-shelf-lead .guide-card-open {
+  display: grid;
+  grid-template-columns: minmax(0, 1.16fr) minmax(235px, 0.84fr);
+  gap: 18px;
+  align-items: stretch;
+}
+
+.guide-card.is-shelf-lead .card-artwork {
+  height: 100%;
+  min-height: 214px;
+  aspect-ratio: auto;
+  margin-bottom: 0;
+}
+
+.guide-card.is-shelf-lead .card-copy {
+  padding: 12px 7px 8px 0;
+}
+
+.guide-card.is-shelf-lead .card-subtitle {
+  min-height: auto;
+}
+
+.guide-card.is-shelf-lead .card-meta {
+  padding-top: 14px;
 }
 
 .empty-state {
@@ -2083,6 +2213,15 @@ button {
     justify-self: end;
   }
 
+  .route-console-main {
+    grid-template-columns: minmax(210px, 0.92fr) minmax(0, 1.08fr);
+  }
+
+  .route-console-action {
+    grid-column: 1 / -1;
+    justify-self: start;
+  }
+
   .guide-grid {
     grid-template-columns: repeat(2, minmax(0, 1fr));
   }
@@ -2118,7 +2257,7 @@ button {
 @media (max-width: 680px) {
   .topbar,
   .hero,
-  .stats-row,
+  .route-console,
   .section-block,
   .method-section,
   .reader-section,
@@ -2199,16 +2338,6 @@ button {
     margin-top: 27px;
   }
 
-  .hero-proof {
-    gap: 11px 17px;
-    margin-top: 36px;
-    font-size: 0.59rem;
-  }
-
-  .hero-proof span + span::before {
-    display: none;
-  }
-
   .hero-feature {
     width: 100%;
     border-radius: 21px 21px 55px 21px;
@@ -2239,25 +2368,35 @@ button {
     font-size: 0.91rem;
   }
 
-  .stats-row {
+  .route-console {
+    padding: 16px 15px 14px;
+  }
+
+  .route-console-head {
+    align-items: flex-start;
+    flex-direction: column;
+    gap: 9px;
+  }
+
+  .route-console-main {
     grid-template-columns: 1fr;
+    gap: 17px;
   }
 
-  .stats-row > div,
-  .stats-row > div:first-child {
-    padding: 16px 0;
+  .route-console-current {
+    padding-right: 0;
+    padding-bottom: 15px;
     border-right: 0;
-    border-bottom: 1px solid var(--line);
+    border-bottom: 1px solid color-mix(in srgb, var(--feature-text) 15%, transparent);
   }
 
-  .stats-row > div:last-child {
-    border-bottom: 0;
+  .route-console-action {
+    width: 100%;
+    justify-content: space-between;
   }
 
-  .stats-row::before,
-  .stats-row > div::before,
-  .stats-row > div::after {
-    display: none;
+  .route-console-foot-note {
+    margin-left: 0;
   }
 
   .section-block,
@@ -2333,6 +2472,26 @@ button {
   .guide-card {
     padding: 11px;
     border-radius: 17px;
+  }
+
+  .guide-card.is-shelf-lead {
+    grid-column: auto;
+  }
+
+  .guide-card.is-shelf-lead .guide-card-open {
+    display: flex;
+    gap: 0;
+  }
+
+  .guide-card.is-shelf-lead .card-artwork {
+    height: auto;
+    min-height: 0;
+    aspect-ratio: 460 / 215;
+    margin-bottom: 18px;
+  }
+
+  .guide-card.is-shelf-lead .card-copy {
+    padding: 0 5px 4px;
   }
 
   .guide-card h3 {
@@ -2509,7 +2668,7 @@ button {
   .offline-banner,
   .pwa-actions,
   .hero,
-  .stats-row,
+  .route-console,
   #guides,
   #methode,
   .site-footer,
