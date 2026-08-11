@@ -1,264 +1,835 @@
 RED DEAD REDEMPTION 2
-GUIDE CHRONOLOGIQUE 100 % STEAM - SANS SPOILER
+GUIDE CHRONOLOGIQUE 100 % STEAM — 51 SUCCÈS — SANS SPOILER NARRATIF
 
-Version de travail : 10 aout 2026
+Version du guide : 11 août 2026
+Périmètre : campagne complète, 100 % de la progression interne, succès Histoire, collections, compendium, activités de camp et 17 succès Red Dead Online.
 
-Cette route couvre les 51 succes Steam : histoire, activites, collection,
-compendium, mode Histoire et Red Dead Online. Les noms de lieux, de missions,
-de personnages et de succes servent uniquement de reperes. Aucun evenement de
-l'histoire, aucune identite, aucun destin et aucune consequence narrative ne
-sont expliques.
+Ce guide utilise les noms de lieux, de missions et de personnages comme repères. Il ne décrit pas les révélations, les destins ni les scènes importantes. Les titres de missions peuvent toutefois révéler la structure des chapitres.
 
-PERIMETRE ET ORDRE CONSEILLE
+COMPRENDRE LES DEUX « 100 % »
 
-- Histoire : chapitres 1 a 6, puis les deux parties de l'Epilogue.
-- 100 % du jeu : la liste de progression interne du menu Pause, pas chaque
-  activite disponible dans le monde.
-- 100 % Steam : les 51 succes, dont 18 succes Red Dead Online. Les succes
-  Online sont a faire dans une session separee et ne remplacent pas la route
-  Histoire.
-- Missables : Friends With Benefits, Lending a Hand, Errand Boy, certaines
-  activites de camp, et les rencontres de fenetre temporelle. Garde une
-  sauvegarde manuelle par chapitre.
+Le 100 % affiché dans Pause → Progression → Total Completion n’exige pas chaque activité du jeu. Il demande une liste précise :
 
-REGLES DE SECURITE
+□ Toutes les missions principales de l’Histoire.
+□ 10 séries de missions d’inconnus.
+□ 5 primes.
+□ 25 rencontres d’opportunité.
+□ 1 embuscade de bande.
+□ 6 repaires de bande.
+□ 1 point d’intérêt dessiné dans le carnet.
+□ 9 tombes.
+□ 1 série de cartes de cigarettes.
+□ Les 30 os de dinosaure.
+□ Les 13 poissons légendaires envoyés.
+□ Les 5 séries d’exotiques d’Algernon Wasp.
+□ Les 10 gravures rupestres.
+□ Les 20 dreamcatchers.
+□ 50 animaux étudiés.
+□ 10 objets d’équipement découverts.
+□ 10 espèces de poissons pêchées.
+□ Les 6 gangs découverts.
+□ 10 races de chevaux découvertes.
+□ 20 plantes cueillies.
+□ 48 armes utilisées ou découvertes.
+□ Les 3 jauges principales au maximum.
+□ Un cheval au niveau de lien 4.
+□ Les 9 familles de défis terminées.
+□ 5 cabanes découvertes.
+□ 5 animaux légendaires tués.
+□ Une partie de poker, blackjack, dominoes et Five Finger Fillet.
+□ 5 personnages « Ranters, Ravers and Campaigners » rencontrés.
+□ Un bain, un spectacle et une visite du théâtre.
+□ 6 catégories de recettes fabriquées.
+□ 4 types de braquage.
 
-1. N'utilise pas de triche pendant la partie qui doit porter les succes : les
-   triches peuvent desactiver la sauvegarde et les succes de la session.
-2. Active la sauvegarde automatique, mais cree S1 avant chaque mission jaune,
-   S2 avant chaque mission blanche a choix ou a fenetre courte, et S3 apres
-   chaque nettoyage de zone.
-3. Dans chaque camp, dors ou change de tenue pour actualiser les activites,
-   parle aux compagnons disponibles et regarde le tableau des demandes.
-4. Quand une demande d'objet apparait, ramasse l'objet sans attendre. Il faut
-   en remettre cinq pour Errand Boy.
-5. Une activite de compagnon doit etre faite dans chaque camp ou elle est
-   proposee pour Friends With Benefits. Ne repousse pas ces sorties a la fin.
-6. Pour Gold Rush, ne cherche pas a obtenir l'or partout. Le seuil Steam est
-   de 70 medailles d'or ; les objectifs optionnels sont visibles dans le
-   resume de mission.
+Le 100 % Steam va plus loin : Gold Rush demande 70 médailles d’or, Skin Deep et Zoologist demandent le compendium animal complet compté par les succès, Grin and Bear It demande 18 attaques d’ours et plusieurs succès de camp sont ratables.
 
-ROUTE CHRONOLOGIQUE
+ORDRE GLOBAL SÛR
 
-1. CHAPITRE 1 : PREMIERS FONDAMENTAUX
+1. Chapitre 1 : terminer l’introduction et apprendre les commandes.
+2. Chapitre 2 : faire les activités de camp, les demandes d’objets, les primes, les jeux et les premières collections.
+3. Chapitre 3 : refaire une activité de compagnon dans le nouveau camp, continuer les missions d’honneur et les demandes.
+4. Chapitre 4 : faire l’activité de camp, Marko Dragic, les exotiques et les missions d’honneur avant la mission de transfert.
+5. Chapitre 5 : suivre uniquement l’histoire ; la zone ne sert pas au nettoyage.
+6. Chapitre 6 : terminer toutes les missions d’honneur et les activités de camp avant la dernière mission principale.
+7. Épilogue : finir l’histoire, les tombes, la chasse de L. Hobbs et les collections finales.
+8. Post-game : compendium, défis, animaux légendaires, or, argent, braquages et 100 % interne.
+9. Red Dead Online : faire les 17 succès dans une session séparée, avec une posse si nécessaire.
 
-- Termine toutes les missions du chapitre avant de quitter la zone enneigee.
-- Ramasse les armes et les objets de soin, apprends le nettoyage des armes et
-  habitue-toi au systeme de noyaux.
-- Garde la premiere sauvegarde manuelle avant la derniere mission de chapitre.
-- Le succes Just a Scratch tombe au debut de la route et Back in the Mud a la
-  validation du chapitre.
+SAUVEGARDES ET MISSABLES
 
-2. CHAPITRE 2 : CAMP, HONNEUR ET PREMIER NETTOYAGE
+□ Garder une sauvegarde manuelle au début de chaque chapitre.
+□ Garder une sauvegarde séparée dans les chapitres 2, 3, 4 et 6 avant chaque mission jaune importante.
+□ Ne jamais utiliser de triche dans la sauvegarde destinée aux succès : la triche peut désactiver les sauvegardes et les succès de la session.
+□ Friends With Benefits : faire une activité de compagnon dans les chapitres 2, 3 et 4.
+□ Errand Boy : livrer 5 demandes d’objets avant la fin du chapitre 4 ; ne pas attendre le chapitre 5.
+□ Lending a Hand : faire toutes les missions d’honneur optionnelles dans le jeu réel, pas seulement leur replay depuis le menu.
+□ Give to the Poor : verser 250 $ dans la boîte de dons du camp pendant la période où la boîte existe.
+□ Certaines missions d’inconnus ont une fenêtre de chapitre ou d’heure : quand un marqueur blanc apparaît, le faire avant les missions jaunes suivantes.
+□ L’Histoire reste nettoyable après la fin pour la majorité du 100 %, mais les succès de camp ne doivent pas être repoussés.
+□ Pour Skin Deep et Zoologist, étudier chaque animal avant de le tuer ou de le dépecer.
+□ Ne pas charger une sauvegarde avec les trophées désactivés pour valider un succès.
 
-- Des l'installation du camp, utilise le registre, ameliore les logements puis
-  la carte. Depose au moins 250 $ dans la boite de contributions pour Give to
-  the Poor et achete une amelioration de camp.
-- Monte le lien d'un cheval au niveau maximal : brossage, nourriture, calme et
-  voyages reguliers suffisent. Cela prepare Trusty Steed.
-- Lance au moins une activite de compagnon des qu'elle apparait : peche,
-  chasse, cambriolage ou jeu de table selon le tableau du camp.
-- Fais les braquages de maisons disponibles et conserve les objets uniques.
-  Il faut recuperer quatre caches de proprietes pour Breaking and Entering.
-- Commence les defis dans l'ordre qui se presente. Les neuf familles sont
-  Bandit, Explorateur, Gambler, Herboriste, Cavalier, Maitre chasseur,
-  Tireur, Survivant et Expert en armes.
-- Joue aux trois types de jeux de table des qu'ils sont accessibles. Pour
-  Hobby Horse, une partie suffit dans chaque type : poker, blackjack et
-  dominoes.
-- Ouvre les premieres missions d'inconnus et vise dix series terminees avant
-  la fin de la partie.
-- Cherche l'activite scientifique de Marko Dragic lorsqu'elle devient
-  disponible ; elle compte pour Artificial Intelligence, mais pas pour le
-  100 % interne.
-- Pour Extreme Personality, l'honneur doit atteindre la valeur maximale ou
-  minimale. Le choix moral n'est pas impose par le guide : les dons, les
-  salutations et les actions de camp montent l'honneur ; les primes et les
-  agressions le baissent.
+RÈGLES DE ROUTE ET DE CHASSE
 
-3. CHAPITRE 3 : CAMP ET ACTIVITES A NE PAS REPORTER
+□ Étudier : jumelles ou observation directe, puis attendre l’enregistrement dans le Compendium.
+□ Dépecer : tuer proprement et vérifier la qualité de la carcasse avant de la prendre.
+□ Petits animaux : utiliser l’arc avec petites flèches ; ne pas tirer au fusil sur les espèces minuscules.
+□ Animaux moyens : utiliser le fusil Varmint.
+□ Gros animaux : utiliser l’arc amélioré, le fusil à verrou ou l’arme demandée par le compendium.
+□ Garder les plumes, carcasses parfaites, plantes et poissons utiles aux demandes avant de les vendre.
+□ Le talisman du Cerf légendaire augmente les chances de conserver une qualité parfaite : le fabriquer chez le receleur dès que possible.
+□ Pour les objets de collection, poser une marque sur la carte après chaque ramassage.
+□ Pour les rencontres aléatoires, parcourir les routes à cheval au lieu de voyager rapidement pendant la partie de nettoyage.
 
-- Termine le chapitre 2 avec au moins une activite de compagnon validee, puis
-  fais une activite differente dans le nouveau camp.
-- Verifie le tableau matin et soir : les propositions sont liees a l'heure,
-  au niveau d'honneur et aux missions deja terminees.
-- Fais progresser Lending a Hand des qu'une mission d'honneur optionnelle est
-  disponible. Elles ne sont pas toutes presentes sur la carte en permanence.
-- Remets les demandes d'objets des compagnons avant de partir. Les objets
-  peuvent etre chasses, cueillis, peches ou achetes ; cinq livraisons valident
-  Errand Boy.
-- Continue les neuf defis, les collections de cartes et les os de dinosaure
-  quand les cartes deviennent accessibles. Le nettoyage complet peut attendre
-  l'Epilogue, mais les missions de camp non.
-- Termine le chapitre pour Settling Feuds.
+CHAPITRE 1 — COLTER
 
-4. CHAPITRE 4 : ACTIVITES, COLLECTIONS ET FENETRES COURTES
+Objectif : terminer le prologue, prendre les armes et préparer une sauvegarde de départ pour le chapitre 2.
 
-- Fais l'activite de compagnon du camp actuel avant toute mission qui change
-  le camp.
-- Termine les missions d'honneur optionnelles encore ouvertes et verifie le
-  compteur Lending a Hand.
-- Lance la serie d'exotiques et les poissons legendaires des que les outils de
-  peche et les regions necessaires sont ouverts. Les poissons peuvent etre
-  envoyes depuis une boite postale.
-- Termine la collection de cartes cigarette, les os de dinosaure, les
-  dreamcatchers et la serie d'inconnus au rythme de l'exploration.
-- Joue les jeux de table restants et fais une sauvegarde avant les missions a
-  changement de camp. Cela protege Friends With Benefits et Errand Boy.
-- Le succes Washed Ashore tombe avec la progression du chapitre 4. Ne quitte
-  pas la route principale en pensant qu'une collection est verrouillee : le
-  nettoyage revient plus tard.
+Route
 
-5. CHAPITRE 5 : ROUTE COURTE ET PREPARATION DU RETOUR
+□ Outlaws from the West : fouiller les bâtiments de la ferme et piller les objets visibles.
+□ Enter, Pursued by a Memory : atteindre l’objectif du col ; Just a Scratch se débloque avec cette mission.
+□ The Aftermath of Genesis : utiliser la chasse pour apprendre l’arc et viser un tir propre.
+□ Old Friends : fouiller les corps et les coffres avant de repartir.
+□ The First Shall Be Last : suivre le groupe jusqu’au sauvetage et prendre les armes abandonnées.
+□ Who the Hell Is Leviticus Cornwall? : terminer le braquage et conserver la sauvegarde avant la sortie du chapitre.
+□ Eastward Bound : rejoindre le camp de Horseshoe Overlook.
+□ Back in the Mud se débloque à la fin du chapitre 1.
+□ Dans chaque mission, ramasser les munitions, nettoyer les armes et essayer une exécution de précision.
+□ Ne pas chercher les collections ici : la carte ouverte et les séries d’inconnus commencent au chapitre 2.
 
-- Termine toutes les missions proposees dans ce chapitre. Les deplacements
-  sont lineaires et le temps pour les collections y est limite.
-- Ramasse les objets visibles et les armes, mais ne tente pas de completer le
-  compendium ici.
-- No Traitors se valide avec la progression du chapitre.
-- A la reprise de l'exploration libre, consulte immediatement le journal des
-  defis et les succes de camp. Reviens aux regions ouvertes si un compteur est
-  en retard.
+Contrôle de sortie — Chapitre 1
 
-6. CHAPITRE 6 : DERNIER PASSAGE DE L'HISTOIRE ET SAUVEGARDE S3
+□ Just a Scratch obtenu.
+□ Back in the Mud obtenu.
+□ Sauvegarde manuelle créée au camp de Horseshoe Overlook.
 
-- Fais toutes les missions blanches d'honneur encore disponibles avant la
-  derniere mission jaune du chapitre.
-- Termine les activites de compagnon, les demandes d'objets et les braquages
-  de maisons manquants. N'attends pas l'Epilogue pour les succes de camp.
-- Atteins au moins 70 medailles d'or de missions. Pour les objectifs de temps,
-  utilise un rechargement manuel : les medailles obtenues restent acquises.
-- Explore les tombes disponibles lorsque le jeu les rend accessibles. Les
-  neuf tombes de la liste de 100 % interne sont a visiter avant le nettoyage
-  final.
-- Cree S3 avant la derniere mission principale du chapitre. Cette sauvegarde
-  est la garantie de pouvoir revoir les defis et les activites de fenetre
-  courte.
-- Redemption et Paying Respects se suivent dans la progression de l'histoire
-  et de l'exploration ; le guide ne decrit aucun resultat narratif.
+CHAPITRE 2 — HORSESHOE OVERLOOK
 
-7. EPILOGUE : 100 % INTERNE ET COLLECTIONS
+C’est le chapitre le plus important pour les succès ratables. Tant que la mission finale A Strange Kindness n’est pas lancée, rester libre et faire les blocs ci-dessous.
 
-- Termine les deux parties de l'Epilogue pour Cowboy Builder et Endless Summer.
-- Fais les dix series d'inconnus, les primes, les rencontres aleatoires et les
-  six repaires de bande necessaires a la liste de progression interne.
-- Complete les categories internes :
-  [ ] toutes les missions principales ;
-  [ ] 10 series d'inconnus ;
-  [ ] 5 primes ;
-  [ ] 25 rencontres d'opportunite ;
-  [ ] une embuscade de bande ;
-  [ ] 6 repaires de bande ;
-  [ ] 9 tombes ;
-  [ ] une serie de cartes cigarette ;
-  [ ] les exotiques ;
-  [ ] les poissons legendaires ;
-  [ ] les gravures rupestres ;
-  [ ] les os de dinosaure ;
-  [ ] les 20 dreamcatchers ;
-  [ ] 50 especes etudiees ;
-  [ ] 10 equipements de compendium ;
-  [ ] 10 especes de poissons ;
-  [ ] 6 gangs decouverts ;
-  [ ] 10 races de chevaux ;
-  [ ] 20 plantes ;
-  [ ] 48 armes ;
-  [ ] les 9 familles de defis ;
-  [ ] noyaux maximises ;
-  [ ] lien de cheval niveau 4 ;
-  [ ] 5 cabanes ;
-  [ ] 5 animaux legendaires ;
-  [ ] tous les jeux de table ;
-  [ ] un bain, un spectacle et le theatre ;
-  [ ] 4 types de braquage et 5 rencontres aleatoires.
-- Best in the West tombe a l'atteinte de 100 % dans le menu Progression.
-  Cette liste ne demande pas Skin Deep ni Zoologist, qui sont deux succes
-  Steam independants : termine-les ensuite avec le compendium.
+Installation du camp
 
-NETTOYAGE STEAM HORS HISTOIRE
+□ Faire les missions jaunes qui débloquent la chasse, le registre, les boutiques, l’écurie et les activités.
+□ Mettre à niveau les logements du camp puis la carte si les fonds le permettent.
+□ Verser au total 250 $ dans la boîte de dons pour Give to the Poor.
+□ Acheter au moins une amélioration de camp et conserver les reçus/ressources.
+□ Acheter un bon cheval ou garder celui reçu au début, puis atteindre progressivement le niveau de lien 4.
+□ Brosser, nourrir, calmer, caresser et monter régulièrement le même cheval pour Trusty Steed.
+□ Jouer au poker à Valentine dès que le saloon est accessible.
+□ Jouer au Five Finger Fillet au camp ou à Valentine.
+□ Jouer aux dominoes à Emerald Station ou au camp.
+□ Jouer au blackjack à Rhodes plus tard, pas besoin de gagner.
 
-- Locked and Loaded : equipe toutes les ameliorations d'une arme de poing ou
-  d'une arme longue.
-- Take From the Rich : vole ou recupere 250 $ au total.
-- Self Sufficient : fabrique 30 objets uniques en mode Histoire. Les recettes
-  du camp, du feu et des armuriers se cumulent.
-- It was THIS Big! : peche un poisson d'au moins 7,3 kg ; la collection des
-  poissons legendaires fournit une occasion sure.
-- Grin and Bear it : subis 18 attaques d'ours et tue l'ours a chaque fois.
-  Utilise une sauvegarde separee, une bonne arme et des soins ; ne melange pas
-  ce compteur avec la route de collection.
-- Collector's Item : termine une serie de collection. Les cartes, exotiques,
-  poissons, os ou gravures valident la categorie.
-- It's Art : termine la serie d'objet de collection qui debloque ce succes.
-- Skin Deep : depece toutes les especes animales comptees par le succes.
-- Zoologist : etudie toutes les especes comptees par le succes. Utilise les
-  jumelles, les indices et le compendium ; les animaux rares peuvent demander
-  plusieurs visites de region.
+Activités de compagnon — Chapitre 2
 
-RED DEAD ONLINE : ORDRE PRATIQUE DES 18 SUCCES
+□ Chasse avec Charles.
+□ Five Finger Fillet avec Lenny.
+□ Braquage de maison avec Javier.
+□ Une seule suffit pour ce chapitre, mais faire les trois permet de sécuriser la validation.
+□ Vérifier le marqueur blanc dans le camp après chaque mission jaune.
+□ Friends With Benefits demande une activité dans chacun des chapitres 2, 3 et 4 : ne pas considérer cette liste comme facultative.
 
-Prevois une connexion, la creation du personnage et, pour certains objectifs,
-une posse avec d'autres joueurs. Ne melange pas les compteurs Online et
-Histoire.
+Demandes d’objets — commencer Errand Boy
 
-1. Breakout : termine l'introduction.
-2. Getting Started : atteins le rang 10.
-3. Strength in Numbers : termine une mission Exploration libre dans une posse
-   d'au moins deux membres.
-4. Gun For Hire : accepte 10 missions Exploration libre.
-5. Picked to Perfection : cueille 25 plantes.
-6. Butchered : vends 20 objets au boucher.
-7. Master Craftsman : fabrique 20 objets hors munitions.
-8. Non-Regulation : fabrique 25 munitions speciales.
-9. Series Major : participe a une serie.
-10. Buckle Up : obtiens 5 boucles d'or de recompense.
-11. Posse Up : forme une posse persistante.
-12. Home Comforts : achete 5 ameliorations de camp.
-13. Horses for Courses : possede 5 chevaux simultanement.
-14. All's Fair : contre avec succes une mission d'une posse rivale.
-15. Eventful : participe a 5 evenements Exploration libre.
-16. Bountiful : conserve une prime de 250 $ pendant trois jours dans chacun
-    des Etats requis par le succes.
-17. Notorious : atteins le rang 50.
-18. The Real Deal : obtiens trois fois le titre de meilleur joueur dans une
-    manche comptant au moins quatre joueurs.
+□ Abigail : donner 5 $ lorsqu’elle est avec Jack dans sa tente, généralement entre 8 h et 20 h.
+□ Jack : demande de bande dessinée pendant A Fisher of Men ; la maison près d’Emerald Ranch contient l’objet.
+□ Pearson : donner un lapin pendant qu’il boit derrière son chariot, généralement entre 8 h et 14 h ; le déposer à sa table.
+□ Sean : donner du Kentucky Bourbon lorsqu’il prépare des cocktails incendiaires, généralement entre 8 h et 18 h.
+□ Bill : donner de la pommade pour cheveux lorsqu’il est assis près de sa tente, généralement entre 8 h et 20 h.
+□ Cinq livraisons valident Errand Boy ; refaire les tours de camp matin et soir si un personnage n’apparaît pas.
+□ Les demandes peuvent se cumuler avec les objets de chasse et les achats de boutique.
 
-LISTE COMPLETE DES 51 SUCCES STEAM
+Missions d’honneur — début de Lending a Hand
 
-Histoire et progression :
-[ ] Just a Scratch. [ ] Back in the Mud. [ ] To Greener Pastures.
-[ ] Settling Feuds. [ ] Washed Ashore. [ ] No Traitors.
-[ ] Third Time Lucky. [ ] Redemption. [ ] Cowboy Builder. [ ] Endless Summer.
+□ We Loved Once and True I, II et III.
+□ Good, Honest, Snake Oil.
+□ Money Lending and Other Sins I, II et III.
+□ Choisir les options d’aide lorsque la mission présente une décision d’honneur.
+□ Ne pas abandonner une mission blanche pour une mission jaune sans regarder la sauvegarde de sécurité.
 
-Exploration, progression et activites :
-[ ] Trusty Steed. [ ] Give to the Poor. [ ] Locked and Loaded.
-[ ] Take From the Rich. [ ] Extreme Personality. [ ] It was THIS Big!
-[ ] Breaking and Entering. [ ] Friends With Benefits. [ ] Western Stranger.
-[ ] Hobby Horse. [ ] Lending a Hand. [ ] Errand Boy. [ ] Collector's Item.
-[ ] Artificial Intelligence. [ ] Skin Deep. [ ] Zoologist. [ ] Paying Respects.
-[ ] Best in the West. [ ] Gold Rush. [ ] Self Sufficient. [ ] It's Art.
-[ ] Grin and Bear it.
+Premières activités et succès
 
-Red Dead Online :
-[ ] Breakout. [ ] Getting Started. [ ] Strength in Numbers. [ ] Buckle Up.
-[ ] Butchered. [ ] Gun For Hire. [ ] Picked to Perfection.
-[ ] Master Craftsman. [ ] Series Major. [ ] Posse Up. [ ] Notorious.
-[ ] Home Comforts. [ ] All's Fair. [ ] Eventful. [ ] Horses for Courses.
-[ ] Bountiful. [ ] Non-Regulation. [ ] The Real Deal.
+□ Acheter une arme et faire modifier toutes ses pièces chez l’armurier dès que les composants sont disponibles : Locked and Loaded.
+□ Piller les ennemis et les caches jusqu’à atteindre 250 $ cumulés : Take From the Rich.
+□ Fabriquer des provisions au feu de camp, des munitions, un tonique et un objet pour le cheval.
+□ Commencer les défis : Bandit, Explorer, Gambler, Herbalist, Horseman, Master Hunter, Sharpshooter, Survivalist et Weapons Expert.
+□ Faire une première rencontre d’opportunité et un premier repaire de bande.
+□ Démarrer Smoking and Other Hobbies pour les cartes de cigarettes.
+□ Démarrer A Test of Faith près de Flatneck Station pour les os de dinosaure.
+□ Démarrer Geology for Beginners au nord-ouest de Strawberry pour les gravures rupestres.
+□ Démarrer A Fisher of Fish au quai de Jeremy Gill, au sud-est de Flatneck Station.
+□ Démarrer The Noblest of Men, and a Woman pour la série d’inconnus.
+□ Démarrer All That Glitters, Arcadia for Amateurs, American Dreams, A Fine Night for It et Fundraiser selon les marqueurs blancs.
+□ Faire un point d’intérêt : observer un monument ou dessiner un panorama dans le carnet.
 
-VALIDATION FINALE
+Braquages et homesteads
 
-[ ] Progression interne : 100 %.
-[ ] Steam : 51/51.
-[ ] Activites de camp et demandes verifiees sur les sauvegardes de chapitre.
-[ ] Histoire : 70 medailles d'or.
-[ ] Histoire : Skin Deep, Zoologist, Grin and Bear it et It's Art.
-[ ] Online : rang 50, posse, serie, evenements et objectifs de prime valides.
-[ ] Aucune triche active sur la partie utilisee pour les succes.
+□ Faire un braquage de diligence avec le marqueur de mission correspondant.
+□ Faire un braquage de maison avec une activité de compagnon ou une opportunité libre.
+□ Faire un braquage de boutique en déclenchant le secret d’une boutique puis en ouvrant le coffre.
+□ Faire un braquage de train quand la mission ou la stratégie de camp le permet.
+□ Pour Breaking and Entering, récupérer au moins quatre caches de homesteads ; six lieux pratiques sont Chez Porter, Watson’s Cabin, Catfish Jacksons, Aberdeen Pig Farm, Lonnie’s Shack et Van Horn Mansion.
+□ Fouiller la cache, pas seulement vider la maison : l’objectif se valide au moment où le butin spécifique est récupéré.
 
-Sources de verification :
-- Steam, page officielle des 51 succes :
-  https://steamcommunity.com/stats/1174180/achievements
-- Steam, liste de progression 100 % et categories de controle :
-  https://steamcommunity.com/sharedfiles/filedetails/?id=2487669306
+Collections accessibles au chapitre 2
 
+□ Acheter ou trouver une première carte de cigarette, puis conserver les doublons jusqu’au nettoyage final.
+□ Prendre les dreamcatchers visibles sur les arbres pendant les voyages ; ils ne demandent pas de mission.
+□ Faire la première partie de la chasse aux os, gravures et poissons quand les régions sont ouvertes.
+□ Ne pas vendre une plante rare, une plume exotique ou une carcasse demandée par les inconnus.
+
+Missions principales et sortie
+
+□ Polite Society, Valentine Style.
+□ Americans at Rest.
+□ Exit Pursued by a Bruised Ego.
+□ Who Is Not Without Sin.
+□ The Spines of America.
+□ Pouring Forth Oil I, II, III et IV.
+□ A Fisher of Men.
+□ A Quiet Time.
+□ Blessed Are the Meek?
+□ The Sheep and the Goats.
+□ An American Pastoral Scene.
+□ A Strange Kindness, uniquement après le contrôle du camp.
+□ To Greener Pastures se débloque à la fin du chapitre 2.
+
+Contrôle de sortie — Chapitre 2
+
+□ Une activité de compagnon validée.
+□ Au moins 5 demandes d’objets livrées si possible.
+□ Don de 250 $ effectué.
+□ Les missions blanches du chapitre 2 terminées.
+□ Sauvegarde manuelle avant A Strange Kindness.
+
+CHAPITRE 3 — CLEMENS POINT
+
+Dès l’installation
+
+□ Faire une activité de compagnon dans le nouveau camp avant la mission suivante.
+□ Activités sûres : Five Finger Fillet avec Micah, pêche avec Javier ou Kieran, braquage de maison avec Sean.
+□ Parler à Pearson, aux compagnons et aux donneurs de demandes à chaque retour au camp.
+□ Terminer les demandes restantes pour Errand Boy avant le transfert suivant.
+□ Continuer les missions d’honneur de la liste ci-dessous avant la dernière mission jaune.
+
+Missions d’honneur du chapitre 3
+
+□ Money Lending and Other Sins IV.
+□ The Course of True Love I, II et III.
+□ American Distillation et les missions de préparation associées.
+□ The Fine Joys of Tobacco.
+□ Friends in Very Low Places.
+□ Ne pas repousser les missions blanches après The Battle of Shady Belle.
+
+Route principale
+
+□ The New South.
+□ Further Questions of Female Suffrage.
+□ Advertising, the New American Art I et II.
+□ Horse Flesh for Dinner.
+□ Magicians for Sport.
+□ The Delights of Van Horn.
+□ A Short Walk in a Pretty Town.
+□ Blood Feuds, Ancient and Modern.
+□ The Battle of Shady Belle.
+□ Settling Feuds se débloque à la fin du chapitre 3.
+
+Nettoyage de voyage
+
+□ Jouer à un jeu de table dans le nouveau camp et à Rhodes si le blackjack n’est pas encore fait.
+□ Visiter les premiers repaires : Six Point Cabin, Shady Belle, Beaver Hollow et les repaires indiqués par la carte peuvent être faits au fil des missions.
+□ Capturer une première prime au bureau du shérif de Valentine ou dans une ville disponible.
+□ Continuer les 25 rencontres d’opportunité : aider les voyageurs, sauver les victimes et intervenir sur les embuscades.
+□ Faire examiner 50 espèces au total, sans viser le 169 immédiatement.
+□ Continuer les 9 défis dans l’ordre où les rangs deviennent possibles.
+
+Contrôle de sortie — Chapitre 3
+
+□ Activité de compagnon du chapitre 3 validée.
+□ Missions d’honneur et demandes d’objets à jour.
+□ Les trois séries de The Course of True Love terminées si elles sont disponibles.
+□ Sauvegarde avant le dernier enchaînement du chapitre.
+
+CHAPITRE 4 — SHADY BELLE / SAINT DENIS
+
+Camp et missions d’honneur
+
+□ Faire Coach Robbery avec Micah ou Lenny, ou Hunting avec Pearson, pour sécuriser Friends With Benefits.
+□ Money Lending and Other Sins V.
+□ Help a Brother Out.
+□ Brothers and Sisters, One and All.
+□ Fatherhood and Other Dreams I et II.
+□ Of Men and Angels I et II si les conditions d’honneur sont réunies.
+□ Continuer les demandes d’objets jusqu’à cinq livraisons minimum.
+□ Donner l’honneur positif régulièrement si tu vises l’option de fin honorable : saluer les habitants, aider les inconnus et remettre les primes.
+
+Marko Dragic — Artificial Intelligence
+
+□ Première mission : trouver Marko Dragic à Saint Denis, près du petit lac, entre 6 h et 18 h.
+□ Terminer les deux premières missions avec le bateau et les appareils.
+□ Attendre 48 heures en jeu, puis revenir au laboratoire.
+□ Entrer dans le laboratoire et récupérer la lampe près du corps.
+□ Artificial Intelligence se débloque à la découverte de son destin.
+□ Faire cette série avant de passer au chapitre 5, même si elle est techniquement disponible tard dans le chapitre 4.
+
+Algernon Wasp — exotiques
+
+□ Commencer Duchesses and Other Animals dans le nord de Saint Denis.
+□ Liste 1 : 5 aigrettes neigeuses, 5 aigrettes rougeâtres, 5 aigrettes petites et 15 orchidées Lady of the Night.
+□ Liste 2 : 20 plumes de héron et 7 orchidées Lady Slipper.
+□ Liste 3 : 25 œufs d’alligator, 3 orchidées Ghost et 5 orchidées Cigar.
+□ Liste 4 : 30 œufs de spatule, 5 orchidées Spider et 5 orchidées Rat Tail.
+□ Liste 5 : 5 fleurs de vanille, 5 orchidées Clamshell et 10 orchidées Acuna’s Star.
+□ Envoyer les objets par la poste ou les remettre selon la demande.
+□ Terminer la série pour Collector’s Item si aucune autre collection n’est terminée.
+□ Garder la plume et la fleur demandées avant de vendre des butins de marais.
+
+Collections et activités de Saint Denis
+
+□ A Bright Bouncing Boy : terminer la série de Marko si elle est ouverte.
+□ The Artist’s Way : progresser jusqu’au nombre requis de séries d’inconnus.
+□ The Mercies of Knowledge et Idealism and Pragmatism for Beginners : terminer si les marqueurs blancs apparaissent.
+□ Faire une visite du théâtre et voir un spectacle.
+□ Faire le tour des boutiques pour acheter munitions, recettes et composants d’armes.
+□ Participer à une rencontre d’opportunité dans la ville, sans voyager rapidement immédiatement après.
+
+Route principale
+
+□ The Joys of Civilization.
+□ Angelo Bronte, a Man of Honor.
+□ No, No and Thrice, No.
+□ The Gilded Cage.
+□ American Fathers I et II.
+□ High and Low Finance.
+□ Country Pursuits.
+□ Revenge Is a Dish Best Eaten.
+□ Urban Pleasures.
+□ The Fine Art of Conversation.
+□ Banking, The Old American Art.
+□ Washed Ashore se débloque lors du transfert suivant.
+
+Contrôle de sortie — Chapitre 4
+
+□ Activité de compagnon validée.
+□ Marko Dragic terminé.
+□ Algernon Wasp et ses cinq listes terminés ou sauvegarde conservée avant le transfert.
+□ Lending a Hand à jour.
+□ Errand Boy obtenu ou cinq demandes vérifiées dans la sauvegarde.
+□ Sauvegarde manuelle avant Banking, The Old American Art.
+
+CHAPITRE 5 — GUARMA ET RETOUR
+
+□ Suivre Welcome to the New World, Savagery Unleashed, A Kind and Benevolent Despot, Hell Hath No Fury, Paradise Mercifully Departed, Dear Uncle Tacitus et Fleeting Joy.
+□ Terminer That’s Murfree Country lorsque le jeu le propose.
+□ Washed Ashore se valide avec l’arrivée sur l’île.
+□ No Traitors se valide à la fin du chapitre.
+□ La zone est linéaire : ne pas perdre du temps à chercher les collections du continent.
+□ Profiter des combats pour avancer les familles d’armes, mais ne pas croire que les animaux de la zone sont nécessaires à Zoologist ou Skin Deep.
+□ Au retour, vérifier immédiatement le menu Progression et les sauvegardes de chapitre.
+
+CHAPITRE 6 — BEAVER HOLLOW
+
+Dernières fenêtres de camp
+
+□ Terminer Money Lending and Other Sins VI et VII.
+□ Terminer Of Men and Angels I et II.
+□ Terminer Do Not Seek Absolution I et II.
+□ Terminer The Course of True Love IV et V.
+□ Terminer Honor, Amongst Thieves.
+□ Terminer Archeology for Beginners.
+□ Terminer Mrs. Sadie Adler, Widow I et II.
+□ Faire The Veteran autant que possible avant la fin de l’Histoire.
+□ Vérifier que Friends With Benefits, Errand Boy et Lending a Hand sont validés avant la dernière mission jaune.
+
+Route principale
+
+□ Icarus and Friends.
+□ Visiting Hours.
+□ Just a Social Call.
+□ A Rage Unleashed.
+□ Goodbye, Dear Friend : Third Time Lucky.
+□ Favored Sons.
+□ The King’s Son.
+□ My Last Boy.
+□ Our Best Selves.
+□ Red Dead Redemption : Redemption.
+□ Les missions finales de chapitre s’enchaînent : sauvegarder avant Our Best Selves.
+□ Garder la sauvegarde de chapitre 6 pour revenir aux missions d’honneur et aux médailles d’or.
+
+Honneur et Extreme Personality
+
+□ Atteindre le maximum d’honneur ou le minimum selon la voie choisie.
+□ La voie positive est recommandée car elle facilite les prix, les rencontres et plusieurs missions d’honneur.
+□ Extreme Personality se débloque dès que la jauge atteint une extrémité.
+□ Ne pas utiliser de triche ou de sauvegarde corrompue pour modifier la jauge.
+
+Contrôle de sortie — Chapitre 6
+
+□ Redemption obtenu.
+□ Toutes les missions d’honneur de la liste sont terminées dans la partie active.
+□ 70 médailles d’or sont en cours ou la sauvegarde de chapitre 6 est conservée pour le replay.
+□ Les 9 tombes sont à faire quand le jeu les rend accessibles.
+□ Sauvegarde manuelle séparée avant la mission finale du chapitre.
+
+ÉPILOGUE — PARTIE 1 : PRONGHORN RANCH
+
+Route
+
+□ The Wheel.
+□ Simple Pleasures.
+□ Farming, for Beginners.
+□ Fatherhood, for Beginners.
+□ Old Habits.
+□ Jim Milton Rides, Again?.
+□ Fatherhood, for Idiots.
+□ Motherhood.
+□ Gainful Employment.
+□ The Landowning Classes.
+□ Home of the Gentry?.
+□ A New Jerusalem : Cowboy Builder.
+□ Terminer la partie 1 avant de nettoyer les objets de John.
+□ Acheter les armes et composants nécessaires à Locked and Loaded, Pony Up et Self Sufficient.
+
+Série de chasse de L. Hobbs — préparation de It’s Art
+
+□ Lire l’affiche à la gare de Valentine pour commencer A Better World, A New Friend.
+□ Demande 1 : carcasses parfaites de squirrel et rabbit.
+□ Demande 2 : cardinal, rat et woodpecker parfaits.
+□ Demande 3 : chipmunk, oriole, robin et opossum parfaits.
+□ Demande 4 : sparrow, songbird, toad, bullfrog et skunk parfaits.
+□ Demande 5 : waxwing, bat, blue jay, crow et beaver parfaits.
+□ Utiliser petites flèches pour les oiseaux, rats et écureuils ; fusil Varmint pour lapin, mouffette, opossum et castor.
+□ Ne pas dépecer les carcasses demandées : envoyer l’animal entier par la poste.
+□ Attendre la lettre et la récompense après la cinquième liste.
+□ Placer la statue d’écureuil sur la cheminée de Beecher’s Hope.
+□ Après chaque journée d’attente, chercher la statue dans le coffre de la chambre, la cheminée, la chambre d’Uncle, la brouette de l’enclos, le coffre de la grange puis au sommet du mont Shann.
+□ Prendre la statue au mont Shann : It’s Art se débloque.
+
+ÉPILOGUE — PARTIE 2 : BEECHER’S HOPE
+
+□ Bare Knuckle Friendships.
+□ Home Improvement for Beginners.
+□ An Honest Day’s Labors.
+□ The Tool Box.
+□ A New Future Imagined.
+□ Uncle’s Bad Day.
+□ Trying Again.
+□ A Quick Favor for an Old Friend.
+□ American Venom : Endless Summer.
+□ Ne pas fermer le jeu après American Venom : la plupart des collections, animaux, tombes et défis sont désormais plus simples.
+
+TOMBES — PAYING RESPECTS ET 100 % INTERNE
+
+Les tombes deviennent contrôlables après les événements qui les rendent accessibles. Pour chaque tombe, s’approcher, interagir avec la pierre puis attendre la validation du Compendium/Progression.
+
+□ Jenny Kirk — Colter, près du camp de neige du prologue.
+□ Davey Callander — Colter, près de la zone de départ.
+□ Sean MacGuire — nord de Rhodes, au bord du chemin forestier.
+□ Kieran Duffy — nord-est de la carte, près de la zone d’eau et de la colline.
+□ Hosea Matthews — nord de Saint Denis, dans la zone du marais.
+□ Lenny Summers — même secteur général que Hosea, interagir séparément avec la tombe.
+□ Eagle Flies — à l’ouest de Wapiti, au bord de la réserve.
+□ Susan Grimshaw — au sud-est de Van Horn, dans la zone boisée.
+□ Arthur Morgan — au nord-est de Bacchus Station, au-dessus de la vallée.
+□ Payer les neuf tombes valide Paying Respects.
+□ Les tombes 8 et 9 demandent de parcourir les zones de la fin : faire le tour complet après l’épilogue si une tombe reste absente.
+
+100 % INTERNE — MISSIONS ET ÉVÉNEMENTS
+
+□ Terminer les 107 missions de l’Histoire et de l’épilogue ; regarder Pause → Progression → Histoire après chaque chapitre.
+□ Terminer 10 séries d’inconnus. Choix pratiques : A Test of Faith, The Noblest of Men, and a Woman, All That Glitters, Arcadia for Amateurs, Smoking and Other Hobbies, Geology for Beginners, A Fisher of Fish, The Artist’s Way, Duchesses and Other Animals et The Veteran.
+□ Capturer 5 primes au bureau d’un shérif.
+□ Provoquer ou rencontrer 25 opportunités aléatoires : aider un homme mordu, une personne attaquée, un cheval perdu, une diligence, un blessé ou une embuscade.
+□ Survivre à une embuscade de bande ; les repaires ou les trajets de nuit en déclenchent naturellement.
+□ Nettoyer les 6 repaires de bande : Six Point Cabin, Shady Belle, Clemens Point/repaires de chapitre, Beaver Hollow, Hanging Dog Ranch et Thieves’ Landing/repaires de l’épilogue selon l’accès.
+□ Dessiner au moins un point d’intérêt dans le carnet après l’avoir observé.
+□ Best in the West tombe à 100 % dans le menu Total Completion, pas en faisant chaque activité existante.
+
+100 % INTERNE — COLLECTIBLES
+
+Cartes de cigarettes
+
+□ Commencer Smoking and Other Hobbies.
+□ Collecter les paquets trouvés dans les maisons et acheter des cigarettes premium dans une boutique.
+□ Après l’histoire, acheter des cigarettes premium, jeter les paquets si l’inventaire est plein et répéter.
+□ Vérifier les séries dans Progression → Compendium.
+□ Envoyer les séries complètes par la poste.
+□ Une série complète suffit pour le 100 % interne ; les 144 cartes complètes peuvent aussi valider Collector’s Item.
+
+Os de dinosaure
+
+□ A Test of Faith démarre près de Flatneck Station, dans les Heartlands.
+□ Utiliser Eagle Eye : les os sont visibles comme des points blancs dans le sol/les rochers.
+□ Noter chaque numéro de 1 à 30 sur la carte.
+□ Régions de route : Heartlands, Cumberland Forest, Grizzlies, Roanoke, Lemoyne, Scarlett Meadows, Big Valley, Great Plains et les régions du sud accessibles dans l’épilogue.
+□ Envoyer ou remettre chaque relevé à Deborah MacGuiness.
+□ Ne pas valider la quête sans avoir contrôlé le compteur 30/30.
+
+Poissons légendaires
+
+□ A Fisher of Fish démarre chez Jeremy Gill au quai au sud-est de Flatneck Station.
+□ Acheter les leurres spéciaux à la boutique de Lagras ou auprès du pêcheur adapté.
+□ Legendary Chain Pickerel — rivière Dakota, au nord-ouest de Flatneck Station.
+□ Legendary Smallmouth Bass — lac Owanjila, à l’ouest de Strawberry.
+□ Legendary Perch — Elysian Pool, à l’est de Annesburg.
+□ Legendary Largemouth Bass — lac San Luis, région de New Austin en épilogue.
+□ Legendary Rock Bass — Aurora Basin, à l’ouest de Blackwater.
+□ Legendary Bullhead Catfish — zone marécageuse près de Sisika, bateau nécessaire.
+□ Legendary Longnose Gar — marais de Lagras.
+□ Legendary Muskie — phare/jetée de Van Horn.
+□ Legendary Lake Sturgeon — sud de Saint Denis, eau profonde.
+□ Legendary Steelhead Trout — nord-est de la carte, rivière près de Annesburg.
+□ Legendary Sockeye Salmon — lac Isabella, zone enneigée.
+□ Legendary Northern Pike — rivière Dakota près de Valentine.
+□ Legendary Bluegill — sud de Clemens Point, eau calme.
+□ Envoyer chaque poisson par la poste dès qu’il est capturé.
+□ It was THIS Big! se valide avec un poisson d’au moins 7,3 kg ; les grosses prises légendaires sont une occasion sûre.
+
+Gravures rupestres
+
+□ Geology for Beginners démarre chez Francis Sinclair, au nord-ouest de Strawberry.
+□ Graver la formation observée et noter les 10 numéros.
+□ Oprir’s? — repère de la rivière et des collines de West Elizabeth.
+□ Faces, bateaux et animaux : chercher les gravures sur les parois rocheuses, près des rivières et des points élevés.
+□ Revenir chez Francis après les 10 gravures.
+□ La série complète suffit au 100 % et à Collector’s Item si les autres collections ne sont pas faites.
+
+Dreamcatchers
+
+□ Aucun donneur de quête n’est nécessaire.
+□ Observer les arbres isolés, morts ou d’une essence différente dans les Heartlands, Cumberland Forest, Grizzlies, Roanoke, Lemoyne et West Elizabeth.
+□ Approcher la suspension et utiliser l’interaction d’examen.
+□ Noter les 20 sur la carte ; plusieurs sont près des routes principales mais presque invisibles de nuit.
+□ Après le vingtième, vérifier le carnet et la catégorie Collectibles.
+
+Exotiques d’Algernon
+
+□ Faire les 5 listes de Duchesses and Other Animals au chapitre 4.
+□ Plumes : aigrettes, hérons, spatules et oiseaux de marais ; chasser dans les marécages de Lagras et les îles proches.
+□ Fleurs : Lady of the Night, Lady Slipper, Ghost, Cigar, Spider, Rat Tail, Vanilla, Clamshell et Acuna’s Star.
+□ Œufs : alligators et spatules, observer les arbres et les nids avec Eagle Eye.
+□ Envoyer les objets demandés avant de vendre une plume.
+□ Terminer la liste 5 puis récupérer la récompense et contrôler la catégorie Collectibles.
+
+100 % INTERNE — COMPENDIUM
+
+Animaux
+
+□ Étudier au moins 50 espèces pour le 100 % interne.
+□ Pour Skin Deep et Zoologist, étudier puis dépecer toutes les espèces comptées par le succès : le jeu demande 169 entrées sur 178 et les animaux de Guarma ne sont pas nécessaires pour ces deux succès selon le suivi habituel.
+□ Heartlands/Cumberland : cerf, bison, pronghorn, coyote, loup, renard, lapin, écureuil, rat, serpent, corbeau, aigle, faucon, hibou, cheval et vaches.
+□ Lemoyne : alligator, panthère, héron, aigrette, spatule, ibis, grenouille, crabe, raton laveur et opossum.
+□ Roanoke/Annesburg : orignal, castor, loup, ours, couguar, serpent, poisson et oiseaux de rivière.
+□ Grizzlies : chèvre de montagne, mouflon, ours, loup, wapiti, aigle et espèces de neige.
+□ West Elizabeth : bison, cerf, puma, dinde, loup, castor, geai, pic et espèces de forêt.
+□ New Austin en épilogue : tatou, iguane, javelina, mouflon du désert, crotale, puma, vautour, condor, chouette et espèces du désert.
+□ Animaux rares à contrôler : panthère de Floride, panthère, orignal, castor légendaire, Carolina Parakeet si tu complètes au-delà du seuil, condor et espèces d’oiseaux minuscules.
+□ Pour chaque entrée, vérifier Study, Kill et Skin séparément : l’un ne remplace pas l’autre.
+□ Le talisman du Cerf légendaire aide les qualités, pas la validation de l’étude.
+
+Poissons, chevaux, plantes et gangs
+
+□ Pêcher 10 espèces ordinaires pour le 100 % interne, en plus des poissons légendaires.
+□ Découvrir 10 races de chevaux : Tennessee Walker, Morgan, Kentucky Saddler, American Standardbred, Appaloosa, American Paint, Hungarian Half-bred, Mustang, Nokota et Arabian sont de bons jalons.
+□ Cueillir 20 plantes différentes : ciboulette, origan, thym rampant, achillée, tabac indien, carotte sauvage, framboise, mûre, ginseng, sauge, menthe, massette, rose des neiges, orchidées et fleurs de marais.
+□ Découvrir les 6 gangs dans l’histoire et les repaires : O’Driscolls, Lemoyne Raiders, Murfree Brood, Skinner Brothers, Del Lobos et Van der Linde.
+□ Découvrir 10 équipements : canne à pêche, lasso, longue-vue, appareil photo, lanterne, détecteur et outils de camp comptent selon le Compendium.
+□ Utiliser 48 armes différentes. Les armes peuvent être ramassées, achetées, gagnées en mission ou récupérées sur des ennemis.
+□ Vérifier la liste Compendium → Weapons et chercher les armes uniques dans les homesteads et missions blanches.
+
+100 % INTERNE — JOUEUR ET DÉFIS
+
+Noyaux
+
+□ Health : combats, consommation de nourriture, nage et activités physiques.
+□ Stamina : course, nage et déplacements à cheval.
+□ Dead Eye : tirs précis, chasse et consommables.
+□ Atteindre le niveau maximum de chaque noyau et vérifier l’écran Player.
+
+Lien du cheval
+
+□ Faire monter un seul cheval jusqu’au niveau 4.
+□ Nourrir, brosser, calmer, caresser et le monter.
+□ Voyager avec la selle et éviter de changer de cheval principal sans nécessité.
+□ Trusty Steed se débloque au niveau maximal.
+
+Les 9 familles de défis
+
+□ Bandit : vols, braquages et primes.
+□ Explorer : cartes au trésor et trésors enfouis.
+□ Gambler : poker, blackjack, dominoes et Five Finger Fillet.
+□ Herbalist : cueillettes et recettes de plantes.
+□ Horseman : courses, sauts et déplacements montés.
+□ Master Hunter : animaux, proies et animaux légendaires.
+□ Sharpshooter : tirs de précision et éliminations à distance.
+□ Survivalist : pêche, campement et récolte.
+□ Weapons Expert : éliminations avec armes et combinaisons.
+□ Terminer les 10 rangs de chaque famille ; le jeu n’exige pas seulement un rang par famille.
+□ Faire les défis Gambler dès qu’un jeu est disponible, car certains rangs demandent de gagner et pas seulement de jouer.
+□ Garder les armes, appâts et cartes nécessaires avant de lancer un rang de défi.
+
+100 % INTERNE — MISCELLANEOUS
+
+□ Trouver cinq cabanes isolées : Watson’s Cabin, Catfish Jacksons, Aberdeen Pig Farm, Van Horn Mansion et Willard’s Rest sont des repères pratiques.
+□ Tuer cinq animaux légendaires : cerf, bison, ours, élan, castor, loup, coyote, renard, sanglier, alligator, panthère, etc.
+□ Jouer au poker à Valentine ou Saint Denis.
+□ Jouer au blackjack à Rhodes.
+□ Jouer aux dominoes à Emerald Station ou au camp.
+□ Jouer au Five Finger Fillet à Valentine ou au camp.
+□ Prendre un bain dans un hôtel.
+□ Voir un spectacle dans une ville.
+□ Visiter le théâtre de Saint Denis et attendre une représentation.
+□ Rencontrer cinq Ranters, Ravers and Campaigners : vétéran, aveugle, prédicateur, prophète ou personnages de route comptés par le jeu.
+□ Fabriquer une recette de nourriture au feu.
+□ Fabriquer un tonique.
+□ Fabriquer une munition.
+□ Fabriquer un objet de chasse.
+□ Fabriquer un soin ou stimulant pour le cheval.
+□ Fabriquer ou améliorer une arme.
+□ Faire un braquage de diligence.
+□ Faire un braquage de maison.
+□ Faire un braquage de boutique.
+□ Faire un braquage de train.
+
+GOLD RUSH — 70 MÉDAILLES D’OR
+
+□ Ouvrir Pause → Progression → Histoire et noter les médailles déjà obtenues.
+□ Les objectifs sont propres à chaque mission et doivent être remplis dans la même tentative.
+□ Les exigences courantes sont : limite de temps, précision minimale, nombre de tirs à la tête, absence de dégâts, arme imposée, mission sans soins ou compagnon à protéger.
+□ Faire les médailles pendant la partie quand l’objectif se réalise naturellement, mais ne pas interrompre la route si le score n’est pas parfait.
+□ Rejouer depuis Progression → Histoire avec une sauvegarde manuelle avant le lancement.
+□ Pour les objectifs de temps, ignorer les butins inutiles et suivre le marqueur direct.
+□ Pour la précision, utiliser Dead Eye et éviter les tirs de panique.
+□ Pour l’absence de dégâts, recommencer immédiatement si Arthur est touché.
+□ Pour les armes imposées, équiper l’arme demandée avant de lancer la mission.
+□ Choisir au moins 70 missions dont les objectifs sont courts et contrôlables ; il n’est pas nécessaire d’obtenir l’or sur les 107.
+□ Prioriser les missions de chapitre 1, les tutoriels de chasse, les braquages courts, les missions de transport et les premières missions de compagnons.
+□ Garder les missions longues de chapitre 4 à 6 pour la fin, car leurs objectifs de temps sont les plus stricts.
+□ Gold Rush se débloque à la 70e médaille d’or, même si l’interface de progression affiche encore des missions non parfaites.
+
+SUCCÈS STEAM HISTOIRE ET ACTIVITÉS
+
+Trusty Steed
+
+□ Atteindre le niveau de lien maximal avec un cheval.
+□ Nourrir, brosser, calmer et monter le même cheval jusqu’au niveau 4.
+
+Give to the Poor
+
+□ Déposer 250 $ cumulés dans la boîte de dons du camp avant son indisponibilité.
+
+Locked and Loaded
+
+□ Choisir un revolver, pistolet, fusil ou arme longue.
+□ Acheter les composants disponibles : canon, viseur, poignée, lunette et gravure si le jeu les propose.
+□ Vérifier que chaque composant de la même arme est amélioré.
+
+Take From the Rich
+
+□ Piller ou voler 250 $ cumulés.
+□ Les butins de missions et de repaires s’additionnent ; ne pas vendre les objets nécessaires aux collections avant la validation.
+
+Extreme Personality
+
+□ Atteindre l’extrémité positive ou négative de la jauge d’honneur.
+□ La voie positive est la plus simple à conserver avec les missions d’honneur.
+
+It was THIS Big!
+
+□ Capturer un poisson d’au moins 16 livres, soit environ 7,3 kg.
+□ Utiliser un leurre spécial et pêcher les gros poissons des lacs.
+
+Breaking and Entering
+
+□ Récupérer le butin spécifique de quatre homesteads.
+□ Lieux pratiques : Chez Porter au nord de Valentine, Watson’s Cabin près de Wallace Station, Catfish Jacksons au sud de Rhodes, Aberdeen Pig Farm au sud-est de Braithwaite, Lonnie’s Shack au sud de Shady Belle ou Van Horn Mansion.
+□ Ouvrir la cache ou le coffre demandé, pas uniquement fouiller les tiroirs.
+
+Friends With Benefits
+
+□ Une activité du chapitre 2.
+□ Une activité du chapitre 3.
+□ Une activité du chapitre 4.
+□ Les activités de chasse, pêche, Five Finger Fillet et braquage de maison sont les plus simples.
+
+Western Stranger
+
+□ Terminer 10 séries d’inconnus parmi A Test of Faith, The Noblest of Men, and a Woman, All That Glitters, Arcadia for Amateurs, Smoking and Other Hobbies, American Dreams, A Fine Night for It, Geology for Beginners, Fundraiser, The Smell of Grease and Paint, He’s British, Of Course, The Iniquities of History, A Fisher of Fish, No Good Deed, Oh, Brother, The Artist’s Way, Duchesses and Other Animals, A Bright Bouncing Boy, The Mercies of Knowledge, Idealism and Pragmatism for Beginners, The Wisdom of the Elders, The Widow of Willard’s Rest, The Veteran et The American Inferno, Burnt Out.
+□ Une série se compte quand son dernier épisode est terminé.
+
+Hobby Horse
+
+□ Jouer une manche de poker.
+□ Jouer une manche de blackjack.
+□ Jouer une manche de dominoes.
+□ Jouer une manche de Five Finger Fillet.
+□ Il n’est pas nécessaire de gagner chaque jeu, seulement de participer.
+
+Lending a Hand
+
+□ Chapitre 2 : We Loved Once and True I-III, Good Honest Snake Oil, Money Lending and Other Sins I-III.
+□ Chapitre 3 : Money Lending and Other Sins IV, The Course of True Love I-III.
+□ Chapitre 4 : Money Lending and Other Sins V, Help a Brother Out, Brothers and Sisters One and All, Fatherhood and Other Dreams I-II.
+□ Chapitre 6 : Money Lending and Other Sins VI-VII, Of Men and Angels I-II, Do Not Seek Absolution I-II, The Course of True Love IV-V, Honor Amongst Thieves, Archeology for Beginners et Mrs. Sadie Adler, Widow I-II.
+□ Toujours choisir la réponse d’aide quand la mission d’honneur propose une décision.
+
+Collector’s Item
+
+□ Terminer une série complète de cartes, os, gravures, dreamcatchers, poissons légendaires ou exotiques.
+
+Errand Boy
+
+□ Livrer cinq demandes de compagnons avant le chapitre 5.
+□ Utiliser les cinq demandes simples listées au chapitre 2 si elles apparaissent.
+
+Artificial Intelligence
+
+□ Terminer la série de Marko Dragic.
+□ Revenir au laboratoire après 48 heures de jeu et prendre la lampe.
+
+Paying Respects
+
+□ Interagir avec les neuf tombes listées dans la section dédiée.
+
+Self Sufficient
+
+□ Fabriquer 30 objets uniques en mode Histoire.
+□ Mélanger nourriture, toniques, munitions, objets de chasse, soins de cheval, armes et objets de camp.
+
+Skin Deep et Zoologist
+
+□ Étudier avant de tuer.
+□ Dépecer les espèces qui le permettent.
+□ Contrôler les 169 espèces nécessaires dans le Compendium ; les espèces de Guarma ne sont pas requises par le suivi habituel de ces succès.
+
+Pony Up
+
+□ Dépenser 5000 $ cumulés dans les boutiques.
+□ Acheter chevaux, vêtements, armes, munitions et améliorations après l’épilogue pour éviter de manquer d’argent dans l’Histoire.
+
+Grin and Bear It
+
+□ Laisser un ours renverser Arthur et survivre à l’attaque.
+□ Pendant qu’Arthur est au sol, se libérer, puis tuer l’ours avant de se relever complètement.
+□ Répéter 18 fois.
+□ Ne pas utiliser un tonique de santé renforcé juste avant l’attaque : garder une barre de vie partiellement vulnérable pour que le compteur s’enregistre.
+□ Faire une sauvegarde manuelle après chaque groupe de trois attaques.
+
+Bountiful
+
+□ Obtenir une prime de 250 $ dans chaque État compté par le succès.
+□ Faire une sauvegarde avant de provoquer la loi.
+□ Monter la prime avec les autorités, puis quitter la zone sans payer.
+□ Dormir ou attendre trois jours de jeu en conservant les primes.
+□ Faire l’opération dans les États accessibles, puis vérifier le succès avant de payer les primes.
+
+It’s Art
+
+□ Terminer les cinq demandes de chasse de L. Hobbs.
+□ Recevoir la statue d’écureuil.
+□ Rechercher la statue dans les six emplacements indiqués après chaque disparition.
+□ La dernière se trouve au sommet du mont Shann.
+
+RED DEAD ONLINE — PROCÉDURE COMPLÈTE
+
+□ Breakout — terminer l’introduction de Red Dead Online.
+□ Getting Started — atteindre le rang 10.
+□ Strength in Numbers — rejoindre une posse d’au moins deux joueurs et terminer une mission Exploration libre.
+□ Gun For Hire — accepter 10 missions Exploration libre auprès des personnages de la carte.
+□ Picked to Perfection — cueillir 25 plantes.
+□ Butchered — vendre 20 objets au boucher.
+□ Master Craftsman — fabriquer 20 objets hors munitions.
+□ Non-Regulation — fabriquer 25 munitions.
+□ Series Major — participer à une série depuis le menu Online.
+□ Buckle Up — obtenir cinq boucles d’or parmi les récompenses.
+□ Posse Up — former une posse persistante.
+□ Home Comforts — acheter cinq améliorations du camp Online.
+□ Horses for Courses — posséder cinq chevaux en même temps.
+□ All’s Fair — contre une mission d’une posse rivale avec l’événement affiché.
+□ Eventful — participer à cinq événements Exploration libre.
+□ Bountiful — survivre trois jours avec une prime de 250 $ dans les États demandés par le succès Online.
+□ Notorious — atteindre le rang 50.
+□ The Real Deal — obtenir trois titres de meilleur joueur dans des manches de quatre joueurs ou plus.
+□ Pour les objectifs de posse, utiliser la recherche de groupe en jeu ou un ami ; ne pas supposer qu’un événement solo validera l’objectif collectif.
+□ Les compteurs Online peuvent demander la fin de l’activité, pas seulement son lancement.
+
+CHECKLIST FINALE — 51/51 SUCCÈS STEAM
+
+- [ ] Just a Scratch — Terminer Enter, Pursued by a Memory.
+- [ ] Back in the Mud — Terminer le chapitre 1.
+- [ ] Trusty Steed — Atteindre le niveau de lien maximal avec un cheval.
+- [ ] Give to the Poor — Donner 250 $ à la boîte du camp.
+- [ ] To Greener Pastures — Terminer le chapitre 2.
+- [ ] Locked and Loaded — Améliorer tous les composants d’une arme.
+- [ ] Take From the Rich — Voler ou piller 250 $.
+- [ ] Breakout — Terminer l’introduction de Red Dead Online.
+- [ ] Settling Feuds — Terminer le chapitre 3.
+- [ ] Washed Ashore — Terminer le chapitre 4.
+- [ ] No Traitors — Terminer le chapitre 5.
+- [ ] Third Time Lucky — Terminer Goodbye, Dear Friend.
+- [ ] Redemption — Terminer Red Dead Redemption.
+- [ ] Cowboy Builder — Terminer A New Jerusalem.
+- [ ] Endless Summer — Terminer l’épilogue.
+- [ ] Extreme Personality — Atteindre le maximum ou le minimum d’honneur.
+- [ ] It was THIS Big! — Attraper un poisson d’au moins 7,3 kg.
+- [ ] Breaking and Entering — Récupérer les caches de 4 homesteads.
+- [ ] Friends With Benefits — Faire une activité de compagnon dans chaque camp.
+- [ ] Getting Started — Atteindre le rang 10 dans Red Dead Online.
+- [ ] Buckle Up — Obtenir 5 boucles d’or de récompenses dans Red Dead Online.
+- [ ] Pony Up — Dépenser 5000 $ dans les boutiques.
+- [ ] Self Sufficient — Fabriquer 30 objets uniques en mode Histoire.
+- [ ] Strength in Numbers — Terminer une mission Exploration libre avec une posse d’au moins 2 membres.
+- [ ] Western Stranger — Terminer 10 séries d’inconnus.
+- [ ] Hobby Horse — Jouer à tous les mini-jeux.
+- [ ] Lending a Hand — Terminer toutes les missions d’honneur optionnelles.
+- [ ] Errand Boy — Livrer 5 demandes d’objets de compagnons.
+- [ ] Gun For Hire — Accepter 10 missions Exploration libre.
+- [ ] Picked to Perfection — Cueillir 25 plantes dans Red Dead Online.
+- [ ] Collector’s Item — Terminer une série de collection.
+- [ ] Artificial Intelligence — Découvrir le destin de Marko Dragic.
+- [ ] Posse Up — Former une posse persistante.
+- [ ] Notorious — Atteindre le rang 50 dans Red Dead Online.
+- [ ] Home Comforts — Acheter 5 améliorations de camp dans Red Dead Online.
+- [ ] Skin Deep — Dépecer chaque espèce animale comptée en mode Histoire.
+- [ ] Zoologist — Étudier chaque espèce animale comptée en mode Histoire.
+- [ ] Paying Respects — Trouver les tombes de tous les compagnons tombés.
+- [ ] Best in the West — Atteindre 100 % de progression.
+- [ ] All’s Fair — Contrer une mission d’une posse rivale.
+- [ ] Eventful — Jouer à 5 événements Exploration libre.
+- [ ] Gold Rush — Obtenir 70 médailles d’or dans les missions de l’Histoire.
+- [ ] Bountiful — Survivre avec une prime de 250 $ dans tous les États comptés.
+- [ ] Non-Regulation — Fabriquer 25 munitions dans Red Dead Online.
+- [ ] It’s Art — Trouver un foyer définitif pour la statue d’écureuil.
+- [ ] Grin and Bear It — Survivre à 18 attaques d’ours et tuer l’ours à chaque fois.
+- [ ] The Real Deal — Être meilleur joueur 3 fois dans des manches d’au moins 4 joueurs.
+- [ ] Butchered — Vendre 20 objets au boucher dans Red Dead Online.
+- [ ] Master Craftsman — Fabriquer 20 objets hors munitions dans Red Dead Online.
+- [ ] Series Major — Participer à une série dans Red Dead Online.
+- [ ] Horses for Courses — Posséder 5 chevaux simultanément dans Red Dead Online.
+
+CONTRÔLE FINAL DU SITE ET DE LA SAUVEGARDE
+
+□ Pause → Progression → Total Completion affiche 100 %.
+□ Pause → Progression → Histoire affiche 70 médailles d’or ou plus.
+□ Compendium : 169 espèces comptées pour Skin Deep/Zoologist sont étudiées et dépecées lorsque possible.
+□ Les neuf tombes sont blanches/validées.
+□ Les demandes de camp et les missions d’honneur sont validées dans la partie active.
+□ Les quatre mini-jeux ont été joués.
+□ It’s Art et Paying Respects sont présents avant de supprimer une sauvegarde de secours.
+□ Red Dead Online : les 17 succès sont présents.
+□ Steam affiche 51/51.
+
+SOURCES ET CONTRÔLE ÉDITORIAL
+
+Cette fiche synthétise une route chronologique et les contrôles utiles ; elle ne recopie pas les scènes narratives. Les seuils du 100 % interne et la liste Steam ont été comparés aux sources ci-dessous.
+
+□ Liste officielle des 51 succès Steam : https://steamcommunity.com/stats/1174180/achievements
+□ Guide Steam de stratégie 100 % : https://steamcommunity.com/sharedfiles/filedetails/?id=2487669306
+□ Guide Steam succès, Histoire et Online : https://steamcommunity.com/sharedfiles/filedetails/?id=1929161080
+□ Checklist officielle du 100 % interne : https://www.powerpyx.com/red-dead-redemption-2-100-guide-checklist/
+□ Liste et walkthrough des missions : https://www.powerpyx.com/red-dead-redemption-2-full-walkthrough-all-story-missions/
+□ Guide des conditions de progression : https://www.rdr2.org/guides/red-dead-redemption-2-100-completion-guide/
+
+FIN DE FICHE — NE PAS SUPPRIMER LES SAUVEGARDES DE CHAPITRES AVANT 51/51.
