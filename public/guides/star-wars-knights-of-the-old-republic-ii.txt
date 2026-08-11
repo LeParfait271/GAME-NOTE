@@ -1,0 +1,235 @@
+STAR WARS: KNIGHTS OF THE OLD REPUBLIC II - THE SITH LORDS
+GUIDE 100 % STEAM - 57 SUCCES STEAM - CHRONOLOGIQUE - SANS SPOILER
+
+Version de travail : 11 aout 2026
+
+PERIMETRE
+
+Cette route couvre les 57 succes Steam, les missions principales et
+secondaires, les compagnons, les competences, le pazaak, les cercles de combat,
+les choix de factions, les deux orientations et le nettoyage de l'Ebon Hawk.
+Le jeu est une campagne solo. Le total vise est 57/57.
+
+OBJECTIF REEL
+
+[ ] Prologue, Peragus et Telos nettoyes avec les quetes et les competences.
+[ ] Les quatre grands mondes, les compagnons et les missions de faction sont
+    termines sur des sauvegardes de branche.
+[ ] Une partie lumineuse et une partie obscure valident les deux fins et les
+    pouvoirs correspondants.
+[ ] Les competences 30, le pazaak, les cercles, les objets et les quetes HK sont
+    coches.
+[ ] 57/57 succes Steam apparaissent dans la bibliotheque.
+
+GARDE-FOUS ET MISSABLES
+
+- Les branches lumineuse/obscure, Settlers/Vaklu, Mira/Hanharr et Handmaiden/
+  Disciple ne sont pas toutes compatibles sur une seule partie. La route sure
+  utilise deux campagnes ou des sauvegardes avant chaque branche.
+- Sauvegardes conseillees : DEBUT-PERAGUS, APRES-TELOS,
+  AVANT-PREMIER-MONDE, AVANT-KHOONDA, AVANT-ONDERON,
+  AVANT-KORRIBAN et AVANT-FINAL.
+- Pour les competences, vise 30 points dans Computer Use, Repair, Persuade,
+  Treat Injury, Stealth et Demolitions avec les equipements et compagnons.
+  Garde les bonus et ne depense pas les points au hasard.
+- Parle a tout le groupe apres chaque monde. Les conversations d'influence
+  ouvrent les competences, les entrainements et les succes de compagnons.
+- `Who You Gonna Call?` n'est pas dans ce jeu ; les alertes ci-dessous concernent
+  uniquement les choix, les quetes et les succes des 57 objectifs.
+- Aucun detail d'intrigue, d'identite, de revelation ou de denouement n'est
+  donne. Les planetes, missions et titres de succes servent de reperes.
+
+ROUTE CHRONOLOGIQUE - PARTIE A LUMINEUSE
+
+00 - PROLOGUE ET PERAGUS
+
+- Termine le prologue et active `Training Wheels`. Explore chaque salle,
+  recupere les composants et conserve les objets de reparation.
+- Monte Computer Use et Repair sur le personnage principal. Atteins 30 dans
+  Computer Use pour `We Have to Hack Into the Mainframe!` et 30 Repair pour
+  `I've Seen How You Use a Hydrospanner`.
+- Fais les deux objectifs opposes de Peragus avec une sauvegarde juste avant la
+  decision : `I Didn't Do It!` puis `It Was Like That When I Got Here!`.
+- [ ] `Larger World`, `Starting Down the Dark Path` en preparation,
+      `Training Wheels`, `We Have to Hack Into the Mainframe!`,
+      `I Didn't Do It!`, `An Elegant Weapon`, `I've Seen How You Use a
+      Hydrospanner`, `It Was Like That When I Got Here!`.
+
+01 - TELOS : STATION, CITADELLE ET SURFACE
+
+- A la station de Telos, parle a tous les contacts, prends les missions des
+  quartiers et garde une sauvegarde avant les accusations et decisions de
+  faction.
+- Fais les quetes de la cantina, des appartements, des boutiques et des postes
+  de securite. Monte Persuade pour `Talk Them to Death` et recupere 10 000
+  credits pour `In It For the Money`.
+- Repare le droid de l'Ebon Hawk des que les pieces sont disponibles pour
+  `Unadulterated Violence`. Ne vends pas les modules HK.
+- Sur la surface, fais les missions des refugies et les combats optionnels,
+  puis reviens a la station avec le journal vide.
+- [ ] `In It For the Money`, `Talk Them to Death`, `Unadulterated Violence`,
+      `A Certain Set of Skills` en preparation.
+
+02 - NAR SHADDAA : ARRIVEE, HUTTS ET PAZAAK
+
+- Commence par Nar Shaddaa pour ouvrir les quetes de quartier et les rencontres
+  de compagnons. Fais toutes les missions des refugees, des marchands et des
+  casinos avant de quitter la lune.
+- Parle a Vogga et complete les objectifs qui permettent d'obtenir `Hutt Oil`.
+  Fais `Dancing Queen` pendant la meme chaine, puis verifie les dialogues de
+  groupe.
+- Fais le pazaak du champion. Gagne une partie avec le plateau complet pour
+  `Never Tell Me the Odds`, puis utilise la solution de dialogue pour
+  `Cheater` sur une sauvegarde separee.
+- Termine la chaine de la chambre et les missions qui ouvrent les alliés. Garde
+  une sauvegarde avant les choix de faction et de compagnon.
+- [ ] `Dancing Queen`, `Hutt Oil`, `Pure Pazaak`, `Never Tell Me the Odds`,
+      `Cheater`, `Lost Girl` si la branche lumineuse est active.
+
+03 - NAR SHADDAA : COMPAGNONS, HK ET CERCLES
+
+- Monte l'influence de chaque compagnon en repondant a ses sujets de dialogue,
+  puis fais ses entrainements et quetes personnelles.
+- Obtiens les pieces HK, reassemble le module pour `Short Circuit` et parle a
+  HK-47 jusqu'a `Cupid's Rifle` et `Assassination Protocol: Active`.
+- Termine le cercle de combat de Handmaiden pour `The First Rule...` sur la
+  partie lumineuse. La branche Hanharr se garde pour la partie obscure.
+- Maintiens une sauvegarde avant les choix de prisonnier, d'influence et de
+  compagnon afin de pouvoir recharger sans refaire Nar Shaddaa.
+- [ ] `The First Rule...`, `Short Circuit`, `Cupid's Rifle`,
+      `Assassination Protocol: Active`, `The Gang's All Here`.
+
+04 - DANTOOINE : ENCLAVE, KHOONDA ET CRISTAL
+
+- Nettoie l'enclave, les fermes, les mercenaires et les ruines. Fais les
+  dialogues de Maitland et les quetes de la colonie avant la bataille de
+  Khoonda.
+- Pars sur la branche Settlers pour `Last Stand`, puis utilise la sauvegarde
+  AVANT-KHOONDA pour tester `Nothing Personal` si necessaire.
+- Recupere le cristal nomme avec une sauvegarde avant le choix de la caverne
+  pour `Pet Rock`. Fabrique ensuite le sabre de la quete `An Elegant Weapon`.
+- Fais les quetes de compagnons de Dantooine et augmente Treat Injury a 30 pour
+  `Trust Me, I'm a Doctor`.
+- [ ] `Last Stand`, `Pet Rock`, `Nothing Personal`, `Trust Me, I'm a Doctor`.
+
+05 - ONDERON : DXUN, CERCLE MANDALORIEN ET ROYAL PROTOCOL
+
+- Explore Dxun, accepte les missions de chasse et termine le Mandalorian Battle
+  Circle pour `The Second Rule...`.
+- Fais toutes les missions de camp, les objets de chasse et les dialogues des
+  compagnons avant d'entrer dans la capitale.
+- Sur la partie lumineuse, utilise la branche de la Reine pour `Royal Protocol`.
+  Garde AVANT-ONDERON pour la branche Vaklu de la partie obscure.
+- Recupere les modules, les armures et les objets de quete sans les vendre.
+- [ ] `The Second Rule...`, `Royal Protocol`, quetes Dxun et objets Mandaloriens.
+
+06 - KORRIBAN : ACADEMIE ET TOMBE
+
+- Termine les missions de l'academie et les conversations des erudits. Ouvre la
+  tombe avec une sauvegarde AVANT-KORRIBAN.
+- Commence la quete piegee pour `It's a trap!`, puis fouille un corps pour
+  `Grave Robber`. Ne quitte pas la planete sans les deux objectifs.
+- Apprends Force Sight pour `Your Eyes Can Deceive You`, termine la mission de
+  fuite pour `Fight Another Day` et conserve les objets de la tombe.
+- Les scenes de Korriban ont des conditions de groupe : avance avec le membre
+  requis, puis reviens a l'Ebon Hawk pour les conversations.
+- [ ] `It's a trap!`, `Grave Robber`, `Fight Another Day`,
+      `Your Eyes Can Deceive You`.
+
+07 - INFLUENCE, COMPETENCES ET COMPAGNONS
+
+- Sur l'Ebon Hawk, parle a tout le groupe apres Nar Shaddaa, Dantooine,
+  Onderon et Korriban. Chaque gain d'influence peut ouvrir une scene ou un
+  entrainement.
+- Sur la partie lumineuse, recrute Handmaiden et Disciple selon les conditions
+  de la sauvegarde. Fais `Orphan White`, `Ancient History` et `Breaking the
+  Oath` sur les branches qui les permettent.
+- Atteins 30 en Stealth et Demolitions pour `Silent, But Deadly` et `Let's Blow
+  This Place!`. Utilise des bonus d'equipement si les points manquent.
+- Atteins 30 dans chaque competence cible avec un seul personnage ou une seule
+  sauvegarde de controle, puis note le resultat dans le journal.
+- [ ] `Orphan White`, `Ancient History`, `Breaking the Oath`, `Silent, But
+      Deadly`, `Let's Blow This Place!`, `Over Achiever`.
+
+08 - PARTIE A : POUVOIRS LUMINEUX ET FIN LUMINEUSE
+
+- Choisis les reponses lumineuses dans les conversations et utilise les
+  pouvoirs lumineux jusqu'au maximum pour `Luminous Beings` et `I Am A Jedi`.
+- Termine la campagne sur la sauvegarde AVANT-FINAL pour `Seeker`.
+- Conserve le niveau 30 et les objectifs de compagnons deja coches.
+- [ ] `Luminous Beings`, `I Am A Jedi`, `Seeker`, `The Sith Lord` si le menu et
+      la progression de la partie les valident.
+
+ROUTE CHRONOLOGIQUE - PARTIE B OBSCURE
+
+09 - REPRISE SUR SAUVEGARDE ET CHOIX OBSCURS
+
+- Reprends au plus tard a AVANT-KHOONDA ou lance une nouvelle partie en suivant
+  la meme route de mondes. Les missions de Peragus/Telos peuvent etre refaites
+  rapidement en visant les competences manquantes.
+- Choisis les reponses obscures et monte les pouvoirs jusqu'au maximum pour
+  `If You Only Knew` et `Unlimited Power`.
+- Sur Dantooine, valide la branche de la faction opposee puis teste `Nothing
+  Personal` depuis la sauvegarde dediee.
+- Sur Onderon, suis Vaklu pour `Martial Law`. Sur les missions de compagnons,
+  ouvre la branche Hanharr pour `The Walking Carpet` et `Laugh It Up, Fuzzball`.
+- [ ] `Starting Down the Dark Path`, `If You Only Knew...`, `Unlimited Power`,
+      `Martial Law`, `The Walking Carpet`, `Laugh It Up, Fuzzball`.
+
+10 - PARTIE B : KORRIBAN, JEDI ET MANDALORIENS
+
+- Reprends les cercles de combat avec la bonne branche de compagnon. Termine
+  `The Second Rule...` si ce n'est pas deja fait et verifie les entrainements.
+- Fais les objectifs lies a la defaite des maitres Jedi sur la partie obscure
+  pour `No Jedi can stop us`. Garde la sauvegarde avant le dernier monde.
+- Termine les dialogues HK, les competences, les modules et les objets oublies.
+  Une partie obscure est le meilleur moment pour finaliser `The Sith Lord`.
+- [ ] `No Jedi can stop us`, `The Sith Lord`, `The First Rule...` ou `The
+      Second Rule...`, selon les sauvegardes conservees.
+
+11 - FIN OBSCURE ET NETTOYAGE FINAL
+
+- Termine la campagne sur la sauvegarde AVANT-FINAL pour `Destiny, Dominated`.
+  Ne supprime pas la sauvegarde lumineuse avant d'avoir vu le succes.
+- Controle les objectifs : pazaak, cartes stellaires, compagnons, influence,
+  competences, objets, factions, cercles et pouvoirs.
+- Si `A Certain Set of Skills` ou `Over Achiever` manque, utilise le nettoyage
+  d'une partie deja avancee plutot qu'une nouvelle route complete.
+- [ ] `Destiny, Dominated`, tous les succes de branche et 57/57.
+
+CHECKLIST COMPLETE DES 57 SUCCES STEAM
+
+[ ] Larger World  [ ] Starting Down the Dark Path  [ ] Training Wheels
+[ ] Dancing Queen  [ ] In It For the Money  [ ] We Have to Hack Into the Mainframe!
+[ ] I Didn't Do It!  [ ] An Elegant Weapon  [ ] I've Seen How You Use a Hydrospanner
+[ ] It Was Like That When I Got Here!  [ ] Orphan White  [ ] Pet Rock
+[ ] A Certain Set of Skills  [ ] Unadulterated Violence  [ ] Fight Another Day
+[ ] It's a trap!  [ ] Grave Robber  [ ] Last Stand  [ ] Lost Girl
+[ ] Don't Get Cocky  [ ] The Gang's All Here  [ ] Talk Them to Death
+[ ] Luminous Beings  [ ] Hutt Oil  [ ] The Second Rule...
+[ ] Hunger Strike  [ ] Royal Protocol  [ ] Pain Relief  [ ] Seeker
+[ ] Trust Me, I'm a Doctor  [ ] Your Eyes Can Deceive You  [ ] Ancient History
+[ ] Breaking the Oath  [ ] Silent, But Deadly  [ ] Let's Blow This Place!
+[ ] Finders Keepers  [ ] Pure Pazaak  [ ] The First Rule...
+[ ] Cupid's Rifle  [ ] If You Only Knew...  [ ] The Walking Carpet
+[ ] Over Achiever  [ ] No Jedi can stop us  [ ] Martial Law
+[ ] Lost in Your Work  [ ] Never Tell Me the Odds  [ ] The Sith Lord
+[ ] Destiny, Dominated  [ ] Cheater  [ ] Short Circuit
+[ ] Assassination Protocol: Active  [ ] Nothing Personal
+[ ] Unlimited Power  [ ] I Am A Jedi  [ ] You ARE the droid I'm looking for
+[ ] Laugh It Up, Fuzzball  [ ] I hate everything about you
+
+CONTROLE FINAL
+
+[ ] Competences Computer Use, Repair, Persuade, Treat Injury, Stealth et
+    Demolitions validees a 30.
+[ ] Missions des compagnons, HK-47, pazaak et cercles coches.
+[ ] Branches Settlers/Vaklu, Handmaiden/Disciple, Mira/Hanharr et deux fins
+    validees sur sauvegardes separees.
+[ ] Les 57 succes Steam sont debloques.
+
+SOURCES DE CONTROLE
+
+- Succes officiels Steam : https://steamcommunity.com/stats/208580/achievements
+- Fiche Steam : https://store.steampowered.com/app/208580/STAR_WARS_Knights_of_the_Old_Republic_II_The_Sith_Lords/
+- Guide de quetes et mondes : https://strategywiki.org/wiki/Star_Wars:_Knights_of_the_Old_Republic_II:_The_Sith_Lords
