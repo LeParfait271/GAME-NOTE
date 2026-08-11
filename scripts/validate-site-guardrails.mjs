@@ -313,7 +313,7 @@ for (const fragment of [
   "skip-link",
   "aria-keyshortcuts",
   "application/ld+json",
-  "favorite-toggle",
+  "guide-card-open",
   "mobile-bottom-nav",
   "normalizeCatalogText",
 ]) {
@@ -428,7 +428,7 @@ if (await exists("dist/client/index.html")) {
     'rel="manifest"',
     'rel="canonical"',
     'class="mobile-bottom-nav"',
-    'class="favorite-toggle"',
+    'class="guide-card-open"',
   ]) {
     if (!indexHtml.includes(fragment)) {
       fail("dist/client/index.html: fragment absent (" + fragment + ").");
