@@ -1,304 +1,827 @@
 FINAL FANTASY XV WINDOWS EDITION
 GUIDE CHRONOLOGIQUE 100 % STEAM - SANS SPOILER
 
-Version de travail : 10 aout 2026
+Version : 11 aout 2026
+Plateforme : Steam
+Succes : 97
+Contenu couvert : campagne, Royal Edition, Episodes Gladiolus / Ignis /
+Prompto / Ardyn et les 10 succes de Comrades integres a Windows Edition.
 
-Ce parcours couvre les 97 succes Steam de Windows Edition, le jeu principal,
-le contenu Royal, Episode Gladiolus, Episode Prompto, Episode Ignis, Episode
-Ardyn et Comrades. La page Steam inclut des fonctions en ligne : la route
-signale explicitement ce qui depend du mode Comrades et de la disponibilite du
-service, afin de ne pas promettre un 100 % impossible sans verification.
+PERIMETRE DE LA FICHE
 
-OBJECTIF
+Cette fiche suit la campagne chapitre par chapitre, puis le nettoyage de
+Lucis : quetes bleues, hunts, Royal Arms, donjons, datalogs, peche, cuisine,
+survie, photos, chocobos, Regalia Type-D et Type-F, Justice Monsters Five,
+Adamantoise, Melusine, Omega, Pitioss, les huit Menace Dungeons et les
+extensions.
+
+La route est sans spoiler narratif. Les noms de chapitres, lieux, donjons,
+boss, objets et succes sont utilises comme reperes techniques ; aucune
+identite, mort, revelation ou issue de fin n'est expliquee.
+
+OBJECTIFS DE FIN DE PARCOURS
 
 [ ] 97/97 succes Steam.
-[ ] Jeu principal : histoire, 80 quetes, chasses, peche, cuisine, photo,
-    survie, chocobo, Regalia, objets, documents et datalog.
-[ ] Royal Pack : Royal Arms, sigils, Insomnia, colonnes et boss optionnels.
-[ ] Episodes Gladiolus, Prompto, Ignis et Ardyn.
-[ ] Comrades : histoire, quatre personnages, installations, combats, scores
-    et epreuves.
+[ ] Campagne principale terminee et sauvegarde de Chapitre 15 conservee.
+[ ] 80 quetes bleues minimum, toutes les quetes de compagnons et les hunts.
+[ ] Les 13 Royal Arms, Armiger Unleashed et tous les donjons normaux.
+[ ] Les 8 Menace Dungeons, Pitioss, Adamantoise, Melusine et Omega.
+[ ] Peche, Survie, Cuisine et Photos niveau 10.
+[ ] 76 datalogs minimum, 90 vises pour ne laisser aucune fenetre fragile.
+[ ] Les quatre Episodes, Ardyn et les 10 succes Comrades.
+
+COMMENT LIRE LA ROUTE
+
+- Les quetes bleues sont les quetes secondaires qui comptent pour Spinning a
+  Yarn. Accepte et termine chaque quete bleue quand elle devient disponible.
+- Les quetes de chasse orange servent surtout aux recompenses et au rang de
+  chasseur. Fais-les avant de changer de chapitre si le marqueur indique une
+  fenetre.
+- Une sauvegarde manuelle est faite avant chaque chapitre et chaque donjon.
+  Le Chapitre 15 permet de retourner dans l'open world, mais certaines scenes
+  de compagnon et certains datalogs sont plus simples dans leur chapitre.
+- Ouvre chaque coffre, ramasse chaque point brillant et affiche la carte du
+  donjon. Les grandes recompenses sont listees ci-dessous ; les consommables
+  ne sont pas ignores pour autant.
+- Les quetes des DLC se font depuis le menu principal. Elles ne modifient pas
+  la progression de la campagne et leur checklist est separee.
 
 GARDE-FOUS ABSOLUS
 
-- Joue en Normal pour les combats et les episodes qui exigent une difficulte
-  precise. Les succes de DLC peuvent refuser une difficulte inferieure.
-- Garde une sauvegarde principale en exploration libre et une sauvegarde de
-  chapitre. Les succes Royal de boss et les visites de chapitre sont plus
-  simples avec Chapter Select.
-- Avant de lancer une mission principale, termine les quetes bleues, les
-  chasses, les photos et les activites de camp de la zone. Le jeu change les
-  acces a certains endroits au fil des chapitres.
-- Pour les objets et le Datalog, ramasse chaque item au sol, chaque document
-  et chaque entree de carte. La progression n'est pas toujours visible dans
-  l'interface ; note tes categories.
-- Comrades est un mode distinct dans Windows Edition. Verifie son acces hors
-  ligne et son service Steam avant de commencer : si une mission ou une
-  apparition de PNJ depend du reseau, c'est un risque externe, pas une erreur
-  de route.
-- Aucun passage ne revele la fin, les morts, les identites ou les retournements.
+1. Fais les missions principales apres avoir vide les quetes bleues du
+   chapitre, sauf quand une section dit explicitement de partir.
+2. Chapitre 3 : termine Pilgrimage et la photo de lac avant de franchir le
+   point de non-retour de l'etape principale.
+3. Chapitres 6 et 7 : profite des compagnons temporaires pour les camps,
+   tours et photos. Ces scenes sont recuperables par Chapter Select, mais
+   les faire sur la route evite les retours inutiles.
+4. Dans chaque donjon, ne suis pas uniquement le marqueur. Fais les salles
+   laterales, les impasses et les coffres avant l'ascenseur ou la sortie.
+5. Les 24 datalogs fragiles sont a lire des leur apparition. Pour Pursuit of
+   Knowledge, vise les 90 et non le minimum 76.
+6. Pour les 80 quetes, ne compte pas seulement les hunts. Le compteur
+   Spinning a Yarn ne monte que sur les quetes bleues terminees.
+7. Comrades est traite en mode solo / compagnons IA quand le build Steam le
+   permet. Le cross-match historique n'est pas necessaire a cette route.
+8. Ne vends pas les objets de quete, Repair Kits, Oracle Ascension Coins,
+   Vexxos, Magitek Cores, rare fish et ingredients de recettes avant de
+   verifier la section correspondante.
 
-MISSABLES ET DEPENDANCES
+MISSABLES ET FENETRES A SECURISER
 
-- Les fenetres concernees sont les quetes de zone, les documents, les objets,
-  les scores Royal et les apparitions de Comrades. Garde une sauvegarde libre
-  et une sauvegarde de chapitre avant les transitions importantes.
+- Chapter 2 : rencontre Magitek Bannerman et les two levels si tu veux le
+  Bestiary complet du premier secteur ; l'achievement n'est pas bloque par
+  le compteur de quetes.
+- Chapter 3 : Pilgrimage et Photo Op: Lakefront doivent etre termines avant
+  le depart pour le Disc of Cauthess. [ ] Fenetre Chapter 3.
+- Chapter 6 : Iris peut participer aux tours, camps et photos seulement quand
+  elle accompagne le groupe. [ ] Fenetre compagnon Iris.
+- Chapter 7 : Aranea peut participer aux tours et photos pendant sa presence.
+  [ ] Fenetre compagnon Aranea.
+- Chapter 8 / 9 : termine les quetes de la ville et les datalogs avant le
+  depart pour Altissia si le marqueur les signale.
+- Datalogs : lis les archives des chapitres et des donjons avant de franchir
+  les portes de fin. Chapter Select sert de rattrapage, mais un tableau de
+  90 cases evite les retours a l'aveugle.
+- Episodes Gladiolus et Prompto : Columns et Items doivent etre termines dans
+  une seule partie de l'episode, pas sur plusieurs sauvegardes.
+- Comrades : les 13 Royal Sigils, le niveau du Chocobo et le niveau 30 de
+  l'arme demandent un nettoyage separe du scenario.
 
-JEU PRINCIPAL - INTRODUCTION ET CHAPITRE 1
+PLAN DES RUNS
 
-- Termine le prologue pour Insomnia's Waking Nightmare, utilise un blindside,
-  une suspension, une commande d'allié et les quatre emplacements d'armes.
-- Conduis la Regalia pour Learner's Permit. Fabrique un sort et lance-le pour
-  Magical Worker / Black Mage, puis utilise l'Armiger quand il devient actif.
-- Commence les trois compteurs : quetes bleues, chasses et camp. Mange un plat,
-  peche, prends une photo et dors au moins une fois pour ouvrir les niveaux.
-- Termine les premieres quetes de Cid, Cindy, Dave et les marchands. Ne vends
-  pas les materiaux de moteur ou de quete avant d'avoir controle les amelio-
-  rations de Regalia.
-- Debloque le chocobo des que la chasse associee est disponible. Monte-le
-  regulierement, prends les parcours et garde les recompenses.
+RUN A - CAMPAGNE ET OPEN WORLD
 
-CHAPITRE 2 - ROUTE ET ROYAL ARMS
+1. Suivre Chapters 0 a 14.
+2. Faire les quetes bleues, Royal Arms, donjons et datalogs au moment indique.
+3. Garder Chapter 15 pour le nettoyage et les Menace Dungeons.
 
-- Termine les quetes principales et chaque chasse accessible. Fais au moins
-  10 quetes bleues avant la fin du chapitre ; les seuils 5/10/20/40/80 se
-  valident sur la sauvegarde entiere.
-- Recupere les armes royales quand elles sont proposees. Equipe chacune une
-  fois et utilise l'Armiger pour The Power of Kings.
-- Termine les quetes de mechanicien et les pieces de Regalia. Les tests de
-  cross-country se feront plus facilement avec la Regalia amelioree.
-- Apprends a parer et a enchainer. Fais 10 full-hit cross chains au fil des
-  combats, 10 contre-attaques et trois stealth-kills.
+RUN B - DLC ET COMRADES
 
-CHAPITRE 3 - MONDE OUVERT
+- Finir Episode Gladiolus, Episode Prompto, Episode Ignis et Episode Ardyn en
+  Normal. Chaque episode conserve son propre tableau.
+- Lancer Comrades depuis le menu de contenu additionnel, creer l'avatar,
+  alimenter les villes, apprendre les armes et suivre les quetes de chaque
+  membre de la garde royale.
 
-- Fais le tour des villes et postes dans l'ordre : quetes, chasses, restaurants,
-  peche, documents, objets au sol et photos. Regarde le Datalog apres chaque
-  zone.
-- Termine les quetes de photographie d'Ignis/Prompto et laisse les photos se
-  faire aux bivouacs. Pour Field Photographer, utilise Selfie Shot en combat
-  dix fois.
-- Monte Photo, Survie, Cuisine et Peche a chaque occasion. Les niveaux maximum
-  arrivent plus vite si tu varies les activites plutôt que de farmer une seule
-  zone.
-- Joue a JUSTICE MONSTERS FIVE une fois. Les points et les pieces ne sont pas
-  necessaires a la route principale, mais le succes l'est.
-- Alimente Lestallum avec les quetes et materiaux jusqu'a toutes les
-  installations pour Beacon of Hope.
+PROLOGUE ET CHAPTER 1 - DEPARTURE
 
-CHAPITRE 4 A 6 - EXPLORATION ET POINTS DE CONTROLE
+1. Prologue
 
-- Termine les quetes de chocobo et gagne les courses. Cherche les poires
-  cachees en suivant le terrain ; eleve un chocobo jusqu'au niveau 99 sur le
-  nettoyage pour Chocobreeder.
-- Obtiens toutes les Royal Sigils sur les autels optionnels, puis verifie
-  Blessed by All.
-- Fais les quetes de Regalia et les trois cross-country tests. Les temps
-  « excellent » demandent la bonne voiture et un parcours sans collision.
-- Augmente les quetes jusqu'a 40 puis 80. Les petites quetes de livraison,
-  d'objets et de chasse comptent : n'ignore pas les series de PNJ.
-- Rencontre le proprietaire du Crow's Nest Diner pour Come Back, Kenny!. Si
-  l'apparition manque, reviens en Comrades et relance les missions necessaires.
+- Termine le prologue et ouvre les coffres des zones de combat. [ ] Insomnia's
+  Waking Nightmare.
+- Apprends les commandes de base, effectue une attaque en aveugle et equipe
+  quatre armes dans les quatre cases de Noctis des que le menu le permet :
+  [ ] Quadruple Threat.
 
-CHAPITRE 7 A 9 - FIN DE L'HISTOIRE ET CHAPTER SELECT
+2. Hammerhead, Galdin Quay et Leide
 
-- Avant chaque mission lineaire, fais une sauvegarde libre et un inventaire des
-  objets, documents et entries. Certaines zones ne s'ouvrent plus dans le meme
-  ordre apres le depart.
-- Termine la progression principale, puis reviens dans le monde ouvert. Les
-  succes d'histoire : Departure, No Turning Back, The Open World, Living Legend,
-  Dark Clouds, A Way Forward, Party of Three, The Heart of a King, Homecoming,
-  Chosen King et les autres se valident sans choix de dialogue.
-- Termine 80 quetes, toutes les chasses et tous les documents avant les bonus
-  Royal. Conserve une sauvegarde après l'histoire.
+- A Hammerhead, parle a Cidney, Cid et les vendeurs. Achete les cartes, les
+  armes de depart et les ingredients. Accepte Gone Hunting.
+- Termine la premiere chasse a la station-service. [ ] My First Hunt.
+- Fais les quetes bleues de Cindy des qu'elles apparaissent : The Ever Regal
+  Regalia, A Fitting Occupation, A Better Engine Blade, A Better Engine Blade
+  II, A Better Engine Blade III, Into Unknown Frontiers, The Ever Gleaming
+  Regalia et les livraisons de pieces.
+- A Galdin Quay, ouvre les coffres des chambres, parle aux PNJ, accepte les
+  quetes de Dave et les premieres missions de Dino. Le motel fournit une
+  bonne reservation d'EXP, mais ne consomme pas les bonus avant les scenes de
+  camping.
+- Accepte Scraps of Mystery I et les hunts du Longwythe Rest Area. Ramasse
+  les cartes au sol et les points brillants de la plage.
+- Fais monter les competences naturelles : Prompto photo, Ignis cuisine,
+  Gladiolus survie, Noctis peche.
+- Termine Chapter 1 : [ ] Departure. Le compteur Spinning a Yarn I / II peut
+  deja etre valide.
 
-ROYAL PACK ET NETTOYAGE DU JEU PRINCIPAL
+3. Datalogs Chapter 1
 
-- Dans Chapter Select, fais les boss Royal en Normal et les combats de la zone
-  finale Royal. Coupe la route en sessions : colonnes, documents, objets,
-  Royal Sigils, datalog et quetes.
-- Arrache toutes les colonnes de la section Royal pour Column Colossus.
-- Termine les epreuves Royal en Normal pour Shield of the Chosen King, puis les
-  combats de scores : 500 000 et 1 000 000 pour No Pain, No Gain et A New
-  Blademaster.
-- Recupere tous les documents, tous les objets et 80 % du Datalog. Les trois
-  compteurs ne sont pas identiques : note-les separement.
-- Fabrique une arme de niveau 30 ou plus, utilise 100 Total Clarity, monte les
-  trois niveaux d'activites et prends les dernieres photos et quetes.
+- Lis les archives de Hammerhead, Galdin Quay, Longwythe, les deux camps,
+  les notices de chasse, la fiche Regalia et les fiches de region.
+- Ouvre les entrées orange ou bleues de la carte avant de quitter Leide.
+  [ ] Chapter 1 datalogs.
+
+CHAPTER 2 - NO TURNING BACK
+
+4. Prairie outpost, Keycatrich Trench et tomb
+
+- Termine les quetes principales dans l'ordre et accepte toutes les quetes
+  bleues de Dave, Takka et les chasseurs de la zone.
+- Explore Keycatrich Trench entierement : coffres des tunnels, salles
+  laterales, points brillants et le tombeau au fond. [ ] Royal Arm 1 :
+  Sword of the Wise.
+- Dans les combats de daemons, utilise Warp-Strike, Parry et Link-Strike.
+  [ ] Just Hangin' Around, [ ] Blind Spot, [ ] Noct You Like a Hurricane.
+- Fais la rencontre Magitek Bannerman pendant Chapter 2 si elle apparait,
+  puis lis le datalog du secteur avant de sortir.
+- Au camp, utilise une technique d'un compagnon : [ ] Brother-in-Arms.
+- Termine Chapter 2 : [ ] No Turning Back.
+
+5. Leide quests et Royal Arms
+
+- Dave : Gone Hunting, A Cry for Help, Conceal, Don't Feel, Mineside
+  Mischief Makers et The 12 Hunter-Slaying Herd. Ramasse les dog tags dans
+  les coffres de donjon ou les camps.
+- Sania ouvre ensuite les quetes d'herbes et grenouilles. Conserve les
+  ingredients rares et note la region de chaque grenouille.
+- Explore Balouve Mines depuis le parking, descends les niveaux et ouvre
+  l'armure / les armes de chaque impasse. Le tombeau du fond donne
+  [ ] Royal Arm 2 : Axe of the Conqueror.
+- Accepte les chasses de Hammerhead et Longwythe avant le chapitre suivant.
+
+CHAPTER 3 - THE OPEN WORLD
+
+6. Duscae, Wiz et chocobo
+
+- Termine A Stroll for Two, The Chocobo Sage, Friends of a Feather et les
+  quetes de Wiz. Debloque les chocobos puis loue-les dans chaque station.
+- Fais les courses de Chocobo au Chocobo Post : circuits faciles, intermediaire
+  et expert. [ ] Chocobo Jockey.
+- Cindy : A Better Engine Blade, A Better Engine Blade II, A Better
+  Engine Blade III et les pieces de Regalia.
+- Navyth : accepte chaque quete de peche, livre le poisson demande et equipe
+  les meilleures cannes / leurres. Peche jusqu'au niveau 2 minimum :
+  [ ] Angling Rookie.
+- Sania : attrape les premieres grenouilles et livre les plantes.
+- Prompto : fais les Photo Ops de la route et les photos de camps.
+- Takka : termine les chasses culinaires, rapporte les ingredients et ouvre
+  toutes les recettes obtenues en ramassant un ingredient.
+- A Lestallum, parle a Vyv et accepte ses missions photo. Termine au moins
+  10 quetes bleues pour [ ] Spinning a Yarn III.
+
+7. Dungeons facultatifs de Duscae
+
+- Greyshire Glacial Grotto : ouvre tous les coffres, prends les ingredients
+  de glace et lis les archives du donjon.
+- Crestholm Channels : explore l'entree et les quatre interrupteurs. Termine
+  le boss, prends les accessoires et note la porte scellee pour la Menace
+  d'apres-jeu.
+- Fociaugh Hollow : avance jusqu'au tombeau et recupere
+  [ ] Royal Arm 3 : Swords of the Wanderer.
+- Daurell Caverns : explore les salles, le point de peche et les coffres,
+  puis note la porte Menace.
+- Malmalam Thicket : termine le chemin forestier et recupere
+  [ ] Royal Arm 4 : Scepter of the Pious.
+- Balouve Mines doit deja etre termine ; verifie sa carte dans le menu.
+
+8. Pilgrimage et fenetres Chapter 3
+
+- Accepte Pilgrimage au camp / point de depart de la mission et termine-la
+  avant le voyage vers le Disc of Cauthess. [ ] Pilgrimage.
+- Fais Photo Op: Lakefront quand le marqueur apparait a la station. La photo
+  doit etre validee avant de quitter Chapter 3.
+- Termine les chasses de Duscae, les quetes bleues d'outpost et les premieres
+  quetes de Vyv. [ ] Spinning a Yarn IV si 20 quetes sont atteintes.
+- Avant de quitter, lis les datalogs de Duscae, les notices de chasse, les
+  fiches de chocobo et les archives des dungeons.
+- Termine Chapter 3 : [ ] Open World.
+
+CHAPTER 4 - LIVING LEGEND
+
+9. Disc of Cauthess
+
+- Termine la mission principale et utilise les points de warp. [ ] Just
+  Hangin' Around si ce n'est pas fait.
+- En route, fais les hunts et les quetes bleues encore presentes. Ne transforme
+  pas toutes les ressources elementaires en un seul sort.
+- A l'aire de repos, parle a tous les vendeurs, lis les datalogs et ouvre les
+  coffres avant la prochaine mission.
+- Termine Chapter 4 : [ ] Living Legend.
+
+10. Rock of Ravatogh
+
+- Ouvre la route complete de Rock of Ravatogh, y compris les detours de lave.
+  Termine la mission de montagne, les coffres et le point de peche.
+- Accepte le hunt de Ravatogh et les quetes de Lestallum. Apprends les
+  recettes de feu obtenues par les ingredients de la region.
+- Termine la quete photo / objectif de Vyv disponible a cette etape.
+- Lis les datalogs de Cauthess, de la montagne et du camp.
+
+CHAPTER 5 - DARK CLOUDS
+
+11. Foudre, meteorite et chocobos
+
+- Termine les objectifs du chapitre sans ignorer les sous-zones. Ouvre les
+  coffres des avant-postes et ramasse les ingredients foudre.
+- Fais toutes les quetes bleues de Lestallum, les hunts de Cauthess et les
+  livraisons de Dave encore disponibles.
+- Monte la Survie de Gladiolus en campant avec des objets rares et combats
+  reguliers. Vise niveau 2 : [ ] Survival Rookie.
+- Cuisines d'Ignis : utilise au moins 10 recettes et garde une sauvegarde
+  avant les gros plats. Vise niveau 2 : [ ] Cooking Rookie.
+- Prompto doit prendre des photos a chaque camp et combat ; vise niveau 2 :
+  [ ] Photo Rookie.
+- Termine Chapter 5 : [ ] Dark Clouds.
+
+CHAPTER 6 - A WAY FORWARD
+
+12. Iris et bases imperiales
+
+- Quand Iris rejoint le groupe, fais les tours disponibles, campe au moins
+  une fois et accepte les Photo Ops de lac / route. [ ] Iris window complete.
+- Explore les bases imperiales de Chapter 6, ouvre les coffres et ramasse les
+  Magitek Cores. Ne quitte pas une base avant d'avoir lu son datalog.
+- Termine les quetes bleues de Lestallum, les chasses de Taelpar et les
+  upgrades de Regalia.
+- Termine Chapter 6 : [ ] A Way Forward.
+
+13. Skill checks
+
+- Cuisine : niveau 2 et chaque nouvelle recette. [ ] Cooking Rookie.
+- Peche : niveau 2 et les quetes Navyth. [ ] Angling Rookie.
+- Photo : niveau 2 et les photos de Prompto. [ ] Photo Rookie.
+- Survie : niveau 2 avec les camps et les voyages. [ ] Survival Rookie.
+- Ascension : debloque un premier noeud avec des AP. [ ] New Power.
+
+CHAPTER 7 - PARTY OF THREE
+
+14. Aranea et Vesperpool route
+
+- Aranea accompagne le groupe. Fais les camps, tours et Photo Op: Lakefront /
+  autres scenes avant la fin de la mission. [ ] Aranea window complete.
+- Dans Steyliff Grove, explore toutes les salles du donjon narratif,
+  ramasse les coffres et lis les archives. La porte scellee est reservee a
+  Chapter 15.
+- Les quetes de chasse d'Aranea et les chasses de Vesperpool sont a faire
+  avant de quitter la region.
+- Termine Chapter 7 : [ ] Party of Three.
+
+CHAPTER 8 - SEAWORTHY
+
+15. Cape Caem et Altissia preparation
+
+- A Cape Caem, plante les graines, parle aux habitants, lis les datalogs et
+  ouvre les coffres du jardin / phare.
+- Termine les quetes bleues de Cindy, Navyth, Sania, Dave, Dino, Vyv et
+  Takka restantes dans le monde ouvert.
+- Explore les dungeons normaux encore ouverts : Costlemark Tower, Crestholm
+  Channels et Daurell Caverns. Leur completion sera necessaire pour la cle
+  Menace.
+- Dans les routes, prends toutes les photos de Prompto et les ingredients
+  de recette. Vise 40 quetes bleues : [ ] Spinning a Yarn V.
+- Monte Ascension a 20 noeuds : [ ] Self-Improved.
+- Termine Chapter 8 : [ ] Seaworthy.
+
+CHAPTER 9 - CALLINGS
+
+16. Altissia, Royal Vessel et tours
+
+- Avant de partir, fais une sauvegarde et verifie les quetes ouvertes.
+  L'itineraire principal d'Altissia sera traite sans raconter ses scenes.
+- Explore les rues, les magasins, les ascenseurs et le port. Achete les
+  objets, ecoute les PNJ et prends les datalogs de la ville.
+- Monte a bord du Royal Vessel en mode Manuel, pas en navigation automatique :
+  [ ] Maiden Voyage.
+- Sur le bateau, peche si le spot est disponible, ramasse les tresors et lis
+  les archives.
+- Termine Chapter 9 : [ ] Callings.
+
+CHAPTER 10 - THE HEART OF A KING
+
+17. Mine et compagnie
+
+- Termine le chapitre, ouvre toutes les salles laterales de la mine et
+  utilise chaque point de repos.
+- Si Gladiolus est disponible pour une technique, fais une Link-Strike et
+  une parade avant la fin.
+- Lis les datalogs de train, de mine et de camp avant le deplacement.
+- Termine Chapter 10 : [ ] The Heart of a King.
+
+CHAPTER 11 - IN THE DARK
+
+18. Train et combat
+
+- Sur le train, explore les wagons accessibles, ramasse les objets et lis
+  les dossiers avant de lancer la suite.
+- Fais les Link-Strikes, Parry Link et Cross Chains. Pour Seize the Moment,
+  provoque 10 Cross Chains complets dans des combats faciles.
+- Termine Chapter 11 : [ ] In the Dark.
+
+CHAPTER 12 - END OF DAYS
+
+19. Base glacee et archives
+
+- Explore chaque salle de la base, ouvre les coffres et lis les archives
+  avant la sortie.
+- Vise 50 noeuds d'Ascension : [ ] Self-Mastered.
+- Fais les derniers combats de techniques et invocations de la campagne.
+- Termine Chapter 12 : [ ] End of Days.
+
+CHAPTER 13 - REDEMPTION
+
+20. Datalogs et progression de chapitre
+
+- Lis les dossiers, notes et archives de Chapter 13 au moment ou ils
+  apparaissent. Ne lance pas les portes de fin en ignorant les pieces
+  laterales.
+- Utilise les equipements, soins et sorts fabriques. [ ] Magical Worker,
+  [ ] Black Mage, [ ] The Power of Kings.
+- Avance jusqu'au combat de Cerberus et valide [ ] Tri-Headed Triumph.
+- Continue ensuite jusqu'au combat d'Ifrit en difficulte Normal :
+  [ ] Chosen King.
+- Termine Chapter 13 : [ ] Redemption.
+
+CHAPTER 14 - HOMECOMING
+
+21. Insomnia
+
+- Dans Insomnia, explore les avenues, les checkpoints et les embranchements.
+  Ouvre les coffres, lis les datalogs et recupere les Royal Arms des sections
+  accessibles.
+- Termine les quetes du Kingsglaive Base Camp : Crown City Without a King,
+  A Glaive out of Time et Relics of the Empire. Elles ouvrent le contenu
+  Royal et des informations supplementaires sans spoiler.
+- Termine les boss de chapitre sur Normal. [ ] Homecoming.
+- Laisse la sequence de fin se conclure sans quitter la mission : le succes
+  narratif [ ] Cleaving a Path tombe automatiquement. Il est immanquable.
+- Conserve une sauvegarde de fin et utilise Chapter Select / Chapter 15 pour
+  revenir a l'open world.
+
+ROYAL ARMS 13/13
+
+ARMES DE CAMPAGNE
+
+[ ] Sword of the Wise - Keycatrich Trench.
+[ ] Axe of the Conqueror - Balouve Mines.
+[ ] Swords of the Wanderer - Fociaugh Hollow.
+[ ] Blade of the Mystic - mission du chapitre 2 / tombeau du titan.
+[ ] Katana of the Warrior - tombeau du chapitre 10.
+[ ] Trident of the Oracle - tombeau de Chapter 9.
+[ ] Sword of the Father - Chapter 13.
+
+ARMES OPTIONNELLES
+
+[ ] Bow of the Clever - tomb of the Myrlwood.
+[ ] Sword of the Tall - Tomb of the Tall, Fallgrove.
+[ ] Shield of the Just - Tomb of the Just, passage au nord-est de Vesperpool.
+[ ] Mace of the Fierce - Rock of Ravatogh.
+[ ] Scepter of the Pious - Malmalam Thicket.
+[ ] Star of the Rogue - Costlemark Tower.
+- Les six armes optionnelles restent recuperables en Chapter 15. Equipe-les
+  au moins une fois et utilise l'Armiger quand le compteur AP le permet.
+- [ ] Faithful Heir apres les 13 armes.
+
+REGALIA, CHOCOBOS ET MINI-JEUX
+
+22. Regalia Type-D et Type-F
+
+- Termine les quetes de Cindy pour le chassis tout-terrain. Participe aux
+  trois courses Regalia Type-D et finis chacune sous la limite :
+  [ ] Speed Daemon.
+- Recupere les pieces imperiales / engine upgrades indiquees par Cindy.
+- Apres le nettoyage des bases, prends les pieces de vol et installe Type-F.
+  Fais decoller le Regalia depuis une piste libre : [ ] Regalia Pilot.
+- Le Type-F est fragile au retour. Fais une sauvegarde avant chaque vol et
+  atterris sur une route large.
+
+23. Chocobos, Justice Monsters Five et Totomostro
+
+- Monte la couleur et les statistiques des chocobos par courses et location.
+  Une course gagne suffit pour Chocobo Jockey ; le niveau de Comrades est
+  distinct.
+- Joue a Justice Monsters Five au mini-jeu de Lestallum / Altissia et termine
+  une partie. [ ] High Five for Justice!.
+- Dans Altissia, joue Totomostro quand le tournoi est disponible. Les tickets,
+  armes et recompenses se nettoient apres la campagne.
+
+SKILLS ET COMPETENCES
+
+24. Peche niveau 10
+
+- Utilise le meilleur equipement de peche de Noctis et alterne les spots :
+  Galdin Quay, Neeglyss Pond, Vesperpool, the Vesperpool Islet, Saxham
+  Reservoir, Crestholm, Myrlwood, Secret Fen et les spots du Royal Vessel.
+- Termine les quetes de Navyth au fur et a mesure. Les poissons rares peuvent
+  casser la ligne ; change de leurre et vise les touches jaunes.
+- Gagne assez d'EXP de skill pour [ ] Angling Expert.
+
+25. Survie niveau 10
+
+- Voyage a pied entre les camps, fais les donjons, utilise les zones de
+  combat et campe au lieu de dormir a l'hotel. Le rang monte sur la distance
+  parcourue au sol, pas sur la voiture.
+- Equipe des armes et accessoires defensifs sur Gladiolus. [ ] Survival Expert.
+
+26. Cuisine niveau 10
+
+- Apprends chaque recette en ramassant l'ingredient approprie, en lisant les
+  recettes d'Ignis, en mangeant au restaurant et en terminant les quetes de
+  Takka. Les recettes favorites donnent plus de bonus mais ne sont pas
+  obligatoires pour le succes.
+- Cuis chaque fois que l'icone de recette apparait. [ ] Cooking Expert.
+
+27. Photos niveau 10
+
+- Laisse Prompto prendre une photo a chaque camp, chaque combat et chaque
+  Photo Op. Termine les quetes photo de Vyv et les scenes de compagnon.
+- Gentiana apparait aleatoirement sur une photo a partir de Chapter 5. Ne
+  supprime pas les photos bonus avant le developpement :
+  [ ] Immortal Photobomb.
+- Continue jusqu'a [ ] Photo Expert.
+
+28. Ascension et combat
+
+- Utilise les AP de quetes et de camps dans Exploration, Combat, Techniques,
+  Cooperation, Stats et Recovery. [ ] New Power, [ ] Self-Improved,
+  [ ] Self-Mastered.
+- Pour Cross Chains, frappe un ennemi avec un compagnon, enchaine sans
+  interruption et recommence dans des groupes faibles. [ ] Seize the Moment.
+- Pour les autres actions : [ ] Divine Intervention avec une invocation,
+  [ ] The Power Within avec Armiger Unleashed, [ ] The Power of Kings avec
+  Armiger, [ ] Black Mage avec un sort Elemancy, [ ] Magical Worker en
+  fabriquant un sort.
+
+QUESTES BLEUES ET 80/80
+
+29. Route des familles de quetes
+
+- Dave : Dog Tags et rescues de Leide, Duscae et Cleigne.
+- Cindy : Broken-Down, parts de Regalia, Engine Blade et Type-D / Type-F.
+- Takka : A Meat Most Magnificent, A Fowl Mission, A Spicy Challenge,
+  cooking hunts et ingredients.
+- Dino : gemstones de Galdin, Lestallum et Altissia.
+- Sania : frogs, ingredients, poissons et remedes.
+- Navyth : all fishing quests.
+- Wiz : all chocobo quests, races et chocobo rank.
+- Vyv : photos de points de vue, routes, ruines et villes.
+- Furloch Farms : deliveries, herbs et ingredients.
+- Prissock : traps et creatures.
+- Culless Munitions : hunts et upgrades.
+- Galdin / Lestallum / Meldacio : tours, rescues, training et deliveries.
+- A Second Sea God : quete du Royal Vessel.
+- Adventurer from Another World : collab FFXIV, a faire quand le marqueur
+  bleu apparait a Lestallum.
+- Complete all blue quests until the log shows 80 or more :
+  [ ] Spinning a Yarn I, [ ] II, [ ] III, [ ] IV, [ ] V,
+  [ ] Weaving a Tapestry.
+
+30. Hunts et grosses cibles
+
+- Accepte chaque hunt des diners : Hammerhead, Longwythe, Galdin, Alstor,
+  Wiz, Cauthess, Taelpar, Old Lestallum, Ravatogh, Lestallum, Meldacio et
+  Altissia.
+- Les recompenses d'hunts fournissent ingredients, AP et accessoires. Ne
+  vends pas le loot special avant les recettes de Takka.
+- Adamantoise : lance la chasse apres la campagne, cuisine un plat de bonus
+  critique, equipe les armes fortes, utilise les points de warp et vise la
+  tete. [ ] Tortoise Toppler.
+- Melusine : accepte la chasse de nuit a Meldacio, equipe les protections
+  contre les statuts et detruis les appendices avant le corps. [ ] Love Turned
+  Tragic.
+- Omega : ouvre le Royal Pack / Royal Menagerie, prepare les armes et les
+  soins, puis termine le combat dans le secteur final. [ ] Through the
+  Dimensional Rift.
+
+DONJONS NORMAUX ET COFFRES
+
+31. Checklist des donjons
+
+[ ] Keycatrich Trench : carte, coffre, Sword of the Wise.
+[ ] Greyshire Glacial Grotto : carte, coffres, datalogs et reward.
+[ ] Balouve Mines : tous les niveaux, coffres, Axe of the Conqueror.
+[ ] Fociaugh Hollow : carte, coffres, Swords of the Wanderer.
+[ ] Crestholm Channels : quatre interrupteurs, coffres, porte Menace.
+[ ] Daurell Caverns : salles, coffres, peche, porte Menace.
+[ ] Malmalam Thicket : salles, coffres, Scepter of the Pious.
+[ ] Steyliff Grove : route principale, coffres, datalogs, porte Menace.
+[ ] Costlemark Tower : puzzle des cubes, coffres et porte Menace.
+[ ] Rock of Ravatogh : coffres, ingredients, Mace of the Fierce.
+[ ] Myrlwood : chemin, coffres, Bow of the Clever.
+[ ] Tomb of the Tall : coffres, Sword of the Tall.
+[ ] Tomb of the Just : coffres, Shield of the Just.
+[ ] Tomb of the Fierce : coffres, Mace of the Fierce si non recuperee.
+[ ] Tomb of the Pious : coffres, Scepter of the Pious si non recupere.
+[ ] Pitioss Ruins : parcours complet, objets et sortie.
+- Toute porte de coffre est inspectee avant l'ascenseur. Les rewards de
+  donjon peuvent etre des accessoires, des armes, des ingredients ou des
+  objets de quete ; garde au moins un exemplaire.
+
+32. Pitioss Ruins
+
+- Necessite Regalia Type-F. Atterris a l'aerodrome nocturne, sauvegarde et
+  entre avec des consommables.
+- Pitioss est une suite de salles a mecanismes et plateformes. La progression
+  est lineaire mais les passages sont faciles a rater : active chaque
+  interrupteur, ramasse chaque coffre et note la salle quand le jeu change
+  d'angle.
+- Il n'y a pas de sauvegarde classique a l'interieur. Fais une pause dans les
+  zones sures et ne quitte pas avant d'avoir atteint la sortie.
+
+MENACE BENEATH LUCIS - 8 DONJONS
+
+33. Clef et ordre recommande
+
+- Termine la campagne et tous les donjons normaux sauf Pitioss. Parle a Ezma
+  au Meldacio Hunter HQ pour obtenir Sealbreaker's Key et les huit quetes.
+- Ordre recommande :
+  [ ] A Menace Sleeps in Keycatrich Ruins.
+  [ ] A Menace Sleeps in Greyshire Glacial Grotto.
+  [ ] A Menace Sleeps in Fociaugh Hollow.
+  [ ] A Menace Sleeps in Daurell Caverns.
+  [ ] A Menace Sleeps in Steyliff Grove.
+  [ ] A Menace Sleeps in Balouve Mines.
+  [ ] A Menace Sleeps in Crestholm Channels.
+  [ ] A Menace Sleeps in Costlemark Tower.
+- Dans chaque Menace, les salles se ferment par embranchements. Fais un
+  marquage physique des portes prises, ramasse les coffres d'accessoires et
+  garde les objets de soin pour le boss. Costlemark est la plus exigeante.
+- Termine les huit quetes et confirme les coffres : Hyper Magnum, Wizard
+  Shield, Dominator, Anklet, bracelets, armes et accessoires uniques.
+
+DATALOGS ET PURSUIT OF KNOWLEDGE
+
+34. Methode sans trou
+
+- Le jeu contient 90 datalogs ; 76 suffisent pour Pursuit of Knowledge, mais
+  24 sont lies a des fenetres de chapitre. La route vise les 90.
+- A chaque chapitre, lis les categories suivantes :
+  [ ] personnage / groupe ;
+  [ ] lieu / region ;
+  [ ] ennemi / daemon ;
+  [ ] histoire / archive ;
+  [ ] arme / magie / systeme ;
+  [ ] quete / chasse / donjon ;
+  [ ] carte / station / outpost.
+- Chapitre 1 : Hammerhead, Galdin, Leide, Regalia, premiers camps.
+- Chapitre 2 : Keycatrich, Royal Arms, route de Duscae, tombes.
+- Chapitre 3 : Duscae, Wiz, chocobos, Lestallum, dungeons.
+- Chapitres 4-5 : Disc of Cauthess, Rock of Ravatogh, tempete, bases.
+- Chapitres 6-8 : Iris, Aranea, Steyliff, Cape Caem, Royal Vessel.
+- Chapitres 9-12 : Altissia, mine, train, bases et archives de progression.
+- Chapitres 13-14 : Insomnia, datalogs de fin, archives des DLC Royal.
+- Apres chaque chapitre, lis le menu Datalog et sauvegarde. [ ] 90/90 vise ;
+  [ ] Pursuit of Knowledge a 76/90 minimum.
 
 EPISODE GLADIOLUS
 
-- Fais-le apres avoir compris les parades du jeu principal. Termine l'episode
-  en Normal, puis repasse les combats d'entrainement et les scores.
-- Utilise les contres et les charges dans les groupes de soldats. Fais les
-  objectifs de score avant de quitter l'episode.
-- Termine les epreuves et la route principale pour les succes Gladiolus : ne
-  te contente pas d'une victoire facile si le succes demande Normal.
+35. Scenario et score
 
-EPISODE PROMPTO
-
-- Termine l'episode en Normal pour Unbreakable Bonds. Utilise les armes a feu,
-  les tirs de precision et le camouflage dans les premiers combats.
-- Fais 30 crackshots, trois stealth-kills et toutes les activites de conduite
-  et de photographie de l'episode.
-- Rejoue les stages de score et les combats de bosses quand la liste des
-  objectifs l'indique. La sauvegarde du jeu principal n'est pas suffisante.
+- Lance l'episode en Normal. Apprends les contres, coups charges, combos et
+  techniques de Cor. Fais une sauvegarde au debut.
+- Pour Master and Pupil, execute cinq Link-Strikes avec Cor dans le scenario.
+- Detruis les 19 colonnes dans une seule partie de Story Mode. Fais la route
+  laterale de chaque arena avant la porte suivante :
+  [ ] Column Colossus.
+- Ramasse les 48 items brillants dans une seule partie. Le compteur se remet
+  a zero si tu relances l'episode :
+  [ ] Picker-Upper.
+- Termine le mode histoire Normal : [ ] Shield of the Chosen King.
+- Lance Score Attack. Conserve les multiplicateurs, detruis les groupes
+  rapidement et depense les soins seulement sur les vagues longues.
+  [ ] No Pain, No Gain - 500 000 points.
+  [ ] A New Blademaster - 1 000 000 points.
+- Termine Final Trial apres avoir appris le rythme des patterns :
+  [ ] Transcendence.
 
 EPISODE IGNIS
 
-- Termine l'episode en Normal, puis fais les parcours de combat et les
-  objectifs de vitesse. Utilise chaque element et les contre-attaques.
-- Les succes caches d'Ignis se valident par les combats de route ; lis la liste
-  du menu avant la derniere sequence et garde une sauvegarde.
+36. Scenario, Extra Verse et documents
+
+- Lance l'episode en Normal. Utilise les trois dagues elementaires, les
+  contres et les soins ; fais une sauvegarde avant la fin du scenario.
+- Tue 10 ennemis avec les actions d'Ignis : [ ] Hidden Power.
+- Termine 10 ennemis avec des contre-attaques : [ ] Swift Retaliation.
+- Utilise Total Clarity en visant le dernier coup sur 100 ennemis :
+  [ ] Master of the Elements.
+- Ramasse tous les documents d'Altissia dans les rues, les postes, les
+  ascenseurs, les balcons et les zones de combat : [ ] Altissian Ambassador.
+- Termine l'histoire Normal : [ ] A Noble Sacrifice.
+- Relance l'Extra Verse et termine cette route alternative :
+  [ ] Another Path.
+- Termine Friendly Match contre Noctis avec une note A+ :
+  [ ] A New Protagonist.
+
+EPISODE PROMPTO
+
+37. Scenario, photos et time trials
+
+- Lance l'episode en Normal. Utilise les armes a feu, le stealth et les
+  Crackshots. Fais une sauvegarde au debut.
+- Stealth-kill trois ennemis sans declencher la zone :
+  [ ] Unseen Assassin.
+- Termine 30 ennemis avec un Crackshot qui porte le coup final :
+  [ ] Sharp Shooting.
+- Utilise Selfie Shot 10 fois pendant l'episode :
+  [ ] Field Photographer.
+- Bats Kaiser Behemoth dans la section de chasse :
+  [ ] An Emperor Deposed.
+- Termine l'histoire Normal : [ ] Unbreakable Bonds.
+- Termine les Time Trials avec trois etoiles sur chaque course :
+  [ ] Dogged Rider.
+- Termine Intensive Training et bats le Dragoonslayer :
+  [ ] The Dragoonslayer.
 
 EPISODE ARDYN
 
-- Joue Episode Ardyn apres le jeu principal et les trois episodes des compagnons
-  pour garder une route lisible. Termine-le en Normal.
-- Fais les objectifs annexes, les combats de ville et le score final avant de
-  quitter l'episode. Le succes DLC est separe de l'histoire principale.
+38. Scenario, rangs et Descension
 
-COMRADES - AVERTISSEMENT ET ROUTE
+- Lance l'episode en Normal. Conquiers chaque secteur d'Insomnia, lis les
+  documents et utilise les pouvoirs d'Ardyn sur les groupes.
+- Daemonify 100 ennemis : [ ] King of the Daemons.
+- Utilise Royal Retribution 10 fois : [ ] Fallen Savior.
+- Utilise les techniques d'Ifrit 10 fois : [ ] The Pyreburner's Keeper.
+- Conquiers tous les secteurs d'Insomnia : [ ] Insomnia Insurgence.
+- Debloque tous les noeuds de Descension : [ ] Mastering the Darkness.
+- Termine l'histoire Normal : [ ] The Nightmare Ends.
+- Pour A+ : fais un run propre avec au moins sept A+, les deux dernieres
+  notes A si necessaire, aucun Down hors tutoriel et moins de 50 minutes.
+  [ ] Return of the Founder King.
 
-- Verifie d'abord que la liste Steam de Windows Edition affiche bien les succes
-  Comrades et que les missions se lancent avec le service actuel. N'engage pas
-  un marathon de farm avant ce controle.
-- Cree ton avatar, termine le tutoriel, alimente les installations de Lestallum
-  et debloque les quatre personnages jouables.
-- Fais les missions de progression dans l'ordre des niveaux. Pour chaque
-  personnage, termine la quete de Comrades, les objectifs de combat et les
-  recompenses de zone.
-- Monte une arme de niveau 30, fais les contre-attaques, les crackshots,
-  Total Clarity et les trials. Utilise les missions faciles pour les compteurs.
-- Termine la quete Comrades avec les quatre personnages pour Beacons of Hope.
-  Les missions avec matchmaking peuvent etre remplacees par une session solo
-  seulement si l'edition Steam le permet ; sinon marque l'element comme
-  dependance en ligne a verifier.
-- Les apparitions de Kenny et certains scores sont aleatoires. Sauvegarde
-  entre les missions, change de zone et ne supprime pas une sauvegarde qui a
-  deja fait progresser le compteur.
+COMRADES - 10 SUCCES STEAM
 
-CHECKLIST DES 97 SUCCES STEAM
+39. Preparation
 
-PROGRESSION ET SYSTEMES
+- Lance Comrades depuis FFXV Windows Edition. Le mode peut fonctionner en
+  solo avec des compagnons IA ; le cross-match historique n'est pas requis
+  pour suivre la route.
+- Termine les missions qui alimentent Lestallum, les Outposts et les
+  installations. Ramasse les ressources, augmente le niveau de puissance et
+  garde les armes de niveau 30 ou plus.
+- Les missions de Boss et les quetes de Royal Sigils se debloquent en
+  alimentant les installations. Fais une sauvegarde apres chaque nouveau
+  pouvoir obtenu.
 
-[ ] Insomnia's Waking Nightmare — prologue.
-[ ] Blind Spot — premier blindside link.
-[ ] Just Hangin' Around — premiere suspension.
-[ ] Brother-in-Arms — premiere commande d'allie.
-[ ] New Power — premiere capacite.
-[ ] Quadruple Threat — quatre slots d'armes.
-[ ] Learner's Permit — conduire la Regalia.
-[ ] Noct You Like a Hurricane — premier link-strike apres parade.
-[ ] Photo Rookie — premier niveau de photo.
-[ ] Survival Rookie — premier niveau de survie.
-[ ] My First Hunt — premiere chasse.
-[ ] Spinning a Yarn I — 1 quete.
-[ ] Departure — chapitre 1.
-[ ] Black Mage — premiere Magie.
-[ ] Magical Worker — premier sort fabrique.
-[ ] No Turning Back — chapitre 2.
-[ ] Spinning a Yarn II — 5 quetes.
-[ ] Cooking Rookie — premier niveau de cuisine.
-[ ] Self-Improved — 20 noeuds.
-[ ] Chocobo Jockey — monter un chocobo.
-[ ] Spinning a Yarn III — 10 quetes.
-[ ] The Open World — chapitre 3.
-[ ] The Power of Kings — premier Armiger.
-[ ] Living Legend — chapitre 4.
-[ ] Angling Rookie — premier niveau de peche.
-[ ] Dark Clouds — chapitre 5.
-[ ] A Way Forward — chapitre 6.
-[ ] Spinning a Yarn IV — 20 quetes.
-[ ] Party of Three — chapitre 7.
-[ ] High Five for Justice! — jouer a Justice Monsters Five.
-[ ] Immortal Photobomb — photo speciale.
-[ ] Seaworthy — acceder au bateau.
-[ ] Callings — chapitre 8.
-[ ] The Heart of a King — chapitre 9.
-[ ] In the Dark — chapitre 10.
-[ ] Divine Intervention — invoquer un des Six.
-[ ] End of Days — chapitre 11.
-[ ] Self-Mastered — 50 noeuds.
-[ ] Redemption — chapitre 12.
-[ ] Tri-Headed Triumph — chapitre 13.
-[ ] Homecoming — chapitre 14.
-[ ] Spinning a Yarn V — 40 quetes.
-[ ] Chosen King — histoire terminee.
-[ ] Photo Expert — photo maximum.
-[ ] Weaving a Tapestry — 80 quetes.
+40. Checklist Comrades
 
-EXPLORATION, COMBAT ET ROYAL
+[ ] Beacon of Hope - alimenter les installations de Lestallum.
+[ ] Kingly Blessing - recevoir un Royal Sigil.
+[ ] One with Your Blade - fabriquer une arme de niveau 30 ou plus.
+[ ] Royal Retinue Rumble - battre les trois membres de la garde royale.
+[ ] Let There Be Light - monter une Outpost a 999 999 kW.
+[ ] Come Back, Kenny! - rencontrer le proprietaire du Crow's Nest Diner.
+[ ] Blessed by All - collecter les 13 Royal Sigils.
+[ ] Beacons of Hope - terminer la quete avec les quatre membres de la garde.
+[ ] Chocobreeder - monter un Chocobo au niveau 99.
+[ ] Comrades final verification - Steam doit confirmer les neuf cases
+    precedentes et l'ensemble du mode.
 
-[ ] Faithful Heir — objectif Royal.
-[ ] Maiden Voyage — bateau Royal.
-[ ] Regalia Pilot — conduite Royal.
-[ ] Hidden Power — 10 ennemis aux spelldaggers.
-[ ] Shield of the Chosen King — epreuves Normal.
-[ ] Seize the Moment — 10 full-hit cross chains.
-[ ] Master and Pupil — 5 link-strikes avec Cor.
-[ ] A Noble Sacrifice — combat Royal.
-[ ] Tortoise Toppler — boss tortue.
-[ ] Unseen Assassin — 3 stealth-kills.
-[ ] Love Turned Tragic — objectif Royal.
-[ ] Narwhal Watching — activite de peche.
-[ ] Beacon of Hope — toutes les installations de Lestallum.
-[ ] The Power Within — objectif Royal.
-[ ] The Pyreburner's Keeper — objectif de zone.
-[ ] Kingly Blessing — Royal Sigil.
-[ ] Another Path — route Royal.
-[ ] Survival Expert — survie maximum.
-[ ] Cooking Expert — cuisine maximum.
-[ ] Fallen Savior — objectif de boss.
-[ ] The Nightmare Ends — objectif de donjon.
-[ ] Angling Expert — peche maximum.
-[ ] One with Your Blade — arme niveau 30.
-[ ] Insomnia Insurgence — zone Royal.
-[ ] Speed Daemon — trois cross-country excellent.
-[ ] Through the Dimensional Rift — donjon optionnel.
-[ ] Swift Retaliation — 10 contres.
-[ ] King of the Daemons — boss optionnel.
-[ ] Mastering the Darkness — objectifs de zone.
-[ ] Come Back, Kenny! — proprietaire du Crow's Nest.
-[ ] Transcendence — objectif optionnel.
-[ ] The Dragoonslayer — objectif de combat.
-[ ] No Pain, No Gain — 500 000 Score Attack.
-[ ] Royal Retinue Rumble — epreuve Royal.
-[ ] Sharp Shooting — 30 crackshots.
-[ ] Cleaving a Path — epreuve Royal.
-[ ] Field Photographer — 10 Selfie Shot en combat.
-[ ] An Emperor Deposed — kaiser behemoth.
-[ ] Column Colossus — toutes les colonnes.
-[ ] A New Protagonist — objectif de zone.
-[ ] Let There Be Light — objectif Royal.
-[ ] Altissian Ambassador — tous les documents.
-[ ] Pursuit of Knowledge — 80 % du Datalog.
-[ ] Blessed by All — tous les Royal Sigils.
-[ ] Picker-Upper — tous les objets.
-[ ] Chocobreeder — chocobo niveau 99.
-[ ] A New Blademaster — 1 000 000 Score Attack.
-[ ] Master of the Elements — 100 Total Clarity.
-[ ] Dogged Rider — trois Time Trials au meilleur rang.
-[ ] Return of the Founder King — final Royal.
+CHECKLIST FINALE - 97 SUCCES STEAM
 
-EPISODES ET COMRADES
-
-[ ] Unbreakable Bonds — Episode Prompto en Normal.
-[ ] Beacons of Hope — Comrades avec les quatre personnages.
-[ ] Les succes de Gladiolus — terminer l'episode et ses epreuves.
-[ ] Les succes de Prompto — terminer l'episode, tirs et objectifs.
-[ ] Les succes d'Ignis — terminer l'episode et les combats.
-[ ] Les succes d'Ardyn — terminer l'episode et ses objectifs.
-[ ] Les objectifs de score, de conduite, de combat et de Comrades affiches
-    dans la liste Steam doivent tous etre coches, soit 97/97.
+[ ] Insomnia's Waking Nightmare
+[ ] Departure
+[ ] No Turning Back
+ [ ] The Open World
+[ ] Living Legend
+[ ] Dark Clouds
+[ ] A Way Forward
+[ ] Party of Three
+[ ] Seaworthy
+[ ] Callings
+[ ] The Heart of a King
+[ ] In the Dark
+[ ] End of Days
+[ ] Redemption
+[ ] Tri-Headed Triumph
+[ ] Chosen King
+[ ] Homecoming
+[ ] Cleaving a Path
+[ ] My First Hunt
+[ ] Spinning a Yarn I
+[ ] Spinning a Yarn II
+[ ] Spinning a Yarn III
+[ ] Spinning a Yarn IV
+[ ] Spinning a Yarn V
+[ ] Weaving a Tapestry
+[ ] High Five for Justice!
+[ ] Speed Daemon
+[ ] Narhwal Watching
+[ ] Tortoise Toppler
+[ ] Love Turned Tragic
+[ ] Through the Dimensional Rift
+[ ] Angling Rookie
+[ ] Angling Expert
+[ ] Survival Rookie
+[ ] Survival Expert
+[ ] Cooking Rookie
+[ ] Cooking Expert
+[ ] Photo Rookie
+[ ] Photo Expert
+[ ] New Power
+[ ] Self-Improved
+[ ] Self-Mastered
+[ ] Quadruple Threat
+[ ] Magical Worker
+[ ] Black Mage
+[ ] Just Hangin' Around
+[ ] Brother-in-Arms
+[ ] Blind Spot
+[ ] Noct You Like a Hurricane
+[ ] Divine Intervention
+[ ] The Power of Kings
+[ ] The Power Within
+[ ] Seize the Moment
+[ ] Learner's Permit
+[ ] Regalia Pilot
+[ ] Chocobo Jockey
+[ ] Immortal Photobomb
+[ ] Faithful Heir
+[ ] Maiden Voyage
+[ ] Pursuit of Knowledge
+[ ] Shield of the Chosen King
+[ ] Master and Pupil
+[ ] No Pain, No Gain
+[ ] A New Blademaster
+[ ] Column Colossus
+[ ] Picker-Upper
+[ ] Transcendence
+[ ] A Noble Sacrifice
+[ ] Another Path
+[ ] Hidden Power
+[ ] Swift Retaliation
+[ ] Master of the Elements
+[ ] Altissian Ambassador
+[ ] A New Protagonist
+[ ] Unbreakable Bonds
+[ ] Unseen Assassin
+[ ] Sharp Shooting
+[ ] Field Photographer
+[ ] An Emperor Deposed
+[ ] Dogged Rider
+[ ] The Dragoonslayer
+[ ] The Nightmare Ends
+[ ] King of the Daemons
+[ ] Fallen Savior
+[ ] The Pyreburner's Keeper
+[ ] Insomnia Insurgence
+[ ] Mastering the Darkness
+[ ] Return of the Founder King
+[ ] Beacon of Hope
+[ ] Kingly Blessing
+[ ] One with Your Blade
+[ ] Royal Retinue Rumble
+[ ] Let There Be Light
+[ ] Come Back, Kenny!
+[ ] Blessed by All
+[ ] Beacons of Hope
+[ ] Chocobreeder
 
 VERIFICATION FINALE
 
-- Steam affiche 97/97.
-- Le jeu principal contient 80 quetes, tous les objets, documents, sigils,
-  datalog, activites et boss Royal.
-- Les quatre episodes sont termines dans la difficulte exigee.
-- Comrades est valide uniquement apres verification du service actuel : tout
-  objectif qui demande un acces reseau reste marque comme dependance externe.
-- Le parcours reste sans spoiler et ne donne que des reperes de systemes,
-  chapitres, quetes, scores et zones.
+[ ] Steam affiche 97/97.
+[ ] Les chapitres 0 a 14 et la sauvegarde Chapter 15 sont valides.
+[ ] 80 quetes bleues, les hunts, les Royal Arms et les datalogs sont coches.
+[ ] Les 13 Royal Arms, Type-D, Type-F, chocobo et 3 courses sont confirmes.
+[ ] Les niveaux 10 de peche, survie, cuisine et photo sont confirmes.
+[ ] Les 8 Menace Dungeons, Pitioss, Adamantoise, Melusine et Omega sont finis.
+[ ] Les quatre episodes, Ardyn et leurs objectifs de score / collecte sont
+    valides.
+[ ] Les neuf succes Comrades et le niveau de verification du mode sont
+    confirmes sur Steam.
+[ ] La fiche n'utilise aucun spoiler narratif pour expliquer la route.
+
+SOURCES DE CONTROLE
+
+- Page Steam : 97 succes et contenu Windows Edition :
+  https://store.steampowered.com/app/637650/FINAL_FANTASY_XV_WINDOWS_EDITION/
+- Liste detaillee des 97 conditions :
+  https://gamefaqs.gamespot.com/pc/217648-final-fantasy-xv-windows-edition/faqs/78363/achievements
+- Objets et fenetres manquables :
+  https://gamefaqs.gamespot.com/pc/217648-final-fantasy-xv-windows-edition/faqs/78363/missable-item-walkthrough
+- Les 13 Royal Arms :
+  https://www.powerpyx.com/final-fantasy-xv-all-royal-arms-locations-guide/
+- Cle Sealbreaker et les 8 Menace Dungeons :
+  https://www.gamerguides.com/final-fantasy-xv/guide/walkthrough/chapter-15-end-of-the-road/menace-dungeons
+- Contenu Comrades integre et fin du cross-match historique :
+  https://blog.jp.square-enix.com/ffxvuniverse/information/category/game/202004news.php
+
+FIN DE LA FICHE - BONNE ROUTE
