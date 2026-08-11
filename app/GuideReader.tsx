@@ -66,6 +66,7 @@ const parseGuide = (text: string): GuideBlock[] => {
   const lines = text.replace(/\r\n/g, "\n").split("\n");
   let paragraph: string[] = [];
   let checkIndex = 0;
+  let finalChecklistMode = false;
 
   const flushParagraph = () => {
     if (paragraph.length === 0) {
@@ -102,8 +103,8 @@ const parseGuide = (text: string): GuideBlock[] => {
       continue;
     }
 
-    const checklist = line.match(/^\[\s*\]\s+(.+)$/);
-    if (checklist) {
+    const checklist = line.match(/^(?:[-*]\s*)?\[\s*\]\s+(.+)$/);
+    if (checklist && finalChecklistMode) {
       flushParagraph();
       blocks.push({
         id: makeBlockId(checklist[1], blocks.length),
@@ -132,6 +133,14 @@ const parseGuide = (text: string): GuideBlock[] => {
 
     if (heading && line.length <= 120) {
       flushParagraph();
+      if (/(?:checklist|liste complete)/i.test(line)) {
+        finalChecklistMode = true;
+      } else if (
+        finalChecklistMode &&
+        /^(?:verification|sources|fin du guide)\b/i.test(line)
+      ) {
+        finalChecklistMode = false;
+      }
       blocks.push({
         id: makeBlockId(line, blocks.length),
         kind: numberedHeading ? "subheading" : "heading",
