@@ -1,133 +1,1101 @@
 RESIDENT EVIL 2
+EDITION PC
+Succes Steam : 44
 GUIDE CHRONOLOGIQUE 100 % STEAM - SANS SPOILER
 
-Version de travail : 10 aout 2026
+Version de travail : 11 aout 2026
+AppID Steam : 883710
 
-Ce parcours couvre les 44 succes Steam de l'AppID 883710 : routes Leon et
-Claire, scenarios A et B, fichiers, Mr. Raccoon, armes, enigmes, rangs,
-Hardcore et modes bonus. Les costumes et armes Deluxe n'ajoutent pas de
-compteur Steam ; Resistance est un produit distinct.
+Cette fiche est la route complete de Resident Evil 2 Remake sur PC. Elle
+couvre les quatre scenarios Leon A, Claire A, Leon B et Claire B, les 58
+fichiers, les 15 Mr. Raccoon de la campagne, les 10 Mr. Raccoon de Ghost
+Survivors, les armes, les six poches, les coffres, les casiers, les films,
+les rangs S et S+, les runs sans soin, sans coffre et sous 14 000 pas, le
+4th Survivor, Tofu et No Way Out.
 
-OBJECTIF
+Le guide reste sans spoiler narratif : il donne les noms de lieux, d'objets,
+de modes, de combats et de succes uniquement quand ils servent a avancer ou
+a verifier une condition. Il ne raconte pas les revelations, les identites,
+les fins ni les scenes importantes.
 
-[ ] 44/44 succes Steam.
-[ ] Leon A, Claire A, puis un scenario B avec la vraie progression.
-[ ] Fichiers, Mr. Raccoon, coffres, casiers, statues et upgrades.
-[ ] S et S+ en Standard/Hardcore, Frugalist, Minimalist et No Way Out.
-[ ] 4th Survivor, Tofu et modes bonus disponibles.
+OBJECTIF FINAL
+
+- 44/44 succes Steam.
+- 58/58 fichiers et Lore Explorer.
+- 15/15 Mr. Raccoon de la campagne et Complete Vermin Extermination.
+- 10/10 Mr. Raccoon de Ghost Survivors et Got 'Em.
+- Toutes les armes de Leon, Claire et des scenarios B.
+- Les six poches d'inventaire et tous les coffres, casiers et serrures.
+- Les deux rangs S, les deux campagnes Hardcore et les deux routes S+.
+- Frugalist, Minimalist, A Small Carbon Footprint, 4th Survivor et No Way Out.
+
+COMMENT LIRE LA FICHE
+
+- A = premiere partie du personnage, lancee avec Nouvelle partie.
+- B = deuxieme partie du personnage, lancee avec Nouvelle partie (2e run).
+- Une ligne ROUTE indique la progression obligatoire.
+- Une ligne COLLECTIBLE indique un objet de collection ou une recompense
+  qui doit etre ramassee avant de quitter la zone.
+- Une ligne RATABLE signale une fenetre qui se ferme. Les compteurs de
+  fichiers et de Mr. Raccoon sont enregistres immediatement dans les Records,
+  meme si tu meurs ensuite, mais l'objet reste a refaire si tu veux nettoyer
+  la carte ou le fichier de sauvegarde.
+- Quand une porte n'est plus utile, examine la cle : le jeu lui ajoute une
+  coche et tu peux la jeter. Ne jette jamais une cle sans cette coche.
+- Une salle bleue est vide pour la partie en cours. Une salle rouge contient
+  encore un objet, un coffre, une serrure, un puzzle ou un objectif.
+- Les codes des coffres et casiers sont fixes. Les deux coffres portables sont
+  aleatoires pour chaque partie : la fiche explique la methode, pas un faux
+  code universel.
 
 GARDE-FOUS ABSOLUS
 
-- Premier parcours conseille : Leon A en Standard avec exploration et notes.
-  Garde les rubans et ne cherche pas encore le rang S+.
-- Fais Claire A puis le scenario B avec le personnage oppose. Les objets,
-  fichiers et Mr. Raccoon se suivent par profil, mais certains fichiers sont
-  propres a une route : coche-les par scenario.
-- Avant chaque point de non-retour d'une zone, verifie la carte : toutes les
-  salles rouges, casiers, coffres et Mr. Raccoon doivent etre notes.
-- Pour les runs Hardcore, fais une sauvegarde manuelle a chaque ruban. Le
-  rang S+ impose un nombre limite de sauvegardes et un temps de route.
-- Aucun passage ne revele une mort, une identite, une fin, un boss ou une
-  consequence narrative.
+1. Ne tente pas le S+ pendant la premiere decouverte. Fais d'abord une run de
+   nettoyage ou tu apprends les trajets, les raccourcis et les combats.
+2. Avant chaque trajet sans retour, consulte les sections fichiers, Raccoon,
+   armes et film. Le retour depuis les egouts vers le commissariat est la
+   derniere vraie fenetre de nettoyage de Leon.
+3. Les fichiers identiques de Leon et Claire ne sont pas toujours le meme
+   fichier : Uses of Gunpowder existe en deux versions et compte deux fois.
+4. Pour Lore Explorer, lis les quatre lettres propres aux scenarios B :
+   Claire's Memo, Claire's Note, Leon's Memo et Leon's Note.
+5. Pour Complete Vermin Extermination, le quinzieme Raccoon est dans le
+   depart du scenario B. Ne termine pas les deux A en pensant avoir les 15.
+6. Pour Treasure Hunter, le film Hiding Place se trouve dans les egouts et
+   demande un retour au commissariat. Ne prends pas le telepherique avant de
+   l'avoir developpe et d'avoir fouille les deux photos.
+7. Pour Minimalist, ne touche jamais a une malle d'objets. Pour Frugalist,
+   n'utilise aucun soin, y compris spray de premiers secours.
+8. Pour S+, le couteau infini est autorise, mais les autres armes infinies
+   invalident le plus. Ne compte jamais sur un objet bonus pendant un S+.
+9. Les sauvetages, les objets optionnels et les objectifs de collection ne
+   doivent pas etre melanges avec une route chronometree. Fais une sauvegarde
+   dediee par objectif.
+10. Si tu rates un objet ratable, ne detruis pas ta partie principale :
+    recharge un ancien fichier ou reprends-le dans le scenario oppose.
 
-MISSABLES A SECURISER
+PLAN OPTIMISE POUR LES 44 SUCCES ET LE 100 %
 
-- 15 Mr. Raccoon, fichiers par scenario, armes et mods, objectifs de tir,
-  objets de salle, records sans soin/sans coffre et rangs S+.
+RUN 1 - LEON A, STANDARD, NETTOYAGE PRINCIPAL
 
-ORDRE DE PARTIE
+- Fais toute la route Leon A avec la liste chronologique ci-dessous.
+- Prends les 40 fichiers Leon A, les 11 premiers Mr. Raccoon accessibles,
+  les six poches, les huit serrures, les deux coffres portables, les armes et
+  le film Hiding Place.
+- Fais les succes techniques au fil de la route : planches, contre, couteau,
+  grenade, Licker, chien, casier et coffre.
+- Lis la lettre de Jill dans le magasin d'armes de Kendo.
 
-1. Leon A Standard : route d'apprentissage et collectibles.
-2. Claire A Standard : fichiers et objets specifiques.
-3. Scenario B avec le personnage oppose : chemin complet et vraie fin.
-4. Nettoyage des collectibles et succes techniques via Selection de partie.
-5. Hardcore, S+, Frugalist, Minimalist, 4th Survivor et Tofu.
+RUN 2 - CLAIRE A, STANDARD, ROUTE PROPRE A CLAIRE
 
-LEON A - POLICE ET PREMIER PASSAGE
+- Fais Claire A pour les 12 fichiers Claire, les armes propres a Claire, les
+  trois Mr. Raccoon propres a Claire et la sequence de Sherry.
+- Les coffres et la plupart des salles sont deja connus, mais les acces Heart
+  et les panneaux electriques changent la route : suis la section Claire A.
 
-- Prends la carte de chaque secteur, fouille les bureaux et lis les fichiers
-  avant de quitter une salle. Les objets de cle peuvent etre jetes seulement
-  quand le menu indique qu'ils n'ont plus d'utilite.
-- Ouvre les coffres portables, casiers et bureaux avec les codes notes dans
-  les documents. Un code utilise doit etre coche par scenario.
-- Mr. Raccoon 1/15 : commence une liste par zone et ne considere pas le
-  compteur global comme preuve que la route est complete.
-- Recupere les pieces d'armes et les poches d'inventaire. Ne vends rien :
-  toutes les armes et ameliorations servent aux succes de collection.
-- Dans le parking, les egouts et le laboratoire, nettoie chaque salle avant
-  d'activer le transport suivant. Les salles a retour limite sont prioritaires.
+RUN 3 - LEON B, STANDARD, SCENARIO OPPOSE
 
-CLAIRE A - SECOND PARCOURS
+- Lance Nouvelle partie (2e run) avec Leon.
+- Prends le Mr. Raccoon du depart, les quatre fichiers Leon B, le M19 et les
+  solutions B de toutes les statues, du panneau et du laboratoire.
+- Cette route peut servir au succes Leon S. Kennedy si tu termines sous la
+  limite Standard du scenario B.
 
-- Repars en Standard avec Claire et utilise une nouvelle sauvegarde. Releve
-  les fichiers, coffres et Mr. Raccoon qui n'etaient pas dans Leon A.
-- Termine les objectifs de tir, les upgrades et les enigmes d'armes propres
-  a Claire. Chaque personnage doit avoir ses armes dans le menu.
-- Fais les detours de campagne et les salles laterales avant le dernier
-  trajet. Les objets de collection du scenario A restent disponibles par
-  Selection de partie si tu as conserve un chapitre.
+RUN 4 - CLAIRE B, STANDARD, DERNIERS FICHIERS
 
-SCENARIO B - PERSONNAGE OPPOSE
+- Lance Nouvelle partie (2e run) avec Claire.
+- Prends les deux derniers fichiers, le Quickdraw Army et termine la vraie
+  route B de Claire.
+- Cette route peut servir au succes Sizzling Scarlet Hero sous la limite B.
 
-- Le scenario B modifie les premiers chemins, les objets et l'ordre de
-  certaines portes. Utilise la carte et coche les fichiers B separement.
-- Ne quitte pas une zone rouge sans verifier les Mr. Raccoon, coffres et
-  fichiers. Les objectifs de scenario B sont la meilleure occasion de
-  terminer les collectibles manquants.
-- Termine le scenario B puis verifie le deblocage des bonus, des records et
-  du mode 4th Survivor.
+RUN 5 - LEON HARDCORE S+ / HARDCORE ROOKIE
 
-COLLECTIBLES ET ENIGMES
+- Fais une route dediee, sans collectibles optionnels et avec au maximum
+  trois sauvegardes pour le S+.
+- La limite S+ est 2 h 30 en A et 2 h 00 en B. Le plus simple est A si tu
+  connais deja la carte ; B est plus court mais plus exigeant au depart.
+- Cette run valide Hardcore Rookie et peut debloquer l'arme infinie liee au
+  S+ de Leon.
 
-- 15 Mr. Raccoon : police, zones de transition, egouts, laboratoire et
-  contenus propres aux routes. Le couteau ou une arme a distance peut etre
-  necessaire ; valide la destruction avant de quitter la salle.
-- Fichiers : fais une liste Leon A, Claire A, Leon B et Claire B. Certains
-  documents sont dans les bureaux, d'autres apparaissent apres une action de
-  scenario.
-- Coffres, casiers et statues : note la combinaison apres chaque ouverture.
-  Les codes et solutions vus dans un scenario ne valident pas toujours la
-  collection du personnage oppose.
-- Armes et mods : ramasse chaque piece, installe un mod, inspecte les armes
-  et termine les records de personnalisation.
+RUN 6 - CLAIRE HARDCORE S+ / HARDCORE COLLEGE STUDENT
 
-RANGS, DIFFICULTE ET RESTRICTIONS
+- Meme principe : trois sauvegardes maximum, aucun bonus d'arme infinie et
+  limite de 2 h 30 en A ou 2 h 00 en B.
+- Choisis A pour une progression lisible ou B pour la route courte.
+- Cette run valide Hardcore College Student et peut debloquer l'arme infinie
+  liee au S+ de Claire.
 
-- Standard : vise le rang S sur Leon A et Claire A en utilisant les
-  sauvegardes uniquement en cas de besoin.
-- Hardcore : apprends d'abord les routes. Utilise les rubans a des points
-  fixes, conserve les munitions de gros calibre et evite les combats non
-  requis.
-- S+ Hardcore : fais un itineraire chronometre, respecte le nombre de
-  sauvegardes et utilise les armes bonus autorisees par le record. Sauvegarde
-  une copie externe de ton meilleur fichier de depart.
-- Frugalist : aucun soin. Frugalist et Minimalist se font mieux dans une run
-  dediee, apres le nettoyage des collectibles.
-- Minimalist : n'ouvre pas le coffre et ne jette pas l'inventaire au hasard.
-  Planifie les objets necessaires dans les cases et utilise les coffres
-  portables uniquement quand la condition de l'achievement le permet.
+RUN 7 - FRUGALIST, MINIMALIST ET 14 000 PAS
 
-MODES BONUS
+- Fais une partie dediee en 2e run, sur Assisted ou Standard, avec une arme
+  bonus deja debloquee si tu en as une. Les trois contraintes sont compatibles,
+  mais les combiner demande de connaitre la route par coeur.
+- N'ouvre aucune malle, n'utilise aucun soin et ne ramasse que les objets
+  obligatoires. Evite les detours de collecte et vise moins de 14 000 pas.
+- Si tu veux zero risque, separe la run pas et la run sans malle : le jeu ne
+  demande pas de les obtenir sur la meme partie.
 
-- 4th Survivor : apprends la route avant de chercher le record, garde les
-  soins et gere les ennemis par detour.
-- Tofu : chaque personnage utilise un inventaire et des objets specifiques.
-  Termine d'abord les versions les plus simples pour apprendre le parcours.
-- Les records de tir et de mode bonus sont independants du fichier de campagne.
+RUN 8 - MODES BONUS ET MR. RACCOON GHOST SURVIVORS
 
-CHECKLIST STEAM FINALE - 44/44
+- Termine 4th Survivor pour Grim Reaper.
+- Termine No Way Out pour Hell of a Sheriff.
+- Fais No Time to Mourn, Runaway, Forgotten Soldier et No Way Out en prenant
+  les dix Raccoon bonus listes plus loin.
+- Termine Tofu et ses variantes si tu veux le 100 % du jeu, meme si ces
+  records ne rajoutent pas de succes Steam.
 
-[ ] Leon A.
-[ ] Claire A.
-[ ] Scenario B avec le personnage oppose.
-[ ] 15/15 Mr. Raccoon et tous les fichiers par scenario.
-[ ] Coffres, casiers, statues, armes et mods.
-[ ] Rang S et S+ selon les conditions.
-[ ] Frugalist et Minimalist.
-[ ] 4th Survivor, Tofu et records bonus.
-[ ] Verification finale du profil Steam : 44/44.
+SUIVI DES SUCCES PAR FAMILLE
 
-REGLE ANTI-SPOILER
+SUCCES AUTOMATIQUES DE ROUTE
 
-Les personnages, scenarios et zones indiquent seulement l'ordre de jeu.
-Les revelations, fins, morts, identites et consequences ne sont pas racontees.
+- Welcome to the City of the Dead : atteint le commissariat avec Leon ou
+  Claire.
+- Path to the Goddess : ouvre le passage principal avec les trois medaillons.
+- Never-Ending Rain : termine la premiere grande zone de campagne.
+- A Great Need for a Shower : atteint le laboratoire dans une campagne.
+- Hack Complete : termine la sequence d'Ada.
+- Hide and Seek : termine la sequence de Sherry.
+- In the Blink of an Eye : termine l'un des combats de fin de campagne.
+- Broken Umbrella : termine un scenario B et sa fin complete.
+- Gotcha! : reussis l'objectif de combat lie a la progression de campagne.
+- With Time to Spare : reussis l'objectif de fin lie au compte a rebours.
+- Young Escapee : echappe-toi de la sequence de Sherry.
+- One Slick Super-spy : termine la sequence d'Ada.
+- A Hero Emerges : termine la campagne de Leon.
+- A Heroine Emerges : termine la campagne de Claire.
+
+SUCCES DE GESTION ET DE COMBAT
+
+- The Basics of Survival : combine deux objets dans l'inventaire.
+- Eat This! : equipe une grenade de defense, laisse un ennemi t'agripper et
+  utilise la contre-attaque.
+- Hip to Add Squares : ramasse une premiere poche d'inventaire.
+- That'll Hold 'Em : pose une planche sur une fenetre cassable.
+- Customizer : installe une piece sur une arme.
+- A Vault-like Mind : ouvre un coffre portable.
+- Don't Need No Stinkin' Gun : tue un ennemi uniquement au couteau.
+- Bon Appetit! : enfonce une grenade dans un ennemi avec la contre-attaque,
+  puis tire sur la grenade avant qu'elle ne disparaisse.
+- Hats Off! : tire sur le couvre-chef de la grande silhouette de la campagne.
+- Keep Their Heads Ringin' : lance une grenade flash sur un Licker.
+- Like Skeet Shooting : tire sur un chien ou un Licker alors qu'il est en l'air.
+- Zombie Roundup : tue trois ennemis avec une seule arme de defense.
+- First Break-In : ouvre le premier coffre a combinaison.
+- A Waist of Space : ramasse les six poches.
+- Master of Unlocking : ouvre les huit serrures fixes de la fiche codes.
+- Treasure Hunter : utilise le film Hiding Place et ramasse les deux objets.
+- Chasing Jill : lis la lettre de Jill dans le magasin de Kendo.
+
+SUCCES DE NETTOYAGE ET DE DIFFICULTE
+
+- Vermin Extermination : detruis un premier Mr. Raccoon.
+- Complete Vermin Extermination : detruis les 15 Mr. Raccoon de la campagne.
+- Lore Explorer : lis les 58 fichiers, y compris les quatre fichiers B.
+- Hardcore Rookie : termine Leon en Hardcore.
+- Leon "S." Kennedy : termine Leon en Standard ou Hardcore avec le rang S.
+- Sizzling Scarlet Hero : termine Claire en Standard ou Hardcore avec le rang S.
+- Hardcore College Student : termine Claire en Hardcore.
+- Frugalist : termine une campagne sans utiliser de soin.
+- Minimalist : termine une campagne sans ouvrir de malle d'objets.
+- A Small Carbon Footprint : termine une campagne avec 14 000 pas ou moins.
+
+SUCCES DES MODES BONUS
+
+- Grim Reaper : termine 4th Survivor.
+- Hell of a Sheriff : termine No Way Out.
+- Got 'Em : detruis les dix Mr. Raccoon de Ghost Survivors.
+
+CODES ET SOLUTIONS RAPIDES
+
+COFFRES, CASIERS ET BUREAU
+
+- Bureau de Leon, West Office 1F : serrure gauche NED, serrure droite MRG.
+- Coffre du West Office 1F : gauche 9, droite 15, gauche 7.
+- Casier de la douche 2F : CAP.
+- Casier du couloir 3F : DCM.
+- Coffre de la salle d'attente 2F : gauche 6, droite 2, gauche 11.
+- Casier de la salle de controle des egouts : SZF.
+- Coffre de la salle de traitement des egouts : gauche 2, droite 12,
+  gauche 8.
+- Les deux coffres portables sont dans la douche 2F puis la lingerie 2F.
+  Chaque code est aleatoire. Allume les voyants verts consecutifs en faisant
+  le tour complet, note la suite des boutons et recommence depuis le debut si
+  tu te trompes.
+- Apres les deux coffres portables, place les deux pieces de rechange dans le
+  clavier de la salle des consignes. Le casier 203 contient la poche.
+- Les huit serrures de Master of Unlocking sont les deux serrures du bureau,
+  le coffre du West Office, le casier de douche, le casier 3F, le coffre de la
+  salle d'attente, le casier des egouts et le coffre de traitement.
+
+STATUES ET MEDAILLONS
+
+- Leon ou Claire A, statue du lion dans le hall 1F : lion, branche, aigle.
+- Leon ou Claire A, statue de la licorne dans le salon 2F : poisson,
+  scorpion, verseau.
+- Leon ou Claire A, statue de la jeune fille dans le stockage ouest 3F :
+  femme, arc, serpent.
+- Leon ou Claire B, statue du lion : couronne, flamme, oiseau.
+- Leon ou Claire B, statue de la licorne : jumeaux, balance, ver.
+- Leon ou Claire B, statue de la jeune fille : belier, harpe, oiseau.
+- Une fois les trois medaillons en main, place-les dans la statue du hall 1F.
+
+PANNEAUX ELECTRIQUES
+
+- Leon A, panneau du local electrogene B1 : active les interrupteurs 3 et 4.
+- Leon B, le panneau du local electrogene peut varier : lis les voyants et
+  relie les deux sorties sans depenser de munition.
+- Leon A, panneau de la cellule B1 : numerote les cases de 1 a 16 de gauche
+  a droite puis de haut en bas et appuie sur 2, 3, 3, 7, 7, 7, 8, 11, 11,
+  12, 13, 14, 15.
+- Leon B, panneau de la cellule B1 : cases 1, 3, 6, 9, 10, 10, 10, 11,
+  14, 15.
+- Claire A, panneau de la salle de collection privee : cases 3, 5, 11, 11,
+  11, 12, 14.
+- Claire B, panneau de la salle de collection privee : cases 2, 5, 7, 7,
+  7, 8, 11, 12, 12, 14, 16.
+- Pour tous les panneaux, pars de la sortie violette et remonte le circuit
+  vers l'arrivee : c'est plus fiable que de suivre les couleurs a l'envers.
+
+PUZZLES DES EGOUTS
+
+- Prends la prise Reine dans la salle des fournitures et place-la dans la
+  porte de droite.
+- Monte chercher la prise Roi, place-la dans la porte de l'armurerie et
+  prends l'arme.
+- Retire Roi et Reine, remets Reine dans son emplacement d'origine, place Roi
+  dans le premier emplacement du retour, puis reprends Reine et Roi pour
+  sortir avec les deux prises.
+- Recupere la prise Tour au bout de la passerelle du local de maintenance.
+- Scenario A, mur gauche du panneau d'echecs en allant de l'extremite vers
+  l'entree : fou, tour, cavalier. Mur droit : roi, reine, pion.
+- Scenario B, mur gauche en allant de l'extremite vers l'entree : roi, fou,
+  reine. Mur droit : cavalier, tour, pion.
+- Apres la porte, active le panneau de puissance. En A, interrupteurs 1, 2 et
+  4. En B, la combinaison peut varier : utilise les voyants du panneau.
+
+LABORATOIRE ET SERRE
+
+- Dans la salle de controle de la serre, les touches sont des symboles. Pour
+  les lire, imagine un clavier de telephone avec 1-9 puis 0.
+- Scenario A, ouverture de l'echelle : 3123.
+- Scenario A, ouverture du distributeur : 2067.
+- Scenario B, ouverture de l'echelle : 2048.
+- Scenario B, ouverture du distributeur : 5831.
+- Melange A depuis la position initiale : rouge, vert, bleu, rouge, vert,
+  bleu, rouge, vert.
+- Melange B depuis la position initiale : bleu, rouge, vert, rouge, bleu,
+  rouge, bleu, vert, bleu, rouge, vert.
+- Si tu as deja touche aux tubes, recharge le dernier point de controle avant
+  de tenter la suite : la sequence depend de la position initiale.
+- Refroidis la cartouche dans le laboratoire a basse temperature puis replace-
+  la dans la salle de controle de la serre.
+
+PUZZLE DE SHERRY
+
+- Examine la poupee dans la chambre pour recuperer le bloc cache.
+- Place le bloc dans le panneau puis aligne le motif final : cercle, carre,
+  etoile, carre, etoile sur la face avant.
+- La position de depart est aleatoire. Si une rotation bloque, repere d'abord
+  les deux pieces de bord et reconstruis le motif en partant des extremites.
+
+ROUTE 1 - LEON A, NETTOYAGE CHRONOLOGIQUE
+
+PROLOGUE ET STATION-SERVICE
+
+- Lis l'Orientation Letter dans l'inventaire avant de continuer : Fichier 1.
+- Avance jusqu'a la station-service, inspecte les pieces obligatoires et
+  reviens vers la sortie apres la sequence de prologue.
+- Ne depense pas toutes les munitions sur le premier ennemi : un tir dans la
+  jambe puis un passage en courant est suffisant pour la route.
+- A l'arrivee du commissariat, prends la direction du poste de garde et lis
+  l'Officer's Notebook : Fichier 2.
+- Le succes Welcome to the City of the Dead tombe pendant cette progression.
+
+COMMISSARIAT - PREMIER PASSAGE, AILE OUEST
+
+- Hall 1F : prends la carte de la zone, inspecte la statue du lion et entre
+  lion, branche, aigle. Place le medaillon dans la statue centrale.
+- Operations Room 1F : lis Record of Events, Fichier 3. Ouvre la porte avec
+  l'outil de coupe quand tu l'auras pour obtenir l'appareil electronique.
+- West Office 1F : lis Uses of Gunpowder Leon, Operation Report et Rookie's
+  First Assignment, Fichiers 4, 5 et 6.
+- West Office 1F : ouvre le bureau avec NED a gauche et MRG a droite. Fais
+  l'upgrade de pistolet et obtiens Customizer si ce n'est pas deja fait.
+- West Office 1F : coffre gauche 9, droite 15, gauche 7. Prends la poche
+  d'inventaire et declenche First Break-In.
+- West Office 1F : Mr. Raccoon 1/15, sur une etagere haute au nord de la salle,
+  pres du panneau Welcome Leon. Tire-le avant de repartir.
+- Salle des consignes 1F : lis Storage Locker Terminal Memo, Fichier 7.
+- Ne force pas le terminal sans les touches de rechange : note la zone et
+  reviens avec les deux pieces des coffres portables.
+- Dark Room 1F : lis Medical Benefits or Herbs, Fichier 8. Ramasse la carte
+  de l'etage si elle apparait encore sur la carte.
+- Dans un couloir avec une fenetre cassable, ramasse une planche et utilise-la
+  sur la fenetre avant que la zone ne se remplisse. Cela valide That'll Hold 'Em.
+
+COMMISSARIAT - PREMIER PASSAGE, AILE EST ET 2E ETAGE
+
+- Monte par l'escalier accessible, ouvre la douche avec la manivelle ronde et
+  lis Portable Safe Instructions, Fichier 9.
+- Douche 2F : ouvre le casier CAP, prends le coffre portable et resous-le avec
+  la methode aleatoire. La piece de rechange servira plus tard.
+- Couloir 3F : ouvre le casier DCM. Prends la Spade Key et lis To Any
+  Survivors, Fichier 10, juste avant le stockage ouest.
+- West Storage Room 3F : lis Some Guy's Scribblings, Fichier 11, et prends la
+  poche d'inventaire sur la table.
+- Salon 2F : prends la carte des etages et ouvre la statue de la licorne avec
+  poisson, scorpion, verseau. Garde le medaillon.
+- Salle d'attente 2F : lis Guide Pamphlet, Fichier 12, puis ouvre le coffre
+  gauche 6, droite 2, gauche 11. Ramasse la piece d'arme.
+- Art Room 2F : lis Art Article "The Red Stone", Fichier 13, et prends la
+  Weapons Locker Keycard.
+- Retourne a la salle des consignes 1F et utilise la carte pour prendre le
+  W-870 Shotgun. Avec Claire, ce meme emplacement donnera le GM 79.
+- N'entre pas encore dans les secteurs qui exigent la cle Diamond : ils seront
+  nettoyes pendant le passage B1.
+
+COMMISSARIAT - HELICOPTERE, S.T.A.R.S. ET TROISIEME MEDAILLON
+
+- Apres la sequence exterieure, ramasse l'outil de coupe sur le bac a l'angle
+  de l'escalier de secours.
+- East Office 1F : ouvre avec l'outil, prends la manivelle ronde et la piece
+  electrique. Utilise la piece pour la porte vers le hall.
+- Douche 2F : utilise la manivelle ronde pour couper la vapeur.
+- S.T.A.R.S. Office 2F : prends la batterie et lis Internal Memo, Fichier 14.
+- S.T.A.R.S. Office 2F : Mr. Raccoon 2/15 est entre un carton et un ecran au
+  sud-est des bureaux. Ecoute le petit bruit mecanique si tu ne le vois pas.
+- Operations Room 1F : combine appareil electronique et batterie pour former
+  le detonateur. Ne le pose pas ailleurs : il sert au stockage ouest.
+- West Storage Room 3F : detone la barricade et ouvre la statue de la jeune
+  fille avec femme, arc, serpent. Prends le troisieme medaillon.
+- Hall 1F : place les trois medaillons et descends dans la section souterraine.
+- Operators Room : prends la poche d'inventaire dans le casier a droite de la
+  machine a ecrire apres le premier combat majeur.
+
+COMMISSARIAT B1 ET PARKING
+
+- Parking Garage : inspecte les sorties puis suis la progression vers le
+  local electrogene et le champ de tir.
+- Generator Room B1 : prends la premiere piece electrique et active les
+  interrupteurs 3 et 4. Cette solution concerne Leon A ; les autres runs sont
+  indiquees dans la section panneaux.
+- Firing Range B1 : lis Equipment Disposal Notice et A Message From Mr.
+  Raccoon, Fichiers 17 et 18.
+- Firing Range B1 : Mr. Raccoon 3/15 est sous une cible au fond du stand.
+- Firing Range B1 : ouvre le petit bureau avec la cle Diamond lorsque tu
+  l'auras, puis prends le film 3F Locker. Il sera developpe au Dark Room.
+- Firing Range B1 : examine la boite jaune pour obtenir la cle de voiture.
+  Dans le parking, examine cette cle et ouvre le coffre de la voiture de police
+  pour obtenir une piece de l'arme de poing de Leon.
+- Kennel puis Morgue B1 : lis Autopsy Record 53477, Fichier 16, et prends la
+  cle Diamond sur le casier mortuaire indique.
+- Observation Room 1F : utilise la cle de zone, prends la Bejeweled Box et
+  lis Confiscation Report, Fichier 19.
+- Combine joyau rouge et boite, examine le badge S.T.A.R.S. pour le transformer
+  en cle USB, puis ouvre l'armurerie du S.T.A.R.S. Office.
+- S.T.A.R.S. Office : lis Letter to S.T.A.R.S. Members, Fichier 20, et prends
+  le Lightning Hawk dans l'armurerie.
+- Salle de lingerie 2F : utilise la cle Diamond, lis le document de la salle
+  si present et ouvre le second coffre portable. La seconde piece permet le
+  casier 203 de la salle des consignes.
+- Salle des consignes 1F : installe les deux pieces, ouvre 203 et prends la
+  quatrieme poche. Cela complete la progression de A Waist of Space si les
+  cinq autres poches ont ete prises.
+
+COMMISSARIAT - RETOUR PAR LA BIBLIOTHEQUE ET HORLOGE
+
+- Records Room 1F : utilise la cle Club et prends l'outil de manivelle.
+- Bibliotheque 2F : place l'outil sur le cric, deplace les trois rayonnages
+  vers la droite et forme un passage continu vers le troisieme etage.
+- East Storage Room 3F : prends le Large Gear. Dans le couloir voisin,
+  Mr. Raccoon 5/15 se trouve au niveau de la passerelle ouverte apres la
+  manivelle carree.
+- Clock Tower 3F : lis Repair Plan, Fichier 21, des l'entree.
+- Clock Tower 3F : place Large Gear dans le mecanisme du bas, monte, remplace
+  Small Gear par Large Gear, redescends et pose Small Gear dans le mecanisme.
+  Prends la deuxieme piece electrique dans la boite tombee.
+- Couloir derriere l'horloge 3F : avance jusqu'a la fenetre au fond. Mr.
+  Raccoon 6/15 est cache sur le rebord.
+- Retourne au Jail B1 avec les deux pieces. Lis Memo "Jail Power Panel",
+  Fichier 15, pres de la cellule.
+- Resous le panneau avec les cases 2, 3, 3, 7, 7, 7, 8, 11, 11, 12, 13,
+  14, 15. Ouvre la cellule, lis Ben's Memo et recupere Interview Transcript
+  automatiquement : Fichiers 22 et 23.
+- Recupere la carte de parking et poursuis la sortie. La campagne ouvre ensuite
+  la fenetre du magasin de Kendo.
+
+FENETRE RATABLE : MAGASIN DE KENDO ET ADA
+
+- Dans le Gun Shop de Kendo, juste apres l'ouverture de la porte, lis Letter to
+  the Shopkeeper sur le comptoir du fond. C'est la lettre de Jill et le succes
+  Chasing Jill tombe immediatement.
+- Si tu vises encore les succes techniques, garde une grenade flash et une
+  grenade de defense en inventaire avant la sequence d'Ada.
+- Pendant la sequence d'Ada, lis Sept. Inspection (Week 1), Fichier 24, dans
+  la premiere salle apres les deux piratages.
+- Dans la salle d'incineration, detruis Mr. Raccoon 8/15 avant de tirer les
+  leviers. Il est au sol pres de la grande porte.
+- Dans la meme sequence, lis Sept. Inspection (Week 2), Fichier 25, apres
+  l'activation du mecanisme en hauteur.
+- Pour Hack Complete et One Slick Super-spy, effectue tous les piratages
+  obligatoires et termine la sequence sans quitter la zone avant la sortie.
+- Juste apres le combat de l'egout, avant l'echelle, detruis Mr. Raccoon 7/15
+  sur le rebord sombre. C'est une fenetre courte et specifique a Leon.
+
+EGOUTS - ROUTE DE LEON A
+
+- Control Room Upper : lis Copy of Emails to Umbrella HQ, Fichier 26, puis
+  ouvre le casier SZF.
+- Monitor Room Middle : prends la carte des egouts, lis Sewers Company
+  Pamphlet et Unlocking the U-Area Door, Fichiers 27 et 28.
+- Treatment Pool Room : prends la poignee en T et lis Delivery Receipt,
+  Fichier 29, sur la plateforme du telepherique.
+- Treatment Pool Room : ouvre le coffre gauche 2, droite 12, gauche 8. C'est
+  la huitieme et derniere serrure de Master of Unlocking.
+- Bottom Waterway : recupere la cle des egouts avant l'echelle.
+- Couloir entre Bottom Waterway et Supplies Storage : Mr. Raccoon 9/15 est
+  dans le coin, masque par l'etabli pres de la brouette.
+- Supplies Storage Lower : prends les prises Reine et Roi, ouvre l'armurerie
+  et recupere le Chemical Flamethrower. Sors avec les deux prises.
+- Workroom Lift : ouvre le passage avec la poignee en T depuis le Bottom
+  Waterway, prends la cinquieme poche dans le Workroom.
+- Workroom Upper : prends le film Hiding Place. Ne lance pas le telepherique
+  avant de l'avoir conserve et, si possible, developpe.
+- Workers' Break Room : utilise la cle des egouts, lis Jazz Festival Flyer,
+  Fichier 30.
+- Recupere la prise Tour dans le couloir exterieur du Workroom, puis reviens
+  au Monitor Room et utilise la solution A du panneau d'echecs.
+- Le telepherique est un point de non-retour pratique : avant de l'activer,
+  verifie les compteurs Lore Explorer, Complete Vermin Extermination,
+  Master of Unlocking et les six poches.
+
+LABORATOIRE - ROUTE DE LEON A
+
+- Reception : lis Nap Room Log et ID Wristband, Fichiers 31 et 32. Prends la
+  carte de la zone si elle est encore disponible.
+- Couloir nord : lis Special Forces Recording, Fichier 33, sur le corps au
+  sud de la reception.
+- Cafeteria : Mr. Raccoon 10/15 se trouve dans l'obscurite, pres de la table
+  et de l'ecran. Prends-le avant de monter a l'echelle.
+- Nap Room : utilise le signal modulator sur la frequence correspondante,
+  rallume les capsules et prends la sixieme poche.
+- Nap Room : Mr. Raccoon 11/15 est dans une capsule ouverte au fond. Lis
+  Wayne Li's Note, Fichier 38, dans la meme zone.
+- Greenhouse Control Room : entre 3123 pour l'echelle et 2067 pour la machine.
+  Lis les indications de l'herbicide sur la table du Drug Testing Lab :
+  Herbicide Synthesis, Fichier 34.
+- Drug Testing Lab : melange rouge, vert, bleu, rouge, vert, bleu, rouge,
+  vert depuis la position initiale.
+- Greenhouse : utilise la cartouche refroidie dans le panneau de dispersion,
+  puis recupere la puce d'acces sur le corps indique.
+- Salle au sud du Lobby, apres le passage souterrain : rallume le courant avec
+  le signal modulator, prends Somebody's Note, Fichier 35.
+- Low-Temp Testing Lab : selectionne la frequence MURF, aligne les deux ondes
+  du modulator et lis Wayne Li's Inbox, Fichier 36, sur le PC.
+- Freezer : refroidis la cartouche puis ramene-la au panneau de la serre.
+- Presentation Room : avec le bracelet de niveau superieur, lis Byron
+  Cartwright's Inbox, Fichier 37.
+- Biotesting Lab : rallume le courant avec la bonne frequence et lis William
+  Birkin's Inbox, Fichier 39, sur le PC.
+- P-4 Level Testing Lab : lis Research Diary, Fichier 40, sur le terminal.
+- Avant la sortie finale de la zone, ouvre chaque salle rouge de la carte.
+  Le succes A Great Need for a Shower se valide pendant l'arrivee au labo.
+
+FILM HIDING PLACE ET TREASURE HUNTER
+
+- Depuis le Workroom Upper des egouts, prends le film Hiding Place.
+- Utilise le retour secret par le Workroom et le passage vers le commissariat.
+- Developpe le film dans le Dark Room 1F : deux photos apparaissent.
+- S.T.A.R.S. Office 2F : inspecte le petit bureau de Wesker et prends le
+  Wooden Box. Examine-le pour obtenir le Red Dot Sight du Lightning Hawk.
+- Press Room 1F : dans le tiroir du bureau au fond a gauche, prends les 400
+  unites de carburant du lance-flammes.
+- Les deux objets doivent etre ramasses dans la meme progression pour
+  declencher Treasure Hunter. Ils ne sont pas le film lui-meme : la photo est
+  un indice, l'objet du tiroir est la validation.
+
+COMBATS TECHNIQUES A FAIRE SUR LE NETTOYAGE
+
+- The Basics of Survival : combine une plante avec une autre plante ou une
+  poudre avec de la munition, puis conserve le resultat.
+- Eat This! : une grenade de defense ou un couteau de defense doit declencher
+  la contre-attaque, pas une grenade lancee a la main.
+- Don't Need No Stinkin' Gun : isole un zombie lent et termine-le au couteau.
+  Ne laisse pas le couteau de defense compter a sa place.
+- Bon Appetit! : utilise une grenade de defense sur un zombie, puis tire sur
+  la grenade visible dans sa bouche avant la fin de l'animation.
+- Keep Their Heads Ringin' : dans un couloir avec Licker, lance une flashbang
+  assez pres pour l'etourdir. La mort du Licker n'est pas necessaire.
+- Like Skeet Shooting : les chiens du parking ou un Licker qui saute sont les
+  cibles les plus fiables ; attends le debut du saut avant le tir.
+- Zombie Roundup : une grenade explosive dans un groupe de trois zombies est
+  la methode la plus simple. Fais une sauvegarde avant la tentative.
+- Hats Off! : tire sur le chapeau du grand poursuivant quand il est de profil,
+  avec le pistolet pour ne pas gaspiller les munitions lourdes.
+
+FIN DE LEON A ET VERIFICATION
+
+- Termine la route sans abandonner les fichiers ou les compteurs de collection.
+- Apres l'ecran de resultat, sauvegarde le fichier clair et conserve-le pour
+  lancer le scenario B si le menu le propose.
+- La campagne de Leon valide A Hero Emerges et les succes de progression
+  rencontres pendant la route.
+- Si un compteur de Raccoon affiche 11/15, c'est normal : les quatre derniers
+  sont repartis entre Claire et le depart B, comme indique dans la route.
+
+ROUTE 2 - CLAIRE A, NETTOYAGE CHRONOLOGIQUE
+
+PROLOGUE ET ENTREE DU COMMISSARIAT
+
+- Lis Letter from Best Friend dans l'inventaire : Fichier 41.
+- Avance par la station-service et atteins le commissariat.
+- Dans le hall, prends le medaillon du lion avec lion, branche, aigle.
+- Operations Room 1F : lis Record of Events si tu ne l'as pas deja valide sur
+  un profil commun ; un fichier deja lu ne doit pas etre relu pour le compteur.
+- West Office 1F : lis la version Claire de Uses of Gunpowder, Fichier 42.
+  Elle compte separement de la version Leon malgre le meme nom.
+- West Office : ouvre NED/MRG, le coffre gauche 9, droite 15, gauche 7, et
+  ramasse la piece d'arme.
+- Une fenetre a barricader dans l'aile ouest peut encore valider That'll Hold
+  'Em si le succes n'est pas tombe sur Leon.
+
+AILE EST, CLE HEART ET ACCES B1
+
+- Monte par l'aile est, coupe la vapeur avec la manivelle ronde et recupere la
+  batterie au S.T.A.R.S. Office.
+- S.T.A.R.S. Office 2F : prends le Mr. Raccoon 2/15 si tu ne l'avais pas
+  detruit avec Leon ; le compteur est global, une seule destruction suffit.
+- Assemble le detonateur et ouvre la statue de la jeune fille avec femme,
+  arc, serpent. Place les trois medaillons dans le hall.
+- Dans la section souterraine puis le parking, recupere la carte Diamond,
+  ouvre la salle de tir et prends la boite jaune pour la cle de voiture.
+- Parking Garage : ouvre le coffre de la voiture avec la cle examinee. Claire
+  obtient le JMB Hp3 Laser Sight Pistol.
+- Elevator Controls Room B1 : lis Raccoon Monthly, June Issue, Fichier 43.
+- Morgue : prends la cle Diamond et lis Autopsy Record 53477 si necessaire.
+- Firing Range : lis les documents et detruis Mr. Raccoon 3/15 si besoin.
+
+RETOUR AU COMMISSARIAT ET ROUTE DE CHIEF IRONS
+
+- Remonte a l'aide de l'ascenseur, entre dans le bureau du chef avec la cle
+  Diamond et lis Copy of Emails to Chief Irons puis Taxidermy Log, Fichiers 44
+  et 45.
+- Private Collection Room : lis Repair Shop Letter, Fichier 46, puis examine
+  le relief pour obtenir la cle Heart.
+- Utilise la cle Heart dans le couloir et recupere la premiere piece du panneau
+  electrique dans le East Storage Room 3F.
+- East Storage Room 3F : Mr. Raccoon 12/15 est derriere la porte Heart, sur
+  une etagere dans la petite piece. Fais-le avant de redescendre.
+- Clock Tower 3F : prends Large Gear, puis recupere la seconde piece au meme
+  endroit apres le puzzle d'engrenages.
+- Private Collection Room : insere les deux pieces et entre la sequence Claire
+  A 3, 5, 11, 11, 11, 12, 14 pour ouvrir le passage.
+- Cette ouverture mene au prochain objectif principal. Garde une grenade flash
+  pour la zone de sortie et ne quitte pas le bureau avec la carte rouge.
+
+SHERRY ET ORPHELINAT
+
+- Pendant Sherry, prends Sally's Diary dans le couloir exterieur de la chambre,
+  Fichier 47.
+- Hall d'entree : prends Tom's Diary apres la descente, Fichier 48.
+- Director's Room : lis _____'s Diary a cote de la machine a ecrire,
+  Fichier 49.
+- Chambre : examine la poupee, recupere le bloc puis resols le panneau avec
+  le motif cercle, carre, etoile, carre, etoile sur la face avant.
+- Salle de bain du deuxieme etage : lis Letter from the Director, Fichier 50.
+- Dans la sequence de fuite, Young Escapee se valide automatiquement en
+  suivant le parcours jusqu'a la sortie.
+- En reprenant Claire, traverse l'exterieur jusqu'au bus et detruis Mr.
+  Raccoon 13/15 sur le tableau de bord avant de quitter le vehicule.
+- Orphanage Nursery 2F : detruis Mr. Raccoon 14/15 dans l'etagere en face de
+  l'entree. C'est la derniere statue propre a Claire A.
+
+EGOUTS ET LABORATOIRE DE CLAIRE A
+
+- Sewers Office : apres la sequence de l'orphelinat, lis Report About "G",
+  Fichier 51, sur le tableau blanc.
+- Monitor Room : collecte les prises Reine, Roi et Tour comme Leon.
+- Supplies Storage : ouvre l'armurerie et prends le Spark Shot. La route de
+  Claire utilise le meme mini-puzzle mais pas la meme arme.
+- Monitor Room : applique la solution A du panneau d'echecs, puis le panneau
+  de puissance 1, 2, 4.
+- Dans la serre, utilise 3123 puis 2067 et le melange rouge, vert, bleu,
+  rouge, vert, bleu, rouge, vert.
+- Security Room du laboratoire : lis IMPORTANT NEST-Wide Alert, Fichier 52,
+  sur le PC apres avoir installe Sherry.
+- Cafeteria : verifie le Mr. Raccoon 10/15 ; Nap Room : rallume le courant,
+  prends la poche, le Mr. Raccoon 11/15 et le fichier de la capsule.
+- Termine le laboratoire, puis la campagne de Claire. Cela valide A Heroine
+  Emerges et prepare Leon B.
+
+ROUTE 3 - LEON B, SCENARIO 2E RUN
+
+DEPART ET RPD B1
+
+- Depuis le menu, choisis Nouvelle partie (2e run), puis Leon. Ne choisis pas
+  Nouvelle partie simple : elle relancerait Leon A.
+- Dans le Guardroom B1, prends immediatement le M19 Pistol.
+- En sortant vers l'entree 1F, tourne vers les buissons : Mr. Raccoon 15/15
+  est la. C'est le dernier Raccoon de la campagne et Complete Vermin
+  Extermination se debloque quand les 14 autres ont deja ete detruits.
+- Lis Scrap of Paper dans la Watchman's Room, Fichier 53.
+- Hall 1F : lis Notebook with Missing Page, Fichier 54, a l'ancien bureau.
+- Rejoins la statue du lion et utilise couronne, flamme, oiseau.
+- Operations Room, West Office et Dark Room : utilise les raccourcis de la
+  route connue, mais garde les salles rouges jusqu'au passage correspondant.
+
+RPD B, MEDAILLONS ET SORTIE
+
+- Salon 2F : statue de la licorne avec jumeaux, balance, ver.
+- Stockage ouest 3F : statue de la jeune fille avec belier, harpe, oiseau.
+- Le panneau electrogene B peut changer : lis la position des voyants au lieu
+  de memoriser la solution Leon A.
+- L'itineraire saute plusieurs portes de A, mais tous les coffres fixes gardent
+  les memes codes : NED/MRG, 9-15-7, CAP, DCM et 6-2-11.
+- Rejoins le passage souterrain avec les trois medaillons et poursuis vers le
+  parking. Les objets de la salle de tir, de la morgue et de l'observation
+  peuvent etre recuperes si une salle reste rouge.
+- A la bibliotheque, utilise l'outil de manivelle et forme le passage avec les
+  trois rayonnages. Dans l'horloge, refais le transfert Large/Small Gear.
+- Leon B utilise les deux pieces electriques dans le Jail. Lis Claire's Memo
+  au S.T.A.R.S. Office 2F, Fichier 55.
+- Panneau de cellule Leon B : cases 1, 3, 6, 9, 10, 10, 10, 11, 14, 15.
+- Recupere la carte de parking et poursuis vers le magasin de Kendo. La lettre
+  de Jill peut etre relue ici si Chasing Jill n'a pas ete validee.
+
+EGOUTS B ET LABORATOIRE B
+
+- Dans la sequence d'Ada, le compteur de fichiers reste celui de Leon :
+  verifie les deux inspections uniquement si elles manquent.
+- Sewers Control Room : ouvre SZF et lis Copy of Emails to Umbrella HQ.
+- Treatment Pool Room : lis Claire's Note sur la table pres du telepherique,
+  Fichier 56. C'est un fichier exclusif Leon B.
+- Supplies Storage : ouvre Reine/Roi, recupere le lance-flammes et prends le
+  Mr. Raccoon 9/15 si necessaire.
+- Monitor Room : solution B du panneau d'echecs : mur gauche roi, fou, reine ;
+  mur droit cavalier, tour, pion.
+- Panneau de puissance B : utilise les interrupteurs qui allument les trois
+  sorties. Le motif est variable selon la partie.
+- Serre B : entre 2048 pour l'echelle puis 5831 pour le distributeur.
+- Melange B depuis la position initiale : bleu, rouge, vert, rouge, bleu,
+  rouge, bleu, vert, bleu, rouge, vert.
+- Dans le laboratoire, recupere les fichiers communs manquants, active le
+  signal modulator sur chaque frequence et termine la route B.
+- Une fois la campagne terminee, Broken Umbrella et les succes de fin de
+  scenario sont valides si Leon A et Claire A ont deja ete termines.
+
+ROUTE 4 - CLAIRE B, DERNIERS COLLECTIBLES
+
+- Choisis Nouvelle partie (2e run), puis Claire.
+- Dans le Guardroom, prends le Quickdraw Army Revolver.
+- Suis le depart B jusqu'a l'entree du commissariat. Les objets sont decales,
+  mais les codes fixes de la fiche restent valables.
+- Hall 1F : statue du lion avec couronne, flamme, oiseau.
+- Salon 2F : statue de la licorne avec jumeaux, balance, ver.
+- Stockage ouest 3F : statue de la jeune fille avec belier, harpe, oiseau.
+- RPD : prends Leon's Memo dans le S.T.A.R.S. Office 2F, Fichier 57.
+- Private Collection Room : utilise le panneau Claire B avec les cases 2, 5,
+  7, 7, 7, 8, 11, 12, 12, 14, 16.
+- Pendant Sherry et l'orphelinat, refais le puzzle du bloc si le checkpoint
+  ne conserve pas la sequence du scenario precedent.
+- Sewers Treatment Pool Room : lis Leon's Note pres du telepherique,
+  Fichier 58. Ce dernier fichier est exclusif Claire B.
+- Solutions d'egouts et de serre : panneau d'echecs B, codes 2048/5831 et
+  melange bleu, rouge, vert, rouge, bleu, rouge, bleu, vert, bleu, rouge,
+  vert.
+- Termine Claire B. Le compteur doit afficher 58/58 fichiers et 15/15
+  Raccoon si les quatre runs ont ete suivies correctement.
+
+LISTE COMPLETE DES 58 FICHIERS
+
+Les noms ci-dessous sont ceux du menu Records. Les numeros servent a comparer
+une capture d'ecran ou un fichier de sauvegarde ; l'ordre de collecte reste
+celui des routes Leon A, Claire A, Leon B et Claire B.
+
+LEON A - FICHIERS 1 A 40
+
+- 01 - Orientation Letter : inventaire de Leon au debut.
+- 02 - Officer's Notebook : Watchman's Room 1F, ramassage de progression.
+- 03 - Record of Events : Operations Room 1F.
+- 04 - Uses of Gunpowder : bureau du West Office 1F, version Leon.
+- 05 - Operation Report : long bureau du West Office 1F.
+- 06 - Rookie's First Assignment : extremite du long bureau du West Office.
+- 07 - Storage Locker Terminal Memo : terminal de la salle des consignes 1F.
+- 08 - Medical Benefits or Herbs : caisse pres de la machine du Dark Room 1F.
+- 09 - Portable Safe Instructions : douche 2F, pres de la vapeur.
+- 10 - To Any Survivors : couloir avant le West Storage Room 3F.
+- 11 - Some Guy's Scribblings : table du West Storage Room 3F.
+- 12 - Guide Pamphlet : comptoir de la salle d'attente 2F.
+- 13 - Art Article "The Red Stone" : chaise de l'Art Room 2F.
+- 14 - Internal Memo : bureau du S.T.A.R.S. Office 2F, pres de la batterie.
+- 15 - Memo "Jail Power Panel" : mur au fond du Jail B1.
+- 16 - Autopsy Record 53477 : table de la Morgue B1.
+- 17 - Equipment Disposal Notice : table du Firing Range B1.
+- 18 - A Message From Mr. Raccoon : comptoir du Firing Range B1.
+- 19 - Confiscation Report : etagere de l'Observation Room 1F.
+- 20 - Letter to S.T.A.R.S. Members : armurerie du S.T.A.R.S. Office 2F.
+- 21 - Repair Plan : entree de la Clock Tower 3F.
+- 22 - Ben's Memo : table de la cellule de Ben apres ouverture du panneau.
+- 23 - Interview Transcript : obtenu automatiquement sur le corps de Ben.
+- 24 - Sept. Inspection (Week 1) : premiere salle de la sequence d'Ada.
+- 25 - Sept. Inspection (Week 2) : salle de l'incinerateur d'Ada.
+- 26 - Copy of Emails to Umbrella HQ : Control Room des egouts superieurs.
+- 27 - Sewers Company Pamphlet : Monitor Room des egouts moyens.
+- 28 - Unlocking the U-Area Door : meme Monitor Room, a cote du panneau.
+- 29 - Delivery Receipt : caisse de la plateforme du telepherique.
+- 30 - Jazz Festival Flyer : Workers' Break Room des egouts superieurs.
+- 31 - Nap Room Log : Reception du laboratoire.
+- 32 - ID Wristband : tableau blanc de la salle de sauvegarde Reception.
+- 33 - Special Forces Recording : corps au sud de la Reception du laboratoire.
+- 34 - Herbicide Synthesis : table du Drug Testing Lab.
+- 35 - Somebody's Note : chaise de la piece au sud du Lobby du laboratoire.
+- 36 - Wayne Li's Inbox : PC du Low-Temp Testing Lab.
+- 37 - Byron Cartwright's Inbox : PC de la Presentation Room.
+- 38 - Wayne Li's Note : Nap Room du laboratoire, apres remise du courant.
+- 39 - William Birkin's Inbox : PC du Biotesting Lab.
+- 40 - Research Diary : PC du P-4 Level Testing Lab.
+
+CLAIRE A - FICHIERS 41 A 52
+
+- 41 - Letter from Best Friend : inventaire de Claire au debut.
+- 42 - Uses of Gunpowder : West Office 1F, version Claire.
+- 43 - Raccoon Monthly, June Issue : Elevator Controls Room B1.
+- 44 - Copy of Emails to Chief Irons : Chief's Office 2F.
+- 45 - Taxidermy Log : milieu du Chief's Office 2F.
+- 46 - Repair Shop Letter : etagere de la Private Collection Room.
+- 47 - Sally's Diary : couloir devant la chambre de Sherry.
+- 48 - Tom's Diary : hall de l'orphelinat apres la descente.
+- 49 - _____'s Diary : Director's Room de l'orphelinat.
+- 50 - Letter from the Director : salle de bain de l'orphelinat 2F.
+- 51 - Report About "G" : tableau blanc du Sewers Office.
+- 52 - IMPORTANT NEST-Wide Alert : PC de la Security Room du laboratoire.
+
+SCENARIOS B - FICHIERS 53 A 58
+
+- 53 - Scrap of Paper : Watchman's Room 1F de Leon B.
+- 54 - Notebook with Missing Page : Hall 1F de Leon B.
+- 55 - Claire's Memo : S.T.A.R.S. Office 2F pendant Leon B.
+- 56 - Claire's Note : Treatment Pool Room pendant Leon B.
+- 57 - Leon's Memo : S.T.A.R.S. Office 2F pendant Claire B.
+- 58 - Leon's Note : Treatment Pool Room pendant Claire B.
+
+LISTE COMPLETE DES 15 MR. RACCOON DE LA CAMPAGNE
+
+- 01 - West Office 1F : etagere haute pres du panneau Welcome Leon. Leon ou
+  Claire A/B.
+- 02 - S.T.A.R.S. Office 2F : entre le carton et l'ecran au sud-est. Tous les
+  personnages.
+- 03 - Firing Range B1 : au sol sous une cible. Tous les personnages.
+- 04 - Break Room 1F : derriere la valise pres des lits. Leon uniquement.
+- 05 - Couloir 2F : apres la manivelle carree pour Leon, ou apres la sortie du
+  Chief's Office avec la Heart Key pour Claire.
+- 06 - Couloir derriere la Clock Tower 3F : au rebord de la fenetre au fond.
+- 07 - Sewer Entrance : apres le combat de l'egout, avant l'echelle. Leon.
+- 08 - Incinerator Room : au sol pres de la grande porte. Sequence d'Ada.
+- 09 - Lower Sewers : escalier entre Bottom Waterway et Supplies Storage.
+- 10 - Laboratory Cafeteria : table dans l'angle sombre pres de l'ecran.
+- 11 - Laboratory Nap Room : capsule au fond apres remise du courant.
+- 12 - East Storage Room 3F : petite piece derriere la porte Heart. Claire.
+- 13 - Bus derriere le commissariat : tableau de bord. Claire.
+- 14 - Orphanage Nursery 2F : etagere en face de l'entree. Claire.
+- 15 - Entree du commissariat en scenario B : buissons au depart. Leon ou
+  Claire B, selon le personnage choisi.
+
+LISTE COMPLETE DES ARMES ET DES POCHES
+
+ARMES PRINCIPALES
+
+- W-870 Shotgun : Leon, Weapons Locker du Safety Deposit Room avec la carte
+  de l'Art Room.
+- GM 79 Grenade Launcher : Claire, meme emplacement et meme carte.
+- Lightning Hawk Magnum : Leon, badge S.T.A.R.S. transforme en cle USB,
+  armurerie du S.T.A.R.S. Office.
+- MQ 11 Submachine Gun : Claire, badge S.T.A.R.S. transforme en cle USB,
+  armurerie du S.T.A.R.S. Office.
+- JMB Hp3 Laser Sight Pistol : Claire, coffre de voiture du Parking Garage,
+  ouvert avec la cle de voiture de la Firing Range.
+- Chemical Flamethrower : Leon, armurerie des Supplies Storage avec les prises
+  Reine et Roi.
+- Spark Shot : Claire, meme armurerie des Supplies Storage.
+- Anti-tank Rocket : Leon, recompense narrative de la derniere sequence.
+- Minigun : Claire, recompense narrative de la derniere sequence.
+- M19 Pistol : Leon B, Guardroom du depart.
+- Quickdraw Army Revolver : Claire B, Guardroom du depart.
+
+POCHES D'INVENTAIRE
+
+- 01 - West Storage Room 3F : table face a la barricade explosive.
+- 02 - Safety Deposit Room 1F : casier 203, apres les deux pieces des coffres
+  portables.
+- 03 - West Office 1F : dans le coffre 9-15-7.
+- 04 - Operators Room de la section souterraine : casier a droite de la
+  machine a ecrire.
+- 05 - Workroom Upper des egouts : monte par l'ascenseur ouvert avec la
+  poignee en T depuis le Bottom Waterway.
+- 06 - Nap Room du laboratoire : remets le courant avec le signal modulator,
+  puis ouvre la capsule correspondante.
+- La sixieme poche valide A Waist of Space. Les poches peuvent etre prises
+  dans une seule route de nettoyage Leon A.
+
+FILMS ET SECRETS OPTIONNELS
+
+- Commemorative Photo : casier 106 de la salle des consignes ; developpe-la
+  dans le Dark Room pour retrouver la combinaison livre/statue de l'Art Room.
+- 3F Locker Photo : petit bureau du Firing Range apres la cle Diamond ;
+  developpe-la pour obtenir DCM.
+- Hiding Place : Workroom Upper des egouts ; developpe-la puis fouille le
+  bureau du S.T.A.R.S. Office et le tiroir de la Press Room.
+- Photo secrete de Wesker : inspecte son bureau du S.T.A.R.S. Office de
+  nombreuses fois apres avoir vide le tiroir. Elle sert a un record optionnel,
+  pas a un succes Steam.
+- Developper tous les films compte pour les records de collection du jeu, mais
+  seuls les deux objets Hiding Place sont necessaires a Treasure Hunter.
+
+RANGS S, S+ ET DIFFICULTES
+
+LIMITES DE TEMPS
+
+- Standard A : moins de 3 h 30.
+- Standard B : moins de 3 h 00.
+- Hardcore A : moins de 2 h 30.
+- Hardcore B : moins de 2 h 00.
+- La pause et les menus ne consomment pas le temps de resultat, mais les
+  rechargements de checkpoint apres une mort peuvent ajouter du temps. Recharge
+  une sauvegarde manuelle quand une tentative est ratee.
+- Le nombre de sauvegardes ne penalise pas le rang S simple. Le rang S+ impose
+  au maximum trois sauvegardes.
+
+PREPARATION D'UNE ROUTE S+
+
+- Fais d'abord les quatre scenarios en Standard pour memoriser les raccourcis,
+  les emplacements d'objets et les solutions B.
+- Apprends les combats obligatoires ; la plupart des ennemis ordinaires se
+  contournent. Tire seulement quand l'ennemi bloque un couloir ou un bouton.
+- Porte une arme de defense pour les passages serres, une arme lourde pour les
+  combats obligatoires et assez de soin pour ne pas perdre une tentative.
+- Ne prends pas les fichiers, les Raccoon, les films, les upgrades ni les
+  coffres optionnels pendant le S+ sauf si le detour est sur la route.
+- Ne prends pas d'arme infinie. Le couteau infini est l'exception autorisee
+  par le classement S+ ; les autres armes bonus sont a laisser dans la malle.
+- Sauvegarde trois fois : une avant le premier combat majeur, une avant la
+  section des egouts et une avant la seconde moitie du laboratoire. Adapte les
+  emplacements si ta route personnelle est plus sure.
+- Si une section prend trop de temps, abandonne la tentative et recommence
+  depuis la derniere sauvegarde au lieu de finir une run deja hors limite.
+
+ROUTE S+ PRATIQUE
+
+- Debut : traverse le prologue, recupere uniquement les objets obligatoires et
+  rejoins le commissariat sans vider les salles.
+- RPD : prends les trois medaillons, la cle de zone, les deux pieces du panneau
+  et la carte de parking. Utilise directement les codes de cette fiche.
+- Parking : prends uniquement les objets qui ouvrent le retour et le combat
+  obligatoire, puis rejoins la zone suivante.
+- Egouts : prends Reine, Roi et Tour, ouvre l'armurerie si elle est sur la
+  ligne directe, resols le panneau et prends le telepherique.
+- Laboratoire : utilise les codes 3123/2067 ou 2048/5831, fais le melange sans
+  essai inutile, active les frequences et termine.
+- Les scenes de fin ne consomment pas la marge de temps comme une exploration.
+  Conserve toutefois une marge d'au moins dix minutes pour les erreurs.
+
+FRUGALIST - SANS SOIN
+
+- N'utilise aucune herbe, aucun spray, aucun objet de recuperation et ne
+  combine pas une herbe par reflexe.
+- Les soins ramasses mais jamais utilises ne bloquent pas le succes ; pour
+  simplifier, laisse-les dans l'environnement.
+- Fais une route Standard/Assisted dediee apres avoir debloque les armes bonus.
+  Une arme infinie rend les combats plus courts, mais ne remplace pas les
+  esquives dans les couloirs.
+- La jauge Danger n'est pas un echec : le succes verifie l'utilisation d'un
+  soin, pas l'etat final de la jauge.
+
+MINIMALIST - SANS MALLE
+
+- N'ouvre jamais une malle d'objets, meme pour deposer une cle inutile.
+- Utilise la touche de suppression de l'inventaire uniquement apres la coche
+  d'objet inutile, sans passer par la malle.
+- Garde une place pour chaque objet obligatoire. Les codes, les prises et les
+  panneaux decrit ici limitent le nombre d'allers-retours.
+- Cette contrainte est ideale en scenario B : la route est plus courte, mais
+  fais-la seulement apres avoir memorise les zones et les objets.
+
+A SMALL CARBON FOOTPRINT - 14 000 PAS OU MOINS
+
+- Utilise le compteur Records, pas une estimation personnelle.
+- Choisis une 2e run, car l'ouverture est plus courte. Evite les detours de
+  collection et ne reviens pas dans une salle deja bleue.
+- Ne tourne pas sur place devant une porte : ouvre la carte, marque la salle
+  suivante et cours en ligne directe.
+- Les pauses, les menus et les cinematiques ne sont pas des pas ; les demi-
+  tours inutiles, eux, comptent.
+- La run combinee Frugalist + Minimalist + 14 000 pas est possible avec une
+  arme bonus, mais une run pas dediee reste la methode la plus fiable.
+- A la fin, verifie le Record avant l'ecran de resultat. Si tu depasses 14 000,
+  recharge la sauvegarde de depart de la run dediee.
+
+MODES BONUS - 4TH SURVIVOR ET TOFU
+
+4TH SURVIVOR / GRIM REAPER
+
+- Termine un scenario B pour debloquer 4th Survivor si le mode n'est pas
+  encore present dans le menu.
+- HUNK commence dans les egouts avec un inventaire impose. La route va des
+  egouts vers le parking, le Jail, les couloirs du commissariat, puis la sortie.
+- Ne tue pas les zombies ordinaires si une esquive est possible. Les munitions
+  lourdes servent aux Lickers, aux groupes et aux ennemis qui ferment une porte.
+- Utilise les grenades flash pour traverser les couloirs a plusieurs menaces,
+  les grenades explosives pour les groupes et le fusil sur les cibles isolees.
+- Garde au moins une arme de defense pour les portes et un soin pour la fin.
+- Memorise les trois points de sauvegarde visuels : depart des egouts,
+  passage du parking et retour au commissariat. Il n'y a pas de sauvegarde dans
+  le mode, mais ces reperes organisent la repetition.
+- Termine le parcours pour Grim Reaper. Le temps n'est pas la condition de ce
+  succes : la sortie validee est l'objectif.
+
+TOFU SURVIVOR
+
+- Termine 4th Survivor pour debloquer Tofu.
+- Termine Tofu puis les variantes Konjac, Uiro-Mochi et Flan si tu veux tous
+  les Records du jeu. Leurs inventaires differents imposent des routes et des
+  combats plus economes, mais aucun ne rajoute de succes Steam.
+- Pour Tofu, cours devant les zombies et garde les objets de defense pour les
+  pinces dans les couloirs et les portes etroites.
+
+GHOST SURVIVORS - LES QUATRE SCENARIOS
+
+- No Time to Mourn : route du magasin d'armes vers les egouts. Les objets
+  aleatoires et les distributeurs changent la route de combat, pas la position
+  du Raccoon de la liste.
+- Runaway : route de l'exterieur vers le commissariat et le Jail.
+- Forgotten Soldier : route souterraine vers le laboratoire.
+- No Way Out : scenario de survie dans la station-service, obligatoire pour
+  Hell of a Sheriff.
+- Les dix Raccoon Ghost sont enregistres au moment du tir. Ecoute le bruit
+  mecanique et verifie le compteur avant de quitter chaque zone.
+
+LISTE COMPLETE DES 10 MR. RACCOON GHOST SURVIVORS
+
+- 01 - No Time to Mourn, Gun Shop : etagere haute dans le fond a droite.
+- 02 - No Time to Mourn, Machine Area : sur la machinerie centrale pendant la
+  traversee des passerelles.
+- 03 - No Time to Mourn, Upper Waterway : reviens a l'impasse de la glissade
+  d'origine et vise le tonneau en hauteur.
+- 04 - No Time to Mourn, passage apres l'Ivy : au fond d'un conduit apres la
+  plante.
+- 05 - Runaway, Basketball Court : sur les bancs rouges au fond.
+- 06 - Runaway, rue devant le RPD : dans l'ambulance ouverte.
+- 07 - Runaway, Jail : ouvre le passage lateral des cellules et vise la
+  cellule centrale.
+- 08 - Forgotten Soldier, apres l'ascenseur : regarde sous les poutres de la
+  passerelle, juste avant de poursuivre.
+- 09 - Forgotten Soldier, NEST Lobby : sur le bureau de la Security Room.
+- 10 - No Way Out, station-service : apres l'ouverture de la porte arriere,
+  dans le couloir du fond.
+- Les positions 1 a 4 sont toutes dans No Time to Mourn, 5 a 7 dans Runaway,
+  8 et 9 dans Forgotten Soldier et 10 dans No Way Out.
+- Le dixieme tir debloque Got 'Em si les neuf autres ont ete detruits.
+
+NO WAY OUT - HELL OF A SHERIFF
+
+- Lance No Way Out depuis Ghost Survivors et memorise la station-service avant
+  de chercher le succes. Le mode demande de survivre a une serie de vagues,
+  pas d'explorer une campagne classique.
+- Au debut, economise le pistolet pour les cibles seules et conserve les armes
+  de defense pour les portes ou les attroupements.
+- Cherche les caisses de ressources dans les pieces laterales uniquement quand
+  la zone est libre. Ne reste pas bloque dans une salle sans sortie.
+- Garde les grenades flash pour les groupes rapides et les grenades explosives
+  pour les vagues compactes. Les munitions de pistolet servent a finir une
+  cible deja affaiblie.
+- Le Mr. Raccoon 10 est dans le couloir arriere apres l'ouverture de la porte.
+  Tire-le pendant une fenetre de respiration, puis reprends la survie.
+- Termine le scenario pour Hell of a Sheriff. Le succes ne demande pas le
+  Raccoon si tu l'as deja pris sur une autre tentative.
+
+CHECKLIST FINALE - 44 SUCCES STEAM
+
+[ ] 01 - Welcome to the City of the Dead — atteint le commissariat.
+[ ] 02 - The Basics of Survival — combine deux objets.
+[ ] 03 - Eat This! — contre-attaque avec une arme de defense.
+[ ] 04 - Hip to Add Squares — augmente l'inventaire pour la premiere fois.
+[ ] 05 - That'll Hold 'Em — barricade une fenetre avec une planche.
+[ ] 06 - First Break-In — ouvre un coffre a combinaison.
+[ ] 07 - Customizer — installe une piece d'arme.
+[ ] 08 - A Vault-like Mind — ouvre un coffre portable.
+[ ] 09 - Path to the Goddess — ouvre le passage avec les trois medaillons.
+[ ] 10 - Vermin Extermination — detruit un Mr. Raccoon.
+[ ] 11 - Never-Ending Rain — termine la premiere grande section.
+[ ] 12 - Don't Need No Stinkin' Gun — tue un ennemi au couteau.
+[ ] 13 - Bon Appetit! — tire sur une grenade dans la bouche d'un ennemi.
+[ ] 14 - Hats Off! — fait tomber le couvre-chef du poursuivant.
+[ ] 15 - A Great Need for a Shower — atteint le laboratoire.
+[ ] 16 - Keep Their Heads Ringin' — etourdit un Licker avec une flashbang.
+[ ] 17 - Hack Complete — termine le piratage d'Ada.
+[ ] 18 - Like Skeet Shooting — abat un chien ou un Licker en plein vol.
+[ ] 19 - A Hero Emerges — termine la campagne de Leon.
+[ ] 20 - Chasing Jill — lit la lettre de Jill chez Kendo.
+[ ] 21 - A Waist of Space — obtient les six poches d'inventaire.
+[ ] 22 - Hide and Seek — termine la sequence de Sherry.
+[ ] 23 - Master of Unlocking — ouvre les huit serrures fixes.
+[ ] 24 - A Heroine Emerges — termine la campagne de Claire.
+[ ] 25 - In the Blink of an Eye — valide le combat chronometre de campagne.
+[ ] 26 - Zombie Roundup — tue trois ennemis avec une arme de defense.
+[ ] 27 - Broken Umbrella — termine un scenario B.
+[ ] 28 - Gotcha! — valide l'objectif de progression de campagne.
+[ ] 29 - With Time to Spare — termine l'objectif de fin dans le temps.
+[ ] 30 - Treasure Hunter — trouve les deux objets du film Hiding Place.
+[ ] 31 - Hardcore Rookie — termine Leon en mode Hardcore.
+[ ] 32 - Leon "S." Kennedy — termine Leon avec le rang S.
+[ ] 33 - Sizzling Scarlet Hero — termine Claire avec le rang S.
+[ ] 34 - Hardcore College Student — termine Claire en mode Hardcore.
+[ ] 35 - Frugalist — termine une campagne sans utiliser de soin.
+[ ] 36 - Grim Reaper — termine le mode 4th Survivor.
+[ ] 37 - A Small Carbon Footprint — termine avec 14 000 pas ou moins.
+[ ] 38 - Young Escapee — termine la fuite de Sherry.
+[ ] 39 - One Slick Super-spy — termine la sequence d'Ada.
+[ ] 40 - Complete Vermin Extermination — detruit les 15 Raccoon de campagne.
+[ ] 41 - Hell of a Sheriff — termine No Way Out.
+[ ] 42 - Minimalist — termine sans ouvrir de malle d'objets.
+[ ] 43 - Lore Explorer — lis les 58 fichiers.
+[ ] 44 - Got 'Em — detruis les dix Raccoon de Ghost Survivors.
+
+VERIFICATION FINALE AVANT DE CONSIDERER LE JEU A 100 %
+
+- Records : Lore Explorer 58/58.
+- Records : Complete Vermin Extermination 15/15.
+- Records : A Waist of Space 6/6 poches.
+- Records : Master of Unlocking 8/8 serrures.
+- Records : Got 'Em 10/10 Raccoon Ghost.
+- Succes : Leon et Claire termines, puis un scenario B termine.
+- Succes : Leon et Claire en Hardcore, S pour les deux personnages.
+- Succes : Frugalist, Minimalist et A Small Carbon Footprint.
+- Succes : 4th Survivor et No Way Out.
+- Bonus de jeu : Tofu et variantes termines si tu vises tous les Records.
+
+SOURCES DE VERIFICATION
+
+- Steam, liste officielle des succes :
+  https://steamcommunity.com/stats/883710/achievements
+- PowerPyx, collectibles et route des quatre scenarios :
+  https://www.powerpyx.com/resident-evil-2-remake-all-collectible-locations-mr-raccoons-files-inventory-upgrades-safes/
+- PowerPyx, solutions des puzzles A et B :
+  https://www.powerpyx.com/resident-evil-2-remake-all-puzzle-solutions-guide/
+- PowerPyx, coffres et serrures :
+  https://www.powerpyx.com/resident-evil-2-remake-all-safe-code-combinations-locations/
+- PowerPyx, armes :
+  https://www.powerpyx.com/resident-evil-2-remake-all-weapon-locations/
+- GamesRadar, 15 Mr. Raccoon de campagne :
+  https://www.gamesradar.com/all-the-resident-evil-2-remake-mr-raccoon-locations/
+- Gameranx, dix Mr. Raccoon Ghost Survivors :
+  https://gameranx.com/features/id/170545/article/resident-evil-2-remake-ghost-survivors-dlc-all-10-mr-raccoon-collectible-locations/
+- GamesHedge, liste des 58 fichiers :
+  https://www.gameshedge.com/resident-evil-2-remake-all-file-locations/
+- Push Square, six poches :
+  https://www.pushsquare.com/guides/resident-evil-2-all-hip-pouch-locations
+- Gameranx, films et Treasure Hunter :
+  https://gameranx.com/features/id/169106/article/resident-evil-2-remake-all-hint-film-roll-locations-treasure-hunter-guide/
+- VGC, emplacements des deux objets Hiding Place :
+  https://www.videogameschronicle.com/guide/resident-evil-2-remake-hiding-place-film-roll-photo-location-solutions/
+
+FIN DU GUIDE
