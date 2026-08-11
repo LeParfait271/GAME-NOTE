@@ -1379,3 +1379,22 @@ conditions difficiles ; elles ne justifient jamais une copie mot a mot.
   https://store.steampowered.com/app/6830/Commandos_2_Men_of_Courage/
 - Fiche Steam Commandos 3: Destination Berlin, AppID 6840, sans succes Steam :
   https://store.steampowered.com/app/6840/Commandos_3_Destination_Berlin/
+
+## HOMEFRONT, MAX PAYNE ET MORTAL KOMBAT
+
+- Succes officiels Homefront, AppID 55100, total 47 :
+  https://steamcommunity.com/stats/55100/achievements
+- Fiche Steam Homefront, campagne et 47 succes :
+  https://store.steampowered.com/app/55100/Homefront/
+- Succes officiels Max Payne 3, AppID 204100, total 67 :
+  https://steamcommunity.com/stats/204100/achievements
+- Fiche Steam Max Payne 3, campagne et multijoueur :
+  https://store.steampowered.com/app/204100/Max_Payne_3/
+- Succes officiels Mortal Kombat X, AppID 307780, total 73 :
+  https://steamcommunity.com/stats/307780/achievements
+- Fiche Steam Mortal Kombat X, Story, Tours et online :
+  https://store.steampowered.com/app/307780/Mortal_Kombat_X/
+- Fiche Steam Far Cry 2, AppID 19900, sans succes Steam :
+  https://store.steampowered.com/app/19900/Far_Cry_2/
+- Fiche Steam Half-Life, AppID 70, sans succes Steam :
+  https://store.steampowered.com/app/70/HalfLife/

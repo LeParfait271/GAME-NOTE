@@ -205,22 +205,22 @@ soluce chronologique classique n'apporterait rien.
 - Commandos 2: Men of Courage - soluce speciale publiee : AppID 6830, 0/0 succes Steam, missions et bonus
 - Commandos 3: Destination Berlin - soluce speciale publiee : AppID 6840, 0/0 succes Steam, operations et scores
 
+### FPS et combat final
+
+- Homefront - guide publie : 47/47 succes Steam, campagne, News Pickups, Guerrilla et online
+- Max Payne 3 - guide publie : 67/67 succes Steam, campagne, difficultes, collectibles et online
+- Mortal Kombat X - guide publie : 73/73 succes Steam, Story, Tours, factions et online
+- Far Cry 2 - soluce speciale publiee : AppID 19900, 0/0 succes Steam, campagne et exploration
+- Half-Life - soluce speciale publiee : AppID 70, 0/0 succes Steam, campagne classique
+
 ## Futurs guides chronologiques (`planned`)
 
 ### Final Fantasy et RPG proches
 
 - FINAL FANTASY RESONANCE — hold jusqu'à la sortie annoncée du 22 octobre 2026 ; AppID 3259780, guide et total de succès à figer après sortie
 
-### Oddworld, stratégie et jeux à campagne
-
-- Far Cry 2
-- Homefront
-- Max Payne 3 — succès online à auditer
-- Mortal Kombat X — online à séparer
-
 ## Soluces spéciales sans succès Steam à vérifier (`special`)
 
-- Half-Life — AppID 70 sans succès Steam ; guide de campagne transparent
 - Assassin's Creed — guide publié : 0/0 Steam, 420 drapeaux et 60 Templiers
 - Assassin's Creed II — guide publié : 0/0 Steam, 100 plumes et 20 glyphes
 - Assassin's Creed Brotherhood — guide publié : 0/0 Steam, 101 drapeaux et

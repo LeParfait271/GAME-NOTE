@@ -163,6 +163,11 @@
     { "id": "commandos-behind-enemy-lines", "title": "Commandos: Behind Enemy Lines", "scope": "special", "status": "draft", "file": "public/guides/commandos-behind-enemy-lines.txt", "reason": "L'AppID Steam 6800 n'expose pas de succes Steam : soluce des 20 missions et extractions." },
     { "id": "commandos-beyond-the-call-of-duty", "title": "Commandos: Beyond the Call of Duty", "scope": "special", "status": "draft", "file": "public/guides/commandos-beyond-the-call-of-duty.txt", "reason": "L'AppID Steam 6810 n'expose pas de succes Steam : soluce de la campagne additionnelle." },
     { "id": "commandos-2-men-of-courage", "title": "Commandos 2: Men of Courage", "scope": "special", "status": "draft", "file": "public/guides/commandos-2-men-of-courage.txt", "reason": "L'AppID Steam 6830 n'expose pas de succes Steam : soluce des missions, bonus et extractions." },
-    { "id": "commandos-3-destination-berlin", "title": "Commandos 3: Destination Berlin", "scope": "special", "status": "draft", "file": "public/guides/commandos-3-destination-berlin.txt", "reason": "L'AppID Steam 6840 n'expose pas de succes Steam : soluce des operations, bonus et scores." }
+    { "id": "commandos-3-destination-berlin", "title": "Commandos 3: Destination Berlin", "scope": "special", "status": "draft", "file": "public/guides/commandos-3-destination-berlin.txt", "reason": "L'AppID Steam 6840 n'expose pas de succes Steam : soluce des operations, bonus et scores." },
+    { "id": "homefront", "title": "Homefront", "scope": "full-guide", "status": "draft", "file": "public/guides/homefront.txt" },
+    { "id": "max-payne-3", "title": "Max Payne 3", "scope": "full-guide", "status": "draft", "file": "public/guides/max-payne-3.txt" },
+    { "id": "mortal-kombat-x", "title": "Mortal Kombat X", "scope": "full-guide", "status": "draft", "file": "public/guides/mortal-kombat-x.txt" },
+    { "id": "far-cry-2", "title": "Far Cry 2", "scope": "special", "status": "draft", "file": "public/guides/far-cry-2.txt", "reason": "L'AppID Steam 19900 n'expose pas de succes Steam : soluce de campagne, factions, buddies, diamants et exploration transparente." },
+    { "id": "half-life", "title": "Half-Life", "scope": "special", "status": "draft", "file": "public/guides/half-life.txt", "reason": "L'AppID Steam 70 n'expose pas de succes Steam : guide de campagne classique et exploration transparente." }
   ]
 }
