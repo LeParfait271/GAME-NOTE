@@ -2149,6 +2149,54 @@ const guides: Guide[] = [
       "A surveiller : les explosions de masse, la campagne Elite a quatre et la possession de deux jeux Nazi Zombie Army.",
     meta: ["26/26 Steam", "5 chapitres", "Coop 4 joueurs"],
   },
+  {
+    id: "the-forest",
+    steamAppId: 242760,
+    title: "The Forest",
+    eyebrow: "Endnight Games",
+    subtitle: "Survie, caves et collection dans l'ordre.",
+    count: "45 succes Steam",
+    file: "the-forest.txt",
+    accent: "gold",
+    tag: "Guide 100 % Steam",
+    description:
+      "Route des caves, passagers, cassettes, pieces de robot, artisanat et defis de survie.",
+    highlight:
+      "A surveiller : Vegan, Pacifist, Bad father, les actions de fin et les objectifs cooperatifs.",
+    meta: ["45/45 Steam", "Caves et collectibles", "Solo / Coop"],
+  },
+  {
+    id: "sons-of-the-forest",
+    steamAppId: 1326470,
+    title: "Sons Of The Forest",
+    eyebrow: "Endnight Games",
+    subtitle: "Campagne, caves et collections dans l'ordre.",
+    count: "32 succes Steam",
+    file: "sons-of-the-forest.txt",
+    accent: "blue",
+    tag: "Guide 100 % Steam",
+    description:
+      "Route des outils, bunkers, armes, blueprints, notes, compagnons et deux branches de fin.",
+    highlight:
+      "A surveiller : les NPC amicaux, les 50 notes, les blueprints, les montres et les deux fins.",
+    meta: ["32/32 Steam", "Collections", "Solo / Coop"],
+  },
+  {
+    id: "green-hell",
+    steamAppId: 815370,
+    title: "Green Hell",
+    eyebrow: "Creepy Jar",
+    subtitle: "Story, survie et Spirits of Amazonia dans l'ordre.",
+    count: "68 succes Steam",
+    file: "green-hell.txt",
+    accent: "coral",
+    tag: "Guide 100 % Steam",
+    description:
+      "Route du tutoriel, Story, cartes, maladies, difficultes, villages et contenu Spirits of Amazonia.",
+    highlight:
+      "A surveiller : les deux fins, Green Hell, Vegan, Pacifist et les compteurs de tribus.",
+    meta: ["68/68 Steam", "Story + DLC", "Sans spoiler"],
+  },
 ];
 
 const steamHeaderUrl = (appId: number) =>

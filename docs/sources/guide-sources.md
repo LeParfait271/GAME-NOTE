@@ -1274,3 +1274,24 @@ conditions difficiles ; elles ne justifient jamais une copie mot a mot.
   https://steamcommunity.com/stats/227100/achievements
 - Fiche Steam Sniper Elite: Nazi Zombie Army :
   https://store.steampowered.com/app/227100/Sniper_Elite_Nazi_Zombie_Army/
+
+## SURVIE ET EXPLORATION
+
+- Succes officiels The Forest, AppID 242760, total 45 :
+  https://steamcommunity.com/stats/242760/achievements
+- Fiche Steam The Forest, survie solo et cooperative :
+  https://store.steampowered.com/app/242760/The_Forest/
+- Liste complete The Forest, collectibles, defis et cooperative :
+  https://www.exophase.com/game/the-forest-steam/achievements/
+- Succes officiels Sons Of The Forest, AppID 1326470, total 32 :
+  https://steamcommunity.com/stats/1326470/achievements
+- Fiche Steam Sons Of The Forest, campagne et cooperative :
+  https://store.steampowered.com/app/1326470/Sons_Of_The_Forest/
+- Liste complete Sons Of The Forest, collections et fins :
+  https://www.exophase.com/game/sons-of-the-forest-steam/achievements/
+- Succes officiels Green Hell, AppID 815370, total 68 :
+  https://steamcommunity.com/stats/815370/achievements
+- Fiche Steam Green Hell, Story et contenu Spirits of Amazonia :
+  https://store.steampowered.com/app/815370/Green_Hell/
+- Liste complete Green Hell, difficultes, Story et Spirits of Amazonia :
+  https://www.exophase.com/game/green-hell-steam/achievements/

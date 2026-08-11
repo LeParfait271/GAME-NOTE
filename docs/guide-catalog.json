@@ -141,6 +141,9 @@
     { "id": "we-were-here", "title": "We Were Here", "scope": "full-guide", "status": "draft", "file": "public/guides/we-were-here.txt" },
     { "id": "lara-croft-temple-of-osiris", "title": "Lara Croft and the Temple of Osiris", "scope": "full-guide", "status": "draft", "file": "public/guides/lara-croft-temple-of-osiris.txt" },
     { "id": "overcooked-all-you-can-eat", "title": "Overcooked! All You Can Eat", "scope": "full-guide", "status": "draft", "file": "public/guides/overcooked-all-you-can-eat.txt" },
-    { "id": "sniper-elite-nazi-zombie-army", "title": "Sniper Elite: Nazi Zombie Army", "scope": "full-guide", "status": "draft", "file": "public/guides/sniper-elite-nazi-zombie-army.txt" }
+    { "id": "sniper-elite-nazi-zombie-army", "title": "Sniper Elite: Nazi Zombie Army", "scope": "full-guide", "status": "draft", "file": "public/guides/sniper-elite-nazi-zombie-army.txt" },
+    { "id": "the-forest", "title": "The Forest", "scope": "full-guide", "status": "draft", "file": "public/guides/the-forest.txt" },
+    { "id": "sons-of-the-forest", "title": "Sons Of The Forest", "scope": "full-guide", "status": "draft", "file": "public/guides/sons-of-the-forest.txt" },
+    { "id": "green-hell", "title": "Green Hell", "scope": "full-guide", "status": "draft", "file": "public/guides/green-hell.txt" }
   ]
 }

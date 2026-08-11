@@ -168,6 +168,12 @@ soluce chronologique classique n'apporterait rien.
 - Overcooked! All You Can Eat — guide publie : 42/42 succes Steam, deux campagnes, Arcade, Versus et chefs
 - Sniper Elite: Nazi Zombie Army — guide publie : 26/26 succes Steam, cinq chapitres, collectibles et Elite a quatre
 
+### Survie et exploration
+
+- The Forest — guide publie : 45/45 succes Steam, caves, collectibles, defis et coop
+- Sons Of The Forest — guide publie : 32/32 succes Steam, campagne, collections, compagnons et deux fins
+- Green Hell — guide publie : 68/68 succes Steam, Story, difficultes, carte et Spirits of Amazonia
+
 ## Futurs guides chronologiques (`planned`)
 
 ### Final Fantasy et RPG proches
@@ -184,9 +190,6 @@ soluce chronologique classique n'apporterait rien.
 
 - Lara Croft and the Temple of Osiris
 - Overcooked! All You Can Eat
-- The Forest
-- Sons Of The Forest
-- Green Hell
 - Stronghold HD
 - Stronghold 3
 - Stronghold: Crusader 2

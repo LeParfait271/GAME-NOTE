@@ -135,6 +135,9 @@
     { "id": "we-were-here", "appId": 582500, "steamAchievements": 26, "guideType": "100-steam-coop-roles-perfect-play", "source": "https://steamcommunity.com/stats/582500/achievements" },
     { "id": "lara-croft-temple-of-osiris", "appId": 289690, "steamAchievements": 40, "guideType": "100-steam-tombs-challenges-coop", "source": "https://steamcommunity.com/stats/289690/achievements" },
     { "id": "overcooked-all-you-can-eat", "appId": 1243830, "steamAchievements": 42, "guideType": "100-steam-campaigns-arcade-versus-coop", "source": "https://steamcommunity.com/stats/1243830/achievements" },
-    { "id": "sniper-elite-nazi-zombie-army", "appId": 227100, "steamAchievements": 26, "guideType": "100-steam-campaign-collectibles-coop", "source": "https://steamcommunity.com/stats/227100/achievements" }
+    { "id": "sniper-elite-nazi-zombie-army", "appId": 227100, "steamAchievements": 26, "guideType": "100-steam-campaign-collectibles-coop", "source": "https://steamcommunity.com/stats/227100/achievements" },
+    { "id": "the-forest", "appId": 242760, "steamAchievements": 45, "guideType": "100-steam-survival-collectibles-coop", "source": "https://steamcommunity.com/stats/242760/achievements" },
+    { "id": "sons-of-the-forest", "appId": 1326470, "steamAchievements": 32, "guideType": "100-steam-survival-story-collectibles-coop", "source": "https://steamcommunity.com/stats/1326470/achievements" },
+    { "id": "green-hell", "appId": 815370, "steamAchievements": 68, "guideType": "100-steam-survival-story-dlc-difficulty", "source": "https://steamcommunity.com/stats/815370/achievements" }
   ]
 }
