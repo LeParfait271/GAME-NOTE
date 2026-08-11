@@ -1,79 +1,761 @@
 GREYFOX RPG
-GUIDE 100 % STEAM - 16 SUCCES STEAM - CHRONOLOGIQUE - SANS SPOILER
+GUIDE CHRONOLOGIQUE 100 % STEAM - 16 SUCCES STEAM - FICHE PREMIUM - SANS SPOILER NARRATIF
 
 Version de travail : 11 aout 2026
+Plateforme visee : Steam - AppID 341310
+Format : aventure narrative a embranchements
 
-OBJECTIF
+======================================================================
+OBJECTIF DE COMPLETION
+======================================================================
 
-Cette route suit les histoires des habitants dans un ordre de nettoyage sûr,
-puis utilise des sauvegardes séparées pour les quatre issues mécaniques. Elle
-ne révèle aucune résolution narrative.
+Cette fiche suit Greyfox dans l'ordre des zones, des quatre histoires jouables
+et des embranchements de fin. Elle indique les interactions utiles, les objets
+a ramasser, les points de non-retour et la methode la plus courte pour obtenir
+les 16 succes Steam.
 
-GARDE-FOUS AVANT DE COMMENCER
+Le guide reste sans spoiler narratif : les noms des lieux et les actions de
+choix sont donnes comme reperes de jeu, mais les consequences de l'histoire
+ne sont pas racontees.
 
-- AppID Steam : 341310. 16 succès, aucun DLC et aucun online.
-- Fais une sauvegarde manuelle au début de chaque journée et avant toute action
-  qui change l'état d'un habitant. Conserve un fichier "sans meurtre" et un
-  fichier "nettoyage des issues".
-- Les objets de ville et les conversations sont plus importants que le combat :
-  inspecte chaque maison avant de changer de corps ou de journée.
+OBJECTIFS :
 
+- Completer les quatre histoires : Mr. Brown, Katharine, Mabel et The Nurse.
+- Faire les activites optionnelles : six nettoyages, deux vols, noix de coco,
+  the et enquete d'Esmeralda.
+- Obtenir Here Kitty~ en sauvant les 10 chats.
+- Obtenir les trois issues : Happy Ending, The Doctor et The Asylum.
+- Obtenir Saved et Heartless sur des sauvegardes separees.
+- Terminer le jeu pour Cake!.
+
+======================================================================
+COMMENT LIRE LA FICHE
+======================================================================
+
+- [ZONE] : emplacement de l'action.
+- [OBJET] : objet ou interaction a verifier avant de quitter.
+- [SUCCES] : notification attendue ; ne poursuis pas sans la voir.
+- [CHOIX] : embranchement a proteger par une sauvegarde.
+- [NETTOYAGE] : action facultative mais necessaire au 100 %.
+- □ : case interne de route ; la checklist finale reste la reference.
+- Les noms anglais sont conserves pour correspondre aux textes Steam et au
+  jeu.
+
+======================================================================
+GARDE-FOUS DE SAUVEGARDE
+======================================================================
+
+Greyfox fonctionne par journees et histoires. Une interaction avance parfois
+la sequence sans avertissement visible.
+
+Cree ces sauvegardes :
+
+- SAVE 00 - debut de la partie.
+- SAVE 01 - arrivee a Greyfox, avant les activites facultatives.
+- SAVE 02 - avant de dormir a l'auberge.
+- SAVE 03 - apres les activites de la ville, avant le premier choix du miroir.
+- SAVE BROWN - juste avant le choix de Mr. Brown.
+- SAVE KATHARINE - juste avant le choix de Katharine.
+- SAVE MABEL - juste avant le choix de Mabel et de la theiere.
+- SAVE NURSE - juste avant de servir le repas au mari.
+- SAVE ENDING - avant la derniere validation de l'issue.
+
+Regle d'or :
+
+- Une sauvegarde propre ne tue personne.
+- Une sauvegarde Heartless est une copie dediee : ne l'ecrase jamais avec la
+  sauvegarde propre.
+- Pour The Doctor, elimine au moins une cible mais pas toutes.
+- Pour The Asylum et Heartless, elimine toutes les cibles.
+- Pour Happy Ending et Saved, laisse toutes les cibles en vie.
+- Apres chaque succes, attends la notification Steam avant de sauvegarder.
+
+======================================================================
 MISSABLES ET CONDITIONS RATABLES
+======================================================================
 
-- A Dirty Job, Coco Nut!, Pickpocket, Here Kitty~ et les quatre conclusions se
-  ratent si l'on avance sans vérifier les interactions locales.
-- Pour Saved, ne tue personne sur la sauvegarde propre. Pour Heartless, utilise
-  une copie dédiée et ne la mélange pas avec Happy Ending ou The Doctor.
-- Les histoires de Mabel, de l'infirmière, de Mr. Brown et de Katharine doivent
-  être terminées avant de fermer leur dernière scène. Le guide annonce chaque
-  sauvegarde avant le point sensible.
+- A Dirty Job : nettoie les 6 dechets du Dog Park avant de dormir a l'inn.
+- Pickpocket : effectue les deux vols dans l'inn avant de quitter la zone.
+- Coco Nut! : fais tomber et mange la noix avant de lancer les histoires.
+- Scam Artist : conserve Business Card et Dog Cookie jusqu'a la rencontre du
+  Dog Park avec la dame pres de l'arbre.
+- Here Kitty~ : achete le carrier et ramasse les 10 chats avant la decision
+  de Katharine.
+- 10. Tea Bagged : ouvre la backroom du coffee shop pendant l'histoire de
+  Mabel, avant de retourner chez elle avec les indices.
+- Les quatre choix de vie ou de mort exigent des sauvegardes separees pour
+  obtenir Saved, The Doctor, Happy Ending, The Asylum et Heartless.
+- The Nurse : sauvegarde avant de preparer le repas afin de pouvoir changer
+  de branche sans reprendre toute la partie.
 
-ORDRE RECOMMANDE
+======================================================================
+TABLEAU DES 16 SUCCES
+======================================================================
 
-1. PREMIERE TOURNEE SANS MEURTRE
+1. A Dirty Job
+   Condition : nettoyer les 6 dechets du dog park avec le grabber.
 
-- Nettoie les traces dans les zones accessibles pour A Dirty Job.
-- Lance les histoires de Mabel, de l'infirmière, de Mr. Brown puis de
-  Katharine. Termine chaque étape avant de changer de journée.
-- Récupère les chats, puis fais la scène du thé pour 10. Tea Bagged.
-- Fais deux vols distincts dans la même sauvegarde prudente pour Pickpocket.
-- Fais tomber une noix de coco et ramasse-la pour Coco Nut!.
-- N'attaque aucun habitant : termine le parcours et valide Saved.
+2. Mabel
+   Condition : terminer l'histoire de Mabel.
 
-2. SAUVEGARDE DES ISSUES
+3. The Nurse
+   Condition : terminer l'histoire de la nurse.
 
-- Copie la sauvegarde après les quêtes et les objets. Utilise une copie pour
-  The Doctor, une pour Happy Ending et une pour The Asylum.
-- Sur la copie Heartless, élimine chaque cible demandée puis termine le
-  parcours. Ne réécris pas la sauvegarde sans meurtre.
-- Les noms des succès sont les seuls repères narratifs ; leurs conditions sont
-  décrites par l'action, jamais par la conséquence.
+4. Mr. Brown
+   Condition : terminer l'histoire de Mr. Brown.
 
+5. The Kat Lady
+   Condition : terminer l'histoire de Katharine.
+
+6. 10. Tea Bagged
+   Condition : declencher la scene des sachets de the dans le coffee shop.
+
+7. Pickpocket
+   Condition : realiser deux vols distincts.
+
+8. Here Kitty~
+   Condition : sauver et expedier les 10 chats de Katharine.
+
+9. Scam Artist
+   Condition : faire arreter Esmeralda.
+
+10. Coco Nut!
+    Condition : faire tomber puis manger une noix de coco.
+
+11. The Asylum
+    Condition : obtenir la mauvaise issue.
+
+12. The Doctor
+    Condition : obtenir l'issue intermediaire.
+
+13. Happy Ending
+    Condition : obtenir la bonne issue.
+
+14. Saved
+    Condition : ne tuer personne.
+
+15. Heartless
+    Condition : tuer tout le monde dans les quatre histoires.
+
+16. Cake!
+    Condition : terminer le jeu.
+
+======================================================================
+PARTIE 1 - ROAD ET ARRIVEE A GREYFOX
+======================================================================
+
+[ZONE] ROAD
+
+1. Apres la sequence d'introduction, prends le controle sur la route.
+2. La route est facultative pour les succes. Tu peux explorer les points
+   interactifs puis te diriger vers le nord-ouest.
+3. Rejoins Greyfox.
+
+[ZONE] GREYFOX - PARKING GARAGE
+
+1. Entre dans le parking garage pour garer la voiture.
+2. Avant de chercher une chambre, sauvegarde en SAVE 01.
+3. Effectue d'abord toutes les activites facultatives de la ville listées
+   ci-dessous. Les histoires commenceront ensuite dans le bon ordre.
+
+======================================================================
+PARTIE 2 - ACTIVITES DE GREYFOX AVANT LE SOMMEIL
+======================================================================
+
+[ZONE] DOG PARK
+
+Objectif : 6 dechets et un objet de nettoyage.
+
+1. A l'entree du parc, trouve le distributeur de doggie bags.
+2. Passe derriere le distributeur et prends le poop-grabber.
+3. Fais le tour complet du parc avec le grabber.
+4. Nettoie les 6 dechets, y compris ceux places sur les bords de la zone.
+5. Quand les 6 sont nettoyes, le succes doit apparaitre.
+6. Dans le coin inferieur gauche, parle a la dame du parc pour recevoir
+   l'argent de nettoyage.
+
+[SUCCES] A Dirty Job.
+
+GARDE-FOU :
+
+- Si la notification n'apparait pas, il manque un dechet.
+- Ne quitte pas la ville en pensant pouvoir recuperer le grabber plus tard.
+- Reviens a la sauvegarde SAVE 01 si le compteur semble bloque.
+
+[ZONE] PUB
+
+1. Parle a la mysterious lady en bas a droite : cette interaction prepare la
+   progression mais ne lance pas encore une histoire.
+2. Parle a la dame sur la gauche.
+3. Pour le compteur de rencontres, tu peux :
+   - tenter de prendre son sac ;
+   - ou faire le tour et parler de son mari.
+4. Monte aux toilettes.
+5. Fouille la poubelle et prends Diamond Earring.
+6. Parle au bartender pour la biere si tu veux voir l'interaction facultative.
+   Elle ne change pas la route.
+
+[ZONE] MAISON AU TOIT BRUN
+
+1. Va a l'arriere de la maison.
+2. Parle a la dame pour une rencontre supplementaire.
+3. Tu peux casser la fleur ou la laisser en place : ce choix ne change pas
+   la completion.
+
+[ZONE] INN
+
+1. Parle a la desk clerk pres de l'entree.
+2. Elle n'a pas encore de chambre disponible.
+3. Entre dans l'inn et parle a Esmeralda.
+4. Quand Esmeralda part, ramasse sa Business Card au sol.
+5. Cette carte est indispensable a Scam Artist.
+6. Dans le placard de la chambre du dormeur, vole son argent.
+7. Monte a l'etage.
+8. Dans le placard de la chambre du man in the hot tub, vole sa montre.
+
+[SUCCES] Pickpocket doit apparaitre apres les deux vols.
+
+GARDE-FOU :
+
+- Le vol de l'argent et celui de la montre comptent comme deux actes distincts.
+- Ne te limite pas a un seul vol.
+- Si tu n'obtiens pas la notification, recharge SAVE 01 ou SAVE 02.
+
+9. Parle au man in the hot tub.
+10. Il demande des grapes.
+
+[ZONE] LOWER GREYFOX - PREMIERE DESCENTE
+
+1. Parle au smoking man devant l'hopital pour une rencontre supplementaire.
+2. Approche un coconut tree.
+3. Clique sur le meme arbre environ 100 fois, jusqu'a faire tomber une noix.
+4. Ramasse la noix.
+5. Utilise-la depuis l'inventaire pour la manger.
+
+[SUCCES] Coco Nut!.
+
+6. Entre dans le grocery store.
+7. Essaye d'entrer dans les toilettes : le clerk demande une cle.
+8. Demande-lui la cle, puis entre dans les toilettes.
+9. Parle au janitor.
+10. Ces interactions ajoutent des rencontres utiles pour ouvrir la progression.
+11. Achete des grapes a la boutique.
+
+[ZONE] RETOUR A L'INN
+
+1. Retourne au pub et reparle a la mysterious lady.
+2. Retourne a l'inn.
+3. A l'etage, parle au man in the hot tub ou interagis avec le metal bowl pour
+   lui donner les grapes.
+4. Sors de l'inn et marche dans Greyfox jusqu'a l'appel de la desk clerk.
+5. Retourne a l'inn.
+6. Paie la chambre.
+7. Monte, entre dans la chambre et dors.
+
+CONTROLE AVANT LE SOMMEIL
+
+□ A Dirty Job affiche.
+□ Pickpocket affiche.
+□ Coco Nut! affiche.
+□ Business Card d'Esmeralda conservee.
+□ Diamond Earring conserve ou vendu uniquement si tu sais quelle branche tu
+  suis.
+□ SAVE 02 faite avant de dormir.
+
+======================================================================
+PARTIE 3 - PREMIER REVE ET HISTOIRE DE MR. BROWN
+======================================================================
+
+[ZONE] DREAM - PREMIER MIROIR
+
+1. Le premier reve propose quatre reactions.
+2. Pour l'ordre de cette fiche, choisis :
+   I hate it.
+3. Ce choix ouvre l'histoire de Mr. Brown.
+
+[ZONE] RETIREMENT HOME - MR. BROWN
+
+1. Explore la zone avant de retourner dans la chambre.
+2. Traverse jusqu'a la chambre de la wheelchair lady.
+3. Sur l'etagere, prends Dog Cookie.
+
+[OBJET] Dog Cookie est obligatoire pour l'enquete Esmeralda plus tard.
+
+4. Parle aux residents disponibles.
+5. Parle aux membres de la famille de Mr. Brown.
+6. Quand les interactions utiles sont faites, retourne dans la chambre.
+7. Une sequence de soin te fait perdre le controle.
+
+[ZONE] DREAM VERSION OF MR. BROWN'S ROOM
+
+1. Avance sur le chemin jusqu'a la mysterious lady.
+2. Sauvegarde en SAVE BROWN avant de lui parler si tu prevois les trois issues.
+3. Pour la premiere partie propre, choisis de laisser Mr. Brown en vie.
+
+[CHOIX] MR. BROWN
+
+- Branche propre : laisse Mr. Brown en vie.
+- Branche Heartless : elimine Mr. Brown sur la copie dediee.
+- Branche The Doctor : utilise une sauvegarde de branche et elimine Mr. Brown
+  mais laisse au moins une autre cible en vie.
+- Pour le premier parcours, choisis la branche propre afin de preparer Saved.
+
+[SUCCES] Mr. Brown apparait apres la conclusion de son histoire.
+
+[ZONE] DREAM AGAIN
+
+1. Reviens au reve principal.
+2. Le miroir propose trois reactions.
+3. Choisis :
+   I'm okay with it.
+4. Cette reponse ouvre Katharine dans l'ordre de la fiche.
+
+CONTROLE
+
+□ Dog Cookie dans l'inventaire.
+□ Mr. Brown affiche.
+□ SAVE BROWN conservee si les issues doivent etre faites.
+□ Mr. Brown laisse en vie sur le parcours propre.
+
+======================================================================
+PARTIE 4 - HISTOIRE DE KATHARINE ET LES 10 CHATS
+======================================================================
+
+[ZONE] KATHARINE'S HOUSE
+
+1. Controle la maison et compte les 10 chats.
+2. Sors rapidement de la maison.
+3. Si Katharine commence a halluciner, descends a Lower Greyfox.
+4. Entre dans la pharmacy.
+5. Prends le medicament de Katharine.
+6. Utilise-le immediatement pour arreter la sequence d'hallucination.
+7. La scene terminee, tu te retrouves a nouveau dans la maison.
+8. Sors une seconde fois.
+
+[ZONE] DOG PARK - ENQUETE ESMERALDA
+
+1. Va au Dog Park avec Dog Cookie.
+2. Repere le chien seul.
+3. Donne-lui le Dog Cookie.
+4. Le chien se deplace et ouvre le passage.
+5. Parle a la dame pres de l'arbre.
+6. Montre-lui la Business Card d'Esmeralda.
+7. Reponds qu'Esmeralda etait a l'inn.
+
+[SUCCES] Scam Artist.
+
+GARDE-FOU :
+
+- Sans Business Card, la sequence ne peut pas aboutir.
+- Sans Dog Cookie, retourne dans la sauvegarde Mr. Brown.
+- Attends la notification avant de quitter le parc.
+
+[ZONE] FUNERAL HOME
+
+1. Monte les escaliers.
+2. Parle a l'homme en haut.
+3. Ecoute sa demande concernant les chats.
+4. Les reponses de dialogue n'affectent pas la route de la fiche.
+
+[ZONE] JEWELLERY STORE
+
+1. Si tu as vole la montre et/ou possedes Diamond Earring, tu peux les vendre
+   contre de l'argent.
+2. Ne vends pas Diamond Earring si tu comptes payer le transport avec cet
+   objet et que tu n'as pas 400 dollars.
+
+[ZONE] GROCERY STORE - CAT CARRIER
+
+1. Descends a Lower Greyfox.
+2. Entre dans le grocery store.
+3. Prends le Sumo-Deluxe Cat Carrier.
+4. Paie le carrier.
+5. Retourne a Katharine's House.
+
+[ZONE] KATHARINE'S HOUSE - COLLECTE DES CHATS
+
+Objectif : 10 chats, certains dans la maison principale et d'autres dans le
+sous-sol.
+
+1. Fais le tour complet de la maison.
+2. Descends au sous-sol.
+3. Ramasse tous les chats jusqu'a ce que le compteur de collecte soit complet.
+4. Attends la notification interne avant de quitter la maison.
+
+[SUCCES] Here Kitty~ doit apparaitre lorsque les 10 chats sont sauves.
+
+[ZONE] LOWER GREYFOX - EXPEDITION
+
+1. Descends puis pars vers l'est.
+2. Parle au personnage pres du bateau.
+3. Paie 400 dollars pour expedier les chats, ou donne Diamond Earring si le
+   jeu te propose cette option.
+4. Attends la confirmation du transport.
+
+[SUCCES] The Kat Lady apparait apres la conclusion de l'histoire de Katharine.
+
+[ZONE] PIER - CHOIX DE KATHARINE
+
+1. Si tu poursuis le parcours propre, va au pier de gauche.
+2. Parle a la mysterious lady.
+3. Sauvegarde en SAVE KATHARINE.
+4. Laisse Katharine en vie pour Saved et Happy Ending.
+5. Sur une copie Heartless, elimine Katharine.
+6. Sur une copie The Doctor, tu peux eliminer Katharine en laissant au moins
+   une autre cible en vie.
+
+[ZONE] DREAM AGAIN
+
+1. Reviens au reve principal.
+2. Le miroir propose deux reactions.
+3. Choisis :
+   It's interesting.
+4. Cette reponse ouvre Mabel.
+
+CONTROLE
+
+□ Scam Artist affiche.
+□ 10/10 chats collectes.
+□ Here Kitty~ affiche.
+□ The Kat Lady affiche.
+□ SAVE KATHARINE conservee avant le choix.
+□ Katharine laisse en vie sur le parcours propre.
+
+======================================================================
+PARTIE 5 - HISTOIRE DE MABEL ET TEA BAGGED
+======================================================================
+
+[ZONE] MABEL'S HOUSE
+
+1. Controle la maison puis sors.
+2. Si l'enquete Esmeralda a ete faite, la voiture de police est visible pres
+   de l'inn : c'est un repere, pas une nouvelle collecte.
+
+[ZONE] COFFEE SHOP - BACKROOM
+
+1. Traverse jusqu'au coffee shop situe en face de la maison.
+2. Entre dans la backroom.
+3. Contourne l'etagere par l'arriere.
+4. La scene des sachets de the se declenche.
+
+[SUCCES] 10. Tea Bagged.
+
+GARDE-FOU :
+
+- L'interaction se trouve dans la backroom, pas au comptoir principal.
+- Fais-la avant de lancer les etapes de l'hopital.
+- Si la scene ne se declenche pas, recharge avant la premiere sortie de
+  Mabel's House.
+
+[ZONE] HOSPITAL - LOWER GREYFOX
+
+1. Entre dans l'hopital.
+2. Prends l'ascenseur jusqu'au deuxieme niveau.
+3. Parle a la receptionist.
+4. Va au bout du couloir.
+5. Tourne vers la chambre de Don.
+6. Parle-lui ; le choix de dialogue n'a pas d'effet sur la route.
+
+[ZONE] MABEL'S HOUSE - INDICES
+
+1. Apres la sequence de l'hopital, retourne chez Mabel.
+2. Inspecte les deux cotes de la bookshelf.
+3. Recupere la bottle of poison.
+4. Lis le diary.
+5. Ne retourne pas encore dans la maison si tu veux explorer les zones
+   secondaires ci-dessous.
+
+[ZONE] PUB ET COFFEE SHOP
+
+1. Va au pub et parle aux clients.
+2. Confirme que Don etait un habitue.
+3. Retourne au coffee shop.
+4. Parle au cashier pour le renseignement sur la teapot.
+
+[ZONE] LOWER GREYFOX - PIER ET PHARMACY
+
+1. Sur le pier pres de l'hopital, parle a la dame avec le walker.
+2. Note son nom : Agnus.
+3. Tu peux l'encourager ou non ; ce dialogue n'est pas requis pour changer
+   l'issue principale.
+4. Avant de parler au pharmacien, explore la pharmacy si tu veux voir ses
+   interactions.
+5. Donne la bottle of poison au pharmacien pour l'identifier.
+6. Apres cette identification, la pharmacy devient inaccessible : verifie
+   donc les interactions voulues avant cette etape.
+
+[ZONE] MABEL'S HOUSE - DECLENCHEMENT FINAL
+
+1. Une fois les indices controles, retourne chez Mabel.
+2. Entrer dans la maison avance la sequence.
+3. Sauvegarde en SAVE MABEL avant de faire l'interaction de la teapot.
+4. Le choix de vie ou de mort de cette histoire doit etre conserve sur les
+   copies d'issues.
+
+[CHOIX] MABEL
+
+- Branche propre : laisse Mabel en vie.
+- Branche Heartless : elimine Mabel sur la copie dediee.
+- Branche The Doctor : elimine Mabel mais conserve au moins une autre cible.
+- Pour le parcours principal, garde Mabel en vie.
+
+[SUCCES] Mabel apparait apres la conclusion de son histoire.
+
+[ZONE] DREAM AGAIN
+
+1. Le miroir ne propose plus qu'une reaction.
+2. Choisis :
+   I'm scared.
+3. Cette reponse ouvre The Nurse.
+
+CONTROLE
+
+□ 10. Tea Bagged affiche.
+□ Poison identifie.
+□ Pharmacy exploree avant l'identification si necessaire.
+□ Mabel affiche.
+□ SAVE MABEL conservee avant le choix.
+□ Mabel laisse en vie sur le parcours propre.
+
+======================================================================
+PARTIE 6 - HISTOIRE DE THE NURSE
+======================================================================
+
+[ZONE] HOSPITAL - NURSE
+
+1. Parle a toutes les personnes accessibles dans l'hopital.
+2. Continue jusqu'a ce que l'homme qui bloque la porte se deplace.
+3. Sors de l'hopital.
+
+[ZONE] HOUSE - REPAS
+
+1. Explore la maison avant de servir le repas si tu veux lire tous les
+   points interactifs.
+2. Monte dans la cuisine.
+3. Interagis avec la cuisine pour preparer le repas.
+4. Sauvegarde en SAVE NURSE avant de choisir la recette.
+
+[CHOIX] REPAS DU MARI
+
+- Branche propre : prepare un bon repas et laisse le mari en vie.
+- Branche Heartless : empoisonne le repas et elimine le mari.
+- Branche The Doctor : choisis l'option qui elimine le mari sur une copie,
+  mais conserve une autre cible en vie pour ne pas finir sur l'issue totale.
+- Pour le parcours principal, choisis le bon repas.
+
+5. Apres la preparation, il reste une courte fenetre d'exploration.
+6. Si le repas est empoisonne, attends que le mari s'effondre.
+7. Si le repas est bon, attends qu'il aille dormir.
+8. Va te coucher quand la sequence le permet.
+
+[ZONE] HOSPITAL - DREAM FINALE
+
+1. La sequence finale de l'histoire se termine automatiquement.
+2. Attends la notification de The Nurse.
+3. Ne ferme pas le jeu avant de voir le succes.
+
+[SUCCES] The Nurse.
+
+CONTROLE
+
+□ The Nurse affiche.
+□ SAVE NURSE conservee avant le repas.
+□ La branche propre laisse le mari en vie.
+□ Les quatre histoires sont maintenant terminees.
+
+======================================================================
+PARTIE 7 - LES TROIS ISSUES ET LE SUCCES CAKE!
+======================================================================
+
+[ZONE] DREAM FINALE
+
+Apres les quatre histoires, le jeu revient dans le reve principal et propose
+la resolution finale. Les noms des issues sont utilises comme reperes Steam ;
+aucun detail de recit n'est expose ici.
+
+PARCOURS PROPRE - HAPPY ENDING + SAVED
+
+1. Utilise la sauvegarde ou toutes les cibles ont ete laissees en vie :
+   Mr. Brown, Katharine, Mabel et le mari de The Nurse.
+2. Continue jusqu'a la fin.
+3. Attends les notifications.
+
+[SUCCES] Happy Ending.
+[SUCCES] Saved.
+[SUCCES] Cake!.
+
+GARDE-FOU :
+
+- Saved exige zero victime, pas seulement une majorite de personnages sauves.
+- Si tu as tue une seule cible, utilise la copie The Doctor ou recommence le
+  parcours propre.
+
+PARCOURS INTERMEDIAIRE - THE DOCTOR
+
+1. Recharge une sauvegarde avant l'un des choix de Mr. Brown, Katharine,
+   Mabel ou The Nurse.
+2. Elimine au moins une cible.
+3. Laisse au moins une autre cible en vie.
+4. Termine les histoires restantes sans modifier le resultat au point de
+   rendre toutes les cibles mortes.
+5. Continue jusqu'a la fin.
+
+[SUCCES] The Doctor.
+[SUCCES] Cake! si le jeu n'a pas deja ete termine.
+
+GARDE-FOU :
+
+- La combinaison doit etre mixte : au moins une victime et au moins une
+  personne laissee en vie.
+- Conserve SAVE ENDING avant le dernier choix afin de pouvoir verifier la
+  notification.
+
+PARCOURS TOTAL - THE ASYLUM + HEARTLESS
+
+1. Recharge une copie dediee datant d'avant le premier choix de vie ou de mort.
+2. Elimine Mr. Brown.
+3. Elimine Katharine.
+4. Elimine Mabel.
+5. Dans The Nurse, empoisonne le repas du mari.
+6. Termine la sequence finale.
+
+[SUCCES] The Asylum.
+[SUCCES] Heartless.
+[SUCCES] Cake! si le jeu n'a pas deja ete termine.
+
+IMPORTANT :
+
+- Ne remplace pas la sauvegarde propre par cette copie.
+- Si Heartless ne se debloque pas, une des quatre cibles a ete laissee en
+  vie : recharge chaque point de branche et controle les quatre choix.
+
+======================================================================
+ORDRE DE REJOUABILITE LE PLUS COURT
+======================================================================
+
+Pour obtenir les 16 succes avec un minimum de relecture :
+
+1. Partie propre :
+   - fais les activites de Greyfox ;
+   - complete Mr. Brown, Katharine, Mabel et The Nurse ;
+   - laisse tout le monde en vie ;
+   - obtiens les succes d'histoires, Here Kitty~, Scam Artist, Saved,
+     Happy Ending et Cake!.
+2. Depuis SAVE BROWN, fais une copie Heartless.
+3. Rejoue les histoires jusqu'a la fin en eliminant les quatre cibles ;
+   obtiens The Asylum et Heartless.
+4. Recharge une sauvegarde de choix anterieure ou garde une copie pendant
+   le parcours Heartless.
+5. Fais une seule branche mixte et termine le jeu ;
+   obtiens The Doctor.
+6. Verifie la checklist Steam sans effacer les copies.
+
+======================================================================
+TABLE DE DEPANNAGE
+======================================================================
+
+A DIRTY JOB ABSENT
+
+- Retourne au Dog Park avec le poop-grabber.
+- Refais le tour complet : le total est de 6 dechets.
+- La dame du parc donne l'argent mais ne remplace pas la notification Steam.
+- Recharge SAVE 01 si le sixieme dechet n'a pas ete compte.
+
+PICKPOCKET ABSENT
+
+- Vole l'argent dans le placard de la chambre du dormeur.
+- Vole la montre dans le placard de la chambre du man in the hot tub.
+- Un seul vol ne suffit pas.
+
+COCO NUT! ABSENT
+
+- Clique plusieurs dizaines de fois sur un coconut tree.
+- Ramasse la noix tombée.
+- Mange-la depuis l'inventaire ; la chute seule ne suffit pas.
+
+SCAM ARTIST ABSENT
+
+- Business Card : parle a Esmeralda dans l'inn puis ramasse la carte au sol.
+- Dog Cookie : recupere-le sur l'etagere de la wheelchair lady dans
+  l'histoire de Mr. Brown.
+- Dog Park : donne le cookie au chien, montre la carte a la dame et indique
+  que l'interessee etait a l'inn.
+
+HERE KITTY~ ABSENT
+
+- Achete Sumo-Deluxe Cat Carrier au grocery store.
+- Ramasse les 10 chats, y compris ceux du sous-sol.
+- Expedie-les ensuite depuis Lower Greyfox.
+- Garde Diamond Earring ou 400 dollars pour le paiement.
+
+10. TEA BAGGED ABSENT
+
+- La zone correcte est la backroom du coffee shop en face de Mabel's House.
+- Contourne l'etagere ; ne te contente pas de parler au cashier.
+
+HISTOIRE NON VALIDEE
+
+- Les histoires se concluent apres l'interaction avec la mysterious lady puis
+  le retour au reve.
+- Attends la notification de Mr. Brown, The Kat Lady, Mabel ou The Nurse avant
+  de continuer le miroir.
+
+THE DOCTOR ET THE ASYLUM ABSENTS
+
+- The Doctor : au moins une victime, mais pas toutes.
+- The Asylum : les quatre cibles mortes.
+- Saved : zero victime.
+- Repars d'une sauvegarde avant le premier choix si la combinaison est
+  incertaine.
+
+======================================================================
 CHECKLIST FINALE - 16/16 SUCCES STEAM
+======================================================================
 
-- [ ] A Dirty Job
-- [ ] Mabel
-- [ ] The Nurse
-- [ ] Mr. Brown
-- [ ] The Kat Lady
-- [ ] 10. Tea Bagged
-- [ ] Pickpocket
-- [ ] Here Kitty~
-- [ ] Cake!
-- [ ] Scam Artist
-- [ ] Coco Nut!
-- [ ] The Doctor
-- [ ] Happy Ending
-- [ ] Saved
-- [ ] The Asylum
-- [ ] Heartless
+- [ ] A Dirty Job - 6 dechets du Dog Park nettoyes.
+- [ ] Mabel - histoire de Mabel terminee.
+- [ ] The Nurse - histoire de The Nurse terminee.
+- [ ] Mr. Brown - histoire de Mr. Brown terminee.
+- [ ] The Kat Lady - histoire de Katharine terminee.
+- [ ] 10. Tea Bagged - scene des sachets de the declenchee.
+- [ ] Pickpocket - deux vols realises.
+- [ ] Here Kitty~ - 10 chats sauves et expedies.
+- [ ] Scam Artist - Esmeralda arretee.
+- [ ] Cake! - jeu termine.
+- [ ] Coco Nut! - noix de coco tombee puis mangee.
+- [ ] The Doctor - issue intermediaire obtenue.
+- [ ] Happy Ending - bonne issue obtenue.
+- [ ] Saved - personne n'a ete tue sur cette branche.
+- [ ] The Asylum - mauvaise issue obtenue.
+- [ ] Heartless - les quatre cibles ont ete tuees sur la copie dediee.
 
-VERIFICATION
+======================================================================
+VERIFICATION FINALE
+======================================================================
 
-- [ ] 16/16 succès Steam.
-- [ ] Quatre histoires d'habitants, chats, noix de coco, thé et vols vérifiés.
-- [ ] Sauvegardes distinctes pour Saved, The Doctor, Happy Ending, The Asylum
-      et Heartless.
-- [ ] Aucun DLC ni online.
-- [ ] Aucun détail narratif révélé.
+□ Les 16 succes sont visibles dans le profil Steam.
+□ Les 6 dechets ont ete nettoyes.
+□ Les deux vols ont ete effectues.
+□ La noix de coco a ete mangee.
+□ Business Card, Dog Cookie et Sumo-Deluxe Cat Carrier ont ete utilises.
+□ Les 10 chats ont ete sauves.
+□ Les quatre histoires sont validees.
+□ Les trois issues sont validees.
+□ Saved et Heartless ont ete obtenus sur des sauvegardes distinctes.
+□ Les sauvegardes de secours sont conservees.
+□ La route a ete relue sans spoiler narratif.
 
+======================================================================
+SOURCES DE VERIFICATION
+======================================================================
+
+- Steam Support - fiche Greyfox RPG et fonctions Steam :
+  https://help.steampowered.com/en/wizard/HelpWithGameTechnicalIssue?appid=341310
+- Steam Community - Greyfox Walkthrough, parcours des quatre histoires :
+  https://steamcommunity.com/sharedfiles/filedetails/?id=368091554
+- Steam Community - guide de la condition Scam Artist :
+  https://steamcommunity.com/app/341310/discussions/0/360670708775383983/
+- SteamDB - fiche Greyfox RPG, AppID 341310 :
+  https://steamdb.info/app/341310/stats/
+- Steam achievements mirror - conditions textuelles des 16 succes :
+  https://stmstat.com/cn/app/341310/achievements
