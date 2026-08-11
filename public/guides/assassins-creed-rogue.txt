@@ -1,199 +1,622 @@
 ASSASSIN'S CREED ROGUE
-GUIDE CHRONOLOGIQUE 100 % STEAM - SANS SPOILER
+FICHE PREMIUM 100 % STEAM - ROUTE CHRONOLOGIQUE - SANS SPOILER NARRATIF
 
-Version de travail : 10 aout 2026
+Version verifiee : 11 aout 2026
+AppID Steam : 311560
+Perimetre : 46 succes Steam, campagne, synchronisation integrale, present,
+collectibles, forts, QG, colonies, renovations, activites navales, defis
+Abstergo et succes lies aux cheats internes.
 
-Ce guide couvre les 46 succes Steam de la version PC, le scenario, les
-activites, les collectibles et les defis Abstergo. Aucun succes ne demande de
-multijoueur ou de service en ligne. La route est organisee pour finir toutes
-les missions principales avec synchronisation complete, puis nettoyer la
-carte sans retourner inutilement dans les zones deja fermees.
+Cette fiche explique quoi faire, dans quel ordre et comment verifier que c'est
+valide. Les noms de sequences, de regions, de missions et d'objets servent de
+reperes de menu ou de carte. Aucun personnage, retournement, trahison, mort,
+issue ou revelation de scenario n'est raconte.
 
-OBJECTIF
+CE QUE SIGNIFIE 100 % POUR ROGUE
 
-[ ] 46/46 succes Steam.
-[ ] Toutes les sequences principales avec synchronisation complete.
-[ ] 35 defis Abstergo et 20 ordinateurs pirates.
-[ ] Tous les forts, QG, colonies, points d'interet et renovations.
-[ ] 200 fragments d'Animus, 300 prisonniers et toutes les interceptions.
-[ ] Activites navales, batailles legendaires, convois, camps et icebergs.
+- 100 % Steam : 46 succes.
+- 100 % de campagne : sequences 1 a 6, les quatre retours au Present et la
+  derniere memoire glitchee, avec 100 % de synchronisation sur chaque mission.
+- 100 % exploration : 200 fragments d'Animus, tous les lieux visites, toutes
+  les renovations, tous les forts, tous les QG de gang, toutes les colonies,
+  toutes les collines natives et grottes de glace, les cartes templaires et
+  l'armure, les ordinateurs et les defis utiles.
+- 100 % activites : interceptions d'assassins, campagne navale, convois,
+  camps de ravitaillement, prisonniers, icebergs, batailles legendaires et
+  compteurs de combat.
+- Le jeu affiche 70 defis Abstergo. Le succes en demande 35, mais les cheats
+  necessaires aux quatre succes speciaux exigent de continuer jusqu'a ce que
+  les cheats Endurance, Hunted et Veterans soient disponibles.
 
-GARDE-FOUS
+ORDRE GENERAL RECOMMANDE
 
-- Les defis Abstergo sont le vrai registre du 100 %. Ouvre le menu des defis
-  apres chaque sequence et note ceux qui avancent ; ils servent aussi de
-  check-list pour les activites de carte.
-- Les 20 ordinateurs peuvent etre pirates des que le niveau de securite 3 est
-  accessible. Si une salle est fermee pendant l'histoire, reporte-la au
-  nettoyage : ne force pas le trajet principal pour une collecte.
-- Fais une sauvegarde avant chaque fort, QG et bataille legendaire. Pour
-  Achieve full synchronization, une mission avec une contrainte ratee doit
-  etre relancee depuis le menu de sequence.
-- Les cheats des defis ne sont pas neutres : utilise-les seulement a la fin,
-  apres la synchronisation et les succes d'activites. Garde une sauvegarde
-  propre avant toute activation.
-- Les noms de personnages, de lieux et de missions ne servent ici qu'a
-  naviguer. Le guide ne donne aucune mort, identite, trahison, fin ou
-  revelation narrative.
+1. Prologue et Present 1 : apprendre les commandes, reparer les ordinateurs
+   disponibles et prendre les premiers collectibles sans detour inutile.
+2. Sequences 1 et 2 : suivre la campagne, faire les contraintes de
+   synchronisation affichees, lancer les premieres renovations et activites.
+3. Sequence 3 : des que le lance-grenades, le masque et les outils d'infiltration
+   sont disponibles, commencer le nettoyage serieux de la carte et les
+   objectifs de combat.
+4. Sequences 4 et 5 : controler les quadrants par les forts et QG, terminer les
+   activites de chaque region, reparer les ordinateurs accessibles au Present.
+5. Sequence 6 et memoire glitchee : finir toutes les missions avec leurs
+   contraintes, puis conserver une sauvegarde de fin propre.
+6. Nettoyage carte : fragments, cartes templaires, piliers natifs, lieux,
+   renovations, colonies, forts, QG, interceptions et activites navales.
+7. Nettoyage combat et cheats : faire les compteurs ordinaires, puis activer un
+   seul cheat a la fois pour les quatre succes concernes.
 
-ORDRE DE CAMPAGNE ET DE NETTOYAGE
+GARDE-FOUS DE SAUVEGARDE
 
-1. Prologue et Sequence 1 : apprends les outils, fais les contraintes de
-   synchronisation visibles et prends les premiers fragments accessibles.
-2. Sequence 2 : termine les missions principales avec toutes les contraintes.
-   Entre les missions, vide les activites proches de la zone courante et
-   ameliore le navire uniquement avec les ressources disponibles.
-3. Sequence 3 : ouvre les premiers forts et QG. Capture chaque QG rencontre,
-   puis verifie les cartes et les defis avant de changer de region.
-4. Sequence 4 : avance dans les zones du nord, pirate les ordinateurs quand
-   la securite le permet et complete les chasses, camps et interceptions.
-5. Sequence 5 : continue l'histoire et les renovations. Ne depense pas une
-   ressource rare si une amelioration navale est encore demandee par un defi.
-6. Sequence 6 : termine les missions avec synchronisation complete, les
-   activites navales de la zone et les fragments accessibles.
-7. Sequence 7 : fais d'abord les missions et leur synchronisation, puis
-   nettoie les regions restantes avant de lancer la suite.
-8. Sequence 8 et final : termine la campagne, conserve la sauvegarde de
-   clear, puis passe au nettoyage de carte et aux succes de combat.
+- Avant chaque mission principale, lis toutes les contraintes de synchronisation
+  dans le menu. Une contrainte ratee peut etre refaite en rejouant la memoire,
+  mais il faut souvent reprendre toute la mission depuis le debut.
+- Une mission peut demander deux passages pour obtenir 100 %. C'est normal :
+  valide une contrainte a la fois, puis verifie la barre de synchronisation.
+- Un fort ou un QG controle un quadrant et revele les lieux, fragments et
+  activites autour. Ne considere jamais un lieu revele comme un lieu visite :
+  l'icone doit devenir blanche apres une entree reelle.
+- Les fragments d'Animus, les cartes, les piliers et les ordinateurs sont des
+  compteurs persistants. Note le compteur dans le menu, pas seulement ce que tu
+  crois avoir ramasse.
+- Une sauvegarde sans cheat doit etre gardee jusqu'a la fin. Les cheats
+  ordinaires desactivent la plupart des succes ; les quatre succes speciaux
+  doivent etre faits dans une sauvegarde dediee avec le cheat exige.
+- Pour les combats navals sans mort, ne force jamais un duel apres une collision
+  critique. Recharge avant de confirmer la mort si tu veux garder le compteur.
+- Aucun mod, editeur de sauvegarde ou outil tiers n'est necessaire pour le 100 %.
 
 MISSABLES ET FENETRES A SECURISER
 
-- Les contraintes de synchronisation sont les missables de chaque mission :
-  lis-les avant le lancement et rejoue la sequence si une case est ratee.
-- Les ordinateurs sont temporairement bloques avant la securite 3, et les
-  activites de region peuvent etre faites plus tard. Ne supprime pas la
-  sauvegarde avant d'avoir confirme les 35 defis Abstergo.
-- Les compteurs navals, prisonniers, fragments, camps et convois ne sont pas
-  definitivement missables ; garde toutefois un tableau par region pour ne
-  pas confondre visite et validation.
+- Les objectifs de synchronisation sont les seuls vrais missables de chaque
+  memoire : lis-les avant le lancement et rejoue la mission si une case reste
+  rouge. La campagne reste rejouable, mais la perte de temps est importante.
+- Le Present revient plusieurs fois avec des ordinateurs supplementaires. Les
+  20 ordinateurs ne sont accessibles qu'avec le niveau de securite suffisant ;
+  garde le nettoyage final pour le niveau 3 si une porte reste fermee.
+- Les succes au cheat ont une fenetre volontaire : active uniquement ENDURANCE,
+  HUNTED ou VETERANS selon la fiche, et desactive les autres cheats.
+- Gutsy est plus simple avant de trop monter de niveau, mais n'est pas bloque.
+  Les convois, camps, prisonniers, fragments et activites restent nettoyables.
+- Pour Owned, choisis une petite ile accessible tot et vide absolument toutes
+  ses icones avant de repartir ; cela evite de chercher une activite manquante
+  dans une grande region.
 
-SEQUENCES : SYNCHRONISATION COMPLETE
+PARTIE 1 - PROLOGUE, PRESENT ET SEQUENCE 1
 
-- A chaque debut de sequence, lis les contraintes avant de lancer la mission.
-  Les contraintes de combat, d'infiltration et de navigation sont plus simples
-  quand l'equipement n'a pas encore ete change par le nettoyage libre.
-- Pour Did I do that?, Halcyon days, Defence First, The end of youth et He’s
-  not dead, is he?, laisse les objectifs specifiques se valider pendant les
-  missions indiquees, puis reviens aux activites.
-- Pour Making new friends, Ice Breaker, Picking teams et A worthy cause,
-  termine les missions de la sequence et confirme la notification avant de
-  continuer. Ce sont des succes de progression, pas des collectibles.
-- One legend dies, and one is born, Brotherhood broken et Sending a message
-  se valident dans la progression principale. Ne recommence pas une sequence
-  uniquement parce qu'un succes a un nom narratif : le guide n'en explique
-  pas le contexte.
-- Apres chaque sequence, ouvre le menu Synchronisation et verifie que toutes
-  les cases sont vertes. Si une case manque, utilise la rejouabilite de la
-  sequence avant de poursuivre.
+PROLOGUE ET PRESENT 1
 
-COLLECTIBLES ET ACTIVITES PAR REGION
+- Suis le parcours d'introduction jusqu'au retour au Present. Termine Present 1
+  pour Did I do that?.
+- Dans le batiment d'Abstergo, ouvre la tablette et repere les ordinateurs
+  accessibles. Chaque ordinateur est un puzzle de rayons : aligne les anneaux
+  lumineux sur le noyau central, en commencant par les anneaux qui reflechissent,
+  refractent ou traversent la lumiere.
+- Repare tout ordinateur visible avant de retourner dans l'Animus, mais ne bloque
+  pas la campagne pour ceux signales par une porte de securite.
+- Observe le menu des defis Abstergo apres chaque passage au Present. Les
+  compteurs de fragments, lieux, combats et activites y sont fiables.
 
-Region 1 - zone de depart
+SEQUENCE 1
 
-- Ramasse les fragments d'Animus visibles, libere les prisonniers et termine
-  les premiers points d'interet. Fais les renovations accessibles avant le
-  depart suivant.
-- Ouvre la carte apres chaque point d'observation et marque les icones encore
-  grises. Les fragments et prisonniers ne reapparaissent pas : compte-les
-  dans le registre, pas seulement avec le HUD.
+- Termine toutes les missions de la sequence dans l'ordre du menu.
+- Avant chaque mission, memorise les contraintes de synchronisation et garde
+  une sauvegarde au debut de la memoire.
+- Entre deux missions, ramasse les fragments et ouvre les coffres de la zone
+  courante seulement si l'icone est deja visible. La priorite reste la mission
+  et ses contraintes.
+- Pour Halcyon days, termine la sequence 1. Le succes est automatique a la
+  validation de la derniere memoire.
+- Apres le retour au Present, repare les ordinateurs disponibles et verifie que
+  Did I do that? est apparu.
 
-Region 2 - premiers forts et QG
+SEQUENCE 2 - DEBUT DE L'EXPLORATION NAVALE
 
-- Capture tous les QG de gang des qu'ils sont disponibles. Un QG doit etre
-  libere, pas seulement visite, pour Capture all Gang HQs.
-- Termine les forts, colonies et renovations de la zone. Pour Freedom Fighter
-  et For the Empire!, verifie le compteur apres la derniere liberation.
-- Commence les assassin interceptions. Intercepte la cible, ramasse la
-  preuve et confirme la fin de l'activite avant de quitter la zone.
+- Termine la sequence avec 100 % de synchronisation mission par mission.
+- Ameliore le Morrigan avec les ressources disponibles, en priorite coque,
+  canons et belier. Ne depense pas tous les lingots si une amelioration demandee
+  par le menu du navire est encore bloquee.
+- Profite des trajets pour casser les premiers icebergs et traverser des nappes
+  de glace. Ice Breaker demande 500 metres cumules ; Smashing demandera 100
+  icebergs detruits, donc ne les evite pas systematiquement.
+- The end of youth tombe a la fin de la sequence 2.
+- Au retour au Present, termine Present 2 pour He's not dead, is he?. Repare les
+  nouveaux ordinateurs puis retourne dans l'Animus.
 
-Regions du Nord-Atlantique
+PARTIE 2 - SEQUENCE 3 ET DEVERROUILLAGE DU NETTOYAGE
 
-- Fais les points de carte, les voyages rapides, les icebergs, les camps de
-  ravitaillement et les convois. Les 100 icebergs et 20 convois sont des
-  compteurs cumulatifs : ils n'ont pas besoin d'etre faits dans une region
-  precise.
-- Termine les 17 missions de campagne navale avant les batailles legendaires.
-  Ameliore le Morrigan avec la coque, les canons, le belier et les mortiers
-  avant de tenter les combats optionnels.
-- Pour Master of the North Atlantic, ne quitte pas une zone tant que la carte
-  indique encore un fort, QG, colonie, camp ou activite non terminee.
+SEQUENCE 3
 
-SEQUENCE DE NETTOYAGE FINAL
+- Termine les missions avec leurs contraintes. Cette sequence ouvre les outils
+  qui rendent le nettoyage efficace : lance-grenades, grenades de sommeil,
+  grenades berserk, masque a gaz et nouvelles options navales.
+- A partir de maintenant, capture chaque fort ou QG de gang rencontre avant de
+  nettoyer son quadrant. Le controle revele les lieux et les collectibles.
+- Fais les premiers essais de contre-tue sur les Stalkers. Une contre-tuerie
+  est l'animation de parade suivie de l'attaque, pas une simple elimination.
+- Pour Do not want, attends une grenade fumigene d'un assassin agile, equipe le
+  masque a gaz et contre-la. Le compteur demande 20 contres reussis.
+- Pour Instant Vikings et Nap Time, attends d'avoir au moins cinq ennemis
+  regroupes. Fais les deux succes dans une zone de patrouille avec un groupe
+  compact et une sauvegarde avant le tir.
+- Making new friends tombe en terminant la sequence 3.
 
-1. Pirates les 20 ordinateurs Abstergo apres avoir atteint la securite 3.
-   Fais-les dans une seule boucle par region ; ils sont a l'interieur de
-   batiments et ne sont pas tous marques par une icone classique.
-2. Termine les 35 defis Abstergo. Certains progres sont cumulatifs et peuvent
-   etre finis avec les gardes ou les navires restants ; ne supprime pas la
-   sauvegarde avant l'affichage du succes.
-3. Verifie les 300 prisonniers, les fragments, les interceptions, les camps,
-   les forts et les QG. Puis termine les renovations et Property Tycoon.
-4. Fais les combats et compteurs : Stalker killer, Smashing, Camper, Hunt the
-   hunted, I ENDURE, Killing machine, Denied et What’s yours is mine.
-5. Fais Unicorn Slayer, Ancient Hero, Globe Trotter, Repairman et Cartographer
-   si la carte ou les defis les indiquent encore.
+PRESENT 3
 
-SUCCES SPECIFIQUES
+- Termine A worthy cause au retour au Present.
+- Repare tous les ordinateurs dont le niveau de securite est maintenant accepte.
+- Si un ordinateur n'apparait pas, approche-toi avec la tablette ouverte et
+  verifie l'icone : un appareil deja repare ne revient pas, un appareil bloque
+  est une question de securite, pas un bug.
 
-- Halcyon days : termine le succes lie a la periode indiquee dans la mission
-  prevue ; il tombe pendant la progression, sans detour de carte.
-- Phantom Queen : utilise le navire et sa configuration demandee dans le
-  defi naval. Fais une sauvegarde juste avant la bataille.
-- I’ll take that : reprends une arme ou un objet ennemi selon la consigne du
-  succes, puis laisse la notification apparaitre avant de changer d'arme.
-- Ninja : reussis une sequence d'infiltration sans alerte ; une mission
-  rejouable avec peu de gardes est plus sure qu'un fort deja alerte.
-- Do not want : valide l'action demandee avec une cible ou un objet de la
-  zone, puis recharge si tu veux conserver une route de nettoyage propre.
-- This war of mine : gagne une activite navale avec la contrainte demandee.
-- Knight of Yore et Instant Vikings : utilise les armes / executions indiquees
-  sur des ennemis faibles dans une zone controlee.
-- Nap Time : neutralise la cible avec le type de fleche demande et attends la
-  notification avant de la deplacer.
-- What’s yours is mine et Supplier : termine les activites de ravitaillement
-  et les prises de ressources, puis verifie les compteurs Abstergo.
+PARTIE 3 - NETTOYAGE CHRONOLOGIQUE PAR REGIONS
 
-CHEATS ET SUCCES A FAIRE EN DERNIER
+METHODE DE CHAQUE QUADRANT
 
-- Ne lance aucun cheat avant d'avoir fini les 35 defis, la synchronisation et
-  les compteurs cumulatifs. Les cheats peuvent interrompre la validation de
-  plusieurs succes ordinaires.
-- Fais d'abord les succes qui demandent une action avec un cheat specifique,
-  si la liste Steam les laisse encore apparaitre, puis desactive tout et
-  recharge la sauvegarde propre.
-- Le nettoyage final doit toujours se faire sur une sauvegarde sans cheat.
+1. Synchronise le point d'observation.
+2. Capture le fort ou le QG qui controle le quadrant.
+3. Ouvre la carte et entre dans chaque lieu revele jusqu'a ce que son icone
+   devienne blanche.
+4. Dans chaque lieu, termine les fragments d'Animus, coffres, cartes, piliers,
+   activites, prisonniers et renovations visibles.
+5. Note les compteurs dans le menu Abstergo et dans la feuille de suivi ci-dessous.
+6. Repars seulement quand le lieu courant est complet ; les gros objectifs
+   cumulatifs peuvent continuer dans la region suivante.
 
-LISTE OFFICIELLE DES 46 SUCCES - CHECK FINAL
+NEW YORK
 
-[ ] Did I do that?  [ ] Halcyon days  [ ] Defence First
-[ ] The end of youth  [ ] He’s not dead, is he?  [ ] Making new friends
-[ ] Ice Breaker  [ ] Picking teams  [ ] A worthy cause
-[ ] One legend dies, and one is born  [ ] Owned  [ ] Brotherhood broken
-[ ] Sending a message  [ ] No page unturned  [ ] Templar then; Templar now
-[ ] Dedicated Employee  [ ] Unicorn Slayer  [ ] Capture all Gang HQs
-[ ] For the Empire!  [ ] Phantom Queen  [ ] I’ll take that
-[ ] King of the Hill  [ ] Ninja  [ ] Ancient Hero  [ ] Globe Trotter
-[ ] Repairman  [ ] Cartographer  [ ] Master of the North Atlantic
-[ ] Property Tycoon  [ ] Do not want  [ ] This war of mine
-[ ] Knight of Yore  [ ] Freedom Fighter  [ ] Memory collector
-[ ] Instant Vikings  [ ] Nap Time  [ ] Achieve full synchronization
-[ ] Stalker killer  [ ] Smashing  [ ] Camper  [ ] Hunt the hunted
-[ ] I ENDURE  [ ] Killing machine  [ ] Denied
-[ ] What’s yours is mine  [ ] Supplier
+- Nettoie la ville apres la sequence 3 : synchronisation des points de vue,
+  visites de rues, fragments, coffres et ordinateurs de Present si la porte est
+  ouverte.
+- Capture tous les QG de gang de la ville. Un QG demande generalement le chef,
+  le drapeau et un objectif secondaire ; une visite sans capture ne compte pas.
+- Termine les avant-postes sans alerte pour Ninja. Choisis un avant-poste simple,
+  vole la cle, ouvre la reserve et sors sans entrer en conflit.
+- Fais les contre-tues de Stalkers dans une rue de New York, puis voyage rapide
+  pour faire reapparaitre les cibles. Les compteurs de statistiques permettent
+  de confirmer Stalker killer et Denied.
+- Visite chaque icone revelee, y compris les petites iles et les zones de quai.
+  Cartographer exige une entree reelle dans chaque lieu.
 
-VERIFICATION 100 %
+RIVER VALLEY
 
-- [ ] 46 succes coches dans Steam.
-- [ ] Toutes les sequences sont synchronisees a 100 %.
-- [ ] 35 defis Abstergo et 20 ordinateurs confirmes.
-- [ ] Carte, QG, forts, camps, prisonniers, fragments et activites navales
-    verifies region par region.
-- [ ] Aucun cheat actif sur la sauvegarde finale.
-- [ ] Aucun detail d'histoire, d'identite ou d'issue narrative n'est revele.
+- Capture les forts et QG au fur et a mesure, puis ouvre chaque zone autour.
+- Termine les colonies : tue le capitaine, realise les objectifs de defense et
+  attends la notification de liberation avant de quitter. Le compteur est
+  necessaire pour I'll take that.
+- Fais toutes les renovations visibles apres la prise de controle du quadrant.
+  Les revenus du domaine aident a financer Phantom Queen.
+- Termine les collines natives et les grottes de glace revelees. Chaque lieu
+  demande de trouver le pilier natif et de resoudre ses symboles. Les parois de
+  glace des grottes necessitent le lance-grenades et la grenade a eclats : ne
+  tente pas de vider ces grottes avant leur obtention.
+- Libere les prisonniers britanniques rencontres. Pour Freedom Fighter, le
+  compteur total est 300 ; les evenements maritimes de prisonniers sont plus
+  rentables que les petites patrouilles.
+- Intercepte les assassins signales par une icone de pigeon. Capture le pigeon,
+  lis le contrat, localise la cible puis protege-la contre les assassins.
+- Termine les camps de ravitaillement ordinaires pour Camper et les grands
+  camps avec le cheat Veterans pour Supplier, mais garde ce dernier pour la fin.
+
+NORTH ATLANTIC
+
+- Ameliore le Morrigan avant les quatre batailles legendaires. Les priorites
+  sont la coque, le belier, les tirs lourds, les mortiers et les capacites de
+  stockage qui permettent de transporter les ressources.
+- Casse les icebergs avec les canons pour Smashing. Certains contiennent des
+  ressources ou des fragments ; verifie chaque iceberg detruit avec Genesis et
+  le compteur de carte.
+- Traverse les nappes de glace avec le belier ameliore pour Ice Breaker. Le
+  compteur demande 500 metres cumules, pas 500 plaques differentes.
+- Capture tous les convois de ressources. Pour What's yours is mine, les convois
+  sont des groupes de trois navires ; detruis ou aborde le groupe, puis pille la
+  cargaison et attends la sauvegarde de l'activite.
+- Harponne un narval dans le quadrant nord-est apres la prise de controle du
+  fort qui revele l'icone. Une harponnee suffit pour Unicorn Slayer.
+- Termine toutes les renovations, colonies, lieux et fragments de la region.
+- Lance les quatre batailles legendaires apres les ameliorations. Les trois
+  premieres apparaissent en controlant les quadrants ; la bataille finale,
+  plus exigeante, apparait apres les trois autres.
+
+PARTIE 4 - SEQUENCES 4 A 6 ET PRESENTS 3-4
+
+SEQUENCE 4
+
+- Termine chaque mission avec toutes ses contraintes de synchronisation.
+- Entre les missions, capture les forts et QG de la zone, puis nettoie les
+  activites qui viennent d'etre revelees.
+- Picking teams tombe quand la sequence est terminee.
+- Repare les ordinateurs du Present lors du retour suivant et compare le
+  compteur a 20 avant de continuer l'histoire.
+
+SEQUENCE 5
+
+- Termine les missions principales avec leurs contraintes. Fais les objectifs
+  navals demandes avant de lancer les batailles optionnelles.
+- One legend dies, and one is born tombe a la fin de la sequence 5.
+- Continue les renovations et la collecte de ressources. Les revenus et les
+  convois servent a Phantom Queen ; inutile de vendre une ressource necessaire
+  a une amelioration du Morrigan.
+- Reprends les ordinateurs apparus au Present puis retourne a l'Animus.
+
+SEQUENCE 6
+
+- Termine toute la sequence avec 100 % de synchronisation. Brotherhood broken
+  tombe a la validation de la derniere mission de la sequence.
+- Fais un dernier tour des objectifs de carte de la region courante avant la
+  mission finale, mais ne lance pas une activite navale avec un navire blesse.
+- Apres la sequence, conserve la sauvegarde de clear et passe au Present 4.
+
+PRESENT 4 ET DERNIERE MEMOIRE
+
+- Termine Sending a message au retour au Present.
+- Repare les ordinateurs restants. Les 20 reparations sont necessaires pour
+  Repairman ; utilise la tablette pour repere ceux encore gris.
+- Lance la derniere memoire glitchee / Incomplete Memories depuis le menu.
+  Termine-la avec toutes ses contraintes : No page unturned demande sa fin.
+- Une fois la memoire finale terminee, Templar then; Templar now se valide a la
+  fin du jeu. Garde la sauvegarde avant le nettoyage libre.
+
+PARTIE 5 - COLLECTIONS ET ARMURES
+
+FRAGMENTS D'ANIMUS - 200
+
+- Les points de vue et les forts/QG revelent la majorite des fragments. Les
+  fragments non marques apparaissent lorsque le quadrant est controle.
+- Fais la collecte region par region : New York, River Valley, puis North
+  Atlantic. Dans chaque region, synchronise d'abord les points de vue et utilise
+  les icones de carte pour eviter les retours.
+- Les fragments sur les hauteurs, les toits, les epaves, les petites iles et les
+  icebergs demandent souvent le navire ou l'escalade. Ne valide pas une region
+  seulement parce que toutes ses icones sont visibles : entre dans chaque zone.
+- Compteurs de controle : 10, 50, puis 200. Le dernier valide Memory collector
+  et un defi Abstergo.
+
+PILIERS NATIFS ET ARMURE NATIVE
+
+- Capture le fort ou le QG qui revele chaque Native Hill et Ice Cave.
+- Dans chaque lieu, localise le Native Pillar, grimpe jusqu'a la plateforme et
+  oriente les symboles pour relier les faisceaux. Le puzzle se verifie quand le
+  pilier s'ouvre et qu'il disparait du suivi.
+- Toutes les collines natives et grottes de glace doivent etre completees pour
+  King of the Hill. Les fragments ou plans du meme lieu restent necessaires au
+  nettoyage general.
+- Apres le dernier pilier, va a Orenda dans River Valley, ouvre la porte et
+  prends l'armure native. Ancient Hero tombe au ramassage de l'armure.
+
+CARTES TEMPLAIRES ET ARMURE TEMPLAIRE
+
+- Les Templar Maps sont des objets de mission signales sur la carte. Ramasse
+  chaque carte avant de chercher son tresor.
+- Lis les coordonnees de la carte et rends-toi sur la meme carte du monde :
+  New York, River Valley ou North Atlantic. Les coordonnees ne se transposent
+  pas d'une region a l'autre.
+- Sur le point indique, cherche le monticule de fouille et creuse. Une carte
+  recuperee mais un tresor non creuse ne valide pas l'armure.
+- Quand toutes les cartes et tombes sont terminees, va au navire The Sapphire
+  dans le quadrant nord-est du North Atlantic et prends l'armure. Knight of Yore
+  tombe a ce moment.
+
+ORDINATEURS ABSTERGO - 20
+
+- Les ordinateurs sont dans le Present, dans les salles accessibles autour du
+  batiment Abstergo Entertainment.
+- Chaque puzzle consiste a faire tourner des anneaux pour conduire la lumiere
+  vers le noyau. Commence par les anneaux speciaux, puis ferme le circuit avec
+  les anneaux simples.
+- Au debut, seuls les ordinateurs de securite basse sont accessibles. Fais les
+  retours au Present quand ils apparaissent, puis reserve le niveau de securite 3
+  pour le nettoyage final.
+- La tablette affiche les ordinateurs non repares a proximite. Le compteur final
+  doit etre 20/20 avant Repairman.
+
+PARTIE 6 - ACTIVITES ET OBJECTIFS DE CARTE
+
+FORTS
+
+- Les forts sont des activites navales puis terrestres : detruis les defenses,
+  amarres-toi, neutralise le capitaine et accomplis les objectifs de prise.
+- Termine tous les forts pour For the Empire!. Apres chaque capture, synchronise
+  le point de vue du fort et ouvre la carte du quadrant.
+- La prise d'un fort revele les lieux, fragments et activites du secteur ; elle
+  ne valide pas automatiquement la visite de ces lieux.
+
+QG DE GANG
+
+- Les QG se jouent a pied dans une zone restreinte. Elimine le chef, coupe le
+  drapeau et complete l'objectif secondaire affiche.
+- Capture tous les QG pour Capture all Gang HQs. Le compteur ne progresse pas
+  avec une simple infiltration ou une visite.
+- Fais Stalker killer et Denied avant de controler trop de QG : les Stalkers
+  sont plus faciles a faire reapparaitre dans une zone encore hostile.
+
+COLONIES ET RENOVATIONS
+
+- Les colonies se reconnaissent a leur icone de maisons. Complete le capitaine,
+  les sentinelles et les objectifs de defense, puis attends le message de prise.
+- Capture toutes les colonies pour I'll take that.
+- Les renovations deviennent visibles apres la prise de controle du quadrant.
+  Elles demandent surtout bois, metal, pierre et tissu. Fais-les des qu'elles
+  apparaissent pour augmenter les revenus et finir Property Tycoon.
+- Une renovation grisee est normalement liee a un fort/QG encore ennemi ;
+  reviens apres la capture au lieu de chercher un bug.
+
+AVANT-POSTES ET CAMPS
+
+- Un avant-poste demande de voler une cle, d'ouvrir une reserve et de sortir.
+  Pour Ninja, choisis un avant-poste avec un seul gardien de cle, utilise les
+  flechettes de sommeil ou berserk, et ne laisse aucun cadavre declencher une
+  alerte visible.
+- Les camps de ravitaillement sont des chariots blancs dans River Valley.
+  Approche-toi de la caisse, reste anonyme et pille-la pour Camper.
+- Pour Supplier, attends le nettoyage aux cheats et prends dix grands camps
+  avec VETERANS seul actif. La mort n'annule pas ce compteur, mais garde la
+  sauvegarde separee pour ne pas contaminer la route propre.
+
+INTERCEPTIONS D'ASSASSINS - 12
+
+- Fais chaque interception quand son icone de pigeon apparait. Capture le
+  pigeon, prends le contrat, localise la cible avec Vision d'aigle et protege-la
+  contre les assassins.
+- Les contrats dans les zones denses sont plus simples si tu elimines les
+  gardes rouges autour avant de lancer l'interception.
+- Il y a 12 interceptions ; la derniere se debloque apres les precedentes.
+  Attends la notification finale avant de quitter la zone.
+- This war of mine tombe a la fin de la douzieme interception.
+
+CAMPAGNE NAVALE - 33 MISSIONS DISPONIBLES
+
+- Globe Trotter demande 17 missions navales de l'onglet Naval Campaign.
+- Pour un 100 % de contenu plus propre et les defis Abstergo, fais les 33
+  missions disponibles, pas seulement les 17 du succes. Elles se debloquent par
+  paliers de campagne et sont gerables depuis le menu naval.
+- Ouvre l'onglet apres chaque retour a la barre, lance toutes les missions
+  disponibles, puis verifie les recompenses et le compteur de missions terminees.
+- Certaines missions demandent une capacite de stockage plus grande : capture
+  un Men-O'-War quand ton navire peut le faire avant les paliers tardifs.
+
+SUIVI CAMPAGNE NAVALE
+
+[ ] Mission navale 01
+[ ] Mission navale 02
+[ ] Mission navale 03
+[ ] Mission navale 04
+[ ] Mission navale 05
+[ ] Mission navale 06
+[ ] Mission navale 07
+[ ] Mission navale 08
+[ ] Mission navale 09
+[ ] Mission navale 10
+[ ] Mission navale 11
+[ ] Mission navale 12
+[ ] Mission navale 13
+[ ] Mission navale 14
+[ ] Mission navale 15
+[ ] Mission navale 16
+[ ] Mission navale 17 - seuil du succes Globe Trotter
+[ ] Mission navale 18
+[ ] Mission navale 19
+[ ] Mission navale 20
+[ ] Mission navale 21
+[ ] Mission navale 22
+[ ] Mission navale 23
+[ ] Mission navale 24
+[ ] Mission navale 25
+[ ] Mission navale 26
+[ ] Mission navale 27
+[ ] Mission navale 28
+[ ] Mission navale 29
+[ ] Mission navale 30
+[ ] Mission navale 31
+[ ] Mission navale 32
+[ ] Mission navale 33 - campagne navale complete
+
+PARTIE 7 - SUCCES DE COMBAT ET DE NAVIRE
+
+DEFENSE FIRST
+
+- Une reverse-boarding survient lorsqu'un navire ennemi te percute alors que la
+  coque du Morrigan est suffisamment faible. Les ennemis montent a bord et te
+  donnent les objectifs d'un abordage classique.
+- Survis a l'abordage, elimine les ennemis et termine les objectifs sans couler.
+  Si le succes ne tombe pas, augmente le niveau de recherche pour provoquer un
+  nouvel abordage, mais garde une sauvegarde avant le combat.
+
+STALKER KILLER ET DENIED
+
+- Stalker killer demande 30 contre-tues de Stalkers.
+- Denied demande 15 contres d'attaques surprises aeriennes.
+- Les Stalkers apparaissent dans New York, notamment autour des points de vue et
+  des toits. Approche-toi, attends la parade, puis execute le contre avec la
+  commande d'attaque au bon moment.
+- Certaines executions silencieuses ressemblent a un contre mais ne comptent
+  pas. Verifie le compteur de statistiques apres plusieurs essais.
+- Fais reapparaitre les cibles par voyage rapide, pas en quittant la zone a pied.
+
+GRENADE BERSERK ET SOMMEIL
+
+- Regroupe cinq gardes d'une patrouille dans une zone restreinte de River Valley.
+- Tire une grenade de sommeil quand les cinq silhouettes sont dans le cercle.
+  La validation de Nap Time demande les cinq simultanement.
+- Sans tuer ni disperser le groupe, tire ensuite une grenade berserk sur le meme
+  paquet. Instant Vikings demande cinq ennemis touches en meme temps.
+- Si le groupe se separe, recharge la sauvegarde : la tentative doit etre
+  simultanee, pas cinq eliminations successives.
+
+ICE BREAKER, SMASHING ET UNICORN SLAYER
+
+- Ice Breaker : belier du Morrigan ameliore, traverse des plaques de glace dans
+  le North Atlantic jusqu'au compteur de 500 metres.
+- Smashing : detruis 100 icebergs avec les canons. Les icebergs se brisent au
+  premier impact et peuvent contenir des ressources ou des fragments.
+- Unicorn Slayer : harponne un narval dans le nord-est du North Atlantic apres
+  que l'icone a ete revelee par le fort du quadrant.
+
+PARTIE 8 - BATAILLES LEGENDaires ET NAVIRE
+
+PHANTOM QUEEN
+
+- Fully Upgrade the Morrigan demande toutes les ameliorations du navire, pas
+  seulement les canons visibles dans le menu principal.
+- Les ressources viennent des missions, des camps, des colonies, des convois
+  et des navires pilles. Le metal est souvent le goulot d'etranglement : les
+  Men-O'-War du North Atlantic et les convois en donnent davantage.
+- Fais les achats quand les revenus du domaine sont disponibles et verifie le
+  menu du Morrigan apres chaque amelioration. Le succes tombe a la derniere
+  amelioration validee.
+
+MASTER OF THE NORTH ATLANTIC
+
+- Il y a quatre batailles legendaires dans le North Atlantic.
+- Les trois premieres apparaissent autour des bords de la carte apres la prise
+  de controle des quadrants correspondants. Termine-les une par une.
+- La bataille finale apparait apres les trois premieres. Elle est la plus dure :
+  concentre les mortiers et tirs lourds sur la menace principale, puis gere les
+  navires de soutien sans rester dans leur angle de tir.
+- Fais une sauvegarde avant chaque combat et ne lance pas la bataille finale
+  avec une coque endommagee. Master of the North Atlantic tombe apres la quatrieme.
+
+PARTIE 9 - DEFIS ABSTERGO ET CHEATS
+
+DEDICATED EMPLOYEE
+
+- Complete 35 defis Abstergo. Les defis sont suivis dans Pause > Defis Abstergo.
+- Les fragments, visites, synchronisation, navire, combats et activites remplis
+  par la route font progresser plusieurs categories en meme temps.
+- Pour debloquer les cheats utiles aux quatre succes speciaux, continue au-dela
+  de 35 jusqu'a ce que Endurance, Hunted et Veterans soient disponibles.
+
+KILLING MACHINE - ENDURANCE SEUL
+
+- Active uniquement ENDURANCE.
+- A Halifax, elimine les gardes de la zone sans mourir. Les doubles assassinats
+  permettent de faire le compteur rapidement.
+- Voyage rapidement hors de la zone puis reviens pour faire reapparaitre les
+  gardes. Atteins 30 gardes sans mourir, puis desactive le cheat.
+
+HUNT THE HUNTED - HUNTED SEUL
+
+- Active uniquement HUNTED dans le North Atlantic.
+- Depuis Fort Louis, repere les petits navires rouges au sud. Utilise les
+  mortiers a distance et evite les collisions ; les bateaux faibles servent de
+  cibles rapides.
+- Coule 10 navires sans mourir. Le compteur reste lie a cette activation : ne
+  change pas de cheat entre deux eliminations.
+
+I ENDURE - ENDURANCE SEUL
+
+- Active uniquement ENDURANCE, dans le North Atlantic.
+- Utilise un Morrigan entierement ameliore, surtout coque, mortiers et tirs
+  lourds. Coule 10 navires sans mourir, puis coupe le cheat.
+- Fais Hunted et I ENDURE dans deux tentatives distinctes. La sauvegarde peut
+  etre copiee avant la tentative, mais les deux succes ne doivent pas etre
+  melanges avec un autre cheat.
+
+SUPPLIER - VETERANS SEUL
+
+- Active uniquement VETERANS.
+- Dans River Valley, repere les grands camps de ravitaillement a l'icone de
+  chariot blanc. Pille la caisse de dix grands camps.
+- La discrétion n'est pas obligatoire pour ce succes, mais l'approche furtive
+  evite de perdre du temps. Voyage rapide entre les zones pour faire apparaitre
+  de nouveaux camps.
+- Desactive VETERANS des que le succes est valide et retourne a la sauvegarde
+  propre pour le reste du nettoyage.
+
+PARTIE 10 - CHECK FINAL PAR COMPTEURS
+
+1. Campagne : sequences 1 a 6, quatre Presents, derniere memoire glitchee.
+2. Synchronisation : chaque mission principale affiche 100 %, y compris la
+   memoire finale.
+3. Exploration : 200 fragments, toutes les icones visitees, forts, QG,
+   colonies, piliers, grottes, renovations et cartes templaires.
+4. Armures : Native Armor prise a Orenda, Templar Armor prise au Sapphire.
+5. Activites : 12 interceptions, 33 missions navales si tu vises le 100 % de
+   contenu, 4 batailles legendaires, camps, convois, prisonniers et icebergs.
+6. Combat : contre-tues, grenades, smoke bombs, narval et reverse-boarding.
+7. Cheats : chaque succes realise avec son seul cheat requis, puis cheats
+   desactives sur la sauvegarde finale.
+8. Steam : attends la synchronisation apres chaque dernier compteur avant de
+   fermer le jeu.
+
+CHECKLIST FINALE - 46 SUCCES STEAM
+
+[ ] Did I do that? - terminer Present 1.
+[ ] Halcyon days - terminer la sequence 1.
+[ ] Defence First - survivre a un reverse-boarding.
+[ ] The end of youth - terminer la sequence 2.
+[ ] He's not dead, is he? - terminer Present 2.
+[ ] Making new friends - terminer la sequence 3.
+[ ] Ice Breaker - traverser 500 metres de plaques de glace.
+[ ] Picking teams - terminer la sequence 4.
+[ ] A worthy cause - terminer Present 3.
+[ ] One legend dies, and one is born - terminer la sequence 5.
+[ ] Owned - terminer toutes les activites d'un meme lieu.
+[ ] Brotherhood broken - terminer la sequence 6.
+[ ] Sending a message - terminer Present 4.
+[ ] No page unturned - terminer la derniere memoire glitchee.
+[ ] Templar then; Templar now - terminer le jeu.
+[ ] Dedicated Employee - terminer 35 defis Abstergo.
+[ ] Unicorn Slayer - harponner un narval.
+[ ] Capture all Gang HQs - capturer tous les QG de gang.
+[ ] For the Empire! - capturer tous les forts.
+[ ] Phantom Queen - ameliorer completement le Morrigan.
+[ ] I'll take that - capturer toutes les colonies.
+[ ] Ninja - terminer un avant-poste sans etre detecte.
+[ ] Ancient Hero - obtenir l'armure native.
+[ ] King of the Hill - terminer toutes les collines natives et grottes de glace.
+[ ] Globe Trotter - terminer 17 missions de la campagne navale.
+[ ] Repairman - reparer tous les ordinateurs d'Abstergo Entertainment.
+[ ] Cartographer - visiter chaque lieu du jeu.
+[ ] Master of the North Atlantic - terminer toutes les batailles legendaires.
+[ ] Property Tycoon - terminer toutes les renovations.
+[ ] Do not want - contrer 20 grenades fumigenes avec le masque a gaz.
+[ ] This war of mine - terminer toutes les interceptions d'assassins.
+[ ] Knight of Yore - obtenir l'armure templiere.
+[ ] Freedom Fighter - liberer 300 prisonniers britanniques.
+[ ] Instant Vikings - toucher cinq ennemis avec une grenade berserk en meme temps.
+[ ] Memory collector - recuperer tous les fragments d'Animus.
+[ ] Nap Time - endormir cinq ennemis avec une grenade de sommeil en meme temps.
+[ ] Achieve full synchronization - obtenir 100 % de synchronisation dans toutes les missions principales.
+[ ] Stalker killer - contre-tuer 30 Stalkers.
+[ ] Smashing - detruire 100 icebergs.
+[ ] Killing machine - tuer 30 gardes sans mourir avec ENDURANCE seul actif.
+[ ] Camper - piller 20 camps de ravitaillement.
+[ ] Hunt the hunted - couler 10 navires dans le North Atlantic sans mourir avec HUNTED seul actif.
+[ ] I ENDURE - couler 10 navires dans le North Atlantic sans mourir avec ENDURANCE seul actif.
+[ ] Denied - contrer 15 attaques surprises aeriennes.
+[ ] What's yours is mine - piller 20 convois navals.
+[ ] Supplier - prendre dix grands camps de ravitaillement avec VETERANS seul actif.
+
+VERIFICATION FINALE
+
+- [ ] Steam affiche 46/46 succes.
+- [ ] Les sequences 1 a 6, les Presents et la memoire finale sont termines.
+- [ ] Chaque mission principale affiche 100 % de synchronisation.
+- [ ] Les 20 ordinateurs sont repares et les 35 defis Abstergo sont confirmes.
+- [ ] Les 200 fragments, les visites de lieux, cartes, piliers et armures sont
+    valides dans les menus correspondants.
+- [ ] Forts, QG, colonies, renovations, collines, grottes et interceptions sont
+    termines.
+- [ ] Le Morrigan est completement ameliore et les quatre batailles legendaires
+    sont gagnees.
+- [ ] Les compteurs 300 prisonniers, 20 camps, 20 convois, 100 icebergs et 500 m
+    de glace sont confirmes.
+- [ ] Les quatre succes aux cheats ont ete faits avec un seul cheat requis a la
+    fois, puis les cheats ont ete desactives.
+- [ ] La sauvegarde propre est conservee jusqu'a la synchronisation Steam.
 
 SOURCES DE CONTROLE
 
-- Steam, liste officielle des 46 succes :
+- Liste officielle Steam des 46 succes :
   https://steamcommunity.com/stats/311560/achievements
-- Guide Steam francais des defis, collectibles et compteurs :
-  https://steamcommunity.com/sharedfiles/filedetails/?id=3448848242&l=french
+- Guide Steam 100 % des succes et compteurs :
+  https://steamcommunity.com/sharedfiles/filedetails/?id=3448848242
+- Liste des defis Abstergo :
+  https://assassinscreed.fandom.com/wiki/Abstergo_Challenges_%28Rogue%29
+- Guide de collecte des fragments :
+  https://www.neoseeker.com/assassins-creed-rogue/walkthrough/Animus_Collectibles
+- Page Steam du jeu :
+  https://store.steampowered.com/app/311560/Assassins_Creed_Rogue/
+
+FIN DE LA FICHE
