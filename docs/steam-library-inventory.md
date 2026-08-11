@@ -213,6 +213,36 @@ soluce chronologique classique n'apporterait rien.
 - Far Cry 2 - soluce speciale publiee : AppID 19900, 0/0 succes Steam, campagne et exploration
 - Half-Life - soluce speciale publiee : AppID 70, 0/0 succes Steam, campagne classique
 
+### Lot ajoute le 11 aout 2026
+
+- GRANDIA HD Remaster - guide publie : 36/36 succes Steam, RPG et quetes
+- Destiny Warriors RPG - guide publie : 6/6 succes Steam, route RPG courte
+- Greyfox RPG - guide publie : 16/16 succes Steam, campagne et quetes
+- Secret Of Magia - guide publie : 5/5 succes Steam, campagne RPG
+- SONIC THE HEDGEHOG 4 Episode I - guide publie : 12/12 succes Steam, actes et bonus
+- SONIC THE HEDGEHOG 4 Episode II - guide publie : 12/12 succes Steam, actes et bonus
+- Arizona Sunshine VR Legacy - guide publie : 48/48 succes Steam, campagne VR et coop
+- LIVE A LIVE - guide publie : 48/48 succes Steam, scenarios et chapitre final
+- FINAL FANTASY XVI - guide publie : 69/69 succes Steam, New Game+ et deux extensions
+- Baldur's Gate 3 - guide publie : 54/54 succes Steam, actes, compagnons et fins
+- BRINK - guide publie : 43/43 succes Steam, campagnes et objectifs de classe
+- Call of Juarez: The Cartel - guide publie : 50/50 succes Steam, campagne et coop
+- DEATH STRANDING DIRECTOR'S CUT - guide publie : 63/63 succes Steam, commandes et bonus
+- Grand Theft Auto IV: The Complete Edition - guide publie : 55/55 succes Steam, campagne, episodes et online
+- Hellblade II: Senua's Saga - guide publie : 12/12 succes Steam, chapitres et collectes
+- Hellblade: Senua's Sacrifice VR Edition - guide publie : 14/14 succes Steam, campagne VR
+- Ori and the Blind Forest - guide publie : 50/50 succes Steam, secrets et runs
+- Ori and the Blind Forest: Definitive Edition - guide publie : 57/57 succes Steam, DLC et secrets
+- PAYDAY: The Heist - guide publie : 56/56 succes Steam, braquages et coop
+- RV There Yet? - guide publie : 96/96 succes Steam au 11 aout 2026, coop evolutive
+- Warhammer: Vermintide 2 - guide publie : 26/26 succes Steam, missions et difficultes
+- Battlefield: Bad Company 2 - soluce speciale publiee : AppID 24960, 0/0 succes Steam, campagne
+- Call of Duty (2003) - soluce speciale publiee : AppID 2620, 0/0 succes Steam, trois campagnes
+- Crysis - soluce speciale publiee : AppID 17300, 0/0 succes Steam, campagne
+- Crysis Warhead - soluce speciale publiee : AppID 17330, 0/0 succes Steam, campagne
+- Crysis 2 - Maximum Edition - soluce speciale publiee : AppID 108800, 0/0 succes Steam, campagne
+- DOOM 3 original - soluce speciale publiee : AppID 9050, 0/0 succes Steam, campagne et PDA
+
 ## Futurs guides chronologiques (`planned`)
 
 ### Final Fantasy et RPG proches
