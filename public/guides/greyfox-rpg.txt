@@ -1,0 +1,79 @@
+GREYFOX RPG
+GUIDE 100 % STEAM - 16 SUCCES STEAM - CHRONOLOGIQUE - SANS SPOILER
+
+Version de travail : 11 aout 2026
+
+OBJECTIF
+
+Cette route suit les histoires des habitants dans un ordre de nettoyage sûr,
+puis utilise des sauvegardes séparées pour les quatre issues mécaniques. Elle
+ne révèle aucune résolution narrative.
+
+GARDE-FOUS AVANT DE COMMENCER
+
+- AppID Steam : 341310. 16 succès, aucun DLC et aucun online.
+- Fais une sauvegarde manuelle au début de chaque journée et avant toute action
+  qui change l'état d'un habitant. Conserve un fichier "sans meurtre" et un
+  fichier "nettoyage des issues".
+- Les objets de ville et les conversations sont plus importants que le combat :
+  inspecte chaque maison avant de changer de corps ou de journée.
+
+MISSABLES ET CONDITIONS RATABLES
+
+- A Dirty Job, Coco Nut!, Pickpocket, Here Kitty~ et les quatre conclusions se
+  ratent si l'on avance sans vérifier les interactions locales.
+- Pour Saved, ne tue personne sur la sauvegarde propre. Pour Heartless, utilise
+  une copie dédiée et ne la mélange pas avec Happy Ending ou The Doctor.
+- Les histoires de Mabel, de l'infirmière, de Mr. Brown et de Katharine doivent
+  être terminées avant de fermer leur dernière scène. Le guide annonce chaque
+  sauvegarde avant le point sensible.
+
+ORDRE RECOMMANDE
+
+1. PREMIERE TOURNEE SANS MEURTRE
+
+- Nettoie les traces dans les zones accessibles pour A Dirty Job.
+- Lance les histoires de Mabel, de l'infirmière, de Mr. Brown puis de
+  Katharine. Termine chaque étape avant de changer de journée.
+- Récupère les chats, puis fais la scène du thé pour 10. Tea Bagged.
+- Fais deux vols distincts dans la même sauvegarde prudente pour Pickpocket.
+- Fais tomber une noix de coco et ramasse-la pour Coco Nut!.
+- N'attaque aucun habitant : termine le parcours et valide Saved.
+
+2. SAUVEGARDE DES ISSUES
+
+- Copie la sauvegarde après les quêtes et les objets. Utilise une copie pour
+  The Doctor, une pour Happy Ending et une pour The Asylum.
+- Sur la copie Heartless, élimine chaque cible demandée puis termine le
+  parcours. Ne réécris pas la sauvegarde sans meurtre.
+- Les noms des succès sont les seuls repères narratifs ; leurs conditions sont
+  décrites par l'action, jamais par la conséquence.
+
+CHECKLIST FINALE - 16/16 SUCCES STEAM
+
+- [ ] A Dirty Job
+- [ ] Mabel
+- [ ] The Nurse
+- [ ] Mr. Brown
+- [ ] The Kat Lady
+- [ ] 10. Tea Bagged
+- [ ] Pickpocket
+- [ ] Here Kitty~
+- [ ] Cake!
+- [ ] Scam Artist
+- [ ] Coco Nut!
+- [ ] The Doctor
+- [ ] Happy Ending
+- [ ] Saved
+- [ ] The Asylum
+- [ ] Heartless
+
+VERIFICATION
+
+- [ ] 16/16 succès Steam.
+- [ ] Quatre histoires d'habitants, chats, noix de coco, thé et vols vérifiés.
+- [ ] Sauvegardes distinctes pour Saved, The Doctor, Happy Ending, The Asylum
+      et Heartless.
+- [ ] Aucun DLC ni online.
+- [ ] Aucun détail narratif révélé.
+
