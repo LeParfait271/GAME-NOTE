@@ -3175,13 +3175,18 @@ export default function Home() {
           <a href="#methode">Méthode</a>
         </nav>
 
+        <div className="topbar-route-code" aria-hidden="true">
+          <span>FIELD GUIDE</span>
+          <strong>GN / 01</strong>
+        </div>
+
         <div className="topbar-actions">
           <div className="topbar-status">
             <span
               className={"status-dot" + (isOnline ? "" : " status-dot-offline")}
               aria-hidden="true"
             />
-            <span>{isOnline ? guides.length + " guides prêts" : "Hors ligne"}</span>
+            <span>{isOnline ? guides.length + " routes prêtes" : "Hors ligne"}</span>
           </div>
           <button
             className="topbar-action"
@@ -3200,6 +3205,7 @@ export default function Home() {
             </span>
           </button>
         </div>
+
       </header>
 
       {!isOnline ? (
@@ -3289,9 +3295,12 @@ export default function Home() {
 
       <section className="section-block" id="guides">
         <div className="section-heading">
-          <div>
-            <p className="kicker"><span>LA BIBLIOTHÈQUE</span><span>REPÈRES DISPONIBLES</span></p>
-            <h2>Choisis ta route.</h2>
+          <div className="section-heading-title">
+            <span className="section-index" aria-hidden="true">02</span>
+            <div>
+              <p className="kicker"><span>LA BIBLIOTHÈQUE</span><span>REPÈRES DISPONIBLES</span></p>
+              <h2>Choisis ta route.</h2>
+            </div>
           </div>
           <p>
             Recherche un jeu, ouvre son dossier et garde ta progression sur cet
@@ -3397,6 +3406,7 @@ export default function Home() {
 
       <section className="method-section" id="methode">
         <div className="method-heading">
+          <span className="section-index" aria-hidden="true">03</span>
           <p className="kicker"><span>LE PROTOCOLE</span><span>3 GESTES UTILES</span></p>
           <h2>La route, pas le bruit.</h2>
           <p>
@@ -3424,6 +3434,11 @@ export default function Home() {
       </section>
 
       <section className="reader-section" id="reader">
+        <div className="reader-section-mark" aria-hidden="true">
+          <span>04</span>
+          <strong>LIRE / LAISSER UNE TRACE</strong>
+          <i />
+        </div>
         <GuideReader
           selected={selected}
           search={search}
