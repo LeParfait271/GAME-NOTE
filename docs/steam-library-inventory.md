@@ -188,8 +188,6 @@ soluce chronologique classique n'apporterait rien.
 
 ### Coopération ou campagne à route dédiée
 
-- Lara Croft and the Temple of Osiris
-- Overcooked! All You Can Eat
 - Stronghold HD
 - Stronghold 3
 - Stronghold: Crusader 2
