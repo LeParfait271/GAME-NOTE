@@ -1,144 +1,1262 @@
 RESIDENT EVIL VILLAGE
-GUIDE CHRONOLOGIQUE 100 % STEAM - SANS SPOILER
+GUIDE CHRONOLOGIQUE COMPLET - 100 % STEAM - SANS SPOILER
 
-Version de travail : 10 aout 2026
+Version éditoriale : 12 août 2026
+Plateforme ciblée : Steam - AppID 1196590
+Périmètre : campagne, collectibles, défis utiles, Mercenaries, Winters' Expansion et 56 succès Steam.
 
-Ce parcours couvre les 56 succes Steam de l'AppID 1196590 : campagne,
-collectibles, 20 Chevres de protection, animaux, recettes, armes, records,
-Village of Shadows, Mercenaries et le contenu Winters' Expansion. Ce DLC
-ajoute notamment Shadows of Rose, Third Person et Additional Orders.
+PROMESSE DE LA FICHE
 
-OBJECTIF
+Ce guide est une route de jeu, pas une simple liste de succès. Chaque retour dans le village
+est traité comme une nouvelle phase d'exploration. Les objets sont donnés dans l'ordre où
+ils deviennent accessibles, avec le repère de salle, le prérequis et le risque de verrouillage.
 
-[ ] 56/56 succes Steam.
-[ ] Campagne avec tresors, 20 chevres, toilettes, fenetres, fichiers et
-    crafts.
-[ ] Toutes les armes, ameliorations, recettes et records de chasse.
-[ ] Village of Shadows, objets bonus et Mercenaries.
-[ ] Winters' Expansion, Shadows of Rose et Additional Orders.
+La progression reste sans spoiler d'intrigue : les noms de zones, d'objets, de puzzles,
+d'ennemis majeurs et de succès sont utilisés uniquement pour te faire avancer. Aucun
+retournement, aucune identité cachée et aucune scène de conclusion ne sont racontés.
 
-GARDE-FOUS ABSOLUS
+OBJECTIF 100 %
 
-- Premier parcours en Standard avec exploration locale. Le village se
-  transforme pendant l'histoire : fais les detours des que la carte les
-  affiche.
-- Ramasse les 20 Chevres de protection dans l'ordre des zones. Une chevre
-  detruite est validee, mais coche-la avant de quitter la salle.
-- Avant chaque grand depart, fais les animaux, tresors, toilettes, fenetres
-  cassables, fichiers et puits encore accessibles.
-- Les records de difficultes et de Mercenaries se font apres la campagne avec
-  les objets de l'Extra Content Shop. Ne tente pas tout sur la premiere run.
-- Aucun passage ne revele une mort, une identite, une fin ou un retournement.
+- Campagne terminée avec les 47 fichiers lus.
+- 20 chèvres de protection détruites.
+- 10 toilettes ouvertes dans une seule partie.
+- 19 fenêtres comptabilisées dans le château. Une fenêtre supplémentaire est brisée
+  automatiquement pendant une scène : le guide la signale pour éviter les faux 19/19.
+- 11 recettes de fabrication, l'arsenal complet recensé dans la fiche et 22 pièces d'arme.
+- Trésors combinables, trésors de carte, animaux et plats du Duc.
+- Mercenaries : rang S minimum sur les 8 stages.
+- Shadows of Rose : 19 fichiers, tous les défis de route et les trois difficultés.
+- Additional Orders : Bloody Village et Bloody River.
+- Les 56 succès Steam.
 
-MISSABLES A SECURISER
+AVANT DE COMMENCER
 
-- 20 Chevres, 10 toilettes, 19 fenetres, tresors de carte, animaux, objets de
-  zone et records. Le nettoyage est possible par sauvegardes, mais pas chaque
-  zone apres la transition finale.
+- Première partie conseillée : Standard, exploration complète, sauvegarde manuelle à
+  chaque arrivée chez le Duc et avant chaque changement de domaine.
+- Ne vends jamais les ingrédients de cuisine avant d'avoir préparé les six plats.
+- Ne vends pas un trésor portant la mention combinable. Assemble-le avant la vente.
+- Dans la carte, une zone rouge n'est pas entièrement fouillée. Une zone bleue est
+  nettoyée. Utilise cette règle pour les bâtiments, les caves et les chemins secondaires.
+- Les fichiers doivent être lus, pas seulement ramassés. Ouvre chaque document dans
+  l'inventaire avant de continuer.
+- Pour les défis de difficulté, de vitesse, de soins limités et de couteau, utilise des
+  sauvegardes et des parties dédiées. Ne mélange pas tous les objectifs sur la première
+  découverte.
+- Le château devient inaccessible après la sortie définitive. La zone de l'usine devient
+  le dernier grand point de non-retour pour le village. Les deux avertissements sont
+  détaillés dans la route.
 
-ORDRE DE PARTIE
+PLAN DES PARTIES LE PLUS EFFICACE
 
-1. Campagne Standard avec collecte.
-2. Nettoyage du village apres chaque retour et avant la zone finale.
-3. Extra Content Shop, armes bonus et Village of Shadows.
-4. Mercenaries et Additional Orders.
-5. Shadows of Rose et reste du Winters' Expansion.
+PARTIE 1 - STANDARD, COLLECTE ET ROUTE PROPRE
 
-PROLOGUE ET VILLAGE - PREMIER PASSAGE
+- Lire les 47 fichiers pendant la route.
+- Détruire les 20 chèvres dans l'ordre de cette fiche.
+- Ouvrir les 10 toilettes dans cette même partie.
+- Briser les fenêtres du château avant d'en sortir.
+- Faire les trésors secondaires et les plats dès que les ingrédients sont accessibles.
+- Préparer les succès de combat simples : craft, photo, animal, lockpick, partie d'arme,
+  trois ennemis avec une attaque, tir de sniper, parade et flèche enflammée.
+- Finir au minimum en Casual pour obtenir Great Dad si la première partie est trop
+  exigeante. Standard donne Best Dad Ever.
 
-- Fouille la maison, le chemin et les cabanes. Ramasse les fichiers et
-  apprends le craft, la chasse et la vente au Duc.
-- Village 1/20 : cherche la premiere chevre dans les zones visibles et
-  valide-la avant de suivre l'objectif principal.
-- Ouvre les puits, toilettes et fenetres cassables des maisons. Note les
-  portes verrouillees qui demandent une cle future.
-- Chasse au moins un animal, fabrique un objet, achete chez le Duc et equipe
-  une piece d'arme.
+PARTIE 2 - NEW GAME PLUS, ARGENT ET DÉFIS
 
-PREMIER DOMAINE ET RETOUR AU VILLAGE
+- Conserver l'argent, les armes et les améliorations du fichier terminé.
+- Faire les succès de difficulté restants, Dashing Dad, Frugal Father, Don't Trust That
+  Snake Oil et Knives Out sur des sauvegardes séparées.
+- Acheter les armes bonus au magasin Extra Content.
+- Acheter toutes les recettes et toutes les pièces vendues par le Duc.
+- Fabriquer chaque type d'objet avec les 11 recettes.
+- Atteindre 777, 7 777 ou 77 777 Lei sur une sauvegarde dédiée.
 
-- Dans le premier domaine, fouille toutes les salles, ramasse les tresors et
-  detruis les fenetres marquees. Les fenetres doivent etre detruites sur le
-  meme parcours de campagne.
-- A la sortie, reviens au village : ouvre les maisons nouvellement acces-
-  sibles, fais les toilettes et les puits, puis verifie la carte au Duc.
-- Continue la liste de Chevres et de tresors. Les zones en hauteur demandent
-  souvent un angle de visee ou un trajet autour du batiment.
+PARTIE 3 - MERCENARIES ET WINTERS' EXPANSION
 
-DEUXIEME ET TROISIEME DOMAINE
+- Débloquer Mercenaries après la première fin.
+- Obtenir S minimum sur les huit stages.
+- Terminer Shadows of Rose en Casual, Standard et Hardcore sur trois sauvegardes
+  ou en reprenant une sauvegarde avant la difficulté.
+- Lire les 19 fichiers de Shadows of Rose et réussir les défis de route.
+- Finir Bloody Village et Bloody River dans Additional Orders.
 
-- Nettoie chaque domaine avant d'ouvrir la derniere porte : coffres, animaux,
-  documents, puzzles, fenetres et Chevres.
-- Vends les tresors combines seulement apres avoir verifie la recette et le
-  compteur de chasse. Garde les objets de cuisine pour les plats de bonus.
-- Au village, reviens apres chaque domaine pour les nouveaux puits, maisons,
-  toilettes et parcours de bateau. Les cartes de tresor s'ajoutent au menu.
+GARDE-FOUS MANQUABLES
 
-QUATRIEME DOMAINE ET USINE
+- Le château : collectes, fichiers, fenêtres, pièces d'armes et trésors avant la porte
+  des quatre masques.
+- Le village : les chèvres, toilettes et animaux sont accessibles par vagues. Nettoie
+  chaque vague avant d'utiliser le prochain gros objet de progression.
+- Les animaux de cuisine ne réapparaissent pas. Ne les vends pas.
+- Le dossier "Duke's Kitchen" n'est pas lié aux 11 recettes de fabrication. Il faut faire
+  les six plats de cuisine et acheter les onze recettes de craft.
+- La partie couteau ne tolère que les armes de corps à corps. Les séquences imposées
+  avec un véhicule ou un allié sont autorisées ; ne tire pas avec une arme à feu.
+- Pour les fenêtres, ne quitte pas le château avant d'avoir vérifié le compteur de défi.
+- Shadows of Rose a 19 fichiers et plusieurs défis non liés directement à Steam. Fais-les
+  dans la première route du DLC pour éviter une seconde relecture.
 
-- L'usine demande de fouiller les niveaux, ascenseurs, conduits et salles de
-  repos. Un objet visible derriere une grille peut etre vise depuis une autre
-  piece.
-- Fais les puzzles de fabrication et d'electricite avant de quitter le niveau.
-  Note les fichiers dans les postes de securite et les salles de controle.
-- Village final : nettoie la maison de la collection, la riviere, le cimetiere,
-  le moulin, les animaux et les derniers puits avant la zone de fin.
+ROUTE CHRONOLOGIQUE
 
-FIN DE CAMPAGNE ET NETTOYAGE
+1. PROLOGUE - MAISON WINTERS
 
-- Sauvegarde avant la derniere suite de missions, termine la campagne et
-  conserve le fichier de fin. Les records et l'Extra Content Shop s'ouvrent
-  ensuite.
-- 20 Chevres : utilise une liste par zone, du village aux domaines, puis la
-  zone de fin. Controle le compteur Heretic dans le menu.
-- 10 toilettes et 19 fenetres : fais une boucle de village avec la carte,
-  puis une boucle de domaines. Les fenetres non cassees restent visibles.
-- Chasse : animaux blancs, poissons, cochons et corbeaux comptent pour les
-  recettes et les records. Garde les viandes jusqu'a validation des plats.
+1.1 MAISON, CUISINE ET CHAMBRE
 
-ARMES, RECETTES ET RECORDS
+- Après la scène d'ouverture, sors du séjour et monte à l'étage.
+- Au palier, prends la porte de droite au bout du couloir et dépose Rose dans le berceau.
+- Avant de redescendre, ouvre la pièce de rangement. Prends le document posé sur le bureau.
+- Dans la cuisine, lis le document collé au réfrigérateur.
+- Retourne dans le bureau d'Ethan et interagis avec l'ordinateur portable.
+- Ouvre le tiroir du meuble bas du bureau et lis le rapport médical.
+- Dans la chambre, frappe le ballon jaune et pousse-le depuis la chambre jusqu'à la porte
+  du bureau. Il doit franchir le seuil du bureau pour valider Goooaaal!.
+- Mets la photo en mode photo depuis le menu pause, puis quitte le mode. Cela valide
+  Photographer sans consommer de ressource.
+- Termine la scène et ramasse la photo de famille lorsqu'elle devient disponible.
 
-- Termine les recettes du Duc, cuisine tous les plats et achete les amelio-
-  rations de recettes. La chasse doit etre faite avant de vendre la viande.
-- Ameliore les armes, achete toutes les armes uniques et utilise les armes
-  bonus apres une premiere fin. Verifie la collection d'armes et de pieces.
-- Complete les records d'economie, de crafts, de kills, de blocage et de
-  distance. Les CP servent a acheter les bonus et munitions infinies.
+FICHIERS 1 À 4
 
-VILLAGE OF SHADOWS ET MERCENARIES
+- Fichier 1 - Fridge Memo : cuisine, collé au réfrigérateur.
+- Fichier 2 - Old News Clipping : pièce de rangement à l'étage, sur le bureau.
+- Fichier 3 - Ethan's Diary : ordinateur portable dans le bureau.
+- Fichier 4 - Medical Checkup Report : tiroir du meuble du bureau.
 
-- Village of Shadows : equipe les armes bonus autorisees, gere les sauvegardes
-  et memorise les routes. Les combats obligatoires demandent economie et
-  controle, pas la chasse de chaque ennemi.
-- Mercenaries : vise d'abord les rangs simples, apprends les cartes et
-  conserve les combos. Les personnages et Additional Orders possedent des
-  contraintes propres.
-- Pour le succes de score eleve, choisis les competences et pouvoirs qui
-  prolongent le combo. Une run de reconnaissance est normale.
+2. FORÊT ET PREMIÈRE ARRIVÉE AU VILLAGE
 
-WINTERS' EXPANSION
+2.1 ÉPAVE ET CHEMIN DE NEIGE
 
-- Shadows of Rose : fais l'histoire, les objets et les enigmes dans l'ordre,
-  puis reviens par les checkpoints pour les records manquants.
-- Third Person : utilise-le comme option de campagne si tu veux revoir les
-  zones, mais son contenu ne remplace pas la route de collectibles principale.
-- Additional Orders : termine les personnages, cartes et rangs du mode
-  Mercenaries propre au DLC.
-- Controle le profil Steam jusqu'a 56/56 : six succes du DLC sont melanges au
-  compteur de l'AppID Village.
+- Après le réveil, suis le chemin unique dans la forêt.
+- Entre dans la première maison, descends au sous-sol, ouvre le meuble au fond puis
+  ressors par le même axe.
+- Près du véhicule renversé, lis le document posé au sol avant de poursuivre.
+- Ne gaspille pas tes munitions dans la neige : les premières séquences servent surtout
+  à apprendre le déplacement et le blocage.
 
-CHECKLIST STEAM FINALE - 56/56
+FICHIER 5
 
-[ ] Campagne et tous les domaines.
-[ ] 20/20 Chevres de protection.
-[ ] 10/10 toilettes et 19/19 fenetres.
-[ ] Tresors, fichiers, animaux, recettes, armes et upgrades.
-[ ] Village of Shadows et Extra Content Shop.
-[ ] Mercenaries et Additional Orders.
-[ ] Shadows of Rose / Winters' Expansion.
-[ ] Verification finale du profil Steam : 56/56.
+- Mission Briefing : au sol près du véhicule renversé, juste après avoir repris le contrôle
+  dans la forêt.
 
-REGLE ANTI-SPOILER
+2.2 MAISON DU VILLAGE ET PREMIÈRE ARME
 
-Les domaines et modes servent uniquement a organiser la collecte. Les fins,
-morts, identites, boss et consequences ne sont pas decrits.
+- Traverse la maison indiquée par le chemin. Lis le document sur la table de la maison
+  du secteur nord avant de rejoindre la séquence suivante.
+- Après avoir reçu le pistolet, fouille les étagères et garde les cartouches.
+- Dans le cellier de la maison d'où sort le premier ennemi, récupère les Bolt Cutters.
+- Coupe le cadenas de la cour pour atteindre le village.
+- Dans la maison en face, monte à l'étage et prends les munitions posées sur l'étagère.
+- Quand l'embuscade commence, pousse l'armoire devant la porte puis utilise les bâtiments
+  comme couvert. Le but est de tenir jusqu'à la transition, pas de vider toutes tes balles.
+- Pour obtenir Strategist facilement, garde trois ennemis groupés et utilise une bombe,
+  une mine ou un tir explosif.
+- Pour Push Comes to Shove, bloque une attaque rapprochée puis appuie immédiatement sur
+  la commande de garde une seconde fois afin de repousser l'ennemi.
+- Pour Hunter, tue un animal dès que les corbeaux et les poules de la zone du cimetière
+  deviennent accessibles. Garde sa viande.
+
+FICHIER 6
+
+- Scribbled Note : table de la maison du secteur nord du village, avant l'embuscade.
+
+2.3 PREMIÈRE VAGUE DU VILLAGE : COLLECTE DANS L'ORDRE
+
+- Depuis la place, va au petit autel en bois du cimetière.
+- Lis le panneau consacré aux chèvres, puis détruis la chèvre posée dans l'autel.
+- Passe par l'église et sors sur son côté extérieur. Lève la caméra au-dessus de la
+  toiture : la chèvre est sur le toit, pas dans la nef.
+- Traverse le Fallow Plot en longeant le mur de gauche. La chèvre est posée sur la
+  partie haute du mur avec les tuiles de bois.
+- Avant de partir vers la maison de Luiza, fais le détour par la clôture du vignoble.
+  Dans la neige, près de l'épouvantail à l'arrière droit, détruis la chèvre.
+- Dans le cimetière, ouvre la porte de la petite chapelle si elle est accessible, et
+  vérifie les tombes. Le passage principal vers Luiza ne doit pas être quitté avec une
+  zone rouge si tu peux encore la nettoyer.
+
+FICHIERS 7 ET 8
+
+- Fichier 7 - Goat of Warding Placard : panneau de l'autel aux chèvres dans le cimetière.
+- Fichier 8 - Dangerous Creatures : chaise dans le hall d'entrée de la maison de Luiza.
+
+CHÈVRES 1 À 4
+
+- Chèvre 1 : autel en bois du cimetière.
+- Chèvre 2 : coin arrière droit du vignoble, dans la neige près de l'épouvantail.
+- Chèvre 3 : toit de l'église, visible depuis l'extérieur.
+- Chèvre 4 : mur de gauche du Fallow Plot, sur les tuiles en bois.
+
+TOILETTES 1 ET 2
+
+- Toilette 1 : cour de West Old Town, près du puits, pendant la première arrivée.
+- Toilette 2 : petite cour de West Old Town, à droite de la porte demandant la clé
+  d'insigne. Si la porte n'est pas encore ouverte, laisse-la pour le retour du village.
+
+2.4 MAISON DE LUIZA ET PORTE DU CHÂTEAU
+
+- Dans le Fallow Plot, passe par la fenêtre de la maison et ouvre la grille de la cour.
+- Après la scène de la maison, fouille le garage et la cuisine.
+- Ouvre le tiroir vert pour récupérer la clé du camion. Examine la clé dans l'inventaire
+  pour obtenir le tournevis.
+- Utilise la clé pour franchir le mur du garage.
+- À l'extérieur, utilise le tournevis sur le petit autel de la cour pour récupérer le
+  Demon Crest.
+- Le Maiden Crest se trouve dans l'église.
+- À la porte du château, place les deux crêtes et tourne-les pour faire correspondre le
+  motif gravé. N'entre pas dans le passage avant d'avoir vérifié le cimetière.
+- Sur le chemin suivant, ramasse tout ce qui est visible. Les matériaux rouillés et le
+  fluide chimique sont prioritaires pour les premiers soins et les munitions.
+- Dans la mine, cache-toi dans l'angle droit de la grande salle lorsque le rouleau à
+  pointes revient vers toi. Attends l'ouverture du passage puis remonte vers la porte.
+
+3. CHÂTEAU - PREMIÈRE EXPLORATION COMPLÈTE
+
+POINT DE NON-RETOUR DU CHÂTEAU
+
+Le château n'est plus accessible après la sortie définitive. Ne place pas les quatre
+masques dans la salle des quatre avant d'avoir terminé les sections 3.1 à 3.9, les 19
+fenêtres comptées, les deux chèvres du château, les fichiers 9 à 21 et les trésors
+ci-dessous.
+
+3.1 HALL D'ENTRÉE ET SALLE DU DUC
+
+- Dans le hall, lis Guest Book sur la table.
+- Passe dans la salle du Duc. Lis The Labyrinths sur la table et parle au Duc.
+- Achète au moins une petite amélioration seulement si tu ne vises pas Frugal Father.
+- La première salle de labyrinthe est ici. Le jeu ne demande qu'une réussite pour
+  Get the Ball Rolling, mais fais les quatre pour récupérer les récompenses.
+- La boule du premier labyrinthe est récupérée plus tard dans la salle située au-dessus
+  de l'Opera Hall. Note l'emplacement pour ton retour.
+
+FICHIERS 9 ET 10
+
+- Fichier 9 - Guest Book : table du hall d'entrée.
+- Fichier 10 - The Labyrinths : table de la salle du Duc, près du premier labyrinthe.
+
+3.2 SOUTERRAIN, CUISINE ET PREMIÈRES FENÊTRES
+
+- Dans le passage sous le château, récupère le Maroon Eye Ring sur la statue.
+- Examine l'anneau dans l'inventaire pour retirer le Maroon Eye.
+- Après la première poursuite, fais exploser ou tire les fenêtres visibles de la cuisine
+  et du couloir. La fenêtre brisée automatiquement pendant la scène est signalée dans
+  la fiche fenêtres, mais ne remplace pas un contrôle visuel.
+- Dans la cuisine, lis A Cook's Diary sur l'étagère.
+- Récupère la pièce LEMI - Recoil Compensator dans le couloir entre la cuisine et la
+  salle à manger. Équipe-la immédiatement pour Gunsmith.
+- Le lockpick du couloir ouvre le tiroir simple voisin. Fais-le avant de remonter.
+- Dans la zone des cellules, lis A Maid's Diary, Treatment Candidates et Observation
+  Report dans l'ordre où tu traverses les cellules.
+- Pour Medium Rare, garde un Moroaică vivant, utilise le brasero de la salle du trésor
+  puis pousse-le afin que l'ennemi prenne feu. Le feu du brasero compte ; une bombe
+  incendiaire n'est pas la méthode prévue pour ce défi.
+
+FICHIERS 11 À 15
+
+- Fichier 11 - Winemaking History : table de la Wine Room, à l'étage.
+- Fichier 12 - A Maid's Diary : table après la chute dans le sous-sol.
+- Fichier 13 - Treatment Candidates : devant une cellule du sous-sol.
+- Fichier 14 - Observation Report : table d'une cellule du sous-sol.
+- Fichier 15 - A Cook's Diary : étagère de la cuisine.
+
+3.3 SALLE À MANGER, COUR ET TOILETTES
+
+- Place le vin dans son support pour ouvrir le passage de la Courtyard Key.
+- Reviens à la salle à manger, ouvre la porte de la cour et fouille le côté sud.
+- Détruis les fenêtres de la salle à manger avant de lancer la suite.
+- Dans la salle du Hall of Ablution, prends la carte du château lorsque tu la vois.
+- Si une pièce est rouge sur la carte, retourne-la avant de descendre par le bassin.
+- Le casse-tête des quatre statues se résout ainsi : les trois hommes regardent
+  l'homme à cheval ; le cheval regarde la femme en robe ; la femme au chapeau et la
+  femme en robe se font face. Les trois statues qui doivent tourner sont celles qui
+  ne regardent pas encore leur cible.
+
+FENÊTRES DU CHÂTEAU : CONTRÔLE CHRONOLOGIQUE
+
+Le jeu annonce 19 fenêtres brisables pour Hooligan. Les guides comptent parfois 20
+repères parce que le premier tir intervient automatiquement pendant une scène. Pour
+éviter un compteur bloqué, casse toutes les lignes suivantes et vérifie le défi avant
+de quitter le château.
+
+- Fenêtres 1 et 2 : Dining Room, au rez-de-chaussée.
+- Fenêtre 3 : Kitchen, au rez-de-chaussée, dans la salle de la première sœur.
+- Fenêtres 4 et 5 : Dimitrescu's Chambers, au rez-de-chaussée, dans l'escalier qui
+  mène au puzzle des statues.
+- Fenêtres 6 à 8 : couloir du deuxième étage avant le Hall of Ablution.
+- Fenêtres 9 à 11 : Dimitrescu's Chambers, au deuxième étage : deux dans la pièce
+  et une sur le balcon.
+- Fenêtres 12 à 14 : escalier de l'Opera Hall entre le rez-de-chaussée et l'étage.
+- Fenêtres 15 à 17 : Opera Hall, au deuxième étage : deux au sud et une au nord.
+- Fenêtre 18 : Hall of Joy, au deuxième étage, après la Library.
+- Fenêtre 19 : Atelier, pendant le puzzle des cinq cloches : lève la caméra et tire
+  le vasistas/skylight.
+- Le premier tir imposé pendant la scène de la Kitchen peut être présenté comme un
+  repère séparé dans certains guides. Il ne remplace pas une des 19 fenêtres du
+  compteur Hooligan : tire quand même la fenêtre voisine et vérifie le défi avant
+  de quitter le château.
+
+3.4 DISTILLERIE, CLÉ DU CHÂTEAU ET PREMIER BOSS
+
+- Après le bassin, descends l'échelle vers la distillerie. Retourne-toi immédiatement
+  au bas de l'échelle : la chèvre est dans le coin près des bougies.
+- Chèvre 5 : bas de l'échelle de la distillerie, derrière toi, près des bougies.
+- Explore les cellules et lis les fichiers listés plus haut si ce n'est pas déjà fait.
+- Après la séquence du balcon, récupère la clé du château et ouvre les portes voisines.
+- Fouille la salle où tu obtiens le Mask of Sorrow.
+- Dans la salle du plaisir, récupère le trésor Silver Ring. Ne le vends pas : il se
+  combine avec Azure Eye.
+- Le coffre Azure Eye se trouve dans la partie souterraine accessible avec l'Iron
+  Insignia Key. Utilise le brasero pour ouvrir le passage, prends l'Azure Eye et combine
+  Azure Eye + Silver Ring pour Azure Eye Ring.
+- Le boss de la zone est sensible à l'exposition à l'air froid. Ouvre la fenêtre ou
+  utilise le passage prévu, puis vise la partie humaine visible. La stratégie reste
+  valable en Standard et sur les parties de temps.
+
+FICHIERS 16 ET 17
+
+- Fichier 16 - Alcina Dimitrescu's Diary : canapé de la chambre de la maîtresse.
+- Fichier 17 - Grand Chambermaid's Notice : palier près de la bibliothèque.
+
+3.5 OPERA HALL, PIANO ET BOULE DU LABYRINTHE
+
+- Au retour dans la cour, ouvre la porte nord avec la carte annexe.
+- Dans l'Opera Hall, descends au piano. Appuie sur la touche correspondante à la note
+  indiquée sur la portée ; la position de la note est affichée, il n'y a pas de limite
+  de temps. Le piano ouvre le tiroir contenant Iron Insignia Key.
+- Avant de quitter l'étage, lis les documents de l'Opera Hall.
+- Dans la pièce au nord-ouest, brise la fenêtre et fouille la table.
+- Récupère la boule du labyrinthe dans la pièce supérieure de l'Opera Hall.
+- Retourne dans la salle du Duc et résous le labyrinthe. Incline la bille doucement ;
+  les rails ralentissent la bille avant les trous. La récompense valide Get the Ball Rolling.
+
+FICHIER 18
+
+- Fichier 18 - Further Observations : commode de la galerie qui surplombe l'Opera Hall.
+
+3.6 BIBLIOTHÈQUE, ATELIER ET MASQUE DE JOY
+
+- Ouvre la bibliothèque avec l'Iron Insignia Key.
+- Active le mécanisme central pour laisser entrer l'air froid. Si le boss quitte la
+  pièce, réactive le mécanisme autant de fois que nécessaire.
+- Récupère le Mask of Joy après le combat.
+- Lis le document de l'Opera Hall au premier étage sur la table. Dans certaines listes,
+  son nom est Insect Observations Journal ; c'est le fichier 19 de cette fiche.
+- Dans l'Atelier, le puzzle demande cinq cloches :
+  une sur la table, une sur le pendule, une visible par la fenêtre, une dans le lustre
+  et une petite sur l'étagère. Tire le lustre pour le faire osciller, puis tire la cloche.
+- Brise le vasistas du plafond pendant ce puzzle. C'est le repère de fenêtre souvent oublié.
+- Avant de sortir, vérifie la commode, les étagères, les cristaux et la carte de zone.
+
+FICHIER 19
+
+- Fichier 19 - Insect Observations Journal / Further Observations : table de l'Opera
+  Hall au premier étage, selon la traduction affichée.
+
+3.7 GRENIER, F2 ET CHÈVRE 6
+
+- Monte au grenier après le passage de l'Atelier.
+- Prends le F2 Rifle contre le mur avant de sortir sur les toits.
+- Lis Rumors of a Dagger dans l'alcôve du grenier.
+- Chèvre 6 : fond du grenier, sur des caisses près des livres.
+- Sors sur les toits et casse les cristaux visibles.
+- Pour Trick Shot, un ennemi volant se pose sur une tourelle distante. Utilise le F2
+  et tue-le depuis le toit. Si tu rates, recharge la sauvegarde avant la tyrolienne.
+- Récupère le Mask of Rage au bout de la tyrolienne.
+- Redescends par l'ascenseur, puis ne place pas encore les masques.
+
+FICHIER 20
+
+- Fichier 20 - Rumors of a Dagger : alcôve avec table dans le grenier.
+
+3.8 DERNIÈRE BOUCLE DU CHÂTEAU
+
+- Reviens dans les salles encore rouges : Main Hall, Wine Room, Tasting Room, Opera
+  Hall, Library, Hall of Joy, Atelier, Rooftops et passages du sous-sol.
+- Prends les cristaux depuis les plafonds après avoir brisé les fenêtres.
+- Récupère les objets dans les tiroirs simples avec le lockpick.
+- Vérifie que LEMI - Recoil Compensator et F2 Rifle sont dans l'inventaire.
+- Le treasure map et les deux cartes du château doivent avoir été ramassés.
+- La boule du labyrinthe doit être utilisée. Une boule non utilisée laisse la salle du Duc
+  rouge et peut faire croire à un objet manquant.
+
+3.9 SORTIE ET FICHIER 21
+
+- Avant la porte des quatre masques, fais une sauvegarde manuelle.
+- Place les masques de gauche à droite en regardant la porte :
+  Mask of Sorrow, Mask of Pleasure, Mask of Joy, Mask of Rage.
+- Ouvre la porte et récupère le flacon de zone après la séquence.
+- Dans le petit bâtiment du chemin de sortie, ramasse Craftsman's Note près de la machine
+  à écrire.
+- Ouvre la troisième toilette du parcours dans le jardin de la maison de l'artisan.
+
+FICHIER 21 ET TOILETTE 3
+
+- Fichier 21 - Craftsman's Note : table près de la machine à écrire de Craftsman's House.
+- Toilette 3 : jardin de Craftsman's House, après avoir quitté le château.
+
+4. VILLAGE - DEUXIÈME PASSAGE
+
+4.1 LONE ROAD ET PREMIÈRES RÉCOMPENSES
+
+- Après la sortie du château, fouille la petite construction en pierre sur Lone Road.
+- Chèvre 7 : au sol dans cette construction sombre, derrière l'escalier qui descend
+  vers le quai.
+- Dans la zone du Duc, vends uniquement les trésors non combinables et vérifie le menu
+  Kitchen dès qu'il apparaît.
+- Mets de côté tous les ingrédients. Les repas permanents sont plus rentables que leur
+  vente immédiate.
+- Le Duc vend ou débloque alors plusieurs armes et pièces. N'achète pas les armes bonus
+  avant la partie dédiée si tu vises Frugal Father.
+
+4.2 OUEST DU VILLAGE, M1911 ET TOILETTES
+
+- Ouvre la porte du secteur sud-est avec la Four-Winged Key.
+- Casse le cadenas de la maison marquée Do Not Enter.
+- Dans l'atelier, ouvre le casier à combinaison. Le code est 070408.
+- Récupère le M1911 et le Jack Handle.
+- Soulève le tracteur avec le cric. Dans le passage suivant, ouvre la grille avec l'Iron
+  Insignia Key.
+- Ouvre la maison à cheminée rouge et inspecte la clé reçue pour créer la Four-Winged Key.
+- Fichier 22 : dans la maison proche du Maiden of War, sur la table de cuisine.
+- Ouvre la quatrième toilette dans la cour de la maison de Luiza.
+- Ouvre la cinquième toilette derrière la maison à l'est de la statue Maiden of War.
+- Ouvre les sixième et septième toilettes dans les cours de West Old Town.
+- Chèvre 8 : dans le cimetière derrière l'église, dans la neige derrière une grande tombe.
+- Chèvre 9 : sur le petit toit de la cour de Luthier's House, derrière la grande maison.
+- Dans la zone de la maison à cheminée rouge, ramasse les poules, le cochon et les poissons.
+- Ne tue pas la chèvre noire rare avant d'avoir identifié son point de collecte pour
+  le plat Tochitura de Pui.
+
+FICHIER 22 ET TOILETTES 4 À 7
+
+- Fichier 22 - Leonardo's Message : table de cuisine de la maison proche de Maiden of War.
+- Toilette 4 : cour de Luiza's House.
+- Toilette 5 : derrière la maison à l'est de Maiden of War.
+- Toilette 6 : cour de West Old Town, deuxième passage.
+- Toilette 7 : jardin de Luthier's House, deuxième passage.
+
+4.3 LUTHIER, PUITS ET TRÉSORS COMBINABLES
+
+- Lis Note on the Luthier's House sur le mur extérieur de la maison du luthier.
+- Dans le jardin de Luthier's House, ouvre le puits avec la Well Wheel.
+- Récupère la Wooden Animal Head au fond du puits.
+- Combine Wooden Animal Head + Wooden Animal Body trouvé dans la maison proche de
+  Maiden of War pour former Wooden Goat.
+- Le code du coffre de la maison du luthier se déduit du dessin d'anniversaire accroché
+  au mur. Si tu veux la solution directe, utilise 270917.
+- Dans la maison au sud de Maiden of War, lis Eugen's Diary sur la table.
+- Ouvre la huitième toilette dans la cour de cette maison.
+- Fichier 24 : Eugen's Diary, maison d'Eugen au sud de Maiden of War.
+- Ramasse la clé de luthier, puis ouvre la porte correspondant au trésor Maestro's
+  Collection. Le high-capacity magazine du F2 est dans ce secteur.
+- Dans la cour de Luthier's House, vérifie le toit, les étagères et le cristal au plafond.
+
+FICHIERS 23 ET 24
+
+- Fichier 23 - Note on the Luthier's House : mur extérieur de Luthier's House.
+- Fichier 24 - Eugen's Diary : table de la maison d'Eugen, au sud de Maiden of War.
+
+4.4 ÉGLISE, CHAPELLE ET MAISON DE BENEVIENTO
+
+- Lis Church Computer dans l'église, accessible après le passage du château.
+- Dans le cimetière, ouvre la tombe nécessitant l'Iron Insignia Key pour récupérer
+  Necklace with Two Holes.
+- Dans la zone du cimetière, récupère la nourriture des poules.
+- Lis Gardener's Diary dans le bâtiment de jardin de la route de House Beneviento.
+- Ouvre la neuvième toilette derrière un bâtiment du jardin de Beneviento.
+- Chèvre 10 : avant la porte de House Beneviento, prends le petit chemin à gauche de
+  la terrasse et suis la falaise jusqu'à la clôture métallique. La chèvre est derrière.
+- Ne rentre pas dans la maison avant d'avoir pris cette chèvre et nettoyé la carte rouge.
+- Après la maison, sur le pont suspendu, regarde le pont cassé à droite.
+- Chèvre 11 : sur le pont cassé, tire depuis le pont praticable.
+- Dans la zone du jardin, récupère le W870 TAC dans le bâtiment indiqué par la carte,
+  puis Madalina Body dans la petite maison voisine.
+- Garde-la pour former Miss Madalina plus tard.
+
+FICHIERS 25 ET 26
+
+- Fichier 25 - Church Computer : ordinateur de l'église.
+- Fichier 26 - Gardener's Diary : table du bâtiment du jardin de Beneviento.
+
+4.5 PUZZLES DE BENEVIENTO
+
+- Place la photo de famille dans la fente de la porte et descends dans la maison.
+- Examine le grand mannequin pour prendre Silver Key dans l'épaule droite.
+- Prends Winding Key dans la jambe gauche.
+- Retire Blood Covered Ring de la main gauche.
+- Utilise Silver Key sur la petite porte. Lave l'anneau au lavabo pour obtenir Wedding Ring.
+- Examine Wedding Ring dans l'inventaire : le code de la porte est 052911.
+- Ouvre la boîte à musique avec Winding Key. Aligne les rayures des cylindres.
+  Si tu veux la solution directe, le principe est de replacer les cylindres afin que
+  les rainures forment une ligne continue entre les cinq positions.
+- Prends Tweezers dans la boîte à musique.
+- Utilise Tweezers dans la bouche du mannequin pour obtenir Film.
+- Au projecteur, place les bandes dans cet ordre : Bear, Book, Rose, Music Box, Ring.
+- Passe par l'ouverture, prends Scissors et coupe les bandages.
+- Coupe les bandages du torse du mannequin et récupère Brass Medallion.
+- Sur la porte du médaillon, règle le symbole en haut à gauche sur l'oiseau orienté vers
+  la droite avec les ailes vers la gauche. Règle le symbole du bas sur les trois yeux fermés.
+- Descends au fond du puits pour obtenir Breaker Box Key.
+- Évite la créature de la maison en passant par la table de la salle de la poupée puis
+  rejoins la boîte électrique près de l'ascenseur.
+- Prends Relief of a Child, ouvre la porte du couloir et récupère Fuse dans la chambre.
+- Retourne vers l'ascenseur par le chemin de la salle des poupées. Place Fuse puis ferme
+  rapidement la porte de l'ascenseur.
+- La confrontation finale de la maison se gagne en trouvant la poupée trois fois.
+  Le premier emplacement est toujours la chambre à l'étage. Les deux suivants changent
+  entre l'entrée, la salle à manger, le couloir près de l'ascenseur et le salon.
+- Inspecte ensuite la clé obtenue pour former Four-Winged Unborn Key.
+- Récupère le flacon de la zone et retourne au village.
+
+5. VILLAGE ET RÉSERVOIR
+
+5.1 PRÉPARER LES ANIMAUX ET LE DUC
+
+- Au retour, vérifie la carte : West Old Town, l'église, la maison rouge, Luthier's House
+  et le jardin de Beneviento doivent être bleus.
+- Récupère les poissons du chemin principal, les poules du village, les cochons et les
+  chèvres. Les cartes indiquent les secteurs d'animaux.
+- Fabrique ou achète le Well Wheel si ce n'est pas déjà fait.
+- Donne les ingrédients au Duc dans l'ordre des six plats de la section Cuisine.
+- N'utilise pas les ingrédients de cuisine dans le craft.
+
+5.2 ROUTE VERS LE RÉSERVOIR
+
+- Au sud de la zone du Duc, utilise la Four-Winged Unborn Key.
+- Détruis les plaques de boue qui bloquent le chemin.
+- Dans le premier secteur des moulins, Chèvre 12 se trouve derrière le premier moulin,
+  près du bois coupé.
+- Descends dans le moulin et récupère le flacon des bras.
+- Dans la maison près de l'arbre, prends Boat Key.
+- Utilise-la au quai et traverse les deux tunnels.
+- Lis The Reservoir and Giant Fish dans la cabane proche de l'eau.
+- Ouvre la dixième toilette derrière la Gatehouse du réservoir.
+- Dans le camion au nord-est de la Gatehouse, lis Changing the Cranks.
+- Fais la séquence des interrupteurs avec l'ordre GREEN, BLUE, ORANGE, puis ORANGE
+  sur le dernier interrupteur de la course.
+- Chèvre 13 : pendant la poursuite sur les plateformes immergées, près du commutateur
+  couvert de boue verte, regarde à gauche vers le poteau en bois.
+- Chèvre 14 : après le drainage, prends le chemin optionnel vers les poissons. La chèvre
+  est sur un amas de déchets au-dessus de l'eau.
+- Dans la zone précédemment immergée, lis Moreau's Diary 1 dans le tiroir.
+- Après la confrontation de la zone, lis Moreau's Diary 2 près du téléviseur.
+- Dans Moreau's Lab, lis Moreau's Diary of Experiments.
+- Dans Moreau's Lab, prends le M1851 Wolfsbane dans la maison au bout du chemin indiqué
+  par la carte au trésor.
+- Le puzzle du moulin à lumière se lit en tournant le schéma : reproduis les cinq points
+  lumineux sur le panneau, en tenant compte de la rotation vers la droite.
+- Après la séquence du boss, ramasse le flacon et le morceau de clé, puis examine la clé
+  pour obtenir Six-Winged Unborn Key.
+
+FICHIERS 27 À 32
+
+- Fichier 27 - Vasile's Final Testament : bâtiment où tu cours après l'attaque du
+  Vârcolac, près des restes de Vasile.
+- Fichier 28 - The Reservoir and Giant Fish : table de la cabane du réservoir.
+- Fichier 29 - Changing the Cranks : siège du camion au nord-est de la Gatehouse.
+- Fichier 30 - Moreau's Diary 1 : tiroir d'un bâtiment après le drainage.
+- Fichier 31 - Moreau's Diary 2 : près du téléviseur du repaire, sur le chemin de retour.
+- Fichier 32 - Moreau's Diary of Experiments : table de Moreau's Lab.
+
+5.3 TRÉSORS DU RÉSERVOIR ET ENVIRONS
+
+- Après avoir vidé l'eau, retourne dans les zones latérales pour les poissons et les
+  cristaux. Utilise la carte : les passages non bleus restent accessibles.
+- Ouvre le labyrinthe de la zone du réservoir avec Mermaid Ball.
+- Dans le chemin optionnel sous la zone, prends Silver Angel Statue, les poissons et les
+  cristaux.
+- Dans la maison du trésor au brasero, attire un Moroaică vers le feu pour ouvrir la
+  porte. Cette action valide aussi Medium Rare si ce n'est pas déjà fait.
+- Récupère Golden Lady Statue, Large Pigeon Blood Ruby et Pigeon Blood Ruby.
+- Combine Necklace with Two Holes + Pigeon Blood Ruby + Large Pigeon Blood Ruby pour
+  former Dimitrescu's Necklace.
+- Dans le champ après le réservoir, le Vârcolac Alfa peut apparaître. Vaincs-le pour
+  Leader of the Pack. Utilise une arme améliorée ou une sauvegarde dédiée.
+- Dans le champ, déclenche une flèche enflammée et frappe-la avec le couteau pour
+  Fast Reflexes. Le bon moment est la zone où deux archers attaquent depuis les hauteurs.
+
+6. OTTO'S MILL ET STRONGHOLD
+
+6.1 OTTO'S MILL
+
+- Depuis l'entrée du chemin vers le Stronghold, prends le détour à gauche vers Otto's Mill.
+- Le moulin contient un combat optionnel et un autel en bois sous la structure.
+- Chèvre 15 : autel sous Otto's Mill.
+- Lis Ernest's Diary sur une table du moulin.
+- Récupère les viandes, la chèvre rare et le poisson dans la zone du moulin.
+- Combine Madalina Body + Madalina Head trouvé au fond du puits du jardin de Beneviento.
+  Le résultat est Miss Madalina.
+- Lis Analysis Results sur l'ordinateur portable de la grotte au sud de Lone Road,
+  accessible après le détour du réservoir.
+
+FICHIERS 33 ET 34
+
+- Fichier 33 - Analysis Results : ordinateur dans la grotte au sud de Lone Road.
+- Fichier 34 - Ernest's Diary : table à l'intérieur d'Otto's Mill.
+
+6.2 STRONGHOLD
+
+- Suis les panneaux jusqu'à la forteresse. Les ennemis peuvent être évités dans la
+  première traversée si tu veux économiser des ressources.
+- Pour ouvrir la grande grille, active les deux leviers : un par l'escalier gauche et un
+  par l'échelle droite.
+- Chèvre 16 : en montant l'escalier en colimaçon central, près des seaux métalliques.
+- Lis Officer's Diary au niveau inférieur, sur le sol d'une salle.
+- Lis Experiment Notes dans la prison près de la sortie.
+- Dans le combat majeur de la forteresse, reste autour des piliers et vise la tête
+  lorsqu'elle est exposée. Les munitions explosives sont efficaces.
+- Récupère le flacon final, puis retourne au village par le bateau.
+
+FICHIERS 35 ET 36
+
+- Fichier 35 - Officer's Diary : sol d'une salle des niveaux inférieurs du Stronghold.
+- Fichier 36 - Experiment Notes : table de la prison près de la sortie du Stronghold.
+
+7. VILLAGE - NETTOYAGE AVANT L'USINE
+
+POINT DE NON-RETOUR DE L'USINE
+
+Place les quatre flacons dans le Giant's Chalice, mais sauvegarde avant de déposer la
+coupe au Ceremony Site. Une fois le pont vers l'usine franchi, le village et les zones
+précédentes ne sont plus accessibles dans cette partie.
+
+NETTOYAGE À FAIRE AVANT LA COUPE
+
+- Toutes les zones de la carte doivent être bleues.
+- Les toilettes 1 à 10 doivent être ouvertes dans cette partie.
+- Les chèvres 1 à 16 doivent être détruites.
+- Les fichiers 1 à 36 doivent être lus.
+- Les trésors combinables doivent être assemblés.
+- Les six plats du Duc doivent être préparés si les ingrédients sont disponibles.
+- Les armes facultatives doivent être achetées ou ramassées selon la route choisie.
+- La carte du village doit afficher toutes les zones secondaires en bleu.
+- Vérifie les coffres : Beneviento Treasure, Waterwheel Weapon, Maestro's Collection,
+  Cannibal's Plunder, Riverbank Treasure et Moreau's Hidden Weapon.
+
+7.1 TRÉSORS DE CARTE À NE PAS OUBLIER
+
+- Beneviento Treasure : après la maison de Beneviento, reviens au cimetière du village.
+  Place le Broken Slab dans la tombe ouverte, puis récupère le trésor dans le caveau.
+- Waterwheel Weapon : utilise Iron Insignia Key sur la porte du bâtiment à l'est du
+  village et récupère le GM79 ou l'arme prévue par l'édition.
+- Maestro's Collection : ouvre la maison du luthier avec la clé correspondante et utilise
+  le code 270917 sur le casier.
+- Cannibal's Plunder : prends le chemin d'Otto's Mill, bats le gardien et ouvre le coffre
+  au fond de la salle du moulin.
+- Riverbank Treasure : au sud de Lone Road, utilise le brasero pour allumer les deux
+  torches. Fais entrer un Moroaică dans la zone afin qu'il embrase la torche restante,
+  puis ouvre la grille.
+- Moreau's Hidden Weapon : après le drainage du réservoir, utilise la manivelle sur le
+  bâtiment optionnel et récupère son trésor et ses ressources. Le M1851 Wolfsbane se
+  trouve bien dans Moreau's Lab, dans la maison indiquée par la carte au trésor.
+- Treasure Under the Stronghold : vérifie le quai et les caisses avant d'embarquer.
+- Les cartes du château et de l'usine ne servent pas seulement à l'histoire : un fond rouge
+  signifie qu'un objet ou un cristal est encore dans une salle.
+
+7.2 TRÉSORS À ASSEMBLER
+
+- Azure Eye Ring : Azure Eye + Silver Ring, château.
+- Wooden Goat : Wooden Animal Head + Wooden Animal Body, village.
+- Miss Madalina : Madalina Head + Madalina Body, jardin de Beneviento et village.
+- Dimitrescu's Necklace : Necklace with Two Holes + Pigeon Blood Ruby +
+  Large Pigeon Blood Ruby.
+- Heisenberg's Hammer : Mechanical Part - Cylinder + Mechanical Part - Shaft,
+  usine et quartiers de la zone finale.
+- Ne vends jamais les pièces séparées d'un ensemble. Le prix de vente final est supérieur
+  et Repairer exige un trésor complet.
+
+8. USINE DE HEISENBERG
+
+8.1 ENTRÉE ET NIVEAUX B4/B3
+
+- Après avoir placé la Giant's Chalice au Ceremony Site, entre dans l'usine.
+- Suis le chemin unique jusqu'au Duc dans le grand ascenseur.
+- Détruis les lumières rouges sur les portes et les machines. Un couteau économise les
+  balles sur les voyants.
+- Sur B4, prends Relief Mold et utilise-le dans la fonderie pour obtenir Relief of a Horse.
+- Place le relief sur la porte du mur et continue.
+- Sur B4/B3, récupère Cog Mold, reviens à la fonderie et fabrique Large Cog.
+- Place le grand engrenage sur la génératrice.
+- Dans la salle de fabrication, lis Development Note 1.
+- Dans la zone des broyeurs, lève la caméra vers la grande pelle métallique :
+  Chèvre 17 est posée au-dessus. Utilise le F2 si nécessaire.
+- Dans le niveau B3, fais le tour des ponts et récupère la Chèvre avant de déclencher la
+  séquence d'ascenseur.
+
+FICHIER 37
+
+- Fichier 37 - Development Note 1 : salle du niveau MB4, dans la zone de la fonderie.
+
+CHÈVRE 17
+
+- Chèvre 17 : Grinder Shaft, au-dessus de la pelle métallique du puits d'ascenseur.
+
+8.2 B2, SHAFT ET SALLES DES SOLDAT
+
+- Sur B2, récupère Key Mold, puis fabrique Heisenberg's Key à la fonderie.
+- Lis Development Note 2 dans la salle de B2.
+- Dans la salle des turbines, tire les quatre voyants rouges : un au centre et trois
+  sur l'anneau extérieur.
+- Dans la turbine suivante, détruis le voyant central avant d'être aspiré.
+- Dans les couloirs des Soldat, brise les voyants des portes à cinq lumières.
+- Pour Quit Hanging Around, repère un Soldat suspendu à la chaîne de production et
+  tire-le avant qu'il ne tombe.
+- Dans le Cargo Bay Control Room, passe par la grille métallique. La chèvre est sur un
+  fût en acier dans le renfoncement, à viser depuis l'ouverture.
+
+FICHIER 38 ET CHÈVRE 18
+
+- Fichier 38 - Development Note 2 : salle du niveau B2.
+- Chèvre 18 : Cargo Bay Control Room, sur le fût derrière la grille métallique.
+
+8.3 B1, STURM ET DERNIERS FICHIERS
+
+- Utilise Heisenberg's Key sur B1.
+- Fichier 39 - Sturm : salle du niveau B1, avant la grande séquence de combat.
+- Après le combat de B1, lis Heisenberg's Diary dans la salle voisine.
+- Pour Mechanical Part - Cylinder, fouille le niveau MB4 après le passage de la fonderie.
+- Pour Mechanical Part - Shaft, fouille les quartiers du niveau B1 après le combat de B1.
+  Combine-les ensuite pour Heisenberg's Hammer.
+- Chèvre 19 : salle latérale de B1 après le combat, dans la zone accessible depuis le
+  couloir de sortie.
+- Pour le boss de l'usine, tire le voyant rouge du moteur dorsal lorsqu'il est exposé.
+  Dans les couloirs, attends la troisième charge avant de viser ; sous le feu, déplace-toi
+  derrière les blocs puis reprends le tir.
+- Récupère le véhicule de combat et utilise son canon sur les points faibles visibles.
+- Après la séquence, rejoins le point de sauvegarde du Duc et vends seulement les trésors
+  finis.
+
+FICHIERS 39 ET 40
+
+- Fichier 39 - Sturm : salle de B1 avant le combat.
+- Fichier 40 - Heisenberg's Diary : salle de B1 après le combat de l'usine.
+
+9. CHRIS ET LA ZONE FINALE
+
+9.1 SCRAPHEAP ET COMPUTER
+
+- Après la transition de personnage, fouille le Scrapheap avant de suivre le marqueur.
+- Fichier 41 - Chris's Computer : ordinateur du Scrapheap, niveau B5 de l'usine.
+- La carte devient ensuite la zone principale de contrôle. Ouvre toutes les caisses,
+  tire les cristaux et utilise les frappes de zone sur les groupes.
+- Chèvre 20 : dans la zone de la statue du Megamycete, au pied de la statue, près des
+  pointes au sol. Elle est dans la partie contrôlée par Chris.
+- Détruis-la avant de placer l'explosif et de quitter la zone.
+
+FICHIER 41 ET CHÈVRE 20
+
+- Fichier 41 - Chris's Computer : ordinateur du Scrapheap au niveau B5.
+- Chèvre 20 : pied de la statue du Megamycete, dans la zone finale contrôlée par Chris.
+
+9.2 LABORATOIRE : FICHIERS 42 À 47
+
+Après la pose de la charge, le laboratoire devient accessible. Les six derniers fichiers
+sont regroupés dans la même zone : ne lance pas la séquence suivante avant de les lire.
+
+- Fichier 42 - Moreau's Medical Report : table du laboratoire, premier rapport.
+- Fichier 43 - Dimitrescu's Medical Report : même table, à côté du précédent.
+- Fichier 44 - Heisenberg's Medical Report : même table, à côté des autres rapports.
+- Fichier 45 - Donna's Medical Report : même salle, quatrième rapport médical.
+- Fichier 46 - Spencer's Letter : petite table de côté, près du microscope.
+- Fichier 47 - Miranda's Diary : grande table centrale, entre les éléments du laboratoire.
+- Lis chaque document dans l'inventaire. Le dernier document est souvent ramassé mais pas
+  ouvert, ce qui bloque Bookworm à 46/47.
+- Rejoins ensuite le site du rituel.
+- Pour The Root of the Matter, avance jusqu'au cœur du Megamycete sous le village.
+- Pour la confrontation finale, vise la forme actuellement exposée, tire les projectiles
+  flottants avant qu'ils ne reviennent vers toi et place-toi derrière les piliers lorsque
+  l'arène devient dangereuse.
+- Après le générique, crée la sauvegarde de fin. Elle sert de base au New Game Plus.
+
+10. REGISTRE DES 47 FICHIERS
+
+- 01 Fridge Memo : cuisine de la maison Winters.
+- 02 Old News Clipping : pièce de rangement à l'étage.
+- 03 Ethan's Diary : ordinateur du bureau.
+- 04 Medical Checkup Report : tiroir du bureau.
+- 05 Mission Briefing : sol près du véhicule renversé.
+- 06 Scribbled Note : table de la maison du nord du village.
+- 07 Goat of Warding Placard : autel aux chèvres du cimetière.
+- 08 Dangerous Creatures : chaise dans le hall de Luiza's House.
+- 09 Guest Book : table du hall du château.
+- 10 The Labyrinths : table de la salle du Duc.
+- 11 Winemaking History : table de la Wine Room.
+- 12 A Maid's Diary : table après la chute dans le sous-sol.
+- 13 Treatment Candidates : devant une cellule du sous-sol.
+- 14 Observation Report : table d'une cellule du sous-sol.
+- 15 A Cook's Diary : étagère de la cuisine.
+- 16 Alcina Dimitrescu's Diary : canapé de la chambre principale.
+- 17 Grand Chambermaid's Notice : palier près de la bibliothèque.
+- 18 Further Observations : commode de la galerie au-dessus de l'Opera Hall.
+- 19 Insect Observations Journal : table de l'Opera Hall.
+- 20 Rumors of a Dagger : alcôve du grenier.
+- 21 Craftsman's Note : table de Craftsman's House.
+- 22 Leonardo's Message : table de cuisine de la maison près de Maiden of War.
+- 23 Note on the Luthier's House : mur extérieur de Luthier's House.
+- 24 Eugen's Diary : table de la maison au sud de Maiden of War.
+- 25 Church Computer : ordinateur de l'église.
+- 26 Gardener's Diary : table du bâtiment du jardin de Beneviento.
+- 27 Vasile's Final Testament : bâtiment de l'East Old Town après l'attaque du loup.
+- 28 The Reservoir and Giant Fish : table de la cabane du réservoir.
+- 29 Changing the Cranks : siège du camion au nord-est de la Gatehouse.
+- 30 Moreau's Diary 1 : tiroir du bâtiment après le drainage.
+- 31 Moreau's Diary 2 : près du téléviseur du repaire.
+- 32 Moreau's Diary of Experiments : table de Moreau's Lab.
+- 33 Analysis Results : ordinateur de la grotte au sud de Lone Road.
+- 34 Ernest's Diary : table d'Otto's Mill.
+- 35 Officer's Diary : sol du niveau inférieur du Stronghold.
+- 36 Experiment Notes : table de la prison proche de la sortie.
+- 37 Development Note 1 : salle MB4 de l'usine.
+- 38 Development Note 2 : salle B2 de l'usine.
+- 39 Sturm : salle B1 avant le combat.
+- 40 Heisenberg's Diary : salle B1 après le combat.
+- 41 Chris's Computer : Scrapheap B5.
+- 42 Moreau's Medical Report : laboratoire de Miranda, première table.
+- 43 Dimitrescu's Medical Report : laboratoire de Miranda, même table.
+- 44 Heisenberg's Medical Report : laboratoire de Miranda, même table.
+- 45 Donna's Medical Report : laboratoire de Miranda, même table.
+- 46 Spencer's Letter : petite table près du microscope.
+- 47 Miranda's Diary : grande table centrale du laboratoire.
+
+11. REGISTRE DES 20 CHÈVRES
+
+- 01 Cimetière : autel en bois.
+- 02 Vignoble : neige, rangée arrière près de l'épouvantail.
+- 03 Église : toiture visible depuis l'extérieur.
+- 04 Fallow Plot : mur de gauche avec tuiles de bois.
+- 05 Château : bas de l'échelle de la distillerie, près des bougies.
+- 06 Château : fond du grenier, caisses près des livres.
+- 07 Lone Road : sol de la petite construction en pierre.
+- 08 Cimetière derrière l'église : derrière une grande tombe, zone ouverte par la clé.
+- 09 West Old Town : toit du petit appentis derrière Luthier's House.
+- 10 Beneviento : chemin à gauche de la maison, derrière la clôture métallique.
+- 11 Pont suspendu : pont cassé à droite du pont praticable.
+- 12 Réservoir : derrière le premier moulin, près du bois coupé.
+- 13 Réservoir : poteau en bois près du commutateur couvert de boue.
+- 14 Réservoir drainé : amas de déchets près des poissons.
+- 15 Otto's Mill : autel en bois sous le moulin.
+- 16 Stronghold : escalier en colimaçon, près des seaux.
+- 17 Usine : pelle métallique au-dessus du Grinder Shaft.
+- 18 Usine : fût derrière la grille du Cargo Bay Control Room.
+- 19 Usine : salle latérale de B1 après le combat.
+- 20 Zone Chris : pied de la statue du Megamycete.
+
+12. REGISTRE DES 10 TOILETTES
+
+- 01 West Old Town : cour avec le puits, première visite.
+- 02 West Old Town : à droite de la porte Iron Insignia.
+- 03 Craftsman's House : jardin après la sortie du château.
+- 04 Luiza's House : cour après le retour au village.
+- 05 Maison à l'est de Maiden of War : derrière la maison.
+- 06 West Old Town : cour du deuxième passage.
+- 07 Luthier's House : jardin du deuxième passage.
+- 08 Maison d'Eugen : cour au sud de Maiden of War.
+- 09 Jardin de Beneviento : derrière un bâtiment du jardin.
+- 10 Réservoir : derrière la Gatehouse.
+- Ouvre-les toutes dans la même partie pour When You Gotta Go... .
+- Une porte ouverte reste validée même si le contenu de la cabane a déjà été ramassé.
+
+13. ARMES, PIÈCES ET AMÉLIORATIONS
+
+13.1 ARMES DE LA CAMPAGNE
+
+- LEMI : pistolet de départ.
+- M1897 : table de la maison pendant la première attaque du village.
+- F2 Rifle : grenier du château.
+- M1911 : casier à combinaison 070408 dans l'atelier du village.
+- W870 TAC : bâtiment du jardin de House Beneviento.
+- GM79 : Waterwheel Weapon ou récompense du coffre correspondant.
+- M1851 Wolfsbane : Moreau's Lab, dans la maison indiquée par le trésor de la zone.
+- V61 Custom : vente du Duc à l'arrivée à l'usine.
+- SYG-12 : vente du Duc à l'arrivée à l'usine.
+- WCX : Extra Content Shop.
+- USM-AI : Extra Content Shop.
+- Dragoon : Extra Content Shop.
+- S.T.A.K.E. : vente du Duc en New Game Plus après déblocage.
+- Handcannon PZ : Extra Content Shop après avoir terminé la campagne en Hardcore.
+- Karambit Knife : Extra Content Shop.
+- Rocket Pistol : récompense de Village of Shadows.
+- LZ Answerer : récompense des rangs SS de Mercenaries, utile mais non nécessaire pour
+  les 56 succès listés ici.
+
+13.2 22 PIÈCES D'ARME À ÉQUIPER
+
+La réussite Veteran Gunsmith demande d'équiper les pièces, pas seulement de les posséder.
+Après chaque achat, ouvre le menu de l'arme et fixe la pièce sur le modèle concerné.
+
+- LEMI - Recoil Compensator : couloir entre Kitchen et Dining Room du château.
+- LEMI - High-Capacity Mag : vente du Duc en New Game Plus.
+- M1897 - Hair Trigger : vente du Duc.
+- F2 - High-Magnification Scope : vente du Duc.
+- F2 - Cheek Rest : vente du Duc.
+- F2 - High-Capacity Mag : Maestro's Collection, maison du luthier.
+- M1911 - High-Capacity Mag : maison du village, retour après le château.
+- M1911 - Improved Grip : vente du Duc après Beneviento.
+- W870 TAC - Foregrip : grotte au sud de Lone Road, accessible après le réservoir.
+- W870 TAC - Improved Gunstock : vente du Duc.
+- M1851 Wolfsbane - Increased Capacity Cylinder : vente du Duc après l'achat du magnum.
+- M1851 Wolfsbane - Long Barrel : Operating Room MB4, dans l'usine.
+- V61 Custom - Long Barrel : vente du Duc après achat de l'arme bonus.
+- V61 Custom - Drum Magazine : vente du Duc.
+- V61 Custom - Gunstock : vente du Duc.
+- SYG-12 - Long Barrel : vente du Duc.
+- SYG-12 - Drum Magazine : vente du Duc.
+- SYG-12 - Red Dot Sight : vente du Duc.
+- WCX - Red Dot Sight : vente du Duc.
+- WCX - Foregrip : vente du Duc.
+- S.T.A.K.E. - High-Capacity Mag : vente du Duc.
+- S.T.A.K.E. - Improved Grip : vente du Duc.
+- Après avoir équipé les 22 pièces, sauvegarde, quitte vers le menu principal et vérifie
+  le défi Veteran Gunsmith. Les pièces des armes bonus ne remplacent pas les armes de
+  la campagne : il faut équiper chaque modèle concerné.
+
+13.3 11 RECETTES DE FABRICATION
+
+- First Aid Med : recette de départ.
+- Handgun Ammo : recette de départ.
+- Shotgun Ammo : après l'obtention d'un fusil à pompe, achat chez le Duc.
+- Sniper Rifle Ammo : après l'obtention du F2, achat chez le Duc.
+- Mine : après avoir obtenu une mine, achat chez le Duc.
+- Pipe Bomb : après avoir ramassé une bombe, achat chez le Duc.
+- Explosive Rounds : après le GM79, achat chez le Duc.
+- Flashbangs : après le GM79, achat chez le Duc.
+- Magnum Ammo : après l'achat ou l'obtention d'un magnum, achat en New Game Plus.
+- Assault Rifle Ammo : après l'achat du WCX, achat en New Game Plus.
+- Rocket Pistol Ammo : après avoir débloqué le Rocket Pistol, achat après Village of
+  Shadows.
+- Pour Artisan, achète les 11 recettes. Pour Tinkerer, fabrique au moins une fois chaque
+  type dans le menu de craft, y compris les munitions des armes bonus.
+
+13.4 LES SIX PLATS DU DUC
+
+- Herbed Fish : 3 poissons et 2 volailles. Augmente légèrement la santé.
+- Bird and Beast Pilaf : 4 volailles et 1 viande. Réduit les dégâts en garde.
+- Three-Flavored Mititei : 4 poissons, 2 volailles et 3 viandes. Augmente la santé.
+- Tochitura de Pui : 4 volailles, 3 viandes et 1 Juicy Game. Augmente fortement la santé.
+- Ciorba de Porc : 1 poisson, 5 viandes et 1 Quality Meat. Réduit fortement les dégâts
+  en garde.
+- Sarmale de Peste : 6 poissons et 1 Finest Fish. Augmente la vitesse de déplacement.
+- Donne les ingrédients au Duc au fil des retours. Les quantités rares sont limitées :
+  poisson spécial, viande de qualité, viande juteuse et poisson fin ne doivent jamais
+  être vendus.
+- Les cartes marquent les zones d'animaux restantes. Quand une zone devient bleue après
+  la chasse, passe à la prochaine zone plutôt que de revenir inutilement.
+
+14. TRÉSORS, CLÉS ET CODES RAPIDES
+
+- Casier de l'atelier : 070408.
+- Porte de Beneviento : 052911, lu sur Wedding Ring après lavage.
+- Casier de Luthier : 270917, indice sur le dessin d'anniversaire.
+- Code d'un coffre n'est jamais lié à un succès Steam, mais les trésors sont nécessaires
+  pour acheter les armes, les pièces et les améliorations.
+- Inspecte toutes les clés et tous les fragments dans l'inventaire : plusieurs objets
+  changent de forme et deviennent une clé à quatre, puis à six ailes.
+- Le Crimson Glass, Silver Ring, Azure Eye, Crimson Skull, Onyx Skull, Cesare's Goblet,
+  Guglielmo's Plate, Berengario's Chalice et les crânes de labyrinthes sont vendables
+  après vérification des combinaisons.
+- Le Beneviento Treasure, les deux trésors de Moreau, Maestro's Collection, Cannibal's
+  Plunder, Riverbank Treasure et les armes de coffre doivent être récupérés avant l'usine.
+
+15. DÉFIS DE CAMPAGNE ET ROUTES DÉDIÉES
+
+15.1 DON'T TRUST THAT SNAKE OIL
+
+- Termine la campagne avec quatre objets de soin utilisés ou moins.
+- Fais une sauvegarde manuelle avant chaque combat majeur.
+- Utilise les soins de cuisine du Duc avant la route dédiée pour augmenter la santé.
+- Le jeu compte les First Aid Med utilisés. Les soins automatiques ou la cuisine ne sont
+  pas des objets First Aid Med.
+- En cas de doute, recharge la sauvegarde avant le soin. Ne mélange pas cette route avec
+  la partie couteau si tu veux une progression sûre.
+
+15.2 DASHING DAD
+
+- Termine la campagne en moins de trois heures.
+- Utilise New Game Plus avec une arme à munitions infinies.
+- Ignore les collectables et les combats optionnels.
+- Fais les puzzles avec les codes directs de la section précédente.
+- Les cinématiques ne sont pas supprimées par le bouton pause : mets le jeu en pause dès
+  que tu dois t'absenter.
+- Une sauvegarde dédiée avant la maison Beneviento et avant l'usine évite de perdre une
+  heure sur un échec.
+
+15.3 FRUGAL FATHER
+
+- Termine la campagne en dépensant 10 000 Lei ou moins.
+- Fais la partie en New Game Plus avec l'équipement déjà acquis.
+- N'achète rien chez le Duc. Les pièces trouvées et les améliorations héritées suffisent.
+- Les ventes sont autorisées, mais ne rachète pas d'objet ensuite.
+- Fais une sauvegarde avant la dernière dépense. La cuisine est préférable car les
+  ingrédients sont donnés au Duc et ne sont pas achetés.
+
+15.4 LUCKY NUMBER 7
+
+- Possède 777, 7 777 ou 77 777 Lei en même temps pendant la campagne.
+- La méthode fiable consiste à fabriquer des munitions dont le prix de vente est connu,
+  puis ajuster le total juste avant une vente.
+- Fais-le sur une sauvegarde séparée, car le stock d'ingrédients et le montant d'argent
+  peuvent être nécessaires aux achats de New Game Plus.
+
+15.5 KNIVES OUT
+
+- Termine la campagne avec uniquement des armes de corps à corps.
+- Sélectionne Casual ou Standard, garde le Karambit ou le couteau de départ et ne tire
+  jamais avec une arme à feu.
+- Les véhicules de la séquence de l'usine, les séquences contrôlées par un allié et les
+  actions obligatoires ne bloquent pas la réussite.
+- Ne casse pas une caisse avec une arme à feu : utilise le couteau.
+- Fais une sauvegarde au début de chaque domaine. Si un tir accidentel part, recharge
+  avant de continuer.
+
+15.6 DIFFICULTÉS
+
+- Great Dad : Casual ou supérieur.
+- Best Dad Ever : Standard ou supérieur.
+- World's Best Dad : Hardcore ou supérieur.
+- Universe's Best Dad : Village of Shadows.
+- La route recommandée est : Standard collecte, New Game Plus Hardcore si nécessaire,
+  puis Village of Shadows avec une arme infinie débloquée.
+- Pour Village of Shadows, le S.T.A.K.E. entièrement amélioré avec munitions infinies
+  est la solution la plus stable. Il demande un budget élevé et se prépare après une
+  première victoire.
+
+16. MERCENARIES - ROUTE 100 %
+
+DÉBLOCAGE
+
+- Termine la campagne.
+- Achète The Mercenaries dans Extra Content Shop avec les CP.
+- Les quatre stages initiaux sont Village, Castle, Factory et Mad Village.
+- Les quatre stages suivants sont Village II, Castle II, Factory II et Mad Village II.
+- Obtiens au moins A sur les premiers stages pour débloquer les suivants, puis S sur
+  les huit pour Legendary Cowboy.
+
+MÉTHODE DE RANG
+
+- Le combo vaut souvent plus que le nombre de dégâts bruts. Ne casse pas la chaîne.
+- Ramasse une compétence avant de vider la salle. Une compétence conservée augmente le
+  score et donne un plan de secours.
+- Garde le dernier ennemi en vie si tu dois chercher une caisse, une compétence ou une
+  potion.
+- L'arme de poing Scorpion et le sniper sont efficaces sur les quatre premiers stages.
+  Sur les stages avancés, privilégie une arme améliorée avec munitions limitées et
+  utilise les capacités sur les ennemis résistants.
+- Combo King demande un combo de 30. Il se fait naturellement sur Village ou Castle
+  avec un itinéraire sans détour.
+- Legendary Cowboy ne demande pas SS : le rang S suffit sur les huit stages.
+- Le rang SS sur les huit stages débloque LZ Answerer, mais n'est pas requis pour les
+  56 succès de cette fiche.
+
+STAGES À VALIDER
+
+- Village : itinéraire d'apprentissage, conserve la chaîne de combo.
+- Castle : exploite les couloirs et garde les compétences de zone.
+- Factory : vise les points faibles des Soldat et utilise les explosifs sur les groupes.
+- Mad Village : garde les capacités de survie pour la dernière section.
+- Village II : achète une arme stable, ne cours pas après les ennemis isolés.
+- Castle II : les vagues arrivent depuis plusieurs angles, garde le dernier ennemi.
+- Factory II : privilégie les tirs à la tête et les capacités d'explosion.
+- Mad Village II : fais une tentative de mémorisation avant la tentative S.
+- Le menu des défis conserve les meilleurs rangs ; fais une capture ou une note après
+  chaque S pour suivre les huit étapes.
+
+17. WINTERS' EXPANSION - SHADOWS OF ROSE
+
+17.1 RÈGLE DE COLLECTE
+
+- Le DLC contient 19 fichiers.
+- Les défis non Steam utiles pour un 100 % de la fiche sont : 19 fichiers, quatre crafts,
+  20 puis 80 utilisations de pouvoir, 50 éliminations au pistolet, 30 au fusil à pompe,
+  moins d'1 h 30, aucun First Aid Med, tous les souvenirs de la maison et la séquence
+  sans attaque entre la chambre et le bureau.
+- Les trois succès de difficulté sont Green Teen, Serene Teen et Supreme Teen.
+- Craftsmaster demande de fabriquer First Aid Med, Handgun Ammo, Shotgun Ammo et Pipe
+  Bomb au moins une fois.
+
+17.2 CHÂTEAU : DÉPART ET 9 PREMIERS FICHIERS
+
+- Au début, lis Megamycete Theorem sur le tableau du laboratoire.
+- Traverse les cachots et lis How to Preserve Rabbits dans la Treatment Room.
+- Dans la chambre au nord du Parlor, lis The Liquid Void.
+- Dans l'étage supérieur du château, lis I Tried to Craft Some Things sur le meuble.
+- Dans l'atelier du grenier, lis On Mutamycete Disruption.
+- Dans le Dressing Room de l'étage, lis On Movement Disruption près de la clé.
+- Dans le Salon, lis The Masked Duke's Diary.
+- Dans la Rose gallery, lis The Gallery of Despair.
+- Sur la Terrace Room, lis Shotgun Shells Should Help.
+- Utilise les pouvoirs sur les noyaux uniquement après avoir obtenu le flacon de pouvoir.
+- Pour It's Starting to Grow on Me, utilise le pouvoir 20 fois. Les noyaux optionnels
+  du château sont de bons points de farm.
+- Pour Completely Consumed, continue à utiliser les pouvoirs sur les noyaux et les
+  ennemis jusqu'à 80 utilisations si tu veux terminer tous les défis.
+
+FICHIERS 1 À 9
+
+- 01 Megamycete Theorem : tableau du laboratoire de départ.
+- 02 How to Preserve Rabbits : table de la Treatment Room, cachots.
+- 03 The Liquid Void : table de la chambre au nord du Parlor.
+- 04 I Tried to Craft Some Things : meuble du deuxième étage du château.
+- 05 On Mutamycete Disruption : banc de l'atelier du grenier.
+- 06 On Movement Disruption : table du Dressing Room, près de la Monocular Key.
+- 07 The Masked Duke's Diary : bureau du Salon.
+- 08 The Gallery of Despair : table de la Rose gallery.
+- 09 Shotgun Shells Should Help : Terrace Room du deuxième étage.
+
+17.3 PUZZLES DU CHÂTEAU
+
+- Dans le puzzle des statues de la galerie, lis le texte mural puis place les prédateurs
+  face à leur proie. Les trois prédateurs regardent la cible centrale.
+- Dans la salle des tableaux, récupère les trois objets de progression et neutralise les
+  noyaux avec le pouvoir afin d'ouvrir les passages.
+- Le fusil à pompe apparaît après la séquence d'armement du château. Utilise-le pour
+  obtenir Shotgun Specialist avec 30 éliminations cumulées.
+- Pour les combats, utilise la forme du pouvoir qui immobilise et passe derrière les
+  noyaux. Les munitions doivent être réservées au boss et à la route Hardcore.
+- Dans la section où Rose est petite, avance de la chambre au bureau sans être touchée.
+  Apprends l'itinéraire sur une sauvegarde, puis recharge avant la tentative propre pour
+  valider A Small Success.
+
+17.4 MAISON ET ATELIER DE POUPÉES
+
+- Après le passage du château, lis Little Girl's Diary au sous-sol de la maison.
+- Dans l'atelier, le placard verrouillé s'ouvre avec 02-44-66.
+- Prends les ciseaux et ouvre la poupée singe.
+- Place les poupées sur les trois dioramas dans l'ordre affiché par les scènes :
+  première poupée sur le premier présentoir, deuxième sur le présentoir de la salle
+  médicale, troisième après le détour par Jimmy's Room et le puits.
+- Le troisième diorama demande de remettre les poupées dans les emplacements correspondant
+  à leurs postures. Lorsque le présentoir est validé, récupère la clé de progression.
+- Ne quitte pas la maison sans lire To-do List sur la petite table de la maison Winters.
+- Lis Mia's Letter sur le palier de l'étage.
+- Lis Rose's Half Birthday sur l'ordinateur d'Ethan dans le bureau.
+- Inspecte les souvenirs lumineux de la maison : cuisine, escalier, chambre, berceau,
+  vêtements, musique et photographie. Tous doivent être déclenchés sur la même partie
+  pour Bittersweet Memories.
+- Fais une sauvegarde avant la séquence de l'atelier si tu vises le temps ou l'absence
+  de soins.
+
+FICHIERS 10 À 13
+
+- 10 Little Girl's Diary : sous-sol de la maison.
+- 11 To-do List : petite table de la maison Winters.
+- 12 Mia's Letter : table du palier à l'étage.
+- 13 Rose's Half Birthday : ordinateur d'Ethan dans le bureau.
+
+17.5 DEEP STRATUM ET ROUTE FINALE
+
+- Dans le Pit Laboratory, lis On This Realm and Its Laws sur la table.
+- Lis On the Recreation and Manipulation of Memory sur la grande table centrale.
+- Lis Recently Written Report sur la même table.
+- Lis On Vessel Synthesis sur le meuble renversé.
+- Dans le tunnel au nord du laboratoire, lis Wearily Scrawled Note.
+- Sur la pierre de l'autel de la caverne, lis Ritual Text.
+- Utilise chaque pouvoir sur les noyaux avant de déclencher le combat de la zone.
+- Pour My True Potential, utilise le pouvoir de convocation au moins cinq fois pendant
+  le combat final.
+- Pour Rushing Rose, termine en moins d'1 h 30. Utilise une sauvegarde dédiée en Casual.
+- Pour Fight Through the Pain, termine sans utiliser de First Aid Med. Les soins de
+  cuisine n'existent pas dans ce DLC : évite les dégâts et recharge les sauvegardes.
+- Termine en Casual, puis Standard, puis Hardcore. La progression de difficulté se fait
+  séparément, mais les fichiers et défis peuvent être conservés avec une sauvegarde
+  bien placée.
+
+FICHIERS 14 À 19
+
+- 14 On This Realm and Its Laws : table du Pit Laboratory.
+- 15 On the Recreation and Manipulation of Memory : grande table du Pit Laboratory.
+- 16 Recently Written Report : grande table du Pit Laboratory.
+- 17 On Vessel Synthesis : meuble renversé du Pit Laboratory.
+- 18 Wearily Scrawled Note : tunnel au nord du laboratoire.
+- 19 Ritual Text : pierre de l'autel de la caverne.
+
+18. ADDITIONAL ORDERS - BLOODY VILLAGE ET BLOODY RIVER
+
+- Additional Orders se lance dans le menu Bonus après l'accès aux contenus du Winters'
+  Expansion.
+- Les stages additionnels sont débloqués par les rangs des stages précédents.
+- Village of Blood se débloque après les rangs demandés sur les stages classiques.
+  Pour le succès, termine le stage avec le rang minimal affiché par le jeu ; un rang B
+  suffit selon la condition Steam.
+- River of Blood se débloque après Bloody Village. Termine la carte avec le rang requis.
+- Les deux succès sont indépendants de Legendary Cowboy : ne cherche pas à obtenir S
+  sur ces deux cartes si ton objectif immédiat est seulement les 56 succès.
+- Fais une première tentative pour mémoriser les emplacements des bonus, puis une seconde
+  en gardant la chaîne de combo.
+- Les bonus de puissance se prennent avant les bonus de soin, sauf si la carte t'impose
+  une phase d'endurance. Termine chaque vague avant de vider le compteur de combo.
+
+19. REGISTRE DES 56 SUCCÈS STEAM
+
+CHECKLIST FINALE - 56 SUCCÈS STEAM
+
+- [ ] 01 Crafter — Fabriquer un objet dans le menu Crafting.
+- [ ] 02 Not Lycan This... — Survivre à l'embuscade des Lycans au début de la campagne.
+- [ ] 03 Four Lords — Survivre à la traversée de la mine.
+- [ ] 04 Patron — Acheter un objet au Duc pendant la campagne.
+- [ ] 05 Cynic — Détruire une chèvre de protection.
+- [ ] 06 Petty Thief — Ouvrir une serrure simple avec un lockpick.
+- [ ] 07 Gunsmith — Équiper une arme d'une pièce personnalisable.
+- [ ] 08 Hunter — Chasser un animal pendant l'histoire.
+- [ ] 09 That Sucked! — Vaincre le boss du château.
+- [ ] 10 Strategist — Vaincre au moins trois ennemis avec une seule attaque.
+- [ ] 11 Get the Ball Rolling — Résoudre un labyrinthe.
+- [ ] 12 Got No Strings — Remporter la séquence de cache-cache de House Beneviento.
+- [ ] 13 Fish Out of Water — Vaincre le boss du réservoir après avoir drainé l'eau.
+- [ ] 14 Up Urs! — Vaincre Urias dans le Stronghold.
+- [ ] 15 Temporary Measures — Placer la Giant's Chalice sur le piédestal du Ceremony Site.
+- [ ] 16 Iron Giant Down — Vaincre Heisenberg dans l'usine.
+- [ ] 17 The Root of the Matter — Atteindre le cœur du Megamycete sous le village.
+- [ ] 18 Great Dad — Terminer la campagne en Casual ou supérieur.
+- [ ] 19 Repairer — Combiner un trésor pour former sa version complète.
+- [ ] 20 Photographer — Utiliser le mode photo.
+- [ ] 21 Best Dad Ever — Terminer la campagne en Standard ou supérieur.
+- [ ] 22 Medium Rare — Mettre le feu à un Moroaică dans la campagne.
+- [ ] 23 Trick Shot — Vaincre un ennemi à longue distance avec le fusil de précision.
+- [ ] 24 Push Comes to Shove — Repousser un ennemi après une garde.
+- [ ] 25 Mapmatician — Compléter la carte du village.
+- [ ] 26 Leader of the Pack — Vaincre le Vârcolac Alfa dans la campagne.
+- [ ] 27 Quit Hanging Around — Abattre un Soldat suspendu à la chaîne de production.
+- [ ] 28 When You Gotta Go... — Ouvrir les dix toilettes du village dans une seule partie.
+- [ ] 29 World's Best Dad — Terminer la campagne en Hardcore ou supérieur.
+- [ ] 30 Squawk Shot — Abattre cinq corbeaux en vol pendant l'histoire.
+- [ ] 31 It's Starting to Grow on Me — Utiliser le pouvoir de Rose vingt fois.
+- [ ] 32 Timber — Vaincre Urias pendant l'embuscade des Lycans.
+- [ ] 33 Goooaaal! — Pousser le ballon jaune de la chambre vers le bureau.
+- [ ] 34 Combo King — Obtenir un combo d'au moins 30 dans Mercenaries.
+- [ ] 35 Green Teen — Terminer Shadows of Rose en Casual ou supérieur.
+- [ ] 36 Serene Teen — Terminer Shadows of Rose en Standard ou supérieur.
+- [ ] 37 Fast Reflexes — Frapper une flèche enflammée avec une arme de corps à corps.
+- [ ] 38 Don't Trust That Snake Oil — Terminer la campagne avec quatre soins ou moins.
+- [ ] 39 Universe's Best Dad — Terminer la campagne en Village of Shadows.
+- [ ] 40 Doll Collector — Acheter et regarder toutes les figurines du magasin Extra Content.
+- [ ] 41 Hooligan — Briser toutes les fenêtres comptabilisées du château dans une seule partie.
+- [ ] 42 Art Collector — Acheter et regarder toutes les pièces de concept art.
+- [ ] 43 Dashing Dad — Terminer la campagne en moins de trois heures.
+- [ ] 44 Bookworm — Lire les 47 fichiers de la campagne.
+- [ ] 45 Veteran Gunsmith — Équiper toutes les armes de leurs pièces personnalisables.
+- [ ] 46 Artisan — Obtenir les onze recettes de fabrication.
+- [ ] 47 Heretic — Détruire les vingt chèvres de protection.
+- [ ] 48 Frugal Father — Terminer la campagne sans dépenser plus de 10 000 Lei.
+- [ ] 49 Lucky Number 7 — Posséder 777, 7 777 ou 77 777 Lei pendant la campagne.
+- [ ] 50 Craftsmaster — Fabriquer chaque type d'objet disponible dans Shadows of Rose.
+- [ ] 51 Tinkerer — Fabriquer chaque type d'objet du menu de craft de la campagne.
+- [ ] 52 Legendary Cowboy — Obtenir au moins le rang S sur les huit stages de Mercenaries.
+- [ ] 53 Village of Blood — Terminer Bloody Village dans Additional Orders.
+- [ ] 54 River of Blood — Terminer Bloody River dans Additional Orders.
+- [ ] 55 Supreme Teen — Terminer Shadows of Rose en Hardcore.
+- [ ] 56 Knives Out — Terminer la campagne avec uniquement des armes de corps à corps.
+
+20. VÉRIFICATION FINALE AVANT D'ARCHIVER LA FICHE
+
+- Le menu des défis doit afficher les 20 chèvres et les 19 fenêtres comptabilisées.
+- Le compteur Bookworm doit afficher 47/47 après lecture du dernier document du laboratoire.
+- Les 10 toilettes doivent être validées dans la même sauvegarde, pas réparties entre
+  plusieurs parties.
+- Le menu du Duc doit afficher les six plats cuisinés et les armes héritées du New Game Plus.
+- Le défi Veteran Gunsmith doit être déclenché après avoir équipé les 22 pièces.
+- Le défi Artisan doit être déclenché après l'achat de la onzième recette.
+- Le défi Tinkerer doit être déclenché après avoir fabriqué les onze types de munitions,
+  explosifs, soins et projectiles.
+- Le menu Extra Content doit avoir été ouvert et les figurines/concept arts doivent avoir
+  été regardés, pas uniquement achetés.
+- Mercenaries doit afficher S sur Village, Castle, Factory, Mad Village et leurs quatre
+  versions avancées.
+- Shadows of Rose doit afficher les 19 fichiers lus si tu vises le 100 % de contenu du DLC.
+- Steam doit afficher 56/56 succès.
+
+FIN DU GUIDE
