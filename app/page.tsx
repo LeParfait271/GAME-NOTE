@@ -2005,6 +2005,54 @@ const guides: Guide[] = [
       "A surveiller : Good Guy Nick, Ghost of Christmas Present, les medailles et The Last Stand.",
     meta: ["101/101 Steam", "9 campagnes", "Online"],
   },
+  {
+    id: "castle-crashers",
+    steamAppId: 204360,
+    title: "Castle Crashers",
+    eyebrow: "The Behemoth",
+    subtitle: "Campagne, Animal Orbs et coop dans l'ordre.",
+    count: "12 succes Steam",
+    file: "castle-crashers.txt",
+    accent: "gold",
+    tag: "Guide 100 % Steam",
+    description:
+      "Route de la campagne, des 28 Animal Orbs, des runs propres, du multijoueur et d'Arena.",
+    highlight:
+      "A surveiller : Conscientious Objector, Animal Handler, les quatre joueurs et les 40 victoires Arena.",
+    meta: ["12/12 Steam", "28 Animal Orbs", "Coop / Arena"],
+  },
+  {
+    id: "magicka",
+    steamAppId: 42910,
+    title: "Magicka",
+    eyebrow: "Arrowhead Game Studios / Paradox Interactive",
+    subtitle: "Campagne, DLC et evenements dans l'ordre.",
+    count: "88 succes Steam",
+    file: "magicka.txt",
+    accent: "coral",
+    tag: "Guide 100 % Steam",
+    description:
+      "Route Adventure, quetes, Magicks, secrets, Challenges, Versus et tous les DLC.",
+    highlight:
+      "A surveiller : le speedrun, les runs sans mort, la Cruise de sept jours et les evenements Steam.",
+    meta: ["88/88 Steam", "DLC", "Coop / Versus"],
+  },
+  {
+    id: "magicka-2",
+    steamAppId: 238370,
+    title: "Magicka 2",
+    eyebrow: "Pieces Interactive / Paradox Interactive",
+    subtitle: "Campagne, difficultes et Challenges dans l'ordre.",
+    count: "47 succes Steam",
+    file: "magicka-2.txt",
+    accent: "blue",
+    tag: "Guide 100 % Steam",
+    description:
+      "Route du Prologue, campagne, Veterans, Dark Altars, objectifs de decor et trois paliers de difficulte.",
+    highlight:
+      "A surveiller : les deux runs des Veterans, les torches, les Challenges et Bananas.",
+    meta: ["47/47 Steam", "3 difficultes", "Coop"],
+  },
 ];
 
 const steamHeaderUrl = (appId: number) =>

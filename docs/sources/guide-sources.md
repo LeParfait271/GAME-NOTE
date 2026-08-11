@@ -1215,3 +1215,24 @@ conditions difficiles ; elles ne justifient jamais une copie mot a mot.
   https://www.exophase.com/game/left-4-dead-2-steam/achievements/
 - Guide Steam de controle Left 4 Dead 2 101 succes :
   https://steamcommunity.com/sharedfiles/filedetails/?id=2419666451
+
+## COOP ACTION ET MAGIE
+
+- Succes officiels Castle Crashers, AppID 204360 :
+  https://steamcommunity.com/stats/204360/achievements
+- Fiche Steam Castle Crashers, total 12 succes :
+  https://store.steampowered.com/app/204360/Castle_Crashers/
+- Liste des 28 Animal Orbs et emplacement des objets :
+  https://steamcommunity.com/sharedfiles/filedetails/?id=121091785
+- Succes officiels Magicka, total 88 :
+  https://steamcommunity.com/stats/Magicka/achievements/
+- Fiche Steam Magicka, total 88 succes :
+  https://store.steampowered.com/app/42910/Magicka/
+- Liste complete Magicka, campagne et DLC :
+  https://www.exophase.com/game/magicka-steam/achievements/
+- Succes officiels Magicka 2, AppID 238370 :
+  https://steamcommunity.com/stats/238370/achievements
+- Fiche Steam Magicka 2, total 47 succes :
+  https://store.steampowered.com/app/238370/Magicka_2/
+- Liste complete Magicka 2 :
+  https://www.exophase.com/game/magicka-2-steam/achievements/

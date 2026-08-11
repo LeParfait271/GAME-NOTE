@@ -150,6 +150,12 @@ soluce chronologique classique n'apporterait rien.
 - Left 4 Dead — guide publie : 73/73 succes Steam, campagnes, Survival et Versus
 - Left 4 Dead 2 — guide publie : 101/101 succes Steam, extensions, modes et evenements
 
+### Coop action et magie
+
+- Castle Crashers — guide publie : 12/12 succes Steam, 28 Animal Orbs, coop et Arena
+- Magicka — guide publie : 88/88 succes Steam, campagne, DLC, evenements et Versus
+- Magicka 2 — guide publie : 47/47 succes Steam, campagne, trois difficultes et Challenges
+
 ## Futurs guides chronologiques (`planned`)
 
 ### Final Fantasy et RPG proches
@@ -164,10 +170,7 @@ soluce chronologique classique n'apporterait rien.
 
 ### Coopération ou campagne à route dédiée
 
-- Castle Crashers
 - Lara Croft and the Temple of Osiris
-- Magicka
-- Magicka 2
 - Overcooked! All You Can Eat
 - Sniper Elite: Nazi Zombie Army
 - Trine

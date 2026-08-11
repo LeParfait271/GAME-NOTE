@@ -132,6 +132,9 @@
     { "id": "duke-nukem-forever", "title": "Duke Nukem Forever", "scope": "full-guide", "status": "draft", "file": "public/guides/duke-nukem-forever.txt" },
     { "id": "back-4-blood", "title": "Back 4 Blood", "scope": "full-guide", "status": "draft", "file": "public/guides/back-4-blood.txt" },
     { "id": "left-4-dead", "title": "Left 4 Dead", "scope": "full-guide", "status": "draft", "file": "public/guides/left-4-dead.txt" },
-    { "id": "left-4-dead-2", "title": "Left 4 Dead 2", "scope": "full-guide", "status": "draft", "file": "public/guides/left-4-dead-2.txt" }
+    { "id": "left-4-dead-2", "title": "Left 4 Dead 2", "scope": "full-guide", "status": "draft", "file": "public/guides/left-4-dead-2.txt" },
+    { "id": "castle-crashers", "title": "Castle Crashers", "scope": "full-guide", "status": "draft", "file": "public/guides/castle-crashers.txt" },
+    { "id": "magicka", "title": "Magicka", "scope": "full-guide", "status": "draft", "file": "public/guides/magicka.txt" },
+    { "id": "magicka-2", "title": "Magicka 2", "scope": "full-guide", "status": "draft", "file": "public/guides/magicka-2.txt" }
   ]
 }
