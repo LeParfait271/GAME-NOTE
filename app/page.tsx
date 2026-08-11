@@ -3290,7 +3290,7 @@ export default function Home() {
       <section className="section-block" id="guides">
         <div className="section-heading">
           <div>
-            <p className="kicker"><span>LA BIBLIOTHÈQUE</span><span>/ REPÈRES DISPONIBLES</span></p>
+            <p className="kicker"><span>LA BIBLIOTHÈQUE</span><span>REPÈRES DISPONIBLES</span></p>
             <h2>Choisis ta route.</h2>
           </div>
           <p>
@@ -3397,7 +3397,7 @@ export default function Home() {
 
       <section className="method-section" id="methode">
         <div className="method-heading">
-          <p className="kicker"><span>LE PROTOCOLE</span><span>/ 3 GESTES UTILES</span></p>
+          <p className="kicker"><span>LE PROTOCOLE</span><span>3 GESTES UTILES</span></p>
           <h2>La route, pas le bruit.</h2>
           <p>
             Une fiche Game Note tient dans trois gestes : trouver le repère,

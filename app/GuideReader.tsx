@@ -286,7 +286,7 @@ export default function GuideReader({
         </div>
         <div className="reader-cover-copy">
           <a className="reader-backlink" href="#guides">← Toutes les routes</a>
-          <p className="kicker"><span>FICHE DE ROUTE</span><span>/ {selected.count}</span></p>
+          <p className="kicker"><span>FICHE DE ROUTE</span><span>{selected.count}</span></p>
           <h2>{selected.title}</h2>
           <p>{selected.description}</p>
           <div className="reader-badges">
