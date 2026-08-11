@@ -29,6 +29,18 @@ GARDE-FOUS AVANT DE COMMENCER
   Utilise une feuille de suivi externe et valide le personnage seulement apres
   une victoire complete, pas apres le choix du combattant.
 
+MISSABLES ET CONDITIONS RATABLES
+
+- Les conditions d'une Tour vivante, d'une Tower Battle et d'une Invasion sont
+  ratables si la tentative est abandonnee. Lis les modificateurs avant de
+  lancer la Tour et attends l'ecran de resultat.
+- Les objectifs avec un personnage, une variante, un niveau ou une faction ne
+  se valident qu'apres une partie complete. Note chaque reussite pour eviter
+  de refaire tout le roster.
+- Les series Ranked, les matchs online, les points de respect et les actions
+  de King of the Hill sont ratables pendant une session interrompue. Garde le
+  nettoyage online pour une connexion stable.
+
 ORDRE CHRONOLOGIQUE
 
 1. TUTORIEL, PROFIL ET PREMIERS COMBATS
