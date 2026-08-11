@@ -310,7 +310,7 @@ const guides: Guide[] = [
     meta: ["0 succès Steam", "100 % contenu", "Sans spoiler"],
   },
   {
-    id: "titan-quest",
+    id: "titan-quest-anniversary-edition",
     steamAppId: 475150,
     title: "Titan Quest Anniversary Edition",
     eyebrow: "Iron Lore",
