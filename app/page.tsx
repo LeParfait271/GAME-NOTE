@@ -1909,6 +1909,54 @@ const guides: Guide[] = [
       "A surveiller : deux sauvegardes de branche, Khoonda, Onderon, compagnons et pouvoirs des deux orientations.",
     meta: ["57/57 Steam", "2 campagnes conseillees", "Branches"],
   },
+  {
+    id: "command-and-conquer-remastered-collection",
+    steamAppId: 1213210,
+    title: "Command & Conquer Remastered Collection",
+    eyebrow: "Petroglyph / EA",
+    subtitle: "Tiberian Dawn, Red Alert et bonus dans l'ordre.",
+    count: "33 succes Steam",
+    file: "command-and-conquer-remastered-collection.txt",
+    accent: "gold",
+    tag: "Guide 100 % Steam",
+    description:
+      "Route complete des campagnes, extensions, missions bonus, galeries, escarmouche et objectifs cumulatifs.",
+    highlight:
+      "A surveiller : les missions bonus, les objectifs de faction, les galeries et les objectifs multiplayer.",
+    meta: ["33/33 Steam", "2 campagnes", "Multiplayer"],
+  },
+  {
+    id: "doom-3-bfg-edition",
+    steamAppId: 208200,
+    title: "DOOM 3: BFG Edition",
+    eyebrow: "id Software / Bethesda",
+    subtitle: "DOOM 3, extensions et classiques dans l'ordre.",
+    count: "65 succes Steam",
+    file: "doom-3-bfg-edition.txt",
+    accent: "coral",
+    tag: "Guide 100 % Steam",
+    description:
+      "Route des trois campagnes, classiques, secrets, PDAs, casiers, difficultes et multiplayer.",
+    highlight:
+      "A surveiller : les six succes multiplayer, les secrets de niveau, les PDAs et les objets de campagne.",
+    meta: ["65/65 Steam", "3 campagnes", "Multiplayer"],
+  },
+  {
+    id: "duke-nukem-forever",
+    steamAppId: 57900,
+    title: "Duke Nukem Forever",
+    eyebrow: "Gearbox Software / 2K",
+    subtitle: "Campagne, collectibles et DLC dans l'ordre.",
+    count: "62 succes Steam",
+    file: "duke-nukem-forever.txt",
+    accent: "blue",
+    tag: "Guide 100 % Steam",
+    description:
+      "Route complete de la campagne, des compteurs, des mini-jeux, des collectibles et des 12 succes DLC.",
+    highlight:
+      "A surveiller : le pistolet dore, les recompenses Ego, les casques, les messages, les calendriers et les quatre difficultes.",
+    meta: ["50/50 base", "12 DLC", "Solo"],
+  },
 ];
 
 const steamHeaderUrl = (appId: number) =>

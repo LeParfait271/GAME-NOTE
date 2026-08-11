@@ -120,6 +120,9 @@
     { "id": "borderlands-the-pre-sequel", "appId": 261640, "steamAchievements": 63, "guideType": "100-steam-plus-dlc-missables", "source": "https://steamcommunity.com/stats/261640/achievements" },
     { "id": "star-wars-jedi-fallen-order", "appId": 1172380, "steamAchievements": 39, "guideType": "100-steam-collectibles-combat", "source": "https://steamcommunity.com/stats/1172380/achievements" },
     { "id": "star-wars-knights-of-the-old-republic", "appId": 32370, "steamAchievements": 0, "guideType": "special-no-steam-achievements-campaign-completion", "source": "https://store.steampowered.com/app/32370/STAR_WARS_Knights_of_the_Old_Republic/" },
-    { "id": "star-wars-knights-of-the-old-republic-ii", "appId": 208580, "steamAchievements": 57, "guideType": "100-steam-branching-rpg", "source": "https://steamcommunity.com/stats/208580/achievements" }
+    { "id": "star-wars-knights-of-the-old-republic-ii", "appId": 208580, "steamAchievements": 57, "guideType": "100-steam-branching-rpg", "source": "https://steamcommunity.com/stats/208580/achievements" },
+    { "id": "command-and-conquer-remastered-collection", "appId": 1213210, "steamAchievements": 33, "guideType": "100-steam-rts-campaign-bonus", "source": "https://steamcommunity.com/stats/1213210/achievements" },
+    { "id": "doom-3-bfg-edition", "appId": 208200, "steamAchievements": 65, "guideType": "100-steam-campaign-dlc-multiplayer", "source": "https://steamcommunity.com/stats/DOOM3BFGEdition/achievements/" },
+    { "id": "duke-nukem-forever", "appId": 57900, "steamAchievements": 62, "guideType": "100-steam-campaign-collectibles-dlc", "source": "https://store.steampowered.com/app/57900/Duke_Nukem_Forever/" }
   ]
 }

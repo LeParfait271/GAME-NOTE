@@ -138,6 +138,12 @@ soluce chronologique classique n'apporterait rien.
 - STAR WARS Knights of the Old Republic — guide special publie : AppID 32370, 0/0 succes Steam
 - STAR WARS Knights of the Old Republic II: The Sith Lords — guide publie : 57/57 succes Steam, branches et compagnons
 
+### Command & Conquer, DOOM et Duke
+
+- Command & Conquer Remastered Collection — guide publie : 33/33 succes Steam, campagnes, bonus et escarmouche
+- DOOM 3: BFG Edition — guide publie : 65/65 succes Steam, trois campagnes et multiplayer
+- Duke Nukem Forever — guide publie : 50/50 succes de base + 12 succes DLC The Doctor Who Cloned Me
+
 ## Futurs guides chronologiques (`planned`)
 
 ### Final Fantasy et RPG proches
@@ -149,12 +155,6 @@ soluce chronologique classique n'apporterait rien.
 ### Resident Evil et action-aventure
 
 - Dead Island
-
-### BioShock, Borderlands et FPS à campagne
-
-- Command & Conquer Remastered Collection
-- DOOM 3: BFG Edition
-- Duke Nukem Forever
 
 ### Coopération ou campagne à route dédiée
 

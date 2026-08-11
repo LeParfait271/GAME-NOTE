@@ -1165,3 +1165,28 @@ conditions difficiles ; elles ne justifient jamais une copie mot a mot.
   https://store.steampowered.com/app/208580/STAR_WARS_Knights_of_the_Old_Republic_II_The_Sith_Lords/
 - Guide de mondes, compagnons et branches KOTOR II :
   https://strategywiki.org/wiki/Star_Wars:_Knights_of_the_Old_Republic_II:_The_Sith_Lords
+
+## COMMAND & CONQUER / DOOM / DUKE
+
+- Succes officiels Command & Conquer Remastered Collection, AppID 1213210 :
+  https://steamcommunity.com/stats/1213210/achievements
+- Fiche Steam Command & Conquer Remastered Collection :
+  https://store.steampowered.com/app/1213210/Command_Conquer_Remastered_Collection/
+- Guide de campagnes et missions bonus Command & Conquer :
+  https://cnc.fandom.com/wiki/Command_%26_Conquer_Remastered_Collection
+- Succes officiels DOOM 3: BFG Edition, AppID 208200 :
+  https://steamcommunity.com/stats/DOOM3BFGEdition/achievements/
+- Fiche Steam DOOM 3: BFG Edition :
+  https://store.steampowered.com/app/208200/DOOM_3_BFG_Edition/
+- Manuel PC DOOM 3: BFG Edition :
+  https://assets.ctfassets.net/rporu91m20dc/2QQO4Ogi4oKquUeSuUMEUa/05cfbdab5d88ab3b08d3d0def8d3c61f/manual_doom3bfg_pc_en-us.pdf
+- Succes officiels Duke Nukem Forever de base, AppID 57900 :
+  https://steamcommunity.com/stats/DNF/achievements/
+- Fiche Steam Duke Nukem Forever, total store 62 succes :
+  https://store.steampowered.com/app/57900/Duke_Nukem_Forever/
+- DLC The Doctor Who Cloned Me :
+  https://store.steampowered.com/app/57925/Duke_Nukem_Forever_The_Doctor_Who_Cloned_Me/
+- Liste Steam complete Duke Nukem Forever, base et DLC :
+  https://www.exophase.com/game/duke-nukem-forever-steam/achievements/
+- Manuel PC Duke Nukem Forever :
+  https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/57900/manuals/DNF%20PC%20DOWNLOAD%20MAN%20ENG.pdf

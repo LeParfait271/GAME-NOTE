@@ -126,6 +126,9 @@
     { "id": "borderlands-the-pre-sequel", "title": "Borderlands: The Pre-Sequel", "scope": "full-guide", "status": "draft", "file": "public/guides/borderlands-the-pre-sequel.txt" },
     { "id": "star-wars-jedi-fallen-order", "title": "STAR WARS Jedi: Fallen Order", "scope": "full-guide", "status": "draft", "file": "public/guides/star-wars-jedi-fallen-order.txt" },
     { "id": "star-wars-knights-of-the-old-republic", "title": "STAR WARS: Knights of the Old Republic", "scope": "special", "status": "draft", "file": "public/guides/star-wars-knights-of-the-old-republic.txt", "reason": "L'AppID Steam 32370 n'expose pas de succes : soluce de campagne, mondes, compagnons et contenus annexes transparente." },
-    { "id": "star-wars-knights-of-the-old-republic-ii", "title": "STAR WARS: Knights of the Old Republic II", "scope": "full-guide", "status": "draft", "file": "public/guides/star-wars-knights-of-the-old-republic-ii.txt" }
+    { "id": "star-wars-knights-of-the-old-republic-ii", "title": "STAR WARS: Knights of the Old Republic II", "scope": "full-guide", "status": "draft", "file": "public/guides/star-wars-knights-of-the-old-republic-ii.txt" },
+    { "id": "command-and-conquer-remastered-collection", "title": "Command & Conquer Remastered Collection", "scope": "full-guide", "status": "draft", "file": "public/guides/command-and-conquer-remastered-collection.txt" },
+    { "id": "doom-3-bfg-edition", "title": "DOOM 3: BFG Edition", "scope": "full-guide", "status": "draft", "file": "public/guides/doom-3-bfg-edition.txt" },
+    { "id": "duke-nukem-forever", "title": "Duke Nukem Forever", "scope": "full-guide", "status": "draft", "file": "public/guides/duke-nukem-forever.txt" }
   ]
 }
