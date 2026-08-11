@@ -1,190 +1,782 @@
 FINAL FANTASY XII THE ZODIAC AGE
 GUIDE CHRONOLOGIQUE 100 % STEAM - SANS SPOILER
 
-Version de travail : 10 aout 2026
+Version : 11 aout 2026
+Plateforme : Steam
+Succes : 41
+Duree indicative : 100 a 180 h selon le Bestiaire, les 80 Rare Games et
+les 100 Trials.
 
-Ce parcours couvre les 41 succes Steam, les 12 jobs, les chasses, les
-invocations, les Magies, les Technicks, les cartes, le Bestiaire, les 100
-Trials et les boss optionnels. Il n'y a pas de DLC ni de succes en ligne.
+PERIMETRE DE LA FICHE
 
-OBJECTIF
+Cette route couvre la campagne, les 45 chasses, les 13 Espers, les 30
+Trophy Rare Games, les 80 Rare Games du Bestiaire, les coffres uniques, les
+cartes, les Magicks, les Technicks, les Concurrences, les quetes secondaires,
+le Hunt Club, le mode Trial et les 41 succes Steam.
+
+Le guide ne raconte pas l'histoire. Les noms des lieux, boss, marques,
+monstres et objets servent uniquement de reperes de progression. Aucune
+identite, mort, trahison ou issue narrative n'est detaillee.
+
+OBJECTIFS DE FIN DE PARCOURS
 
 [ ] 41/41 succes Steam.
-[ ] Toutes les cartes explorees.
-[ ] 500 000 Clan Points, 48 000 LP et niveau moyen superieur a 50.
-[ ] 45 chasses et boss optionnels, tous les Espers et les 100 Trials.
-[ ] Toutes les Magies, tous les Technicks, toutes les Concurrences.
-[ ] Bestiaire complet et recompense Scrivener.
+[ ] Toutes les cartes visitees, y compris les zones cachees.
+[ ] Les 45 Marks, les 13 Espers et les 30 Trophy Rare Games.
+[ ] Les 384 entrees du Bestiaire, dont les 80 Rare Games.
+[ ] Toutes les Magicks, les 24 Technicks et les 8 Concurrences.
+[ ] 48 000 LP, 500 000 Clan Points, 1 000 000 gils depenses et niveau moyen
+    superieur a 50.
+[ ] Trial 50 et Trial 100.
 
-GARDE-FOUS ABSOLUS
+COMMENT UTILISER LA ROUTE
 
-- La version Zodiac Age rend les succes beaucoup plus recuperables qu'une
-  version PS2. Les vrais risques sont les zones a visite unique, les coffres
-  de quete et les ennemis de Bestiaire : ouvre la carte et inspecte chaque zone
-  avant de lancer la sortie.
-- Choisis les jobs en fonction de l'equipe et garde un personnage capable de
-  voler, soigner et lancer les Magies. Les 48 000 LP se cumulent avec tous les
-  personnages ; ne depense pas les LP uniquement sur les options de confort.
-- Apprends chaque Magie et chaque Technick des que la boutique ou la chasse
-  les rend disponibles. Achete les Magies rares avant les missions de fin.
-- Pour Scrivener, valide chaque page du Bestiaire et chaque entree unique.
-  Si une entree manque, le Trial Mode peut fournir un rattrapage, mais utilise
-  d'abord les rencontres de la route principale.
-- Les noms de boss et de lieux sont des reperes de jeu, pas des spoilers.
+- Dans The Zodiac Age, les anciens coffres interdits du Zodiac Spear ne sont
+  plus un risque : la lance peut venir du Hunt Club ou d'un coffre special
+  des Henne Mines. Les autres objets rares et les bestiaires uniques restent
+  a noter.
+- A chaque nouvelle zone, affiche la carte, entre dans chaque sous-zone et
+  ouvre les coffres visibles avant de suivre la sortie. Cartographer demande
+  de visiter les sections, pas de remplir chaque pixel gris.
+- Apprends toutes les Licences utiles, mais n'attribue pas un Esper au hasard :
+  un Esper ne peut etre appris que par un seul personnage.
+- Les achats de Magicks et Technicks sont faits a chaque nouveau marchand.
+  Les Magicks de coffre sont listees dans la section dediee.
+- Les compteurs Attack, Magicks, Technicks, Steal, pas, loot, gil et ennemis
+  se valident naturellement. Ne farm pas avant d'avoir les bonnes zones.
+- Sauvegarde avant les Marks difficiles, les Rare Games et chaque grosse zone
+  optionnelle. Les teleports et les auto-saves ne remplacent pas une sauvegarde
+  manuelle.
 
-MISSABLES ET FENETRES DE CARTE
+GARDE-FOUS
 
-- Les succes Steam sont largement recuperables dans The Zodiac Age, mais les
-  zones visitees une seule fois, les cartes et quelques entrees de Bestiaire
-  doivent etre inspectees avant la sortie. Sauvegarde avant chaque donjon.
+1. Garde 10 exemplaires de chaque loot peu commun jusqu'a la fin du bazar et
+   ne vends jamais les trophies du Hunt Club.
+2. Pour les boss a Voler, equipe les Gants de voleur si possible et recharge
+   si l'objet rare n'apparait pas. Genji Gloves, Genji Shield et Genji Armor
+   doivent etre voles sur les phases adequates de Gilgamesh.
+3. Ramasse l'Omega Badge immediatement apres Omega Mark XII : le butin tombe
+   au sol et disparait si tu quittes la zone.
+4. Ne tue aucune creature de Salikawood avant de declencher Carrot. La marque
+   disparait si les ennemis de la zone ont deja ete nettoyes.
+5. Dans les zones a climat, sors completement de la region puis reviens pour
+   renouveler la meteo. Un simple changement d'ecran ne suffit pas toujours.
+6. Le Hunt Club offre des recompenses mutuellement exclusives. La fiche
+   indique la repartition recommandee ; le succes demande surtout le contenu
+   du Bestiaire, pas chaque version d'un objet.
+7. Trial Mode conserve les objets dans la sauvegarde principale sur la
+   version Steam. Il aide pour le farm, mais ne remplace pas les cartes ni
+   les ennemis qui doivent etre vaincus dans la partie principale.
 
-ROUTE CHRONOLOGIQUE
+MISSABLES ET FENETRES A SECURISER
 
-PROLOGUE ET RABANASTRE
+- Les succes eux-memes sont largement recuperables dans The Zodiac Age, mais
+  les objets uniques, les coffres de Magicks et les entrees de Bestiaire
+  demandent un suivi au moment de leur zone.
+- Omega Badge tombe au sol apres Omega Mark XII : ramasse-le avant de changer
+  de zone.
+- Carrot doit etre declenche avant de nettoyer Salikawood.
+- Genji Armor, Genji Shield et Genji Gloves se volent sur les phases
+  appropriees de Gilgamesh ; recharge avant la victoire si le vol rare manque.
+- Les Trophy Rare Games ne donnent leur trophy que dans la partie principale.
+- Les rewards du Hunt Club dependent de la repartition Atak/Blok/Stok ; choisis
+  la distribution avant de rendre le 16e trophy.
+- Les coffres de Special Charter Shaft, les Magicks non achetables et les
+  zones cachees de Barheim / Pharos doivent etre coches avant la sortie.
 
-- Termine le prologue, equipe les premiers jobs et utilise Attack 300 fois,
-  Magicks 200 fois et Technicks 100 fois naturellement.
-- Vole sur chaque nouveau type d'ennemi. Vend le loot commun, mais garde les
-  objets de chasse, les trophées de monstres rares et les butins marques.
-- Parle au Clan Centurio des que possible. Accepte toutes les affiches de
-  chasse et note leur recompense avant de partir.
-- A Rabanastre, achete les cartes, les Magies et les Technicks disponibles.
-  Explore les quartiers, le palais et les egouts sans ouvrir une porte de
-  sortie avant d'avoir vu la carte locale.
+ORDRE DES JOBS ET DES COMPTEURS
 
-PREMIERS DONJONS ET PREMIERES CHASSES
+- Choisis les douze jobs apres avoir teste les armes, sans chercher une
+  composition parfaite : la route fonctionne avec n'importe quelle repartition
+  raisonnable. Place au moins un job capable de White Magick, un de Black
+  Magick, un utilisateur d'armes a distance et un voleur.
+- Depense les LP sur les augmentations de HP, Channeling, Swiftness, Remedy
+  Lore, poings, armures et armes utilisees. Garde les grands noeuds d'Esper
+  pour le personnage qui l'invoquera.
+- Utilise Attack sur chaque cible pendant les premiers donjons, Magicks sur
+  les groupes faibles, Technicks sur les monstres non dangereux et Steal sur
+  chaque nouveau type. Les seuils seront atteints avant la fin.
+- Des que le Clan Hall est ouvert, retourne-y apres chaque grande etape :
+  les rangs de clan debloquent de nouvelles boutiques, chasses et Magicks.
 
-- Fais les chasses faciles dans l'ordre de leur niveau : elles fournissent les
-  gils, le loot du bazar et les Clan Points pour Record Breaker.
-- Dans Nalbina et les donjons suivants, ouvre tous les coffres et regarde les
-  embranchements avant de rejoindre le marqueur principal.
-- Apprends les Gambits de base : soin, Poison, Blind, Shell, Haste et les
-  protections elementaires. Une equipe stable accelere les compteurs sans
-  perdre de bestiaire.
-- Termine la chasse Trickster des que son niveau est accessible, sans attendre
-  la fin de la campagne.
+PARTIE I - PROLOGUE, RABANASTRE ET BARHEIM
 
-JAHARA, OZMONE ET MONT BUR-OMISACE
+1. Prologue et Rabanastre
 
-- Cartographie chaque zone de la plaine d'Ozmone et de la jungle. Certains
-  embranchements ne se ressemblent pas : tourne dans toutes les salles.
-- Termine les chasses de la region, puis les requetes de village et les objets
-  de chasse. Ne quitte pas Jahara avant d'avoir parle aux marchands et au Clan.
-- Au Mont Bur-Omisace, active Visions of the Dreamer en repartant, puis
-  continue les chasses optionnelles ouvertes par le changement de chapitre.
-- Commence a economiser pour Spendthrift : depense un million de gils cumule,
-  principalement en Magies, equipements et marchandises de bazar.
+- Termine le prologue, ouvre les coffres des salles de la forteresse et
+  apprends les commandes de combat. [ ] For the Homeland.
+- Dans Rabanastre, visite Lowtown, North Sprawl, South Sprawl, Muthru Bazaar,
+  Sandsea, Weapon Shop, Magick Shop, Technicks Shop et Clan Hall. Chaque
+  sous-zone compte pour Cartographer.
+- Achete Cure, Fire, Thunder, Blizzard, Dark, Libra, First Aid et les
+  premiers Gambits. Utilise Attack jusqu'a 300 et Steal jusqu'a 50 sur les
+  ennemis de la route.
+- Accepte la chasse Rogue Tomato au Sandsea, puis elimine le mark dans
+  Dalmasca Estersand. [ ] Galbana Bloom.
+- Ouvre les coffres de The Stepping et de la Giza Gate avant de revenir.
+  Ramasse chaque loot, vend seulement les potions et butins en surplus.
+- Apres Rogue Tomato, accepte Thextera au Sandsea et Flowering Cactoid a
+  l'Outpost quand Dantro ouvre la demande. Termine-les avant de quitter
+  l'Estersand.
 
-ARCHEOS ET DRAVANIAN
+2. Garamsythe Waterway et Royal Palace
 
-- Fais les zones de la cote, de la jungle et du palais dans l'ordre de la route.
-  La carte doit etre pleine avant chaque ascenseur ou sortie de donjon.
-- Complete les boutiques et les chasses de Carrot, Fafnir et Gilgamesh quand
-  leur niveau devient raisonnable. Pour Gilgamesh, vole tous les objets visibles
-  sur les phases et verifie l'equipement obtenu.
-- Recupere les Espers optionnels au fur et a mesure : chaque Esper doit etre
-  visible dans le menu et attribue a un job qui peut utiliser son permis.
-- Utilise les competences de Concurrence au fil des combats. Les chaines de
-  Mist ne sont pas a laisser au nettoyage final : entraine une equipe sur des
-  ennemis faibles et note les combinaisons validees.
+- Explore chaque cul-de-sac du Waterway avant le palace : Central Waterway
+  Control, No. 10 Channel, No. 11 Channel, No. 12 Channel et Overflow Cloaca.
+- La chasse Wraith se fait dans Overflow Cloaca apres l'ouverture de la
+  demande. Recupere ensuite la Sluice Gate Key lorsque White Mousse est
+  disponible, mais ne force pas encore cette chasse.
+- Apprends toutes les Magicks et Technicks des boutiques de Rabanastre. Lance
+  quelques Magicks et Technicks sur les rats et flans pour Spellslinger et
+  Premier Prestidigitator.
+- Dans Royal Palace, examine les salles laterales et les points brillants
+  avant l'ascenseur. La carte du palace doit etre complete avant de descendre.
+- A la sortie, [ ] A Traitor Redeemed se valide apres Nalbina Dungeons.
 
-PHAROS ET FIN DE CAMPAGNE
+3. Nalbina Dungeons et Barheim Passage
 
-- Avant Pharos, verifie : cartes, Magies, Technicks, hunts et Bestiaire. Fais
-  une sauvegarde en plusieurs emplacements.
-- Dans Pharos, monte les etages sans ignorer les salles laterales. Les cartes
-  de la zone doivent etre completes avant la sortie.
-- Termine Docteur Cid, la chasse Fafnir, le Behemoth King et le scenario.
-  Les succes d'histoire arrivent dans l'ordre sans choix narratif.
-- Garde une sauvegarde apres la campagne : le nettoyage des chasses, trials et
-  zones optionnelles se fait ensuite sans bloquer la progression.
+- Dans Nalbina, recupere les equipements de depart, parle aux vendeurs et
+  ouvre les coffres des couloirs avant de suivre les prisonniers.
+- Dans Barheim Passage, affiche chaque carte : Op Sector 29, Great Central
+  Passage, Special Op Sector 3, East-West Bypass, Zeviah Subterrane, North-
+  South Junction, The Zeviah Span et Terminus.
+- Les coffres importants a confirmer sont Shear dans The Zeviah Span,
+  Toxify dans East-West Bypass, les armes des rails et les armures des
+  impasses. Apprends Shear immediatement : [ ] Jack-of-All-Trades progressera.
+- Vole les monstres mecaniques et les boss. Utilise Libra pour voir les
+  pieges, puis traverse les rails sans laisser une sous-zone non visitee.
+- Sors de Barheim : [ ] A Traitor Redeemed. Dans Dalmasca South Bank,
+  accepte les quetes du Desert Patient des qu'elles deviennent disponibles.
 
-NETTOYAGE DES CHASSES ET DES ESPERS
+4. Dalmasca Estersand, Outpost et quetes Dantro
 
-- Termine toutes les affiches du Clan Centurio, y compris Trickster, Carrot,
-  Deathgaze, Gilgamesh, Fafnir, Ultima, Behemoth King, Hell Wyrm, Zodiark et
-  Yiazmat.
-- Pour High Summoner, verifie chaque Esper obligatoire et optionnel. Les
-  Espers de fin et les Espers des zones secretes doivent etre coches.
-- Monte un groupe moyen au-dessus du niveau 50, puis utilise les groupes
-  faibles pour monter les personnages de reserve.
-- Vends 1 000 pieces de loot et obtiens 100 000 gils au debut, puis un million
-  depense. Les deux compteurs se font sur toute la sauvegarde.
+- Reviens a l'Outpost, parle a Dantro et a sa famille. La chaine du Desert
+  Patient demande des drops de Cactoid, des objets de l'Estersand et plusieurs
+  aller-retours ; conserve chaque reward jusqu'a la fin.
+- Gagne 100 000 gil par ventes de loot, puis achete les sorts, armures et
+  Teleport Stones necessaires. [ ] Plunderer.
+- Cartographie chaque section de l'Estersand : The Stepping, Yardang
+  Labyrinth, Banks of the Nebra, South Bank, North Bank, The Nebra et
+  Broken Sands.
+- Si le temps est favorable, reviens pour Ring Wyrm plus tard. Note la zone
+  Windtrace Dunes : le mark apparait uniquement pendant une sandstorm.
 
-TRIAL MODE ET BESTIAIRE
+PARTIE II - LHUSU MINES, BHUJERBA ET RAITHWALL
 
-- Lance les Trials apres avoir stabilise l'equipe. Le 50e Trial valide Judge
-  Magister ; le 100e valide Imperator.
-- Les objets recupérés dans les Trials peuvent aider au nettoyage, mais ne
-  remplace pas les cartes et les chasses de la partie principale.
-- Pour Scrivener, consulte le Bestiaire apres chaque grande region : ennemis
-  communs, monstres rares, boss, marques et variantes doivent etre visibles.
-- Si une entree unique manque, cherche d'abord la zone associee au nom du
-  monstre, puis le Trial Mode comme solution de secours. Fais une sauvegarde
-  avant de vendre un butin rare.
+5. Lhusu Mines et Bhujerba
 
-100 % CARTES, MAGIES ET TECHNICKS
+- Dans Lhusu Mines, explore Shaft Entry, Transitway 1, Transitway 2, Site 2,
+  Site 3, Site 9 et Tasche Span. Ne te contente pas de suivre les ouvriers :
+  les passages lateraux contiennent des coffres et des Technicks.
+- Prends Numerology dans Transitway 1 et Expose dans Site 9.
+- Termine Nidhogg a Transitway 1, puis Rocktoise a Site 2 quand Pilika donne
+  l'avis de chasse. Les rewards et le Great Serpentskin servent aux quetes.
+- Dans Bhujerba, visite Lhusu Square, Khus Skygrounds, Clusters of the
+  Timbertech et Miners' End. Achete toutes les Magicks et Technicks.
+- Pour le passage de la ville, choisis les reponses de progression et reviens
+  parler au Clan Hall apres la sortie. [ ] The Unrelenting se prepare avec
+  une chaine d'au moins 50 ennemis du meme type.
 
-- Ouvre la carte du monde et chaque carte de donjon. Une zone inaccessible
-  peut etre cartographiee plus tard par un marchand : verifie la carte achetee
-  avant de conclure qu'elle est manquante.
-- Achete toutes les Magies de boutique, de chasse, de coffre et de clan. Pour
-  Runeweaver, le menu Magick doit afficher la liste complete.
-- Achete toutes les Technicks et utilise-les au moins une fois. Pour
-  Jack-of-All-Trades, le permis doit etre appris sur un personnage.
-- Complete les 12 boards de jobs selon ta composition, puis fais la chasse
-  aux LP jusqu'a 48 000. Utilise les doubles/triples vitesses avec prudence
-  dans les zones de farm.
+6. Ogir-Yensa, Nam-Yensa et Tomb of Raithwall
 
-CHECKLIST DES 41 SUCCES STEAM
+- Ogir-Yensa : visite Platform 1 East Tanks, Central Junction, Platform 2
+  Refinery, Primary Tank Complex et Zertinan access. Prends Reflect dans
+  Primary Tank Complex et Infuse dans Platform 1 East Tanks.
+- Nam-Yensa : explore Yellow Sands, Withering Shores, Demesne of the
+  Sandqueen, Trail of Fading Warmth et Augur Hill. Balance se trouve dans
+  Demesne of the Sandqueen.
+- Accepte Wyvern Lord au Rabanastre Weapon Shop et elimine-le a Simoon Bluff.
+  La chasse Belito demandera l'acces par Zertinan plus tard.
+- Dans Tomb of Raithwall, examine Royal Passage, Hall of the Destroyer,
+  Cloister of Flame, Southfall Passage et Northfall Passage. Prends Dispel
+  dans Royal Passage et Shades of Black dans Cloister of Flame.
+- Vole les rares objets des boss, apprends Belias et garde sa licence pour le
+  job qui a besoin de la case. [ ] The Mist Seethes apres Dawn Shard.
+- A la sortie, l'histoire ouvre Giza, Ozmone et le premier grand nettoyage.
 
-[ ] For the Homeland — prologue et Ordre des chevaliers.
-[ ] Galbana Bloom — premier mark.
-[ ] Assault Striker — Attack 300 fois.
-[ ] A Traitor Redeemed — sortir des Nalbina Dungeons.
-[ ] Blood Dancer — 500 ennemis.
-[ ] Wayfarer — 50 000 pas.
-[ ] Fated Meeting — sauver la princesse.
-[ ] Spellslinger — 200 Magies.
-[ ] Plunderer — 100 000 gils acquis.
-[ ] The Mist Seethes — Dawn Shard.
-[ ] Premier Prestidigitator — 100 Technicks.
-[ ] The Unrelenting — chaine de 50.
-[ ] Visions of the Dreamer — repartir du Mont Bur-Omisace.
-[ ] Master Thief — 50 vols reussis.
-[ ] Privateer — vendre 1 000 loots.
-[ ] Record Breaker — 500 000 Clan Points.
-[ ] Reins of History — rencontrer Doctor Cid.
-[ ] Conqueror — 48 000 LP.
-[ ] Spendthrift — depenser 1 000 000 gils.
-[ ] Exemplar — moyenne de groupe superieure a 50.
-[ ] Sharpshooter — vaincre Trickster.
-[ ] Freshmaker — vaincre Carrot.
-[ ] Wings of My Own — terminer la campagne.
-[ ] Collector — obtenir un Morbid Urn.
-[ ] Eagle Eye — vaincre Deathgaze.
-[ ] Master Swordsman — vaincre Gilgamesh.
-[ ] Wyrmslayer — vaincre Fafnir.
-[ ] Fell Angel — vaincre Ultima.
-[ ] Lord of the Kings — vaincre Behemoth King.
-[ ] Judge Magister — Trial 50.
-[ ] Radiant Savior — vaincre Hell Wyrm.
-[ ] Zodiac Knight — vaincre Zodiark.
-[ ] High Summoner — tous les Espers.
-[ ] Hunter Extraordinaire — vaincre Yiazmat.
-[ ] Runeweaver — toutes les Magies.
-[ ] Jack-of-All-Trades — tous les Technicks.
-[ ] Mist Walker — toutes les Concurrences.
-[ ] Cartographer — toutes les cartes.
-[ ] Imperator — Trial 100.
-[ ] Scrivener — Bestiaire complet.
-[ ] Champion of Ivalice — tous les autres succes.
+PARTIE III - GIZA, OZMONE, JAHARA ET LE MONT BUR-OMISACE
+
+7. Giza Plains et la meteo
+
+- En saison seche, cartographie Toam Hills, Starfall Field, Gizas North Bank,
+  Gizas South Bank, Crystal Glade et Nomad Village. Achete Blind dans Toam
+  Hills et Regen aupres du village ou de Tchita plus tard.
+- En saison des pluies, reviens pour Starfall Field, Tracks of the Beast,
+  Throne Road et le pont des arbres. Croakadile apparait pres du pont ; Gil
+  Snapper demande les arbres morts et une forte pluie.
+- Termine Cluckatrice : tue tous les ennemis de Gizas North Bank, sors et
+  reviens pour faire apparaitre Chickatrice puis Cluckatrice.
+- Pour Gil Snapper, coupe les arbres morts des zones de Giza pour construire
+  le pont au sud-est, puis reviens pendant la forte pluie. Phobos Glaze
+  servira a la Morbid Urn.
+- Demarre les quetes Cockatrice et Great Cockatrice Escape quand le village
+  revient en saison seche. Garde la liste des reponses et parle aux dix
+  Cockatrices jusqu'a leur retour.
+
+8. Ozmone Plains, Zertinan et Jahara
+
+- Ozmone : explore Field of Fallen Wings, Dagan Flats, The Shred, Haulo
+  Green, The Switchback, The Greensnake et Haulo Green. Tue tous les Wu,
+  sors et reviens pour Enkelados.
+- Dans Zertinan Caverns, utilise les sorties Estersand, Ogir-Yensa et
+  Nam-Yensa. Explore Canopy of Clay et Athroza Quicksands ; Sight Unseeing
+  est dans Canopy of Clay.
+- Adrammelech se trouve dans Athroza Quicksands apres Raithwall. Protege-toi
+  contre la foudre et ouvre les coffres lateraux avant de repartir.
+- Jahara : visite Lull of the Land, Elderknoll, Giantscradle, the Terraced
+  Bank et l'entree des mines. Achete les nouvelles Magicks et tous les
+  Technicks disponibles.
+- Termine Enkelados, Ixtab et Mindflayer quand leur avis apparait. Note
+  Henne Mines Phase 1 Dig pour Bonecrusher et Special Charter Shaft pour
+  Renew et Addle, mais garde ces zones pour la fin.
+
+9. Mont Bur-Omisace et Paramina Rift
+
+- Dans Paramina Rift, cartographie Karydine Glacier, Frozen Brook, Spine of
+  the Icewyrm, Freezing Gorge, Head of the Silverflow, Icebound Flow et
+  Silverflow's End. Death se trouve dans Karydine Glacier.
+- Termine Feral Retriever dans Spine of the Icewyrm. Pour Fafnir, parle a
+  Relj au Mont Bur-Omisace afin de faire apparaitre la blizzard, puis traverse
+  Freezing Gorge -> Head of the Silverflow -> Icebound Flow -> Karydine
+  Glacier -> Silverflow's End sans casser la meteo.
+- Au Mont, explore Temple Approach, Temple Grounds, Hall of the Light et
+  Mt Bur-Omisace. [ ] Visions of the Dreamer en repartant du mont apres
+  l'evenement principal.
+- Apprends Countdown a Stilshrine of Miriam plus tard et garde la carte du
+  mont complete avant la sortie.
+
+PARTIE IV - GOLMORE, Eruyt, HENNE ET STILSHRINE
+
+10. Golmore Jungle et Eruyt Village
+
+- Dans Golmore, visite The Needlebrake, The Parting Glade, The Rustling
+  Chapel, The Branchway, Whisperleaf Way et Paths of Chosen.
+  Ouvre tous les coffres visibles avant le passage bloque.
+- Termine Vorpal Bunny a The Rustling Chapel. La recompense et le loot
+  alimentent le bazar.
+- Dans Eruyt Village, visite Fane of the Path, The Spiritwood et les cabanes.
+  Achete Haste, Esuna, Stona, Break, Fira, Thundara et les Technicks de la
+  boutique. Termine la chasse Wild Malboro plus tard a Redolent Glade.
+- Fais une sauvegarde avant de retourner au jungle. Apprends Mateus dans
+  Stilshrine et attribue-le au job de ton mage ou healer.
+
+11. Stilshrine of Miriam
+
+- Cartographie Ward of Velitation, Ward of Measure, Ward of the Sword-King,
+  Ward of the Sworn, Walk of Revelation, Walk of Prescience et Trimahla
+  Water-Steps.
+- Prends Countdown dans Ward of Velitation, les coffres d'armes et les
+  armures des deux ailes. Utilise les Way Stones seulement apres avoir
+  visite les salles laterales.
+- Vole les armes et armures des bosses, puis apprends Mateus. La carte doit
+  rester ouverte jusqu'au teleport de sortie.
+- Achete les sorts debloques au Mont Bur-Omisace apres la progression :
+  Cura, Curaga, Fira, Blizzara, Thundara, Bio, Berserk et Darkra.
+- Reviens a Rabanastre, depense les LP et complete 500 ennemis si le compteur
+  est encore bas. [ ] Blood Dancer.
+
+12. Henne Mines, Phase 1 et optional access
+
+- Fais d'abord la partie narrative de Henne Mines : Phase 1 Dig, Crossover
+  C, Staging Area, Phase 2 Shaft et l'embranchement des rails.
+- Prends Bonecrusher dans Phase 1 Dig. Termine Mindflayer si ce n'est pas
+  fait, puis note l'entree vers Special Charter Shaft.
+- Apres au moins 10 Espers, parle au garif elder de Jahara pour ouvrir la
+  section speciale. C'est ici que se trouvent Renew, Addle et le coffre rare
+  du Zodiac Spear.
+- Dans Special Charter Shaft, cartographie chaque salle et ouvre tous les
+  coffres avant de rejoindre la fin. Le coffre du Zodiac Spear est aleatoire ;
+  une fois apparu, son contenu est garanti. Ce n'est plus la regle des quatre
+  coffres interdits de la version PS2.
+- Ne repars pas avec une entree de Bestiaire vide. Les ennemis rares de la
+  mine reviennent sur la liste des 80 Rare Games.
+
+PARTIE V - COTE, JUNGLE, SOCHEN ET ARCHADES
+
+13. Phon Coast, Salikawood et Mosphoran
+
+- Phon Coast : cartographie Limatra Hills, The Reseta Strand, Caima Hills,
+  Pora-Pora Sands, Cape Uahuk, The Vaddu Strand, Hades River, Pora-Pora,
+  The Piebald Path et Camp. Ramasse le Site 11 Key pres du Fallen Bhujerban
+  quand la quete Antlion l'ouvre.
+- Salikawood : visite Quietened Trace, Corridor of Ages, Sun-dappled Path,
+  Living Chasm, Garden of Decay, the Rustling Chapel access et Grand Bower.
+  Prends Charm a Quietened Trace.
+- Avant de lancer Carrot, ne tue aucun ennemi de Salikawood. Accepte la
+  chasse, fais apparaitre Carrot a Sun-dappled Path, puis nettoie la zone.
+  [ ] Freshmaker.
+- Mosphoran Highwaste : cartographie Trail of Sky-flung Stone, Babbling Vale,
+  Empyrean Way, Halny Crossing, Northern Skirts, Summit Path, Rays of
+  Ashen Light et Skyreach Ridge. Prends Stamp a Rays of Ashen Light.
+- Active les Sanctuaries of the Wind en utilisant les mecanismes et fais
+  apparaitre Exodus quand son acces est ouvert. Termine Atomos a Northern
+  Skirts.
+
+14. Sochen Cave Palace et Tchita Uplands
+
+- Tchita Uplands : explore The Skycity of Bhujerba access, Oliphzak Rise,
+  The Lost Way, The Chosen Path, Garden of Life's Circle, Fields of Eternity
+  et The Spherical Way. Float est dans Oliphzak Rise.
+- Le temps nuageux est requis pour Lindwyrm. Quitte completement Tchita et
+  reviens si le ciel n'est pas couvert.
+- Sochen Cave Palace : visite Hall of Shadowlight, Falls of Time, Mirror of
+  the Soul, Temptation Eluded, Doubt Abandoned, Destiny's March et Skybent
+  Chamber. Prends 1000 Needles a Falls of Time.
+- Fais le puzzle des portes dans l'ordre indique par les signes pour ouvrir
+  la chambre de Hell Wyrm. Termine Darksteel, Overlord et Hell Wyrm avant de
+  fermer la zone.
+- Coche les coffres d'armures, Save the Queen, les accessoires et les
+  Magicks laterales. [ ] Radiant Savior sur Hell Wyrm.
+
+15. Archades, Draklor et les quetes de ville
+
+- A Old Archades, visite Alley of Muted Sighs, Molberry, Rienna, Vint's
+  Armaments, Bulward's Technicks et la sortie vers les boutiques. Termine
+  Lindwyrm avec Fermon avant de poursuivre.
+- Fais la collecte des Sandalwood Chops pour entrer dans Highgarden Terrace.
+  La carte d'Archades compte les sous-zones : Molberry, Highgarden,
+  Trant, Alley of Muted Sighs, The Rienna et Central.
+- Commence Hunt Club a Phon Coast apres Draklor, puis parle aux trois Bangaa
+  a chaque retour. Ne vends pas les trophies.
+- Draklor Laboratory : cartographie les etages, les halls et les salles
+  7001 / 7002. Prends Gil Toss au 70th Floor Room 7002.
+- Achete les Magicks et Technicks des magasins d'Archades. Apprends ceux que
+  tu peux immediatement. [ ] Reins of History apres Docteur Cid.
+
+PARTIE VI - PORT, CEROBI, GIRUVEGAN ET PHAROS
+
+16. Balfonheim, Cerobi et les chasses aeriennes
+
+- Balfonheim Port : explore The Whitecap, Saccio Lane, Sea Breeze Lane,
+  The Rains, Chivany Breakwater, and the Aerodrome. Achete Curaja, Arise,
+  Slowga, Graviga, Blizzaga, Thundaga, Firaga, Darkga et les derniers
+  Technicks de boutique.
+- Termine Vyraal dans The Northsward de Cerobi et conserve Dragon Scale pour
+  la quete du Wyrm Philosopher. Telekinesis est dans Old Elanise Road.
+- Deathgaze apparait dans l'airship apres avoir parle plusieurs fois a la
+  famille du Traveler et pris un vol. Accepte le combat des qu'il apparait.
+  [ ] Eagle Eye.
+- Pour le Bestiaire, chaque vol du dirigeable peut aussi fournir des ennemis
+  et des pages de Skyferry. Entre dans chaque pont et parle aux voyageurs.
+
+17. Great Crystal et Giruvegan
+
+- Dans Giruvegan, explore Gate of Fire, Trimahla Water-Steps, A Vikaari
+  Kanla, Haalmikah Water-Steps, A Vikaari Sirhru, A Vikaari Uldobi,
+  A Pratii'vaa, A Vikaari Kanla, Gate of Ice et Trimahla.
+- Great Crystal : note chaque Way Stone et chaque salle sans nom. Hastega se
+  trouve dans Uldobi Phullam Pratii ; Shellga dans Sirhu Phullam Pratii.
+- Utilise les interrupteurs de portes et les Way Stones, mais visite toutes
+  les branches avant de prendre le chemin de la story. La carte ne montre
+  pas toujours les passages caches.
+- Termine Ultima dans la zone optionnelle quand son chemin est accessible.
+  Protege l'equipe contre les statuts et garde une sauvegarde avant le combat.
+  [ ] Fell Angel.
+- Apprends Shemhazai, Hashmal et Famfrit au fil de la progression principale.
+  [ ] High Summoner est prepare avec les huit Espers optionnels.
+
+18. Pharos at Ridorana et Subterra
+
+- Pharos First Ascent : cartographie Dunes of the Farplane, Wellspring
+  Ravel 1st / 2nd / 3rd Flight, Reach of the Frightened, Horizon's Break,
+  Station of Ascension, Wellspring Ravel et Third Ascent. Prends Holy au
+  Wellspring Ravel 3rd Flight.
+- Pharos Second Ascent : prends Gil Toss a Station of Ascension, ouvre chaque
+  coffre des salles de glyphes et valide les teleports avant le sommet.
+- Third Ascent : prends Flare a Spire Ravel 1st Flight et Ardor a Spire
+  Ravel 2nd Flight. Ces deux coffres sont indispensables a Runeweaver.
+- Termine Hashmal et Famfrit, puis sauvegarde avant le dernier ascenseur.
+- Apres la progression, ouvre Pharos Subterra. Cartographie Abyssal North,
+  Abyssal South, Umbra, Penumbra, Omega Corridor et les trois niveaux. Wither
+  est dans Abyssal North.
+- Termine Ixion a Subterra, le Seer / Shadowseer avec les Black Orbs, puis
+  reviens au Clan pour ouvrir Hell Wyrm et Yiazmat.
+
+19. Sky Fortress Bahamut
+
+- Avant Bahamut, verifie les sections de carte, Magicks, Technicks, Espers,
+  chasses et Bestiaire. Fais trois sauvegardes manuelles.
+- Dans Bahamut, cartographie Airship Berith, Perimeter, Anchor, Central
+  Complex, Port, Sub-control et les salles de l'ascenseur.
+- Ouvre tous les coffres et points brillants, puis finis la campagne.
+  [ ] Wings of My Own.
+- Ne lance pas le Trial Mode ni Yiazmat avant d'avoir une sauvegarde de fin de
+  campagne. Le nettoyage reste accessible ensuite.
+
+LISTE COMPLETE DES 45 MARKS
+
+RANK I
+
+[ ] Rogue Tomato - Dalmasca Estersand, The Stepping.
+[ ] Thextera - Dalmasca Westersand, Galtea Downs.
+[ ] Flowering Cactoid - Dalmasca Estersand, Yardang Labyrinth.
+[ ] Wraith - Garamsythe Waterway, Overflow Cloaca.
+[ ] Nidhogg - Lhusu Mines, Transitway 1.
+[ ] Cluckatrice - Giza Plains, Gizas North Bank, saison seche.
+[ ] Rocktoise - Lhusu Mines, Site 2.
+
+RANK II
+
+[ ] Wyvern Lord - Nam-Yensa Sandsea, Simoon Bluff.
+[ ] Enkelados - Ozmone Plains, The Shred, apres les Wu.
+[ ] Croakadile - Giza Plains, Starfall Field, saison des pluies.
+[ ] Ixtab - Henne Mines, Phase 1 Shaft.
+
+RANK III
+
+[ ] Ring Wyrm - Westersand, Windtrace Dunes, sandstorm.
+[ ] Feral Retriever - Paramina Rift, Spine of the Icewyrm.
+[ ] Vorpal Bunny - Golmore Jungle, The Rustling Chapel.
+[ ] Atomos - Mosphoran Highwaste, Northern Skirts.
+[ ] Gil Snapper - Giza Plains, Tracks of the Beast, forte pluie.
+
+RANK IV
+
+[ ] Mindflayer - Henne Mines, Phase 1 Dig.
+[ ] Braegh - Salikawood, Corridor of Ages.
+[ ] Darksteel - Sochen Cave Palace, Temptation Eluded.
+
+RANK V
+
+[ ] White Mousse - Garamsythe Waterway, West Sluice Control.
+[ ] Marilith - Zertinan Caverns, Invitation to Heresy.
+[ ] Bloodwing - Barheim Passage, West Annex, cle Barheim.
+[ ] Orthros - Waterway, Southern Sluiceway, equipe Ashe/Fran/Penelo.
+[ ] Trickster - Paramina Rift, Frozen Brook.
+[ ] Antlion - Lhusu Mines, Site 9, Site 3 Key.
+[ ] Vyraal - Cerobi Steppe, The Northsward.
+[ ] Belito - Nam-Yensa Sandsea, Withering Shores par Zertinan.
+[ ] Piscodaemon - Giruvegan, Gate of Fire.
+[ ] Lindwyrm - Tchita Uplands, Garden of Life's Circle, nuages.
+
+RANK VI
+
+[ ] Roblon - Nabreus Deadlands, Overlooking Eternity.
+[ ] Overlord - Sochen Cave Palace, Doubt Abandoned.
+[ ] Goliath - Necrohol of Nabudis, Hall of Slumbering Might.
+[ ] Deathscythe - Necrohol of Nabudis, Cloister of the Highborn.
+[ ] Catoblepas - Zertinan Caverns, zone cachee de l'Undershore.
+[ ] Wild Malboro - Feywood, Redolent Glade.
+[ ] Ixion - Pharos Subterra, n'importe quel niveau ouvert.
+[ ] Shadowseer - Pharos Subterra, Black Orbs aux autels.
+
+RANK VII
+
+[ ] Carrot - Salikawood, Sun-dappled Path, sans tuer les ennemis avant.
+[ ] Gilgamesh - Lhusu Mines, Tasche Span puis Site 7.
+[ ] Deathgaze - Airship, quete du Traveler.
+[ ] Diabolos - Lhusu Mines, Site 11.
+[ ] Fafnir - Paramina Rift, Silverflow's End, blizzard.
+[ ] Pylraster - Pharos First Ascent, They Who Thirst Not.
+[ ] Behemoth King - Feywood, Ice Field of Clearsight puis Edge of Reason.
+
+RANK VIII
+
+[ ] Yiazmat - Ridorana Cataract, Colosseum, apres Hell Wyrm.
+
+ESPERS - 13/13
+
+ESPERS DE CAMPAGNE
+
+[ ] Belias - Tomb of Raithwall, Cloister of Flame.
+[ ] Mateus - Stilshrine of Miriam.
+[ ] Shemhazai - Great Crystal / Giruvegan.
+[ ] Hashmal - Pharos, Second Ascent.
+[ ] Famfrit - Pharos, apres le combat de progression.
+
+ESPERS OPTIONNELS
+
+[ ] Adrammelech - Zertinan Caverns, Athroza Quicksands.
+[ ] Zalera - Barheim Passage, Terminus No. 7, apres Desert Patient.
+[ ] Cuchulainn - Garamsythe Waterway, apres Wraith et White Mousse.
+[ ] Exodus - Mosphoran Highwaste, sanctuaries du vent.
+[ ] Zeromus - Stilshrine of Miriam, zone de la pierre de l'autel.
+[ ] Chaos - Necrohol of Nabudis, apres les trois medallions.
+[ ] Ultima - Great Crystal, chemin optionnel de la zone finale.
+[ ] Zodiark - Henne Mines, Special Charter Shaft, apres 10 autres Espers.
+
+COFFRES, MAGICKS ET TECHNICKS A VERIFIER
+
+COFFRES DE MAGICKS NON ACHETABLES
+
+[ ] Renew - Henne Mines, Special Charter Shaft.
+[ ] Cleanse - Cerobi Steppe, The Terraced Bank.
+[ ] Dispel - Tomb of Raithwall, Royal Passage.
+[ ] Dispelga - Feywood, White Magick's Embrace.
+[ ] Protectga - Necrohol of Nabudis, Cloister of Distant Song.
+[ ] Shellga - Great Crystal, Sirhu Phullam Pratii'vaa.
+[ ] Bravery - Necrohol of Nabudis, Cloister of the Highborn.
+[ ] Faith - Necrohol of Nabudis, Hall of the Ivory Covenant.
+[ ] Regen - Giza Nomad Village ou Tchita, The Lost Way.
+[ ] Holy - Pharos First Ascent, Wellspring Ravel 3rd Flight.
+[ ] Flare - Pharos Third Ascent, Spire Ravel 1st Flight.
+[ ] Scathe - Lhusu Mines, Staging Area.
+[ ] Blind - Giza Plains, Toam Hills, saison seche.
+[ ] Blindga - Tchita Uplands, Fields of Eternity.
+[ ] Silence - Estersand, Yardang Labyrinth ou Lhusu Shaft Entry.
+[ ] Silencega - Necrohol of Nabudis, Hall of Effulgent Light.
+[ ] Sleep - Dreadnought Leviathan, Starboard Section.
+[ ] Sleepga - Giruvegan, Haalmikah Water-Steps.
+[ ] Poison - Estersand, Sand-Swept Naze.
+[ ] Toxify - Barheim Passage, East-West Bypass.
+[ ] Haste - Eruyt Village, Fane of the Path.
+[ ] Hastega - Great Crystal, Uldobi Phullam Pratii.
+[ ] Countdown - Stilshrine of Miriam, Ward of Velitation.
+[ ] Float - Tchita Uplands, Oliphzak Rise.
+[ ] Vanish - Tomb of Raithwall, Royal Passage.
+[ ] Reflect - Ogir-Yensa, Primary Tank Complex.
+[ ] Reflectga - Feywood, Edge of Reason.
+[ ] Balance - Nam-Yensa, Demesne of the Sandqueen.
+[ ] Warp - Nabreus Deadlands, Lifeless Strand.
+[ ] Death - Paramina Rift, Karydine Glacier.
+[ ] Ardor - Pharos Third Ascent, Spire Ravel 2nd Flight.
+
+TECHNICKS 24/24
+
+[ ] Steal - Vaan starting Technick.
+[ ] Libra - shops.
+[ ] First Aid - shops.
+[ ] Charge - shops.
+[ ] Poach - shops.
+[ ] Souleater - shops.
+[ ] Horology - shops.
+[ ] Traveler - shops.
+[ ] Infuse - Dreadnought Leviathan or Ogir-Yensa.
+[ ] Bonecrusher - Henne Mines, Phase 1 Dig.
+[ ] 1000 Needles - Sochen Cave Palace, Falls of Time.
+[ ] Stamp - Mosphoran Highwaste, Rays of Ashen Light.
+[ ] Addle - Henne Mines, Special Charter Shaft.
+[ ] Shades of Black - Tomb of Raithwall, Cloister of Flame.
+[ ] Expose - Lhusu Mines, Site 9.
+[ ] Achilles - Garamsythe Waterway, No. 4 Cloaca Spur.
+[ ] Gil Toss - Draklor 70th Floor Room 7002 or Pharos Second Ascent.
+[ ] Sight Unseeing - Zertinan Caverns, Canopy of Clay.
+[ ] Shear - Barheim Passage, Zeviah Span.
+[ ] Wither - Pharos Subterra, Abyssal North.
+[ ] Charm - Salikawood, Quietened Trace.
+[ ] Revive - Paramina Rift, Spine of the Icewyrm.
+[ ] Telekinesis - Cerobi Steppe, Old Elanise Road.
+[ ] Numerology - Lhusu Mines, Transitway 1.
+
+MAGICKS DE BOUTIQUE
+
+- A chaque ville, compare le stock avant de repartir. Les familles a acheter
+  sont Cure/Cura/Curaga/Curaja, Raise/Arise, Esuna/Esunaga, Blindna, Vox,
+  Poisona, Stona, Protect/Protectga, Shell/Shellga, Fire/Fira/Firaga,
+  Thunder/Thundara/Thundaga, Blizzard/Blizzara/Blizzaga, Aero/Aeroga,
+  Aqua, Bio, Shock, Scourge, Haste/Hastega, Slow/Slowga, Stop, Immobilize,
+  Disable, Bleed, Break, Berserk, Vanishga, Gravity/Graviga, Oil, Reverse,
+  Decoy, Drain, Bubble, Syphon, Dark/Darkra/Darkga et Ardor.
+- Ouvre le menu License Board apres chaque achat et apprends le sort sur au
+  moins un job. [ ] Runeweaver ne se valide pas avec l'achat seul.
+- Les sorts de Clan Provisioner sont Oil, Reverse, Decoy, Drain, Bubble et
+  Syphon. Retourne au Muthru Bazaar apres les promotions de Clan.
+
+CONCURRENCES - MIST WALKER
+
+- Debloque les trois Quickenings sur tous les personnages avant de viser
+  Black Hole. Fais un essai dans une zone de farm, pas contre Yiazmat.
+- Les huit recettes sont :
+  [ ] Inferno - 3 Quickenings de niveau 1.
+  [ ] Cataclysm - 6 de niveau 1.
+  [ ] Torrent - 2 de niveau 1 et 2 de niveau 2.
+  [ ] Windburst - 4 de niveau 2.
+  [ ] Ark Blast - 2 de niveau 1, 2 de niveau 2 et 2 de niveau 3.
+  [ ] Whiteout - 4 de niveau 3.
+  [ ] Luminescence - 3 de chaque niveau.
+  [ ] Black Hole - 4 de chaque niveau.
+- Quand un "Mist Charge" apparait, choisis le bouton correspondant au niveau
+  affiche. Quand "Mist Chance" apparait, utilise-le avant de perdre la chaine.
+  Entraine-toi jusqu'a valider les huit noms dans le Bestiary/Clan Primer.
+  [ ] Mist Walker.
+
+HUNT CLUB - 30 TROPHY RARE GAMES
+
+- Apres Draklor, lance Hunt Club sur Phon Coast, au camp au sud du cristal.
+  Les 30 Trophy Rare Games ne donnent leur trophy que dans la partie
+  principale ; les tuer en Trial ne suffit pas.
+- Repartition recommandee pour obtenir les deux objets zodiacaux chez le
+  marchand : donne 10 trophies a Atak, 10 a Blok et 10 a Stok. Cela ouvre
+  Zodiac Spear et Zodiac Escutcheon a l'achat. Une repartition 5/5/15 permet
+  d'obtenir le Ribbon en recompense de majorite, mais bloque le bonus inverse.
+  Choisis avant de rendre le 16e trophy.
+- Les 30 trophies a cocher sont :
+  [ ] Aspidochelon, [ ] Braegh, [ ] Bluesang, [ ] Bull Chocobo,
+  [ ] Dheed, [ ] Disma, [ ] Gavial, [ ] Glaring Eye, [ ] Ithuno,
+  [ ] Kaiser Wolf, [ ] Killbug, [ ] Keyless, [ ] Larva Eater,
+  [ ] Lindburn Wolf, [ ] Melt, [ ] Nekhbet, [ ] Phyllo,
+  [ ] Rageclaw, [ ] Razorfin, [ ] Ripe Rampager, [ ] Shield Wyrm,
+  [ ] Skullash, [ ] Spee, [ ] Terror Tyrant, [ ] Tower,
+  [ ] Victanir, [ ] Velelu, [ ] Vorres, [ ] Wary Wolf,
+  [ ] Wood Toad.
+- Donne les trophies au bon Bangaa, achete les rewards du Shifty-Eyed
+  Merchant et parle au Hunt Club Owner a Highgarden Terrace. Les recompenses
+  de 5, 10, 15, 20, 25 et 30 trophies completent les gems zodiacales.
+
+QUESTES SECONDAIRES A FAIRE AVANT LE NETTOYAGE FINAL
+
+DESERT PATIENT ET BARHEIM KEY
+
+- Dantro a l'Outpost lance la chaine. Apporte les drops demandes a la femme
+  de Dantro dans South Bank, puis a la malade de la maison.
+- Recupere les Nebralim, Great Serpentskin, Semclam Shell, Valeblossom Dew
+  et Barheim Key dans l'ordre des dialogues. Fais les combats de l'Outpost
+  entre deux allers-retours.
+- La cle ouvre Barheim Passage, West Annex, Bloodwing et l'acces a Zalera.
+  Complete la carte de Terminus No. 7 et bats Zalera.
+
+BHujerba MADHU, COCKATRICES ET MATAMUNE
+
+- Apres la chasse de Nidhogg, rends Great Serpentskin a la quete du patient
+  et suis le marchand pour Bhujerban Madhu. Les boissons et conversations
+  sont dans les maisons du Skycity.
+- Pour Great Cockatrice Escape, termine les chasses et la progression des
+  Giza, puis parle aux Nomads pendant la saison seche. Retrouve les
+  Cockatrices dans Rabanastre, Giza, Eruyt, Jahara et Bhujerba ; ne repars
+  pas avant d'avoir parle a chacune.
+- Fishing / Matamune : commence par le village de South Bank apres la quete
+  du patient, gagne les prises demandees et repars avec Matamune quand le
+  dialogue l'offre. Note chaque prise dans le carnet de quetes.
+
+PATIENT, MEDALLIONS ET NECROHOL
+
+- Termine White Mousse pour la Sluice Gate Key. Ouvre les quatre vannes de
+  Garamsythe Waterway et prends le chemin du medallion.
+- Reunis les trois medallions pour ouvrir Necrohol of Nabudis : Hall of
+  Slumbering Might, Hall of the Ivory Covenant, Hall of Effulgent Light,
+  Cloister of Distant Song, Cloister of the Highborn et Cloister of the
+  True Phylactery.
+- Bats Chaos dans le chemin des medallions. Termine Roblon, Goliath,
+  Deathscythe et Catoblepas sur le meme passage.
+
+WINDMILL NUMBERS ET WYRM PHILOSOPHER
+
+- Recupere les dix parties de Windmill dans les villages, les hunts et les
+  zones de Phon Coast. Ramene-les au Viera Wayfarer et suis les indications
+  du dialogue jusqu'a l'objet final.
+- Avec Dragon Scale de Vyraal, lance la quete Wyrm Philosopher. Explore
+  chaque zone indiquee et bats le superboss final apres la recompense.
+
+BESTIAIRE 384/384
+
+- Le Bestiaire se complete en battant chaque ennemi au moins une fois. Il
+  faut les ennemis normaux, les boss, les Marks, les Elite Marks, les Espers
+  et les 80 Rare Games. Les variantes ne demandent pas de remplir toutes les
+  pages de loot ; une apparition dans le registre suffit.
+- A la fin de chaque region, ouvre le Bestiaire et coche les groupes :
+  Dalmasca, Barheim, Lhusu, Sandseas, Giza, Ozmone/Jahara, Golmore/Eruyt,
+  Paramina, Phon, Salikawood, Mosphoran, Tchita, Sochen, Nabreus/Necrohol,
+  Cerobi, Feywood, Giruvegan, Great Crystal, Pharos, Subterra, airships,
+  Hunt Club et boss.
+- Les 80 Rare Games apparaissent avec des conditions precises : nombre
+  d'ennemis tues, temps de zone, meteo, pourcentage de PV ou sous-zone
+  cachee. Utilise une sauvegarde avant chaque tentative, ne fais pas de
+  chain-reset sans noter la condition et bats le rare dans la partie
+  principale pour que la page soit valide.
+- Les 30 Trophy Rare Games sont a refaire dans la partie principale meme si
+  leur nom existe deja apres un Trial. Le trophy ne tombe pas dans le Trial.
+- Quand les 384 noms sont remplis, [ ] Scrivener.
+
+TRIAL MODE 1 A 100
+
+- Entre en Trial Mode apres avoir acquis les equipements, Decoy, Bubble,
+  Reverse, Nihopalaoa, Ribbon, les meilleures armes et au moins deux tanks.
+- Les Trials 1 a 20 servent a verifier les Gambits, les statuts et le farm.
+  Conserve les rewards rares et ne vends pas les armes venant d'un Trial.
+- Les Trials 21 a 49 introduisent les Marks, les Espers et les combats de
+  statut. Equipe Nihopalaoa + Remedy pour les cibles sensibles.
+- [ ] Trial 50 valide Judge Magister. Fais une sauvegarde dans le menu de
+  Trial avant de quitter.
+- Les Trials 51 a 89 servent au farm d'armes, de ribbons et de Genji. Les
+  objets restent recuperables par fuite/reprise si tu maitrises le systeme.
+- Les Trials 90 a 99 demandent niveau 80+ et protections elementaires.
+  [ ] Trial 100 valide Imperator. Ne lance pas cette etape sans un fichier
+  de sauvegarde normal recent.
+
+NETTOYAGE DES COMPTEURS
+
+- [ ] 300 Attack, [ ] 200 Magicks, [ ] 100 Technicks, [ ] 50 Steals.
+- [ ] 500 ennemis et [ ] 50 000 pas. Les zones de marche de Rabanastre et
+  les tunnels de Barheim suffisent sans grind specifique.
+- [ ] 100 000 gil obtenu, [ ] 1 000 000 gil depense, [ ] 1 000 pieces de
+  loot vendues. Achete les Magicks, armures, accessoires et rewards de Hunt
+  Club au lieu de vendre du loot rare trop tot.
+- [ ] 500 000 Clan Points avec les 45 Marks, les Elite Marks, Hunt Club et
+  les rangs de Clan. Les points ne sont pas depenses par les boutiques.
+- [ ] Niveau moyen au-dessus de 50. Monte les six personnages sur les memes
+  zones de farm pour ne pas laisser un membre trop bas.
+
+CHECKLIST FINALE - 41 SUCCES STEAM
+
+[ ] For the Homeland
+[ ] Galbana Bloom
+[ ] Assault Striker
+[ ] A Traitor Redeemed
+[ ] Blood Dancer
+[ ] Wayfarer
+[ ] Fated Meeting
+[ ] Spellslinger
+[ ] Plunderer
+[ ] The Mist Seethes
+[ ] Premier Prestidigitator
+[ ] The Unrelenting
+[ ] Visions of the Dreamer
+[ ] Master Thief
+[ ] Privateer
+[ ] Record Breaker
+[ ] Reins of History
+[ ] Conqueror
+[ ] Spendthrift
+[ ] Exemplar
+[ ] Sharpshooter
+[ ] Freshmaker
+[ ] Wings of My Own
+[ ] Collector
+[ ] Eagle Eye
+[ ] Master Swordsman
+[ ] Wyrmslayer
+[ ] Fell Angel
+[ ] Lord of the Kings
+[ ] Judge Magister
+[ ] Radiant Savior
+[ ] Zodiac Knight
+[ ] High Summoner
+[ ] Hunter Extraordinaire
+[ ] Runeweaver
+[ ] Jack-of-All-Trades
+[ ] Mist Walker
+[ ] Cartographer
+[ ] Imperator
+[ ] Scrivener
+[ ] Champion of Ivalice
 
 VERIFICATION FINALE
 
-- Steam affiche 41/41.
-- La carte est pleine, les 12 jobs sont repartis, les chasses et les Espers
-  sont coches.
-- Magies, Technicks, Concurrences, Trials et Bestiaire sont termines.
-- Le guide reste sans spoiler : seuls les noms des zones, monstres, systemes
-  et succes servent de reperes chronologiques.
+[ ] Steam affiche 41/41.
+[ ] La carte contient toutes les sections visitées, y compris les zones
+    cachees d'Henne, Barheim, Necrohol, Great Crystal et Pharos Subterra.
+[ ] Les 45 Marks et les 13 Espers sont coches.
+[ ] Les 30 trophies du Hunt Club et la repartition choisie sont notes.
+[ ] Les 80 Rare Games et les 384 entrees du Bestiaire sont valides.
+[ ] Les Magicks de boutique, de clan et de coffre sont apprises.
+[ ] Les 24 Technicks sont apprises sur les jobs adequats.
+[ ] Les 8 Concurrences ont ete executees.
+[ ] Trial 50 et Trial 100 sont termines.
+[ ] 48 000 LP, 500 000 Clan Points, les ventes et les depenses sont atteints.
+
+SOURCES DE CONTROLE
+
+- Liste officielle des 41 succes Steam :
+  https://steamcommunity.com/stats/595520/achievements
+- Guide de route des quetes, chasses et Espers :
+  https://steamcommunity.com/sharedfiles/filedetails/?id=2211497332
+- Liste des 45 Marks et conditions de zone :
+  https://gamefaqs.gamespot.com/ps2/459841-final-fantasy-xii/faqs/45543
+- Magicks et Technicks de coffre :
+  https://gamefaqs.gamespot.com/ps4/191202-final-fantasy-xii/faqs/82302/magicks-and-technicks-checklist
+- Concurrences et recettes de Mist :
+  https://www.rpgsite.net/feature/5794-final-fantasy-xii-the-zodiac-age-quickenings-mist-charges-concurrences-explained
+- Cartes et zones a visiter :
+  https://www.ff12sector.com/ff12_maps.php
+
+FIN DE LA FICHE - BONNE ROUTE
