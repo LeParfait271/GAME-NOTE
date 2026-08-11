@@ -1,138 +1,942 @@
 RESIDENT EVIL 7 BIOHAZARD
 GUIDE CHRONOLOGIQUE 100 % STEAM - SANS SPOILER
 
-Version de travail : 10 aout 2026
+Version : 12 aout 2026
+Plateforme visee : Steam, AppID 418370
+Perimetre : jeu principal, Banned Footage, Daughters, 21, Jack's 55th
+Birthday, Not a Hero et End of Zoe. La version Steam compte exactement
+58 succes.
 
-Ce parcours couvre les 58 succes Steam de l'AppID 418370 : campagne,
-collectibles, Madhouse, Not a Hero, End of Zoe, Banned Footage, Bedroom,
-Nightmare, Blackjack, Ethan Must Die et Jack's 55th Birthday. C'est un jeu
-solo ; aucun succes en ligne n'est necessaire.
+PROMESSE DE LA FICHE
 
-OBJECTIF
+Resident Evil 7 ne se traite pas comme un jeu a selection de chapitres. Les
+fichiers, pieces antiques et cassettes peuvent etre definitivement rates dans
+une partie, et un redemarrage de checkpoint peut annuler un collectible non
+sauvegarde. Cette fiche donne donc un vrai parcours de completion : ordre des
+zones, portes a ne pas franchir trop vite, 32 fichiers, 18 pieces Easy/Normal,
+33 pieces Madhouse, 20 statuettes Mister Everywhere, quatre cassettes, armes,
+ameliorations, solutions d'enigmes, succes et DLC.
 
-[ ] 58/58 succes Steam.
-[ ] Campagne, 32 fichiers, 20 Mr. Everywhere et monnaies anciennes.
-[ ] Run Normal/Easy, Madhouse, temps, soins et coffres.
-[ ] Not a Hero, End of Zoe et Banned Footage.
-[ ] Ethan Must Die, Blackjack et Jack's 55th Birthday.
+REGLE SANS SPOILER
 
-GARDE-FOUS ABSOLUS
+Les zones, objets, noms de fichiers, ennemis, personnages deja affiches par
+le jeu et objectifs techniques servent uniquement de reperes. Aucun
+retournement, mort, identite, fin ou consequence de scenario n'est explique.
+Les deux fins sont appelees Fin 1 et Fin 2 ; le choix exact n'est pas revele.
+Les DLC sont classes dans l'ordre de jeu, avec uniquement les informations
+necessaires pour progresser et obtenir les succes.
 
-- Premier parcours en Normal avec les fichiers, Mr. Everywhere et pieces
-  anciennes. Conserve une sauvegarde avant chaque grande decision.
-- Les monnaies anciennes varient selon la difficulte. Fais la route de
-  collecte Normal puis utilise une liste Madhouse separee pour les pieces
-  propres a ce mode.
-- Les succes 4 heures, sans soin et sans coffre se font en runs dediees. Ne
-  melange pas les trois contraintes.
-- Les DLC sont des modes distincts. Joue-les apres la campagne, sauf si tu
-  veux seulement t'entrainer a un mini-jeu.
-- Aucun passage ne revele une mort, une identite, une fin, une trahison ou
-  un retournement.
+OBJECTIF 100 % STEAM
 
-MISSABLES A SECURISER
+- 58/58 succes Steam.
+- Jeu principal en Easy ou Normal avec les 32 fichiers, 18 pieces antiques,
+  20 Mister Everywhere et les quatre cassettes dans une partie suivie.
+- Jeu principal en Madhouse avec les 33 pieces antiques specifiques.
+- Les deux fins, la completion en moins de quatre heures, au plus trois
+  ouvertures de coffre d'objets et au plus trois remedes de premiers soins.
+- Banned Footage : Nightmare, Bedroom, Ethan Must Die et 21.
+- Daughters, Jack's 55th Birthday, Not a Hero et End of Zoe.
+- Les difficultes Professional de Not a Hero et Joe Must Die de End of Zoe.
 
-- Fichiers, Mr. Everywhere, monnaies, choix de campagne, videos, objets de
-  quete, records de temps et contraintes de run.
+LES DEUX REGLES QUI EVITENT UNE REPRISE INUTILE
 
-ORDRE DE PARTIE
+- Il n'existe pas de selection de chapitre dans le jeu principal. Fais une
+  sauvegarde manuelle avant chaque point de non-retour indique dans la fiche.
+- Sur une run collectibles, lis vraiment chaque fichier et examine les deux
+  faces des notes qui le demandent. Les statistiques suivent les fichiers,
+  Mister Everywhere et pieces ; les cassettes ne sont pas toujours visibles
+  dans le compteur global.
+- Si tu meurs ou charges un checkpoint avant une sauvegarde, refais les objets
+  pris depuis la derniere sauvegarde. Ne ferme pas la partie juste apres un
+  collectible sans verifier le menu de statistiques.
+- Les Mister Everywhere sont conserves entre les parties, mais le succes des
+  cassettes et celui des fichiers demandent une meme partie. Le parcours
+  recommande prend tout dans une seule run Easy/Normal.
+- Les collectibles Easy/Normal et Madhouse n'occupent pas les memes places.
+  Ne mélange pas les listes de pieces entre les deux runs.
 
-1. Campagne Easy/Normal avec collectibles.
-2. Madhouse et nettoyage de records.
-3. Not a Hero et End of Zoe.
-4. Banned Footage Vol. 1 et Vol. 2.
-5. Ethan Must Die, Blackjack et Jack's 55th Birthday.
+ORDRE DES RUNS RECOMMANDE
 
-CAMPAGNE - PREMIERE PARTIE
+1. Run principale Easy ou Normal : 74 collectibles, les succes d'action,
+   les deux fins via une sauvegarde avant le choix de serum, et les fichiers.
+2. Run speedrun separee : moins de quatre heures, avec les bonus deja
+   debloques si tu veux la securiser.
+3. Run Madhouse : les 33 pieces propres a cette difficulte et Survivant de
+   l'enfer. Utilise les lunettes X-Ray et la scie circulaire si elles sont
+   deja debloquees ; elles facilitent la recherche mais ne sont pas obligatoires.
+4. Run de nettoyage des contraintes : Gestionnaire et Les antiseptiques,
+   c'est pas automatique. Ne les combine pas avec Madhouse par defaut.
+5. Banned Footage Vol. 1 : Bedroom, Nightmare, Ethan Must Die.
+6. Banned Footage Vol. 2 : 21 puis Daughters.
+7. Jack's 55th Birthday.
+8. Not a Hero : Easy/Normal puis Professional.
+9. End of Zoe : Normal sans arme, puis Joe Must Die et ses defis extremes.
 
-- Fouille la maison, la cour et les annexes. Ramasse chaque fichier, piece,
-  cassette et Mr. Everywhere avant de quitter une zone.
-- Utilise la carte : une salle rouge doit etre vide avant d'avancer. Les
-  dossiers de fichier peuvent etre consultes depuis l'inventaire.
-- Apprends la fabrication, bloque les attaques, utilise le couteau et les
-  armes de poing. Garde la munition lourde pour les combats obligatoires.
-- Dans les zones de puzzle, examine chaque objet avant de le combiner. Une
-  sauvegarde avant la solution permet de reprendre un objet oublie.
+PREPARATION DE LA RUN EASY/NORMAL
 
-COUR ET VIEILLE MAISON
+- Choisis Normal si tu veux une partie utile pour les futurs bonus ; Easy si
+  tu veux prioriser la collecte sans combat difficile.
+- Ne depense pas les pieces au hasard. Les cages du trailer demandent trois
+  pieces pour Steroids, cinq pour Stabilizer et neuf pour le 44 MAG.
+- Prends le 44 MAG apres avoir collecte neuf pieces si tu joues une run de
+  nettoyage. Les pieces 17 et 18 du navire demandent un lockpick et un
+  corrosif : garde ces objets jusqu'au bon moment.
+- Garde au moins une sauvegarde manuelle avant le choix de serum. Elle sert a
+  obtenir les deux succes de fin sans refaire toute la partie.
+- Pour Gestionnaire, repere les trois ouvertures de coffre d'objets autorisees
+  avant de commencer : la run doit etre organisee autour des emplacements de
+  soins, munitions et armes, pas autour d'un inventaire confortable.
+- Le succes de fichiers demande une lecture active : examine les notes,
+  tourne les objets et utilise le bouton de lecture jusqu'a ce que le fichier
+  apparaisse dans la liste.
 
-- Complete la liste de fichiers et Mr. Everywhere dans les couloirs, salles
-  de service, cabanes et passages souterrains.
-- Les monnaies anciennes peuvent etre depensees pour un bonus, mais garde un
-  compteur de 18 coins de la partie Normal avant d'acheter les objets.
-- Fais les videos et les detours facultatifs. Un choix de cassette peut
-  modifier une courte sequence : conserve la sauvegarde de la cassette.
+MISSABLES ET POINTS DE NON-RETOUR
 
-ZONE PRINCIPALE ET DEPENDANCES
+- Les 32 fichiers, 18 pieces Easy/Normal et quatre cassettes sont manquables
+  dans une partie : sauvegarde avant la Guest House, l'Old House, le depart
+  vers le navire et le passage final de la mine.
+- Les actions de succes de la cassette Mia, Happy Birthday, les deux fins,
+  le compteur de soins et le compteur de coffre sont egalement manquables.
+- Les Mister Everywhere restent recuperables dans une autre partie, mais
+  conserve leur ordre dans cette fiche pour ne pas multiplier les runs.
 
-- Reviens dans toutes les pieces apres chaque cle ou objet special. Le jeu
-  ouvre des raccourcis et des placards qui etaient fermes.
-- Les 20 Mr. Everywhere se trouvent sur des etageres, cages, rebords et
-  pieces de transition. Tire-les et verifie le compteur dans le menu.
-- Ramasse les documents et photos, puis inspecte les coffres, tiroirs et
-  statues. Ne jette pas une cle avant le message d'item inutile.
+PROLOGUE ET GUEST HOUSE - PREMIERE EXPLORATION
 
-FIN DE CAMPAGNE ET CHOIX
+Parcours chronologique
 
-- Avant le choix narratif principal, sauvegarde dans un emplacement manuel.
-  Les deux options correspondent a des succes et a une route differente.
-- Termine la campagne, puis recharge l'autre option si necessaire. Ne
-  considere pas la partie complete tant que les deux notifications ne sont
-  pas apparues.
-- Garde la sauvegarde de fin pour debloquer Madhouse, les records et les
-  objets bonus.
+- Examine l'Email from Mia dans l'inventaire pour enregistrer le fichier 1.
+- Explore l'exterieur de la Guest House et entre par l'ouverture principale.
+  Prends la cassette Derelict House Footage dans la zone de sauvegarde.
+- Lance la cassette. Des que le controle est rendu, retourne-toi et prends le
+  lockpick au sol. Dans la cuisine, utilise-le sur le tiroir ferme a droite.
+  A la fin de la cassette, Ethan pourra ouvrir le meme tiroir et prendre la
+  piece antique Easy/Normal 1, ou Madhouse 1.
+- Dans la cassette, suis le groupe jusqu'a la trappe et laisse la sequence
+  de disparition du chemin se jouer ; tu n'as pas besoin d'explorer les
+  pieces mortes pour le succes de completion.
+- Dans le present, trouve le levier cache dans la cheminee, descends au
+  sous-sol et avance jusqu'a la cellule. Examine les deux faces de List of
+  Names pour enregistrer les fichiers 2 et 3.
+- Utilise le coupe-boulon sur la chaine, recupere la cle, libere Mia et
+  remonte vers la sortie. Les combats de la Guest House sont a economiser si
+  tu prepares une run de temps.
+- Apres le retour force dans la maison, utilise la hache ou le couteau selon
+  la situation, puis gagne l'espace necessaire pour le combat de Mia.
 
-MADHOUSE ET RECORDS
+Succes a prendre ici
 
-- Madhouse : suis une carte de ressources, economise les rubans, apprends
-  les apparitions d'ennemis et utilise les monnaies pour les améliorations.
-- Quatre heures : ignore les coffres et les combats secondaires, memorise les
-  puzzles et recharge la sauvegarde de debut de zone en cas d'erreur.
-- Sans soin : utilise les blocs, la garde et les soins automatiques de
-  scenario ; garde une sauvegarde separee.
-- Sans coffre : organise l'inventaire a l'avance, depose seulement aux points
-  autorises et ne range aucun objet dans un coffre pendant la run.
+- La Louisiane, ca vous gagne ! : atteindre la Louisiane est automatique.
+- Vrai detective : examine un objet de pres jusqu'a obtenir une information
+  supplementaire. L'Email ou un objet de la Guest House suffit.
+- A couteaux tires : acheve un ennemi au couteau lorsque le jeu te laisse
+  choisir l'attaque finale. Ne le tue pas avec une arme a feu.
+- Reine de l'infiltration : dans la cassette Mia, termine le parcours sans
+  etre repere par Marguerite. Reste accroupi, utilise les angles morts et
+  recharge la cassette si tu es vu.
+- La porte ! : referme une porte que tu viens d'ouvrir. Fais-le des la
+  premiere porte sure.
+- En garde ! : pare une attaque avec la garde. Place la garde juste avant
+  l'impact, pas apres l'animation.
 
-NOT A HERO ET END OF ZOE
+POINT DE NON-RETOUR GUEST HOUSE
 
-- Not a Hero : termine le parcours, ramasse les objets de mission et explore
-  les salles de detour. Fais la difficulte et les restrictions en seconde run.
-- End of Zoe : utilise le combat a mains nues, la fabrication et la survie.
-  Les grenouilles et objets de zone sont a compter avant la sortie.
-- Les deux episodes possedent des records et des difficultes propres. Valide
-  la notification a la fin de chaque episode.
+Avant d'inserer le fusible dans la boite de la Guest House, verifie le tiroir
+de la cuisine et les fichiers 1 a 3. Une piece ratee ici oblige a refaire une
+partie ; la selection de chapitre ne peut pas la recuperer.
 
-BANNED FOOTAGE
+MAIN HOUSE - PREMIERE VISITE
 
-- Bedroom : apprends le chemin de chambre, remets les objets a leur place et
-  repere les changements de salle avant de viser le score.
-- Nightmare : construis les armes et pieges avec les ressources du mode,
-  garde les points pour les ameliorations et termine les vagues.
-- Daughters : joue depuis le menu DLC et controle les objectifs de sequence.
-- 21 : gere les cartes, les mises et les pouvoirs ; les victoires et parties
-  parfaites se font apres une run d'apprentissage.
+Objectifs de route
 
-MODES DIFFICILES
+- Apres la scene de table, recupere le recu Home-improvement Store Receipt
+  sur le mur pres de la cuisine : fichier 4.
+- Dans la salle voisine avec l'horloge, lis Newspaper Article - Missing
+  People sur la table : fichier 5.
+- Dans le Main Hall, lis Newspaper Article - Over 20 Missing sur le bureau
+  oppose a la statue : fichier 6.
+- Monte dans la Recreation Room. Derriere le bar, lis Jack's Journal dans le
+  tiroir : fichier 7, puis Jack's Memo sous la tete de taureau : fichier 8.
+- Apres la zone aux filaments noirs, rejoins la salle de sauvegarde pres des
+  escaliers. Ouvre le tiroir sous le tourne-disque et examine les deux faces
+  de Travis' Memo : fichiers 9 et 10.
+- Explore le rez-de-chaussee avant de prendre la route vers le sous-sol. Le
+  tiroir du Main Hall contient la piece Easy/Normal 3 et Madhouse 4, selon la
+  difficulte.
+- Dans la petite zone de stockage au sud-est du couloir, detruis Mister
+  Everywhere 1. Dans la Laundry Room, cherche sous une table pour Mister
+  Everywhere 2.
+- Dans le Main Hall, detruis Mister Everywhere 3 sur la petite table
+  semi-circulaire pres des portes ouest.
+- Dans la Recreation Room, ecoute le cliquetis du panier en osier au nord-est
+  pour detruire Mister Everywhere 4.
 
-- Ethan Must Die : memorise les pieces, lis les coffres et accepte de
-  recommencer. Le chemin et les recompenses sont independants de la campagne.
-- Jack's 55th Birthday : nourris le personnage dans la limite de temps,
-  ameliore les armes et recupere les objectifs de classement.
-- Blackjack : respecte les regles du DLC, sauvegarde entre les manches et
-  vise les defis des adversaires speciaux.
+Solutions utiles
 
-CHECKLIST STEAM FINALE - 58/58
+- Le pendule de l'horloge du Main Hall se place dans l'horloge du salon pour
+  obtenir la tete de chien blanche.
+- La porte de la Recreation Room est liee a la cle Scorpion. La piece
+  Easy/Normal 4 est derriere la table du billard, pres de la porte verrouillee.
+- Dans la salle de bain du deuxieme etage, l'une des pieces Easy/Normal se
+  trouve dans les toilettes. En Madhouse, les pieces sont remplacees par les
+  numeros de la liste Madhouse plus bas.
+- La porte du chien du Main Hall s'ouvre apres avoir reuni les trois tetes.
+  Ne quitte pas le hall avant d'avoir fouille le petit meuble pres des portes
+  ouest pour Mister Everywhere 3.
 
-[ ] Campagne et deux choix.
-[ ] 32/32 fichiers, 20/20 Mr. Everywhere, monnaies et videos.
-[ ] Madhouse.
-[ ] 4 heures, sans soin et sans coffre.
-[ ] Not a Hero et End of Zoe.
-[ ] Banned Footage, Bedroom, Nightmare, Daughters et 21.
-[ ] Ethan Must Die, Blackjack et Jack's 55th Birthday.
-[ ] Verification finale du profil Steam : 58/58.
+PROCESSING AREA ET SOUS-SOL
+
+Parcours
+
+- Descends par l'escalier, passe la zone de traitement et entre dans la salle
+  d'incineration. Lis Incinerator Room Memo au-dessus du lavabo : fichier 11.
+- Solution de l'incinerateur : ouvre d'abord la porte portant l'empreinte,
+  puis la porte liee au nom Travis ; l'incinerateur de gauche s'ouvre alors.
+  Recupere la Dissection Room Key. Si une porte reste fermee, verifie que tu
+  as active le foyer avec l'empreinte avant de tenter la sequence.
+- Dans le passage arriere, Mister Everywhere 6 est au sol pres des seaux, a
+  l'ouest. Utilise le son de cliquetis pour confirmer sa presence.
+- Dans la salle de dissection, l'embleme rouge de la tete de chien est sur la
+  depouille du deputy. En Madhouse, prends aussi la piece 10 dans la boite
+  ouverte sur l'etagere opposee.
+- Reviens au Main Hall, ouvre la porte de la Recreation Room avec la Scorpion
+  Key et entre dans la chambre de Grandma. Memo About Relief sur la commode
+  et Doctor's Letter dans le tiroir : fichiers 12 et 13.
+- Dans la caravane, lis Zoe's Investigation Notes sur le panneau pres de la
+  table et de la television : fichier 14.
+- Dans la Back Passageway de la zone de traitement, detruis Mister Everywhere
+  6 a cote des seaux. La piece Easy/Normal 7 est derriere la palette de bois
+  de la Processing Room.
+
+Succes a preparer
+
+- As du crochetage : utilise un lockpick sur une serrure. Le premier lockpick
+  de la cassette peut servir.
+- Sixieme sens : fabrique ou prends un psychostimulant puis utilise-le.
+- Il y a encore des poches ! : ouvre une cage d'oiseau qui donne un sac ou
+  trouve une sacoche d'inventaire.
+- Bien essaye : place un objet sans rapport sur un projecteur d'ombres. Le
+  premier projecteur de la cour est ideal.
+
+OLD HOUSE - BURNER, OMBRES ET SERUM
+
+Avant de franchir la galerie
+
+- Dans la cour, Mister Everywhere 7 est sous les marches du trailer.
+- La piece Easy/Normal 8 est dans un pot a droite en sortant du Main House.
+  La piece 9 est sur la table du trailer, juste devant les cages.
+- Dans la vieille maison, prends les deux pieces du Burner, combine-les et
+  traite les nids d'insectes. Ne gaspille pas le carburant sur des nids que tu
+  peux contourner.
+- Dans l'Old House, Mister Everywhere 8 est sur l'etagere sud-ouest de l'Old
+  Shack et Mister Everywhere 9 est au pied de l'escalier de cave, a cote de
+  la palette.
+- Mister Everywhere 10 est dans le vide sanitaire sous la piece delabree,
+  sur le dessus d'un meuble metallique au fond.
+
+Fichiers et solutions
+
+- Apres le premier passage dans la vieille maison, lis Marguerite's Warning
+  pres de la porte Crow : fichier 15.
+- Apres le combat de Marguerite, ouvre la porte Crow et lis Serum
+  Documentation sur la boite de la premiere salle : fichier 16.
+- Dans la piece suivante, lis Marguerite's Notebook sur la table pres du
+  piano : fichier 17.
+- Pour le premier projecteur, place la figurine et fais pivoter jusqu'a ce que
+  l'ombre d'aigle se forme sur l'ecran. Le bon angle est celui qui relie les
+  deux ailes et la tete sans espace.
+- Pour le puzzle de la galerie, reproduis la silhouette de l'araignee avec
+  la figurine. Tourne-la lentement et utilise le contour lumineux comme
+  repere, plutot que de chercher un symbole imprime.
+- Dans la salle de l'autel, utilise la lanterne pour activer le mecanisme et
+  ouvre la route vers le passage et la serre.
+- Dans l'Altar, Mister Everywhere 11 est sur la commode face au puzzle de
+  balance. La piece Easy/Normal 10 est dans le chariot de la cave, et la 11
+  dans le lavabo des toilettes de l'outhouse ou se trouve la Crow Key.
+- Apres le retour a la caravane, examine le frigo pour Memo on Deputy's Head :
+  fichier 18.
+
+Succes a prendre ici
+
+- La maison des secrets : termine le parcours de l'Old House et active le
+  secret de la vieille maison.
+- Enfant rebelle : attaque Marguerite dans la vieille maison pour la faire
+  fuir ; recharge un checkpoint si la fenetre de tir est ratee.
+- Atterrissage force : tire sur Marguerite au moment ou elle te saute dessus
+  pour la repousser.
+- Desinsectisation manuelle : degage une porte couverte d'insectes avec le
+  couteau plutot qu'avec le Burner.
+
+POINT DE NON-RETOUR OLD HOUSE
+
+Avant de franchir la sortie definitive de la vieille maison, verifie les
+fichiers 15 a 18, les Mister Everywhere 8 a 11 et les pieces de ta difficulte.
+La piece Madhouse 15 est dans le meuble de la salle a lanterne ; ne la
+confonds pas avec la piece Easy/Normal 11 de l'outhouse.
+
+MAIN HOUSE - RETOUR, ENFANTS ET MASTER BEDROOM
+
+Parcours
+
+- Avec la Snake Key, ouvre la Kid's Room au deuxieme etage. Lis Lucas'
+  Journal sur la table a gauche : fichier 19, puis Torn Page from Journal sur
+  la commode au miroir fissure : fichier 20.
+- Resous le projecteur de la chambre pour liberer l'acces a l'attique. Dans
+  l'attique, Mister Everywhere 12 est sur le rebord de l'echelle. En Madhouse,
+  prends la piece 19 sur les etageres metalliques.
+- Dans la Master Bedroom, lis Clock Memo sur le globe : fichier 21. Le reglage
+  de l'horloge est 10 h 15.
+- Utilise les deux keycards pour entrer dans la zone de test. Avant la salle
+  de fete, fouille chaque couloir et neutralise les fils pieges a distance.
+- Dans la Supply Room ouverte par la Crow Key, prends la piece Madhouse 18.
+- Dans la Kid's Room, lance la cassette Happy Birthday avant d'entrer dans la
+  version presente de la salle.
+
+TESTING AREA ET CASSETTE HAPPY BIRTHDAY
+
+Collectibles
+
+- La cassette Happy Birthday se trouve dans l'attique de la Kid's Room.
+  Regarde-la avant la version present : elle montre le chemin le plus rapide
+  de l'enigme et sert au succes Du gateau !.
+- Dans le barn, Mister Everywhere 13 est sur un poteau sud de la grille
+  centrale ; il se voit mieux depuis la passerelle.
+- Mister Everywhere 14 est au-dessus de l'encadrement de la porte reliant la
+  Monitoring Room au couloir de sortie.
+- Dans le Testing Area, lis Memo on Burnt Corpse sur la depouille apres le
+  combat du barn : fichier 22.
+- Easy/Normal : piece 13 dans le tiroir du bureau vert de la salle ouest
+  apres les fils, et piece 14 sur les etageres du deuxieme etage apres le
+  combat du molded gonfle.
+
+Enigme de la fete
+
+- Prends la bougie, allume-la au fourneau et brule la corde de la porte.
+- Dans la salle des ballons, utilise le ballon qui fonctionne pour obtenir la
+  plume, puis place la poupee de paille dans le four afin d'obtenir le doigt.
+- Utilise le doigt sur le clown, recupere la plume et lis l'inscription sur
+  l'anneau obtenu : le code de la serrure est LOSER.
+- Ouvre la serrure avec LOSER, prends la poignee de valve, coupe l'eau,
+  rallume la bougie et place-la sur le gateau.
+- Pour Du gateau !, le temps est mesure pendant la cassette. Fais uniquement
+  les actions de la route ci-dessus et ne fouille pas les pieces annexes.
+
+PARTY ROOM ET BATEAU
+
+- Continue apres le passage de Lucas et rejoins le Boat House. Tu peux
+  utiliser le checkpoint pour farmer les eliminations a la bombe telecommandee.
+- Pour Boulettes de viande maison, fixe une bombe telecommandee sur un ennemi,
+  eloigne-toi puis detone-la. Une bombe posee au sol ne suffit pas.
+- Dans la zone de bateau, garde les munitions fortes pour les gros ennemis et
+  conserve les corrosifs pour le navire.
+- Apres la scene de serum, une sauvegarde manuelle avant le choix permet de
+  viser Fin 1 ou Fin 2. Ne supprime pas cette sauvegarde avant d'avoir vu la
+  notification correspondante.
+
+WRECKED SHIP - CAMPAGNE DE MIA
+
+Regle de parcours
+
+- Le navire se joue d'abord avec Mia. Chaque etage contient des portes
+  bloquees par fusible, corrosif ou carte ; ramasse le premier objet avant de
+  redescendre pour eviter les allers-retours.
+- Dans la salle des couchettes, prends Jim's Letter sur la couchette du fond
+  apres la scene dans l'escalier : fichier 23.
+- Giovanni's Will est dans la piece suivante, sur la table pres de la caisse :
+  fichier 24.
+- La cassette Old Videotape est dans la salle de sauvegarde du deuxieme etage.
+  Regarde-la dans la meme run que les trois autres pour Soyez sympa,
+  rembobinez.
+- Dans la cassette, suis les objectifs de maintenance et prends les indices
+  de passage ; elle est obligatoire pour le succes des cassettes, pas pour la
+  progression.
+- Au 3F, utilise le corrosif sur la porte du Control Room pour atteindre la
+  piece antique 17 Easy/Normal. Au S2, garde un corrosif pour la piece 18.
+
+Fichiers du navire
+
+- Orders : apres le debut de la cassette Old Videotape, tourne a gauche vers
+  le bureau : fichier 25.
+- Tattered Secret Document : apres la cassette, examine la caisse au sol dans
+  la zone de l'ascenseur : fichier 26.
+- Mechanic's Memo : prends la cle a molette sur le bureau du capitaine,
+  ouvre la trappe de l'ascenseur et lis le memo : fichier 27.
+- Mister Everywhere 15 est sous le filet de peche dans la hutte nord-est du
+  Boat House, juste avant la sequence du navire.
+- Mister Everywhere 16 est sur le rebord nord de la cage d'ascenseur au 3F.
+- Mister Everywhere 17 est sur le rebord pres de la rampe de l'escalier du
+  4F.
+- Easy/Normal : piece 15 dans le conduit du 1F, piece 16 dans l'eau a gauche
+  de l'echelle, piece 17 dans la boite rouge du 3F et piece 18 dans le
+  container S2 entre les moteurs.
+
+SWAMP, SALT MINE ET FIN DU JEU PRINCIPAL
+
+Parcours
+
+- Apres la fuite du navire, rejoins le bureau de la zone marecageuse. Mister
+  Everywhere 18 est sur le rebord de fenetre de la piece de l'echelle.
+- Dans le bureau, lis Email Log sur l'ordinateur : fichier 28.
+- Dans la piece suivante, lis Infection Report sur l'etagere : fichier 29.
+- Ouvre la mallette entouree de tubes et lis E-Necrotoxin Document : fichier
+  30.
+- Lis R&D Report 1 sur le bureau derriere la mallette : fichier 31, puis
+  R&D Report 2 sur le bureau en haut des petites marches : fichier 32.
+- Mister Everywhere 19 est pres des tonneaux dans la caverne nord de la mine.
+  Mister Everywhere 20 est dans la remise de la Guest House, sur les
+  etageres centrales, mais il apparait seulement au retour apres la mine.
+- Avance dans la mine avec la carte et les filtres necessaires. Garde les
+  soins pour les couloirs de molded et le dernier combat.
+- Apres le passage dans le marais, reprends la route finale sans jeter les
+  objets de soin. La completion du jeu en Easy/Normal ou Madhouse valide les
+  succes de difficulte correspondants.
+
+FINALISER LES COLLECTIBLES EASY/NORMAL
+
+- 32 fichiers : le compteur doit etre complet ; les notes recto-verso ont ete
+  comptees comme deux fichiers dans la liste.
+- 20 Mister Everywhere : detruis chaque statuette au couteau ou a l'arme,
+  puis confirme le compteur.
+- 18 pieces antiques : depense les neuf premieres selon ton objectif, mais
+  prends aussi les neuf dernieres du navire pour le succes.
+- Quatre cassettes : Derelict House Footage, Mia, Happy Birthday et Old
+  Videotape doivent toutes avoir ete regardees dans une seule partie.
+
+32 FICHIERS - LISTE CHRONOLOGIQUE
+
+1. Email from Mia : examine l'email dans l'inventaire au debut.
+2. List of Names (recto) : table devant la cellule de la Guest House.
+3. List of Names (verso) : retourne le meme objet et lis l'autre face.
+4. Home-improvement Store Receipt : mur pres de la cuisine apres la table.
+5. Newspaper Article - Missing People : table pres de l'horloge.
+6. Newspaper Article - Over 20 Missing : bureau oppose dans le Main Hall.
+7. Jack's Journal : tiroir derriere le bar de la Recreation Room.
+8. Jack's Memo : table sous la tete de taureau.
+9. Travis' Memo (recto) : tiroir sous le tourne-disque de la salle de save.
+10. Travis' Memo (verso) : meme tiroir, seconde face.
+11. Incinerator Room Memo : note au-dessus du lavabo.
+12. Memo About Relief : commode de la chambre de Grandma.
+13. Doctor's Letter : tiroir de la petite table dans la meme chambre.
+14. Zoe's Investigation Notes : panneau de la caravane.
+15. Marguerite's Warning : mur pres de la porte Crow de l'Old House.
+16. Serum Documentation : boite dans la premiere salle apres la porte Crow.
+17. Marguerite's Notebook : table de la piece avec piano.
+18. Memo on Deputy's Head : frigo de la caravane au retour.
+19. Lucas' Journal : table de la Kid's Room.
+20. Torn Page from Journal : commode au miroir fissure.
+21. Clock Memo : globe de la Master Bedroom.
+22. Memo on Burnt Corpse : torse de la depouille dans le Testing Area.
+23. Jim's Letter : couchette du fond sur le Wrecked Ship.
+24. Giovanni's Will : table de la piece suivante.
+25. Orders : bureau a gauche au debut de la cassette Old Videotape.
+26. Tattered Secret Document : caisse dans la zone de l'ascenseur apres la VHS.
+27. Mechanic's Memo : interieur de l'ascenseur apres la trappe a la cle a molette.
+28. Email Log : ordinateur du bureau du marais.
+29. Infection Report : etagere de la piece suivante.
+30. E-Necrotoxin Document : mallette entouree de tubes.
+31. R&D Report 1 : bureau derriere la mallette, lire jusqu'a l'ajout.
+32. R&D Report 2 : bureau en haut des petites marches, lire jusqu'a l'ajout.
+
+18 PIECES ANTIQUES EASY / NORMAL
+
+1. Guest House 1F, cuisine : dans la cassette Derelict House Footage,
+   ramasse le lockpick puis ouvre le tiroir ; Ethan le recuperera dans le
+   present.
+2. Main House 1F, vide sanitaire sous la trappe : sur la tondeuse rouge.
+3. Main House 1F, Main Hall : tiroir superieur du coin nord-est, a cote du
+   sofa et de la porte pour chien.
+4. Main House 2F, Recreation Room : apres le billard, pres de la porte
+   verrouillee.
+5. Main House 2F, Bathroom : dans les toilettes.
+6. Main House 1F, Briefing Room : dans le cendrier de la salle au tableau
+   blanc.
+7. Main House B1, Processing Room : derriere la palette de bois contre le
+   mur.
+8. Yard : dans le pot de plantes a droite en sortant du Main House.
+9. Yard, Trailer : sur la table devant la cage du 44 MAG.
+10. Old House 1F, Cellar : sur le chariot roulant au-dela de la cave.
+11. Old House 1F, Outhouse : sur le lavabo des toilettes de l'outhouse
+    nord-est, pres de la Crow Key.
+12. Old House 2F, Altar : dans le tiroir superieur de la commode.
+13. Testing Area 1F : tiroir du bureau vert dans la salle ouest, apres avoir
+    neutralise les fils pieges.
+14. Testing Area 2F : etageres apres le combat du molded gonfle, avant de
+    redescendre.
+15. Wrecked Ship 1F, Vent : apres la scene des ouvriers, premier couloir a
+    droite du conduit sans issue.
+16. Wrecked Ship 1F, bassin : dans l'eau sale a gauche de l'echelle.
+17. Wrecked Ship 3F, Control Room : boite a outils rouge ouverte au lockpick.
+18. Wrecked Ship S2 : container entre les salles de moteur, ouvert au corrosif.
+
+33 PIECES ANTIQUES MADHOUSE
+
+Les pieces Madhouse remplacent les emplacements Easy/Normal. Cette liste est
+independante : ne coche pas une piece Easy/Normal a la place d'une piece
+Madhouse. Utilise les lunettes X-Ray si elles sont disponibles, mais conserve
+les points de non-retour.
+
+1. Guest House : meme procedure que la piece de cuisine Easy/Normal, via la
+   lockpick de la cassette Derelict House Footage.
+2. Main House 1F, Living Room : dans le vase sur le meuble TV vide.
+3. Main House 1F, Garage : apres le combat du garage, monte l'echelle et
+   regarde a gauche, sur le pneu.
+4. Main House 1F, Main Hall : tiroir pres de l'armoire en entrant par la porte
+   Ox.
+5. Main House 2F, Recreation Room : vase a gauche de la porte Scorpion.
+6. Main House 2F, couloir : derriere le cadre de tableau tombe pres de
+   l'escalier detruit.
+7. Main House 1F, Drawing Room : toilettes.
+8. Processing Area, Incinerator Room : sous le brancard, dans le plat jaune.
+9. Processing Area : chariot metallique dans le passage entre la salle de la
+   Scorpion Key et la porte Snake.
+10. Processing Area, Dissection Room : boite ouverte sur l'etagere opposee
+    a la depouille du deputy.
+11. Yard : entre les deux marches du porche, retire la plaque metallique et
+    entre dans le vide sanitaire.
+12. Old House 1F : sol de la terrasse, a gauche en sortant de la Dining Room.
+13. Old House 1F, Gallery : sous les boites a droite en entrant, au niveau de
+    l'echelle vide sous la table.
+14. Old House 1F : planches cassees a gauche en sortant du passage ouvert par
+    le puzzle du projecteur.
+15. Old House 2F : meuble de la piece avec la porte a lanterne, apres l'Altar.
+16. Old House Exterior : sur la boite fixee a un poteau metallique apres la
+    remontee du trou vers la serre.
+17. Greenhouse : etabli vert pres de la sortie apres le combat.
+18. Main House 1F, Supply Room : porte Crow dans la Drawing Room ; au sol ou
+    dans la zone de l'ancien lance-grenades.
+19. Main House Attic : etageres metalliques a droite en haut de l'echelle.
+20. Testing Area, premiere salle TV : table derriere l'ecran.
+21. Testing Area : angle sombre a gauche apres la premiere caisse au centre
+    du couloir.
+22. Testing Area : couloir avant la porte Party Room, en bas des escaliers,
+    dans l'angle sombre.
+23. Testing Area 1F : tiroir de l'etabli vert dans la piece piegee du couloir
+    avec molded a quatre pattes.
+24. Testing Area : etagere de la piece avec le cadavre brule et le code.
+25. Wrecked Ship 1F, Laundry Room : derniere machine a laver contre le mur.
+26. Wrecked Ship 4F : bas de l'escalier bloque, pres de la porte de sortie.
+27. Wrecked Ship 2F : petite table semi-circulaire devant la salle de
+    sauvegarde.
+28. Wrecked Ship 2F, Dining Room : vase sur le niveau bas de l'etagere
+    metallique de la petite piece annexe.
+29. Wrecked Ship 3F : couloir derriere la porte corrosive, sur la rambarde au
+    fond, sans entrer dans la porte de gauche.
+30. Wrecked Ship S2 : sol du coin a droite dans le couloir avant la salle de
+    moteur.
+31. Wrecked Ship S2 : coffre mural ferme au corrosif apres la premiere salle
+    de moteur.
+32. Wrecked Ship S2, fuite d'Ethan : bureau a droite dans la piece a grillage
+    avant de ramper vers la sortie.
+33. Swamp : longe la berge droite apres le tronc abattu, avant la derniere
+    maison et l'acces de la mine.
+
+20 MISTER EVERYWHERE
+
+Ces statuettes se reconnaissent au petit cliquetis. Elles persistent entre
+les sauvegardes et parties, mais les detruire dans l'ordre ci-dessous evite un
+retour inutile.
+
+1. Main House 1F, Main Corridor : etageres du petit stockage au sud-est.
+2. Main House 1F, Laundry Room : sous une des tables.
+3. Main House 1F, Main Hall : petite table semi-circulaire pres des portes
+   doubles a l'ouest.
+4. Main House 2F, Recreation Room : panier en osier sur les meubles empiles,
+   coin nord-est.
+5. Main House 1F, Drawing Room : interstice de l'encadrement de porte au
+   nord-est.
+6. Processing Area, Back Passageway : sol pres des seaux a l'ouest.
+7. Yard, Courtyard : sous les marches du trailer.
+8. Old House 1F, Old Shack : etageres du coin sud-ouest.
+9. Old House 1F, Cellar Stairs : palette en bois au pied des escaliers.
+10. Old House 1F, Dilapidated Room : vide sanitaire, sur le meuble metallique
+    au fond.
+11. Old House 2F, Altar : commode au centre de la partie est, face au puzzle.
+12. Main House Attic : rebord de l'entree de l'echelle.
+13. Testing Area 1F, Barn : poteau sud de la grille centrale.
+14. Testing Area 1F, Exit Hallway : au-dessus de l'encadrement venant de la
+    Monitoring Room.
+15. Boat House 1F, Walkway : sous le filet de peche dans la hutte nord-est.
+16. Wrecked Ship 3F, Shaft : rebord nord de la cage d'ascenseur.
+17. Wrecked Ship 4F, Side Stairs : rebord pres de la rampe.
+18. Swamp, Mine Office : rebord de fenetre de la piece d'entree.
+19. Salt Mine B3, North Cavern : pres des tonneaux du niveau superieur, cote
+    sud ; regarde depuis le niveau bas.
+20. Guest House B1, Storeroom : etageres centrales au retour apres la mine.
+
+ARMES, AMELIORATIONS ET BONUS
+
+- Le fusil M37 est accessible par le puzzle de la statue et le remplacement
+  de l'arme tenue par le mannequin. Le M21 se recupere en reparant le fusil
+  casse avec le kit de reparation.
+- Le lance-grenades se trouve dans la Supply Room de la porte Crow.
+- Le 44 MAG demande neuf pieces en Easy/Normal. En Madhouse, l'economie des
+  pieces est differente et plusieurs cages apparaissent.
+- Les sacoches augmentent l'inventaire : une dans la zone de sauvegarde de la
+  caravane, une dans la vieille maison et une sur le navire selon la partie.
+- Les tresors des photos sont optionnels pour les 58 succes, mais ouvre-les
+  quand la photo indique une cheminee, une cage ou une cachette. Ils donnent
+  des soins, des steroids ou des munitions et facilitent Madhouse.
+- Apres une completion, les bonus de casquette, lunettes X-Ray, scie
+  circulaire et munitions infinies rendent les runs de nettoyage plus sures.
+
+SUCCES PRINCIPAUX - ACTIONS ET CONTRAINTES
+
+Tir groupe
+
+- Tuer deux ennemis ou plus avec un seul tir. Une meute de petits ennemis
+  alignee dans un couloir est ideale ; le shotgun est plus fiable qu'un pistolet.
+
+Soyez sympa, rembobinez
+
+- Regarde les quatre cassettes au cours de la meme partie. Ne te contente pas
+  de les ramasser : lance chaque VHS et termine ou quitte apres validation.
+
+La fin de la nuit / Plus qu'un souvenir
+
+- Fais deux sauvegardes manuelles avant le choix de serum. Termine une fois
+  avec la premiere option, recharge la copie, puis termine avec l'autre. Ne
+  supprime pas la sauvegarde tant que les deux notifications ne sont pas
+  affichees.
+
+Le petit chimiste
+
+- Fabrique tous les objets utilisant Fluide chimique et Fluide chimique fort.
+  Les combinaisons a couvrir sont : Fluide + herbe, Fluide fort + herbe,
+  Fluide + poudre a canon, Fluide fort + poudre a canon, Fluide + solide,
+  Fluide fort + solide, et les munitions ou projectiles disponibles selon la
+  table de craft. Le succes valide la derniere recette apprise.
+
+On n'a pas le temps
+
+- Termine le jeu en moins de quatre heures. Ne fouille que les objets de route,
+  utilise les raccourcis et les bonus de partie precedente. Pause et menus ne
+  font pas progresser le chronometre, mais les ecrans de chargement peuvent
+  varier : vise une marge d'au moins vingt minutes.
+
+Les antiseptiques, c'est pas automatique
+
+- Termine le jeu avec trois remedes de premiers soins ou moins. Les steroids
+  augmentent la vie et ne sont pas des remedes ; les herbes combinees comptent
+  comme soin lorsqu'elles sont utilisees. Fais une sauvegarde dediee.
+
+Gestionnaire
+
+- Termine le jeu sans ouvrir le coffre d'objets plus de trois fois. Le coffre
+  est le Item Box, pas l'inventaire. Prepare une route avec les trois ouvertures
+  autorisees, depose tout le materiel necessaire a l'avance et ne recharge pas
+  une vieille sauvegarde par inadvertance.
+
+Survivant de l'enfer
+
+- Termine le jeu en Madhouse. La difficulte se debloque apres une completion
+  et modifie objets, sauvegardes, ennemis et pieces. Utilise les sauvegardes
+  manuelles, les pieces de la liste Madhouse et les bonus debloques.
+
+DIFFICULTE MADHOUSE - CONSEILS DE ROUTE
+
+- La sauvegarde consomme des cassettes. Garde-les pour les points de risque
+  et ne sauvegarde pas apres chaque petite porte.
+- Les Jack et Molded peuvent patrouiller. Apprends les routes et evite les
+  combats inutiles avec la garde et les raccourcis.
+- Les cages a pieces changent : priorise Steroids, Stabilizer, 44 MAG et
+  les objets de defense selon ton style. Les 33 pieces ne permettent pas
+  d'acheter absolument tout.
+- Pour la recherche, le plus sur est de jouer avec la liste des 33 pieces
+  dans le meme ordre que la run. Si tu meurs avant une sauvegarde, reprends
+  toutes les pieces depuis la derniere validation.
+
+BANNED FOOTAGE VOL. 1 - ORDRE CHRONOLOGIQUE
+
+Bedroom
+
+- Apprends d'abord la disposition de la chambre et les cachettes. Ouvre les
+  passages avec les objets de la piece, repose les meubles apres les rondes
+  et controle les traces d'ennemi avant de sortir.
+- Pour La bonne cuisine de maman, resous Bedroom et sors de la chambre.
+- Pour Ratatouille, trouve tous les rongeurs de la meme partie. Ils sont
+  caches dans les pieces et comptent lorsque tu les examines, pas uniquement
+  lorsque tu les vois.
+
+Nightmare
+
+- Survis aux vagues jusqu'au matin, utilise les broyeurs et les stations de
+  fabrication, et depense les points entre les manches dans l'ordre : arme,
+  munitions, puis defense.
+- Les demons de minuit demande Nightmare termine.
+- Insomnie a Dulvey demande le scenario Terreur nocturne termine. Apprends
+  les emplacements de ressources et garde les pieges pour les vagues fortes.
+
+Ethan Must Die
+
+- Le contenu est semi-aleatoire : les caisses, objets et pieges changent.
+  Explore une piece a la fois, marque les coffres dangereux et utilise les
+  pieges contre les ennemis plutot que de gaspiller les munitions.
+- Ethan la lumiere demande d'atteindre la fin. Les bonus de Madhouse et la
+  scie circulaire ne remplacent pas l'apprentissage des pieges.
+
+BANNED FOOTAGE VOL. 2 - 21
+
+- 21 est un jeu de cartes a valeur : observe les cartes adverses, garde les
+  cartes Trump fortes pour le bon tour et ne depense pas tout ton avantage
+  avant la derniere manche.
+- La banque gagne toujours : termine 21.
+- Les jeux sont faits... : termine le mode Defi.
+- Rien ne va plus ! : termine le mode Defi+.
+- La progression de 21 se fait en gagnant les defis et en debloquant les
+  cartes ; lis chaque effet avant de le jouer, car une carte bonus peut
+  modifier la manche adverse.
+
+DAUGHTERS
+
+- Joue Daughters apres la campagne principale pour garder l'ordre et eviter
+  les allusions involontaires. Suis les objectifs de la maison, recupere les
+  objets de route et utilise les raccourcis lorsque l'episode demande de
+  revenir dans une piece deja visitee.
+- Effet papillon demande la fin alternative. Cree une sauvegarde avant le
+  choix de comportement demande par le jeu, puis rejoue pour la vraie fin.
+- L'instinct de survie demande la vraie fin. Les deux succes se font sur deux
+  petits parcours, pas dans une seule issue.
+
+JACK'S 55TH BIRTHDAY
+
+- Le but est de nourrir Jack tout en gardant du temps. Fouille, tue les
+  ennemis avec l'arme adaptee, puis ramene les plats sans remplir ton
+  inventaire de consommables inutiles.
+- Chronokinesie : termine un niveau avec au moins dix minutes de bonus de
+  temps. Les objets de temps et les ennemis qui les portent sont prioritaires.
+- Jack a dit : fais gouter tous les plats et toutes les boissons. Utilise une
+  feuille de suivi par niveau et ne quitte pas apres une consommation sans
+  attendre la notification.
+- Un anniversaire tres Special : obtiens un rang S ou superieur sur tous les
+  niveaux. Commence par debloquer les bonus de temps des premiers niveaux,
+  puis optimise les routes et les kills des niveaux suivants.
+- Les niveaux sont rejouables : un rang manque n'oblige pas a refaire ceux
+  deja valides.
+
+NOT A HERO
+
+- Lance Not a Hero apres le jeu principal. Le scenario est court mais les
+  filtres, munitions et routes changent entre Easy/Normal et Professional.
+- Mission accomplie : termine le chapitre en Facile ou Normal.
+- Le professionnel : termine le chapitre en Professional.
+- Suis les couloirs, recupere les filtres et les armes, puis neutralise les
+  ennemis blindes avec la munition ou le tir indique par le jeu. Ne traverse
+  pas une zone toxique sans filtre en reserve.
+- La route Professional est plus sure apres avoir termine une fois le DLC :
+  connais les codes, les caches et les emplacements de respiration avant de
+  tenter le succes.
+
+END OF ZOE
+
+Route normale
+
+- Termine l'episode en Easy ou Normal pour Promesse tenue, puis repere les
+  zones de marais, les caches de ressources et les chemins a crocodiles.
+- Joe se bat principalement a mains nues. La garde parfaite, l'esquive et le
+  coup charge valent mieux qu'une course a travers chaque groupe.
+- Pour Les poings sur les i, execute une chaine de quatre coups au corps a
+  corps sans interrompre l'enchainement.
+- Pour Surprise !, approche cinq ennemis par derriere et fais cinq executions
+  furtives. Le terrain bas et les herbes permettent de les separer.
+- Pour Mano a mano, termine End of Zoe en Normal ou Joe Must Die sans utiliser
+  d'arme. Les poings, executions, objets de soin et esquives sont autorises ;
+  ne ramasse pas ou n'equipe pas de lance, couteau ou arme.
+
+Joe Must Die
+
+- Debloque la difficulte apres une completion. Les ressources sont plus rares,
+  les ennemis plus agressifs et les sauvegardes plus precieuses.
+- Survivant des marais : termine Joe Must Die. Garde les consommables pour
+  les arenes fermees et apprends les mouvements du boss du marais.
+- Extreme limite : termine un defi Extreme. Les defis extremes apparaissent
+  apres une completion et demandent de refaire les zones avec des contraintes.
+- Utilise la lance uniquement sur les runs qui ne visent pas Mano a mano ; le
+  succes sans arme est plus sur sur Normal.
+
+LISTE COMPLETE DES 58 SUCCES STEAM
+
+Cette section reprend le nom officiel Steam francais et la condition pratique.
+Les succes de campagne se valident en terminant la zone demandee ; les
+collectibles et contraintes ont leur methode detaillee plus haut.
+
+1. La Louisiane, ca vous gagne ! — se rendre en Louisiane.
+2. Vrai detective — obtenir quelque chose en examinant un objet de pres.
+3. Notre belle famille — sortir de l'annexe.
+4. La porte ! — refermer une porte ouverte.
+5. En garde ! — parer une attaque avec la garde.
+6. As du crochetage — crocheter une serrure.
+7. Il est partout ! — detruire une statuette Mister Everywhere.
+8. A couteaux tires — achever un ennemi au couteau.
+9. Reine de l'infiltration — terminer la cassette Mia sans etre repere par
+   Marguerite.
+10. Cours Ethan, cours — sortir dans le jardin.
+11. Sixieme sens — utiliser des psychostimulants.
+12. Il y a encore des poches ! — agrandir l'inventaire.
+13. Bien essaye — mettre un objet sans rapport sur un piedestal a ombres.
+14. La maison des secrets — decouvrir le secret de la vieille maison.
+15. Pas de regrets, que des remords — quitter la residence des Baker.
+16. Il est Ethan petit navire — s'echapper du navire.
+17. Promenade a Dulvey — terminer le jeu en mode facile.
+18. Tir groupe — tuer deux ennemis ou plus avec un seul tir.
+19. Soyez sympa, rembobinez — regarder toutes les cassettes dans une partie.
+20. La fin de la nuit — acceder a la premiere fin.
+21. Terreur dans le bayou — terminer le jeu en mode normal.
+22. Mission accomplie — Not a Hero termine en Facile ou Normal.
+23. Enfant rebelle — attaquer Marguerite dans la vieille maison pour la faire
+    fuir.
+24. Atterrissage force — tirer sur Marguerite pour la repousser lorsqu'elle
+    saute dessus.
+25. Desinsectisation manuelle — degager une porte couverte d'insectes avec un
+    couteau.
+26. Plus qu'un souvenir — acceder a la deuxieme fin.
+27. Les poings sur les i — End of Zoe : executer un enchainement de quatre
+    coups a mains nues.
+28. Promesse tenue — End of Zoe : terminer l'episode en Facile ou Normal.
+29. Surprise ! — End of Zoe : effectuer cinq executions furtives.
+30. A un cheveu pres — se baisser pour eviter les ciseaux de Jack.
+31. La banque gagne toujours — 21 : terminer le mode principal.
+32. La bonne cuisine de maman — Bedroom : sortir de la chambre.
+33. Effet papillon — Daughters : acceder a la fin alternative.
+34. Le petit chimiste — creer tous les objets a base de fluide chimique et de
+    fluide chimique fort.
+35. On n'a pas le temps — terminer le jeu en moins de quatre heures.
+36. L'instinct de survie — Daughters : acceder a la vraie fin.
+37. Survivant de l'enfer — terminer le jeu en mode Madhouse.
+38. Boulettes de viande maison — tuer un ennemi avec une bombe telecommandee
+    attachee puis detonee.
+39. Il est nulle part ! — detruire toutes les statuettes Mister Everywhere.
+40. Les antiseptiques, c'est pas automatique — terminer le jeu avec au plus
+    trois remedes de premiers soins.
+41. Les demons de minuit — Nightmare : terminer Nightmare.
+42. Les jeux sont faits... — 21 : terminer le mode Defi.
+43. Petit curieux — lire tous les fichiers dans une partie.
+44. Du gateau ! — terminer la cassette Happy Birthday en moins de cinq
+    minutes.
+45. Ratatouille — Bedroom : trouver tous les rongeurs dans une partie.
+46. Chasse aux pelicans — obtenir toutes les pieces antiques en Facile ou
+    Normal.
+47. Extreme limite — End of Zoe : terminer un defi Extreme.
+48. Numismate — obtenir toutes les pieces antiques en Madhouse.
+49. Gestionnaire — terminer le jeu sans ouvrir le coffre plus de trois fois.
+50. Rien ne va plus ! — 21 : terminer le mode Defi+.
+51. Insomnie a Dulvey — Nightmare : terminer Terreur nocturne.
+52. Ethan la lumiere — Ethan Must Die : survivre jusqu'au bout.
+53. Le professionnel — Not a Hero : terminer le chapitre en Professional.
+54. Un anniversaire tres Special — Jack's 55th Birthday : rang S ou superieur
+    sur tous les niveaux.
+55. Survivant des marais — End of Zoe : terminer en Joe Must Die.
+56. Jack a dit — Jack's 55th Birthday : faire gouter tous les plats et toutes
+    les boissons a Jack.
+57. Chronokinesie — Jack's 55th Birthday : finir un niveau avec au moins dix
+    minutes de bonus de temps.
+58. Mano a mano — End of Zoe : terminer en Normal ou Joe Must Die sans utiliser
+    d'arme.
+
+ORDRE DE NETTOYAGE FINAL
+
+1. Termine la run Easy/Normal avec les 32 fichiers, 18 pieces, 20 Mister
+   Everywhere et quatre cassettes.
+2. Avant le serum, cree deux sauvegardes et valide les deux fins.
+3. Rejoue la campagne en moins de quatre heures avec la route de puzzle,
+   puis fais une run separee pour les soins et le coffre si necessaire.
+4. Termine Madhouse et prends les 33 pieces de sa liste.
+5. Termine Bedroom, Nightmare et Ethan Must Die.
+6. Termine 21, ses defis et Daughters.
+7. Fais tous les rangs S de Jack's 55th Birthday et toutes les consommations.
+8. Termine Not a Hero en Facile/Normal puis Professional.
+9. Termine End of Zoe en Normal sans arme, puis Joe Must Die et un defi
+   Extreme.
+10. Ouvre Steam et verifie que les 58 succes sont apparus ; les succes DLC
+    peuvent attendre quelques secondes apres l'ecran de resultat.
+
+CHECKLIST FINALE - 58 SUCCES STEAM
+
+[ ] La Louisiane, ca vous gagne ! — Louisiane atteinte.
+[ ] Vrai detective — objet examine de pres.
+[ ] Notre belle famille — annexe quittee.
+[ ] La porte ! — porte refermee.
+[ ] En garde ! — attaque paree.
+[ ] As du crochetage — serrure crochetee.
+[ ] Il est partout ! — une statuette Mister Everywhere detruite.
+[ ] A couteaux tires — ennemi acheve au couteau.
+[ ] Reine de l'infiltration — cassette Mia sans detection.
+[ ] Cours Ethan, cours — jardin atteint.
+[ ] Sixieme sens — psychostimulants utilises.
+[ ] Il y a encore des poches ! — inventaire agrandi.
+[ ] Bien essaye — objet sans rapport place sur un projecteur.
+[ ] La maison des secrets — secret de la vieille maison trouve.
+[ ] Pas de regrets, que des remords — residence quittee.
+[ ] Il est Ethan petit navire — navire echappe.
+[ ] Promenade a Dulvey — jeu termine en Facile.
+[ ] Tir groupe — deux ennemis avec un tir.
+[ ] Soyez sympa, rembobinez — quatre cassettes vues dans la meme partie.
+[ ] La fin de la nuit — premiere fin.
+[ ] Terreur dans le bayou — jeu termine en Normal.
+[ ] Mission accomplie — Not a Hero en Facile ou Normal.
+[ ] Enfant rebelle — Marguerite repoussee dans la vieille maison.
+[ ] Atterrissage force — Marguerite repoussee pendant son saut.
+[ ] Desinsectisation manuelle — porte d'insectes au couteau.
+[ ] Plus qu'un souvenir — deuxieme fin.
+[ ] Les poings sur les i — chaine de quatre coups a mains nues.
+[ ] Promesse tenue — End of Zoe en Facile ou Normal.
+[ ] Surprise ! — cinq executions furtives dans End of Zoe.
+[ ] A un cheveu pres — ciseaux de Jack evites.
+[ ] La banque gagne toujours — 21 termine.
+[ ] La bonne cuisine de maman — Bedroom termine.
+[ ] Effet papillon — fin alternative de Daughters.
+[ ] Le petit chimiste — recettes de fluide terminees.
+[ ] On n'a pas le temps — jeu termine en moins de quatre heures.
+[ ] L'instinct de survie — vraie fin de Daughters.
+[ ] Survivant de l'enfer — jeu termine en Madhouse.
+[ ] Boulettes de viande maison — bombe telecommandee fixee puis detonee.
+[ ] Il est nulle part ! — 20 Mister Everywhere detruits.
+[ ] Les antiseptiques, c'est pas automatique — trois soins ou moins.
+[ ] Les demons de minuit — Nightmare termine.
+[ ] Les jeux sont faits... — Defi de 21 termine.
+[ ] Petit curieux — 32 fichiers lus dans une partie.
+[ ] Du gateau ! — cassette Happy Birthday en moins de cinq minutes.
+[ ] Ratatouille — rongeurs de Bedroom trouves.
+[ ] Chasse aux pelicans — 18 pieces Easy/Normal.
+[ ] Extreme limite — defi Extreme de End of Zoe.
+[ ] Numismate — 33 pieces Madhouse.
+[ ] Gestionnaire — coffre ouvert trois fois ou moins.
+[ ] Rien ne va plus ! — Defi+ de 21 termine.
+[ ] Insomnie a Dulvey — Terreur nocturne terminee.
+[ ] Ethan la lumiere — Ethan Must Die termine.
+[ ] Le professionnel — Not a Hero en Professional.
+[ ] Un anniversaire tres Special — tous les niveaux de Jack en rang S.
+[ ] Survivant des marais — End of Zoe en Joe Must Die.
+[ ] Jack a dit — tous les plats et boissons goutes.
+[ ] Chronokinesie — niveau avec dix minutes de bonus.
+[ ] Mano a mano — End of Zoe sans arme.
+
+VERIFICATION FINALE
+
+- Steam doit afficher 58/58 succes Resident Evil 7 Biohazard.
+- Statistiques Easy/Normal : 32 fichiers, 18 pieces, 20 Mister Everywhere.
+- Statistiques Madhouse : 33 pieces.
+- Quatre cassettes validees dans une meme partie pour Soyez sympa,
+  rembobinez.
+- Les deux fins et les contraintes de temps, soins et coffre doivent avoir
+  leur notification Steam, pas seulement une progression de menu.
+- Banned Footage, Daughters, 21, Jack's 55th Birthday, Not a Hero et End of
+  Zoe doivent tous afficher leurs succes dans la liste Steam.
+
+SOURCES DE CONTROLE
+
+- Liste Steam officielle : https://steamcommunity.com/stats/418370/achievements/?l=french
+- Collectibles principaux : https://www.powerpyx.com/resident-evil-7-all-collectible-locations-guide-antique-coins-files-mr-everywheres-videotapes/
+- Fichiers et emplacements : https://www.gamesradar.com/resident-evil-7-files-locations-collectibles/
+- Pieces Easy/Normal : https://www.pushsquare.com/news/2017/01/guide_where_to_find_all_18_antique_coins_in_resident_evil_7
+- Pieces Madhouse : https://www.powerpyx.com/resident-evil-7-madhouse-antique-coin-locations/
+- Statuettes Mister Everywhere : https://www.evilresource.com/resident-evil-7/miscellaneous-objects/mr-everywhere
+- Solutions des puzzles : https://gameranx.com/features/id/89663/article/resident-evil-7-biohazard-how-to-solve-every-puzzle-solutions-guide/
+- Roadmap et succes DLC : https://www.powerpyx.com/resident-evil-7-trophy-guide-roadmap/
+- End of Zoe : https://gamefaqs.gamespot.com/ps4/219971-resident-evil-7-biohazard-end-of-zoe/faqs/77508/walkthrough
+- DLC disponibles sur Steam : https://store.steampowered.com/dlc/418370/End_of_Zoe/
 
 REGLE ANTI-SPOILER
 
-Les zones et modes servent uniquement a organiser les runs. Les fins, morts,
-identites, retournements et consequences ne sont pas racontes.
+La fiche donne seulement l'ordre, les zones, les objets, les solutions de
+puzzles et les conditions Steam. Les fins, revelations, identites, morts et
+consequences ne sont pas decrites. Tu peux donc suivre les reperes de
+completion sans perdre la decouverte du scenario.
