@@ -1,69 +1,745 @@
 SONIC THE HEDGEHOG 4 - EPISODE I
-GUIDE 100 % STEAM - 12 SUCCES STEAM - CHRONOLOGIQUE - SANS SPOILER
+GUIDE CHRONOLOGIQUE 100 % STEAM - 12 SUCCES STEAM - FICHE PREMIUM - SANS SPOILER NARRATIF
 
 Version de travail : 11 aout 2026
+Plateforme visee : Steam - AppID 202530
+Mode : solo ; les succes ne demandent pas de DLC
 
-OBJECTIF
+======================================================================
+OBJECTIF DE COMPLETION
+======================================================================
 
-Terminer les zones dans l'ordre, récupérer les émeraudes, puis faire les
-meilleurs temps et les runs Super Sonic sans spoiler.
+Cette fiche suit l'episode I dans l'ordre des zones et des actes, puis traite
+les Special Stages, Super Sonic, les vies, les scores et le run E.G.G.
+Station sans degats.
 
+Le jeu comporte quatre zones principales de trois actes et une zone finale
+d'un acte. Les Special Stages ne sont pas necessaires pour All Stages Cleared!,
+mais les sept Chaos Emeralds sont necessaires pour Super Sonic Genesis et
+Golden Flash.
+
+Les noms de zones et de boss servent de reperes de navigation. Aucun detail
+de recit n'est raconte.
+
+OBJECTIFS :
+
+- 12/12 succes Steam.
+- Splash Hill, Casino Street, Lost Labyrinth, Mad Gear et E.G.G. Station
+  termines.
+- 7/7 Chaos Emeralds.
+- Special Stage 1 complet avec tous ses anneaux.
+- 99 vies supplementaires.
+- Tous les actes valides en Score Attack et Time Attack avec envoi des scores.
+- E.G.G. Station terminee sans prendre de degat.
+- 1 000 ennemis vaincus dans une seule session de jeu Steam.
+
+======================================================================
+COMMENT LIRE LA FICHE
+======================================================================
+
+- [ZONE] : zone et acte.
+- [SPECIAL] : acces et objectif d'une Special Stage.
+- [TEMPS] : meilleur parcours a utiliser pour une tentative chronometree.
+- [SUCCES] : notification Steam attendue.
+- [CONTROLE] : compteur a verifier avant de quitter la carte.
+- □ : case interne de route.
+- Les majuscules des noms de zones correspondent a l'interface du jeu.
+
+======================================================================
 GARDE-FOUS AVANT DE COMMENCER
+======================================================================
 
-- AppID Steam : 202530. 12 succès, aucun DLC ni online obligatoire.
-- Fais une sauvegarde/une note de score après chaque Act. Les Special Stages
-  peuvent être relancés depuis la carte ; ne sacrifie pas une émeraude pour un
-  temps rapide.
-- Le succès de vitesse et le run sans dégâts sont séparés des collectes.
+- Fais une premiere partie normale pour ouvrir les zones et apprendre les
+  mecanismes avant les runs de temps.
+- Les Special Stages s'ouvrent en terminant un acte avec au moins 50 Rings,
+  puis en sautant dans le Giant Ring juste apres le panneau de fin.
+- La Special Stage obtenue avance dans l'ordre : la prochaine tentative
+  donne l'emeraude suivante. Elle n'est pas liee a un acte fixe.
+- Apres avoir obtenu une emeraude, le Giant Ring de ce parcours ne sert plus
+  a recuperer une nouvelle emeraude ; utilise un autre acte pour les suivantes.
+- Pour Enemy Hunter, traite le compteur Steam comme une progression de
+  session : ne ferme pas le jeu/Steam avant la notification des 1 000.
+- Pour Contender, termine chaque acte dans Score Attack et Time Attack, puis
+  envoie les records depuis l'ecran Leaderboards.
+- Pour Untouchable, utilise une tentative dediee : un seul choc invalide la
+  run, et les checkpoints ne permettent pas de recoller une run imparfaite.
+- Fais des sauvegardes ou notes manuelles du nombre d'emeralds et de vies.
 
+======================================================================
 MISSABLES ET CONDITIONS RATABLES
+======================================================================
 
-- Les anneaux du Special Stage 1 et les sept Chaos Emeralds sont les priorités
-  de la première route. Recharge le stage si un anneau manque.
-- Clear les Acts normalement avant les tentatives à haute vitesse. Fais le
-  run Super Sonic après les sept émeraudes.
+- The First Chaos Emerald et Super Sonic Genesis : termine les Special
+  Stages dans l'ordre avec 50 Rings et le Giant Ring.
+- Ring Collector : collecte les 141 Rings de Special Stage 1 dans une seule
+  tentative, puis termine la stage.
+- Enemy Hunter : garde la session Steam ouverte jusqu'a 1 000 ennemis.
+- Contender : envoie les records Score Attack et Time Attack pour toutes les
+  entrees de la carte avant de considerer le succes valide.
+- Untouchable : aucune touche dans E.G.G. Station ; une nouvelle tentative
+  doit repartir du debut de la zone.
+- Golden Flash : les 12 actes normaux des quatre zones doivent etre termines
+  avec Super Sonic apres l'obtention des 7 emeraudes.
 
-ORDRE RECOMMANDE
+======================================================================
+TABLEAU DES 12 SUCCES
+======================================================================
 
-1. ROUTE NORMALE
+1. The Story Begins
+   Clear SPLASH HILL ZONE, ACT 1.
 
-- Termine Splash Hill Zone, Act 1 pour The Story Begins et profite de cette
-  première zone pour apprendre le déplacement.
-- Bats le premier boss pour Crush Dr. Eggman, puis récupère la première
-  émeraude dans le Special Stage.
-- Termine toutes les zones et le boss final pour All Stages Cleared!.
+2. Crush Dr. Eggman
+   Defeat a boss for the first time.
 
-2. COLLECTES ET TEMPS
+3. The First Chaos Emerald
+   Acquire the first Chaos Emerald.
 
-- Refais Special Stage 1 en prenant chaque anneau : Ring Collector.
-- Récupère les sept Chaos Emeralds : Super Sonic Genesis. Refais ensuite tous
-  les Acts avec Super Sonic pour Golden Flash.
-- Monte à 99 vies si le compteur ne l'a pas fait naturellement : Immortal.
-- Fais Splash Hill Act 1 en moins d'une minute pour Speed's My Game, puis le
-  stage E.G.G. STATION sans dégâts pour Untouchable.
-- Publie un score/temps sur chaque stage pour Contender et élimine 1 000
-  ennemis au fil des runs pour Enemy Hunter.
+4. All Stages Cleared!
+   Defeat the final boss and watch the ending.
 
+5. Immortal
+   Build 99 or more extra lives.
+
+6. Super Sonic Genesis
+   Acquire all seven Chaos Emeralds.
+
+7. Speed's My Game
+   Clear SPLASH HILL ZONE, ACT 1 in less than one minute.
+
+8. Ring Collector
+   Collect every Ring in Special Stage 1 and clear the stage.
+   Le parcours de reference totalise 141 Rings.
+
+9. Golden Flash
+   Reach the end of every regular Act as Super Sonic.
+   Les boss et Special Stages ne comptent pas comme actes normaux.
+
+10. Contender
+    Upload the recorded scores and clear times for all stages.
+    Termine Score Attack et Time Attack pour chaque acte selectionnable.
+
+11. Untouchable
+    Clear E.G.G. STATION ZONE without taking any damage.
+
+12. Enemy Hunter
+    Defeat 1 000 enemies.
+    Sur la version Steam, garde la session ouverte jusqu'a la notification.
+
+======================================================================
+TECHNIQUES A MAITRISER
+======================================================================
+
+- Spin Dash : charge-le dans les pentes et avant les boucles.
+- Homing Attack : enchaine les ennemis et ouvre les routes verticales.
+- Ring : un choc ne tue pas Sonic tant qu'il en possede au moins un, mais
+  tous les Rings sont perdus.
+- Shield : conserve-le pour les zones a pieges ou les routes sous-marines.
+- Invincibility : profite-en pour les sections d'ennemis, pas pour les
+  sections ou un saut est obligatoire.
+- Giant Ring : termine l'acte avec 50 Rings ou plus, puis saute dedans avant
+  que Sonic ne sorte de l'ecran.
+- Super Sonic : apres les 7 emeraudes, collecte 50 Rings puis active la
+  transformation. Le compteur descend en continu.
+
+======================================================================
+CHAPITRE 1 - SPLASH HILL ZONE
+======================================================================
+
+[ZONE] SPLASH HILL ZONE - ACT 1
+
+Route de premiere completion :
+
+1. Apprends les mouvements sur les pentes et les vines.
+2. Ne force pas le chrono : ramasse des Rings et repere les zones en hauteur.
+3. Active les checkpoints.
+4. Termine l'acte.
+
+[SUCCES] The Story Begins.
+
+[PREPARATION EMERAUDE 1]
+
+1. Rejoue l'acte quand tu es a l'aise.
+2. Termine avec 50 Rings ou plus.
+3. Saute dans le Giant Ring juste apres le panneau.
+4. Complete Special Stage 1 pour obtenir l'emeraude.
+5. Si tu rates, la Special Stage reste rejouable depuis la carte apres
+   l'avoir ouverte.
+
+[ZONE] SPLASH HILL ZONE - ACT 2
+
+1. Suis les vines et les ziplines sans sacrifier les Rings.
+2. Pour une future Special Stage, garde 50 Rings en reserve a l'approche de
+   la fin.
+3. Termine l'acte.
+
+[ZONE] SPLASH HILL ZONE - ACT 3
+
+1. Termine la section de plateforme et les accelerateurs.
+2. Utilise les ennemis comme points d'Homing Attack pour atteindre les
+   hauteurs.
+3. Termine l'acte.
+
+[ZONE] SPLASH HILL ZONE - BOSS
+
+1. Apprends le rythme du boss sans tenter le no-hit.
+2. Attaque uniquement pendant les fenetres ou le cockpit est vulnerable.
+3. Evite de rester sous l'attaque descendante.
+4. Termine le boss.
+
+[SUCCES] Crush Dr. Eggman.
+
+CONTROLE SPLASH HILL
+
+□ Act 1 termine.
+□ Act 2 termine.
+□ Act 3 termine.
+□ Boss termine.
+□ Special Stage 1 ouverte.
+□ The Story Begins affiche.
+□ Crush Dr. Eggman affiche.
+
+======================================================================
+CHAPITRE 2 - CASINO STREET ZONE
+======================================================================
+
+[ZONE] CASINO STREET ZONE - ACT 1
+
+1. Les cartes, bumpers et canons peuvent changer la trajectoire.
+2. Fais une premiere route lente pour identifier les ressorts et les zones
+   de chute.
+3. Termine l'acte.
+4. Si tu veux ouvrir une autre Special Stage, conserve 50 Rings.
+
+[ZONE] CASINO STREET ZONE - ACT 2
+
+1. Cette route est utile pour le farming de vies.
+2. Ramasse les Sonic Cards lorsque le chemin est sur.
+3. Trois Sonic Cards donnent une vie.
+4. Les Rings et les vies bonus rendent cet acte efficace pour Immortal.
+5. Termine l'acte.
+
+[ZONE] CASINO STREET ZONE - ACT 3
+
+1. Les flippers peuvent envoyer Sonic vers une route haute ou basse.
+2. Controle les ressorts avant de relancer un Spin Dash.
+3. Termine l'acte.
+
+[ZONE] CASINO STREET ZONE - BOSS
+
+1. Repere le pattern avant de chercher le score.
+2. Ne reste pas au centre lorsque le boss traverse l'arene.
+3. Frappe pendant la fenetre d'ouverture puis replace-toi.
+4. Termine le boss.
+
+CONTROLE CASINO STREET
+
+□ Act 1 termine.
+□ Act 2 termine.
+□ Act 3 termine.
+□ Boss termine.
+□ Les vies et Sonic Cards notees pour le farming.
+
+======================================================================
+CHAPITRE 3 - LOST LABYRINTH ZONE
+======================================================================
+
+[ZONE] LOST LABYRINTH ZONE - ACT 1
+
+1. Les torches servent a garder une reference visuelle dans les sections
+   sombres.
+2. Les rochers et plateformes peuvent changer de position : attends leur
+   mouvement avant de sauter.
+3. Fais une premiere completion sans chrono.
+4. Termine l'acte.
+
+[ZONE] LOST LABYRINTH ZONE - ACT 2
+
+1. Les minecarts imposent de regarder les rails avant d'accelerer.
+2. Conserve au moins un Ring avant les sections de pieges.
+3. Termine l'acte.
+
+[ZONE] LOST LABYRINTH ZONE - ACT 3
+
+1. Utilise les leviers et les plateformes dans l'ordre visible.
+2. Evite de retomber dans les sections d'eau si le chemin haut est ouvert.
+3. Termine l'acte.
+
+[ZONE] LOST LABYRINTH ZONE - BOSS
+
+1. Apprends le moment ou le boss expose sa zone vulnerable.
+2. Ne poursuis pas un impact si la plateforme sous Sonic disparait.
+3. Termine le boss.
+
+CONTROLE LOST LABYRINTH
+
+□ Act 1 termine.
+□ Act 2 termine.
+□ Act 3 termine.
+□ Boss termine.
+
+======================================================================
+CHAPITRE 4 - MAD GEAR ZONE
+======================================================================
+
+[ZONE] MAD GEAR ZONE - ACT 1
+
+1. Les plateformes mobiles et les accelerateurs punissent les arrets tardifs.
+2. Utilise Spin Dash pour les longues lignes droites.
+3. Fais une premiere completion avec des Rings en reserve.
+4. Termine l'acte.
+
+[ZONE] MAD GEAR ZONE - ACT 2
+
+1. Les sections verticales demandent de regarder les ressorts avant de
+   declencher l'Homing Attack.
+2. Utilise les murs et les rampes plutot que de couper les trajectoires.
+3. Termine l'acte.
+
+[ZONE] MAD GEAR ZONE - ACT 3
+
+1. Repere les passages au plafond et les zones ou Sonic peut etre projete.
+2. Pour une Special Stage, tu peux choisir cet acte si tu maitrises les
+   trajectoires ; sinon utilise Splash Hill ou Casino Street.
+3. Termine l'acte.
+
+[ZONE] MAD GEAR ZONE - BOSS
+
+1. Reste mobile et observe l'attaque avant de chercher le prochain saut.
+2. Utilise les rebonds uniquement pendant les fenetres sures.
+3. Termine le boss.
+
+CONTROLE MAD GEAR
+
+□ Act 1 termine.
+□ Act 2 termine.
+□ Act 3 termine.
+□ Boss termine.
+□ Les quatre zones principales sont ouvertes.
+
+======================================================================
+CHAPITRE 5 - E.G.G. STATION ZONE
+======================================================================
+
+[ZONE] E.G.G. STATION ZONE
+
+1. Cette zone finale est un enchainement de boss et se termine par le
+   combat final.
+2. Fais une premiere tentative avec des Rings et des vies, sans chercher
+   Untouchable.
+3. Apprends chaque phase et identifie les attaques qui touchent le bord de
+   l'ecran.
+4. Termine la zone et regarde la fin.
+
+[SUCCES] All Stages Cleared!.
+
+GARDE-FOU :
+
+- Les Special Stages ne sont pas necessaires a All Stages Cleared!.
+- Si tu veux verifier la fin avec les sept emeraudes, fais d'abord les
+  Special Stages et utilise ensuite Super Sonic.
+
+======================================================================
+SPECIAL STAGES ET LES 7 CHAOS EMERALDS
+======================================================================
+
+[ACCES]
+
+1. Termine n'importe quel acte avec au moins 50 Rings.
+2. Saute dans le Giant Ring apres le panneau de fin.
+3. Termine la Special Stage pour obtenir l'emeraude suivante.
+4. La prochaine entree donnera l'emeraude suivante tant que tu n'as pas
+   termine les sept.
+
+[ROUTE CONSEILLEE]
+
+- Special Stage 1 : Splash Hill Act 1, parcours d'apprentissage.
+- Special Stage 2 : Casino Street Act 2, beaucoup de Rings et de rebonds.
+- Special Stage 3 : Splash Hill Act 2 ou Act 3.
+- Special Stage 4 : Casino Street Act 1.
+- Special Stage 5 : Lost Labyrinth Act 1 avec une route lente et controlee.
+- Special Stage 6 : Mad Gear Act 1 ou Act 2.
+- Special Stage 7 : l'acte le plus confortable que tu maitrises, avec
+  50 Rings ; ne reserve pas obligatoirement un acte difficile.
+
+[TECHNIQUE DE SPECIAL STAGE]
+
+- Le labyrinthe tourne : ajuste progressivement, pas par grands a-coups.
+- Les blocs rouges d'exclamation terminent la tentative si tu les touches.
+- Ramasse les orbes de temps pour prolonger la limite.
+- Les Ring Gates demandent le nombre de Rings affiche.
+- Ne te precipite pas vers l'emeraude si une porte exige encore des Rings.
+- Si la fin approche et qu'aucun bloc rouge n'a ete touche, mets le jeu en
+  pause et recommence la Special Stage depuis le menu si necessaire.
+
+[SUCCES] The First Chaos Emerald apres la premiere emeraude.
+[SUCCES] Super Sonic Genesis apres la septieme.
+
+CONTROLE EMERALDS
+
+□ 1/7.
+□ 2/7.
+□ 3/7.
+□ 4/7.
+□ 5/7.
+□ 6/7.
+□ 7/7.
+□ The First Chaos Emerald affiche.
+□ Super Sonic Genesis affiche.
+
+======================================================================
+SPECIAL STAGE 1 - RING COLLECTOR
+======================================================================
+
+Objectif : 141/141 Rings puis terminer la Special Stage 1.
+
+1. Ouvre Special Stage 1 depuis la carte une fois la premiere emeraude
+   obtenue, ou entre directement dans ta premiere tentative.
+2. Fais une premiere tentative d'observation : repere les Ring Gates,
+   les changements d'angle et les groupes de Rings.
+3. Pour la tentative valide, ne touche aucun bloc rouge.
+4. Priorite :
+   - groupes de Rings avant les orbes de temps ;
+   - portes avec compteur avant l'emeraude ;
+   - anneaux isoles sur les bords avant de poursuivre ;
+   - bonus de Rings si une section t'a fait perdre la trajectoire.
+5. Le compteur de reference est 141 Rings.
+6. Atteins l'emeraude/la sortie sans mourir.
+
+[SUCCES] Ring Collector.
+
+GARDE-FOU :
+
+- Le succes exige les anneaux de cette Special Stage, pas les Rings des
+  actes normaux.
+- Une mort ou un bloc rouge remet la tentative a zero.
+- La Special Stage est rejouable depuis la carte ; entraine-toi avant la
+  tentative 141/141.
+
+======================================================================
+VIES - IMMORTAL
+======================================================================
+
+Objectif : 99 extra lives.
+
+Sources :
+
+- 100 Rings donnent une vie.
+- 3 Sonic Cards donnent une vie.
+- Les boites 1-Up donnent une vie.
+
+[ROUTE DE FARMING]
+
+1. Ouvre Casino Street Act 2.
+2. Ramasse les Sonic Cards faciles.
+3. Termine ou recommence l'acte selon le compteur de vies.
+4. Ne ferme pas le jeu si tu combines ce farming avec Enemy Hunter.
+5. Controle le compteur dans le menu.
+6. Continue jusqu'a 99 vies supplementaires.
+
+[SUCCES] Immortal.
+
+GARDE-FOU :
+
+- Le succes demande 99 vies, pas 99 Rings.
+- Les vies perdues n'effacent pas le succes obtenu, mais garde une note de
+  progression avant de quitter le jeu.
+- Utilise la route Casino Street Act 2 si le compteur naturel est trop bas.
+
+======================================================================
+SUPER SONIC - GOLDEN FLASH
+======================================================================
+
+[PREPARATION]
+
+1. Les 7 Chaos Emeralds doivent etre obtenues.
+2. Dans un acte normal, collecte 50 Rings.
+3. Active Super Sonic avec la commande de transformation.
+4. Le compteur de Rings descend chaque seconde.
+5. Termine l'acte avant de tomber a zero.
+
+[LISTE COMPLETE DES ACTES A TERMINER AVEC SUPER SONIC]
+
+SPLASH HILL ZONE
+
+- [ ] Act 1
+- [ ] Act 2
+- [ ] Act 3
+
+CASINO STREET ZONE
+
+- [ ] Act 1
+- [ ] Act 2
+- [ ] Act 3
+
+LOST LABYRINTH ZONE
+
+- [ ] Act 1
+- [ ] Act 2
+- [ ] Act 3
+
+MAD GEAR ZONE
+
+- [ ] Act 1
+- [ ] Act 2
+- [ ] Act 3
+
+E.G.G. STATION
+
+- Les boss et Special Stages sont exclus de Golden Flash selon la condition
+  Steam ; termine les actes normaux des quatre zones principales.
+
+[SUCCES] Golden Flash.
+
+GARDE-FOU :
+
+- Rejoue uniquement les actes non valides sur la carte.
+- Les boss ne sont pas a refaire en Super Sonic pour ce succes.
+- Si Super Sonic se termine avant la ligne d'arrivee, recharge et choisis un
+  acte avec une route plus riche en Rings.
+
+======================================================================
+CONTENDER - SCORE ATTACK ET TIME ATTACK
+======================================================================
+
+Objectif : valider et envoyer un score et un temps pour tous les stages
+selectionnables.
+
+[LISTE DE BASE]
+
+- Splash Hill Act 1, 2, 3.
+- Casino Street Act 1, 2, 3.
+- Lost Labyrinth Act 1, 2, 3.
+- Mad Gear Act 1, 2, 3.
+- E.G.G. Station si le menu le propose comme stage.
+- Les boss si le menu les expose comme entrees distinctes : fais-les aussi
+  pour une verification sans ambiguite.
+
+[PROCEDURE]
+
+1. Depuis la carte, selectionne Score Attack.
+2. Termine chaque acte de la liste.
+3. Reviens a la carte.
+4. Depuis la carte, selectionne Time Attack.
+5. Termine chaque acte de la liste.
+6. Ouvre Leaderboards.
+7. Navigue acte par acte et utilise la commande d'envoi des records.
+8. Controle que le score et le temps apparaissent pour chaque entree.
+9. Si le succes n'apparait pas, relance les stages dont le leaderboard est
+   vide, y compris les stages/bosses que le menu separait.
+
+[TEMPS]
+
+- Ne cherche pas un record mondial : un temps valide suffit.
+- Pour les actes difficiles, vise d'abord la ligne d'arrivee sans mort.
+- Une run avec un checkpoint peut valider le mode si l'acte est termine, mais
+  ne l'utilise pas pour Untouchable.
+- Ne quitte pas la carte avant d'avoir envoye les records.
+
+[SUCCES] Contender.
+
+======================================================================
+SPEED'S MY GAME - SPLASH HILL ACT 1
+======================================================================
+
+Objectif : moins de 60 secondes.
+
+1. Fais une tentative de reconnaissance pour repérer les vines, ressorts et
+   zones de chute.
+2. Recommence depuis le debut en Time Attack.
+3. Utilise Sonic seul pour le controle le plus direct.
+4. Garde 50 Rings si possible afin d'utiliser Super Sonic ; ce n'est pas
+   obligatoire mais cela simplifie le chrono apres les 7 emeraudes.
+5. Ne prends pas le 1-Up si son detour casse la route.
+6. Utilise Spin Dash dans les descentes et Homing Attack sur les ennemis
+   alignes.
+7. Termine avant 1:00.
+
+[SUCCES] Speed's My Game.
+
+GARDE-FOU :
+
+- Le chrono concerne Splash Hill Zone Act 1, pas un autre acte.
+- Le temps est inferieur a une minute ; 1:00.00 ou plus ne valide pas.
+- Fais le succes avant de transformer la route en run de farming si tu veux
+  limiter les essais.
+
+======================================================================
+ENEMY HUNTER - 1 000 ENNEMIS
+======================================================================
+
+GARDE-FOU STEAM : le compteur peut repartir a zero lorsque la session du jeu
+est fermee. Commence cette tentative seulement quand tu peux laisser le jeu
+ouvert jusqu'a la notification.
+
+1. Lance une session propre.
+2. Utilise Splash Hill Act 1 comme boucle d'entrainement.
+3. Tue tous les ennemis accessibles.
+4. Termine l'acte.
+5. Recommence Act 1.
+6. Additionne les ennemis au compteur, pas seulement ceux d'une seule run.
+7. Ne ferme pas le jeu Steam entre les boucles.
+8. A 1 000 ennemis, attends la notification.
+
+[SUCCES] Enemy Hunter.
+
+GARDE-FOU :
+
+- Les ennemis vaincus naturellement dans la campagne comptent pour la session.
+- Si tu fermes le jeu avant 1 000 et que le compteur revient a zero,
+  recommence le farming en une seule session.
+- N'utilise pas les vies comme objectif ici : la boucle sert uniquement aux
+  ennemis et peut aussi aider Immortal.
+
+======================================================================
+UNTOUCHABLE - E.G.G. STATION SANS DEGATS
+======================================================================
+
+Objectif : terminer toute E.G.G. STATION ZONE sans recevoir le moindre choc.
+
+[PREPARATION]
+
+1. Termine d'abord la campagne normalement.
+2. Apprends les quatre boss precedents dans E.G.G. Station.
+3. Fais un essai en Score Attack pour comprendre le rythme.
+4. Utilise ensuite Time Attack pour redemarrer rapidement les tentatives.
+5. Ne compte pas sur les checkpoints : une seule vie complete est requise.
+6. Garde une route propre, sans detour de farming.
+
+[STRUCTURE DE LA ZONE]
+
+- Revanche du boss de Splash Hill.
+- Revanche du boss de Casino Street.
+- Revanche du boss de Lost Labyrinth.
+- Revanche de la forme finale du boss de Mad Gear.
+- Combat final en plusieurs phases.
+
+[REGLES DE COMBAT]
+
+1. Ne te precipite pas apres un boss : attends la fenetre de securite.
+2. Conserve les Rings comme protection, mais considere qu'un choc invalide
+   deja la tentative.
+3. Pour la phase 1 du boss final, frappe par saut lorsque le corps est
+   accessible.
+4. Pour la phase 2, frappe le bras projete puis le corps lorsqu'il est expose.
+5. Pour la phase 3, conserve le meme rythme en evitant les tirs roses.
+6. Pour la phase courte finale, attaque rapidement sans te faire coincer.
+7. Si Sonic est touche, abandonne immediatement la tentative et recommence ;
+   ne te fie pas au checkpoint.
+
+[SUCCES] Untouchable.
+
+======================================================================
+ORDRE DE FINITION OPTIMAL
+======================================================================
+
+1. Termine les 5 zones pour All Stages Cleared!.
+2. Ouvre les 7 Special Stages et prends les Chaos Emeralds.
+3. Fais Special Stage 1 avec 141/141 Rings pour Ring Collector.
+4. Monte a 99 vies avec Casino Street Act 2.
+5. Fais Enemy Hunter sans fermer la session, jusqu'a la notification.
+6. Fais Splash Hill Act 1 en moins d'une minute.
+7. Termine les 12 actes normaux avec Super Sonic.
+8. Valide Score Attack et Time Attack pour Contender.
+9. Termine E.G.G. Station sans degats pour Untouchable.
+10. Controle les 12 succes dans Steam.
+
+======================================================================
+TABLE DE DEPANNAGE
+======================================================================
+
+SPECIAL STAGE NON ACCESSIBLE
+
+- Termine un acte avec au moins 50 Rings.
+- Saute dans le Giant Ring juste apres le panneau.
+- Si l'acte a deja donne une emeraude, choisis un autre acte.
+
+EMERAUDE SUIVANTE NON OBTENUE
+
+- Les emeraudes arrivent dans l'ordre.
+- Termine la Special Stage en touchant l'emeraude, pas seulement la ligne de
+  Rings.
+- Recharge la carte et utilise un nouvel acte avec 50 Rings.
+
+RING COLLECTOR ABSENT
+
+- Le compteur de reference est 141 Rings dans Special Stage 1.
+- Les Rings des actes normaux ne comptent pas.
+- Evite les blocs rouges et termine la stage dans la meme tentative.
+
+IMMORTAL ABSENT
+
+- Le compteur attendu est 99 extra lives.
+- Farm Casino Street Act 2, ses Sonic Cards et les anneaux.
+- Verifie le compteur apres chaque run.
+
+GOLDEN FLASH ABSENT
+
+- Il faut les 7 Chaos Emeralds.
+- Termine chaque acte normal des quatre zones principales avec Super Sonic.
+- Les boss et Special Stages ne remplacent pas les actes.
+
+CONTENDER ABSENT
+
+- Termine Score Attack et Time Attack pour chaque acte.
+- Envoie les records depuis Leaderboards.
+- Controle les stages et boss separes dans l'interface.
+
+ENEMY HUNTER ABSENT
+
+- Ne ferme pas la session avant 1 000.
+- Farm Splash Hill Act 1.
+- Si le jeu a ete ferme, repars d'une nouvelle session complete.
+
+UNTOUCHABLE ABSENT
+
+- Une seule touche invalide la run.
+- Recommence depuis le debut de E.G.G. Station.
+- Utilise Time Attack pour refaire rapidement la tentative.
+- Les checkpoints ne permettent pas d'assembler plusieurs morceaux sans
+  degats.
+
+======================================================================
 CHECKLIST FINALE - 12/12 SUCCES STEAM
+======================================================================
 
-- [ ] The Story Begins
-- [ ] Crush Dr. Eggman
-- [ ] The First Chaos Emerald
-- [ ] All Stages Cleared!
-- [ ] Immortal
-- [ ] Super Sonic Genesis
-- [ ] Speed's My Game
-- [ ] Ring Collector
-- [ ] Golden Flash
-- [ ] Contender
-- [ ] Untouchable
-- [ ] Enemy Hunter
+- [ ] The Story Begins - Splash Hill Act 1 termine.
+- [ ] Crush Dr. Eggman - premier boss vaincu.
+- [ ] The First Chaos Emerald - premiere emeraude obtenue.
+- [ ] All Stages Cleared! - E.G.G. Station et fin vues.
+- [ ] Immortal - 99 vies supplementaires.
+- [ ] Super Sonic Genesis - 7/7 Chaos Emeralds.
+- [ ] Speed's My Game - Splash Hill Act 1 sous 1 minute.
+- [ ] Ring Collector - 141/141 Rings de Special Stage 1 et stage termine.
+- [ ] Golden Flash - actes normaux termines avec Super Sonic.
+- [ ] Contender - records Score Attack et Time Attack envoyes.
+- [ ] Untouchable - E.G.G. Station sans degat.
+- [ ] Enemy Hunter - 1 000 ennemis dans une session Steam.
 
-VERIFICATION
+======================================================================
+VERIFICATION FINALE
+======================================================================
 
-- [ ] 12/12 succès Steam.
-- [ ] Sept émeraudes, Special Stage 1, temps, run sans dégâts, scores et
-      compteur d'ennemis vérifiés.
-- [ ] Aucun DLC ni online obligatoire.
-- [ ] Aucun élément narratif révélé.
+□ Les 5 zones sont terminees.
+□ Les 7 Chaos Emeralds sont affichees.
+□ Special Stage 1 a ete terminee avec 141 Rings.
+□ Le compteur affiche 99 vies supplementaires.
+□ Tous les actes ont un score et un temps envoyes.
+□ Les 1 000 ennemis ont ete vaincus avant fermeture de session.
+□ E.G.G. Station a ete terminee sans degat.
+□ Les 12 succes sont visibles dans Steam.
+□ La route a ete relue sans spoiler narratif.
 
+======================================================================
+SOURCES DE VERIFICATION
+======================================================================
+
+- Steam Community - liste officielle des 12 succes :
+  https://steamcommunity.com/stats/202530/achievements
+- Steam Community - guide des conditions et techniques Episode I :
+  https://steamcommunity.com/sharedfiles/filedetails/?id=227000005
+- Sonic Wiki Zone - structure des zones et des Special Stages :
+  https://sonic.fandom.com/wiki/Sonic_the_Hedgehog_4%3A_Episode_I
+- Special Stage - mecanique des Ring Gates et acces a 50 Rings :
+  https://sonic.fandom.com/wiki/Special_Stage_%28Sonic_the_Hedgehog_4%29
+- Steam Store - Episode I :
+  https://store.steampowered.com/app/202530/Sonic_the_Hedgehog_4__Episode_I/
