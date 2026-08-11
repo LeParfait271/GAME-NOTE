@@ -1,191 +1,1046 @@
 FINAL FANTASY IV: THE AFTER YEARS
-GUIDE CHRONOLOGIQUE 100 % STEAM - SANS SPOILER
+GUIDE CHRONOLOGIQUE 100 % STEAM — 50 SUCCÈS — SANS SPOILER NARRATIF
 
-Version de travail : 10 aout 2026
+Version du guide : 11 août 2026
+Périmètre : version Steam complète, toutes les Tales, tous les personnages, tous les bestiaires, tous les objets importants et les 50 succès.
+Durée réaliste : 80 à 150 heures selon la chance sur les queues rares et le temps consacré au niveau 70.
 
-La version Steam compte 50 succes. Le 100 % demande plusieurs tales, le
-Bestiary, les Eidolons, les Band abilities, les queues de monstres, les
-magazines LLH, les Adamantite et le Challenge Dungeon. Le guide conserve les
-noms anglais des tales et des succes pour correspondre au jeu.
+Ce guide donne les noms de lieux, d’ennemis et d’objets nécessaires pour progresser, mais ne raconte pas les scènes ni les révélations. Les noms de monstres servent uniquement au 100 % du bestiaire.
 
-MISSABLES ET REGLES AVANT DE COMMENCER
+RÈGLES DE SÉCURITÉ — À LIRE AVANT DE COMMENCER
 
-- Chaque tale a son propre Bestiary. Avant chaque boss, fais tous les combats
-  de la zone et ouvre tous les coffres ; les ennemis d'une tale terminee ne sont
-  pas toujours immediatement disponibles ailleurs.
-- Garde un slot de sauvegarde au debut de chaque tale et avant la derniere
-  zone de la Final Tale.
-- Les Eidolons rares, les queues et les objets Adamantite demandent du farm.
-  Ils ne sont pas tous necessaires a l'histoire mais le sont pour les succes.
-- Pour A Tale to Tell, termine une tale a 100 % de son Bestiary avant de
-  l'archiver. La route la plus simple est Ceodore's Tale.
-- Les niveaux et les gil sont cumulatifs par tale, mais certains personnages
-  reviennent a un niveau different dans la Final Tale : garde les objets et les
-  bandes apprises.
+1. Crée une sauvegarde manuelle avant la fin de chaque Tale.
+2. Ne remplace jamais la sauvegarde de fin d’une Tale tant que son bestiaire, ses coffres et ses objets ratables ne sont pas contrôlés.
+3. Après avoir terminé une Tale, importe immédiatement ses données dans la Tale finale quand le jeu le propose. Si tu récupères un objet ou un personnage après une sauvegarde de fin, termine à nouveau la Tale et réenregistre les données.
+4. Les combats de monstres dans un coffre comptent uniquement si le monstre est vaincu. Fuir ne valide pas l’entrée.
+5. Les phases de lune changent les rencontres rares. Utilise une tente ou un point de sauvegarde, puis vérifie la phase avant de farmer.
+6. Les invocations rares sont des butins aléatoires. Prévois plusieurs combats et ne considère pas une zone terminée avant d’avoir vu l’objet dans l’inventaire.
+7. Pour le bestiaire, conserve toujours une sauvegarde de secours avant un combat à choix, une fin de mission d’Edge ou le combat de composition finale.
+8. Le succès de niveau 70 concerne tous les personnages jouables, pas seulement l’équipe active.
 
-ORDRE DES TALES
+ORDRE GLOBAL OPTIMAL
 
-1. Prologue.
-2. Ceodore's Tale : The Last of the Red Wings.
-3. Rydia's Tale : The Eidolons Shackled.
-4. Yang's Tale : The Master of Fabul.
-5. Palom's Tale : The Mage's Voyage.
-6. Edge's Tale : The Pulse of Babil.
-7. Porom's Tale : The Magic Ship That Vanished into the Moon.
-8. Edward's Tale : Star-Crossed Damcyan.
-9. Kain's Tale : Return of the Dragoon, qui se debloque apres les tales
-   requises selon la version Steam.
-10. The Lunarians' Tale : The Blue Planet That Was.
-11. The Crystals : tale de rassemblement.
-12. The Final Tale : route definitive et Challenge Dungeon.
+1. Prologue : Ceodore — terminer, puis importer.
+2. Tales annexes : Rydia, Yang, Palom, Edge, Porom, Edward.
+3. Tale de Kain — la jouer après les Tales annexes pour avoir toutes les données disponibles.
+4. Tale des Lunariens.
+5. Après chaque Tale : ouvrir son donjon de défi, récupérer ses objets fixes et contrôler son bestiaire.
+6. Rassembler les petites queues et les queues de couleur dès que les zones sont ouvertes.
+7. Tale de rassemblement : finir le grand nettoyage du monde et toutes les bandes accessibles.
+8. True Moon : compléter le bestiaire de la lune et les invocations rares.
+9. Planet Eater / Profondeurs : obtenir Ragnarok, Hero’s Shield, Ultima Weapon, Dualcast et les queues finales.
+10. Monter tous les personnages au niveau 70, terminer les bandes et seulement ensuite valider le dernier succès.
 
-PROLOGUE ET CEODORE'S TALE
+SUIVI À CRÉER DANS LE SITE
 
-1. Termine le prologue, puis explore la carte du monde avant chaque cristal.
-2. Dans Ceodore's Tale, ouvre tous les coffres, fais les combats de chaque
-   etage et apprends les Band abilities des membres presents.
-3. Mets de cote les queues trouvees et ne vends pas les armes rares.
-4. Obtiens le succes The Last of the Red Wings et fais monter le compteur de
-   monstres vers 100 puis 500.
-5. Avant la fin de la tale, retourne dans chaque zone et verifie le Bestiary.
+Utilise les cases de la fiche pour suivre les actions, mais garde une sauvegarde séparée pour chaque Tale. Les sections « Contrôle de sortie » sont les points de passage obligatoires.
 
-TALES INDIVIDUELLES
+PROLOGUE — CÉODORE
 
-Rydia's Tale - The Eidolons Shackled
+Objectif de sortie : terminer le Prologue sans laisser de coffre, de monstre de coffre ou d’objet de zone derrière toi.
 
-- Fais les combats de la grotte, du monde souterrain et des zones de surface.
-- Recupere chaque Eidolon visible et fais le combat optionnel quand un appel
-  rare apparait.
-- Le succes The Eidolons Shackled tombe avec la progression ; conserve les
-  objets de Rydia et de Luca pour la Final Tale.
+Baron et alentours
 
-Yang's Tale - The Master of Fabul
+□ Fouiller la zone de départ et les maisons accessibles.
+□ Dans la zone herbeuse au nord-est de la ville de Mythril, prendre la Tente.
+□ Derrière la boutique d’armes et d’armures, prendre l’Anneau de rubis.
+□ Derrière la maison à l’est, prendre la Potion.
+□ Revenir auprès du cochon après l’événement prévu pour récupérer les 500 gils.
+□ Acheter quelques Potions, Antidotes et une Tente avant de partir.
 
-- Nettoie le mont et Fabul avant le siege, puis les salles de combat dans
-  l'ordre ou elles sont ouvertes.
-- Apprends les Band abilities avec Ursula et Yang ; une action en duo a la fin
-  d'une tale peut etre facile a oublier.
+Grotte des Adamantites
 
-Palom's Tale - The Mage's Voyage
+□ Entrée : Potion, Éther, Tente et Queue de phénix.
+□ B1 : Potion, Tente et Éther.
+□ B2 : Queue de phénix, Éclat de bombe et Collyre.
+□ B3 : Sablier de bronze, Tente, Vent antarctique, Herbes écho et Gants de fer.
+□ B4 : Emblème du chevalier.
+□ Dans la zone de combat, tuer chaque monstre de coffre avant de continuer.
+□ Noter l’Adamantite récupérée dans la grotte : elle servira à l’armure finale.
 
-- Termine Mysidia, Troia et la Magnetic Cave en vidant les coffres et en
-  affrontant chaque type de monstre.
-- Mets Dualcast sur la liste des objectifs des que Palom atteint le niveau
-  necessaire : Twofer.
+Château de Baron
 
-Edge's Tale - The Pulse of Babil
+□ 1F : Tente, Leurre et Queue de phénix.
+□ Tour est : Éther, Croc rouge, Potion +, Sandales d’Hermès.
+□ Sous-sol de la tour est : Remède.
+□ 2F : Herbes écho, Vin de Bacchus, Fureur céleste et Potion +.
+□ 3F : Manivelle de bombe, 500 gils et Remède.
+□ Avant le dernier combat, soigner toute l’équipe et sauvegarder.
+□ Finir le Prologue et enregistrer la sauvegarde de fin.
+□ Importer les données dans la Tale suivante.
 
-- Parcours les etages de la tour et les passages lateraux ; garde des
-  antidotes et de la defense contre les elements.
-- Verifie les LLH Magazines et les Band abilities avant de lancer la fin de la
-  tale.
+CONTRÔLE DE SORTIE — PROLOGUE
 
-Porom's Tale - The Magic Ship That Vanished into the Moon
+□ Aucun coffre marqué comme non ouvert.
+□ L’Adamantite de la Grotte des Adamantites est notée.
+□ La sauvegarde de fin du Prologue est conservée séparément.
+□ The Very First Step est obtenu au début et The Last of the Red Wings à la fin.
 
-- Explore les salles du vaisseau, les passages a sens unique et les cartes
-  secondaires avant le dernier cristal.
-- Cette tale est un bon choix pour obtenir 100 % d'un Bestiary si Ceodore n'a
-  pas ete fini a temps.
+TALE DE RYDIA
 
-Edward's Tale - Star-Crossed Damcyan
+Objectif : récupérer les personnages supplémentaires, les invocations et l’Adamantite d’Agart avant de fermer la Tale.
 
-- Fais les routes de Damcyan, les grottes et les retours en ville sans vendre
-  les queues ni les magazines.
-- Apprends les Band abilities qui utilisent Edward et Harley, puis verifie le
-  compteur Birds of a Feather a 40 bandes.
+Passage des Eidolons
 
-Kain's Tale - Return of the Dragoon
+□ Ouvrir tous les coffres de l’entrée, notamment Potions, Éther, 500 gils, Queue de phénix et Tente.
+□ B2 : Collyres et Sablier de bronze.
+□ Battre chaque monstre de coffre et noter les entrées du bestiaire.
+□ Pendant les combats, utiliser les capacités de bande dès qu’elles apparaissent.
 
-- Termine les chapitres de Kain et ses combats de dragon ; fais les combats
-  aleatoires avant les teleports de fin de section.
-- Sauvegarde avant le dernier boss et verifie les eidolons et le Bestiary de la
-  tale avant de la fermer.
+Grotte des Sylphes
 
-The Lunarians' Tale - The Blue Planet That Was
+□ Faire toute la grotte avant de déclencher la sortie de la Tale.
+□ B1 : vérifier les coffres de Potions, gils et Dague.
+□ B2 : Queue de phénix, puis les coffres de la zone des Sylphes.
+□ B1 : Potion +, Bracelet d’argent et Adamantite.
+□ Chercher le Gobelin dans les combats normaux et tenter d’obtenir l’invocation Gobelin avant de fermer la Tale.
+□ Ne pas quitter la grotte avec un monstre de coffre non vaincu.
 
-- Explore chaque cratere et chaque zone lunaire, puis ouvre les coffres avant
-  les combats de fin.
-- Les LLH Magazines et les combats rares de la lune doivent etre faits ici ou
-  dans la Final Tale selon leur entree de Bestiary.
+Grotte scellée
 
-The Crystals
+□ Ouvrir chaque porte et chaque coffre avant le combat final de la zone.
+□ Les Portes-pièges sont indispensables au bestiaire : tuer une porte normalement pour son entrée.
+□ Affaiblir certaines Portes-pièges afin qu’elles invoquent un Capitaine gobelin, puis tuer le monstre invoqué.
+□ Refaire la même méthode pour la Sorcière invoquée par une Porte-piège.
+□ Ne pas fuir ces combats : une fuite ne compte pas.
+□ Contrôler les ennemis Cave Naga, Ogre, Cait Sith, Serpent Ettin, Chauve-souris de grotte, Chauve-souris de sang, Fleur de sang, Lilyth, Mousse rouge et Mur démoniaque.
 
-1. Reunis les groupes dans l'ordre propose par le menu.
-2. Fais progresser chaque membre au moins jusqu'au niveau 30 avant de passer a
-   la Final Tale ; garde un slot pour le farm de niveau 50 puis 70.
-3. Apprends les Band abilities deja debloquees dans les tales precedentes.
+Mine d’Agart
 
-FINAL TALE : ROUTE DE COMPLETION
+□ Fouiller les trois niveaux avant de partir.
+□ Prendre l’Adamantite de la mine.
+□ B3 : chercher le Dragon vert sous lune décroissante.
+□ Tuer les deux variantes du Dragon vert si elles apparaissent dans le bestiaire.
+□ Contrôler les ennemis Tréant, Basilic, Succube, Œuf mystérieux, Agartoise, Poupée Quarto et Titan.
 
-1. Au debut, choisis une equipe equilibree : soin, magie noire/blanche, degats
-   physiques et support.
-2. Reviens dans toutes les zones de la planete et de la lune avant le dernier
-   point de non-retour. Les ennemis restants du Bestiary sont plus faciles a
-   trouver avec le tableau de chaque tale.
-3. Fais le Challenge Dungeon de chaque personnage. Il fournit Adamantite,
-   queues, equipement rare et magazines LLH. Ne quitte pas un etage sans
-   verifier les coffres et les combats fixes.
-4. Pour les Eidolons rares, equipe les anneaux de drop et recommence les zones
-   jusqu'a obtenir Bomb et les invocations optionnelles. Les combats de drop ne
-   sont pas garantis.
-5. Echange les queues a l'ile des monstres / atelier dans l'ordre suivant :
-   - red tail -> Level Band ;
-   - blue tail -> Blue Armor ;
-   - green tail -> Rare Band ;
-   - gold tail -> Gil Band V2 ;
-   - purple tail -> Treasure Hunter V2 ;
-   - white tail -> Rapid Ring V2 ;
-   - gray tail -> Reach Ring ;
-   - ebony tail -> Provoke Ring ;
-   - pink tail -> Pink Armor ;
-   - black tail -> Twin Stars ;
-   - rainbow tail -> Limit Ring.
-6. Termine un Bestiary de tale a 100 % pour A Tale to Tell, puis termine le
-   Bestiary global pour Beast Master.
-7. Monte tout le groupe final au niveau 30, 50 puis 70. Les personnages qui ne
-   sont pas dans l'equipe active peuvent etre entraines dans les zones de fin.
-8. Apres les combats et les echanges, termine l'histoire pour Crystal Savior,
-   The Final Tale et Been There, Done That.
+Personnages et invocations
 
-CHECKLIST DES COLLECTIONS
+□ Récupérer Calca et Brina avec les objets de la Tale : Mythril Spring, Bolt et Nut.
+□ Si ces objets ont été récupérés après la sauvegarde de fin, rejouer la fin de la Tale et enregistrer une nouvelle sauvegarde.
+□ L’invocation Gobelin tombe rarement dans la Grotte des Sylphes B2 ou le Passage des Eidolons B1.
+□ Sauvegarder avant la fin de la Tale.
+□ Terminer et importer les données.
 
-[ ] 30 % du Bestiary : Taming the Wild.
-[ ] 60 % du Bestiary : The Point of No Return.
-[ ] 100 % d'une tale : A Tale to Tell.
-[ ] 100 % du Bestiary global : Beast Master.
-[ ] Tous les Eidolons normaux : I Choose You!.
-[ ] Tous les Eidolons, y compris les rares : Say Hello to My Little Friends.
-[ ] 40 Band abilities : Birds of a Feather.
-[ ] Toutes les Band abilities : Strength in Numbers.
-[ ] Toutes les Band abilities au niveau maximum : Me and My Homies.
-[ ] Dualcast : Twofer.
-[ ] Tous les LLH Magazines : I Read It for the Articles.
-[ ] Tous les echanges de queues, y compris rainbow.
-[ ] Tous les Adamantite utiles dans le Challenge Dungeon.
+CONTRÔLE DE SORTIE — RYDIA
 
-CHECKLIST DES 50 SUCCES STEAM
+□ Tous les coffres de la Grotte des Sylphes, de la Grotte scellée et d’Agart sont ouverts.
+□ Gobelin est obtenu ou la sauvegarde de fin est conservée pour le refaire.
+□ Calca et Brina sont recrutées.
+□ Rydia’s Tale débloque The Eidolons Shackled.
 
-[ ] The Very First Step. [ ] A History of Violence. [ ] Penny Pincher.
-[ ] The Last of the Red Wings. [ ] B.F.F. [ ] Don't Cry Over Spilt Blood.
-[ ] The Eidolons Shackled. [ ] The Master of Fabul. [ ] Public Enemy.
-[ ] Taming the Wild. [ ] The Mage's Voyage. [ ] The Pulse of Babil.
-[ ] The Vanished Lunar Whale. [ ] Money Grubber. [ ] Star-Crossed Damcyan.
-[ ] Return of the Dragoon. [ ] Hear the Lamentations. [ ] The Point of No Return.
-[ ] The Blue Planet That Was. [ ] High Roller. [ ] Rags to Riches.
-[ ] I Choose You!. [ ] Crystal Savior. [ ] It Doesn't Get Any Better Than This.
-[ ] To the Moon and Back. [ ] Bodacious Aegis. [ ] Twofer.
-[ ] Birds of a Feather. [ ] This Is a Knife. [ ] Made to Be Broken.
-[ ] A Tale to Tell. [ ] Starstruck. [ ] Affect of the Exotic.
-[ ] All Grown Up. [ ] Get Rich or Die Tryin'. [ ] Quick Learner.
-[ ] True Blue. [ ] Mid-Life Crisis. [ ] One Man's Trash.
-[ ] With a Quickness. [ ] Cool Kids Sit in the Back. [ ] Come At Me, Bro.
-[ ] Pretty in Pink. [ ] Over the Hill. [ ] I Read It for the Articles.
-[ ] Strength in Numbers. [ ] Say Hello to My Little Friends.
-[ ] Me and My Homies. [ ] Beast Master. [ ] Been There, Done That.
+TALE DE YANG
 
-VERIFICATION
+Objectif : récupérer Ursula, l’Adamantite de l’Impact Crater et le Dragon rouge rare.
 
-Steam doit afficher 50/50. Il n'y a pas de mode online requis. Les recompenses
-de queues et les Eidolons rares peuvent demander du farm : le guide les marque
-comme missables de progression seulement parce qu'une tale fermee impose un
-detour, pas parce que la partie est automatiquement perdue.
+Mont Hobs
+
+□ Versant est : Potion, Queue de phénix, Leurre et Potion +.
+□ Versant ouest : Bracelet de puissance.
+□ Sommet : combattre tous les monstres de coffre et vérifier le bestiaire.
+□ Contrôler les ennemis Larve, Cockatrice, Zu, Squelette, Rat-épée, Zombie, Papillon ailé, Ossements sanglants et Maman bombe.
+
+Impact Crater
+
+□ Zone supérieure : Baiser de vierge et tous les coffres des embranchements.
+□ Zone intermédiaire : ouvrir les coffres avant de descendre.
+□ Plancher inférieur : prendre l’Adamantite.
+□ Sous lune nouvelle, chercher le Dragon rouge du plancher.
+□ Contrôler les ennemis Alligator, Crapaud géant, Gigas Gator, Amibe, Splasher, Coquillage, Poisson tueur, Ver d’inondation et Électro-poisson.
+□ Le Gigas Gator et le Dragon rouge sont des contrôles de rareté : ne ferme pas la Tale avant d’avoir obtenu leurs entrées.
+
+Fabul et forêt de l’île Adamant
+
+□ Contrôler les ennemis Sahagin, Kain, Capitaine et Marine de Baron.
+□ Battre le Capitaine avant les Marines de Baron afin d’éviter qu’il ne s’échappe.
+□ Forêt : Tente, Queue de phénix, Potion + et tous les objets visibles.
+□ Forêt de l’île Adamant : Spectre, Âme, Hydra, Lilyth, Revenant et Tortue adamantine.
+□ Finir la séquence d’Ursula et sauvegarder avant la clôture de la Tale.
+
+CONTRÔLE DE SORTIE — YANG
+
+□ Ursula est disponible dans les données de fin.
+□ Adamantite de l’Impact Crater récupérée.
+□ Dragon rouge de l’Impact Crater vu sous lune nouvelle.
+□ Yang’s Tale débloque The Master of Fabul.
+
+TALE DE PALOM
+
+Objectif : obtenir Leonora, Dualcast plus tard, le Mindflayer, l’Adamantite et le numéro de Lustful Lali-Ho de Troia.
+
+Troia
+
+□ Ville : passage secret avec Éther sec, 1000 gils, Éther et Leurre.
+□ Château : Potion +, Potion, Herbes écho, Baiser de vierge, Queue de phénix, Antidote, Aiguille d’or et 300 gils.
+□ Pub impérial : acheter le Member’s Writ pour 2500 gils.
+□ Ouvrir le passage secret, acheter les accès requis et regarder le spectacle complet.
+□ Ouvrir le coffre du spectacle pour le magazine Lustful Lali-Ho.
+□ Quand Leonora pose sa question dans cette scène, choisir NO pour conserver la progression prévue.
+□ Prévoir environ 159 000 gils pour la suite du spectacle et la Queen’s Whip.
+□ Le Black Tail de Palom est la queue noire fixe obtenue au terme du spectacle.
+
+Tour des épreuves
+
+□ 4F : Éther.
+□ 5F : Bâton de soin.
+□ Ouvrir les coffres de chaque étage et tuer les Mini-jaunes, Mini-bleus et Mini-rouges des combats de coffre.
+□ Contrôler Yellow Jelly, Âme, Ossements sanglants, Mousse rouge, Poupée de tonnerre, Poupée de feu, Poupée de glace et les variantes miniatures.
+
+Voie navigable de Troia
+
+□ B1 : Flèches de foudre, Grand arc et Fureur céleste.
+□ B2 : Potion +, Vent antarctique, Éther, Remède, Vin de Bacchus et Queue de phénix.
+□ B3 : Tente, Bracelet runique, Herbes écho, Baiser de Lilyth, Cottage et Toile d’araignée.
+□ B4 : Queue de phénix et Anneau de rubis.
+□ Salle des trésors : Cottage, Toile d’araignée, Sablier de bronze et Bâton de polymorphie.
+□ B1-B4 : contrôler Alligator, Prêtre Will, Gigas Gator, Crapaud géant, Sahagin, Splasher, Castanet du diable, Hydra, Coquillage, Poisson tueur, Ver d’inondation et Électro-poisson.
+□ B1 : chercher le Tiny Mage dans les rencontres rares.
+□ Lodestone B5 : prendre l’Adamantite.
+
+Grotte de Lodestone
+
+□ B2 : chercher la Succube rare, puis farmer le Mindflayer dans la salle nord-est.
+□ Le Mindflayer doit être obtenu ici avant la fin de la Tale : c’est la méthode la plus sûre pour l’invocation Mindflayer.
+□ B2 : ouvrir les coffres de la salle secrète et contrôler Chauve-souris de grotte.
+□ Contrôler Cave Naga, Cait Sith, Serpent Ettin, Succube, Chauve-souris de grotte, Hérisson, Mindflayer, Lamage, Elfe noir et Dragon noir.
+□ Utiliser de la magie noire de niveau 2 contre Lamage afin de valider correctement son entrée.
+□ Terminer la Tale et enregistrer Leonora.
+
+CONTRÔLE DE SORTIE — PALOM
+
+□ Magazine de Troia obtenu et sauvegarde conservée.
+□ Black Tail obtenu au Pub impérial.
+□ Mindflayer obtenu avant la sauvegarde finale.
+□ Adamantite de Lodestone récupérée.
+□ Palom’s Tale débloque The Mage’s Voyage.
+
+TALE D’EDGE
+
+Objectif : terminer les quatre missions ninja sans perdre un ninja, obtenir Cockatrice et l’Adamantite de la Tour de Babil.
+
+Ordre des quatre missions
+
+□ Izayoi — phase de lune croissante.
+□ Tsukinowa — pleine lune.
+□ Zangetsu — lune décroissante.
+□ Gekkou — lune nouvelle.
+□ Garder une sauvegarde avant chaque mission et une autre avant sa fin.
+□ Ne jamais laisser un ninja mourir dans sa mission : les perdre bloque des entrées, des bandes et la progression de niveau 70.
+
+Izayoi — Tour des épreuves
+
+□ Fouiller chaque étage et tuer chaque monstre de coffre.
+□ Contrôler Larve, Gargouille, Aigle de falaise, Helldiver, Papillon ailé, Œil flottant et Zu.
+□ Farmer trois Cockatrice dans les rencontres adaptées pour tenter l’invocation Cockatrice.
+□ Ne ferme pas la mission tant que l’invocation n’est pas tombée ou que la sauvegarde de secours n’est pas conservée.
+
+Tsukinowa — Mont Ordeals
+
+□ Entrée : Potion + et Tente.
+□ Contrôler Spectre, Sky Pupil, Zombie, Papillon marine, Chauve-souris sauvage, Gobelin, Esprit, Rat-épée et Domovoi.
+□ Sous pleine lune, vérifier les rencontres rares et les monstres de coffre.
+□ Garder Tsukinowa en vie jusqu’au contrôle de sortie.
+
+Zangetsu — chemin de la Mine naine
+
+□ Contrôler Yellow Jelly, Crapaud géant, Sahagin, Amibe et Belphegor.
+□ Ouvrir tous les coffres des tunnels et des bifurcations.
+□ Garder Zangetsu en vie.
+
+Gekkou — Impact Crater
+
+□ Sous lune nouvelle, contrôler Gigantoad, Squelette, Ossements sanglants et Mousse rouge.
+□ Ouvrir tous les coffres.
+□ Garder Gekkou en vie.
+
+Cave d’Eblan et Tour de Babil
+
+□ Cave d’Eblan : ouvrir tous les coffres et chercher le Behemoth rare sous lune nouvelle.
+□ Contrôler Âme, Chauve-souris de grotte, Hérisson, Œuf mystérieux et Lilyth issue d’un Œuf mystérieux.
+□ Tour de Babil B2 : contrôler Proto-horloge et Canon à rayon.
+□ B3 : Cave Naga, Ogre, Cait Sith, Serpent Ettin, Succube, Bête de glace, Hérisson et Mindflayer.
+□ B4-B5 : Armadillo, Lézard noir, Centaure chevalier, Capitaine gobelin, Sorcière, Mousse violette, Chauve-souris de sang, Tortue de magma, Ifrit et Mysterious Girl.
+□ Prendre l’Adamantite de la Tour de Babil B3 supérieur.
+□ Cockatrice se farm le plus confortablement dans une rencontre de trois à la Tour des épreuves d’Izayoi.
+□ Terminer Edge’s Tale et importer les données.
+
+CONTRÔLE DE SORTIE — EDGE
+
+□ Les quatre ninjas sont vivants.
+□ Behemoth de la Cave d’Eblan contrôlé sous lune nouvelle.
+□ Cockatrice obtenu ou sauvegarde de secours conservée.
+□ Adamantite de Babil récupérée.
+□ Edge’s Tale débloque The Pulse of Babil.
+
+TALE DE POROM
+
+Objectif : obtenir le magazine de Mt Ordeals, le White Tail et toutes les entrées des voies souterraines.
+
+Voie navigable souterraine
+
+□ B3 : Tente et Bâton de foudre.
+□ Ouvrir tous les coffres de la Voie navigable et du Lac souterrain.
+□ Contrôler Alligator, Yellow Jelly, Crapaud géant, Gigantoad, Spectre, Amibe, Zombie, Coquillage et Poisson tueur.
+□ Lac : Sahagin, Splasher, Tiny Mage, Mammouth froid et Sangsues.
+
+Passage et Mysidia
+
+□ Passage B2 : Potion + et Cottage.
+□ Passage B3 : Sandales d’Hermès, Surplis de sage, Leurre et Herbes écho.
+□ Contrôler Tréant, Gargouille, Cait Sith, Serpent Ettin, Mortblossom, Bombe grise, Hérisson et Bombe.
+□ À Mysidia, contrôler Gatlinghog, Cockatrice, Gobelin, Zu, Rat-épée et Domovoi.
+
+Mont Ordeals
+
+□ Contrôler Necrodium, Squelette, Skeleripper, Esprit, Âme, Ossements sanglants, Lilyth et Revenant.
+□ Contrôler l’Evil Flame rare à la Croisée.
+□ Dans la zone extérieure nord-est, sous lune croissante, obtenir le White Tail du White Dragon.
+□ Dans la zone de début, prendre le magazine Lustful Lali-Ho près du lit approprié.
+□ Contrôler les monstres de coffre avant de quitter le sommet.
+□ Terminer la Tale et importer les données.
+
+CONTRÔLE DE SORTIE — POROM
+
+□ White Tail obtenu ou sauvegarde de secours conservée.
+□ Magazine de Mt Ordeals enregistré.
+□ Evil Flame contrôlé.
+□ Porom’s Tale débloque The Vanished Lunar Whale.
+
+TALE D’EDWARD
+
+Objectif : obtenir le magazine de Damcyan, le Gold Tail fixe et tous les monstres rares du désert et des voies d’eau.
+
+Damcyan
+
+□ Fouiller la chambre d’Harley : le petit coffre/objet du côté ouest du château contient une petite queue.
+□ Dans la remise de Damcyan, prendre les coffres et utiliser le passage caché au sud de la chambre d’Edward.
+□ À l’extérieur de la tour est, fouiller la plate-bande pour une queue de bronze.
+□ À l’entrée du château, fouiller la plate-bande de gauche pour le magazine Lustful Lali-Ho.
+
+Antlion’s Den
+
+□ Contrôler Tortue adamantine, Yellow Jelly, Spectre, Squelette, Esprit, Zombie, Basilic rare et Leshy.
+□ Dans la salle intérieure la plus profonde, côté extérieur gauche, prendre l’Adamantite.
+□ Sous lune nouvelle, vérifier le rocher qui fournit une queue d’argent.
+
+Impact Crater et voie navigable
+
+□ Impact Crater supérieur : Potion, Potion +, Armure de fer et tous les coffres.
+□ Contrôler Gargouille, Cockatrice, Zu rare, Bombe et Âme.
+□ Voie navigable nord B1 : Potion +, Épée de fer, Manivelle de bombe et Potion +.
+□ Contrôler Alligator, Gigas Gator, Sahagin, Splasher et Revenant.
+□ Dans la rivière de Baron, après la descente de la cascade, prendre la queue de bronze à gauche.
+□ À Kaipo, au deuxième étage de l’auberge, prendre la queue derrière le PNJ.
+
+Queue d’or fixe
+
+□ Obtenir les 15 queues de bronze et les 2 queues d’argent nécessaires à l’échange.
+□ Échanger l’ensemble auprès du collecteur de la Voie navigable nord pour la Gold Tail.
+□ Si l’échange n’est pas encore possible, compléter les combats contre Adamantoise, Alligator, Gigas Gator, Sand Worm, Splasher, Basilic, Hundlegs et Hydra.
+□ Sauvegarder la Gold Tail avant de terminer la Tale.
+□ Terminer et importer les données.
+
+CONTRÔLE DE SORTIE — EDWARD
+
+□ Gold Tail fixe obtenue.
+□ Adamantite de l’Antlion’s Den récupérée.
+□ Magazine de Damcyan enregistré.
+□ Edward’s Tale débloque Star-Crossed Damcyan.
+
+TALE DE KAIN
+
+Objectif : terminer l’arc après les autres Tales, puis contrôler les rencontres rares de Kaipo, Devil’s Road et la voie navigable.
+
+Mont Ordeals et Devil’s Road
+
+□ Mont Ordeals : Armure de Mythril, Vent antarctique, Gants de Mythril et Cottage.
+□ Devil’s Road : Épée de Mythril, Leurre, Potion +, Bouclier de Mythril, Sablier de bronze, Casque de Mythril et Fureur de Zeus.
+□ Contrôler Cave Naga, Ogre, Spectre, Squelette, Skeleripper, Âme, Ossements sanglants, Evil Flame, Hérisson, Lilyth et Revenant.
+□ Dans Devil’s Road côté Baron, sous lune décroissante, chercher le Gray Coeurl rare.
+□ Côté Mysidia de Devil’s Road, contrôler le Cait Sith rare sous lune décroissante.
+□ Contrôler Yellow Jelly, Centaure chevalier, Mousse violette, Gremlin, Chevalier noir et les monstres propres aux deux côtés.
+
+Baron, Mist et Falaise
+
+□ Overworld : Lézard noir, Capitaine gobelin, Naga, Bête de glace, Lézard de glace, Flame Hound, Fell Turtle et Helflapper.
+□ Falaise de Mist : Éther, Sandales d’Hermès et Bouclier de feu.
+□ Contrôler Œuf mystérieux et Méduse dans les rencontres de la Falaise.
+□ À Kaipo et dans les environs, contrôler Tunneler, Zombie infantry, Fleur de sang et Magma Tortoise rare.
+□ Prendre l’Adamantite de la Voie navigable souterraine.
+
+Voie navigable et Château de Baron
+
+□ Voie navigable nord B1 : Tente, Vin de Bacchus, Éther sec et Queue de phénix.
+□ Contrôler Crapaud géant, Gigas Gator, Sahagin Knight, Chauve-souris de sang, Flaygator, Blaze Toad et Mizuchi.
+□ Ouvrir le coffre au Golem de Mythril.
+□ Contrôler Octokraken et les quatre Octoleeches.
+□ Château de Baron : ouvrir la salle des trésors et les tours.
+□ Salle des trésors : Potion +, Croc rouge et Remède.
+□ Tour est : Remède au sous-sol, Sandales d’Hermès, Sablier de bronze, Queue de phénix, Potion +, Herbes écho, Vin de Bacchus, Fureur céleste, Croc blanc, Potion + et Cottage.
+□ Dans la maison de Kaipo, au deuxième étage, récupérer la septième édition de Lustful Lali-Ho au bord du lit.
+□ Terminer Kain’s Tale avec une sauvegarde séparée.
+
+CONTRÔLE DE SORTIE — KAIN
+
+□ Gray Coeurl et Cait Sith rares contrôlés.
+□ Golem de Mythril, Octokraken et les quatre Octoleeches contrôlés.
+□ Adamantite de la Voie navigable récupérée.
+□ Magazine de Kaipo enregistré avant la fermeture de la Tale.
+□ Return of the Dragoon obtenu.
+
+TALE DES LUNARIENS
+
+Objectif : terminer la Tale, obtenir le magazine de la Chambre du sommeil et contrôler les variantes rares de la Lune avant la Tale de rassemblement.
+
+Chambre du sommeil
+
+□ Dès le début, fouiller près du Lunarian endormi pour obtenir le magazine Lustful Lali-Ho.
+□ Cette édition est ratable à la fermeture de la Tale : sauvegarder dès son obtention.
+
+Surface lunaire et tunnels
+
+□ Contrôler Coeurl, Gavel Worm rare, Caterpillar, Mousse violette, Flan noir, Mousse blanche, Mors et Balloon.
+□ Tunnel ouest : sous lune nouvelle, chercher Ebony Dragon.
+□ Impact Crater est : Yellow Jelly, Centaure chevalier, Gremlin, Chevalier noir, Lézard de glace, Mousse rouge, Asura et Mysterious Girl.
+□ Impact Crater ouest : Sorcière, Bête de glace et Soldatesse.
+□ Lair of Father B1 : sous lune décroissante, chercher les deux Dragons verts et le Green Tail.
+□ Lair of Father B2 : sous pleine lune, chercher Thunder Dragon et le Blue Tail.
+□ Contrôler Goblin Captain, Golem de pierre, Naga, Flamehound, Tortue de magma, Méduse, Count Malboro, Blast Golem, Storm Anima, Thunderbird et Lucifer.
+□ Crystal Palace : garder Rydia dans l’équipe active avant les combats Asura et Leviathan.
+
+Tour de Babil et Giant of Babil
+
+□ Tour de Babil B5 : contrôler les deux versions de Rubicante avec une sauvegarde/recharge si nécessaire.
+□ Pour obtenir les deux entrées, faire un premier combat, sauvegarder seulement si le jeu le permet sans écraser la sauvegarde de sécurité, puis recharger la sauvegarde appropriée et faire l’autre version.
+□ Giant of Babil : contrôler Clockwork Dragon rare, Attack Node, CPU et Defense Node.
+□ Lair of Father B3 : contrôler Lunar Dragon si le combat est disponible.
+□ Sauvegarder la Tale des Lunariens et l’importer.
+
+CONTRÔLE DE SORTIE — LUNARIENS
+
+□ Magazine de la Chambre du sommeil enregistré.
+□ Green Tail et Blue Tail contrôlées ou sauvegarde de secours conservée.
+□ Les deux variantes de Rubicante validées.
+□ Rydia est prête à être placée dans l’équipe pour Asura et Leviathan.
+□ The Blue Planet That Was obtenu.
+
+PETITES QUEUES — ROUTE COMPLÈTE
+
+Collecteur
+
+□ Le collecteur se trouve dans la Cave d’Eblan.
+□ 7 petites queues permettent de choisir une queue de couleur disponible.
+□ 14 petites queues permettent d’obtenir une Rainbow Tail.
+□ Ne dépense pas les petites queues au hasard : la Rainbow Tail donne la Limit Ring, nécessaire à Made to Be Broken.
+□ La Pink Tail ne vient pas de cet échange : elle tombe uniquement de Flan Princess.
+
+21 emplacements fixes à faire dans cet ordre
+
+□ 1 — Ville de Baron, nord-ouest.
+□ 2 — Baron est, arbre isolé.
+□ 3 — Clairière au nord-ouest de Baron, près de la Grotte de Mist.
+□ 4 — Clairière au sud de Kaipo, entre les trois impacts de météore.
+□ 5 — Clairière au sud-est de Kaipo, désert près de la mer.
+□ 6 — Site d’impact à l’ouest de Damcyan.
+□ 7 — Clairière au sud-est de Fabul.
+□ 8 — Clairière à l’ouest de Fabul, passage caché à l’est du coffre.
+□ 9 — Petite grotte au sud-est du Mont Ordeals, passage sous l’arche.
+□ 10 — Arbre isolé au nord de l’île d’Eblan.
+□ 11 — Arbre isolé à l’est de l’île d’Eblan.
+□ 12 — Clairière à l’est de Troia, buisson oriental.
+□ 13 — Clairière au nord de Troia.
+□ 14 — Chambre d’Harley à Damcyan, côté ouest du château, bibliothèque.
+□ 15 — Tour est de Fabul, étage supérieur, bureau.
+□ 16 — Observatoire d’Agart après le passage de Titan.
+□ 17 — Tour ouest d’Eblan, 2F, pots.
+□ 18 — Troia, derrière l’armurerie.
+□ 19 — Lodestone B4, examiner le squelette près de la salle du cristal.
+□ 20 — Passage secret du château de Troia, à gauche de l’arche près de l’entrée, après Shiva.
+□ 21 — Cave d’Eblan, chemin vers la Tour de Babil 1, sur le rocher.
+
+Queues de couleur et échanges
+
+□ Rainbow Tail → Limit Ring → Made to Be Broken.
+□ Green Tail → Rare Band V2 → Affect of the Exotic.
+□ Red Tail → Level Band V2 → Quick Learner.
+□ Black Tail → Twin Stars → Starstruck.
+□ Purple Tail → Treasure Hunter V2 → One Man’s Trash.
+□ White Tail → Rapid Ring V2 → With a Quickness.
+□ Gold Tail → Gil Band V2 → Get Rich or Die Tryin’.
+□ Gray Tail → Reach Ring → Cool Kids Sit in the Back.
+□ Ebony Tail → Provoke Ring V2 → Come At Me, Bro.
+□ Blue Tail → Blue Armor → True Blue.
+□ Pink Tail → Pink Armor → Pretty in Pink.
+
+Farm des queues rares
+
+□ Blue Tail : Thunder Dragon dans le Lair of Father B2, pleine lune. Alternative : Grotte de Mist de Ceodore, pleine lune.
+□ Green Tail : Green Dragon dans le Lair of Father B1, lune décroissante. Alternative : Mine d’Agart de Rydia, lune décroissante.
+□ Gray Tail : Gray Coeurl isolé sur la Lune, lune décroissante. Ne pas confondre avec un groupe de Coeurls.
+□ Black Tail : Shadow Dragon isolé dans la Profondeur B5, lune croissante. Alternative fixe : Pub impérial de Palom.
+□ Ebony Tail : Ebony Dragon isolé dans la Profondeur B4, lune nouvelle. Alternative : Tunnel lunaire ouest, lune nouvelle.
+□ White Tail : White Dragon isolé dans le Tunnel lunaire ouest, lune croissante. Alternative : Mont Ordeals de Porom.
+□ Pink Tail : Flan Princess dans la Profondeur B5, pleine lune. C’est le farm le plus long et le plus aléatoire.
+□ Purple Tail : Behemoth isolé dans la Profondeur B7, lune nouvelle. Alternative : chemin d’Edge vers la Tour de Babil, lune nouvelle.
+□ Gold Tail : Gold Dragon isolé en Profondeur B11, pleine lune. Alternative fixe : échange d’Edward.
+□ Red Tail : Red Dragon isolé en Profondeur B9, lune nouvelle. Alternative fixe : Impact Crater de Yang.
+□ Pour répéter un échange : sauvegarder devant le collecteur de la Cave d’Eblan, échanger, aller voir le marchand, puis recharger si une autre queue est nécessaire.
+□ Acheter les quatre Rare Bands du Shoppingway dans la zone finale si tu veux maximiser les statistiques.
+
+LES 8 LUSTFUL LALI-HOS
+
+□ 1 — Ceodore : maison de Cid à Baron, bibliothèque en haut à gauche.
+□ 2 — Yang : Tour est de Fabul, dernier étage, lit de gauche.
+□ 3 — Palom : Pub impérial de Troia, coffre du spectacle après achat du Member’s Writ.
+□ 4 — Edge : Tour ouest d’Eblan, dernier étage, sous le lit d’Edge.
+□ 5 — Edward : entrée du château de Damcyan, plate-bande de gauche.
+□ 6 — Kain : maison supérieure droite de Kaipo, lit de gauche.
+□ 7 — Lunariens : Chambre du sommeil, près du Lunarian endormi au début de la Tale.
+□ 8 — The Crystals : Profondeurs, zone ??? au deuxième étage, sur le lit après avoir débloqué le téléporteur du Vaisseau lunaire.
+□ Les magazines n’ont pas besoin d’être conservés après ramassage : la validation se déclenche à l’obtention.
+□ I Read It for the Articles se débloque au huitième magazine.
+
+DONJONS DE DÉFI — À FAIRE APRÈS CHAQUE TALE
+
+Accès et méthode
+
+□ Après une Tale terminée, parler au Challengingway et charger les données de fin.
+□ Faire le donjon de défi avant d’avancer trop loin dans la Tale suivante.
+□ Les étages et certains coffres sont générés avec une part d’aléatoire : refaire un étage si le butin attendu n’apparaît pas.
+□ Les récompenses fixes importantes incluent Adamantite, équipements de fin, accessoires et parfois un Lustful Lali-Ho supplémentaire.
+□ Les monstres de coffre des donjons de défi comptent pour le bestiaire.
+
+Ceodore
+
+□ Refaire le donjon jusqu’à obtenir Adamantite et les pièces Mythril Sword, Mythril Shield, Mythril Helm, Mythril Armor et Mythril Gauntlets.
+□ Contrôler le Flan Ring et les monstres de coffre.
+
+Rydia
+
+□ Contrôler le Sprint Ring, le Gold Hairpin, la Black Robe et le Gaia Hammer lorsqu’ils apparaissent.
+□ Refaire le donjon pour les coffres rares et l’Adamantite.
+
+Yang
+
+□ Utiliser le donjon d’entraînement pour atteindre le niveau 30 si nécessaire.
+□ Refaire les étages pour les pièces de défense et les coffres de fin.
+
+Palom
+
+□ Finir le Flan Floor et ses combats de coffre.
+□ Refaire le dernier étage pour les objets rares et l’Adamantite.
+
+Edge
+
+□ Contrôler les coffres de mission, notamment le Black Belt Gi et le Mythril Hammer du 2F lorsque la génération les place.
+□ Vérifier chaque ninja avant de quitter le donjon.
+
+Porom
+
+□ Récupérer les accessoires de magie et tous les coffres de fin.
+□ Contrôler les monstres de coffre sans fuir.
+
+Edward
+
+□ Chercher Ice Whip, Muse Harp, les coffres rares et l’Adamantite.
+□ Utiliser Edward pour les combats de gils si le seuil de 500 000 n’est pas encore atteint.
+
+Kain et Lunariens
+
+□ Kain : visiter l’Ancient Castle ; contrôler Ice Shield, Golden Apple et Ice Armor.
+□ Lunariens : visiter Hummingway Cave / Lunar Face et obtenir les récompenses de fin.
+□ Garder les meilleures pièces dans l’inventaire au lieu de les vendre.
+
+CONTRÔLE DE SORTIE — DONJONS DE DÉFI
+
+□ Chaque Tale terminée possède un donjon de défi visité.
+□ Chaque Adamantite de donjon a été notée.
+□ Les objets rares sont dans l’inventaire ou dans une sauvegarde contrôlée.
+□ Aucun monstre de coffre n’a été fui.
+
+TALE DE RASSEMBLEMENT — THE CRYSTALS
+
+Objectif : terminer le grand nettoyage, débloquer les bandes, obtenir les dernières petites queues et préparer la route finale.
+
+Avant de partir
+
+□ Importer les sauvegardes de fin de toutes les Tales.
+□ Vérifier la présence de Luca, Rydia, Edge, Golbez, Ceodore, Cecil, Rosa, Kain, Cid, Yang, Palom, Porom, Edward, Ursula, Leonora, Harley, Calca, Brina et les quatre ninjas.
+□ Les niveaux importés sont généralement conservés ; si une donnée n’a pas été importée, les niveaux de départ peuvent être Luca 25, Rydia 25, Edge 25, Golbez 30, Ceodore 25, Cecil 40, Rosa 30, Kain 30, Cid 30, Yang 25, Palom 25, Porom 25 et Edward 20.
+□ Vérifier que les quatre ninjas, Harley et les poupées ont été importés.
+□ Acheter des Tentes, Remèdes, Queues de phénix et objets de lune.
+□ Garder au moins 500 000 gils non dépensés avant la fin de la progression économique.
+
+Baron et monde extérieur
+
+□ Refaire Baron pour les coffres et la petite queue du nord-ouest si elle n’a pas été prise.
+□ Faire le balayage des 21 petites queues fixes.
+□ Acheter les armes et armures qui manquent à l’équipe, mais ne pas dépenser les gils réservés aux succès.
+□ Débloquer les magasins du Shoppingway dès que possible.
+
+Chasse au trésor mondiale
+
+□ Suivre la chasse au trésor dans l’ordre proposé par le jeu.
+□ Récupérer Small Tail x12.
+□ Récupérer Faerie Rod.
+□ Récupérer Small Tale.
+□ Récupérer Ribbon dans le combat de coffre Armor Construct.
+□ Récupérer Mage Masher.
+□ Récupérer Black Belt Gi.
+□ Récupérer Luminous Robe.
+□ Récupérer Elixir.
+□ Récupérer Diamond Armor dans le combat Fell Knights / Imps.
+□ Récupérer Ice Whip.
+□ Récupérer l’invocation Chocobo dans la forêt de chocobos à l’ouest de Damcyan.
+□ Tuer les ennemis de coffre de la chasse au trésor : la fuite annule le contrôle.
+
+Bandes de la Tale de rassemblement
+
+□ Vibra Edge — Biggs + Wedge, événement du Prologue.
+□ Holy Blade — Cecil + Rosa.
+□ Machine Break — Cecil + Cid.
+□ Cross Slash — Hooded Man + Ceodore, événement.
+□ Lightning Brain Buster — Rydia + Luca.
+□ Calca and Brina, Go! / Calcabrina! — Luca + Calca + Brina.
+□ Five Star Crimson Palm — Yang + Ursula.
+□ Twin Wing Frenzy — événement de Yang.
+□ A Little Black Magic — Palom + Leonora.
+□ Particle Bomb — événement de Palom.
+□ Wild Moon — Edge + Tsukinowa.
+□ Frozen Moon Dance — Edge + Izayoi.
+□ Gale Twin Break — Edge + Zangetsu.
+□ Gale Rush — Tsukinowa + Zangetsu.
+□ Blazing Moon Ring — Edge + Gekkou.
+□ Phantom Lightflies — Izayoi + Gekkou.
+□ Wheel of Elements — Edge + les quatre ninjas.
+□ Advent of Phoenix — Edge + les quatre ninjas.
+□ Twincast — jeune Palom + jeune Porom, déjà au niveau maximal dans la progression prévue.
+□ Thunderstorm — Rydia + Palom.
+□ Feast of the Land — Edward + Harley.
+□ Divine Heal — Ceodore + Rosa.
+□ Rocket Launcher — Ceodore + Cid.
+□ Cross Slash Prime — Ceodore + Kain.
+□ X Chaser — Rosa Aim + Cid Analyze.
+□ Saint Dive — Rosa + Kain.
+□ Aiming Thrust — Cid + Kain.
+□ Double Black Magic — Golbez + Fusoya, événement.
+□ Broken Heart — Rydia + Edge.
+□ Flare Tornado — Rydia + Edge + Luca.
+□ Inferno — Rydia + Edge, événement.
+□ Thunder Wave — Ceodore + Rydia.
+□ Holy Burst — Rydia + Rosa.
+□ Apprendre immédiatement chaque nouvelle bande dans le menu des capacités.
+□ Faire au moins une utilisation de chaque bande afin de confirmer qu’elle est enregistrée.
+□ B.F.F. : choisir une bande facile, l’utiliser souvent et la monter au niveau maximal.
+□ Ne pas vendre les armes spéciales : Double Tomahawk et les armes/objets requis par les bandes avancées sont nécessaires plus tard.
+
+Route de la Tale de rassemblement
+
+□ Suivre l’objectif The Moon’s Gravity.
+□ Faire Baron, Mist, Kaipo, Damcyan, Fabul, Agart, Eblan et Troia dans l’ordre des missions affichées.
+□ Retourner dans chaque ville après les événements pour ouvrir les passages devenus accessibles.
+□ Visiter la forêt de chocobos à l’ouest de Damcyan et obtenir Chocobo.
+□ Dans les zones de forêt, contrôler les petits monstres absents du bestiaire de chaque Tale.
+□ Préparer une équipe avec Rydia, un soigneur, un mage noir et deux combattants.
+□ Sauvegarder avant le dernier objectif de la Tale de rassemblement.
+□ Terminer et importer la sauvegarde.
+
+TRUE MOON — ROUTE CHRONOLOGIQUE
+
+Préparation
+
+□ Acheter les dernières Tentes et faire une sauvegarde manuelle dans le Vaisseau lunaire.
+□ Mettre Rydia dans l’équipe pour les combats Asura, Leviathan et Bahamut.
+□ Prendre une équipe avec soin de zone, magie noire, dégâts physiques et une capacité de fuite.
+□ Régler les phases de lune avec Tentes et repos : la zone suivante commence par la phase affichée, mais le farm doit être contrôlé sur place.
+
+Surface lunaire
+
+□ Contrôler Coeurl, Nescaliote, Backed Worm, Material, Micaliote et Lunar Virus.
+□ Sous lune décroissante, chercher le Gray Coeurl isolé et le Gray Tail.
+□ Ne pas confondre l’ennemi isolé avec les groupes de Coeurls ordinaires.
+□ Ouvrir tous les coffres de la surface avant de descendre.
+
+Profondeur — B1 à B3
+
+□ B1 : Decoy et les coffres de la boucle extérieure.
+□ Contrôler Amazon, Dark Grenade, Evil Dreamer, High Wizard, Black Flan, Prokaryote et Eukaryote.
+□ B2-B3 : ouvrir tous les coffres et contrôler les monstres de couloir.
+□ Sauvegarder avant la descente vers B4.
+
+Profondeur — B4
+
+□ Sous lune nouvelle, chercher Ebony Dragon isolé et Ebony Tail dans le passage sud-ouest.
+□ Ouvrir X-Potion, Red Fang et Blue Fang.
+□ Contrôler Bone Dragon, Baigan, Sandy, Cindy et Mindy.
+□ Combattre les monstres de coffre sans fuir.
+
+Profondeur — B5
+
+□ Ouvrir Éther et Corne de licorne.
+□ Sous lune croissante, chercher Shadow Dragon isolé dans la salle sud-ouest et son Black Tail.
+□ Sous pleine lune, farmer Flan Princess dans la salle sud-est pour le Pink Tail et l’invocation Bomb si elle est disponible dans ce secteur.
+□ La Pink Tail peut demander des centaines de combats : ne pas la considérer comme garantie rapide.
+□ Sauvegarder après chaque queue rare.
+
+Profondeur — B6 à B8
+
+□ B6 : contrôler les rencontres de la zone et les coffres latéraux.
+□ B7 : après Scarmiglione, prendre Stardust Rod.
+□ B7, sous lune nouvelle, chercher Behemoth isolé et Purple Tail.
+□ Contrôler Alvacimo, Dino Zombie, Shadow, Behemoth, Living Mail, Elder Treant, Wight, Skulnant et Revenant.
+□ Tunnel lunaire est : Almon, Green Cell, Crocodile, Sylvanpoth, Solid Shutter, Hydro Golem et White Dragon.
+□ B8 : prendre Sage Staff et Sage Robe après Cagnazzo.
+□ Contrôler King Toad et Cagnazzo.
+
+Profondeur — B9 à B12
+
+□ B9 : sous lune nouvelle, chercher Red Dragon isolé et Red Tail.
+□ B9 : prendre Éther et contrôler Catoblepas, Fiend Dragon et Duke Malboro dans les zones associées.
+□ B10 : prendre Croc rouge et Éther.
+□ B10 : contrôler Crystal Dragon et le monstre de coffre Lunar Odin ; récupérer Ragnarok après sa victoire.
+□ B11 : prendre Éther.
+□ Sous pleine lune, chercher Gold Dragon isolé et Gold Tail.
+□ B11 : contrôler Full Body, Proto Deathmask, bras et jambes si présents, puis Lunar Leviathan ; récupérer Hero’s Shield.
+□ B12 : contrôler Maenad et le monstre de coffre Lunar Bahamut avec Rydia active ; récupérer l’objet de coffre et l’entrée du bestiaire.
+□ Avant la salle de composition finale, sauvegarder dans un emplacement séparé.
+
+Choix de composition finale
+
+□ Pour la route 100 %, choisir la composition qui garde Cecil, Golbez, Ceodore et Rosa ensemble.
+□ Cette composition donne l’entrée de bestiaire finale attendue et évite la perte définitive de Golbez.
+□ Si le combat est terminé avec une mauvaise composition, recharger la sauvegarde placée avant le choix.
+□ Vérifier que toutes les entrées de personnages sont encore disponibles avant d’entrer dans les Profondeurs.
+
+PLANET EATER — PROFONDEURS FINALES
+
+B2 à B4
+
+□ B2 : contrôler Silver Dragon et Blue Dragon.
+□ B4 : ouvrir Protect Ring, X-Potion, Remedy et Brave Suit.
+□ Contrôler Chaos Knight, Sahagin Prince, Elite Trooper et Lamia Queen.
+□ Garder Rydia active avant le combat de Bahamut pour valider son invocation et son bestiaire.
+
+B6 à B9
+
+□ B6 : contrôler Dust Mousse, Bomb King et Malboro Menace.
+□ B8 : contrôler Chimera Geist, Coeurl Regina et Deathmask.
+□ B9 : contrôler Catoblepas, Fiend Dragon et Duke Malboro.
+□ Ouvrir tous les coffres latéraux avant de descendre.
+
+B10 — Ragnarok
+
+□ Contrôler Crystal Dragon.
+□ Tuer le monstre de coffre Lunar Odin.
+□ Obtenir Ragnarok et vérifier To the Moon and Back.
+
+B11 — Hero’s Shield
+
+□ Contrôler Full Body, Proto Deathmask, Right Arm, Right Foot, Left Arm et Left Foot.
+□ Tuer le monstre de coffre Lunar Leviathan.
+□ Obtenir Hero’s Shield et vérifier Bodacious Aegis.
+
+B12 — dernière invocation
+
+□ Contrôler Maenad 1 et Maenad 2.
+□ Tuer le monstre de coffre Lunar Bahamut avec Rydia active.
+□ Vérifier Say Hello to My Little Friends si toutes les invocations rares sont enregistrées.
+□ Conserver une sauvegarde avant le dernier combat.
+
+Profondeur B15 — Dualcast et Ultima Weapon
+
+□ Côté nord : Lunar Gloves, Éther sec, Elixir et les coffres de la boucle.
+□ Côté sud : contrôler Death Gaze si le combat est disponible.
+□ Après la victoire contre Death Gaze, toucher le cristal pour enseigner Dualcast à Palom, Porom ou Leonora ; ils n’ont pas besoin d’être dans l’équipe.
+□ Obtenir Ultima Weapon dans la séquence prévue par le cristal/combattant optionnel.
+□ Le succès This Is a Knife correspond à l’obtention d’Ultima Weapon selon la liste Steam.
+□ Ouvrir Remedy et Light Curtain.
+□ Sauvegarder séparément après Dualcast et Ultima Weapon.
+
+Derniers étages
+
+□ Revenir dans les étages précédents pour les queues rares qui manquent.
+□ Vérifier les entrées de bestiaire de chaque Profondeur avant le combat final.
+□ Faire un dernier tour de magasins, d’échanges de queues et de coffres.
+□ Terminer le jeu seulement quand les succès de collection, de bandes et de bestiaire sont prêts.
+□ Crystal Savior se débloque en terminant le jeu.
+
+BESTIAIRE 100 % — ROUTE DE CONTRÔLE
+
+Méthode
+
+□ Dans le menu Bestiaire, vérifier Tale par Tale, puis la liste globale.
+□ Une entrée de monstre de coffre apparaît seulement après avoir vaincu le monstre.
+□ Pour les Œufs mystérieux, faire apparaître et tuer le monstre invoqué puis contrôler l’entrée.
+□ Pour les Portes-pièges, contrôler la porte elle-même et les monstres invoqués.
+□ Pour les variantes de boss ou de branches, sauvegarder avant le combat et recharger pour faire l’autre version.
+□ Pour les dragons lunaires, préparer les phases de lune avant le combat.
+□ Pour les monstres des Tales fermées, utiliser la sauvegarde de fin ou le donjon de défi correspondant.
+
+Ceodore — zones et contrôles rares
+
+□ Île Adamant : Gargouille, Gobelin, Rat-épée, Helldiver, Œil flottant.
+□ Grotte adamantine : Larve, Papillon ailé, Ver des sables.
+□ Airship : Ahriman et Belphegor.
+□ Château de Baron : Ogre, Gatlinghog, Spectre, Cockatrice, Squelette, Esprit, Domovoi, Chauve-souris de grotte, Lilyth, Revenant, Strato Avis et Bahamut.
+□ Overworld Baron/Mysidia : Flamehound, Bombe grise, Bombe, Tiny Mage, Zu, Serpent Ettin et Needlehog.
+□ Devil’s Road : Yellow Jelly, Âme, Ossements sanglants et Zombie.
+□ Old Waterway : Alligator, Gigas Gator, Lézard noir de coffre, Splasher, Castanet du diable, Baron Guardsman, Hydra, Fangshell, Flood Worm et Electrofish.
+□ Grotte de Mist : Cave Naga, Cait Sith, Centaure chevalier, Succube, Mousse violette, Mindflayer, Fell Turtle de coffre sous pleine lune, Thunder Dragon sous pleine lune et Tunneler.
+
+Rydia — zones et contrôles rares
+
+□ Passage des Eidolons : Yellow Jelly, Larve, Gobelin, Ver des sables, Domovoi, Papillon ailé et Œil flottant.
+□ Monde souterrain : Gargouille, Gatlinghog, Zu, Basilic, Bombe grise, Bombe, Tiny Mage et Leshy.
+□ Grotte des Sylphes : Toadgre, Gigantoad, Spectre, Cockatrice, Squelette, Esprit, Âme, Ossements sanglants et Revenant.
+□ Grotte scellée : Porte-piège, Cave Naga, Ogre, Cait Sith, Capitaine gobelin, Sorcière, Serpent Ettin, Mousse violette, Chauve-souris, Fleur de sang, Hérisson, Lilyth, Mousse rouge et Mur démoniaque.
+□ Agart : Tréant, Dragon vert, Succube, Mindflayer, Œuf mystérieux, Agartoise, Poupée Quarto et Titan.
+□ Contrôler séparément la porte tuée directement et les deux monstres invoqués par les portes affaiblies.
+
+Yang — zones et contrôles rares
+
+□ Fabul : Gargouille, Gatlinghog, Gobelin, Esprit, Domovoi, Basilic, Bombe grise, Bombe, Tiny Mage et Leshy.
+□ Mont Hobs : Larve, Cockatrice, Zu rare, Squelette, Rat-épée, Zombie, Papillon ailé, Ossements sanglants et Maman bombe.
+□ Impact Crater : Alligator, Toadgre de mur, Gigas Gator rare, Gigantoad, Amibe, Splasher, Fangshell, Killer Fish, Flood Worm, Electrofish et Red Dragon sous lune nouvelle.
+□ Fabul/Île Adamant : Sahagin, Kain, Capitaine, Marine de Baron, Spectre, Âme, Hydra, Lilyth, Revenant et Adamantoise.
+
+Palom — zones et contrôles rares
+
+□ Troia sud/est : Larve, Cockatrice, Gobelin, Rat-épée, Helldiver, Œil flottant, Gargouille, Squelette, Esprit, Papillon ailé et Bombe.
+□ Tour des épreuves : Yellow Jelly, Âme, Ossements sanglants, Mousse rouge, Poupées de tonnerre/feu/glace et trois Mini-Flans.
+□ Voie navigable : Alligator, Will Priest, Gigas Gator, Gigantoad, Sahagin, Splasher, Castanet du diable, Hydra, Fangshell, Killer Fish, Flood Worm, Tiny Mage et Electrofish.
+□ Lodestone : Cave Naga, Cait Sith, Serpent Ettin, Succube rare, Chauve-souris de grotte, Needlehog, Mindflayer, Lamage, Elfe noir, Dragon noir et Mysterious Girl.
+□ Contrôler Mindflayer et son invocation avant la sauvegarde de fin.
+
+Edge — zones et contrôles rares
+
+□ Izayoi : Larve, Gargouille, Cliff Eagle, Helldiver, Papillon ailé, Œil flottant, Zu et Cockatrice.
+□ Tsukinowa : Spectre, Sky Pupil, Zombie, Navy Moth, Wild Bat, Gobelin, Esprit, Rat-épée et Domovoi.
+□ Zangetsu : Yellow Jelly, Toadgre, Sahagin, Amibe et Belphegor.
+□ Gekkou : Gigantoad, Squelette, Ossements sanglants et Mousse rouge.
+□ Cave d’Eblan : Âme, Chauve-souris, Behemoth sous lune nouvelle, Needlehog issu d’Œuf, Œuf mystérieux et Lilyth issue d’Œuf.
+□ Tour de Babil : Flamehound, Belphegor, Proto Clockwork, Beam Cannon, Cave Naga, Ogre, Cait Sith, Serpent Ettin, Succube, Frostbeast, Needlehog, Mindflayer, Armadillo, Lézard noir, Centaure chevalier, Capitaine gobelin, Sorcière, Mousse violette, Chauve-souris de sang, Tortue de magma, Ifrit et Mysterious Girl.
+
+Porom — zones et contrôles rares
+
+□ Voie navigable : Alligator, Yellow Jelly, Toadgre, Gigantoad, Spectre, Amibe, Zombie, Fangshell et Killer Fish.
+□ Lac : Sahagin, Splasher, Tiny Mage, Cooler Mammoth et Leeches.
+□ Passage : Tréant, Gargouille, Cait Sith, Serpent Ettin, Mortblossom, Bombe grise, Hérisson et Bombe.
+□ Mysidia : Gatlinghog, Cockatrice, Gobelin, Zu, Rat-épée et Domovoi.
+□ Mont Ordeals : Necrodium, Squelette, Skeleripper, Esprit, Âme, Ossements sanglants, Evil Flame rare, Lilyth et Revenant.
+□ Extérieur nord-est : White Dragon sous lune croissante et White Tail.
+
+Edward — zones et contrôles rares
+
+□ Damcyan : Gatlinghog, Gobelin, Ver des sables, Rat-épée, Sahagin du désert, Domovoi et Hundlegs.
+□ Antlion’s Den : Adamantoise, Yellow Jelly, Spectre, Squelette, Esprit, Zombie, Basilic rare et Leshy.
+□ Impact Crater : Gargouille, Cockatrice, Zu rare, Bombe et Âme.
+□ Lac/Voie navigable : Alligator, Gigas Gator, Sahagin, Splasher et Revenant.
+□ Baron : Tréant rare, Mortblossom rare, Hydra, Ossements sanglants et Lilyth.
+
+Kain — zones et contrôles rares
+
+□ Mont Ordeals/Devil’s Road : Cave Naga, Ogre, Spectre, Squelette, Skeleripper, Âme, Ossements sanglants, Evil Flame, Hérisson, Lilyth, Revenant, Yellow Jelly, Gray Coeurl et Cait Sith.
+□ Baron/Mist : Lézard noir, Capitaine gobelin, Naga, Frostbeast, Ice Lizard, Flamehound, Fell Turtle, Helflapper, Gargouille, Cockatrice, Gobelin, Esprit, Rat-épée, Domovoi, Bombe grise et Bombe.
+□ Falaise de Mist : Œuf mystérieux et Méduse.
+□ Kaipo/Overworld : Tunneler, Zombie Infantry, Fleur de sang et Magma Tortoise rare.
+□ Voie navigable : Toadgre, Gigas Gator, Sahagin Knight, Chauve-souris de sang, Flaygator, Blaze Toad, Mizuchi, Golem de Mythril, Octokraken et quatre Octoleeches.
+
+Lunariens, True Moon et Planet Eater
+
+□ Surface : Coeurl, Gavel Worm, Caterpillar, Purple Bavarois, Black Flan, White Mousse, Mors et Balloon.
+□ Lair of Father B1 : Green Dragon sous lune décroissante, Green Dragon variante, Blast Golem, Storm Anima, Thunderbird et Lucifer.
+□ Lair of Father B2 : Clockwork Soldier, Beam Cannon, Centaurion, Thunder Dragon sous pleine lune et sa variante.
+□ Tower of Babil : Rubicante 2 et Rubicante 3, plus les variantes de la Giant of Babil.
+□ True Moon B1-B4 : Amazon, Dark Grenade, Evil Dreamer, High Wizard, Black Flan, Prokaryote, Eukaryote, Ebony Dragon, Bone Dragon, Baigan, Sandy, Cindy et Mindy.
+□ True Moon B5-B8 : Shadow Dragon, Flan Princess, Alvacimo, Dino Zombie, Shadow, Behemoth, Living Mail, Elder Treant, Wight, Skulnant, Revenant, Scarmiglione, Almon, Green Cell, Crocodile, Sylvanpoth, Solid Shutter, Hydro Golem, White Dragon, King Toad et Cagnazzo.
+□ Planet Eater B2-B4 : Silver Dragon, Blue Dragon, Chaos Knight, Sahagin Prince, Elite Trooper, Lamia Queen et Bahamut.
+□ Planet Eater B6-B9 : Dust Mousse, Bomb King, Malboro Menace, Chimera Geist, Coeurl Regina, Deathmask, Catoblepas, Fiend Dragon et Duke Malboro.
+□ Planet Eater B10-B12 : Crystal Dragon, Lunar Odin, Full Body, Proto Deathmask, bras/jambes, Lunar Leviathan, Maenad et Lunar Bahamut.
+□ Pour Beast Master, vérifier une dernière fois la liste globale et le pourcentage avant le dernier combat.
+
+CAPACITÉS DE BANDE — 100 %
+
+Règle de progression
+
+□ Une bande nouvellement apprise n’est pas forcément dans l’équipe active : vérifier le menu des capacités.
+□ Une bande avancée peut nécessiter une arme précise, une combinaison d’équipement ou un événement.
+□ Pour les bandes de fouet, équiper les fouets demandés à Rydia, Izayoi, Harley ou Leonora.
+□ Pour Mirage Song, équiper les harpes demandées à Edward.
+□ Pour Double Tomahawk, équiper les haches/marteaux requis à Cid et Luca.
+
+Bandes de True Moon et de fin
+
+□ Delta Evolution.
+□ Makeshift Cannon.
+□ Rapid Fire.
+□ Mirage Dive.
+□ Holy Ray.
+□ Pure White Magic.
+□ Infinity.
+□ Double Tomahawk — Cid + Luca avec l’équipement requis.
+□ Sylph Protection — Rydia + Yang.
+□ Thunderstorm.
+□ Tri-Disaster.
+□ Wild Whip — Rydia + Izayoi + Harley avec les fouets requis.
+□ Call Me Queen — Rydia + Izayoi + Harley + Leonora avec les fouets requis.
+□ Mirage Song — Rydia + Edward avec les harpes requises.
+□ Petal Whirlwind.
+□ Palom in the Sky.
+□ Mecha-kite.
+□ Mystic Waltz.
+□ Exploding Kick.
+□ Fist Dance.
+□ Frost Wave.
+□ Sprite Bred.
+□ Healing Wind.
+□ Twin Rush — événement.
+□ Twincast — événement.
+□ Ice Crush — événement.
+□ Final Calcabrina — événement.
+□ Oboro Strike — événement.
+□ Vibra Plus.
+□ Vibra Prime.
+□ Holy Cross.
+□ Sword and Fist.
+□ Sky Grinder.
+□ Trinity Crusade.
+□ Effect Form.
+□ Final Fantasy.
+□ Iron Flash.
+□ Twin Drive.
+□ King’s Quad.
+□ Break Breaker.
+□ Sword Dance.
+□ Advanced Blade.
+□ Double Pressure.
+□ Ultima Spark.
+□ Spiral Blow — événement.
+□ Double Jump — événement.
+□ Apprendre chaque bande avant de fermer la zone où elle est débloquée.
+□ Utiliser chaque bande une fois en combat pour éviter une capacité oubliée dans la liste.
+□ Monter toutes les bandes au niveau maximal avant la fin du farm de niveaux.
+
+NIVEAUX, GILS ET COMBATS
+
+Niveaux
+
+□ Tous les personnages jouables à contrôler : Cecil, Rosa, Ceodore, Kain, Cid, Rydia, Edge, Luca, Yang, Ursula, Palom, Porom, Edward, Golbez, Leonora, Harley, Calca, Brina, Biggs, Wedge, Izayoi, Zangetsu, Gekkou et Tsukinowa.
+□ La liste de niveau 70 est à vérifier avec la liste des personnages réellement jouables dans la sauvegarde finale : les quatre ninjas comptent séparément.
+□ Monter les personnages fragiles par rotations dans une zone sûre plutôt que de laisser un seul groupe gagner toute l’expérience.
+□ Atteindre le niveau 30 avec tous les personnages pour All Grown Up.
+□ Atteindre le niveau 50 avec tous les personnages pour Mid-Life Crisis.
+□ Atteindre le niveau 70 avec tous les personnages pour Over the Hill.
+□ Faire une sauvegarde après chaque palier global.
+
+Gils
+
+□ Penny Pincher : avoir 10 000 gils.
+□ Money Grubber : avoir 50 000 gils.
+□ High Roller : avoir 200 000 gils.
+□ Rags to Riches : avoir 500 000 gils.
+□ Éviter les achats inutiles dès le début de The Crystals.
+□ Utiliser Gil Band V2 et les capacités d’Edward pendant le farm.
+□ Vérifier le total dans le menu, pas uniquement le montant reçu après un combat.
+
+Compteurs de combats
+
+□ A History of Violence : vaincre 100 ennemis.
+□ Don’t Cry Over Spilt Blood : vaincre 500 ennemis.
+□ Public Enemy : vaincre 1000 ennemis.
+□ Hear the Lamentations : vaincre 2000 ennemis.
+□ Ces quatre succès se débloquent naturellement si le bestiaire et les queues rares sont faits sans fuite excessive.
+
+INVO­CATIONS — CONTRÔLE FINAL
+
+□ Chocobo : forêt de chocobos à l’ouest de Damcyan, Tale de rassemblement.
+□ Gobelin : drop rare dans la Grotte des Sylphes B2 ou le Passage des Eidolons.
+□ Cockatrice : drop rare dans la Tour des épreuves d’Izayoi, de préférence sur un groupe de trois.
+□ Mindflayer : drop rare dans Lodestone B2 de Palom, avant fermeture de la Tale.
+□ Asura : vaincre Asura avec Rydia active dans la Tale des Lunariens / route finale.
+□ Leviathan : vaincre Leviathan avec Rydia active.
+□ Bahamut : vaincre Bahamut avec Rydia active dans la zone finale.
+□ Bomb : drop rare dans la Profondeur B5, salle sud-est, en même temps que le farm de Flan Princess lorsque la rencontre est disponible.
+□ I Choose You! : toutes les invocations non cachées.
+□ Say Hello to My Little Friends : toutes les invocations, y compris les rares.
+
+CHECKLIST FINALE — 50/50 SUCCÈS STEAM
+
+- [ ] The Very First Step — Commencer la Tale de Ceodore.
+- [ ] The Last of the Red Wings — Terminer la Tale de Ceodore.
+- [ ] The Eidolons Shackled — Terminer la Tale de Rydia.
+- [ ] The Master of Fabul — Terminer la Tale de Yang.
+- [ ] The Mage’s Voyage — Terminer la Tale de Palom.
+- [ ] The Pulse of Babil — Terminer la Tale d’Edge.
+- [ ] The Vanished Lunar Whale — Terminer la Tale de Porom.
+- [ ] Star-Crossed Damcyan — Terminer la Tale d’Edward.
+- [ ] Return of the Dragoon — Terminer la Tale de Kain.
+- [ ] The Blue Planet That Was — Terminer la Tale des Lunariens.
+- [ ] Crystal Savior — Terminer le jeu.
+- [ ] True Blue — Échanger une queue bleue contre la Blue Armor.
+- [ ] Affect of the Exotic — Obtenir une Rare Band.
+- [ ] Quick Learner — Échanger une queue rouge contre la Level Band.
+- [ ] Starstruck — Obtenir Twin Stars.
+- [ ] One Man’s Trash — Échanger une queue violette contre Treasure Hunter V2.
+- [ ] With a Quickness — Échanger une queue blanche contre Rapid Ring V2.
+- [ ] Get Rich or Die Tryin’ — Échanger une queue dorée contre Gil Band V2.
+- [ ] Cool Kids Sit in the Back — Échanger une queue grise contre Reach Ring.
+- [ ] Come At Me, Bro — Échanger une queue ébène contre Provoke Ring V2.
+- [ ] Made to Be Broken — Obtenir Limit Ring.
+- [ ] Pretty in Pink — Échanger une queue rose contre Pink Armor.
+- [ ] It Doesn’t Get Any Better Than This — Obtenir une pièce d’armure adamantine.
+- [ ] Bodacious Aegis — Obtenir Hero’s Shield.
+- [ ] This Is a Knife — Obtenir Ultima Weapon.
+- [ ] To the Moon and Back — Obtenir Ragnarok.
+- [ ] I Choose You! — Obtenir toutes les invocations non cachées.
+- [ ] Say Hello to My Little Friends — Obtenir toutes les invocations.
+- [ ] Twofer — Enseigner Dualcast à Palom, Porom ou Leonora.
+- [ ] Birds of a Feather — Apprendre 40 capacités de bande différentes.
+- [ ] Strength in Numbers — Apprendre toutes les capacités de bande.
+- [ ] B.F.F. — Monter une capacité de bande au niveau maximal.
+- [ ] Me and My Homies — Monter toutes les capacités de bande au niveau maximal.
+- [ ] All Grown Up — Monter tous les personnages au niveau 30.
+- [ ] Mid-Life Crisis — Monter tous les personnages au niveau 50.
+- [ ] Over the Hill — Monter tous les personnages au niveau 70.
+- [ ] Penny Pincher — Avoir 10 000 gils.
+- [ ] Money Grubber — Avoir 50 000 gils.
+- [ ] High Roller — Avoir 200 000 gils.
+- [ ] Rags to Riches — Avoir 500 000 gils.
+- [ ] A History of Violence — Vaincre 100 ennemis.
+- [ ] Don’t Cry Over Spilt Blood — Vaincre 500 ennemis.
+- [ ] Public Enemy — Vaincre 1000 ennemis.
+- [ ] Hear the Lamentations — Vaincre 2000 ennemis.
+- [ ] A Tale to Tell — Compléter 100 % du bestiaire d’une Tale.
+- [ ] Taming the Wild — Compléter 30 % du bestiaire.
+- [ ] The Point of No Return — Compléter 60 % du bestiaire.
+- [ ] Beast Master — Compléter 100 % du bestiaire.
+- [ ] I Read It for the Articles — Collecter les 8 Lustful Lali-Hos.
+- [ ] Been There, Done That — Obtenir tous les autres succès.
+
+ORDRE DE VALIDATION AVANT LE DERNIER COMBAT
+
+□ Les 8 magazines sont enregistrés.
+□ Les 21 petites queues fixes sont ramassées.
+□ Les échanges de queues et les succès associés sont terminés.
+□ Les 8 invocations rares/non cachées sont obtenues.
+□ Ultima Weapon, Ragnarok et Hero’s Shield sont dans l’inventaire.
+□ Dualcast est appris.
+□ Tous les personnages sont disponibles et vivants.
+□ Toutes les bandes sont apprises et une bande est au niveau maximal.
+□ Le bestiaire est à 100 %.
+□ Tous les personnages sont au niveau 70.
+□ Le total de gils a atteint 500 000.
+□ Les compteurs de combats ont atteint 2000.
+□ La sauvegarde de sécurité finale est conservée.
+□ Terminer le jeu et vérifier Been There, Done That.
+
+SOURCES ET CONTRÔLE ÉDITORIAL
+
+Ce guide a été réorganisé et synthétisé pour proposer une route de jeu originale, sans recopier un walkthrough mot à mot. Les sources servent à contrôler les conditions Steam, les coffres, les queues, les magazines, les invocations et les bestiaires.
+
+□ Liste des succès Steam et conditions : https://truesteamachievements.com/game/FINAL-FANTASY-IV-THE-AFTER-YEARS/achievements
+□ Guide de collecte Steam : https://steamcommunity.com/sharedfiles/filedetails/?id=441388203
+□ Guide Steam walkthrough et succès : https://steamcommunity.com/sharedfiles/filedetails/?id=3668379604
+□ Soluce détaillée et tables de coffres : https://gamefaqs.gamespot.com/pc/150095-final-fantasy-iv-the-after-years/faqs/56945
+□ Ordre des chapitres et zones : https://strategywiki.org/wiki/Final_Fantasy_IV%3A_The_After_Years/Walkthrough
+
+FIN DE FICHE — NE PAS FERMER LA SAUVEGARDE DE SÉCURITÉ AVANT D’AVOIR CONTRÔLÉ LES 50 CASES.
