@@ -148,6 +148,10 @@
     { "id": "stronghold-hd", "title": "Stronghold HD", "scope": "special", "status": "draft", "file": "public/guides/stronghold-hd.txt", "reason": "L'AppID Steam 40950 n'expose pas de succes Steam : guide de campagne, economie et sieges transparent." },
     { "id": "stronghold-3", "title": "Stronghold 3 Gold", "scope": "special", "status": "draft", "file": "public/guides/stronghold-3.txt", "reason": "L'AppID Steam 47400 n'expose pas de succes Steam : guide des trois campagnes et des sieges historiques transparent." },
     { "id": "stronghold-crusader-2", "title": "Stronghold Crusader 2", "scope": "full-guide", "status": "draft", "file": "public/guides/stronghold-crusader-2.txt" },
-    { "id": "stronghold-warlords", "title": "Stronghold: Warlords", "scope": "full-guide", "status": "draft", "file": "public/guides/stronghold-warlords.txt" }
+    { "id": "stronghold-warlords", "title": "Stronghold: Warlords", "scope": "full-guide", "status": "draft", "file": "public/guides/stronghold-warlords.txt" },
+    { "id": "dead-island", "title": "Dead Island", "scope": "full-guide", "status": "draft", "file": "public/guides/dead-island.txt" },
+    { "id": "oddworld-abes-oddysee", "title": "Oddworld: Abe's Oddysee", "scope": "special", "status": "draft", "file": "public/guides/oddworld-abes-oddysee.txt", "reason": "L'AppID Steam 15700 n'expose pas de succes Steam : soluce de campagne et de completion des Mudokons sans faux 100 % Steam." },
+    { "id": "oddworld-new-n-tasty", "title": "Oddworld: New 'n' Tasty!", "scope": "full-guide", "status": "draft", "file": "public/guides/oddworld-new-n-tasty.txt" },
+    { "id": "oddworld-soulstorm", "title": "Oddworld: Soulstorm Enhanced Edition", "scope": "full-guide", "status": "draft", "file": "public/guides/oddworld-soulstorm.txt" }
   ]
 }

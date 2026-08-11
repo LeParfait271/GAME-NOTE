@@ -2261,6 +2261,70 @@ const guides: Guide[] = [
       "A surveiller : les runs sans poulets, les campagnes Hard/Extreme et les parties personnalisees.",
     meta: ["102/102 Steam", "9 campagnes", "DLC et trails"],
   },
+  {
+    id: "dead-island",
+    steamAppId: 91310,
+    title: "Dead Island",
+    eyebrow: "Techland",
+    subtitle: "Campagne, cooperation et farms dans l'ordre.",
+    count: "48 succes Steam",
+    file: "dead-island.txt",
+    accent: "coral",
+    tag: "Guide 100 % Steam",
+    description:
+      "Route des quatre actes, collectibles, armes, combats, niveaux et cooperation.",
+    highlight:
+      "A surveiller : les partenaires cooperatifs, les quatre personnages, les 120 collectibles et les farms de combat.",
+    meta: ["48/48 Steam", "4 actes", "Coop et collectibles"],
+  },
+  {
+    id: "oddworld-abes-oddysee",
+    steamAppId: 15700,
+    title: "Oddworld: Abe's Oddysee",
+    eyebrow: "Oddworld Inhabitants",
+    subtitle: "Campagne, Mudokons et passages secrets dans l'ordre.",
+    count: "0 succes Steam",
+    file: "oddworld-abes-oddysee.txt",
+    accent: "gold",
+    tag: "Soluce speciale",
+    description:
+      "Route de campagne, sauvetage des Mudokons, chants, puits de voyage et zones secretes.",
+    highlight:
+      "A surveiller : cet AppID n'expose pas de succes Steam ; la fiche suit la completion de campagne sans faux 100 %.",
+    meta: ["0/0 Steam", "Campagne", "Mudokons"],
+  },
+  {
+    id: "oddworld-new-n-tasty",
+    steamAppId: 314660,
+    title: "Oddworld: New 'n' Tasty!",
+    eyebrow: "Oddworld Inhabitants",
+    subtitle: "Mudokons, runs de difficulte et objectifs caches dans l'ordre.",
+    count: "35 succes Steam",
+    file: "oddworld-new-n-tasty.txt",
+    accent: "blue",
+    tag: "Guide 100 % Steam",
+    description:
+      "Route des 35 succes, sauvetages, entrees secretes, combats et runs Easy, Normal et Hard.",
+    highlight:
+      "A surveiller : les sauvegardes de difficulte, le run sans detection, les 99 kills et le temps de 3 heures.",
+    meta: ["35/35 Steam", "Mudokons", "Runs multiples"],
+  },
+  {
+    id: "oddworld-soulstorm",
+    steamAppId: 619390,
+    title: "Oddworld: Soulstorm Enhanced Edition",
+    eyebrow: "Oddworld Inhabitants",
+    subtitle: "Quarma, Mudokons, recettes et badges dans l'ordre.",
+    count: "32 succes Steam",
+    file: "oddworld-soulstorm.txt",
+    accent: "coral",
+    tag: "Guide 100 % Steam",
+    description:
+      "Route des 32 succes, campagnes Quarma, crafting, recettes, badges et runs sans mort.",
+    highlight:
+      "A surveiller : les branches GOOD/BAD, les 1000 Mudokons, les badges platine et le run sans mort.",
+    meta: ["32/32 Steam", "Quarma", "Badges et runs"],
+  },
 ];
 
 const steamHeaderUrl = (appId: number) =>

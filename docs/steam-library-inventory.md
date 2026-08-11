@@ -181,6 +181,13 @@ soluce chronologique classique n'apporterait rien.
 - Stronghold Crusader 2 — guide publie : 81/81 succes Steam, campagnes, trails et quatre DLC
 - Stronghold: Warlords — guide publie : 102/102 succes Steam, neuf campagnes, trails et DLC
 
+### Dead Island et Oddworld
+
+- Dead Island — guide publie : 48/48 succes Steam, quatre actes, cooperation et collectibles
+- Oddworld: Abe's Oddysee — soluce speciale publiee : AppID 15700, 0/0 succes Steam, campagne et Mudokons
+- Oddworld: New 'n' Tasty! — guide publie : 35/35 succes Steam, Mudokons, difficultes et runs
+- Oddworld: Soulstorm Enhanced Edition — guide publie : 32/32 succes Steam, Quarma, badges et runs
+
 ## Futurs guides chronologiques (`planned`)
 
 ### Final Fantasy et RPG proches
@@ -189,10 +196,6 @@ soluce chronologique classique n'apporterait rien.
 - Grim Dawn
 - The Witcher 3: Wild Hunt
 
-### Resident Evil et action-aventure
-
-- Dead Island
-
 ### Coopération ou campagne à route dédiée
 
 - The Escapists 2 — roadmap de défis plutôt que soluce classique
@@ -200,9 +203,6 @@ soluce chronologique classique n'apporterait rien.
 
 ### Oddworld, stratégie et jeux à campagne
 
-- Oddworld: Abe's Oddysee
-- Oddworld: New 'n' Tasty!
-- Oddworld: Soulstorm Enhanced Edition
 - Age of Empires II (2013) — campagnes et succès, périmètre à confirmer
 - Company of Heroes — campagne, version à confirmer
 - Company of Heroes 2 — succès online à auditer

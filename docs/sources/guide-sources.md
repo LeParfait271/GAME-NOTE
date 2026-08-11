@@ -1318,3 +1318,24 @@ conditions difficiles ; elles ne justifient jamais une copie mot a mot.
   https://store.steampowered.com/app/907650/Stronghold_Warlords/
 - Liste complete Stronghold: Warlords, DLC, difficultes et trails :
   https://www.exophase.com/game/stronghold-warlords-steam/achievements/
+
+## DEAD ISLAND ET ODDWORLD
+
+- Succes officiels Dead Island, AppID 91310, total 48 :
+  https://steamcommunity.com/stats/91310/achievements
+- Fiche Steam Dead Island, campagne originale et cooperation :
+  https://store.steampowered.com/app/91310/Dead_Island/
+- Liste complete Dead Island, 48 succes et objectifs cooperatifs :
+  https://www.exophase.com/game/dead-island-steam/achievements/
+- Fiche Steam Oddworld: Abe's Oddysee, AppID 15700, sans succes Steam :
+  https://store.steampowered.com/app/15700/Oddworld_Abes_Oddysee/
+- Fiche Steam Oddworld: New 'n' Tasty!, AppID 314660, total 35 :
+  https://store.steampowered.com/app/314660/Oddworld_New_n_Tasty/
+- Succes officiels Oddworld: New 'n' Tasty!, AppID 314660 :
+  https://steamcommunity.com/stats/314660/achievements
+- Liste detaillee des objectifs New 'n' Tasty! et des objectifs caches :
+  https://oddworld.fandom.com/wiki/Achievements_%28Oddworld%3A_New_%27n%27_Tasty%29
+- Fiche Steam Oddworld: Soulstorm Enhanced Edition, AppID 619390, total 32 :
+  https://store.steampowered.com/app/619390/Oddworld_Soulstorm_Enhanced_Edition/
+- Succes officiels Oddworld: Soulstorm, AppID 619390 :
+  https://steamcommunity.com/stats/619390/achievements

@@ -142,6 +142,10 @@
     { "id": "stronghold-hd", "appId": 40950, "steamAchievements": 0, "guideType": "special-no-steam-achievements-campaign-sieges", "source": "https://store.steampowered.com/app/40950/Stronghold_HD/" },
     { "id": "stronghold-3", "appId": 47400, "steamAchievements": 0, "guideType": "special-no-steam-achievements-three-campaigns", "source": "https://store.steampowered.com/app/47400/Stronghold_3/" },
     { "id": "stronghold-crusader-2", "appId": 232890, "steamAchievements": 81, "guideType": "100-steam-campaign-trails-dlc-multiplayer", "source": "https://steamcommunity.com/stats/232890/achievements" },
-    { "id": "stronghold-warlords", "appId": 907650, "steamAchievements": 102, "guideType": "100-steam-campaigns-dlc-trails-multiplayer", "source": "https://steamcommunity.com/stats/907650/achievements" }
+    { "id": "stronghold-warlords", "appId": 907650, "steamAchievements": 102, "guideType": "100-steam-campaigns-dlc-trails-multiplayer", "source": "https://steamcommunity.com/stats/907650/achievements" },
+    { "id": "dead-island", "appId": 91310, "steamAchievements": 48, "guideType": "100-steam-campaign-coop-collectibles", "source": "https://steamcommunity.com/stats/91310/achievements" },
+    { "id": "oddworld-abes-oddysee", "appId": 15700, "steamAchievements": 0, "guideType": "special-no-steam-achievements-campaign-mudokons", "source": "https://store.steampowered.com/app/15700/Oddworld_Abes_Oddysee/" },
+    { "id": "oddworld-new-n-tasty", "appId": 314660, "steamAchievements": 35, "guideType": "100-steam-mudokons-multiple-runs", "source": "https://steamcommunity.com/stats/314660/achievements" },
+    { "id": "oddworld-soulstorm", "appId": 619390, "steamAchievements": 32, "guideType": "100-steam-quarma-badges-multiple-runs", "source": "https://steamcommunity.com/stats/619390/achievements" }
   ]
 }
