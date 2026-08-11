@@ -1,193 +1,512 @@
 A PLAGUE TALE: INNOCENCE
-GUIDE CHRONOLOGIQUE 100 % STEAM - SANS SPOILER
+FICHE PREMIUM 100 % STEAM - ROUTE CHRONOLOGIQUE - SANS SPOILER NARRATIF
 
-Version de travail : 10 aout 2026
+Version verifiee : 11 aout 2026
+AppID Steam : 752590
+Perimetre : 35 succes Steam, 16 chapitres, 55 collectibles, alchimie,
+ameliorations de fronde et d'equipement, actions de chapitre et chariots
+d'alchimiste.
 
-Ce guide couvre les 35 succes Steam, les 50 collectibles et les 5 chariots
-d'alchimiste. Il n'y a pas de DLC ni de succes en ligne. Les collectibles
-peuvent etre repris par selection de chapitre ; la progression est enregistree
-au moment de l'interaction, ce qui permet un nettoyage sans refaire toute la
-campagne.
+Cette fiche donne le chemin, les detours, les objets et les conditions exactes
+sans raconter l'histoire. Les noms de chapitres, de lieux, de personnages et
+d'objets servent uniquement de repere. Aucun twist, identite, mort, issue ou
+consequence narrative n'est explique.
 
-OBJECTIF
+OBJECTIF DU 100 %
 
-[ ] 35/35 succes Steam.
-[ ] 11 cadeaux, 26 curiosites et 13 fleurs.
-[ ] 5 chariots d'alchimiste.
-[ ] Tous les succes de chapitre, d'alchimie et d'actions specifiques.
-[ ] Une sauvegarde finale propre, sans detail narratif revele.
+- Terminer les chapitres I a XVI et l'epilogue.
+- Trouver les 11 cadeaux, 26 curiosites et 13 fleurs de l'herbier.
+- Entrer dans les 5 chariots d'alchimiste.
+- Fabriquer 100 munitions d'alchimie.
+- Ameliorer completement la fronde et l'equipement.
+- Valider les actions ponctuelles : entrainement, pomme, cache-cache, soldat,
+  gardes mourants, tombe, entree principale, forge et capitaine.
+- Utiliser la selection de chapitre pour tout rattrapage au lieu de refaire la
+  campagne complete.
 
-GARDE-FOUS
+COLLECTIBLES : REGLE DE SAUVEGARDE
 
-- Fais une premiere partie en suivant les chapitres ci-dessous. Les numeros
-  sont des reperes pratiques : ils ne revelent aucun evenement de l'histoire.
-- Avant de quitter une zone, verifie le cadeau, la curiosite, la fleur et le
-  chariot du chapitre. Si un objet manque, utilise la selection de chapitre
-  plutot que de recommencer depuis le debut.
-- Les succes d'action sont plus faciles a valider sur le premier passage :
-  More practice, Found!, Feeding the hungry, Savior, Merciful, Tribute,
-  Blacksmith et Captain Sidekick ont chacun une condition de zone.
-- Les noms de lieux, d'objets et de chapitres servent seulement a l'itineraire.
-  Aucune mort, identite, trahison, fin ou consequence narrative n'est
-  expliquee.
+- Il y a 55 objets suivis dans le Codex : 11 cadeaux, 26 curiosites et 13
+  fleurs. Les 5 chariots ne sont pas toujours affiches dans le Codex : note-les
+  separement.
+- Une interaction est enregistree des que l'objet est ramasse ou que le chariot
+  est visite. Attends l'icone de sauvegarde avant de quitter.
+- La selection de chapitre conserve la progression. Pour un objet manque, lance
+  le chapitre, prends l'objet, puis quitte : il n'est pas necessaire de finir le
+  chapitre pour conserver le collectible.
+- Dans l'ecran de selection, compare le Codex aux numeros de cette fiche. Une
+  fleur automatique avec Hugo compte comme une fleur ramassee.
+- Tous les chapitres I a XVI contiennent au moins un objet ; l'epilogue n'en a
+  pas. Ne perds pas de temps a chercher un collectible au chapitre XVII.
+
+ORDRE RECOMMANDE DES PARTIES
+
+1. Premiere partie : suis les chapitres ci-dessous, ramasse tous les objets,
+   entre dans les cinq chariots et realise les actions de fenetre.
+2. Pendant toute la partie : fouille les salles avant les portes de progression,
+   ramasse les materiaux et fabrique regulierement des munitions.
+3. Priorite d'amelioration : concentre d'abord les ressources sur la fronde ou
+   l'equipement, puis termine l'autre. Les deux peuvent etre complets en une
+   partie en fouillant soigneusement.
+4. Apres l'epilogue : ouvre le Codex et la selection de chapitre, puis rattrape
+   les collectibles et succes manquants un par un.
+
+GARDE-FOUS DE RESSOURCES
+
+- Fouille chaque coin, coffre et corps avant de quitter une zone. Les materiaux
+  servent a la fronde, aux poches, au sac de munitions et a l'attirail.
+- Ne fabrique pas de Luminosa par reflexe : elle coute cher et est surtout
+  necessaire pour ouvrir certains acces aux chariots d'alchimiste et aux fleurs.
+- Fabrique toutes les munitions utiles pour progresser, mais garde quelques
+  materiaux pour les ameliorations. Alchemist demande 100 projectiles cumules,
+  pas 100 types differents.
+- Les etablis d'amelioration se trouvent au fil des chapitres. Si une amelioration
+  est impossible, continue la fouille et utilise la selection de chapitre apres
+  la fin pour completer la categorie manquante.
+- Les actions de chapitre peuvent etre refaites depuis un checkpoint ou une
+  selection de chapitre. Sauvegarde avant la tentative et attends la notification.
 
 MISSABLES ET FENETRES A SECURISER
 
-- Les objets de collection sont recuperables par selection de chapitre : ils
-  ne sont pas missables definitivement, mais l'interaction doit etre faite
-  avant de quitter la zone pour enregistrer la progression.
-- More practice, Feeding the hungry, Savior, Tribute, Merciful, Found!,
-  Captain Sidekick et The Blacksmith sont des actions de fenetre. Fais une
-  sauvegarde avant leur sequence et verifie la notification avant de continuer.
-- Les cinq chariots et les curiosites doivent etre comptes par chapitre ; ne
-  confonds pas une fleur automatique avec une fleur a ramasser.
+- Les collectibles ne sont pas missables definitivement, mais les actions de
+  chapitre le sont dans leur sequence : More practice, Feeding the hungry,
+  Found!, Savior, Tribute, Merciful, The hard way, Captain Sidekick et The
+  Blacksmith ont chacun un moment precis.
+- Dans les chapitres VIII et XIV, fais le detour optionnel avant de suivre le
+  personnage qui lance la progression. Une porte peut ensuite se fermer.
+- Dans le chapitre IX, The hard way exige l'entree par la porte principale :
+  ne prends pas l'acces lateral avant de valider l'action.
+- Dans le chapitre XII, garde les deux gardes mourants en vie ; ne coupe pas
+  leurs lumieres et ne les tue pas pour ouvrir le chemin.
+- Dans le chapitre XIV, la fleur et Captain Sidekick sont dans la meme fenetre.
+  Si la position du checkpoint bloque l'une des deux actions, fais la fleur,
+  recharge le checkpoint et refais la route du capitaine.
 
-ROUTE CHRONOLOGIQUE
+PARTIE 1 - CHAPITRES I A IV
 
-CHAPITRE I - Les de Runes
+CHAPITRE I - THE DE RUNE LEGACY
 
-- Cadeau 1 : le Sifflet, en haut de l'echelle pres des ecuries.
-- Curiosite 1 : les Epices, dans la piece superieure apres les servantes.
-- Curiosite 2 : la Nappe, dans la chambre d'Amicia, avant la chambre de
-  Beatrice.
-- More practice : pendant l'entrainement de visée, detruis les 6 pots.
+Progression : The de Rune Legacy.
 
-CHAPITRE II - Les etrangers
+- Cadeau 1 - Whistle : derriere les ecuries, monte l'echelle puis prends le
+  sifflet sur la table en hauteur.
+- Curiosite 1 - Spices : apres l'entree dans le batiment principal, passe a
+  droite des deux servantes, monte l'echelle et prends les epices sur la table
+  au fond de la piece.
+- Curiosite 2 - Tablecloth : apres l'interaction obligatoire avec Louise,
+  suis la servante vers la chambre d'Amicia. Prends la nappe sur le lit avant
+  d'entrer dans la chambre de Beatrice ; sinon recharge le chapitre.
+- More practice : derriere les ecuries, detruis les six pots de l'entrainement
+  avec la fronde. Le succes demande les six dans cette session d'exercice.
+- Explore l'atelier et ramasse les materiaux avant d'ouvrir la porte qui termine
+  le chapitre. Le compteur attendu est 1 cadeau et 2 curiosites.
 
-- Cadeau 2 : l'Amulette / les Talismans, sur le quai derriere l'abri rouge.
-- Curiosite 3 : le Savon, prends le chemin de droite au Y et inspecte la
-  chaise.
-- Curiosite 4 : l'Encens et les Herbes, dans le tiroir de la maison de
-  Clervie, avant de te changer.
-- Feeding the hungry : donne la pomme a Hugo au moment prevu.
+CHAPITRE II - THE STRANGERS
 
-CHAPITRE III - Retribution
+Progression : The Strangers.
 
-- Cadeau 3 : le Rosaire, sur la table de l'eglise avant l'echelle.
-- Fleur 1 : les Oeillets, automatique avec Hugo.
-- Curiosite 5 : la Preparation, dans la piece cachee apres la chaine et la
-  lumiere.
-- Curiosite 6 : le Tabard de croise, remonte l'echelle apres les retrouvailles
-  et fouille le niveau superieur.
+- Cadeau 2 - Amulet and Talismans : a l'entree du village, passe derriere
+  l'abri rouge jusqu'au petit quai. Le cadeau est pose sur le tissu sale.
+- Curiosite 3 - Soap : au premier embranchement en Y du village, prends la
+  route de droite apres l'arche de pierre, puis tourne encore a droite. Le savon
+  est sur une chaise dans le coin.
+- Curiosite 4 - Incense and Herbs : dans la maison de Clervie, prends l'objet
+  dans le tiroir au fond avant de changer de vetements.
+- Feeding the hungry : apres la scene ou Hugo comprend les croix blanches,
+  prends deux fois a droite jusqu'au pommier. Apres sa question, donne-lui une
+  pomme. Fais-le avant de poursuivre l'objectif principal.
+- Fouille les maisons et recuperes les materiaux avant le depart. Le compteur
+  attendu est 1 cadeau et 2 curiosites.
 
-CHAPITRE IV - L'apprentie
+CHAPITRE III - RETRIBUTION
 
-- Curiosite 7 : le Recipient hermetique, dans l'ouverture de la cloture pres
-  du feu de camp.
-- Cadeau 4 : le Journal d'un alchimiste, pres du bateau echoue apres que Hugo
-  se cache.
-- Fleur 2 : l'Aquilegia, derriere la maison de Laurentius.
-- Curiosite 8 : le Vitriol, dans la deuxieme piece de la maison.
-- Found! : reussis la partie de cache-cache avec Hugo.
+Progression : Retribution.
 
-CHAPITRE V - Les corbeaux de la potence
+- Cadeau 3 - Rosary : dans l'eglise, avance jusqu'au fond et prends le rosaire
+  sur la table a droite. Ne monte pas l'echelle avant l'interaction.
+- Fleur 1 - Carnations : lorsque Hugo court vers la fleur, approche-toi et
+  interagis avec lui. C'est la premiere fleur automatique de l'herbier.
+- Curiosite 5 - Brew : apres avoir casse la chaine pour deplacer la lumiere,
+  ne pars pas tout droit. Prends l'ouverture sans barre sur la droite, franchis
+  le passage et prends la preparation dans la piece cachee.
+- Curiosite 6 - Crusader Tabard : apres les retrouvailles, remonte l'echelle
+  que Hugo vient de descendre et fouille le niveau superieur au fond.
+- Si un etabli est disponible, fabrique une munition puis fouille les alcoves
+  avant de quitter. Le compteur attendu est 1 cadeau, 1 fleur et 2 curiosites.
 
-- Fleur 3 : le Glaieul, prends la rampe de gauche avant l'aqueduc.
-- Curiosite 9 : la Faucille, pres du chariot / coffre du garde.
-- Curiosite 10 : l'Oliphant, a gauche des gardes morts apres les chaines.
-- Cadeau 5 : la Ballastella, apres le baton, dans la zone de braises non
-  allumees.
-- Savior : sauve le soldat avec une torche et l'Ignifer au lieu de le laisser
-  etre atteint.
+CHAPITRE IV - THE APPRENTICE
 
-CHAPITRE VI - Les dommages causes
+Progression : The Apprentice.
 
-- Cadeau 6 : les Osselets, dans la cabane avec les bouteilles, sur la table a
-  gauche.
-- Curiosite 11 : la Livre sterling, dans la petite piece apres la tente et le
-  crochetage.
-- Curiosite 12 : la Declaration de guerre, sur le tabouret de la tente blanche.
+- Curiosite 7 - Hermetic Vessel : au debut du chapitre, passe par l'ouverture
+  dans la cloture, longe le feu de camp et prends le recipient derriere l'ecorce
+  de l'arbre.
+- Cadeau 4 - Diary of an Alchemist : lorsque Hugo part se cacher, tourne a
+  droite vers le bateau echoue. Le journal est au sol a cote de l'epave.
+- Found! : gagne le cache-cache en entrant dans le cote gauche des buissons et
+  en approchant Hugo par derriere sans le faire fuir.
+- Fleur 2 - Aquilegia : a l'arrivee a la ferme de Laurentius, depasse le cheval,
+  tourne derriere la maison et prends l'aquilegia pres de l'arbre.
+- Curiosite 8 - Vitriol : dans la maison de Laurentius, entre par la deuxieme
+  porte a cote de la sienne. Le vitriol est sur la table.
+- Fais les cinq actions dans l'ordre : recipient, journal, cache-cache, fleur,
+  vitriol. Le compteur attendu est 1 cadeau, 1 fleur et 2 curiosites.
 
-CHAPITRE VII - Le chemin devant nous
+PARTIE 2 - CHAPITRES V A VIII
 
-- Curiosite 13 : le Fer a cheval, apres le moulin a eau ; brise la chaine.
-- Fleur 4 : l'Aubepine, dans la maison en ruine a droite du village.
-- Curiosite 14 : la Carte, sur la table apres les deux gardes.
-- Chariot d'alchimiste 1 : passage obligatoire de la zone.
-- Cadeau 7 : le Vinaigre, dans l'escalier du chateau ; fais demi-tour vers la
-  porte fermee.
+CHAPITRE V - THE RAVENS' SPOILS
 
-CHAPITRE VIII - Notre maison
+Progression : The Ravens' Spoils.
 
-- Curiosite 15 : l'Iconographie, a droite de l'escalier en spirale.
-- Cadeau 8 : le Creuset alchimique, dans l'herbe avant l'escalier en spirale.
-- Curiosite 16 : le Manuel du langage des oiseaux, derriere Mellie, pres du
-  tonneau.
-- Fleur 5 : le Millepertuis, apres les colliers.
-- Tribute : apres avoir parle a Lucas, descends immediatement l'escalier
-  couvert de toiles d'araignee.
+- Fleur 3 - Gladiolus : avant de passer sous l'aqueduc, prends la rampe a
+  gauche, depasse le coffre de materiaux et suis Hugo jusqu'aux fleurs.
+- Curiosite 9 - Sickle : pousse le chariot vers la gauche, elimine le garde
+  avec la fronde et ouvre le coffre a cote de lui.
+- Curiosite 10 - Oliphant : apres avoir casse les chaines des gardes morts,
+  pars a gauche des corps et ouvre le coffre qui contient l'oliphant.
+- Cadeau 5 - Ballastella : apres que Hugo te donne le baton, attends l'arret
+  de la machine, allume le baton a la source de feu puis avance vers la braise
+  eteinte avec l'epee. Le cadeau est a cote.
+- Savior : trouve le soldat bloque de l'autre cote des rats. Place ta torche dans
+  l'un des deux supports a gauche, puis utilise Ignifer pour allumer la torche
+  pres de lui et le sauver. Ne le laisse pas mourir dans les rats.
+- Fais les scans de materiaux et les etablis avant le passage final. Le compteur
+  attendu est 1 cadeau, 1 fleur et 2 curiosites.
 
-CHAPITRE IX - Dans l'ombre des remparts
+CHAPITRE VI - DAMAGED GOODS
 
-- Fleur 6 : la Lavande, pres du rondin blanc a gauche du chemin ; l'Herboriste
-  se valide avec cette fleur.
-- Curiosite 17 : la Peau de mouton, apres le garde pendu, les rats et le coffre.
-- Curiosite 18 : le Morceau de Transis, pousse la caisse vers l'angle avec les
-  rats.
-- Chariot d'alchimiste 2 : ruelle avec lanterne et gardes.
-- Cadeau 9 : l'Echiquier, apres les gardes de l'universite.
+Progression : Damaged Goods.
 
-CHAPITRE X - Le chemin des roses
+- Cadeau 6 - Knucklebones : suis Mellie dans la cabane avec les bouteilles,
+  avance jusqu'au fond puis tourne a gauche. Le cadeau est sur la table.
+- Curiosite 11 - Pound Sterling : apres avoir quitte la tente ou Mellie ouvre
+  la serrure, descends puis longe le mur de droite jusqu'a la petite piece.
+  Ouvre le coffre a l'interieur.
+- Curiosite 12 - Declaration of War : dans le grand camp, cherche la tente
+  blanche. La curiosite est sur un tabouret, sur le chemin de fuite apres le
+  sauvetage de Hugo.
+- Reste accroupi dans les zones de gardes et utilise les sources de lumiere
+  plutot que de depenser toutes les munitions. Le compteur attendu est 1 cadeau
+  et 2 curiosites.
 
-- Fleur 7 : la Marguerite, coin gauche de la bibliotheque ; utilise Luminosa.
-- Curiosite 19 : l'Etude d'un homme depece, dans la salle aux rangees de sieges.
-- Curiosite 20 : la Theriaque, en haut a gauche des livres interdits.
-- Cadeau 10 : la Pierre de lecture, apres la diversion et Rodric.
-- Chariot d'alchimiste 3 : apres Extinguish, rejoins la cloture et fouille le
-  passage lateral.
+CHAPITRE VII - THE PATH BEFORE US
 
-CHAPITRE XI - Remembrance
+Progression : The Path Before Us.
 
-- Fleur 8 : le Rhododendron, apres Rodric dehors ; descends l'echelle et longe
-  le mur de droite.
+- Curiosite 13 - Horseshoe : apres le moulin a eau, regarde derriere la fissure
+  pres de l'etabli. Casse la chaine avec la fronde, franchis le passage et
+  prends le fer a cheval.
+- Fleur 4 - Hawthorn : au debut du village en ruines, prends la route de droite
+  jusque dans la maison et ramasse l'aubepine.
+- Curiosite 14 - Map : pendant la zone d'infiltration, attends la conversation
+  des deux gardes au sujet de la capture d'Arthur. Neutralise-les puis prends la
+  carte sur la table.
+- Chariot d'alchimiste 1/5 : apres les retrouvailles avec Lucas, le chariot est
+  sur la route principale et devient impossible a manquer. Entre dedans et
+  attends la sauvegarde.
+- Cadeau 7 - Vinegar : a l'arrivee au chateau, monte l'escalier puis fais demi-
+  tour. Demande a Mellie d'ouvrir la porte au bout et prends le vinaigre.
+- Resource sharing progresse au premier chariot. Le compteur attendu est 1
+  cadeau, 1 fleur, 2 curiosites et 1 chariot.
 
-CHAPITRE XII - Tout ce qui reste
+CHAPITRE VIII - OUR HOME
 
-- Cadeau 11 : le Calamus, dans la petite maison apres le chariot ; utilise
-  Odiris / Ignifer pour ouvrir le passage.
-- Curiosite 21 : le Casque de harnois, coffre pres du serviteur apres le tunnel
-  de rats.
-- Fleur 9 : les Potentilles, au debut du jardin ; prends le chemin de gauche
-  avant les escaliers.
-- Chariot d'alchimiste 4 : dans le jardin, pres de la lampe.
-- Curiosite 22 : l'Arbre genealogique, a droite des machines du laboratoire de
-  Beatrice.
-- Merciful : ne tue pas les deux gardes mourants ; utilise Odiris pour les
-  neutraliser sans les achever.
+Progression : Our Home.
 
-CHAPITRE XIII - Penance
+- Curiosite 15 - Iconography : au debut, quand Hugo te demande de le suivre,
+  regarde a droite de l'escalier en colimacon et prends l'objet sur les marches
+  hautes avant de descendre.
+- Tribute : juste apres avoir parle a Lucas, ne suis pas Hugo vers l'exterieur.
+  Descends l'escalier sombre du cote oppose, suis le couloir jusqu'a la tombe et
+  reste avec Hugo jusqu'a la fin du dialogue. Le succes demande de trouver la
+  tombe, pas seulement de voir la salle.
+- Cadeau 8 - Alchemical Crucible : avant de suivre Hugo dans l'escalier,
+  prends a gauche dans l'herbe et ramasse le creuset.
+- Curiosite 16 - Bird Language Manual : apres la discussion avec Mellie, prends
+  le manuel derriere le tonneau situe juste derriere elle.
+- Fleur 5 - St. John's Wort : apres la scene des pendentifs, suis Hugo jusqu'a
+  la fleur et interagis avec lui.
+- Fais Iconography et Tribute avant de remonter vers la sortie : l'acces a la
+  tombe peut se fermer apres la progression.
 
-- Curiosite 23 : la Poupee de chiffon, dans la maison a la porte cassee pendant
-  l'hallucination.
-- Curiosite 24 : la Figurine de chevalier, ouvre la porte pres de la table de
-  Beatrice avant de rejoindre Hugo.
-- Fleur 10 : le Narcisse, dans l'ouverture a droite apres avoir sauve Hugo.
+PARTIE 3 - CHAPITRES IX A XII
 
-CHAPITRE XIV - Liens du sang
+CHAPITRE IX - IN THE SHADOW OF RAMPARTS
 
-- Fleur 11 : la Morelle noire, dans le jardin en haut a droite, derriere la
-  haie.
-- Captain Sidekick : reste avec le capitaine et cache-toi sous la table avant
-  que le garde n'arrive.
+Progression : In the Shadow of Ramparts.
 
-CHAPITRE XV - Remembrance
+- Fleur 6 - Lavender : au debut du chemin, cherche le tronc blanc tombe sur la
+  gauche et ramasse la lavande dans le coin. Herbalist peut tomber ici si les
+  cinq fleurs precedentes sont deja validees.
+- Curiosite 17 - Sheepskin : apres avoir casse la chaine du pendu, eteins la
+  lampe du garde pour laisser les rats l'attaquer. Brule le nid avec Luminosa,
+  retourne dans la zone qu'il occupait et ouvre le coffre.
+- Curiosite 18 - Piece of Transis : attire les rats dans le coin avec Odoris,
+  utilise la lampe pour les bloquer, pousse la boite et franchis le petit mur.
+  La curiosite est dans la structure en contrebas.
+- Chariot d'alchimiste 2/5 : lorsque deux gardes se trouvent pres d'une lampe
+  et d'une table, prends l'allee a gauche, franchis le mur et utilise Luminosa
+  pour atteindre le chariot.
+- Cadeau 9 - Chessboard : a l'arrivee a l'universite, attends que les deux
+  gardes s'arretent, neutralise-les puis prends l'echiquier devant eux.
+- The hard way : entre dans l'universite par la grande porte principale gardee
+  par deux soldats en armure. Ne prends pas l'entree laterale. Distraits ou
+  neutralises les soldats, puis franchis cette porte ; le succes tombe a
+  l'entree.
+- L'ordre le plus sur est : fleur, curiosites, chariot, cadeau, puis entree
+  principale. Le compteur attendu est 1 cadeau, 1 fleur, 2 curiosites et 1
+  chariot.
 
-- Fleur 12 : les Potentilles des rochers, dans la piece a cote de Lucas, au
-  fond du passage.
+CHAPITRE X - THE WAY OF ROSES
 
-CHAPITRE XVI - Coronation
+Progression : The Way of Roses.
 
-- Chariot d'alchimiste 5 : ruelle cachee apres la separation.
-- Curiosite 25 : la Discipline, dans la ruelle apres les deux gardes.
-- Fleur 13 : la Rose de Noel, porte en bois puis chemin suivant.
-- The Blacksmith : fais le detour par la forge apres les trois gardes et
-  l'archer.
-- Curiosite 26 : le Manuel de l'Inquisiteur, a droite de la potence apres les
-  gardes.
-- Botanist et Curiosities collector : si les 13 fleurs et 26 curiosites sont
-  valides, les deux succes tombent a la fin du nettoyage.
+- Fleur 7 - Daisy : dans la salle de bibliotheque avec deux gardes, elimine ou
+  distraits-les, puis va dans la piece sombre a gauche. Utilise Luminosa sur les
+  rats et prends la marguerite.
+- Curiosite 19 - Study of a Skinned Person : dans le couloir aux rangees de
+  chaises, attends le depart de l'escorte, neutralise le garde restant et monte
+  du cote droit pour prendre l'etude.
+- Curiosite 20 - Theriaque : apres la rencontre avec Rodric, entre dans la
+  bibliotheque des livres interdits et va dans le coin superieur gauche de la
+  salle. La theri aque est dans la piece cachee.
+- Cadeau 10 - Reading Stone : apres la diversion qui permet a Rodric d'attaquer
+  le garde, contourne le pilier et prends la pierre de lecture sur la table dans
+  la piece sombre.
+- Chariot d'alchimiste 3/5 : apres avoir obtenu Extinguis, suis le chemin vers
+  le bas, tourne a gauche puis franchis la cloture. Tourne a droite, utilise
+  Luminosa ou Odoris et entre dans le chariot.
+- Fais le chariot avant de franchir la porte qui termine le chapitre. Le
+  compteur attendu est 1 cadeau, 1 fleur, 2 curiosites et 1 chariot.
 
-SUCCES DE PROGRESSION ET D'ACTIONS
+CHAPITRE XI - ALIVE
+
+Progression : Alive.
+
+- Fleur 8 - Rhododendron : apres avoir suivi Rodric dehors, descends l'echelle,
+  tourne a droite, longe le mur puis tourne encore a droite. La fleur est pres
+  des debris, sous le brasero eteint.
+- Il n'y a pas d'autre collectible dans ce chapitre. Fouille tout de meme les
+  salles et etablis pour garder les ressources d'amelioration.
+
+CHAPITRE XII - ALL THAT REMAINS
+
+Progression : All That Remains.
+
+- Cadeau 11 - Calamus : apres avoir fait rouler le chariot dans la pente, suis
+  le chemin jusqu'a la petite maison au feu eteint. Utilise Odoris de l'autre
+  cote de la cloture pour eloigner les rats, allume la braise avec Ignifer et
+  passe sous l'entree. Le calamus est sur la table.
+- Big sister : le cadeau 11 est le dernier cadeau. Si les 10 precedents sont
+  valides, Big sister tombe a la collecte.
+- Merciful : pres du chariot d'Inquisition casse, deux soldats sont mourants.
+  Maintiens les lumieres au-dessus d'eux et ne les tues pas ; utilise Odoris
+  pour deplacer les rats. Le succes tombe apres l'ouverture de la porte en bois.
+- Curiosite 21 - Harnois Helmet : apres le tunnel de rats, pres du corps de la
+  servante, ouvre le coffre a cote du bouclier monte au mur.
+- Fleur 9 - Cinquefoils : dans le jardin, tourne a gauche avant de descendre les
+  escaliers et suis le chemin jusqu'aux potentilles.
+- Chariot d'alchimiste 4/5 : dans le jardin, atteins le chariot en allumant la
+  lampe rotative puis utilise Luminosa ou Odoris pour traverser le nid.
+- Curiosite 22 - Family Tree : dans le laboratoire de Beatrice, va a droite
+  vers les appareils alchimiques en forme de poires et prends le document sur
+  la petite etagere.
+- Fais le cadeau avant la zone des deux gardes mourants. Le compteur attendu est
+  1 cadeau, 1 fleur, 2 curiosites et 1 chariot.
+
+PARTIE 4 - CHAPITRES XIII A XVI
+
+CHAPITRE XIII - PENANCE
+
+Progression : Penance.
+
+- Curiosite 23 - Rag Doll : pendant la section de vision, quand Clervie est
+  pres d'une porte en bois, passe sous la demi-porte cassee a gauche et prends
+  la poupee de chiffon dans la maison.
+- Curiosite 24 - Knight Figurine : apres la conversation avec Beatrice, avant
+  de parler a Hugo, prends la porte ouverte a droite de sa chambre. La figurine
+  est sur la table de Beatrice.
+- Fleur 10 - Daffodil : apres avoir libere Hugo, cherche l'ouverture a droite
+  du chemin et prends le narcisse avant de poursuivre.
+- Il n'y a pas de chariot. Le compteur attendu est 2 curiosites et 1 fleur.
+
+CHAPITRE XIV - BLOOD TIES
+
+Progression : Blood Ties.
+
+- Fleur 11 - Black Nightshade : dans le jardin, prends le coin superieur droit
+  des haies et ramasse la morelle noire. Fais-la avant de poursuivre le capitaine.
+- Captain Sidekick : avance rapidement et arrive dans la piece avant que le
+  capitaine ne ferme la porte. Cache-toi sous la table et attends la validation.
+  Si un garde te repere ou si la porte est deja fermee, recharge le checkpoint.
+- La fleur et Captain Sidekick peuvent etre faits dans la meme tentative. Si le
+  checkpoint te replace apres la fleur, garde la fleur puis refais uniquement la
+  route du capitaine.
+- Il n'y a pas de curiosite ni de chariot. Le compteur attendu est 1 fleur.
+
+CHAPITRE XV - REMEMBRANCE
+
+Progression : Remembrance.
+
+- Fleur 12 - Rockfoils : au debut, entre dans la porte a cote de Lucas, tourne
+  a droite et prends les potentilles des rochers au fond de la piece.
+- Il n'y a pas d'autre collectible. Ramasse les materiaux autour de l'etabli
+  avant de lancer la suite du chapitre.
+
+CHAPITRE XVI - CORONATION
+
+Progression : Coronation et Knights! a la fin de la campagne.
+
+- Chariot d'alchimiste 5/5 : apres l'arrivee en ville et la separation du
+  groupe, prends l'allee cachee a droite du mur. Suis-la jusqu'au garde et
+  utilise l'ouverture pour entrer dans le dernier chariot.
+- Curiosite 25 - Discipline : apres les deux gardes, prends l'allee cachee a
+  droite des batiments et ramasse la Discipline.
+- Fleur 13 - Christmas Rose : apres le combat ou Rodric se cache, franchis la
+  grande porte en bois d'ou vient le garde en armure lourde et suis le chemin.
+  Hugo court vers la rose de Noel ; interagis avec lui.
+- The Blacksmith : apres les trois gardes et la scene avec l'archer, retourne
+  vers les debris en feu. Prends a droite, suis le chemin du nid, casse la
+  chaine de la seconde grille avec la fronde, reviens ouvrir la premiere et
+  suis le passage jusqu'a la forge de Rodric.
+- Curiosite 26 - Inquisitor's Manual : au debut de la zone de la cathedrale,
+  apres les gardes, pars a droite de la potence et prends le manuel pres du
+  corps de l'inquisiteur.
+- Botanist tombe avec la fleur 13 si les 12 precedentes sont validees.
+- Curiosities collector tombe avec la curiosite 26 si les 25 precedentes sont
+  validees.
+- Resource sharing tombe au cinquieme chariot, The Blacksmith a la forge,
+  Coronation a la fin du chapitre et Knights! apres tous les chapitres.
+
+REGISTRE DES 55 COLLECTIBLES
+
+CADEAUX - 11
+
+[ ] 01 Whistle - Chapitre I
+[ ] 02 Amulet and Talismans - Chapitre II
+[ ] 03 Rosary - Chapitre III
+[ ] 04 Diary of an Alchemist - Chapitre IV
+[ ] 05 Ballastella - Chapitre V
+[ ] 06 Knucklebones - Chapitre VI
+[ ] 07 Vinegar - Chapitre VII
+[ ] 08 Alchemical Crucible - Chapitre VIII
+[ ] 09 Chessboard - Chapitre IX
+[ ] 10 Reading Stone - Chapitre X
+[ ] 11 Calamus - Chapitre XII
+
+FLEURS - 13
+
+[ ] 01 Carnations - Chapitre III
+[ ] 02 Aquilegia - Chapitre IV
+[ ] 03 Gladiolus - Chapitre V
+[ ] 04 Hawthorn - Chapitre VII
+[ ] 05 St. John's Wort - Chapitre VIII
+[ ] 06 Lavender - Chapitre IX
+[ ] 07 Daisy - Chapitre X
+[ ] 08 Rhododendron - Chapitre XI
+[ ] 09 Cinquefoils - Chapitre XII
+[ ] 10 Daffodil - Chapitre XIII
+[ ] 11 Black Nightshade - Chapitre XIV
+[ ] 12 Rockfoils - Chapitre XV
+[ ] 13 Christmas Rose - Chapitre XVI
+
+CHARIOTS D'ALCHIMISTE - 5
+
+[ ] 01 Chariot - Chapitre VII, apres les retrouvailles avec Lucas
+[ ] 02 Chariot - Chapitre IX, allee a gauche des deux gardes
+[ ] 03 Chariot - Chapitre X, cloture apres l'obtention d'Extinguis
+[ ] 04 Chariot - Chapitre XII, jardin et lampe rotative
+[ ] 05 Chariot - Chapitre XVI, allee cachee apres la separation
+
+CURiosites - 26
+
+[ ] 01 Spices - Chapitre I, piece superieure du batiment
+[ ] 02 Tablecloth - Chapitre I, chambre d'Amicia
+[ ] 03 Soap - Chapitre II, chaise apres le premier Y
+[ ] 04 Incense and Herbs - Chapitre II, tiroir de la maison de Clervie
+[ ] 05 Brew - Chapitre III, piece cachee apres la chaine
+[ ] 06 Crusader Tabard - Chapitre III, niveau superieur apres les retrouvailles
+[ ] 07 Hermetic Vessel - Chapitre IV, ouverture de la cloture et feu de camp
+[ ] 08 Vitriol - Chapitre IV, deuxieme piece de la maison de Laurentius
+[ ] 09 Sickle - Chapitre V, coffre pres du garde apres le chariot
+[ ] 10 Oliphant - Chapitre V, coffre a gauche des gardes morts
+[ ] 11 Pound Sterling - Chapitre VI, petite piece dans le camp
+[ ] 12 Declaration of War - Chapitre VI, tente blanche
+[ ] 13 Horseshoe - Chapitre VII, chaine derriere le moulin a eau
+[ ] 14 Map - Chapitre VII, table apres la conversation des gardes
+[ ] 15 Iconography - Chapitre VIII, escalier en colimacon
+[ ] 16 Bird Language Manual - Chapitre VIII, derriere le tonneau de Mellie
+[ ] 17 Sheepskin - Chapitre IX, coffre apres le garde attaque par les rats
+[ ] 18 Piece of Transis - Chapitre IX, structure derriere le mur franchissable
+[ ] 19 Study of a Skinned Person - Chapitre X, couloir aux rangees de chaises
+[ ] 20 Theriaque - Chapitre X, bibliotheque des livres interdits
+[ ] 21 Harnois Helmet - Chapitre XII, coffre pres du bouclier
+[ ] 22 Family Tree - Chapitre XII, laboratoire de Beatrice
+[ ] 23 Rag Doll - Chapitre XIII, maison sous la demi-porte cassee
+[ ] 24 Knight Figurine - Chapitre XIII, table de Beatrice
+[ ] 25 Discipline - Chapitre XVI, allee cachee apres les deux gardes
+[ ] 26 Inquisitor's Manual - Chapitre XVI, droite de la potence
+
+PARTIE 5 - ALCHIMIE ET AMELIORATIONS
+
+ALCHEMIST - 100 MUNITIONS
+
+- Craft 100 ammunitions au total. Les projectiles Ignifer, Devorantis, Odoris,
+  Extinguis et les autres munitions craftables alimentent le compteur.
+- Fabrique des projectiles pendant la progression, mais evite de vider les
+  composants rares avant un passage de rats. Le succes est cumulatif et peut
+  tomber avant la fin du chapitre XVI.
+- Si le compteur manque apres l'histoire, recharge un chapitre riche en
+  materiaux, ramasse les composants et fabrique jusqu'a la notification.
+
+NOT A TOY ANYMORE - FRONDE COMPLETE
+
+- Ameliore les trois niveaux de String et les trois niveaux de Pouch de la
+  fronde. Le succes demande les deux branches au maximum.
+- Les etablis apparaissent dans la progression. Si tu dois choisir, prends la
+  fronde en premier pour faciliter les combats et les chaines a distance.
+- Ramasse tous les tissus, cordes, outils et composants avant de quitter une
+  piece. La selection de chapitre conserve les niveaux deja achetes.
+
+HANDFULL OF POCKETS - EQUIPEMENT COMPLET
+
+- Ameliore au maximum les trois branches Pocket, Ammunition Bag et Attirail.
+- Les poches augmentent les ressources, le sac augmente les munitions et
+  l'attirail facilite l'equipement. Fouille les coffres avant de fabriquer des
+  munitions optionnelles si une amelioration est proche.
+- Pour limiter le risque de manquer de ressources, termine d'abord les branches
+  de fronde ou d'equipement puis l'autre, au lieu de repartir les composants.
+
+PARTIE 6 - SUCCES D'ACTION EN DETAIL
+
+- More practice : les six pots de l'entrainement du chapitre I.
+- Feeding the hungry : la pomme du pommier du chapitre II, apres le dialogue
+  avec Hugo sur les croix blanches.
+- Found! : cache-cache du chapitre IV, approche silencieuse par la gauche des
+  buissons.
+- Savior : soldat bloque dans les rats au chapitre V, torche placee puis
+  allumee avec Ignifer.
+- Tribute : tombe du chapitre VIII, detour sombre immediatement apres Lucas.
+- The hard way : grande porte principale de l'universite au chapitre IX.
+- Merciful : les deux gardes mourants du chapitre XII, aucune execution.
+- Captain Sidekick : arrive avant le capitaine au chapitre XIV et cache-toi
+  sous la table dans la salle avant la fermeture de la porte.
+- The Blacksmith : forge de Rodric au chapitre XVI, detour apres l'archer.
+
+NETTOYAGE PAR SELECTION DE CHAPITRE
+
+1. Ouvre le Codex et note le premier cadeau, la premiere fleur ou la premiere
+   curiosite manquante.
+2. Lance le chapitre correspondant et utilise les sous-objectifs du guide pour
+   atteindre directement la zone.
+3. Ramasse l'objet, attends la sauvegarde, puis quitte le chapitre si tu ne veux
+   pas rejouer la suite.
+4. Pour un succes d'action, rejoue depuis le debut du chapitre ou le checkpoint
+   indique et attends la notification avant de quitter.
+5. Termine par les ameliorations : la selection de chapitre permet de recuperer
+   des ressources, mais les niveaux achetes restent partages.
+
+CHECKLIST FINALE - 35 SUCCES STEAM
 
 [ ] The de Rune Legacy - terminer le chapitre I.
 [ ] The Strangers - terminer le chapitre II.
@@ -200,45 +519,55 @@ SUCCES DE PROGRESSION ET D'ACTIONS
 [ ] In the Shadow of Ramparts - terminer le chapitre IX.
 [ ] The Way of Roses - terminer le chapitre X.
 [ ] Alive - terminer le chapitre XI.
-[ ] Alchemist - fabriquer les ameliorations d'alchimie demandees.
+[ ] Alchemist - fabriquer 100 munitions.
 [ ] All That Remains - terminer le chapitre XII.
 [ ] Penance - terminer le chapitre XIII.
 [ ] Blood Ties - terminer le chapitre XIV.
 [ ] Remembrance - terminer le chapitre XV.
 [ ] Coronation - terminer le chapitre XVI.
-[ ] Knights! - terminer la campagne.
-[ ] The Blacksmith - aider Rodric a la forge.
-[ ] Herbalist - trouver les 13 fleurs.
-[ ] Tribute - rendre hommage au moment prevu du chapitre VIII.
-[ ] More practice - detruire les 6 pots de l'entrainement.
-[ ] Merciful - ne pas tuer les deux gardes mourants.
-[ ] Savior - sauver le soldat avec l'equipement alchimique.
-[ ] Feeding the hungry - donner la pomme a Hugo.
-[ ] Not a toy anymore - utiliser la fronde avec la condition demandee.
-[ ] Curiosities hunter - trouver les 26 curiosites.
-[ ] Handfull of pockets - obtenir les ameliorations de poches demandees.
-[ ] The hard way - reussir l'action difficile du chapitre indique.
-[ ] Found! - gagner le cache-cache.
-[ ] Resource sharing - fabriquer ou partager les ressources d'alchimie demandees.
-[ ] Big sister - terminer la scene associee a Mellie.
-[ ] Captain Sidekick - rester avec le capitaine et reussir la sequence.
+[ ] Knights! - terminer tous les chapitres.
+[ ] The Blacksmith - trouver la forge de Rodric.
+[ ] Herbalist - trouver 6 fleurs.
+[ ] Tribute - trouver la tombe.
+[ ] More practice - terminer l'entrainement de visee.
+[ ] Merciful - sauver les mourants.
+[ ] Savior - sauver un soldat.
+[ ] Feeding the hungry - trouver un repas pour Hugo.
+[ ] Not a toy anymore - ameliorer completement la fronde.
+[ ] Curiosities hunter - trouver 13 curiosites.
+[ ] Handfull of pockets - ameliorer completement l'equipement.
+[ ] The hard way - entrer par la porte principale.
+[ ] Found! - jouer a cache-cache.
+[ ] Resource sharing - entrer dans les 5 chariots d'alchimiste.
+[ ] Big sister - trouver tous les cadeaux des orphelins.
+[ ] Captain Sidekick - rester avec le capitaine.
 [ ] Botanist - trouver toutes les fleurs.
 [ ] Curiosities collector - trouver toutes les curiosites.
 
-VERIFICATION 100 %
+VERIFICATION FINALE
 
-- [ ] 35 succes coches dans Steam.
-- [ ] 11 cadeaux, 26 curiosites, 13 fleurs et 5 chariots coches.
-- [ ] Les quatre actions de chapitre More practice, Found!, Savior et
-    Merciful sont confirmees.
-- [ ] La selection de chapitre a ete utilisee pour tout objet manquant.
-- [ ] Aucun detail d'histoire, d'identite ou d'issue narrative n'est revele.
+- [ ] Steam affiche 35/35 succes.
+- [ ] Chapitres I a XVI et epilogue termines.
+- [ ] Cadeaux : 11/11 ; fleurs : 13/13 ; curiosites : 26/26.
+- [ ] Chariots d'alchimiste : 5/5, chacun visite et sauvegarde.
+- [ ] Alchemist : 100 munitions fabriquees.
+- [ ] Not a toy anymore : fronde complete.
+- [ ] Handfull of pockets : equipement complet.
+- [ ] More practice, Feeding the hungry, Found!, Savior, Tribute, The hard way,
+    Merciful, Captain Sidekick et The Blacksmith confirmes.
+- [ ] Aucun objet ne reste dans le Codex et la selection de chapitre ne signale
+    plus de collectible manquant.
+- [ ] La sauvegarde est conservee jusqu'a la synchronisation complete de Steam.
 
 SOURCES DE CONTROLE
 
-- Steam, liste officielle des 35 succes :
+- Liste officielle Steam des 35 succes :
   https://steamcommunity.com/stats/752590/achievements
-- Guide Steam chronologique et collectibles :
+- Guide Steam chronologique des succes :
   https://steamcommunity.com/sharedfiles/filedetails/?id=1987696466
-- PowerPyx, cadeaux, curiosites, fleurs et chariots :
+- Guide des 55 collectibles et positions :
   https://www.powerpyx.com/a-plague-tale-innocence-all-collectible-locations-herbariums-curiosities-gifts-carts/
+- Page Steam du jeu :
+  https://store.steampowered.com/app/752590/A_Plague_Tale_Innocence/
+
+FIN DE LA FICHE
