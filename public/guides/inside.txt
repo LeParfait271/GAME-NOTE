@@ -1,145 +1,336 @@
 INSIDE
-GUIDE CHRONOLOGIQUE 100 % STEAM - SANS SPOILER
+FICHE PREMIUM 100 % STEAM - ROUTE CHRONOLOGIQUE - SANS SPOILER NARRATIF
 
-Version de travail : 10 aout 2026
+Version verifiee : 11 aout 2026
+AppID Steam : 304430
+Perimetre : 14 succes Steam, 14 orbes secretes, fin alternative et nettoyage
+par selection de chapitre.
 
-Ce guide couvre les 14 succes Steam et les 14 orbes caches. Il n'y a ni DLC,
-ni succes en ligne, ni objet missable definitivement : la selection de
-chapitre permet de reprendre une orb apres la fin. Pour le 100 %, suis tout
-de meme l'ordre ci-dessous : la derniere orb ne devient accessible qu'apres
-les treize premieres.
+INSIDE n'a pas de statistiques de combat ni de collectibles classiques. Les 14
+succes sont lies aux 14 orbes cachees. Cette fiche donne le trajet principal,
+le detour exact de chaque orb et la verification finale, sans expliquer ce que
+les images, les personnages ou les fins signifient.
 
-OBJECTIF
+OBJECTIF DU 100 %
 
-[ ] 14/14 succes Steam.
-[ ] 14 orbes detruites / validees.
-[ ] La derniere orb faite uniquement apres les 13 precedentes.
-[ ] Aucun detail d'histoire ou d'issue narrative revele.
+- Terminer le parcours principal.
+- Desactiver les orbes 1 a 13 dans l'ordre d'apparition.
+- Desactiver l'orb 14 uniquement apres les 13 autres.
+- Faire la fin alternative avec les 14 orbes desactivees.
+- Verifier les 14 succes Steam et conserver une sauvegarde de fin.
 
 GARDE-FOUS
 
-- Ne te fie pas a l'apparence d'une salle : une orb est souvent derriere une
-  ouverture, sous l'eau ou dans une boucle de retour.
-- Quand une section propose un chemin principal et un petit detour, explore
-  le detour avant de franchir l'obstacle qui ferme la zone.
-- Si une orb manque, recharge la selection de chapitre associee. La liste
-  Steam se valide apres l'interaction avec l'orb, sans objet a conserver.
-- Les lieux ci-dessous servent de reperes de navigation. Aucune identite,
-  mort, fin, revelation ou consequence narrative n'est expliquee.
+- Chaque orb est une petite sphere brillante reliee a des cables. Il faut
+  arracher la tige / interaction jusqu'a ce que la lumiere s'eteigne.
+- Les orbes sont enregistrees immediatement. La selection de chapitre permet
+  de reprendre une orb manquante sans refaire toute la partie.
+- Une orb est souvent dans le detour oppose au chemin evident : ne franchis pas
+  l'obstacle qui ferme la zone avant d'avoir explore les hauteurs et les fonds.
+- Pour l'orb 14, le grand panneau lumineux a proximite indique l'etat des
+  13 premieres. Une lumiere encore active signifie qu'il faut repartir a la
+  recherche du numero correspondant.
+- Il n'y a pas de mort, d'identite, de twist ou de fin expliquee dans cette
+  fiche. Les noms de zones servent uniquement a naviguer.
 
-ROUTE DES 14 ORBES
+ORDRE RECOMMANDE
 
-1 - Murky Waters
+1. Premiere partie : suis la route principale et prends chaque detour d'orb
+   quand il apparait. Ne cherche pas l'orb 14 avant la fin.
+2. Apres la fin normale, ouvre la selection de chapitre et controle les treize
+   premieres orbes si un succes manque.
+3. Reviens dans la zone de la derniere orb, verifie le panneau, puis desactive
+   l'orb 14.
+4. Refais le point de depart du champ de mais et entre le code de la porte
+   cachee pour la fin alternative. Cette derniere etape ne raconte pas la fin.
 
-- Dans la zone du lac, nage vers la gauche et plonge dans la grotte.
-- Pousse le pilier pour ouvrir le passage, puis interagis avec l'orb cachee.
-- Reviens ensuite au trajet principal.
+MISSABLES ET FENETRES A SECURISER
 
-2 - Field Research
+- Aucun succes n'est definitivement missable : les checkpoints / chapitres se
+  rejouent et l'etat des orbes est conserve.
+- Une fois l'orb desactivee, ne la rescane pas : elle ne revient plus sur cette
+  sauvegarde, ce qui est normal.
+- L'orb 14 est conditionnelle. Si son acces est ferme, il manque au moins une
+  des orbes 1 a 13. Controle le panneau lumineux avant de refaire des puzzles.
+- Pour les detours sous-marins, repere toujours la sortie d'air avant de
+  poursuivre ; si tu paniques, la selection de chapitre permet de recommencer
+  le checkpoint sans perdre une orb deja validee.
 
-- Dans le champ de mais, reste attentif pendant la course et interagis avec
-  l'orb quand le passage lateral s'ouvre.
-- Grimpe l'echelle, rejoins la piece aux lumieres rouges et termine la
-  sequence. Le succes peut demander le retour dans la piece avant de repartir.
+PARTIE 1 - FORET ET CHAMP
 
-3 - Wee Wee Wee
+PROGRESSION PRINCIPALE SANS DETOUR
 
-- Dans la grange aux cochons, pousse le chariot vers la gauche.
-- Retire la planche, utilise la corde et atteins la petite salle cachee.
+- Avance vers la droite en utilisant les couverts, les hauteurs et les objets
+  interactifs. Quand une descente vers un lac apparait, ne remonte pas tout de
+  suite : elle ouvre le premier detour ci-dessous.
 
-4 - Left Behind
+ORB 1 - MURKY WATERS
 
-- Apres la descente sure de la falaise, entre dans le conduit puis dans la
-  piece laterale. L'orb est au bout de ce detour.
+- Zone : premier lac, juste apres la course et le saut depuis la falaise.
+- Au lieu de nager vers la droite, nage completement vers la gauche.
+- Plonge et suis le petit tunnel sous la falaise jusqu'a une cavite ou tu peux
+  remonter a la surface.
+- Sors de l'eau a gauche, attrape le grand pilier en bois et fais-le osciller
+  de gauche a droite jusqu'a ce qu'il tombe vers la plateforme de droite.
+- Traverse le pilier devenu pont, grimpe et arrache la tige de l'orb.
+- Succes : Murky Waters.
+- Reviens au lac et reprends la route principale. Ne t'inquiete pas si l'orb
+  n'est plus visible lors d'un retour : sa desactivation est enregistree.
 
-5 - Obscure Foundations
+ORB 2 - FIELD RESEARCH
 
-- Dans la zone urbaine avec la gouttiere, descends par l'echelle.
-- Fouille le niveau bas avant de remonter vers la progression.
+- Zone : champ de mais, avant la sortie du champ et avant la petite clairiere.
+- Avance dans le champ en appuyant regulierement sur le bouton d'interaction
+  jusqu'a heurter une trappe peu visible au sol.
+- Ouvre la trappe depuis le cote gauche, descends l'echelle et pars vers la
+  gauche dans le conduit etroit.
+- Rejoins la salle aux lumieres rouges, puis arrache la tige de l'orb.
+- Succes : Field Research.
+- Reviens par l'echelle et termine la traversee du champ. Le repere de la
+  trappe est important pour la fin alternative, mais ne franchis pas encore la
+  porte cachee de cette zone.
 
-6 - Friends in low places
+PARTIE 2 - FERME ET PREMIERS BATIMENTS
 
-- Avec le sous-marin jaune, deplace le bloc et passe par le tunnel.
-- Equipe les casques, resous le puzzle de la salle puis retourne dans le
-  passage secondaire pour l'orb.
+ORB 3 - WEE WEE WEE
 
-7 - A Tableau
+- Zone : ferme, autour du chariot contenant les cochons morts.
+- Apres la descente sur le toit, saute dans le chariot et pousse-le tout a
+  gauche contre la paroi en bois.
+- Monte sur le chariot, attrape une planche et tire-la pour creer un passage.
+- Entre dans la piece, attrape la corde au centre et grimpe.
+- Balance-toi pour atteindre la plateforme a gauche, puis continue a gauche
+  jusqu'a l'orb.
+- Arrache la tige et reviens par la corde. Succes : Wee Wee Wee.
+- Ne pousse pas le chariot vers la droite avant d'avoir pris l'orb : ce choix
+  ouvre le chemin principal et rend le detour moins visible.
 
-- Sur la plage, reprends le chemin a gauche du sous-marin.
-- Detruis la structure metallique deux fois, monte l'echelle et entre dans la
-  salle cachee.
+ORB 4 - LEFT BEHIND
 
-8 - Pack Mentality
+- Zone : usine / premier grand batiment, apres le coffre-fort qui tombe dans
+  un trou.
+- Une fois le coffre-fort descendu et le passage principal ouvert, redescends
+  dans le trou au lieu de poursuivre vers la droite.
+- Sur le niveau bas, attrape la grille situee a gauche et tire-la pour la
+  retirer.
+- Passe dans le petit conduit derriere la grille, suis la salle laterale et
+  arrache la tige de l'orb.
+- Succes : Left Behind.
+- Reviens par le conduit et reprends le chemin du coffre-fort.
 
-- Libere le deuxieme groupe de personnes sans quitter la zone.
-- Tire les planches, gere la torche et les chiens, puis cherche l'ouverture
-  laterale avant de continuer.
+ORB 5 - OBSCURE FOUNDATIONS
 
-9 - Respite
+- Zone : usine, apres avoir place les deux personnes sur les interrupteurs et
+  franchi la porte vers les voies.
+- Traverse les rails, monte l'echelle tout a droite, puis avance sur le toit.
+- Glisse le long du bord et saute vers le mur oppose. Ne remonte pas le tuyau
+  comme le chemin principal le suggere.
+- Descends le tuyau jusqu'en bas sans tomber, puis saute a gauche vers la petite
+  echelle difficile a voir.
+- Descends l'echelle et arrache la tige de l'orb au fond.
+- Remonte jusqu'au tuyau et reprends la route. Succes : Obscure Foundations.
 
-- Dans la longue section sous-marine apres avoir tire la fille immergee,
-  retourne vers le passage de gauche.
-- Suis le conduit cache jusqu'a l'orb.
+PARTIE 3 - PROFONDEURS ET SOUS-MARIN
 
-10 - Unfathomable
+ORB 6 - FRIENDS IN LOW PLACES
 
-- Sous l'eau, longe le mur de gauche.
-- Ouvre la grille avec les deux poignees et interagis dans la chambre suivante.
+- Zone : profondeurs, juste apres l'obtention du sous-marin et la fuite des
+  grands cylindres metalliques.
+- Entre dans le sous-marin, propulse-toi vers le haut puis passe par l'ouverture
+  de droite. Plonge et traverse la porte rouge en bas a droite.
+- Au niveau inferieur, longe le mur gauche jusqu'a une grande caisse.
+- Place-toi a droite de la caisse et propulse-toi dedans pour la repousser a
+  gauche et ouvrir un trou au sol.
+- Plonge dans le trou, pars a gauche et remonte pres de l'echelle. Sors du
+  sous-marin et active le poste de controle pour prendre le controle d'une
+  personne.
+- Fais-la marcher jusqu'au sommet du sous-marin. Reviens dans le sous-marin,
+  avance a droite sous le deuxieme poste et propulse la personne vers ce poste.
+- Reviens au premier poste et utilise la nouvelle position pour commander la
+  personne sur la passerelle. Guide-la a gauche jusqu'a l'orb et arrache la
+  tige.
+- Succes : Friends in low places.
 
-11 - Clockwork
+ORB 7 - A TABLEAU
 
-- Fais tourner la roue et la plateforme dans la zone haute.
-- Reviens vers les corps, plonge dans le chemin rendu accessible et prends
-  l'orb au bout.
+- Zone : profondeurs, apres la propulsion du sous-marin a travers les planches
+  jaunes du plafond.
+- Remonte dans la salle superieure et pars a gauche vers la structure verticale
+  entouree de vapeur.
+- Propulse le sous-marin contre la structure metallique jusqu'a la detruire.
+  Il faut parfois deux ou trois propulsions bien alignees.
+- Quitte le sous-marin, monte sur son toit puis atteins la plateforme et
+  l'echelle.
+- Monte tout en haut et pars a gauche jusqu'a l'orb. Arrache la tige.
+- Succes : A Tableau. Reviens a l'echelle et reprends le passage principal.
 
-12 - Room for Reflection
+PARTIE 4 - MINES ET CHIENS
 
-- Dans la salle d'essai avec le boitier jaune, pousse le bouton rouge.
-- Utilise l'ascenseur, puis reviens dans l'angle de la salle pour le passage
-  cache.
+ORB 8 - PACK MENTALITY
 
-13 - Office Space
+- Zone : mines, apres avoir libere le deuxieme groupe de personnes depuis la
+  cage circulaire.
+- Reviens a l'echelle situee pres des planches que tu viens de retirer.
+- Descends et utilise le groupe pour arracher une planche a la base du mur.
+- Passe dans l'ouverture, descends l'echelle suivante et traverse l'eau vers
+  la gauche.
+- Detache la torche au-dela de l'eau et avance avec elle. Oriente la lumiere
+  vers les chiens quand ils approchent d'un cote ou de l'autre.
+- Continue a gauche sans perdre la torche jusqu'a l'orb, puis arrache la tige.
+- Succes : Pack Mentality. Les chiens se dispersent apres la validation ;
+  reprends le chemin avec le groupe.
 
-- Repartis les personnes entre l'ascenseur et le bureau superieur.
-- Utilise la corde pour atteindre la salle secondaire et l'orb.
+PARTIE 5 - BASE INONDEE
 
-14 - The Last One
+ORB 9 - RESPITE
 
-- Cette orb n'est disponible qu'apres les treize autres.
-- Dans la zone finale de nettoyage, prends l'echelle vers le haut au lieu du
-  chemin vers le bas. Interagis avec la grande orb.
-- Si le succes ne tombe pas, verifie d'abord la liste des treize premieres
-  dans Steam puis reprends le chapitre final.
+- Zone : base inondee, apres l'echelle et la corde, lorsque le passage circulaire
+  s'ouvre et que tu tombes dans l'eau.
+- Traverse la porte circulaire, tombe dans l'eau et sors rapidement a droite.
+- Ouvre la grille au sol a droite et plonge pour appuyer sur le bouton sous-marin.
+- Remonte a la grille, pars a gauche et replonge dans le bassin precedent.
+- Dans l'eau, prends le tunnel vers la gauche, remonte dans la salle cachee et
+  arrache la tige de l'orb.
+- Repousse ensuite la grille a gauche pour retomber dans la zone precedente.
+- Succes : Respite.
 
-CHECKLIST DES SUCCES
+ORB 10 - UNFATHOMABLE
 
-[ ] Left Behind - orb 4.
-[ ] Obscure Foundations - orb 5.
-[ ] Room for Reflection - orb 12.
-[ ] Pack Mentality - orb 8.
-[ ] Friends in low places - orb 6.
-[ ] Unfathomable - orb 10.
-[ ] Murky Waters - orb 1.
-[ ] Field Research - orb 2.
-[ ] Office Space - orb 13.
-[ ] A Tableau - orb 7.
-[ ] Respite - orb 9.
-[ ] Wee Wee Wee - orb 3.
-[ ] Clockwork - orb 11.
-[ ] The Last One - orb 14, apres les treize autres.
+- Zone : meme grande base, apres le passage de la porte qui se ferme et la
+  traversee de la longue section sous-marine.
+- Rejoins la sortie a droite de la base, mais ne continue pas dans la direction
+  principale quand tu arrives de l'autre cote.
+- Descends directement vers la porte fermee situee sous le passage.
+- Attrape la barre centrale, tourne-la une fois, puis tire la poignee haute
+  pour ouvrir la porte.
+- Nage vers la gauche dans la piece ouverte et atteins l'orb. Arrache la tige.
+- Succes : Unfathomable. Reviens par le meme passage et poursuis vers la surface.
 
-VERIFICATION 100 %
+PARTIE 6 - ENTREE DU COMPLEXE ET MECANISMES
 
-- [ ] 14 succes coches dans Steam.
-- [ ] Les orbes 1 a 13 sont confirmees avant la tentative de The Last One.
-- [ ] La selection de chapitre a ete utilisee si une orb manquait.
-- [ ] Aucun detail d'histoire, d'identite ou d'issue narrative n'est revele.
+ORB 11 - CLOCKWORK
+
+- Zone : entree de la base, apres la traversee en eau et la roue qui fait tourner
+  la plateforme haute.
+- Atteins la roue et fais pivoter la plateforme jusqu'a la position de midi,
+  c'est-a-dire exactement au-dessus de la roue.
+- Reviens vers la gauche, au niveau des corps, jusqu'au petit creux ou le sol
+  devient immerge.
+- Plonge, suis le passage sous-marin et remonte dans la salle rendue accessible
+  par la position de la plateforme.
+- Atteins la petite plateforme a droite et arrache la tige de l'orb.
+- Succes : Clockwork. Reviens a la roue et poursuis sans modifier la plateforme
+  au hasard.
+
+ORB 12 - ROOM FOR REFLECTION
+
+- Zone : salle d'essai avec le boitier jaune et le bouton rouge en hauteur.
+- Pousse le boitier jaune jusqu'au mur de droite et active-le.
+- Monte dessus pour appuyer sur le bouton rouge au-dessus. Le mur s'abaisse.
+- Quand le boitier revient au sol, active-le une deuxieme fois et appuie encore
+  sur le bouton.
+- Au moment ou le mur remonte, saute dessus pour etre porte vers la plateforme
+  superieure.
+- Pars a droite et arrache la tige de l'orb.
+- Succes : Room for Reflection. Ne redescends pas avant d'avoir vu la validation.
+
+ORB 13 - OFFICE SPACE
+
+- Zone : bureau avec de grandes vitres et ascenseur, apres avoir reuni le groupe.
+- Amene le groupe pres de l'ascenseur. Fais monter l'ascenseur, puis redescends
+  rapidement en laissant plusieurs personnes sur le dessus de la plateforme et
+  au moins deux avec toi.
+- Si tout le groupe est dans l'ascenseur, remonte-le et recommence la separation.
+  Il faut un groupe en bas et un groupe sur le toit de l'ascenseur.
+- Avec le groupe reste avec toi, va sous le cable jaune suspendu a droite et
+  utilise leur propulsion pour l'atteindre.
+- Grimpe au cable, va a gauche et rejoins le groupe situe sur le toit.
+- Utilise ce second groupe pour te propulser jusqu'a l'orb suspendue et arrache
+  la tige.
+- Succes : Office Space. La separation peut demander plusieurs essais ; ne
+  pousse pas l'ascenseur au niveau suivant tant que les groupes ne sont pas bons.
+
+PARTIE 7 - DERNIERE ORB ET FIN ALTERNATIVE
+
+ORB 14 - THE LAST ONE
+
+- Condition : les 13 premieres orbes doivent etre desactivees. Si l'acces reste
+  ferme, regarde le panneau lumineux et reprends le numero manquant par selection
+  de chapitre.
+- Zone : complexe de recherche, apres le passage devant les scientifiques et
+  la descente dans la trappe vers le conduit bas.
+- Avance vers la droite dans le conduit. Quand tu arrives a l'echelle, ne
+  descends pas.
+- Saute vers l'echelle et grimpe vers le haut, puis pars a droite jusqu'au grand
+  orb visible avec le panneau en arriere-plan.
+- Entre dans le grand orb. Avance completement vers la droite ; le personnage
+  devient difficile a voir, mais l'interaction apparait au bout.
+- Attrape les cables / la tige invisible et tire vers la gauche jusqu'a ce que
+  les lumieres exterieures s'eteignent.
+- Succes : The Last One. Les 14 succes sont maintenant disponibles.
+
+FIN ALTERNATIVE - ROUTE SANS SPOILER DE SCENARIO
+
+- Apres les 14 orbes, recharge le point de depart du champ de mais / bunker.
+- Ouvre la trappe de la meme zone que Field Research et descends dans le bunker.
+- Utilise la combinaison de directions suivante sur le panneau musical :
+  HAUT - HAUT - DROITE - GAUCHE - DROITE - DROITE - DROITE - HAUT - HAUT -
+  HAUT - DROITE - GAUCHE - GAUCHE - GAUCHE.
+- Valide la porte, puis suis la route ouverte jusqu'a la fin alternative. Aucun
+  succes supplementaire n'est associe a cette fin, mais elle complete le jeu.
+
+CHECKLIST DES 14 ORBES
+
+[ ] 01 Murky Waters - lac, tunnel sous-marin et pilier en bois.
+[ ] 02 Field Research - trappe du champ de mais et salle rouge.
+[ ] 03 Wee Wee Wee - chariot, mur de planches, corde et ferme.
+[ ] 04 Left Behind - trou du coffre-fort et grille a gauche.
+[ ] 05 Obscure Foundations - tuyau, petite echelle et niveau bas de l'usine.
+[ ] 06 Friends in low places - sous-marin, deux postes de controle et groupe.
+[ ] 07 A Tableau - structure de vapeur detruite par le sous-marin.
+[ ] 08 Pack Mentality - torche, chiens et deuxieme groupe.
+[ ] 09 Respite - bouton sous-marin et tunnel vers la gauche.
+[ ] 10 Unfathomable - porte sous-marine a la barre et poignee.
+[ ] 11 Clockwork - plateforme a midi et passage sous l'eau.
+[ ] 12 Room for Reflection - boitier jaune, bouton rouge et mur mobile.
+[ ] 13 Office Space - separation du groupe par l'ascenseur et cable jaune.
+[ ] 14 The Last One - grand orb, apres les treize premieres.
+
+CHECKLIST FINALE - 14 SUCCES STEAM
+
+[ ] Left Behind - Safe falling and hard landings.
+[ ] Obscure Foundations - Lies beneath the city.
+[ ] Room for Reflection - Hanging up.
+[ ] Pack Mentality - Pull together.
+[ ] Friends in low places - Dislodging derelict in the depths.
+[ ] Unfathomable - Take a deep breath.
+[ ] Murky Waters - Something's not right down here.
+[ ] Field Research - Unearthing secrets.
+[ ] Office Space - Do an elevator pitch.
+[ ] A Tableau - Skipping stones at the beach.
+[ ] Respite - Dive back in.
+[ ] Wee Wee Wee - They never made it to market.
+[ ] Clockwork - Shadows at noon.
+[ ] The Last One - It comes together.
+
+VERIFICATION FINALE
+
+- [ ] Steam affiche 14/14 succes.
+- [ ] Les orbes 1 a 13 sont eteintes et confirmees.
+- [ ] L'orb 14 a ete desactivee apres controle du panneau lumineux.
+- [ ] La porte du bunker a ete ouverte avec les 14 orbes validees.
+- [ ] La fin alternative a ete terminee si tu vises le 100 % du contenu du jeu.
+- [ ] La sauvegarde est conservee jusqu'a la synchronisation Steam.
 
 SOURCES DE CONTROLE
 
-- Steam, liste officielle des 14 succes :
+- Liste officielle Steam des 14 succes :
   https://steamcommunity.com/stats/304430/achievements
 - Guide Steam 100 % des orbes :
   https://steamcommunity.com/sharedfiles/filedetails/?id=2147616108
-- Guide Steam de parcours et d'emplacements :
+- Guide chronologique des 14 orbes :
+  https://primagames.com/tips/inside-game-find-all-14-secret-orb-locations
+- Guide Steam du parcours complet :
   https://steamcommunity.com/sharedfiles/filedetails/?id=2564598727
+
+FIN DE LA FICHE
