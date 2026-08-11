@@ -195,6 +195,16 @@ soluce chronologique classique n'apporterait rien.
 - The Escapists 2 - guide publie : 58/58 succes Steam, prisons, escapes et multijoueur
 - SEGA Mega Drive & Genesis Classics - guide publie : 25/25 succes Steam, classiques, scores et challenges
 
+### Age of Empires et tactique
+
+- Age of Empires II (2013) - guide publie : 294/294 succes Steam, campagnes, civilisations et online
+- Company of Heroes 2 - guide publie : 452/452 succes Steam, campagne, Theater of War et online
+- Company of Heroes - soluce speciale publiee : AppID 228200, 0/0 succes Steam, campagnes et missions
+- Commandos: Behind Enemy Lines - soluce speciale publiee : AppID 6800, 0/0 succes Steam, 20 missions
+- Commandos: Beyond the Call of Duty - soluce speciale publiee : AppID 6810, 0/0 succes Steam, campagne additionnelle
+- Commandos 2: Men of Courage - soluce speciale publiee : AppID 6830, 0/0 succes Steam, missions et bonus
+- Commandos 3: Destination Berlin - soluce speciale publiee : AppID 6840, 0/0 succes Steam, operations et scores
+
 ## Futurs guides chronologiques (`planned`)
 
 ### Final Fantasy et RPG proches
@@ -203,13 +213,6 @@ soluce chronologique classique n'apporterait rien.
 
 ### Oddworld, stratégie et jeux à campagne
 
-- Age of Empires II (2013) — campagnes et succès, périmètre à confirmer
-- Company of Heroes — campagne, version à confirmer
-- Company of Heroes 2 — succès online à auditer
-- Commandos: Behind Enemy Lines
-- Commandos: Beyond the Call of Duty
-- Commandos 2: Men of Courage
-- Commandos 3: Destination Berlin
 - Far Cry 2
 - Homefront
 - Max Payne 3 — succès online à auditer

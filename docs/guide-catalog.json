@@ -156,6 +156,13 @@
     { "id": "grim-dawn", "title": "Grim Dawn", "scope": "full-guide", "status": "draft", "file": "public/guides/grim-dawn.txt" },
     { "id": "the-witcher-3-wild-hunt", "title": "The Witcher 3: Wild Hunt", "scope": "full-guide", "status": "draft", "file": "public/guides/the-witcher-3-wild-hunt.txt" },
     { "id": "the-escapists-2", "title": "The Escapists 2", "scope": "full-guide", "status": "draft", "file": "public/guides/the-escapists-2.txt" },
-    { "id": "sega-mega-drive-genesis-classics", "title": "SEGA Mega Drive & Genesis Classics", "scope": "full-guide", "status": "draft", "file": "public/guides/sega-mega-drive-genesis-classics.txt" }
+    { "id": "sega-mega-drive-genesis-classics", "title": "SEGA Mega Drive & Genesis Classics", "scope": "full-guide", "status": "draft", "file": "public/guides/sega-mega-drive-genesis-classics.txt" },
+    { "id": "age-of-empires-ii-2013", "title": "Age of Empires II (2013)", "scope": "full-guide", "status": "draft", "file": "public/guides/age-of-empires-ii-2013.txt" },
+    { "id": "company-of-heroes-2", "title": "Company of Heroes 2", "scope": "full-guide", "status": "draft", "file": "public/guides/company-of-heroes-2.txt" },
+    { "id": "company-of-heroes", "title": "Company of Heroes", "scope": "special", "status": "draft", "file": "public/guides/company-of-heroes.txt", "reason": "L'AppID Steam 228200 n'expose pas de succes Steam : soluce de campagne, extensions et missions transparente." },
+    { "id": "commandos-behind-enemy-lines", "title": "Commandos: Behind Enemy Lines", "scope": "special", "status": "draft", "file": "public/guides/commandos-behind-enemy-lines.txt", "reason": "L'AppID Steam 6800 n'expose pas de succes Steam : soluce des 20 missions et extractions." },
+    { "id": "commandos-beyond-the-call-of-duty", "title": "Commandos: Beyond the Call of Duty", "scope": "special", "status": "draft", "file": "public/guides/commandos-beyond-the-call-of-duty.txt", "reason": "L'AppID Steam 6810 n'expose pas de succes Steam : soluce de la campagne additionnelle." },
+    { "id": "commandos-2-men-of-courage", "title": "Commandos 2: Men of Courage", "scope": "special", "status": "draft", "file": "public/guides/commandos-2-men-of-courage.txt", "reason": "L'AppID Steam 6830 n'expose pas de succes Steam : soluce des missions, bonus et extractions." },
+    { "id": "commandos-3-destination-berlin", "title": "Commandos 3: Destination Berlin", "scope": "special", "status": "draft", "file": "public/guides/commandos-3-destination-berlin.txt", "reason": "L'AppID Steam 6840 n'expose pas de succes Steam : soluce des operations, bonus et scores." }
   ]
 }

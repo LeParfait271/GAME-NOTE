@@ -150,6 +150,13 @@
     { "id": "grim-dawn", "appId": 219990, "steamAchievements": 234, "guideType": "100-steam-campaigns-dlc-hardcore-endgame", "source": "https://steamcommunity.com/stats/219990/achievements" },
     { "id": "the-witcher-3-wild-hunt", "appId": 292030, "steamAchievements": 78, "guideType": "100-steam-campaign-gwent-dlc-death-march", "source": "https://steamcommunity.com/stats/292030/achievements" },
     { "id": "the-escapists-2", "appId": 641990, "steamAchievements": 58, "guideType": "100-steam-prisons-escapes-dlc-multiplayer", "source": "https://steamcommunity.com/stats/641990/achievements" },
-    { "id": "sega-mega-drive-genesis-classics", "appId": 34270, "steamAchievements": 25, "guideType": "100-steam-classics-challenges-scores", "source": "https://steamcommunity.com/stats/34270/achievements" }
+    { "id": "sega-mega-drive-genesis-classics", "appId": 34270, "steamAchievements": 25, "guideType": "100-steam-classics-challenges-scores", "source": "https://steamcommunity.com/stats/34270/achievements" },
+    { "id": "age-of-empires-ii-2013", "appId": 221380, "steamAchievements": 294, "guideType": "100-steam-campaigns-civilizations-online-farms", "source": "https://steamcommunity.com/stats/221380/achievements" },
+    { "id": "company-of-heroes-2", "appId": 231430, "steamAchievements": 452, "guideType": "100-steam-campaign-theater-of-war-online-farms", "source": "https://steamcommunity.com/stats/231430/achievements" },
+    { "id": "company-of-heroes", "appId": 228200, "steamAchievements": 0, "guideType": "special-no-steam-achievements-campaign-missions", "source": "https://store.steampowered.com/app/228200/Company_of_Heroes/" },
+    { "id": "commandos-behind-enemy-lines", "appId": 6800, "steamAchievements": 0, "guideType": "special-no-steam-achievements-20-missions", "source": "https://store.steampowered.com/app/6800/Commandos_Behind_Enemy_Lines/" },
+    { "id": "commandos-beyond-the-call-of-duty", "appId": 6810, "steamAchievements": 0, "guideType": "special-no-steam-achievements-campaign", "source": "https://store.steampowered.com/app/6810/Commandos_Beyond_the_Call_of_Duty/" },
+    { "id": "commandos-2-men-of-courage", "appId": 6830, "steamAchievements": 0, "guideType": "special-no-steam-achievements-campaign-bonus", "source": "https://store.steampowered.com/app/6830/Commandos_2_Men_of_Courage/" },
+    { "id": "commandos-3-destination-berlin", "appId": 6840, "steamAchievements": 0, "guideType": "special-no-steam-achievements-operations", "source": "https://store.steampowered.com/app/6840/Commandos_3_Destination_Berlin/" }
   ]
 }

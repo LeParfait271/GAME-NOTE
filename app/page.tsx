@@ -2389,6 +2389,118 @@ const guides: Guide[] = [
       "A surveiller : les Chaos Emeralds, les vies, la magie, les runs sans continue et les challenges du hub.",
     meta: ["25/25 Steam", "25 classiques", "Challenges"],
   },
+  {
+    id: "age-of-empires-ii-2013",
+    steamAppId: 221380,
+    title: "Age of Empires II (2013)",
+    eyebrow: "Skybox / Forgotten Empires",
+    subtitle: "Campagnes, civilisations et farms dans l'ordre.",
+    count: "294 succes Steam",
+    file: "age-of-empires-ii-2013.txt",
+    accent: "gold",
+    tag: "Guide 100 % Steam",
+    description:
+      "Route des campagnes HD, scenarios, victoires de civilisations, parties online, cartes et farms.",
+    highlight:
+      "A surveiller : les paliers online, les civilisations, les MVP, les scenarios et les farms de batiments.",
+    meta: ["294/294 Steam", "Campagnes HD", "Online / Escarmouche"],
+  },
+  {
+    id: "company-of-heroes-2",
+    steamAppId: 231430,
+    title: "Company of Heroes 2",
+    eyebrow: "Relic Entertainment",
+    subtitle: "Campagne, Theater of War et online dans l'ordre.",
+    count: "452 succes Steam",
+    file: "company-of-heroes-2.txt",
+    accent: "coral",
+    tag: "Guide 100 % Steam",
+    description:
+      "Route de la campagne sovietique, Theater of War, escarmouches, automatch et farms d'unites.",
+    highlight:
+      "A surveiller : les difficultes, les scenarios, les parties online, les grades et les constructions en serie.",
+    meta: ["452/452 Steam", "Theater of War", "Online / IA"],
+  },
+  {
+    id: "company-of-heroes",
+    steamAppId: 228200,
+    title: "Company of Heroes",
+    eyebrow: "Relic Entertainment",
+    subtitle: "Campagnes et missions dans l'ordre.",
+    count: "0 succes Steam",
+    file: "company-of-heroes.txt",
+    accent: "blue",
+    tag: "Soluce speciale",
+    description:
+      "Route de la campagne de base et des contenus installes, avec objectifs secondaires et skirmish.",
+    highlight:
+      "A surveiller : cet AppID n'expose pas de succes Steam ; la completion est suivie par campagnes et missions.",
+    meta: ["0/0 Steam", "Campagne", "Skirmish / Coop"],
+  },
+  {
+    id: "commandos-behind-enemy-lines",
+    steamAppId: 6800,
+    title: "Commandos: Behind Enemy Lines",
+    eyebrow: "Pyro Studios",
+    subtitle: "20 missions et extractions dans l'ordre.",
+    count: "0 succes Steam",
+    file: "commandos-behind-enemy-lines.txt",
+    accent: "gold",
+    tag: "Soluce speciale",
+    description:
+      "Route des missions, six commandos, objectifs, alarmes et extractions sans faux compteur Steam.",
+    highlight:
+      "A surveiller : cet AppID n'expose pas de succes Steam ; les medailles et temps restent des objectifs manuels.",
+    meta: ["0/0 Steam", "20 missions", "Infiltration"],
+  },
+  {
+    id: "commandos-beyond-the-call-of-duty",
+    steamAppId: 6810,
+    title: "Commandos: Beyond the Call of Duty",
+    eyebrow: "Pyro Studios",
+    subtitle: "Campagne additionnelle et missions dans l'ordre.",
+    count: "0 succes Steam",
+    file: "commandos-beyond-the-call-of-duty.txt",
+    accent: "coral",
+    tag: "Soluce speciale",
+    description:
+      "Route des missions additionnelles, infiltration, objectifs et extractions sans compteur Steam.",
+    highlight:
+      "A surveiller : 0 succes Steam sur l'AppID ; la fiche suit la campagne et les bonus de mission.",
+    meta: ["0/0 Steam", "Campagne", "Mission replay"],
+  },
+  {
+    id: "commandos-2-men-of-courage",
+    steamAppId: 6830,
+    title: "Commandos 2: Men of Courage",
+    eyebrow: "Pyro Studios",
+    subtitle: "Campagnes, personnages et bonus dans l'ordre.",
+    count: "0 succes Steam",
+    file: "commandos-2-men-of-courage.txt",
+    accent: "blue",
+    tag: "Soluce speciale",
+    description:
+      "Route des missions, six specialites, objectifs secondaires, cartes bonus et extraction complete.",
+    highlight:
+      "A surveiller : l'AppID n'expose pas de succes Steam ; les objectifs de campagne sont suivis manuellement.",
+    meta: ["0/0 Steam", "Campagne", "Bonus"],
+  },
+  {
+    id: "commandos-3-destination-berlin",
+    steamAppId: 6840,
+    title: "Commandos 3: Destination Berlin",
+    eyebrow: "Pyro Studios",
+    subtitle: "Operations, objectifs et scores dans l'ordre.",
+    count: "0 succes Steam",
+    file: "commandos-3-destination-berlin.txt",
+    accent: "coral",
+    tag: "Soluce speciale",
+    description:
+      "Route de campagne, operations, objectifs optionnels, extractions et modes additionnels.",
+    highlight:
+      "A surveiller : 0 succes Steam sur l'AppID ; la completion vise missions, bonus et scores.",
+    meta: ["0/0 Steam", "Operations", "Scores"],
+  },
 ];
 
 const steamHeaderUrl = (appId: number) =>

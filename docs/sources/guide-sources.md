@@ -1358,3 +1358,24 @@ conditions difficiles ; elles ne justifient jamais une copie mot a mot.
   https://steamcommunity.com/stats/34270/achievements/
 - Fiche Steam SEGA Mega Drive & Genesis Classics, hub et jeux classiques :
   https://store.steampowered.com/app/34270/SEGA_Mega_Drive_and_Genesis_Classics/
+
+## AGE OF EMPIRES ET TACTIQUE
+
+- Succes officiels Age of Empires II (2013), AppID 221380, total 294 :
+  https://steamcommunity.com/stats/221380/achievements
+- Fiche Steam Age of Empires II (2013), edition HD originale :
+  https://store.steampowered.com/app/221380/Age_of_Empires_II_2013/
+- Succes officiels Company of Heroes 2, AppID 231430, total 452 :
+  https://steamcommunity.com/stats/231430/achievements
+- Fiche Steam Company of Heroes 2, campagnes et Theater of War :
+  https://store.steampowered.com/app/231430/Company_of_Heroes_2/
+- Fiche Steam Company of Heroes, AppID 228200, sans succes Steam :
+  https://store.steampowered.com/app/228200/Company_of_Heroes/
+- Fiche Steam Commandos: Behind Enemy Lines, AppID 6800, sans succes Steam :
+  https://store.steampowered.com/app/6800/Commandos_Behind_Enemy_Lines/
+- Fiche Steam Commandos: Beyond the Call of Duty, AppID 6810, sans succes Steam :
+  https://store.steampowered.com/app/6810/Commandos_Beyond_the_Call_of_Duty/
+- Fiche Steam Commandos 2: Men of Courage, AppID 6830, sans succes Steam :
+  https://store.steampowered.com/app/6830/Commandos_2_Men_of_Courage/
+- Fiche Steam Commandos 3: Destination Berlin, AppID 6840, sans succes Steam :
+  https://store.steampowered.com/app/6840/Commandos_3_Destination_Berlin/
