@@ -1,192 +1,1116 @@
 FALLOUT: NEW VEGAS
+Succes Steam : 75
 GUIDE CHRONOLOGIQUE 100 % STEAM - SANS SPOILER
 
-Version de travail : 10 aout 2026
+Version controlee : 11 aout 2026
+AppID Steam : 22380
+Edition visee : Fallout: New Vegas Ultimate Edition sur PC
+Contenu couvert : jeu de base, Dead Money, Honest Hearts, Old World Blues,
+Lonesome Road, Gun Runners' Arsenal et Courier's Stash
+Mode : solo, aucun succes en ligne
 
-Ce parcours couvre les 75 succes Steam de l'AppID 22380 : jeu de base,
-Dead Money, Honest Hearts, Old World Blues, Lonesome Road et Gun Runners'
-Arsenal. Le Courier's Stash apporte des objets mais pas un nouveau compteur
-de succes. Il n'y a pas de succes en ligne.
+Cette fiche est un parcours complet pour atteindre 75/75 succes Steam tout
+en terminant les grands arcs de quetes, les compagnons, les casinos, les
+collectibles et les defis des extensions. Elle reste sans spoiler narratif :
+les factions et les noms de quetes sont necessaires pour suivre la route, mais
+les fins, les revelations et les consequences detaillees ne sont pas racontees.
 
-OBJECTIF
+COMMENT LIRE LE GUIDE
 
-[ ] 75/75 succes Steam.
-[ ] Toutes les quetes principales, secondaires et compagnons utiles.
-[ ] Les quatre grandes voies de fin via sauvegardes de branche.
-[ ] Les 4 DLC narratifs et les defis Gun Runners' Arsenal.
-[ ] Caravan, casinos, recettes, armes, reputations et Hardcore.
+Fallout: New Vegas n'a pas une route unique. La bonne methode est une route
+chronologique neutre jusqu'a une sauvegarde-carrefour, puis quatre branches
+courtes. Le jeu ne permet pas de continuer librement apres la bataille finale :
+fais donc tout le nettoyage avant de lancer la derniere mission de ta faction.
+
+Le guide vise le 100 % d'objets et de contenu utile, mais le compteur Steam
+ne demande pas toutes les armes uniques, toutes les quetes alternatives ni
+toutes les zones. Les sections indiquent clairement ce qui est obligatoire
+pour un succes et ce qui est ajoute pour une fiche vraiment complete.
+
+COMPTEURS DE FIN DE JEU
+
+Succes Steam : 75/75
+Jeu de base : 50 succes
+Gun Runners' Arsenal : 5 succes
+Honest Hearts : 5 succes
+Dead Money : 5 succes
+Old World Blues : 5 succes
+Lonesome Road : 5 succes
+Niveau minimum : 30 pour The Boss ; les DLC montent le plafond jusqu'a 50
+Boules a neige du jeu de base : 7/7
+Compagnons du jeu de base : 8/8
+Casino : Gomorrah 9 000, The Tops 10 000, Ultra-Luxe 15 000 jetons
+Defis GRA : 3 defis une etoile, 3 defis deux etoiles, 3 defis trois etoiles
+Lonesome Road : 5 ameliorations ED-E, 30 warheads, Red Glare complet
+Dead Money : 500 Sierra Madre Chips cumulees
+Old World Blues : 10 personnalites du Sink activees
 
 GARDE-FOUS ABSOLUS
 
-- Fais une sauvegarde manuelle avant d'entrer dans le Strip, avant chaque
-  grande decision de faction et avant le point de non-retour de la bataille
-  finale. Les quatre voies de fin ne doivent pas etre rejouees depuis le debut.
-- Une partie 100 % confortable demande une partie principale en Normal, une
-  sauvegarde Hardcore dediee et des rechargements de branche. Active Hardcore
-  au debut de la partie qui doit valider le succes associe et garde le mode
-  actif jusqu'a la conclusion.
-- Les reputations de NCR, Legion, House et Yes Man peuvent se modifier. Evite
-  de porter une tenue de faction pendant une quete importante et parle aux
-  chefs avant de detruire un camp ou de fermer une ligne de quete.
-- Termine les quetes de compagnons avant le dernier tiers de l'histoire. Une
-  porte de faction ou une mauvaise reputation peut les rendre indisponibles.
-- Pour Caravan, le jeu de cartes et les mises de casino, conserve les cartes,
-  les jetons et l'argent necessaires ; ne vide pas les coffres de collection.
-- Aucun passage ne revele une mort, une trahison, une identite, une fin ou le
-  resultat d'une faction.
+1. Active Hardcore juste apres l'introduction, des que le jeu te propose le
+   choix. Ne le desactive jamais jusqu'a la fin de la branche principale qui
+   doit valider Hardcore.
+2. Fais une sauvegarde manuelle avant Goodsprings, avant chaque choix de
+   sheriff, avant l'entree du Strip et avant chaque grande branche de faction.
+3. Ne detruis pas une base NCR, Legion, Brotherhood ou Boomers avant d'avoir
+   termine ses quetes, ses dialogues et ses compagnons associes.
+4. Garde une sauvegarde-carrefour apres Ring-a-Ding-Ding, quand les quatre
+   grandes voies sont encore ouvertes. N'ecrase jamais ce fichier.
+5. Termine les quetes personnelles des huit compagnons avant la derniere
+   mission de faction. Une reputation trop basse peut fermer une ligne.
+6. Fais Dead Money avec une sauvegarde separee avant l'entree du bunker. Les
+   succes Cash Out et Safety Deposit Box demandent deux conclusions differentes.
+7. Dans Honest Hearts, sauvegarde avant le choix final de Daniel : deux succes
+   opposes se font en rechargeant ce fichier.
+8. Dans Lonesome Road, detone chaque warhead et ramasse chaque amelioration
+   ED-E avant la derniere zone. Le voyage retour reste possible, mais le suivi
+   immediat evite les allers-retours et les oublis.
+9. Pour les defis GRA, lis l'intitule complet dans le menu avant de tuer la
+   cible. Certains demandent une arme precise et un type d'ennemi precis.
+10. Ne vends pas une arme marquee unique, une carte de Caravan, une recette,
+    un objet de quete ou un composant de craft avant de l'avoir coche.
+11. Les mods et commandes de console peuvent modifier les scripts ou le
+    suivi des succes. Cette fiche suppose une partie Steam non modifiee pour
+    la validation finale.
+12. Les lignes marquees missable ou fenetre sont a traiter au moment indique.
 
-MISSABLES A SECURISER
+PLAN DE SAUVEGARDES
 
-- Quetes de compagnons, reputations de factions, Hardcore, casinos, Caravan,
-  defis GRA et sauvegarde avant la bataille finale.
+Fichier A - DEPART
 
-ORDRE DE PARTIE CONSEILLE
+Sauvegarde avant le choix Hardcore chez Doc Mitchell. Elle sert de point de
+retour si tu veux une partie normale, mais ne recharge pas ce fichier pour la
+partie qui doit valider Hardcore apres l'avoir desactive.
 
-1. Partie principale en Normal, avec exploration et quetes de compagnons.
-2. DLC dans l'ordre : Honest Hearts, Old World Blues, Dead Money,
-   Lonesome Road. Le niveau recommande est d'environ 15/20, 25, 25/30 et 30.
-3. Nettoyage des defis et des compteurs Gun Runners' Arsenal.
-4. Sauvegardes de factions et quatre voies de fin.
-5. Partie Hardcore dediee si le succes n'a pas ete fait en premier parcours.
+Fichier B - GOODSPRINGS
 
-GOODSPRINGS, PRIMM ET MOJAVE SUD
+Sauvegarde avant Ghost Town Gunfight / Run Goodsprings Run. Termine une route,
+puis recharge pour voir l'autre resolution sans perdre les marchands et les
+dialogues de la route choisie comme principale.
 
-- Fais les deux issues de la premiere quete locale avec des sauvegardes, puis
-  garde la route qui conserve le plus de marchands et d'entrainement.
-- A Primm, termine le sauvetage, le choix de sheriff et les coffres. Reviens
-  parler a chaque habitant apres la conclusion de la quete.
-- Visite Mojave Outpost, Nipton et Novac sans attaquer de faction. Prends les
-  quetes, les cartes de Caravan et les magazines de competences.
-- Commence les compteurs : une partie de Caravan, un jeu de casino, un
-  craft, une recette de medecin, une arme modifiee et un compagnon recrute.
+Fichier C - PRIMM
 
-NOVAC, BOULDER CITY ET CAMP MCCARRAN
+Sauvegarde avant le choix du sheriff de My Kind of Town. Les solutions NCR,
+Meyers et Primm Slim donnent des resultats differents pour une completion
+globale, sans modifier le compteur Steam.
 
-- Termine les enquetes de Novac et les quetes de compagnons sans abandonner
-  les dialogues optionnels. Pour chaque compagnon, parle au camp apres les
-  missions et note le prochain declencheur.
-- A Boulder City et McCarran, fais les quetes de diplomatie, d'enquete et de
-  ravitaillement avant de choisir la faction a laquelle tu vas t'afficher.
-- Explore les bureaux, hangars et terminaux. Les documents et les armes
-  uniques ne sont pas tous lies a un succes mais sont necessaires au contenu
-  complet.
+Fichier D - MAITRE
 
-FREESIDE, STRIP ET FACTIONS
+Apres Ring-a-Ding-Ding, fais une sauvegarde manuelle dans un emplacement
+protege. C'est la sauvegarde-carrefour des quatre factions. Termine tout le
+contenu neutre avant d'avancer les lignes House, NCR, Legion ou Yes Man.
 
-- Termine les quetes de Freeside, les casinos, les vendeurs et les missions
-  d'acces au Strip avant de choisir ta branche finale.
-- Gagne assez de jetons pour les recompenses de casinos, puis arrete-toi avant
-  de perdre tes compteurs. Fais les succes de Caravan et de blackjack pendant
-  cette phase.
-- Ouvre quatre sauvegardes manuelles au moment ou les quatre voies principales
-  sont toutes encore accessibles : NCR, Legion, House et Yes Man. Ne remplace
-  jamais ces sauvegardes par une sauvegarde rapide.
-- Termine les quetes de compagnons, les entrainements, les reputations et les
-  missions de faction avant la bataille finale. Les succes de branche se
-  valident en choisissant une voie puis en rechargeant les autres sauvegardes.
+Fichier E - DEAD MONEY
 
-MOJAVE CENTRAL ET NORD
+Avant l'entree du bunker de la Brotherhood. A la fin, sauvegarde avant le
+terminal de la chambre forte pour obtenir Cash Out et Safety Deposit Box sur
+deux rechargements.
 
-- Fais une boucle par Hidden Valley, Camp Forlorn Hope, Jacobstown,
-  Bitter Springs, Repconn et les carrieres. Termine les quetes et les
-  compagnons avant de modifier une reputation.
-- Recupere les magazines de competences, les cartes de Caravan, les holotapes,
-  les armes et les recettes. Vends uniquement les objets qui ne sont pas
-  marques comme recette, composant unique ou objet de quete.
-- Les defis de combat des DLC Gun Runners' Arsenal demandent des armes et des
-  methodes variees. Commence la liste pendant cette phase, pas apres la fin.
+Fichier F - HONEST HEARTS
 
-HONEST HEARTS
+Avant la decision finale de Daniel. Une route donne May my Hand Forget its
+Skill, l'autre O Daughter of Babylon. Les deux se font sans recommencer le DLC.
 
-- Entre avec un equipement leger et une sauvegarde separee. Le DLC possede sa
-  propre progression et ses propres quetes secondaires.
-- Explore chaque canyon, grotte et camp avant de quitter une zone. Ramasse les
-  notes, recettes, armures et objets uniques, puis reviens parler aux PNJ qui
-  ont une nouvelle ligne de dialogue.
-- Termine les succes de chasse, de survie et de quetes du DLC. Ne quitte pas
-  la zone avant d'avoir valide le compteur de collectibles local.
+Fichier G - FIN DE FACTION
 
-OLD WORLD BLUES
+Juste avant la derniere mission de la branche choisie. Termine une fin,
+attends la notification Steam, puis recharge Fichier D ou G pour les autres.
 
-- Entre apres avoir un personnage equipe en Science, Medecine et Reparation.
-  Les tests de competence ouvrent des dialogues et des recompenses.
-- Fais le tour du complexe : laboratoires, maisons, tunnels et postes de
-  recherche. Note les holotapes, les technologies et les recettes.
-- Termine les experiences secondaires, les tests d'armes et les creatures
-  uniques. La zone reste accessible jusqu'a la fin du DLC : ne te precipite
-  pas dans la mission principale.
+DIFFICULTE ET CREATION DU PERSONNAGE
 
-DEAD MONEY
+Route conseillee
 
-- Fais une sauvegarde avant l'entree. Le DLC utilise des regles de survie
-  propres, des ressources limitees et des zones qui se rouvrent plus tard.
-- Explore les ruelles et les batiments avant les objectifs de signal. Fais
-  chaque cache, terminal, recette et arme ramassable pendant que la zone est
-  active.
-- Apprends les emplacements des distributeurs et gere les munitions. Les
-  succes lies aux compagnons demandent de lire leurs indices et d'ecouter
-  leurs dialogues sans brusquer la suite.
-- Avant de quitter le casino, verifie le compteur de jetons et les salles
-  secondaires. La fin du DLC peut empecher un retour libre.
+- Active Hardcore pour la partie principale qui doit valider le succes.
+- La difficulte Very Easy ou Very Hard ne change pas les succes ; choisis
+  selon ton confort, mais Very Easy simplifie les defis GRA de combat.
+- Une chance elevee facilite les casinos. Si tu veux jouer naturellement,
+  Luck 7 ou 8 est confortable ; tu peux aussi utiliser les avantages et les
+  implants plus tard.
+- Vise Speech 50, Lockpick 50, Science 50 puis 75, Repair 65, Barter 50 ou
+  75, Medicine et Survival. Ces seuils couvrent les dialogues et les objets
+  importants sans bloquer une construction de combat.
+- Garde quelques points d'Explosives et de Science pour les quetes de zone et
+  les defis Gun Runners' Arsenal.
 
-LONESOME ROAD
+Hardcore en pratique
 
-- Entre avec une sauvegarde de Mojave intacte et au moins un niveau de combat
-  confortable. Le DLC est lineaire mais contient des embranchements et des
-  zones de fouille.
-- Ramasse tous les composants, notes, holobandes et armes uniques. Utilise les
-  capacites du compagnon du DLC et explore les ruines avant chaque lancement.
-- Les silos, convois et zones de test contiennent les objectifs de combat et
-  de collecte. Fais-les avant la derniere mission du DLC.
-- Reviens ensuite au Mojave pour les recompenses et les defis Gun Runners'
-  Arsenal qui demandent des armes obtenues dans les DLC.
+- Les membres blesses demandent des Doctor's Bags ou un medecin.
+- Les stimpaks soignent progressivement, pas instantanement.
+- Les munitions ont un poids : garde les calibres correspondant a ton arme.
+- Mange, bois et dors regulierement. Les compagnons ne meurent pas de faim,
+  mais leurs blessures sont plus dangereuses.
+- Utilise les maisons, le Lucky 38 et les coffres de compagnons pour stocker.
+- La faim, la soif et la privation de sommeil ne bloquent pas la progression,
+  mais les ignorer rend les combats et les voyages inutilement difficiles.
 
-GUN RUNNERS' ARSENAL ET COMPTEURS
+COMPTEURS A COMMENCER DES LE DEBUT
 
-- Termine au moins trois defis Gun Runners' Arsenal. Lis les conditions
-  exactes dans le menu et fais une liste de progression : armes, types de
-  munitions, coups critiques, ennemis et conditions de distance.
-- Pour les armes uniques, ne vends ni ne depose une arme avant d'avoir verifie
-  son nom dans la checklist. Les mods ne sont pas interchangeables entre tous
-  les modeles.
-- Fais les compteurs de crochetage, piratage, medecine, reparation,
-  explosifs, science et commerce avec des sauvegardes de test. Recharge apres
-  les essais si tu ne veux pas modifier la reputation.
-- Termine les succes de Caravan, roulette, blackjack, machines a sous,
-  limites de casinos et achat d'objets de faction. Les limites de casino
-  demandent de gagner, pas seulement de posseder des jetons.
+- Craft : fabrique 20 objets sur un feu de camp, un etabli ou un banc de
+  rechargement. Compte les recettes dans un carnet.
+- Repair : repare 30 objets avec des doublons ou des kits.
+- Weapon Mods : installe 20 mods, sans compter leur achat.
+- Lockpick : ouvre 25 serrures ; ne depense pas les Bobby Pins au hasard.
+- Science : pirate 25 terminaux, en notant les terminaux deja utilises.
+- Speech : reussis 50 Speech Challenges, pas seulement 50 dialogues.
+- Pickpocket : reussis 50 vols. Utilise des sauvegardes de test mais ne
+  recharge pas avant chaque vol si tu veux que le compteur reste simple.
+- Degats : alterne guns, energy weapons, melee, unarmed et explosives.
+- Soins : les stimpaks et la nourriture comptent separement.
+- Caravan : gagne 30 parties sur la meme sauvegarde.
 
-HARDCORE ET QUATRE BRANCHES DE FIN
+ETAPE 01 - GOODS﻿PRINGS ET REVEIL
 
-- Partie Hardcore : active le mode au debut, gere la faim, la soif, le
-  sommeil, le poids, les membres blesses et les compagnons. Fais les DLC dans
-  l'ordre conseille et arrive a la fin avec une sauvegarde manuelle.
-- Branche NCR : recharge la sauvegarde de carrefour, execute toute la ligne
-  NCR et valide la conclusion.
-- Branche Legion : recharge la meme sauvegarde, respecte la ligne Legion et
-  valide la conclusion.
-- Branche House : recharge, restaure les conditions du dirigeant du Strip et
-  valide la conclusion.
-- Branche Yes Man : recharge, suis la voie independante et valide la
-  conclusion.
-- Entre deux branches, verifie le profil Steam. Les objectifs de chaque route
-  se cumulent mais une sauvegarde ne doit pas etre ecrasee avant la notification.
+Ain't That a Kick in the Head
 
-CHECKLIST STEAM FINALE - 75/75
+- Termine l'introduction chez Doc Mitchell et personnalise le personnage.
+- Reponds aux questions de SPECIAL et de competences ; tu peux modifier ces
+  choix ensuite avec les implants et certains avantages.
+- Active Hardcore avant de sortir de la clinique si cette partie doit le
+  valider. Le succes exige le mode actif du debut a la fin.
+- Sors vers Goodsprings pour obtenir Ain't That a Kick in the Head.
 
-[ ] 50 succes du jeu de base : histoire, compagnons, quetes, combats et
-    activites du Mojave.
-[ ] 5/5 Dead Money.
-[ ] 5/5 Honest Hearts.
-[ ] 5/5 Old World Blues.
-[ ] 5/5 Lonesome Road.
-[ ] Defis Gun Runners' Arsenal, armes, casinos et Caravan.
-[ ] Hardcore valide sur une partie complete.
-[ ] Quatre branches de fin validees par sauvegardes.
-[ ] Verification finale du profil Steam : 75/75.
+Goodsprings : nettoyage avant le choix
 
-REGLE ANTI-SPOILER
+- Parle a Sunny Smiles au saloon et termine Back in the Saddle.
+- Fais By a Campfire on the Trail, apprends a utiliser un feu et fabrique au
+  moins un objet. Commence Crafty avec des Healing Powder, des recettes et des
+  munitions basiques.
+- Va a Goodsprings Source et reussis les tirs de tutoriel.
+- Visite le magasin, le saloon, la maison du Doc et le cimetiere.
+- Dans le cimetiere, ramasse la Snow Globe - Goodsprings sur la tombe marquee
+  par des debris, puis garde-la dans l'inventaire.
+- Apprends quelques cartes de Caravan a Ringo ou aux habitants. Le jeu est
+  plus facile a pratiquer avant d'avoir beaucoup d'argent.
+- Repare un objet, vends quelques marchandises et ouvre une premiere serrure.
 
-Les factions, les zones et les conditions de jeu servent uniquement a donner
-un ordre. Les conclusions, morts, trahisons, identites et consequences des
-choix ne sont pas decrites.
+Ghost Town Gunfight / Run Goodsprings Run
+
+- Fais la sauvegarde Fichier B avant de choisir ton camp.
+- Pour la route de protection, parle au chef de Goodsprings et prepare les
+  defenses avec les habitants puis termine Ghost Town Gunfight.
+- Pour la route Powder Gangers, parle au chef de la prison et execute Run
+  Goodsprings Run. Recharge ensuite Fichier B si tu gardes Goodsprings comme
+  base principale.
+- Ces deux routes n'ont pas de succes Steam associe, mais les voir est utile
+  pour la completion des quetes et des reputations.
+- Garde le marchand et le medecin accessibles sur la sauvegarde principale.
+
+ETAPE 02 - PRIMM ET LA ROUTE SUD
+
+They Went That-a-Way
+
+- Quitte Goodsprings en suivant la route vers Primm. Ne pars pas directement
+  vers le nord par les Deathclaws.
+- Visite Mojave Outpost et active les quetes disponibles avant de poursuivre.
+- Entre a Primm et termine They Went That-a-Way.
+- Explore le Mojave Express, le casino et le Bison Steve Hotel.
+- Ouvre les coffres, lis les terminaux et recupere les armes uniques sans les
+  vendre. Un pistolet unique trouve tot aide Curios and Relics plus tard.
+
+My Kind of Town
+
+- Aide les habitants de Primm a recuperer un sheriff.
+- Fais une sauvegarde avant le choix de sheriff.
+- Teste la solution NCR, la solution Meyers et la solution Primm Slim, puis
+  garde la route qui conserve les marchands utiles pour la suite.
+- Termine aussi les missions de la prison et du Mojave Express si elles sont
+  actives ; ne chasse pas les survivants necessaires a une autre solution.
+
+Mojave Outpost
+
+- Parle au ranger et au responsable de la caravane pour les missions de
+  radscorpions, de caravanes et de ravitaillement.
+- Rencontre Cass a la caserne. Elle lancera Heartache by the Number plus tard.
+- Ne detruis pas la caravane avant d'avoir active sa quete.
+- Au magasin, compare les armes, les mods et les munitions. Les mods achetes
+  comptent uniquement apres installation sur une arme compatible.
+
+Nipton et alentours
+
+- Explore Nipton, Searchlight Road et les batiments lateraux.
+- Fais Booted, Cold, Cold Heart, We Are Legion et les missions de ravitaillement
+  accessibles selon ta reputation.
+- Garde une sauvegarde avant toute action qui ferait baisser fortement ta
+  reputation NCR ou Legion.
+- Ne detruis pas le camp de la Legion avant d'avoir parle a ses donneurs de
+  quetes et note les objets uniques.
+
+ETAPE 03 - NOVAC, BOULDER CITY ET REPCONN
+
+Novac
+
+- Termine les quetes de Novac avant de partir : Come Fly With Me et One for My
+  Baby sont prioritaires pour les succes et le recrutement.
+- Dans le Dino Dee-lite, parle a Boone la nuit et commence One for My Baby.
+- Termine l'enquete en lisant les preuves et en interrogeant les habitants.
+  Recrute Boone apres la resolution.
+- Visite la chambre de motel, le magasin et la tour. Les coffres et les
+  livres de competences sont faciles a manquer dans cette ville.
+
+Come Fly With Me
+
+- Entre dans le REPCONN Test Site avec une arme contre les ghouls et assez de
+  munitions.
+- Explore les bureaux, les laboratoires et le sous-sol avant le dernier
+  objectif de la quete.
+- Fais toutes les conversations avec les ghouls et le scientifique de la zone.
+- Utilise Fichier C si tu veux conserver les resultats des solutions hostile,
+  pacifique et scientifique. La completion principale doit garder le lieu
+  ouvert et obtenir Come Fly With Me.
+
+Boulder City
+
+- Termine Boulder City Showdown en parlant aux deux groupes avant de choisir
+  la conclusion.
+- Fouille les ruines et les tunnels pour les objets de soin et les munitions.
+- Poursuis They Went That-a-Way jusqu'a l'entree du Strip.
+
+ED-E
+
+- Dans la residence Nash de Primm, repare ED-E avec Science 55, Repair 65 ou
+  les composants : 3 Scrap Metal, 2 Sensor Modules et 1 Scrap Electronics.
+- Les composants se trouvent chez les marchands, dans la residence et a
+  Lone Wolf Radio, entre Goodsprings et Primm.
+- Recrute ED-E pour Ol' Buddy Ol' Pal.
+- Garde-le avec toi assez longtemps pour entendre ses dialogues de faction et
+  activer ED-E My Love. Reviens a Primm quand le jeu indique une nouvelle piste.
+
+ETAPE 04 - FREESIDE, STRIP ET PREMIERS COMPAGNONS
+
+Freeside
+
+- Entre par la porte de Freeside et prends G.I. Blues aupres des Kings.
+- Fais la quete sans fermer les dialogues de la faction ; G.I. Blues donne son
+  succes a sa conclusion.
+- Termine High Times, Birds of a Feather, Wang Dang Atomic Tango et les
+  missions des medecins du Old Mormon Fort.
+- Visite le Old Mormon Fort et prends la Snow Globe - Mormon Fort dans la
+  tour ouest, sur l'etagere de l'etage superieur.
+
+Rex
+
+- Parle au King a la King's School of Impersonation et accepte Nothin' But a
+  Hound Dog.
+- Emmene Rex a Jacobstown chez le docteur Henry.
+- Obtiens un cerveau a Gibson Scrapyard, dans Vault 3 ou au camp de la Legion.
+  Chaque choix donne un bonus different ; choisis celui qui correspond a ta
+  construction.
+- Recrute Rex et note la fin de la quete.
+
+Veronica
+
+- Rencontre Veronica au 188 Trading Post, pres du pont et de la cantine.
+- Parle-lui et recrute-la directement si tu as un emplacement libre.
+- Garde-la pour I Could Make You Care. Visite les lieux qui declenchent ses
+  dialogues, puis termine sa quete avant la branche finale.
+
+Arcade Gannon
+
+- Cherche Arcade au Old Mormon Fort.
+- Utilise le dialogue Speech ou Intelligence requis pour le convaincre de
+  voyager avec toi. Les seuils peuvent varier selon tes reponses et tes perks.
+- Fais For Auld Lang Syne avant la derniere ligne de faction. Ne le laisse pas
+  en attente si tu avances rapidement vers la bataille finale.
+
+Acces au Strip
+
+- Ouvre la porte du Strip par les caps, le passeport ou la route des Kings.
+- Ne choisis aucune faction principale tout de suite. Entre, fais les courses,
+  les casinos et les quetes des trois familles.
+- Dans le Lucky 38, monte au Cocktail Lounge et prends la Snow Globe - Test
+  Site derriere une caisse enregistreuse du bar.
+- Dans Vault 21, prends la Snow Globe - The Strip dans la chambre verrouillee
+  de Sarah. Lockpick 50 est la methode directe ; n'ecrase pas ta sauvegarde
+  avant d'entrer.
+
+ETAPE 05 - CASINOS, CARAVAN ET COLLECTIBLES DU STRIP
+
+The Courier Who Broke the Bank
+
+- Les trois casinos qui comptent sont Gomorrah, The Tops et Ultra-Luxe.
+- Limites de gains a atteindre : Gomorrah 9 000, The Tops 10 000, Ultra-Luxe
+  15 000 jetons.
+- Lucky 38 ne compte pas pour ce succes, mais il permet de stocker les gains.
+- Fais une sauvegarde avant d'entrer dans chaque casino. Joue jusqu'a recevoir
+  la recompense et l'interdiction, puis passe au suivant.
+- Profite des tables pour les compteurs Double Down, One Armed Bandit et
+  Little Wheel : 10 mains de blackjack, 10 tours de slots et 10 tours de
+  roulette.
+- Une Luck elevee et les implants rendent cette section beaucoup plus courte.
+
+Caravan
+
+- Apprends les regles a Ringo, aux marchands et aux habitants.
+- Construis un paquet simple avec des 6, 7, 8, 9 et 10 en quantite, puis
+  utilise les figures pour ajuster les sommes.
+- Gagne trois parties pour Know When to Fold Them.
+- Continue jusqu'a 30 victoires pour Caravan Master. Le compteur doit etre
+  fait sur la meme sauvegarde ; ne recharge pas un fichier d'avant les victoires.
+- Les marchands de Goodsprings, Primm, Mojave Outpost et Novac sont des
+  adversaires pratiques et peuvent fournir de nouvelles cartes.
+
+Talent Pool et quetes du Strip
+
+- Fais Talent Pool en recrutant les artistes pour la troupe demandee.
+- Fais Beyond the Beef avec une sauvegarde avant les choix du casino.
+- Fais How Little We Know et les quetes des Omertas avant d'entrer dans une
+  branche de faction qui rendrait le lieu hostile.
+- Fais The Moon Comes Over the Tower et les dialogues de la tour.
+- Explore les suites, les boutiques, Vault 21 et les casinos avant de
+  poursuivre Ring-a-Ding-Ding.
+
+The Legend of the Star
+
+- Ramasse les Star Bottle Caps en explorant les maisons, les cadavres et les
+  marchands. Ne confonds pas les capsules normales avec les capsules etoilees.
+- Atteins 50 Star Bottle Caps et active A Valuable Lesson.
+- Termine la quete et recupere la recompense. Le journal peut afficher un
+  echec de The Legend of the Star pendant la resolution : c'est prevu dans la
+  sequence et le succes tombe a la conclusion de l'arc.
+- Le nettoyage complet donne aussi Pew Pew et des objets uniques. Garde-les
+  pour Curios and Relics et pour l'inventaire final.
+
+ETAPE 06 - MOJAVE CENTRAL : NCR, BOOMERS ET BROTHERHOOD
+
+Helios One
+
+- Termine That Lucky Old Sun avant de degrader la reputation NCR.
+- Explore la centrale, les bureaux, les terminaux et les toits.
+- Fais les tests Science/Repair et prepare les options de distribution de
+  courant avec une sauvegarde avant le terminal.
+- Le succes tombe a la conclusion de la quete, quelle que soit la solution
+  que tu choisis. Pour une completion globale, recharge et vois les options
+  secondaires sans ecraser la route principale.
+
+Nellis Air Force Base
+
+- Parle aux Boomers depuis la barriere et avance avec leur quete d'accueil.
+- Termine Volare! en recuperant les ressources, les plans et l'aide necessaire.
+- Dans le Boomer Museum, prends la Snow Globe - Nellis AFB sur la table a
+  droite en entrant.
+- Termine Sunshine Boogie et Ant Misbehavin' si elles sont disponibles.
+- Ne tire pas sur les Boomers : leur aide est importante pour une branche
+  propre et pour le contenu final.
+
+Camp McCarran
+
+- Fais Three Card Bounty, I Put a Spell on You, There Stands the Grass et
+  les missions des medecins.
+- Lance Return to Sender au camp ou aupres de la personne qui gere les postes.
+- Visite les bureaux, le terminal, les quartiers et les pistes avant de
+  partir. Plusieurs Speech Challenges et serrures faciles alimentent les
+  compteurs.
+- Pour Arizona Killer, ne tue pas les cibles avant d'avoir active la quete de
+  la branche Legion.
+
+Camp Forlorn Hope et Nelson
+
+- Aide le camp avec Medical Mystery, Restoring Hope, We Are All! et Return to
+  Sender.
+- Termine les dialogues des rangers et des soldats avant de detruire un camp.
+- Visite Nelson, Cottonwood Cove et les postes Legion avec une sauvegarde de
+  reputation. Certains donneurs de quetes disparaissent apres une attaque.
+
+Hidden Valley et Brotherhood of Steel
+
+- Termine Still in the Dark au bunker de Hidden Valley.
+- Fais les entrainements et les recherches des membres avant de choisir leur
+  sort dans la quete.
+- Termine I Could Make You Care avec Veronica, en preservant la sauvegarde
+  avant la derniere conversation.
+- Garde au moins une route ou la faction reste accessible pour les dialogues,
+  les entrainements et les objets uniques.
+
+Camp Searchlight
+
+- Fais la boucle par les eglises, les ruines et les sous-sols.
+- Les Holy Frag Grenades de l'eglise est sont utiles pour le def i GRA The
+  Same Could Be Said of All Religious Weapons.
+- Ne lance pas le nettoyage explosif avant d'avoir fouille les cadavres et les
+  terminaux de la zone.
+
+ETAPE 07 - COMPAGNONS : 8/8 ET QUETES PERSONNELLES
+
+Le succes The Whole Gang's Here demande d'avoir recrute les huit compagnons
+du jeu de base. Tu peux les recruter l'un apres l'autre et les renvoyer au
+Lucky 38 ou dans leurs lieux de retour. Les compagnons de DLC ne comptent pas
+dans ce succes.
+
+1. ED-E - residence Nash, Primm. Repair 65, Science 55 ou composants.
+2. Boone - Dino Dee-lite, Novac, la nuit. Termine One for My Baby.
+3. Veronica - 188 Trading Post. Dialogue direct au pont.
+4. Cass - caserne de Mojave Outpost. Progression de Heartache by the Number,
+   puis Barter ou Speech selon la conversation.
+5. Arcade Gannon - Old Mormon Fort. Dialogue de recrutement avec Speech ou
+   Intelligence et les bonnes reponses.
+6. Raul Tejada - prison de Black Mountain. Libere-le puis parle-lui.
+7. Lily Bowen - Jacobstown Lodge. Fais Guess Who I Saw Today avec Dr Henry.
+8. Rex - King's School of Impersonation. Fais Nothin' But a Hound Dog.
+
+Quetes personnelles a terminer
+
+- ED-E My Love : voyage avec ED-E, ecoute ses journaux, puis reviens a Primm
+  pour la suite. Les deux factions qui peuvent intervenir sont traitees par
+  des dialogues ; ne laisse pas ED-E au Lucky 38 pendant toute la partie.
+- One for My Baby : l'enquete de Boone doit etre complete avant le recrutement.
+- Heartache by the Number : aide Cass et parle a Alice McLafferty pour
+  progresser avec la caravane. Garde une reputation permettant le dialogue.
+- I Could Make You Care : fais les visites de Veronica et choisis la route
+  de faction uniquement apres les dialogues optionnels.
+- Old School Ghoul : emmene Raul dans les lieux qui declenchent ses souvenirs,
+  puis retourne au repaire pour sa decision.
+- Guess Who I Saw Today : termine les tests de Dr Henry et parle a Lily apres
+  chaque nouvelle etape.
+- For Auld Lang Syne : Arcade doit avoir assez de confiance ; ecoute ses
+  dialogues et valide la quete avant la derniere branche.
+- Nothin' But a Hound Dog : choisis un cerveau pour Rex apres avoir compare
+  les trois effets, puis termine l'implantation.
+
+ETAPE 08 - 7 SNOW GLOBES DU JEU DE BASE
+
+1. Goodsprings : cimetiere au nord du saloon, sur la tombe couverte de debris.
+2. Hoover Dam : Visitor Center, comptoir d'accueil.
+3. Mormon Fort : tour ouest du Old Mormon Fort, etagere a l'etage.
+4. Mt. Charleston : reception du Jacobstown Lodge.
+5. Nellis AFB : Boomer Museum, sur une table pres de l'entree.
+6. Test Site : Cocktail Lounge du Lucky 38, derriere une caisse du bar.
+7. The Strip : Vault 21, chambre de Sarah sur la table de nuit. Lockpick 50
+   ouvre la porte verrouillee directement.
+
+Les boules a neige des DLC sont des collectibles supplementaires, pas
+necessaires a Globe Trotter. Vends les sept de base a Jane au Lucky 38 si tu
+veux des caps ; elles seront exposees dans la suite et le succes reste valide.
+
+ETAPE 09 - 50, 125 ET COMPTEURS DE COMPETENCES
+
+Walker of the Mojave / Master of the Mojave
+
+- Decouvre les villes, les camps, les grottes, les postes, les fermes, les
+  vaults, les relais et les batiments non marques.
+- 50 lieux suffisent au premier succes ; 125 au second.
+- A partir d'un niveau avance, le perk Explorer revele les emplacements de la
+  carte. Visite-les tout de meme : le marqueur ne compte qu'a la decouverte.
+- La route naturelle des quetes et des DLC depasse generalement 125 lieux.
+
+No Tumbler Fumbler
+
+- Ouvre 25 serrures. Les serrures Easy et Average des villes sont ideales.
+- Garde Lockpick 50 pour Vault 21 et 75 pour les salles les plus utiles.
+- N'utilise pas un magazine uniquement pour ouvrir une serrure si le seuil
+  permanent sera atteint peu apres.
+
+Hack the Mojave
+
+- Pirate 25 terminaux. Les terminaux des bureaux, des vaults, des bases NCR
+  et des laboratoires sont les plus nombreux.
+- Note les essais de mot de passe ; un terminal peut etre verrouille apres
+  plusieurs erreurs.
+- Science 50 puis 75 ouvre aussi les dialogues et les raccourcis.
+
+Outstanding Orator
+
+- Reussis 50 Speech Challenges. Le jeu compte les tests de parole reussis,
+  pas les conversations sans barre de competence.
+- Les quetes de Primm, Novac, Freeside, Camp McCarran, Strip et DLC donnent
+  largement assez de tests. Fais une sauvegarde avant les gros dialogues.
+
+Artful Pocketer
+
+- Reussis 50 pickpockets. Vise les habitants immobiles, les marchands et les
+  soldats isoles, avec Sneak eleve et un Stealth Boy si necessaire.
+- Vole des objets differents et verifie l'animation de reussite. Un objet pris
+  dans un conteneur ne compte pas.
+- Evite les factions utiles ; utilise des cibles hostiles ou des sauvegardes
+  de test quand la cible porte un objet de quete.
+
+Crafty
+
+- Fabrique 20 objets. Healing Powder, Stimpaks, munitions, boissons et
+  recettes de feu de camp sont les plus simples.
+- Les recettes du Honest Hearts et de Survival augmentent rapidement le
+  compteur, mais commence avant le premier DLC.
+
+Jury Rigger
+
+- Repare 30 objets. Un doublon identique ou un Weapon Repair Kit convient.
+- Garde des armes de faible valeur en inventaire pour les reparations rapides.
+- Repair 65 permet aussi de reparer ED-E et d'ouvrir des solutions de quetes.
+
+Mod Master
+
+- Installe 20 weapon mods. Un mod installe est consomme et ne peut pas etre
+  retire.
+- Achete des mods bon marche chez les vendeurs de Goodsprings, Gun Runners,
+  Crimson Caravan et des camps. Installe-les sur des armes compatibles.
+- Ne compte pas le nombre de mods achetes : seul le clic d'installation avance
+  le succes.
+
+ETAPE 10 - DEGATS, SOINS ET ARMES UNIQUES
+
+Les cinq succes de degats sont cumulatifs. Fais une sauvegarde de test dans
+une zone d'ennemis faibles, mais ne recharge pas avant le compteur final si
+tu veux conserver la progression. Le jeu compte les degats infliges, pas le
+nombre de victimes.
+
+Lead Dealer
+
+- Inflige 10 000 degats avec Guns : 9mm, 10mm, revolvers, carabines, fusils
+  et mitrailleuses.
+- Les bandits, les Fiends et les insectes fournissent des cibles faciles.
+
+Blast Mastery
+
+- Inflige 10 000 degats avec Energy Weapons : laser, plasma et variantes.
+- Utilise un Laser Rifle, un Plasma Rifle ou Q-35 Matter Modulator sur des
+  cibles resistantes moderees.
+
+Love the Bomb
+
+- Inflige 10 000 degats avec Explosives : grenades, mines, dynamite, missiles
+  et armes explosives.
+- Pose des mines avant d'attirer des ennemis et verifie que les degats sont
+  bien attribues a la cible.
+
+New Vegas Samurai
+
+- Inflige 10 000 degats avec Melee Weapons : couteaux, batons, machettes,
+  marteaux et armes a deux mains.
+- Une arme rapide et un camp de coyotes permettent de finir le compteur sans
+  gaspiller les munitions.
+
+Old-Tyme Brawler
+
+- Inflige 10 000 degats avec Unarmed Weapons : poings, gants, poings equipes
+  et armes de combat a mains nues.
+- Le compteur avance avec les attaques non armees meme si une armure est
+  equipee.
+
+Stim-ply Amazing
+
+- Soigne 10 000 points de vie avec des Stimpaks. En Hardcore, les soins
+  progressifs permettent de faire monter le compteur naturellement.
+- Utilise les stimpaks quand tu n'es pas au maximum, sans attendre une urgence.
+
+Desert Survivalist
+
+- Soigne 10 000 points avec la nourriture. Les Gecko Kebabs, steaks, fruits,
+  boissons et recettes Survival sont efficaces.
+- En Hardcore, garde de la nourriture pesee dans l'inventaire et soigne-toi
+  apres les combats.
+
+Curios and Relics
+
+- Inflige 10 000 degats avec des armes uniques du Mojave. Tu n'as pas besoin
+  de toutes les posseder ; plusieurs armes uniques atteignent le compteur.
+- Exemples pratiques : That Gun a Novac, Lucky a Primm, Ratslayer a Broc
+  Flower Cave, La Longue Carabine a Camp McCarran, Maria aupres de Benny,
+  Euclid's C-Finder a Nellis, Pew Pew apres The Legend of the Star, Q-35 a
+  REPCONN et Nephi's Golf Driver aupres de Driver Nephi.
+- Garde chaque arme unique jusqu'a la notification ; une arme perdue peut
+  rendre le nettoyage beaucoup plus long.
+
+ETAPE 11 - RING-A-DING-DING ET SAUVEGARDE-CARREFOUR
+
+Ring-a-Ding-Ding
+
+- Termine l'arc de Benny et fais Ring-a-Ding-Ding.
+- Ne lance pas immediatement The House Always Wins, Render Unto Caesar ou
+  Wild Card. Retourne a la sauvegarde Fichier D si un garde te remet une
+  mission de faction trop tot.
+- Termine cette etape pour obtenir le succes de scenario.
+- A partir d'ici, les quetes de faction avancent la reputation et peuvent
+  fermer les autres lignes. Le bon moment pour la sauvegarde-carrefour est
+  juste apres la resolution de cette etape et avant le premier engagement
+  definitif.
+
+Contenu neutre a finir avant les branches
+
+- Compagnons et quetes personnelles.
+- Boomers, Brotherhood, Kings, Followers, Crimson Caravan et Gun Runners.
+- Camp McCarran, Camp Forlorn Hope, Hidden Valley, Jacobstown et Nellis.
+- Helios One, REPCONN, Vault 22, Vault 34 et Camp Searchlight.
+- Les trois casinos, les boules a neige et la collection de Star Caps.
+- 50 parties de Speech, 25 serrures, 25 terminaux, 20 mods et 30 reparations.
+- 10 000 degats dans les cinq categories, si le compteur n'est pas deja fini.
+- Tous les niveaux jusqu'a 30 ; les DLC fourniront le surplus d'experience.
+
+ETAPE 12 - BRANCHES NCR, HOUSE, LEGION ET YES MAN
+
+Regle commune
+
+Utilise Fichier D, execute une branche jusqu'a sa conclusion, attends les
+notifications Steam, puis recharge Fichier D. Les branches ne s'additionnent
+pas dans le journal, mais les succes restent dans le profil.
+
+Branche NCR
+
+- Accepte For the Republic aupres des representants NCR.
+- Termine les objectifs secondaires, Return to Sender et les demandes de
+  soutien avant le dernier segment.
+- Fais You'll Know It When It Happens dans le cadre de la defense de la zone
+  de bataille. Suis les indices de securite et ne quitte pas la mission avant
+  sa conclusion.
+- Termine For the Republic puis Eureka!. Les deux succes se debloquent sur la
+  voie NCR sans imposer de detail narratif supplementaire.
+- Recharge Fichier D.
+
+Branche Mr House
+
+- Lance The House Always Wins depuis le Lucky 38.
+- Suis ses etapes une par une, en gardant les groupes neutres accomplis avant
+  chaque remise de rapport.
+- Termine The House Always Wins pour le succes associe.
+- Termine All or Nothing dans la sequence finale de cette voie.
+- Recharge Fichier D.
+
+Branche Caesar's Legion
+
+- Accepte Render Unto Caesar et conserve une reputation Legion compatible.
+- Fais Arizona Killer pendant la mission indiquee ; ne tue pas la cible avant
+  que le marqueur de quete soit actif.
+- Termine Render Unto Caesar puis Veni, Vidi, Vici.
+- Les objets de faction et les dialogues peuvent etre recuperes sur cette
+  branche sans decrire la conclusion.
+- Recharge Fichier D.
+
+Branche independante Yes Man
+
+- Lance Wild Card et termine ses etapes de preparation.
+- Valide les groupes neutres encore necessaires, notamment Boomers et securite
+  du Strip, avant de lancer la derniere mission.
+- Termine Wild Card puis No Gods, No Masters.
+- Si You'll Know It When It Happens ou Arizona Killer n'ont pas ete faits dans
+  les branches precedentes, utilise les objectifs de la quete active avant la
+  derniere sequence, puis recharge.
+
+LES 12 SUCCES DE SCENARIO DU JEU DE BASE
+
+- Ain't That a Kick in the Head : fin de l'introduction.
+- They Went That-a-Way : progression de la traque initiale.
+- Ring-a-Ding-Ding : conclusion de l'arc de Benny.
+- Wild Card : conclusion de la voie Yes Man.
+- No Gods, No Masters : conclusion finale de la voie independante.
+- The House Always Wins : conclusion de la voie House.
+- All or Nothing : conclusion finale de la voie House.
+- Render Unto Caesar : conclusion de la voie Legion intermediaire.
+- Veni, Vidi, Vici : conclusion finale de la voie Legion.
+- For the Republic : conclusion de la voie NCR intermediaire.
+- Eureka! : conclusion finale de la voie NCR.
+- Hardcore : partie terminee du debut a la fin avec Hardcore actif.
+
+ETAPE 13 - DEAD MONEY, CHRONOLOGIE DES DLC
+
+Ordre recommande des extensions
+
+Pour une chronologie de narration et de difficulte stable, joue : Dead Money,
+Honest Hearts, Old World Blues, puis Lonesome Road. Termine les quatre avant
+la derniere bataille de faction. Les niveaux indicatifs sont 20 pour Dead
+Money, 15 pour Honest Hearts, 20/25 pour Old World Blues et 25/30 pour
+Lonesome Road.
+
+Entree dans Dead Money
+
+- Fais une sauvegarde Fichier E avant le bunker de la Brotherhood situe a
+  l'est de Hidden Valley.
+- Entre leger : les armes, armures et munitions du Mojave sont confisquees
+  temporairement par l'extension.
+- Apprends les emplacements des distributeurs, des coffres et des radios.
+- Les regles de collier, de gaz et de ressources sont propres au DLC ; gere
+  les soins avant les grandes boucles.
+
+Assemble Your Crew
+
+- Recrute Dean Domino dans le theatre de la zone.
+- Recrute Christine dans la clinique.
+- Recrute Dog/God dans le poste de police.
+- Ecoute leur dialogue et utilise leurs aptitudes pour ouvrir les passages.
+- Le succes tombe apres le recrutement des trois compagnons.
+
+Villa et Gala
+
+- Explore toutes les ruelles, les maisons, les salles de service et les
+  casinos avant de declencher l'evenement du Gala.
+- Place les trois compagnons aux emplacements demandes, active les relais et
+  termine la sequence pour Having a Ball.
+- Fouille les distributeurs, les caisses, les coffres et les corps pour les
+  Sierra Madre Chips. Ne quitte pas une zone sans visiter les recoins.
+
+500 Sierra Madre Chips
+
+- Le compteur est cumulatif, pas un stock obligatoire conserve a la fin.
+- Ramasse les jetons dans les coffres, les caisses et les machines.
+- Utilise les distributeurs et les recettes de composants quand tu es court.
+- Le Sierra Madre Snow Globe donne un gros montant de jetons : prends-le si tu
+  le trouves pendant la boucle des zones.
+- Verifie la notification Sierra Souvenir Aficionado avant la chambre forte.
+
+Chambre forte et deux succes
+
+- Fais une sauvegarde avant le terminal de la chambre forte.
+- Premiere branche : confronte Father Elijah et termine la scene pour Cash Out.
+- Recharge le fichier, utilise les chemins et la furtivite pour le pieger dans
+  la chambre forte et sortir pour Safety Deposit Box.
+- Les deux succes sont incompatibles sur la meme decision instantanee, mais
+  se valident dans le meme run avec le fichier de sauvegarde.
+- Fouille la sortie et conserve les objets recuperes au retour dans le Mojave.
+
+ETAPE 14 - HONEST HEARTS
+
+Entree et ravitaillement
+
+- Accepte Happy Trails Expedition depuis le point de depart de l'expedition.
+- Le DLC utilise un inventaire propre ; ne pars pas avec tout ton stock de
+  Hardcore si tu veux garder du poids pour les objets de Zion.
+- Termine When We Remembered Zion des ton arrivee.
+- Explore les canyons, les grottes, les ponts, les cabanes et les caches avant
+  de quitter une zone.
+
+Route de reconnaissance
+
+- Termine The Grand Staircase.
+- Termine The Advance Scouts.
+- Termine The Treacherous Road.
+- Termine River Monsters.
+- Recupere les fournitures demandees et rapporte-les a Daniel pour Restore Our
+  Fortunes.
+- Termine In a Foreign Land en completant les quatre missions de reconnaissance.
+
+Dernier choix du DLC
+
+- Fais Fichier F avant la decision finale de Daniel.
+- Route evacuation : choisis de quitter Zion et termine May my Hand Forget its
+  Skill.
+- Recharge Fichier F.
+- Route combat : choisis de rester et termine O Daughter of Babylon.
+- Termine les deux routes sans prendre de decision irreversible avant la
+  sauvegarde. Les succes se debloquent dans le profil meme apres recharge.
+
+ETAPE 15 - OLD WORLD BLUES
+
+Entree et base du Think Tank
+
+- Entre dans Old World Blues avec Science, Repair, Medicine et Lockpick utiles.
+- Explore Big MT dans le sens des marqueurs, mais ouvre les laboratoires et
+  les tunnels lateraux avant la fin.
+- Active le Sink Central Intelligence dans le dialogue initial : c'est la
+  premiere des dix personnalites du Sink.
+- Garde les recettes, les holotapes et les technologies de la zone.
+
+Spinal-Tapped
+
+- Entre dans X-8 et lance High School Horror.
+- Trouve la frequence vertebrale-pulse-de-sensitizer et termine l'experience.
+- Utilise les terminaux et les salles d'examen laterales avant de sortir.
+- La notification Spinal-Tapped tombe quand la frequence est recuperee.
+
+Cardiac Arrest!
+
+- Ouvre la ligne X-13 et termine Attack of the Infiltrator.
+- Recupere la combinaison sneaky et la regulation cardiaque de X-13.
+- Utilise la boucle d'entrainement pour les niveaux de furtivite si tu veux
+  completer aussi les recompenses de laboratoire.
+
+Make up your Mind
+
+- A la fin du DLC, prends le temps de parler a ton cerveau et de suivre le
+  dialogue jusqu'au retour de la decision personnelle.
+- Ne quitte pas la salle avant la validation du succes. Un mauvais choix de
+  dialogue peut necessiter un rechargement.
+
+Making Friends : 10 personnalites du Sink
+
+1. Central Intelligence : donnee dans le dialogue initial du Think Tank.
+2. Auto-Doc : Y-17 Medical Facility.
+3. Biological Research Station : X-22 Botanical Garden.
+4. Book Chute : Higgs Village, maison 101.
+5. Jukebox : Higgs Village, maison 108.
+6. Light Switch 01 : X-2 Antenna Transmitter Array.
+7. Light Switch 02 : Big MT North Tunnel.
+8. Muggy : dehors, derriere le camion pres de Securitron De-Construction.
+9. The Sink : Magnetohydraulics Complex.
+10. Toaster : Cuckoo's Nest.
+
+Installe Central Intelligence en premier, puis chaque puce dans le Sink.
+Verifie que le robot ou l'appareil parle apres l'installation. Making Friends
+tombe quand les dix assistants sont actifs. Tu peux revenir dans Big MT apres
+la fin du DLC pour nettoyer les puces oubliees.
+
+Outsmarted
+
+- Termine la campagne Old World Blues apres avoir active les personnalites et
+  les lignes X-8/X-13.
+- La fin du DLC rend la zone encore exploitable : reviens par fast travel pour
+  les recettes, les coffres et les technologies non ramasses.
+
+ETAPE 16 - LONESOME ROAD
+
+Entree et route de la Divide
+
+- Fais une sauvegarde avant The Reunion au canyon de l'ouest.
+- Le DLC est lineaire, mais chaque zone comporte des branches en hauteur,
+  des tunnels et des ruines secondaires.
+- Garde ED-E avec toi et parle-lui aux relais. Ses journaux donnent parfois
+  des indices pour les objets du chemin.
+- Detone chaque warhead avec le Laser Detonator quand tu le recuperes.
+
+ED-Ecated : 5 ameliorations
+
+1. Hopeville Silo Bunker : couloir juste apres l'ouverture des portes du silo.
+2. Hopeville Missile Base HQ : sous un bureau.
+3. Ashton Silo Control Station : derriere une porte verrouillee, pres d'un
+   terminal Hard.
+4. Third Street Municipal Building / Municipal Sewers : dans les egouts
+   relies aux bureaux du batiment municipal.
+5. Entre Third Street Municipal Building et Cave of the Abaddon : derriere
+   un warhead detone, sur une poutre marquee par des drapeaux.
+
+Le compteur avance quand ED-E est present dans la Divide. Si tu termines une
+zone sans lui, reviens avec l'ED-E du DLC avant de conclure la partie.
+
+Warhead Hunter : 30 warheads
+
+Les groupes ci-dessous suivent la route. Detone la bombe au Laser Detonator,
+puis verifie qu'elle disparait avant de continuer.
+
+Avant Collapsed Overpass Tunnel Entrance - 5
+
+1. Sur le camion apres la recuperation du Laser Detonator, obligatoire.
+2. Devant les baraquements pres de la sortie du Hopeville Missile Silo.
+3. Dans les bunkers de la bifurcation avant la ville en ruines.
+4. Au sud-est de la ville marquee, au milieu des camions detruits.
+5. Juste avant l'entree du Collapsed Overpass Tunnel, visible sur le chemin.
+
+Avant Ashton Silo Control Station - 4
+
+6. Sous le batiment des Marked Men apres le premier groupe de tirs.
+7. Au milieu de Ruined Highway Interchange, pres des deathclaws.
+8. Pres du panneau Smitty's Diner, vers Junction 7 Rest Stop.
+9. Dans le camp de Marked Men au sud-est, derriere un camion.
+
+The Courier's Mile - 2
+
+10. A la bifurcation d'entree, sur le chemin droit derriere les deathclaws.
+11. Sur la route gauche, dans la clairiere avec les Marked Men.
+
+Avant Cave of the Abaddon - 5
+
+12. Depuis le toit de Sunstone Tower, sous le panneau blanc On Solid Ground.
+13. De l'autre cote du meme panneau.
+14. Au sud-ouest de Sunstone Tower, entre les rochers, obligatoire.
+15. Autour du dernier point, dans les gravats sur la droite.
+16. Au nord-ouest, coince entre des rochers, obligatoire.
+
+Avant Ulysses' Temple - 8
+
+17. Derriere un tuyau pres de Boxwood Hotel Roof, dans la zone de Rawr.
+18. Dans la zone de Rawr, utilise pour ouvrir la sortie.
+19. A la base d'un batiment en ruines avec des Marked Men en hauteur.
+20. Au-dessus de l'entree de Waste Disposal Station.
+21. Au sud du batiment renverse, autour d'un tuyau qui fuit.
+22. Apres la detonation precedente, sur les rochers a gauche de la station.
+23. Au sud-ouest, sur le toit du batiment eloigne.
+24. En hauteur, a droite de l'entree d'Ulysses' Temple.
+
+Inside Ulysses' Temple - 6
+
+25. A droite en entrant, pres du premier missile.
+26. A gauche en entrant, le long du mur.
+27. Plus loin a droite, entre deux missiles.
+28. Dans un renfoncement derriere le premier missile de droite.
+29. Plus loin a gauche, entre les missiles.
+30. A droite de l'allee centrale.
+
+Rocket's Red Glare
+
+- Recupere The Divide's signature weapon au Marked Men Camp.
+- Achete et installe les trois ameliorations dans les commissariats et points
+  de vente de la Divide.
+- Les composants sont chers : garde les caps, les armes uniques et les objets
+  de valeur jusqu'a l'achat complet.
+- Le succes tombe apres la derniere amelioration, pas lors de l'achat de l'arme.
+
+Condemned to Repeat It et Hometown Hero
+
+- Termine la mission finale de la Divide apres avoir decide le sort des
+  habitants et de la zone.
+- Condemned to Repeat It se valide avec la decision de fin du DLC.
+- Hometown Hero tombe apres la conclusion complete de Lonesome Road.
+- Fais une sauvegarde avant la derniere conversation si tu veux explorer les
+  options de dialogue et les zones ouvertes sans refaire la route.
+
+ETAPE 17 - GUN RUNNERS' ARSENAL
+
+Master of the Arsenal
+
+- Inflige 10 000 degats avec des armes marquees GRA.
+- Utilise Medicine Stick, Riot Shotgun, Sleepytyme, Bozar, Esther, Gehenna,
+  Two-Step Goodbye ou une autre arme GRA achetee chez Vendortron.
+- Verifie le compteur apres les combats : une arme unique de base ne compte
+  pas comme arme GRA, et inversement.
+
+Les defis GRA : principe
+
+- Le jeu propose six defis une etoile, huit defis deux etoiles et cinq defis
+  trois etoiles. Les succes demandent seulement trois defis de chaque rang.
+- Fais-les sur la meme sauvegarde, sans recharger un fichier d'avant la
+  validation du defi.
+- Le menu Challenges est la reference : les noms et les compteurs s'y mettent
+  a jour immediatement.
+
+Defis une etoile : selection fiable
+
+- Benefit or a Hazard : tuer 15 robots avec des pistolets 5.56mm. REPCONN
+  Headquarters, Crashed Vertibird et Sunset Sarsaparilla sont de bonnes zones.
+- Ne Ne Ne Ne... : mutiler 5 bras droits avec des shotguns. Les Fiends de
+  Vault 3 sont pratiques ; vise le bras droit en VATS.
+- You Don't Belong in This World! : tuer 10 abominations avec katanas,
+  dynamite, machettes, lances ou couteaux de lancer.
+- A Slave Obeys, Overkill et The Same Could Be Said of All Religious Weapons
+  restent disponibles si tu veux les six, mais A Slave Obeys demande une
+  action unique sur Mr House et The Same demande des armes religieuses.
+
+Defis deux etoiles : selection recommandee
+
+- White Line Nightmare : tuer 20 Fiends, Vipers ou Jackals avec un pied-de-
+  biche, une batte, un tuyau, une machette, un revolver .44 ou un sawed-off.
+- Vault 13's Revenge : tuer 15 Super Mutants avec un pistolet 5.56, un Plasma
+  Defender, une grenade plasma, un Power Fist, un Ripper ou un Bozar.
+- Nyah! See? : tuer 10 Chairmen, White Gloves ou Omertas avec un SMG, LMG ou
+  Minigun. Gomorrah permet d'en trouver, mais fais-le avant sa fermeture.
+- Les autres defis deux etoiles demandent des escouades ennemies ou des cibles
+  uniques : Dyin' Ain't Much of a Living, Historical Propriety, Talk About
+  Owned, Sic Semper Tyrannis et Even a God-King Can Bleed.
+
+Defis trois etoiles : selection ferme mais farmable
+
+- Man-Machine Interface : tuer 10 Mr Gutsies ou Sentry Bots avec des poings,
+  poings cloutes, pieds-de-biche ou tuyaux. REPCONN et Crashed Vertibird sont
+  pratiques ; Very Easy facilite le combat.
+- Deathclaw Pro Hunter : tuer 5 adultes avec .22 Pistol, Switchblade, Recharger
+  Rifle ou dynamite. Affaiblis-les avec une arme forte puis porte le dernier
+  coup avec l'arme du defi.
+- Crackerjack Timing : tuer 10 Cazadores adultes avec grenades a boites,
+  dynamite a meche longue ou bombes a retardement. Utilise les hauteurs et les
+  sauvegardes de combat.
+- Armed for Bear et Against All Tyrants demandent des officiers nommes NCR ou
+  Legion et deviennent plus delicats apres les branches ; ne les choisis que
+  si tu assumes cette route.
+
+ETAPE 18 - CLEANUP FINAL SANS SPOILER
+
+Avant de fermer la partie principale
+
+- Verifie les 7 boules a neige et les 8 compagnons.
+- Verifie les 125 lieux decouverts.
+- Verifie 50 Speech, 25 serrures et 25 terminaux.
+- Verifie 20 mods installes, 30 reparations et 20 crafts.
+- Verifie les cinq compteurs de degats et les deux compteurs de soins.
+- Verifie les 30 victoires Caravan et les trois jeux de casino.
+- Verifie la limite des trois casinos et The Legend of the Star.
+- Verifie les neuf defis GRA choisis et 10 000 degats GRA.
+- Verifie les quetes des huit compagnons.
+- Verifie Dead Money, Honest Hearts et Old World Blues avant Lonesome Road.
+- Verifie Lonesome Road : 5 ED-E, 30 warheads et 3 upgrades Red Glare.
+- Fais les quatre branches a partir de Fichier D.
+- Termine une branche Hardcore avec le mode reste actif.
+
+CHECKLIST FINALE - 75 SUCCES STEAM
+
+[ ] 01 - Ain't That a Kick in the Head - terminer l'introduction chez Doc Mitchell.
+[ ] 02 - They Went That-a-Way - terminer la poursuite initiale jusqu'au Strip.
+[ ] 03 - Ol' Buddy Ol' Pal - recruter un compagnon du jeu de base.
+[ ] 04 - New Kid - atteindre le niveau 10.
+[ ] 05 - Come Fly With Me - terminer la quete du REPCONN Test Site.
+[ ] 06 - Crafty - fabriquer 20 objets.
+[ ] 07 - Ring-a-Ding-Ding - terminer l'arc de Benny.
+[ ] 08 - Jury Rigger - reparer 30 objets.
+[ ] 09 - Lead Dealer - infliger 10 000 degats avec des Guns.
+[ ] 10 - You Run Barter Town - vendre 10 000 caps de marchandises.
+[ ] 11 - Walker of the Mojave - decouvrir 50 lieux.
+[ ] 12 - No Tumbler Fumbler - crocheter 25 serrures.
+[ ] 13 - That Lucky Old Sun - terminer la quete d'Helios One.
+[ ] 14 - Up and Comer - atteindre le niveau 20.
+[ ] 15 - G.I. Blues - terminer la quete des Kings.
+[ ] 16 - Volare! - terminer la quete des Boomers.
+[ ] 17 - Outstanding Orator - reussir 50 Speech Challenges.
+[ ] 18 - Blast Mastery - infliger 10 000 degats avec des Energy Weapons.
+[ ] 19 - Double Down - jouer 10 mains de Blackjack.
+[ ] 20 - The Boss - atteindre le niveau 30.
+[ ] 21 - When We Remembered Zion - arriver dans Zion.
+[ ] 22 - Curios and Relics - infliger 10 000 degats avec des armes uniques du Mojave.
+[ ] 23 - One Armed Bandit - jouer 10 tours de machines a sous.
+[ ] 24 - Master of the Mojave - decouvrir 125 lieux.
+[ ] 25 - Restore Our Fortunes - ravitailler Daniel et les Sorrows.
+[ ] 26 - Spinal-Tapped - recuperer la frequence de X-8.
+[ ] 27 - Cardiac Arrest! - recuperer l'objectif cardiaque de X-13.
+[ ] 28 - In a Foreign Land - reconnaitre Zion et ses quatre zones de mission.
+[ ] 29 - Master of the Arsenal - infliger 10 000 degats avec des armes GRA.
+[ ] 30 - You'll Know It When It Happens - terminer la mission de securite correspondante.
+[ ] 31 - Assemble Your Crew - recruter Dean Domino, Christine et Dog.
+[ ] 32 - Outsmarted - terminer Old World Blues.
+[ ] 33 - Make up your Mind - prendre la decision liee au cerveau.
+[ ] 34 - Stim-ply Amazing - soigner 10 000 points avec des Stimpaks.
+[ ] 35 - Return to Sender - terminer la quete des postes NCR.
+[ ] 36 - Sierra Souvenir Aficionado - collecter 500 Sierra Madre Chips.
+[ ] 37 - Making Friends - reactiver les 10 assistants du Sink.
+[ ] 38 - O Daughter of Babylon - terminer la route offensive de Honest Hearts.
+[ ] 39 - New Vegas Samurai - infliger 10 000 degats avec des armes de melee.
+[ ] 40 - Having a Ball - terminer l'evenement du Gala de Sierra Madre.
+[ ] 41 - Condemned to Repeat It - decider le sort de la Divide.
+[ ] 42 - Hack the Mojave - pirater 25 terminaux.
+[ ] 43 - Wild Card - terminer Wild Card.
+[ ] 44 - Talent Pool - terminer Talent Pool.
+[ ] 45 - Hometown Hero - terminer Lonesome Road.
+[ ] 46 - No Gods, No Masters - terminer la voie independante.
+[ ] 47 - Love the Bomb - infliger 10 000 degats avec des explosifs.
+[ ] 48 - Cash Out - confronter Father Elijah dans la chambre forte.
+[ ] 49 - Little Wheel - jouer 10 tours de roulette.
+[ ] 50 - For the Republic - terminer la ligne NCR intermediaire.
+[ ] 51 - Mod Master - installer 20 weapon mods.
+[ ] 52 - Old-Tyme Brawler - infliger 10 000 degats avec des armes Unarmed.
+[ ] 53 - Eureka! - terminer la voie NCR.
+[ ] 54 - The Whole Gang's Here - recruter les 8 compagnons du jeu de base.
+[ ] 55 - Safety Deposit Box - pieger Father Elijah dans la chambre forte.
+[ ] 56 - The Courier Who Broke the Bank - etre banni des trois casinos du Strip.
+[ ] 57 - The Legend of the Star - terminer The Legend of the Star / A Valuable Lesson.
+[ ] 58 - The House Always Wins - terminer la ligne de Mr House.
+[ ] 59 - May my Hand Forget its Skill - evacuer Zion.
+[ ] 60 - All or Nothing - terminer la voie finale de Mr House.
+[ ] 61 - Know When to Fold Them - gagner 3 parties de Caravan.
+[ ] 62 - Rocket's Red Glare - acheter les 3 ameliorations de Red Glare.
+[ ] 63 - Hardcore - terminer le jeu avec Hardcore actif du debut a la fin.
+[ ] 64 - Globe Trotter - trouver les 7 boules a neige du jeu de base.
+[ ] 65 - ED-Ecated - trouver les 5 ameliorations d'ED-E dans la Divide.
+[ ] 66 - Arizona Killer - terminer Arizona Killer.
+[ ] 67 - Render Unto Caesar - terminer la ligne Legion intermediaire.
+[ ] 68 - Veni, Vidi, Vici - terminer la voie Legion.
+[ ] 69 - Desert Survivalist - soigner 10 000 points avec de la nourriture.
+[ ] 70 - Warhead Hunter - detoner les 30 warheads de la Divide.
+[ ] 71 - Up to the Challenge - terminer 3 defis GRA une etoile.
+[ ] 72 - Combat Veteran - terminer 3 defis GRA deux etoiles.
+[ ] 73 - Artful Pocketer - reussir 50 pickpockets.
+[ ] 74 - Caravan Master - gagner 30 parties de Caravan.
+[ ] 75 - Pros Only - terminer 3 defis GRA trois etoiles.
+
+VERIFICATION FINALE
+
+Le profil Steam doit afficher 75 succes sur 75 pour l'AppID 22380.
+Le suivi du guide doit confirmer : 7 boules a neige, 8 compagnons, 125 lieux,
+les compteurs de competences, les trois limites de casino, 30 Caravan, les
+neuf defis GRA, les 5 ameliorations ED-E, les 30 warheads et les quatre
+branches principales. Les succes de branches et les deux fins de DLC peuvent
+etre obtenus par rechargement de sauvegardes manuelles ; il n'est pas necessaire
+de perdre la sauvegarde-carrefour.
+
+SOURCES DE VERIFICATION
+
+- Liste officielle des succes Steam :
+  https://steamcommunity.com/stats/22380/achievements
+- Checklist Steam des 75 succes, compteurs et compagnons :
+  https://steamcommunity.com/sharedfiles/filedetails/?id=2523650299
+- Guide de reference des boules a neige et compagnons :
+  https://www.gamebanshee.com/falloutnewvegas/walkthrough/snowglobes.php
+- Manuel PC officiel de Fallout: New Vegas :
+  https://cdn.steamstatic.com/steam/apps/22380/manuals/fnv_gfw_manual-10-steam.pdf
+
+FIN DU GUIDE
