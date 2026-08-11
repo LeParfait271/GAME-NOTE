@@ -275,11 +275,13 @@ export default function GuideReader({
             src={selected.artworkUrl ?? guideHeaderUrl(selected.steamAppId)}
             alt={`Illustration officielle de ${selected.title}`}
             width={460}
-            height={215}
-          />
+              height={215}
+            />
           <span className={`reader-cover-accent reader-cover-accent-${selected.accent}`} />
+          <span className="reader-cover-art-label">GAME NOTE · ROUTE</span>
         </div>
         <div className="reader-cover-copy">
+          <a className="reader-backlink" href="#guides">← Bibliothèque</a>
           <p className="kicker">FICHE DE ROUTE · {selected.count}</p>
           <h2>{selected.title}</h2>
           <p>{selected.description}</p>
@@ -291,15 +293,19 @@ export default function GuideReader({
         </div>
         <div className="reader-cover-alert">
           <span className="reader-alert-mark" aria-hidden="true">!</span>
-          <div>
-            <strong>À surveiller</strong>
-            <p>{selected.highlight}</p>
+            <div>
+              <strong>À surveiller</strong>
+              <p>{selected.highlight}</p>
+              <span className="reader-alert-note">À vérifier avant de continuer</span>
+            </div>
           </div>
         </div>
-      </div>
 
       <div className="reader-tools">
-        <label htmlFor="guide-search">Rechercher dans la fiche</label>
+        <div className="reader-tools-copy">
+          <label htmlFor="guide-search">Rechercher dans la fiche</label>
+          <span className="reader-tools-hint">Touche / pour aller directement ici</span>
+        </div>
         <div className="search-wrap">
           <span aria-hidden="true">⌕</span>
           <input
@@ -325,7 +331,9 @@ export default function GuideReader({
         <span className="result-count" aria-live="polite">
           {query
             ? `${visibleBlocks.length} bloc${visibleBlocks.length > 1 ? "s" : ""} trouvé${visibleBlocks.length > 1 ? "s" : ""}`
-            : `${checklist.length} étapes à cocher`}
+            : checklist.length
+              ? `${checklist.length} étapes à cocher`
+              : "Lecture complète"}
         </span>
       </div>
 
@@ -345,7 +353,7 @@ export default function GuideReader({
         <div className="reader-layout">
           <aside className="reader-sidebar" aria-label="Sommaire de la fiche">
             <div className="reader-sidebar-card">
-              <p className="sidebar-kicker">DANS CETTE FICHE</p>
+              <p className="sidebar-kicker">SOMMAIRE</p>
               <nav className="reader-outline">
                 {outline.length > 0 ? (
                   outline.map((block) => (
@@ -364,16 +372,16 @@ export default function GuideReader({
             </div>
             <div className="reader-progress-card">
               <div className="progress-heading">
-                <span>PROGRESSION LOCALE</span>
+                <span>PROGRESSION SUR CET APPAREIL</span>
                 <strong>{completed}/{checklist.length}</strong>
               </div>
               <div className="progress-track" aria-hidden="true">
                 <span style={{ width: `${checklist.length ? (completed / checklist.length) * 100 : 0}%` }} />
               </div>
-              <p>Ta progression est enregistrée sur cet appareil.</p>
+              <p>Les cases cochées restent privées et locales.</p>
             </div>
             <a className="reader-download" href={`/guides/${selected.file}`} download>
-              Télécharger la fiche TXT <span aria-hidden="true">↓</span>
+              Télécharger en TXT <span aria-hidden="true">↓</span>
             </a>
           </aside>
 
