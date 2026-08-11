@@ -1,250 +1,1143 @@
 FINAL FANTASY VII REBIRTH
 GUIDE CHRONOLOGIQUE 100 % STEAM - SANS SPOILER
 
-Version de travail : 10 aout 2026
+Succes Steam : 61
+Version controlee : 11 aout 2026
+Identifiant d'application : 2909400
 
-Ce parcours couvre les 61 succes Steam de l'AppID 2909400. Il organise les
-14 chapitres, les quetes, l'exploration des regions, les mini-jeux, Queen's
-Blood, le piano, les combats de Chadley et le nettoyage de difficulte.
-Les bonus Digital Deluxe ne sont pas un jeu supplementaire et il n'y a pas de
-succes en ligne sur cette edition.
+Cette fiche est une route complete et chronologique, pas une simple liste de
+succes. Elle couvre les 14 chapitres, les 36 quetes, les 7 regions, les 169
+World Intel, les 49 caches, les 48 arrets chocobo, les 49 armes, les 145
+cartes de Queen's Blood, les 88 objets de Johnny, les 230 fiches ennemis, les
+rapports de Chadley, les mini-jeux, les relations, le nettoyage post-jeu et
+les 14 chapitres en Difficile.
 
-OBJECTIF
+La fiche est sans spoiler narratif : les noms de chapitres, de regions, de
+lieux, d'activites et de succes servent uniquement de reperes. Aucun nom de
+revelation, mort, identite, issue ou contenu de fin n'est explique.
+
+OBJECTIF DE FIN DE PARCOURS
 
 [ ] 61/61 succes Steam.
 [ ] 14/14 chapitres termines en Normal puis en Difficile.
-[ ] 100 % des quetes, rapports d'intel, sanctuaires, protoreliques et zones.
-[ ] Toutes les competences d'armes, materias, invocations et limites utiles.
-[ ] Queen's Blood, chocobos, piano, Gold Saucer, Fort Condor et Johnny.
-[ ] Tous les combats de Chadley, y compris les defis Brutal et Legendaire.
+[ ] 36/36 quetes et leurs objectifs bonus executes.
+[ ] 169/169 World Intel, dont 28 Phenomenon Intel / Protorelics.
+[ ] 49/49 caches, 48/48 arrets chocobo et tous les tresors enfouis.
+[ ] 49/49 armes trouvees et toutes les competences d'armes maitrisees.
+[ ] 230/230 fiches ennemis et 230/230 ennemis analyses au materia Analyse.
+[ ] 145 cartes Queen's Blood, rang maximal, tournois et Card Carnival.
+[ ] 88/88 objets du Tresor de Johnny.
+[ ] Piano, chocobo, Gold Saucer, Fort Condor, Cactuar Crush et Gears & Gambits.
+[ ] Toutes les activites du Play Log Exploration et Combat.
+
+COMMENT UTILISER LA ROUTE
+
+- Le parcours principal se fait en Normal. Dans chaque region, la boucle est
+  toujours : ville ou relais, arme violette, arrets chocobo, caches, towers,
+  sources de vie, combats d'analyse, quetes, Phenomenon Intel, puis chapitre.
+- Ne cherche pas a forcer le 100 % avant que le moyen de transport de la region
+  soit debloque. Une ligne verrouillee est normale : marque-la et reviens au
+  moment indique par la fiche.
+- Apres la fin, Selection de chapitre ouvre le nettoyage. Pour une reprise
+  complete, le Chapitre 13 est le meilleur point de depart : le monde ouvert
+  reste accessible et les chapitres lineaires peuvent etre rejoues.
+- Quand Selection de chapitre propose de reinitialiser les donnees de quetes,
+  choisis cette option seulement pour refaire une quete parfaitement ou pour
+  modifier une affinite. Le compteur global des quetes est conserve.
+- Les coffres violets et les armes ratees ne sont pas missables de facon
+  permanente. Les armes lineaires peuvent aussi etre achetees apres l'histoire.
 
 GARDE-FOUS ABSOLUS
 
-- Fais un premier parcours en Normal. Le mode Difficile se traite ensuite par
-  Selection de chapitre : les objets, les competences et les recompenses deja
-  acquis restent disponibles, tandis que les chapitres peuvent etre rejoues.
-- Avant de quitter une region, ouvre les tours, les sources de vie, les
-  sanctuaires d'invocation, les rapports de combat, les quetes et les lignes
-  de protoreliques accessibles. Le nettoyage est beaucoup plus lisible avant
-  le chapitre suivant.
-- Les affinites des personnages et la scene optionnelle du chapitre 12 sont
-  pilotables par les quetes et les choix de dialogues. Garde une sauvegarde
-  avant la fin du chapitre 11 si tu veux controler le resultat sans refaire
-  toute la campagne.
-- Les quetes non faites ne sont pas perdues : utilise Selection de chapitre
-  pour les reprendre. Pour les recompenses liees a une quete, termine la
-  quete au complet avant de changer de chapitre.
-- N'ignore pas les armes. Utilise chaque competence d'arme jusqu'a obtenir sa
-  maitrise ; equipe aussi les materias de soin, analyse, affinite et element
-  sur plusieurs personnages pour faire progresser les rapports de combat.
-- Aucun passage ne donne un nom de boss final, une mort, une identite, une
-  trahison, une fin ou une consequence narrative.
+1. Equipe Analyse sur Cloud des qu'un nouvel ennemi apparait. Analyse avant de
+   tuer les ennemis uniques de quete, de Protorelic ou de zone lineaire : c'est
+   la seule vraie fenetre fragile pour un Play Log Combat parfait.
+2. Fais une sauvegarde manuelle avant le rassemblement de Junon, le tournoi de
+   Queen's Blood du navire, la sequence de Costa del Sol, la sequence Loveless
+   du Chapitre 12 et chaque defi de score. Tout est recuperable par Selection
+   de chapitre, mais la sauvegarde evite les reprises inutiles.
+3. Dans une zone, ne quitte pas une salle lineaire avant d'avoir regarde les
+   embranchements, les echelles, les cordes, les ascenseurs et les coffres
+   violets. Le tableau des 49 armes ci-dessous donne les coffres a verifier.
+4. Les objectifs bonus des quetes ne sont pas necessaires a tous les succes,
+   mais ils sont necessaires a une fiche 100 % propre. Execute-les des la
+   premiere partie quand ils sont simples ; sinon refais la quete en post-jeu.
+5. Pour Johnny, ne depense pas les recompenses uniques avant de les avoir
+   donnees au Tresor. Ouvre regulierement la liste du Tresor de Johnny : elle
+   indique directement la source de chaque objet manquant.
+6. Pour le Difficile, ne consomme pas les MP sur les petits combats. Les bancs
+   ne rendent pas les MP en Difficile ; les chapitres ont ete concus pour etre
+   planifies comme une suite de checkpoints.
+7. Les mini-jeux ont leurs propres niveaux de difficulte. Une note A ou S n'est
+   pas toujours requise par Steam, mais les meilleurs rangs alimentent Johnny.
+8. Le materia Completionist demande tout le World Intel necessaire a Chadley,
+   pas seulement les tours. Ne quitte jamais une region avec une categorie
+   World Intel inachevee sans noter le moyen de transport requis.
 
-ORDRE DE PARTIE CONSEILLE
+PLAN DES RUNS
 
-1. Parcours Normal avec exploration locale et quetes disponibles.
-2. Nettoyage post-jeu en mode libre : intel, mini-jeux, quetes restantes,
-   Queen's Blood, piano, chocobos et Gold Saucer.
-3. Defis de Chadley qui exigent des builds optimises.
-4. Selection de chapitre en Difficile, dans l'ordre 1 a 14.
-5. Reprise du chapitre 12 pour l'affinite si necessaire, puis dernier
-   nettoyage des succes.
+RUN 1 - NORMAL ET PROGRESSION LOCALE
 
-CHAPITRE 1 - PREMIER DEPART
+- Suis les chapitres 1 a 14.
+- Fais les quetes et les objectifs locaux quand ils apparaissent.
+- Ramasse chaque arme violette, analyse chaque ennemi rare et commence les
+  competences d'armes pendant les combats normaux.
+- Fais les mini-jeux obligatoires et au moins une tentative des activites de
+  chaque nouvelle zone. Garde les rangs difficiles pour le nettoyage.
 
-- Termine le tutoriel sans depenser les consommables rares.
-- Utilise la garde, l'esquive, l'analyse et une competence d'arme des que le
-  jeu les presente. Commence la maitrise de la premiere arme disponible.
-- Fouille les coffres et verifie la liste de rapports apres le combat de la
-  zone. Il n'y a pas de missable permanent ici, mais ce premier reflexe
-  evite de laisser des coffres dans les chapitres rejoues.
+RUN 2 - NETTOYAGE POST-JEU
 
-CHAPITRE 2 - PREMIERE REGION OUVERTE
+- Selectionne le Chapitre 13 et termine les 6 regions, Meridian Ocean compris.
+- Termine les 36 quetes, les 28 Protorelics, Gilgamesh, les 49 armes et les
+  88 objets de Johnny.
+- Fais les 6 morceaux de piano remunerables, toutes les courses chocobo, tous
+  les combats du Musclehead Colosseum et les defis de Gold Saucer.
+- Termine les 56 simulations de Chadley, les 8 simulations Shinra et les
+  11 combats de Beast Battleground.
 
-- Fais les tutoriels de Queen's Blood et lance chaque partie facultative
-  proposee. Note les cartes obtenues dans le deck plutot que de les vendre.
-- Dans la prairie, active les tours, les sources de vie, les arpentages de
-  monstres et les points de chocobo. Termine les quetes disponibles avant la
-  prochaine mission principale.
-- Apprends a utiliser le chocobo de la region : pistes, tresors et odeurs
-  doivent etre traites avant de passer a la zone suivante.
-- Commence les rapports de combat de Chadley : analyse les faiblesses,
-  inflige des etourdissements et utilise plusieurs elements de materia.
+RUN 3 - DIFFICILE
 
-CHAPITRE 3 - EXPLORATION ET PREMIERS MINI-JEUX
+- Selection de chapitre, Difficile, chapitres 1 a 14.
+- Utilise les sauvegardes normales comme base d'equipement, de materia et de
+  niveau. Les scenes peuvent etre passees, les combats restent obligatoires.
+- Termine les derniers objectifs du Play Log apres le Chapitre 14. Le succes
+  Of Hardy Stock tombe a la fin du dernier chapitre Difficile.
 
-- Termine tous les objectifs locaux de la region avant la mission qui ferme
-  temporairement l'acces. Les activites bloquees reapparaitront apres le
-  retour en monde libre, mais le faire maintenant reduit les allers-retours.
-- Fais les premiers rangs de Queen's Blood, les fouilles de chocobo et les
-  combats d'intel. Conserve une sauvegarde avant chaque defi a regles
-  speciales.
-- Equipe les nouvelles armes des compagnons et valide au moins une competence
-  avec chacun d'eux. Les competences de soutien progressent aussi en combat.
+CHAPITRE 1 - FALL OF A HERO
 
-CHAPITRE 4 - COTE ET MONTAGNE
+1. Parcours principal
 
-- Nettoie les quetes bleues, les sanctuaires et les rapports de la zone avant
-  de suivre la mission principale.
-- Explore les chemins de chocobo, les coffres en hauteur et les points de
-  repos. Les cartes de Queen's Blood et les objets de crafting sont conserves
-  pour les recettes et les combats de Chadley.
-- Dans les combats de groupe, varie les personnages actifs et termine les
-  objectifs de pression, de faiblesse et de stagger demandes par Chadley.
+- Termine le tutoriel en utilisant garde, esquive, Analyse et la competence
+  de l'arme equipee. Le premier combat suffit pour I Got This, Staggered
+  Learning et Exploitative Practices si les actions ne sont pas deja tombees.
+- Ouvre chaque coffre visible dans le village, la maison, les chemins et la
+  zone lineaire. Les coffres violets de ce chapitre sont lies au scenario et
+  ne sont pas perdables.
+- Quand la jauge le permet, utilise une Limite, puis une competence de Synergie
+  et une capacite de Synergie. Cela valide Break It Down, No "I" in "Synergy"
+  et Team Player sans farm.
+- Monte une premiere materia d'un niveau et valide A Materia World.
+- Analyse les ennemis de la sequence avant leur derniere barre de vie.
 
-CHAPITRE 5 - ACTIVITES COTE MER
+2. Fin de chapitre
 
-- Le chapitre contient plusieurs activites de fete et de mini-jeux. Fais-les
-  au moins une fois, puis repere ceux qui possedent un rang, un score ou une
-  recompense.
-- Avance dans Queen's Blood jusqu'au rang demande par les quetes locales.
-  Garde le deck de depart et un deck de controle de ligne pour les parties a
-  regles inhabituelles.
-- Pour les activites chronometrees, quitte et relance depuis le point de
-  controle si le score est rate : inutile de consommer des objets.
+- Termine le chapitre : [ ] Never Meet Your Heroes.
+- A la fin, verifie Menu Systeme > Play Log > Combat et conserve la sauvegarde
+  manuelle qui servira de point de comparaison.
 
-CHAPITRE 6 - GOLD SAUCER, PREMIER PASSAGE
+CHAPITRE 2 - A NEW JOURNEY BEGINS
 
-- Joue aux activites accessibles au Gold Saucer : course de chocobo, combats,
-  attractions et mini-jeux de score. Termine les rangs simples maintenant et
-  garde les plus hauts pour le nettoyage post-jeu.
-- Apprends les regles de la course et equipe les pieces de chocobo gagnees.
-  La victoire demande une conduite propre plus qu'un niveau de personnage.
-- Ne brule pas tous tes GP sur des consommables : plusieurs recompenses
-  uniques et objets de collection deviennent utiles plus tard.
+3. Kalm, Grasslands et ranch chocobo
 
-CHAPITRE 7 - MASSIF ET RAPPORTS
+- A Kalm, lis les demandes du tableau, achete les cartes disponibles et prends
+  les materias des boutiques. Le premier combat de quete valide Entering New
+  Markets des que tu termines une quete.
+- Aux Grasslands, active d'abord les tours puis utilise les informations de la
+  carte pour faire les points de combat, sources de vie et sanctuaires.
+- A Bill's Ranch, apprends la boucle chocobo : suivre le petit chocobo, reparer
+  l'arret, fouiller les terriers et essayer la detection de tresors. Repare au
+  moins trois arrets pour I Brake for Chocobos.
+- Fais les cinq quetes Grasslands de la liste regionale. Garde A Rare Card Lost
+  dans la route Queen's Blood pour ne pas oublier sa carte.
 
-- Fais les objectifs de la zone montagneuse dans l'ordre naturel : tours,
-  chemins de chocobo, intel, quetes, coffres puis mission principale.
-- Utilise les moyens de transport de la zone jusqu'a ce que la carte ne
-  contienne plus de marqueur non visite. Les coffres accessibles seulement
-  depuis une rampe ou un courant sont souvent oublies.
-- Continue la maitrise d'armes avec les personnages imposes. Une competence
-  commencee sur une arme peut etre finie en Selection de chapitre.
+4. Coffres et armes du chapitre
 
-CHAPITRE 8 - REGION DES PLAINES ROUGES
+- Sleek Saber de Cloud : Abandoned Dock, coffre violet place devant l'objectif
+  principal apres la sortie de Kalm.
+- Timeless Rod d'Aerith : Bill's Ranch, a droite du comptoir de Chloe.
+- Hi-Caliber Rifle de Barret : ile du marais, apres l'obtention du chocobo et
+  la traversee de l'eau ; le coffre est devant la cinematique de trajet.
+- Fouille aussi les chemins secondaires de Kalm, Oliver's Farm, Abandoned Dock,
+  les abords du ranch et les deux rives du marais.
 
-- A l'arrivee, fais une boucle de reconnaissance : relais de chocobo,
-  tours, sanctuaires, sources de vie et combats d'intel.
-- Termine les quetes qui modifient l'affinite avant de continuer les missions
-  principales. Ne choisis pas les dialogues au hasard si tu vises la scene
-  optionnelle du chapitre 12.
-- Fais les nouvelles activites de Gold Saucer disponibles et inscris-toi aux
-  courses de chocobo jusqu'a debloquer les equipements de base.
+5. Phenomenon Intel Grasslands
 
-CHAPITRE 9 - JUNGLE ET SOUTERRAINS
+- Lance les quatre lignes de Phenomenon Intel des que Chadley les affiche :
+  Coastal Lookout, Pipeline Management Facility, Abandoned Republic Factory
+  et The Hideout. Elles melent exploration, infiltration et combats.
+- Pour le Play Log Combat, analyse chaque ennemi unique avant de terminer la
+  ligne, surtout dans les cachettes et les combats qui ne reapparaissent pas.
+- Termine la premiere Protorelic de la region : [ ] Founder's Bonus.
 
-- Les acces de la region se debloquent progressivement. Nettoie chaque
-  nouvelle partie juste apres son ouverture au lieu d'attendre la fin.
-- Pour les rapports de combat, utilise les sorts appris recemment et fais
-  progresser les invocations dans leurs sanctuaires ; les combats de Chadley
-  ne demandent pas tous d'etre gagnes immediatement.
-- Verifie le menu Collection de Queen's Blood et termine les matchs de la
-  zone tant que les adversaires sont encore proches des points de repos.
+6. Fin de chapitre
 
-CHAPITRE 10 - DESERT ET TRANSPORT
+- Termine le chapitre : [ ] Swampy Situation.
+- Avant de quitter la zone, verifie World Intel, caches, arrets chocobo et
+  cartes. Les objectifs restants seront repris en Chapitre 13.
 
-- Fouille les epaves, les ascenseurs et les routes secondaires. Utilise le
-  transport local jusqu'a ce que chaque embranchement soit valide.
-- Termine les quetes, les chasses et les objectifs de rapport avant la
-  mission qui emmene le groupe dans la zone fermee.
-- Conserve les materias de protection et d'affinite pour les combats de
-  Chadley : certaines epreuves demandent de survivre a plusieurs vagues,
-  pas seulement de faire des degats.
+CHAPITRE 3 - DEEPER INTO DARKNESS
 
-CHAPITRE 11 - DERNIER GRAND NETTOYAGE DE REGION
+7. Mythril Mine et progression
 
-- Termine toutes les quetes restantes de la region et les activites de
-  Queen's Blood qui ont ete ouvertes par les chapitres precedents.
-- Fais un point sur les competences d'armes : chaque compagnon doit avoir
-  plusieurs competences maitrisees avant le dernier tiers de l'histoire.
-- Sauvegarde dans un emplacement manuel avant la fin du chapitre. Ce point
-  sert a gerer l'affinite et a reprendre les combats optionnels sans perdre
-  la progression du monde libre.
+- Dans Mythril Mine, suis le chemin principal jusqu'au premier point de repos,
+  puis reviens inspecter les galeries hautes, les echelles et les voies mortes.
+- Analyse chaque type d'ennemi avant la victoire. Les ennemis de la mine sont
+  une bonne occasion de tester les materia Feu, Glace, Foudre et Vent.
+- Dans les combats de groupe, utilise au moins une competence d'arme de Cloud,
+  Tifa et Red XIII pour lancer la maitrise d'armes.
 
-CHAPITRE 12 - GOLD SAUCER, SECOND PASSAGE
+8. Coffres
 
-- Avant la scene optionnelle, verifie les quetes et choix d'affinite de la
-  liste. Si tu veux une cible precise, ne lance pas la derniere activite sans
-  sauvegarde manuelle.
-- Fais les mini-jeux du Gold Saucer et les epreuves de score accessibles.
-  Les versions difficiles seront plus confortables apres les equipements de
-  fin de jeu.
-- Toute activite ratee peut etre reprise par Selection de chapitre ; note
-  toutefois les recompenses qui demandent d'etre validees une seconde fois.
+- Sylph Gloves de Tifa : Tunnel No. 1, apres la rencontre de la zone, descends
+  vers les deux Crystalline Crabs ; le coffre est pres de la seconde echelle.
+- Renegade's Collar de Red XIII : Subterranean Terrace, juste apres la chute
+  dans la grotte cristalline, devant le groupe Barret / Red XIII.
+- N'oublie pas les coffres dans les salles d'extraction, les rails, les points
+  de repos et la sortie de la mine. Un coffre violet est toujours signale par
+  une lueur violette, meme s'il est dans une impasse.
 
-CHAPITRE 13 - ZONE FINALE DE CAMPAGNE
+9. Fin de chapitre
 
-- Avant d'entrer dans la suite de missions, fais le tour du monde libre et
-  termine les quetes, les rapports, les protoreliques et les mini-jeux encore
-  marques comme accessibles.
-- Achete les dernieres materias utiles, ameliore les armes et prepare des
-  equipes avec soin, protection, barrieres, elements et analyse.
-- Continue jusqu'a la fin du chapitre en Normal, puis reviens en monde libre
-  avant de commencer le Difficile.
+- Termine le chapitre : [ ] Make Mine Black.
+- Fais un point armes : Cloud 2, Tifa 2 et Red XIII 2 armes minimum doivent
+  apparaitre dans l'ecran Equipement.
 
-CHAPITRE 14 - FIN DE CAMPAGNE ET RETOUR EN LIBRE
+CHAPITRE 4 - DAWN OF A NEW ERA
 
-- Termine le chapitre et attends le deblocage de Selection de chapitre et
-  des options de difficulte. Ne supprime pas ta sauvegarde Normal.
-- Utilise Selection de chapitre pour les quetes, les scenes d'affinite, les
-  coffres ou les rapports oublies ; le compteur global se cumule.
-- Fais les combats de Chadley avec des builds specialises : stagger,
-  resistance elementaire, soins, ATB et invocations. Garde les defi les plus
-  longs pour la fin.
+10. Junon inferieur et Junon
 
-NETTOYAGE 100 % DU MONDE
+- Rejoins Under Junon, parle a tous les donneurs de quetes puis prends les
+  cinq quetes de Junon dans l'ordre de la liste regionale.
+- Termine Stuck in a Rut assez tot : le chocobo de Junon ouvre les murs, les
+  passages en pente et l'acces aux arrets. Sans lui, plusieurs coffres et
+  World Intel restent volontairement bloques.
+- Active les cinq tours de Junon et commence les 24 objectifs World Intel.
+- Repare chaque arret chocobo rencontre et suis les oiseaux qui menent aux
+  tresors enfouis. Le compteur total se verifie dans la carte regionale.
 
-- Termine les rapports d'intel de chaque region : tours, sources, sanctuaires,
-  combats d'analyse, protoreliques et activites liees au chocobo.
-- Fais toutes les quetes secondaires. Pour les quetes avec plusieurs niveaux,
-  lis la recompense avant de choisir une option et reviens au donneur de
-  quete jusqu'a la validation complete.
-- Releve tous les coffres visibles et caches, les boites destructibles et les
-  objets de fouille. Les livres et les materias achetables se comptent comme
-  du contenu, meme quand ils ne font pas apparaitre un succes.
-- Monte Queen's Blood, gagne les tournois, complete les quetes de cartes et
-  construis un deck de secours pour les regles speciales.
-- Termine les partitions de piano et vise le rang demande pour chaque
-  morceau. Rejoue une partition depuis le menu si la note est insuffisante.
-- Termine les courses de chocobo, les activites du Gold Saucer, Fort Condor,
-  les combats de 3D et les defis de l'arene. Les scores peuvent etre faits
-  apres l'histoire avec l'equipement final.
-- Valide la collection Johnny et l'objectif d'hotel a sept etoiles en
-  terminant toutes les familles d'activites : quetes, cartes, mini-jeux,
-  courses, combats et collections.
+11. Junon Parade - succes et objets
 
-DIFFICILE ET COMBATS DE CHADLEY
+- Avant le rassemblement, fais une sauvegarde manuelle.
+- Parcours les rues, les casernes, les boutiques et le quai pour recruter
+  chaque unite de la 7th Infantry. Il faut toutes les unites, pas seulement
+  celles de l'objectif principal : [ ] 7th, Assemble!.
+- Organise les unites pour obtenir la meilleure note, puis termine la parade
+  avec la recompense d'Outstanding Performance : [ ] Stealing the Show.
+- En cas de note insuffisante, recharge la sauvegarde ; l'ordre des unites est
+  la seule partie a modifier.
 
-- Rejoue les 14 chapitres en Difficile. Ne gaspille pas les MP sur les petits
-  combats : soigne-toi aux bancs, utilise les invocations avec economie et
-  reserve les materias defensives aux salles exigeantes.
-- Termine les defis Brutal puis Legendaire. Fais d'abord monter les materias
-  de soin, barriere, temps, protection, absorption elementaire et les materias
-  de liaison ; la survie est prioritaire.
-- Pour les defis a plusieurs manches, prepare chaque personnage avec une
-  fonction claire : pression, stagger, soins, controle ou burst. Change la
-  composition entre deux essais plutot que de forcer une seule equipe.
-- Quand les 61 notifications Steam sont obtenues, controle encore le menu
-  des rapports et la collection Johnny. Le succes Steam peut etre complet
-  avant le 100 % de contenu interne.
+12. Coffres et activites
 
-CHECKLIST STEAM FINALE - 61/61
+- Empress's Scepter d'Aerith : Junon Inn, chambre d'Aerith apres l'installation
+  du groupe.
+- Rune Blade de Cloud : Starboard Connecting Passage, juste apres la parade,
+  pres du distributeur et du banc.
+- Joue au moins une partie de Fort Condor dans Junon. Les quatre parties de la
+  Protorelic se feront plus tard, mais cette premiere partie valide les regles.
 
-[ ] Succes d'histoire des 14 chapitres.
-[ ] Actions de combat : faiblesses, stagger, limites, competences et materias.
-[ ] Armes, maitrises, invocations, rapports de combat et recompenses de Chadley.
-[ ] Queen's Blood, cartes, rangs et tournois.
-[ ] Chocobos, courses, Gold Saucer, Fort Condor et activites de score.
-[ ] Piano, quetes, affinite, Johnny et collections.
-[ ] Toutes les zones optionnelles, protoreliques et objectifs d'exploration.
-[ ] 14/14 chapitres en Difficile.
-[ ] Defis Brutal et Legendaire termines.
-[ ] Verification finale du profil Steam : 61/61.
+13. Fin de chapitre
 
-REGLE ANTI-SPOILER
+- Termine le chapitre : [ ] The President's Commendation.
+- Verifie l'analyse des ennemis de la parade, du port et des zones de combat
+  avant de passer au navire.
 
-Ce guide donne un ordre, des fenetres et des controles de progression. Il ne
-revele aucun evenement narratif, nom de boss final, mort, identite, fin,
-trahison ou consequence d'une quete.
+CHAPITRE 5 - BLOOD IN THE WATER
+
+14. Shinra-8 et Queen's Blood
+
+- Avant le tournoi, sauvegarde. Achete les cartes du navire, affronte tous les
+  adversaires accessibles et conserve les cartes gagnees.
+- Termine le tournoi de Queen's Blood a bord du Shinra-8 : [ ] Card Royalty.
+- La strategie la plus fiable est un deck de prise de territoire : pose une
+  carte faible pour ouvrir une case, puis une carte qui augmente la valeur
+  d'une ligne. Garde une carte de renversement pour la derniere manche.
+- Termine l'exploration de chaque pont et salle accessible, y compris les
+  coffres violets avant les portes de progression.
+
+15. Coffre d'arme
+
+- Kaiser Knuckles de Tifa : 1st Freight Room, apres le premier combat de la
+  soute ; le coffre violet est devant toi avant le prochain couloir.
+- Lis les objets collectes et les nouvelles cartes dans le menu Collection.
+
+16. Fin de chapitre
+
+- Termine le chapitre : [ ] Cryptic Cameo.
+- Si tu n'as pas gagne le tournoi, ne continue pas a avancer : recharge la
+  sauvegarde. Le tournoi est recuperable par Selection de chapitre, mais une
+  correction immediate est plus rapide.
+
+CHAPITRE 6 - FOOL'S PARADISE
+
+17. Costa del Sol et plage
+
+- Fais la boucle Costa del Sol : boutiques, port, plage, relais, coffres,
+  cartes et toutes les activites de plage avant la prochaine mission.
+- Termine Run Wild avec la meilleure recompense et conserve la sauvegarde avant
+  les activites chronometrees. Les options de plage comptent pour Johnny.
+- Explore les quais, les pontons, les ruelles et les zones derriere les
+  attractions. Les caches de Costa del Sol sont des coffres d'activite, pas des
+  coffres de scenario.
+
+18. Arme et activites
+
+- Silver Collar de Red XIII : recompense de la premiere victoire de Run Wild.
+- Fais Card Carnival, Pirate's Rampage, Run Wild, Wheelie Rendezvous et Cactuar
+  Caper. Une premiere victoire suffit pour les regles ; les rangs superieurs
+  seront necessaires au Tresor de Johnny.
+- Achete toutes les cartes et les objets uniques de la station avec les points
+  obtenus. Ne depense pas les derniers points sans regarder les recompenses.
+
+19. Fin de chapitre
+
+- Termine le chapitre : [ ] Fun in the Sun.
+- Dans le Play Log, valide les premieres entrees de Johnny obtenues par les
+  activites du navire et de la plage.
+
+CHAPITRE 7 - THOSE LEFT BEHIND
+
+20. Northern Corel et Mt. Corel
+
+- Dans Northern Corel, active les tours, ouvre les caches du plateau et commence
+  les quetes locales. Le desert et le Gold Saucer seront nettoyes au chapitre 8
+  puis au chapitre 12.
+- Dans Mt. Corel, inspecte chaque rails, plateforme, tyrolienne et levier avant
+  de suivre le marqueur principal.
+- Apprends les commandes de Yuffie : la distance du grappin revele souvent un
+  coffre violet ou une materia derriere le chemin principal.
+
+21. Quetes et armes
+
+- Termine les quatre quetes Corel du Chapitre 7 : The Saga of the Seaside Inn,
+  Rendezvous in Costa del Sol, Bodybuilders in a Bind et Of Robed Men and
+  Ransoms.
+- Wizard's Rod d'Aerith : Mt. Corel, pres du banc et du magasin apres la
+  separation temporaire du groupe.
+- Twin Viper de Yuffie : Preparation Plant, pres du premier interrupteur qui
+  impose l'usage du grappin.
+- Barrage Blaster de Barret : Railway Control Tower, niveau 1, prends le chemin
+  de droite apres les deux Cockatrice avant de remettre le courant.
+- Amethyst Collar de Red XIII : Old South Corel Mine, sur la droite en entrant
+  pendant Of Robed Men and Ransoms.
+
+22. Fin de chapitre
+
+- Termine le chapitre : [ ] The Price of Progress.
+- Le Tresor de Johnny est maintenant accessible via The Saga of the Seaside
+  Inn, mais sa collection ne peut pas etre finie avant les regions suivantes.
+
+CHAPITRE 8 - ALL THAT GLITTERS
+
+23. Gold Saucer et Corel Prison
+
+- Dans le Gold Saucer, ouvre les boutiques, recupere les cartes, fais G-Bike,
+  3D Brawler, Chocobo Racing et le premier Musclehead Colosseum disponible.
+- Dans Corel Prison, suis le parcours principal puis reviens dans les zones
+  laterales : les coffres et les recompenses de score sont faciles a laisser.
+- Fais le premier parcours de Chocobo Racing. Les courses restantes seront
+  accessibles plus tard ; la victoire de toutes les courses valide Hall of Famer.
+
+24. Armes et objectifs de score
+
+- Umbral Blade de Cloud : entree de The Dustbowl, en bas des marches devant le
+  chemin principal.
+- Dragon Claws de Tifa : Desert Rush, 42 000 points ou plus.
+- Vulcan Cannon de Barret : Scrapyard, apres la course de chocobo et la scene
+  du desert, dans le coffre devant la route principale.
+- Termine au moins une course, un combat du Musclehead et un match de G-Bike.
+  Note les activites dont la recompense Johnny demande le rang III.
+
+25. Fin de chapitre
+
+- Termine le chapitre : [ ] Worth the Weight?.
+- Le premier passage Gold Saucer ouvre les activites, mais les plus hautes
+  difficultes ne sont pas attendues avant le post-jeu.
+
+CHAPITRE 9 - THE PLANET STIRS
+
+26. Gongaga et transport forestier
+
+- Termine la mission principale jusqu'a l'acces libre a Gongaga. Apprends le
+  chocobo de la region : les champignons servent de rampes et chaque saut doit
+  etre valide sur la carte avant de continuer.
+- Active les tours, les sources de vie, les combats d'analyse et les caches.
+  Pour ne pas te perdre, pars toujours du village, fais une boucle vers le
+  nord, puis une boucle vers le sud avant le reacteur.
+- Termine les cinq quetes Gongaga du Chapitre 9.
+
+27. Armes de Gongaga
+
+- Bird of Prey de Yuffie : Gongaga Inn, coffre violet dans la piece de Yuffie.
+- Red Megaphone de Cait Sith : pont sud du village, descends vers la petite
+  grotte au bord de l'eau.
+- Crystal Sword de Cloud : Gongaga Reactor, Freight Corridor, piece arriere
+  avant le passage etroit.
+- Golden Collar de Red XIII : Coolant Control Room, tire le chariot, libere le
+  cable puis prends la bouche d'aeration.
+- Tiger Fangs de Tifa : Output Regulation B1, apres le grappin de la salle
+  inondee, retourne-toi et prends le coffre en hauteur.
+- Fafnir Rifle de Barret : recompense de The Pursuit of Perfection.
+- Resounding Megaphone de Cait Sith : Gongaga Airstrip, derriere la cabine
+  indiquee par l'objectif principal.
+
+28. Protorelic Gongaga
+
+- Les quatre Phenomenon Intel de Gongaga sont des combats et simulations lies
+  aux Turcs. Analyse les adversaires uniques avant de terminer chaque epreuve.
+- Termine la serie : [ ] Honorary Turk.
+- Les rapports de Chadley et les combats de la region s'ouvrent progressivement;
+  ne quitte pas la carte avec une categorie non analysee.
+
+29. Fin de chapitre
+
+- Termine le chapitre : [ ] Crying Out.
+- Fais une sauvegarde manuelle au village avant le passage lineaire du reacteur.
+
+CHAPITRE 10 - WATCHER OF THE VALE
+
+30. Cosmo Canyon
+
+- Active les tours de Cosmo Canyon et apprends la navigation verticale. Les
+  courants d'air, les rampes et les points d'atterrissage sont plus importants
+  que la ligne droite de la carte.
+- Termine les quatre quetes du Chapitre 10 : Bonds of Trust, Absence of a Sign,
+  From Whence Life Flows et Promises to Keep.
+- Fais les quatre parcours de Glide de Chocobo et garde le score du premier
+  parcours de Bonds of Trust pour Crescent Sickle.
+
+31. Armes et caves
+
+- Crescent Sickle de Yuffie : Bonds of Trust, parcours Glide de Chocobo 1,
+  3600 points.
+- Crystal Megaphone de Cait Sith : storeroom sous l'observatoire, apres la
+  rencontre de Parting Gift.
+- Mystic Collar de Red XIII : Cave of the Gi, Hall of Diversion, pendant le
+  retour des artefacts au centre de la salle.
+- Calamitous Bazooka de Barret : Cave of the Gi, Chamber of Sacrifice, sur la
+  plateforme basse face a la porte fermee.
+- Ceremonial Staff d'Aerith : Village of the Gi, Outcasts' Shore, pres du
+  point de repos apres l'arrivee.
+
+32. Gears and Gambits
+
+- Lance les quatre Phenomenon Intel de Cosmo Canyon apres la fin du segment
+  principal : Planetological Ruins, Empyrean Ruins, Capital Ruins et Temple
+  Ruins.
+- Pour chaque robot, configure d'abord une condition Gambit puis une action.
+  Utilise les conditions de faiblesse, de distance et de type d'ennemi ; le
+  temps limite favorise une configuration simple et specialisee.
+- Termine les quatre epreuves : [ ] The Gambit Paid Off.
+
+33. Fin de chapitre
+
+- Termine le chapitre : [ ] Stars Fell from My Eyes.
+- La region a des combats qui demandent Analyse sur des ennemis uniques :
+  equipe le materia avant de lancer chaque rapport de combat.
+
+CHAPITRE 11 - THE LONG SHADOW OF SHINRA
+
+34. Nibel et Mt. Nibel
+
+- Termine les deux quetes Nibel du chapitre : Esoteric Secrets of the Elders
+  et My White-Haired Angel.
+- Active les tours, sources et combats de la region. Le chocobo de Nibel permet
+  de voler au-dessus de l'eau et atteint des plateformes invisibles depuis le
+  sol.
+- Suis les chemins lineaires de Mt. Nibel en inspectant les parois, alcoves et
+  points de repos avant chaque transition.
+
+35. Armes et objets
+
+- Crystal Gloves de Tifa : Garm Pass, avant le second pont sur le chemin vers
+  le reacteur.
+- Igneous Saber de Cloud : Northern Ridge 160 m, descends sur la structure
+  metallique au milieu de la grande paroi.
+- Golden Megaphone de Cait Sith : Mako Research Facility, Section W, ouvre la
+  porte annexe en projetant les caisses avec le moogle.
+- Gjallarhorn de Cait Sith : livre 45 Chocograss au Tack Shop pendant ou apres
+  Esoteric Secrets of the Elders.
+- Piano : recupere la partition Aerith's Theme a Nibelheim et vise au moins la
+  remuneration requise ; la note parfaite n'est pas obligatoire pour Steam.
+
+36. Fin de chapitre
+
+- Termine le chapitre : [ ] You're Not Murasaki.
+- Avant le Chapitre 12, verifie l'equipement et le niveau des sept personnages
+  jouables. Les difficultes de Gold Saucer et les simulations attendent le
+  post-jeu, mais les armes et les materia doivent deja etre equipes.
+
+CHAPITRE 12 - A GOLDEN KEY
+
+37. Retour au monde et quetes finales
+
+- Au debut du chapitre, fais une sauvegarde manuelle avant de choisir la suite
+  de la sequence de Gold Saucer. Le menu de relations permet de voir la force
+  du lien avec les six compagnons.
+- Termine les onze quetes restantes, dans l'ordre de regions ci-dessous :
+  Hustle and Grind, Beneath Still Waters, Tides of War and Worry, Gold Cup or
+  Bust, Trouble in Paradise, Sand and Circuses, Escape from Endless Writer's
+  Block, Woodland Vigil, Victim of Circumstance, Lament of the Damned et
+  Can't Stop Won't Stop.
+- Pour Can't Stop Won't Stop, toutes les autres quetes et les activites Gold
+  Saucer requises doivent etre terminees. Fais-la en dernier dans la branche
+  des quetes.
+
+38. Loveless et relations
+
+- Avant d'entrer dans la sequence Loveless, sauvegarde. Suis les actions et les
+  reponses de la fiche d'activite, puis vise la note S ou plus : [ ] Critically
+  Acclaimed.
+- Le rendez-vous du Chapitre 12 est dependant de la force de lien. Pour le
+  premier passage, vise le compagnon souhaite via les quetes et les dialogues.
+  Pour le 100 %, rejoue le chapitre avec Selection de chapitre et les donnees
+  de quetes reinitialisees afin de valider les six partenaires du Play Log.
+- Les six niveaux de relation a verifier sont Barret, Tifa, Aerith, Red XIII,
+  Yuffie et Cait Sith. Le guide reste volontairement muet sur les scenes.
+
+39. Gold Saucer et arme
+
+- Crystalline Cross de Yuffie : Park 1F, Utilidor, pres des escaliers de sortie
+  pendant la poursuite principale.
+- Plumose Rod d'Aerith : Lament of the Damned, Hojo's Secret Lab, apres les
+  huit simulations Shinra ; la porte du coffre violet s'ouvre ensuite.
+- Termine toutes les courses chocobo restantes, le Gold Saucer Theatre, les
+  combats du Musclehead et les activites de score. Les rangs III peuvent etre
+  refaits sans perdre le premier resultat.
+
+40. Fin de chapitre
+
+- Termine le chapitre : [ ] Hearts Out, Dukes Up.
+- Valide My Job Here Is Done uniquement quand le Play Log indique les 36/36
+  quetes. Les objectifs parfaits se controlent separement dans la fiche de
+  chaque quete.
+
+CHAPITRE 13 - WHERE ANGELS FEAR TO TREAD
+
+41. Nettoyage avant la zone finale
+
+- Avant de lancer la suite lineaire, fais le tour des six grandes regions et
+  Meridian Ocean. Il ne doit rester aucune icone World Intel, cache, arret,
+  quete, piano, arme, carte ou rapport d'analyse.
+- Termine les six series de Protorelic regionales. La serie de Nibel suit les
+  silhouettes noires et se termine par quatre combats ; analyse chaque cible.
+- Apres les 24 Protorelics continentales, termine les quatre objectifs de
+  Meridian Ocean. La zone ouvre la suite de fin des Protorelics.
+
+42. Six armes lineaires finales
+
+- Slipstream Saber de Cloud : Labyrinth Ceiling, apres le premier mecanisme de
+  gravite et la premiere paroi de lianes, devant le chemin.
+- Jarngreipr de Tifa : Corridor of Currents, dans la salle des escaliers apres
+  la separation des groupes.
+- Gambanteinn d'Aerith : Order's Altar, en bas de l'escalier apres le troisieme
+  usage du flux de vie.
+- Battle Cry de Barret : Corridor of Catastrophe, dans le batiment voisin apres
+  avoir pousse la caisse dans les rapides.
+- Brisingamen de Red XIII : Salvation's Altar, piece de gauche.
+- Fuma Shuriken de Yuffie : Shrine of Ambition, en bas des escaliers apres les
+  epreuves de personnages.
+
+43. Fin de chapitre
+
+- Termine le chapitre : [ ] I'm Here for You.
+- Une fois la sauvegarde finale obtenue, ne l'ecrase pas. Elle sert de base a
+  Selection de chapitre, au nettoyage et au Difficile.
+
+CHAPITRE 14 - END OF THE WORLD
+
+44. Parcours final sans detour
+
+- Termine les zones finales dans l'ordre donne par les objectifs. Dans chaque
+  section, regarde les alcoves et les plateformes avant le prochain point de
+  repos ; les coffres et les materia de cette partie ne sont pas toujours sur
+  le marqueur.
+- Equipe Analyse jusqu'a ce que chaque nouvel ennemi possede sa fiche. Les
+  combats finaux peuvent etre rejoues en Selection de chapitre, mais la fiche
+  doit etre remplie avant la derniere victoire pour eviter les retours.
+- Termine le chapitre : [ ] Confluence of Worlds.
+
+45. Transition vers le nettoyage
+
+- Charge la sauvegarde claire, ouvre Play Log et note les compteurs Exploration
+  et Combat. Ne te fie pas au pourcentage global seul : les armes maitrisees,
+  les ennemis analyses et les objets Johnny ont leurs propres compteurs.
+- Debloque Selection de chapitre, les chapitres en Difficile et les nouvelles
+  activites de Gold Saucer. Passe ensuite au plan de nettoyage ci-dessous.
+
+LISTE DES 36 QUETES - EMPLACEMENT CHRONOLOGIQUE
+
+GRASSLANDS - 6 QUETES
+
+[ ] Flowers from the Hill - Chapitre 2, donneur des Grasslands ; bonus fleurs.
+[ ] Livestock's Bane - Chapitre 2, ranch ; bonus combat et recherche du troupeau.
+[ ] Lifeline in Peril - Chapitre 2, tableau de Kalm ; recuperer toutes les pieces.
+[ ] Where the Wind Blows - Chapitre 2, Kalm / moulin ; bonus de livraison.
+[ ] A Rare Card Lost - Chapitre 2, Kalm ; retrouver la carte et gagner le match.
+[ ] Hustle and Grind - Chapitre 12, Kalm ; objectif de score de chocobo.
+
+JUNON - 7 QUETES
+
+[ ] Stuck in a Rut - Chapitre 4, Gabe's Ranch ; debloque le chocobo de Junon.
+[ ] When Words Won't Do - Chapitre 4, Under Junon ; objectif de livraison complet.
+[ ] The Hardest Sell - Chapitre 4, Under Junon ; acheter / equiper les objets.
+[ ] Dreaming of Blue Skies - Chapitre 4, Under Junon ; cible et choix de route.
+[ ] Calling All Frogs - Chapitre 4, Under Junon ; terminer Leapfrog.
+[ ] Beneath Still Waters - Chapitre 12, Junon ; terminer les combats aquatiques.
+[ ] Tides of War and Worry - Chapitre 12, Junon ; faire les trois rangs de bonus.
+
+COREL - 8 QUETES
+
+[ ] The Saga of the Seaside Inn - Chapitre 7 puis 9, Costa del Sol ; finir les
+    douze etapes, dont la valve et le retour de la couronne.
+[ ] Rendezvous in Costa del Sol - Chapitre 7, Costa del Sol ; bonus de combat.
+[ ] Bodybuilders in a Bind - Chapitre 7, Corel ; terminer le defi physique.
+[ ] Of Robed Men and Ransoms - Chapitre 7, North Corel ; inspecter Old South
+    Corel Mine et prendre Amethyst Collar.
+[ ] Gold Cup or Bust - Chapitre 12, Gold Saucer ; gagner la Gold Cup.
+[ ] Trouble in Paradise - Chapitre 12, Costa del Sol ; terminer les objectifs.
+[ ] Sand and Circuses - Chapitre 12, Dustbowl ; finir les vagues du combat.
+[ ] Can't Stop Won't Stop - Chapitre 12, Gold Saucer ; dernier odd job apres
+    toutes les quetes et activites requises.
+
+GONGAGA - 7 QUETES
+
+[ ] Missing: Mr. Birdie - Chapitre 9, Gongaga ; placer les trois pieges et
+    terminer les combats de nichoir.
+[ ] The Pursuit of Perfection - Chapitre 9, Gongaga ; recuperer les materiaux
+    et prendre Fafnir Rifle.
+[ ] O Chicken, Where Art Thou - Chapitre 9, village ; ramener chaque poule.
+[ ] Teach Me, Great Warrior - Chapitre 9, village ; terminer les exercices.
+[ ] The Spice of Life - Chapitre 9, village ; recuperer les huit ressources.
+[ ] Escape from Endless Writer's Block - Chapitre 12, village ; finir la route.
+[ ] Woodland Vigil - Chapitre 12, village ; terminer la recherche et le bonus.
+
+COSMO CANYON - 5 QUETES
+
+[ ] Bonds of Trust - Chapitre 10, ranch ; terminer Glide de Chocobo 1 avec
+    3600 points pour Crescent Sickle.
+[ ] Absence of a Sign - Chapitre 10, observatoire ; suivre la piste et prendre
+    toutes les notes du parcours.
+[ ] From Whence Life Flows - Chapitre 10, Cosmo Canyon ; analyser chaque lieu.
+[ ] Promises to Keep - Chapitre 10, village ; suivre les demandes dans l'ordre.
+[ ] Victim of Circumstance - Chapitre 12, Cosmo Canyon ; prendre Magnify et
+    terminer les objectifs bonus.
+
+NIBEL - 3 QUETES
+
+[ ] Esoteric Secrets of the Elders - Chapitre 11, Nibelheim ; livrer 45
+    Chocograss au Tack Shop pour Gjallarhorn.
+[ ] My White-Haired Angel - Chapitre 11, Nibelheim ; terminer la route du piano.
+[ ] Lament of the Damned - Chapitre 12, Nibel ; finir les huit simulations Shinra
+    et prendre Plumose Rod.
+
+WORLD INTEL - 169/169
+
+46. Compteurs globaux
+
+Le World Intel est compose de 169 objectifs. Le total se controle dans la carte
+de chaque region et dans le Play Log ; les types se repartissent ainsi :
+
+[ ] Activation Intel : 32 tours.
+[ ] Fiend Intel : 32 combats d'objectifs.
+[ ] Divine Intel : 18 sanctuaires de six invocations regionales.
+[ ] Expedition Intel : 32 sources de vie.
+[ ] Phenomenon Intel : 28 Protorelics, quatre par region sur sept regions.
+[ ] Moogle Intel : 7 emporiums, rang maximal necessaire.
+[ ] Chocobo Intel : 4 objectifs de capture / moyen de transport.
+[ ] Excavation Intel : 10 zones de fouille et puces de transmutation.
+[ ] Classified Intel : 6 combats rares debloques par les sources de vie.
+
+47. Ordre d'une region
+
+1. Active les tours : elles revelent les objectifs proches.
+2. Termine les sources de vie et les sanctuaires quand le chocobo le permet.
+3. Fais les combats Fiend Intel avec tous les objectifs bonus et Analyse.
+4. Fais les fouilles et ramasse les puces de transmutation.
+5. Termine les combats Classified avant de quitter la region.
+6. Termine les quatre Phenomenon Intel et le combat / epreuve regionale.
+7. Verifie le compteur regional a 100 %, puis depense les Data Points chez
+   Chadley avant de changer de region.
+
+48. Les sept series de Protorelics
+
+[ ] Grasslands 1-4 : Coastal Lookout, Pipeline Management Facility, Abandoned
+    Republic Factory et The Hideout ; combats et infiltration.
+[ ] Junon 1-4 : Fort Condor ; quatre cartes de bataille puis la variante Hard.
+[ ] Corel 1-4 : Cactuar Crush ; quatre parcours dans le desert, puis Hard.
+[ ] Gongaga 1-4 : entrainement VR des Turcs ; quatre combats uniques, Analyse.
+[ ] Cosmo Canyon 1-4 : Gears and Gambits ; Planetological, Empyrean, Capital
+    et Temple Ruins, avec la variante Hard.
+[ ] Nibel 1-4 : suivre les robes noires et terminer les quatre combats de zone.
+[ ] Meridian Ocean 1-4 : recuperer les quatre Pirate Relics puis terminer la
+    suite de l'ile. Cette derniere etape ouvre le combat de Gilgamesh.
+[ ] Battre Gilgamesh apres les 28 Protorelics : [ ] Bladesman of Legend.
+
+49. Invocations et sanctuaires
+
+[ ] Titan - Grasslands : trois sanctuaires, puis combat de simulation.
+[ ] Phoenix - Junon : trois sanctuaires, puis combat de simulation.
+[ ] Alexander - Corel : trois sanctuaires, puis combat de simulation.
+[ ] Bahamut Arisen - Gongaga : trois sanctuaires, puis combat de simulation.
+[ ] Kujata - Cosmo Canyon : trois sanctuaires, puis combat de simulation.
+[ ] Odin - Nibel : trois sanctuaires, puis combat de simulation.
+[ ] Gilgamesh - Meridian Ocean : suite des Protorelics et combat final de zone.
+
+COFFRES, CACHES ET ARRETS CHOCOBO
+
+50. Les 49 caches par nom
+
+GRASSLANDS - 7 CACHES
+
+[ ] Grassy Viaduct.
+[ ] Thresher Waterwheel.
+[ ] Mako Pipe Junction.
+[ ] Jadewind Hill.
+[ ] Marshy Mire.
+[ ] Forgotten Treads.
+[ ] Mistveil Reservoir.
+
+JUNON - 8 CACHES
+
+[ ] Mako Reef.
+[ ] Cargo Shipwreck.
+[ ] Fishermen's Strait.
+[ ] Crows Camp.
+[ ] Shinra Construction Site.
+[ ] Desolate Worksite.
+[ ] Republic Shipwreck.
+[ ] Ruined Treasury.
+
+COREL - 10 CACHES
+
+[ ] Sunrise Plateau.
+[ ] Cape del Amor.
+[ ] Drainwater Drift.
+[ ] Seabreeze Storehouse.
+[ ] Twilight Hill.
+[ ] Sundappled Storehouses.
+[ ] Rustladen Reservoir.
+[ ] Desert Watermain.
+[ ] Sandswept Modular Reactor.
+[ ] Smuggler's Truck.
+
+GONGAGA - 9 CACHES
+
+[ ] Fishing Hole.
+[ ] Watchman's Lookout.
+[ ] Cliffside Storehouse.
+[ ] Verdant Vista.
+[ ] Woodsprite Haven.
+[ ] Forested Ruins.
+[ ] Mako Wastes.
+[ ] Mushroom Storage.
+[ ] Reactor Construction Site.
+
+COSMO CANYON - 7 CACHES
+
+[ ] Salt Miners' Shack.
+[ ] The Celestica.
+[ ] Oldewyrm Clearing.
+[ ] Capital Ruins.
+[ ] Galeswept Valley.
+[ ] Ancient Baths.
+[ ] Font Shrine.
+
+NIBEL - 4 CACHES
+
+[ ] Cliffs of Abjuration.
+[ ] Stowaway Cove.
+[ ] Hraesvelgr Perch.
+[ ] Nidhogg Grotto.
+
+MERIDIAN OCEAN - 4 CACHES
+
+[ ] Pirate Relic Alpha.
+[ ] Pirate Relic Beta.
+[ ] Pirate Relic Gamma.
+[ ] Pirate Relic Delta.
+
+Total : 49/49 caches. Les recompenses ne servent pas toutes a un succes, mais
+les caches alimentent l'equipement, le craft et le Play Log Exploration.
+
+51. Les 48 arrets chocobo
+
+- Suis chaque petit chocobo qui apparait pres d'un arret casse, puis releve le
+  panneau. L'arret devient un point de voyage rapide et une tente utilisable.
+- Grasslands, Junon, Corel, Gongaga, Cosmo Canyon et Nibel ont leurs propres
+  compteurs. Meridian Ocean ajoute les derniers points de la carte maritime.
+- Fais les arrets en meme temps que les tours : les deux compteurs sont visibles
+  dans la carte et aucune region ne doit rester a 47/48 ou 48/49.
+- Grasslands : utilise le chocobo des marais pour les arrets de l'eau et les
+  berges ; Junon : escalade les parois ; Corel : alterne desert et montagnes ;
+  Gongaga : utilise les champignons ; Cosmo : utilise les courants ; Nibel :
+  plane au-dessus de l'eau.
+
+52. Tresors enfouis
+
+- Approche une zone avec le chocobo, maintiens la detection et suis l'odeur
+  jusqu'au point de fouille. Les lapins indiquent souvent la bonne boucle.
+- Trouve au moins deux tresors enfouis par des lapins pour [ ] Expert
+  Ex-kweh-vator.
+- Pour le 100 %, ne t'arrete pas a deux : termine les recompenses de chaque
+  Excavation Intel et valide le compteur de tresors du Play Log.
+
+LES 49 ARMES ET LEURS COFFRES
+
+53. Liste de controle complete
+
+Chaque ligne comporte le personnage, l'arme, la competence et son acquisition.
+Apres acquisition, equipe l'arme et utilise sa competence jusqu'a la coche
+jaune de maitrise dans Menu > Materia et equipement.
+
+CLOUD - 7
+
+[ ] Buster Sword - Focused Thrust - depart.
+[ ] Sleek Saber - Firebolt Blade - Chapitre 2, Abandoned Dock.
+[ ] Rune Blade - Disorder - Chapitre 4, Starboard Connecting Passage.
+[ ] Umbral Blade - Prime Mode - Chapitre 8, entree de The Dustbowl.
+[ ] Crystal Sword - Infinity's End - Chapitre 9, Gongaga Reactor.
+[ ] Igneous Saber - Blade Burst - Chapitre 11, Northern Ridge 160 m.
+[ ] Slipstream Saber - Counterstance - Chapitre 13, Labyrinth Ceiling.
+
+TIFA - 7
+
+[ ] Leather Gloves - Divekick - depart.
+[ ] Sylph Gloves - Reverse Gale - Chapitre 3, Tunnel No. 1.
+[ ] Kaiser Knuckles - Overpower - Chapitre 5, 1st Freight Room.
+[ ] Dragon Claws - Starshower - Chapitre 8, Desert Rush, 42 000 points.
+[ ] Tiger Fangs - Chi Trap - Chapitre 9, Output Regulation B1.
+[ ] Crystal Gloves - Unfettered Fury - Chapitre 11, Garm Pass.
+[ ] Jarngreipr - True Strike - Chapitre 13, Corridor of Currents.
+
+RED XIII - 7
+
+[ ] Mythril Collar - Stardust Ray - depart.
+[ ] Renegade's Collar - Crescent Claw - Chapitre 3, Subterranean Terrace.
+[ ] Silver Collar - Chilling Roar - Chapitre 6, Run Wild.
+[ ] Amethyst Collar - Supernal Fervor - Chapitre 7, Old South Corel Mine.
+[ ] Golden Collar - Watcher's Respite - Chapitre 9, Coolant Control Room.
+[ ] Mystic Collar - Watcher's Spirit - Chapitre 10, Cave of the Gi.
+[ ] Brisingamen - Reaper Touch - Chapitre 13, Salvation's Altar.
+
+BARRET - 7
+
+[ ] Gatling Gun - Focused Shot - depart.
+[ ] Hi-Caliber Rifle - Bonus Round - Chapitre 2, ile du marais.
+[ ] Barrage Blaster - Lifesaver - Chapitre 7, Railway Control Tower.
+[ ] Vulcan Cannon - Charging Uppercut - Chapitre 8, Scrapyard.
+[ ] Fafnir Rifle - Point Blank - Chapitre 9, The Pursuit of Perfection.
+[ ] Calamitous Bazooka - Smackdown - Chapitre 10, Cave of the Gi.
+[ ] Battle Cry - Turbulent Spirit - Chapitre 13, Corridor of Catastrophe.
+
+AERITH - 7
+
+[ ] Guard Stick - Arcane Ward - depart.
+[ ] Timeless Rod - Chrono Aegis - Chapitre 2, comptoir de Chloe.
+[ ] Empress's Scepter - Radiant Ward - Chapitre 4, Aerith's Room.
+[ ] Wizard's Rod - Lustrous Shield - Chapitre 7, Mt. Corel.
+[ ] Ceremonial Staff - ATB Ward - Chapitre 10, Outcasts' Shore.
+[ ] Plumose Rod - Ray of Judgement - Chapitre 12, Lament of the Damned.
+[ ] Gambanteinn - Noble Sacrifice - Chapitre 13, Order's Altar.
+
+YUFFIE - 7
+
+[ ] 4-Point Shuriken - Elemental Ninjutsu - depart du Chapitre 7.
+[ ] Savage Dagger - Blindside - depart du Chapitre 7.
+[ ] Twin Viper - Windstorm - Chapitre 7, Preparation Plant.
+[ ] Bird of Prey - Doppelganger - Chapitre 9, Gongaga Inn.
+[ ] Crescent Sickle - Shooting Star - Chapitre 10, Bonds of Trust, 3600 points.
+[ ] Crystalline Cross - Banishment - Chapitre 12, Gold Saucer Utilidor.
+[ ] Fuma Shuriken - Purification - Chapitre 13, Shrine of Ambition.
+
+CAIT SITH - 7
+
+[ ] Yellow Megaphone - Roll o' the Dice - depart du Chapitre 9.
+[ ] Iron Megaphone - Fortune Telling - depart du Chapitre 9.
+[ ] Red Megaphone - Moogle Kaboom - Chapitre 9, pont sud de Gongaga.
+[ ] Resounding Megaphone - Moogle Mine - Chapitre 9, Gongaga Airstrip.
+[ ] Crystal Megaphone - Moogle Magic - Chapitre 10, storeroom de l'observatoire.
+[ ] Golden Megaphone - Moogle Knuckle - Chapitre 11, Mako Research Facility W.
+[ ] Gjallarhorn - Lady Luck - Chapitre 11, 45 Chocograss au Tack Shop.
+
+54. Maitrise et Well-Rounded
+
+- Pour chaque arme, ouvre le menu Commandes en combat et utilise la competence
+  jusqu'au bonus de proficiency. Le farm le plus rapide se fait en Easy dans
+  une simulation de Chadley ou un combat du Musclehead Colosseum.
+- Debloque toutes les competences de folio, toutes les Limites et toutes les
+  competences d'armes. Le niveau de l'arme seul ne suffit pas.
+- Controle la coche jaune des 49 armes, puis valide : [ ] Weapons 101 et [ ]
+  Well-Rounded.
+
+QUEEN'S BLOOD - 145 CARTES
+
+55. Progression sans perte
+
+- La collection compte 145 cartes et le rang monte en battant les joueurs
+  marques sur la carte. Affronte chaque adversaire disponible avant le depart
+  de la region, puis reviens avec les cartes et regles de la zone suivante.
+- Achete les cartes aux vendeurs : Kalm / Thorin, Under Junon, Costa del Sol,
+  North Corel, Gongaga, Cosmo Canyon et Nibelheim. Les recompenses de quetes,
+  de tournois, de Gold Saucer et de Tresor de Johnny sont egalement requises.
+- Termine les 30 adversaires de rang, le tournoi du Shinra-8 et les matchs du
+  Gold Saucer. Valide [ ] New Blood des que le rang augmente.
+- Card Carnival contient six puzzles classiques puis les puzzles avances.
+  Garde une sauvegarde avant les puzzles si tu veux refaire une solution sans
+  perdre de temps.
+- La carte Ultimate Party Animal arrive via Can't Stop Won't Stop. Elle fait
+  partie de la collection Johnny et du 100 %, meme si le succes Card Royalty
+  est deja obtenu.
+
+56. Decks fiables
+
+- Debut : cartes a faible cout qui ouvrent des cases adjacentes, puis une carte
+  qui augmente la valeur de la ligne. Evite de surcharger une seule ligne.
+- Milieu : melange des cartes qui renforcent les cases et des cartes qui
+  detruisent une carte adverse. Garde une carte a forte valeur pour le dernier
+  tour.
+- Regles speciales : cree un deck dedie au puzzle au lieu de modifier ton deck
+  principal. La victoire compte meme si le deck est ensuite abandonne.
+
+PIANO, MINI-JEUX ET GOLD SAUCER
+
+57. Les six morceaux remunerables
+
+[ ] On Our Way - piano de Kalm / Grasslands.
+[ ] Tifa's Theme - Costa del Sol.
+[ ] Barret's Theme - North Corel.
+[ ] Cinco de Chocobo - Gongaga.
+[ ] Two Legs? Nothin' To It - Cosmo Canyon.
+[ ] Aerith's Theme - Nibelheim.
+[ ] Les six morceaux donnent une remuneration : [ ] Piano Virtuoso.
+[ ] One-Winged Angel - recompense du coffre final de Johnny, hors condition
+    des six morceaux mais requise pour la collection complete.
+
+- Une note A suffit pour la plupart des recompenses ; entraine-toi en mode
+  pratique et vise les cercles jaunes au dernier moment. Les erreurs de rythme
+  font perdre des points, mais l'essai peut etre relance immediatement.
+
+58. Activites a faire au moins une fois
+
+[ ] Junon Parade - toutes les unites, puis meilleure recompense.
+[ ] Card Carnival - six puzzles puis variantes avancees.
+[ ] Pirate's Rampage - tous les rangs de Costa del Sol et Corel.
+[ ] Run Wild - toutes les manches et recompenses.
+[ ] Wheelie Rendezvous - parcours de plage et rangs.
+[ ] Cactuar Caper - parcours de plage et rangs.
+[ ] Jumpfrog - Whirligig Whack puis Ribbiting Rollers.
+[ ] Chocobo Racing - toutes les courses standard et Gold Cup.
+[ ] Desert Rush - 42 000 points pour Dragon Claws.
+[ ] G-Bike - tous les circuits et objectifs du Play Log.
+[ ] 3D Brawler - tous les adversaires, puis Sephiroth pour Polygonal Prizefighter.
+[ ] Musclehead Colosseum - toutes les series, puis les combats post-jeu.
+[ ] Beast Battleground - les 11 combats de la zone Dustbowl.
+[ ] Fort Condor - les quatre manches normales puis Hard.
+[ ] Cactuar Crush - les quatre manches normales puis Hard.
+[ ] Gears and Gambits - les quatre manches normales puis Hard.
+[ ] Glide de Chocobo - tous les parcours et objectifs de score.
+[ ] Can't Stop Won't Stop - les activites expert de la quete finale.
+
+59. Johnny - 88/88
+
+- Termine The Saga of the Seaside Inn des son apparition, mais garde la grande
+  collecte pour le post-jeu. L'interface de Johnny affiche chaque objet avec
+  son numero et sa source exacte.
+- Les 88 objets viennent des familles suivantes :
+  [ ] histoire et chapitres lineaires ;
+  [ ] 36 quetes et recompenses d'objectifs parfaits ;
+  [ ] Queen's Blood, cartes et tournoi ;
+  [ ] Junon Parade et sequences de score ;
+  [ ] piano et morceaux de ville ;
+  [ ] courses chocobo, parcours de plane et Chocobo Jockey ;
+  [ ] Pirate's Rampage, Run Wild, Jumpfrog et Cactuar Caper ;
+  [ ] Desert Rush, G-Bike, 3D Brawler et Musclehead ;
+  [ ] Fort Condor, Cactuar Crush et Gears and Gambits ;
+  [ ] combats Chadley, Beast Battleground et simulations Shinra ;
+  [ ] recompenses de Protorelics et defis Hard.
+- Paliers Steam : 10 objets = [ ] 1-Star Startup ; 30 objets = [ ] 3-Star
+  Hotel ; 60 objets = [ ] 5-Star Hotel ; 88 objets, puis dialogue de Johnny =
+  [ ] 7-Star Hotel.
+
+CHADLEY, COMBAT ET MATERIA
+
+60. World Intel et Materia Completionist
+
+- Termine les 169 objectifs et depense tous les Data Points region par region.
+  Les points ne sont pas communs entre les regions.
+- A chaque nouveau combat, Analyse les ennemis et remplis les objectifs de
+  pression, stagger, faiblesse, interruption et temps limite.
+- Developpe toutes les materia proposees par Chadley. Une materia deja achetee
+  n'est pas une materia developpee : verifie le menu Research dans chaque
+  region.
+- A cinq lieux World Intel : [ ] Intelligence Aide. A cinquante : [ ]
+  Intelligence Specialist. A une region 100 % : [ ] Director of Regional
+  Intelligence. Toutes les materia Chadley : [ ] Materia Completionist.
+
+61. Simulations
+
+- Chadley : termine les 56 simulations du menu Combat Simulator. Fais d'abord
+  les tutoriels, puis les assignations regionales, les invocations et les
+  combats biologiques. Les defis Brutal et Legendary viennent en dernier.
+- Shinra Combat Simulator : 8 epreuves liees a Lament of the Damned. Elles
+  debloquent Plumose Rod d'Aerith.
+- Beast Battleground : 11 epreuves dans le Dustbowl, au sud-est, apres la
+  descente de l'echelle.
+- Musclehead Colosseum : le Play Log compte 33 entrees en incluant le defi de
+  Can't Stop Won't Stop. Termine tout pour Are You Not Entertained?.
+- Equipe Analyse et au moins une materia de soin, protection, absorption
+  elementaire et rapidite. Pour les combats Brutal, construis trois roles :
+  stagger, soins / support et burst.
+
+62. Progression de combat
+
+[ ] Chaque personnage a toutes ses armes et competences maitrisees.
+[ ] Chaque personnage a toutes ses Limites et competences de folio.
+[ ] Un personnage atteint le niveau 70 : [ ] Grind It Out.
+[ ] Une invocation est appelee : [ ] Fledgling Summoner.
+[ ] Une invocation est vaincue et sa materia obtenue : [ ] You Work for Me Now.
+[ ] Une jauge stagger atteint 300 % ou plus : [ ] Staggering Success.
+[ ] Les 230 ennemis sont inscrits et analyses.
+
+NETTOYAGE POST-JEU - ORDRE OPTIMAL
+
+63. Chapitre 13 en monde libre
+
+1. Termine les six regions continentales et Meridian Ocean : tours, sources,
+   sanctuaires, combats, fouilles, caches, arrets, tresors et Protorelics.
+2. Depense les Data Points, developpe les materia et fais les simulations
+   regionales nouvellement apparues.
+3. Termine les 36 quetes et les objectifs parfaits, en commencant par les
+   quetes qui donnent les armes, les manuscrits ou les minijeux.
+4. Termine les 145 cartes et tous les adversaires de Queen's Blood.
+5. Fais le Tresor de Johnny jusqu'a 88/88, puis parle-lui a nouveau.
+6. Termine le Gold Saucer, le piano, les courses, les defis de combat et les
+   activites expert de Can't Stop Won't Stop.
+7. Termine les simulations de Chadley, Shinra et Beast Battleground.
+
+64. Preparatifs Difficile
+
+- Niveau conseille : equipe complete, materia de soin et de resurrection
+  montees, au moins une materia de protection par personnage et toutes les
+  armes utiles. Le niveau 70 n'est pas obligatoire pour commencer mais rend
+  les chapitres finaux plus stables.
+- Mets les materia de soin sur deux personnages, une materia Analyse sur Cloud,
+  et une materia de liaison elementaire sur l'arme du personnage qui doit
+  exploiter la faiblesse du combat.
+- Apprends les patterns en Normal, puis utilise le menu Difficile pour passer
+  les cinematiques et revenir aux points de repos.
+
+DIFFICILE - 14/14 CHAPITRES
+
+65. Route de validation
+
+[ ] Chapitre 1 - Fall of a Hero - boss et combat de fin.
+[ ] Chapitre 2 - A New Journey Begins - marecages et boss de chapitre.
+[ ] Chapitre 3 - Deeper into Darkness - Mythril Mine.
+[ ] Chapitre 4 - Dawn of a New Era - Junon et parade.
+[ ] Chapitre 5 - Blood in the Water - Shinra-8.
+[ ] Chapitre 6 - Fool's Paradise - Costa del Sol.
+[ ] Chapitre 7 - Those Left Behind - Mt. Corel.
+[ ] Chapitre 8 - All That Glitters - Gold Saucer et Corel Prison.
+[ ] Chapitre 9 - The Planet Stirs - reacteur de Gongaga.
+[ ] Chapitre 10 - Watcher of the Vale - Cave of the Gi.
+[ ] Chapitre 11 - The Long Shadow of Shinra - Nibelheim.
+[ ] Chapitre 12 - A Golden Key - Gold Saucer et sequence Loveless.
+[ ] Chapitre 13 - Where Angels Fear to Tread - zone lineaire finale.
+[ ] Chapitre 14 - End of the World - suite finale.
+
+- Pendant chaque chapitre Difficile, ouvre les coffres violets encore manquants,
+  mais ne refais pas les quetes si le Play Log indique deja 36/36.
+- Les boss resistent mieux aux attaques repetitives. Alterne personnages,
+  garde les jauges ATB pour les moments de pression et utilise les competences
+  de Synergie pour economiser les MP.
+- Apres le Chapitre 14 Difficile, valide : [ ] Of Hardy Stock.
+
+CHECKLIST FINALE - 61 SUCCES STEAM
+
+[ ] I Got This - gagner un combat.
+[ ] Staggered Learning - mettre un ennemi en etat stagger.
+[ ] No "I" in "Synergy" - utiliser une capacite de Synergie.
+[ ] Break It Down - utiliser une Limite.
+[ ] Exploitative Practices - exploiter une faiblesse ennemie.
+[ ] Unfettered Friendship - liberer un allie immobilise.
+[ ] Team Player - utiliser une competence de Synergie.
+[ ] Never Meet Your Heroes - terminer le Chapitre 1.
+[ ] A Materia World - faire monter une materia d'un niveau.
+[ ] Caching In - terminer une Cache.
+[ ] Intelligence Aide - trouver du World Intel dans cinq lieux.
+[ ] Weapons 101 - maximiser la proficiency d'une competence d'arme.
+[ ] Fledgling Summoner - invoquer une invocation.
+[ ] Entering New Markets - terminer une quete.
+[ ] Swampy Situation - terminer le Chapitre 2.
+[ ] Make Mine Black - terminer le Chapitre 3.
+[ ] I Brake for Chocobos - reparer trois arrets chocobo.
+[ ] Expert Ex-kweh-vator - trouver deux tresors enfouis par des lapins.
+[ ] New Blood - augmenter le rang Queen's Blood.
+[ ] You Work for Me Now - vaincre une invocation et obtenir sa materia.
+[ ] The President's Commendation - terminer le Chapitre 4.
+[ ] Cryptic Cameo - terminer le Chapitre 5.
+[ ] Founder's Bonus - obtenir une Protorelic des Grasslands.
+[ ] Fun in the Sun - terminer le Chapitre 6.
+[ ] Director of Regional Intelligence - finir tout le World Intel d'une region.
+[ ] Intelligence Specialist - trouver du World Intel dans cinquante lieux.
+[ ] Card Royalty - gagner le tournoi Queen's Blood du Shinra-8.
+[ ] The Price of Progress - terminer le Chapitre 7.
+[ ] Worth the Weight? - terminer le Chapitre 8.
+[ ] Fort Condor Commander - obtenir la Protorelic de Junon.
+[ ] 7th, Assemble! - recruter toutes les unites de la parade de Junon.
+[ ] Crying Out - terminer le Chapitre 9.
+[ ] Stars Fell from My Eyes - terminer le Chapitre 10.
+[ ] You're Not Murasaki - terminer le Chapitre 11.
+[ ] 1-Star Startup - donner 10 objets au Tresor de Johnny.
+[ ] Hearts Out, Dukes Up - terminer le Chapitre 12.
+[ ] Critically Acclaimed - obtenir une note S ou plus a Loveless.
+[ ] I'm Here for You - terminer le Chapitre 13.
+[ ] Stealing the Show - gagner la recompense d'Outstanding Performance de la parade.
+[ ] Confluence of Worlds - terminer le Chapitre 14.
+[ ] Honorary Turk - obtenir la Protorelic de Gongaga.
+[ ] The Gambit Paid Off - obtenir la Protorelic de Cosmo Canyon.
+[ ] Professional Handler - obtenir la Protorelic de Nibel.
+[ ] 3-Star Hotel - donner 30 objets au Tresor de Johnny.
+[ ] Moogle Lover - atteindre le rang maximal des emporiums moogle.
+[ ] Cactuar Crusher - obtenir la Protorelic de Corel.
+[ ] Bladesman of Legend - vaincre Gilgamesh.
+[ ] Hall of Famer - gagner toutes les courses chocobo standard.
+[ ] Grind It Out - atteindre le niveau 70 avec un personnage.
+[ ] 5-Star Hotel - donner 60 objets au Tresor de Johnny.
+[ ] My Job Here Is Done - terminer les 36 quetes.
+[ ] Piano Virtuoso - obtenir une remuneration sur les six morceaux de piano.
+[ ] Materia Completionist - developper toutes les materia de Chadley.
+[ ] Polygonal Prizefighter - vaincre Sephiroth au 3D Brawler.
+[ ] Staggering Success - infliger au moins 300 % de degats a un ennemi stagger.
+[ ] Are You Not Entertained? - terminer tous les combats du Musclehead Colosseum.
+[ ] Well-Rounded - maitriser toutes les competences d'armes et Limites de folio.
+[ ] Virtually Renowned - terminer toutes les simulations de combat de Chadley.
+[ ] Of Hardy Stock - terminer les 14 chapitres en Difficile.
+[ ] 7-Star Hotel - donner les 88 objets puis parler a Johnny.
+[ ] The Planet's Hope - obtenir les 60 autres succes.
+
+VERIFICATION FINALE 100 %
+
+[ ] Steam affiche 61/61 succes.
+[ ] Play Log Exploration est complet.
+[ ] Play Log Combat est complet.
+[ ] World Intel affiche 169/169.
+[ ] Les 7 regions et Meridian Ocean affichent leurs compteurs complets.
+[ ] Les 49 caches et 48 arrets chocobo sont coches.
+[ ] Les 49 armes ont leur coche jaune de proficiency.
+[ ] Les 230 ennemis sont inscrits et analyses.
+[ ] Johnny affiche 88/88 et son dernier dialogue a ete valide.
+[ ] Les six relations et les six variations de Chapitre 12 sont enregistrees.
+[ ] Les 14 chapitres Difficile sont termines.
+[ ] Aucun spoiler narratif n'est necessaire pour suivre cette route.
+
+SOURCES DE CONTROLE
+
+- Steam, liste officielle des 61 succes :
+  https://steamcommunity.com/stats/2909400/achievements
+- Square Enix, carte et regions officielles :
+  https://www.square-enix.com/ffvii/en-gb/games/rebirth/world/
+- Verification des compteurs 100 % :
+  https://www.powerpyx.com/final-fantasy-7-vii-rebirth-100-checklist/
+- Route des chapitres et des 36 quetes :
+  https://www.powerpyx.com/final-fantasy-7-vii-rebirth-walkthrough-all-chapters-side-quests/
+- Liste des 49 armes et emplacements des coffres violets :
+  https://www.powerpyx.com/final-fantasy-7-vii-rebirth-all-weapon-locations-weapon-abilities/
+- World Intel et 28 Protorelics :
+  https://www.powerpyx.com/final-fantasy-7-vii-rebirth-all-protorelic-phenomenon-intel-locations/
+- Liste des 49 caches :
+  https://game8.co/games/Final-Fantasy-VII-Rebirth/archives/Map-Cache-Locations
+- Guide des succes et seuils Johnny :
+  https://www.playstationtrophies.org/game/final-fantasy-vii-rebirth/guide/
+
+FIN DE LA FICHE - BONNE ROUTE
