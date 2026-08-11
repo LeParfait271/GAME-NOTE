@@ -1,180 +1,1028 @@
 ORI AND THE WILL OF THE WISPS
-GUIDE CHRONOLOGIQUE 100 % STEAM - SANS SPOILER
+FICHE PREMIUM 100 % STEAM — ROUTE CHRONOLOGIQUE — SANS SPOILER NARRATIF
 
-Version de travail : 10 aout 2026
+Version vérifiée : 11 août 2026
+AppID Steam : 1057090
+Périmètre : jeu principal, 37 succès Steam, aucune extension ni succès en ligne requis.
 
-Le jeu compte 37 succes Steam. Cette route est faite pour une premiere partie
-complete en mode Normal. Les succes Hardcore Fan, Immortal, Lightless,
-Shardless et Look at the Time demandent des contraintes incompatibles avec une
-partie detendue : garde une sauvegarde propre puis fais une partie dediee ou
-utilise un second profil. Le nettoyage de la carte reste possible apres la fin.
+Cette fiche est une route de jeu complète. Elle indique quand avancer, quand
+revenir avec une nouvelle capacité, quoi vérifier avant de quitter une région,
+comment obtenir les succès cachés et comment organiser les parties à contrainte.
+Les noms de zones, de boss et de quêtes servent uniquement de repères. Aucun
+événement de scénario, aucune identité et aucune fin ne sont racontés.
 
-ROUTE DE BASE ET REGLE DES ZONES
+COMMENT UTILISER CETTE FICHE
 
-MISSABLES
+- [ ] signifie que l'action doit être contrôlée sur la sauvegarde.
+- « Avant de quitter » est un contrôle obligatoire, pas une suggestion.
+- Les objets sont appelés comme dans la version anglaise de Steam afin que le
+  nom reste identifiable dans le menu et sur la carte.
+- Les petites orbes de Lumière spirituelle ne sont pas toutes listées une par
+  une : la quête Hand to Hand et les cartes de Lupo les révèlent. La méthode
+  de balayage complète est donnée plus bas, avec un contrôle de 100 % par zone.
+- Ori n'a pas de coffres classiques comme un RPG : les objets sont des pickups,
+  des fragments, des minerais, des murs secrets, des récompenses de quêtes et
+  des objets achetés. Rien n'est laissé à une liste vague de « collectibles ».
 
-La campagne reste nettoyable apres la fin, mais les runs Immortal, Lightless,
-Shardless et Look at the Time sont des contraintes manquables si tu depenses,
-meurs ou depasses le temps ; reserve une sauvegarde dediee.
+OBJECTIF GLOBAL ET COMPTEURS À ATTEINDRE
 
-Dans chaque zone :
+La sauvegarde de nettoyage doit afficher les compteurs suivants avant le bilan :
 
-1. Active le puits de sauvegarde.
-2. Parle a tous les habitants de Wellspring Glades et prends les quetes jaunes.
-3. Achete les cartes de Lupo des qu'elles deviennent disponibles.
-4. Fais les sanctuaires, les courses spirituelles et les quetes d'echange avant
-   de quitter la zone, mais reviens apres chaque nouvelle capacite.
-5. Depense la Lumiere spirituelle pour les cartes, competences et projets sur
-   cette partie ; les succes sans depense doivent etre faits sur une partie
-   dediee.
+- 40 Gorlek Ore.
+- 24 Life Cell Fragments, qui complètent les 12 améliorations de fragments de
+  vie disponibles dans le monde.
+- 24 Energy Cell Fragments, qui complètent les 12 améliorations de fragments
+  d'énergie disponibles dans le monde.
+- 20 cellules de vie et 20 cellules d'énergie au maximum, en comptant les
+  cellules de départ et les augmentations données par la progression.
+- 31 Spirit Shards uniques dans l'inventaire.
+- 5 Spirit Shrines terminés, donc tous les emplacements de shards.
+- 8 Spirit Trials terminées avec la médaille d'or.
+- 12 quêtes secondaires du journal terminées, récompense réclamée.
+- Tous les projets de Wellspring Glades terminés auprès de Grom.
+- Toutes les cartes de Lupo achetées, y compris les cartes de cellules, de
+  shards et de minerais quand elles sont proposées.
+- Toutes les capacités actives débloquées et toutes les améliorations d'Opher
+  achetées.
+- Toutes les zones à 100 % dans la sauvegarde et tous les objets de la carte
+  ramassés.
 
-PROLOGUE ET SOURCE
+PLAN DE SAUVEGARDES
 
-1. Termine le prologue, recupere la premiere arme et ouvre le premier puits.
-2. Dans les premiers combats, elimine au moins dix ennemis avec les pieges et
-   dangers du decor pour preparer Did I Do That?.
-3. Recupere la premiere capacite et commence le jardin des Glades des que la
-   zone s'ouvre.
+Crée plusieurs emplacements avec des noms reconnaissables. La sauvegarde
+automatique de la partie ne remplace pas une sauvegarde de sécurité : elle sert
+à revenir quelques secondes en arrière, pas à conserver un état propre pendant
+des heures.
 
-SOURCES DE LA SOURCE -> PREMIER GRAND OBJECTIF
+1. NORMAL-ROUTE : partie principale, quêtes et nettoyage 100 %.
+2. HIGH-DRY : copie de départ réservée à High and Dry si le premier essai est
+   raté.
+3. BOSS-KWOLOK : juste avant l'arène de Kwolok, pour Timely Demise.
+4. BOSS-MORA : juste avant l'arène de Mora, pour Untouchable.
+5. END-CLEAN : devant la dernière séquence, après avoir terminé le nettoyage.
+6. EASY-RUSH : partie dédiée à Look at the Time, Shardless, Lightless et
+   Immortal. Une partie facile séparée est plus fiable qu'un mélange avec le
+   100 % et évite les incohérences de compteurs.
+7. HARD-ROUTE : partie dédiée à Hardcore Fan. Ne change pas la difficulté.
 
-1. Ouvre les portes des Glades et accepte les projets : le moulin, le puits et
-   les ameliorations de village comptent pour Fixer Upper.
-2. Termine la premiere grande zone aquatique et libere le passage : Let the
-   Waters Flow.
-3. Pose les fragments de combat, achete des emplacements au marchand et
-   remets a jour les competences a chaque nouveau palier.
-4. Dans les combats avec projectiles, utilise Bash pour maintenir trois tirs
-   en l'air plus de cinq secondes : Juggling Act.
-5. Dans une zone avec plusieurs ennemis suspendus, frappe cinq cibles sans
-   toucher le sol : Bring it On. Recommence au besoin depuis un checkpoint.
+RÈGLES QUI ÉVITENT LES MAUVAISES SURPRISES
 
-REGIONS ET DETOURS DANS L'ORDRE
+- La campagne reste nettoyable après la fin : ne panique pas si une zone n'est
+  pas à 100 % lors du premier passage.
+- High and Dry se joue du début jusqu'à la fin de la grande fuite de The
+  Wellspring : ne touche pas l'eau violette corrosive. En cas de contact,
+  quitte immédiatement avant de reprendre pied et recharge une sauvegarde
+  antérieure. Si l'état est douteux, reprends HIGH-DRY.
+- Immortal ne signifie pas seulement « ne pas mourir au boss final ». Une mort
+  enregistrée invalide la partie. Fais une copie du fichier de sauvegarde ou
+  utilise une sauvegarde propre avant les passages à mort instantanée ; si Ori
+  meurt, ne continue pas cette copie.
+- Lightless interdit toute dépense de Spirit Light : ni compétence, ni carte,
+  ni projet, ni achat de shard. Il faut le faire sur EASY-RUSH.
+- Shardless interdit d'équiper un seul Spirit Shard. Posséder un shard ne
+  l'invalide pas ; l'équiper, oui. Laisse tous les emplacements vides.
+- Look at the Time exige moins de quatre heures au terme de la partie. Ne fais
+  pas les quêtes, les cartes ni les détours sur cette partie.
+- Hardcore Fan se fait en difficulté Hard du début à la fin. Les changements
+  de difficulté peuvent empêcher le succès.
+- Les succès de fin sont plus fiables en lançant une sauvegarde dédiée : une
+  ancienne sauvegarde ayant déjà enregistré un décès ou une dépense ne doit pas
+  servir pour une partie à contrainte.
 
-1. Kwolok's Hollow.
-   - Termine le sanctuaire spirituel et la quete principale.
-   - Achete la carte de Lupo et vide les puits d'energie et de vie accessibles.
-   - Apprends les competences et utilise les attaques de zone pour progresser.
-2. Wellspring Glades / Wellspring.
-   - Termine tous les projets du village avant de quitter la source.
-   - Accomplis la sequence d'echange : le marchand, le minerai, la soupe,
-     l'objet de la maison, puis la livraison finale. Cela donne Mark of the
-     Trader.
-   - Reviens apres chaque competence de nage ou de forage pour les cartes et
-     quetes restantes.
-3. Silent Map / Mouldwood Depths.
-   - Termine le sanctuaire et la course spirituelle.
-   - Dans les passages empoisonnes, profite des ennemis et du decor pour
-     avancer les succes de combat ; les eaux corrompues restent a eviter sur la
-     partie dediee a High and Dry.
-   - Termine la quete secondaire de la zone avant le boss.
-4. Luma Pools.
-   - Fais les detours sous l'eau, recupere les capacites et finis le sanctuaire.
-   - Le succes lié au grand ennemi de la zone tombe naturellement avec la route.
-5. Baur's Reach.
-   - Termine la zone de glace et la fuite : Icy Escape.
-   - Reviens avec la capacite de feu ou de forage pour la carte complete.
-   - Fais la course spirituelle et la quete secondaire avant la sortie.
-6. Windswept Wastes.
-   - Termine la zone de sable ; utilise les points d'ancrage et les fouilles.
-   - Fais les combats de sable et le sanctuaire avant la zone suivante.
-   - Verifie les cartes de Lupo et les collectables avant de repartir.
-7. Willow's End / Weeping Ridge.
-   - Termine les competences finales et les projets encore ouverts.
-   - Avant le point de non-retour de la mission finale, sauvegarde et fais le
-     nettoyage de chaque region marquee a moins de 100 %.
-8. Fin et nettoyage.
-   - Termine la campagne : Destiny.
-   - Apres les credits, reparcours les cartes avec les marqueurs : collectibles,
-     sanctuaires, courses, fragments, cellules de vie/energie et quetes.
+MISSABLES ET CONDITIONS RATABLES
 
-COMPLETION DE LA CARTE
+- High and Dry : aucun contact avec l'eau corrompue jusqu'à la fin de la fuite
+  de The Wellspring.
+- Timely Demise : Kwolok doit être vaincu en moins de deux minutes ; conserve
+  BOSS-KWOLOK avant l'arène.
+- Untouchable : Mora ne doit infliger aucun dégât ; recharge dès le premier
+  impact sur BOSS-MORA.
+- Shardless : ne jamais équiper de Spirit Shard pendant le run dédié.
+- Lightless : ne jamais dépenser de Spirit Light pendant le run dédié.
+- Look at the Time : finir en moins de quatre heures, sans nettoyage optionnel.
+- Immortal : aucune mort ne doit être enregistrée dans la sauvegarde du run.
+- Hardcore Fan : rester en difficulté Hard jusqu'à la fin.
+- Les quêtes et les objets restent généralement récupérables après la campagne,
+  mais les récompenses doivent toujours être réclamées auprès du donneur pour
+  être comptées.
 
-[ ] Toutes les cartes de Lupo achetees : Cartographer's Protege.
-[ ] Tous les emplacements de fragments ameliores : Fully Slotted.
-[ ] Toutes les capacites debloquees et ameliorees : Tools of the Trade,
-    Mad Skills.
-[ ] Tous les fragments debloques et ameliores : Shard Hunter, Shard Specialist.
-[ ] Vie au maximum : Healthy.
-[ ] Energie au maximum : Powerful.
-[ ] Tous les sanctuaires : Shrine Bright.
-[ ] Toutes les courses spirituelles : Speed Demon.
-[ ] Tous les projets de Wellspring Glades : Fixer Upper.
-[ ] Toutes les quetes secondaires : Completionist.
-[ ] Tous les objets collectables : Lost and Found.
+PARTIE 0 — PRÉPARATION ET RÈGLES DE COMBAT
 
-SUCCES DE COMBAT A FAIRE PENDANT LA ROUTE
+1. Active les dégâts visibles si tu veux vérifier les essais de boss. La
+   précision est plus utile que la vitesse pendant la partie 100 %.
+2. Apprends à utiliser Bash sur les ennemis, les projectiles, les lanternes et
+   les fleurs bleues. Bash remet aussi à zéro la hauteur de déplacement dans
+   l'air : attaque une cible volante pour prolonger un saut.
+3. Utilise les Spirit Wells comme points de sauvegarde, de soin et de voyage.
+   Dès qu'un nouveau puits apparaît sur la route, active-le avant de repartir.
+4. Dans un combat difficile, la priorité est : se placer, Bash, attaquer, puis
+   se soigner avec Regenerate. Ne brûle pas toute l'énergie avec des attaques
+   spéciales si le passage suivant est une énigme.
+5. Achète d'abord Spirit Smash auprès d'Opher : il ouvre les sols instables et
+   les carapaces. Achète ensuite Spike, puis les autres capacités selon le
+   budget. Sur la partie normale, ne garde pas l'argent inutilement.
+6. Les dégâts environnementaux comptent pour Did I Do That? : utilise les
+   piques, les rochers, les explosions, les chutes et les dangers du décor au
+   lieu de tuer chaque ennemi à l'arme directe.
 
-[ ] Close Call.
-[ ] Did I Do That? - 10 ennemis avec des dangers environnementaux.
-[ ] Juggling Act - trois projectiles pendant cinq secondes.
-[ ] Bring it On - cinq ennemis sans toucher le sol.
-[ ] Damage Spike - trois ennemis avec une seule Lance.
-[ ] One With the Force - eviter 50 attaques avec Focus Sight.
-[ ] Han Slowlo - vaincre 50 ennemis sous l'effet de Slow.
-[ ] Timely Demise, Dark Triumph, Quick Sand, Stone Cold, Laser Brain,
-    Take the Bug by the Horn, Guardian's Rest : faire les actions speciales
-    dans les salles associees ; si l'icone n'apparait pas, recommencer depuis
-    le checkpoint de la zone plutot que quitter la partie.
+TABLEAU DES CAPACITÉS À DÉBLOQUER
 
-PARTIES A CONTRAINTE
+Les 12 capacités actives qui alimentent Tools of the Trade sont :
 
-Les cinq succes ci-dessous se suivent mieux sur une partie dediee. Ne les
-melange pas avec le nettoyage 100 % si tu veux jouer sans pression.
+- Spirit Edge — attaque rapprochée, obtenue dans Inkwater Marsh.
+- Spirit Arc — tir à distance, obtenu dans Inkwater Marsh.
+- Spike — acheté à Opher.
+- Spirit Smash — acheté à Opher.
+- Spirit Star — acheté à Opher.
+- Light Burst — obtenu dans Baur's Reach.
+- Regenerate — obtenu dans la première zone, avec la progression de l'arbre.
+- Flap — obtenu après la séquence de Silent Woods.
+- Blaze — acheté à Opher.
+- Flash — obtenu dans Mouldwood Depths.
+- Sentry — acheté à Opher.
+- Launch — obtenu dans la dernière partie d'exploration.
 
-[ ] Hardcore Fan - terminer en Hard.
-[ ] Immortal - terminer sans mourir. Desactive les sauvegardes rapides si tu
-    veux un controle propre ; recharge une sauvegarde avant chaque mort.
-[ ] Lightless - ne depenser aucune Lumiere spirituelle. N'achete ni carte, ni
-    competence, ni projet.
-[ ] Shardless - ne jamais equiper de fragment.
-[ ] Look at the Time - terminer en moins de 4 heures. Utilise le mode facile
-    si le reglage de la version le permet, coupe les detours et fais un second
-    run reserve a ce succes.
+Capacités de déplacement et passives à prendre dès qu'elles deviennent
+accessibles : Double Jump, Bash, Dash, Grapple, Glide, Burrow, Water Breath,
+Kuro's Feather et les autres améliorations de mouvement. Elles ne remplacent
+pas la liste des 12 capacités actives ci-dessus.
 
-LISTE DES 37 SUCCES STEAM
+AMÉLIORATIONS D'OPHER — MAD SKILLS
 
-[ ] Close Call.
-[ ] Did I Do That?.
-[ ] Take the Bug by the Horn.
-[ ] Home Sweet Home.
-[ ] Let the Waters Flow.
-[ ] Juggling Act.
-[ ] Guardian's Rest.
-[ ] Dark Triumph.
-[ ] Timely Demise.
-[ ] Icy Escape.
-[ ] Quick Sand.
-[ ] Bring it On.
-[ ] Laser Brain.
-[ ] Stone Cold.
-[ ] Destiny.
-[ ] Shrine Bright.
-[ ] Fully Slotted.
-[ ] Tools of the Trade.
-[ ] Mark of the Trader.
-[ ] Mad Skills.
-[ ] Cartographer's Protege.
-[ ] Fixer Upper.
-[ ] Healthy.
-[ ] Completionist.
-[ ] Powerful.
-[ ] Shard Hunter.
-[ ] Damage Spike.
-[ ] Shard Specialist.
-[ ] Speed Demon.
-[ ] Lost and Found.
-[ ] Hardcore Fan.
-[ ] High and Dry.
-[ ] Untouchable.
-[ ] Shardless.
-[ ] Look at the Time.
-[ ] Lightless.
-[ ] Immortal.
+Opher propose cinq chaînes de combat, chacune avec une amélioration :
 
-VERIFICATION
+1. Spirit Smash → Shock Smash.
+2. Spike → Exploding Spike.
+3. Spirit Star → Spirit Star amélioré.
+4. Blaze → Charge Blaze.
+5. Sentry → Sentry Speed.
 
-Le suivi de la carte doit afficher toutes les zones nettoyees et Steam 37/37.
-Le jeu n'a pas de DLC de succes ni de mode online requis. Pour les cellules de
-vie/energie qui ne se valident pas immediatement, sauvegarde, ferme la carte,
-recharge puis reparle au personnage de suivi des Glades.
+Achète la capacité de base puis son amélioration pour chacune. Water Breath et
+Fast Travel sont utiles pour le 100 %, mais ne remplacent pas les cinq chaînes
+qui déclenchent Mad Skills. Après chaque achat, ouvre la roue des capacités et
+vérifie que l'icône apparaît bien comme possédée.
+
+LISTE DES 31 SPIRIT SHARDS
+
+La liste d'inventaire finale doit contenir chacun de ces noms. Certains sont
+achetés à Twillen, certains sont des récompenses, les autres sont cachés dans
+les régions. Achète la carte des shards de Lupo dès qu'elle apparaît, puis
+croise le nom de chaque shard avec la carte de la région.
+
+01. Arcing.
+02. Bounty.
+03. Catalyst.
+04. Deflector.
+05. Energy.
+06. Energy Harvest.
+07. Finesse.
+08. Fracture.
+09. Last Stand.
+10. Life Harvest.
+11. Life Pact.
+12. Lifeforce.
+13. Light Harvest.
+14. Magnet.
+15. Overcharge.
+16. Overflow.
+17. Quickshot.
+18. Reckless.
+19. Resilience.
+20. Secret.
+21. Spirit Surge.
+22. Splinter.
+23. Sticky.
+24. Swap.
+25. Thorn.
+26. Triple Jump.
+27. Turmoil.
+28. Ultra Bash.
+29. Ultra Grapple.
+30. Vitality.
+31. Wingclip.
+
+Les shards obtenus très tôt à contrôler en priorité sont Reckless, Magnet,
+Sticky et Resilience dans Inkwater Marsh, Splinter et Quickshot dans Kwolok's
+Hollow, Life Harvest dans The Wellspring, Overflow dans Silent Woods,
+Lifeforce dans Baur's Reach, Energy Harvest dans Luma Pools et Last Stand dans
+Windswept Wastes. Les autres sont marqués par les cartes de Lupo, les quêtes,
+Twillen ou les salles secrètes : ne quitte pas une zone tant que le symbole de
+shard reste sur sa carte.
+
+PARTIE 1 — PROLOGUE ET INKWATER MARSH
+
+OBJECTIF : obtenir les premières capacités, les premiers succès, la quête
+Hand to Hand et les objets accessibles sans revenir trop tôt.
+
+1. Termine le prologue et active le premier Spirit Well. Ramasse toutes les
+   orbes visibles et inspecte les plateformes au-dessus et sous la route.
+2. Dans Howl's Den, apprends Spirit Edge, Regenerate et Double Jump quand la
+   progression les rend disponibles. La zone de combat est aussi la fenêtre
+   pour Close Call : le succès tombe en repoussant Howl.
+3. Après l'affrontement, reviens dans les alcôves accessibles de la tanière.
+   Contrôle les murs fragiles, le sol cassable et la branche au-dessus de la
+   sortie. Récupère le premier shard caché et les fragments de cellules visibles.
+4. Parle à Mokk the Brave dans Inkwater Marsh dès que la route est ouverte.
+   Accepte A Little Braver. Le Howl Fang se trouve dans la zone à l'est de
+   l'affrontement, sur une hauteur qui demande Double Jump et Sticky. Rapporte
+   le fang pour recevoir un Gorlek Ore.
+5. Parle à Tokk et accepte The Missing Key. Explore le passage indiqué, ramasse
+   la Keystone puis rapporte-la. Ne quitte pas le marais sans avoir validé le
+   retour de quête.
+6. Parle au Moki qui lance Guardian of the Marsh. La quête est avancée par la
+   progression vers Kwolok's Hollow ; vérifie le journal après le dialogue.
+7. Rencontre Opher dans le marais. Sur la partie normale, achète une première
+   capacité si le budget le permet. Sur EASY-RUSH, ne dépense rien.
+8. Dans la salle de l'arbre, obtiens Spirit Arc. Utilise-le pour les interrupteurs
+   éloignés et prends le chemin inférieur avant de partir.
+9. Ramasse les shards du marais quand leurs passages sont ouverts : Reckless,
+   Magnet, Sticky, Resilience et Life Pact. Le dernier demande un retour par le
+   passage sablonneux depuis Luma Pools ; note-le pour la phase de nettoyage si
+   tu n'as pas encore la capacité requise.
+10. Dans les salles avec des ennemis et des piques, provoque au moins cinq
+    éliminations par dangers du décor. Termine les dix nécessaires à Did I Do
+    That? avant la fin de la première moitié du jeu.
+11. Pour Bring it On, garde un groupe de petites créatures au-dessus d'un sol
+    dangereux. Frappe cinq ennemis consécutivement sans retomber ; Bash et
+    Spirit Arc permettent de rester en l'air. Recommence au checkpoint si le
+    compteur ne tombe pas.
+12. Pour Juggling Act, place trois projectiles ennemis dans la même salle et
+    enchaîne Bash sans les laisser toucher le sol pendant plus de cinq secondes.
+    Les projectiles lents sont préférables aux projectiles rapides.
+
+AVANT DE QUITTER INKWATER MARSH
+
+- [ ] Howl repoussée — Close Call.
+- [ ] A Little Braver acceptée, Howl Fang livré, Gorlek Ore reçu.
+- [ ] The Missing Key rendue à Tokk.
+- [ ] Guardian of the Marsh lancée dans le journal.
+- [ ] Spirit Edge, Spirit Arc, Regenerate et Double Jump obtenus.
+- [ ] Spirit Well activé.
+- [ ] Fragments de vie et d'énergie visibles ramassés sur les branches ouvertes.
+- [ ] Reckless, Magnet, Sticky et Resilience contrôlés ; Life Pact noté pour le
+  retour si le passage reste fermé.
+- [ ] Au moins 10 ennemis tués avec un danger du décor, sinon faire le compteur
+  dans la prochaine zone avant de perdre les salles faciles.
+
+PARTIE 2 — KWOLOK'S HOLLOW
+
+OBJECTIF : obtenir Bash et Dash, battre le Horn Beetle, commencer Hand to Hand
+et sortir avec les chemins de retour correctement ouverts.
+
+1. Active le Spirit Well à l'entrée. Suis la route principale jusqu'à l'arbre
+   ancien et apprends Bash. Bash sert à déplacer les lanternes, les ennemis et
+   les projectiles ; entraîne-toi immédiatement sur les fleurs bleues.
+2. Avant de descendre, inspecte la grande salle à droite de l'arbre. Le shard
+   Splinter se trouve dans la partie basse ouverte ; Spirit Arc y est très utile.
+3. En descendant vers Dash, ouvre le mur de pierre avec l'interrupteur bleu.
+   Contrôle Quickshot dans l'alcôve à gauche des mécanismes. Les fragments de
+   cellules sont dans les alcôves verticales et derrière les sols fragiles.
+4. Obtient Dash au fond du passage. Reviens aussitôt dans la grande salle et
+   dans les couloirs latéraux : les dashs aériens ouvrent des salles qui
+   semblaient décoratives lors du premier passage.
+5. Avant le Horn Beetle, fais une sauvegarde BOSS-HORN et place Spirit Edge,
+   Spirit Smash ou Spirit Arc sur la roue. Le Horn Beetle est vulnérable depuis
+   l'arrière : Bash sous sa charge, passe de l'autre côté, puis attaque sa zone
+   non protégée.
+6. Le succès Take the Bug by the Horn tombe en le battant. Ne quitte pas
+   l'arène sans vérifier la notification Steam.
+7. Pour le passage rapide de Timely Demise, le combat de Kwolok se fera plus
+   tard. Ne confonds pas les deux boss : cette salle sert uniquement au succès
+   du Horn Beetle et à la progression.
+8. Au-dessus du Spirit Well, parle au Moki qui démarre Hand to Hand. Il donne
+   une carte à transmettre à Tokk. Cette quête est le pivot du nettoyage : ne
+   l'oublie pas dans le journal.
+9. Nettoie les salles accessibles autour du trajet principal : minerais,
+   fragments de vie, fragments d'énergie, orbes de Spirit Light, keystones et
+   murs secrets. Un sol intact sous une plateforme est souvent un passage à
+   revisiter après Spirit Smash.
+
+AVANT DE QUITTER KWOLOK'S HOLLOW
+
+- [ ] Bash et Dash obtenus.
+- [ ] Horn Beetle battu — Take the Bug by the Horn.
+- [ ] Hand to Hand lancée auprès du Moki au-dessus du Spirit Well.
+- [ ] Splinter et Quickshot vérifiés.
+- [ ] Spirit Shrine accessible terminé si le marqueur est déjà actif.
+- [ ] Tous les passages à keystone du trajet principal terminés.
+- [ ] Fragments de cellules, minerais et orbes visibles ramassés.
+- [ ] Spirit Well de la zone activé avant le départ.
+
+PARTIE 3 — WELLSPRING GLADES ET THE WELLSPRING
+
+OBJECTIF : ouvrir le hub, démarrer les projets, enchaîner Hand to Hand,
+terminer The Wellspring et obtenir Let the Waters Flow.
+
+1. Entre dans Wellspring Glades : Home Sweet Home se débloque en atteignant le
+   village. Parle à chaque Moki avant d'aller au prochain objectif. Plusieurs
+   quêtes et projets ne s'affichent qu'après un dialogue précis.
+2. Répare le Spirit Well central avec Grom. Commence Rebuilding the Glades et
+   dépense les premiers minerais sur les projets proposés. Le succès Fixer
+   Upper ne tombe qu'une fois toutes les options de Grom terminées, y compris
+   le dernier projet révélé par un dialogue avec un Moki.
+3. Parle à Opher dans les Glades. Achète Spirit Smash en premier, puis Spike.
+   Quand toutes les capacités d'Opher sont visibles, note celles qui restent
+   pour le bilan Mad Skills.
+4. Parle à Twillen et achète les shards disponibles sur la partie normale.
+   Contrôle au minimum Vitality, Energy, Arcing, Overcharge, Swap, Light
+   Harvest et Triple Jump lorsqu'ils apparaissent dans son inventaire.
+5. Parle à Lupo et achète la carte de la région. Après chaque nouvelle zone,
+   reviens chez lui : les cartes des shards, des cellules et des minerais sont
+   vendues séparément.
+6. Parle à Motay pour ouvrir ses statistiques. Il est le meilleur contrôle des
+   fragments de cellules, des shards et des objectifs globaux ; reviens lui
+   parler après chaque grand nettoyage.
+7. Pour Hand to Hand, donne la carte à Tokk dans Wellspring Glades. Il remet un
+   Wanderer's Pouch. Suis exactement la chaîne suivante, sans vendre ni jeter
+   l'objet de quête :
+   - Wanderer's Pouch → Moki de The Wellspring → Herb Pouch.
+   - Herb Pouch → Veral à Baur's Reach → Soup.
+   - Soup → Moki frigorifié de Baur's Reach → Comfy Hat.
+   - Comfy Hat → Moki à gauche de Wellspring Glades → Lantern.
+   - Lantern → Moki près du Combat Shrine de Mouldwood Depths → Mouldwood Silk.
+   - Mouldwood Silk → Moki pêcheur au-dessus du Spirit Well de Luma Pools →
+     Spyglass.
+   - Spyglass → Motay à Wellspring Glades → Canteen.
+   - Canteen → Gorlek Miner de Windswept Wastes → Map Stone Fragment.
+   - Map Stone Fragment → autel de Windtorn Ruins, derrière la zone du ver.
+8. La dernière étape de Hand to Hand révèle les secrets et les collectibles
+   restants sur la carte. Mark of the Trader tombe à la validation de la chaîne.
+9. Entre dans The Wellspring. Avant toute chute, observe les bassins : l'eau
+   violette est corrosive pour High and Dry. Sur la partie principale, tu peux
+   explorer normalement ; sur HIGH-DRY, prends la route haute et utilise Dash,
+   Bash et les lanternes sans toucher le liquide.
+10. Active les puits de la Source, achète les cartes et inspecte les conduits
+    au-dessus et sous le chemin. Life Harvest se trouve dans les passages de la
+    Source ; le shard ne doit pas rester sur le marqueur.
+11. Termine la séquence du moulin et la grande fuite. Let the Waters Flow se
+    débloque en nettoyant The Wellspring. High and Dry se débloque à la fin de
+    la fuite si aucune eau corrompue n'a été touchée.
+12. Après la fuite, l'accès aux zones aquatiques est élargi. Achète Water Breath
+    auprès d'Opher dès que l'achat est possible : il facilite le nettoyage mais
+    ne remplace pas le contrôle des fragments de carte.
+
+PROJETS DE GROM — CONTRÔLE FIXER UPPER
+
+Grom fait apparaître les projets au fil des minerais et des conversations.
+Achète-les tous dans son menu, sans laisser une ligne grisée non révélée :
+
+- Repair the Spirit Well.
+- Dwelling Repairs et les réparations de maisons suivantes.
+- Spirit Tether.
+- Shard Forge.
+- Map Stone.
+- Les améliorations d'installations et de décor débloquées par le village.
+- Le projet final de restauration, révélé après avoir parlé aux habitants et
+  fourni les minerais restants.
+
+Le nombre affiché par Grom est la référence de la version installée. Le total
+de 40 Gorlek Ore doit être ramassé et le menu de Grom doit afficher tous les
+projets terminés. Reviens après les quêtes The Lost Compass, A Little Braver et
+Hand to Hand : les minerais de récompense sont nécessaires au dernier projet.
+
+AVANT DE QUITTER THE WELLSPRING
+
+- [ ] Home Sweet Home.
+- [ ] Let the Waters Flow.
+- [ ] Wellspring Glades Spirit Well réparé.
+- [ ] Hand to Hand avancée jusqu'au moins au Wanderer's Pouch.
+- [ ] The Lost Compass acceptée auprès de Tokk dans The Wellspring.
+- [ ] Lupo, Opher, Twillen et Motay rencontrés.
+- [ ] Life Harvest contrôlé.
+- [ ] Toutes les cartes disponibles achetées sur la partie normale.
+- [ ] Première série de projets Grom achetée.
+- [ ] High and Dry confirmé sur HIGH-DRY avant de poursuivre si c'est la partie
+  choisie pour ce succès.
+
+PARTIE 4 — LOST COMPASS, SILENT WOODS ET RETOUR AUX GLADES
+
+OBJECTIF : terminer l'acte de départ, les quêtes du village et préparer les
+trois branches de Wisps.
+
+1. Dans The Wellspring, suis The Lost Compass jusqu'au mécanisme qui retient
+   l'objet. Utilise les attaques sur le dispositif et prends la compass. Ramène-
+   la à Tokk pour recevoir le Gorlek Ore. La récompense doit être réclamée :
+   une quête rendue mais non récupérée ne compte pas pour Completionist.
+2. Après la restauration de The Wellspring, la route de Silent Woods devient
+   accessible. Active le Spirit Well dès l'entrée et achète sa carte à Lupo.
+3. Dans Silent Woods, lance The Tree Keeper auprès de Kii. Il remet une
+   Lifeless Branch. Rapporte-la à Tuley dans Wellspring Glades, puis retourne
+   auprès de Kii pour recevoir Tree Seed.
+4. Donne Tree Seed à Tuley. Il plante la graine dans les Glades. Reviens
+   absorber la lumière de l'arbre qui pousse : l'amélioration Ancestral Light
+   est nécessaire au 100 % et renforce les dégâts.
+5. À l'ouest de Grom, commence Family Reunion. Répare les maisons demandées,
+   parle au Moki qui donne la clé, puis entre dans la maison de Silent Woods.
+   Ramasse Petrified Doll et rapporte-la au Moki des Glades. Vérifie le journal
+   jusqu'à la fermeture de la quête.
+6. Dans Silent Woods, fais le Spirit Shrine et la Spirit Trial dès que la
+   route les permet. Les passages de brouillard et de hauteur sont plus sûrs
+   avec Dash et Grapple ; garde le nettoyage de la bordure pour le retour.
+7. En revenant aux Glades, plante tous les Mysterious Seeds disponibles. La
+   série Regrowing the Glades comprend six graines : les graines de The
+   Wellspring, Silent Woods, Baur's Reach, Luma Pools, Mouldwood Depths et
+   Windswept Wastes doivent être remises à Tuley.
+
+AVANT DE QUITTER SILENT WOODS
+
+- [ ] The Tree Keeper terminée, Tree Seed livré à Tuley et Ancestral Light
+  obtenu.
+- [ ] Family Reunion terminée, Petrified Doll rapportée.
+- [ ] Spirit Shrine de la zone terminé.
+- [ ] Spirit Trial de la zone terminée avec médaille d'or si accessible.
+- [ ] Overflow contrôlé dans la zone ou noté pour le retour.
+- [ ] Tous les fragments et minerais sur les branches accessibles ramassés.
+- [ ] Les six graines sont suivies dans le journal de Tuley.
+
+PARTIE 5 — ORDRE DES WISPS
+
+Après Silent Woods, trois grandes branches s'ouvrent puis la route de sable
+complète le parcours. L'ordre conseillé limite les retours :
+
+1. Baur's Reach — Light Burst, glace, Icy Escape.
+2. Mouldwood Depths — Flash, Mora, Dark Triumph et Untouchable.
+3. Luma Pools — Water Breath, Kwolok, Guardian's Rest et Timely Demise.
+4. Windswept Wastes — Burrow, Quick Sand, A Diamond in the Rough.
+5. Windtorn Ruins, Midnight Burrows et Weeping Ridge — fin des quêtes, carte,
+   Launch et derniers secrets.
+
+Les trois premières zones peuvent être faites dans un autre ordre, mais la
+route ci-dessus est la plus stable pour les collectibles et les boss. Dans
+chaque zone : Spirit Well, carte de Lupo, quête, capacités, shrine, trial,
+fragments, minerais, shards, puis bordure de la carte.
+
+PARTIE 6 — BAUR'S REACH
+
+OBJECTIF : Light Burst, Icy Escape, wisp de la zone, shard Lifeforce et
+nettoyage des salles de glace.
+
+1. Active le Spirit Well d'entrée et achète la carte. Les blocs de glace et les
+   torches nécessitent Light Burst : avance jusqu'à l'arbre ancestral qui la
+   donne, puis reviens dans les salles qui contenaient une torche éteinte.
+2. Ne dépense pas toute l'énergie avant les énigmes de lumière. Charge Light
+   Burst, allume les torches, puis Bash la boule si une trajectoire est
+   nécessaire. Les murs de glace fondent avec une boule correctement chargée.
+3. Dans la partie haute à gauche, prends Lifeforce. Équipe-le sur la partie
+   normale et améliore-le plus tard ; note-le dans la liste des 31 shards.
+4. Lance la Spirit Trial depuis son piédestal et obtiens l'or. Si le temps est
+   trop serré, ne quitte pas : ouvre la carte après avoir obtenu la capacité de
+   la zone, puis recommence avec les raccourcis ouverts.
+5. La fuite d'avalanche donne Icy Escape. Pendant la séquence, ne cherche pas
+   les orbes : suis la ligne de sécurité, utilise Dash et Bash sur les lanternes,
+   et garde un mouvement continu jusqu'au passage final.
+6. Termine la rencontre de la zone et récupère le wisp. Après la scène de sortie,
+   reviens par le Spirit Well pour les branches de glace et les salles sous la
+   grande caverne.
+7. Contrôle la graine Mysterious Seed de la zone et donne-la à Tuley à ton
+   prochain retour aux Glades. Elle compte pour Regrowing the Glades.
+8. Dans les salles à essaims, prépare Damage Spike : achète Spike et son
+   amélioration, attire trois petites créatures proches, puis lance Exploding
+   Spike au centre. Le nid de Stinger Flies est une bonne fenêtre.
+
+AVANT DE QUITTER BAUR'S REACH
+
+- [ ] Light Burst obtenu.
+- [ ] Icy Escape.
+- [ ] Wisp de Baur's Reach obtenu.
+- [ ] Lifeforce ajouté à l'inventaire.
+- [ ] Spirit Shrine et Spirit Trial terminés.
+- [ ] Mysterious Seed de la zone récupérée et suivie.
+- [ ] Tous les fragments de vie et d'énergie accessibles avec Light Burst
+  ramassés.
+- [ ] Gorlek Ore et Spirit Light visibles ramassés.
+- [ ] Damage Spike tenté dans un nid ou une Spirit Shrine ; notification vérifiée.
+
+PARTIE 7 — MOULDWOOD DEPTHS
+
+OBJECTIF : traverser l'obscurité, obtenir Flash, vaincre Mora, valider Dark
+Triumph et réussir Untouchable.
+
+1. Active le Spirit Well puis achète la carte. La visibilité est volontairement
+   faible : ne dépense pas les soins au hasard et marque les embranchements
+   avec la carte plutôt que de tourner en rond.
+2. Progresse jusqu'à l'arbre qui donne Flash. La capacité crée une aura qui
+   consomme de l'énergie ; active-la seulement dans les zones noires et
+   désactive-la dès que la lumière naturelle revient.
+3. Termine le Spirit Shrine et la Spirit Trial de Mouldwood. La salle de
+   combat près du Moki est aussi la livraison finale d'Hand to Hand : donne la
+   Lantern pour recevoir Mouldwood Silk.
+4. Rapporte Mouldwood Silk au Moki pêcheur de Luma Pools. Ce n'est pas un
+   détour facultatif : l'objet fait partie de Hand to Hand et de Mark of the
+   Trader.
+5. Avant Mora, fais une sauvegarde BOSS-MORA. Pour Untouchable, joue en Easy
+   sur la partie de succès, retire les shards risqués et équipe Spirit Smash ou
+   Spike. Ne prends aucun dégât pendant tout le combat.
+6. La stratégie sûre consiste à rester sur un mur, attendre le coup au sol,
+   sauter et Dash vers l'autre paroi, puis lancer Spike pendant la fenêtre. En
+   deuxième phase, utilise les toiles et les murs pour rester en mouvement ; ne
+   prends pas de dégâts de contact ou de projectile. Si Ori est touché, recharge
+   BOSS-MORA immédiatement.
+7. Dark Triumph tombe en repoussant Mora. Untouchable tombe uniquement si la
+   totalité du combat est sans dégâts. Vérifie les deux notifications.
+8. Récupère le wisp de la zone. Après la sortie, retourne dans les salles
+   éclairables pour les fragments, le minerai, le shard restant et le Mysterious
+   Seed de Mouldwood.
+
+AVANT DE QUITTER MOULDWOOD DEPTHS
+
+- [ ] Flash obtenu.
+- [ ] Dark Triumph.
+- [ ] Untouchable obtenu sur la copie BOSS-MORA.
+- [ ] Wisp de Mouldwood obtenu.
+- [ ] Spirit Shrine et Spirit Trial terminés.
+- [ ] Lantern donnée au Moki, Mouldwood Silk reçu.
+- [ ] Mouldwood Silk remis au Moki de Luma Pools.
+- [ ] Mysterious Seed de la zone ramassée.
+- [ ] Tous les passages noirs revisités avec Flash.
+- [ ] Fragments de cellules, minerais et shards retirés de la carte.
+
+PARTIE 8 — LUMA POOLS
+
+OBJECTIF : exploration aquatique, Energy Harvest, wisp, Guardian's Rest et
+Timely Demise.
+
+1. Active le Spirit Well d'entrée et achète la carte. L'eau propre permet la
+   nage ; utilise les passages verticaux et les bulles pour atteindre les
+   branches supérieures.
+2. Achète Water Breath à Opher si ce n'est pas encore fait. Il devient possible
+   de rester sous l'eau et de nettoyer les salles latérales sans minuterie.
+3. Donne Mouldwood Silk au Moki pêcheur et récupère Spyglass. Apporte Spyglass
+   à Motay dans Wellspring Glades, puis prends Canteen. Ce retour est nécessaire
+   pour Hand to Hand.
+4. Récupère Energy Harvest dans Luma Pools. Contrôle les cavités derrière les
+   cascades, les plantes et les sols fragiles ; une carte achetée à Lupo marque
+   les cellules, mais pas toujours chaque orbe de Spirit Light.
+5. Termine la Spirit Shrine et la Spirit Trial. La salle de trial peut être
+   rejouée après avoir débloqué des raccourcis : fais l'or, pas seulement la
+   participation.
+6. Avant Kwolok, fais une sauvegarde BOSS-KWOLOK. Pour Timely Demise, choisis
+   Easy, passe les dialogues et lance le chronomètre dès que le combat est
+   actif. Il faut vaincre Kwolok en moins de deux minutes.
+7. Utilise Spike amélioré ou Spirit Smash, garde les attaques chargées pour les
+   fenêtres où le boss est immobile et ne poursuis pas un projectile au risque
+   de perdre du temps. Si le compteur est dépassé, recharge BOSS-KWOLOK.
+8. Guardian's Rest tombe en repoussant Kwolok ; Timely Demise tombe si le délai
+   de deux minutes est respecté. Vérifie les deux notifications avant de quitter
+   l'arène.
+9. Récupère le wisp puis fais le retour par les conduits, les bassins supérieurs
+   et la liaison vers Inkwater Marsh. Life Cell Fragment 23/24 et Energy Cell
+   Fragment 24/24 se trouvent dans les tunnels de liaison à contrôler pendant
+   le grand nettoyage si les compteurs ne sont pas encore complets.
+
+AVANT DE QUITTER LUMA POOLS
+
+- [ ] Water Breath acheté ou déjà actif.
+- [ ] Energy Harvest obtenu.
+- [ ] Spyglass remis à Motay, Canteen reçue.
+- [ ] Wisp de Luma Pools obtenu.
+- [ ] Guardian's Rest.
+- [ ] Timely Demise : Kwolok vaincu en moins de deux minutes.
+- [ ] Spirit Shrine et Spirit Trial terminés avec l'or.
+- [ ] Mysterious Seed de Luma Pools récupérée.
+- [ ] Fragments de vie et d'énergie dans les bassins et tunnels ramassés.
+- [ ] Passage de liaison vers Inkwater inspecté avant de repartir.
+
+PARTIE 9 — HAND TO HAND, WINDSWEPT WASTES ET BURROW
+
+OBJECTIF : terminer la chaîne d'échange, obtenir Burrow, le wisp de sable,
+Quick Sand, A Diamond in the Rough et la révélation complète des cartes.
+
+1. Dans Windswept Wastes, rencontre le Gorlek Miner près de l'arbre Burrow.
+   Donne Canteen et reçois Map Stone Fragment. Si tu n'as pas encore terminé
+   les étapes précédentes de Hand to Hand, retourne d'abord auprès des Moki
+   concernés : le jeu ne remet pas les objets dans un autre ordre.
+2. Descends dans la zone de sable et obtiens Burrow. Entre dans le sable avec
+   la commande de forage, puis utilise les lignes de sable comme des tunnels
+   de déplacement. Les monticules qui ressemblent à de simples décors cachent
+   des fragments et des passages.
+3. Reviens immédiatement dans les salles ouvertes par Burrow : dessous du
+   Spirit Well, piliers inclinés, puits de sable et murs enfouis. Contrôle
+   Last Stand, les fragments de cellules et les minerais signalés par la carte.
+4. La quête A Diamond in the Rough commence près de la pelle. Avec Burrow,
+   fouille exactement sous la pelle et prends Eerie Gem. Rapporte la gemme au
+   demandeur pour obtenir Secret. Contrôle la possession de Secret auprès de
+   Twillen avant de partir.
+5. Donne Map Stone Fragment à l'autel de Windtorn Ruins, à l'ouest du Spirit
+   Well inférieur. L'autel révèle les collectibles et les secrets non ramassés
+   sur les cartes. Mark of the Trader se valide à cette étape.
+6. La zone de sable donne Quick Sand en réussissant la séquence d'évasion des
+   ruines. Utilise Burrow, les courants et les sorties latérales ; ne t'arrête
+   pas sur les zones qui s'effondrent.
+7. Termine la Spirit Shrine et la Spirit Trial. La course comporte des lignes
+   de sable et des changements de hauteur : le temps d'or est plus facile après
+   avoir ouvert tous les raccourcis.
+8. Récupère le wisp de Windswept Wastes, puis remets sa Mysterious Seed à Tuley.
+
+AVANT DE QUITTER WINDSWEPT WASTES
+
+- [ ] Burrow obtenu.
+- [ ] Last Stand obtenu.
+- [ ] A Diamond in the Rough terminée, Eerie Gem livrée, Secret reçu.
+- [ ] Canteen livrée au Gorlek Miner, Map Stone Fragment reçu.
+- [ ] Map Stone Fragment placé à Windtorn Ruins.
+- [ ] Mark of the Trader.
+- [ ] Quick Sand.
+- [ ] Wisp de Windswept Wastes obtenu.
+- [ ] Spirit Shrine et Spirit Trial en médaille d'or.
+- [ ] Mysterious Seed de la zone récupérée.
+- [ ] Tous les monticules de sable et salles enfouies inspectés.
+
+PARTIE 10 — MIDNIGHT BURROWS ET THE SILENT MAP
+
+OBJECTIF : terminer Into the Burrows, les zones optionnelles et The Silent Map.
+
+1. Dans Inkwater Marsh, parle à Tokk près de l'entrée de Midnight Burrows pour
+   lancer Into the Burrows. Ouvre le passage avec les deux keystones et
+   descends dans les tunnels.
+2. Dans Midnight Burrows, suis les lanternes et les plateformes bleues. La
+   curious tablet se trouve dans la partie profonde ; rapporte-la à Tokk pour
+   fermer la quête. Contrôle les salles sous les plateformes et le shard
+   affiché par la carte de la zone.
+3. Dans Wellspring Glades, lance Into the Darkness auprès du Moki de la grotte.
+   Cette quête exige Flash : traverse la zone noire avec l'aura allumée, garde
+   assez d'énergie pour les couloirs finaux et accompagne le Moki jusqu'à la
+   sortie. Récupère la récompense et la lumière portative.
+4. Dans les Glades, lance The Silent Map. Explore Silent Woods jusqu'à avoir
+   entièrement révélé les bords, les chambres et les alcôves. Une carte à 100 %
+   doit afficher tous les collectibles, pas seulement le chemin principal.
+5. Rapporte le résultat à Lupo dans Wellspring Glades. Si le journal garde la
+   quête ouverte, repars dans Silent Woods, visite chaque bord noir de la carte,
+   puis reviens à Lupo. Ne passe pas au bilan tant que la quête n'est pas
+   marquée terminée.
+
+AVANT DE QUITTER MIDNIGHT BURROWS ET LES QUÊTES DES GLADES
+
+- [ ] Into the Burrows terminée et récompense réclamée.
+- [ ] Into the Darkness terminée et récompense réclamée.
+- [ ] The Silent Map terminée auprès de Lupo.
+- [ ] Toutes les salles optionnelles de Midnight Burrows explorées.
+- [ ] Les marqueurs de shard, minerai et fragments de cellules ont disparu.
+- [ ] Hand to Hand affiche sa dernière validation.
+
+PARTIE 11 — WINDTORN RUINS, WEEPING RIDGE ET LA FIN DE L'EXPLORATION
+
+OBJECTIF : fermer les chemins de progression, obtenir Launch et préparer la
+dernière zone sans laisser de collectible inaccessible.
+
+1. Dans Windtorn Ruins, utilise Burrow sur les murs et les sols de sable. Le
+   Map Stone posé à l'étape précédente a maintenant révélé toutes les icônes.
+   Fais la boucle du Spirit Well inférieur vers l'ouest, le nord puis l'est.
+2. Contrôle les fragments de cellules numérotés dans ton inventaire plutôt que
+   de supposer que le compteur de zone suffit. Deux fragments forment une
+   augmentation : une moitié laissée sur la carte ne déclenche pas Healthy ou
+   Powerful.
+3. Dans Weeping Ridge, progresse jusqu'à l'arbre et obtiens Launch. Reviens
+   dans les salles de hauteur avec Launch : les tirs chargés ouvrent les murs,
+   les courants et les plateformes qui restent inaccessibles autrement.
+4. Termine la Spirit Trial de Weeping Ridge. Le parcours est plus simple en
+   faisant d'abord les raccourcis et en notant les points de reprise.
+5. Termine toutes les conversations restantes dans les Glades. Achète les
+   capacités restantes chez Opher, les shards restants chez Twillen et les
+   cartes restantes chez Lupo. N'oublie pas la carte finale gratuite de la zone
+   terminale : elle compte comme une carte achetée même si elle ne coûte rien.
+6. Rapporte les dernières graines à Tuley. Une fois les six graines plantées,
+   le journal Regrowing the Glades doit être fermé.
+7. Parle à Grom après avoir atteint les 40 minerais. Achète le dernier projet et
+   contrôle Fixer Upper avant de lancer la séquence finale.
+
+AVANT LA DERNIÈRE ZONE
+
+- [ ] Launch obtenu.
+- [ ] 8 Spirit Trials terminées en or.
+- [ ] 5 Spirit Shrines terminées.
+- [ ] 6 Mysterious Seeds remises à Tuley.
+- [ ] 40 Gorlek Ore ramassés et tous les projets de Grom terminés.
+- [ ] 31 Spirit Shards possédés.
+- [ ] 24 Life Cell Fragments et 24 Energy Cell Fragments possédés.
+- [ ] Toutes les capacités actives et les cinq améliorations d'Opher achetées.
+- [ ] Toutes les quêtes secondaires du journal terminées.
+- [ ] Hand to Hand terminée et carte de secrets activée.
+
+PARTIE 12 — WILLOW'S END ET BILAN DE CAMPAGNE
+
+OBJECTIF : obtenir les derniers succès narratifs sans expliquer la fin, puis
+revenir sur la sauvegarde placée avant la dernière séquence pour le nettoyage.
+
+1. Fais une sauvegarde END-CLEAN avant d'entrer dans la dernière zone. À partir
+   de cette entrée, n'engage pas la fin tant que les contrôles de la section
+   précédente ne sont pas verts.
+2. Dans Willow's End, active le Spirit Well, suis la route des cœurs et ouvre
+   les branches de la carte. L'objectif de la zone est signalé par les marqueurs
+   principaux ; les objets optionnels se trouvent sur les branches supérieures,
+   sous les racines et derrière les murs fragiles.
+3. Le combat contre Willow Stone débloque Laser Brain. Utilise les ouvertures
+   et les plateformes, évite les lasers et vérifie la notification avant de
+   poursuivre.
+4. La rencontre finale de la campagne débloque Stone Cold. Elle valide aussi
+   Destiny quand le jeu considère la campagne terminée. Les deux succès doivent
+   apparaître sur Steam ; si l'un manque, ferme et relance le jeu sur END-CLEAN
+   avant de modifier la sauvegarde.
+5. Après les crédits, charge END-CLEAN. Le jeu laisse revenir avant la dernière
+   séquence : profite de cet état pour nettoyer chaque région à 100 % et
+   terminer les achats.
+
+BALAYAGE 100 % — MÉTHODE EXACTE PAR RÉGION
+
+Répète cette boucle dans chaque zone, dans l'ordre de la liste de la carte :
+
+1. Active et revisite le Spirit Well de la zone.
+2. Achète à Lupo la carte générale, puis la carte de Life Cells, Energy Cells,
+   Spirit Shards et Gorlek Ore dès qu'elles sont proposées.
+3. Ouvre la carte et active un seul filtre à la fois. Termine d'abord les
+   cellules de vie, puis les cellules d'énergie, puis les shards, puis le
+   minerai. Cela évite de confondre deux icônes superposées.
+4. Fais le tour de la bordure extérieure dans le sens horaire. Toute portion
+   noire est un passage non visité, même si aucun symbole n'y apparaît.
+5. Fais le tour intérieur en suivant les verticales : plafond, milieu, sol,
+   puis murs destructibles. Les fragments cachés sont souvent dans les puits
+   sous la route principale.
+6. Ouvre tous les murs fragiles avec Spirit Edge, Spirit Smash, Burrow ou
+   Launch selon le symbole rencontré.
+7. Termine le Spirit Shrine et la Spirit Trial de la zone. Une course sans
+   médaille d'or reste incomplète pour Speed Demon.
+8. Termine la quête de la zone et reviens réclamer la récompense au donneur.
+9. Contrôle le pourcentage de zone. Si la zone est à 99 %, quitte l'écran de
+   carte, sauvegarde, recharge et vérifie les tunnels de liaison : les derniers
+   fragments sont parfois rattachés à une zone voisine.
+10. Passe à la région suivante seulement lorsque le compteur de la zone est
+    à 100 % ou lorsque la capacité manquante est explicitement notée.
+
+ORDRE DE NETTOYAGE CONSEILLÉ
+
+1. Inkwater Marsh : Howl's Den, puits ouest, arbre de Spirit Edge, passage vers
+   Midnight Burrows et liaisons vers Luma Pools.
+2. Kwolok's Hollow : salle de Bash, salle de Dash, plateformes de Horn Beetle,
+   conduits inférieurs et sorties vers les Glades.
+3. Wellspring Glades : maisons, grotte, Spirit Well, boutiques, graines et
+   projets de Grom.
+4. The Wellspring : conduits du moulin, bassins supérieurs, Life Harvest et
+   liaison vers Luma Pools.
+5. Silent Woods : arbre de Kii, maison de Family Reunion, shrine, trial,
+   Overflow et tunnels de la zone grise.
+6. Baur's Reach : arbre Light Burst, glace gauche, camp, trial, shrine et
+   salle de Lifeforce.
+7. Mouldwood Depths : arbre Flash, Combat Shrine, Moki de la lanterne, toiles,
+   salle de Mora et passages noirs.
+8. Luma Pools : bassins, conduits sous-marins, pêcheur, shrine, trial, salle de
+   Kwolok et tunnels de liaison.
+9. Windswept Wastes : arbre Burrow, pelle, Miner, sable profond, shrine, trial
+   et sortie de Windtorn Ruins.
+10. Midnight Burrows : entrée à deux keystones, salle de la tablette, tunnels
+    inférieurs et chambres de shard.
+11. Windtorn Ruins / Weeping Ridge : autel de la carte, sable, Launch, trial,
+    derniers fragments et minerais.
+12. Willow's End : tous les marqueurs restants, Willow Stone et fin de la
+    campagne.
+
+CONTRÔLE DES 40 GORLEK ORE
+
+- [ ] 01 à 04 : Inkwater Marsh et Howl's Den.
+- [ ] 05 à 10 : Kwolok's Hollow et les premières récompenses de quête.
+- [ ] 11 à 16 : Wellspring Glades, The Wellspring et Into the Darkness.
+- [ ] 17 à 22 : Silent Woods, Baur's Reach et les retours de l'acte 2.
+- [ ] 23 à 30 : Mouldwood Depths et Luma Pools.
+- [ ] 31 à 36 : Windswept Wastes, Burrow et les tunnels de Windtorn Ruins.
+- [ ] 37 à 40 : Willow's End et les récompenses finales.
+
+Ces numéros servent de compteur de route, pas de numéros d'icônes imposés par
+le jeu. Si un numéro manque, achète la carte Ore de Lupo, active le filtre
+Minerai et compare chaque région à son pourcentage avant de conclure à un bug.
+Les récompenses de A Little Braver, The Lost Compass et les projets de Grom
+doivent aussi être comptées dans le total.
+
+CONTRÔLE DES 24 LIFE CELL FRAGMENTS
+
+- [ ] 01–04 : Inkwater Marsh / Howl's Den.
+- [ ] 05–08 : Kwolok's Hollow.
+- [ ] 09–12 : Wellspring Glades / The Wellspring.
+- [ ] 13–16 : Silent Woods / Baur's Reach.
+- [ ] 17–20 : Mouldwood Depths / Luma Pools.
+- [ ] 21–22 : Windswept Wastes.
+- [ ] 23 : tunnel entre Wellspring, Luma Pools et Inkwater Marsh.
+- [ ] 24 : Willow's End ou la dernière branche affichée par la carte.
+
+Deux fragments forment une augmentation. Motay doit afficher 20/20 Life et
+l'onglet de progression doit afficher les 24 fragments ramassés. Si le HUD reste
+à 19/20 alors que la carte paraît vide, sauvegarde, ferme complètement le jeu,
+relance puis recontrôle la zone de liaison : cette valeur a connu des problèmes
+de recalcul sur certaines versions.
+
+CONTRÔLE DES 24 ENERGY CELL FRAGMENTS
+
+- [ ] 01–03 : Inkwater Marsh.
+- [ ] 04–06 : Kwolok's Hollow.
+- [ ] 07–09 : Wellspring Glades / The Wellspring.
+- [ ] 10–13 : Silent Woods.
+- [ ] 14–17 : Baur's Reach / Mouldwood Depths.
+- [ ] 18–20 : Luma Pools.
+- [ ] 21–22 : Windswept Wastes.
+- [ ] 23 : Windtorn Ruins.
+- [ ] 24 : tunnel de liaison oriental vers Inkwater Marsh.
+
+Les valeurs exactes de l'onglet de sauvegarde priment sur le regroupement de
+route ci-dessus. Deux fragments donnent une cellule ; vise 20/20 dans Motay et
+dans le menu. Si un fragment ne s'affiche plus, recharge une sauvegarde avant
+son ramassage puis ferme et relance pour forcer le recalcul.
+
+SUCCÈS DE COMBAT ET DE PERFORMANCE
+
+01. Did I Do That? — vaincre 10 ennemis avec des dangers environnementaux.
+    Utilise les piques, rochers, explosions et chutes ; le compteur n'exige pas
+    que les dix ennemis soient dans une seule zone.
+02. Juggling Act — maintenir au moins trois projectiles en l'air pendant plus
+    de cinq secondes avec Bash. Fais-le dans une salle plate avec projectiles
+    lents, puis vérifie la notification.
+03. Bring it On — vaincre cinq ennemis sans toucher le sol. Les ennemis volants,
+    Bash et les rebonds de Spirit Edge rendent l'essai contrôlable.
+04. Damage Spike — vaincre trois ennemis avec un seul Spike. Utilise Exploding
+    Spike sur un nid de Stinger Flies ou une vague de Spirit Shrine.
+05. Timely Demise — vaincre Kwolok en moins de deux minutes. Easy, sauvegarde
+    BOSS-KWOLOK, dialogues passés, dégâts constants.
+06. Untouchable — vaincre Mora sans prendre de dégâts. Easy, sauvegarde
+    BOSS-MORA, recharge au premier impact.
+
+SUCCÈS CACHÉS DE PROGRESSION
+
+- Close Call — repousser Howl dans Howl's Den.
+- Take the Bug by the Horn — vaincre le Horn Beetle.
+- Home Sweet Home — atteindre Wellspring Glades.
+- Let the Waters Flow — nettoyer The Wellspring.
+- Guardian's Rest — repousser Kwolok.
+- Dark Triumph — repousser Mora.
+- Icy Escape — réussir la fuite d'avalanche de Baur's Reach.
+- Quick Sand — réussir la fuite des ruines de Windswept Wastes.
+- Laser Brain — vaincre Willow Stone.
+- Stone Cold — vaincre Shriek.
+- Destiny — terminer la campagne.
+
+PARTIES À CONTRAINTE — ROUTE SÛRE
+
+RUN A — NORMAL 100 %
+
+- Difficulté Normal.
+- Quêtes, cartes, achats, shards et nettoyage selon les chapitres précédents.
+- High and Dry peut être ajouté à cette partie, mais une copie séparée est
+  préférable si tu veux garder la route détendue.
+- Cette partie doit finir avec 40 ore, 31 shards, 24+24 fragments, 5 shrines,
+  8 trials, 12 quêtes et tous les projets.
+
+RUN B — EASY-RUSH : LIGHTLESS + SHARDLESS + LOOK AT THE TIME + IMMORTAL
+
+1. Commence une nouvelle partie en Easy. Ne charge pas une ancienne partie
+   ayant dépensé ou enregistré une mort.
+2. Ne dépense aucune Spirit Light. N'achète ni compétence, ni carte, ni shard,
+   ni projet. Le dernier achat de carte gratuit de Lupo peut être compté comme
+   une transaction sur certaines versions : ne parle pas à Lupo pendant ce run.
+3. Ne mets aucun shard dans un emplacement, même provisoirement. Laisse la roue
+   des shards vide et vérifie l'écran avant chaque boss.
+4. Suis uniquement l'histoire : Inkwater Marsh, Kwolok's Hollow, Wellspring,
+   Baur's Reach, Mouldwood Depths, Luma Pools, Windswept Wastes, Windtorn Ruins,
+   Weeping Ridge, Willow's End.
+5. Ignore les quêtes, les trials, les shrines et les objets. Les capacités
+   données par l'histoire restent utilisables ; le point interdit est la
+   dépense de Spirit Light et l'équipement de shards.
+6. Garde une copie propre de la sauvegarde avant chaque zone. En cas de mort,
+   remplace la copie de travail par la copie propre avant de relancer. Ne
+   poursuis jamais une version où le compteur de morts est visible.
+7. Vise une marge de sécurité sous 3 h 30. Le trajet de l'histoire seul passe
+   sous quatre heures, mais les essais de boss et les pauses peuvent réduire la
+   marge.
+8. Les quatre succès tombent à la fin si les règles ont été respectées :
+   Lightless, Shardless, Look at the Time et Immortal.
+
+RUN C — HARDCORE FAN
+
+- Commence une nouvelle partie en Hard et ne change jamais la difficulté.
+- Achète Spirit Smash en premier, puis Spike ; les dégâts réguliers valent
+  mieux que les détours inutiles.
+- Fais les combats sur le chemin pour l'argent et les améliorations, mais ne
+  cherche pas le 100 % tant que tu n'es pas à l'aise avec les fuites.
+- Utilise Resilience, Lifeforce, Overflow et Catalyst dès qu'ils sont obtenus
+  sur cette partie. Cette combinaison rend les boss plus réguliers.
+- Termine la campagne en Hard pour Hardcore Fan. Le 100 % peut rester sur RUN A.
+
+RUN D — HIGH AND DRY SI LA PARTIE NORMALE EST RATÉE
+
+- Easy est recommandé.
+- Ne touche jamais la corruption violette du prologue à la fuite de The
+  Wellspring. Les lasers et les dégâts de combat ne sont pas de l'eau corrompue.
+- Si Ori tombe dans l'eau, quitte avant de mourir ou de remonter sur la berge,
+  recharge la sauvegarde avant le contact et reprends la section.
+- Le succès se déclenche après la grande fuite et le retour à l'eau propre.
+
+CHECKLIST DES 12 QUÊTES SECONDAIRES
+
+- [ ] A Little Braver — Howl Fang livré à Mokk the Brave.
+- [ ] The Lost Compass — compass rendue à Tokk.
+- [ ] Family Reunion — maisons, clé, Petrified Doll et retour au Moki.
+- [ ] The Tree Keeper — branche montrée à Tuley, Tree Seed rendu à Kii.
+- [ ] Hand to Hand — les dix échanges et le Map Stone Fragment placé.
+- [ ] Kwolok's Wisdom — amulette/objet de la quête rendu à la bonne étape à
+  Luma Pools, puis validation dans le journal.
+- [ ] A Diamond in the Rough — Eerie Gem déterrée et rendue, Secret reçu.
+- [ ] Into the Burrows — curious tablet rapportée à Tokk.
+- [ ] Into the Darkness — traversée de la grotte noire avec Flash et récompense.
+- [ ] The Silent Map — Silent Woods entièrement révélée et montrée à Lupo.
+- [ ] Rebuilding the Glades — tous les projets de Grom achetés.
+- [ ] Regrowing the Glades — les six Mysterious Seeds plantées par Tuley.
+
+Si le journal annonce une quête terminée mais que Completionist ne tombe pas,
+retourne au donneur, parle une seconde fois et récupère l'objet ou le minerai.
+Les récompenses non réclamées sont une cause fréquente de 99 %.
+
+CHECKLIST FINALE — 37 SUCCÈS STEAM
+
+- [ ] Close Call — repousser Howl.
+- [ ] Did I Do That? — vaincre 10 ennemis avec des dangers environnementaux.
+- [ ] Take the Bug by the Horn — vaincre le Horn Beetle.
+- [ ] Home Sweet Home — atteindre Wellspring Glades.
+- [ ] Let the Waters Flow — nettoyer The Wellspring.
+- [ ] Juggling Act — maintenir 3 projectiles plus de 5 secondes.
+- [ ] Guardian's Rest — repousser Kwolok.
+- [ ] Dark Triumph — repousser Mora.
+- [ ] Timely Demise — vaincre Kwolok en moins de 2 minutes.
+- [ ] Icy Escape — réussir la fuite d'avalanche.
+- [ ] Quick Sand — réussir la fuite des ruines.
+- [ ] Bring it On — vaincre 5 ennemis sans toucher le sol.
+- [ ] Laser Brain — vaincre Willow Stone.
+- [ ] Stone Cold — vaincre Shriek.
+- [ ] Destiny — terminer la campagne.
+- [ ] Shrine Bright — terminer les 5 Spirit Shrines.
+- [ ] Fully Slotted — débloquer tous les emplacements de shards.
+- [ ] Tools of the Trade — débloquer les 12 capacités actives.
+- [ ] Mark of the Trader — terminer Hand to Hand.
+- [ ] Mad Skills — acheter toutes les améliorations d'Opher.
+- [ ] Cartographer's Protégé — acheter toutes les cartes de Lupo.
+- [ ] Fixer Upper — terminer tous les projets de Wellspring Glades.
+- [ ] Healthy — atteindre le maximum de vie.
+- [ ] Completionist — terminer toutes les quêtes secondaires.
+- [ ] Powerful — atteindre le maximum d'énergie.
+- [ ] Shard Hunter — débloquer les 31 Spirit Shards.
+- [ ] Damage Spike — vaincre 3 ennemis avec un seul Spike.
+- [ ] Shard Specialist — améliorer tous les shards améliorables.
+- [ ] Speed Demon — terminer les 8 Spirit Trials avec la médaille d'or.
+- [ ] Lost and Found — trouver tous les collectibles.
+- [ ] Hardcore Fan — terminer le jeu en Hard.
+- [ ] High and Dry — ne toucher aucune eau corrompue.
+- [ ] Untouchable — vaincre Mora sans prendre de dégâts.
+- [ ] Shardless — terminer le jeu sans équiper de shard.
+- [ ] Look at the Time — terminer le jeu en moins de 4 heures.
+- [ ] Lightless — terminer le jeu sans dépenser de Spirit Light.
+- [ ] Immortal — terminer le jeu sans mourir.
+
+VERIFICATION FINALE — CONTRÔLE DE CONTENU, HORS SUCCÈS STEAM
+
+- [ ] Les 12 quêtes secondaires sont fermées dans le journal.
+- [ ] Les six Mysterious Seeds sont plantées.
+- [ ] Les projets de Grom n'affichent plus de projet disponible.
+- [ ] Lupo ne propose plus de carte utile à acheter sur la sauvegarde normale.
+- [ ] Opher ne propose plus de capacité ou d'amélioration manquante.
+- [ ] Twillen ne propose plus de shard absent de la liste des 31.
+- [ ] Le menu affiche 40 Gorlek Ore.
+- [ ] Le menu affiche 24/24 Life Cell Fragments et 24/24 Energy Cell Fragments.
+- [ ] Motay affiche 20/20 Life et 20/20 Energy.
+- [ ] Les 5 Spirit Shrines donnent tous un emplacement rempli.
+- [ ] Les 8 Spirit Trials affichent toutes la médaille d'or.
+- [ ] Chaque région indique 100 %, ou l'objet manquant est noté dans la ligne de
+  retour correspondante.
+- [ ] La dernière carte de Lupo a été contrôlée même si elle est gratuite.
+- [ ] Tous les murs fragiles, sols de Spirit Smash, tas de sable et racines de
+  Launch ont été revisités.
+- [ ] Steam affiche 37/37 succès.
+
+DIAGNOSTIC D'UN 99 %
+
+1. Consulte Motay : compare Life, Energy, shards et Spirit Light avec les
+   objectifs globaux.
+2. Consulte Lupo : achète les cartes restantes et active le filtre exact.
+3. Consulte le journal : une quête avec récompense non récupérée bloque souvent
+   Completionist ou le dernier minerai.
+4. Va chez Grom : un projet final peut rester caché jusqu'à une conversation
+   avec le Moki voisin.
+5. Vérifie Hand to Hand : la carte de secrets doit avoir été placée à Windtorn
+   Ruins, pas seulement obtenue dans l'inventaire.
+6. Vérifie les tunnels de liaison : Inkwater ↔ Luma ↔ Wellspring rattache des
+   fragments à une zone différente de celle où ils sont trouvés.
+7. Vérifie Silent Woods pour The Silent Map et Family Reunion, puis Midnight
+   Burrows pour Into the Burrows.
+8. Sauvegarde, ferme complètement le jeu, relance et recontrôle les compteurs.
+   Certaines versions recalculent les cellules et les pourcentages au chargement.
+
+SOURCES DE VÉRIFICATION
+
+- Steam — liste officielle des 37 succès :
+  https://steamcommunity.com/stats/1057090/achievements
+- Xbox Wire — liste et conditions générales des succès :
+  https://news.xbox.com/en-us/2020/03/05/ori-and-the-will-of-the-wisps-achievements-revealed/
+- XboxAchievements — feuille de route et succès :
+  https://www.xboxachievements.com/game/ori-and-the-will-of-the-wisps/guide/
+- Neoseeker — walkthrough, quêtes, capacités et collectibles :
+  https://www.neoseeker.com/ori-and-the-will-of-the-wisps/walkthrough
+- GameFAQs — parcours détaillé, quêtes, shrines et trials :
+  https://gamefaqs.gamespot.com/xboxone/211254-ori-and-the-will-of-the-wisps/faqs/78217
+- TrueAchievements — route, compteurs, contraintes et speedrun :
+  https://www.trueachievements.com/game/Ori-and-the-Will-of-the-Wisps/walkthrough
+- Ori — suivi des problèmes et correctifs connus :
+  https://www.orithegame.com/known-issues-bug-status-report/
+
+FIN DE LA FICHE
