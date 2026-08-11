@@ -121,6 +121,22 @@ texte du guide est rédigé de façon originale et pratique.
 - [ ] le build du site passe avant le commit ;
 - [ ] le commit indique le ou les guides réellement contrôlés.
 
+## Seuil de profondeur Game Note
+
+Une fiche ne peut plus être considérée comme complète parce qu'elle contient
+une liste de succès et quelques paragraphes généraux. Avant `reviewed`, elle
+doit passer `scripts/audit-guide-quality.mjs` et sa relecture manuelle :
+
+- la route est découpée par zones, chapitres, missions ou actes dans l'ordre ;
+- chaque détour utile arrive avant la transition qui peut le rendre ratable ;
+- les coffres, objets, matérias, collectibles et interactions demandés par le
+  périmètre ont un repère concret, pas seulement « fouille la zone » ;
+- les succès sont liés à une action et à un moment précis, avec les DLC, le
+  coop et le nettoyage séparés ;
+- la checklist finale contient exactement le total Steam audité, sans doublon ;
+- une fiche trop courte ou trop générique reste `draft`/`research`, même si le
+  contrôle structurel historique passe.
+
 ## États autorisés
 
 - `planned` : jeu retenu, recherche non commencée ;

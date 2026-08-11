@@ -14,6 +14,8 @@
     "lint": "eslint . --ignore-pattern dist --ignore-pattern .next",
     "validate:guides": "node scripts/validate-guides.mjs",
     "validate:guides:strict": "node scripts/validate-guides.mjs --strict",
+    "audit:guides": "node scripts/audit-guide-quality.mjs",
+    "audit:guides:strict": "node scripts/audit-guide-quality.mjs --strict",
     "validate:site": "node scripts/validate-site-guardrails.mjs",
     "validate:site:strict": "node scripts/validate-site-guardrails.mjs --strict-catalog",
     "validate:pages": "node scripts/validate-pages-output.mjs",
