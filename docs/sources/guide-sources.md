@@ -208,6 +208,8 @@ conditions difficiles ; elles ne justifient jamais une copie mot a mot.
 - Audit du 12 aout 2026 : parcours de Midgar, objets du train et du reacteur
   No. 5, Turtle Paradise, Wall Market, egouts, cimetiere des trains et
   infiltration de la Shinra recoupes avec une FAQ objets et un walkthrough.
+- Mise a jour : Kalm, Chocobo Ranch, Enemy Skills precoces, Mythril Mines,
+  Fort Condor, Junon et Cargo Ship recoupes avec le walkthrough RPG Site.
 
 ## FINAL FANTASY IX
 

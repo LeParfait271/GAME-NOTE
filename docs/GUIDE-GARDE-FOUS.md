@@ -145,6 +145,17 @@ mise à jour est refusé, même si le code ou la fiche fonctionne.
 - Limite : ce lot améliore Midgar et ne constitue pas encore une relecture
   exhaustive de chaque zone des disques suivants.
 
+### Lot FFVII — sortie de Midgar jusqu'au Cargo Ship
+
+- Périmètre livré : Kalm, Chocobo Ranch, Enemy Skills précoces, Mythril Mines,
+  les trois premières batailles de Fort Condor, recrutement de Yuffie, Lower et
+  Upper Junon, puis le Cargo Ship.
+- Méthode ajoutée : chaque récompense de mini-jeu possède son barème ou son
+  numéro de bataille ; les objets volables et les matérias posées au sol sont
+  séparés des succès Steam et contrôlés dans le checkpoint de zone.
+- Limite restante : Costa del Sol jusqu'à la Northern Cave doit encore être
+  repris avec le même niveau de précision avant de considérer la fiche complète.
+
 ## Seuil de profondeur Game Note
 
 Une fiche ne peut plus être considérée comme complète parce qu'elle contient

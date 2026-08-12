@@ -45,6 +45,11 @@ statique Cloudflare Pages.
   tard en faux missable ; elle doit aussi distinguer une matéria, un objet
   consommable, un équipement et une compétence ennemie avant d'ajouter un
   repère visuel.
+- Pour les mini-jeux FFVII, conserver le déclencheur, le résultat et le barème
+  exacts. Une récompense conditionnelle, un équipement volé et une matéria
+  posée au sol doivent être vérifiés même s'ils ne sont pas liés à Steam ; le
+  guide doit dire clairement si l'objet est unique, achetable plus tard ou
+  facultatif.
 - Pour la phase actuelle, les repères visuels sont activés uniquement sur
   `final-fantasy-vii-2013`. `[COFFRE]` couvre tous les objets à récupérer
   (coffres, matérias, collectibles et récompenses) ; les marqueurs

@@ -475,162 +475,199 @@ AVANT DE SORTIR
 
 PARTIE II - KALM, JUNON ET LE CARGO
 
-13. KALM ET LE PREMIER DÉTOUR ENNEMI
+13. KALM, FLASHBACK ET PRÉPARATION
 
-Route : entre à Kalm, visite chaque maison et le magasin, puis fais le long
-flashback de Kalm. À la sortie, achète Tent, Ether et les armures disponibles.
+Route : entre dans l'auberge pour le flashback, puis termine la séquence sans
+chercher de coffre : le flashback ne contient aucun objet récupérable. Dans la
+maison de Tifa, pendant la scène jouable, examine le piano et choisis « Jammed
+on it ». Cette action prépare une récompense Elemental supplémentaire plus tard.
 
-Objets et matérias :
+Objets et maisons de Kalm :
 
-- Kalm, maison sud-est : PHS, dans la pièce du rez-de-chaussée.
-- Kalm, maison nord-ouest : coffre et objets du premier étage ; inspecte la
-  bibliothèque et le couloir avant de repartir.
-- Kalm, maison du commerçant : lis les étagères et vérifie le petit coffre
-  derrière le comptoir.
+- [COFFRE] Maison immédiatement à droite de l'auberge : Ether dans le placard,
+  puis Ether dans la maison juste à droite.
+- [COFFRE] Maison suivante vers l'est : Guard Source dans la commode et
+  Peacemaker dans la pièce du fond. Peacemaker est l'arme d'un personnage qui
+  rejoindra l'équipe ; conserve-la.
+- [COFFRE] Maison la plus à l'est : Ether dans le placard sous l'escalier.
+- Boutiques au nord : achète Earth Materia, Heal Materia, les nouvelles armes et
+  quelques Tranquilizers. Garde au moins deux Tranquilizers pour la suite.
 
-Sur la carte entre Midgar et Kalm, équipe Enemy Skill sur Cloud et apprends
-Matra Magic à Custom Sweeper. Ne quitte pas la zone sans une copie de cette
-compétence dans le menu Enemy Skill.
-
-AVANT DE SORTIR
-
-- PHS, le coffre de la maison nord-ouest et le petit coffre derrière le
-  comptoir sont contrôlés avant de reprendre la carte du monde.
-- Matra Magic est confirmée dans Enemy Skill et les achats de Kalm sont faits
-  avant la route du ranch.
-
-14. CHOCOBO RANCH ET MARAIS
-
-Route : va au Chocobo Ranch, parle au Chocobo dans l'enclos et réponds « Wark »
-pour recevoir Choco/Mog Materia. Achète Chocobo Lure et quelques légumes si tu
-veux traverser le marais sans combat.
-
-Compétences Enemy Skill :
-
-- Mu, dans les prairies autour du ranch : L4 Suicide.
-- Midgar Zolom, autour du marais : Beta, à apprendre après Manipulate ou en
-  laissant l'ennemi utiliser la compétence sur le porteur.
-- Zemzelett, zone de Junon : White Wind, à apprendre plus tard avec Manipulate.
-
-Le détour du ranch n'est pas un succès séparé, mais Choco/Mog et les Enemy
-Skills simplifient Materia Overlord. Fais une sauvegarde avant la traversée du
-marais ; tu peux contourner le Midgar Zolom sur le bord supérieur en utilisant
-un Chocobo.
+Avant de repartir, équipe Enemy Skill sur Cloud et retourne sur la carte autour
+de Midgar si Matra Magic manque encore : Custom Sweeper peut l'utiliser. Une
+seule Enemy Skill Materia suffit pour Materia Overlord, mais elle doit contenir
+toutes les compétences apprises sur cette même copie.
 
 AVANT DE SORTIR
 
-- Choco/Mog Materia, Chocobo Lure et les légumes nécessaires sont contrôlés
-  avant la traversée du marais.
-- L4 Suicide est apprise si l'occasion s'est présentée ; la sauvegarde AVANT
-  MISSABLE est faite avant la route de Junon.
+- [MANQUABLE] Le piano du flashback a reçu « Jammed on it » si tu veux la copie
+  supplémentaire d'Elemental.
+- [COFFRE] Les trois Ether, Guard Source et Peacemaker sont contrôlés dans les
+  maisons de Kalm ; Matra Magic est visible dans Enemy Skill.
+- La sauvegarde PRINCIPALE est faite avant la route du ranch.
 
-15. MYTHRIL MINES ET FORT CONDOR
+14. CHOCOBO RANCH, MARAIS ET ENEMY SKILLS
 
-Route dans les mines : depuis l'entrée, va à l'est puis au nord. Au premier
-embranchement, ignore les escaliers, grimpe les lianes à gauche et prends Long
-Range Materia sur la corniche. Reviens au carrefour, monte les escaliers et
-ouvre Ether puis Tent avant le tunnel nord.
+Route : au ranch, parle au Chocobo de l'enclos et choisis « Wark » pour Choco/
+Mog Materia. Parle à Chocobo Billy, achète Chocobo Lure pour 2 000 gils et
+prends une ou deux Mimett Greens. Fais une sauvegarde avant les compétences
+obtenues sur la carte.
 
-Coffres et objets :
+Enemy Skills à obtenir maintenant :
 
-- Entrée des mines, corniche gauche : Long Range Materia.
-- Escalier central, côté droit à mi-hauteur : Ether.
-- Sommet de l'escalier, coffre près de la sortie : Tent.
-- Salle des Turk, après la bifurcation sud : Ether et Mind Source dans les
-  recoins avant de poursuivre vers la sortie nord.
-- Couloir proche de la sortie : Magic Comb, récompense à récupérer avant de
-  quitter la mine.
+- [MANQUABLE] Mu, dans les plaines proches du ranch : L4 Suicide. La
+  compétence peut devenir ratable si le personnage atteint le niveau 99 ;
+  apprends-la avant le grind final.
+- [MANQUABLE] Chocobo accompagné d'Elfadunk, sur les traces autour du ranch :
+  donne une Mimett Green puis lance L4 Suicide sur le Chocobo ; il répond par
+  Chocobuckle. Ne tue pas le Chocobo avant l'utilisation de la compétence.
+- [MANQUABLE] Midgar Zolom, dans le marais : prépare une sauvegarde, réduis ses
+  PV sans le vaincre et laisse-le utiliser Beta sur le porteur d'Enemy Skill.
+  Graviball, Bio et une armure Elemental liée à Fire facilitent la tentative.
+  Il faut survivre à Beta et vérifier l'apprentissage avant de quitter le marais.
 
-Enemy Skill : Ark Dragon peut apprendre Flamethrower. Équipe Enemy Skill avant
-de traverser les salles de combat et vérifie la compétence après le combat.
-
-Fort Condor : parle au commandant, visite l'atelier et accepte la première
-bataille. Gagne la défense pour recevoir la récompense ; la Huge Materia
-arrivera dans une séquence séparée au disque 2, mais la route de Fort Condor
-doit être commencée maintenant.
-
-AVANT DE SORTIR
-
-- Long Range Materia, Ether, Tent, Ether, Mind Source et Magic Comb sont
-  contrôlés dans l'ordre de la traversée des mines.
-- La première défense de Fort Condor est lancée et la sauvegarde PRINCIPALE est
-  faite avant de repartir vers Lower Junon.
-
-16. LOWER JUNON
-
-Route : descends dans le village, achète les armures et va vers la plage.
-Équipe Fire sur les trois personnages avant le boss de la plage. Après la
-victoire, retourne au village, parle à Priscilla et utilise le dauphin pour
-atteindre Upper Junon.
-
-Coffres et objets :
-
-- Boutique de Junon : Mythril Armlet, Tents et Potions ; achète au moins deux
-  Mythril Armlet si tu n'as pas récupéré Four Slots.
-- Maison de Priscilla : Shiva Materia après la séquence de respiration ; elle
-  est au sol près de l'escalier, pas dans un coffre.
-- Plage : contrôle la bordure droite et le quai avant de repartir ; les objets
-  de soin posés près des rochers sont faciles à masquer par le décor.
+Attrape ensuite un Chocobo près des traces et traverse le marais en longeant le
+bord supérieur. Le combat contre Midgar Zolom n'est pas obligatoire pour la
+route : si Beta n'est pas apprise maintenant, conserve une sauvegarde avant de
+passer à la zone suivante et ne considère pas la compétence comme validée.
 
 AVANT DE SORTIR
 
-- Shiva Materia et les objets de la plage sont dans l'inventaire avant le
-  passage par le dauphin.
-- Les armures de Junon sont achetées si nécessaire et la sauvegarde BOSS est
-  conservée avant la plage.
+- [COFFRE] Choco/Mog Materia, Chocobo Lure et les Mimett Greens sont contrôlés.
+- [MANQUABLE] L4 Suicide, Chocobuckle et Beta sont cochées dans la même Enemy
+  Skill Materia, ou une sauvegarde dédiée indique précisément ce qui manque.
+- Le Chocobo a franchi le marais et la sauvegarde AVANT MISSABLE est conservée.
 
-17. UPPER JUNON ET PARADE
+15. MYTHRIL MINES, FORT CONDOR ET YUFFIE
 
-Route : récupère l'uniforme dans le vestiaire, puis suis la formation. Pour une
-bonne récompense, réussis le maximum de salutations et termine la séquence sans
-quitter le groupe.
+Mythril Mines, ordre de collecte :
 
-Objets et choix :
+- [COFFRE] Premier écran : vole Grand Glove à Madouge si tu veux l'arme de Tifa
+  dès maintenant ; elle n'est pas nécessaire à un succès.
+- [COFFRE] Écran suivant, corniche nord après les lianes : Long Range Materia.
+- [COFFRE] Même écran, marches de pierre à l'est : Ether puis Tent.
+- [COFFRE] Premier écran, partie sud : Mind Source.
+- [COFFRE] Après la scène des Turks, passe par la porte nord : Elixir puis
+  Hi-Potion avant de remonter par la liane de sortie.
+- [MANQUABLE] Ark Dragon dans les salles des mines : équipe Enemy Skill et
+  apprends Flamethrower lorsqu'il l'utilise.
 
-- Vestiaire, casier du fond : Shinra uniform.
-- Salle d'entraînement, après la parade : Enemy Skill Materia dans la pièce
-  latérale accessible avant de reprendre l'ascenseur.
-- Récompense de la parade : Force Stealer*, HP Plus Materia*, ou les Sources et
-  Silver Glasses* selon la note. Choisis Force Stealer si tu veux renforcer
-  Cloud ; l'important est de noter la récompense obtenue pour éviter de la
-  chercher à nouveau.
-- Corridors supérieurs : ouvre les coffres latéraux avant la scène du bateau.
+Fort Condor, bataille n°1 : accepte d'aider à l'entrée, parle au commandant et
+gagne la défense. Le placement le plus simple consiste à poser rapidement des
+unités au sud, puis à contrer Wyvern avec Shooter, Beast avec Attacker et le
+reste avec Fighter. La récompense est Magic Comb pour Red XIII.
 
-Après la parade, prends une sauvegarde avant l'ascenseur et vérifie la Materia
-Enemy Skill. La séquence du président n'est pas liée à un choix narratif pour
-les succès.
-
-AVANT DE SORTIR
-
-- Shinra uniform, Enemy Skill et la récompense de parade obtenue sont notés
-  avant de reprendre l'ascenseur.
-- Les coffres latéraux sont ouverts et la sauvegarde PRINCIPALE est faite avant
-  l'accès au Cargo Ship.
-
-18. CARGO SHIP
-
-Route : sur le pont, parle aux soldats qui sont les membres de ton équipe,
-donne un Tranquilizer à Yuffie si elle est présente, puis descends vers la
-salle des machines. Équipe Ice ou Lightning sur le boss du navire.
-
-Coffres et matérias, dans l'ordre :
-
-- Pont inférieur, angle sud-ouest dès le contrôle repris : Ether.
-- Couloir de la salle des machines : All Materia au sol près de la passerelle.
-- Escalier central : ouvre le coffre avant de monter ; il contient un objet de
-  soin et ne réapparaît pas après la transition.
-- Salle de la cale, après les soldats : Ifrit Materia au sol.
-- Passerelle supérieure de la cale : Wind Slash, arme de Yuffie si le coffre
-  est accessible dans ta configuration.
-
-Avant d'entrer dans le combat final du cargo, équipe Steal sur un personnage et
-Enemy Skill sur un autre. Après la victoire, ne revends pas All ni Ifrit.
+Yuffie : dans les forêts de la région de Junon, bats-la en combat aléatoire,
+puis ne touche ni au point de sauvegarde ni au menu. Parle-lui avec les réponses
+suivantes : « Not interested », « Petrified... », « Wait a second! », « That's
+right. », « Let's hurry. ». Elle rejoint alors l'équipe et apporte Throw
+Materia. Vole Boomerang sur Formula dans la même forêt et conserve l'arme.
 
 AVANT DE SORTIR
 
-- Ether, All, Ifrit et Wind Slash sont contrôlés avant le combat final du cargo.
-- Steal et Enemy Skill sont équipées, la sauvegarde BOSS est conservée et All
-  comme Ifrit restent dans l'inventaire après la victoire.
+- [COFFRE] Long Range, Ether, Tent, Mind Source, Elixir, Hi-Potion et Magic Comb
+  sont contrôlés dans l'ordre.
+- [MANQUABLE] Flamethrower est appris ; Yuffie est recrutée sans ouvrir le menu
+  devant elle et Boomerang est volé si tu veux la route d'équipement complète.
+- La sauvegarde PRINCIPALE est faite avant Lower Junon.
+
+16. LOWER JUNON, PRISCILLA ET FORT CONDOR
+
+Route : descends dans Lower Junon, achète les armures utiles, puis va à la plage.
+Pour Bottomswell, place un personnage à longue portée ou utilise la magie : le
+boss laisse Power Wrist après le combat. Soigne Priscilla avec le mini-jeu de
+respiration ; il est impossible de bloquer la progression, mais attends presque
+le maximum avant d'expirer.
+
+Objets et détour dans l'ordre :
+
+- [COFFRE] Boutique de Lower Junon : renouvelle Potions, Tents et armures selon
+  tes besoins ; aucun objet unique n'est caché dans la boutique.
+- [BOSS] Bottomswell : contrôle Power Wrist après le combat.
+- [COFFRE] Maison de Priscilla : après la scène, récupère Shiva Materia au sol
+  près de l'escalier.
+- Fort Condor, bataille n°2 : avec Cloud seul, accepte la défense et gagne pour
+  Peace Ring.
+- Après le retour à Junon, parle à Priscilla pour obtenir le sifflet de la
+  plage. Ce sifflet est une action, pas un objet d'inventaire.
+- Fort Condor, bataille n°3 : utilise le nouveau détour et gagne pour trois
+  Ethers, appelés Tinctures par le texte du jeu.
+
+Reviens à Junon, utilise le dauphin sans déplacer sa trajectoire au premier
+essai, puis saute sur la poutre pour atteindre Upper Junon.
+
+AVANT DE SORTIR
+
+- [COFFRE] Shiva et Power Wrist sont contrôlés ; les récompenses des batailles
+  n°2 et n°3 de Fort Condor sont notées.
+- Les sauvegardes FORT CONDOR et BOSS sont séparées avant le dauphin.
+
+17. UPPER JUNON, PARADE ET ENEMY SKILL N°2
+
+Route : récupère l'uniforme dans le vestiaire, termine la parade et suis les
+soldats jusqu'à la zone militaire. La parade n'est pas ratable pour l'histoire,
+mais note la récompense obtenue :
+
+- 0 à 50 points : Silver Glasses.
+- 60 à 90 points : HP Plus Materia.
+- 100 points ou plus : Force Stealer.
+
+Les trois récompenses restent achetables ou récupérables plus tard ; choisis
+Force Stealer si tu veux l'arme immédiatement. Fais une sauvegarde avant la
+séquence de salutations si tu veux conserver une branche pour chaque résultat.
+
+Objets de la ville avant de monter sur le Cargo Ship :
+
+- [COFFRE] Maison avec le soldat dissimulé par l'escalier : passe dans la pièce
+  suivante et prends la deuxième Enemy Skill Materia.
+- [COFFRE] Même bâtiment, 2e étage : Mind Source et 1/35 Soldier.
+- [COFFRE] Même bâtiment, 3e étage : Power Source et Guard Source.
+- [COFFRE] Auberge et boutique d'accessoires : achète Headband.
+- [COFFRE] Maison suivante : Speed Source au rez-de-chaussée et 1/35 Soldier
+  à l'étage.
+- Boutique d'armes : vérifie les armes manquantes ; la récompense de parade
+  Force Stealer peut être achetée plus tard si elle n'a pas été choisie.
+
+Avant l'ascenseur, équipe la deuxième Enemy Skill seulement si tu veux la
+faire progresser séparément ; la route principale continue avec la première.
+
+AVANT DE SORTIR
+
+- [COFFRE] Shinra uniform, les deux Enemy Skill Materia, Mind Source, les deux
+  1/35 Soldier, Power Source, Guard Source, Speed Source et Headband sont
+  contrôlés.
+- La récompense de parade est notée et la sauvegarde PRINCIPALE est faite avant
+  de monter sur le Cargo Ship.
+
+18. CARGO SHIP ET JENOVA*BIRTH
+
+Route : sur le pont, parle aux soldats qui correspondent à tes équipiers, puis
+forme le groupe après la scène. Équipe Steal et Enemy Skill avant de descendre
+dans la cale. Le combat final est sensible à Fire/Ice/Lightning selon ton
+équipement ; garde une sauvegarde avant le soldat en rouge.
+
+Objets et équipement, dans l'ordre :
+
+- [COFFRE] Pont : Ether dans la caisse à gauche dès que tu récupères le contrôle.
+- [MANQUABLE] Soldats marins : vole Shinra Beta au moins une fois. C'est la
+  seule récupération de cette armure dans la version 2013 ; elle n'est pas liée
+  à un succès mais compte pour la collection d'équipement.
+- [COFFRE] Cale, après la formation du groupe : récupère All Materia dans la
+  zone auparavant bloquée par Yuffie.
+- [COFFRE] Passerelle en U au-dessus de la cale : Wind Slash, arme de Yuffie.
+- [BOSS] Jenova*BIRTH : contrôle White Cape après la victoire.
+- [MANQUABLE] Après la scène suivant le combat, ramasse Ifrit Materia avant de
+  quitter le Cargo Ship. Elle ne doit pas être laissée sur le pont.
+
+Le passage à Costa del Sol est automatique. Ne revends ni All, ni Ifrit, ni
+Wind Slash, et garde Shinra Beta dans une sauvegarde de collection même si une
+armure plus forte est déjà équipée.
+
+AVANT DE SORTIR
+
+- [COFFRE] Ether, All, Wind Slash, Ifrit et White Cape sont contrôlés.
+- [MANQUABLE] Shinra Beta a été volée et Ifrit est visible dans le menu ; la
+  sauvegarde BOSS est conservée après Jenova*BIRTH.
 
 PARTIE III - COSTA DEL SOL, GOLD SAUCER ET NIBELHEIM
 

@@ -22,6 +22,10 @@ Ce fichier fixe la méthode minimale avant toute modification visible du site.
    manquables, ceux récupérables plus tard en boutique et les récompenses
    optionnelles. La fiche doit donner l'écran, le côté et l'ordre quand un
    détour peut être raté ; une simple mention « fouille la zone » est refusée.
+10. Pour les mini-jeux et événements à récompense, noter le déclencheur, le
+    barème, la récompense exacte et la possibilité de la récupérer plus tard.
+    Les équipements volables sur un ennemi et les matérias posées au sol sont
+    contrôlés comme des objets, même lorsqu'ils ne débloquent aucun succès.
 
 Toute nouvelle règle durable doit être ajoutée à GAME_NOTE_RULES.md et
 transformée en validation automatique quand c'est possible.
