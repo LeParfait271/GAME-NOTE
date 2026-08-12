@@ -1,81 +1,1107 @@
 PORTAL
-GUIDE CHRONOLOGIQUE 100 % STEAM - SANS SPOILER
+GUIDE CHRONOLOGIQUE COMPLET - 100 % STEAM - SANS SPOILER
 
-Version de travail : 10 aout 2026
+Version editoriale : 12 aout 2026
+Plateforme ciblee : Steam - AppID 400
+Perimetre : campagne complete, 26 radios, 33 cameras detachables, 6 cartes
+avancees, 18 defis a medailles et 15 succes Steam.
 
-Ce parcours couvre les 15 succes Steam de l'AppID 400. Il separe la campagne,
-les six salles avancees, les defis de temps et les radios/cameras afin d'eviter
-les rechargements inutiles. Aucun passage ne revele la fin ou un retournement.
+PROMESSE DE LA FICHE
 
-OBJECTIF
+Cette fiche est un parcours de jeu, pas un resume. Elle donne l'ordre exact
+des salles, la solution de chaque mecanique, les objets a prendre avant une
+transition, les emplacements des radios et des cameras, les sauvegardes de
+securite, les cartes avancees et les routes de medaille.
 
-[ ] 15/15 succes Steam.
-[ ] Campagne principale et actions uniques.
-[ ] Six salles avancees.
-[ ] Medailles bronze, argent et or des defis.
-[ ] Radios et cameras recuperees.
+REGLE ANTI-SPOILER
 
-GARDE-FOUS
+Les noms des salles, des mecaniques et des succes servent uniquement de
+reperes pratiques. La fiche ne decrit ni les personnages, ni les identites,
+ni les dialogues importants, ni les retournements, ni la conclusion. Les
+instructions de la salle 19 et de la sequence finale indiquent seulement les
+actions a effectuer.
 
-- Fais une sauvegarde avant les salles avancees et avant les defis. La
-  campagne normale n'empeche pas les medailles, mais les essais dedies sont
-  plus propres.
-- Les radios sont a activer des qu'elles apparaissent. Si une zone est
-  deja traversee, utilise la selection de chapitre plutot que d'improviser.
-- Les six salles avancees, les trois niveaux de medaille et les objectifs
-  Long Jump/Terminal Velocity se font apres la campagne sans spoiler.
+OBJECTIF 100 % STEAM
 
-MISSABLES A SECURISER
+- Campagne terminee dans l'ordre des salles 00 a 19 puis de l'echappee.
+- 26 transmissions confirmees par une lumiere verte sur les radios.
+- 33 cameras detachables retirees des murs dans un run propre.
+- Six cartes avancees terminees.
+- Dix-huit defis termines en or : six moins de portails, six moins de pas et
+  six moins de temps. L'or valide aussi l'argent et le bronze du meme defi.
+- 15/15 succes Steam.
 
-- Missables principaux : radios, cameras, Friendly Fire, Long Jump, Terminal
-  Velocity et les six cartes avancees. Les medailles ne sont pas missables,
-  mais une sauvegarde par defis evite de perdre les essais.
+ORDRE RECOMMANDE
 
-ORDRE CHRONOLOGIQUE
+1. Fais une premiere partie propre, du debut a la fin, en recuperant toutes
+   les radios et les cameras pendant la route ci-dessous.
+2. Termine la campagne avant de t'inquieter si les radios ne sont pas toutes
+   presentes : certaines installations de la mise a jour Steam apparaissent
+   apres une premiere fin de partie.
+3. Depuis le menu de selection, termine les six cartes avancees 13 a 18.
+4. Termine ensuite les 18 defis, de preference en or directement.
+5. Utilise la checklist finale dans l'interface Game Note pour confirmer les
+   15 succes, et non seulement les objectifs de route.
 
-1. CAMPAGNE - SALLES D'INITIATION A 10
+AVANT DE COMMENCER
 
-- Progresse dans les chambres d'essai, recupere le portail renforce pour
-  Lab Rat et observe les surfaces, boutons, cubes et tourelles.
-- Detache les cameras accessibles au passage pour Camera Shy. Active chaque
-  radio et note la chambre dans laquelle elle est trouvee pour Transmission
-  Received.
-- Dans les salles avec tourelles, cree une sauvegarde avant l'interaction et
-  obtiens Friendly Fire en utilisant une tourelle contre une autre.
+SAUVEGARDES DE SECURITE
 
-2. CAMPAGNE - SALLES INTERMEDIAIRES A 19
+- PORTAL-00-DEPART : avant de quitter la cellule de repos.
+- PORTAL-02-COLLECTIBLES : debut de la salle 02, avant les trois cameras.
+- PORTAL-05-RADIO : avant d'ouvrir la chambre de sortie avec les deux cubes.
+- PORTAL-10-CAMERA : dans la premiere piece de la salle 10, avant la porte.
+- PORTAL-11-UPGRADE : avant la salle qui contient le portail gun tournant.
+- PORTAL-11-FALL : juste avant l'essai Terminal Velocity.
+- PORTAL-15-RADIOS : avant le premier trajet de plateforme de la salle 15.
+- PORTAL-16-TURRETS : avant le premier groupe de tourelles.
+- PORTAL-17-CUBE : avant toute interaction avec le Cube de Voyage Leste.
+- PORTAL-19-RADIOS : avant de descendre vers la zone de feu.
+- PORTAL-CHALLENGE-13 a 18 : une sauvegarde separee par carte et par mode.
 
-- Continue les tests en fouillant les plateformes superieures et les salles
-  laterales. Les objectifs de chute se valident dans des chambres ouvertes :
-  utilise une sauvegarde avant l'essai de Long Jump et Terminal Velocity.
-- Termine les chambres restantes pour Heartbreaker. Ne quitte pas la campagne
-  avant d'avoir verifie le compteur de radios et de cameras.
+GARDE-FOUS QUI EVITENT LES RECHARGEMENTS INUTILES
 
-3. SALLES AVANCEES
+- Une radio ne compte pas lorsqu'elle est seulement ramassee. Il faut la
+  poser a son point de signal et attendre que son voyant passe du rouge au
+  vert. Si le voyant reste rouge, la radio n'est pas validee.
+- Une camera ne compte que si elle est sur une surface portalable. Place un
+  portail juste derriere elle pour la faire tomber. Attends la fin d'une
+  phrase de l'ordinateur avant de la detacher : une camera retiree pendant
+  un dialogue peut ne pas etre enregistree.
+- Pour Camera Shy, le parcours le plus sur est une nouvelle partie continue
+  avec les 33 cameras dans le meme run. Ne melange pas selection de chapitre,
+  anciennes sauvegardes et nouveau run pour le compteur.
+- Pour Transmission Received, le compteur porte sur les signaux confirmes,
+  pas sur les radios vues. Verifie chaque voyant vert avant la transition.
+- Les defis comptent les portails tires, les pas/jumps et le temps de la
+  carte. Utilise les sauvegardes rapides du jeu ou les sauvegardes du menu,
+  sans console de triche, avant chaque manoeuvre delicate.
+- Une grille d'emancipation detruit les cubes, les radios et les objets. Ne
+  franchis jamais une grille avec un collectible si la destination n'est pas
+  encore validee.
 
-- Ouvre la selection des six cartes avancees apres la campagne. Fais d'abord
-  les deux plus simples pour Cupcake, puis quatre pour Fruitcake, puis les six
-  pour Vanilla Crazy Cake.
-- Apprends chaque salle avec une sauvegarde d'essai. Le but est de limiter
-  les rechargements et de noter la solution de mouvement, pas de prendre des
-  risques en campagne.
+TECHNIQUES A CONNAITRE
 
-4. DEFIS ET MEDAILLES
+- Portail au sol : le portail place sous les pieds sert a lancer le joueur ou
+  un objet. Le second portail se place sur un mur, un plafond ou une surface
+  inclinee qui donne la direction de sortie.
+- Elan : tombe dans un portail au sol, puis remplace le portail d'arrivee par
+  un nouveau portail sous le point de chute. Le jeu conserve l'elan et permet
+  d'atteindre une plateforme eloignee.
+- Annulation de pas : pendant une sortie de portail, remplace le portail
+  situe sous le joueur par une autre surface. Le joueur atterrit sans faire
+  un pas supplementaire. Cette technique est indispensable pour les defis
+  moins de pas.
+- Lancer de cube : avance jusqu'au bord, tourne legerement et relache le
+  cube avec son inertie. Sauter ne donne pas plus de distance ; la position
+  du joueur et la direction du lancer sont les variables importantes.
+- Bouclier : tiens un cube ou une tourelle entre toi et un tir. Les projectiles
+  qui touchent l'objet ne blessent pas le joueur, mais un impact peut repousser
+  le cube et faire perdre du temps.
+- Regard a travers un portail : place un portail a hauteur des yeux, avance
+  juste assez pour tirer le second portail, puis recule. Sur une zone toxique,
+  ne marche jamais jusqu'au bord du premier portail.
 
-- Depuis le menu des defis, valide toutes les salles en bronze pour Basic
-  Science, puis en argent pour Rocket Science, puis en or pour Aperture
-  Science.
-- Pour chaque carte, note temps, portails et morts avant de recommencer. Les
-  medailles ne demandent pas de jouer a l'aveugle : la selection permet de
-  travailler une seule contrainte a la fois.
+MISSABLES ET OBJECTIFS A FENETRE COURTE
 
-CHECKLIST 15/15
+- Radios : 26 signaux a confirmer. Les quatre dernieres radios sont reparties
+  entre la salle 19 et l'echappee qui suit immediatement.
+- Cameras : 33 detachements dans les salles 02, 03, 04, 05, 10, 11, 13, 15,
+  16, 17, 18 et 19. Les salles 00, 01, 06, 07, 08, 09, 12 et 14 n'en ont
+  aucune qui compte.
+- Friendly Fire : realise-le dans la salle 16 avant la transition, avec une
+  sauvegarde avant la premiere tourelle.
+- Fratricide : dans la salle 17, l'objectif demande de placer le Cube de
+  Voyage Leste dans l'incinerateur. Fais-le lorsque la salle te demande de
+  liberer l'acces, puis verifie le succes avant l'ascenseur.
+- Partygoer : pendant la sequence de sortie de la salle 19, choisis le
+  chemin de mouvement qui te fait atteindre la plateforme superieure. Ne
+  suis pas la trajectoire qui te ramene vers l'incinerateur.
+- Long Jump et Terminal Velocity : fais-les dans la campagne lorsque la
+  route indiquee est ouverte, ou garde les sauvegardes PORTAL-11-FALL et
+  PORTAL-19-RADIOS pour une tentative dediee.
 
-[ ] Lab Rat, Fratricide, Partygoer et Heartbreaker.
-[ ] Friendly Fire, Long Jump et Terminal Velocity.
-[ ] Transmission Received et Camera Shy.
-[ ] Cupcake, Fruitcake et Vanilla Crazy Cake.
-[ ] Basic Science, Rocket Science et Aperture Science.
-[ ] 15/15 succes Steam.
+CAMPAGNE CHRONOLOGIQUE
+
+SALLE DE TEST 00 - PREMIERE MISE EN MAIN
+
+Objectif de route : atteindre la salle 01 avec la premiere radio validee.
+
+- Attends la fin du compte a rebours dans la cellule de repos, puis suis le
+  portail orange jusqu'a la premiere piece.
+- Ramasse le cube lesté qui tombe du conduit. Depose-le au centre du gros
+  bouton rouge au sol. Attends l'ouverture de la porte.
+- Le champ d'emancipation detruit le cube : laisse-le donc derriere toi,
+  traverse le champ et monte dans l'ascenseur.
+- Radio 01/26 : elle est sur la petite table de la cellule de repos, pres du
+  lit et des sanitaires. Ramasse-la avant de partir.
+- Point de signal : porte la radio dans la piece du bouton rouge et maintiens-
+  la directement au-dessus du bouton. Attends le voyant vert et le signal.
+- Cameras : aucune camera detachables dans cette salle.
+- Succes de progression : cette etape prepare Heartbreaker ; aucun succes
+  Steam individuel ne tombe encore.
+
+SALLE DE TEST 01 - PORTAILS ROTATIFS ET CUBE
+
+Objectif de route : utiliser les portails bleus qui changent de piece.
+
+- Avance jusqu'a la zone centrale puis descends sur la plateforme inferieure.
+- Attends que le portail bleu apparaisse dans la piece qui contient le cube.
+  Traverse-le, prends le cube et reviens par le portail orange.
+- Attends le portail bleu dans la piece du bouton rouge, traverse avec le
+  cube et depose-le sur le bouton.
+- Reviens dans la piece orange. Attends le portail bleu dans la chambre de
+  sortie, traverse et passe la grille.
+- Radio 02/26 : elle est posee sur la camera de securite a droite de
+  l'entree. Attrape-la avant de descendre dans la salle.
+- Point de signal : porte-la jusqu'a la chambre de sortie, juste avant la
+  grille d'emancipation. Attends le voyant vert sans franchir la grille.
+- Cameras : aucune camera detacheable ne compte dans cette salle.
+
+SALLE DE TEST 02 - RECUPERER LE PORTAL GUN BLEU
+
+Objectif de route : obtenir le premier portal gun et sortir par la chambre.
+
+- Dans la premiere piece, attends l'ouverture de la porte et descends les
+  escaliers. Si tu es bloque, attends le prochain cycle du dispositif rotatif.
+- Quand un portail bleu apparait sur le mur de ta zone, traverse-le pour
+  rejoindre la plateforme superieure.
+- Approche le dispositif rotatif et ramasse le portal gun : tu peux maintenant
+  placer le portail bleu toi-meme.
+- Place un portail bleu sur une surface proche, traverse-le, puis rejoins la
+  chambre de sortie. Le portal gun traverse la grille avec toi.
+- Radio 03/26 : elle se trouve sur la corniche a gauche de la fenetre, a
+  l'exterieur de la trajectoire principale. Utilise le portail bleu pour
+  l'atteindre.
+- Point de signal : rapporte-la sur la plateforme de depart, a l'endroit où
+  se trouvait le portal gun avant que tu le ramasses.
+- Camera 01/33 : au-dessus de la grande vitre de la piece principale.
+- Camera 02/33 : sur un mur pres du bas des escaliers.
+- Camera 03/33 : au-dessus de la porte devant laquelle tu as attendu a
+  l'entree. Detache les trois avec un portail derriere leur support.
+
+SALLE DE TEST 03 - PREMIERS PASSAGES DE VIDE
+
+Objectif de route : franchir les deux espaces entre les plateformes.
+
+- Place un portail bleu sur un mur accessible avant le premier vide et
+  traverse-le pour arriver de l'autre cote.
+- Pour le second vide, place le portail bleu sur le mur pres de l'ascenseur.
+  Reviens au portail orange et traverse-le pour arriver devant la sortie.
+- Camera 04/33 : a cote du panneau d'information de la salle.
+- Camera 05/33 : a cote du portail orange fixe.
+- Camera 06/33 : pres de l'ascenseur, a detacher avant d'entrer.
+- Radio 04/26 : au-dessus de la camera pres de l'ascenseur.
+- Point de signal : place un portail bleu haut dans l'angle du mur en face du
+  portail orange, puis fais passer la radio par ce passage. Le voyant vert
+  confirme la position.
+
+SALLE DE TEST 04 - CUBE DANS LE PUITS
+
+Objectif de route : faire remonter le cube et ouvrir la chambre de sortie.
+
+- Avance jusqu'au bouton rouge et repere le cube qui tombe dans le grand
+  puits.
+- Place un portail bleu sur un mur du puits, puis traverse le portail orange
+  pres du bouton. Le cube apparait sur ta plateforme.
+- Pose le cube sur le bouton rouge, traverse la chambre de sortie et monte
+  dans l'ascenseur.
+- Camera 07/33 : sur le mur pres du panneau d'information.
+- Camera 08/33 : sur le mur entre la porte de sortie et le distributeur de
+  cubes. Detache-la avant de poser le cube et de partir.
+- Radio 05/26 : elle tombe dans le puits avec le cube.
+- Point de signal : ramene-la pres de l'ascenseur, a l'endroit où tu es
+  entre dans la salle.
+
+SALLE DE TEST 05 - DEUX CUBES ET PORTE QUI SE REFERME
+
+Objectif de route : placer deux cubes sur les deux boutons sans perdre la
+radio derriere la porte.
+
+- Le premier cube est sur une plateforme. Le second est dans le puits du mur
+  oppose a la chambre de sortie.
+- Place un portail bleu sous le second cube pour le faire tomber dans le
+  portail orange, puis cree un portail bleu sur ton niveau et recupere-le.
+- Pose le cube recupere sur l'un des deux boutons.
+- Avant de franchir la chambre de sortie, valide la radio et les trois cameras.
+- Radio 06/26 : elle se trouve de l'autre cote de la porte qui s'ouvre avec
+  les deux boutons. Place un portail au sol sous elle avant de franchir la
+  chambre de sortie, puis utilise un second portail pour la recuperer.
+- Point de signal : porte-la dans le puits où se trouvait l'un des cubes.
+- Camera 09/33 : juste au-dessus de la premiere porte, a cote du panneau
+  d'information.
+- Camera 10/33 : immediatement a gauche en entrant dans la piece des boutons.
+- Camera 11/33 : dans la piece au sol de verre, apres l'activation des deux
+  boutons.
+- Termine en posant les deux cubes sur les deux boutons. La chambre de sortie
+  se ferme derriere toi : ne laisse ni radio ni camera pour plus tard.
+
+SALLE DE TEST 06 - HIGH ENERGY PELLET ET RADIO EN HAUTEUR
+
+Objectif de route : envoyer la bille d'energie dans son recepteur et monter.
+
+- Une bille d'energie rebondit entre un portail et un mur. Repere la tache
+  sombre de ses impacts.
+- Le recepteur au sol projette une lumiere orange sur le plafond. Place ton
+  portail bleu sur cette tache lumineuse.
+- La bille traverse le portail orange, entre dans le recepteur et abaisse une
+  plateforme translucide. Monte dessus pour rejoindre la sortie.
+- Radio 07/26 : elle est sur la corniche du plafond, au-dessus de la zone de
+  la bille d'energie. Termine d'abord le trajet de la bille, puis place un
+  portail incline dont le bord depasse la radio pour la saisir.
+- Point de signal : rapporte-la pres de la plateforme translucide qui s'est
+  abaissee après la validation de la bille.
+- Cameras : aucune camera detachables dans cette salle.
+
+SALLE DE TEST 07 - PREMIERE PLATEFORME MOBILE
+
+Objectif de route : aligner la bille puis utiliser la plateforme mobile.
+
+- Place un portail bleu sur le mur marque par la tache sombre de la bille.
+  Elle entre dans le recepteur et active la plateforme mobile.
+- Sous l'escalier de depart, repere la radio avant de monter.
+- Radio 08/26 : elle est sous l'escalier qui descend depuis l'ascenseur.
+  Place un portail sur le mur sous l'escalier et traverse l'autre portail.
+- Point de signal : porte-la jusqu'a la corniche de la porte de sortie.
+- Pour la route principale, place un portail bleu au plafond au-dessus de la
+  trajectoire gauche de la plateforme, puis tombe dans le portail orange quand
+  la plateforme passe dessous.
+- Reste sur la plateforme jusqu'a la sortie et entre dans l'ascenseur.
+- Cameras : aucune camera detachables dans cette salle.
+
+SALLE DE TEST 08 - LIQUIDE TOXIQUE ET PLATEFORME MOBILE
+
+Objectif de route : ne pas tomber dans le liquide et faire monter la plateforme.
+
+- Le liquide au sol tue instantanement. Utilise les rebords et les portails,
+  jamais une course directe a travers la zone.
+- Place un portail bleu sur la tache sombre de la bille, puis un autre sur la
+  tache lumineuse du recepteur. Quand la bille entre, la plateforme se met a
+  circuler.
+- Radio 09/26 : elle se trouve sous la plateforme mobile, dans la zone basse.
+  Termine d'abord la bille, place un portail sur un mur accessible, puis un
+  second pres de la radio. Avance doucement dans le portail pour la saisir.
+- Point de signal : rapporte-la vers le niveau d'entree, près du panneau de
+  la salle de test.
+- Pour la sortie, place un portail au plafond au-dessus de la plateforme,
+  observe son arret a travers le portail orange et traverse quand elle est
+  alignee dessous.
+- Cameras : aucune camera detachables dans cette salle.
+
+SALLE DE TEST 09 - CUBE ET CHAMP D'EMANCIPATION
+
+Objectif de route : faire passer le cube sans le faire traverser directement.
+
+- Le cube est separe du bouton par un champ d'emancipation. Place un portail
+  dans la premiere zone pour faire tomber le cube sur la plateforme pres du
+  portail orange.
+- Traverse le champ sans le cube, place un portail bleu dans la seconde zone,
+  puis recupere le cube et pose-le sur le bouton.
+- Radio 10/26 : elle est dans la petite fenetre au-dessus du champ. Place un
+  portail sur le plafond, tombe en direction de la radio et saisis-la avant
+  qu'elle ne touche le champ. Un cube peut aussi servir de marche.
+- Point de signal : porte-la jusqu'a la plateforme sure où se trouve le
+  portail orange, puis fais-la passer par la petite fenetre vers la piece de
+  l'autre cote du champ. Le voyant doit devenir vert.
+- Ne traverse pas le champ avec la radio en main. Si elle est detruite,
+  recharge PORTAL-09-RADIO ou la sauvegarde automatique de la salle.
+- Cameras : aucune camera detachables dans cette salle.
+
+SALLE DE TEST 10 - ELAN ET PREMIERE CAMERA ISOLEE
+
+Objectif de route : utiliser la conservation de l'elan pour franchir les vides.
+
+- Au depart, un portail orange est sur une paroi avancee. Place le portail
+  bleu au sol, tombe dedans et laisse l'elan te projeter sur les escaliers.
+- Apres la chambre de sortie, utilise le portail orange de la paroi avancee,
+  puis place le bleu au sol dans le vide portalable. Tombe dedans et laisse
+  l'elan franchir l'espace.
+- Dans la derniere zone, place le portail bleu tout en haut de la paroi mobile
+  et tombe dans le portail orange au sol. Quand la paroi se deplace, replace
+  le portail plus haut et recommence jusqu'a la plateforme de sortie.
+- Camera 12/33 : elle est sur le mur oppose au panneau d'information, dans
+  la premiere piece. Detache-la avant de sortir : la porte se referme et la
+  selection de salle ne la rend pas pratique a recuperer.
+- Radio 11/26 : elle est sur la corniche de la deuxieme partie. Utilise le
+  portail de la paroi superieure pour tomber a sa hauteur.
+- Point de signal : porte-la dans le puits, près du portail orange au sol.
+- Sauvegarde PORTAL-10-CAMERA : conserve-la jusqu'a confirmation de Camera
+  Shy si tu veux verifier le compteur avant de continuer.
+
+SALLE DE TEST 11 - PORTAL GUN COMPLET
+
+Objectif de route : recuperer la capacite de placer les deux couleurs de portail.
+
+- Le sol de la zone centrale est toxique. Observe les portails crees par le
+  portal gun fixe avant de tirer le tien.
+- Place un portail bleu sur un mur, attends qu'un portail orange apparaisse sur
+  une plateforme sure, puis traverse.
+- Appuie sur le bouton qui ouvre temporairement la porte laterale. Pendant
+  l'ouverture, place un portail bleu au-dela de la porte et traverse le
+  portail orange fourni par le dispositif rotatif.
+- Attends l'alignement de la bille avec le recepteur. Place ensuite un portail
+  sur la tache sombre de la bille. La plateforme mobile se met en marche.
+- Place un portail traversable dans ta zone, attends que la plateforme mobile
+  arrive dans l'alignement du portail du dispositif, puis monte dessus.
+- Le dispositif te donne le portal gun complet : tu obtiens Lab Rat ici.
+- Appuie sur le second bouton, place un portail au-dela de la porte ouverte,
+  un autre sur la trajectoire de la plateforme, puis rejoins la sortie.
+- Camera 13/33 : au-dessus de l'arche de l'entree, dans la piece d'observation
+  de depart. Tourne-toi avant de suivre le premier portail.
+- Radio 12/26 : elle est sur une corniche pres du dispositif rotatif. Utilise
+  un portail sur le mur a gauche de la radio, attends la rotation et avance
+  juste assez pour l'attraper.
+- Point de signal : porte-la jusqu'au dispositif rotatif qui a donne le portal
+  gun complet. Attends le voyant vert avant d'activer le second bouton.
+
+OBJECTIF SPECIAL - TERMINAL VELOCITY
+
+- Fais une sauvegarde PORTAL-11-FALL apres avoir obtenu le portal gun complet.
+- Choisis une piece où un portail peut etre pose au sol et un autre au plafond.
+  Place les deux portails parfaitement alignes.
+- Tombe dans le portail au sol. Le plafond te renvoie vers le sol, qui te
+  renvoie vers le plafond. Active le guidage des portails si tu as du mal a
+  rester centre.
+- Ne touche pas aux commandes et ne bouge pas pendant environ cinq minutes.
+  Le compteur valide Fall 30,000 feet lorsque la distance cumulee est atteinte.
+- Recharge PORTAL-11-FALL si tu veux reprendre la campagne sans attendre.
+
+SALLE DE TEST 12 - ELANS EN CASCADE ET CUBE
+
+Objectif de route : atteindre les plateformes numerotees puis envoyer le cube.
+
+- Dans le premier puits, place un portail sur la paroi inclinee qui vise la
+  corniche, puis l'autre couleur au fond du puits. Tombe dedans pour monter.
+- Depuis la premiere corniche, repere la couleur du portail au sol, pose
+  l'autre couleur sur la paroi plus haute et recommence.
+- La plateforme a un gros bouton rouge. Place un portail sur la paroi inclinee
+  et utilise le symbole a deux points pour atteindre la plateforme haute.
+- Prends le cube dans le distributeur. Descends au niveau bas sans tomber
+  directement dans le portail, puis depose le cube dans le portail au sol.
+- Traverse, recupere le cube en hauteur et pose-le sur le bouton rouge.
+- Reviens par le symbole a deux points et monte dans l'ascenseur.
+- Radio 13/26 : elle est sur le cylindre metallique derriere la paroi mobile,
+  en face de la corniche du gros bouton. Atteins le haut de la salle, longe la
+  paroi puis descends sur le cylindre.
+- Point de signal : place-la sur la corniche du gros bouton, contre le mur
+  sous les panneaux de beton en saillie.
+- Cameras : aucune camera detachables dans cette salle.
+
+SALLE DE TEST 13 - DEUX CUBES ET SYMBOLES AU PLAFOND
+
+Objectif de route : ouvrir la sortie en utilisant les deux boutons et la
+plateforme mobile.
+
+- Camera 14/33 : au-dessus de la premiere porte, a cote du panneau
+  d'information.
+- Camera 15/33 : sur le mur au-dessus d'une marque de brulure, près de la
+  porte qui donne vers la piece principale.
+- Camera 16/33 : dans la troisieme et derniere piece, près de la porte.
+- Radio 14/26 : sur une corniche de la deuxieme partie, apres le premier cube
+  pose sur son bouton.
+- Point de signal : rapporte-la vers la porte ouverte par le premier bouton,
+  puis place-la sur la corniche proche de la fenetre en hauteur.
+- Premier cube : place un portail sur la corniche, un second dans ta zone,
+  traverse avec le cube et depose-le sur le premier bouton.
+- Dans la zone basse, place un portail sur la lumiere du recepteur et un autre
+  sur la tache d'impact de la bille. La plateforme mobile se met en mouvement.
+- Place un portail au plafond au-dessus de la trajectoire de la plateforme,
+  puis traverse quand elle arrive sous ce portail. Recupere le second cube.
+- Le symbole a un point indique l'endroit où faire tomber le cube. Depose-le
+  dans le portail du plafond pour qu'il tombe sur le bouton inferieur.
+- Place l'autre portail sur le plafond au symbole a deux points, puis traverse
+  pour atteindre le bouton superieur. La chambre de sortie s'ouvre.
+- Place un portail au-dela de la porte et traverse vers l'ascenseur.
+
+SALLE DE TEST 14 - CUBE, TOXIQUE ET BILLE D'ENERGIE
+
+Objectif de route : recuperer le cube avant la disparition de l'escalier.
+
+- Radio 15/26 : sur une corniche a droite du couloir de l'ascenseur de la
+  salle precedente. Prends-la avant de recuperer le cube.
+- Point de signal : porte-la jusqu'a la plateforme situee entre les deux
+  plateformes mobiles, au-dessus de la zone toxique.
+- Monte les escaliers ; ils se retractent. Place un portail sur la paroi a
+  gauche de la fenetre face au cube, puis l'autre au fond du puits.
+- Tombe dans le portail au sol et oriente-toi vers le cube. Saisis-le puis
+  redescends avant que le chemin ne change.
+- Depose le cube sur le bouton rouge. Dans la zone toxique, utilise les
+  plateformes mobiles ou un portail directement sur le mur oppose.
+- Dans la salle de la bille, place un portail sur sa tache d'impact. Reviens
+  vers le bouton et place l'autre couleur sur la tache orange du recepteur.
+- La plateforme translucide descend. Monte dessus, puis rejoins l'ascenseur.
+- Cameras : aucune camera detachables dans cette salle.
+
+SALLE DE TEST 15 - ELAN, BILLE ET DEUX BOUTONS TEMPORISES
+
+Objectif de route : maitriser les remplacements de portails et le timing.
+
+- Camera 17/33 : sur le mur a cote du panneau d'information, en sortant de
+  l'ascenseur.
+- Camera 18/33 : sur le mur derriere la premiere grille d'emancipation.
+- Camera 19/33 : près de la plateforme mobile dans la piece de la bille et
+  des deux grilles.
+- Camera 20/33 : au-dessus des escaliers dans la piece atteinte apres le
+  premier trajet de plateforme.
+- Camera 21/33 : au-dessus de la porte où les plateformes sortent au-dessus
+  du liquide toxique.
+- Radio 16/26 : sur le cylindre metallique derriere la paroi en saillie de la
+  premiere partie. Utilise un portail au plafond pour tomber dessus.
+- Point de signal : rapporte-la vers l'ascenseur d'entree.
+- Radio 17/26 : dans l'enclos vitre de la salle de la bille, pres du recepteur.
+  Ouvre les deux boutons, puis utilise une plateforme mobile et un portail au
+  sol pour atteindre la vitre.
+- Point de signal : amene-la dans la zone de sortie de l'enclos, apres les
+  boutons, et attends la confirmation du voyant.
+- Premier elan : place un portail sur la dalle en saillie au-dessus du couloir
+  et l'autre au sol. Tombe et remplace le portail au sol pendant la chute pour
+  traverser la grille au-dessus de la separation.
+- Bille : place un portail sur la tache sombre et l'autre face au recepteur.
+  Traverse la grille, puis tire rapidement sur le plafond lumineux avant que
+  la bille ne disparaisse.
+- Deuxieme zone : utilise la salle laterale et le puits pour repeter l'elan
+  jusqu'a la zone des deux murs inclines. Oriente la bille vers le second
+  recepteur en changeant le portail qui lui fait face.
+- Plateformes toxiques : place un portail sur le mur oppose et observe le
+  mouvement ; ne saute que lorsque la plateforme s'aligne avec la sortie.
+- Boutons temporises : place un portail pres d'un bouton et l'autre pres du
+  second. Appuie sur le premier, traverse immediatement et appuie sur le
+  second. Pendant que les deux portes sont ouvertes, envoie la bille dans le
+  recepteur.
+- Monte sur la plateforme descendue et rejoins la salle 16.
+
+SALLE DE TEST 16 - TOURELLES ET FRIENDLY FIRE
+
+Objectif de route : neutraliser les tourelles en utilisant les portails, les
+ cubes et une tourelle contre une autre.
+
+- Camera 22/33 : au-dessus de la fenetre visible apres l'ascenseur.
+- Camera 23/33 : dans la piece suivante, au-dessus du rayon laser d'une
+  tourelle.
+- Camera 24/33 : au-dessus de la tourelle en haut du petit escalier.
+- Camera 25/33 : au fond de la piece du gros bouton rouge.
+- Camera 26/33 : au-dessus d'une tourelle dans la piece ouverte par le bouton.
+- Radio 18/26 : dans la piece contenant plusieurs cubes empiles, apres avoir
+  neutralise les deux tourelles cote a cote.
+- Point de signal : rapporte-la vers le passage bas et pose-la devant le mur
+  couvert d'inscriptions et de dessins.
+- Premiere tourelle : place un portail sous elle et l'autre au plafond ou sur
+  un mur distant. Eloigne-toi pendant sa rafale puis attends l'extinction.
+- Laser : place un portail derriere la prochaine tourelle, traverse sans
+  couper le rayon et fais-la tomber par un portail sous son socle.
+- Les deux cubes sont dans le renfoncement pres du passage de secours. Place
+  un cube au-dessus de la tourelle derriere la vitre et l'autre au-dessus de
+  la tourelle du couloir, en utilisant les marques en X au plafond.
+- Friendly Fire : sauvegarde, prends une tourelle neutralisee et approche-la
+  d'une tourelle encore active. Frappe la seconde avec la premiere pour faire
+  tomber les deux. Le succes se valide au choc entre les deux tourelles.
+- Piece du gros bouton : detache la tourelle tournee vers le mur en la prenant
+  par-derriere. Pour la derniere, fais tomber un cube depuis la marque au
+  plafond.
+- Pose un cube sur le bouton. Avant de franchir la porte, tire un portail au
+  travers des deux grilles et du passage, puis neutralise la tourelle qui
+  attend derriere.
+- Dans la derniere piece, place un portail derriere la tourelle qui tourne le
+  dos, prends-la et depose-la. Entre dans l'ascenseur.
+
+SALLE DE TEST 17 - CUBE DE VOYAGE LESTE
+
+Objectif de route : proteger le cube contre les billes et valider Fratricide.
+
+- Radio 19/26 : sous la troisieme plateforme mobile, dans la zone des
+  recepteurs. Utilise le cube ou les plateformes pour descendre la chercher.
+- Point de signal : porte-la devant l'incinerateur, mais ne la fais pas
+  passer dans le feu.
+- Camera 27/33 : au bout du deuxieme couloir de bille d'energie.
+- Camera 28/33 : au-dessus d'une porte pres des parois inclinees de la piece
+  principale.
+- Ramasse le Cube de Voyage Leste et emporte-le jusqu'au bout de la salle.
+  Place-le contre les corniches pour monter d'un niveau, puis recupere-le.
+- Dans le premier couloir de billes, tiens le cube devant toi pour bloquer le
+  projectile. Dans le second, recule en gardant le cube entre toi et la bille.
+- En bas, place un portail sur la paroi inclinee sans recepteur et l'autre sur
+  la tache sombre de la bille. Le recepteur fait monter une plateforme.
+- Utilise le cube comme marche pour atteindre le bouton arriere. Pose-le sur
+  ce bouton, puis place un portail vers le recepteur et appuie sur le bouton
+  proche au moment où la bille passe.
+- Dans la salle suivante, fais rebondir la bille vers son recepteur avec les
+  faces du cube, car les parois de cette zone ne prennent pas de portails.
+- Quand les plateformes sont toutes levees, prends le cube et traverse jusqu'a
+  la corniche de sortie.
+- Pour Fratricide, pose le cube sur le bouton, franchis la porte, appuie sur
+  le petit bouton et reviens immediatement chercher le cube. Depose-le dans
+  l'incinerateur, puis verifie le succes avant l'ascenseur.
+
+SALLE DE TEST 18 - QUATRE TOURELLES ET TROIS RADIOS
+
+Objectif de route : monter par les symboles, neutraliser les tourelles et
+faire passer le cube jusqu'au gros bouton.
+
+- Camera 29/33 : dans la piece remplie de tourelles, pres d'une fenetre. Les
+  bords de la fenetre prennent les portails même si la vitre semble bloquee.
+- Camera 30/33 : sur le mur oppose au puits profond de la piece ouverte avec
+  le cube.
+- Radio 20/26 : dans une petite alcove accessible en se baissant, a gauche de
+  la plateforme de depart apres le premier puits.
+- Point de signal : fais-la passer par le portail au plafond au-dessus du
+  symbole a deux points, puis pose-la sur le niveau inferieur correspondant.
+- Radio 21/26 : dans la piece des quatre tourelles, au-dessus du petit local
+  du recepteur de bille.
+- Point de signal : amene-la dans la zone du petit bouton situee au fond,
+  entre les courtes volées de marches.
+- Radio 22/26 : dans le puits profond a gauche du couloir apres la porte
+  ouverte par le cube. Ne la prends qu'apres avoir fini la zone superieure.
+- Point de signal : porte-la jusqu'a la zone centrale du champ et de
+  l'ascenseur de sortie.
+- Monte dans l'ordre des symboles a deux, trois puis quatre points. Place un
+  portail au plafond du symbole suivant et l'autre au sol ou dans le puits.
+- Depuis le symbole a quatre points, utilise l'elan pour atteindre le gros
+  bouton. Ne l'active pas avant d'avoir prepare les radios 20 et 21.
+- Appuie sur le petit bouton de la salle des tourelles. Utilise la bille
+  d'energie et les portails pour neutraliser les quatre tourelles, puis ouvre
+  le petit local du recepteur.
+- Fais circuler la bille dans le recepteur avant que la porte ne se referme.
+  La plateforme mobile commence alors son trajet.
+- Monte sur la plateforme, descends au bouton du niveau bas, ouvre le panneau
+  et utilise l'elan pour atteindre le cube en hauteur.
+- Prends le cube, traverse avec la plateforme, puis place-le sur le gros
+  bouton. La porte de sortie s'ouvre.
+- Reviens par le symbole a trois points. Dans la derniere zone, enchaine les
+  portails entre les plateformes qui montent jusqu'a l'ascenseur.
+
+SALLE DE TEST 19 ET ECHAPPEE - DERNIER RUN DE COLLECTIBLES
+
+Objectif de route : terminer le parcours sans perdre les quatre dernieres
+ radios, les trois dernieres cameras et Partygoer.
+
+- Camera 31/33 : directement a droite en entrant dans la premiere piece.
+- Camera 32/33 : au-dessus du bouton vertical a gauche pendant le trajet de
+  la plateforme mobile.
+- Camera 33/33 : au bout du couloir de la bille qui rebondit constamment.
+  Detache-la apres avoir stabilise la bille. Elle doit etre la derniere camera
+  du run Camera Shy.
+- Radio 23/26 : quand la plateforme descend vers la zone de feu, regarde en
+  bas a gauche. Attends d'etre en securite, cree un portail bas près de la
+  radio et saisis-la depuis le portail.
+- Point de signal : porte-la sur la passerelle metallique au-dessus de la
+  grande zone toxique, puis dans le bureau a l'une des extremites. Pose-la au
+  centre de la zone de bureau et attends le voyant vert.
+- Radio 24/26 : apres le message de chargement, avant la zone des cinq pistons,
+  passe sous l'escalier. Place un portail derriere la cloture, rampe dans le
+  petit conduit derriere le cylindre et recupere-la.
+- Point de signal : dans la zone des deux pistons verticaux, fais-la passer
+  par un portail sur la plateforme qui frappe les pistons horizontaux.
+- Radio 25/26 : dans le puits des trois tourelles, apres leur neutralisation,
+  cherche la piece de la tourelle qui clignote et la table voisine.
+- Point de signal : porte-la jusqu'au panneau indiquant le passage a suivre,
+  neutralise la tourelle dans le trou et depose-la dans le conduit voisin.
+- Radio 26/26 : dans le puits de liquide glissant, sur le dessus d'un drain.
+  Recupere-la apres avoir atteint la passerelle haute.
+- Point de signal : fais-la remonter par un portail jusqu'a la zone des deux
+  generateurs verts et pose-la entre eux.
+- Premier trajet : envoie la bille dans le premier recepteur avec les deux
+  murs inclines, puis monte sur la plateforme en te baissant sous le cylindre.
+- Bouton de plateforme : cree un portail pres du bouton, appuie, puis place
+  l'autre portail derriere la porte. Traverse lorsque la plateforme passe.
+- Bille haute : place les deux portails pour la faire passer au-dessus de ta
+  tete. Dans le couloir suivant, place le portail sur la paroi au-dela de
+  l'obstacle et l'autre sur la paroi de l'obstacle, puis remonte sur la
+  plateforme.
+- Descente et sortie de test : quand le chemin se transforme, utilise la
+  paroi metallique au-dessus de la zone de feu, puis tombe dans les portails
+  au sol jusqu'a atteindre la corniche superieure.
+- Echappee technique : traverse les portes metalliques, les conduits et les
+  ventilateurs avec des portails sur les parois. Sur le passage toxique,
+  utilise une longue chute dans deux portails au sol pour atteindre la
+  passerelle centrale.
+- Zone des pistons : prends le piston central qui ne monte pas jusqu'au
+  plafond, place un portail au-dela de la corniche et rejoins la zone haute.
+  Enchaine les portails sur les murs entre les pistons horizontaux et suis les
+  fleches rouges jusqu'au conduit suivant.
+- Zone des trois tourelles : laisse chaque porte s'ouvrir, place un portail
+  derriere la tourelle et un autre sous son socle, puis cache-toi pendant la
+  rafale. Recommence pour les trois.
+- Monte vers la salle des bureaux. Pour les tourelles a roquettes, utilise le
+  projectile pour casser les vitres et ouvrir le conduit du cube. Place le
+  cube sous le conduit, monte dessus et rampe dans la bouche d'aeration.
+- Dans la derniere arene, neutralise les tourelles une par une avec des
+  portails derriere elles. Utilise le liquide glissant comme zone de repli.
+- Quand la voie haute est ouverte, monte par les parois inclinees et rejoins
+  la derniere porte. La campagne est terminee lorsque l'autosauvegarde et
+  Heartbreaker sont confirmes.
+
+OBJECTIF SPECIAL - LONG JUMP
+
+- Fais une sauvegarde avant une zone ouverte de la salle 15 ou de l'echappee.
+- Place un portail orange sur une paroi inclinee ou haute et le portail bleu
+  au sol directement sous sa trajectoire.
+- Entre dans le portail au sol, puis remplace le portail au sol au moment où
+  tu reviens vers lui. Le joueur doit rester en l'air et parcourir la distance
+  horizontale sans toucher une plateforme.
+- Recommence jusqu'a la validation de Jump 300 feet. Si tu touches le sol,
+  recharge immédiatement : la distance doit etre realisee dans le même saut.
+
+CONTROLE DES COLLECTIBLES AVANT LE POST-GAME
+
+- Radios : 26/26 signaux verts, avec les radios 23 a 26 dans la salle 19 et
+  l'echappee.
+- Cameras : 33/33, cumul des salles 02, 03, 04, 05, 10, 11, 13, 15, 16,
+  17, 18 et 19.
+- Succes attendus a ce stade : Lab Rat, Fratricide, Partygoer, Heartbreaker,
+  Friendly Fire, Long Jump, Terminal Velocity, Transmission Received et
+  Camera Shy.
+- Si Camera Shy ne tombe pas sur la camera 33, recharge PORTAL-19-RADIOS et
+  verifie les cumuls par salle. Ne recommence pas les cartes avancees avant
+  d'avoir corrige le run des cameras.
+
+CARTES AVANCEES - ORDRE POST-CAMPAGNE
+
+REGLE GENERALE DES SIX CARTES
+
+- Les cartes avancees sont des versions modifiees des salles 13 a 18. Elles
+  ne remplacent pas la progression de campagne et ne contiennent pas de
+  collectible a ajouter au compteur Camera Shy.
+- Fais une sauvegarde au debut de chaque carte. Observe d'abord la geometrie,
+  puis applique la route. Une mort ou un cube detruit ne doit pas te faire
+  improviser une route differente.
+- Cupcake tombe apres deux cartes, Fruitcake apres quatre et Vanilla Crazy
+  Cake apres les six. Termine-les dans l'ordre 13, 14, 15, 16, 17, 18 pour
+  garder une progression lisible.
+
+CARTE AVANCEE 13 - UN SEUL CUBE ET SOL TOXIQUE
+
+- Le sol bas est mortel : conserve toujours un portail de secours sur une
+  paroi sure avant de manipuler le cube.
+- Commence par la zone du bouton. Place le cube sur le premier bouton et
+  utilise le portail au-dessus du piston pour atteindre la zone de la bille.
+- Fais passer la bille dans son recepteur en changeant le portail qui regarde
+  la tache d'impact. La plateforme mobile devient le seul chemin vers le cube.
+- Place un portail au plafond au-dessus de la trajectoire, monte sur la
+  plateforme et recupere le cube sans toucher le sol toxique.
+- Transporte le cube vers la zone noire au-dessus du liquide. Utilise un
+  portail au sol de depart et un portail sur la paroi inclinee pour te lancer,
+  puis reviens par le même axe.
+- Depose le cube sur le second bouton. Depuis le piston bas, place un portail
+  au-dela de la porte et traverse avec la seconde couleur.
+- Rejoins la chambre de sortie par la corniche. Si le cube tombe dans le
+  liquide, recharge la sauvegarde du debut de la carte.
+
+CARTE AVANCEE 14 - CUBE EN HAUTEUR ET BILLE SOUS CONTRAINTE
+
+- Ne suis pas l'itineraire direct de la campagne : la plateforme basse est
+  remplacee par une sequence d'elan.
+- Place un portail sur la dalle sombre proche du piston et l'autre dans le
+  puits. Tombe dedans en visant la corniche haute.
+- Depuis la corniche, fais un second elan vers la plateforme du cube. Attrape
+  le cube en sortie de portail et redescends par un portail de securite.
+- Pose le cube sur le bouton. Dans la zone toxique, ne saute pas de plateforme
+  en plateforme : place un portail sur le mur oppose et traverse quand la
+  ligne de vue est degagee.
+- Pour la bille, utilise la tache d'impact, puis fais-la rebondir vers le
+  recepteur en placant l'autre portail face au mur incliné. Ajuste la hauteur
+  avant d'ouvrir la porte.
+- Le piston monte après la validation. Place un portail pres de sa base et
+  l'autre dans la zone d'arrivee, tombe dans le premier et corrige ta direction
+  pendant la sortie.
+- Entre dans la chambre de sortie sans reprendre le cube : il n'est plus
+  necessaire après l'activation du bouton.
+
+CARTE AVANCEE 15 - GRILLES, ELANS ET PLATEFORMES
+
+- Commence par l'elan de la grande piece. Place un portail sur la dalle en
+  saillie et l'autre au sol, puis remplace le portail d'arrivee pendant la
+  chute pour franchir la separation.
+- Dans la zone de la bille, garde le portail de securite sur la paroi du
+  recepteur et n'en remplace qu'un seul a la fois.
+- Utilise la plateforme abaissee pour rejoindre la deuxieme partie. Dans le
+  puits, enchaine les chutes au sol jusqu'a traverser la grille.
+- Dans la zone des parois inclinees, dirige la bille vers le recepteur en
+  visant le mur de droite plutôt que la surface de rebond initiale.
+- Dans la salle des plateformes, place un portail au fond du couloir et un
+  autre a cote de la plateforme. Avance par petites corrections pour ne pas
+  tomber dans l'eau.
+- Active les deux boutons temporises depuis les deux salles laterales. Place
+  un portail près de chaque bouton, appuie sur le premier, traverse et appuie
+  sur le second.
+- Envoie immediatement la bille dans le recepteur entre les deux grilles. La
+  plateforme finale descend ; monte dessus et rejoins la sortie.
+
+CARTE AVANCEE 16 - TOURELLES, CUBES ET LIGNES DE TIR
+
+- La route repose sur les cubes comme boucliers, pas sur une course entre les
+  tirs. Place un cube devant toi avant chaque couloir expose.
+- Neutralise la premiere tourelle par un portail sous son socle, puis place un
+  portail au bout du couloir suivant avant de traverser.
+- Utilise les deux cubes de la salle de secours pour faire tomber les
+  tourelles des marques en X. Garde-en un en main comme protection.
+- Pour les tourelles du grand couloir, place un cube entre les rayons, avance
+  en restant accroupi et pousse chaque tourelle avec le cube.
+- Dans la salle laterale, fais passer un cube par le portail du plafond pour
+  tomber sur la tourelle pres du bouton. Ramasse ensuite les tourelles
+  neutralisees pour degager la seconde porte.
+- Pose le cube sur le bouton rouge. A travers les deux grilles, place un
+  portail au sol du couloir final et traverse immédiatement.
+- L'ascenseur se trouve derrière la derniere tourelle ; ne depense pas de
+  cube supplementaire dans la zone de sortie.
+
+CARTE AVANCEE 17 - CUBE BOUCLIER ET RECEPTEURS
+
+- Prends le cube lesté et utilise-le pour monter les deux premiers rebords.
+  Garde-le entre toi et les billes dans chaque couloir.
+- Dans la zone des recepteurs, place un portail sur la paroi inclinee libre
+  et l'autre sur la tache d'impact. Oriente le cube pour completer le rebond
+  sans perdre la protection.
+- Utilise le cube comme marche pour atteindre le bouton arriere. Pose-le sur
+  le bouton, puis active le bouton proche au passage de la bille.
+- Rejoins la zone suivante par les plateformes mobiles. Place un portail au
+  plafond au-dessus du symbole a deux points et un autre au sol pour monter.
+- Transporte le cube dans la salle finale, depose-le sur le bouton rouge et
+  appuie sur le petit bouton qui ouvre l'incinerateur.
+- Laisse le cube dans l'incinerateur pour terminer la carte. Recharge si le
+  cube tombe dans un angle hors d'atteinte avant la porte.
+
+CARTE AVANCEE 18 - CHUTE RAPIDE ET DERNIER RECEPTEUR
+
+- Place un portail au plafond au-dessus de la premiere plateforme et l'autre
+  au sol. Tombe et vise la surface blanche suivante pendant la sortie.
+- Recommence au-dessus des plateformes puis vise la paroi avancee en hauteur.
+  La precision des portails compte plus que la vitesse dans cette carte.
+- Dans la petite salle derriere le bouton, appuie sur le petit bouton puis
+  sors en te baissant. Utilise la paroi inclinee qui sort pour te lancer vers
+  le cube.
+- Attrape le cube, redescends sur la corniche inferieure et place-le sur le
+  bouton. Un portail au-dessus de la porte permet de contourner le piston.
+- Dans la zone des quatre pistons, pars du piston le plus bas et alterne les
+  portails entre chaque piston suivant. A chaque sortie, vise le piston plus
+  haut avant de remplacer le portail du puits.
+- Quand il n'y a plus de piston superieur, vise la paroi inclinee a 45 degrés
+  de la zone de depart et rejoins la plateforme de sortie.
+- Sauvegarde la validation de la carte avant de quitter l'ecran des resultats.
+
+DEFIS - 18 MEDAILLES POUR LES TROIS SUCCES SCIENCE
+
+COMMENT LIRE LES SEUILS
+
+- Moins de portails : le nombre doit etre inferieur ou egal au seuil.
+- Moins de pas : chaque marche et chaque saut compte ; une sortie de portail
+  annulee correctement ne rajoute pas de pas.
+- Moins de temps : le chronometre commence au chargement de la carte et
+  s'arrete dans la chambre de sortie.
+- Un or valide les trois niveaux du defi. Pour 100 %, vise directement les
+  18 ors et ne gaspille pas de temps a refaire bronze puis argent.
+
+TABLE DES SEUILS - MOINS DE PORTAILS
+
+- Salle 13 : bronze 9, argent 5, or 4 portails.
+- Salle 14 : bronze 6, argent 4, or 2 portails.
+- Salle 15 : bronze 23, argent 21, or 14 portails.
+- Salle 16 : bronze 9, argent 4, or 2 portails.
+- Salle 17 : bronze 4, argent 3, or 2 portails.
+- Salle 18 : bronze 30, argent 25, or 16 portails.
+
+TABLE DES SEUILS - MOINS DE PAS
+
+- Salle 13 : bronze 30, argent 20, or 10 pas.
+- Salle 14 : bronze 55, argent 20, or 10 pas.
+- Salle 15 : bronze 75, argent 65, or 55 pas.
+- Salle 16 : bronze 70, argent 55, or 40 pas.
+- Salle 17 : bronze 215, argent 175, or 150 pas.
+- Salle 18 : bronze 150, argent 120, or 85 pas.
+
+TABLE DES SEUILS - MOINS DE TEMPS
+
+- Salle 13 : bronze 0:40, argent 0:30, or 0:19.
+- Salle 14 : bronze 0:50, argent 0:20, or 0:10.
+- Salle 15 : bronze 1:45, argent 1:25, or 0:54.
+- Salle 16 : bronze 1:10, argent 1:00, or 0:52.
+- Salle 17 : bronze 2:20, argent 1:45, or 1:27.
+- Salle 18 : bronze 2:10, argent 2:00, or 1:13.
+
+ROUTE OR - MOINS DE PORTAILS
+
+DEFIT LP13 - OR A 4 PORTAILS
+
+- Attrape le cube a travers la grille depuis le bouton, puis pose-le sur le
+  premier bouton sans tirer de portail supplementaire inutile.
+- Place un portail dans l'axe du piston haut et un autre dans ta zone. Utilise
+  le cube et la position du piston pour envoyer la bille dans son recepteur.
+- Place le cube sur le bouton, recupere-le depuis la corniche et reporte-le
+  vers le bouton final avec le même axe de portail.
+- Le quatrieme portail sert a rejoindre la chambre de sortie. Sauvegarde avant
+  le lancer du cube : c'est la manoeuvre qui fait perdre le plus souvent l'or.
+
+DEFIT LP14 - OR A 2 PORTAILS
+
+- Premier portail : place-le au sol pres de la base du piston.
+- Deuxieme portail : place-le au fond du puits depuis les escaliers.
+- Saute dans le portail du puits, dirige-toi vers le piston a la sortie et
+  entre directement dans la chambre de sortie. Aucun cube ni plateforme ne
+  doit etre manipule dans cette route.
+
+DEFIT LP15 - OR A 14 PORTAILS
+
+- Utilise deux portails pour le premier elan au-dessus de la separation.
+- Place deux portails pour la bille, puis deux autres pour atteindre le
+  piston apres la plateforme descendue.
+- Dans la zone toxique, utilise le portail eloigne et le portail de ta zone ;
+  avance juste assez pour voir la prochaine surface, puis recule pour eviter
+  d'etre expulse dans le liquide.
+- Enchaine les portails de la plateforme jusqu'au second recepteur sans
+  creer de portail d'observation superflu.
+- Pour la fin, utilise les deux portails du piston haut et les portails du
+  couloir. Le compteur doit rester a 14 lorsque tu entres dans la chambre.
+
+DEFIT LP16 - OR A 2 PORTAILS
+
+- Dans le premier couloir, prends la tourelle de dos et utilise-la comme
+  bélier contre la tourelle suivante. Le premier portail doit mener derrière
+  le groupe de tourelles.
+- Utilise la tourelle en main pour neutraliser celles de l'escalier, puis
+  les cubes comme boucliers. Le second portail doit seulement franchir les
+  deux grilles finales.
+- Place le cube sur le bouton, vise au travers des deux grilles, puis entre
+  dans la chambre de sortie sans tirer une couleur de plus.
+
+DEFIT LP17 - OR A 2 PORTAILS
+
+- Attends le cube et utilise-le comme marche pour les deux premieres corniches.
+- Tiens-le devant toi pour traverser les deux couloirs de billes, puis pose-le
+  dans la zone des plateformes.
+- Les deux portails servent a atteindre la zone superieure et a revenir dans
+  la salle du bouton. Le cube doit finir sur le bouton, puis dans
+  l'incinerateur après le petit bouton.
+- Le placement des portails est strict : sauvegarde avant la descente du
+  cube et recharge si un portail est tire sur une mauvaise surface.
+
+DEFIT LP18 - OR A 16 PORTAILS
+
+- Utilise le premier elan pour franchir le puits, puis le second pour atteindre
+  la plateforme avec le bouton.
+- Appuie sur le bouton, sors du piston et remplace le portail de la dalle
+  incline à 45 degrés au moment où elle se bloque.
+- Fais passer le cube dans le portail, depose-le sur le bouton et rejoins la
+  porte par la corniche.
+- Pour la fin, utilise le portail du piston bas puis enchaine les quatre
+  pistons avec les mêmes deux couleurs. Termine entre 14 et 16 portails.
+
+ROUTE OR - MOINS DE PAS
+
+REGLE DE COMPTAGE
+
+- Saute au lieu de marcher dans les zones metalliques. Un saut de crouch en
+  plein air couvre plus de distance qu'une course courte.
+- Place le portail d'arrivee loin, saute dans le portail proche, puis remplace
+  le portail sous toi pendant la sortie. Cette annulation de pas est la route
+  principale.
+- Sauvegarde avant chaque placement. Un simple pas de trop transforme un or
+  en argent et oblige a rejouer toute la carte.
+
+DEFIT LS13 - OR A 10 PAS
+
+- Place le premier portail pres du bouton, le second pres de l'ascenseur.
+  Fais un seul pas puis saute dans le portail : tu dois etre a 2 pas.
+- Pendant la sortie, remplace le portail sous toi pour atterrir sans pas.
+- Attrape le cube a travers le portail et depose-le sur le bouton sans marcher.
+- Fais tomber le cube sur le bouton inferieur, puis utilise un pas pour
+  atteindre le piston. Annule la sortie sur le portail de la grille.
+- Fais passer la bille, annule encore la sortie vers la grille, puis entre
+  dans l'ascenseur avec 9 ou 10 pas maximum.
+
+DEFIT LS14 - OR A 10 PAS
+
+- Premier portail au pied du piston, second pres de l'ascenseur. Un pas et un
+  saut donnent 2 pas.
+- Annule la sortie en remplaçant le portail pres du piston.
+- Place le second portail au plafond avec un sol sous la trajectoire, puis
+  annule la chute et vise le piston haut.
+- Oriente-toi vers la chambre de sortie et cours uniquement sur le dernier
+  segment. Le compteur doit afficher 10 pas ou moins.
+
+DEFIT LS15 - OR A 55 PAS
+
+- Saute pendant toute la route, sauf aux endroits où une ligne de visée
+  demande de rester immobile.
+- Commence par l'elan au-dessus de la separation, puis annule la sortie sur
+  chaque remplacement de portail au sol.
+- Utilise le cube et la bille comme dans la route LP15, sans faire de detour
+  a pied dans la zone toxique.
+- Dans les couloirs, avance par trois pas maximum puis lance-toi par portail.
+  La fin au piston doit laisser entre 40 et 50 pas, donc 55 est confortable.
+
+DEFIT LS16 - OR A 40 PAS
+
+- Utilise l'annulation de pas pour traverser les couloirs et contourner les
+  rayons laser.
+- Fais tomber les tourelles avec les cubes depuis les marques en X. Ne te
+  laisse pas toucher : un tir peut repousser le joueur et ajouter des pas.
+- Transporte les cubes par portails, puis depose le dernier sur le bouton.
+- Entre dans la chambre de sortie avec 40 pas ou moins. Si le compteur depasse
+  40 dans le groupe de tourelles, recharge plutot que de tenter la fin.
+
+DEFIT LS17 - OR A 150 PAS
+
+- Saute et accroupis-toi dans les longues lignes droites : le crouch-jump
+  reduit le nombre de pas.
+- Utilise le cube comme marche pour les deux corniches, puis comme bouclier
+  dans les deux couloirs de billes.
+- Place les portails du recepteur, fais monter les plateformes et utilise le
+  cube pour les boutons. Evite les pas dans la grande salle.
+- Apres le petit bouton, pousse le cube dans l'incinerateur et entre dans la
+  chambre de sortie. La marge est faible ; une route reussie finit souvent a
+  149 ou 150 pas.
+
+DEFIT LS18 - OR A 85 PAS
+
+- Saute au bord de la premiere corniche et utilise les portails pour traverser
+  le premier puits sans marche intermediaire.
+- Enchaine les symboles a deux, trois et quatre points par annulation de
+  sortie. Utilise le cube comme bouclier pour ne pas etre repousse.
+- Apres le bouton, prends le cube sur la plateforme mobile, puis place-le sur
+  le bouton de la porte.
+- Termine par les quatre pistons et la paroi inclinee. Une route propre finit
+  entre 75 et 85 pas.
+
+ROUTE OR - MOINS DE TEMPS
+
+REGLE DE VITESSE
+
+- Lis chaque carte avant de lancer le chronometre. Pendant la tentative, saute
+  au lieu de courir et conserve les portails utiles avant le chargement.
+- Fais une sauvegarde avec un bon temps avant chaque lancer, puis recharge
+  uniquement cette sauvegarde quand la manoeuvre rate.
+- Les dialogues bloquants ne sont pas toujours evitables : prepare tes
+  portails pendant qu'ils se jouent et ne perds pas de temps a les attendre.
+
+DEFIT LT13 - OR A 0:19
+
+- Tire un portail près du cube et un autre pres de toi, attrape le cube et
+  pose-le sur le bouton.
+- Tire immédiatement un portail au-dela de la porte. Ramasse le cube, traverse
+  et lance-le sur le piston bas avec l'inertie du mouvement.
+- Tire les deux portails de la sortie avant de faire le dernier saut. Entre
+  dans la chambre de sortie avant 19 secondes.
+
+DEFIT LT14 - OR A 0:10
+
+- Saute sans t'arreter vers le piston. Tire un portail pres de sa base, puis
+  un autre sur la paroi où se trouveraient les escaliers.
+- Traverse le portail proche, remplace le portail pendant la chute pour etre
+  projete vers le piston.
+- Oriente-toi vers la chambre de sortie et saute jusqu'a l'ascenseur. La
+  route doit finir en 8 a 10 secondes.
+
+DEFIT LT15 - OR A 0:54
+
+- Saute dès la sortie de la chambre. Fais l'elan initial, puis envoie la bille
+  dans le recepteur avec deux tirs rapides.
+- Utilise la dalle au-dessus de la porte et le puits de la petite salle pour
+  traverser la grille sans attendre les plateformes.
+- Dans la zone toxique, avance en regardant a travers les portails ; recule
+  immédiatement apres chaque nouveau tir pour ne pas etre repousse dans l'eau.
+- Fais monter le piston avec le portail bas et le portail haut. Entre avant
+  54 secondes.
+
+DEFIT LT16 - OR A 0:52
+
+- Pendant le dialogue d'ouverture, prepare un portail au-dessus de la porte.
+- Passe le premier couloir en portail, attrape le cube et utilise-le contre
+  les quatre premieres tourelles sans t'arreter.
+- Dans la salle du bouton, fais tomber les deux tourelles par portail, puis
+  place le cube sur le bouton.
+- Tire a travers les deux grilles et traverse. La route valide finit autour
+  de 50 a 52 secondes ; recharge si tu rates un tir de cube.
+
+DEFIT LT17 - OR A 1:27
+
+- Saute en permanence. Utilise le cube comme marche, puis tiens-le devant toi
+  pour traverser les couloirs de billes.
+- Active le recepteur, monte les plateformes, place le cube sur le bouton et
+  appuie sur le petit bouton sans revenir a pied.
+- Depose le cube dans l'incinerateur et entre dans la chambre de sortie. La
+  marge est tres faible : vise 1:22 a 1:27.
+
+DEFIT LT18 - OR A 1:13
+
+- Premiere chute : portail au plafond au-dessus de la surface blanche,
+  portail au sol, puis tir de correction en plein air.
+- Deuxieme chute : vise la paroi inclinee haute, pousse le bouton et sors de
+  la petite salle en te baissant.
+- Rejoins le cube par le portail de la paroi, place-le sur le bouton et
+  traverse vers la zone des pistons.
+- Enchaine les quatre pistons avec deux portails alternes et vise la paroi a
+  45 degrés. Une execution normale finit vers 55 a 59 secondes, largement
+  sous le seuil de 1:13.
+
+DEPANNAGE 100 %
+
+TRANSMISSION RECEIVED NE TOMBE PAS
+
+- Verifie que la partie a deja ete terminee une fois sur la version Steam.
+- Recommence une partie propre. Dans chaque salle, le signal doit couper le
+  son normal ou changer nettement et le voyant doit passer au vert.
+- Les radios 15, 18 et 19 sont les plus faciles a perdre dans un puits, une
+  plateforme mobile ou une zone avec des tourelles. Recharge la sauvegarde
+  de la salle, pas une sauvegarde prise apres la transition.
+- Le compteur a 26/26 confirme le succes. La radio peut etre visible sans
+  etre validee : seule la position de signal compte.
+
+CAMERA SHY NE TOMBE PAS
+
+- Le compteur attendu par salle est : 02=3, 03=3, 04=2, 05=3, 10=1,
+  11=1, 13=3, 15=5, 16=5, 17=2, 18=2, 19=3.
+- Total attendu : 33 cameras. Les salles absentes de la liste n'ajoutent
+  aucune camera detachables.
+- Attends la fin des dialogues, place un portail derriere le support blanc,
+  puis verifie que la camera est tombee avant de quitter la piece.
+- Si la derniere camera ne valide pas, repars de PORTAL-00-DEPART pour un
+  run continu et ne saute aucune salle avec la selection de chapitre.
+
+MEDAILLES NON VALIDEES
+
+- Un or valide automatiquement les niveaux inferieurs du même defi. Si Steam
+  ne l'affiche pas tout de suite, termine la carte, attends l'ecran de
+  resultat et reviens au menu des defis.
+- Les seuils sont des limites : 10 pas reussit le seuil or a 10, 11 pas non.
+- Pour les defis de pas, saute et annule les sorties de portails. Pour les
+  defis de temps, recharge une sauvegarde prise avant la section ratee.
+- N'active pas de console, noclip ou sv_cheats pendant les tentatives Steam.
+
+CHECKLIST STEAM FINALE - 15/15
+
+- [ ] Lab Rat — obtenir le portal gun complet dans la salle 11.
+- [ ] Fratricide — faire ce qu'il faut pour survivre, en validant la salle 17.
+- [ ] Partygoer — choisir la bonne position pendant la sequence d'escorte.
+- [ ] Heartbreaker — terminer Portal et valider l'autosauvegarde finale.
+- [ ] Friendly Fire — faire tomber une tourelle avec une autre tourelle.
+- [ ] Cupcake — terminer 2 cartes avancees.
+- [ ] Long Jump — parcourir 300 pieds dans un saut sans toucher le sol.
+- [ ] Fruitcake — terminer 4 cartes avancees.
+- [ ] Vanilla Crazy Cake — terminer les 6 cartes avancees.
+- [ ] Terminal Velocity — tomber sur 30 000 pieds cumules.
+- [ ] Transmission Received — confirmer les 26 signaux des radios.
+- [ ] Camera Shy — detacher les 33 cameras detachables.
+- [ ] Basic Science — obtenir le bronze sur les 18 defis.
+- [ ] Rocket Science — obtenir l'argent sur les 18 defis.
+- [ ] Aperture Science — obtenir l'or sur les 18 defis.
+
+VERIFICATION FINALE
+
+- Campagne : salle 00 a salle 19 et echappee terminees.
+- Radios : 26/26 signaux verts.
+- Cameras : 33/33 dans un run continu.
+- Cartes avancees : 6/6.
+- Defis : 18/18 ors, donc bronze et argent egalement valides.
+- Succes Steam : 15/15.
+
+SOURCES DE VERIFICATION
+
+- Steam Achievements : https://steamcommunity.com/stats/Portal/achievements
+- Parcours des salles et radios : https://www.thonky.com/portal-walkthrough
+- Routes detaillees des cartes avancees et defis :
+  https://gamefaqs.gamespot.com/pc/934386-portal/faqs/52609
+- Seuils de medailles controles dans un guide Steam communautaire :
+  https://steamcommunity.com/sharedfiles/filedetails/?id=174566981
+- Repartition des cameras :
+  https://steamcommunity.com/sharedfiles/filedetails/?id=1610025175
 
 FIN DU GUIDE - SANS SPOILER
