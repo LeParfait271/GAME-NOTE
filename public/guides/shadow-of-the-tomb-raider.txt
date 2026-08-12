@@ -1,225 +1,950 @@
 SHADOW OF THE TOMB RAIDER - DEFINITIVE EDITION
-GUIDE CHRONOLOGIQUE 100 % STEAM - SANS SPOILER
+FICHE PREMIUM CHRONOLOGIQUE - 100 % STEAM - SANS SPOILER
 
-Version de travail : 10 aout 2026
+Version editoriale : 12 aout 2026
+Plateforme : Steam
+AppID : 750920
 
-Ce parcours couvre les 99 succes Steam de l'AppID 750920 : campagne,
-missions, collectibles, defis, cryptes, tombeaux principaux, difficultes,
-actions de combat et les sept tombeaux DLC de la Definitive Edition.
+PROMESSE DE LA FICHE
 
-OBJECTIF
+Cette fiche est construite pour jouer dans l'ordre, ne rien oublier et
+comprendre exactement ce qui reste a faire. Elle ne se contente pas d'un
+bloc de succes en fin de page : chaque zone possede sa route, ses compteurs,
+ses objets, ses missions, ses defis, ses tombeaux et ses retours conseilles.
+
+Les noms de lieux, de missions, de tombeaux, d'objets et de succes servent de
+reperes de navigation. Aucun retournement, aucune identite, aucune mort,
+aucune fin et aucune consequence narrative ne sont racontes.
+
+PERIMETRE COMPLET
 
 [ ] 99/99 succes Steam.
-[ ] Campagne terminee et 100 % des zones principales.
-[ ] Missions, tombeaux, cryptes, defis, cartes et collections d'artefacts.
-[ ] Actions de combat, chasse, equipement et ameliorations.
-[ ] Les quatre difficultes, avec Deadly Obsession.
-[ ] Les sept DLC : tombeaux, defis et succes associes.
-[ ] Aucun succes online obligatoire : tout est faisable en solo.
+[ ] Campagne principale terminee.
+[ ] 252 artefacts requis pour le 100 % de campagne.
+[ ] 58 reliques, 112 documents, 50 fresques et les artefacts automatiques.
+[ ] 8 artefacts de coffres conquistadors.
+[ ] 77 caches de survie.
+[ ] 12 enigmes de monolithes et leurs caches.
+[ ] 9 tombeaux de defi principaux.
+[ ] 10 cryptes principales et leurs sarcophages.
+[ ] 8 missions secondaires principales.
+[ ] 15 defis principaux obligatoires.
+[ ] 7 missions et tombeaux DLC.
+[ ] Defis Score Attack et Time Attack des 7 tombeaux DLC.
+[ ] Equipements, competences et actions de combat des succes Steam.
+[ ] Les quatre difficultes Steam, avec la strategie la plus courte.
+[ ] Croft Manor controle sans spoiler, meme si ses objets ne comptent pas.
 
-GARDE-FOUS ABSOLUS
+NOTE SUR LES COMPTEURS
 
-- Le meilleur parcours est une premiere partie en Smart and Resourceful ou
-  Rite of Passage pour les collectibles, puis une New Game+ en Deadly
-  Obsession. Les quatre succes de difficulte se cumulent avec le plus haut.
-- Fais les actions de combat des leur premiere bonne occasion. Apres la fin,
-  les ennemis reguliers sont moins nombreux et certains compteurs deviennent
-  manquables en pratique.
-- Chaque hub doit etre passe a 100 % avant de pousser la campagne. Les
-  missions et tombeaux restent nettoyables, mais les sauvegardes manuelles
-  evitent de chercher une zone de reve ou un passage ferme.
-- Les DLC sont jouables en solo. Traite leurs tombeaux apres la campagne pour
-  profiter de tout l'equipement, puis reviens aux objectifs de score.
-- Aucun nom de personnage, mort, identite, boss, fin ou retournement n'est
-  revele. Les regions et le nom des modes servent seulement a l'ordre.
+Le jeu affiche les artefacts par collections et peut montrer un total
+different selon les objets automatiques et Croft Manor. Pour le succes
+Completionist, le compteur fiable est le pourcentage de chaque zone sur la
+carte. La fiche utilise donc les compteurs de zone et le total requis de 252,
+pas un total artificiel obtenu en additionnant des objets qui se recoupent.
 
-MISSABLES ET FENETRES
+Les 7 objets de la collection Croft Manor ne sont pas requis pour Completionist
+ni pour Dr. Croft. Ils restent indiques dans la section Croft Manor pour que la
+zone soit propre et que la partie ne laisse aucun doute.
 
-- Les succes de difficulte ne sont pas manquables si la partie est terminee
-  au bon niveau. Deadly Obsession cumule Smart and Resourceful, Rite of Passage
-  et One with the Jungle.
-- Les actions ennemies et de combat sont manquables : distraction, mur de
-  boue, feu sur deux cibles, contres, friendly fire, attaques au couteau,
-  revolver et coups de tete doivent etre tentes pendant la campagne.
-- Fais Thanksgiving des qu'un pistolet a fusées et une dinde sont disponibles.
-  Garde une sauvegarde avant l'essai si le tir rate.
-- Le reve du manoir est la principale fenetre de collecte a ne pas quitter
-  sans verification. Explore et controle son pourcentage avant l'objectif
-  suivant.
-- La Completionist demande la completion principale des zones, pas de cacher
-  chaque collectible des zones DLC. Les succes DLC restent obligatoires pour
-  le 100 % Steam.
+LECTURE RAPIDE DE LA FICHE
 
-ORDRE DE PARTIE RECOMMANDE
+1. Suis la ROUTE CHRONOLOGIQUE.
+2. Dans chaque zone, active le camp, puis le registre de collectibles.
+3. Fais les missions et les defis des qu'ils deviennent disponibles.
+4. Termine les tombeaux et les cryptes avec les solutions dediees.
+5. Ne quitte une zone qu'apres controle du pourcentage sur la carte.
+6. Garde le NETTOYAGE APRES CAMPAGNE pour les retours qui exigent un outil.
+7. Termine les DLC, puis les modes Time Attack et Score Attack.
+8. Verifie le CHECKLIST STEAM FINALE, 99 cases exactement.
 
-1. Premiere partie Smart and Resourceful : campagne, actions et 100 %.
-2. Nettoyage des missions, zones et tombeaux principaux.
-3. Sept DLC de tombeaux et leurs succes.
-4. New Game+ Deadly Obsession, route principale seulement.
-5. Verification des actions rares et des notifications Steam.
+CONFIGURATION DE PARTIE RECOMMANDEE
 
-DEBUT - PREMIERES ZONES ET PREMIERS COMPTEURS
+PARCOURS CONFORTABLE EN DEUX PARTIES
 
-- Active les camps, ramasse les ressources et ouvre les premiers caches.
-  Depense un point de competence rapidement pour valider First Steps.
-- Apprends les trois axes d'equipement : exploration, combat et furtivite.
-  Achete d'abord les competences qui facilitent les fleches, la survie et les
-  interactions de traversal.
-- Dans les premiers combats, fais une elimination depuis un mur de boue,
-  trois kills sur ennemis distraits et une premiere execution furtive.
-- Ramasse or, ressources et animaux. Vise 20 petites creatures, cinq animaux
-  rares, trois fleches dans la tete au meme moment et les actions de feu.
-- Quand un marchand apparait, achete un objet puis note les achats restants.
+- Partie 1 : Rite of Passage, ou Smart and Resourceful si tu veux une
+  decouverte tres permissive. Fais la campagne, tous les objets, toutes les
+  missions, tous les combats et tous les DLC.
+- Partie 2 : New Game+ en Deadly Obsession, route principale seulement. Les
+  quatre succes de difficulte se cumulent quand la fin est atteinte au niveau
+  le plus haut.
+- Cette methode preserve les enigmes, les cartes et le nettoyage sur une
+  partie agreable, puis reserve les sauvegardes de camp a la difficulte dure.
 
-KUWAQ YAKU ET PREMIERS TOMBEAUX
+PARCOURS EN UNE PARTIE
 
-- Nettoie le hub dans cet ordre : camps, missions, defi, documents, reliques,
-  caches, monolithes, cryptes, tombeaux et coffres.
-- Termine le tombeau principal accessible, puis reviens chercher les objets
-  ouverts par le nouvel equipement. Le pourcentage se lit sur la carte.
-- Fais les actions de combat avant de vider une arene : distraction, mur de
-  boue, stealth takedown, arc a la tete et deux ennemis brules simultanement.
-- Une mission secondaire donne souvent une zone ou un outil. Termine toutes
-  les missions du hub avant de repartir.
-- Ramasse les ressources d'artisanat et fabrique les pieces d'equipement.
-  Ameliore une arme, puis le couteau des que les materiaux le permettent.
+- Choisis directement Deadly Obsession et ne change aucun reglage de
+  difficulte Combat, Exploration ou Puzzles.
+- Les succes Smart and Resourceful, Rite of Passage et One with the Jungle
+  se valident avec la fin en Deadly Obsession.
+- Ne poursuis cette option que si tu connais deja les tombeaux et acceptes de
+  perdre plus de temps sur les passages de traversal.
 
-JUNGLE ET CENOTES
+GARDE-FOUS DE SAUVEGARDE
 
-- Les passages sous-marins et verticaux demandent un retour ulterieur. Note
-  chaque icone grisee et ne confonds pas une zone non accessible avec une
-  zone oubliee.
-- Complete les tombes et cryptes du secteur, puis les defis de collecte. Les
-  monolithes et leurs caches doivent etre traites dans le meme tour.
-- En combat, provoque les ennemis : tue trois cibles distraites, fais cinq
-  eliminations par friendly fire et utilise les executions au couteau.
-- Fais une serie de dix kills sous Focus, une serie de trois tetes au pistolet
-  en trois secondes et les tirs au fusil demandes. Les groupes isoles sont
-  plus fiables que les grandes batailles.
-- Controle les collections d'artefacts. Une collection complete et 75 % des
-  elements narratifs doivent etre atteints avant le dernier tiers.
+- Utilise au moins deux emplacements de sauvegarde et alterne-les a chaque
+  grande zone. Un seul autosave ne protege pas contre un bug ou une mauvaise
+  validation.
+- Avant une mission secondaire, un tombeau DLC ou une serie de combat rare,
+  cree une sauvegarde manuelle au camp le plus proche.
+- Le reve de Croft Manor est le principal point de non-retour pratique :
+  explore et verifie son contenu avant de poursuivre l'objectif qui en sort.
+- Les zones principales restent accessibles apres la campagne via les camps.
+  Les DLC et leurs modes de score sont rejouables depuis les menus.
+- Quand un succes n'apparait pas, attends la fin de l'ecran de resultat,
+  change de zone ou de camp, puis controle Steam avant de recharger.
 
-VILLAGES, CITES ET MISSIONS DE HUB
+ALERTES MANQUABLES ET FENETRES DE SECURITE
 
-- Dans chaque ville, parle a tous les civils utiles, achete chez les marchands
-  et accepte les missions secondaires. Certaines missions ouvrent des lieux
-  qui ne sont pas visibles sur la premiere carte.
-- Pour Hearts and Minds, ne pars pas apres une seule mission : le compteur
-  demande la chaine complete de missions du hub.
-- Termine les tombeaux principaux un par un, les cryptes et les coffres
-  conquistadors. Les tombeaux DLC sont gardes pour le chapitre dedie.
-- Cherche les objets de collection avec Instinct de survie dans la premiere
-  partie. Le mode One with the Jungle limite les aides de recherche.
-- Pour Total Party Kill, provoque une ligne de tir ennemie et laisse les
-  adversaires se toucher. Recharge une sauvegarde si le compteur ne monte pas.
+- La majorite des collectibles principaux n'est pas definitivement manquable.
+  Un objet inaccessible signifie souvent qu'il faut revenir avec le couteau
+  renforce, le grappin, l'equipement de plongee ou une competence de langue.
+- Les actions de combat, de chasse et de traversal sont manquables en pratique.
+  Tente-les dans les premieres rencontres sures, avant de vider les arènes.
+- Fais First Blood sur un mur de boue, Look, Over There! sur des ennemis
+  distraits, Playing with Fire sur deux cibles et Total Party Kill pendant une
+  rencontre a plusieurs ennemis.
+- Garde des groupes pour Last Known Position, Tables Turned, Chain Gang,
+  Sixth Sense, In the Moment et Gunslinger. Recharge si une serie est ratee.
+- Thanksgiving demande un pistolet a fusees et une dinde. Fais-le dans une
+  zone ou l'animal est visible et garde une sauvegarde avant le tir.
+- Le pourcentage de la carte est le garde-fou principal : ne quitte pas une
+  zone de campagne sans avoir controle chaque compteur.
+- Le Bullseye de Croft Manor n'est pas requis pour le 100 % de campagne, mais
+  il peut etre fait pendant la zone si tu veux une partie absolument propre.
 
-PAITITI ET LE GROS NETTOYAGE
+ORDRE GLOBAL DE COMPLETION
 
-- Paititi contient beaucoup de missions, defis et collections. Fais toutes les
-  missions secondaires disponibles avant de quitter la zone, sans suivre
-  uniquement la route principale.
-- Termine les collections d'artefacts, les documents, les reliques, les
-  monolithes, les caches de survie, les cryptes et les coffres conquistadors.
-- Fais les actions locales : couteau, revolver, poison, feu, distraction,
-  esquive et chasse. Chaque compteur doit etre relu dans le menu.
-- Apprends les parcours des tombeaux. Les pieges et les plongees se maitrisent
-  mieux en difficulte basse, avant la partie Deadly Obsession.
-- Fais la mission de marchand et les missions de coeur du hub avant de pousser
-  la campagne. Controle le pourcentage en quittant chaque sous-zone.
+1. Cozumel : route d'introduction, objets accessibles, defis.
+2. Peruvian Jungle : premiere grande zone, defis, tombeaux et cryptes.
+3. Croft Manor : fouille avant la sortie du reve, objets facultatifs.
+4. Kuwaq Yaku : missions, 3 defis, tombeau, 2 cryptes, monolithes.
+5. Trial of the Eagle : route, fresques, document et cache.
+6. Hidden City : premiere visite, missions disponibles, objets accessibles.
+7. Belly of the Serpent et Head of the Serpent : route lineaire, fresque.
+8. Mountain Temple et Cenote : route, tombeau, defis sous-marins.
+9. Hidden City : retour, missions restantes, tombeaux, cryptes et defis.
+10. Porvenir Oil Fields : route, documents et collectibles.
+11. Mission of San Juan : missions, tombeaux, crypte, defis et objets.
+12. City of the Serpent : finale de campagne, puis retour en exploration.
+13. Nettoyage de carte et controle de Completionist.
+14. DLC dans l'ordre de sortie, puis les medailles.
+15. Deuxieme run Deadly Obsession si cette option a ete choisie.
 
-MISSION DE SAN JUAN ET FIN DE PREMIERE PARTIE
+TABLEAU 100 % PAR ZONE
 
-- Nettoie le dernier grand hub avant l'objectif final : missions, tombeaux,
-  cryptes, defis, documents, collections et coffres.
-- Fais le succes de dinde avec le pistolet a fusees avant de quitter la zone
-  si l'occasion se presente. Garde une sauvegarde avant ce tir.
-- Termine le jeu en premiere partie puis retourne dans les hubs. Verifie
-  Completionist, les collections et les compteurs d'armes.
-- Si un succes de combat manque, utilise les rencontres restantes, les
-  missions rejouables ou une sauvegarde avant la fin. Ne lance pas Deadly
-  Obsession avant d'avoir ferme les actions rares.
+COZUMEL
 
-CHECKLIST CAMPAGNE PRINCIPALE
+- Reliques : 2.
+- Documents : 1.
+- Fresques : 2.
+- Artefact de coffre : 1.
+- Caches de survie : 3.
+- Defi obligatoire : Whistle in the Dark.
+- Camps : 2.
+- Retour : couteau renforce pour le coffre et les barrieres tressees.
 
-[ ] Progression et fin de campagne.
-[ ] Smart and Resourceful et Rite of Passage si faits sur deux parties.
-[ ] Paititi : missions, defis, collections et tombes.
-[ ] Toutes les missions secondaires et les missions de coeur.
-[ ] Trois tombeaux principaux, puis tous les tombeaux principaux.
-[ ] Cryptes, monolithes, caches de survie et coffres conquistadors.
-[ ] Une collection d'artefacts complete et tous les elements narratifs.
-[ ] 20 animaux, cinq animaux rares, or et equipement.
-[ ] Competences, arme complete et couteau completement ameliore.
-[ ] Actions : distraction, boue, feu, friendly fire, couteau, revolver et arc.
-[ ] 100 % de chaque zone principale et Completionist.
+PERUVIAN JUNGLE
 
-SEPT DLC DE LA DEFINITIVE EDITION
+- Reliques : 9.
+- Documents : 13.
+- Fresques : 7.
+- Artefact de coffre : 1.
+- Caches de survie : 9.
+- Monolithes : 1.
+- Cryptes : 2.
+- Tombeaux : Underworld Gate et Judge's Gaze.
+- Defis obligatoires : Flower Picker et Ruffled Feathers.
 
-- Les sept tombeaux DLC sont : The Forge, The Pillar, The Nightmare, The
-  Price of Survival, The Serpent's Heart, The Grand Caiman et The Path Home.
-  Ils forment un bloc de contenu additionnel et ne changent pas l'ordre de la
-  campagne principale.
-- Pour chaque DLC, fais toujours le meme cycle : lancer le tombeau, resoudre
-  le parcours, valider le defi associe, terminer les actions de combat,
-  verifier la notification puis passer au suivant.
-- The Forge : termine le tombeau, le defi de vitesse et les actions de feu ou
-  de traversal demandees.
-- The Pillar : termine le parcours, les objectifs de vent et la collecte
-  associee. Rejoue le tombeau pour le score si necessaire.
-- The Nightmare : valide le defi de peur, les executions et les objectifs
-  lies aux ennemis. Les contraintes de score sont independantes.
-- The Price of Survival : termine le tombeau puis les objectifs d'approche
-  furtive et les documents/collections specifiques.
-- The Serpent's Heart : fais la mission DLC et ses deux objectifs d'action
-  avant de quitter le hub.
-- The Grand Caiman : termine le tombeau aquatique, les mouvements de nage et
-  les objectifs de combat du DLC.
-- The Path Home : termine le dernier tombeau, les objets et les actions de
-  fin de parcours. Controle le total des succes apres la notification.
-- Les tombeaux peuvent etre rejoues. Pour le score, regle la difficulte et
-  l'assistance selon la contrainte demandee, puis refais une tentative propre.
+KUWAQ YAKU
 
-DIFFICULTE ET NEW GAME+
+- Reliques : 4.
+- Documents : 18.
+- Fresques : 10.
+- Artefacts de coffres : 2.
+- Caches de survie : 14.
+- Monolithes : 3.
+- Cryptes : 2.
+- Tombeau : Howling Caves.
+- Defis obligatoires : Bottom Feeder, Crude Awakenings et Nam Deus.
+- Mission : Invasive Species.
 
-- Smart and Resourceful, Rite of Passage, One with the Jungle et Deadly
-  Obsession se cumulent. Une fin en Deadly Obsession donne les quatre.
-- Lance Deadly Obsession apres la premiere partie, de preference en New Game+
-  avec l'equipement deja acquis. Ce passage ne sert qu'a la route principale.
-- Active et allume les camps. Sur Deadly Obsession, les sauvegardes dependent
-  des camps et les erreurs de traversal coutent plus cher.
-- N'utilise pas cette partie pour les collectibles : les aides de recherche
-  et la peinture de traversal sont reduites. Suis les camps et la route
-  principale, puis laisse la notification de difficulte se valider.
+TRIAL OF THE EAGLE
 
-CHECKLIST DES ACTIONS RARES
+- Documents : 1.
+- Fresques : 2.
+- Caches de survie : 1.
+- Les artefacts de progression sont ajoutes automatiquement.
+- Controle la carte avant de continuer vers Paititi.
 
-[ ] Look, Over There! : trois ennemis tues apres distraction.
-[ ] First Blood : takedown depuis un mur couvert de boue.
-[ ] Playing with Fire : deux ennemis brules simultanement.
-[ ] Last Known Position : perdre l'ennemi dix fois.
-[ ] Total Party Kill : cinq kills par friendly fire.
-[ ] Chain Gang : trois Serpent's Fury.
-[ ] Marksman : 20 tirs a la tete a l'arc.
-[ ] Legendary Hunter : cinq animaux rares chasses et pilles.
-[ ] Gunslinger : trois tetes au pistolet en trois secondes.
-[ ] Thanksgiving : une dinde au pistolet a fusees.
-[ ] Makeshift Arsenal : une arme completement amelioree.
-[ ] That's a Knife! : couteau completement ameliore.
-[ ] Zoologist : 20 creatures ramassees.
-[ ] Avid Shopper : tous les objets de la cabane/marchands concernes.
-[ ] Tous les succes de missions, tombeaux et defis DLC.
+THE HIDDEN CITY - TOTAL DES RETOURS
 
-VERIFICATION FINALE - 99/99
+- Reliques : 28.
+- Documents : 42.
+- Fresques : 23.
+- Artefacts de coffres : 3.
+- Caches de survie : 34.
+- Monolithes : 7.
+- Cryptes : 5.
+- Tombeaux : Temple of the Sun, Ancient Aqueduct et Path of Battle.
+- Missions : Dice With the Dead, Hearts and Minds, Freedom, Widow's Tears,
+  Ancient Studies et Stay of Execution.
+- Defis obligatoires : Changing the Weather, Dropping Decimals, Dunkin' Bones,
+  High Diving, Keep Calm and Carrion et Speak of the Dead.
 
-[ ] Campagne et 100 % des zones principales.
-[ ] Missions, collections, cryptes, coffres et tombeaux principaux.
-[ ] Actions de combat, chasse, equipement et compteurs rares.
-[ ] Les quatre difficultes, dont Deadly Obsession.
-[ ] Sept DLC et leurs tombeaux/defis.
+CENOTE
+
+- Reliques : 5.
+- Documents : 6.
+- Caches de survie : 8.
+- Tombeau : San Cordoba.
+- Defis obligatoires : Respected et Sunken Treasure.
+- Equipement de plongee : plusieurs retours deviennent plus simples apres
+  l'obtention de la respiration longue et du materiel adequat.
+
+PORVENIR OIL FIELDS
+
+- Reliques : 1.
+- Documents : 4.
+- Fresque : 1.
+- Les objets de progression sont lies a la route et aux missions.
+
+MISSION OF SAN JUAN
+
+- Reliques : 9.
+- Documents : 27.
+- Fresques : 4.
+- Artefact de coffre : 1.
+- Caches de survie : 8.
+- Monolithe : 1.
+- Crypte : Huascar, The Syncretist.
+- Tombeaux : Tree of Life et Thirsty Gods.
+- Defi obligatoire : Raise the Flags.
+- Mission : Star Crossed.
+
+FRESQUE SUPPLEMENTAIRE DE LA ROUTE
+
+- Head of the Serpent contient 1 fresque integree a la progression. Elle est
+  incluse dans le total global de 50 mais pas dans une zone libre classique.
+
+ROUTE CHRONOLOGIQUE
+
+CHAPITRE 1 - COZUMEL : ENTREE ET PREMIERS REPÈRES
+
+Objectif de sortie : atteindre la fin de la route d'introduction avec les
+2 reliques, le document, les 2 fresques, les 3 caches et le defi actif.
+
+[ ] Active Cozumel Cliffs puis Tidal Caverns des que les camps apparaissent.
+[ ] Dans la premiere grotte, examine la premiere relique de progression.
+[ ] Dans la salle inondee, prends la cache visible a l'est avant de poursuivre.
+[ ] Examine la fresque de la salle des cranes et controle la collection.
+[ ] Tire sur les cinq sifflets du defi Whistle in the Dark :
+    1. entree de la grotte apres le premier passage bas ;
+    2. rebord au-dessus du premier bassin ;
+    3. deuxieme chambre ruinee, angle sud-est ;
+    4. grande salle du Temple of the Moon, pres des cloches ;
+    5. haut de la pyramide, sur la ligne de traversal.
+[ ] Dans le bassin, plonge pour la deuxieme relique et la deuxieme cache.
+[ ] Recupere l'Archivist Map et l'Explorer Backpack : ils ne comptent pas dans
+    le 100 %, mais ils revelent la carte et evitent les recherches aveugles.
+[ ] Sur le rebord sous la ligne de corde, creuse la troisieme cache.
+[ ] Examine la deuxieme fresque et le document Rearguard Report.
+[ ] Note le coffre conquistador sur le rebord est derriere la barriere tresse.
+    Il sera ouvert avec le couteau renforce lors du retour.
+[ ] Avant la sortie de Cozumel, verifie la carte : 2/2 reliques, 1/1 document,
+    2/2 fresques, 3/3 caches, 1/1 coffre et 1/1 defi.
+
+COZUMEL - RETOUR APRES LE COUTEAU RENFORCE
+
+[ ] Voyage a Tidal Caverns.
+[ ] Coupe la barriere tresse de la chambre secondaire.
+[ ] Ouvre le coffre conquistador du rebord est.
+[ ] Relis le tableau de zone et confirme le 100 %.
+
+CHAPITRE 2 - PERUVIAN JUNGLE : CHUTE ET PREMIER HUB
+
+Objectif de sortie : recuperer l'equipement, faire les deux defis et preparer
+les deux tombeaux et les deux cryptes.
+
+[ ] Allume Plane Wreckage Base Camp et utilise le camp pour fabriquer le
+    couteau improvisé puis les premieres ameliorations utiles.
+[ ] Recupere les 5 plantes de canopee du defi Flower Picker.
+[ ] Les plantes sont autour des arbres de la zone de recuperation de l'arc :
+    branche de depart, arbre au sud des caisses, branche apres la premiere
+    liane, arbre au nord du ruisseau et branche finale pres du tronc tombe.
+[ ] Tire sur 4 nids oropendola du defi Ruffled Feathers. Les quatre reperes
+    fiables sont pres des caisses de l'equipement, du mur grimpable, du chemin
+    nord-est et du ravin ouest.
+[ ] Ramasse la premiere cache autour du camp, puis les ressources des branches.
+[ ] Ouvre le coffre de la zone de recuperation apres avoir rejoint les caisses.
+[ ] Examine les reliques, documents et fresques en suivant le chemin du camp
+    vers les ruines, puis controle la carte avant de descendre.
+[ ] Termine le tombeau Underworld Gate : ouvre la salle de recompense et
+    interagis avec la stele. Ne quitte pas le tombeau avec la salle finale
+    non validee.
+[ ] Termine le tombeau Judge's Gaze de la meme façon, stele comprise.
+[ ] Fais la crypte Urqu, The Scout : suis les couloirs bas, desamorce les
+    pieges, ouvre le sarcophage puis sors par le chemin de retour.
+[ ] Fais la crypte Rimak, The Storyteller : controle les passages lateraux,
+    recupere le sarcophage et le vestige avant la sortie.
+[ ] Active le monolithe de la zone, augmente la langue requise si necessaire,
+    puis creuse la cache revelee par l'enigme.
+[ ] Les caches restantes se trouvent dans les ravins, sous les rebords de
+    traversal et pres des camps : utilise l'Explorer Backpack pour les faire
+    apparaitre sur la carte.
+[ ] Controle la carte : 9/9 reliques, 13/13 documents, 7/7 fresques,
+    1/1 coffre, 9/9 caches, 1/1 monolithe, 2/2 cryptes, 2/2 tombeaux,
+    2/2 defis.
+
+PERUVIAN JUNGLE - REGISTRE DES OBJETS
+
+[ ] Zone du crash et camp Plane Wreckage : caches de depart et ressources.
+[ ] Bassin de recuperation de l'arc : relique sur le petit plateau sud.
+[ ] Arbres de canopee : plantes 1 a 5 de Flower Picker.
+[ ] Ravin ouest : nid Ruffled Feathers et cache sous le passage bas.
+[ ] Chemin nord-est : nids, document et cache sur les rebords.
+[ ] Ruines sud : fresque, document et relique pres des murs escaladables.
+[ ] Underworld Gate : document de tombeau, fresque et recompense de stele.
+[ ] Judge's Gaze : documents, fresques et salle de stele.
+[ ] Crypte d'Urqu : sarcophage, vestige et cache de sortie.
+[ ] Crypte de Rimak : sarcophage, vestige et document.
+[ ] Monolithe : lire l'indice puis creuser la cache dans la zone indiquee.
+[ ] Refaire un tour complet avec Survival Instinct pour les caches restantes.
+
+CHAPITRE 3 - CROFT MANOR : CONTROLE DU REVE
+
+Cette zone est un flashback jouable. Elle n'est pas necessaire pour le
+100 % principal, mais elle comporte des objets que le jeu peut montrer dans
+les collections. Elle est la seule vraie fenetre de nettoyage a traiter avec
+prudence.
+
+[ ] Fouille les pieces accessibles avant de lancer l'objectif principal.
+[ ] Examine les objets interactifs, photos, documents et reliques de Manor.
+[ ] Fais Bullseye si tu veux une partie sans aucune ligne de defis en attente :
+    le defi demande de toucher les quatre cibles avec la balle.
+[ ] Ne quitte pas la zone en pensant pouvoir y revenir par voyage rapide.
+[ ] Controle la carte et le journal avant l'objectif qui met fin au reve.
+[ ] Les 7 objets de Croft Manor restent facultatifs pour Dr. Croft et
+    Completionist, mais la verification evite une fausse alerte plus tard.
+
+CHAPITRE 4 - KUWAQ YAKU : PREMIER NETTOYAGE COMPLET
+
+Objectif de sortie : 100 % de la zone, mission Invasive Species, tombeau,
+deux cryptes, trois monolithes et trois defis.
+
+[ ] Allume Kuwaq Yaku Ruins Base Camp puis le camp du village.
+[ ] Parle aux habitants et ouvre la boutique du marchand. Achète au moins un
+    objet pour Asking Price et note les ressources rares.
+[ ] Fais Invasive Species des que la mission apparait. Controle la validation
+    de Help thy Neighbor apres la premiere mission.
+[ ] Active Nam Deus en detruisant le premier totem de jungle.
+[ ] Detruis 5 totems suspendus : entrée du chemin de jungle, ruines proches
+    du village, rebords au nord, passage pres de l'eau et zone haute du ravin.
+[ ] Active Crude Awakenings en faisant exploser le premier baril.
+[ ] Detruis 5 barils de petrole : deux pres des ruines, un pres du camp,
+    un dans la zone de combat et un sur le trajet haut.
+[ ] Active Bottom Feeder en ramassant la premiere plante aquatique.
+[ ] Ramasse 5 plantes sous l'eau dans le bassin, le passage de ruines, la
+    grotte de plongee et les deux alcoves laterales.
+[ ] Termine Howling Caves : suis les cavites, manipule les sources de vent,
+    atteins la stele et ouvre la salle de recompense.
+[ ] Termine la crypte Wayta, The Tyrant : trouve l'entree sous la vegetation,
+    franchis le piege, ouvre le sarcophage et prends le vestige.
+[ ] Termine la deuxieme crypte de Kuwaq Yaku : l'entree est dans une zone
+    laterale accessible depuis les eaux, sarcophage au bout du parcours.
+[ ] Lis les 3 monolithes. Pour chacun, augmente la langue puis suis l'indice
+    jusqu'a la cache de survie.
+[ ] Ramasse les documents et fresques dans les maisons, ruines, bassins et
+    tunnels avant de progresser vers la zone suivante.
+[ ] Controle 4/4 reliques, 18/18 documents, 10/10 fresques, 2/2 coffres,
+    14/14 caches, 3/3 monolithes, 2/2 cryptes, 1/1 tombeau, 3/3 defis et
+    1/1 mission.
+
+KUWAQ YAKU - REGISTRE DES OBJETS
+
+[ ] Village : marchand, document de maison, relique de comptoir et cache.
+[ ] Ruines de Kuwaq : fresques autour des murs, documents pres des escaliers.
+[ ] Bassin d'eau : plantes Bottom Feeder et cache immergee.
+[ ] Grotte au sud : relique, document, cache et entree de crypte.
+[ ] Zone de chasse : totems Nam Deus, barils Crude Awakenings et cache.
+[ ] Sentier nord : monolithe 1 et cache de monolithe.
+[ ] Ruines hautes : monolithe 2, coffre et document.
+[ ] Grotte est : monolithe 3, coffre, cache et document.
+[ ] Howling Caves : fresques et documents du tombeau, stele finale.
+[ ] Crypte Wayta : sarcophage et recompense de vestige.
+[ ] Deuxieme crypte : sarcophage, vestige et sortie par l'eau.
+[ ] Mission Invasive Species : objets lies a la mission, a valider dans le
+    journal avant de quitter Kuwaq Yaku.
+
+CHAPITRE 5 - TRIAL OF THE EAGLE
+
+[ ] Active le camp puis suis la route de traversal sans abandonner les rebords.
+[ ] Examine les 2 fresques et le document de la zone.
+[ ] Creuse la cache de survie revelee par le passage et controle le compteur.
+[ ] Les artefacts automatiques de l'epreuve sont ajoutes a la progression.
+[ ] Ne cherche pas de tombeau secondaire dans cette zone : la route principale
+    est le contenu a valider ici.
+[ ] Avant la sortie : 1/1 document, 2/2 fresques et 1/1 cache.
+
+CHAPITRE 6 - THE HIDDEN CITY : PREMIERE VISITE
+
+Objectif de sortie : avancer dans la ville, ouvrir les missions disponibles,
+prendre les objets accessibles et noter les retours bloques par l'equipement.
+
+[ ] Active les camps du quartier bas et parle aux civils.
+[ ] Apprends 5 points d'interet en parlant aux habitants. Cela valide
+    Point of Interest si tu suis tous les quartiers.
+[ ] Achète chez les marchands et garde de l'or pour les pieces d'equipement.
+[ ] Fais Dice With the Dead des qu'elle apparait. Termine Hearts and Minds
+    dans son integralite : elle se compose de plusieurs parties.
+[ ] Accepte Freedom, Widow's Tears, Ancient Studies et Stay of Execution
+    des que leurs marqueurs apparaissent.
+[ ] Ramasse les reliques, documents et fresques des maisons, ponts, marches,
+    champs et falaises. Les objets hors de portee sont notes dans le registre.
+[ ] Lis les monolithes puis creuse les caches associees. Ne confonds pas une
+    cache deja visible avec celle revelee par un monolithe.
+[ ] Termine Temple of the Sun : oriente les miroirs, ouvre le passage central,
+    active la stele et recupere la recompense.
+[ ] Fais la crypte Chuki, The Weaver : pieges, sarcophage et sortie basse.
+[ ] Fais la crypte Manko lorsque la mission Hearts and Minds ouvre le passage.
+[ ] Commence les defis Changing the Weather et Dropping Decimals.
+[ ] Le defi Changing the Weather demande 5 totems grenouilles a tirer avec
+    des fleches de corde, autour des maisons de Paititi.
+[ ] Le defi Dropping Decimals demande 3 objets suspendus dans les zones hautes.
+[ ] Controle la carte avant la route de l'histoire : les 34 caches de la ville
+    sont reparties sur les retours, pas sur une seule ligne droite.
+
+THE HIDDEN CITY - PREMIER REGISTRE
+
+[ ] Quartier du marche : documents, marchand, reliques et points d'interet.
+[ ] Quartier des maisons : fresques et totems Changing the Weather.
+[ ] Rives et canaux : caches sous les ponts, documents et plongees.
+[ ] Falaises ouest : monolithe et cache de monolithe.
+[ ] Temple District : entree de Temple of the Sun, document et fresque.
+[ ] Prison et chemins de rebellion : objets de traversal et defis.
+[ ] Champs et haute ville accessible : reliques, caches et monolithes.
+[ ] Crypte de Chuki : sarcophage et vestige.
+[ ] Crypte de Manko : sarcophage, vestige et mission.
+[ ] Hearts and Minds : chaque partie validee dans le journal.
+[ ] Dice With the Dead, Freedom, Widow's Tears, Ancient Studies et Stay of
+    Execution : chaque mission marquee terminee.
+
+CHAPITRE 7 - BELLY OF THE SERPENT ET HEAD OF THE SERPENT
+
+[ ] Suis la route principale et active chaque camp de passage.
+[ ] Dans Belly of the Serpent, controle les documents et les points de
+    traversal avant la porte suivante.
+[ ] Dans Head of the Serpent, examine la fresque integree a la progression.
+[ ] Les objets automatiques de progression comptent dans les collections :
+    ne les cherche pas sur la carte avant d'avoir termine l'objectif.
+[ ] Avant de pousser vers le Temple, verifie que les missions disponibles de
+    Paititi sont notees ou terminees.
+
+CHAPITRE 8 - MOUNTAIN TEMPLE ET CENOTE
+
+[ ] Allume Mountain Temple Base Camp et suis la route jusqu'a Cenote.
+[ ] Dans Cenote, prends Journal of T. Serrano et les documents des salles
+    avant de plonger dans le grand bassin.
+[ ] Active Sunken Treasure en ouvrant le premier coffre sous l'eau.
+[ ] Ouvre les 5 coffres sous-marins : a gauche de l'entree du temple, coin
+    droit proche, coin droit lointain sur la roche, fosse de squelettes et
+    bassin gauche eloigne.
+[ ] Active Respected en tirant 5 effigies de corde dans la zone du cenote.
+[ ] Termine San Cordoba : utilise les bateaux, les roues et les attaches de
+    corde, ouvre la stele et controle le tombeau.
+[ ] Ramasse les 5 reliques, 6 documents et 8 caches de Cenote. Certaines
+    caches sont dans les bassins lateraux ou derriere les passages sous-marins.
+[ ] Controle The Underworld apres la sortie de la zone.
+
+CENOTE - REGISTRE DES OBJETS
+
+[ ] Cenote Vista : camp, document et cache proche.
+[ ] Grand bassin : 5 coffres de Sunken Treasure et plantes aquatiques.
+[ ] Rive gauche : reliques et documents sur les plateformes.
+[ ] Rive droite : cache derriere le passage de plongee.
+[ ] Effigies : 5 cibles de Respected, reperees par la corde de traction.
+[ ] San Cordoba : documents, reliques, caches du tombeau et stele.
+[ ] Couloirs sous-marins : caches a l'aller et au retour, ne pas remonter
+    avant d'avoir utilise Survival Instinct dans chaque alcove.
+
+CHAPITRE 9 - THE HIDDEN CITY : RETOUR ET HAUTE VILLE
+
+[ ] Reviens a la ville par voyage rapide apres l'obtention des outils requis.
+[ ] Termine Ancient Aqueduct : gere le niveau d'eau, les roues et les
+    plateformes, puis interagis avec la stele.
+[ ] Termine les cryptes Uturunku, The Ferryman et Qispi, The Merchant.
+[ ] Termine la crypte Ollanta, The Potter lors du retour tardif.
+[ ] Termine Path of Battle sur le trajet de retour : active la stele et
+    recupere sa recompense.
+[ ] Fais les defis restants :
+    - High Diving : 4 plongeons depuis les plateformes de plongee ;
+    - Keep Calm and Carrion : 3 cibles suspendues a detruire ;
+    - Speak of the Dead : 3 squelettes a faire tomber ;
+    - Dunkin' Bones : 3 squelettes a faire tomber dans les passages de
+      traversal ;
+    - Changing the Weather : 5 totems grenouilles ;
+    - Dropping Decimals : 3 objets suspendus.
+[ ] Les 7 monolithes de la ville se repartissent entre la premiere visite et
+    les retours. Lis chaque indice au niveau de langue demande.
+[ ] Ouvre les 3 coffres conquistadors de la Hidden City.
+[ ] Controle les 28 reliques, 42 documents, 23 fresques, 34 caches, 7
+    monolithes, 5 cryptes, 3 tombeaux, 6 defis et 6 missions.
+
+HIDDEN CITY - ORDRE DE NETTOYAGE PAR SOUS-ZONE
+
+1. Marche et quartiers bas : habitants, marchand, missions et objets visibles.
+2. Temple District : Temple of the Sun, monolithe et coffre.
+3. Canaux : plongees, caches, coffres et effigies.
+4. Prison et chemins de rebellion : documents, defis de squelettes et caches.
+5. Haute ville : Ancient Aqueduct et collectibles de traversal.
+6. Falaises et champs : monolithes, caches revelees et points d'interet.
+7. Cryptes : Chuki, Manko, Uturunku, Qispi et Ollanta.
+8. Retour final : Path of Battle, defis restants, coffres et pourcentage.
+
+CHAPITRE 10 - PORVENIR OIL FIELDS
+
+[ ] Active le camp de Riverbed puis celui des Oil Fields.
+[ ] Ramasse le document de la route basse et les documents des installations.
+[ ] Examine la relique de la zone et la fresque de progression.
+[ ] Les combats offrent une bonne fenetre pour les actions de distraction,
+    mur de boue, feu et friendly fire. Fais une sauvegarde avant l'arene.
+[ ] Controle 1/1 relique, 4/4 documents et 1/1 fresque.
+
+CHAPITRE 11 - MISSION OF SAN JUAN
+
+Objectif de sortie : terminer le dernier grand hub avec ses 9 reliques,
+27 documents, 4 fresques, 1 coffre, 8 caches, 1 monolithe, 1 crypte,
+2 tombeaux, 1 defi et la mission Star Crossed.
+
+[ ] Active Mission Gate Base Camp et les camps du village.
+[ ] Parle aux civils et accepte Star Crossed des qu'elle apparait.
+[ ] Fais Raise the Flags : tire sur les drapeaux de la mission et controle
+    les cinq points de la zone de parcours.
+[ ] Termine Tree of Life et Thirsty Gods. Pour chaque tombeau, interagis avec
+    la stele puis ouvre la salle de recompense.
+[ ] Termine la crypte Huascar, The Syncretist et prends le sarcophage.
+[ ] Lis le monolithe de San Juan, augmente la langue si necessaire puis creuse
+    la cache associee.
+[ ] Ouvre le coffre conquistador de la zone apres avoir le bon outil.
+[ ] Ramasse les caches dans les jardins, le village, les falaises et les
+    passages sous-marins. La carte permet de les isoler par sous-zone.
+[ ] Fais Thanksgiving ici si tu n'as pas encore tire sur une dinde avec une
+    Flare Round. Sauvegarde avant le tir.
+[ ] Termine les achats, competences et ameliorations qui manquent.
+[ ] Controle 9/9 reliques, 27/27 documents, 4/4 fresques, 1/1 coffre,
+    8/8 caches, 1/1 monolithe, 1/1 crypte, 2/2 tombeaux, 1/1 defi et
+    1/1 mission.
+
+MISSION OF SAN JUAN - REGISTRE DES OBJETS
+
+[ ] Village : documents, marchand, objets de mission et reliques.
+[ ] Jardins : fresques, caches et drapeaux Raise the Flags.
+[ ] Falaises : documents et cache de traversal.
+[ ] Eaux et grottes : reliques sous-marines, documents et caches.
+[ ] Tree of Life : documents, fresques, cache et stele.
+[ ] Thirsty Gods : documents, fresques, cache et stele.
+[ ] Crypte Huascar : sarcophage, vestige et document.
+[ ] Monolithe : indice, route vers la cache et verification de langue.
+[ ] Coffre conquistador : ouvrir apres avoir rejoint la zone par l'equipement.
+[ ] Star Crossed : terminer la mission et verifier le journal.
+
+CHAPITRE 12 - CITY OF THE SERPENT
+
+[ ] Cree une sauvegarde manuelle avant l'objectif final.
+[ ] Termine la route de campagne sans chercher a revenir dans les hubs pendant
+    le verrouillage de la derniere mission.
+[ ] Fais les combats avec les compteurs encore ouverts : distraction, mur de
+    boue, feu, friendly fire, coups de tete et executions.
+[ ] Termine la campagne et laisse l'ecran de resultat revenir au menu.
+[ ] Continue la sauvegarde pour revenir au Skull Cave Base Camp.
+[ ] Controle Quite the Adventure, Completionist et les quatre succes de
+    difficulte selon le parcours choisi.
+[ ] Les zones sans major collectibles ne demandent pas de retour : concentre
+    le nettoyage post-game sur les cartes dont le pourcentage est incomplet.
+
+REGISTRE DE COMPLETION PRINCIPAL
+
+[ ] Cozumel : 100 %.
+[ ] Peruvian Jungle : 100 %.
+[ ] Croft Manor : objets facultatifs controles.
+[ ] Kuwaq Yaku : 100 %.
+[ ] Trial of the Eagle : 100 %.
+[ ] Hidden City : 100 % dans chaque sous-zone.
+[ ] Cenote : 100 %.
+[ ] Porvenir Oil Fields : 100 %.
+[ ] Mission of San Juan : 100 %.
+[ ] City of the Serpent : campagne terminee.
+[ ] 252 artefacts requis.
+[ ] 77 caches de survie.
+[ ] 12 monolithes.
+[ ] 9 tombeaux principaux.
+[ ] 10 cryptes principales.
+[ ] 8 missions principales.
+[ ] 15 defis obligatoires.
+
+DLC 1 - THE FORGE
+
+Prerequis : atteindre Kuwaq Yaku dans la campagne.
+
+[ ] Voyage a Kuwaq Yaku et parle a la donneuse de mission.
+[ ] Lance Echoes of the Past.
+[ ] Suis les marques jusqu'a l'entree du tombeau Forge of Destiny.
+[ ] Dans le tombeau, active les statues jaguar pour liberer le gaz.
+[ ] Utilise le gaz pour monter les cubes, lever les ponts et ouvrir les
+    plateformes. Quand un cube bloque le passage, replace-le avant d'allumer
+    le prochain jet de gaz.
+[ ] Dans la salle centrale, monte la plateforme puis enchaine les statues
+    jusqu'a la derniere section de traversal.
+[ ] Termine la stele du Forge of Destiny et recupere la recompense.
+[ ] Retourne voir la donneuse et termine Echoes of the Past.
+[ ] Au camp, equipe Umbrage 3-80 Shade et Brocken Shadow avec la competence
+    Grenadier pour Bleeding Edge.
+[ ] Depuis le menu Challenge Tombs, lance Forge of Destiny en Time Attack.
+    Bronze : moins de 8:00. Les raccourcis appris pendant la mission rendent
+    la medaille tres accessible.
+[ ] Relance en Score Attack. Bronze : 250 000 points. Garde la chaine de
+    wisps actifs, tire les lanternes a distance et ne laisse pas le compteur
+    retomber entre deux cibles.
+[ ] Controle Heir Born, Destiny's Trialed, Bleeding Edge, Echoes of the Fast
+    et Echoes of the Furious.
+
+DLC 2 - THE PILLAR
+
+Prerequis : Hidden City accessible.
+
+[ ] Voyage a Hidden City et accepte The Age Makers.
+[ ] Suis les objectifs vers Path of Huracan.
+[ ] Dans le tombeau, utilise les cordes, les portes et les plateformes pour
+    atteindre la stele. Reviens sur les embranchements avant de pousser la
+    colonne suivante : les raccourcis sont plus rapides en Time Attack.
+[ ] Termine la stele et valide That Was A Breeze.
+[ ] Termine The Age Makers et equipe Oathtaker's Bow Eternal Sentinel et
+    Sinchi Chiqa Battle Dress Honor Guard avec A Thousand Eyes pour Eyes Of
+    The Storm.
+[ ] Time Attack Path of Huracan : Bronze sous 6:45.
+[ ] Score Attack Path of Huracan : Bronze a 250 000 points.
+[ ] En Score Attack, ramasse les wisps dans l'ordre de la route et tire les
+    lanternes seulement avec une chaine active.
+[ ] Controle Go With The Flow, That Was A Breeze, Eyes Of The Storm,
+    Float Like A Butterfly et Sting Like A Bee.
+
+DLC 3 - THE NIGHTMARE
+
+Prerequis : contenu DLC installe et acces a la mission.
+
+[ ] Lance Path of Fear depuis le marqueur de mission.
+[ ] Termine le parcours jusqu'au tombeau Howl of the Monkey Gods.
+[ ] Le tombeau alterne plateformes, pieges et passages de traversal. Observe
+    le rythme des ponts avant de te lancer : le chemin ne demande pas de
+    combat obligatoire dans chaque salle.
+[ ] Atteins la stele et valide Monkey Do.
+[ ] Retourne a Jonah et termine Path of Fear pour Harmony.
+[ ] Au camp, equipe Grip of Fear White Knuckle et Scales of Q Feathered
+    Serpent avec White Breath pour Creature Comforts.
+[ ] Time Attack Howl of the Monkey Gods : Bronze sous 10:00.
+[ ] Score Attack Howl of the Monkey Gods : Bronze a 250 000 points.
+[ ] Pour le score, conserve la chaine de wisps, utilise les lanternes quand le
+    multiplicateur est haut et termine la stele sans perdre du temps.
+[ ] Controle Harmony, Monkey Do, Howl Long, Organ Grinder et Creature Comforts.
+
+DLC 4 - THE PRICE OF SURVIVAL
+
+Prerequis : Hidden City et camp Skull Cave.
+
+[ ] Lance The Dragon and the Prince depuis le donneur pres de l'eau.
+[ ] Rejoins Eastern Mountain, puis suis Road to the Sky jusqu'au passage
+    cache et a la salle de l'enigme.
+[ ] Dans The Sixth Seal, abaisse les portes, place le chariot sur le bon rail,
+    utilise la manivelle puis remets le chariot sous le canon.
+[ ] Fais feu avec le canon pour ouvrir le dernier segment et termine la stele.
+[ ] Valide Mushroom With A View.
+[ ] Reviens a Skull Cave, termine The Dragon and the Prince et valide
+    He Ain't Heavy.
+[ ] Au camp, equipe Silent Sting Scorpion et Hunter's Array Apex avec
+    Raptor's Eye pour Dressed For Success.
+[ ] Time Attack The Sixth Seal : Bronze sous 10:00.
+[ ] Score Attack The Sixth Seal : Bronze a 150 000 points.
+[ ] Pour le score, ramasse les wisps des salles centrales avant de manipuler
+    les chariots et conserve la chaine jusqu'au dernier canon.
+[ ] Controle He Ain't Heavy, Mushroom With A View, Go Cart, Cannonized et
+    Dressed For Success.
+
+DLC 5 - THE SERPENT'S HEART
+
+Prerequis : Hidden City et donneur de mission disponible.
+
+[ ] Lance Two Graves.
+[ ] Suis les tombes, les cordes et les couloirs d'eau sans quitter le chemin
+    avant le marqueur suivant.
+[ ] Termine Slayer's Gauntlet et atteins la stele pour Hydro Power.
+[ ] Termine Two Graves et valide Whole World Blind.
+[ ] Au camp, equipe Serpent Lash Godslayer et Dragon Scales Legend avec
+    Divine Bounty pour Spoiled For Choice.
+[ ] Time Attack Slayer's Gauntlet : Bronze sous 12:00.
+[ ] Score Attack Slayer's Gauntlet : Bronze a 200 000 points.
+[ ] Dans le score, collecte les wisps de chaque salle avant d'utiliser les
+    mecanismes, puis garde une chaine jusqu'a la sortie.
+[ ] Controle Whole World Blind, Hydro Power, Rapids, Go Fish et
+    Spoiled For Choice.
+
+DLC 6 - THE GRAND CAIMAN
+
+Prerequis : Hidden City et donneur de mission disponible.
+
+[ ] Lance The Wrathful God.
+[ ] Suis le parcours vers Zipacna's Craving.
+[ ] Dans le tombeau, gere les couloirs de feu, les plateformes et les
+    balancements au grappin. Les sections d'eau se franchissent en gardant
+    une reserve de souffle pour la salle suivante.
+[ ] Atteins la stele et valide Caiman Conquered.
+[ ] Termine la mission et recupere la competence Volcano, l'arme Whispering
+    Scourge Pandemic et la tenue Reptile Hide Leviathan.
+[ ] Equipe les trois elements au camp puis quitte le menu pour Ready To Rumble.
+[ ] Time Attack Zipacna's Craving : Bronze sous 14:00.
+[ ] Score Attack Zipacna's Craving : Bronze a 350 000 points.
+[ ] Les medailles superieures ne sont pas necessaires : le Bronze suffit aux
+    succes. Maintiens toutefois la chaine de wisps pour eviter un echec de
+    score a quelques points.
+[ ] Controle Leaping Lizards, Caiman Conquered, Zip It, Offshore Count et
+    Ready To Rumble.
+
+DLC 7 - THE PATH HOME
+
+Prerequis : campagne terminee et les autres missions DLC disponibles.
+
+[ ] Voyage a Mission of San Juan et lance Eternal Reward.
+[ ] Suis le tunnel, franchis la zone de combat puis rejoins Mother Protector.
+[ ] Dans Mother Protector, utilise les plateformes, les cordes et les murs
+    pour atteindre la stele. Termine le tombeau pour Put Herself Together.
+[ ] Termine Eternal Reward pour Moonlight Sonata.
+[ ] Si les six autres missions DLC sont terminees, Seasoned Pro se valide a
+    la recompense de la septieme.
+[ ] Au camp, equipe Silver Strike Moonbeam et Midnight Sentinel Farseer avec
+    Magic Touch pour Moonlit Knight.
+[ ] Time Attack Mother Protector : Bronze sous 13:00.
+[ ] Score Attack Mother Protector : Bronze a 200 000 points.
+[ ] Controle Put Herself Together, Moonlight Sonata, Seasoned Pro, Moonlit
+    Knight, Chel Game et Chak Attack.
+
+ORDRE OPTIMAL DES MEDAILLES DLC
+
+1. Termine le tombeau en Exploration : tu apprends le chemin.
+2. Fais Score Attack : les wisps et le chemin deviennent memorises.
+3. Fais Time Attack : tu connais les mecanismes et les raccourcis.
+4. Equipe les objets de recompense apres chaque mission.
+5. Verifie l'onglet des succes avant de quitter le menu.
+
+TABLEAU DES MEDAILLES DLC
+
+- Forge of Destiny : Score 250 000 / Temps 8:00.
+- Path of Huracan : Score 250 000 / Temps 6:45.
+- Howl of the Monkey Gods : Score 250 000 / Temps 10:00.
+- The Sixth Seal : Score 150 000 / Temps 10:00.
+- Slayer's Gauntlet : Score 200 000 / Temps 12:00.
+- Zipacna's Craving : Score 350 000 / Temps 14:00.
+- Mother Protector : Score 200 000 / Temps 13:00.
+
+COMBAT, CHASSE ET EQUIPEMENT
+
+ACTIONS A FAIRE PENDANT LA PREMIERE PARTIE
+
+[ ] First Blood : execution depuis un mur couvert de boue.
+[ ] Look, Over There! : tue 3 ennemis pendant qu'ils sont distraits.
+[ ] Like a Shadow : 25 eliminations furtives.
+[ ] Tables Turned : tue 5 ennemis alors qu'ils recherchent Lara.
+[ ] Playing with Fire : brule 2 ennemis simultanement avec un baril ou une
+    munition incendiaire.
+[ ] Total Party Kill : tue 5 ennemis avec le friendly fire. Laisse un ennemi
+    arme d'un explosif ou d'une arme lourde toucher ses allies.
+[ ] Last Known Position : perds l'ennemi 10 fois. Cache-toi, laisse l'alerte
+    retomber, puis recommence sur un groupe qui se reinitialise.
+[ ] Chain Gang : realise Serpent's Fury 3 fois apres avoir la competence.
+[ ] Surprise! : realise 5 Eagle's Talon Takedowns depuis les arbres ou les
+    points hauts.
+[ ] Marksman : 20 tirs a la tete a l'arc. Les ennemis isoles sont plus fiables.
+[ ] Gunslinger : 3 tirs a la tete au pistolet en moins de 3 secondes.
+[ ] Sixth Sense : chasse et tue 10 ennemis avec Perception active.
+[ ] In the Moment : tue 10 ennemis avec Focus actif.
+[ ] Zoologist : ramasse 20 petites creatures, scarabees et araignees.
+[ ] Legendary Hunter : chasse et pille 5 animaux rares.
+[ ] On the Go : fabrique 50 munitions speciales. Fabrique des fleches
+    incendiaires, empoisonnees ou explosives des que les ressources le permettent.
+[ ] Untold Riches : accumule 40 minerais d'or, sans les depenser trop tot.
+[ ] Como Te Llama : caresse 5 lamas dans la Hidden City.
+[ ] Thanksgiving : tire une dinde avec une Flare Round.
+[ ] Makeshift Arsenal : ameliore completement une arme.
+[ ] That's a Knife! : ameliore completement le couteau. La mission Stay of
+    Execution facilite l'obtention de la lame renforcee.
+[ ] Specialized : achete toutes les competences d'une categorie.
+[ ] Better Equipped : obtiens 3 pieces d'equipement.
+[ ] Thread the Past : restaure 5 pieces de tenue vestige.
+[ ] To the Nines : restaure puis equipe un ensemble vestige assorti.
+[ ] Asking Price : achete un objet a un marchand.
+
+AMELIORATIONS A PRIORISER
+
+- Exploration : perception, langues, survie et revelation des objets.
+- Combat : concentration, munitions speciales et executions silencieuses.
+- Furtivite : boue, peur, marquage et takedowns depuis les hauteurs.
+- Garde de l'or pour les marchands et les pieces d'equipement avant les
+  achats de confort.
+- Un succes ne demande pas toutes les competences, toutes les armes ni toutes
+  les tenues. Pour Dr. Croft et Completionist, les compteurs de carte priment.
+
+CONTROLE POST-CAMPAGNE
+
+[ ] Ouvre la carte du monde et releve le pourcentage de chaque zone.
+[ ] Dans l'onglet Artefacts, ouvre chaque collection et identifie l'element
+    manquant par son icone.
+[ ] Dans l'onglet Missions/Defis, verifie les 8 missions et 15 defis.
+[ ] Controle les 9 tombeaux et 10 cryptes principaux.
+[ ] Controle les 77 caches et 12 caches revelees par monolithes.
+[ ] Controle les 8 coffres conquistadors et les caches sous-marines de Cenote.
+[ ] Fais les actions de combat restantes dans les missions rejouables.
+[ ] Verifie Completionist avant de lancer le nettoyage DLC.
+
+DIAGNOSTIC D'UN 99 % OU D'UN SUCCES MANQUANT
+
+1. Carte du monde : zone a moins de 100 %.
+2. Carte locale : compare les compteurs reliques, documents, fresques,
+   coffres, caches, monolithes, defis, cryptes et tombeaux.
+3. Artefacts : collection a une case blanche ou recompense automatique absente.
+4. Missions/Defis : mission acceptee mais non rendue, ou defi non initie.
+5. Outil : reviens avec couteau renforce, plongee ou niveau de langue.
+6. Campagne : verifie Croft Manor et l'ultime zone verrouillee.
+7. DLC : verifie chaque mission, chaque tombeau, chaque Time Attack et chaque
+   Score Attack. Une medaille Bronze suffit.
+8. Steam : attends la fin de la validation, relance le client si besoin,
+   puis reteste l'objectif sur une sauvegarde de secours.
+
+ROADMAP STEAM COURTE
+
+[ ] 1. Campagne en Rite of Passage ou Smart and Resourceful.
+[ ] 2. 100 % des zones et des objets de campagne.
+[ ] 3. Toutes les actions de combat, chasse et equipement.
+[ ] 4. Les sept DLC dans l'ordre.
+[ ] 5. Bronze en Score Attack et Time Attack pour chaque tombeau DLC.
+[ ] 6. New Game+ Deadly Obsession si la partie 1 n'etait pas deja en Deadly.
+[ ] 7. Lecture du checklist final : aucune case ignoree.
+
+CHECKLIST STEAM FINALE - 99/99
+
+- [ ] Path of the Stars — Decipher the Path of the Stars.
+- [ ] Día de Muertos — Remove the dagger from the Temple of the Moon.
+- [ ] Recipe for Disaster — Survive the flood.
+- [ ] First Steps — Purchase a Skill.
+- [ ] Survival Instincts — Defeat the Empress Jaguar.
+- [ ] Look, Over There! — Kill 3 enemies while they are distracted.
+- [ ] Fire of Life — Enter the inner chamber of the Temple of Life.
+- [ ] The Hidden City — Find Paititi.
+- [ ] Asking Price — Buy an item from a merchant.
+- [ ] First Blood — Perform a Stealth Takedown from a mud-covered wall.
+- [ ] Treasures from the Past — Decipher a Monolith.
+- [ ] The Underworld — Get out of the Cenote alive.
+- [ ] Untold Riches — Gather 40 gold ore.
+- [ ] New Heights — Complete a climb after finding the Overhang Climbing Gear.
+- [ ] Like a Shadow — Perform Stealth Takedowns on 25 enemies.
+- [ ] Tables Turned — Kill 5 enemies while they are searching for Lara.
+- [ ] Archeologist — Complete an Artifact Collection.
+- [ ] Point of Interest — Learn of 5 interesting locations from civilians.
+- [ ] Help thy Neighbor — Complete a Side Mission.
+- [ ] Family Ties — Free Unuratu from prison.
+- [ ] Heart of the Serpent — Find the Mission of San Juan.
+- [ ] Makeshift Arsenal — Fully upgrade a weapon.
+- [ ] The Chosen One — Find the Silver Box of Ix Chel.
+- [ ] Back to Where We Started — Return to Paititi.
+- [ ] Playing with Fire — Burn 2 enemies simultaneously.
+- [ ] Queen of the Damned — Make an unlikely ally.
+- [ ] Unwelcome Guests — Get rid of the pillagers outside Kuwaq Yaku.
+- [ ] Quite the Adventure — Finish the main storyline.
+- [ ] Smart and Resourceful — Complete the game on Smart and Resourceful.
+- [ ] Better Equipped — Get 3 pieces of equipment.
+- [ ] Resting Places — Uncover 3 main game Crypts' secrets.
+- [ ] Stele Hunter — Complete 3 main game Challenge Tombs.
+- [ ] I Believe Hakan Fly — Rescue Hakan from the cultists.
+- [ ] Zoologist — Collect 20 critters.
+- [ ] Marksman — Perform 20 headshots with the bow.
+- [ ] Hearts and Minds — Retrieve Manko's necklace.
+- [ ] Rite of Passage — Complete the game on Rite of Passage.
+- [ ] Last Known Position — Lose the enemy 10 times.
+- [ ] That's a Knife! — Fully upgrade the knife.
+- [ ] Total Party Kill — Kill 5 enemies with friendly fire.
+- [ ] Legendary Hunter — Hunt and loot 5 rare animals.
+- [ ] Up to the Challenge — Complete 5 Challenges.
+- [ ] Chain Gang — Perform the Serpent's Fury 3 times.
+- [ ] Beast of Legend — Complete the Nahual objective and return the bow.
+- [ ] Thread the Past — Restore 5 vestige outfit pieces.
+- [ ] To the Nines — Restore and equip a matching vestige outfit.
+- [ ] That Was A Breeze — Complete the Path of Huracan Challenge Tomb.
+- [ ] On the Go — Craft special ammunition 50 times.
+- [ ] Underwater Archeologist — Collect 5 underwater Artifacts.
+- [ ] Go With The Flow — Complete The Age Makers Side Mission.
+- [ ] Good Samaritan — Complete 8 Side Missions.
+- [ ] Monkey Do — Complete the Howl of the Monkey Gods Challenge Tomb.
+- [ ] Destiny's Trialed — Complete the Forge of Destiny Challenge Tomb.
+- [ ] Mushroom With A View — Complete The Sixth Seal Challenge Tomb.
+- [ ] Harmony — Complete the Path of Fear Side Mission.
+- [ ] He Ain't Heavy — Complete The Dragon and the Prince Side Mission.
+- [ ] Heir Born — Complete the Echoes of the Past Side Mission.
+- [ ] Surprise! — Perform 5 Eagle's Talon Takedowns.
+- [ ] Tomb Raider — Complete all main game Challenge Tombs.
+- [ ] Sixth Sense — Hunt and kill 10 enemies while Perception is active.
+- [ ] Hydro Power — Complete the Slayer's Gauntlet Challenge Tomb.
+- [ ] Specialized — Earn all skills in one category.
+- [ ] Whole World Blind — Complete the Two Graves Side Mission.
+- [ ] Caiman Conquered — Complete the Zipacna's Craving Challenge Tomb.
+- [ ] Leaping Lizards — Complete The Wrathful God Side Mission.
+- [ ] Como Te Llama — Pet 5 llamas.
+- [ ] In the Moment — Kill 10 enemies while Focus is active.
+- [ ] Treasure Hunter — Find and open all the main game Conquistador treasure chests.
+- [ ] Put Herself Together — Complete the Mother Protector Challenge Tomb.
+- [ ] Moonlight Sonata — Complete the Eternal Reward Side Mission.
+- [ ] Seasoned Pro — Complete all 7 downloadable content missions and receive the Tunic of the Shorn One.
+- [ ] Dr. Croft — Complete all Artifact Collections.
+- [ ] Gunslinger — Perform 3 headshots in 3 seconds with the pistol.
+- [ ] Completionist — Reach 100% completion.
+- [ ] One with the Jungle — Complete the game on One with the Jungle.
+- [ ] Thanksgiving — Shoot a turkey with a Flare Round.
+- [ ] Creature Comforts — Obtain White Breath, equip Grip of Fear White Knuckle and Scales of Q Feathered Serpent.
+- [ ] Bleeding Edge — Obtain Grenadier, equip Umbrage 3-80 Shade and Brocken Shadow.
+- [ ] Spoiled For Choice — Obtain Divine Bounty, equip Serpent Lash Godslayer and Dragon Scales Legend.
+- [ ] Eyes Of The Storm — Obtain A Thousand Eyes, equip Oathtaker's Bow Eternal Sentinel and Sinchi Chiqa Battle Dress Honor Guard.
+- [ ] Ready To Rumble — Obtain Volcano, equip Whispering Scourge Pandemic and Reptile Hide Leviathan.
+- [ ] Made to Endure — Perform takedowns on 10 enemies while Endurance is active.
+- [ ] Dressed For Success — Obtain Raptor's Eye, equip Silent Sting Scorpion and Hunter's Array Apex.
+- [ ] Moonlit Knight — Obtain Magic Touch, equip Silver Strike Moonbeam and Midnight Sentinel Farseer.
+- [ ] Deadly Obsession — Complete the game on Deadly Obsession.
+- [ ] Echoes of the Fast — Earn a Bronze, Silver or Gold medal in Time Attack for Forge of Destiny.
+- [ ] Echoes of the Furious — Earn a Bronze, Silver or Gold medal in Score Attack for Forge of Destiny.
+- [ ] Float Like A Butterfly — Earn a Bronze, Silver or Gold medal in Time Attack for Path of Huracan.
+- [ ] Sting Like A Bee — Earn a Bronze, Silver or Gold medal in Score Attack for Path of Huracan.
+- [ ] Howl Long — Earn a Bronze, Silver or Gold medal in Time Attack for Howl of the Monkey Gods.
+- [ ] Go Cart — Earn a Bronze, Silver or Gold medal in Time Attack for The Sixth Seal.
+- [ ] Cannonized — Earn a Bronze, Silver or Gold medal in Score Attack for The Sixth Seal.
+- [ ] Rapids — Earn a Bronze, Silver or Gold medal in Time Attack for Slayer's Gauntlet.
+- [ ] Go Fish — Earn a Bronze, Silver or Gold medal in Score Attack for Slayer's Gauntlet.
+- [ ] Zip It — Earn a Bronze, Silver or Gold medal in Time Attack for Zipacna's Craving.
+- [ ] Organ Grinder — Earn a Bronze, Silver or Gold medal in Score Attack for Howl of the Monkey Gods.
+- [ ] Offshore Count — Earn a Bronze, Silver or Gold medal in Score Attack for Zipacna's Craving.
+- [ ] Chel Game — Earn a Bronze, Silver or Gold medal in Time Attack for Mother Protector.
+- [ ] Chak Attack — Earn a Bronze, Silver or Gold medal in Score Attack for Mother Protector.
+
+VERIFICATION FINALE
+
+[ ] Campagne terminee avec Quite the Adventure.
+[ ] Difficulty achievements : Smart and Resourceful, Rite of Passage,
+    One with the Jungle et Deadly Obsession.
+[ ] Completionist valide avec les zones principales a 100 %.
+[ ] Artefacts, caches, monolithes, coffres, tombeaux, cryptes, missions et
+    defis principaux controles.
+[ ] 7 missions DLC terminees.
+[ ] 7 tombeaux DLC termines.
+[ ] 14 medailles DLC obtenues : 7 Score Attack et 7 Time Attack.
+[ ] Actions de combat, chasse, equipement et achat controles.
 [ ] Profil Steam : 99/99 succes.
 
 REGLE ANTI-SPOILER
 
-Les regions, outils, missions, modes et compteurs servent uniquement a
-ordonner la progression. Aucun evenement narratif, boss, identite, mort, fin
-ou consequence n'est decrit.
+Les lieux, missions, outils, objets, tombeaux, compteurs et noms de succes
+servent uniquement a ordonner la completion. Aucun evenement narratif, boss,
+identite, mort, fin ou consequence n'est decrit.
