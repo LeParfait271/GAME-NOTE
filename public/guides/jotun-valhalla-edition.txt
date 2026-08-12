@@ -1,73 +1,1091 @@
 JOTUN: VALHALLA EDITION
-GUIDE CHRONOLOGIQUE 100 % STEAM - SANS SPOILER
+FICHE PREMIUM - GUIDE CHRONOLOGIQUE 100 % STEAM
+SANS SPOILER NARRATIF
 
-Version de travail : 10 aout 2026
+Version de travail : 12 aout 2026
+Jeu Steam : Jotun: Valhalla Edition
+AppID : 323580
+36 succes Steam
 
-Ce parcours couvre les 36 succes Steam de l'AppID 323580 : cinq zones de
-divinites, Odin, sanctuaires, pommes, combats parfaits, contre-la-montre et
-Valhalla Mode. Le guide ne revele ni histoire, ni identite, ni fin.
+Cette fiche est une route complete, dans l'ordre, pour terminer le mode
+Histoire a 100 %, obtenir les 36 succes Steam et finir le mode Valhalla.
+Elle donne les reperes de zone, les neuf sanctuaires, les neuf pommes
+d'Ithunn, les fontaines de sante, les runes et une methode dediee pour
+chaque condition de boss.
 
-OBJECTIF
+Le guide reste sans spoiler narratif : les noms des zones, des boss et des
+succes sont necessaires pour suivre la progression, mais aucun dialogue,
+secret de scenario ou detail de fin n'est revele.
 
-[ ] 36/36 succes Steam.
-[ ] Toutes les zones, sanctuaires et pommes d'Ithunn.
-[ ] Une run d'exploration puis des runs dediees par boss.
-[ ] Valhalla Mode termine avec les trois conditions associees.
+======================================================================
+01. FICHE DE ROUTE ET REGLES DE 100 %
+======================================================================
 
-GARDE-FOUS ET MISSABLES
+OBJECTIF GLOBAL
 
-- Les boss peuvent etre revisites, mais les objectifs sans pouvoir, parfait,
-  temps ou condition speciale demandent une sauvegarde au debut de l'arene.
-- Fais une run exploration pour les sanctuaires et pommes, puis une run
-  technique par boss. Ne cherche pas a combiner toutes les contraintes.
-- Les pouvoirs divins doivent etre laisses de cote pendant les essais Shun
-  the Gods. Les objectifs sont missables sur la tentative en cours, pas sur le
-  fichier complet.
+- Terminer l'Histoire et vaincre les cinq Jotun puis Odin.
+- Activer les 9 sanctuaires de pouvoirs divins.
+- Ramasser les 9 pommes d'Ithunn.
+- Utiliser toutes les fontaines de sante signalees sur les cartes.
+- Obtenir les 36 succes Steam.
+- Terminer le mode Valhalla et ses trois validations associees.
 
-ORDRE CHRONOLOGIQUE
+CE QUI EST MANQUABLE
 
-1. EXPLORATION DES PREMIERES ZONES
+- Aucun succes n'est definitivement manquable : les zones et les boss
+  peuvent etre rejoues depuis la selection de niveaux.
+- En revanche, chaque condition "sans pouvoir", "parfait", "contre-la-montre"
+  ou "condition speciale" est manquable pendant la tentative en cours.
+- Les succes de boss de l'Histoire se valident dans le mode Histoire.
+  Une victoire equivalente en Valhalla ne remplace pas cette validation.
+- Ne combine pas toutes les contraintes sur une seule tentative. Une fiche
+  propre par condition est plus rapide et evite les validations ambiguës.
 
-- Parcours chaque ile avant d'entrer dans l'arene : sanctuaire, pomme,
-  raccourci et coffre. Note les zones avec un objectif non termine.
-- Apprends les attaques, esquives et rythmes sans depenser tous les pouvoirs.
-  Termine Jera, Fe, Isa, Hagalaz et Kaunan dans l'ordre d'apparition.
+COMPTEURS A SURVEILLER
 
-2. BOSS DE LA CAMPAGNE
+- Zones d'exploration : 9/9.
+- Sanctuaires : 9/9.
+- Pommes d'Ithunn : 9/9.
+- Boss de l'Histoire : Jera, Fé, Isa, Hagalaz, Kaunan et Odin.
+- Mode Valhalla : six combats a valider.
+- Succes Steam : 36/36.
 
-- Jera : valide Tame the Wilds, puis reviens avec des sauvegardes pour Shun
-  the Gods - Jera, Vegetarian, Perfect Jera et Time Trial - Jera.
-- Fe : fais Defeat the Darkness, puis Shun the Gods - Fe, Perfect Fe,
-  Ultimate Fe's-bee et Time Trial - Fe.
-- Isa : termine Conquer the Cold, puis Shun the Gods - Isa, Perfect Isa,
-  Sniper et Time Trial - Isa.
-- Hagalaz : valide Weather the Storm, puis Shun the Gods - Hagalaz, Perfect
-  Hagalaz, No K.O. et Time Trial - Hagalaz.
-- Kaunan : termine Brave the Inferno, puis Shun the Gods - Kaunan, Perfect
-  Kaunan, Risky Business et Time Trial - Kaunan.
+REGLE DE SAUVEGARDE
 
-3. SANCTUAIRES ET POMMES
+- Avant chaque boss, fais une tentative dediee a un seul objectif.
+- Si une condition est ratee, quitte l'arene, retourne a la selection de
+  niveaux et relance le boss. Ne poursuis pas une mauvaise tentative.
+- Pour une tentative parfaite, considere tout contact comme un echec, meme
+  si la barre de vie semble ne pas avoir bouge.
+- Pour une tentative sans pouvoir, ne selectionne ni n'active aucun pouvoir
+  divin. Les pouvoirs ont un nombre d'utilisations limite.
+- Apres chaque boss de Valhalla, ouvre le menu Highscores et controle les
+  indicateurs de degats et de pouvoirs avant de continuer.
 
-- Utilise la carte de chaque zone pour verifier tous les God Shrines et toutes
-  les Ithunn's Apples. Fais cette etape avant de lancer le combat final.
-- Si une pomme ou un sanctuaire manque, recharge la zone correspondante et
-  finis l'exploration avant de retourner au hub.
+======================================================================
+02. ORDRE CHRONOLOGIQUE RECOMMANDE
+======================================================================
 
-4. ODIN ET VALHALLA MODE
+ETAPE 01 - PREMIERE EXPLORATION
 
-- Fais une sauvegarde avant Odin. Valide Valhalla Awaits, puis Gungnir-phobia,
-  Perfect Odin, Time Trial - Odin et Shun the Gods - Odin sur des tentatives
-  dediees.
-- Lance Valhalla Mode apres la campagne. Apprends les zones, puis termine
-  Valkyrie, Perfect Valhalla et Shun the Gods - Valhalla. Une tentative sans
-  degat et une tentative sans pouvoir sont plus fiables qu'une combinaison.
+1. The Barrow Mound.
+2. The Roots of Yggdrasil.
+3. Brokkr's Forge.
+4. Jormundgandr's Lake.
+5. The Nine Rivers.
+6. Vethrfolnir's Roost.
+7. The Northern Sky.
+8. The Crater.
+9. Ymir's Blood.
 
-CHECKLIST 36/36
+Cet ordre suit l'ordre pratique des neuf cartes de l'Histoire. Le jeu permet
+de revenir dans une zone terminee : si l'ecran de selection propose un autre
+ordre, conserve simplement le meme principe, a savoir terminer une zone a
+100 % avant de passer a la suivante.
 
-[ ] Jera, Fe, Isa, Hagalaz, Kaunan et Odin vaincus.
-[ ] Sanctuaires, pommes et Completionist.
-[ ] Conditions Shun the Gods, Perfect, Time Trial et conditions uniques.
-[ ] Valhalla Mode, Perfect Valhalla et Shun the Gods - Valhalla.
-[ ] 36/36 succes Steam.
+ETAPE 02 - REGLE DE BALAYAGE D'UNE ZONE
 
-FIN DU GUIDE - SANS SPOILER
+Pour chaque niveau, applique toujours cette boucle :
+
+1. Active la fontaine de sante si elle apparait sur le chemin.
+2. Ouvre la carte de pause et repere les icones encore allumees.
+3. Cherche le sanctuaire et active sa plaque au sol.
+4. Cherche la pomme d'Ithunn et ramasse-la.
+5. Active la rune de la zone.
+6. Reviens au chemin principal et termine la zone.
+7. Avant de quitter, ouvre encore la carte : aucune icone d'objet ou de
+   fontaine ne doit rester allumee.
+
+ETAPE 03 - ORDRE DES BOSS DE L'HISTOIRE
+
+Apres le balayage des cartes, valide les combats dans cet ordre de travail :
+
+1. Jera.
+2. Fé.
+3. Isa.
+4. Hagalaz.
+5. Kaunan.
+6. Odin.
+
+La victoire normale de chaque boss debloque le succes de progression
+correspondant. Les autres succes sont traites plus loin dans des fiches
+separees.
+
+ETAPE 04 - MODE VALHALLA
+
+Le mode Valhalla se debloque apres la premiere completion de l'Histoire.
+Il donne acces aux six combats de boss dans une version plus exigeante.
+Termine-le apres avoir debloque tous les pouvoirs et toutes les ameliorations
+de sante : tu disposeras de plus de marge pour apprendre les patterns.
+
+======================================================================
+03. OUTILS, COMBAT ET INTERFACE
+======================================================================
+
+LES SIX POUVOIRS DIVINS
+
+- Soin de Frigg : restaure une partie de la sante.
+- Marteau de Thor : renforce l'attaque lourde, mais ralentit sa preparation.
+- Manteau de Freyja : augmente la vitesse de mouvement et d'attaque.
+- Bouclier de Heimdall : rend temporairement invulnerable.
+- Double de Loki : attire l'attention et cree des fenetres de securite.
+- Lance d'Odin : inflige de gros degats a distance.
+
+Les pouvoirs se changent depuis la roue de pouvoirs. Leur compteur est
+visible sur l'icone active. Garde les charges pour une vraie tentative
+contre-la-montre ou parfaite ; ne les depense pas par reflexe pendant
+l'exploration.
+
+LECTURE DE LA CARTE
+
+- Les objets et les fontaines non valides restent visibles sur la carte de
+  pause. Utilise cet ecran comme verification, pas seulement comme boussole.
+- Les fontaines de sante sont sur le chemin principal ; les pommes et les
+  sanctuaires sont les detours a controler.
+- Une zone ne doit pas etre consideree comme terminee tant que son icone
+  d'objet reste allumee.
+
+ATTAQUE ET ESQUIVE
+
+- L'attaque rapide sert a interrompre, finir un ennemi et grignoter une
+  barre de vie sans immobiliser Thora.
+- L'attaque lourde sert a infliger de gros degats, repousser certains
+  elements et declencher les interactions de plusieurs succes.
+- Maintiens l'attaque lourde pour retarder son declenchement et la liberer
+  au moment voulu. Cette precision est importante pour les boucliers, les
+  blocs de glace et les lances.
+- Marche en cercle avant de rouler : beaucoup d'attaques se lisent mieux
+  sans esquive prematuree.
+- Entre les jambes de Fé, Isa, Hagalaz et Kaunan quand leur animation et la
+  geometrie de l'arene le permettent ; c'est souvent la trajectoire la plus
+  courte pendant un contre-la-montre.
+
+======================================================================
+04. CHRONOLOGIE DES NEUF ZONES
+======================================================================
+
+CHAPITRE 01 - THE BARROW MOUND
+
+OBJECTIF DE LA ZONE
+
+- Activer le premier sanctuaire.
+- Ramasser la premiere pomme d'Ithunn.
+- Activer la rune.
+- Utiliser la fontaine de sante visible sur le trajet si elle apparait.
+
+ROUTE SANS DETOUR INUTILE
+
+1. Depuis l'entree, suis les dalles et les passages ouverts jusqu'a la
+   premiere bifurcation.
+2. Nettoie les ennemis qui bloquent le chemin, puis observe les arbres :
+   certains masquent partiellement les petites plaques de pierre.
+3. Ne quitte pas la partie droite de la zone avant d'avoir traverse la zone
+   de ronces et verifie le champ de fleurs bleues.
+4. Rejoins le chemin de la rune, active-la et ouvre la carte avant le retour.
+
+SANCTUAIRE 01/09 - BARROW MOUND
+
+- Traverse la zone de ronces situee sur la droite de la zone.
+- Le sanctuaire se trouve au milieu d'un champ de fleurs bleues.
+- Marche sur la plaque devant le sanctuaire pour l'activer.
+- Controle l'icone sur la carte : elle doit etre eteinte.
+
+POMME 01/09 - BARROW MOUND
+
+- Pars du sanctuaire et avance vers le nord.
+- Cherche les petites plaques de pierre partiellement cachees par les arbres.
+- Suis toute la serie de plaques au lieu de revenir vers le chemin principal.
+- La pomme est au bout de ce detour.
+
+FIN DE ZONE
+
+- [ ] Fontaine de sante utilisee.
+- [ ] Sanctuaire 01/09 active.
+- [ ] Pomme 01/09 ramassee.
+- [ ] Rune activee.
+- [ ] Carte de pause verifiee.
+
+CHAPITRE 02 - THE ROOTS OF YGGDRASIL
+
+OBJECTIF DE LA ZONE
+
+- Activer le sanctuaire Heimdall.
+- Ramasser la pomme sur la plateforme surelevee.
+- Activer la rune sans confondre les deux grandes racines.
+
+ROUTE ET GEYSERS
+
+1. Avance jusqu'a la premiere plaque de geyser et utilise-la pour atteindre
+   la partie superieure.
+2. A partir de cette premiere plateforme, les deux detours se ressemblent :
+   la grande racine de droite mene au sanctuaire ; celle de gauche mene a la
+   pomme.
+3. Termine d'abord le detour de droite, puis reviens au meme point de depart
+   et prends la racine de gauche.
+4. Reviens ensuite au chemin de la rune. Les geysers sont des plateformes :
+   attends la bonne ouverture avant de traverser.
+
+SANCTUAIRE 02/09 - ROOTS OF YGGDRASIL
+
+- Apres la premiere plaque de geyser, glisse le long de la grande racine de
+  droite.
+- Descends jusqu'a trouver une seconde plaque de geyser.
+- Active cette plaque : elle propulse Thora vers la plateforme du
+  sanctuaire.
+
+POMME 02/09 - ROOTS OF YGGDRASIL
+
+- Reviens a la zone de la premiere plaque de geyser.
+- Glisse cette fois le long de la grande racine de gauche.
+- En bas, active la seconde plaque de geyser de ce cote.
+- La plateforme surelevee atteinte par le geyser contient la pomme.
+
+FIN DE ZONE
+
+- [ ] Fontaine de sante utilisee.
+- [ ] Sanctuaire 02/09 active.
+- [ ] Pomme 02/09 ramassee.
+- [ ] Rune activee.
+- [ ] Carte de pause verifiee.
+
+CHAPITRE 03 - BROKKR'S FORGE
+
+OBJECTIF DE LA ZONE
+
+- Activer le sanctuaire dans la mine d'or.
+- Activer les quatre socles runiques.
+- Ramasser la pomme sur le toit de la premiere petite zone habitee.
+- Activer la rune de sortie.
+
+ROUTE DES SOCLES
+
+1. Traverse le premier pont casse puis observe la zone au nord.
+2. Tu trouveras un chariot rempli d'or. Suis les rails au lieu de remonter
+   directement vers le chemin central.
+3. Le trajet des rails conduit a la mine d'or et au sanctuaire.
+4. Pour la pomme, reviens dans la premiere zone qui ressemble a une petite
+   ville et cherche les quatre socles brun fonce portant une rune lumineuse.
+5. Active les quatre socles avec l'interaction. Une passerelle apparait ;
+   suis-la jusqu'au toit.
+
+SANCTUAIRE 03/09 - BROKKR'S FORGE
+
+- Apres avoir traverse le premier pont casse, dirige-toi vers le nord.
+- Repere le chariot avec l'or.
+- Suis ses rails jusqu'a la mine d'or.
+- Le sanctuaire se trouve dans cette mine.
+
+POMME 03/09 - BROKKR'S FORGE
+
+- Dans la premiere petite ville traversee par le niveau, localise les quatre
+  socles brun fonce avec une rune lumineuse.
+- Active les quatre socles ; ne confonds pas les decors metalliques avec les
+  socles interactifs.
+- Traverse la passerelle nouvellement ouverte.
+- La pomme se trouve sur un toit.
+
+FIN DE ZONE
+
+- [ ] Fontaine de sante utilisee.
+- [ ] Sanctuaire 03/09 active.
+- [ ] Quatre socles runiques actives.
+- [ ] Pomme 03/09 ramassee.
+- [ ] Rune activee.
+- [ ] Carte de pause verifiee.
+
+CHAPITRE 04 - JORMUNDGANDR'S LAKE
+
+OBJECTIF DE LA ZONE
+
+- Activer le sanctuaire a l'est du lac gele.
+- Trouver le passage secret a gauche du depart.
+- Ramasser la pomme derriere la cascade gelee.
+- Activer la rune.
+
+ROUTE DES DEUX COTES
+
+1. Pour le sanctuaire, garde le cote droit de la carte lorsque les chemins
+   s'ouvrent. Le trajet finit sur le cote est du lac gele.
+2. Reviens au debut de la zone pour la pomme. Garde cette fois le cote
+   gauche.
+3. Cherche un petit passage qui conduit a un lac gele secondaire et a une
+   cascade gelee.
+4. La pomme se trouve derriere la cascade, pas sur la berge visible.
+5. Reviens au chemin principal, active la rune et verifie la carte.
+
+SANCTUAIRE 04/09 - JORMUNDGANDR'S LAKE
+
+- Depuis le depart, garde la droite a chaque bifurcation importante.
+- Le sanctuaire est sur le cote est du lac gele.
+- Active la plaque puis utilise le detour retour pour ne pas perdre le
+  repere du lac.
+
+POMME 04/09 - JORMUNDGANDR'S LAKE
+
+- Retourne au point de depart.
+- Garde la gauche pour trouver le passage cache.
+- Traverse le petit lac gele et approche de la cascade gelee.
+- Passe derriere la cascade pour ramasser la pomme.
+
+FIN DE ZONE
+
+- [ ] Fontaine de sante utilisee.
+- [ ] Sanctuaire 04/09 active.
+- [ ] Pomme 04/09 ramassee.
+- [ ] Rune activee.
+- [ ] Carte de pause verifiee.
+
+CHAPITRE 05 - THE NINE RIVERS
+
+OBJECTIF DE LA ZONE
+
+- Activer le sanctuaire au bout du dernier chemin vers le nord.
+- Ramasser la pomme dans la partie ouest.
+- Activer la rune.
+
+ROUTE DE L'EAU
+
+1. A chaque intersection, donne la priorite aux chemins qui montent vers le
+   nord pour rejoindre le sanctuaire.
+2. Quand un chemin secondaire apparait, note son orientation sur la carte
+   avant de poursuivre : la zone se ressemble beaucoup.
+3. Pour la pomme, reviens vers l'ouest et garde la gauche a chaque choix
+   possible. Ne prends pas le premier chemin qui te ramene au centre.
+4. Termine par la rune et controle l'ecran de pause.
+
+SANCTUAIRE 05/09 - THE NINE RIVERS
+
+- Suis les chemins qui partent vers le nord.
+- Continue jusqu'au bout du dernier chemin oriente vers le nord.
+- Le sanctuaire est au terme de ce parcours.
+
+POMME 05/09 - THE NINE RIVERS
+
+- Rejoins la partie ouest de la zone.
+- Garde la gauche chaque fois que le terrain laisse le choix.
+- La pomme est au bout de cette branche ouest.
+- Si elle n'apparait pas, ouvre la carte : tu as probablement garde la
+  droite a une bifurcation.
+
+FIN DE ZONE
+
+- [ ] Fontaine de sante utilisee.
+- [ ] Sanctuaire 05/09 active.
+- [ ] Pomme 05/09 ramassee.
+- [ ] Rune activee.
+- [ ] Carte de pause verifiee.
+
+CHAPITRE 06 - VETHRFOLNIR'S ROOST
+
+OBJECTIF DE LA ZONE
+
+- Activer le sanctuaire sur la grande feuille.
+- Ramasser la pomme dans le trou de l'arbre.
+- Activer la rune.
+
+ROUTE DE L'ARBRE
+
+1. Progresse jusqu'a la fontaine de sante.
+2. Depuis la fontaine, repere les deux branches qui partent vers le nord et
+   le sud-ouest.
+3. Prends d'abord le sud-ouest pour la pomme.
+4. Reviens a la fontaine et monte vers le haut de l'arbre pour le sanctuaire.
+5. Au sommet, la route du sanctuaire demande de garder la droite, de
+   descendre quand le passage s'arrete, puis de reprendre a droite.
+
+SANCTUAIRE 06/09 - VETHRFOLNIR'S ROOST
+
+- Atteins la partie la plus haute de l'arbre.
+- Garde la droite jusqu'a ne plus pouvoir avancer.
+- Descends, puis reprends a droite.
+- Le sanctuaire est au bout, sur une grande feuille.
+
+POMME 06/09 - VETHRFOLNIR'S ROOST
+
+- Depuis la fontaine de sante, prends la branche sud-ouest.
+- Cherche un trou dans le tronc de l'arbre qui compose la zone.
+- Traverse ce trou : la pomme est a l'interieur du passage.
+
+FIN DE ZONE
+
+- [ ] Fontaine de sante utilisee.
+- [ ] Sanctuaire 06/09 active.
+- [ ] Pomme 06/09 ramassee.
+- [ ] Rune activee.
+- [ ] Carte de pause verifiee.
+
+CHAPITRE 07 - THE NORTHERN SKY
+
+OBJECTIF DE LA ZONE
+
+- Reconstituer la constellation du faucon.
+- Activer le sanctuaire sur le nuage.
+- Traverser le nuage d'orage violet pour la pomme.
+- Activer la rune.
+
+ROUTE DES CONSTELLATIONS
+
+1. Progresse jusqu'a la partie superieure de la zone.
+2. Cherche la constellation a reconstituer et relie les points dans l'ordre
+   indique par les marqueurs du niveau.
+3. Une fois le faucon forme, poursuis vers le haut : le sanctuaire se trouve
+   sur un nuage.
+4. Reviens ensuite dans la partie ouest.
+5. Le gros nuage d'orage violet est le repere de la pomme. Traverse-le en
+   lisant les eclairs et en roulant seulement au moment de l'impact.
+
+SANCTUAIRE 07/09 - THE NORTHERN SKY
+
+- Atteins la partie superieure de la carte.
+- Reconstitue la constellation en forme de faucon.
+- Le passage vers le haut s'ouvre.
+- Continue jusqu'au nuage qui porte le sanctuaire.
+
+POMME 07/09 - THE NORTHERN SKY
+
+- Reviens vers l'ouest de la zone.
+- Repere le grand nuage d'orage de couleur violet fonce.
+- Traverse le nuage en evitant les impacts de foudre.
+- La pomme se trouve au bout de ce passage.
+
+FIN DE ZONE
+
+- [ ] Fontaine de sante utilisee.
+- [ ] Sanctuaire 07/09 active.
+- [ ] Pomme 07/09 ramassee.
+- [ ] Rune activee.
+- [ ] Carte de pause verifiee.
+
+CHAPITRE 08 - THE CRATER
+
+OBJECTIF DE LA ZONE
+
+- Activer le sanctuaire au sud de la zone de lave.
+- Construire le pont de rochers.
+- Ramasser la pomme au bout du passage etroit au nord-ouest.
+- Activer la rune.
+
+ROUTE DES ROCHERS
+
+1. Dans le secteur de lave, observe les ennemis qui lancent des rochers.
+2. Laisse-les viser Thora puis utilise les rochers pour former la passerelle
+   vers le sud.
+3. Traverse cette passerelle pour rejoindre le sanctuaire.
+4. Pour la pomme, reviens dans la partie superieure gauche du depart.
+5. Deux ennemis apparaissent proches l'un de l'autre, puis un autre apparait
+   pres d'un passage etroit : suis ce passage jusqu'au bout.
+
+SANCTUAIRE 08/09 - THE CRATER
+
+- Rejoins la zone de lave du sud.
+- Place-toi de maniere a faire lancer les rochers par les ennemis.
+- Fais construire la passerelle avec ces rochers.
+- Traverse-la : le sanctuaire est dans ce secteur sud.
+
+POMME 08/09 - THE CRATER
+
+- Depuis le debut, gagne la partie superieure gauche.
+- Repere les deux ennemis rapproches puis le troisieme ennemi pres d'un
+  passage etroit.
+- Emprunte ce passage jusqu'a son extremite.
+- La pomme est au bout du couloir.
+
+FIN DE ZONE
+
+- [ ] Fontaine de sante utilisee.
+- [ ] Sanctuaire 08/09 active.
+- [ ] Pomme 08/09 ramassee.
+- [ ] Rune activee.
+- [ ] Carte de pause verifiee.
+
+CHAPITRE 09 - YMIR'S BLOOD
+
+OBJECTIF DE LA ZONE
+
+- Activer le sanctuaire depuis la fontaine de sante.
+- Ramasser la pomme au nord de la grande dalle.
+- Activer la rune.
+- Quitter la zone avec toutes les icones eteintes.
+
+ROUTE DE LA DALLE
+
+1. Progresse jusqu'a la fontaine de sante.
+2. Depuis la fontaine, prends d'abord la droite puis monte.
+3. Suis le chemin jusqu'au bout pour trouver le sanctuaire.
+4. Pour la pomme, reviens a la grande dalle de pierre qui represente Odin
+   et sa famille.
+5. Va au nord de cette dalle : la pomme est dans ce secteur.
+6. Active la rune et ouvre la carte une derniere fois.
+
+SANCTUAIRE 09/09 - YMIR'S BLOOD
+
+- Depuis la fontaine de sante, va a droite.
+- Monte ensuite vers le nord.
+- Le sanctuaire se trouve au bout du chemin.
+
+POMME 09/09 - YMIR'S BLOOD
+
+- Localise la grande dalle de pierre avec Odin et sa famille.
+- Pars au nord de cette dalle.
+- La pomme se trouve dans cette zone nord.
+
+FIN DE ZONE
+
+- [ ] Fontaine de sante utilisee.
+- [ ] Sanctuaire 09/09 active.
+- [ ] Pomme 09/09 ramassee.
+- [ ] Rune activee.
+- [ ] Carte de pause verifiee.
+
+======================================================================
+05. CHECKPOINT 100 % AVANT LES BOSS
+======================================================================
+
+VERIFICATION DES NEUF ZONES
+
+- [ ] The Barrow Mound : sanctuaire, pomme, fontaine, rune.
+- [ ] The Roots of Yggdrasil : sanctuaire, pomme, fontaine, rune.
+- [ ] Brokkr's Forge : sanctuaire, pomme, fontaine, rune.
+- [ ] Jormundgandr's Lake : sanctuaire, pomme, fontaine, rune.
+- [ ] The Nine Rivers : sanctuaire, pomme, fontaine, rune.
+- [ ] Vethrfolnir's Roost : sanctuaire, pomme, fontaine, rune.
+- [ ] The Northern Sky : sanctuaire, pomme, fontaine, rune.
+- [ ] The Crater : sanctuaire, pomme, fontaine, rune.
+- [ ] Ymir's Blood : sanctuaire, pomme, fontaine, rune.
+
+CHECKPOINT CARTE
+
+- [ ] Sanctuaires : 9/9.
+- [ ] Pommes d'Ithunn : 9/9.
+- [ ] Fontaines de sante : aucune icone restante.
+- [ ] Toutes les runes ont ete activees.
+- [ ] Les pouvoirs divins utiles sont disponibles.
+- [ ] Les tentatives de boss peuvent maintenant etre faites une par une.
+
+======================================================================
+06. BOSS DE L'HISTOIRE - ROUTE COMPLETE
+======================================================================
+
+REGLE POUR CHAQUE ARENE
+
+1. Fais une victoire normale pour apprendre le pattern et debloquer le
+   succes de progression.
+2. Reviens ensuite dans la meme arene pour les conditions techniques.
+3. Utilise une tentative par contrainte : sans pouvoir, parfait, temps et
+   condition unique.
+4. Note immediatement le succes dans la checklist finale quand Steam le
+   signale.
+
+BOSS 01 - JERA
+
+VICTOIRE NORMALE - TAME THE WILDS
+
+- Reste a distance moyenne pour lire les coups de bras.
+- Attaque apres une frappe qui vient de finir et roule hors de la zone
+  dangereuse au lieu de rester sous le boss.
+- Quand les racines divisent l'arene, l'attaque lourde les repousse
+  temporairement et rend un passage.
+- Quand le nuage apparait, reste pres de la fleur bleue pour garder une zone
+  respirable, puis reprends l'attaque apres la fin du nuage.
+
+SHUN THE GODS - JERA
+
+- N'active aucun pouvoir divin.
+- Les fenetres les plus sures sont juste apres le coup de bras et apres le
+  slam. Place une attaque lourde, recule, puis recommence.
+- Les ronces ne sont pas necessaires pour gagner : evite les detours et
+  privilegie la securite.
+
+VEGETARIAN
+
+- Ne touche aucune vigne invoquee par Jera.
+- N'utilise pas d'attaque large qui pourrait couper une vigne en passant.
+- Reste face au corps de Jera, attends sa fin d'animation et frappe uniquement
+  la zone du boss.
+- Si une vigne apparait entre Thora et Jera, change d'angle plutot que de la
+  traverser.
+
+PERFECT JERA
+
+- Une touche annule la tentative.
+- Apprends d'abord les coups de bras et les cloisons de racines sans chercher
+  le temps.
+- Le bouclier de Heimdall est autorise et utile pour sécuriser une sequence,
+  mais conserve ses charges pour les moments ou une esquive serait risquee.
+
+TIME TRIAL - JERA - MOINS DE 25 SECONDES
+
+- Utilise Manteau de Freyja pour accelerer les ouvertures.
+- Enchaine une attaque lourde pendant les ouvertures, puis Lance d'Odin si
+  elle est disponible.
+- Ne poursuis pas une cible hors position : attends le retour vers le centre,
+  sinon tu perds plus de temps en deplacements qu'en degats.
+- Une tentative de temps est incompatible avec Vegetarian si tu n'as pas
+  parfaitement memorise les apparitions de vignes ; fais d'abord Vegetarian.
+
+BOSS 02 - FÉ
+
+VICTOIRE NORMALE - DEFEAT THE DARKNESS
+
+- Les nains et leurs marteaux sont la menace prioritaire quand ils saturent
+  la salle.
+- Le bouclier de Fé peut etre renvoye avec une attaque lourde chargee.
+- Les piliers invoques peuvent etre detruits pour faire tomber des debris sur
+  Fé. Utilise cette option quand les ennemis sont eloignes.
+- Ne reste pas colle au boss : garde un angle de sortie pour les marteaux et
+  les charges.
+
+SHUN THE GODS - FÉ
+
+- N'utilise aucun pouvoir.
+- Reste loin apres le slam pour encourager le lancer de bouclier.
+- Renvoye le bouclier avec l'attaque lourde et detruis les piliers quand ils
+  offrent une trajectoire sure.
+- Les petites erreurs de placement coutent moins cher que de forcer un coup :
+  la patience est la strategie.
+
+PERFECT FÉ
+
+- Controle les nains avant de frapper Fé.
+- Evite le marteau au retour, pas seulement le nain qui le lance.
+- Utilise les piliers comme sources de degats a distance et garde un espace
+  libre autour de Thora.
+- Heimdall peut couvrir un lancer difficile, mais ne depense pas toutes les
+  charges avant la seconde partie du combat.
+
+ULTIMATE FE'S-BEE
+
+- Ne porte aucune attaque de hache directement sur Fé.
+- Inflige les degats avec les interactions indirectes : renvoi de bouclier,
+  debris des piliers et Lance d'Odin si elle est autorisee dans cette
+  tentative.
+- Tu peux eloigner les nains pour survivre, mais verifie que ton attaque ne
+  touche pas Fé par ricochet.
+- Si l'attaque lourde est utilisee pour renvoyer le bouclier, elle doit
+  toucher le bouclier, jamais le corps de Fé.
+
+TIME TRIAL - FÉ - MOINS DE 25 SECONDES
+
+- Lance le combat avec Manteau de Freyja, puis profite d'une ouverture pour
+  utiliser Marteau de Thor et Lance d'Odin.
+- Renvoyer le premier bouclier est plus fiable que courir apres Fé.
+- Detruis les piliers seulement s'ils sont deja alignes avec le boss.
+- Ignore les nains non dangereux ; chaque seconde de nettoyage inutile mange
+  la marge du chrono.
+
+BOSS 03 - ISA
+
+VICTOIRE NORMALE - CONQUER THE COLD
+
+- Le souffle de glace ralentit Thora : cours vers Isa plutot que de tenter
+  une esquive laterale tardive.
+- Les blocs de glace de l'arene peuvent etre repousses vers Isa avec l'attaque
+  lourde.
+- Entre et sors rapidement de la zone de contact ; reste mobile quand les
+  blocs commencent a tomber.
+- Attaque le point faible apres une ouverture, puis recule avant le prochain
+  souffle.
+
+SHUN THE GODS - ISA
+
+- Aucun pouvoir divin.
+- Utilise les attaques rapides et lourdes sur les ouvertures normales.
+- Pour eviter le souffle, avance directement vers Isa puis passe sur le cote.
+- Ne transforme pas cette tentative en Sniper : ce sont deux conditions
+  differentes et une attaque sur Isa annule Sniper.
+
+PERFECT ISA
+
+- Une touche de souffle ou de bloc annule la tentative.
+- Marche en cercle, puis roule seulement quand l'attaque est verrouillee.
+- Garde Heimdall pour les sequences de blocs difficiles si tu choisis de
+  l'utiliser.
+- N'attaque pas pendant que la glace tombe autour de Thora : la sortie est
+  prioritaire.
+
+SNIPER
+
+- Ne blesse Isa qu'avec les icebergs / blocs de glace.
+- Place-toi a distance, charge l'attaque lourde et repousse un bloc vers Isa.
+- Ne touche pas Isa directement avec la hache : un bloc trop proche peut
+  toucher le boss et Thora en meme temps.
+- Si le bloc est colle a Isa, recule avant de le frapper pour eviter une
+  collision de melee.
+- Cette tentative n'a pas besoin de pouvoirs : n'en active aucun pour garder
+  la lecture de la condition simple.
+
+TIME TRIAL - ISA - MOINS DE 60 SECONDES
+
+- Utilise Freyja pour les deplacements et Odin pour les gros degats.
+- Ne poursuis pas Isa dans le souffle : coupe sa trajectoire en passant
+  derriere lui.
+- Exploite les blocs deja proches, mais n'attends pas un iceberg eloigne si
+  une attaque lourde directe est disponible.
+
+BOSS 04 - HAGALAZ
+
+VICTOIRE NORMALE - WEATHER THE STORM
+
+- Les quatre paratonnerres de l'arene sont des outils : les attaques de
+  Hagalaz peuvent les activer.
+- Si les quatre sont touches, Hagalaz est foudroyee et reste vulnerable un
+  court instant.
+- Quand elle cree un clone, les deux partagent la meme barre de vie. Tu peux
+  donc frapper le clone si Hagalaz est dangereuse.
+- Une attaque du clone peut aussi etourdir Hagalaz ; reste mobile autour des
+  bords de l'arene.
+
+SHUN THE GODS - HAGALAZ
+
+- Aucun pouvoir divin.
+- Utilise les attaques rapides et accepte un combat plus long.
+- Les quatre paratonnerres peuvent servir a creer des ouvertures, mais ne
+  force pas leur activation si la foudre arrive sur Thora.
+- En seconde phase, le clone partage la barre : choisis la cible la plus
+  sure, pas forcement Hagalaz.
+
+PERFECT HAGALAZ
+
+- Evite les petites ondes de choc des paratonnerres actifs.
+- Ne reste jamais au centre lorsque les marqueurs de foudre apparaissent.
+- Le Double de Loki peut attirer une attaque loin de Thora ; Heimdall peut
+  securiser une transition.
+- Si un paratonnerre est deja actif et provoque des ondes, recule et attends
+  la fin de la sequence plutot que de frapper.
+
+NO K.O.
+
+- Ne mets jamais Hagalaz au sol.
+- N'active pas les quatre paratonnerres avec ses propres attaques, car cette
+  combinaison la met au sol.
+- Evite aussi les coups lourds qui provoquent une mise au sol.
+- Utilise des attaques rapides, vise les ouvertures courtes et arrete de
+  frapper des que l'animation de destabilisation commence.
+- Tu peux terminer le combat alors que le clone est actif : la barre est
+  partagee.
+
+TIME TRIAL - HAGALAZ - MOINS DE 60 SECONDES
+
+- Utilise Odin et Freyja pendant les fenetres de vulnerabilite.
+- Provoque une ouverture par les paratonnerres uniquement si tu es hors de
+  la trajectoire de la foudre.
+- Quand le clone arrive, frappe celui qui est le plus proche ; changer de
+  cible fait perdre le chrono.
+- Cette tentative n'est pas No K.O. : profite des mises au sol pour gagner
+  du temps.
+
+BOSS 05 - KAUNAN
+
+VICTOIRE NORMALE - BRAVE THE INFERNO
+
+- Les cratères signalent les zones d'impact : quitte-les avant l'explosion.
+- Les attaques de feu se lisent mieux en mouvement circulaire qu'en esquive
+  repetee.
+- Tu peux passer entre les jambes de Kaunan pour rejoindre rapidement son
+  autre cote.
+- Frappe apres un saut ou une charge terminee, puis eloigne-toi avant le
+  prochain cratere.
+
+SHUN THE GODS - KAUNAN
+
+- N'utilise aucun pouvoir.
+- Apprends la position des cratères et prends seulement les ouvertures apres
+  les impacts.
+- Reste sous Kaunan uniquement le temps necessaire pour passer de l'autre
+  cote ; ne t'y enferme pas.
+
+PERFECT KAUNAN
+
+- Une touche de feu ou de cratere annule la tentative.
+- Reste sur le bord de l'arene et reviens frapper au centre de la fenetre.
+- Utilise Heimdall pour traverser une sequence dense si necessaire.
+- Ne confonds pas une esquive reussie avec une zone de lave persistante :
+  attends sa disparition avant d'attaquer.
+
+RISKY BUSINESS
+
+- Amene Kaunan tres bas en vie sans le vaincre.
+- Fais ensuite baisser la vie de Thora sous 10 % en restant dans une zone
+  d'impact de cratere, avec une marge de securite suffisante pour survivre.
+- Termine Kaunan immediatement apres le passage sous 10 %.
+- N'utilise pas Soin de Frigg entre les deux et ne prends pas de coup
+  supplementaire inutile.
+- Si tu meurs, la condition est ratee : recommence la tentative depuis le
+  debut.
+
+TIME TRIAL - KAUNAN - MOINS DE 80 SECONDES
+
+- Utilise Manteau de Freyja pour entrer et sortir des ouvertures.
+- Lance d'Odin sur les apparitions fixes, puis attaque lourde quand Kaunan
+  termine une charge.
+- Passe entre ses jambes au lieu de faire le tour complet de l'arene.
+- Ne perds pas de temps a detruire un cratere : le mouvement est plus rapide.
+
+BOSS 06 - ODIN
+
+VICTOIRE NORMALE - VALHALLA AWAITS
+
+- La premiere partie du combat lance moins de lances ; les parties suivantes
+  en lancent davantage.
+- Une lance peut etre detruite avec une attaque rapide ou bloquee avec le
+  Bouclier de Heimdall.
+- Elimine les lances qui bloquent une trajectoire avant de tenter une attaque
+  lourde sur Odin, sauf pour Gungnir-phobia.
+- Place les attaques sur les ouvertures et garde une sortie libre autour de
+  Thora.
+
+SHUN THE GODS - ODIN
+
+- Aucun pouvoir divin.
+- Detruis les lances avec les attaques rapides des qu'elles apparaissent.
+- Ne charge pas une attaque lourde si une lance arrive : la survie prime.
+- Apres chaque serie de lances, frappe Odin puis replace-toi au centre.
+
+PERFECT ODIN
+
+- Aucune touche, y compris une lance ou une onde de contact.
+- Le Bouclier de Heimdall est le pouvoir le plus simple pour couvrir la
+  seconde partie du combat.
+- Garde ses charges pour la phase ou plusieurs lances arrivent ; au debut,
+  une esquive propre suffit.
+- Verifie la barre de degats de l'arene avant de quitter.
+
+GUNGNIR-PHOBIA
+
+- Ne detruis aucune lance avec une attaque normale.
+- Evite les lances ou bloque-les avec le Bouclier de Heimdall.
+- Les degats sur Odin restent autorises, mais ne fais pas passer une attaque
+  rapide sur une lance par reflexe.
+- Fais une tentative separee de Shun the Gods : les deux methodes demandent
+  des reactions opposees face aux lances.
+
+TIME TRIAL - ODIN - MOINS DE 60 SECONDES
+
+- Utilise Manteau de Freyja puis Lance d'Odin sur les ouvertures.
+- Marteau de Thor augmente les degats lourds mais ralentit leur preparation :
+  active-le seulement si tu maitrises le timing.
+- Detruis les lances avec des attaques rapides, sans laisser la salle se
+  remplir.
+- Chaque seconde de deplacement inutile compte : passe a travers les
+  ouvertures plutot que de contourner l'arene.
+
+======================================================================
+07. MODE VALHALLA - ROUTE ET VALIDATIONS
+======================================================================
+
+FONCTIONNEMENT
+
+- Valhalla est un mode de combats successifs contre les six boss.
+- Les boss ont davantage de vie et des attaques renforcees.
+- Les pouvoirs et la sante maximale sont fournis pour le mode.
+- Les validations parfaites et sans pouvoirs se controlent boss par boss dans
+  Highscores : elles ne demandent pas forcement une seule run sans erreur du
+  debut a la fin.
+
+ORDRE D'APPRENTISSAGE CONSEILLE
+
+1. Jera : apprend les ouvertures et les racines.
+2. Isa : apprends le souffle et les blocs.
+3. Kaunan : apprends les cratères et les passages entre les jambes.
+4. Hagalaz : apprends les paratonnerres et les clones.
+5. Fé : garde la salle, les nains et les boucliers pour la fin.
+6. Odin : termine sur les lances et les trajectoires.
+
+L'ordre de selection peut varier selon l'ecran du mode. L'objectif de cette
+liste est de reduire la fatigue et de ne pas commencer par les patterns les
+plus aleatoires.
+
+VALHALLA - PLAN DE POUVOIRS
+
+- Soin de Frigg : reserve-le a une run de victoire normale, jamais a une
+  run Shun the Gods.
+- Manteau de Freyja : acceleration pour les ouvertures et les changements
+  de cote.
+- Marteau de Thor : gros degats lourds, mais preparation plus lente.
+- Double de Loki : attire les attaques pendant les patterns charges.
+- Bouclier de Heimdall : outil principal des runs parfaites.
+- Lance d'Odin : degats a distance et finition rapide.
+
+VALHALLA - JERA
+
+- Sans pouvoir : frappe lourde uniquement apres le slam ou sur le ventre,
+  puis recule. Les coups sur les bras sont secondaires.
+- Sans degat : evite le slam avant toute recherche de degats ; les racines
+  et les vignes doivent etre lues avant d'attaquer.
+- Controle la barre de vie : une mise au sol au mauvais moment peut t'envoyer
+  dans une zone de racines.
+
+VALHALLA - FÉ
+
+- Sans pouvoir : reste loin pour provoquer les lancers de bouclier.
+  Renvoye-le avec l'attaque lourde et utilise les piliers pour nettoyer la
+  salle lorsque les nains deviennent trop nombreux.
+- Sans degat : une premiere attaque legere et une lourde peuvent suffire
+  avant le premier slam ; ne force pas une seconde ouverture si les nains
+  sont mal places.
+- Garde les piliers non detruits tant qu'ils peuvent faire tomber les nains
+  et offrir une zone de respiration.
+
+VALHALLA - ISA
+
+- Sans pouvoir : utilise le mouvement direct vers Isa pour eviter son souffle.
+- Sans degat : marche avant de rouler et garde un bloc de glace entre toi et
+  une ligne d'attaque.
+- Ne frappe pas un iceberg si Isa est trop proche : le recul de Thora peut
+  te placer dans le prochain impact.
+
+VALHALLA - HAGALAZ
+
+- Sans pouvoir : les attaques rapides sont plus fiables que les charges.
+  Oriente tes deplacements de façon a ne pas amener la foudre sur Thora.
+- Sans degat : le Double de Loki peut attirer une foudre, mais verifie que
+  Thora n'est pas dans l'onde de retour.
+- Si les clones remplissent l'ecran, choisis la cible la plus proche et
+  concentre les degats : les barres sont partagees.
+
+VALHALLA - KAUNAN
+
+- Kaunan est la priorite absolue lorsqu'il apparait : ses sauts et ses
+  cratères punissent les trajectoires previsibles.
+- Sans pouvoir : reste patient, roule hors des impacts et prends une seule
+  attaque lourde par ouverture.
+- Sans degat : ne double pas une esquive deja reussie ; le cratere persiste
+  parfois apres l'impact.
+
+VALHALLA - ODIN
+
+- Apprends a lire les lances avant de chercher le chrono.
+- Sans pouvoir : detruis rapidement les lances avec les attaques rapides,
+  puis frappe Odin.
+- Sans degat : utilise Heimdall quand plusieurs trajectoires se croisent et
+  garde le centre de l'arene libre.
+- Pour une run Valhalla complete, controle les six resultats Highscores avant
+  de conclure.
+
+VALIDATION VALHALLA
+
+- [ ] Valkyrie : les six boss de Valhalla vaincus.
+- [ ] Perfect Valhalla : degats a 0 pour chacun des six boss.
+- [ ] Shun the Gods - Valhalla : pouvoirs utilises a 0 pour chacun des six.
+- [ ] Highscores controles apres le dernier combat.
+
+======================================================================
+08. ORDRE DE DEBLOCAGE DES 36 SUCCES
+======================================================================
+
+PROGRESSION AUTOMATIQUE
+
+- Tame the Wilds : Jera vaincue en Histoire.
+- Defeat the Darkness : Fé vaincue en Histoire.
+- Conquer the Cold : Isa vaincu en Histoire.
+- Weather the Storm : Hagalaz vaincue en Histoire.
+- Brave the Inferno : Kaunan vaincu en Histoire.
+- Valhalla Awaits : Odin vaincu en Histoire.
+
+COLLECTE ET 100 %
+
+- Impress the Gods : les 9 sanctuaires actives.
+- Ithunn's Chosen : les 9 pommes d'Ithunn ramassees.
+- Completionist : bosses, sanctuaires, pommes et fontaines de sante valides.
+
+CONDITIONS DEDIEES
+
+- Shun the Gods - Jera : Jera sans pouvoir.
+- Shun the Gods - Fé : Fé sans pouvoir.
+- Shun the Gods - Isa : Isa sans pouvoir.
+- Shun the Gods - Hagalaz : Hagalaz sans pouvoir.
+- Shun the Gods - Kaunan : Kaunan sans pouvoir.
+- Shun the Gods - Odin : Odin sans pouvoir.
+- Vegetarian : Jera sans tuer de vigne.
+- Ultimate Fe's-bee : Fé sans attaque de melee sur Fé.
+- Sniper : Isa vaincu uniquement avec les icebergs.
+- No K.O. : Hagalaz vaincue sans mise au sol.
+- Risky Business : Kaunan vaincu avec moins de 10 % de sante.
+
+PERFECTS ET CONTRE-LA-MONTRE
+
+- Perfect Jera : Jera sans degat.
+- Perfect Fé : Fé sans degat.
+- Perfect Isa : Isa sans degat.
+- Perfect Hagalaz : Hagalaz sans degat.
+- Perfect Kaunan : Kaunan sans degat.
+- Perfect Odin : Odin sans degat.
+- Time Trial - Jera : moins de 25 secondes.
+- Time Trial - Fé : moins de 25 secondes.
+- Time Trial - Isa : moins de 60 secondes.
+- Time Trial - Hagalaz : moins de 60 secondes.
+- Time Trial - Kaunan : moins de 80 secondes.
+- Time Trial - Odin : moins de 60 secondes.
+
+VALHALLA
+
+- Valkyrie : Valhalla termine.
+- Perfect Valhalla : Valhalla sans degat.
+- Shun the Gods - Valhalla : Valhalla sans pouvoir.
+
+======================================================================
+CHECKLIST STEAM FINALE - 36/36
+======================================================================
+
+- [ ] 01. Tame the Wilds - vaincre Jera.
+- [ ] 02. Defeat the Darkness - vaincre Fé.
+- [ ] 03. Conquer the Cold - vaincre Isa.
+- [ ] 04. Weather the Storm - vaincre Hagalaz.
+- [ ] 05. Shun the Gods - Jera - vaincre Jera sans pouvoir divin.
+- [ ] 06. Brave the Inferno - vaincre Kaunan.
+- [ ] 07. Valhalla Awaits - vaincre Odin.
+- [ ] 08. Impress the Gods - activer les 9 sanctuaires.
+- [ ] 09. Vegetarian - vaincre Jera sans tuer de vigne.
+- [ ] 10. Ithunn's Chosen - ramasser les 9 pommes.
+- [ ] 11. Gungnir-phobia - vaincre Odin sans detruire de lance.
+- [ ] 12. Risky Business - vaincre Kaunan sous 10 % de sante.
+- [ ] 13. Completionist - terminer l'Histoire a 100 %.
+- [ ] 14. Perfect Jera - vaincre Jera sans degat.
+- [ ] 15. Shun the Gods - Fé - vaincre Fé sans pouvoir divin.
+- [ ] 16. Shun the Gods - Isa - vaincre Isa sans pouvoir divin.
+- [ ] 17. Time Trial - Jera - moins de 25 secondes.
+- [ ] 18. Shun the Gods - Hagalaz - vaincre Hagalaz sans pouvoir divin.
+- [ ] 19. Shun the Gods - Kaunan - vaincre Kaunan sans pouvoir divin.
+- [ ] 20. Sniper - vaincre Isa uniquement avec les icebergs.
+- [ ] 21. Perfect Isa - vaincre Isa sans degat.
+- [ ] 22. Perfect Fé - vaincre Fé sans degat.
+- [ ] 23. Perfect Kaunan - vaincre Kaunan sans degat.
+- [ ] 24. Time Trial - Fé - moins de 25 secondes.
+- [ ] 25. Time Trial - Isa - moins de 60 secondes.
+- [ ] 26. Ultimate Fe's-bee - vaincre Fé sans attaque de melee.
+- [ ] 27. No K.O. - vaincre Hagalaz sans la mettre au sol.
+- [ ] 28. Perfect Hagalaz - vaincre Hagalaz sans degat.
+- [ ] 29. Perfect Odin - vaincre Odin sans degat.
+- [ ] 30. Time Trial - Hagalaz - moins de 60 secondes.
+- [ ] 31. Time Trial - Kaunan - moins de 80 secondes.
+- [ ] 32. Time Trial - Odin - moins de 60 secondes.
+- [ ] 33. Shun the Gods - Odin - vaincre Odin sans pouvoir divin.
+- [ ] 34. Valkyrie - terminer le mode Valhalla.
+- [ ] 35. Perfect Valhalla - terminer Valhalla sans degat.
+- [ ] 36. Shun the Gods - Valhalla - terminer Valhalla sans pouvoir.
+
+VERIFICATION FINALE ET SOURCES
+
+- [ ] Steam affiche 36 succes sur 36.
+- [ ] La carte de chaque zone ne montre plus d'objet ou de fontaine allume.
+- [ ] Highscores confirme 0 degat pour les six combats Perfect Valhalla.
+- [ ] Highscores confirme 0 pouvoir pour les six combats Shun the Gods -
+  Valhalla.
+- [ ] Le jeu est termine sans spoiler narratif non necessaire.
+
+SOURCES DE CONTROLE
+
+- Liste officielle Steam des succes :
+  https://steamcommunity.com/stats/323580/achievements
+- Guide Steam des pommes d'Ithunn :
+  https://steamcommunity.com/sharedfiles/filedetails/?id=643281340
+- Guide Steam des sanctuaires :
+  https://steamcommunity.com/sharedfiles/filedetails/?id=722548202
+- Guide de reperage et de trophees utilise pour recouper les landmarks :
+  https://www.trophies.de/forum/thema/162988-troph%C3%A4en-leitfaden-jotun-valhalla-edition/
+- Guide de strategie Valhalla :
+  https://www.gamenguides.com/how-to-get-all-valhalla-mode-achievements-in-jotun-valhalla-edition
+- Fiche officielle Thunder Lotus :
+  https://thunderlotusgames.com/press-kits/jotun-press-kit/
+
+FIN DE LA FICHE - JOTUN 100 % STEAM
