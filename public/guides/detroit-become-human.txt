@@ -1,122 +1,898 @@
 DETROIT: BECOME HUMAN
-GUIDE CHRONOLOGIQUE 100 % STEAM - SANS SPOILER
+GUIDE CHRONOLOGIQUE COMPLET - 100 % STEAM - SANS SPOILER
 
-Version de travail : 10 aout 2026
+Version editoriale : 12 aout 2026
+Plateforme : Steam - AppID 1222140
+Perimetre : chapitres, 46 magazines, branches de Flowchart, survivants,
+relations, fins et 48 succes Steam.
 
-Ce parcours couvre les 48 succes Steam de l'AppID 1222140, les chapitres,
-magazines, embranchements, personnages, fins et la Flowchart. Le 100 %
-demande plusieurs parcours et de nombreuses reprises de chapitre ; aucun DLC
-ni succes en ligne n'est requis.
+PROMESSE DE LA FICHE
 
-OBJECTIF
+Detroit ne se complete pas avec une seule ligne droite. Les magazines changent
+selon les decisions, Connor peut mourir puis revenir, et les chapitres suivants
+dependent de ce qui a ete conserve. Cette fiche separe la route protegee, les
+reprises agressives, les morts de Connor, les magazines conditionnels et le
+nettoyage Flowchart.
 
-[ ] 48/48 succes Steam.
-[ ] Premier parcours protege avec survivants et magazines.
-[ ] Parcours agressif et parcours de choix alternatifs.
-[ ] 100 % des noeuds de Flowchart de chaque chapitre.
-[ ] Tous les magazines, fins, chapitres et objectifs de relation.
+Le guide donne les actions et les points de sauvegarde sans raconter les
+revelations ni les consequences narratives. Les noms de chapitres, de
+personnages et de succes sont utilises comme reperes de navigation.
+
+OBJECTIF 100 %
+
+- 48 succes Steam.
+- 46 magazines lus dans Extras, avec les deux couvertures de chaque revue.
+- Tous les chapitres debloques et toutes les Flowcharts remplies.
+- Une route protegee avec Kara, Alice, Luther, Markus, North, Simon, Josh,
+  Connor et Hank disponibles pour les succes de survivants.
+- Une route de revolution, une route de demonstration pacifique, une route
+  Connor machine et une route Connor deviant.
+- Les 10 morts de Connor necessaires a I'll Be Back.
+- 20 000 points bonus depenses pour These Are Our Stories.
+- Les variantes de fin necessaires a Survivors, Happy Family, Safe Harbor,
+  Escape Death, An Army of Me, Mission Complete et My Turn to Decide.
 
 GARDE-FOUS ABSOLUS
 
-- Ne cherche pas le 100 % de Flowchart sur la premiere partie. Fais un
-  parcours coherent, puis utilise les reprises pour les branches.
-- Desactive la suppression automatique des sauvegardes si ton installation
-  le permet et garde un emplacement manuel au debut de chaque chapitre.
-- Pour chaque reprise, joue jusqu'a la fin du chapitre afin que la Flowchart
-  enregistre les noeuds. Quitter immediatement apres un choix peut ne pas
-  mettre a jour le profil.
-- Les magazines sont cumulatifs. Ramasse-les dans l'ordre et note le numero
-  de scene, sans chercher la solution narrative autour.
-- Aucun passage ne revele une mort, une identite, une fin, une trahison ou
-  une consequence narrative.
+- Active la sauvegarde et ne desactive pas la fonction Save pendant les
+  parcours de Flowchart.
+- Apres une reprise de chapitre, joue jusqu'a l'ecran de Flowchart pour
+  enregistrer les noeuds. Pour un magazine seul, le ramassage reste conserve
+  dans Extras, mais la Flowchart ne se remplit pas si tu quittes trop tot.
+- Lis les deux couvertures et toutes les pages de chaque magazine. La simple
+  detection jaune ne valide pas Bookworm.
+- Les magazines alternatifs ne se debloquent pas en sautant directement au
+  chapitre qui les contient. Repars du chapitre ou la decision a ete prise et
+  continue sans sauter jusqu'au magazine.
+- Garde une sauvegarde avant Stormy Night, Broken, Fugitives, Capitol Park,
+  Freedom March, Crossroads et Night of the Soul.
+- Ne tente pas I'll Be Back pendant la route Survivors. Les morts de Connor
+  ferment des branches, des relations et des fins.
+- Ne poursuis pas la Flowchart 100 % pendant la premiere partie. Termine
+  d'abord une route coherente, puis nettoie les petits noeuds.
+- Le 100 % Flowchart est plus large que les 48 succes. Il faut refaire des
+  choix locaux, mais le jeu conserve les noeuds deja valides.
 
-MISSABLES ET BRANCHES
+MISSABLES ET BRANCHES SENSIBLES
 
-- Magazines, relations, survivants, scenes optionnelles, choix de chapitre,
-  fins et Flowchart. Les succes de parcours necessitent des sauvegardes
-  separees avant les gros carrefours.
+- Magazines conditionnels : #28/#29, #15/#32, #35/#41, #43/#44 et #45/#46.
+- Personnages a proteger : Kara, Alice, Luther, Markus, North, Simon, Josh,
+  Connor et Hank pour la route Survivors.
+- Relations a maintenir : Hank ami, Kara/Alice proches et membres de Jericho
+  disponibles avant Crossroads.
+- Les succes de morts et de branches exclusives se font dans des sauvegardes
+  separees. Ne remplace pas la route protegee avant d'avoir valide la reprise.
+- Une decision ancienne doit etre rejouee en continu jusqu'au chapitre qui
+  affiche le magazine ou le noeud. Un saut direct peut laisser la mauvaise
+  couverture.
 
-ORDRE DE PARTIE
+ROUTES DE PARTIE
 
-1. Premier parcours protege : exploration, magazines et choix coherents.
-2. Reprises locales pour les succes de chapitre.
-3. Parcours agressif et choix alternatifs.
-4. Flowchart chapitre par chapitre, puis fins et verification finale.
+RUN 1 - ROUTE PROTEGEE ET MAGAZINES DE BASE
 
-PREMIER PARCOURS - ROUTE PROTEGEE
+- [ ] Commence une nouvelle partie en Standard.
+- [ ] Sauve Emma dans The Hostage, garde Kara et Alice ensemble, fais de
+  Markus un deviant, maintiens Hank en relation ami et protege les alliés.
+- [ ] Explore chaque salle, lis tous les magazines presents et termine chaque
+  chapitre avant de passer au suivant.
+- [ ] Choisis la demonstration pacifique pour obtenir une fin Survivors
+  stable et le magazine #45 plus tard.
+- [ ] Depense les points bonus dans Extras apres avoir atteint 20 000.
 
-- Dans chaque chapitre, inspecte chaque piece, parle aux personnages, lis les
-  indices et cherche les magazines avant le prochain objectif.
-- Pour les trois protagonistes, privilegie les actions qui gardent les
-  relations et les personnages disponibles. Ne relance pas une scene avant
-  d'avoir atteint son ecran de fin.
-- Sur les enquetes, analyse chaque indice, reconstruis la sequence et garde
-  les choix de dialogue coherents. Les succes de relation se basent sur
-  plusieurs chapitres, pas sur une seule scene.
-- Sur les chapitres en groupe, fouille les lieux, ouvre les portes et
-  sauvegarde les objets utiles. Un magazine peut apparaitre apres une action.
+RUN 2 - ROUTES ALTERNATIVES ET MAGAZINES
 
-MAGAZINES ET COLLECTIONS
+- [ ] Repars des carrefours indiques pour la revolution de Markus, les
+  magazines #43/#44, #46 et les variantes de Kara.
+- [ ] Rejoue The Eden Club pour Ruthless puis une seconde fois pour Doubts.
+- [ ] Rejoue Meet Kamski pour Priorities puis Kinship.
+- [ ] Rejoue Crossroads et Battle for Detroit pour An Army of Me,
+  Mission Complete, Safe Harbor et les fins alternatives.
 
-- Utilise une checklist numerotee par chapitre. Les magazines se trouvent
-  dans des tables, canapes, chambres, bureaux et zones de transition.
-- Lis chaque couverture ou ouvre l'interaction : ramasser seulement l'objet
-  ne suffit pas toujours pour la Flowchart.
-- Le succes Bookworm demande la collection complete ; controle le nombre
-  dans le menu avant de commencer les reprises.
+RUN 3 - CONNOR MACHINE ET MORTS
 
-REPRISES PAR TYPE DE SUCCES
+- [ ] Pars de The Hostage ou d'une sauvegarde de depart et fais mourir Connor
+  a chaque occasion possible sans sauter les chapitres intermediaires.
+- [ ] Continue la partie jusqu'a la derniere mort requise, puis termine pour
+  valider I'll Be Back.
+- [ ] Fais Compliant dans une reprise ou Connor reste une machine.
+- [ ] Fais One of Us dans une reprise ou Connor devient deviant.
 
-- Chapitres de relation : recharge le debut du chapitre, change uniquement
-  les dialogues et actions necessaires, puis termine le chapitre.
-- Chapitres de risque : garde une sauvegarde, teste l'action alternative et
-  finis le chapitre. Reviens ensuite a la route protegee.
-- Chapitres de furtivite et d'enquete : joue sans alerte, inspecte tous les
-  indices et ne passe pas le bouton d'analyse trop vite.
-- Chapitres de fuite : les succes RUN, escape, route et sauvetage demandent
-  parfois une action rapide. Rejoue en Standard et memorise les QTE.
+RUN 4 - FLOWCHART
 
-PARCOURS ALTERNATIFS
+- [ ] Rejoue chaque chapitre en partant du premier noeud divergent, pas du
+  debut de la partie complete, sauf lorsqu'une condition inter-chapitres est
+  indiquee.
+- [ ] Fais une branche a la fois et termine le chapitre. Le jeu garde les
+  noeuds des branches precedentes.
+- [ ] Controle la Flowchart de chaque chapitre et le compteur global de
+  magazines avant de fermer le guide.
 
-- Apres le premier parcours, fais une partie dediee aux choix agressifs. Note
-  les scenes qui changent de Flowchart et laisse le jeu aller jusqu'au bout.
-- Fais ensuite les choix de conciliation et les scenes de confiance restants.
-  Utilise toujours une sauvegarde de debut de chapitre.
-- Pour les succes qui exigent une fin precise, ne donne pas le resultat dans
-  tes notes : marque seulement la condition et le numero de sauvegarde.
+ORDRE DES CHAPITRES
 
-FLOWCHART 100 %
+1. The Hostage
+2. The Opening
+3. Shades of Color
+4. A New Home
+5. The Painter
+6. Partners
+7. Stormy Night
+8. Broken
+9. The Interrogation (optionnel si le deviant a ete trouve)
+10. Fugitives
+11. From the Dead
+12. Waiting for Hank...
+13. On the Run
+14. The Nest
+15. Jericho
+16. Time to Decide
+17. Zlatko
+18. Russian Roulette
+19. Spare Parts
+20. The Eden Club
+21. The Bridge
+22. The Stratford Tower
+23. The Pirates' Cove
+24. Public Enemy
+25. Midnight Train
+26. Capitol Park
+27. Meet Kamski
+28. Freedom March
+29. Last Chance, Connor
+30. Crossroads
+31. Night of the Soul
+32. Battle for Detroit
 
-- Un chapitre est complet seulement quand toutes ses cases de Flowchart sont
-  remplies, y compris les petits dialogues, inspections et objets.
-- Rejoue les chemins avec le moins de noeuds d'abord, puis les gros
-  embranchements. Le jeu conserve les noeuds deja valides.
-- Controle les chapitres des trois protagonistes, les scenes intermediaires,
-  les magazines et la grille globale avant de fermer la partie.
-- Certaines cases dependent d'un etat choisi plusieurs chapitres plus tot.
-  Si une case ne se debloque pas, recharge la sauvegarde du carrefour initial,
-  pas seulement le chapitre suivant.
+Les chapitres optionnels The Interrogation, Fugitives et certaines branches de
+Connor peuvent ne pas apparaitre si la condition precedente n'a pas ete
+debloquee. Ce n'est pas un bug : la Flowchart conserve l'etat du chapitre.
 
-SUCCES DE FIN ET DE RELATION
+CHAPITRE 1 - THE HOSTAGE
 
-- Survivors et objectifs d'equipe : fais d'abord la route protege, puis
-  recharge les carrefours pour les fins alternatives.
-- I'll Be Back, Ruthless, A Glimpse of Jericho, Just a Machine et les succes
-  de chapitre se valident par reprises ciblees ; ne mélange pas les runs.
-- Les succes de magazine et de Flowchart se controlent dans les statistiques
-  du jeu, puis dans le profil Steam.
+ZONE : appartement, couloir, cuisine, terrasse
+
+- [ ] Lance le chapitre pour Thank You. Fouille l'appartement avant de
+  rejoindre la terrasse : chaque indice augmente le taux de reussite.
+- [ ] Dans la cuisine, examine le corps de l'officier, la table, le pistolet,
+  le liquide au sol et les marques de lutte. Le pistolet devient utilisable
+  apres l'analyse de la scene.
+- [ ] Sur la terrasse, utilise les dialogues calmes et approche le deviant
+  sans courir. Pour la route protegee, sauve Emma par la solution qui evite le
+  tir final ; pour Mission Accomplished, recupere le pistolet et sauve Emma
+  avec le tir lorsque l'occasion est affichee.
+- [ ] Controle que le chapitre se termine avec Emma vivante pour la route
+  Survivors. Une reprise peut valider Mission Accomplished sans remplacer
+  cette route.
+- [ ] Connor peut mourir ici pour I'll Be Back. Fais-le uniquement dans RUN 3.
+- [ ] Le magazine de la cuisine est un objet de lecture de tutorial et ne
+  compte pas dans les 46 de Bookworm.
+
+CHAPITRE 2 - THE OPENING
+
+ZONE : magasin d'androids et sortie
+
+- [ ] Examine les androids, les rayons, le comptoir et la porte avant de
+  quitter le magasin. Les interactions ouvrent des noeuds de Flowchart.
+- [ ] Ramasse les vetements, change l'apparence de Kara et termine la sortie
+  sans perdre la sauvegarde de la route protegee.
+- [ ] Ce chapitre ne contient pas de magazine de Bookworm.
+- [ ] Controle que A New Home est disponible. Si Kara est abandonnee ici, les
+  chapitres de Kara et les succes de famille deviennent inaccessibles.
+
+CHAPITRE 3 - SHADES OF COLOR
+
+ZONE : parc, rue et Bellini Paints
+
+- [ ] Des le controle de Markus, prends le magazine sur le banc a droite,
+  pres du vieil homme. Il contient #10 Tech Addict: Secrets of Androids et
+  #19 Green Earth: Climate Change-Up.
+- [ ] Lis les deux couvertures avant de reprendre la course. Le marqueur jaune
+  n'est pas une validation.
+- [ ] Explore le parc, la fontaine, les passants, les affiches et la boutique.
+  Recupere la commande chez Bellini puis retourne au bus.
+- [ ] Ne provoque pas de collision avec les humains dans la route protegee.
+  Les interactions de foule et de vendeurs restent necessaires a la Flowchart.
+- [ ] Termine le chapitre et controle les deux magazines dans Extras.
+
+CHAPITRE 4 - A NEW HOME
+
+ZONE : maison de Todd, salon, cuisine, chambres
+
+- [ ] Dans la salle a manger, nettoie la table puis lis le magazine sur la
+  table : #22 All Sports: Android Power! et #1 Century: Connecting the Dots.
+- [ ] Monte dans la chambre principale de Todd. Sur le meuble pres de la
+  porte, lis #23 All Sports: Android QB et #11 Tech Addict: The Price of Life.
+- [ ] Nettoie chaque piece, observe Alice, ouvre les placards et cree une
+  relation Warm ou Trusted. Cette relation permet d'ouvrir la boite d'Alice.
+- [ ] Pour Secrets, obtiens la cle de la boite et examine son contenu.
+- [ ] Ne quitte pas la chambre d'Alice avant d'avoir inspecte les dessins, le
+  coffre et les interactions d'Alice.
+- [ ] La route protegee conserve Todd en vie pour une variante ulterieure,
+  mais ne change pas les magazines de ce chapitre.
+- [ ] Controle : quatre magazines lus, Secrets valide, Kara et Alice encore
+  disponibles.
+
+CHAPITRE 5 - THE PAINTER
+
+ZONE : maison de Carl, rez-de-chaussee, jardin et atelier
+
+- [ ] Dans le grand salon, lis le magazine sur la table basse devant la
+  television : #2 Century: The North Pole et #27 Detroit Today: Life Found
+  on Titan.
+- [ ] Explore le rez-de-chaussee, le jardin, l'atelier et les tableaux avant
+  de rejoindre Carl. Joue du piano, lis un livre ou joue aux echecs pour
+  ouvrir des noeuds qui pourront reapparaitre plus tard.
+- [ ] Maintiens la relation avec Carl en choisissant les interactions calmes.
+  Cette sauvegarde est utile a Survivors et a la variante de Night of the Soul.
+- [ ] Termine le chapitre sans sauter les transitions. Le magazine doit
+  apparaitre dans Extras avant la suite.
+
+CHAPITRE 6 - PARTNERS
+
+ZONE : Jimmy's Bar, maison Ortiz, cuisine et pieces de crime
+
+- [ ] Dans la maison, recueille les 10 indices de la scene avant de parler
+  a Hank. Analyse le corps, le sang, les traces, les armes, les murs, les
+  photos et les pieces secondaires.
+- [ ] Dans la cuisine, lis #25 Gossips Weekly: Android Sex Officially Better!
+  et #12 Tech Addict: Is Your Android Spying on You?
+- [ ] Pour Deviant Located, trouve les 10 indices, reconstruis le parcours et
+  explique la scene a Hank. L'acces au grenier apparait ensuite : monte et
+  trouve le deviant dans l'attique.
+- [ ] Pour Know Your Partner, observe tous les indices qui concernent Hank,
+  puis conserve la relation en choisissant les reponses qui montrent que tu
+  l'ecoutes. Le chapitre suivant donne une autre occasion de lire la photo
+  et les informations personnelles.
+- [ ] Dans la route protegee, ne tue pas le poisson dans le prologue, ne
+  brusque pas Hank et collecte les informations de la maison.
+- [ ] Pour I'll Be Back, Connor peut mourir ici dans RUN 3. Ne le fais pas
+  dans la route de Hank ami.
+
+CHAPITRE 7 - STORMY NIGHT
+
+ZONE : maison de Todd, chambre d'Alice, escalier et jardin
+
+- [ ] Rejoins Alice, prends le chemin de la chambre et declenche la decision
+  qui libere Kara de sa programmation.
+- [ ] Route Survivors : protege Alice, bats-toi, franchis la fenetre et
+  echappe-toi avec elle. Garde le pistolet trouve dans la chambre : il ouvre
+  des branches dans Fugitives.
+- [ ] Pour We Are Free, Kara et Alice doivent sortir vivantes de la maison.
+- [ ] Pour la Flowchart, fais aussi les variantes : ne pas se rebeller,
+  echouer la fuite, prendre ou laisser le pistolet, sortir par la fenetre,
+  l'escalier ou la porte.
+- [ ] Pour la route avec Todd vivant, reviens plus tard vers la gare routiere.
+  Pour la route protegee de Run 1, garde Kara et Alice ensemble.
+- [ ] Aucun magazine Bookworm n'est present ici. Termine le chapitre pour
+  enregistrer la possession du pistolet et les noeuds de sortie.
+
+CHAPITRE 8 - BROKEN
+
+ZONE : atelier de Carl, rue et maison
+
+- [ ] Pendant l'altercation, sauvegarde avant le choix. Pour Defend Yourself,
+  pousse Leo. Pour Self-Control, laisse Leo gagner.
+- [ ] Route Survivors : protege Carl, evite sa mort et conserve les chemins
+  de dialogue de la maison.
+- [ ] La decision modifie le magazine de Waiting for Hank : #28 Famous Detroit
+  Painter Dies si Markus ne pousse pas Leo, ou #29 The Three Laws of Robotic
+  Parenting si Markus le pousse.
+- [ ] Termine le chapitre apres la decision afin que la Flowchart conserve la
+  branche. Ne saute pas directement a Waiting for Hank avec Chapter Select
+  si tu veux la variante de magazine.
+
+CHAPITRE 9 - THE INTERROGATION
+
+ZONE : poste de police, salle d'interrogatoire
+
+- [ ] Ce chapitre apparait si Connor a trouve le deviant dans Partners.
+- [ ] Pour Confession, augmente la pression sans tuer le deviant et obtiens
+  une confession. Le timing de la machine et la temperature de la salle
+  modifient la barre de stress.
+- [ ] Route protegee : sauve le deviant apres la confession ou laisse Connor
+  completement controle sans compromettre la suite.
+- [ ] Pour I'll Be Back, laisse Connor mourir dans l'une des solutions de la
+  salle pendant RUN 3.
+- [ ] Rejoue aussi les variantes d'interrogatoire, de fuite et de tir pour
+  remplir la Flowchart. Termine le chapitre a chaque reprise.
+
+CHAPITRE 10 - FUGITIVES
+
+ZONE : rue, laverie, squat, motel et voiture abandonnee
+
+- [ ] Dans la laverie, lis le magazine sur le meuble pres de la porte :
+  #3 Century: The Bee-Line to Disaster et #26 Gossips Weekly: It's Time to
+  Face the Music.
+- [ ] Choisis un lieu pour dormir. Squat, motel et voiture ouvrent trois
+  routes de Flowchart et modifient les magazines de On the Run et Zlatko.
+- [ ] Route protegee : choisis le motel ou le squat, garde Alice au chaud,
+  nettoie le lieu et protege Kara.
+- [ ] Pour la voiture, ouvre la branche abandonnee avec les actions de
+  crochetage et conserve-la pour les magazines #15 et #41.
+- [ ] Controle la police : une route furtive evite la poursuite sur l'autoroute
+  et une route visible ouvre la course. Les deux sont necessaires au nettoyage.
+- [ ] Termine le chapitre et lis les deux magazines avant de choisir une autre
+  branche de sommeil.
+
+CHAPITRE 11 - FROM THE DEAD
+
+ZONE : morgue et laboratoire
+
+- [ ] Fais reconstituer la scene a Connor en analysant les indices. Chaque
+  reconstitution et chaque choix de sortie cree une case de Flowchart.
+- [ ] Pour la route protegee, garde Connor operationnel et construis une
+  relation Hank positive dans les chapitres suivants.
+- [ ] RUN 3 : utilise les options qui font mourir Connor pour avancer le
+  compteur I'll Be Back. Note la mort obtenue dans une feuille externe.
+- [ ] Aucun magazine Bookworm n'est requis ici. Termine le chapitre pour
+  enregistrer la nouvelle version de Connor.
+
+CHAPITRE 12 - WAITING FOR HANK...
+
+ZONE : commissariat, bureau et salle commune
+
+- [ ] Sur le bureau central du commissariat, lis le magazine. #30 Ivanoff Says
+  Niet! est toujours disponible.
+- [ ] Lis ensuite #28 Famous Detroit Painter Dies si Markus n'a pas pousse Leo
+  dans Broken, ou #29 The Three Laws of Robotic Parenting si Markus l'a pousse.
+- [ ] Les deux couvertures doivent etre ouvertes. La variante #28/#29 demande
+  une reprise continue depuis Broken, pas un saut direct.
+- [ ] Fais visiter le commissariat a Connor et recueille les informations
+  sur Hank. Controle son chien, sa boisson, ses photos, ses fichiers et ses
+  habitudes : cela construit Know Your Partner et Partners.
+- [ ] Pour Save Hank, ne l'abandonne pas dans les branches ou un tir ou une
+  chute est possible. Garde une sauvegarde avant le chapitre.
+- [ ] Pour I'll Be Back, utilise une reprise ou Connor meurt ici puis revient.
+- [ ] Termine le chapitre dans toutes les branches principales pour remplir
+  les cases de Flowchart.
+CHAPITRE 13 - ON THE RUN
+
+ZONE : rues, station, autoroute et bord de route
+
+- [ ] Le magazine #31 Detroit Today: Cyber Wildlife et le magazine non
+  numerote Canada: Canada still Android-Free Zone apparaissent a l'endroit
+  ou Kara et Alice dorment : cote gauche du squat, devant la television du
+  motel, ou devant la voiture abandonnee.
+- [ ] Pour Run Kara Run, echappe-toi de la police et franchis l'autoroute
+  avec Alice. Reussis tous les QTE et ne laisse pas Kara ou Alice etre
+  arretee.
+- [ ] Route furtive : reste dans l'ombre, detourne les policiers avec les
+  actions contextuelles et rejoins la gare sans declencher la poursuite.
+  Cette route prepare les magazines #15 et #41.
+- [ ] Route visible : laisse la police reperer Kara, declenche la course sur
+  l'autoroute et traverse sans accident. Cette route prepare le magazine #32
+  et les variantes de Flowchart.
+- [ ] Si tu as garde le pistolet de Stormy Night, explore la branche du
+  magasin et les actions optionnelles de la rue.
+- [ ] Termine le chapitre apres la nuit choisie. Les conditions de Zlatko et
+  Jericho dependront de ce parcours, donc ne saute pas les chapitres suivants.
+
+CHAPITRE 14 - JERICHO
+
+ZONE : gare et quai
+
+- [ ] Des que Markus descend du train, lis le magazine sur le banc a droite.
+  #13 Tech Addict: Android Astronauts est toujours disponible.
+- [ ] Au meme endroit, #32 Detroit Today: Android on the Run apparait si
+  Kara a fui Todd's House et a ete reperee puis echappee par l'autoroute.
+- [ ] #15 Tech Addict: Cyberlife's Fortune Teller Computer remplace #32 si
+  Kara a dormi dans la voiture abandonnee et a evite la police sans poursuite.
+  S'il manque, il peut reapparaitre dans Meet Kamski.
+- [ ] Pour Jericho's Hero, explore la gare, les indices, les rails et les
+  interactions qui donnent assez de pieces a Markus.
+- [ ] Termine le chapitre et controle les trois variantes de magazine dans
+  Extras avant de passer a The Nest.
+
+CHAPITRE 15 - THE NEST
+
+ZONE : immeuble, appartement et toiture
+
+- [ ] Au debut de la poursuite, quand Hank enfonce la porte, tourne
+  immediatement a droite dans la petite piece avant la salle aux oiseaux.
+  Sur la table, lis #20 Green Earth: Past the Tipping Point et #33 Detroit
+  Today: Red Ice Epidemic.
+- [ ] Pour Catch It, poursuis Rupert et rattrape-le avant la fin de la
+  poursuite. Reussis les QTE de toit et de corniche.
+- [ ] Pour Save Hank, choisis la route qui le protege lorsqu'il est en danger.
+  La relation avec Hank doit rester positive pour Partners.
+- [ ] Rejoue les variantes : Rupert capture, Rupert fuite, Connor bless e,
+  Hank sauve ou abandonne. Chaque fin de poursuite ajoute des noeuds.
+- [ ] RUN 3 : utilise la branche qui fait mourir Connor pour I'll Be Back,
+  puis finis la scene. Ne sauvegarde pas cette branche sur la route Survivors.
+
+CHAPITRE 16 - TIME TO DECIDE
+
+ZONE : quai et refuge de Jericho
+
+- [ ] Explore la zone de Jericho, les caisses, les murs, les passerelles et
+  les personnages avant de suivre l'objectif de Markus.
+- [ ] Route protegee : construis une relation de confiance et accepte les
+  recrues utiles. Les conversations ouvrent les noeuds de l'arbre.
+- [ ] La decision de Markus determine la force de son groupe dans les
+  chapitres suivants. Note-la dans la sauvegarde avant Spare Parts.
+- [ ] Aucun magazine physique n'est requis dans ce chapitre. Termine la
+  transition pour enregistrer Jericho's Hero.
+
+CHAPITRE 17 - ZLATKO
+
+ZONE : villa, couloirs, laboratoire et jardin
+
+- [ ] Apres la reinitialisation de Kara, explore toute la villa pour retrouver
+  Alice. Dans la chambre a l'etage, lis le magazine #34 Detroit Today:
+  Arctic Tensions Escalate.
+- [ ] Le meme magazine peut contenir #35 Detroit Today: Now Androids Alter
+  Your Brain si Kara a ete reperee et a subi la poursuite de l'autoroute.
+- [ ] #41 Detroit Today: AX400 Getaway remplace #35 si Kara a dormi dans la
+  voiture ou au motel puis a traverse On the Run sans detection et sans
+  poursuite. Les conditions doivent etre jouees en continu.
+- [ ] Pour Escape the Manor, libere Kara, retrouve Alice, reveille les
+  androids du laboratoire et sors avec Luther. Explore les cages avant de
+  rejoindre la sortie.
+- [ ] Route Survivors : garde Luther avec Kara et Alice. Une erreur dans les
+  QTE peut fermer Happy Family et Safe Harbor.
+- [ ] Rejoue la fuite sans sauver les autres, avec ou sans Luther, pour les
+  branches de Flowchart. Termine chaque reprise pour enregistrer les noeuds.
+
+CHAPITRE 18 - RUSSIAN ROULETTE
+
+ZONE : maison de Hank
+
+- [ ] Apres avoir conduit Hank a la salle de bain et apporte ses vetements,
+  explore la chambre. Sur le lit ou le meuble, lis #5 Century: Time to Pull
+  the Plug et #4 Century: Tainted Love.
+- [ ] Fouille la maison pendant que Hank se remet : photos, chien, cuisine,
+  bureau et objets de relation. Chaque interaction nourrit Know Your Partner.
+- [ ] Pour la route protectrice, garde Hank vivant et termine la conversation
+  sans diminuer la relation.
+- [ ] RUN 3 : provoque une mort de Connor compatible avec le compteur
+  I'll Be Back, puis termine la scene.
+- [ ] Termine le chapitre et lis les deux couvertures avant de quitter.
+
+CHAPITRE 19 - SPARE PARTS
+
+ZONE : entrepot et quai
+
+- [ ] Explore les caisses, les portes, les androids et les panneaux avant
+  d'ouvrir le chemin de sortie.
+- [ ] Pour Jericho's Hero, Markus doit rapporter assez de pieces et liberer
+  les androids utiles. Autorise John a rejoindre Jericho pour la route
+  Happy Family et les variantes de Crossroads.
+- [ ] Route protegee : ne sacrifie pas les membres de l'equipe et conserve les
+  options de fuite. La reputation de Markus doit rester suffisante.
+- [ ] Route agressive : rejoue le chapitre en refusant les aides ou en
+  prenant des risques pour les noeuds de Flowchart alternatifs.
+- [ ] Ce chapitre ne contient pas de magazine Bookworm. Termine la mission
+  pour enregistrer l'arrivee de John et le total de pieces.
+
+CHAPITRE 20 - THE EDEN CLUB
+
+ZONE : club, entrepot et piste des Tracis
+
+- [ ] Dans l'entrepot, apres le suivi des Tracis, lis le magazine sur la caisse
+  au fond : #14 Tech Addict: The First Immortals Are Among Us et #36 Detroit
+  Today: The New Super-Powers. Fais-le avant de suivre les traces de sang bleu.
+- [ ] Pour Ruthless, poursuis les Tracis et tue-les. Cette route est necessaire
+  pour l'une des variantes de preuves et de Flowchart.
+- [ ] Pour Doubts, poursuis la route non letale et laisse les Tracis s'echapper.
+  Garde une sauvegarde avant la decision.
+- [ ] Route protegee : ne sacrifie pas Hank, ne tire pas sans necessite et
+  conserve la relation positive.
+- [ ] Rejoue aussi les branches de recherche, les cachettes et les options de
+  dialogue du club. Le montant d'indices influence Last Chance, Connor.
+- [ ] Termine chaque version du chapitre avant de verifier Ruthless ou Doubts.
+CHAPITRE 25 - MIDNIGHT TRAIN
+
+ZONE : maison de Rose, cuisine, salle a manger et porte d'entree
+
+- [ ] Sur la table de cuisine, attends que Rose parte puis lis #9 Century:
+  World War Three et le magazine non numerote Treat Yourself! Fais-le avant
+  d'ouvrir la porte au policier.
+- [ ] Pour Nothing to See Here, cache toute trace compromettante, nettoie
+  la cuisine et fais partir le policier sans qu'il decouvre les androids.
+- [ ] Explore la buanderie, les chambres et les fenetres avant de repondre.
+  Les actions de Kara et d'Alice modifient les noeuds de Flowchart.
+- [ ] Route Survivors : garde Luther et Alice caches, ne laisse pas le policier
+  entrer dans la zone interdite et termine la scene.
+- [ ] Rejoue la branche de detection, les fausses reponses et l'echec de
+  Midnight Train pour le nettoyage. Termine chaque version.
+
+CHAPITRE 26 - CAPITOL PARK
+
+ZONE : parking, magasin d'androids et avenue
+
+- [ ] Des que Markus devient controlable, tourne immediatement a gauche. Le
+  magazine est sur une caisse a quelques pas : #39 Detroit Today: Who is It?
+  et #7 Century: An Android for President?
+- [ ] Libere les androids du magasin pour ouvrir les branches de demonstration.
+  Explore les cameras, les vitrines, les panneaux et les objets de sabotage.
+- [ ] Pour Send a Message, conduis une emeute pacifique : choisis les actions
+  qui n'entrainent pas de victime et marque les murs sans escalade.
+- [ ] Pour Burn the Place, recharge et choisis la route violente, detruis les
+  commerces et provoque l'incendie.
+- [ ] La route violente prepare le magazine #42/#18 de Freedom March ; la
+  route pacifique prepare la demonstration et le magazine #45 final.
+- [ ] Termine les deux versions du chapitre. Ne remplace pas la sauvegarde
+  protegee avant d'avoir valide Send a Message.
+
+CHAPITRE 27 - MEET KAMSKI
+
+ZONE : villa, hall, salon et piscine
+
+- [ ] Apres l'ouverture de la porte, examine le tableau sur le mur droit du
+  hall. Le magazine sous le tableau devient lisible apres cette inspection :
+  #17 Tech Addict: Space Tourism on the Rise et #15 Tech Addict: Cyberlife's
+  Fortune Teller Computer.
+- [ ] Si #15 est deja valide par Jericho, lis quand meme la revue presente et
+  controle Extras pour eviter un faux manque.
+- [ ] Pour Priorities, tue Chloe. Pour Kinship, refuse de tuer Chloe. Fais
+  les deux dans des reprises separees avec une sauvegarde avant la decision.
+- [ ] Garde assez de logiciel instability pour la route Connor deviant, ou
+  reduis-la pour la route Compliant. Note l'etat avant de quitter Kamski.
+- [ ] Explore les tableaux, les couloirs et les interactions de la villa pour
+  remplir la Flowchart.
+
+CHAPITRE 28 - FREEDOM MARCH
+
+ZONE : rue, magasin et marche
+
+- [ ] Au debut du chapitre, regarde 1 ou 2 pas a gauche du point de depart.
+  Lis #42 Detroit Today: Android Riot et #18 Tech Addict: The Eastern Space
+  Race si la route Capitol Park etait violente.
+- [ ] Pour Stand Your Ground, reste face aux soldats et ne recule pas.
+- [ ] Pour Confrontation, recharge et attaque la police au moment propose.
+- [ ] Pour la route protegee, choisis la marche pacifique et garde la
+  reputation suffisante pour la fin Moral Victory.
+- [ ] La charge policiere ouvre #43/#44 dans Crossroads ; la route de
+  demonstration pacifique ouvre le magazine #45 dans Battle for Detroit.
+- [ ] Termine les versions pacifique, recul et attaque pour la Flowchart.
+
+CHAPITRE 29 - LAST CHANCE, CONNOR
+
+ZONE : commissariat, archives et evidence locker
+
+- [ ] Reunis les preuves accumulees dans The Nest, The Eden Club et Public
+  Enemy. Dans l'evidence locker, combine les elements valides et examine
+  chaque dossier.
+- [ ] Pour Bloodhound, trouve la localisation de Jericho avec Connor seul,
+  sans obtenir la reponse directement d'un autre personnage.
+- [ ] Ouvre les boites, les traces, les bandes et les echantillons. Une preuve
+  manquante peut fermer le chapitre et imposer une reprise depuis le dernier
+  grand carrefour.
+- [ ] Route protegee : conserve les deviant utiles et reste ami avec Hank.
+  Route machine : reduis le logiciel instability et garde Connor operationnel.
+- [ ] RUN 3 : utilise une preuve insuffisante pour fermer la recherche, ou
+  fais mourir Connor dans une branche ciblee pour I'll Be Back.
+- [ ] Termine le chapitre apres la reconstitution. Le succes Bloodhound
+  apparait a l'ecran de Flowchart si la localisation a ete obtenue.
+
+CHAPITRE 30 - CROSSROADS
+
+ZONE : Jericho, couloirs, salles de stockage et sortie
+
+- [ ] Maintiens Kara, Markus et Connor vivants jusqu'a ce chapitre pour
+  Three at Jericho. Si l'un est mort, recharge la decision initiale de sa
+  branche, pas seulement Crossroads.
+- [ ] Pour One of Us, fais choisir a Connor la voie deviant et reussis
+  l'evasion avec les autres androids.
+- [ ] Pour Compliant, garde Connor machine, obéis a l'ordre final et
+  termine la mission sans le faire changer de camp.
+- [ ] Pour Scorched Earth, Markus ou Connor doit detoner le freighter dans
+  la route correspondante. Cette branche est incompatible avec la route
+  protegee de Survivors.
+- [ ] Route Kara : explore chaque cabine, cachette, conduit et porte avant de
+  suivre Alice. Sauve Luther et ne laisse pas le groupe etre capture.
+- [ ] Pour Escape Death, si Kara et Alice sont envoyees au centre de recyclage,
+  ouvre la sortie et franchis la zone sans perdre Alice.
+- [ ] Rejoue Crossroads pour les branches de Connor, Markus et Kara en
+  conservant les chapitres intermediaires. Ne saute pas directement a Night
+  of the Soul lorsque le jeu demande Continue Story.
+- [ ] Controle : Three at Jericho, One of Us ou Compliant, Scorched Earth,
+  Escape Death et les magazines #43/#44 selon la route Freedom March.
+
+CHAPITRE 31 - NIGHT OF THE SOUL
+
+ZONE : refuge de Jericho et camp de Markus
+
+- [ ] Pour la route pacifique, choisis Demonstration. Pour la route agressive,
+  choisis Revolution. Fais les deux dans des sauvegardes differentes.
+- [ ] Explore la maison de Carl si elle est disponible : piano, echecs, livre,
+  tableaux et souvenirs ouvrent les noeuds de Flowchart.
+- [ ] Maintiens les relations : Hank ami pour Partners, Luther/Alice pour
+  Happy Family, et Simon/Josh/North pour Survivors.
+- [ ] La decision ici determines le magazine #45 ou #46 de Battle for Detroit.
+  Note la route dans le nom de la sauvegarde.
+- [ ] Ne lance pas la route Connor CyberLife Tower sans avoir valide One of
+  Us et la relation necessaire si tu vises Survivors.
+
+CHAPITRE 32 - BATTLE FOR DETROIT
+
+ZONE : routes Markus, Connor et Kara
+
+- [ ] Route Markus - Demonstration : avance pacifiquement, barricade le camp
+  et fais reculer les soldats pour Moral Victory. Le magazine #45 They Defy
+  Us se trouve sur un banc du camp apres la barricade.
+- [ ] Route Markus - Revolution : lance l'assaut et atteins le camp pour
+  Liberation. Le magazine #46 Civil War in Detroit apparait a l'arret de bus
+  de la route Kara si la revolution est active.
+- [ ] Route Connor - deviant : infiltre CyberLife Tower, convertis les
+  androids et valide An Army of Me. Pour My Turn to Decide, resiste a
+  l'attaque d'Amanda dans la zone mentale.
+- [ ] Route Connor - machine : reste une machine pour Compliant. Pour
+  Mission Complete, tue le leader deviant dans la fin appropriee.
+- [ ] Route Connor - relation : si Hank et Connor etaient amis, choisis les
+  reponses qui preservent cette relation. Une relation hostile peut ouvrir
+  Just a Machine si Hank tue Connor.
+- [ ] Route Kara - bus : atteins la gare routiere, recupere le magazine #46
+  sur la droite de l'arret si la route Markus Revolution est active, puis
+  franchis la frontiere pour Safe Harbor.
+- [ ] Route Kara - demonstration : le magazine #45 est dans le camp de
+  Markus ; Kara doit rester hors du centre de recyclage et rejoindre la
+  sortie avec Alice et Luther.
+- [ ] Pour Happy Family, Kara, Alice et Luther doivent etre ensemble a la fin.
+- [ ] Pour Survivors, tous les personnages principaux doivent etre vivants
+  lors du dernier ecran. Garde une sauvegarde avant chaque QTE final.
+- [ ] Pour I'll Be Back, termine la route Connor machine apres les morts
+  precedentes. Pour Undefeated, ne perds aucun combat de la partie active.
+- [ ] Termine le chapitre et laisse l'ecran de Flowchart s'afficher avant de
+  consulter les succes. Bookworm se valide apres la fin du chapitre.
+
+MAGAZINES 100 % - CONTROLE RAPIDE
+
+- #1 Connecting the Dots / #22 Android Power : A New Home, table de salle a
+  manger, apres nettoyage.
+- #11 Price of Life / #23 Android QB : A New Home, chambre de Todd, meuble
+  pres de la porte.
+- #2 North Pole / #27 Life Found on Titan : The Painter, table basse devant
+  la television.
+- #12 Is Your Android Spying / #25 Android Sex Officially Better : Partners,
+  cuisine de la maison Ortiz.
+- #3 Bee-Line to Disaster / #26 Face the Music : Fugitives, meuble de laverie.
+- #28 Famous Painter / #29 Robotic Parenting / #30 Ivanoff Says Niet :
+  Waiting for Hank, bureau central du commissariat ; #28/#29 dependent de
+  Broken, #30 est toujours present.
+- #31 Cyber Wildlife et Canada still Android-Free Zone : On the Run, lieu
+  choisi pour dormir.
+- #13 Android Astronauts / #32 Android on the Run / #15 Cyberlife Fortune
+  Teller : Jericho, banc de la gare ; #32 depend de la poursuite, #15 de la
+  voiture et de la route furtive.
+- #20 Past the Tipping Point / #33 Red Ice Epidemic : The Nest, petite piece
+  a droite apres l'ouverture de la porte, avant la salle aux oiseaux.
+- #34 Arctic Tensions / #35 Now Androids Alter Your Brain / #41 AX400 Getaway :
+  Zlatko, chambre a l'etage apres la reinitialisation ; #35 route reperee,
+  #41 route furtive depuis motel ou voiture.
+- #4 Tainted Love / #5 Time to Pull the Plug : Russian Roulette, chambre de
+  Hank apres la salle de bain.
+- #14 First Immortals / #36 New Super-Powers : Eden Club, caisse au fond de
+  l'entrepot avant la piste bleue.
+- #37 USS Iowa Missing / #24 All-Android Band : Pirates' Cove, tonneaux apres
+  l'ouverture de la maison.
+- #8 Mysterious Mister Kamski / #40 Markets Predict War : The Bridge, banc
+  devant Connor avant de parler a Hank.
+- #6 President Warren / #38 G.I. Android : Stratford Tower, restaurant du
+  47e etage, sur le comptoir.
+- #16 Bleeding Blue / #21 Clean Food Craze : Public Enemy, cuisine du studio.
+- #9 World War Three et Treat Yourself! : Midnight Train, table de cuisine
+  apres le depart de Rose et avant le policier.
+- #39 Who is It? / #7 Android for President : Capitol Park, caisse a gauche
+  du point de depart de Markus.
+- #17 Space Tourism / #15 Cyberlife Fortune Teller : Meet Kamski, sous le
+  tableau du hall apres l'avoir inspecte.
+- #42 Android Riot / #18 Eastern Space Race : Freedom March, sol a gauche du
+  depart si Capitol Park etait violent.
+- #43 Detroit in Chaos / #44 Android Terror : Crossroads, caisse au fond de
+  Jericho, avant de monter l'escalier, si Markus a charge la police.
+- #45 They Defy Us : Battle for Detroit, camp de Markus apres Demonstration.
+- #46 Civil War in Detroit : Battle for Detroit, arret de bus, route Kara
+  disponible apres Revolution.
+- Lis chaque revue, ouvre les deux couvertures et controle Extras avant de
+  quitter. Le numero affiche dans Extras est la reference, pas le titre court.
+
+
+
+CHAPITRE 21 - THE BRIDGE
+
+ZONE : pont et voiture de patrouille
+
+- [ ] A la sortie de la voiture, lis le magazine sur le banc devant Connor :
+  #8 Century: The Mysterious Mister Kamski et #40 Detroit Today: Markets
+  Predict War. Fais-le avant de parler a Hank.
+- [ ] Pour Partners, maintiens la relation Hank au niveau ami jusqu'a la fin.
+  Choisis les reponses qui respectent son histoire et evite les provocations.
+- [ ] Pour I'll Be Back, utilise une reprise ou Connor est tue pendant la
+  confrontation. Note la mort puis reprends la route protegee.
+- [ ] Explore le banc, le pont et les repliques secondaires pour remplir la
+  Flowchart. Une seule conversation ne couvre pas tous les noeuds.
+
+CHAPITRE 22 - THE STRATFORD TOWER
+
+ZONE : tour, lobby, restaurant du 47e et studio
+
+- [ ] Au 47e etage, dans la zone restaurant, lis le magazine sur le comptoir
+  avant d'enfiler l'uniforme : #6 Century: President Warren A Woman in
+  Trouble et #38 Detroit Today: G.I. Android.
+- [ ] Pour When a Plan Comes Together, choisis la route pacifique, reussis
+  l'infiltration, diffuse le message sans alarme et ne perds aucun membre.
+- [ ] Garde Simon vivant dans la route protegee. Sa presence ouvre des
+  indices dans Public Enemy et A Glimpse of Jericho.
+- [ ] Rejoue les branches d'alarme, d'escalier, d'ascenseur et de fuite pour
+  remplir la Flowchart. Les QTE de sortie doivent etre termines.
+- [ ] N'utilise pas cette reprise pour la route agressive : conserve une
+  sauvegarde avant le choix de ton message.
+
+CHAPITRE 23 - THE PIRATES' COVE
+
+ZONE : parc, maison des pirates et manege
+
+- [ ] Apres que Luther a ouvert la porte de la maison, lis le magazine sur
+  les tonneaux ou Kara pose la lampe : #37 Detroit Today: USS Iowa Missing
+  et #24 Gossips Weekly: All-Android Band Tipped for Music Prize.
+- [ ] Pour A Smile on Her Face, accompagne Alice au manege et laisse-la
+  profiter du tour. Termine la scene sans la forcer a repartir trop vite.
+- [ ] Route Survivors : maintiens Kara, Alice et Luther ensemble, explore la
+  maison et reussis les QTE de la sortie.
+- [ ] Rejoue les variantes de la maison, du feu et des personnages secondaires
+  pour la Flowchart. Le magazine reste au meme endroit.
+
+CHAPITRE 24 - PUBLIC ENEMY
+
+ZONE : studio, cuisine et salles techniques
+
+- [ ] Dans la cuisine du studio, lis #16 Tech Addict: Bleeding Blue et #21
+  Green Earth: Clean Food Craze avant de suivre les traces dans la salle.
+- [ ] Explore tous les androids, la salle de pause, le couloir et les indices
+  du studio. Ne suis pas immediatement la piste bleue.
+- [ ] Si Simon est vivant et cache, trouve-le avec Connor, puis analyse les
+  indices et connecte-les selon la route indiquee. Cette rencontre ouvre
+  A Glimpse of Jericho.
+- [ ] Pour A Glimpse of Jericho, Connor doit se connecter a Simon dans la
+  branche compatible et garder assez d'indices pour identifier Jericho.
+- [ ] Route protegee : ne tue pas Simon, preserve Hank et termine l'enquete
+  sans laisser l'alarme fermer la scene.
+- [ ] Rejoue les branches de l'android cache, de l'alarme et de l'echec de
+ recherche pour la Flowchart et I'll Be Back.
+FLOWCHART 100 % - METHODE DE NETTOYAGE
+
+- Commence par la route protegee et marque chaque chapitre complet. Le jeu
+  conserve les noeuds deja valides mais pas toujours les etats si tu sautes
+  une reprise.
+- Rejoue les petits choix depuis le point de controle le plus proche et
+  termine jusqu'a l'ecran Flowchart.
+- The Hostage : sauvetage, tir, fuite, inspections de l'appartement et morts
+  de Connor.
+- Opening/A New Home : pieces, boite d'Alice, vetements, cle, fenetre et
+  sorties de Kara.
+- Partners/Interrogation : dix indices, grenier, deviant, confession, fuite,
+  tir et conversations de Hank.
+- Stormy Night/Fugitives/On the Run : pistolet, sorties, sommeil, police,
+  autoroute, gare et poursuite.
+- Broken/From the Dead : Leo, Carl, reconstruction de Connor et morts.
+- Waiting for Hank/The Nest/Russian Roulette/The Bridge : Hank, chien, photo,
+  relation, Rupert, sauvetage et morts.
+- Time to Decide/Spare Parts/Jericho : pieces, John, recrues, dialogues et
+  variantes du groupe.
+- Eden Club/Public Enemy/Last Chance : Tracis, Simon, preuves, evidence
+  locker et localisation de Jericho.
+- Stratford Tower/Capitol Park/Freedom March : infiltration, message,
+  sabotage, charge et recul.
+- Meet Kamski : Chloe, logiciel instability et route future de Connor.
+- Crossroads/Night of the Soul/Battle for Detroit : fuite, deviance,
+  explosion, recyclage, demonstration, revolution, fins et magazines #45/#46.
+- Lorsqu'une branche exige une decision ancienne, repars de ce chapitre et
+  joue tous les chapitres jusqu'au nouveau noeud ou magazine. Le saut direct
+  ne transmet pas toujours l'etat.
+
+SUCCES TECHNIQUES ET ROUTES
+
+- THANK YOU : lance The Hostage et termine le premier chapitre.
+- MISSION ACCOMPLISHED : examine le corps, recupere le pistolet et sauve Emma.
+- THESE ARE OUR STORIES : depense 20 000 points bonus dans Extras.
+- SECRETS : relation suffisante avec Alice, cle puis boite.
+- DEVIANT LOCATED : dix indices dans Partners puis deviant dans l'attique.
+- WE ARE FREE : Kara et Alice sortent vivantes de chez Todd.
+- DEFEND YOURSELF : Broken, Markus pousse Leo.
+- SELF-CONTROL : Broken, Markus laisse Leo gagner.
+- CONFESSION : Interrogation, fais avouer le deviant sans le tuer.
+- SHELTER : Fugitives, Kara et Alice dorment au motel ou au squat.
+- KNOW YOUR PARTNER : trouve tous les indices sur Hank.
+- RUN KARA RUN : On the Run, echappe-toi avec Alice.
+- CATCH IT : The Nest, Connor rattrape Rupert.
+- SAVE HANK : protege Hank dans une branche de danger.
+- ESCAPE THE MANOR : Zlatko, Kara et Alice s'echappent de la villa.
+- RUTHLESS : Eden Club, tue les Tracis.
+- DOUBTS : Eden Club, laisse les Tracis s'echapper.
+- JERICHO'S HERO : Markus ramene assez de pieces dans Spare Parts.
+- JUST A MACHINE : Hank tue Connor dans la route machine.
+- A SMILE ON HER FACE : Pirates' Cove, Alice profite du manege.
+- WHEN A PLAN COMES TOGETHER : Stratford Tower, message sans alarme ni perte.
+- A GLIMPSE OF JERICHO : Connor se connecte a Simon dans Public Enemy.
+- SEND A MESSAGE : Capitol Park, emeute pacifique.
+- BURN THE PLACE : Capitol Park, emeute violente.
+- NOTHING TO SEE HERE : Midnight Train, le policier ne decouvre rien.
+- CONFRONTATION : Freedom March, Markus attaque la police.
+- STAND YOUR GROUND : Freedom March, Markus tient sa position.
+- PRIORITIES : Meet Kamski, tue Chloe.
+- KINSHIP : Meet Kamski, refuse de tuer Chloe.
+- BLOODHOUND : Last Chance, Connor obtient Jericho par ses preuves.
+- THREE AT JERICHO : Kara, Markus et Connor arrivent vivants a Crossroads.
+- SCORCHED EARTH : Markus ou Connor detone le freighter.
+- LIBERATION : Markus atteint le camp et libere les androids.
+- MORAL VICTORY : Markus fait reculer les soldats.
+- ESCAPE DEATH : Kara et Alice sortent du recyclage.
+- SAFE HARBOR : Kara et Alice passent la frontiere.
+- AN ARMY OF ME : Connor deviant convertit les androids de CyberLife Tower.
+- MISSION COMPLETE : Connor tue le leader deviant.
+- MY TURN TO DECIDE : Connor resiste a Amanda.
+- COMPLIANT : Connor reste une machine.
+- ONE OF US : Connor devient deviant.
+- UNDEFEATED : ne perds aucun combat avant la fin.
+- BOOKWORM : lis les 46 magazines et les deux couvertures.
+- PARTNERS : Hank et Connor restent amis jusqu'a la fin.
+- HAPPY FAMILY : Kara, Alice et Luther sont ensemble a la fin.
+- I'LL BE BACK : Connor meurt et revient a toutes les occasions necessaires.
+- THIS IS MY STORY : termine le jeu une fois.
+- SURVIVORS : tout le monde est vivant a la fin.
 
 CHECKLIST STEAM FINALE - 48/48
 
-[ ] Premier parcours protege.
-[ ] Magazines et Bookworm.
-[ ] Relations, enquete, QTE, furtivite et chapitres techniques.
-[ ] Parcours agressif et alternatives.
-[ ] Toutes les fins et succes de survivants.
-[ ] Flowchart complete sur chaque chapitre.
-[ ] 48/48 dans le profil Steam.
+- [ ] 01 THANK YOU - Jouer le premier chapitre The Hostage.
+- [ ] 02 MISSION ACCOMPLISHED - Connor sauve Emma.
+- [ ] 03 THESE ARE OUR STORIES - Depenser 20 000 points bonus.
+- [ ] 04 SECRETS - Kara decouvre la boite d'Alice.
+- [ ] 05 DEVIANT LOCATED - Connor trouve le deviant dans l'attique.
+- [ ] 06 WE ARE FREE - Kara et Alice s'echappent de chez Todd.
+- [ ] 07 DEFEND YOURSELF - Markus pousse Leo.
+- [ ] 08 SELF-CONTROL - Markus laisse Leo gagner.
+- [ ] 09 CONFESSION - Connor fait avouer le deviant.
+- [ ] 10 SHELTER - Kara et Alice dorment au motel ou au squat.
+- [ ] 11 KNOW YOUR PARTNER - Connor trouve les indices sur Hank.
+- [ ] 12 RUN KARA RUN - Kara et Alice echappent a la police.
+- [ ] 13 CATCH IT - Connor rattrape Rupert.
+- [ ] 14 SAVE HANK - Connor sauve Hank.
+- [ ] 15 ESCAPE THE MANOR - Kara et Alice sortent de la villa.
+- [ ] 16 RUTHLESS - Les Tracis sont tuees.
+- [ ] 17 DOUBTS - Les Tracis s'echappent.
+- [ ] 18 JERICHO'S HERO - Markus ramene assez de pieces.
+- [ ] 19 JUST A MACHINE - Hank tue Connor.
+- [ ] 20 A SMILE ON HER FACE - Alice profite du manege.
+- [ ] 21 WHEN A PLAN COMES TOGETHER - Message sans alarme ni perte.
+- [ ] 22 A GLIMPSE OF JERICHO - Connor se connecte a Simon.
+- [ ] 23 SEND A MESSAGE - Markus conduit une emeute pacifique.
+- [ ] 24 BURN THE PLACE - Markus conduit une emeute violente.
+- [ ] 25 NOTHING TO SEE HERE - Kara fait partir le policier.
+- [ ] 26 CONFRONTATION - Markus attaque la police.
+- [ ] 27 STAND YOUR GROUND - Markus tient sa position.
+- [ ] 28 PRIORITIES - Connor tue Chloe.
+- [ ] 29 KINSHIP - Connor refuse de tuer Chloe.
+- [ ] 30 BLOODHOUND - Connor obtient Jericho par ses propres moyens.
+- [ ] 31 THREE AT JERICHO - Les trois protagonistes atteignent Crossroads.
+- [ ] 32 SCORCHED EARTH - Markus ou Connor fait exploser le freighter.
+- [ ] 33 LIBERATION - Markus atteint le camp et libere les androids.
+- [ ] 34 MORAL VICTORY - Markus fait reculer les soldats.
+- [ ] 35 ESCAPE DEATH - Kara et Alice s'echappent du recyclage.
+- [ ] 36 SAFE HARBOR - Kara et Alice passent la frontiere.
+- [ ] 37 AN ARMY OF ME - Connor convertit les androids.
+- [ ] 38 MISSION COMPLETE - Connor tue le leader des deviants.
+- [ ] 39 MY TURN TO DECIDE - Connor resiste a Amanda.
+- [ ] 40 COMPLIANT - Connor reste une machine.
+- [ ] 41 ONE OF US - Connor devient deviant.
+- [ ] 42 UNDEFEATED - Ne perdre aucun combat.
+- [ ] 43 BOOKWORM - Trouver les 46 magazines.
+- [ ] 44 PARTNERS - Hank et Connor restent amis.
+- [ ] 45 HAPPY FAMILY - Kara, Alice et Luther sont ensemble.
+- [ ] 46 I'LL BE BACK - Connor meurt et revient a chaque occasion.
+- [ ] 47 THIS IS MY STORY - Terminer le jeu une fois.
+- [ ] 48 SURVIVORS - Tout le monde est vivant a la fin.
 
-REGLE ANTI-SPOILER
+VERIFICATION FINALE
 
-Les types de route et les noms des statistiques indiquent seulement quoi
-rejouer. Les fins, morts, identites et consequences ne sont pas racontees.
+- Steam affiche 48/48 succes.
+- Extras > Magazines affiche 46 revues, deux couvertures et toutes les pages.
+- Chaque chapitre important affiche 100 % de Flowchart, dont The Interrogation
+  et Fugitives lorsqu'ils sont debloques.
+- Run 1 conserve Kara, Alice, Luther, Markus, Connor, Hank et les allies.
+- Run 2 contient les branches agressives et les magazines conditionnels.
+- Run 3 contient I'll Be Back, Compliant, Just a Machine et les variantes
+  Connor machine/deviant.
+- Les decisions anciennes ont ete rejouees en continu lorsque le magazine ou
+  le noeud exigeait cette continuite.
+- These Are Our Stories est valide apres 20 000 points depenses.
+- Le guide indique les conditions sans raconter les revelations ni les fins.
