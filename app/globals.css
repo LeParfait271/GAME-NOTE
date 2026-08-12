@@ -725,6 +725,18 @@ button {
   color: var(--navy);
 }
 
+.catalog-index button:disabled {
+  border-color: color-mix(in srgb, var(--line) 68%, transparent);
+  background: transparent;
+  color: color-mix(in srgb, var(--muted) 45%, transparent);
+  cursor: not-allowed;
+  opacity: 0.7;
+}
+
+.catalog-index button:disabled:hover {
+  transform: none;
+}
+
 .catalog-index button:hover,
 .catalog-index button:focus-visible {
   transform: translateY(-1px);

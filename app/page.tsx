@@ -3007,6 +3007,9 @@ function openReader(
   setSearch: (value: string) => void,
   setReaderMode: (value: boolean) => void,
   setInvalidGuideId: (value: string | null) => void,
+  catalogSearch: string,
+  catalogFilter: CatalogFilter,
+  catalogLetter: string,
 ) {
   setSearch("");
   setSelectedId(id);
@@ -3015,9 +3018,12 @@ function openReader(
   const url = new URL(window.location.href);
   url.pathname = "/";
   url.searchParams.delete("view");
-  url.searchParams.delete("q");
-  url.searchParams.delete("filter");
-  url.searchParams.delete("letter");
+  if (catalogSearch) url.searchParams.set("q", catalogSearch);
+  else url.searchParams.delete("q");
+  if (catalogFilter !== "all") url.searchParams.set("filter", catalogFilter);
+  else url.searchParams.delete("filter");
+  if (catalogLetter) url.searchParams.set("letter", catalogLetter);
+  else url.searchParams.delete("letter");
   url.searchParams.set("guide", id);
   url.hash = "";
   window.history.pushState({ guide: id }, "", url);
@@ -3044,13 +3050,11 @@ export default function Home() {
   const selectedIndex = alphabeticalGuides.findIndex((guide) => guide.id === selected.id);
   const previousGuide = selectedIndex > 0 ? alphabeticalGuides[selectedIndex - 1] : undefined;
   const nextGuide = selectedIndex >= 0 ? alphabeticalGuides[selectedIndex + 1] : undefined;
-  const visibleGuides = useMemo(() => {
+  const catalogMatches = useMemo(() => {
     const query = normalizeCatalogText(catalogSearch.trim());
 
     return guides
       .filter((guide) => {
-        const firstLetter = normalizeCatalogText(guide.title).charAt(0).toUpperCase();
-        const matchesLetter = !catalogLetter || firstLetter === catalogLetter;
         const searchableText = [
           guide.title,
           guide.eyebrow,
@@ -3069,12 +3073,23 @@ export default function Home() {
           (catalogFilter === "dlc" && normalized.includes("dlc")) ||
           (catalogFilter === "offline" && normalized.includes("hors ligne"));
 
-        return matchesSearch && matchesFilter && matchesLetter;
-      })
-      .sort((left, right) =>
-        left.title.localeCompare(right.title, "fr", { sensitivity: "base" }),
-      );
-  }, [catalogFilter, catalogLetter, catalogSearch]);
+        return matchesSearch && matchesFilter;
+      });
+  }, [catalogFilter, catalogSearch]);
+  const availableCatalogLetters = useMemo(
+    () => new Set(
+      catalogMatches.map((guide) => normalizeCatalogText(guide.title).charAt(0).toUpperCase()),
+    ),
+    [catalogMatches],
+  );
+  const visibleGuides = useMemo(
+    () => sortGuidesAlphabetically(
+      catalogMatches.filter((guide) =>
+        !catalogLetter || normalizeCatalogText(guide.title).charAt(0).toUpperCase() === catalogLetter,
+      ),
+    ),
+    [catalogLetter, catalogMatches],
+  );
   const effectiveCatalogLimit = catalogSearch || catalogFilter !== "all" ? 24 : catalogLimit;
   const displayedGuides = visibleGuides.slice(0, effectiveCatalogLimit);
 
@@ -3236,21 +3251,24 @@ export default function Home() {
   };
 
   const handleOpenReader = (id: string) => {
-    openReader(id, setSelectedId, setSearch, setReaderMode, setInvalidGuideId);
+    openReader(
+      id,
+      setSelectedId,
+      setSearch,
+      setReaderMode,
+      setInvalidGuideId,
+      catalogSearch,
+      catalogFilter,
+      catalogLetter,
+    );
   };
 
   const goToLibrary = () => {
     setReaderMode(false);
     setSearch("");
-    setCatalogSearch("");
-    setCatalogFilter("all");
-    setCatalogLetter("");
     setInvalidGuideId(null);
     const url = new URL(window.location.href);
     url.searchParams.delete("guide");
-    url.searchParams.delete("q");
-    url.searchParams.delete("filter");
-    url.searchParams.delete("letter");
     url.hash = "guides";
     window.history.pushState({ gameNote: "library" }, "", url);
     window.requestAnimationFrame(() => {
@@ -3411,6 +3429,7 @@ export default function Home() {
               type="button"
               aria-label={`Afficher les soluces commençant par ${letter}`}
               aria-pressed={catalogLetter === letter}
+              disabled={!availableCatalogLetters.has(letter)}
               key={letter}
               onClick={() => updateCatalogLetter(letter)}
             >
