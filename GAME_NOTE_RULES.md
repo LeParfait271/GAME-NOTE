@@ -39,6 +39,12 @@ statique Cloudflare Pages.
 - La fiche FFVII de référence doit conserver une route par zone et un bloc
   `AVANT DE SORTIR` pour chaque étape importante ; ce bloc reste court et ne
   remplace pas les emplacements détaillés des objets.
+- Pour FFVII, chaque objet doit être classé avant d'être marqué comme
+  manquable : fenêtre unique, récupérable plus tard en boutique, ou récompense
+  optionnelle. Une route ne doit jamais transformer un objet achetable plus
+  tard en faux missable ; elle doit aussi distinguer une matéria, un objet
+  consommable, un équipement et une compétence ennemie avant d'ajouter un
+  repère visuel.
 - Pour la phase actuelle, les repères visuels sont activés uniquement sur
   `final-fantasy-vii-2013`. `[COFFRE]` couvre tous les objets à récupérer
   (coffres, matérias, collectibles et récompenses) ; les marqueurs

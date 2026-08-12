@@ -205,6 +205,9 @@ conditions difficiles ; elles ne justifient jamais une copie mot a mot.
   https://www.rpgsite.net/guide/20383-final-fantasy-vii-walkthrough-100-missable-items-materia-all-achievements-enemy-skills-step-by-step-guide
 - Points verifies : 36 succes, Yuffie, Vincent, limites finales, Great Gospel,
   Huge Materia, Bahamut Zero, chocobo Gold, Emerald, Ruby et Materia Overlord.
+- Audit du 12 aout 2026 : parcours de Midgar, objets du train et du reacteur
+  No. 5, Turtle Paradise, Wall Market, egouts, cimetiere des trains et
+  infiltration de la Shinra recoupes avec une FAQ objets et un walkthrough.
 
 ## FINAL FANTASY IX
 

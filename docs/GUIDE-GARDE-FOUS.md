@@ -134,6 +134,17 @@ La mise à jour doit être utile et liée au lot : périmètre touché, validati
 réalisée, risque restant ou décision de méthode. Un commit sans cette triple
 mise à jour est refusé, même si le code ou la fiche fonctionne.
 
+### Lot FFVII du 12 août 2026
+
+- Périmètre : précision de la route de Midgar, du train jusqu'à l'évasion ; les
+  autres guides et les changements d'interface en cours restent hors périmètre.
+- Contrôle attendu : recouper les emplacements et les récompenses sensibles
+  avec la liste Steam officielle et deux références d'objets/parcours avant de
+  valider la fiche ; vérifier ensuite la structure, le build et les tests du
+  site.
+- Limite : ce lot améliore Midgar et ne constitue pas encore une relecture
+  exhaustive de chaque zone des disques suivants.
+
 ## Seuil de profondeur Game Note
 
 Une fiche ne peut plus être considérée comme complète parce qu'elle contient
@@ -144,6 +155,11 @@ doit passer `scripts/audit-guide-quality.mjs` et sa relecture manuelle :
 - chaque détour utile arrive avant la transition qui peut le rendre ratable ;
 - les coffres, objets, matérias, collectibles et interactions demandés par le
   périmètre ont un repère concret, pas seulement « fouille la zone » ;
+- dans une zone à embranchements, le repère concret indique l'écran ou la
+  salle, le côté, l'ordre et la condition de récompense. Chaque objet est
+  d'abord classé comme fenêtre unique, récupérable plus tard ou optionnel afin
+  de ne pas fabriquer de faux missables ; le type réel de l'objet est relu
+  avant d'ajouter `[COFFRE]` ;
 - les succès sont liés à une action et à un moment précis, avec les DLC, le
   coop et le nettoyage séparés ;
 - la checklist finale contient exactement le total Steam audité, sans doublon ;

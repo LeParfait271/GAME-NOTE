@@ -18,6 +18,10 @@ Ce fichier fixe la méthode minimale avant toute modification visible du site.
 8. Pour le lot FFVII en cours, le format de référence est une route par zone
    avec un bloc `AVANT DE SORTIR` : objets, succès, équipement et sauvegarde
    doivent y être contrôlés avant chaque transition importante.
+9. Pour chaque passe d'objets FFVII, qualifier séparément les objets réellement
+   manquables, ceux récupérables plus tard en boutique et les récompenses
+   optionnelles. La fiche doit donner l'écran, le côté et l'ordre quand un
+   détour peut être raté ; une simple mention « fouille la zone » est refusée.
 
 Toute nouvelle règle durable doit être ajoutée à GAME_NOTE_RULES.md et
 transformée en validation automatique quand c'est possible.

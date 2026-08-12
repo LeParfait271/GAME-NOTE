@@ -1,7 +1,7 @@
 FINAL FANTASY VII (2013)
 FICHE COMPLETE 100 % STEAM - ROUTE CHRONOLOGIQUE - SANS SPOILER
 
-Version vérifiée : 11 août 2026
+Version vérifiée : 12 août 2026
 AppID Steam : 39140
 Périmètre : 36 succès Steam, jeu principal, aucun DLC et aucun succès en ligne.
 
@@ -181,13 +181,17 @@ AVANT DE SORTIR
 4. TRAIN ET SECTOR 4
 
 Route : monte dans le train avec Barret et Tifa. Quand l'alarme commence, cours
-vers l'arrière de chaque wagon sans combattre les groupes optionnels. Une fois
-sur le quai, prends le chemin vers le réacteur 5.
+vers l'arrière de chaque wagon. Dans le premier wagon, parle au personnage au
+fond à droite pour obtenir Phoenix Down. Dans le deuxième, parle au personnage
+en bas à gauche et choisis « Yeah » pour Hi-Potion. Dans le troisième, récupère
+ton objet au pickpocket avec « That's Right ». Le quatrième wagon ne contient
+pas de détour à faire : rejoins simplement la sortie. Une fois sur le quai,
+prends le chemin vers le réacteur 5.
 
 Contrôle de trajet :
 
-- Ne coupe pas la séquence en sautant hors du train si tu vises les objets des
-  wagons ; termine la course et fouille les deux plateformes de sortie.
+- Ne coupe pas la séquence en sautant hors du train si tu vises les trois
+  récompenses des wagons ; termine la course avant de rejoindre la sortie.
 - Équipe Lightning sur les trois personnages dès que les emplacements le
   permettent. Les ennemis mécaniques du réacteur y sont vulnérables.
 - Charge la limite de Tifa dans les combats ordinaires, puis utilise-la avant
@@ -214,16 +218,18 @@ Coffres et objets :
   sauvegarde.
 - Salle des passerelles : Tent dans l'alcôve à droite de la porte de sortie.
 - Salle de l'ascenseur : vérifie les deux côtés de la plateforme avant de
-  lancer le panneau ; un coffre est placé hors de l'axe de la caméra.
-- Cœur du réacteur : prends la Materia fixe avant de poser la bombe ; elle est
-  au sol sur la passerelle qui précède le combat du secteur.
+  lancer le panneau ; aucun objet supplémentaire n'est à récupérer dans cette
+  salle avant le retour par l'escalier.
+- Retour vers l'ascenseur : après avoir posé la bombe, remonte par l'escalier
+  laissé de côté, prends l'ascenseur et récupère l'Ether juste à la sortie.
 
 Après Air Buster, remonte vers la sortie, soigne l'équipe et conserve une
 sauvegarde avant l'ascenseur. La victoire ouvre la route vers Sector 5.
 
 AVANT DE SORTIR
 
-- Ether, Potion, Tent et la Materia du cœur du réacteur sont dans l'inventaire.
+- Ether, Potion, Tent et l'Ether du retour vers l'ascenseur sont dans
+  l'inventaire. Air Buster a laissé Titan Bangle après le combat.
 - La sauvegarde BOSS est faite avant Air Buster et la sauvegarde PRINCIPALE est
   renouvelée après la victoire.
 
@@ -233,16 +239,19 @@ Route : après l'arrivée dans l'église, parle à Aeris, pousse les tonneaux se
 la trajectoire indiquée et rejoins le toit. Dans les taudis, visite d'abord la
 maison d'Aeris, puis retourne au centre de Sector 5 pour les boutiques.
 
-Coffres et objets :
+Coffres et objets, dans l'ordre :
 
-- Église : aucun coffre unique à manquer ; ramasse toutes les matérias posées
-  au sol avant de sortir par les poutres.
-- Secteur résidentiel, boutique d'armes : achète Mythril Armlet et une arme
-  pour Aeris si tes gils le permettent.
-- Maison d'Aeris, rez-de-chaussée : fouille chaque pièce et le jardin ; les
-  objets posés au sol sont faciles à confondre avec le décor.
-- Maison d'Aeris, étage : ne monte pas dans l'espace réservé aux enfants avant
-  d'avoir vérifié le jardin et la pièce latérale.
+- Église : il n'y a pas d'objet unique à relever dans la salle ; suis la sortie
+  par les poutres sans chercher un coffre absent.
+- Sector 5, maison à droite de la place : lis Turtle Paradise News No. 1 à
+  l'étage. Dans la cachette près du garçon endormi, ouvre le compartiment mais
+  ne prends pas les 5 gils si tu veux récupérer Turbo Ether au retour.
+- Maison d'Aeris, jardin : Ether près de l'entrée et Cover Materia sur le côté
+  du jardin. Prends les deux avant d'entrer dans la maison.
+- Maison d'Aeris, rez-de-chaussée : après la scène, monte à l'étage puis ramasse
+  Potion et Phoenix Down près du lit avant de redescendre et de sortir.
+- Boutique d'armes : achète Mythril Armlet et une arme pour Aeris si tes gils le
+  permettent ; Titan Bangle est aussi disponible dans le secteur.
 
 Healing Wind se valide avec la première limite d'Aeris. Charge-la dans les
 combats du secteur 5 avant de passer au marché.
@@ -262,25 +271,31 @@ préparatifs de costume : robe, perruque, parfum et accessoire.
 
 Objets et préparatifs :
 
-- Wall Market, boutique d'objets : achète le coupon de 500 gils à l'auberge,
-  puis apporte-le à la boutique de Materia pour obtenir la Glass Tiara.
-- Wall Market, boutique de Materia : le coupon de 1000 gils donne Ruby Tiara ;
-  le coupon de 1500 gils donne Diamond Tiara. Une seule récompense suffit pour
-  la route ; prends Diamond Tiara si tu veux la meilleure note de costume.
+- Wall Market, robe : dans la boutique de vêtements du premier écran, choisis
+  « Soft » puis « Shimmers » pour Silk Dress.
+- Wall Market, boutique de Materia : accepte la demande liée au distributeur de
+  l'auberge, dors pour 10 gils et choisis 200 gils au distributeur pour Diamond
+  Tiara. Les choix 50 et 100 gils donnent Glass Tiara et Ruby Tiara.
 - Wall Market, restaurant : commande un plat, réponds « It was all right » et
   prends le Pharmacy Coupon. Échange-le à la pharmacie contre le médicament
   demandé par le propriétaire de la boutique de robe.
 - Wall Market, bar : parle à l'homme dans les toilettes et donne-lui un
   Digestive pour obtenir Sexy Cologne.
 - Wall Market, gymnase : gagne le jeu de squats pour Blonde Wig.
-- Wall Market, Honeybee Inn : choisis une chambre et récupère Lingerie ou
-  Bikini Briefs selon la branche disponible.
+- Wall Market, Honeybee Inn : utilise Membership Card, puis choisis la chambre
+  en haut à gauche pour Lingerie ou la salle de groupe en bas à gauche pour
+  Bikini Briefs.
 - Wall Market, entrée nord : parle au vendeur directement à droite de l'entrée
   pour obtenir Membership Card.
 
 La meilleure route de costume est Diamond Tiara + Blonde Wig + Sexy Cologne +
 Lingerie. Aucun des succès Steam ne demande une note parfaite, mais cette route
 évite une seconde visite pour les objets de collection.
+
+Dans la demeure de Don Corneo, prends Ether dans la pièce du sous-sol accessible
+par la salle en haut à gauche. Si Cloud n'a pas été choisi, prends Phoenix Down
+dans la pièce séparée ; Hyper se trouve derrière le lit de Don. Ces deux objets
+peuvent être récupérés au retour si la branche de costume les a déplacés.
 
 AVANT DE SORTIR
 
@@ -292,27 +307,30 @@ AVANT DE SORTIR
 8. ÉGOUTS ET TRAIN GRAVEYARD
 
 Route : après la séquence de Wall Market, bats Aps avec Fire et les limites,
-puis fouille les deux niveaux des égouts avant de monter l'échelle vers le
-Train Graveyard.
+puis prends Potion à gauche et Steal Materia à droite de l'écran suivant. Monte
+ensuite l'échelle vers le Train Graveyard.
 
 Coffres et matérias :
 
-- Égouts, passerelle nord-ouest après Aps : Potion.
-- Égouts, passerelle accessible par l'échelle au-dessus de l'eau : Steal
-  Materia, au sol près de la rambarde. Équipe-la immédiatement.
-- Égouts, niveau inférieur : vérifie les escaliers et la plateforme derrière
-  la structure verte avant de prendre l'échelle de sortie.
-- Train Graveyard, premier écran : Ether à voler sur Deenglow si Steal est
-  équipé ; sauvegarde au point situé à l'est.
-- Train Graveyard, écrans de wagons : ouvre chaque coffre posé au bord des
-  locomotives avant de déplacer le wagon suivant. Les objets sont des
-  consommables, mais ils comptent pour la route de contenu complet.
-- Train Graveyard, dernière plateforme : récupère les deux objets près des
-  leviers avant de rejoindre le pilier du secteur 7.
+- Égouts, après Aps : Potion sur la gauche, puis Steal Materia sur la droite
+  près de la rambarde. Équipe Steal immédiatement.
+- Train Graveyard, premier écran : traverse le train pour Hi-Potion dans le
+  tonneau, puis prends Hi-Potion et Echo Screen dans le tonneau suivant, Potion
+  dans le wagon et la seconde Potion à l'extrémité de l'écran.
+- Train Graveyard, deuxième écran : prends Potion au sud-ouest, Ether dans le
+  tonneau à l'ouest et Hi-Potion dans le train à l'est. Active les deux moteurs
+  pour déplacer les wagons et ouvrir le passage.
+- Train Graveyard, combats : vole Ghost Hand sur Ghost si tu veux conserver cet
+  objet rare, et gagne Graviball sur Deenglow. Ces deux objets sont utiles au
+  nettoyage d'inventaire mais ne sont pas des succès Steam.
+- Train Graveyard, deuxième zone : vole Striking Staff sur Eligor si tu veux
+  l'obtenir maintenant ; il peut être acheté plus tard à Junon, donc ce n'est
+  pas un missable dur de la version 2013.
 
 Fais apprendre Matra Magic à Enemy Skill sur les Custom Sweeper autour de
-Midgar si cela n'a pas été fait avant. Dans le Train Graveyard, apprends
-Tranquilizer uniquement si l'ennemi utilise la compétence sur le porteur.
+Midgar si cela n'a pas été fait avant. Garde Ghost Hand et Graviball si tu vises
+un inventaire de nettoyage complet ; Tranquilizer est un objet, pas une Enemy
+Skill.
 
 AVANT DE SORTIR
 
@@ -345,14 +363,17 @@ AVANT DE SORTIR
 
 10. SHINRA BUILDING : DU 1er AU 59e ÉTAGE
 
-Route : choisis l'entrée principale ou l'escalier. Pour le contenu complet,
-utilise l'entrée principale puis reviens prendre l'escalier si tu veux
-l'Elixir ; l'accès au bâtiment permet de faire les deux avant le 60e étage.
+Route : prends directement l'escalier de gauche à l'entrée pour la route
+complète. Sur le cinquième écran, récupère l'Elixir posé sur la marche ; après
+le 59e étage, redescends au 1er par l'ascenseur pour lire le panneau avant de
+repartir vers le 60e étage.
 
 Objets et salles :
 
-- 2e étage : lis le panneau Turtle's Paradise Newsletter No. 2 près de
-  l'ascenseur.
+- Entrée de Shinra : prends l'escalier de gauche pour l'Elixir au cinquième
+  écran. Après le combat du 59e étage, redescends au 1er étage par l'ascenseur.
+- 1er étage, fond de la salle : lis Turtle Paradise News No. 2 sur le panneau
+  avant de repartir vers le 60e étage. Ce contrôle est à faire maintenant.
 - Escalier extérieur : sur le cinquième écran de l'escalier, prends l'Elixir
   posé sur la marche extérieure.
 - 59e étage : bats les trois gardes, récupère Keycard 60 et inspecte le bord
@@ -361,24 +382,31 @@ Objets et salles :
   combat est déclenché, termine-le plutôt que de recharger ; aucun coffre n'est
   placé dans cette salle.
 
+61e et 62e étages : parle au garde qui circule dans la partie sud du 61e et
+choisis « ... » pour obtenir Keycard 62. Au 62e, parle au maire dans la salle
+de gauche. Lis le livre placé à gauche au milieu des étagères vertes dans la
+salle nord-est, puis donne au maire le mot correspondant à ce livre. Une réponse
+du premier coup donne Keycard 65 et Elemental Materia.
+
 AVANT DE SORTIR
 
-- Le panneau Turtle's Paradise, l'Elixir de l'escalier et Keycard 60 sont
-  contrôlés avant la traversée du 60e étage.
+- Le panneau Turtle's Paradise du 1er étage, l'Elixir de l'escalier, Keycard 60,
+  Keycard 62, Keycard 65 et Elemental Materia sont contrôlés avant le 63e.
 - La route d'infiltration choisie est terminée sans écraser la sauvegarde
   AVANT MISSABLE.
 
 11. SHINRA BUILDING : 63e À 68e ÉTAGE
 
-63e étage : utilise les coupons des distributeurs pour ouvrir les portes, puis
-choisis les trois récompenses dans le circuit des coupons. Pour le 100 %
-pratique, prends Star Pendant, Four Slots et All Materia si tu n'as pas déjà
-une copie. La route des portes est : couloir extérieur, salle nord, porte de
-gauche, retour par le couloir et dernier échange au comptoir.
+63e étage : active l'ordinateur de la salle sud-est. Ouvre la porte supérieure
+en arrivant par la droite, puis la porte la plus à gauche en descendant. Prends
+A Coupon dans la salle de gauche, traverse le conduit et prends B Coupon à la
+sortie nord, puis prends C Coupon dans la salle ouverte directement à gauche.
+Reviens dans le conduit par la sortie droite et échange les trois coupons contre
+Star Pendant, Four Slots et All Materia.
 
-64e étage : fouille la salle de repos, la salle de casiers et les distributeurs.
-Les boissons ne sont pas nécessaires aux succès, mais vérifie les deux objets
-posés devant les machines avant de repartir.
+64e étage : dans la salle centrale, dépense 250 gils au distributeur en haut à
+gauche puis frappe-le pour préparer sa récompense ultérieure. Dans la salle des
+casiers au nord, prends Phoenix Down et Ether avant de repartir.
 
 65e étage : collecte les cinq Midgar Parts et insère-les dans le modèle au
 centre. Les coffres s'ouvrent dans cet ordre :
@@ -390,32 +418,46 @@ centre. Les coffres s'ouvrent dans cet ordre :
 - salle sud-ouest du modèle ;
 - dernier coffre dans la cage d'escalier, qui donne Keycard 66.
 
-66e étage : va aux toilettes nord-ouest et utilise le conduit d'aération pour
-observer la réunion. 67e étage : suis Hojo, puis retourne au 64e étage avant
-de monter pour sauvegarder et ouvrir la salle des casiers.
+66e étage : va aux toilettes au nord-ouest et utilise le conduit d'aération pour
+observer la réunion. Monte ensuite au 67e. Si l'équipement le permet, vole
+Carbon Bangle sur Moth Slasher et Hardedge sur SOLDIER:3rd : ces objets sont
+facultatifs et achetables plus tard.
 
-68e étage : dans la salle des cuves, prends Poison Materia sur le sol et Enemy
-Skill Materia dans la zone accessible après la séquence de Sample:HO512. Monte
-ensuite vers la sortie et vérifie que les deux matérias sont dans le menu.
+67e étage : après la scène de Hojo, prends Poison Materia près du point de
+sauvegarde. Après le combat contre Sample: H0512, contrôle le Talisman laissé
+par le boss, puis ramasse Enemy Skill Materia dans la salle et les deux Potions
+au sud. Parle au membre de la sécurité pour Keycard 68, suis-le et prends les
+deux Potions supplémentaires avant de rejoindre l'ascenseur.
 
 AVANT DE SORTIR
 
-- Star Pendant, Four Slots, All, les cinq Midgar Parts, Poison et Enemy Skill
-  sont contrôlés avant la sortie du bâtiment.
+- Elemental, Star Pendant, Four Slots, All, les cinq Midgar Parts, les objets du
+  64e étage, Poison, Talisman, Enemy Skill, Keycard 68 et les quatre Potions
+  finales sont contrôlés avant l'évasion.
 - La sauvegarde BOSS est créée avant la série d'affrontements de l'évasion et
   la sauvegarde PRINCIPALE est renouvelée après l'obtention de Keycard 66.
 
 12. ÉVASION DE MIDGAR
 
 Route : après la libération, équipe Cloud, Aeris et Tifa avec Restore, Lightning
-et Poison. Parcours les couloirs jusqu'à la zone de sortie, puis prends la
-voiture et garde une sauvegarde avant la poursuite finale.
+et Poison. Dans Sector 7, il n'y a pas de coffre à récupérer pendant la montée
+vers Reno. Après le retour dans les taudis, reviens au playground pour Sense
+Materia, puis va chez le garçon qui dormait : si tu n'as pas pris les 5 gils
+plus tôt, il donne Turbo Ether.
 
 Objets :
 
-- Prison de Shinra : fouille les cellules et récupère les objets posés au sol
-  avant de parler à chaque membre du groupe.
-- Garage de l'ascenseur : prends les objets visibles à gauche avant de monter.
+- Sector 5 : après les scènes de la maison d'Aeris, retourne à Wall Market.
+  Chez le marchand d'armes, prends Metal Knuckle pour Tifa et achète les
+  Batteries. Dans la demeure de Don, récupère Phoenix Down ou Hyper s'ils n'ont
+  pas été pris pendant la séquence du costume, puis place les trois Batteries
+  sur la montée : l'une donne Elixir.
+- Shinra Building, 70e étage et sortie : après les scènes, équipe la matéria de
+  Cloud avant la suite des combats. Hundred Gunner et Heli Gunner donnent
+  Mythril Armlet ; Rufus et Dark Nation donnent Protect Vest et Guard Source.
+- Après la poursuite, Motor Ball donne Star Pendant. Il n'y a pas de coffre à
+  chercher dans la prison : suis le trajet jusqu'à la voiture sans considérer
+  les cellules comme une zone de collecte.
 - Route de la voiture : il n'y a pas de coffre à détourner ; utilise la limite
   de Barret ou Cloud dès qu'elle se charge pour éviter de commencer la route
   extérieure avec des jauges vides.
@@ -425,8 +467,9 @@ sauvegarde juste après le succès.
 
 AVANT DE SORTIR
 
-- Les cellules, le garage et les objets accessibles avant la voiture sont
-  vérifiés ; W-Item et Missing Score ne concernent pas encore cette zone.
+- Sense, Turbo Ether éventuel, Metal Knuckle, Batteries, Elixir, les récompenses
+  des combats et Star Pendant sont contrôlés ; W-Item et Missing Score ne
+  concernent pas encore cette zone.
 - End of Part I est apparu, puis une copie de la sauvegarde est conservée avant
   Kalm. Le fichier AVANT MISSABLE n'est pas remplacé.
 
