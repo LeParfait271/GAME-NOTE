@@ -1,188 +1,797 @@
 MARVEL'S GUARDIANS OF THE GALAXY
-GUIDE CHRONOLOGIQUE 100 % STEAM - SANS SPOILER
+FICHE PREMIUM CHRONOLOGIQUE - 100 % STEAM - SANS SPOILER
 
-Version de travail : 10 aout 2026
+Version editoriale : 12 aout 2026
+Plateforme : Steam
+AppID : 1088850
 
-Ce parcours couvre les 59 succes Steam de l'AppID 1088850. Il rassemble la
-campagne en 16 chapitres, les tenues, les collectibles des Gardiens, les
-archives, les capacites de combat, les choix a surveiller et les objectifs
-de compendium. Tout est hors ligne : aucun succes online ou DLC n'est requis.
+PROMESSE DE LA FICHE
 
-OBJECTIF
+Cette fiche est une vraie feuille de route de partie. Elle place les tenues,
+archives, objets de Gardien, choix a conserver, combats a preparer et succes
+dans l'ordre ou ils arrivent. Elle distingue le 100 % Steam du remplissage
+integral du Galactic Compendium, car ce ne sont pas exactement les memes
+objectifs.
 
-[ ] 59/59 succes Steam.
-[ ] Campagne terminee.
-[ ] Tenues et objets de collection recuperes dans une sauvegarde continue.
-[ ] 65 % de chaque categorie du Galactic Compendium.
-[ ] Objets des Gardiens et conversations de Milano.
-[ ] Capacites de Star-Lord et de chaque Gardien.
-[ ] Actions de combat, combos, elements, soins et interruptions.
-[ ] Paiement de l'amende du chapitre 6.
+Les noms de chapitres, objets, tenues et succes sont utilises comme reperes
+de navigation. Aucun personnage, boss, identite, mort, fin, retournement ou
+consequence narrative n'est revele.
 
-GARDE-FOUS ABSOLUS
+PERIMETRE COMPLET
 
-- Fais la premiere partie avec une sauvegarde continue. La selection de
-  chapitre peut remettre a zero certaines progressions de compendium si tu
-  reviens en arriere puis quittes trop tot.
-- Chaque chapitre affiche une pause avant le point de non-retour. Fais alors
-  la boucle tenues, archives et objets de Gardien avant de poursuivre.
-- Les tenues recuperees sont plus tolerantes avec la selection de chapitre,
-  mais garde quand meme une checklist de tous les objets.
-- Depense les composants et les points d'aptitude au fil de l'histoire. Il
-  n'est pas utile d'economiser les composants.
-- Aucun nom de personnage, mort, identite, boss, fin ou retournement n'est
-  revele. Les chapitres et actions sont les seuls reperes.
+[ ] 59/59 succes Steam, tous hors ligne.
+[ ] Campagne terminee du chapitre 1 au chapitre 16.
+[ ] 45 tenues equipees pour Fashion Passion.
+[ ] 15 objets de Gardien recuperes et dialogues de Milano valides.
+[ ] Au moins 65 % de chaque categorie du Galactic Compendium pour Lore Hoarder.
+[ ] 126 collectibles repertories : 45 tenues, 15 objets de Gardien,
+    32 objets de compendium et 34 archives.
+[ ] Toutes les aptitudes speciales des quatre compagnons.
+[ ] Les 4 elements des blasters de Star-Lord.
+[ ] Les objectifs de combat : stagger, momentum, auto-combos, Call to Action,
+    soins, tirs charges et capacites de chaque Gardien.
+[ ] La dette Nova Corps payee au bon moment.
 
-MISSABLES ET FENETRES
+100 % STEAM OU 100 % COMPENDIUM ?
 
-- Like a Glove!, Fashion Passion, Thoughtful Captain, Managerial Skills et
-  Lore Hoarder exigent de surveiller les collectibles pendant la partie.
-- Au chapitre 6, lorsque l'amende des Nova Corps est presentee, paie-la.
-  Le choix contraire peut imposer une nouvelle partie pour Galactic Frugality.
-- Mange le repas de groupe et valide les paris/decisions des chapitres quand
-  ils apparaissent. Les succes de choix sont plus simples avec une sauvegarde
-  manuelle avant la scene.
-- Pour les combos, capacites et elements, profite de la premiere grande arene
-  de chaque chapitre. Les combats de fin de chapitre sont de bons points de
-  sauvegarde, mais ne compte pas uniquement sur eux.
-- Si un collectible manque, ne quitte pas immediatement la selection de
-  chapitre : termine la section et reviens verifier la sauvegarde principale.
+Le 100 % Steam demande les 59 succes, les 45 tenues, les objets de Gardien
+necessaires et 65 % de chaque categorie du compendium. Remplir les 126
+collectibles est un objectif de collection plus large : trois achats
+aleatoires du chapitre 6 s'excluent entre eux. La fiche donne donc :
 
-ORDRE DE PARTIE RECOMMANDE
+[ ] ROUTE STEAM : une sauvegarde principale, les missables, 45 tenues et les
+    seuils du compendium.
+[ ] ROUTE COLLECTION : une sauvegarde de securite au chapitre 6, puis des
+    passages NG+ pour les trois jouets exclusifs.
+[ ] ROUTE DE RATTRAPAGE : les tenues peuvent etre reprises par selection de
+    chapitre ; les archives, objets et objets de Gardien doivent etre recuperes
+    dans une vraie partie ou un NG+ qui continue ensuite.
 
-1. Chapitres 1 a 5 avec tenues, archives, objets et capacites.
-2. Chapitre 6 avec paiement de l'amende et nettoyage du Milano.
-3. Chapitres 7 a 12 avec tous les objets et combos de Gardien.
-4. Chapitres 13 a 16, dernieres tenues et compendium.
-5. Nettoyage par sauvegarde/selection de chapitre si necessaire.
+GARDE-FOUS AVANT DE COMMENCER
 
-CHAPITRES 1 A 3 - DEPART ET PREMIERS COMPTEURS
+- Choisir la difficulte voulue : aucun succes n'exige une difficulte precise.
+- Creer une sauvegarde manuelle differente au debut de chaque chapitre.
+  L'autosave ecrase rapidement la sauvegarde active.
+- La selection de chapitre est un outil de rattrapage imparfait : les choix et
+  beaucoup de collectibles ne se transfèrent pas proprement vers la campagne.
+  Pour un objet important, recharger la sauvegarde du chapitre et continuer.
+- Les tenues sont visibles au Visor Vision ; les archives, objets de Gardien
+  et objets de compendium ne le sont pas. Les objets bleus de lore ne comptent
+  pas dans le compteur de collectibles.
+- En arrivant sur le Milano, ramasser d'abord les objets de Gardien dans les
+  chambres, puis epuiser toutes les conversations avant d'interagir avec
+  l'objet qui avance la mission.
+- Chapitre 2 : prendre systematiquement le parti de Nikki. Reponses a choisir :
+  Re-Activate Elevator, Try to Help Nikki, Take the Blame. Son appareil est
+  necessaire pour ouvrir deux zones au chapitre 7.
+- Chapitre 3 : choisir qui vendre, Groot ou Rocket, puis faire la route
+  correspondante. Les deux chemins ont leurs propres archives ; pour la
+  collection integrale, conserver une sauvegarde avant ce choix et prevoir
+  un NG+.
+- Chapitre 6 : conserver au moins 9 000 credits jusqu'au chapitre 9. Ne rien
+  acheter au marche si l'objectif prioritaire est Galactic Frugality.
+- Chapitre 14 : c'est la derniere grande visite du Milano. Interagir avec
+  chaque objet de Gardien restant avant de lancer la mission.
+- Si un objet apparait dans une chambre mais ne declenche pas de conversation,
+  ne pas l'ignorer : recharger la sauvegarde manuelle precedente. Le compendium
+  valide l'objet apres le dialogue, pas seulement apres le ramassage.
 
-- Prends la premiere aptitude de Star-Lord des que le menu s'ouvre. Lance
-  ensuite une aptitude speciale de chaque Gardien lorsque l'occasion apparait.
-- Explore tous les couloirs avant de monter dans le Milano. Les caisses,
-  cul-de-sac et passerelles contiennent souvent une tenue ou une archive.
-- Dans les premiers combats, fais stagger 25 ennemis au total, remplis le
-  momentum au maximum dix fois et soigne/ranime un compagnon avec Groot.
-- Achete le premier perk puis une aptitude de Star-Lord. Les achats restent
-  utiles pour Fully Loaded, qui demande toutes les aptitudes speciales des
-  compagnons.
-- Avant le depart du chapitre 3, ouvre la roue des capacites et verifie que
-  les quatre Gardiens ont au moins une aptitude achetee.
+ROUTE DE PARTIE RECOMMANDEE
 
-CHAPITRES 4 ET 5 - MILANO ET PREMIERS OBJETS
+1. Chapitres 1 a 3 : faire les premiers paris, objets, tenues, elements et
+   le choix Nikki ; sauvegarder avant le choix Groot/Rocket.
+2. Chapitres 4 et 5 : tenir la route choisie, recuperer les 10 + 8 reperes et
+   epuiser les dialogues du Milano.
+3. Chapitre 6 : garder les credits, ne pas acheter sous pression.
+4. Chapitres 7 a 10 : recuperer les objets de Gardien, tenues et opportunites
+   de combat ; toutes les aptitudes des compagnons doivent commencer a etre
+   achetees.
+5. Chapitres 12 a 14 : finir les tenues, les collectibles et les capacites.
+6. Chapitres 15 et 16 : terminer la campagne, puis lancer NG+ pour equiper
+   toutes les tenues si Fashion Passion ne tombe pas.
 
-- A chaque retour au Milano, parle a tous les Gardiens et interagis avec les
-  objets de chambre. Les conversations alimentent le compendium et les
-  objets de Gardien.
-- Fais les premieres tenues : equipe chaque tenue recuperee une fois pour
-  Like a Glove!, puis garde une liste par chapitre pour Fashion Passion.
-- Les auto-combos sont a faire volontairement : Drax, Gamora, Groot et Rocket.
-  Selectionne le Gardien, attends la cible demandee et declenche son Call to
-  Action ou son auto-combo quand la fenetre apparait.
-- Utilise les armes de Star-Lord sur chaque element au fur et a mesure :
-  glace, foudre, vent et plasma. Les capacites elementaires sont liees a la
-  progression, mais les kills associes demandent une utilisation active.
-- Les affrontements avec plusieurs ennemis servent a placer les capacites
-  de Rocket, Gamora, Drax et Groot. Recharge seulement si l'action specifique
-  n'a pas ete reconnue, pas pour les simples combats.
+INDEX DES 16 CHAPITRES
 
-CHAPITRE 6 - AMENDE ET COMPENDIUM
+[ ] 01. A Risky Gamble.
+[ ] 02. Busted.
+[ ] 03. The Cost of Freedom.
+[ ] 04. The Monster Queen.
+[ ] 05. Due or Die.
+[ ] 06. Between a Rock and a Hard Place.
+[ ] 07. Canine Confusion.
+[ ] 08. The Matriarch.
+[ ] 09. Desperate Times.
+[ ] 10. Test of Faith.
+[ ] 11. Mind Over Matter.
+[ ] 12. Knowhere to Run.
+[ ] 13. Against All Odds.
+[ ] 14. Into the Fire.
+[ ] 15. Broken Promises.
+[ ] 16. The Magus.
 
-- Avant de sortir de la zone, fouille les pieces, les couloirs et les
-  ascenseurs. Les archives et objets peuvent etre sur un trajet secondaire.
-- Paie l'amende des Nova Corps quand le jeu le propose. C'est la protection
-  directe contre le succes Galactic Frugality.
-- Parcours le Milano apres le chapitre : parle a l'equipe, interagis avec
-  les objets et ouvre la liste des objets des Gardiens.
-- Si tu utilises une selection de chapitre pour corriger un oubli, termine
-  le chapitre jusqu'a l'ecran de resultat avant de relancer la partie.
+ROUTE CHRONOLOGIQUE
 
-CHAPITRES 7 A 9 - ACTIONS DE COMBAT
+CHAPITRE 1 - A RISKY GAMBLE
 
-- Pour No Way, Nova Corps, interrompt un Nova Centurion avec l'appel de
-  Gamora. Pour Groot Canal, interromps un Charger avec l'appel de Groot.
-- Pour Slakebuster, interrompt un Slakebeast avec Drax. Pour Drax the
-  Dismemberer, utilise son appel sur un Inquisitor. Ces fenetres sont
-  signalees par la possibilite d'appel de Gardien.
-- Fais les compteurs : 10 ennemis avec Wrath of Katath, 20 avec Five Barrel
-  Barrage, 15 avec Fan the Hammer, 20 avec Eye of the Hurricane et 10 avec
-  l'Executioner de Gamora.
-- Pour Set 'em Up, Knock 'em Down, etourdis 15 ennemis puis touche-les avec
-  un tir charge de Star-Lord. Les groupes resistants sont plus faciles.
-- Pendant chaque combat, alterne les compagnons et ne laisse pas les capacites
-  inutilisees. Les notifications peuvent arriver plusieurs minutes apres
-  l'action, mais le compteur doit monter dans le profil.
+Objectif de chapitre : installer les premiers compteurs sans avancer une
+cutscene avant d'avoir fouille la salle actuelle.
 
-CHAPITRES 10 A 12 - TENUES ET OBJETS DE GARDIEN
+MILANO - AVANT L'ATTERRISSAGE
 
-- Fais une pause a l'entree de chaque nouvelle zone et verifie les chemins
-  lateraux, plateformes, conduits et caisses. Les tenues sont souvent hors de
-  la ligne de marche.
-- Pour Thoughtful Captain, vise la moitie des objets de Gardien. Pour
-  Managerial Skills, complete les objets appartenant a un seul Gardien.
-  Cette checklist est distincte des tenues.
-- Ouvre toutes les archives lisibles et interagis avec les objets de Milano.
-  Lore Hoarder demande 65 % de chaque categorie du compendium, pas seulement
-  un nombre total global.
-- Sur les arenes, utilise Drax pour dismembrer, Gamora pour les executions,
-  Rocket pour les vagues et Groot pour les soins. Ne te contente pas des
-  attaques de Star-Lord.
-- En cas d'oubli, note le chapitre et la salle avant d'activer la selection.
-  Termine la relecture du chapitre au lieu de quitter juste apres la collecte.
+[ ] Quitter la chambre de Star-Lord et entrer dans la chambre de Rocket :
+    Archive - Team Costumes, au sol pres de la porte.
+[ ] Apprendre le fonctionnement de Visor Vision et des composants.
+[ ] Dans la Quarantine Zone, apres l'atterrissage, prendre Archive - Nano-Resin
+    Incident Report sur la caisse jaune a gauche.
 
-CHAPITRES 13 A 16 - FIN DE ROUTE
+QUARANTINE ZONE - PARCOURS DES 11 REPERES
 
-- Continue la collecte jusqu'au dernier point de pause. Les objets restants
-  peuvent etre tres proches des combats, donc explore avant de declencher la
-  sequence suivante.
-- Equipe toutes les tenues restantes et utilise chaque aptitude speciale au
-  moins une fois. Verifie Fully Loaded avant la derniere ligne droite.
-- Termine les combats de capacites : Rocket, Groot, Gamora, Drax et Star-Lord.
-  Les elements, stagger, momentum et soins doivent etre relus dans les stats.
-- Termine la campagne, puis conserve la sauvegarde. Ne commence pas une
-  selection de chapitre tant que le profil Steam n'a pas ete actualise.
+[ ] Apres la premiere longue glissade metallique, prendre la bifurcation
+    droite qui ressemble a une impasse ; marcher sur le metal bleu et tomber
+    dans le trou : Outfit - Rocket, Guardians of the Galaxy (2014).
+[ ] Revenir sur la route gauche, se baisser puis prendre a gauche :
+    Archive - Pride and Fall.
+[ ] Apres le tir sur les parasites et le debut du concours avec Rocket,
+    entrer dans le vaisseau et regarder au sol a droite avant le petit obstacle :
+    Archive - QZ Disposal.
+[ ] Descendre, passer sous les conteneurs et detruire la matiere grise
+    friable : Guardian Collectible - Ravager Comm Bracelet.
+[ ] Apres le premier combat de creatures vertes, monter le chemin puis regarder
+    en face de la matiere friable : Archive - Failed to Send Message.
+[ ] Dans la tete du grand robot, entrer dans la cage de l'etage superieur,
+    au centre de la salle du concours : Archive - Unthinkable.
+[ ] Apres la reunion avec Groot, dans la piece de la cutscene, regarder a
+    droite, sous la matiere rose : Outfit - Groot, Guardians of the Galaxy
+    (2014).
+[ ] Apres le premier etabli d'amelioration et le combat, monter le chemin,
+    se retourner et detruire la matiere friable derriere soi :
+    Guardian Collectible - Spinal Control Unit.
+[ ] Apres avoir retrouve Drax et Gamora et place le pilier, fouiller les tuyaux
+    au centre de la salle : Archive - A Miracle!
+[ ] Detruire davantage de nids de parasites que Rocket pour Eat It, Rodent.
+[ ] Atteindre la fin du chapitre pour A Risky Gamble ; si le pari n'est pas
+    valide, recharger le dernier point avant la serie de tirs.
 
-CHECKLIST COLLECTIONS
+CHAPITRE 2 - BUSTED
 
-[ ] Toutes les tenues et Fashion Passion.
-[ ] La moitie des objets de Gardien pour Thoughtful Captain.
-[ ] Tous les objets d'un Gardien pour Managerial Skills.
-[ ] Archives, objets de Milano et conversations utiles.
-[ ] 65 % de chaque categorie du Galactic Compendium.
-[ ] Toutes les zones de chaque chapitre verifiees avant la sortie.
-[ ] Chaque aptitude speciale des quatre compagnons.
+NICHOIR DE NIKKI
 
-CHECKLIST COMBAT ET SUCCES
+[ ] Pendant le chemin avec Nikki, surveiller les dialogues ; quand elle permet
+    de choisir Encourage her ou Take Control, se detourner vers la gauche,
+    passer sous les tuyaux jaunes et suivre l'alcove :
+    Outfit - Star-Lord, Nova Lord.
+[ ] Dans la cachette secrete de Nikki, derriere les caisses pres des ecrans
+    roses : Guardian Collectible - Broken Translation Device.
+[ ] A l'ascenseur, choisir Re-Activate Elevator > Try to Help Nikki >
+    Take the Blame. Ne pas soutenir la version qui prive Nikki de son appareil.
+[ ] L'objet obtenu est Galactic Compendium Item - Nikki's Personal Device.
+    Il ouvrira une porte au chapitre 7.
+[ ] Dans la zone inondee, reperer le coffre violet derriere les tuyaux :
+    il ne s'ouvre pas encore ; revenir au chapitre 7, pas tenter de forcer le
+    chemin.
+[ ] Laisser le chapitre se terminer pour Busted.
+[ ] Garder les credits et les composants ; Llama Wrangler se valide en
+    suivant la sequence de capture prevue par le chapitre.
 
-[ ] Self-Improvement : aptitude de Star-Lord.
-[ ] Like a Glove! : une tenue equipee.
-[ ] Stagger Swagger : 25 ennemis etourdis.
-[ ] Pick Me Up : ranimer un compagnon.
-[ ] Unstoppable Force : momentum maximum dix fois.
-[ ] Auto-combos : Drax, Gamora, Groot et Rocket.
-[ ] Dynamic Team et Fully Loaded : aptitudes des quatre compagnons.
-[ ] Elements : glace, foudre, vent et plasma.
-[ ] Adding Injury to Insult : 10 ennemis avec Wrath of Katath.
-[ ] Boom Show : 20 ennemis avec Five Barrel Barrage.
-[ ] Bullet Hell : 15 ennemis avec Fan the Hammer.
-[ ] Altitude Adjustment : 20 ennemis avec Eye of the Hurricane.
-[ ] Trained to Perfection : 10 ennemis avec Executioner.
-[ ] Herbal Remedy : dix soins/ranimes avec Groot.
-[ ] Set 'em Up, Knock 'em Down : 15 ennemis etourdis au tir charge.
-[ ] Appels specifiques : Nova Centurion, Charger, Slakebeast et Inquisitor.
-[ ] Galactic Frugality : amende payee au chapitre 6.
+CHAPITRE 3 - THE COST OF FREEDOM
 
-VERIFICATION FINALE - 59/59
+MILANO - TROIS OBJETS A VALIDER
 
-[ ] Campagne terminee.
-[ ] Tenues, objets de Gardien, archives et compendium.
-[ ] Choix et paiement de l'amende verifies.
-[ ] Combat, capacites, elements, momentum et soins.
-[ ] Profil Steam : 59/59 succes.
+[ ] Avant de parler a un personnage qui fait avancer la mission, entrer dans
+    la chambre de Rocket et interagir avec Spinal Control Unit ; epuiser les
+    repliques.
+[ ] Entrer dans la chambre de Star-Lord et interagir avec Ravager Comm
+    Bracelet ; epuiser les repliques.
+[ ] Descendre dans le hangar, prendre Broken Translation Device sur la caisse
+    jaune pres des escaliers ; epuiser les repliques de Groot.
+[ ] Verifier que les trois objets sont passes de l'etat trouve a l'etat
+    enregistre dans Galactic Compendium > Items.
+
+QUARANTINE ZONE - REPERES
+
+[ ] Apres le premier combat de Jellies, envoyer Rocket a la console qui
+    descend la plateforme, puis prendre la rampe rouge a gauche au lieu de
+    poursuivre : Archive - Collateral Damage.
+[ ] Depuis cette archive, prendre le chemin facultatif a droite, se glisser
+    dans la cave et detruire la matiere jaune : Outfit - Gamora, Guardians of
+    the Galaxy (2014).
+[ ] Apres le premier Slakebeast, faire placer le pilier par Drax du cote de
+    l'aile de vaisseau ; descendre sur la plateforme opposee :
+    Guardian Collectible - Chitauri Sear-Cuffs.
+[ ] Faire couper les cables par Gamora et monter sur l'aile : Archive -
+    Off the Grid.
+[ ] Apres l'acquisition de l'element Glace, geler les plateformes, faire
+    couper le mur par Gamora puis regarder a gauche avant de descendre :
+    Archive - Stupid Job.
+[ ] Dans le combat des deux Slakebeasts, viser Slakebuster : affaiblir une
+    bete puis attendre l'invite Call to Action jusqu'a ce que Drax l'exécute.
+    Recharger le checkpoint si un autre Gardien intervient.
+[ ] Apres le combat, faire construire le pont par Groot, prendre a gauche,
+    detruire la matiere grise, geler la cascade et grimper :
+    Outfit - Groot, Five Horsemen of the Apocalypse.
+[ ] Terminer le chapitre pour The Cost of Freedom.
+
+CHOIX DU CHAPITRE 3 : SAUVEGARDE OBLIGATOIRE
+
+[ ] Sauvegarder dans un nouveau slot avant la discussion sur la vente.
+[ ] Pour la route la plus simple a suivre, choisir un seul vendeur et garder
+    le choix jusqu'a la fin du chapitre 4.
+[ ] Aucun dialogue du chapitre 4 ne change le chemin : c'est le choix fait ici
+    qui determine la disposition des archives et des coffres.
+[ ] Pour les 59 succes, une route suffit si les 45 tenues sont recuperees.
+    Pour les 126 collectibles, noter la route choisie et prevoir un NG+.
+
+CHAPITRE 4 - THE MONSTER QUEEN
+
+Le chapitre possede deux tracés. Les objets de tenue et de Gardien sont
+recuperables sur la route choisie ; les archives changent de nom. Ne melange
+pas les deux listes : controle uniquement la colonne correspondant au choix
+fait au chapitre 3.
+
+ROUTE VENTE DE GROOT - 5 REPERES
+
+[ ] Dans la salle du trone, apres les gardes endormis :
+    Archive - Don't Do It.
+[ ] Dans la salle du trone, a gauche de l'entree :
+    Outfit - Drax, Guardians of the Galaxy (2014).
+[ ] Apres l'ascenseur, dans la zone de repas, franchir la table vide sans
+    declencher les bouteilles, puis passer sous l'ouverture :
+    Outfit - Rocket, Five Horsemen of the Apocalypse.
+[ ] Dans la zone des cages, entrer dans la piece de Drax ; derriere les caisses
+    rouges a droite : Guardian Collectible - Assassin's Ring.
+[ ] Dans la piece ou Groot est enferme, sur les bottes de foin a droite :
+    Archive - Care of our Charges.
+
+ROUTE VENTE DE ROCKET - 5 REPERES
+
+[ ] Apres la negociation, glisser puis detruire la structure a gauche :
+    Archive - Drones, sur la caisse.
+[ ] Ne pas suivre immediatement le groupe dans le tunnel ; sauter vers les
+    plateformes jusqu'a l'extremite : Outfit - Drax, Guardians of the Galaxy
+    (2014).
+[ ] Dans les egouts sombres, prendre la premiere bifurcation a gauche :
+    Outfit - Rocket, Five Horsemen of the Apocalypse.
+[ ] Dans le Vault, derriere le grand crane :
+    Archive - Unknown Ghilaron Species.
+[ ] Dans le meme Vault, a droite de l'archive :
+    Guardian Collectible - Assassin's Ring.
+
+[ ] Atteindre la fin du chapitre pour The Monster Queen.
+[ ] Profiter des combats de la route pour lancer des auto-combos et les
+    premieres capacites de Drax, Gamora, Rocket et Groot.
+
+CHAPITRE 5 - DUE OR DIE
+
+MILANO
+
+[ ] Dans la chambre de Star-Lord, interagir avec Chitauri Sear-Cuffs et
+    epuiser les dialogues.
+[ ] Dans la chambre de Gamora, interagir avec Assassin's Ring et epuiser les
+    dialogues.
+
+NOVA CORPS - 6 REPERES DE TERRAIN
+
+[ ] Dans la zone d'attente a quatre comptoirs, prendre a gauche :
+    Archive - The Golden Force.
+[ ] Envoyer Rocket dans la bouche d'aeration, rerouter l'energie et ouvrir la
+    salle gauche : Outfit - Drax, Nova Corps.
+[ ] Dans le Control Center a cinq consoles, entrer dans la deuxieme salle :
+    Guardian Collectible - Cold Case File.
+[ ] Dans le couloir rouge apres la salle, regarder pres de la rambarde droite :
+    Archive - Elevator A23.
+[ ] Dans la salle bleue avec un seul blindage de Centurion, pres de la
+    console : Archive - Memo: Suit Protocol.
+[ ] Apres le combat dans le couloir, entrer dans la salle bleue de serveurs a
+    gauche : Archive - If Anyone Finds this...
+[ ] Dans la salle jaune avec le chariot elevateur, avant de grimper avec
+    l'equipe, contourner le chariot : Outfit - Groot, Nova Corps.
+[ ] Terminer le chapitre pour Due or Die.
+[ ] Equiper une tenue recuperee pour Like a Glove! si ce n'est pas deja fait.
+
+CHAPITRE 6 - BETWEEN A ROCK AND A HARD PLACE
+
+REGLE ARGENT
+
+[ ] Garder au minimum 9 000 credits jusqu'au chapitre 9.
+[ ] Pour Steam, ne rien acheter dans le marche de Knowhere.
+[ ] Pour une collection integrale, creer une sauvegarde manuelle avant la
+    zone marchande ; les achats ci-dessous sont optionnels et s'excluent
+    selon le jouet tire.
+
+KNOWHERE - REPERES ET ACHATS
+
+[ ] Dans le bar, prendre Archive - Egghead Reviews: Mant-Blows sur la table
+    a gauche de l'entree avant que le groupe se separe.
+[ ] Sortir par l'autre porte, garder la gauche, descendre l'escalier et
+    prendre Archive - Overhead dans le tunnel.
+[ ] La loterie pres de l'oeuf blanc donne Knowhere Lottery Ticket contre
+    1 000 credits ; ne l'acheter que sur la sauvegarde de collection.
+[ ] Le Junk Dealer vend Nova Force Lock Disabler pour 1 500 credits.
+[ ] Dans Collector's Emporium, acheter Collector's Emporium Doll pour 2 000
+    credits si la reserve le permet.
+[ ] A l'entree de l'Emporium, acheter Collector's Emporium Ticket pour 5 000
+    credits, sauf si la chanson du bar l'a deja donne gratuitement.
+[ ] A la machine a jouets, 750 credits donnent un seul objet au hasard :
+    Skaggler Doll, Shoomy-Gorath Dangler ou Plush Knowbody.
+[ ] Ces trois jouets ne peuvent pas etre obtenus sur la meme partie. Pour les
+    126 collectibles, noter lequel est tire et le reprendre en NG+.
+[ ] Sur le balcon apres la machine, prendre Archive - "Nothing".
+[ ] Depuis le balcon, monter vers l'arbre de matiere rose :
+    Archive - Egghead Reviews: Spirit Tree.
+[ ] Sous les tuyaux rouges, sous l'escalier :
+    Outfit - Star-Lord, Guardians of the Galaxy (2014).
+[ ] Terminer le chapitre pour Between a Rock and a Hard Place.
+[ ] Ne pas depenser les credits reserves, meme si un vendeur insiste.
+
+CHAPITRE 7 - CANINE CONFUSION
+
+MILANO
+
+[ ] Interagir avec les objets de Gardien obtenus jusque-la avant d'avancer.
+[ ] Si un objet ne declenche pas sa scene, charger la sauvegarde du chapitre
+    precedent et retenter avant de continuer.
+
+RETOUR DANS LA ZONE DE NOVA CORPS
+
+[ ] Apres l'element Electrique, repasser par le grand hall anti-gravite,
+    tirer le circuit et prendre Archive - Warning dans la zone rouge.
+[ ] Monter quelques marches, se baisser sous les obstacles bleus et ouvrir
+    la porte verrouillee avec Nikki's Personal Device :
+    Archive - Cadet Gold's Attendance.
+[ ] Dans la meme zone, detruire la matiere grise, passer sous l'obstacle et
+    suivre la grille jusqu'a Archive - Cadet Gold's Attendance si le premier
+    repere n'a pas ete valide sur la route ; ne compter qu'une entree dans le
+    compendium.
+[ ] Se retourner, tirer la matiere grise en hauteur et monter sur les caisses :
+    Guardian Collectible - Drax's Rap Sheet. Apres les patchs, le prendre dans
+    le couloir rouge au bout de la grille, pas sur l'ancien emplacement.
+[ ] Dans la salle circulaire rouge, rerouter l'energie dans la salle laterale
+    ou Groot cree une plateforme ; ouvrir la porte :
+    Outfit - Rocket, Nova Corps.
+[ ] Dans la prochaine section, tenter No Way, Nova Corps sur un Nova Centurion :
+    affaiblir, attendre Call to Action, recommencer si Gamora ne l'exécute pas.
+[ ] En cherchant Ko-Rel et Nikki, descendre les trois escaliers jusqu'a la zone
+    inondee ; couper l'electricite puis faire ouvrir les tuyaux par Gamora :
+    Outfit - Gamora, Nova Corps.
+[ ] Dans la cachette de Nikki, prendre automatiquement Chewbacca Toy.
+[ ] Dans la meme piece, sur le coussin rouge :
+    Archive - So Many Thoughts.
+[ ] A la sortie de la cachette, sur la caisse jaune a droite :
+    Archive - Urgent Quarantine Warning.
+[ ] Dans le bureau de Ko-Rel, pres de l'ordinateur de Rocket :
+    Guardian Collectible - Galactic War Commendation.
+[ ] Dans la premiere piece a droite du bureau, pres du lit jaune :
+    Archive - Upcoming Accuser Visit.
+[ ] Sur le premier Inquisitor, viser Drax the Dismemberer : ne pas remplir
+    volontairement la jauge de stagger, reduire la vie puis attendre la
+    Call to Action de Drax. Recharger le checkpoint si necessaire.
+[ ] Dans la salle de commande au globe, au fond a gauche :
+    Archive - Cycle Reminders.
+[ ] Dans la meme salle, cote droit :
+    Archive - Golden Shadows.
+[ ] Terminer le chapitre pour Canine Confusion.
+
+CHAPITRE 8 - THE MATRIARCH
+
+[ ] Apres le premier grand affrontement et la descente dans le fluide rouge,
+    faire placer le pilier par Drax a la sortie du tunnel, monter :
+    Outfit - Star-Lord, Bad-Lord.
+[ ] Dans la salle aux ecrans verts, apres la cutscene de Rocket devant la
+    console, regarder le bord du bureau derriere soi :
+    Archive - RE: She Has Come!
+[ ] Dans la salle suivante, a droite de l'etabli, grimper les engrenages :
+    Guardian Collectible - Deep Mine Device.
+[ ] Dans la meme zone, pres de l'Inquisitor au sol :
+    Archive - Notice Malfunction.
+[ ] Apres les trois plateformes volantes, dans la zone circulaire ou l'equipe
+    atterrit, se retourner et contourner les caisses :
+    Outfit - Drax, Cage Match.
+[ ] Faire une aptitude de chaque compagnon et lancer un auto-combo avec Rocket
+    pour Aim Assist si ce n'est pas encore valide.
+[ ] Terminer le chapitre pour The Matriarch.
+
+CHAPITRE 9 - DESPERATE TIMES
+
+MILANO - CINQ OBJETS A ENREGISTRER
+
+[ ] Chambre de Drax : interagir avec Drax's Rap Sheet, objet pris au chapitre 7.
+[ ] Chambre de Gamora : interagir avec Collector's Emporium Doll si achetee.
+[ ] Chambre de Star-Lord : interagir avec Galactic War Commendation.
+[ ] Chambre de Rocket : interagir avec Deep Mine Device.
+[ ] Espace de Groot : interagir avec Cold Case File.
+[ ] Epuiser les dialogues de chaque objet, puis controler Galactic Compendium.
+[ ] Garder les credits jusque-la et payer la dette Nova Corps pour Galactic
+    Frugality. Si le montant demande n'est pas disponible, recharger la
+    sauvegarde du chapitre 6 avant les achats.
+[ ] Terminer le chapitre pour Desperate Times.
+
+CHAPITRE 10 - TEST OF FAITH
+
+GROTTE ET FALAISES
+
+[ ] Apres la rencontre de Mantis, entrer dans la grotte et traverser la
+    riviere ; passer derriere la cascade a droite :
+    Outfit - Gamora, Five Horsemen of the Apocalypse.
+[ ] Apres un combat de Slakebeasts, se glisser sous les cristaux a gauche,
+    monter la premiere falaise : Archive - A Foggy Theory.
+[ ] Depuis cette archive, monter encore ; pres des plantes bleues a droite :
+    Guardian Collectible - Mourning Candle.
+[ ] Au premier groupe de Chargers, affaiblir trois ennemis et attendre que
+    Groot attrape l'un d'eux pour Groot Canal. Recharger le checkpoint jusqu'a
+    voir l'invite de Call to Action.
+[ ] Apres le combat des trois Ogrodes, envoyer Rocket dans la fissure opposee,
+    geler les fuites toxiques, faire lever la plateforme par Groot et suivre la
+    corniche : Outfit - Rocket, Hero of Halfworld.
+[ ] Apres le deuxieme groupe d'Ogrodes, utiliser Wind sur la statue-face,
+    detruire la matiere puis geler les fuites de gaz :
+    Guardian Collectible - Meditation Stone.
+[ ] Avant de se glisser dans la fissure suivante, prendre au sol :
+    Archive - Pip's Quips.
+[ ] Dans la grotte sombre que Groot eclaire, rester contre le mur droit et
+    entrer dans la fissure violette : Outfit - Groot, Annihilation: Conquest
+    Suit. Sauvegarder avant cette zone, car une fissure ressemble a la sortie.
+[ ] Terminer le chapitre pour Test of Faith.
+
+CHAPITRE 11 - MIND OVER MATTER
+
+[ ] Aucun collectible de terrain.
+[ ] Profiter des arènes de combat pour les capacites non validees.
+[ ] Lancer Faithless, Poetry Critic, Titanslayer ou Mind Over Matter seulement
+    quand le succes apparait dans Steam : leurs conditions sont liees a des
+    scenes de campagne et ne demandent pas de detour de collection.
+[ ] Terminer le chapitre pour Mind Over Matter.
+
+CHAPITRE 12 - KNOWHERE TO RUN
+
+MILANO ET ZONE MARCHANDE
+
+[ ] Chambre de Drax : interagir avec Mourning Candle.
+[ ] Chambre de Gamora : interagir avec Meditation Stone.
+[ ] Apres le premier groupe d'ennemis, déplacer le pilier central avec Drax,
+    monter : Outfit - Drax, Thanos Imperative.
+[ ] Avant le grand ascenseur rond, prendre Archive - Knowhere Safe a gauche.
+[ ] Dans la place en feu, dans le stand a droite :
+    Archive - A Prophetic Convergence.
+[ ] Avant la fissure, utiliser Wind sur le mur a droite :
+    Outfit - Rocket, The Smuggler.
+[ ] Apres la fissure et la plateforme de Gamora, ouvrir la grille puis
+    regarder a gauche sur les caisses :
+    Archive - Egghead Reviews: That's More Like It.
+[ ] Apres la barricade, pres des distributeurs :
+    Archive - Reply: Missing Persons Report.
+[ ] Descendre la rampe a gauche, geler les conduites de gaz et monter :
+    Guardian Collectible - Glarnot Mask.
+[ ] Pres des distributeurs, faire couper les cables par Gamora, traverser les
+    deux corniches, tirer le panneau et ouvrir la porte electrique :
+    Outfit - Groot, Impaler.
+[ ] Apres plusieurs combats et la glissade de Drax, se retourner au bas de la
+    pente et passer sous les gravats :
+    Outfit - Gamora, Casual Kill.
+[ ] Dans la zone sableuse, déplacer le pilier avec Drax, faire monter Gamora
+    a mi-hauteur puis sauter dans l'alcove :
+    Outfit - Star-Lord, Apocalypse-Lord.
+[ ] Apres cette tenue, faire lever la plateforme par Groot et prendre sur la
+    caisse bleue : Archive - Investigating the Hand.
+[ ] Passer l'etabli, descendre les marches cassees et fouiller le coin gauche
+    avant la fissure ou Drax attend : Archive - Work-Related Death Report.
+[ ] Terminer le chapitre pour Knowhere to Run.
+
+CHAPITRE 13 - AGAINST ALL ODDS
+
+MILANO ET PLANETE GELEE
+
+[ ] Apres l'atterrissage, chambre de Rocket : interagir avec Glarnot Mask.
+[ ] Apres le premier combat, faire grimper Gamora sur le mur de droite avant
+    de lui faire couper les stalactites :
+    Outfit - Gamora, Black Vortex.
+[ ] Apres la corniche, entrer dans la grotte sombre ; le coffre est juste a
+    droite de l'entree : Outfit - Groot, Five O'Clock Sprouts.
+[ ] Sortir de la grotte, traverser le tunnel glace et le gaz, puis apres le
+    combat faire franchir le pont de Groot ; faire grimper Gamora a droite :
+    Guardian Collectible - Xatar's Blade.
+[ ] Apres l'element Plasma, fondre la glace de la grotte, passer le squelette
+    puis lever la plateforme avec Groot dans l'alcove a gauche de la sortie :
+    Outfit - Star-Lord, War-Lord. Si la tenue est deja dans Collections, le
+    coffre peut etre absent (bonus de precommande / compte Square Enix).
+[ ] Dans la zone des spores venimeuses, bord droit :
+    Guardian Collectible - Deeproot Plant.
+[ ] Dans la meme zone, rocher a trois spores a gauche de l'entree :
+    Archive - The End of My Hunt.
+[ ] Dans cette zone, tout droit au fond :
+    Outfit - Rocket, The Stinger.
+[ ] Apres l'Alpha Wendigo et la plateforme de Groot :
+    Archive - Wendigone!
+[ ] Apres le survivant du camp brule, monter la pente a gauche :
+    Archive - Unsent: Major Setback.
+[ ] Apres le camp, pendant la longue glissade de glace, grimper a gauche
+    pres des spores : Outfit - Drax, Katathian Monk.
+[ ] Terminer le chapitre pour Against All Odds.
+
+CHAPITRE 14 - INTO THE FIRE
+
+DERNIERE VISITE DU MILANO
+
+[ ] Chambre de Drax : interagir avec Xatar's Blade.
+[ ] Espace de Groot : interagir avec Deeproot Plant.
+[ ] Dans la zone du grand ventilateur, prendre les deux corniches opposees
+    au chemin principal puis sauter sur la plateforme :
+    Outfit - Star-Lord, Team-Lord.
+[ ] Apres la deuxieme scene de Lady Hellbender, suivre le chemin jusqu'au
+    pont de Groot puis tourner a droite ; fondre le mur de glace :
+    Outfit - Drax, Five Horsemen of the Apocalypse.
+[ ] Apres le combat suivant, appliquer le repere de version :
+    - avant certains patchs, coffre derriere les caisses apres les tuyaux ;
+    - sur la version moderne, geler les deuxieme cascade puis les trois
+      cascades marquees au Visor, avant l'etabli : Outfit - Gamora,
+      Chosen Daughter.
+[ ] Dans la meme salle cachee des mines, sur le corps :
+    Archive - To Whom It May Concern.
+[ ] Avant d'avancer, controler que les 15 objets de Gardien ont declenche une
+    conversation et sont presents dans Galactic Compendium.
+[ ] Finir le chapitre pour Into The Fire.
+
+CHAPITRES 15 ET 16 - BROKEN PROMISES / THE MAGUS
+
+[ ] Aucun collectible de terrain.
+[ ] Terminer Broken Promises.
+[ ] Terminer The Magus pour l'achievement de fin de campagne.
+[ ] Equiper les tenues encore absentes dans New Game Plus. Les tenues
+    d'histoire suivantes se debloquent par progression : Gold-Lord,
+    Sleek-Lord, Space-Lord, City-Lord, Sun-Lord, Social-Lord, Golden
+    Guardians de Rocket, Groot, Drax et Gamora.
+[ ] Equipement final : ouvrir chaque onglet de tenue, selectionner chaque
+    Gardien, puis changer la tenue au moins une fois ; Fashion Passion se
+    valide a l'equipement de la derniere tenue manquante.
+[ ] Verifier Guardians of the Galaxy pour la fin des 16 chapitres.
+
+REGISTRE DES 15 OBJETS DE GARDIEN
+
+[ ] Ravager Comm Bracelet - chapitre 1 - chambre de Star-Lord.
+[ ] Spinal Control Unit - chapitre 1 - zone apres l'etabli.
+[ ] Broken Translation Device - chapitre 2 - cachette de Nikki.
+[ ] Chitauri Sear-Cuffs - chapitre 3 - zone du Slakebeast.
+[ ] Assassin's Ring - chapitre 4 - chemin Groot ou chemin Rocket.
+[ ] Cold Case File - chapitre 5 - Control Center.
+[ ] Collector's Emporium Doll - chapitre 6 - achat optionnel.
+[ ] Drax's Rap Sheet - chapitre 7 - zone de Nova Corps.
+[ ] Galactic War Commendation - chapitre 7 - bureau de Ko-Rel.
+[ ] Deep Mine Device - chapitre 8 - salle des engrenages.
+[ ] Mourning Candle - chapitre 10 - falaises apres A Foggy Theory.
+[ ] Meditation Stone - chapitre 10 - passage des fuites toxiques.
+[ ] Glarnot Mask - chapitre 12 - conduites pres des distributeurs.
+[ ] Xatar's Blade - chapitre 13 - apres le pont de Groot.
+[ ] Deeproot Plant - chapitre 13 - zone des spores venimeuses.
+[ ] Chaque objet est ramasse dans la zone puis active dans la chambre de son
+    Gardien ; une conversation non jouee ne compte pas comme entree validee.
+
+REGISTRE DES 45 TENUES
+
+Les noms ci-dessous sont le registre de controle. Les emplacements detailles
+sont places dans le chapitre correspondant ; ouvrir la fiche Collections >
+Outfits pour reperer une tenue deja obtenue par bonus de version.
+
+[ ] Rocket - Guardians of the Galaxy (2014).
+[ ] Groot - Guardians of the Galaxy (2014).
+[ ] Star-Lord - Nova Lord.
+[ ] Gamora - Guardians of the Galaxy (2014).
+[ ] Groot - Five Horsemen of the Apocalypse.
+[ ] Drax - Guardians of the Galaxy (2014).
+[ ] Rocket - Five Horsemen of the Apocalypse.
+[ ] Drax - Nova Corps.
+[ ] Groot - Nova Corps.
+[ ] Star-Lord - Guardians of the Galaxy (2014).
+[ ] Rocket - Nova Corps.
+[ ] Gamora - Nova Corps.
+[ ] Star-Lord - Bad-Lord.
+[ ] Drax - Cage Match.
+[ ] Gamora - Five Horsemen of the Apocalypse.
+[ ] Rocket - Hero of Halfworld.
+[ ] Groot - Annihilation: Conquest Suit.
+[ ] Drax - Thanos Imperative.
+[ ] Rocket - The Smuggler.
+[ ] Groot - Impaler.
+[ ] Gamora - Casual Kill.
+[ ] Star-Lord - Apocalypse-Lord.
+[ ] Gamora - Black Vortex.
+[ ] Groot - Five O'Clock Sprouts.
+[ ] Star-Lord - War-Lord.
+[ ] Rocket - The Stinger.
+[ ] Drax - Katathian Monk.
+[ ] Star-Lord - Team-Lord.
+[ ] Drax - Five Horsemen of the Apocalypse.
+[ ] Gamora - Chosen Daughter.
+[ ] Star-Lord - Gold-Lord.
+[ ] Star-Lord - Sleek-Lord.
+[ ] Star-Lord - Space-Lord.
+[ ] Star-Lord - City-Lord.
+[ ] Star-Lord - Sun-Lord.
+[ ] Star-Lord - Social-Lord.
+[ ] Rocket - Golden Guardians.
+[ ] Groot - Golden Guardians.
+[ ] Drax - Golden Guardians.
+[ ] Gamora - Golden Guardians.
+[ ] Tenues bonus de version : verifier Collections plutot que de refaire une
+    zone si le coffre attendu est vide.
+[ ] Equiper au moins une tenue des le premier coffre.
+[ ] Equiper chaque tenue recuperee pendant la progression.
+[ ] Refaire l'equipement complet en NG+ si l'achievement ne tombe pas.
+
+REGISTRE GALACTIC COMPENDIUM
+
+[ ] Archives : objectif integrale 34/34 ; les noms sont listes dans la route
+    de chapitre et les seuils Steam demandent 65 % par categorie.
+[ ] Items : objectif integrale 32/32 ; les objets de Gardien deviennent des
+    Items apres dialogue, les achats de Knowhere completent les trous.
+[ ] Characters, Factions, Creatures et Places : la campagne fournit la base ;
+    lire les nouvelles entrees quand elles apparaissent.
+[ ] Lore : les objets bleus de Visor Vision ne sont pas requis.
+[ ] Chapitre 6 : les trois jouets de la machine sont mutuellement exclusifs :
+    Skaggler Doll, Shoomy-Gorath Dangler et Plush Knowbody.
+[ ] Lore Hoarder : chaque categorie doit atteindre 65 %, pas seulement le
+    total general. Si le succes ne tombe pas, ouvrir les objets du Milano et
+    acheter un objet de chapitre 6 sur une sauvegarde NG+.
+[ ] Managerial Skills : les 15 objets de Gardien de la liste precedente,
+    avec toutes les conversations, valident un ensemble complet de Gardien.
+[ ] Thoughtful Captain : au moins la moitie des objets de Gardien.
+
+REGISTRE COMBAT ET CAPACITES
+
+STAR-LORD
+
+[ ] Self-Improvement : acheter la premiere aptitude des que le menu s'ouvre.
+[ ] Flash Freeze : obtenir l'element Glace au chapitre 3.
+[ ] Shock and Awe : obtenir l'element Foudre au chapitre 7.
+[ ] Fan Friction : obtenir l'element Vent au chapitre 3.
+[ ] Lava Launcher : obtenir l'element Plasma au chapitre 13.
+[ ] Bullet Hell : tuer 15 ennemis avec Fan the Hammer.
+[ ] Altitude Adjustment : tuer 20 ennemis avec Eye of the Hurricane.
+[ ] Set 'em Up, Knock 'em Down : tirer sur 15 ennemis staggered avec un tir
+    charge ; ne pas les achever avec les capacites des compagnons.
+
+GARDIENS
+
+[ ] Dynamic Team : acheter au moins une aptitude speciale pour Gamora, Drax,
+    Rocket et Groot.
+[ ] Fully Loaded : acheter toutes les aptitudes speciales des quatre.
+[ ] Katathian Handshake : auto-combo de Drax.
+[ ] Killer Friendship : auto-combo de Gamora.
+[ ] Aim Assist : auto-combo de Rocket.
+[ ] Timber! : auto-combo de Groot.
+[ ] Adding Injury to Insult : vaincre 10 ennemis affectes par Wrath of Katath.
+[ ] Boom Show : vaincre 20 ennemis avec Five Barrel Barrage.
+[ ] Trained to Perfection : vaincre 10 ennemis avec Executioner.
+[ ] Herbal Remedy : soigner ou ranimer 10 fois avec Gift of the Florae.
+[ ] The Crowd Goes Wild : executer 10 Flair Attacks.
+[ ] Stagger Swagger : etourdir 25 ennemis.
+[ ] Unstoppable Force : atteindre le momentum maximum 10 fois.
+[ ] Pick Me Up : ranimer un Gardien tombe.
+[ ] Stagger puis tir charge : faire 15 executions sans depenser la jauge de
+    stagger par une capacite.
+
+CALLS TO ACTION
+
+[ ] Slakebuster - chapitre 3 - Slakebeast ; affaiblir sans trop stagger et
+    attendre l'invite Drax.
+[ ] No Way, Nova Corps - chapitre 7 - Nova Centurion ; attendre Gamora.
+[ ] Drax the Dismemberer - chapitre 7 ou 8 - Inquisitor ; reduire la vie sans
+    stagger complet, puis attendre Drax.
+[ ] Groot Canal - chapitre 10 - Charger ; attendre Groot.
+[ ] Recharger le dernier checkpoint si le mauvais Gardien execute l'action.
+    Les invites sont aleatoires ; continuer a frapper ne change pas le
+    succes deja rate sur cette apparition.
+
+SUCCES DE COMBAT ET DE CAMPAGNE A CONTROLER
+
+[ ] Llama Wrangler.
+[ ] Squid Kicker.
+[ ] The Cost of Freedom, The Monster Queen, Due or Die.
+[ ] Family Intervention.
+[ ] Mama's Boy.
+[ ] Foom's Doom.
+[ ] Faithless.
+[ ] Poetry Critic.
+[ ] Titanslayer.
+[ ] Mind Over Matter.
+[ ] Against All Odds, Into The Fire, Broken Promises, The Magus.
+[ ] Guardians of the Galaxy.
+
+NETTOYAGE AVANT LA CHECKLIST
+
+[ ] Compendium : Items et Archives ouverts et enregistres, pas seulement
+    ramasses sur le terrain.
+[ ] Tenues : 45/45, puis chacune equipee.
+[ ] Capacites : Dynamic Team puis Fully Loaded.
+[ ] Elements : Glace, Foudre, Vent, Plasma.
+[ ] Combat : Stagger, Momentum, auto-combos, Calls to Action, soins, tirs
+    charges et quatre capacites de specialisation.
+[ ] Argent : Galactic Frugality valide apres paiement de la dette.
+[ ] Campagne : chapitre 16 termine.
+[ ] NG+ : uniquement si une tenue ou un achat de chapitre 6 manque.
+
+CHECKLIST STEAM FINALE - 59/59
+
+- [ ] Self-Improvement — acheter la premiere aptitude de Star-Lord.
+- [ ] Llama Wrangler — reussir la sequence de capture du chapitre 2.
+- [ ] A Risky Gamble — terminer le chapitre 1.
+- [ ] Busted — terminer le chapitre 2.
+- [ ] Eat It, Rodent — gagner le pari de destruction de nids contre Rocket.
+- [ ] Flash Freeze — obtenir l'element Glace.
+- [ ] Like a Glove! — trouver et equiper une tenue.
+- [ ] The Cost of Freedom — terminer le chapitre 3.
+- [ ] Stagger Swagger — etourdir 25 ennemis.
+- [ ] Pick Me Up — ranimer un membre de l'equipe.
+- [ ] Squid Kicker — terminer la rencontre de campagne correspondante.
+- [ ] The Monster Queen — terminer le chapitre 4.
+- [ ] Unstoppable Force — atteindre le momentum maximum 10 fois.
+- [ ] Due or Die — terminer le chapitre 5.
+- [ ] Katathian Handshake — executer un auto-combo avec Drax.
+- [ ] Family Intervention — terminer la rencontre de campagne correspondante.
+- [ ] Between a Rock and a Hard Place — terminer le chapitre 6.
+- [ ] Shock and Awe — obtenir l'element Foudre.
+- [ ] Killer Friendship — executer un auto-combo avec Gamora.
+- [ ] Canine Confusion — terminer le chapitre 7.
+- [ ] The Crowd Goes Wild — executer 10 Flair Attacks.
+- [ ] Mama's Boy — terminer la rencontre de campagne correspondante.
+- [ ] Dynamic Team — acheter une aptitude de chaque compagnon.
+- [ ] The Matriarch — terminer le chapitre 8.
+- [ ] Desperate Times — terminer le chapitre 9.
+- [ ] Fan Friction — obtenir l'element Vent.
+- [ ] Test of Faith — terminer le chapitre 10.
+- [ ] Titanslayer — terminer la rencontre de campagne correspondante.
+- [ ] Mind Over Matter — terminer le chapitre 11.
+- [ ] Timber! — executer un auto-combo avec Groot.
+- [ ] No Way, Nova Corps — interrompre un Nova Centurion avec Gamora.
+- [ ] Knowhere to Run — terminer le chapitre 12.
+- [ ] Lava Launcher — obtenir l'element Plasma.
+- [ ] Against All Odds — terminer le chapitre 13.
+- [ ] Foom's Doom — terminer la rencontre de campagne correspondante.
+- [ ] Into The Fire — terminer le chapitre 14.
+- [ ] Adding Injury to Insult — vaincre 10 ennemis sous Wrath of Katath.
+- [ ] Faithless — terminer la rencontre de campagne correspondante.
+- [ ] Fully Loaded — acheter toutes les aptitudes speciales des compagnons.
+- [ ] Broken Promises — terminer le chapitre 15.
+- [ ] The Magus — terminer le chapitre 16.
+- [ ] Poetry Critic — terminer la rencontre de campagne correspondante.
+- [ ] Guardians of the Galaxy — terminer la campagne.
+- [ ] Aim Assist — executer un auto-combo avec Rocket.
+- [ ] Herbal Remedy — soigner ou ranimer 10 fois avec Groot.
+- [ ] Boom Show — vaincre 20 ennemis avec Five Barrel Barrage.
+- [ ] Bullet Hell — vaincre 15 ennemis avec Fan the Hammer.
+- [ ] Galactic Frugality — payer l'amende Nova Corps.
+- [ ] Slakebuster — interrompre un Slakebeast avec Drax.
+- [ ] Drax the Dismemberer — demembrer un Inquisitor avec Drax.
+- [ ] Trained to Perfection — vaincre 10 ennemis avec Executioner.
+- [ ] Altitude Adjustment — vaincre 20 ennemis avec Eye of the Hurricane.
+- [ ] Groot Canal — interrompre un Charger avec Groot.
+- [ ] Thoughtful Captain — trouver la moitie des objets de Gardien.
+- [ ] Managerial Skills — trouver tous les objets de Gardien d'un Gardien.
+- [ ] Lore Hoarder — atteindre 65 % de chaque categorie du compendium.
+- [ ] Set 'em Up, Knock 'em Down — vaincre 15 ennemis staggered au tir charge.
+- [ ] Fashion Passion — trouver et equiper toutes les tenues.
+- [ ] This Is What We Do — obtenir tous les autres succes.
+
+VERIFICATION FINALE
+
+[ ] Steam affiche 59/59 succes.
+[ ] Les 16 chapitres sont termines.
+[ ] Les 45 tenues sont presentes et equipees.
+[ ] Les 15 objets de Gardien ont declenche leurs conversations sur le Milano.
+[ ] Les categories du Galactic Compendium atteignent chacune 65 % au minimum.
+[ ] Les 126 collectibles sont controles si l'objectif est la collection
+    integrale, avec les trois jouets de chapitre 6 obtenus en NG+.
+[ ] Le choix Nikki du chapitre 2 est valide et son appareil a ouvert la zone
+    du chapitre 7.
+[ ] Le choix Groot/Rocket est note dans la sauvegarde principale.
+[ ] La dette Nova Corps est payee.
+[ ] Les quatre elements, les quatre compagnons et toutes les aptitudes
+    speciales sont controles.
+[ ] Les cinq Calls to Action specifiques sont valides.
+[ ] Une sauvegarde manuelle finale et une sauvegarde NG+ sont conservees.
 
 REGLE ANTI-SPOILER
 
-Les chapitres, salles, objets, compagnons et capacites servent uniquement a
-ordonner la progression. Aucun evenement narratif, boss, identite, mort, fin
-ou consequence n'est decrit.
+Cette fiche indique seulement des noms de chapitres, objets, tenues, zones et
+actions de suivi. Elle ne donne aucun evenement, aucune identite, aucune mort,
+aucune fin et aucune consequence narrative. Pour un choix de dialogue, garder
+une sauvegarde avant la scene et suivre la ligne indiquee sans consulter le
+reste de l'histoire.
