@@ -1789,6 +1789,14 @@ button {
     padding: 24px 20px 25px;
   }
 
+  .reader-cover-facts {
+    gap: 6px;
+  }
+
+  .reader-cover-facts div {
+    padding: 9px 8px;
+  }
+
   .reader-backlink {
     margin-bottom: 22px;
   }
@@ -1815,6 +1823,21 @@ button {
 
   .reader-document {
     padding: 22px 17px 31px;
+  }
+
+  .reader-document-intro {
+    gap: 13px;
+    margin-bottom: 20px;
+  }
+
+  .reader-document-seal {
+    min-width: 64px;
+    padding-inline: 7px;
+  }
+
+  .reader-document-footer {
+    align-items: flex-start;
+    flex-direction: column;
   }
 
   .guide-heading {
