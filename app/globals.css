@@ -1330,6 +1330,90 @@ button {
   box-shadow: var(--shadow-soft);
 }
 
+.reader-document-intro {
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: 24px;
+  margin: -2px 0 26px;
+  padding: 0 0 22px;
+  border-bottom: 1px solid color-mix(in srgb, var(--route-ink) 16%, var(--line));
+}
+
+.document-kicker {
+  margin: 0 0 9px;
+  color: var(--coral);
+  font-size: 0.56rem;
+  font-weight: 900;
+  letter-spacing: 0.16em;
+}
+
+.reader-document-intro h2 {
+  margin: 0;
+  color: var(--navy);
+  font-size: clamp(1.25rem, 2vw, 1.7rem);
+  letter-spacing: -0.055em;
+  line-height: 1;
+}
+
+.reader-document-intro p:last-child {
+  max-width: 620px;
+  margin: 9px 0 0;
+  color: var(--muted);
+  font-size: 0.72rem;
+  line-height: 1.62;
+}
+
+.reader-document-seal {
+  display: grid;
+  min-width: 76px;
+  flex: 0 0 auto;
+  justify-items: center;
+  padding: 11px 10px 9px;
+  border: 1px solid color-mix(in srgb, var(--coral) 45%, var(--line));
+  border-radius: 50% 50% 50% 7px;
+  background: color-mix(in srgb, var(--coral) 7%, var(--card));
+  color: var(--coral);
+}
+
+.reader-document-seal span,
+.reader-document-seal small {
+  font-size: 0.48rem;
+  font-weight: 900;
+  letter-spacing: 0.12em;
+}
+
+.reader-document-seal strong {
+  margin: 2px 0;
+  font-size: 1rem;
+  letter-spacing: -0.05em;
+}
+
+.reader-document-footer {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 15px;
+  margin-top: 42px;
+  padding-top: 18px;
+  border-top: 1px solid color-mix(in srgb, var(--route-ink) 16%, var(--line));
+  color: var(--muted);
+  font-size: 0.55rem;
+  font-weight: 900;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+}
+
+.reader-document-footer a {
+  color: var(--coral);
+  letter-spacing: 0.04em;
+}
+
+.reader-document-footer a:hover,
+.reader-document-footer a:focus-visible {
+  text-decoration: underline;
+}
+
 .guide-heading {
   scroll-margin-top: 173px;
   margin: 40px 0 16px;
