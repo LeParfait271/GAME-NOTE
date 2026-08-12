@@ -27,4 +27,6 @@ Les fichiers non listés dans la section d’intégration restent disponibles co
 - symbole de navigation : `logo/game-note-symbol-route.png` ;
 - icônes PWA : `icons/game-note-app-icon-192.png` et `icons/game-note-app-icon-512.png` ;
 - bandeau d’accueil : `banners/game-note-hero-ink-route.png` ;
+- bandeau d’archive : `banners/game-note-banner-archive.png` ;
+- cartes de repères : `cards/game-note-card-route.png` et `cards/game-note-card-spoiler-safe.png` ;
 - carte sociale principale : `social/game-note-og-dark.png`.

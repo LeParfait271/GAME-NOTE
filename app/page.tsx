@@ -3314,7 +3314,63 @@ export default function Home() {
           </a>
         </div>
       </section>
+      <section className="visual-notes" aria-label="Les repères Game Note">
+        <article className="visual-note visual-note-route">
+          <div className="visual-note-art">
+            {/* eslint-disable-next-line @next/next/no-img-element */}
+            <img
+              src="/images/cards/game-note-card-route.png"
+              alt="Illustration abstraite d'une route balisée dans un carnet sombre"
+              width={1536}
+              height={1024}
+              loading="lazy"
+              decoding="async"
+            />
+          </div>
+          <div className="visual-note-copy">
+            <p className="visual-note-kicker">01 / ROUTE</p>
+            <h2>Le fil avant le bruit.</h2>
+            <p>Une progression lisible, les bons détours et les repères qui évitent de revenir en arrière.</p>
+          </div>
+        </article>
+        <article className="visual-note visual-note-spoiler">
+          <div className="visual-note-art">
+            {/* eslint-disable-next-line @next/next/no-img-element */}
+            <img
+              src="/images/cards/game-note-card-spoiler-safe.png"
+              alt="Illustration abstraite d'une page de carnet protégée par un repère corail"
+              width={1536}
+              height={1024}
+              loading="lazy"
+              decoding="async"
+            />
+          </div>
+          <div className="visual-note-copy">
+            <p className="visual-note-kicker">02 / SANS SPOILER</p>
+            <h2>Lire juste ce qu&apos;il faut.</h2>
+            <p>Les informations utiles au moment utile, sans transformer la découverte en liste à cocher.</p>
+          </div>
+        </article>
+        <article className="visual-note-banner">
+          <div className="visual-note-banner-art">
+            {/* eslint-disable-next-line @next/next/no-img-element */}
+            <img
+              src="/images/banners/game-note-banner-archive.png"
+              alt="Bandeau illustré de l'archive Game Note"
+              width={1920}
+              height={640}
+              loading="lazy"
+              decoding="async"
+            />
+          </div>
+          <div className="visual-note-banner-copy">
+            <p className="visual-note-kicker">THE ARCHIVE / GAME NOTE</p>
+            <p>Un carnet de route personnel, pensé pour rester calme, précis et toujours à portée de main.</p>
+          </div>
+        </article>
+      </section>
       <section className="section-block library-page" id="guides">
+
         <div className="section-heading">
           <div>
             <p className="kicker"><span>GAME NOTE</span><span>BIBLIOTHÈQUE</span></p>

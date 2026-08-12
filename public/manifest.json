@@ -9,7 +9,7 @@
   "display_override": ["window-controls-overlay", "standalone", "browser"],
   "orientation": "any",
   "background_color": "#0d1a21",
-  "theme_color": "#173b53",
+  "theme_color": "#071922",
   "lang": "fr",
   "categories": ["games", "books", "utilities"],
   "icons": [
