@@ -42,7 +42,7 @@ const GUIDE_MARKER_TOKENS =
 
 const GUIDE_MARKER_GUIDE_ID = "final-fantasy-vii-2013";
 const GUIDE_COLLECTIBLE_HEADING =
-  /^(?:coffres?|objets?|items?|materias?|collectibles?|recompenses?)\b/i;
+  /^(?:coffres?|objets?|items?|materias?|collectibles?|recompenses?)\b.*:\s*$/i;
 
 type GuideBlock = {
   id: string;
@@ -93,7 +93,8 @@ const isUppercaseHeading = (value: string) => {
 
 const isNamedHeading = (value: string) =>
   /^\p{Lu}/u.test(value) &&
-  /^(?:partie|chapitre|acte|épisode|episode|route|ordre|objectif|périmètre|perimetre|garde-fous|garde fous|missables|conditions|checklist|vérification|verification|nettoyage|préparation|preparation|prologue|épilogue|epilogue|campagne|post-game|post game|dlc|succès|succes|fin|sources)\b/i.test(
+  !/:/.test(value) &&
+  /^(?:partie|chapitre|acte|épisode|episode|route|ordre|objectif|garde-fous|garde fous|missables|conditions|checklist|vérification|verification|nettoyage|préparation|preparation|prologue|épilogue|epilogue|campagne|post-game|post game|dlc|succès|succes|fin|sources)\b/i.test(
     value,
   );
 
@@ -199,6 +200,7 @@ const parseGuide = (text: string, markersEnabled: boolean): GuideBlock[] => {
   let checkIndex = 0;
   let finalChecklistMode = false;
   let sectionMarker: GuideMarkerKind | undefined;
+  let lastStructuredKind: GuideBlock["kind"] | undefined;
 
   const pushBlock = (
     kind: GuideBlock["kind"],
@@ -243,17 +245,20 @@ const parseGuide = (text: string, markersEnabled: boolean): GuideBlock[] => {
 
     if (!line || /^[-=_]{6,}$/.test(line)) {
       flushParagraph();
+      lastStructuredKind = undefined;
       continue;
     }
 
     if (lineMarkers.length) {
       flushParagraph();
+      lastStructuredKind = undefined;
     }
 
     const markdownHeading = line.match(/^#{1,3}\s+(.+)$/);
     if (markdownHeading) {
       flushParagraph();
       pushBlock("heading", markdownHeading[1].trim(), lineMarkers);
+      lastStructuredKind = undefined;
       continue;
     }
 
@@ -261,6 +266,7 @@ const parseGuide = (text: string, markersEnabled: boolean): GuideBlock[] => {
     if (checklist && finalChecklistMode) {
       flushParagraph();
       pushBlock("check", checklist[1].trim(), lineMarkers, checkIndex++);
+      lastStructuredKind = "check";
       continue;
     }
 
@@ -268,17 +274,19 @@ const parseGuide = (text: string, markersEnabled: boolean): GuideBlock[] => {
     if (bullet) {
       flushParagraph();
       pushBlock("bullet", bullet[1].trim(), lineMarkers);
+      lastStructuredKind = "bullet";
       continue;
     }
 
     const headingText = line.replace(/^\d+(?:\.\d+)*[.)]\s+/, "").trim();
     const numberedHeading = /^\d+(?:\.\d+)*[.)]\s+/.test(line);
     const majorNumberedHeading = /^\d{2,}(?:\.\d+)*[.)]\s+/.test(line);
+    const collectibleHeading = GUIDE_COLLECTIBLE_HEADING.test(line);
     const heading =
       numberedHeading ||
       isUppercaseHeading(line) ||
       isNamedHeading(line) ||
-      /^(?:coffres?|objets?|pickups?|collectibles?)\b/i.test(line);
+      collectibleHeading;
 
     if (heading && line.length <= 120) {
       flushParagraph();
@@ -300,11 +308,28 @@ const parseGuide = (text: string, markersEnabled: boolean): GuideBlock[] => {
           ? "chest"
           : undefined;
       }
+      lastStructuredKind = undefined;
       continue;
+    }
+
+    if (lastStructuredKind === "bullet" || lastStructuredKind === "check") {
+      const previous = blocks[blocks.length - 1];
+      if (previous?.kind === lastStructuredKind) {
+        previous.text = `${previous.text} ${line}`.replace(/\s+/g, " ").trim();
+        if (markersEnabled) {
+          previous.markers = uniqueGuideMarkers([
+            ...(previous.markers ?? []),
+            ...lineMarkers,
+            ...inferGuideMarkers(previous.text, previous.kind, sectionMarker),
+          ]);
+        }
+        continue;
+      }
     }
 
     paragraphMarkers = uniqueGuideMarkers([...paragraphMarkers, ...lineMarkers]);
     paragraph.push(line);
+    lastStructuredKind = undefined;
   }
 
   flushParagraph();

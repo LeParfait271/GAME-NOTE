@@ -2658,3 +2658,456 @@ button.reader-neighbor:focus-visible {
     padding: 18px 16px 28px;
   }
 }
+
+/* Refonte du lecteur : une vraie colonne de lecture, sans bandes ni panneaux flottants. */
+@media screen {
+  :root {
+    --reader-max: 1480px;
+  }
+
+  .pwa-actions {
+    top: 86px;
+    right: max(24px, calc((100vw - var(--reader-max)) / 2));
+  }
+
+  .site-shell.is-reader-mode .topbar,
+  .site-shell.is-reader-mode .reader-section,
+  .site-shell.is-reader-mode .site-footer {
+    width: min(var(--reader-max), calc(100% - 64px));
+  }
+
+  .site-shell.is-reader-mode .reader-section {
+    padding-block: 52px 126px;
+  }
+
+  .site-shell.is-reader-mode .reader-cover {
+    grid-template-columns: minmax(320px, 0.78fr) minmax(0, 1.22fr);
+    border-radius: 18px;
+    background: var(--card);
+    box-shadow: 0 24px 62px rgba(0, 0, 0, 0.28);
+  }
+
+  .site-shell.is-reader-mode .reader-cover::before {
+    height: 4px;
+    background: linear-gradient(90deg, var(--coral) 0 24%, transparent 24% 100%);
+  }
+
+  .site-shell.is-reader-mode .reader-cover-art {
+    min-height: 352px;
+    height: auto;
+  }
+
+  .site-shell.is-reader-mode .reader-cover-art img {
+    opacity: 0.9;
+    filter: saturate(0.88) contrast(1.05);
+  }
+
+  .site-shell.is-reader-mode .reader-cover-copy {
+    justify-content: flex-start;
+    padding: 48px 56px 42px;
+  }
+
+  .site-shell.is-reader-mode .reader-backlink {
+    margin-bottom: 38px;
+    font-size: 0.68rem;
+  }
+
+  .site-shell.is-reader-mode .reader-cover-copy h1 {
+    max-width: 15ch;
+    font-size: clamp(2.8rem, 4.8vw, 5.25rem);
+    line-height: 0.91;
+  }
+
+  .site-shell.is-reader-mode .reader-cover-alert {
+    grid-column: 1 / -1;
+    align-items: center;
+    min-height: 0;
+    padding: 21px 36px 23px;
+    border-top: 1px solid var(--line);
+    border-left: 0;
+    background: linear-gradient(90deg, color-mix(in srgb, var(--coral) 8%, var(--card)), var(--card));
+  }
+
+  .site-shell.is-reader-mode .reader-cover-alert p {
+    max-width: 900px;
+  }
+
+  .site-shell.is-reader-mode .reader-cover-facts {
+    max-width: 620px;
+    gap: 0;
+    margin-top: 27px;
+  }
+
+  .site-shell.is-reader-mode .reader-cover-facts div {
+    padding: 9px 16px 9px 0;
+    border: 0;
+    border-right: 1px solid var(--line);
+    border-radius: 0;
+    background: transparent;
+  }
+
+  .site-shell.is-reader-mode .reader-cover-facts div + div {
+    padding-left: 16px;
+  }
+
+  .site-shell.is-reader-mode .reader-cover-facts div:last-child {
+    border-right: 0;
+  }
+
+  .site-shell.is-reader-mode .reader-neighbors {
+    gap: 16px;
+    margin-top: 16px;
+  }
+
+  .site-shell.is-reader-mode .reader-neighbor {
+    min-height: 56px;
+    padding: 10px 16px;
+    border-radius: 10px;
+    background: color-mix(in srgb, var(--card) 70%, transparent);
+  }
+
+  .site-shell.is-reader-mode .reader-tools {
+    top: 72px;
+    grid-template-columns: minmax(178px, 0.42fr) minmax(300px, 1.65fr) auto auto;
+    gap: 18px;
+    margin: 36px 0 38px;
+    padding: 12px 0;
+    border: 0;
+    border-top: 1px solid var(--line);
+    border-bottom: 1px solid var(--line);
+    border-radius: 0;
+    background: color-mix(in srgb, var(--paper) 96%, transparent);
+    box-shadow: none;
+    backdrop-filter: blur(12px);
+  }
+
+  .site-shell.is-reader-mode .reader-tools .search-wrap {
+    border-color: color-mix(in srgb, var(--line) 90%, var(--blue));
+    border-radius: 8px;
+    background: var(--paper-deep);
+  }
+
+  .site-shell.is-reader-mode .reader-layout {
+    grid-template-columns: minmax(250px, 272px) minmax(0, 1fr);
+    gap: 38px;
+  }
+
+  .site-shell.is-reader-mode .reader-sidebar {
+    top: 164px;
+    gap: 0;
+    padding-right: 24px;
+    border-right: 1px solid var(--line);
+  }
+
+  .site-shell.is-reader-mode .reader-sidebar-card,
+  .site-shell.is-reader-mode .reader-progress-card {
+    padding: 17px 0 20px;
+    border: 0;
+    border-radius: 0;
+    background: transparent;
+  }
+
+  .site-shell.is-reader-mode .reader-sidebar-card {
+    padding-top: 0;
+    border-top: 2px solid var(--coral);
+  }
+
+  .site-shell.is-reader-mode .reader-progress-card {
+    border-top: 1px solid var(--line);
+    border-bottom: 1px solid var(--line);
+  }
+
+  .site-shell.is-reader-mode .reader-outline {
+    max-height: min(540px, calc(100vh - 265px));
+    gap: 0;
+  }
+
+  .site-shell.is-reader-mode .reader-outline a {
+    padding: 9px 0;
+    border-left: 0;
+    border-bottom: 1px solid color-mix(in srgb, var(--line) 70%, transparent);
+    font-size: 0.7rem;
+  }
+
+  .site-shell.is-reader-mode .reader-outline a:hover,
+  .site-shell.is-reader-mode .reader-outline a:focus-visible {
+    padding-left: 8px;
+    background: transparent;
+  }
+
+  .site-shell.is-reader-mode .reader-outline a.is-subheading {
+    padding-left: 13px;
+    font-size: 0.65rem;
+  }
+
+  .site-shell.is-reader-mode .reader-download {
+    margin-top: 15px;
+    padding: 14px 0;
+    border: 0;
+    border-top: 1px solid var(--line);
+    border-bottom: 1px solid var(--line);
+    border-radius: 0;
+  }
+
+  .site-shell.is-reader-mode .reader-document {
+    padding: 46px clamp(32px, 5.2vw, 82px) 76px;
+    border-radius: 18px;
+    background: var(--card);
+    background-image: none;
+    box-shadow: none;
+  }
+
+  .site-shell.is-reader-mode .reader-document-intro {
+    margin-bottom: 36px;
+    padding-bottom: 26px;
+  }
+
+  .site-shell.is-reader-mode .reader-document-seal {
+    min-width: 82px;
+    padding: 6px 0 6px 16px;
+    border: 0;
+    border-left: 1px solid var(--coral);
+    border-radius: 0;
+    background: transparent;
+  }
+
+  .site-shell.is-reader-mode .guide-marker-legend {
+    gap: 8px 16px;
+    margin-top: 18px;
+    padding-top: 15px;
+  }
+
+  .site-shell.is-reader-mode .guide-marker {
+    width: 1.2rem;
+    height: 1.2rem;
+    border-radius: 5px;
+    font-size: 0.56rem;
+  }
+
+  .site-shell.is-reader-mode .guide-heading-row {
+    grid-template-columns: 44px minmax(0, 1fr);
+    gap: 17px;
+    max-width: 960px;
+    margin: 54px 0 23px;
+    padding: 0;
+    border-top: 0;
+  }
+
+  .site-shell.is-reader-mode .guide-heading-row:first-of-type {
+    margin-top: 32px;
+  }
+
+  .site-shell.is-reader-mode .guide-heading-index {
+    width: 44px;
+    height: 44px;
+    border-radius: 12px 12px 12px 4px;
+    background: color-mix(in srgb, var(--coral) 12%, var(--card));
+  }
+
+  .site-shell.is-reader-mode .guide-heading-copy > .guide-heading {
+    margin-top: 0;
+    font-size: clamp(1.65rem, 2.8vw, 2.45rem);
+    line-height: 1.02;
+  }
+
+  .site-shell.is-reader-mode .guide-subheading {
+    max-width: 900px;
+    margin: 35px 0 15px;
+    padding: 0 0 0 16px;
+    border: 0;
+    border-left: 3px solid var(--coral);
+    border-radius: 0;
+    background: transparent;
+    font-size: 1.03rem;
+  }
+
+  .site-shell.is-reader-mode .guide-paragraph {
+    max-width: 900px;
+    margin-bottom: 18px;
+    font-size: 0.92rem;
+    line-height: 1.82;
+  }
+
+  .site-shell.is-reader-mode .guide-bullet {
+    position: relative;
+    max-width: 900px;
+    grid-template-columns: minmax(0, 1fr);
+    gap: 0;
+    margin-bottom: 12px;
+    padding: 0 0 0 25px;
+    border: 0;
+    background: transparent;
+    font-size: 0.9rem;
+    line-height: 1.72;
+  }
+
+  .site-shell.is-reader-mode .guide-bullet-arrow {
+    position: absolute;
+    top: 0;
+    left: 0;
+  }
+
+  .site-shell.is-reader-mode .guide-check {
+    max-width: 900px;
+    margin-bottom: 0;
+    padding: 12px 0;
+    border: 0;
+    border-top: 1px solid var(--line);
+    border-radius: 0;
+    background: transparent;
+    font-size: 0.86rem;
+  }
+
+  .site-shell.is-reader-mode .reader-document-footer {
+    max-width: 900px;
+    margin-top: 72px;
+  }
+}
+
+@media screen and (max-width: 1040px) {
+  .site-shell.is-reader-mode .reader-layout {
+    grid-template-columns: 1fr;
+    gap: 28px;
+  }
+
+  .site-shell.is-reader-mode .reader-sidebar {
+    position: static;
+    grid-template-columns: minmax(0, 1.35fr) minmax(220px, 0.65fr);
+    gap: 20px;
+    padding-right: 0;
+    border-right: 0;
+  }
+
+  .site-shell.is-reader-mode .reader-sidebar-card {
+    border-top: 2px solid var(--coral);
+  }
+
+  .site-shell.is-reader-mode .reader-progress-card {
+    border-top: 2px solid var(--blue);
+    border-bottom: 0;
+  }
+
+  .site-shell.is-reader-mode .reader-download {
+    grid-column: 1 / -1;
+  }
+}
+
+@media screen and (max-width: 760px) {
+  .pwa-actions {
+    top: 80px;
+    right: 15px;
+    left: 15px;
+    justify-content: center;
+    max-width: none;
+  }
+
+  .site-shell.is-reader-mode .topbar,
+  .site-shell.is-reader-mode .reader-section,
+  .site-shell.is-reader-mode .site-footer {
+    width: min(100% - 30px, var(--reader-max));
+  }
+
+  .site-shell.is-reader-mode .reader-section {
+    padding-block: 34px 82px;
+  }
+
+  .site-shell.is-reader-mode .reader-cover {
+    display: block;
+    border-radius: 16px;
+  }
+
+  .site-shell.is-reader-mode .reader-cover-art {
+    height: 205px;
+  }
+
+  .site-shell.is-reader-mode .reader-cover-copy {
+    padding: 28px 23px 30px;
+  }
+
+  .site-shell.is-reader-mode .reader-backlink {
+    margin-bottom: 25px;
+  }
+
+  .site-shell.is-reader-mode .reader-cover-copy h1 {
+    max-width: 12ch;
+    font-size: clamp(2.35rem, 11vw, 3.4rem);
+  }
+
+  .site-shell.is-reader-mode .reader-cover-alert {
+    padding: 22px 23px 24px;
+  }
+
+  .site-shell.is-reader-mode .reader-cover-facts div {
+    padding-inline: 8px;
+  }
+
+  .site-shell.is-reader-mode .reader-cover-facts div:first-child {
+    padding-left: 0;
+  }
+
+  .site-shell.is-reader-mode .reader-neighbors {
+    gap: 9px;
+  }
+
+  .site-shell.is-reader-mode .reader-tools {
+    position: static;
+    grid-template-columns: 1fr;
+    gap: 9px;
+    margin: 28px 0 28px;
+    padding: 14px 0;
+  }
+
+  .site-shell.is-reader-mode .reader-sidebar {
+    grid-template-columns: 1fr;
+    gap: 0;
+  }
+
+  .site-shell.is-reader-mode .reader-outline {
+    max-height: 280px;
+  }
+
+  .site-shell.is-reader-mode .reader-progress-card {
+    border-top: 1px solid var(--line);
+  }
+
+  .site-shell.is-reader-mode .reader-download {
+    grid-column: auto;
+  }
+
+  .site-shell.is-reader-mode .reader-document {
+    padding: 30px 21px 46px;
+    border-radius: 14px;
+  }
+
+  .site-shell.is-reader-mode .reader-document-intro {
+    gap: 16px;
+    margin-bottom: 26px;
+  }
+
+  .site-shell.is-reader-mode .reader-document-seal {
+    min-width: 58px;
+    padding-left: 11px;
+  }
+
+  .site-shell.is-reader-mode .guide-heading-row {
+    grid-template-columns: 34px minmax(0, 1fr);
+    gap: 12px;
+    margin-top: 40px;
+  }
+
+  .site-shell.is-reader-mode .guide-heading-index {
+    width: 34px;
+    height: 34px;
+    border-radius: 9px 9px 9px 3px;
+    font-size: 0.59rem;
+  }
+
+  .site-shell.is-reader-mode .guide-heading-copy > .guide-heading {
+    font-size: 1.55rem;
+  }
+
+  .site-shell.is-reader-mode .guide-paragraph,
+  .site-shell.is-reader-mode .guide-bullet {
+    font-size: 0.86rem;
+  }
+}
