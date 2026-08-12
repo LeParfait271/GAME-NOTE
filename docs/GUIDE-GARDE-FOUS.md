@@ -17,43 +17,44 @@ terminés.
 
 ## Promesse de chaque guide actif
 
-### Regle absolue : sans spoiler
+### Politique de révélations
 
-Tous les guides Game Note, sans exception, sont rediges sans spoiler d'histoire.
-Cette regle s'applique aussi aux jeux a fins multiples, aux guides de succes
-et aux sections post-game. Il est interdit de reveler une mort, une identite,
-une trahison, une fin, un twist, la resolution d'une quete ou la consequence
-narrative d'un choix. Les noms de lieux, de missions, de boss, de personnages
-et de succes sont autorises uniquement quand ils servent a se reperer.
+Les spoilers ne sont plus interdits par défaut. Quand le propriétaire demande
+une soluce complète avec spoilers, le guide peut donner les identités, morts,
+fins, twists, conséquences de choix, boss et solutions exactes nécessaires au
+100 %. La priorité devient la précision de la route et la capacité à terminer
+le jeu, pas la préservation de la découverte narrative.
 
-Une condition de succes est formulee par son action de jeu, son emplacement,
-son ordre et son effet mecanique. Si un intitulé impose un nom narratif, le nom
-est conserve sans commentaire scenaristique. Aucun guide ne doit contenir une
-formule du type « spoilers intégraux », « avec spoilers », « voici la fin » ou
-une explication qui incite a lire une révélation. En cas de doute, on retire le
-detail narratif et on laisse le guide en `draft` pour relecture.
+Les révélations doivent néanmoins rester utiles : elles sont placées dans
+l'ordre de jeu, annoncées par un titre clair quand elles changent la route et
+séparées des alertes de missable. Une phrase narrative ne remplace jamais un
+emplacement, une condition, une récompense ou une sauvegarde. Si le propriétaire
+redemande une version sans spoiler, cette décision doit être inscrite comme
+limite du lot concerné plutôt que supposée pour tous les guides.
 
 Chaque fichier TXT doit fournir, dans cet ordre :
 
 1. une fiche de périmètre : version, DLC inclus ou non, succès Steam couverts
    et éventuelles limites online ;
-2. une préparation sans spoiler : difficulté conseillée, réglages et
-   sauvegardes de sécurité ;
+2. une préparation technique : difficulté conseillée, réglages et sauvegardes
+   de sécurité ;
 3. une route chronologique complète, avec les détours placés au moment sûr ;
 4. les missables signalés avant qu'ils deviennent ratables ;
 5. les quêtes secondaires, collectibles, achats, combats et fins nécessaires ;
-6. un nettoyage post-game séparé, sans révéler les événements de l'histoire ;
+6. un nettoyage post-game séparé, avec les révélations nécessaires lorsqu'elles
+   sont autorisées ;
 7. une checklist finale succès par succès et une section « vérification ».
 
-## Règles anti-spoiler
+## Règles d'exhaustivité narrative
 
-- Ne jamais révéler une mort, une identité, une trahison, une fin ou un twist.
-- Les noms indispensables à la navigation sont autorisés ; les explications
-  d'histoire ne le sont pas.
+- Les révélations autorisées doivent servir une action, un choix, une route ou
+  une vérification ; ne pas ajouter de résumé narratif gratuit.
 - Les alertes importantes apparaissent avant la zone concernée, jamais après.
-- Aucun titre de succès ne doit être accompagné d'une explication narrative.
-- Les choix sont décrits par leur effet de jeu et leur condition, pas par leur
-  conséquence scénaristique.
+- Un titre de succès peut être accompagné de la condition exacte, y compris
+  lorsqu'elle révèle un élément de l'histoire.
+- Les choix indiquent l'option correcte, le rang, la fenêtre et la conséquence
+  utile au 100 % ; les alternatives ratées sont mentionnées si elles exigent
+  une nouvelle partie.
 
 ## Règles 100 % Steam
 
@@ -112,9 +113,10 @@ texte du guide est rédigé de façon originale et pratique.
 - [ ] chaque succès est présent une fois, sans doublon ;
 - [ ] chaque missable est placé avant son point de non-retour ;
 - [ ] les DLC et le online sont séparés du parcours principal ;
-- [ ] la route peut être suivie sans connaître l'histoire ;
-- [ ] une relecture spoiler confirme l'absence de mort, identité, trahison,
-      fin, twist et conséquence narrative révélés ;
+- [ ] la route indique explicitement les révélations nécessaires lorsque les
+      spoilers sont autorisés pour le lot ;
+- [ ] une relecture de cohérence confirme que chaque révélation sert une
+      étape, un choix, une récompense ou une vérification 100 % ;
 - [ ] les fichiers TXT s'ouvrent en UTF-8 et gardent les accents ;
 - [ ] le fichier est référencé dans `docs/guide-catalog.json` ;
 - [ ] le contrôle automatique normal puis le contrôle strict passent ;
@@ -124,7 +126,8 @@ texte du guide est rédigé de façon originale et pratique.
 ## Commit et mise à jour du workflow — obligatoire
 
 Chaque commit, y compris un commit d'interface, de correction technique ou de
-contenu FFVII, doit contenir une mise à jour coordonnée de ces trois fichiers :
+contenu FFVII/Expedition 33, doit contenir une mise à jour coordonnée de ces
+trois fichiers :
 
 1. `A_LIRE_EN_PREMIER.md` : règle opérationnelle à appliquer au prochain lot ;
 2. `GAME_NOTE_RULES.md` : règle permanente ou contrôle à ne pas oublier ;
@@ -133,6 +136,21 @@ contenu FFVII, doit contenir une mise à jour coordonnée de ces trois fichiers 
 La mise à jour doit être utile et liée au lot : périmètre touché, validation
 réalisée, risque restant ou décision de méthode. Un commit sans cette triple
 mise à jour est refusé, même si le code ou la fiche fonctionne.
+
+### Lot Expedition 33 — spoilers autorisés le 13 août 2026
+
+- Décision : la fiche Clair Obscur: Expedition 33 sera réécrite avec spoilers
+  autorisés afin de donner les solutions exactes, les choix finaux et les
+  conséquences nécessaires au 100 % Steam.
+- Méthode : route par actes et zones, puis nettoyage post-game séparé ; chaque
+  étape possède un emplacement concret, une condition, une récompense et une
+  case de contrôle lorsqu'elle touche un compteur.
+- Compteurs à contrôler : 55 succès Steam, 49 journaux, 33 disques, 10 quêtes
+  de Névrons, 9 Gestrals perdus, 5 jeux de Gestrals, 46 compétences de Monoco
+  et 35 rangs de relations.
+- Limite de cette passe : cette décision met à jour la méthode ; la fiche
+  Expedition 33 doit encore être réécrite, recoupée et validée avant d'être
+  considérée comme complète.
 
 ### Lot FFVII du 12 août 2026
 

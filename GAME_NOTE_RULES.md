@@ -34,8 +34,10 @@ statique Cloudflare Pages.
   avant publication, npm run preflight:strict doit la refuser. Les cartes et les
   TXT doivent rester synchronisés.
 - Un guide actif doit conserver une route chronologique, son périmètre Steam,
-  ses alertes missables et sa règle anti-spoiler. Les guides spéciaux peuvent
-  documenter explicitement l'absence de succès Steam.
+  ses alertes missables et sa politique de révélations. Quand le propriétaire
+  autorise les spoilers, l'exhaustivité prime sur la dissimulation narrative.
+  Les guides spéciaux peuvent documenter explicitement l'absence de succès
+  Steam.
 - La fiche FFVII de référence doit conserver une route par zone et un bloc
   `AVANT DE SORTIR` pour chaque étape importante ; ce bloc reste court et ne
   remplace pas les emplacements détaillés des objets.
@@ -67,6 +69,19 @@ statique Cloudflare Pages.
 - Le catalogue FFVII ne valide pas un collectible par son seul nom : chacun des
   83 types de matéria et chacune des 24 Enemy Skills doit avoir une occurrence
   de route avec emplacement, boutique, récompense ou ennemi d'apprentissage.
+- Pour Expedition 33, les spoilers autorisés ne dispensent pas de méthode : la
+  route doit placer dans l'ordre les 55 succès Steam, les 49 journaux, les 33
+  disques, les 10 quêtes de Névrons, les 9 Gestrals perdus, les 5 jeux de
+  Gestrals, les 46 compétences de Monoco et les 35 rangs de relations. Chaque
+  collectible doit avoir une zone, un écran ou un repère concret ; « explore
+  la zone » seul est refusé.
+- Pour Expedition 33, séparer les fenêtres réellement manquables des objets
+  récupérables en post-game. Le guide doit signaler avant la transition le
+  Mime du prologue, la Lettre à Maelle après le premier Axon et le choix
+  Truth de Maelle au rang 7 ; les autres retours possibles ne doivent pas être
+  transformés en faux missables. Les révélations d'histoire, les identités,
+  les fins et les conséquences de choix sont permises lorsque la fiche est
+  explicitement demandée avec spoilers.
 - Pour la phase actuelle, les repères visuels sont activés uniquement sur
   `final-fantasy-vii-2013`. `[COFFRE]` couvre tous les objets à récupérer
   (coffres, matérias, collectibles et récompenses) ; les marqueurs

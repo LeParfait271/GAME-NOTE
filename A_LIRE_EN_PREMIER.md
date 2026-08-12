@@ -47,6 +47,12 @@ Ce fichier fixe la méthode minimale avant toute modification visible du site.
     uniquement dans le catalogue ne suffit pas : les achats, récompenses de
     mini-jeu et compétences apprises sur un ennemi doivent être placés avant
     leur fenêtre de collecte.
+15. Les spoilers sont autorisés lorsqu'ils sont explicitement demandés par le
+    propriétaire du projet : ne pas sacrifier une condition, une identité, une
+    fin, une conséquence ou une solution exacte pour préserver une politique
+    anti-spoiler. Pour Expedition 33, la route doit donc pouvoir nommer les
+    révélations utiles au 100 %, tout en les plaçant dans l'ordre de jeu et en
+    séparant clairement les fenêtres manquables, le post-game et les choix.
 
 Toute nouvelle règle durable doit être ajoutée à GAME_NOTE_RULES.md et
 transformée en validation automatique quand c'est possible.
