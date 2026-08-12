@@ -2969,7 +2969,6 @@ const CATALOG_FILTERS: Array<{ id: CatalogFilter; label: string }> = [
 
 type StoredPreferences = {
   theme?: Theme;
-  lastGuideId?: string;
 };
 
 const PREFERENCES_KEY = "game-note-preferences";
@@ -3012,7 +3011,7 @@ function openReader(
 }
 
 export default function Home() {
-  const [selectedId, setSelectedId] = useState("expedition-33");
+  const [selectedId, setSelectedId] = useState(guides[0].id);
   const [search, setSearch] = useState("");
   const [catalogSearch, setCatalogSearch] = useState("");
   const [catalogFilter, setCatalogFilter] = useState<CatalogFilter>("all");
@@ -3021,15 +3020,11 @@ export default function Home() {
   const [isOnline, setIsOnline] = useState(true);
   const [readerMode, setReaderMode] = useState(false);
   const [invalidGuideId, setInvalidGuideId] = useState<string | null>(null);
-  const [activeSection, setActiveSection] = useState("top");
   const [preferencesReady, setPreferencesReady] = useState(false);
   const catalogSearchRef = useRef<HTMLInputElement>(null);
   const guideSearchRef = useRef<HTMLInputElement>(null);
 
   const selected = guides.find((guide) => guide.id === selectedId) ?? guides[0];
-  const selectedRouteNumber = String(
-    Math.max(0, guides.findIndex((guide) => guide.id === selected.id) + 1),
-  ).padStart(2, "0");
   const visibleGuides = useMemo(() => {
     const query = normalizeCatalogText(catalogSearch.trim());
 
@@ -3076,8 +3071,6 @@ export default function Home() {
     const requestedSearch = url.searchParams.get("q");
     const requestedFilter = url.searchParams.get("filter") as CatalogFilter | null;
     const validRequestedGuide = guides.find((guide) => guide.id === requestedGuide);
-    const storedLastGuide = guides.find((guide) => guide.id === storedPreferences.lastGuideId);
-
     setTheme(preferredTheme);
     setCatalogSearch(requestedSearch ?? "");
     setCatalogFilter(
@@ -3088,7 +3081,6 @@ export default function Home() {
     if (validRequestedGuide) {
       setSelectedId(validRequestedGuide.id);
       setReaderMode(true);
-      setActiveSection("reader");
       window.history.replaceState(
         { gameNote: "reader", guide: validRequestedGuide.id },
         "",
@@ -3097,9 +3089,6 @@ export default function Home() {
     } else if (requestedGuide) {
       setInvalidGuideId(requestedGuide);
       setReaderMode(false);
-      setActiveSection("guides");
-    } else if (storedLastGuide) {
-      setSelectedId(storedLastGuide.id);
     }
     if (url.searchParams.has("view")) {
       url.searchParams.delete("view");
@@ -3122,12 +3111,9 @@ export default function Home() {
         setSelectedId(nextGuide.id);
         setInvalidGuideId(null);
         setReaderMode(true);
-        setActiveSection("reader");
       } else {
         setInvalidGuideId(nextUrl.searchParams.get("guide"));
         setReaderMode(false);
-        const hashSection = nextUrl.hash.slice(1);
-        setActiveSection(["top", "guides", "methode"].includes(hashSection) ? hashSection : "top");
       }
       setSearch("");
       window.scrollTo({ top: 0, behavior: "auto" });
@@ -3148,7 +3134,7 @@ export default function Home() {
     try {
       window.localStorage.setItem(
         PREFERENCES_KEY,
-        JSON.stringify({ theme, lastGuideId: selectedId }),
+        JSON.stringify({ theme }),
       );
     } catch {
       // Local storage can be disabled in private browsing.
@@ -3164,27 +3150,6 @@ export default function Home() {
     else url.searchParams.delete("filter");
     window.history.replaceState(window.history.state, "", url);
   }, [catalogFilter, catalogSearch, preferencesReady, readerMode]);
-
-  useEffect(() => {
-    if (readerMode) return;
-
-    const sections = ["top", "guides", "methode"]
-      .map((id) => document.getElementById(id))
-      .filter((section): section is HTMLElement => Boolean(section));
-    if (!sections.length || !("IntersectionObserver" in window)) return;
-
-    const observer = new IntersectionObserver(
-      (entries) => {
-        const visible = entries
-          .filter((entry) => entry.isIntersecting)
-          .sort((left, right) => left.boundingClientRect.top - right.boundingClientRect.top);
-        if (visible[0]?.target.id) setActiveSection(visible[0].target.id);
-      },
-      { rootMargin: "-18% 0px -66% 0px", threshold: [0, 0.2, 0.6] },
-    );
-    sections.forEach((section) => observer.observe(section));
-    return () => observer.disconnect();
-  }, [readerMode]);
 
   useEffect(() => {
     const updateOnlineState = () => setIsOnline(window.navigator.onLine);
@@ -3241,7 +3206,6 @@ export default function Home() {
 
   const handleOpenReader = (id: string) => {
     openReader(id, setSelectedId, setSearch, setReaderMode, setInvalidGuideId);
-    setActiveSection("reader");
   };
 
   const goToLibrary = () => {
@@ -3250,7 +3214,6 @@ export default function Home() {
     setCatalogSearch("");
     setCatalogFilter("all");
     setInvalidGuideId(null);
-    setActiveSection("guides");
     const url = new URL(window.location.href);
     url.searchParams.delete("guide");
     url.searchParams.delete("q");
