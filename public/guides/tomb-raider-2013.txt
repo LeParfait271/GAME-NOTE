@@ -1,231 +1,957 @@
 TOMB RAIDER (2013) - GAME OF THE YEAR
-GUIDE CHRONOLOGIQUE 100 % STEAM - SANS SPOILER
+GUIDE CHRONOLOGIQUE COMPLET - 100 % STEAM - SANS SPOILER
 
-Version de travail : 10 aout 2026
+Version editoriale : 12 aout 2026
+Plateforme : Steam
+AppID : 203160
+Perimetre : campagne, 100 % de l'ile, 171 collectibles, 7 tombeaux
+optionnels, 13 defis, competences, armes, actions de combat, multijoueur,
+contenu GOTY et 50 succes Steam.
 
-Ce parcours couvre les 50 succes Steam de l'AppID 203160, la campagne,
-les collectibles, les tombeaux optionnels, les defis, les ameliorations,
-les actions de combat et les 20 succes multijoueur. Les contenus GOTY
-sans succes supplementaire sont traites comme du contenu bonus.
+PROMESSE DE LA FICHE
 
-OBJECTIF
+Cette fiche donne un ordre de jeu utilisable, pas seulement une liste de
+succes. Chaque zone indique quand revenir, quels outils sont necessaires, les
+compteurs a faire dans les combats, les tombeaux a vider et les objets a
+verifier. Le post-game est inclus pour eviter de refaire une partie a cause
+d'un GPS ou d'une conversation.
 
-[ ] 50/50 succes Steam.
-[ ] Campagne terminee et toutes les zones nettoyees.
-[ ] Documents, reliques, caches GPS, defis et tombeaux optionnels.
-[ ] Toutes les competences et toutes les ameliorations d'armes.
-[ ] Actions cumulatives : arcs, tetes, armes, finishers, animaux et butin.
-[ ] 20 succes multijoueur, avec les matchs classes et le niveau 60.
+Le guide reste sans spoiler narratif. Les lieux, les outils, les personnages
+et les noms des succes servent uniquement de reperes de navigation. Aucun
+retournement, aucune mort, aucune identite et aucune fin ne sont racontes.
+
+CE QUE SIGNIFIE 100 % DANS TOMB RAIDER (2013)
+
+[ ] Campagne terminee.
+[ ] 54 documents.
+[ ] 42 reliques.
+[ ] 75 caches GPS.
+[ ] 14 cartes au tresor : 7 trouvees dans les zones et 7 donnees par les
+    tombeaux optionnels.
+[ ] 13 defis, soit 84 objets de defi.
+[ ] 7 tombeaux optionnels.
+[ ] 24 ameliorations de competences.
+[ ] Les 4 armes debloquees et entierement ameliorees.
+[ ] Toutes les zones et tous les camps controles a 100 %.
+[ ] 50/50 succes Steam, dont le bloc multijoueur.
+
+Important : le tombeau bonus Tomb of the Lost Adventurer n'est pas necessaire
+au 100 % de la carte et n'ajoute pas de succes Steam. Il est traite en bonus
+en fin de fiche.
+
+ROUTE DE COMPLETION RECOMMANDEE
+
+RUN SOLO
+
+1. Termine la campagne normalement en ramassant tout ce qui est accessible.
+2. A chaque camp, depense les points de competence et les pieces de salvage.
+3. Fais les conversations des que le jeu affiche une bulle de dialogue.
+4. Note les collectibles bloques par un outil que Lara n'a pas encore.
+5. Apres l'histoire, utilise les camps et le voyage rapide pour le nettoyage.
+6. Termine les 13 defis, les 7 tombeaux, les armes et les compteurs de combat.
+7. Termine le bonus Tomb of the Lost Adventurer si tu veux vider le GOTY.
+
+RUN MULTIJOUEUR
+
+1. Fais un match dans chacun des quatre modes.
+2. Valide les actions de boost : revive, piege, corde, explosions, tourelle,
+   melee, tyrolienne et ascendeur.
+3. Achete un personnage, puis garde les points pour tous les achats.
+4. Atteins le niveau 10, puis le niveau 60.
+5. Gagne un match classe dans Team Deathmatch, Rescue, Cry for Help et Free
+   For All pour I'm all that!.
 
 GARDE-FOUS ABSOLUS
 
-- La campagne solo permet le retour libre apres la fin. Utilise les camps et
-  le voyage rapide pour terminer les pourcentages de zone.
-- Dans chaque zone, ouvre la carte avant de partir : documents, reliques,
-  caches GPS, defis et tombeaux optionnels doivent devenir tes priorites.
-- Garde une sauvegarde manuelle avant les combats qui contiennent des actions
-  precises : dynamite, ennemis sur tyrolienne et destructions environnementales.
-- Les vingt succes multijoueur sont hors campagne. Traite-les dans un bloc
-  separe et n'attends pas qu'ils se valident dans le solo.
-- Aucun nom de personnage, mort, identite, boss, fin ou retournement n'est
-  revele dans ce guide. Les noms de zones servent seulement a l'ordre.
+- Les collectibles solo restent accessibles apres la campagne. Ne recommence
+  pas une partie si une zone affiche 95 ou 98 % : utilise le camp et le voyage
+  rapide.
+- Les cartes au tresor revelent les objets majeurs, mais pas toujours les
+  objets de defi. Utilise Survival Instinct et le compteur de zone.
+- Les journaux de Lara se debloquent en te reposant aux camps. Pose-toi a
+  chaque nouveau camp, surtout le premier camp de Summit Forest.
+- Chatterbox est la vraie fenetre manquable : parle a tous les membres de
+  l'Endurance lorsque la bulle apparait et epuise leurs lignes avant de
+  continuer l'objectif principal.
+- Epic Fumble et Boom Goes the Dynamite doivent etre faits pendant une arene
+  ou un ennemi lance de la dynamite. Fais une sauvegarde avant.
+- Deadeye est plus simple pendant les rencontres avec des ennemis sur corde.
+  N'acheve pas toute une zone avant d'avoir valide l'action.
+- Les compteurs d'armes et d'animaux sont cumulables, mais certaines zones
+  deviennent moins pratiques apres la campagne. Varie tes armes des le debut.
+- Les 19 succes multijoueur sont independants du solo. Ils exigent une partie
+  en ligne, des matchs classes et un long grind de niveau.
+- Dans le menu de carte, controle le pourcentage de chaque zone, pas seulement
+  le total global. Un camp non active peut aussi bloquer le 100 %.
 
-MISSABLES ET FENETRES
+COMPTEURS A COMMENCER DES LE DEBUT
 
-- Les collectibles et tombeaux solo ne sont pas manquables : le nettoyage
-  post-jeu reste possible par les camps.
-- Les actions de combat peuvent devenir rares une fois la campagne videe.
-  Valide-les des qu'une bonne arene apparait, ou recharge une sauvegarde
-  manuelle avant l'affrontement.
-- Les succes manquables en pratique sont surtout Epic Fumble, Boom Goes the
-  Dynamite, Deadeye, les actions d'animaux et certains compteurs d'armes.
-- Le multijoueur demande ses propres matchs et sa propre progression. Pour
-  les succes classes, organise les sessions des le debut si la recherche de
-  parties est lente.
+[ ] 50 kills a l'arc.
+[ ] 50 headshots en campagne.
+[ ] 25 kills d'ennemis inconscients.
+[ ] 15 finishers.
+[ ] 35 kills au pistolet.
+[ ] 75 kills au fusil.
+[ ] 40 kills au shotgun.
+[ ] 200 ennemis pilles.
+[ ] 5000 salvage ramasses.
+[ ] 10 gros animaux tues et pilles : cerfs, sangliers, loups.
+[ ] 10 petits animaux tues et pilles : lapins, poules, rats.
+[ ] 10 animaux volants tues et pilles : corbeaux et mouettes.
+[ ] 10 ennemis tues depuis une tyrolienne.
+[ ] 5 ennemis tires d'un rebord avec la corde.
+[ ] 10 systemes ou actions lies aux combats a verifier dans les statistiques.
 
-ORDRE DE PARTIE RECOMMANDE
+ORDRE CHRONOLOGIQUE DES ZONES
 
-1. Campagne en difficulte confortable, avec collecte et compteurs de combat.
-2. Nettoyage de chaque zone par voyage rapide.
-3. Finalisation des competences, armes et actions speciales.
-4. Bloc multijoueur : modes, actions, achats, matchs classes et niveau 60.
-5. Verification Steam des 50 notifications.
+01. Scavenger's Den et Coastal Forest
+02. Mountain Temple
+03. Mountain Village - premier passage
+04. Mountain Base et Base Approach
+05. Base Exterior
+06. Cliffside Village, Mountain Pass et Chasm Monastery
+07. Mountain Village - retour
+08. Shantytown
+09. Geothermal Caverns
+10. Solarii Fortress
+11. Summit Forest
+12. Mountain Village - nettoyage intermediaire
+13. Shipwreck Beach
+14. Cliffside Bunker
+15. Research Base
+16. Shipwreck Beach - nettoyage
+17. Chasm Stronghold
+18. Chasm Shrine
+19. Chasm Ziggurat
+20. Nettoyage post-game et bonus GOTY
 
-DEPART - PREMIERS CAMPS ET PREMIERS COMPTEURS
+TABLEAU DE REFERENCE DES COLLECTIBLES
 
-- Termine le tutoriel de deplacement et de survie, puis active chaque camp.
-  Les camps servent de points de retour et de menu de progression.
-- Ramasse tout le salvage visible et ouvre les caisses. Le salvage finance
-  les armes et doit etre ramasse sans detour pendant toute la campagne.
-- Avec l'arc, commence immediatement les tirs a la tete et les eliminations
-  d'ennemis inconscients. Evite de depenser les fleches sur les tirs faciles
-  si une cible alerte peut etre isolee.
-- Sur les premiers animaux, tue puis pille dix gros animaux, dix petits et
-  dix animaux volants au fil des occasions. Les oiseaux se trouvent souvent
-  autour des camps et des epaves.
-- Dans chaque salle de combat, varie les finishers, les esquives et les armes.
-  Il faut atteindre les compteurs de 35 pistolet, 75 fusil, 40 pompe et 50 arc
-  sans transformer le nettoyage final en long grind.
+COASTAL FOREST
+- Documents : 5.
+- Reliques : 3.
+- Caches GPS : 5.
+- Carte au tresor : 1.
+- Defi : Ghost Hunter, 10 totems.
 
-FORET COTIERE ET PREMIERS TOMBEAUX
+MOUNTAIN TEMPLE
+- Documents : 2.
+- Reliques : 2.
+- Caches GPS : 2.
+- Carte au tresor : 1.
+- Defi : Pyromaniac, 5 lanternes a detruire sur 7.
 
-- Avant de suivre l'objectif principal, balaie les chemins lateraux de la
-  foret cotiere. Ouvre les caisses, lis les documents et ramasse les reliques.
-- Fais le premier tombeau optionnel des qu'il est accessible. Chaque tombeau
-  rapporte une amelioration et compte pour les succes de tombeaux.
-- Termine au moins un defi de zone et repere les caches GPS en hauteur. Les
-  caches qui ne sont pas encore accessibles seront marquees pour plus tard.
-- Dans une arene calme, tente une elimination silencieuse sur un ennemi qui
-  parle avec un autre, puis un finisher. Garde l'objectif de 25 ennemis
-  inconscients actif dans la suite.
-- Ameliore une arme sans vider toute ta reserve : vise d'abord l'arc et le
-  pistolet, puis conserve les pieces pour les modifications finales.
+MOUNTAIN VILLAGE
+- Documents : 7.
+- Reliques : 6.
+- Caches GPS : 15.
+- Defi : Illumination, 10 statues ; Egg Poacher, 5 nids.
+- Tombeaux : Tomb of the Unworthy et Hall of Ascension.
 
-PLAGE DES EPAVES ET VILLAGE DE MONTAGNE
+MOUNTAIN BASE ET BASE APPROACH
+- Documents : 3.
+- Reliques : 2 dans Base Approach.
+- Caches GPS : 2 dans Base Approach et 2 dans Mountain Base.
+- Defi : Non-Believer, 5 bannieres dans Mountain Base.
 
-- Des que le fusil et les outils d'exploration arrivent, reviens a la plage.
-  Nettoie les documents, reliques, caches GPS, defis et le tombeau optionnel.
-- Les falaises, epaves et cabanes cachent souvent un objet hors du chemin
-  principal. Utilise la carte apres chaque boucle et ne quitte pas une zone
-  avec une icone de collecte non verifiee.
-- Le village de montagne s'explore en plusieurs passages. Fais un premier
-  tour avec les outils disponibles, puis marque les cordes, murs et passages
-  inaccessibles.
-- Quand un groupe porte de la dynamite, place une sauvegarde manuelle. Fais
-  tomber l'explosif pour obtenir Epic Fumble, puis cherche une seconde arene
-  si Boom Goes the Dynamite n'est pas valide.
-- Tire les ennemis sur tyrolienne seulement pendant une rencontre sure et
-  garde une sauvegarde avant la sequence. Dix eliminations sont necessaires
-  pour Deadeye.
+BASE EXTERIOR
+- Documents : 2.
+- Reliques : 2.
+- Caches GPS : 1.
+- Carte au tresor : 1.
 
-BASE DE MONTAGNE ET CAVERNES
+SHANTYTOWN
+- Documents : 5.
+- Reliques : 7.
+- Caches GPS : 15.
+- Defis : Laid to Rest, 5 effigies sur 10 ; Silencer, 4 alarmes sur 5.
+- Tombeaux : Well of Tears et Chamber of Judgment.
 
-- A chaque nouveau camp, depense les points de competences. Complete une
-  categorie entiere pour Clever Girl, puis continue jusqu'a toutes les
-  categories pour Lethal.
-- Le shotgun et le fusil ouvrent les compteurs d'armes. Alterne les armes sur
-  les ennemis faibles et confirme les compteurs dans les statistiques.
-- Explore les couloirs secondaires, les conduits et les salles de service.
-  Les journaux et documents de Lara sont parfois hors des marqueurs de carte.
-- Reviens dans les anciennes zones quand le piolet, la corde ou l'equipement
-  de feu permet une nouvelle interaction. Le voyage rapide est toujours
-  preferable a une collecte incomplete.
-- Termine les tombeaux et les defis du secteur avant le depart. Un tombeau
-  optionnel compte pour Intellectually Superior, et tous les defis pour
-  Inconceivable!.
+GEOTHERMAL CAVERNS
+- Documents : 3.
+- Reliques : 3.
+- Caches GPS : 5.
+- Carte au tresor : 1.
+- Defi : Firestarter, 6 sacs.
 
-VILLAGE DE MONTAGNE - SECOND PASSAGE
+SUMMIT FOREST
+- Documents : 2.
+- Reliques : 3.
+- Caches GPS : 5.
+- Defi : Red Cap Roundup, 10 champignons.
+- Tombeau : Stormguard Sanctum.
 
-- Utilise la carte agrandie pour verifier chaque pourcentage. Les caches GPS
-  en hauteur sont la principale cause de zone bloquee a 95 ou 98 %.
-- Nettoie les camps ennemis en commencant par les tirs silencieux : cela
-  alimente Opportunist, Predator et les finishers sans forcer les combats.
-- Fais les ameliorations d'arme des que les pieces sont disponibles. Pour
-  The Professional, aucune arme ne doit rester avec une modification manquante.
-- Si une zone contient des poules, lapins, rats, corbeaux ou mouettes, fais le
-  compteur correspondant avant de repartir. Les animaux ne doivent pas etre
-  confondus avec les animaux de chasse principaux.
+SHIPWRECK BEACH
+- Documents : 4.
+- Reliques : 6.
+- Caches GPS : 15.
+- Defis : Cairn Raider, 5 cairns ; Mine Sweeper, 10 mines.
+- Tombeaux : Flooded Vault et Temple of the Handmaidens.
 
-COTES ET INSTALLATIONS DU DERNIER TIERS
+CLIFFSIDE BUNKER
+- Documents : 4.
+- Reliques : 3.
+- Caches GPS : 5.
+- Carte au tresor : 1.
+- Defi : Previous Inhabitants, 4 drapeaux.
 
-- Continue la campagne en suivant les camps. Entre deux objectifs, ouvre
-  toujours la carte et fais la boucle de collecte autour du dernier camp.
-- Les defis de zone sont souvent des actions simples : allumer, casser,
-  bruler, tirer ou explorer. Lis le compteur du defi avant de quitter la zone.
-- Ramasse le salvage sur les corps et les caisses. Pille regulierement les
-  ennemis pour atteindre Picky et financer les dernieres armes.
-- Fais les 15 finishers, les 25 eliminations inconscientes et les coups de
-  tete avant la derniere suite de combats. Une arene de campagne est plus
-  sure qu'un nettoyage au hasard.
-- Termine la campagne, mais garde la sauvegarde. Le retour libre donne acces
-  aux camps et permet de confirmer No Stone Left Unturned.
+RESEARCH BASE
+- Documents : 3.
+- Reliques : 2.
+- Caches GPS : 3, dont la cache qui complete le document GPS secret.
+- Carte au tresor : 1.
+- Defi : Sun Killer, 5 symboles.
 
-NETTOYAGE SOLO APRES LA CAMPAGNE
+CHASM SHRINE
+- Documents : 3.
+- Reliques : 3.
+- Carte au tresor : 1.
 
-- Depuis la carte du monde, visite chaque zone une par une et vise 100 %.
-  Controle documents, reliques, caches GPS et defis plutot que les seules
-  icones de voyage rapide.
-- Termine tous les tombeaux optionnels. Si un tombeau a deja ete valide,
-  controle le compteur global plutot que de le refaire inutilement.
-- Termine les competences et armes. Si un compteur de kill manque, utilise
-  les groupes rouges encore presents et recharge le camp si necessaire.
-- Pour les actions speciales, utilise une sauvegarde distincte : dynamite sur
-  deux ennemis, tirs de tyrolienne, corde sur rebord, explosions et oiseaux.
-- Verifie les statistiques de campagne : 100 % de carte et 30 succes solo.
-  Les 20 restant sont le bloc multijoueur ci-dessous.
+TOTALS
+[ ] 54 documents.
+[ ] 42 reliques.
+[ ] 75 caches GPS.
+[ ] 7 cartes hors tombeaux.
+[ ] 7 cartes recues en ouvrant les coffres des tombeaux.
+[ ] 84 objets de defis.
+[ ] 7 tombeaux optionnels.
 
-CHECKLIST DES 30 SUCCES SOLO
+REGLE POUR LES DOCUMENTS DE LARA
 
-[ ] One Smart Cookie : un tombeau optionnel.
-[ ] Predator : 50 ennemis a l'arc.
-[ ] Bookworm et Historian : 25 %, puis 75 % des documents.
-[ ] Sharp Shooter : 50 tirs a la tete en campagne.
-[ ] Opportunist : 25 ennemis inconscients.
-[ ] Gunslinger, Equalizer et Widowmaker : compteurs pistolet, fusil et pompe.
-[ ] Scrounger : 5000 salvage.
-[ ] Relic Hunter et Archaeologist : 25 %, puis 75 % des reliques.
-[ ] Picky : piller 200 ennemis.
-[ ] Big Game Hunter, Tastes Like Chicken! et Feather Duster : animaux.
-[ ] Epic Fumble et Boom Goes the Dynamite : dynamite validee.
-[ ] A Survivor Is Born : campagne terminee.
+Les 10 journaux de Lara ne sont pas des objets poses sur le sol. Ils se
+debloquent automatiquement quand Lara se repose a certains camps. Si le
+compteur Documents reste incomplet, visite tous les camps de l'histoire et
+repose-toi a chacun. Priorite speciale : le premier camp de Summit Forest,
+car le journal de cette zone peut ne pas se debloquer si tu le sautes.
+
+01 - SCAVENGER'S DEN ET COASTAL FOREST
+
+OBJECTIF
+
+Sortir du tutoriel, activer les premiers camps et prendre l'habitude de
+scanner toute zone avec Survival Instinct.
+
+ROUTE PAS A PAS
+
+[ ] Termine le tutoriel de deplacement sans courir devant les objets visibles.
+[ ] Dans Scavenger's Den, ouvre chaque caisse de salvage avant de remonter.
+[ ] Dans Coastal Forest, active le premier camp puis repose-toi.
+[ ] Apprends a utiliser Survival Instinct : les collectibles et objets de
+    defi ressortent en jaune.
+[ ] Recupere le Makeshift Longbow et profite du tutoriel pour tirer le premier
+    totem Ghost Hunter.
+[ ] Fais le tour de la foret avant de suivre l'objectif : riviere, abris,
+    falaises, cascade et chemins sous les rochers.
+[ ] Ramasse les 5 caches GPS et les 3 reliques du secteur.
+[ ] Trouve la carte au tresor dans la zone de la cascade/ruines. Elle marque
+    les collectibles majeurs restants.
+[ ] Active Coastal Bluffs, Sheltered Ridge et Forest Ruins si le chemin est
+    ouvert.
+[ ] Ne quitte pas la foret avec un camp ou une icone de zone non verifiee.
+
+GHOST HUNTER - 10 TOTEMS
+
+[ ] Totem 1 : pres de l'endroit ou Lara obtient l'arc, sur l'arbre du tutoriel.
+[ ] Totem 2 : au sud-ouest de Sheltered Ridge, sous le surplomb rocheux.
+[ ] Totem 3 : au nord-est de la premiere zone, entre deux masses rocheuses
+    pres du petit cours d'eau.
+[ ] Totem 4 : pres de la corniche en bois ou se trouve une cache GPS, sur
+    l'arbre de la plateforme inferieure.
+[ ] Totem 5 : a l'ouest du precedent, suspendu dans l'intervalle de deux gros
+    rochers.
+[ ] Totem 6 : au-dela du bunker, sous le pont de bois pres de la cascade.
+[ ] Totem 7 : pres du petit pont a cote de Forest Ruins, cote nord-ouest.
+[ ] Totem 8 : sous le meme pont, cote inferieur gauche.
+[ ] Totem 9 : dans le petit sanctuaire du nord-ouest, sous le toit en bois.
+[ ] Totem 10 : a droite de la grande porte nord-est, au-dela du tonneau en feu.
+[ ] La recompense du defi valide Unfinished Business si c'est le premier defi.
+
+COMBAT ET PROGRESSION
+
+[ ] Commence Predator en eliminant a l'arc les ennemis qui ne te voient pas.
+[ ] Essaie un headshot sur chaque cible isolee pour Sharp Shooter.
+[ ] Pille les ennemis avant de suivre la route.
+[ ] N'achete pas tous les upgrades immediatement : garde du salvage pour une
+    modification complete plus tard.
+[ ] Ne cherche pas encore les animaux difficiles ; les cerfs et petits animaux
+    reviennent pendant le nettoyage.
+
+02 - MOUNTAIN TEMPLE
+
+OBJECTIF
+
+Traverser le temple, apprendre les fleches enflammees et atteindre le camp
+Mountain Temple.
+
+[ ] Active Mountain Temple Base Camp et repose-toi.
+[ ] Brule les obstacles avec le feu quand l'outil est disponible.
+[ ] Inspecte les batiments autour de la longue echelle de corde avant de monter.
+[ ] Ramasse les 2 documents, les 2 reliques et les 2 caches GPS.
+[ ] Recupere la carte au tresor dans la partie haute.
+[ ] Une lanterne se trouve dans le batiment devant la longue echelle.
+[ ] Pour la suite, brule les lanternes avec une fleche et non avec un tir
+    normal.
+
+PYROMANIAC - 5 LANTERNES SUR 7
+
+[ ] Lanterne 1 : batiment devant la longue echelle, visible depuis le chemin.
+[ ] Lanterne 2 : coin du batiment juste au-dessus du camp Mountain Temple.
+[ ] Lanterne 3 : derriere le batiment du tutoriel de distraction, pres des
+    jarres et du chariot.
+[ ] Lanterne 4 : passage du temple bloque par des debris ; la progression
+    demande de la bruler.
+[ ] Lanterne 5 : batiment du temple qui prend feu pendant l'affrontement.
+    Elle peut devenir inaccessible apres la sequence : tire-la tout de suite
+    si tu veux cette option.
+[ ] Lanterne 6 : partie haute apres la tyrolienne du temple, coin sud-est du
+    grand batiment.
+[ ] Lanterne 7 : petite enceinte dans la falaise derriere le batiment 6.
+[ ] Cinq lanternes suffisent pour Pyromaniac ; fais les sept pour le nettoyage.
+
+COMBAT ET SUCCES
+
+[ ] Utilise les fleches de feu sur les groupes vulnerables.
+[ ] Continue les headshots et les kills d'ennemis inconscients.
+[ ] Si tu rates une lanterne de la zone incendie, note-la pour le nettoyage
+    post-game mais ne recharge pas toute la campagne.
+
+03 - MOUNTAIN VILLAGE - PREMIER PASSAGE
+
+OBJECTIF
+
+Decouvrir le village et marquer les chemins qui demandent le piolet ou la
+corde ascender.
+
+[ ] Active Village Plateau, Village Overlook et Village Stronghold des qu'ils
+    apparaissent.
+[ ] Ramasse tout ce qui est accessible : 7 documents, 6 reliques et les caches
+    GPS visibles.
+[ ] Fais le tour du village central, du sommet de la cascade, des cabanes et
+    des falaises.
+[ ] Fais Tomb of the Unworthy quand son entree est accessible.
+[ ] Fais Hall of Ascension pendant le second passage si l'ascender est
+    necessaire ; l'important est de noter l'entree.
+[ ] Observe les nids d'oiseaux en hauteur : ils demandent souvent un retour
+    apres le piolet.
+[ ] Ne quitte pas la zone sans avoir active le camp le plus proche de la
+    prochaine sortie.
+
+ILLUMINATION - 10 STATUES
+
+[ ] Statue 1 : pavillon au milieu du village, pres des lanternes.
+[ ] Statue 2 : haut de la cascade au nord, accessible avec le piolet.
+[ ] Statue 3 : corniche haute au nord, accessible en revenant par la
+    tyrolienne de Village Overlook.
+[ ] Statue 4 : corniche a l'est de la precedente, apres le passage dans la
+    cabane.
+[ ] Statue 5 : tunnel reliant les falaises nord a la cascade, sur la montee
+    vers Hall of Ascension.
+[ ] Statue 6 : canyon a l'est du village, sous l'entree de Hall of Ascension.
+[ ] Statue 7 : meme canyon, derriere la colonne sud-ouest.
+[ ] Statue 8 : apres le retour de Chasm Monastery, en aval de Mountain
+    Descent Day Camp.
+[ ] Statue 9 : corniche au-dessus du petit camp Solarii, apres le retour.
+[ ] Statue 10 : corniche derriere les cabanes au sud-ouest de Village Plateau.
+
+EGG POACHER - 5 NIDS
+
+[ ] Nid 1 : toit du batiment de trois etages dans le village.
+[ ] Nid 2 : toit du batiment au sommet de la cascade, pres de la statue 2.
+[ ] Nid 3 : corniche du canyon est, sous Hall of Ascension.
+[ ] Nid 4 : meme canyon, descends de la colonne apres la tyrolienne.
+[ ] Nid 5 : toit d'une cabane au sud-ouest de Village Plateau.
+[ ] Les nids 3 a 5 sont plus simples au second ou troisieme passage.
+
+TOMBEAUX OPTIONNELS
+
+TOMB OF THE UNWORTHY
+[ ] Entree dans le secteur bas du village, pres du camp.
+[ ] Utilise le feu et le piolet pour ouvrir le chemin.
+[ ] Le puzzle demande de manipuler les plateformes et le contrepoids.
+[ ] Ouvre le coffre final et recupere la carte de la zone.
+[ ] Validation : 1/7 tombeaux et One Smart Cookie si c'est le premier.
+
+HALL OF ASCENSION
+[ ] Entree dans le canyon est, au-dessus de la cascade.
+[ ] Utilise les courants d'air et le mecanisme de la salle pour atteindre le
+    balcon superieur.
+[ ] Le coffre donne une carte au tresor et compte pour Intellectually Superior.
+[ ] Si l'ascender manque, reviens pendant le second passage.
+
+CONVERSATIONS MANQUABLES - CHATTERBOX
+
+[ ] Quand Whitman est disponible au camp, parle-lui et epuise toutes les lignes.
+[ ] Quand Roth est disponible, parle-lui avant chaque objectif principal.
+[ ] Quand Sam, Jonah, Reyes, Alex ou Grim ont une bulle, parle-leur avant de
+    partir. Une bulle disparue demande souvent de recharger le dernier camp.
+[ ] Pour Chatterbox, ne te contente pas d'une seule conversation par zone :
+    interagis jusqu'a ce que le personnage cesse de proposer une ligne.
+[ ] Les dialogues dans le camp apres certaines scenes sont prioritaires. Pose
+    toujours la carte et fais le tour de l'equipe.
+
+04 - MOUNTAIN BASE ET BASE APPROACH
+
+OBJECTIF
+
+Obtenir de nouveaux outils d'exploration et nettoyer les zones de transition.
+
+[ ] Active Mountain Base Camp puis repose-toi.
+[ ] Dans Base Approach, ramasse les 2 reliques et les 2 caches GPS.
+[ ] Dans Mountain Base, ramasse les 3 documents et les 2 caches GPS.
+[ ] Dans les bureaux, les toilettes et les salles de stockage, cherche les
+    documents sur les tables, caisses et etageres.
+[ ] Utilise les couloirs secondaires avant de suivre la porte de sortie.
+[ ] Mets a jour la carte apres chaque outil acquis.
+
+NON-BELIEVER - 5 BANNIERES
+
+[ ] Banniere 1 : salle ou deux Solarii deplacent un tonneau, pres du couloir.
+[ ] Banniere 2 : salle des lanternes, mur ouest sous l'ouverture d'entree.
+[ ] Banniere 3 : coin sud-est de la salle ou Lara obtient la mitraillette.
+[ ] Banniere 4 : petite salle a l'ouest de l'embuscade au projecteur.
+[ ] Banniere 5 : mur de gauche en entrant dans la salle de controle.
+[ ] Brule chaque banniere au feu ; une fleche normale ne valide pas le defi.
+[ ] Cinq valident Non-Believer et Inconceivable! si les autres defis sont faits.
+
+COMBAT
+
+[ ] Commence le compteur fusil des que l'arme est disponible.
+[ ] Fais au moins un finisher et une esquive contre chaque type d'ennemi.
+[ ] Pour Former Adventurer, le contre d'esquive concerne le multijoueur :
+    n'essaie pas de le valider dans cette zone.
+
+05 - BASE EXTERIOR
+
+[ ] Active le camp de la zone.
+[ ] Ramasse 2 documents, 2 reliques, 1 cache GPS et la carte au tresor.
+[ ] Inspecte les plateformes en hauteur, les bungalows et le passage vers la
+    sortie de la base.
+[ ] Les icones de collectibles qui apparaissent apres la carte restent
+    verifiables avec Survival Instinct.
+[ ] Fais une boucle de retour avant de quitter pour la zone suivante.
+
+06 - CLIFFSIDE VILLAGE, MOUNTAIN PASS ET CHASM MONASTERY
+
+OBJECTIF
+
+Traverser les passages verticaux, activer les camps intermediaires et atteindre
+le prochain secteur sans abandonner de collectibles.
+
+[ ] Active Cliffside Village, Mountain Pass et Chasm Monastery si disponibles.
+[ ] Dans chaque zone, ouvre les caisses et ramasse le salvage : les camps
+    servent de points de nettoyage meme si le total de collectibles est faible.
+[ ] Les lettres de l'equipe dans les camps comptent pour Chatterbox : parle a
+    chaque membre avant et apres la sequence de deplacement.
+[ ] Les ascensions en corde contiennent souvent des caches GPS hors du chemin.
+[ ] Utilise la carte pour verifier qu'aucune icone de camp ou de relique ne
+    reste au bord de la zone.
+
+07 - MOUNTAIN VILLAGE - SECOND PASSAGE
+
+[ ] Reviens par voyage rapide apres avoir le piolet et la corde ascender.
+[ ] Nettoie les 15 caches GPS en suivant les corniches : un cache sur une
+    plateforme basse peut etre sous la tyrolienne, pas au sommet.
+[ ] Termine Illumination et Egg Poacher.
+[ ] Termine Hall of Ascension si ce n'est pas deja fait.
+[ ] Fais les 10 statues et 5 nids dans l'ordre des sections ci-dessus.
+[ ] Fais une boucle camp par camp : Village Plateau, Village Overlook, Village
+    Stronghold, puis le canyon de la cascade.
+[ ] Ramasse les animaux presents sur les toits et pres des feux de camp.
+[ ] Avant de quitter, la zone doit etre a 100 % ou ne contenir que des icones
+    bloquees par la prochaine zone de l'histoire.
+
+08 - SHANTYTOWN
+
+OBJECTIF
+
+Traverser la zone verticale, gerer les combats avec dynamite et recuperer les
+objets de defi.
+
+[ ] Active Windmill Base Camp et les camps intermediaires.
+[ ] Ramasse 5 documents, 7 reliques et 15 caches GPS.
+[ ] Obtiens les fleches de feu pour les effigies.
+[ ] Fais une sauvegarde avant le combat de toit avec les ennemis a dynamite.
+[ ] Pendant ce combat, attends le lancer et tire le paquet dans les airs avec
+    le shotgun ou le fusil pour Boom Goes the Dynamite.
+[ ] Pour Epic Fumble, pousse un ennemi a lacher de la dynamite de sorte que
+    l'explosion tue deux autres ennemis. La disposition la plus simple est
+    l'embuscade de la zone haute.
+[ ] Ne termine pas la zone avant d'avoir tente les deux succes.
+[ ] Pille tous les ennemis : la zone est ideale pour Picky, Scrounger et les
+    kills d'armes.
+
+LAID TO REST - 5 EFFIGIES SUR 10
+
+[ ] Effigie 1 : chemin derriere la zone de l'helicoptere ; revient avec les
+    fleches de feu et tire une fleche puis une corde.
+[ ] Effigie 2 : mur exterieur du batiment de Well of Tears, sur les cabanes.
+[ ] Effigie 3 : zone des shacks sud-est, apres la tyrolienne du grand batiment.
+[ ] Effigie 4 : au-dela de Ancient Gate, au-dessus de la mare huileuse.
+[ ] Effigie 5 : tour ou Lara rencontre Grim, sur la structure haute.
+[ ] Effigie 6 : falaise sud-ouest, derriere la tour en poutres d'acier.
+[ ] Effigie 7 : falaise pres du batiment a moulin, visible depuis Windmill
+    Base Camp.
+[ ] Effigie 8 : meme secteur, sous le toit ou le dispositif transporte les
+    caisses.
+[ ] Effigie 9 : zone haute de la tour centrale, visible depuis l'autre rive.
+[ ] Effigie 10 : chemin lateral pres de l'entree de Chamber of Judgment.
+[ ] Cinq suffisent au defi, mais valide les dix pour le nettoyage.
+
+SILENCER - 4 ALARMES SUR 5
+
+[ ] Alarme 1 : niveau haut de la tour au store dechire, cote ouest.
+[ ] Alarme 2 : toit du batiment ou les Solarii etaient postes apres Grim.
+[ ] Alarme 3 : toit du batiment sud-ouest, apres le combat du ruisseau.
+[ ] Alarme 4 : niveau bas du batiment du moulin, derriere la cloture.
+[ ] Alarme 5 : plateforme proche de l'Ancient Gate, alternative si une alarme
+    precedente est difficile.
+[ ] Casse les alarmes a la hache.
+[ ] Quatre suffisent pour Silencer ; fais les cinq pour 100 % de zone.
+
+TOMBEAUX OPTIONNELS
+
+WELL OF TEARS
+[ ] Entree sur le batiment au bord de la mare, a proximite de l'effigie.
+[ ] Equilibre les plateformes en lestant le mecanisme avec les bidons.
+[ ] Utilise la corde et la barre centrale pour atteindre la salle du coffre.
+[ ] Ouvre le coffre et recupere la carte de Shantytown.
+
+CHAMBER OF JUDGMENT
+[ ] Entree dans la partie haute du village, apres la zone du moulin.
+[ ] Fais tomber les poids sur les plaques dans le bon ordre.
+[ ] Le coffre final donne la seconde carte de la zone.
+[ ] Les deux tombeaux valident 2/7 et comptent pour Intellectually Superior.
+
+09 - GEOTHERMAL CAVERNS
+
+[ ] Active le camp et repose-toi pour le journal de Lara.
+[ ] Ramasse 3 documents, 3 reliques, 5 caches GPS et la carte au tresor.
+[ ] Utilise Survival Instinct dans les passages de ventilation et les
+    plateformes au-dessus de l'eau.
+[ ] Ramasse les 6 sacs du defi Firestarter.
+[ ] Les sacs se trouvent autour des structures industrielles, des passerelles,
+    de la zone du treuil et de la sortie.
+[ ] Pour les armes, alterne fusil et shotgun dans les arènes de la zone.
+[ ] Pille les corps avant la sequence de sortie.
+
+FIRESTARTER - 6 SACS
+
+[ ] Sac 1 : entree de la caverne, sur la plateforme proche de la premiere
+    torche.
+[ ] Sac 2 : passerelle laterale au-dessus de l'eau.
+[ ] Sac 3 : structure suspendue pres du mecanisme central.
+[ ] Sac 4 : couloir d'entretien derriere les conduites.
+[ ] Sac 5 : niveau haut de la grande salle, visible depuis le camp.
+[ ] Sac 6 : partie de sortie, pres des treuils et de la derniere passerelle.
+[ ] Tire les sacs avec une fleche ; une fleche enflammee est la plus fiable.
+
+10 - SOLARII FORTRESS
+
+[ ] Active le camp de la forteresse.
+[ ] Explore les salles laterales, les terrasses et les tours avant de suivre
+    la progression principale.
+[ ] Termine les combats en variant headshots, fusil, pistolet et shotgun.
+[ ] Pour Down and Dirty, execute les finishers sur les ennemis au sol.
+[ ] Ramasse le salvage et pille les corps ; cette zone finance les derniers
+    upgrades.
+[ ] Avant la sortie, verifie les journaux de Lara au camp.
+
+11 - SUMMIT FOREST
+
+[ ] Active le premier camp de Summit Forest et repose-toi immediatement pour
+    eviter le probleme de journal de Lara.
+[ ] Ramasse 2 documents, 3 reliques et 5 caches GPS.
+[ ] Fais les 10 champignons Red Cap Roundup : ils se trouvent dans les zones
+    boisées autour des camps, sur les rochers et le long des arbres abattus.
+[ ] Utilise Survival Instinct au sol et sur les rebords ; certains champignons
+    sont sous les branches et non sur le chemin.
+[ ] Termine Stormguard Sanctum, le tombeau optionnel de la region.
+[ ] Ouvre le coffre pour la carte et valide les 3/7 tombeaux.
+
+RED CAP ROUNDUP - 10 CHAMPIGNONS
+
+[ ] Champignons 1-3 : boucle autour du premier camp, sous les rochers et pres
+    des arbres tombes.
+[ ] Champignons 4-6 : chemin vers la zone haute, rebords a gauche et a droite
+    de la piste principale.
+[ ] Champignons 7-8 : autour de l'entree de Stormguard Sanctum.
+[ ] Champignons 9-10 : descente vers la sortie, pres des souches et de l'eau.
+[ ] Le compteur du defi reste visible sur la carte de zone.
+
+STORMGUARD SANCTUM
+
+[ ] Entree depuis la boucle haute de Summit Forest.
+[ ] Utilise les braseros et les poids pour ouvrir le passage de la salle.
+[ ] Le coffre final donne la carte de la zone.
+[ ] Valide le bilan du tombeau avant de quitter.
+
+12 - SHIPWRECK BEACH
+
+OBJECTIF
+
+Rejoindre la plage principale et lancer le grand nettoyage de la zone la plus
+riche en caches et en animaux.
+
+[ ] Active Coastal Bluff, Survivor's Camp et les camps de la plage.
+[ ] Ramasse 4 documents, 6 reliques, 15 caches GPS.
+[ ] Cherche les mouettes et les corbeaux autour des epaves pour Feather Duster.
+[ ] Tue les crabs de la plage pour Crab Cakes. La cible FeeFee peut apparaitre
+    pres du camp et de la ligne de sable ; recharge le camp si necessaire.
+[ ] Fais une sauvegarde avant les grandes arenes pour les compteurs d'armes.
+[ ] Termine les deux tombeaux de la zone.
+
+CAIRN RAIDER - 5 CAIRNS
+
+[ ] Cairn 1 : plage proche du camp, sur le premier amas de pierres.
+[ ] Cairn 2 : cote rocheux sous les passerelles d'epave.
+[ ] Cairn 3 : plage secondaire derriere les rochers.
+[ ] Cairn 4 : plateforme pres de l'eau, accessible par une tyrolienne.
+[ ] Cairn 5 : extremite de la plage vers la grotte et les structures.
+[ ] Interagis avec chaque cairn ; un simple passage ne valide pas le defi.
+
+MINE SWEEPER - 10 MINES
+
+[ ] Mine 1 : eau peu profonde pres du camp.
+[ ] Mine 2 : bord de l'epave a gauche de la plage.
+[ ] Mines 3-4 : chenal entre les deux morceaux de bateau.
+[ ] Mines 5-6 : baie secondaire, entre les rochers et les caisses.
+[ ] Mines 7-8 : zone de baignade proche de l'entree du tombeau.
+[ ] Mines 9-10 : extremite de la plage, pres des debris et de la sortie.
+[ ] Tire une fleche sur chaque mine puis attends l'explosion.
+
+TOMBEAUX OPTIONNELS
+
+FLOODED VAULT
+[ ] Entree dans une epave proche du rivage.
+[ ] Fais monter le niveau de l'eau et utilise les plateformes flottantes.
+[ ] Ouvre le coffre final et recupere la carte de Shipwreck Beach.
+
+TEMPLE OF THE HANDMAIDENS
+[ ] Entree dans une structure plus haute, accessible par les cordes.
+[ ] Utilise les braseros, les ascenseurs et les plateformes pour atteindre le
+    sanctuaire.
+[ ] Le coffre donne la seconde carte et valide 5/7 tombeaux.
+[ ] Les deux tombeaux de la plage terminent le nettoyage du secteur.
+
+13 - CLIFFSIDE BUNKER
+
+[ ] Active le camp de Cliffside Bunker.
+[ ] Ramasse 4 documents, 3 reliques, 5 caches GPS et la carte au tresor.
+[ ] Fais le defi Previous Inhabitants : quatre drapeaux a bruler.
+[ ] Controle les couloirs lateraux, les salles de stockage et la zone exterieure
+    de l'installation.
+[ ] La carte au tresor ne revele pas tous les drapeaux : utilise Survival
+    Instinct et le compteur du defi.
+[ ] Fais une sauvegarde avant les combats si des compteurs d'armes manquent.
+
+PREVIOUS INHABITANTS - 4 DRAPEAUX
+
+[ ] Drapeau 1 : premier couloir de l'installation, suspendu au mur.
+[ ] Drapeau 2 : salle laterale pres des caisses et du camp.
+[ ] Drapeau 3 : passerelle haute dans la zone des bureaux.
+[ ] Drapeau 4 : salle de sortie, sur le mur pres des grandes portes.
+[ ] Brule les quatre avec une fleche enflammee.
+
+14 - RESEARCH BASE
+
+[ ] Active le camp et repose-toi pour le journal.
+[ ] Ramasse 3 documents, 2 reliques, 3 caches GPS et la carte au tresor.
+[ ] La carte au tresor est dans les zones interieures de la base.
+[ ] Si le compteur de documents reste a 53/54, verifie la cache GPS qui donne
+    le document secret final.
+[ ] Termine le defi Sun Killer : cinq symboles a detruire.
+[ ] Fais une boucle complete des laboratoires, salles de controle et passerelles.
+
+SUN KILLER - 5 SYMBOLES
+
+[ ] Symbole 1 : mur ouest de la premiere salle de recherche.
+[ ] Symbole 2 : niveau haut de la passerelle des laboratoires.
+[ ] Symbole 3 : salle avec les caisses et les vitrines, derriere le pilier.
+[ ] Symbole 4 : couloir de service proche du camp.
+[ ] Symbole 5 : salle de sortie, visible depuis la plateforme haute.
+[ ] Tire chaque symbole avec une fleche.
+[ ] Cinq valident le defi et contribuent a Inconceivable!.
+
+15 - SHIPWRECK BEACH - NETTOYAGE INTERMEDIAIRE
+
+[ ] Reviens par voyage rapide avec les outils finaux.
+[ ] Verifie les 15 caches GPS sur la carte complete : certaines sont sous les
+    epaves et d'autres sur les hauteurs.
+[ ] Termine les animaux : crabs, mouettes, corbeaux, lapins et rats.
+[ ] Controle le total de salvage et de pilleurs dans les statistiques.
+[ ] Finis les armes et competences si les compteurs sont proches de la fin.
+[ ] Ne pars pas vers Chasm Stronghold avec une zone sous 100 % sans raison
+    d'outil manquant.
+
+16 - CHASM STRONGHOLD
+
+[ ] Active chaque camp sur le chemin.
+[ ] Ramasse le salvage, les documents des zones de repos et les caches visibles.
+[ ] Utilise le fusil sur les cibles a longue distance et le shotgun dans les
+    couloirs.
+[ ] Fais les finishers restants avant la suite finale.
+[ ] Les combats de cette zone sont les derniers bons endroits pour les
+    compteurs de kills ; sauvegarde avant le debut de chaque arene.
+[ ] Repose-toi au camp pour le journal de Lara.
+
+17 - CHASM SHRINE
+
+[ ] Ramasse les 3 documents et les 3 reliques.
+[ ] Ouvre la carte au tresor de Chasm Shrine.
+[ ] Controle les niches laterales, les alcoves et les plateformes sous les
+    escaliers.
+[ ] Fais une sauvegarde avant l'ascension de sortie.
+[ ] Utilise le compteur de zone pour confirmer les derniers objets.
+
+18 - CHASM ZIGGURAT ET FIN DE CAMPAGNE
+
+[ ] Termine les sequences de combat et de traversal.
+[ ] Avant la derniere porte, controle une derniere fois les compteurs d'armes,
+    headshots, finishers, animaux et pilleurs.
+[ ] Termine la campagne pour A Survivor Is Born.
+[ ] Conserve la sauvegarde : le menu Continue ouvre le post-game et le voyage
+    rapide vers les camps.
+[ ] Ne supprime pas la sauvegarde si un pourcentage est a 99 %.
+
+NETTOYAGE POST-GAME PAR REGIONS
+
+[ ] Coastal Forest : 5 documents, 3 reliques, 5 GPS, Ghost Hunter.
+[ ] Mountain Temple : 2 documents, 2 reliques, 2 GPS, Pyromaniac.
+[ ] Mountain Village : 7 documents, 6 reliques, 15 GPS, Illumination,
+    Egg Poacher, Tomb of the Unworthy, Hall of Ascension.
+[ ] Base Approach : 2 reliques, 2 GPS.
+[ ] Mountain Base : 3 documents, 2 GPS, Non-Believer.
+[ ] Base Exterior : 2 documents, 2 reliques, 1 GPS et une carte.
+[ ] Shantytown : 5 documents, 7 reliques, 15 GPS, Laid to Rest, Silencer,
+    Well of Tears, Chamber of Judgment.
+[ ] Geothermal Caverns : 3 documents, 3 reliques, 5 GPS, Firestarter.
+[ ] Summit Forest : 2 documents, 3 reliques, 5 GPS, Red Cap Roundup,
+    Stormguard Sanctum.
+[ ] Shipwreck Beach : 4 documents, 6 reliques, 15 GPS, Cairn Raider,
+    Mine Sweeper, Flooded Vault, Temple of the Handmaidens.
+[ ] Cliffside Bunker : 4 documents, 3 reliques, 5 GPS, une carte, Previous
+    Inhabitants.
+[ ] Research Base : 3 documents, 2 reliques, 3 GPS, une carte, Sun Killer.
+[ ] Chasm Shrine : 3 documents, 3 reliques et une carte.
+
+COMPETENCES ET ARMES
+
+[ ] Depense les points a un camp et debloque une categorie complete pour
+    Clever Girl.
+[ ] Achete toutes les competences des categories Survivor, Hunter et Brawler
+    pour Lethal.
+[ ] Ramasse le salvage sur les caisses, corps et caches.
+[ ] Ameliore l'arc : corde, tension, capacite et upgrades disponibles.
+[ ] Ameliore le pistolet : chargeur, visée, silencieux ou rafale selon les
+    pieces.
+[ ] Ameliore le fusil : penetration, chargeur et puissance.
+[ ] Ameliore le shotgun : canon, recul et chargeur.
+[ ] Pour Now We're Getting Serious, termine une arme a 100 %.
+[ ] Pour The Professional, termine les quatre armes a 100 %.
+[ ] Si le salvage manque, revisite Mountain Village, Shantytown et Shipwreck
+    Beach : ce sont les meilleures zones pour les caisses et les groupes.
+
+SUCCES D'ACTIONS SOLO
+
+[ ] Predator : 50 ennemis tues avec l'arc.
+[ ] Sharp Shooter : 50 headshots en campagne.
+[ ] Opportunist : 25 ennemis tues alors qu'ils ne savent pas que Lara est la.
+[ ] Gunslinger : 35 kills au pistolet.
+[ ] Equalizer : 75 kills au fusil.
+[ ] Widowmaker : 40 kills au shotgun.
 [ ] Down and Dirty : 15 finishers.
-[ ] Clever Girl et Lethal : competences completes.
-[ ] Looking for Trouble et Bag Full O' Cache : caches GPS.
-[ ] Unfinished Business et Inconceivable! : defis.
-[ ] Now We're Getting Serious et The Professional : armes ameliorees.
-[ ] Intellectually Superior : tous les tombeaux optionnels.
-[ ] No Stone Left Unturned : documents, reliques et caches GPS.
-[ ] Deadeye : dix ennemis tires depuis une tyrolienne.
+[ ] Picky : 200 ennemis pilles.
+[ ] Scrounger : 5000 pieces de salvage.
+[ ] Big Game Hunter : 10 gros animaux tues et pilles.
+[ ] Tastes Like Chicken! : 10 petits animaux tues et pilles.
+[ ] Feather Duster : 10 animaux volants tues et pilles.
+[ ] Deadeye : 10 ennemis tues alors qu'ils sont sur une tyrolienne.
+[ ] Get Over Here! : tirer cinq ennemis d'un rebord avec la corde.
+[ ] Former Adventurer : 25 contres d'esquive, uniquement en multijoueur.
+[ ] Crab Cakes : tuer FeeFee, un crabe de Shipwreck Beach.
+[ ] Epic Fumble : faire tomber une dynamite qui tue deux personnes a l'explosion.
+[ ] Boom Goes the Dynamite : tirer une charge de dynamite en plein vol.
+[ ] One Smart Cookie : terminer un tombeau optionnel.
+[ ] Intellectually Superior : terminer les sept tombeaux optionnels.
+[ ] Unfinished Business : terminer un defi.
+[ ] Inconceivable! : terminer les 13 defis.
+[ ] Looking for Trouble : trouver 25 % des caches GPS.
+[ ] Bag Full O' Cache : trouver 75 % des caches GPS.
+[ ] Bookworm : trouver 25 % des documents.
+[ ] Historian : trouver 75 % des documents.
+[ ] Relic Hunter : trouver 25 % des reliques.
+[ ] Archaeologist : trouver 75 % des reliques.
+[ ] No Stone Left Unturned : trouver tous les documents, reliques et caches GPS.
+[ ] Clever Girl : acheter toutes les competences d'une categorie.
+[ ] Lethal : acheter toutes les competences de toutes les categories.
+[ ] Now We're Getting Serious : modifier et ameliorer une arme au maximum.
+[ ] The Professional : modifier et ameliorer toutes les armes au maximum.
+[ ] A Survivor Is Born : terminer la campagne.
+[ ] Chatterbox : terminer toutes les conversations avec l'equipage de l'Endurance.
 
-MULTIJOUEUR - 20/20 SUCCES
+METHODE POUR EPIC FUMBLE
 
-- Fais ce bloc avec un partenaire de confiance. Utilise des sessions privees
-  ou coordonnees pour les actions de boost, puis garde les matchs classes pour
-  la fin. Le niveau 60 et les achats demandent du temps : depense sans oublier
-  les personnages et ameliorations.
-- Commence par un match dans chacun des modes. Pendant les parties, valide
-  progressivement les actions de corde, melee, tourelle, explosif et piege.
-- Les matchs classes sont necessaires pour I'm all that! : gagne dans chaque
-  mode classe. Ne confonds pas terminer un match et le gagner.
-- Le parcours d'actions conseille est : ranimer un partenaire, survivre a dix
-  explosions, tuer depuis une tyrolienne, tirer deux ennemis avec un explosif,
-  arracher cinq ennemis d'un rebord et faire dix eliminations melee.
-- Termine les compteurs specifiques : 20 kills a la tourelle, trois escapes
-  avec l'ascendeur, 25 contres d'esquive, dix kills melee et les actions de
-  corde. Valide Sole Survivor lors d'une partie organisee.
-- Achete un personnage, puis toutes les ameliorations et tous les personnages
-  pour Shopaholic. La depense est plus simple apres un peu de progression.
-- Atteins le niveau 10 puis le niveau 60. Le dernier palier est le grind final,
-  donc garde les actions d'equipe pour les matchs precedents.
+[ ] Fais une sauvegarde avant le combat de dynamite de Shantytown.
+[ ] Equipe une arme qui repousse, ou tire dans la main du porteur au moment
+    ou il tient la charge.
+[ ] Le porteur doit la lacher, puis l'explosion doit tuer deux ennemis.
+[ ] Si un ennemi meurt par une autre arme avant l'explosion, recharge.
+[ ] Le succes n'a pas besoin d'etre fait dans une partie speciale.
 
-[ ] Sole Survivor : seul membre debout de l'equipe.
-[ ] Entrapment : un joueur pris dans un piege.
+METHODE POUR BOOM GOES THE DYNAMITE
+
+[ ] Reste sur le toit de l'embuscade de Shantytown.
+[ ] Attends qu'un ennemi lance la charge, puis vise le paquet orange en vol.
+[ ] Le shotgun est le plus tolerant ; le fusil fonctionne aussi.
+[ ] Recharge si le paquet touche le sol ou un mur.
+[ ] Valide le succes avant de vider l'arene.
+
+METHODE POUR CHATTERBOX
+
+[ ] Whitman : parle-lui a chaque camp ou il propose une conversation.
+[ ] Roth : epuise les conversations autour de la plage et des feux de camp.
+[ ] Sam : parle-lui a chaque retour au camp.
+[ ] Jonah : fais toutes les lignes dans les camps intermediaires.
+[ ] Reyes : parle-lui avant et apres les objectifs de la plage.
+[ ] Alex : interagis lorsqu'il est disponible dans la base.
+[ ] Grim : parle-lui dans les camps de Shantytown.
+[ ] Si une bulle est visible, interagis jusqu'a ce que la bulle disparaisse.
+[ ] Ne lance pas la mission suivante juste apres une scene : fais le tour du
+    camp, car certaines lignes apparaissent seulement apres le dialogue
+    principal.
+
+MULTIJOUEUR : ORGANISATION
+
+MODES
+
+[ ] Team Deathmatch : eliminer l'equipe adverse au score.
+[ ] Rescue : les Survivors livrent les medkits, les Solarii cherchent les
+    executions.
+[ ] Cry for Help : les Survivors activent les relais et protegent les
+    batteries.
+[ ] Free For All : chaque joueur joue pour lui-meme.
+[ ] Pour Adventurer, termine un match dans chacun des quatre modes.
+[ ] Pour I'm all that!, gagne un match classe dans chacun des quatre modes.
+
+ORDRE DES ACTIONS
+
+[ ] Good Samaritan : ranime un partenaire au sol.
+[ ] Entrapment : place un piege et attends qu'un joueur le declenche.
+[ ] Get Over Here! : tire cinq ennemis d'un rebord avec la corde.
+[ ] Down Boy! : tue un joueur ennemi pendant qu'il est sur une tyrolienne.
+[ ] Escapist : survis a dix explosions ; ne te fais pas achever entre deux.
+[ ] Master Blaster : tue deux joueurs avec une seule explosion.
+[ ] Lights Out : tue dix joueurs avec l'attaque melee.
+[ ] Artilleryman : tue vingt joueurs avec une tourelle.
+[ ] Monkey Around : utilise l'ascendeur pour echapper trois fois a la mort.
+[ ] Sole Survivor : organise une manche ou tous les partenaires sont morts ou
+    a terre et reste le seul debout.
+[ ] Former Adventurer : reussis 25 contres d'esquive.
+[ ] Narcissistic : achete un personnage.
 [ ] On My Way Up : niveau 10.
-[ ] Narcissistic : acheter un personnage.
-[ ] Get Over Here! : tirer cinq ennemis d'un rebord.
-[ ] Down Boy! : tuer un joueur sur tyrolienne.
-[ ] Escapist : survivre a dix explosions.
-[ ] Good Samaritan : ranimer un partenaire.
-[ ] Former Adventurer : 25 contres d'esquive.
-[ ] Chatterbox : terminer les conversations requises en partie.
-[ ] Master Blaster : deux joueurs avec un explosif.
-[ ] Adventurer : terminer un match dans tous les modes.
-[ ] Lights Out : dix eliminations melee.
-[ ] Artilleryman : 20 joueurs a la tourelle.
-[ ] I'm all that! : gagner un match classe dans chaque mode.
-[ ] Monkey Around : trois escapes avec l'ascendeur.
 [ ] Shopaholic : toutes les ameliorations et tous les personnages.
 [ ] True Commitment : niveau 60.
 
-VERIFICATION FINALE - 50/50
+CONSEILS DE BOOST
 
-[ ] 30 succes solo, dont tous les collectibles et compteurs.
-[ ] 20 succes multijoueur, dont les modes classes.
-[ ] Carte et statistiques solo relues apres le voyage rapide.
-[ ] Profil Steam : 50/50 succes.
+- Pour les actions qui demandent un adversaire, une session privee avec un
+  partenaire est plus fiable qu'une recherche publique.
+- Pour I'm all that!, prevois quatre joueurs ou plus pour remplir les modes
+  classes selon la population disponible.
+- Dans Rescue, un joueur peut se laisser mettre a terre pour Good Samaritan,
+  puis l'equipe alterne les roles.
+- Pour Master Blaster, regroupe deux adversaires dans un couloir ou autour
+  d'un objectif, puis utilise une grenade.
+- Pour Artilleryman, protege la tourelle et alterne les joueurs qui prennent
+  la zone.
+- Pour True Commitment, joue les objectifs en plus des kills : la progression
+  est longue et les victoires donnent une meilleure rotation.
+- N'achete pas tous les personnages au hasard : note le prix de chaque
+  personnage et upgrade avant de depenser les points.
+
+CONTENU GOTY BONUS
+
+TOMB OF THE LOST ADVENTURER
+
+[ ] Lance le tombeau depuis la zone indiquee par le contenu GOTY.
+[ ] Fais le puzzle d'eau, de plateformes et de poids.
+[ ] Ouvre le coffre et recupere le bonus.
+[ ] Ce tombeau ne compte pas dans les 7 tombeaux du 100 % principal et
+    n'est pas requis pour No Stone Left Unturned.
+[ ] Les cartes multijoueur et personnages GOTY ne creent pas de nouvelle
+    checklist Steam : Shopaholic concerne les achats affiches par le jeu.
+
+CHECKLIST STEAM FINALE - 50/50
+
+- [ ] One Smart Cookie — Complete one optional tomb.
+- [ ] Predator — Kill 50 enemies with the bow.
+- [ ] Bookworm — Find 25% of all documents.
+- [ ] Sharp Shooter — Perform 50 headshot kills in the single player campaign.
+- [ ] Opportunist — Kill 25 unaware enemies.
+- [ ] Gunslinger — Kill 35 enemies with the pistol.
+- [ ] Scrounger — Collect 5000 pieces of salvage.
+- [ ] Relic Hunter — Collect 25% of all relics.
+- [ ] Picky — Loot 200 enemies.
+- [ ] Big Game Hunter — Kill and loot 10 large animals.
+- [ ] Epic Fumble — Force an enemy to drop dynamite that kills two people when exploding.
+- [ ] A Survivor Is Born — Complete the game.
+- [ ] Down and Dirty — Perform 15 finishers.
+- [ ] Clever Girl — Purchase all skills in one category.
+- [ ] Looking for Trouble — Find 25% of GPS caches.
+- [ ] Equalizer — Kill 75 enemies with the rifle.
+- [ ] Crab Cakes — Kill FeeFee the crab.
+- [ ] Unfinished Business — Complete one challenge.
+- [ ] Now We're Getting Serious — Fully mod and completely upgrade any weapon.
+- [ ] Historian — Find 75% of all documents.
+- [ ] Tastes Like Chicken! — Kill and loot 10 small animals.
+- [ ] Widowmaker — Kill 40 enemies with the shotgun.
+- [ ] Archaeologist — Collect 75% of all relics.
+- [ ] Boom Goes the Dynamite — Shoot a bundle of dynamite out of the air.
+- [ ] Intellectually Superior — Complete all optional tombs.
+- [ ] Bag Full O' Cache — Find 75% of GPS caches.
+- [ ] Lethal — Purchase all skills in all categories.
+- [ ] The Professional — Fully mod and completely upgrade all weapons.
+- [ ] No Stone Left Unturned — Find all documents, relics and GPS caches.
+- [ ] Feather Duster — Kill and loot 10 flying animals.
+- [ ] Inconceivable! — Complete all challenges.
+- [ ] Sole Survivor — In multiplayer, be the only player on your team that isn't dead or downed.
+- [ ] Deadeye — Shoot 10 enemies off zip lines.
+- [ ] Entrapment — Catch a player in a snare trap in multiplayer.
+- [ ] On My Way Up — Reach level 10 in multiplayer.
+- [ ] Narcissistic — Purchase a new multiplayer character.
+- [ ] Get Over Here! — Rope pull 5 enemies off edges.
+- [ ] Down Boy! — Kill a zip-lining enemy player in multiplayer.
+- [ ] Escapist — Survive 10 explosions in multiplayer.
+- [ ] Good Samaritan — Revive a teammate in a multiplayer match.
+- [ ] Former Adventurer — Incapacitate 25 enemies with dodge counter.
+- [ ] Chatterbox — Complete all conversations with the Endurance crew.
+- [ ] Master Blaster — Kill 2 multiplayer enemies with a single explosive.
+- [ ] Adventurer — Complete a match in all multiplayer modes.
+- [ ] Lights Out — Kill 10 multiplayer enemies using your melee attack.
+- [ ] Artilleryman — Kill 20 enemy players in multiplayer using a turret.
+- [ ] I'm all that! — Win a ranked match in every multiplayer mode.
+- [ ] Monkey Around — In multiplayer, escape death 3 times by using the rope ascender.
+- [ ] Shopaholic — Buy every upgrade and character in multiplayer.
+- [ ] True Commitment — Reach level 60 in multiplayer.
+
+VERIFICATION FINALE
+
+[ ] Campagne terminee.
+[ ] 54 documents.
+[ ] 42 reliques.
+[ ] 75 caches GPS.
+[ ] 7 tombeaux principaux.
+[ ] 13 defis termines.
+[ ] 24 competences achetees.
+[ ] 4 armes entierement ameliorees.
+[ ] Chatterbox valide avant la fin de la campagne.
+[ ] 19 succes multijoueur valides.
+[ ] Match classe gagne dans les quatre modes.
+[ ] Profil Steam : 50/50.
 
 REGLE ANTI-SPOILER
 
-Les zones, outils, compteurs et modes servent uniquement a ordonner la
-progression. Aucun evenement narratif, boss, identite, mort, fin ou consequence
-n'est decrit.
+Les noms de zones, outils, armes, collectibles, defis et succes servent
+uniquement a ordonner la completion. Aucun evenement narratif, boss, identite,
+mort, fin ou consequence n'est revele.
+
