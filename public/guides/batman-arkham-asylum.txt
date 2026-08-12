@@ -1,134 +1,627 @@
 BATMAN: ARKHAM ASYLUM GOTY EDITION
-GUIDE CHRONOLOGIQUE 100 % STEAM - SANS SPOILER
+GUIDE CHRONOLOGIQUE COMPLET - 100 % STEAM - SANS SPOILER
 
-Version de travail : 10 aout 2026
+Version editoriale : 12 aout 2026
+Plateforme : Steam - AppID 35140
+Perimetre : campagne, 240 defis de l'Homme-Mystere, collectibles, medailles
+Combat et Predator, cartes GOTY et 47 succes Steam.
 
-Ce parcours couvre les 47 succes Steam de l'AppID 35140, la campagne, les
-defis de combat et de predator, les enigmes de l'Homme-Mystere, les journaux,
-les biographies, les cartes de defi GOTY et le nettoyage post-jeu.
+PROMESSE DE LA FICHE
 
-OBJECTIF
+Ce document est une route de jeu. Il indique quoi faire, dans quelle salle le
+faire, quel gadget est necessaire et quand revenir. Les compteurs servent de
+points de controle : si un total ne correspond pas, arretez-vous avant de
+quitter la zone.
 
-[ ] 47/47 succes Steam.
-[ ] Campagne, gadgets, combats et enigmes.
-[ ] Tous les trophees, chroniques, cartes, dents et enregistrements utiles.
-[ ] 24 medailles Combat et 24 medailles Predator.
-[ ] Freeflow, hard, combo parfait et defis bonus GOTY.
+La fiche reste sans spoiler d'intrigue. Les noms de zones, de salles, de
+gadgets, de types d'ennemis et de succes sont des reperes pratiques. Les
+retournements, les identites, les morts et la conclusion ne sont pas racontes.
 
-GARDE-FOUS ABSOLUS
+OBJECTIF 100 %
 
-- Joue la campagne en Normal ou Difficile sans te presser. Les enigmes et
-  trophees se nettoient apres la fin avec le mode libre.
-- A chaque nouveau gadget, reviens dans les zones precedentes. Les murs,
-  grilles, conduits et points de grappin deviennent alors accessibles.
-- Termine les cartes de defi apres avoir appris les mouvements. Les medailles
-  sont independantes de la campagne et peuvent etre rejouees.
-- Pour Perfect Knight, n'oublie pas les journaux, biographies, cartes et
-  enigmes qui ne font pas toujours apparaitre un marqueur evident.
-- Aucun passage ne revele une mort, une identite, une fin, un boss ou un
-  retournement narratif.
+- 47 succes Steam.
+- Campagne terminee avec les trois difficultes gerees proprement.
+- 240/240 defis de l'Homme-Mystere.
+- 150 dents du Joker, 24 chroniques, 35 bandes d'entretien et tous les
+  trophees de l'ile.
+- 24 medailles Combat et 24 medailles Predator dans les huit cartes Batman.
+- Les quatre cartes bonus de l'edition GOTY.
+- Les succes de combos, de gadgets, de furtivite, de glide et de rencontres
+  speciales.
 
-MISSABLES ET FENETRES
+COMMENT LIRE LA FICHE
 
-- Les trophees de campagne et le succes de difficulte se gerent par
-  sauvegardes. Les enigmes, journaux et cartes restent nettoyables en libre.
+- Une ligne [ ] est une action a cocher. Les lignes de controle donnent un
+  total attendu, pas une nouvelle collecte.
+- Une salle est le meilleur repere. Les directions "au-dessus", "sous", "dans
+  le conduit" et "derriere" se lisent depuis l'entree de cette salle.
+- Un compteur de zone jaune signifie qu'il reste quelque chose a faire. Un
+  compteur vert signifie que la zone est nettoyee pour le type affiche.
+- Les defis de l'Homme-Mystere sont comptabilises par le jeu. Les sous-familles
+  servent a retrouver un objet, mais le 240/240 du menu reste la reference.
+- Les cartes a medailles et les cartes bonus ne font pas partie du nettoyage
+  de l'ile. Elles sont traitees dans un chapitre separe.
 
-ORDRE DE PARTIE
+AVANT DE COMMENCER
 
-1. Campagne en Normal/Difficile avec collecte locale.
-2. Retour libre pour les enigmes et gadgets.
-3. Defis Combat et Predator.
-4. Difficulte, Freeflow et bonus GOTY.
+- Fais une sauvegarde manuelle au debut de chaque chapitre et avant chaque
+  retour dans une zone deja traversee. Garde deux emplacements tournants.
+- Pour la premiere partie, Normal est le meilleur compromis. Difficile donne
+  directement le succes de difficulte le plus exigeant, mais une route
+  d'apprentissage en Normal evite de rater un compteur dans les salles.
+- Priorite d'ameliorations : Batarang ameliore, Batclaw, gel explosif,
+  cryptographic sequencer, lance-corde, puis combat et combinaison.
+- Tout objet situe dans une salle qui va se fermer est signale par MANQUABLE.
+  Ramasse-le avant de suivre la prochaine porte de mission.
+- Les dents du Joker sont cassees avec un coup de Batarang. Fais un tour
+  visuel complet de la salle : elles peuvent etre dans un conduit, en hauteur
+  ou derriere une grille.
+- Les chroniques et les bandes doivent etre lues dans le menu pour valider
+  leur famille. Le 240/240 de l'Homme-Mystere reste le compteur absolu.
 
-DEBUT - ARRIVEE ET PREMIERS GADGETS
+TABLEAU DES RETOURS
 
-- Termine le tutoriel de combat : esquive, contre, cape, batarang,
-  takedown et combo. Le compteur Freeflow commence ici.
-- Dans les salles de soin et de securite, lis les rapports, ouvre les
-  portes et cherche les points de grapple visibles.
-- Chaque zone possede des dents de Joker et des trophees. Detruis les dents,
-  ramasse les trophees et verifie la carte avant de partir.
+1. Intensive Treatment, surface de l'ile, Medical Facility, Bane et Caves.
+2. Arkham Mansion et Penitentiary, avec les retours par la surface.
+3. Botanical Gardens, Titan et retours gadget par gadget.
+4. Nettoyage des Caves, Medical, Mansion, Penitentiary, Botanical et Visitor
+   Center.
+5. Huit cartes Batman, puis les quatre cartes GOTY.
 
-ZONE MEDICALE ET CELLULES
+CHAPITRE 1 - PROLOGUE ET INTENSIVE TREATMENT
 
-- Explore les ailes secondaires, couloirs de service et salles de controle.
-  Les enregistrements de patients et biographies s'ajoutent au compteur.
-- Utilise le gel explosif, le batarang telecommande et le mode detective des
-  qu'ils deviennent disponibles. Reviens dans les couloirs precedents.
-- Fais un combo sans degat dans un combat simple, puis garde les cartes de
-  defi pour les series de medailles.
+1. Escorte et cellules
 
-ZONE DE DETENTION ET JARDINS
+- [ ] Dans Holding Cells, avance jusqu'a la scene de controle. Dans le bureau
+  vitra avec les moniteurs, casse les trois dents pres de la porte et ouvre
+  le conduit au-dessus de la zone de cellules.
+- [ ] Dans Holding Cells, prends le trophee dans le conduit pres de la
+  position de Gordon. Il est visible en levant la camera vers la grille.
+- [ ] Dans le couloir de traitement, execute les premiers contres et termine
+  une combinaison de 5 coups. Le succes Freeflow Combo 5 tombe naturellement.
+- [ ] Apres le premier passage d'Harley dans le couloir, ouvre le bureau de
+  Secure Transit. La bande d'entretien est derriere la vitre.
+- [ ] Dans Secure Transit, utilise le mode Detective sur la cage d'ascenseur.
+  Le premier mur de la Chronique de l'asile est au-dessus du passage.
+- [ ] Dans Processing Corridor, casse les deux dents sous les cameras. Scanne
+  le portrait portant un visage aigu : premiere enigme de l'Homme-Mystere.
+- [ ] Dans le bureau central de Processing Corridor, aligne le point
+  d'interrogation forme par la fenetre et le montant.
 
-- Nettoie les salles en rouge sur la carte, puis cherche les trophees dans les
-  conduits, plafonds et petites cellules.
-- Les cartes de l'Homme-Mystere demandent souvent une photo, un angle ou une
-  interaction avec un objet. Utilise le scanner et note les points de repere.
-- Termine les combats de Titan et les sequences d'evasion avec une sauvegarde
-  manuelle si tu vises un succes d'action particulier.
+2. Decontamination
 
-GROTTES ET ZONES EXTERIEURES
+- [ ] Dans Patient Pacification Chamber, prends les deux trophees caches dans
+  les conduits lateraux de la grande salle. Fais le tour des deux balcons.
+- [ ] A l'entree de Decontamination, casse les trois dents pres de la rampe.
+  Deux sont au sol, la troisieme contre la grille basse.
+- [ ] Dans la salle de decontamination, casse les trois dents au rez-de-
+  chaussee, puis les deux dents du couloir vers le bureau de securite.
+- [ ] Entre dans le conduit au sol de Decontamination. Le trophee est au fond
+  de la galerie, avant la sortie vers le couloir.
+- [ ] Reviens vers les gardes et utilise le Batarang sur les boites a fusibles.
+  Fais le sauvetage de toute la salle avant de franchir la porte : Leave No
+  Man Behind se valide ici.
+- [ ] Dans le bureau de controle, scanne la radio posee pres du casier.
 
-- Apres l'acquisition du line launcher et du cryptographic sequencer, refais
-  le tour des zones. Ouvre les grilles, traverse les fosses et pirate les
-  consoles.
-- Cherche les trophees de l'Homme-Mystere dans les angles hauts et les pieces
-  avec eau. Les enigmes orange peuvent etre resolues plus tard.
-- Fais un vol plane de 100 m et une capture de batarang dans un espace calme.
+3. Transfer Loop et Intensive Treatment Lobby
 
-LABORATOIRES ET DERNIER TIERS
+- [ ] Dans Transfer Loop, casse les deux dents du premier couloir et les deux
+  du couloir oppose. Le jeu doit afficher environ 13/240.
+- [ ] Dans Secure Treatment Transfer, prends le trophee dans le conduit en
+  face de la cabine de securite, avant le premier ascenseur.
+- [ ] Dans Intensive Treatment Lobby, casse les trois dents autour de la
+  passerelle et les deux dents de la zone ou Frank Boles s'arrete.
+- [ ] Monte sur le balcon central. Le trophee est dans le conduit au-dessus
+  des portes.
+- [ ] Scanne le portrait de l'ancien directeur dans le bureau du balcon.
+- [ ] MANQUABLE : avant de suivre la porte de mission, refais Secure Transit,
+  Transfer Loop et Lobby. Les dents et trophees de cette boucle sont faciles
+  a laisser.
 
-- Termine les journaux, biographies et trophees avant la derniere succession
-  de missions. Les salles de boss ne sont pas les bonnes zones pour explorer.
-- Utilise chaque gadget sur un groupe d'ennemis : mur de lumiere, gel,
-  batarang, cape, grappin et takedown silencieux.
-- Termine la campagne, puis ne supprime pas la sauvegarde : le mode libre
-  permet d'achever les enigmes et les medailles manquantes.
+CONTROLE INTENSIVE TREATMENT 1
 
-ENIGMES ET PERFECT KNIGHT
+- Compteur indicatif : 13/240, 1 chronique, 2 bandes, 20 dents, 4 trophees.
+- Succes attendus : Freeflow Combo 5 et, selon les combats, Freeflow Combo 10.
+- Si le total est inferieur, utilise le mode Detective dans chaque conduit et
+  regarde au-dessus des portes avant de sortir.
 
-- Riddler : chaque secteur doit avoir ses trophees, cartes, dents, chroniques,
-  biographies et enregistrements. Les defis de scan se cumulent.
-- Verifie les 5 %, 10 %, puis 100 % dans le menu de l'Homme-Mystere. Une
-  salle de transition oubliée peut contenir un trophee unique.
-- Ouvre les portes de securite et les cages au fur et a mesure des gadgets.
-  Reviens apres chaque nouveau pouvoir.
+CHAPITRE 2 - ARKHAM ISLAND ET PREMIERS RETOURS
 
-DEFIS COMBAT ET PREDATOR
+4. Arkham East
 
-- Combat : garde le combo, utilise les 5 mouvements, les armes de combat,
-  les contres et les esquives. Les medailles se font plus facilement en
-  entrainement puis sur les cartes avancées.
-- Predator : termine une carte sans etre detecte, puis repete avec
-  batarangs, silent takedowns, explosifs et diversions. Pour la medaille
-  parfaite, lis la liste de contraintes avant de lancer.
-- 24 medailles Combat et 24 Predator doivent etre cochees. Les cartes GOTY
-  sont incluses dans le parcours de defi.
-- Freeflow Perfection : cree une longue sequence dans une petite arene et
-  utilise chaque mouvement distinct sans casser le combo.
+- [ ] Sur la route vers la surface, casse les dents pres du portail avant
+  d'ouvrir la grande porte. Les portes de l'ile deviennent les reperes des
+  retours.
+- [ ] Dans le guard tower d'Arkham East, entre dans le bureau superieur par
+  le conduit. Prends la bande d'entretien et le trophee.
+- [ ] Dans le cimetiere, inspecte la remise du fond : trophee sous le toit
+  casse. Scanne ensuite la tombe qui repond a l'indice du portrait.
+- [ ] Sur le patio entre le cimetiere et le portail, scanne la Chronique
+  murale. Le trophee suivant est sur la corniche au-dessus du patio.
+- [ ] Sur le toit est, aligne le point d'interrogation forme par la tour et le
+  bord du toit. Dans la tour de l'horloge, prends le trophee du conduit haut.
+- [ ] Controle Arkham East : 2 chroniques, 3 bandes, 6 enigmes, 20 dents et
+  12 trophees environ.
 
-DIFFICULTE ET NETTOYAGE
+5. Arkham North
 
-- Le succes de difficulte se valide dans la campagne. Choisis Difficile si tu
-  veux l'obtenir sur la premiere run ; sinon rejoue la campagne apres le
-  Normal.
-- Mano-a-mano, Invisible Predator, Catch et Biggest Bang se font dans une
-  mission ou une carte de defi avec une sauvegarde de securite.
-- Controle la page de statistiques : la barre 100 % de l'ile et les 47
-  notifications ne sont pas exactement le meme compteur.
+- [ ] Pres de la Batmobile, utilise le mode Detective sur le sol fragile.
+  Note l'emplacement du trophee et reviens avec le gel explosif.
+- [ ] Dans le petit bureau du toit d'Arkham North, prends la premiere carte
+  de l'ile. Elle marque les familles restantes, pas le compteur final.
+- [ ] Dans les ruines, scanne la Chronique au mur et la bande dans la tour
+  de garde. Scanne aussi la chronique pres de l'entree des Caves.
+- [ ] Sur le toit d'Intensive Treatment et celui de la tour, prends les
+  trophees dans les conduits et controle les corniches.
+- [ ] A l'entree des Caves, prends le trophee de facade et les dents au-dessus
+  de la porte. Dans la grotte laterale, scanne le mur de symboles.
+- [ ] Depuis les ruines, aligne le point d'interrogation forme par les poutres.
+  Scanne aussi les balanciers de la cour sous le bon angle.
+
+6. Arkham West
+
+- [ ] A l'entree ouest, casse les dents a gauche du portail. Dans le conduit
+  de la cabane pres de la cascade, prends la bande et le trophee du toit.
+- [ ] Sous la tour de garde, examine le buisson sous la passerelle : trophee
+  dans la vegetation, pas sur la plateforme.
+- [ ] Sur le toit de Medical, repere le conduit exterieur et prends le trophee
+  avant d'entrer dans la salle de mission.
+- [ ] Depuis le balcon de Penitentiary, aligne le point d'interrogation avec
+  le batiment central. Si la distance est insuffisante, note le retour.
+- [ ] Scanne le mur de la cabane pres de la cascade pour la chronique.
+- [ ] Controle surface : 1 carte, 5 chroniques, 5 bandes, 9 enigmes, 23 dents
+ et 24 trophees environ.
+CHAPITRE 5 - PENITENTIARY
+
+13. Entree et cellules
+
+- [ ] Dans the Penitentiary entrance, prends le trophee dans le conduit au
+  plafond et casse les dents pres des portes de securite.
+- [ ] Dans the Main Cell Block, scanne la cellule avec le miroir et le mur
+  portant le symbole. Les deux indices se valident depuis l'axe du couloir.
+- [ ] Dans the Guard Room, lis la bande d'entretien et scanne le portrait
+  administratif. Le trophee est dans le conduit au-dessus du sas.
+- [ ] Dans the Security Control Room, utilise le mode Detective sur les cages.
+  Casse les dents derriere les portes et controle le conduit haut.
+- [ ] Dans the Extreme Incarceration, prends la carte de zone dans l'alcove
+  laterale. Repere le trophee sous la plateforme centrale et note le retour
+  requis par le gel explosif.
+- [ ] Dans the Main Cell Block, scanne le calendrier de cellule, le panneau
+  Tommy Gun et l'indice du vote Dent. Fais chaque scan depuis le bon couloir.
+- [ ] Dans the Cells Access, casse les dents de chaque cote du couloir. Les
+  dents derriere les barreaux demandent un Batarang depuis l'angle oppose.
+
+14. Sauvetage et Harlequin
+
+- [ ] MANQUABLE : dans Guard Room, sauve les gardes pendant le compte a
+  rebours. Monte par les conduits et neutralise les interrupteurs avant de
+  perdre le chemin. Le succes Double Trouble suit cette sequence.
+- [ ] Dans the Main Cell Block, avance jusqu'a la rencontre de mission puis
+  refais le tour de la salle. Les dents apparues autour des cellules sont
+  comptabilisees seulement apres le retour.
+- [ ] Dans the Security Control Room, scanne la vitre, le panneau de controle
+  et la plaque d'identification. Prends aussi le trophee derriere le conduit.
+- [ ] Dans the Extreme Incarceration, utilise les hauteurs et les rebonds du
+  Batarang pour ouvrir les boites. Ne quitte pas la zone sans avoir verifie
+  les quatre plateformes.
+- [ ] Capture Harley Quinn dans la sequence prevue. Le succes Solitary
+  Confinement est lie a cette etape de campagne.
+- [ ] Apres la scene, ouvre la carte Totally Insane de l'edition GOTY depuis
+  l'ecran des cartes de defi. Elle peut etre jouee plus tard, mais controle
+  qu'elle est bien presente dans le menu.
+- [ ] Controle Penitentiary : 6 cartes, 14 chroniques, 20 bandes, 34 enigmes,
+  106 dents et 62 trophees environ.
+
+CHAPITRE 6 - BOTANICAL GARDENS
+
+15. Generator Room et Glasshouse
+
+- [ ] Dans Botanical Gardens, prends la carte de zone dans le couloir avant
+  le Generator Room. Scanne le panneau de la serre et les plaques de salle.
+- [ ] Dans the Glasshouse Generator Room, casse les dents au-dessus des
+  passerelles et prends le trophee dans le conduit lateral.
+- [ ] Dans the Flooded Corridor, utilise le lance-corde pour traverser les
+  lignes d'eau. Controle les alcoves, les corniches et le conduit sous la
+  passerelle.
+- [ ] Scanne l'ensemble de the Flooded Corridor depuis les hauteurs. Les
+  symboles formes par les racines ne sont lisibles que depuis le rebord.
+- [ ] Dans the Abandoned Chamber, ouvre le conduit au plafond et scanne le
+  puzzle de la salle. Note le trophee qui ne devient accessible qu'au retour.
+- [ ] Dans the Statue Corridor, scanne le panneau Wayne, le service de
+  nettoyage et le materiel du Ratcatcher. Les indices sont espaces.
+- [ ] Dans the Aviary, casse les dents derriere les cages et verifie les
+  corniches de la salle avant de suivre la mission.
+
+16. Titan Production et premier affrontement
+
+- [ ] Dans the Titan Production Facility, prends le trophee du conduit de
+  maintenance et casse les dents de la passerelle metallique.
+- [ ] Dans the Pump Control Room, lis la bande d'entretien et scanne les
+  commandes. Une grille basse cache un trophee dans le couloir adjacent.
+- [ ] Dans the Botanical Glasshouse, scanne le service a the, les gardes
+  tombes et les jouets casses. Chaque objet repond a un indice different.
+- [ ] Avant d'entrer dans la salle de mission, fais un tour des deux balcons
+  de the Glasshouse. Prends les trophees en hauteur et les dents sous les
+  racines.
+- [ ] Suis la mission jusqu'a la rencontre de Titan. Le succes Freak Show
+  Rodeo se valide pendant cette epreuve ; utilise une sauvegarde si besoin.
+- [ ] Controle Botanical 1 : 7 cartes, 14 chroniques, 24 bandes, 39 enigmes,
+  114 dents et 68 trophees environ.
+- [ ] MANQUABLE : parle a Poison Ivy avant de quitter la zone apres la
+  sequence. Cette interaction evite un mauvais compteur de dents du Joker.
+
+CHAPITRE 7 - RETOUR INTENSIVE TREATMENT ET SCARECROW
+
+17. Retour dans les couloirs
+
+- [ ] Reviens a Intensive Treatment par le chemin indique. Dans Secure
+  Transit, prends la carte de la zone et la bande du bureau lateral.
+- [ ] Dans Transfer Loop, casse les dents qui etaient derriere les grilles
+  inaccessibles. Fais le tour des passerelles avec le mode Detective.
+- [ ] Dans the Patient Pacification Chamber, utilise les hauteurs et ouvre
+  les conduits superieurs. Scanne l'indice de la salle depuis le balcon.
+- [ ] Dans the Intensive Treatment Lobby, casse les dents restantes autour
+  du poste de securite et prends les trophees des deux conduits.
+- [ ] Dans the Secure Transit, scanne le portrait familial et l'indice de
+  vote. Lis les bandes Harley et Joker lorsqu'elles deviennent disponibles.
+- [ ] Lorsque la sequence Scarecrow commence, reste dans le chemin de mission.
+  Le succes Daydreamer se valide en traversant l'epreuve sans sauter la route.
+- [ ] Reprends ta sauvegarde si tu rates une phase de l'epreuve. Le compteur de
+  collecte de la salle revient avec la sauvegarde, mais le succes peut exiger
+  une nouvelle tentative complete.
+- [ ] Controle apres le retour : 8 cartes, 16 chroniques, 27 bandes, 43
+  enigmes, 125 dents et 72 trophees environ.
+
+CHAPITRE 8 - CAVES ET CROCODILE
+
+18. Pump Control et Old Sewer
+
+- [ ] Dans Pump Control, prends la carte de zone depuis la plateforme de
+  maintenance. Scanne le tableau de pression et les vannes.
+- [ ] Dans Old Sewer, lis la troisieme bande Croc et casse les dents des
+  alcoves. La hauteur de l'eau masque les dents si le mode Detective est
+  coupe.
+- [ ] Dans Main Sewer Junction, utilise le lance-corde sur les points
+  d'ancrage et controle la plateforme haute. Un trophee est contre la paroi
+  derriere la ligne d'eau.
+- [ ] Dans the Croc's Lair, longe les passerelles sans courir. Les trophees
+  sont dans les recoins hors du chemin principal ; les dents se trouvent
+  au-dessus des plateformes et pres des grilles.
+- [ ] Scanne la Chronique dans la salle de controle et la plaque de l'ascenseur.
+  Lis les bandes Croc avant de traverser la prochaine porte.
+- [ ] Pendant la sequence de Croc, utilise les marqueurs de sol et les
+  plantes pour garder une sortie. Le succes Crocodile Tears tombe a la fin
+  de l'epreuve.
+- [ ] Controle Caves : 9 cartes, 18 chroniques, 30 bandes, 43 enigmes, 130
+  dents et 82 trophees environ.
+
+19. Retour Batcave et nettoyage des conduits
+
+- [ ] Dans la Batcave, scanne le mur de la Chronique et prends le trophee
+  derriere la grille de maintenance.
+- [ ] Dans the Pressure Control Room, reviens avec le gel explosif. Fais
+  exploser le sol fragile, puis utilise le Batclaw sur le trophee du conduit.
+- [ ] Dans the Old Sewer, controle les deux salles laterales et la galerie
+  au-dessus de l'eau. Les dents restantes sont souvent dans les angles.
+- [ ] Dans the Main Sewer Junction, aligne le point d'interrogation depuis la
+  plateforme la plus haute. Le symbole doit etre ferme et sans reflet.
+- [ ] Ne pars pas avec un compteur de Caves incomplet. Le retour final est
+  possible, mais il impose de repasser par les galeries et les ascenseurs.
+
+CHAPITRE 9 - RETOUR BOTANICAL ET NETTOYAGE DE L'ILE
+
+20. Apres les Caves
+
+- [ ] Reviens a Arkham West et casse les dents du chemin vers Medical. Scanne
+  les canalisations et les symboles de la cabane si le compteur reste jaune.
+- [ ] Dans Arkham North, prends le trophee sur le plateau rocheux et celui
+  du conduit au-dessus des ruines. Verifie le sol fragile pres de la voiture.
+- [ ] Dans Arkham East, termine le cimetiere, le patio, le guard tower et les
+  corniches. Les quatre secteurs doivent etre verts avant le retour.
+- [ ] Dans Botanical Gardens, ouvre les conduits et les portes devenues
+  accessibles. Les trophees de Glasshouse Generator et d'Abandoned Chamber
+  sont les deux oublis les plus frequents.
+- [ ] Dans Flooded Corridor, lis la bande finale de la zone et prends les
+  dents de la passerelle basse. Scanne le symbole depuis le point haut.
+- [ ] Dans the Abandoned Chamber, prends le trophee de la salle et scanne
+  l'indice de maintenance. Controle les racines sous les balcons.
+- [ ] Dans the Titan Production Facility, scanne la Chronique murale et
+  termine les dents de la passerelle.
+- [ ] Le succes Poisoned Ivy se valide apres la sequence Botanical. Fais une
+  sauvegarde avant de quitter la zone et verifie le compteur global.
+- [ ] Controle apres Ivy : 18 chroniques, 30 bandes, 44 enigmes, 150 dents et
+  88 trophees environ.
+CHAPITRE 10 - NETTOYAGE FINAL DE LA CAMPAGNE
+
+21. Intensive Treatment final
+
+- [ ] Retourne a Intensive Treatment avec tous les gadgets. Dans Holding
+  Cells, casse les dents du conduit et du bureau de controle.
+- [ ] Dans Patient Pacification Chamber, utilise le gel sur le sol fragile,
+  puis prends le trophee derriere la grille. Controle les deux balcons.
+- [ ] Dans Decontamination, casse les dents de la passerelle superieure et
+  ouvre le conduit de la salle centrale. Scanne les symboles des parois.
+- [ ] Dans Transfer Loop, prends les dents qui etaient derriere les grilles
+  inaccessibles. Fais les deux branches du couloir.
+- [ ] Dans Intensive Treatment Lobby, lis la bande restante, scanne la photo
+  familiale et prends les trophees au-dessus des portes.
+- [ ] Dans Secure Transit, termine la chronique, le conduit et la grille
+  laterale. Le compteur de la zone doit etre vert avant la sortie.
+- [ ] Controle retour Intensive Treatment : 16 chroniques, 27 bandes, 43
+  enigmes et 125 dents environ. Le chiffre exact a retenir reste le 240/240.
+
+22. Caves final
+
+- [ ] Dans Pump Control, termine le tableau des vannes, le conduit du plafond
+  et le trophee du sol fragile.
+- [ ] Dans Old Sewer, casse les dents des alcoves et prends le trophee de la
+  galerie haute. Scanne chaque paroi avec le mode Detective.
+- [ ] Dans the Croc's Lair, visite les passerelles dans les deux sens. Un
+  trophee est en hauteur dans la salle d'eau, un autre derriere une grille.
+- [ ] Dans Pressure Control, lis la derniere bande et scanne la Chronique du
+  poste de controle. Verifie le conduit de maintenance.
+- [ ] Dans the Batcave, prends le trophee de la paroi et scanne le symbole
+  situe pres de l'ascenseur.
+- [ ] Controle Caves final : 30 bandes, 43 enigmes, 137 dents environ et
+  toutes les cartes de Caves. Si le 240/240 manque, les pistes restantes
+  sont indiquees par le menu de l'Homme-Mystere.
+
+23. Medical final
+
+- [ ] Dans Medical Foyer, scanne la plaque et le symbole du couloir. Casse
+  les dents sous les passerelles et dans les conduits.
+- [ ] Dans Surgery, prends le trophee du conduit et termine le symbole de
+  grille. Controle la salle d'observation et le balcon.
+- [ ] Dans Sanatorium, casse les dents des cages, de la passerelle et des
+  alcoves. Lis les bandes Medical restantes dans les bureaux.
+- [ ] Dans Morgue, scanne le bocal et le dossier. Prends le trophee derriere
+  la grille de service.
+- [ ] Dans Experimental Chamber, utilise le gel sur le sol fragile et prends
+  le trophee derriere le panneau. La carte de la zone doit etre validee.
+- [ ] Ne quitte pas Medical si le menu indique encore une famille jaune.
+  L'ensemble des salles est accessible depuis le Sanatorium sans refaire la
+  mission principale.
+
+24. Arkham Mansion final
+
+- [ ] Dans Main Hall, ouvre les conduits de la statue et du plafond. Aligne
+  le point d'interrogation depuis le balcon superieur.
+- [ ] Dans Library, termine le plafond, les rayonnages, le balcon et les
+  conduits. Scanne la derniere plaque de la salle.
+- [ ] Dans Records Room, prends le trophee de l'alcove, lis la bande et
+  scanne la vitrine. Controle la cellule etrange.
+- [ ] Dans Warden's Office, termine la carte, la plaque du bureau et le
+  conduit au-dessus de la porte.
+- [ ] Dans West Wing, scanne Catwoman, Scarface, le panneau d'identification
+  et le dossier du couloir. Casse les dents des cellules.
+- [ ] Dans South Corridor, utilise le gel et le lance-corde sur les deux
+  branches. Le trophee du conduit haut est le dernier oubli courant.
+- [ ] Controle Mansion final : 20 chroniques, 33 bandes, 48 enigmes et 96
+  trophees environ avant le dernier tour de l'ile.
+
+25. Penitentiary final
+
+- [ ] Dans the Main Cell Block, casse les dents au-dessus des cellules et
+  scanne le calendrier, la cellule miroir et le panneau Tommy Gun.
+- [ ] Dans Guard Room, lis la bande et prends le trophee du conduit. Refais
+  les passerelles superieures avec le mode Detective.
+- [ ] Dans Security Control Room, termine les cages, les vitres et les
+  conduits. Verifie les deux portes de service.
+- [ ] Dans Extreme Incarceration, prends le trophee de la plateforme et
+  utilise le gel sur le sol fragile. Scanne l'indice restant.
+- [ ] Controle Penitentiary final : la carte de zone est validee, les bandes
+  Zsasz sont lues et les compteurs de dents et de trophees sont verts.
+
+26. Arkham Island final
+
+- [ ] Fais le tour d'Arkham East : guard tower, cimetiere, patio, tour de
+  l'horloge et corniches. Scanne tout point d'interrogation encore jaune.
+- [ ] Fais le tour d'Arkham North : ruines, plateau rocheux, toits et entree
+  des Caves. Utilise le gel sur le sol pres de la Batmobile.
+- [ ] Fais le tour d'Arkham West : cabane, cascade, tour, buissons et toit
+  de Medical. Les dents des passerelles se cassent au Batarang.
+- [ ] Ouvre les neuf cartes de zone dans le menu et lis leurs indices. Une
+  carte non lue peut laisser croire qu'un defi est absent.
+- [ ] Ouvre le menu de l'Homme-Mystere et resous les indices restants en
+  suivant le nom exact de la zone, puis de la salle. Ne te fie pas a la
+  position approximative du marqueur.
+- [ ] Le compteur global doit afficher 240/240. Les compteurs de dents,
+  chroniques, bandes et trophees servent alors a diagnostiquer une famille,
+  pas a remplacer le compteur du jeu.
+
+CHAPITRE 11 - VISITOR CENTER ET FIN DE CAMPAGNE
+
+27. Derniere zone
+
+- [ ] Avant de franchir la porte du Visitor Center, fais une sauvegarde
+  manuelle. Termine d'abord les familles de l'ile.
+- [ ] A l'exterieur du Visitor Center, fais le tour des quatre adversaires et
+  casse les dents de la zone. Party Pooper exige de neutraliser toute la
+  rencontre.
+- [ ] Dans le hall du Visitor Center, traite les groupes par petits paquets.
+  C'est le meilleur endroit pour tenter Freeflow Combo 20 ou 40.
+- [ ] Pour Catch!, utilise un Batarang sur un ennemi qui renvoie un projectile.
+  Fais une sauvegarde avant la tentative et attends le lancer lisible.
+- [ ] Termine la campagne sans oublier l'ecran de statistiques. Les medailles
+  de defi et le 240/240 doivent etre verifies independamment.
+- [ ] La difficulte de la campagne est validee par une partie complete. Si tu
+  as commence en Normal, utilise une seconde route Difficile pour le succes.
+
+CHAPITRE 12 - CARTES DE DEFI BATMAN
+
+28. Regle des medailles
+
+- Une medaille Combat se gagne en validant le score, le combo ou la condition
+  affichee. Il faut 24 medailles Combat sur les huit cartes de base : quatre
+  cartes normales et leurs quatre versions Extreme.
+- Une medaille Predator se gagne en validant la condition de furtivite.
+  Il faut 24 medailles Predator sur les huit cartes de base.
+- Les cartes normales servent a apprendre. Les versions Extreme melangent
+  obstacles et equipements : lis toujours les trois medailles.
+- Les medailles sont independantes de la campagne et des collectibles.
+
+29. Cartes Combat
+
+- [ ] Intensive Treatment : garde le combo vivant entre les vagues. Esquive
+  au-dessus des ennemis armes et reserve le finisher au dernier groupe.
+- [ ] Sewer Bat : exploite les rebords et les murs pour garder la camera
+  ouverte. Esquive d'abord si une attaque arrive hors champ.
+- [ ] Shock and Awe : gere les ennemis electrocharges a distance et termine
+  chaque vague avec une combinaison propre.
+- [ ] Rumble in the Jungle : utilise les Titans comme outils de zone. Evite
+  de les frapper dans un coin et garde une sortie.
+- [ ] Intensive Treatment Extreme : lis les interrupteurs et change de cible
+  apres chaque impact. La version Extreme demande de proteger le combo.
+- [ ] Sewer Bat Extreme : commence par les ennemis qui interrompent les
+  attaques et utilise l'esquive au-dessus des groupes.
+- [ ] Shock and Awe Extreme : repere les sols electriques avant la manche et
+  termine les objectifs dans l'ordre des medailles.
+- [ ] Rumble in the Jungle Extreme : neutralise les armes, puis gere le Titan
+  a l'espace libre. Les attaques sans visibilite cassent le combo.
+- [ ] Controle Combat : le menu Batman doit afficher 24/24 medailles.
+
+30. Cartes Predator
+
+- [ ] Silent Knight : apprends les chemins en hauteur et termine chaque
+  condition sans etre detecte. C'est la carte ideale pour Invisible Predator.
+- [ ] Record Breaker : lis les trajectoires des gargouilles et alterne les
+  points d'observation silencieux.
+- [ ] Survival Tactics : utilise les conduits et les murs explosifs comme
+  sorties. Garde une option de fuite.
+- [ ] Invisible Predator : uniquement des Silent Takedowns, jamais detecte,
+  sans Batarang ni elimination bruyante.
+- [ ] Silent Knight Extreme : controle les armes et les brouilleurs avant de
+  prendre une cible. Les trois medailles demandent une route propre.
+- [ ] Record Breaker Extreme : les changements de hauteur comptent plus que
+  la vitesse. Utilise le mode Detective pour lire les angles morts.
+- [ ] Survival Tactics Extreme : garde le lance-corde pour la sortie et
+  termine les ennemis isoles avant le groupe.
+- [ ] Invisible Predator Extreme : memorise la route, puis vise les trois
+  medailles sans improviser.
+- [ ] Controle Predator : le menu Batman doit afficher 24/24 medailles.
+
+31. Cartes bonus GOTY et Joker
+
+- [ ] Crime Alley : carte Combat bonus. Elle est incluse dans GOTY, mais ne
+  remplace pas les 24 medailles Combat Batman.
+- [ ] Scarecrow Nightmare : carte Combat bonus independante de la sequence de
+  campagne homonyme ; lis les lignes de vue et garde la hauteur.
+- [ ] Totally Insane : carte Combat bonus. Lis les trois objectifs avant de
+  lancer la manche et reserve une sauvegarde.
+- [ ] Nocturnal Hunter : carte Predator bonus. Les chemins de gargouille
+  aident a preparer les eliminations silencieuses.
+- [ ] Les cartes Joker Maximum Punishment, Gutter Tactics, Caged Fighter,
+  Giggles in the Gardens, Paging Dr. Joker, Administered Pain, Hell's
+  Hacienda et Cavern of Love sont du contenu annexe. Fais-les pour le 100 %
+  des cartes, sans les compter dans les 48 medailles Batman.
+
+CHAPITRE 13 - TECHNIQUES DES SUCCES
+
+- Freeflow Combo 5, 10, 20 et 40 : alterne frappe, contre, esquive et
+  Batarang. Visitor Center et les cartes Combat sont les endroits tolerants.
+- Flawless Freeflow Fighter : choisis Intensive Treatment et valide les
+  quatre vagues sans degats.
+- Freeflow Perfection : dans une seule combinaison, realise frappe, Batclaw
+  puis frappe, contre, esquive, cape, finisher de combo, takedown de combo,
+  Batarang et ground pound.
+- Mano-a-mano : dans la rencontre de Bane, n'utilise pas de Batarang contre
+  la cible principale. Sauvegarde avant la sequence.
+- Rope-a-dope-a-dope : utilise la tyrolienne sur un ennemi, puis laisse le
+  mouvement terminer la neutralisation.
+- Night Glider : depuis un point haut d'Arkham, depasse 100 metres en glide
+  avant de toucher le sol.
+- Resist The Fear et Recurring Nightmare : reussis les deux epreuves de
+  Scarecrow sans sauter la sequence.
+- Zsasz Cut Down To Size : approche Zsasz par le conduit ou le rebord indique
+  et attends l'angle de takedown.
+- Shocking Rescue : le sauvetage se fait dans Patient Pacification Chamber ;
+  neutralise les boites a fusibles et verifie chaque garde.
+- Malpractice Needs More Practice : survis a l'attaque du patient deform e
+  en utilisant les contres et l'espace de la salle.
+- Catch! : reserve un Batarang simple et attends le projectile renvoye.
+- World's Greatest Detective : lis toutes les chroniques et biographies,
+  puis reviens au bureau du directeur quand le menu indique la piste complete.
+- Perfect Knight : additionne campagne, 240/240, medailles Combat et Predator,
+  puis les conditions de campagne.
+- Biggest Bang, Bigger Bang et Big Bang : les trois recompenses de difficulte
+  correspondent aux trois niveaux de campagne.
+- Freeflow Bronze/Silver/Gold et Predator Bronze/Silver/Gold : chaque palier
+  demande un nombre de medailles, puis la totalite de sa famille.
+- Arkham Analyst, Cryptic Investigator, Lateral Thinker, Mystery Solver,
+  Conundrum Cracker, Mental Athlete, Riddle Resolver et Crack The E Nigma :
+  les seuils sont 5, 10, 25, 40, 55, 70, 85 et 100 %.
+- Born Free : quitte Intensive Treatment et atteins la surface de l'ile.
+- Just What The Doctors Ordered : sauve tous les medecins de Medical.
+- Double Trouble : termine le sauvetage chronometre du Penitentiary.
+- Freak Show Rodeo : reussis la rencontre de Titan.
+- Poisoned Ivy : termine la sequence Botanical.
+- Solitary Confinement : capture Harley Quinn dans la campagne.
+- Party Pooper : neutralise toute la rencontre du Visitor Center.
+- Flawless Freeflow Fighter et Freeflow Perfection peuvent etre faits en
+  Combat Challenge. Fais une sauvegarde avant chaque essai.
 
 CHECKLIST STEAM FINALE - 47/47
 
-[ ] Campagne et difficulte.
-[ ] Gadgets, combats, combos et mouvements.
-[ ] Toutes les enigmes, trophees, cartes, dents et chroniques.
-[ ] 24 medailles Combat.
-[ ] 24 medailles Predator.
-[ ] Freeflow parfait, Predator silencieux, Catch, glide et combats speciaux.
-[ ] Cartes bonus GOTY.
-[ ] Verification finale du profil Steam : 47/47.
+- [ ] 01 Freeflow Combo 5 - Complete a combo of 5 moves.
+- [ ] 02 Shocking Rescue - Take down Zsasz in Patient Pacification Chamber.
+- [ ] 03 Malpractice Needs More Practice - Survive the deformed Joker henchman.
+- [ ] 04 Leave No Man Behind - Rescue everyone from Joker toxin in Decontamination.
+- [ ] 05 Born Free - Escape Intensive Treatment to the island surface.
+- [ ] 06 Freeflow Combo 10 - Complete a combo of 10 moves.
+- [ ] 07 Arkham Analyst - Solve 5% of the Riddler challenges.
+- [ ] 08 Just What The Doctors Ordered - Save all doctors in Medical.
+- [ ] 09 Daydreamer - Survive the nightmare without skipping the route.
+- [ ] 10 Baneful Payback - Defeat Bane.
+- [ ] 11 Cryptic Investigator - Solve 10% of the Riddler challenges.
+- [ ] 12 Breaking And Entering - Gain access to Administration.
+- [ ] 13 Recurring Nightmare - Face the second fear trial.
+- [ ] 14 Zsasz Cut Down To Size - Save a guard from Zsasz.
+- [ ] 15 Solitary Confinement - Capture Harley Quinn.
+- [ ] 16 Freeflow Combo 20 - Complete a combo of 20 moves.
+- [ ] 17 Double Trouble - Defeat two Titan henchmen at once.
+- [ ] 18 Resist The Fear - Overcome the first fear trial.
+- [ ] 19 Lateral Thinker - Solve 25% of the Riddler challenges.
+- [ ] 20 Crocodile Tears - Venture into Killer Croc's lair and return alive.
+- [ ] 21 Freak Show Rodeo - Ride the Titan and survive the encounter.
+- [ ] 22 Poisoned Ivy - Defeat the giant plant in Botanical Gardens.
+- [ ] 23 Big Bang - Complete the game on Easy difficulty.
+- [ ] 24 Bigger Bang - Complete the game on Normal difficulty.
+- [ ] 25 Mystery Solver - Solve 40% of the Riddler challenges.
+- [ ] 26 Party Pooper - Break up a party in the Visitor Center.
+- [ ] 27 Rope-a-dope-a-dope - Takedown an enemy using the Rope.
+- [ ] 28 Conundrum Cracker - Solve 55% of the Riddler challenges.
+- [ ] 29 Mental Athlete - Solve 70% of the Riddler challenges.
+- [ ] 30 Riddle Resolver - Solve 85% of the Riddler challenges.
+- [ ] 31 Freeflow Combo 40 - Complete a combo of 40 moves.
+- [ ] 32 Crack The E Nigma - Solve every riddle on the island.
+- [ ] 33 Night Glider - Glide for over 100 metres.
+- [ ] 34 World's Greatest Detective - Solve the mystery of the Spirit of Arkham.
+- [ ] 35 Catch! - Catch a Batarang and throw it back.
+- [ ] 36 Flawless Freeflow Fighter - Complete a combat challenge without damage.
+- [ ] 37 Biggest Bang - Complete the game on Hard difficulty.
+- [ ] 38 Mano-a-mano - Defeat a Titan without using Batarangs.
+- [ ] 39 Freeflow Bronze - Obtain 8 medals on Combat Challenges.
+- [ ] 40 Predator Bronze - Obtain 8 medals on Predator Challenges.
+- [ ] 41 Invisible Predator - Complete one Predator Challenge using only Silent Takedowns.
+- [ ] 42 Freeflow Silver - Obtain 16 medals on Combat Challenges.
+- [ ] 43 Predator Silver - Obtain 16 medals on Predator Challenges.
+- [ ] 44 Perfect Knight - Achieve 100% completion in the main game.
+- [ ] 45 Freeflow Perfection - Perform a perfect combo using every combat move.
+- [ ] 46 Predator Gold - Obtain all 24 medals on Predator Challenges.
+- [ ] 47 Freeflow Gold - Obtain all 24 medals on Combat Challenges.
 
-REGLE ANTI-SPOILER
+VERIFICATION FINALE
 
-Les secteurs et gadgets servent a ordonner la collecte. Les fins, morts,
-identites, boss et consequences ne sont pas decrits.
+- Le menu Steam affiche 47/47 succes et le profil les decompte bien.
+- Le menu de l'Homme-Mystere affiche 240/240, pas seulement un pourcentage.
+- Les huit cartes Batman affichent 24/24 Combat et 24/24 Predator.
+- Les quatre cartes GOTY et les cartes Joker ont ete ouvertes et testees si
+  tu vises le 100 % de contenu, meme si elles ne changent pas les 48 medailles.
+- Les trois succes de difficulte sont valides sur les parties correspondantes.
+- Les chroniques et biographies sont lues, pas uniquement ramassees.
+- Aucune salle ne reste jaune dans les compteurs de zone.
+- Les retours manquables ont ete faits avant les portes de mission.
+- Le guide reste volontairement sans revelation de fin, d'identite ou de
+  consequence narrative.
+
+FIN DU GUIDE
