@@ -92,6 +92,7 @@ const isUppercaseHeading = (value: string) => {
 };
 
 const isNamedHeading = (value: string) =>
+  /^\p{Lu}/u.test(value) &&
   /^(?:partie|chapitre|acte|épisode|episode|route|ordre|objectif|périmètre|perimetre|garde-fous|garde fous|missables|conditions|checklist|vérification|verification|nettoyage|préparation|preparation|prologue|épilogue|epilogue|campagne|post-game|post game|dlc|succès|succes|fin|sources)\b/i.test(
     value,
   );
