@@ -1,207 +1,658 @@
 ASSASSIN'S CREED VALHALLA
-GUIDE CHRONOLOGIQUE 100 % STEAM - SANS SPOILER
+GUIDE CHRONOLOGIQUE 100 % STEAM - FICHE COMPLETE SANS SPOILER
 
-Version de travail : 10 aout 2026
+Version de travail : 12 aout 2026
 
-Ce parcours couvre les 92 succes Steam de l'AppID 2208920 : Norvege,
-Angleterre, colonie, territoires, ordre, world events, Orlog, peche,
+PERIMETRE DE LA FICHE
+
+Ce parcours couvre les 92 succes Steam de l'AppID 2208920, la Norvege,
+l'Angleterre, Ravensthorpe, Asgard, Jotunheim, Vinland, les anomalies,
+l'Ordre des Anciens, les flytings, Orlog, la peche, les animaux alpha, les
 Tombs of the Fallen, Mastery Challenge, Wrath of the Druids, The Siege of
 Paris, The Forgotten Saga et Dawn of Ragnarok.
 
-OBJECTIF
+La route est chronologique et sans spoiler. Les noms de territoires, de
+missions, d'objets et de compteurs servent a se reperer; aucun evenement,
+identite, mort, retournement ou fin n'est raconte.
 
-[ ] 92/92 succes Steam.
-[ ] Campagne, colonie niveau 6 et tous les territoires.
-[ ] Ordre, world events, flytings, Orlog, peche et animaux alpha.
-[ ] Equipement, capacites, mastery, raids, navire et decoration.
-[ ] Tombs of the Fallen et Mastery Challenge.
-[ ] Wrath of the Druids et max Dublin Renown.
-[ ] The Siege of Paris et ses territoires/rebelles.
-[ ] The Forgotten Saga et Dawn of Ragnarok.
+COMMENT SUIVRE LA FICHE
+
+- A chaque retour a Ravensthorpe, parle aux donneurs de quetes, construis les
+  batiments disponibles et relis la carte avant de repartir.
+- Dans chaque territoire, ouvre le point de vue puis vide Richesse, Mystere,
+  Artefact, World Event, flyting, tresor et point sous-marin.
+- Le compteur Completionist ne se valide qu'apres les territoires de la
+  carte concernes. Les DLC ont leurs propres compteurs et ne doivent pas etre
+  melanges a l'Angleterre.
+- Utilise le corbeau pour marquer les coffres et les objectifs. Les icones
+  dorees ne sont pas toujours au meme niveau : cherche aussi sous les maisons,
+  dans les puits, derriere les murs cassables et sous l'eau.
+- Coche la liste Steam finale une case a la fois. Elle reprend les 92 noms
+  officiels, pas des categories generales.
 
 GARDE-FOUS ABSOLUS
 
-- Le jeu se nettoie apres la campagne. Fais chaque arc de territoire avec
-  ses richesses, mysteres et artefacts avant de passer au suivant.
-- Les succes Steam incluent les DLC et modes ajoutes. Ce guide les traite
-  apres la campagne dans un ordre stable, sans melanger les cartes.
-- Garde une liste des Orlog, flytings, poissons, chats, animaux alpha,
-  collectibles et points de settlement. Les compteurs ne sont pas tous dans
-  le meme menu.
-- Utilise les sauvegardes manuelles avant les actions speciales : feu,
-  bouclier, bateau, chats, chevaux, moines et ennemis de haut niveau.
-- Aucun nom de personnage, mort, identite, boss, fin ou retournement n'est
-  revele. Les territoires, DLC et activites servent uniquement a l'ordre.
+- La majorite des succes est nettoyable apres la campagne, mais les actions
+  de situation sont faciles a laisser passer. Fais une sauvegarde avant les
+  essais de cheval, moines, feu, navire, mur et ennemis de difficulte Hard.
+- Garde des ressources de raids pour Ravensthorpe. Construis d'abord Bureau
+  des Assassins, Forgeron, Baraquements, Cabane de chasse, Cabane de peche,
+  Cartographe et les batiments qui ouvrent les compteurs.
+- Pour l'Ordre, valide chaque cible dans le menu et rends les medaillons a
+  Hytham. Les Zealots, les indices, les quetes et les membres de l'Ordre ne
+  sont pas un seul compteur.
+- Ne depense pas toutes les ressources rares avant d'avoir ameliore une piece
+  d'equipement jusqu'au maximum pour Ultimate Refinement.
+- Fais Wrath of the Druids, The Siege of Paris, puis Dawn of Ragnarok. Lance
+  The Forgotten Saga apres Dawn of Ragnarok; les modes ont leurs propres
+  ressources et leurs propres objectifs.
+- Les choix narratifs ne sont pas necessaires pour les 92 succes, mais garde
+  une sauvegarde avant chaque decision si tu veux conserver une route
+  personnelle stable.
 
-MISSABLES ET FENETRES
+MISSABLES ET FENETRES PRATIQUES
 
-- La majorite des succes est nettoyable apres la campagne et aucun choix
-  general ne bloque le 100 % Steam.
-- Les actions de situation sont manquables en pratique : assassinat a cheval,
-  escorte de moines, braseros du mur, firefly de colonie, tir a travers un
-  objet et actions de combat sur soldats difficiles.
-- Avant de quitter un territoire, termine les world events et les flytings.
-  Certains evenements se deplacent si tu progresses trop loin.
-- Pour Overdesign II, prepare trois soldats de difficulte Hard, mets Eivor en
-  feu et tue-les sans casser leur bouclier. Fais une sauvegarde avant.
-- Les succes des DLC se font dans leurs propres cartes et restent separes de
-  Completionist All the Way!. Termine chaque carte avant de changer de DLC.
+- Equine Attack : assassine depuis un cheval sur un ennemi isole, avant que
+  les gardes ne lancent une alerte.
+- Not the Norse You're Looking For : dans une zone de mefiance, integre un
+  groupe de moines et passe pres d'un garde sans courir ni sortir du groupe.
+- Twinkle Twinkle : capture une luciole de nuit puis relache-la dans
+  Ravensthorpe; le lieu de capture n'est pas le lieu de validation.
+- Is There Anybody Out There? : allume tous les braseros non allumes de
+  Hadrian's Wall; fais-le en longeant le mur et relis l'icone de feu.
+- Overdesign II : mets Eivor en feu, tue trois soldats de difficulte Hard sans
+  briser leur bouclier. Prepare les cibles et une sauvegarde avant l'incendie.
+- Row Rage : detruis cinq bateaux par eperonnage en moins de deux minutes.
+  Choisis un bras de mer et utilise des petites embarcations.
+- Double Trouble demande les deux faucilles du DLC Irlande, pas deux armes
+  de meme apparence obtenues ailleurs.
+- Dans The Forgotten Saga, les succes sont repetables, mais fais une run
+  dediee a Pure of Heart et une autre a Sacrificial Victory pour reduire le
+  risque de perdre la condition au dernier combat.
 
-ORDRE DE PARTIE RECOMMANDE
+ORDRE GLOBAL RECOMMANDE
 
-1. Norvege et installation de la colonie.
-2. Angleterre : arcs de territoires, ressources et settlement.
-3. Nettoyage Angleterre : Ordre, Orlog, peche, Tombs et Mastery.
-4. Wrath of the Druids.
-5. The Siege of Paris.
-6. The Forgotten Saga.
-7. Dawn of Ragnarok.
-8. Verification finale des 92 succes.
+1. Norvege : prologue, Rygjafylke, premier depart et nettoyage leger.
+2. Angleterre : Ravensthorpe, Grantebridgescire, Ledecestrescire, East
+   Anglia, Lunden, Oxenefordscire, Sciropescire, Cent, Essexe, Suthsexe.
+3. Angleterre : Lincolnscire, Eurvicscire, Jorvik, Snotinghamscire,
+   Glowecestrescire, Wincestre et Hamtunscire.
+4. Asgard puis Jotunheim quand Valka ouvre les potions; Vinland quand le
+   Bureau des Assassins ouvre son expedition.
+5. Ravensthorpe final : Ordre, anomalies, animaux, poissons, Orlog, Tombs,
+   Mastery, raids fluviaux et derniers territoires.
+6. Wrath of the Druids, puis The Siege of Paris.
+7. Dawn of Ragnarok, puis The Forgotten Saga et le nettoyage final.
 
-NORVEGE - PROLOGUE ET PREMIERS COMPTEURS
+PHASE 0 - NORVEGE ET PROLOGUE
 
-- Termine le prologue, ouvre les richesses et les mysteres visibles, puis
-  reviens aux points de vue avant de partir en Angleterre.
-- Utilise les capacites, equipe huit aptitudes et ameliore une piece
-  d'equipement jusqu'au niveau maximal de materiaux.
-- Fais une premiere attaque de monastere et un premier raid naval. Le
-  longship se complete plus tard avec les raids et les achats.
-- Fais un assassinat a cheval sur une cible isolee, puis essaye un assassinat
-  silencieux de dix ennemis sans declencher de conflit.
-- Les animaux alpha, poissons et flytings peuvent attendre mais note les
-  icones de la carte. Le dezoom sera la cle du nettoyage.
+ROUTE
 
-ANGLETERRE ET COLONIE
+1. Termine The Saga Begins et les missions d'introduction.
+2. Ouvre le voyage, la chasse, le combat, la furtivite et la navigation.
+3. Fais la premiere exploration de Rygjafylke, puis pars vers l'Angleterre
+   quand To England! est disponible.
 
-- Installe la colonie, construis les batiments utiles et vise le niveau 3,
-  puis le niveau 6. Les ressources viennent des raids, coffres et alliances.
-- Pour chaque arc, ouvre le point de vue puis nettoie richesses, mysteres,
-  artefacts, world events, flytings et anomalies avant de repartir.
-- Fais dix world events tot. Ils remplacent souvent les quetes classiques et
-  donnent des points de progression.
-- Utilise le bureau des Assassins, lis les indices et elimine l'Ordre au fil
-  de l'exploration. Relis le menu pour ne laisser aucun Ancien.
-- Decore chaque emplacement cosmetique de la colonie avec un objet valide.
-  Le comptoir de decoration est un compteur separe du niveau 6.
+CHECKPOINT NORVEGE
 
-ARCS DE TERRITOIRES
+- [ ] Synchroniser les points de vue de Rygjafylke et ouvrir les voyages.
+- [ ] Terminer les mysteres accessibles, les richesses, les artefacts et les
+      coffres des villages autour de Fornburg.
+- [ ] Vaincre Elk of Bloody Peaks quand le niveau le permet; le second animal
+      de Hordafylke attend le retour post-campagne.
+- [ ] Faire une premiere peche, une premiere chasse et un premier raid.
+- [ ] Garder les materiaux de construction pour Ravensthorpe.
+- [ ] Ne cherche pas encore Mjolnir, Thor's Helmet ou Excalibur : les
+      prerequis sont mieux valides apres l'Ordre et les Tombs.
 
-- Traite les regions dans l'ordre de puissance recommande par Randvi. Dans
-  chaque region : richesse, mystere, artefact, quete, world event et coffre.
-- Les enigmes de pierres, cairns, maledictions et Tombs of the Fallen doivent
-  etre notes. Trois cairns suffisent pour Equilibrium, mais tout le contenu
-  reste necessaire pour la completion des territoires.
-- Fais les flytings partout. Le succes Slam Master demande de les avoir tous.
-- Ramasse les cartes au tresor et les poissons. Pour Good Catch!, utilise la
-  ligne de peche sur chaque type, puis relis les poissons restants.
-- Defie les filles de Lerion, les animaux alpha et les champions quand le
-  niveau est suffisant. Une sauvegarde avant les combats reduit les reprises.
+PHASE 1 - RAVENSTHORPE ET PREMIERS SYSTEMES
 
-ORDRE, RAID ET COMBAT
+1. Installe Ravensthorpe et termine To England!.
+2. Fais le premier raid pour Rampage.
+3. Construis la Baraque pour personnaliser un Jomsviking et valider It's
+   Alive!.
+4. Construis le Bureau des Assassins, puis parle a Hytham et aux habitants.
+5. Regle les batiments de la colonie au niveau 3 puis niveau 6, sans vendre
+   les fournitures de raid.
 
-- Termine toutes les branches de l'Ordre. Utilise l'assassinat avance et
-  confirme chaque cible dans le menu plutot que de suivre seulement les quetes.
-- Fais les raids necessaires a la colonie et aux batiments. Pour Row Rage,
-  ramme cinq bateaux en moins de deux minutes avec le longship.
-- Equipe huit capacites, depense un premier point de Mastery et ameliore
-  entierement un equipement. Les ressources sont plus utiles ici que vendues.
-- Fais Double Trouble avec deux armes lourdes equipees. Pour A Picture of
-  Grace, execute le saut demande sur la statue/structure prevue par la carte.
-- Pour Flying Eivor, utilise un ennemi capable de lancer Eivor loin. Place
-  une sauvegarde avant l'essai, car la distance depend de l'angle.
+CHECKPOINT COLONIE
 
-ACTIVITES DE NETTOYAGE ANGLETERRE
+- [ ] Builder : atteindre le niveau 3 de settlement.
+- [ ] Home Sweet Home : atteindre le niveau 6 de settlement.
+- [ ] It’s Alive! : creer et personnaliser un Jomsviking dans les Baraquements.
+- [ ] Home Decor : placer un objet sur chaque emplacement cosmetique valide.
+- [ ] Twinkle Twinkle : relacher une luciole dans la colonie.
+- [ ] Construire Cabane de chasse et Cabane de peche pour les compteurs
+      d'animaux et de poissons.
+- [ ] Construire l'atelier de tatouage, les ecuries et le Cartographe.
+- [ ] Revenir a chaque niveau de colonie pour les nouvelles quetes et les
+      decorations qui se debloquent.
 
-- Termine tous les Orlog. Note les joueurs de chaque region et utilise les
-  pouvoirs de faveur avec parcimonie.
-- Fais cinq Treasure Hoard rewards, les Tombs of the Fallen puis les trois
-  tombes minimales. Heroes of Ancient Britain exige la collection complete.
-- Allume les braseros non allumes de Hadrian's Wall. Fais les world events
-  et les points de settlement associes avant de partir pour les DLC.
-- Libere une firefly dans la colonie, apprivoise les capacites de cheval et
-  execute l'assassinat a cheval si ce n'est pas deja fait.
-- Complete toutes les regions d'Angleterre. Le compteur Completionist All the
-  Way! se verifie sur la carte globale, pas uniquement dans la colonie.
+PHASE 2 - PREMIERS ARCS D'ANGLETERRE
 
-TOMBS OF THE FALLEN ET MASTERY CHALLENGE
+ORDRE CONSEILLE
 
-- Explore les Tombs of the Fallen dans l'ordre de leur puissance. Termine les
-  trois premiers pour Crypt-ologist, puis tous pour Heroes of Ancient Britain.
-- Lance Mastery Challenge apres avoir l'equipement et les competences
-  necessaires. Commence par une medaille or, puis obtiens toutes les medailles
-  de la partie 1 et la completion du mode.
-- Les challenges de combat, tir et furtivite demandent une execution propre.
-  Lis la contrainte avant chaque tentative et recharge si le jeu ne reconnait
-  pas la condition.
+1. Grantebridgescire.
+2. Ledecestrescire.
+3. East Anglia.
+4. Lunden.
+5. Oxenefordscire.
+6. Sciropescire.
+
+MISSION-CHECKPOINT
+
+- [ ] Take My Hand : terminer l'arc de Grantebridgescire.
+- [ ] The Good Saxon : valider la progression de l'arc saxon associe.
+- [ ] Chaque retour a Ravensthorpe : parler a Randvi, Hytham, Valka et aux
+      artisans avant d'ouvrir l'arc suivant.
+- [ ] Premiere conquete : terminer la zone de depart, l'attaque et les
+      richesses des monasteres visibles.
+
+GRANTEBRIDGESCIRE
+
+- [ ] Vues, richesses, Mysteres, Artefacts, World Events, flytings et Orlog.
+- [ ] Ely Monastery, Grantebridge, Meldeburne et les camps de la riviere.
+- [ ] Standing Stone et cairns de la region.
+- [ ] Animus Anomaly et malediction si l'icone rouge est visible.
+- [ ] Black Peak : conserve la zone pour Sprint Bash et A Picture of Grace.
+
+LEDECESTRESCIRE
+
+- [ ] Premiere grande serie de raids et ressources de colonie.
+- [ ] Vues, temples, ruines, fortifications, monasteres et villages.
+- [ ] Cairns, autels, maledictions, anomalies et World Events.
+- [ ] Marketplace de Ledecestre : apres Sprint Bash, detruire les pots,
+      caisses et barrieres jusqu'a 30 objets pour A Picture of Grace.
+
+EAST ANGLIA
+
+- [ ] Arc du territoire, Burgh Castle, Sutton Hoo, Dunwic et monasteres.
+- [ ] Black Shuck, l'animal alpha, apres avoir marque ses points faibles.
+- [ ] Tomb of Boudicca, puis artifact de la tombe et piece d'armure Fallen
+      Hero. Le lieu apparait quand la chaine des Tombs of the Fallen est active.
+- [ ] Orlog, flyting, anomalies, maledictions, richesses et tous les coffres.
+
+LUNDEN
+
+- [ ] Arc de Lunden, bureaux, amphitheatre, temples, aqueducs et ports.
+- [ ] Membres de l'Ordre et indices lies aux quetes du bureau.
+- [ ] World Events, richesses et objets romains de la ville.
+
+OXENEFORDSCIRE
+
+- [ ] Arc, Oxenforda, Leah Villa, monasteres, ruines et routes.
+- [ ] The Corpse Feeders, les trois loups de l'animal alpha.
+- [ ] Artefacts romains, anomalie, maledictions et caches sous les batiments.
+
+SCIROPESCIRE
+
+- [ ] Arc, Quatford, Uriconium Ruins, camps et monastères.
+- [ ] Beast of the Hills dans la zone souterraine d'Uriconium.
+- [ ] Cassivellaunus Tomb et son artifact.
+- [ ] Cairns, standing stones, World Events et coffres des falaises.
+
+PHASE 3 - ARCS CENTRAUX
+
+1. Cent.
+2. Essexe.
+3. Suthsexe.
+4. Lincolnscire.
+5. Eurvicscire et Jorvik.
+
+CENT
+
+- [ ] Take My Hand : si l'arc n'a pas ete valide par l'histoire, terminer
+      les missions The Abbot's Gambit, Puppets and Prisoners, The Man Behind
+      the Man et A Bloody Welcome.
+- [ ] Vues, Canterbury, monasteres, riches, Mysteres et artefacts.
+- [ ] Orlog, flyting, World Events et objectifs sous-marins.
+
+ESSEX
+
+- [ ] Terminer l'arc, Colcestre, Maldun et les camps de la cote.
+- [ ] Ouvrir les coffres dans les maisons, les caves et les chapelles.
+- [ ] Traiter les anomalies, maledictions, autels, cairns et flytings.
+
+SUTHSEXE
+
+- [ ] Calling in a Favor : terminer l'arc Suthsexe.
+- [ ] Reaver of the South, Arrive Unexpected, Severing the Lines, Let Them
+      Eat Ashes, Scorched Earth et Storming the Walls.
+- [ ] Aelfred's Battle-Sow et les mysteres de haut niveau.
+- [ ] Etre equipe avant les forteresses, puis revenir pour les coffres restants.
+
+LINCOLNSCIRE
+
+- [ ] Arc, Lincoln, Grimsby, Bolingbroc Castle et les ports.
+- [ ] Gemad-Wulf dans la ruine au sud de la riviere Humbre.
+- [ ] Tous les flytings, Orlog, anomalies, maledictions et objets romains.
+
+EURVICSCIRE / JORVIK
+
+- [ ] Arc Eurvicscire, Jorvik, Donecaestre, Wicca's Cave et les villages.
+- [ ] Blood Swine et Venutius Tomb au sud-ouest de Donecaestre.
+- [ ] A Jorvik, vider les temples, les sous-sols, les marches et les bureaux.
+- [ ] Traiter les derniers indices de l'Ordre disponibles dans la region.
+
+PHASE 4 - FIN DES ARCS D'ANGLETERRE
+
+1. Snotinghamscire.
+2. Glowecestrescire.
+3. Wincestre.
+4. Hamtunscire.
+
+SNOTINGHAMSCIRE
+
+- [ ] Arc, Hemthorpe, Sherwood, Snotingham et les montagnes.
+- [ ] Mysteres, cairns, maledictions, artefacts et coffres des grottes.
+- [ ] Flyting et World Events; verifie les objectifs qui n'apparaissent qu'au
+      contact du PNJ.
+
+GLOWECESTRESCIRE
+
+- [ ] Arc, Glowecestre, Druid's Cottage, monasteres et foret.
+- [ ] Vues, richesses, artefacts, World Events et enigmes de saison.
+- [ ] Tous les lieux sous-marins du delta et des rives.
+
+WINCESTRE
+
+- [ ] The Enemy of My Enemy : terminer l'arc de Wincestre.
+- [ ] The Reeve of Wincestre, Choking the Gallows, Plucking the Quill et
+      Impaling the Seax.
+- [ ] Tous les coffres des maisons, eglises, catacombes et murailles.
+
+HAMTUNSCIRE
+
+- [ ] Finir les arcs de campagne disponibles apres les autres alliances.
+- [ ] Verifier les monasteres, forts, camps, points de vue et routes cotieres.
+- [ ] Wildcats of the Weald, au sud de la region, puis retour a Ravensthorpe.
+- [ ] Faire le deuxieme passage de carte pour les lieux qui ne s'ouvrent
+      qu'apres les arcs d'alliance.
+
+PHASE 5 - ASGARD, JOTUNHEIM ET VINLAND
+
+ASGARD ET JOTUNHEIM
+
+Valka ouvre ces arcs apres le niveau 3 de la colonie et la construction de sa
+maison. Fais-les avant Dawn of Ragnarok pour garder une chronologie lisible.
+
+- [ ] View Above All.
+- [ ] Well-Traveled.
+- [ ] Defensive Measures.
+- [ ] Extended Family.
+- [ ] Forging a Bond.
+- [ ] Taking Root.
+- [ ] A Feline's Footfall.
+- [ ] The Big Finish.
+- [ ] Going Deeper.
+- [ ] Mistress of the Iron Wood.
+- [ ] The Lost Cauldron.
+- [ ] A Gift from the Past.
+- [ ] A Feast to Remember.
+- [ ] The Price of Wisdom.
+- [ ] Binding Fate.
+- [ ] Cheating Fate.
+- [ ] Tracer tous les Mysteres, les richesses, les cairns et les artefacts des
+      deux cartes oniriques.
+- [ ] In the Footsteps of the Gods : terminer l'ensemble Asgard/Jotunheim.
+
+VINLAND
+
+- [ ] Pioneer : atteindre Vinland quand le Bureau des Assassins donne l'ordre
+      de voyage.
+- [ ] Vider les camps, les ressources, les Mysteres, les points de vue et les
+      coffres de Vinland.
+- [ ] O Yan Do' Ne, l'animal alpha, se valide a mains nues ou avec les armes
+      de fortune disponibles sur place.
+- [ ] Les ressources de Vinland ne sont pas celles de Ravensthorpe; ne quitte
+      pas la carte avant d'avoir rendu les objectifs locaux.
+
+PHASE 6 - ORDRE DES ANCIENS ET OBJETS DE FIN DE JEU
+
+ORDRE DES ANCIENS
+
+- [ ] Terminer la branche d'indices du Bureau et tous les Membres de l'Ordre.
+- [ ] Vaincre les 15 Zealots quand leurs marqueurs apparaissent sur la carte.
+- [ ] Rendre les medaillons a Hytham pour obtenir les recompenses et les
+      indices suivants.
+- [ ] Ouvrir la cible finale seulement apres les branches et les Zealots.
+- [ ] Disorder of the Ancients : menu de l'Ordre vide et notification Steam.
+
+THOR, EXCALIBUR ET EQUIPEMENT FINAL
+
+- [ ] Witch Hunter : vaincre une fille de Lerion; fais les trois pour ouvrir
+      la suite des dagues et obtenir la recompense complete.
+- [ ] Obtenir les trois dagues des filles de Lerion et les apporter au lieu
+      indique dans East Anglia pour ouvrir l'armure de Thor et son casque.
+- [ ] Godly Reward : recuperer Thor's Helmet.
+- [ ] Reunir l'ensemble Thor et les prerequis de pouvoir, puis revenir en
+      Norvege pour l'arme finale.
+- [ ] Worthy : manier Mjolnir apres avoir rempli les conditions d'armure.
+- [ ] Caladfwlch : reunir les 11 tablettes et tirer Excalibur de la pierre.
+      Les tablettes sont reparties entre les tresors et les Zealots; ne vends
+      pas un objet de tombe avant de verifier la liste.
+- [ ] Ultimate Refinement : ameliorer et ameliorer au maximum une piece
+      d'equipement, y compris sa qualite et ses emplacements de runes.
+- [ ] We're in the End Game Now : atteindre Power 280.
+
+TOMBS OF THE FALLEN
+
+La chaine commence pres des quais de Ravensthorpe. Chaque tombe contient des
+plaques, des leviers, des boules de pression, des passages d'eau et un
+artifact. Fais les detours avant la salle finale; les artefacts ouvrent la
+derniere station.
+
+- [ ] Manius's Sanctum - au sud de Ravensthorpe, Ledecestrescire.
+- [ ] Boudicca Tomb - a l'est d'East Anglia, pres de Brisleah Farm.
+- [ ] Cassivellaunus Tomb - Sciropescire, au nord-ouest de Repton.
+- [ ] Venutius Tomb - Eurvicscire, au sud-ouest de Donecaestre.
+- [ ] Togodomnus' Tomb - seconde vague de tombes, sur la carte d'Angleterre.
+- [ ] Verica's Tomb - Hamtunscire, a l'est d'Aethelnay.
+- [ ] Eden Ring Station - ouvrir avec les cinq artifacts des tombes.
+- [ ] Spelunker : terminer une tombe.
+- [ ] Crypt-ologist : terminer trois tombes.
+- [ ] Heroes of Ancient Britain : terminer toutes les tombes, artifacts et
+      la station finale.
+
+MASTERY CHALLENGE
+
+- [ ] Debloquer les lieux de Mastery Challenge et lire la contrainte de chaque
+      epreuve avant de choisir l'equipement.
+- [ ] Obtenir une premiere medaille or pour All That Glitters.
+- [ ] Partie 1 : toutes les medailles or des epreuves de combat, tir et
+      furtivite pour A True Master.
+- [ ] Partie 2 : toutes les medailles or ajoutees pour Full Master.
+- [ ] Si une medaille ne se valide pas, refaire l'epreuve depuis son panneau
+      de lancement et attendre l'ecran de resultat.
+
+ACTIVITES BASE : FLYTINGS, ORLOG, PECHE, CAIRNS
+
+- [ ] Slam Master : terminer tous les flytings de Norvege, Angleterre,
+      Asgard, Jotunheim et Vinland qui sont presents dans la version de base.
+- [ ] Orlog Champion : battre chaque joueur d'Orlog et obtenir leur marqueur
+      dans la liste des joueurs. Note le joueur avant de changer d'arc.
+- [ ] Good Catch! : attraper un poisson de chaque type avec la ligne de peche;
+      les poissons de mer, riviere et profondeur ne se trouvent pas au meme
+      endroit. Utilise la cabane et les lettres de Wallace pour les manquants.
+- [ ] Tranquility : reussir un puzzle de pierres dressees.
+- [ ] Equilibrium : reussir trois cairns. Les cairns de Norvege et d'Angleterre
+      se cumulent.
+- [ ] Old School Treasure Hunt : recuperer cinq recompenses de cartes au
+      tresor, pas seulement prendre les cartes dans les coffres.
+- [ ] Everyday Life : terminer dix World Events.
+- [ ] Dreamcatcher : detruire dix symboles de malediction de la carte de base.
+- [ ] Archaeologist : terminer tous les defis des collectionneurs romains.
+
+COMBAT ET ACTIONS SPECIALES
+
+- [ ] Face My Might! : equiper huit capacites dans la roue/les emplacements.
+- [ ] Full Mastery : depenser le premier point de Mastery.
+- [ ] Silent Viking : assassiner dix ennemis d'affilee sans declencher de
+      conflit; fais-le dans un camp de bas niveau avec des cachettes.
+- [ ] Equine Attack : assassinat depuis le cheval, en restant en furtivite.
+- [ ] Not the Norse You're Looking For : marche avec un groupe de moines dans
+      une zone de mefiance et passe pres du garde sans quitter le groupe.
+- [ ] A Picture of Grace : debloquer Sprint Bash et detruire 30 objets
+      cassables en courant; pots, caisses, barrieres et jarres comptent.
+- [ ] Flying Eivor : utilise un destroyer ou housecarl qui lance Eivor et
+      mesure une projection d'au moins 30 metres; sauvegarde avant.
+- [ ] Double Trouble : equiper la Bone Sickle et la Ceremonial Sickle, une
+      dans chaque main. La Bone Sickle vient de Black Stout en Connacht; la
+      Ceremonial Sickle est dans le coffre de richesse de Lackanscaul.
+- [ ] Overdesign II : regler la difficulte pour avoir des soldats Hard,
+      preparer trois cibles, allumer Eivor et les tuer sans briser leur
+      bouclier. Un arc ou une arme qui contourne le bouclier peut invalider
+      la condition; fais des attaques qui conservent les boucliers intacts.
+
+ANIMAUX ALPHA - MASTER HUNTER
+
+Le succes de base demande les dix animaux suivants. Les animaux d'Irlande et
+de Jotunheim sont ajoutes dans leurs propres compteurs et ne remplacent pas
+la liste base.
+
+- [ ] Elk of Bloody Peaks - Rygjafylke, Norvege.
+- [ ] Bear of the Blue Waters - Hordafylke, Norvege.
+- [ ] Black Shuck - East Anglia, pres de Sutton Hoo.
+- [ ] The Corpse Feeders - Oxenefordscire, ruine au nord-est de Buckingham.
+- [ ] Beast of the Hills - Sciropescire, Uriconium Ruins.
+- [ ] Gemad-Wulf - Lincolnscire, ruines au sud de la riviere Humbre.
+- [ ] Aelfred's Battle-Sow - Suthsexe, pres de Croindene/Briggsworth.
+- [ ] The Blood Swine - Eurvicscire.
+- [ ] Wildcats of the Weald - Hamtunscire, Dark Weald.
+- [ ] O Yan Do' Ne - Vinland.
+- [ ] Retourner a la Cabane de chasse apres les combats et valider Master
+      Hunter; Steinnbjorn, Black Stout et Black Stout's DLC ne remplacent pas
+      les dix animaux de base.
 
 WRATH OF THE DRUIDS - IRLANDE
 
-- Lance le DLC apres l'installation de la colonie. Nettoie chaque territoire
-  d'Irlande avec les richesses, mysteres, artefacts et quetes.
-- Monte Dublin Renown au maximum, termine dix Royal Demands et fais un Trial
-  of the Morrigan. La monnaie et les livraisons de comptoirs doivent etre
-  gerees entre les missions.
-- Trouve et tue le serpent unique, termine les quetes principales et verifie
-  le compteur Irish Legend.
-- Reviens sur les territoires d'Irlande avant de lancer le DLC suivant. La
-  carte doit etre marquee complete et les notifications Steam presentes.
+Lance le DLC depuis Ravensthorpe apres avoir installe la colonie. Nettoie
+chaque region avant de quitter le bateau; la route des quetes est plus claire
+si Dublin sert de base entre chaque expedition.
+
+ROUTE IRLANDE
+
+1. Irish Trade.
+2. Dublin's Reach.
+3. Potion of Blood.
+4. The Cost of Betrayal.
+5. La chasse aux Children of Danu et le nettoyage de la carte.
+
+- [ ] Terminer la campagne pour Ireland's Deliverance.
+- [ ] Meath : riches, Mysteres, artefacts, comptoirs et quetes.
+- [ ] Dublin : monter Dublin Renown au maximum avec les livraisons et les
+      demandes de comptoirs pour All Roads Lead to Dublin.
+- [ ] Connacht : quetes, Black Stout, Bone Sickle et les richesses de camp.
+- [ ] Ulster : territoires, quetes, enfants de Danu et points de vue.
+- [ ] Tuer tous les Children of Danu et rendre les fragments d'ambre a Deirdre
+      pour Dawn of the Druids.
+- [ ] Faire une Trial of the Morrigan pour Like a Druid.
+- [ ] Completer dix Royal Demands pour King's Maker; les objectifs bonus ne
+      sont pas necessaires mais aident Dublin Renown.
+- [ ] Tuer l'unique serpent d'Irlande pour The Legend of St. Patrick.
+- [ ] Equiper les deux faucilles du DLC pour Double Trouble.
+- [ ] Irish Legend : toutes les regions d'Irlande affichees comme terminees.
 
 THE SIEGE OF PARIS - FRANCIA
 
-- Traite Francia comme une nouvelle carte. Termine les territoires, les
-  quetes, les collectibles et les missions rebelles avant la sortie.
-- Entre dans le bureau d'assassin, lance les missions rebelles et monte
-  l'Infamy au maximum. Fais dix Rebel Missions.
-- Termine la campagne, les trois nobles francs, le boss de taureaux et les
-  territoires. Porte l'ensemble Reaper puis tue a la faux.
-- A Evreux, caresse tous les chats. Cette action est independante de la
-  completion de la carte et doit etre cochee localement.
+Lance la traversee depuis Ravensthorpe apres l'Irlande. Les missions rebelles,
+les territoires et la campagne ont des compteurs differents.
 
-THE FORGOTTEN SAGA
+ROUTE FRANCIA
 
-- Lance le mode depuis Odin's Camp et accepte ses regles de run. Fais un
-  premier passage d'apprentissage, puis vise les refuges, favors, morts et
-  objectifs de chaque zone.
-- Reviens au camp, trouve le majordome, achete toutes les Favors de Nar et
-  reunis les morts dans Kaldstad, Dokkerland et Nidheim.
-- Termine le mode jusqu'a Hel. Pour Pure of Heart, bats Nidhogg sans utiliser
-  d'Elk Shrine. Conserve les ressources pour le combat final.
-- Les objectifs de ce mode sont repetables. Termine-les dans des runs
-  distinctes plutot que de risquer une run longue avec trop de contraintes.
+1. To Francia.
+2. Le Bureau des Assassins de Francia.
+3. Missions rebelles et progression d'Infamy.
+4. Les trois nobles francs.
+5. Campagne de Siege of Paris et nettoyage.
 
-DAWN OF RAGNAROK
+- [ ] Future Past : entrer dans le Bureau des Assassins de Francia.
+- [ ] Completer tous les territoires de Francia pour Know What Is Right.
+- [ ] Faire dix Rebel Missions pour Lèse-majesté.
+- [ ] Atteindre le maximum d'Infamy dans le menu des rebelles pour Vive la
+      Résistance. Les missions repetables sont necessaires pour le niveau.
+- [ ] Vaincre les trois Frankish Nobles pour We Nobles Three.
+- [ ] Vaincre le Ghost Auroch Boss pour Bad Bull.
+- [ ] Obtenir et equiper tout le Reaper armor set, puis tuer un ennemi avec
+      une faux pour Vendange.
+- [ ] Caresser tous les chats d'Evreux pour Pat the Cats; cette case se fait
+      dans la ville, independamment du compteur de territoire.
+- [ ] Do What Is Right : terminer la campagne du Siege of Paris.
 
-- Nettoie chaque territoire de Svartalfheim avec ses richesses, mysteres,
-  artefacts et shelters. Complete la campagne puis controle les sous-zones.
-- Atteins un monolithe de Muspelheim, decouvre tous les shelters et termine
-  tous les territoires. Utilise les nouveaux pouvoirs des que possible.
-- Tue 30 ennemis avec l'Atgeir, fais le slide de 150 metres dans la neige et
-  realise le teleport-assassinate de deux ennemis sans etre detecte.
-- Termine la campagne, les quetes de puissance et les objectifs de carte,
-  puis controle Over the Hills et Ashes of Svartalfheim.
+THE FORGOTTEN SAGA - NIFLHEIM
 
-CHECKLIST DES 92 SUCCES
+Le mode commence a Odin's Camp et fonctionne en runs. Chaque retour au camp
+conserve les ameliorations et ouvre de nouvelles options.
 
-[ ] Campagne, colonie niveau 6 et tous les territoires.
-[ ] Ordre, raids, world events, flytings, Orlog et poissons.
-[ ] Alpha animals, Tombs of the Fallen et cartes au tresor.
-[ ] Equipement, 8 capacites, Mastery et toutes les medailles.
-[ ] Situations : cheval, moines, firefly, braseros, bateaux et feu.
-[ ] Wrath of the Druids : Irlande, Dublin, Morrigan, serpent et Demands.
-[ ] The Siege of Paris : territoires, rebelles, nobles, chats et Reaper.
-[ ] The Forgotten Saga : refuge, Hel, Favors, morts et Nidhogg.
-[ ] Dawn of Ragnarok : shelters, territoires, monolithe, Atgeir et pouvoirs.
-[ ] Profil Steam : 92/92 succes.
+- [ ] Returning to the Roots : faire une premiere run puis revenir a Odin's
+      Camp apres la mort ou le retour prevu.
+- [ ] Trouver Hel's Majordomo aupres du camp et ouvrir Royal Treatment.
+- [ ] Reunir les morts dans Kaldstad, Dókkerland et Nidheim pour Freedom
+      Fighter. Fais tous les encounters de chaque zone, pas uniquement la
+      route principale.
+- [ ] Crossing Dókkerland : terminer tous les encounters de Dókkerland.
+- [ ] Acheter toutes les Favors de Nar au moins une fois pour A Favored
+      Customer. Le catalogue se remplit au fil des runs.
+- [ ] Debloquer le Draugr's Toll Outfit en battant le maitre associe dans
+      Nidheim, puis l'equiper avant de vaincre Hel pour Sacrificial Victory.
+- [ ] Pure of Heart : vaincre Nidhogg sans utiliser d'Elk Shrine. Fais une
+      run dediee, garde les soins alternatifs et n'active aucun sanctuaire.
+- [ ] High Kick : obtenir Kick of Tyr et faire tomber dix ennemis d'une
+      corniche, pas seulement les repousser sur un sol plat.
+- [ ] The Queen's Fall : vaincre Hel, reine de Niflheim.
 
-VERIFICATION FINALE - 92/92
+DAWN OF RAGNAROK - SVARTALFHEIM
 
-[ ] Carte Angleterre, Norvege, Irlande, Francia et Svartalfheim relue.
-[ ] Colonie, Ordre, activites, modes et DLC.
-[ ] Actions speciales et sauvegardes de securite verifiees.
-[ ] Profil Steam : 92/92 succes.
+Joue cette extension apres Asgard/Jotunheim. Les neuf succes sont lies a la
+campagne, aux territoires, aux shelters, au Hugr-Rip et aux objectifs de
+combat.
+
+- [ ] Terminer la campagne Dawn of Ragnarok pour Ashes of Svartalfheim.
+- [ ] Nettoyer les territoires de Gullnamar, Svaladal et Vangrinn, avec
+      richesses, Mysteres, artefacts et shelters pour Over the Hills….
+- [ ] Decouvrir tous les Shelters pour Aesir Spelunker.
+- [ ] Atteindre un Muspelheim Monolith en utilisant le pouvoir de corbeau et
+      la duree de vol necessaire pour Flying Fortress.
+- [ ] Tuer 30 ennemis avec l'Atgeir pour It's All in the Wrist.
+- [ ] Ameliorer completement le Hugr-Rip pour Hugr Incarnate. Achete toutes
+      ses ameliorations avec les ressources de Muspelheim et de Jotunheim.
+- [ ] Collecter les Heroic Sagas pour debloquer les Boasts, parler a Kara et
+      terminer un Tale avec au moins quatre Boasts pour Expert Storyteller.
+- [ ] Purifier Hreidmar's Cursed Armor : recuperer les cinq Motsognir's
+      Clarity runes dans les Jotun Blights, les sertir sur l'armure maledite
+      de Hodda Shelter et equiper les pieces pour Motsognir's Blessing.
+- [ ] Skadi's Hobby : effectuer une glissade de 150 m dans la neige; une pente
+      continue de Svaladal est plus fiable qu'une serie de petites glissades.
+- [ ] See No Evil : obtenir le pouvoir de Jotunheim et son amelioration
+      Teleport-Assassinate, marquer deux cibles, assassiner les deux, puis
+      utiliser le pouvoir du corbeau pour fuir sans detection.
+
+VERIFICATION FINALE PAR CARTE
+
+- [ ] Norvege : Rygjafylke et Hordafylke, lieux, animaux, coffres et poissons.
+- [ ] Angleterre : tous les 16 arcs/territoires, riches, Mysteres, artefacts,
+      World Events, flytings, Orlog, anomalies, maledictions, animaux et
+      sous-marins.
+- [ ] Ravensthorpe : niveau 6, constructions, decorations, Jomsviking,
+      cabanes, Bureau et recompenses Hytham.
+- [ ] Asgard/Jotunheim : arcs, quetes, cartes et objectifs.
+- [ ] Vinland : exploration, ressources et O Yan Do' Ne.
+- [ ] Irlande : quatre territoires, Dublin Renown, Children of Danu, serpent,
+      Royal Demands, Trial et faucilles.
+- [ ] Francia : territoires, campagne, Bureau, rebelles, Infamy, nobles,
+      aurochs, Reaper et chats.
+- [ ] Tombs of the Fallen : sept tombes, cinq artifacts, Eden Ring Station.
+- [ ] Mastery Challenge : toutes les medailles or Part 1 et Part 2.
+- [ ] Forgotten Saga : camp, majordome, zones, morts, favors, Nidhogg et Hel.
+- [ ] Dawn of Ragnarok : trois territoires, shelters, Hugr-Rip, Jotun Blights,
+      Kara, Atgeir, monolithe, glissade et Teleport-Assassinate.
+
+CHECKLIST STEAM FINALE - 92/92
+
+- [ ] The Saga Begins.
+- [ ] To England!.
+- [ ] Rampage.
+- [ ] It's Alive!.
+- [ ] Builder.
+- [ ] Hard Choices.
+- [ ] Face My Might!.
+- [ ] It's Not a Bug, It's a Feature!.
+- [ ] Tranquility.
+- [ ] The Good Saxon.
+- [ ] Everyday Life.
+- [ ] The Order Is Revealed.
+- [ ] Full Mastery.
+- [ ] Ultimate Refinement.
+- [ ] Silent Viking.
+- [ ] Returning to the Roots.
+- [ ] Take My Hand.
+- [ ] We're in the End Game Now.
+- [ ] Calling in a Favor.
+- [ ] Pioneer.
+- [ ] Spelunker.
+- [ ] Witch Hunter.
+- [ ] The Enemy of My Enemy.
+- [ ] As It Was Foretold.
+- [ ] Equilibrium.
+- [ ] Godly Reward.
+- [ ] Dreamcatcher.
+- [ ] England Subdued.
+- [ ] Disorder of the Ancients.
+- [ ] In the Footsteps of the Gods.
+- [ ] Ireland's Deliverance.
+- [ ] Twinkle Twinkle.
+- [ ] Dawn of the Druids.
+- [ ] All Roads Lead to Dublin.
+- [ ] Like a Druid.
+- [ ] Equine Attack.
+- [ ] Not the Norse You're Looking For.
+- [ ] Home Sweet Home.
+- [ ] Caladfwlch.
+- [ ] Seahorse.
+- [ ] Decked Out.
+- [ ] All That Glitters.
+- [ ] Do What Is Right.
+- [ ] Royal Treatment.
+- [ ] The Queen's Fall.
+- [ ] Future Past.
+- [ ] Worthy.
+- [ ] Crypt-ologist.
+- [ ] A Picture of Grace.
+- [ ] Master Hunter.
+- [ ] Flying Eivor.
+- [ ] Crossing Dókkerland.
+- [ ] Aesir Spelunker.
+- [ ] Archaeologist.
+- [ ] Home Decor.
+- [ ] The Hidden Truth.
+- [ ] Bad Bull.
+- [ ] Lèse-majesté.
+- [ ] The Legend of St. Patrick.
+- [ ] Ashes of Svartalfheim.
+- [ ] King’s Maker.
+- [ ] Slam Master.
+- [ ] We Nobles Three.
+- [ ] Vive la Résistance.
+- [ ] Irish Legend.
+- [ ] Heroes of Ancient Britain.
+- [ ] Flying Fortress.
+- [ ] Old School Treasure Hunt.
+- [ ] Expert Storyteller.
+- [ ] Double Trouble.
+- [ ] Know What Is Right.
+- [ ] Pure of Heart.
+- [ ] Completionist All the Way!.
+- [ ] A Favored Customer.
+- [ ] Good Catch!.
+- [ ] It's All in the Wrist.
+- [ ] Orlog Champion.
+- [ ] Motsognir's Blessing.
+- [ ] Is There Anybody Out There?.
+- [ ] Over the Hills….
+- [ ] Hugr Incarnate.
+- [ ] Skadi's Hobby.
+- [ ] Vendange.
+- [ ] Row Rage.
+- [ ] Sacrificial Victory.
+- [ ] Overdesign II.
+- [ ] Pat the Cats.
+- [ ] Freedom Fighter.
+- [ ] A True Master.
+- [ ] High Kick.
+- [ ] See No Evil.
+- [ ] Full Master.
+
+VERIFICATION FINALE
+
+- [ ] 92 cases Steam cochees et notifications confirmees.
+- [ ] Aucun territoire, World Event, flyting, Orlog, poisson, animal alpha,
+      tombe, anomalie ou artifact ne reste dans les filtres de carte.
+- [ ] Colonie niveau 6, Bureau, Ordre, Zealots, Thor, Mjolnir et Excalibur.
+- [ ] Irlande, Francia, Forgotten Saga, Mastery et Svartalfheim controles.
+- [ ] Profil Steam : 92/92 succes.
 
 REGLE ANTI-SPOILER
 
-Les territoires, DLC, activites et compteurs servent uniquement a ordonner la
-progression. Aucun evenement narratif, boss, identite, mort, fin ou consequence
-n'est decrit.
+Les territoires, missions, objets, compteurs et conditions techniques sont
+les seuls reperes utilises. Aucun evenement narratif, boss, identite, mort,
+choix revele, retournement, consequence ou fin n'est decrit.
