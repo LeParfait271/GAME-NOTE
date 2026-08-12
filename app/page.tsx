@@ -3028,27 +3028,31 @@ export default function Home() {
   const visibleGuides = useMemo(() => {
     const query = normalizeCatalogText(catalogSearch.trim());
 
-    return guides.filter((guide) => {
-      const searchableText = [
-        guide.title,
-        guide.eyebrow,
-        guide.subtitle,
-        guide.tag,
-        guide.description,
-        ...guide.meta,
-      ];
-      const matchesSearch =
-        !query || searchableText.some((value) => normalizeCatalogText(value).includes(query));
-      const normalized = normalizeCatalogText(searchableText.join(" "));
-      const matchesFilter =
-        catalogFilter === "all" ||
-        (catalogFilter === "steam" && normalized.includes("steam")) ||
-        (catalogFilter === "coop" && /coop|en ligne/.test(normalized)) ||
-        (catalogFilter === "dlc" && normalized.includes("dlc")) ||
-        (catalogFilter === "offline" && normalized.includes("hors ligne"));
+    return guides
+      .filter((guide) => {
+        const searchableText = [
+          guide.title,
+          guide.eyebrow,
+          guide.subtitle,
+          guide.tag,
+          guide.description,
+          ...guide.meta,
+        ];
+        const matchesSearch =
+          !query || searchableText.some((value) => normalizeCatalogText(value).includes(query));
+        const normalized = normalizeCatalogText(searchableText.join(" "));
+        const matchesFilter =
+          catalogFilter === "all" ||
+          (catalogFilter === "steam" && normalized.includes("steam")) ||
+          (catalogFilter === "coop" && /coop|en ligne/.test(normalized)) ||
+          (catalogFilter === "dlc" && normalized.includes("dlc")) ||
+          (catalogFilter === "offline" && normalized.includes("hors ligne"));
 
-      return matchesSearch && matchesFilter;
-    });
+        return matchesSearch && matchesFilter;
+      })
+      .sort((left, right) =>
+        left.title.localeCompare(right.title, "fr", { sensitivity: "base" }),
+      );
   }, [catalogFilter, catalogSearch]);
   const effectiveCatalogLimit = catalogSearch || catalogFilter !== "all" ? 24 : catalogLimit;
   const displayedGuides = visibleGuides.slice(0, effectiveCatalogLimit);

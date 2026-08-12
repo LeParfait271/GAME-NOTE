@@ -27,6 +27,7 @@ const stripHtml = (value) =>
     .trim();
 
 const index = await read("dist/client/index.html");
+const pageSource = await read("app/page.tsx");
 const readerSource = await read("app/GuideReader.tsx");
 const serviceWorker = await read("dist/client/service-worker.js");
 const headers = await read("dist/client/_headers");
@@ -39,6 +40,7 @@ test("le shell statique conserve les repères accessibles", () => {
   assert.match(index, /class="skip-link"/);
   assert.match(index, /application\/ld\+json/);
   assert.match(index, /class="guide-card-open"/);
+  assert.match(pageSource, /localeCompare\(right\.title, "fr", \{ sensitivity: "base" \}\)/);
   assert.doesNotMatch(index, /favorite-toggle|Afficher les guides favoris|Favoris \(/i);
   assert.doesNotMatch(index, /hero-feature|route-console|method-section|mobile-bottom-nav/);
   assert.match(index, /aria-keyshortcuts="Control\+K Meta\+K"/);
