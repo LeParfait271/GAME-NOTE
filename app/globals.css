@@ -1475,7 +1475,7 @@ button.reader-neighbor:focus-visible {
   line-height: 1;
 }
 
-.reader-document-intro p:last-child {
+.reader-document-intro > div > p:nth-of-type(2) {
   max-width: 620px;
   margin: 9px 0 0;
   color: var(--muted);
@@ -1506,6 +1506,103 @@ button.reader-neighbor:focus-visible {
   margin: 2px 0;
   font-size: 1rem;
   letter-spacing: -0.05em;
+}
+
+.guide-marker-row {
+  display: inline-flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 4px;
+  margin: 0 8px 0 0;
+  vertical-align: middle;
+}
+
+.guide-marker {
+  display: inline-grid;
+  width: 1.45rem;
+  height: 1.45rem;
+  flex: 0 0 auto;
+  place-items: center;
+  border: 1px solid var(--line);
+  border-radius: 6px;
+  background: color-mix(in srgb, var(--card) 78%, var(--paper));
+  color: var(--navy);
+  font-size: 0.68rem;
+  font-weight: 900;
+  line-height: 1;
+}
+
+.guide-marker-chest {
+  border-color: color-mix(in srgb, var(--gold) 62%, var(--line));
+  background: color-mix(in srgb, var(--gold) 12%, var(--card));
+  color: var(--gold);
+}
+
+.guide-marker-materia {
+  border-color: color-mix(in srgb, var(--route-ink) 66%, var(--line));
+  background: color-mix(in srgb, var(--route-ink) 12%, var(--card));
+  color: var(--route-ink);
+}
+
+.guide-marker-object {
+  border-color: color-mix(in srgb, var(--blue) 66%, var(--line));
+  background: color-mix(in srgb, var(--blue) 11%, var(--card));
+  color: var(--blue);
+}
+
+.guide-marker-save {
+  border-color: color-mix(in srgb, var(--navy-soft) 56%, var(--line));
+  background: color-mix(in srgb, var(--navy-soft) 10%, var(--card));
+  color: var(--navy-soft);
+}
+
+.guide-marker-missable {
+  border-color: color-mix(in srgb, var(--coral) 72%, var(--line));
+  background: color-mix(in srgb, var(--coral) 12%, var(--card));
+  color: var(--coral);
+}
+
+.guide-marker-success {
+  border-color: color-mix(in srgb, var(--gold) 62%, var(--line));
+  background: color-mix(in srgb, var(--gold) 12%, var(--card));
+  color: var(--gold);
+}
+
+.guide-marker-boss {
+  border-color: color-mix(in srgb, var(--coral) 58%, var(--navy-soft));
+  background: color-mix(in srgb, var(--coral) 10%, var(--card));
+  color: var(--navy);
+}
+
+.guide-marker-legend {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 7px 13px;
+  margin-top: 14px;
+  padding-top: 12px;
+  border-top: 1px solid color-mix(in srgb, var(--route-ink) 13%, var(--line));
+  color: var(--muted);
+  font-size: 0.59rem;
+  font-weight: 800;
+  line-height: 1.4;
+}
+
+.guide-marker-legend-title {
+  color: var(--coral);
+  font-size: 0.53rem;
+  font-weight: 900;
+  letter-spacing: 0.13em;
+}
+
+.guide-marker-legend-item {
+  display: inline-flex;
+  align-items: center;
+  gap: 4px;
+}
+
+.guide-marker-legend-item .guide-marker-row {
+  margin-right: 0;
 }
 
 .reader-document-footer {
@@ -1578,7 +1675,7 @@ button.reader-neighbor:focus-visible {
   line-height: 1.72;
 }
 
-.guide-bullet span {
+.guide-bullet-arrow {
   color: var(--coral);
   font-weight: 900;
 }
@@ -2123,6 +2220,40 @@ button.reader-neighbor:focus-visible {
   padding: 9px 12px 9px 8px;
   border-left: 1px solid color-mix(in srgb, var(--coral) 32%, var(--line));
   background: color-mix(in srgb, var(--paper) 32%, transparent);
+}
+
+.guide-heading-copy {
+  min-width: 0;
+}
+
+.guide-heading-copy > .guide-marker-row {
+  margin-bottom: 2px;
+}
+
+.guide-heading-copy > .guide-heading {
+  margin-top: 10px;
+}
+
+.guide-subheading-content {
+  display: inline-flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 7px;
+}
+
+.guide-subheading-content .guide-marker-row {
+  margin-right: 0;
+}
+
+.guide-bullet-copy,
+.guide-check-copy {
+  min-width: 0;
+}
+
+.guide-bullet-copy .guide-marker-row,
+.guide-check-copy .guide-marker-row,
+.guide-paragraph > .guide-marker-row {
+  margin-right: 7px;
 }
 
 @media (max-width: 680px) {

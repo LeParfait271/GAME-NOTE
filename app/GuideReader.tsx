@@ -17,11 +17,39 @@ type ReaderGuide = {
   meta: string[];
 };
 
+type GuideMarkerKind =
+  | "chest"
+  | "materia"
+  | "object"
+  | "save"
+  | "missable"
+  | "success"
+  | "boss";
+
+type GuideMarkerDefinition = {
+  label: string;
+  symbol: string;
+};
+
+const GUIDE_MARKERS: Record<GuideMarkerKind, GuideMarkerDefinition> = {
+  chest: { label: "Coffre ou récompense", symbol: "▣" },
+  materia: { label: "Materia", symbol: "◆" },
+  object: { label: "Objet important", symbol: "◈" },
+  save: { label: "Sauvegarde conseillée", symbol: "●" },
+  missable: { label: "Élément manquable", symbol: "!" },
+  success: { label: "Succès ou objectif", symbol: "★" },
+  boss: { label: "Boss ou combat clé", symbol: "⚔" },
+};
+
+const GUIDE_MARKER_TOKENS =
+  /^\s*((?:\[(?:COFFRE|MATERIA|OBJET|SAUVEGARDE|MANQUABLE|SUCCES|BOSS)\]\s*)+)(.*)$/i;
+
 type GuideBlock = {
   id: string;
   kind: "heading" | "subheading" | "paragraph" | "bullet" | "check";
   text: string;
   checkIndex?: number;
+  markers?: GuideMarkerKind[];
 };
 
 type GuideReaderProps = {
@@ -68,12 +96,136 @@ const isNamedHeading = (value: string) =>
     value,
   );
 
+const uniqueGuideMarkers = (markers: GuideMarkerKind[]) =>
+  Array.from(new Set(markers));
+
+const extractGuideMarkers = (value: string) => {
+  const match = value.match(GUIDE_MARKER_TOKENS);
+  if (!match) {
+    return { line: value, markers: [] as GuideMarkerKind[] };
+  }
+
+  const markers = (match[1].match(/\[(?:COFFRE|MATERIA|OBJET|SAUVEGARDE|MANQUABLE|SUCCES|BOSS)\]/gi) ?? []).map((token) => {
+    switch (token.slice(1, -1).toUpperCase()) {
+      case "COFFRE":
+        return "chest" as const;
+      case "MATERIA":
+        return "materia" as const;
+      case "OBJET":
+        return "object" as const;
+      case "SAUVEGARDE":
+        return "save" as const;
+      case "MANQUABLE":
+        return "missable" as const;
+      case "SUCCES":
+        return "success" as const;
+      default:
+        return "boss" as const;
+    }
+  });
+
+  return {
+    line: match[2].trim(),
+    markers: uniqueGuideMarkers(markers),
+  };
+};
+
+const inferGuideMarkers = (
+  text: string,
+  kind: GuideBlock["kind"],
+  sectionMarker?: GuideMarkerKind,
+) => {
+  if (kind === "paragraph") {
+    return [] as GuideMarkerKind[];
+  }
+
+  const normalized = normalizeGuideText(text);
+  const markers: GuideMarkerKind[] = [];
+  const negatedChest = /(?:aucun|aucune|pas de|sans|n['’]y a pas).*coffre/.test(normalized);
+
+  if (sectionMarker === "chest" || (!negatedChest && /\bcoffres?\b/.test(normalized))) {
+    markers.push("chest");
+  }
+  if (/\b(?:materia|mat[eé]ria)s?\b/.test(normalized)) {
+    markers.push("materia");
+  }
+  if (/\b(?:objet|objets|item|items)\b/.test(normalized)) {
+    markers.push("object");
+  }
+  if (/\b(?:sauvegarde|sauvegarder|save)\b/.test(normalized)) {
+    markers.push("save");
+  }
+  if (/\b(?:missable|manquable|manquables|point de non-retour)\b/.test(normalized)) {
+    markers.push("missable");
+  }
+  if (/\b(?:succ[eè]s|achievement|troph[eè]e|trophy)\b/.test(normalized)) {
+    markers.push("success");
+  }
+  if (/\bboss\b/.test(normalized)) {
+    markers.push("boss");
+  }
+
+  return uniqueGuideMarkers(markers);
+};
+
+const getGuideSearchText = (block: GuideBlock) =>
+  [
+    block.text,
+    ...(block.markers ?? []).map((marker) => GUIDE_MARKERS[marker].label),
+  ].join(" ");
+
+const GuideMarkerRow = ({ markers }: { markers?: GuideMarkerKind[] }) => {
+  if (!markers?.length) {
+    return null;
+  }
+
+  return (
+    <span className="guide-marker-row">
+      {markers.map((marker) => {
+        const definition = GUIDE_MARKERS[marker];
+        return (
+          <span
+            aria-label={definition.label}
+            className={`guide-marker guide-marker-${marker}`}
+            key={marker}
+            role="img"
+            title={definition.label}
+          >
+            {definition.symbol}
+          </span>
+        );
+      })}
+    </span>
+  );
+};
+
 const parseGuide = (text: string): GuideBlock[] => {
   const blocks: GuideBlock[] = [];
   const lines = text.replace(/\r\n/g, "\n").split("\n");
   let paragraph: string[] = [];
+  let paragraphMarkers: GuideMarkerKind[] = [];
   let checkIndex = 0;
   let finalChecklistMode = false;
+  let sectionMarker: GuideMarkerKind | undefined;
+
+  const pushBlock = (
+    kind: GuideBlock["kind"],
+    value: string,
+    explicitMarkers: GuideMarkerKind[] = [],
+    blockCheckIndex?: number,
+  ) => {
+    const markers = uniqueGuideMarkers([
+      ...explicitMarkers,
+      ...inferGuideMarkers(value, kind, sectionMarker),
+    ]);
+    blocks.push({
+      id: makeBlockId(value, blocks.length),
+      kind,
+      text: value,
+      ...(blockCheckIndex === undefined ? {} : { checkIndex: blockCheckIndex }),
+      ...(markers.length ? { markers } : {}),
+    });
+  };
 
   const flushParagraph = () => {
     if (paragraph.length === 0) {
@@ -82,54 +234,44 @@ const parseGuide = (text: string): GuideBlock[] => {
 
     const value = paragraph.join(" ").replace(/\s+/g, " ").trim();
     if (value) {
-      blocks.push({
-        id: makeBlockId(value, blocks.length),
-        kind: "paragraph",
-        text: value,
-      });
+      pushBlock("paragraph", value, paragraphMarkers);
     }
     paragraph = [];
+    paragraphMarkers = [];
   };
 
   for (const rawLine of lines) {
-    const line = rawLine.trim();
+    const extracted = extractGuideMarkers(rawLine.trim());
+    const line = extracted.line;
+    const lineMarkers = extracted.markers;
 
     if (!line || /^[-=_]{6,}$/.test(line)) {
       flushParagraph();
       continue;
     }
 
+    if (lineMarkers.length) {
+      flushParagraph();
+    }
+
     const markdownHeading = line.match(/^#{1,3}\s+(.+)$/);
     if (markdownHeading) {
       flushParagraph();
-      blocks.push({
-        id: makeBlockId(markdownHeading[1], blocks.length),
-        kind: "heading",
-        text: markdownHeading[1].trim(),
-      });
+      pushBlock("heading", markdownHeading[1].trim(), lineMarkers);
       continue;
     }
 
     const checklist = line.match(/^(?:[-*]\s*)?\[\s*\]\s+(.+)$/);
     if (checklist && finalChecklistMode) {
       flushParagraph();
-      blocks.push({
-        id: makeBlockId(checklist[1], blocks.length),
-        kind: "check",
-        text: checklist[1].trim(),
-        checkIndex: checkIndex++,
-      });
+      pushBlock("check", checklist[1].trim(), lineMarkers, checkIndex++);
       continue;
     }
 
     const bullet = line.match(/^(?:[-*•])\s+(.+)$/u);
     if (bullet) {
       flushParagraph();
-      blocks.push({
-        id: makeBlockId(bullet[1], blocks.length),
-        kind: "bullet",
-        text: bullet[1].trim(),
-      });
+      pushBlock("bullet", bullet[1].trim(), lineMarkers);
       continue;
     }
 
@@ -137,7 +279,10 @@ const parseGuide = (text: string): GuideBlock[] => {
     const numberedHeading = /^\d+(?:\.\d+)*[.)]\s+/.test(line);
     const majorNumberedHeading = /^\d{2,}(?:\.\d+)*[.)]\s+/.test(line);
     const heading =
-      numberedHeading || isUppercaseHeading(line) || isNamedHeading(line);
+      numberedHeading ||
+      isUppercaseHeading(line) ||
+      isNamedHeading(line) ||
+      /^(?:coffres?|objets?|pickups?|collectibles?)\b/i.test(line);
 
     if (heading && line.length <= 120) {
       flushParagraph();
@@ -149,16 +294,20 @@ const parseGuide = (text: string): GuideBlock[] => {
       ) {
         finalChecklistMode = false;
       }
-      blocks.push({
-        id: makeBlockId(line, blocks.length),
-        kind: numberedHeading && !majorNumberedHeading ? "subheading" : "heading",
-        text: numberedHeading
-          ? `${line.match(/^\d+(?:\.\d+)*[.)]/)?.[0] ?? ""} ${headingText}`
-          : line,
-      });
+      const kind = numberedHeading && !majorNumberedHeading ? "subheading" : "heading";
+      const value = numberedHeading
+        ? `${line.match(/^\d+(?:\.\d+)*[.)]/)?.[0] ?? ""} ${headingText}`
+        : line;
+      pushBlock(kind, value, lineMarkers);
+      if (kind === "heading") {
+        sectionMarker = /^(?:coffres?|chests?)\b/i.test(normalizeGuideText(line))
+          ? "chest"
+          : undefined;
+      }
       continue;
     }
 
+    paragraphMarkers = uniqueGuideMarkers([...paragraphMarkers, ...lineMarkers]);
     paragraph.push(line);
   }
 
@@ -250,7 +399,7 @@ export default function GuideReader({
   );
   const query = normalizeGuideText(search.trim());
   const matchingBlocks = useMemo(
-    () => blocks.filter((block) => query && normalizeGuideText(block.text).includes(query)),
+    () => blocks.filter((block) => query && normalizeGuideText(getGuideSearchText(block)).includes(query)),
     [blocks, query],
   );
   const visibleBlocks = useMemo(() => {
@@ -259,7 +408,7 @@ export default function GuideReader({
     }
 
     const matchingIndexes = blocks.reduce<number[]>((indexes, block, index) => {
-      if (normalizeGuideText(block.text).includes(query)) {
+      if (normalizeGuideText(getGuideSearchText(block)).includes(query)) {
         indexes.push(index);
       }
       return indexes;
@@ -279,7 +428,7 @@ export default function GuideReader({
   }, [blocks, query]);
   const visibleMatchIndexes = useMemo(
     () => visibleBlocks
-      .map((block, index) => (query && normalizeGuideText(block.text).includes(query) ? index : -1))
+      .map((block, index) => (query && normalizeGuideText(getGuideSearchText(block)).includes(query) ? index : -1))
       .filter((index) => index >= 0),
     [query, visibleBlocks],
   );
@@ -288,6 +437,10 @@ export default function GuideReader({
       blocks.filter(
         (block) => block.kind === "heading" || block.kind === "subheading",
       ),
+    [blocks],
+  );
+  const markerKinds = useMemo(
+    () => uniqueGuideMarkers(blocks.flatMap((block) => block.markers ?? [])),
     [blocks],
   );
   const completed = checklist.filter(
@@ -492,6 +645,7 @@ export default function GuideReader({
                       href={`#${block.id}`}
                       key={block.id}
                     >
+                      <GuideMarkerRow markers={block.markers} />
                       {formatText(block.text)}
                     </a>
                   ))
@@ -530,6 +684,17 @@ export default function GuideReader({
                 <p className="document-kicker">FEUILLE DE ROUTE INTERACTIVE</p>
                 <h2>Le parcours, au bon moment</h2>
                 <p>Lis les repères dans l&apos;ordre, utilise le sommaire pour revenir à une zone et coche les objectifs Steam à la fin.</p>
+                {markerKinds.length > 0 ? (
+                  <div className="guide-marker-legend" aria-label="Légende des repères">
+                    <span className="guide-marker-legend-title">REPÈRES</span>
+                    {markerKinds.map((marker) => (
+                      <span className="guide-marker-legend-item" key={marker}>
+                        <GuideMarkerRow markers={[marker]} />
+                        <span>{GUIDE_MARKERS[marker].label}</span>
+                      </span>
+                    ))}
+                  </div>
+                ) : null}
               </div>
               <div className="reader-document-seal" aria-label={`${checklist.length || 0} objectifs Steam suivis`}>
                 <span>STEAM</span>
@@ -552,18 +717,19 @@ export default function GuideReader({
                   return (
                     <div className="guide-heading-row" id={block.id} key={block.id} ref={(element) => { resultRefs.current[visibleIndex] = element; }}>
                       <span className="guide-heading-index" aria-hidden="true">{number}</span>
-                      <div>
+                      <div className="guide-heading-copy">
                         <p className="guide-heading-eyebrow">SÉQUENCE {number}</p>
+                        <GuideMarkerRow markers={block.markers} />
                         <h3 className="guide-heading">{highlighted}</h3>
                       </div>
                     </div>
                   );
                 }
                 if (block.kind === "subheading") {
-                  return <h4 className="guide-subheading" id={block.id} key={block.id} ref={(element) => { resultRefs.current[visibleIndex] = element; }}>{highlighted}</h4>;
+                  return <h4 className="guide-subheading" id={block.id} key={block.id} ref={(element) => { resultRefs.current[visibleIndex] = element; }}><span className="guide-subheading-content"><GuideMarkerRow markers={block.markers} /><span>{highlighted}</span></span></h4>;
                 }
                 if (block.kind === "bullet") {
-                  return <p className="guide-bullet" key={block.id} ref={(element) => { resultRefs.current[visibleIndex] = element; }}><span aria-hidden="true">→</span>{highlighted}</p>;
+                  return <p className="guide-bullet" key={block.id} ref={(element) => { resultRefs.current[visibleIndex] = element; }}><span className="guide-bullet-arrow" aria-hidden="true">→</span><span className="guide-bullet-copy"><GuideMarkerRow markers={block.markers} />{highlighted}</span></p>;
                 }
                 if (block.kind === "check" && block.checkIndex !== undefined) {
                   const isChecked = Boolean(checked[block.checkIndex]);
@@ -575,11 +741,11 @@ export default function GuideReader({
                         onChange={() => toggleCheck(block.checkIndex as number)}
                       />
                       <span className="guide-check-box" aria-hidden="true" />
-                      <span>{highlighted}</span>
+                      <span className="guide-check-copy"><GuideMarkerRow markers={block.markers} />{highlighted}</span>
                     </label>
                   );
                 }
-                return <p className="guide-paragraph" key={block.id} ref={(element) => { resultRefs.current[visibleIndex] = element; }}>{highlighted}</p>;
+                return <p className="guide-paragraph" key={block.id} ref={(element) => { resultRefs.current[visibleIndex] = element; }}><GuideMarkerRow markers={block.markers} />{highlighted}</p>;
               });
             })()}
             <footer className="reader-document-footer">
