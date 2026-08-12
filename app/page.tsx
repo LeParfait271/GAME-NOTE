@@ -3055,7 +3055,8 @@ export default function Home() {
       return matchesSearch && matchesFilter;
     });
   }, [catalogFilter, catalogSearch]);
-  const pagedGuides = visibleGuides.slice(0, catalogLimit);
+  const effectiveCatalogLimit = catalogSearch || catalogFilter !== "all" ? 24 : catalogLimit;
+  const displayedGuides = visibleGuides.slice(0, effectiveCatalogLimit);
 
   // These values come from browser-only storage and must hydrate after the static shell mounts.
   /* eslint-disable react-hooks/set-state-in-effect */
@@ -3087,6 +3088,7 @@ export default function Home() {
     if (validRequestedGuide) {
       setSelectedId(validRequestedGuide.id);
       setReaderMode(true);
+      setActiveSection("reader");
       window.history.replaceState(
         { gameNote: "reader", guide: validRequestedGuide.id },
         "",
@@ -3164,14 +3166,7 @@ export default function Home() {
   }, [catalogFilter, catalogSearch, preferencesReady, readerMode]);
 
   useEffect(() => {
-    setCatalogLimit(24);
-  }, [catalogFilter, catalogSearch]);
-
-  useEffect(() => {
-    if (readerMode) {
-      setActiveSection("reader");
-      return;
-    }
+    if (readerMode) return;
 
     const sections = ["top", "guides", "methode"]
       .map((id) => document.getElementById(id))
@@ -3246,6 +3241,7 @@ export default function Home() {
 
   const handleOpenReader = (id: string) => {
     openReader(id, setSelectedId, setSearch, setReaderMode, setInvalidGuideId);
+    setActiveSection("reader");
   };
 
   const goToLibrary = () => {
@@ -3518,7 +3514,7 @@ export default function Home() {
 
         {visibleGuides.length > 0 ? (
           <div className="guide-grid">
-            {pagedGuides.map((guide, index) => (
+            {displayedGuides.map((guide, index) => (
             <article
               className={
                 "guide-card guide-card-" +
@@ -3581,9 +3577,9 @@ export default function Home() {
             </button>
           </div>
         )}
-        {visibleGuides.length > catalogLimit ? (
+        {visibleGuides.length > effectiveCatalogLimit ? (
           <div className="library-more">
-            <span>{pagedGuides.length} routes affichées sur {visibleGuides.length}</span>
+            <span>{displayedGuides.length} routes affichées sur {visibleGuides.length}</span>
             <button className="button button-outline" type="button" onClick={() => setCatalogLimit((current) => current + 24)}>
               Afficher 24 routes de plus
             </button>

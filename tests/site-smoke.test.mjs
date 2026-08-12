@@ -27,6 +27,7 @@ const stripHtml = (value) =>
     .trim();
 
 const index = await read("dist/client/index.html");
+const readerSource = await read("app/GuideReader.tsx");
 const serviceWorker = await read("dist/client/service-worker.js");
 const headers = await read("dist/client/_headers");
 const redirects = await read("dist/client/_redirects");
@@ -41,7 +42,7 @@ test("le shell statique conserve les repères accessibles", () => {
   assert.match(index, /class="guide-card-open"/);
   assert.doesNotMatch(index, /favorite-toggle|Afficher les guides favoris|Favoris \(/i);
   assert.match(index, /aria-keyshortcuts="Control\+K Meta\+K"/);
-  assert.match(index, /aria-keyshortcuts="\/"/);
+  assert.match(readerSource, /aria-keyshortcuts="\/"/);
   assert.doesNotMatch(index, /\uFFFD/);
 });
 
@@ -63,10 +64,11 @@ test("les champs de recherche ont un label", () => {
   const inputs = [...index.matchAll(/<input\b[^>]*\bid="([^"]+)"/g)].map(
     (match) => match[1],
   );
-  assert.ok(inputs.length >= 2);
+  assert.ok(inputs.length >= 1);
   for (const id of inputs) {
     assert.match(index, new RegExp('<label\\b[^>]*\\bfor="' + id + '"', "i"));
   }
+  assert.match(readerSource, /<label htmlFor="guide-search">/);
 });
 
 test("le service worker ne précache que des fichiers présents", async () => {

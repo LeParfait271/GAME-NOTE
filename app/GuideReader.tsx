@@ -308,11 +308,6 @@ export default function GuideReader({
   };
 
   useEffect(() => {
-    setActiveSearchResult(0);
-    resultRefs.current = [];
-  }, [query, selected.file]);
-
-  useEffect(() => {
     const targetIndex = visibleMatchIndexes[activeSearchResult];
     if (targetIndex === undefined) return;
     resultRefs.current[targetIndex]?.scrollIntoView({ behavior: "smooth", block: "center" });
@@ -371,7 +366,7 @@ export default function GuideReader({
         <div className="reader-cover-copy">
           <a className="reader-backlink" href="#guides">← Toutes les routes</a>
           <p className="kicker"><span>FICHE DE ROUTE</span><span>{selected.count}</span></p>
-          <h2>{selected.title}</h2>
+          <h1>{selected.title}</h1>
           <p>{selected.description}</p>
           <div className="reader-badges">
             {selected.meta.map((item) => (
@@ -526,7 +521,6 @@ export default function GuideReader({
             {(() => {
               let visibleHeadingNumber = 0;
               return visibleBlocks.map((block, visibleIndex) => {
-                const text = formatText(block.text);
                 const highlighted = renderHighlightedText(block.text);
                 if (block.kind === "heading") {
                   visibleHeadingNumber += 1;
