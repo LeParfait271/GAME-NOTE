@@ -1,259 +1,1216 @@
-ALIENS VS. PREDATOR
-GUIDE CHRONOLOGIQUE 100 % STEAM - SANS SPOILER
+ALIENS VS. PREDATOR (2010)
+FICHE PREMIUM - GUIDE CHRONOLOGIQUE 100 % STEAM - SANS SPOILER
 
-Version de travail : 11 aout 2026
+Version de travail : 12 aout 2026
+AppID Steam : 10680
+Objectif : 50 succes Steam, campagne complete, 67 Audio Diaries, 50 Royal Jelly Containers, 45 Predator Trophy Belts et les 22 civils disponibles pour Grim Reaper.
 
-Ce guide couvre les 50 succes Steam de la version PC de 2010. La route est
-organisee par campagne puis par type de collectible. Les missions, objets et
-actions servent de reperes pratiques ; aucune mort, identite, trahison, fin ou
-consequence narrative n'est expliquee.
+Cette fiche est une vraie route de jeu : ordre des campagnes, objectifs mission
+par mission, chemins de detour, emplacements des collectibles, succes
+manquables, difficultes et multijoueur. Elle ne raconte pas les revelations,
+les morts, les identites ni les fins. Les noms de missions, d'objets et de
+succes restent visibles parce qu'ils sont indispensables pour suivre le 100 %.
 
-OBJECTIF
+COMMENT LIRE LA FICHE
 
-[ ] 50/50 succes Steam.
-[ ] Campagne Marine terminee.
-[ ] Campagne Alien terminee.
-[ ] Campagne Predator terminee.
-[ ] 67/67 Audio Diaries.
-[ ] 50/50 Royal Jelly Containers.
-[ ] 45/45 Predator Trophy Belts.
-[ ] Trois campagnes en Hard et en Nightmare.
-[ ] Actions d'armes terminees.
-[ ] Succes ranked / multiplayer traites separement.
+- Chaque grande section correspond a une etape du parcours.
+- Les numeros de collectible sont un index stable pour reprendre une mission
+  depuis la selection de chapitre.
+- Le compteur Steam est cumulatif : un collectible deja valide ne demande pas
+  d'etre repris.
+- Une ligne "fenetre" indique le dernier moment sur lequel il faut agir avant
+  qu'un script ne ferme la zone.
+- Sur Nightmare, les missions repartent du debut du chapitre apres une mort :
+  les conseils de sauvegarde et de preparation sont donc prioritaires.
 
-PERIMETRE STEAM
+01. ETAT DU JEU ET ROUTE 100 %
 
-- AppID Steam : 10680.
-- La page officielle compte 50 succes.
-- Il y a trois campagnes solo, six noms de missions communs au menu de
-  selection et trois families de collectibles : Audio Diaries en Marine,
-  Royal Jelly en Alien et Trophy Belts en Predator.
-- Les succes Welcome to The War, Killer Instinct, Welcome to The Party,
-  Scatter Shot, Persecution Complex, Serial Killer, Very Tough Hombre, The
-  Uninfected, Real Nasty Habit et The Six Pack demandent le multijoueur
-  ranked. Ils sont marques comme gate externe, sans fausse promesse de solo.
+CONTENU STEAM
 
-GARDE-FOUS ET MISSABLES
+- 50 succes Steam officiels.
+- 3 campagnes solo : Marine, Alien et Predator.
+- 67 Audio Diaries dans la campagne Marine.
+- 50 Royal Jelly Containers dans la campagne Alien.
+- 45 Predator Trophy Belts dans la campagne Predator.
+- 22 civils effectivement recol tables pour Grim Reaper : 3 Colony,
+  8 Refinery, 4 Jungle et 7 Ruins. Le civil inaccessible du Research Lab ne
+  compte pas.
+- 10 succes ranked/multijoueur a traiter comme un bloc externe : Welcome to
+  The War, Killer Instinct, Welcome to The Party, Scatter Shot, Persecution
+  Complex, Serial Killer, Very Tough Hombre, The Uninfected, Real Nasty Habit
+  et The Six Pack.
 
-- Les collectibles sont recuperables par selection de chapitre : ne
-  recommence pas toute une campagne si un compteur est incomplet.
-- En Marine, utilise le detecteur sonore et inspecte chaque embranchement
-  avant d'activer la porte suivante. Les diaries emettent une lueur bleutee.
-- En Alien, le focus met en evidence les containers Royal Jelly ; fais un
-  balayage de la piece avant de ventiler ou de franchir le prochain sas.
-- En Predator, active le focus et regarde l'icone de tete de Predator pour
-  les Trophy Belts. Un belt peut etre sur une plateforme, derriere un detour
-  vertical ou a proximite d'une zone de combat.
-- Fais chaque campagne une premiere fois en Normal pour apprendre les chemins,
-  puis rejoue en Nightmare. La difficulte la plus haute doit couvrir la
-  condition Hard si la notification ne l'a pas deja fait.
-- Les succes de collectible n'exigent pas que les objets soient pris dans une
-  seule partie : utilise le compteur de chapitre apres chaque selection.
+ORDRE CHRONOLOGIQUE RECOMMANDE SANS SPOILER
 
-ORDRE RECOMMANDE
+Le menu autorise n'importe quel ordre. Pour suivre le recouvrement temporel
+des trois campagnes, joue les segments dans cet ordre :
 
-1. Marine Normal avec 67 diaries et les actions d'armes.
-2. Alien Normal avec 50 Royal Jelly et tous les civils accessibles.
-3. Predator Normal avec 45 belts.
-4. Reprises de chapitre pour les quotas Grim Reaper et les armes.
-5. Trois campagnes en Nightmare.
-6. Ranked / multiplayer.
+1. Alien - Research Lab : Come to Mama / Breaking Quarantine.
+2. Alien - Colony : Grunt Hunt et les 3 premiers civils.
+3. Marine - Colony : Club Hopper, Audio Diaries 01-15.
+4. Predator - Jungle : It Uses The Jungle, Trophy Belts 01-10.
+5. Alien - Refinery : 8 civils et Royal Jelly 21-30.
+6. Alien - Jungle : coupe la route vers Gateway et nettoie les 4 civils.
+7. Alien - Ruins : Under Pressure / Alien vs Predator.
+8. Marine - Refinery : Exit Strategy, Van Zandt, Queen, Diaries 16-27.
+9. Predator - Refinery : Matter of Honor, Trophy Belts 11-20.
+10. Marine - Jungle : It Uses The Jungle, Diaries 28-41.
+11. Predator - Ruins : Eyes of The Demon, Trophy Belts 21-30.
+12. Marine - Ruins : I Will Never Leave You..., Diaries 42-54.
+13. Marine - Research Lab : ...That's A Promise, One Big Bug, Diaries 55-63.
+14. Predator - Research Lab : Breaking and Entering / Reclaimer,
+    Trophy Belts 31-40.
+15. Marine - Pyramid : Get to The Chopper!, Diaries 64-67.
+16. Predator - Pyramid : Extinction Agenda, Trophy Belts 41-45.
 
-ROUTE MARINE - 67 AUDIO DIARIES
+Note de lecture : le recouvrement des campagnes est une recommandation
+chronologique, pas une exigence technique. Pour un premier 100 %, l'ordre par
+campagne reste plus confortable ; les compteurs et les chapitres sont
+independants.
 
-Les six reperes de selection sont Colony, Refinery, Jungle, Ruins, Research
-Lab et Pyramid. Le compteur cumulatif conseille est : Colony 1-15,
-Refinery 16-27, Jungle 28-41, Ruins 42-55, Research Lab 56-62, Pyramid 63-67.
+02. GARDE-FOUS AVANT DE COMMENCER
 
-COLONY
+ROUTE SANS RETOUR ET MISSABLES
 
-- [ ] Diaries 01 a 15.
-- Fouille le bureau ou la salle au-dela du premier Alien, puis chaque couloir
-  lateral avant les portes de securite.
-- Garde le fusil de precision quand il apparait pour preparer Elite Sniper.
-- [ ] Breaking Quarantine : progression de mission.
+- [ ] Marine Colony : ne quitte pas le depot/garage avant d'avoir nettoye tous
+  les Marines. Grunt Hunt est le vrai succes manquable de la campagne Alien,
+  mais ce nettoyage evite aussi de perdre la logique du run.
+- [ ] Alien Colony : trois civils sont disponibles ; le civil qui court vers
+  une porte ne doit pas etre poursuivi par cette porte. Passe par la ventilation
+  au-dessus des caisses pour le prendre par surprise.
+- [ ] Alien Refinery : les huit civils ont des trajectoires courtes et plusieurs
+  arrivent pres d'un ascenseur. Recolte d'abord celui qui cherche une arme,
+  puis securise les Marines, puis le fuyard.
+- [ ] Alien Jungle : le civil pres de l'interrupteur peut se suicider a la
+  grenade. Arrive par le plafond et recolte-le avant de toucher l'interrupteur.
+- [ ] Alien Ruins : le civil au sommet du batiment central peut tomber si tu
+  attaques trop lentement. Fais-le immediatement, puis ferme les detours avec
+  les noeuds avant de poursuivre les autres.
+- [ ] Predator Pyramid : Trophy Belt 45 est dans la salle finale. Ne touche
+  pas l'autel tant que tu n'as pas fait le detour caisse jaune -> corniche ->
+  sommet de l'autel.
+- [ ] Les quatre civils "lemming" sont les fenetres les plus strictes de Grim
+  Reaper : Colony civil 02, Refinery civil 09, Jungle civil 15, Ruins civil 17.
 
-REFINERY
+REGLE DE SAUVEGARDE
 
-- [ ] Diaries 16 a 27.
-- Dans les salles industrielles, longe les plateformes, les escaliers et les
-  bureaux avant d'utiliser les ascenseurs.
-- Utilise le pistolet sur les ennemis faibles pour avancer Gunslinger sans
-  gaspiller les armes lourdes.
-- [ ] Club Hopper : progression de mission.
+- Fais une sauvegarde manuelle en entrant dans une zone a compteur ou juste
+  avant une porte de fin de mission.
+- Si un compteur ne bouge pas, ne suppose pas que l'objet est valide : recharge
+  le chapitre, reprends la ligne correspondante et verifie Steam.
+- Ne melange pas le run Nightmare et le run collectibles si tu apprends encore
+  les chemins. Le gain de temps apparent est annule par une mort au dernier
+  tiers du chapitre.
 
-JUNGLE
+03. PLAN DES RUNS ET SUCCES AUTOMATIQUES
 
-- [ ] Diaries 28 a 41.
-- Le chemin alterne vegetation, batiments et passerelles : prends toujours le
-  detour derriere les caisses avant de suivre les balises principales.
-- [ ] Come to Mama et Fallen Comrade : progression de mission.
+RUN A - SOLO DECOUVERTE ET COLLECTIBLES
 
-RUINS
+1. Marine en Normal ou Hard avec les 67 diaries, le pistolet et le fusil a
+   lunette. Ne quitte aucune zone avant de verifier le numero de diary.
+2. Alien en Normal avec les 50 Jelly et les 22 civils. Le focus et les murs
+   sont tes outils de reperage : inspecte plafonds, conduits et culs-de-sac.
+3. Predator en Normal avec les 45 belts. Le focus signale les plateformes,
+   corniches et detours verticaux.
+4. Termine les reprises de chapitres pour Stick Around, Spin Doctor, Gunslinger,
+   Elite Sniper, I Like to Keep This Handy et Let's Rock! si necessaire.
 
-- [ ] Diaries 42 a 55.
-- Le focus sonore est moins lisible dans les ruines : avance lentement et
-  attends la fin d'un combat avant de rechercher dans les alcoves.
-- [ ] Exit Strategy et Grunt Hunt : progression et nettoyage des ennemis.
+RUN B - DIFFICULTES
+
+1. Fais les trois campagnes en Hard : Stay Frosty, I Admire its Purity et It
+   Ain't No Man.
+2. Fais les trois campagnes en Nightmare : I LOVE the Corps!, Magnificent,
+   Isn't It? et One Ugly Mother.
+3. Si un succes Hard n'est pas apparu pendant Nightmare, rejoue le chapitre
+   en Hard ; ne te fie pas a un souvenir, verifie le profil Steam.
+
+RUN C - MULTIJOUEUR
+
+1. Termine un premier Ranked Deathmatch.
+2. Gagne un Ranked Deathmatch.
+3. Coordonne ensuite les quotas XP, les victoires et les modes Survivor et
+   Infestation. Les serveurs et la population ne sont pas garantis par le solo.
+
+04. SYSTEMES ET CONSEILS PAR ESPECE
+
+MARINE
+
+- Le motion tracker indique la proximite, pas toujours la hauteur : regarde
+  les plafonds et les passerelles.
+- La lampe reste disponible ; les fusees donnent un meilleur eclairage court
+  mais ne remplacent pas le tracker.
+- Le pistolet est fiable pour Gunslinger. Garde le fusil a lunette pour les
+  tirs de tete et les andro ides a distance.
+- En couloir, recule avant d'utiliser une grenade. L'acide et les explosions
+  punissent le combat au contact.
+- Pour Let's Rock!, attends une vraie vague compacte et laisse la Smartgun
+  suivre plusieurs cibles avant de vider la rafale.
+
+ALIEN
+
+- Le focus met en evidence les prises, les civils, les oeufs et les points
+  interactifs. Utilise-le avant chaque changement de salle.
+- Le camouflage naturel vient de l'ombre, des plafonds et des conduits. Hisse-
+  toi au-dessus d'une zone plutot que d'entrer par la porte principale.
+- Le sifflement attire un humain ; utilise-le depuis un plafond ou une alcove.
+- Regenere dans une zone sure avant de reprendre une patrouille.
+- Pour Grim Reaper, "tuer" un civil ne suffit pas : immobilise-le puis lance la
+  recolte avec un Facehugger quand le jeu le permet.
+
+PREDATOR
+
+- Le focus jump est la cle des arbres, corniches et plateformes.
+- La cloak consomme l'energie : ne la laisse pas active dans une zone vide.
+- Le camouflage disparait au contact de l'eau ; desactive la cloak avant de
+  sauter dans une mare pour ne pas perdre ton positionnement.
+- Le plasma est excellent contre une cible isolee, le Combi Stick pour les
+  ennemis exposes et le Battle Disc pour Spin Doctor.
+- Avant une porte de chapitre, refais un tour vertical complet : les belts ne
+  sont pas toujours sur le chemin au sol.
+
+05. CAMPAGNE ALIEN - SOLUCE CHRONOLOGIQUE COMPLETE
+
+ALIEN 1 - RESEARCH LAB
+Objectifs : apprendre le deplacement de surface, liberer la zone de detention,
+ouvrir les conduits et sortir du laboratoire.
+Succes lies : Come to Mama, Breaking Quarantine.
+Collectibles : Royal Jelly 01-10. Civils recol tables : 0.
+
+1. Suis le mouvement du chercheur, puis teste le sol, les murs et le plafond.
+2. Utilise les surfaces qui prennent la teinte verte pour monter ; alterne
+   plafond et mur afin de garder la salle dans ton champ de vision.
+3. Quand l'exercice de mouvement est termine, attends l'ouverture de la zone
+   suivante et apprends la mise a mort de base.
+4. Dans les couloirs, reste sur les conduits et ne redescends que sur une zone
+   isolee. Les gardes se gerent un par un avec le sifflement.
+5. A la premiere salle de cellules, libere les autres specimens en suivant les
+   marqueurs. Les premiers oeufs et la premiere Royal Jelly sont souvent dans
+   les conduits lateraux, pas sur le chemin central.
+6. Dans les couloirs a deux niveaux, regarde le plafond avant de suivre la
+   balise. Le civil enferme en hauteur est inaccessible et ne compte pas pour
+   Grim Reaper.
+7. Devant les tourelles, ne traverse pas la ligne de tir. Passe par le balcon,
+   le conduit ou l'arriere de la colonne, puis coupe la source d'energie quand
+   le jeu te le demande.
+8. Dans la zone d'elevateur, fais les Jelly 08-10 avant d'interagir avec le
+   noeud de puissance. Une fois le script lance, termine le combat et rejoins
+   la sortie par la ventilation.
+9. Controle de fin : compteur 10/10, succes Come to Mama valide, puis sortie
+   du laboratoire pour Breaking Quarantine.
+
+ALIEN 2 - COLONY
+Objectifs : sortir des egouts, couper l'alimentation, contourner les tourelles,
+atteindre le garage et recolter les trois civils disponibles.
+Succes lie : Grunt Hunt si tu nettoies toutes les troupes de la zone Marine
+correspondante ; aucun civil du Research Lab ne doit etre ajoute au compteur.
+Collectibles : Royal Jelly 11-20 ; civils disponibles 01-03.
+
+1. Dans la grande salle de depart, rejoins la ventilation au sol puis longe le
+   conduit jusqu'au tableau de fusibles.
+2. Frappe le boitier avec la queue pour couper le courant et arreter le
+   ventilateur. Elimine les deux gardes depuis le plafond ou une zone sombre.
+3. Evite la porte gardee : prends la ventilation en hauteur, puis traverse la
+   Pump Room en controlant les lampes et la tourelle.
+4. Dans la salle circulaire, coupe le second boitier. Quand les pales cessent
+   de tourner, remonte la cage et repere la Royal Jelly avant de redescendre.
+5. Civil 01 : dans la Pump Room, elimine les Marines puis cherche le civil
+   dans la piece laterale avant de repartir par le conduit.
+6. Civil 02 : apres l'arret des pales, la salle contient un garde, un civil et
+   un boitier rouge. Elimine le garde, ne pousse pas la porte principale, passe
+   par la ventilation au-dessus des caisses et recolte le civil par le haut.
+7. Civil 03 : dans le garage, sous la ventilation d'entree ou dans l'angle
+   d'entretien. Coupe les lumieres, isole-le, puis recolte-le.
+8. Garage : ne quitte pas la zone apres les civils. Nettoie chaque Marine,
+   chaque plateforme et le fond de la salle avant de descendre par la bouche
+   d'egout.
+9. Controle de fin : 20/20 Jelly, 3/3 civils, garage nettoye, puis sortie.
+
+ALIEN 3 - REFINERY
+Objectifs : traverser la salle des machines, descendre le puits ventile,
+contourner les tourelles et recolter huit civils.
+Succes lie : Grunt Hunt est verifie dans la liste Steam, mais ne l'attribue pas
+a cette mission ; ce chapitre sert surtout au nettoyage civil.
+Collectibles : Royal Jelly 21-30 ; civils disponibles 04-11.
+
+1. Brise la porte du couloir et prends la ventilation situee au-dessus de la
+   porte a droite du premier carrefour.
+2. Dans la salle des machines, utilise les plafonds et les poutres. Elimine
+   cinq Marines et les deux civils en silence avant d'ouvrir la porte brumeuse.
+3. Civil 04 et 05 : les deux premiers civils partent dans des directions
+   differentes apres l'ouverture de la porte. Pars immediatement vers celui qui
+   cherche une arme dans la petite salle, puis reviens vers le couloir.
+4. Le second appelle un ascenseur : laisse-le attendre, gere les Marines qui
+   arrivent, puis recolte-le dans son angle de salle.
+5. Civil 06 et 07 : dans la Machine Room, un civil travaille pres de la sortie
+   eclairee ; l'autre circule entre les turbines. Attire-les depuis le plafond.
+6. Civil 08 : apres la sortie de la Machine Room, un fuyard part dans le
+   couloir. Suis-le sans le frapper, puis recolte-le dans la salle suivante.
+7. Civil 09 : apres le civil precedent, reste dans la piece suivante : un autre
+   civil court vers les ordinateurs. Recolte-le avant qu'il n'atteigne son arme.
+8. Civil 10 : gere les renforts de l'ascenseur avant de recolter le civil qui
+   se cache dans un angle.
+9. Civil 11 : dans le corridor du tunnel de vent, detruis le boitier rouge,
+   longe le mur oppose aux Smartguns et recolte le civil pres des rochers.
+10. Civil 12 : juste avant la fin du corridor, le dernier civil de la tranche
+    est avec un Marine. Isole-le avant de poursuivre.
+11. Descends le puits par les niches laterales ; ne saute jamais directement.
+12. En bas, detruis le boitier, coupe les lumieres et contourne la tourelle par
+    le corridor proche de l'ascenseur.
+13. Rejoins la sortie. Controle 30/30 Jelly et 8/8 civils avant de conclure.
+
+ALIEN 4 - JUNGLE
+Objectifs : couper la cloture, saboter l'antenne, traverser Gateway, couper les
+deux generateurs et ouvrir le passage vers la ruche.
+Collectibles : Royal Jelly 31-40 ; civils disponibles 13-16.
+
+1. Prends la ventilation pres de la grille fermee. Sors derriere les Marines,
+   monte au premier etage et utilise le terminal entre les deux tourelles.
+2. Coupe le boitier d'energie, puis rejoins le marais par le tunnel sous la
+   caisse detruite.
+3. A l'antenne, attire les trois gardes avec le sifflement. Reste sur le toit
+   bas ou la corniche, detruis le boitier au sommet, puis gere les renforts.
+4. Civil 13 : dans le marais, autour des cabanes inferieure et superieure.
+   Recolte celui qui reste dehors avant de poursuivre le script.
+5. Civil 14 : quand l'autre civil quitte la cabane apres la coupure du courant,
+   suis-le sans provoquer la patrouille. Il peut changer de cachette ; utilise
+   le focus pour le retrouver et recolte-le dans le marais.
+6. Entre dans Gateway par le canal entre B03 et B04. Civil 15 : remonte par la
+   ventilation de B03 ; le civil sort de la piece puis s'arrete devant B01.
+7. Dans B04, ne force pas le combat eclaire. Coupe les lampes, remonte au toit,
+   regenere et elimine les gardes et les tourelles depuis les murs.
+8. Coupe le premier generateur dans l'epave du Marlow. Pour le second, longe
+   B01 par le mur, saute derriere la tourelle et frappe le boitier a l'abri.
+9. Civil 16 : dans la grande salle de B01, pres de l'interrupteur qui ouvre la
+   voie. Arrive par le plafond et recolte-le avant de toucher l'interrupteur ;
+   sinon il peut declencher sa grenade.
+10. Appuie sur le bouton des fenetres, cache-toi au plafond pendant les
+    renforts, puis regagne la bouche d'egout pres de B01.
+11. Controle 40/40 Jelly et 16/16 civils disponibles cumules avant la sortie.
+
+ALIEN 5 - RUINS
+Objectifs : infiltrer les ruines, activer les plaques, couper la source humaine,
+traverser l'arene et terminer la creation d'espece.
+Succes lies : Under Pressure, Alien vs Predator.
+Collectibles : Royal Jelly 41-50 ; civils disponibles 17-23, dont sept
+recoltables dans ce chapitre.
+
+1. Sors du conduit et reste dans les hauteurs. Elimine les andro ides isoles
+   autour de la base, puis rejoins le batiment central.
+2. Civil 17 : sur la structure centrale, au niveau superieur, pres d'un
+   androide. Recolte-le immediatement ; il peut tomber de la corniche.
+3. Entre dans le puits du batiment et atteins le canal. Active les deux plaques
+   de pression opposees pour ouvrir le conduit suivant.
+4. Civil 18 : sur une plaque laterale avec un androide. Approche par le plafond
+   et recolte-le sans poser la patte sur la plaque avant d'avoir elimine le garde.
+5. Coupe le noeud de puissance a l'etage. Le courant tombe et les portes du
+   secteur deviennent accessibles.
+6. Civil 19 et 20 : apres la troisieme plaque, prends d'abord le detour gauche
+   puis le symetrique droit. Ferme les deux portes de fuite en detruisant les
+   noeuds avant d'entrer dans chaque alcove.
+7. Civil 21 : longe le perimetre dans le sens horaire. Cherche la petite salle
+   encastree dans le mur, pas seulement la grande cour.
+8. Civil 22 et 23 : dans le batiment rendu accessible par les plaques. Ils sont
+   a l'interieur et ne doivent pas etre ignores avant la sortie.
+9. Royal Jelly 41-50 : le premier groupe se trouve dans la zone de depart et
+   autour des plaques ; les derniers sont dans le batiment central. Utilise le
+   ledger detaille de la section 09 si le total bloque a 49/50.
+10. Dans l'arene, garde le mouvement, attaque les Predators par les flancs et
+    regenere en hauteur. Quand l'interaction de fin devient disponible,
+    execute-la pour valider Alien vs Predator.
+11. Controle de fin : 50/50 Jelly, 22/22 civils disponibles et cinq missions
+    Alien terminees. La campagne Alien en elle-meme est alors complete.
+
+06. CAMPAGNE MARINE - SOLUCE CHRONOLOGIQUE COMPLETE
+
+MARINE 1 - COLONY
+Objectifs : sortir du garage, relancer Ops, rejoindre Tequila, survivre au Club
+et atteindre l'ascenseur.
+Succes lies : Club Hopper. Audio Diaries 01-15.
+
+1. Dans le garage, suis le tracker jusqu'a la barricade. Recule et tire sur le
+   bidon rouge pour ouvrir le passage.
+2. Descends les escaliers, ouvre la porte brisee et active l'interrupteur pres
+   du colon.
+3. Sors vers la colonie, suis le batiment marque B et contourne les cables par
+   la salle laterale.
+4. Dans Ops, prends le chemin de caisses jusqu'au levier. Active-le, attends la
+   fin de la surtension, puis active-le une seconde fois.
+5. Apres le premier Xenomorphe, garde le pistolet pour les premiers tirs et
+   evite l'acide au sol.
+6. Rejoins l'Admin et attends l'ouverture de la grille. Fouille les corps,
+   l'alcove et le bureau avant d'entrer dans la salle de Tequila.
+7. Prends la batterie, place-la dans le support et recupere le Pulse Rifle.
+8. Rejoins le Club F par l'escalier puis l'ascenseur. Avant de monter, verifie
+   les Diaries de Colony 01-15 dans la section 08.
+9. Au Club, recupere toutes les munitions, garde une grenade pour une vague
+   compacte et lis le tracker en regardant les murs et le plafond.
+10. Apres la vague, prends l'ascenseur, ouvre la porte a la main et suis le
+    Marine jusqu'a la salle superieure.
+11. Quand les Xenomorphes arrivent, redescends soutenir la tourelle. Active le
+    terminal de commande, remonte, puis nettoie la derniere vague.
+12. Au dernier etage, rejoins la barricade, tiens la position le temps que
+    l'ascenseur s'ouvre et cours par la bouche d'egout.
+13. Dans le tunnel final, ne t'arrete pas pour combattre tout ce qui arrive.
+    La sortie de chapitre est au bout du couloir.
+14. Fin de chapitre : 15/67 diaries, Club Hopper, et verification du compteur
+    global avant de lancer Refinery.
+
+MARINE 2 - REFINERY
+Objectifs : sortir des mines, relier l'uplink, entrer dans la raffinerie,
+retrouver Van Zandt et atteindre la salle de la Matriarch.
+Succes lies : Exit Strategy, You Have My Sympathies, Regicide. Audio Diaries
+16-27.
+
+1. Apres la sequence automatique, avance au pistolet dans les tunnels et prends
+   le premier embranchement a droite pour sortir.
+2. Rejoins le batiment, prends le Pulse Rifle dans l'angle sombre pres du
+   generateur et entre par la porte.
+3. Dans la salle des oeufs, detruis le Facehugger et les oeufs avant de chercher
+   la prise electrique.
+4. Ramene le power node, place-le dans le support et prends l'ascenseur.
+5. Sur le toit, active le transmetteur. A la redescente, lis le tracker et
+   utilise les bidons sur les ennemis regroupes.
+6. Traverse le pont, prends l'ascenseur d'Administration et fouille la salle
+   gauche avant de repartir.
+7. Au nouvel ascenseur, lance le piratage puis tiens la position. N'utilise pas
+   toutes les grenades avant l'attaque de fin.
+8. Dans la raffinerie, active l'ordinateur de la salle de controle, puis
+   reviens vers les generateurs et le corridor marque.
+9. Descends vers les tracteurs et prends le lance-flammes seulement si tu
+   maitrises la distance ; les Xenomorphes en feu explosent au contact.
+10. Aupres de Van Zandt, elimine d'abord les oeufs, puis les ennemis qui
+    arrivent. Ne te colle pas a la zone de flammes.
+11. Apres l'ascenseur, fouille les salles laterales et detruis les trois oeufs
+    qui bloquent le passage.
+12. Zone Matriarch : detruis tous les oeufs avant d'actionner le levier. Eloigne
+    les ennemis, active le four, detruis les containers chauffes et recommence
+    quand Tequila a recharge le systeme.
+13. Fin de chapitre : 27/67 diaries. Confirme Exit Strategy, You Have My
+    Sympathies et Regicide avant de continuer.
+
+MARINE 3 - JUNGLE
+Objectifs : ouvrir la porte du marais, reactiver le transmetteur, sortir du
+marais, alimenter Gateway et traverser la jungle.
+Succes lie : It Uses The Jungle. Audio Diaries 28-41.
+
+1. Fouille le point de depart, monte sur le mur et recupere le fusil a lunette.
+   C'est la meilleure fenetre pour lancer Elite Sniper.
+2. Utilise le terminal pour ouvrir la porte du marais. Descends, passe la grille
+   et prends la montee quand la porte suivante reste fermee.
+3. Traverse le tunnel d'oeufs sans gaspiller les grenades, puis active le
+   transmetteur. Interagis une seconde fois quand le piratage est fini.
+4. Reviens au marais, entre dans la petite cabane et actionne le levier.
+5. Sors par la porte ouverte, recule dans la cabane pour separer les ennemis,
+   puis utilise le fusil a lunette sur les ennemis acides.
+6. Rejoins Gateway par la bouche d'egout. Les batiments B02, B03 et B04
+   contiennent les power nodes : prends-en un et depose-le dans B01.
+7. Monte dans B01, active le terminal et redescends vers la sortie. A la
+   rencontre hostile, ne reste pas en duel ouvert : franchis la grille.
+8. Dans la jungle finale, suis le chemin jusqu'au tunnel et garde des munitions
+   pour l'androide qui se reveille au sol.
+9. Active le terminal pres de la grille, recule pour separer les trois derniers
+   andro ides, puis prends le conduit gauche et saute dans le trou.
+10. Fin de chapitre : 41/67 diaries et It Uses The Jungle.
+
+MARINE 4 - RUINS
+Objectifs : rejoindre le vaisseau accidente, ouvrir la porte par piratage,
+tenir le Smartgun, retrouver Tequila et l'escorter.
+Succes lies : I Will Never Leave You... ; Audio Diaries 42-54.
+
+1. Dans la grotte, prends le fusil a lunette pres du corps et avance en
+   eliminant les ennemis acides a distance.
+2. Monte aux ruines, active le terminal et tiens la position pendant le
+   piratage. Utilise les colonnes comme couvertures.
+3. Apres la sortie par les gravats, prends le Smartgun et garde-le pour les
+   vagues compactes. Ne vide pas le chargeur sur une cible seule.
+4. Suis les Marines vers le vaisseau, fouille la carcasse pour munitions et
+   reste dans le batiment quand les vagues deviennent trop nombreuses.
+5. Rejoins le tunnel sous les ruines, suis le marqueur et utilise le terminal
+   de la porte metallique deux fois.
+6. Dans l'arene, utilise le fusil a lunette sur le bouclier du Predator. Quand
+   son bouclier se recharge, garde le tracker et ne le poursuis pas au corps a
+   corps.
+7. Apres le combat, entre dans la petite cabane, recupere les munitions et
+   suis le signal de Tequila dans la ruche.
+8. Fouille les cadavres, reste vigilant aux Xenomorphs au mur et interagis avec
+   Tequila quand tu la retrouves.
+9. Retourne a l'arene et tiens la position pendant l'ouverture de la grille.
+   Les bidons sont plus rentables que les tirs disperses.
+10. Fin de chapitre : 54/67 diaries et I Will Never Leave You....
+
+MARINE 5 - RESEARCH LAB
+Objectifs : escorter Tequila vers Katya, traverser le laboratoire, desactiver
+la tourelle, activer l'ascenseur et atteindre le secteur final.
+Succes lies : ...That's A Promise, One Big Bug. Audio Diaries 55-63.
+
+1. Depuis la jungle, elimine l'androide a l'entree et monte les escaliers.
+2. Pres de l'ascenseur, gere le Xenomorphe puis laisse Tequila ouvrir la route.
+   Dans la salle du train, utilise le wagon comme couverture.
+3. Rejoins l'etage superieur, traverse la salle de confinement et conduis
+   Tequila vers la table medicale. Ne depense pas les soins avant l'ascenseur.
+4. Quand l'operation est interrompue, quitte le secteur medical par la gauche.
+   Les tourelles bloquent le chemin principal.
+5. Nettoie la salle Theater, monte au-dessus de la tourelle et utilise le
+   terminal pour la desactiver.
+6. Traverse Containment 2, fouille la salle de la Matriarch et attends que les
+   groupes se divisent avant d'avancer.
+7. Rejoins la salle de controle, monte les escaliers, passe par Observation et
+   prends l'ascenseur Control Room.
+8. Active le terminal qui remet l'ascenseur principal en service. Redescends,
+   elimine les ennemis de la plateforme et poursuis jusqu'au grand lift.
+9. Pour One Big Bug, garde une distance constante, utilise les grenades depuis
+   une plateforme et exploite le terrain pour eviter les attaques acides.
+10. Fin de chapitre : 63/67 diaries, ...That's A Promise et One Big Bug.
+
+MARINE 6 - PYRAMID
+Objectifs : activer la tourelle, tenir le pont, recuperer le datapad et sortir.
+Succes lie : Get to The Chopper!. Audio Diaries 64-67.
+
+1. Dans la salle des statues, active la tourelle par le terminal. Prends les
+   Smartguns et garde la position sur le pont.
+2. Pendant les vagues, laisse la tourelle faire le travail et utilise le
+   Smartgun sur les cibles qui passent.
+3. Apres les deux gros ennemis, traverse le pont et entre dans la Pyramid.
+4. Dans la salle des andro ides, garde le Smartgun ou le fusil a lunette : les
+   cibles camouflees restent reperables avec ces armes.
+5. Dans le combat contre Weyland, tourne autour des statues et ne reste jamais
+   face a lui. Utilise les angles pour interrompre ses tirs.
+6. Monte les escaliers et prends le datapad sur le socle. Si une seconde phase
+   se declenche, vise la tete et garde une couverture laterale.
+7. Apres la recuperation du datapad, cours vers l'ascenseur sans explorer : la
+   fin du chapitre est une sequence d'evacuation.
+8. Avant d'interagir avec l'objectif de depart, valide les Diaries 64-67 dans
+   la section 08. Controle final Marine : 67/67.
+
+07. CAMPAGNE PREDATOR - SOLUCE CHRONOLOGIQUE COMPLETE
+
+PREDATOR 1 - JUNGLE
+Objectifs : apprendre le focus jump, franchir la grille, retrouver le premier
+Youngblood, entrer dans Gateway et ressortir par le complexe.
+Succes : It Uses The Jungle ; Trophy Belts 01-10.
+
+1. Cible l'arbre, utilise Focus Jump et teste le zoom, la cloak et la vision IR.
+2. Attire les deux Marines vers un point isole, puis reste hors de l'arc de la
+   tourelle. Desactive-la depuis le terminal arriere.
+3. Utilise le power node pres de la grille. Recupere le materiel du premier
+   corps et lance l'autodestruction quand le jeu l'ordonne.
+4. Dans le chemin suivant, bloque les attaques en melee et elimine les
+   serpents en gardant l'energie pour la grille.
+5. Entre dans Gateway par le mur, cloak active, et reste sur les toits.
+6. Elimine les patrouilles pres de l'epave, puis casse le boitier derriere B01.
+   Entre par le cote en evitant la tourelle de la porte.
+7. Dans B01, monte, recupere la tete de l'officier, detruis le terminal des
+   tourelles puis celui de la cloture.
+8. Sors, ouvre la grille avec la tete et traverse le marais. Dans l'eau, la
+   cloak ne protege plus : saute de plateforme en plateforme.
+9. Trouve le second corps dans le petit batiment, recupere les mines et lance
+   l'autodestruction.
+10. Rejoins la base secondaire par la droite, desactive sa tourelle si besoin,
+    ouvre la bouche d'egout et saute sur la corniche de la Refinery.
+11. Fin de chapitre : Trophy Belts 01-10 et It Uses The Jungle.
+
+PREDATOR 2 - REFINERY
+Objectifs : atteindre la raffinerie, couper la cloture, utiliser la grue,
+recuperer le Battle Disc et sortir par les flammes.
+Succes : Fallen Comrade ; Trophy Belts 11-20.
+
+1. Saute dans le gouffre, attire les soldats pres du batiment et ne va pas
+   directement vers le pont surveille.
+2. Prends les tuyaux et la plateforme sur le cote gauche pour contourner la
+   tourelle.
+3. Dans le batiment, elimine la patrouille, monte au generateur et insere le
+   power node pour couper la cloture du toit.
+4. Remonte par la corniche, utilise le terminal pres du transmetteur et saute
+   sur la plateforme de grue quand elle monte.
+5. Entre par la grande conduite, attends la descente de l'ascenseur et remonte
+   par les plateformes jusqu'a la porte ouverte.
+6. Dans la salle du vehicule, laisse les groupes s'affaiblir puis passe dans la
+   salle des machines. L'invisibilite et les angles sont plus rentables qu'un
+   combat frontal.
+7. Traverse le tunnel, prends le chemin vers la chambre de la Queen et avance
+   dans la ruche jusqu'au corps du Predator.
+8. Lance l'autodestruction et recupere le Battle Disc. Il valide la suite des
+   combats et prepare Spin Doctor.
+9. Dans la salle en flammes, vise la conduite au-dessus du tunnel avec le Disc.
+   Attends que l'eau eteigne le feu, puis traverse sans nettoyer toute la vague.
+10. Fin de chapitre : Trophy Belts 11-20 et Fallen Comrade.
+
+PREDATOR 3 - RUINS
+Objectifs : traverser la zone antique, atteindre l'arene, recuperer le masque
+et survivre au trial by combat.
+Succes : Matter of Honor, Eyes of The Demon, World of Hurt ; Trophy Belts 21-30.
+
+1. Depuis la corniche, utilise les hauteurs et les raccourcis Focus Jump. Les
+   tourelles sont mieux evitees que combattues.
+2. Desactive les terminaux de securite, traverse les arches et repere les
+   statues qui servent de points de visibilite.
+3. Recupere le premier masque/objet de progression dans la salle indiquee par
+   le marqueur, puis utilise les plateformes pour rejoindre la zone suivante.
+4. Dans les salles de ruines, alterne plasma a distance et Combi Stick. Recharge
+   l'energie uniquement hors de vue des ennemis.
+5. Dans l'arene, active la sequence de combat. Bloque les attaques lourdes,
+   garde une sortie verticale et ne gaspille pas le Disc sur la premiere cible.
+6. Apres l'affrontement, recupere le masque ancien et valide Eyes of The Demon.
+7. Pour World of Hurt, exploite les piliers : le combat est plus sur que le sol
+   central et permet de recharger l'energie.
+8. Controle de fin : Trophy Belts 21-30, Matter of Honor, Eyes of The Demon et
+   World of Hurt.
+
+PREDATOR 4 - RESEARCH LAB
+Objectifs : entrer dans le laboratoire, desactiver les portes, recuperer le
+second artefact et vaincre le Praetorian.
+Succes : Breaking and Entering, Reclaimer ; Trophy Belts 31-40.
+
+1. Entre par les hauteurs et suis les plateformes autour du batiment. Evite la
+   porte principale si la tourelle est active.
+2. Alterne cloak et vision thermique pour reperer les andro ides. Coupe les
+   terminaux qui ferment les portes avant de descendre.
+3. Dans les laboratoires, detruis les noeuds d'energie, utilise le Disc dans
+   les couloirs droits et recupere les munitions pres des ascenseurs.
+4. Quand tu atteins la chambre du Praetorian, monte sur les hautes colonnes.
+   Lance le Disc, saute d'une colonne a l'autre pour eviter l'acide et ne reste
+   pas au bord ou les petits ennemis peuvent te toucher.
+5. Recupere le second artefact lorsque le marqueur devient actif. Ne quitte pas
+   la salle sans le Trophy Belt 40 dans l'alcove du laboratoire.
+6. Controle de fin : Trophy Belts 31-40, Breaking and Entering et Reclaimer.
+
+PREDATOR 5 - PYRAMID
+Objectifs : atteindre la tombe, placer le second artefact, survivre au compte a
+rebours et detruire l'Abomination.
+Succes : Extinction Agenda ; Trophy Belts 41-45.
+
+1. Depuis l'ascenseur, utilise Focus Jump sur les trois statues et avance sans
+   descendre dans les zones qui ne sont pas necessaires.
+2. Traverse le pont, entre dans la Pyramid et utilise le masque/artefact sur le
+   socle quand l'interface le demande.
+3. Pendant le compte a rebours, place les mines dans un angle de l'arene puis
+   attire l'Abomination sur la zone. Recommence apres chaque recul.
+4. Ne poursuis pas l'ennemi quand il s'eloigne : recharge l'energie, replace
+   les mines et conserve la cloak pour un deplacement expose.
+5. Le Trophy Belt 41 est a la base de la premiere statue apres l'ascenseur.
+   Les belts 42-44 se trouvent autour du pont et de la premiere grande salle.
+6. Belt 45 : dans la salle finale, caisse jaune a gauche, corniche laterale,
+   puis sommet de l'autel. Ne touche pas l'autel par le sol.
+7. Termine la sequence finale et controle 45/45 belts, puis Extinction Agenda.
+
+08. AUDIO DIARIES - 67 EMPLACEMENTS EXACTS
+
+REGLE DE REPERAGE
+
+Le compteur est cumule dans l'ordre Marine : Colony 01-15, Refinery 16-27,
+Jungle 28-41, Ruins 42-54, Research Lab 55-63, Pyramid 64-67. Les numeros
+ci-dessous sont ceux de cette fiche ; le nom affiche dans le jeu peut etre
+different selon la langue. Inspecte toujours avant la porte, l'ascenseur ou
+le terminal qui lance l'etape suivante.
+
+COLONY - DIARIES 01 A 15
+
+- [ ] 01. Apres le premier Alien, dans la piece au-dela du garage, sur le
+  bureau de la salle laterale.
+- [ ] 02. A la sortie du garage, pres de la porte exterieure, au sol a cote du
+  kit de soin.
+- [ ] 03. Dans la meme zone, passe sous la passerelle et va au bout du chemin
+  a gauche.
+- [ ] 04. Monte l'escalier de droite dans cette zone ; le diary est en haut.
+- [ ] 05. Au carrefour apres le garage, prends la droite et le second escalier.
+  Il est au sommet.
+- [ ] 06. Depuis le meme carrefour, descends le premier escalier et regarde
+  sous la vollee.
+- [ ] 07. Avant l'Admin et la rencontre de Tequila, prends la gauche puis le
+  cul-de-sac en contrebas.
+- [ ] 08. Dans le batiment Admin, a gauche du petit generateur.
+- [ ] 09. Dans le Club, premier etage, a gauche de l'hologramme et derriere la
+  scene.
+- [ ] 10. Dans le Club, deuxieme etage, suis la coursive du ring jusqu'a la
+  table du cote oppose.
+- [ ] 11. Apres l'ascenseur qui suit le Club, sur la table en face de la porte.
+- [ ] 12. Apres Gibson, suis le Marine dans l'escalier ; il est a droite,
+  derriere les caisses.
+- [ ] 13. Apres les Marines et la tourelle, prends l'ascenseur puis regarde
+  derriere les caisses a droite.
+- [ ] 14. Apres le meme ascenseur, passe l'ouverture et descends au-dela de
+  l'Alien ; le diary est pres du corps et des munitions.
+- [ ] 15. Dans la fuite en tunnel, suis la lumiere rouge/orange vers la lumiere
+  bleue puis prends le cul-de-sac a droite.
+
+REFINERY - DIARIES 16 A 27
+
+- [ ] 16. Au debut apres la liberation, retourne dans le couloir et regarde au
+  sol a droite.
+- [ ] 17. Apres le second Alien, prends la bifurcation gauche et passe derriere
+  le tracteur.
+- [ ] 18. Dans la zone exterieure, sous la passerelle et derriere le troisieme
+  pylone.
+- [ ] 19. Apres le pont, prends la gauche et passe derriere le tracteur.
+- [ ] 20. Apres le deuxieme Facehugger, entre dans la piece sombre et regarde
+  derriere le bureau.
+- [ ] 21. Apres le terminal satellite, descends l'ascenseur, entre dans la
+  piece a gauche et inspecte l'etagere du fond.
+- [ ] 22. A la porte du piratage, depasse le terminal jusqu'au cul-de-sac du
+  tunnel.
+- [ ] 23. Apres le piratage, traverse la plateforme de l'ascenseur et regarde
+  de l'autre cote de la machine.
+- [ ] 24. Apres avoir rendu le controle de securite a Tequila, retourne vers
+  la grande turbine et prends le couloir de gauche jusqu'au bout.
+- [ ] 25. Apres Van Zandt, va au bout de la passerelle pres des oeufs Alien.
+- [ ] 26. Apres l'ascenseur de fuite, prends la fourche gauche jusqu'au
+  cul-de-sac.
+- [ ] 27. Depuis la meme fourche, prends la droite, entre dans la piece avec
+  le trou au sol et regarde de l'autre cote.
+
+JUNGLE - DIARIES 28 A 41
+
+- [ ] 28. Derriere l'arbre visible au chargement de la mission.
+- [ ] 29. A gauche du corps suspendu, monte les escaliers et inspecte la caisse
+  sur la passerelle.
+- [ ] 30. Apres le premier complexe, dans le marais, longe le mur droit jusqu'a
+  la caisse.
+- [ ] 31. Dans le meme marais, sur le cote oppose entre le plateau et le mur.
+- [ ] 32. Dans le marais, prends la gauche, passe derriere le troisieme arbre.
+- [ ] 33. Remonte la berge opposee et depasse le point d'interaction.
+- [ ] 34. A la cabane sur la berge, saute sur la structure ronde puis sur le
+  toit de la cabane basse.
+- [ ] 35. Apres le premier contact de Katya, longe le mur gauche de la zone aux
+  petites cabanes jusqu'au cul-de-sac.
+- [ ] 36. Dans la meme zone, passe a droite du batiment proche et regarde au sol
+  derriere lui.
+- [ ] 37. Entre dans le batiment situe derriere le diary 36.
+- [ ] 38. Dans la zone ouverte, dirige-toi vers le grand batiment, mais prends
+  la passerelle a droite de l'entree.
+- [ ] 39. Apres le power node, monte dans la salle reseau et regarde le coin
+  arriere droit.
+- [ ] 40. Apres la fuite devant le Predator, monte sur la petite corniche a
+  droite du chemin.
+- [ ] 41. Sur le meme chemin, juste avant les grandes portes, entre l'arbre et
+  le mur a gauche.
+
+RUINS - DIARIES 42 A 54
+
+- [ ] 42. Au chargement, au sol a quelques pas sur la droite.
+- [ ] 43. Apres les premiers Aliens, ne prends pas le second pont ; continue
+  vers la corniche.
+- [ ] 44. Apres les corniches de la grotte, redescends de l'autre cote du mur,
+  pres du corps.
+- [ ] 45. A la sortie de la grotte, au pied des escaliers a gauche.
+- [ ] 46. Apres le groupe d'andro ides, au coin de l'etage superieur pres des
+  rochers d'escalade.
+- [ ] 47. Apres la seconde vague au Smartgun, ne suis pas la rampe des Marines ;
+  passe a gauche de la statue Predator.
+- [ ] 48. Apres la defense au Smartgun, retourne a gauche de la position tenue,
+  dans le petit creux.
+- [ ] 49. En suivant le Marine vers Tequila, entre dans le temple a l'effigie
+  Alien et prends le cul-de-sac gauche pres du corps.
+- [ ] 50. Apres le toit du temple, va a l'oppose du marqueur et descends les
+  escaliers vers la salle interieure.
+- [ ] 51. Apres le piratage de la porte, monte le grand escalier de gauche ; il
+  est sur la plateforme.
+- [ ] 52. Apres le meme piratage, inspecte le sol a droite de la cabane.
+- [ ] 53. Apres le combat Predator, remonte a la cabane et regarde la table a
+  droite, pres du Pulse Rifle.
+- [ ] 54. Apres l'ordinateur de la cabane, suis le corridor vers la salle avec
+  une arme au sol ; le diary est a droite de l'entree.
+
+RESEARCH LAB - DIARIES 55 A 63
+
+- [ ] 55. Apres le premier androide, entre dans le batiment et prends le coin
+  arriere gauche de la premiere salle.
+- [ ] 56. Apres l'arrivee du train et des andro ides, entre dans le wagon puis
+  tourne a gauche.
+- [ ] 57. Apres le second ascenseur et le second androide, entre dans la salle
+  suivante : il est sur la table roulante.
+- [ ] 58. Apres la tourelle, prends le chemin gauche, la porte droite, puis
+  retourne dans la troisieme salle.
+- [ ] 59. Dans la meme zone, prends la porte gauche, tourne a gauche a angle
+  droit et regarde au sol.
+- [ ] 60. Apres la sequence de dialogue, descends la rampe et inspecte la salle
+  pres du corps d'androide.
+- [ ] 61. Dans la salle suivante, monte l'escalier gauche puis suis le couloir
+  jusqu'au bout.
+- [ ] 62. Dans la salle de controle de l'ascenseur, avant l'ordinateur, passe la
+  porte eclairee en vert et suis la passerelle.
+- [ ] 63. Apres la passerelle et le lift vers la seconde coursive, entre dans
+  la piece encerclee et regarde la table de la salle suivante.
+
+PYRAMID - DIARIES 64 A 67
+
+- [ ] 64. En bas du lift de depart, a la base de la premiere statue a droite.
+- [ ] 65. Juste avant la Pyramid, a gauche des escaliers derriere le materiel
+  informatique.
+- [ ] 66. Dans la premiere grande salle apres les andro ides camoufles, a
+  gauche derriere la couverture.
+- [ ] 67. Apres le combat final et la reprise de controle, sur la plateforme de
+  l'escalier droit avant l'autel. Prends-le avant le depart.
+
+09. ROYAL JELLY - 50 CONTAINERS EXACTS
+
+Chaque mission Alien contient exactement dix containers. Le compteur de cette
+fiche est volontairement par mission : 10/10, puis 20/20, etc. Les containers
+sont detruits avec l'attaque de queue ; utilise le focus pour confirmer le
+contour brillant avant de quitter la salle.
+
+RESEARCH LAB - JELLY 01 A 10
+
+- [ ] 01. Dans la ventilation apres la coupure du courant et la liberation des
+  attaches.
+- [ ] 02. Dans la salle ou trois Aliens sont liberes, au sol pres de l'Alien
+  le plus eloigne.
+- [ ] 03. A la bifurcation apres cette salle, prends la gauche puis le coin
+  droit.
+- [ ] 04. Sur le balcon dans la direction de tir de la premiere tourelle.
+- [ ] 05. Derriere la premiere tourelle, a droite de la colonne.
+- [ ] 06. Derriere la premiere tourelle, a gauche de la meme colonne.
+- [ ] 07. Sur le balcon au-dessus du chercheur pres de la bouche de ventilation.
+- [ ] 08. Dans la ventilation de sortie de la zone des tourelles, tourne a
+  droite en sortant.
+- [ ] 09. Dans la meme piece, va au bout puis prends le cote gauche du marqueur.
+- [ ] 10. Quand tu coupes le noeud pour remonter le puits d'ascenseur, entre
+  dans la piece et regarde la table a droite.
+
+COLONY - JELLY 11 A 20
+
+- [ ] 11. Dans le tunnel, monte dans la ventilation eclairee par un rayon de
+  lumiere.
+- [ ] 12. Dans la salle bleue au pied de la cascade.
+- [ ] 13. Apres cette salle, dans la piece au pilier, prends le cul-de-sac droit.
+- [ ] 14. Dans la ventilation apres le ralentissement des pales, prends la
+  droite a la bifurcation.
+- [ ] 15. Dans la salle du second civil, au sol pres du terminal.
+- [ ] 16. Dans la salle ou le second civil se refugie avant le script de sortie.
+- [ ] 17. Apres ce script, prends la droite du couloir jusqu'au cul-de-sac.
+- [ ] 18. Apres le meme script, prends la gauche, saute les gravats, tourne a
+  droite et descends au fond de la cage d'ascenseur.
+- [ ] 19. Dans le garage apres le nettoyage, descends au centre et regarde la
+  table opposee au marqueur.
+- [ ] 20. Dans le meme garage, sous le chariot elevateur.
+
+REFINERY - JELLY 21 A 30
+
+- [ ] 21. Apres les premiers civils, dans la grande salle du generateur, longe
+  le mur depuis la ventilation puis tourne a gauche.
+- [ ] 22. Dans cette salle, sur les etageres du cote proche.
+- [ ] 23. Sur la passerelle de la salle du generateur, entre la passerelle et
+  le mur du fond.
+- [ ] 24. Apres la premiere salle de Marines et civils, ouvre la porte, prends
+  la gauche et inspecte les gravats.
+- [ ] 25. Dans la salle de la machine sur plateforme, au pied de la machine.
+- [ ] 26. Apres cette machine, sur les etageres de la piece suivante.
+- [ ] 27. Dans la salle suivant les etageres, accroche-toi au mur droit et
+  regarde le sol.
+- [ ] 28. Apres la ventilation avec le courant d'air, descends vers les humains
+  et regarde de l'autre cote de la tourelle, pres des plaques d'acier.
+- [ ] 29. Apres la tourelle, dans le coin du corridor avec le civil et le Marine
+  derriere la vitre.
+- [ ] 30. Avant de detruire le dernier boitier, prends le coin du tunnel cache
+  derriere les rochers.
+
+JUNGLE - JELLY 31 A 40
+
+- [ ] 31. Apres les deux tourelles, ventilation dans le coin arriere gauche du
+  complexe ; prends la gauche jusqu'au bout.
+- [ ] 32. Apres le premier complexe, sur la berge lointaine du marais, entre
+  les deux grottes.
+- [ ] 33. Dans la cabane ou le civil se verrouille apres la tour de communication.
+- [ ] 34. A l'arrivee au second complexe, monte sur la corniche au-dessus de
+  la porte d'entree.
+- [ ] 35. Dans le second complexe, longe le mur gauche des cabanes jusqu'au
+  cul-de-sac.
+- [ ] 36. Entre les premieres cabanes, prends la ventilation ; le container est
+  tout pres de l'entree, parfois derriere toi.
+- [ ] 37. Dans le coin arriere droit, pres de l'epave du Marlow, prends la
+  ventilation qui descend.
+- [ ] 38. Apres l'entree forcee au second niveau de la grande cabane, dans la
+  cage de monte-charge.
+- [ ] 39. Apres l'entree forcee dans la seconde cabane, descends la ventilation
+  au sol et retourne-toi.
+- [ ] 40. Dans la meme ventilation, retourne-toi encore vers le conduit qui
+  longe le mur.
+
+RUINS - JELLY 41 A 50
+
+- [ ] 41. Au chargement, longe le mur vers le batiment eclaire et prends
+  l'alcove a droite.
+- [ ] 42. Dans le coin arriere droit de la premiere zone, au sol a l'exterieur.
+- [ ] 43. Dans la zone de depart, derriere l'escalier entre les deux torches
+  bleues.
+- [ ] 44. Dans le batiment avec l'arbre, au sommet des escaliers.
+- [ ] 45. Dans le meme batiment, descends et prends la ventilation de la salle.
+- [ ] 46. Dans les voies d'eau sous le temple, apres l'ouverture des portes,
+  regarde depuis une plaque de pression vers le canal souterrain.
+- [ ] 47. Dans la seconde zone, monte le grand escalier et prends la gauche de
+  la porte au sommet.
+- [ ] 48. Dans la seconde zone, derriere la cabane.
+- [ ] 49. Dans l'arene de la seconde zone, a gauche de la porte du fond.
+- [ ] 50. Dans la seconde zone, a droite de l'escalier de depart, pres de la
+  statue au sol.
+
+10. PREDATOR TROPHY BELTS - 45 EMPLACEMENTS EXACTS
+
+Les belts sont ramasses automatiquement au contact. Le focus et l'icone de
+tete a l'ecran servent a confirmer la zone. Les cinq tranches correspondent
+aux chapitres Predator et non aux niveaux Marine.
+
+JUNGLE - BELTS 01 A 10
+
+- [ ] 01. Au debut, apres le saut vers la route, retourne-toi et entre dans la
+  petite grotte.
+- [ ] 02. Sur la corniche a gauche apres les premiers humains.
+- [ ] 03. Apres les premiers Aliens, sur la corniche a gauche du Predator mort.
+- [ ] 04. Apres la surcharge du gantelet du Predator mort et la vague, tourne
+  le coin : il est en hauteur a droite.
+- [ ] 05. Dans le complexe, sur le toit du batiment degrade a gauche.
+- [ ] 06. Dans le complexe, sur l'epave du Marlow a droite.
+- [ ] 07. En entrant dans le grand batiment, tourne a droite : sur une table
+  pres d'un eclat de soin.
+- [ ] 08. Dans le marais, sur la corniche haute a droite ; utilise l'arbre pour
+  atteindre la plateforme.
+- [ ] 09. Dans la cabane haute du marais, de l'autre cote de la piece par
+  rapport au Predator mort.
+- [ ] 10. Dans le second complexe, longe le mur gauche jusqu'a la zone sombre.
+
+REFINERY - BELTS 11 A 20
+
+- [ ] 11. Apres le pont, prends la gauche et monte sur le tuyau arque.
+- [ ] 12. Sur le toit du batiment de controle, saute sur le monte-charge puis
+  sur son rail gauche.
+- [ ] 13. Dans la salle de la machine sur plateforme, sur la machine elle-meme.
+- [ ] 14. Dans la seconde salle de combat, au bout de la passerelle du fond.
+- [ ] 15. Apres la grande salle du generateur, avant la chambre de la Queen,
+  dans la porte laterale en bas des escaliers.
+- [ ] 16. Dans la salle du four, monte les escaliers opposes et saute sur la
+  premiere poutre.
+- [ ] 17. Depuis la meme poutre, traverse les deux suivantes jusqu'au cote
+  oppose de la salle.
+- [ ] 18. Dans le puits de la salle qui suit le Predator mort.
+- [ ] 19. Derriere la colonne de la seconde salle apres ce meme repere.
+- [ ] 20. Apres l'extinction des flammes, contre la colonne gauche de la piece
+  suivante, avant la fin.
+
+RUINS - BELTS 21 A 30
+
+- [ ] 21. Dans la salle aux hologrammes, coin arriere droit.
+- [ ] 22. Sur la corniche a gauche du message enregistre sur le pont.
+- [ ] 23. Dans la grotte apres le message, sur le second pont de pierre eclaire.
+- [ ] 24. Apres la grotte interieure et les premiers Marines, monte les
+  escaliers et prends la gauche de la porte.
+- [ ] 25. Apres les premiers leviers, regarde la corniche du mur droit.
+- [ ] 26. Dans la meme sequence, desactive la tourelle a droite et cherche
+  derriere la statue.
+- [ ] 27. Dans la zone du crash et du temple, au centre sur les colonnes.
+- [ ] 28. Dans le batiment avec l'arbre, descends les escaliers et regarde
+  derriere ceux-ci.
+- [ ] 29. Dans l'arene, porte en haut des escaliers a gauche, pres des statues.
+- [ ] 30. De l'autre cote de l'arene, derriere la cabane.
+
+RESEARCH LAB - BELTS 31 A 40
+
+- [ ] 31. Sur la corniche a droite du point de depart.
+- [ ] 32. Sur le petit pilier apres le boitier exterieur.
+- [ ] 33. Saute sur le train, monte sur les passerelles et prends la derniere.
+- [ ] 34. Dans la salle des capsules apres le train, coin arriere droit, a
+  l'oppose du marqueur.
+- [ ] 35. Sur la table au milieu de la salle du second officier de securite.
+- [ ] 36. Dans les chambres de la Matriarch, derriere le chariot pres du lift.
+- [ ] 37. Apres le lift et les chambres, prends la courbe en S puis la salle
+  gauche ; le belt est sur la corniche gauche.
+- [ ] 38. Sur la table de la salle qui contient le Wrist Bracer.
+- [ ] 39. Dans la salle a droite juste avant de quitter les grands couloirs.
+- [ ] 40. Sous les gravats inclines juste avant de reprendre le lift.
+
+PYRAMID - BELTS 41 A 45
+
+- [ ] 41. A la base de la premiere statue a droite en sortant du lift.
+- [ ] 42. Apres le pont, derriere le materiel informatique pres de la statue a
+  droite des escaliers.
+- [ ] 43. Dans la premiere grande salle, derriere la caisse a droite.
+- [ ] 44. Dans cette salle, monte jusqu'au levier a droite et prends la corniche.
+- [ ] 45. Dans la salle finale, caisse jaune a gauche, corniche laterale, puis
+  sommet de l'autel. Ne marche pas directement vers l'autel.
+
+11. GRIM REAPER - 22 CIVILS RECOLTABLES
+
+Le succes demande tous les civils disponibles, pas le civil inaccessible du
+Research Lab. Le total utile est 3 + 8 + 4 + 7 = 22. Les quatre cibles
+"lemming" doivent etre prises avant leur script de suicide.
 
 RESEARCH LAB
 
-- [ ] Diaries 56 a 62.
-- Inspecte les salles de controle, les laboratoires et les passerelles avant
-  chaque ascenseur. Utilise la selection de chapitre pour le dernier diary si
-  le cumul est 66/67.
-- [ ] Breaking and Entering et I Will Never Leave You... : progression.
+- [ ] 00. Aucun civil comptabilise. Le personnage enferme dans la salle haute
+  est inaccessible et ne compte pas.
 
-PYRAMID
+COLONY - 3
 
-- [ ] Diaries 63 a 67.
-- Verifie les salles laterales apres chaque enigme et avant les zones de
-  combat. Le compteur 67/67 doit etre confirme avant de quitter le chapitre.
-- [ ] Get to The Chopper! : progression de chapitre.
+- [ ] 01. Pump Room : nettoie les Marines puis inspecte la piece du civil avant
+  de repartir dans la ventilation.
+- [ ] 02. Apres l'arret des pales : elimine le garde pres du boitier, ne passe
+  pas par la porte principale, entre par la ventilation au-dessus des caisses.
+- [ ] 03. Garage : sous la ventilation d'entree ou dans l'angle de maintenance.
 
-ROUTE ALIEN - 50 ROYAL JELLY ET CIVILS
+REFINERY - 8
 
-- Rejoue les six reperes dans le menu de campagne Alien. Le focus met en
-  evidence les containers ; fais un tour complet de chaque salle avant le
-  prochain tunnel.
-- [ ] Royal Jelly 01-10 : Colony.
-- [ ] Royal Jelly 11-20 : Refinery.
-- [ ] Royal Jelly 21-30 : Jungle.
-- [ ] Royal Jelly 31-39 : Ruins.
-- [ ] Royal Jelly 40-46 : Research Lab.
-- [ ] Royal Jelly 47-50 : Pyramid.
-- Les tranches sont un ledger de suivi, pas un ordre narratif : si ton
-  compteur de chapitre affiche une autre repartition, conserve le total Steam.
-- [ ] Grim Reaper : tous les civils disponibles dans la campagne Alien.
-  Rejoue chaque mission en selection de chapitre et utilise le focus pour
-  n'oublier aucun embranchement.
-- [ ] I Admire its Purity : terminer la campagne Alien en Hard.
-- [ ] Magnificent, Isn't It? : terminer la campagne Alien en Nightmare.
-- [ ] Alien vs Predator : progression de la campagne Alien.
-- [ ] Come to Mama, Regicide, Extinction Agenda et One Big Bug : combats de
-  progression, sans necessiter de route supplementaire.
+- [ ] 04. Premier secteur : premier civil de la zone de depart.
+- [ ] 05. Premier secteur : second civil de la meme zone, avant la porte suivante.
+- [ ] 06. Machine Room : civil pres de la sortie eclairee.
+- [ ] 07. Machine Room : civil entre les turbines.
+- [ ] 08. Couloir apres la Machine Room : fuyard qui part vers l'ascenseur.
+- [ ] 09. Petite salle suivante : civil qui court vers l'ordinateur et l'arme.
+  Recolte-le avant qu'il n'y arrive.
+- [ ] 10. Apres les renforts de l'ascenseur : civil craintif dans un angle.
+- [ ] 11. Tunnel de vent : detruis le boitier rouge, longe le mur et prends le
+  civil pres des rochers avant le passage du Marine.
 
-ROUTE PREDATOR - 45 TROPHY BELTS
+JUNGLE - 4
 
-- Lance chaque chapitre Predator avec le focus actif. L'icone de tete indique
-  un belt proche ; monte, descend et regarde derriere les rochers avant la
-  porte de sortie.
-- [ ] Trophy Belts 01-08 : Colony.
-- [ ] Trophy Belts 09-16 : Refinery.
-- [ ] Trophy Belts 17-25 : Jungle.
-- [ ] Trophy Belts 26-33 : Ruins.
-- [ ] Trophy Belts 34-40 : Research Lab.
-- [ ] Trophy Belts 41-45 : Pyramid.
-- [ ] Fortune and Glory : les 45 belts.
-- [ ] It Ain't No Man : campagne Predator en Hard.
-- [ ] One Ugly Mother : campagne Predator en Nightmare.
-- Utilise le Combi Stick des qu'il est disponible :
-  [ ] Stick Around, 20 eliminations au Combi Stick.
-- Pour Spin Doctor, attends deux ennemis alignes puis lance un seul Battle
-  Disc. Recharge le chapitre si la notification ne vient pas.
+- [ ] 12. Marais : civil autour des deux cabanes, avant de poursuivre le courant.
+- [ ] 13. Marais : civil qui sort de la cabane apres la coupure ; suis sa fuite
+  et recolte-le dans une zone isolee.
+- [ ] 14. B03 : remonte par la ventilation entre B03 et B04 ; il s'arrete pres
+  de la porte de B01.
+- [ ] 15. B01 : civil au sommet de l'escalier, pres de l'interrupteur. Arrive
+  par le plafond et recolte-le avant l'interaction ; sinon il peut declencher
+  sa grenade.
 
-ROUTE DE DIFFICULTE ET COMBAT
+RUINS - 7
 
-- Fais les trois campagnes en Normal avant les reprises de nettoyage :
-  [ ] Game Over, Man! - trois campagnes completees.
-- Rejoue en Hard puis Nightmare, campagne par campagne :
-  [ ] Stay Frosty - Marine Hard.
-  [ ] I Admire its Purity - Alien Hard.
-  [ ] It Ain't No Man - Predator Hard.
-  [ ] I LOVE the Corps! - Marine Nightmare.
-  [ ] Magnificent, Isn't It? - Alien Nightmare.
-  [ ] One Ugly Mother - Predator Nightmare.
-- [ ] Gunslinger : 30 eliminations au pistolet, toutes campagnes confondues.
-- [ ] Elite Sniper : 10 tirs a la tete au fusil a lunette.
-- [ ] I Like to Keep This Handy : deux victimes avec un tir de shotgun.
-- [ ] Let's Rock! : cinq ennemis avec une rafale de Smartgun.
-- [ ] Stick Around : 20 victimes au Combi Stick.
-- [ ] Spin Doctor : deux victimes avec un seul lancer de Battle Disc.
+- [ ] 16. Structure centrale : civil a l'etage bas pres d'un androide.
+- [ ] 17. Sommet du batiment central : civil pres de l'androide, fenetre
+  prioritaire car il peut tomber.
+- [ ] 18. Plaque laterale : civil avec l'androide ; arrive par surprise sans
+  activer la plaque sous ses pieds.
+- [ ] 19. Oppose de la premiere plaque : civil seul dans l'alcove.
+- [ ] 20. Perimetre : civil qui circule derriere le mur de l'alcove opposee.
+- [ ] 21. Batiment accessible par les plaques : deux civils a l'interieur,
+  premier cote gauche.
+- [ ] 22. Meme batiment : second civil a l'interieur, cote oppose.
 
-SUCCES DE CAMPAGNE
+CONTROLE GRIM REAPER
 
-- [ ] Breaking Quarantine.
-- [ ] Club Hopper.
-- [ ] Come to Mama.
-- [ ] Exit Strategy.
-- [ ] It Uses The Jungle.
-- [ ] Fallen Comrade.
-- [ ] Grunt Hunt.
-- [ ] Regicide.
-- [ ] Matter of Honor.
-- [ ] You Have My Sympathies.
-- [ ] Eyes of The Demon.
-- [ ] World of Hurt.
-- [ ] Alien vs Predator.
-- [ ] Reclaimer.
-- [ ] Extinction Agenda.
-- [ ] Under Pressure.
-- [ ] Breaking and Entering.
-- [ ] I Will Never Leave You...
-- [ ] ...That's A Promise.
-- [ ] One Big Bug.
-- [ ] Get to The Chopper!.
-- [ ] Game Over, Man!.
+- [ ] 22/22 civils disponibles recoltes.
+- Si le succes ne tombe pas dans les Ruins : recharge le chapitre, verifie
+  d'abord les quatre lemmings 02, 09, 15 et 17, puis les portes de fuite des
+  plaques. Ne compte pas le civil inaccessible du Lab.
 
-MULTIJOUEUR / GATE EXTERNE
+12. SUCCES DE COMBAT ET QUOTAS
 
-- [ ] Welcome to The War : terminer un premier ranked Deathmatch.
-- [ ] Killer Instinct : gagner un premier ranked Deathmatch.
-- [ ] Welcome to The Party : 6 000 XP en ranked.
-- [ ] Scatter Shot : 20 eliminations d'equipe en moins de 60 secondes en
-  Survivor.
+MARINE
+
+- [ ] Gunslinger : 30 eliminations au pistolet. Utilise-le dans Colony et sur
+  les cibles isolees ; le compteur est cumulatif.
+- [ ] Elite Sniper : 10 tirs a la tete au fusil a lunette. Jungle et Ruins
+  sont les zones les plus propres ; vise les andro ides immobiles.
+- [ ] I Like to Keep This Handy : deux ennemis avec un seul tir de shotgun.
+  Attire deux cibles dans un couloir, recule et tire a courte distance.
+- [ ] Let's Rock! : cinq ennemis avec une rafale de Smartgun. La defense des
+  Ruins ou le pont de Pyramid donne une vraie vague compacte.
+
+PREDATOR
+
+- [ ] Stick Around : 20 eliminations au Combi Stick. Commence ce quota des que
+  l'arme est disponible, en isolant les Marines.
+- [ ] Spin Doctor : deux ennemis avec un seul lancer de Battle Disc. Attends
+  une ligne de deux ennemis, lance a hauteur de torse et recharge le chapitre
+  si le tir ne valide pas.
+
+13. DIFFICULTES HARD ET NIGHTMARE
+
+REGLE GENERALE
+
+- Hard et Nightmare se valident a la fin de la campagne correspondante.
+- Nightmare ne propose pas le confort d'un run normal : une mort renvoie au
+  debut du chapitre. Apprends d'abord les salles et les points de munitions.
+- Ne combine pas un run de difficulte avec les civils si tu risques de leur
+  laisser une porte de fuite ouverte.
+
+MARINE - HARD
+
+- [ ] Stay Frosty : campagne Marine terminee en Hard.
+- Preparation : Club, ascenseur de Colony, defense Van Zandt, Queen de
+  Refinery, arene de Ruins, Praetorian et Pyramid sont les fenetres de risque.
+- Sur Nightmare, economise les grenades pour la Queen, le Praetorian et les
+  vagues Smartgun ; recule avant chaque explosion.
+
+ALIEN - HARD
+
+- [ ] I Admire its Purity : campagne Alien terminee en Hard.
+- Le camouflage, les conduits et la regeneration sont plus importants que le
+  nettoyage. Attire une cible, recolte ou elimine, puis remonte.
+- Dans Ruins, reste mobile contre les Predators et garde une hauteur pour
+  regenerer entre deux attaques.
+
+PREDATOR - HARD
+
+- [ ] It Ain't No Man : campagne Predator terminee en Hard.
+- Avant le Battle Disc, joue defensif : cloak, hauteurs et attaques isolees.
+- Contre le Praetorian, monte les colonnes et lance le Disc depuis la hauteur.
+- Contre l'Abomination, pose les mines dans un angle, attends le contact et
+  recommence sans poursuivre.
+
+NIGHTMARE
+
+- [ ] I LOVE the Corps! : Marine Nightmare.
+- [ ] Magnificent, Isn't It? : Alien Nightmare.
+- [ ] One Ugly Mother : Predator Nightmare.
+- [ ] Le run Nightmare n'a pas besoin des collectibles ; le guide recommande
+  un run dedie avec un seul objectif : finir chaque chapitre sans mort.
+
+14. MULTIJOUEUR / GATE EXTERNE
+
+Ces dix succes ne sont pas des objectifs solo. Ils demandent des matchs
+ranked, des joueurs actifs et parfois un groupe coordonne. Ne declare pas le
+100 % local tant que Steam n'affiche pas les notifications.
+
+- [ ] Welcome to The War : jouer et terminer son premier Ranked Deathmatch.
+- [ ] Killer Instinct : gagner son premier Ranked Deathmatch.
+- [ ] Welcome to The Party : atteindre 6 000 XP en Ranked Matches.
+- [ ] Scatter Shot : en equipe, tuer 20 ennemis en moins de 60 secondes dans
+  un match Survivor.
 - [ ] Persecution Complex : obtenir le statut Persecutor plus d'une fois dans
-  un ranked.
-- [ ] Serial Killer : gagner 10 ranked Deathmatch.
-- [ ] Very Tough Hombre : 10 eliminations consecutives sans mourir en ranked.
-- [ ] The Uninfected : terminer un ranked Infestation comme seul humain
-  restant.
-- [ ] Real Nasty Habit : 18 060 XP en ranked.
-- [ ] The Six Pack : jouer avec six amis dans un ranked.
-- Fais ces matchs apres le solo, dans un groupe coordonne. Le jeu peut
-  dependre de serveurs et de joueurs actifs ; si un succes est temporairement
-  impossible, le guide le laisse explicitement en attente au lieu de pretendre
-  a un 100 % hors ligne.
+  un Ranked Match.
+- [ ] Serial Killer : gagner 10 Ranked Matches dans un mode Deathmatch.
+- [ ] Very Tough Hombre : tuer 10 ennemis d'affilee sans mourir dans un Ranked
+  Match.
+- [ ] The Uninfected : finir un Ranked Infestation comme seul humain encore
+  vivant.
+- [ ] Real Nasty Habit : atteindre 18 060 XP en Ranked Matches.
+- [ ] The Six Pack : jouer avec six amis dans un Ranked Match.
 
-CHECKLIST FINALE DES 50 SUCCES
+ORDRE DE SESSION CONSEILLE
 
-01 [ ] Breaking Quarantine        26 [ ] Welcome to The War
-02 [ ] Club Hopper                27 [ ] Elite Sniper
-03 [ ] Come to Mama               28 [ ] Killer Instinct
-04 [ ] Exit Strategy              29 [ ] Welcome to The Party
-05 [ ] It Uses The Jungle         30 [ ] Scatter Shot
-06 [ ] Fallen Comrade             31 [ ] Persecution Complex
-07 [ ] Grunt Hunt                 32 [ ] I Like to Keep This Handy
-08 [ ] Regicide                   33 [ ] Ain't Got Time to Bleed
-09 [ ] Matter of Honor            34 [ ] Let's Rock!
-10 [ ] You Have My Sympathies     35 [ ] I Admire its Purity
-11 [ ] Eyes of The Demon          36 [ ] Stay Frosty
-12 [ ] World of Hurt              37 [ ] Serial Killer
-13 [ ] Alien vs Predator          38 [ ] It Ain't No Man
-14 [ ] Reclaimer                  39 [ ] Very Tough Hombre
-15 [ ] Extinction Agenda          40 [ ] The Uninfected
-16 [ ] Under Pressure             41 [ ] Grim Reaper
-17 [ ] Breaking and Entering      42 [ ] Fortune and Glory
-18 [ ] I Will Never Leave You...  43 [ ] Real Nasty Habit
-19 [ ] Stick Around               44 [ ] Magnificent, Isn't It?
-20 [ ] ...That's A Promise         45 [ ] Harsh Language
-21 [ ] One Big Bug                46 [ ] One Ugly Mother
-22 [ ] Get to The Chopper!        47 [ ] Quite A Specimen
-23 [ ] Spin Doctor                48 [ ] The Six Pack
-24 [ ] Gunslinger                 49 [ ] I LOVE the Corps!
-25 [ ] Game Over, Man!            50 [ ] Not Bad for A Human
+1. Verifie que le mode Ranked trouve bien une partie avant de planifier les
+   quotas XP.
+2. Fais Welcome to The War puis Killer Instinct pendant les premiers matchs.
+3. Garde un groupe de six connectes pour The Six Pack.
+4. Organise un lobby Survivor pour Scatter Shot.
+5. Termine les victoires, le statut Persecutor et les deux paliers XP.
+6. Termine Infestation avec un joueur humain survivant pour The Uninfected.
 
-CHECKLIST COLLECTIBLES ET FIN
+15. INDEX DES 50 SUCCES STEAM
 
-[ ] 67/67 Audio Diaries.
-[ ] 50/50 Royal Jelly Containers.
-[ ] 45/45 Trophy Belts.
-[ ] 3 campagnes completees.
-[ ] 3 campagnes Hard / Nightmare selon les notifications.
-[ ] 10 succes ranked verifies ou marques comme gate externe.
-[ ] Steam affiche 50/50.
+Les conditions ci-dessous sont la transcription fonctionnelle de la fiche Steam.
+Le nom reste en anglais pour correspondre exactement a l'identifiant du profil.
 
-Sources de verification utilisees pour la redaction : statistiques Steam
-officielles, manuel officiel PC et guides de reperage des trois families de
-collectibles. Les emplacements sont reformules en reperes de chapitre et le
-parcours reste sans spoiler.
+01. Breaking Quarantine : s'echapper du Research Lab.
+02. Club Hopper : survivre a la fete du Club.
+03. Come to Mama : liberer la Matriarch.
+04. Exit Strategy : s'echapper de C-Block.
+05. It Uses The Jungle : trouver un chemin a travers Gateway.
+06. Fallen Comrade : trouver les Youngbloods dans la Jungle.
+07. Grunt Hunt : eliminer tous les Marines de la Colony.
+08. Regicide : vaincre la Matriarch.
+09. Matter of Honor : decouvrir le sort de l'Elite Predator.
+10. You Have My Sympathies : aider Van Zandt.
+11. Eyes of The Demon : recuperer l'ancien masque.
+12. World of Hurt : survivre au trial by combat.
+13. Alien vs Predator : creer une nouvelle espece.
+14. Reclaimer : recuperer le second artefact.
+15. Extinction Agenda : detruire l'Abomination.
+16. Under Pressure : resoudre l'enigme des Ruins.
+17. Breaking and Entering : trouver un chemin dans le Research Lab.
+18. I Will Never Leave You... : localiser Tequila.
+19. ...That's A Promise : amener Tequila en chirurgie.
+20. One Big Bug : vaincre le Praetorian.
+21. Get to The Chopper! : recuperer le datapad de Weyland.
+22. Game Over, Man! : terminer les trois campagnes.
+23. Welcome to The War : terminer un premier Ranked Deathmatch.
+24. Elite Sniper : 10 tirs a la tete au fusil a lunette.
+25. Killer Instinct : gagner un premier Ranked Deathmatch.
+26. Welcome to The Party : 6 000 XP en Ranked Matches.
+27. Scatter Shot : 20 eliminations d'equipe en moins de 60 secondes en Survivor.
+28. Persecution Complex : obtenir Persecutor plus d'une fois dans un Ranked.
+29. I Like to Keep This Handy : deux ennemis avec un tir de shotgun.
+30. Ain't Got Time to Bleed : soigner ou regenerer 30 blocs de vie en Survivor.
+31. Let's Rock! : cinq ennemis avec une rafale de Smartgun.
+32. I Admire its Purity : finir la campagne Alien en Hard.
+33. Stay Frosty : finir la campagne Marine en Hard.
+34. Serial Killer : gagner 10 Ranked Deathmatches.
+35. It Ain't No Man : finir la campagne Predator en Hard.
+36. Very Tough Hombre : 10 eliminations consecutives sans mourir en Ranked.
+37. The Uninfected : finir un Ranked Infestation comme seul humain restant.
+38. Grim Reaper : recolter tous les civils disponibles de la campagne Alien.
+39. Fortune and Glory : trouver les 45 Trophy Belts.
+40. Real Nasty Habit : atteindre 18 060 XP en Ranked Matches.
+41. Magnificent, Isn't It? : finir la campagne Alien en Nightmare.
+42. One Ugly Mother : finir la campagne Predator en Nightmare.
+43. Harsh Language : decouvrir les 67 Audio Diaries.
+44. Quite A Specimen : detruire les 50 Royal Jelly Containers.
+45. The Six Pack : jouer avec six amis dans un Ranked Match.
+46. I LOVE the Corps! : finir la campagne Marine en Nightmare.
+47. Not Bad for A Human : obtenir tous les succes Aliens vs Predator.
+48. Stick Around : tuer 20 ennemis avec le Combi Stick.
+49. Spin Doctor : tuer deux ennemis avec un lancer de Battle Disc.
+50. Gunslinger : tuer 30 ennemis avec le pistolet.
+
+16. CHECKLIST FINALE - 50/50 SUCCES STEAM
+
+- [ ] 01. Breaking Quarantine - Research Lab escape.
+- [ ] 02. Club Hopper - Club termine.
+- [ ] 03. Come to Mama - Matriarch liberee.
+- [ ] 04. Exit Strategy - C-Block quitte.
+- [ ] 05. It Uses The Jungle - Gateway traverse.
+- [ ] 06. Fallen Comrade - Youngbloods retrouves.
+- [ ] 07. Grunt Hunt - Colony nettoyee.
+- [ ] 08. Regicide - Matriarch vaincue.
+- [ ] 09. Matter of Honor - sort de l'Elite Predator decouvert.
+- [ ] 10. You Have My Sympathies - Van Zandt aide.
+- [ ] 11. Eyes of The Demon - ancien masque recupere.
+- [ ] 12. World of Hurt - trial by combat survecu.
+- [ ] 13. Alien vs Predator - nouvelle espece creee.
+- [ ] 14. Reclaimer - second artefact recupere.
+- [ ] 15. Extinction Agenda - Abomination detruite.
+- [ ] 16. Under Pressure - enigme des Ruins resolue.
+- [ ] 17. Breaking and Entering - Research Lab atteint.
+- [ ] 18. I Will Never Leave You... - Tequila localisee.
+- [ ] 19. ...That's A Promise - Tequila amenee en chirurgie.
+- [ ] 20. One Big Bug - Praetorian vaincu.
+- [ ] 21. Get to The Chopper! - datapad recupere.
+- [ ] 22. Game Over, Man! - trois campagnes terminees.
+- [ ] 23. Welcome to The War - premier Ranked Deathmatch termine.
+- [ ] 24. Elite Sniper - 10 tirs a la tete.
+- [ ] 25. Killer Instinct - premier Ranked Deathmatch gagne.
+- [ ] 26. Welcome to The Party - 6 000 XP Ranked.
+- [ ] 27. Scatter Shot - 20 eliminations Survivor en moins de 60 secondes.
+- [ ] 28. Persecution Complex - Persecutor obtenu plusieurs fois.
+- [ ] 29. I Like to Keep This Handy - deux ennemis au shotgun.
+- [ ] 30. Ain't Got Time to Bleed - 30 blocs de vie soignes/regeneres en Survivor.
+- [ ] 31. Let's Rock! - cinq ennemis avec une rafale Smartgun.
+- [ ] 32. I Admire its Purity - Alien en Hard.
+- [ ] 33. Stay Frosty - Marine en Hard.
+- [ ] 34. Serial Killer - 10 Ranked Deathmatches gagnes.
+- [ ] 35. It Ain't No Man - Predator en Hard.
+- [ ] 36. Very Tough Hombre - 10 eliminations sans mourir en Ranked.
+- [ ] 37. The Uninfected - seul humain restant en Ranked Infestation.
+- [ ] 38. Grim Reaper - 22 civils disponibles recoltes.
+- [ ] 39. Fortune and Glory - 45 Trophy Belts.
+- [ ] 40. Real Nasty Habit - 18 060 XP Ranked.
+- [ ] 41. Magnificent, Isn't It? - Alien en Nightmare.
+- [ ] 42. One Ugly Mother - Predator en Nightmare.
+- [ ] 43. Harsh Language - 67 Audio Diaries.
+- [ ] 44. Quite A Specimen - 50 Royal Jelly Containers.
+- [ ] 45. The Six Pack - six amis dans un Ranked Match.
+- [ ] 46. I LOVE the Corps! - Marine en Nightmare.
+- [ ] 47. Not Bad for A Human - tous les succes obtenus.
+- [ ] 48. Stick Around - 20 eliminations au Combi Stick.
+- [ ] 49. Spin Doctor - deux ennemis avec un lancer de Battle Disc.
+- [ ] 50. Gunslinger - 30 eliminations au pistolet.
+
+VERIFICATION FINALE
+
+- [ ] Steam affiche 50/50 succes.
+- [ ] 3 campagnes terminees.
+- [ ] Alien : 50/50 Jelly et 22/22 civils disponibles.
+- [ ] Marine : 67/67 Audio Diaries.
+- [ ] Predator : 45/45 Trophy Belts.
+- [ ] Hard : Marine, Alien, Predator.
+- [ ] Nightmare : Marine, Alien, Predator.
+- [ ] Ranked : 10 succes verifies, sans confondre les objectifs XP et victoires.
+
+SOURCES DE CONTROLE
+
+- Liste officielle des succes Steam de l'AppID 10680.
+- Guide de campagne et emplacements Gamepressure pour la structure des
+  missions et les trois familles de collectibles.
+- Index de reperage GameFAQs pour les 67 diaries, les 50 Jelly et les 45 belts.
+- Guide de comptage GameFAQs pour les 22 civils disponibles de Grim Reaper.
+
+Cette fiche est redigee pour etre suivie depuis le lecteur Game Note, avec une
+progression interactive et une version hors ligne. Elle ne remplace pas le
+compteur Steam : a la fin, seul le profil Steam fait foi.
