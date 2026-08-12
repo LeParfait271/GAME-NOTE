@@ -235,6 +235,7 @@ conditions difficiles ; elles ne justifient jamais une copie mot a mot.
   https://gamefaqs.gamespot.com/ps/197341-final-fantasy-vii/faqs/71240/northern-crater
   https://gamefaqs.gamespot.com/ps/197341-final-fantasy-vii/faqs/71240/materia
   https://gamefaqs.gamespot.com/ps/197341-final-fantasy-vii/faqs/71240/enemy-skills
+  https://gamefaqs.gamespot.com/ps/197341-final-fantasy-vii/faqs/71240/shops
   https://steamcommunity.com/sharedfiles/filedetails/?id=180660361
 
 ## FINAL FANTASY IX

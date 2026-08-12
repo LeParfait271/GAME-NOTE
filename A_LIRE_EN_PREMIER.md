@@ -42,6 +42,11 @@ Ce fichier fixe la méthode minimale avant toute modification visible du site.
     jamais convertir les copies MASTER dans une Huge Materia avant le succès.
     La Northern Cave doit décrire les trois branches et le retour sûr au
     Highwind.
+14. Après cette checklist, comparer chaque type de matéria et chaque Enemy Skill
+    à une occurrence de route avec emplacement ou condition. Un nom présent
+    uniquement dans le catalogue ne suffit pas : les achats, récompenses de
+    mini-jeu et compétences apprises sur un ennemi doivent être placés avant
+    leur fenêtre de collecte.
 
 Toute nouvelle règle durable doit être ajoutée à GAME_NOTE_RULES.md et
 transformée en validation automatique quand c'est possible.

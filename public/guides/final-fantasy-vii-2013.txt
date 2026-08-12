@@ -550,7 +550,7 @@ Mythril Mines, ordre de collecte :
 - [COFFRE] Après la scène des Turks, passe par la porte nord : Elixir puis
   Hi-Potion avant de remonter par la liane de sortie.
 - [MANQUABLE] Ark Dragon dans les salles des mines : équipe Enemy Skill et
-  apprends Flamethrower lorsqu'il l'utilise.
+  apprends Flame Thrower lorsqu'il l'utilise.
 
 Fort Condor, bataille n°1 : accepte d'aider à l'entrée, parle au commandant et
 gagne la défense. Le placement le plus simple consiste à poser rapidement des
@@ -567,7 +567,7 @@ AVANT DE SORTIR
 
 - [COFFRE] Long Range, Ether, Tent, Mind Source, Elixir, Hi-Potion et Magic Comb
   sont contrôlés dans l'ordre.
-- [MANQUABLE] Flamethrower est appris ; Yuffie est recrutée sans ouvrir le menu
+- [MANQUABLE] Flame Thrower est appris ; Yuffie est recrutée sans ouvrir le menu
   devant elle et Boomerang est volé si tu veux la route d'équipement complète.
 - La sauvegarde PRINCIPALE est faite avant Lower Junon.
 
@@ -618,6 +618,9 @@ séquence de salutations si tu veux conserver une branche pour chaque résultat.
 
 Objets de la ville avant de monter sur le Cargo Ship :
 
+- [COFFRE] Boutique de matérias de Junon n°1, dans le village : achète Seal et
+  Revive. Ce sont des types de Materia Overlord vendus ici ; si tu les oublies,
+  la boutique de matérias de Costa del Sol les revend encore avant Whirlwind Maze.
 - [COFFRE] Maison avec le soldat dissimulé par l'escalier : passe dans la pièce
   suivante et prends la deuxième Enemy Skill Materia.
 - [COFFRE] Même bâtiment, 2e étage : Mind Source et 1/35 Soldier.
@@ -633,8 +636,8 @@ faire progresser séparément ; la route principale continue avec la première.
 
 AVANT DE SORTIR
 
-- [COFFRE] Shinra uniform, les deux Enemy Skill Materia, Mind Source, les deux
-  1/35 Soldier, Power Source, Guard Source, Speed Source et Headband sont
+- [COFFRE] Seal, Revive, Shinra uniform, les deux Enemy Skill Materia, Mind Source,
+  les deux 1/35 Soldier, Power Source, Guard Source, Speed Source et Headband sont
   contrôlés.
 - La récompense de parade est notée et la sauvegarde PRINCIPALE est faite avant
   de monter sur le Cargo Ship.
@@ -681,6 +684,8 @@ Objets et achats :
 
 - [COFFRE] Sous-sol de la maison reliée au pont : Fire Ring, Power Source et
   Motor Drive, l'arme de Tifa. Prends les trois avant de remonter.
+- [COFFRE] Boutique de matérias dans la caravane près de la maison de Johnny :
+  si Junon a été oubliée, achète Revive et Seal avant de poursuivre vers Mt. Corel.
 - Boutique d'armes : Platinum Bangle est disponible dans le bar au sud-ouest ;
   son double gain d'AP compense sa défense plus faible pendant la prochaine
   partie du parcours.
@@ -971,7 +976,7 @@ Fouilles utiles après Lunar Harp :
 - Après le retour de Cloud à Mideel, reviens creuser Key to Sector 5 dans les
   sites de trésor normal ; elle ouvre le nettoyage de Midgar au disque 2.
 
-Sleeping Forest : sur le deuxième écran, prends Kujata Materia si elle n'a pas
+Sleeping Forest : sur le deuxième écran, prends Kjata Materia si elle n'a pas
 encore été ramassée. Sur le troisième écran, récupère Water Ring avant le tronc.
 Dans la forêt du tronc, vole ou gagne Dazers sur Boundfat ; garde-en au moins un
 pour la préparation de Ruby Weapon.
@@ -990,7 +995,7 @@ City of the Ancients :
 
 AVANT DE SORTIR
 
-- [COFFRE] Lunar Harp, Buntline, Megalixir, Mop, Kujata, Water Ring, Dazers,
+- [COFFRE] Lunar Harp, Buntline, Megalixir, Mop, Kjata, Water Ring, Dazers,
   Magic Source, Aurora Armlet, Guard Source, Elixir, troisième Enemy Skill,
   Comet, les deux récompenses Fort Condor et Wizard Bracelet sont contrôlés.
 - [MANQUABLE] La sauvegarde AVANT MISSABLE est conservée avant la zone finale ;
@@ -1424,6 +1429,11 @@ les six écuries au Chocobo Ranch pour 60 000 gils, achète des Reagan Greens et
 des Sylkis Greens au Chocobo Sage, vole trois Carob Nuts à Vlakorados près de
 Bone Village et une Zeio Nut aux Goblins de l'île du nord-est.
 
+- Sur l'île des Goblins, équipe Enemy Skill et laisse un Goblin utiliser Goblin
+  Punch sur le porteur de la Materia à compléter. Le détour se combine avec le
+  vol de la Zeio Nut ; Goblin Punch n'est pas une fenêtre unique, mais l'apprendre
+  ici ferme immédiatement le contrôle de cette compétence.
+
 Route classique, avec sauvegarde avant chaque accouplement :
 
 - Capture quatre Great Chocobos autour de Mideel, avec un ou deux Spiral. Au
@@ -1515,7 +1525,7 @@ par les plantes, la ruche ferme les pièges carnivores et le stamen sert de cord
   ruche et place la ruche dans le piège. [COFFRE] Prends Slash-All Materia,
   puis utilise la grenouille dans la plante de droite pour sortir.
 - Écran 3 : prends l'insecte du fond, utilise les deux plantes et monte dans les
-  arbres. Va gauche, haut, droite, traverse les cordes et prends [COFFRE] Typhon
+  arbres. Va gauche, haut, droite, traverse les cordes et prends [COFFRE] Typhoon
   Materia. Reviens à gauche, sors par le sud-ouest et prends [COFFRE] Minerva
   Band. Retourne aux arbres, descends par le tronc central et la corde.
 - Écran 3, retour : utilise l'insecte dans la plante de droite, prends la ruche
@@ -1527,7 +1537,7 @@ par les plantes, la ruche ferme les pièges carnivores et le stamen sert de cord
 
 AVANT DE SORTIR
 
-- [COFFRE] Supershot ST, Spring Gun Clip, Slash-All, Typhon, Minerva Band,
+- [COFFRE] Supershot ST, Spring Gun Clip, Slash-All, Typhoon, Minerva Band,
   Apocalypse et Elixir sont contrôlés avant de quitter la forêt.
 - [SAUVEGARDE] La sauvegarde NETTOYAGE est faite après Gelnika et Ancient Forest,
   avant le raid de Midgar.
@@ -1695,6 +1705,9 @@ de la route principale.
 
 Autres matérias de la zone Gold Saucer à fermer avant le grind :
 
+- [COFFRE] Battle Square : après le Whirlwind Maze, échange 250 BP contre Enemy
+  Lure. Le même type est aussi proposé plus cher aux paliers précédents ; prends
+  la récompense à 250 BP sur cette route de nettoyage.
 - [COFFRE] À Chocobo Square, gagne des courses de haut rang jusqu'à obtenir
   Enemy Away et Sneak Attack ; Magic Counter peut aussi être reçu ici, mais la
   copie de la Northern Cave est plus sûre.
@@ -1705,8 +1718,8 @@ Autres matérias de la zone Gold Saucer à fermer avant le grind :
 AVANT DE SORTIR
 
 - [SUCCÈS] Omnislash est appris et utilisé ; Battle Square est validé.
-- [COFFRE] W-Summon, Final Attack, Enemy Away, Sneak Attack, Magic Counter,
-  EXP Plus et Gil Plus sont contrôlés, ainsi que Protect Vest/Choco Feather si
+- [COFFRE] Enemy Lure, W-Summon, Final Attack, Enemy Away, Sneak Attack, Magic
+  Counter, EXP Plus et Gil Plus sont contrôlés, ainsi que Protect Vest/Choco Feather si
   la bataille obligatoire a été menée jusqu'au bout.
 - [SAUVEGARDE] La sauvegarde BOSS conserve Final Attack + Phoenix et la
   sauvegarde NETTOYAGE reste intacte.
@@ -2027,6 +2040,9 @@ SOURCES DE VÉRIFICATION
 - Index des 83 matérias et des 24 Enemy Skills :
   https://gamefaqs.gamespot.com/ps/197341-final-fantasy-vii/faqs/71240/materia
   https://gamefaqs.gamespot.com/ps/197341-final-fantasy-vii/faqs/71240/enemy-skills
+- Contrôle des boutiques Junon/Costa del Sol et des récompenses de Battle Square :
+  https://gamefaqs.gamespot.com/ps/197341-final-fantasy-vii/faqs/71240/shops
+  https://gamefaqs.gamespot.com/ps/197341-final-fantasy-vii/faqs/71240/gold-saucer
 - Contrôle des 83 types, des quatre exceptions et de la copie Enemy Skill :
   https://steamcommunity.com/sharedfiles/filedetails/?id=180660361
 

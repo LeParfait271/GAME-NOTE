@@ -64,6 +64,9 @@ statique Cloudflare Pages.
   la fiche compte 83 types, 79 maîtrisables, les quatre exceptions à conserver,
   une Enemy Skill complète de 24 compétences et l'interdiction de convertir une
   copie MASTER avant le succès.
+- Le catalogue FFVII ne valide pas un collectible par son seul nom : chacun des
+  83 types de matéria et chacune des 24 Enemy Skills doit avoir une occurrence
+  de route avec emplacement, boutique, récompense ou ennemi d'apprentissage.
 - Pour la phase actuelle, les repères visuels sont activés uniquement sur
   `final-fantasy-vii-2013`. `[COFFRE]` couvre tous les objets à récupérer
   (coffres, matérias, collectibles et récompenses) ; les marqueurs

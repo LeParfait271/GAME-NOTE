@@ -189,8 +189,19 @@ mise à jour est refusé, même si le code ou la fiche fonctionne.
 - Contrôles ajoutés : 83/83 types présents, 79 maîtrisés, quatre exceptions,
   Pandora's Box au premier Dragon Zombie, Final Attack, niveau 99, 99 999 999
   gils et retour à la surface avant la fin.
-- Limite restante : validation ciblée de cette version, des compteurs, des
-  sources et de la construction Pages avant le commit local.
+- Limite restante : l'audit final doit encore confirmer les occurrences de route
+  de chaque type et Enemy Skill, puis la construction Pages avant le commit local.
+
+### Lot FFVII — audit croisé des matérias et Enemy Skills
+
+- Contrôle ajouté : les 83 types ne sont plus seulement listés dans la section
+  Materia Overlord ; Revive, Seal, Enemy Lure, Kjata et Typhoon ont une étape
+  d'obtention explicite, et les 24 Enemy Skills ont toutes une occurrence de
+  route ou de checklist vérifiable.
+- Contrôle de cohérence : le nom du type affiché dans le catalogue est aligné
+  sur la route, notamment Kjata, Typhoon, Flame Thrower et Goblin Punch.
+- Limite restante : validation ciblée de cette passe, construction Pages et
+  commit local avec les trois fichiers de garde-fous.
 
 ## Seuil de profondeur Game Note
 
