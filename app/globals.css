@@ -932,6 +932,13 @@ button {
   gap: 4px;
 }
 
+.reader-tool-kicker {
+  color: var(--coral);
+  font-size: 0.52rem;
+  font-weight: 900;
+  letter-spacing: 0.14em;
+}
+
 .reader-tools-copy label {
   color: var(--navy);
   font-size: 0.68rem;
@@ -1302,6 +1309,13 @@ button {
   border-color: var(--coral);
   color: var(--coral);
   transform: translateY(-1px);
+}
+
+.reader-sidebar-note {
+  margin: -3px 2px 0;
+  color: var(--muted);
+  font-size: 0.58rem;
+  line-height: 1.5;
 }
 
 .reader-document {
