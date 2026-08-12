@@ -19,8 +19,6 @@ type ReaderGuide = {
 
 type GuideMarkerKind =
   | "chest"
-  | "materia"
-  | "object"
   | "save"
   | "missable"
   | "success"
@@ -32,9 +30,7 @@ type GuideMarkerDefinition = {
 };
 
 const GUIDE_MARKERS: Record<GuideMarkerKind, GuideMarkerDefinition> = {
-  chest: { label: "Coffre ou récompense", symbol: "▣" },
-  materia: { label: "Materia", symbol: "◆" },
-  object: { label: "Objet important", symbol: "◈" },
+  chest: { label: "Coffre ou objet à récupérer", symbol: "▣" },
   save: { label: "Sauvegarde conseillée", symbol: "●" },
   missable: { label: "Élément manquable", symbol: "!" },
   success: { label: "Succès ou objectif", symbol: "★" },
@@ -42,7 +38,11 @@ const GUIDE_MARKERS: Record<GuideMarkerKind, GuideMarkerDefinition> = {
 };
 
 const GUIDE_MARKER_TOKENS =
-  /^\s*((?:\[(?:COFFRE|MATERIA|OBJET|SAUVEGARDE|MANQUABLE|SUCCES|BOSS)\]\s*)+)(.*)$/i;
+  /^\s*((?:\[(?:COFFRE|SAUVEGARDE|MANQUABLE|SUCCES|BOSS)\]\s*)+)(.*)$/i;
+
+const GUIDE_MARKER_GUIDE_ID = "final-fantasy-vii-2013";
+const GUIDE_COLLECTIBLE_HEADING =
+  /^(?:coffres?|objets?|items?|materias?|collectibles?|recompenses?)\b/i;
 
 type GuideBlock = {
   id: string;
@@ -106,14 +106,10 @@ const extractGuideMarkers = (value: string) => {
     return { line: value, markers: [] as GuideMarkerKind[] };
   }
 
-  const markers = (match[1].match(/\[(?:COFFRE|MATERIA|OBJET|SAUVEGARDE|MANQUABLE|SUCCES|BOSS)\]/gi) ?? []).map((token) => {
+  const markers = (match[1].match(/\[(?:COFFRE|SAUVEGARDE|MANQUABLE|SUCCES|BOSS)\]/gi) ?? []).map((token) => {
     switch (token.slice(1, -1).toUpperCase()) {
       case "COFFRE":
         return "chest" as const;
-      case "MATERIA":
-        return "materia" as const;
-      case "OBJET":
-        return "object" as const;
       case "SAUVEGARDE":
         return "save" as const;
       case "MANQUABLE":
@@ -142,16 +138,11 @@ const inferGuideMarkers = (
 
   const normalized = normalizeGuideText(text);
   const markers: GuideMarkerKind[] = [];
-  const negatedChest = /(?:aucun|aucune|pas de|sans|n['’]y a pas).*coffre/.test(normalized);
+  const negatedCollectible = /(?:aucun|aucune|pas de|sans|n['’]y a pas).*(?:coffre|objet|materia|collectible|recompense)/.test(normalized);
+  const collectibleMention = /\b(?:coffres?|objets?|items?|materias?|collectibles?|recompenses?)\b/.test(normalized);
 
-  if (sectionMarker === "chest" || (!negatedChest && /\bcoffres?\b/.test(normalized))) {
+  if (sectionMarker === "chest" || (!negatedCollectible && collectibleMention)) {
     markers.push("chest");
-  }
-  if (/\b(?:materia|mat[eé]ria)s?\b/.test(normalized)) {
-    markers.push("materia");
-  }
-  if (/\b(?:objet|objets|item|items)\b/.test(normalized)) {
-    markers.push("object");
   }
   if (/\b(?:sauvegarde|sauvegarder|save)\b/.test(normalized)) {
     markers.push("save");
@@ -200,7 +191,7 @@ const GuideMarkerRow = ({ markers }: { markers?: GuideMarkerKind[] }) => {
   );
 };
 
-const parseGuide = (text: string): GuideBlock[] => {
+const parseGuide = (text: string, markersEnabled: boolean): GuideBlock[] => {
   const blocks: GuideBlock[] = [];
   const lines = text.replace(/\r\n/g, "\n").split("\n");
   let paragraph: string[] = [];
@@ -215,10 +206,12 @@ const parseGuide = (text: string): GuideBlock[] => {
     explicitMarkers: GuideMarkerKind[] = [],
     blockCheckIndex?: number,
   ) => {
-    const markers = uniqueGuideMarkers([
-      ...explicitMarkers,
-      ...inferGuideMarkers(value, kind, sectionMarker),
-    ]);
+    const markers = markersEnabled
+      ? uniqueGuideMarkers([
+          ...explicitMarkers,
+          ...inferGuideMarkers(value, kind, sectionMarker),
+        ])
+      : [];
     blocks.push({
       id: makeBlockId(value, blocks.length),
       kind,
@@ -242,7 +235,9 @@ const parseGuide = (text: string): GuideBlock[] => {
   };
 
   for (const rawLine of lines) {
-    const extracted = extractGuideMarkers(rawLine.trim());
+    const extracted = markersEnabled
+      ? extractGuideMarkers(rawLine.trim())
+      : { line: rawLine.trim(), markers: [] as GuideMarkerKind[] };
     const line = extracted.line;
     const lineMarkers = extracted.markers;
 
@@ -301,7 +296,7 @@ const parseGuide = (text: string): GuideBlock[] => {
         : line;
       pushBlock(kind, value, lineMarkers);
       if (kind === "heading") {
-        sectionMarker = /^(?:coffres?|chests?)\b/i.test(normalizeGuideText(line))
+        sectionMarker = markersEnabled && GUIDE_COLLECTIBLE_HEADING.test(normalizeGuideText(line))
           ? "chest"
           : undefined;
       }
@@ -393,7 +388,11 @@ export default function GuideReader({
   }, [selected.file]);
   /* eslint-enable react-hooks/set-state-in-effect */
 
-  const blocks = useMemo(() => parseGuide(guideText), [guideText]);
+  const markersEnabled = selected.id === GUIDE_MARKER_GUIDE_ID;
+  const blocks = useMemo(
+    () => parseGuide(guideText, markersEnabled),
+    [guideText, markersEnabled],
+  );
   const checklist = useMemo(
     () => blocks.filter((block) => block.kind === "check"),
     [blocks],

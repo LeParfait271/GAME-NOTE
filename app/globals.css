@@ -1542,18 +1542,6 @@ button.reader-neighbor:focus-visible {
   color: var(--gold);
 }
 
-.guide-marker-materia {
-  border-color: color-mix(in srgb, var(--route-ink) 66%, var(--line));
-  background: color-mix(in srgb, var(--route-ink) 12%, var(--card));
-  color: var(--route-ink);
-}
-
-.guide-marker-object {
-  border-color: color-mix(in srgb, var(--blue) 66%, var(--line));
-  background: color-mix(in srgb, var(--blue) 11%, var(--card));
-  color: var(--blue);
-}
-
 .guide-marker-save {
   border-color: color-mix(in srgb, var(--navy-soft) 56%, var(--line));
   background: color-mix(in srgb, var(--navy-soft) 10%, var(--card));

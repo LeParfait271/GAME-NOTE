@@ -31,9 +31,11 @@ statique Cloudflare Pages.
 - Un guide actif doit conserver une route chronologique, son périmètre Steam,
   ses alertes missables et sa règle anti-spoiler. Les guides spéciaux peuvent
   documenter explicitement l'absence de succès Steam.
-- Les repères `[COFFRE]`, `[MATERIA]`, `[OBJET]`, `[SAUVEGARDE]`, `[MANQUABLE]`,
-  `[SUCCES]` et `[BOSS]` sont réservés aux lignes actionnables et doivent
-  rester cohérents avec la légende du lecteur.
+- Pour la phase actuelle, les repères visuels sont activés uniquement sur
+  `final-fantasy-vii-2013`. `[COFFRE]` couvre tous les objets à récupérer
+  (coffres, matérias, collectibles et récompenses) ; les marqueurs
+  `[SAUVEGARDE]`, `[MANQUABLE]`, `[SUCCES]` et `[BOSS]` restent réservés aux
+  alertes correspondantes.
 - Les textes ne doivent pas contenir de caractère de remplacement UTF-8 (�),
   de contenu vide ou de doublon d'identifiant.
 - Les nouvelles cartes doivent garder un nom accessible pour chaque bouton et

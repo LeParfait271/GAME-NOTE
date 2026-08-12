@@ -139,6 +139,10 @@ doit passer `scripts/audit-guide-quality.mjs` et sa relecture manuelle :
 
 ## Repères visuels du lecteur premium
 
+Pour la phase actuelle, ces repères sont activés uniquement sur la fiche
+`final-fantasy-vii-2013`. Aucune autre soluce ne doit être reclassée ou
+enrichie visuellement sans demande explicite.
+
 Les fichiers TXT restent la source hors ligne et doivent rester lisibles sans
 le site. Les repères visuels ajoutés par le lecteur servent uniquement à
 accélérer le balayage d'une route : ils ne remplacent jamais un emplacement,
@@ -147,9 +151,8 @@ une quantité, une condition ou une consigne écrite.
 Le lecteur reconnaît ces marqueurs explicites lorsqu'ils sont placés au tout
 début de la ligne, avant le tiret ou la case à cocher :
 
-- `[COFFRE]` : coffre, récompense ou butin à relever ;
-- `[MATERIA]` : matéria, compétence ou amélioration assimilée ;
-- `[OBJET]` : objet important, interaction ou collectible ;
+- `[COFFRE]` : coffre, matéria, objet, récompense, butin ou collectible à
+  récupérer ;
 - `[SAUVEGARDE]` : sauvegarde manuelle conseillée ;
 - `[MANQUABLE]` : action à faire avant une fenêtre qui se ferme ;
 - `[SUCCES]` : objectif Steam ou étape directement liée ;
@@ -162,10 +165,12 @@ expose une légende accessible et rend les repères recherchables.
 
 Le lecteur déduit aussi automatiquement les repères évidents dans les titres,
 sous-titres, puces et cases à cocher existants. Cette déduction est un filet de
-sécurité pour les fiches déjà rédigées ; pour toute nouvelle information
-critique, le marqueur explicite reste préférable. Ne pas baliser chaque phrase
-qui cite un mot : une icône doit signaler une action concrète et utile à ce
-moment précis de la route.
+sécurité pour la fiche FFVII ; pour toute nouvelle information critique, le
+marqueur explicite reste préférable. Un seul pictogramme couvre les objets à
+trouver : ne pas multiplier les icônes selon le nom de l'objet. Les autres
+icônes restent réservées aux alertes de sauvegarde, de missable, de succès et
+de boss. Une icône doit signaler une action concrète et utile à ce moment précis
+de la route.
 
 ## États autorisés
 
