@@ -1,120 +1,809 @@
 BEYOND: TWO SOULS
-GUIDE CHRONOLOGIQUE 100 % STEAM - SANS SPOILER
+GUIDE CHRONOLOGIQUE COMPLET - 100 % STEAM - SANS SPOILER
 
-Version de travail : 10 aout 2026
+Version editoriale : 12 aout 2026
+Plateforme : Steam - AppID 960990
+Perimetre : ordre chronologique, 22 bonus, choix, fins, Duo et 45 succes.
 
-Ce parcours couvre les 45 succes Steam de l'AppID 960990, les bonus, les
-objets de chapitre, les choix, les fins et le mode Duo. La route demande deux
-parcours complets et quelques reprises de chapitre ; aucun succes en ligne
-n'est necessaire, mais le mode Duo peut utiliser Remote Play Together.
+PROMESSE DE LA FICHE
 
-OBJECTIF
+Beyond est un jeu a chapitres et a embranchements. Cette fiche separe trois
+choses : la route de jeu, les bonus de chapitre et les decisions a reproduire.
+Elle ne raconte pas les revelations ni le resultat narratif des choix ; elle
+donne uniquement le geste, la salle et le moment ou il faut agir.
 
-[ ] 45/45 succes Steam.
-[ ] Premier parcours solo avec tous les bonus et interactions.
-[ ] Second parcours Duo ou reprise pour les objectifs de partenaire.
-[ ] Choix de vie/afterlife, fins et resolutions de chapitres.
-[ ] Toutes les missions techniques : furtivite, combat, possessions et
-    succes de chapitre.
+Le jeu propose un ordre cinematographique et un ordre chronologique. Cette
+fiche utilise l'ordre chronologique, car il evite les retours en arriere et
+rend les deux parcours 100 % plus faciles a suivre.
+
+OBJECTIF 100 %
+
+- 45 succes Steam.
+- 22 bonus de contenu : 20 a ramasser avec Aiden et 2 attribues apres la fin.
+- Une partie Solo propre avec tous les bonus et tous les personnages proteges.
+- Une partie Solo dediee aux six actions d'Uncontrollable.
+- Une partie de Homeless a Black Sun pour la route inverse des personnages.
+- Les 10 sequences de fin comptabilisees dans le menu Epilogue.
+- Une partie complete en Duo pour Together Till the End.
+- Le DLC Advanced Experiments est signale dans la fiche comme contenu bonus.
 
 GARDE-FOUS ABSOLUS
 
-- Joue le premier parcours en Solo, dans l'ordre chronologique propose par
-  le menu. Ne change pas le mode de lecture apres le debut.
-- Les bonus sont collectifs et non tous visibles dans la scene. Scanne les
-  pieces, inspecte les murs, cours, tentes et salles de repos.
-- Avant un chapitre a choix, fais une sauvegarde manuelle. Les succes de
-  fin, de survie et de relation se valident mieux par reprise de chapitre.
-- Le mode Duo se lance depuis l'option de partie. Une seconde manette ou
-  Remote Play peut servir ; l'inventaire des bonus reste partage.
-- Aucun passage ne revele une mort, une identite, une fin, un retournement ou
-  le resultat d'un choix.
+- Commence par une partie Solo en mode Chronological. Ne change pas l'ordre
+  apres le premier chapitre.
+- Fais une sauvegarde manuelle au debut de chaque chapitre et avant chaque
+  decision importante. Le jeu enregistre les bonus immediatement, mais les
+  routes de personnages doivent etre jouees d'un seul tenant.
+- Un bonus se ramasse avec Aiden : approche l'objet, puis utilise l'interaction
+  d'Aiden. Quitter au menu apres la collecte suffit pour conserver le bonus.
+- Le total de bonus est 22, mais seuls 20 objets sont ramassables. Les deux
+  derniers sont attribues automatiquement apres la fin de l'histoire.
+- Les succes qui couvrent plusieurs chapitres ne se font pas par un simple
+  saut dans le menu. Une nouvelle partie complete est signalee RUN COMPLETE.
+- Pour les fins, choisis Save lorsque le jeu le propose. Quitter avec No Save
+  peut afficher la scene sans l'inscrire correctement dans Epilogue.
+- Les QTE ne sont pas de simples decorations : rate ou reussis uniquement ce
+  qui est indique dans la route active.
+- Le Duo demande deux entrees distinctes. Teste la manette d'Aiden avant de
+  lancer le parcours complet.
 
-MISSABLES A SECURISER
+MISSABLES ET FENETRES DE REPRISE
 
-- Bonus de chapitres, choix de compassion, succes de furtivite/combat,
-  scenes avec partenaires et toutes les fins. Les reprises de chapitre
-  permettent de corriger la plupart des oublis.
+- Les bonus doivent etre ramasses avec Aiden avant la transition de chapitre.
+  Si un bonus manque, rejoue le chapitre, ramasse-le, puis quitte au menu.
+- Obedience, Revenge, Cold Blood, Sorry, Not My Father, Clean Job,
+  Possessive Spy, Perfect Lover et Casual Girl sont des choix incompatibles :
+  reserve une sauvegarde et fais une reprise separee.
+- Fight Apprentice et Stealth Apprentice demandent une session CIA propre.
+  Recharge Welcome to the CIA si le compteur de coups ou l'alerte est rate.
+- Catch Me if You Can, Stealth Master, Aiden's Apocalypse et Houdini sont
+  quatre reprises distinctes dans Hunted ; ne tente pas de les forcer ensemble.
+- Saved All, A Better World, Entities Master et Uncontrollable demandent une
+  continuite de chapitres. Chapter Select seul ne remplace pas une nouvelle
+  partie complete.
+- Les fins doivent etre sauvegardees dans Epilogue. Controle la vignette apres
+  chaque route avant d'en lancer une autre.
 
-ORDRE DE PARTIE
+ROUTES DE 100 %
 
-1. Parcours Solo chronologique avec bonus et bonnes interactions.
-2. Reprises de chapitres pour les choix et objectifs techniques.
-3. Parcours Duo complet.
-4. Toutes les fins et les succes de conclusion.
+RUN 1 - SOLO PROPRE
 
-PARCOURS SOLO - ENFANCE ET FORMATION
+- [ ] Lance une nouvelle partie en Chronological, Solo.
+- [ ] Ramasse les 20 bonus physiques dans les chapitres ci-dessous.
+- [ ] Fais tous les combats et toutes les rencontres d'entites sans echec.
+- [ ] Protege les personnages indiques dans la route Saved All.
+- [ ] Termine l'histoire, choisis une premiere fin, puis verifie Explorer si
+  les deux bonus automatiques sont apparus.
 
-- Dans les scenes d'enfance, fouille chaque piece, ramasse les objets visibles
-  et utilise le pouvoir d'Aiden sur les points interactifs.
-- Pour les succes de furtivite, ne declenche pas l'alarme, reste dans les
-  zones d'ombre et utilise les actions contextuelles.
-- Dans les entrainements, reussis les actions de combat, soigne, possede et
-  protege les allies. Les actions ratees se reprennent par chapitre.
+RUN 2 - ACTIONS EVIL
 
-PARCOURS SOLO - MISSIONS ET VOYAGES
+- [ ] Lance une nouvelle partie, sans utiliser Chapter Select pour sauter une
+  etape, et pars de The Experiment jusqu'a The Dinner.
+- [ ] Reproduis les six actions signalees EVIL RUN dans le meme parcours.
+- [ ] Cette route donne Uncontrollable et couvre aussi les choix Revenge,
+  Not My Father et Cold Blood si tu les as alignes.
 
-- Chaque scene possede une liste de bonus. Utilise Aiden pour tourner les
-  objets, ouvrir les portes, lire les souvenirs et trouver les zones hors
-  chemin.
-- Dans les missions d'infiltration, fais la version furtive une fois, puis
-  recharge pour les succes de combat si la liste les demande.
-- Les succes de chapitre comme Catch Me If You Can, Clean Job, Portal
-  Shutdown et Smart Thief sont plus simples en sauvegardes dediees.
-- Les actions avec les partenaires comptent : soigne, protege, libere et
-  utilise la bonne interaction sans quitter la scene.
+RUN 3 - ROUTE OPPOSÉE
 
-BONUS ET COLLECTION
+- [ ] Repars de Homeless et joue sans sauter de chapitre jusqu'a Black Sun.
+- [ ] Laisse les personnages indiqués dans la route A Better World suivre la
+  route inverse, puis choisis Afterlife.
+- [ ] Recharge ensuite Black Sun pour les variantes de fin sans refaire toute
+  la campagne.
 
-- Fais une liste par chapitre et par scene. Les bonus sont souvent dans les
-  chambres, couloirs, cuisines, tentes et arrieres-cours.
-- Certains bonus apparaissent seulement apres une interaction ou un choix.
-  Recharge le debut du chapitre si le marqueur n'est pas dans le menu.
-- Verifie le total de bonus et les 22 bonus accessibles par exploration ; les
-  derniers sont attribues par la progression de l'histoire.
+RUN 4 - DUO
 
-REPRISES DE CHAPITRE
+- [ ] Depuis une nouvelle partie, choisis Duo avant de lancer le premier
+  chapitre.
+- [ ] Attribue Jodie a la souris/clavier et Aiden a une manette differente.
+- [ ] Termine l'histoire sans repasser en Solo. Cela valide Two Souls puis
+  Together Till the End.
 
-- Rejoue les chapitres avec objectif de combat : gagne les affrontements,
-  utilise les objets et valide les actions d'Aiden.
-- Rejoue les chapitres avec objectif de furtivite : aucun garde alerte,
-  aucun tir inutile et sorties propres.
-- Pour les choix de vie et d'afterlife, garde une sauvegarde avant l'ecran de
-  decision. Termine une resolution puis recharge pour l'autre.
-- Les succes de fin se cumulent si la notification apparait avant de quitter
-  le chapitre final.
+ORDRE CHRONOLOGIQUE COMPLET
 
-MODE DUO
+1. My Imaginary Friend...
+2. First Interview
+3. First Night
+4. Alone
+5. The Experiment
+6. Night Session
+7. Hauntings
+8. The Party
+9. Like Other Girls
+10. The Condenser
+11. Separation
+12. Welcome to the CIA
+13. Advanced Experiments (DLC, optionnel)
+14. The Embassy
+15. The Dinner
+16. The Mission
+17. Hunted
+18. Homeless
+19. Broken
+20. Navajo
+21. Old Friends
+22. Norah
+23. Briefing
+24. Dragon's Hideout
+25. Black Sun
+26. Prologue
+27. Epilogue
 
-- Lance Duo depuis le menu, attribue Jodie a la manette principale et Aiden a
-  la seconde. Fais les scenes dans l'ordre et alterne les actions.
-- Le Duo valide les succes Two Souls et les objectifs de cooperation, mais
-  ne remplace pas les collectibles du Solo. Continue de fouiller les scenes.
-- Remote Play Together fonctionne si le jeu et le reseau l'autorisent ; teste
-  la seconde entree avant de commencer le parcours complet.
+CHAPITRE 1 - MY IMAGINARY FRIEND...
 
-FIN ET SUCCES TECHNIQUES
+ZONE : maison et jardin d'enfance
 
-- Chose Life, Chose Afterlife et All Endings demandent les reprises des
-  conclusions. Utilise les sauvegardes de chapitre pour eviter plusieurs
-  parcours inutiles.
-- Saved All et Together Till the End dependent des personnages sauvegardes
-  et des choix de chapitre. Fais un parcours protege, puis une reprise
-  controlee pour l'autre route.
-- Aiden's Apocalypse, Houdini, Perfect Lover, Possessive Spy, In Love with
-  Ryan et Casual Girl se font sur des chapitres precis ; garde le point de
-  depart et valide la notification avant de quitter.
+- [ ] Explore la cuisine, le salon et les chambres avant de suivre le chemin
+  de la scene. Fais tourner Aiden autour des meubles pour voir les interactions.
+- [ ] Dans la cuisine, fais les trois actions de Teammates : fais leviter les
+  chaises avec Aiden, allume la radio avec Aiden, puis demande un cookie avec
+  Jodie et ouvre le bocal avec Aiden.
+- [ ] Pour la route propre, ne blesse pas l'enfant qui attaque Jodie. Pour
+  EVIL RUN, possede-le puis utilise l'action d'etouffement au moment indique.
+- [ ] Dans le jardin et la neige, examine les cabanes, les arbres et les
+  barrieres avec Aiden avant de revenir vers Jodie.
+- [ ] Termine le chapitre pour valider Teammates. Le succes est lie aux trois
+  farces, pas au nombre d'objets detruits.
+- [ ] BONUS : aucun des 20 objets physiques n'est attribue ici. Le chapitre
+  sert de verrou pour la route Uncontrollable et les habitudes d'Aiden.
+
+CONTROLE CHAPITRE 1
+
+- Teammates doit etre valide sur la partie active.
+- La route propre garde la famille en vie ; EVIL RUN utilise l'action marquee.
+- Ne saute pas le chapitre dans Run 2 : Uncontrollable commence ici dans la
+  continuite de la partie.
+
+CHAPITRE 2 - FIRST INTERVIEW
+
+ZONE : salle d'entretien et couloirs du centre
+
+- [ ] Laisse la scene se derouler et reponds aux QTE sans modifier la route
+  de sauvegarde. Ce chapitre n'a pas de bonus physique.
+- [ ] Avec Aiden, examine les murs, la table, la vitre et les portes avant
+  chaque changement de piece. Les interactions servent au contexte mais ne
+  remplacent pas un bonus.
+- [ ] Termine le chapitre et conserve la sauvegarde pour le prochain retour.
+- [ ] Controle le menu Additional Content > Bonus uniquement apres les chapitres
+  qui contiennent un objet : un compteur stable est plus lisible.
+
+CHAPITRE 3 - FIRST NIGHT
+
+ZONE : maison, couloirs et chambres
+
+- [ ] Inspecte chaque chambre avec Aiden avant de revenir vers Jodie. Les
+  objets de la maison sont des interactions de route, pas des bonus physiques.
+- [ ] Dans les sequences d'attaque, protege Jodie en priorité. Ne poursuis pas
+  un objet si l'indicateur de mission te demande de la rejoindre.
+- [ ] Pour Entities Master, ne rate aucune rencontre d'entites de ce chapitre.
+  Utilise les poussées et les rotations d'Aiden sans laisser Jodie seule.
+- [ ] Pour la route propre, reussis tous les QTE qui protegent Jodie. Pour la
+  route A Better World, ce chapitre n'ajoute pas de personnage a la liste.
+- [ ] Termine la scene, puis sauvegarde. Together Forever se valide apres
+  avoir protege Jodie contre ses agresseurs.
+
+CHAPITRE 4 - ALONE
+
+ZONE : maison et salon
+
+- [ ] Observe les pieces avec Aiden et attends la sortie du pere de Jodie.
+  Pour Sorry, n'interagis pas avec lui et laisse la scene se terminer.
+- [ ] Pour Not My Father, recharge le chapitre et utilise Aiden pour etouffer
+  Philip apres son depart. Ne combine pas les deux choix dans la meme reprise.
+- [ ] EVIL RUN : etouffe Philip dans le parcours qui part de The Experiment et
+  se termine a The Dinner. L'action doit rester dans la meme partie.
+- [ ] Fouille le salon, la chambre et le couloir avec Aiden avant la transition.
+  Il n'y a pas de bonus physique a ramasser dans ce chapitre.
+- [ ] Termine la reprise active et verifie la notification avant de revenir
+  au menu. Les succes de choix peuvent tomber au chargement suivant.
+
+CHAPITRE 5 - THE EXPERIMENT
+
+ZONE : laboratoire d'experimentation
+
+- [ ] BONUS 1 - Design Pack #1 : au debut de la salle d'experimentation,
+  envoie Aiden a droite de Jodie et cherche sous le bureau des scientifiques.
+  Approche l'objet avec Aiden pour l'ajouter au menu Bonus.
+- [ ] Pour Somebody Else?, prends le controle d'Aiden lorsque le jeu l'autorise.
+- [ ] Pour Obedience, dans la seconde salle, detruis les objets avec Aiden
+  jusqu'a ce que l'ordre STOP soit donne, puis relache Aiden et arrete
+  volontairement l'experience avant l'ouverture de la porte.
+- [ ] Pour Entities Apprentice, gagne la confrontation d'entites du chapitre.
+  Le succes se valide apres la fin de la sequence, pas au premier contact.
+- [ ] EVIL RUN : detruis assez d'objets pour rendre la femme vulnerabilisee,
+  puis utilise l'action d'etouffement avec Aiden.
+- [ ] Fais une sauvegarde apres le bonus et apres la notification. Le bonus
+  est conserve meme si tu quittes au menu, mais l'action de route doit etre
+  rejouee pour l'autre parcours.
+
+CHAPITRE 6 - NIGHT SESSION
+
+ZONE : laboratoire, chambre et toit
+
+- [ ] Commence par la chambre de Jodie. Avec Aiden, examine les portes, le
+  bureau et les fenetres avant de suivre la transition du chapitre.
+- [ ] BONUS 17 - The Gameplay in Beyond Two Souls : lorsque le controle passe
+  a Aiden sur le toit, regarde le toit du batiment en face de Jodie. Le bonus
+  est pose sur le dessus et se voit avant de revenir vers elle.
+- [ ] BONUS 18 - Design Pack #11 : dans le batiment en face, monte au second
+  etage et prends l'objet sur la droite de la piece.
+- [ ] Pour la route propre, termine la scene sans detruire les objets utiles.
+  Pour EVIL RUN, les destructions deja comptees dans The Experiment restent
+  suffisantes ; ne change pas la route par erreur ici.
+- [ ] Sauvegarde une fois les deux bonus valides. Le menu bonus doit montrer
+  deux nouvelles vignettes dans ce chapitre.
+
+CHAPITRE 7 - HAUNTINGS
+
+ZONE : batiment hante et couloirs
+
+- [ ] Fouille chaque piece avec Aiden : portes, escaliers, couloirs, meubles
+  et pieces laterales. Ce chapitre ne contient pas de bonus physique.
+- [ ] Les interactions servent a ouvrir la route ; ne confonds pas un objet
+  temporaire avec un bonus du menu Additional Content.
+- [ ] Pour la partie propre, neutralise les entites dans chaque salle et
+  protege Jodie. Ce chapitre compte pour Entities Master.
+- [ ] Pour la partie Duo, laisse les deux joueurs alterner les actions au lieu
+  de reprendre le controle de l'autre personnage.
+- [ ] Termine la sequence avant le prochain chapitre et controle les succes
+  Entities si une notification etait en attente.
+
+CHAPITRE 8 - THE PARTY
+
+ZONE : maison de fete, escalier, salon et cuisine
+
+- [ ] BONUS 2 - Design Pack #2 : dans l'entree, pars a droite de l'endroit
+  ou Jodie est entree et cherche l'objet au sol.
+- [ ] Refuse ou accepte les demonstrations selon la route. Pour Cold Blood,
+  ne cherche pas a impressionner ni a effrayer les adolescents avec Aiden.
+- [ ] Pour Revenge, apres la liberation de Jodie, choisis l'option de revanche,
+  puis apprends une lecon a au moins trois adolescents ou declenche le feu.
+- [ ] EVIL RUN : choisis Revenge, attaque les adolescents et allume le feu
+  avec une bougie ou la cuisiniere. Cette action doit rester dans la continuite.
+- [ ] Pour la route propre et les fins, quitte la maison sans tuer ni blesser
+  les adolescents. Fais une reprise dediee pour Revenge si necessaire.
+- [ ] Controle : Bonus 2 ramasse, Cold Blood ou Revenge selon la route, et
+  aucune decision de cette scene ne doit etre improvisee pendant Run 1.
+
+CHAPITRE 9 - LIKE OTHER GIRLS
+
+ZONE : chambre, dortoir et sortie nocturne
+
+- [ ] Explore la chambre et les couloirs avec Aiden avant de suivre la sortie.
+  Il n'y a pas de bonus physique dans ce chapitre.
+- [ ] Pour la route propre, reussis les interactions de protection et de
+  fuite ; garde une sauvegarde avant la decision de quitter le batiment.
+- [ ] Pour le nettoyage des succes, utilise Chapter Select uniquement pour
+  les objectifs locaux. Les actions liees a Uncontrollable ne sont pas
+  remplacees par une reprise isolee.
+- [ ] Termine la scene et verifie que le chapitre suivant est bien Separation
+  dans l'ordre chronologique.
+CHAPITRE 10 - THE CONDENSER
+
+ZONE : complexe scientifique, couloirs brules, salle de controle
+
+- [ ] BONUS 6 - Design Pack #6 : dans Frozen Corridor, prends la derniere
+  salle a gauche et cherche l'objet pres du bureau.
+- [ ] BONUS 11 - The Origins of Beyond Two Souls : dans le laboratoire,
+  passe de l'autre cote du miroir et ramasse le bonus au sol.
+- [ ] Pour Portal Shutdown, atteins le portail et coupe-le avec Aiden. Ne
+  quitte pas le complexe avant la fin de la sequence.
+- [ ] Pour Channeling Master, canalise les 8 corps morts dans cet ordre
+  pratique : ascenseur d'entree, salle derriere la premiere porte ouverte par
+  Aiden, salle des serveurs, bureau en feu apres la bouche d'aeration,
+  corps pres du distributeur, pompier dans la meme zone, couloir apres le
+  scientifique possede, puis salle de controle du condenseur.
+- [ ] Pour Entities Master, reussis chaque combat contre les entites de ce
+  chapitre. Protège Jodie pendant les transitions et ne laisse pas un corps
+  sans interaction si tu vises Channeling Master.
+- [ ] La partie propre doit conserver le compteur de corps a 8/8 avant la
+  sortie. Les corps se canalisent avec Jodie ; Aiden ne valide pas l'action.
+- [ ] Sauvegarde apres les deux bonus, les 8 corps et la fermeture du portail.
+
+CHAPITRE 11 - SEPARATION
+
+ZONE : laboratoire et pieces de transition
+
+- [ ] Explore les salles avec Aiden avant les transitions. Aucun bonus physique
+  n'est present dans ce chapitre.
+- [ ] La route propre conserve les choix de protection et de relation. Ne
+  modifie pas cette scene pendant la partie A Better World.
+- [ ] Pour Entities Master, verifie que tous les combats du Condenser et de
+  First Night sont reussis ; Separation ne remplace pas une rencontre ratee.
+- [ ] Termine le chapitre et conserve la sauvegarde pour le parcours CIA.
+
+CHAPITRE 12 - WELCOME TO THE CIA
+
+ZONE : centre d'entrainement, parcours physique, combat et infiltration
+
+- [ ] Commence par le parcours physique et valide la majorite des exercices
+  sans erreur pour Perfect Soldier. Suis les gestes de Jodie plutot que de
+  memoriser une combinaison fixe.
+- [ ] Dans les sections de combat, limite les coups recus a moins de 5 sur
+  l'ensemble du chapitre pour Fight Apprentice. Les QTE ralentissent le temps :
+  attends le mouvement puis reproduis-le.
+- [ ] Dans l'entrainement furtif, ne te fais jamais reperer pour Stealth
+  Apprentice. Utilise Aiden pour distraire le premier garde, puis fais les
+  takedowns derriere les couvertures dans l'ordre du parcours.
+- [ ] Route furtive : premier garde distrait par Aiden, deuxieme et troisieme
+  neutralises depuis leur couverture, echelle, quatrieme par derriere, puis
+  dernier garde depuis le dessus du conteneur.
+- [ ] Route combat : recharge le chapitre apres avoir valide la furtivite et
+  termine les combats d'entrainement sans depasser cinq coups.
+- [ ] Le chapitre ne contient pas de bonus physique. Termine-le entierement
+  avant de passer a l'ambassade.
+
+CHAPITRE 13 - ADVANCED EXPERIMENTS (DLC)
+
+ZONE : laboratoire d'experiences supplementaires
+
+- [ ] Ce chapitre est un bonus de la version PC et ne porte pas de succes
+  Steam propre dans la liste AppID 960990.
+- [ ] Termine les experiences en Solo pour voir le contenu, puis refais-les
+  en Duo si tu veux une route de test a deux joueurs.
+- [ ] Les interactions d'Aiden sont locales a ce chapitre et ne comptent pas
+  pour Uncontrollable, qui se ferme a The Dinner.
+- [ ] Aucun des 22 bonus de l'Explorer n'est requis dans ce chapitre. Verifie
+  le menu Additional Content avant de quitter.
+
+CHAPITRE 14 - THE EMBASSY
+
+ZONE : entree, deuxieme etage, salle de surveillance et bureau de Sheik
+
+- [ ] BONUS 3 - Beyond Two Souls Trailer : dans le bureau de Sheik, pars a
+  droite de l'entree et prends l'objet au sol.
+- [ ] BONUS 4 - Design Pack #3 : dans le laboratoire, pars a droite, traverse
+  la porte et ramasse le bonus au sol.
+- [ ] Pour Clean Job, coupe le moniteur avec Aiden et termine la mission en
+  utilisant uniquement Aiden. Perturbe la surveillance, ouvre le bureau,
+  desactive le scanner et fais lire les documents a Jodie.
+- [ ] Pour Possessive Spy, recharge le chapitre et termine la meme mission en
+  utilisant uniquement le Sheik possede. Ne fais pas l'approche Aiden de la
+  route Clean Job pendant cette reprise.
+- [ ] EVIL RUN : au deuxieme etage, possede le garde et fais-le sauter par la
+  rambarde. Cette action compte dans la continuite d'Uncontrollable.
+- [ ] Pendant la route propre, reste furtif dans les couloirs et ne declenche
+  pas une alerte inutile. Les deux succes de methode se font sur deux reprises.
+- [ ] Controle : Bonus 3 et 4, Clean Job, Possessive Spy et la decision EVIL
+  gardee pour Run 2.
+
+CHAPITRE 15 - THE DINNER
+
+ZONE : appartement de Jodie, cuisine, salle de bain et salon
+
+- [ ] BONUS physique : aucun dans ce chapitre. Explore chaque piece avant
+  l'arrivee de Ryan et attends la fin de la conversation.
+- [ ] Pour Perfect Lover, cuisine le repas, nettoie l'appartement, prends une
+  douche, porte la robe elegante et mets de la musique.
+- [ ] Pour Casual Girl, recharge le chapitre et commande une pizza, regarde
+  la television et porte une tenue decontractee. Ne melange pas les deux
+  configurations dans la meme reprise.
+- [ ] Pour Never Alone, commence au moins une romance : embrasse Ryan pendant
+  cette scene ou reserve la romance de Jay pour Navajo.
+- [ ] EVIL RUN : provoque assez de chaos avec Aiden pour que Ryan se sente mal
+  a l'aise et quitte l'appartement. Cette action ferme la sixieme condition
+  d'Uncontrollable.
+- [ ] Termine le chapitre dans la route active et verifie la notification
+  avant de quitter. Uncontrollable ne tombe qu'apres la continuite complete
+  The Experiment -> The Dinner.
+
+CHAPITRE 16 - THE MISSION
+
+ZONE : briefing, sous-marin, infiltration et base
+
+- [ ] Pour Almost Too Easy, apres la sequence sous-marine, possede le General
+  avec Aiden et traverse la base jusqu'au bouclier de confinement en utilisant
+  uniquement son acces. Laisse Aiden sortir au bouclier.
+- [ ] Pour Eye for an Eye, pendant l'interrogatoire, ne fais pas parler Jodie.
+  Laisse la phase de silence se terminer pour valider le choix.
+- [ ] Pour Agent 894732, recharge le chapitre et dis la verite pendant le
+  meme interrogatoire. Les deux succes demandent deux reprises.
+- [ ] Avance par les conduits, les salles de garde et les portes de service.
+  Utilise Aiden pour lire les angles de camera avant chaque passage.
+- [ ] Controle : Almost Too Easy, Eye for an Eye et Agent 894732 sont des
+  objectifs locaux ; une reprise de chapitre suffit a chacun.
+
+CHAPITRE 17 - HUNTED
+
+ZONE : train, route, foret, station-service, ville et bar
+
+- [ ] BONUS 4 - Design Pack #4 : sur la route, pars a gauche des voitures de
+  police et prends l'objet pres de la buche.
+- [ ] BONUS 5 - Design Pack #5 : dans la cour arriere, pars a gauche et
+  cherche le bonus dans le buisson.
+- [ ] BONUS 7 - Design Pack #7 : dans la zone de l'allee, traverse la rue,
+  suis l'homme visible puis entre dans l'allee a sa droite ; le bonus est
+  sur la gauche.
+- [ ] BONUS 8 - Design Pack #8 : dans Red House Bar, reussis l'evasion sans
+  etre vue, entre dans le bar et prends l'objet au sol pres du lavabo.
+- [ ] Pour Catch Me if You Can, echappe-toi du train sans etre arretee. Quand
+  la police monte, cours jusqu'au bout, fais ouvrir la fenetre par Aiden,
+  monte sur le toit, bats les policiers et saute du train.
+- [ ] Pour Stealth Master, atteins la cathedrale sans etre reperee. Utilise
+  les distractions d'Aiden, les couverts et les detours ; recharge si une
+  alerte s'affiche.
+- [ ] Pour Aiden's Apocalypse, detruis les quatre cibles dans la ville :
+  station-service, eglise, magasin d'armes et helicoptere. Fais les quatre
+  actions avant de terminer la mission.
+- [ ] Pour Houdini, fais arreter Jodie trois fois et echappe-toi a chaque
+  fois. Le train fournit la premiere arrestation ; les autres se provoquent
+  en laissant la police atteindre Jodie dans les sections suivantes.
+- [ ] Route propre : protege Jodie pendant le pont avec le bouclier d'Aiden.
+  Cela conserve la route de fuite et facilite Aiden's Apocalypse.
+- [ ] Fais une sauvegarde au debut du chapitre : Hunted rassemble quatre
+  bonus, quatre succes locaux et plusieurs reprises incompatibles.
+
+CHAPITRE 18 - HOMELESS
+
+ZONE : rue, cuisine solidaire, campement et immeuble en feu
+
+- [ ] BONUS 7 - The Casting : dans la cafeteria, pars a droite de Jodie et
+  cherche le bonus derriere le comptoir, au sol.
+- [ ] BONUS 9 - Kara : dans le refuge, pars a gauche de Jodie et ramasse
+  l'objet au sol.
+- [ ] Pour Money to Eat, gagne assez d'argent dans les activites de rue pour
+  avoir du chocolat pendant le repas. Termine les activites disponibles au
+  lieu de quitter directement la zone.
+- [ ] Pour Smart Thief, desactive la camera du supermarche avec Aiden avant
+  de faire les actions de la caisse. Controle le voyant de la camera.
+- [ ] Pour Miracles, protege Tuesday et son bebe, soigne Jimmy, puis canalise
+  Stan avec Aiden. Les trois actions doivent etre faites dans ce chapitre.
+- [ ] Route Saved All : dans l'immeuble en feu, ouvre la porte de Walter avec
+  Aiden, puis possede Jimmy pour le faire passer en securite. Reussis la
+  sortie de Tuesday et du bebe.
+- [ ] Route A Better World : laisse Walter et Jimmy dans l'immeuble en feu.
+  Ne fais pas cette action dans la partie Saved All.
+- [ ] Ce chapitre est le debut obligatoire de la route A Better World. Une
+  simple reprise locale ne suffit pas : continue jusqu'a Black Sun sans
+  sauter les chapitres.
+- [ ] Controle : Bonus The Casting et Kara, Money to Eat, Smart Thief,
+  Miracles, puis la route de personnages correspondant a la partie.
+
+CHAPITRE 19 - BROKEN
+
+ZONE : chambre, couloirs et sortie
+
+- [ ] Explore la chambre et utilise Aiden sur les objets qui reagissent avant
+  de suivre la sortie. Aucun bonus physique n'est present.
+- [ ] Route propre : garde la continuite de Saved All et reussis les QTE de
+  protection. Route inverse : ne change pas les decisions deja prises dans
+  Homeless.
+- [ ] Termine le chapitre et sauvegarde. Le menu chronologique doit ouvrir
+ Navajo comme etape suivante.
+CHAPITRE 20 - NAVAJO
+
+ZONE : ranch, maison, tempete de sable et cimetiere
+
+- [ ] BONUS 13 - Visual Arts in Beyond Two Souls : dans la ferme, ne t'assieds
+  pas directement pres de Jay. Continue vers les moutons et prends le bonus
+  pres de la cloture.
+- [ ] BONUS 14 - Design Pack #9 : dans la scene du funeral, ne pars pas
+  directement avec la couverture. Va a gauche et ramasse l'objet au sol.
+- [ ] Pour Medicine Girl, complete le rituel entier : preparation, protection,
+  placements d'Aiden, QTE et sortie de la tempete. Une etape ratee demande
+  une reprise du chapitre.
+- [ ] Pour Not Just Sand, traverse la tempete de sable et prends moins de
+  trois coups. Utilise les protections d'Aiden et suis les invites sans
+  courir dans les obstacles.
+- [ ] Pour Never Alone, embrasse Jay en quittant la ferme. Si tu as deja
+  valide la romance de Ryan, ce succes est deja conserve.
+- [ ] Route Saved All : au retour au ranch, entre dans la chambre de Paul et
+  soigne sa blessure avec Aiden avant de poursuivre le rituel.
+- [ ] Route A Better World : au retour au ranch, ne soigne pas Paul et termine
+  la sequence en le laissant suivre la route opposee.
+- [ ] Controle : Bonus Visual Arts et Design Pack #9, Medicine Girl, Not Just
+  Sand, romance optionnelle et decision Paul gardee pour la bonne run.
+
+CHAPITRE 21 - OLD FRIENDS
+
+ZONE : laboratoire, bureau et salle des souvenirs
+
+- [ ] BONUS 16 - Design Pack #10 : avant de prendre le livre dans le
+  laboratoire, pars a droite et cherche l'objet dans l'angle de la piece.
+- [ ] Explore le laboratoire avec Aiden : miroirs, bureaux, portes et
+  equipements. Le bonus se ramasse avant l'interaction principale.
+- [ ] Route propre : ne modifie pas la decision de la partie Saved All. Route
+  inverse : ce chapitre est neutre pour la liste des personnages.
+- [ ] Sauvegarde apres le bonus. Aucune autre collecte physique n'est requise
+  dans ce chapitre.
+
+CHAPITRE 22 - NORAH
+
+ZONE : hopital, salle de bain, couloirs et Room 38
+
+- [ ] BONUS 15 - Performance Capture in Beyond Two Souls : quand Aiden est
+  controlable dans la salle de bain, ramasse l'objet au sol.
+- [ ] BONUS 19 - Design Pack #12 : dans la Room 38, entre dans la piece a
+  cote de la patiente et prends le bonus.
+- [ ] Route Saved All : quitte la chambre de Norah sans utiliser Aiden pour
+  arreter son coeur.
+- [ ] Route A Better World : utilise Aiden pour arreter le coeur de Norah.
+  Ne melange pas cette decision avec la partie ou tu dois sauver tout le monde.
+- [ ] Explore la salle d'attente et les couloirs avec Aiden avant de quitter.
+  Les objets du mobilier ne sont pas des bonus supplementaires.
+- [ ] Sauvegarde apres la decision. La route des fins depend de l'etat de
+  Norah conserve par la partie active.
+
+CHAPITRE 23 - BRIEFING
+
+ZONE : salle de briefing, couloirs de base et sortie
+
+- [ ] Explore la salle de briefing avec Aiden avant de suivre Ryan. Aucun
+  bonus physique n'est necessaire dans cette salle.
+- [ ] Route propre : reussis les QTE de deplacement et conserve Ryan pour la
+  route Saved All. Route inverse : ne repare pas une decision ancienne par
+  une reprise isolee.
+- [ ] Verifie la sauvegarde avant Dragon's Hideout. Le prochain chapitre
+  contient une collecte physique et des actions de mission.
+
+CHAPITRE 24 - DRAGON'S HIDEOUT
+
+ZONE : village, maisons, route et cache
+
+- [ ] BONUS 20 - Design Pack #13 : a l'arrivee dans la zone des maisons,
+  cherche l'objet au sol a cote de la maison d'entree.
+- [ ] Pour Almost Too Easy si la reprise est active, possede le General et
+  atteins le bouclier sans utiliser un autre personnage.
+- [ ] Route propre : protege l'equipe pendant l'infiltration, utilise Aiden
+  pour reperer les gardes et termine la sortie sans QTE rate.
+- [ ] Nettoie les pieces laterales avec Aiden avant le passage principal. Le
+  bonus est en exterieur et peut etre laisse si tu suis directement l'objectif.
+- [ ] Sauvegarde apres le bonus et avant le chapitre Black Sun.
+
+CHAPITRE 25 - BLACK SUN
+
+ZONE : complexe final, couloirs de confinement et console
+
+- [ ] Pour Convince Dawkins, choisis Reason deux fois pendant le dialogue
+  important. Cela valide la route de verite sans raconter sa consequence.
+- [ ] Pour Black Sun Down, atteins la console et desactive le Black Sun.
+  Reussis la sequence finale : un echec complet peut empecher la notification.
+- [ ] Pour Almost Too Easy si ce n'est pas deja fait, utilise le General
+  jusqu'au bouclier, puis continue la sequence.
+- [ ] Route Saved All : sauve Cole en revenant vers lui, porte-le a l'ascenseur
+  et soigne-le avec Aiden. Pendant la derniere decision, utilise Move quand
+  la route demande de garder Ryan en vie.
+- [ ] Route A Better World : laisse Cole derriere, puis choisis la combinaison
+  de dialogue qui fait mourir Ryan. Ne touche pas Nathan avec Aiden pendant
+  cette reprise si la route le demande.
+- [ ] Quand la decision finale apparait, la route Saved All doit d'abord
+  utiliser Life ou Beyond selon la fin visee. Le tableau des fins gere les
+  variantes restantes.
+- [ ] Sauvegarde apres la conclusion et ouvre le menu Epilogue pour verifier
+  quelles cases de fin sont deja inscrites.
+
+CHAPITRE 26 - PROLOGUE
+
+ZONE : ouverture du jeu
+
+- [ ] Ce chapitre est place a la fin de la chronologie. Termine-le dans
+  l'ordre Chronological pour ne pas casser la lecture de la vie de Jodie.
+- [ ] Aucun bonus physique n'est requis. Laisse les scenes se terminer et
+  conserve la sauvegarde avant Epilogue.
+- [ ] Si un succes story manque, verifie d'abord Black Sun : Prologue n'est
+  pas une solution de rattrapage pour une fin non validee.
+
+CHAPITRE 27 - EPILOGUE
+
+ZONE : ecran de choix et fins
+
+- [ ] Apres chaque fin, choisis Save et retourne au menu. Ouvre Epilogue et
+  verifie que la vignette a ete ajoutee avant de charger la suivante.
+- [ ] Pour Chose Afterlife, selectionne Beyond a la fin du Black Sun.
+- [ ] Pour Chose Life, selectionne Life a la fin du Black Sun.
+- [ ] Pour Never Alone, une romance avec Ryan ou Jay suffit ; les deux
+  romances ont leur propre reprise mais le succes est unique.
+- [ ] Pour The End, une premiere fin validee suffit.
+- [ ] Pour All Endings, suis les dix lignes du tableau ci-dessous. Les routes
+  All Alive et All Dead exigent un parcours continu avant de rejouer Black Sun.
+
+TABLEAU DES 22 BONUS
+
+- [ ] 01 Design Pack #1 - The Experiment, salle d'experimentation, sous le
+  bureau des scientifiques a droite de Jodie.
+- [ ] 02 Design Pack #2 - The Party, entree, au sol a droite de l'arrivee.
+- [ ] 03 Beyond Two Souls Trailer - The Embassy, bureau de Sheik, a droite.
+- [ ] 04 Design Pack #3 - The Embassy, laboratoire, a droite apres la porte.
+- [ ] 05 Design Pack #4 - Hunted, route, a gauche des voitures de police,
+  pres de la buche.
+- [ ] 06 Design Pack #5 - Hunted, cour arriere, dans le buisson a gauche.
+- [ ] 07 The Casting - Homeless, cafeteria, derriere le comptoir.
+- [ ] 08 Design Pack #6 - The Condenser, Frozen Corridor, derniere salle a
+  gauche, pres du bureau.
+- [ ] 09 Kara - Homeless, refuge, au sol a gauche de Jodie.
+- [ ] 10 Design Pack #7 - Hunted, allee, a gauche apres avoir traverse la rue.
+- [ ] 11 The Origins of Beyond Two Souls - The Condenser, laboratoire,
+  de l'autre cote du miroir.
+- [ ] 12 Design Pack #8 - Hunted, Red House Bar, salle de bain pres du lavabo.
+- [ ] 13 Visual Arts in Beyond Two Souls - Navajo, ferme, pres de la cloture
+  des moutons.
+- [ ] 14 Design Pack #9 - Navajo, funeral, au sol a gauche du chemin.
+- [ ] 15 Performance Capture in Beyond Two Souls - Norah, salle de bain au
+  moment du controle d'Aiden.
+- [ ] 16 Design Pack #10 - Old Friends, laboratoire, angle a droite avant le
+  livre.
+- [ ] 17 The Gameplay in Beyond Two Souls - Night Session, toit du batiment
+  en face quand Aiden devient controlable.
+- [ ] 18 Design Pack #11 - Night Session, second etage du batiment en face,
+  cote droit.
+- [ ] 19 Design Pack #12 - Norah, Room 38, dans la piece voisine de la
+  patiente.
+- [ ] 20 Design Pack #13 - Dragon's Hideout, au sol a cote de la maison
+  d'entree.
+- [ ] 21 The Dark Sorcerer - attribue automatiquement apres la fin.
+- [ ] 22 Design Pack #14 - attribue automatiquement apres la fin.
+- Les 20 objets ramassables sont conserves apres retour au menu. Les deux
+  bonus automatiques apparaissent uniquement apres une fin validee.
+
+ROUTE SAVED ALL
+
+A jouer de Homeless jusqu'a Black Sun sans sauter de chapitre.
+
+- Walter : ouvre sa porte avec Aiden dans l'immeuble en feu.
+- Jimmy : possede-le et fais-le passer en securite depuis l'etage.
+- Paul : soigne sa blessure dans Navajo au retour au ranch.
+- Norah : quitte sa chambre sans utiliser Aiden pour arreter son coeur.
+- Cole : reviens le chercher dans Black Sun, porte-le a l'ascenseur et soigne-le.
+- Ryan : dans la derniere rencontre avec Dawkins, utilise les reponses de
+  raison et les actions deplacement indiquees pour qu'il survive.
+- A la fin, choisis Life ou Beyond selon la fin souhaitee. La notification
+  Saved All demande que tous les personnages aient ete sauves dans la meme
+  continuite.
+
+ROUTE A BETTER WORLD
+
+A jouer de Homeless jusqu'a Black Sun sans utiliser Chapter Select pour
+separer les decisions.
+
+- Walter et Jimmy : ne les secoure pas dans l'immeuble en feu.
+- Paul : ne le soigne pas dans Navajo.
+- Norah : utilise Aiden pour arreter son coeur.
+- Cole : ne reviens pas le chercher dans Black Sun.
+- Ryan : utilise les choix de dialogue de la route inverse et ne le protege
+  pas pendant la conclusion.
+- Choisis Beyond a la fin. Cette combinaison valide A Better World et inscrit
+ la route All Dead necessaire pour trois fins supplementaires.
+TABLEAU DES FINS
+
+Ces lignes ne racontent pas les scenes. Elles donnent uniquement les conditions
+pour remplir le menu Epilogue. Sauvegarde chaque resultat.
+
+1. All Alive + Beyond : protege Walter, Jimmy, Paul, Norah, Cole et Ryan,
+   puis choisis Beyond.
+2. All Alive + Life + Ryan : meme route protege, choisis Life, puis Ryan.
+3. All Alive + Life + Jay : meme route protege, choisis Life, puis Jay.
+4. All Alive + Life + Zoey : meme route protege, choisis Life, puis Zoey.
+5. All Alive + Life + Alone : meme route protege, choisis Life, puis Alone.
+6. All Dead + Beyond : laisse Walter, Jimmy, Paul, Norah, Cole et Ryan suivre
+   la route opposee, puis choisis Beyond.
+7. All Dead + Life + Jay : route All Dead, choisis Life, puis Jay.
+8. All Dead + Life + Zoey : route All Dead, choisis Life, puis Zoey.
+9. All Dead + Life + Alone : route All Dead, choisis Life, puis Alone.
+10. Jodie Dead : dans Black Sun, ne reussis pas la sequence finale et laisse
+    la derniere epreuve se terminer sans intervention.
+
+METHODE RAPIDE POUR LES FINS
+
+- Fais une sauvegarde de Black Sun avant la decision Life/Beyond.
+- Pour les fins 2 a 5, utilise la continuite All Alive et recharge Black Sun
+  pour changer uniquement Life/Beyond puis le choix d'Epilogue.
+- Pour les fins 7 a 9, cree d'abord la continuite All Dead depuis Homeless,
+  puis recharge Black Sun entre chaque choix Life.
+- Fais la fin 10 dans une reprise separee de Black Sun. Ne l'ajoute pas a une
+  route Saved All ou A Better World.
+- Apres chaque epilogue, verifie l'inscription dans le menu. Si une case
+  disparait, recharge la sauvegarde de la route correspondante et choisis Save.
+
+SUCCES A REPRISE ET CONDITIONS PRECISES
+
+- Obedience : The Experiment, detruis les objets puis arrete volontairement
+  l'experience avant l'ouverture de la porte.
+- Teammates : My Imaginary Friend..., trois farces avec chaises, radio et
+  bocal de cookies.
+- Entities Apprentice : gagne la premiere serie de combats d'entites.
+- Together Forever : protege Jodie dans First Night.
+- Portal Shutdown : ferme le portail dans The Condenser.
+- Channeling Master : canalise les huit corps du complexe du Condenser.
+- Perfect Soldier : reussis la majorite des exercices physiques de CIA.
+- Fight Apprentice : termine tous les combats CIA avec moins de cinq coups.
+- Stealth Apprentice : termine toute l'infiltration CIA sans etre reperee.
+- Clean Job : Embassy avec Aiden uniquement, moniteur coupe.
+- Possessive Spy : Embassy avec le Sheik possede uniquement.
+- Perfect Lover : repas cuisine, appartement nettoye, douche, robe elegante,
+  musique.
+- Casual Girl : pizza, television, tenue decontractee.
+- Stealth Master : Hunted, atteins la cathedrale sans detection.
+- Catch Me if You Can : Hunted, echappe-toi du train sans arrestation.
+- Houdini : Hunted, trois arrestations et trois evasions.
+- Aiden's Apocalypse : Hunted, detruis station-service, eglise, magasin
+  d'armes et helicoptere.
+- Money to Eat : Homeless, gagne assez pour le chocolat du repas.
+- Smart Thief : Homeless, desactive la camera du supermarche.
+- Miracles : Homeless, protege le bebe, soigne Jimmy et canalise Stan.
+- Medicine Girl : Navajo, termine tout le rituel.
+- Not Just Sand : Navajo, traverse la tempete avec moins de trois coups.
+- Eye for an Eye : Mission, ne parle pas pendant l'interrogatoire.
+- Agent 894732 : Mission, dis la verite pendant l'interrogatoire.
+- Almost Too Easy : Mission, atteins le bouclier avec le General possede.
+- Convince Dawkins : Black Sun, choisis Reason deux fois.
+- Black Sun Down : desactive le Black Sun avec une fin valide.
+- Never Alone : lance au moins une romance, avec Ryan ou Jay.
+- Entities Master : gagne toutes les batailles d'entites de Condenser et
+  First Night dans une continuite sans echec.
+- Uncontrollable : six actions evil dans une partie continue de The Experiment
+  a The Dinner.
+- Saved All : sauve tous les personnages possibles dans une partie continue
+  de Homeless a Black Sun.
+- A Better World : laisse mourir tous les personnages possibles, puis choisis
+  Beyond, dans une partie continue de Homeless a Black Sun.
+- Explorer : les 22 bonus doivent apparaitre dans Additional Content.
+- Two Souls : lance une scene en Duo.
+- Together Till the End : termine toute l'histoire en Duo.
+- All Endings... : les dix sequences du tableau doivent etre inscrites.
 
 CHECKLIST STEAM FINALE - 45/45
 
-[ ] Parcours Solo chronologique.
-[ ] Bonus de chaque chapitre et toutes les interacions d'Aiden.
-[ ] Furtivite, combat, possessions, missions et partenaires.
-[ ] Reprises de choix, fins et personnages.
-[ ] Mode Duo/Remote Play verifie.
-[ ] 45/45 dans le profil Steam.
+- [ ] 01 Somebody Else? - Jouer Aiden pour la premiere fois.
+- [ ] 02 Obedience - Arreter volontairement l'experience.
+- [ ] 03 Teammates - Faire trois farces avec Jodie et Aiden.
+- [ ] 04 Entities Apprentice - Vaincre les entites avec Aiden.
+- [ ] 05 Sorry - Pardonner au pere de Jodie.
+- [ ] 06 Not My Father - Etouffer Philip avec Aiden.
+- [ ] 07 Revenge - Punir au moins trois adolescents ou declencher l'incendie.
+- [ ] 08 Cold Blood - Ne pas impressionner ni effrayer les adolescents avec Aiden.
+- [ ] 09 Together Forever - Proteger Jodie contre ses agresseurs.
+- [ ] 10 Portal Shutdown - Fermer le portail du condenseur.
+- [ ] 11 Channeling Master - Canaliser les huit corps du complexe.
+- [ ] 12 Perfect Soldier - Reussir la majorite de l'entrainement physique.
+- [ ] 13 Fight Apprentice - Gagner les combats CIA avec moins de cinq coups.
+- [ ] 14 Stealth Apprentice - Finir l'entrainement furtif sans detection.
+- [ ] 15 Clean Job - Terminer la mission avec Aiden uniquement et couper le moniteur.
+- [ ] 16 Possessive Spy - Terminer la mission avec le Sheik uniquement.
+- [ ] 17 Perfect Lover - Repas, menage, douche, robe elegante et musique.
+- [ ] 18 Casual Girl - Pizza, television et tenue decontractee.
+- [ ] 19 In Love with Ryan - Dormir avec Ryan.
+- [ ] 20 Stealth Master - Atteindre la cathedrale sans etre reperee.
+- [ ] 21 Catch Me if You Can - S'echapper du train sans etre arretee.
+- [ ] 22 Aiden's Apocalypse - Detruire station-service, eglise, magasin et helicoptere.
+- [ ] 23 Houdini - Etre arretee trois fois et s'echapper trois fois.
+- [ ] 24 Money to Eat - Gagner assez d'argent pour le chocolat.
+- [ ] 25 Smart Thief - Desactiver la camera du supermarche.
+- [ ] 26 Miracles - S'occuper du bebe, soigner Jimmy et canaliser Stan.
+- [ ] 27 Medicine Girl - Reussir tout le rituel.
+- [ ] 28 Not Just Sand - Fuir la tempete avec moins de trois coups.
+- [ ] 29 Eye for an Eye - Ne pas parler pendant l'interrogatoire.
+- [ ] 30 Agent 894732 - Dire la verite pendant l'interrogatoire.
+- [ ] 31 Almost Too Easy - Atteindre le bouclier avec le General.
+- [ ] 32 Chose Afterlife - Entrer dans l'Infraworld.
+- [ ] 33 Chose Life - Rester dans la realite.
+- [ ] 34 Convince Dawkins - Aider Dawkins a voir la verite.
+- [ ] 35 Black Sun Down - Desactiver le Black Sun.
+- [ ] 36 Two Souls - Lancer une scene en Duo.
+- [ ] 37 The End - Decouvrir une realite possible.
+- [ ] 38 Uncontrollable - Saisir toutes les occasions d'etre mauvais avec Aiden.
+- [ ] 39 Never Alone - Commencer au moins une romance.
+- [ ] 40 Entities Master - Gagner toutes les batailles d'entites.
+- [ ] 41 A Better World - Laisser mourir tous les personnages possibles et choisir Beyond.
+- [ ] 42 Explorer - Trouver les 22 bonus.
+- [ ] 43 Together Till the End - Finir le jeu en Duo.
+- [ ] 44 All Endings... - Voir toutes les fins.
+- [ ] 45 Saved All - Sauver tous les personnages possibles.
 
-REGLE ANTI-SPOILER
+VERIFICATION FINALE
 
-Les chapitres et types d'action indiquent seulement l'ordre. Les fins, morts,
-identites, choix, relations et consequences ne sont pas racontees.
+- Le profil Steam affiche 45/45 succes.
+- Additional Content > Bonus affiche 22/22, dont les deux bonus automatiques.
+- Les 10 cases du menu Epilogue sont inscrites et conservees apres retour au
+  menu principal.
+- Saved All et A Better World ont ete faits dans deux continuities distinctes.
+- Uncontrollable a ete fait de The Experiment a The Dinner sans saut.
+- Entities Master couvre Condenser et First Night sans combat rate.
+- Two Souls est valide et Together Till the End a ete obtenu en terminant
+  toute la campagne en Duo.
+- Les routes Clean Job/Possessive Spy, Perfect Lover/Casual Girl et
+  Eye for an Eye/Agent 894732 ont ete traitees par reprises separees.
+- Les bonus ont ete ramasses avec Aiden et control es dans le menu.
+- Le guide ne raconte pas les revelations ni les consequences narratives :
+  les noms servent uniquement a reconstruire la route 100 %.
+
+FIN DU GUIDE
