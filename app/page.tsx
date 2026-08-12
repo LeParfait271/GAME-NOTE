@@ -3124,7 +3124,8 @@ export default function Home() {
       } else {
         setInvalidGuideId(nextUrl.searchParams.get("guide"));
         setReaderMode(false);
-        setActiveSection("guides");
+        const hashSection = nextUrl.hash.slice(1);
+        setActiveSection(["top", "guides", "methode"].includes(hashSection) ? hashSection : "top");
       }
       setSearch("");
       window.scrollTo({ top: 0, behavior: "auto" });
@@ -3250,6 +3251,8 @@ export default function Home() {
   const goToLibrary = () => {
     setReaderMode(false);
     setSearch("");
+    setCatalogSearch("");
+    setCatalogFilter("all");
     setInvalidGuideId(null);
     setActiveSection("guides");
     const url = new URL(window.location.href);
@@ -3291,7 +3294,7 @@ export default function Home() {
         Aller au contenu
       </a>
       <header className="topbar">
-        <a className="brand" href="#top" aria-label="Game Note, accueil">
+        <a className="brand" href={readerMode ? "/" : "#top"} aria-label="Game Note, accueil">
           <span className="brand-mark" aria-hidden="true">
             <span>GN</span>
             <i />
@@ -3380,7 +3383,7 @@ export default function Home() {
             <a className="button button-primary" href="#guides">
               Tracer ma route <span aria-hidden="true">↓</span>
             </a>
-            <a className="button button-quiet" href="#reader">
+            <a className="button button-quiet" href={`/?guide=${selected.id}`} onClick={(event) => { event.preventDefault(); handleOpenReader(selected.id); }}>
               Ouvrir le lecteur <span aria-hidden="true">↗</span>
             </a>
           </div>
@@ -3520,7 +3523,7 @@ export default function Home() {
               className={
                 "guide-card guide-card-" +
                 guide.accent +
-                (index === 0 ? " is-shelf-lead" : "") +
+                (index === 0 && !catalogSearch && catalogFilter === "all" ? " is-shelf-lead" : "") +
                 (selected.id === guide.id ? " is-selected" : "")
               }
               key={guide.id}
@@ -3572,7 +3575,7 @@ export default function Home() {
             <button
               className="button button-outline"
               type="button"
-              onClick={() => setCatalogSearch("")}
+              onClick={() => { setCatalogSearch(""); setCatalogFilter("all"); }}
             >
               Afficher les {guides.length} guides
             </button>

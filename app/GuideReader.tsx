@@ -332,8 +332,22 @@ export default function GuideReader({
     const normalizedValue = normalizeGuideText(value);
     const start = normalizedValue.indexOf(query);
     if (start < 0) return formatText(value);
-    const end = start + query.length;
-    return <>{formatText(value.slice(0, start))}<mark>{formatText(value.slice(start, end))}</mark>{formatText(value.slice(end))}</>;
+    let normalizedCursor = 0;
+    let valueStart = -1;
+    let valueEnd = -1;
+    for (let index = 0; index < value.length; index += 1) {
+      const normalizedCharacter = normalizeGuideText(value[index]);
+      if (normalizedCharacter) {
+        if (normalizedCursor === start) valueStart = index;
+        normalizedCursor += normalizedCharacter.length;
+        if (normalizedCursor >= start + query.length) {
+          valueEnd = index + 1;
+          break;
+        }
+      }
+    }
+    if (valueStart < 0 || valueEnd < 0) return formatText(value);
+    return <>{formatText(value.slice(0, valueStart))}<mark>{formatText(value.slice(valueStart, valueEnd))}</mark>{formatText(value.slice(valueEnd))}</>;
   };
 
   return (
@@ -404,11 +418,18 @@ export default function GuideReader({
         </div>
         <span className="result-count" aria-live="polite">
           {query
-            ? `${visibleBlocks.length} bloc${visibleBlocks.length > 1 ? "s" : ""} trouvé${visibleBlocks.length > 1 ? "s" : ""}`
+            ? `${matchingBlocks.length} résultat${matchingBlocks.length > 1 ? "s" : ""}`
             : checklist.length
               ? `${checklist.length} repères à cocher`
               : "Lecture complète"}
         </span>
+        {query && visibleMatchIndexes.length > 0 ? (
+          <div className="reader-search-nav" aria-label="Navigation des résultats">
+            <button type="button" onClick={() => setActiveSearchResult((current) => (current - 1 + visibleMatchIndexes.length) % visibleMatchIndexes.length)} aria-label="Résultat précédent">↑</button>
+            <span>{activeSearchResult + 1}/{visibleMatchIndexes.length}</span>
+            <button type="button" onClick={() => setActiveSearchResult((current) => (current + 1) % visibleMatchIndexes.length)} aria-label="Résultat suivant">↓</button>
+          </div>
+        ) : null}
       </div>
 
       {!loading && !error && guideText ? (
@@ -478,6 +499,7 @@ export default function GuideReader({
                 <span style={{ width: `${checklist.length ? (completed / checklist.length) * 100 : 0}%` }} />
               </div>
               <p>Les cases cochées restent privées sur cet appareil.</p>
+              {completed > 0 ? <button className="reader-reset" type="button" onClick={resetChecklist}>Réinitialiser la trace</button> : null}
             </div>
             <a className="reader-download" href={`/guides/${selected.file}`} download>
               Exporter le dossier TXT <span aria-hidden="true">↓</span>
@@ -503,42 +525,43 @@ export default function GuideReader({
             ) : null}
             {(() => {
               let visibleHeadingNumber = 0;
-              return visibleBlocks.map((block) => {
+              return visibleBlocks.map((block, visibleIndex) => {
                 const text = formatText(block.text);
+                const highlighted = renderHighlightedText(block.text);
                 if (block.kind === "heading") {
                   visibleHeadingNumber += 1;
                   const number = String(visibleHeadingNumber).padStart(2, "0");
                   return (
-                    <div className="guide-heading-row" id={block.id} key={block.id}>
+                    <div className="guide-heading-row" id={block.id} key={block.id} ref={(element) => { resultRefs.current[visibleIndex] = element; }}>
                       <span className="guide-heading-index" aria-hidden="true">{number}</span>
                       <div>
                         <p className="guide-heading-eyebrow">SÉQUENCE {number}</p>
-                        <h3 className="guide-heading">{text}</h3>
+                        <h3 className="guide-heading">{highlighted}</h3>
                       </div>
                     </div>
                   );
                 }
                 if (block.kind === "subheading") {
-                  return <h4 className="guide-subheading" id={block.id} key={block.id}>{text}</h4>;
+                  return <h4 className="guide-subheading" id={block.id} key={block.id} ref={(element) => { resultRefs.current[visibleIndex] = element; }}>{highlighted}</h4>;
                 }
                 if (block.kind === "bullet") {
-                  return <p className="guide-bullet" key={block.id}><span aria-hidden="true">→</span>{text}</p>;
+                  return <p className="guide-bullet" key={block.id} ref={(element) => { resultRefs.current[visibleIndex] = element; }}><span aria-hidden="true">→</span>{highlighted}</p>;
                 }
                 if (block.kind === "check" && block.checkIndex !== undefined) {
                   const isChecked = Boolean(checked[block.checkIndex]);
                   return (
-                    <label className={`guide-check ${isChecked ? "is-checked" : ""}`} key={block.id}>
+                    <label className={`guide-check ${isChecked ? "is-checked" : ""}`} key={block.id} ref={(element) => { resultRefs.current[visibleIndex] = element; }}>
                       <input
                         type="checkbox"
                         checked={isChecked}
                         onChange={() => toggleCheck(block.checkIndex as number)}
                       />
                       <span className="guide-check-box" aria-hidden="true" />
-                      <span>{text}</span>
+                      <span>{highlighted}</span>
                     </label>
                   );
                 }
-                return <p className="guide-paragraph" key={block.id}>{text}</p>;
+                return <p className="guide-paragraph" key={block.id} ref={(element) => { resultRefs.current[visibleIndex] = element; }}>{highlighted}</p>;
               });
             })()}
           </article>

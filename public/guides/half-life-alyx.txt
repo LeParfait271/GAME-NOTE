@@ -1,102 +1,1128 @@
 HALF-LIFE: ALYX
-GUIDE CHRONOLOGIQUE 100 % STEAM - SANS SPOILER
+GUIDE CHRONOLOGIQUE COMPLET - 100 % STEAM - SANS SPOILER
 
-Version de travail : 10 aout 2026
+Version editoriale : 12 aout 2026
+Plateforme ciblee : SteamVR - AppID 546560
+Perimetre : campagne complete, 42 succes Steam, route de fouille, resines,
+ameliorations, armes, interactions VR, zones optionnelles et sauvegardes de
+securite.
 
-Ce parcours couvre les 42 succes Steam de l'AppID 546560. Le jeu se fait en
-VR et plusieurs objectifs demandent une interaction precise, des bouteilles,
-des ressources ou le transport d'un objet sur une longue portion. La route
-reste volontairement sans spoiler narratif.
+PROMESSE DE LA FICHE
 
-OBJECTIF
+Cette fiche est une vraie route de jeu. Elle indique quand fouiller, quoi
+prendre avant une transition, quelles interactions faire sur place, quelles
+resines garder pour les stations et quelles sauvegardes creer avant les
+objectifs a fenetre courte. Elle ne raconte ni l'intrigue, ni les identites,
+ni les morts, ni les retournements, ni la conclusion.
 
-[ ] 42/42 succes Steam.
-[ ] Campagne VR dans l'ordre, avec fouille de chaque zone.
-[ ] Bouteilles, jeux, objets Xen, nourritures et interactions secondaires.
-[ ] Route dediee au gnome et sauvegardes avant les objectifs techniques.
+OBJECTIF 100 %
 
-GARDE-FOUS MISSABLES
+- 42/42 succes Steam.
+- Campagne parcourue dans l'ordre des 11 chapitres.
+- Toutes les zones secondaires accessibles fouillees avant la transition.
+- Toutes les resines visibles ramassees et depensees dans une route
+  d'ameliorations coherent.
+- Gnome, vodka, bouteilles, mines, grenades, coeurs de headcrab, objets Xen
+  et interactions VR suivis avec des sauvegardes dediees.
 
-- Le gnome doit etre conserve sur une sauvegarde dediee jusqu'a la sequence
-  finale. Il peut tomber dans un ascenseur, un train ou un sas : sauvegarde
-  avant chaque transition importante.
-- Ne depense pas toutes les resines dans la premiere arme. Une sauvegarde
-  avant chaque station permet de choisir les ameliorations necessaires pour
-  Up in Arms, Unbonded et les interactions de combat.
-- Les objectifs de bouteilles, geiger, coeur de headcrab, grenades, mines et
-  ennemis au gaz sont plus simples avec une sauvegarde juste avant leur zone.
-- Le jeu est solo et hors ligne, mais il faut un casque VR fonctionnel. Aucun
-  succes ne demande de coop ou de matchmaking.
+REGLE ANTI-SPOILER
 
-ORDRE CHRONOLOGIQUE
+Les noms de chapitres, de lieux et de succes sont utilises uniquement comme
+reperes pratiques. Les objectifs d'histoire sont decrits par leur action de
+jeu et leur zone, jamais par leur consequence narrative. Les sections
+"Succes a valider" et "Point de sauvegarde" peuvent reveler l'intitule d'un
+objectif, mais pas ce qui arrive ensuite.
 
-1. INTRODUCTION ET ZONE DE QUARANTAINE
+AVANT DE COMMENCER
 
-- Fouille tous les casiers, caisses et corps. Valide Dead Giveaway des le
-  premier passage et ouvre une caisse a mains nues pour Smash and Grab.
-- Ramasse les bouteilles visibles et casse-les au fil du parcours. Le compteur
-  de Mazel Tov doit atteindre 50 avant la fin ; ne laisse pas une zone sans
-  fouille.
-- Recupere la premiere arme et installe une amelioration pour Up in Arms.
-  Garde assez de resine pour les ameliorations suivantes.
-- Pour Gnome Alone, recommence sur une sauvegarde dediee et prends le gnome
-  avec toi. La route normale peut continuer en parallele sur une autre save.
+CONFORT VR
 
-2. PREMIERS SECTEURS ET JARDINS XEN
+- Active le deplacement et la rotation avec les reglages qui te donnent le
+  moins de nausee. La route est compatible teleportation et assis.
+- Fais une pause apres chaque gros combat, changement de hauteur ou sequence
+  avec eau. En VR, une sauvegarde manuelle vaut mieux qu'un essai fatigue.
+- Verifie la prise en main de l'objet : saisir avec la poignee, puis utiliser
+  le bouton d'action ou de pression selon ton casque. Les manettes Touch,
+  Index, Vive et WMR n'ont pas toujours le meme bouton.
+- Si une interaction ne valide pas, recharge avant la scene et refais-la avec
+  la main dominante. Ne passe pas a la zone suivante en esperant que le jeu
+  la rattrape.
 
-- Explore les wagons, toits, salles de service et jardins. Cherche les objets
-  Xen accessibles sans quitter la zone.
-- Nourris le petit compagnon requis pour Good Grub, puis verifie les plantes,
-  terrariums et objets interactifs avant chaque porte de chargement.
-- Utilise une sauvegarde avant chaque station de fabrication. Ramasse les
-  munitions et installe les ameliorations dans l'ordre de la checklist.
+SAUVEGARDES A CREER
 
-3. STATIONS, HOPITAL ET ZONES INONDEES
+- ALYX-00-DEPART : debut de campagne, avant toute route de succes.
+- ALYX-01-GNOME : juste avant de prendre Gnome Chompski dans la zone de test
+  des gants de Russell.
+- ALYX-01-RUSSELL : avant le Geiger, la figurine Scout et le chargeur lance.
+- ALYX-02-GARY : avant les coeurs de headcrab et la nourriture.
+- ALYX-03-COMBATS : avant la premiere vraie rencontre avec des soldats.
+- ALYX-05-SUBSTATION : avant les mines et la salle de barils explosifs.
+- ALYX-07-JEFF : avant la premiere porte bruyante de la distillerie.
+- ALYX-07-CHOIX : juste avant de fermer le conteneur final de la distillerie.
+- ALYX-08-VODKA : au debut du chapitre suivant, jusqu'a la confirmation de
+  Team Spirit.
+- ALYX-10-GNOME : avant la derniere grande transition avec le gnome.
+- ALYX-11-FINAL : avant la sequence de fin et le choix final.
 
-- Recupere le fusil a pompe pour Zombie with a Shotgun et le SMG pour
-  Unbonded. Explose un reservoir de gaz sur un ennemi pour Pro-Pain.
-- Utilise les gants pour attraper un objet sur un soldat vivant et intercepte
-  une grenade en vol pour Combine Harvester et Deadliest Catch. Recharge si
-  une grenade est detruite ou si l'objet tombe hors de portee.
-- Hacke une mine avec le multitool pour Safe Trip. Observe les fils et les
-  recoins avant de traverser les couloirs.
-- Dans les zones avec geiger, garde une sauvegarde avant l'interaction et
-  valide Eye of the Geiger. Les scenes avec eau et hauteur demandent des
-  pauses VR et une fouille lente.
+MISSABLES ET FENETRES COURTES
 
-4. JEFF ET LES SECTEURS TECHNIQUES
+- Gnome Vault of My Own : le gnome est l'objectif le plus manquable. Garde-le
+  avec toi a chaque chargement et sauvegarde avant les ascenseurs, trous,
+  palettes et transitions.
+- Good Grub, On a Roll, Little Slugger, Eye of the Geiger et Mag-Snagger :
+  objectifs du debut. Valide-les avant de quitter le chapitre 1.
+- Freshly Squeezed : fais l'interaction dans la cuisine de Gary avant de
+  poursuivre. Si le bouton VR ne reagit pas, refais chaque coeur avec la main
+  dominante.
+- Blast From the Past : desactive toute la salle de mines avant de tirer la
+  resine ou les objets. Une explosion impose de recharger la sauvegarde de la
+  salle.
+- Near-Jeff Experience, Crustacean Frustration et Hold Your Liquor : trois
+  fenetres courtes du chapitre 7. Sauvegarde avant chaque scene et recharge
+  si le bruit est declenche trop tot.
+- Team Spirit : conserve la vodka dans un emplacement de poignet jusqu'au
+  chapitre 8 et attends la notification avant de la deposer.
+- Sound Strategy et Flat Note : branches mutuellement exclusives. Utilise
+  ALYX-07-CHOIX et fais les deux essais sans avancer entre les deux.
+- Mazel Tov : le compteur est cumulatif, mais casser les bouteilles a la main
+  des le chapitre 1 evite une longue session de nettoyage.
+- Pro-Pain, Combine Harvester, Indirect Approach et Deadliest Catch : les
+  conditions portent sur un ennemi vivant, un bouclier leve ou une grenade en
+  vol. Une simple victoire de combat ne suffit pas.
 
-- Avance sans courir dans les zones a menace sonore. Les objets et bouteilles
-  doivent etre ramasses avant de jeter les contenants de diversion.
-- Pour les objectifs de boissons, de levier et de portes, sauvegarde avant
-  chaque sequence. Ne laisse pas une ressource obligatoire dans une zone
-  verrouillee.
-- Cherche les caches, plantes et interactions de jeu dans chaque salle
-  secondaire avant de retablir le courant ou d'ouvrir la sortie.
+ROUTE RECOMMANDEE
 
-5. ARMES, XEN ET EXTRACTION
+UNE CAMPAGNE PRINCIPALE + UNE SAUVEGARDE DE BRANCHE
 
-- Recupere la grenade Xen et utilise-la dans la sauvegarde d'action prevue.
-  Les rencontres avec bouclier, mines, headcrabs et soldats lourds ont chacune
-  une condition : ne gaspille pas la zone sur un essai brouillon.
-- Teste les objets du terrain et les armes de maniere variee pour les succes
-  d'interaction. Les intitulés Steam a verifier sont Sound Strategy, Flat Note,
-  Little Slugger, Indirect Approach, Near-Jeff Experience et Freshly Squeezed.
-- Termine la campagne puis recharge les saves de securite pour les objectifs
-  non obtenus. Le compteur final doit afficher 42/42.
+La plupart des succes sont cumulables dans une seule campagne. La seule
+branche importante est la distillerie : Sound Strategy demande de sortir sans
+tuer Jeff, tandis que Flat Note demande de le tuer. Conserve
+ALYX-07-CHOIX, valide une branche, recharge et valide l'autre.
 
-CHECKLIST 42/42
+Pour le gnome, la route la plus sure est une campagne dediee. Le gnome est
+physique, peut tomber dans un trou, rester derriere une porte ou disparaitre
+si tu charges une transition sans le tenir. Un seau peut servir de contenant
+de transport, mais ne le laisse jamais dans une zone que tu quittes.
 
-[ ] Progression : Hit and Run, Quaranta Giorni, Off the Rails, Checking In,
-    Surface Tension, Point Extraction et les succes de chapitre.
-[ ] Armes : Up in Arms, Zombie with a Shotgun, Unbonded, Pro-Pain,
-    Combine Harvester, Indirect Approach.
-[ ] Fouille : Dead Giveaway, Smash and Grab, Mazel Tov, Xen Garden, Xen
-    Lootism, Good Grub et les caches de zones.
-[ ] Interactions : Mag-Snagger, Cord-Cutter, Safe Trip, Sound Strategy,
-    Textbook Jinxing, Blast From the Past, Eye of the Geiger, On a Roll.
-[ ] Routes dediees : Gnome Alone, Gnome Vault of My Own, Team Spirit,
-    Crustacean Frustration, Freshly Squeezed et objectifs de combat.
-[ ] 42/42 succes Steam.
+Si tu ne veux pas faire deux campagnes, la route principale peut combiner le
+gnome, la vodka, les 50 bouteilles et tous les succes de combat. Les deux
+branches de Jeff restent faites par rechargement de ALYX-07-CHOIX.
+
+GESTION DES RESINES ET DES AMELIORATIONS
+
+- Ramasse chaque resine visible : casiers, bureaux, caisses, conduits,
+  rebords, rayonnages, distributeurs et petits recoins sous les plateformes.
+- Une resine n'est pas une munition : regarde derriere les meubles et au
+  dessus des portes avant de poursuivre. Les gants permettent souvent de
+  l'attirer sans sauter.
+- A la premiere station, installe n'importe quelle amelioration du pistolet
+  pour Up in Arms. Ne depense pas le reste au hasard.
+- Priorite pratique : capacite du pistolet, chargeur du pistolet, puis
+  ameliorations du fusil selon ton confort. L'amelioration precise importe
+  moins que le fait de conserver assez de resines pour les stations suivantes.
+- Avant chaque station, fouille la piece, le conduit voisin et l'etage
+  superieur. Les stations sont parfois placees a cote d'une resine hors de
+  l'axe principal.
+- Une station ratee n'est pas un echec de succes. Recharge seulement si tu
+  veux une route d'ameliorations precise ou si tu as oublie une resine.
+
+INTERACTIONS QUI COMPTENT
+
+- Une caisse jaune "SUPPLY" doit etre ouverte a mains nues au moins une fois.
+  La tirer ou la detruire au pistolet ne compte pas pour Smash and Grab.
+- Un soldat vivant doit encore porter l'objet au moment ou les gravity gloves
+  l'arrachent pour Combine Harvester. Fouiller un cadavre ne compte pas.
+- Une grenade ennemie doit etre interceptee en vol avec les gravity gloves
+  pour Deadliest Catch. La renvoyer est optionnel, mais ne la laisse pas
+  exploser avant l'interception.
+- Pour Pro-Pain, vise la partie rouge de la bonbonne fixee au dos d'un soldat
+  blanc encore vivant. Une explosion apres la mort ne compte pas.
+- Pour Indirect Approach, le Combine Heavy doit avoir son bouclier leve au
+  moment de sa mort. Une grenade ou le lance-grenades du fusil simplifie la
+  fenetre.
+- Pour Xen Lootism, attrape rapidement la grenade Xen dans la plante. Si elle
+  se referme, chatouille la tige puis attends qu'elle la relache.
+
+CHAPITRE 1 - ENTANGLEMENT
+
+OBJECTIF DU CHAPITRE
+
+Installer les bases de la VR, rejoindre le laboratoire de Russell et sortir
+avec les gants. Le chapitre contient beaucoup d'objectifs uniques : ne cours
+pas vers la sortie avant d'avoir termine la liste ci-dessous.
+
+1.1 - BASE D'ALYX : PREMIERE FOUILLE
+
+- Dans la piece de depart, inspecte les bureaux, tiroirs, etageres, balcon et
+  rebords. Les petits objets servent a comprendre la prise et le lancer.
+- Dans la piece du snark, prends le recipient de nourriture. Retourne-le au
+  dessus du bocal et secoue-le pour nourrir le petit animal.
+- Valide Good Grub avant d'ouvrir la route vers l'exterieur. Si l'icone ne
+  s'affiche pas, recharge ALYX-00-DEPART et refais l'action lentement.
+- Ramasse les premieres bouteilles et casse-les proprement. Le compteur de
+  Mazel Tov est cumulatif : commence maintenant, sans detruire les bouteilles
+  au pistolet a distance.
+- Debloque la sortie, prends le temps de regarder sous les tables et derriere
+  les portes. Il n'y a pas encore de combat qui impose de se presser.
+
+SUCCES A VALIDER ICI
+
+- Good Grub : nourrir le snark avec le recipient de nourriture.
+- Gnome Alone : se debloque automatiquement au lancement d'une partie sur la
+  version actuelle. Si tu l'as deja, ne la refais pas.
+
+1.2 - COUR, TOITS ET AIRE DE JEUX
+
+- Dans la cour, ne suis pas directement le chemin principal. Fais le tour des
+  bacs, bancs, escaliers, dessous de passerelles et fenetres accessibles.
+- Avant de rejoindre le laboratoire, trouve le seau rouge pose au sol dans
+  l'aire de jeux.
+- Pose le seau en haut de la glissiere, puis donne-lui une impulsion pour le
+  faire rouler tout le long. Marcher sur la glissiere ou toucher le manege ne
+  suffit pas.
+- Attends la notification avant de reprendre la route.
+
+SUCCES A VALIDER ICI
+
+- On a Roll : faire rouler le seau rouge dans la glissiere de l'aire de jeux.
+
+1.3 - EXTERIEUR DU LABORATOIRE DE RUSSELL : ROUTE GNOME
+
+- Apres l'ouverture de la zone de test des gravity gloves, tourne-toi vers la
+  partie exterieure derriere la separation. Le gnome de jardin est pose sur
+  un canape dans le jardin arriere.
+- Prends Gnome Chompski avant de continuer. N'utilise pas le magnet gnome du
+  refrigerateur comme solution de confort si tu peux prendre le vrai gnome.
+- Pour le transporter, garde-le en main ou dans un seau que tu portes avec
+  toi. Ne le range pas dans un emplacement de grenade, ne le laisse pas sur
+  une plateforme et ne le depose pas avant une transition.
+- Sauvegarde ALYX-01-GNOME maintenant. Apres chaque zone de chargement,
+  verifie visuellement que le gnome est toujours avec toi.
+- Si le gnome tombe dans un trou ou reste hors d'atteinte, recharge la derniere
+  sauvegarde, meme si la route semble encore continuable.
+
+ALTERNATIVE DE SECOURS GNOME
+
+- Le decapsuleur en forme de gnome fixe sur le cote du refrigerateur de
+  Russell peut aussi satisfaire Gnome Vault of My Own selon la version du
+  jeu. Le vrai gnome de jardin reste l'option la plus simple a suivre.
+
+1.4 - LABORATOIRE : REPERE LES OBJETS AVANT LE DIALOGUE
+
+- Fais une sauvegarde ALYX-01-RUSSELL en entrant dans le laboratoire.
+- Sur une etagere, prends le compteur Geiger jaune et approche-le du visage
+  de Russell. Maintiens-le assez longtemps pour entendre la validation.
+- Repere la petite figurine Scout de Team Fortress 2. Quand le jeu te demande
+  de te representer sur la carte holographique, pose cette figurine sur la
+  carte, pas un autre objet.
+- Regarde dans les etageres, sous les tables et autour des casiers avant de
+  quitter la zone. Le laboratoire est le dernier endroit confortable pour
+  refaire la sauvegarde du gnome.
+
+SUCCES A VALIDER ICI
+
+- Eye of the Geiger : mesurer Russell avec le compteur Geiger.
+- Little Slugger : choisir la figurine Scout comme marqueur sur la carte.
+
+1.5 - FENETRE ET ARME DE RUSSELL
+
+- Lorsque Russell te lance l'arme et le chargeur par la fenetre, ne regarde
+  pas seulement l'arme. Prepare une main libre pour le chargeur.
+- Attrape le chargeur avant qu'il touche le sol. Les gravity gloves peuvent
+  l'attirer vers toi si tu rates la prise manuelle, mais recharge si le
+  chargeur tombe hors de portee.
+- Equipe le pistolet et teste le rechargement. Ne tire pas inutilement sur les
+  bouteilles restantes : le compteur de Mazel Tov se fait a la main.
+
+SUCCES A VALIDER ICI
+
+- Mag-Snagger : attraper le chargeur de Russell avant sa chute.
+- Hit and Run : sortir du transport de prisonniers pendant la progression
+  du chapitre. C'est une validation d'histoire, pas une action optionnelle.
+
+1.6 - FIN DE CHAPITRE : TRANSITION PROPRE
+
+- Avant la porte de sortie, ramasse toutes les resines visibles dans les
+  bureaux, conduits et recoins du laboratoire.
+- Place le gnome dans ton seau, tiens le seau et sauvegarde. Ne le pose pas
+  juste avant le chargement.
+- Une fois dans la zone suivante, confirme que le gnome, les gants et le
+  pistolet sont bien presents avant de combattre.
+
+VERIFICATION CHAPITRE 1
+
+- Good Grub, On a Roll, Little Slugger, Eye of the Geiger et Mag-Snagger sont
+  valides.
+- Gnome Chompski est dans la route dediee.
+- Toutes les resines, bouteilles et pieces secondaires ont ete fouillees.
+- Le compteur de bouteilles a commence sans utiliser le pistolet.
+
+CHAPITRE 2 - THE QUARANTINE ZONE
+
+OBJECTIF DU CHAPITRE
+
+Traverser les premiers secteurs contamines, apprendre la fouille de combat,
+rencontrer Gary et conserver les ressources pour la premiere station.
+
+2.1 - ENTREE DE LA ZONE ET PREMIERS CASIERS
+
+- Des que le chapitre commence, fouille le wagon, les banquettes, les casiers
+  et les recoins sous les passerelles avant de suivre le marqueur de sortie.
+- Au premier cadavre utile, prends un objet directement sur le corps. Une
+  munition, une seringue ou une grenade convient pour Dead Giveaway.
+- Repere la premiere caisse jaune portant l'etiquette SUPPLY. Pose-la au sol,
+  prends-la a deux mains si necessaire et brise-la contre un mur ou le sol.
+  Ne la tire pas avec les gants et ne la detruis pas au pistolet pour le
+  premier essai.
+- Ramasse les seringues de soin et les munitions, mais garde au moins une
+  grenade pour un futur combat a bouclier.
+
+SUCCES A VALIDER ICI
+
+- Quaranta Giorni : entrer dans la Quarantine Zone.
+- Dead Giveaway : recuperer un objet sur un cadavre.
+- Smash and Grab : ouvrir une caisse SUPPLY a mains nues.
+
+2.2 - RUE, IMMEUBLES ET FOUILLE VERTICALE
+
+- Dans chaque immeuble, commence par le rez-de-chaussee puis remonte. Les
+  resines sont souvent sur les rebords, derriere une porte de bureau ou dans
+  un conduit visible depuis une fenetre.
+- Les petits casiers peuvent contenir resine, munitions ou soin. Ouvre-les
+  tous avant de tourner une vanne ou de franchir une grille.
+- Pour les objets Xen plantes aux murs, approche lentement et utilise les
+  gravity gloves. Un objet attire trop vite peut tomber derriere une grille.
+- Casse les bouteilles a la main. Compte mentalement par series de dix et
+  fais une sauvegarde lorsque tu as vide une grande piece.
+- Dans les combats, attire les objets rouges ou les munitions avec les gants
+  avant de terminer le dernier ennemi. Un corps disparait parfois apres la
+  fin d'une rencontre.
+
+2.3 - PREMIERE STATION DE FABRICATION
+
+- Foule la salle autour de la station : sous les tables, dans les casiers,
+  derriere le panneau, sur la passerelle et dans le conduit lateral.
+- Resous le puzzle du multitool en amenant la sphere bleue au point final.
+  Evite les spheres rouges et suis le contour lumineux. Tourne le poignet
+  plutot que le corps pour rester stable en VR.
+- Place le pistolet dans la station et installe une premiere amelioration.
+  Toute amelioration convient pour Up in Arms ; la capacite ou le chargeur
+  rendent la suite plus confortable.
+- Sauvegarde juste apres la notification et avant de quitter la station.
+
+SUCCES A VALIDER ICI
+
+- Up in Arms : installer la premiere amelioration du pistolet.
+
+2.4 - IMMEUBLES INFESTES ET DETOURS
+
+- Quand une porte principale est fermee, inspecte les fenetres, conduits,
+  escaliers de secours et toits bas. La route de campagne utilise souvent un
+  detour vertical plutot qu'une cle.
+- Fais passer le gnome avant toi dans chaque ouverture. Lance-le sur une
+  plateforme stable, rejoins-le, puis sauvegarde avant le prochain trou.
+- Dans les pieces a faible visibilite, pointe la lampe vers les plafonds,
+  dessous de lits et cages d'escalier. Les headcrabs peuvent cacher des
+  resines derriere leurs points d'apparition.
+- Ne consomme pas toutes les seringues : une seringue et une grenade doivent
+  rester dans les poches avant la section de Gary.
+
+2.5 - GARY : CUISINE ET COEURS DE HEADCRAB
+
+- Dans la cuisine de Gary, attends que la porte de la zone soit ouverte et
+  que la scene soit terminee avant de toucher les objets.
+- Prends un coeur de headcrab dans le recipient ou la poele. Tiens-le, puis
+  utilise le bouton de pression/grip correspondant a l'action de grenade sur
+  ton casque.
+- Si Freshly Squeezed ne se valide pas, presse chaque coeur de la poele un
+  par un, puis celui du recipient. Avec certains casques, l'action ne compte
+  qu'avec la main dominante ou le bouton de pression, pas avec la simple
+  poignee.
+- Fouille la cuisine, les caisses et les rebords avant de ressortir. Ne lance
+  pas un coeur dans un trou : recharge ALYX-02-GARY si l'objet est perdu.
+
+SUCCES A VALIDER ICI
+
+- Freshly Squeezed : presser un coeur de headcrab avec la bonne action VR.
+
+2.6 - SORTIE ET RESSOURCE DE SUSTENANCE
+
+- Apres la cuisine, suis la route balisee en fouillant chaque piece laterale.
+  Le chapitre offre encore plusieurs bouteilles et resines dans les
+  bureaux, caves et dessus de caisses.
+- Laisse Gary terminer son interaction de progression. Le succes de scene se
+  valide sans choix special ; ne quitte pas la zone pendant le dialogue.
+- Valide Sustenance, puis fais une sauvegarde avant la transition de chapitre.
+
+SUCCES A VALIDER ICI
+
+- Sustenance : recevoir le cadeau de nourriture pendant la progression.
+
+VERIFICATION CHAPITRE 2
+
+- Dead Giveaway, Smash and Grab, Up in Arms, Quaranta Giorni, Freshly Squeezed
+  et Sustenance sont valides.
+- La resine de chaque piece accessible a ete ramassee.
+- Le gnome est present et le compteur de bouteilles continue de monter.
+- Une grenade et une seringue sont encore disponibles pour les sections de
+  combat et de bouclier.
+
+CHAPITRE 3 - IS OR WILL BE
+
+OBJECTIF DU CHAPITRE
+
+Traverser les tunnels sombres, obtenir le fusil, utiliser la lampe, fouiller
+les zones Xen et mener la rame vers son arret force. C'est un chapitre ou la
+fouille verticale est plus rentable que la course.
+
+3.1 - ARRIVEE ET FUSIL A POMPE
+
+- Des la premiere zone, inspecte les plateformes, cages et tuyaux avant de
+  descendre. Fais passer le gnome dans les ouvertures avec un lancer court.
+- Quand le fusil a pompe devient accessible sur le parcours, prends-le sur le
+  corps indique. La notification de Zombie with a Shotgun doit apparaitre
+  immediatement.
+- Ouvre et fouille les caisses autour de l'arme. Les munitions sont souvent
+  dans des casiers bas et les resines dans les rebords au-dessus de la route.
+- Teste le chargement de l'arme sans vider tes cartouches. Garde les grenades
+  et les munitions de fusil pour les ennemis proteges.
+
+SUCCES A VALIDER ICI
+
+- Zombie with a Shotgun : recuperer le fusil a pompe.
+
+3.2 - LAMPE, TUNNELS ET JARDIN XEN
+
+- Dans les tunnels, utilise la lampe sur les plafonds, conduits, tuyaux et
+  cages d'escalier. La route principale est souvent lisible par les fleches,
+  mais les resines sont dans les angles morts.
+- Avant de descendre dans la zone de vegetation explosive, fouille le dernier
+  couloir sec : casiers, table, rebord de fenetre et dessous de la passerelle.
+- Entre dans l'infestation Xen quand la route l'impose. Le succes Xen Garden
+  est lie a cette entree, pas a une collecte particuliere.
+- Les plantes Xen qui gardent une grenade peuvent servir a Xen Lootism si tu
+  n'as pas encore valide le succes. Attrape la grenade rapidement ou touche la
+  tige pour ouvrir la prise.
+
+SUCCES A VALIDER ICI
+
+- Xen Garden : entrer dans la zone d'infestation Xen.
+- Xen Lootism : saisir une grenade Xen dans son emplacement vegetal.
+
+3.3 - PREMIERS SOLDATS ET SUCCES DE COMBAT
+
+- Avant le premier soldat blanc avec bonbonne, fais une sauvegarde
+  ALYX-03-COMBATS. Attends qu'il soit vivant, vise la partie rouge de la
+  bonbonne et tire. Si tu as touche le gilet ou si l'ennemi etait deja mort,
+  recharge et recommence.
+- Lorsqu'un soldat vivant porte une munition ou une grenade visible, vise
+  l'objet avec les gravity gloves et arrache-le avant de tuer le soldat. Le
+  premier combat ouvert est une bonne fenetre pour Combine Harvester.
+- Lorsqu'un Combine Heavy leve son bouclier, lance une grenade ou utilise le
+  lance-grenades du fusil pour le tuer pendant que le bouclier est encore
+  actif. Si le bouclier tombe avant l'explosion, recharge.
+- Pour Deadliest Catch, attends une grenade ennemie, attrape-la en vol avec
+  les gravity gloves puis ecarte-la. Tu n'es pas oblige de la renvoyer, mais
+  tu dois la toucher avant qu'elle explose.
+
+SUCCES A VALIDER ICI
+
+- Pro-Pain : detruire la bonbonne rouge d'un soldat vivant.
+- Combine Harvester : voler un objet a un soldat vivant avec les gravity
+  gloves.
+- Indirect Approach : tuer un Combine Heavy alors que le bouclier est leve.
+- Deadliest Catch : intercepter une grenade ennemie en plein vol.
+
+3.4 - LIGNES, VANNES ET OUVERTURES
+
+- Pour chaque porte technique, suis les cables depuis le boitier jusqu'au
+  verrou. Les interrupteurs sont souvent derriere une grille ou au-dessus du
+  niveau de l'oeil.
+- Si tu dois ouvrir une vanne, tourne-la jusqu'a la butee puis verifie le
+  voyant ou le bruit de verrouillage avant de repartir.
+- Dans les salles de stockage, ouvre les casiers, retourne les petits meubles
+  et regarde sous les conduites. Les resines sont volontairement placees a
+  hauteur basse ou derriere des obstacles.
+- Avant chaque descente, pose le gnome dans ton seau et sauvegarde. Un lancer
+  trop long peut le faire tomber dans une zone non recuperable.
+
+3.5 - AIGUILLAGE ET TRANSPORT
+
+- Arrive a la zone de l'aiguillage, fouille la salle de controle, les wagons
+  et la passerelle superieure avant d'actionner le mecanisme.
+- Si le chemin direct ne fonctionne pas, active l'aiguillage de secours et
+  utilise la voie morte pour arreter le transport. Suis les leviers et
+  panneaux jusqu'a ce que la rame soit immobilisee.
+- Le succes Off the Rails se valide sur cette action de progression. Ne
+  recharge pas apres la notification : tu peux ensuite fouiller calmement les
+  quais et preparer la transition.
+
+SUCCES A VALIDER ICI
+
+- Off the Rails : arreter le train de transport avec l'aiguillage.
+
+VERIFICATION CHAPITRE 3
+
+- Zombie with a Shotgun, Xen Garden et Off the Rails sont valides.
+- Les essais Pro-Pain, Combine Harvester, Indirect Approach et Deadliest
+  Catch ont ete confirmes ou une sauvegarde de combat est conservee.
+- Les plantes Xen ont ete inspectees, les caisses ouvertes et les resines
+  des tunnels ramassees.
+- Gnome Chompski est present avant le chargement suivant.
+
+CHAPITRE 4 - SUPERWEAPON
+
+OBJECTIF DU CHAPITRE
+
+Traverser la zone de liaison, resoudre les boitiers de securite et arriver a
+la section suivante avec assez de munitions, de soin et de resine. Ce chapitre
+est court en succes mais important pour la preparation.
+
+4.1 - ZONE DE LIAISON
+
+- Fouille les salles de maintenance, les alcoves sous les escaliers et les
+  conduits derriere les grilles. Les resines de ce chapitre sont souvent dans
+  des boites a hauteur de genou.
+- Utilise le multitool sur les panneaux techniques. Si les billes rouges
+  bloquent le trajet, contourne-les avec de petits mouvements de poignet et
+  vise le contour bleu final.
+- Avant un combat, range une seringue dans chaque emplacement de poignet et
+  conserve une grenade pour une ouverture rapide.
+- Fais passer le gnome par la meme porte que toi et ne le laisse pas dans une
+  salle de securite que tu ne peux plus revisiter.
+
+4.2 - STATION ET FOUILLE DES REBORDS
+
+- Si une station est presente, resols le puzzle avant de prendre l'arme dans
+  le logement. Ramasse d'abord les resines de la station, du plafond bas et
+  du conduit lateral.
+- Installe une amelioration qui correspond a ton style, mais ne depense pas
+  les dernieres resines si tu vises toutes les ameliorations par confort.
+- Verifie les compteurs : 50 bouteilles, gnome et succes de combat. Une
+  notification absente justifie un rechargement avant la transition.
+
+4.3 - SORTIE
+
+- Avant le dernier ascenseur, inspecte la plateforme, le dessous du quai et
+  les caisses de munitions.
+- Pose le gnome dans le seau, sauvegarde et tiens le seau pendant le
+  chargement. Confirme sa presence avant d'ouvrir la prochaine porte.
+
+VERIFICATION CHAPITRE 4
+
+- Toutes les pieces accessibles ont ete fouillees.
+- Les resines et objets hors chemin ont ete pris avant la transition.
+- La reserve de soin, de grenades et de munitions est suffisante.
+- Aucun objet de la route gnome n'a ete laisse derriere.
+
+CHAPITRE 5 - THE NORTHERN STAR
+
+OBJECTIF DU CHAPITRE
+
+Atteindre l'hotel, retablir l'energie, trouver le SMG, fermer la sous-station
+et fouiller les zones urbaines avant la section souterraine.
+
+5.1 - APPROCHE DE L'HOTEL
+
+- Des l'arrivee dans le quartier, cherche les portes entrouvertes, fenetres,
+  balcons bas et cages d'escalier. Les resines peuvent etre derriere des
+  affiches, sous des bureaux ou dans des armoires.
+- Ouvre chaque casier de maintenance et casse les bouteilles a la main. Si tu
+  entends un ennemi, termine la fouille seulement apres avoir nettoye la
+  piece.
+- Continue vers le batiment principal jusqu'a ce que Checking In se valide.
+  Le succes est lie a l'arrivee dans la zone, pas a un choix de dialogue.
+
+SUCCES A VALIDER ICI
+
+- Checking In : atteindre le Northern Star.
+
+5.2 - HOTEL : REMISE EN ENERGIE
+
+- Avant le boitier principal, fouille le hall, les bureaux, les couloirs
+  lateraux et les chambres ouvertes. Les caisses de ravitaillement peuvent
+  etre cassees a mains nues meme si Smash and Grab est deja valide.
+- Suis chaque cable depuis le boitier jusqu'au point d'alimentation. Les
+  panneaux peuvent etre derriere une porte, sous un comptoir ou au-dessus
+  d'une passerelle.
+- Utilise la solution environnementale indiquee par la salle : leviers,
+  batterie, cable ou mecanisme de secours. Le succes Heart-Breaker Hotel se
+  valide quand le courant est retabli et que la progression reprend.
+- Ne quitte pas le hall tant que la resine de la reception, du couloir et de
+  la piece technique n'est pas ramassee.
+
+SUCCES A VALIDER ICI
+
+- Heart-Breaker Hotel : remettre l'energie en utilisant la solution de la
+  salle.
+
+5.3 - SECTEURS DE SERVICE ET SUBSTATION
+
+- Dans les couloirs techniques, repere les mines avant de tirer les resines
+  ou les objets. Les fils lumineux sont plus faciles a voir en te baissant.
+- Lors de la premiere mine, utilise le multitool et resous son parcours pour
+  Safe Trip. Ne detruis pas la mine avant l'interaction.
+- Dans la cour ou la sous-station, detache les cables et actionne le boitier
+  dans l'ordre impose par les voyants. Une fois la sous-station arretee,
+  Cord-Cutter se valide automatiquement.
+- Fais une sauvegarde ALYX-05-SUBSTATION avant la salle de mines. Si une mine
+  explose ou si le gnome est projete, recharge immediatement.
+
+SUCCES A VALIDER ICI
+
+- Safe Trip : desactiver une mine avec le multitool.
+- Cord-Cutter : fermer la sous-station.
+
+5.4 - GRENADE XEN ET ARMES
+
+- Quand tu rencontres une grenade Xen gardee par une plante, ne tire pas sur
+  la plante. Chatouille sa tige ou tends la main, puis attrape la grenade au
+  moment ou elle s'ouvre.
+- Stocke-la dans un emplacement de poignet ou utilise-la pendant le combat.
+  Si la plante se referme, attends la prochaine ouverture au lieu de tirer.
+- Continue la fouille des toits bas, plateformes et salles de service. Une
+  station peut se trouver derriere un escalier ou dans une salle a cote de la
+  route principale.
+
+SUCCES A VALIDER ICI
+
+- Xen Lootism : saisir la grenade Xen dans son emplacement.
+- Unbonded : recuperer le SMG quand le parcours le rend disponible.
+
+5.5 - PUITS ET SORTIE SOUTERRAINE
+
+- Dans la section souterraine, examine les plateformes avant de descendre.
+  Attire les resines avec les gravity gloves plutot que de sauter vers elles.
+- Utilise les caisses et les tuyaux comme couverture. Les soldats proteges
+  sont une bonne fenetre de secours pour Indirect Approach si le succes n'est
+  pas encore acquis.
+- Poursuis jusqu'a la sortie du puits. Surface Tension se valide quand tu
+  t'echappes de cette section, sans interaction optionnelle particuliere.
+
+SUCCES A VALIDER ICI
+
+- Surface Tension : sortir du puits souterrain.
+- Unbonded : confirmer la recuperation du SMG si ce n'est pas deja fait.
+
+VERIFICATION CHAPITRE 5
+
+- Checking In, Heart-Breaker Hotel, Surface Tension, Unbonded et Cord-Cutter
+  sont valides.
+- Safe Trip et Xen Lootism sont valides ou une sauvegarde de zone est garde.
+- Les mines, resines, casiers, chambres ouvertes et toits accessibles ont
+  ete fouilles.
+- Le gnome est present, le compteur de bouteilles continue et le multitool
+  est disponible.
+
+CHAPITRE 6 - ARMS RACE
+
+OBJECTIF DU CHAPITRE
+
+Traverser le chantier, resoudre la salle de barils et de mines, rejoindre les
+expositions aquatiques et terminer le puzzle electrique du parc de citernes.
+
+6.1 - ENTREE DU CHANTIER
+
+- Fouille les caisses, etablis, wagons et conduits avant la premiere grande
+  rencontre. Les petites alcoves au-dessus du chemin contiennent souvent de
+  la resine.
+- Repere les panneaux de mines et les lignes rouges avant de tirer un objet.
+  Un objet attire peut traverser un rayon et declencher toute la salle.
+- Conserve une sauvegarde ALYX-05-SUBSTATION ou cree ALYX-06-BARILS des que la
+  salle de barils est visible.
+
+6.2 - SALLE DES BARILS ET DES MINES
+
+- La salle se trouve apres la premiere rencontre avec les blue antlions. Ne
+  ramasse pas la resine au centre avant d'avoir repere tous les rayons.
+- Avance sur le bord de la salle. Desactive chaque mine avec le multitool,
+  une par une, en regardant la sphere bleue et le contour final.
+- Utilise les gravity gloves uniquement apres avoir desactive le mineur qui
+  protege l'objet. Ne tire pas une caisse, une resine ou un baril a travers un
+  rayon.
+- Quand toutes les mines de la salle sont desactivees, Blast From the Past se
+  valide. Si une mine explose, recharge ALYX-06-BARILS : le succes demande la
+  salle complete, pas une mine isolee.
+
+SUCCES A VALIDER ICI
+
+- Blast From the Past : desactiver toutes les mines de la salle de barils
+  explosifs.
+- Safe Trip : si la premiere mine n'a pas ete hackee auparavant, fais-la ici
+  avant toute autre action.
+
+6.3 - CHANTIER ET EAU
+
+- Dans les cours, utilise les tuyaux comme chemins hauts et regarde sous les
+  passerelles. Les resines sont parfois collees a une poutre ou visibles
+  uniquement depuis l'autre cote d'une grille.
+- Lorsque la route descend vers les installations aquatiques, ramasse les
+  munitions, soins et resines avant d'utiliser le mecanisme de descente.
+- Sea Level se valide en atteignant les expositions aquatiques. Il n'y a pas
+  de collection a activer : la fouille doit etre faite avant la transition.
+
+SUCCES A VALIDER ICI
+
+- Sea Level : atteindre les expositions aquatiques.
+
+6.4 - PARC DE CITERNE : PUZZLE ELECTRIQUE
+
+- Dans le parc de citernes, commence par ouvrir les casiers et reperer les
+  cables avant de toucher aux manivelles.
+- Le puzzle demande de relier l'alimentation en suivant le circuit visible.
+  Commence par la source, suis le cable vers le premier boitier, puis aligne
+  les interrupteurs jusqu'au mecanisme de sortie.
+- Si une vanne bloque, cherche le chemin en hauteur et le panneau derriere
+  la citerne voisine. Les elements utiles sont dans le meme secteur, pas dans
+  une zone chargee plus loin.
+- Resous le circuit, active la sortie du chantier et attends la notification
+  de Triple Bypass avant de partir.
+
+SUCCES A VALIDER ICI
+
+- Triple Bypass : resoudre le puzzle electrique du parc de citernes et sortir.
+
+6.5 - FIN DE CHAPITRE
+
+- Avant la transition, fais un tour inverse : plateforme du puzzle, dessous
+  des citernes, caisses, local de maintenance et fenetres.
+- Verifie le gnome dans le seau, sauvegarde et traverse la transition avec
+  le seau en main.
+
+VERIFICATION CHAPITRE 6
+
+- Blast From the Past, Sea Level et Triple Bypass sont valides.
+- Chaque mine de la salle de barils est desactivee.
+- Les caisses, citernes, passerelles, resines et locaux techniques sont
+  fouilles.
+- Les succes de combat non valides ont encore des fenetres dans les chapitres
+  suivants.
+
+CHAPITRE 7 - JEFF
+
+OBJECTIF DU CHAPITRE
+
+Traverser la distillerie en gerant le bruit, les bouteilles et les trois
+cellules d'energie. C'est le chapitre le plus sensible aux sauvegardes.
+
+7.1 - PREMIERE PORTE ET REGLE DU BRUIT
+
+- Cree ALYX-07-JEFF avant d'ouvrir la grande porte a deux mains. Le bruit de
+  la porte declenche la premiere poursuite.
+- Ouvre, recule et lance une bouteille loin de ta trajectoire. Passe par le
+  passage bas a gauche ou par la couverture disponible, puis avance sans
+  casser de bouteille inutilement.
+- Prends la resine sur l'etagere du bout du couloir. Ramasse une bouteille
+  pour la prochaine diversion et garde le gnome dans le seau.
+- Dans chaque salle, repere d'abord le chemin de fuite, puis les bouteilles
+  de diversion. Ne les casse pas avant de savoir ou tu vas.
+
+7.2 - QUAI DE CHARGEMENT ET CONGELATEUR
+
+- Dans le quai, fouille le grand congelateur pour la resine, les bouteilles et
+  les objets utiles. Ne tourne pas encore la grande roue si la fouille n'est
+  pas terminee.
+- Lance une bouteille dans le congelateur pour attirer Jeff. Quand il entre,
+  ferme la porte coulissante et abaisse le verrou. Verifie visuellement que
+  le verrou est bien engage.
+- Profite de la zone calme pour fouiller l'evier, le trou dans le mur et les
+  tuyaux. Une resine se trouve dans le passage lateral pres de l'evier.
+- Tourne la roue jusqu'a la butee, attends le clic de verrouillage, puis
+  appuie sur le bouton rouge.
+
+7.3 - COULOIRS, CELLULES ET RESINES
+
+- Traverse la passerelle et le trou dans le mur. Prends les resines sur le
+  chemin, dans les caisses jaunes et entre les tuyaux.
+- Dans la salle basse, descends l'echelle et repere les trois cellules
+  d'energie. Ramasse les resines de la caisse jaune et des plateformes avant
+  de porter une cellule.
+- Transporte une cellule a la fois vers la porte ronde. Pose-la dans son
+  logement jusqu'au clic. Si tu la fais tomber, attends que la salle soit
+  calme avant de la recuperer.
+- Une bouteille de vodka se trouve dans la zone de la distillerie. Prends-la
+  seulement apres avoir cree ALYX-07-VODKA et range-la dans un emplacement de
+  poignet.
+
+SUCCES A VALIDER ICI
+
+- Hold Your Liquor : ouvre le placard de la salle de ravitaillement, attrape
+  la bouteille qui tombe avant qu'elle ne casse et n'alerte Jeff.
+- Team Spirit : prends une bouteille de vodka dans la distillerie et garde-la
+  dans un emplacement de poignet jusqu'au chapitre suivant.
+
+7.4 - NEAR-JEFF EXPERIENCE
+
+- Fais une sauvegarde juste avant une zone ou Jeff peut etre distrait par une
+  bouteille.
+- Jette une bouteille dans une direction opposee, laisse Jeff se tourner,
+  puis reste a proximite pendant dix secondes sans le toucher.
+- "Proche" ne signifie pas colle a lui : reste derriere ou sur le cote, a une
+  distance ou son attaque ne peut pas te saisir directement.
+- La petite salle des cellules offre une bonne fenetre : il y a des caisses,
+  une couverture et assez d'espace pour tenir la duree.
+- Si la notification n'arrive pas, recharge et utilise une diversion plus
+  eloignee. Ne tente pas l'objectif dans une zone ouverte sans sortie.
+
+SUCCES A VALIDER ICI
+
+- Near-Jeff Experience : rester pres de Jeff pendant dix secondes sans etre
+  trop pres.
+
+7.5 - COULOIR DU HEADCRAB
+
+- Apres la sortie de l'ascenseur, avance jusqu'au couloir etroit avec les
+  clotures grillagees de chaque cote.
+- Prepare ton arme avant de declencher le headcrab. Il va tenter de renverser
+  plusieurs objets et d'alerter Jeff.
+- Tue le headcrab avant qu'il ne touche les bouteilles et les objets. Mets-toi
+  dans une alcove laterale pour tirer : tirer depuis le centre peut attirer
+  Jeff plus vite.
+- Recharge si un objet tombe avant la mort du headcrab. Le succes depend de
+  la prevention du bruit, pas seulement de la mort de l'ennemi.
+
+SUCCES A VALIDER ICI
+
+- Crustacean Frustration : tuer le headcrab avant qu'il ne casse les objets.
+
+7.6 - BRANCHE DE FIN : SOUND STRATEGY OU FLAT NOTE
+
+- Cree ALYX-07-CHOIX juste avant la salle de controle finale de la
+  distillerie. Fais un tour de la salle et garde une bouteille a portee.
+- Pour Sound Strategy, lance une bouteille dans le conteneur de marchandises
+  afin d'y attirer Jeff. Tire le levier a gauche de la porte, engage le
+  verrou, puis pars sans appuyer sur le bouton sous le levier.
+- Attends la notification Sound Strategy avant de continuer. La consigne
+  est de sortir sans tuer Jeff.
+- Recharge ALYX-07-CHOIX pour la seconde branche. Repete l'enfermement, puis
+  appuie sur le bouton du compacteur sous le levier pour Flat Note.
+- Ne tente pas de faire les deux branches sans recharger : elles ne se
+  valident pas toutes les deux dans la meme decision.
+
+SUCCES A VALIDER ICI
+
+- Sound Strategy : sortir de la distillerie sans tuer Jeff.
+- Flat Note : tuer Jeff avec le compacteur apres l'avoir enferme.
+
+7.7 - SORTIE ET TRANSITION
+
+- Une fois la branche validee, fouille les derniers rayonnages, la salle de
+  controle, les dessous de plateformes et les caisses.
+- Garde la vodka dans ton poignet jusqu'a ce que la transition de chapitre 8
+  soit clairement chargee. Ne la remplace pas par une bouteille ordinaire.
+- Tiens le seau contenant le gnome pendant le chargement et verifie sa
+  presence avant de continuer.
+
+VERIFICATION CHAPITRE 7
+
+- Near-Jeff Experience, Crustacean Frustration, Hold Your Liquor, Team Spirit
+  et une des deux branches sont valides.
+- La seconde branche est validee par rechargement de ALYX-07-CHOIX.
+- Le gnome et la vodka sont encore dans la route.
+- Les bouteilles cassees ont ete comptees ; vise au moins 50 avant la fin du
+  chapitre si tu veux eviter un nettoyage tardif.
+
+CHAPITRE 8 - CAPTIVITY
+
+OBJECTIF DU CHAPITRE
+
+Sortir de la distillerie, confirmer la vodka, fouiller les passages de
+maintenance et passer aux revelations avec la reserve de ressources intacte.
+
+8.1 - CONFIRMATION DE TEAM SPIRIT
+
+- Au debut du chapitre, conserve la bouteille de vodka dans l'emplacement de
+  poignet. Ne la jette pas, ne la remplace pas et ne l'utilise pas comme
+  diversion.
+- Continue jusqu'a ce que Russell reconnaisse la bouteille et que Team Spirit
+  se valide.
+- Apres la notification, tu peux deposer la bouteille. Elle n'a plus besoin
+  d'etre transportee jusqu'a la fin de la campagne.
+
+SUCCES A VALIDER ICI
+
+- Team Spirit : confirmer que la vodka a ete conservee jusqu'au chapitre 8.
+
+8.2 - PASSAGES DE MAINTENANCE
+
+- Fouille les salles laterales avant les ascenseurs : caisses, conduits,
+  placards, plateformes et petits bureaux.
+- Les ennemis peuvent tomber d'un niveau superieur. Nettoie la salle avant de
+  tirer les resines avec les gravity gloves.
+- Profite d'une rencontre avec un soldat pour retenter Combine Harvester ou
+  Deadliest Catch si une sauvegarde de combat est disponible.
+- Avant la grande transition, ramasse les dernieres resines visibles,
+  verifie le gnome et sauvegarde.
+
+VERIFICATION CHAPITRE 8
+
+- Team Spirit est valide.
+- La route de ressources reste complete.
+- Les succes de combat non valides ont ete reassures avec une sauvegarde
+  propre, sans commandes ni modifications de carte.
+
+CHAPITRE 9 - REVELATIONS
+
+OBJECTIF DU CHAPITRE
+
+Remonter les secteurs verticaux, resoudre les boitiers de securite et
+atteindre la tour d'eau en fouillant les plateformes superieures.
+
+9.1 - MONTEE ET PASSERELLES
+
+- Regarde en haut avant chaque teleportation : resines, munitions et caisses
+  peuvent etre sur des poutres au-dessus de la route.
+- Verifie les conduits horizontaux, les trous dans les murs et les plateformes
+  sous les escaliers. Fais passer le gnome dans un seau stable et evite les
+  lancers verticaux.
+- Pour les boitiers, place la sphere bleue sur le contour final en faisant le
+  tour des obstacles. Les mouvements lents reduisent les erreurs en VR.
+- Utilise les boutons et leviers dans l'ordre indique par les voyants. Si la
+  porte ne reagit pas, cherche le cable de retour derriere le panneau.
+
+9.2 - TOUR D'EAU
+
+- Fouille la base de la tour : caisses, rebords, dessous des escaliers et
+  alcoves. Fais une sauvegarde avant l'escalade.
+- Commence l'ascension de la tour d'eau sans detour narratif. High Water
+  March se valide au debut de cette montee.
+- Pendant l'escalade, ne lance pas le gnome. Place-le sur chaque plateforme
+  large, monte, puis ramasse-le. Si une plateforme le fait glisser, recharge.
+
+SUCCES A VALIDER ICI
+
+- High Water March : commencer l'escalade de la tour d'eau.
+
+9.3 - FIN DE CHAPITRE
+
+- Au sommet, inspecte les caisses et les passerelles avant de prendre la
+  descente. Les resines brillent parfois derriere des structures metalliques.
+- Sauvegarde ALYX-10-GNOME au debut de la transition finale de la zone.
+
+VERIFICATION CHAPITRE 9
+
+- High Water March est valide.
+- Les hauteurs, passerelles, conduits et plateformes ont ete fouilles.
+- Le gnome a ete verifie apres chaque ascenseur ou chargement.
+
+CHAPITRE 10 - BREAKING AND ENTERING
+
+OBJECTIF DU CHAPITRE
+
+Traverser le chantier de construction, resoudre les mecanismes de palettes
+et de tuyaux, reveiller le Strider et conserver le gnome jusqu'au Vault.
+
+10.1 - ENTREE DU CHANTIER
+
+- Fouille les bureaux, cages d'escalier, conduits et plateformes avant la
+  premiere zone de combat. Les resines de ce chapitre sont moins nombreuses
+  mais tres faciles a laisser derriere.
+- Utilise les caisses comme couverture et garde une seringue dans un poignet.
+  Les ennemis peuvent apparaitre depuis les ouvertures hautes.
+- Ramasse toute resine visible avant de manipuler la grosse machinerie :
+  lorsqu'un plancher ou une palette bouge, certains recoins changent d'acces.
+
+10.2 - PUZZLE DES PALETTES ET DU TUYAU
+
+- Repere les deux commandes de palettes et la grande conduite qui bloque le
+  passage. Ne tire pas le gnome dans le mecanisme.
+- Deplace une palette pour ouvrir un passage bas, puis utilise la seconde
+  commande pour aligner la conduite avec la plateforme de sortie.
+- Souleve ou ecartes les planches qui bouchent le niveau inferieur. Teleporte-
+  toi de l'autre cote, descends et remonte par l'echelle.
+- Depuis la plateforme opposee, atteins la grille, ouvre le conduit et
+  recupere les resines du vent, du bureau et du rebord au-dessus des tuyaux.
+- Si le mecanisme semble bloque, remets la palette dans sa position de depart,
+  place-toi face a la commande et manipule une seule manette a la fois.
+
+10.3 - DERNIERE STATION ET COMBAT
+
+- Apres le puzzle des palettes, cherche la porte laterale et le conduit bas.
+  La resine de ce conduit est facile a rater car elle se trouve hors de la
+  trajectoire du joueur.
+- Monte les escaliers, fais le tour de la plateforme et recupere la resine
+  avant d'utiliser la derniere station de fabrication.
+- A la station finale, resous le multitool, puis installe l'amelioration dont
+  tu as besoin. Regarde derriere l'ecran, sous les tables et au-dessus du
+  vent avant de partir.
+- Prepare le fusil, les grenades et les soins pour la sequence de combat.
+  Le combat est plus simple si tu as deja valide les objectifs de grenade et
+  de bouclier sur des sauvegardes precedentes.
+
+10.4 - STRIDER ET VAULT
+
+- Lorsque la route te demande de reveiller le Strider, interagis avec le
+  mecanisme et attends la notification. Textbook Jinxing est une validation
+  de progression.
+- Avant la derniere grande transition, fais le tour de la zone de
+  construction : caisses, plateformes, escaliers, conduits et rebords.
+- Pour Gnome Vault of My Own, garde Gnome Chompski en main ou dans un seau
+  jusqu'a l'entree dans le Vault. Ne le pose pas dans l'ascenseur, sur une
+  palette ou dans une zone qui se ferme.
+- Sauvegarde ALYX-10-GNOME juste avant l'entree du Vault. Au chargement,
+  verifie que le gnome est encore present. Le succes se valide a l'arrivee
+  dans le Vault, pas quand tu le prends au chapitre 1.
+
+SUCCES A VALIDER ICI
+
+- Textbook Jinxing : reveiller le Strider.
+- Gnome Vault of My Own : amener le gnome jusqu'au Vault.
+
+VERIFICATION CHAPITRE 10
+
+- Textbook Jinxing et Gnome Vault of My Own sont valides.
+- La derniere station, les conduits, plateformes et salles laterales sont
+  fouilles.
+- Le gnome n'a pas ete perdu pendant une transition.
+- Toutes les branches de Jeff sont confirmees par les sauvegardes precedentes.
+
+CHAPITRE 11 - POINT EXTRACTION
+
+OBJECTIF DU CHAPITRE
+
+Atteindre le superweapon, terminer la route de combat, valider les deux
+succes d'histoire et conserver le compteur complet jusqu'au menu final.
+
+11.1 - APPROCHE FINALE
+
+- Fouille chaque salle avant de franchir la porte suivante : casiers, caisses,
+  plateformes, conduits et rebords. Il n'y a pas de raison de laisser une
+  resine derriere dans ce dernier chapitre.
+- Utilise les gravity gloves sur les munitions et soins des soldats vivants
+  avant de les abattre si Combine Harvester n'est pas encore valide.
+- Si une grenade est lancee, intercepte-la avant de changer de couverture pour
+  Deadliest Catch. Si une bonbonne rouge est visible sur un soldat vivant,
+  garde Pro-Pain comme possibilite de secours.
+- Ne depense pas une derniere grenade sur une caisse : la route de combat
+  finale est plus fiable avec une reserve.
+
+11.2 - SUPERWEAPON
+
+- Suis le parcours technique jusqu'a atteindre le superweapon. Point
+  Extraction se valide automatiquement a l'arrivee.
+- Avant l'interaction suivante, fais une sauvegarde ALYX-11-FINAL et verifie
+  l'onglet des succes Steam. Toute case manquante doit etre resolue avec les
+  sauvegardes de chapitre, pas en interrompant la sequence finale au hasard.
+
+SUCCES A VALIDER ICI
+
+- Point Extraction : atteindre le superweapon.
+
+11.3 - CHOIX FINAL ET SORTIE
+
+- Continue la sequence finale jusqu'a la derniere interaction. Consequences se
+  valide lorsque le choix de fin est effectue.
+- Aucun succes n'exige un mode de difficulte precis. Ne recommence pas la
+  campagne pour la difficulte si l'objectif est uniquement 100 % Steam.
+- Apres le menu ou les credits, ouvre la page Steam du jeu et confirme que le
+  compteur affiche 42/42. Le succes Gnome Alone peut etre deja obtenu avant
+  le debut ; il doit tout de meme apparaitre dans la liste finale.
+
+SUCCES A VALIDER ICI
+
+- Consequences : effectuer le choix final.
+
+NETTOYAGE PAR SAUVEGARDES
+
+Si une case manque apres la campagne, utilise cette priorite :
+
+1. ALYX-01-RUSSELL pour Good Grub, On a Roll, Little Slugger, Eye of the
+   Geiger et Mag-Snagger.
+2. ALYX-02-GARY pour Dead Giveaway, Smash and Grab, Freshly Squeezed et
+   Sustenance.
+3. ALYX-03-COMBATS pour Pro-Pain, Combine Harvester, Indirect Approach et
+   Deadliest Catch.
+4. ALYX-05-SUBSTATION pour Safe Trip, Xen Lootism, Cord-Cutter et les mines.
+5. ALYX-06-BARILS pour Blast From the Past.
+6. ALYX-07-JEFF pour Near-Jeff Experience, Crustacean Frustration et Hold
+   Your Liquor.
+7. ALYX-07-CHOIX pour Sound Strategy et Flat Note.
+8. ALYX-08-VODKA pour Team Spirit.
+9. ALYX-10-GNOME pour Gnome Vault of My Own.
+10. ALYX-11-FINAL pour Point Extraction et Consequences.
+
+REGLES DE NETTOYAGE
+
+- Recharge une sauvegarde avant la scene, pas une sauvegarde automatique apres
+  la scene : les objets et les fenetres d'interaction peuvent deja etre
+  consommes.
+- Attends toujours la notification Steam. Le compteur de la fiche fait foi,
+  pas la seule animation de l'icone.
+- Si un succes de combat refuse de se valider, change de sauvegarde et de
+  rencontre. Ne tue pas un ennemi avant d'avoir confirme que l'objet etait
+  encore dans sa main ou sur son dos.
+- Pour Mazel Tov, continue a casser les bouteilles a la main dans la
+  distillerie jusqu'a la notification. Le compteur est cumulatif, mais la
+  zone de Jeff est la meilleure zone de rattrapage.
+
+CHECKLIST STEAM FINALE - 42/42
+
+- [ ] Gnome Alone — succes automatique au lancement d'une partie sur la version actuelle.
+- [ ] Hit and Run — sortir du transport de prisonniers.
+- [ ] Dead Giveaway — recuperer un objet sur un cadavre.
+- [ ] Quaranta Giorni — entrer dans la Quarantine Zone.
+- [ ] Smash and Grab — ouvrir une caisse SUPPLY a mains nues.
+- [ ] Up in Arms — installer la premiere amelioration du pistolet.
+- [ ] Sustenance — recevoir le cadeau de nourriture.
+- [ ] Zombie with a Shotgun — recuperer le fusil a pompe.
+- [ ] Mag-Snagger — attraper le chargeur de Russell.
+- [ ] Good Grub — nourrir le snark.
+- [ ] Xen Garden — entrer dans l'infestation Xen.
+- [ ] Off the Rails — arreter le train de transport.
+- [ ] Checking In — atteindre le Northern Star.
+- [ ] Heart-Breaker Hotel — retablir l'energie de l'hotel.
+- [ ] Surface Tension — sortir du puits souterrain.
+- [ ] Pro-Pain — detruire la bonbonne rouge d'un soldat vivant.
+- [ ] Unbonded — recuperer le SMG.
+- [ ] Cord-Cutter — fermer la sous-station.
+- [ ] Xen Lootism — saisir une grenade Xen dans son emplacement.
+- [ ] Safe Trip — hacker une mine avec le multitool.
+- [ ] Blast From the Past — desactiver toutes les mines de la salle de barils.
+- [ ] Sea Level — atteindre les expositions aquatiques.
+- [ ] Triple Bypass — resoudre le puzzle electrique du parc de citernes.
+- [ ] High Water March — commencer l'escalade de la tour d'eau.
+- [ ] Textbook Jinxing — reveiller le Strider.
+- [ ] Mazel Tov — casser 50 bouteilles en verre.
+- [ ] Point Extraction — atteindre le superweapon.
+- [ ] Consequences — effectuer le choix final.
+- [ ] Little Slugger — choisir la figurine Scout sur la carte de Russell.
+- [ ] Flat Note — tuer Jeff dans le compacteur.
+- [ ] Hold Your Liquor — attraper la bouteille qui tombe du placard.
+- [ ] Combine Harvester — voler un objet a un soldat vivant avec les gravity gloves.
+- [ ] Indirect Approach — tuer un Combine Heavy avec son bouclier leve.
+- [ ] Sound Strategy — sortir de la distillerie sans tuer Jeff.
+- [ ] Deadliest Catch — intercepter une grenade ennemie en vol.
+- [ ] Near-Jeff Experience — rester pres de Jeff pendant dix secondes.
+- [ ] Team Spirit — garder la vodka jusqu'au chapitre 8.
+- [ ] Crustacean Frustration — tuer le headcrab avant qu'il ne casse les objets.
+- [ ] Freshly Squeezed — presser un coeur de headcrab.
+- [ ] Eye of the Geiger — mesurer Russell au compteur Geiger.
+- [ ] On a Roll — faire rouler le seau dans la glissiere.
+- [ ] Gnome Vault of My Own — amener le gnome jusqu'au Vault.
+
+VERIFICATION FINALE
+
+- La page Steam affiche 42 succes debloques sur 42.
+- Les deux branches Sound Strategy et Flat Note ont ete validees avec
+  ALYX-07-CHOIX.
+- Le gnome a ete amene au Vault ou la sauvegarde ALYX-10-GNOME est conservee
+  pour une nouvelle tentative.
+- Mazel Tov est confirme par la notification, pas par une estimation du
+  nombre de bouteilles cassees.
+- Les succes de combat sont confirmes sur des ennemis vivants et les succes
+  d'interaction ont ete refaits avec le bon bouton VR si necessaire.
+- La campagne est terminee sans commande console, sans carte chargee par
+  triche et sans spoiler narratif.
+
+SOURCES DE CONTROLE
+
+- Steam Achievements : https://steamcommunity.com/stats/546560/achievements
+- Half-Life: Alyx officiel : https://www.half-life.com/en/alyx
+- GameSpot - succes et conditions :
+  https://www.gamespot.com/articles/half-life-alyx-100-steam-achievements-guide/1100-6475118/
+- Steam Community - guide de verification VR :
+  https://steamcommunity.com/sharedfiles/filedetails/?id=2149141889
+- GameSpot - puzzles multitool :
+  https://www.gamespot.com/articles/half-life-alyx-multitool-puzzle-guide-how-to-solve/1100-6475047/
 
 FIN DU GUIDE - SANS SPOILER
