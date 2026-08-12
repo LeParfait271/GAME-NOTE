@@ -32,7 +32,7 @@ CONTENU STEAM
 - 67 Audio Diaries dans la campagne Marine.
 - 50 Royal Jelly Containers dans la campagne Alien.
 - 45 Predator Trophy Belts dans la campagne Predator.
-- 22 civils effectivement recol tables pour Grim Reaper : 3 Colony,
+- 22 civils effectivement recoltables pour Grim Reaper : 3 Colony,
   8 Refinery, 4 Jungle et 7 Ruins. Le civil inaccessible du Research Lab ne
   compte pas.
 - 10 succes ranked/multijoueur a traiter comme un bloc externe : Welcome to
@@ -228,8 +228,8 @@ Collectibles : Royal Jelly 11-20 ; civils disponibles 01-03.
 ALIEN 3 - REFINERY
 Objectifs : traverser la salle des machines, descendre le puits ventile,
 contourner les tourelles et recolter huit civils.
-Succes lie : Grunt Hunt est verifie dans la liste Steam, mais ne l'attribue pas
-a cette mission ; ce chapitre sert surtout au nettoyage civil.
+Succes lie : aucun succes de chapitre exclusif ; ce chapitre sert surtout au
+nettoyage civil et aux huit Jelly.
 Collectibles : Royal Jelly 21-30 ; civils disponibles 04-11.
 
 1. Brise la porte du couloir et prends la ventilation situee au-dessus de la
@@ -251,12 +251,10 @@ Collectibles : Royal Jelly 21-30 ; civils disponibles 04-11.
    se cache dans un angle.
 9. Civil 11 : dans le corridor du tunnel de vent, detruis le boitier rouge,
    longe le mur oppose aux Smartguns et recolte le civil pres des rochers.
-10. Civil 12 : juste avant la fin du corridor, le dernier civil de la tranche
-    est avec un Marine. Isole-le avant de poursuivre.
-11. Descends le puits par les niches laterales ; ne saute jamais directement.
-12. En bas, detruis le boitier, coupe les lumieres et contourne la tourelle par
+10. Descends le puits par les niches laterales ; ne saute jamais directement.
+11. En bas, detruis le boitier, coupe les lumieres et contourne la tourelle par
     le corridor proche de l'ascenseur.
-13. Rejoins la sortie. Controle 30/30 Jelly et 8/8 civils avant de conclure.
+12. Rejoins la sortie. Controle 30/30 Jelly et 8/8 civils avant de conclure.
 
 ALIEN 4 - JUNGLE
 Objectifs : couper la cloture, saboter l'antenne, traverser Gateway, couper les
@@ -391,7 +389,7 @@ Succes lies : Exit Strategy, You Have My Sympathies, Regicide. Audio Diaries
 MARINE 3 - JUNGLE
 Objectifs : ouvrir la porte du marais, reactiver le transmetteur, sortir du
 marais, alimenter Gateway et traverser la jungle.
-Succes lie : It Uses The Jungle. Audio Diaries 28-41.
+Succes de chapitre : aucun succes exclusif. Audio Diaries 28-41.
 
 1. Fouille le point de depart, monte sur le mur et recupere le fusil a lunette.
    C'est la meilleure fenetre pour lancer Elite Sniper.
@@ -410,7 +408,8 @@ Succes lie : It Uses The Jungle. Audio Diaries 28-41.
    pour l'androide qui se reveille au sol.
 9. Active le terminal pres de la grille, recule pour separer les trois derniers
    andro ides, puis prends le conduit gauche et saute dans le trou.
-10. Fin de chapitre : 41/67 diaries et It Uses The Jungle.
+10. Fin de chapitre : 41/67 diaries. Le succes It Uses The Jungle est a
+    valider dans le segment Predator Jungle de la section 07.
 
 MARINE 4 - RUINS
 Objectifs : rejoindre le vaisseau accidente, ouvrir la porte par piratage,
@@ -487,7 +486,7 @@ Succes lie : Get to The Chopper!. Audio Diaries 64-67.
 PREDATOR 1 - JUNGLE
 Objectifs : apprendre le focus jump, franchir la grille, retrouver le premier
 Youngblood, entrer dans Gateway et ressortir par le complexe.
-Succes : It Uses The Jungle ; Trophy Belts 01-10.
+Succes : It Uses The Jungle et Fallen Comrade ; Trophy Belts 01-10.
 
 1. Cible l'arbre, utilise Focus Jump et teste le zoom, la cloak et la vision IR.
 2. Attire les deux Marines vers un point isole, puis reste hors de l'arc de la
@@ -507,12 +506,12 @@ Succes : It Uses The Jungle ; Trophy Belts 01-10.
    l'autodestruction.
 10. Rejoins la base secondaire par la droite, desactive sa tourelle si besoin,
     ouvre la bouche d'egout et saute sur la corniche de la Refinery.
-11. Fin de chapitre : Trophy Belts 01-10 et It Uses The Jungle.
+11. Fin de chapitre : Trophy Belts 01-10, It Uses The Jungle et Fallen Comrade.
 
 PREDATOR 2 - REFINERY
 Objectifs : atteindre la raffinerie, couper la cloture, utiliser la grue,
 recuperer le Battle Disc et sortir par les flammes.
-Succes : Fallen Comrade ; Trophy Belts 11-20.
+Succes : Matter of Honor ; Trophy Belts 11-20.
 
 1. Saute dans le gouffre, attire les soldats pres du batiment et ne va pas
    directement vers le pont surveille.
@@ -538,7 +537,7 @@ Succes : Fallen Comrade ; Trophy Belts 11-20.
 PREDATOR 3 - RUINS
 Objectifs : traverser la zone antique, atteindre l'arene, recuperer le masque
 et survivre au trial by combat.
-Succes : Matter of Honor, Eyes of The Demon, World of Hurt ; Trophy Belts 21-30.
+Succes : Eyes of The Demon et World of Hurt ; Trophy Belts 21-30.
 
 1. Depuis la corniche, utilise les hauteurs et les raccourcis Focus Jump. Les
    tourelles sont mieux evitees que combattues.
