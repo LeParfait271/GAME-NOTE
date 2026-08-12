@@ -493,7 +493,7 @@ export default function GuideReader({
               </div>
               <div className="reader-document-seal" aria-label={`${checklist.length || 0} objectifs Steam suivis`}>
                 <span>STEAM</span>
-                <strong>{checklist.length ? `${checklist.length}/` : "—"}</strong>
+                <strong>{checklist.length || "—"}</strong>
                 <small>objectifs</small>
               </div>
             </header>
