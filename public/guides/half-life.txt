@@ -1,110 +1,702 @@
 HALF-LIFE
-GUIDE CHRONOLOGIQUE DU PARCOURS SOLO - SPECIAL SANS SUCCES STEAM
+GUIDE CHRONOLOGIQUE COMPLET - PARCOURS SOLO - SANS SPOILER
 
-Version de travail : 10 aout 2026
+Version editoriale : 12 aout 2026
+Edition : Half-Life Steam, AppID 70
+Succes Steam : 0/0
 
-Ce fichier couvre le jeu Steam Half-Life AppID 70, dans l'ordre de sa campagne
-solo. L'edition visible ne propose pas de succes Steam a valider : ce guide
-annonce donc clairement 0 succes Steam au lieu de promettre un faux 100 %.
-Le multijoueur, les mods et les extensions vendues separement sont hors
-perimetre.
+PERIMETRE DU GUIDE
 
-OBJECTIF
+Cette fiche couvre la campagne solo complete de Half-Life, de Black Mesa Inbound
+a la derniere zone jouable. Elle donne la route de chaque chapitre, les puzzles,
+les armes importantes, les ressources a fouiller et les transitions a sauvegarder.
 
-[ ] Terminer les chapitres solo dans l'ordre.
-[ ] Explorer les zones secondaires avant chaque transition.
-[ ] Conserver des sauvegardes manuelles avant les ascenseurs, rails et grandes
-    sequences de combat.
-[ ] 0/0 succes Steam : aucune liste de succes n'est associee a l'AppID 70.
+L'edition Steam de Half-Life AppID 70 n'a pas de succes Steam a cocher. Il n'y a
+donc pas de faux objectif 100 % : le 100 % de cette fiche signifie campagne
+solo terminee, chapitres parcourus et caches utiles fouillees. Opposing Force,
+Blue Shift, Deathmatch, les mods et Black Mesa sont hors perimetre.
 
-GARDE-FOUS MISSABLES ET SANS SPOILER
+REGLE SANS SPOILER
 
-- Il n'y a pas de succes Steam missable, mais plusieurs caches, armes et
-  munitions sont faciles a laisser derriere soi. Fouille chaque salle avant
-  d'activer une porte ou un ascenseur.
-- Utilise une sauvegarde avant les changements de chapitre. Les retours ne
-  sont pas toujours possibles.
-- Le guide ne revele ni identite, ni mort, ni fin, ni retournement : les noms
-  de chapitres servent uniquement a te situer.
-- Sur On a Rail, ne quitte pas le vehicule avant d'avoir fouille les voies,
-  quais et alcoves accessibles. Sur Xen, fais des sauvegardes plus frequentes.
+- Les noms de chapitres et de zones servent uniquement de reperes.
+- Les solutions indiquent les interrupteurs, ascenseurs, valves, rails et
+  plateformes, sans raconter les scenes ni la conclusion.
+- Les ennemis sont nommes uniquement quand leur presence change la methode.
+- Les zones facultatives sont signalees comme detours de ressources, sans
+  devoiler leur contenu narratif.
 
-ORDRE CHRONOLOGIQUE
+OBJECTIF 100 % DE LA FICHE
 
-1. BLACK MESA INBOUND
+- Terminer les 19 chapitres solo dans l'ordre.
+- Recuperer les armes principales au moment ou elles apparaissent.
+- Fouiller les bureaux, vestiaires, salles de controle, quais, bunkers et
+  alcoves avant de franchir une transition irreversible.
+- Conserver une sauvegarde avant les ascenseurs, rails, teleporteurs et boss.
+- Confirmer 0/0 succes Steam dans la checklist finale.
 
-- Suis le trajet d'introduction et teste les commandes sans depenser de
-  ressources. Observe les portes, panneaux et ascenseurs qui serviront de
-  reperes.
-- Fouille les wagons, bureaux et vestiaires accessibles avant de sortir du
-  tram. Ne lance pas la prochaine sequence sans une sauvegarde manuelle.
+GARDE-FOUS ET MISSABLES
 
-2. ANOMALOUS MATERIALS / UNFORESEEN CONSEQUENCES
+- Il n'existe aucun succes Steam missable dans l'AppID 70.
+- Les munitions et soins des salles precedentes ne sont pas toujours accessibles
+  apres un ascenseur : fouiller avant de monter.
+- Sur On a Rail, utiliser une sauvegarde avant chaque embranchement du rail.
+- Sur Lambda Core, garder une sauvegarde avant les trois ascenseurs de teleportation.
+- Sur Xen, sauvegarder apres chaque ile franchie : les chutes et les sauts sont
+  la principale cause de perte de progression.
+- Sur Interloper, ne pas vider les munitions explosives avant les grandes salles
+  de fabrication.
+- En difficulte elevee, ne pas lancer un combat avant d'avoir repere le prochain
+  couvert, la sortie et la caisse de munitions.
 
-- Termine le parcours de test, recupere la combinaison et ouvre chaque salle
-  laterale avant de continuer.
-- Dans l'urgence, recupere les premiers soins, armures et munitions puis
-  utilise les sauvegardes rapides apres chaque zone securisee.
+SAUVEGARDES DE REFERENCE
 
-3. OFFICE COMPLEX / WE'VE GOT HOSTILES
+1. Avant de sortir du tram de Black Mesa Inbound.
+2. Avant la salle d'experience d'Anomalous Materials.
+3. Avant l'ascenseur de Blast Pit.
+4. Avant le premier aiguillage de On a Rail.
+5. Avant le hangar de Surface Tension.
+6. Avant le lancement de Lambda Core.
+7. Au debut de Xen, Gonarch's Lair, Interloper et Nihilanth.
 
-- Avance par les bureaux, conduits et zones de securite. Les chemins de
-  service contiennent souvent les ressources les plus utiles.
-- Avant chaque combat, repere les caisses explosives et les sorties. Ne
-  detruis pas une reserve avant d'avoir verifie la salle.
+GESTION DE L'INVENTAIRE
 
-4. BLAST PIT / POWER UP
+- Le pistolet standard suffit pour les ennemis faibles et economise les armes
+  lourdes.
+- Garder le fusil a pompe pour les espaces courts et les ennemis qui arrivent
+  au contact.
+- Garder les explosifs pour les tourelles, les vehicules, les blindages et les
+  grandes salles, pas pour une cible isolee.
+- La arbalete sert aux cibles a distance et aux gardes places derriere une
+  ouverture ; ne pas gaspiller ses carreaux sur un groupe.
+- Toujours prendre les chargeurs et batteries des salles de controle avant de
+  changer de chapitre : ils ne reapparaissent pas apres une transition.
 
-- Dans les installations techniques, active les systemes dans l'ordre indique
-  par les panneaux et garde une sauvegarde avant les longues salles de combat.
-- Explore les plateformes superieures et les recoins avant de lancer la
-  sequence de propulsion.
+======================================================================
+CHAPITRE 1 - BLACK MESA INBOUND
+======================================================================
 
-5. ON A RAIL / APPREHENSION
+TRAM ET BATIMENT D'ACCUEIL
 
-- Utilise le rail comme point de repere, mais arrete-toi a chaque embranchement
-  pour fouiller les quais et caches. Les commandes du vehicule permettent de
-  revenir sur certaines zones, pas toutes.
-- Dans les tunnels inondes, reserve les munitions de precision aux ennemis
-  qui bloquent le passage. Sauvegarde avant les ascenseurs et les plongees.
+1. Rester dans le tram jusqu'a l'arret complet et observer les panneaux : ils
+   indiquent les zones utiles pour les retours de route.
+2. A chaque arret, regarder par les vitres les portes et plateformes accessibles.
+3. Ne pas chercher d'arme dans le tram : la premiere phase est lineaire.
+4. A la sortie, suivre le personnel vers les vestiaires et le sas de securite.
+5. Avant de passer la porte qui mene aux laboratoires, faire la sauvegarde 01.
 
-6. RESIDUE PROCESSING / QUESTIONABLE ETHICS
+FOUILLE 100 % DU CHAPITRE
 
-- Le premier chapitre est un labyrinthe : marque mentalement les portes,
-  garde un kit de soin et verifie les tuyaux avant les tapis roulants.
-- Dans les laboratoires, observe les interrupteurs, lasers et sas. Termine
-  les salles secondaires avant d'alimenter le prochain secteur.
+- Vestiaires : inspecter les casiers ouverts et le couloir lateral.
+- Salle de securite : prendre les premiers soins et la batterie si elle est
+  accessible avant l'ouverture du sas.
+- Couloir d'acces : regarder derriere les portes vitrees, sans tenter de forcer
+  les portes marquees personnel.
 
-7. SURFACE TENSION / FORGET ABOUT FREEMAN!
+TRANSITION
 
-- Alterne exploration exterieure et batiments militaires. Fouille les tours,
-  bunkers, garages et couloirs avant de passer la ligne suivante.
-- Conserve les armes explosives pour les vehicules et les groupes blindes.
-  Fais une sauvegarde avant chaque grande zone ouverte.
+1. Passer le sas uniquement quand le garde ouvre la porte.
+2. Continuer vers l'ascenseur des laboratoires.
+3. La salle de test du chapitre 2 commence apres le chargement.
 
-8. LAMBDA CORE
+======================================================================
+CHAPITRE 2 - ANOMALOUS MATERIALS
+======================================================================
 
-- Suis les ascenseurs, pompes et salles de controle en verifiant chaque niveau
-  avant de monter. Les reservoirs et passerelles cachent des ressources.
-- Avant la transition finale du complexe, vide ton inventaire de munitions
-  disponibles et fais une sauvegarde dediee.
+VESTIAIRES ET SALLE DE PREPARATION
 
-9. XEN / GONARCH'S LAIR / INTERLOPER / NIHILANTH
+1. Suivre le couloir vers les vestiaires et enfiler la combinaison quand le jeu
+   le demande.
+2. Fouiller les casiers ouverts, le banc et la salle de repos.
+3. Prendre chaque batterie et kit de soin avant d'entrer dans la zone de test.
+4. Dans les couloirs de service, les portes marquees hazard contiennent parfois
+   des caisses : les ouvrir avant l'ascenseur.
 
-- Les sauts sont la priorite : observe les plateformes avant de t'engager et
-  sauvegarde apres chaque ile franchie.
-- Dans les arenes, detruis d'abord les menaces qui limitent tes deplacements,
-  puis cherche les points de ravitaillement.
-- Avant chaque portail ou ascenseur de fin de chapitre, verifie l'inventaire
-  et garde une sauvegarde separee. Termine la derniere zone pour cloturer le
-  parcours solo.
+SALLE D'EXPERIENCE
 
-CHECKLIST FINALE
+1. Rejoindre la salle de controle par le pont vitree.
+2. Attendre l'autorisation d'entrer dans la salle principale.
+3. Verifier que le chariot d'echantillon est sur son rail, puis suivre la
+   procedure indiquee par les ecrans.
+4. Quand la machine demande un deplacement, rester au point de securite et ne
+   pas tenter de contourner la barriere.
+5. Une fois la sequence terminee, sortir par la porte de service plutot que de
+   revenir vers la salle de controle.
 
-[ ] Tous les chapitres termines dans l'ordre.
-[ ] Toutes les zones secondaires et caches visitees.
-[ ] Toutes les armes et equipements utiles recuperes.
-[ ] Sauvegardes conservees avant les grandes transitions.
-[ ] 0/0 succes Steam confirme pour l'edition visible.
+PREMIER PARCOURS D'URGENCE
 
-FIN DU GUIDE SPECIAL - SANS SPOILER
+1. Dans le couloir deteriore, suivre les panneaux de sortie et les portes qui
+   s'ouvrent avec un bouton vert.
+2. Prendre la combinaison HEV et verifier la charge de la batterie.
+3. Dans la salle avec les conduites, utiliser l'echelle de maintenance et non
+   le conduit ferme.
+4. Quand le sol est bloque, passer par le conduit superieur et descendre de
+   l'autre cote de la cloison.
+
+TRANSITION VERS UNFORESEEN CONSEQUENCES
+
+1. Rejoindre le couloir d'evacuation et sauvegarder avant la porte coupe-feu.
+2. Ne pas retourner dans la salle d'experience : la transition ferme la route.
+3. Le chapitre 3 commence dans le complexe des laboratoires.
+
+======================================================================
+CHAPITRE 3 - UNFORESEEN CONSEQUENCES
+======================================================================
+
+RETOUR AU LABORATOIRE
+
+1. Depuis la salle de controle, prendre le couloir lateral et descendre vers les
+   zones de stockage.
+2. Recuperer le pied-de-biche dans la premiere zone ou il est disponible.
+3. Casser les caisses en bois qui bloquent les portes, mais verifier les coins
+   avant de detruire une caisse : les soins sont souvent derriere.
+4. Passer les premiers obstacles en utilisant les conduits et les bureaux.
+
+PREMIER CONTACT ET ZONE DE MAINTENANCE
+
+1. Dans les bureaux, ouvrir chaque porte et prendre les munitions sur les tables.
+2. Utiliser le pied-de-biche sur les grilles et planches, pas sur les portes
+   metalliques qui demandent un bouton.
+3. Quand le couloir est obstrue, monter sur les caisses puis entrer dans la
+   bouche d'aeration.
+4. Dans les conduits, suivre la lumiere et revenir au couloir principal a la
+   premiere grille destructible.
+
+ARMES ET RESSOURCES
+
+- Recuperer le pistolet dans la zone ou le garde te dirige vers la sortie.
+- Prendre les chargeurs du poste de securite avant la premiere grande porte.
+- Une salle de repos laterale contient souvent un kit de soin : la visiter avant
+  de descendre l'escalier vers les laboratoires bas.
+
+SALLE DES ASCENSEURS
+
+1. Reparer la route avec les boutons de commande situes sur les plateformes.
+2. Si l'ascenseur est en mouvement, attendre son retour plutot que sauter dans
+   la cage.
+3. Prendre l'echelle de secours quand la cabine est detruite.
+4. Sauvegarder avant le long couloir qui mene a Office Complex.
+
+======================================================================
+CHAPITRE 4 - OFFICE COMPLEX
+======================================================================
+
+BUREAUX ET COULOIRS
+
+1. Avancer par les bureaux en ouvrant les portes interieures avant de suivre le
+   panneau de sortie.
+2. Les casiers, bureaux et photocopieuses sont les meilleurs emplacements de
+   chargeurs et petits soins.
+3. Quand une porte ne s'ouvre pas, chercher le bouton dans la piece adjacente,
+   souvent derriere une vitre ou au bout d'un couloir.
+4. Utiliser les conduits de ventilation pour contourner les portes coupe-feu.
+
+SALLE DE REFROIDISSEMENT
+
+1. Rejoindre la salle du systeme de refroidissement.
+2. Ouvrir la porte de maintenance qui donne sur les valves.
+3. Tourner les valves dans l'ordre des tuyaux : commencer par la conduite qui
+   alimente la salle suivante, puis fermer la derivation qui fuit.
+4. Activer le panneau apres avoir obtenu la pression necessaire.
+5. Revenir par le couloir superieur et passer la porte maintenant deverrouillee.
+
+REPAIRE ET DETOUR DE RESSOURCES
+
+1. Dans le couloir avec les bureaux condamnes, chercher la grille de ventilation
+   basse.
+2. Casser la grille et suivre le conduit jusqu'a la petite piece cachee.
+3. Prendre les munitions, le kit et la batterie avant de revenir dans le bureau.
+4. Ce detour n'est pas obligatoire pour l'histoire, mais il complete la fouille
+   utile du chapitre.
+
+SORTIE DU COMPLEXE
+
+1. Rejoindre le hall d'accueil par la passerelle superieure.
+2. Dans la salle avec les caisses, placer les caisses sous la fenetre si tu dois
+   atteindre le bouton haut.
+3. Sauvegarder avant la porte de securite qui mene a We've Got Hostiles.
+
+======================================================================
+CHAPITRE 5 - WE'VE GOT HOSTILES
+======================================================================
+
+ARMURERIE ET POSTE DE GARDE
+
+1. Fouiller l'armurerie et prendre le fusil a pompe lorsqu'il est accessible.
+2. Utiliser le poste de garde pour ouvrir le sas suivant.
+3. Conserver les grenades pour les groupes dans les couloirs et les caisses
+   explosives pour les portes bloquees.
+
+BUREAUX MILITAIRES
+
+1. Traverser les bureaux par les couloirs lateraux et utiliser les portes
+   ouvertes comme couvert.
+2. Les soldats arrivent souvent depuis la piece suivante : attendre derriere
+   le chambranle avant de s'engager.
+3. Prendre les chargeurs sur les caisses et dans les postes radio.
+4. Dans les salles avec ordinateurs, regarder derriere les bureaux avant de
+   monter l'escalier.
+
+ENTREPOTS ET PASSERELLES
+
+1. Utiliser les caisses comme couvert dans l'entrepot.
+2. Deplacer les caisses uniquement pour atteindre les passerelles hautes ; ne
+   pas les empiler sous une porte qui se ferme automatiquement.
+3. Dans les passerelles exterieures, avancer de couvert en couvert et garder une
+   sauvegarde avant chaque porte de hangar.
+
+TRANSITION
+
+1. Rejoindre la zone de lancement et prendre les munitions explosives au sol.
+2. Faire une sauvegarde avant l'ascenseur de Blast Pit.
+3. Le chapitre 6 commence dans les installations techniques profondes.
+
+======================================================================
+CHAPITRE 6 - BLAST PIT
+======================================================================
+
+SILO ET SALLE DES GENERATEURS
+
+1. Descendre dans le silo par les passerelles, sans sauter entre deux niveaux.
+2. Activer les interrupteurs des generateurs dans les salles laterales avant
+   de lancer l'ascenseur central.
+3. Prendre les batteries dans les armoires et les grenades dans le poste de
+   securite.
+4. Revenir au panneau central apres avoir active chaque generateur.
+
+ASCENSEUR DU SILO
+
+1. Entrer dans l'ascenseur et verifier l'armure avant de lancer la descente.
+2. Pendant les arrets, sortir sur les plateformes et prendre les caisses de
+   munitions avant de remonter dans la cabine.
+3. Ne pas sauter hors de la cabine quand elle redemarre.
+
+ZONE DU MONSTRE DE L'INSTALLATION
+
+1. Atteindre la salle de controle du silo et observer les trois commandes de
+   lancement.
+2. Activer les commandes qui ouvrent les portes de service.
+3. Pour traverser l'aire de combat, rester sur les plateformes laterales et
+   utiliser les piliers comme couvert.
+4. Utiliser les explosifs sur les points qui bloquent la route, pas sur la cible
+   principale si une munition est necessaire pour l'ouverture suivante.
+
+PROCEDURE DE LANCEMENT
+
+1. Rejoindre la plateforme du missile et activer le premier panneau.
+2. Descendre par l'echelle, ouvrir le sas technique et activer le second panneau.
+3. Revenir a la salle de controle et lancer le systeme.
+4. Traverser le couloir de maintenance quand la porte s'ouvre.
+5. Sauvegarder avant l'ascenseur qui mene a Power Up.
+
+======================================================================
+CHAPITRE 7 - POWER UP
+======================================================================
+
+CENTRALE ELECTRIQUE
+
+1. Suivre les cables depuis l'entree vers le premier generateur.
+2. Activer le disjoncteur uniquement apres avoir repere la sortie de la salle.
+3. Utiliser les passerelles hautes pour eviter les flaques et prendre les
+   batteries derriere les armoires.
+
+GENERATEURS ET TURBINES
+
+1. Rejoindre le local de commande de chaque turbine.
+2. Ouvrir les vannes dans l'ordre des indicateurs, puis revenir au bouton central.
+3. Quand la turbine demarre, s'eloigner de l'axe des pales et attendre l'arret
+   de la secousse avant de traverser.
+4. Fouiller les couloirs de service autour de chaque turbine avant de passer au
+   generateur suivant.
+
+SALLE DES RAILS ET ASCENSEUR
+
+1. Activer le panneau du rail apres avoir alimente les deux generateurs.
+2. Utiliser les portes de maintenance pour prendre les munitions en hauteur.
+3. Rejoindre l'ascenseur central et sauvegarder avant de le lancer.
+4. La transition vers On a Rail est irreversible jusqu'au prochain aiguillage.
+
+======================================================================
+CHAPITRE 8 - ON A RAIL
+======================================================================
+
+REGLE DU VEHICULE
+
+Le rail est une route principale, mais plusieurs quais donnent acces a des
+munitions, batteries et commandes. Arreter le vehicule avant chaque aiguillage,
+regarder les panneaux de direction et sauvegarder avant de choisir une branche.
+
+PREMIER QUAI ET CONTROLES
+
+1. Monter dans le vehicule et apprendre les commandes de vitesse, frein et tir.
+2. Au premier quai, descendre et prendre les munitions dans l'abri lateral.
+3. Activer le bouton du poste de controle, puis remonter dans le vehicule.
+4. A l'aiguillage, choisir la voie qui mene au tunnel eclaire et non la voie
+   condamnee par les caisses.
+
+TUNNELS ET QUAIS DE MAINTENANCE
+
+1. Arreter le rail avant la porte de securite et descendre.
+2. Fouiller le quai, la petite salle de repos et le local technique.
+3. Ouvrir la porte avec le panneau, revenir au vehicule et repartir lentement.
+4. Dans les tunnels inondes, tirer depuis le vehicule et ne pas sauter dans
+   l'eau avant d'avoir verifie la sortie.
+
+LANCE-MISSILES ET HANGARS
+
+1. Utiliser l'arret du vehicule devant le hangar pour atteindre le poste de
+   commande.
+2. Activer les boutons des portes et recuperer les roquettes dans l'armurerie.
+3. Revenir au rail, utiliser le canon pour degager les obstacles et continuer.
+4. Faire une sauvegarde avant le long tunnel ou les arrêts deviennent rares.
+
+GRANDE GARE ET SORTIE DU RAIL
+
+1. Descendre a la gare, fouiller les bureaux et prendre les soins derriere le
+   comptoir.
+2. Suivre le cable jusqu'au poste de commande et activer l'aiguillage final.
+3. Remonter dans le vehicule et suivre la voie jusqu'a la porte qui s'ouvre.
+4. Avant de quitter definitivement le rail, verifier les munitions du vehicule
+   et faire la sauvegarde 04.
+
+======================================================================
+CHAPITRE 9 - APPREHENSION
+======================================================================
+
+CANAL ET BATEAUX
+
+1. Quitter le rail et suivre les couloirs inondes jusqu'au quai.
+2. Prendre la combinaison de plongee et la batterie dans le local de securite.
+3. Nager par les conduits eclaires ; les portes basses sont des raccourcis, pas
+   des impasses.
+4. Utiliser les caisses flottantes pour atteindre les leviers hors de l'eau.
+
+ARBALETE ET QUAI DE CHARGEMENT
+
+1. Recuperer l'arbalete dans la salle de stockage apres le premier passage
+   inonde.
+2. Prendre les carreaux dans la caisse voisine et les garder pour les cibles
+   lointaines des passerelles.
+3. Utiliser le bouton du quai pour faire monter la plateforme.
+4. Fouiller l'abri sous le quai avant de traverser la porte de maintenance.
+
+TUNNELS D'EAU
+
+1. Tourner les vannes pour ouvrir le niveau d'eau suivant.
+2. Quand une porte est sous l'eau, chercher le levier oppose avant de plonger.
+3. Remonter dans les bulles d'air et sauvegarder avant chaque longue plongee.
+
+SORTIE VERS RESIDUE PROCESSING
+
+1. Rejoindre la salle seche par l'echelle du puits.
+2. Recuperer les chargeurs dans le poste de garde et franchir le filtre.
+3. Sauvegarder avant le couloir de convoyeurs du chapitre 10.
+
+======================================================================
+CHAPITRE 10 - RESIDUE PROCESSING
+======================================================================
+
+CONVOYEURS ET PRESSES
+
+1. Monter sur le premier convoyeur et observer le rythme des presses.
+2. Passer entre les blocs quand la presse remonte, puis se placer sur le rebord
+   lateral a la prochaine ouverture.
+3. Les caisses de munitions se trouvent dans les alcoves au-dessus des tapis.
+4. Utiliser les boutons de maintenance pour inverser les convoyeurs si le tapis
+   ne mene pas au panneau de sortie.
+
+LABYRINTHE DE TUYAUX
+
+1. Suivre le tuyau de vapeur qui rejoint la salle suivante.
+2. Eviter les jets en coupant la vanne du local lateral.
+3. Dans les croisements identiques, laisser une caisse ou un cadavre comme
+   repere et revenir au panneau vert.
+4. Passer par les conduits hauts quand le sol est bloque par les residus.
+
+MACHINES ET ASCENSEURS
+
+1. Activer les trois boutons de la machine, puis utiliser l'echelle centrale.
+2. Ne pas rester sous les pistons : attendre le cycle complet avant de courir.
+3. Prendre les soins dans le local de maintenance derriere le convoyeur.
+4. Sortir par la porte qui mene au laboratoire de Questionable Ethics.
+
+======================================================================
+CHAPITRE 11 - QUESTIONABLE ETHICS
+======================================================================
+
+LABORATOIRES ET SALLES DE TEST
+
+1. Rejoindre les bureaux du laboratoire en passant par les portes a fenetre.
+2. Fouiller les paillasses, casiers et armoires pour les munitions.
+3. Utiliser les interrupteurs muraux pour ouvrir les sas de test.
+4. Les salles de confinement ont souvent une sortie de secours au plafond :
+   verifier cette issue avant de revenir sur ses pas.
+
+COULOIRS DE SECURITE
+
+1. Dans les couloirs surveilles, avancer de couverture en couverture.
+2. Utiliser les explosifs uniquement sur les portes blindees ou groupes serres.
+3. Prendre les batteries dans les petits bureaux situes derriere les vitres.
+
+ZONE DE CONTROLE
+
+1. Activer le panneau principal apres avoir alimente les deux consoles laterales.
+2. Revenir dans le couloir central et suivre la porte maintenant ouverte.
+3. Garder un chargeur de fusil a pompe pour la salle de sortie.
+4. Sauvegarder avant la transition vers Surface Tension.
+
+======================================================================
+CHAPITRE 12 - SURFACE TENSION
+======================================================================
+
+LITTORAL ET POSTES MILITAIRES
+
+1. Avancer par les tranchées et les murs bas, sans courir dans les zones ouvertes.
+2. Fouiller les bunkers, sacs de sable et camions pour les chargeurs.
+3. Dans le premier poste, activer la porte depuis la cabine surelevee.
+4. Utiliser les caisses explosives sur les obstacles qui ferment les garages.
+
+CANONS ET GARAGES
+
+1. Dans le garage, actionner le treuil ou la commande qui ouvre le passage.
+2. Recuperer les grenades et roquettes avant de monter sur la route exterieure.
+3. Utiliser les vehicules comme couvert, mais ne pas rester devant les portes.
+4. Faire une sauvegarde avant le premier grand espace exterieur.
+
+ARBALETE, GRENADES ET LANCE-ROQUETTES
+
+1. Le lance-roquettes se trouve dans la route des postes de defense : fouiller
+   le bunker avant de continuer.
+2. Utiliser les roquettes pour les cibles blindees et les points de passage.
+3. Garder les grenades pour les tourelles ou groupes dans les couloirs.
+4. Prendre les roquettes du local sous la rampe avant d'activer la porte suivante.
+
+TOURS ET BUNKERS
+
+1. Monter dans les tours avec les echelles interieures.
+2. Activer les commandes en haut, puis redescendre par la passerelle protegee.
+3. Dans les bunkers, fouiller les chambres laterales avant d'ouvrir la grande
+   grille.
+4. Rejoindre l'installation interieure et sauvegarder avant Forget About Freeman!
+
+======================================================================
+CHAPITRE 13 - FORGET ABOUT FREEMAN!
+======================================================================
+
+REPLI VERS L'INSTALLATION
+
+1. Suivre les portes de securite et les couloirs qui remontent vers le complexe.
+2. Les bureaux abandonnes contiennent des soins et munitions : les visiter
+   avant chaque escalier.
+3. Utiliser le pied-de-biche sur les caisses de la zone de stockage.
+
+HANGARS ET PLATEFORMES
+
+1. Dans les hangars, rester sous les passerelles et avancer par les piliers.
+2. Activer les panneaux des grues puis attendre l'arret complet avant de monter.
+3. Prendre les caisses de roquettes dans le local avant de rejoindre la sortie.
+4. Faire la sauvegarde avant la porte qui mene au coeur de Lambda.
+
+======================================================================
+CHAPITRE 14 - LAMBDA CORE
+======================================================================
+
+ENTREE ET REACTEURS
+
+1. Rejoindre les salles de controle par les escaliers et activer les panneaux
+   d'alimentation.
+2. Fouiller les plateformes autour des reacteurs avant d'allumer la turbine.
+3. Utiliser les ascenseurs dans l'ordre indique par les voyants : bas, milieu,
+   puis plateforme haute.
+
+POMPES ET ASCENSEURS DE TELEPORTATION
+
+1. Activer les pompes de la premiere salle, puis rejoindre le bouton central.
+2. Prendre une sauvegarde avant chaque ascenseur de teleportation.
+3. Dans chaque plateforme, regarder autour de la zone d'arrivee avant de
+   sauter : les caisses de munitions sont souvent derriere la console.
+4. Revenir au centre par le teleporteur apres avoir active les trois consoles.
+
+ARMES FINALES ET RAVITAILLEMENT
+
+1. Recuperer l'arme a energie dans le local de stockage avant le dernier
+   teleporteur.
+2. Prendre toutes les batteries et cellules disponibles.
+3. Conserver une arme de precision et une arme lourde pour Xen.
+4. Faire la sauvegarde 06 avant le teleporteur final.
+
+TRANSITION
+
+1. Entrer dans le teleporteur seulement apres avoir verifie l'inventaire.
+2. La route suivante est Xen et les retours ne sont plus possibles.
+
+======================================================================
+CHAPITRE 15 - XEN
+======================================================================
+
+REGLE DES ILES
+
+Chaque ile se lit avant de sauter : reperer la plateforme d'arrivee, la suivante
+et le point de retour. Sauvegarder apres une ile franchie, pas au milieu d'un saut.
+
+PREMIERE ILE
+
+1. Avancer vers les plateformes rocheuses en utilisant les rebonds et les
+   points de vegetation comme reperes.
+2. Prendre les soins et munitions dans les recoins derriere les gros rochers.
+3. Utiliser le teleporteur au centre de l'ile quand toutes les plateformes
+   laterales ont ete fouillees.
+
+ILES INTERMEDIAIRES
+
+1. Sauter vers les plateformes les plus proches, puis faire un tour complet de
+   chaque ile avant le portail suivant.
+2. Les caisses de munitions sont souvent sous le rebord de la plateforme de
+   sortie : regarder vers le bas avant d'entrer dans le teleporteur.
+3. Ne pas tirer dans le vide pour attirer les ennemis : garder les munitions
+   pour les zones fermees.
+
+FIN DE XEN
+
+1. Rejoindre la plateforme du teleporteur final.
+2. Recharger l'armure et la sante avant de l'activer.
+3. Sauvegarder avant de lancer Gonarch's Lair.
+
+======================================================================
+CHAPITRE 16 - GONARCH'S LAIR
+======================================================================
+
+ARENE SUPERIEURE
+
+1. Rester sur les passerelles et reperer les trous de fuite avant de descendre.
+2. Utiliser les armes explosives quand la cible ouvre une fenetre, puis revenir
+   sur les plateformes hautes.
+3. Fouiller les alcoves apres chaque deplacement de l'arene.
+
+PUITS ET PLATEFORMES
+
+1. Descendre par les rebords, jamais en saut direct vers le fond.
+2. Utiliser les rochers comme couvert et economiser les munitions de precision.
+3. Quand le chemin se divise, la branche avec les soins mene a la prochaine
+   arene ; la branche seche contient des munitions.
+
+SORTIE
+
+1. Rejoindre le teleporteur apres la derniere arene.
+2. Recharger la sante et l'armure dans la salle de transition.
+3. Sauvegarder avant Interloper.
+
+======================================================================
+CHAPITRE 17 - INTERLOPER
+======================================================================
+
+FABRICATION ET ASCENSEURS
+
+1. Suivre les plateformes de la base et activer les boutons des ascenseurs.
+2. Conserver les explosifs pour les grandes salles de fabrication.
+3. Dans les salles verticales, utiliser les rebords intermediaires au lieu de
+   tenter un seul saut vers le sommet.
+
+CONDUITES ET MACHINES
+
+1. Ouvrir les vannes qui alimentent les ascenseurs dans l'ordre des tuyaux.
+2. Revenir au panneau central apres chaque vanne.
+3. Fouiller les plateformes derriere les machines : les batteries y sont souvent
+   hors du chemin direct.
+4. Quand un ascenseur s'arrete, sortir et chercher un bouton sur la passerelle.
+
+GRANDES SALLES
+
+1. Utiliser les piliers comme couvert et eliminer les cibles qui bloquent le
+   prochain bouton avant les autres.
+2. Ne pas depenser toutes les grenades avant la porte de controle.
+3. Sauvegarder avant le dernier ensemble de teleporteurs.
+
+======================================================================
+CHAPITRE 18 - NIHILANTH
+======================================================================
+
+PREPARATION
+
+1. Faire la sauvegarde 07 au debut de l'ile finale.
+2. Prendre les soins, armures et munitions autour de l'arene avant de lancer la
+   sequence.
+3. Garder une arme lourde, une arme de precision et des explosifs.
+
+ARENE ET CRISTAUX
+
+1. Utiliser les plateformes et couvertures pour atteindre les points de tir.
+2. Detruire les cristaux ou sources qui alimentent les protections avant de
+   chercher la cible suivante.
+3. Entre deux phases, faire le tour des iles pour recuperer le ravitaillement.
+4. Ne pas rester au centre de l'arene : les plateformes laterales offrent les
+   angles de tir et des couvertures.
+
+SEQUENCE FINALE DE COMBAT
+
+1. Quand la zone de tir s'ouvre, utiliser l'arme lourde et viser le point visible.
+2. Quand la plateforme se deplace, attendre son alignement avant de sauter.
+3. Recharger entre deux ouvertures et utiliser les soins seulement apres avoir
+   elimine les ennemis secondaires.
+4. Continuer jusqu'a l'ouverture du teleporteur.
+
+======================================================================
+CHAPITRE 19 - ENDGAME
+======================================================================
+
+1. Suivre le chemin de sortie et rester sur la plateforme indiquee.
+2. Il n'y a plus de collecte necessaire : utiliser cette zone pour confirmer
+   que les sauvegardes et la campagne sont terminees.
+3. Laisser la sequence de fin se derouler jusqu'au retour au menu.
+4. Ne pas supprimer la derniere sauvegarde avant d'avoir verifie le journal de
+   chapitres ou le temps de jeu Steam.
+
+======================================================================
+CHECKLIST D'EXPLORATION CHRONOLOGIQUE
+======================================================================
+
+- Tram et vestiaires fouilles avant le premier sas.
+- Laboratoire d'Anomalous Materials fouille avant la salle d'experience.
+- Bureaux et conduits d'Unforeseen Consequences explores.
+- Office Complex : bureaux, salle de refroidissement et repaire lateral fouilles.
+- We've Got Hostiles : armurerie, postes de garde, bureaux et hangars explores.
+- Blast Pit : generateurs, postes de controle et silos inspectes.
+- Power Up : centrales, turbines et passerelles inspectees.
+- On a Rail : chaque quai et local de maintenance accessible visite.
+- Apprehension : quais, salles d'eau et local de l'arbalete fouilles.
+- Residue Processing : convoyeurs, presses et locaux de maintenance inspectes.
+- Questionable Ethics : laboratoires, bureaux et postes de controle fouilles.
+- Surface Tension : bunkers, garages, tours et hangars visites.
+- Forget About Freeman! : portes de service et bureaux explores.
+- Lambda Core : reacteurs, pompes, ascenseurs et local d'energie fouilles.
+- Xen : chaque ile inspectee avant le teleporteur.
+- Gonarch's Lair : chaque arene fouillee apres le deplacement du boss.
+- Interloper : machines, conduites, ascenseurs et plateformes inspectes.
+- Nihilanth : ravitaillement de l'arene recupere avant la derniere phase.
+- Endgame : derniere sauvegarde conservee apres le retour au menu.
+
+======================================================================
+CHECKLIST STEAM FINALE - 0/0
+======================================================================
+
+Aucun succes Steam n'est associe a Half-Life AppID 70 dans l'edition Steam
+actuelle. Il n'y a donc aucune case individuelle a cocher. Le 100 % de ce guide
+est valide quand la campagne est terminee et que la page du jeu confirme 0/0.
+
+VERIFICATION FINALE
+
+1. Ouvrir la fiche Steam de Half-Life et verifier l'absence de liste de succes.
+2. Confirmer que le jeu lance est bien Half-Life AppID 70, pas Half-Life 2,
+   Black Mesa, Half-Life: Source ou Half-Life Legacy.
+3. Garder la derniere sauvegarde de Nihilanth et la sauvegarde finale de campagne.
+4. Pour une nouvelle partie, reprendre au chapitre souhaite avec les sauvegardes
+   de reference de cette fiche.
+
+SOURCES DE CONTROLE
+
+- Fiche Steam du jeu : https://store.steampowered.com/app/70/HalfLife/
+- Parcours de reference par chapitres :
+  https://strategywiki.org/wiki/Half-Life/Walkthrough
+- Liste des chapitres et reperes de campagne :
+  https://half-life.fandom.com/wiki/Half-Life_Wiki:Projects/Chapters
+
+FIN DU GUIDE - SANS SPOILER
