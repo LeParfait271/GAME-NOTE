@@ -1,97 +1,1572 @@
 BLACK MESA
-GUIDE CHRONOLOGIQUE 100 % STEAM - SANS SPOILER
+GUIDE CHRONOLOGIQUE COMPLET - 100 % STEAM - SANS SPOILER
 
-Version de travail : 10 aout 2026
+Version de travail : 12 aout 2026
 
-Ce parcours couvre les 50 succes Steam de l'AppID 362890, de l'introduction
-aux zones finales. Il integre les actions uniques, recherches, caches,
-ennemis, scientifiques, Vortigaunts et deux routes de choix. Aucun passage ne
-revele un nom de boss, une fin, une identite ou un retournement.
+Cette fiche couvre les 50 succes Steam de Black Mesa, campagne principale et
+chapitres Xen compris. Elle est ecrite comme un parcours de jeu, pas comme une
+simple liste de trophées : chaque zone indique ce qu'il faut faire, ou revenir,
+quoi sauvegarder et quel compteur verifier.
 
-OBJECTIF
+Black Mesa ne possede pas de systeme de coffres ou de collection globale comme
+un RPG. Les vrais objets a ne pas perdre sont le Hidden Hat, la pizza de la
+cafeteria, le cylindre de Cyanogen et, pour les succes de Xen, les Protozoans.
+Tous ces objets ont donc une fiche de transport dediee.
+
+Les noms de chapitres, d'armes et de succes restent en anglais pour correspondre
+aux menus Steam. Les instructions evitent les noms de personnages, les motifs
+de l'histoire et les consequences narratives. Les boss sont mentionnes seulement
+quand leur nom est necessaire pour un objectif de gameplay.
+
+OBJECTIF DE LA FICHE
 
 [ ] 50/50 succes Steam.
-[ ] Campagne dans l'ordre, y compris Xen.
-[ ] Caches, scientifiques, recherches et Protozoans.
-[ ] Actions d'armes, de pieges, de tourelles et de grenades.
-[ ] Deux sauvegardes pour les choix de l'offre finale.
+[ ] Route complete de Black Mesa Inbound a Endgame.
+[ ] Tous les succes d'interaction, d'armes, de combats et de recherches.
+[ ] Les 64 Protozoans coches par carte dans Xen, Gonarch's Lair et Interloper.
+[ ] Les 7 corps de Post-Mortem Interval.
+[ ] Les objets transportables : Hidden Hat, pizza et Cyanogen.
+[ ] Les deux fins Steam validees avec deux sauvegardes separees.
+[ ] Les routes fragiles : PhD in Pacifism, Stealth Technology, Decathlon et
+    Laser Immunization validees sur des sauvegardes dediees.
 
-GARDE-FOUS ET MISSABLES
+SOMMAIRE
 
-- Fais une sauvegarde au debut de chaque chapitre et avant les salles
-  secondaires. Plusieurs succes d'interaction sont missables dans Anomalous
-  Materials, Office Complex, Surface Tension et Xen.
-- Dans le Borderworld, ne tue pas de Vortigaunt sur la run PhD in Pacifism.
-  Garde une save separee pour les essais qui demandent des eliminations.
-- Les succes Accept et Decline G-Man's offer se valident sur deux fins de
-  sauvegarde. Ne remplace pas la save avant le choix.
-- Les objectifs Chrono, Laser Immunization, Decathlon, Specimen GG et Late
-  for Work se font sur des saves de chapitre dediees.
+00. Comment utiliser la fiche
+01. Plan des runs et sauvegardes
+02. Missables et garde-fous absolus
+03. Compteurs a suivre
+04. Route chronologique : Black Mesa Inbound
+05. Route chronologique : Anomalous Materials
+06. Route chronologique : Unforeseen Consequences
+07. Route chronologique : Office Complex
+08. Route chronologique : We've Got Hostiles
+09. Route chronologique : Blast Pit
+10. Route chronologique : Power Up
+11. Route chronologique : On a Rail
+12. Route chronologique : Apprehension
+13. Route chronologique : Residue Processing
+14. Route chronologique : Questionable Ethics
+15. Route chronologique : Surface Tension
+16. Route chronologique : Forget About Freeman
+17. Route chronologique : Lambda Core
+18. Route chronologique : Xen
+19. Route chronologique : Gonarch's Lair
+20. Route chronologique : Interloper
+21. Route chronologique : Nihilanth et Endgame
+22. Fiches detaillees des 50 succes
+23. Checklist Steam finale 50/50
+24. Verification finale et sources
 
-ORDRE CHRONOLOGIQUE
+00 - COMMENT UTILISER LA FICHE
 
-1. BLACK MESA INBOUND / ANOMALOUS MATERIALS
+Une ETAPE correspond a une zone ou a une transition qui peut fermer un
+chemin. Une ACTION correspond a une interaction ponctuelle. Une SAUVEGARDE
+indique le moment ou il faut creer un slot manuel, pas seulement un quicksave.
 
-- Fouille l'introduction, passe le tram et interagis avec les machines,
-  reception, alarmes, ordinateur et salle d'experience.
-- Valide Brownian Motion, Convection Refinement, Proverbial Tinkerer,
-  Resonance Procrastinator et Less Than Desirable Consequences sur des saves
-  separees si necessaire.
-- Ne lance pas l'experience suivante avant d'avoir explore les pieces
-  laterales et les interactions accessibles.
+Les cases des chapitres servent a controler la route. La vraie checklist Steam
+complete se trouve a la fin et contient exactement les 50 succes.
 
-2. UNFORESEEN CONSEQUENCES / OFFICE COMPLEX / WE'VE GOT HOSTILES
+REGLE DE LECTURE
 
-- Recupere les armes et garde des munitions pour les actions .357, grenades,
-  tripmines, sentry et Snarks.
-- Assemble tous les scientifiques et gardes possibles a la fin d'Office
-  Complex pour Our Brains And Your Brawn. Explore les chemins alternatifs,
-  caches et salles de refroidissement.
-- Complete les actions de vending machine, alarmes et ordinateurs avant de
-  suivre la sortie principale.
+1. Lis l'objectif de sortie avant d'entrer dans la zone.
+2. Fais les actions numerotees dans l'ordre.
+3. Coche les succes quand la notification apparait, pas quand la condition
+   semble remplie.
+4. Ne supprime jamais les sauvegardes de zone avant la transition suivante.
+5. Si un compteur est douteux, ferme le jeu proprement, relance-le et verifie
+   Steam avant de continuer.
 
-3. BLAST PIT / POWER UP / ON A RAIL
+CE QUI EST VRAIMENT COLLECTIBLE
 
-- Termine les chapitres en comptant les caches et les recoins techniques.
-  Utilise le Tau/Gluon et les armes alternatives sur une save de combat.
-- Pour Unified Coupling Theorum, arrange la rencontre requise sans detruire
-  les creatures concernees trop tot.
-- Sur On a Rail, fais une sauvegarde avant les sections de rail et valide les
-  caches, trajets alternatifs et objectifs de temps.
+- 64 Protozoans : 37 dans Xen, 22 dans Gonarch's Lair et 5 dans Interloper.
+- 7 membres des research teams : tous dans Gonarch's Lair.
+- Hidden Hat : trouve dans Unforeseen Consequences, puis doit arriver a Xen
+  pour Rare Specimen et a Endgame pour The Rarest Specimen.
+- Pizza : trouve dans la cafeteria de Questionable Ethics, puis doit atteindre
+  le portail final pour Pepperoni Precipitation.
+- Cyanogen : trouve au debut de Xen, puis utilise ou conserve pour les routes
+  The Plan et Unquestionably Ethical.
 
-4. APPREHENSION / RESIDUE PROCESSING / QUESTIONABLE ETHICS
+Il n'existe pas de compteur de coffres, de journaux ou de cartes a 100 % dans
+Black Mesa. Les salles laterales restent importantes pour les armes, munitions,
+vending machines, compagnons et succes d'interaction.
 
-- Fouille les conduits, laboratoires et ascenseurs. Les objectifs de puzzle,
-  experience et machines ne sont pas toujours recuperables apres la sortie.
-- Realise les experiences requises pour Ethically Questionable et garde une
-  save avant de liberer ou non les sujets demandes.
-- Utilise les sauvegardes pour reprogrammer une sentry, tuer avec les mines,
-  Snarks et grenades, puis reprends la route principale.
+01 - PLAN DES RUNS ET SAUVEGARDES
 
-5. SURFACE TENSION / FORGET ABOUT FREEMAN!
+ROUTE RECOMMANDEE
 
-- Dans les zones ouvertes, fouille les bunkers, tours et chemins lateraux.
-  Valide Stealth Technology sur une save ou aucune alerte n'est declenchee.
-- Realise Decathlon sans degat Gargantua et les succes d'helicoptere avec une
-  save dediee. Fais les objectifs de lance-roquettes avant la transition.
+Une seule partie peut couvrir une grande partie des 50 succes, mais les objets
+transportables et les objectifs contradictoires rendent une seule run peu
+confortable. La route premium utilise une run principale et trois runs de
+nettoyage. Cela evite de transformer la partie normale en parcours de physique
+frustrant.
 
-6. LAMBDA CORE / XEN / FIN
+RUN A - CAMPAGNE PRINCIPALE
 
-- Active les pompes, recupere les caches et termine la zone technique avant le
-  portail. Pour Hyper Saturation Conundrum et les objectifs de chute, utilise
-  des sauvegardes d'essai.
-- Dans Xen, termine Prolific Popper, Orbital Trajectory, Rare Specimen,
-  Post-Mortem Interval et les objectifs de pacifisme sans rater les iles.
-- Pour Black Mesa Decathlon Winner, Doctor's Signature, Late for Work,
-  Specimen GG, Laser Immunization et les routes de fin, rejoue les chapitres
-  avec les saves dediees. Termine les deux choix finaux.
+1. Joue tous les chapitres dans l'ordre.
+2. Fais les succes d'interaction quand la fiche les indique.
+3. Termine Our Brains And Your Brawn, les succes d'armes, les 5 experiences
+   de Questionable Ethics et les succes de combats.
+4. Fais une route Xen complete avec les 64 Protozoans, les 7 corps, Following
+   the Rules, Contest Propellant et PhD in Pacifism.
+5. Garde une sauvegarde avant la fin pour les deux choix Steam.
 
-CHECKLIST 50/50
+RUN B - HIDDEN HAT
 
-[ ] Progression de tous les chapitres et succes de fin.
-[ ] Scientifiques, caches, journaux et Protozoans.
-[ ] Actions de combat : .357, grenades, mines, Snarks, sentry, Tau/Gluon.
-[ ] Routes pacifiste, stealth, chrono, decathlon et immunite laser.
-[ ] 50/50 succes Steam.
+1. Repars de Unforeseen Consequences ou du chapitre disponible correspondant.
+2. Recupere le Hidden Hat a son emplacement exact.
+3. Porte-le jusqu'au portail qui l'envoie a Xen.
+4. Continue avec le chapeau jusqu'a Endgame pour The Rarest Specimen.
 
-FIN DU GUIDE - SANS SPOILER
+Si tu charges un chapitre depuis le menu, verifie que l'objet apparait bien
+dans la zone de Xen. Pour une route parfaitement sure, commence une campagne
+complete depuis le debut et conserve le chapeau dans chaque transition.
+
+RUN C - PIZZA
+
+1. Commence a Questionable Ethics.
+2. Prends uniquement la pizza de la cafeteria indiquee dans cette fiche.
+3. Fais des sauvegardes manuelles avant les ascenseurs, vents et transitions.
+4. A Xen, recupere la pizza dans la petite cavite prevue a cet effet.
+5. Transporte-la jusqu'au portail rouge final.
+
+La pizza est volumineuse et se coince dans les echelles. Utilise des tirs
+faibles pour la faire monter seulement quand elle est bloquee, puis sauvegarde
+dans une position stable. Les pizzas de decor de Xen ne remplacent pas la
+pizza marquee de la cafeteria.
+
+RUN D - CYANOGEN ET GONARCH
+
+1. Dans Xen, prends le cylindre jaune de Cyanogen dans le bunker de recherche.
+2. Fais les 37 Protozoans de Xen avant la transition.
+3. Transporte le cylindre dans Gonarch's Lair.
+4. Fais les corps, le Protozoan secret et The Plan.
+5. Recharge la sauvegarde avant la decision pour obtenir aussi Unquestionably
+   Ethical sans refaire toute la route.
+
+RUN E - FIN DE CAMPAGNE
+
+Avant le dernier choix, cree deux slots :
+
+- FIN A : accepte l'offre pour Limitless Potential.
+- FIN B : recharge le slot avant le choix et refuse pour Rather an Anticlimax.
+
+Ne fais pas les deux choix avec une meme sauvegarde ecrasee.
+
+DIFFICULTE
+
+- La fiche est valide en Easy, Normal, Hard et Black Mesa.
+- Les succes n'exigent pas tous la difficulte maximale.
+- Pour une premiere partie 100 %, Normal est le meilleur compromis pour les
+  escortes, les objets et les essais de Xen.
+- Pour les objectifs de combat, baisse la difficulte seulement si tu assumes
+  une run de nettoyage separee.
+
+02 - MISSABLES ET GARDE-FOUS ABSOLUS
+
+OBJETS TRANSPORTABLES
+
+- Le Hidden Hat doit etre le chapeau de Unforeseen Consequences. Ne compte pas
+  sur un objet de decor ou sur un chapeau apparu dans Xen.
+- La pizza doit etre celle de la cafeteria de Questionable Ethics. Les autres
+  boites visibles dans les zones Xen sont des decors.
+- Le Cyanogen doit etre le cylindre de Xen, dans le bunker de recherche. Le
+  secret de Gonarch's Lair ne s'ouvre que si le cylindre a ete teleporte.
+- Pose toujours un objet dans un angle plat, jamais sur une pente ou au bord
+  d'un ventilateur. Fais un slot manuel et verifie la vignette de sauvegarde.
+
+SUCCES DE ROUTE
+
+- Our Brains And Your Brawn : tous les compagnons possibles doivent atteindre
+  l'ascenseur de sortie d'Office Complex.
+- Stealth Technology : le hangar de Surface Tension doit etre traverse sans
+  alerter les soldats. Fais une sauvegarde avant de parler au garde-guide.
+- Black Mesa Decathlon Winner : la sauvegarde doit etre avant le chargement de
+  la zone des Gargantuas. Ne sauvegarde pas dans la zone de l'epreuve.
+- Laser Immunization : evite aussi les lasers rouges secondaires, les lasers
+  dans la salle incendie et les plateformes electriques douteuses.
+- PhD in Pacifism : ne tue aucun Vortigaunt dans le Borderworld. Les Vorts
+  controles sont une exception pratique : tue le Controller, jamais le Vort.
+- Dead Reckoning : garde des munitions .357 pour un Assassin.
+- Doctor's Signature : le dernier coup sur Gonarch doit etre donne au crowbar.
+- Specimen GG et Late for Work : prepare les trois satchels avant de lancer le
+  combat final ; une seule explosion simultanee simplifie les deux succes.
+
+OBJECTIFS A BRANCHES
+
+- Resonance Procrastinator et Less Than Desirable Consequences se font avant
+  de continuer l'experience. Utilise deux sauvegardes.
+- The Plan et Unquestionably Ethical sont deux solutions de la sequence
+  Gonarch. Sauvegarde avant le cylindre et recharge.
+- Limitless Potential et Rather an Anticlimax sont deux choix de fin.
+
+REGLE ANTI-PERTE
+
+Au debut de chaque chapitre, garde :
+
+- Slot A : debut de zone.
+- Slot B : dernier objectif valide.
+- Slot C : objet transportable ou succes en cours.
+
+Quand un succes exige une condition de run, ne reutilise pas un quicksave cree
+apres l'echec. Recharge un slot manuel anterieur ou relance le chapitre.
+
+03 - COMPTEURS A SUIVRE
+
+TABLEAU DE CAMPAGNE
+
+[ ] Caffeine Extraction : 20 canettes sorties de vending machines.
+[ ] Gray Matter Propulsion : 20 headshots au .357 Magnum.
+[ ] Calculated Trajectory : 10 Headcrabs tues en plein saut au shotgun.
+[ ] Centripetal Attraction : 20 ennemis tues au Hivehand.
+[ ] Futile Resistance : 10 ennemis tues aux Snarks.
+[ ] One Step Ahead : 10 ennemis tues aux Tripmines.
+[ ] Digital Wizardry : 10 ennemis tues par une Sentry reprogrammee.
+[ ] Unified Coupling Theorum : la condition de la sequence Barnacle/Headcrab.
+[ ] 5/5 experiences d'Ethically Questionable.
+[ ] 6 compagnons valides pour Our Brains And Your Brawn.
+
+TABLEAU XEN
+
+[ ] Xen : 37/37 Protozoans.
+[ ] Gonarch's Lair : 22/22 Protozoans.
+[ ] Interloper : 5/5 Protozoans.
+[ ] 64/64 Protozoans au total.
+[ ] 7/7 research team bodies.
+[ ] Hidden Hat arrive a Xen.
+[ ] Hidden Hat arrive a Endgame.
+[ ] Pizza arrive au portail final.
+[ ] Cyanogen teleporte dans Gonarch's Lair.
+[ ] PhD in Pacifism.
+[ ] Following the Rules.
+[ ] Contest Propellant.
+
+04 - BLACK MESA INBOUND
+
+OBJECTIF DE SORTIE : arriver au tram d'Anomalous Materials, noter l'emplacement
+du Hidden Hat et ne rater aucune sauvegarde de depart.
+
+ROUTE
+
+1. Laisse le tram terminer son trajet. Les portes et les annonces font partie
+   de la progression ; aucune fouille n'est necessaire pendant le trajet.
+2. A la plateforme d'arrivee, observe la porte gardee et les tuyaux situes a
+   gauche de cette porte. Ce conduit est l'emplacement futur du Hidden Hat.
+3. Passe le controle, suis la ligne de couleur jusqu'au secteur de travail.
+4. Ne force pas l'acces aux salles de maintenance fermees. Elles ne contiennent
+   pas de collectible requis et te feraient perdre du temps.
+5. Fais une sauvegarde manuelle avant d'entrer dans le tram de retour. Ce slot
+   devient le point de depart des runs d'objets.
+
+GARDE-FOU HIDDEN HAT
+
+Le chapeau n'est pas recuperable tant que la route ne t'a pas fait revenir vers
+la premiere plateforme. Apres l'incident du chapitre suivant, reviens sur cette
+plateforme, monte sur la rambarde puis sur les tuyaux a gauche de la porte.
+Le Hidden Hat est dans l'angle sombre pres de la conduite.
+
+[ ] Slot depart de campagne conserve.
+[ ] Tuyaux de la premiere plateforme reperes.
+
+05 - ANOMALOUS MATERIALS
+
+OBJECTIF DE SORTIE : faire les cinq interactions de depart, valider les deux
+branches de l'experience, puis continuer vers Unforeseen Consequences.
+
+AVANT LA TENUE HEV
+
+1. Depuis le hall, prends le couloir de service vers la salle de pause.
+2. Dans la cuisine, utilise le micro-ondes avec le plat pose a l'interieur.
+   Coche Convection Refinement quand la machine a fini son cycle.
+3. Dans la meme salle, repere le distributeur orange. Si tu es blesse, sors
+   les canettes jusqu'a ce que la machine refuse d'en donner davantage.
+4. Fais une sauvegarde avant de quitter la cuisine. La machine peut fournir
+   jusqu'a 15 canettes ; recharge ce slot si tu veux recuperer les suivantes.
+5. Va aux toilettes juste avant le vestiaire HEV. Prends un rouleau sur l'etagere
+   derriere les lavabos et donne-le au scientifique dans la cabine.
+6. Le papier essuie-main de la meme zone peut aussi compter selon la version,
+   mais le rouleau est le choix le plus fiable pour Brownian Motion.
+
+PROVERBIAL TINKERER
+
+1. Dans le lobby Anomalous Materials, utilise l'ordinateur situe dans l'angle
+   pres du bureau d'information.
+2. Passe derriere le comptoir et active le bouton de l'alarme sous le bureau.
+3. Les deux actions doivent etre faites dans la meme zone avant la transition.
+
+BRANCHE 1 - LESS THAN DESIRABLE CONSEQUENCES
+
+1. Recupere la tenue HEV et suis le chemin jusqu'a la salle Anti-Mass
+   Spectrometer.
+2. Cree une sauvegarde manuelle devant la passerelle de la chambre.
+3. Quand le faisceau de test est actif et avant le lancement normal, saute dans
+   le faisceau pour provoquer la mort demandee.
+4. Verifie Less Than Desirable Consequences, puis recharge la sauvegarde.
+
+BRANCHE 2 - RESONANCE PROCRASTINATOR
+
+1. Reviens au moment ou le chariot contenant l'echantillon est livrable.
+2. Ne pousse pas le chariot dans le faisceau.
+3. Attends la fin de la sequence de surcharge ; le jeu termine l'essai sans
+   que tu aies a toucher le chariot.
+4. Verifie Resonance Procrastinator, puis recharge le slot et poursuis.
+
+CONTINUER LA CAMPAGNE
+
+1. Cette fois, insere l'echantillon dans le faisceau quand l'objectif l'exige.
+2. Traverse les salles de securite et les laboratoires sans detour obligatoire.
+3. Avant la transition, garde un slot avec la barre de vie et l'armure intactes
+   pour les premiers succes de combat.
+
+[ ] Brownian Motion.
+[ ] Convection Refinement.
+[ ] Caffeine Extraction commencee.
+[ ] Proverbial Tinkerer.
+[ ] Less Than Desirable Consequences.
+[ ] Resonance Procrastinator.
+
+06 - UNFORESEEN CONSEQUENCES
+
+OBJECTIF DE SORTIE : recuperer les grenades, commencer le transport du Hat et
+valider les interactions de feu sans bruler l'objet transportable.
+
+RETOUR A LA PLATEFORME
+
+1. Apres le retour dans la zone de transit, reviens a la premiere plateforme
+   reperee dans Black Mesa Inbound.
+2. Monte sur la rambarde puis sur les tuyaux situes a gauche de la porte
+   principale. Prends le Hidden Hat dans l'angle sombre.
+3. Pour Rare Specimen et The Rarest Specimen, conserve le chapeau. Pour une
+   campagne normale, pose-le sur un sol plat et fais un slot.
+4. Ne le lance pas dans un ventilateur, une eau courante ou un ascenseur.
+   Attends que la zone soit vide avant de le reprendre.
+
+INFLAMMATORY ACTIONS
+
+1. Dans les premiers couloirs apres l'incident, prends une flare rouge.
+2. Approche un Headcrab isole et touche-le avec la flare allumee.
+3. Ne tire pas sur la cible : le feu doit faire le dernier degat.
+4. Recharge si la flare s'eteint trop loin de la cible.
+
+GRENADES ET MEGA HERTZ
+
+1. Dans la zone du premier Houndeye, resous les deux vannes rouges pour ouvrir
+   le passage principal.
+2. Avant de partir, monte chercher le scientifique sur la passerelle.
+3. Fais-le traverser jusqu'a la salle de securite. Il ouvre la piece contenant
+   les grenades et les munitions.
+4. Garde au moins une grenade pour Office Complex. La cafeteria de ce chapitre
+   est le meilleur endroit pour reunir cinq ennemis.
+
+PROPHYLactic SUGGESTED
+
+1. Fais une sauvegarde dans un couloir avec plusieurs Headcrabs.
+2. Laisse un Headcrab te rattraper sans tirer ni utiliser l'environnement.
+3. Recharge quand le succes est valide et continue la route.
+
+WELL-DONE
+
+Avec une grenade en main, maintiens le bouton de tir sans la lancer jusqu'a ce
+qu'elle explose. Fais-le dans une salle vide et recharge ensuite si necessaire.
+
+[ ] Hidden Hat recupere si la run correspondante est active.
+[ ] Inflammatory Actions.
+[ ] Grenades recuperees.
+[ ] Prophylactic Suggested.
+[ ] Well-Done.
+
+07 - OFFICE COMPLEX
+
+OBJECTIF DE SORTIE : prendre le chemin alternatif, escorter les 4 gardes et
+2 scientifiques possibles, obtenir les 5 kills a la grenade et avancer les
+compteurs de shotgun, vending machines et .357.
+
+REGLE D'ESCORTE
+
+Ne laisse pas les compagnons se battre seuls dans une zone non nettoyee.
+Elimine les Headcrabs, Vortigaunts et Zombies avant de les faire passer. Les
+personnes comptabilisees sont les compagnons qui peuvent atteindre l'ascenseur
+final : 4 gardes et 2 scientifiques. Certains figurants restent volontairement
+dans leur salle et ne comptent pas.
+
+ROUTE D'ESCORTE
+
+1. Au premier poste de securite, laisse le garde ouvrir les portes et protege
+   le groupe. Ne pars pas en courant dans la cage d'escalier.
+2. Dans les bureaux, nettoie chaque niveau avant de faire avancer le groupe.
+3. Apres l'embuscade de Vortigaunts, prends le couloir de droite puis reviens
+   vers la salle bloquee par des panneaux de cubicles. Casse les panneaux au
+   crowbar pour liberer la scientifique cachee.
+4. Dans la zone du message radio, protege le garde isole contre les Zombies et
+   les Vortigaunts, puis fais-le rejoindre le groupe.
+5. Garde les 4 gardes en vie et laisse les 2 scientifiques te suivre. Si un
+   compagnon reste immobile, nettoie la salle suivante puis reviens vers lui.
+6. Dans la cafeteria, ne monte pas tout de suite vers l'ascenseur. Fais le
+   succes de grenade avant de ramener le groupe.
+7. Quand les 6 compagnons sont presents devant l'ascenseur de sortie, attends
+   leur positionnement complet. Le succes peut apparaitre apres le dernier
+   compagnon, pas a la premiere entree.
+
+PERMEABLE INFRASTRUCTURE
+
+1. Dans la grande zone de bureaux avec les Vortigaunts, cherche le sofa et les
+   echelles situees derriere les meubles.
+2. Monte par les echelles, entre dans la ventilation et suis le conduit
+   jusqu'a l'autre cote du bureau.
+3. Termine la route alternative avant de poursuivre l'escorte.
+
+MEGA HERTZ
+
+1. Dans la cafeteria, fais une sauvegarde devant l'effondrement du plafond.
+2. Laisse les Headcrabs tomber et attire-les dans le meme groupe.
+3. Lance une grenade au centre lorsque cinq cibles sont presentes.
+4. Recharge jusqu'a obtenir les 5 eliminations en une seule explosion.
+
+CALCULATED TRAJECTORY
+
+Equipe le shotgun. Attends que les Headcrabs sautent vers toi, puis tire quand
+ils sont en l'air. Garde le compteur ouvert et vise 10 eliminations cumulees ;
+les tirs au sol ne comptent pas.
+
+CAFFEINE EXTRACTION
+
+Utilise les vending machines quand tu les rencontres. Tu peux sortir une
+canette d'une machine meme si tu ne la bois pas, mais il faut etre blesse pour
+que le distributeur fournisse une canette. Le distributeur de la salle de pause
+d'Anomalous Materials peut fournir 15 canettes ; les 5 restantes viennent des
+machines de Office Complex et We've Got Hostiles.
+
+[ ] Permeable Infrastructure.
+[ ] Mega Hertz.
+[ ] Our Brains And Your Brawn.
+[ ] Calculated Trajectory en progression.
+[ ] Caffeine Extraction en progression.
+[ ] Hidden Hat porte ou stocke sur sol plat.
+
+08 - WE'VE GOT HOSTILES
+
+OBJECTIF DE SORTIE : obtenir Digital Wizardry, Kinetic Repulsion et Unified
+Coupling Theorum, puis conserver les armes de combat pour Blast Pit et Power Up.
+
+DIGITAL WIZARDRY
+
+1. Quand tu rencontres une Sentry Gun, approche-la par l'arriere sans entrer
+   dans son faisceau rouge.
+2. Ramasse-la avec la touche d'utilisation : elle devient reprogrammee.
+3. Porte-la jusqu'a une zone avec des Headcrabs ou des soldats, pose-la avec
+   une ligne de tir degagee et laisse-la faire les eliminations.
+4. Vise 10 ennemis. Une Sentry qui tue une cible puis tombe peut etre reprise
+   apres la recharge.
+
+KINETIC REPULSION
+
+1. Lors de la premiere rencontre avec un Marine qui utilise des grenades, fais
+   une sauvegarde derriere une couverture.
+2. Attends qu'il lance sa grenade.
+3. Ramasse-la avec la touche d'utilisation avant l'explosion et renvoie-la vers
+   le Marine.
+4. Le Marine doit mourir de sa propre grenade. Recharge si l'explosion le blesse
+   seulement.
+
+UNIFIED COUPLING THEORUM
+
+1. Dans la zone des tapis roulants, repere les Barnacles suspendus au plafond.
+2. Attire des Headcrabs depuis la salle voisine jusqu'a leur langue.
+3. Fais manger 10 Headcrabs par les Barnacles. La premiere victime peut ne pas
+   faire apparaitre la notification immediatement.
+4. Utilise une sauvegarde pour repeter la sequence si les cibles se dispersent.
+
+PROGRESSION
+
+1. Ouvre les portes de la High Security Storage Facility avec le personnel
+   present.
+2. Fouille les salles laterales avant le depart du convoi. Les caisses de
+   munitions et les grenades sont plus utiles que les detours apres transition.
+3. Pour le transport du Hidden Hat, laisse-le dans la salle de soin avant la
+   longue sequence ou le scientifique et le garde sont attaques, puis reprends-
+   le quand la route revient vers cette zone.
+
+[ ] Digital Wizardry : compteur 10.
+[ ] Kinetic Repulsion.
+[ ] Unified Coupling Theorum : 10 Headcrabs.
+[ ] Caffeine Extraction : 20 canettes si possible.
+
+09 - BLAST PIT
+
+OBJECTIF DE SORTIE : utiliser les Satchel Charges sur un Barnacle, terminer la
+zone des moteurs et conserver les armes lourdes.
+
+ROUTE
+
+1. Suis les indications vers les trois moteurs et les couloirs de maintenance.
+2. Dans les salles de controle, ouvre les portes en activant les interrupteurs
+   avant de retourner vers le moteur correspondant.
+3. Elimine les Barnacles de la passerelle seulement apres avoir repere la zone
+   de Satchel.
+4. Ne depense pas toutes les Satchels dans les combats : il en faut une pour
+   Remote Detonation.
+
+REMOTE DETONATION
+
+1. Equipe une Satchel Charge devant un Barnacle.
+2. Lance-la de facon a ce que la langue l'attrape et la remonte.
+3. Attends que la charge soit au niveau de la bouche, puis appuie sur le bouton
+   secondaire pour la faire exploser.
+4. Si le Barnacle meurt avant de remonter la charge, recharge et recommence.
+
+TRAVERSEE TECHNIQUE
+
+1. Active le premier moteur, puis suis la conduite jaune vers le deuxieme.
+2. Utilise les passerelles et les vannes de la salle de refroidissement pour
+   atteindre le moteur suivant.
+3. Dans la zone des tentacules, utilise les bruits et le feu pour ouvrir le
+   chemin. Ne jette pas le Hidden Hat dans la zone de combat : laisse-le dans
+   la salle de controle avec un sol plat.
+4. Termine le tir de silo et reviens vers la voie de sortie.
+
+[ ] Remote Detonation.
+[ ] Trois moteurs actives.
+[ ] Satchel restante si One Step Ahead n'est pas termine.
+
+10 - POWER UP
+
+OBJECTIF DE SORTIE : avancer Gray Matter Propulsion et One Step Ahead, garder
+les munitions pour les zones de transport et faire les detours de securite.
+
+GRAY MATTER PROPULSION
+
+1. Conserve le .357 Magnum au lieu de le vider sur les premiers ennemis.
+2. Vise la tete des Zombies et des Marines.
+3. Le compteur demande 20 headshots cumules avec le .357, pas 20 ennemis
+   differents. Les corps immobiles restent de bonnes cibles de sauvegarde si
+   la scene le permet.
+
+ONE STEP AHEAD
+
+1. Ramasse les Tripmines dans les couloirs de securite.
+2. Pose-les a hauteur de passage, derriere une porte ou dans un couloir avec
+   plusieurs ennemis.
+3. Attire les Marines et Headcrabs au-dela du rayon rouge.
+4. Vise 10 eliminations. Ne marche jamais dans ton propre faisceau : une mine
+   amie peut detruire une tentative.
+
+ROUTE DU GENERATEUR
+
+1. Traverse le premier batiment de puissance jusqu'au panneau de commande.
+2. Active les vannes de refroidissement et les alimentations dans l'ordre
+   indique par les voyants.
+3. Reviens a la salle du generateur apres chaque activation ; ne prends pas un
+   ascenseur avant que le niveau suivant soit alimente.
+4. Dans la zone ouverte, utilise les caisses comme couverture et conserve le
+   shotgun pour les groupes rapproches.
+
+[ ] Gray Matter Propulsion : compteur 20.
+[ ] One Step Ahead : compteur 10.
+[ ] Hidden Hat ou autre objet pose avant la zone de transport.
+
+11 - ON A RAIL
+
+OBJECTIF DE SORTIE : terminer le transport, les changements d'aiguillage et le
+lancement, sans depenser les munitions necessaires a la suite.
+
+ROUTE DU TRAIN
+
+1. Monte dans la cabine et utilise le levier de vitesse pour demarrer.
+2. Arrete le train devant chaque aiguillage et active le bouton de la voie
+   demandee. Un voyant vert confirme la bonne voie.
+3. Quand le train entre dans une salle de maintenance, descends, ouvre la porte
+   de securite et reviens a la cabine.
+4. Dans la zone de chargement, active le monte-charge avant de reprendre la voie.
+5. Dans la section de lancement, utilise les rampes et les plateformes
+   laterales pour atteindre les commandes. Le bouton du lanceur se trouve dans
+   la salle de controle au-dessus de la voie.
+6. Apres le lancement, reprends le train et utilise les derniers aiguillages
+   vers Apprehension.
+
+FOUILLE UTILE
+
+- Les petites salles a gauche des aiguillages contiennent munitions, soins ou
+  armure ; visite-les avant de remonter dans la cabine.
+- Les conduits derriere les portes de maintenance sont des raccourcis de retour.
+- Si le Hidden Hat est transporte, pose-le dans la cabine, pas sur les rails.
+
+[ ] Aiguillages verts valides.
+[ ] Lancement termine.
+[ ] Munitions .357 conservees pour Dead Reckoning.
+
+12 - APPREHENSION
+
+OBJECTIF DE SORTIE : recuperer le Crossbow et valider Dead Reckoning avec le
+Magnum sur un Assassin.
+
+ROUTE SOUS-MARINE
+
+1. Descends dans la premiere salle inondee et active les interrupteurs de pompe.
+2. Utilise les conduits sous l'eau pour contourner les portes fermees.
+3. Recupere le Crossbow dans la cage rouillee suspendue au-dessus de l'eau.
+4. Continue vers l'ascenseur de securite. Avant d'entrer, remplis le .357 et
+   fais une sauvegarde manuelle.
+
+DEAD RECKONING
+
+1. Apres l'ascenseur, une sequence de dialogue attire l'attention sur la zone.
+2. Ne tire pas immediatement avec le Crossbow.
+3. Equipe le .357 et vise la tete de l'Assassin quand il devient visible.
+4. Si la cible disparait, garde des munitions et utilise une autre rencontre
+   plus loin plutot que de vider le chargeur sur le garde.
+
+SORTIE
+
+1. Active les pompes, remonte par les echelles et ouvre les sas.
+2. Dans les salles de Barnacles, utilise le Crossbow a distance pour eviter de
+   prendre des degats inutiles.
+3. Termine la transition vers Residue Processing.
+
+[ ] Crossbow recupere.
+[ ] Dead Reckoning.
+[ ] Hidden Hat ou pizza protege de l'eau.
+
+13 - RESIDUE PROCESSING
+
+OBJECTIF DE SORTIE : traverser la station de traitement, ne pas perdre un objet
+transportable et arriver a Questionable Ethics avec les armes pretes.
+
+ROUTE PRINCIPALE
+
+1. Suis la ligne jaune vers le traitement des dechets.
+2. Utilise les convoyeurs pour atteindre les plateformes laterales. Quand un
+   tapis avance, attends son retour plutot que de sauter dans la presse.
+3. Dans les salles avec de l'eau toxique, ouvre les vannes une par une et
+   traverse uniquement quand le niveau permet de rejoindre l'echelle.
+4. Quand un broyeur bloque le passage, active le panneau de maintenance au
+   niveau superieur puis reviens par la passerelle.
+5. Les ventilateurs et les courants peuvent deplacer le Hat ou la pizza.
+   Depose toujours l'objet dans une alcove avant d'activer une machine.
+6. Continue jusqu'a l'ascenseur menant a Questionable Ethics.
+
+VERIFICATION
+
+[ ] Aucun objet transportable laisse dans un convoyeur.
+[ ] Armure et munitions verifiees.
+[ ] Slot manuel de transition cree.
+
+14 - QUESTIONABLE ETHICS
+
+OBJECTIF DE SORTIE : valider les 5 experiences, recuperer le Tau Cannon, les
+Snarks et la pizza, puis choisir la route de transport.
+
+LES 5 EXPERIENCES D'ETHICALLY QUESTIONABLE
+
+EXPERIENCE 1/5 - SALLE DU GRUNT
+
+1. Dans la premiere salle de laboratoire avec un grunt au centre, entre dans
+   la salle de controle vitree.
+2. Appuie sur le bouton de test pour terminer l'experience.
+3. Attends la fin de la sequence avant de quitter la piece.
+
+EXPERIENCE 2/5 - A07 MINOR XENOS
+
+1. Sors de la premiere salle en passant sous la porte abaissee.
+2. Suis le couloir jusqu'a la porte marquee A07-Minor Xenos.
+3. Dans la console, appuie plusieurs fois sur le bouton de lancement jusqu'a
+   ce que le sujet ait ete entierement traite.
+
+EXPERIENCE 3/5 - BULLSQUID
+
+1. Rejoins la grande salle avec l'escalier a droite.
+2. Monte dans la salle de controle et active Door release.
+3. Quand la porte est ouverte, appuie sur Danger push to fire.
+4. Ne tire pas toi-meme avant que le test automatique soit termine.
+
+EXPERIENCE 4/5 - B08 CES CHAMBER
+
+1. Suis les panneaux Male Locker Room, Lobby, B01 Conference, B02 Aquatics,
+   B04 Cryonics et B05 Autopsy.
+2. Entre dans B08-CES Chamber.
+3. Prends le flacon de gaz sur le comptoir et place-le dans Experiment Gas Feed.
+4. Cette salle contient aussi les Snarks. Recupere-les avant de quitter.
+5. Avant le gaz, fais une sauvegarde pour les succes Universal Gravitation et
+   Futile Resistance.
+
+EXPERIENCE 5/5 - D07 PRIMARY LASER
+
+1. Sors de B08 puis suis les panneaux vers Lab D et D07 Primary Laser.
+2. Active les alimentations laser dans les petites salles voisines.
+3. Reviens avec le shield plug et place-le dans le mur de la salle de test.
+4. Appuie sur Warning laser test fire.
+5. Verifie Ethically Questionable avant de quitter le laboratoire.
+
+SNARKS
+
+FUTILE RESISTANCE
+
+1. Fais une sauvegarde devant B08-CES Chamber.
+2. Entre dans la zone avec les Headcrabs et lache les Snarks au sol.
+3. Laisse-les tuer 10 ennemis. Recharge pour repeter la scene si necessaire.
+4. Ne detruis pas les Snarks avec tes propres tirs.
+
+UNIVERSAL GRAVITATION
+
+1. Dans une salle vide, lache plusieurs Snarks devant toi.
+2. Eloigne-toi des ennemis afin que les Snarks reviennent vers toi.
+3. Laisse-les te tuer. Recharge ensuite.
+
+QUANTUM CAPACITANCE
+
+1. Recupere le Tau Cannon dans la salle ou un scientifique et un garde
+   terminent une surcharge.
+2. Equipe le Tau, maintiens le tir secondaire pour charger l'arme.
+3. Laisse la surcharge te blesser. La notification apparait quand l'arme est
+   effectivement surchargee.
+
+PEPPERONI PRECIPITATION
+
+1. Dans la cafeteria, juste avant la rencontre avec un garde, regarde le
+   comptoir a droite. La boite de pizza est posee sur le plan de travail.
+2. Prends la pizza de la cafeteria et fais une sauvegarde manuelle.
+3. Porte-la dans les transitions en la deposant sur un sol stable avant chaque
+   ascenseur, echelle, vent ou teleporteur.
+4. La pizza reapparait plus loin dans Xen dans une cavite de roche. La fiche
+   precise son emplacement dans Xen ; ne remplace pas la pizza par une boite
+   de decor.
+
+SORTIE
+
+[ ] Ethically Questionable : 5/5 experiences.
+[ ] Snarks recuperees.
+[ ] Futile Resistance.
+[ ] Universal Gravitation.
+[ ] Quantum Capacitance.
+[ ] Pizza recuperee pour la run correspondante.
+
+15 - SURFACE TENSION
+
+OBJECTIF DE SORTIE : valider Nuclear Fishin', avancer Centripetal Attraction,
+obtenir Stealth Technology sur une save dediee et transporter les objets sans
+les perdre dans les zones ouvertes.
+
+NUCLEAR FISHIN'
+
+1. Traverse la zone exterieure jusqu'au barrage.
+2. Apres le combat de l'helicoptere, regarde le bassin d'eau claire sur le cote
+   droit du barrage.
+3. Equipe le Tau Cannon ou le Gluon et plonge vers l'Ichthyosaur.
+4. Tue le poisson avec l'arme energetique. Deux cibles peuvent apparaitre dans
+   le reservoir ; recharge si la premiere rencontre ne compte pas.
+
+CENTRIPETAL ATTRACTION
+
+1. Recupere le Hivehand plus loin dans les installations de Surface Tension.
+2. Utilise ses projectiles a retour automatique contre les Headcrabs, soldats
+   et autres ennemis.
+3. Vise 20 eliminations cumulees. Les projectiles qui reviennent vers toi
+   peuvent tuer une cible derriere toi : garde le compteur ouvert.
+
+STEALTH TECHNOLOGY
+
+1. Fais une sauvegarde manuelle avant la derniere zone de Surface Tension.
+2. Quand tu arrives a l'hangar de sortie vers Lambda, parle au garde qui sert
+   de guide.
+3. Suis-le en restant derriere les caisses et les murs. Ne tire pas, ne lance
+   pas de grenade et ne laisse pas un ennemi voir le garde.
+4. Attends qu'il ouvre la porte de sortie avant de franchir le seuil.
+5. Si l'alarme retentit, recharge le slot avant le dialogue.
+
+ROUTE DE SURFACE
+
+1. Nettoie les bunkers et les tours avant d'ouvrir les grandes portes.
+2. Dans les mines, avance en longeant les clotures et detone les charges avec
+   un tir a distance.
+3. Contre les blindes, utilise les lance-roquettes et les couvertures en beton.
+4. Pour la run Hat/Pizza, jette l'objet par-dessus les petites clotures plutot
+   que de le laisser dans l'herbe ou dans l'eau.
+
+[ ] Nuclear Fishin'.
+[ ] Centripetal Attraction : compteur 20.
+[ ] Stealth Technology.
+[ ] Objet transportable retrouve apres chaque grande transition.
+
+16 - FORGET ABOUT FREEMAN
+
+OBJECTIF DE SORTIE : rejoindre Lambda, conserver les armes lourdes et faire
+passer les objets transportables dans les derniers secteurs de surface.
+
+ROUTE
+
+1. Depuis la zone de Surface Tension, suis les panneaux de repli vers les
+   hangars et les canalisations.
+2. Utilise les armes lourdes contre les blindes et les tourelles, mais garde
+   des munitions energetiques pour Lambda Core.
+3. Dans les salles de controle, active les portes de securite avant de
+   revenir chercher les objets poses.
+4. Dans le dernier passage avec les tourelles, une pizza peut rester bloquee
+   dans l'echelle. Pose-la sur la plateforme, utilise le crowbar ou un tir
+   controle pour la faire monter, puis cree un slot.
+5. Franchis la transition vers Lambda Core avec un slot qui montre l'objet
+   transportable a proximite du joueur.
+
+CONTROLE DE COMBAT
+
+- Si Gray Matter Propulsion n'est pas valide, les derniers Marines offrent des
+  cibles au .357.
+- Si One Step Ahead n'est pas valide, les zones de soldats permettent de poser
+  des Tripmines derriere les portes.
+- Si Caffeine Extraction n'est pas valide, utilise chaque vending machine
+  rencontree avant d'entrer dans Xen.
+
+[ ] Route de surface terminee.
+[ ] Caffeine Extraction : 20 canettes.
+[ ] Arme energetique conservee pour Lambda.
+
+17 - LAMBDA CORE
+
+OBJECTIF DE SORTIE : activer le complexe, valider Premature Expulsion, Hyper
+Saturation Conundrum et Xen when, puis choisir la transition vers Xen.
+
+ROUTE DU COMPLEXE
+
+1. Rejoins les scientifiques dans le hall et suis les panneaux Lambda Reactor.
+2. Traverse les salles de securite et active les trois circuits de refroidissement.
+3. Dans chaque secteur, utilise les ascenseurs uniquement apres avoir active la
+   pompe ou la vanne correspondante.
+4. Dans la zone des rampes et des cages, ouvre le passage en alimentant les
+   modules de puissance dans l'ordre des voyants.
+5. Fouille les salles de maintenance pour munitions, armure et batteries avant
+   le teleporter final.
+
+PREMATURE EXPULSION
+
+1. Recupere le Gluon Gun dans la zone de tir des scientifiques.
+2. Attends d'avoir une reserve complete de 100 unites.
+3. Fais une sauvegarde manuelle.
+4. Maintiens le tir principal jusqu'a vider toute la reserve en une seule
+   pression. Ne relache pas, ne change pas d'arme et ne ramasse pas de munitions
+   pendant le tir.
+5. Verifie Premature Expulsion, puis recharge si tu veux garder la reserve.
+
+HYPER SATURATION CONUNDRUM
+
+1. Apres le Gluon Gun, descends dans Lambda Coolant System.
+2. Rejoins le bassin de liquide de refroidissement.
+3. Fais une sauvegarde sur la passerelle.
+4. Saute dans le liquide et reste sous la surface jusqu'a la mort.
+5. Recharge et reprends la route.
+
+XEN WHEN
+
+1. Dans la salle du Lambda Teleporter, cree un slot manuel avant que le portail
+   soit pret.
+2. Quand l'objectif indique de sauter, ne saute pas.
+3. Reste dans la salle et attends l'expiration de la sequence. La notification
+   valide xen when.
+4. Recharge le slot pour entrer dans le portail et continuer la campagne.
+
+[ ] Premature Expulsion.
+[ ] Hyper Saturation Conundrum.
+[ ] xen when.
+[ ] Transition vers Xen preparee.
+
+18 - XEN
+
+OBJECTIF DE SORTIE : 37 Protozoans, Orbital Trajectory, Following the Rules,
+Contest Propellant, PhD in Pacifism, Cyanogen et la pizza de la run active.
+
+REGLE PH D IN PACIFISM
+
+Ne tue aucun Vortigaunt dans les cartes du Borderworld. Si un Controller
+apparait, vise le Controller et non ses esclaves. Les Vortigaunts non hostiles
+ne doivent pas etre touches par une explosion, un tir de Tau ou une grenade.
+Fais une sauvegarde avant chaque salle avec Controller.
+
+ORBITAL TRAJECTORY
+
+1. Au debut de Xen, prends le Long Jump Module si la route ne l'a pas deja
+   fourni.
+2. Depuis la premiere ile, dirige-toi vers les trois rochers flottants sur le
+   cote indique par les racines.
+3. Fais un long saut continu de rocher en rocher, sans suivre toute la boucle
+   de l'ile de depart.
+4. Atterris sur la plateforme suivante. L'achievement se valide au saut reussi.
+5. Recharge si tu tombes : le secret demande le saut et non la simple traversee.
+
+FOLLOWING THE RULES
+
+1. Dans le complexe de recherche de Xen, avance jusqu'au sas avec une porte
+   et un tapis d'accueil portant l'inscription Welcome.
+2. Avant de franchir la porte suivante, place-toi sur le tapis.
+3. Accroupis-toi et utilise-le quelques secondes pour simuler le nettoyage
+   des chaussures.
+4. La notification apparait dans le sas ; ne pars pas avant de la voir.
+
+CONTEST PROPELLANT
+
+1. Rejoins le village des Vortigaunts apres la sequence des Controllers.
+2. Depuis l'entree du village, prends la ventilation situee a cote du passage
+   principal.
+3. A la sortie du conduit, avant de prendre l'ascenseur visible en face,
+   tourne a gauche.
+4. Casse les deux caisses qui bloquent une entree secondaire.
+5. Monte toutes les echelles jusqu'a la petite salle contenant le pod de snacks.
+6. L'ouverture de la reserve valide Contest Propellant.
+
+PROTOZOANS : CARTE BM_C4A1A - 5/64
+
+1. Protozoan 01 : rampe de depart, pres du corps de scientifique.
+2. Protozoan 02 : bifurcation avant le deuxieme corps, sur le chemin.
+3. Protozoan 03 : sous la premiere rampe abaissee, regarde vers le bas a droite.
+4. Protozoan 04 : echafaudage apres la roche attiree par le dispositif.
+5. Protozoan 05 : meme echafaudage, derriere le premier.
+
+PROTOZOANS : CARTE BM_C4A1A1 - 0
+
+Cette carte ne contient aucun Protozoan. Si The Plan est active, prends ici le
+cylindre de Cyanogen avant de continuer. Fais une sauvegarde avec le cylindre
+dans les mains.
+
+PROTOZOANS : CARTE BM_C4A1B - 12/64
+
+6-7. Apres le tapis Welcome, dans la zone de la tentacule et du Bullsquid.
+8. En haut du chemin de racines, pres de la cascade.
+9-11. Dans la grotte avec le plan d'eau, entre les nénuphars et l'eau.
+12-14. A la sortie de la grotte apres le long saut et la descente.
+15-17. Dans l'arbre creux, autour de la plante rouge a detruire.
+
+Avant de quitter la carte, verifie que les 12 cases sont cochees. Les trois
+Protozoans de la zone aquatique peuvent se deplacer et se cacher sous l'eau.
+
+PROTOZOANS : CARTE BM_C4A1B1 - 10/64
+
+18-25. Apres le puzzle des trois plantes rouges, dans la zone ouverte avant
+    le grand passage de racines. Balaye le ciel et les bords de la riviere.
+26. Pres du gros Houndeye, apres le passage avec le Bullsquid.
+27. Dans l'espace au-dessus de la grotte a gauche du corps de scientifique.
+
+Le 27 est le plus facile a rater : il flotte hors du chemin principal et doit
+etre vise depuis la plateforme pres de la grotte.
+
+PROTOZOANS : CARTE BM_C4A1C - 8/64
+
+28-30. Dans la premiere cavite apres le mur de racines.
+31-34. Apres la chute de la cascade, dont un derriere la cascade elle-meme.
+35. Dans le bassin avec les Ichthyosaurs et les nénuphars ; il peut descendre
+    sous l'eau avant de remonter.
+
+PROTOZOANS : CARTE BM_C4A1C1 - 2/64
+
+36. Sous les rampes de l'aire de depart ; descends ou regarde sous les racines.
+37. Au-dessus de l'aire de depart, en montant vers la caverne avec le Bullsquid
+    et le corps de scientifique.
+
+CONTROLE DE SORTIE XEN
+
+[ ] 37/37 Protozoans de Xen.
+[ ] Cyanogen recupere pour The Plan ou objet de run depose sur sol stable.
+[ ] Pizza recuperee dans sa cavite si la run Pepperoni est active.
+[ ] Following the Rules.
+[ ] Contest Propellant.
+[ ] Orbital Trajectory.
+[ ] PhD in Pacifism.
+
+19 - GONARCH'S LAIR
+
+OBJECTIF DE SORTIE : 22 Protozoans, 7 corps, Gonad Glider, The Plan ou
+Unquestionably Ethical, puis Doctor's Signature.
+
+GONAD GLIDER
+
+1. Au premier affrontement, cree une sauvegarde avant la zone de corniche.
+2. Approche le bord de l'ile et laisse Gonarch charger.
+3. Il faut etre projete hors de la corniche. Recharge si la charge te tue sur
+   place ou si tu tombes trop court.
+
+PROTOZOANS : CARTE BM_C4A2A - 0
+
+Aucun Protozoan dans la premiere partie du combat. Concentre-toi sur le
+placement de l'objet et la sauvegarde de la sequence.
+
+PROTOZOANS : CARTE BM_C4A2B - 14/64
+
+38-40. Premiere zone apres la chute, visibles autour des plateformes.
+41. Apres le mur detruit, dans la salle suivante.
+42. Pres du cristal jaune, apres la zone des trois Barnacles.
+43. Juste apres le saut vers la roche avec la lanterne bleue.
+44-46. Dans la zone avec plusieurs Bullsquids, en groupe.
+47. Vers le plafond pres du bassin de soin, de l'eau toxique et des nénuphars.
+48-51. Dans le trou final de la carte, avant le chargement suivant.
+
+Tire les 48-51 avant de sauter dans le trou : les voir depuis la carte suivante
+ne suffit pas a les compter sur la bonne carte.
+
+PROTOZOANS : CARTE BM_C4A2C - 8/64
+
+52-54. Tout en haut de la zone ou les cristaux font monter l'eau.
+55-58. Dans le passage immediatement avant la course de poursuite.
+59. Dans le passage secret qui s'ouvre uniquement si le Cyanogen a ete
+    teleporte. L'ouverture se trouve a gauche juste avant la descente finale.
+
+THE PLAN
+
+1. Dans Xen, conserve le cylindre de Cyanogen en le posant dans des angles
+   stables pendant les combats.
+2. A l'arrivee dans Gonarch's Lair, verifie que le cylindre est arrive. Le
+   teleporter correspondant doit avoir ete utilise dans Xen.
+3. Dans la sequence finale, place le cylindre dans le logement de Cyanogen.
+4. Active le bouton vert et laisse la sequence se terminer.
+5. La notification The Plan confirme la route.
+
+UNQUESTIONABLY ETHICAL
+
+1. Recharge la sauvegarde creee avant l'insertion du Cyanogen.
+2. Garde le cylindre avec toi pour ouvrir le passage secret, mais ne l'active
+   pas dans le logement.
+3. A gauche de l'installation, utilise les plateformes et les racines pour
+   atteindre le passage superieur.
+4. Descends dans la cavite et continue sans tuer Gonarch.
+5. La notification apparait quand tu as echappe a la confrontation finale.
+
+POST-MORTEM INTERVAL : 7/7 CORPS
+
+Chaque corps doit etre examine avec la touche d'utilisation jusqu'au son de
+confirmation. Coche chaque numero avant de franchir la zone suivante.
+
+1/7. Debut de Gonarch's Lair, avant le bassin de soin et le cristal, dans la
+     zone remplie de Bullsquids.
+2/7. Pendant la sequence ou Gonarch bloque la sortie et te force a progresser.
+3/7. Dans la zone aux cristaux violets, sur le chemin lateral.
+4/7. Dans la toile apres le bassin de soin et le cristal, corps visible dans
+     le passage bloque.
+5/7. Dans la petite grotte a gauche juste avant une nouvelle course de Gonarch.
+6/7. Dans la zone avant l'incendie, a gauche de la trajectoire principale.
+7/7. Apres le logement de Cyanogen, saute sur les corniches a gauche avant la
+     sortie de la taniere. Ce corps n'est accessible que par ce passage.
+
+DOCTOR'S SIGNATURE
+
+1. Fais une sauvegarde quand la derniere phase de Gonarch commence.
+2. Affaiblis Gonarch avec les armes a distance.
+3. Quand il rampe sur le niveau inferieur et qu'il ne reste qu'un coup, equipe
+   le crowbar.
+4. Donne le dernier coup au crowbar. Recharge si une explosion ou une arme
+   automatique tue la cible avant le coup.
+
+SORTIE
+
+[ ] Gonad Glider.
+[ ] 22/22 Protozoans de Gonarch's Lair.
+[ ] 7/7 corps de Post-Mortem Interval.
+[ ] The Plan ou Unquestionably Ethical.
+[ ] Doctor's Signature.
+[ ] 59/64 Protozoans cumules.
+
+20 - INTERLOPER
+
+OBJECTIF DE SORTIE : valider Black Mesa Decathlon Winner, Anti-Matter Over
+Mind, Laser Immunization et les 5 derniers Protozoans.
+
+PH D IN PACIFISM
+
+1. Les Vortigaunts du village ne doivent pas etre tues.
+2. Dans la premiere salle de Controllers, vise un Controller avec le Gluon,
+   le Magnum ou le Crossbow.
+3. Verifie que les Vortigaunts relies par les rayons jaunes restent vivants.
+4. Continue ainsi jusqu'a la fin du Borderworld. PhD in Pacifism apparait a la
+   fin de la sequence si aucun Vortigaunt n'a ete tue.
+
+ANTI-MATTER OVER MIND
+
+1. Fais une sauvegarde avant une salle avec Controller et Vortigaunts lies.
+2. Vise le Controller uniquement.
+3. N'utilise ni grenade ni explosion qui pourrait toucher les Vortigaunts.
+4. Le Controller doit mourir alors que tous ses esclaves restent en vie.
+5. Recharge si un Vortigaunt meurt, puis reprends la route pacifiste.
+
+BLACK MESA DECATHLON WINNER
+
+1. Dans le village, fais une sauvegarde avant de prendre l'ascenseur vers la
+   riviere qui charge la zone des Gargantuas.
+2. Ne cree pas de nouveau slot une fois la carte de la taniere chargee.
+3. Laisse les objets transportables sur une plateforme sure avant l'epreuve.
+4. Dans la colonie, suis le chemin principal, utilise les rochers comme
+   couverture et avance sans t'arreter devant les Gargantuas.
+5. Utilise les longs sauts, les corniches et les ouvertures laterales pour
+   gagner du terrain. Les degats des Bullsquids ou des chutes ne bloquent pas
+   l'objectif ; les coups des Gargantuas, oui.
+6. Atteins la sortie de la taniere sans perdre de vie a cause d'un Gargantua.
+7. En cas d'echec, recharge le slot du village et repasse la zone complete.
+
+LASER IMMUNIZATION
+
+1. Fais une run dediee a Interloper. Utilise des sauvegardes manuelles a
+   l'exterieur des zones sensibles et le menu de chargement si tu dois revenir.
+2. Les lasers rouges dans la salle avec la caisse en feu comptent ; ne saute
+   pas au-dessus de la caisse si le feu ou le faisceau touche la tenue.
+3. Dans la salle de la cage de Faraday, lance la grenade puis recule avant
+   l'explosion. Ne te fais pas projeter dans un laser.
+4. Dans les salles suivantes, observe le balayage des faisceaux, accroupis-toi
+   sous les lignes basses et utilise les plateformes non electrifiees.
+5. Les lasers des convoyeurs de capsules, les lasers des plateformes et les
+   faisceaux pres des Controllers comptent egalement.
+6. Evite les plateformes rouges/electrifiees quand une voie laterale existe.
+7. La notification arrive dans la salle finale de plateformes rebondissantes,
+   quand la derniere sequence de capsules est terminee.
+8. Si ta vie ou ton armure baisse a cause d'un laser, recharge depuis l'avant
+   de la zone ; n'enregistre pas l'echec par-dessus le slot.
+
+PROTOZOANS : INTERLOPER - 5/64
+
+60-64. Dans la derniere salle Galaxy Room de la carte bm_c4a3d1, apres les deux
+       premieres salles et la ventilation. Les cinq sont visibles ensemble,
+       mais monte l'arme et balaye le plafond avant de partir.
+
+CONTROLE DE SORTIE
+
+[ ] PhD in Pacifism.
+[ ] Anti-Matter Over Mind.
+[ ] Black Mesa Decathlon Winner.
+[ ] Laser Immunization.
+[ ] 64/64 Protozoans.
+
+21 - NIHILANTH ET ENDGAME
+
+OBJECTIF DE SORTIE : Specimen GG, Late for Work, puis les deux choix de fin.
+
+PREPARATION DES TROIS SATCHELS
+
+1. Avant la salle finale, recupere au moins trois Satchel Charges.
+2. Fais une sauvegarde manuelle devant la porte de l'arene.
+3. Place une charge sur chacune des trois ouvertures au sol ou les Healing
+   Crystals apparaissent.
+4. Ne detone pas encore. Verifie que les trois charges sont bien visibles et
+   qu'aucune n'est dans l'eau.
+
+SPECIMEN GG
+
+1. Detruis les protections qui masquent les trois zones de cristal.
+2. Inflige assez de degats pour faire apparaitre les trois Healing Crystals.
+3. Des qu'ils se levent pour regenerer la cible, active le detonateur des trois
+   Satchels en une seule sequence.
+4. Les trois cristaux doivent disparaitre ensemble. Recharge si l'un reste
+   debout.
+
+LATE FOR WORK
+
+1. Fais la meme preparation, car la destruction simultanee raccourcit la phase.
+2. Lance le combat et avance sans explorer l'arene.
+3. Detruis les trois cristaux au meme moment.
+4. Utilise le Gluon, le Tau ou le RPG sur la cible et son cristal arriere des
+   qu'il devient accessible.
+5. Le combat doit se terminer en moins de quatre minutes. Une sauvegarde juste
+   avant la porte permet de reprendre l'essai.
+
+FIN DE CAMPAGNE
+
+1. Apres le combat final, laisse la sequence de transport se derouler.
+2. Sur le slot FIN A, accepte l'offre en entrant dans le portail propose.
+3. Verifie Limitless Potential.
+4. Recharge ensuite le slot cree avant le choix.
+5. Sur le slot FIN B, reste dans la rame et refuse l'offre.
+6. Verifie Rather an Anticlimax.
+
+[ ] Specimen GG.
+[ ] Late for Work.
+[ ] Limitless Potential.
+[ ] Rather an Anticlimax.
+[ ] 50/50 succes visibles dans Steam.
+
+22 - FICHES DETAILLEES DES 50 SUCCES
+
+Cette section reprend chaque succes Steam individuellement. Elle sert de
+recherche rapide si un objectif a ete oublie pendant la route.
+
+01 - BROWNIAN MOTION
+
+Condition : passer le papier toilette au scientifique en difficulte.
+Emplacement : toilettes d'Anomalous Materials, juste avant la tenue HEV.
+Action : prendre un rouleau sur l'etagere derriere les lavabos et l'utiliser sur
+la cabine. Ne quitte pas la zone avant la fin de l'interaction.
+
+02 - CONVECTION REFINEMENT
+
+Condition : ruiner le plat au micro-ondes.
+Emplacement : salle de pause/cuisine avant le vestiaire HEV.
+Action : utiliser le micro-ondes contenant le plat. Attendre la fin de la
+sequence avant de continuer.
+
+03 - GRAY MATTER PROPULSION
+
+Condition : 20 headshots au .357 Magnum.
+Methode : conserver les munitions de Power Up, viser Zombies et Marines et
+compter uniquement les morts par tir de tete au Magnum.
+
+04 - PROPHYLACTIC SUGGESTED
+
+Condition : etre tue par l'avant d'un Headcrab.
+Emplacement : premier groupe de Headcrabs d'Unforeseen Consequences.
+Methode : sauvegarder, ne pas tirer, laisser un Headcrab te tuer, puis recharger.
+
+05 - ANTI-MATTER OVER MIND
+
+Condition : tuer un Controller sans tuer un Vortigaunt controle.
+Emplacement : premiere salle de Controllers d'Interloper.
+Methode : tirer uniquement sur le Controller, eviter les explosifs et verifier
+que tous les Vortigaunts relies restent vivants.
+
+06 - PREMATURE EXPULSION
+
+Condition : vider un chargeur complet de Gluon en un tir continu.
+Emplacement : Gluon Gun de Lambda Core.
+Methode : remplir la reserve a 100, maintenir le tir sans relacher ni changer
+d'arme jusqu'a l'epuisement total.
+
+07 - INFLAMMATORY ACTIONS
+
+Condition : tuer un Headcrab avec du feu.
+Emplacement : premiers couloirs d'Unforeseen Consequences.
+Methode : allumer une flare et la maintenir contre un Headcrab jusqu'a sa mort.
+
+08 - LIMITLESS POTENTIAL
+
+Condition : accepter l'offre d'emploi finale.
+Methode : utiliser la sauvegarde FIN A et entrer dans le portail propose.
+
+09 - PERMEABLE INFRASTRUCTURE
+
+Condition : utiliser le chemin alternatif d'Office Complex.
+Emplacement : bureaux avec Vortigaunts, sofa et echelles derriere les meubles.
+Methode : passer par la ventilation derriere les cubicles et rejoindre l'autre
+cote du bureau.
+
+10 - DEAD RECKONING
+
+Condition : tuer un Assassin avec le .357 Magnum.
+Emplacement conseille : rencontre apres l'ascenseur d'Apprehension.
+Methode : sauvegarder avant la scene, garder le Magnum charge et viser la tete.
+
+11 - CENTRIPETAL ATTRACTION
+
+Condition : tuer 20 ennemis avec le Hivehand.
+Emplacement : Hivehand de Surface Tension.
+Methode : garder l'arme equipee dans les couloirs et valider 20 kills cumules.
+
+12 - CAFFEINE EXTRACTION
+
+Condition : sortir 20 canettes de vending machines.
+Methode : etre blesse, utiliser les machines et compter les canettes produites.
+La machine de la salle de pause donne environ 15 canettes ; recharge le slot ou
+complete le compteur avec Office Complex, We've Got Hostiles et les chapitres
+suivants avant Xen.
+
+13 - QUANTUM CAPACITANCE
+
+Condition : surcharger le Tau Cannon jusqu'a te blesser.
+Emplacement : apres les laboratoires de Questionable Ethics.
+Methode : maintenir le tir secondaire de l'arme jusqu'a la surcharge.
+
+14 - WELL-DONE
+
+Condition : cuire une grenade trop longtemps.
+Methode : tenir une grenade sans la lancer jusqu'a son explosion en main.
+
+15 - MEGA HERTZ
+
+Condition : tuer cinq ennemis avec une seule grenade.
+Emplacement conseille : cafeteria d'Office Complex, au moment de l'effondrement
+du plafond.
+Methode : sauvegarder avant la scene, regrouper cinq Headcrabs et lancer au
+centre du groupe.
+
+16 - RATHER AN ANTICLIMAX
+
+Condition : refuser l'offre finale.
+Methode : recharger FIN B, rester dans la rame et attendre la fin de la sequence.
+
+17 - PROVERBIAL TINKERER
+
+Condition : intervenir sur l'alarme et l'ordinateur d'Anomalous Materials.
+Methode : utiliser l'ordinateur dans l'angle du lobby puis le bouton d'alarme
+sous le comptoir d'information.
+
+18 - LESS THAN DESIRABLE CONSEQUENCES
+
+Condition : mourir dans le faisceau avant de lancer l'experience.
+Emplacement : chambre Anti-Mass Spectrometer.
+Methode : sauvegarder, sauter dans le faisceau actif, puis recharger.
+
+19 - CALCULATED TRAJECTORY
+
+Condition : tuer 10 Headcrabs en plein vol avec le shotgun.
+Methode : attendre le saut, tirer pendant la trajectoire aerienne et compter les
+10 morts. Les kills au sol ne valident pas la condition.
+
+20 - NUCLEAR FISHIN'
+
+Condition : tuer un Ichthyosaur au Tau ou au Gluon.
+Emplacement : reservoir du barrage apres le combat d'helicoptere.
+Methode : plonger dans l'eau claire, equiper l'arme energetique et tuer le
+poisson.
+
+21 - PHD IN PACIFISM
+
+Condition : ne tuer aucun Vortigaunt dans le Borderworld.
+Methode : eviter tout tir, explosion et dommage indirect sur les Vorts de Xen,
+Gonarch's Lair et Interloper. Tue les Controllers si necessaire.
+
+22 - REMOTE DETONATION
+
+Condition : tuer un Barnacle avec une Satchel.
+Methode : lancer la Satchel dans la langue du Barnacle, attendre qu'elle soit
+remontee puis detoner avec le bouton secondaire.
+
+23 - CONTEST PROPELLANT
+
+Condition : trouver le pod de reserve de snacks.
+Emplacement : village des Vortigaunts, ventilation pres de l'entree, crates a
+gauche avant l'ascenseur.
+Methode : casser les deux caisses, monter les echelles et entrer dans la salle
+du pod.
+
+24 - STEALTH TECHNOLOGY
+
+Condition : sortir du hangar de Surface Tension sans alerter les soldats.
+Methode : parler au garde-guide, le suivre derriere les couvertures et attendre
+qu'il ouvre la porte. Si l'alarme retentit, recharger avant le dialogue.
+
+25 - UNIVERSAL GRAVITATION
+
+Condition : etre tue par tes propres Snarks.
+Methode : lache plusieurs Snarks dans une salle vide, eloigne-toi des ennemis et
+laisse-les revenir vers toi.
+
+26 - RESONANCE PROCRASTINATOR
+
+Condition : refuser d'inserer l'echantillon dans le spectrometre.
+Methode : ne pousse pas le chariot ; attends la surcharge complete.
+
+27 - DIGITAL WIZARDRY
+
+Condition : tuer 10 ennemis avec une Sentry reprogrammee.
+Methode : ramasser une Sentry par l'arriere, la poser face aux ennemis et
+compter les eliminations.
+
+28 - FUTILE RESISTANCE
+
+Condition : tuer 10 ennemis aux Snarks.
+Emplacement conseille : habitat des Headcrabs de Questionable Ethics, pres de
+B08-CES Chamber.
+
+29 - UNIFIED COUPLING THEORUM
+
+Condition : faire manger des Headcrabs par des Barnacles.
+Methode : attirer 10 Headcrabs vers les langues de Barnacles dans la zone des
+tapis roulants de We've Got Hostiles.
+
+30 - KINETIC REPULSION
+
+Condition : tuer un Marine avec sa propre grenade.
+Methode : attendre un lancer, ramasser la grenade avec la touche d'utilisation et
+la renvoyer vers le Marine avant l'explosion.
+
+31 - ONE STEP AHEAD
+
+Condition : tuer 10 ennemis aux Tripmines.
+Methode : poser les mines derriere des portes et attirer les ennemis au-dela du
+rayon rouge. Le compteur est cumulatif.
+
+32 - HYPER SATURATION CONUNDRUM
+
+Condition : se noyer dans le liquide de refroidissement.
+Emplacement : bassin de Lambda Coolant System apres le Gluon Gun.
+
+33 - GONAD GLIDER
+
+Condition : etre projete hors de la corniche par Gonarch.
+Emplacement : premier affrontement de Gonarch's Lair.
+Methode : se placer au bord et laisser la charge te frapper.
+
+34 - ETHICALLY QUESTIONABLE
+
+Condition : accomplir les 5 experiences du laboratoire.
+Methode : suivre les experiences 1/5 a 5/5 de la section Questionable Ethics.
+
+35 - OUR BRAINS AND YOUR BRAWN
+
+Condition : reunir tous les scientifiques et gardes possibles a l'ascenseur
+d'Office Complex.
+Methode : sauver 4 gardes et 2 scientifiques, dont la scientifique derriere les
+cubicles et le garde de la zone radio, puis les amener ensemble a l'ascenseur.
+
+36 - XEN WHEN
+
+Condition : attendre trop longtemps avant de sauter dans le Lambda Teleporter.
+Methode : rester dans la salle jusqu'a l'expiration de la sequence puis recharger.
+
+37 - FOLLOWING THE RULES
+
+Condition : utiliser le tapis Welcome.
+Emplacement : sas de la base de recherche de Xen, avant la porte suivante.
+Methode : se placer dessus, s'accroupir et utiliser le tapis.
+
+38 - ORBITAL TRAJECTORY
+
+Condition : sauter l'ile initiale de Xen par le raccourci.
+Methode : utiliser le Long Jump de rocher en rocher vers la plateforme suivante.
+
+39 - BLACK MESA DECATHLON WINNER
+
+Condition : sortir de la taniere des Gargantuas sans prendre de degat d'eux.
+Methode : sauvegarder avant le chargement de la zone, courir par les plateformes
+et ne pas sauvegarder apres l'entree dans la taniere.
+
+40 - DOCTOR'S SIGNATURE
+
+Condition : donner le coup final a Gonarch avec le crowbar.
+Methode : affaiblir Gonarch, sauvegarder, puis utiliser le crowbar pour le dernier
+coup dans la phase finale.
+
+41 - LATE FOR WORK
+
+Condition : vaincre Nihilanth en moins de quatre minutes.
+Methode : placer les trois Satchels, detruire les cristaux ensemble et utiliser
+le Gluon, le Tau ou le RPG sans detour.
+
+42 - SPECIMEN GG
+
+Condition : detruire les trois Healing Crystals simultanément.
+Methode : placer une Satchel sur chaque ouverture, attendre la sortie des trois
+cristaux et detoner une seule fois.
+
+43 - RARE SPECIMEN
+
+Condition : envoyer le Hidden Hat dans Xen.
+Methode : prendre le chapeau sur les tuyaux de la premiere plateforme et le
+conserver jusqu'au portail de transition vers Xen.
+
+44 - THE PLAN
+
+Condition : utiliser Cyanogen pour tuer Gonarch.
+Methode : transporter le cylindre depuis Xen, le teleporter dans Gonarch's Lair
+et l'insérer dans le logement de la sequence finale.
+
+45 - LASER IMMUNIZATION
+
+Condition : terminer Interloper sans degat de laser.
+Methode : eviter tous les lasers rouges, les lasers des convoyeurs, les lasers
+des salles incendie et les plateformes electrifiees qui infligent un contact.
+
+46 - UNQUESTIONABLY ETHICAL
+
+Condition : laisser Gonarch en vie et sortir par le passage secret.
+Methode : teleporter le Cyanogen, ne pas l'activer, puis prendre les plateformes
+a gauche de l'installation finale.
+
+47 - THE RAREST SPECIMEN
+
+Condition : porter le Hidden Hat jusqu'a Endgame.
+Methode : reprendre le chapeau dans Xen apres la transition et le conserver
+jusqu'au portail final.
+
+48 - POST-MORTEM INTERVAL
+
+Condition : examiner les 7 corps des research teams.
+Methode : suivre la liste 1/7 a 7/7 de Gonarch's Lair et attendre le son de
+confirmation a chaque corps.
+
+49 - PROLIFIC POPPER
+
+Condition : detruire les 64 Protozoans du Borderworld.
+Methode : suivre les compteurs par carte : 37 Xen, 22 Gonarch's Lair et 5
+Interloper. Le Protozoan du passage secret de Gonarch exige le Cyanogen.
+
+50 - PEPPERONI PRECIPITATION
+
+Condition : voir l'autre fin secrete.
+Methode : porter la pizza marquee de la cafeteria de Questionable Ethics au
+portail final. Elle reapparait dans la cavite rocheuse de Xen avant d'etre
+transportee vers la fin.
+
+23 - CHECKLIST STEAM FINALE - 50/50
+
+- [ ] 01. Brownian Motion.
+- [ ] 02. Convection Refinement.
+- [ ] 03. Gray Matter Propulsion.
+- [ ] 04. Prophylactic Suggested.
+- [ ] 05. Anti-Matter Over Mind.
+- [ ] 06. Premature Expulsion.
+- [ ] 07. Inflammatory Actions.
+- [ ] 08. Limitless Potential.
+- [ ] 09. Permeable Infrastructure.
+- [ ] 10. Dead Reckoning.
+- [ ] 11. Centripetal Attraction.
+- [ ] 12. Caffeine Extraction.
+- [ ] 13. Quantum Capacitance.
+- [ ] 14. Well-Done.
+- [ ] 15. Mega Hertz.
+- [ ] 16. Rather an Anticlimax.
+- [ ] 17. Proverbial Tinkerer.
+- [ ] 18. Less Than Desirable Consequences.
+- [ ] 19. Calculated Trajectory.
+- [ ] 20. Nuclear Fishin'.
+- [ ] 21. PhD in Pacifism.
+- [ ] 22. Remote Detonation.
+- [ ] 23. Contest Propellant.
+- [ ] 24. Stealth Technology.
+- [ ] 25. Universal Gravitation.
+- [ ] 26. Resonance Procrastinator.
+- [ ] 27. Digital Wizardry.
+- [ ] 28. Futile Resistance.
+- [ ] 29. Unified Coupling Theorum.
+- [ ] 30. Kinetic Repulsion.
+- [ ] 31. One Step Ahead.
+- [ ] 32. Hyper Saturation Conundrum.
+- [ ] 33. Gonad Glider.
+- [ ] 34. Ethically Questionable.
+- [ ] 35. Our Brains And Your Brawn.
+- [ ] 36. xen when.
+- [ ] 37. Following the Rules.
+- [ ] 38. Orbital Trajectory.
+- [ ] 39. Black Mesa Decathlon Winner.
+- [ ] 40. Doctor's Signature.
+- [ ] 41. Late for Work.
+- [ ] 42. Specimen GG.
+- [ ] 43. Rare Specimen.
+- [ ] 44. The Plan.
+- [ ] 45. Laser Immunization.
+- [ ] 46. Unquestionably Ethical.
+- [ ] 47. The Rarest Specimen.
+- [ ] 48. Post-Mortem Interval.
+- [ ] 49. Prolific Popper.
+- [ ] 50. Pepperoni Precipitation.
+
+VERIFICATION FINALE ET SOURCES
+
+CONTROLE DE ROUTE
+
+[ ] Les 18 chapitres de la campagne ont ete traverses dans l'ordre.
+[ ] Les 50 notifications Steam sont visibles.
+[ ] Les 64 Protozoans sont coches par carte.
+[ ] Les 7 corps ont tous joue leur son de confirmation.
+[ ] Les trois routes d'objets ont ete verifiees.
+[ ] Les deux choix de fin sont valides sur des slots distincts.
+[ ] La sauvegarde de campagne est conservee avant toute suppression.
+
+SOURCES DE VERIFICATION
+
+- Liste officielle Steam des 50 succes :
+  https://steamcommunity.com/stats/362890/achievements
+- Guide Steam avec l'ordre des succes et les interactions :
+  https://steamcommunity.com/sharedfiles/filedetails/?id=439113225
+- Guide Steam complet des succes et des objets Xen :
+  https://steamcommunity.com/sharedfiles/filedetails/?id=2049387337
+- Guide Steam des 64 Protozoans et de leur repartition par carte :
+  https://steamcommunity.com/sharedfiles/filedetails/?id=2059229872
+- Guide Steam des 7 corps de Post-Mortem Interval :
+  https://steamcommunity.com/sharedfiles/filedetails/?id=2746185268
+- Guide Steam de verification generale :
+  https://steamcommunity.com/sharedfiles/filedetails/?id=2974277146
+- Emplacement du pod de snacks Contest Propellant :
+  https://truesteamachievements.com/a2077641/contest-propellant-achievement
+- Emplacement de la pizza et route Pepperoni Precipitation :
+  https://truesteamachievements.com/a2077649/pepperoni-precipitation-achievement
+
+FIN DU GUIDE - 100 % STEAM - SANS SPOILER
