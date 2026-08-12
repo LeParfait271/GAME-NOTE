@@ -1,186 +1,819 @@
 ASSASSIN'S CREED ODYSSEY
-GUIDE CHRONOLOGIQUE 100 % STEAM - SANS SPOILER
+GUIDE CHRONOLOGIQUE 100 % STEAM - FICHE COMPLETE SANS SPOILER
 
-Version de travail : 10 aout 2026
+Version de travail : 12 aout 2026
 
-Ce parcours couvre les 93 succes Steam de l'AppID 812140 : Grece, campagne,
-famille, culte, mercenaires, navires, arena, quetes, underwater, Lost Tales,
-Legacy of the First Blade et The Fate of Atlantis.
+PERIMETRE DE LA FICHE
 
-OBJECTIF
+Ce parcours couvre les 93 succes Steam de l'AppID 812140, la campagne en
+9 chapitres, la quete familiale, le culte de Kosmos, les mercenaires, les
+conquetes, les quetes secondaires, les animaux legendaires, les creatures
+mythiques, les tombes, les ostraka, les lieux sous-marins, l'Adrestia, les
+Lost Tales of Greece, Legacy of the First Blade et The Fate of Atlantis.
 
-[ ] 93/93 succes Steam.
-[ ] Campagne et quetes de famille.
-[ ] Carte, sous-regions, lieux sous-marins et objectifs d'ile.
-[ ] Adrestia, equipage legendaire, conquete, arena et mercenaires.
-[ ] Culte, quetes secondaires, romance et choix proteges.
-[ ] Lost Tales et 20 quetes des iles demandees.
-[ ] Legacy of the First Blade et Fate of Atlantis, trois episodes chacun.
+Cette fiche reste sans spoiler : elle donne des noms de missions, de zones,
+de lieux et de compteurs, mais ne raconte aucun evenement, aucune identite,
+aucune mort, aucun retournement ni aucune fin. Les choix sont proteges par
+des sauvegardes et des indications de fenetre, sans raconter leurs effets.
+
+REGLE DE LECTURE
+
+- Suis la route des chapitres dans l'ordre.
+- A chaque escale, fais la fiche de region avant de reprendre le marqueur
+  principal. Cela evite de traverser plusieurs fois la mer Egee.
+- Dans chaque lieu, Ikaros doit marquer les coffres, chefs, capitaines,
+  objets, cages et objectifs sous-marins avant de partir.
+- Le symbole de lieu termine n'est fiable que lorsque tous les objectifs
+  affichent une coche. Un simple passage devant un temple ne suffit pas.
+- Le compteur des succes est la verification finale. Une categorie comme
+  "culte" ou "Atlantis" ne remplace pas les cases individuelles ci-dessous.
 
 GARDE-FOUS ABSOLUS
 
-- La Grece se nettoie apres la campagne. Pour une route confortable, fais
-  toutefois les quetes et les objectifs de chaque ile en arrivant.
-- Garde des sauvegardes manuelles avant les quetes de relation et les choix
-  importants. Plusieurs succes de recit ou de romance suivent des chaines.
-- Les DLC de la liste Steam ne sont pas optionnels pour le 100 %. Traite Lost
-  Tales, Legacy of the First Blade et Fate of Atlantis dans leur ordre.
-- Equipe une arme et une armure legendaire, ameliore l'Adrestia, recrute des
-  lieutenants et conserve les materiaux au lieu de tout vendre.
-- Aucun nom de personnage, mort, identite, boss, fin ou retournement n'est
-  revele. Les regions, episodes et objectifs servent uniquement a l'ordre.
+- Le jeu permet le nettoyage apres la campagne. Fais toutefois les quetes
+  d'une ile quand elles apparaissent : plusieurs chaines secondaires doivent
+  etre declenchees par un personnage ou un lieu, pas seulement par une icone.
+- Fais une sauvegarde manuelle avant tout choix de relation, de famille, de
+  chef de region, de bataille de conquete ou de quete Lost Tale. Ne remplace
+  pas cette sauvegarde avant la notification Steam.
+- Pour garder la route sans spoiler, ne lis pas les indices d'identite du
+  culte avant d'avoir ouvert la branche dans le menu. Les noms de la fiche
+  servent uniquement a retrouver une case deja revelee.
+- Les succes de l'extension sont obligatoires pour les 93/93 : Lost Tales,
+  Legacy of the First Blade et Fate of Atlantis sont inclus, dans cet ordre
+  general apres la fin de la campagne.
+- Conserve les materiaux de navire, les lieutenants rares, les objets
+  legendaires et les points de capacite. Ne demonte pas un equipement unique
+  avant d'avoir valide le set ou la gravure qui l'utilise.
+- Pour les choix familiaux ou les romances, une sauvegarde se fait avant la
+  scene et une seconde apres la notification. C'est la seule protection
+  vraiment utile contre une mauvaise sauvegarde automatique.
+- Le niveau 50, le rang de mercenaire 1 et les competences de DLC se font
+  naturellement si tu alternes quetes, exploration et combats. Evite le
+  farming avant d'avoir termine les regions de ton niveau.
 
-MISSABLES ET FENETRES
+MISSABLES, FENETRES ET CONDITIONS A SURVEILLER
 
-- Il n'y a pas de verrou general de carte, mais les quetes de relation et
-  certaines chaines de Lost Tales peuvent echouer si tu refuses une scene.
-  Utilise une sauvegarde avant chaque choix de relation.
-- Aphrodite's Embrace demande de passer la nuit avec un personnage. Fais une
-  romance secondaire lorsque l'occasion apparait, puis verifie la notification.
-- Les succes des DLC suivent les decisions et les objectifs de leurs episodes.
-  Ne quitte pas une ile de DLC avant d'avoir termine ses quetes et collectes.
-- Les objectifs de combat, de navire et d'Overpower sont plus simples en les
-  validant au fil de la campagne. Garde toujours une arme de chaque type.
-- Les zones peuvent etre nettoyees apres la fin, y compris les sous-regions.
-  Hermes's Homie et Child of Poseidon sont des verifications de carte finales.
+- Aphrodite's Embrace : accepte une romance secondaire quand elle apparait.
+  Une seule nuit avec un personnage suffit; sauvegarde avant le dialogue.
+- War Master : affaiblis une region autre que Megaris, puis tue son dirigeant
+  quand les ressources sont basses. La victoire de conquete n'est pas la
+  condition de ce succes.
+- Hero for Hire : gagne une bataille de conquete terrestre dans une region
+  autre que Megaris dans Hero's Journey.
+- You Work for Me Now et The Argonauts : assomme les PNJ legendaires au lieu
+  de les tuer, puis affecte-les dans les emplacements de l'Adrestia.
+- I Have the Power : execute Overpower avec lame, dague, lance, baton,
+  marteau lourd et arc. Change l'arme avant chaque test pour faire monter le
+  compteur du journal.
+- Island Hopper : les 20 quetes doivent etre faites sur Pephka, Obsidian et
+  Abantis; les contrats repetables du tableau ne remplacent pas ces quetes.
+- Child of Poseidon : chaque lieu sous-marin doit avoir tous ses objectifs,
+  pas seulement le coffre principal.
+- Les trois episodes de Legacy et les trois episodes d'Atlantis se jouent
+  dans l'ordre. Ne quitte pas une carte de DLC avec une quete active ou un
+  compteur de collectible incomplet.
 
-ORDRE DE PARTIE RECOMMANDE
+ORDRE GLOBAL RECOMMANDE
 
-1. Kephallonia et premiers systemes.
-2. Megaris, Phokis et la route de campagne.
-3. Attika, Boeotia, Korinthia, Argolis et Lakonia.
-4. Iles, Makedonia, Achaia, Messenia et nettoyage de Grece.
-5. Lost Tales et quetes d'iles.
-6. Legacy of the First Blade, episodes 1 a 3.
-7. The Fate of Atlantis, episodes 1 a 3.
+1. Kephallonia, puis Megaris et Phokis.
+2. Attika, Boeotia, Korinthia et Argolis.
+3. Naxos, Lakonia, les iles voisines et le debut de la route familiale.
+4. Elis, Arcadia, Messenia, Achaia, Makedonia et fin de campagne.
+5. Nettoyage de la famille, du culte, des creatures, des mercenaires et de
+   la Grece; finir Hermes's Homie et Child of Poseidon.
+6. Lost Tales of Greece et le crossover The Heir of Memories.
+7. Legacy of the First Blade, episodes 1, 2, 3.
+8. The Fate of Atlantis, prologue puis episodes 1, 2, 3.
 
-KEPHALLONIA - DEPART ET EQUIPEMENT
+PHASE 0 - PROLOGUE ET KEPHALLONIA
 
-- Termine le prologue, active les points de voyage et accepte les quetes
-  secondaires. Explore les grottes et points d'eau avant de partir.
-- Equipe ton premier objet legendaire des qu'il est disponible, grave un
-  objet et ameliore l'Adrestia au premier port.
-- Recrute un PNJ legendaire et assigne-le au navire. Pour les quatre
-  lieutenants legendaires, utilise les PNJ rares rencontres sur la carte.
-- Fais une romance secondaire si la scene se presente, mais cree une
-  sauvegarde avant le choix de dialogue.
+MISSIONS PRINCIPALES
 
-MEGARIS ET PHOKIS
+1. Prologue.
+2. So It Begins.
+3. Debt Collector.
+4. An Eye for an Eye.
+5. Fancy Guests.
+6. Penelope's Shroud.
+7. The Big Break.
 
-- Apprends la guerre de region : affaiblis le pouvoir, termine les lieux,
-  puis gagne une bataille de conquete. Megaris ne compte pas pour War Master,
-  choisis donc une autre region faible pour ce succes.
-- Commence le tableau de quetes et vise 20 contrats, primes ou missions
-  navales. Les objectifs repetables comptent dans le total.
-- A Phokis, lis les indices du culte et marque chaque cible. Ne tue pas une
-  cible avant d'avoir confirme l'indice correspondant dans le menu.
-- Explore les points d'eau, temples et ruines. Les lieux sous-marins seront
-  fermes plus vite si tu utilises Ikaros sur chaque ile.
-- Deverrouille les trois branches de capacites. Vise un pouvoir actif de
-  rang 3 et teste un Overpower avec chaque type d'arme.
+CHECKPOINT KEPHALLONIA
 
-ATTIKA, BOEOTIA, KORINTHIA ET ARGOLIS
+- [ ] Synchroniser les points de vue et visiter Sami, Kausos et les routes
+      entre le village et les iles voisines.
+- [ ] Terminer les quetes secondaires disponibles, en particulier les quetes
+      des habitants, les grottes, le camp de bandits et les lieux de la cote.
+- [ ] Fouiller les coffres, les epaves, les grottes, les tombes et les points
+      sous-marins avec Ikaros avant de quitter l'ile.
+- [ ] Faire une premiere gravure, equiper un objet legendaire si disponible
+      et commencer l'amelioration de l'Adrestia des que le navire est obtenu.
+- [ ] Recuperer l'oeil du Cyclope dans la chaine de Kephallonia. L'action qui
+      suit cette chaine est necessaire a Stink Eye; le nom du lieu suffit pour
+      la retrouver sans raconter la scene.
+- [ ] Apprendre la roue des capacites, la parade, l'esquive parfaite, la
+      poussee et l'Overpower. Ne depense pas tous les points dans une seule
+      branche.
 
-- Pour chaque region : revele la carte, termine les lieux, combats les
-  dirigeants, gagne une conquete et ferme les quetes secondaires.
-- Athenes et ses alentours contiennent les objectifs de recit et plusieurs
-  quetes de Lost Tales. Fais une sauvegarde avant les scenes a choix.
-- Utilise les batailles pour monter la prime, puis atteins une fois le niveau
-  maximum de prime pour Infamous. Une fois la notification obtenue, reprends
-  ton exploration normalement.
-- Recrute des lieutenants legendaires en assommant les PNJ exceptionnels au
-  lieu de les tuer. Remplis tous les emplacements de l'Adrestia.
-- Fais les combats navals jusqu'a couper un navire en deux, puis mets le feu a
-  dix navires dans la suite de la campagne.
+PHASE 1 - MEGARIS ET PHOKIS
 
-LAKONIA ET ILES
+CHAPITRE 2 - ORDRE DES MISSIONS
 
-- Termine les quetes de Lakonia et les iles de la mer Ionienne avant de
-  pousser la campagne. Les sous-regions doivent etre revelees au dezoom.
-- Pour Island Hopper, complete 20 quetes sur Pephka, Obsidian et Abantis.
-  Utilise les marqueurs de quete et ne compte pas les contrats repetables.
-- Sur chaque ile, traite les lieux sous-marins : coffre, objet et objectif
-  doivent etre coches pour Child of Poseidon.
-- A l'Arena, deviens champion puis bats un mercenaire. Le classement des
-  mercenaires se nettoie en chassant les cibles de haut rang.
-- Fabrique un set legendaire complet et equipe une arme legendaire avec cinq
-  pieces d'armure legendaires.
+1. Learning the Ropes.
+2. Equal Employment Opportunity Program.
+3. A Journey into War.
+4. The Athenian Treasure Trove.
+5. Crumble and Burn.
+6. One Man Army.
+7. The Athenian Leader.
+8. The Final Push.
+9. The Wolf of Sparta.
 
-CULTE, MERCENAIRES ET GRECE COMPLETE
+CHECKPOINT MEGARIS
 
-- Termine chaque branche du culte quand son indice et sa zone sont explores.
-  Verifie le menu avant de penser a la carte globale.
-- Atteins le premier rang de mercenaire. Les cibles apparaissent en explorant,
-  en augmentant la prime ou en lisant les indices.
-- Termine tous les sous-regions et tous les objectifs underwater. Hermes's
-  Homie se valide seulement quand toutes les zones sont devoilees.
-- Fais les lieux de carte, temples, camps, forteresses, mines, tombeaux et
-  ruines. Les zones grises restantes sont le meilleur indicateur d'oubli.
-- Termine la campagne, puis reviens sur les iles pour fermer les quetes et
-  relire les statistiques sans changer les choix deja sauvegardes.
+- [ ] Vider les forts, camps, carrieres, fermes, grottes, temples et ports.
+- [ ] Reperer Sotera dans le Fort of Megaris si la branche du culte est
+      active, puis traiter la cible quand son icone est revelee.
+- [ ] Terminer les quetes secondaires visibles et les quetes de proximite.
+- [ ] Ne valide pas War Master ici : Megaris est exclue. Attends une autre
+      region, affaiblis ses ressources, puis tue le dirigeant.
+- [ ] Commencer les contrats du tableau, mais reserve le comptage principal
+      aux 20 contrats/bounties/naval quests requis par Misthios in Training.
 
-LOST TALES ET QUETES SECONDAIRES
+CHECKPOINT PHOKIS
 
-- Fais d'abord The Daughters of Lalaia, Divine Intervention, The Image of
-  Faith, The Show Must Go On et One Really, Really Bad Day.
-- Continue avec A Friend Worth Dying For, A Brother's Seduction, Every Story
-  Has an Ending et les autres chaines Lost Tales presentes sur la carte.
-- Pour chaque chaine, accepte la quete, termine toutes les etapes, puis
-  verifie la notification avant de voyager vers une autre ile.
-- Termine les 20 quetes des iles demandees et les objectifs d'anciens
-  (Hunters, Storm et Dominion) dans les zones correspondantes.
+- [ ] Synchroniser le Temple of Apollo et les points de vue de la vallee.
+- [ ] Terminer la chaine principale qui ouvre le menu du culte et relever les
+      indices uniquement apres validation du journal.
+- [ ] Vider le Sanctuary of Apollo, les camps, les temples, les grottes et
+      toutes les eaux marquees.
+- [ ] Lancer la chaine Gates of Atlantis seulement lorsque la route de la
+      campagne indique de rassembler les quatre cles; garde cette branche pour
+      la phase mythologique apres la campagne.
 
-LEGACY OF THE FIRST BLADE
+PHASE 2 - ATTIKA ET ATHENES
 
-- Lance l'episode 1 apres la campagne de base et un nettoyage de Grece.
-  Fais les quetes, lieux, combats navals et objectifs de l'episode.
-- Dans l'episode 2, ferme la branche de l'Ordre, les navires et les
-  capacites specifiees avant de lancer le dernier episode.
-- Dans l'episode 3, termine les quetes, objectifs de zone et notifications.
-  Utilise les nouvelles capacites sur des groupes d'ennemis pour les compteurs.
-- Ne quitte pas une zone de DLC avec un marqueur de quete encore actif. Les
-  succes associes se verifient dans le menu Steam, pas seulement dans l'UBI.
+CHAPITRE 3 - PHOKIS / ARRIVEE EN ATTIKA
 
-THE FATE OF ATLANTIS
+1. Onwards to Phokis.
+2. The Wolf's Fate.
+3. Snake in the Grass.
+4. Consulting a Ghost.
+5. The Truth Will Out.
+6. The Serpent's Lair.
 
-- Joue les episodes dans l'ordre 1, 2, 3. Chaque monde d'au-dela est une
-  carte independante avec quetes, forteresses, mercenaires et collectibles.
-- Episode 1 : recupere tous les Keeper's Insights, gagne la conquete demandee
-  avec les humains liberes et ferme les zones principales.
-- Episode 2 : elimine les Overseers, recupere les Insights, ferme les failles
-  de Tartaros et valide le combat de boss du DLC.
-- Episode 3 : recupere les Insights restants, complete l'Ordre de l'episode,
-  forge les trois armes legendaires et termine la suite narrative.
-- Utilise les capacites du DLC : dix kills Death Veil, dix kills Fury of the
-  Bloodline, dix kills Rapid Fire, rush assassinate a quatre cibles et les
-  soins a la parade/headshot avec les equipements associes.
-- Les armes et equipements de DLC peuvent etre remis dans la Grece principale.
-  Termine les compteurs specifiques avant de fermer la derniere zone.
+CHAPITRE 4 - ATTIKA
 
-CHECKLIST DES 93 SUCCES
+1. Memories Awoken.
+2. Welcome to Athens.
+3. A Venomous Encounter.
+4. Escape from Athens.
+5. Ostracized.
+6. Perikles's Symposium.
+7. Drink Up.
+8. Oil and Love.
 
-[ ] Campagne, famille, choix et relation.
-[ ] Equipement legendaire, set complet et gravure legendaire.
-[ ] Adrestia, navires, lieutenants, conquete et dix navires en feu.
-[ ] Culte, mercenaires, arena et rang maximum.
-[ ] 20 quetes d'iles et quetes Lost Tales.
-[ ] Sous-regions devoilees, lieux sous-marins complets et Grece nettoyee.
-[ ] Overpower avec chaque type d'arme.
-[ ] 3 armes legendaires de Fate of Atlantis.
-[ ] Legacy of the First Blade, episodes 1 a 3.
-[ ] Fate of Atlantis, episodes 1 a 3, Insights et failles.
-[ ] Capacites Death Veil, Fury of the Bloodline et Rapid Fire.
-[ ] Profil Steam : 93/93 succes.
+CHECKPOINT ATTIKA
 
-VERIFICATION FINALE - 93/93
+- [ ] Synchroniser Athens, Mount Parnassos, Silver Mountain, Salamis et les
+      points de vue des iles.
+- [ ] Terminer A Life's Worth, Free Speech et les autres quetes de Socrates
+      qui ouvrent des cibles du culte. Les quetes a proximite de l'Agora sont
+      a verifier meme sans marqueur permanent.
+- [ ] Fouiller Salamis Marble Quarry, Temple of Poseidon, les maisons de
+      dirigeants, les sanctuaires, la grotte de loup et les ports.
+- [ ] Faire une conquete pour Hero for Hire dans une autre region si elle est
+      disponible; la bataille d'Attika peut aussi servir pour une branche de
+      culte precise mais ne lance pas toutes les branches au hasard.
+- [ ] Recruter au moins un lieutenant legendaire en l'assommant, puis lui
+      donner une place dans l'Adrestia.
+- [ ] Prendre toutes les quetes de romantisme et de relation qui apparaissent,
+      avec une sauvegarde avant chaque scene.
 
-[ ] Sauvegarde relue avant chaque choix de relation et chaque DLC.
-[ ] Carte, culte, mercenaires, navire et sous-marins.
-[ ] Campagne, Lost Tales, Legacy et Fate of Atlantis.
-[ ] Profil Steam : 93/93 succes.
+PHASE 3 - KORINTHIA, ARGOLIS ET LES ILES CENTRALES
+
+CHAPITRE 5 - ROUTE DU PELOPONNESE
+
+1. To Find a Girl.
+2. To Help a Girl.
+3. Port of Lawlessness.
+4. Monger Down.
+5. First Do No Harm.
+6. The Doctor Will See You Now.
+7. The Priests of Asklepios.
+8. Enough is Enough.
+9. Written in Stone.
+10. A Heart for a Head.
+11. Speak no Evil.
+12. Ashes to Ashes.
+13. The Island of Misfortune.
+14. Abandoned by Gods.
+15. And the Streets Run Red.
+16. Athens' Last Hope.
+
+CHECKPOINT KORINTHIA
+
+- [ ] Terminer les quetes de la ville, des carrieres, des ports et des temples.
+- [ ] Explorer le Temple of Apollo, les maisons, les camps, les mines et les
+      sous-regions cote a cote avec Argolis.
+- [ ] Affaiblir une region autre que Megaris et tuer son dirigeant pour War
+      Master, puis gagner une bataille de conquete pour Hero for Hire.
+- [ ] Completer les quetes de relations, de medecins et de philosophes avant
+      de voyager vers Naxos.
+
+CHECKPOINT ARGOLIS
+
+- [ ] Terminer Death Comes to Us All et toutes les quetes visibles autour
+      d'Argos, du port, des camps et des sanctuaires.
+- [ ] Traiter Midas et Chrysis quand leurs chaines apparaissent dans le menu
+      du culte. Ne laisse pas une quete de cible dans l'onglet actif.
+- [ ] Vider la region de ses coffres, tombes, carrieres, temples et lieux
+      sous-marins avant le depart.
+
+PHASE 4 - NAXOS, PAROS, ILES ET LAKONIA
+
+CHAPITRE 6 - ROUTE DES ILES
+
+1. A Mother's Prayers.
+2. Death and Disorder.
+3. Quarry Quandary.
+4. The Paros Blockade.
+5. Unified Front.
+
+CHECKPOINT NAXOS / PAROS
+
+- [ ] Terminer Paradise Lost, Home Is Where My Mother Is et toutes les
+      quetes des villages, ports et montagnes.
+- [ ] Synchroniser Naxos, Paros, Delos, Mykonos et les petites iles voisines.
+- [ ] Faire Trouble in Paradise et sa suite Hades, Meet Podarkes pour la
+      cible de Delian League. Cette chaine est requise avant la validation.
+- [ ] Fouiller les carrieres, mines, temples, forts, epaves et sanctuaires.
+- [ ] Coche Island Hopper au fur et a mesure : Pephka, Obsidian et Abantis
+      sont les trois zones de comptage, pas toutes les iles de la carte.
+
+CHECKPOINT LAKONIA / MESSENIA
+
+- [ ] Terminer les quetes de Sparte, des montagnes, des camps et des ports.
+- [ ] Repere les quetes de famille, de culte, de mercenaires et de chasse dans
+      Lakonia avant de lancer la suite principale.
+- [ ] A Messenia, verifier les forts, le port, les sanctuaires et la chaine
+      d'objectifs de l'Ordre de Dominion pour le DLC Legacy plus tard.
+
+PHASE 5 - ARCADIA, ELIS, ACHAIA ET MAKEDONIA
+
+CHAPITRE 7 - ROUTE DE GUERRE ET OLYMPIQUE
+
+1. Home Sweet Home.
+2. Bully the Bullies.
+3. One Bad Spartan Spoils the Bunch.
+4. Delivering a Champion.
+5. The Contender.
+6. The Long Game.
+7. Pankration.
+8. To Kill or Not to Kill.
+9. White Lies and Blackmail.
+10. Gluten Free.
+11. Judge, Jury, Executioner.
+12. The Conqueror Part 1.
+13. The Last Hunt of Nesaia.
+14. The End of Drakon.
+15. The Fall of Deianira.
+16. The Last Fight of Aristaios.
+17. The Conqueror Part 2.
+18. A Bloody Feast.
+19. The Battle of Pylos.
+
+CHECKPOINT ARCADIA / ELIS
+
+- [ ] Explorer le Sanctuaire of Zeus, les forts, les tombes, les carrieres,
+      les ruines, les ports et toutes les sous-regions.
+- [ ] Terminer les sept animaux legendaires de la fiche plus bas quand leur
+      niveau est atteint, en sauvegardant avant chaque chasse.
+- [ ] Completer la chaine de l'arene de Pephka quand elle est disponible et
+      vaincre un mercenaire dans l'arene pour Blood Sport.
+
+CHECKPOINT ACHAIA
+
+- [ ] Faire les quetes, les camps, le port, le fort d'Olouros et les epaves.
+- [ ] Pour Pallas the Silencer, combattre du cote bleu lors de la conquete
+      d'Achaia. C'est une condition de branche du culte; sauvegarde avant la
+      bataille.
+- [ ] Machaon the Feared se trouve dans Mount Panachaikos et Polemon the Wise
+      dans Teichos of Herakles; verifie les deux cases du menu du culte.
+
+CHECKPOINT MAKEDONIA
+
+- [ ] Vider les camps, villages, ports, forts et tombeaux de Makedonia.
+- [ ] Traiter l'Ordre of the Hunters de Legacy uniquement dans la phase DLC,
+      mais tu peux synchroniser les points de vue maintenant.
+- [ ] Reperer les lieutenants rares et les objets legendaires sans demanteler
+      une piece d'equipement necessaire a un set complet.
+
+CHAPITRE 8
+
+1. Doing Time.
+2. An Actor's Life For Me.
+3. A-Musing Tale.
+4. Battle of Amphipolis.
+
+CHAPITRE 9
+
+1. Where it All Began.
+2. Dinner in Sparta.
+
+FIN DE LA CAMPAGNE
+
+- [ ] Finir le chapitre 8 puis le chapitre 9 sans remplacer la sauvegarde
+      creee avant les choix familiaux.
+- [ ] Laisser le journal faire apparaitre l'epilogue et attendre les
+      notifications avant de voyager.
+- [ ] Ne pas lancer le dernier nettoyage de culte avant d'avoir verifie que
+      toutes les branches disponibles sont affichees dans le menu.
+
+NETTOYAGE DE LA GRECE - PROCEDURE PAR REGION
+
+La carte d'Odyssey est vaste et ses sous-regions ne se terminent pas toutes
+avec une mission principale. Utilise cette procedure sur chaque nom ci-dessous.
+
+1. Synchronise tous les points de voyage et de vue.
+2. Dezoome jusqu'a voir le nom de la sous-region, puis repere le pourcentage
+   de lieux. Hermes's Homie demande que toutes les sous-regions soient devoilees.
+3. Avec Ikaros, marque chaque camp, fort, maison de dirigeant, temple, tombe,
+   mine, grotte, ruine, port, epave, coffre et point sous-marin.
+4. Termine chaque lieu avec tous ses objectifs, pas uniquement le coffre.
+5. Lance les quetes blanches et les quetes a proximite. Les panneaux, les
+   grottes et certains donneurs de quete ne sont pas visibles a distance.
+6. Finis par les objectifs de mer et de plongee : le marqueur sous-marin doit
+   etre integralement coche pour Child of Poseidon.
+
+REGIONS A RELIRE
+
+- [ ] Kephallonia Islands.
+- [ ] Megaris.
+- [ ] Phokis.
+- [ ] Lokris.
+- [ ] Malis.
+- [ ] Abantis Islands : Euboea et Skyros.
+- [ ] Andros.
+- [ ] Attika : Athens, Silver Mountain, Salamis et Sounion.
+- [ ] Boeotia.
+- [ ] Korinthia.
+- [ ] Argolis.
+- [ ] Naxos.
+- [ ] Paros et Delos.
+- [ ] Seriphos et Lestris.
+- [ ] Keos.
+- [ ] Hydrea.
+- [ ] Obsidian Islands : Melos et environs.
+- [ ] Kythera.
+- [ ] Messara et Pephka.
+- [ ] Volcanic Islands : Thera et Nisyros.
+- [ ] Southern Sporades : Samos, Kos et Chios.
+- [ ] Silver Islands : Mykonos et Delos.
+- [ ] Hephaistos Islands.
+- [ ] Messenia.
+- [ ] Lakonia.
+- [ ] Arcadia.
+- [ ] Elis.
+- [ ] Achaia.
+- [ ] Makedonia.
+
+OBJECTIFS DE LIEU : COFFRES ET SOUS-MARINS
+
+- Les coffres des forts sont souvent dans la maison du dirigeant, le
+  tresor national, l'arsenal ou une tour exterieure. Ikaros les marque meme
+  quand ils sont derriere une porte.
+- Une ruine ou une tombe peut avoir une entree sous l'eau. Fais le tour du
+  rivage avant de conclure que le lieu est vide.
+- Pour chaque lieu sous-marin : marque le coffre jaune, les gardes, les
+  objets et le point de sortie; puis reviens a la surface et attends la coche.
+- Les epaves de la carte ne sont pas toutes des lieux sous-marins : inspecte
+  aussi les navires au large, les grottes et les petits ilots.
+- Lorsque la carte semble vide, passe les filtres d'icones un par un. Une
+  quete ou un lieu non decouvert peut etre masque par une sous-region grisee.
+
+CULTE DE KOSMOS - LES 42 CIBLES
+
+Le menu du culte se debloque pendant la campagne. Une branche se complete en
+ouvrant ses indices, en terminant ses quetes prerequises et en validant la
+cible. Les noms sont fournis pour cocher le menu sans decrire l'histoire.
+Les sages/chefs de branche se revelent apres les autres membres de la branche.
+
+EYES OF KOSMOS
+
+- [ ] Elpenor.
+- [ ] Sotera.
+- [ ] The Master : chaine A Life's Worth/Socrates en Attika.
+- [ ] Hermippos : chaine Free Speech en Attika.
+- [ ] Midas : Argolis.
+- [ ] Nyx the Shadow : sud-est d'Athens.
+
+THE SILVER VEIN
+
+- [ ] Epiktetos the Forthcoming.
+- [ ] The Chimera : Andros, Beach Encampment.
+- [ ] The Centaur of Euboea : Euboea.
+- [ ] The Silver Griffin : Prasonisia Island, au sud-ouest de Mykonos.
+- [ ] Machaon the Feared : port de Mount Panachaikos, Achaia.
+- [ ] Polemon the Wise : Teichos of Herakles, Achaia.
+
+DELIAN LEAGUE
+
+- [ ] Brison : Salamis Marble Quarry.
+- [ ] Podarkes the Cruel : chaine Trouble in Paradise / Hades, Meet Podarkes.
+- [ ] Rhexenor the Hand : chapitre 8, A-Musing Tale.
+- [ ] Iobates the Stoic : Desecrated Sanctuary, Lemnos.
+- [ ] Kodros the Bull : chaine Chip on Your Shoulder, Chios.
+- [ ] Kleon the Everyman : chapitre 8.
+
+HEROES OF THE CULT
+
+- [ ] Pallas the Silencer : conquete d'Achaia du cote bleu.
+- [ ] Deianeira : quete The Fall of Deianira.
+- [ ] Belos the Beast of Sparta : deuxieme champion de l'arene de Pephka.
+- [ ] Swordfish : chaine Myths and Minotaurs, Messara.
+- [ ] Okytos the Great : Temple of Poseidon, sud d'Attika.
+- [ ] Exekias the Legend : Olouros Fortress, Achaia, apres sa branche.
+
+WORSHIPPERS OF THE BLOODLINE
+
+- [ ] Melite : Kresilas's Residence, Messara.
+- [ ] Harpalos : Keos.
+- [ ] Zoisme : Wild Bear Cave, Malis.
+- [ ] Diona : chaine I, Diona, Kythera.
+- [ ] Chrysis : chaine Death Comes to Us All, Argolis.
+- [ ] Iokaste the Seer : Anvatos Ruin, Chios.
+
+GODS OF THE AEGEAN SEA
+
+- [ ] The Mytilenian Shark : navire entre Samos et Kos.
+- [ ] Melanthos : navire a l'ouest de Messara.
+- [ ] The Octopus : navire entre Messara et Thera.
+- [ ] Sokos : conquete navale de Melos, Obsidian Islands.
+- [ ] Asterion : navire entre Skyros et Andros.
+- [ ] The Hydra : grand navire a voiles rouges dans le sud-ouest.
+
+PELOPONNESIAN LEAGUE
+
+- [ ] Skylax the Fair : dirigeant d'Euboea/Lokris, repere par l'indice.
+- [ ] Monger : chapitre 5.
+- [ ] Lagos the Archon : chapitre 7, To Kill or Not to Kill.
+- [ ] Kallias : chaine olympique, The Long Game.
+- [ ] Silanos of Paros : chapitre 7.
+- [ ] Pausanias : chapitre 7, A Bloody Feast.
+- [ ] Deimos : chapitre 9.
+
+APRES 41 CIBLES
+
+- [ ] Ouvrir la cible centrale dans le menu du culte.
+- [ ] Terminer la derniere quete de la branche et valider The Cult Unmasked.
+- [ ] Recuperer les pieces legendaires des branches et verifier les sets dans
+      l'inventaire avant de les vendre ou de les demonter.
+
+MERCENAIRES, PRIME ET ARENE
+
+- [ ] Monter la prime jusqu'au niveau maximum pour Infamous, puis laisser la
+      prime redescendre afin de poursuivre la carte sans patrouilles inutiles.
+- [ ] Vaincre les mercenaires rencontres jusqu'au rang 1. Les indices sont
+      visibles dans le menu et les cibles peuvent etre suivies par Ikaros.
+- [ ] Pour Top of the Food Chain, eliminer les mercenaires de rang superieur
+      jusqu'a devenir le premier rang du classement, puis attendre la case.
+- [ ] Dans l'arene de Pephka, devenir champion pour Are You Not Entertained?
+      puis vaincre un mercenaire pour Blood Sport.
+- [ ] Revenir a l'arene avec un niveau et un equipement adaptes : les combats
+      de niveau trop haut ne valident pas mieux le succes.
+
+ADRESTIA, EQUIPAGE ET COMBAT NAVAL
+
+- [ ] Ameliorer l'Adrestia une premiere fois pour Harder, Better, Faster,
+      Stronger.
+- [ ] Monter la coque, les rames, les fleches, les javelots, les braseros et
+      l'adrenaline jusqu'au statut legendaire pour Lord of the Seas.
+- [ ] Recruter un lieutenant legendaire assomme pour You Work for Me Now.
+- [ ] Remplir tous les postes avec des lieutenants legendaires pour The
+      Argonauts; les soldats rares et certains PNJ de quetes conviennent.
+- [ ] Couper un navire en deux en le percutant dans l'axe avec une coque
+      affaiblie pour Ramming Speed.
+- [ ] Couler un premier navire epic pour Scourge of the Aegean.
+- [ ] Incendier dix navires pour Fire on Water; les fleches et les javelots
+      incendiaires sont plus fiables que le simple brasero.
+- [ ] Completer au moins 20 quetes issues des tableaux : bounty, contrat de
+      guerre ou quete navale. Coche Misthios in Training apres notification.
+
+EQUIPEMENT, GRAVURES ET CAPACITES
+
+- [ ] Equiper un premier objet legendaire pour Shiny!.
+- [ ] Equiper une arme legendaire et cinq pieces d'armure legendaires pour I
+      am Legend.
+- [ ] Equiper un set legendaire complet pour Fashion's Creed.
+- [ ] Graver le premier objet pour Make It Your Own.
+- [ ] Graver un objet legendaire avec un effet legendaire pour The Midas Touch.
+- [ ] Acheter une capacite active de rang 3 pour Godly Power.
+- [ ] Executer Overpower avec chaque type d'arme : lame, dague, lance, baton,
+      marteau lourd et arc. Fais une sauvegarde, change d'arme, puis verifie
+      les notifications une a une.
+- [ ] Ameliorer la Lance de Leonidas jusqu'au palier 6 pour Legacy Restored.
+- [ ] Atteindre le niveau 50 pour Demigod. Les quetes, lieux et animaux
+      legendaires sont preferables au farming repetitif.
+
+ANIMAUX LEGENDaires ET CREATURES MYTHIQUES
+
+ANIMAUX LEGENDaires - MASTER OF THE HUNT
+
+- [ ] Kalydonian Boar - Phokis.
+- [ ] Hind of Keryneia - Eubea.
+- [ ] Nemean Lion - Argolis.
+- [ ] Erymanthian Boar - Elis.
+- [ ] Kallisto the Bear - Arcadia.
+- [ ] Kretan Bull - Messara.
+- [ ] Krokottas Hyena - Kythera.
+- [ ] Lykaon Wolf - Lakonia.
+- [ ] Terminer la chaine de Daughters of Artemis et attendre la notification
+      Master of the Hunt. Les chasses peuvent etre faites dans n'importe quel
+      ordre apres l'ouverture de la quete.
+
+CREATURES MYTHIQUES
+
+- [ ] Sphinx : suivre la chaine des enigmes et repondre aux questions de la
+      statue sans quitter l'arene avant la validation.
+- [ ] Cyclops : ouvrir la chaine de l'ile et finir le combat pour le succes
+      associe a la victoire.
+- [ ] Minotaur : terminer la chaine de Messara, Myths and Minotaurs, puis
+      gagner le combat du labyrinthe pour A-maze-ing Victory!.
+- [ ] Medusa : Lesbos, Romancing the Stone Garden -> Love's Long Shadow -> A
+      Slithery Plea -> Hard to Artemis et Heavy is the Spear -> Keys to
+      Happiness? -> Writhing Dead -> combat, pour In Perseus's Image.
+- [ ] Recuperer les quatre artefacts et verifier Birthright/les portes
+      d'Atlantis avant de lancer Fate of Atlantis.
+
+LOST TALES OF GREECE
+
+Ces histoires gratuites sont dans le journal des quetes du monde. Fais chaque
+chaine jusqu'a la derniere case, pas seulement la premiere mission. Les noms
+ci-dessous correspondent aux succes et aux chaines qui les ouvrent.
+
+- [ ] The Daughters of Lalaia : terminer toute la chaine dans Lalaia.
+- [ ] Divine Intervention : terminer toute la chaine de l'intervention et
+      valider les etapes du sanctuaire.
+- [ ] The Image of Faith : terminer la chaine de la statue/foi dans la region
+      indiquee par le marqueur.
+- [ ] The Show Must Go On : terminer la chaine theatrale jusqu'a sa conclusion.
+- [ ] One Really, Really Bad Day : terminer la chaine et toutes ses etapes.
+- [ ] A Friend Worth Dying For : terminer la chaine de l'ami, sans abandonner
+      une quete active avant sa conclusion.
+- [ ] A Brother's Seduction : terminer la chaine et les objectifs de relation.
+- [ ] Every Story Has an Ending : terminer la chaine de cloture des histoires.
+- [ ] A Poet's Legacy : terminer la chaine du poete et recuperer la case.
+- [ ] Old Flames Burn Brighter : terminer cette chaine apres son apparition
+      dans le journal, en utilisant la sauvegarde de choix preparee.
+- [ ] Parcourir aussi les quetes gratuites sans succes : The Heir of Memories,
+      Socrates' Trial et les chaines de Korfu/Heraklion quand elles sont
+      presentes dans la version Steam.
+
+LEGACY OF THE FIRST BLADE - EPISODE 1
+
+Joue le DLC apres la campagne de base et les Lost Tales principaux. Sur la
+carte de Makedonia, synchronise chaque point de vue puis suis l'ordre du
+journal :
+
+1. The Horsemen Cometh.
+2. Shadow of Legend.
+3. More Questions than Answers.
+4. Hunting the Huntsman.
+5. Protector of Persia.
+
+- [ ] Terminer toutes les quetes blanches de Makedonia, les forts, les camps,
+      les ports et les lieux sous-marins.
+- [ ] Eliminer tous les Ancients de l'Order of the Hunters pour Predator and
+      Prey.
+- [ ] Utiliser Death Veil sur dix ennemis pour Without a trace.
+- [ ] Vaincre le Makedonian Lion pour Lone Lion.
+- [ ] Terminer l'episode et valider The Start of a Legacy.
+
+LEGACY OF THE FIRST BLADE - EPISODE 2
+
+1. Stranger Tides.
+2. Into the Storm.
+3. Chasing the Storm.
+4. Calm Before the Storm.
+5. Leviathan's Maw.
+6. Home.
+
+- [ ] Explorer Achaia et les iles navales, terminer les quetes et tous les
+      objectifs de port avant le retour en Grece.
+- [ ] Eliminer tous les Ancients de l'Order of the Storm en Achaia pour
+      Stormculler.
+- [ ] Utiliser Rapid Fire sur dix ennemis pour Rain of Arrows.
+- [ ] Incendier dix navires ennemis pour Fire on Water; les navires de la
+      zone DLC comptent et peuvent etre repris apres une sauvegarde.
+- [ ] Guerir dix fois en parant avec Judgment of the Lion pour Parry to Carry.
+- [ ] Terminer la derniere mission de l'episode et verifier Blood of Leonidas.
+
+LEGACY OF THE FIRST BLADE - EPISODE 3
+
+1. The Simple Life.
+2. A Flight in Fire.
+3. Answers from Ashes.
+4. Two Knives Against the Dark.
+5. The Last Magi.
+6. Smoke and Fury.
+7. Legacy of the First Blade.
+
+- [ ] Terminer toutes les quetes et les lieux de Messenia.
+- [ ] Eliminer tous les Ancients de l'Order of Dominion en Messenia pour For
+      Love of Persia.
+- [ ] Utiliser Fury of the Bloodline sur dix ennemis pour Seeing Red.
+- [ ] Equiper Golden Harbinger et faire dix eliminations par tir a la tete
+      avec le soin associe pour Surgical Sniper.
+- [ ] Acquerir la Sword of Kings pour Kingmaker.
+- [ ] Terminer l'episode et valider Bittersweet Beginnings.
+
+THE FATE OF ATLANTIS - PRELUDE
+
+Avant le DLC, termine la chaine qui ouvre Atlantis :
+
+1. The Heir of Memories.
+2. Finding Theras.
+3. Three Symbols Entombed.
+
+- [ ] Recuperer les quatre artefacts des creatures mythiques et atteindre la
+      porte d'Atlantis.
+- [ ] Faire une sauvegarde manuelle avant de lancer le premier episode.
+
+EPISODE 1 - FIELDS OF ELYSIUM
+
+1. The Isu Beckon.
+2. Welcome to Elysium.
+3. A Lover and A Fighter.
+4. Meet Your Makers.
+5. Dominance is Bliss.
+6. Free Their Minds, the Rest Will Follow.
+7. Releasing Elysium.
+
+- [ ] Vider Deukalion's Heritage, Pheraia's Retreat, Minos's Faith et
+      Asphodel Fields : camps, forts, coffres, quetes et passages.
+- [ ] Detruire toutes les Marble Maiden Tributes pour Blasphemer.
+- [ ] Eliminer tous les Overseers d'Elysium pour No More Rulers.
+- [ ] Recuperer tous les Keeper's Insights de l'episode pour Gathering
+      Strength. Les Insights sont dans les lieux d'architecture ancienne et
+      se valident dans la carte du DLC.
+- [ ] Liberer les humains des trois grandes regions, puis gagner la conquete
+      d'Elysium avec eux pour The Conqueror.
+- [ ] Terminer la ligne principale et valider In the Face of the Gods.
+
+EPISODE 2 - TORMENT OF HADES
+
+1. The Second Calling.
+2. Guardian of the Gates.
+3. Welcome to the Underworld.
+4. Lost and Found.
+
+- [ ] Explorer Chasm of Torment, Mourning Fields et The Scorched Lands.
+- [ ] Fermer toutes les failles de Tartaros pour Guardian of the Underworld.
+- [ ] Completer les quetes, les coffres, les points de vue et les Insights.
+- [ ] Vaincre Cerberos pour Bad Dog! et valider l'etape du journal avant de
+      quitter l'episode.
+- [ ] Recuperer tous les Keeper's Insights de l'episode pour Gathering More
+      Strength.
+- [ ] Continuer la Knowledge Sequence avec les capacites de l'episode, sans
+      depenser les points avant la case associee.
+
+EPISODE 3 - JUDGEMENT OF ATLANTIS
+
+1. The Last Call and Welcome Home.
+2. The Dikastes of Atlantis.
+3. Wisdom of the Ancients.
+4. Fire Amid the Water.
+5. Rightfully Yours.
+6. In Dreams.
+7. Lighten Up.
+8. The Birds and the Bees.
+9. The Fate of Atlantis.
+
+- [ ] Explorer Royal Mountain of Poseidon, Oikos of Atlantis et Porimos Ring.
+- [ ] Recuperer tous les Keeper's Insights pour Gathering Full Strength.
+- [ ] Remplir toute la Knowledge Sequence pour Isu Bloodline.
+- [ ] Vaincre tous les Fallen pour The One.
+- [ ] Forger les trois armes legendaires avec les ressources du DLC pour
+      Hephaistos's Apprentice.
+- [ ] Utiliser Rapid Fire, Death Veil, Fury of the Bloodline et le Rush
+      Assassinate dans les conditions demandees par les cases.
+- [ ] Terminer la derniere mission, attendre les notifications et valider les
+      statistiques de chaque zone d'Atlantis.
+
+CHECKLIST FINALE DES 93 SUCCES STEAM
+
+CHECKLIST STEAM FINALE - 93/93
+
+- [ ] This is Sparta!.
+- [ ] Shiny!.
+- [ ] I am Legend.
+- [ ] Fashion's Creed.
+- [ ] An Odyssey in the Making.
+- [ ] Past Mistakes.
+- [ ] Harder, Better, Faster, Stronger.
+- [ ] Ramming Speed.
+- [ ] You Work for Me Now.
+- [ ] Make It Your Own.
+- [ ] Evil Unearthed.
+- [ ] Aphrodite's Embrace.
+- [ ] Scourge of the Aegean.
+- [ ] Hero for Hire.
+- [ ] The Bright Minds.
+- [ ] War Master.
+- [ ] From the Ashes.
+- [ ] The Midas Touch.
+- [ ] Democracy Falls.
+- [ ] Infamous.
+- [ ] One Head Down….
+- [ ] Godly Power.
+- [ ] Birthright.
+- [ ] Going For Gold.
+- [ ] The Argonauts.
+- [ ] Legend in the Making.
+- [ ] Blood Sport.
+- [ ] Taking Back Athens.
+- [ ] Riddle Me This.
+- [ ] Odyssey's End.
+- [ ] Demigod.
+- [ ] A-maze-ing Victory!.
+- [ ] Wrath of the Amazons.
+- [ ] Eye on the Prize.
+- [ ] Lightning Rod.
+- [ ] Are You Not Entertained?.
+- [ ] Top of the Food Chain.
+- [ ] In Perseus's Image.
+- [ ] Legacy Restored.
+- [ ] The Cult Unmasked.
+- [ ] Without a trace.
+- [ ] Master of the Hunt.
+- [ ] Volcanic Sunscreen.
+- [ ] Lord of the Seas.
+- [ ] The Heir of Memories.
+- [ ] Misthios in Training.
+- [ ] The Daughters of Lalaia.
+- [ ] I Have the Power.
+- [ ] Divine Intervention.
+- [ ] A Friend Worth Dying For.
+- [ ] A Brother's Seduction.
+- [ ] The Start of a Legacy.
+- [ ] Seeing Red.
+- [ ] Every Story Has an Ending.
+- [ ] Island Hopper.
+- [ ] Everybody Benefits.
+- [ ] Predator and Prey.
+- [ ] Blood of Leonidas.
+- [ ] The Image of Faith.
+- [ ] One Really, Really Bad Day.
+- [ ] The Show Must Go On.
+- [ ] Gathering Strength.
+- [ ] Fire on Water.
+- [ ] No More Rulers.
+- [ ] In the Face of the Gods.
+- [ ] Bittersweet Beginnings.
+- [ ] A Poet's Legacy.
+- [ ] Stormculler.
+- [ ] Stink Eye.
+- [ ] Bad Dog!.
+- [ ] Trust Me, I'm a Doctor.
+- [ ] For Love of Persia.
+- [ ] Kingmaker.
+- [ ] Gathering More Strength.
+- [ ] A True Ruler.
+- [ ] Old Flames Burn Brighter.
+- [ ] Gathering Full Strength.
+- [ ] Isu Bloodline.
+- [ ] The One.
+- [ ] The Conqueror.
+- [ ] 1 Versus 100.
+- [ ] Hephaistos's Apprentice.
+- [ ] A Pirate's Life for Me.
+- [ ] Blasphemer.
+- [ ] Breaking the Limit.
+- [ ] Guardian of the Underworld.
+- [ ] Lone Lion.
+- [ ] Rain of Arrows.
+- [ ] Hermes's Homie.
+- [ ] Child of Poseidon.
+- [ ] Parry to Carry.
+- [ ] Surgical Sniper.
+- [ ] Your Own Medicine.
+
+VERIFICATION FINALE
+
+- [ ] Journal : 9 chapitres, epilogue, quetes secondaires et Lost Tales relus.
+- [ ] Grece : toutes les sous-regions devoilees, tous les lieux coches et
+      tous les objectifs sous-marins valides.
+- [ ] 42 cultistes, mercenaires, arene, conquetes, navires, lieutenants,
+      equipements, gravures, animaux et creatures mythiques.
+- [ ] Adrestia au rang legendaire et tableau : 20 contrats/quetes valides.
+- [ ] Legacy of the First Blade : trois episodes, trois ordres et objectifs.
+- [ ] Fate of Atlantis : prelude, trois episodes, Insights, failles, Fallen,
+      tributs, armes et Knowledge Sequence.
+- [ ] Profil Steam : 93/93 succes.
 
 REGLE ANTI-SPOILER
 
-Les regions, episodes, activites et compteurs servent uniquement a ordonner
-la progression. Aucun evenement narratif, boss, identite, mort, fin ou
-consequence n'est decrit.
+Les noms de missions, les regions, les lieux et les compteurs servent
+uniquement a ordonner la progression. Aucun evenement narratif, boss,
+identite, mort, choix revele, retournement, consequence ou fin n'est decrit.
