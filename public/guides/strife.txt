@@ -1,200 +1,915 @@
 STRIFE: VETERAN EDITION
 GUIDE CHRONOLOGIQUE 100 % STEAM - SANS SPOILER
 
-Version de travail : 11 aout 2026
+FICHE PREMIUM
 
-Ce guide couvre l'AppID Steam 317040 et ses 20 succes. Il separe la route
-principale, les trois conclusions, les secret areas, les talismans, la demo
-Trust No One, Bloodbath et le mode Capture the Chalice. Les noms de zones et
-de missions sont des reperes de navigation ; aucun evenement narratif n'est
-explique.
+AppID : 317040 (Steam)
+Succes Steam : 20
+Parcours : campagne complete, route des missions, secrets, stats, talismans,
+demo Trust No One, trois fins, Bloodbath et Capture the Chalice.
 
-OBJECTIF
+Ce guide donne les actions et les reperes necessaires sans raconter l'histoire.
+Les noms de personnages, de zones et de missions servent uniquement a se
+reperer. Les explications de fin sont rangees dans des blocs de route et ne
+decrivent aucun evenement narratif.
 
-[ ] 20/20 succes Steam.
-[ ] 16/16 secret areas pour Completionist dans une seule sauvegarde.
-[ ] 10 ameliorations stamina/accuracy pour Fully Amphed.
-[ ] 3 talismans pour Berserk Reborn.
-[ ] Trois conclusions obtenues depuis des sauvegardes branchees.
-[ ] Best ending en Bloodbath pour Unstoppable.
-[ ] Demo Trust No One terminee sur n'importe quelle difficulte puis en moins
-    de six minutes en Bloodbath.
-[ ] Une victoire Capture the Chalice en multijoueur.
+OBJECTIF DE LA FICHE
 
-SAUVEGARDES OBLIGATOIRES
+- [ ] 20/20 succes Steam.
+- [ ] 16/16 secrets officiels de Completionist dans une seule sauvegarde.
+- [ ] Les deux secrets bonus de Veteran Edition gardes comme roue de secours.
+- [ ] 10/10 augmentations Stamina et Accuracy pour Fully Amphed.
+- [ ] 3/3 talismans pour Berserk Reborn.
+- [ ] Meilleure fin, fin intermediaire et pire fin.
+- [ ] Meilleure fin en Bloodbath pour Unstoppable.
+- [ ] Demo terminee sur n'importe quelle difficulte puis en Bloodbath sous six minutes.
+- [ ] Une victoire en Capture the Chalice.
 
-- Slot A : debut de campagne, apres l'entrainement.
-- Slot B : juste avant le choix de route dans New Front Base.
-- Slot C : avant chaque branche de conclusion.
-- Slot D : avant l'Entity pour la run Bloodbath.
-- Ne remplace jamais la sauvegarde de la route complete avant d'avoir valide
-  les 16 secrets et les trois talismans.
+ROUTE DE COMPLETION RECOMMANDEE
 
-GARDE-FOUS
+1. Fais la demo Trust No One avant la campagne. Elle est independante de la
+   sauvegarde principale et permet Tourist et Hardcore Warm-up.
+2. Fais une premiere campagne en Rookie/Normal sur la route de collecte. Cette
+   sauvegarde vise les 16 secrets, les 10 stats, les 3 talismans, les boss,
+   Fully Amphed, Berserk Reborn, Completionist et Galiant Hero.
+3. Cree une sauvegarde juste avant le choix Oracle/Macil. Une copie servira a
+   Trust No One et Without Hope.
+4. Cree une sauvegarde juste avant l'Entity. Une mort controlee donnera
+   Extinction sans detruire la sauvegarde de la meilleure fin.
+5. Lance une campagne Bloodbath separee pour Unstoppable. Ne melange pas cette
+   run avec la collecte : les ennemis reapparaissent et les ressources sont
+   beaucoup plus tendues.
+6. Termine par une victoire en Capture the Chalice. Elle ne se valide pas dans
+   la campagne solo.
 
-- MISSABLES : les sauvegardes de securite et les branches de conclusion sont
-  traitees avant chaque point de non-retour.
-- Les 16 secret areas et les ameliorations de stats doivent etre obtenues dans
-  une seule sauvegarde ; suis la route favorable a la collecte jusqu'au
-  nettoyage final.
-- Le premier parcours doit etre Normal pour apprendre les zones. La run
-  Bloodbath est separee ; n'essaie pas de combiner toutes les conclusions,
-  les secrets et la difficulte maximale sans sauvegardes.
-- Pour How Hard Can It Be?, desactive les alarmes de la Power Station : ne
-  declenche pas de rayon laser, ne tire pas sur un garde devant une alarme et
-  sauvegarde avant d'ouvrir la zone du cristal.
-- Trust No One n'affiche pas de condition detaillee dans la page statistique
-  Steam. Place-le sur la premiere fin de campagne et verifie la notification ;
-  conserve la sauvegarde si le succes ne tombe pas immediatement.
+SAUVEGARDES A CREER
 
-ORDRE CHRONOLOGIQUE
+- SLOT A - apres l'entrainement : point de depart propre pour la campagne.
+- SLOT B - avant la premiere visite decisive chez l'Oracle : branche des fins.
+- SLOT C - apres les 16 secrets, les stats et les talismans : sauvegarde de
+  collection a ne jamais ecraser.
+- SLOT D - avant l'activation du passage vers l'Entity : branche Extinction.
+- SLOT E - debut de la run Bloodbath : route vers Unstoppable.
 
-01 - DEMO / TRAINING FACILITY
+GARDE-FOUS - MISSABLES / MANQUABLES
 
-- Fais d'abord le parcours d'entrainement sans le chrono, puis recharge la
-  demo Trust No One depuis le menu principal.
-- [ ] Top of the class : entrainement termine.
-- [ ] Tourist : demo terminee dans n'importe quelle difficulte.
-- [ ] Hardcore Warm-up : demo terminee en Bloodbath en moins de 6 minutes.
-- Pour le chrono, memorise la porte, le raccourci, la recharge et la sortie
-  avant de viser le temps. Une mort impose de recommencer la demo.
+- Les 16 secrets officiels sont suivis par secteur. Le compteur est lie a la
+  sauvegarde, pas au profil Steam : ne recommence pas une nouvelle partie pour
+  completer un secteur oublie.
+- La route de collecte doit rester sur la route de la meilleure fin : au choix
+  Oracle/Macil, defends Macil et combats l'Oracle. La route inverse saute des
+  zones utiles a Completionist et a plusieurs stats.
+- Le secret de Programmer's Keep doit etre valide avant de terminer le combat
+  du Programmer : la carte devient ensuite indisponible.
+- Le secret d'Abandoned Front Base se fait apres le Programmer, quand la Front
+  a change de base. Il est distinct du secret de Front Base.
+- Power Station : fais How Hard Can It Be? avant de franchir une alarme, puis
+  declenche l'alarme volontairement pour ouvrir les deux cascades qui comptent
+  pour Completionist.
+- The Bailey possede un secret officiel souvent oublie : il doit apparaitre
+  dans le compteur 13/16.
+- Factory: Manufacturing et The Lab ajoutent deux secrets bonus. Ils ne
+  remplacent pas le suivi des 16 officiels, mais peuvent rattraper un oubli.
+- Les trois fins utilisent des sauvegardes branchees. Une seule campagne ne
+  permet pas de conserver toutes les routes sans recharger.
+- La demo et la campagne sont deux contenus differents : Tourist et Hardcore
+  Warm-up se valident dans le menu de la demo, pas dans le prologue.
+- Les grenades HE/WP, les bolts poison et la Punch Dagger sont prioritaires.
+  Les armes silencieuses preservent les alarmes et les ressources.
+- Les Spectres ne prennent les degats que de la Sigil : conserve ses munitions
+  et n'entre pas dans un combat de boss sans medkits et armure.
 
-02 - SANCTUARY / TOWN / FRONT BASE
+DIFFICULTE ET ECONOMIE
 
-- Termine la mission de Rowan avant de prendre les missions secondaires.
-- Recupere le Com Unit et le Base Key, puis parle aux vendeurs, medic et
-  entraineur avant de partir.
-- Secret 01 [ ] Town : cache pres de la porte du Governor.
-- Secret 02 [ ] Front Base : alcove cachee dans l'ascenseur vers les barracks.
-- [ ] Silence is Golden : mission de Rowan.
-- Utilise les tokens de stats des que la mission rend un chit disponible.
+- Rookie/Normal est le meilleur premier parcours : les ennemis restent lisibles
+  et la route de collecte est fiable.
+- Veteran et Elite sont possibles, mais n'ajoutent pas de succes de campagne.
+- Bloodbath est reserve a Unstoppable et a Hardcore Warm-up. Les ennemis sont
+  plus resistants, plus agressifs et reapparaissent dans de nombreux secteurs.
+- La Stamina augmente la resistance et l'efficacite du corps a corps. Accuracy
+  ameliore les armes a distance. Va voir le Medic et l'Arms Trainer chaque fois
+  qu'un chit est disponible.
+- Les bolts poison tuent silencieusement les cibles organiques. Ils ne sont
+  pas une solution universelle contre les robots.
+- Les Sentinels, Stalkers et Crusaders se gerent avec l'Assault Gun, le
+  Mini-Missile Launcher, le Grenade Launcher ou le Mauler.
 
-03 - POWER STATION
+ARSENAL ET OBJETS A NE PAS PERDRE
 
-- Fais la route furtive jusqu'au cristal sans declencher d'alarme.
-- Secrets 03-04 [ ] Power Station : les deux caches derriere les cascades.
-- [ ] How Hard Can It Be? : cristal recupere sans alarme.
-- Apres la mission, retourne voir les medics et l'entraineur pour convertir les
-  tokens en stamina et accuracy.
+- Punch Dagger : arme silencieuse de depart, indispensable sur la route furtive
+  de Power Station et utile contre les ennemis faibles.
+- Crossbow : recue l'assaut de Rowan. Les bolts electriques sont bruyants ; les
+  bolts poison sont a garder pour les passages sans alarme.
+- Assault Rifle : recupere dans Prison apres la scene du Warden. C'est l'arme
+  de base pour les groupes et les cibles qui ne craignent pas le poison.
+- Mini-Missile Launcher : dans le poste de garde de Power Station. Prends-le
+  meme pendant la route furtive sans tirer sur les gardes.
+- Grenade Launcher : dans le secteur Storage des Sewers. Les grenades HE sont
+  utiles contre les robots ; les WP sont utiles contre les groupes.
+- Flamethrower : recupere chez Irale apres la mission des Gates. Garde-le pour
+  Spontaneous Combustion.
+- Mauler : arme bonus de Fortress: Stores. La route est facultative mais elle
+  facilite les combats tardifs et apparait aussi dans le secret de Conversion.
+- Ammo Satchel : secret du trone dans Audience Chamber. Il double les
+  capacites de munitions : ne quitte pas cette carte sans l'avoir pris.
+- Environmental Suit : indispensable dans Power Station, Sewers et certains
+  couloirs de la fin. Remplace-le des que l'ecran passe au vert.
+- Shadow Armor et Metal Armor : reserve-les aux combats et aux traverses
+  dangereuses, plutot que de les consommer dans une zone deja nettoyee.
 
-04 - PRISON / SEWERS
+01. DEMO TRUST NO ONE
 
-- Ouvre les cellules et termine la mission de liberation avant de continuer.
-- Secret 05 [ ] Prison : alcove ouverte par l'interrupteur de l'autel.
+Cette demo est la premiere etape de la route 100 %. Elle se lance depuis le
+menu principal. Fais d'abord un essai sans chrono, puis une tentative Bloodbath
+avec la meme route.
+
+01.1 INTERROGATION ET MISSION DE HARRIS
+
+- Dans l'Interrogation Area, elimine le garde, prends sa Passcard et ramasse la
+  vie avant d'ouvrir la porte.
+- Sors, prends la salle a gauche, ramasse la vie et parle a Harris. Accepte sa
+  mission.
+- Traverse la cour, descends tous les escaliers, tourne a droite et tombe dans
+  la riviere. Rejoins la petite jetee puis remonte vers Sanctuary.
+
+01.2 SANCTUARY ET CHALICE
+
+- Ouvre la porte et elimine l'Acolyte sur la plateforme.
+- Prends l'ascenseur a droite, suis le couloir jusqu'au bouton, puis reviens
+  par le chemin maintenant ouvert.
+- Active le bouton de la plateforme, descends, remonte sur la plateforme levee
+  et utilise le levier pour la redescendre. Reste dessus pour remonter.
+- Tourne a droite, prends l'ascenseur et continue jusqu'a la salle du garde.
+  Elimine-le et prends la Silver Key.
+- Retourne dans la salle aux vitres jaunes. Ouvre la porte en face, active le
+  switch qui retire le champ de force et prends la Chalice.
+
+01.3 TAVERN, MANSION ET SORTIE
+
+- Sors de Sanctuary, monte les escaliers et entre dans la Tavern. L'alarme se
+  declenche pres de l'escalier : elimine l'Acolyte et monte a l'etage.
+- Parle a Harris et choisis la deuxieme reponse. Elimine Harris puis les deux
+  Acolytes qui arrivent, active le bouton et descends dans le passage secret.
+- Ramasse les soins et les munitions, puis depose la Chalice pour alleger la
+  route.
+- Sors de la Tavern, tombe sur la corniche et entre dans la Governor's Mansion.
+  Va a droite pour les soins, puis a gauche, ouvre la porte et descends les
+  escaliers pour ramasser le contenu de la salle.
+- Sors de la Mansion, elimine le Crusader, traverse le pont, tourne a droite,
+  passe les boutiques et prends la petite salle a gauche pour le teleporter.
+- Dans la zone suivante, tourne a droite puis a gauche, parle au personnage au
+  centre, retourne-toi et active le switch au bout du chemin.
+
+01.4 SUCCES DE LA DEMO
+
+- [ ] Tourist : termine la demo sur n'importe quelle difficulte.
+- [ ] Hardcore Warm-up : termine la demo en Bloodbath en moins de six minutes.
+- Pour le chrono, ne tue que les ennemis qui bloquent la porte ou le passage.
+  Le trajet ci-dessus est plus important que le nettoyage des salles.
+- Si le temps depasse six minutes ou si tu meurs, relance la demo : le chrono
+  n'est pas une progression cumulative.
+
+02. PROLOGUE - ROWAN, SANCTUARY ET TOWN
+
+02.1 INTERROGATION ET ROWAN
+
+- Dans la salle de depart, elimine les Acolytes, prends les soins et les
+  munitions, puis elimine le garde a l'exterieur.
+- Descends le chemin et parle a Rowan dans la premiere salle a gauche.
+- Accepte la mission et recupere la Crossbow avec ses bolts electriques.
+- Descends vers Sanctuary par la riviere : la grande porte de surface est
+  verrouillee, la jetee en contrebas est l'acces fiable.
+
+02.2 MISSION THE TRAITOR
+
+- Dans Sanctuary, active le bouton d'entree et elimine le garde en hauteur.
+- Prends l'ascenseur a droite, suis le couloir, monte l'escalier et active le
+  bouton de la salle superieure.
+- Reviens sur la plateforme, active le second bouton, descends a gauche pour
+  les munitions puis remonte sur la plateforme levee.
+- Utilise le levier, monte avec la plateforme, ouvre la porte et prends
+  l'ascenseur.
+- Entre dans la cellule de Beldin. Parle-lui si tu veux, puis recupere sa Ring
+  apres la confrontation. Ramasse l'or sur la table.
+- Ressors par le couloir, elimine le garde, prends les objets de la salle et
+  active le bouton du pilier pour abaisser l'escalier.
+- Remonte a Town, rejoins Rowan et rends la mission pour recevoir l'or et le
+  Com Unit.
+- [ ] Silence is Golden : mission de Rowan terminee.
+
+02.3 SECRET 02/16 - TOWN
+
+- Apres avoir parle a Macil pour la premiere fois et obtenu l'acces a la
+  Mansion, entre dans Governor's Mansion.
+- Apres l'ascenseur, cherche le mur entre les deux torches. Il a une texture
+  differente : utilise-le pour ouvrir la chambre cachee.
+- Ramasse l'or et les munitions. Le secteur doit compter 2/16.
+
+02.4 SECRET 01/16 - FRONT BASE
+
+- Depuis Town Hall, suis l'escalier vers Front Base et parle a Geoff pour ouvrir
+  l'acces avec le code transmis par Blackbird.
+- Dans Front Base, ne va pas directement vers Macil : entre dans les Barracks.
+- Dans l'ascenseur vu depuis l'entree haute, pousse-toi contre le faux mur a
+  gauche pendant le mouvement. Un petit ascenseur secondaire descend vers la
+  chambre secrete.
+- Si le petit ascenseur remonte, active son bouton et attends son retour.
+  Prends les Poison Bolts, les soins et l'or.
+- Le compteur officiel doit afficher 1/16. Ce secteur est different de celui
+  d'Abandoned Front Base plus tard.
+
+03. FRONT BASE, GOVERNOR ET PRISON
+
+03.1 INSTALLATION AUPRES DE MACIL
+
+- Traverse le depot de Front Base et parle a Macil.
+- Va voir Irale pour connaitre les achats disponibles, mais garde ton or pour
+  les soins, les bolts poison et les munitions.
+- Reviens vers Macil pour lancer Freeing the Prisoners.
+
+03.2 GOVERNOR - ROUTE SANS DETOUR
+
+- Entre dans Governor's Mansion. La chambre secrete de Town est deja validee
+  si tu as suivi la section 02.3.
+- Le Governor propose deux travaux. Choisis la route dite "messy" pour garder
+  le parcours le plus propre : parle a MacGuffin pres de Rowan et choisis la
+  deuxieme reponse pour obtenir l'emplacement du branchement.
+- Active le switch qui abaisse le niveau des egouts, tombe dans les eaux usees
+  et traverse jusqu'a la porte cachee.
+- Ne detruis pas le robinet. Continue dans le couloir et prends le broken power
+  coupling dans la salle suivante.
+- Prends l'ascenseur, rejoins la sortie par la droite et retourne au Governor.
+- Si tu as choisi la route "bloody", va dans le Warehouse de Power Station,
+  elimine Derwin sans lui parler puis retourne au Governor. Cette route reste
+  jouable, mais elle declenche une alarme plus tot.
+
+03.3 PRISON - LIBERER LES PRISONNIERS
+
+- Avec le Prison Pass, traverse le pont et monte les escaliers vers Prison.
+- Parle au Door Guard : il ouvre l'acces. Monte ensuite voir Warden Montag.
+- La conversation declenche l'alarme. Recupere l'Assault Rifle, elimine le
+  Warden et les gardes, puis prends la Prison Key.
+- Ouvre la grande porte avec la cle et suis les couloirs jusqu'au grand
+  ascenseur.
+- Au niveau inferieur, prends les fournitures a gauche du couloir sans porte,
+  puis rejoins la salle de l'autel.
+- [ ] Secret 03/16 - PRISON : passe derriere l'autel et active le levier en
+  forme de crane. Reviens vers l'entree de la salle et prends la deuxieme
+  alcove a gauche, maintenant ouverte.
+- Monte l'escalier, traverse la salle du Sentinel et monte voir Judge Wolenick.
+- Elimine-le, prends sa main et reviens a la Main Control Room.
+- Active tous les Hand Scanners pour ouvrir les cellules.
+- Fouille les tours des remparts maintenant ouvertes si tu as besoin de vie et
+  de munitions, puis ouvre la porte des grandes cellules.
+- Prends le teleporter au bout du couloir et retourne a Front Base.
+- Parle a Macil pour valider la mission.
 - [ ] Lending a Hand : prisonniers liberes.
-- Secret 06 [ ] Sewers : porte secrete en diagonale de la salle de la porte du
-  Gate Mechanism.
-- [ ] Gate Mechanism termine ; recupere le token de stats de Macil.
 
-05 - CASTLE / AUDIENCE CHAMBER / PROGRAMMER'S KEEP
+03.4 STAT 01/10 - APRES PRISON
 
-- Termine la formation, puis avance vers l'Audience Chamber et le Keep.
-- Secrets 07-09 [ ] Audience Chamber : derriere le trone, sous le lit du
-  Programmer et alcove de la salle nord.
-- Secret 10 [ ] Programmer's Keep : derriere le contrefort au sud-est en haut
-  de la pyramide.
-- [ ] Bish-Slapped : Bishop vaincu.
+- Macil fournit les chits de Stamina et d'Accuracy apres la mission de Prison.
+- Va au Medic pour la Stamina, puis a l'Arms Trainer pour l'Accuracy.
+- Verifie le menu des stats avant de quitter Front Base. Le compteur personnel
+  est maintenant 1/10.
+
+04. POWER STATION - CRISTAL ET SECRETS
+
+04.1 PREPARATION
+
+- Visite le Medic et l'Arms Trainer avant de repartir.
+- Entre par le chemin de Town vers Power Station et ouvre le Warehouse avec le
+  switch de l'alcove nord.
+- Descends l'escalier sud, tourne a droite et parle a Worner dans la zone
+  sombre pour obtenir l'ID card.
+- Sauvegarde avant d'entrer dans le Reactor Core. Pour How Hard Can It Be?,
+  aucune alarme ne doit etre activee avant la recuperation du cristal.
+
+04.2 HOW HARD CAN IT BE? - ROUTE FURTIVE EXACTE
+
+- Depuis la partie nord des docks du Warehouse, marche sur l'eau vers la grotte
+  cachee. Equipe la Punch Dagger avant d'entrer.
+- Dans le passage, tourne a droite au fond. Si tu ressors dans la riviere,
+  recommence l'approche : le mauvais embranchement ramene dehors.
+- Tue le technicien au couteau, prends la Gold Key et rejoins la salle P par le
+  passage cache. Ne parle pas a Ketrick pendant cette route.
+- Saute par-dessus les barrieres de la salle P pour atteindre le bouton T.
+  Active-le, tombe dans l'espace voisin puis reviens vers la grande salle du
+  Reactor Core.
+- Prends le Mini-Missile Launcher dans le poste de garde sans tirer sur les
+  gardes. Active le switch de sortie de la grande salle, puis reviens vers le
+  Warehouse.
+- Retourne a la salle P, reprends le passage cache et equipe un Environmental
+  Suit avant la zone radioactive.
+- Prends l'ascenseur vers Sammis, parle-lui ou neutralise-le, puis active les
+  switches.
+- Reviens dans le Reactor Core et rejoins Ketrick. N'engage pas de dialogue
+  inutile : active le switch qui revele le cristal.
+- Mets-toi au bord, tire une seule fois sur le Power Crystal avec le
+  Mini-Missile Launcher puis recule immediatement.
+- [ ] How Hard Can It Be? : cristal trouve sans alarme.
+- Si l'alarme se declenche avant le tir, recharge la sauvegarde de preparation.
+
+04.3 POWER STATION - LES DEUX CASCADES
+
+- Apres la notification de How Hard Can It Be?, retourne dans le hall du
+  Reactor Core.
+- Franchis volontairement la barriere verte de securite. L'alarme ouvre les
+  passages des deux cascades au sud de la salle.
+- [ ] Secret 04/16 - CASCADE OUEST : traverse la premiere cascade ouverte et
+  entre dans la petite zone de munitions.
+- [ ] Secret 05/16 - CASCADE EST : traverse l'autre cascade ouverte et prends
+  le Med Patch.
+- Ces deux secrets ne doivent pas etre faits avant le succes de furtivite.
+- Rejoins le Warehouse, prends les Environmental Suits et ouvre l'armurerie si
+  tu veux des munitions. La ligne rouge finale peut declencher l'alarme, ce qui
+  n'a plus d'importance apres le cristal.
+- Sors de Power Station, puis visite Irale et le Medic en ville.
+
+04.4 STAT 02/10 - POWER CRYSTAL
+
+- Apres la destruction du Power Crystal, Irale et le Medic proposent la seconde
+  augmentation de stats.
+- Convertis les deux chits sans attendre : un passage chez le Medic, un passage
+  chez l'Arms Trainer.
+- Verifie Stamina et Accuracy avant de retourner voir Macil.
+
+05. SEWERS ET GATE MECHANISM
+
+05.1 ACCES ET MATERIEL
+
+- Depuis Town, passe par le Sewer Overflow Gate. Active le switch derriere le
+  pilier, puis le second switch et tombe dans l'ouverture.
+- Dans la premiere salle, descends l'ascenseur, active le bouton et equipe un
+  Environmental Suit quand l'ecran devient vert.
+- Prends le couloir gauche puis l'escalier. Le secteur Storage contient le
+  Grenade Launcher : recupere-le avant la suite.
+- Reviens vers la salle des ascenseurs, prends le couloir droit et monte vers
+  la salle du garde. Elimine-le et prends son ID.
+- Active le switch, traverse l'habitat des beggars et parle a Weran.
+
+05.2 RECLAMATION TANK ET CHATEAU
+
+- Depuis Weran, suis le passage qui descend puis rejoins la grande salle de
+  Sentinels.
+- Active les boutons, traverse le pont et rejoins l'acces au Castle.
+- Dans Castle, active le switch de la salle exterieure et rejoins la
+  Reclamation Tank.
+- Tourne la valve sur le tuyau pour purger le reservoir, puis saute pour
+  revenir dans les Sewers.
+- Repasse par le long couloir jusqu'a la salle de la porte du Gate Mechanism.
+
+05.3 SECRET 06/16 - SEWERS
+
+- Dans la salle de la machine a quatre piliers, entre sous la structure.
+- Place-toi au centre et utilise le panneau de droite du pilier du fond. La
+  paroi s'ouvre sur une petite zone contenant soins, munition et Energy Pack.
+- Le compteur officiel doit afficher 6/16.
+
+05.4 GATE MECHANISM ET STAT 03/10
+
+- Rejoins la porte du Gate Mechanism, elimine les Sentinels et active le bouton
+  qui ouvre l'ascenseur.
+- Monte, active le switch qui devoile le mecanisme et sauvegarde avant le tir.
+- Utilise le Grenade Launcher pour detruire le Gate Mechanism.
+- Reviens par le teleporter du Castle puis retourne a Town.
+- Va chez Irale pour recevoir le Flamethrower, puis retourne a Front Base et
+  parle a Macil.
+- Recupere les chits de la troisieme augmentation aupres de Macil. Convertis
+  Stamina et Accuracy chez le Medic et l'Arms Trainer.
+
+05.5 SPONTANEOUS COMBUSTION
+
+- Choisis une zone avec au moins quatre Acolytes regroupes, par exemple un
+  secteur de Town ou de Front Base apres avoir obtenu le Flamethrower.
+- Blesse personne avant la tentative. Equipe le Flamethrower, enflamme un
+  Acolyte puis garde les autres cibles proches de son corps en feu.
+- N'acheve pas la premiere cible avec une autre arme : le corps doit propager
+  le feu a trois autres Acolytes.
+- Si la chaine casse, recharge avant la tentative. Les cibles robots ne
+  comptent pas.
+- [ ] Spontaneous Combustion : un corps en feu enflamme trois autres Acolytes.
+
+06. CASTLE, TRAINING FACILITY ET PROGRAMMER
+
+06.1 ENTREE DANS CASTLE
+
+- Apres Macil, parle au Medic et a l'Arms Trainer, puis traverse le pont vers
+  Castle.
+- Dans la premiere cour, les soldats bruns sont allies : ne leur tire pas
+  dessus.
+- Passe par la porte gauche, monte l'escalier et suis la corniche jusqu'au
+  batiment de la Training Facility.
+
+06.2 TRAINING FACILITY - PARCOURS COMPLET
+
+- Descends l'escalier, prends les fournitures de l'armurerie, puis parle au
+  Programmer dans le couloir.
+- Entre dans la zone marquee Guard Training Facility.
+- Premiere salle : franchis les plateformes sans toucher les zones d'ecrasement.
+  Apres l'embuscade, elimine les ennemis et active tous les boutons.
+- Reviens par les plateformes, prends la porte nouvellement ouverte, active le
+  bouton qui revele le Crusader et les munitions, puis abaisse l'escalier.
+- Monte, active les deux boutons, redescends et utilise le premier teleporter.
+- Active le bouton, prends le second teleporter et active l'autre bouton pour
+  ouvrir la grille.
+- Dans la nouvelle salle, tourne a droite, suis le couloir, prends l'ascenseur
+  a gauche et active le bouton avant de sauter.
+- Tourne deux fois a droite, suis le couloir puis tourne a gauche deux fois
+  vers la grande salle.
+- Franchis le vide par un saut en course, monte l'escalier a gauche et active
+  le bouton.
+- Reviens dans la grande salle, prends l'ascenseur de l'autre cote, active le
+  bouton en hauteur puis reviens franchir le vide.
+- Active le bouton final. Le message de fin et le soin complet confirment la
+  reussite.
+- [ ] Top of the class : Training Facility terminee.
+- [ ] Stat 04/10 : l'augmentation automatique est accordee avec la formation.
+
+06.3 AUDIENCE CHAMBER - TROIS SECRETS
+
+- Depuis la sortie de la formation, traverse la riviere et entre dans le
+  batiment qui mene a Audience Chamber.
+- Le faux Programmer de la premiere salle n'est pas la cible finale : sors et
+  suis le grand couloir jusqu'a la chambre d'audience.
+- Entre par la porte a gauche du trone, attends la descente du sol et active le
+  bouton pour relever le passage.
+- Suis le couloir jusqu'au vrai Programmer de la zone, parle-lui et recupere la
+  Silver Key.
+- [ ] Secret 07/16 - TRONE : retourne dans la salle principale et utilise la
+  face du trone. Si elle reste fermee, verifie que tu as bien parle au
+  Programmer et pris la Silver Key. Prends l'Ammo Satchel.
+- [ ] Secret 08/16 - LIT : dans la chambre, monte sur la petite caisse a gauche
+  du lit puis saute sur le lit. La partie mobile s'abaisse.
+- [ ] Secret 09/16 - PANNEAU ELECTRONIQUE : dans la salle aux consoles, utilise
+  l'extremite gauche de la console centrale en forme de U. Fouille la chambre
+  avec le Grenade Launcher et le Targeter.
+- Ne quitte pas la zone sans l'Ammo Satchel : elle est necessaire pour la suite
+  et ne reapparait pas ailleurs.
+
+06.4 PROGRAMMER'S KEEP - SECRET AVANT LE BOSS
+
+- Sors par la cour, traverse l'Hospital et prends le petit passage vers
+  Programmer's Keep.
+- La salle droite a l'entree est un piege. Prends un des deux couloirs, elimine
+  les Acolytes et active le switch derriere l'autel.
+- Descends, fouille les petites salles de soins et de munitions, puis elimine
+  les Crusaders dans la grande salle. Trois Crusaders doivent etre neutralises
+  pour ouvrir la route vers la pyramide.
+- Monte la pyramide. Avant de lancer le combat, prends le chemin superieur
+  droit vers le contrefort du sud-est.
+- [ ] Secret 10/16 - PROGRAMMER'S KEEP : utilise le contrefort a la texture
+  differente et entre dans la chambre. Fais-le avant de vaincre le Programmer.
+- Cree une sauvegarde maintenant : ce combat est le dernier moment fiable pour
+  revenir a cette carte.
+
+06.5 BOSS PROGRAMMER
+
+- Le Programmer se reveille a l'approche ou au premier tir. Reste en mouvement
+  pour eviter les frappes qui tombent du ciel.
+- Les Mini-Missiles sont fiables ; les grenades WP peuvent accelerer le combat
+  si tu gardes une distance suffisante.
+- Utilise les medkits des bords de la pyramide et conserve l'armure pour les
+  projectiles directs.
+- Apres la victoire, recupere le premier fragment de Sigil et attends le reveil
+  avant de reprendre le controle.
 - [ ] Code Monkey : Programmer vaincu.
-- [ ] Mystical Doubletalk : Loremaster vaincu quand la route le rend
-  disponible.
-- Convertis chaque token de stats immediatement, puis verifie le menu avant
-  de quitter la zone.
+- [ ] Stat 05/10 : retourne voir Macil apres le combat et convertis les chits
+  chez le Medic et l'Arms Trainer.
 
-06 - NEW FRONT BASE / BORDERLANDS
+06.6 SECRET 11/16 - ABANDONED FRONT BASE
 
-- Apres la mort du Programmer, le Front Base change : recharge la sauvegarde
-  uniquement si tu dois reprendre un secret ou un token.
-- Secret 11 [ ] Borderlands : cache accessible en longeant la corniche depuis
-  l'entree de la Fortress.
-- [ ] Fully Amphed : toutes les ameliorations stamina et accuracy obtenues.
-- [ ] Spontaneous Combustion : equipe le flamethrower, enflamme un Acolyte et
-  laisse le corps en feu toucher trois autres Acolytes. Fais-le dans une zone
-  avec quatre cibles groupees et recharge si la chaine casse.
+- Apres la victoire, la Front change de base. Retourne a Town puis a l'ancien
+  Town Hall : la zone est maintenant Abandoned Front Base.
+- Rejoins les Barracks et refais l'approche du premier secret : faux mur dans
+  l'ascenseur, puis petit ascenseur secondaire.
+- [ ] Secret 11/16 - ABANDONED FRONT BASE : valide le secteur, meme si le
+  contenu est presque vide. Il est different de Front Base 1/16.
 
-07 - TEMPLE OF THE ORACLE / CATABCOMS / MINES
+07. BORDERLANDS, ORACLE ET BISHOP
 
-- Suis l'ordre donne par le Front et fouille les zones avant chaque transfert.
-- Secret 12 [ ] Catacombs: Ruined Temple : zone cachee au nord ; active le
-  pilier de la salle pour rabattre les murs puis ressors sans te faire ecraser.
-- Rassemble les fragments et retourne au point de branchement avec la
-  sauvegarde Slot B intacte.
+07.1 NOUVELLE BASE ET BORDERLANDS
 
-08 - FORTRESS / FACTORY / ORDER COMMONS
+- Depuis le nouveau Front Base du Castle, parle au Medic et a l'Arms Trainer.
+- Le passage vers Borderlands est ouvert depuis Town. Traverse la cour, les
+  Sentinels et la riviere, puis entre par le portail dans le mur.
+- Dans la grotte, prends les fournitures et saute sur la petite ledge de gauche
+  pour utiliser l'ascenseur secret vers l'or et les munitions.
 
-- Parcours Administration, Bishop's Tower, Bailey, Stores et Security Complex
-  avant Factory Receiving.
-- Secret 13 [ ] Factory: Manufacturing : porte cachee de la tour de garde au
-  dessus du reacteur.
-- Secret 14 [ ] Factory: Conversion Chapel : les deux passages caches de la
-  chapelle.
-- Secret 15 [ ] Order Commons : passage dans la tour pres de l'entree de la
-  Factory.
-- Exploite les bancs de munitions et convertis les derniers tokens avant la
-  route de fin.
+07.2 SECRET 12/16 - BORDERLANDS
 
-09 - TALISMANS / FACTORY: PRODUCTION
+- Dans la cour centrale, ouvre la porte de la Fortress avec le switch.
+- Longe la haie contre le mur de la Fortress vers la gauche jusqu'a la pointe
+  de la corniche.
+- Le switch cache apparait sur le bord : active-le, puis entre dans le passage
+  ouvert pres de la cascade.
+- [ ] Secret 12/16 - BORDERLANDS : marche dans la zone ouverte pour valider le
+  secteur. Sauter directement au sommet de la cascade donne du butin mais ne
+  valide pas le secret officiel.
 
-- Talisman vert [ ] : Catacombs: Ruined Temple, dans la salle secrete du nord.
-- Talisman bleu [ ] : conserve le Blue Offering Chalice trouve dans la
-  Factory, donne-le a Timothy dans Order Commons puis suis l'indication vers
-  la zone de forge.
-- Talisman rouge [ ] : ouvre Factory: Production apres la sequence du chalice
-  et recupere le talisman dans cette map bonus.
-- [ ] Berserk Reborn : trois talismans sur la meme sauvegarde.
+07.3 TEMPLE OF THE ORACLE ET TALISMAN BLEU
 
-10 - BRANCHES DE CONCLUSION
+- Tue le garde du poste et prends la cle. Utilise-la sur le bloc de pierre
+  colore pour entrer dans Temple of the Oracle.
+- Dans la salle d'eau, le chemin avec les gardes est plus stable que le chemin
+  de plateformes : choisis celui qui limite les sauts.
+- Active les switches, monte les ascenseurs et franchis les trois escaliers
+  dont le bouton central ouvre la suite. Rejoins l'Oracle au bout.
+- Parle a l'Oracle une premiere fois, puis reviens dans la salle verte
+  precedente.
+- [ ] TALISMAN BLEU : les barreaux se sont leves. Prends le Blue Talisman dans
+  la salle redevenue accessible.
+- Ne confonds pas le Blue Talisman avec la Blue Offering Chalice de la route
+  rouge, qui est un autre objet.
 
-- Avant de parler au personnage qui propose la decision de route, cree Slot C.
-- Branche 1 [ ] Galiant Hero : route de la meilleure conclusion, puis termine
-  l'Entity.
-- Branche 2 [ ] Without Hope : route de la conclusion intermediaire, puis
-  termine l'Entity.
-- Branche 3 [ ] Extinction : route de la pire conclusion ou echec final selon
-  le choix de la sauvegarde ; valide la notification sans chercher de details
-  narratifs.
-- [ ] Trust No One : fin de campagne validee ; condition Steam non detaillee,
-  verifier la notification.
-- [ ] Unstoppable : rejoue la branche de la meilleure conclusion en Bloodbath.
+07.4 BISHOP'S TOWER ET SECRET DE THE BAILEY
 
-11 - SECRET AREAS RESTANTES
+- Apres l'Oracle, prends le teleporter de retour vers Borderlands.
+- Entre dans le batiment Commons et recupere l'Officer's Uniform dans la zone
+  des ordinateurs. Le Keymaster ouvre l'itineraire vers la Fortress.
+- Dans The Bailey, passe par l'Hospital si tu as besoin de soins.
+- Pour le secret, rejoins le Security Complex et cherche le conduit de
+  ventilation qui traverse le batiment du nord au sud. Le saut le plus simple
+  se fait par les tuyaux au nord.
+- Traverse le conduit, active le switch qui vide l'eau et prends le teleporter.
+- [ ] Secret 13/16 - THE BAILEY : entre dans la zone de teleporter et valide le
+  secteur. La chambre avec Metal Armor a cote est du butin bonus ; c'est le
+  teleporter du conduit qui compte pour Completionist.
+- Rejoins Bishop's Tower par les portes aux bannieres cramoisies et noires.
+- Active les switches des deux ailes : ascenseur, bouton, chaine, retour et
+  second ascenseur. Le dernier bouton ouvre la salle du Bishop.
 
-- Secret 16 [ ] Abandoned Front Base : alcove secrete de l'ascenseur vers les
-  barracks, distincte de celle de Front Base.
-- Compteur final : [ ] 16/16 secret areas ; [ ] 10/10 stats ; [ ] 3/3
-  talismans.
-- [ ] Completionist : notification sur la sauvegarde de collecte.
+07.5 BOSS BISHOP
 
-MODE EN LIGNE
+- Le Bishop utilise des missiles. Garde une ligne de vue courte, tourne autour
+  des piliers et conserve les medkits de l'Hospital pour la seconde phase.
+- Quand la cible principale disparait, equipe la Sigil pour la forme Spectre.
+  Les autres armes ne lui infligent pas de degats utiles.
+- Recupere le second fragment de Sigil et retourne au Temple de l'Oracle.
+- [ ] Bish-Slapped : Bishop vaincu.
+- [ ] Stat 06/10 : l'Oracle donne les chits apres la victoire. Reviens a la
+  base et convertis-les chez le Medic et l'Arms Trainer avant le choix suivant.
 
-- [ ] Grab the Fancy Cup : gagne une partie Capture the Chalice.
-- Le succes demande un match multijoueur ; il ne se remplace pas par un
-  botmatch ou par la campagne. Verifie l'acces au lobby avant de lancer la
-  derniere phase de nettoyage.
+08. CHOIX ORACLE / MACIL - ROUTE DE COLLECTE
 
-CHECKLIST FINALE DES 20 SUCCES
+08.1 POINT DE BRANCHEMENT
 
-01 [ ] Silence is Golden
-02 [ ] Lending a Hand
-03 [ ] Code Monkey
-04 [ ] Bish-Slapped
-05 [ ] So Much for Prognostication
-06 [ ] Trust No One
-07 [ ] Top of the class
-08 [ ] Spontaneous Combustion
-09 [ ] Mystical Doubletalk
-10 [ ] Galiant Hero
-11 [ ] Extinction
-12 [ ] Tourist
-13 [ ] How Hard Can It Be?
-14 [ ] Fully Amphed
-15 [ ] Berserk Reborn
-16 [ ] Without Hope
-17 [ ] Hardcore Warm-up
-18 [ ] Completionist
-19 [ ] Unstoppable
-20 [ ] Grab the Fancy Cup
+- Sauvegarde dans SLOT B avant de relancer le dialogue avec l'Oracle.
+- Ce choix determine la branche de fin et l'acces aux zones de collecte.
+- Pour la sauvegarde 100 %, choisis les reponses qui defendent Macil et refuse
+  l'ordre de l'Oracle. Le combat contre l'Oracle lance la route de collecte.
+- Pour la branche Trust No One, ne touche pas a SLOT B : elle sera detaillee
+  dans la section 13.
 
-Sources de verification : liste officielle des 20 succes Steam de Strife,
-StrategyWiki/Doom Wiki pour les fins, les missions, les stats et les 16
-secrets, et le forum Steam pour les trois talismans. Les conditions sont
-reformulees et la route reste sans spoiler.
+08.2 ORACLE - SUCCES ET STAT
+
+- Sur la route de collecte, engage le combat contre l'Oracle.
+- Termine la confrontation et la phase Spectre avec la Sigil.
+- [ ] So Much for Prognostication : Oracle vaincu.
+- Retourne a la nouvelle base et parle a Macil.
+- [ ] Stat 07/10 : Macil remet les chits apres la victoire sur l'Oracle. Fais
+  les deux conversions avant d'entrer dans Order Commons.
+- Cette route preserve les zones necessaires a Completionist, au talisman vert
+  et au talisman rouge.
+
+09. ORDER COMMONS, CATACOMBS ET MINES
+
+09.1 LOST KEYS ET ORDER COMMONS
+
+- Apres Macil, visite Medic et Arms Trainer, puis retourne a Borderlands.
+- Entre dans le batiment marque Commons et parle a Richter dans la petite salle
+  pres de l'escalier.
+- Sors par la porte opposee, traverse la corniche, tombe dans l'eau et rejoins
+  la Tavern. Les pieces dans l'eau sont facultatives mais utiles.
+- Prends l'escalier de la Tavern puis la porte vers Catacombs.
+
+09.2 CATACOMBS ET RUINED TEMPLE
+
+- Dans Catacombs, suis le mur de droite jusqu'au virage, descends l'escalier et
+  active le switch dans la petite chambre.
+- Reviens, tombe dans l'eau a droite, saute sur les plateformes et rejoins la
+  salle d'eau.
+- Active le switch qui abaisse l'eau, tombe dans la zone basse et monte
+  l'escalier vers Catacombs: Ruined Temple.
+
+09.3 SECRET 14/16 ET TALISMAN VERT
+
+- Dans Ruined Temple, nettoie l'entree avec les grenades WP et garde les
+  fournitures des chambres laterales pour le Spectre.
+- Au nord, rejoins la fontaine avec les alcoves murales.
+- Oriente-toi vers l'ouest et pousse la troisieme alcove. Le passage secret
+  s'ouvre vers une petite cour a quatre piliers.
+- [ ] Secret 14/16 - CATACOMBS: RUINED TEMPLE : utilise le pilier detruit a
+  gauche de la cour. La zone secrete au nord est validee.
+- [ ] TALISMAN VERT : dans la meme cour, le pilier detruit abaisse deux murs.
+  Prends le teleporter au sud si besoin, puis le passage a l'ouest et le Green
+  Talisman.
+- Le talisman est derriere le secret : valider le secret avant de quitter la
+  cour evite de chercher le mauvais mur.
+
+09.4 SPECTRE ET KEYMASTER
+
+- Au centre du temple, equipe la Sigil avant d'approcher le Spectre.
+- Tourne autour de la structure centrale et vise entre deux attaques. Les
+  ennemis secondaires peuvent etre ignores apres l'ouverture de la zone.
+- Recupere les cles apres la victoire, puis retourne vers Order Commons.
+
+09.5 MINES ET STAT 08/10
+
+- Depuis Order Commons, approche l'entree de la Factory. Le champ de force se
+  retire par les Mines : prends l'ascenseur a gauche de la petite passerelle.
+- Dans Mines, traverse la zone ouverte, active le switch et prends l'ascenseur
+  vers le niveau de forage.
+- Recupere du Degnin Ore dans la zone jaune, puis remonte.
+- Pour liberer les travailleurs, depose un morceau d'ore pres du champ de
+  force, recule et tire dessus. Passe la porte, monte les escaliers et active
+  le switch de la machine qui controle les drones.
+- Detruis le neural transmitter.
+- [ ] Stat 08/10 : bonus automatique apres la destruction du transmitter.
+- La mission des travailleurs est facultative pour l'histoire mais obligatoire
+  pour Fully Amphed.
+
+10. FACTORY, CONVERSION CHAPEL ET TALISMANS
+
+10.1 FACTORY: RECEIVING ET MANUFACTURING
+
+- Depuis Mines, prends l'ascenseur lateral et entre dans Factory: Receiving.
+- Elimine les Crusaders de l'entree, active les switches des portes et avance
+  vers Manufacturing.
+- Ne depense pas tous les HE grenades : les robots et les Inquisitors tardifs
+  demandent une marge de munitions.
+- [ ] SECRET BONUS 17/16 - FACTORY: MANUFACTURING : apres l'Inquisitor,
+  active le switch qui ouvre le cote gauche et fait apparaitre deux Crusaders.
+  Pres du worker, detruis la tourelle puis utilise le panneau sous sa droite.
+  Prends le teleporter de la chambre bonus.
+- Ce secret est bien comptabilise par la version Veteran Edition et peut
+  compenser un secteur officiel rate.
+
+10.2 SECRET 15/16 - CONVERSION CHAPEL COTE DROIT
+
+- Depuis l'entree de la Factory, suis les couloirs vers Conversion Chapel.
+- Dans la salle de la machine, repere le petit switch immediatement a droite
+  de la commande principale. Active-le pour lancer la sequence des panneaux.
+- Passe sous le convoyeur vers le cote droit de la salle et entre derriere les
+  gros tuyaux. Une alcove bleue contient un second switch.
+- Active ce switch, puis rejoins la piece aux quatre piliers. Le bouton du mur
+  oppose ouvre la premiere zone et la liaison vers la seconde.
+- [ ] Secret 15/16 - COTE DROIT : entre dans la chambre ouverte pres du switch
+  et recupere les soins et l'or.
+
+10.3 SECRET 16/16 - CONVERSION CHAPEL COTE GAUCHE
+
+- Reviens sous le convoyeur et traverse vers le cote oppose de la salle de
+  conversion.
+- Un pilier metallique s'est leve et devoile un conduit. Le bloc brun devant
+  l'entree s'abaisse avec la touche d'utilisation.
+- Suis le conduit, ramasse les soins intermediaires et entre dans la seconde
+  chambre.
+- [ ] Secret 16/16 - COTE GAUCHE : recupere le butin, dont le Mauler. Le
+  compteur Completionist officiel doit maintenant etre 16/16.
+- Si le succes ne tombe pas, valide les deux secrets bonus 17 et 18 plus bas,
+  puis reviens verifier le compteur Steam.
+
+10.4 CONVERTER ET STAT 09/10
+
+- Dans la salle de la machine, utilise la petite commande a voyant rouge pour
+  arreter le Converter.
+- Fouille les abords et les panneaux secondaires avant de repartir : les soins
+  sont utiles pour les combats de la Factory.
+- [ ] Stat 09/10 : bonus automatique apres l'arret du Converter.
+- Retourne dans les couloirs de Mines et garde une sauvegarde avant de lancer
+  la mission suivante chez Macil.
+
+10.5 TALISMAN ROUGE - QUETE COMPLETE
+
+- Dans Order Commons, parle a Timothy pres du Warehouse et des docks. Il se
+  tient a cote d'une table avec une tasse, deux bouteilles et une bougie.
+- Interroge-le deux fois. Il indique la Blue Offering Chalice dans Factory:
+  Manufacturing.
+- Dans Manufacturing, va au sud-ouest pres de l'eau et de la sortie vers
+  Proving Grounds. Prends l'ascenseur le plus a gauche, celui du sud.
+- Saute par-dessus le laser rouge au sol. Ne le franchis pas : il fait apparaitre
+  plusieurs ennemis et rend la route plus dangereuse.
+- Monte les escaliers et prends la Blue Offering Chalice.
+- Retourne voir Timothy dans Order Commons et donne-lui la chalice. Recupere
+  l'objet appele the info.
+- Rejoins Factory: Forge. Dans le batiment nord qui donne sur l'ouest, traverse
+  la piscine et parle a Master Smithy en choisissant "official business".
+- Avec the info, Smithy ouvre l'acces a Factory: Production.
+- Dans Factory: Production, contourne la carte par le sud puis l'ouest vers le
+  temple en ruine au nord. Elimine tous les Crusaders blancs qui crachent du
+  feu.
+- Dans le temple, monte les marches pres des cascades. Les pieges de plafond
+  tombent sur les marches 3 et 6 : avance, recule et laisse chaque piege finir.
+- Le pedestal du Red Talisman descend uniquement apres la mort de tous les
+  Crusaders de la carte.
+- [ ] TALISMAN ROUGE : recupere-le au sommet du temple.
+- [ ] Berserk Reborn : les Blue, Green et Red Talismans sont dans la meme
+  sauvegarde.
+
+11. PROVING GROUNDS ET THE LAB
+
+11.1 ROUTE DES TELEPORTERS
+
+- Apres les missions de Factory, prends le teleporter vers Proving Grounds.
+- Prends un ascenseur vers le bas, rejoins l'ascenseur de gauche vers le haut,
+  franchis les barreaux qui s'ouvrent et active le bouton de la salle suivante.
+- Reviens, prends l'ascenseur de gauche vers le bas, tombe dans la zone a
+  droite et remonte par l'ascenseur. Ramasse les fournitures.
+- Dans une des salles, cherche la petite porte integree au mur, active le
+  switch puis ressors.
+- Prends l'escalier a gauche apres le couloir et le premier teleporter.
+  Descends, remonte par l'ascenseur, prends le second teleporter et active le
+  switch de la nouvelle salle.
+- Reviens par le teleporter, suis le passage maintenant ouvert jusqu'a la salle
+  des grands piliers.
+- Ne prends pas le premier escalier au centre. Enchaine gauche, droite puis
+  gauche pour atteindre les teleporters lateraux.
+- Active le switch du teleporter gauche, reviens, descends l'ascenseur et
+  active le switch du teleporter central.
+- Continue tout droit, tourne a gauche, tombe au premier embranchement et
+  prends le teleporter a gauche. La porte suivante mene a The Lab.
+
+11.2 LOREMASTER ET STAT 10/10
+
+- Dans The Lab, active le switch de la salle d'entree. Les deux Inquisitors
+  apparaissent : elimine-les puis active le second switch.
+- Le Loremaster se deplace dans les airs et utilise une chaine qui repousse.
+  Garde la distance, utilise les piliers et attire-le vers la zone de stockage
+  si tu manques de couverture.
+- Apres le Loremaster, une forme Spectre apparait. Equipe la Sigil et utilise
+  l'encadrement de la petite salle comme couverture : sors, tire, recule.
+- [ ] Mystical Doubletalk : Loremaster vaincu.
+- [ ] Stat 10/10 : bonus automatique apres la mort du Loremaster et du
+  Spectre. Verifie Stamina et Accuracy au maximum.
+- [ ] Fully Amphed : toutes les augmentations Stamina et Accuracy sont
+  obtenues.
+
+11.3 SECRET BONUS 18/16 - THE LAB
+
+- Dans la grande zone du Loremaster, prends l'ascenseur circulaire a droite
+  vers la plateforme superieure.
+- Avance jusqu'a la salle informatique avec le serviteur, puis casse le grand
+  ecran en verre au fond.
+- [ ] SECRET BONUS 18/16 - THE LAB : traverse l'ecran casse et valide le
+  secteur. Ce bonus peut rattraper un secret officiel oublie.
+- Le compteur de Completionist doit maintenant etre 16/16 ou plus.
+
+12. ALIEN SHIP, ENTITY ET MEILLEURE FIN
+
+12.1 POINT DE NON-RETOUR
+
+- Fais les achats de soins, d'armures et de munitions avant de continuer.
+- Sauvegarde dans SLOT C si les 16 secrets, les 10 stats et les 3 talismans
+  sont valides.
+- Sauvegarde une seconde fois dans SLOT D juste avant d'activer le dispositif
+  rouge de la salle verte basse de The Lab.
+- Dans la salle verte, active le dispositif rouge, ouvre le passage et descends
+  l'ascenseur vers Alien Ship. Il n'y a plus de retour pratique apres cette
+  activation.
+
+12.2 TRAVERSEE FINALE
+
+- Dans Alien Ship, prends les fournitures de la premiere salle a gauche.
+- Active le bouton oppose pour ouvrir la route et eliminer les ennemis qui
+  apparaissent.
+- Dans la grande salle suivante, ne cherche pas a tout nettoyer : vise la
+  section de mur noircie, prends le passage, puis descends l'ascenseur.
+- Suis le couloir vers Entity's Lair et garde la Sigil equipee.
+
+12.3 ENTITY - CONSIGNE SANS SPOILER
+
+- Fais le tour du niveau superieur de l'arene pour garder une distance constante.
+- Utilise la Sigil sur les cibles qui apparaissent. Ne change pas d'arme pendant
+  la phase Spectre.
+- Les soins et les armures de The Lab font la difference : si la vie descend,
+  reste en mouvement plutot que de chercher une couverture basse.
+- Termine le combat sans mourir sur la route de collecte.
+- [ ] Galiant Hero : meilleure fin obtenue.
+
+13. BRANCHES DE FIN ET SUCCES RESTANTS
+
+Cette section donne seulement les actions de branche. Elle ne raconte pas la
+raison du choix ni le contenu des cinematics.
+
+13.1 TRUST NO ONE + WITHOUT HOPE
+
+- Charge SLOT B, juste avant le choix Oracle/Macil.
+- Suis la route qui accepte la parole de l'Oracle et conduit au combat contre
+  Macil. La sauvegarde de collecte n'est pas utilisee pour cette branche.
+- Reviens a Front Base, parle a Macil et lance le combat.
+- Elimine Macil, puis equipe la Sigil pour la phase Spectre.
+- [ ] Trust No One : Macil vaincu.
+- Retourne chez l'Oracle et utilise le teleporter vers Proving Grounds.
+- Traverse Proving Grounds avec la meme logique de teleporters que dans la
+  section 11, puis vaincs le Loremaster et sa phase Spectre.
+- Reviens vers l'Oracle, termine cette confrontation et recupere les fragments.
+- Entre dans Alien Ship et termine l'Entity sans mourir.
+- [ ] Without Hope : fin intermediaire obtenue.
+- [ ] So Much for Prognostication : si le succes n'etait pas apparu sur la
+  route principale, il se valide ici apres l'Oracle.
+
+13.2 EXTINCTION
+
+- Charge SLOT D, avant l'activation du dispositif rouge et l'acces a Alien Ship.
+- Entre dans Alien Ship et rejoins Entity's Lair.
+- Pour obtenir la pire fin, ne termine pas le combat : laisse l'Entity te
+  vaincre.
+- [ ] Extinction : pire fin obtenue.
+- Recharge ensuite SLOT C pour conserver la sauvegarde de la meilleure fin.
+
+13.3 UNSTOPPABLE - BLOODBATH
+
+- Lance une nouvelle campagne en Bloodbath. La difficulte est a choisir au
+  lancement ; une sauvegarde Rookie ne se transforme pas en Bloodbath.
+- Fais la route de la meilleure fin : defends Macil au choix Oracle/Macil,
+  combats l'Oracle et garde la Sigil pour les phases Spectre.
+- Utilise la route furtive de Power Station seulement si tu veux reprendre How
+  Hard Can It Be? ; elle n'est pas requise pour Unstoppable.
+- Achete les soins a chaque retour au Medic, ne gaspille pas les bolts poison
+  contre les robots et evite les combats qui ne bloquent pas la progression.
+- Dans The Lab, garde une reserve de missiles et de medkits pour la route finale.
+- Termine l'Entity vivant avec la meilleure branche.
+- [ ] Unstoppable : campagne terminee avec la meilleure fin en Bloodbath.
+
+14. MODE MULTIJOUEUR - CAPTURE THE CHALICE
+
+- Ouvre le mode Capture the Chalice depuis le menu multijoueur.
+- Le succes demande de gagner un vrai match multijoueur dans ce mode. Une
+  victoire de campagne, un entrainement ou une simple partie lancee ne suffit
+  pas.
+- Apprends la position de la chalice, protege le porteur et profite des trois
+  cartes du mode Veteran Edition.
+- Si le lobby est vide, organise une partie avec un ami ou une session Steam
+  communautaire. Ne supprime pas la sauvegarde de campagne pour ce succes.
+- [ ] Grab the Fancy Cup : match Capture the Chalice gagne.
+
+15. NETTOYAGE FINAL ET VALIDATION
+
+15.1 COMPTEURS A CONTROLER
+
+- Secrets officiels : Front Base, Town, Prison, deux Power Station, Sewers,
+  trois Audience Chamber, Programmer's Keep, Abandoned Front Base, Borderlands,
+  The Bailey, Ruined Temple, deux Conversion Chapel = 16.
+- Secrets bonus : Factory: Manufacturing et The Lab. Ils peuvent depasser
+  16/16 et servent de rattrapage si un secteur a ete oublie.
+- Stats : 10 distributions Stamina/Accuracy, dont les bonus automatiques de
+  Training Facility, Mines, Conversion Chapel et Loremaster.
+- Talismans : Blue dans Temple of the Oracle, Green dans Ruined Temple, Red
+  dans Factory: Production.
+- Fins : meilleure vivante sur route Oracle vaincu, intermediaire vivante sur
+  route Macil vaincu, pire en mourant a l'Entity.
+- Demo : Tourist et Hardcore Warm-up.
+- Online : Grab the Fancy Cup.
+
+15.2 CHECKLIST FINALE - 20 SUCCES STEAM
+
+- [ ] 01 - Code Monkey : vaincre le Programmer.
+- [ ] 02 - Silence is Golden : terminer la mission de Rowan.
+- [ ] 03 - Top of the class : terminer la Training Facility.
+- [ ] 04 - Completionist : decouvrir tous les secteurs secrets dans une seule sauvegarde.
+- [ ] 05 - Bish-Slapped : vaincre le Bishop.
+- [ ] 06 - So Much for Prognostication : vaincre l'Oracle.
+- [ ] 07 - Trust No One : vaincre Macil.
+- [ ] 08 - Mystical Doubletalk : vaincre le Loremaster.
+- [ ] 09 - Without Hope : terminer le jeu avec la fin intermediaire.
+- [ ] 10 - Galiant Hero : terminer le jeu avec la meilleure fin.
+- [ ] 11 - Unstoppable : terminer le jeu avec la meilleure fin en Bloodbath.
+- [ ] 12 - Fully Amphed : obtenir toutes les ameliorations Stamina et Accuracy.
+- [ ] 13 - Berserk Reborn : collecter les trois talismans.
+- [ ] 14 - Spontaneous Combustion : enflammer un Acolyte et propager le feu a trois autres.
+- [ ] 15 - Lending a Hand : liberer les prisonniers.
+- [ ] 16 - How Hard Can It Be? : trouver le Power Crystal sans alarme.
+- [ ] 17 - Extinction : terminer le jeu avec la pire fin.
+- [ ] 18 - Grab the Fancy Cup : gagner un match Capture the Chalice.
+- [ ] 19 - Tourist : terminer la demo Trust No One sur n'importe quelle difficulte.
+- [ ] 20 - Hardcore Warm-up : terminer la demo Trust No One en Bloodbath sous six minutes.
+
+VERIFICATION FINALE
+
+- Le profil Steam doit afficher 20 succes sur l'AppID 317040.
+- La sauvegarde C doit conserver les compteurs de secrets, de stats et de
+  talismans. Ne la remplace pas par une branche de fin.
+- Le nombre de cases de cette fiche doit rester 20 dans la section finale.
+- Les deux fins de combat final doivent etre obtenues en rechargeant les slots,
+  pas en recommencant la collection.
+- Les secrets bonus de Factory: Manufacturing et The Lab sont conserves comme
+  validation de secours, meme si Completionist est deja tombe.
+
+SOURCES DE VERIFICATION
+
+- Liste officielle Steam et 20 succes :
+  https://steamcommunity.com/stats/317040/achievements
+- Secrets officiels, compteurs et stats :
+  https://steamcommunity.com/sharedfiles/filedetails/?id=356052193
+- Route Power Station et How Hard Can It Be? :
+  https://doom.fandom.com/wiki/MAP04%3A_Power_Station_%28Strife%29
+- Liste des 10 augmentations :
+  https://doom.fandom.com/wiki/All_secrets_and_stats_increases_in_Strife%3A_Veteran_Edition
+- Trois talismans et Factory: Production :
+  https://steamcommunity.com/sharedfiles/filedetails/?id=356534655
+- Branches des fins :
+  https://steamcommunity.com/app/317040/discussions/0/626329820740160363/
+- Parcours des missions et de la demo, recoupe avec les sources ci-dessus :
+  https://gamefaqs.gamespot.com/pc/198834-strife-trust-no-one/faqs/25482
+
+FIN DU GUIDE
