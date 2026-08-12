@@ -19,4 +19,12 @@ Les fichiers sont séparés par usage afin de faciliter le choix avant intégrat
 - `cards/` : illustrations de fonctionnalités ;
 - `social/` : aperçus Open Graph et couverture verticale.
 
-Les fichiers sont des candidats. Rien n’est branché dans l’interface pour le moment.
+Les fichiers non listés dans la section d’intégration restent disponibles comme candidats.
+
+## Intégration actuelle
+
+- wordmark principal : `logo/game-note-logo-ink-script-header.png` ;
+- symbole de navigation : `logo/game-note-symbol-route.png` ;
+- icônes PWA : `icons/game-note-app-icon-192.png` et `icons/game-note-app-icon-512.png` ;
+- bandeau d’accueil : `banners/game-note-hero-ink-route.png` ;
+- carte sociale principale : `social/game-note-og-dark.png`.

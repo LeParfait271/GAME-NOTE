@@ -132,31 +132,20 @@ button {
   gap: 12px;
 }
 
-.brand > span:last-child {
+.brand-content {
   display: grid;
   gap: 3px;
 }
 
-.wordmark {
-  display: inline-flex;
-  align-items: baseline;
-  gap: 3px;
-  color: var(--navy);
-  font-family: Georgia, "Times New Roman", serif;
-  font-size: 1.08rem;
-  font-style: italic;
-  letter-spacing: -0.06em;
-  line-height: 1;
-}
-
-.wordmark span {
-  font-style: normal;
-  font-weight: 900;
-}
-
-.wordmark em {
-  color: var(--coral);
-  font-weight: 500;
+.brand-logo {
+  display: block;
+  width: auto;
+  max-width: min(230px, 42vw);
+  height: clamp(48px, 5vw, 66px);
+  object-fit: contain;
+  object-position: left center;
+  border-radius: 7px;
+  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.14);
 }
 
 .brand small {
@@ -166,62 +155,85 @@ button {
   letter-spacing: 0.04em;
 }
 
-.brand-mark {
+.brand-symbol {
   position: relative;
+  flex: 0 0 43px;
   display: inline-grid;
   width: 43px;
   height: 43px;
-  place-items: center;
   overflow: hidden;
   border: 1px solid color-mix(in srgb, var(--feature-text) 22%, transparent);
   border-radius: 13px 13px 13px 4px;
   background: var(--feature-ink);
-  color: var(--feature-text);
-  font-family: Georgia, "Times New Roman", serif;
-  font-size: 0.95rem;
-  font-style: italic;
-  font-weight: 700;
-  letter-spacing: -0.13em;
   box-shadow: 4px 4px 0 var(--coral);
-  transform: none;
 }
 
-.brand-mark::after {
-  position: absolute;
-  right: 8px;
-  bottom: 7px;
-  width: 6px;
-  height: 6px;
-  border: 0;
-  border-radius: 50%;
-  background: var(--coral);
-  content: "";
+.brand-symbol img {
+  display: block;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
 }
 
-.brand-mark::before {
-  position: absolute;
-  top: 10px;
-  right: 8px;
-  left: 8px;
-  height: 1px;
-  background: color-mix(in srgb, var(--feature-text) 52%, transparent);
-  content: "";
-  transform: rotate(-13deg);
+.visual-hero {
+  position: relative;
+  display: flex;
+  width: min(1240px, calc(100% - 56px));
+  min-height: clamp(300px, 34vw, 430px);
+  align-items: center;
+  margin: 22px auto 0;
+  overflow: hidden;
+  border: 1px solid color-mix(in srgb, var(--feature-text) 18%, var(--line));
+  border-radius: 24px 24px 24px 6px;
+  background-color: var(--feature-ink);
+  background-image:
+    linear-gradient(90deg, rgba(7, 18, 25, 0.94) 0%, rgba(7, 18, 25, 0.78) 38%, rgba(7, 18, 25, 0.12) 82%),
+    url("/images/banners/game-note-hero-ink-route.png");
+  background-position: center;
+  background-size: cover;
+  box-shadow: var(--shadow);
 }
 
-.brand-mark > span {
+.visual-hero-copy {
   position: relative;
   z-index: 1;
+  max-width: 680px;
+  padding: clamp(32px, 5vw, 72px);
 }
 
-.brand-mark > i {
-  position: absolute;
-  right: 6px;
-  top: 6px;
-  width: 8px;
-  height: 8px;
-  border: 1px solid var(--coral);
-  border-radius: 50%;
+.visual-hero-kicker {
+  margin: 0 0 15px;
+  color: var(--coral);
+  font-size: 0.65rem;
+  font-weight: 900;
+  letter-spacing: 0.2em;
+}
+
+.visual-hero h1 {
+  max-width: 520px;
+  margin: 0;
+  color: var(--feature-text);
+  font-size: clamp(2.5rem, 5.4vw, 5.1rem);
+  letter-spacing: -0.08em;
+  line-height: 0.92;
+}
+
+.visual-hero h1 em {
+  display: block;
+  color: var(--coral);
+  font-style: normal;
+}
+
+.visual-hero-copy > p:not(.visual-hero-kicker) {
+  max-width: 390px;
+  margin: 22px 0 26px;
+  color: color-mix(in srgb, var(--feature-text) 78%, transparent);
+  font-size: 0.84rem;
+  line-height: 1.7;
+}
+
+.visual-hero-action {
+  gap: 16px;
 }
 
 .offline-banner {
@@ -411,7 +423,7 @@ button {
   margin-bottom: 37px;
 }
 
-.section-heading h1 {
+.section-heading h2 {
   margin: 0;
   color: var(--navy);
   font-size: clamp(2.45rem, 4.7vw, 4.2rem);
@@ -1779,18 +1791,30 @@ button.reader-neighbor:focus-visible {
     gap: 12px;
   }
 
-  .wordmark {
-    font-size: 0.91rem;
-  }
-
   .brand small {
     font-size: 0.51rem;
   }
 
-  .brand-mark {
+  .brand-symbol {
     width: 38px;
     height: 38px;
-    font-size: 0.85rem;
+    flex-basis: 38px;
+  }
+
+  .brand-logo {
+    height: 48px;
+    max-width: 42vw;
+  }
+
+  .visual-hero {
+    min-height: 430px;
+    align-items: flex-start;
+    background-position: 66% center;
+  }
+
+  .visual-hero-copy {
+    max-width: 100%;
+    padding: 34px 26px;
   }
 
   .section-block,
@@ -1808,7 +1832,7 @@ button.reader-neighbor:focus-visible {
     gap: 22px;
   }
 
-  .section-heading h1 {
+  .section-heading h2 {
     font-size: 3rem;
   }
 

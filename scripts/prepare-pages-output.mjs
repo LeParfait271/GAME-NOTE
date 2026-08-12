@@ -17,10 +17,18 @@ if (guideNames.length === 0) throw new Error("Aucun guide TXT n'est disponible p
 
 const guideUrls = guideNames.map((name) => `/guides/${name}`);
 const indexHtml = await readFile(join(OUTPUT_DIR, "index.html"), "utf8");
-const staticUrls = Array.from(
-  indexHtml.matchAll(/(?:src|href)="(\/_next\/static\/[^"?#]+)"/g),
-  (match) => match[1],
-).filter((url, index, urls) => urls.indexOf(url) === index);
+const brandAssetUrls = [
+  "/images/logo/game-note-logo-ink-script-header.png",
+  "/images/logo/game-note-symbol-route.png",
+  "/images/icons/game-note-app-icon-192.png",
+];
+const staticUrls = [...new Set([
+  ...Array.from(
+    indexHtml.matchAll(/(?:src|href)="(\/_next\/static\/[^"?#]+)"/g),
+    (match) => match[1],
+  ),
+  ...brandAssetUrls,
+])];
 const source = await readFile(OUTPUT_SERVICE_WORKER, "utf8");
 const hash = createHash("sha256").update(indexHtml).update(source);
 for (const name of guideNames) hash.update(name).update("\0").update(await readFile(join(GUIDE_DIR, name)));

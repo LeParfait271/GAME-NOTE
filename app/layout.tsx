@@ -18,17 +18,24 @@ export const metadata: Metadata = {
     type: "website",
     url: "/",
     siteName: "Game Note",
-    images: [{ url: "/og.png", alt: "Game Note — une partie, une route, pas un oubli" }],
+    images: [
+      { url: "/images/social/game-note-og-dark.png", alt: "Game Note — une partie, une route, pas un oubli" },
+      { url: "/og.png", alt: "Game Note — une partie, une route, pas un oubli" },
+    ],
   },
   twitter: {
     card: "summary_large_image",
     title: "Game Note — une partie, une route, pas un oubli",
     description: "Le carnet de route sans spoiler pour avancer dans le bon ordre.",
-    images: ["/og.png"],
+    images: ["/images/social/game-note-og-dark.png"],
   },
   robots: { index: true, follow: true },
   icons: {
-    icon: "/favicon.svg",
+    icon: [
+      { url: "/images/icons/game-note-app-icon-192.png", sizes: "192x192", type: "image/png" },
+      { url: "/favicon.svg", type: "image/svg+xml" },
+    ],
+    shortcut: ["/images/icons/game-note-app-icon-192.png"],
   },
 };
 

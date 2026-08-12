@@ -3263,15 +3263,19 @@ export default function Home() {
       </a>
       <header className="topbar">
         <a className="brand" href={readerMode ? "/" : "#guides"} aria-label="Game Note, bibliothèque">
-          <span className="brand-mark" aria-hidden="true">
-            <span>GN</span>
-            <i />
+          <span className="brand-symbol" aria-hidden="true">
+            {/* eslint-disable-next-line @next/next/no-img-element */}
+            <img src="/images/logo/game-note-symbol-route.png" alt="" width={1254} height={1254} />
           </span>
-          <span>
-            <strong className="wordmark">
-              <span>GAME</span>
-              <em>NOTE</em>
-            </strong>
+          <span className="brand-content">
+            {/* eslint-disable-next-line @next/next/no-img-element */}
+            <img
+              className="brand-logo"
+              src="/images/logo/game-note-logo-ink-script-header.png"
+              alt=""
+              width={1536}
+              height={540}
+            />
             <small>carnet de route · sans détour</small>
           </span>
         </a>
@@ -3296,11 +3300,25 @@ export default function Home() {
       ) : null}
 
       {!readerMode ? <>
+      <section className="visual-hero" aria-labelledby="visual-hero-title">
+        <div className="visual-hero-copy">
+          <p className="visual-hero-kicker">GAME NOTE / ARCHIVE</p>
+          <h1 id="visual-hero-title">
+            Le bon repère <em>au bon moment.</em>
+          </h1>
+          <p>
+            Des routes chronologiques, lisibles et sans spoiler pour avancer sans perdre le fil.
+          </p>
+          <a className="button button-primary visual-hero-action" href="#guides">
+            Ouvrir la bibliothèque <span aria-hidden="true">↓</span>
+          </a>
+        </div>
+      </section>
       <section className="section-block library-page" id="guides">
         <div className="section-heading">
           <div>
             <p className="kicker"><span>GAME NOTE</span><span>BIBLIOTHÈQUE</span></p>
-            <h1>Mes soluces.</h1>
+            <h2>Mes soluces.</h2>
           </div>
           <p>
             Recherche un jeu, ouvre sa soluce et avance dans le bon ordre.

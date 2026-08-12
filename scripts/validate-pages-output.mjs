@@ -29,8 +29,15 @@ if (!redirects.includes("/index.html / 301")) fail("redirection canonique absent
 
 const serviceWorker = await readFile(join(OUTPUT_DIR, "service-worker.js"), "utf8");
 if (serviceWorker.includes("__GAME_NOTE_CACHE_NAME__")) fail("service worker non préparé");
-const expectedStaticUrls = Array.from(html.matchAll(/(?:src|href)="(\/_next\/static\/[^"?#]+)"/g), (match) => match[1])
-  .filter((url, index, urls) => urls.indexOf(url) === index);
+const expectedBrandAssets = [
+  "/images/logo/game-note-logo-ink-script-header.png",
+  "/images/logo/game-note-symbol-route.png",
+  "/images/icons/game-note-app-icon-192.png",
+];
+const expectedStaticUrls = [...new Set([
+  ...Array.from(html.matchAll(/(?:src|href)="(\/_next\/static\/[^"?#]+)"/g), (match) => match[1]),
+  ...expectedBrandAssets,
+])];
 const staticUrlsMatch = serviceWorker.match(/const STATIC_URLS = (\[[\s\S]*?\]);/);
 if (!staticUrlsMatch || JSON.stringify(JSON.parse(staticUrlsMatch[1])) !== JSON.stringify(expectedStaticUrls)) fail("assets statiques hors-ligne incomplets");
 const guideUrlsMatch = serviceWorker.match(/const GUIDE_URLS = (\[[\s\S]*?\]);/);
