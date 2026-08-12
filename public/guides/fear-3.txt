@@ -1,265 +1,1579 @@
 F.E.A.R. 3
-GUIDE CHRONOLOGIQUE 100 % STEAM - SANS SPOILER
+FICHE PREMIUM - GUIDE CHRONOLOGIQUE 100 % STEAM
+SANS SPOILER NARRATIF
 
-Version de travail : 11 aout 2026
+Version de travail : 12 aout 2026
+Jeu Steam : F.E.A.R. 3
+AppID : 21100
+50 succes Steam
 
-Ce parcours couvre les 50 succes Steam du jeu de base. Il separe la campagne,
-les defis de score, les Alma Dolls, les modes cooperatifs et les modes en
-ligne. Les noms d'intervalles servent uniquement de reperes de navigation :
-aucune mort, identite, trahison, fin ou consequence narrative n'est devoilee.
+Cette fiche couvre la campagne, les huit Alma Dolls, les scores par intervalle,
+les Psychic Links necessaires, les deux personnages, tous les modes annexes,
+les defis de combat et les 50 succes Steam. Les noms d'intervalles, d'armes,
+de cartes et de defis sont conserves quand ils servent de reperes dans les
+menus.
 
-OBJECTIF
+La fiche est sans spoiler narratif : elle indique les lieux, les actions,
+les ennemis utiles a un objectif et les conditions de jeu, mais ne raconte
+aucune revelation, aucune identite, aucun choix de fin et aucune consequence.
 
-[ ] 50/50 succes Steam.
-[ ] 8/8 Alma Dolls, une par intervalle.
-[ ] 8 seuils de score atteints.
-[ ] Campagne terminee dans n'importe quelle difficulte.
-[ ] Campagne terminee en INSANE.
-[ ] Defis de combat et de grade termines.
-[ ] Contractions, Soul King et succes cooperatifs nettoyes.
+======================================================================
+00. COMMENT UTILISER CETTE FICHE
+======================================================================
 
-PERIMETRE STEAM
+Le jeu melange quatre suivis differents :
 
-- AppID Steam : 21100.
-- La page Steam officielle compte 50 succes.
-- Le solo couvre les 8 intervalles, les scores, les defis, les dolls et les
-  actions de combat.
-- Les succes de Contractions, Soul King, les revives et les deux succes
-  d'aide Pointman/Fettel demandent le mode coop ou multijoueur. Ils ne sont
-  pas remplacables par une partie solo.
-- Les scores de mission sont cumulatifs avec les defis : garde un objectif de
-  score par intervalle au lieu de rusher la sortie.
+- la progression de campagne, repartie en huit Intervals ;
+- les defis de score, qui donnent les points et les rangs ;
+- les objets de collection, avec une Alma Doll par Interval et des Psychic
+  Links repartis dans les zones ;
+- les modes cooperatifs et Soul King, qui portent plusieurs succes specifiques.
 
-GARDE-FOUS ET MISSABLES
+La route principale ci-dessous est l'ordre de progression naturel. Les lignes
+"A faire avant de partir" sont les verifications a effectuer avant de franchir
+le dernier checkpoint d'un Interval. Les defis peuvent etre nettoyes ensuite
+par Selection d'Interval : il n'est pas necessaire de recommencer toute la
+campagne pour un score ou une action ratee.
 
-- Une seule Alma Doll apparait par intervalle et sa position est aleatoire,
-  sauf la premiere dans Prison. Si la doll n'est pas dans le premier repere,
-  redemarre l'intervalle : le jeu peut tirer un autre emplacement.
-- Ne valide pas la fin d'un intervalle avant d'avoir fouille les zones de doll
-  et tente le score indique. Le menu de selection d'intervalle permet de
-  refaire uniquement ce qui manque.
-- Pour A Precursor, fais la salle de poker de Prison avant de continuer :
-  active le ralenti et touche les trois cibles a la tete pendant la meme
-  fenetre.
-- Pour State-of-the-Art. Bang, Bang!, conserve un fusil de sniper et ne
-  change pas de cible entre les dix tirs a la tete consecutifs.
-- Pour Extremist, utilise un intervalle court en INSANE, sans recharger un
-  checkpoint et sans tomber en Last Stand. Fais une sauvegarde manuelle avant
-  le lancement de l'essai, puis traite chaque arene comme une run unique.
-- Les objectifs de Soul King et Contractions sont a faire dans un groupe
-  coordonne ; ne compte pas sur une partie publique pour un succes precis.
+Regle importante pour les defis : laisse le jeu atteindre un autosave apres
+la notification du defi. Quitter juste apres une action, revenir au menu ou
+recharger un checkpoint peut faire perdre l'enregistrement du defi.
 
-ORDRE RECOMMANDE
+======================================================================
+01. PLAN DE 100 % ET ORDRE DES RUNS
+======================================================================
 
-1. Premiere campagne en Normal avec les dolls et les actions faciles.
-2. Selection d'intervalle pour les seuils de score et le nettoyage des defis.
-3. Campagne INSANE, de preference avec Pointman si tu joues seul.
-4. Session coop Pointman/Fettel et Contractions.
-5. Soul King et derniers objectifs de grade.
+RUN A - CAMPAGNE POINTMAN, DIFFICULTE RECRUIT OU NORMAL
 
-ROUTE CHRONOLOGIQUE DE CAMPAGNE
+- Termine les huit Intervals avec Pointman.
+- Ramasse la doll de chaque Interval avant la derniere arene.
+- Fais A Precursor dans la salle de poker de Prison.
+- Fais Yo, Adrian! dans Store ou Ward des que tu atteins la zone appropriee.
+- Travaille les tirs de tete, les coups de pied, les Psychic Links et les
+  armes, mais ne compromets pas la progression pour un defi difficile.
+- Garde les seuils de score pour une selection de mission dediee si le score
+  de la premiere campagne est inferieur a l'objectif.
+- Cette run debloque les selections d'Interval et Fettel pour les chapitres
+  deja termines.
 
-INTERVALLE 01 - PRISON
+RUN B - FETTEL, SELECTION D'INTERVAL
 
-- Cherche la doll sous l'escalier, juste apres l'ouverture de la serrure
-  electrique. C'est le seul emplacement fixe de la campagne.
-- Dans la salle de poker, ne quitte pas la zone avant d'avoir obtenu A
-  Precursor : active le ralenti, aligne les trois tetes et ne gaspille pas la
-  fenetre sur un autre ennemi.
-- Pour Prison Impossible, atteins le seuil de score de l'intervalle :
-  [ ] 95 000 points.
-- Profite des premiers combats pour lancer Slow-Mo, faire des tirs a la tete,
-  utiliser les coups de pied et commencer les liens psychiques sur les corps.
+- Rejoue chaque Interval avec Fettel apres sa liberation dans le menu.
+- Possede chaque type d'ennemi possedable au moins une fois.
+- Fais les defis de possession, Fettel Blast, Burnout et temps de possession.
+- Pour les defis de mode, laisse les groupes d'ennemis vivre assez longtemps
+  pour terminer les compteurs, puis atteins un autosave.
 
-INTERVALLE 02 - SLUMS
+RUN C - INSANE
 
-- La doll est aleatoire. Verifie d'abord le petit espace pres de la cabane,
-  a cote de la zone ou arrive le vehicule blinde.
-- Si elle n'est pas la, inspecte la piece avec le trou dans le mur, apres la
-  recuperation des grenades electriques et avant de retourner dans la rue.
-- [ ] Get To The Chopper valide par la progression de l'intervalle.
-- Seuil a viser pour Magna Slum Laude : [ ] 85 000 points.
-- Garde une cible vivante pour les tirs de sniper et les liens psychiques ;
-  les cadavres de cette mission peuvent etre utilises pour commencer les 100
-  liens sans modifier la route.
+- Termine d'abord la campagne une fois : INSANE se debloque ensuite.
+- Lance une nouvelle campagne complete en INSANE avec le meme personnage.
+- Ne change pas de difficulte, de personnage ou de progression entre deux
+  Intervals pour eviter les problemes de validation de Man Mode.
+- Fais Extremist sur un Interval court, avec une sauvegarde dediee et sans
+  rechargement de checkpoint, sans mort en Last Stand.
+- Ne cherche pas a faire les dolls ou les gros defis pendant cette run si cela
+  augmente le risque de mort : ils sont nettoyables par Selection d'Interval.
 
-INTERVALLE 03 - STORE
+RUN D - COOP POINTMAN / FETTEL
 
-- Dans l'entrepot, monte les rayonnages jusqu'au niveau superieur et inspecte
-  le secteur des televiseurs.
-- Dans la section jardin, regarde derriere le rideau et sur les rayonnages
-  accessibles par l'echelle. Un seul des points possibles contient la doll.
-- Pour Through the Haystack, conserve le multiplicateur de score et elimine
-  les ennemis rapproches avec des tirs propres plutot qu'en reculant hors de
-  la zone.
-- Seuil de Cannibal Run : [ ] 95 000 points.
-- Profite de cette mission pour faire des coups de pied et des tirs de sniper;
-  recharge la selection d'intervalle si une serie est interrompue.
+- La campagne coop peut se faire en ecran partage ou en ligne.
+- Faites d'abord Little Brother's Helper : Pointman tue les ennemis suspendus.
+- Inversez ensuite les roles pour Big Brother's Helper : Fettel suspend et
+  Pointman execute.
+- Alternez les revives pour atteindre 50 au total.
+- Faites les defis cooperatifs avec le meme partenaire et atteignez un autosave.
 
-INTERVALLE 04 - SUBURBS
+RUN E - CONTRACTIONS ET SOUL KING
 
-- Verifie le terrain de basket a cote du mech avant de monter dans celui-ci.
-- Si la doll n'y est pas, inspecte le garage a l'arriere du batiment, apres le
-  champ de transformateurs. La doll peut etre dans l'un ou l'autre point.
-- Pour House Arrest, vise [ ] 105 000 points.
-- Pour Yo, Adrian!, profite de la zone ouverte : place-toi sur une trajectoire
-  sure, attends que deux ennemis soient regroupes, puis execute le slide kick
-  en Slow-Mo. Ce succes doit compter deux victimes avec un seul coup.
+- Contractions : une partie pour les vagues sans caisse et le brouillard, une
+  partie facile pour les caisses, puis une partie longue pour la vague 20.
+- Soul King : une partie de cinq manches pour Unstoppable!, Soul Gatherer et
+  Soul Hoarder, puis les manches necessaires pour Monarch.
+- Pour les objectifs de score, le partenaire peut rester passif sur une partie
+  privee, mais un second joueur facilite nettement les objectifs cooperatifs.
 
-INTERVALLE 05 - TOWER
+======================================================================
+02. GARDE-FOUS ABSOLUS, MANQUABLES ET BUGS DE VALIDATION
+======================================================================
 
-- Les apparitions de doll sont aleatoires dans les rues et les interieurs de
-  cette mission. Fouille chaque piece avant de franchir un portail de zone,
-  en commencant par le premier batiment puis les abords du checkpoint.
-- Les emplacements de repli les plus frequents sont le garage et les espaces
-  lateraux en hauteur ; regarde derriere les voitures, caisses et debris.
-- Seuil de Point Taken : [ ] 110 000 points.
-- Cette mission est pratique pour atteindre le grade 10 puis le grade 21 :
-  conserve les multiplicateurs et valide les defis secondaires qui s'affichent.
+ALMA DOLLS
 
-INTERVALLE 06 - BRIDGE
+- Il y a exactement une doll valide par Interval, donc 8/8 pour Doll Collector.
+- Les Intervals 02 a 08 tirent une position parmi plusieurs points possibles.
+- La position est decidee au lancement ou au redemarrage de l'Interval, pas par
+  une simple recharge de checkpoint fiable.
+- Si toutes les positions indiquees sont vides, quitte vers la selection et
+  relance l'Interval complet. Ne fais pas seulement Resume Checkpoint.
+- En coop, ramasse la doll avant ton partenaire pour obtenir le credit de la
+  collecte et le defi Mommy! du joueur concerne.
+- Apres une collecte, continue jusqu'a l'autosave suivant avant de quitter.
 
-- Inspecte le chariot de transport au debut de l'intervalle, avant de suivre
-  la route principale.
-- Dans la place avec le mech sous bouclier energetique, longe le batiment du
-  panneau de commande et les projecteurs portatifs.
-- Quand tu controles le mech, franchis le premier pont puis tourne a gauche
-  avant la tour de garde ; le bord du pont peut contenir la doll.
-- Ces emplacements sont aleatoires : si les trois zones sont vides, relance
-  l'intervalle au lieu d'aller jusqu'au prochain point de controle.
-- Seuil de Crossing Over : [ ] 70 000 points.
+A PRECURSOR
 
-INTERVALLE 07 - PORT
+- Se fait uniquement dans Interval 01 - Prison.
+- Dans la salle de poker, les trois cibles doivent mourir par tir a la tete
+  pendant la meme fenetre de Slow-Mo.
+- Ne tire pas sur une autre cible avant les trois tetes et ne quitte pas la
+  salle avant la notification.
 
-- Apres l'ascenseur avec les corps, descends et prends la porte a droite entre
-  les cabines telephoniques : c'est un emplacement possible.
-- Depuis le meme ascenseur, prends les escaliers puis va a droite vers le
-  restaurant Sophie’s Pizza : inspecte l'interieur avant de continuer.
-- Seuil de Point Authority : [ ] 110 000 points.
-- Fais ici les dix tirs de sniper consecutifs si tu ne les as pas encore. La
-  serie est validee seulement si aucun tir rate ou touche un autre emplacement
-  que la tete entre les victimes.
+YO, ADRIAN!
 
-INTERVALLE 08 - WARD
+- Le texte du succes est volontairement vague : il faut frapper un objet qui
+  peut etre repete, pas tuer des ennemis avec un slide-kick.
+- Dans Store, frappe plusieurs fois une carcasse dans la zone de chambre froide.
+- Dans Ward, frappe plusieurs fois un sac de frappe dans la salle de gym.
+- Les deux endroits conviennent ; Ward est le nettoyage le plus lisible.
 
-- Avant d'activer le premier objectif de la zone centrale, fouille le hall,
-  les petites pieces laterales et la salle d'observation. Deux ou trois points
-  peuvent etre tires aleatoirement ; un seul contient la doll.
-- Garde la doll pour la fin du nettoyage de la selection de chapitre si tu
-  veux eviter de traverser la grande arene deux fois.
-- Le score Dream Score demande [ ] 50 000 points.
-- Yo, Adrian!, Doll Collector et Mission... accomplished? peuvent se terminer
-  sur cette derniere selection d'intervalle.
+STATE-OF-THE-ART. BANG, BANG!
 
-CAMPAGNE ET DEFIS DE COMBAT
+- Il faut dix eliminations consecutives par tir a la tete avec un fusil de
+  precision. Un tir rate ou un tir au corps casse la serie.
+- La zone la plus sure est Suburbs, apres la sequence de cave, quand un fusil
+  de precision est disponible sur une passerelle.
+- Joue en Recruit, reste a couvert, laisse les cibles sortir une par une et
+  utilise Slow-Mo seulement lorsque la tete est deja alignee.
 
-- [ ] Mission... accomplished? : terminer les 8 intervalles dans n'importe
-  quelle difficulte.
-- [ ] Man Mode : terminer la campagne en INSANE.
-- [ ] Earl of Pain : 1 000 eliminations, tous modes confondus.
-- [ ] God Among Men : 250 eliminations pendant Slow-Mo.
-- [ ] Spiritually Attuned : 100 Psychic Links, en partage ou en vol.
-- [ ] Almost Halfway : atteindre le grade 10.
-- [ ] You’ve got the Touch! : atteindre le grade 21.
-- [ ] That's a lot of Zeros : obtenir 250 000 points cumules dans les defis.
-- [ ] Supreme Challenger : terminer 500 defis cumules de toutes categories.
-- [ ] Completionist : terminer chaque defi au moins une fois.
-- [ ] Insider Trading : posseder chaque type d'ennemi possedable.
-- [ ] Art Collector : empaler 100 ennemis avec le Penetrator ou les couteaux
-  Leaper.
-- [ ] No can defense! : 100 eliminations par Jump Kick ou Slide Kick.
-- [ ] Footy Foul : tuer deux ennemis avec un seul Slide Kick en Slow-Mo.
-- [ ] Head Crab Removal : 20 eliminations au pied-de-biche.
-- [ ] State-of-the-Art. Bang, Bang! : dix tirs de sniper a la tete consecutifs.
-- [ ] A Precursor : les trois tirs a la tete de la salle de poker de Prison.
-- [ ] Yo, Adrian! : le double Slide Kick en Slow-Mo dans Suburbs.
-- [ ] Doll Collector : une Alma Doll dans chacun des 8 intervalles.
+EXTREMIST ET MAN MODE
 
-SCORES A VALIDER
+- Extremist exige un Interval termine en INSANE sans recharge de checkpoint et
+  sans passage en Last Stand. Une mort normale qui recharge le checkpoint
+  invalide l'essai.
+- Fais-le dans Prison ou Store, selon ton aisance, en eliminant calmement les
+  groupes et en conservant les grenades pour les blindes.
+- Man Mode demande une campagne complete en INSANE ; ne le confonds pas avec
+  un simple Interval en INSANE.
 
-- [ ] Up The River : Intervalle 01 - 95 000.
-- [ ] Magna Slum Laude : Intervalle 02 - 85 000.
-- [ ] Cannibal Run : Intervalle 03 - 95 000.
-- [ ] House Arrest : Intervalle 04 - 105 000.
-- [ ] Point Taken : Intervalle 05 - 110 000.
-- [ ] Crossing Over : Intervalle 06 - 70 000.
-- [ ] Point Authority : Intervalle 07 - 110 000.
-- [ ] Dream Score : Intervalle 08 - 50 000.
+SCORES ET DEFIS
 
-COOP POINTMAN / FETTEL
+- Le score de l'Interval doit etre individuel. En coop, le score affiche et le
+  score personnel ne donnent pas toujours le meme resultat.
+- Les defis de serie sont remis a zero par une mort, un Last Stand, un reload
+  de checkpoint ou un restart de mission.
+- Ne quitte jamais avant l'autosave d'apres-defi.
+- Les objectifs de rang et de defis sont cumulatifs, mais les points perdus
+  en quittant avant la fin de l'Interval ne sont pas enregistres.
 
-- [ ] Little Brother's Helper : en Pointman, tuer 100 ennemis suspendus par
-  Fettel.
-- [ ] Big Brother's Helper : en Fettel, suspendre 100 ennemis que Pointman
-  tue.
-- Fais une session dediee avec un partenaire : l'un immobilise, l'autre
-  elimine, puis inversez les roles. Les compteurs sont plus fiables si la
-  partie reste dans le meme intervalle jusqu'a la notification.
-- [ ] I’m not a Doctor, I’m a Medic! : 50 revives dans n'importe quel mode.
+======================================================================
+03. COMPTEURS A SUIVRE
+======================================================================
 
-CONTRACTIONS
+- Alma Dolls : [ ] 01 Prison  [ ] 02 Slums  [ ] 03 Store  [ ] 04 Suburbs
+  [ ] 05 Tower  [ ] 06 Bridge  [ ] 07 Port  [ ] 08 Ward.
+- Score : [ ] 95 000  [ ] 85 000  [ ] 95 000  [ ] 105 000
+  [ ] 110 000  [ ] 70 000  [ ] 110 000  [ ] 50 000.
+- Psychic Links : ramasse chaque corps lumineux visible. Il n'existe pas de
+  tableau fixe fiable pour tous les corps : certains emplacements varient.
+  Le compteur Steam demande 100 liens, pas une collection de chaque corps.
+- Rangs : Rank 10 a 320 000 points cumules ; Rank 21 a 1 255 000 points.
+- Challenges : ouvre Scoring > Rank/Challenge avant de quitter une session.
+- Campagne : les notifications d'Interval sont plus fiables que le tableau
+  Steam pour controler un succes qui tarde a apparaitre.
 
-- [ ] We’ll Try Again Tomorrow! : survivre a trois vagues consecutives sans
-  qu'un joueur ne ramene une caisse.
-- [ ] Dead Blind : passer une manche complete dans le brouillard profond sans
+======================================================================
+04. INTERVAL 01 - PRISON
+======================================================================
+
+OBJECTIFS DE LA FICHE
+
+- [ ] Prison Impossible : terminer l'Interval.
+- [ ] Up The River : atteindre 95 000 points.
+- [ ] A Precursor : trois tetes dans la salle de poker.
+- [ ] Alma Doll 01 : position fixe sous l'escalier.
+- [ ] Commencer les series de Psychic Links et de combat.
+
+ROUTE CHRONOLOGIQUE
+
+1. Dans le premier couloir, ramasse les armes et les grenades avant de
+   pousser la porte. Utilise les premiers soldats pour apprendre la couverture
+   et le Slow-Mo sans vider inutilement tes munitions.
+2. Apres le premier interrupteur, elimine le petit groupe en visant la tete.
+   Si Slide Kick et Jump Kick sont deja disponibles, place-toi dans l'axe des
+   deux soldats du couloir pour travailler Footy Foul.
+3. Dans le premier local avec corps lumineux, effectue le Psychic Link. En solo,
+   le jeu le traite comme un vol ; en coop, choisis Share quand tu travailles
+   le defi cooperatif de partage.
+4. Entre dans le bloc cellulaire. Monte les escaliers de droite, casse les
+   serrures des portes accessibles et prends les munitions du troisieme niveau.
+   Le corps lumineux pres de la caisse et du fusil est facile a rater : fais-le
+   avant de redescendre.
+5. Reviens par la salle de controle, prends les flashbangs et active le panneau.
+   Dans le couloir suivant, ouvre la porte en bois puis fouille la piece laterale
+   avec munitions et corps avant la grande salle.
+6. Dans la grande salle de cafeteria, reste en couverture, elimine les groupes
+   en gardant une cible vivante si tu dois faire les defis de cover. Une caisse
+   ou une bouteille explosive peut servir a Menage! et Detonation Expert.
+7. Apres la cuisine, monte a l'etage, active le panneau et ouvre la grille.
+   Avant de continuer, casse la serrure de la porte laterale : il y a une caisse
+   de munitions et un Psychic Link.
+8. Descends vers le bloc suivant. Fais le lien pres de la cellule ouverte,
+   puis le corps sous l'escalier. Dans la zone inferieure, le tunnel de cellule
+   est le passage obligatoire : inspecte-le avant d'entrer.
+9. Dans la derniere arene, elimine les soldats depuis les passerelles. Garde
+   Slow-Mo pour les groupes serres et les headshots. Ne franchis pas la sortie
+   avant d'avoir verifie la doll.
+
+ALMA DOLL 01 - POSITION FIXE
+
+- Depuis l'escalier metallique qui descend vers les cellules, casse la serrure
+  de la grille et passe devant le Psychic Link.
+- Continue jusqu'au niveau inferieur, puis passe sous l'escalier et derriere les
+  obstacles. La doll est au fond, dans le renfoncement.
+- C'est la seule doll qui ne change pas normalement de point d'apparition.
+
+A PRECURSOR - SALLE DE POKER
+
+- Apres le premier groupe de soldats et l'explication du Slow-Mo, ouvre la
+  porte a gauche du couloir : trois ennemis sont assis a une table.
+- La fenetre de Slow-Mo se declenche a l'ouverture. Place le viseur sur les
+  trois tetes, tire une fois par cible et n'utilise pas de grenade.
+- Si le succes n'apparait pas, redemarre Prison depuis la selection ; un reload
+  de checkpoint peut laisser la sequence dans un etat non valide.
+
+SCORE UP THE RIVER - 95 000
+
+- Fais la doll (+5 000 points), tous les Psychic Links visibles et les defis
+  faciles : headshots, pistol kills, SMG kills, melee et grenades.
+- Pour la serie The Killer, ne prends aucun risque avant 50 eliminations : une
+  mort, un Last Stand ou un reload annule la serie.
+- Termine vite les combats, mais ne rush pas les corps lumineux ni les defis
+  qui donnent un bonus de score. Le seuil est plus simple en solo sur Recruit.
+
+======================================================================
+05. INTERVAL 02 - SLUMS
+======================================================================
+
+OBJECTIFS DE LA FICHE
+
+- [ ] Get To The Chopper : terminer l'Interval.
+- [ ] Magna Slum Laude : atteindre 85 000 points.
+- [ ] Alma Doll 02 : controler les quatre zones possibles.
+- [ ] Ramasser les Psychic Links dans les egouts, la place et les rues.
+- [ ] Garder un Arc Beam ou un lance-roquettes pour les defis d'armes.
+
+ROUTE CHRONOLOGIQUE
+
+1. Dans le tunnel de depart, tourne a droite au premier embranchement et
+   descends dans le tunnel inferieur. Ramasse le corps lumineux a droite de
+   l'atterrissage.
+2. Dans les egouts de maintenance, monte les escaliers quand tu entends les
+   soldats. Le corps avec l'arme est directement sur le chemin.
+3. Dans la grande citerne, fouille le cote gauche des machines, pres de la
+   caisse a outils et des tuyaux. Fais le lien avant de declencher la suite.
+4. Apres l'embuscade, cherche le corps dans le matelas pres de la chaine. Si
+   le point est vide, verifie la petite piece en hauteur apres le feu : les
+   liens peuvent changer de position dans la meme grappe.
+5. Rejoins la surface et nettoie les rues depuis les portes. Dans le petit
+   magasin, fouille la piece arriere. Dans la cour avec la statue, entre dans
+   le batiment et monte au petit deuxieme niveau pour le lien.
+6. Dans le batiment suivant, regarde derriere l'escalier avant de descendre
+   dans le trou. Apres la chute, traverse les petites maisons de droite et
+   inspecte la derniere piece.
+7. Apres le combat contre le support mecanique, prends le chemin de la grille
+   en bois. Le corps pres des palettes et le corps de la piece en hauteur sont
+   les derniers liens importants de cette section.
+8. Lors de la montee vers le vehicule, utilise la couverture et les grenades
+   electriques sur les groupes. Le Phase Caster permet de faire progresser les
+   defis de beam et d'explosions.
+9. Dans la zone du mech, ne gaspille pas les roquettes sur des cibles faibles.
+   Utilise les armes du vehicule pour les vagues, puis verifie le dernier coin
+   de la rue avant de suivre l'objectif final.
+
+ALMA DOLL 02 - QUATRE POSITIONS A VERIFIER
+
+- Position A : apres la petite maison du debut et le retour dans la rue,
+  nettoie les ennemis puis regarde dans l'allee a droite des maisons.
+- Position B : apres la piece avec trois ennemis, monte, traverse la zone haute,
+  redescends vers la porte de progression mais entre dans la piece voisine ;
+  la doll peut etre dans le coin.
+- Position C : apres le premier Zap Grenade, entre dans la maison avec le trou
+  dans le mur. La doll se trouve a droite du trou.
+- Position D : pendant le combat mecanise, repere le trou dans le mur a gauche
+  de la rue, avant la premiere voiture. Monte par le detour pres du vehicule
+  de transport et saute dans le renfoncement.
+- Une seule de ces positions est activee dans une partie. Si les quatre sont
+  vides, relance l'Interval complet.
+
+SCORE MAGNA SLUM LAUDE - 85 000
+
+- Fais les Psychic Links avant la sortie de chaque cour, conserve les grenades
+  pour les groupes de trois et vise les reservoirs ou explosifs.
+- Le mech fournit des eliminations rapides, mais surveille la surchauffe et
+  alterne les deux canons. Les defis de roquettes, beam et grenades electriques
+  valent plus que des tirs repetitifs.
+- La doll, les liens, les defis d'arme et une progression rapide suffisent pour
+  atteindre le seuil en solo sur Recruit.
+
+======================================================================
+06. INTERVAL 03 - STORE
+======================================================================
+
+OBJECTIFS DE LA FICHE
+
+- [ ] Pain, In Bulk : terminer l'Interval.
+- [ ] Cannibal Run : atteindre 95 000 points.
+- [ ] Alma Doll 03 : controler les quatre positions de la zone commerciale.
+- [ ] Yo, Adrian! : frapper une carcasse dans la chambre froide.
+- [ ] Utiliser les cultistes, couteaux et explosifs pour les defis.
+
+ROUTE CHRONOLOGIQUE
+
+1. A la sortie du crash, suis la trace de sang a gauche et fais le premier
+   Psychic Link dans le coin de l'entree.
+2. Dans les rayonnages du premier entrepot, grimpe par les echelles et les
+   passerelles. Apres la descente, ouvre le volet avec le bouton vert pour
+   atteindre la piece contenant le lien et les munitions.
+3. Dans les toilettes des hommes, le corps est directement sur le chemin.
+   Apres la cuisine, fouille la piece adjacente avant de franchir la porte
+   portant le repere Home Electronics.
+4. Dans le second entrepot, avance d'abord au sol puis monte sur les structures.
+   Avant la derniere passerelle, saute sur l'echelle laterale et inspecte le
+   conteneur. Si le corps n'y est pas, descends et longe les rayonnages sous
+   les etageres.
+5. Dans la chambre froide, utilise les carcasses pour Yo, Adrian! : frappe
+   plusieurs fois la meme carcasse jusqu'a la notification. Ne depense pas les
+   munitions sur les cibles kamikazes avant d'avoir fait cette action.
+6. Dans le couloir des couteaux, prends les liens sous les palettes et dans le
+   conduit de sortie. Garde un ennemi vivant pendant l'exploration pour eviter
+   qu'une transition ne ferme la zone trop vite.
+7. Dans le labyrinthe de televisions, avance par les passages bas. Le lien sous
+   les televisions est sur le cote gauche ; un autre est a la sortie du conduit.
+8. Dans la zone de cultistes, utilise les tonneaux, les grenades et les vestes
+   explosives pour Menage! et Detonation Expert. Reste derriere le congelateur
+   comme couverture pour les defis de kills en cover.
+9. Dans la cave, les vagues de cultistes sont une bonne fenetre pour les tirs de
+   tete, les coups de pied et les liens. Termine le nettoyage avant d'emprunter
+   le passage de sortie.
+
+ALMA DOLL 03 - QUATRE POSITIONS A VERIFIER
+
+- Position A : en sortant des toilettes des hommes, passe par Home Electronics,
+  tourne a droite et regarde la doll sur l'etagere haute. Monte sur l'etagere
+  voisine puis fais un sprint-jump.
+- Position B : dans la section de chambre froide, apres les echelles et pres du
+  premier cultiste kamikaze, passe derriere le tissu rouge.
+- Position C : apres la barriere brisee, monte la rampe puis regarde sous la
+  rampe ou sur la plateforme atteignable par les caisses.
+- Position D : apres l'ecran avec le visage dessine, descends puis retourne-toi.
+  Le petit passage sous la structure conduit a la doll.
+- Les positions peuvent etre tirees aleatoirement. Inspecte-les dans cet ordre
+  et relance l'Interval si aucune ne contient l'objet.
+
+YO, ADRIAN! - DEUX METHODES SANS SPOILER
+
+- Methode Store : dans la chambre froide, frappe une carcasse suspendue ou
+  entreposee plusieurs fois avec l'attaque de melee.
+- Methode Ward : utilise le sac de frappe de la salle de gym. Cette methode est
+  plus simple a controler quand tu nettoies les derniers succes.
+
+SCORE CANNIBAL RUN - 95 000
+
+- Les cultistes kamikazes et leurs explosifs sont des sources de multiplicateur.
+  Tire dans les charges quand plusieurs ennemis sont proches, mais reste hors
+  du rayon de souffle.
+- Fais la doll et les liens, puis alterne le fusil, le SMG, le shotgun et les
+  grenades pour les defis d'armes. Le congelateur fournit une couverture solide.
+- Termine la cave sans recharger de checkpoint pour conserver les series et
+  l'objectif de score.
+
+======================================================================
+07. INTERVAL 04 - SUBURBS
+======================================================================
+
+OBJECTIFS DE LA FICHE
+
+- [ ] Town Hall Beating : terminer l'Interval.
+- [ ] House Arrest : atteindre 105 000 points.
+- [ ] Alma Doll 04 : verifier les cinq zones possibles.
+- [ ] Faire les 20 kills en mech et les coups de stomp.
+- [ ] Conserver un fusil de precision pour State-of-the-Art.
+
+ROUTE CHRONOLOGIQUE
+
+1. Dans les premieres rues et les arrieres-cours, utilise les clotures comme
+   couverture et explore chaque jardin avant de passer la barriere brisee.
+2. Dans la maison accessible par le jardin, fouille le cabanon et les pieces
+   laterales. Prends les grenades, puis sors par la zone de combat suivante.
+3. Apres l'apparition du Creep et la sequence interieure, monte a l'etage.
+   Ouvre la porte qui se ferme a droite et inspecte la chambre ainsi que la
+   salle de bain. Plusieurs corps lumineux peuvent etre dans cette maison.
+4. Dans les salons avec televisions, elimine les ennemis depuis le cadre des
+   portes. Ne descends pas dans la zone inferieure avant d'avoir ramasse les
+   liens des pieces superieures.
+5. Apres la zone de sous-sol, traverse vers les jardins. Les groupes de
+   cultistes devant les televisions sont ideaux pour Slow-Mo, headshots et
+   grenades. Laisse un ennemi vivant si tu cherches encore une doll.
+6. Dans la grande cour, nettoie les soldats depuis les fenetres et recupere les
+   liens dans la maison du fond, a l'etage et derriere le generateur.
+7. Pres du mech, ramasse les grenades electriques avant de monter. Fais
+   Slaughter en restant dans l'armure pour 20 kills, puis utilise l'attaque
+   d'impact pour What!? si le terrain le permet.
+8. Pendant la section des champs electriques, suis le mur et repere la salle
+   de controle avant le garage. Fouille le bureau sous les fenetres.
+9. Dans la zone du garage et de l'armure lourde, les grenades electriques sont
+   la methode sure : aveugle ou etourdis la cible, puis tire dans sa faiblesse.
+10. Apres la derniere arene, verifie le compteur de score et la doll avant le
+    tunnel de sortie.
+
+ALMA DOLL 04 - CINQ POSITIONS A VERIFIER
+
+- Position A : dans les arrieres-cours, passe une cloture brisee, traverse la
+  maison et entre dans le cabanon au bout du jardin.
+- Position B : dans la maison apres le Creep, monte a l'etage, prends la porte
+  de droite qui se ferme a l'approche et regarde le cote droit de la piece.
+- Position C : apres la sequence video et le crash, regarde a gauche du mech
+  dans la clairiere avant de monter dans l'armure.
+- Position D : apres la section de champs electriques, sors du mech au bout des
+  clotures et entre dans la salle de controle a droite. La doll est sous une
+  fenetre ou pres du bureau.
+- Position E : juste apres la salle de controle, traverse la piece avec les
+  caisses vertes et saute par-dessus les caisses pour le coin du fond.
+- Si l'Interval a ete relance mais qu'aucune zone n'est activee, verifie aussi
+  le coin du garage avant la phase mecanisee : certains tirages regroupent la
+  doll et les liens dans cette meme grappe.
+
+STATE-OF-THE-ART. BANG, BANG!
+
+- Apres la sequence de cave, rejoins la zone ouverte avec la passerelle et les
+  fusils Schuller. Prends un fusil neuf et reste derriere le batiment.
+- Laisse les soldats sortir, active une courte impulsion de Slow-Mo et tire
+  uniquement quand la tete est alignee. Dix victimes consecutives valident le
+  succes ; recharger un checkpoint remet la serie a zero.
+
+SCORE HOUSE ARREST - 105 000
+
+- Le mech de Suburbs facilite Slaughter, What!?, les kills et les streaks.
+- Les zones de jardins offrent les meilleurs groupes pour Headhunter,
+  Executioner, Cover-Up Artist et les defis de grenades.
+- Termine vite les transitions, mais fais les cinq points de doll, les liens et
+  les armes disponibles. Le seuil doit etre vise en solo, pas en partage de
+  score avec un partenaire.
+
+======================================================================
+08. INTERVAL 05 - TOWER
+======================================================================
+
+OBJECTIFS DE LA FICHE
+
+- [ ] Through the Haystack : terminer l'Interval.
+- [ ] Point Taken : atteindre 110 000 points.
+- [ ] Alma Doll 05 : controler les cinq points connus.
+- [ ] Faire progresser les defis Arc Beam, Riot Gear, sniper et couverture.
+- [ ] Utiliser les sinkholes comme reperes et ne jamais sauter dans le vide.
+
+ROUTE CHRONOLOGIQUE
+
+1. Au debut, passe l'ambulance et prends la rue a gauche vers le batiment a
+   porte ouverte. Dans le couloir, ouvre la porte entrouverte et avance jusqu'a
+   la porte verrouillee.
+2. Prends la porte ouverte voisine, tourne a droite et tire la serrure quand la
+   porte reste coincee. Reviens par la porte deverrouillee et fouille le bureau
+   derriere la porte bloquee.
+3. Sors vers la rue, utilise les fenetres et les voitures comme couvertures.
+   Active le panneau de la grille seulement apres avoir ramasse les liens et
+   les munitions de la zone.
+4. Dans la rue suivante, les cultistes et les soldats offrent une grande zone
+   pour 25 kills en cover, les tirs de precision et les grenades. Le sniper sur
+   la passerelle doit etre traite en premier si tu joues en INSANE.
+5. Apres la grille, avance jusqu'au premier sinkhole. Reste sur le bord solide,
+   longe la cloture et cherche les petites alcoves derriere les barrieres.
+6. Grimpe sur le bus vert pour passer le trou suivant. Sur le toit et dans la
+   rue, cherche les corps lumineux pres des bus, des barrieres et des caisses.
+7. Traverse l'interieur du terminal, monte par les escaliers et prends les
+   munitions de Riot Gear ou d'Arc Beam. Ne depense pas l'Arc Beam sur le boss
+   si tu travailles encore son defi de kills.
+8. Apres le passage souterrain, grimpe par les distributeurs renverses et
+   fouille la piece avec la caisse de munitions. La porte de sortie declenche
+   une nouvelle zone : fais les liens de cette salle avant de partir.
+9. Dans la grande zone de rues, profite des vagues pour les defis de couverture,
+   les headshots, les grenades et les tirs sur les charges explosives.
+10. Dans la phase blindee, etourdis avec les Shock Grenades, recule pendant la
+    surchauffe et tire par rafales. Termine l'Interval apres la derniere zone.
+
+ALMA DOLL 05 - CINQ POSITIONS A VERIFIER
+
+- Position A : dans le premier batiment, apres la porte verrouillee et la porte
+  coincee, reviens dans le bureau derriere la porte tiree.
+- Position B : au premier sinkhole, longe la cloture pres de Harbor Market et
+  inspecte l'alcove juste a cote du trou.
+- Position C : apres les echelles et le passage sur un toit, descends puis
+  retourne-toi pour regarder dans l'allee derriere la structure.
+- Position D : apres la zone cloturee et l'ouverture d'une grille, tourne a
+  droite dans l'allee laterale avant de suivre le chemin principal.
+- Position E : apres le saut sur le bus vers le haut du terminal, regarde pres
+  du vehicule blanc de livraison et du trou qui s'ouvre a l'arrivee.
+- La position peut varier et certaines zones sont plus frequentes en coop ou
+  selon la difficulte. Relance l'Interval complet entre deux essais.
+
+SCORE POINT TAKEN - 110 000
+
+- Tower est la meilleure zone pour les defis de couverture : fais Covert Op,
+  Cover-Up Artist, Pitching A Tent et Sir Camp-A-Lot dans une rue securisee.
+- Alterne Schuller, SMG, shotgun, Arc Beam, Riot Gear et grenades pour faire
+  les defis d'armes au lieu de jouer toute la mission avec un seul fusil.
+- Les sinkholes donnent des reperes solides : ne sacrifie pas une vie pour un
+  corps ou un objet qui n'est pas necessaire au score.
+
+======================================================================
+09. INTERVAL 06 - BRIDGE
+======================================================================
+
+OBJECTIFS DE LA FICHE
+
+- [ ] Trouble Cross : terminer l'Interval.
+- [ ] Crossing Over : atteindre 70 000 points.
+- [ ] Alma Doll 06 : verifier les cinq zones de trains et de mechs.
+- [ ] Profiter des trains pour les liens et du mech pour les kills.
+- [ ] Garder des Shock Grenades pour les armures.
+
+ROUTE CHRONOLOGIQUE
+
+1. Au lancement, inspecte les wagons autour du point de depart. Entre dans le
+   wagon accessible, puis recupere le pistolet pres du wagon suspendu.
+2. Reviens sur les rails, traverse les wagons et prends le SMG laisse par les
+   soldats. Dans le wagon eclaire, descends sur les rails sous l'arche de trains
+   et prends le corps lumineux sous le wagon.
+3. Quand les creatures attaquent, avance par les wagons en gardant un shotgun.
+   Les liens peuvent etre dans le wagon renverse ou juste a sa sortie : fais
+   les deux tours de controle avant de sauter sur le pont.
+4. Apres la sequence de crash, entre dans le premier wagon ensanglante puis
+   cherche le lien entre les voitures. Les monstres sont sensibles aux attaques
+   de melee, mais ne les poursuis pas au bord du vide.
+5. Apres les wagons, affronte les Phase Commanders depuis les angles de la
+   passerelle. Dans le petit batiment de commande du mech, prends le lien pres
+   du panneau avant d'activer le courant.
+6. Dans la premiere sequence de mech, tire par rafales, protege-toi avec le
+   bouclier contre les projectiles et garde le stomp pour les groupes au sol.
+7. Apres le premier pont, sors de l'armure et inspecte les deux batiments,
+   les caisses et les coins pres des tours de garde. Tu peux ensuite reprendre
+   une seconde armure si la premiere est endommagee.
+8. A la derniere arene, l'armure amelioree et les helices ennemies demandent de
+   bouger constamment. Utilise le bouclier pendant les salves, puis tire sur
+   les cibles rouges des vehicules.
+
+ALMA DOLL 06 - CINQ POSITIONS A VERIFIER
+
+- Position A : au debut, contourne le wagon qui penche et cherche la doll sur
+  son cote accessible.
+- Position B : apres le crash de l'helicoptere, entre dans le premier wagon a
+  gauche et inspecte le siege ou le wagon suivant.
+- Position C : apres le chien et la chute, ne prends pas le wagon qui bloque
+  le chemin. Retourne-toi vers le wagon brise et entre dans la seconde section.
+- Position D : apres les deux Phase Commanders, cherche la doll pres du groupe
+  electrogene qui alimente l'armure.
+- Position E : apres le premier pont mecanise, fouille le coin a gauche des
+  batiments et du second mech avant de continuer.
+- Les positions sont aleatoires ; le premier wagon ou le mech ne garantit pas
+  l'apparition a chaque relance.
+
+SCORE CROSSING OVER - 70 000
+
+- Bridge est court : ne gaspille pas de temps dans les wagons, mais ramasse les
+  liens et la doll avant les sections d'armure.
+- Le mech permet Slaughter, What!? et plusieurs kills rapides. Evite de faire
+  surchauffer les canons : le temps perdu et les degats encaisses font perdre
+  plus de points que les kills gagnes.
+- Pendant la derniere defense, travaille Arc Beam, explosives et headshots
+  depuis les couvertures des tours.
+
+======================================================================
+10. INTERVAL 07 - PORT
+======================================================================
+
+OBJECTIFS DE LA FICHE
+
+- [ ] Terminal Victory : terminer l'Interval.
+- [ ] Point Authority : atteindre 110 000 points.
+- [ ] Alma Doll 07 : verifier les quatre zones de food court.
+- [ ] Faire les kills de sniper, Penetrator et Riot Gear.
+- [ ] Garder le S-HV et le fusil de precision jusqu'aux grands combats.
+
+ROUTE CHRONOLOGIQUE
+
+1. Dans le terminal, pars a droite apres l'entree. Passe le comptoir et les
+   sieges, puis ouvre la porte partiellement levee pour trouver le premier
+   Psychic Link.
+2. Dans le couloir suivant, tourne a gauche a l'intersection et prends le corps
+   au bout. Dans les zones reservees au personnel, monte sur les caisses pour
+   atteindre le lien cache.
+3. Apres la premiere zone sombre, fouille l'arriere du Deli et les petites
+   pieces. La premiere grappe de doll est proche de cette salle et de
+   l'ascenseur.
+4. Dans le food court, descends vers l'ascenseur puis inspecte les commerces
+   avant de remonter. Les portes entre Janus Cafe et Sophie's Pizza contiennent
+   un emplacement possible.
+5. Apres l'ascenseur, passe par la salle avec le comptoir et la porte grise.
+   Fais les liens dans la zone des toilettes puis avance par les trottoirs
+   roulants en restant colle au mur gauche.
+6. Dans les salles de restauration, prends le corps pres des portes des
+   toilettes. Dans la salle de billard, fouille la cuisine attenante pour un
+   autre lien.
+7. Dans l'escalier jaune, regarde sous les marches. Apres les phases de
+   combat et de luggage area, fouille l'angle le plus eloigne avant de suivre
+   la zone de fret.
+8. Dans le terminal principal, le corps pres de l'APC et celui derriere les
+   escalators sont faciles a oublier. Fais-les avant de suivre les creatures.
+9. Dans les zones souterraines, attends l'ouverture des rideaux metalliques,
+   puis inspecte chaque palette et le coin de la salle avant la derniere arene.
+10. Termine la mission avec le sniper, les explosifs et la couverture. La zone
+    finale offre assez d'ennemis pour les defis si tu ne detruis pas l'objectif
+    trop rapidement.
+
+ALMA DOLL 07 - QUATRE POSITIONS A VERIFIER
+
+- Position A : dans le food court, descends vers l'ascenseur. Apres l'apparition
+  de la silhouette, retourne-toi vers les caisses pres de la sortie.
+- Position B : prends la porte entre Janus Cafe et Sophie's Pizza, en descendant
+  puis en remontant les escaliers. Fouille l'interieur.
+- Position C : entre dans Sophie's Pizza par-dessous la grille et cherche droit
+  devant, derriere le comptoir ou les caisses.
+- Position D : dans la zone sombre avant les trottoirs roulants, entre dans
+  l'arriere-cuisine du premier Deli et regarde le coin du fond.
+- Les apparitions sont concentrees autour du food court. Si elles sont vides,
+  redemarre l'Interval plutot que de refaire toute la mission a partir d'un
+  checkpoint.
+
+SCORE POINT AUTHORITY - 110 000
+
+- Port contient assez de cibles pour les defis de sniper, Penetrator, Arc Beam,
+  Riot Gear, headshots et cover. Prends chaque arme au moins jusqu'a sa barre
+  de defi, puis change-la.
+- Les groupes de la zone de fret sont une bonne fenetre pour les grenades et
+  les explosions, mais le temps de fin reste important pour le score.
+- Fais les links, la doll et les series avant de detruire l'objectif final.
+
+======================================================================
+11. INTERVAL 08 - WARD
+======================================================================
+
+OBJECTIFS DE LA FICHE
+
+- [ ] Homecoming King : terminer l'Interval.
+- [ ] Dream Score : atteindre 50 000 points.
+- [ ] Alma Doll 08 : verifier les trois positions de depart et de memoire.
+- [ ] Yo, Adrian! : frapper le sac de frappe dans la salle de gym.
+- [ ] Nettoyer les defis de Ghost Soldiers sans rater l'autosave.
+
+ROUTE CHRONOLOGIQUE
+
+1. Au depart, ne suis pas immediatement la lumiere. Descends les premiers
+   escaliers, ouvre les portes laterales et fouille tout le hall pour la doll
+   et les liens.
+2. Dans le hall avec les marches, prends d'abord le chemin de la salle de gym.
+   Entre dans la cage au bout, puis inspecte le coin derriere les grilles.
+3. A l'intersection Gym / Medical, prends le chemin Medical en tournant a
+   gauche a chaque embranchement. Cherche derriere les planches et les meubles.
+4. Dans la piece de memoire avec le livre, prends le link du coin puis fouille
+   la petite piece arriere. Le troisieme point de doll peut se trouver derriere
+   la porte pres du bureau.
+5. Dans la zone de gym, frappe le sac de frappe plusieurs fois pour Yo,
+   Adrian!. Fais-le avant de detruire l'objet lumineux de la zone.
+6. Utilise les passages lumineux comme repere de progression. Dans chaque
+   salle, fouille d'abord les coins, les casiers, le bureau et l'arriere de
+   l'objet interactif ; certains links apparaissent pres des sorties.
+7. Pour les defis Ghost Soldiers, garde les armes necessaires : pistolet,
+   fusil d'assaut, uzis, shotgun, melee et Fettel Blast selon le personnage.
+   Ne detruis pas l'objectif final tant que les defis de la salle ne sont pas
+   termines.
+8. Dans la derniere arene, les rochers fournissent une couverture sure. Utilise
+   les vagues pour Ghostly Cover-Up, Head Dead Prevention et Exorcist.
+9. Pour Nightmare Ninja, touche la faiblesse de la creature trois fois sans
+   subir de degats. Si la run est dediee au score, ne prolonge pas inutilement
+   le combat.
+10. Termine la zone et attends l'autosave. Controle ensuite la notification
+    Homecoming King, la doll, Yo Adrian! et le compteur Dream Score.
+
+ALMA DOLL 08 - TROIS POSITIONS A VERIFIER
+
+- Position A : au debut, descends les marches et prends le chemin vers la gym.
+  Entre dans la cage au fond et regarde le coin.
+- Position B : a la bifurcation vers Medical, suis toutes les intersections a
+  gauche et cherche derriere les planches dans le renfoncement.
+- Position C : apres la sequence du livre, entre dans la petite piece derriere
+  le bureau et regarde derriere la porte.
+- Fais cette recherche avant de declencher l'objectif central : les apparitions
+  et les acces sont beaucoup moins pratiques apres la premiere arene.
+
+SCORE DREAM SCORE - 50 000
+
+- Ward est le plus court des Intervals : ramasse la doll, chaque link visible,
+  les munitions et les armes de la zone avant les objectifs de memoire.
+- Les defis de Ghost Soldiers font monter le score, mais ne force pas une arme
+  manquante. Le seuil est atteignable avec les kills, la couverture et le temps.
+- Utilise la selection d'Interval en solo sur Recruit si la premiere campagne
+  termine sous 50 000.
+
+======================================================================
+12. ALMA DOLLS - TABLEAU DE CONTROLE RAPIDE
+======================================================================
+
+- [ ] 01 Prison : sous l'escalier, apres la serrure et le Psychic Link.
+- [ ] 02 Slums : allee des maisons ; piece haute ; trou de la maison ; trou
+  dans le mur pres du mech.
+- [ ] 03 Store : etagere Home Electronics ; tissu rouge ; sous la rampe ;
+  passage sous la structure apres la television.
+- [ ] 04 Suburbs : cabanon ; chambre a l'etage ; gauche du mech ; bureau sous
+  fenetre ; piece aux caisses vertes.
+- [ ] 05 Tower : bureau du premier batiment ; premier sinkhole ; allee apres
+  les echelles ; allee apres la grille ; vehicule blanc du terminal.
+- [ ] 06 Bridge : premier wagon penche ; wagon apres le crash ; wagon brise
+  apres le chien ; groupe electrogene ; coin des mechs apres le pont.
+- [ ] 07 Port : caisses apres l'ascenseur ; porte entre Janus Cafe et Sophie's
+  Pizza ; sous la grille de Sophie's ; arriere du Deli.
+- [ ] 08 Ward : cage de la Gym ; planches du chemin Medical ; piece derriere
+  le bureau apres le livre.
+
+Si une ligne est vide, relance l'Interval depuis la selection. Le compteur de
+Doll Collector n'exige qu'une collecte par Interval, pas toutes les positions
+possibles d'un meme Interval.
+
+======================================================================
+13. PSYCHIC LINKS - ROUTE COMPLETE ET CONSEILS
+======================================================================
+
+Les Psychic Links sont des corps entoures d'une aura blanche. Ils donnent des
+points et font progresser Spiritually Attuned. Tous les corps ne sont pas
+toujours places au meme endroit : le guide ci-dessous donne les grappes a
+inspecter dans l'ordre, ce qui est plus fiable qu'un faux total fixe.
+
+PRISON
+
+- Premier local apres le combat d'ouverture.
+- Troisieme niveau du bloc cellulaire, pres de la caisse et du shotgun.
+- Poste de garde cache : avance jusqu'aux doubles portes, retourne vers les
+  etageres et ouvre la petite piece.
+- Cuisine de la cafeteria, derriere la partie cloturee.
+- Piece de controle a l'etage, derriere la porte dont la serrure est a tirer.
+- Grille laterale apres le second panneau.
+- Cellule du bloc inferieur, puis tunnel de cellule avant la sortie.
+
+SLUMS
+
+- Tunnel de depart apres le premier saut.
+- Escaliers de maintenance avec l'arme.
+- Citerne, cote gauche des machines.
+- Matelas pres de la chaine, puis petite piece en hauteur si le premier point
+  est absent.
+- Catwalk au-dessus de la voie, voiture detruite et magasin de rue.
+- Mini Mercado et petit deuxieme niveau de la place.
+- Cour avec l'immeuble orange, derriere l'escalier et petites maisons de droite.
+- Palettes apres le support mecanique et piece en hauteur apres la rampe.
+
+STORE
+
+- Trace de sang de l'entree.
+- Volet vert de l'entrepot et toilettes des hommes.
+- Conteneur de l'entrepot ou etageres sous la rampe.
+- Sous les televisions, puis sortie du conduit.
+- Congelateurs, chambre froide et zone de couteaux.
+- Cuisine et cave autour des cultistes.
+
+SUBURBS
+
+- Mech detruit pres de la descente.
+- Coins des jardins, clotures et shed.
+- Maison du gazebo, escalier et salon.
+- Maison avec television bleue, cuisine et etage.
+- Batiment de la cour, generateur exterieur et porte du fond.
+
+TOWER
+
+- Couloir du premier batiment apres la serrure tiree.
+- Coin de la rue et bord du premier sinkhole.
+- Pres du controle de grille, echelles et toit.
+- Derriere les barrieres, bus, depot et Harbor Market.
+- Zone du terminal, sous les marches et pres des distributeurs renverses.
+
+BRIDGE
+
+- Sieges des premiers wagons et espace entre les trains.
+- Sous l'arche de wagons et bord du pont.
+- Wagon renverse, wagon ensanglante et sortie sur les rails.
+- Petit batiment de commande du mech, pres du panneau.
+- Tour qui commande le pont et zone de la derniere armure.
+
+PORT
+
+- Porte entrouverte a droite du terminal et couloir a l'intersection.
+- Zone reservee au personnel, derriere les caisses.
+- Deli, cuisines, food court et toilettes.
+- Salle de billard, cuisine et escalier jaune.
+- Luggage area, coin pres de l'APC et derriere les escalators.
+- Zone souterraine, palettes et rideaux metalliques.
+
+WARD
+
+- Hall et casiers avant l'objectif central.
+- Gym, derriere le ring et salle de memoire.
+- Chemin Medical, piece du livre et derriere le bureau.
+- Zone de l'objectif final, rochers et pieces laterales.
+
+METHODE DE COMPTAGE
+
+- Ramasse tout link visible en campagne Pointman.
+- Repasse par les Intervals a score faible en selection : les corps que tu
+  n'avais pas pris peuvent faire monter rapidement le total.
+- En coop, Share compte pour les deux joueurs et fait progresser le defi de
+  partage ; Steal donne le link au joueur qui le prend.
+- Le succes demande 100 actions, pas 100 emplacements uniques : les reprises
+  de mission permettent donc de finir le compteur.
+
+======================================================================
+14. CAMPAGNE POINTMAN - ACTIONS DE COMBAT ET SCORE
+======================================================================
+
+POINTMAN
+
+- Slow-Mo : active-le avant une serie de headshots ou de coups de pied.
+- Slide Kick : sprint puis melee ; il sert a No can defense!, Footy Foul et
+  Slideshot!.
+- Jump Kick : saute puis melee ; combine-le avec Slide Kick dans une meme
+  fenetre de Slow-Mo pour les defis de melee.
+- Cover : reste accroupi derriere un objet, tue sans sortir de l'animation
+  de couverture et fais progresser Covert Op puis Cover-Up Artist.
+- Mantle : saute par-dessus une couverture et tue immediatement a l'atterrissage
+  pour Nimble Killer et Parkour Deadly.
+- Penetrator : empale les ennemis sur les murs ou les objets solides. Garde-le
+  pour Art Collector et Ventilation Expert.
+- Crowbar : utilise-le sur vingt victimes faibles. Ne compte pas les coups qui
+  achevent une cible deja morte ; attends la confirmation de kill.
+
+FUSILS ET DEFIS D'ARMES
+
+- Strader Mk. VIII : 20 kills pour Pop Gun. Prison est la fenetre la plus simple.
+- Briggs SMG : 25 kills pour The Standard. Utilise-le dans Prison, Store ou
+  Tower, puis change d'arme quand la barre est validee.
+- G3A3 AR : 25 kills pour Assault Pro. Slums, Suburbs, Tower et Port offrent
+  assez de cibles.
+- Dual MP-970 : 20 kills pour Bullet Hose. Conserve les chargeurs et vise la
+  tete pour ne pas vider l'arme trop vite.
+- EL-10 CAS : 20 kills pour Butcher. Les couloirs et chambres froides sont
+  ideaux pour les kills rapproches.
+- Schuller LDR50 : 15 kills pour Ghost, puis dix headshots consecutifs pour
+  State-of-the-Art. Suburbs ou Port donnent les meilleures lignes de vue.
+- S-HV Penetrator : 25 kills pour Ventilation Expert. Port offre une bonne
+  quantite de cibles et de surfaces.
+- Arc Beam : 10 kills pour Laser Pointer. Tower, Bridge et Port sont les
+  Intervals a privilegier.
+- Riot Gear : 10 kills pour Quiet Riot. Tower et Port fournissent assez de
+  munitions si tu ne les gaspilles pas contre les boss.
+
+EXPLOSIFS ET VEHICULES
+
+- Frag Grenades : 10 kills pour Hot Potato ; vise les groupes de cultistes.
+- Shock Grenades : 3 kills pour The Shocker ; conserve-les pour les blindes et
+  les ennemis regroupes.
+- Flash Grenades : aveugle cinq ennemis pour Indecent Exposure ; il ne faut pas
+  les tuer, seulement laisser l'aveuglement compter.
+- Detonation Expert : tire sur vestes explosives, reservoirs et bidons pour
+  cinq kills par explosif.
+- Menage! : tue trois ennemis avec une seule explosion. Une grenade au centre
+  d'un groupe est la methode la plus simple.
+- Slaughter : tue 20 ennemis sans sortir de l'armure dans Suburbs ou Bridge.
+- What!? : tue cinq ennemis avec l'attaque d'impact ou le stomp d'une armure.
+
+SERIES ET COUVERTURE
+
+- The Killer : 50 kills sans interruption.
+- Hard Boiled : 100 kills sans interruption ; fais-le dans Store, Suburbs,
+  Tower ou Port, pas dans un petit Interval.
+- Invincible : 10 kills sans subir de degats. Utilise une couverture et Slow-Mo.
+- Godlike : 20 kills sans degats. La premiere zone de Prison ou les cultistes
+  de Store sont plus simples que Ward.
+- Headhunter : 25 headshots cumules.
+- Executioner : 50 headshots cumules.
+- Pitching A Tent : reste en couverture 100 secondes.
+- Sir Camp-A-Lot : reste en couverture 200 secondes. Fais-le dans une piece
+  sure apres un autosave, sans oublier de finir l'Interval.
+
+======================================================================
+15. RUN FETTEL - POSSESSION ET TYPES D'ENNEMIS
+======================================================================
+
+DEBLOQUER FETTEL
+
+- Termine un Interval avec Pointman pour debloquer Fettel sur cet Interval.
+- Le menu permet ensuite de relancer la mission avec Fettel.
+- En solo, Fettel utilise Possession, Psychic Blast, Suspend et Burnout.
+- Les ames laissees par les kills rechargent le temps de possession : ramasse-les
+  avant de quitter un corps pour enchainer les kills.
+
+INSIDER TRADING - TOUS LES TYPES POSSEDABLES
+
+- Lance Fettel sur chaque Interval apres avoir termine la campagne Pointman.
+- Essaie la Possession sur chaque silhouette differente : soldats armes,
+  shotguners, porteurs d'explosifs, soldats avec bouclier, soldats avec Riot
+  Gear, cultistes, porteurs de lance-roquettes et variantes blindees quand le
+  jeu propose l'option.
+- Le jeu n'affiche pas toujours une liste claire. Quand le reticule propose
+  Possess, prends la cible au moins une fois, puis conserve une sauvegarde de
+  progression jusqu'a l'autosave.
+- Les ennemis fantomatiques de Ward ne sont pas tous des corps possedables :
+  ne perds pas de temps sur une cible sans invite de Possession.
+
+DEFIS FETTEL
+
+- Little Brother : 20 kills avec Fettel Blast. Leve un ennemi et detruis-le
+  avec le blast ; les premiers Intervals fournissent assez de cibles.
+- Borrowed Time : 30 kills pendant une Possession.
+- Rent-To-OWN! : 50 kills pendant des Possessions ; ramasse les ames vite.
+- Showing Off : cinq headshots dans une seule Possession.
+- Time Efficient : 15 kills dans une seule Possession. Choisis un groupe serre
+  avec des ames faciles a ramasser.
+- Enemy Within : utilise Burnout sur cinq corps differents. Possede, maintiens
+  la commande de detonation, puis prends un nouveau corps.
+- Body Snatcher : 120 secondes cumulees en Possession.
+- Head Intruder : 240 secondes cumulees en Possession, en changeant de corps
+  quand necessaire.
+- Extended Stay : 120 secondes avec le meme corps ; evite les tirs et ramasse
+  les ames sans detruire la cible.
+
+======================================================================
+16. CATALOGUE COMPLET DES DEFIS
+======================================================================
+
+Les defis ci-dessous ne sont pas les 50 succes Steam : ils alimentent
+Completionist, Supreme Challenger, Score Monger, les points de rang et les
+seuils de mission. Pour Completionist, valide chaque defi au moins une fois,
+avec Pointman, Fettel ou un partenaire selon la mention.
+
+AGGRESSION ET ARMES
+
+- The Killer : 50 kills consecutifs sans mort, Last Stand ou reload.
+- Hard Boiled : 100 kills consecutifs ; fais-le dans un grand Interval.
+- Sweet Science : 15 kills avec une attaque de melee quelconque.
+- Et tu, Brute? : trois kills par attaque dans le dos ; une flashbang aide.
+- Pop Gun : 20 kills au Strader Mk. VIII.
+- The Standard : 25 kills au Briggs SMG.
+- Assault Pro : 25 kills au G3A3 AR.
+- Bullet Hose : 20 kills aux Dual MP-970.
+- Butcher : 20 kills a l'EL-10 CAS.
+- Ghost : 15 kills au Schuller LDR50.
+- Ventilation Expert : 25 kills au S-HV Penetrator.
+- Like A Hurricane : trois kills avec le lance-roquettes ou Goliath.
+- Laser Pointer : 10 kills a l'Arc Beam.
+- Quiet Riot : 10 kills avec le Riot Gear.
+- Hot Potato : 10 kills a la Frag Grenade.
+- The Shocker : trois kills a la Shock Grenade.
+- Indecent Exposure : aveugler cinq ennemis a la Flash Grenade.
+- Slaughter : 20 kills en armure sans sortir.
+- What!? : cinq kills par attaque de stomp ou impact d'armure.
+- Little Brother : 20 kills avec Fettel Blast.
+
+TACTIQUE, COUVERTURE ET DEPLACEMENT
+
+- Headhunter : 25 kills par headshot.
+- Executioner : 50 kills par headshot.
+- Menage! : trois kills dans une seule explosion.
+- Detonation Expert : cinq kills en tirant sur des explosifs.
+- Covert Op : 10 kills depuis une couverture.
+- Cover-Up Artist : 25 kills depuis une couverture.
+- Pitching A Tent : 100 secondes passees en couverture.
+- Sir Camp-A-Lot : 200 secondes passees en couverture.
+- Nimble Killer : cinq kills immediatement apres un Mantle.
+- Parkour Deadly : dix kills immediatement apres un Mantle.
+- Slideshot! : dix kills immediatement apres un Slide Kick.
+- Invincible : 10 kills consecutifs sans subir de degats.
+- Godlike : 20 kills consecutifs sans subir de degats.
+- Gatherer : ramasser 15 munitions ou grenades.
+- Junk Collector : ramasser 30 munitions ou grenades.
+- Collection Agent : ramasser 60 munitions ou grenades.
+
+COOP ET REVIVES
+
+- Death From Below : tuer trois ennemis depuis Last Stand, puis etre ranime.
+- Pick-Up Artist : effectuer trois revives rapides sur son partenaire.
+- Helping Hand : effectuer 15 assists ; blesse une cible, laisse le partenaire
+  la terminer.
+- Harm Aid : effectuer 30 assists avec la meme methode.
+- Damage Resistant : absorber 300 degats avec le bouclier de Fettel sur Pointman.
+- Hangman : Pointman tue 15 ennemis suspendus par Fettel.
+- The Crusher : Fettel tue cinq ennemis avec l'onde de choc de melee coop.
+- This Isn't So Hard! : Fettel tue 15 ennemis pendant le Slow-Mo de Pointman.
+- Share A Psychic Link : partager un link en coop, plutot que le voler.
+
+POINTMAN ET SLOW-MO
+
+- Supersonic! : 30 kills pendant Slow-Mo.
+- Hypersonic!!! : 50 kills pendant Slow-Mo.
+- Perfect Soldier : trois headshots dans une seule activation de Slow-Mo.
+- Slow Your Role : cinq kills dans une seule activation de Slow-Mo.
+- Highlight Reel : trois attaques de melee differentes dans un Slow-Mo : slash,
+  slash inverse, backstab, Slide Kick ou Jump Kick.
+- All In The Reflexes! : 60 secondes cumulees en Slow-Mo.
+- Nothin' Or Double : 120 secondes cumulees en Slow-Mo.
+- Big Spender : vider completement le metre de Slow-Mo trois fois.
+
+FETTEL ET POSSESSION
+
+- Borrowed Time : 30 kills pendant Possession.
+- Rent-To-OWN! : 50 kills pendant Possession.
+- Showing Off : cinq headshots dans une meme Possession.
+- Time Efficient : 15 kills dans une meme Possession.
+- Enemy Within : detruire cinq corps avec Burnout.
+- Body Snatcher : 120 secondes cumulees dans des corps.
+- Head Intruder : 240 secondes cumulees dans des corps.
+- Extended Stay : 120 secondes dans le meme corps.
+
+PSYCHIC ET WARD
+
+- Psychic Link Attained : ramasser un Psychic Link.
+- Mommy! : ramasser une Alma Doll.
+- Ghost Cowboy : cinq Ghost Soldiers au pistolet dans Ward.
+- Ghost Offender : cinq Ghost Soldiers au fusil d'assaut dans Ward.
+- Ghost Hoser : cinq Ghost Soldiers aux uzis dans Ward.
+- Ghost Eraser : cinq Ghost Soldiers au shotgun dans Ward ; laisse durer les
+  vagues si le porteur du shotgun n'apparait pas assez vite.
+- I Know Kung-Fu! : trois Ghost Soldiers par melee.
+- Buster of Ghosts : cinq Ghost Soldiers avec Fettel Blast.
+- Ghostly Cover-Up : cinq Ghost Soldiers depuis une couverture.
+- Head Dead Prevention : cinq Ghost Soldiers par headshot.
+- Hurt Him : toucher la faiblesse de la creature finale de la zone.
+- Nightmare Warrior : toucher cette faiblesse trois fois avant sa disparition.
+- Nightmare Ninja : toucher trois fois sans subir de degats.
+- Exorcist : six Ghost Soldiers pendant Slow-Mo.
+- Lucid Dreaming : trois Ghost Soldiers dans une seule activation de Slow-Mo.
+- Possessive : six Ghost Soldiers pendant une Possession.
+
+METHODE RAPIDE POUR COMPLETIONIST
+
+1. Fais d'abord les defis de progression naturelle en Pointman dans les grands
+   Intervals : armes, headshots, cover, pickups et explosifs.
+2. Rejoue Tower et Port pour les defis d'armes qui demandent beaucoup de
+   munitions, puis Ward pour le catalogue Ghost.
+3. Rejoue chaque Interval en Fettel et cible Possession, Burnout, Blast et
+   temps de corps.
+4. Fais une campagne coop pour les quatre defis cooperatifs et les deux aides.
+5. Controle Scoring > Rank/Challenge. Si un defi manque, note son nom avant de
+   relancer l'Interval : ne te fie pas uniquement au pourcentage global.
+
+======================================================================
+17. CONTRACTIONS - CINQ SUCCES ET ROUTES SURES
+======================================================================
+
+Contractions est un mode de survie par vagues. Chaque manche comporte une
+phase de preparation, des caisses a rapporter, des ennemis et parfois un
+brouillard profond. Les objectifs sont plus simples en partie privee.
+
+WE'LL TRY AGAIN TOMORROW!
+
+- Survis a trois vagues consecutives sans qu'aucun joueur ne ramene une caisse.
+- Choisis une carte avec un mech ou une position de couverture facile.
+- Reste dans la zone de defense, tue les ennemis a distance et ne touche pas
+  les caisses. Le succes tombe apres la troisieme vague validee.
+
+DEAD BLIND
+
+- Il faut passer une manche complete dans le brouillard profond sans Last Stand.
+- La carte Mechanized Invasion est la plus lisible : le brouillard epais est
+  signale par la lumiere rouge proche du sol.
+- Entre dans l'armure avant la vague, reste a l'interieur et ne marche pas dans
+  les zones rouges si tu dois sortir.
+- Le brouillard doit couvrir toute la manche ; une entree en Last Stand invalide
+  uniquement l'essai, pas la sauvegarde globale.
+
+I F.E.A.R. NOTHING!
+
+- Termine une vague en INSANE sans aucun Last Stand pour tous les joueurs.
+- Mets la difficulte sur INSANE, attribue les couloirs a chaque joueur et
+  utilisez la couverture plutot que de courir chercher des caisses.
+- Un joueur a terre en Last Stand invalide la vague meme s'il est releve.
+
+HANGING 20
+
+- Atteins la vague 20, sans condition de difficulte.
+- Joue en Recruit avec deux a quatre joueurs, place les caisses par avance et
+  garde les grenades pour les vagues de blindes.
+- Ne quitte pas entre deux vagues si le menu n'a pas encore sauvegarde la
+  progression.
+
+HANDLE WITH CARE
+
+- Rapporte personnellement 30 caisses dans une seule partie.
+- The Commute est une carte pratique : un joueur securise le chemin et un autre
+  fait les allers-retours. Chaque caisse doit etre portee par le joueur qui
+  cherche le succes.
+- Verifie le compteur apres chaque retour ; les caisses posees ou escortees par
+  un partenaire ne remplacent pas les 30 portees personnellement.
+
+======================================================================
+18. SOUL KING - CINQ SUCCES ET METHODE DE FARM
+======================================================================
+
+Soul King oppose les joueurs autour des ennemis et des ames. Une partie peut
+etre privee ; configure le nombre de manches et la duree avant de commencer.
+
+SOUL GATHERER
+
+- Obtiens 6 000 Souls dans une seule manche.
+- Choisis Recruit, une limite de temps confortable et une carte connue.
+- Tue vite, ramasse chaque ame et evite de te faire interrompre par un autre
+  joueur. Le nombre est individuel.
+
+INDECISIVE
+
+- Possede 20 ennemis differents dans une seule manche.
+- Attends que la jauge de Fettel soit pleine, cible un corps non encore utilise,
+  active Possession, quitte le corps et recommence.
+- Les corps de meme apparence comptent comme le meme type si le jeu ne change
+  pas son profil ; varie soldats, shotguners, cultistes, boucliers et blindes.
+
+UNSTOPPABLE!
+
+- Gagne les cinq manches d'un match regle sur cinq manches.
+- Mets une duree courte pour limiter les erreurs, puis joue de maniere reguliere.
+- Le succes valide le match complet, pas seulement cinq victoires reparties.
+
+SOUL HOARDER
+
+- Atteins 25 000 Souls au total sur l'ensemble des manches d'un match.
+- Regle cinq manches et une duree assez longue. Un partenaire passif peut
+  laisser les ames et les corps au joueur qui farm.
+- Ne quitte pas apres une manche : les ames du match sont validees a la fin.
+
+MONARCH
+
+- Gagne 20 manches de Soul King au total.
+- Le compteur est cumulatif entre les parties. Une manche rapide en partie
+  privee permet de faire les victoires sans attendre un match public.
+- Controle la notification en fin de manche et non le seul total de score.
+
+======================================================================
+19. RANGS, POINTS ET SEUILS DE SCORE
+======================================================================
+
+RANGS IMPORTANTS
+
+- Rank 10 / Almost Halfway : 320 000 points cumules.
+- Rank 21 / You've got the Touch! : 1 255 000 points cumules.
+- Les points viennent des kills, du temps, des links, des dolls et des defis.
+- Les points de defis servent aussi a That's a lot of Zeros : 250 000 points
+  provenant des challenges.
+- Supreme Challenger demande 500 challenges cumules, toutes categories.
+
+SEUILS OFFICIELS PAR INTERVAL
+
+- Interval 01 - Prison : Up The River - 95 000.
+- Interval 02 - Slums : Magna Slum Laude - 85 000.
+- Interval 03 - Store : Cannibal Run - 95 000.
+- Interval 04 - Suburbs : House Arrest - 105 000.
+- Interval 05 - Tower : Point Taken - 110 000.
+- Interval 06 - Bridge : Crossing Over - 70 000.
+- Interval 07 - Port : Point Authority - 110 000.
+- Interval 08 - Ward : Dream Score - 50 000.
+
+ROUTE DE SCORE COMMUNE
+
+1. Joue en solo sur Recruit pour maximiser le score individuel et reduire le
+   temps de nettoyage.
+2. Prends la doll et tous les Psychic Links que tu vois.
+3. Fais les defis faciles qui se superposent : arme du chapitre, headshots,
+   cover, pickups, grenades et Slow-Mo.
+4. Evite les morts, Last Stand et reloads pendant les series.
+5. Termine vite les couloirs mais prolonge une arene seulement si un defi de
+   score est en cours ; le temps de fin donne aussi des points.
+6. Si le seuil manque de peu, refais l'Interval depuis le menu avec une route
+   dediee au score. Le jeu conserve les succes deja acquis.
+
+======================================================================
+20. FICHES DES 50 SUCCES STEAM
+======================================================================
+
+01 - PRISON IMPOSSIBLE
+
+- Condition : terminer Interval 01.
+- Route : fais la mission jusqu'a la derniere arene et attends l'autosave.
+- Le succes peut tarder a apparaitre sur certaines installations : rejoue
+  l'Interval complet depuis la selection si la notification manque.
+
+02 - GET TO THE CHOPPER
+
+- Condition : terminer Interval 02.
+- Route : traverse les egouts, la place, la zone mecanisee et la sortie.
+- Ne quitte pas juste apres la derniere action ; attends l'ecran de score.
+
+03 - PAIN, IN BULK
+
+- Condition : terminer Interval 03.
+- Route : termine Store apres la chambre froide, les televisions et la cave.
+- Les defis et la doll sont nettoyables en Selection d'Interval.
+
+04 - TOWN HALL BEATING
+
+- Condition : terminer Interval 04.
+- Route : traverse les maisons, jardins, champs electriques et la zone d'armure.
+- Le succes est independant de House Arrest : le score n'est pas obligatoire.
+
+05 - THROUGH THE HAYSTACK
+
+- Condition : terminer Interval 05.
+- Route : termine Tower apres les rues, sinkholes, terminal et armures.
+- Controle la doll avant la grande zone de trous.
+
+06 - TROUBLE CROSS
+
+- Condition : terminer Interval 06.
+- Route : traverse les wagons, le pont et la derniere section mecanisee.
+- Les chutes dans le vide rechargent le checkpoint mais n'effacent pas le guide.
+
+07 - TERMINAL VICTORY
+
+- Condition : terminer Interval 07.
+- Route : nettoie Port Authority, food court, terminaux et zones de fret.
+- Fais les links et la doll avant les ascenseurs de fin.
+
+08 - HOMECOMING KING
+
+- Condition : terminer Interval 08.
+- Route : detruis les trois objectifs de memoire et termine la derniere arene.
+- Le guide ne decrit pas la scene qui suit.
+
+09 - MISSION... ACCOMPLISHED?
+
+- Condition : terminer les huit Intervals dans n'importe quelle difficulte.
+- Ordre recommande : Prison, Slums, Store, Suburbs, Tower, Bridge, Port, Ward.
+- Si un Interval a ete termine en coop, controle quand meme la selection de
+  mission et rejoue celui dont la notification manque.
+
+10 - THAT'S A LOT OF ZEROS
+
+- Condition : obtenir 250 000 points provenant des challenges.
+- Methode : cumule les defis d'armes, cover, headshots, links et defis Fettel.
+- Le menu Scoring > Rank/Challenge affiche les points de challenges.
+
+11 - ALMOST HALFWAY
+
+- Condition : atteindre Rank 10.
+- Seuil de controle : 320 000 points cumules.
+- Les campagnes et les reprises de score augmentent le rang ; termine les
+  Intervals pour enregistrer les points.
+
+12 - A PRECURSOR
+
+- Condition : dans la salle de poker de Prison, tuer les trois ennemis par
+  headshot avant la fin du Slow-Mo.
+- Fais-le immediatement lors de la premiere campagne ou par Selection d'Interval.
+
+13 - EARL OF PAIN
+
+- Condition : 1 000 kills, tous modes et toutes methodes.
+- Le compteur est cumulatif. Les campagnes Pointman, Fettel et Contractions
+  suffisent normalement ; ne quitte pas une partie avant l'autosave.
+
+14 - GOD AMONG MEN
+
+- Condition : 250 kills pendant Slow-Mo.
+- Personnage recommande : Pointman.
+- Active Slow-Mo sur les groupes et vise les defis Supersonic/Hypersonic.
+
+15 - SPIRITUALLY ATTUNED
+
+- Condition : effectuer 100 Psychic Links, Share ou Steal.
+- Ramasse tous les corps lumineux visibles dans les huit Intervals, puis rejoue
+  Store, Tower et Port pour les links oublies.
+
+16 - DREAM SCORE
+
+- Condition : obtenir 50 000 points dans Interval 08 - Ward.
+- Methode : doll, links, Ghost Soldiers, couverture et fin rapide.
+- Fais-le en solo sur Recruit depuis la selection si necessaire.
+
+17 - INSIDER TRADING
+
+- Condition : posseder chaque type d'ennemi possedable.
+- Personnage obligatoire : Fettel.
+- Rejoue tous les Intervals et accepte Possession sur chaque silhouette qui
+  propose l'invite, notamment les variantes armees et les cultistes.
+
+18 - SCORE MONGER
+
+- Condition : terminer 30 challenges dans un seul Interval.
+- Interval recommande : Tower ou Port, avec beaucoup d'ennemis et d'armes.
+- Fais les challenges de pickups, cover, headshots, armes, links et grenades
+  dans une meme selection ; ne quitte pas avant l'autosave.
+
+19 - YOU'VE GOT THE TOUCH!
+
+- Condition : atteindre Rank 21.
+- Seuil de controle : 1 255 000 points cumules.
+- Les defis de campagne, les scores des huit Intervals et les modes annexes
+  s'additionnent.
+
+20 - FOOTY FOUL
+
+- Condition : tuer deux ennemis avec un seul Slide Kick pendant Slow-Mo.
+- La premiere bonne fenetre est Prison, apres le premier interrupteur et avant
+  les zones etroites. Aligne deux ennemis et active Slow-Mo juste avant le coup.
+
+21 - ART COLLECTOR
+
+- Condition : empaler 100 ennemis avec le Penetrator ou les couteaux Leaper.
+- Pointman : utilise le Penetrator sur des surfaces solides.
+- Fettel : possede un Leaper dans Store et utilise ses couteaux sur les groupes.
+
+22 - NO CAN DEFENSE!
+
+- Condition : 100 kills par Jump Kick ou Slide Kick.
+- Fais des petites series en Recruit dans Prison, Store et Suburbs.
+- Les kills de mech et les coups de melee classiques ne remplacent pas ces
+  deux attaques.
+
+23 - YO, ADRIAN!
+
+- Condition : trouver quelque chose qui vaut la peine d'etre frappe.
+- Store : frappe une carcasse dans la chambre froide.
+- Ward : frappe le sac de frappe de la salle de gym plusieurs fois.
+
+24 - HOUSE ARREST
+
+- Condition : obtenir 105 000 points dans Interval 04 - Suburbs.
+- Methode : doll, links, mech, Slaughter, What!?, headshots et couvertures.
+
+25 - WE'LL TRY AGAIN TOMORROW!
+
+- Condition : survivre trois vagues de Contractions sans qu'aucun joueur ne
+  rapporte une caisse.
+- Choisis une partie privee, une position defensive et laisse toutes les caisses.
+
+26 - DEAD BLIND
+
+- Condition : passer une manche complete de Contractions dans le brouillard
+  profond sans Last Stand.
+- Mechanized Invasion et son armure rendent la condition lisible.
+
+27 - SOUL GATHERER
+
+- Condition : atteindre 6 000 Souls pendant une manche de Soul King.
+- Joue en Recruit et ramasse les ames avant de chercher un autre corps.
+
+28 - SUPREME CHALLENGER
+
+- Condition : terminer 500 challenges cumules.
+- Alterne Pointman, Fettel, coop, Ward et les defis de collecte d'armes.
+- Le total est dans Scoring > Rank/Challenge > Challenge.
+
+29 - STATE-OF-THE-ART. BANG, BANG!
+
+- Condition : tuer dix ennemis consecutifs par headshot au fusil de precision.
+- Suburbs est la meilleure zone : fusils sur la passerelle, ennemis en sortie,
+  couverture et Slow-Mo controle.
+
+30 - I'M NOT A DOCTOR, I'M A MEDIC!
+
+- Condition : effectuer 50 revives, dans n'importe quel mode.
+- En coop, alternez volontairement les Last Stand dans une zone sure, puis
+  terminez la mission pour enregistrer le compteur.
+
+31 - HEAD CRAB REMOVAL
+
+- Condition : 20 kills au pied-de-biche.
+- Utilise le crowbar sur les ennemis faibles et verifie chaque notification de
+  kill avant de passer a l'arme suivante.
+
+32 - INDECISIVE
+
+- Condition : posseder 20 ennemis differents dans une seule manche Soul King.
+- Fais le tour de la carte en changeant de corps a chaque type, sans attendre
+  la fin de la jauge dans un seul corps.
+
+33 - CANNIBAL RUN
+
+- Condition : obtenir 95 000 points dans Interval 03 - Store.
+- Methode : doll, links, carcasse pour Yo Adrian!, cultistes, explosifs et
+  couverture du congelateur.
+
+34 - DOLL COLLECTOR
+
+- Condition : ramasser l'Alma Doll de chacun des huit Intervals.
+- Une seule doll par mission est necessaire. Utilise la table de la section 12.
+
+35 - POINT TAKEN
+
+- Condition : obtenir 110 000 points dans Interval 05 - Tower.
+- Methode : doll, links, defis de cover, sniper, Arc Beam, Riot Gear et fin
+  rapide dans les rues et le terminal.
+
+36 - CROSSING OVER
+
+- Condition : obtenir 70 000 points dans Interval 06 - Bridge.
+- Methode : ramasse les links et la doll, utilise le mech sans le surchauffer,
+  puis termine la derniere defense rapidement.
+
+37 - MAN MODE
+
+- Condition : terminer la campagne complete en INSANE.
+- Debloque INSANE apres une premiere campagne. Lance une nouvelle campagne,
+  conserve le meme personnage et ne change pas de difficulte entre les Intervals.
+
+38 - MAGNA SLUM LAUDE
+
+- Condition : obtenir 85 000 points dans Interval 02 - Slums.
+- Methode : links des egouts, doll, grenades electriques, mech, kills propres et
+  transitions rapides.
+
+39 - UP THE RIVER
+
+- Condition : obtenir 95 000 points dans Interval 01 - Prison.
+- Methode : doll fixe, links du bloc cellulaire, A Precursor, headshots,
+  couverture, armes et fin rapide.
+
+40 - I F.E.A.R. NOTHING!
+
+- Condition : terminer une vague de Contractions en INSANE sans qu'aucun joueur
+  ne passe en Last Stand.
+- Prepare la position avant la vague, utilisez les couvertures et ne cherchez
+  pas les caisses pendant cette manche.
+
+41 - EXTREMIST
+
+- Condition : terminer un Interval en INSANE sans recharger de checkpoint et sans
   entrer en Last Stand.
-- [ ] I F.E.A.R. Nothing! : terminer une vague en INSANE sans Last Stand pour
-  personne.
-- [ ] Hanging 20 : atteindre la vague 20.
-- [ ] Handle with Care : ramener 30 caisses dans une seule partie.
-- Choisis une carte connue, attribue un joueur aux caisses, un autre aux
-  revives et conserve les grenades pour les vagues a brouillard.
-- Pour Extremist, fais une campagne INSANE sans recharge de checkpoint ni Last
-  Stand ; ce n'est pas le meme objectif que I F.E.A.R. Nothing!.
+- Fais un essai dedie dans Prison ou Store. Une run interrompue ne compte pas.
 
-SOUL KING
+42 - POINT AUTHORITY
 
-- [ ] Soul Gatherer : 6 000 Souls dans une manche.
-- [ ] Indecisive : posseder 20 ennemis differents dans une manche.
-- [ ] Unstoppable! : gagner les 5 manches d'une partie en 5 manches.
-- [ ] Soul Hoarder : 25 000 Souls cumulees dans le match.
-- [ ] Monarch : gagner 20 manches de Soul King.
-- Fais d'abord une partie d'entrainement pour memoriser les apparitions, puis
-  une partie avec un partenaire qui te laisse le quota de Souls. Les objectifs
-  de victoire sont independants du score individuel.
+- Condition : obtenir 110 000 points dans Interval 07 - Port.
+- Methode : doll du food court, links, sniper, Penetrator, Riot Gear, cover et
+  nettoyage complet des vagues de fret.
 
-CHECKLIST FINALE DES 50 SUCCES
+43 - LITTLE BROTHER'S HELPER
 
-01 [ ] Prison Impossible              26 [ ] State-of-the-Art. Bang, Bang!
-02 [ ] Get To The Chopper              27 [ ] Dead Blind
-03 [ ] Pain, In Bulk                   28 [ ] Soul Gatherer
-04 [ ] Town Hall Beating               29 [ ] Supreme Challenger
-05 [ ] Through the Haystack            30 [ ] I'm not a Doctor, I'm a Medic!
-06 [ ] Trouble Cross                   31 [ ] Head Crab Removal
-07 [ ] Terminal Victory                32 [ ] Indecisive
-08 [ ] Homecoming King                 33 [ ] Cannibal Run
-09 [ ] Mission... accomplished?        34 [ ] Doll Collector
-10 [ ] That's a lot of Zeros            35 [ ] Point Taken
-11 [ ] Almost Halfway                  36 [ ] Crossing Over
-12 [ ] A Precursor                     37 [ ] Man Mode
-13 [ ] Earl of Pain                    38 [ ] Magna Slum Laude
-14 [ ] God Among Men                   39 [ ] Up The River
-15 [ ] Spiritually Attuned             40 [ ] I F.E.A.R. Nothing!
-16 [ ] Dream Score                     41 [ ] Extremist
-17 [ ] Score Monger                    42 [ ] Point Authority
-18 [ ] Insider Trading                 43 [ ] Little Brother's Helper
-19 [ ] You've got the Touch!           44 [ ] Big Brother's Helper
-20 [ ] Footy Foul                      45 [ ] Unstoppable!
-21 [ ] Art Collector                   46 [ ] Hanging 20
-22 [ ] No can defense!                 47 [ ] Soul Hoarder
-23 [ ] Yo, Adrian!                     48 [ ] Monarch
-24 [ ] House Arrest                    49 [ ] Completionist
-25 [ ] We'll Try Again Tomorrow!       50 [ ] Handle with Care
+- Condition : en Pointman, tuer 100 ennemis suspendus par Fettel.
+- En coop, Fettel suspend une cible, Pointman la tue, puis vous repetez dans
+  les grandes arenes. Inversez les roles seulement apres les 100 kills.
 
-VALIDATION SANS SPOILER
+44 - BIG BROTHER'S HELPER
 
-- [ ] Chaque intervalle affiche sa notification de fin.
-- [ ] Le compteur de dolls indique 8/8.
-- [ ] Les huit seuils de score sont obtenus.
-- [ ] Les modes coop et en ligne sont traites a part.
+- Condition : en Fettel, suspendre 100 ennemis que Pointman tue.
+- Necessite une session coop : Fettel n'est pas selectionnable comme hote solo
+  de la campagne. Utilisez les vagues de Tower ou Port.
+
+45 - UNSTOPPABLE!
+
+- Condition : gagner les cinq manches d'un match Soul King regle sur cinq.
+- Lance une partie privee a duree courte et gagne chaque manche dans le meme
+  match.
+
+46 - HANGING 20
+
+- Condition : atteindre la vague 20 de Contractions.
+- Recruit, deux a quatre joueurs, caisses organisees et mech conserve pour les
+  vagues fortes. Ne quitte pas entre les manches.
+
+47 - SOUL HOARDER
+
+- Condition : atteindre 25 000 Souls sur toutes les manches d'un match Soul
+  King.
+- Regle cinq manches longues, fais les kills et ramasse les Souls sans les
+  abandonner a l'adversaire.
+
+48 - MONARCH
+
+- Condition : gagner 20 manches de Soul King.
+- Les victoires sont cumulatives. Fais des manches courtes en partie privee et
+  verifie l'increment apres chaque victoire.
+
+49 - COMPLETIONIST
+
+- Condition : terminer chaque challenge au moins une fois.
+- Suis le catalogue de la section 16 et combine les defis d'armes, Pointman,
+  Fettel, coop, Psychic et Ward.
+- Atteins un autosave apres chaque defi rare, surtout les defis Ghost de Ward.
+
+50 - HANDLE WITH CARE
+
+- Condition : rapporter personnellement 30 caisses dans une seule partie de
+  Contractions.
+- Choisis The Commute en Recruit. Un partenaire securise la route pendant que
+  tu portes chaque caisse, puis verifie le compteur a 30.
+
+======================================================================
+21. CHECKLIST DE RUN FINALE
+======================================================================
+
+- [ ] Run Pointman complete avec les huit notifications d'Interval.
+- [ ] Run Fettel complete sur les huit selections deja debloquees.
+- [ ] 8/8 Alma Dolls enregistrees apres autosave.
+- [ ] 100 Psychic Links et 500 challenges.
+- [ ] Tous les seuils de score atteints.
+- [ ] Run INSANE complete sans changement de personnage.
+- [ ] Extremist valide sur une run dediee.
+- [ ] Session coop avec les deux roles suspendu/tueur.
+- [ ] Contractions : brouillard, trois vagues sans caisse, vague 20 et 30 caisses.
+- [ ] Soul King : 20 manches gagnees, 5/5, 6 000 et 25 000 Souls.
+
+======================================================================
+22. CHECKLIST STEAM FINALE - 50/50
+======================================================================
+
+- [ ] 01. Prison Impossible - terminer Interval 01.
+- [ ] 02. Get To The Chopper - terminer Interval 02.
+- [ ] 03. Pain, In Bulk - terminer Interval 03.
+- [ ] 04. Town Hall Beating - terminer Interval 04.
+- [ ] 05. Through the Haystack - terminer Interval 05.
+- [ ] 06. Trouble Cross - terminer Interval 06.
+- [ ] 07. Terminal Victory - terminer Interval 07.
+- [ ] 08. Homecoming King - terminer Interval 08.
+- [ ] 09. Mission... accomplished? - terminer la campagne complete.
+- [ ] 10. That's a lot of Zeros - obtenir 250 000 points de challenges.
+- [ ] 11. Almost Halfway - atteindre Rank 10.
+- [ ] 12. A Precursor - reussir la salle de poker de Prison.
+- [ ] 13. Earl of Pain - tuer 1 000 ennemis.
+- [ ] 14. God Among Men - tuer 250 ennemis pendant Slow-Mo.
+- [ ] 15. Spiritually Attuned - effectuer 100 Psychic Links.
+- [ ] 16. Dream Score - atteindre 50 000 dans Ward.
+- [ ] 17. Insider Trading - posseder tous les types d'ennemis possibles.
+- [ ] 18. Score Monger - terminer 30 challenges dans un Interval.
+- [ ] 19. You've got the Touch! - atteindre Rank 21.
+- [ ] 20. Footy Foul - tuer deux ennemis avec un Slide Kick en Slow-Mo.
+- [ ] 21. Art Collector - empaler 100 ennemis.
+- [ ] 22. No can defense! - tuer 100 ennemis par Jump Kick ou Slide Kick.
+- [ ] 23. Yo, Adrian! - frapper une carcasse ou un sac de frappe.
+- [ ] 24. House Arrest - atteindre 105 000 dans Suburbs.
+- [ ] 25. We'll Try Again Tomorrow! - survivre trois vagues sans caisse.
+- [ ] 26. Dead Blind - survivre une manche dans le brouillard profond.
+- [ ] 27. Soul Gatherer - obtenir 6 000 Souls dans une manche.
+- [ ] 28. Supreme Challenger - terminer 500 challenges.
+- [ ] 29. State-of-the-Art. Bang, Bang! - faire dix headshots au sniper.
+- [ ] 30. I'm not a Doctor, I'm a Medic! - effectuer 50 revives.
+- [ ] 31. Head Crab Removal - faire 20 kills au pied-de-biche.
+- [ ] 32. Indecisive - posseder 20 ennemis differents dans une manche.
+- [ ] 33. Cannibal Run - atteindre 95 000 dans Store.
+- [ ] 34. Doll Collector - trouver la doll de chaque Interval.
+- [ ] 35. Point Taken - atteindre 110 000 dans Tower.
+- [ ] 36. Crossing Over - atteindre 70 000 dans Bridge.
+- [ ] 37. Man Mode - terminer la campagne en INSANE.
+- [ ] 38. Magna Slum Laude - atteindre 85 000 dans Slums.
+- [ ] 39. Up The River - atteindre 95 000 dans Prison.
+- [ ] 40. I F.E.A.R. Nothing! - finir une vague INSANE sans Last Stand.
+- [ ] 41. Extremist - finir un Interval INSANE sans reload ni Last Stand.
+- [ ] 42. Point Authority - atteindre 110 000 dans Port.
+- [ ] 43. Little Brother's Helper - Pointman tue 100 ennemis suspendus.
+- [ ] 44. Big Brother's Helper - Fettel suspend 100 ennemis tues par Pointman.
+- [ ] 45. Unstoppable! - gagner les cinq manches d'un match Soul King.
+- [ ] 46. Hanging 20 - atteindre la vague 20 de Contractions.
+- [ ] 47. Soul Hoarder - obtenir 25 000 Souls sur un match.
+- [ ] 48. Monarch - gagner 20 manches de Soul King.
+- [ ] 49. Completionist - terminer tous les challenges au moins une fois.
+- [ ] 50. Handle with Care - rapporter 30 caisses dans une partie.
+
+======================================================================
+VERIFICATION FINALE
+======================================================================
+
 - [ ] La page Steam affiche 50/50.
+- [ ] Le tableau du jeu affiche 8/8 dolls.
+- [ ] Les huit succes de fin d'Interval sont valides.
+- [ ] Les huit seuils de score sont valides.
+- [ ] Rank 10, Rank 21, 250 000 points de challenges et 500 challenges sont
+  valides.
+- [ ] La campagne INSANE complete est validee.
+- [ ] Les objectifs Pointman/Fettel et coop sont valides.
+- [ ] Contractions et Soul King sont valides.
+- [ ] Aucun succes ne reste dans la liste Steam sans notification.
 
-Sources de verification utilisees pour la redaction : page officielle des
-succes Steam de F.E.A.R. 3, guide de reperage des Alma Dolls et manuel de
-progression par intervalles. Les conditions sont reformulees et le parcours
-reste volontairement sans element narratif.
+Sources de verification editoriale : page officielle des succes Steam de
+F.E.A.R. 3, guides de parcours par Intervals, reperages communautaires des
+Alma Dolls, tableau des seuils de score et catalogue public des challenges.
+Les conditions ont ete reformulees et ordonnees pour une progression sans
+spoiler narratif.
