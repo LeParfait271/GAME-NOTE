@@ -49,6 +49,8 @@ test("le shell statique conserve les repères accessibles", () => {
   assert.match(pageSource, /disabled={!availableCatalogLetters\.has\(letter\)}/);
   assert.match(readerSource, /className="reader-neighbors"/);
   assert.match(readerSource, /position A–Z/);
+  assert.match(readerSource, /game-note-reading-/);
+  assert.match(readerSource, /className="reader-resume"/);
   assert.doesNotMatch(index, /favorite-toggle|Afficher les guides favoris|Favoris \(/i);
   assert.doesNotMatch(index, /hero-feature|route-console|method-section|mobile-bottom-nav/);
   assert.match(index, /aria-keyshortcuts="Control\+K Meta\+K"/);

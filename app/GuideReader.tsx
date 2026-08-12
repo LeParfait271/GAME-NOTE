@@ -351,6 +351,19 @@ const readChecklist = (guideId: string): Record<number, boolean> => {
   }
 };
 
+const readReadingProgress = (guideId: string) => {
+  if (typeof window === "undefined") {
+    return 0;
+  }
+
+  try {
+    const value = Number(window.localStorage.getItem(`game-note-reading-${guideId}`));
+    return Number.isFinite(value) ? Math.min(1, Math.max(0, value)) : 0;
+  } catch {
+    return 0;
+  }
+};
+
 const formatText = (text: string) =>
   text
     .replace(/^\*\*(.+)\*\*$/, "$1")
@@ -373,12 +386,17 @@ export default function GuideReader({
   const [loading, setLoading] = useState(true);
   const [error, setError] = useState(false);
   const [checked, setChecked] = useState<Record<number, boolean>>({});
+  const [readingProgress, setReadingProgress] = useState(0);
+  const [savedReadingProgress, setSavedReadingProgress] = useState(0);
   const [activeSearchResult, setActiveSearchResult] = useState(0);
   const resultRefs = useRef<Array<HTMLElement | null>>([]);
 
   /* eslint-disable react-hooks/set-state-in-effect */
   useEffect(() => {
     setChecked(readChecklist(selected.file));
+    const savedProgress = readReadingProgress(selected.file);
+    setReadingProgress(savedProgress);
+    setSavedReadingProgress(savedProgress);
   }, [selected.file]);
 
   useEffect(() => {
@@ -412,6 +430,45 @@ export default function GuideReader({
     return () => controller.abort();
   }, [selected.file]);
   /* eslint-enable react-hooks/set-state-in-effect */
+
+  useEffect(() => {
+    if (loading || error) return;
+
+    let frame: number | null = null;
+    const updateReadingProgress = () => {
+      const maximumScroll = document.documentElement.scrollHeight - window.innerHeight;
+      const nextProgress = maximumScroll > 0
+        ? Math.min(1, Math.max(0, window.scrollY / maximumScroll))
+        : 0;
+      setReadingProgress(nextProgress);
+      try {
+        if (nextProgress > 0.02) {
+          setSavedReadingProgress(nextProgress);
+          window.localStorage.setItem(
+            `game-note-reading-${selected.file}`,
+            String(Math.round(nextProgress * 1000) / 1000),
+          );
+        }
+      } catch {
+        // La fiche reste utilisable si le stockage local est indisponible.
+      }
+    };
+    const handleScroll = () => {
+      if (frame !== null) return;
+      frame = window.requestAnimationFrame(() => {
+        frame = null;
+        updateReadingProgress();
+      });
+    };
+
+    window.addEventListener("scroll", handleScroll, { passive: true });
+    window.addEventListener("resize", handleScroll);
+    return () => {
+      window.removeEventListener("scroll", handleScroll);
+      window.removeEventListener("resize", handleScroll);
+      if (frame !== null) window.cancelAnimationFrame(frame);
+    };
+  }, [error, loading, selected.file]);
 
   const markersEnabled = selected.id === GUIDE_MARKER_GUIDE_ID;
   const blocks = useMemo(
@@ -502,6 +559,15 @@ export default function GuideReader({
     }
   };
 
+  const resumeReading = () => {
+    const maximumScroll = document.documentElement.scrollHeight - window.innerHeight;
+    if (maximumScroll <= 0 || savedReadingProgress <= 0.02) return;
+    window.scrollTo({
+      top: savedReadingProgress * maximumScroll,
+      behavior: "smooth",
+    });
+  };
+
   const renderHighlightedText = (value: string) => {
     if (!query) return formatText(value);
     const normalizedValue = normalizeGuideText(value);
@@ -562,6 +628,11 @@ export default function GuideReader({
               <span>position A–Z</span>
             </div>
           </div>
+          {savedReadingProgress > 0.02 ? (
+            <button className="reader-resume" type="button" onClick={resumeReading}>
+              Reprendre la lecture <span>{Math.round(savedReadingProgress * 100)} %</span>
+            </button>
+          ) : null}
         </div>
         <div className="reader-cover-alert">
           <span className="reader-alert-mark" aria-hidden="true">!</span>
@@ -635,6 +706,9 @@ export default function GuideReader({
             : checklist.length
               ? `${completed}/${checklist.length} objectifs Steam cochés`
               : "Lecture complète"}
+        </span>
+        <span className="reader-reading-status" aria-live="polite">
+          {readingProgress >= 0.98 ? "Lecture terminée" : `Lecture ${Math.round(readingProgress * 100)} %`}
         </span>
         {query && visibleMatchIndexes.length > 0 ? (
           <div className="reader-search-nav" aria-label="Navigation des résultats">
