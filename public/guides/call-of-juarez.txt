@@ -1,150 +1,746 @@
 CALL OF JUAREZ
-GUIDE CHRONOLOGIQUE DE CAMPAGNE - SPECIAL SANS SUCCES STEAM
+GUIDE CHRONOLOGIQUE 100 % DU CONTENU - 0 SUCCES STEAM - SANS SPOILER
 
-Version de travail : 11 aout 2026
+Version de travail : 12 aout 2026
 
-Ce guide vise l'AppID Steam 3020, le Call of Juarez original. La fiche Steam
-visible n'expose pas de succes Steam : le resultat est donc 0/0 succes, avec
-un parcours special de campagne et de contenu bonus. Il ne faut pas le
-confondre avec Bound in Blood ou Gunslinger.
+FICHE RAPIDE
 
-OBJECTIF
+- Edition visee : Call of Juarez original Steam, AppID 3020.
+- Succes Steam : 0. La fiche Steam propose des cartes a echanger, mais aucun
+  succes a deverrouiller. Le 100 % ci-dessous concerne donc le contenu reel
+  de l'edition PC, pas un faux compteur de trophees.
+- Campagne : prologue puis 15 episodes.
+- Collection principale : 40 Wanted Cards, appelees aussi posters ou cartes
+  Wanted dans les menus et les guides. Elles apparaissent surtout dans des
+  coffres, tiroirs, caisses et petits abris.
+- Difficultes natives PC : Easy, Medium et Hard. Le mode Very Hard et les
+  trois Extra Missions sont lies a la version Xbox 360 originale ; une
+  conversion communautaire peut exister, mais elle n'est pas du contenu
+  Steam natif et n'est pas incluse dans le compteur 100 % PC.
+- Multijoueur natif : Skirmish, Robbery, Gold Rush et Deathmatch.
+- Spoilers : aucun resultat de fin, aucune identite cachee et aucune
+  consequence narrative ne sont devoiles. Les noms d'episodes, de zones, de
+  cartes et d'armes servent uniquement de reperes.
 
-[ ] Prologue et 15 episodes termines.
-[ ] Les 40 secrets de la campagne verifies dans le menu Secrets.
-[ ] Toutes les cartes Wanted et armes bonus accessibles recuperees.
-[ ] Les trois missions bonus terminees apres la campagne si elles sont
-    disponibles dans l'edition.
-[ ] Story Mode et Very Hard termines.
-[ ] 0/0 succes Steam confirme pour l'AppID 3020.
-
-GARDE-FOUS ET MISSABLES
-
-- Le jeu alterne Billy et Ray. Billy utilise discretion, arc, fouet,
-  escalade et passages hauts ; Ray utilise armes lourdes, armure, bible,
-  dynamite et concentration.
-- Fouille chaque niveau avant de franchir son dernier objectif. Le menu Load
-  permet de relancer un episode deja atteint, mais les episodes sont
-  independants et leurs ressources ne se conservent pas.
-- Fais une sauvegarde rapide avant les duels, poursuites a cheval, sections
-  de rail et changements de sous-niveau.
-- Les noms d'episodes et les actions servent uniquement de reperes : aucune
-  mort, identite, fin ou revelation n'est detaillee.
-
-ORDRE CHRONOLOGIQUE
-
-PROLOGUE
-
-- Termine le tutoriel, teste les deux armes de depart et fouille les pieces
-  accessibles avant de rejoindre l'objectif.
-
-EPISODE I - THE PRODIGAL SON RETURNS
-
-- Apprends le rythme de Ray : couverture, concentration et duels.
-- Fouille l'eglise, les abords de la ferme et les pieces de service.
-
-EPISODE II - LET HE WHO IS WITHOUT SIN...
-
-- Utilise la discrétion et la couverture. Cherche les premiers passages
-  hauts et les objets places derriere les caisses.
-
-EPISODE III - LIVE BY THE SWORD, DIE BY THE SWORD
-
-- Billy : explore les granges, toilettes et chambres apres le premier duel.
-- Reviens vers les zones deja traversees avant de suivre la femme a sauver.
-
-EPISODE IV - HE SHALL FLEE FROM THE IRON WEAPON
-
-- Fouille les camps, tentes et coffres apres chaque affrontement.
-- Garde une sauvegarde avant la poursuite a cheval.
-
-EPISODE V - THE REALM OF DEATH BELOW
-
-- Dans les tunnels, inspecte chaque croisement et ne pousse pas le wagon
-  avant de verifier la voie secondaire.
-
-EPISODE VI - MAN'S HAND ASSAULTS THE STEEL BULL
-
-- Ray : utilise la dynamite sur les groupes blindes et visite les pieces
-  laterales avant de monter sur le convoi.
-
-EPISODE VII - THEN THUNDERED THE HORSE'S HOOFS
-
-- Fouille la zone ouverte, les maisons et les points hauts avant la course.
-- Ne laisse pas les cartes Wanted derriere les barricades.
-
-EPISODE VIII - OUT OF DARKNESS THE EYES OF THE BLIND WILL SEE
-
-- Billy : reste accroupi dans les zones d'ombre, utilise l'arc et le fouet,
-  puis recupere les secrets avant de quitter le secteur.
-
-EPISODE IX - SEARCH THE RIVER, BRINGS HIDDEN THINGS TO LIGHT
-
-- Explore les berges, les cabanes, les pontons et les chemins de retour.
-- Fais une sauvegarde avant toute sequence de bateau ou de traversée.
-
-EPISODE X - A PURSUER SWIFTER THAN EAGLES IN THE SKY
-
-- Termine la poursuite, mais reviens fouiller les embranchements avant le
-  changement de sous-niveau.
-
-EPISODE XI - THEN HE REMEMBERED HIS DREAMS
-
-- Fouille les pieces de combat, les couloirs et les hauteurs avant d'activer
-  le prochain objectif.
-
-EPISODE XII - TREASURES HIDDEN IN THE SAND
-
-- Inspecte les ruines, grottes, caisses et detours dans le sable.
-- Garde une arme de precision pour les cibles en hauteur.
-
-EPISODE XIII - THE OLD PATH THAT EVIL MEN HAVE TROD
-
-- Alterne infiltration et combats. Termine chaque salle avant de suivre le
-  marqueur vers le prochain passage.
-
-EPISODE XIV - EVERY MAN ARMED FOR BATTLE
-
-- Prepare les munitions, fais une sauvegarde manuelle et fouille les pieces
-  avant la sequence de bataille.
-
-EPISODE XV - RESCUE ME FROM THE WICKED BY YOUR SWORD
-
-- Billy et Ray alternent encore. Explore la forteresse, les etages et les
-  galeries avant de lancer la derniere sequence.
-- Termine l'episode, puis verifie le menu Secrets et recharge-le si un des
-  40 objets manque.
-
-CONTENU BONUS
-
-- Apres la campagne, ouvre les missions Farm, Ghost Town et Showdown at
-  Round Rock si elles sont disponibles dans l'edition Steam.
-- Termine les trois missions, les duels et les cartes Wanted restantes.
-- Rejoue les episodes difficiles en Very Hard pour cloturer le parcours
-  solo. Le jeu ne fournit pas de succes Steam pour cette progression.
-
-CHECKLIST DE 100 % SPECIAL
+OBJECTIF 100 % STEAM PC
 
 [ ] Prologue termine.
 [ ] Episodes I a XV termines.
-[ ] Secrets 1 a 40 confirmes dans le menu.
-[ ] Toutes les cartes Wanted visibles recuperees.
-[ ] Toutes les armes et armes bonus accessibles essayees.
-[ ] Farm terminee.
-[ ] Ghost Town terminee.
-[ ] Showdown at Round Rock termine.
-[ ] Tous les duels et poursuites termines.
-[ ] Story Mode termine.
-[ ] Very Hard termine.
+[ ] Wanted Cards 01 a 40 recuperees et visibles dans Secrets.
+[ ] Campagne terminee en Hard.
+[ ] Chaque duel de campagne gagne.
+[ ] Toutes les armes remarquables essayees ou recuperees quand elles sont
+    accessibles dans la route.
+[ ] Les quatre modes multijoueur testes si le service ou le LAN est disponible.
+[ ] 0/0 succes Steam confirme : il n'existe pas de succes a manquer.
+
+EDITION ET CONTENU A NE PAS MELANGER
+
+- La fiche Steam et le manuel PC montrent une campagne a 15 episodes, les
+  quatre modes de reseau et le menu Secrets.
+- Les succes Xbox 360, les trois missions Farm / Ghost Town / Showdown at
+  Round Rock et le mode Duel Challenge sont des ajouts de l'edition console.
+  Ils ne doivent pas etre annonces comme des succes ou des missions PC
+  garantis.
+- Si tu installes un port communautaire de ces missions, traite-le comme un
+  bonus externe : fais une sauvegarde de tes fichiers Steam et ne remplace
+  pas la fiche native par une promesse que le jeu ne peut pas tenir.
+
+GARDE-FOUS ET MISSABLES
+
+- MISSABLES : une Wanted Card peut etre derriere toi apres un changement de
+  sous-niveau. Avant chaque chargement, compare le numero de la carte avec le
+  registre de cette fiche.
+- Les cartes peuvent etre prises avec le choix d'episode du menu Load. Pour
+  un nettoyage, relance seulement les episodes manquants ; il n'est pas
+  necessaire de recommencer toute la campagne.
+- Fais une sauvegarde rapide avant un duel, une poursuite a cheval, une
+  sequence de train, une course chronometree ou une salle avec mitrailleuse.
+  Sur PC, F5 sauvegarde rapidement et F8 recharge par defaut.
+- Billy et Ray ne se jouent pas pareil : Billy grimpe, se cache, utilise
+  l'arc et le fouet ; Ray porte les objets lourds, utilise la Bible, la
+  Concentration, les armes lourdes et la dynamite.
+- Ne depense pas toutes les munitions d'une arme rare juste avant un duel.
+  Ramasse toujours les armes en meilleur etat : rusty, regular, prime,
+  superb, dans cet ordre.
+- Dans une section chronometree, suis d'abord l'objectif. Les coffres et
+  detours sont a faire avant le declencheur indique dans le registre.
+
+COMMANDES UTILES SUR PC
+
+- W/A/S/D : deplacement ; Ctrl : s'accroupir ; Q/E : se pencher ; F : action.
+- X : Focus de Ray ; C : coup de pied ; 1/2 : revolvers ; 3 : fusil ;
+  4 : dynamite ; 5 : fouet ; 6 : arc.
+- Ray : arme rengainee, utilise le clic gauche ou droit pour declencher la
+  Concentration, puis place les deux viseurs sur les ennemis.
+- Billy : vise les branches et poutres avec le fouet ; clic droit accroche,
+  clic gauche raccourcit ou allonge, les deux clics relachent.
+- Cheval : F pour monter, Caps Lock pour galoper par courtes impulsions. Le
+  cheval fatigue ; ne maintiens pas le galop sur toute la route.
+- Duel : attends le signal, tire la souris vers le bas pour degainer puis
+  remonte-la pour viser. Utilise Q/E pour eviter un tir si necessaire.
+
+ROUTE CHRONOLOGIQUE COMPLETE
+
+PROLOGUE - MISE EN PLACE
+
+- Termine le tutoriel et regarde les commandes de Billy et de Ray.
+- Fais un premier test de fouet sur une branche, puis un premier test de
+  Concentration avec Ray. Ces sequences n'ajoutent pas de carte.
+- Avant de quitter le prologue, verifie que l'objectif de transition est
+  valide et cree une sauvegarde manuelle.
+
+01. EPISODE I - THE PRODIGAL SON RETURNS
+
+01.1 - OUTSKIRTS OF HOPE - BILLY
+
+- Suis le chemin vers la ferme sans entrer par la porte principale. Utilise
+  les buissons et les zones d'ombre pour contourner le proprietaire.
+- Prends une caisse, place-la contre le bord de la grange et grimpe sur le
+  toit. Ouvre le coffre de fournitures, recupere le pistolet et les munitions.
+- Reviens pres de la maison sans traverser la zone trop tot. Depuis les
+  tonneaux, tire les trois bouteilles posees sur les caisses ; cela ouvre la
+  suite de l'objectif.
+- Suis le ravin, gere le loup, puis remets ton arme quand le shérif le demande.
+
+01.2 - TOWN OF HOPE
+
+- En entrant dans Hope, prends la Wanted Card 02 avant de t'eloigner du
+  chariot. Elle est suspendue sur le cote conducteur du wagon a gauche de la
+  rue principale.
+- Fais le tour du saloon par l'exterieur. Recupere le fouet dans le wagon,
+  place la caisse sous la fenetre, accroche la poutre et monte chez Suzy.
+- Wanted Card 03 : dans le coffre de la chambre de Suzy. Prends-la avant de
+  fouiller les tiroirs pour l'arme et avant de declencher ton depart.
+- Saute par la fenetre et traverse les allees en restant accroupi. Utilise les
+  tonneaux comme couvertures, puis la caisse contre la fenetre ouverte.
+- Passe par la grange et la cloture ; ne reviens pas dans la rue principale.
+
+01.3 - CABANE ET SORTIE
+
+- Dans la cabane de Crazy Frank, attends qu'il s'eloigne et fouille le meuble
+  a tiroirs de la grande piece.
+- Wanted Card 04 : tiroir superieur droit du meuble de la cabane.
+- Rejoins la sortie par le chemin exterieur. Avant le chargement, le menu
+  Secrets doit afficher 04/40.
+
+WANTED CARD 01
+
+- Ferme de Jones : entre dans la vieille grange partiellement detruite a
+  droite en arrivant. Le coffre de livres est contre le mur droit.
+
+CHECKPOINT EPISODE I
+
+[ ] Wanted Cards 01, 02, 03, 04.
+[ ] Arme de depart et munitions recuperees.
+[ ] Episode charge suivant seulement apres la sauvegarde.
+
+02. EPISODE II - LET HE WHO IS WITHOUT SIN...
+
+02.1 - EGLISE ET COURSE VERS LA FERME
+
+- Tu joues Ray. Utilise la Bible avec l'objectif indique, puis rejoins la
+  ferme dans le temps imparti. Ne fouille pas les maisons pendant cette
+  course : la limite de temps est prioritaire.
+- A l'arrivee, repousse les pillards avec les poings. Les coups gauche/droit
+  alternes et le coup de pied donnent plus d'espace qu'un simple spam.
+- Ramasse les armes et munitions apres le combat, puis suis la route vers la
+  ville et le shérif.
+
+02.2 - EMEUTE DE HOPE
+
+- Apres la transition, utilise les angles de rue et les tonneaux. La
+  Concentration de Ray est a garder pour les groupes qui sortent ensemble.
+- Elimine les ennemis qui portent une arme, puis avance uniquement quand le
+  journal d'objectif change.
+- Fais le tour des maisons ouvertes, des porches et des caisses de munition.
+  Il n'y a aucune Wanted Card dans l'episode II : ne perds pas du temps a
+  chercher un poster absent.
+
+CHECKPOINT EPISODE II
+
+[ ] Episode II termine.
+[ ] 0 carte dans cet episode confirme.
+[ ] Munitions rechargees avant l'episode III.
+
+03. EPISODE III - LIVE BY THE SWORD, DIE BY THE SWORD
+
+03.1 - RUE ET PREMIER COMBAT DE RAY
+
+- A la sortie de l'eglise, avance jusqu'au groupe d'ennemis. Utilise Focus
+  puis la Concentration sur les cibles a courte portee.
+- Apres le premier combat de rue, tourne a droite vers l'espace vide au lieu
+  de suivre directement l'objectif.
+- Wanted Card 05 : dans les toilettes au fond a droite de cet espace, apres le
+  premier combat de Concentration.
+
+03.2 - MAISON ET SAUVETAGE
+
+- Pour rejoindre la piece en hauteur, utilise les escaliers et les caisses.
+  Ouvre la piece juste avant la chambre cible.
+- Wanted Card 06 : coffre de cette piece intermediaire, a l'etage.
+- Une fois la maison incendiee, prends les seaux d'eau un par un et eteins
+  les flammes qui bloquent le chemin. Ne cours pas dans un mur de feu.
+
+03.3 - BARN ET SORTIE
+
+- Dans la grange, termine le combat au rez-de-chaussee avant de resoudre le
+  passage de bascule. Les caisses et la passerelle forment le chemin de sortie.
+- Wanted Card 07 : coffre au sol dans la grange, apres l'evacuation du
+  batiment en feu et avant de quitter le sous-niveau.
+- Recharge tes revolvers avant de suivre la poursuite.
+
+CHECKPOINT EPISODE III
+
+[ ] Wanted Cards 05, 06, 07.
+[ ] Coffre de la grange fouille.
+[ ] Episode termine sans sauter la transition.
+
+04. EPISODE IV - HE SHALL FLEE FROM THE IRON WEAPON
+
+04.1 - PREMIER CAMP
+
+- Progresse dans les montagnes et elimine le petit camp avant de suivre la
+  piste. Ramasse les fleches et garde l'arc pour les ennemis eloignes.
+- Apres le camp initial, rejoins le second camp aux deux feux. Nettoie les
+  six ennemis avant de chercher le poster.
+- Wanted Card 08 : coffre pose pres d'un arbre a cote du second feu.
+
+04.2 - GRAND CAMP ET CHEVAUX
+
+- Traverse la chaine de tentes en restant accroupi lorsque l'orage couvre le
+  bruit. Une fois la zone nettoyee, prends les caisses de munitions.
+- Wanted Card 09 : caisse en bois au milieu de la chaine de tentes, pres des
+  chevaux.
+- Rejoins ensuite la voie ferree. Sauvegarde avant la defense du passage.
+
+04.3 - VOIE FERREE
+
+- Wanted Card 10 : avant de descendre vers la voie, sur la gauche, dans la
+  petite caisse pres des rochers et des caisses.
+- Termine la defense et monte dans le train. Ne retourne pas chercher le
+  poster apres le chargement : il faut le prendre sur la crete.
+
+CHECKPOINT EPISODE IV
+
+[ ] Wanted Cards 08, 09, 10.
+[ ] Arc, fleches et munitions recuperees.
+[ ] Sauvegarde avant train.
+
+05. EPISODE V - THE REALM OF DEATH BELOW
+
+05.1 - ENTREE DE LA MINE
+
+- Tu joues Ray. Entre dans la mine, garde l'arme prete et utilise les wagons
+  comme couvertures mobiles.
+- Wanted Card 11 : premier espace de la mine, pres du feu et des deux
+  bandits, dans le coffre contre le mur gauche.
+- Pousse le wagon dans le tunnel et utilise-le pour avancer sans t'exposer.
+
+05.2 - PENTES ET EMBRANCHEMENTS
+
+- Evite les wagons qui descendent la pente. Apres leur passage, monte et prends
+  le premier embranchement a gauche, puis le second embranchement a gauche.
+- Wanted Card 12 : au bout de ce cul-de-sac, dans la petite zone qui ne sert
+  pas a la route principale.
+- Reviens au tunnel principal et pousse le wagon vers les caisses de dynamite.
+
+05.3 - GRANDE CAVERNE
+
+- Dans la grande caverne verticale, monte par les echelles jusqu'a la salle
+  laterale a mi-hauteur. Cherche les sacs et caisses pres du pilier.
+- Wanted Card 13 : coffre de cette salle laterale, apres avoir elimine le
+  bandit au fusil a pompe.
+- Continue par les passerelles. Ramasse le fusil hybride Superb si tu le vois
+  dans la zone de caisses, puis quitte la mine.
+
+05.4 - EXTERIEUR ET TRAIN
+
+- Apres la sortie, suis la piste vers les voies. La sequence de train declenche
+  un court compte a rebours : dirige-toi vers l'abri, mais tourne a droite
+  vers le petit hangar avant de poursuivre.
+- Wanted Card 14 : caisse dans le hangar a droite des voies, apres le depart
+  du train et avant la fin du compte a rebours.
+- Termine le duel et la defense autour des voies. Sauvegarde avant la
+  transition vers l'episode VI.
+
+CHECKPOINT EPISODE V
+
+[ ] Wanted Cards 11, 12, 13, 14.
+[ ] Mine nettoyee.
+[ ] Fusil a pompe et fusil hybride recupere si disponibles.
+
+06. EPISODE VI - MAN'S HAND ASSAULTS THE STEEL BULL
+
+06.1 - ABORD DU TRAIN
+
+- Rejoins le train par les voies et nettoie l'exterieur avant d'entrer dans les
+  wagons. Les wagons de bagages sont des pieces a part : fouille-les tous.
+- Wanted Card 15 : premier wagon de bagages, dans le coffre au fond apres les
+  ennemis.
+- Wanted Card 16 : wagon de bagages suivant, dans un second coffre ; un
+  fusilier peut etre sur le toit, elimine-le avant de fouiller.
+
+06.2 - WAGONS VOYAGEURS
+
+- Traverse les wagons un par un, ramasse les munitions et garde la porte de
+  sortie comme repli.
+- Dans la zone avec quatre wagons voyageurs et un chateau d'eau, nettoie les
+  ennemis avant de fouiller le quatrieme wagon.
+- Wanted Card 17 : coffre a droite en entrant dans le quatrieme wagon
+  voyageur.
+
+06.3 - BARRICADE ET CRETE
+
+- Utilise les explosifs indiques pour ouvrir la barricade, puis reviens vers
+  la voie ferree par la route secondaire. Prends le fusil a lunette lorsqu'il
+  est donne.
+- Depuis le point de tir, pars dans la direction opposee a la barricade,
+  suis la crete et elimine les deux ennemis au bout.
+- Wanted Card 18 : caisse au bout de la crete, apres le combat.
+- Termine l'assaut et recharge avant de monter dans la suite du convoi.
+
+CHECKPOINT EPISODE VI
+
+[ ] Wanted Cards 15, 16, 17, 18.
+[ ] Fusil a lunette recupere.
+[ ] Tous les wagons de bagages inspectes.
+
+07. EPISODE VII - THEN THUNDERED THE HORSE'S HOOFS
+
+07.1 - RANCH ET PREMIER CHEVAL
+
+- Approche le ranch, elimine les menaces exterieures et entre dans la maison.
+- Wanted Card 19 : deuxieme etage, premiere chambre, tiroir central de la
+  commode.
+- Prends le cheval et utilise le galop seulement pour franchir les zones
+  ouvertes. Saute le gouffre avec l'impulsion, puis utilise le fouet pour
+  rejoindre la crete.
+
+07.2 - WAGON EN FEU ET ARCHES
+
+- Pres du wagon en feu, elimine les deux ennemis puis inspecte les rochers
+  avant de repartir.
+- Wanted Card 20 : caisse entre deux rochers, juste avant le wagon en feu.
+- Continue dans la campagne, franchis les passages au fouet et reste bas dans
+  les sections de montagne.
+- Wanted Card 21 : sous la grande arche rocheuse, au bord de la falaise, pres
+  des bouteilles, apres la courte scene montrant un ennemi sur l'arche.
+
+07.3 - RANCH DE MOLLY
+
+- A l'approche du ranch, reste accroupi et passe par l'arriere de la grange.
+  Utilise la fenetre de la petite maison apres le saut de cloture.
+- Wanted Card 22 : dans le coffre a droite de la cheminee de la petite maison.
+- Entre ensuite dans la grande maison par la porte et prends la premiere
+  piece a gauche au rez-de-chaussee.
+- Wanted Card 23 : tiroir superieur droit de la commode pres du banc.
+- Termine la sequence de ranch et sauvegarde avant le chargement suivant.
+
+CHECKPOINT EPISODE VII
+
+[ ] Wanted Cards 19, 20, 21, 22, 23.
+[ ] Cheval utilise sans epuiser sa jauge.
+[ ] Ranch fouille avant la poursuite.
+
+08. EPISODE VIII - OUT OF DARKNESS THE EYES OF THE BLIND WILL SEE
+
+08.1 - MAISON ET CHAMBRE
+
+- Avance par les chemins d'ombre, utilise la couverture et ne tire que quand
+  la route est verrouillee. Les sections de Ray autorisent la Concentration ;
+  les sections de Billy demandent de rester discret.
+- Dans la maison de la famille Ferguson, monte a l'etage et entre dans la
+  chambre de Molly.
+- Wanted Card 24 : commode dans le coin arriere droit de la chambre, tiroir
+  superieur droit.
+
+08.2 - CHAMP DE MAIS
+
+- Suis la piste dans le champ de mais jusqu'au declenchement du compte a
+  rebours. Sors par la droite, vers les deux ennemis et le cheval.
+- Wanted Card 25 : au sol pres des deux ennemis, apres les avoir elimines et
+  avant de continuer la poursuite.
+- Termine l'incendie et les combats autour de la grange. Ne cours pas dans
+  les flammes tant que les debris ne sont pas tombes.
+
+CHECKPOINT EPISODE VIII
+
+[ ] Wanted Cards 24, 25.
+[ ] Chambre de Molly inspectee.
+[ ] Champ de mais quitte par la bonne sortie.
+
+09. EPISODE IX - SEARCH THE RIVER, BRINGS HIDDEN THINGS TO LIGHT
+
+09.1 - CAMP DE DEPART
+
+- Commence par fouiller le camp avant de partir sur la piste de montagne. La
+  carte est proche du point de depart et peut etre masquee par les caisses.
+- Wanted Card 26 : dans la tente initiale, dans une caisse sous le sac de
+  sable.
+- Monte par les rochers et alterne arc et fusil selon la distance. Ne saute
+  pas dans une crevasse si la passerelle n'est pas visible.
+
+09.2 - CAVES ET PISTE DE MONTAGNE
+
+- Dans la premiere grotte, elimine le serpent avant de fouiller le sol.
+- Wanted Card 27 : au sol a cote du serpent dans la grotte, sur la route de
+  montagne.
+- Continue jusqu'au premier tunnel, sors sur la corniche et ne prends pas
+  immediatement le second tunnel.
+- Wanted Card 28 : au bord de la falaise entre le premier et le second tunnel.
+- Termine la traversee de la riviere et la sequence de ponts ; sauvegarde
+  avant l'objectif de bateau ou de traversée.
+
+CHECKPOINT EPISODE IX
+
+[ ] Wanted Cards 26, 27, 28.
+[ ] Tente de depart fouillee.
+[ ] Serpent elimine avant la fouille.
+
+10. EPISODE X - A PURSUER SWIFTER THAN EAGLES IN THE SKY
+
+10.1 - CAMP AU BORD DE LA RIVIERE
+
+- Commence par descendre la falaise a cheval, puis elimine la gatling et les
+  ennemis avant de chercher la maison laterale.
+- Fais le tour de la petite maison par l'arriere. Utilise une caisse pour
+  entrer par la fenetre et fouille la piece principale.
+- Wanted Card 29 : tiroir superieur droit du meuble de la maison, avant la
+  sequence de poursuite en voiture/chariot.
+
+10.2 - POURSUITE ET SECOND RANCH
+
+- Sauvegarde avant la poursuite. Reste sur le chemin balise, tire sur les
+  poursuivants seulement quand la ligne de tir est degagee et ne gaspille pas
+  la dynamite sur les cibles lointaines.
+- A la fin de la poursuite, nettoie le nouveau ranch et la gatling.
+- Wanted Card 30 : maison a gauche, dans la piece principale, sur le meuble
+  pres du fusil.
+- Termine la defense et la transition. Fais un controle 30/40 dans Secrets.
+
+CHECKPOINT EPISODE X
+
+[ ] Wanted Cards 29, 30.
+[ ] Poursuite terminee.
+[ ] Gatling contournee ou neutralisee avant la fouille.
+
+11. EPISODE XI - THEN HE REMEMBERED HIS DREAMS
+
+11.1 - CIMETIERE
+
+- Rejoins le cimetiere en suivant les panneaux. Fouille les coins derriere les
+  murets avant de prendre la cle ou l'objectif principal.
+- Wanted Card 31 : dans l'enclos de la tombe situee au fond a gauche, autour
+  de la croix et des pieux.
+- Ne quitte pas le cimetiere apres avoir obtenu la cle sans inspecter la
+  tombe : le poster est sur le chemin de retour naturel.
+
+11.2 - EGLISE
+
+- Entre dans l'eglise et elimine les ennemis depuis les piliers. Avance vers
+  la chaire seulement apres le nettoyage des alcoves.
+- Wanted Card 32 : grand coffre a gauche de la chaire dans la premiere piece.
+- Termine le passage interieur, garde une arme de precision pour les fenetres
+  et sauvegarde avant la sequence chronometree de sortie.
+
+CHECKPOINT EPISODE XI
+
+[ ] Wanted Cards 31, 32.
+[ ] Cimetiere fouille.
+[ ] Cle et objectif de l'eglise valides.
+
+12. EPISODE XII - TREASURES HIDDEN IN THE SAND
+
+12.1 - DESCENTE ET OSSEMENTS
+
+- Dans les ruines et passages de sable, suis les corniches plutot que de
+  descendre au premier trou. Les ennemis en hauteur doivent etre traites au
+  fusil ou a l'arc.
+- Apres plusieurs petites descentes, arrive dans la zone d'ossements pres des
+  ennemis qui parlent.
+- Wanted Card 33 : au bas des ledges, a cote des ossements, avant de passer
+  dans la zone suivante.
+
+12.2 - CAVERNE INONDEE
+
+- Continue jusqu'a la caverne partiellement inondee. Repere les respirations,
+  les rebords secs et la petite ile avant de plonger.
+- Wanted Card 34 : caisse sur la petite ile au milieu de l'eau.
+- Remonte avant que la jauge d'air soit basse, puis termine les couloirs et la
+  sortie de sable. Sauvegarde avant la transition vers les mines.
+
+CHECKPOINT EPISODE XII
+
+[ ] Wanted Cards 33, 34.
+[ ] Petite ile fouillee.
+[ ] Jauge d'air geree sans panique.
+
+13. EPISODE XIII - THE OLD PATH THAT EVIL MEN HAVE TROD
+
+13.1 - MINE ET PASSAGES EN BETON
+
+- Avance dans la mine, inspecte les alcoves et utilise le son des ennemis pour
+  choisir entre infiltration et combat.
+- A la sortie de la mine, prends le chemin soutenu par le beton. Tourne a
+  droite dans la partie la plus reculee avant de suivre le marqueur.
+- Wanted Card 35 : posee sur le tonneau le plus eloigne, a cote de l'arme
+  speciale de la zone.
+- Termine les petites salles, recupere les munitions et n'active pas la
+  sequence de depart avant le controle du menu Secrets.
+
+CHECKPOINT EPISODE XIII
+
+[ ] Wanted Card 35.
+[ ] Arme speciale de la zone essayee si disponible.
+[ ] Mine et alcoves nettoyees.
+
+14. EPISODE XIV - EVERY MAN ARMED FOR BATTLE
+
+14.1 - PERIMETRE ET GATLING
+
+- Elimine la gatling ou profite de ses temps de recharge pour passer de
+  couverture en couverture. Ne traverse pas la cour a decouvert.
+- Apres l'explosion de la gatling, longe les batiments du perimetre a droite
+  du batiment principal.
+- Wanted Card 36 : derniere piece du batiment, dans le coffre au mur ; elle
+  est dans la meme piece que l'arme speciale de la zone.
+
+14.2 - SOUS-SOL ET VILLE
+
+- Descends dans la zone de cave/filtrage et ouvre les portes une par une.
+- Wanted Card 37 : derniere porte a gauche, porte metallique, coffre au fond
+  a droite.
+- Apres la scene de Mason et le combat dans la petite zone, fouille le cul-de-
+  sac avant de reprendre la route.
+- Wanted Card 38 : coffre du cul-de-sac, dans la zone du combat de Mason.
+- Termine l'avancee vers Juarez et sauvegarde avant le dernier episode.
+
+CHECKPOINT EPISODE XIV
+
+[ ] Wanted Cards 36, 37, 38.
+[ ] Batiments du perimetre inspectes.
+[ ] Arme speciale recuperee si elle est presente.
+
+15. EPISODE XV - RESCUE ME FROM THE WICKED BY YOUR SWORD
+
+15.1 - CITERNE ET COUR
+
+- Apres la scene de la citerne, descends dans la grande salle puis retourne-
+  toi immediatement. Les petites pieces du perimetre sont derriere toi.
+- Wanted Card 39 : coffre dans l'une des pieces du perimetre, dans la meme
+  zone que la carte 36.
+- Nettoie la cour et les galeries avant de suivre l'objectif final. Garde une
+  arme precise et des munitions pour le duel.
+
+15.2 - DUEL ET CELLAR
+
+- Termine le duel final de la route, puis descends vers la cave quand le jeu
+  l'indique. Le but ici est le nettoyage du dernier collectible avant la fin.
+- Wanted Card 40 : premiere porte a gauche de la cave, coffre pres de la
+  porte.
+- Termine l'episode, puis ouvre le menu Secrets et verifie 40/40. Si le
+  compteur est inferieur, utilise Choose Episode pour revenir directement a la
+  carte manquante.
+
+CHECKPOINT CAMPAGNE
+
+[ ] Episodes I-XV termines.
+[ ] Wanted Cards 01-40 visibles dans Secrets.
+[ ] 15 duels de campagne, ou chaque duel rencontre, gagnes.
+[ ] Campagne terminee en Hard.
+
+REGISTRE DES 40 WANTED CARDS
+
+01 - Episode I, grange detruite de Jones, coffre de livres a droite.
+02 - Episode I, wagon a gauche en entrant dans Hope, marche cote conducteur.
+03 - Episode I, coffre de la chambre de Suzy.
+04 - Episode I, tiroir superieur droit de la cabane de Crazy Frank.
+05 - Episode III, toilettes au fond a droite du terrain apres le premier combat.
+06 - Episode III, coffre de la piece a l'etage avant la chambre cible.
+07 - Episode III, coffre au sol de la grange apres l'incendie.
+08 - Episode IV, coffre pres de l'arbre au second camp a deux feux.
+09 - Episode IV, caisse au milieu de la chaine de tentes pres des chevaux.
+10 - Episode IV, caisse a gauche de la crete avant la voie ferree.
+11 - Episode V, coffre du premier espace de mine avec feu et deux ennemis.
+12 - Episode V, cul-de-sac apres deux embranchements gauches.
+13 - Episode V, coffre de la salle a mi-hauteur de la grande caverne.
+14 - Episode V, caisse du petit hangar pres des voies apres le train.
+15 - Episode VI, coffre du premier wagon de bagages.
+16 - Episode VI, coffre du wagon de bagages suivant.
+17 - Episode VI, coffre a droite du quatrieme wagon voyageur.
+18 - Episode VI, caisse au bout de la crete apres la barricade.
+19 - Episode VII, tiroir central de la premiere chambre a l'etage du ranch.
+20 - Episode VII, caisse entre deux rochers pres du wagon en feu.
+21 - Episode VII, sous l'arche rocheuse, au bord de la falaise.
+22 - Episode VII, coffre a droite de la cheminee de la petite maison.
+23 - Episode VII, tiroir superieur droit de la grande maison.
+24 - Episode VIII, tiroir superieur droit de la chambre de Molly.
+25 - Episode VIII, sol pres des deux ennemis a la sortie du champ de mais.
+26 - Episode IX, caisse sous le sac de sable dans la tente de depart.
+27 - Episode IX, sol de la grotte, a cote du serpent.
+28 - Episode IX, corniche entre le premier et le second tunnel.
+29 - Episode X, tiroir superieur droit de la petite maison du camp fluvial.
+30 - Episode X, meuble pres du fusil dans la maison du second ranch.
+31 - Episode XI, enclos de la croix au fond a gauche du cimetiere.
+32 - Episode XI, coffre a gauche de la chaire dans l'eglise.
+33 - Episode XII, sol pres des ossements au bas des ledges.
+34 - Episode XII, caisse sur l'ile de la caverne inondee.
+35 - Episode XIII, tonneau le plus recule de la voie betonnee.
+36 - Episode XIV, coffre mural dans la derniere piece du perimetre.
+37 - Episode XIV, derniere porte a gauche de la cave, coffre au fond a droite.
+38 - Episode XIV, coffre du cul-de-sac apres le combat de Mason.
+39 - Episode XV, piece du perimetre apres la descente de la citerne.
+40 - Episode XV, premiere porte a gauche dans la cave apres le duel.
+
+ARMES ET ETAT DU MATERIEL
+
+- Rusty : eclair rouge, a remplacer rapidement.
+- Regular : arme standard fiable.
+- Prime : etoile argentee, meilleure endurance.
+- Superb : etoile doree, meilleure version a garder pour les combats longs.
+- Billy : arc pour les longues lignes de tir, fouet pour grimper et franchir
+  les gouffres, pistolet pour les urgences.
+- Ray : double revolver pour les groupes, fusil a lunette pour les postes,
+  fusil a pompe dans les mines et dynamite pour les barricades ou groupes.
+- Armes remarquables a ramasser quand elles apparaissent : fusil hybride
+  Superb dans la grande mine, fusil a lunette au cours de l'episode VI,
+  revolvers Border dans les camps, fusils Prime/Superb dans les wagons et
+  l'arme speciale de chaque piece indiquee avec les cartes 35 et 36.
+- Il n'existe pas de succes Steam lie a chaque arme. La bonne verification est
+  de visiter les pieces, lire les noms dans le menu Personal Stats et de
+  terminer la campagne en Hard avec les armes de meilleure qualite.
+
+DUELS ET SEQUENCES A RISQUE
+
+- Avant un duel, rengaine l'arme et place la souris au centre-bas de l'ecran.
+  Attends le signal, degainer rapidement, puis remonte la souris pour viser la
+  tete ou le torse.
+- N'appuie pas trop tot : le tir avant la fin du compte a rebours peut faire
+  perdre le duel.
+- Contre un adversaire qui tire en premier, penche-toi avec Q/E puis reviens
+  viser. Recharge une sauvegarde si tu veux une victoire propre.
+- Pendant les trains, les gatlings et les chevaux, avance de couverture en
+  couverture. La jauge du cheval baisse pendant le galop et les chevaux ne
+  recuperent pas instantanement.
+- Dans la mine, les chutes de pierres et les wagons sont des dangers de route,
+  pas des combats : observe la poussiere, attends le passage et n'essaie pas
+  de forcer un virage.
+
+MULTIJOUEUR NATIF PC
+
+Le manuel PC confirme quatre modes reseau. Il n'existe aucun succes Steam pour
+ces modes ; ce bloc est donc un nettoyage de contenu facultatif, pas une
+condition de compteur.
+
+- Skirmish : deux equipes s'affrontent ; la derniere equipe en vie gagne.
+- Robbery : les hors-la-loi volent l'or et l'amènent a une zone de sortie ;
+  les lawmen defendent les caisses.
+- Gold Rush : ramasse l'or disperse et marque le plus de points.
+- Deathmatch : marque le plus de frags.
+
+Pour une verification complete du mode reseau :
+
+[ ] Creer une partie LAN et verifier le chargement d'une carte.
+[ ] Creer une partie Internet et verifier le reglage du serveur.
+[ ] Faire une partie Skirmish.
+[ ] Faire une partie Robbery.
+[ ] Faire une partie Gold Rush.
+[ ] Faire une partie Deathmatch.
+[ ] Tester les cartes disponibles dans la liste du menu sans confondre une
+    carte communautaire avec le contenu natif.
+
+BONUS XBOX 360 ET PORTS COMMUNAUTAIRES
+
+- Farm, Ghost Town et Showdown At Round Rock sont trois missions bonus de la
+  version Xbox 360 originale.
+- Duel Challenge est egalement un mode console avec des affrontements
+  supplementaires issus de la campagne.
+- Le Steam AppID 3020 PC n'affiche pas ces missions dans son contenu natif.
+  Si tu installes une conversion communautaire, cree une fiche de sauvegarde
+  separee et note-la comme bonus externe. Ne compte pas ces missions dans le
+  0/0 succes Steam du jeu PC.
+
+CHECKLIST FINALE 100 % PC STEAM
+
 [ ] 0/0 succes Steam confirme.
+[ ] Prologue termine.
+[ ] Episode I termine.
+[ ] Episode II termine.
+[ ] Episode III termine.
+[ ] Episode IV termine.
+[ ] Episode V termine.
+[ ] Episode VI termine.
+[ ] Episode VII termine.
+[ ] Episode VIII termine.
+[ ] Episode IX termine.
+[ ] Episode X termine.
+[ ] Episode XI termine.
+[ ] Episode XII termine.
+[ ] Episode XIII termine.
+[ ] Episode XIV termine.
+[ ] Episode XV termine.
+[ ] Wanted Card 01.
+[ ] Wanted Card 02.
+[ ] Wanted Card 03.
+[ ] Wanted Card 04.
+[ ] Wanted Card 05.
+[ ] Wanted Card 06.
+[ ] Wanted Card 07.
+[ ] Wanted Card 08.
+[ ] Wanted Card 09.
+[ ] Wanted Card 10.
+[ ] Wanted Card 11.
+[ ] Wanted Card 12.
+[ ] Wanted Card 13.
+[ ] Wanted Card 14.
+[ ] Wanted Card 15.
+[ ] Wanted Card 16.
+[ ] Wanted Card 17.
+[ ] Wanted Card 18.
+[ ] Wanted Card 19.
+[ ] Wanted Card 20.
+[ ] Wanted Card 21.
+[ ] Wanted Card 22.
+[ ] Wanted Card 23.
+[ ] Wanted Card 24.
+[ ] Wanted Card 25.
+[ ] Wanted Card 26.
+[ ] Wanted Card 27.
+[ ] Wanted Card 28.
+[ ] Wanted Card 29.
+[ ] Wanted Card 30.
+[ ] Wanted Card 31.
+[ ] Wanted Card 32.
+[ ] Wanted Card 33.
+[ ] Wanted Card 34.
+[ ] Wanted Card 35.
+[ ] Wanted Card 36.
+[ ] Wanted Card 37.
+[ ] Wanted Card 38.
+[ ] Wanted Card 39.
+[ ] Wanted Card 40.
+[ ] 40/40 cartes visibles dans le menu Secrets.
+[ ] Campagne terminee en Hard.
+[ ] Chaque duel de campagne termine.
+[ ] Tous les coffres et maisons de la route principale controles.
+[ ] Les quatre modes multijoueur testes si disponibles.
+[ ] Bonus Xbox/ports communautaires clairement separes du contenu Steam.
 
-SOURCES DE CONTROLE
+SOURCES DE VERIFICATION
 
-- Page Steam de l'AppID 3020 :
+- Fiche Steam et manuel PC de l'AppID 3020 :
   https://store.steampowered.com/app/3020/Call_of_Juarez/
-- Manuel Steam officiel et menu Secrets :
-  https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3020/manuals/manual_en.pdf
-- Liste des episodes et secrets :
-  https://callofjuarez.fandom.com/wiki/Call_of_Juarez_%28video_game%29
+  https://cdn.akamai.steamstatic.com/steam/apps/3020/manuals/manual_en.pdf
+- Walkthrough PC utilise pour recouper les objectifs et les 15 episodes :
+  https://gamefaqs.gamespot.com/pc/920897-call-of-juarez/faqs/44830
+- Liste des Wanted Cards et emplacements episode par episode :
+  https://www.trueachievements.com/a17184/bounty-hunter-achievement
+- Registre des 40 secrets et distinction des versions :
+  https://callofjuarez.fandom.com/wiki/Secrets
+- Verification des modes et bonus de l'edition console :
+  https://gamefaqs.gamespot.com/xbox360/938524-call-of-juarez/faqs/48948
 
-FIN DU GUIDE SPECIAL - SANS SPOILER
+Les emplacements sont reformules et regroupes dans un ordre de route. La fiche
+reste sans spoiler et distingue volontairement le contenu PC Steam des ajouts
+Xbox 360 ou communautaires.
