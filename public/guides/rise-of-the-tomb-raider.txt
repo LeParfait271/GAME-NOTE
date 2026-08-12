@@ -1,266 +1,1069 @@
 RISE OF THE TOMB RAIDER - 20 YEAR CELEBRATION
-GUIDE CHRONOLOGIQUE 100 % STEAM - SANS SPOILER
+GUIDE CHRONOLOGIQUE COMPLET - 100 % STEAM - SANS SPOILER
 
-Version de travail : 10 aout 2026
+Version editoriale : 12 aout 2026
+Plateforme : Steam
+AppID : 391220
+Perimetre : campagne, 100 % des regions, 59 reliques, 109 documents,
+31 fresques, 36 caches de pieces, 65 caches de survie, 31 coffres,
+10 codex, 5 cryptes, 18 defis, 9 missions, 9 tombeaux, Baba Yaga,
+Blood Ties, Lara's Nightmare, Cold Darkness, Score Attack, Endurance
+solo et Endurance cooperative.
 
-Ce parcours couvre les 143 succes Steam de l'AppID 391220 : campagne,
-collectibles, missions, tombeaux, defis, cartes, difficultes, Baba Yaga,
-Blood Ties, Lara's Nightmare, Cold Darkness, Endurance solo, Score Attack
-et les 19 objectifs Endurance en cooperation.
+PROMESSE DE LA FICHE
 
-OBJECTIF
+Rise of the Tomb Raider est un jeu de nettoyage metroidvania : plusieurs
+objets sont visibles longtemps avant que l'outil qui permet de les atteindre
+soit disponible. Cette fiche separe donc la route narrative, les retours dans
+les hubs, les DLC et les modes d'Expeditions.
 
+Le guide reste sans spoiler narratif. Les noms de zones, de missions, de
+personnages, de boss et de succes servent de reperes de navigation. Aucun
+retournement, aucune fin et aucune consequence ne sont racontes.
+
+PERIMETRE DU 100 %
+
+[ ] Campagne terminee.
+[ ] 59 reliques.
+[ ] 109 documents.
+[ ] 31 fresques.
+[ ] 36 caches de pieces.
+[ ] 65 caches de survie.
+[ ] 31 coffres forts.
+[ ] 10 codex, dont 9 dans les tombeaux et 1 dans The Orrery.
+[ ] 5 tresors de cryptes.
+[ ] 18 defis.
+[ ] 9 missions secondaires.
+[ ] 9 tombeaux de defi.
+[ ] 100 % de completion pour No Stone Unturned.
 [ ] 143/143 succes Steam.
-[ ] Campagne terminee et toutes les regions a 100 %.
-[ ] Missions, tombeaux, cryptes, monolithes, documents, reliques et caches.
-[ ] Competences, langue, equipement, cartes et actions de combat.
-[ ] Baba Yaga, Blood Ties, Lara's Nightmare et Cold Darkness.
-[ ] Endurance solo, Score Attack, cartes et difficulte Extreme Survivor.
-[ ] 19 succes Endurance en cooperation.
+
+PLAN DE PARTIE
+
+RUN PRINCIPALE - EXTREME SURVIVOR
+
+- Si tu veux regrouper les deux succes de difficulte, joue directement en
+  Extreme Survivor. Le mode est exigeant : utilise les camps, les ressources
+  et les sauvegardes de securite quand le jeu le permet.
+- Si tu privilegies une premiere decouverte plus confortable, termine en
+  Survivor puis refais uniquement la campagne en Extreme Survivor.
+- Fais les neuf tombeaux dans la meme sauvegarde pour Tomb Raider.
+- Dans les hubs, ramasse tout ce qui est accessible, puis reviens apres chaque
+  outil important : corde ascender, couteau, grappin, shotgun et gear.
+- Termine les neuf missions pour Good Samaritan et Woman of the People.
+- Les cartes de Monolithes et les competences de langue sont prioritaires :
+  elles ouvrent des caches de pieces et les objets narratifs.
+
+RUN NETTOYAGE
+
+1. Termine la campagne.
+2. Reviens en Syrie et dans tous les hubs par voyage rapide.
+3. Termine les 18 defis, cryptes, tombeaux, documents et caches.
+4. Termine les actions de combat et les achats.
+5. Fais Baba Yaga et Blood Ties.
+6. Fais Lara's Nightmare et Cold Darkness.
+7. Fais Score Attack.
+8. Fais Endurance solo.
+9. Fais Endurance cooperative avec un partenaire.
 
 GARDE-FOUS ABSOLUS
 
-- La campagne et les hubs restent nettoyables apres la fin. Ne quitte pas un
-  hub sans noter ce qui demande un outil encore absent.
-- Le meilleur parcours est une premiere partie complete en Survivor ou plus
-  confortable, puis une partie New Game+ Extreme Survivor en allant droit au
-  but. Les succes de difficulte demandent la fin de la partie.
-- Les cartes et Score Attack sont un bloc a part. Ne brule pas tes meilleures
-  cartes pendant la campagne si tu veux les objectifs de score.
-- Endurance coop est un vrai bloc online. Les 19 succes necessitent un
-  partenaire, et une expedition interrompue ne doit pas etre consideree comme
-  sauvegardee.
-- Aucun nom de personnage, mort, identite, boss, fin ou retournement n'est
-  revele. Les regions et modes ne sont employes que pour l'ordre.
+- Les hubs restent accessibles apres la campagne. Ne recommence pas une partie
+  pour une relique ou une cache de survie.
+- Avant un tombeau ou une crypte, fais une sauvegarde manuelle ou change de
+  slot. Les tresors de cryptes peuvent parfois ne pas actualiser le compteur.
+- Pour The Chosen Few, ouvre les cinq cryptes et interagis avec chaque tresor.
+  Controle le compteur apres chaque ouverture.
+- Les missions secondaires et les defis sont necessaires au 100 %, mais restent
+  faisables en post-game.
+- Les conversations et les actions de combat n'ont pas toutes une fenetre
+  confortable. Fais One-Sided Conversation, Bar Brawl, Zipper, Trick Shot,
+  Laying Down The Law et les kills specifiques des qu'une occasion sure arrive.
+- Dans Score Attack, le score ne se valide qu'apres l'ecran de resultat.
+- Dans Cold Darkness, selectionne le defi correspondant avant de lancer
+  l'expedition. Sinon le compteur de l'objectif ne progresse pas.
+- Dans Endurance, les objectifs de carte et les objectifs d'Expedition sont
+  differents. Verifie les cartes avant de partir.
+- Les 19 objectifs Endurance cooperative demandent une seconde personne.
+  Organise-les ensemble, car plusieurs doivent etre faits dans une seule
+  expedition.
+- Les succes de cartes peuvent etre retardes. Laisse l'ecran de resultat se
+  terminer avant de relancer une mission.
 
-MISSABLES ET FENETRES
+ALERTES MANQUABLES ET FENETRES DE RETOUR
 
-- Les collectibles de campagne, missions, tombeaux et defis peuvent etre
-  nettoyes apres la fin par le voyage rapide.
-- Les actions de combat sont manquables en pratique si tu attends le post-jeu :
-  tir de jambe, tir longue distance, ennemi en conversation, finishers d'eau,
-  cocktails et animaux explosifs doivent etre tentes pendant la campagne.
-- Dans Baba Yaga, parle a Nadia avant de quitter la vallee, puis termine les
-  documents, caches, tenue et eliminations avant le nettoyage Score Attack.
-- Blood Ties contient ses propres reliques, documents, cle et coffre. Fais le
-  premier tour complet avant de sortir du manoir.
-- Les objectifs Extreme Survivor, Score Attack et Endurance ont leurs propres
-  menus : ils ne se valident pas automatiquement avec la campagne.
+- La campagne, les hubs, les tombeaux, les cryptes et les collectibles de
+  campagne restent recuperables apres l'histoire : ne recommence pas une partie
+  pour un objet oublie.
+- Les objectifs de combat et de traversal sont surtout des occasions faciles,
+  pas des verrous definitifs. Valide One-Sided Conversation, Bar Brawl, Zipper,
+  Trick Shot et les actions de defis des qu'une situation sure se presente.
+- Les missions secondaires se reprennent dans leur hub. Controle leur compteur
+  avant de quitter Soviet Installation et Geothermal Valley, puis termine le
+  nettoyage en post-game si besoin.
+- Pour Cold Darkness, Score Attack et Endurance, active toujours le defi, la
+  carte ou l'objectif demande avant de lancer l'expedition : sinon l'action peut
+  ne pas etre ratable mais ne sera pas comptabilisee pour le succes vise.
 
-ORDRE DE PARTIE RECOMMANDE
+TABLEAU DE COMPLETION PAR REGION
 
-1. Campagne en Survivor ou difficulte confortable, avec collecte par hub.
-2. Missions, cryptes et retours de carte jusqu'a 100 %.
-3. DLC narratifs : Baba Yaga, Blood Ties, Lara's Nightmare et Cold Darkness.
-4. Campagnes de score, cartes et Endurance solo.
-5. New Game+ Extreme Survivor.
-6. Endurance coop et verification Steam des 143 succes.
+PROPHET'S TOMB - SYRIE
+- Reliques : 2.
+- Documents : 4.
+- Fresques : 5.
+- Caches de pieces : 3.
+- Tombeau de debut : compte dans le parcours narratif.
+- Nettoyage final : voyage rapide vers les trois camps apparus apres la fin.
 
-PREPARATION ET PREMIER HUB
+SIBERIAN WILDERNESS
+- Reliques : 3.
+- Documents : 6.
+- Caches de pieces : 3.
+- Caches de survie : 3.
+- Defi : Grab and Go.
 
-- Active chaque camp et consulte la carte apres chaque objectif. Les camps
-  sont les points de voyage rapide et la base du nettoyage.
-- Ramasse les ressources, chasse et ameliore l'equipement. Commence un stock
-  de peau, tissu, bois, minerai et plumes pour les competences et les tenues.
-- Traduis les inscriptions, lis les documents et ouvre les caches visibles.
-  Le niveau de langue vient naturellement si tu fais chaque boucle de hub.
-- Sur les premiers combats, valide une elimination furtive pendant une
-  conversation, une fleche a plus de 25 metres et trois soins en combat.
-- Fais chaque tombeau optionnel des qu'il est accessible. Termine son defi,
-  prends la recompense et verifie le compteur global de tombeaux.
+GLACIAL CAVERN
+- Reliques : 3.
+- Documents : 4.
+- Tombeau : Ice Ship Challenge Tomb, avec codex.
+- La zone est petite mais ses alcoves verticales sont faciles a ignorer.
 
-SIBERIAN WILDERNESS ET INSTALLATION SOVIETIQUE
+SOVIET INSTALLATION
+- Reliques : 18.
+- Documents : 26.
+- Fresques : 12.
+- Caches de pieces : 9.
+- Caches de survie : 21.
+- Coffres forts : 14.
+- Cryptes : Astronomer's Crypt et Forge's Crypt.
+- Tombeaux : Ancient Cistern, Voice of God et Red Mine.
+- Defis : Into Darkness, Data Corruption, Difference of Opinion et Capture
+  the Flag.
+- Missions : Communications Breakdown, The Unlucky Ones, Dangerous Territory,
+  Misguided Intelligence et Gulag Recon.
 
-- Fais un tour de la wilderness avant de poursuivre : camps, reliques,
-  documents, caches de survie, defis et animaux. Les objets bloques par un
-  outil sont a reporter dans une liste locale.
-- Dans l'installation, accomplis les missions secondaires avant de quitter le
-  hub. Fais les tombeaux, cryptes et monolithes dans le meme passage.
-- Utilise les groupes d'ennemis pour varier les actions : jambes, coups de
-  couteau, finishers dans l'eau, cocktail sur deux cibles et fleches speciales.
-- Ameliore une arme jusqu'au bout, puis une categorie de competences. Ne
-  depense pas les cartes dans Score Attack avant d'avoir compris leur bonus.
-- Les camps rouges et les convois sont de bonnes occasions pour les actions
-  de combat. Recharge un camp si un compteur n'a pas ete reconnu.
+ABANDONED MINES
+- Reliques : 1.
+- Documents : 5.
+- Fresques : 1.
+- Caches de pieces : 3.
+- Caches de survie : 3.
+- Coffres forts : 2.
+- Cette zone est liee aux passages de la Soviet Installation.
 
-VALLEE GEOTHERMIQUE
+GEOTHERMAL VALLEY
+- Reliques : 13.
+- Documents : 33.
+- Fresques : 4.
+- Caches de pieces : 9.
+- Caches de survie : 20.
+- Coffres forts : 8.
+- Cryptes : Architect's Crypt et Physician's Crypt.
+- Tombeaux : House of the Afflicted, Catacomb of Sacred Waters, Pit of
+  Judgment et Baths of Kitezh.
+- Defis : Bull's-Eye, Fowl Play, Hung Out to Dry, High Dive et Tossing Gourds.
+- Missions : Defensive Strategy, Surveillance Disruption, A Hearty Meal et
+  Ancient Secrets.
 
-- C'est le premier grand hub a traiter comme une zone complete : missions,
-  tombeaux, cryptes, monolithes, caches, reliques, documents et defis.
-- Fais les missions d'aide avant le depart. Elles comptent pour les succes de
-  missions et donnent souvent acces a des zones de collecte.
-- Continue les langues jusqu'a un niveau maximal dans une langue. Traduis
-  chaque monolithe et ouvre les caches indiquees par la carte.
-- Apprends les animaux rares et les animaux de chasse. Garde les munitions
-  explosives pour l'action sur animal si elle n'est pas encore validee.
-- Controle les achats de la cabane de ravitaillement : les ressources servent
-  a acheter toutes les ameliorations et tous les objets.
+THE ACROPOLIS
+- Reliques : 3.
+- Documents : 10.
+- Fresques : 1.
+- Caches de pieces : 3.
+- Caches de survie : 3.
+- Coffres forts : 3.
+- Defi : Cut Short.
 
-ACROPOLE, COMPLEXE ET ZONES FROIDES
+FLOODED ARCHIVES
+- Reliques : 2.
+- Documents : 5.
+- Fresques : 3.
+- Caches de pieces : 3.
+- Caches de survie : 3.
+- Coffres forts : 1.
+- Utilise le grappin et les passages d'eau pour les alcoves.
 
-- Avant chaque grande portion lineaire, termine la boucle du hub precedent.
-  Les retours sont possibles, mais cette discipline evite les oublis de cache.
-- Sur les rencontres, fais cinq eliminations rapides au fusil, des tirs a la
-  tete, des mises a terre et des finishers. Le compteur de combat doit etre
-  presque complet avant la fin.
-- Ouvre les cryptes et les tombeaux avec les outils nouvellement obtenus.
-  Note les portes fermees, puis reviens apres chaque nouveau piolet, corde ou
-  tenue.
-- Termine les missions et les defis de la zone avant de suivre la route
-  principale. Les collectibles visibles dans les salles de transition sont
-  inclus dans le nettoyage.
+RESEARCH BASE
+- Reliques : 3.
+- Documents : 4.
+- Fresques : 1.
+- Caches de survie : 3.
+- Coffres forts : 2.
+- Defi : Scorched Earth.
 
-CITE PERDUE ET FIN DE CAMPAGNE
+PATH OF THE DEATHLESS
+- Reliques : 1.
+- Documents : 4.
+- Defi : Enemy of My Enemy.
+- Les passages sont lineaires mais certaines alcoves ne reviennent pas
+  naturellement : fais le balayage avant de franchir la porte finale.
 
-- Fais une boucle de collecte autour de chaque camp avant de pousser
-  l'objectif principal. La cite contient des cartes, cryptes, reliques,
-  documents, monolithes et tombeaux qui se melangent facilement.
-- Accumule les cartes et valide un premier niveau de Score Attack plus tard.
-  Pour la campagne, garde surtout les cartes qui reduisent les risques.
-- Termine la campagne, puis conserve la sauvegarde. Reviens dans chaque hub et
-  passe la carte en revue jusqu'a 100 %.
-- Apres la fin, valide les succes de combat qui manquent dans les groupes
-  encore presents, puis commence les blocs DLC et modes.
+THE ORRERY
+- Fresques : 1.
+- Caches de survie : 3.
+- Codex : 1 hors tombeau.
+- Le codex est le seul objet de cette liste qui n'est pas dans un tombeau.
 
-NETTOYAGE 100 % DES HUBS
+THE LOST CITY
+- Reliques : 10.
+- Documents : 8.
+- Fresques : 3.
+- Caches de pieces : 3.
+- Caches de survie : 6.
+- Cryptes : Timekeeper's Crypt.
+- Tombeau : Chamber of Exorcism.
+- Defis : Banner Wars, For Whom the Bell Tolls, Vandal et Burn Baby Burn.
+- Coffres et caches sont souvent sur les remparts et dans les tours.
 
-- Pour chaque region, verifie dans cet ordre : camps, missions, tombeaux,
-  cryptes, defis, monolithes, caches de survie, documents, reliques, coffres
-  et ressources de carte.
-- Ouvre la carte agrandie et regarde le pourcentage de chaque sous-zone. Un
-  hub a 99 % doit etre recoupe par type de collectible, pas seulement par
-  icone.
-- Complete toutes les missions et tous les defis. Les recompenses de langue,
-  equipement et cartes alimentent les derniers succes.
-- Fais 150 cartes, 300 cartes selon les objectifs du profil, puis achete tous
-  les objets de la cabane. Le stock se complete en jouant les modes.
-- Fabrique 25 fleches de chaque type special, puis utilise les fleches et les
-  armes dans les camps restants pour fermer les compteurs.
+CAMPAGNE CHRONOLOGIQUE
 
-CHECKLIST CAMPAGNE ET COMBAT
+01 - SYRIE : THE PROPHET'S TOMB
 
-[ ] Succes de debut, progression et fin de campagne.
-[ ] Un tombeau, puis tous les tombeaux de la campagne.
-[ ] 3 missions et toutes les missions secondaires.
-[ ] 5 defis, puis tous les defis.
-[ ] Cartes : 150, puis 300 selon les objectifs.
-[ ] Une arme completement amelioree et une categorie de competences complete.
-[ ] Niveau maximal d'une langue et toutes les traductions utiles.
-[ ] Actions : conversation, fleche a distance, jambes, eau, cocktail et animal.
-[ ] 25 % puis 75 % des elements narratifs.
-[ ] Toutes les reliques, documents, caches, cryptes et monolithes.
-[ ] Toutes les regions a 100 %.
+[ ] Avant de suivre le premier objectif, explore les couloirs lateraux.
+[ ] Ramasse les 4 documents, 2 reliques, 5 fresques et 3 caches de pieces.
+[ ] Traduis le premier monolithe avec la langue disponible.
+[ ] Pour Reading the Past, interagis avec le monolithe puis ouvre la cache
+    revelee.
+[ ] Active tous les camps et utilise la carte pour verifier les alcoves.
+[ ] Pour Following in Father's Footsteps, termine la mission The Prophet's
+    Tomb.
+[ ] Le tombeau initial sert de tutoriel de traversal et compte dans le fil
+    principal ; ne confonds pas son exploration avec les neuf tombeaux de
+    defi de Siberie.
+[ ] Termine la sortie de Syrie pour lancer Quite A Tumble lorsque l'action
+    l'exige.
 
-BABA YAGA - PARCOURS SANS INTERRUPTION
+CHECKPOINT SYRIE
 
-- Lance le contenu depuis le hub quand l'acces est disponible, mais traite la
-  narration et les objectifs de score apres la campagne si tu veux une route
-  plus sure.
-- Dans la vallee, fais un tour complet des documents et caches avant de
-  quitter une boucle. Le compteur de documents est propre a cette zone.
-- Termine les objectifs de l'histoire, fabrique l'antidote, utilise le nouvel
-  outil et valide le defi de la zone.
-- Avant de sortir, parle encore a Nadia, equipe la tenue et l'arme indiquees,
-  puis valide les eliminations avec la tenue et le projectile du DLC.
-- Termine ensuite chaque niveau Wicked Vale en Score Attack avec l'or. Les
-  cartes et les reprises sont autorisees : lis les contraintes avant de lancer.
+[ ] Documents : 4/4.
+[ ] Reliques : 2/2.
+[ ] Fresques : 5/5.
+[ ] Caches de pieces : 3/3.
+[ ] Monolithe traduit.
+[ ] Following in Father's Footsteps.
 
-BLOOD TIES - MANOIR CROFT
+02 - SIBERIAN WILDERNESS
 
-- Fais un tour lent du manoir : documents, reliques et indices d'interaction.
-  Les objets sont plus faciles a suivre avant de chercher la sortie.
-- Ouvre le coffre et trouve la cle principale en suivant les indices de la
-  piece, puis reviens dans les salles deja visitees.
-- Termine 50 % des reliques et 50 % des documents avant la fin du premier
-  passage, puis refais la boucle jusqu'a tous les documents et toutes les
-  reliques.
-- Le succes de verite du manoir se valide a la derniere verification du
-  contenu. Cette section reste sans spoiler : suis les objectifs de la zone.
+[ ] Active le camp Sheltered Ridge et repose-toi.
+[ ] Ramasse 6 documents, 3 reliques et 3 caches de survie.
+[ ] Apprends les bases de chasse et conserve les peaux pour les upgrades.
+[ ] Pour Quite A Tumble, traverse la sequence de l'avalanche.
+[ ] Pour Tougher Than She Looks, survis a la nuit dans la zone enneigee.
+[ ] Ramasse l'objet du defi Grab and Go et termine le defi.
+[ ] Les caches de survie se trouvent sur les hauteurs, pres des arbres morts et
+    a cote des parois de glace.
+[ ] Ne gaspille pas les ressources : les upgrades de camp deviennent utiles
+    dans la Soviet Installation.
 
-LARA'S NIGHTMARE ET COLD DARKNESS
+GRAB AND GO
 
-- Dans Lara's Nightmare, detruis un crane, bats les vagues necessaires puis
-  termine le cauchemar. Apprends le trajet des pieces avant de viser le score.
-- Dans Cold Darkness, sauve les prisonniers, utilise les fleches speciales et
-  fais les objectifs de survie. Le mode est independant de la carte principale.
-- Garde les objectifs de score pour une seconde tentative si le premier tour
-  sert seulement a reconnaitre les salles et les ressources.
+[ ] Localise les objets de defi dans les chemins forestiers, les troncs et les
+    plateformes proches des camps.
+[ ] Utilise Survival Instinct dans la neige : les objets se confondent avec
+    les rochers blancs.
+[ ] Controle le compteur du defi avant de quitter la region.
+
+03 - GLACIAL CAVERN : ICE SHIP
+
+[ ] Active le camp de la caverne.
+[ ] Ramasse 3 reliques et 4 documents.
+[ ] Termine Ice Ship Challenge Tomb des que l'entree est accessible.
+[ ] Dans le tombeau, utilise la glace, les cordes et le courant d'eau pour
+    atteindre le coffre du codex.
+[ ] Interagis avec le codex et ouvre la recompense avant de sortir.
+[ ] Le tombeau valide Challenging et compte pour Tomb Raider.
+[ ] Les alcoves au-dessus de la salle de glace sont les premiers objets
+    oublies : monte sur toutes les corniches avant la sortie.
+
+04 - SOVIET INSTALLATION : PREMIERE ARRIVEE
+
+OBJECTIF
+
+Installer le hub principal, recuperer les outils de traversal et commencer les
+missions secondaires.
+
+[ ] Active Installation Vista, Logging Camp, Communications Tower et les
+    camps secondaires.
+[ ] Ramasse les documents et reliques accessibles sans le grappin.
+[ ] Achete a la Supply Shack les ressources et l'equipement qui servent a
+    Avid Shopper ; note chaque achat.
+[ ] Apprends le russe en priorite jusqu'au palier necessaire aux monolithes.
+[ ] Pour Fluent, pousse une langue a son niveau maximum plutot que de repartir
+    les points trop tot.
+[ ] Effectue une stealth kill pendant qu'un ennemi parle pour One-Sided
+    Conversation.
+[ ] Fais un headshot a plus de 25 metres pour English Pedigree.
+[ ] Pour Fall Guys, tire dix ennemis dans les jambes ; les combats du hub sont
+    les plus simples.
+[ ] Pour Rapid Recovery, soigne Lara trois fois dans une meme succession de
+    combats sans finir l'affrontement.
+[ ] Ramasse les 12 fresques, les caches et les coffres au fur et a mesure que
+    les nouvelles zones s'ouvrent.
+
+MISSIONS SECONDAIRES - SOVIET INSTALLATION
+
+COMMUNICATIONS BREAKDOWN
+[ ] Rejoins le poste radio et repare les relais.
+[ ] Explore les tours et les passerelles avant la sortie.
+[ ] Controle les caches de survie autour du poste.
+
+THE UNLUCKY ONES
+[ ] Suis les indices dans les batiments de la mine.
+[ ] Ouvre les salles de service et ramasse les documents.
+[ ] Fais la mission sans laisser une cache dans un recoin.
+
+DANGEROUS TERRITORY
+[ ] Traverse la zone de chasse et les passages verticaux.
+[ ] Utilise les cordes pour les coffres forts et les caches.
+[ ] Fais les combats avec arc ou stealth pour economiser les ressources.
+
+MISGUIDED INTELLIGENCE
+[ ] Rejoins l'antenne et recupere les informations de mission.
+[ ] Profite des toits pour le nettoyage de reliques et de documents.
+
+GULAG RECON
+[ ] Explore le perimetre du camp et recupere les reperes de la mission.
+[ ] Les collectibles des tours deviennent simples avec le grappin.
+[ ] Valide la mission dans le menu avant de revenir au camp.
+
+CHECKPOINT SOVIET INSTALLATION
+
+[ ] 18 reliques.
+[ ] 26 documents.
+[ ] 12 fresques.
+[ ] 9 caches de pieces.
+[ ] 21 caches de survie.
+[ ] 14 coffres forts.
+[ ] Communications Breakdown.
+[ ] The Unlucky Ones.
+[ ] Dangerous Territory.
+[ ] Misguided Intelligence.
+[ ] Gulag Recon.
+[ ] Into Darkness, Data Corruption, Difference of Opinion et Capture the Flag.
+[ ] Astronomer's Crypt et Forge's Crypt.
+[ ] Ancient Cistern, Voice of God et Red Mine.
+[ ] Tous les achats disponibles a la Supply Shack.
+
+05 - ABANDONED MINES
+
+[ ] Ramasse 1 relique, 5 documents, 1 fresque, 3 caches de pieces,
+    3 caches de survie et 2 coffres forts.
+[ ] Reviens dans les salles avant les treuils quand le grappin est disponible.
+[ ] Controle les wagons, plateformes de bois et galeries laterales.
+[ ] Les objets de la mine sont comptabilises dans Soviet Installation sur
+    certaines cartes : verifie le pourcentage de la region, pas seulement le
+    nom de la sous-zone.
+
+06 - SOVIET INSTALLATION : TOMBEAUX ET DEFIS
+
+ANCIENT CISTERN
+[ ] Entree dans les ruines de la zone centrale.
+[ ] Utilise l'eau, les radeaux et les braseros pour ouvrir le chemin.
+[ ] Ouvre le codex et valide le tombeau.
+
+VOICE OF GOD
+[ ] Entree dans une zone de ruines proche des falaises.
+[ ] Equilibre les portes et les poids dans le courant d'air.
+[ ] Ouvre le codex et verifie le compteur.
+
+RED MINE
+[ ] Entree dans une galerie de mine.
+[ ] Utilise les rails, les chariots et l'eau pour atteindre le coffre.
+[ ] Ouvre le codex et valide le tombeau.
+
+ASTRONOMER'S CRYPT
+[ ] Cherche l'entree sur le versant proche d'Installation Vista.
+[ ] Traverse la galerie et ouvre le tresor de crypte.
+[ ] Fais un changement de slot avant l'ouverture si le compteur est important.
+
+FORGE'S CRYPT
+[ ] Entree dans une zone de ruines/forge proche du camp principal.
+[ ] Utilise les parois et le grappin pour atteindre la salle finale.
+[ ] Ouvre le tresor et attends la sauvegarde automatique.
+
+INTO DARKNESS
+[ ] Detruis ou allume tous les objets du defi dans les galeries sombres.
+[ ] Utilise Survival Instinct pour reperer les points qui ne sont pas sur la
+    trajectoire principale.
+
+DATA CORRUPTION
+[ ] Trouve et detruis les drones ou signaux dans les tours.
+[ ] Fais le tour de chaque plateforme, pas seulement du batiment central.
+
+DIFFERENCE OF OPINION
+[ ] Observe les cibles ou elements de defi dans les camps.
+[ ] Utilise les fleches et les hauteurs pour les objets eloignes.
+
+CAPTURE THE FLAG
+[ ] Recupere les drapeaux dans les tours, palissades et structures hautes.
+[ ] Reviens apres le grappin pour atteindre les derniers points.
+
+07 - GEOTHERMAL VALLEY : ARRIVEE
+
+OBJECTIF
+
+Installer le second grand hub et lancer les quatre missions secondaires.
+
+[ ] Active Ruins Encampment, Valley Farmstead, Cathedral Courtyard et les
+    camps de hauteurs.
+[ ] Ramasse les 13 reliques, 33 documents, 4 fresques, 9 caches de pieces,
+    20 caches de survie et 8 coffres forts.
+[ ] Ouvre les cartes de monolithes et augmente la langue.
+[ ] Fais au moins un tombeau des que l'outil necessaire est disponible.
+[ ] Observe les animaux et garde des ressources pour les upgrades.
+[ ] Assiste a l'evenement qui valide Paying Respects lorsque la zone l'offre :
+    suis le marqueur de la ceremonie et interagis avec le lieu.
+[ ] Pour For My Next Trick..., plonge dans le puits de la ferme lorsqu'il est
+    accessible.
+[ ] Pour Bar Brawl, prends une bouteille dans une zone de camp et utilise-la
+    pour une melee kill.
+
+MISSIONS SECONDAIRES - GEOTHERMAL VALLEY
+
+DEFENSIVE STRATEGY
+[ ] Rejoins le point de defense et elimine les menaces.
+[ ] Nettoie les tours, les maisons et les rebords autour de l'objectif.
+[ ] Valide la mission au camp.
+
+SURVEILLANCE DISRUPTION
+[ ] Detruis les relais et les postes de surveillance.
+[ ] Les relais en hauteur demandent le grappin ou une tyrolienne manuelle.
+
+A HEARTY MEAL
+[ ] Suis les traces dans la vallee et recupere la ressource demandee.
+[ ] Fais la boucle par les rives et les grottes pour les documents et caches.
+
+ANCIENT SECRETS
+[ ] Recupere les objets de la mission dans les ruines.
+[ ] Termine le tombeau ou la section de traversal associee.
+[ ] Valide la mission et controle le compteur de missions.
+
+CHECKPOINT GEOTHERMAL VALLEY
+
+[ ] 13 reliques.
+[ ] 33 documents.
+[ ] 4 fresques.
+[ ] 9 caches de pieces.
+[ ] 20 caches de survie.
+[ ] 8 coffres forts.
+[ ] Defensive Strategy, Surveillance Disruption, A Hearty Meal et Ancient
+    Secrets.
+[ ] Bull's-Eye, Fowl Play, Hung Out to Dry, High Dive et Tossing Gourds.
+[ ] Architect's Crypt et Physician's Crypt.
+[ ] House of the Afflicted, Catacomb of Sacred Waters, Pit of Judgment et
+    Baths of Kitezh.
+
+08 - GEOTHERMAL VALLEY : DEFIS
+
+BULL'S-EYE
+[ ] Tire les cibles suspendues autour de la ferme et des rochers.
+[ ] Les dernieres cibles sont sur les hauteurs autour des cascades.
+
+FOWL PLAY
+[ ] Trouve les poules dans les enclos, cabanes et chemins de la ferme.
+[ ] Ramasse ou jette le nombre demande dans la zone prevue.
+
+HUNG OUT TO DRY
+[ ] Coupe ou detruis les objets suspendus.
+[ ] Fais le tour des ponts, des falaises et des rebords de la vallee.
+
+HIGH DIVE
+[ ] Reussis les plongeons depuis les plateformes elevees.
+[ ] Controle la profondeur de l'eau avant de sauter.
+
+TOSSING GOURDS
+[ ] Jette les fruits ou objets dans les paniers.
+[ ] Fais le tour de la ferme et des points d'eau ; certains paniers sont
+    partiellement masques par les cabanes.
+
+09 - GEOTHERMAL VALLEY : TOMBEAUX ET CRYPTES
+
+HOUSE OF THE AFFLICTED
+[ ] Entree dans une maison de la vallee.
+[ ] Utilise le feu, la corde et les plateformes pour ouvrir la salle finale.
+[ ] Ouvre le codex.
+
+CATACOMB OF SACRED WATERS
+[ ] Entree dans les ruines d'eau.
+[ ] Nage sous les portes et ouvre le passage par les mecanismes.
+[ ] Ouvre le codex et controle la sauvegarde.
+
+PIT OF JUDGMENT
+[ ] Fais monter et descendre la plateforme centrale avec les poids.
+[ ] Atteins le codex dans la salle haute.
+
+BATHS OF KITEZH
+[ ] Entree dans la zone des bains.
+[ ] Utilise les bassins, les leviers et les cordes.
+[ ] Ouvre le codex et valide le dernier tombeau de la vallee.
+
+ARCHITECT'S CRYPT
+[ ] Suis l'ouverture rocheuse proche des ruines.
+[ ] Ouvre le tresor apres la section de traversal.
+
+PHYSICIAN'S CRYPT
+[ ] Entree par la zone de riviere et les parois.
+[ ] Ouvre le tresor et verifie le compteur des cryptes.
+
+10 - THE ACROPOLIS
+
+[ ] Ramasse 3 reliques, 10 documents, 1 fresque, 3 caches de pieces,
+    3 caches de survie et 3 coffres forts.
+[ ] Fais le defi Cut Short en detruisant les cibles suspendues.
+[ ] Pour A Trusty Old Friend, utilise le fusil et tue cinq ennemis en moins de
+    dix secondes. Une arene de l'Acropolis convient tres bien.
+[ ] Pour Blade of Justice, fais des stealth kills au couteau ; compte 25 sur
+    toute la partie.
+[ ] Utilise les chemins de toit et les fenetres avant de descendre.
+[ ] Controle les documents des salles de garde avant de quitter la zone.
+
+11 - FLOODED ARCHIVES
+
+[ ] Ramasse 2 reliques, 5 documents, 3 fresques, 3 caches de pieces,
+    3 caches de survie et 1 coffre fort.
+[ ] Les documents sont souvent derriere les murs d'eau et dans les alcoves
+    situees au-dessus des plateformes.
+[ ] Utilise le grappin sur les parois et les radeaux.
+[ ] Ouvre chaque salle secondaire avant le passage de sortie.
+[ ] Fais une sauvegarde avant le grand bassin final.
+
+12 - RESEARCH BASE
+
+[ ] Ramasse 3 reliques, 4 documents, 1 fresque, 3 caches de survie et
+    2 coffres forts.
+[ ] Fais le defi Scorched Earth dans les salles d'installation.
+[ ] Controle les passerelles et les postes de tir en hauteur.
+[ ] Le camp de la base est un bon endroit pour comparer les totaux de la carte.
+[ ] Si un objet semble hors d'atteinte, note-le et reviens avec le gear.
+
+SCORCHED EARTH
+[ ] Detruis les objets de defi avec le feu ou les explosifs.
+[ ] Fais la boucle de la salle de controle, des tuyaux et de la cour.
+[ ] Le compteur apparait dans la section Challenges de la carte.
+
+13 - PATH OF THE DEATHLESS
+
+[ ] Ramasse 1 relique et 4 documents.
+[ ] Fais le defi Enemy of My Enemy en exploitant les combats entre factions.
+[ ] Reste sur les hauteurs pour atteindre les alcoves.
+[ ] Pour Fearless, trouve un Deathless Swordsman isole, n'utilise que melee
+    et finisher ; aucun tir, explosif ou fleche ne doit toucher la cible.
+[ ] Ouvre le camp avant la derniere porte et verifie la carte.
+
+14 - THE LOST CITY
+
+[ ] Ramasse 10 reliques, 8 documents, 3 fresques, 3 caches de pieces et
+    6 caches de survie.
+[ ] Fais Banner Wars, For Whom the Bell Tolls, Vandal et Burn Baby Burn.
+[ ] Ouvre Timekeeper's Crypt et interagis avec le tresor.
+[ ] Termine Chamber of Exorcism et ouvre le codex.
+[ ] Controle les remparts, les tours, les escaliers et les plateformes sous
+    les ponts.
+[ ] Pour The Road Less Travelled, termine la mission Protector et ouvre le
+    chemin vers Kitezh.
+[ ] Pour The Price of Truth, termine la campagne.
+[ ] Pour Ultimate Survivor et Extreme Survivor, la difficulte doit rester
+    celle choisie au lancement de la partie jusqu'au generique.
+
+THE LOST CITY : DEFIS
+
+BANNER WARS
+[ ] Brule les bannieres sur les remparts et dans les tours.
+
+FOR WHOM THE BELL TOLLS
+[ ] Detruis les cloches suspendues dans les ruelles et les places.
+
+VANDAL
+[ ] Detruis les objets fragiles en hauteur et autour des murailles.
+
+BURN BABY BURN
+[ ] Allume les braseros ou objets de defi dans les secteurs de la ville.
+[ ] Utilise Survival Instinct et le compteur pour la derniere icone.
+
+TIMEKEEPER'S CRYPT
+[ ] Entree dans les galeries sous la ville.
+[ ] Traverse les salles et ouvre le tresor.
+[ ] C'est la cinquieme crypte pour The Chosen Few.
+
+CHAMBER OF EXORCISM
+[ ] Utilise l'eau, les ascenseurs et les plateformes.
+[ ] Ouvre le codex et controle Tomb Raider.
+
+15 - NETTOYAGE 100 % DE LA CAMPAGNE
+
+[ ] 100 % Prophet's Tomb.
+[ ] 100 % Siberian Wilderness.
+[ ] 100 % Glacial Cavern.
+[ ] 100 % Soviet Installation.
+[ ] 100 % Abandoned Mines.
+[ ] 100 % Geothermal Valley.
+[ ] 100 % The Acropolis.
+[ ] 100 % Flooded Archives.
+[ ] 100 % Research Base.
+[ ] 100 % Path of the Deathless.
+[ ] 100 % The Orrery.
+[ ] 100 % The Lost City.
+[ ] 5 tresors de cryptes ouverts.
+[ ] 9 tombeaux ouverts dans la meme sauvegarde.
+[ ] 18 defis termines.
+[ ] 9 missions secondaires terminees.
+[ ] Une langue au niveau maximum.
+[ ] 40 caches de survie pour Keen Eye.
+[ ] 150 puis 300 cartes collectees.
+[ ] Supply Shack videe pour Avid Shopper.
+[ ] 25 stealth knife kills si Blade of Justice n'est pas encore valide.
+[ ] Siberian Ranger : 15 combats apres la campagne.
+
+ACTIONS DE COMBAT ET D'EQUIPEMENT
+
+[ ] One-Sided Conversation : stealth kill un ennemi en pleine discussion.
+[ ] Rapid Recovery : soigne Lara trois fois pendant des combats.
+[ ] English Pedigree : headshot a plus de 25 metres avec une fleche.
+[ ] Fall Guys : dix tirs dans les jambes.
+[ ] Firestarter : deux ennemis avec un seul Molotov.
+[ ] Glub Glub Glub : trois ennemis noyes avec water finisher.
+[ ] Weaponsmith : une arme entierement amelioree.
+[ ] Craftswoman : cinq pieces d'equipement fabriquees.
+[ ] Self-Improvement Junkie : toutes les competences d'une categorie.
+[ ] A Trusty Old Friend : cinq kills au fusil en dix secondes.
+[ ] Zipper : transfert manuel entre deux lignes.
+[ ] Was That Really Necessary? : tue un animal avec un explosif.
+[ ] Blade of Justice : 25 stealth kills au couteau.
+[ ] Bar Brawl : melee kill avec une bouteille.
+[ ] Renegade : pousse cinq ennemis d'une falaise avec melee.
+[ ] No Guts, No Glory : plongeon d'au moins 2,5 secondes.
+[ ] Trick Shot : tire une bouteille en plein vol.
+[ ] Laying Down The Law : six kills au revolver sans recharger.
+[ ] Dead Ringer : 25 headshots au Bolt-Action Rifle.
+[ ] Triple Threat : trois ennemis avec un seul tir de shotgun.
+[ ] Chemical Warfare : cinq ennemis avec une Poison Arrow.
+[ ] Rotisserie : tire une poule en plein vol avec une fleche de feu.
+[ ] Bacon! : tue un sanglier razorback avec un Molotov.
+[ ] Quick and Painless : 15 cerfs tues d'un tir au coeur.
+[ ] Huntress : 50 animaux en portant l'outfit Huntress.
+
+METHODE POUR LES ACTIONS DELICATES
+
+[ ] Pour Trick Shot, lance une bouteille dans une zone sure puis tire-la
+    avant qu'elle ne retombe.
+[ ] Pour Laying Down The Law, choisis une arene avec six cibles faibles, ne
+    recharge pas et garde le revolver equipe.
+[ ] Pour Triple Threat, blesse trois ennemis puis utilise une seule munition
+    de shotgun au corps a corps.
+[ ] Pour Chemical Warfare, regroupe cinq ennemis dans une arene et tire la
+    fleche dans le groupe.
+[ ] Pour Quick and Painless, vise le coeur du cerf de cote ou de face ; le
+    corps doit tomber directement.
+[ ] Pour Bacon!, utilise une sauvegarde avant la chasse au sanglier.
+[ ] Pour Fearless, evite toute fleche ou explosion autour du Swordsman.
+[ ] Pour Untouchable, utilise Chapter Replay sur cinq niveaux courts et
+    n'encaisse aucun degat avant l'ecran de resultat.
+
+BABA YAGA : THE TEMPLE OF THE WITCH
+
+REGLES
+
+- Le DLC s'ouvre depuis Expeditions ou la carte de la campagne.
+- Le Wicked Vale contient des documents, des caches de survie et un defi.
+- Fais les documents et caches avant les Score Attacks.
+- Les succes de tenue et de Dreamstinger sont plus simples apres la progression
+  narrative du DLC.
+- Si un compteur de score ne monte pas, verifie que le bon defi est selectionne
+  avant de lancer l'expedition.
+
+ROUTE CHRONOLOGIQUE
+
+[ ] Abandon All Hope : entre dans le Wicked Vale.
+[ ] Hide and Seek : retrouve Nadia et avance dans la mission.
+[ ] Craftswoman/Amateur Chemist : fabrique l'Antidote au moment demande.
+[ ] A Moment of Clarity : affronte la Witch et termine la sequence.
+[ ] Last Ride of the Witch House : active l'Ancient Lift.
+[ ] Why the Chicken Crossed the Vale : prends le Lift pour revenir de l'autre
+    cote.
+[ ] Truth Behind the Myth : termine la resolution du DLC.
+[ ] Fond Farewell : reparle a Nadia avant de quitter definitivement le Vale.
+
+WICKED VALE : COLLECTIBLES
+
+[ ] Documents : ramasse au moins 50 % pour Season of the Witch.
+[ ] Documents : fais ensuite la totalite pour Complete History of Witchcraft.
+[ ] Caches de survie : ouvre chaque cache des plateformes, grottes, ruines et
+    chemins autour de la Lift.
+[ ] The Witch Bottles : toutes les caches de survie du Wicked Vale.
+[ ] Vasilisa's Lanterns : termine le defi de lanternes.
+[ ] Witch's Wardrobe : equipe simultanement Dreamstinger et Wraithskin.
+[ ] Servant of the Witch : confonds un ennemi avec Dreamstinger.
+[ ] Bravo's Legacy : confonds dix ennemis.
+[ ] Persuasive Argument : confonds trois ennemis avec un seul tir.
+[ ] Demon in the Dark : tue dix ennemis avec Wraithskin.
+[ ] The Wraith of Siberia : tue cinquante ennemis avec Wraithskin.
+[ ] Witchcraft for Beginners : essaie un Wicked Vale Score Attack.
+[ ] Witch-Hunt : or sur une epreuve.
+[ ] Witch Trials : or sur toutes les epreuves Wicked Vale.
+
+HENNY PENNY
+
+[ ] Sur une sauvegarde separee, tombe volontairement de la Lift vers une zone
+    de mort. Recharge ensuite la sauvegarde de travail.
+
+BLOOD TIES : CROFT MANOR
+
+REGLES
+
+- Blood Ties se joue depuis Expeditions et ne modifie pas la progression de la
+  campagne.
+- Le manoir contient des documents et reliques independants.
+- Fais tous les documents et reliques avant d'ouvrir le coffre.
+- Les interactions avec les objets doivent etre lues jusqu'a la fin pour les
+  compteurs.
+
+ROUTE DU MANOIR
+
+[ ] Explore le rez-de-chaussee : hall, salon, bibliotheque et escaliers.
+[ ] Recupere les indices de la famille dans les pieces principales.
+[ ] Ouvre les portes secondaires et les tiroirs accessibles.
+[ ] Monte dans les chambres et les couloirs lateraux.
+[ ] Assemble les indices qui conduisent a la Master Key.
+[ ] Key to the Past : obtiens la Master Key.
+[ ] Master Detective : ouvre le coffre de Lord Croft.
+[ ] Legacy : termine la recherche de la verite du manoir.
+[ ] Quiet Time : trouve le meilleur siege dans la maison.
+[ ] Meet the Crofts : 50 % des documents.
+[ ] Complete Family History : tous les documents.
+[ ] Relic Hunter : 50 % des reliques.
+[ ] Home Raider : toutes les reliques.
+
+CHECKLIST BLOOD TIES
+
+[ ] Documents du hall et de la bibliotheque.
+[ ] Documents du salon et des bureaux.
+[ ] Documents des chambres et couloirs de l'etage.
+[ ] Documents du grenier, de la cave et des pieces revelees par les cles.
+[ ] Reliques des vitrines et etageres du rez-de-chaussee.
+[ ] Reliques des chambres, bibliotheque et bureau.
+[ ] Reliques des pieces ouvertes par la Master Key.
+[ ] Coffre de Lord Croft ouvert.
+[ ] Toutes les interactions de l'histoire validees.
+
+LARA'S NIGHTMARE
+
+[ ] Enter the Nightmare : detruis un Skull of Rage.
+[ ] Fight the Fear : elimine 100 ennemis.
+[ ] Sweet Dreams : bats le Nightmare.
+[ ] Fais le tour de la maison et detruis les skulls avant l'affrontement final.
+[ ] Utilise les armes et les soins disponibles dans la piece ; les munitions
+    sont gerees comme une expedition independante.
+[ ] La carte est rejouable si un skull manque.
+
+COLD DARKNESS AWAKENED
+
+REGLE IMPORTANTE
+
+[ ] Avant de lancer Cold Darkness, equipe les defis correspondants dans le
+    menu Expeditions. Sans le defi actif, certains succes ne progressent pas.
+[ ] Lance le mode en difficulte confortable pour le nettoyage puis rejoue pour
+    An Ocean in Storm si necessaire.
+
+PARCOURS
+
+[ ] Recupere la carte des documents dans une tour proche du batiment central.
+[ ] Un document est sur la structure a l'est des pipelines sud : ramasse-le
+    avant de fermer la derniere tour, car le passage peut devenir inaccessible.
+[ ] Uncovering the Truth : ouvre les 8 documents.
+[ ] To the Rescue : libere les 6 prisonniers.
+[ ] Armed For Bear : ramasse 6 armes differentes dans les cabanes, tours et
+    wagons.
+[ ] Give a Man a Fire : tue 20 ennemis avec les Dragonfire Shotgun Rounds.
+[ ] Spinning Leaf : fais 5 headshots a la fleche normale en une minute.
+[ ] Legendary Gunsmith : ouvre les 6 coffres d'amelioration.
+[ ] Perfectionist : ferme toutes les tours sans erreur.
+[ ] An Ocean in Storm : tue 75 ennemis dans une seule tentative.
+[ ] Epidemiologist : termine Cold Darkness.
+[ ] Combat Specialist : complete la route de combat et laisse l'expedition
+    atteindre son ecran de resultat.
 
 ENDURANCE SOLO
 
-- Fais plusieurs expeditions courtes avant la tentative a 10 jours. Apprends
-  le rythme feu, nourriture, froid, chasse, tombeaux et extraction.
-- Pour les succes, valide progressivement : 5 jours, 7 jours, 10 jours,
-  5 artefacts, 10 artefacts, 5 cryptes, un feu pour se rechauffer, 15 combats
-  apres la fin et les objectifs de cartes.
-- Ne pars pas avec trop d'artefacts si la nourriture ou la temperature devient
-  critique. La sortie est prioritaire ; un echec ne doit pas effacer un bloc
-  deja valide dans une autre expedition.
-- Pour les cartes, termine un niveau avec cinq cartes, un bonus de 200 %, une
-  medaille or, trois defis rejoues et dix niveaux or differents.
+REGLES
 
-ENDURANCE COOP - 19/19 SUCCES
+- Une expedition se gagne en quittant la foret, pas en atteignant simplement
+  un nombre de jours.
+- Mange, chauffe-toi et recycle les ressources. Les artefacts augmentent le
+  score mais augmentent aussi le risque.
+- Les cryptes sont visibles comme des entrées explorables : ouvre cinq pour
+  Who Needs a Map? et cinq codex/sarcophages pour Raider.
+- Fais une expedition courte pour Nope, puis des expeditions longues pour les
+  objectifs de jours.
 
-- Joue avec un partenaire stable. Avant chaque expedition, annonce qui marque
-  les ennemis, qui ouvre les cryptes et qui garde les ressources. La connexion
-  doit rester stable pendant les expeditions longues.
-- Commence par une expedition d'apprentissage, puis organise les objectifs
-  suivants dans un ordre unique : nourriture, animaux dangereux, kills, feu,
-  distance, sauvetage et extraction.
-- Mange a deux la viande de trois ours, puis de cinq lapins ou ecureuils.
-  Fais aussi une expedition ou l'un des deux est affame au moment du repas.
-- Tuez ensemble dix animaux dangereux puis 25 ennemis. Ravive le partenaire,
-  tue un ennemi qui l'attaque au corps a corps et elimine cinq ennemis marques
-  par lui.
-- Echappez-vous avec 5 artefacts, puis 10 artefacts apres 7 jours, et enfin
-  20 artefacts apres 10 jours. Faites une partie avec trois camps ennemis
-  de nuit.
-- Faites une journee a plus de 60 metres l'un de l'autre. Rechauffe-toi au
-  feu allume par ton partenaire, puis ramasse un artefact pendant qu'il est a
-  terre. Ces deux objectifs se preparent volontairement.
+EXPEDITION COURTE
 
-[ ] A Feast for Two : trois viandes d'ours a deux.
-[ ] A Snack for Two : cinq viandes de lapin ou d'ecureuil a deux.
-[ ] Say "Aaah" : manger alors qu'un partenaire est affame.
-[ ] Adventure Friends : sortir avec 5 artefacts.
-[ ] Sisters of Artemis : 10 animaux dangereux cumules.
-[ ] Sisters of Athena : 25 ennemis cumules.
-[ ] Pick-Me-Up : ranimer un joueur.
-[ ] Get Away from Her! : tuer un ennemi au corps a corps sur le partenaire.
-[ ] Bonding Time : 7 jours et 10 artefacts.
-[ ] Alone Time : une journee a plus de 60 metres.
-[ ] Communication Skills : cinq ennemis marques par le partenaire.
-[ ] Master and Apprentice : 10 jours et 20 artefacts.
-[ ] For the Night is Dark : trois camps ennemis de nuit.
-[ ] Teamwork : feu allume par le partenaire.
-[ ] "Teamwork" : artefact pendant que le partenaire est a terre.
-[ ] Objectifs Endurance solo : 5, 7, 10 jours et artefacts.
-[ ] Cryptes et chaleur : 5 cryptes et feu de camp.
-[ ] Extraction et survie : les sorties Endurance demandees.
-[ ] Toutes les notifications coop et le total Steam 143/143.
+[ ] Nope : sors au jour 1 sans ramasser d'artefact.
+[ ] One Way to Do It : rechauffe Lara en restant dans un feu.
+[ ] Happy Camper : survis 5 jours.
+[ ] Nature Retreat : survis 7 jours.
+[ ] Great Outdoors : survis 10 jours.
+[ ] Vacation : sors apres 7 jours.
+[ ] Great Haul : sors apres 10 jours avec au moins 10 artefacts.
+[ ] Archaeologist : ramasse 5 artefacts.
+[ ] Master Archaeologist : ramasse 10 artefacts.
+[ ] Who Needs a Map? : localise 5 cryptes.
+[ ] Raider : ouvre 5 codex ou sarcophages.
+[ ] Skillful Raider : ouvre 5 codex/sarcophages sans declencher de piege.
+[ ] Fast Reflexes : declenche trois pieges de plafond puis detruis-les.
+[ ] Well Done : mange cinq oiseaux, ecureuils ou lapins tues au feu.
+[ ] Still Tastes Good : mange cinq loups tues au poison.
+[ ] Huntress : equipe la tenue Huntress et tue 50 animaux.
+[ ] Keep a healing and warming route visible on the map before night.
 
-EXTREME SURVIVOR ET FINITION
+ENDURANCE COOPERATIVE
 
-- Lance New Game+ avec l'equipement deja debloque. La difficulte Extreme
-  Survivor est le dernier passage : suis uniquement la route principale,
-  active les camps et conserve les ressources pour les passages obligatoires.
-- Ne quitte pas une salle de combat en pensant que les collectibles seront
-  necessaires : ce run sert a la difficulte, pas au nettoyage.
-- Termine le jeu et laisse la notification se valider avant de quitter le
-  menu. Controle ensuite Survivor, cartes, DLC, Endurance et coop.
+[ ] A Dinner for Two : mange la viande de 3 loups avec ton partenaire.
+[ ] A Feast for Two : mange la viande de 3 ours avec ton partenaire.
+[ ] A Snack for Two : mange la viande de 5 lapins ou ecureuils avec ton
+    partenaire.
+[ ] Say "Aaah" : mange alors qu'au moins un des deux est affame.
+[ ] Adventure Friends : sors avec 5 artefacts.
+[ ] Adventure Besties : sors avec 5 artefacts moyens ou grands.
+[ ] Sisters of Artemis : tue 10 animaux dangereux a deux dans une expedition.
+[ ] Sisters of Athena : tue 25 ennemis a deux dans une expedition.
+[ ] Pick-Me-Up : ranime ton partenaire.
+[ ] No One Left Behind : ranime-le trois fois dans la meme expedition.
+[ ] Get Away from Her! : tue un ennemi qui attaque ton partenaire au melee.
+[ ] Bonding Time : sors apres 7 jours avec au moins 10 artefacts.
+[ ] Alone Time : reste plus de 60 metres de ton partenaire pendant une journee.
+[ ] Communication Skills : tue 5 ennemis marques par ton partenaire.
+[ ] Master and Apprentice : sors apres 10 jours avec au moins 20 artefacts.
+[ ] For the Night is Dark : nettoie trois camps ennemis de nuit.
+[ ] Teamwork : rechauffe-toi pres d'un feu allume par ton partenaire.
+[ ] "Teamwork" : ramasse un artefact pendant que ton partenaire est a terre.
+[ ] Team Survival : sors apres 7 jours sans utiliser de revive.
 
-VERIFICATION FINALE - 143/143
+CONSEILS ENDURANCE COOP
 
-[ ] Campagne, 100 % des regions et collectibles.
-[ ] Missions, tombeaux, cryptes, monolithes et defis.
-[ ] Cartes, scores, competences, armes et langue.
-[ ] Baba Yaga, Blood Ties, Lara's Nightmare et Cold Darkness.
-[ ] Endurance solo, Score Attack et Extreme Survivor.
-[ ] 19 objectifs Endurance coop.
-[ ] Profil Steam : 143/143 succes.
+- Faites une expedition dediee aux objectifs de nourriture, puis une autre aux
+  jours et artefacts. Tout cumuler en une seule tentative augmente le risque.
+- Pour Alone Time, chacun prend une direction sure et conserve une route de
+  retour. Le compteur se valide apres une journee, pas apres quelques secondes.
+- Pour Communication Skills, le joueur A marque, le joueur B tue, puis
+  inversez les roles si le compteur n'est pas cumule.
+- Pour Team Survival, ne laissez personne tomber. Si le partenaire est a
+  terre, faites un retour au camp avant que la jauge ne se vide.
+- Pour Master and Apprentice, emportez au moins 20 artefacts mais laissez une
+  marge de ressources pour atteindre la sortie.
+
+SCORE ATTACK
+
+REGLES
+
+- Score Attack utilise les niveaux de la campagne et les tombes disponibles.
+- Les cartes positives augmentent le score, les cartes negatives augmentent
+  le multiplicateur ou la difficulte.
+- Commence par un niveau court pour Gilded, puis choisis un niveau que tu
+  connais pour My Own Worst Enemy.
+- Les medailles se lisent sur l'ecran de resultat.
+
+[ ] Gilded : or sur un niveau.
+[ ] Well Begun Is Half Done : or sur 10 niveaux differents.
+[ ] Way to Go : bronze ou mieux sur chaque niveau.
+[ ] Golden Child : or sur chaque niveau.
+[ ] Iron Will : termine un niveau avec 5 cartes.
+[ ] My Own Worst Enemy : bonus de cartes d'au moins 200 %.
+[ ] That All You Got? : valide trois Replay Challenges dans le meme niveau.
+[ ] Witchcraft for Beginners : tente un niveau de Baba Yaga.
+[ ] Witch-Hunt : or sur un niveau de Baba Yaga.
+[ ] Witch Trials : or sur chaque niveau de Baba Yaga.
+[ ] Quite the Collector : collecte 150 cartes.
+[ ] These Belong in A Museum : collecte 300 cartes.
+
+METHODE SCORE ATTACK
+
+[ ] Choisis un niveau que tu peux terminer sans prendre de degat pour
+    Untouchable.
+[ ] Utilise une carte de multiplicateur, puis ajoute des cartes de
+    contrainte dont tu connais les effets.
+[ ] Fais les Replay Challenges sur une seule partie pour That All You Got?.
+[ ] Termine le niveau complet avant de quitter : abandonner la partie ne
+    valide pas la medaille.
+[ ] Controle chaque niveau un par un dans le menu Expeditions.
+
+DIFFICULTE ET FIN DE CAMPAGNE
+
+[ ] Survivor : termine la campagne dans cette difficulte pour Ultimate Survivor.
+[ ] Extreme Survivor : termine la campagne dans cette difficulte pour Extreme
+    Survivor.
+[ ] Sur la difficulte extreme, active tous les camps et depense les points
+    avant les longues sections.
+[ ] Garde les tombeaux et cryptes dans la meme sauvegarde que la campagne :
+    Tomb Raider et The Chosen Few aiment la progression enregistree au camp.
+[ ] Apres la fin, fais 15 rencontres de combat pour Siberian Ranger.
+[ ] Controle No Stone Unturned sur la page de statistiques.
+
+CHECKLIST STEAM FINALE - 143/143
+
+- [ ] Following in Father's Footsteps — Complete the opening Syria mission.
+- [ ] Tougher Than She Looks — Survive a night in the Siberian wilderness.
+- [ ] Quite A Tumble — Survive the avalanche.
+- [ ] Reading the Past — Translate one Monolith.
+- [ ] One-Sided Conversation — Stealth kill an enemy while he is having a conversation.
+- [ ] Strange Acquaintance — Complete the Gulag rescue sequence.
+- [ ] Challenging — Complete any Challenge Tomb.
+- [ ] Rapid Recovery — Heal yourself in combat 3 times.
+- [ ] English Pedigree — Headshot an enemy with an arrow from beyond 25 meters.
+- [ ] Taking the High Road — Light the signal fire in the Remnant Valley.
+- [ ] Fall Guys — Kill 10 enemies by shooting them in the leg.
+- [ ] Truth Seeker — Collect 25% of the narrative assets.
+- [ ] A Helping Hand — Defend the Remnant home from the Trinity invasion.
+- [ ] Hide and Seek — Baba Yaga: Rescue Nadia from Trinity.
+- [ ] The Key To It All — Recover the Atlas.
+- [ ] Firestarter — Defeat two or more enemies with one Molotov Cocktail.
+- [ ] Whatever It Takes — Rescue Jonah from Konstantin.
+- [ ] The Road Less Travelled — Unlock the path to Kitezh.
+- [ ] Abandon All Hope — Baba Yaga: Enter the Wicked Vale.
+- [ ] Craftswoman — Craft 5 pieces of Equipment.
+- [ ] A Moment of Clarity — Baba Yaga: Face the Witch and live.
+- [ ] The Price of Truth — Finish the game on any difficulty.
+- [ ] Glub Glub Glub — Drown 3 enemies using a water finisher.
+- [ ] Weaponsmith — Fully upgrade one weapon.
+- [ ] Amateur Chemist — Baba Yaga: Craft the Antidote.
+- [ ] Good Samaritan — Complete 3 Missions.
+- [ ] Fluent — Reach maximum proficiency in one language.
+- [ ] Quite the Collector — Collect 150 cards.
+- [ ] Last Ride of the Witch House — Baba Yaga: Activate the Ancient Lift.
+- [ ] Truth Behind the Myth — Baba Yaga: Unmask Baba Yaga.
+- [ ] Fearless — Defeat a Deathless Swordsman using only melee attacks and a finisher.
+- [ ] Self-Improvement Junkie — Purchase all skills in one category.
+- [ ] Fond Farewell — Baba Yaga: Speak to Nadia again before leaving the Wicked Vale.
+- [ ] Season of the Witch — Baba Yaga: Collect 50% of the Documents in the Wicked Vale.
+- [ ] A Trusty Old Friend — Kill 5 enemies within 10 seconds using any rifle.
+- [ ] Zipper — Perform a manual zip line transfer.
+- [ ] Paying Respects — Attend a funeral.
+- [ ] Was That Really Necessary? — Kill any animal with an explosive.
+- [ ] Looking for Trouble — Complete 5 Challenges.
+- [ ] Voices of the Past — Collect 75% of the narrative assets.
+- [ ] Tomb Raider — Complete all Challenge Tombs in one playthrough.
+- [ ] Key to the Past — Blood Ties: Acquire the Master Key.
+- [ ] Relic Hunter — Blood Ties: Collect 50% of the Relics in Croft Manor.
+- [ ] Meet the Crofts — Blood Ties: Collect 50% of the Documents in Croft Manor.
+- [ ] Keen Eye — Unearth 40 Survival Caches.
+- [ ] Master Detective — Blood Ties: Open Lord Croft's Safe.
+- [ ] Vasilisa's Lanterns — Baba Yaga: Complete the Challenge in the Wicked Vale.
+- [ ] Why the Chicken Crossed the Vale — Baba Yaga: Ride the Lift back to the other side.
+- [ ] Legacy — Blood Ties: Find the truth of Croft Manor.
+- [ ] The Chosen Few — Uncover the remains of all Jacob's disciples.
+- [ ] Blade of Justice — Perform 25 special stealth kills with the knife.
+- [ ] Woman of the People — Complete every Mission.
+- [ ] The Witch Bottles — Baba Yaga: Unearth all Survival Caches in the Wicked Vale.
+- [ ] Master Fletcher — Craft 25 of each special arrow type: Fire, Grenade and Poison.
+- [ ] Bar Brawl — Melee kill an enemy using a bottle.
+- [ ] No Guts, No Glory — Perform a 2.5 second or longer swan dive.
+- [ ] Avid Shopper — Purchase all items from the Supply Shack.
+- [ ] Witch's Wardrobe — Baba Yaga: Equip the Dreamstinger and Wraithskin outfit together.
+- [ ] Complete History of Witchcraft — Baba Yaga: Collect all Documents in the Wicked Vale.
+- [ ] Renegade — Melee 5 enemies off a ledge.
+- [ ] Demon in the Dark — Baba Yaga: Kill 10 enemies while wearing the Wraithskin outfit.
+- [ ] Henny Penny — Baba Yaga: Fall to your death from the Lift.
+- [ ] Enter the Nightmare — Lara's Nightmare: Destroy a Skull of Rage.
+- [ ] Trick Shot — Shoot a bottle out of the air.
+- [ ] Complete Family History — Blood Ties: Collect all Documents in Croft Manor.
+- [ ] Servant of the Witch — Baba Yaga: Confuse an enemy with the Dreamstinger.
+- [ ] Compulsive — Complete every Challenge.
+- [ ] The Wraith of Siberia — Baba Yaga: Kill 50 enemies while wearing the Wraithskin outfit.
+- [ ] No Stone Unturned — Achieve 100% game completion.
+- [ ] Home Raider — Blood Ties: Collect all Relics in Croft Manor.
+- [ ] Laying Down The Law — Kill 6 enemies with the Revolver without reloading.
+- [ ] Quiet Time — Find the best seat in the house.
+- [ ] Fight the Fear — Lara's Nightmare: Defeat 100 enemies.
+- [ ] Ultimate Survivor — Finish the game on Survivor difficulty.
+- [ ] Dead Ringer — Get 25 headshots using the Bolt-Action Rifle.
+- [ ] Sweet Dreams — Lara's Nightmare: Defeat the Nightmare.
+- [ ] Bacon! — Kill a razorback boar using a Molotov cocktail.
+- [ ] Bravo's Legacy — Baba Yaga: Confuse 10 enemies with the Dreamstinger.
+- [ ] Persuasive Argument — Baba Yaga: Confuse 3 enemies with one Dreamstinger shot.
+- [ ] Triple Threat — Kill 3 enemies with 1 Shotgun blast.
+- [ ] Chemical Warfare — Kill 5 enemies with one Poison Arrow.
+- [ ] Siberian Ranger — Beat 15 combat encounters after completing the game.
+- [ ] Rotisserie — Shoot a chicken out of the air with a fire arrow.
+- [ ] For My Next Trick... — Dive into a well.
+- [ ] Archaeologist — Endurance Challenge: Collect at least 5 Artifacts.
+- [ ] Iron Will — Complete a level in Score Attack using 5 cards.
+- [ ] Huntress — Kill 50 animals while wearing the Huntress outfit.
+- [ ] Gilded — Complete a level in Score Attack with a gold score.
+- [ ] Epidemiologist — Complete Cold Darkness.
+- [ ] Quick and Painless — Shoot 15 deer in the heart.
+- [ ] That All You Got? — Complete 3 Replay Challenges in one Score Attack level.
+- [ ] Master Archaeologist — Endurance Challenge: Collect at least 10 Artifacts.
+- [ ] Who Needs a Map? — Endurance Challenge: Locate 5 crypts.
+- [ ] Extreme Survivor — Finish the game on Extreme Survivor difficulty.
+- [ ] My Own Worst Enemy — Complete a level in Score Attack with a card bonus of 200% or more.
+- [ ] These Belong in A Museum — Collect 300 cards.
+- [ ] One Way to Do It — Endurance Challenge: Warm up from freezing by standing in fire.
+- [ ] To the Rescue — Cold Darkness Challenge: Rescue 6 prisoners.
+- [ ] Witchcraft for Beginners — Baba Yaga: Attempt any Wicked Vale Score Attack.
+- [ ] A Dinner for Two — Endurance Co-op Challenge: Eat the meat of 3 wolves with your partner.
+- [ ] Fast Reflexes — Endurance Challenge: Destroy 3 ceiling spike traps after being caught in them.
+- [ ] An Ocean in Storm — Cold Darkness Challenge: Kill 75 enemies in a single run.
+- [ ] Combat Specialist — Complete Cold Darkness using the required combat challenge route.
+- [ ] Untouchable — Replay 5 different levels without taking any damage.
+- [ ] Raider — Endurance Challenge: Open 5 Codices or Sarcophagi.
+- [ ] Well Done — Endurance Challenge: Eat the meat of 5 birds, squirrels or rabbits killed with fire.
+- [ ] Still Tastes Good — Endurance Challenge: Eat the meat of 5 wolves killed with poison damage.
+- [ ] Nope — Endurance Challenge: Escape the forest on day 1 without recovering an artifact.
+- [ ] Vacation — Endurance Challenge: Escape the forest after surviving 7 days.
+- [ ] Great Haul — Endurance Challenge: Escape after 10 days with at least 10 Artifacts.
+- [ ] Happy Camper — Endurance Challenge: Survive for 5 days.
+- [ ] Nature Retreat — Endurance Challenge: Survive for 7 days.
+- [ ] Great Outdoors — Endurance Challenge: Survive for 10 days.
+- [ ] Witch-Hunt — Baba Yaga: Complete a Wicked Vale Score Attack with a gold score.
+- [ ] Uncovering the Truth — Cold Darkness Challenge: Collect all 8 documents.
+- [ ] Give a Man a Fire — Cold Darkness Challenge: Kill 20 enemies with Dragonfire Shotgun Rounds.
+- [ ] Armed For Bear — Cold Darkness Challenge: Pick up 6 different weapons.
+- [ ] Spinning Leaf — Cold Darkness Challenge: Get 5 headshots with regular arrows in 1 minute.
+- [ ] Legendary Gunsmith — Cold Darkness Challenge: Open 6 upgrade pry chests.
+- [ ] Perfectionist — Cold Darkness Challenge: Shut down all towers without any mistakes.
+- [ ] A Feast for Two — Endurance Co-op Challenge: Eat the meat of 3 bears with your partner.
+- [ ] A Snack for Two — Endurance Co-op Challenge: Eat the meat of 5 rabbits or squirrels with your partner.
+- [ ] Say "Aaah" — Endurance Co-op Challenge: Eat with your partner while at least one of you is starving.
+- [ ] Well Begun Is Half Done — Complete 10 different levels in Score Attack with a gold score.
+- [ ] Way to Go — Complete every level in Score Attack with a bronze score or better.
+- [ ] Skillful Raider — Endurance Challenge: Open 5 Codices or Sarcophagi without getting caught in a trap.
+- [ ] Witch Trials — Baba Yaga: Complete every Wicked Vale Score Attack with a gold score.
+- [ ] Adventure Friends — Endurance Co-op Challenge: Escape the forest with 5 Artifacts.
+- [ ] Sisters of Artemis — Endurance Co-op Challenge: Kill a combined total of 10 dangerous animals in one Expedition.
+- [ ] Sisters of Athena — Endurance Co-op Challenge: Kill a combined total of 25 enemies in one Expedition.
+- [ ] Pick-Me-Up — Endurance Co-op Challenge: Revive a player.
+- [ ] No One Left Behind — Endurance Co-op Challenge: Revive a player 3 times in one Expedition.
+- [ ] Get Away from Her! — Endurance Co-op Challenge: Kill an enemy melee attacking your partner.
+- [ ] Bonding Time — Endurance Co-op Challenge: Escape after 7 days with at least 10 Artifacts.
+- [ ] Alone Time — Endurance Co-op Challenge: Spend at least one day more than 60 meters apart.
+- [ ] Communication Skills — Endurance Co-op Challenge: Kill 5 enemies marked by your partner.
+- [ ] Master and Apprentice — Endurance Co-op Challenge: Escape after 10 days with at least 20 Artifacts.
+- [ ] For the Night is Dark — Endurance Co-op Challenge: Clear 3 Enemy Camps at night in one Expedition.
+- [ ] Teamwork — Endurance Co-op Challenge: Warm up from freezing beside a campfire lit by your partner.
+- [ ] "Teamwork" — Endurance Co-op Challenge: Collect an Artifact while your partner is down.
+- [ ] Golden Child — Complete every level in Score Attack with a gold score.
+- [ ] Adventure Besties — Endurance Co-op Challenge: Escape with 5 Medium and Large Artifacts.
+- [ ] Team Survival — Endurance Co-op Challenge: Escape after 7 days without using a revive.
+
+VERIFICATION FINALE
+
+[ ] Campagne terminee.
+[ ] Extreme Survivor valide, ou Survivor puis Extreme Survivor valides.
+[ ] 59 reliques, 109 documents et 31 fresques.
+[ ] 36 caches de pieces, 65 caches de survie et 31 coffres.
+[ ] 10 codex et 5 tresors de cryptes.
+[ ] 18 defis, 9 missions et 9 tombeaux.
+[ ] 100 % de campagne et No Stone Unturned.
+[ ] Baba Yaga complet.
+[ ] Blood Ties complet.
+[ ] Lara's Nightmare complet.
+[ ] Cold Darkness complet.
+[ ] Score Attack bronze partout, or partout.
+[ ] Endurance solo complet.
+[ ] Endurance cooperative complet.
+[ ] Profil Steam : 143/143.
 
 REGLE ANTI-SPOILER
 
-Les hubs, outils, modes et compteurs servent uniquement a ordonner la
-progression. Aucun evenement narratif, boss, identite, mort, fin ou consequence
+Les lieux, missions, outils, objets et succes servent uniquement a ordonner la
+completion. Aucun evenement narratif, boss, identite, mort, fin ou consequence
 n'est decrit.
