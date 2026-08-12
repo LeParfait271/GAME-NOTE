@@ -1,204 +1,1158 @@
 TOMB RAIDER II (1997)
-GUIDE SPECIAL CHRONOLOGIQUE - SANS SPOILER
+FICHE PREMIUM - GUIDE CHRONOLOGIQUE 100 % CONTENU - SANS SPOILER
 
-Version de travail : 11 aout 2026
+EDITION CIBLEE
 
-Ce guide couvre l'edition Steam originale AppID 225300, pas Tomb Raider I-III
-Remastered. La fiche Steam originale n'expose pas de succes Steam : le 100 %
-utile est donc la campagne de 18 niveaux et ses 48 secrets. Chaque secret de
-la campagne est un dragon d'une des trois couleurs. The Golden Mask est une
-extension PC separee, decrite dans un chapitre optionnel.
+Edition PC classique vendue sur Steam : AppID 225300.
+Ce guide ne mélange pas Tomb Raider II classique avec Tomb Raider I-III
+Remastered. Les noms de zones et les repères servent à la version originale.
 
-OBJECTIF REEL
+VERITE STEAM
 
-[ ] 18/18 niveaux de la campagne originale.
-[ ] 48/48 dragons secrets : trois dans chacun des 16 niveaux qui en proposent.
-[ ] Tous les objets de progression, armes utiles et vehicules controles.
-[ ] Sauvegardes avant les demolitions, descentes, vehicules et sorties de zone.
-[ ] 0/0 succes Steam : l'AppID 225300 n'en propose pas.
+Succès Steam : 0/0.
+L'édition classique n'a pas de succès Steam à débloquer. Le 100 % de cette
+fiche signifie donc : campagne terminée, tous les secrets, tous les objets de
+progression et l'extension The Golden Mask si elle est installée. Les trophées
+et succès ajoutés dans la Remastered ne sont volontairement pas inventés ici.
 
-GARDE-FOUS ET MISSABLES
+OBJECTIF DE LA FICHE
 
-- Les dragons sont comptabilises par l'ecran de statistiques. Les niveaux 17
-  et 18 n'ajoutent pas de dragons : ne cherche pas un 49e ou un 50e secret.
-- Bartoli's Hideout contient un dragon derriere une zone detruite : sauvegarde
-  avant de declencher la demolition et valide le son avant de poursuivre.
-- Dans les niveaux sous-marins, le retour est parfois limite par l'air et les
-  courants. Fais une sauvegarde au debut de chaque epave et note les trois
-  dragons avant de prendre la sortie.
-- Le mode de progression peut faire perdre les armes d'un niveau a l'autre.
-  Ce n'est pas un bug de compteur : conserve munitions et medipacks pour la
-  zone en cours, puis utilise les statistiques comme preuve de 100 %.
+Campagne originale : 18 niveaux, dont Lara's Home, et 48 dragons secrets.
+Les niveaux 1 à 16 de la campagne contiennent chacun 3 dragons. The Dragon's
+Lair et Home Sweet Home n'en contiennent aucun.
+Extension optionnelle The Golden Mask : 4 niveaux principaux, puis 1 niveau
+bonus déverrouillé avec les 12 secrets précédents, pour 15 artefacts.
 
-ROUTE CHRONOLOGIQUE - CAMPAGNE ORIGINALE
+La route ci-dessous donne les emplacements précis des secrets, les objets qui
+ouvrent la suite, les zones qui peuvent fermer un retour, les sauvegardes à
+faire et les récompenses de collecte complète. Elle ne raconte pas l'histoire.
+
+SOMMAIRE CHRONOLOGIQUE
+
+00. Lara's Home - entraînement - 0 secret
+01. The Great Wall - dragons 01 à 03
+02. Venice - dragons 04 à 06
+03. Bartoli's Hideout - dragons 07 à 09
+04. Opera House - dragons 10 à 12
+05. Offshore Rig - dragons 13 à 15
+06. Diving Area - dragons 16 à 18
+07. 40 Fathoms - dragons 19 à 21
+08. Wreck of the Maria Doria - dragons 22 à 24
+09. Living Quarters - dragons 25 à 27
+10. The Deck - dragons 28 à 30
+11. Tibetan Foothills - dragons 31 à 33
+12. Barkhang Monastery - dragons 34 à 36
+13. Catacombs of the Talion - dragons 37 à 39
+14. Ice Palace - dragons 40 à 42
+15. Temple of Xian - dragons 43 à 45
+16. Floating Islands - dragons 46 à 48
+17. The Dragon's Lair - 0 secret
+18. Home Sweet Home - 0 secret
+19. The Golden Mask - extension séparée, 15 artefacts
+
+REGLES DE 100 % ET GARDE-FOUS
+
+- Chaque dragon produit un son de secret. Si le son ne retentit pas, la
+  statuette n'est pas validée : recharge immédiatement une sauvegarde récente.
+- Le compteur de fin de niveau est la preuve la plus fiable. Vérifie toujours
+  3/3 avant de sortir d'un niveau qui possède des dragons.
+- Les statistiques du chronomètre affichent le nombre de secrets du niveau et
+  le total de la partie. Note le total après chaque sortie.
+- Les niveaux 17 et 18 ont volontairement 0/0 dragon. Ne cherche pas un
+  quarante-neuvième secret.
+- Sauvegarde dans un nouvel emplacement avant chaque véhicule, plongée longue,
+  série de pièges, grosse descente, explosion ou mécanisme qui vide une salle.
+- Dans Bartoli's Hideout, le dernier dragon est dans le bâtiment destiné à être
+  détruit. Il est manquable si le détonateur est utilisé avant la collecte.
+- Dans Barkhang Monastery, le dragon de la grande piscine est manquable si la
+  piscine est vidée avant la collecte. Prends-le avant le mécanisme de vidange.
+- Dans 40 Fathoms, le premier dragon est derrière une trappe au sol. Ne tombe
+  pas dans la salle inférieure avant de l'avoir ramassé.
+- Dans The Great Wall, le dragon de la salle aux murs mobiles demande de
+  traverser le piège avant que les parois ne se referment. Sauvegarde avant les
+  lames.
+- Dans les niveaux aquatiques, remplis l'air avant chaque détour secret. Une
+  collecte ne justifie jamais de continuer avec une jauge presque vide.
+- Dans les niveaux à véhicules, gare le bateau ou la motoneige de manière à
+  pouvoir revenir. Si un saut est raté, recharge plutôt que de forcer la route.
+- Les caches gagnées après les trois secrets ne sont pas de nouveaux secrets :
+  elles apparaissent dans les statistiques des objets ramassés.
+- Les ennemis vaincus, les munitions et les trousses ordinaires ne sont pas un
+  compteur officiel de secrets. La fiche donne les objets de progression et les
+  caches utiles, sans gonfler artificiellement la route avec chaque balle.
+
+PREPARATION AVANT DE COMMENCER
+
+- Crée au moins trois sauvegardes tournantes : début de niveau, avant piège ou
+  véhicule, puis après chaque dragon validé.
+- Utilise les pistolets quand une zone le permet. Garde les armes lourdes pour
+  les grandes salles, les niveaux finaux et les ennemis difficiles à atteindre.
+- Les fusées éclairantes sont limitées au début. Sauvegarde avant une zone
+  sombre, explore pour mémoriser les embranchements, puis recharge et refais-la
+  avec moins de fusées si tu veux conserver un stock confortable.
+- Sur PC classique, les commandes de saut et de nage sont sensibles : aligne
+  Lara avec le repère avant chaque saut, marche jusqu'au bord, puis saute.
+- Les dragons argent, jade et or sont les trois secrets de chaque niveau. Leur
+  couleur n'est pas une difficulté Steam : c'est seulement l'identifiant du
+  collectible.
 
 00 - LARA'S HOME
 
-- Fais le tutoriel et teste les sauvegardes. Aucun dragon secret ne compte ici.
-- [ ] Commandes, inventaire et sauvegarde valides.
+STATUT
+
+Secrets : 0/0.
+Objectif : régler les commandes et tester les sauvegardes avant la campagne.
+
+ROUTE DE PREPARATION
+
+- Termine le parcours d'entraînement du manoir au moins une fois.
+- Teste course, marche, saut avec prise, décalage latéral, roulade, nage et
+  sortie de l'eau. Les longs sauts de la campagne reprennent ces gestes.
+- Ouvre l'inventaire, vérifie les armes et crée une sauvegarde manuelle.
+- Quitte par la sortie du parcours pour lancer The Great Wall.
+
+CHECKPOINT
+
+Lara's Home ne possède aucun dragon et ne contribue pas au total 48/48.
 
 01 - THE GREAT WALL
 
-- Explore le chemin exterieur et les hauteurs avant d'utiliser la tyrolienne.
-- [ ] 3/3 dragons.
-- Le troisieme est dans la boucle basse : ne prends pas la tyrolienne sans
-  avoir verifie le son de secret.
+STATUT
+
+Secrets : 3/3.
+Objets de progression : Guardhouse Key, Rusty Key.
+Récompense des trois secrets : cache de soins, grenades et Grenade Launcher.
+
+GARDE-FOU DU NIVEAU
+
+La deuxième statuette se trouve dans une course de pièges. Sauvegarde avant
+les lames et ne sauvegarde pas après l'avoir ratée : recharge la sauvegarde
+avant la course. Ne prends pas la tyrolienne avant le troisième dragon.
+
+ROUTE CHRONOLOGIQUE
+
+- Depuis la grotte de départ, traverse la petite mare et grimpe par les blocs
+  jusqu'à la longue corniche au-dessus de l'eau.
+- Avant de monter vers le mur, saute vers la corniche qui part sur le côté,
+  au-dessus de la mare, et suis-la jusqu'au bout.
+- DRAGON 01/48 - DRAGON ARGENTE : il est posé au bout de cette corniche
+  extérieure, dans la première grotte, avant le premier poste de garde.
+- Reviens vers les blocs, entre dans le premier poste de garde et actionne le
+  levier. Sur le mur, rejoins la zone qui surplombe la piscine inférieure.
+- Plonge dans la piscine sous le mur. Dans la petite cavité immergée située
+  sur la droite quand Lara regarde à l'opposé du mur, ramasse la GUARDHOUSE
+  KEY. Remonte par la paroi végétalisée.
+- Utilise la Guardhouse Key sur le deuxième poste de garde. Monte l'échelle,
+  élimine l'araignée et récupère la RUSTY KEY au sommet.
+- Utilise la Rusty Key sur la sortie du poste. Pousse le bloc qui obstrue la
+  porte, puis descends dans la salle inondée aux disques volants.
+- Traverse la salle par l'eau, sans rester dans la zone peu profonde. Une
+  sauvegarde avant l'entrée permet de recommencer proprement le passage.
+- Enchaîne les dalles qui s'effondrent, les lames horizontales et le couloir
+  aux parois mobiles. La statuette n'est pas au début du couloir : elle est
+  sur la gauche juste après les lames.
+- DRAGON 02/48 - DRAGON DE JADE : au bout de la course aux lames, oblique
+  légèrement à gauche et ramasse-le au sol avant que les murs ne se rejoignent.
+- Après la collecte, reste près du mur droit dans le couloir suivant, franchis
+  la dalle-piège et utilise les zones sûres avant les deux lames roulantes.
+- Depuis la grande corniche qui domine la caverne, ne prends pas encore la
+  tyrolienne. Descends par la droite avec une safety drop vers la petite
+  corniche carrée, puis attrape la fissure horizontale.
+- Suis la fissure vers la petite grotte et descends l'échelle jusqu'au sol de
+  la caverne. Le détour est obligatoire pour le troisième secret.
+- Dans la grande caverne, longe le passage vers le fond, en gardant une
+  sauvegarde avant la zone des deux grands dinosaures.
+- DRAGON 03/48 - DRAGON D'OR : au sol de la caverne, dépasse la zone de
+  combat et entre dans le passage étroit sans issue au fond. La statuette est
+  au bout du passage.
+- Si les trois dragons sont validés, récupère la cache qui apparaît, dont le
+  lance-grenades et ses grenades. Contrôle les statistiques avant de repartir.
+- Remonte par le chemin de l'échelle, prends la tyrolienne, puis traverse le
+  tunnel de sortie.
+
+VALIDATION DE FIN DE NIVEAU
+
+Le résumé doit afficher 3 secrets. Total de campagne attendu : 3/48.
 
 02 - VENICE
 
-- Fais les canaux lateraux et les toits avant d'utiliser le bateau pour la
-  progression principale.
-- [ ] 3/3 dragons.
-- La vitesse du bateau peut fermer un retour ; sauvegarde avant chaque long
-  trajet et reviens inspecter les quais.
+STATUT
+
+Secrets : 3/3.
+Objets de progression : clé du sniper, Iron Key, leviers des canaux, bateau.
+Récompense des trois secrets : cache de munitions, dont des chargeurs de
+pistolets automatiques si l'arme n'a pas déjà été obtenue.
+
+GARDE-FOU DU NIVEAU
+
+Le bateau peut dépasser une zone et rendre le retour pénible. Explore les
+passages latéraux avant chaque long trajet et sauvegarde avant de piloter.
+
+ROUTE CHRONOLOGIQUE
+
+- Depuis la ruelle, traverse la cour et neutralise les ennemis qui bloquent les
+  canaux. Le sniper laisse une clé inaccessible depuis le sol : garde son
+  emplacement en mémoire pour le retour par les hauteurs.
+- Passe sous la porte immergée du hangar à bateaux. Appuie sur le bouton à
+  l'intérieur, puis reviens dans le petit bâtiment en bois de l'autre côté.
+- Dans ce bâtiment, actionne le bouton qui ouvre la trappe supérieure. Monte
+  et utilise les toits pour rejoindre la clé déposée par le sniper.
+- Ramène la clé au hangar, ouvre le verrou, puis prends le bateau. Fais une
+  sauvegarde avant de quitter le quai.
+- DRAGON 04/48 - DRAGON ARGENTE : pilote à travers la porte de la clôture
+  grillagée. Juste après l'entrée, arrête le bateau près du petit passage
+  latéral. Saute du bateau dans ce passage : le dragon est au fond, avec des
+  fusées éclairantes.
+- Reprends le bateau et suis le tunnel sombre. Après la petite cascade, plonge
+  dans la piscine située sous la chute d'eau.
+- DRAGON 05/48 - DRAGON D'OR : posé au fond de cette piscine, sous la cascade.
+  Ramasse-le, remonte et reprends le bateau par l'unique sortie.
+- Dans la zone aux piliers, suis les quais jusqu'à la porte couverte. Active
+  les interrupteurs des bâtiments et prépare le retour vers le deuxième quai.
+- Au quai où sont garées deux gondoles, détruis ou dégage les embarcations pour
+  ouvrir la ligne de conduite. Sauvegarde avant de quitter ce quai.
+- Depuis la salle de l'interrupteur, regarde au-dessus du quai extérieur : une
+  passerelle vitrée contient le troisième dragon. Saute pour atteindre le
+  rebord, brise une vitre et entre.
+- DRAGON 06/48 - DRAGON DE JADE : dans la passerelle vitrée au-dessus du quai
+  des gondoles. Si tu l'as dépassé, reviens par la rampe en bois et casse une
+  vitre depuis l'autre côté.
+- Reviens au bateau et traverse le canal étroit opposé au quai. Entre par la
+  porte ouverte, récupère l'IRON KEY dans la salle inondée et grimpe par
+  l'échelle.
+- Actionne l'interrupteur en hauteur, utilise la porte ouverte et reviens au
+  bateau. Traverse le canal final et dégage les mines sous-marines avant la
+  sortie.
+
+VALIDATION DE FIN DE NIVEAU
+
+Résumé : 3 secrets. Total de campagne attendu : 6/48.
 
 03 - BARTOLI'S HIDEOUT
 
-- Fais les pieces laterales, les terrasses et le parcours sous l'eau avant de
-  preparer les explosifs de la zone.
-- [ ] 3/3 dragons.
-- Le dragon de la structure condamnee est le missable critique : prends-le
-  avant la demolition et verifie l'ecran de statistiques.
+STATUT
+
+Secrets : 3/3.
+Objets de progression : Library Key, Detonator Key, interrupteurs de la villa.
+Récompense des trois secrets : cache de grenades et autres munitions.
+
+MISSABLE CRITIQUE
+
+Le Dragon de Jade est dans le bâtiment abandonné du jardin. Ramasse-le avant
+d'utiliser le détonateur. Une fois la démolition déclenchée, le retour peut
+être impossible et le secret devient manquable dans cette partie.
+
+ROUTE CHRONOLOGIQUE
+
+- Depuis le bateau, accoste devant la villa, monte l'escalier et utilise le
+  levier pour ouvrir les grandes portes. Fouille les fenêtres et les balcons
+  avant de poursuivre.
+- Dans la pièce au papier peint chargé, cherche l'interrupteur camouflé à
+  droite de l'entrée. Il ouvre la porte en haut de l'escalier.
+- Sors sur le balcon nouvellement accessible. Ramasse les munitions puis
+  vérifie le coin extérieur.
+- DRAGON 07/48 - DRAGON ARGENTE : posé sur ce balcon, dans la zone atteinte
+  grâce à l'interrupteur camouflé.
+- Reviens vers la pièce à l'interrupteur, brise la fenêtre du balcon et
+  traverse la salle aux chiens et aux hommes. Pousse ensuite le bloc caché
+  dans la cheminée pour révéler le passage.
+- Franchis le couloir aux lames, au feu et à l'eau. Utilise la piscine comme
+  point de sécurité, puis regagne la salle de bal.
+- Dans la salle de bal, monte sur les lustres et atteins l'alcôve derrière le
+  tableau. Prends la LIBRARY KEY sans déclencher inutilement d'interrupteur
+  de déplacement. Cette précaution ne crée pas de succès Steam, mais évite de
+  casser un itinéraire de retour.
+- Près de l'entrée de la bibliothèque, plonge et tire le levier immergé à
+  gauche des portes. Il ouvre la petite porte du labyrinthe sous-marin.
+- Respire avant d'entrer. Dans le labyrinthe, descends vers l'escalier noyé,
+  prends l'ouverture de droite, puis la petite ouverture basse. Dans la salle
+  suivante, récupère les grenades au fond à gauche et traverse vers l'angle
+  opposé.
+- DRAGON 08/48 - DRAGON D'OR : dans l'angle au sol de la deuxième salle du
+  labyrinthe sous-marin. Le levier situé près de lui ouvre la remontée.
+- Remonte par la trappe, traverse la bibliothèque et rejoins le jardin.
+  Récupère la DETONATOR KEY et repère le détonateur, mais ne l'utilise pas.
+- Dans le jardin, nage vers l'extrémité gauche, grimpe sur la petite corniche
+  en brique, puis monte sur le mur du jardin. Suis-le jusqu'au toit du bâtiment
+  abandonné et brise une fenêtre.
+- DRAGON 09/48 - DRAGON DE JADE : dans la pièce du bâtiment abandonné,
+  derrière la fenêtre atteinte par le mur et le toit. Prends-le avant le
+  détonateur et vérifie le son.
+- Reviens au détonateur, utilise la Detonator Key et poursuis vers le toit
+  final. La sortie se trouve après la zone détruite.
+
+VALIDATION DE FIN DE NIVEAU
+
+Résumé : 3 secrets. Total de campagne attendu : 9/48.
 
 04 - OPERA HOUSE
 
-- Explore les passerelles, les salles laterales et les balcons avant la sortie
-  vers l'appareil de transport.
-- [ ] 3/3 dragons.
-- Une longue descente et la sequence de sortie empechent le retour ; sauvegarde
-  avant le dernier levier.
+STATUT
+
+Secrets : 3/3.
+Objets de progression : deux Ornate Keys, Relay Box, Circuit Board.
+Récompense des trois secrets : cache d'Uzi ou arme équivalente si elle n'a
+pas encore été récupérée.
+
+GARDE-FOU DU NIVEAU
+
+Les toits, l'ascenseur et la cave inondée se recroisent. Sauvegarde avant la
+première longue traversée du toit, avant chaque plongée et avant l'ascenseur.
+
+ROUTE CHRONOLOGIQUE
+
+- Depuis le canal, rejoins la corniche opposée, remonte par l'échelle et
+  ouvre la trappe grâce au levier de la toiture.
+- Dans la pièce inférieure, récupère la première ORNATE KEY. Reviens sur les
+  toits et utilise-la au verrou de l'étage supérieur.
+- Traverse le toit aux dalles fragiles en prenant un nouvel emplacement de
+  sauvegarde avant la première course. Atteins le dôme vitré.
+- Descends dans la salle sous le dôme en évitant les éclats de verre. Le
+  pickup d'Uzi au sol sert de repère.
+- DRAGON 10/48 - DRAGON D'OR : dans la salle vitrée sous le dôme, au niveau
+  du pickup d'Uzi. Passe par l'ouverture vitrée, ramasse le dragon, puis
+  utilise l'interrupteur pour entrer dans l'opéra.
+- Dans l'auditorium, progresse par les niveaux supérieurs, les passerelles et
+  les salles latérales. Ignore pour l'instant l'ascenseur sans relais.
+- Rejoins la zone verticale aux rebords décalés, puis la salle d'habillage.
+  Fais passer Lara par le conduit de ventilation et franchis les ventilateurs.
+- Après le deuxième ventilateur, saute sur le rebord supérieur et entre dans
+  l'alcôve sombre au-dessus de la salle.
+- DRAGON 11/48 - DRAGON DE JADE : dans cette alcôve sombre, juste après le
+  deuxième ventilateur. Reviens par le même rebord, sans te laisser tomber dans
+  la salle inférieure.
+- Descends vers la scène et ouvre la trappe qui mène au sous-sol inondé. Dans
+  la pièce aux marches et à l'eau à hauteur de taille, respire avant la plongée.
+- Suis les marches immergées jusqu'à la salle où l'eau remonte. Dans l'angle
+  très à droite, juste sous la surface, nage dans la petite ouverture.
+- DRAGON 12/48 - DRAGON ARGENTE : au bout du petit tunnel sous la scène,
+  dans le sous-sol inondé. Le bonus apparaît si les deux autres sont validés.
+- Depuis la zone du sous-sol, récupère le RELAY BOX et remonte à l'auditorium.
+  Place-le sur le circuit de l'ascenseur et descends.
+- Dans le bassin sous la cage d'ascenseur, nage par les marches immergées et
+  récupère le CIRCUIT BOARD. Remonte en gardant de l'air pour le retour.
+- Utilise la seconde Ornate Key au fond de l'auditorium, rejoins la LIGHTING
+  BOOTH et place le Circuit Board. Actionne la commande de la scène, puis
+  traverse l'arrière-scène et la sortie.
+
+VALIDATION DE FIN DE NIVEAU
+
+Résumé : 3 secrets. Total de campagne attendu : 12/48.
 
 05 - OFFSHORE RIG
 
-- Fouille les coursives, les cabines et les plateformes avant de restaurer la
-  route de sortie.
-- [ ] 3/3 dragons.
-- Ne confonds pas les zones de maintenance et les couloirs de retour : fais
-  le tour complet avant de prendre l'ascenseur.
+STATUT
+
+Secrets : 3/3.
+Objets de progression : pistolets, Yellow Pass Card, Red Pass Card, Green Pass
+Card, deux Machine Chips.
+Récompense des trois secrets : cache d'armes et de munitions, notamment les
+Uzis si l'arme n'a pas déjà été obtenue.
+
+GARDE-FOU DU NIVEAU
+
+Le début retire les armes. Ne plonge pas avant d'avoir récupéré les pistolets
+dans l'avion si tu veux conserver un départ propre. Sauvegarde avant la piscine
+du ventilateur, les brûleurs et les passerelles du grand bassin.
+
+ROUTE CHRONOLOGIQUE
+
+- Dans la cellule, déplace les caisses pour atteindre l'interrupteur. Ouvre la
+  porte chronométrée et rejoins la salle de l'hélipad.
+- Traverse jusqu'à l'avion sans tomber dans l'eau. Saute sur l'aile, passe par
+  la trappe et récupère les PISTOLETS.
+- Dans la piscine au gros ventilateur, tire le levier placé à gauche du
+  ventilateur. Suis le tunnel immergé jusqu'à la salle étroite et tire le
+  second levier.
+- Reviens au ventilateur, passe par la trappe ouverte et nage derrière les
+  pales.
+- DRAGON 13/48 - DRAGON DE JADE : derrière le gros ventilateur, au bout du
+  passage ouvert par le second levier. Remplis ton air avant le retour.
+- Rejoins les coursives, élimine les ouvriers et récupère la YELLOW PASS CARD.
+  Utilise-la à la serrure jaune pour couper l'alarme.
+- Traverse les dortoirs, récupère les armes de secours et descends dans la
+  salle aux brûleurs. Sauvegarde avant la traversée entre les flammes.
+- Récupère la RED PASS CARD sur l'ennemi de la coursive sombre. Avant de
+  continuer vers la serrure rouge, monte l'échelle placée à gauche de l'escalier.
+- DRAGON 14/48 - DRAGON ARGENTE : au sommet de la tour de la plate-forme,
+  accessible par cette échelle juste avant la serrure rouge.
+- Utilise la Red Pass Card, traverse la salle aux passerelles et active le
+  système de pompage des deux bassins.
+- Ouvre la trappe de la salle de la serrure verte, puis descends jusqu'au
+  grand bassin avec les passerelles. Fais une sauvegarde avant les sauts.
+- Traverse les passerelles dans le sens horaire, récupère la GREEN PASS CARD
+  dans l'alcôve vitrée et repère le support de béton situé sous les catwalks.
+- Plonge depuis la passerelle vers le support, remonte sur un angle et
+  éloigne les ennemis avant de revenir dans l'eau.
+- DRAGON 15/48 - DRAGON D'OR : sur le support de béton dans le grand bassin,
+  sous la zone où tu as trouvé la Green Pass Card.
+- Remonte par l'échelle, utilise la Green Pass Card à la serrure verte et
+  traverse le long passage inondé vers la Diving Area.
+
+VALIDATION DE FIN DE NIVEAU
+
+Résumé : 3 secrets. Total de campagne attendu : 15/48.
 
 06 - DIVING AREA
 
-- Controle les salles immergees, les conduits et les passerelles avant de
-  repasser en surface.
-- [ ] 3/3 dragons.
-- Garde une sauvegarde avant chaque plongee et utilise les poches d'air pour
-  verifier les trois sons sans vider la barre d'oxygene.
+STATUT
+
+Secrets : 3/3.
+Objets de progression : Blue Pass Card, Red Pass Card, deux Machine Chips,
+M16, Harpoon Gun.
+Récompense des trois secrets : cache de munitions et d'Uzi.
+
+GARDE-FOU DU NIVEAU
+
+Il y a plusieurs retours par l'eau, mais certains bassins ont des rebords
+hauts. Sauvegarde avant chaque plongée et n'entre jamais dans un tunnel avec
+moins de la moitié de la jauge d'air.
+
+ROUTE CHRONOLOGIQUE
+
+- Depuis la piscine du ventilateur, coupe le ventilateur par la commande en
+  hauteur, traverse les blocs aux crochets et rejoins la plate-forme opposée.
+- Au-dessus du bassin de déchets toxiques, sauvegarde. Glisse depuis le bord
+  et attrape l'ouverture carrée située à mi-pente.
+- DRAGON 16/48 - DRAGON ARGENTE : dans le trou carré au-dessus de la piscine
+  toxique. Remonte immédiatement et termine la glissade jusqu'à la passerelle.
+- Monte la très longue échelle et récupère la BLUE PASS CARD sur la petite
+  corniche de la salle du catwalk. Utilise-la sur la serrure bleue.
+- Dans le grand couloir carré, passe par la trappe à roue du côté droit. Tire
+  les leviers sous-marins pour ouvrir les grilles et rejoindre l'hélipad.
+- Sur l'hélipad, récupère les munitions puis traverse la salle des brûleurs.
+  Le M16 est dans le petit trou au-delà du premier brûleur.
+- Récupère le FIRST MACHINE CHIP et place-le dans le panneau près de la scie
+  circulaire. Cela ouvre la salle aux cuves orange.
+- Dans la salle aux cuves, utilise la commande qui ouvre la grille du bassin.
+  Plonge au fond de l'eau dans la pièce carrée.
+- DRAGON 17/48 - DRAGON DE JADE : au fond du bassin de la salle aux cuves
+  orange, après avoir appuyé sur le panneau qui ouvre la grille.
+- Poursuis par le tunnel hexagonal vers le bassin du mini-sous-marin. Ouvre la
+  porte de contrôle et reviens au bassin de la scie.
+- Récupère le SECOND MACHINE CHIP dans la salle derrière la serrure rouge.
+  Place-le au panneau pour arrêter la scie tournante, puis prends la RED PASS
+  CARD.
+- Utilise la Red Pass Card et rejoins la salle finale avec la passerelle et le
+  personnage au sol. Ne t'approche pas encore de lui.
+- Depuis l'escalier, descends sur le côté gauche, rejoins la petite pièce aux
+  fenêtres grillagées et récupère le dernier secret.
+- DRAGON 18/48 - DRAGON D'OR : dans la petite pièce grillagée de la salle
+  finale, avant de déclencher la sortie du niveau.
+- Vérifie 3/3, puis approche de la sortie et termine le niveau.
+
+VALIDATION DE FIN DE NIVEAU
+
+Résumé : 3 secrets. Total de campagne attendu : 18/48.
 
 07 - 40 FATHOMS
 
-- Traite le parcours sous-marin par sections courtes et marque chaque retour
-  vers les poches d'air.
-- [ ] 3/3 dragons.
-- Le secret n'est pas une raison pour prendre un courant sans reserve :
-  recharge si tu arrives a court d'air avant la sortie.
+STATUT
+
+Secrets : 3/3.
+Objets de progression : interrupteurs de l'épave, trappes, portes et
+passages sous-marins.
+Récompense des trois secrets : cache de harpons.
+
+GARDE-FOU DU NIVEAU
+
+Le niveau alterne épave sombre, course chronométrée et eau sans poche d'air.
+Sauvegarde avant la première trappe, avant la porte chronométrée et avant les
+leviers du parcours sous-marin final.
+
+ROUTE CHRONOLOGIQUE
+
+- Depuis la zone de départ, contourne la pile de caisses et descends par le
+  trou dissimulé dans la coque. Remonte dans la petite salle puis active le
+  levier qui vide l'eau.
+- Dans la salle devenue sèche, monte sur les caisses et rejoins la large
+  ouverture. Le dragon est visible mais une trappe occupe le centre de la salle.
+- DRAGON 19/48 - DRAGON ARGENTE : dans la salle au dragon, au-delà des
+  caisses. Reste sur le bord sûr et ne tombe pas par les quatre dalles-trappes
+  avant de le ramasser.
+- Descends ensuite dans la salle inférieure, récupère les objets et remonte par
+  les blocs jusqu'aux couloirs de l'épave.
+- Tire le premier interrupteur près de l'entrée et cours vers la porte
+  chronométrée. Saute par-dessus les bandes lumineuses au sol.
+- Depuis la porte ouverte, tombe dans l'eau extérieure. Sauvegarde avant la
+  plongée et nage vers la gauche du fond marin.
+- DRAGON 20/48 - DRAGON DE JADE : au fond de la zone extérieure fermée,
+  légèrement à gauche en sortant du tunnel. Ramasse-le et reviens aussitôt.
+- Reviens dans le réseau de couloirs, active les interrupteurs dans l'ordre et
+  passe les brûleurs avec les alcôves comme points d'attente.
+- Dans le secteur aux trois pièces superposées, remplis l'air avant le levier
+  final. Tire le levier du niveau supérieur, redescends sans hésiter et prends
+  la porte nouvellement ouverte en bas.
+- DRAGON 21/48 - DRAGON D'OR : dans la petite alcôve du niveau inférieur,
+  juste après le levier qui ferme la première trappe. Il faut le prendre dans
+  la même respiration que le retour vers la surface.
+- Remonte par les pièces superposées, prends l'air et continue dans les cales
+  remplies de terre.
+- Déplace la caisse pour atteindre le levier haut, déclenche le déversement de
+  terre, puis grimpe la pile jusqu'au levier qui remplit la grande salle.
+- Rejoins la porte de sortie par la zone inondée et termine le niveau.
+
+VALIDATION DE FIN DE NIVEAU
+
+Résumé : 3 secrets. Total de campagne attendu : 21/48.
 
 08 - WRECK OF THE MARIA DORIA
 
-- Parcours les ponts, cabines et passages inverses en gardant une sauvegarde
-  au debut de chaque epave.
-- [ ] 3/3 dragons.
-- Les decors se ressemblent : note le dragon deja ramasse avant de changer de
-  pont et ne quitte pas la carcasse sans les trois sons.
+STATUT
+
+Secrets : 3/3.
+Objets de progression : Cabin Key, interrupteurs de pont, blocs mobiles.
+Récompense des trois secrets : cache de grenades et Grenade Launcher si absent.
+
+GARDE-FOU DU NIVEAU
+
+Les ponts et couloirs se ressemblent. Note le dragon déjà validé et garde une
+sauvegarde au début de chaque grande épave. Le troisième dragon demande une
+plongée dans une cavité haute : remplis l'air et récupère d'abord la clé si
+nécessaire.
+
+ROUTE CHRONOLOGIQUE
+
+- Après la chute initiale, entre dans la salle carrelée et repère le dragon
+  visible sous une porte. Ne tente pas de le prendre par le dessous.
+- Passe par l'ouverture au plafond derrière les bancs renversés et suis le
+  conduit. Élimine l'ennemi, descends par le trou du conduit et ramasse la
+  statuette dans la pièce carrelée.
+- DRAGON 22/48 - DRAGON ARGENTE : sous la porte de la salle de départ,
+  accessible par le conduit au plafond et le trou situé à son extrémité.
+- Déplace les trois blocs de la salle carrelée pour ouvrir les passages vers la
+  salle de bal et les toilettes. Utilise les interrupteurs et les escaliers.
+- Dans la zone des tonneaux qui roulent, remonte par le passage d'où viennent
+  les tonneaux et longe la pente jusqu'au couloir supérieur.
+- DRAGON 23/48 - DRAGON DE JADE : en haut de ce passage, derrière la zone des
+  tonneaux. Attends que la vague de tonneaux passe avant de monter.
+- Continue vers la passerelle, le pont et la salle de commandes. Récupère les
+  boutons qui ouvrent la suite, puis reviens vers la grande piscine.
+- Dans la zone sous-marine, repère la Cabin Key au fond près de la coque
+  rouillée. Respire avant le retour, puis recommence le trajet depuis la trappe.
+- Pour le troisième secret, reprends la plongée mais, dans la cavité où le
+  sol remonte, continue tout droit au lieu de tourner vers la clé.
+- Cherche l'ouverture dans le plafond, derrière le bloc incliné de la grande
+  caverne. Remonte le puits vertical vers la petite poche d'air.
+- DRAGON 24/48 - DRAGON D'OR : dans la poche d'air au sommet de la cavité
+  sous-marine, derrière le bloc incliné. Le bonus inclut le lance-grenades si
+  les trois secrets du niveau sont validés.
+- Reviens au pont, utilise la Cabin Key dans la cabine et actionne les
+  commandes. Ouvre les trappes, traverse les salles inversées et suis la
+  sortie vers Living Quarters.
+
+VALIDATION DE FIN DE NIVEAU
+
+Résumé : 3 secrets. Total de campagne attendu : 24/48.
 
 09 - LIVING QUARTERS
 
-- Fais les pieces de service, les dortoirs et les couloirs avant la route vers
-  le pont suivant.
-- [ ] 3/3 dragons.
-- Verifie les alcoves avant de remettre le niveau en mouvement et conserve les
-  munitions pour les couloirs fermes.
+STATUT
+
+Secrets : 3/3.
+Objets de progression : interrupteurs des pistons, trappes du navire,
+passages des passagers et des machines.
+Récompense des trois secrets : cache de chargeurs de M16.
+
+GARDE-FOU DU NIVEAU
+
+Le premier secret est sur une alcôve de piston et son retour demande un saut
+précis. Sauvegarde après la collecte, avant de sauter vers les portes.
+
+ROUTE CHRONOLOGIQUE
+
+- Traverse la première salle et rejoins les pistons mobiles. Progresse en
+  utilisant les blocs et les rebords au rythme des pistons.
+- Au quatrième piston, regarde l'alcôve à droite. Saute depuis le piston vers
+  l'alcôve, ou prends l'élan depuis le petit rebord extérieur.
+- DRAGON 25/48 - DRAGON ARGENTE : dans l'alcôve à droite du quatrième piston.
+  Sauvegarde dans un nouvel emplacement avant le saut de retour vers les portes.
+- Reviens sur la passerelle, poursuis par les salles techniques et actionne les
+  mécanismes qui rétablissent le chemin vers les quartiers des passagers.
+- Dans le couloir aux panneaux de bois, entre dans la petite salle avec les
+  tableaux. Prends le premier passage latéral à droite.
+- Descends dans la fosse vitrée et traverse les éclats avec précaution.
+- DRAGON 26/48 - DRAGON D'OR : au fond de la fosse vitrée des quartiers des
+  passagers. Repars par la vitre brisée et remonte sans tomber dans la fosse.
+- Continue vers la zone au sol incliné. Au bout de la pente, évite la dalle
+  fragile et observe le dragon visible derrière la fenêtre donnant sur la mer.
+- Dans la salle à eau peu profonde, élimine les barracudas ou contourne-les,
+  puis casse la dalle fragile pour ouvrir le tunnel.
+- DRAGON 27/48 - DRAGON DE JADE : au bout du tunnel sous-marin accessible
+  depuis la dalle fragile, à l'extérieur de la coque.
+- Reviens dans le navire, traverse le théâtre et la salle de service. Active
+  les interrupteurs, déplace la caisse et rejoins la sortie vers The Deck.
+
+VALIDATION DE FIN DE NIVEAU
+
+Résumé : 3 secrets. Total de campagne attendu : 27/48.
 
 10 - THE DECK
 
-- Nettoie le pont, les superstructures et les portes de progression avant de
-  lancer la sortie du secteur.
-- [ ] 3/3 dragons.
-- Dernier niveau du bloc maritime : [ ] 18/30 dragons apres validation des
-  niveaux 5 a 10 et [ ] 30/48 depuis le debut si les deux premiers blocs sont
-  propres.
+STATUT
+
+Secrets : 3/3.
+Objets de progression : Cabin Key, passages des ponts, Seraph.
+Récompense des trois secrets : cache de grenades.
+
+GARDE-FOU DU NIVEAU
+
+Le premier secret se trouve au fond du lac après une chute importante. Le
+troisième se trouve au terme d'une série de sauts vers la coque renversée.
+Sauvegarde avant la chute et avant les sauts de la grande caverne.
+
+ROUTE CHRONOLOGIQUE
+
+- Depuis la zone du pont, rejoins le bord de la grande caverne et prends la
+  chute contrôlée vers le radeau gonflable. La chute laisse peu de santé :
+  soigne-toi avant si nécessaire.
+- Sur le radeau, récupère la CABIN KEY et les harpons. Plonge ensuite au fond
+  du lac, vers la zone ouverte sous le radeau.
+- DRAGON 28/48 - DRAGON ARGENTE : posé au fond du lac, près du radeau. Les
+  requins tournent autour : ramasse-le rapidement et sors par la corniche plate
+  sur la droite de la caverne.
+- Remonte par les corniches rocheuses, passe le tunnel et rejoins le TOP DECK.
+  Élimine les ennemis avant de descendre sur les ponts intermédiaires.
+- Dans le pont supérieur intermédiaire, ouvre la porte carrelée près de la
+  piscine. Le plongeur vient de l'alcôve : élimine-le puis nage dans cette
+  alcôve.
+- DRAGON 29/48 - DRAGON D'OR : dans l'alcôve sous la piscine du pont
+  supérieur intermédiaire, derrière la porte carrelée.
+- Continue par les ponts inférieurs et la zone aux caisses. Ne descends pas
+  jusqu'au pont principal avant d'avoir préparé les sauts vers la coque.
+- Sur le pont inférieur intermédiaire, saute vers la formation rocheuse, puis
+  attrape le conduit métallique. Traverse vers la coque renversée et rejoins
+  l'ouverture dans la paroi.
+- Dans la caverne aux blocs étagés, monte jusqu'à la corniche qui domine le
+  pont supérieur. Ne te laisse pas tomber directement : le retour serait long.
+- Depuis le sommet du conduit métallique, attrape la fissure à gauche de la
+  petite grotte garnie de verre. Traverse à droite et entre prudemment.
+- DRAGON 30/48 - DRAGON DE JADE : dans la petite grotte derrière le verre,
+  accessible par la fissure depuis le conduit métallique au-dessus du pont.
+- Reviens au pont, redescends par le chemin sécurisé et utilise la Cabin Key
+  dans la cabine. Récupère le SERAPH, puis rejoins la sortie du niveau.
+
+VALIDATION DE FIN DE NIVEAU
+
+Résumé : 3 secrets. Total de campagne attendu : 30/48.
 
 11 - TIBETAN FOOTHILLS
 
-- Fais le parcours exterieur et les chemins de neige avant d'utiliser les
-  vehicules et les passerelles.
-- [ ] 3/3 dragons.
-- Sauvegarde avant chaque course de vehicule ; les pentes peuvent empecher le
-  retour vers un dragon laisse derriere.
+STATUT
+
+Secrets : 3/3.
+Objets de progression : Drawbridge Key, Hut Key, motoneiges noire et rouge.
+Récompense des trois secrets : cache de chargeurs d'Uzi.
+
+GARDE-FOU DU NIVEAU
+
+Sauvegarde avant chaque saut de motoneige et avant de prendre la Hut Key.
+Si une motoneige est perdue, la route à pied reste possible, mais recharger est
+plus rapide et plus sûr pour un premier 100 %.
+
+ROUTE CHRONOLOGIQUE
+
+- Traverse le premier canyon, évite les avalanches et brise la paroi de glace
+  translucide. Monte les parois glacées jusqu'au lac et à la cabane.
+- Près de la cabane, élimine les gardes et inspecte la grille barrée sur la
+  droite, avant de monter sur la motoneige.
+- DRAGON 31/48 - DRAGON ARGENTE : posé au sol devant l'ouverture grillagée,
+  juste à droite de la cabane.
+- Prends la motoneige et traverse la grotte vers la grande zone aux rampes.
+  Déplace les blocs de glace depuis la petite ouverture latérale.
+- Effectue les sauts de rampes vers le grand canyon. Utilise le turbo avec
+  Action et sauvegarde après chaque saut réussi.
+- Dans le canyon aux deux rampes, arrête-toi près de la bouche de la grotte et
+  regarde le rebord à droite, au-delà de l'ouverture.
+- DRAGON 32/48 - DRAGON DE JADE : sur le rebord à droite de la bouche de la
+  grotte, avant le grand saut de motoneige. Saute à pied depuis la zone sûre.
+- Poursuis jusqu'à l'avalanche, descends par la paroi de glace et récupère la
+  DRAWBRIDGE KEY dans la caverne sous le canyon.
+- Reviens au sol, remonte sur la motoneige et ouvre le pont-levis. Avance vers
+  la zone bloquée par la neige et récupère la HUT KEY au pied de la grande
+  congère.
+- Prends la motoneige rouge et reviens par les grottes, ou suis la route à pied
+  si elle a été perdue. Rejoins la grande caverne après la zone de la cabane.
+- Traverse le puits par la corniche gauche. En bas, descends l'échelle de
+  glace et attends que les boules de neige passent avant d'entrer dans le fond.
+- DRAGON 33/48 - DRAGON D'OR : au fond du puits sous l'échelle, après la
+  dernière série de boules de neige. Fais un saut latéral dès l'atterrissage,
+  puis ramasse le dragon quand le danger est passé.
+- Retourne à la cabane, utilise la Hut Key et actionne l'interrupteur. La
+  grille s'ouvre vers la zone de sortie : vérifie 3/3 avant de partir.
+
+VALIDATION DE FIN DE NIVEAU
+
+Résumé : 3 secrets. Total de campagne attendu : 33/48.
 
 12 - BARKHANG MONASTERY
 
-- Explore les salles du monastere, les cours et les galeries avant de suivre
-  la porte de sortie.
-- [ ] 3/3 dragons.
-- Les portes et les alliés ouvrent des boucles temporaires : fais les salles
-  laterales avant de valider l'objectif principal.
+STATUT
+
+Secrets : 3/3.
+Objets de progression : 4 clés, 2 gemmes, 5 Prayer Wheels, Seraph.
+Récompense des trois secrets : cache de chargeurs de M16.
+
+GARDE-FOU ET MANQUABLES
+
+Le DRAGON ARGENTE de la grande piscine doit être pris avant de vider la
+piscine. Si le niveau est joué avec une contrainte personnelle de ne pas
+blesser les moines, conserve une sauvegarde avant chaque affrontement ; cette
+contrainte ne fait pas partie des succès de l'AppID classique.
+
+ROUTE CHRONOLOGIQUE
+
+- Depuis le tunnel, approche du monastère et choisis l'entrée par la fenêtre
+  si tu veux une route propre. Entre dans le hall principal et repère les
+  portes, la statue et les pièces latérales.
+- Fouille la salle de stockage, les dortoirs et les couloirs. Récupère les
+  premières clés et les Prayer Wheels dès qu'une porte les permet.
+- Rejoins la grande salle carrée éclairée par des ouvertures. Ne prends pas
+  immédiatement la clé du piège : le détour du secret vient d'abord.
+- Engage le couloir aux brûleurs, lames roulantes, pointes oscillantes et
+  portes qui se ferment. Utilise les alcôves pour attendre le bon cycle.
+- Après la lame roulante, pars dans l'alcôve de droite. Traverse les deux
+  portes à pinces au moment où elles s'écartent.
+- DRAGON 34/48 - DRAGON DE JADE : au-delà des deux portes à pinces, dans le
+  couloir de la série de pièges. Reviens sans toucher les portes, puis prends
+  la TRAPDOOR KEY sur son piédestal.
+- Depuis la sortie sans pièges, glisse dans la grande piscine intérieure. Avant
+  toute vidange, nage vers le petit trou situé dans l'angle droit sous l'eau.
+- DRAGON 35/48 - DRAGON ARGENTE : dans la petite ouverture au coin droit de
+  la grande piscine intérieure. Prends-le avant le mécanisme qui retire l'eau.
+- Reviens au hall, utilise la Trapdoor Key devant la grande statue et traverse
+  le canyon vers les bâtiments éloignés. Récupère les gemmes et les Prayer
+  Wheels restantes.
+- Monte sur la statue par les mains et la tête. Place la seconde gemme dans
+  l'alcôve supérieure pour ouvrir la trappe sous la statue.
+- Depuis la poitrine ou le dos de la statue, entre dans l'alcôve à l'arrière.
+- DRAGON 36/48 - DRAGON D'OR : dans l'alcôve cachée derrière le dos de la
+  grande statue, après avoir utilisé la seconde gemme.
+- Reviens dans la salle des tuyaux. Lorsque les trois secrets sont vérifiés,
+  pousse la caisse qui bloque la source, vide la grande piscine et prends la
+  cinquième Prayer Wheel au fond devenu sec.
+- Place les cinq Prayer Wheels, puis le Seraph, dans la salle derrière la
+  statue. Vérifie 3/3 et franchis la sortie vers les Catacombs.
+
+VALIDATION DE FIN DE NIVEAU
+
+Résumé : 3 secrets. Total de campagne attendu : 36/48.
 
 13 - CATACOMBS OF THE TALION
 
-- Parcours les galeries, les puits et les passerelles avant de reprendre la
-  route vers la zone de glace.
-- [ ] 3/3 dragons.
-- Sauvegarde avant le combat de la zone finale et verifie les trois dragons
-  dans la statistique de niveau.
+STATUT
+
+Secrets : 3/3.
+Objets de progression : Tibetan Masks, interrupteurs des portes, passages de
+glace et de neige.
+Récompense des trois secrets : cache de grenades et munitions de M16.
+
+GARDE-FOU DU NIVEAU
+
+La troisième statuette se trouve dans la dernière salle à pointes, avant la
+course chronométrée de sortie. Ne franchis pas la porte finale avant d'avoir
+validé 3/3.
+
+ROUTE CHRONOLOGIQUE
+
+- Dans la première caverne, évite les stalactites et rejoins la fissure du mur
+  gauche. Traverse-la vers le petit espace derrière le mur.
+- DRAGON 37/48 - DRAGON ARGENTE : dans ce recoin caché derrière la fissure
+  du mur gauche de la caverne d'entrée, près des fusées éclairantes.
+- Continue par les cavernes glacées, le bassin et la cage. Récupère le premier
+  Tibetan Mask et place-le pour ouvrir la porte du bâtiment suivant.
+- Dans les bâtiments, active les interrupteurs et rejoins la série de bassins
+  glacés. Monte l'échelle suspendue presque jusqu'en haut, puis fais un
+  backflip vers la corniche située derrière.
+- DRAGON 38/48 - DRAGON DE JADE : sur la corniche obtenue par le backflip
+  depuis le sommet de l'échelle, dans la série des bassins glacés.
+- Reviens par l'échelle, ouvre les grandes portes et retourne à la zone de la
+  rampe. Utilise le second masque pour atteindre l'étage supérieur.
+- Dans la salle ouverte sous les léopards, récupère les objets et le levier.
+  Déclenche l'avalanche en sautant sur la pente puis effectue un saut latéral
+  pour laisser passer les boules.
+- Entre dans la salle aux deux dalles de pression. Appuie sur celle de gauche
+  pour ouvrir la porte temporisée, mais ne descends pas encore au niveau des
+  piques.
+- Grimpe sur le mur gauche au-dessus des deux portes et avance sur la corniche.
+- DRAGON 39/48 - DRAGON D'OR : sur la corniche au-dessus des deux portes,
+  dans la salle des piques. Prends-le avant d'activer la course finale.
+- Depuis la corniche, utilise la porte de gauche, saute par-dessus la dalle qui
+  referme la porte et déclenche le passage avec les boules de neige.
+- Reviens à la position de départ de la course, puis enchaîne deux sauts
+  continus : le premier active la dalle, le second atteint la porte de sortie.
+- Franchis la porte chronométrée et descends par l'échelle vers Ice Palace.
+
+VALIDATION DE FIN DE NIVEAU
+
+Résumé : 3 secrets. Total de campagne attendu : 39/48.
 
 14 - ICE PALACE
 
-- Explore les salles de glace et les huttes avant d'activer les mecanismes de
-  progression.
-- [ ] 3/3 dragons.
-- Le dragon de la zone de combat est plus simple a prendre avant le dernier
-  interrupteur ; ne franchis pas la descente sans le son.
+STATUT
+
+Secrets : 3/3.
+Objets de progression : Tibetan Mask, Gong Hammer, Talion.
+Récompense des trois secrets : cache de grenades.
+
+GARDE-FOU DU NIVEAU
+
+Le Dragon de Jade peut être pris après le Talion, mais il est beaucoup plus
+sûr de le ramasser avant de frapper le gong. Sauvegarde avant le gong et avant
+la grande confrontation de fin.
+
+ROUTE CHRONOLOGIQUE
+
+- Dans l'antichambre, tire sur la cloche pour ouvrir la porte. Dans la grande
+  salle, utilise les dalles ressorts pour atteindre les niveaux supérieurs.
+- Descends vers la cage des yetis et repère l'alcôve barrée au-dessus. Déplace
+  le bloc placé en face des barreaux pour ouvrir la grande salle latérale.
+- Traverse cette salle par les blocs et les sauts vers la plate-forme opposée.
+- DRAGON 40/48 - DRAGON D'OR : sur la haute plate-forme de la grande salle
+  ouverte par le bloc près de la cage des yetis.
+- Reviens par les ressorts et prends le passage rocheux. Depuis l'ouverture où
+  un yéti arrive, prends le tunnel incliné à droite vers la fenêtre grillagée.
+- DRAGON 41/48 - DRAGON ARGENTE : derrière la fenêtre grillagée au bout du
+  tunnel rocheux, accessible par le petit passage incliné à droite.
+- Poursuis dans la salle sombre aux yetis, récupère le TIBETAN MASK et utilise
+  le masque sur la porte de bois.
+- Traverse le pont au-dessus des Catacombs, active le mécanisme de la mare
+  gelée et récupère le GONG HAMMER au fond de l'eau.
+- Dans la grande caverne du gong, descends les marches et contourne la
+  structure de glace par la gauche. Dans la petite dépression près de l'échelle,
+  descends jusqu'au levier qui ouvre la porte peinte.
+- Remonte et pars vers l'arrière droit de la caverne, en regardant le gong.
+  Passe par la porte en bois nouvellement ouverte.
+- DRAGON 42/48 - DRAGON DE JADE : dans la pièce derrière la porte en bois,
+  à l'arrière droit de la structure du gong.
+- Reviens au gong, utilise le Gong Hammer, puis entre dans la salle inférieure
+  et prends le TALION.
+- Sauvegarde avant le gardien. Utilise une corniche ou une zone sûre pour
+  terminer le combat, puis rejoins la sortie.
+
+VALIDATION DE FIN DE NIVEAU
+
+Résumé : 3 secrets. Total de campagne attendu : 42/48.
 
 15 - TEMPLE OF XIAN
 
-- Fais la boucle des pieges, salles laterales et plateformes avant la grande
-  section de sortie.
-- [ ] 3/3 dragons.
-- Les longues glissades sont des points de non-retour pratiques : sauvegarde
-  au sommet et recharge si un des trois sons manque.
+STATUT
+
+Secrets : 3/3.
+Objets de progression : Dragon Seal, Gold Key, Silver Key, interrupteurs des
+deux temples.
+Récompense des trois secrets : cache de chargeurs d'Uzi.
+
+GARDE-FOU DU NIVEAU
+
+Sauvegarde avant le sol qui s'effondre au début, avant les grandes glissades
+et avant les séries de boules métalliques. La première statuette arrive très
+tôt : ne poursuis pas le circuit principal en la laissant derrière.
+
+ROUTE CHRONOLOGIQUE
+
+- Depuis la salle des torches, approche du piédestal, mais sauvegarde avant la
+  dernière dalle. Le sol se dérobe et lance la longue descente.
+- Pendant la glissade, saute la lame horizontale, puis prends la pente grise
+  et attrape sa sortie. Traverse vers la gauche et remonte dans l'alcôve.
+- DRAGON 43/48 - DRAGON D'OR : dans l'alcôve à gauche à la fin de la première
+  glissade, juste après le passage de la lame et de la pente grise.
+- Plonge dans le bassin inférieur, rejoins les deux ouvertures sous l'eau et
+  remonte jusqu'au premier temple. Active le levier sur le toit pour ouvrir la
+  trappe près de la cascade.
+- Descends par la trappe, traverse les échelles et les corniches au-dessus de
+  la lave. Après la première fissure élargie, descends l'échelle suivante et
+  traverse vers la droite.
+- Entre dans l'alcôve latérale avant de reprendre les échelles.
+- DRAGON 44/48 - DRAGON ARGENTE : dans l'alcôve de la zone de lave, après
+  les échelles et la fissure à traverser vers la droite.
+- Poursuis les salles de pièges, active le mécanisme du premier temple et
+  récupère le DRAGON SEAL dans la grande salle à la statue.
+- Retourne au premier temple et utilise le Dragon Seal pour ouvrir l'accès à
+  la zone suivante. Cherche le Gold Key et utilise-le dans la petite grille du
+  bassin de départ.
+- Nage derrière la grille, traverse la grotte aux araignées et récupère le
+  SILVER KEY. Reviens dans la caverne initiale et ouvre le second temple.
+- Dans la grande salle aux pentes et aux boules, progresse par les ressorts.
+  Depuis la partie haute, regarde le rebord en bois situé en hauteur sur la
+  droite.
+- Glisse vers le springboard, utilise-le pour atteindre le rebord en bois,
+  puis saute vers la corniche qui porte la statuette.
+- DRAGON 45/48 - DRAGON DE JADE : sur le rebord en bois élevé à droite de la
+  grande salle des pentes, accessible par le springboard.
+- Reviens au temple, passe le mécanisme final et rejoins la salle principale.
+  Vérifie 3/3 avant la grande sortie.
+
+VALIDATION DE FIN DE NIVEAU
+
+Résumé : 3 secrets. Total de campagne attendu : 45/48.
 
 16 - FLOATING ISLANDS
 
-- Avance par ilots, verifie chaque rebord avant le saut suivant et garde une
-  sauvegarde avant les plateformes mobiles.
-- [ ] 3/3 dragons.
-- Les erreurs de saut coutent souvent une collecte et beaucoup de munitions :
-  recharge plutot que de continuer avec un compteur incomplet.
+STATUT
+
+Secrets : 3/3.
+Objets de progression : deux Mystic Plaques, Gold Lattice, leviers et
+passages de lave.
+Récompense des trois secrets : grande cache de grenades.
+
+GARDE-FOU DU NIVEAU
+
+C'est le dernier niveau à secrets. Garde une sauvegarde avant les plateformes
+mobiles, les tyroliennes et la lave. Conserve environ 10 à 15 grenades pour
+la fin du niveau et ne franchis pas la dernière porte avant de vérifier 3/3.
+
+ROUTE CHRONOLOGIQUE
+
+- Dans la première île flottante, explore les terrasses et les passerelles.
+  Récupère les deux MYSTIC PLAQUES qui ouvrent la grande porte.
+- Depuis la zone des gardes et du petit arbre, monte sur les rochers à gauche.
+  Saute du rebord portant l'arbre vers le toit du bâtiment.
+- DRAGON 46/48 - DRAGON DE JADE : sur le toit atteint depuis le rebord du
+  petit arbre, dans la première zone des îles flottantes.
+- Redescends, récupère les chargeurs près du même petit arbre et inspecte la
+  paroi derrière lui. Une ouverture sombre se trouve en haut d'une pente.
+- Fais un saut debout vers cette ouverture, maintiens l'avant pour ne pas
+  glisser, suis le tunnel et laisse Lara glisser sur la courte pente finale.
+- DRAGON 47/48 - DRAGON ARGENTE : au bout du tunnel sombre derrière le
+  petit arbre et les chargeurs, après la courte glissade.
+- Utilise les deux Mystic Plaques pour ouvrir la grande porte. Traverse le
+  bâtiment, les passerelles et les salles aux guerriers jusqu'aux zones
+  inférieures.
+- Rejoins la zone de lave et avance par les blocs tan. Ne déplace pas la caisse
+  de la dernière tyrolienne si tu suis cette route : elle n'est pas nécessaire.
+- Depuis le rebord au-dessus du courant de lave, repère la petite corniche
+  basse. Fais une safety drop, puis saute à travers la lave vers le tunnel sombre.
+- Suis le tunnel jusqu'au sommet du bâtiment qui domine le jardin près de la
+  porte des Mystic Plaques.
+- DRAGON 48/48 - DRAGON D'OR : sur le toit ouvert au bout du tunnel sombre,
+  au-dessus du jardin. C'est le dernier dragon de la campagne.
+- Reviens au tunnel, franchis la lave et utilise les rebords inclinés pour
+  atteindre la porte finale.
+
+VALIDATION DE FIN DE NIVEAU
+
+Résumé : 3 secrets. Total de campagne attendu : 48/48. Les 16 niveaux à
+dragons doivent maintenant tous être à 3/3.
 
 17 - THE DRAGON'S LAIR
 
-- Termine le niveau final de la campagne principale.
-- Aucun dragon secret n'est compte ici : [ ] 48/48 apres les 16 niveaux
-  precedents.
-- Fais une sauvegarde avant la derniere confrontation et controle l'ecran de
-  statistiques avant de lancer l'epilogue.
+STATUT
+
+Secrets : 0/0.
+Objectif : terminer le niveau final de la campagne principale.
+
+ROUTE CHRONOLOGIQUE
+
+- Fais une sauvegarde séparée au début du niveau et garde les armes lourdes,
+  les grenades et les grands soins pour les zones de combat.
+- Avance par les salles, les couloirs et les mécanismes jusqu'à l'arène finale.
+- Termine le combat et franchis la sortie. Il n'y a aucune statuette cachée.
+- Contrôle le total général après le résumé : il doit rester à 48/48.
 
 18 - HOME SWEET HOME
 
-- Termine l'epilogue et conserve la sauvegarde de fin.
-- Aucun dragon secret n'est compte dans ce niveau.
-- [ ] 18/18 niveaux ; [ ] 48/48 dragons ; [ ] campagne complete.
+STATUT
 
-EXTENSION SEPAREE - THE GOLDEN MASK
+Secrets : 0/0.
+Objectif : terminer l'épilogue de la campagne.
 
-- Cette extension PC n'est pas la campagne de l'AppID 225300 visible sur la
-  fiche Steam originale. Si elle est installee, traite-la apres le jeu de base.
-- Ordre : The Cold War, Fool's Gold, Furnace of the Gods, Kingdom.
-- Chaque niveau contient 3 secrets, soit [ ] 12/12. La collecte des 12 ouvre
-  le bonus Nightmare in Vegas, qui contient encore [ ] 3/3 secrets.
-- [ ] 5/5 niveaux Gold ; [ ] 15/15 secrets Gold si cette extension est
-  disponible ; ne les melange pas aux 48 dragons du jeu de base.
+ROUTE CHRONOLOGIQUE
 
-CHECKLIST FINALE
+- Fais une sauvegarde de fin de campagne avant de commencer.
+- Suis le parcours de la maison, ouvre les accès et termine la séquence de
+  sortie. Il n'y a aucun dragon dans ce niveau.
+- Conserve la sauvegarde finale. Elle prouve la campagne 18/18 et le total
+  48/48, sans ajouter de collectible fictif.
 
-[ ] 16 niveaux a dragons verifies a 3/3.
-[ ] 48/48 dragons de la campagne originale.
-[ ] The Dragon's Lair termine sans chercher de secret supplementaire.
-[ ] Home Sweet Home termine.
-[ ] Golden Mask separee si installee.
-[ ] 0/0 succes Steam ; aucun gate online.
+THE GOLDEN MASK - EXTENSION PC SEPAREE
 
-Sources de verification : fiche Steam de Tomb Raider II (1997), WikiRaider
-pour l'ordre des 18 niveaux et les 48 secrets, la page WikiRaider des dragons
-et les reperes de The Golden Mask. Les emplacements sont reformules et la
-route ne revele pas l'histoire.
+PERIMETRE
+
+The Golden Mask est une extension PC distincte de la campagne originale. Elle
+ne change pas le compteur Steam de l'AppID 225300 et ses artefacts ne doivent
+pas être ajoutés aux 48 dragons de la campagne.
+
+Les secrets changent de forme : Gold Coins, Gold Bars et Gold Skulls. Chaque
+niveau en contient 3. Les quatre premiers niveaux donnent 12 secrets et
+déverrouillent le niveau bonus Nightmare in Vegas, qui en contient 3 de plus.
+
+19.1 - THE COLD WAR
+
+- ARTEFACT 01/15 - GOLD COINS : depuis la piscine de départ, nage à gauche en
+  passant les deux tonneaux au fond. Le petit tunnel sous-marin contient les
+  pièces.
+- ARTEFACT 02/15 - GOLD BARS : dans le passage parallèle au bâtiment, après
+  la zone de la tyrolienne. Glisse vers le puits, descends l'échelle de glace,
+  entre dans la cavité derrière les barreaux et monte sur le bloc.
+- ARTEFACT 03/15 - GOLD SKULL : après la zone de la piscine gelée, suis les
+  plateformes de glace qui s'effondrent, rejoins le bassin devenu gelé et
+  brise la fenêtre de glace derrière laquelle se trouve le crâne.
+- Sauvegarde avant les échelles et les plateformes fragiles. Termine par la
+  porte de la base et vérifie 3/3.
+
+19.2 - FOOL'S GOLD
+
+- ARTEFACT 04/15 - GOLD COINS : dans la première zone aux caisses et à la
+  piscine, tire la caisse mobile qui masque le sol secret. Les pièces sont
+  sous la caisse.
+- ARTEFACT 05/15 - GOLD BARS : après l'entrée Yellow Star, reviens vers la
+  ouverture marquée par le tableau mural. Utilise l'interrupteur du passage,
+  franchis la porte et récupère les lingots derrière la grille.
+- ARTEFACT 06/15 - GOLD SKULL : dans la zone près du pont de pierre, descends
+  sur le bloc inférieur puis dans le puits où le crâne est visible. Remonte
+  avant la séquence de sortie.
+- Vérifie les deux cartes et le circuit avant de rejoindre la sortie. Les
+  motoneiges et les pièces de toit sont des points de sauvegarde utiles.
+
+19.3 - FURNACE OF THE GODS
+
+- ARTEFACT 07/15 - GOLD COINS : après la première échelle, déplace le bloc
+  qui bouche le passage et prends les pièces révélées sous son emplacement.
+- ARTEFACT 08/15 - GOLD BARS : dans la grande zone de liquide doré, cherche
+  la fosse basse près des blocs et de la plateforme portant les munitions de
+  M16. Descends, prends les lingots, puis remonte par les blocs sûrs.
+- ARTEFACT 09/15 - GOLD SKULL : près de la fin de la zone de lave dorée,
+  approche de l'ouverture au sol, descends à reculons en attrapant le bord de
+  la pente, puis prends l'échelle vers la petite cavité du crâne.
+- Sauvegarde avant chaque saut au-dessus du liquide et avant les murs à pointes.
+
+19.4 - KINGDOM
+
+- ARTEFACT 10/15 - GOLD COINS : dans la zone des cages et des interrupteurs,
+  rejoins le carrefour en T puis prends l'alcôve de l'autre côté du carrefour.
+  Les pièces ouvrent une trappe vers une cage inférieure.
+- ARTEFACT 11/15 - GOLD BARS : après le pont entre les arbres, saute sur la
+  pente rocheuse, traverse vers le petit pont latéral et atteins la plateforme
+  qui porte les lingots.
+- ARTEFACT 12/15 - GOLD SKULL : depuis le premier secteur des trappes, ouvre
+  la trappe isolée, remonte par les blocs et les pentes jusqu'à l'alcôve dont
+  le mur se brise. Suis uniquement les dalles dorées sûres avant d'entrer.
+- Termine le niveau et vérifie les 12 artefacts. Le bonus devient disponible
+  après la validation des quatre niveaux principaux.
+
+19.5 - NIGHTMARE IN VEGAS - NIVEAU BONUS
+
+- ARTEFACT 13/15 - GOLD COINS : dans le secteur Cell Block Rock, place les
+  deux blocs mobiles au centre de la scène pour ouvrir la trappe arrière. Dans
+  la pièce inférieure, déplace les trois blocs et prends les pièces sous le
+  second bloc de la paire.
+- ARTEFACT 14/15 - GOLD BARS : après la zone aux deux Tyrannosaurus, descends
+  la rampe et entre dans la cage du dinosaure. Les lingots sont au fond.
+- ARTEFACT 15/15 - GOLD SKULL : après avoir réparé l'ascenseur et atteint le
+  sommet de l'atrium, prends le crâne dans la cage au pied de la sculpture
+  dorée. Il faut le ramasser rapidement avant de repartir vers l'ascenseur.
+- Termine le gardien et vérifie 3/3. Le total extension attendu est 15/15.
+
+TABLEAU FINAL DE CAMPAGNE
+
+01 The Great Wall : 3/3, total 3/48.
+02 Venice : 3/3, total 6/48.
+03 Bartoli's Hideout : 3/3, total 9/48.
+04 Opera House : 3/3, total 12/48.
+05 Offshore Rig : 3/3, total 15/48.
+06 Diving Area : 3/3, total 18/48.
+07 40 Fathoms : 3/3, total 21/48.
+08 Wreck of the Maria Doria : 3/3, total 24/48.
+09 Living Quarters : 3/3, total 27/48.
+10 The Deck : 3/3, total 30/48.
+11 Tibetan Foothills : 3/3, total 33/48.
+12 Barkhang Monastery : 3/3, total 36/48.
+13 Catacombs of the Talion : 3/3, total 39/48.
+14 Ice Palace : 3/3, total 42/48.
+15 Temple of Xian : 3/3, total 45/48.
+16 Floating Islands : 3/3, total 48/48.
+17 The Dragon's Lair : 0/0.
+18 Home Sweet Home : 0/0.
+
+CHECKLIST FINALE - CAMPAGNE CLASSIQUE
+
+[ ] 00 Lara's Home terminé et sauvegarde testée.
+[ ] 01 The Great Wall - Dragon argenté.
+[ ] 01 The Great Wall - Dragon de jade.
+[ ] 01 The Great Wall - Dragon d'or.
+[ ] 02 Venice - Dragon argenté.
+[ ] 02 Venice - Dragon d'or.
+[ ] 02 Venice - Dragon de jade.
+[ ] 03 Bartoli's Hideout - Dragon argenté.
+[ ] 03 Bartoli's Hideout - Dragon d'or.
+[ ] 03 Bartoli's Hideout - Dragon de jade avant le détonateur.
+[ ] 04 Opera House - Dragon d'or.
+[ ] 04 Opera House - Dragon de jade.
+[ ] 04 Opera House - Dragon argenté.
+[ ] 05 Offshore Rig - Dragon de jade.
+[ ] 05 Offshore Rig - Dragon argenté.
+[ ] 05 Offshore Rig - Dragon d'or.
+[ ] 06 Diving Area - Dragon argenté.
+[ ] 06 Diving Area - Dragon de jade.
+[ ] 06 Diving Area - Dragon d'or.
+[ ] 07 40 Fathoms - Dragon argenté avant la trappe.
+[ ] 07 40 Fathoms - Dragon de jade dans la zone extérieure.
+[ ] 07 40 Fathoms - Dragon d'or dans l'alcôve sans air.
+[ ] 08 Wreck of the Maria Doria - Dragon argenté dans le conduit.
+[ ] 08 Wreck of the Maria Doria - Dragon de jade derrière les tonneaux.
+[ ] 08 Wreck of the Maria Doria - Dragon d'or dans la poche d'air.
+[ ] 09 Living Quarters - Dragon argenté des pistons.
+[ ] 09 Living Quarters - Dragon d'or de la fosse vitrée.
+[ ] 09 Living Quarters - Dragon de jade du tunnel extérieur.
+[ ] 10 The Deck - Dragon argenté du lac.
+[ ] 10 The Deck - Dragon d'or de la piscine.
+[ ] 10 The Deck - Dragon de jade de la coque renversée.
+[ ] 11 Tibetan Foothills - Dragon argenté de la cabane.
+[ ] 11 Tibetan Foothills - Dragon de jade du grand canyon.
+[ ] 11 Tibetan Foothills - Dragon d'or du puits à neige.
+[ ] 12 Barkhang Monastery - Dragon de jade des pièges.
+[ ] 12 Barkhang Monastery - Dragon argenté de la grande piscine avant vidange.
+[ ] 12 Barkhang Monastery - Dragon d'or du dos de la statue.
+[ ] 13 Catacombs of the Talion - Dragon argenté de la fissure d'entrée.
+[ ] 13 Catacombs of the Talion - Dragon de jade du backflip sur échelle.
+[ ] 13 Catacombs of the Talion - Dragon d'or de la salle à pointes.
+[ ] 14 Ice Palace - Dragon d'or de la salle ouverte par le bloc.
+[ ] 14 Ice Palace - Dragon argenté derrière la fenêtre grillagée.
+[ ] 14 Ice Palace - Dragon de jade derrière la porte du gong.
+[ ] 15 Temple of Xian - Dragon d'or de la première glissade.
+[ ] 15 Temple of Xian - Dragon argenté de la zone de lave.
+[ ] 15 Temple of Xian - Dragon de jade du springboard.
+[ ] 16 Floating Islands - Dragon de jade du toit.
+[ ] 16 Floating Islands - Dragon argenté du tunnel derrière l'arbre.
+[ ] 16 Floating Islands - Dragon d'or du toit au-dessus du jardin.
+[ ] The Dragon's Lair terminé : 0/0 secret.
+[ ] Home Sweet Home terminé : 0/0 secret.
+[ ] Statistiques finales : 18/18 niveaux et 48/48 dragons.
+[ ] Succès Steam vérifiés : 0/0, aucun succès manquant.
+
+CHECKLIST FINALE - THE GOLDEN MASK SI INSTALLEE
+
+[ ] The Cold War : 3/3 artefacts.
+[ ] Fool's Gold : 3/3 artefacts.
+[ ] Furnace of the Gods : 3/3 artefacts.
+[ ] Kingdom : 3/3 artefacts.
+[ ] Nightmare in Vegas : 3/3 artefacts.
+[ ] Extension complète : 5/5 niveaux et 15/15 artefacts.
+
+VERIFICATION ET SOURCES DE TRAVAIL
+
+La structure des niveaux, le compteur 48, les trois dragons par niveau et les
+emplacements ont été recoupés avec les walkthroughs classiques de Stella's
+Site, les pages de secrets et les parcours détaillés de Tomb Raider II Gold.
+Les descriptions ont été reformulées pour une lecture chronologique et sans
+spoiler, sans reprendre les textes des sources.
+
+- Stella's Site - index Tomb Raider II :
+  https://tombraiders.net/stella/tomb2.html
+- Stella's Site - walkthroughs TR2 :
+  https://tombraiders.net/stella/walks/TR2walk/
+- Stella's Site - Tibetan Foothills :
+  https://tombraiders.net/stella/walks/TR2walk/11tibet.html
+- Stella's Site - Barkhang Monastery :
+  https://tombraiders.net/stella/walks/TR2walk/12barkhang.html
+- Stella's Site - Catacombs of the Talion :
+  https://tombraiders.net/stella/walks/TR2walk/13catacombs.html
+- Stella's Site - Floating Islands :
+  https://tombraiders.net/stella/walks/TR2walk/16floatingislands.html
+- Tomb Raider Chronicles - The Golden Mask :
+  https://www.tombraiderchronicles.com/tr2/gold/walkthrough/
+- Fiche Steam de l'édition classique :
+  https://store.steampowered.com/app/225300/Tomb_Raider_II/
+
+FIN DE LA FICHE
