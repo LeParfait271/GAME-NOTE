@@ -1,198 +1,1370 @@
 TOMB RAIDER I (1996)
-GUIDE SPECIAL CHRONOLOGIQUE - SANS SPOILER
+FICHE PREMIUM - GUIDE CHRONOLOGIQUE 100 % CONTENU - SANS SPOILER
 
-Version de travail : 11 aout 2026
+Version verifiee : 12 aout 2026
 
-Ce guide couvre l'edition Steam originale AppID 224960, pas Tomb Raider I-III
-Remastered. La fiche Steam originale n'expose pas de succes Steam : il n'y a
-donc pas de 100 % Steam a promettre. Le 100 % utile de cette edition est la
-campagne en 15 niveaux et ses 45 secrets. Unfinished Business est une
-extension Windows separee ; elle est indiquee a part et ne rentre pas dans le
-compteur de l'AppID 224960.
+======================================================================
+FICHE DE PERIMETRE
+======================================================================
 
-OBJECTIF REEL
+Jeu vise : Tomb Raider I (1996), edition PC classique distribuee sur Steam.
+AppID : 224960 (Steam)
+Edition couverte : campagne originale, 15 niveaux, 45 secrets officiels.
+Edition exclue : Tomb Raider I-III Remastered et ses trophees.
+Succes Steam : 0. Cette edition ne possede pas de liste Steam Achievements.
+Online : aucun.
+Cooperation : aucune.
 
-[ ] 15/15 niveaux de la campagne originale.
-[ ] 45/45 secrets, avec verification de l'ecran de statistiques de chaque
-    niveau.
-[ ] Tous les artefacts, cles, leviers et armes utiles recuperes.
-[ ] Sauvegardes de securite conservees avant les longues glissades et chutes.
-[ ] 0/0 succes Steam : l'AppID 224960 n'en propose pas.
+Cette fiche ne raconte pas l'histoire. Les noms de lieux, d'objets, de pieges
+et d'ennemis servent uniquement a se reperer et a suivre la route. Aucun mort,
+twist, choix narratif, identite ou detail de fin n'est explique.
 
-GARDE-FOUS ET MISSABLES
+Le jeu original n'a pas de coffres au sens moderne : les caches secretes
+remplissent ce role. Chaque secret est donc donne avec son emplacement concret,
+son chemin d'acces et sa recompense. Les medipacks et munitions ordinaires
+non caches ne sont pas un compteur de completion distinct ; les objets de
+progression, les armes et les 45 caches sont tous integres a la route.
 
-- Le jeu affiche le nombre de secrets trouves a l'ecran de fin de niveau.
-  Note le resultat avant de charger le niveau suivant ; un total incorrect est
-  plus facile a corriger avec une sauvegarde du debut de zone.
-- Sauvegarde avant chaque grande descente, pente sans retour, plongee longue
-  ou rampe de sortie. Dans les niveaux classiques, un secret peut etre place
-  derriere la route de progression et demander de refaire toute la zone.
-- Dans The Great Pyramid, verifie le compteur avant la derniere sortie. Des
-  versions classiques peuvent mal enregistrer le dernier secret ; conserve une
-  sauvegarde d'avant la salle concernee et controle le total global.
-- Le tutoriel Croft Manor ne compte pas dans les 15 niveaux ni dans les 45
-  secrets. Les armes et munitions ne sont pas un compteur officiel : garde-les
-  seulement si l'ecran de statistiques te sert de controle supplementaire.
+======================================================================
+OBJECTIF REEL DU 100 %
+======================================================================
 
-ROUTE CHRONOLOGIQUE - CAMPAGNE ORIGINALE
+- 15/15 niveaux de la campagne originale.
+- 45/45 secrets, avec le detail de chaque cache ci-dessous.
+- Tous les objets de progression : cles, leviers, interrupteurs et artefacts.
+- Toutes les armes principales obtenues pendant la route.
+- Les statistiques de fin de niveau controlees avant de passer au suivant.
+- 0/0 succes Steam : rien ne peut etre debloque sur l'AppID classique.
 
-00 - CROFT MANOR / TUTORIEL
+Le jeu compte les secrets par niveau dans l'ecran de statistiques. Un niveau
+termine avec 2/3 doit etre corrige avant de continuer si tu veux un suivi
+propre. The Great Pyramid fait exception : son troisieme secret est connu pour
+ne pas s'enregistrer dans certaines versions classiques. La fiche distingue
+donc l'emplacement officiel du compteur technique.
 
-- Fais les mouvements de base, les sauts, les saisies et les roulades.
-- Aucun secret de la campagne n'est associe a ce tutoriel.
-- [ ] Commandes et sauvegarde testees avant Caves.
+======================================================================
+TABLEAU DE ROUTE ET COMPTEUR DES SECRETS
+======================================================================
 
-01 - CAVES
+01  Caves                    3 secrets   total cumule 03
+02  City of Vilcabamba      3 secrets   total cumule 06
+03  Lost Valley              5 secrets   total cumule 11
+04  Tomb of Qualopec         3 secrets   total cumule 14
+05  St. Francis' Folly      4 secrets   total cumule 18
+06  Colosseum                3 secrets   total cumule 21
+07  Palace Midas             3 secrets   total cumule 24
+08  The Cistern              3 secrets   total cumule 27
+09  Tomb of Tihocan          2 secrets   total cumule 29
+10  City of Khamoon          3 secrets   total cumule 32
+11  Obelisk of Khamoon       3 secrets   total cumule 35
+12  Sanctuary of the Scion   1 secret    total cumule 36
+13  Natla's Mines            3 secrets   total cumule 39
+14  Atlantis                 3 secrets   total cumule 42
+15  The Great Pyramid        3 secrets   total cumule 45
 
-- Suis les empreintes jusqu'a la premiere salle, puis explore chaque alcove
-  avant d'utiliser la sortie de la zone.
-- [ ] 3/3 secrets.
-- Apprends le rythme saut-arret avant les couloirs a flechettes et garde une
-  sauvegarde avant la longue descente.
+======================================================================
+GARDE-FOUS, MISSABLES / MANQUABLES AVANT DE COMMENCER
+======================================================================
 
-02 - CITY OF VILCABAMBA
+SAUVEGARDES
 
-- Fais d'abord le tour des maisons et des hauteurs, puis utilise les cles dans
-  l'ordre de la route principale.
-- [ ] 3/3 secrets.
-- Avant de plonger, verifie les rebords autour de la salle centrale et fais la
-  sauvegarde de sortie.
+- Garde un fichier de sauvegarde au debut de chaque niveau.
+- Garde une sauvegarde juste avant chaque long toboggan, pont chronometre,
+  saut vers une cache, plongee sans retour ou porte qui se referme.
+- Dans un niveau vertical, conserve au moins une sauvegarde basse et une haute.
+- Ne remplace pas ta sauvegarde de debut de niveau apres un secret difficile
+  tant que le son de secret et le compteur ne sont pas confirmes.
 
-03 - LOST VALLEY
+COMMANDES ET TECHNIQUE
 
-- Explore le trajet autour de la cascade et des passerelles avant de remettre
-  le mecanisme de la porte en service.
-- [ ] 5/5 secrets.
-- Le vehicule et la grande descente ferment plusieurs retours : ramasse les
-  secrets situes sur les hauteurs avant de lancer le passage suivant.
+- Un saut avec course commence par un pas en arriere, puis course + saut.
+- Pour un saut avec saisie, maintiens Action pendant le saut.
+- Une descente de securite se fait dos au vide : accroche le rebord, puis
+  relache Action. Elle evite les degats d'une chute courte.
+- Un plongeon se fait avec Marche + Saut + Avant. Ne l'utilise que si l'eau
+  est visible et suffisamment profonde.
+- Les sauts sur pentes demandent souvent de maintenir Saut pour enchainer les
+  rebonds. Si Lara glisse vers la mauvaise direction, recharge au lieu de
+  forcer un saut improvisé.
+- Les objets au fond d'une piscine ne justifient jamais de vider la barre
+  d'air : remonte, reprends ton souffle et refais la plongee par etapes.
 
-04 - TOMB OF QUALOPEC
+CONTROLE A LA FIN D'UN NIVEAU
 
-- Utilise les leviers des ailes laterales en notant quelle porte ils ouvrent.
-- [ ] 3/3 secrets.
-- Fouille les salles de cote avant de prendre l'objet de progression et
-  verifie l'ecran de statistiques.
+- Le son de chaque secret doit avoir retenti.
+- Le total du niveau doit correspondre au tableau ci-dessus.
+- Note le nombre de secrets avant l'ecran suivant.
+- Si le total est faux, recharge la sauvegarde du dernier embranchement connu.
+- Ne confonds pas un son de ramassage ou de cle avec le son d'un secret.
 
-05 - ST. FRANCIS' FOLLY
+======================================================================
+00. CROFT MANOR / TUTORIEL
+======================================================================
 
-- Depuis le hall, traite les quatre salles superieures avant de redescendre.
-- [ ] 4/4 secrets.
-- Les quatre chemins verticaux ne se valent pas : sauvegarde avant chaque
-  saut vers un interrupteur et reviens chercher les coffres de chaque balcon.
+CONTENU : aucun secret de campagne, aucun niveau de statistiques.
 
-06 - COLOSSEUM
+1. Teste la marche, la course, le saut, la saisie et la roulade.
+2. Fais une descente de securite depuis un rebord et un plongeon dans la zone
+   d'eau prevue a cet effet.
+3. Rejoins la sortie et teste une sauvegarde avant de lancer Caves.
 
-- Fais le tour du perimetre avant d'ouvrir la porte de l'arene, puis utilise
-  les cles laterales sans quitter les terrasses.
-- [ ] 3/3 secrets.
-- Un secret se trouve sur une boucle de retour ; ne lance pas la descente
-  finale avant d'avoir valide les trois sons de secret.
+CHECKPOINT TUTORIEL
 
-07 - PALACE MIDAS
+- [ ] Commandes de base testees.
+- [ ] Sauvegarde et chargement testes.
+- [ ] 0 secret a compter.
 
-- Explore les jardins et les galeries avant d'utiliser les piliers et les
-  leviers de la salle principale.
-- [ ] 3/3 secrets.
-- Les objets de progression peuvent transformer l'inventaire : fais les
-  secrets des salles laterales avant l'interaction centrale.
+======================================================================
+01. CAVES - 3 SECRETS
+======================================================================
 
-08 - THE CISTERN
+AVANT LA ZONE
 
-- Ouvre les passages autour du bassin, puis reviens inspecter les couloirs
-  rendus accessibles par chaque niveau d'eau.
-- [ ] 3/3 secrets.
-- Conserve une sauvegarde avant la seconde variation de niveau d'eau et
-  controle les rebords avant de prendre la sortie.
+- Sauvegarde au debut du niveau.
+- Les flechettes sont le premier piege : avance en courant sans t'arreter
+  entre les ouvertures.
+- Les trois secrets sont accessibles avant la sortie ; ne saute pas le detour
+  vers la grande salle aux deux passerelles.
 
-09 - TOMB OF TIHOCAN
+ROUTE CHRONOLOGIQUE
 
-- Fais la boucle des salles et des cles, puis termine la poursuite en gardant
-  une sauvegarde avant la glissade.
-- [ ] 2/2 secrets.
-- Le second secret demande un saut lateral pendant une descente : recharge
-  immediatement si le son ne retentit pas.
+01. Suis les traces jusqu'au couloir de flechettes. Traverse-le en courant,
+    puis tourne vers la zone rocheuse indiquee par la camera.
+02. Avant de monter dans l'ouverture principale, entre dans la petite grotte
+    rectangulaire de gauche. Le bloc incline au fond sert de tremplin.
+03. Place Lara dos au bloc, fais un saut arriere sur la pente, puis maintiens
+    Saut + Action pour attraper la corniche au-dessus.
 
-10 - CITY OF KHAMOON
+SECRET 01/03 - PETITE TROUSSE
 
-- Fouille les plateformes autour des statues avant de poursuivre les leviers
-  et les passages au-dessus du sable.
-- [ ] 3/3 secrets.
-- Ne prends pas la sortie du niveau apres le dernier interrupteur sans avoir
-  verifie les trois alcoves.
+- Emplacement : petite grotte rectangulaire a gauche du premier couloir de
+  flechettes, au-dessus du bloc incline.
+- Acces : rebond sur la pente du bloc, puis saisie de la corniche.
+- Verification : le son retentit avant de redescendre.
 
-11 - OBELISK OF KHAMOON
+04. Reviens dans la grande grotte, monte par l'ouverture surelevee et garde
+    les pistolets sortis pour les chauves-souris.
+05. Dans la zone de gauche, repere la petite congère devant une ouverture
+    haute. Place Lara contre le mur, decale-la au maximum vers la gauche et
+    attrape la corniche avec Action + Avant.
 
-- Ouvre les quatre acces de l'obelisque, puis fais le tour complet des rebords
-  avant la descente finale.
-- [ ] 3/3 secrets.
-- Les clefs et les passages sous l'eau se croisent : note chaque retour et
-  sauvegarde avant les sauts vers les plateformes exterieures.
+SECRET 02/03 - PETITE TROUSSE
 
-12 - SANCTUARY OF THE SCION
+- Emplacement : ouverture haute de la grotte de gauche, au-dessus de la neige.
+- Acces : se decaler a gauche sur la congère ; ne pas tenter un saut direct.
+- Verification : tue la chauve-souris dans la petite salle puis ramasse la
+  cache avant de poursuivre.
 
-- Termine le parcours des salles hautes et basses avant d'utiliser la derniere
-  cle de progression.
-- [ ] 1/1 secret.
-- Le secret est sur une boucle laterale : valide le son avant de prendre la
-  longue sortie du sanctuaire.
+06. Depuis la grande grotte, suis la zone couverte de vegetation et descends
+    jusqu'au levier pres de la porte fermee.
+07. Ouvre la porte, traverse la salle des deux passerelles et elimine ou
+    contourne les loups depuis les hauteurs.
+08. Passe la salle de l'ours, active la dalle d'ouverture et reviens au vide
+    avec l'ours. Effectue le saut avec course vers l'autre cote.
+09. Dans la salle suivante, utilise les blocs lateraux pour atteindre la
+    corniche couverte de vegetation sur le cote gauche.
 
-13 - NATLA'S MINES
+SECRET 03/03 - GRANDE TROUSSE
 
-- Recupere l'equipement necessaire, puis fouille les galeries de rails et les
-  plateformes avant le passage de sortie.
-- [ ] 3/3 secrets.
-- Une zone de transport peut condamner le retour : fais une sauvegarde avant
-  de l'activer et controle les trois secrets dans les statistiques.
+- Emplacement : ouverture dissimulee par la vegetation, sur la corniche
+  gauche de la salle situee apres les deux passerelles.
+- Acces : monte sur la plateforme a piliers ou sur le rebord rocheux a droite,
+  puis fais un saut avec course vers la corniche vegetale.
+- Recompense : grande trousse.
 
-14 - ATLANTIS
+10. Reviens dans la salle et prends la petite trousse sous l'escalier si tu
+    veux nettoyer les objets ordinaires.
+11. Atteins l'interrupteur sur la corniche a droite des grandes portes.
+12. Active-le, enchaine rapidement les petits sauts vers le mur bas, puis
+    traverse la porte avant sa fermeture.
+13. Monte les marches a flechettes, elimine le loup de la salle haute et
+    laisse les dalles cassables te faire descendre.
+14. Dans le long couloir, ne tombe pas tout de suite : rejoins l'extremite,
+    prends le saut avec course au-dessus du vide, puis atteins l'interrupteur
+    de la salle du fond.
+15. Active l'interrupteur, reviens a la sortie et verifie 3/3.
 
-- Parcours les couloirs exterieurs, les salles verticales et les zones de
-  retour avant de suivre le dernier chemin.
-- [ ] 3/3 secrets.
-- Le niveau est long et les intersections se ressemblent : un point de
-  sauvegarde au debut de chaque bloc evite de perdre une collecte.
+CHECKPOINT CAVES
 
-15 - THE GREAT PYRAMID
+- [ ] Secret 1 : grotte rectangulaire, bloc incline.
+- [ ] Secret 2 : petite grotte au-dessus de la congère.
+- [ ] Secret 3 : corniche vegetale apres les deux passerelles.
+- [ ] 3/3 secrets dans les statistiques.
 
-- Avance par blocs courts, conserve des munitions et ne franchis pas la sortie
-  finale avant le controle du compteur.
-- [ ] 3/3 secrets.
-- Controle [ ] 45/45 secrets sur l'ecran de fin, puis termine la campagne.
+======================================================================
+02. CITY OF VILCABAMBA - 3 SECRETS
+======================================================================
 
-CHECKLIST DES SECRETS
+AVANT LA ZONE
 
-[ ] Caves 3/3 ; City of Vilcabamba 3/3 ; Lost Valley 5/5 ; Tomb of Qualopec
-    3/3.
-[ ] St. Francis' Folly 4/4 ; Colosseum 3/3 ; Palace Midas 3/3 ; The Cistern
-    3/3 ; Tomb of Tihocan 2/2.
-[ ] City of Khamoon 3/3 ; Obelisk of Khamoon 3/3 ; Sanctuary of the Scion
-    1/1.
-[ ] Natla's Mines 3/3 ; Atlantis 3/3 ; The Great Pyramid 3/3.
-[ ] Total 45/45 et 15/15 niveaux.
+- La zone tourne autour d'une piscine centrale et de plusieurs batiments.
+- Les deux premiers secrets utilisent une route sous-marine ; garde de l'air.
+- Le troisieme secret se trouve dans le batiment des lames, avant la porte
+  doree finale.
 
-EXTENSION SEPAREE - UNFINISHED BUSINESS
+ROUTE ET SECRET 01
 
-- Cette extension n'est pas la campagne de l'AppID 224960. Si elle est
-  installee par un autre moyen, traite-la apres la campagne originale.
-- Ordre conseille : Return to Egypt, Temple of the Cat, Atlantean Stronghold,
-  The Hive.
-- Elle comporte quatre niveaux bonus et son propre nettoyage de secrets ; ne
-  melange pas ses compteurs avec les 45 secrets du jeu de base.
+01. Traverse l'entree et elimine les loups qui arrivent des couloirs.
+02. Fais le tour de la zone jusqu'a la piscine centrale, puis entre dans la
+    petite etable avec le gros ennemi. Tu peux le tirer depuis la mezzanine.
+03. Plonge dans la piscine, suis le tunnel jusqu'a la salle aux piliers et
+    prends le levier dans le coin arriere droit, sous les visages sculptes.
+04. La trappe au-dessus de l'eau s'ouvre. Remonte par cette trappe et entre
+    dans la petite salle.
 
-MULTIJOUEUR ET SUCCES
+SECRET 01/03 - PETITE TROUSSE
 
-- La fiche Steam indique une experience solo sans liste Steam Achievements.
-- Il n'y a donc ni gate online, ni DLC Steam a valider, ni faux 100 % Steam a
-  ajouter a la checklist.
+- Emplacement : salle secrete au-dessus de la salle sous-marine aux piliers.
+- Acces : premier levier sous l'eau, puis trappe ouverte.
+- Ne retourne pas directement a la piscine : replonge pour le second levier.
 
-CHECKLIST FINALE
+05. Replonge et va dans le coin oppose de la salle sous-marine pour le second
+    levier. Si la jauge d'air est basse, retourne par la trappe avant de
+    poursuivre.
+06. Suis le tunnel aux carreaux bleus jusqu'a la seconde piscine. Dans le coin
+    droit, franchis la porte ouverte par le second levier.
 
-[ ] Campagne originale terminee.
-[ ] 45/45 secrets verifies par les statistiques de niveau.
-[ ] 15/15 niveaux valides.
-[ ] Extension Unfinished Business separee si installee.
-[ ] 0/0 succes Steam.
+SECRET 02/03 - PETITE TROUSSE ET CHARGEURS DE MAGNUM
 
-Sources de verification : fiche Steam de Tomb Raider I (1996), WikiRaider
-pour les 15 niveaux et 45 secrets, et les guides de parcours Croft Generation
-et Stella. Les reperes sont reformules et la route ne revele pas l'histoire.
+- Emplacement : petite salle brute au bord de la seconde piscine, derriere la
+  porte du second levier.
+- Acces : tunnel bleu, seconde piscine, coin droit.
+
+ROUTE PRINCIPALE
+
+07. Reviens a la piscine de depart, ouvre la porte sculptee et franchis la
+    salle aux dalles cassables pour prendre la SILVER KEY et le GOLD IDOL.
+08. Utilise la SILVER KEY sur la porte verrouillee pres de la vegetation.
+09. Passe les flechettes, puis le groupe de loups. Dans le batiment aux trois
+    portes, commence par la porte de gauche, la seule ouverte.
+10. Monte les escaliers et les rebords, active le levier en hauteur et reviens
+    au toit par les descentes de securite.
+11. Entre par la porte du milieu. Traverse les trois lames en les prenant une
+    par une ; ne cours pas a l'aveugle.
+12. Le levier fait tomber Lara dans une piscine. Remonte par le passage carre
+    sous l'eau, puis active le levier de la salle haute pour ouvrir la porte.
+13. Avant la porte doree, monte les escaliers du cote gauche. Dans la piece
+    du levier des lames, prends la porte opposee et descends deux fois.
+
+SECRET 03/03 - CHARGEURS D'UZI
+
+- Emplacement : petite salle sous le levier qui arrete les lames, juste avant
+  l'autel de la porte doree.
+- Acces : porte opposee au levier, deux descentes.
+- Fais ce detour avant de placer le GOLD IDOL.
+
+14. Reviens a l'autel, utilise le GOLD IDOL et termine le niveau.
+
+CHECKPOINT CITY OF VILCABAMBA
+
+- [ ] Secret 1 : trappe de la salle aux piliers.
+- [ ] Secret 2 : porte du second levier, seconde piscine.
+- [ ] Secret 3 : salle sous le levier des lames.
+- [ ] Silver Key recuperee.
+- [ ] Gold Idol recupere et utilise.
+- [ ] 3/3 secrets dans les statistiques.
+
+======================================================================
+03. LOST VALLEY - 5 SECRETS
+======================================================================
+
+AVANT LA ZONE
+
+- Le premier secret est sur le toit du temple et doit etre pris avant de
+  remettre les engrenages en marche.
+- Les secrets 2 et 3 sont dans la zone des cascades.
+- Le secret 4 se prend juste apres l'interrupteur des trois engrenages.
+- Le secret 5 se prend dans le tunnel sous-marin final, apres le changement
+  du cours d'eau.
+- Sauvegarde avant les sauts de riviere et avant l'interrupteur des engrenages.
+
+ROUTE ET SECRET 01
+
+01. Descends par le courant, sors a droite de la cascade et traverse la vallee.
+02. Passe l'arche de pierre et ne rentre pas encore dans le temple.
+03. Sur le mur nord, grimpe le bloc presque plat, puis enchaine les blocs
+    verts jusqu'au toit du temple.
+
+SECRET 01/05 - CHARGEURS DE MAGNUM, GRANDE TROUSSE, CHARGEURS D'UZI,
+               CARTOUCHES DE FUSIL
+
+- Emplacement : toit du temple, avant l'entree principale.
+- Acces : blocs grimpables du mur nord, puis sauts vers le toit.
+- Ramasse les quatre piles avant de redescendre par le bloc incline.
+
+04. Entre dans le temple, plonge dans le bassin et prends le premier engrenage.
+05. Depuis la vallee, rejoins le pont brise par la cavite eclairee et prends
+    le deuxieme engrenage sur son extremite.
+06. Va dans la cavite est camouflee par la vegetation. Elimine l'ennemi depuis
+    la hauteur si besoin, puis grimpe les blocs au-dessus du bassin pour le
+    troisieme engrenage.
+
+SECRET 02/05 - CARTOUCHES DE FUSIL
+
+- Emplacement : cavite rocheuse a droite des deux cascades paralleles.
+- Acces : depuis le bassin des cascades, grimpe dans l'ouverture du coin.
+- Prends-le avant de remettre les engrenages, car la route se reorganise.
+
+SECRET 03/05 - CHARGEURS DE MAGNUM ET CARTOUCHES DE FUSIL
+
+- Emplacement : cavite haute entre les cascades.
+- Acces : entre les cascades, grimpe les rochers, saute vers la corniche plate,
+  saisis la fissure triangulaire et traverse-la vers la grotte.
+
+07. Reviens au point de depart par les rochers blancs et longe le ruisseau vers
+    l'amont. Fais les sauts depuis les berges sans tomber dans le courant.
+08. Traverse le pont de bois et place les trois engrenages sur les axes.
+09. Active l'interrupteur. Le courant change et ouvre une nouvelle sortie.
+10. Juste apres l'interrupteur, tourne a gauche, fais une roulade puis recule
+    dans le vide en t'accrochant a la fissure. Traverse jusqu'a la zone d'eau.
+
+SECRET 04/05 - GRANDE TROUSSE
+
+- Emplacement : passage lateral sous la plateforme de l'interrupteur des
+  engrenages.
+- Acces : gauche, roulade, reculer en s'accrochant, traverser la fissure,
+  tomber dans la partie aquatique et suivre la courte galerie.
+
+11. Rejoins le barrage en nageant et prends le SHOTGUN a cote du squelette.
+12. Continue dans le lit de riviere maintenant asséché, puis saute vers la
+    sortie cachee derriere l'ancienne cascade.
+13. Avant de sortir, remplis ta jauge d'air et plonge dans le dernier tunnel.
+    Il n'y a pas de branche : suis-le jusqu'a la petite salle.
+
+SECRET 05/05 - PETITE TROUSSE ET DEUX PILES DE CARTOUCHES DE FUSIL
+
+- Emplacement : petite salle au bout du tunnel sous-marin final.
+- Acces : plongee longue depuis le lit de riviere apres le changement du
+  courant. Remonte par l'ouverture de la salle puis termine par la sortie.
+
+14. Reviens par une descente de securite ou le bassin, puis rejoins la sortie.
+
+CHECKPOINT LOST VALLEY
+
+- [ ] Secret 1 : toit du temple.
+- [ ] Secret 2 : cavite a droite des deux cascades.
+- [ ] Secret 3 : grotte haute entre les cascades.
+- [ ] Secret 4 : galerie sous l'interrupteur des engrenages.
+- [ ] Secret 5 : tunnel sous-marin final.
+- [ ] Trois engrenages installes.
+- [ ] Shotgun recupere.
+- [ ] 5/5 secrets dans les statistiques.
+
+======================================================================
+04. TOMB OF QUALOPEC - 3 SECRETS
+======================================================================
+
+AVANT LA ZONE
+
+- Les trois ailes de la zone principale ouvrent trois portes. Les symboles
+  visibles au-dessus des portes servent de repere : visage, oiseau, soleil.
+- Les secrets 1 et 2 sont dans la salle des flechettes, apres les trois portes.
+- Le secret 3 est dans la zone aquatique pres de la sortie ; ne lance pas le
+  combat final avant de l'avoir pris.
+- Sauvegarde avant les dalles cassables et avant la salle de l'objet central.
+
+ROUTE PRINCIPALE
+
+01. Dans la grande salle, evite le rocher roulant en descendant la rampe puis
+    active le levier de la salle laterale.
+02. Elimine les deux grands predateurs et rejoins le carrefour aux trois
+    symboles.
+03. Porte visage : pousse le bloc du mur deux fois, puis le second bloc une
+    fois. Traverse les dalles cassables et active le premier levier.
+04. Porte oiseau : laisse le levier du haut dans sa position initiale. Utilise
+    les deux blocs a motifs pour atteindre le levier lateral, deplacer le bloc
+    proche des pointes, puis revenir au levier ignore. Fais le saut au-dessus
+    des pointes et active le deuxieme levier.
+05. Porte soleil : laisse tomber les dalles de l'alcove, elimine les trois
+    loups, tire le bloc du mur et pousse-le sur le cote. Grimpe jusqu'au
+    troisieme levier.
+06. Reviens a la grande salle, franchis les trois portes ouvertes et traverse
+    les flechettes par des sauts courts ou une roulade-plongee.
+
+SECRET 01/03 - CARTOUCHES DE FUSIL
+
+- Emplacement : alcove de statue de l'autre cote de la flechette sur l'escalier.
+- Acces : grimpe dans l'alcove ; la porte s'ouvre. Traverse les dalles
+  cassables en courant jusqu'a la plateforme sure.
+
+SECRET 02/03 - CHARGEURS DE MAGNUM
+
+- Emplacement : sous l'alcove du premier secret, entre les pointes.
+- Acces : depuis l'alcove, accroche le bord, traverse jusqu'au mur, descends
+  dans l'espace entre les pointes et ramasse les chargeurs. Reviens en marchant
+  vers la zone sure puis remonte en evitant les flechettes.
+
+07. Monte jusqu'a la salle du tombeau, prends l'objet de progression et
+    cours dans le passage ouvert pendant l'effondrement de la salle.
+08. Reviens vers le lac sans t'arreter au milieu de la rampe.
+09. Depuis le lac, plonge dans le tunnel situe vers la droite et suis-le
+    jusqu'a une poche d'air.
+
+SECRET 03/03 - GRANDE TROUSSE ET CHARGEURS DE MAGNUM
+
+- Emplacement : petite salle sous-marine au bout du tunnel droit du lac.
+- Acces : plonge depuis le lac, suis le tunnel, remonte dans la poche d'air et
+  ramasse les deux piles avant de ressortir.
+
+10. Reviens au lac, prends la sortie aquatique opposee et termine le combat
+    de la zone. Controle 3/3 avant de passer a la suite.
+
+CHECKPOINT TOMB OF QUALOPEC
+
+- [ ] Secret 1 : alcove de statue au-dela de la flechette.
+- [ ] Secret 2 : espace entre les pointes sous l'alcove.
+- [ ] Secret 3 : poche d'air du tunnel droit du lac.
+- [ ] Trois leviers des ailes actives.
+- [ ] Objet de progression recupere.
+- [ ] 3/3 secrets dans les statistiques.
+
+======================================================================
+05. ST. FRANCIS' FOLLY - 4 SECRETS
+======================================================================
+
+AVANT LA ZONE
+
+- C'est le premier grand niveau vertical : fais une sauvegarde au hall puis
+  une autre avant chaque long saut.
+- Les quatre portes du puits central sont Thor, Atlas, Neptune et Damocles.
+- Le secret 4, chronometre, se prend avant de vider la liste des quatre cles.
+- Le secret 2 se joue sur un toboggan a tentative unique : sauvegarde avant.
+
+MISE EN PLACE DU HALL
+
+01. Elimine les deux lions depuis un bloc bas.
+02. Deplace le bloc a omega : tire-le une fois, pousse-le deux fois, puis
+    pousse-le une derniere fois contre le grand bloc. Cela ouvre la porte de
+    la salle aux gorilles et cree la route vers le balcon.
+03. Active l'interrupteur de la salle aux gorilles, puis fais fuir Pierre avec
+    les pistolets. Ne gaspille pas les munitions lourdes dans ce passage.
+04. Utilise les blocs et les piliers pour atteindre la porte haute du balcon.
+
+SECRET 01/04 - GRANDE TROUSSE ET CARTOUCHES DE FUSIL
+
+- Emplacement : salle secrete au-dessus des blocs inclines, au bout du premier
+  balcon.
+- Acces : dans la salle, place Lara dans l'angle de la porte face au premier
+  bloc incline. Enchaine saut avant, rebond arriere sur le bloc oppose, puis
+  saisie de la corniche. Recommence avec les deux blocs du niveau superieur.
+- Evite les dalles cassables de l'angle ; descends par le bord de la corniche.
+
+SECRET 02/04 - PETITE TROUSSE ET CARTOUCHES DE FUSIL
+
+- Emplacement : bas du long toboggan apres le balcon.
+- Acces : sauvegarde avant la pente, descends en regardant vers le haut,
+  accroche le rebord final, tire-toi puis attends que Lara glisse sur la petite
+  pente. Maintiens Saut pour rebondir dans l'ouverture laterale.
+- Si tu rates l'ouverture et tombes dans l'eau, recharge : le secret n'est
+  plus accessible depuis cette tentative.
+
+SECRET 03/04 - CARTOUCHES DE FUSIL
+
+- Emplacement : petite salle au-dessus de la salle au levier, sous l'eau.
+- Acces : apres le long toboggan, ne tire pas encore le levier. Plonge sous la
+  salle du levier et avance jusqu'a la petite ouverture au plafond. Remonte,
+  ramasse les cartouches, puis replonge.
+
+SECRET 04/04 - GRANDE TROUSSE ET CHARGEURS DE MAGNUM
+
+- Emplacement : porte chronometree du niveau bas du puits central.
+- Acces : depuis le levier Thor, saute sur la dalle grise de l'autre cote.
+  La porte s'ouvre tant que Lara reste sur la dalle. Fais deux descentes avec
+  accroche, roule a chaque reception et cours sans sauter jusqu'a la porte.
+  Ne t'arrete pas pour les chauves-souris.
+- Recompense : grande trousse et chargeurs de Magnum.
+
+PUITS CENTRAL ET QUATRE CLES
+
+05. Rejoins le niveau central et active le THOR SWITCH.
+06. Neptune : active le NEPTUNE SWITCH, entre par la porte Neptune, actionne
+    le levier sous-marin pour couper le courant, puis remonte avec la NEPTUNE
+    KEY.
+07. Atlas : active le ATLAS SWITCH, entre dans la salle au rocher, attends
+    que le rocher passe au-dessus de la fosse et prends la ATLAS KEY.
+08. Thor : entre par la porte Thor. Dans la salle de foudre, longe le mur et
+    fais une roulade-plongee sur les dalles grises. Dans la salle du marteau,
+    attends la chute, deplace les blocs et recupere la THOR KEY.
+09. Damocles : traverse tres lentement la salle des epees. Les ombres ne sont
+    qu'un repere imparfait : ecoute le bruit des lames et reste pres des murs.
+    Prends la DAMOCLES KEY.
+10. Reviens au hall, eloigne Pierre avec les pistolets, puis place les quatre
+    cles de gauche a droite : NEPTUNE, ATLAS, DAMOCLES, THOR.
+
+CHECKPOINT ST. FRANCIS' FOLLY
+
+- [ ] Secret 1 : salle aux blocs inclines du premier balcon.
+- [ ] Secret 2 : ouverture au bas du long toboggan.
+- [ ] Secret 3 : salle au-dessus du levier, sous l'eau.
+- [ ] Secret 4 : porte chronometree du niveau bas.
+- [ ] Neptune Key, Atlas Key, Thor Key et Damocles Key recuperees.
+- [ ] 4/4 secrets dans les statistiques.
+
+======================================================================
+06. COLOSSEUM - 3 SECRETS
+======================================================================
+
+AVANT LA ZONE
+
+- Les secrets 1 et 2 se font pendant la premiere boucle de plateformes.
+- Le secret 3 est la cache chronometree de la salle nord-ouest.
+- Le parcours peut etre fait sans nettoyer tous les ennemis, mais ne saute
+  pas les interrupteurs et la RUSTY KEY.
+
+ROUTE ET SECRET 01
+
+01. Depuis le bassin d'entree, contourne le batiment par les rochers arriere.
+02. Rejoins la corniche qui fait le tour du batiment, puis saute vers les
+    blocs hauts. Depuis la plateforme apres le grand saut, ignore la porte pour
+    le moment.
+
+SECRET 01/03 - CARTOUCHES DE FUSIL
+
+- Emplacement : petite ouverture rectangulaire au-dela des blocs en pente,
+  au-dessus de la zone du bassin.
+- Acces : descends les rochers, avance sur les deux blocs plats, franchis le
+  bloc fortement incline par un saut avec course puis saute vers l'ouverture.
+
+03. Reviens vers la grotte eclairee et descends dans la fosse aux crocodiles.
+    Monte sur le bloc bas et attrape la fissure horizontale.
+
+SECRET 02/03 - CARTOUCHES DE FUSIL
+
+- Emplacement : cavite creusee dans la fissure horizontale de la fosse aux
+  crocodiles.
+- Acces : accroche la fissure, traverse vers le milieu, puis tire-toi dans la
+  cavite. Reviens par la meme fissure.
+
+04. Rejoins l'arene, eloigne Pierre avec les pistolets et active les deux
+    interrupteurs de la zone des cages.
+05. Traverse les cages et la salle aux portes chronometrees. La dalle de droite
+    ouvre les deux portes exterieures ; cours a la premiere, active le levier,
+    roule vers la seconde puis franchis la troisieme avant la fermeture.
+06. Dans la salle de balcon, tire le bloc gris deux fois et active le levier.
+    Rejoins la salle sud-ouest, traverse la fosse sous le rocher et ouvre la
+    porte nord-ouest.
+07. Dans la salle nord-ouest, fais une sauvegarde avant la sequence de sauts.
+
+SECRET 03/03 - MAGNUMS, DEUX GRANDES TROUSSES ET CHARGEURS D'UZI
+
+- Emplacement : salle secrete au-dessus de la salle nord-ouest, derriere la
+  porte qui se ferme apres activation de la position au sol.
+- Acces : place-toi contre le premier pilier gauche, declenche l'ouverture,
+  saute vers la plateforme basse et enchaine sans pause : saut vers C, retour
+  arriere vers D, saut lateral vers E, puis saut vers la corniche de la porte.
+- Le son de fermeture aide a confirmer que la sequence a ete lancee au bon
+  moment. Recharge si Lara n'atteint pas la corniche.
+
+08. Redescends par les plateformes de securite, active le levier de la salle
+    nord-est et traverse la piscine.
+09. Dans la salle aquatique, pousse le bloc deux fois, contourne-le et tire-le
+    une fois pour ouvrir l'alcove. Prends la RUSTY KEY.
+10. Reviens a la salle du balcon, utilise la RUSTY KEY et ouvre le passage
+    sous-marin. Remonte par la petite ouverture au plafond et active le levier.
+11. Traverse pour sortir et controle 3/3.
+
+CHECKPOINT COLOSSEUM
+
+- [ ] Secret 1 : ouverture rectangulaire au-dessus du bassin.
+- [ ] Secret 2 : fissure de la fosse aux crocodiles.
+- [ ] Secret 3 : salle chronometree nord-ouest.
+- [ ] Rusty Key recuperee et utilisee.
+- [ ] 3/3 secrets dans les statistiques.
+
+======================================================================
+07. PALACE MIDAS - 3 SECRETS
+======================================================================
+
+AVANT LA ZONE
+
+- Les cinq interrupteurs du hall utilisent deux symboles : W = omega vers le
+  haut, U = upsilon vers le bas.
+- Les trois secrets sont dans la boucle de l'aqueduc et du jardin.
+- Les trois LEAD BARS doivent etre transformes en GOLD BARS sur la main de
+  Midas. Fais les secrets avant cette interaction centrale.
+
+ROUTE DES INTERRUPTEURS
+
+01. Depuis la piscine d'entree, prends le couloir nord et rejoins le hall aux
+    cinq interrupteurs.
+02. Premiere porte : regle W U W W W, soit haut, bas, haut, haut, haut.
+    Traverse les piliers enflammes et prends le premier LEAD BAR.
+03. Deuxieme porte : regle W W U W U, soit haut, haut, bas, haut, bas.
+    Pousse le bloc, monte les piliers et prends le deuxieme LEAD BAR.
+04. Troisieme porte : regle W W U U W, soit haut, haut, bas, bas, haut.
+    Tire le bloc dans la salle du sable, monte les rebords et rejoins
+    l'aqueduc.
+
+SECRET 01/03 - CHARGEURS DE MAGNUM ET PETITE TROUSSE
+
+- Emplacement : petite cavite au bout de l'aqueduc, apres la nage dans le
+  tunnel ouest.
+- Acces : depuis la hauteur de l'aqueduc, plonge dans le tunnel, remonte de
+  l'autre cote, longe la paroi rocheuse et saute par-dessus le bloc incline.
+  Glisse jusqu'a la petite trousse et aux chargeurs.
+
+SECRET 02/03 - PETITE TROUSSE, CARTOUCHES ET CHARGEURS D'UZI
+
+- Emplacement : fosse sous la zone de l'aqueduc, avec les objets visibles
+  depuis les plateformes.
+- Acces : depuis l'extremite nord de l'aqueduc, fais une descente de securite
+  dans le trou. Prends les objets dans la fosse puis remonte par le bloc.
+
+05. Reviens au jardin, active le levier cache derriere le petit arbre et entre
+    dans la zone des lames. Le son de secret retentit en approchant de la porte.
+
+SECRET 03/03 - CHARGEURS DE MAGNUM, CARTOUCHES DE FUSIL ET PETITE TROUSSE
+
+- Emplacement : salle derriere les lames de la porte du jardin.
+- Acces : declenche le levier derriere l'arbre, attends l'ouverture, puis
+  saute au moment ou les deux lames s'ecartent. Les dalles au centre cachent
+  des pointes ; ne marche pas au milieu.
+
+06. Termine la salle du jardin, rejoins la statue de Midas et sauvegarde avant
+    l'interaction.
+07. Utilise les trois LEAD BARS sur la main pour obtenir trois GOLD BARS.
+08. Reviens au hall et regle la derniere porte sur U W W W U, soit bas, haut,
+    haut, haut, bas.
+09. Place les trois GOLD BARS dans les alcoves de la porte et sors.
+
+CHECKPOINT PALACE MIDAS
+
+- [ ] Secret 1 : cavite ouest de l'aqueduc.
+- [ ] Secret 2 : fosse sous la zone de l'aqueduc.
+- [ ] Secret 3 : salle derriere les lames du jardin.
+- [ ] Trois Lead Bars transformes en Gold Bars.
+- [ ] Gold Bars places dans la porte finale.
+- [ ] 3/3 secrets dans les statistiques.
+
+======================================================================
+08. THE CISTERN - 3 SECRETS
+======================================================================
+
+AVANT LA ZONE
+
+- Le niveau alterne le niveau d'eau du grand bassin. Note les passages qui
+  deviennent accessibles apres chaque changement.
+- Les secrets 1 et 2 sont des detours aquatiques ou verticaux ; garde de l'air.
+- Le secret 3 est dans la salle du bloc pres de la porte blanche.
+
+PREMIERE CLE ET SECRET 01
+
+01. Pousse le bloc de depart deux fois vers l'avant puis une fois a droite.
+    Active le levier, franchis la porte blanche et passe par la trappe.
+02. Saute vers le pilier a droite du grand bassin, attrape la fissure et
+    traverse-la vers la premiere corniche.
+03. Monte au rebord superieur et prends la premiere RUSTY KEY.
+04. Depuis l'escalier pres de Pierre, monte le pilier et saute vers la corniche.
+    Prends la petite trousse et grimpe le passage sombre a gauche.
+
+SECRET 01/03 - CARTOUCHES DE FUSIL
+
+- Emplacement : tunnel sombre au-dessus de la corniche de la premiere cle.
+- Acces : pilier, saut avec saisie vers la corniche, petite trousse, pente puis
+  escalade a gauche dans le tunnel.
+
+05. N'actionne pas tout de suite le levier sur la grille. Plonge dans le bassin,
+    suis le tunnel, monte les marches et prends la seconde RUSTY KEY.
+06. Reviens au pont de depart, utilise une premiere cle et traverse la boucle
+    verticale jusqu'a la salle au levier d'eau.
+07. Ouvre la salle blanche, recupere les petits objets, puis active le levier
+    qui remplit la salle du bassin.
+
+SECRET 02/03 - CHARGEURS DE MAGNUM
+
+- Emplacement : petit tunnel dans le mur gauche du bassin inferieur, proche du
+  plafond et a gauche du passage qui mene vers les rats et Pierre.
+- Acces : apres le changement du niveau d'eau, plonge dans le tunnel court,
+  tourne a gauche puis descends jusqu'a la cache.
+
+08. Reviens en surface et utilise le bloc a gauche de la porte blanche pour
+    ouvrir la salle inclinee.
+
+SECRET 03/03 - DEUX CHARGEURS DE MAGNUM ET GRANDE TROUSSE
+
+- Emplacement : salle cachee derriere le bloc de la porte blanche.
+- Acces : pousse le bloc, saute sur la pente a gauche puis rebondis vers la
+  haute corniche a droite. Fais une descente de securite pour ressortir.
+
+09. Utilise les deux RUSTY KEYS sur la porte finale de la boucle, puis la GOLD
+    KEY recuperee dans la salle aquatique.
+10. Dans la salle aux blocs et plaques de pression, place le bloc sur chaque
+    plaque pour ouvrir les portes laterales et la porte haute. Recupere les
+    objets de progression et les deux cles necessaires.
+11. Reviens au bassin, utilise les deux cles et traverse la derniere salle
+    aquatique. Controle 3/3 avant la sortie.
+
+CHECKPOINT THE CISTERN
+
+- [ ] Secret 1 : tunnel sombre au-dessus de la premiere cle.
+- [ ] Secret 2 : tunnel court du bassin inferieur.
+- [ ] Secret 3 : salle cachee derriere le bloc de la porte blanche.
+- [ ] Deux Rusty Keys et la Gold Key recuperees.
+- [ ] Niveau d'eau modifie dans les deux sens necessaires.
+- [ ] 3/3 secrets dans les statistiques.
+
+======================================================================
+09. TOMB OF TIHOCAN - 2 SECRETS
+======================================================================
+
+AVANT LA ZONE
+
+- Les leviers sous l'eau et les interrupteurs a terre n'ont pas le meme role.
+- Le secret 1 est dans la salle a plaques bleues avant la grande boucle.
+- Le secret 2 se trouve au debut du long toboggan, avant de descendre au lac.
+- Sauvegarde avant le toboggan : l'acces au secret 2 demande plusieurs rebonds.
+
+ROUTE ET SECRET 01
+
+01. Dans le premier tunnel, plonge jusqu'au levier qui baisse l'eau, remonte,
+    sors et active l'interrupteur a terre.
+02. Entre dans la salle aux flechettes, grimpe le bloc central et active le
+    levier haut pour remonter l'eau.
+03. Replonge, active le second levier et laisse le courant te porter jusqu'a
+    la salle de sortie aquatique.
+04. Rejoins Pierre, la lame et l'escalier, puis descends vers la salle du
+    crocodile. En bas, repere la dalle entouree de briques bleues.
+
+SECRET 01/02 - GRANDE TROUSSE ET CARTOUCHES DE FUSIL
+
+- Emplacement : salle sous l'escalier, apres la lame et le crocodile.
+- Acces : place-toi sur la dalle a bordure bleue, cours au-dela de la grille
+  jusqu'au mur, puis entre dans la porte secrete. Utilise les pentes et garde
+  Saut pour atteindre la corniche de la cache.
+
+05. Reviens dans la salle de la lame, fais le saut vers la corniche derriere
+    le trancheur et active l'interrupteur qui inonde la salle precedente.
+06. Plonge dans la salle inondee, rejoins la zone du lion, puis prends la GOLD
+    KEY dans l'alcove au-dessus des pointes.
+07. Utilise la GOLD KEY, traverse les blocs apparus dans l'eau et place le bloc
+    central sur les quatre plaques de pression. Ouvre les portes une par une,
+    recupere les deux RUSTY KEYS et evite le medipack sous les rochers roulants
+    tant que les rochers ne sont pas passes.
+08. Utilise les deux RUSTY KEYS sur la porte au bout de la boucle et sauvegarde
+    avant le long toboggan.
+
+SECRET 02/02 - CHARGEURS D'UZI ET DE MAGNUM
+
+- Emplacement : alcove situee au debut du long toboggan, avant la descente
+  vers le lac.
+- Acces : maintiens Saut, saute sur la pente de droite et laisse Lara rebondir
+  sur la serie de pentes jusqu'a l'alcove. Ensuite, traverse les dalles
+  cassables avec la sequence : saut avant, saut lateral gauche, trois sauts
+  avant, saut lateral droit, saut avant.
+- Fais cette cache avant de descendre au lac : la remonter ensuite demande de
+  reprendre toute la boucle.
+
+09. Descends au grand bassin, rejoins la rive blanche, puis ouvre les passages
+    sous l'eau avec les interrupteurs restants.
+10. Traverse la porte du tombeau, termine le combat de la zone et controle 2/2.
+
+CHECKPOINT TOMB OF TIHOCAN
+
+- [ ] Secret 1 : porte secrete de la dalle a bordure bleue.
+- [ ] Secret 2 : alcove du long toboggan.
+- [ ] Gold Key recuperee.
+- [ ] Deux Rusty Keys recuperees et utilisees.
+- [ ] 2/2 secrets dans les statistiques.
+
+======================================================================
+10. CITY OF KHAMOON - 3 SECRETS
+======================================================================
+
+AVANT LA ZONE
+
+- Le premier passage demande de deplacer plusieurs blocs dans une fosse.
+- Le secret 1 est pres du rocher et de l'arche, avant la boucle des portes.
+- Le secret 2 est sur le toit au-dessus de la rampe du rocher.
+- Le secret 3 est le saut vers la statue depuis la colonne du pont de corde.
+
+ROUTE ET SECRET 01
+
+01. Utilise le bloc de la fosse pour atteindre l'interrupteur haut, puis
+    reviens au sol et tire le grand bloc trois fois.
+02. Grimpe par le passage, deplace le bloc superieur puis attrape la fissure
+    murale pour atteindre la premiere zone de sable.
+03. Descends vers le Sphinx, recupere le SHOTGUN et evite de rester devant les
+    ennemis qui explosent.
+04. Avant la rampe centrale, descends du cote indique et retourne-toi vers le
+    rocher. A gauche de l'arche, grimpe le petit bloc et entre dans la piece.
+
+SECRET 01/03 - CHARGEURS DE MAGNUM ET GRANDE TROUSSE
+
+- Emplacement : petite salle a gauche de l'arche, derriere le petit bloc pres
+  du rocher.
+- Acces : depuis la rampe centrale, descends, retourne-toi, longe le rocher,
+  grimpe le bloc bas et prends le couloir lateral.
+
+05. Utilise la premiere SAPPHIRE KEY sur la porte du Sphinx, puis traverse la
+    salle aux blocs et au bassin.
+06. Depuis la zone du rocher, grimpe vers le toit au-dessus de la rampe et
+    prends les objets visibles avant de sauter.
+
+SECRET 02/03 - CHARGEURS D'UZI
+
+- Emplacement : toit situe au-dessus de la rampe du rocher, au-dessus du
+  passage qui contient les statues.
+- Acces : grimpe le bloc a gauche de la rampe, fais un saut avec saisie vers
+  le toit et ramasse les chargeurs avant de descendre.
+
+07. Traverse la salle aux statues et rejoins le pont de corde. Elimine les
+    ennemis depuis la hauteur, puis approche la colonne du pont.
+
+SECRET 03/03 - CARTOUCHES DE FUSIL
+
+- Emplacement : statue sur le cote gauche du pont de corde.
+- Acces : depuis la colonne du pont, fais un saut avec course + saisie vers la
+  statue, puis prends les cartouches. Fais une descente de securite au retour.
+
+ROUTE PRINCIPALE
+
+08. Prends la deuxieme SAPPHIRE KEY dans la salle de sable superieure.
+09. Active le levier du temple, puis utilise la cle sur la porte finale.
+10. Rejoins la sortie par la boucle sous-marine et controle 3/3.
+
+CHECKPOINT CITY OF KHAMOON
+
+- [ ] Secret 1 : petite salle a gauche de l'arche.
+- [ ] Secret 2 : toit au-dessus de la rampe du rocher.
+- [ ] Secret 3 : statue a gauche du pont de corde.
+- [ ] Deux Sapphire Keys recuperees.
+- [ ] 3/3 secrets dans les statistiques.
+
+======================================================================
+11. OBELISK OF KHAMOON - 3 SECRETS
+======================================================================
+
+AVANT LA ZONE
+
+- La premiere salle contient quatre piliers avec un bloc mobile sous chacun.
+- Les quatre blocs permettent d'ouvrir les portes Bronze, Gold et les routes
+  sous-marines.
+- Les trois secrets se prennent dans la boucle des ponts, avant la salle des
+  objets de progression.
+
+ROUTE DE MISE EN PLACE
+
+01. Dans la salle aux quatre piliers, numerote-les dans le sens anti-horaire.
+    Tire le bloc du pilier 1 trois fois, puis pousse-le deux fois sous la
+    porte doree pour preparer la route.
+02. Au pilier 3, tire le bloc une fois, descends la rampe, active l'interrupteur
+    et prends la petite trousse. Grimpe vers la porte Bronze et ramasse les
+    chargeurs derriere son battant.
+03. Au pilier 4, tire le bloc et plonge dans la piscine. Recupere la petite
+    trousse, les chargeurs et la SAPPHIRE KEY pres de la cloche blanche.
+04. Reviens par le tunnel sous la cloche et utilise la Sapphire Key pour ouvrir
+    la porte de la salle initiale et la porte doree.
+05. Dans la zone doree, active les deux interrupteurs qui abaissent les ponts.
+    Prends l'EYE OF HORUS, l'ANKH et les objets des alcoves.
+
+SECRET 01/03 - PETITE TROUSSE ET CHARGEURS D'UZI
+
+- Emplacement : premiere grande fosse, sur la corniche verte apres le pont.
+- Acces : apres l'interrupteur du troisieme pont, saute entre les piliers,
+  descends doucement sur la corniche avec l'interrupteur, traverse derriere
+  les piliers et saute vers la corniche verte.
+
+SECRET 02/03 - GRANDE TROUSSE ET DEUX PILES DE CHARGEURS D'UZI
+
+- Emplacement : plateforme de la cloche blanche, sous la boucle de ponts.
+- Acces : depuis la corniche verte du secret 1, fais un long saut avec course
+  vers la cloche et ramasse la grande trousse et les deux piles.
+
+SECRET 03/03 - GRANDE TROUSSE ET CHARGEURS DE MAGNUM
+
+- Emplacement : tunnel derriere la porte a rebord vert, accessible depuis la
+  salle de la cloche.
+- Acces : descends a droite, passe la porte au rebord vert, monte l'escalier
+  gauche, accroche la fissure et traverse vers le tunnel.
+
+06. Rejoins la salle de la grande porte, active le dernier pont et prends le
+    SCARAB et le SEAL OF ANUBIS.
+07. Dans la salle sous-marine, recupere les chargeurs par etapes : deuxieme
+    alcove gauche, troisieme paire d'alcoves, puis bassin final et sauvegarde.
+08. Place les quatre objets dans le receptacle de l'ordre indique par les
+    emplacements visibles : SCARAB, SEAL OF ANUBIS, EYE OF HORUS, ANKH.
+09. Ouvre la sortie et controle 3/3.
+
+CHECKPOINT OBELISK OF KHAMOON
+
+- [ ] Secret 1 : corniche verte de la premiere fosse.
+- [ ] Secret 2 : plateforme de la cloche blanche.
+- [ ] Secret 3 : tunnel derriere le rebord vert.
+- [ ] Eye of Horus, Ankh, Scarab et Seal of Anubis recuperees.
+- [ ] Quatre objets places dans le receptacle final.
+- [ ] 3/3 secrets dans les statistiques.
+
+======================================================================
+12. SANCTUARY OF THE SCION - 1 SECRET
+======================================================================
+
+AVANT LA ZONE
+
+- Un seul secret, mais il donne une arme majeure : prends-le avant de quitter
+  la zone de la grande statue.
+- Les deux ANKHS sont necessaires pour ouvrir la route vers le secret.
+- Sauvegarde avant le saut vers la plateforme invisible.
+
+ROUTE CHRONOLOGIQUE
+
+01. Descends l'escalier, elimine les deux premiers ennemis et monte dans la
+    zone de la grande statue.
+02. Dans la zone sableuse, prends la route de blocs au nord-ouest et suis les
+    corniches jusqu'a l'interrupteur. Active-le, puis reviens au sol.
+03. Ouvre la porte doree et recupere le premier ANKH apres le combat de la
+    salle. Reviens par le bassin et remonte par la seconde route de blocs.
+04. Passe le trancheur, active le second interrupteur et prends le second ANKH
+    dans la salle du haut.
+05. Utilise les deux ANKHS sur les receptacles de la tete de la statue. La
+    porte entre les pattes s'ouvre.
+
+SECRET 01/01 - UZIS ET CHARGEURS D'UZI
+
+- Emplacement : plateforme invisible derriere la tete de la statue, du cote
+  du premier receptacle d'Ankh.
+- Acces : depuis le receptacle arriere, regarde vers l'Ankh, tourne a gauche,
+  marche jusqu'au bord et repere le chargeur flottant. Sauvegarde, fais un
+  saut avec course et maintiens Action pour attraper la plateforme invisible.
+- Utilise Marche une fois dessus pour ne pas tomber. Ramasse les Uzis et les
+  chargeurs, puis reviens par un saut vers la corniche de depart.
+
+06. Plonge dans le grand bassin par la porte ouverte, prends le levier sous la
+    statue et suis la nouvelle route aquatique.
+07. Recupere le SCARAB dans la salle haute, ouvre sa porte et termine le
+    parcours jusqu'a la sortie.
+
+CHECKPOINT SANCTUARY OF THE SCION
+
+- [ ] Secret 1 : plateforme invisible derriere la tete de la statue.
+- [ ] Deux Ankh recuperees et placees.
+- [ ] Uzis recuperees.
+- [ ] Scarab recupere.
+- [ ] 1/1 secret dans les statistiques.
+
+======================================================================
+13. NATLA'S MINES - 3 SECRETS
+======================================================================
+
+AVANT LA ZONE
+
+- Le debut se fait sans armes. La priorite est de retrouver les trois FUSES.
+- Secret 1 : porte avec trappe au-dessus de la fosse de lave, apres le retour
+  des pistolets.
+- Secret 2 : caisse mobile et rocher roulant, dans la zone de lave.
+- Secret 3 : fosse d'eau au bord des rails, apres le deplacement des rochers.
+- Sauvegarde avant chaque sequence de rochers et de caisses.
+
+ROUTE DES TROIS FUSES
+
+01. Depuis le bassin souterrain, passe derriere la cascade et active le premier
+    interrupteur. Reviens au bassin, longe la barque et pousse la caisse de la
+    salle des rails pour ouvrir la porte.
+02. Reviens derriere la cascade et monte vers la plateforme aux barrières
+    rouges et blanches. Atteins la zone de la cabine suspendue.
+03. Dans les tunnels de rails, active la caisse et franchis le premier parcours
+    de rochers. Saute les barrieres, tourne a droite dans la porte et prends
+    FUSE 1.
+04. Reviens a la salle des deux cabines. Deplace la caisse sous l'ouverture,
+    monte sur le toit de la cabine, tombe dans le tunnel et active l'interrupteur
+    qui deplace la barque.
+05. Utilise la barque pour rejoindre l'autre quai, ouvre la salle des caisses
+    blanches et deplace les caisses Natla pour atteindre l'interrupteur du
+    tunnel de forage.
+06. Passe le tunnel de forage, pousse la caisse Natla deux fois, monte dans la
+    galerie et ouvre la porte pres du convoyeur.
+07. Avance a pied jusqu'a FUSE 2, ramasse-la puis recule immediatement pour
+    eviter le tireur de la salle suivante.
+08. Reviens au convoyeur par le chemin de la cascade. Active-le et prends
+    FUSE 3 au debut de la bande.
+09. Place les trois fuses dans le panneau de la cabine. La cabine descend et
+    contient les PISTOLS. Selectionne-les manuellement une premiere fois.
+
+SECRET 01/03 - GRANDE TROUSSE ET CHARGEURS D'UZI
+
+- Emplacement : porte qui se referme au debut de la pente, au-dessus d'une
+  trappe donnant sur la lave.
+- Acces : apres les pistolets, monte la pente et grimpe a droite. Au portail,
+  tourne le dos a la trappe, glisse, accroche le bord de la lave et reste
+  accroche jusqu'a ce que la porte se ferme. Debout sur la porte, tourne a
+  droite et grimpe dans la salle.
+- Active l'interrupteur de sortie avant de redescendre.
+
+SECRET 02/03 - GRANDE TROUSSE ET CHARGEURS D'UZI
+
+- Emplacement : salle au-dessus de la caisse poussee devant le rocher roulant.
+- Acces : traverse la zone de lave jusqu'a la caisse, pousse-la une fois tres
+  vite pour eviter le rocher, tire-la ensuite sur le cote et grimpe dans
+  l'ouverture du plafond. Tourne a gauche dans la salle secrete.
+
+10. Reviens au tunnel de forage, recupere les MAGNUMS, puis traverse la lave
+    par les blocs jusqu'a la salle de la caisse TNT.
+11. Deplace la caisse TNT pour atteindre la galerie haute. Active l'interrupteur
+    qui deplace les rochers, reviens et traverse la salle des piliers blancs.
+12. Recupere les UZIS dans la zone des rails et repere la fosse d'eau a cote.
+
+SECRET 03/03 - GRANDE TROUSSE, PETITE TROUSSE ET CHARGEURS D'UZI
+
+- Emplacement : fosse d'eau situee a cote des rails, dans la zone apres le
+  deplacement des rochers et la recuperation des Uzis.
+- Acces : plonge dans la fosse, suis le tunnel jusqu'a la poche d'air puis
+  remonte par la galerie superieure.
+
+13. Reviens vers la salle des portes dorees, pousse les blocs pour ouvrir la
+    porte necessaire et recupere la PYRAMID KEY.
+14. Utilise la Pyramid Key sur la porte de sortie et controle 3/3.
+
+CHECKPOINT NATLA'S MINES
+
+- [ ] Secret 1 : porte au-dessus de la trappe de lave.
+- [ ] Secret 2 : caisse au-dessus du rocher roulant.
+- [ ] Secret 3 : fosse d'eau au bord des rails.
+- [ ] Fuse 1, Fuse 2 et Fuse 3 installees.
+- [ ] Pistolets, Magnums et Uzis recuperes.
+- [ ] Pyramid Key recuperee.
+- [ ] 3/3 secrets dans les statistiques.
+
+======================================================================
+14. ATLANTIS - 3 SECRETS
+======================================================================
+
+AVANT LA ZONE
+
+- La zone enchaine des oeufs, des plateformes de lave, des portes rouges et
+  des couloirs a boulders.
+- Secret 1 : corniche bleue sous le premier mutant volant, apres la porte
+  centrale.
+- Secret 2 : ouverture dans la pente de la pyramide, avant la porte rouge.
+- Secret 3 : porte secrete declenchee par une dalle sans motif dore.
+- Garde une sauvegarde avant chaque traversée de pont et de pyramide.
+
+SECRET 01/03 - GRANDE TROUSSE, CHARGEURS D'UZI ET DE MAGNUM
+
+- Emplacement : galerie sous la corniche bleue, apres le premier interrupteur
+  qui ouvre la porte centrale de la salle aux trois portes.
+- Acces : elimine le mutant volant, accroche le rebord de la plateforme,
+  repere la corniche bleue en dessous, descends en t'accrochant puis tire-toi
+  dans le passage.
+
+ROUTE DES PORTES ET DE LA PYRAMIDE
+
+01. Allume l'eclairage, traverse la salle des oeufs et ouvre successivement
+    les portes laterales avec les interrupteurs.
+02. Descends l'escalier droit, active l'interrupteur bas pour ouvrir la porte
+    centrale de la salle precedente, puis prends cette porte.
+03. Apres le secret 1, traverse la salle de lave et le pont a trou. Passe par
+    le tunnel haut, active l'interrupteur de la porte rouge et reviens au pont.
+04. Fais le saut avec saisie vers l'autre cote, puis entre dans la salle au
+    bassin et sauvegarde.
+05. Traverse la petite pyramide en utilisant les zones plates : saut vers le
+    bloc haut, saut vers la zone sure, glissade laterale puis saut vers la zone
+    haute. Ne descends pas au hasard dans la lave.
+
+SECRET 02/03 - GRANDE TROUSSE, CHARGEURS DE MAGNUM ET D'UZI
+
+- Emplacement : ouverture haute dans la paroi de la pyramide, avant la porte
+  rouge chronometree.
+- Acces : depuis la zone plate de la pyramide, saute a droite, vise la zone
+  haute peu visible, saute encore a droite puis attrape l'ouverture dans la
+  paroi. Prends les objets et ressors vers la porte rouge.
+
+06. Passe la porte rouge, actionne le levier sous l'eau et traverse la salle
+    des oeufs. Active les trois interrupteurs utiles pour ouvrir les portes
+    sous-marines, puis suis la sortie entre les piliers.
+07. Dans le tunnel rouge, place le bloc mobile sur la trajectoire du rocher.
+    Fais-le revenir dans le bon sens afin de bloquer le rocher et de liberer la
+    porte de la salle de lave.
+08. Traverse la salle des dalles rouges, le pont irregulier et les couloirs
+    de mutants. Active le levier qui ouvre la porte de la salle suivante.
+09. Dans le couloir apres la sequence de piliers, elimine les trois ennemis
+    depuis le passage puis reviens vers la dalle sans motif dore.
+
+SECRET 03/03 - CHARGEURS D'UZI, CARTOUCHES DE FUSIL ET GRANDE TROUSSE
+
+- Emplacement : porte secrete dans le couloir juste avant le passage rouge,
+  du cote droit de la salle d'ou viennent les trois ennemis.
+- Acces : reste dans le couloir, marche sur la dalle qui n'a pas de motif dore
+  sur son pourtour. La porte s'ouvre dans la zone precedente ; entre, prends
+  les trois piles et reviens.
+
+10. Termine la derniere salle de lave, passe la lame et les dalles cassables,
+    puis utilise les interrupteurs chronometres pour ouvrir le pont.
+11. Traverse le pont, recupere le dernier objet de progression et controle 3/3.
+
+CHECKPOINT ATLANTIS
+
+- [ ] Secret 1 : passage sous la corniche bleue.
+- [ ] Secret 2 : ouverture haute de la pyramide.
+- [ ] Secret 3 : porte ouverte par la dalle sans motif dore.
+- [ ] Interrupteurs de la salle des oeufs resolus.
+- [ ] Bloc place pour bloquer le rocher.
+- [ ] 3/3 secrets dans les statistiques.
+
+======================================================================
+15. THE GREAT PYRAMID - 3 SECRETS OFFICIELS
+======================================================================
+
+AVANT LA ZONE
+
+- Fais une sauvegarde au debut, une avant le pont chronometre du secret 1,
+  une avant le secret 2 et une avant le secret 3.
+- Le niveau original peut afficher 2/3 secrets meme si les trois emplacements
+  officiels ont ete visites. Le troisieme secret, pres de la lame et de la
+  dalle cassable, est le point connu du bug.
+- La collecte du secret 3 doit etre faite avant la derniere plongee et avant
+  le combat final. Ne te fie pas uniquement au compteur technique : conserve
+  la sauvegarde et verifie l'emplacement.
+
+OUVERTURE ET BLOCS
+
+01. Dans l'arene de depart, garde les UZIS equipes et elimine le gros mutant
+    depuis les coins ou en t'accrochant au bord. Ramasse les six piles de
+    chargeurs d'Uzi dans les coins avant de sortir.
+02. Dans la premiere pente, pousse le bloc trois fois, prends la sauvegarde
+    haute et traverse la lame sur les dalles cassables quand elle s'ouvre.
+03. Pousse le bloc du corridor carre, reviens par la rampe et active
+    l'interrupteur qui ouvre la porte rouge.
+
+SECRET 01/03 - GRANDE TROUSSE, CHARGEURS DE MAGNUM ET CARTOUCHES DE FUSIL
+
+- Emplacement : grotte derriere le pont chronometre, dans la salle aux pentes
+  de sable et a la lave.
+- Acces : dans la salle rouge, enchaine les sauts sur les zones plates, puis
+  retourne-toi vers le pont. Fais un saut avec course suivi de deux sauts
+  simples pour atterrir sur le pont. Tourne a droite et entre dans la grotte.
+- Active deux fois l'interrupteur de la salle pour maintenir le pont si besoin.
+
+04. Quitte la salle du premier secret par les memes plateformes, evite les deux
+    rochers roulants en changeant de cote et laisse tomber la dalle cassable
+    de la rampe suivante.
+05. Rejoins la salle de la passerelle, active la sauvegarde puis traverse la
+    zone des mutants et des pointes par la fissure murale.
+
+SECRET 02/03 - TROIS GRANDES TROUSSES ET CHARGEURS D'UZI
+
+- Emplacement : corniche de la salle a bassin de lave avec trois blocs inclines.
+- Acces : sur le mur gauche, repere la fissure qui s'elargit. Place Lara dos
+  au mur, recule puis decale-la vers la droite. Oriente-la vers la partie
+  orange, fais un saut vertical avec maintien gauche et attrape la fissure.
+  Traverse jusqu'a la droite et descends sur la corniche.
+- Fais une sauvegarde avant la tentative : le positionnement est plus important
+  que la vitesse.
+
+06. Depuis la cache 2, saute sur le bloc incline puis rebondis vers la corniche
+    derriere. Passe la sequence boulder + lame + dalles en restant sur un cote.
+07. Descends la pente, saute au-dessus du rocher dans l'alcove, puis passe la
+    lame en glissant quand elle s'ecarte.
+08. Traverse la salle aux tas de lave en courant au centre, active l'interrupteur
+    et franchis les cinq piliers par des sauts simples.
+
+SECRET 03/03 - GRANDE TROUSSE ET DEUX PILES DE CHARGEURS D'UZI
+
+- Emplacement : grotte derriere la structure rouge et doree, au-dela de la
+  lame et de la dalle cassable.
+- Acces : depuis la corniche apres les cinq piliers, saute et attrape la dalle
+  cassable, tire-toi puis fais immediatement un saut avec course dans la grotte.
+  Tu peux prendre un coup de lame : verifie la sante avant la tentative.
+- BUG DE COMPTEUR : dans certaines versions classiques, cette cache ne fait
+  pas passer la statistique a 3/3. Elle reste l'emplacement officiel du
+  secret. Ne la considere pas manquee si les objets et le son ont ete obtenus.
+
+FIN DE NIVEAU ET CONTROLE
+
+09. Depuis la cache 3, saute dans la petite piscine, recupere la pile au fond,
+    suis le tunnel et remonte vers les quatre piles finales de chargeurs.
+10. Fais une sauvegarde de fin de niveau, remplis la sante et prepare les Uzis.
+11. Termine le dernier combat de la zone en gardant de l'espace pour les
+    projectiles. Apres la victoire, rejoins la sortie par les piliers : course
+    vers le premier, saut vers le suivant, puis saisies vers les corniches.
+12. Termine le niveau. Si l'ecran affiche 2/3 mais que les trois emplacements
+    ont ete confirmes, note-le comme BUG DE VERSION et conserve la sauvegarde.
+
+CHECKPOINT THE GREAT PYRAMID
+
+- [ ] Secret 1 : grotte derriere le pont chronometre.
+- [ ] Secret 2 : corniche de la salle aux trois blocs inclines.
+- [ ] Secret 3 : grotte derriere la lame et la dalle cassable.
+- [ ] Six piles de chargeurs d'Uzi de l'arene recuperees.
+- [ ] Les trois emplacements officiels visites.
+- [ ] Statistiques verifiees, avec note 2/3 si le bug de la version apparait.
+
+======================================================================
+CHECKLIST FINALE - 45 SECRETS
+======================================================================
+
+CAVES
+
+- [ ] Caves 01 : grotte rectangulaire au bloc incline.
+- [ ] Caves 02 : ouverture au-dessus de la congère.
+- [ ] Caves 03 : corniche vegetale apres les deux passerelles.
+
+CITY OF VILCABAMBA
+
+- [ ] Vilcabamba 01 : trappe de la salle aux piliers.
+- [ ] Vilcabamba 02 : petite salle de la seconde piscine.
+- [ ] Vilcabamba 03 : salle sous le levier des lames.
+
+LOST VALLEY
+
+- [ ] Lost Valley 01 : toit du temple.
+- [ ] Lost Valley 02 : cavite a droite des cascades paralleles.
+- [ ] Lost Valley 03 : grotte haute entre les cascades.
+- [ ] Lost Valley 04 : galerie sous l'interrupteur des engrenages.
+- [ ] Lost Valley 05 : tunnel sous-marin final.
+
+TOMB OF QUALOPEC
+
+- [ ] Qualopec 01 : alcove de statue au-dela de la flechette.
+- [ ] Qualopec 02 : espace entre les pointes sous l'alcove.
+- [ ] Qualopec 03 : poche d'air du tunnel droit du lac.
+
+ST. FRANCIS' FOLLY
+
+- [ ] St. Francis 01 : salle aux blocs inclines du balcon.
+- [ ] St. Francis 02 : ouverture au bas du long toboggan.
+- [ ] St. Francis 03 : salle au-dessus du levier, sous l'eau.
+- [ ] St. Francis 04 : porte chronometree du niveau bas.
+
+COLOSSEUM
+
+- [ ] Colosseum 01 : ouverture rectangulaire au-dessus du bassin.
+- [ ] Colosseum 02 : fissure de la fosse aux crocodiles.
+- [ ] Colosseum 03 : salle chronometree nord-ouest.
+
+PALACE MIDAS
+
+- [ ] Midas 01 : cavite ouest de l'aqueduc.
+- [ ] Midas 02 : fosse sous la zone de l'aqueduc.
+- [ ] Midas 03 : salle derriere les lames du jardin.
+
+THE CISTERN
+
+- [ ] Cistern 01 : tunnel sombre au-dessus de la premiere cle.
+- [ ] Cistern 02 : tunnel court du bassin inferieur.
+- [ ] Cistern 03 : salle cachee derriere le bloc de la porte blanche.
+
+TOMB OF TIHOCAN
+
+- [ ] Tihocan 01 : porte secrete de la dalle a bordure bleue.
+- [ ] Tihocan 02 : alcove du long toboggan.
+
+CITY OF KHAMOON
+
+- [ ] Khamoon 01 : petite salle a gauche de l'arche.
+- [ ] Khamoon 02 : toit au-dessus de la rampe du rocher.
+- [ ] Khamoon 03 : statue a gauche du pont de corde.
+
+OBELISK OF KHAMOON
+
+- [ ] Obelisk 01 : corniche verte de la premiere fosse.
+- [ ] Obelisk 02 : plateforme de la cloche blanche.
+- [ ] Obelisk 03 : tunnel derriere le rebord vert.
+
+SANCTUARY OF THE SCION
+
+- [ ] Sanctuary 01 : plateforme invisible derriere la tete de la statue.
+
+NATLA'S MINES
+
+- [ ] Mines 01 : porte au-dessus de la trappe de lave.
+- [ ] Mines 02 : caisse au-dessus du rocher roulant.
+- [ ] Mines 03 : fosse d'eau au bord des rails.
+
+ATLANTIS
+
+- [ ] Atlantis 01 : passage sous la corniche bleue.
+- [ ] Atlantis 02 : ouverture haute de la pyramide.
+- [ ] Atlantis 03 : porte ouverte par la dalle sans motif dore.
+
+THE GREAT PYRAMID
+
+- [ ] Great Pyramid 01 : grotte derriere le pont chronometre.
+- [ ] Great Pyramid 02 : corniche de la salle aux trois blocs inclines.
+- [ ] Great Pyramid 03 : grotte derriere la lame et la dalle cassable.
+- [ ] Bug de compteur note si les statistiques restent a 2/3.
+
+======================================================================
+CHECKLIST FINALE - PROGRESSION ET SUCCES STEAM
+======================================================================
+
+- [ ] Caves termine : 3/3 secrets.
+- [ ] City of Vilcabamba termine : 3/3 secrets.
+- [ ] Lost Valley termine : 5/5 secrets.
+- [ ] Tomb of Qualopec termine : 3/3 secrets.
+- [ ] St. Francis' Folly termine : 4/4 secrets.
+- [ ] Colosseum termine : 3/3 secrets.
+- [ ] Palace Midas termine : 3/3 secrets.
+- [ ] The Cistern termine : 3/3 secrets.
+- [ ] Tomb of Tihocan termine : 2/2 secrets.
+- [ ] City of Khamoon termine : 3/3 secrets.
+- [ ] Obelisk of Khamoon termine : 3/3 secrets.
+- [ ] Sanctuary of the Scion termine : 1/1 secret.
+- [ ] Natla's Mines termine : 3/3 secrets.
+- [ ] Atlantis termine : 3/3 secrets.
+- [ ] The Great Pyramid termine : 3 emplacements officiels verifies.
+- [ ] 45/45 secrets de la campagne originale.
+- [ ] Tous les objets de progression de la route recuperees.
+- [ ] Toutes les armes principales recuperees.
+- [ ] 15/15 niveaux termines.
+- [ ] 0/0 succes Steam : aucune liste de succes sur l'AppID 224960.
+
+======================================================================
+EXTENSION UNFINISHED BUSINESS - PERIMETRE SEPARE
+======================================================================
+
+Unfinished Business est l'extension Gold de Tomb Raider I, pas un contenu
+compte dans les 15 niveaux et 45 secrets de l'AppID classique 224960. Elle est
+incluse dans les versions Remastered et Gold mais pas dans la fiche de base
+ci-dessus. Ne melange pas ses statistiques avec la campagne originale.
+
+Pour une version qui l'integre, le perimetre complet est :
+
+- Return to Egypt : 3 secrets.
+- Temple of the Cat : 4 secrets.
+- Atlantean Stronghold : 2 secrets.
+- The Hive : 1 secret.
+- Total extension : 4 niveaux et 10 secrets.
+
+La route historique conseillee de l'extension est Return to Egypt, Temple of
+the Cat, Atlantean Stronghold, puis The Hive. Elle possede ses propres pieges,
+compteurs et sauvegardes ; elle ne doit pas etre ajoutee au total Steam 0/0 de
+l'edition classique.
+
+======================================================================
+VERIFICATION FINALE SANS SPOILER
+======================================================================
+
+1. Additionne les compteurs de fin de niveau : 3 + 3 + 5 + 3 + 4 + 3 + 3 +
+   3 + 2 + 3 + 3 + 1 + 3 + 3 + 3 = 45.
+2. Verifie chaque case de la checklist des secrets, pas seulement le total.
+3. Si The Great Pyramid affiche 2/3, compare les trois emplacements officiels
+   de la section 15 avant de conclure a un oubli.
+4. Controle les objets de progression : Silver Key, Gold Idol, trois cogs,
+   trois portes de Qualopec, quatre cles de St. Francis, Lead Bars et Gold
+   Bars, Rusty Keys, Sapphire Keys, quatre objets de l'Obelisk, deux Ankhs,
+   trois Fuses et Pyramid Key.
+5. Controle les armes : Shotgun, Magnums, Uzis et Pistolets recuperes selon la
+   route. Les remplacements de munitions par une arme indiquent parfois que
+   l'arme avait deja ete ramassee ; ce n'est pas une erreur de route.
+6. Ne cherche pas de succes Steam : l'edition classique n'en expose aucun.
+7. Si tu joues a Unfinished Business ou a la Remastered, ouvre une fiche
+   d'extension separee et ne reutilise pas ce compteur.
+
+======================================================================
+SOURCES DE VERIFICATION
+======================================================================
+
+- Fiche Steam / AppID : https://store.steampowered.com/app/224960/Tomb_Raider_I/
+- Parcours et secrets compares :
+  https://www.croftgeneration.com/en/games/tr1/walkthrough/tomb-raider-1996-walkthrough/
+- Guide PC complet compare :
+  https://gamefaqs.gamespot.com/pc/29073-tomb-raider-1996/faqs/22258
+- Inventaire general des secrets : https://www.wikiraider.com/index.php/Secret
+- Verification du bug du dernier secret :
+  https://gamefaqs.gamespot.com/pc/29073-tomb-raider-1996/faqs/36533
+- Parcours classique complementaire :
+  https://tombraiders.net/stella/walks/TR1-classic/15greatpyramid.html
+
+Les sources ont servi a comparer les comptes, les positions des secrets, les
+objets de progression et le comportement connu du dernier compteur. Le texte
+ci-dessus est reformule en francais, organise en route chronologique et
+depouille des informations narratives.
