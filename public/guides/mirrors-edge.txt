@@ -1,187 +1,578 @@
 MIRROR'S EDGE
-GUIDE SPECIAL CHRONOLOGIQUE - SANS SPOILER
+FICHE PREMIUM — GUIDE CHRONOLOGIQUE 100 % STEAM DISPONIBLE — SANS SPOILER
 
-Version de travail : 11 aout 2026
+Version vérifiée : 12 août 2026
+AppID Steam : 17410
+Total contrôlé : 0 succès Steam
 
-Ce guide couvre l'edition Steam originale AppID 17410. La fiche Steam ne
-propose pas de succes Steam pour ce jeu : il n'existe donc pas de 100 % Steam
-sur cet AppID. Le perimetre utile est le tutoriel, le prologue, les neuf
-chapitres, les 30 Runner Bags et les Time Trials disponibles. Les reperes de
-niveaux et de checkpoints ne revelent aucune mort, identite, trahison, fin ou
-consequence narrative.
+Cette fiche concerne Mirror's Edge (2008), pas Mirror's Edge Catalyst. La
+version Steam originale n'expose pas de succès Steam : il n'y a donc aucun
+succès à débloquer sur cet AppID. Le 100 % utile de cette édition est composé
+du tutoriel, du prologue, des neuf chapitres, des 30 Runner Bags, des 23
+parcours Time Trial et des Speed Runs. Le pack Pure Time Trials est détaillé
+à part car sa disponibilité PC dépend de l'édition et de l'installation.
 
-OBJECTIF REEL
+La route ci-dessous donne les objectifs et les repères de niveaux sans révéler
+les identités, les retournements, les conséquences ou la fin. Les noms de
+chapitres et de checkpoints sont uniquement des repères de navigation.
 
-[ ] Tutoriel termine.
-[ ] Prologue + 9 chapitres termines.
-[ ] 30/30 Runner Bags recuperes.
-[ ] Au moins un parcours Time Trial valide et les meilleurs temps nettoyes
-    selon ton objectif personnel.
-[ ] Pure Time Trials traite a part si le contenu est installe.
-[ ] 0/0 succes Steam : l'edition visible n'a pas de liste de succes.
+00 — STATUT STEAM ET PÉRIMÈTRE
 
-REGLES DE ROUTE
+100 % STEAM
 
-- Chaque niveau contient trois Runner Bags. Le glyphe Runner est le meilleur
-  repere visuel : quand tu le vois, quitte la route principale et fouille la
-  zone avant de franchir le checkpoint suivant.
-- Les sacs ne se recuperent pas dans le mode Time Trial : fais la collecte en
-  Story, puis utilise la selection de chapitre pour le nettoyage.
-- Apres un sac, laisse le checkpoint se valider avant de quitter la partie.
-  Si le compteur ne monte pas, recharge le checkpoint et reprends le sac.
-- Les armes ralentissent les deplacements. Pour une route propre, evite les
-  combats quand le chemin de fuite est clair et utilise les sauts, roulades et
-  desarmements seulement quand ils ouvrent le passage.
+- 0 succès Steam sur la fiche Steam de l'AppID 17410.
+- Les trophées « Bag lady », « Ran out of fingers », « Packrat », les
+  trophées de chapitres et les objectifs de Time Trial existent sur console,
+  mais ne sont pas synchronisés comme succès Steam sur cette version.
+- Ne cherche pas une liste de succès manquante dans le client : l'absence est
+  bien le périmètre de l'édition, pas un problème de déblocage.
 
-ORDRE CHRONOLOGIQUE
+100 % DU CONTENU DE L'ÉDITION
 
-01 - TUTORIEL
+- Tutoriel terminé.
+- Prologue The Edge terminé.
+- Chapitres 1 à 9 terminés.
+- 30/30 Runner Bags récupérés, trois par niveau jouable.
+- 23/23 parcours Time Trial débloqués et, si tu veux le 100 % de maîtrise,
+  les trois étoiles de chaque parcours.
+- 10 Speed Runs de la campagne testés après avoir terminé l'histoire.
+- Pure Time Trials ajouté uniquement si le pack est visible dans ton menu.
 
-- Termine les mouvements de base, la roulade, le saut mural, le vault et le
-  desarmement.
-- Aucun Runner Bag dans le tutoriel.
-- [ ] Tutoriel valide avant de lancer The Edge.
+01 — ORDRE DE ROUTE RECOMMANDÉ
 
-02 - PROLOGUE : THE EDGE
+L'ordre le plus propre est le suivant :
 
-- Bag 01 [ ] checkpoint B : premier batiment, au-dessus des ventilations.
-- Bag 02 [ ] checkpoint B : apres la porte rouge, grimpe la pile de colis la
-  plus eloignee.
-- Bag 03 [ ] checkpoint C : sur le toit, passe sous la passerelle bleue et
-  fouille entre les ventilations.
-- Termine le prologue puis verifie [ ] 3/30.
+1. Termine le Training Area pour apprendre les mouvements et débloquer le
+   premier parcours Time Trial.
+2. Joue The Edge, puis Flight, Jacknife, Heat, Ropeburn, New Eden,
+   Pirandello Kruger, The Boat, Kate et The Shard.
+3. Pendant cette première partie, récupère les trois sacs de chaque niveau
+   au moment indiqué dans les sections 03 à 12.
+4. Après chaque sac, attends l'icône de sauvegarde avant de quitter le
+   checkpoint. La fin du chapitre n'est pas nécessaire pour enregistrer un
+   sac, mais la sauvegarde doit avoir fini son écriture.
+5. Après The Shard, ouvre Time Trials : termine d'abord les parcours encore
+   verrouillés, puis améliore les étoiles et les Speed Runs.
+6. Si un sac manque, utilise la sélection de chapitre et le checkpoint
+   indiqué dans l'index de nettoyage. Ne recommence pas toute la campagne.
 
-03 - CHAPTER 1 : FLIGHT
+02 — PRÉPARATION, MANQUABLES ET REPÈRES
 
-- Bag 04 [ ] checkpoint A : apres la deuxieme cloture electrique, monte par le
-  boitier et fouille le toit a gauche.
-- Bag 05 [ ] checkpoint C : dans la petite allee de la poursuite, monte sur le
-  batiment devant l'escalier bleu et regarde derriere l'unite de ventilation.
-- Bag 06 [ ] checkpoint E : a la sortie du metro, passe sous l'escalier au
-  lieu de le monter, puis longe la cloture jusqu'au glyphe.
-- [ ] 6/30.
+MANQUABLES ET GARDE-FOUS
 
-04 - CHAPTER 2 : JACKNIFE
+- Les Runner Bags ne sont pas définitivement manquables : la sélection de
+  chapitre permet de revenir dans les niveaux terminés.
+- Un sac collecté n'a pas besoin d'être livré. Attends simplement la
+  sauvegarde automatique avant de retourner au menu.
+- Les sacs ne sont pas disponibles dans les Time Trials. Fais la collecte en
+  mode Story ou Speed Run, pas dans le parcours abstrait.
+- Un glyphe Runner rouge peint sur un mur, une ventilation ou une caisse
+  signale toujours qu'un sac est proche. Cherche en hauteur, sous les
+  passerelles et derrière les appareils.
+- Ne passe pas le chargement d'un nouveau checkpoint avant de cocher le sac
+  de la zone précédente : les checkpoints sont le meilleur point de reprise.
+- Les Speed Runs et les Time Trials ne remplacent aucune collecte.
 
-- Bag 07 [ ] checkpoint A : dans les canaux, reste a gauche et fouille le
-  deuxieme abri de la longue ligne droite.
-- Bag 08 [ ] checkpoint C : dans la salle de drainage sur les piliers,
-  inspecte la droite, dans l'ombre des tireurs.
-- Bag 09 [ ] checkpoint E : apres les egouts, va vers le chariot elevateur et
-  fouille l'angle entre conteneur et cloture.
-- [ ] 9/30.
+ROUTE SANS ARMES
 
-05 - CHAPTER 3 : HEAT
+- Les armes ralentissent les déplacements et compliquent les sauts. Quand la
+  sortie est ouverte, cours, glisse et franchis les obstacles au lieu de
+  vider la zone.
+- Pour un passage de collecte, éliminer ou contourner les adversaires est
+  libre : la priorité est le sac et la sauvegarde, pas le chronomètre.
+- Utilise la roulade juste avant un atterrissage important. Un atterrissage
+  lourd casse l'élan et rend les retours vers les sacs plus difficiles.
+- Dans les gaines, regarde les embranchements avant de ramper. Plusieurs sacs
+  sont placés dans un cul-de-sac volontairement discret.
 
-- Bag 10 [ ] checkpoint A : a la sortie du premier conduit, prends la branche
-  laterale avec le glyphe sur un tonneau et fouille derriere les colis.
-- Bag 11 [ ] checkpoint C : apres les trois adversaires et les tuyaux, utilise
-  le springboard puis pars a gauche derriere la cloture barbee.
-- Bag 12 [ ] checkpoint D : apres les grues, vise l'echelle de la deuxieme
-  grue, puis longe la passerelle jusqu'au sac.
-- [ ] 12/30.
+MOUVEMENTS À MAÎTRISER AVANT LA COLLECTE
 
-06 - CHAPTER 4 : ROPEBURN
+- Wallrun puis saut : atteindre une barre ou une plateforme latérale.
+- Wallclimb, demi-tour puis saut : prendre de la hauteur dans un espace étroit.
+- Springboard : utiliser une caisse, une palette ou une chaise comme tremplin.
+- Swing : attraper une barre et relâcher au sommet de l'arc.
+- Coil : passer une clôture ou une rambarde sans perdre la ligne.
+- Skill Roll : appuyer au bon moment avant le contact avec le sol.
 
-- Bag 13 [ ] checkpoint A : au premier long vide, regarde sous la corniche et
-  derriere la ligne de progression avant la porte.
-- Bag 14 [ ] checkpoint C : apres la confrontation centrale, fouille le
-  parcours de retour autour de l'ascenseur et des gaines.
-- Bag 15 [ ] checkpoint D : dans la derniere zone avant la sortie, suis le
-  glyphe vers la passerelle laterale avant la descente.
-- [ ] 15/30.
+03 — TRAINING AREA
 
-07 - CHAPTER 5 : NEW EDEN
+ROUTE CHRONOLOGIQUE
 
-- Bag 16 [ ] checkpoint B : avant la fusillade de toit, descends dans la zone
-  abaissee a droite et fouille derriere la cloture barbee.
-- Bag 17 [ ] checkpoint C : apres les deux tyroliennes, monte sur les unites
-  de climatisation et rejoins la tour metallique.
-- Bag 18 [ ] checkpoint C : dans la baie de chargement, grimpe sur la cabine
-  du camion puis sur le toit.
-- [ ] 18/30.
+- Apprends le déplacement, le saut, la roulade, la glissade et la vision de
+  Runner.
+- Enchaîne le wallrun, le wallclimb, le demi-tour mural et le springboard.
+- Termine le parcours guidé jusqu'au retour dans le menu.
+- Aucun Runner Bag n'est caché dans le tutoriel.
+- [ ] Training Area terminé.
 
-08 - CHAPTER 6 : PIRANDELLO KRUGER
+TIME TRIAL DÉBLOQUÉ
 
-- Bag 19 [ ] checkpoint A : apres le premier batiment orange, ne prends pas
-  les tyroliennes ; descends l'escalier beton et longe les ventilations.
-- Bag 20 [ ] checkpoint B : dans le premier bureau apres la baie de chargement,
-  fouille la derniere etagere de stockage.
-- Bag 21 [ ] checkpoint C : dans la zone de conditionnement A1, franchis la
-  cloture pres du convoyeur et inspecte le vide sombre de l'etagere droite.
-- [ ] 21/30.
+- Playground One apparaît après le tutoriel. Ne cherche pas de sac dans ce
+  mode ; le parcours sert uniquement à apprendre la logique des étoiles.
 
-09 - CHAPTER 7 : THE BOAT
+04 — PROLOGUE : THE EDGE
 
-- Bag 22 [ ] checkpoint A : au depart, descends au niveau du sol et pars tout
-  a droite, derriere le chariot elevateur.
-- Bag 23 [ ] checkpoint B : dans la zone de ventilations sous les tirs,
-  suis le glyphe puis longe la ventilation fine jusqu'au bout.
-- Bag 24 [ ] checkpoint B : sur le pont avec le tireur, entre dans la piece
-  sombre a droite et passe les tonneaux.
-- [ ] 24/30.
+ROUTE CHRONOLOGIQUE
 
-10 - CHAPTER 8 : KATE
+- Checkpoint A : suis la ligne de toits et apprends à lire les surfaces
+  rouges. Garde ton élan pour le passage vers le premier bâtiment.
+- Checkpoint B : traverse le bâtiment, les gaines et la zone de stockage.
+  Les sacs 01 et 02 sont sur cette branche ; ne franchis pas la porte de
+  sortie avant de les avoir vérifiés.
+- Checkpoint C : après la traversée des toits et des plateformes bleues,
+  fouille sous la plateforme basse avant de poursuivre.
+- Termine le prologue et vérifie 3/30 dans le menu de chapitre.
 
-- Bag 25 [ ] checkpoint A : apres le premier conduit d'air, retourne-toi et
-  fouille la petite galerie derriere les caisses.
-- Bag 26 [ ] checkpoint C : dans le grand interieur, verifie la traversee
-  laterale avant la porte rouge et les ventilations.
-- Bag 27 [ ] checkpoint C : apres la zone de bureaux, cherche le glyphe dans
-  la partie haute avant la descente vers le prochain objectif.
-- [ ] 27/30.
+RUNNER BAGS 01 À 03
 
-11 - CHAPTER 9 : THE SHARD
+- [ ] Bag 01 — Checkpoint B : dans le premier bâtiment, après le petit
+  escalier, grimpe sur la ventilation au-dessus des caisses. Le sac est posé
+  près de l'entrée de la gaine.
+- [ ] Bag 02 — Checkpoint B : dans la zone de stockage juste avant le toit
+  extérieur, tourne à gauche au lieu de sortir. Monte sur la deuxième rangée
+  d'étagères ; le sac est tout en haut, au-dessus du glyphe.
+- [ ] Bag 03 — Checkpoint C : sur les toits de la poursuite, rejoins la zone
+  des passerelles bleues. Descends sous la plateforme basse et inspecte les
+  appareils près des ventilateurs.
 
-- Bag 28 [ ] checkpoint A : au depart de la zone haute, fouille la premiere
-  branche de ventilation avant les tyroliennes.
-- Bag 29 [ ] checkpoint C : dans la traversee interieure, inspecte les
-  passerelles laterales avant l'ascenseur.
-- Bag 30 [ ] checkpoint D : avant la sortie finale du chapitre, ne franchis
-  pas la derniere porte sans avoir verifie le glyphe et le toit lateral.
-- [ ] 30/30 Runner Bags.
+05 — CHAPITRE 1 : FLIGHT
 
-NETTOYAGE TIME TRIAL
+ROUTE CHRONOLOGIQUE
 
-- Apres la campagne, ouvre Time Trials depuis le menu principal et choisis
-  d'abord un parcours court. Apprends le tracé en suivant le fantome, puis
-  recommence sans combat ni detour.
-- Chaque parcours propose trois seuils. Le premier objectif est de valider le
-  temps qualificatif ; le nettoyage des trois etoiles est un objectif de
-  maitrise separe de la collecte des sacs.
-- Fais les parcours de base avant d'ajouter la difficulte des variantes. Les
-  raccourcis se memorisent mieux quand le parcours est valide sans arme.
-- Les classements et fantomes sont des fonctions en ligne ; ils ne remplacent
-  aucune etape de campagne.
+- Checkpoint A : franchis les toits et les clôtures électriques. Sur la
+  plateforme rouge, garde la branche latérale pour le sac 04 avant le saut
+  obligatoire.
+- Checkpoint B : poursuis la traversée extérieure et utilise les conduits
+  comme lignes de repli. La collecte suivante ne se trouve pas ici.
+- Checkpoint C : après la glissade et le saut vers la zone ombragée, prends la
+  branche de gauche au lieu des escaliers bleus pour le sac 05.
+- Checkpoint D : reprends la course vers la place et conserve la hauteur.
+- Checkpoint E : dans Centurian Plaza, la voie normale monte par les escaliers
+  centraux ; le sac 06 est dans la zone enfoncée à gauche.
 
-DLC PURE TIME TRIALS
+RUNNER BAGS 04 À 06
 
-- Pure Time Trials est un contenu de parcours abstraits distinct de la
-  campagne. La communication de DICE annonce neuf courses sur sept nouvelles
-  cartes ; certains packs PC ne sont pas exposes comme DLC Steam de l'AppID
-  17410.
-- Si le contenu est present, ajoute-le apres les 30 sacs et note le nombre de
-  parcours visibles dans le menu. Ne le compte pas comme succes Steam :
-  l'edition n'en propose aucun.
+- [ ] Bag 04 — Checkpoint A : après les deux clôtures électriques, repère le
+  glyphe sur le boîtier. Monte sur le boîtier puis sur le toit ; le sac est
+  entre les deux conduits de ventilation.
+- [ ] Bag 05 — Checkpoint C : après le saut vers la zone où l'hélicoptère ne
+  suit plus, ne prends pas les escaliers bleus. Saute vers la petite terrasse
+  portant le glyphe et cherche derrière l'appareil isolé.
+- [ ] Bag 06 — Checkpoint E : à Centurian Plaza, laisse les escaliers de la
+  statue centrale sur ta droite et tourne à gauche dans la zone basse. Passe
+  la clôture près du glyphe et fouille derrière les gros appareils.
 
-CHECKLIST FINALE
+06 — CHAPITRE 2 : JACKNIFE
 
-[ ] Tutoriel.
-[ ] The Edge 3/3.
-[ ] Flight 3/3.
-[ ] Jacknife 3/3.
-[ ] Heat 3/3.
-[ ] Ropeburn 3/3.
-[ ] New Eden 3/3.
-[ ] Pirandello Kruger 3/3.
-[ ] The Boat 3/3.
-[ ] Kate 3/3.
-[ ] The Shard 3/3.
-[ ] Total 30/30 Runner Bags.
-[ ] Time Trials de base testes.
-[ ] Pure Time Trials separe si installe.
-[ ] 0/0 succes Steam : objectif non disponible sur cette edition.
+ROUTE CHRONOLOGIQUE
 
-Sources de verification : page Steam de Mirror's Edge AppID 17410, manuel PC,
-table des chapitres StrategyWiki et reperes de Runner Bags. Les instructions
-sont reformulees et la route ne revele pas l'histoire.
+- Checkpoint A : descends dans les canaux. Reste sur la gauche dans le
+  premier long virage ; le sac 07 est derrière le mur marqué.
+- Checkpoint B : continue par les conduits et les zones de maintenance. Ne
+  perds pas ton élan en affrontant les tireurs si une ligne de fuite existe.
+- Checkpoint C : dans la grande salle de drainage, monte vers les structures
+  supérieures. Le sac 08 est à l'extrémité droite de la zone des piliers.
+- Checkpoint D : suis la sortie des canaux et utilise les barres pour revenir
+  sur la route principale.
+- Checkpoint E : après la remontée du bassin, la zone ouverte est bordée de
+  bâtiments identifiables. Le sac 09 est près du chariot élévateur et du
+  conteneur orange, avant de continuer la poursuite.
+
+RUNNER BAGS 07 À 09
+
+- [ ] Bag 07 — Checkpoint A : dans le canal, après le virage à gauche,
+  reste sur le bord gauche jusqu'au glyphe. Le sac est dans le renfoncement
+  derrière le pilier.
+- [ ] Bag 08 — Checkpoint C : dans la salle verticale avec les tireurs,
+  gagne le niveau supérieur, reste à gauche et franchis les supports jusqu'au
+  fond à droite. Le sac est au bout de la structure.
+- [ ] Bag 09 — Checkpoint E : après la remontée du grand bassin, repère les
+  façades Callaghan, Newstream Energy et Burfield. Le glyphe est sur une
+  planche appuyée contre un conteneur orange, près d'un chariot ; le sac est
+  juste derrière le chariot.
+
+07 — CHAPITRE 3 : HEAT
+
+ROUTE CHRONOLOGIQUE
+
+- Checkpoint A : après la première chute dans la gaine, ne suis pas
+  immédiatement la sortie. Le sac 10 est derrière la palette de caisses.
+- Checkpoint B : traverse les toits et les passages de service ; garde la
+  possibilité de revenir vers les tuyaux si tu aperçois un glyphe.
+- Checkpoint C : après la zone de combat, grimpe les tuyaux puis saute le
+  petit écart. Le sac 11 est derrière la clôture, du côté marqué par le
+  glyphe.
+- Checkpoint D : sur le chantier, progresse de grue en grue. Le sac 12 est
+  sur la passerelle de la deuxième grue, un niveau au-dessus de l'arrivée.
+
+RUNNER BAGS 10 À 12
+
+- [ ] Bag 10 — Checkpoint A : dans le premier bâtiment, après la chute dans
+  la gaine, repère le glyphe sur le fût blanc. Le sac est directement derrière
+  la palette de caisses emballées.
+- [ ] Bag 11 — Checkpoint C : après les adversaires sur les toits, grimpe
+  les tuyaux, saute le petit vide et repère le glyphe sur la palette contre la
+  clôture. Le sac se trouve de l'autre côté de cette clôture.
+- [ ] Bag 12 — Checkpoint D : après le saut depuis les poutres suspendues,
+  monte la première échelle de la deuxième grue, puis une seconde échelle.
+  Le sac est au détour de la passerelle supérieure.
+
+08 — CHAPITRE 4 : ROPEBURN
+
+ROUTE CHRONOLOGIQUE
+
+- Checkpoint A : traverse les toits garnis de ventilateurs et d'appareils.
+  Avant le passage vers le panneau DUEL, prends la petite branche latérale
+  pour le sac 13.
+- Checkpoint B : poursuis par les passerelles et les gaines en gardant la
+  route de retour visible.
+- Checkpoint C : après le passage en ascenseur, ne te glisse pas tout de suite
+  dans la gaine. Le sac 14 est dans le couloir derrière les portes, près du
+  glyphe.
+- Checkpoint D : dans la station et les gaines, traverse les barres
+  métalliques avec des sauts courts. Le sac 15 est dans le renfoncement au
+  bout de cette traversée.
+
+RUNNER BAGS 13 À 15
+
+- [ ] Bag 13 — Checkpoint A : sur le toit avec les ventilateurs, vise le
+  panneau portant le mot DUEL. Le glyphe est sur le mur ; le sac est dans la
+  zone à gauche du glyphe.
+- [ ] Bag 14 — Checkpoint C : après le duel du toit et l'arrêt de l'ascenseur,
+  regarde derrière l'ascenseur avant d'entrer dans la gaine. Attends que la
+  porte s'ouvre, puis prends le couloir marqué et récupère le sac au fond.
+- [ ] Bag 15 — Checkpoint D : après la descente vers le métro, traverse la
+  plateforme et les trois barres fixées aux murs. Arrivé de l'autre côté,
+  suis le glyphe vers les barres verticales et monte dans le renfoncement.
+
+09 — CHAPITRE 5 : NEW EDEN
+
+ROUTE CHRONOLOGIQUE
+
+- Checkpoint A : suis les toits jusqu'au premier ascenseur et conserve les
+  appareils comme points de springboard.
+- Checkpoint B : après l'ascenseur, monte le tuyau vers le toit et fouille la
+  zone grillagée pour le sac 16 avant la fusillade.
+- Checkpoint C : après la fuite, utilise les tyroliennes puis les balcons
+  étroits. Les sacs 17 et 18 se trouvent sur deux branches successives, avant
+  l'entrée de la zone commerciale.
+- Checkpoint D : poursuis par les conduits, les balcons et les couloirs de
+  service ; vérifie le compteur 18/30 avant le changement de zone.
+
+RUNNER BAGS 16 À 18
+
+- [ ] Bag 16 — Checkpoint B : après le premier ascenseur, monte le tuyau vers
+  les toits. Dans la zone entourée de barbelés, saute au-dessus de la clôture
+  avec les appareils et rampe entre les deux gros blocs.
+- [ ] Bag 17 — Checkpoint C : après les tyroliennes, repère le balcon avec
+  deux appareils et un conteneur. Le glyphe est entre eux ; grimpe sur les
+  appareils, effectue le wallrun et prends le sac sur le conteneur.
+- [ ] Bag 18 — Checkpoint C : avant d'entrer dans le centre commercial,
+  repère le garage et le camion de livraison près du couloir du personnel.
+  Monte sur le camion : le sac est sur son toit.
+
+10 — CHAPITRE 6 : PIRANDELLO KRUGER
+
+ROUTE CHRONOLOGIQUE
+
+- Checkpoint A : après le premier bâtiment orange et l'escalier, ne suis pas
+  la ligne de tyroliennes. Passe par la ventilation extérieure vers le toit
+  inférieur pour le sac 19.
+- Checkpoint B : après la zone de chargement, entre dans le premier bureau.
+  Le sac 20 est dans la dernière étagère de stockage.
+- Checkpoint C : dans l'aire de conditionnement A1, franchis la clôture entre
+  le convoyeur et le stockage. Le sac 21 est dans l'espace sombre de la
+  rangée de caisses la plus à droite.
+- Checkpoint D : quitte l'usine par les portes et les passerelles sans
+  confondre la sortie de mission avec la branche de rangement.
+
+RUNNER BAGS 19 À 21
+
+- [ ] Bag 19 — Checkpoint A : repère le glyphe près de l'escalier. Longe la
+  ventilation fixée au mur vers le toit plus bas, puis fais un wallrun au bout
+  du conduit et tourne derrière le bâtiment.
+- [ ] Bag 20 — Checkpoint B : juste après la baie de chargement, dans le
+  premier bureau, inspecte la dernière étagère contre le mur gauche.
+- [ ] Bag 21 — Checkpoint C : dans la zone A1, franchis la clôture entre le
+  convoyeur et les palettes. À l'extrémité droite, entre dans l'espace noir
+  au milieu de la rangée de caisses ; le sac est tout au fond.
+
+11 — CHAPITRE 7 : THE BOAT
+
+ROUTE CHRONOLOGIQUE
+
+- Checkpoint A : descends au niveau du sol dès le départ et écarte-toi du
+  camion. La zone sombre à droite contient le sac 22, derrière un chariot.
+- Checkpoint B : après le camion, remonte dans la zone des gaines. Le sac 23
+  se trouve dans une petite branche latérale ; il faut rester sur le conduit
+  étroit au-dessus du vide.
+- Checkpoint C : poursuis sur le pont et dans les coursives. Ne quitte pas le
+  navire avant d'avoir vérifié le compteur 23/30.
+- Checkpoint D : au moment d'arriver sur le pont exposé au tireur, entre dans
+  le local sombre à droite pour le sac 24, puis reprends la route principale.
+
+RUNNER BAGS 22 À 24
+
+- [ ] Bag 22 — Checkpoint A : depuis le départ, descends au sol, éloigne-toi
+  du camion et pars complètement à droite dans l'allée sombre. Le chariot
+  élévateur pointe vers le coin où le sac est caché.
+- [ ] Bag 23 — Checkpoint B : dans la grande zone de gaines, suis le glyphe
+  puis effectue le demi-tour vers les deux conduits qui partent à gauche.
+  Reste sur le conduit fin au-dessus de la grille et longe-le jusqu'au sac.
+- [ ] Bag 24 — Checkpoint D : quand tu sors sur le pont avec le tireur,
+  tourne immédiatement à droite vers le local sombre. Le sac est derrière les
+  tonneaux et les caisses, dans l'angle du pont couvert.
+
+12 — CHAPITRE 8 : KATE
+
+ROUTE CHRONOLOGIQUE
+
+- Checkpoint A : dans le premier bâtiment, repère le tableau blanc portant le
+  glyphe. Les caisses opposées cachent le sac 25.
+- Checkpoint B : traverse le parking, les ascenseurs et les portes de service.
+  Utilise les chaises comme springboards lorsque la route monte.
+- Checkpoint C : dans le grand atrium, pars d'abord à gauche vers la structure
+  couverte pour le sac 26. Ensuite, dans les gaines du niveau haut, continue
+  tout droit au glyphe pour le sac 27.
+- Checkpoint D : poursuis par les passerelles, les salles techniques et les
+  ascenseurs jusqu'à la sortie du niveau.
+
+RUNNER BAGS 25 À 27
+
+- [ ] Bag 25 — Checkpoint A : dans le premier bâtiment, entre dans la pièce
+  avec le tableau blanc et le glyphe. Traverse vers les caisses emballées ; le
+  sac est dans l'espace sombre derrière elles.
+- [ ] Bag 26 — Checkpoint C : au bas de l'atrium, pars vers le pilier de
+  gauche et repère la toile marquée. Grimpe sur la structure couverte puis
+  suis les échafaudages vers le sac.
+- [ ] Bag 27 — Checkpoint C : dans le réseau de gaines au sommet de l'atrium,
+  ne prends aucun embranchement au niveau du glyphe. Continue tout droit
+  jusqu'au cul-de-sac où se trouve le sac.
+
+13 — CHAPITRE 9 : THE SHARD
+
+ROUTE CHRONOLOGIQUE
+
+- Checkpoint A : dans le couloir technique du début, regarde au-dessus du
+  glyphe et prends la plateforme supérieure pour le sac 28.
+- Checkpoint B : traverse le parking, les ascenseurs et les gaines. Après le
+  déplacement vers le niveau haut, garde une sauvegarde propre avant le
+  nettoyage final.
+- Checkpoint C : dans le hall, pars vers le mur droit et utilise la chaise
+  comme tremplin. Le sac 29 est sur la plateforme éloignée.
+- Checkpoint D : dans le réseau de conduits, tourne à gauche juste après la
+  première chute. Le sac 30 est dans le petit renfoncement au-dessus du
+  glyphe, avant de reprendre la sortie du niveau.
+- Termine le chapitre et vérifie 30/30.
+
+RUNNER BAGS 28 À 30
+
+- [ ] Bag 28 — Checkpoint A : dans le couloir de maintenance, repère le
+  glyphe sur le mur gauche. Le sac est juste au-dessus ; wallclimb puis saut
+  vers la grille.
+- [ ] Bag 29 — Checkpoint C : après le passage de la scène de transition,
+  rejoins le hall et pars complètement à droite. À côté de la porte Security
+  04, utilise la chaise pour atteindre la petite plateforme isolée.
+- [ ] Bag 30 — Checkpoint D : dans les conduits étroits, tourne à gauche
+  immédiatement après la première chute. Au glyphe, redresse-toi, fais
+  demi-tour et combine wallclimb puis reverse jump pour atteindre le renfoncement
+  où le sac attend.
+
+14 — NETTOYAGE APRÈS CAMPAGNE
+
+SÉLECTION DE CHAPITRE
+
+- Ouvre la sélection de chapitre depuis le menu Story.
+- Pour chaque niveau, compare le compteur affiché avec la fiche ci-dessus :
+  The Edge 3, Flight 3, Jacknife 3, Heat 3, Ropeburn 3, New Eden 3,
+  Pirandello Kruger 3, The Boat 3, Kate 3, The Shard 3.
+- Lance directement le checkpoint associé au sac manquant.
+- Ramasse le sac, attends la sauvegarde, puis quitte. Reviens dans le menu de
+  chapitre pour confirmer que le compteur a augmenté.
+- Si le compteur reste identique, recharge le checkpoint et repasse sur le
+  sac sans changer de mode.
+
+ORDRE DE NETTOYAGE RAPIDE
+
+1. The Edge B, The Edge C.
+2. Flight A, Flight C, Flight E.
+3. Jacknife A, Jacknife C, Jacknife E.
+4. Heat A, Heat C, Heat D.
+5. Ropeburn A, Ropeburn C, Ropeburn D.
+6. New Eden B, New Eden C.
+7. Pirandello Kruger A, B, C.
+8. The Boat A, B, D.
+9. Kate A, C.
+10. The Shard A, C, D.
+
+15 — TIME TRIAL : 23/23 PARCOURS
+
+RÈGLE DE DÉBLOCAGE
+
+- Un parcours lié à un chapitre apparaît après avoir terminé le chapitre
+  correspondant.
+- Les autres apparaissent en battant le temps qualificatif du parcours
+  précédent. Le menu affiche toujours le prochain temps demandé.
+- Une étoile demande le temps le plus large, deux étoiles un temps médian et
+  trois étoiles le temps expert. Les temps ci-dessous sont les seuils de la
+  version de référence ; le menu de ton jeu reste l'arbitre final.
+- Fais d'abord un passage de reconnaissance sans chercher l'étoile. Ensuite,
+  mémorise les raccourcis et les surfaces rouges. Les armes et les ennemis
+  sont absents : le défi est entièrement consacré à la trajectoire.
+
+PARCOURS ET SEUILS
+
+- [ ] Playground One — déblocage : Training Area. 1★ 2:00, 2★ 1:15,
+  3★ 1:05.
+- [ ] Playground Two — déblocage : battre le qualificatif de Playground One.
+  1★ 2:10, 2★ 1:25, 3★ 1:15.
+- [ ] Playground Three — déblocage : battre le qualificatif de Playground Two.
+  1★ 2:20, 2★ 1:50, 3★ 1:35.
+- [ ] Edge — déblocage : terminer The Edge. 1★ 1:10, 2★ 0:55,
+  3★ 0:47.
+- [ ] Arland — déblocage : terminer Flight. 1★ 1:10, 2★ 0:55,
+  3★ 0:47.
+- [ ] Flight — déblocage : battre le qualificatif d'Arland. 1★ 1:20,
+  2★ 1:07, 3★ 1:01.
+- [ ] Chase — déblocage : terminer Jacknife. 1★ 1:45, 2★ 1:25,
+  3★ 1:18.
+- [ ] Stormdrains One — déblocage : battre le qualificatif de Chase. 1★ 2:00,
+  2★ 1:30, 3★ 1:22.
+- [ ] Stormdrains Two — déblocage : battre le qualificatif de Stormdrains One.
+  1★ 1:20, 2★ 1:03, 3★ 0:57.
+- [ ] Stormdrains Three — déblocage : battre le qualificatif de Stormdrains
+  Two. 1★ 1:10, 2★ 0:59, 3★ 0:53.
+- [ ] Heat — déblocage : terminer Heat. 1★ 1:15, 2★ 1:02, 3★ 0:56.
+- [ ] Burfield — déblocage : battre le qualificatif de Heat. 1★ 1:25,
+  2★ 1:10, 3★ 1:02.
+- [ ] Cranes One — déblocage : battre le qualificatif de Burfield. 1★ 1:45,
+  2★ 1:25, 3★ 1:17.
+- [ ] Cranes Two — déblocage : terminer Ropeburn. 1★ 1:20, 2★ 1:09,
+  3★ 1:02.
+- [ ] New Eden — déblocage : terminer New Eden. 1★ 1:20, 2★ 1:01,
+  3★ 0:55.
+- [ ] Factory — déblocage : terminer Pirandello Kruger. 1★ 1:35, 2★ 1:20,
+  3★ 1:10.
+- [ ] Office — déblocage : terminer The Boat. 1★ 1:05, 2★ 0:32,
+  3★ 0:27.
+- [ ] Convoy One — déblocage : terminer Kate. 1★ 1:20, 2★ 1:04,
+  3★ 0:58.
+- [ ] Convoy Two — déblocage : battre le qualificatif de Convoy One. 1★ 1:20,
+  2★ 1:04, 3★ 0:58.
+- [ ] Atrium One — déblocage : battre le qualificatif de Convoy Two. 1★ 2:00,
+  2★ 1:15, 3★ 0:55.
+- [ ] Atrium Two — déblocage : battre le qualificatif d'Atrium One. 1★ 1:25,
+  2★ 1:07, 3★ 1:00.
+- [ ] Shard One — déblocage : terminer The Shard. 1★ 2:00, 2★ 1:15,
+  3★ 1:08.
+- [ ] Shard Two — déblocage : battre le qualificatif de Shard One. 1★ 1:15,
+  2★ 1:07, 3★ 1:02.
+
+CONSEILS POUR LES ÉTOILES
+
+- Fais une première lecture de la trajectoire en suivant les panneaux, puis
+  recommence en prenant les raccourcis visibles depuis les plateformes.
+- Ne saute pas systématiquement : une course au sol avec sprint conserve plus
+  de vitesse qu'un saut mal placé.
+- Dans les gaines, les angles courts sont généralement plus rapides que les
+  grands demi-tours. Prépare la caméra avant de sortir d'une ouverture.
+- Si un checkpoint est raté, recommence immédiatement : perdre de la vitesse
+  pour corriger une trajectoire coûte souvent plus cher que repartir.
+- Le total d'étoiles est indépendant des Runner Bags.
+
+16 — SPEED RUNS DE LA CAMPAGNE
+
+- Les Speed Runs se débloquent après la fin de l'histoire et se lancent depuis
+  le menu Race. Ils reprennent chaque niveau de campagne avec un chronomètre.
+- [ ] The Edge Speed Run.
+- [ ] Flight Speed Run.
+- [ ] Jacknife Speed Run.
+- [ ] Heat Speed Run.
+- [ ] Ropeburn Speed Run.
+- [ ] New Eden Speed Run.
+- [ ] Pirandello Kruger Speed Run.
+- [ ] The Boat Speed Run.
+- [ ] Kate Speed Run.
+- [ ] The Shard Speed Run.
+- Le temps cible est affiché dans le menu du niveau. Utilise d'abord la route
+  de collecte uniquement pour apprendre, puis retire les détours et les
+  combats lors du passage chronométré.
+- Les Speed Runs ne changent pas le compteur de 30 sacs et n'ajoutent pas de
+  succès Steam.
+
+17 — PURE TIME TRIALS ET CONTENU PC
+
+- Pure Time Trials est un pack de parcours abstraits séparé de la campagne.
+- Quand le pack est présent, les neuf cartes suivantes apparaissent : Kinetic,
+  Actino Rise, Razzmatazz, Actino, Reflex, Reflex Redux, Chroma, Flow et
+  Velocity.
+- Certaines installations PC de Mirror's Edge Steam ne l'affichent pas dans
+  le menu. Ne considère pas le pack comme manquant si l'achat ou l'installation
+  n'est pas présent dans ton édition.
+- [ ] Kinetic si visible.
+- [ ] Actino Rise si visible.
+- [ ] Razzmatazz si visible.
+- [ ] Actino si visible.
+- [ ] Reflex si visible.
+- [ ] Reflex Redux si visible.
+- [ ] Chroma si visible.
+- [ ] Flow si visible.
+- [ ] Velocity si visible.
+- Aucun de ces parcours ne crée de succès Steam sur l'AppID 17410.
+
+18 — CHECKLIST FINALE
+
+PROGRESSION
+
+- [ ] Training Area terminé.
+- [ ] The Edge terminé.
+- [ ] Flight terminé.
+- [ ] Jacknife terminé.
+- [ ] Heat terminé.
+- [ ] Ropeburn terminé.
+- [ ] New Eden terminé.
+- [ ] Pirandello Kruger terminé.
+- [ ] The Boat terminé.
+- [ ] Kate terminé.
+- [ ] The Shard terminé.
+
+COLLECTIBLES
+
+- [ ] Bag 01 à 03 — The Edge.
+- [ ] Bag 04 à 06 — Flight.
+- [ ] Bag 07 à 09 — Jacknife.
+- [ ] Bag 10 à 12 — Heat.
+- [ ] Bag 13 à 15 — Ropeburn.
+- [ ] Bag 16 à 18 — New Eden.
+- [ ] Bag 19 à 21 — Pirandello Kruger.
+- [ ] Bag 22 à 24 — The Boat.
+- [ ] Bag 25 à 27 — Kate.
+- [ ] Bag 28 à 30 — The Shard.
+- [ ] Compteur confirmé à 30/30 dans la sélection de chapitre.
+
+COURSES
+
+- [ ] 23/23 Time Trials débloqués.
+- [ ] 20 étoiles cumulées.
+- [ ] 35 étoiles cumulées.
+- [ ] 50 étoiles cumulées.
+- [ ] 10/10 Speed Runs testés.
+- [ ] Pure Time Trials vérifié séparément si le pack est installé.
+- [ ] 0/0 succès Steam : aucune liste à débloquer sur l'AppID 17410.
+
+VERIFICATION FINALE
+
+- Le titre contrôlé est bien Mirror's Edge (2008), AppID 17410, et non
+  Mirror's Edge Catalyst.
+- Le compteur de chapitres indique dix niveaux terminés : prologue plus neuf
+  chapitres.
+- Le compteur des Runner Bags indique 30/30.
+- Le menu Time Trials contient les 23 parcours de base.
+- Les étoiles et Speed Runs ont été vérifiés séparément des sacs.
+- L'absence de succès Steam est confirmée par le périmètre de l'AppID ; les
+  trophées console ne sont pas reportés comme objectifs Steam.
+
+Sources de vérification : fiche Steam de l'AppID 17410, manuel PC, liste des
+23 parcours Time Trial et guide de repérage des 30 Runner Bags consultés pour
+les checkpoints. Le texte ci-dessus est reformulé pour une route française,
+chronologique et sans révélation narrative.
