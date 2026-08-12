@@ -3139,7 +3139,7 @@ export default function Home() {
     } catch {
       // Local storage can be disabled in private browsing.
     }
-  }, [preferencesReady, selectedId, theme]);
+  }, [preferencesReady, theme]);
 
   useEffect(() => {
     if (!preferencesReady || readerMode) return;
@@ -3267,11 +3267,6 @@ export default function Home() {
           </span>
         </a>
 
-        <nav className="main-nav" aria-label="Navigation principale">
-          <a href={readerMode ? "/#guides" : "#guides"}>Bibliothèque</a>
-          <a href={readerMode ? "#reader" : `/?guide=${selected.id}`} onClick={(event) => { if (!readerMode) { event.preventDefault(); handleOpenReader(selected.id); } }}>Lire</a>
-        </nav>
-
         <div className="topbar-actions">
           <button
             className="topbar-action"
@@ -3318,12 +3313,12 @@ export default function Home() {
             <h1>Mes soluces.</h1>
           </div>
           <p>
-            Recherche un jeu, ouvre sa fiche et avance dans le bon ordre.
+            Recherche un jeu, ouvre sa soluce et avance dans le bon ordre.
           </p>
         </div>
 
         <div className="library-tools">
-          <label htmlFor="catalog-search">Trouver une route</label>
+          <label htmlFor="catalog-search">Trouver une soluce</label>
           <div className="catalog-search-wrap">
             <span aria-hidden="true">⌕</span>
             <input
@@ -3351,7 +3346,7 @@ export default function Home() {
           </span>
         </div>
 
-        <div className="library-filters" aria-label="Filtrer les routes">
+        <div className="library-filters" aria-label="Filtrer les soluces">
           <span>FILTRER</span>
           <div role="group" aria-label="Filtres de bibliothèque">
             {CATALOG_FILTERS.map((filter) => (
@@ -3410,7 +3405,7 @@ export default function Home() {
                     ))}
                   </div>
                   <span className="card-link">
-                    Ouvrir la route <span aria-hidden="true">↗</span>
+            Ouvrir la soluce <span aria-hidden="true">↗</span>
                   </span>
                 </div>
               </button>
@@ -3432,9 +3427,9 @@ export default function Home() {
         )}
         {visibleGuides.length > effectiveCatalogLimit ? (
           <div className="library-more">
-            <span>{displayedGuides.length} routes affichées sur {visibleGuides.length}</span>
+            <span>{displayedGuides.length} soluces affichées sur {visibleGuides.length}</span>
             <button className="button button-outline" type="button" onClick={() => setCatalogLimit((current) => current + 24)}>
-              Afficher 24 routes de plus
+              Afficher 24 soluces de plus
             </button>
           </div>
         ) : null}

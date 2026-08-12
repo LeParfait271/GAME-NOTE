@@ -281,19 +281,6 @@ export default function GuideReader({
   const completed = checklist.filter(
     (block) => block.checkIndex !== undefined && checked[block.checkIndex],
   ).length;
-  const guideMetrics = useMemo(
-    () => ({
-      routeSections: outline.filter((block) => block.kind === "heading").length,
-      objectives: checklist.length,
-      locationAnchors: blocks.filter((block) =>
-        /\b(?:zone|salle|chapitre|coffre|trésor|tresor|emblème|embleme|collectible|quête|quete|ville|temple|grotte|room)\b/i.test(
-          block.text,
-        ),
-      ).length,
-    }),
-    [blocks, checklist.length, outline],
-  );
-
   const toggleCheck = (index: number) => {
     setChecked((current) => {
       const next = { ...current, [index]: !current[index] };
@@ -359,15 +346,10 @@ export default function GuideReader({
             height={215}
           />
           <span className={`reader-cover-accent reader-cover-accent-${selected.accent}`} />
-          <span className="reader-cover-art-label">GAME NOTE / ROUTE</span>
-          <span className="reader-cover-route" aria-hidden="true">
-            <i />
-            REPÈRE ACTIF
-          </span>
         </div>
         <div className="reader-cover-copy">
-          <button className="reader-backlink" type="button" onClick={onBack}>← Toutes les routes</button>
-          <p className="kicker"><span>FICHE DE ROUTE</span><span>{selected.count}</span></p>
+          <button className="reader-backlink" type="button" onClick={onBack}>← Toutes les soluces</button>
+          <p className="kicker"><span>SOLUCE</span><span>{selected.count}</span></p>
           <h1>{selected.title}</h1>
           <p>{selected.description}</p>
           <div className="reader-badges">
@@ -388,7 +370,7 @@ export default function GuideReader({
 
       <div className="reader-tools">
         <div className="reader-tools-copy">
-          <label htmlFor="guide-search">Repérer dans le dossier</label>
+          <label htmlFor="guide-search">Rechercher dans la soluce</label>
           <span className="reader-tools-hint">Touche / pour chercher un repère</span>
         </div>
         <div className="search-wrap">
@@ -429,31 +411,6 @@ export default function GuideReader({
         ) : null}
       </div>
 
-      {!loading && !error && guideText ? (
-        <div className="reader-vitals" aria-label="Résumé de la fiche">
-          <div className="reader-vital">
-            <span>STRUCTURE</span>
-            <strong>{guideMetrics.routeSections || "—"}</strong>
-            <small>sections de route</small>
-          </div>
-          <div className="reader-vital">
-            <span>OBJECTIFS</span>
-            <strong>{guideMetrics.objectives || "—"}</strong>
-            <small>cases interactives</small>
-          </div>
-          <div className="reader-vital">
-            <span>REPÈRES</span>
-            <strong>{guideMetrics.locationAnchors || "—"}</strong>
-            <small>points détectés</small>
-          </div>
-          <div className="reader-vital reader-vital-accent">
-            <span>FORMAT</span>
-            <strong>SANS SPOILER</strong>
-            <small>parcours guidé</small>
-          </div>
-        </div>
-      ) : null}
-
       {loading ? (
         <div className="reader-paper reader-loading" role="status">
           Ouverture de la fiche…
@@ -470,7 +427,7 @@ export default function GuideReader({
         <div className="reader-layout">
           <aside className="reader-sidebar" aria-label="Sommaire de la fiche">
             <div className="reader-sidebar-card">
-              <p className="sidebar-kicker">INDEX DE ROUTE</p>
+              <p className="sidebar-kicker">SOMMAIRE</p>
               <nav className="reader-outline">
                 {outline.length > 0 ? (
                   outline.map((block) => (
@@ -489,7 +446,7 @@ export default function GuideReader({
             </div>
             <div className="reader-progress-card">
               <div className="progress-heading">
-                <span>TRACE LOCALE</span>
+                <span>PROGRESSION</span>
                 <strong>{completed}/{checklist.length}</strong>
               </div>
               <div className="progress-track" aria-hidden="true">
@@ -499,22 +456,11 @@ export default function GuideReader({
               {completed > 0 ? <button className="reader-reset" type="button" onClick={resetChecklist}>Réinitialiser la trace</button> : null}
             </div>
             <a className="reader-download" href={`/guides/${selected.file}`} download>
-              Exporter le dossier TXT <span aria-hidden="true">↓</span>
+              Télécharger la soluce TXT <span aria-hidden="true">↓</span>
             </a>
           </aside>
 
-          <article className="reader-document" aria-label={`Dossier de route ${selected.title}`}>
-            <div className="document-topline">
-              <span>{selected.tag}</span>
-              <span>ROUTE SANS SPOILER</span>
-            </div>
-            <div className="reader-document-intro">
-              <div>
-                <p className="reader-document-kicker">DOSSIER OPÉRATIONNEL</p>
-                <h3>Un parcours clair, repère après repère.</h3>
-              </div>
-              <span className="reader-document-stamp">GAME NOTE / {selected.count}</span>
-            </div>
+          <article className="reader-document" aria-label={`Soluce ${selected.title}`}>
             {query && visibleBlocks.length === 0 ? (
               <div className="reader-empty-search">
                 Aucun bloc ne contient « {search} ». Essaie un autre repère.
