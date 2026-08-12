@@ -1,311 +1,1303 @@
 RAGE
-GUIDE CHRONOLOGIQUE 100 % STEAM - SANS SPOILER
+FICHE PREMIUM - GUIDE CHRONOLOGIQUE 100 % STEAM
+SANS SPOILER NARRATIF
 
-Version de travail : 11 aout 2026
+Version de travail : 12 aout 2026
+Jeu Steam : RAGE
+AppID : 9200
+60 succes Steam
 
-Ce parcours couvre les 60 succes Steam de RAGE avec le DLC The Scorchers
-lorsqu'il est installe. Le jeu de base compte 50 succes et l'extension ajoute
-10 succes, dont Ultra-Nightmare. Les noms de missions servent de reperes de
-route, sans expliquer de mort, identite, trahison, fin ou consequence
-narrative.
+Cette fiche est la route complete de RAGE avec The Scorchers : campagne,
+missions secondaires, 54 cartes, 19 recettes et schematics, 18 sauts de
+vehicule, 27 courses, mini-jeux, tableaux de missions, contenu bonus,
+cooperation et les 60 succes Steam.
 
-OBJECTIF
+La fiche reste sans spoiler narratif. Les noms de zones, de missions, de
+personnages, d'armes et de succes servent uniquement de reperes pratiques.
+Aucune revelation, identite, trahison, fin ou consequence narrative n'est
+decrite.
 
-[ ] 60/60 succes Steam avec The Scorchers.
-[ ] 54/54 cartes de collection.
-[ ] 19/19 schematics et recettes utiles.
-[ ] Toutes les missions, courses, job boards et mini-jeux.
-[ ] 18/18 sauts de vehicule.
-[ ] 100 % de campagne avant Assault on Authority Bridge.
-[ ] 10/10 succes The Scorchers, dont Ultra-Nightmare.
+======================================================================
+00. MODE D'EMPLOI DE LA FICHE
+======================================================================
 
-PERIMETRE STEAM
+RAGE melange plusieurs compteurs qui ne progressent pas tous au meme endroit.
+La route est donc organisee ainsi :
 
-- AppID Steam : 9200.
-- Le jeu de base compte 50 succes ; The Scorchers ajoute 10 succes au meme
-  compteur Steam.
-- Les succes Fresh Meat et MVP exigent une partie publique de Road RAGE. Ce
-  sont des succes en ligne et ils restent dependants de la disponibilite de
-  joueurs.
-- Les 54 cartes et les schematics sont suivis pour le 100 % de campagne,
-  meme lorsque leur succes apparait plus tard.
-- Les missions Sewer et les contenus d'edition Anarchy ne doivent pas etre
-  comptes comme des succes Steam supplementaires ici.
+- la campagne dans son ordre naturel ;
+- les objets et activites a faire avant de quitter chaque zone ;
+- le compteur 100 % de campagne, distinct du compteur de succes Steam ;
+- les fiches de chaque collection avec un repere d'emplacement concret ;
+- les modes coop et Road RAGE, a faire en dernier avec un partenaire ;
+- The Scorchers, place dans une route separee pour ne rien confondre.
 
-GARDE-FOUS ET MISSABLES
+Regle de lecture : quand une ligne dit "avant de partir", fais la sauvegarde
+indiquee et verifie le compteur avant de prendre la sortie ou l'objectif
+suivant. Les lignes de la checklist Steam finale sont les 60 cases suivies
+par l'interface Game Note.
 
-- Le point de non-retour pratique est l'acceptation de Assault on Authority
-  Bridge. Avant de prendre cette mission, vise 100 % de campagne et verifie
-  au minimum 54/54 cartes, 19/19 schematics, toutes les courses, les job
-  boards, les mini-jeux et les 18 sauts.
-- The Well contient deux cartes definitivement ratables si tu quittes la zone.
-  Authority Prison contient six cartes et le schematic EMP : ramasse tout
-  avant la cellule et avant les combats qui font avancer Captain Marshall.
-- Les cartes donnees comme recompenses de quetes comptent dans la serie :
-  note-les immediatement dans le compteur, ne les cherche pas au sol.
-- Pour Gotta Have 'Em All, fais une sauvegarde avant chaque mission a carte et
-  note le total apres chaque retour en ville. Une carte oubliee peut obliger a
-  reprendre une ancienne sauvegarde.
-- Pour Master Chef, achete et obtiens tous les schematics des boutiques,
-  recompenses, job boards et missions secondaires. Le guide ci-dessous place
-  chaque famille au premier moment sur.
-- Le DLC The Scorchers peut etre lance avant ou apres la campagne. Fais-le
-  avant le point final si tu veux garder tous les marchands et le monde ouvert.
-  Son Extended Play permet de reprendre l'exploration apres la campagne de
-  base.
+======================================================================
+01. OBJECTIF ET PERIMETRE 100 %
+======================================================================
 
-ORDRE DES RUNS
+OBJECTIF STEAM
 
-1. Campagne normale, collection et activites au fil des villes.
-2. Nettoyage des cartes, schematics, courses et sauts avant Authority Bridge.
-3. Victoires de difficulte et succes d'actions si un compteur manque.
-4. The Scorchers : histoire, activites, cartes/schematics et Ultra-Nightmare.
-5. Road RAGE public et Legends of the Wasteland en session separee.
+- 60/60 succes Steam : 50 pour le jeu de base et 10 pour The Scorchers.
+- Gotta Have 'Em All : 54 cartes en une seule partie.
+- Master Chef : 19 recettes et schematics en une seule partie.
+- Obsessive Compulsive : 100 % de campagne, soit 130 points dans Statistics.
+- Rage Cup : toutes les courses de campagne gagnees avant Authority Bridge.
+- Jumper : les 18 marqueurs de sauts de vehicule detruits.
+- Anthology : les neuf Legends of the Wasteland terminees en cooperation.
+- Fresh Meat et MVP : deux conditions de Road RAGE public, dependantes de la
+  disponibilite de joueurs.
 
-ACTE 01 - DEBUT, HAGAR ET GHOST HIDEOUT
+LE COMPTEUR 130/130 D'OBSESSIVE COMPULSIVE
 
-- Dans la premiere zone, recupere tous les objets autour du buggy et du garage
-  avant de quitter la colonie.
-- Cartes de debut a pointer :
-  [ ] Carte de depart / zone d'impact.
-  [ ] Carte Grenade, sur un tonneau pres des tuyaux et de la vanne.
-  [ ] Carte Loosum, sur le rocher a gauche de la porte du batiment de Dan.
-- Termine la premiere mission de Ghost Hideout :
-  [ ] Ghost Buster.
-  [ ] Cartes Ghost Bonestick et Ghost Boss, dans les deux salles laterales
-      de la zone aux torches puis autour du monument metallique.
-- Dans Outrigger Settlement, termine les quetes de Janus et de Ramos avant de
-  repartir :
-  [ ] Carte Janus, recompense / canape de la zone de Janus.
-  [ ] Carte Turret, dans le petit bunker a escaliers de la mission radio.
-  [ ] Carte Rikter, sur la tablette sombre pres de l'echelle du batiment radio.
-  [ ] Schematic Bandages.
-  [ ] Schematic Adrenaline Overdrive par la quete Mutant Alert.
-  [ ] Schematic Lock Grinder de la progression principale.
-- Termine Wasted Garage :
-  [ ] Waste Management.
-  [ ] Cartes Wasted Club, Wasted Pistol et Wasted Turret dans les salles sous
-      les escaliers, la porte electrifiee et le detour autour de la tourelle.
-  [ ] Carte Dagger Thrower au-dessus de l'entree du garage, accessible par le
-      chemin de buggy puis a pied.
-  [ ] Carte Dune Buster en recompense du defi de Durar.
-- Dans Hagar, fais la course de Durar et le mini-jeu de Loosum pour obtenir le
-  schematic Wingsticks, puis garde les billets pour les achats prioritaires.
-- [ ] Lead Foot : gagner une course.
-- [ ] Arts and Crafts : fabriquer 10 objets d'ingenierie.
+Le compteur de campagne ne demande pas "tout ce qui existe dans le jeu".
+Voici les 130 points qui doivent apparaitre dans Statistics :
 
-ACTE 02 - WELLSPRING ET PREMIERE EXPLORATION
+- 8 points : les huit premieres missions de Job Board, hors Abandoned
+  Distillery ; les missions Clean the Sewers peuvent remplacer des tableaux
+  manques si le DLC Wasteland Sewer Missions est installe.
+- 1 point : Abandoned Distillery, en remplissant le second bidon puis en le
+  recuperant.
+- 18 points : les 18 vehicle jumps.
+- 54 points : les 54 cartes.
+- 19 points : les recettes et schematics.
+- 27 points : les courses affichees des speedways de Wellspring et Subway
+  Town.
+- 1 point : le Dusty 8 Sponsored Event.
+- 1 point : avoir gagne au moins une fois dans chacun des mini-jeux standard :
+  Wingstick Mastery, RAGE Frenzy, Tombstones, Five Finger Fillet et Strum.
+- 1 point : terminer la campagne.
 
-- En arrivant a Wellspring, parle a tout le monde, prends le job board et
-  termine les activites avant de valider la suite principale.
-- A faire dans cette ville :
-  [ ] Premier Mutant Bash TV pour la carte JK Stiles.
-  [ ] Courses regulieres, contre-la-montre, sponsor et livraisons de Stanley.
-  [ ] Races gagnees pour progresser vers Rage Cup.
-  [ ] Rage Frenzy, Five Finger Fillet et Tombstones.
-  [ ] Job board : au moins 5 quetes pour Mr. Oddjob.
-  [ ] Field goals de l'ATV dans les trois zones de saut.
-- Le compteur de cartes doit inclure la carte JK Stiles et la carte Cuprino,
-  remise apres la course sponsorisee. [ ] Cartes Wellspring verifiees.
-- Fais la mission Hijacked Well en dernier dans cette ville, avec cette liste
-  avant de sortir :
-  [ ] Carte Mine, sur l'etagere au-dessus de l'echelle du long couloir.
-  [ ] Carte Valder, dans le cul-de-sac de la derniere zone avec les soldats.
-  [ ] Schematic Dynamite Bolts, achetable chez Coffer apres la mission.
-  [ ] Schematic Mind Control Bolts, obtenu par Deadly Delivery.
-- The Well est un sas missable : ne passe aucune porte de sortie avant d'avoir
-  coche les deux cartes et les deux schematics.
+Ne compte pas dans les 130 points : les trois Field Goals, le time trial de
+Durar, les defis de Starky et les autres courses non affichees, les missions
+Stanley Express, les mini-jeux DLC et les missions The Scorchers. Fais-les
+quand meme pour le 100 % de contenu de la fiche et les succes associes, mais
+ne les utilise pas pour diagnostiquer un 129/130.
 
-ACTE 03 - SHROUDED BUNKER, DEAD CITY ET JOB BOARDS
+======================================================================
+02. GARDE-FOUS, MISSABLES ET SAUVEGARDES
+======================================================================
 
-- Dans Shrouded Bunker, ramasse les trois cartes :
-  [ ] RC Car Bomb, sous la rambarde pres de la fenetre verte.
-  [ ] Shrouded AR, devant les caisses apres la descente de l'ascenseur.
-  [ ] Shrouded Heavy, pres du petit tuyau au bout du couloir.
-  [ ] Schematic Advanced RC Car Bomb, par le job board RC Prototype.
-- [ ] Debunked : terminer Shrouded Bunker.
-- Dans Dead City premiere visite, prends les cartes :
-  [ ] Large Mutant, dans la salle ouverte par le RC Car Bomb.
-  [ ] Kraken, dans la piece quittee par le gros mutant.
-  [ ] Slime Mutant, sur la table eclairee a gauche de Dead City Central.
-- [ ] It's Alive! : terminer Dead City.
-- Avant de repartir, fais les actions faciles :
-  [ ] Open Minded : 10 tirs a la tete au sniper.
-  [ ] Decapathon : 10 tirs a la tete au Wingstick.
-  [ ] Demolition Man : detruire 100 vehicules ennemis, cumulatif.
-  [ ] Passive Aggressive : trois eliminations avec un seul Sentry Bot.
-  [ ] Keep 'Em Coming : cinq eliminations avec une seule tourelle deployee.
-  [ ] Wall Hack : deux ennemis avec un projectile Railgun a travers un mur.
+POINT DE NON-RETOUR PRATIQUE
 
-ACTE 04 - AUTHORITY PRISON ET RETOUR A WELLSPRING
+- Le lancement d'Assault on Authority Bridge ferme la Speedway de Subway
+  Town et plusieurs activites. Ne prends pas cette mission avant le
+  checkpoint 100 % de la section 23.
+- Fais une sauvegarde manuelle nommee AVANT AUTHORITY BRIDGE. Garde-la meme
+  apres avoir termine la campagne : elle sert a nettoyer les courses, jobs et
+  objets sans recommencer toute la partie.
+- Une seconde sauvegarde nommee AVANT PRISON est recommandee.
 
-- Avant d'entrer, verifie tes compteurs et fais une sauvegarde separee.
-- Dans Authority Prison, ramasse le schematic puis les six cartes dans cet
-  ordre, sans ouvrir la cellule avant le nettoyage :
-  [ ] Schematic EMP Grenade, dans la petite salle a tables a droite des
-      premiers escaliers.
-  [ ] Carte Power Supply, apres le premier generateur, sur le conteneur a
-      droite de la grille laser.
-  [ ] Carte Giant Mutant, dans le trou du mur pres de la premiere tourelle.
-  [ ] Carte EMP Grenade, sur la petite table apres les salles de tourelles,
-      en longeant le cote droit.
-  [ ] Carte Drop Ship, dans la cache d'armes ouverte apres la cellule.
-  [ ] Carte Marshall, dans la piece fermee par Lock Grinder apres les
-      escaliers de sortie.
-  [ ] Carte Shield Guard, sur la table dans la zone sombre apres la separation.
-- Le compteur de cette zone doit arriver a 6 cartes et 1 schematic. Si une
-  ligne manque, recharge avant d'ouvrir la cellule.
-- [ ] Jail Break : terminer Authority Prison.
-- [ ] Jetpacker : tuer un ennemi au jetpack pendant sa descente. La tourelle
-  de la defense de la cellule est une bonne fenetre ; sauvegarde avant.
-- Retourne a Wellspring :
-  [ ] Carte Elizabeth, dans l'arriere-salle de Second Chance.
-  [ ] Cartes et recompenses de toutes les courses restantes.
-  [ ] Les trois field goals confirmes.
+MISSABLES DEFINITIFS OU A FENETRE COURTE
 
-ACTE 05 - DEAD CITY, SUBWAY TOWN ET LE RESTE DES COLLECTIONS
+- Outrigger Settlement : la carte Janus doit etre ramassee avant la fermeture
+  de la colonie, apres la mission liee a Janus.
+- The Well : les cartes Mine et Valder doivent etre ramassees pendant
+  Hijacked Well. La zone n'est plus accessible apres la sortie.
+- Authority Prison : les six cartes et le schematic EMP Grenade doivent etre
+  suivis dans la meme visite. Les trois premieres cartes sont avant la
+  liberation ; Drop Ship, Marshall et Shield Guard se font ensuite dans la
+  progression de sortie.
+- Dead City : Large Mutant, Kraken et Slime Mutant sont a prendre pendant la
+  premiere visite. Ne quitte pas la zone en pensant revenir les chercher.
+- Dead City Reverse : la carte Drone se prend au second passage, derriere le
+  premier escalator de la grande salle.
+- Outrigger et la carte Janus sont a verifier avant Recover ID Drive.
+- The Well, Authority Prison et certaines zones de Dead City ne sont pas des
+  zones de nettoyage libre. Si un compteur est faux, recharge la sauvegarde
+  de la zone plutot que de continuer.
 
-- Au second passage de Dead City, prends la carte Drone sur la table derriere
-  le premier escalator.
-- En arrivant a Subway Town :
-  [ ] Carte Authority Mutant dans la petite salle de la base.
-  [ ] Schematic Authority Augmenter, remis par Lassard.
-  [ ] Carte Dyno-Mutant a Blue Line Station, derriere la grille ouverte par
-      Electro Bolt ou EMP.
-  [ ] Carte Portman dans la grotte d'Abandoned Distillery.
-  [ ] Schematic Regenerative Infusion, recompense de la mission Distillery.
-- Mini-jeux de Subway Town :
-  [ ] Rage Frenzy gagne au niveau demande.
-  [ ] Five Finger Fillet termine.
-  [ ] Strum termine jusqu'a la derniere manche.
-  [ ] Tombstones valide.
-  [ ] Toutes les courses de la ville gagnees.
-  [ ] Hardest Deck : battre le deck Hard de Teague.
-  [ ] Deliverance : terminer la derniere manche de Strum.
-  [ ] Minigamer : gagner les mini-jeux necessaires.
-- Dans Gearhead Vault :
-  [ ] Cartes Advanced Sentry, Gearhead Shotgun et Jarhead Jet.
-- Dans Power Plant et Jackal Canyon :
-  [ ] Carte Monarch a droite de la porte de Power Plant.
-  [ ] Carte Jackal Crossbow au debut de Jackal Canyon, sur la plateforme.
-  [ ] Carte Jackal Club pres de l'interrupteur de la grille.
-- Dans la Distillery, ouvre la salle des developpeurs : repere le silo Still
-  No.3, saute par la rambarde brisee, tourne la vanne puis reviens vers la
-  porte entrouverte.
-  [ ] Dev Graffiti.
-- Completes toutes les quetes de job board, les livraisons et les courses
-  avant d'accepter Assault on Authority Bridge.
+ORDRE DES RUNS RECOMMANDE
 
-CHECKPOINT 100 % AVANT AUTHORITY BRIDGE
+RUN A - CAMPAGNE COMPLETE ET COLLECTION
 
-[ ] 54/54 cartes de collection.
-[ ] 19/19 schematics.
-[ ] Toutes les courses gagnees, Rage Cup obtenu.
-[ ] 18/18 vehicle jumps.
-[ ] Tous les mini-jeux et leur condition speciale.
-[ ] Tous les job board jobs necessaires, Mr. Oddjob valide.
-[ ] Gotta Have 'Em All valide.
-[ ] Master Chef valide.
-[ ] Obsessive Compulsive a 100 % de campagne.
+- Joue en Normal si tu veux limiter les risques, ou en Nightmare si tu veux
+  obtenir les paliers de difficulte en une seule campagne.
+- Suis les sections 03 a 31 sans accepter Authority Bridge trop tot.
+- Ramasse cartes, recettes et sauts a leur premiere fenetre fiable.
+- Gagne les 27 courses, les huit jobs de campagne et les mini-jeux standard.
 
-- Le jeu peut afficher un objectif de campagne autour de 130 unites. Ne prends
-  pas la mission finale tant que ton compteur n'est pas au maximum disponible
-  dans la sauvegarde ; les cartes et schematics des zones fermees ne sont pas
-  recuperables par simple promenade.
-- Une carte apparait comme trouvee lors d'une recompense : verifie le compteur
-  de cartes apres chaque remise, pas seulement l'inventaire.
+RUN B - NETTOYAGE ET VERIFICATION
 
-SUCCES GENERAUX ET DIFFICULTES
+- Recharge AVANT AUTHORITY BRIDGE si le compteur 130 n'est pas atteint.
+- Verifie les cartes, recettes, jumps, courses, jobs et le mini-jeu manquant.
+- Termine ensuite la campagne pour les succes de fin.
 
-- [ ] Hey, not too rough : finir la campagne dans n'importe quelle difficulte.
-- [ ] Hurt me plenty : finir au moins en Normal.
-- [ ] Ultra-violence : finir au moins en Hard.
-- [ ] RAGE Nightmare : finir en Nightmare.
-- [ ] Night Terrors : finir en Ultra-Nightmare, disponible avec The Scorchers.
-- [ ] Tinkerer : fabriquer 50 objets d'ingenierie.
-- [ ] Mechanocide : 100 eliminations avec bots, tourelles ou RC cars.
-- [ ] Rebar Pie : empaler un ennemi contre une surface avec des munitions rebar.
-- [ ] Hat Trick : tuer trois ennemis avec un seul ennemi controle mentalement.
-- [ ] Three Birds, One Bomb Car : trois eliminations avec un RC Bomb Car.
-- [ ] It's Good! : marquer les trois field goals avec l'ATV.
-- [ ] Jumper : valider les 18 marqueurs de saut.
-- [ ] Lucky Charms : parier et gagner sur le vert a Roly-Poly.
-- [ ] Foursome : gagner une main Four of a Kind au video poker.
-- [ ] Just a Flesh Wound : terminer la derniere manche de Five Finger Fillet.
-- [ ] A True Legend : terminer une Legend of the Wasteland en Nightmare.
-- [ ] The Legend Begins... : terminer une Legend of the Wasteland.
-- [ ] No Room for Sidekicks : terminer une Legend sans joueur incapacite.
-- [ ] Anthology : terminer toutes les Legends of the Wasteland.
+RUN C - DIFFICULTE ET ACTIONS
 
-THE SCORCHERS - ROUTE DEDIEE
+- Ultra-Nightmare est le meilleur choix si tu veux obtenir aussi les seuils
+  Normal, Hard et Nightmare dans la meme fin de campagne ; controle Steam
+  apres la notification.
+- Les succes d'armes, de vehicules et de gadgets se font dans Bash TV, les
+  zones de la campagne et les missions de collection.
 
-- Fais cette partie apres avoir les armes et les schematics principaux.
-- Mission 1 : [ ] Fired Up! - terminer Scorcher Base.
-- Mission 2 : [ ] Rite of Passage - terminer Wellspring Tunnels.
-- Mission 3 : [ ] Thrash Canyon - terminer Bash Canyon.
-- Mission 4 : [ ] Plans Refined - terminer Refinery.
-- Mission 5 : [ ] Cavernous Stumble - terminer Hagar Caves.
-- [ ] Rebar Pie : utilise la munition rebar contre un ennemi et une surface.
-- [ ] The Scorchers explorees avec les nouveaux ennemis et armes.
-- [ ] Toutes les activites de Mutant Bash TV de l'extension validees.
-- [ ] Ultra-Nightmare : termine la route demandee avec la difficulte activee.
-- [ ] Extended Play utilise pour verifier les objets restants plutot que de
-  recommencer la campagne de base.
+RUN D - MODES EN LIGNE
 
-ONLINE ET LEGENDS OF THE WASTELAND
+- Termine les neuf Legends of the Wasteland en duo.
+- Termine ensuite Road RAGE public pour Fresh Meat et MVP.
 
-- [ ] Fresh Meat : terminer une partie publique Road RAGE.
-- [ ] MVP : terminer premier d'une partie publique Road RAGE.
-- Fais ces deux objectifs avant de declarer le 100 % si la recherche de partie
-  fonctionne encore. Leur obtention est externe a la route solo.
-- [ ] A True Legend.
-- [ ] The Legend Begins...
-- [ ] No Room for Sidekicks.
-- [ ] Anthology.
+======================================================================
+03. IMPACT, HAGAR SETTLEMENT ET PREMIERS REPEREs
+======================================================================
 
-CHECKLIST DES 60 SUCCES
+OBJECTIF DE LA ZONE
 
-01 [ ] Ghost Buster                   31 [ ] The Legend Begins...
-02 [ ] Waste Management               32 [ ] Rebar Pie
-03 [ ] Lead Foot                      33 [ ] Thrash Canyon
-04 [ ] Gladiator                      34 [ ] Master Chef
-05 [ ] Open Minded                    35 [ ] Rite of Passage
-06 [ ] Arts and Crafts                36 [ ] Fired Up!
-07 [ ] It's Alive!                    37 [ ] Ultra-violence
-08 [ ] Debunked                       38 [ ] Rage Cup
-09 [ ] Wellness Plan                  39 [ ] Dev Graffiti
-10 [ ] Jail Break                     40 [ ] Three Birds, One Bomb Car
-11 [ ] ytiC daeD                      41 [ ] Hardest Deck
-12 [ ] Mutie Blues                    42 [ ] Mechanocide
-13 [ ] Vault Assault                  43 [ ] Fresh Meat
-14 [ ] Power Struggle                 44 [ ] Jumper
-15 [ ] Decrypted                      45 [ ] Minigamer
-16 [ ] Jetpacker                      46 [ ] Hat Trick
-17 [ ] Hey, not too rough             47 [ ] No Room for Sidekicks
-18 [ ] Decapathon                     48 [ ] A True Legend
-19 [ ] Demolition Man                 49 [ ] RAGE Nightmare
-20 [ ] Mr. Oddjob                     50 [ ] Anthology
-21 [ ] Tinkerer                       51 [ ] Deliverance
-22 [ ] Hurt me plenty                 52 [ ] It's Good!
-23 [ ] Bringin' Home the Bacon        53 [ ] Just a Flesh Wound
-24 [ ] Passive Aggressive             54 [ ] MVP
-25 [ ] Silent But Deadly              55 [ ] Lucky Charms
-26 [ ] Roadkill                       56 [ ] Gotta Have 'Em All
-27 [ ] Cavernous Stumble              57 [ ] Foursome
-28 [ ] JACKPOT!                       58 [ ] Wall Hack
-29 [ ] Plans Refined                  59 [ ] Obsessive Compulsive
-30 [ ] Keep 'Em Coming                60 [ ] Night Terrors
+Prends le temps de fouiller la zone d'impact et Hagar Settlement avant de
+suivre la route principale. Les objets de cette zone sont faciles a verifier
+maintenant et la monnaie sert aux premiers schematics.
 
-NOTE SUR LE COMPTEUR
+ORDRE CONSEILLE
 
-- Les 60 lignes ci-dessus couvrent les 60 conditions Steam. Les dix succes
-  The Scorchers sont inclus dans cette liste et doivent etre visibles dans
-  Steam avant de declarer le parcours termine.
-- [ ] Ghost Hideout, Wasted Garage, Dead City, The Well, Authority Prison,
-  Blue Line Station, Gearhead Vault, Power Plant et Jackal Canyon comptes.
-- [ ] Page Steam : 60/60.
+1. Termine la sortie de l'Ark et rejoins Hagar Settlement.
+2. Parle a Dan, Loosum et Halek ; accepte toutes les missions disponibles.
+3. Fais Wingstick Mastery avec Loosum. Une victoire d'au moins une manche
+   alimente le point mini-jeu et ouvre l'achat du schematic Wingsticks.
+4. Fais Where's Juno, Medical Supplies, Radio Tower Repair et Mutant Alert
+   quand ils deviennent disponibles.
+5. Termine le time trial de Durar : il donne la carte Dune Buster, mais le
+   time trial lui-meme ne donne pas de point 130.
+6. Fais Destroy the Barricade puis la route vers Wellspring quand le jeu le
+   demande.
 
-Sources de verification utilisees pour la redaction : statistiques Steam
-officielles de RAGE, page officielle de The Scorchers et inventaires de cartes
-et schematics. Les emplacements sont reformules en reperes de zone et le
-parcours reste sans spoiler narratif.
+CARTES A PRENDRE
+
+- Carte 01/54 - Dan : dans le batiment de Dan, sur la table de nuit pres du
+  lit libre.
+- Carte 02/54 - Grenade : dehors, pres du garage et du buggy, sur un tonneau
+  a cote des tuyaux et de la vanne.
+- Carte 03/54 - Loosum : sur le rocher a gauche de l'entree du batiment de
+  Dan.
+- Carte 13/54 - Dune Buster : recompense du time trial de Durar.
+
+RECETTES ET SCHEMATICS
+
+- Bandages : recompense de Where's Juno.
+- Adrenaline Overdrive : recompense de Mutant Alert ; fais cette mission
+  avant de fermer la route d'Outrigger.
+- Lock Grinder : donne par la progression de The Missing Parts / Find Buggy
+  Parts.
+- Wingsticks : gagne Wingstick Mastery puis achete-le a Halek si le stock ne
+  l'affiche pas immediatement.
+
+SUCCES A PREPARER
+
+- Lead Foot tombera avec n'importe quelle victoire de course de campagne.
+- Arts and Crafts demande 10 fabrications : commence a fabriquer des
+  bandages, wingsticks ou autres objets des que les pieces sont disponibles.
+- Open Minded : garde les tirs de tete au sniper en tete a partir de la
+  premiere arme obtenue ; il n'est pas necessaire de forcer le compteur ici.
+
+AVANT DE PARTIR
+
+- Verifie les cartes 01/54, 02/54, 03/54 et la recompense 13/54.
+- Verifie Bandages, Adrenaline Overdrive, Lock Grinder et Wingsticks.
+- Fais une sauvegarde avant Ghost Hideout.
+
+======================================================================
+04. GHOST HIDEOUT - PREMIERE VISITE
+======================================================================
+
+ROUTE
+
+1. Entre dans Ghost Hideout et avance jusqu'au premier grand couloir.
+2. Apres le second groupe d'ennemis, repere la plateforme en bois aux deux
+   torches : la carte est pres de la torche de gauche.
+3. Depuis cette plateforme, regarde autour du monument metallique et sous la
+   petite table a gauche.
+4. Termine la zone pour obtenir Ghost Buster.
+
+CARTES
+
+- Carte 04/54 - Ghost Bonestick : plateforme en bois du couloir aux torches.
+- Carte 05/54 - Ghost Boss : au sol sous une table, pres du monument
+  metallique a l'exterieur de la petite salle.
+
+La carte Ghost Pistol n'est pas disponible lors de cette premiere visite.
+Elle se prendra au retour avec Lock Grinder, section 07.
+
+AVANT DE PARTIR
+
+- Ghost Buster valide.
+- Cartes 04/54 et 05/54 validees dans l'inventaire.
+- Ne cherche pas la carte Ghost Pistol tant que Lock Grinder n'est pas acquis.
+
+======================================================================
+05. OUTRIGGER SETTLEMENT ET RADIO TOWER
+======================================================================
+
+MISSABLE A FENETRE COURTE
+
+Outrigger Settlement se ferme apres sa serie de missions. Fais toutes les
+interactions de Janus et Ramos avant de repartir, puis controle le compteur.
+
+ORDRE
+
+1. Apporte a Janus ce que demande la mission de Dan et fouille son espace.
+2. Prends la carte Janus sur le canape pres de Janus.
+3. Accepte Mutant Alert aupres de Ramos et rapporte la mission terminee pour
+   recevoir Adrenaline Overdrive.
+4. Termine Radio Tower Repair. Dans la zone du bunker aux sacs de sable,
+   descends l'escalier et prends Turret sur la chaise.
+5. Dans le batiment de la radio, monte vers l'echelle ; la carte Rikter est
+   cachee dans la zone sombre sur la tablette a gauche.
+6. Fais les allers-retours restants de la colonie avant Recover ID Drive.
+
+CARTES
+
+- Carte 06/54 - Janus : sur le canape de l'espace de Janus, pendant sa
+  mission ; missable apres la fermeture d'Outrigger.
+- Carte 07/54 - Turret : petit bunker a escaliers de Radio Tower Repair, sur
+  une chaise derriere la position de tir.
+- Carte 08/54 - Rikter : tablette sombre pres de l'echelle, dans le batiment
+  de la mission Radio Tower Repair.
+
+RECETTES ET MISSIONS
+
+- Bandages et Adrenaline Overdrive doivent etre visibles dans le total.
+- Lock Grinder doit etre obtenu avant le retour a Ghost Hideout.
+- Complete Where's Juno, Mutant Alert, Radio Tower Repair et les missions
+  disponibles du tableau / des habitants.
+
+AVANT DE PARTIR
+
+- Cartes 06/54, 07/54 et 08/54.
+- Adrenaline Overdrive obtenu.
+- Sauvegarde manuelle avant le trajet vers Wasted Garage.
+
+======================================================================
+06. WASTED GARAGE ET PASSAGE VERS WELLSPRING
+======================================================================
+
+ROUTE DE LA ZONE
+
+1. Entre dans Wasted Garage avec le buggy et ne suis pas la sortie sans
+   verifier les pieces sous les escaliers.
+2. Apres la porte electrifiee, descends puis remonte l'escalier pres du
+   tonneau en feu : Wasted Club est au bout du detour.
+3. Dans le secteur de la brèche dans le mur, regarde sous l'escalier pour
+   Wasted Pistol.
+4. Apres la tourelle detruite, fais le petit detour autour du vehicule et
+   retourne-toi en sortant : Wasted Turret est dans une caisse a droite.
+5. A l'exterieur, monte par le chemin de buggy au-dessus de l'entree puis
+   continue a pied derriere la rambarde pour Dagger Thrower.
+6. Termine Wasted Garage pour Waste Management.
+
+CARTES
+
+- Carte 09/54 - Wasted Club : au bout du detour apres la porte electrifiee,
+  dans la partie haute pres de l'escalier et du tonneau en feu.
+- Carte 10/54 - Wasted Pistol : sous l'escalier apres la brèche dans le mur,
+  dans une caisse au sol.
+- Carte 11/54 - Wasted Turret : caisse a droite de la porte apres le detour
+  autour de la tourelle detruite.
+- Carte 12/54 - Dagger Thrower : a pied, au-dessus de l'entree de Wasted
+  Garage, derriere la rambarde accessible avec le buggy.
+
+ACTIVITES DE VEHICULE
+
+- Field Goal 1/3 : pres de l'entree de Wasted Garage ; utilise le Jetter ATV,
+  pas le buggy, et aligne l'ATV avec le poteau.
+- Prepare les roquettes du buggy quand le garage les rend disponibles : les
+  vehicules ennemis detruits comptent pour Demolition Man.
+
+AVANT DE PARTIR
+
+- Waste Management valide.
+- Cartes 09/54 a 12/54 et la carte 13/54 de Durar.
+- Field Goal 1/3 valide si tu fais le 100 % de contenu.
+
+======================================================================
+07. WELLSPRING - PREMIERE VISITE ET HUB DE 100 %
+======================================================================
+
+Wellspring est le premier grand hub. Ne te contente pas de suivre la mission
+principale : les courses, le Job Board, les boutiques, les mini-jeux et les
+recompenses sont la base du compteur 130/130.
+
+ORDRE DE NETTOYAGE
+
+1. Obtiens la tenue aupres de Coffer, puis achete le starter deck. Il contient
+   cinq cartes en une transaction.
+2. Passe au Job Board apres chaque mission principale et termine les offres
+   avant de partir. Les huit premiers jobs valident les points de campagne ;
+   cinq suffisent pour Mr. Oddjob.
+3. Gagne les 16 courses de Wellspring aupres de Slim. Fais les upgrades
+   necessaires chez Rusty avant de conclure qu'une course manque.
+4. Fais le Dusty 8 Sponsored Event quand la chaine de Jackie Weeks l'ouvre.
+   Il compte pour le compteur 130 et donne la Cuprino avec la suite de la
+   mission.
+5. Termine les livraisons Stanley Express pour le 100 % de contenu, meme si
+   elles ne donnent pas de point 130.
+6. Joue a RAGE Frenzy, Tombstones et Five Finger Fillet. Obtiens au moins une
+   victoire validee dans chacun ; Five Finger Fillet peut etre encaisse apres
+   une manche gagnee pour le point, mais termine la manche 5 pour le succes.
+7. Termine Mutant Bash TV une premiere fois, recupere la carte de sortie et
+   accepte la suite Re-Run quand elle apparait.
+8. Fais Miracle Cure, Feltrite Crater, Feltrite Sample, Sally's Bounty,
+   Resupply the Watch Tower, Destroy the Bomb Caches et les offres du board
+   avant Hijacked Well.
+
+CARTES DU HUB
+
+- Cartes 14 a 18/54 - City Guard, Club Mutant, Jetter, Mayor Clayton et
+  Sheriff Black : achete le starter deck de Coffer apres Changing Clothes.
+- Carte 20/54 - Sally : accepte Sally's Bounty au Second Chance, detruis les
+  vehicules de bandits demandes, puis retourne parler a Sally.
+- Carte 26/54 - Cuprino : gagne le Dusty 8 Sponsored Event, termine Cuprino
+  Needed puis recupere la recompense aupres de Sheriff Black.
+
+RECETTES ET SCHEMATICS DE WELLSPRING
+
+- Fat Mammas : achete chez Coffer.
+- Pop Rockets : achete chez Coffer.
+- Sentry Turret : achete chez Coffer ; le stock peut apparaitre apres une
+  mission, reviens verifier.
+- Sentry Bot : achete chez Coffer.
+- RC Bomb Car : donne par Sheriff Black avec Destroy the Bomb Caches.
+
+MINI-JEUX ET SUCCES
+
+- Gladiator : termine un episode complet de Mutant Bash TV en campagne.
+- Bringin' Home the Bacon : vise 750 dollars dans un seul episode. Fais une
+  sauvegarde avant l'episode, joue en difficulte facile si necessaire et
+  maximise les multiplicateurs, les vagues et les bonus de salle.
+- JACKPOT! : dans Tombstones, obtiens les quatre cibles des le premier tour.
+  C'est aleatoire : recharge uniquement une sauvegarde faite avant la partie
+  si tu veux recommencer rapidement.
+- Just a Flesh Wound : termine la cinquieme manche de Five Finger Fillet.
+- Arts and Crafts puis Tinkerer : fabrique 10 puis 50 objets ; conserve les
+  pieces et fabrique des objets peu couteux entre deux missions.
+
+FIELD GOALS
+
+- Field Goal 2/3 : dans le secteur de Wasteland pres du trajet vers Wellspring,
+  prends le chemin de droite puis la premiere bifurcation ; le poteau est
+  pres de la grande porte metallique.
+- Field Goal 3/3 : derriere / a gauche de North Watch Tower, utilise le relief
+  pour lancer le Jetter ATV dans le poteau.
+
+AVANT DE PARTIR POUR HIJACKED WELL
+
+- Les 16 courses de Wellspring gagnees, le Dusty 8 gagne et les upgrades
+  necessaires achetes.
+- Les offres du Job Board disponibles traitees.
+- Les cartes 14-18, 20 et 26 validees.
+- Mutant Bash TV gagne une fois, carte 24/54 et carte 25/54 a recuperer.
+- Field Goals 1/3, 2/3 et 3/3 si tu suis le 100 % de contenu.
+
+======================================================================
+08. GHOST HIDEOUT - RETOUR AVEC LOCK GRINDER
+======================================================================
+
+Reviens dans Ghost Hideout quand Lock Grinder est disponible, avant que la
+route ne rende Outrigger et certaines zones moins pratiques.
+
+- A l'entree, prends la droite, passe sous l'ouverture et franchis les debris.
+- Ouvre la porte du local avec le symbole de crane.
+- Carte 19/54 - Ghost Pistol : sur la table du local verrouille.
+- Dans le meme local, profite-en pour ramasser les ingredients et munitions.
+
+Ce retour n'est pas une nouvelle mission a succes, mais la carte est
+necessaire pour Gotta Have 'Em All et Obsessive Compulsive.
+
+======================================================================
+09. VEHICLE JUMPS 01 A 09 - NORTHERN WASTELAND
+======================================================================
+
+Chaque jump est valide quand le vehicule detruit le drone flottant et affiche
+le nom du saut. Utilise le boost, garde une sauvegarde avant les sauts delicats
+et ne te fie pas seulement a la carte : approche le marqueur pour faire
+apparaitre la rampe utile.
+
+- Jump 01/18 - Beginner's Jump : en quittant Ghost Hideout vers Hagar,
+  saute depuis le rebord juste apres la falaise.
+- Jump 02/18 - Butterfly in the Sky : sous le viaduc detruit, utilise la
+  bosse de terre autour du pilier avec le boost complet.
+- Jump 03/18 - Tiger Jump : apres le passage ouvert vers Wellspring, prends
+  a droite et longe le mur gauche jusqu'au marqueur evident.
+- Jump 04/18 - In The Basket : entre Hagar et Wellspring, cote gauche de la
+  route, pres de la tour et du grand cratere ; utilise la levre de terre.
+- Jump 05/18 - I Think I Can Jump : depuis l'entree de Wellspring, prends
+  droite puis droite ; monte la rampe gauche vers la hauteur.
+- Jump 06/18 - Mini Gap : depuis la sortie de Wellspring, droite puis droite,
+  suis la route haute jusqu'a la rampe pres de la tourelle.
+- Jump 07/18 - Leap of Faith : apres le passage sous le viaduc de Scorcher
+  Territory, monte la rampe a gauche et garde le vehicule aligne.
+- Jump 08/18 - Highway Hop : meme secteur ; prends la route haute a gauche,
+  fais demi-tour et utilise la voie qui se termine dans le drone.
+- Jump 09/18 - Dedicated : continue plus loin apres le demi-tour, puis utilise
+  la bosse rocheuse pour aligner le marqueur.
+
+======================================================================
+10. WASTELAND, FELTRITE ET KVASIR
+======================================================================
+
+OBJETS ET MISSIONS
+
+- Carte 21/54 - Enforcer : dans Scorcher Territory, passe sous le viaduc,
+  depasse la premiere rampe et prends le petit passage a pied vers le grand
+  tunnel.
+- Carte 22/54 - Shrouded Minigun : pendant Feltrite Crater, dans le grand
+  conteneur sombre au bas de la station de forage.
+- Carte 23/54 - Sentry Bot : dans Kvasir Chasm, au sol pres d'un rocher a
+  gauche de la rampe qui monte vers le laboratoire.
+- Termine Feltrite Crater, Feltrite Sample et les missions de ravitaillement.
+- Apprends les variantes d'armes et garde des bolts, grenades et gadgets pour
+  les objectifs d'actions de la section 17.
+
+ACTIVITES A FAIRE SUR LE TRAJET
+
+- Detruis des voitures ennemies avec le buggy arme : 100 vehicules pour
+  Demolition Man, compteur cumulatif.
+- Commence les stealth kills a la Striker Crossbow pour Silent But Deadly.
+- Utilise les Wingsticks sur les ennemis isoles pour Decapathon.
+- Garde des Sentry Bots et des tourelles pour les succes de deploiement ; ne
+  les depense pas tous avant Mutant Bash TV.
+
+======================================================================
+11. MUTANT BASH TV ET CRAZY JOE'S SHACK
+======================================================================
+
+MUTANT BASH TV
+
+1. Termine l'episode complet pour Gladiator.
+2. En sortie, ramasse la carte sur le conteneur a gauche.
+3. Parle a JK Stiles pour la recompense de carte.
+4. Fais une seconde partie si tu dois viser Bringin' Home the Bacon, Passive
+   Aggressive, Keep 'Em Coming, Three Birds, One Bomb Car ou Mechanocide.
+
+CARTES
+
+- Carte 24/54 - Scoop Mutant : dans l'arene, sur le conteneur de sortie apres
+  la derniere manche.
+- Carte 25/54 - JK Stiles : recompense de la premiere victoire Bash TV, a
+  reclamer a JK Stiles.
+- Carte 27/54 - Crazy Joe : pendant Miracle Cure, entre dans la cabane de
+  Crazy Joe avant le marais ; la carte est sur la table pres de lui.
+
+SUCCES DE GADGETS : FENETRES SIMPLES
+
+- Passive Aggressive : deploie un Sentry Bot dans la premiere manche et
+  laisse-le obtenir trois eliminations sans achever toutes les cibles.
+- Keep 'Em Coming : place une Sentry Turret dans une zone ou cinq ennemis
+  peuvent l'atteindre ; affaiblis les ennemis sans prendre les eliminations.
+- Three Birds, One Bomb Car : groupe trois ennemis puis detone un seul RC
+  Bomb Car.
+- Mechanocide : les kills des Sentry Bots, Sentry Turrets et RC Bomb Cars
+  s'additionnent ; Bash TV est la fenetre la plus propre.
+- Hat Trick : utilise un Mind Control Bolt sur un ennemi, rassemble au moins
+  deux autres cibles autour de lui, puis declenche l'explosion / elimination
+  de sorte que trois ennemis soient tues par la cible controlee.
+
+======================================================================
+12. VEHICLE JUMPS 10 A 11 ET FIELD GOALS DE CONTENU
+======================================================================
+
+- Jump 10/18 - Crazy : sur le chemin vers Crazy Joe's Shack, utilise les
+  rochers comme rampe ; recule pour aligner le buggy puis booste.
+- Jump 11/18 - Science Makes You Crazy : a l'est de North Watch Tower,
+  prends le chemin qui boucle autour du rocher puis lance-toi vers l'ouest.
+
+FIELD GOALS - RAPPEL
+
+- Le succes It's Good! demande les trois Field Goals avec le Jetter ATV.
+- Ils ne donnent pas de point dans le compteur 130, mais ils doivent etre
+  coches pour la fiche de contenu complete.
+- Si un poteau n'est pas valide, change l'angle d'approche et utilise le
+  boost plutot que de forcer le saut depuis un mauvais relief.
+
+======================================================================
+13. SHROUDED BUNKER
+======================================================================
+
+ROUTE DE COLLECTION
+
+1. Dans la premiere grande salle, regarde sous la rambarde pres de la fenetre
+   verte : RC Car Bomb.
+2. Apres la descente de l'ascenseur, dans la salle de travail, la carte est
+   devant les caisses empilees a droite.
+3. Apres le long tuyau, avance dans le couloir jusqu'a la salle suivante :
+   Shrouded Heavy est pres du petit tuyau a droite.
+4. Termine la mission pour Debunked.
+5. Reviens au Job Board pour A Proposition puis RC Prototype. La seconde
+   visite donne Advanced RC Bomb Car.
+
+CARTES ET SCHEMATIC
+
+- Carte 28/54 - RC Car Bomb : sous la rambarde pres de la fenetre verte.
+- Carte 29/54 - Shrouded AR : devant les caisses apres l'ascenseur.
+- Carte 30/54 - Shrouded Heavy : pres du petit tuyau dans la salle au bout
+  du couloir apres le grand tuyau.
+- Advanced RC Bomb Car : recompense de RC Prototype, a ne pas oublier sur
+  le Job Board apres Shrouded Bunker.
+
+SUCCES D'ACTION
+
+- Silent But Deadly : realise dix stealth kills au Striker Crossbow. Les
+  ennemis qui n'ont pas detecte la presence du joueur sont les cibles les
+  plus sures ; les eliminations doivent etre silencieuses.
+- Mr. Oddjob : si tu as fait cinq missions du tableau, controle Steam apres
+  le retour en ville.
+
+======================================================================
+14. DEAD CITY - PREMIERE VISITE
+======================================================================
+
+Cette visite contient trois cartes a fenetre courte. Avance lentement et
+ouvre les petits detours avant de franchir la sortie de Dead City Central.
+
+- Carte 31/54 - Large Mutant : apres la zone ouverte avec les projectiles,
+  envoie un RC Bomb Car dans le petit tunnel en pente, ouvre le passage a
+  l'explosion, monte dans le batiment puis redescends vers la piece cachee.
+- Carte 32/54 - Kraken : apres l'affrontement dans la grande zone, entre
+  dans la piece d'ou vient le gros ennemi ; la carte est au sol.
+- Carte 33/54 - Slime Mutant : des l'entree de Dead City Central, cherche la
+  table avec la lanterne sur la gauche.
+
+TERMINE LA ZONE
+
+- It's Alive! se valide a la fin de Dead City.
+- Ne pars pas sans les cartes 31/54, 32/54 et 33/54.
+- Conserve une sauvegarde avant la transition vers The Well.
+
+======================================================================
+15. THE WELL - DEUX CARTES MISSABLES
+======================================================================
+
+The Well est la zone la plus importante de la premiere moitie pour les
+missables. Fais Hijacked Well en dernier dans la liste de Wellspring.
+
+1. Dans le long couloir a colonnes, elimine les ennemis puis cherche l'echelle
+   a gauche avant la premiere fenetre barree. Monte vers l'etagere.
+2. Carte 34/54 - Mine : sur cette etagere au-dessus de l'echelle.
+3. Dans la derniere zone, ne suis pas immediatement les soldats vers la porte.
+   Pars au cul-de-sac avec la caisse et les munitions.
+4. Carte 35/54 - Valder : au fond de ce cul-de-sac.
+5. Termine The Well pour Wellness Plan.
+6. Achete Dynamite Bolts chez Coffer apres Hijacked Well.
+7. Termine Deadly Delivery / Secret Delivery pour Mind Control Bolts selon
+   la mission qui apparait dans ton journal.
+
+GARDE-FOU
+
+- Compteur attendu apres cette zone : deux cartes de The Well, plus les
+  schematics deja acquis.
+- Si Mine ou Valder manque, recharge AVANT HIJACKED WELL. Il n'y a pas de
+  retour libre fiable dans The Well.
+
+======================================================================
+16. AUTHORITY PRISON - SIX CARTES ET EMP GRENADE
+======================================================================
+
+La Prison contient exactement six cartes, pas sept, et le schematic EMP
+Grenade. Fais une sauvegarde avant l'entree et suis le trio avant / trio apres
+la cellule.
+
+AVANT DE LIBERER CAPTAIN MARSHALL
+
+- Schematic EMP Grenade : premiere partie de la zone, petite salle a tables
+  a droite apres les premiers escaliers.
+- Carte 36/54 - Power Supply : apres le premier generateur, dans la salle
+  liberee de la grille laser, sur le conteneur a droite.
+- Carte 37/54 - Giant Mutant : dans le trou du mur pres de la salle de la
+  tourelle, apres avoir coupe son alimentation.
+- Carte 38/54 - EMP Grenade : apres les salles de tourelles, dans la petite
+  piece au bout du chemin en longeant le cote droit, sur une table.
+
+APRES LA CELLULE, DANS L'ORDRE DE SORTIE
+
+- Carte 39/54 - Drop Ship : dans la cache d'armes ouverte apres avoir libere
+  Captain Marshall et termine la defense de la cellule.
+- Carte 40/54 - Marshall : apres les escaliers de sortie, tourne vers la
+  porte verrouillee et ouvre-la avec Lock Grinder ; la carte est a l'interieur
+  sur un appareil de ventilation.
+- Carte 41/54 - Shield Guard : apres la separation de Captain Marshall,
+  traverse la porte et longe le mur droit jusqu'a la table dans la zone
+  sombre, pres du bidon.
+
+SUCCES
+
+- Jail Break : termine Authority Prison.
+- Jetpacker : tue un Authority Enforcer pendant sa descente en jetpack.
+  La sequence de defense de la cellule offre une fenetre lisible ; fais une
+  sauvegarde avant et vise l'ennemi qui descend avant son atterrissage.
+
+AVANT DE QUITTER
+
+- Emp Grenade en recette et cartes 36/54 a 41/54.
+- Si une des six cartes manque, recharge la sauvegarde de Prison.
+
+======================================================================
+17. RETOUR WELLSPRING, DEAD CITY REVERSE ET 100 % NORD
+======================================================================
+
+RETOUR WELLSPRING
+
+- Carte 42/54 - Elizabeth : dans l'arriere-salle de Second Chance, descends
+  les marches du local deja visite ; la carte est sur un tonneau.
+- Termine les offres restantes du Job Board et les activites de course.
+- Reviens acheter les schematics dont le stock etait encore verrouille.
+
+DEAD CITY REVERSE
+
+- Pendant Lost Research Data / Dead City Reverse, atteins la grande salle
+  avec les escalators.
+- Descends le premier escalator, tourne a droite et contourne l'arriere :
+  Carte 43/54 - Drone est sur une table.
+- Termine la mission pour ytiC daeD.
+
+CHECKPOINT NORD
+
+Avant de quitter definitivement la premiere grande region, verifie :
+
+- Cartes 01/54 a 43/54.
+- Schematics 01/19 a 14/19, dont EMP Grenade.
+- Jumps 01/18 a 11/18.
+- Les 16 courses de Wellspring et le Dusty 8 gagnees.
+- Les huit premiers points de Job Board enregistres.
+- Les cinq mini-jeux standard deja valides au moins une fois si possible.
+
+======================================================================
+18. SUBWAY TOWN - NOUVEAU HUB
+======================================================================
+
+A l'arrivee, explore la Resistance Base, puis fais le tour des trois niveaux
+de Subway Town avant d'accepter la suite principale.
+
+PREMIERS OBJETS
+
+- Carte 44/54 - Authority Mutant : dans la petite salle de la Resistance
+  Base, a gauche en entrant, pres du mutant sur la table.
+- Authority Augmenter : parle a Lassard dans la Resistance Base.
+- Advanced Wingsticks, Advanced Sentry Bot et Advanced Sentry Turret : achete
+  les trois chez Jani's Supplies au deuxieme niveau quand ils sont disponibles.
+
+TABLEAU ET ACTIVITES
+
+- Termine les missions Gaining Influence, Foreman Jones, Brick's Bounty,
+  Mutant Expansion, Bounty Hunter, Eviction Notice et Help Wanted quand elles
+  sont proposees.
+- Les tableaux peuvent se renouveler : verifie le mur apres chaque mission
+  principale, puis note les huit premiers points du compteur.
+- Gagne les 11 courses de Subway Town. Le Speedway ferme apres l'engagement
+  d'Authority Bridge.
+- Joue et gagne Strum : une victoire valide le point mini-jeu ; termine la
+  cinquieme manche pour Deliverance.
+- Bats Teague sur son Hardest Deck dans Fez pour Hardest Deck.
+- Complete les victoires de RAGE Frenzy, Tombstones et Five Finger Fillet si
+  elles n'ont pas ete faites a Wellspring.
+
+SCHEMATICS A VERIFIER
+
+- Authority Augmenter : Lassard, Resistance Base.
+- Advanced Wingsticks : Jani's Supplies.
+- Advanced Sentry Bot : Jani's Supplies.
+- Advanced Sentry Turret : Jani's Supplies.
+
+======================================================================
+19. BLUE LINE STATION ET ABANDONED DISTILLERY
+======================================================================
+
+BLUE LINE STATION
+
+1. Apporte l'Electro Bolt ou un EMP Grenade.
+2. Apres les escaliers avec les trois distributeurs, repere la grille presque
+   fermee et le boitier jaune.
+3. Desactive le boitier ; la carte est sur l'etagere a droite, derriere la
+   grille.
+4. Carte 45/54 - Dyno-Mutant.
+5. Termine Blue Line Station pour Mutie Blues.
+
+ABANDONED DISTILLERY
+
+1. Prends la mission de Dietrich dans Subway Town.
+2. Dans la grotte d'entree, apres l'elargissement avec l'eau qui goutte,
+   regarde la table a droite.
+3. Carte 46/54 - Portman.
+4. Dans la salle des silos, repere le silo marque Still No.3.
+5. Saute par la rambarde brisee, suis le petit chemin et tourne la vanne.
+6. Reviens vers la porte partiellement ouverte : la salle secrete valide Dev
+   Graffiti.
+7. Termine la mission, remplis le second bidon et recupere-le pour le point
+   de campagne et Regenerative Infusion.
+
+======================================================================
+20. GEARHEAD VAULT, POWER PLANT ET EASTERN WASTELAND
+======================================================================
+
+GEARHEAD VAULT
+
+- Carte 47/54 - Advanced Sentry : apres le premier ennemi lourd a minigun,
+  fouille la voiture blanche et son siege arriere.
+- Carte 48/54 - Gearhead Shotgun : apres avoir coupe le feu, prends le chemin
+  a droite vers la fontaine.
+- Carte 49/54 - Jarhead Jet : apres l'objet de mission et le retour dans la
+  salle de l'helice, suis l'ennemi lourd puis retourne vers l'escalier ; saute
+  la rambarde vers la chaise.
+- Termine Gearhead Vault pour Vault Assault.
+
+EASTERN WASTELAND ET JUMPS 12 A 16
+
+- Jump 12/18 - Gimeee : en sortant de Subway Town, drone visible a droite de
+  la route.
+- Jump 13/18 - Bunny Hop : premier espace a gauche depuis Subway Town ; monte
+  la rampe d'autoroute et saute depuis le chemin qui se termine.
+- Jump 14/18 - Over The Hill : meme espace, prends la branche droite et la
+  rampe verte faite de panneaux.
+- Jump 15/18 - Shock And Awe : face a Power Plant, utilise le chemin rocheux
+  a gauche pour prendre de la hauteur.
+- Jump 16/18 - In The Gear : face a l'entree de Power Plant, prends le chemin
+  gauche ; le drone est tres visible.
+
+POWER PLANT
+
+- Carte 50/54 - Monarch : au sol a droite de la porte de Power Plant.
+- Carte 51/54 - Gearhead Boss : apres la mission, monte le chemin a gauche de
+  la sortie vers le Wasteland, puis cherche le meuble en haut des escaliers.
+- Termine Power Plant pour Power Struggle.
+
+======================================================================
+21. JACKAL CANYON ET DERNIERS REPEREs AVANT LE PONT
+======================================================================
+
+JACKAL CANYON
+
+- Carte 52/54 - Jackal Crossbow : au debut de la zone, sur une caisse en
+  hauteur a gauche ; saute sur la petite plateforme.
+- Carte 53/54 - Jackal Club : pres du levier qui ouvre la grille, dans le
+  premier detour a gauche.
+- Termine Jackal Canyon pour Decrypted.
+
+AVANT D'ACCEPTER AUTHORITY BRIDGE
+
+Fais une sauvegarde et compare tous les compteurs. Si tu veux absolument
+terminer la campagne sans aller-retour, le meilleur moment est ici :
+
+- 53 cartes minimum avant la derniere carte du pont.
+- 19/19 recettes et schematics.
+- 16 courses Wellspring + Dusty 8 + 11 courses Subway Town gagnees.
+- 16/18 jumps au minimum ; les deux derniers sont apres le pont.
+- 8 points Job Board, Abandoned Distillery validee.
+- Les cinq mini-jeux standard gagnes.
+- Mutant Bash TV gagne, et les succes d'action nettoyes.
+- Field Goals 3/3 et Stanley Express valides pour le contenu complet.
+
+======================================================================
+22. AUTHORITY BRIDGE ET CARTE FINALE
+======================================================================
+
+AUTHORITY BRIDGE
+
+1. Fais une sauvegarde juste avant de lancer la mission.
+2. Pendant la traversee en vehicule, conserve la voiture et vise les mutants
+   sur la route.
+3. Roadkill demande de rouler sur 10 mutants. Une fenetre pratique se trouve
+   autour de la porte arriere et des vagues qui suivent ; ne descends pas du
+   vehicule trop tot.
+4. Sur le pont, detruis les generateurs comme le demande l'objectif.
+5. Carte 54/54 - Elite Guard : derriere le generateur de gauche, sur les
+   caisses avec les munitions.
+6. Termine la mission pour Gotta Have 'Em All si les 53 cartes precedentes
+   etaient presentes.
+
+IMPORTANT
+
+Le pont est le dernier moment de collection pour Elite Guard, mais ce n'est
+pas le bon moment pour commencer les courses ou les jobs. Si le compteur
+130/130 n'est pas acquis avant de lancer la mission, recharge la sauvegarde
+AVANT AUTHORITY BRIDGE et nettoie d'abord.
+
+======================================================================
+23. AUTHORITY TERRITORY ET CAPITOL PRIME
+======================================================================
+
+DERNIERS VEHICLE JUMPS
+
+- Jump 17/18 - Off The Dune : apres Authority Bridge, passe sous l'arche et
+  utilise la dune a droite comme rampe.
+- Jump 18/18 - Near the Heart : apres le dernier marqueur, depasse le garage
+  de vehicules ennemis puis prends la petite voie rocheuse a droite vers le
+  drone final.
+- Jumper : se valide quand les 18 marqueurs ont ete detruits.
+
+CAPITOL PRIME
+
+- Termine la campagne pour Hey, not too rough si aucune difficulte plus haute
+  n'est en cours.
+- Termine en Normal ou plus pour Hurt me plenty.
+- Termine en Hard ou plus pour Ultra-violence.
+- Termine en Nightmare pour RAGE Nightmare.
+- Termine en Ultra-Nightmare pour Night Terrors. Cette condition concerne la
+  campagne principale ; The Scorchers n'est pas le remplacement de cette
+  run de difficulte.
+- Obsessive Compulsive se valide quand la campagne finit avec 130/130. Si le
+  succes n'apparait pas, controle Statistics avant de rejouer un objectif.
+
+======================================================================
+24. INDEX COMPLET DES 19 RECETTES ET SCHEMATICS
+======================================================================
+
+Chaque ligne indique la premiere fenetre fiable. Les achats peuvent etre
+disponibles chez un autre marchand plus tard, mais cette route evite de
+reporter une recette missable.
+
+- 01/19 - Bandages : recompense de Where's Juno, Outrigger Settlement.
+- 02/19 - Adrenaline Overdrive : recompense de Mutant Alert, Ramos.
+- 03/19 - Lock Grinder : progression The Missing Parts / Find Buggy Parts.
+- 04/19 - Wingsticks : Wingstick Mastery puis achat chez Halek / boutique.
+- 05/19 - Fat Mammas : achat chez Coffer, Outfitters, Wellspring.
+- 06/19 - Pop Rockets : achat chez Coffer, Outfitters, Wellspring.
+- 07/19 - Sentry Turret : achat chez Coffer apres rafraichissement du stock.
+- 08/19 - Sentry Bot : achat chez Coffer / Outfitters.
+- 09/19 - Apophis Infusion : recompense de Miracle Cure, Richard.
+- 10/19 - RC Bomb Car : donne par Sheriff Black avec Destroy the Bomb
+  Caches ; le nom peut apparaitre RC Car Bomb selon la langue.
+- 11/19 - Advanced RC Bomb Car : recompense de RC Prototype, Job Board.
+- 12/19 - Dynamite Bolts : achat chez Coffer apres Hijacked Well.
+- 13/19 - Mind Control Bolts : recompense de Deadly Delivery / Secret
+  Delivery, Dr. Kvasir.
+- 14/19 - EMP Grenade : dans Authority Prison, salle a tables pres des
+  premiers escaliers ; missable sur la visite.
+- 15/19 - Authority Augmenter : recompense / explication de Lassard dans la
+  Resistance Base, Subway Town.
+- 16/19 - Advanced Wingsticks : achat chez Jani's Supplies.
+- 17/19 - Advanced Sentry Bot : achat chez Jani's Supplies.
+- 18/19 - Advanced Sentry Turret : achat chez Jani's Supplies.
+- 19/19 - Regenerative Infusion : recompense de Abandoned Distillery, apres
+  avoir rempli et recupere le second bidon.
+
+VERIFICATION RECETTES
+
+- Le compteur doit afficher 19/19 avant Authority Bridge.
+- Master Chef demande les 19 dans une seule partie.
+- EMP Grenade, Adrenaline Overdrive et Advanced RC Bomb Car sont les lignes
+  a recontroler en priorite si le compteur reste a 18/19.
+
+======================================================================
+25. INDEX COMPLET DES 54 CARTES
+======================================================================
+
+Les noms sont donnes dans l'ordre de collecte de la route. Utilise le numero
+pour comparer directement ton inventaire et la checklist finale.
+
+01. Dan - Hagar Settlement, batiment de Dan, table de nuit.
+02. Grenade - Hagar Settlement, tonneau pres du garage et des tuyaux.
+03. Loosum - Hagar Settlement, rocher a gauche du batiment de Dan.
+04. Ghost Bonestick - Ghost Hideout, plateforme aux torches.
+05. Ghost Boss - Ghost Hideout, sous la table pres du monument metallique.
+06. Janus - Outrigger Settlement, canape pres de Janus ; missable.
+07. Turret - Radio Tower Repair, bunker aux sacs de sable, chaise.
+08. Rikter - Radio Tower Repair, tablette sombre pres de l'echelle.
+09. Wasted Club - Wasted Garage, detour haut apres la porte electrifiee.
+10. Wasted Pistol - Wasted Garage, caisse sous l'escalier de la brèche.
+11. Wasted Turret - Wasted Garage, caisse a droite apres la tourelle.
+12. Dagger Thrower - exterieur haut de Wasted Garage, acces a pied.
+13. Dune Buster - recompense du time trial de Durar.
+14. City Guard - starter deck de Coffer, Wellspring.
+15. Club Mutant - starter deck de Coffer, Wellspring.
+16. Jetter - starter deck de Coffer, Wellspring.
+17. Mayor Clayton - starter deck de Coffer, Wellspring.
+18. Sheriff Black - starter deck de Coffer, Wellspring.
+19. Ghost Pistol - Ghost Hideout revisite, porte Lock Grinder.
+20. Sally - recompense de Sally's Bounty, Second Chance.
+21. Enforcer - Scorcher Territory, passage a pied vers le grand tunnel.
+22. Shrouded Minigun - Feltrite Crater, conteneur sombre de la station.
+23. Sentry Bot - Kvasir Chasm, au sol pres du rocher et de la rampe.
+24. Scoop Mutant - sortie de Mutant Bash TV, conteneur de l'arene.
+25. JK Stiles - recompense de la premiere victoire Mutant Bash TV.
+26. Cuprino - recompense de Cuprino Needed apres Dusty 8 Sponsored Event.
+27. Crazy Joe - cabane de Crazy Joe pendant Miracle Cure.
+28. RC Car Bomb - Shrouded Bunker, sous la rambarde a fenetre verte.
+29. Shrouded AR - Shrouded Bunker, caisses apres l'ascenseur.
+30. Shrouded Heavy - Shrouded Bunker, petit tuyau au bout du couloir.
+31. Large Mutant - Dead City premiere visite, detour ouvert par RC Bomb Car.
+32. Kraken - Dead City premiere visite, piece apres le gros ennemi.
+33. Slime Mutant - Dead City Central, table a lanterne a gauche.
+34. Mine - The Well, etagere au-dessus de l'echelle du long couloir.
+35. Valder - The Well, cul-de-sac final pres de la caisse.
+36. Power Supply - Authority Prison, apres le premier generateur.
+37. Giant Mutant - Authority Prison, trou du mur pres de la tourelle.
+38. EMP Grenade - Authority Prison, table de la zone haute a droite.
+39. Drop Ship - Authority Prison, cache d'armes apres la cellule.
+40. Marshall - Authority Prison, porte Lock Grinder apres les escaliers.
+41. Shield Guard - Authority Prison, table de la zone sombre apres separation.
+42. Elizabeth - Wellspring, arriere-salle de Second Chance.
+43. Drone - Dead City Reverse, table derriere le premier escalator.
+44. Authority Mutant - Subway Town, Resistance Base, petite salle de gauche.
+45. Dyno-Mutant - Blue Line Station, grille au boitier jaune.
+46. Portman - Abandoned Distillery, table de la grotte d'entree.
+47. Advanced Sentry - Gearhead Vault, voiture blanche pres du lourd.
+48. Gearhead Shotgun - Gearhead Vault, chemin vers la fontaine apres le feu.
+49. Jarhead Jet - Gearhead Vault, chaise apres le retour dans la salle.
+50. Monarch - Eastern Wasteland, au sol a droite de Power Plant.
+51. Gearhead Boss - Power Plant, meuble pres de la sortie vers le Wasteland.
+52. Jackal Crossbow - Jackal Canyon, caisse sur plateforme au debut.
+53. Jackal Club - Jackal Canyon, pres du levier de la premiere grille.
+54. Elite Guard - Authority Bridge, caisses derriere le generateur gauche.
+
+MISSABLES CARTES - RESUME RAPIDE
+
+- Janus : Outrigger avant la fermeture.
+- Large Mutant, Kraken, Slime Mutant : Dead City premiere visite.
+- Mine et Valder : The Well pendant Hijacked Well.
+- Power Supply, Giant Mutant, EMP Grenade, Drop Ship, Marshall et Shield
+  Guard : Authority Prison en suivant la section 16.
+- Drone : Dead City Reverse.
+- Elite Guard : Authority Bridge.
+
+======================================================================
+26. INDEX COMPLET DES 18 VEHICLE JUMPS
+======================================================================
+
+- 01 Beginner's Jump : Ghost Territory, rebord vers Hagar.
+- 02 Butterfly in the Sky : sous le viaduc detruit, bosse du pilier.
+- 03 Tiger Jump : sortie du passage de Hagar, chemin longeant le mur.
+- 04 In The Basket : route Hagar-Wellspring, cote gauche du cratere.
+- 05 I Think I Can Jump : deux bifurcations a droite depuis Wellspring.
+- 06 Mini Gap : chemin haut de sortie de Wellspring, pres de la tourelle.
+- 07 Leap of Faith : Scorcher Territory, premiere rampe apres le viaduc.
+- 08 Highway Hop : route haute du meme secteur, demi-tour puis fin de voie.
+- 09 Dedicated : route longue apres Highway Hop, bosse rocheuse.
+- 10 Crazy : chemin de Crazy Joe's Shack, rochers de la rampe.
+- 11 Science Makes You Crazy : boucle a l'est de North Watch Tower.
+- 12 Gimeee : sortie de Subway Town, drone a droite.
+- 13 Bunny Hop : Gearhead Territory, premiere zone a gauche, rampe autoroute.
+- 14 Over The Hill : Gearhead Territory, branche droite et rampe verte.
+- 15 Shock And Awe : approche de Power Plant, relief rocheux gauche.
+- 16 In The Gear : approche de Power Plant, chemin gauche face a l'entree.
+- 17 Off The Dune : Authority Territory, dune apres l'arche du pont.
+- 18 Near the Heart : Authority Territory, voie rocheuse pres du garage.
+
+======================================================================
+27. COURSES, MINI-JEUX ET ACTIVITES DE CAMPAGNE
+======================================================================
+
+COURSES POUR RAGE CUP
+
+- Wellspring : 16 courses affichees, reparties entre Beginner's Luck,
+  Speed & Thrills et Murder & Mayhem.
+- Dusty 8 Sponsored Event : gagne la course sponsorisee ; elle donne un point
+  130 distinct et ouvre la suite de la progression.
+- Subway Town : 11 courses affichees, reparties entre Crash & Burn et Road
+  Rage, avec Rocket Rallies, Rocket Race et Pulse Rally.
+- Total pour Rage Cup : 27 courses affichees des deux speedways. Gagne-les
+  toutes avant d'accepter Authority Bridge.
+- Les defis de Durar, Starky's Challenge et la course de Monarch sont a faire
+  pour le contenu et les cartes, mais ne remplacent pas les 27 courses
+  affichees du compteur Rage Cup.
+
+MINI-JEUX STANDARD POUR LE POINT 130
+
+- Wingstick Mastery : gagner une manche a Hagar Settlement.
+- RAGE Frenzy : gagner une main a n'importe quelle difficulte.
+- Tombstones : obtenir une victoire sur un lancer / une manche.
+- Five Finger Fillet : gagner au moins une manche puis encaisser.
+- Strum : gagner au moins une manche ; termine les cinq pour Deliverance.
+
+SUCCES MINI-JEUX
+
+- JACKPOT! : quatre cibles au premier tour de Tombstones.
+- Just a Flesh Wound : cinquieme manche de Five Finger Fillet.
+- Deliverance : derniere manche de Strum.
+- Hardest Deck : battre le deck Hard de Teague dans Fez.
+- Minigamer : gagne au moins une partie valide dans les mini-jeux standard.
+- Bringin' Home the Bacon : 750 dollars en un episode de Bash TV.
+
+======================================================================
+28. MISSIONS SECONDAIRES ET TABLEAUX A NE PAS OUBLIER
+======================================================================
+
+HAGAR / OUTRIGGER
+
+- Where's Juno.
+- Medical Supplies.
+- Radio Tower Repair.
+- Mutant Alert.
+- The Missing Parts / Find Buggy Parts.
+- Destroy the Barricade.
+- Durar's Challenge / Dusty 8 Time Trial.
+- Recover ID Drive doit etre fait seulement apres Janus et les objets
+  d'Outrigger.
+
+WELLSPRING
+
+- Changing Clothes, Renting a Garage et Arming Your Buggy.
+- Sally's Bounty.
+- Win the Dusty 8 et Cuprino Needed.
+- Mutant Bash TV et The Re-Run.
+- Miracle Cure.
+- Feltrite Crater et Feltrite Sample.
+- Resupply the Watch Tower.
+- Destroy the Bomb Caches.
+- Deadly Delivery et Secret Delivery.
+- Hijacked Well.
+- Les huit premieres missions du Job Board, toutes verifiees apres retour en
+  ville.
+- Stanley Express : fais les livraisons pour le contenu complet.
+
+SUBWAY TOWN
+
+- Subway Town et Gaining Influence.
+- Foreman Jones.
+- Brick's Bounty et Bounty Hunter.
+- Mutant Expansion.
+- Gearhead Vault.
+- The Price of Power.
+- Ark Equipment.
+- Abandoned Distillery.
+- Monarch Needed et Starky's Monarch.
+- Eviction Notice et Help Wanted.
+- Les missions du Job Board restantes, jusqu'a ne plus avoir d'offre utile.
+
+======================================================================
+29. ACTIONS DE COMBAT ET SUCCES CUMULATIFS
+======================================================================
+
+Fais ces actions naturellement, puis utilise Mutant Bash TV ou une sauvegarde
+de mission pour nettoyer un compteur sans risquer la collection.
+
+- Open Minded : 10 headshots avec le Sniper Rifle. Les headshots doivent etre
+  realises avec le sniper, pas une autre arme.
+- Decapathon : 10 headshot kills avec le Wingstick. Le wingstick doit toucher
+  la tete ; vise des ennemis isoles.
+- Arts and Crafts : 10 Engineering Items construits.
+- Tinkerer : 50 Engineering Items construits.
+- Demolition Man : 100 Enemy Cars detruites ; les vehicules de course ne
+  remplacent pas forcement les voitures ennemies, utilise le Wasteland pour
+  confirmer le compteur.
+- Passive Aggressive : trois kills avec un Sentry Bot unique.
+- Keep 'Em Coming : cinq kills avec une Sentry Turret deployee.
+- Three Birds, One Bomb Car : trois ennemis tues par une seule RC Bomb Car.
+- Mechanocide : 100 kills cumules avec Sentry Bots, Sentry Turrets ou RC Bomb
+  Cars.
+- Hat Trick : au moins trois ennemis tues par un ennemi controle.
+- Silent But Deadly : dix eliminations furtives a la Striker Crossbow.
+- Roadkill : dix mutants ecrases par un vehicule.
+- Jetpacker : Authority Enforcer tue pendant sa descente en jetpack.
+- Wall Hack : deux ennemis tues par un seul Railgun Slug a travers un mur.
+- Rebar Pie : empale un ennemi contre une surface avec une munition Rebar.
+
+======================================================================
+30. THE SCORCHERS - ROUTE CHRONOLOGIQUE DLC
+======================================================================
+
+The Scorchers ajoute 10 succes Steam. Fais cette route avant ou apres la
+campagne ; pour garder tous les marchands et le monde ouvert, le meilleur
+moment est avant d'accepter Authority Bridge, ou apres un nettoyage sur une
+sauvegarde de campagne. Ses missions ne donnent pas de point dans 130/130.
+
+ORDRE DU JOB PATH
+
+1. Scorcher Base - termine la base pour Fired Up!.
+2. Wellspring Tunnels - termine les tunnels pour Rite of Passage.
+3. Bash Canyon - termine le canyon pour Thrash Canyon.
+4. Refinery - termine la raffinerie pour Plans Refined.
+5. Hagar Caves - termine les grottes pour Cavernous Stumble.
+
+ACTIVITES DLC
+
+- Rebar Pie : trouve ou achete les munitions Rebar, puis cloue un ennemi a
+  une surface suffisamment proche.
+- Wall Hack : aligne deux ennemis derriere un mur penetrable et utilise un
+  Railgun Slug unique ; fais une sauvegarde avant la tentative.
+- Lucky Charms : dans Roly-Poly, parie sur Green et gagne ce pari.
+- Foursome : dans Video Poker, gagne une main Four of a Kind.
+- Les activites de The Scorchers sont a suivre pour le contenu, mais ne
+  remplacent pas les cinq mini-jeux standard du compteur 130.
+- Extended Play permet le nettoyage apres la route DLC ; il n'ajoute pas un
+  succes distinct.
+
+DIFFICULTE
+
+- Night Terrors : finis la campagne principale en Ultra-Nightmare. Ne lance
+  pas The Scorchers en pensant valider cette condition ; verifie le succes
+  apres la fin de Capitol Prime.
+
+======================================================================
+31. WASTELAND SEWER MISSIONS - CONTENU BONUS COMPLET
+======================================================================
+
+Les neuf Sewer Missions sont du contenu bonus de RAGE. Elles ne donnent pas
+de succes Steam ni de point 130, mais elles font partie du contenu jouable de
+l'edition Steam et sont incluses ici pour une fiche vraiment complete.
+
+NORTHERN WASTELAND
+
+- Ark Area Sewers : pres de la zone de l'Ark / entre l'Ark et Hagar.
+- Outrigger Sewers : route du territoire d'Outrigger, avant le detour de la
+  tour radio.
+- Wellspring Sewers : chemin exterieur pres de l'entree de Wellspring.
+- Southern Sewers : secteur de Wasted Territory, sous la rampe de vehicule.
+- Northern Sewers : zone nord, autour des reliefs proches de North Watch.
+- Kvasir's Sewers : pres de North Watch Tower, sur le relief au-dessus du
+  laboratoire de Kvasir.
+- Plateau Sewers : plateau pres du trajet de Dedicated.
+
+EASTERN WASTELAND
+
+- Subway Town Sewers : sous / pres du pont a l'ouest de Subway Town.
+- Shipyard Sewers : Gearhead Territory, pres de la route de Shipyard.
+
+ROUTE CONSEILLEE
+
+- Entre dans une bouche pour declencher Visit Sewers.
+- Nettoie la zone, recupere le butin puis retourne au Job Board pour Clean the
+  Sewers quand la mission apparait.
+- Fais les sept zones du Nord avant de quitter la region, puis les deux zones
+  de l'Est autour de Subway Town.
+- Ne soustrais pas ces missions du compteur 130 si celui-ci reste a 130 moins
+  un point ; elles ne sont pas la cause du manque.
+
+======================================================================
+32. LEGENDS OF THE WASTELAND - COOP
+======================================================================
+
+Les Legends demandent deux joueurs pour valider les succes. Le mode peut
+afficher neuf scenarios :
+
+- Life in Prison.
+- Season 1: Pilot.
+- Water Service.
+- Trophy Hunting.
+- Rusty's Resupply.
+- Unwanted Guests.
+- Extermination.
+- Grab and Go.
+- A New Toy.
+
+ORDRE DE VALIDATION
+
+1. Fais une premiere mission avec un partenaire pour The Legend Begins....
+2. Rejoue une mission facile sans qu'aucun joueur ne soit incapacite pour No
+   Room for Sidekicks.
+3. Fais n'importe laquelle des neuf Legends en Nightmare pour A True Legend.
+4. Termine les neuf missions, une par une, dans la liste du menu pour
+   Anthology.
+5. Si une mission n'est pas comptee, termine son ecran de resultat jusqu'au
+   retour au menu coop, puis verifie la liste avant de relancer.
+
+======================================================================
+33. ROAD RAGE PUBLIC
+======================================================================
+
+- Fresh Meat : termine une partie publique Road RAGE.
+- MVP : termine premier dans une partie publique Road RAGE.
+- Lance une vraie partie publique, pas une course de campagne et pas une
+  partie privee locale.
+- Si les serveurs sont calmes, organise une session avec un autre joueur et
+  garde une capture de la page de resultat ; la condition reste dependante de
+  la disponibilite en ligne.
+
+======================================================================
+34. PLAN DE SECOURS SI LE COMPTEUR RESTE A 129/130
+======================================================================
+
+Ne recommence pas la campagne au hasard. Fais ce diagnostic sur la sauvegarde
+AVANT AUTHORITY BRIDGE :
+
+1. Statistics : regarde la derniere ligne Obsessive Compulsive et note le
+   nombre exact.
+2. Cards : compare 01 a 54 avec la section 25, surtout Janus, The Well,
+   Prison et Dead City.
+3. Recipes : compare 01 a 19 ; EMP Grenade et Advanced RC Bomb Car sont les
+   oublis classiques.
+4. Vehicle Jumps : compare les noms et pas seulement le total ; les deux
+   derniers sont cote Authority Territory.
+5. Courses : confirme les 27 courses affichees, sans compter Durar ou Starky.
+6. Job Board : confirme huit premieres missions, puis Abandoned Distillery.
+7. Mini-jeux : gagne une manche de Wingstick Mastery, RAGE Frenzy,
+   Tombstones, Five Finger Fillet et Strum, puis encaisse la recompense.
+8. Fin de campagne : si tout est 130/130 mais que le succes manque, termine
+   Capitol Prime et attends le retour de Steam avant de fermer le jeu.
+
+======================================================================
+35. CHECKLIST STEAM FINALE - 60/60
+======================================================================
+
+- [ ] 01. Ghost Buster - terminer Ghost Hideout en campagne.
+- [ ] 02. Waste Management - terminer Wasted Garage en campagne.
+- [ ] 03. Lead Foot - gagner une course de campagne.
+- [ ] 04. Gladiator - terminer Mutant Bash TV en campagne.
+- [ ] 05. Open Minded - obtenir 10 headshot kills au Sniper Rifle.
+- [ ] 06. Arts and Crafts - construire 10 Engineering Items.
+- [ ] 07. It's Alive! - terminer Dead City en campagne.
+- [ ] 08. Debunked - terminer Shrouded Bunker en campagne.
+- [ ] 09. Wellness Plan - terminer The Well en campagne.
+- [ ] 10. Jail Break - terminer Authority Prison en campagne.
+- [ ] 11. ytiC daeD - terminer Dead City Reverse en campagne.
+- [ ] 12. Mutie Blues - terminer Blue Line Station en campagne.
+- [ ] 13. Vault Assault - terminer Gearhead Vault en campagne.
+- [ ] 14. Power Struggle - terminer Power Plant en campagne.
+- [ ] 15. Decrypted - terminer Jackal Canyon en campagne.
+- [ ] 16. Jetpacker - tuer un Authority Enforcer pendant sa descente en jetpack.
+- [ ] 17. Hey, not too rough - terminer la campagne a n'importe quelle difficulte.
+- [ ] 18. Decapathon - obtenir 10 headshot kills au Wingstick.
+- [ ] 19. Demolition Man - detruire 100 Enemy Cars.
+- [ ] 20. Mr. Oddjob - terminer 5 Job Board Quests dans une partie.
+- [ ] 21. Tinkerer - construire 50 Engineering Items.
+- [ ] 22. Hurt me plenty - terminer la campagne en Normal ou plus.
+- [ ] 23. Bringin' Home the Bacon - gagner 750 dollars dans un episode Bash TV.
+- [ ] 24. Passive Aggressive - obtenir 3 kills avec un seul Sentry Bot.
+- [ ] 25. Silent But Deadly - faire 10 stealth kills au Striker Crossbow.
+- [ ] 26. Roadkill - ecraser 10 mutants avec un vehicule.
+- [ ] 27. Cavernous Stumble - terminer Hagar Caves de The Scorchers.
+- [ ] 28. JACKPOT! - obtenir 4 Targets au premier tour de Tombstones.
+- [ ] 29. Plans Refined - terminer Refinery de The Scorchers.
+- [ ] 30. Keep 'Em Coming - obtenir 5 kills avec une Sentry Turret deployee.
+- [ ] 31. The Legend Begins... - terminer une Legend of the Wasteland.
+- [ ] 32. Rebar Pie - empaler un ennemi contre une surface avec Rebar.
+- [ ] 33. Thrash Canyon - terminer Bash Canyon de The Scorchers.
+- [ ] 34. Master Chef - collecter les 19 recettes et schematics en une partie.
+- [ ] 35. Rite of Passage - terminer Wellspring Tunnels de The Scorchers.
+- [ ] 36. Fired Up! - terminer Scorcher Base de The Scorchers.
+- [ ] 37. Ultra-violence - terminer la campagne en Hard ou plus.
+- [ ] 38. Rage Cup - gagner toutes les courses de campagne.
+- [ ] 39. Dev Graffiti - trouver la salle secrete Developer Graffiti.
+- [ ] 40. Three Birds, One Bomb Car - tuer 3 ennemis avec une seule RC Bomb Car.
+- [ ] 41. Hardest Deck - battre le Hardest Deck de Teague.
+- [ ] 42. Mechanocide - tuer 100 ennemis avec Bots, Turrets ou RC Bomb Cars.
+- [ ] 43. Fresh Meat - terminer une partie publique Road RAGE.
+- [ ] 44. Jumper - effectuer les 18 Vehicle Jumps.
+- [ ] 45. Minigamer - gagner tous les mini-jeux standard.
+- [ ] 46. Hat Trick - tuer au moins 3 ennemis avec un seul ennemi controle.
+- [ ] 47. No Room for Sidekicks - terminer une Legend sans joueur incapacite.
+- [ ] 48. A True Legend - terminer une Legend of the Wasteland en Nightmare.
+- [ ] 49. RAGE Nightmare - terminer la campagne en Nightmare.
+- [ ] 50. Anthology - terminer les neuf Legends of the Wasteland.
+- [ ] 51. Deliverance - terminer la derniere manche de Strum.
+- [ ] 52. It's Good! - marquer les 3 Field Goals avec le Jetter ATV.
+- [ ] 53. Just a Flesh Wound - terminer la derniere manche de Five Finger Fillet.
+- [ ] 54. MVP - finir premier dans une partie publique Road RAGE.
+- [ ] 55. Lucky Charms - parier et gagner sur Green a Roly-Poly.
+- [ ] 56. Foursome - gagner une main Four of a Kind au Video Poker.
+- [ ] 57. Gotta Have 'Em All - collecter les 54 Playing Cards en une partie.
+- [ ] 58. Wall Hack - tuer 2 ennemis avec un Railgun Slug a travers un mur.
+- [ ] 59. Obsessive Compulsive - atteindre 100 % de completion de campagne.
+- [ ] 60. Night Terrors - terminer la campagne en Ultra-Nightmare.
+
+======================================================================
+VERIFICATION FINALE
+======================================================================
+
+- [ ] Steam affiche 60/60 succes.
+- [ ] Statistics affiche 130/130 pour Obsessive Compulsive.
+- [ ] 54/54 cartes comparees avec les 54 lignes de la section 25.
+- [ ] 19/19 recettes et schematics valides.
+- [ ] 18/18 vehicle jumps valides.
+- [ ] 27 courses affichees gagnees, plus Dusty 8.
+- [ ] Huit points Job Board et Abandoned Distillery valides.
+- [ ] Les cinq mini-jeux standard ont une victoire enregistree.
+- [ ] 3/3 Field Goals, Stanley Express et defis de vehicules termines pour le
+  contenu complet, meme s'ils ne changent pas 130/130.
+- [ ] Les neuf Sewers bonus sont nettoyees si le 100 % de contenu est vise.
+- [ ] The Scorchers : 10 succes DLC valides.
+- [ ] Legends of the Wasteland : 9/9 et Road RAGE public termines.
+
+Sources de verification editoriale : liste officielle des succes Steam de
+RAGE, repartition du compteur 130/130, cartes, schematics, jumps, courses,
+missions bonus et mode Legends. Les emplacements sont reformules et ordonnes
+pour une progression chronologique sans spoiler narratif.
