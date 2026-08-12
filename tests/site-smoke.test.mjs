@@ -45,6 +45,8 @@ test("le shell statique conserve les repères accessibles", () => {
   assert.match(pageSource, /visibleGuides\.findIndex/);
   assert.match(pageSource, /className="catalog-index"/);
   assert.match(pageSource, /searchParams\.set\("letter", catalogLetter\)/);
+  assert.match(pageSource, /const effectiveCatalogLimit = catalogLimit/);
+  assert.match(pageSource, /disabled={!availableCatalogLetters\.has\(letter\)}/);
   assert.match(readerSource, /className="reader-neighbors"/);
   assert.match(readerSource, /position A–Z/);
   assert.doesNotMatch(index, /favorite-toggle|Afficher les guides favoris|Favoris \(/i);

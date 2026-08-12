@@ -3090,7 +3090,7 @@ export default function Home() {
     ),
     [catalogLetter, catalogMatches],
   );
-  const effectiveCatalogLimit = catalogSearch || catalogFilter !== "all" ? 24 : catalogLimit;
+  const effectiveCatalogLimit = catalogLimit;
   const displayedGuides = visibleGuides.slice(0, effectiveCatalogLimit);
 
   // These values come from browser-only storage and must hydrate after the static shell mounts.
