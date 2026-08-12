@@ -1,124 +1,853 @@
 HALF-LIFE 2
-GUIDE CHRONOLOGIQUE 100 % STEAM - SANS SPOILER
+GUIDE CHRONOLOGIQUE COMPLET - 100 % STEAM - SANS SPOILER
 
-Version de travail : 10 aout 2026
+Version editoriale : 12 aout 2026
+Plateforme ciblee : Steam - AppID 220
+Perimetre : Half-Life 2, Episode One et Episode Two reunis dans la fiche Steam,
+69 succes Steam, toutes les caches Lambda, les caches radar, les caches toile,
+les larves, les actions uniques et les runs a contrainte.
 
-Ce parcours couvre les 69 succes Steam de l'AppID 220 : Half-Life 2, Episode
-One et Episode Two. Il integre les caches, actions uniques, combats speciaux,
-les citoyens a proteger, le gnome et les objectifs sans mort. Aucun passage ne
-revele une mort, une identite, une fin ou un retournement.
+PROMESSE DE LA FICHE
 
-OBJECTIF
+Cette fiche est une route suivable, pas une liste de succes posee a la fin.
+Chaque chapitre indique quoi faire, quoi ramasser, quel detour prendre avant
+la transition et quelle sauvegarde conserver. Les noms de lieux, chapitres,
+ennemis et succes servent uniquement de reperes pratiques : aucun evenement
+narratif, aucune identite, aucune mort, aucun retournement et aucune conclusion
+ne sont racontes.
 
-[ ] 69/69 succes Steam.
-[ ] Campagne de base, Episode One et Episode Two dans l'ordre.
-[ ] Caches Lambda, caches radar et caches de toile.
-[ ] Sauvegardes dediees pour les actions uniques et les runs contraignantes.
-[ ] Citoyens proteges, noyau preserve et objectifs de vehicules valides.
+OBJECTIF 100 %
+
+- 69/69 succes Steam de l'AppID 220.
+- Half-Life 2 : 45 caches Lambda, 6 gunships, les caches de chapitre et les
+  actions de physique.
+- Episode One : 13 objectifs propres a l'episode, les conditions du noyau,
+  les fusées eclairantes, les citoyens et les vehicules.
+- Episode Two : 5 caches radar, 9 caches toile, 333 larves, le gnome, les
+  defenses de White Forest et toutes les actions de conduite.
+- Une route principale confortable et des sauvegardes dediees pour Zombie
+  Chopper, Keep Off the Sand!, Pacifist, The One Free Bullet et le gnome.
+
+COMMENT UTILISER LA FICHE
+
+- Fais une sauvegarde manuelle au debut de chaque chapitre et une seconde
+  sauvegarde avant chaque action unique. N'ecrase pas la sauvegarde de depart
+  d'un chapitre tant que son compteur n'est pas confirme.
+- Quand une cache est indiquee, ne franchis pas la porte, le tunnel ou la zone
+  de chargement suivante avant d'avoir verifie son numero.
+- Pour les compteurs, la notification Steam compte. Si une notification ne
+  s'affiche pas, recharge avant la transition et refais l'action.
+- Les objets physiques non explosifs sont recommandes pour Bone Breaker. Les
+  barils explosifs, bonbonnes et bidons ne remplacent pas les objets lances.
+- Les succes sans contrainte de difficulte peuvent etre faits en Facile ou en
+  Normal. Les combats de defense sont plus lisibles en Facile.
 
 GARDE-FOUS ABSOLUS
 
-- Fais une sauvegarde manuelle au debut de chaque chapitre et avant chaque
-  action unique. Ne compte pas sur une sauvegarde automatique.
-- Les objectifs "Zombie Chopper", "Keep Off the Sand!", "Citizen Escort",
-  "Pacifist", "The One Free Bullet" et "Little Rocket Man" demandent des
-  routes dediees. Ne les melange pas sans sauvegarde de secours.
-- Les caches Lambda doivent etre cochees par chapitre. Les caches radar et
-  les objectifs d'Episode Two ont leurs propres listes.
-- Le mode en ligne n'est pas necessaire : les 69 succes sont obtenables en
-  solo, avec uniquement des sauvegardes manuelles et de la patience.
+- N'utilise pas sv_cheats, les commandes de spawn ou les cartes chargees par la
+  console pour la route principale : garde les succes sur une sauvegarde propre.
+- Pour Submissive et Defiant, sauvegarde avant le premier ordre donne par le
+  policier avec la canette. Les deux choix sont mutuellement exclusifs dans la
+  meme branche.
+- Pour Zombie Chopper, la sauvegarde de depart de Ravenholm est dediee : ne
+  tire aucune arme classique avant la sortie des mines.
+- Pour Keep Off the Sand!, sauvegarde avant la plage et ne touche jamais le
+  sable jusqu'a la corniche de sortie.
+- Pour The One Free Bullet, lance un episode One neuf. Le seul tir autorise est
+  celui qui ouvre le cadenas obligatoire apres l'obtention du pistolet.
+- Pour Pacifist, garde une sauvegarde avant le noyau de la Citadelle et ne tue
+  aucun stalker. Les projectiles d'energie doivent etre places puis franchis
+  rapidement.
+- Pour Little Rocket Man, garde le gnome en vue et fais une sauvegarde a chaque
+  transition de carte. Pose-le sur un sol immobile, jamais sur une voiture, une
+  caisse ou un ascenseur.
+- Les compteurs 45 caches Lambda et 333 larves sont a traiter sur une meme
+  progression de campagne. Les sauvegardes servent a corriger une erreur,
+  pas a melanger plusieurs routes.
 
-MISSABLES A SECURISER
+MISSABLES A SECURISER AVANT LES TRANSITIONS
 
-- Missables principaux : What cat?, Two Points, Vorticough, Zombie Chopper,
-  Keep Off the Sand!, Targetted Advertising, Counter-Sniper, Citizen Escort,
-  Pacifist, One Free Bullet, Little Rocket Man, caches radar et caches de
-  toile. Une sauvegarde par chapitre permet de les reprendre sans refaire
-  toute la campagne.
+- Les missables de Half-Life 2 sont Submissive/Defiant, What cat?, les 45
+  caches Lambda, Vorticough, Barnacle Bowling, Zombie Chopper, Keep Off the
+  Sand!, Targetted Advertising, OSHA Violation, Counter-Sniper, Citizen Escort,
+  Flushed, Hack Attack! et Bug Hunt.
+- Les missables d'Episode One sont Think Fast!, Conservationist, Pacifist,
+  Car Crusher, The One Free Bullet, Zombie-que, Live Bait, Attica! et Citizen
+  Escort. Les sauvegardes de chapitre doivent etre conservees jusqu'a la
+  notification Steam.
+- Les missables d'Episode Two sont le gnome, les 333 larves, les 9 caches toile,
+  les 5 caches radar, Payback, Puttin' On a Clinic, Quiet Mountain Getaway,
+  Pedal to the Metal, Hit and Run et Neighborhood Watch.
 
-ORDRE DE PARTIE RECOMMANDE
+PLAN DES PARTIES
 
-1. RUN PRINCIPALE PROPRE - HALF-LIFE 2
+PARTIE 1 - HALF-LIFE 2 DE BASE
 
-- Dans Point Insertion, valide Malcontent et Trusty Hardware puis fouille les
-  appartements avant la sortie. Casse le mini-teleporteur de Kleiner pour
-  What cat? et garde une sauvegarde avant la scene suivante.
-- Dans Route Kanal et Water Hazard, avance sans detruire les caches Lambda.
-  Fais Barnacle Bowling avec un baril, puis cherche la grotte cachee de
-  Vorticough avant de quitter le chapitre.
-- Dans Black Mesa East, recupere le Gravity Gun. Avant la sortie, fais Two
-  Points avec la balle de DOG et recupere la plaque de combinaison de la cour
-  d'Eli pour Blast from the Past.
-- Fais Ravenholm dans une sauvegarde dediee pour Zombie Chopper : aucune arme
-  a feu ni grenade pour les eliminations. Tu peux garder une autre sauvegarde
-  avant d'entrer si tu veux securiser le reste.
-- Dans Highway 17, remplis les caches Lambda, realise Targetted Advertising
-  avec l'arbalete et protege les resistants. Conserve les sauvegardes avant
-  les combats de vehicules.
-- Dans Sandtraps, active Keep Off the Sand! sur une route sans toucher le
-  sable. Utilise ensuite les phéromones pour Bug Hunt et garde l'ouvrier acide
-  pour Acid Reflex.
-- Dans Nova Prospekt, valide les deux affrontements de tourelles, les actions
-  de grenade et de Manhack. Un rechargement au debut du chapitre simplifie
-  Warden Freeman, Hack Attack! et les variantes de combat.
-- Dans Anticitizen One et Follow Freeman, recrute l'escouade, neutralise les
-  generateurs, tue les snipers de City 17 et protege les citoyens escortes.
-  Fais une sauvegarde avant chaque place ouverte pour Plaza Defender,
-  Counter-Sniper et Citizen Escort.
-- Dans Our Benefactors, valide Containment, Watch Your Head! et les actions
-  d'energie. Pour Pacifist, recharge une sauvegarde dediee et n'elimine aucun
-  stalker pendant le noyau.
-- Dans Dark Energy, termine la campagne de base. Les succes narratifs se
-  declenchent automatiquement si les chapitres precedents sont valides.
+- Fais la route de base avec les 45 caches Lambda.
+- Valide Submissive, puis recharge la sauvegarde pour Defiant.
+- Fais Zombie Chopper sur une sauvegarde separee de Ravenholm.
+- Fais Keep Off the Sand! sur une sauvegarde separee de Sandtraps.
+- Fais les actions de gunship, de snipers, de générateurs et de citoyens dans
+  la route indiquee.
 
-2. NETTOYAGE HALF-LIFE 2 APRES LA CAMPAGNE
+PARTIE 2 - EPISODE ONE
 
-- Consulte la liste Steam et compare chaque nom : Malcontent, Trusty
-  Hardware, Anchor's Aweigh!, Heavy Weapons, Revenge!, Zero-Point Energy,
-  Hallowed Ground, Where Cubbage Fears to Tread, Defiant, Radiation Levels
-  Detected, Follow Freeman, Fight the Power, One Man Army et Giant Killer.
-- Refais les actions techniques avec les sauvegardes de debut de chapitre :
-  Flushed, OSHA Violation, Atomizer, What cat?, Two Points, Targetted
-  Advertising, Counter-Sniper, Hack Attack!, Attica!, Twofer, Gunishment!,
-  Deadly Harvest, Hot Potat0wned, Think Fast!, Grave Robber et Barnacle
-  Bowling.
-- Les objectifs de collecte sont Lambda Locator, Cache Checker et les caches
-  associees aux chapitres. Note chaque cache avant la transition finale.
+- Fais un parcours propre avec Pacifist, Conservationist, Think Fast!,
+  Car Crusher, Zombie-que, Live Bait, Attica! et Citizen Escort.
+- Fais The One Free Bullet depuis un nouveau lancement d'Episode One. Une
+  sauvegarde avant le cadenas est autorisee pour une tentative, mais aucune
+  balle supplementaire ne doit etre tiree pendant la partie validee.
 
-3. EPISODE ONE
+PARTIE 3 - EPISODE TWO
 
-- Dans l'ordre des chapitres, valide Escape From City 17, Live Bait, Car
-  Crusher et les rencontres de defense. Pour les antlions, utilise une
-  sauvegarde avant l'arene afin de compter les ecrasements proprement.
-- Fais Zombie-que avec les fusées eclairantes, puis recherche les caches de
-  toile avant la fin. Les actions de vehicule et de chopper doivent etre
-  faites avant de quitter leur zone.
-- Compare la liste Steam : Live Bait, Car Crusher, Zombie-que, Elevator
-  Action, Into the Breach, Attica!, Exfiltration, et les objectifs de noyau.
+- Garde le gnome du debut jusqu'a la fusée.
+- Suis les compteurs de larves par groupes et casse les 9 caches toile avant
+  de quitter les cavernes.
+- Fais les 5 caches radar dans Under the Radar, puis les defenses de White
+  Forest sans laisser les trois batiments exterieurs etre detruits.
 
-4. EPISODE TWO
+ROUTE 1 - HALF-LIFE 2
 
-- Dans les premiers chapitres, garde le gnome avec toi uniquement sur une
-  sauvegarde dediee pour Little Rocket Man. Ne l'abandonne pas dans un sas et
-  conserve une seconde sauvegarde pour jouer confortablement.
-- Dans Under the Radar, recupere toutes les caches radar et valide Gordon
-  Propelled Rocket. Dans les zones de convoi, realise Hit and Run avec la
-  voiture sans rater le compte.
-- A White Forest, protege les batiments, gagne la course de DOG et termine
-  les defenses. Pour Puttin' On a Clinic, sauvegarde juste avant l'affrontement
-  du chopper et ne rate aucun tir requis.
-- Termine avec Piñata Party, Get Some Grub, Neighborhood Watch, Payback,
-  Conservationist et les objectifs de missile. Compare les 69 cases Steam
-  avant de quitter le menu de fin.
+CHAPITRE 1 - POINT INSERTION
 
-CHECKLIST FINALE 69/69
+1. Traverse la gare et les premiers appartements en suivant les objectifs.
+   Quand la canette tombe devant toi, fais une sauvegarde manuelle avant de
+   choisir une reponse.
+2. Pour Submissive, mets la canette dans la poubelle. Pour Defiant, recharge
+   cette sauvegarde et lance-la sur le policier. Garde ensuite la branche que
+   tu veux utiliser pour la route principale.
+3. Termine la fuite de l'immeuble. Malcontent se valide en progressant.
+4. Fouille les petites pieces accessibles avant chaque porte de sortie : les
+   trousses de soin et de combinaison sont les reperes utiles de ce chapitre.
 
-[ ] Half-Life 2 : chapitres, caches Lambda, Ravenholm et actions uniques.
-[ ] Episode One : defenses, vehicules, caches et actions de chopper.
-[ ] Episode Two : gnome, caches radar, caches de toile, fourmis, vehicules,
-    missile, village et defenses.
-[ ] One Free Bullet realise dans une sauvegarde dediee si necessaire.
-[ ] Pacifist realise sans tuer les stalkers dans le noyau.
-[ ] 69/69 succes visibles dans Steam.
+CHAPITRE 2 - A RED LETTER DAY
+
+1. Rejoins le laboratoire de Kleiner et sauvegarde avant d'utiliser le
+   mini-teleporteur.
+2. LAMBDA 1/45 - juste a cote de la porte et du distributeur, a l'exterieur
+   du laboratoire. Approche le symbole Lambda et ouvre la cache de provisions.
+3. WHAT CAT? - dans le laboratoire, envoie plusieurs objets dans le
+   mini-teleporteur. Continue jusqu'a sa casse, puis verifie la notification.
+4. Reprends la route par les toits et rejoins Barney. Trusty Hardware se
+   valide quand il te remet le pied-de-biche.
+5. Avant de partir, verifie que la cache 1 et What cat? apparaissent bien dans
+   les statistiques du jeu.
+
+CHAPITRE 3 - ROUTE KANAL
+
+1. Apres le premier train en mouvement, entre dans le bâtiment en planches.
+   LAMBDA 2/45 - sous les planches du plancher, dans la premiere maison pres
+   des rails.
+2. LAMBDA 3/45 - dans le conduit de ventilation juste apres la maison. Casse
+   la caisse de provisions avant de ramper vers la sortie.
+3. Rejoins Station 12 et le nid de mitrailleuse. Dans le tunnel suivant,
+   LAMBDA 4/45 est derriere la voiture rouge ecrasee, sur la gauche.
+4. BARNACLE BOWLING - dans le passage en pente rempli de barnacles, prends un
+   baril explosif, fais-le monter par un barnacle puis tire-le au pistolet pour
+   toucher au moins cinq barnacles avec la meme explosion. Sauvegarde avant.
+5. Apres les premiers tirs du gunship, passe par la porte bleue et descends
+   les marches. LAMBDA 5/45 - sous la grille, a cote du symbole peint en bas.
+6. Dans le secteur des tuyaux et des jets de vapeur, traverse le gros tuyau
+   rouille puis descends vers le symbole derriere la grille. LAMBDA 6/45 est
+   sous le tuyau, sur la droite.
+7. Dans le passage d'egout semi-circulaire, monte l'echelle et traverse les
+   planches fragiles au-dessus de l'eau. LAMBDA 7/45 est au bout, pres des
+   caisses de soins.
+8. En sortant de ce passage, repere le symbole pres du tuyau jaune. Descends
+   puis utilise les planches pour rejoindre les tuyaux. LAMBDA 8/45 est la
+   derniere cache du chapitre.
+9. Atteins l'aeroglisseur. Anchor's Aweigh! se valide quand tu le prends.
+
+CHAPITRE 4 - WATER HAZARD
+
+1. Apres le premier saut de l'aeroglisseur, gare-toi pres du mur Lambda a
+   droite et monte l'echelle. LAMBDA 9/45 - passerelle du debut.
+2. Dans la zone de chargement rouge, monte pres de la grue et retire le baril
+   du treuil. LAMBDA 10/45 - caisse suspendue par la grue.
+3. Apres la rampe mobile et le transport de soldats, entre dans le tuyau de
+   drainage ouvert sur la droite. LAMBDA 11/45 - au bout du tuyau inonde.
+4. Apres la premiere ecluse et les véhicules blindés, sors de l'aeroglisseur
+   sous le blindé et entre dans le drainage. LAMBDA 12/45 - sous l'APC.
+5. Dans la zone calme de tuyaux en beton, retire les briques du panier de
+   contrepoids. LAMBDA 13/45 - le panier descend avec les provisions.
+6. Apres la deuxieme ecluse, passe sous le pont avec le camion-citerne et le
+   wagon. LAMBDA 14/45 - sous le cote gauche du pont.
+7. Pendant la poursuite du chopper, traverse le grand bassin et heurte les
+   echafaudages en bois. LAMBDA 15/45 - dans les caisses tombees dans le bassin.
+8. Plus loin, repere le vieux camion de remorquage bleu contre le canal.
+   Monte la pente a gauche avec l'aeroglisseur. LAMBDA 16/45 - entre les
+   bâtiments au-dessus du canal.
+9. En sortant du canal, tourne immédiatement a gauche vers le trop-plein.
+   LAMBDA 17/45 - dans le passage de drainage pres du pont.
+10. Apres l'installation de la mitrailleuse, repere le bâtiment marque Port 5.
+    A la bifurcation, prends a droite vers le refuge. LAMBDA 18/45.
+11. Heavy Weapons se valide quand la mitrailleuse est installee sur
+    l'aeroglisseur. Termine ensuite le combat du chopper : Revenge! se valide
+    avec sa destruction.
+12. VORTICOUGH - apres le combat du gunship et l'ouverture de la porte,
+    prends le tuyau de drainage de gauche au fond de la zone. Traverse vite la
+    partie toxique pour atteindre la grotte cachee et la notification.
+
+CHAPITRE 5 - BLACK MESA EAST
+
+1. En descendant de l'aeroglisseur, monte l'echelle signalee par le symbole.
+   LAMBDA 19/45 se valide pres de la centrale.
+2. Dans la casse d'Eli, apres l'obtention du Gravity Gun, attire les barils
+   vers la plateforme et monte sur la petite corniche pres de l'airlock.
+   BLAST FROM THE PAST - recupere la plaque de chargeur HEV.
+3. Quand DOG te donne sa balle dans la casse, sauvegarde. TWO POINTS - utilise
+   le Gravity Gun pour faire passer la balle dans le panier. Recharge jusqu'a
+   obtenir la notification avant le départ de la casse.
+4. Zero-Point Energy se valide automatiquement quand tu obtiens le Gravity Gun.
+5. Pour FLUSHED, si tu ne l'as pas encore fait, garde cette possibilite pour
+   le cabinet de Nova Prospekt : lance un toilette avec le Gravity Gun sur un
+   ennemi et verifie la notification.
+6. Rejoins le tunnel vers Ravenholm. A partir de la sauvegarde d'entree,
+   active la route dediee a Zombie Chopper si elle n'est pas deja validee.
+
+CHAPITRE 6 - WE DON'T GO TO RAVENHOLM...
+
+1. Sauvegarde au panneau de debut de chapitre. Pour ZOMBIE CHOPPER, n'utilise
+   que le Gravity Gun : lames, scies, barils, bouteilles de gaz et autres
+   objets tires par le Gravity Gun sont autorises. N'utilise ni pistolet,
+   ni fusil, ni arbalete, ni grenade lancee a la main.
+2. Apres la premiere rencontre avec le pere Grigori, monte sur les deux gros
+   generateurs verts et entre dans le conduit. LAMBDA 20/45.
+3. Dans la zone des voitures-pieges, active la deuxieme voiture, monte dessus
+   et saute derriere la cloture portant le symbole. LAMBDA 21/45.
+4. Dans la rue suivante, monte l'echelle au bout, traverse la planche et
+   entre dans le trou du toit en tole. LAMBDA 22/45 - grenier.
+5. Apres les mines, juste avant de quitter le tunnel vers la lumière, retourne
+   le regard vers l'entree. Empile les caisses au-dessus de la sortie.
+   LAMBDA 23/45 - plateforme au-dessus du tunnel.
+6. Hallowed Ground se valide en escortant Grigori dans le cimetiere. Pour la
+   route sans arme, utilise les pieges et les objets du décor, jamais une arme.
+7. Quand tu sors des mines, fais une sauvegarde distincte. Tu peux alors
+   utiliser les armes normales pour le reste de la partie.
+
+CHAPITRE 7 - HIGHWAY 17
+
+1. Apres la recuperation du buggy et le saut du pont casse, cherche la maison
+   rouge avant le tunnel. LAMBDA 24/45 - a l'interieur.
+2. Pres du premier thumper, ouvre la trappe de cave de la maison blanche et
+   empile les objets pour monter. LAMBDA 25/45.
+3. Defends Little Odessa et detruis le premier gunship. C'est le gunship 1/6
+   pour One Man Army, et Where Cubbage Fears to Tread se valide ici.
+4. Dans la zone du port apres le premier gunship, prends le controle de la
+   grue. OSHA VIOLATION - ecrase trois soldats avec le bras ou la charge de
+   la grue avant de remonter le buggy.
+5. Apres le deuxieme gunship, repere le van bleu accidente sur le bord de la
+   route. LAMBDA 26/45 - provisions dans le van.
+6. Au barrage avec l'arbalete, vise le soldat place devant le grand panneau
+   publicitaire et plante-le avec une barre d'acier. TARGETTED ADVERTISING.
+7. Dans la zone de la station-service, cherche la cloture brisee autour du
+   réservoir. Empile un objet et passe de l'autre cote. LAMBDA 27/45.
+8. Avant la maison pres du pont ferroviaire, repere les rochers a gauche.
+   Derriere eux, une petite zone cloturee contient LAMBDA 28/45.
+9. Detruis le gunship de la route pres du pont : c'est le gunship 2/6. Le
+   gunship 3/6 est celui qui apparait apres la desactivation du champ de force
+   du pont. Prends les roquettes sous le pont pour un tir protege.
+
+CHAPITRE 8 - SANDTRAPS
+
+1. Dans l'avant-poste bloque par un camion-citerne brule, alimente la porte
+   avec les batteries, puis regarde au-dessus du plafond des toilettes.
+   Utilise le Gravity Gun pour attirer les provisions : LAMBDA 29/45.
+2. Sauvegarde avant la plage. KEEP OFF THE SAND! - pars des rochers, utilise
+   les planches, portes et caisses comme passerelles et ne pose aucun pied sur
+   le sable. Stabilise la bascule en bois avec les grosses caisses, puis
+   rejoins la corniche de sortie. Recharge au moindre contact suspect.
+3. Sur la plage, au niveau des cabanes rouges, empile les objets ou utilise la
+   longue planche pour monter sur les toits. LAMBDA 30/45.
+4. Apres la rencontre qui fournit les phéromones, lance-les sur les groupes
+   d'ennemis et laisse les antlions faire les eliminations. BUG HUNT demande
+   50 ennemis tues par les antlions dans cette progression; continue dans
+   Nova Prospekt si le compteur n'est pas encore atteint.
+5. Le gunship de la defense du phare est le gunship 4/6. Les deux gunships de
+   la cour avant Nova Prospekt sont les gunships 5/6 et 6/6. Confirme One Man
+   Army avant de quitter la plage.
+
+CHAPITRE 9 - NOVA PROSPEKT
+
+1. Dans la premiere zone aux trois piliers et aux tourelles, ouvre la petite
+   porte marquee par le symbole. LAMBDA 31/45 - derriere les planches.
+2. Apres la salle du Vortigaunt assis, monte a l'etage, passe le fil laser et
+   ouvre la cellule marquee. LAMBDA 32/45.
+3. Dans la grande buanderie, reste sur le cote droit et ouvre la piece avec le
+   zombie toxique. LAMBDA 33/45.
+4. FLUSHED - dans une salle de toilettes de Nova Prospekt, arrache un lavabo
+   ou un toilette avec le Gravity Gun et tue un ennemi avec l'objet. Fais une
+   sauvegarde avant le groupe d'ennemis.
+5. HACK ATTACK! - attrape cinq Manhacks au Gravity Gun et utilise-les pour
+   tuer des ennemis. Les tenir contre un soldat jusqu'a l'elimination compte;
+   sauvegarde avant la salle pour recommencer sans perdre la progression.
+6. Fais les deux defenses de tourelles avec les antlions et les tourelles
+   deployables. La seconde defense continue dans Entanglement : ne quitte pas
+   la zone avant la notification de Warden Freeman.
+
+CHAPITRE 10 - ENTANGLEMENT
+
+1. Apres la separation, suis la porte ouverte et regarde le distributeur sur
+   la gauche. Tire les objets poses au-dessus avec le Gravity Gun.
+   LAMBDA 34/45.
+2. Pour WARDEN FREEMAN, place trois tourelles dans des angles differents de
+   l'aire de defense. Garde une tourelle pres du couloir d'arrivee, une pres
+   de la zone centrale et une pres des cellules. Utilise les recharges de vie
+   et de combinaison entre les vagues.
+3. Reste dans l'aire jusqu'a l'ouverture de la teleporteuse et verifie la
+   notification. Si elle n'apparait pas, recharge la sauvegarde de debut de
+   la deuxieme defense et recommence en evitant de laisser les tourelles se
+   retourner contre toi.
+4. Termine le chapitre, puis fais une sauvegarde avant la sortie vers la ville
+   pour les objectifs de snipers et de citoyens.
+
+CHAPITRE 11 - ANTICITIZEN ONE
+
+1. Apres la descente de l'ascenseur, trouve les deux conteneurs verts et le
+   grand conteneur bleu sur la droite. Empile les caisses sur les verts pour
+   atteindre le rebord. LAMBDA 35/45.
+2. Rejoins les resistants et utilise la touche d'escouade pour leur donner un
+   ordre de déplacement. FOLLOW FREEMAN se valide quand tu prends le controle
+   d'une escouade.
+3. Dans la premiere grande place, defend le generateur sans quitter la zone
+   avant la fin de l'affrontement. PLAZA DEFENDER se valide si la defense est
+   menee jusqu'au bout.
+4. Dans la zone de la petite cabane rouge, sous la fenetre d'un soldat,
+   deplace la plaque de metal pour atteindre LAMBDA 36/45.
+5. Dans les souterrains avec tourelles, passe par le trou puis monte par les
+   escaliers de droite. Ouvre les caisses pres du symbole : LAMBDA 37/45.
+6. Apres le grand mur de gravats, retourne-toi avant de continuer. Le petit
+   refuge avec feu de camp contient LAMBDA 38/45.
+7. Quand un resistant baisse le premier pont, avance jusqu'au prochain pont
+   que tu dois actionner. Juste avant, pres du symbole sur le mur, ouvre
+   LAMBDA 39/45.
+8. Dans le bâtiment ou resistants et Combine s'affrontent, descends aux niveaux
+   inferieurs. Une porte marquee donne sur la piece de LAMBDA 40/45; attire
+   les provisions a travers la grille.
+9. Apres la defense du generateur d'Alyx, descends dans le souterrain et
+   cherche la petite plateforme a cote de l'echelle. LAMBDA 41/45.
+10. Dans l'egout avec la grande paroi centrale, prends le cote du petit trou
+    marque Lambda et attire les provisions. LAMBDA 42/45.
+11. Peu apres, prends le passage de gauche avec les tuyaux servant de marches.
+    La cache au bout est LAMBDA 43/45.
+12. Apres le grand ascenseur, ne saute pas encore vers la sortie. Fais le tour
+    de la salle rouge et ouvre la cache dans l'angle : LAMBDA 44/45.
+13. COUNTER-SNIPER - dans les rues de City 17, repere les cinq faisceaux rouges
+    qui partent des fenetres. Lance une grenade dans chaque ouverture et ne
+    passe a la rue suivante qu'apres extinction de tous les lasers.
+14. RADIATION LEVELS DETECTED - traverse le tunnel toxique sous la ville avec
+    suffisamment de vie et de combinaison. Ne quitte pas le chemin principal
+    de tuyaux avant la sortie.
+15. CITIZEN ESCORT - avant la section ou les citoyens rejoignent le train,
+    sauvegarde. Reste devant l'escouade, elimine les ennemis des fenetres et
+    des toits, et attends que chaque citoyen franchisse les portes avant de
+    declencher la zone suivante. Aucun citoyen ne doit etre perdu.
+
+CHAPITRE 12 - FOLLOW FREEMAN!
+
+1. Apres plusieurs combats de rues, passe sous le grand viaduc. Quand un
+   Strider brise le passage derriere toi, prends l'ouverture de gauche puis
+   descends dans le bâtiment voisin. LAMBDA 45/45 - a l'interieur, apres la
+   cage d'escalier et le trou vers le bâtiment adjacent.
+2. FIGHT THE POWER - desactive les générateurs de l'appareil de suppression
+   dans l'ordre demande par la zone. Verifie que le champ se coupe avant de
+   repartir.
+3. Continue jusqu'au combat sur les toits. GIANT KILLER se valide en
+   survivant a la bataille de Striders et en rejoignant la zone suivante.
+
+CHAPITRE 13 - OUR BENEFACTORS
+
+1. Sauvegarde avant le grand ascenseur de la Citadelle. WATCH YOUR HEAD! -
+   atteins le bas de la cage d'ascenseur sans tomber ni etre ecrase.
+2. Dans les zones de champs d'energie, attrape les soldats avec le Gravity Gun
+   amplifie et lance-les dans un champ. ATOMIZER demande 15 soldats
+   desintegres de cette façon; utilise les recharges et les sauvegardes.
+3. THINK FAST! - quand un soldat Elite tire une boule d'energie, attrape-la
+   au Gravity Gun et renvoie-la au soldat qui vient de la lancer.
+4. SINGULARITY COLLAPSE se valide en terminant la séquence du coeur. Les
+   actions de la salle sont obligatoires pour progresser.
+
+CHAPITRE 14 - DARK ENERGY
+
+1. Termine le dernier chapitre de la campagne de base. Les objectifs liés a la
+   progression se valident automatiquement si les actions ci-dessus sont
+   confirmees.
+2. Ouvre le menu des succes et verifie : 45/45 caches Lambda, One Man Army,
+   Bug Hunt, Counter-Sniper, Citizen Escort, puis Singularity Collapse.
+
+NETTOYAGE HALF-LIFE 2 DE BASE
+
+- Si Submissive ou Defiant manque, recharge la sauvegarde de la canette et
+  fais l'autre choix.
+- Si Lambda Locator manque, ouvre le suivi des caches et compare les numeros
+  1 a 45. Les caches sont conservees par numero de chapitre; refais uniquement
+  la cache manquante avec la selection de chapitre.
+- Si Bug Hunt manque, recharge Sandtraps avant l'obtention des pheromones et
+  fais tuer les ennemis par les antlions jusqu'a 50 dans la meme progression.
+- Si One Man Army manque, la sequence a verifier est : Little Odessa, port,
+  pont de Highway 17, phare, puis deux gunships de l'arrivee a Nova Prospekt.
+- Si Counter-Sniper manque, reprends Anticitizen One et detruis les cinq
+  positions de sniper avant d'utiliser la transition de rue.
+- Si Citizen Escort manque, reprends la sauvegarde avant l'escorte et ne
+  franchis pas les declencheurs de zone avant que tous les citoyens soient
+  regroupes.
+
+ROUTE 2 - HALF-LIFE 2: EPISODE ONE
+
+AVANT L'EPISODE
+
+- Lance Episode One depuis un nouveau parcours pour The One Free Bullet.
+- Fais une sauvegarde de secours au debut de chaque chapitre.
+- Les objets lances par le Gravity Gun, le pied-de-biche, les grenades et les
+  roquettes sont autorises pour cette contrainte; le tir primaire d'une arme
+  a feu ne l'est pas.
+
+CHAPITRE 1 - UNDUE ALARM
+
+1. Dans la Citadelle, suis le chemin des ascenseurs et utilise les abris quand
+   les sections se mettent en mouvement.
+2. WATCH YOUR HEAD! se valide en atteignant le bas de la grande cage
+   d'ascenseur sans tomber. Sauvegarde avant la descente si tu veux combiner
+   l'objectif avec la route sans balle.
+
+CHAPITRE 2 - DIRECT INTERVENTION
+
+1. Apres la sortie des portes, sauvegarde dans le couloir et attends qu'un
+   Elite lance sa boule d'energie. Attrape-la et renvoie-la a son tireur :
+   THINK FAST! Le tir doit detruire l'Elite qui l'a lancee.
+2. Dans la section des ponts d'energie, conserve une sauvegarde avant la
+   premiere passerelle. PACIFIST - ne tue aucun stalker. Place les boules,
+   traverse les ponts des qu'ils sont actifs et utilise le bouton final sans
+   tirer dans les stalkers.
+3. Pour CONSERVATIONIST, dans le couloir ou plusieurs soldats arrivent,
+   sauvegarde, groupe cinq ennemis et lance la meme boule d'energie contre
+   chacun. Une seule boule doit faire les cinq eliminations.
+4. Reforme les trois stabilisateurs du noyau. CONTAINMENT se valide a la fin
+   de la sequence; PACIFIST se valide au meme moment si aucun stalker n'a ete
+   tue.
+
+CHAPITRE 3 - LOWLIFE
+
+1. CAR CRUSHER - dans la premiere grande zone de stationnement avec les trous
+   d'antlions, active la roue puis utilise la voiture verte pour ecraser 15
+   antlions avant de boucher le trou. Fais une sauvegarde avant la roue.
+2. THE ONE FREE BULLET - quand tu recuperes le pistolet, ouvre le cadenas de
+   la porte avec exactement une balle. Tire une seule fois, de preference avec
+   le pistolet et non le fusil a pompe. A partir de la, n'utilise plus aucune
+   balle, meme pour une caisse; Gravity Gun, pied-de-biche, grenades et
+   roquettes restent autorises.
+3. Dans la zone de l'ascenseur prive d'electricite, suis le cable jusqu'au
+   boitier et sauvegarde juste avant de le reactiver. Des vagues de zombies et
+   de zombines arrivent.
+4. ZOMBIE-QUE - prends les fusees eclairantes de la zone et enflamme 15
+   zombies vivants. Les fusees peuvent etre reutilisees; vise les zombies
+   lents et recharge si une flamme disparait sans compter.
+5. Ne tue pas les ennemis que tu veux laisser a Alyx pour la section suivante
+   et conserve une sauvegarde avant la sortie du parking.
+
+CHAPITRE 4 - URBAN FLIGHT
+
+1. Apres le premier sniper, Alyx prend le fusil de precision. LIVE BAIT - ne
+   ferme pas les trous et ne traverse pas la porte suivante tout de suite.
+   Fais courir les zombies, antlions et soldats autour de la zone; immobilise
+   les antlions au Gravity Gun et laisse Alyx en abattre 30. Le compteur se
+   valide dans cette aire avant de continuer.
+2. Dans le garage a plusieurs niveaux, tiens la position jusqu'a l'arrivee de
+   l'ascenseur. ELEVATOR ACTION se valide en montant dans l'ascenseur.
+3. Continue par les bâtiments, les tourelles et les cages d'escalier en
+   utilisant les objets du décor si tu poursuis The One Free Bullet.
+
+CHAPITRE 5 - EXIT 17
+
+1. Rejoins le groupe de resistants puis traverse l'hopital. Dans le grenier,
+   ramasse le lance-roquettes près du corps et detruis le gunship en trois
+   tirs : ATTICA!
+2. CITIZEN ESCORT - avant la sortie vers le train, sauvegarde. Reste devant
+   les citoyens, elimine les ennemis sur les balcons, dans les fenêtres et
+   pres des wagons. Attends que tous soient dans le train avant de franchir la
+   derniere porte.
+3. ESCAPE FROM CITY 17 se valide a la fin du chapitre. Verifie ensuite
+   Zombie-que, Live Bait, Car Crusher, Pacifist et The One Free Bullet.
+
+NETTOYAGE EPISODE ONE
+
+- Pour One Free Bullet, ne te fie pas uniquement au nombre de tirs affiches :
+  une balle de fusil a pompe compte aussi. Recommence l'episode depuis une
+  nouvelle partie si une seconde balle a ete tiree.
+- Pour Zombie-que, recharge la sauvegarde du boitier electrique et utilise les
+  fusees sur les zombies vivants, pas sur les cadavres ni les headcrabs.
+- Pour Live Bait, reprends la sauvegarde apres le premier sniper et attends la
+  notification avant de boucher les trous ou d'ouvrir la grille.
+- Pour Pacifist, le point de controle utile est avant la premiere passerelle
+  du noyau. Les ennemis exterieurs du chapitre precedent ne comptent pas pour
+  cette condition.
+
+ROUTE 3 - HALF-LIFE 2: EPISODE TWO
+
+GARDE DU GNOME
+
+- Dans la salle des communications de To the White Forest, cherche le gnome
+  sous l'etagere pres de la porte de sortie. Prends-le avant de quitter la
+  salle et fais une sauvegarde.
+- A chaque chargement, pose-le sur un sol plat et verifie qu'il est encore
+  present avant de conduire ou de descendre un ascenseur.
+- Dans les combats, laisse-le dans une piece sure, puis reprends-le avant la
+  transition. La fiche signale les trois passages qui demandent un lancer
+  controle : la porte de la casse, le passage de la voiture et le garage.
+
+CHAPITRE 1 - TO THE WHITE FOREST
+
+1. Avance dans les premières mines avec le gnome. Quand le premier Zombine
+   apparait, utilise le Gravity Gun pour arracher la grenade amorcee et la
+   faire detonner sur son porteur : GRAVE ROBBER.
+2. ACID REFLEX - tue le premier Antlion Worker acide qui projette du liquide.
+   Fais-le avant de poursuivre les larves, car son attaque peut detruire des
+   larves et rendre le compteur difficile a verifier.
+3. BONE BREAKER - commence le compteur avec des caisses, scies, briques,
+   bidons non explosifs et autres objets physiques. Le coup fatal doit venir
+   de l'objet lance par le Gravity Gun.
+4. Suis le compteur de larves de la façon suivante. Double-tape au pistolet
+   les larves eloignees et verifie le nombre avant chaque zone de chargement.
+
+   - Premiere salle d'eau : 1-5 sur les murs au-dessus du point de chute.
+   - Tunnel vers le premier mur de toile : 6-8 le long des parois.
+   - Premier mur de toile : 9-11, une sur la toile et deux au sol.
+   - Chambre avec petit bassin : 12-14, deux a gauche et une pres de la toile.
+   - Tunnel suivant : 15-19 au sol, reparties avant la toile suivante.
+   - Deuxieme mur de toile : 20-23, sur la toile, au sol et en hauteur.
+   - Retour apres l'Antlion acide : 24-26 au sol pres de la toile.
+   - Salle du fusil a pompe : 27-28, une en face du trou et une dans le casier.
+   - Trou de la salle du fusil : 29-30, une au bord et une au fond.
+
+5. Apres la transition vers la grande caverne, vise les totaux suivants :
+
+   - Debut de la nouvelle carte : 32/333, dans le tunnel avant la grande salle.
+   - Premier rocher et mur de toile : 49/333, murs, plafond et trous lumineux.
+   - Deuxieme section de la salle : 56/333, sol et parois pres de l'eau.
+   - Troisieme section : 60/333, deux alcoves et une larve sous l'eau.
+   - Sortie de la zone d'eau : 67/333, mur, barque et alcoves a barnacles.
+   - Chambre avec le nouvel Antlion acide : 70/333, sol et mur pres de la sortie.
+   - Tunnel inonde suivant : 77/333, toile murale et larves du fond.
+   - Tunnel avant la grande chambre : 80/333, deux au sol puis une sur la droite.
+   - Grande chambre apres les trois Antlions acides : 87/333, alcove, pilier et
+     tunnel de sortie.
+   - Dernier mur de toile de la carte : 91/333, une sur la toile et trois dans
+     le passage. Fais une sauvegarde avant le chargement de This Vortal Coil.
+
+6. WEB CACHE 1/9 - dans le premier grand secteur inonde, plonge dans le
+   bassin avant le tunnel sous-marin, puis casse la toile lumineuse au fond.
+   Ouvre les deux parois de toile qui protegent les provisions.
+7. Avant de changer de chapitre, range le gnome dans une zone facile a
+   retrouver et fais une sauvegarde de transition.
+
+CHAPITRE 2 - THIS VORTAL COIL
+
+1. Au debut de la carte, ecrase les deux larves devant toi : le total doit
+   passer a 93/333. Dans la chambre de soin, pose le gnome pres d'un mur et
+   sauvegarde avant la defense.
+2. DEADLY HARVEST - prends une mine Hopper, pose-la au sol sur le chemin d'un
+   Antlion et attends qu'elle s'active. Une mine jetee directement ne compte
+   pas de la meme façon.
+3. INTO THE BREACH - participe aux vagues d'Antlions autour de la chambre.
+   Repartis les tourelles vers les quatre passages et tiens la position jusqu'a
+   l'arrivee des renforts. Ne repars pas avant la notification.
+4. Reprends le tunnel avec le Vortigaunt. Les checkpoints de larves a
+   respecter dans cette première boucle sont :
+
+   - 94-98 : trois larves dans le passage puis deux avant la premiere toile.
+   - 99-102 : une devant WEB CACHE 2/9 et trois dans la cache.
+   - 103-105 : trois larves pres de la toile suivante.
+   - 106-111 : trois au sol, une en contrebas et deux sur la paroi gauche.
+   - 112-114 : une au sol puis deux sur la paroi avant l'alcove.
+   - 115-118 : deux au plafond et deux au sol pres de la sortie.
+   - 119-120 : WEB CACHE 3/9 dans le tunnel a droite, deux larves a l'interieur.
+   - 121-130 : grande chambre, deux au sol, quatre sur le mur, une sur la
+     corniche, une au sol et deux pres de la sortie.
+   - 131-134 : deux au sol puis WEB CACHE 4/9 en hauteur, avec deux larves.
+   - 135-139 : trois dans le tunnel, puis deux sur le mur droit.
+   - 140-142 : deux larves sous WEB CACHE 5/9 et une a l'interieur. La cache
+     libere une grenade : ouvre-la en te tenant sur le cote.
+   - 143-148 : trois a l'atterrissage puis trois pres du bidon rouge.
+   - 149-156 : depuis l'ascenseur, trois au-dessus du puits, deux groupes au
+     sol et trois pres de la salle inferieure.
+
+5. Dans la salle de l'ascenseur, pousse les poutres pour le faire monter et
+   controle les larves des murs avant de continuer. Les groupes suivants sont
+   la suite du compteur :
+
+   - 157-165 : derriere la grille, sous l'ascenseur et sur les murs du puits.
+   - 166-171 : niveau superieur, une derriere l'ascenseur, puis trois et deux
+     le long des rails.
+   - 172-176 : une dans le wagonnet et quatre autour de la cavite lumineuse.
+   - 177-185 : neuf sur les rails; le wagonnet peut en ecraser plusieurs,
+     verifie les murs et le sol apres son passage.
+   - 186-197 : sortie du wagonnet, trois au-dessus de l'eau, trois en haut,
+     une pres de l'echelle, deux sur la paroi et trois plus bas.
+   - 198-209 : remonte les rails et verifie trois sous l'alcove, trois pres du
+     bidon rouge, trois au plafond et trois pres de la voie.
+   - 210-216 : nouvelle chambre, trois a gauche, deux dans la fissure et deux
+     pres de la passerelle.
+   - 217-226 : quatre dans le trou lumineux, une au-dessus et cinq au plafond
+     de la chambre. Utilise le pistolet pour celles tres hautes.
+6. Continue a utiliser des objets non explosifs sur les ennemis jusqu'a 30
+   eliminations pour BONE BREAKER. Les barils explosifs et bonbonnes ne sont
+   pas les bons objets pour ce compteur.
+7. Les derniers groupes de la zone avant la taniere sont :
+
+   - 227-230 : deux sur le mur apres le passage barre et deux au plafond.
+   - 231-236 : deux dans le tunnel gauche sans issue, puis quatre autour des rails.
+   - 237-240 : une au bord du trou, deux sur la paroi opposee et une en bas.
+   - 241-246 : deux sous la premiere toile et quatre apres la toile suivante.
+   - 247-248 : deux sur le grand pilier dans l'eau.
+   - 249-256 : deux au plafond de l'alcove, quatre pres des barnacles et deux
+     au sol vers la sortie.
+
+8. Dans les tunnels jaunes, vise successivement 257-259 : une au debut, une
+   dans le sang et une au tournant. Dans la boucle suivante, tue les Antlions
+   acides avant de chercher 260-263 dans l'alcove gauche.
+9. La poursuite dans les tunnels jaunes contient ensuite :
+
+   - 264-272 : deux a l'entree, trois plus loin, une au point de chute, une
+     sur le mur gauche et deux au-dela de la toile.
+   - 273-278 : une alcove a gauche, deux sur le mur, une au sol et trois avant
+     la chute.
+   - 279-286 : trois au point de chute, trois pres du sol et deux a la sortie.
+   - 287-292 : trois sur le mur avant la nouvelle galerie et trois dans l'alcove.
+   - 293-295 : une a cote de la toile, puis deux a la sortie du tunnel.
+   - 296-300 : deux avant l'abri jaune et trois dans l'abri.
+   - 301-311 : trois avant le dernier tunnel, trois dans celui-ci, trois pres
+     de la toile et deux juste apres.
+
+10. WEB CACHE 6/9 - apres le dernier tunnel jaune, prends le passage de gauche,
+    casse la porte en planches et descends dans la galerie miniere. Au bout
+    des rails, franchis la toile vers la grande chambre.
+11. Fais le tour de la grande chambre dans le sens inverse des aiguilles d'une
+    montre. WEB CACHE 6/9 est dans le mur a droite de l'entree; la larve
+    312-316 est dans la cache et dans l'angle voisin.
+12. WEB CACHE 7/9 est dans le mur suivant, avec une larve juste devant. Un
+    headcrab peut tomber de la toile : reste a distance.
+13. Sur le tour suivant, les larves 317-322 sont au sol et pres de la cache du
+    plafond. WEB CACHE 8/9 est entre les poutres, a cote du barnacle.
+14. Pres de l'ascenseur, tue 323-328 : trois derriere l'ascenseur, deux au
+    plafond et une dans la derniere toile. WEB CACHE 9/9 est la cache du
+    plafond au centre de la chambre.
+15. Ouvre la sortie, cherche l'engrenage dans l'eau et place-le dans le moteur.
+    Avant de prendre l'ascenseur, verifie que les caches 6, 7, 8 et 9 sont
+    ouvertes et que le compteur de larves est 328/333.
+16. Apres l'activation du generateur, tue 329-332 : une pres du generateur et
+    trois apres la grille. Remonte ensuite avec le Vortigaunt.
+17. Sur le chemin de retour, regarde a travers les trous de la paroi brisee
+    quand le gardien s'eloigne. La larve 333 est sur le cote d'un baril
+    explosif. DETRUISE-LA pour GET SOME GRUB.
+18. Reprends le gnome avant de changer de carte. Ne quitte pas la caverne avec
+    un compteur different de 333/333 ou une cache toile manquante.
+
+CHAPITRE 3 - FREEMAN PONTIFEX
+
+1. Apres la sortie des mines, place le gnome pres d'un appareil vibrant et
+   sauvegarde. TWOFER - detruis les deux Antlion Guards de la vallée en restant
+   dans les zones protegees par les appareils.
+2. Rejoins la voiture en passant par le niveau inferieur infeste. Quand le pont
+   est incline, recupere le vehicule et ouvre la porte de l'autre cote.
+3. PASSAGE DU GNOME - avant d'ouvrir la porte metallique qui se referme vite,
+   sauvegarde. Lance doucement le gnome sur la route derriere la porte, ouvre
+   la porte avec la voiture, puis verifie qu'il est bien de l'autre cote.
+4. Place le gnome au sol entre les sieges ou dans un angle visible. Conduis
+   lentement et sauvegarde apres chaque saut ou chargement.
+
+CHAPITRE 4 - RIDING SHOTGUN
+
+1. Active la tour radio. Une embuscade de Hunters commence autour de la zone.
+   MEET THE HUNTERS se valide en survivant a l'assaut avec Alyx.
+2. PAYBACK - prends un pneu, une brouette ou un objet moyen au Gravity Gun et
+   intercepte les flechettes d'un Hunter. Renvoie l'objet charge de flechettes
+   et tue le Hunter avec sa propre salve. Sauvegarde avant l'embuscade.
+3. Continue jusqu'a la ferme. Dans la grange, elimine les premiers soldats,
+   sauvegarde dans le couloir et attends qu'un soldat lance une grenade.
+   Attrape-la au Gravity Gun et renvoie-la sur son porteur : HOT POTAT0WNED.
+4. Avant le chopper, vérifie le gnome dans la voiture. S'il tombe, recharge la
+   sauvegarde precedente; ne traverse pas le tunnel sans lui.
+5. A l'aire des resistants, pose le gnome dans un angle et sauvegarde avant le
+   chopper. Puttin' On a Clinic se fait ici : renvoie chaque mine du chopper
+   avec le Gravity Gun sans en rater une. Fais une sauvegarde rapide apres
+   chaque impact reussi; recharge immediatement si une mine est ratee.
+6. Quand le vehicule est repare ou remplace, reprends le gnome avant la carte
+   Under the Radar.
+
+CHAPITRE 5 - UNDER THE RADAR
+
+1. Dans le garage, pose le gnome sur le sol pres d'un mur. Detruis le canon
+   automatique dans la casse avec une grenade dans son poste de controle :
+   GUNISHMENT!
+2. Remonte dans la voiture. Pour HIT AND RUN, ecrase les zombies sur la route
+   et les ennemis des zones ouvertes. Fais des sauvegardes sans le gnome dans
+   la voiture, puis reprends-le apres chaque serie de victimes.
+3. Le radar devient actif. Les cinq caches doivent etre faites dans l'ordre :
+
+   - RADAR 1/5 : apres la sortie de la casse, arrete-toi au signal pres du van
+     et detruis le baril explosif pour ouvrir la voiture de ravitaillement.
+   - RADAR 2/5 : pres du grand château d'eau, prends a droite vers l'entrepot
+     ou un van blanc est encastre. Entre par le van, fais tomber la plaque
+     metallique, place une grenade dessous, monte sur la plaque et declenche
+     l'interrupteur en hauteur. Cette cache contient le lance-roquettes :
+     GORDON PROPELLED ROCKET.
+   - RADAR 3/5 : dans l'enclos de conteneurs en face de l'entrepot, entre dans
+     le petit hangar et retire la lame de scie plantee dans le sol. La cache
+     est sous la lame.
+   - RADAR 4/5 : sur la route qui monte vers White Forest Inn, arrete la
+     voiture pres de l'arbre tombe entre deux parois rocheuses. Cherche la
+     petite grotte dans la falaise, retire les rochers au Gravity Gun.
+   - RADAR 5/5 : apres White Forest Inn, descends les lacets jusqu'au signal
+     pres du panneau fleche. Lance une pierre sur la caisse suspendue dans
+     l'arbre pour la faire tomber.
+
+4. QUIET MOUNTAIN GETAWAY - entre dans White Forest Inn et survis a toute
+   l'embuscade. Desactive les generateurs dans le bâtiment haut et utilise les
+   fenêtres comme lignes de tir.
+5. Apres la sortie de l'auberge, confirme la cache 5/5. CACHE CHECKER se valide
+   a la dernière cache.
+6. Continue jusqu'au barrage et retrouve DOG. Avant la course, pose le gnome
+   dans un endroit fixe, sauvegarde et gagne la course en voiture : PEDAL TO
+   THE METAL. Retourne ensuite chercher le gnome.
+
+CHAPITRE 6 - OUR MUTUAL FIEND
+
+1. A l'arrivee a White Forest, sors de la voiture, prends le gnome et entre
+   dans la base. Dans la salle du silo 1, repere la fusée ouverte.
+2. LITTLE ROCKET MAN - depose le gnome dans la fusée avec l'autre objet deja
+   present, puis ferme completement la trappe. Le simple fait de le poser dans
+   le compartiment ne suffit pas : attends la notification apres la fermeture.
+3. Quand l'alarme retentit, rejoins le silo 2. SECONDARY SILO SECURED se
+   valide en fermant les portes de lancement depuis la salle de controle.
+4. DEFENSE OF THE ARMAMENT - termine la defense de la base et protège les
+   objectifs jusqu'a la fin de la séquence.
+5. NEIGHBORHOOD WATCH - trois bâtiments exterieurs doivent rester debout :
+   la scierie au nord, le poste de ravitaillement ouest et le poste est.
+   Priorite absolue aux Striders qui foncent vers un bâtiment; pose un
+   dispositif Magnusson, tire dessus, puis detruis les Hunters qui l'escortent.
+   Fais une sauvegarde avant la première vague et recharge si un bâtiment est
+   touche.
+6. Les Striders qui avancent vers le centre peuvent attendre quelques secondes;
+   ceux qui changent de direction vers un bâtiment doivent etre detruits en
+   premier. Quand les trois bâtiments sont intacts, verifie la notification.
+
+CHAPITRE 7 - T-MINUS ONE
+
+1. Termine la séquence finale de la campagne. Aucun nouveau collectible n'est
+   a ajouter ici.
+2. Avant de quitter l'episode, vérifie les compteurs : larves 333/333, toiles
+   9/9, radar 5/5, gnome valide, trois bâtiments proteges et succes Steam.
+
+NETTOYAGE EPISODE TWO
+
+- Si Get Some Grub manque, recharge la dernière sauvegarde connue dans les
+  cavernes et compare le premier checkpoint incorrect. Sans sauvegarde de zone,
+  la caverne entière doit etre rejouee : ne recommence pas au hasard.
+- Si Piñata Party manque, compare les caches : 1 dans To the White Forest,
+  2-5 dans la premiere boucle de This Vortal Coil, 6-9 dans la grande chambre
+  avant l'ascenseur.
+- Si Cache Checker manque, reprends Under the Radar et refais les cinq caches,
+  en particulier la grotte de la cache 4 et la caisse suspendue de la cache 5.
+- Si Little Rocket Man manque, recharge la sauvegarde avant l'ouverture de la
+  fusée, replace le gnome puis ferme la trappe. Verifie que le jeu est lance
+  dans Steam et que la synchronisation est active.
+- Si Neighborhood Watch manque, reprends la sauvegarde avant les Striders et
+  traite d'abord les trois cibles de bâtiments.
+- HIT AND RUN peut etre complete sur les zombies de la sortie de la casse et
+  les Hunters des defenses. Ne sacrifie pas le gnome pour le compteur.
+- GNOME ALONE n'est pas une étape de campagne : lance Half-Life 2 avec Steam
+  synchronise apres la mise a jour qui a introduit l'evenement, attends au
+  menu quelques secondes, puis relance le jeu si la notification tarde.
+
+CHECKLIST STEAM FINALE - 69/69
+
+[ ] 01. Malcontent — echapper au raid de l'immeuble.
+[ ] 02. Trusty Hardware — obtenir le pied-de-biche.
+[ ] 03. Anchor's Aweigh! — obtenir l'aeroglisseur.
+[ ] 04. Heavy Weapons — obtenir la mitrailleuse de l'aeroglisseur.
+[ ] 05. Submissive — mettre la canette dans la poubelle.
+[ ] 06. Revenge! — detruire le hunter-chopper de Half-Life 2.
+[ ] 07. Zero-Point Energy — obtenir le Gravity Gun a Black Mesa East.
+[ ] 08. Hallowed Ground — escorter Grigori dans le cimetiere.
+[ ] 09. Where Cubbage Fears to Tread — defendre Little Odessa du gunship.
+[ ] 10. Barnacle Bowling — tuer cinq barnacles avec un baril.
+[ ] 11. Defiant — lancer la canette sur le policier.
+[ ] 12. Bug Hunt — faire tuer 50 ennemis par les antlions.
+[ ] 13. Warden Freeman — survivre a la seconde defense de tourelles.
+[ ] 14. Follow Freeman — prendre le commandement d'une escouade de resistants.
+[ ] 15. Radiation Levels Detected — traverser le tunnel toxique sous City 17.
+[ ] 16. Plaza Defender — survivre a la defense de la place des générateurs.
+[ ] 17. Fight the Power — desactiver l'appareil de suppression.
+[ ] 18. One Man Army — detruire six gunships dans Half-Life 2.
+[ ] 19. Giant Killer — survivre au combat de Striders sur les toits.
+[ ] 20. Singularity Collapse — terminer la séquence du coeur de la Citadelle.
+[ ] 21. OSHA Violation — tuer trois soldats avec la grue.
+[ ] 22. Blast from the Past — trouver la plaque de chargeur HEV dans la casse.
+[ ] 23. Targetted Advertising — clouer un soldat au panneau de Highway 17.
+[ ] 24. Atomizer — desintegrer 15 soldats dans un champ de boules d'energie.
+[ ] 25. What cat? — casser le mini-teleporteur de Kleiner.
+[ ] 26. Counter-Sniper — tuer tous les snipers de City 17.
+[ ] 27. Two Points — marquer un panier avec la balle de DOG.
+[ ] 28. Gnome Alone — synchroniser l'evenement du gnome avec Steam.
+[ ] 29. Vorticough — decouvrir la grotte cachee de Water Hazard.
+[ ] 30. Watch Your Head! — atteindre le bas de l'ascenseur principal sans tomber.
+[ ] 31. Flushed — tuer un ennemi avec un toilette.
+[ ] 32. Zombie Chopper — traverser Ravenholm avec le Gravity Gun seulement.
+[ ] 33. Hack Attack! — tuer cinq ennemis avec un Manhack.
+[ ] 34. Containment — contenir le coeur de la Citadelle.
+[ ] 35. Acid Reflex — tuer un Antlion Worker acide.
+[ ] 36. Elevator Action — survivre jusqu'a l'ascenseur du parking.
+[ ] 37. Attica! — detruire le gunship dans le grenier de l'hopital.
+[ ] 38. Into the Breach — aider Griggs et Sheckley a tenir la mine.
+[ ] 39. Keep Off the Sand! — traverser la plage sans toucher le sable.
+[ ] 40. Escape From City 17 — sortir de City 17 avec Alyx.
+[ ] 41. Twofer — vaincre les deux Antlion Guards devant White Forest.
+[ ] 42. Meet the Hunters — survivre a l'embuscade des Hunters avec Alyx.
+[ ] 43. Gunishment! — detruire le canon automatique de la casse.
+[ ] 44. Deadly Harvest — tuer un ennemi avec une mine Hopper posee.
+[ ] 45. Quiet Mountain Getaway — survivre a l'embuscade de White Forest Inn.
+[ ] 46. Secondary Silo Secured — securiser les portes du silo 2.
+[ ] 47. Defense of the Armament — sauver le silo pendant l'offensive Combine.
+[ ] 48. Gordon Propelled Rocket — ouvrir la cache radar du lance-roquettes.
+[ ] 49. Lambda Locator — trouver les 45 caches Lambda.
+[ ] 50. Citizen Escort — ne perdre aucun citoyen jusqu'au train.
+[ ] 51. Cache Checker — trouver les cinq caches radar d'Under the Radar.
+[ ] 52. Pedal to the Metal — battre DOG pendant la course vers White Forest.
+[ ] 53. Grave Robber — voler la grenade d'un Zombine.
+[ ] 54. Think Fast! — tuer un Elite avec sa propre boule d'energie.
+[ ] 55. Live Bait — aider Alyx a abattre 30 ennemis dans Episode One.
+[ ] 56. Hit and Run — ecraser 20 ennemis avec la voiture dans Episode Two.
+[ ] 57. Bone Breaker — tuer 30 ennemis avec des objets physiques lances.
+[ ] 58. Car Crusher — ecraser 15 antlions avec les voitures dans Episode One.
+[ ] 59. Payback — tuer un Hunter avec ses propres flechettes.
+[ ] 60. Pacifist — contenir le coeur sans tuer de stalker.
+[ ] 61. Piñata Party — trouver et casser les neuf caches toile d'Episode Two.
+[ ] 62. Conservationist — tuer cinq ennemis avec la meme boule d'energie.
+[ ] 63. The One Free Bullet — terminer Episode One avec exactement une balle tiree.
+[ ] 64. Zombie-que — enflammer 15 zombies avec des fusees eclairantes.
+[ ] 65. Puttin' On a Clinic — detruire le chopper d'Episode Two sans rater un tir.
+[ ] 66. Little Rocket Man — envoyer le gnome dans l'espace.
+[ ] 67. Hot Potat0wned — tuer un soldat Combine avec sa propre grenade.
+[ ] 68. Neighborhood Watch — sauver tous les bâtiments exterieurs au silo.
+[ ] 69. Get Some Grub — ecraser les 333 larves d'Antlion d'Episode Two.
+
+VERIFICATION FINALE
+
+- [ ] Le menu Steam affiche 69/69 succes pour l'AppID 220.
+- [ ] La branche Submissive/Defiant a ete faite avec la sauvegarde dediee.
+- [ ] Half-Life 2 affiche Lambda Locator et les 45 caches ont ete verifiees.
+- [ ] Episode One affiche les 13 objectifs, dont One Free Bullet et Pacifist.
+- [ ] Episode Two affiche les 333 larves, 9 toiles, 5 radars et Little Rocket Man.
+- [ ] Les trois bâtiments exterieurs de White Forest sont restes intacts.
+- [ ] La synchronisation Steam a ete activee pour Gnome Alone.
+
+SOURCES DE VERIFICATION
+
+- Liste officielle Steam : https://steamcommunity.com/stats/HL2/achievements
+- Fiche Steam : https://store.steampowered.com/app/220/
+- Chapitres et emplacements des 45 caches Lambda compares entre guides Steam
+  communautaires et guides de parcours.
+- Compteurs de larves et emplacements des caches toile compares avec les
+  parcours Episode Two et la liste officielle des conditions Steam.
 
 FIN DU GUIDE - SANS SPOILER

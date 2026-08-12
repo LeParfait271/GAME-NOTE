@@ -1,6 +1,6 @@
 "use client";
 
-import { useEffect, useMemo, useState, type RefObject } from "react";
+import { useEffect, useMemo, useRef, useState, type RefObject } from "react";
 
 type ReaderGuide = {
   steamAppId: number;
@@ -189,6 +189,8 @@ export default function GuideReader({
   const [loading, setLoading] = useState(true);
   const [error, setError] = useState(false);
   const [checked, setChecked] = useState<Record<number, boolean>>({});
+  const [activeSearchResult, setActiveSearchResult] = useState(0);
+  const resultRefs = useRef<Array<HTMLElement | null>>([]);
 
   /* eslint-disable react-hooks/set-state-in-effect */
   useEffect(() => {
@@ -233,6 +235,10 @@ export default function GuideReader({
     [blocks],
   );
   const query = normalizeGuideText(search.trim());
+  const matchingBlocks = useMemo(
+    () => blocks.filter((block) => query && normalizeGuideText(block.text).includes(query)),
+    [blocks, query],
+  );
   const visibleBlocks = useMemo(() => {
     if (!query) {
       return blocks;
@@ -257,6 +263,12 @@ export default function GuideReader({
 
     return blocks.filter((_, index) => contextIndexes.has(index));
   }, [blocks, query]);
+  const visibleMatchIndexes = useMemo(
+    () => visibleBlocks
+      .map((block, index) => (query && normalizeGuideText(block.text).includes(query) ? index : -1))
+      .filter((index) => index >= 0),
+    [query, visibleBlocks],
+  );
   const outline = useMemo(
     () =>
       blocks.filter(
@@ -293,6 +305,35 @@ export default function GuideReader({
       }
       return next;
     });
+  };
+
+  useEffect(() => {
+    setActiveSearchResult(0);
+    resultRefs.current = [];
+  }, [query, selected.file]);
+
+  useEffect(() => {
+    const targetIndex = visibleMatchIndexes[activeSearchResult];
+    if (targetIndex === undefined) return;
+    resultRefs.current[targetIndex]?.scrollIntoView({ behavior: "smooth", block: "center" });
+  }, [activeSearchResult, visibleMatchIndexes]);
+
+  const resetChecklist = () => {
+    setChecked({});
+    try {
+      window.localStorage.removeItem(`game-note-checklist-${selected.file}`);
+    } catch {
+      // La fiche reste utilisable si le stockage local est indisponible.
+    }
+  };
+
+  const renderHighlightedText = (value: string) => {
+    if (!query) return formatText(value);
+    const normalizedValue = normalizeGuideText(value);
+    const start = normalizedValue.indexOf(query);
+    if (start < 0) return formatText(value);
+    const end = start + query.length;
+    return <>{formatText(value.slice(0, start))}<mark>{formatText(value.slice(start, end))}</mark>{formatText(value.slice(end))}</>;
   };
 
   return (

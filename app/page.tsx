@@ -2957,9 +2957,19 @@ const normalizeCatalogText = (value: string) =>
 
 type Theme = "light" | "dark";
 
+type CatalogFilter = "all" | "steam" | "coop" | "dlc" | "offline";
+
+const CATALOG_FILTERS: Array<{ id: CatalogFilter; label: string }> = [
+  { id: "all", label: "Toutes" },
+  { id: "steam", label: "Steam" },
+  { id: "coop", label: "Coop / en ligne" },
+  { id: "dlc", label: "DLC" },
+  { id: "offline", label: "Hors ligne" },
+];
+
 type StoredPreferences = {
   theme?: Theme;
-  catalogSearch?: string;
+  lastGuideId?: string;
 };
 
 const PREFERENCES_KEY = "game-note-preferences";
@@ -2979,32 +2989,39 @@ function readStoredPreferences(): StoredPreferences {
   }
 }
 
-function scrollToReader(
+function openReader(
   id: string,
   setSelectedId: (value: string) => void,
   setSearch: (value: string) => void,
+  setReaderMode: (value: boolean) => void,
+  setInvalidGuideId: (value: string | null) => void,
 ) {
   setSearch("");
   setSelectedId(id);
+  setInvalidGuideId(null);
+  setReaderMode(true);
   const url = new URL(window.location.href);
+  url.pathname = "/";
   url.searchParams.delete("view");
+  url.searchParams.delete("q");
+  url.searchParams.delete("filter");
   url.searchParams.set("guide", id);
-  url.hash = "reader";
-  window.history.replaceState(null, "", url);
-  window.requestAnimationFrame(() => {
-    document.getElementById("reader")?.scrollIntoView({
-      behavior: "smooth",
-      block: "start",
-    });
-  });
+  url.hash = "";
+  window.history.pushState({ guide: id }, "", url);
+  window.scrollTo({ top: 0, behavior: "auto" });
 }
 
 export default function Home() {
   const [selectedId, setSelectedId] = useState("expedition-33");
   const [search, setSearch] = useState("");
   const [catalogSearch, setCatalogSearch] = useState("");
+  const [catalogFilter, setCatalogFilter] = useState<CatalogFilter>("all");
+  const [catalogLimit, setCatalogLimit] = useState(24);
   const [theme, setTheme] = useState<Theme>("light");
   const [isOnline, setIsOnline] = useState(true);
+  const [readerMode, setReaderMode] = useState(false);
+  const [invalidGuideId, setInvalidGuideId] = useState<string | null>(null);
+  const [activeSection, setActiveSection] = useState("top");
   const [preferencesReady, setPreferencesReady] = useState(false);
   const catalogSearchRef = useRef<HTMLInputElement>(null);
   const guideSearchRef = useRef<HTMLInputElement>(null);
@@ -3017,20 +3034,28 @@ export default function Home() {
     const query = normalizeCatalogText(catalogSearch.trim());
 
     return guides.filter((guide) => {
-      if (!query) {
-        return true;
-      }
-
-      return [
+      const searchableText = [
         guide.title,
         guide.eyebrow,
         guide.subtitle,
         guide.tag,
         guide.description,
         ...guide.meta,
-      ].some((value) => normalizeCatalogText(value).includes(query));
+      ];
+      const matchesSearch =
+        !query || searchableText.some((value) => normalizeCatalogText(value).includes(query));
+      const normalized = normalizeCatalogText(searchableText.join(" "));
+      const matchesFilter =
+        catalogFilter === "all" ||
+        (catalogFilter === "steam" && normalized.includes("steam")) ||
+        (catalogFilter === "coop" && /coop|en ligne/.test(normalized)) ||
+        (catalogFilter === "dlc" && normalized.includes("dlc")) ||
+        (catalogFilter === "offline" && normalized.includes("hors ligne"));
+
+      return matchesSearch && matchesFilter;
     });
-  }, [catalogSearch]);
+  }, [catalogFilter, catalogSearch]);
+  const pagedGuides = visibleGuides.slice(0, catalogLimit);
 
   // These values come from browser-only storage and must hydrate after the static shell mounts.
   /* eslint-disable react-hooks/set-state-in-effect */
@@ -3048,11 +3073,31 @@ export default function Home() {
     const url = new URL(window.location.href);
     const requestedGuide = url.searchParams.get("guide");
     const requestedSearch = url.searchParams.get("q");
+    const requestedFilter = url.searchParams.get("filter") as CatalogFilter | null;
+    const validRequestedGuide = guides.find((guide) => guide.id === requestedGuide);
+    const storedLastGuide = guides.find((guide) => guide.id === storedPreferences.lastGuideId);
 
     setTheme(preferredTheme);
-    setCatalogSearch(requestedSearch ?? storedPreferences.catalogSearch ?? "");
-    if (requestedGuide && guides.some((guide) => guide.id === requestedGuide)) {
-      setSelectedId(requestedGuide);
+    setCatalogSearch(requestedSearch ?? "");
+    setCatalogFilter(
+      requestedFilter && CATALOG_FILTERS.some((filter) => filter.id === requestedFilter)
+        ? requestedFilter
+        : "all",
+    );
+    if (validRequestedGuide) {
+      setSelectedId(validRequestedGuide.id);
+      setReaderMode(true);
+      window.history.replaceState(
+        { gameNote: "reader", guide: validRequestedGuide.id },
+        "",
+        window.location.href,
+      );
+    } else if (requestedGuide) {
+      setInvalidGuideId(requestedGuide);
+      setReaderMode(false);
+      setActiveSection("guides");
+    } else if (storedLastGuide) {
+      setSelectedId(storedLastGuide.id);
     }
     if (url.searchParams.has("view")) {
       url.searchParams.delete("view");
@@ -3060,6 +3105,32 @@ export default function Home() {
     }
     setIsOnline(window.navigator.onLine);
     setPreferencesReady(true);
+
+    const handlePopState = () => {
+      const nextUrl = new URL(window.location.href);
+      const nextGuide = guides.find((guide) => guide.id === nextUrl.searchParams.get("guide"));
+      setCatalogSearch(nextUrl.searchParams.get("q") ?? "");
+      const nextFilter = nextUrl.searchParams.get("filter") as CatalogFilter | null;
+      setCatalogFilter(
+        nextFilter && CATALOG_FILTERS.some((filter) => filter.id === nextFilter)
+          ? nextFilter
+          : "all",
+      );
+      if (nextGuide) {
+        setSelectedId(nextGuide.id);
+        setInvalidGuideId(null);
+        setReaderMode(true);
+        setActiveSection("reader");
+      } else {
+        setInvalidGuideId(nextUrl.searchParams.get("guide"));
+        setReaderMode(false);
+        setActiveSection("guides");
+      }
+      setSearch("");
+      window.scrollTo({ top: 0, behavior: "auto" });
+    };
+    window.addEventListener("popstate", handlePopState);
+    return () => window.removeEventListener("popstate", handlePopState);
   }, []);
   /* eslint-enable react-hooks/set-state-in-effect */
 
@@ -3074,12 +3145,50 @@ export default function Home() {
     try {
       window.localStorage.setItem(
         PREFERENCES_KEY,
-        JSON.stringify({ theme, catalogSearch }),
+        JSON.stringify({ theme, lastGuideId: selectedId }),
       );
     } catch {
       // Local storage can be disabled in private browsing.
     }
-  }, [catalogSearch, preferencesReady, theme]);
+  }, [preferencesReady, selectedId, theme]);
+
+  useEffect(() => {
+    if (!preferencesReady || readerMode) return;
+    const url = new URL(window.location.href);
+    if (catalogSearch) url.searchParams.set("q", catalogSearch);
+    else url.searchParams.delete("q");
+    if (catalogFilter !== "all") url.searchParams.set("filter", catalogFilter);
+    else url.searchParams.delete("filter");
+    window.history.replaceState(window.history.state, "", url);
+  }, [catalogFilter, catalogSearch, preferencesReady, readerMode]);
+
+  useEffect(() => {
+    setCatalogLimit(24);
+  }, [catalogFilter, catalogSearch]);
+
+  useEffect(() => {
+    if (readerMode) {
+      setActiveSection("reader");
+      return;
+    }
+
+    const sections = ["top", "guides", "methode"]
+      .map((id) => document.getElementById(id))
+      .filter((section): section is HTMLElement => Boolean(section));
+    if (!sections.length || !("IntersectionObserver" in window)) return;
+
+    const observer = new IntersectionObserver(
+      (entries) => {
+        const visible = entries
+          .filter((entry) => entry.isIntersecting)
+          .sort((left, right) => left.boundingClientRect.top - right.boundingClientRect.top);
+        if (visible[0]?.target.id) setActiveSection(visible[0].target.id);
+      },
+      { rootMargin: "-18% 0px -66% 0px", threshold: [0, 0.2, 0.6] },
+    );
+    sections.forEach((section) => observer.observe(section));
+    return () => observer.disconnect();
+  }, [readerMode]);
 
   useEffect(() => {
     const updateOnlineState = () => setIsOnline(window.navigator.onLine);
@@ -3134,9 +3243,33 @@ export default function Home() {
     setTheme((current) => (current === "dark" ? "light" : "dark"));
   };
 
+  const handleOpenReader = (id: string) => {
+    openReader(id, setSelectedId, setSearch, setReaderMode, setInvalidGuideId);
+  };
+
+  const goToLibrary = () => {
+    setReaderMode(false);
+    setSearch("");
+    setInvalidGuideId(null);
+    setActiveSection("guides");
+    const url = new URL(window.location.href);
+    url.searchParams.delete("guide");
+    url.searchParams.delete("q");
+    url.searchParams.delete("filter");
+    url.hash = "guides";
+    window.history.pushState({ gameNote: "library" }, "", url);
+    window.requestAnimationFrame(() => {
+      document.getElementById("guides")?.scrollIntoView({ behavior: "smooth", block: "start" });
+    });
+  };
+
+  const clearInvalidGuide = () => {
+    goToLibrary();
+  };
+
   return (
     <main
-      className={"site-shell theme-" + theme}
+      className={"site-shell theme-" + theme + (readerMode ? " is-reader-mode" : "")}
       id="main-content"
       tabIndex={-1}
     >
@@ -3173,9 +3306,9 @@ export default function Home() {
         </a>
 
         <nav className="main-nav" aria-label="Navigation principale">
-          <a href="#guides">Bibliothèque</a>
-          <a href="#reader">Lire</a>
-          <a href="#methode">Méthode</a>
+          <a className={activeSection === "guides" ? "is-active" : ""} href={readerMode ? "/#guides" : "#guides"} aria-current={activeSection === "guides" ? "page" : undefined}>Bibliothèque</a>
+          <a className={activeSection === "reader" ? "is-active" : ""} href={readerMode ? "#reader" : `/?guide=${selected.id}`} aria-current={activeSection === "reader" ? "page" : undefined} onClick={(event) => { if (!readerMode) { event.preventDefault(); handleOpenReader(selected.id); } }}>Lire</a>
+          {!readerMode ? <a className={activeSection === "methode" ? "is-active" : ""} href="#methode" aria-current={activeSection === "methode" ? "page" : undefined}>Méthode</a> : null}
         </nav>
 
         <div className="topbar-route-code" aria-hidden="true">
@@ -3218,6 +3351,17 @@ export default function Home() {
         </div>
       ) : null}
 
+      {invalidGuideId && !readerMode ? (
+        <div className="route-error" role="alert">
+          <strong>Cette route n’existe pas encore.</strong>
+          <span>Le guide demandé n’a pas été trouvé dans la bibliothèque.</span>
+          <button className="button button-outline" type="button" onClick={clearInvalidGuide}>
+            Afficher la bibliothèque
+          </button>
+        </div>
+      ) : null}
+
+      {!readerMode ? <>
       <section className="hero" id="top">
         <div className="hero-copy">
           <p className="kicker"><span>{"ROUTE " + selectedRouteNumber}</span><span>CARNET DE JEU · SANS SPOILER</span></p>
@@ -3265,7 +3409,7 @@ export default function Home() {
             <button
               className="feature-cta"
               type="button"
-              onClick={() => scrollToReader(selected.id, setSelectedId, setSearch)}
+              onClick={() => handleOpenReader(selected.id)}
             >
               Ouvrir la route <span aria-hidden="true">↗</span>
             </button>
@@ -3294,7 +3438,7 @@ export default function Home() {
           <button
             className="route-console-action"
             type="button"
-            onClick={() => scrollToReader(selected.id, setSelectedId, setSearch)}
+            onClick={() => handleOpenReader(selected.id)}
           >
             Reprendre le dossier <span aria-hidden="true">↗</span>
           </button>
@@ -3352,9 +3496,26 @@ export default function Home() {
           <span className="shortcut-hint">⌘K / Ctrl K</span>
         </div>
 
+        <div className="library-filters" aria-label="Filtrer les routes">
+          <span>FILTRER</span>
+          <div role="group" aria-label="Filtres de bibliothèque">
+            {CATALOG_FILTERS.map((filter) => (
+              <button
+                className={catalogFilter === filter.id ? "is-active" : ""}
+                type="button"
+                aria-pressed={catalogFilter === filter.id}
+                key={filter.id}
+                onClick={() => setCatalogFilter(filter.id)}
+              >
+                {filter.label}
+              </button>
+            ))}
+          </div>
+        </div>
+
         {visibleGuides.length > 0 ? (
           <div className="guide-grid">
-            {visibleGuides.map((guide, index) => (
+            {pagedGuides.map((guide, index) => (
             <article
               className={
                 "guide-card guide-card-" +
@@ -3373,7 +3534,7 @@ export default function Home() {
                 type="button"
                 aria-label={`Ouvrir la soluce ${guide.title}`}
                 onClick={() => {
-                  scrollToReader(guide.id, setSelectedId, setSearch);
+                    handleOpenReader(guide.id);
                 }}
               >
                 <div className="card-artwork">
@@ -3417,6 +3578,14 @@ export default function Home() {
             </button>
           </div>
         )}
+        {visibleGuides.length > catalogLimit ? (
+          <div className="library-more">
+            <span>{pagedGuides.length} routes affichées sur {visibleGuides.length}</span>
+            <button className="button button-outline" type="button" onClick={() => setCatalogLimit((current) => current + 24)}>
+              Afficher 24 routes de plus
+            </button>
+          </div>
+        ) : null}
       </section>
 
       <section className="method-section" id="methode">
@@ -3447,8 +3616,9 @@ export default function Home() {
           </div>
         </div>
       </section>
+      </> : null}
 
-      <section className="reader-section" id="reader">
+      {readerMode ? <section className="reader-section" id="reader">
         <div className="reader-section-mark" aria-hidden="true">
           <span>04</span>
           <strong>LIRE / LAISSER UNE TRACE</strong>
@@ -3460,18 +3630,18 @@ export default function Home() {
           setSearch={setSearch}
           guideSearchRef={guideSearchRef}
         />
-      </section>
+      </section> : null}
 
       <nav className="mobile-bottom-nav" aria-label="Navigation mobile">
-        <a href="#top">
+        <a href={readerMode ? "/" : "#top"}>
           <span aria-hidden="true">⌂</span>
           <small>Départ</small>
         </a>
-        <a href="#guides">
+        <a href={readerMode ? "/#guides" : "#guides"}>
           <span aria-hidden="true">▦</span>
           <small>Routes</small>
         </a>
-        <a href="#reader">
+        <a href={readerMode ? "#reader" : `/?guide=${selected.id}`} onClick={(event) => { if (!readerMode) { event.preventDefault(); handleOpenReader(selected.id); } }}>
           <span aria-hidden="true">▤</span>
           <small>Lire</small>
         </a>
@@ -3504,7 +3674,7 @@ export default function Home() {
           </span>
         </div>
         <p>ROUTE CHRONOLOGIQUE · REPÈRES UTILES · TRACE LOCALE</p>
-        <a href="#top">Remonter au départ ↑</a>
+        <a href={readerMode ? "/" : "#top"}>Remonter au départ ↑</a>
       </footer>
     </main>
   );
