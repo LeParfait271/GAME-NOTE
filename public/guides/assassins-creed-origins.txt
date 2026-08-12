@@ -1,185 +1,974 @@
 ASSASSIN'S CREED ORIGINS
-GUIDE CHRONOLOGIQUE 100 % STEAM - SANS SPOILER
+GUIDE CHRONOLOGIQUE 100 % STEAM - FICHE COMPLETE SANS SPOILER
 
-Version de travail : 10 aout 2026
+Version de travail : 12 aout 2026
 
-Ce parcours couvre les 67 succes Steam de l'AppID 582160 : Egypte,
-missions, lieux, combats, tombeaux, papyrus, animaux, hippodrome, arena,
-Daily Life, The Hidden Ones et The Curse of the Pharaohs.
+PERIMETRE DE CETTE FICHE
 
-OBJECTIF
+Ce parcours couvre les 67 succes Steam de l'AppID 582160, la campagne, les
+102 quetes annexes de la carte de base, les lieux, les coffres, les tombeaux,
+les papyrus, les cercles de pierre, les ermites, les Phylakes, les arenes,
+l'hippodrome, les activites sous-marines, les animaux, les vehicules, The
+Hidden Ones, The Curse of the Pharaohs et le Discovery Tour.
 
-[ ] 67/67 succes Steam.
-[ ] Campagne, toutes les regions et tous les lieux.
-[ ] Niveau 20 puis niveaux DLC 45 et 55.
-[ ] Equipement, artisanat, Senu, montures, animaux et combats.
-[ ] Papyrus, cercles de pierre, sous-marins, ermites et tours.
-[ ] Arena, hippodrome, Phylakes, elephants et objectifs speciaux.
-[ ] The Hidden Ones et The Curse of the Pharaohs.
+Le guide ne decrit aucun evenement narratif, aucune identite, aucune mort,
+aucun retournement et aucune fin. Les noms de missions et les noms de zones
+sont uniquement des reperes de navigation.
+
+COMMENT UTILISER LA FICHE
+
+- Fais les missions principales dans l'ordre ci-dessous.
+- A chaque nouvelle region, applique la boucle 100 % de la section suivante.
+- Le symbole de quete sur la carte ne suffit pas : certaines quetes
+  apparaissent seulement quand tu approches du PNJ ou d'un lieu non marque.
+- Pour un lieu, reste sur place jusqu'a ce que tous ses objectifs soient
+  valides et que le marqueur passe en or/termine dans la carte.
+- La liste finale des succes est volontairement separee de la route : une
+  case Steam correspond a un succes precis, pas a une categorie vague.
 
 GARDE-FOUS ABSOLUS
 
-- Le jeu est nettoyable apres la campagne. Fais quand meme chaque region en
-  arrivant, car les niveaux et les icones rendent la route beaucoup plus claire.
-- Garde 100 trinkets dans l'inventaire avant de vendre en une seule fois pour
-  Reduce, Reuse, Recycle. Ne vends pas ton stock de debut par reflexe.
-- Les animaux, vehicules, bateaux, photos et sous-marins se font partout.
-  Valide-les tot au lieu de les laisser au dernier voyage.
-- Les deux DLC ont leurs propres zones et succes. Traite The Hidden Ones
-  avant The Curse of the Pharaohs, puis relis la liste des succes.
-- Aucun nom de personnage, mort, identite, boss, fin ou retournement n'est
-  revele. Les regions et les objectifs servent uniquement a l'ordre.
+- Rien d'important n'est definitivement manquable dans la campagne de base,
+  mais plusieurs conditions sont faciles a oublier. Le nettoyage post-jeu est
+  prevu dans la route et ne remplace pas la sauvegarde reguliere.
+- Garde au moins 100 trinkets dans l'inventaire avant de les vendre d'un seul
+  coup. Ne vide pas ton inventaire au debut pour gagner quelques drachmes.
+- Les quetes blanches avec un point d'exclamation, les quetes orange bonus et
+  les quetes qui apparaissent au contact d'un personnage doivent toutes etre
+  verifiees dans le journal. Les quetes bleues quotidiennes du Nomad's Bazaar
+  et les Trials of the Gods sont suivies a part : elles ne remplacent pas les
+  102 quetes annexes de base.
+- Conserve une arme, un bouclier, un arc, une tenue et une monture legendaires.
+  Pour I'm a Legend, l'equipement equipe doit etre legendaire, pas seulement
+  le contenu du coffre.
+- Achète les capacites Sleep Darts, Animal Taming, Dawn and Dusk, Enhanced
+  Predator Bow, Elite Ranger et Overpower avant les tentatives qui les
+  utilisent. Elles rendent les conditions beaucoup plus fiables.
+- Fais une sauvegarde manuelle avant Overdesign, les essais de l'arene et les
+  actions qui demandent un horaire precis. Les tentatives peuvent etre
+  recommencees sans recommencer toute la campagne.
+- Les deux DLC sont joues apres la campagne de base, dans l'ordre The Hidden
+  Ones puis The Curse of the Pharaohs. La route ci-dessous garde toutefois
+  chaque zone de DLC distincte de la carte d'Egypte pour eviter les faux
+  compteurs de 100 %.
 
-MISSABLES ET FENETRES
+ORDRE CHRONOLOGIQUE RECOMMANDE
 
-- La plupart des succes sont nettoyables apres la fin, y compris Old Habits
-  et les activites de carte.
-- Reduce, Reuse, Recycle est manquable en pratique si tu vends les trinkets au
-  fur et a mesure. Conserve-les puis vends-en 100 d'un coup.
-- Overdesign demande un ennemi empoisonne de niveau 35 ou plus tue au flambeau
-  en moins de 30 secondes. Prepare la scene et fais une sauvegarde.
-- What Time is It? se fait a Arsinoe entre 10 h et midi dans The Hidden Ones.
-  Regle l'heure et saute depuis le cadran solaire pendant la fenetre.
-- Les tours, lieux d'ermite, arena et hippodrome peuvent etre faits plus tard,
-  mais valide les objectifs specifiques avant de quitter leur zone.
+PHASE 0 - TUTORIEL, REGLAGES ET PREMIERS OUTILS
 
-ORDRE DE PARTIE RECOMMANDE
+1. Termine le tutoriel/prologue, puis lance la mission principale Oasis.
+2. Synchronise chaque point de vue visible avant de quitter une region. Cela
+   ouvre les voyages rapides et donne a Senu une meilleure lecture de la carte.
+3. Des que l'artisanat est disponible, ameliore d'abord la lame secrete, la
+   cuirasse et la sacoche d'outils. Les composants animaux et les metaux sont
+   plus simples a reunir au debut qu'a la fin.
+4. Apprends a passer de Bayek a Senu, puis utilise Senu pour marquer les
+   coffres, capitaines, commandants, animaux, papyrus et objectifs de lieu.
+5. Ne depense pas les points de capacite au hasard : garde une progression
+   vers Sleep Darts, Animal Taming, Dawn and Dusk, Enhanced Predator Bow,
+   Elite Ranger et Overpower.
 
-1. Siwa et premiers equipements.
-2. Delta, Alexandrie et regions intermediaires, avec chaque lieu.
-3. Campagne principale, cartes et compteurs de combat.
-4. Nettoyage Egypte : arena, hippodrome, cercles, tours, sous-marins.
-5. The Hidden Ones.
-6. The Curse of the Pharaohs.
-7. Verification finale des 67 succes.
+PHASE 1 - SIWA, NIVEAUX DE DEPART
 
-SIWA - DEPART ET PREMIERS COMPTEURS
+MISSIONS PRINCIPALES DANS L'ORDRE
 
-- Active le premier point de voyage, utilise Senu pour reveler les ennemis et
-  les coffres, puis nettoie chaque lieu avant de suivre l'objectif principal.
-- Fais un tombeau, un point sous-marin et un camp ennemi des que possible.
-  Le jeu presente ainsi les trois grandes familles de collecte.
-- Fabrique 20 objets au fil de l'aventure : carquois, sac, lames, protections
-  et outils. Les ressources se trouvent sur les animaux et les convois.
-- Utilise chaque type de vehicule : cheval, chameau, char, bateau et toute
-  variante necessaire. Monte, conduis et navigue plutot que de voyager vite.
-- Tente dix eliminations sans etre detecte, puis relis le compteur dans le
-  profil pour Shadow of Egypt.
+1. Oasis.
+2. Gear Up.
+3. The False Oracle.
+4. May Amun Walk Beside You.
+5. Aya.
 
-DELTA ET ALEXANDRIE
+BALAYAGE SIWA AVANT LE DEPART
 
-- A chaque nouvelle region, dezoome la carte et traite les icones dans cet
-  ordre : point de voyage, tombeau, camp, lieu sous-marin, papyrus, quete,
-  ermitage et lieu de carte.
-- Ramasse les papyrus et resous au moins un mystere. Garde un carnet avec le
-  nom de la region et le nombre de papyrus resolus.
-- Dans les villes, vole quelques moments pour faire les photos de cinq
-  territoires differents. La photo peut etre prise sans objectif narratif.
-- Utilise Senu pour harceler un ennemi, puis place une fleche a la tete
-  pendant qu'il est distrait. Les arcs de precision sont plus fiables.
-- Apprends la maitrise et active une Master ability. Alterne guerrier,
-  chasseur et prophetie afin de monter les trois arbres.
+- [ ] Synchroniser les points de vue et ouvrir tous les voyages rapides.
+- [ ] Terminer les quetes annexes Hideaway, Water Rats, The Healer, Family
+      Reunion, Striking the Anvil et Prisoners in the Temple.
+- [ ] Commencer puis terminer Bayek's Promise avec le cercle Amun de Siwa.
+- [ ] Vider le tombeau Mountain of the Dead : tablette ancienne, coffres,
+      silice et objectif de lieu.
+- [ ] Recuperer le papyrus A Long Drink dans la House of Life. Le tresor est
+      dans le grand bassin au sud-est du Temple of Amun : plonge au fond.
+- [ ] Explorer les ruines, la source, les camps, les tanières et les eaux de
+      Siwa. Pour chaque question blanche, Senu doit avoir confirme les
+      objectifs avant de quitter la zone.
+- [ ] Faire les premiers essais naturels : course, nage, monture, bateau,
+      tir a l'arc, Senu et une elimination furtive.
 
-REGIONS DU MILIEU DE CAMPAGNE
+PHASE 2 - LAC MAREOTIS, ALEXANDRIE ET KANOPOS
 
-- Ne passe pas directement d'une quete de niveau a la suivante. Termine les
-  lieux de la zone, les quetes locales, les tombeaux et les points d'eau.
-- Controle l'inventaire : une arme legendaire dans chaque emplacement et une
-  armure legendaire permettent de fermer I'm a Legend sans achat hasardeux.
-- Chasse un lion, apprivoise-le, puis amène-le vers un crocodile pour Set-up
-  Date. Utilise une sauvegarde avant l'essai si les animaux se separent.
-- Pour Circle of Life, laisse un predateur manger un cadavre. Pour Slasher,
-  utilise une arme lourde ou un ennemi groupe pour tuer trois cibles d'un coup.
-- Fais les attaques de surcharge et le tir controle a plus de 60 metres dans
-  une base calme. Les objectifs de combat sont plus faciles avant la fin.
+MISSIONS PRINCIPALES DANS L'ORDRE
 
-TOMBEAUX, CERCLES ET ERMITES
+6. Gennadios the Phylakitai.
+7. End of the Snake.
+8. Egypt's Medjay.
+9. The Scarab's Sting.
+10. The Scarab's Lies.
+11. Pompeius Magnus.
 
-- Termine tous les tombeaux visibles et ouvre les tables d'Isu. Les passages
-  d'eau comptent aussi comme objectifs de lieu.
-- Termine les 12 cercles de pierre, puis tous les emplacements d'ermite.
-  Fais une liste region par region et reviens uniquement avec l'icone restante.
-- Fais 15 lieux sous-marins, les papyrus, les lieux de haute altitude et les
-  points de vue. Le dezoom de carte est obligatoire pour I Know My Land.
-- Les lieux de carte doivent etre marques comme termines. Old Habits demande
-  tous les lieux, pas seulement les points de voyage.
+ROUTE CONSEILLEE
 
-PHYLakes, ARENA ET HIPPODROME
+1. A l'arrivee au Lac Mareotis, synchronise les points de vue puis vide les
+   questions blanches de Yamu, des fermes et des rives. Termine The Book of
+   the Dead, Lady of Slaughter, Birthright, Taste of Her Sting, Ulterior
+   Votive, Hidden Tax et Ambush in the Temple quand les marqueurs apparaissent.
+2. Fais le papyrus Fertile Lands dans l'Hypostyle Hall. Le tresor se trouve
+   dans une ferme de palmiers au nord-ouest du Temple of Sekhmet a Yamu.
+3. Passe a Alexandria. Termine les quetes The Shifty Scribe, A Tithe By Any
+   Other Name, Wrath of the Poets, The Odyssey, The Last Bodyguard,
+   Phylakitai in the Eye, The Accidental Philosopher, Serapis Unites,
+   Symposiasts et Higher Education.
+4. Recupere les papyri Divided Valley, Deafening Silence, Nature's Way,
+   Ray of Hope et The Stone Gaze. Pour ce dernier, le tresor est sur l'ile de
+   Mareotis, au pied de la colonne devant la statue assise.
+5. Nettoie Kanopos Nome : Blue Hooligans, Wild Ride, The Hungry River, Old
+   Times et The Weasel. Le papyrus Dead End se prend aux Zephyros Stables et
+   se resout au ravin agricole au nord du temple de Letopolis.
 
-- Les Phylakes apparaissent au fur et a mesure. Affronte-en un quand ton niveau
-  et ton equipement conviennent, puis suis le compteur.
-- A l'arena, termine tous les evenements de Krokodilopolis. Garde une
-  sauvegarde avant un boss pour valider Fatality avec une Overpower Attack.
-- A l'hippodrome, gagne le premier tournoi, puis detruis un adversaire en
-  course. Reste proche dans les virages et utilise la charge uniquement au
-  bon moment.
-- Les objectifs d'arena sont independants de la campagne. Les faire apres
-  l'histoire est plus simple si l'equipement legendaire est complet.
+OBJECTIFS A VALIDER AVANT DE PASSER A LA SUITE
 
-FIN DE CAMPAGNE ET NETTOYAGE EGYPTE
+- [ ] Le journal de quetes affiche toutes les missions blanches disponibles.
+- [ ] Tous les forts, camps, temples, ports, grottes, coffres et lieux
+      sous-marins de la zone ont une coche or.
+- [ ] Un capitaine de navire a ete repere et elimine pour preparer Where's My
+      Black Flag?.
+- [ ] Le premier groupe de 100 trinkets est conserve dans l'inventaire.
 
-- Termine la campagne puis garde la sauvegarde. Dezoome chaque region et
-  ouvre successivement les cartes de sous-zones.
-- Vends 100 trinkets d'un coup, valide la competence de haut niveau et ferme
-  les compteurs de vehicules, animaux, bateaux et lieux sous-marins.
-- Pour BOOM!, tire des fleches de feu sur des jarres d'huile jusqu'a 30 kills.
-  Pour Archer of the Month, prends un tir a la tete depuis les airs.
-- Atteins au moins le niveau 40 si tu veux attaquer The Hidden Ones en confort.
-  La progression des DLC sera plus rapide avec les outils deja debloques.
+PHASE 3 - GIZEH, MEMPHIS, SAKKARA ET LA VALLEE DU FAYOUM
 
-THE HIDDEN ONES
+MISSIONS PRINCIPALES DANS L'ORDRE
 
-- Lance le DLC quand le niveau recommande est confortable. Active les camps et
-  traite les regions de Sinai comme une nouvelle carte complete.
-- Fais les missions principales et secondaires, les camps, les ressources,
-  les lieux, les emplacements sous-marins et les objectifs de carte.
-- Libere 20 rebelles, complete la citadelle Walls-of-the-Ruler et utilise Senu
-  pour harceler un ennemi avant le tir a la tete.
-- A Arsinoe, saute du cadran solaire entre 10 h et midi pour What Time is It?.
-  Regle l'heure avant de monter, puis verifie la notification.
-- Realise trois assassinats depuis une tyrolienne. Place une sauvegarde avant
-  la serie et utilise les bases avec plusieurs ennemis isoles.
-- Termine toutes les missions du DLC, puis ouvre la carte pour confirmer la
-  completion de ses territoires.
+12. The Hyena.
+13. The Lizard's Mask.
+14. The Lizard's Face.
+15. The Crocodile's Scales.
+16. The Crocodile's Jaws.
+17. Way of the Gabiniani.
 
-THE CURSE OF THE PHARAOHS
+ROUTE GIZEH / MEMPHIS / SAKKARA
 
-- Lance le DLC apres The Hidden Ones. Traite chaque zone d'au-dela comme une
-  carte separee : quetes, lieux, objectifs, tombeaux et ressources.
-- Atteins le niveau 55, craft une amelioration avec des Shards of a Star et
-  elimine une momie au feu. Garde un flambeau ou une arme de feu equipee.
-- Termine les cinq emplacements Serqet et resous les objectifs des zones
-  d'au-dela. Le succes Sting in the Tale se verifie dans la carte du DLC.
-- Observe la pluie de scarabees dans le desert, recupere Eternal Maw pour
-  l'utiliser hors des zones d'au-dela et ferme les quetes restantes.
-- Pour Overdesign, empoisonne un ennemi niveau 35+, pose le flambeau puis
-  termine en moins de 30 secondes. Fais-le avant de vider la carte.
-- Les objectifs de DLC restent accessibles apres leurs quetes. Reviens par les
-  portails et verifie les statistiques de chaque zone.
+1. A Giza, synchronise les pyramides et termine Precious Bonds. Fais les cinq
+   tombeaux de Giza : Khufu, Khafre, Menkaure, Adorer of Toth et Eesfet
+   Oon-m'Aa Poo dans le Sphinx. Ne quitte jamais un tombeau sans la tablette
+   ancienne et la silice visible.
+2. Recupere le papyrus Stone Fungus a l'Eastern Cemetery Mastaba. Le tresor
+   est sur le plus petit des deux rochers en forme de champignon a l'ouest des
+   pyramides.
+3. A Memphis, termine The Baker's Dilemma, Children of the Streets, Blood in
+   the Water, Mortem Romanum, Odor Most Foul, Taimhotep's Song et A Dream of
+   Ashes. Fais les temples et les canaux en passant de Senu a Bayek pour ne
+   laisser aucun coffre immerge.
+4. Recupere Burning Bush, In Plain Sight et Fallen Friend. Pour Fallen Friend,
+   plonge dans le canal est, sous le regard de la statue sud, vers les mats du
+   navire coule.
+5. A Saqqara Nome, termine When Night Falls, First Blood, Rites of Anubis et
+   A Rebel Alliance. Vides Tomb of Djoser et Tomb of Sneferu.
 
-CHECKLIST DES 67 SUCCES
+ROUTE FAYOUM / FAYOUM OASIS
 
-[ ] Campagne, niveau 20, niveau 55 et tous les lieux.
-[ ] Tombeaux, cercles de pierre, ermites et 15 lieux sous-marins.
-[ ] Papyrus, photos, tours et tous les types de vehicules.
-[ ] 20 crafts, equipement legendaire et niveau de maitrise.
-[ ] 10 eliminations furtives, Senu, tir a 60 m, tir en l'air et Overpower.
-[ ] Lion apprivoise, lion/crocodile, predateur nourri et jarres d'huile.
-[ ] Phylakes, elephants, arena complete et hippodrome.
-[ ] 100 trinkets vendus en une fois.
-[ ] The Hidden Ones : rebelles, citadelle, cadran et tyroliennes.
-[ ] The Curse of the Pharaohs : niveau 55, Serqet, momie, Eternal Maw,
-    scarabees et ameliorations Shards of a Star.
+6. Termine The Sickness, Demons in the Desert, Curse of Wadjet, Sobek's Tears,
+   The Champion, Murder in the Temple, Feeding Faiyum, The Bride, Forging
+   Siwa, Fires of Dionysias, Shadya's Rest, The Jaws of Sobek, Fighting for
+   Faiyum, Rebel Strike, Bad Faith, Sobek's Gold et The Man Beast.
+7. Fais les papyri The Leaning Tower, The Blasphemer, Just Laws et Sobek's
+   Rage. Le tresor de The Leaning Tower est au pied de la tour au nord de
+   Dionysias Caravanserai. Celui de Sobek's Rage est derriere la tete du
+   pharaon assis face a la statue de Sobek, au sud de la pyramide brisee.
+8. Termine toutes les questions blanches de Karanis, Euhemeria, Dionysias,
+   Krokodilopolis, la vallee, les fermes et les points d'eau. Cette etape est
+   ideale pour commencer les 15 lieux sous-marins.
 
-VERIFICATION FINALE - 67/67
+PHASE 4 - FIN DE LA CAMPAGNE ET NETTOYAGE DE LA CARTE
 
-[ ] Carte Egypte, Sinai et zones du second DLC relues a 100 %.
-[ ] Arena, hippodrome, animaux, vehicules et lieux sous-marins.
-[ ] Compteurs speciaux et fenetres manquables verifies.
-[ ] Profil Steam : 67/67 succes.
+MISSIONS PRINCIPALES DANS L'ORDRE
+
+18. Aya: Blade of the Goddess.
+19. The Battle of the Nile.
+20. The Aftermath.
+21. The Final Weighing.
+22. Last of the Medjay.
+23. Fall Of An Empire, Rise Of Another.
+24. Birth of the Creed.
+
+Avant chaque mission principale de cette phase, termine les quetes annexes
+de la region indiquee par le niveau recommande. Apres Birth of the Creed,
+fais obligatoirement un second tour de carte : certaines activites, zones et
+lieux ne deviennent definitifs qu'apres la campagne.
+
+- [ ] Uab Nome : Seven Farmers, puis Tomb of the Cynic.
+- [ ] Atef-Pehu Nome et Haueris Nome : The Matriarch, les villages, les
+      fermes, les temples, Tomb of Amenemhat III, Tomb of Smenkhkare et Eeyoo
+      Sekedoo Aat.
+- [ ] Herakleion, Im-Khent et Ka-Khem : Predator to Prey, Reunion et Recon
+      Work, puis tous les ports, temples, marais et navires.
+- [ ] Green Mountains et Libue : Halo of the Huntress, Carpe Diem, Shadows of
+      Apollo, The Good Roman, Unseeing Eyes, Taking Liberty, Playing with Fire
+      et The Lure of Glory.
+- [ ] Kyrenaika : Dead in the Water, Are You Not Entertained?, His Secret
+      Service, Cat and Mouse, My Brother for a Horse, Pax Romana, The Flea of
+      Cyrene, The Smuggler of Cyrene, The Mousetrap et Absolute Power.
+- [ ] Marmarica, Paraitonion, Qattara Depression, Isolated Desert, Black
+      Desert, White Desert Oasis et Desheret Desert : tous les points de vue,
+      routes, grottes, coffres, camps et questions blanches.
+- [ ] Completer les 12 cercles de pierre et revenir a Amun dans Siwa.
+- [ ] Completer les 5 ermites et interagir avec chaque tapis de meditation.
+- [ ] Defoguer toute la carte, puis controler chaque region dans le journal.
+
+BOUCLE 100 % A REPETER DANS CHAQUE REGION
+
+1. Synchronise tous les points de vue et repere les limites de la region.
+2. Avec Senu, marque chaque point blanc : quete, camp, tombe, temple,
+   papyrus, tresor, animal, point sous-marin, port et point d'interet.
+3. Termine d'abord les quetes annexes visibles, puis parcours les routes et
+   villages a pied pour declencher les quetes qui ne sont pas marquees.
+4. Dans chaque lieu hostile, valide le chef/capitaine, le commandant, le coffre
+   de tresor, les prisonniers et l'objectif special avant de partir.
+5. Dans chaque tombe, ramasse la tablette ancienne, toutes les silices et tous
+   les coffres. Les salles en hauteur et les passages sous l'eau sont les
+   oublis les plus frequents.
+6. Dans chaque lieu aquatique, fais le tour avec Senu puis plonge avec Bayek.
+   Les coffres jaunes sous l'eau comptent meme si le marqueur de zone semble
+   deja termine.
+7. Quand tous les objectifs sont coches, le lieu doit passer en or/termine.
+   Si ce n'est pas le cas, quitte la zone, reviens a pied et relance Senu : un
+   ennemi, un coffre ou une cage peut etre hors du premier rayon de recherche.
+8. A la fin du tour regional, controle le journal des quetes et la carte,
+   puis marque la region comme terminee dans la liste ci-dessous.
+
+ROUTE DES REGIONS ET FICHES DE BALAYAGE
+
+Chaque ligne ci-dessous est un checkpoint independant. Les mots coffre,
+tre­sor, tombe, temple, port et camp ne sont pas decoratifs : ils indiquent les
+types de lieux a inspecter avant de valider la region.
+
+01. Siwa
+- [ ] Vues, quetes, Mountain of the Dead, Amun, A Long Drink, camps, source,
+      temples, fermes, grottes, animaux et rives.
+
+02. Iment Nome
+- [ ] Vues, quetes de la rive, ruines, fermes, navires, points sous-marins,
+      camps, le cercle The Divine Lion et le cercle Serqet.
+
+03. Lake Mareotis
+- [ ] Yamu, Hypostyle Hall, The Book of the Dead, Fertile Lands, ports,
+      bateaux, coffres immerges et tous les camps.
+
+04. Alexandria
+- [ ] Bibliotheque, Pharos, temples, palais, synagogues, tombe d'Alexander,
+      cinq papyri d'Alexandria, quetes et coffres des iles.
+
+05. Kanopos Nome
+- [ ] Zephyros Stables, Blue Hooligans, Wild Ride, The Hungry River, Old
+      Times, The Weasel, Dead End, fermes, ports et eaux.
+
+06. Sap-Meh Nome
+- [ ] Canyons, Anthylla, Thick Skin, In Protest, Fair Trade, Divided Valley,
+      arbres et coffres des falaises.
+
+07. Sapi-Res Nome
+- [ ] Temple of Horus, Sea of Sand, New Kid in Town, Smoke Over Water,
+      Conflicts of Interest, Worker's Lament, Abuse of Power, Tax Master,
+      Old Library, The Ostrich, All Eyes on Us et Lost Happiness.
+
+08. Khensu Nome
+- [ ] Points de vue, fermes, temples, camps, navires, coffres et toutes les
+      quetes qui commencent dans l'axe Sapi-Res/Khensu.
+
+09. Ka-Khem Nome
+- [ ] Villages, marais, temples, animaux, coffres et le cercle Hathor.
+
+10. Giza
+- [ ] Precious Bonds, les cinq tombeaux, Stone Fungus, pyramides, Sphinx,
+      camps, coffres interieurs, silice et passage secret du Sphinx.
+
+11. Ineb-Hedjet Nome
+- [ ] Fermes, camps, points de vue, temples, Burning Bush et toutes les
+      questions blanches au-dela du Nil.
+
+12. Memphis
+- [ ] The Baker's Dilemma, Children of the Streets, Blood in the Water,
+      Mortem Romanum, Odor Most Foul, Taimhotep's Song, A Dream of Ashes,
+      Burning Bush, In Plain Sight, Fallen Friend et toutes les eaux du canal.
+
+13. Saqqara Nome
+- [ ] When Night Falls, First Blood, Rites of Anubis, A Rebel Alliance,
+      Tomb of Djoser, Tomb of Sneferu et camps du desert.
+
+14. Faiyum
+- [ ] Karanis, Dionysias, Valley Market, The Leaning Tower, The Blasphemer,
+      The Sickness, Demons in the Desert, Forging Siwa et chaque ferme.
+
+15. Faiyum Oasis
+- [ ] Krokodilopolis, Temple of Sobek, Just Laws, Sobek's Rage, Shadya's
+      Rest, The Jaws of Sobek, Feeding Faiyum, The Bride, Bad Faith, Sobek's
+      Gold et The Man Beast.
+
+16. Uab Nome
+- [ ] Hermopolis, Seven Farmers, Tomb of the Cynic, cercle Horus, cercle The
+      Scales, taniere de leopard, temples, camps et coffres.
+
+17. Libue
+- [ ] Villages, camps, fermes, animaux, navires et toutes les quetes qui
+      demarrent dans l'axe Green Mountains/Libue.
+
+18. Green Mountains
+- [ ] Halo of the Huntress, Carpe Diem, Shadows of Apollo, The Good Roman,
+      Unseeing Eyes, Taking Liberty, Playing with Fire, The Lure of Glory,
+      Dead or Alive, Wet Work et le tresor de l'Elephant Arena.
+
+19. Kyrenaika
+- [ ] Cyrene, Apollonion, Temple of Zeus, Dead in the Water, Cat and Mouse,
+      The Smuggler of Cyrene, Undue Haste, Underground Currents et les ports.
+
+20. Marmarica
+- [ ] Tous les points de vue, forts, carrières, camps, coffres, navires,
+      grottes et quetes revelees a l'approche.
+
+21. White Desert Oasis
+- [ ] Oasis, cercle The Great Twins, fermes, animaux, points de vue et coffres.
+
+22. Paraitonion
+- [ ] Village de Keno, maisons, grottes, points de vue, camps et routes du
+      desert. Le tresor de Forsaken City se trouve dans une maison a l'ouest.
+
+23. Qattara Depression
+- [ ] Aquifer Oasis, ermitage, arbres, points de vue, grottes, tombeaux,
+      coffres et le cercle Osiris.
+
+24. Black Desert
+- [ ] Ermitage Ra-Horakhty, Nomarch's Tomb, Seshem.eff Er Aat Tomb, camps,
+      caravanes, coffres et evenement Overheating.
+
+25. Isolated Desert
+- [ ] Golden Tomb, Oun Maa Niye Ressoot, Tomb of the Nomads, cercles Goat Fish
+      et Apis, convois, tanières, camps et coffres.
+
+26. Desheret Desert
+- [ ] Seth-Anat Tomb, Qeneb Too Kah'Aiye Tomb, villages, camps, coffres et
+      liaison avec Seven Farmers.
+
+27. Atef-Pehu Nome
+- [ ] Villages de potiers, cheminées grises, fermes, camps, coffres et tresor
+      de Just Laws au sommet de la cheminée illegale.
+
+28. Haueris Nome
+- [ ] Tomb of Amenemhat III, Tomb of Smenkhkare, Eeyoo Sekedoo Aat Tomb,
+      The Matriarch, Sobek's Rage, pyramide brisee, temples et coffres.
+
+29. Im-Khent Nome
+- [ ] Marais, villages, temples, animaux, camps, points sous-marins et quetes
+      de la chaine Predator to Prey/Reunion/Recon Work.
+
+30. Herakleion Nome
+- [ ] Galenos' House, Royal Flora, Twin Despair, Temple of Khonsou, marais,
+      ports, coffres, arbres et quetes de reunion.
+
+31. Mesogeios Sea / Great Green Sea
+- [ ] Chaque port, navire, capitaine, epave, coffre immerge et point de voyage
+      rapide. Utilise Senu depuis la proue avant de plonger.
+
+QUETES ANNEXES : LISTE DE CONTROLE COMPLETE
+
+Le jeu compte 102 quetes annexes de base selon le journal de quetes. Les
+marqueurs sont blancs, mais certaines missions ne s'affichent qu'apres une
+autre mission ou quand Bayek entre dans le rayon du lieu. Coche le nom quand
+la mission est terminee, puis verifie le compteur du journal. Les quetes
+orange gratuites, les quetes bleues quotidiennes et les Trials of the Gods
+sont conservees dans leurs fiches separées et ne remplacent pas ce compteur.
+
+SIWA
+- [ ] Hideaway.
+- [ ] Water Rats.
+- [ ] The Healer.
+- [ ] Family Reunion.
+- [ ] Striking the Anvil.
+- [ ] Prisoners in the Temple.
+- [ ] Bayek's Promise.
+
+IMENT NOME / LAKE MAREOTIS
+- [ ] The Book of the Dead.
+- [ ] Lady of Slaughter.
+- [ ] Birthright.
+- [ ] Taste of Her Sting.
+- [ ] Ulterior Votive.
+- [ ] Hidden Tax.
+- [ ] Ambush in the Temple.
+
+ALEXANDRIA
+- [ ] The Shifty Scribe.
+- [ ] A Tithe By Any Other Name.
+- [ ] Wrath of the Poets.
+- [ ] The Odyssey.
+- [ ] The Last Bodyguard.
+- [ ] Phylakitai in the Eye.
+- [ ] The Accidental Philosopher.
+- [ ] Serapis Unites.
+- [ ] Symposiasts.
+- [ ] Higher Education.
+
+KANOPOS NOME
+- [ ] Blue Hooligans.
+- [ ] Wild Ride.
+- [ ] The Hungry River.
+- [ ] Old Times.
+- [ ] The Weasel.
+
+SAP-MEH NOME
+- [ ] Thick Skin.
+- [ ] In Protest.
+- [ ] Fair Trade.
+
+SAPI-RES NOME / KHENSU NOME
+- [ ] Smoke Over Water.
+- [ ] Conflicts of Interest.
+- [ ] Worker's Lament.
+- [ ] Abuse of Power.
+- [ ] New Kid in Town.
+- [ ] The Tax Master.
+- [ ] The Old Library.
+- [ ] The Ostrich.
+- [ ] All Eyes on Us.
+- [ ] Lost Happiness.
+
+GIZA
+- [ ] Precious Bonds.
+
+MEMPHIS
+- [ ] The Baker's Dilemma.
+- [ ] Children of the Streets.
+- [ ] Blood in the Water.
+- [ ] Mortem Romanum.
+- [ ] Odor Most Foul.
+- [ ] Taimhotep's Song.
+- [ ] A Dream of Ashes.
+
+SAQQARA NOME
+- [ ] When Night Falls.
+- [ ] First Blood.
+- [ ] Rites of Anubis.
+- [ ] A Rebel Alliance.
+
+FAYOUM / FAYOUM OASIS
+- [ ] The Sickness.
+- [ ] Demons in the Desert.
+- [ ] Curse of Wadjet.
+- [ ] Sobek's Tears.
+- [ ] The Champion.
+- [ ] Murder in the Temple.
+- [ ] Feeding Faiyum.
+- [ ] The Bride.
+- [ ] Forging Siwa.
+- [ ] Fires of Dionysias.
+- [ ] Shadya's Rest.
+- [ ] The Jaws of Sobek.
+- [ ] Fighting for Faiyum.
+- [ ] Rebel Strike.
+- [ ] Bad Faith.
+- [ ] Sobek's Gold.
+- [ ] The Man Beast.
+
+UAB NOME / DESHERET DESERT
+- [ ] Seven Farmers.
+
+ATEF-PEHU NOME / HAUERIS NOME
+- [ ] The Matriarch.
+
+HERAKLEION NOME / IM-KHENT NOME / KA-KHEM NOME
+- [ ] Predator to Prey.
+- [ ] Reunion.
+- [ ] Recon Work.
+
+GREEN MOUNTAINS / LIBUE
+- [ ] Halo of the Huntress.
+- [ ] Carpe Diem.
+- [ ] Shadows of Apollo.
+- [ ] The Good Roman.
+- [ ] Unseeing Eyes.
+- [ ] Taking Liberty.
+- [ ] Playing with Fire.
+- [ ] The Lure of Glory.
+
+KYRENAIKA
+- [ ] Dead in the Water.
+- [ ] Are You Not Entertained?.
+- [ ] His Secret Service.
+- [ ] Cat and Mouse.
+- [ ] My Brother for a Horse.
+- [ ] Pax Romana.
+- [ ] The Flea of Cyrene.
+- [ ] The Smuggler of Cyrene.
+- [ ] The Mousetrap.
+- [ ] Absolute Power.
+
+ISOLATED DESERT / BLACK DESERT
+- [ ] Plight of the Rebels.
+
+CHAINES SPECIALES A NE PAS OUBLIER
+
+- [ ] Phylake's Prey : apres le declenchement des Phylakes, vaincre les dix
+      chasseurs de haut niveau et suivre leur chaine jusqu'a la recompense.
+- [ ] The Festival / Lady of Slaughter : prendre la mission dans l'axe
+      Iment Nome/Lake Mareotis et la terminer avec les autres quetes locales.
+- [ ] Seven Farmers : rejoindre le lieu de depart dans Uab Nome/Desheret
+      Desert, puis verifier le tombeau et les fermes autour du marqueur.
+- [ ] Ambush at Sea et les quatre quetes orange gratuites : les terminer si
+      elles sont presentes dans le journal, mais ne pas les compter dans les
+      102 quetes blanches.
+
+TOMBEAUX, TABLETTES, SILICE ET COFFRES
+
+Il y a 19 tombeaux principaux. Dans chacun, la procedure 100 % est la meme :
+Senu pour reperer les salles, torche pour les passages sombres, deplacement
+des etageres/poids, plongee dans les bassins, tablette ancienne, tous les
+coffres et toute la silice jaune. Une tablette valide le lieu, mais ne valide
+pas forcement tous les coffres.
+
+SIWA
+- [ ] Mountain of the Dead.
+
+GIZA
+- [ ] Tomb of Khufu, dans la grande pyramide.
+- [ ] Tomb of Khafre.
+- [ ] Tomb of Menkaure.
+- [ ] Adorer of Toth.
+- [ ] Eesfet Oon-m'Aa Poo Tomb, dans le Sphinx.
+
+SAQQARA NOME
+- [ ] Tomb of Djoser.
+- [ ] Tomb of Sneferu.
+
+ISOLATED DESERT
+- [ ] Golden Tomb.
+- [ ] Oun Maa Niye Ressoot, accessible a la fin de Golden Tomb.
+- [ ] Tomb of the Nomads.
+
+BLACK DESERT
+- [ ] Nomarch's Tomb.
+- [ ] Seshem.eff Er Aat Tomb, accessible a la fin de Nomarch's Tomb.
+
+HAUERIS NOME
+- [ ] Tomb of Amenemhat III.
+- [ ] Tomb of Smenkhkare.
+- [ ] Eeyoo Sekedoo Aat Tomb, accessible a la fin de Tomb of Smenkhkare.
+
+UAB NOME
+- [ ] Tomb of the Cynic.
+
+DESHERET DESERT
+- [ ] Seth-Anat Tomb.
+- [ ] Qeneb Too Kah'Aiye Tomb, accessible a la fin de Seth-Anat Tomb.
+
+Apporte 50 silices au Sphinx apres avoir aligne les 12 cercles de pierre pour
+ouvrir la recompense Isu. Cette recompense n'est pas un succes a elle seule,
+mais elle confirme que le nettoyage des tombeaux est reellement termine.
+
+LES 12 CERCLES DE PIERRE
+
+Aligne chaque constellation avec les etoiles, puis reviens au cercle Amun de
+Siwa une fois les douze valides.
+
+1. Amun - Siwa.
+2. Goat Fish - Isolated Desert.
+3. Apis - Isolated Desert.
+4. Osiris - Qattara Depression.
+5. The Divine Lion - Iment Nome.
+6. Serqet - Iment Nome.
+7. Hathor - Ka-Khem Nome.
+8. Pisces - Faiyum.
+9. Taweret - Faiyum.
+10. The Great Twins - White Desert Oasis.
+11. Horus - Uab Nome.
+12. The Scales - Uab Nome.
+
+LES 5 ERMITES
+
+Chaque ermitage demande une interaction avec le tapis/point de meditation.
+Ils donnent aussi un point de capacite et valident Words of Wisdom.
+
+- [ ] Eremites Hideout - Faiyum.
+- [ ] Ra-Horakhty Mountaintop - Black Desert.
+- [ ] Demesne of Sekhem - Herakleion Nome.
+- [ ] Ogdamos - Paraitonion.
+- [ ] Aquifer Oasis - Qattara Depression.
+
+LES 25 PAPYRUS : EMPLACEMENT DU CLUE ET RESOLUTION
+
+Chaque papyrus est un objet sur une table, dans une bibliotheque, un temple
+ou une maison. Apres l'avoir pris, lis l'indice dans l'inventaire et va au
+repere ci-dessous. Le coffre du tresor doit aussi etre ramasse.
+
+1. A Long Drink - House of Life, Siwa -> grand bassin au sud-est du Temple of
+   Amun, plonge au fond.
+2. Fertile Lands - Hypostyle Hall, Lake Mareotis -> ferme de palmiers au
+   nord-ouest du Temple of Sekhmet a Yamu.
+3. The Stone Gaze - Sarapeion, Alexandria -> ile de Mareotis, statue assise
+   et colonne brisee devant son regard.
+4. Divided Valley - Great Library, Alexandria -> Sap-Meh, pont de pierre et
+   unique arbre vert dans le canyon d'Anthylla.
+5. Ray of Hope - Tomb of Alexander the Great, Alexandria -> arbre de la
+   Qattara Depression, dans la seule zone arrose de la vallee.
+6. Nature's Way - Synagogue, Alexandria -> Kanopos est, deux palmiers tombes
+   qui pointent vers l'arbre isole.
+7. Deafening Silence - Iseion, Alexandria -> ile silencieuse d'Alexandria,
+   suis le palmier tombe jusqu'a la rive.
+8. Dead End - Zephyros Stables, Kanopos -> ravin sans issue au nord du Temple
+   of Letopolis, entre les champs et le desert.
+9. Sea of Sand - Temple of Horus, Sapi-Res -> navire brise au sud-est d'Iment;
+   attends le matin et suis l'ombre en forme de X du mat.
+10. In Plain Sight - Palace of Apries, Memphis -> bassin blanc/boueux unique
+    parmi les bassins colores au sud-est de Krokodilopolis.
+11. Burning Bush - Wabet, Memphis -> arbre unique sur la rive de Memphis,
+    dans la zone seche au-dela du Nil; interagis avec le buisson.
+12. Fallen Friend - Temple of Ptah, Memphis -> canal est, statue sud, mats
+    visibles sous l'eau; plonge a leur verticale.
+13. Stone Fungus - Eastern Cemetery Mastaba, Giza -> plus petit rocher en
+    champignon a l'ouest des pyramides.
+14. The Leaning Tower - Sarapeion of Karanis, Faiyum -> base de la tour au
+    nord de Dionysias Caravanserai.
+15. The Blasphemer - Valley Market, Faiyum -> zone de petites pyramides au
+    nord-ouest de Haueris; cherche la tombe dans l'ombre au moment indique.
+16. Just Laws - House of Iwn, Faiyum Oasis -> cheminee grise du village de
+    potiers d'Atef-Pehu, sur le cote illegal de la route.
+17. Sobek's Rage - Temple of Sobek, Faiyum Oasis -> statue de Sobek face au
+    pharaon assis, au sud de la pyramide brisee de Haueris; coffre derriere la
+    tete du pharaon.
+18. Thoth's Secret - Temple of Thoth, Haueris -> Uab, repaire de leopard,
+    statue oiseau-homme, branche et saut vers la grotte en contrebas.
+19. Twin Despair - Temple of Khonsou, Herakleion -> village a l'est, maison
+    aux pieds dans l'eau et maison sans toit; arbre derriere les deux.
+20. Royal Flora - Galenos' House, Herakleion -> sud-est de la region, sous
+    l'arbre qui domine les autres.
+21. Forsaken City - Asklepieion, Green Mountains -> village de Keno,
+    Paraitonion sud, maison la plus a l'ouest sur la colline.
+22. Wet Work - Oracle of Apollo, Green Mountains -> source de l'aqueduc,
+    grotte finale, premier bassin, deux grandes jarres.
+23. Underground Currents - Tomb of Battos, Kyrenaika -> source de la riviere
+    du lac nord des Green Mountains; remonte le courant jusqu'a la cascade.
+24. Dead or Alive - Apollonion of Cyrene, Kyrenaika -> Green Mountains,
+    arene de l'elephant, entre la cloture et l'eau.
+25. Undue Haste - Temple of Zeus, Kyrenaika -> phare au nord d'Apollonia,
+    base du phare pres de l'eau et du bateau brise.
+
+COFFRES, TRESORS ET LIEUX DE LA CARTE
+
+- Les coffres ordinaires sont souvent a l'interieur d'un batiment, sur un
+  toit, sous une passerelle, dans une cale de navire ou sous l'eau. Senu peut
+  les marquer a travers les murs : fais un tour d'horizon a basse altitude
+  avant de quitter le marqueur.
+- Dans un fort, cherche toujours le commandant, le capitaine, la reserve et
+  les prisonniers. Le coffre de reserve est souvent dans une tente ou une
+  salle fermee, pas au centre de la cour.
+- Dans une ville, inspecte les temples, palais, bibliotheques, maisons de
+  riches, entrepots, ports et iles. La coche de la zone n'est acquise qu'apres
+  tous les objectifs du lieu, pas apres une simple visite.
+- Dans une grotte, regarde les plafonds et les parois cassables, puis reviens
+  a l'entree pour verifier les bassins. Dans un tombeau, ne confonds pas la
+  tablette ancienne avec les coffres de tresor.
+- Dans un navire, monte par la corde, marque le capitaine avec Senu, puis
+  plonge autour de la coque. Plusieurs coffres sont sous la ligne de flottaison.
+- Apres Birth of the Creed, parcours la carte avec le filtre des activites et
+  ne t'arrete que lorsque chaque question blanche/jaune est en or ou cochee.
+  C'est la verification fiable de Old Habits.
+
+PROGRESSION, ARTISANAT ET COMBAT
+
+CAPACITES A PRENDRE DANS CET ORDRE PRATIQUE
+
+1. Sleep Darts, puis Animal Taming.
+2. Dawn and Dusk pour regler l'heure et preparer Namaste.
+3. Enhanced Predator Bow pour Arrow Whisperer.
+4. Elite Ranger pour Archer of the Month.
+5. Overpower et ses ameliorations pour Fatality! et les combats d'arene.
+6. Les capacites de lame, d'assassinat, d'arc et de survie selon ton style.
+
+ARTISANAT ET EQUIPEMENT
+
+- Ameliore la lame secrete, la cuirasse, les brassards, la sacoche d'outils,
+  le carquois et le stabilisateur d'arc des que les composants sont disponibles.
+- Il faut fabriquer 20 ameliorations d'equipement pour Handy Man. Les
+  ameliorations d'armure et d'outils sont comptabilisees; les achats chez le
+  forgeron ne remplacent pas l'artisanat.
+- Pour I'm a Legend, equipe en meme temps une arme legendaire, un bouclier
+  legendaire, un arc legendaire, une tenue legendaire et une monture
+  legendaire. Le niveau n'a pas besoin d'etre identique.
+- Les coffres Heka, les Phylakes, les marchands, les quetes et les ennemis de
+  haut niveau donnent de l'equipement legendaire. Ne vends pas la seule piece
+  d'une categorie avant d'avoir valide le succes.
+
+TECHNIQUES DE SUCCES A PREPARER
+
+- Shadow of Egypt : dans un fort de niveau adapte, marque dix cibles avec Senu
+  et enchaine les eliminations sans declencher l'alerte. Les cibles peuvent
+  etre faibles; le compteur concerne la serie, pas un lieu particulier.
+- Slasher : attire trois ennemis faibles au meme endroit et utilise une arme
+  longue/lourde avec une attaque circulaire. Fais une sauvegarde avant l'essai.
+- The Arrow Whisperer : avec Enhanced Predator Bow, place-toi a plus de 60 m,
+  controle la fleche jusqu'a la tete d'un ennemi immobile et valide le tir.
+- Archer of the Month : avec Elite Ranger, saute depuis un toit ou une
+  monture, vise la tete et tire avant l'atterrissage.
+- Overdesign : empoisonne un ennemi de niveau 35 ou plus avec Poison Darts,
+  equipe une torche et termine-le au feu en moins de 30 secondes. Un patrouil-
+  leur de Kyrenaika est un bon terrain, mais sauvegarde avant.
+- BOOM! : dans un petit camp de bas niveau, assomme des soldats a mains nues,
+  pose un ennemi pres d'une jarre d'huile, puis tire une fleche de feu. Repetes
+  jusqu'a 30 ennemis; les jarres peuvent etre replacees.
+- Shadow of Egypt, BOOM!, Slasher et les tirs peuvent etre finis apres la
+  campagne : ne force pas une tentative dangereuse pendant une mission.
+
+ANIMAUX, SENu, MONTURES ET VEHICULES
+
+- Free as a Bird : utilise Senu regulierement pour le reperage; il faut 30
+  minutes cumulees, pas 30 minutes d'affilee.
+- Run For Your Life! : engage trois combats d'hippopotames puis eloigne-toi
+  sans les tuer. Le compteur demande trois fuites, pas trois victoires.
+- Roooaaarrrrr! : apprends Animal Taming, endormis un lion avec Sleep Darts,
+  approche-toi et apprivoise-le.
+- Circle of Life : depose un cadavre devant un predateur et laisse-le le
+  manger. Senu sert a marquer le predateur avant de poser le corps.
+- Set-up Date : apprivoise un lion, amene-le devant un crocodile et laisse la
+  rencontre se faire. Fais-le dans une zone ouverte et sauvegarde avant.
+- Valide les sept types de vehicule au moins une fois : cheval, chameau,
+  charrette tiree par un cheval, charrette a boeuf, char, canoë et bateau a
+  voile. Le vehicule doit etre conduit, pas seulement vole ou observe.
+- Triathlete se valide naturellement, mais finis-le au besoin sur plusieurs
+  sessions : 1 500 m de nage, 40 km a cheval/vehicule et 10 km a pied.
+
+ACTIVITES DE COMBAT ET DE CARTE
+
+PHYLakes
+
+- Apres Gennadios the Phylakitai, les dix Phylakes parcourent l'Egypte.
+  Utilise Senu pour les identifier, attire-les dans une zone ouverte et
+  evite de les affronter trop tot. Vaincre un Phylake valide Defy Authority;
+  vaincre les dix et terminer la chaine de recompense complete la partie
+  Phylakes de la carte.
+
+ELEPHANTS
+
+- The Harder They Fall demande Qetesh et Resheph, les deux elephants du sud
+  d'UAB Nome. Marque-les avec Senu, detruis d'abord les protections et vise
+  les points faibles depuis le flanc. La victoire sur les autres elephants
+  sert au nettoyage de carte mais n'est pas necessaire a ce succes.
+
+ARENE DE KROKODILOPOLIS
+
+- Termine les huit niveaux de la premiere serie : deux etapes, quatre
+  niveaux chacune, trois vagues par niveau. Adapte l'arme au type d'adversaire,
+  conserve l'Overpower pour le boss et ne quitte pas avant l'ecran de resultat.
+- For Those About to Die... demande tous les evenements de l'arene de
+  Krokodilopolis; les repetitions plus difficiles et les combats optionnels
+  qui reapparaissent ne sont pas necessaires au succes mais peuvent completer
+  les recompenses.
+- Fatality! doit etre valide en achevant un boss d'arene avec Overpower.
+
+HIPPODROME
+
+- Inscris-toi au premier tournoi, gagne au moins deux courses et termine la
+  serie demandee pour Ben-Hur. Apprends les virages et les changements de
+  voie avant de chercher le meilleur temps : l'objectif est la victoire.
+
+PLONGEE, NAVIRES ET PHOTOS
+
+- Master Diver : utilise les marqueurs sous-marins de la carte, marque chaque
+  coffre avec Senu et termine 15 lieux sous l'eau. Les epaves comptent.
+- Where's My Black Flag? : monte sur huit navires differents et tue leur
+  capitaine. Senu repere le capitaine avant l'abordage; les capitaines des
+  navires de commerce sont les cibles les plus simples.
+- Reporter : active le mode photo et prends au moins une photo dans cinq
+  territoires differents. Les photos doivent etre confirmees dans le mode
+  photo, puis verifie la notification Steam.
+- I Know My Land : defog toute la carte en synchronisant les points de vue et
+  en visitant les zones encore grises. Le brouillard de The Hidden Ones et de
+  The Curse of the Pharaohs ne remplace pas celui de l'Egypte de base.
+
+TEMPS, ARENES ET CONDITIONS PARTICULIERES
+
+- Namaste : debloque Dawn and Dusk, avance l'heure 30 fois et attends la
+  confirmation Steam. Fais-le en dehors d'une mission qui bloque l'horloge.
+- Overheating : dans le Black Desert ou un autre desert tres aride, reste
+  dehors par forte chaleur et observe l'evenement de pluie de scarabees. Il
+  est aleatoire; change de zone, attends, puis reviens si rien ne se produit.
+- I Can See My House From Here! : atteins le sommet du monde dans le Black
+  Desert, pres du point haut/ermitage. Escalade jusqu'a la notification plutot
+  que de te fier a la simple vue panoramique.
+- What Time is It? concerne le cadran solaire d'Arsinoe dans The Hidden Ones :
+  fais le saut de foi entre 10 h et midi, heure du jeu.
+- Reduce, Reuse, Recycle : accumule exactement au moins 100 trinkets, ouvre un
+  marchand, vends-les en une seule transaction et attends la notification.
+
+THE HIDDEN ONES - ROUTE COMPLETE SANS SPOILER
+
+Lance ce DLC apres Birth of the Creed. Atteins le niveau recommande avant de
+quitter une zone. La carte du Sinai a son propre compteur : ne la melange pas
+avec Old Habits de l'Egypte.
+
+ORDRE DES MISSIONS PRINCIPALES
+
+1. The Hidden Ones / The Land of Turquoise.
+2. Where the Slaves Die.
+3. The Walls of the Ruler.
+4. The Setting Sun.
+5. No Chains Too Thick.
+6. Sic Semper Tyrannis.
+7. The Greater Good.
+
+APRES CHAQUE MISSION
+
+- [ ] Fouiller Klysma, Madiama et Arsinoe avec Senu.
+- [ ] Terminer toutes les quetes blanches de Sinai et les quetes de proximite.
+- [ ] Vider les trois grandes citadelles, les camps, les ports, les grottes,
+      les coffres et les lieux sous-marins; obtenir les coches or.
+- [ ] Liberer 20 rebelles dans les prisons du Sinai pour Prison Break.
+- [ ] Terminer Rise of Shaqilat et Shadows of the Scarab pour New Recruits.
+- [ ] Assassiner les trois cibles des missions Where the Slaves Die, The Walls
+      of the Ruler et The Setting Sun pour Surgical Strikes.
+- [ ] Nettoyer la citadelle Walls-of-the-Ruler pour Walls of the Ruler.
+- [ ] Faire trois eliminations depuis une tyrolienne pour Zip it Off. Les
+      remparts et les forts offrent plusieurs lignes fiables.
+- [ ] Utiliser Senu pour harceler une cible, puis la tuer d'une fleche dans la
+      tete pour Team Play.
+- [ ] A Arsinoe, regler l'heure entre 10 h et midi et faire le saut de foi du
+      cadran solaire pour What Time is It?.
+- [ ] Terminer The Greater Good en dernier pour fermer la route narrative du
+      DLC et valider son succes.
+
+THE CURSE OF THE PHARAOHS - ROUTE COMPLETE SANS SPOILER
+
+Lance ce DLC apres The Hidden Ones. Il utilise Thebes/Waset et quatre zones
+d'outre-monde : Aaru, Aten, Duat et Heb Sed. Fais les quetes de la zone avant
+de passer a la suivante pour ne pas repasser inutilement par les portails.
+
+ORDRE DE ROUTE
+
+1. No Honor Amongst Thebes et The Lady of Grace.
+2. Missions in Aaru, puis toutes les activites et lieux d'Aaru.
+3. Aten Rising et The Heretic, puis les lieux d'Aten.
+4. The King of Kings, A Pharaoh's Heart and Name, A Pharaoh's Shadow,
+   A Pharaoh's Hemset et A Pharaoh's Ka, dans l'ordre d'apparition du journal.
+5. Blood in the Water, puis les activites de Heb Sed et Duat.
+6. The Curse of the Pharaohs, Perchance to Dream et les missions finales du
+   journal. Le jeu indique lui-meme la prochaine etape : suis le marqueur sans
+   chercher a deviner la suite narrative.
+
+CONTROLE DES ZONES ET DES SUCCES
+
+- [ ] Atteindre le niveau 55 : les quetes, les lieux, les ennemis de DLC et
+      les activites d'outre-monde fournissent l'experience necessaire.
+- [ ] Craft une amelioration avec des Shards of a Star. Les scorpions geants
+      d'Aaru sont une source pratique; ne depense pas les fragments avant le
+      craft pour Project Comet.
+- [ ] Terminer les cinq activites Serqet : une dans Waset Desert et une dans
+      chacune des zones Aaru, Aten, Duat et Heb Sed. Utilise la carte propre a
+      chaque zone et valide l'objectif de l'activite, pas seulement son entree.
+- [ ] Mettre le feu a une momie avec torche, fleche de feu ou jarre d'huile
+      pour Pyromaniac. Fais-le sur un ennemi isole afin que l'animation de feu
+      soit visible.
+- [ ] Acheter Eternal Maw au marchand d'ecurie de Set Ma'at pour 5 000
+      drachmes et verifier que la monture reste utilisable hors des
+      outre-mondes pour Dark Horse.
+- [ ] Fouiller tous les temples, villages, tombeaux, coffres, points de vue,
+      portails et lieux en or de Thebes, Waset, Aaru, Aten, Duat et Heb Sed.
+- [ ] Les lieux de l'outre-monde ne comptent pas dans Old Habits de la carte
+      de base : valide les deux compteurs separement.
+
+DISCOVERY TOUR
+
+Le Discovery Tour se lance depuis son entree de menu et possede son propre
+compteur. Il n'y a pas de combat : fais les tours comme des fiches d'activite.
+
+- [ ] First Visit : terminer un tour quelconque.
+- [ ] Archeologist : terminer tous les tours de la categorie Daily Life.
+- [ ] Polymorph : terminer des tours avec au moins cinq personnages
+      differents; change de personnage via le passeport avant de lancer chaque
+      tour et verifie le compteur.
+- [ ] Parcourir toutes les categories restantes pour le 100 % personnel du
+      mode, meme si elles ne sont pas necessaires aux trois succes Steam.
+
+CHECKLIST STEAM FINALE - 67/67
+
+- [ ] First Steps.
+- [ ] Raider of the Lost Tomb.
+- [ ] The Festival.
+- [ ] I'm Just Getting Started.
+- [ ] You still need 8880...
+- [ ] The Scarab.
+- [ ] The Sea.
+- [ ] Rider's Licence.
+- [ ] Smash!
+- [ ] The Hyena.
+- [ ] Handy Man.
+- [ ] Wake Up!
+- [ ] Run For Your Life!
+- [ ] Triathlete.
+- [ ] The Lizard.
+- [ ] Free as a Bird.
+- [ ] Shadow of Egypt.
+- [ ] Defy Authority.
+- [ ] I'm Done Learning.
+- [ ] The Crocodile.
+- [ ] Slasher.
+- [ ] The Siege.
+- [ ] I'm a Legend.
+- [ ] Almost There.
+- [ ] The End.
+- [ ] Elementary, My Dear Bayek.
+- [ ] The Arrow Whisperer.
+- [ ] Seven Farmers.
+- [ ] Fatality!.
+- [ ] Stargazer.
+- [ ] Prison Break.
+- [ ] Ben-Hur.
+- [ ] I Know My Land.
+- [ ] Archer of the Month.
+- [ ] Roooaaarrrrr!.
+- [ ] I Can See My House From Here!.
+- [ ] Surgical Strikes.
+- [ ] The Harder They Fall.
+- [ ] Road Rage.
+- [ ] The Greater Good.
+- [ ] Master Diver.
+- [ ] Project Comet.
+- [ ] Team Play.
+- [ ] Higher Power.
+- [ ] New Recruits.
+- [ ] Walls of the Ruler.
+- [ ] Overheating.
+- [ ] Where's My Black Flag?.
+- [ ] Circle of Life.
+- [ ] Lift the Curse.
+- [ ] Namaste.
+- [ ] First Visit.
+- [ ] Words of Wisdom.
+- [ ] For Those About to Die….
+- [ ] Reporter.
+- [ ] Reduce, Reuse, Recycle.
+- [ ] Pyromaniac.
+- [ ] Set-up Date.
+- [ ] Sting in the Tale.
+- [ ] Old Habits.
+- [ ] Overdesign.
+- [ ] Dark Horse.
+- [ ] What Time is It?.
+- [ ] Zip it Off.
+- [ ] Polymorph.
+- [ ] BOOM!.
+- [ ] Archeologist.
+
+VERIFICATION FINALE
+
+- [ ] Journal : 24 missions principales et 102 quetes annexes de base relues.
+- [ ] Carte d'Egypte : toutes les regions defog, tous les lieux en or/coche.
+- [ ] 19 tombeaux, 12 cercles, 25 papyri, 5 ermites et 15 lieux sous-marins.
+- [ ] Equipement legendaire complet, 20 crafts, Phylakes, elephants, arena,
+      hippodrome, animaux, vehicules, photos et compteurs speciaux.
+- [ ] The Hidden Ones : quetes, citadelles, rebelles et huit succes.
+- [ ] The Curse of the Pharaohs : Thebes, quatre outre-mondes, Serqet,
+      Eternal Maw et six succes.
+- [ ] Discovery Tour : Daily Life, cinq personnages et tours restants.
+- [ ] Profil Steam : 67/67 succes.
 
 REGLE ANTI-SPOILER
 
-Les regions, outils, activites et compteurs servent uniquement a ordonner la
-progression. Aucun evenement narratif, boss, identite, mort, fin ou consequence
-n'est decrit.
+Les noms de missions, les regions, les lieux, les compteurs et les objectifs
+techniques sont les seuls reperes utilises. Cette fiche ne raconte aucun
+evenement narratif et ne revele aucun personnage, boss, mort, identite,
+retournement, consequence ou fin.
