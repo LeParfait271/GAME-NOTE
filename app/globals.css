@@ -679,6 +679,57 @@ button {
   letter-spacing: 0.09em;
 }
 
+.catalog-index {
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 5px;
+  margin: -10px 0 18px;
+  padding: 8px 10px;
+  border: 1px solid var(--line);
+  border-radius: 12px;
+  background: color-mix(in srgb, var(--card) 74%, transparent);
+}
+
+.catalog-index-label {
+  margin-right: 4px;
+  color: var(--coral);
+  font-size: 0.52rem;
+  font-weight: 900;
+  letter-spacing: 0.13em;
+}
+
+.catalog-index button {
+  display: grid;
+  min-width: 25px;
+  height: 25px;
+  align-items: center;
+  justify-content: center;
+  padding: 0 6px;
+  border: 1px solid var(--line);
+  border-radius: 6px;
+  background: color-mix(in srgb, var(--paper) 52%, var(--card));
+  color: var(--muted);
+  cursor: pointer;
+  font-size: 0.56rem;
+  font-weight: 900;
+  letter-spacing: 0.04em;
+  transition: border-color 160ms ease, background 160ms ease, color 160ms ease, transform 160ms ease;
+}
+
+.catalog-index button:hover,
+.catalog-index button:focus-visible,
+.catalog-index button.is-active {
+  border-color: var(--coral);
+  background: color-mix(in srgb, var(--coral) 13%, var(--card));
+  color: var(--navy);
+}
+
+.catalog-index button:hover,
+.catalog-index button:focus-visible {
+  transform: translateY(-1px);
+}
+
 .guide-grid {
   display: grid;
   grid-template-columns: repeat(3, minmax(0, 1fr));
@@ -1841,6 +1892,18 @@ button.reader-neighbor:focus-visible {
     gap: 9px;
     margin-top: -4px;
     padding: 12px;
+  }
+
+  .catalog-index {
+    align-items: flex-start;
+    gap: 5px;
+    margin-top: 3px;
+    padding: 8px;
+  }
+
+  .catalog-index-label {
+    width: 100%;
+    margin: 0 0 2px;
   }
 
   .library-filters {

@@ -2972,6 +2972,14 @@ const sortGuidesAlphabetically = (items: Guide[]) =>
     left.title.localeCompare(right.title, "fr", { sensitivity: "base" }),
   );
 
+const catalogLetters = Array.from(
+  new Set(
+    sortGuidesAlphabetically(guides).map((guide) =>
+      normalizeCatalogText(guide.title).charAt(0).toUpperCase(),
+    ),
+  ),
+).sort((left, right) => left.localeCompare(right, "fr"));
+
 type StoredPreferences = {
   theme?: Theme;
 };
@@ -3009,6 +3017,7 @@ function openReader(
   url.searchParams.delete("view");
   url.searchParams.delete("q");
   url.searchParams.delete("filter");
+  url.searchParams.delete("letter");
   url.searchParams.set("guide", id);
   url.hash = "";
   window.history.pushState({ guide: id }, "", url);
@@ -3020,6 +3029,7 @@ export default function Home() {
   const [search, setSearch] = useState("");
   const [catalogSearch, setCatalogSearch] = useState("");
   const [catalogFilter, setCatalogFilter] = useState<CatalogFilter>("all");
+  const [catalogLetter, setCatalogLetter] = useState("");
   const [catalogLimit, setCatalogLimit] = useState(24);
   const [theme, setTheme] = useState<Theme>("light");
   const [isOnline, setIsOnline] = useState(true);
@@ -3039,6 +3049,8 @@ export default function Home() {
 
     return guides
       .filter((guide) => {
+        const firstLetter = normalizeCatalogText(guide.title).charAt(0).toUpperCase();
+        const matchesLetter = !catalogLetter || firstLetter === catalogLetter;
         const searchableText = [
           guide.title,
           guide.eyebrow,
@@ -3057,12 +3069,12 @@ export default function Home() {
           (catalogFilter === "dlc" && normalized.includes("dlc")) ||
           (catalogFilter === "offline" && normalized.includes("hors ligne"));
 
-        return matchesSearch && matchesFilter;
+        return matchesSearch && matchesFilter && matchesLetter;
       })
       .sort((left, right) =>
         left.title.localeCompare(right.title, "fr", { sensitivity: "base" }),
       );
-  }, [catalogFilter, catalogSearch]);
+  }, [catalogFilter, catalogLetter, catalogSearch]);
   const effectiveCatalogLimit = catalogSearch || catalogFilter !== "all" ? 24 : catalogLimit;
   const displayedGuides = visibleGuides.slice(0, effectiveCatalogLimit);
 
@@ -3083,6 +3095,7 @@ export default function Home() {
     const requestedGuide = url.searchParams.get("guide");
     const requestedSearch = url.searchParams.get("q");
     const requestedFilter = url.searchParams.get("filter") as CatalogFilter | null;
+    const requestedLetter = url.searchParams.get("letter")?.toUpperCase() ?? "";
     const validRequestedGuide = guides.find((guide) => guide.id === requestedGuide);
     setTheme(preferredTheme);
     setCatalogSearch(requestedSearch ?? "");
@@ -3091,6 +3104,7 @@ export default function Home() {
         ? requestedFilter
         : "all",
     );
+    setCatalogLetter(catalogLetters.includes(requestedLetter) ? requestedLetter : "");
     if (validRequestedGuide) {
       setSelectedId(validRequestedGuide.id);
       setReaderMode(true);
@@ -3115,11 +3129,13 @@ export default function Home() {
       const nextGuide = guides.find((guide) => guide.id === nextUrl.searchParams.get("guide"));
       setCatalogSearch(nextUrl.searchParams.get("q") ?? "");
       const nextFilter = nextUrl.searchParams.get("filter") as CatalogFilter | null;
+      const nextLetter = nextUrl.searchParams.get("letter")?.toUpperCase() ?? "";
       setCatalogFilter(
         nextFilter && CATALOG_FILTERS.some((filter) => filter.id === nextFilter)
           ? nextFilter
           : "all",
       );
+      setCatalogLetter(catalogLetters.includes(nextLetter) ? nextLetter : "");
       if (nextGuide) {
         setSelectedId(nextGuide.id);
         setInvalidGuideId(null);
@@ -3161,8 +3177,10 @@ export default function Home() {
     else url.searchParams.delete("q");
     if (catalogFilter !== "all") url.searchParams.set("filter", catalogFilter);
     else url.searchParams.delete("filter");
+    if (catalogLetter) url.searchParams.set("letter", catalogLetter);
+    else url.searchParams.delete("letter");
     window.history.replaceState(window.history.state, "", url);
-  }, [catalogFilter, catalogSearch, preferencesReady, readerMode]);
+  }, [catalogFilter, catalogLetter, catalogSearch, preferencesReady, readerMode]);
 
   useEffect(() => {
     const updateOnlineState = () => setIsOnline(window.navigator.onLine);
@@ -3226,16 +3244,33 @@ export default function Home() {
     setSearch("");
     setCatalogSearch("");
     setCatalogFilter("all");
+    setCatalogLetter("");
     setInvalidGuideId(null);
     const url = new URL(window.location.href);
     url.searchParams.delete("guide");
     url.searchParams.delete("q");
     url.searchParams.delete("filter");
+    url.searchParams.delete("letter");
     url.hash = "guides";
     window.history.pushState({ gameNote: "library" }, "", url);
     window.requestAnimationFrame(() => {
       document.getElementById("guides")?.scrollIntoView({ behavior: "smooth", block: "start" });
     });
+  };
+
+  const updateCatalogLetter = (letter: string) => {
+    setCatalogLetter(letter);
+    setCatalogLimit(24);
+    window.requestAnimationFrame(() => {
+      document.getElementById("guides")?.scrollIntoView({ behavior: "smooth", block: "start" });
+    });
+  };
+
+  const resetCatalog = () => {
+    setCatalogSearch("");
+    setCatalogFilter("all");
+    setCatalogLetter("");
+    setCatalogLimit(24);
   };
 
   const clearInvalidGuide = () => {
@@ -3360,6 +3395,30 @@ export default function Home() {
           </span>
         </div>
 
+        <nav className="catalog-index" aria-label="Index alphabétique des soluces">
+          <span className="catalog-index-label">INDEX</span>
+          <button
+            className={!catalogLetter ? "is-active" : ""}
+            type="button"
+            aria-pressed={!catalogLetter}
+            onClick={() => updateCatalogLetter("")}
+          >
+            Toutes
+          </button>
+          {catalogLetters.map((letter) => (
+            <button
+              className={catalogLetter === letter ? "is-active" : ""}
+              type="button"
+              aria-label={`Afficher les soluces commençant par ${letter}`}
+              aria-pressed={catalogLetter === letter}
+              key={letter}
+              onClick={() => updateCatalogLetter(letter)}
+            >
+              {letter}
+            </button>
+          ))}
+        </nav>
+
         <div className="library-filters" aria-label="Filtrer les soluces">
           <span>FILTRER</span>
           <div role="group" aria-label="Filtres de bibliothèque">
@@ -3375,14 +3434,11 @@ export default function Home() {
               </button>
             ))}
           </div>
-          {catalogSearch || catalogFilter !== "all" ? (
+          {catalogSearch || catalogFilter !== "all" || catalogLetter ? (
             <button
               className="library-reset"
               type="button"
-              onClick={() => {
-                setCatalogSearch("");
-                setCatalogFilter("all");
-              }}
+              onClick={resetCatalog}
             >
               Réinitialiser
             </button>
@@ -3444,7 +3500,7 @@ export default function Home() {
             <button
               className="button button-outline"
               type="button"
-              onClick={() => { setCatalogSearch(""); setCatalogFilter("all"); }}
+              onClick={resetCatalog}
             >
               Afficher les {guides.length} guides
             </button>
