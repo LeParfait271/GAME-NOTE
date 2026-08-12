@@ -41,6 +41,10 @@ test("le shell statique conserve les repères accessibles", () => {
   assert.match(index, /application\/ld\+json/);
   assert.match(index, /class="guide-card-open"/);
   assert.match(pageSource, /localeCompare\(right\.title, "fr", \{ sensitivity: "base" \}\)/);
+  assert.match(pageSource, /className="library-reset"/);
+  assert.match(pageSource, /visibleGuides\.findIndex/);
+  assert.match(readerSource, /className="reader-neighbors"/);
+  assert.match(readerSource, /position A–Z/);
   assert.doesNotMatch(index, /favorite-toggle|Afficher les guides favoris|Favoris \(/i);
   assert.doesNotMatch(index, /hero-feature|route-console|method-section|mobile-bottom-nav/);
   assert.match(index, /aria-keyshortcuts="Control\+K Meta\+K"/);

@@ -2967,6 +2967,11 @@ const CATALOG_FILTERS: Array<{ id: CatalogFilter; label: string }> = [
   { id: "offline", label: "Hors ligne" },
 ];
 
+const sortGuidesAlphabetically = (items: Guide[]) =>
+  [...items].sort((left, right) =>
+    left.title.localeCompare(right.title, "fr", { sensitivity: "base" }),
+  );
+
 type StoredPreferences = {
   theme?: Theme;
 };
@@ -3025,6 +3030,10 @@ export default function Home() {
   const guideSearchRef = useRef<HTMLInputElement>(null);
 
   const selected = guides.find((guide) => guide.id === selectedId) ?? guides[0];
+  const alphabeticalGuides = useMemo(() => sortGuidesAlphabetically(guides), []);
+  const selectedIndex = alphabeticalGuides.findIndex((guide) => guide.id === selected.id);
+  const previousGuide = selectedIndex > 0 ? alphabeticalGuides[selectedIndex - 1] : undefined;
+  const nextGuide = selectedIndex >= 0 ? alphabeticalGuides[selectedIndex + 1] : undefined;
   const visibleGuides = useMemo(() => {
     const query = normalizeCatalogText(catalogSearch.trim());
 
@@ -3346,7 +3355,8 @@ export default function Home() {
             ) : null}
           </div>
           <span className="catalog-count" aria-live="polite">
-            {visibleGuides.length} soluce{visibleGuides.length > 1 ? "s" : ""} sur {guides.length}
+            <strong>{visibleGuides.length}</strong> soluce{visibleGuides.length > 1 ? "s" : ""} sur {guides.length}
+            <em>A–Z</em>
           </span>
         </div>
 
@@ -3365,56 +3375,67 @@ export default function Home() {
               </button>
             ))}
           </div>
+          {catalogSearch || catalogFilter !== "all" ? (
+            <button
+              className="library-reset"
+              type="button"
+              onClick={() => {
+                setCatalogSearch("");
+                setCatalogFilter("all");
+              }}
+            >
+              Réinitialiser
+            </button>
+          ) : null}
         </div>
 
         {visibleGuides.length > 0 ? (
           <div className="guide-grid">
-            {displayedGuides.map((guide) => (
-            <article
-              className={
-                "guide-card guide-card-" + guide.accent
-              }
-              key={guide.id}
-            >
-              <div className="card-top">
-                <span className="card-index">{String(guides.findIndex((item) => item.id === guide.id) + 1).padStart(2, "0")}</span>
-                <span className="card-tag">{guide.tag}</span>
-              </div>
-              <button
-                className="guide-card-open"
-                type="button"
-                aria-label={`Ouvrir la soluce ${guide.title}`}
-                onClick={() => {
-                    handleOpenReader(guide.id);
-                }}
-              >
-                <div className="card-artwork">
-                  {/* eslint-disable-next-line @next/next/no-img-element */}
-                  <img
-                    src={guide.artworkUrl ?? steamHeaderUrl(guide.steamAppId)}
-                    alt={`Illustration officielle de ${guide.title}`}
-                    width={460}
-                    height={215}
-                    loading="lazy"
-                    decoding="async"
-                  />
-                </div>
-                <div className="card-copy">
-                  <p className="card-eyebrow">{guide.eyebrow}</p>
-                  <h3>{guide.title}</h3>
-                  <p className="card-subtitle">{guide.subtitle}</p>
-                  <div className="card-meta">
-                    {guide.meta.map((item) => (
-                      <span key={item}>{item}</span>
-                    ))}
+            {displayedGuides.map((guide) => {
+              const catalogPosition = visibleGuides.findIndex((item) => item.id === guide.id) + 1;
+              return (
+                <article
+                  className={"guide-card guide-card-" + guide.accent}
+                  key={guide.id}
+                >
+                  <div className="card-top">
+                    <span className="card-index">{String(catalogPosition).padStart(2, "0")}</span>
+                    <span className="card-tag">{guide.tag}</span>
                   </div>
-                  <span className="card-link">
-            Ouvrir la soluce <span aria-hidden="true">↗</span>
-                  </span>
-                </div>
-              </button>
-            </article>
-            ))}
+                  <button
+                    className="guide-card-open"
+                    type="button"
+                    aria-label={`Ouvrir la soluce ${guide.title}`}
+                    onClick={() => handleOpenReader(guide.id)}
+                  >
+                    <div className="card-artwork">
+                      {/* eslint-disable-next-line @next/next/no-img-element */}
+                      <img
+                        src={guide.artworkUrl ?? steamHeaderUrl(guide.steamAppId)}
+                        alt={`Illustration officielle de ${guide.title}`}
+                        width={460}
+                        height={215}
+                        loading="lazy"
+                        decoding="async"
+                      />
+                    </div>
+                    <div className="card-copy">
+                      <p className="card-eyebrow">{guide.eyebrow}</p>
+                      <h3>{guide.title}</h3>
+                      <p className="card-subtitle">{guide.subtitle}</p>
+                      <div className="card-meta">
+                        {guide.meta.map((item) => (
+                          <span key={item}>{item}</span>
+                        ))}
+                      </div>
+                      <span className="card-link">
+                        Ouvrir la soluce <span aria-hidden="true">↗</span>
+                      </span>
+                    </div>
+                  </button>
+                </article>
+              );
+            })}
           </div>
         ) : (
           <div className="empty-state" role="status">
@@ -3442,13 +3463,18 @@ export default function Home() {
       </> : null}
 
       {readerMode ? <section className="reader-section" id="reader">
-        <GuideReader
-          selected={selected}
-          search={search}
-          setSearch={setSearch}
-          guideSearchRef={guideSearchRef}
-          onBack={goToLibrary}
-        />
+          <GuideReader
+            selected={selected}
+            previousGuide={previousGuide}
+            nextGuide={nextGuide}
+            catalogPosition={selectedIndex + 1}
+            catalogTotal={alphabeticalGuides.length}
+            search={search}
+            setSearch={setSearch}
+            guideSearchRef={guideSearchRef}
+            onBack={goToLibrary}
+            onNavigate={handleOpenReader}
+          />
       </section> : null}
 
       <footer className="site-footer">

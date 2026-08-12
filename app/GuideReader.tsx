@@ -3,6 +3,7 @@
 import { useEffect, useMemo, useRef, useState, type RefObject } from "react";
 
 type ReaderGuide = {
+  id: string;
   steamAppId: number;
   artworkUrl?: string;
   title: string;
@@ -25,10 +26,15 @@ type GuideBlock = {
 
 type GuideReaderProps = {
   selected: ReaderGuide;
+  previousGuide?: ReaderGuide;
+  nextGuide?: ReaderGuide;
+  catalogPosition: number;
+  catalogTotal: number;
   search: string;
   setSearch: (value: string) => void;
   guideSearchRef: RefObject<HTMLInputElement | null>;
   onBack: () => void;
+  onNavigate: (id: string) => void;
 };
 
 const normalizeGuideText = (value: string) =>
@@ -183,10 +189,15 @@ const formatText = (text: string) =>
 
 export default function GuideReader({
   selected,
+  previousGuide,
+  nextGuide,
+  catalogPosition,
+  catalogTotal,
   search,
   setSearch,
   guideSearchRef,
   onBack,
+  onNavigate,
 }: GuideReaderProps) {
   const [guideText, setGuideText] = useState("");
   const [loading, setLoading] = useState(true);
@@ -369,8 +380,8 @@ export default function GuideReader({
               <span>objectifs Steam</span>
             </div>
             <div>
-              <strong>100 %</strong>
-              <span>route suivie</span>
+              <strong>{catalogPosition ? `${catalogPosition}/${catalogTotal}` : "—"}</strong>
+              <span>position A–Z</span>
             </div>
           </div>
         </div>
@@ -383,6 +394,35 @@ export default function GuideReader({
           </div>
         </div>
       </div>
+
+      <nav className="reader-neighbors" aria-label="Naviguer entre les soluces">
+        {previousGuide ? (
+          <button
+            className="reader-neighbor reader-neighbor-prev"
+            type="button"
+            aria-label={`Ouvrir la soluce précédente : ${previousGuide.title}`}
+            onClick={() => onNavigate(previousGuide.id)}
+          >
+            <span>Précédente</span>
+            <strong>← {previousGuide.title}</strong>
+          </button>
+        ) : (
+          <span className="reader-neighbor reader-neighbor-muted">Début de la bibliothèque</span>
+        )}
+        {nextGuide ? (
+          <button
+            className="reader-neighbor reader-neighbor-next"
+            type="button"
+            aria-label={`Ouvrir la soluce suivante : ${nextGuide.title}`}
+            onClick={() => onNavigate(nextGuide.id)}
+          >
+            <span>Suivante</span>
+            <strong>{nextGuide.title} →</strong>
+          </button>
+        ) : (
+          <span className="reader-neighbor reader-neighbor-muted reader-neighbor-end">Dernière fiche</span>
+        )}
+      </nav>
 
       <div className="reader-tools">
         <div className="reader-tools-copy">
@@ -489,7 +529,7 @@ export default function GuideReader({
               <div>
                 <p className="document-kicker">FEUILLE DE ROUTE INTERACTIVE</p>
                 <h2>Le parcours, au bon moment</h2>
-                <p>Lis les repères dans l'ordre, utilise le sommaire pour revenir à une zone et coche les objectifs Steam à la fin.</p>
+                <p>Lis les repères dans l&apos;ordre, utilise le sommaire pour revenir à une zone et coche les objectifs Steam à la fin.</p>
               </div>
               <div className="reader-document-seal" aria-label={`${checklist.length || 0} objectifs Steam suivis`}>
                 <span>STEAM</span>

@@ -463,7 +463,7 @@ button {
 }
 
 .section-block {
-  padding-block: 64px 96px;
+  padding-block: 48px 96px;
 }
 
 .section-heading {
@@ -495,7 +495,7 @@ button {
   top: 91px;
   z-index: 20;
   display: grid;
-  grid-template-columns: auto minmax(220px, 1fr) auto auto;
+  grid-template-columns: auto minmax(220px, 1fr) auto;
   align-items: center;
   gap: 14px;
   margin: -9px 0 23px;
@@ -561,6 +561,27 @@ button {
   border-color: var(--coral);
   background: color-mix(in srgb, var(--coral) 12%, var(--card));
   color: var(--navy);
+}
+
+.library-reset {
+  min-height: 29px;
+  margin-left: auto;
+  padding: 5px 0;
+  border: 0;
+  background: transparent;
+  color: var(--coral);
+  cursor: pointer;
+  font-size: 0.58rem;
+  font-weight: 900;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+}
+
+.library-reset:hover,
+.library-reset:focus-visible {
+  color: var(--navy);
+  text-decoration: underline;
+  text-underline-offset: 3px;
 }
 
 .catalog-search-wrap,
@@ -631,10 +652,31 @@ button {
 }
 
 .catalog-count {
+  display: flex;
+  align-items: baseline;
+  gap: 5px;
   color: var(--muted);
   font-size: 0.63rem;
   font-weight: 800;
   white-space: nowrap;
+}
+
+.catalog-count strong {
+  color: var(--navy);
+  font-size: 0.88rem;
+  letter-spacing: -0.04em;
+}
+
+.catalog-count em {
+  margin-left: 4px;
+  padding: 4px 6px;
+  border: 1px solid color-mix(in srgb, var(--coral) 42%, var(--line));
+  border-radius: 4px;
+  color: var(--coral);
+  font-size: 0.52rem;
+  font-style: normal;
+  font-weight: 900;
+  letter-spacing: 0.09em;
 }
 
 .guide-grid {
@@ -729,7 +771,7 @@ button {
   --card-accent: var(--gold);
 }
 
-.guide-card:hover {
+.guide-card:is(:hover, :focus-within) {
   border-color: color-mix(in srgb, var(--card-accent) 70%, var(--line));
   box-shadow: 0 22px 48px color-mix(in srgb, var(--navy) 13%, transparent);
   transform: translateY(-4px);
@@ -754,7 +796,7 @@ button {
 }
 
 .card-index::before {
-  content: "SOLUCE ";
+  content: "FICHE ";
 }
 
 .card-tag {
@@ -816,7 +858,7 @@ button {
   transition: transform 280ms ease;
 }
 
-.guide-card:hover .card-artwork img {
+.guide-card:is(:hover, :focus-within) .card-artwork img {
   transform: scale(1.045);
 }
 
@@ -910,12 +952,76 @@ button {
   padding-block: 44px 96px;
 }
 
+.reader-neighbors {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 10px;
+  margin: 14px 0 0;
+}
+
+.reader-neighbor {
+  display: grid;
+  min-width: 0;
+  min-height: 49px;
+  align-content: center;
+  gap: 4px;
+  padding: 8px 13px;
+  border: 1px solid var(--line);
+  border-radius: 11px;
+  background: color-mix(in srgb, var(--card) 88%, transparent);
+  color: var(--navy);
+  text-align: left;
+}
+
+button.reader-neighbor {
+  cursor: pointer;
+  transition: border-color 160ms ease, background 160ms ease, transform 160ms ease;
+}
+
+button.reader-neighbor:hover,
+button.reader-neighbor:focus-visible {
+  border-color: var(--coral);
+  background: color-mix(in srgb, var(--coral) 8%, var(--card));
+  transform: translateY(-2px);
+}
+
+.reader-neighbor span {
+  color: var(--coral);
+  font-size: 0.5rem;
+  font-weight: 900;
+  letter-spacing: 0.13em;
+  text-transform: uppercase;
+}
+
+.reader-neighbor strong {
+  overflow: hidden;
+  color: var(--navy);
+  font-size: 0.68rem;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.reader-neighbor-next {
+  text-align: right;
+}
+
+.reader-neighbor-muted {
+  align-content: center;
+  color: var(--muted);
+  font-size: 0.6rem;
+  font-weight: 800;
+}
+
+.reader-neighbor-end {
+  text-align: right;
+}
+
 .reader-tools {
   position: sticky;
   top: 91px;
   z-index: 18;
   display: grid;
-  grid-template-columns: minmax(178px, 0.45fr) minmax(280px, 1.3fr) auto;
+  grid-template-columns: minmax(178px, 0.45fr) minmax(280px, 1.3fr) auto auto;
   align-items: center;
   gap: 15px;
   margin: 22px 0 17px;
@@ -1119,6 +1225,7 @@ button {
 .reader-cover-alert {
   display: flex;
   align-items: flex-start;
+  align-content: center;
   gap: 13px;
   padding: 31px 24px;
   border-left: 1px solid var(--line);
@@ -1707,7 +1814,7 @@ button {
 
   .section-block,
   .reader-section {
-    padding-block: 82px 88px;
+    padding-block: 58px 88px;
   }
 
   .reader-section {
@@ -1747,6 +1854,11 @@ button {
     justify-self: end;
   }
 
+  .library-reset {
+    align-self: flex-start;
+    margin-left: 0;
+  }
+
   .guide-grid {
     grid-template-columns: 1fr;
     gap: 15px;
@@ -1766,6 +1878,15 @@ button {
     grid-template-columns: 1fr;
     gap: 9px;
     margin-top: 18px;
+  }
+
+  .reader-neighbors {
+    grid-template-columns: 1fr;
+  }
+
+  .reader-neighbor-next,
+  .reader-neighbor-end {
+    text-align: left;
   }
 
   .reader-search-nav {

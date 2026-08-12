@@ -1,340 +1,1225 @@
 DYING LIGHT
-GUIDE CHRONOLOGIQUE 100 % STEAM - SANS SPOILER
+FICHE PREMIUM — GUIDE CHRONOLOGIQUE 100 % STEAM — SANS SPOILER
 
-Version de travail : 11 aout 2026
+Version vérifiée : 12 août 2026
+AppID Steam : 239140
+Total contrôlé : 78 succès Steam
 
-Ce guide couvre les 78 succes Steam visibles sur la fiche Dying Light avec les
-contenus additionnels associes : campagne de base, The Following, Bozak Horde,
-Parkour Fever et Hellraid. Les noms de zones et de missions servent seulement
-de reperes. Aucune mort, identite, trahison, fin ou consequence narrative
-n'est revelee.
+Cette fiche est conçue pour être suivie comme un carnet de route, pas comme une
+simple liste de succès. Elle couvre la campagne de base, les 52 quêtes
+secondaires de Harran, les 67 textes, les 8 zones de quarantaine de base, les
+activités Parkour Fever, Bozak Horde, The Following et Hellraid. Les noms des
+missions, des lieux et des succès servent uniquement de repères. Aucun décès,
+aucune identité, aucun retournement, aucune fin et aucune conséquence de choix
+narratif ne sont révélés.
 
-OBJECTIF
+00 — COMMENT UTILISER LA FICHE
 
-[ ] 78/78 succes Steam.
-[ ] Campagne principale terminee.
-[ ] Toutes les quetes secondaires terminees.
-[ ] Toutes les zones sures de la campagne capturees.
-[ ] 8 zones de quarantaine de base terminees.
-[ ] 67 textes de la campagne trouves : 34 notes, 17 journaux et 16 messages.
-[ ] The Following termine avec ses objectifs de campagne et de buggy.
-[ ] Bozak Horde, Parkour Fever et Hellraid termines.
-[ ] Succes coop et Be the Zombie traites comme modes separes.
+- Suis les phases dans l'ordre. Quand une phase dit « nettoyage », termine
+  d'abord les lignes de cette phase avant de poursuivre la mission principale.
+- Le jeu garde les textes et la plupart des activités après la campagne. Une
+  sauvegarde de sécurité reste néanmoins recommandée avant chaque transition
+  vers une nouvelle carte et avant le dernier choix de The Following.
+- Dans les listes d'objets, le numéro correspond au numéro affiché dans le
+  menu inventaire. Si le compteur ne monte pas, ne te fie pas à la mémoire :
+  ouvre l'inventaire, vérifie le type de texte et reprends le numéro manquant.
+- Une ligne « base » concerne le 100 % Steam de Dying Light sans compter les
+  contenus qui n'ajoutent pas de succès. Une ligne « DLC » est séparée pour
+  éviter de mélanger les objectifs.
+- Pour une session coop, prépare les joueurs avant de lancer la mission. Les
+  succès de groupe utilisent une seule session et un groupe stable.
 
-PERIMETRE STEAM
+01 — FICHE DE PÉRIMÈTRE
 
-- AppID Steam : 239140.
-- La page officielle des statistiques compte 78 succes.
-- Le 100 % Steam ne demande pas tous les drapeaux, statues, plans ou objets
-  decoratifs. Pour le 100 % de progression du guide, on les laisse comme
-  nettoyage facultatif et on compte en priorite les objectifs Steam.
-- Les huit zones de quarantaine de la campagne de base suffisent pour
-  Trespassing. Cuisine & Cargo ajoute Holy Year Tunnel et Three Moons
-  Restaurant : fais-les aussi si tu veux vider la carte complete.
-- Les succes I've Got Your Back, Harran Athletics, Lucky 7, Polyamory et
-  Together Till the End ont une composante coop ou multijoueur. Ils ne sont
-  pas remplaces par une partie solo.
+SUCCÈS STEAM
 
-GARDE-FOUS ET MISSABLES
+- 78 succès sont contrôlés dans cette fiche.
+- Campagne de base : histoire, quêtes secondaires, exploration, combat,
+  progression de compétences et textes.
+- Parkour Fever : 2 succès, avec 10 parcours, 5 dans les Slums et 5 dans Old
+  Town.
+- Bozak Horde : 5 succès, dont les objectifs de groupe et les plans de
+  flèches.
+- The Following : 10 succès liés à la campagne rurale, au buggy, aux
+  épouvantails et aux objectifs de conduite.
+- Hellraid : 10 succès, dont les notes de raid et les runs de difficulté.
+- Les succès coop ne sont pas remplacés par une partie solo.
+- Le mode Be the Zombie n'ajoute aucun succès à la liste Steam des 78 : il
+  reste un mode facultatif et n'est pas compté comme succès inventé.
 
-- La campagne reste explorable apres l'histoire : les textes et les zones
-  secondaires peuvent etre nettoyes par selection de chapitre, voyage rapide
-  ou retour dans les zones. Ne recommence pas une partie pour un objet oublie.
-- Certaines notes ne deviennent accessibles qu'apres une quete ou un niveau
-  de progression. La bonne fenetre de nettoyage est apres la campagne, avant
-  de lancer une nouvelle partie +.
-- Pour Homo Homini Lupus Est, sauve au moins 15 survivants attaques par les
-  hommes de Rais des que les evenements apparaissent ; ces interventions sont
-  plus faciles a reperer au debut et au milieu de la campagne.
-- Pour les succes de mouvement sans degats, evite les foules : utilise une
-  zone de quarantaine ou un toit pour recommencer proprement si le compteur
-  est interrompu.
-- La campagne The Following utilise une carte distincte. Termine les quetes
-  de reputation et les objectifs du buggy avant la sequence finale de cette
-  extension, puis utilise la sauvegarde pour les appels et les activites
-  optionnelles.
-- Hellraid est un mode a part : les notes et les quotas de pieces de monnaie
-  ne se melangent pas avec les textes de Harran.
+CE QUI EST NÉCESSAIRE POUR LE 100 % STEAM
 
-ORDRE RECOMMANDE
+- Les 15 missions principales de la campagne.
+- Les 52 quêtes secondaires de base : 36 dans les Slums, 15 dans Old Town et
+  1 dans la zone Antenna.
+- Les 8 zones de quarantaine de base : 5 dans les Slums et 3 dans Old Town.
+- Les 67 textes de la campagne : 34 Notes, 17 Battle Journals et 16 Voice
+  Mails. Les drapeaux et les statues ne comptent pas pour It's All In The
+  Writing.
+- Les 10 parcours Parkour Fever, de jour ou de nuit pour The Boy Who Could Run
+  et de nuit pour GD Parkour Instructor.
+- Les objectifs de Bozak, les objectifs de The Following et les 10 notes
+  originales de Hellraid.
 
-1. Prologue et premiere zone sure.
-2. Slums : histoire, zones sures, quetes secondaires, defis et textes.
-3. Old Town : histoire, zones sures, quetes secondaires et textes.
-4. Fin de campagne puis nettoyage des 67 textes, zones de quarantaine et
-   objectifs de combat.
-5. The Following : histoire, buggy, quetes secondaires et objets de carte.
-6. Bozak, Parkour Fever, Hellraid.
-7. Coop, Be the Zombie et derniers quotas.
+100 % DE SAUVEGARDE, AU-DELÀ DES SUCCÈS
 
-PHASE 01 - PROLOGUE ET PREMIERS SYSTEMES
+Si tu veux aussi le compteur de progression interne du fichier de sauvegarde,
+termine en plus les défis Parkour et Power affichés sur les tableaux, visite
+Harran Prison, entre une fois dans l'arène de Bozak et nettoie toutes les
+zones sûres visibles. Ce compteur interne n'est pas le même indicateur que
+les 78 succès Steam.
 
-- Termine le prologue et apprends les trois arbres : Agility, Power et
-  Survivor. [ ] Is It Really Necessary? [ ] Little Craftsman.
-- Des que le jeu laisse explorer :
-  [ ] ouvre 10 serrures pour Open Sesame.
-  [ ] fabrique plusieurs objets avec des composants trouves.
-  [ ] vends les armes ou objets excedentaires jusqu'a 10 000 dollars pour
-      Trade Company.
-  [ ] utilise Survivor Sense souvent pour reperer les notes et les appels.
-- Pour My left or your left?, Flight of the Crane et les autres succes de
-  progression, suis la campagne sans detour narratif ; les notifications se
-  debloquent automatiquement avec les chapitres.
-- Premiere nuit controlee : atteins une poursuite de niveau 2 ou plus et
-  reviens en zone sure pour Prom Night. Garde une sauvegarde avant la nuit si
-  tu veux tenter ce succes sans risque.
+02 — PRÉPARATION ET GARDE-FOUS
 
-PHASE 02 - SLUMS : HISTOIRE ET NETTOYAGE PAR QUARTIER
+DIFFICULTÉ ET SAUVEGARDES
 
-- Fais les missions principales jusqu'a l'ouverture complete de la carte,
-  puis alterne une mission et une boucle de nettoyage : zone sure, quete
-  secondaire, defi, texte.
-- Capture chaque zone sure en eliminant les ennemis, en ouvrant le point de
-  securite et en attendant la validation de la carte.
-  [ ] Now It's Safe - toutes les zones sures de la campagne.
-- Pour les survivants :
-  [ ] We're All In This Together - sauver 15 survivants de zombies.
-  [ ] Homo Homini Lupus Est - sauver 15 survivants des hommes de Rais.
-  Fais la difference entre les deux evenements ; les deux compteurs sont
-  separes.
-- Pendant les patrouilles :
-  [ ] Strong - niveau Power 10.
-  [ ] Agile - niveau Agility 10.
-  [ ] Everybody Knows Kyle - niveau Survivor 12.
-  [ ] The Legend of Harran - niveau Survivor 18.
-  [ ] Pheidippides - 42 195 metres parcourus.
-  [ ] Mount Everest - 8 848 metres escalades.
-- Combat a commencer dans les Slums :
-  [ ] Can't Touch This - 20 ennemis consecutifs sans prendre de degats.
-  [ ] Harran Shooting Club - 50 victimes avec armes a feu.
-  [ ] A Game of Catch - 50 victimes avec armes de jet.
-  [ ] High Flyer - 25 victimes par Ground Pound ou Drop Attack.
-  [ ] Judo Master - 50 ennemis projetes avec Grapple.
-  [ ] Italian Plumber - Vault puis Drop Attack avec une cle.
-  [ ] BBQ - zombie en feu plante sur des pieux.
-  [ ] Electrified! - 25 ennemis pris dans le piege de cloture electrique.
-  [ ] Everybody Dance Now - electrocuter cinq monstres simultanement.
-- Mets de cote une arbalete ou un arc des que possible pour preparer Robin
-  Hood Theory dans The Following et les tirs a la tete demandes plus loin.
+1. Commence en Normal pour une première route. Le guide prévoit ensuite un
+   nettoyage ciblé de Nightmare dans Hellraid ; il n'est pas nécessaire de
+   transformer toute la campagne en run de difficulté.
+2. Garde un emplacement de sauvegarde avant Awakening, avant The Saviors,
+   avant The Clinic, avant le départ vers The Following et avant le dernier
+   appel de The Following.
+3. Ne lance pas une nouvelle partie avancée pour récupérer un texte manquant
+   tant que la sélection de chapitre et le voyage rapide n'ont pas été testés.
+4. Dans une zone sûre, dors pour changer le moment de la journée. Pour les
+   objectifs de nuit, évite de quitter la session avant l'apparition de la
+   notification.
+5. Conserve toujours un arc ou une arbalète, une arme de mêlée modifiée, des
+   pétards, des fusées UV, des medkits et un stock de crochets.
 
-PHASE 03 - SLUMS : LES 67 TEXTES
+FENÊTRES À PROTÉGER — MISSABLES ET ALERTES
 
-Le compteur de la campagne est compose de 34 notes, 17 Battle Journals et 16
-Voice Mails, soit 67 textes. Les drapeaux et statues ne comptent pas pour
-It's All In The Writing.
+- Voice Mail #13 : termine Rupert the Gunsmith et Health Potion avant de
+  chercher ce message dans Old Town.
+- Note #09 : elle demande la progression de Gas Mask Man et la maison de
+  Victor.
+- Notes #21 et #22 : fais Mother's Day et A Survivor's Guide to Zombieland
+  avant le nettoyage des notes des Slums.
+- Notes #24 et #25 : fais Total Security, puis récupère les deux notes sur les
+  toits avant de quitter le secteur.
+- The Launch : après On the Hooks, Assault and Batteries et Hardware, retourne
+  dans Antenna même si Broadcast est déjà terminé. La quête peut ne pas se
+  pointer tant que la carte Antenna n'est pas revisitée.
+- A Baby is Born : explore le tunnel entre Infamy Bridge et la Tour jusqu'à
+  l'apparition de l'indice audio, puis accepte la quête.
+- Chaîne de Dahlia : Witch Queen, Hunting Goon, Kidney Punch et Bring Me the
+  Brain of Usain Bolter. Utilise les potions dès que le guide de quête le
+  demande et retourne chez Dahlia après chaque effet.
+- The Following : les appels et le choix final demandent une sauvegarde
+  séparée. Pour le contenu complet, teste les options avec ce double de
+  sauvegarde sans écraser la route principale.
+- Hellraid : après l'histoire du mode, les notes apparaissent dans Raid mode.
+  Les salles sont variables ; note chaque nom de note et reprends les raids
+  jusqu'à 10/10.
 
-- Slums, avant le dernier retour a la Tour :
-  [ ] Notes 01-26.
-  [ ] Battle Journals 01-13.
-  [ ] Texte dans chaque salle sure et chaque habitation ouverte par une quete.
-- Certaines notes sont liees aux quetes secondaires : termine les quetes,
-  puis reviens dans leurs zones avant d'utiliser un voyage rapide.
-- Utilise le menu inventaire / collectibles et non un simple comptage visuel :
-  le jeu enregistre le numero de chaque texte.
+ORDRE GLOBAL RECOMMANDÉ
 
-PHASE 04 - OLD TOWN
+1. Awakening et First Assignment.
+2. Airdrop et Pact with Rais.
+3. Slums : quêtes secondaires disponibles, zones sûres et activités.
+4. Siblings, The Pit et The Saviors.
+5. Collecte des textes Slums et fin des quêtes de Slums.
+6. Find the Embers, Higher Education, Public Face et Rendezvous.
+7. Old Town : quêtes secondaires, zones sûres et textes.
+8. The Museum, Broadcast, The Clinic et Extraction.
+9. Nettoyage base : 67 textes, 8 zones de quarantaine, défis et compteurs.
+10. Parkour Fever, Bozak et session coop planifiée.
+11. The Following : histoire, confiance, buggy et objectifs de carte.
+12. Hellraid : histoire, 10 notes, rang et runs de succès.
 
-- Accede a Old Town par la progression principale, puis ouvre les zones sures
-  avant de chercher les appels. Les 16 Voice Mails sont dans Old Town.
-  [ ] Voice Mails 01-16.
-  [ ] Battle Journals 14-17.
-  [ ] Notes 27-34.
-  [ ] It's All In The Writing - compteur 67/67.
-- Fais les zones de quete secondaires avant le dernier chapitre de la
-  campagne, puis verifie la carte en faisant un tour du bord et des interieurs.
-- [ ] Sightseeing et Making Faces : succes d'exploration / d'interactions,
-  valides au fil des visites et des activites de la ville.
-- [ ] Hush, Hush Now : calmer un Screamer sans le laisser relancer l'alarme.
-- [ ] Tied loose end, Vertigo, Now You Can Come In et Bittersweet :
-  progression de la campagne et de ses missions secondaires.
+03 — CAMPAGNE PRINCIPALE, MISSION PAR MISSION
 
-PHASE 05 - ZONES DE QUARANTAINE
+RÈGLE DE ROUTE
 
-Termine chaque zone, attends l'ecran de resultat puis verifie la liste. Les
-zones ne sont pas toujours visibles de loin ; approche-toi des symboles
-biohazard et des bandes de quarantaine.
+Après chaque mission principale, ouvre la carte, vide les nouvelles icônes
+« ! », capture les zones sûres accessibles et fais les objets indiqués par la
+phase. Ne traverse pas une nouvelle carte en laissant les quêtes actives
+derrière toi.
 
-SLUMS - CAMPAGNE DE BASE
+03.1 — AWAKENING
 
-[ ] Underground Parking.
-[ ] Stuffed Turtle.
-[ ] Sunny Apartments.
-[ ] Bright Mountain Tunnel.
-[ ] Chemical Storage.
+- Suis le trajet d'introduction jusqu'à la Tour.
+- Apprends Survivor Sense, le crochetage, la fabrication et l'utilisation de
+  la lampe UV.
+- Ramasse les composants au lieu de courir devant les conteneurs.
+- Valide Is It Really Necessary? avec le premier Infected et Little Craftsman
+  avec le premier objet fabriqué.
+- Dans le menu, vérifie que la première compétence de chaque arbre est bien
+  enregistrée.
 
-OLD TOWN - CAMPAGNE DE BASE
+03.2 — FIRST ASSIGNMENT
 
-[ ] Striped Dragon Hotel.
-[ ] Parking Lot.
-[ ] New Antalya Apartments.
+- Quitte la Tour avec Spike et suis le marqueur vers la sous-station.
+- Rétablis le courant, sécurise la zone et reviens à la Tour par le trajet
+  indiqué.
+- Active les premiers pièges électriques et les premiers points UV.
+- Profite de cette phase pour ouvrir des coffres, crocheter 10 serrures et
+  fabriquer avec plusieurs plans.
+- Si une Light Trap est accessible pendant la nuit, commence Enlightened! sans
+  chercher à finir le compteur en une seule sortie.
 
-CONTENU OPTIONNEL CUISINE & CARGO
+03.3 — AIRDROP
 
-[ ] Holy Year Tunnel.
-[ ] Three Moons Restaurant.
+- Rejoins la zone des largages et traite chaque paquet avant de revenir.
+- Utilise Survivor Sense sur les toits et dans les bâtiments secondaires.
+- Monte Agility en courant et en escaladant ; ne dépense pas tous les points
+  avant d'avoir débloqué les compétences de déplacement nécessaires.
+- Lance une première poursuite de nuit seulement avec une sortie sûre en vue.
+- À partir de cette phase, fais les quêtes secondaires signalées dans les
+  Slums avant de reprendre le marqueur principal.
 
-- [ ] Trespassing - toutes les zones exigees par le succes.
-- [ ] Pearls in the Mud - ouvrir cinq coffres GRE dans les zones de
-  quarantaine.
-- [ ] Disaster Recovery - recuperer 15 Relief Packages. Les coffres des zones
-  de quarantaine sont une bonne route pour cumuler ce compteur.
+03.4 — PACT WITH RAIS
 
-PHASE 06 - CAMPAGNE : APPELS ET ACTIONS SPECIFIQUES
+- Accepte les ravitaillements et les plans, puis suis les repères de couriers.
+- Active les antennes dans l'ordre de la mission. La deuxième antenne ouvre le
+  secteur de la Note #23 et du safehouse voisin.
+- Une fois le courant rétabli, récupère Note #23, Battle Journal #4 et les
+  objectifs de la zone avant de repartir.
+- La nuit suivante est idéale pour Prom Night, Blinded by the Lights et une
+  première série de Light Traps.
+- Ne quitte pas Slums sans vérifier les nouvelles quêtes de Dahlia et les
+  quêtes de la Tour.
 
-- [ ] Flight of the Crane : progression de campagne.
-- [ ] My left or your left? : progression de campagne.
-- [ ] Snake in the grass : action de campagne, valide la notification avant
-  de quitter la zone.
-- [ ] The Whole Story : terminer toutes les quetes secondaires. Une quete peut
-  apparaitre apres un chapitre, un sauvetage ou l'ouverture d'une zone sure.
-  Regarde regulierement les icones de quete sur les deux cartes.
-- [ ] It wasn't that hard, was it? : gagner la course de Bilal.
-- [ ] I'm a Runner and a fighter : 15 Agility ou Power Challenges termines.
-- [ ] Gabriel's Sword : ajouter un effet de feu a une epee ou un khopesh.
-- [ ] Blinded by the Lights : aveugler 25 Volatiles avec fusées ou lampe.
-- [ ] Mouths Wide Open : tuer un Volatile.
-- [ ] Prom Night : poursuivre une nuit au niveau 2 ou plus puis survivre.
-- [ ] A Long Way Down : la nuit, sauter de l'Infamy Bridge vers l'eau.
-- [ ] Robin Hood Theory : dix tirs a la tete sur des hommes de Rais avec un
-  arc. Les hommes de Rais et les arcs sont plus faciles a reunir apres la
-  campagne, dans une zone sure voisine.
-- [ ] This is Harraaaaan! : pousser 100 ennemis hors de toits ou falaises.
-  Travaille dans une zone a rebord, puis reviens apres chaque serie.
-- [ ] Formidophobic? Interesting… : detruire 50 epouvantails.
-- [ ] A Game of Catch, High Flyer, Judo Master et Italian Plumber : nettoie
-  leurs quotas apres avoir debloque les competences necessaires.
+03.5 — SLUMS : PREMIER NETTOYAGE APRÈS PACT WITH RAIS
 
-PHASE 07 - THE FOLLOWING
+- Termine A Survivor's Guide to Zombieland, Bandages and Meds, Binoculars,
+  Coffee, Electronic Parts, Gassed Up et Goodnight Mr. Bahir si les marqueurs
+  sont apparus.
+- Fais les zones sûres du nord puis de l'est en gardant une route vers la
+  Tour, la Fishing Village et la Barge.
+- Récupère Notes #1 à #15 lorsque leurs bâtiments sont ouverts.
+- Capture les premiers survivants attaqués par des Infected ; le compteur de
+  We're All In This Together est séparé de celui de Homo Homini Lupus Est.
+- Débute les 15 défis Agility ou Power qui serviront à I'm a Runner and a
+  fighter.
 
-- Lance The Following depuis la carte des DLC avec une sauvegarde equipee.
-  Termine les missions principales et les quetes de reputation dans l'ordre
-  d'apparition des marqueurs.
-- [ ] Afraid to get wet? : plonger dans la campagne.
-- [ ] I felt your presence : assister a la rencontre demandee.
-- [ ] I was waiting for you for so long : devenir Faceless.
-- [ ] And you liked him, didn't you? : revoir l'ancien ami, selon la
-  notification du jeu.
-- [ ] What if you picked the other one? : effectuer l'appel demande.
-- Ne lance pas la derniere sequence de The Following tant que les quetes
-  secondaires, les objets de reputation et les activites de buggy ne sont pas
-  coches.
+03.6 — SIBLINGS
 
-BUGGY ET CAMPAGNE THE FOLLOWING
+- Suis Jade vers l'école, puis fouille les salles uniquement selon les
+  objectifs affichés.
+- Dans l'école, récupère Notes #16 et #17 pendant que les entrées sont
+  ouvertes.
+- Termine On the Hooks, Assault and Batteries et Hardware dès qu'ils sont
+  disponibles. Ils forment aussi la préparation obligatoire de The Launch.
+- Si tu rencontres un événement bleu d'attaque par les hommes de Rais, sauve
+  le survivant au lieu de traverser la carte : il alimente Homo Homini Lupus
+  Est.
+- Conserve un arc ou une arbalète pour les tirs de tête sur les hommes de
+  Rais, mais ne force pas encore les 10 headshots si tu manques de munitions.
 
-- Monte Driver jusqu'au niveau 12 :
-  [ ] You realize it's only points, don't you?
-- [ ] It wasn't that hard, was it? : course de Bilal si elle n'a pas ete faite
-  dans la campagne principale.
-- [ ] I don't approve of mindless fun : 500 zombies tues avec le vehicule.
-  Utilise les routes ouvertes et repare le buggy entre les boucles.
-- [ ] Sweaty palms? : tuer un Demolisher avec le vehicule.
-- [ ] Things That Go Ka-Boom : apprendre les fleches explosives.
-- [ ] Electric Whisper : apprendre les fleches electriques.
-- [ ] Clavis was a key all along : placer les fragments de Clavis dans Arena.
-- [ ] This is Harraaaaan! : pousser 100 ennemis depuis un rebord ou une
-  falaise ; les falaises de la campagne se pretent bien au nettoyage.
-- [ ] The Whole Story : verifier aussi les quetes secondaires de The Following
-  avant de conclure la campagne complete.
+03.7 — THE PIT
 
-PHASE 08 - PARKOUR FEVER ET COOP
+- Prépare des medkits, une arme à deux mains et des objets de soin avant
+  d'entrer dans la séquence fermée.
+- Suis les objectifs de l'arène et privilégie les esquives aux combats
+  inutiles.
+- Après le retour en exploration, ouvre la carte avant de lancer une autre
+  mission : plusieurs marqueurs de quêtes et de zones sûres sont alors
+  disponibles.
+- Vérifie les compteurs de progression Flight of the Crane et My left or your
+  left? dans Steam avant de considérer la phase validée.
 
-- [ ] The Boy Who Could Run : terminer tous les Parkour Fever Challenges.
-- [ ] GD Parkour Instructor : terminer tous les Parkour Fever Challenges de
-  nuit. Fais la version de nuit sur une seconde boucle si necessaire.
-- Coop a quatre joueurs :
-  [ ] I've Got Your Back : terminer une quete en coop.
-  [ ] Harran Athletics : participer a 10 competitions coop.
-  [ ] Lucky 7 : gagner 7 competitions coop.
-  [ ] Polyamory : terminer 5 quetes dans une seule partie avec les memes trois
-      partenaires.
-- Configurez les objectifs avant de lancer la session : meme groupe, quetes
-  identiques, competitions activees. Les abandons et changements de joueur
-  peuvent casser les compteurs de groupe.
+03.8 — THE SAVIORS
 
-PHASE 09 - BOZAK HORDE
+- Entre dans les égouts par le sud-ouest des Slums.
+- Dans la salle carrée avec les corps et l'ours en peluche, récupère Battle
+  Journal #11 sur la chaise avant de poursuivre.
+- Ne quitte pas les égouts sans vérifier ce numéro dans l'inventaire.
+- Après la transition vers Old Town, ouvre immédiatement le premier safehouse
+  et récupère Voice Mail #1 dans la zone de sortie.
+- À partir de maintenant, le voyage rapide par les posters de la Tour et
+  d'Old Town devient ton trajet de nettoyage principal.
 
-- Accede a Bozak depuis l'affiche de la Tour / de la zone sure.
-- Fais d'abord une run d'apprentissage pour memoriser les objectifs, puis une
-  run propre sans gaspiller les medkits.
-- [ ] Get the Bozak : terminer les challenges de Bozak.
-- [ ] Electrified! : piege electrique, en campagne ou dans une zone adaptee.
-- [ ] Together Till the End : etre le dernier survivant du mode concerne.
-- Bozak peut se faire seul ou en coop, mais les quotas de temps sont plus
-  faciles a verifier a deux avec un partenaire qui connait les vagues.
+03.9 — FIND THE EMBERS
 
-PHASE 10 - HELLRAID
+- Rejoins le Loft et ouvre les marqueurs secondaires d'Old Town.
+- Termine Blocks for the Boy, Do You Believe?, Dungeon, Fountain et Lost in
+  Space quand leurs donneurs sont accessibles.
+- Nettoie les rues autour de la première safe zone avant les bâtiments
+  intérieurs : les marqueurs de notes et de Voice Mails sont plus faciles à
+  lire ensuite.
+- Récupère Notes #27 à #34 et Battle Journals #13 à #16 selon la liste de la
+  phase 06.
 
-- Termine d'abord la progression histoire de Hellraid pour ouvrir les raids.
-- Pour les 10 notes necessaires a Well-read, utilise la liste de collectibles
-  du mode et reviens dans les salles de raid jusqu'a l'affichage 10/10.
-- [ ] Blocked by Ba'al : atteindre le rang Hellraid 10.
-- [ ] Time to file a tax form : gagner plus de 3 000 pieces en un run.
-- [ ] Well-read : trouver les 10 notes Hellraid requises.
-- [ ] Fast as hell : terminer Hellraid en moins de 30 minutes.
-- [ ] Throw me a bone : tuer 50 squelettes par degats de chute.
-- [ ] Wake up! : terminer Hellraid en Nightmare.
-- [ ] Non omnis moriar : terminer Hellraid avec une seule vie restante et zero
-  medkit. Fais cette run apres avoir memorise les salles, pas pendant la run
-  de decouverte.
+03.10 — HIGHER EDUCATION
 
-PHASE 11 - CHECKLIST DES 78 SUCCES
+- Accède à l'université par le trajet principal.
+- Active la safe zone de l'université et vérifie les quêtes de la zone.
+- Termine Chasing Past, Fan Zone, Health Potion, Rupert the Gunsmith et The
+  Shadow of the King si ces marqueurs sont actifs.
+- Ne cherche pas Voice Mail #13 avant Rupert the Gunsmith et Health Potion.
+- Termine la chaîne de Rupert avant de valider le compteur des 16 Voice Mails.
 
-01 [ ] Is It Really Necessary?       40 [ ] Gabriel's Sword
-02 [ ] Little Craftsman              41 [ ] Harran Athletics
-03 [ ] Flight of the Crane            42 [ ] And you liked him, didn't you?
-04 [ ] My left or your left?          43 [ ] A Long Way Down
-05 [ ] Prom Night                     44 [ ] What if you picked the other one?
-06 [ ] Open Sesame                    45 [ ] Robin Hood Theory
-07 [ ] Mouths Wide Open               46 [ ] Judo Master
-08 [ ] Can't Touch This               47 [ ] I don't approve of mindless fun
-09 [ ] Strong                         48 [ ] You realize it's only points, don't you?
-10 [ ] I've Got Your Back             49 [ ] Clavis was a key all along
-11 [ ] Harran Shooting Club           50 [ ] This is Harraaaaan!
-12 [ ] Pheidippides                   51 [ ] Lucky 7
-13 [ ] Trade Company                  52 [ ] The Whole Story
-14 [ ] Snake in the grass             53 [ ] It wasn't that hard, was it?
-15 [ ] Agile                           54 [ ] I'm a Runner and a fighter
-16 [ ] Everybody Knows Kyle            55 [ ] Homo Homini Lupus Est
-17 [ ] Sightseeing                     56 [ ] Get the Bozak
-18 [ ] Making Faces                    57 [ ] Electrified!
-19 [ ] Hush, Hush Now                 58 [ ] Polyamory
-20 [ ] Tied loose end                  59 [ ] Beginnings are hard
-21 [ ] Vertigo                         60 [ ] Trespassing
-22 [ ] Now You Can Come In             61 [ ] Into the lava
-23 [ ] Bittersweet                     62 [ ] It's All In the Writing
-24 [ ] Disaster Recovery               63 [ ] Things That Go Ka-Boom
-25 [ ] The Legend of Harran            64 [ ] Italian Plumber
-26 [ ] Mount Everest                   65 [ ] Electric Whisper
-27 [ ] Master Crafter                  66 [ ] Enlightened!
-28 [ ] Afraid to get wet?              67 [ ] Sweaty palms?
-29 [ ] Everybody Dance Now             68 [ ] Formidophobic? Interesting…
-30 [ ] We're All In This Together      69 [ ] Together Till the End
-31 [ ] A Game of Catch                 70 [ ] Blocked by Ba'al
-32 [ ] BBQ                             71 [ ] The Boy Who Could Run
-33 [ ] Now It's Safe                   72 [ ] GD Parkour Instructor
-34 [ ] Pearls in the Mud               73 [ ] Time to file a tax form
-35 [ ] I felt your presence             74 [ ] Well-read
-36 [ ] I was waiting for you for so long 75 [ ] Fast as hell
-37 [ ] High Flyer                      76 [ ] Throw me a bone
-38 [ ] Bolter Hunting                  77 [ ] Wake up!
-39 [ ] Blinded by the Lights           78 [ ] Non omnis moriar
+03.11 — PUBLIC FACE
 
-CONTROLE FINAL
+- Traite chaque bâtiment de l'objectif avec Survivor Sense, en distinguant
+  les étages des toits.
+- Termine Legless Spider, Office Outpost, Radio Station et The Bunker si les
+  icônes sont actives.
+- Récupère les Battle Journals d'Old Town, les Voice Mails #7 à #12 et la Note
+  #34 au Fan Zone.
+- Termine les défis Parkour Fever disponibles, mais garde la run de nuit
+  dédiée pour la phase 08.
 
-[ ] 34/34 notes de campagne.
-[ ] 17/17 Battle Journals.
-[ ] 16/16 Voice Mails.
-[ ] 8/8 zones de quarantaine de base, plus 2 zones Cuisine & Cargo si DLC.
-[ ] Toutes les zones sures des Slums et d'Old Town.
-[ ] Toutes les quetes secondaires des deux cartes.
-[ ] The Following, buggy et reputation termines.
-[ ] Bozak valide.
-[ ] Parkour Fever jour et nuit valide.
-[ ] Hellraid : rang 10, notes, chrono et Nightmare valides.
-[ ] Coop et Be the Zombie coches ou marques comme gate externe.
-[ ] Steam affiche 78/78.
+03.12 — RENDEZVOUS
 
-Sources de verification utilisees pour la redaction : statistiques Steam
-officielles de Dying Light, liste de collectibles de la campagne, guide des
-zones de quarantaine et pages officielles des contenus additionnels. Les
-conditions sont reformulees et l'itineraire reste sans spoiler.
+- Prépare les fusées UV et une arme à distance avant la sortie nocturne.
+- Suis le marqueur sans inventer de détour narratif ; les objectifs de la
+  mission suffisent pour les succès de progression.
+- Entre les étapes, capture les safe zones et termine Troll, The Bunker et
+  Office Outpost si ce n'est pas déjà fait.
+- Fais une sauvegarde manuelle avant la mission suivante.
+
+03.13 — THE MUSEUM
+
+- Fais une réserve de medkits et de lockpicks.
+- Dans les intérieurs, utilise Survivor Sense avant d'ouvrir la porte de
+  progression : certains couloirs ne sont accessibles qu'une seule fois
+  pendant la séquence, alors que les objets de la carte reviennent par le
+  nettoyage post-game.
+- Valide Sightseeing, Making Faces, Tied loose end et Vertigo lorsqu'ils
+  apparaissent dans Steam ; ne quitte pas la session avant la notification.
+
+03.14 — BROADCAST
+
+- Fais la mission à ton rythme : grimpe, active les éléments de la tour et
+  vérifie les passerelles avant de redescendre.
+- Si The Launch n'est pas validé, retourne dans Antenna après On the Hooks,
+  Assault and Batteries et Hardware. La carte Antenna doit être chargée.
+- Termine Searchlights, The Launch, Fan Zone et Radio Station avant de
+  considérer l'antenne comme nettoyée.
+- Le retour à Old Town ouvre la dernière série de Voice Mails et de quêtes.
+
+03.15 — THE CLINIC ET EXTRACTION
+
+- Termine The Clinic puis Extraction sans chercher à battre les compteurs de
+  combat dans la séquence finale.
+- Au retour au menu libre, valide Bittersweet et les autres notifications de
+  progression.
+- Utilise désormais les posters pour revenir dans Slums, Old Town et Antenna.
+- La campagne est terminée, mais la fiche n'est pas terminée : passe au
+  nettoyage méthodique des phases 05 à 11.
+
+04 — LES 52 QUÊTES SECONDAIRES DE BASE
+
+RÈGLE DE COMPTAGE
+
+Le succès The Whole Story concerne les 52 quêtes de la campagne de base. Les
+quêtes de The Following ont leur propre carte et ne remplacent aucune ligne
+de cette liste. Après chaque quête, ouvre le menu des quêtes et vérifie que le
+nom est passé dans les missions terminées.
+
+04.1 — SLUMS : 36 QUÊTES
+
+1. A Baby is Born — tunnel entre Infamy Bridge et la Tour. Explore ce tunnel
+   après l'ouverture de la carte jusqu'à entendre l'indice audio, puis suis
+   le marqueur.
+2. A Survivor's Guide to Zombieland — zone de la Fishing Village et des
+   chemins de la côte. Accepte la quête auprès du survivant marqué et suis
+   les repères de survie.
+3. Bandages and Meds — Tower, après l'ouverture des premiers points de
+   ravitaillement. Rapporte les soins demandés.
+4. Binoculars — poste d'observation et safe zone proche de l'Antenna. Monte
+   au point haut, récupère l'objet et reviens au donneur.
+5. Cease and Desist — zone des survivants au sud des Slums. Suis le groupe
+   jusqu'au chantier et sécurise les points affichés.
+6. Coffee — boutique et appartements des Slums. Inspecte les comptoirs
+   marqués, rapporte les paquets et valide le retour.
+7. Crayons for the Kids — secteur des habitations près de la Tour. Cherche
+   les crayons dans les pièces signalées, puis retourne à la safe zone.
+8. Dulse — bord du lac et zones immergées au sud-est. Plonge depuis une
+   berge sûre, récupère les plantes et reviens avant la nuit.
+9. Electronic Parts — sous-station et petits bâtiments techniques. Fouille
+   les boîtes à outils marquées puis rebranche le matériel.
+10. Firebug — zone industrielle des Slums. Prends les composants, allume les
+    points demandés et termine le retour au donneur.
+11. Gas Mask Man — Fishing Village et rivage. Suis les traces vers la maison
+    du donneur ; cette quête ouvre le repère de Victor pour Note #09.
+12. Gassed Up — station-service et conduites de gaz. Ferme les vannes dans
+    l'ordre des marqueurs, puis retourne à la station.
+13. Goodnight Mr. Bahir — Tour. Vérifie les étages et termine les objectifs
+    de la chambre sans quitter la zone avant la validation.
+14. Gunslinger — Tour et maison du sud-est des Slums. Récupère le pistolet
+    demandé, puis livre-le au donneur.
+15. Incense Herbs — trois petits îlots au nord de la Barge. Utilise Survivor
+    Sense sur les plantes et rapporte-les avant de retourner dormir.
+16. Lighter Gas — maisons et armoires des Slums. Fouille les armoires,
+    paniers et petits placards, puis apporte le gaz.
+17. Midnight Bride — champs et zones herbeuses. La quête doit être suivie
+    pendant la fenêtre nocturne indiquée par le marqueur.
+18. Mother's Day — maison de Gazi. Après le dialogue, inspecte la maison et
+    récupère Note #21 dans la même zone.
+19. O Brother Where Art Thou? — secteur des maisons près de la Tour. Suis la
+    radio, inspecte les bâtiments et termine le retour.
+20. Poisonous Herbs — bords de route et terrains vagues. Ramasse uniquement
+    les plantes indiquées par Survivor Sense.
+21. Searchlights — zones nocturnes autour des projecteurs. Active les points
+    demandés et profite-en pour avancer Blinded by the Lights.
+22. Spare Glasses — maisons des Slums. Suis l'icône de quête, fouille le
+    logement indiqué et rapporte les lunettes.
+23. Steal from a Thief — repaire de bandits. Entre par le toit si le marqueur
+    le permet, récupère l'objet et sors par le même secteur.
+24. The Big Bang Thesis — bâtiments scolaires et appartements. Récupère les
+    éléments scientifiques sur les bureaux marqués.
+25. The Prodigal Son — zone de la Tour et immeubles voisins. Suis le
+    marqueur, inspecte les étages et valide le retour au donneur.
+26. Total Security — secteur d'appartements. Nettoie d'abord le rez-de-
+    chaussée, puis les toits ; récupère Notes #24 et #25 avant de quitter.
+27. Tunnel Vision — tunnel du sud-ouest. Utilise une lampe UV, fouille le
+    bureau intérieur et récupère Note #19.
+28. Voltage — postes électriques et safe zone. Termine les branchements puis
+    récupère Note #11 sur la table de la safe zone.
+29. Where's My Mother? — secteur de la School. Fais la recherche dans le
+    bâtiment indiqué et récupère Note #08 à l'étage marqué.
+30. On the Hooks — mission donnée depuis la Tour, autour des crochets et du
+    secteur de la School. Termine-la avant la visite finale d'Antenna.
+31. Assault and Batteries — secteur des bus et du dépôt principal. Récupère
+    les batteries demandées et valide la mission dans les Slums.
+32. Hardware — chantier et bâtiments techniques. Récupère le matériel puis
+    termine la mission avant de revenir dans Antenna.
+33. Witch Queen — safe zone de Dahlia. Suis la chaîne des potions et reviens
+    après chaque étape pour débloquer la suivante.
+34. Hunting Goon — même chaîne de Dahlia. Rapporte le foie de Goon, utilise
+    la potion demandée puis reviens après l'effet.
+35. Kidney Punch — chaîne de Dahlia et apparition d'un Bomber marqué.
+    Rapporte l'ingrédient, utilise la potion immédiatement et reviens.
+36. Bring Me the Brain of Usain Bolter — dernière étape de Dahlia. Apporte
+    un tissu de Bolter et récupère la récompense de fin de chaîne.
+
+04.2 — OLD TOWN : 15 QUÊTES
+
+1. Blocks for the Boy — immeubles d'Old Town et appartements marqués. Ramasse
+   les blocs, puis rapporte-les sans abandonner le marqueur de quête.
+2. Chasing Past — safe zone la plus au nord d'Old Town. Suis les indices dans
+   les appartements et récupère Note #29 dans l'appartement 3.
+3. Do You Believe? — secteur des docks et des places d'Old Town. Suis les
+   repères de la quête et termine la zone de recherche.
+4. Dungeon — bâtiment fermé signalé par le marqueur. Prépare des lockpicks,
+   fouille chaque cellule et confirme le retour.
+5. Fan Zone — studio de diffusion. Termine la zone et récupère Note #34
+   derrière le fauteuil rouge, sur le haut-parleur.
+6. Fountain — place et fontaine d'Old Town. Suis les marqueurs autour de la
+   place, puis reviens au donneur.
+7. Health Potion — appartement de Rupert. Termine cette étape avant Voice
+   Mail #13 et conserve une sauvegarde si la quête n'actualise pas le journal.
+8. Legless Spider — toits et safe zone d'Old Town. Suis Spider, capture la
+   zone et récupère Notes #30 à #32 sur le toit du bâtiment.
+9. Lost in Space — immeubles et liaison par les toits. Utilise les marqueurs
+   de hauteur, vérifie les appartements et termine la sortie.
+10. Office Outpost — bureaux d'Old Town. Nettoie l'outpost, récupère les
+    documents de mission et vérifie le statut terminé.
+11. Radio Station — bâtiment de la station. Active les équipements et visite
+    chaque niveau avant la sortie.
+12. Rupert the Gunsmith — safe zone de Rupert. Suis toutes les étapes de
+    l'arc et ne pars pas tant que Health Potion n'est pas ouverte.
+13. The Bunker — bunker et accès souterrain. Prépare une arme d'appoint,
+    fouille les pièces latérales et termine le retour.
+14. The Shadow of the King — hôtel et chambres 101/107. Récupère Notes #27
+    et #28 pendant l'étape où les chambres sont accessibles.
+15. Troll — zone urbaine indiquée par le marqueur. Nettoie l'arène, vérifie
+    la récompense et valide la quête dans le journal.
+
+04.3 — ANTENNA : 1 QUÊTE
+
+- The Launch — après On the Hooks, Assault and Batteries et Hardware.
+  Retourne depuis Slums ou Old Town, charge la carte Antenna, puis suis le
+  nouveau marqueur. Si la quête n'apparaît pas, revisite l'antenna après
+  Broadcast et parle aux donneurs des trois quêtes préalables.
+
+05 — NETTOYAGE DE LA CARTE DE BASE
+
+05.1 — ZONES SÛRES
+
+Now It's Safe demande de capturer toutes les safe zones de la campagne. Le
+jeu ne les numérote pas de manière stable selon les langues : utilise la carte
+comme registre de vérité. Une maison rouge n'est pas validée ; une maison
+verte l'est.
+
+ROUTE SLUMS
+
+1. Tour et zone de départ.
+2. Maison sûre au nord de la Tour et zone du Sports Court.
+3. Safe zones sous les autoroutes et autour de l'Auto Junkyard.
+4. Fisherman's Village, Barge et maisons de la côte est.
+5. School, bus depot, tunnel du sud-ouest et secteur de l'Infamy Bridge.
+6. Bites Motel, Chemical Storage, Sunny Apartments et les petites maisons
+   autour du lac.
+7. Dahlia, Gazi, Fishing Village et toutes les safe zones débloquées par une
+   quête.
+
+ROUTE OLD TOWN
+
+1. Première safe zone à la sortie des égouts.
+2. Loft et tour centrale.
+3. Quartier nord, safe zone proche de la banque et logements supérieurs.
+4. Secteur est, pharmacies et zones de toits.
+5. Radio Station, Fan Zone, University et safe zones débloquées par
+   Legless Spider, Rupert ou les quêtes de la zone.
+
+À chaque safe zone :
+
+- Élimine les ennemis, ferme les accès et active le disjoncteur demandé.
+- Attends la validation de la zone avant de partir.
+- Ouvre le sac, le lit et le tableau de défis.
+- Note le nom de la zone dans ton propre carnet si l'icône n'est pas
+  clairement visible.
+
+05.2 — ZONES DE QUARANTAINE DE BASE
+
+SLUMS — 5 ZONES
+
+- Bright Mountain Tunnel — entrée du tunnel du sud, près des voies.
+- Chemical Storage — zone industrielle de stockage.
+- Stuffed Turtle — centre commercial ; prends les cinq coffres GRE et
+  termine l'objectif affiché.
+- Sunny Apartments — complexe d'appartements au nord-est des Slums.
+- Underground Parking — parking souterrain ; prépare-toi aux Volatiles et
+  ne confonds pas cette zone avec Parking Lot d'Old Town.
+
+OLD TOWN — 3 ZONES
+
+- New Antalya Apartments — immeuble de l'est.
+- Parking Lot — parking d'Old Town.
+- Striped Dragon Hotel — hôtel du quartier nord.
+
+DLCS DE QUARANTAINE, FACULTATIFS POUR LE TOTAL DES 78
+
+- Holy Year Tunnel — Cuisine & Cargo, entrée proche des voies des Slums.
+- Three Moons Restaurant — Cuisine & Cargo, restaurant d'Old Town.
+
+POUR VALIDÉR LES SUCCÈS
+
+- Termine réellement l'objectif de la zone ; entrer et ressortir ne suffit
+  pas pour Trespassing.
+- Ouvre au moins cinq coffres GRE dans les zones pour Pearls in the Mud.
+- Les zones n'affichent pas toujours une coche permanente : note-les sur
+  cette liste dès que l'écran de résultat apparaît.
+- Stuffed Turtle est la zone la plus confortable pour compléter les coffres
+  GRE et les packages de secours.
+
+05.3 — PACKAGES ET RENCONTRES
+
+- Ouvre les largages aériens dès qu'ils apparaissent, puis rends les Relief
+  Packages au Quartermaster.
+- Atteins 15 packages rendus pour Disaster Recovery.
+- Sauve 15 survivants attaqués par des Infected pour We're All In This
+  Together.
+- Sauve 15 survivants attaqués par les hommes de Rais pour Homo Homini Lupus
+  Est. Les événements bleus ne sont pas interchangeables.
+- Pour Bolter Hunting, pars de nuit depuis une safe zone, suis le marqueur
+  bleu du Bolter, récupère le tissu et reviens avant l'aube.
+
+05.4 — DÉFIS PARKOUR ET POWER DE LA CAMPAGNE
+
+Ces défis ne remplacent pas les 10 Parkour Fever de la phase 08, mais ils
+fournissent de l'XP et aident à I'm a Runner and a fighter.
+
+PARKOUR — SLUMS
+
+- Twister.
+- First Assignment.
+- End of the Tunnel.
+- Favela Fever.
+- Tiptoeing to Gazi.
+- Family Doctor, parties disponibles dans les Slums.
+- Jealous Runner.
+- The Best Runner, premières parties.
+
+PARKOUR — OLD TOWN
+
+- Blue District Fever.
+- On the Edge.
+- Not so Obvious.
+- Tower Run.
+- Diagonal Run.
+- Light at the End of the Canal.
+- Underwater Light.
+- Family Doctor, parties restantes.
+- The Best Runner, parties restantes.
+- Being a Hero.
+- Run for Your Life.
+- Bozak Posters: Agility.
+
+POWER — SLUMS
+
+- Psycho.
+- Killing Guide.
+- Dying Lunch.
+- Ultimate Weapon, premières parties.
+
+POWER — OLD TOWN
+
+- Ultimate Weapon, parties restantes.
+- Bozak Posters: Power.
+
+Pour chaque défi, laisse la notification de réussite apparaître avant de
+quitter la zone. Les objectifs avec une astérisque dans le menu peuvent ne se
+montrer que lorsque tu es proche du donneur.
+
+06 — LES 67 TEXTES, AVEC EMPLACEMENTS
+
+RÈGLE DE COLLECTE
+
+Les 34 Notes, 17 Battle Journals et 16 Voice Mails sont les seuls textes
+nécessaires à It's All In The Writing. Survivor Sense affiche leur icône
+orange. Après chaque groupe, ouvre Inventaire puis Collectibles et vérifie le
+numéro exact. Les drapeaux, statues et notes supplémentaires de Hellraid sont
+gérés dans les phases DLC.
+
+06.1 — NOTES SLUMS 01 À 26
+
+- Note #01 — comptoir de la safe zone marquée près du début de la carte.
+- Note #02 — coincée dans la porte d'entrée de l'épicerie.
+- Note #03 — table de la safe zone marquée à l'ouest de la Tour.
+- Note #04 — contre le mur du mémorial des personnes disparues.
+- Note #05 — Tower HQ, panneau de post-it.
+- Note #06 — bâtiment du jouet de Sammy, derrière la porte de la pièce du
+  fond.
+- Note #07 — même bâtiment, sur la caisse enregistreuse.
+- Note #08 — étage supérieur de la maison liée à Where's My Mother?, sur le
+  comptoir.
+- Note #09 — maison de Victor, accessible par Gas Mask Man.
+- Note #10 — maison nord de Fishing Village, sur le lit.
+- Note #11 — table de la safe zone liée à Voltage.
+- Note #12 — pont, au niveau des lampes UV, à côté du sac de couchage et du
+  sac posé au sol.
+- Note #13 — banc à l'extérieur de la safe zone qui était la maison à fumée
+  rouge.
+- Note #14 — caisse à l'intérieur de cette même safe zone.
+- Note #15 — maison de Dahlia, à droite de l'endroit où elle cuisine.
+- Note #16 — entrée de la School, sur une table.
+- Note #17 — entrée de la School, sur la seconde table du même secteur.
+- Note #18 — morceau de carton dans la zone de tuyau grillagée au sud de la
+  safe zone.
+- Note #19 — bureau dans la pièce intérieure du Tunnel, pendant ou après
+  Tunnel Vision.
+- Note #20 — armoire médicale du Utility Building.
+- Note #21 — maison de Gazi, même étage que la zone de vie, après Mother's
+  Day.
+- Note #22 — bâtiment de A Survivor's Guide to Zombieland, sur un bureau.
+- Note #23 — safe zone près de l'antenne, à côté du sac de stockage du joueur.
+- Note #24 — caisse sur le toit de l'immeuble de Total Security.
+- Note #25 — toit voisin avec une table, toujours dans Total Security.
+- Note #26 — conteneur à l'extérieur de la School, dans un casier.
+
+06.2 — NOTES OLD TOWN 27 À 34
+
+- Note #27 — hôtel, chambre 107, pendant The Shadow of the King.
+- Note #28 — hôtel, commode au fond de la chambre 101, pendant The Shadow of
+  the King.
+- Note #29 — entrée de l'appartement 3 pendant Chasing Past.
+- Note #30 — toit du bâtiment où tu rencontres Spider pendant Legless Spider.
+- Note #31 — même toit, seconde table ou caisse de la zone de rendez-vous.
+- Note #32 — même toit, troisième point de collecte près de l'accès.
+- Note #33 — hall intérieur du bâtiment marqué.
+- Note #34 — Fan Zone, derrière le fauteuil rouge, posé sur le haut-parleur
+  du studio de diffusion.
+
+06.3 — BATTLE JOURNALS SLUMS 00 À 12
+
+- Battle Journal #00 — étagère à côté du Quartermaster dans Tower HQ.
+- Battle Journal #01 — intérieur du bâtiment de la safe zone marquée.
+- Battle Journal #02 — près de la caisse sur la terrasse du bâtiment marqué.
+- Battle Journal #03 — toit de la safehouse de Fishing Village.
+- Battle Journal #04 — matelas de la safe zone près de Communications Tower.
+- Battle Journal #05 — pont, au fond de la grande tente beige, sur le tabouret.
+- Battle Journal #06 — petit bâtiment près des antennes de communication.
+- Battle Journal #07 — coffre de voiture près de la maison de Gas Mask Man.
+- Battle Journal #08 — pièce de l'étage supérieur de l'Inn/Motel.
+- Battle Journal #09 — banc dans le bus station.
+- Battle Journal #10 — fauteuil dans la clôture de l'Auto Junkyard, près de la
+  cabane.
+- Battle Journal #11 — égouts, chaise proche de l'ours en peluche dans la
+  salle carrée de The Saviors.
+- Battle Journal #12 — Tower HQ, clinique du 19e étage, à côté de la salle
+  principale.
+
+06.4 — BATTLE JOURNALS OLD TOWN 13 À 16
+
+- Battle Journal #13 — nord-ouest d'Old Town : utilise la tyrolienne au-dessus
+  de l'entrée du petit tunnel sur la rive, puis descends dans le tunnel.
+- Battle Journal #14 — rebord de fenêtre de l'appartement face à la banque.
+- Battle Journal #15 — garage-atelier dans la cour intérieure du bâtiment ;
+  soulève la porte du garage après avoir sécurisé la cour.
+- Battle Journal #16 — sol de la safe zone marquée, dans le secteur
+  d'extension de la station radio.
+
+06.5 — VOICE MAILS OLD TOWN 01 À 16
+
+- Voice Mail #01 — comptoir de Just One Bite Pizzeria, à gauche du marqueur.
+- Voice Mail #02 — villa du troisième étage, chambre, sur la table de nuit.
+- Voice Mail #03 — Luck Medicine/Pharmacy, rez-de-chaussée derrière le
+  comptoir.
+- Voice Mail #04 — appartement du troisième étage, support de téléphone,
+  entrée par la véranda.
+- Voice Mail #05 — stand de nourriture isolé dans la rue, comptoir près du
+  réfrigérateur.
+- Voice Mail #06 — appartement du deuxième étage, sol de la chambre entre le
+  lit et la lampe.
+- Voice Mail #07 — table du couloir de la safehouse.
+- Voice Mail #08 — Luck Pharmacy en face du marqueur, téléphone à l'intérieur.
+- Voice Mail #09 — Luck Pharmacy au nord du marqueur, à gauche après le
+  comptoir.
+- Voice Mail #10 — cuisine de la safehouse, sur le comptoir.
+- Voice Mail #11 — boutique Workshop, côté nord de l'immeuble marqué.
+- Voice Mail #12 — pharmacie située dans l'angle supérieur gauche du bloc.
+- Voice Mail #13 — table de l'appartement à l'est du bloc ; Rupert the
+  Gunsmith et Health Potion doivent être terminées avant son apparition.
+- Voice Mail #14 — quatrième étage du Bar & Grill, derrière le bar près de la
+  fenêtre d'entrée.
+- Voice Mail #15 — appartement du deuxième étage dans la cour nord, table de
+  nuit à côté du lit.
+- Voice Mail #16 — résidence du nord-est, appartement du deuxième étage,
+  commode près de la porte.
+
+06.6 — VÉRIFICATION DU COMPTEUR
+
+- Notes : 34/34.
+- Battle Journals : 17/17.
+- Voice Mails : 16/16.
+- Le succès It's All In The Writing doit se déclencher avec les 67 entrées.
+- Si un numéro manque, utilise l'index ci-dessus plutôt qu'un guide qui
+  mélange les Notes, les Journals et les Voice Mails.
+
+07 — COMBAT, MOUVEMENT ET COMPTEURS
+
+07.1 — COMPTEURS NATURELS À LAISSER MONTER
+
+- Power niveau 10 : Strong.
+- Agility niveau 10 : Agile.
+- Survivor Rank niveau 12 : Everybody Knows Kyle.
+- Survivor Rank niveau 18 : The Legend of Harran.
+- 42 195 mètres parcourus : Pheidippides.
+- 8 848 mètres escaladés : Mount Everest.
+- 100 utilisations de plans : Master Crafter. Fabrique aussi les plans
+  basiques, ils comptent.
+- 10 crochetage réussis : Open Sesame. Annuler une tentative ne compte pas.
+- 10 000 dollars de ventes : Trade Company. Vends les armes grises et les
+  objets en surplus, pas les composants rares.
+
+07.2 — ROUTE DE FARM SÛRE
+
+1. Choisis une safe zone avec lit, stash et un piège électrique proche.
+2. Dors jusqu'à la nuit, attire les Infected avec des pétards, puis active le
+   piège à distance.
+3. Pour Enlightened!, active les Light Traps lorsque les Volatiles ou les
+   Night Walkers sont assez proches ; le geste où ils se couvrent le visage
+   fait progresser le compteur.
+4. Pour Electrified!, utilise la même méthode avec le piège électrique et
+   laisse le compteur confirmer les 25 ennemis.
+5. Pour Blinded by the Lights, utilise une fusée UV ou la lampe UV sur 25
+   Volatiles. Les petits Infected ne remplacent pas les Volatiles pour ce
+   succès.
+6. Termine chaque série, retourne dormir et recommence. Ne prends pas de
+   risque inutile au milieu d'une poursuite.
+
+07.3 — ACTIONS DE COMBAT
+
+- Can't Touch This : élimine 20 ennemis consécutifs sans subir de dégâts.
+  Utilise un toit, des coups de pied et les pièges ; un run interrompu ne
+  supprime pas les autres compteurs de la session.
+- Harran Shooting Club : 50 ennemis avec des armes à feu. Les hommes de Rais
+  sont une cible stable après l'ouverture des activités de la ville.
+- A Game of Catch : 50 ennemis avec des armes de jet. Les couteaux et
+  pétards offensifs sont plus faciles à comptabiliser que les objets de soin.
+- High Flyer : 25 éliminations par Ground Pound ou Drop Attack, depuis une
+  hauteur sûre.
+- Judo Master : 50 projections avec Grapple. Attends l'attaque, contre,
+  projette, puis change de groupe.
+- BBQ : enflamme un zombie puis pousse-le sur des pieux.
+- Everybody Dance Now : attire cinq monstres au même piège électrique et
+  active-le lorsqu'ils sont tous dans l'arc.
+- Italian Plumber : prends une clé à molette, utilise Vault sur un ennemi puis
+  immédiatement Drop Attack sur un second ou le même ennemi selon la position.
+- Gabriel's Sword : applique un effet élémentaire de feu à une épée ou un
+  khopesh avec le bon plan, puis utilise l'arme.
+- Hush, Hush Now : approche un Screamer, interromps-le rapidement avec le
+  bouton de silence et quitte la zone.
+- Mouths Wide Open : tue un Volatile en fin de campagne ou dans une zone
+  préparée avec fusées UV.
+- This is Harraaaaan! : fais tomber 100 ennemis de toits ou de falaises.
+  Les rebords de The Following sont pratiques, mais le compteur peut être
+  terminé sur les cartes de base.
+
+07.4 — NUIT ET MOUVEMENT
+
+- Prom Night : laisse une poursuite atteindre le niveau 2 ou plus, puis
+  rejoins une safe zone ou plonge dans l'eau pour survivre.
+- A Long Way Down : de nuit, monte sur l'Infamy Bridge des Slums et saute
+  dans l'eau depuis son extrémité.
+- Bolter Hunting : capture cinq Bolters, un par événement nocturne.
+- Blinded by the Lights : fais les 25 Volatiles après avoir obtenu la lampe
+  UV et des fusées.
+- Sightseeing, Making Faces, Vertigo et les succès de progression se valident
+  pendant les missions et le tour de nettoyage.
+
+07.5 — SURVIVANTS
+
+- We're All In This Together : 15 sauvetages contre des zombies.
+- Homo Homini Lupus Est : 15 sauvetages contre les hommes de Rais.
+- Un événement bleu abandonné ne peut pas être rattrapé dans le même lieu ;
+  circule régulièrement dans Slums et Old Town jusqu'à atteindre 15/15.
+
+08 — PARKOUR FEVER : LES 10 PARCOURS
+
+Le symbole est un pied accompagné de trois étoiles. Il existe exactement 10
+parcours : 5 Slums, 5 Old Town. La méthode la plus propre est de faire les 10
+de nuit : la progression nocturne valide aussi la progression générale.
+
+SLUMS
+
+1. Favela Fever — près de la petite sous-station face au Red Flower Cafe ;
+   l'arrivée est le tas bleu près du tunnel vers Fishing Village.
+2. First Assignment — départ sur le bâtiment des conversations radio ; la
+   route finit sur l'échafaudage au-dessus du Cauldron.
+3. End of the Tunnel — départ près d'une safe zone proche de la Tour ; arrivée
+   au tunnel sud-ouest des Saviors.
+4. Tiptoeing to Gazi — départ sur le bus à l'entrée du tunnel ; arrivée près
+   de la maison de Gazi.
+5. Twister — petit bâtiment près de la Tour ; arrivée sur un réservoir bleu
+   près de la première zone de Volatile d'Airdrop.
+
+OLD TOWN
+
+6. Blue District Fever — toit du quartier nord ; arrivée sur le restaurant
+   dans l'angle nord-est.
+7. Diagonal Run — tour du nord-est ; arrivée après le saut vers l'eau.
+8. Not So Obvious — bâtiment à l'est ; le marqueur n'apparaît qu'à proximité.
+9. On The Edge — toit du nord-est, près de la tour de la safe zone.
+10. Tower Run — sommet de la tour la plus haute d'Old Town.
+
+MÉTHODE SANS PERTE DE TEMPS
+
+- Fais un premier passage de jour si tu dois apprendre les checkpoints.
+- Refais le parcours de nuit pour GD Parkour Instructor.
+- Garde la Grapple Hook uniquement si le parcours l'autorise ; elle ne
+  remplace pas un checkpoint oublié.
+- Une réussite publiée dans le classement ou une notification de succès est
+  le seul contrôle fiable.
+- Si un parcours ne s'affiche pas, approche-toi du point de départ et
+  termine la mission principale qui ouvre le quartier.
+
+09 — BOZAK HORDE ET COOP
+
+09.1 — BOZAK HORDE
+
+- Accède à l'affiche de la Tour et entre dans l'arène.
+- Fais une première run pour mémoriser les vagues, les interrupteurs, les
+  caisses et les itinéraires.
+- Get the Bozak : termine toutes les épreuves de Bozak.
+- Together Till the End : dans le mode concerné, sois le dernier joueur encore
+  debout. Lance une session dédiée et ne quitte pas lorsque les autres
+  joueurs tombent.
+- Robin Hood Theory : réalise 10 headshots sur les hommes de Rais avec un arc.
+  Les combats de la campagne sont plus lisibles qu'une horde de zombies.
+- Things That Go Ka-Boom : apprends le plan Exploding Arrows.
+- Electric Whisper : apprends le plan Electric Arrows.
+- Enlightened! et Electrified! restent des compteurs de pièges de la carte,
+  même si Bozak peut servir à s'entraîner.
+- Clavis was a key all along appartient à Hellraid : place les fragments
+  dans l'Arena de Hellraid, pas dans l'arène de Bozak.
+
+09.2 — PRÉPARATION DE LA SESSION COOP
+
+Les succès de coop à faire dans une même période sont :
+
+- I've Got Your Back — termine une quête en coop.
+- Harran Athletics — participe à 10 compétitions coop.
+- Lucky 7 — gagne 7 compétitions coop.
+- Polyamory — termine 5 quêtes dans une seule partie avec les mêmes trois
+  partenaires.
+
+Procédure :
+
+1. Réunis quatre joueurs, ou trois partenaires stables plus l'hôte.
+2. L'hôte charge une sauvegarde où plusieurs quêtes secondaires sont encore
+   disponibles.
+3. Commence par une quête courte pour valider I've Got Your Back.
+4. Enchaîne cinq quêtes complètes sans changer les trois partenaires pour
+   Polyamory.
+5. Entre deux quêtes, lance les compétitions coop et termine dix participations.
+6. Gagne sept de ces compétitions. Répète les courses plutôt que de disperser
+   la session sur différentes cartes.
+7. Vérifie Steam après chaque bloc ; un joueur qui rejoint trop tard peut ne
+   pas être compté dans le groupe.
+
+10 — THE FOLLOWING, ROUTE CHRONOLOGIQUE SANS RÉVÉLATION
+
+10.1 — PRÉPARER LE DÉPART
+
+- Lance The Following depuis le menu des campagnes avec une sauvegarde où les
+  compétences de mouvement sont déjà ouvertes.
+- Les premières missions donnent accès à la carte Countryside et au buggy.
+- La progression principale demande des points de confiance : ne te contente
+  pas de suivre un seul marqueur, termine les activités secondaires dès que
+  la jauge de confiance bloque.
+- Après chaque amélioration du buggy, fais une boucle de réparation et
+  vérifie le carburant avant de partir loin des safe zones.
+
+10.2 — MISSIONS PRINCIPALES DANS L'ORDRE
+
+1. The Way Out — sors des égouts par le trajet balisé et rejoins la
+   Countryside.
+2. Kaan and Able — suis le marqueur vers le premier groupe et explore les
+   bâtiments indiqués.
+3. Gaining Credence — installe le premier point de travail et ouvre les
+   activités de confiance.
+4. Stranger in a Strange Land — rencontre les donneurs et active les
+   marqueurs de la ferme.
+5. The Gathering — suis les repères de la communauté et termine les tâches
+   qui ouvrent la progression de confiance.
+6. Anomalies — localise les zones d'activité nocturne et prépare des fusées.
+7. Vanitas — visite les repères indiqués et garde le buggy réparé.
+8. An Unfinished Story — reprends la route des marqueurs et fais les quêtes
+   de confiance encore disponibles avant le prochain appel.
+9. The Fate of the Fool — vérifie les points de carte, le carburant et les
+   ressources de soins.
+10. At the End of the Tunnel — prépare une arme de courte portée, des fusées
+    UV et un passage de retour.
+11. The Following — sauvegarde avant la séquence finale. Pour le guide sans
+    révélation, suis uniquement les objectifs et ne consulte pas les options
+    avant d'avoir créé le double de sauvegarde.
+12. Hidden Ending — contenu optionnel à tester depuis le double de sauvegarde
+    si tu veux fermer toutes les entrées de contenu.
+
+10.3 — QUÊTES SECONDAIRES DE THE FOLLOWING
+
+Fais-les par secteur, dès qu'elles apparaissent. Elles donnent de la confiance
+et évitent un retour forcé au milieu de la route principale.
+
+- The Mechanic — Jasir's Farm, ouvre le quartier du buggy et les réparations.
+- Strange Noises — fermes et hangars au nord de Jasir's Farm.
+- Drought — puits, fermes et conduites du secteur central.
+- Going Postal — bureau et routes de campagne.
+- Run, Bolter, Run — chasse nocturne du Bolter sur la carte rurale.
+- Lazarus — bâtiments de la ferme et itinéraire de nuit.
+- Two Roads Diverged — embranchement de routes à l'ouest.
+- Ascend Over Flesh — points hauts et structures verticales.
+- The Thrill of the Chase — chaîne des indices ; ouvre ensuite A Rocky
+  Riverbed, Sea From Way Up High, Six Feet Under et Wishing Well.
+- The Great Train Robbery — voie ferrée et zone de wagons.
+- Rocket Waggoon — lanceur et zones de tir.
+- Radio Boy — station radio et antennes.
+- Reclamation — bâtiments abandonnés et zones à reprendre.
+- Power to the People — réactive les points électriques de la campagne.
+- Harvest — champs et fermes.
+- Heart of Darkness — zone de nuit et repères d'infection.
+- Venom — route et cibles de combat.
+- We Don't Go There Anymore — zone fermée indiquée par le marqueur.
+- Well That's a Cave — grotte et sortie balisée.
+- The Ties That Bind — parcours entre les donneurs de la ferme.
+- Secret Project — installation technique et salle intérieure.
+- Buggy Grail — parcours et vérification du véhicule.
+- Burning Rubber — course, garde le buggy réparé avant le départ.
+- Crash Boom Bang — zone de démolition et objectifs explosifs.
+- Down the Rabbit Hole — entrée souterraine, garde une lampe.
+- Exercises in Futility — série d'objectifs de confiance, termine toutes les
+  étapes avant de repartir.
+
+10.4 — SUCCÈS THE FOLLOWING
+
+- Afraid to get wet? — plonge dans l'eau de la Countryside dès qu'un plan
+  d'eau est accessible.
+- I felt your presence — assiste à la réunion demandée par la progression.
+- I was waiting for you for so long — deviens Faceless pendant la route
+  principale.
+- And you liked him, didn't you? — retrouve l'ancien ami au moment indiqué.
+- What if you picked the other one? — effectue l'appel demandé. Fais une
+  sauvegarde avant le choix si tu veux tester les deux possibilités.
+- Into the lava — ce succès appartient à Hellraid ; ne cherche pas un volcan
+  dans The Following.
+- It wasn't that hard, was it? — gagne la course de Bilal, accessible depuis
+  le marqueur de course de Countryside.
+- I don't approve of mindless fun — tue 500 zombies avec le buggy. Utilise
+  les routes, les champs et les zones de groupes ; répare entre deux boucles.
+- You realize it's only points, don't you? — monte Driver Rank au niveau 12.
+  Les courses, sauts, destructions et défis de conduite font monter ce rang.
+- Sweaty palms? — tue un Demolisher avec le buggy. Affaiblis-le à distance,
+  attire-le sur une trajectoire ouverte, puis termine par l'impact du véhicule.
+- This is Harraaaaan! — pousse 100 ennemis hors de toits ou de falaises. Les
+  pentes et les rebords de Countryside permettent de compter par séries.
+- Formidophobic? Interesting… — détruis 50 épouvantails dans les champs et
+  autour des fermes. Note les groupes visités pour ne pas refaire les mêmes.
+- Things That Go Ka-Boom — apprends le plan Exploding Arrows.
+- Electric Whisper — apprends le plan Electric Arrows.
+- Clavis was a key all along — place les fragments de Clavis dans l'Arena de
+  Hellraid, après avoir progressé dans ce mode.
+
+10.5 — NETTOYAGE THE FOLLOWING
+
+- Termine toutes les quêtes de confiance avant The Following.
+- Fais toutes les courses de Bilal et les défis de conduite marqués.
+- Détruis les épouvantails par secteurs : ferme de Jasir, routes nord,
+  champs centraux, voie ferrée et routes sud.
+- Termine les hives et les activités nocturnes marquées ; elles ne remplacent
+  pas les quêtes et ne doivent pas être utilisées comme compteur de confiance.
+- Atteins Driver Rank 12 avant de considérer le buggy comme terminé.
+- Garde les appels et le choix final pour la toute dernière sauvegarde du DLC.
+
+11 — HELLRAID, LES 10 NOTES ET LES RUNS
+
+11.1 — ORDRE DU MODE
+
+1. Entre dans Hellraid depuis l'accès de la Tour.
+2. Fais la première run en Normal pour apprendre les salles, les autels, les
+   portails et les passages secrets.
+3. Termine l'histoire du mode et débloque Raid mode.
+4. Dans Raid mode, les salles sont variables : cherche les notes par nom,
+   pas seulement par numéro de porte.
+5. Ramasse les 10 notes originales, puis vérifie Well-read. Les trois notes
+   de Lord Hector sont optionnelles et ne comptent pas pour le succès.
+
+11.2 — LES 10 NOTES NÉCESSAIRES
+
+- The Count's Blood-covered Letter — après la sortie de l'eau, dans la
+  première route de raid.
+- Mysterious Book — salle secrète derrière une bibliothèque mobile.
+- Vara's Request — proche de la salle du livre, dans le passage adjacent.
+- Library Notes — bibliothèque et rayonnages du chemin principal.
+- The Last Report — salle de rapport avant le changement de secteur.
+- Anat's Instructions — zone d'instructions, près de l'accès d'un passage.
+- The appearance of the Chosen One — salle de la progression centrale.
+- The Fate of the Chosen One – Part One — section suivante de la bibliothèque.
+- Anat's Letter — salle latérale après l'ouverture des passages.
+- The Fate of the Chosen One – Part Two — dernière partie du parcours de
+  notes, selon la configuration du raid.
+
+Si une note n'est pas dans la salle attendue, redémarre Raid mode : la
+configuration des salles change. Utilise le nom affiché dans le menu
+Collectibles et ne compte pas les trois notes Lord Hector dans les 10.
+
+11.3 — LES 10 SUCCÈS HELLRAID
+
+- Beginnings are hard — meurs trois fois au premier étage, avant le premier
+  Clavis. Fais-le dans une run dédiée, pas pendant la run de notes.
+- Blocked by Ba'al — atteins le rang Hellraid 10.
+- Clavis was a key all along — place les fragments de Clavis dans l'Arena.
+- Into the lava — pousse un ennemi dans la lave avec un coup de pied.
+- Time to file a tax form — gagne plus de 3 000 pièces en une seule run.
+- Throw me a bone — tue 50 squelettes avec des dégâts de chute. Utilise les
+  rebords et les pièges de la route de raid.
+- Wake up! — termine Hellraid en Nightmare.
+- Fast as hell — termine Hellraid en moins de 30 minutes. Fais cette run après
+  mémorisation des salles, sans détour de collectibles.
+- Non omnis moriar — termine Hellraid avec une seule vie restante et 0 medkit.
+  Garde cette run pour la fin, quand l'itinéraire est connu.
+- Well-read — les 10 notes originales de Raid mode.
+
+11.4 — ORDRE DES RUNS POUR ÉVITER LES RESETS
+
+1. Run découverte : histoire, pièces et salles.
+2. Run notes : ramasse les 10 et quitte avec le compteur vérifié.
+3. Run objectifs : 50 chutes de squelettes, lave, Clavis et plus de 3 000
+   pièces.
+4. Run chrono : moins de 30 minutes.
+5. Run Nightmare : termine le mode en difficulté demandée.
+6. Run une vie : une seule vie restante, zéro medkit à la sortie.
+
+12 — INDEX DES 78 SUCCÈS STEAM
+
+01 — Is It Really Necessary? — tue le premier Infected.
+02 — Little Craftsman — fabrique le premier objet.
+03 — Flight of the Crane — progression de campagne.
+04 — My left or your left? — progression de campagne.
+05 — Prom Night — survis à une poursuite nocturne de niveau 2 ou plus.
+06 — Open Sesame — réussis 10 crochets.
+07 — Mouths Wide Open — tue un Volatile.
+08 — Can't Touch This — tue 20 ennemis d'affilée sans subir de dégâts.
+09 — Strong — atteins Power Prof. niveau 10.
+10 — I've Got Your Back — termine une quête en coop.
+11 — Harran Shooting Club — tue 50 ennemis avec des armes à feu.
+12 — Pheidippides — parcours au moins 42 195 mètres.
+13 — Trade Company — vends des objets pour 10 000 dollars.
+14 — Snake in the grass — progression de campagne.
+15 — Agile — atteins Agility Prof. niveau 10.
+16 — Everybody Knows Kyle — atteins Survivor Rank niveau 12.
+17 — Sightseeing — progression d'exploration/campagne.
+18 — Making Faces — interaction de campagne.
+19 — Hush, Hush Now — réduis un Screamer au silence.
+20 — Tied loose end — progression de campagne.
+21 — Vertigo — progression de campagne.
+22 — Now You Can Come In — progression de campagne.
+23 — Bittersweet — termine la campagne.
+24 — Disaster Recovery — récupère 15 Relief Packages.
+25 — The Legend of Harran — atteins Survivor Rank niveau 18.
+26 — Mount Everest — escalade au moins 8 848 mètres.
+27 — Master Crafter — utilise des plans 100 fois.
+28 — Afraid to get wet? — plonge dans la Countryside.
+29 — Everybody Dance Now — électrocute simultanément 5 monstres.
+30 — We're All In This Together — sauve 15 survivants de zombies.
+31 — A Game of Catch — tue 50 ennemis avec des armes de jet.
+32 — BBQ — plante sur des pieux un zombie en feu.
+33 — Now It's Safe — capture toutes les safe zones.
+34 — Pearls in the Mud — ouvre 5 coffres GRE dans des zones de quarantaine.
+35 — I felt your presence — assiste à la réunion demandée de The Following.
+36 — I was waiting for you for so long — deviens Faceless.
+37 — High Flyer — tue 25 ennemis avec Ground Pound ou Drop Attack.
+38 — Bolter Hunting — attrape 5 Bolters.
+39 — Blinded by the Lights — aveugle 25 Volatiles avec fusées ou lampe.
+40 — Gabriel's Sword — ajoute un effet de feu à une épée ou un khopesh.
+41 — Harran Athletics — participe à 10 compétitions coop.
+42 — And you liked him, didn't you? — retrouve l'ancien ami indiqué.
+43 — A Long Way Down — saute de l'Infamy Bridge vers l'eau, de nuit.
+44 — What if you picked the other one? — effectue l'appel demandé.
+45 — Robin Hood Theory — réalise 10 headshots sur les hommes de Rais avec un
+    arc.
+46 — Judo Master — projette 50 ennemis avec Grapple.
+47 — I don't approve of mindless fun — tue 500 zombies avec le véhicule.
+48 — You realize it's only points, don't you? — atteins Driver Rank 12.
+49 — Clavis was a key all along — place les fragments de Clavis dans Arena.
+50 — This is Harraaaaan! — tue 100 ennemis en les faisant tomber d'un toit ou
+    d'une falaise.
+51 — Lucky 7 — gagne 7 compétitions coop.
+52 — The Whole Story — termine les 52 quêtes secondaires de base.
+53 — It wasn't that hard, was it? — gagne la course de Bilal.
+54 — I'm a Runner and a fighter — termine 15 défis Agility ou Power.
+55 — Homo Homini Lupus Est — sauve 15 survivants des hommes de Rais.
+56 — Get the Bozak — termine les défis de Bozak.
+57 — Electrified! — attrape 25 ennemis dans le piège de clôture électrique.
+58 — Polyamory — termine 5 quêtes dans une seule partie avec les mêmes trois
+    partenaires.
+59 — Beginnings are hard — meurs trois fois au premier étage de Hellraid,
+    avant le premier Clavis.
+60 — Trespassing — termine les 8 zones de quarantaine de base.
+61 — Into the lava — pousse un ennemi dans la lave.
+62 — It's All In The Writing — trouve les 67 textes de la campagne.
+63 — Things That Go Ka-Boom — apprends à fabriquer les Exploding Arrows.
+64 — Italian Plumber — tue un ennemi avec une clé à molette après Vault puis
+    Drop Attack.
+65 — Electric Whisper — apprends à fabriquer les Electric Arrows.
+66 — Enlightened! — aveugle 25 ennemis dans les Light Traps.
+67 — Sweaty palms? — tue un Demolisher avec une voiture.
+68 — Formidophobic? Interesting… — détruis 50 épouvantails.
+69 — Together Till the End — sois le dernier homme debout dans le mode
+    concerné.
+70 — Blocked by Ba'al — atteins le rang Hellraid 10.
+71 — The Boy Who Could Run — termine les 10 Parkour Fever Challenges.
+72 — GD Parkour Instructor — termine les 10 Parkour Fever Challenges de nuit.
+73 — Time to file a tax form — gagne plus de 3 000 pièces en un run Hellraid.
+74 — Well-read — trouve les 10 notes originales de Hellraid.
+75 — Fast as hell — termine Hellraid en moins de 30 minutes.
+76 — Throw me a bone — tue 50 squelettes avec des dégâts de chute.
+77 — Wake up! — termine Hellraid en Nightmare.
+78 — Non omnis moriar — termine Hellraid avec une seule vie restante et zéro
+    medkit.
+
+CHECKLIST FINALE — 78/78 SUCCÈS STEAM
+
+- [ ] 01. Is It Really Necessary?
+- [ ] 02. Little Craftsman
+- [ ] 03. Flight of the Crane
+- [ ] 04. My left or your left?
+- [ ] 05. Prom Night
+- [ ] 06. Open Sesame
+- [ ] 07. Mouths Wide Open
+- [ ] 08. Can't Touch This
+- [ ] 09. Strong
+- [ ] 10. I've Got Your Back
+- [ ] 11. Harran Shooting Club
+- [ ] 12. Pheidippides
+- [ ] 13. Trade Company
+- [ ] 14. Snake in the grass
+- [ ] 15. Agile
+- [ ] 16. Everybody Knows Kyle
+- [ ] 17. Sightseeing
+- [ ] 18. Making Faces
+- [ ] 19. Hush, Hush Now
+- [ ] 20. Tied loose end
+- [ ] 21. Vertigo
+- [ ] 22. Now You Can Come In
+- [ ] 23. Bittersweet
+- [ ] 24. Disaster Recovery
+- [ ] 25. The Legend of Harran
+- [ ] 26. Mount Everest
+- [ ] 27. Master Crafter
+- [ ] 28. Afraid to get wet?
+- [ ] 29. Everybody Dance Now
+- [ ] 30. We're All In This Together
+- [ ] 31. A Game of Catch
+- [ ] 32. BBQ
+- [ ] 33. Now It's Safe
+- [ ] 34. Pearls in the Mud
+- [ ] 35. I felt your presence
+- [ ] 36. I was waiting for you for so long
+- [ ] 37. High Flyer
+- [ ] 38. Bolter Hunting
+- [ ] 39. Blinded by the Lights
+- [ ] 40. Gabriel's Sword
+- [ ] 41. Harran Athletics
+- [ ] 42. And you liked him, didn't you?
+- [ ] 43. A Long Way Down
+- [ ] 44. What if you picked the other one?
+- [ ] 45. Robin Hood Theory
+- [ ] 46. Judo Master
+- [ ] 47. I don't approve of mindless fun
+- [ ] 48. You realize it's only points, don't you?
+- [ ] 49. Clavis was a key all along
+- [ ] 50. This is Harraaaaan!
+- [ ] 51. Lucky 7
+- [ ] 52. The Whole Story
+- [ ] 53. It wasn't that hard, was it?
+- [ ] 54. I'm a Runner and a fighter
+- [ ] 55. Homo Homini Lupus Est
+- [ ] 56. Get the Bozak
+- [ ] 57. Electrified!
+- [ ] 58. Polyamory
+- [ ] 59. Beginnings are hard
+- [ ] 60. Trespassing
+- [ ] 61. Into the lava
+- [ ] 62. It's All In The Writing
+- [ ] 63. Things That Go Ka-Boom
+- [ ] 64. Italian Plumber
+- [ ] 65. Electric Whisper
+- [ ] 66. Enlightened!
+- [ ] 67. Sweaty palms?
+- [ ] 68. Formidophobic? Interesting…
+- [ ] 69. Together Till the End
+- [ ] 70. Blocked by Ba'al
+- [ ] 71. The Boy Who Could Run
+- [ ] 72. GD Parkour Instructor
+- [ ] 73. Time to file a tax form
+- [ ] 74. Well-read
+- [ ] 75. Fast as hell
+- [ ] 76. Throw me a bone
+- [ ] 77. Wake up!
+- [ ] 78. Non omnis moriar
+
+VERIFICATION FINALE
+
+- [ ] Steam affiche 78/78.
+- [ ] Les 15 missions principales sont terminées.
+- [ ] Les 52 quêtes secondaires de base sont terminées et visibles dans le
+      journal.
+- [ ] Les 8 zones de quarantaine de base sont terminées.
+- [ ] 34/34 Notes, 17/17 Battle Journals et 16/16 Voice Mails sont enregistrés.
+- [ ] Les 10 Parkour Fever sont terminés, dont une route de nuit.
+- [ ] Les objectifs de Bozak et la session coop sont validés séparément.
+- [ ] The Following : confiance, buggy, course, épouvantails et succès sont
+      contrôlés.
+- [ ] Hellraid : 10 notes, rang 10, chrono, Nightmare et runs spéciaux sont
+      contrôlés.
+- [ ] Les éléments facultatifs de sauvegarde sont marqués comme tels et ne
+      sont pas confondus avec les succès Steam.
+
+SOURCES DE VÉRIFICATION
+
+- Steam, liste officielle des 78 succès :
+  https://steamcommunity.com/stats/DyingLight/achievements
+- Steam, checklist de progression de la campagne et des zones :
+  https://steamcommunity.com/sharedfiles/filedetails/?id=2829870699
+- PowerPyx, répartition des 34 Notes, 17 Battle Journals et 16 Voice Mails :
+  https://www.powerpyx.com/guide/dying-light-all-battle-journal-text-collectibles.html
+- SuperCheats, emplacements détaillés des Notes :
+  https://www.supercheats.com/dying-light/walkthrough/notes
+- SuperCheats, emplacements détaillés des Battle Journals :
+  https://www.supercheats.com/dying-light/walkthrough/marvin-zucker-battle-journal
+- SuperCheats, emplacements détaillés des Voice Mails :
+  https://www.supercheats.com/dying-light/walkthrough/voicemail
+- GamesRadar, repères de collecte par carte :
+  https://www.gamesradar.com/dying-light-collectibles-location-guide-notes-battle-journals-voice-mails/
+- Dying Light Wiki, Parkour Fever et Hellraid :
+  https://dyinglight.wiki.gg/wiki/Parkour_Fever
+  https://dyinglight.wiki.gg/wiki/Collectables_%28Dying_Light%29
+
+Les conditions sont reformulées en français et l'itinéraire est rédigé pour
+rester utilisable sans révélation narrative.
