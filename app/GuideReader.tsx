@@ -28,6 +28,7 @@ type GuideReaderProps = {
   search: string;
   setSearch: (value: string) => void;
   guideSearchRef: RefObject<HTMLInputElement | null>;
+  onBack: () => void;
 };
 
 const normalizeGuideText = (value: string) =>
@@ -184,6 +185,7 @@ export default function GuideReader({
   search,
   setSearch,
   guideSearchRef,
+  onBack,
 }: GuideReaderProps) {
   const [guideText, setGuideText] = useState("");
   const [loading, setLoading] = useState(true);
@@ -364,7 +366,7 @@ export default function GuideReader({
           </span>
         </div>
         <div className="reader-cover-copy">
-          <a className="reader-backlink" href="#guides">← Toutes les routes</a>
+          <button className="reader-backlink" type="button" onClick={onBack}>← Toutes les routes</button>
           <p className="kicker"><span>FICHE DE ROUTE</span><span>{selected.count}</span></p>
           <h1>{selected.title}</h1>
           <p>{selected.description}</p>

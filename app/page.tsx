@@ -3253,7 +3253,7 @@ export default function Home() {
         Aller au contenu
       </a>
       <header className="topbar">
-        <a className="brand" href={readerMode ? "/" : "#top"} aria-label="Game Note, accueil">
+        <a className="brand" href={readerMode ? "/" : "#guides"} aria-label="Game Note, bibliothèque">
           <span className="brand-mark" aria-hidden="true">
             <span>GN</span>
             <i />
@@ -3268,24 +3268,11 @@ export default function Home() {
         </a>
 
         <nav className="main-nav" aria-label="Navigation principale">
-          <a className={activeSection === "guides" ? "is-active" : ""} href={readerMode ? "/#guides" : "#guides"} aria-current={activeSection === "guides" ? "page" : undefined}>Bibliothèque</a>
-          <a className={activeSection === "reader" ? "is-active" : ""} href={readerMode ? "#reader" : `/?guide=${selected.id}`} aria-current={activeSection === "reader" ? "page" : undefined} onClick={(event) => { if (!readerMode) { event.preventDefault(); handleOpenReader(selected.id); } }}>Lire</a>
-          {!readerMode ? <a className={activeSection === "methode" ? "is-active" : ""} href="#methode" aria-current={activeSection === "methode" ? "page" : undefined}>Méthode</a> : null}
+          <a href={readerMode ? "/#guides" : "#guides"}>Bibliothèque</a>
+          <a href={readerMode ? "#reader" : `/?guide=${selected.id}`} onClick={(event) => { if (!readerMode) { event.preventDefault(); handleOpenReader(selected.id); } }}>Lire</a>
         </nav>
 
-        <div className="topbar-route-code" aria-hidden="true">
-          <span>FIELD GUIDE</span>
-          <strong>{"GN / " + selectedRouteNumber}</strong>
-        </div>
-
         <div className="topbar-actions">
-          <div className="topbar-status">
-            <span
-              className={"status-dot" + (isOnline ? "" : " status-dot-offline")}
-              aria-hidden="true"
-            />
-            <span>{isOnline ? guides.length + " routes prêtes" : "Hors ligne"}</span>
-          </div>
           <button
             className="topbar-action"
             type="button"
@@ -3324,107 +3311,14 @@ export default function Home() {
       ) : null}
 
       {!readerMode ? <>
-      <section className="hero" id="top">
-        <div className="hero-copy">
-          <p className="kicker"><span>{"ROUTE " + selectedRouteNumber}</span><span>CARNET DE JEU · SANS SPOILER</span></p>
-          <h1>
-            Une partie.
-            <br />
-            Une route.
-            <br />
-            <em>Pas un oubli.</em>
-          </h1>
-          <p className="hero-intro">
-            Game Note transforme chaque grande aventure en carnet de route : les
-            bonnes étapes, au bon moment, sans détour ni spoiler.
-          </p>
-          <div className="hero-actions">
-            <a className="button button-primary" href="#guides">
-              Tracer ma route <span aria-hidden="true">↓</span>
-            </a>
-            <a className="button button-quiet" href={`/?guide=${selected.id}`} onClick={(event) => { event.preventDefault(); handleOpenReader(selected.id); }}>
-              Ouvrir le lecteur <span aria-hidden="true">↗</span>
-            </a>
-          </div>
-        </div>
-
-        <div className="hero-feature" aria-label={`Guide en vedette : ${selected.title}`}>
-          <div className="feature-topline">
-            <span><i className="feature-route-dot" aria-hidden="true" /> REPÈRE ACTIF</span>
-            <span>{"ROUTE " + selectedRouteNumber + " / " + selected.count}</span>
-          </div>
-          <div className="feature-artwork">
-            {/* eslint-disable-next-line @next/next/no-img-element */}
-            <img
-              src={selected.artworkUrl ?? steamHeaderUrl(selected.steamAppId)}
-              alt={`Illustration officielle de ${selected.title}`}
-              width={460}
-              height={215}
-              fetchPriority="high"
-            />
-            <span className={`feature-accent feature-accent-${selected.accent}`} />
-          </div>
-          <div className="feature-copy">
-            <p className="feature-eyebrow">{selected.eyebrow} <span aria-hidden="true">/</span> {selected.tag}</p>
-            <h2>{selected.title}</h2>
-            <p>{selected.subtitle}</p>
-            <button
-              className="feature-cta"
-              type="button"
-              onClick={() => handleOpenReader(selected.id)}
-            >
-              Ouvrir la route <span aria-hidden="true">↗</span>
-            </button>
-          </div>
-        </div>
-      </section>
-
-      <section className="route-console" aria-label="Session de route active">
-        <div className="route-console-head">
-          <span className="route-console-kicker">GN / CONSOLE DE ROUTE</span>
-          <span className="route-console-status"><i aria-hidden="true" /> SESSION LOCALE · ACTIVE</span>
-        </div>
-        <div className="route-console-main">
-          <div className="route-console-current">
-            <span className="route-console-index" aria-hidden="true">{selectedRouteNumber}</span>
-            <div>
-              <span className="route-console-label">REPÈRE ACTIF</span>
-              <strong>{selected.title}</strong>
-              <span>{selected.count} · {selected.tag}</span>
-            </div>
-          </div>
-          <div className="route-console-highlight">
-            <span className="route-console-label">À SURVEILLER</span>
-            <p>{selected.highlight}</p>
-          </div>
-          <button
-            className="route-console-action"
-            type="button"
-            onClick={() => handleOpenReader(selected.id)}
-          >
-            Reprendre le dossier <span aria-hidden="true">↗</span>
-          </button>
-        </div>
-        <div className="route-console-foot">
-          <span><strong>{guides.length}</strong> routes prêtes</span>
-          <span><strong>01</strong> repère à la fois</span>
-          <span><strong>0</strong> compte nécessaire</span>
-          <span className="route-console-foot-note">La trace reste sur cet appareil.</span>
-        </div>
-      </section>
-
-      <section className="section-block" id="guides">
+      <section className="section-block library-page" id="guides">
         <div className="section-heading">
-          <div className="section-heading-title">
-            <span className="section-index" aria-hidden="true">02</span>
-            <div>
-              <p className="kicker"><span>LA BIBLIOTHÈQUE</span><span>REPÈRES DISPONIBLES</span></p>
-              <h2>Choisis ta route.</h2>
-            </div>
+          <div>
+            <p className="kicker"><span>GAME NOTE</span><span>BIBLIOTHÈQUE</span></p>
+            <h1>Mes soluces.</h1>
           </div>
           <p>
-            Recherche un jeu, ouvre son dossier et garde ta progression sur cet
-            appareil. La route reste lisible, même quand la partie se complique.
+            Recherche un jeu, ouvre sa fiche et avance dans le bon ordre.
           </p>
         </div>
 
@@ -3455,7 +3349,6 @@ export default function Home() {
           <span className="catalog-count" aria-live="polite">
             {visibleGuides.length} route{visibleGuides.length > 1 ? "s" : ""} sur {guides.length}
           </span>
-          <span className="shortcut-hint">⌘K / Ctrl K</span>
         </div>
 
         <div className="library-filters" aria-label="Filtrer les routes">
@@ -3477,13 +3370,10 @@ export default function Home() {
 
         {visibleGuides.length > 0 ? (
           <div className="guide-grid">
-            {displayedGuides.map((guide, index) => (
+            {displayedGuides.map((guide) => (
             <article
               className={
-                "guide-card guide-card-" +
-                guide.accent +
-                (index === 0 && !catalogSearch && catalogFilter === "all" ? " is-shelf-lead" : "") +
-                (selected.id === guide.id ? " is-selected" : "")
+                "guide-card guide-card-" + guide.accent
               }
               key={guide.id}
             >
@@ -3550,60 +3440,24 @@ export default function Home() {
         ) : null}
       </section>
 
-      <section className="method-section" id="methode">
-        <div className="method-heading">
-          <span className="section-index" aria-hidden="true">03</span>
-          <p className="kicker"><span>LE PROTOCOLE</span><span>3 GESTES UTILES</span></p>
-          <h2>La route, pas le bruit.</h2>
-          <p>
-            Une fiche Game Note tient dans trois gestes : trouver le repère,
-            avancer dans le bon ordre, laisser une trace.
-          </p>
-        </div>
-        <div className="method-grid">
-          <div className="method-item">
-            <span className="method-number">01 / REPÈRE</span>
-            <h3>Vise juste</h3>
-            <p>Une recherche tolérante aux accents pour passer directement de la partie au bon passage.</p>
-          </div>
-          <div className="method-item">
-            <span className="method-number">02 / ORDRE</span>
-            <h3>Avance proprement</h3>
-            <p>Les missables et les retours dans les zones arrivent au moment où ils servent.</p>
-          </div>
-          <div className="method-item">
-            <span className="method-number">03 / TRACE</span>
-            <h3>Laisse une trace</h3>
-            <p>Les cases cochées restent locales, le TXT se télécharge et la route reste installable.</p>
-          </div>
-        </div>
-      </section>
       </> : null}
 
       {readerMode ? <section className="reader-section" id="reader">
-        <div className="reader-section-mark" aria-hidden="true">
-          <span>04</span>
-          <strong>LIRE / LAISSER UNE TRACE</strong>
-          <i />
-        </div>
         <GuideReader
           selected={selected}
           search={search}
           setSearch={setSearch}
           guideSearchRef={guideSearchRef}
+          onBack={goToLibrary}
         />
       </section> : null}
 
       <nav className="mobile-bottom-nav" aria-label="Navigation mobile">
-        <a href={readerMode ? "/" : "#top"}>
+        <a href={readerMode ? "/" : "#guides"}>
           <span aria-hidden="true">⌂</span>
-          <small>Départ</small>
+          <small>Bibliothèque</small>
         </a>
-        <a href={readerMode ? "/#guides" : "#guides"}>
-          <span aria-hidden="true">▦</span>
-          <small>Routes</small>
-        </a>
-        <a href={readerMode ? "#reader" : `/?guide=${selected.id}`} onClick={(event) => { if (!readerMode) { event.preventDefault(); handleOpenReader(selected.id); } }}>
+        <a href={readerMode ? "/#guides" : `/?guide=${selected.id}`} onClick={(event) => { if (!readerMode) { event.preventDefault(); handleOpenReader(selected.id); } }}>
           <span aria-hidden="true">▤</span>
           <small>Lire</small>
         </a>
@@ -3622,21 +3476,8 @@ export default function Home() {
       </nav>
 
       <footer className="site-footer">
-        <div className="footer-brand">
-          <span className="brand-mark" aria-hidden="true">
-            <span>GN</span>
-            <i />
-          </span>
-          <span>
-            <strong className="wordmark">
-              <span>GAME</span>
-              <em>NOTE</em>
-            </strong>
-            <small>carnet de route · sans détour</small>
-          </span>
-        </div>
-        <p>ROUTE CHRONOLOGIQUE · REPÈRES UTILES · TRACE LOCALE</p>
-        <a href={readerMode ? "/" : "#top"}>Remonter au départ ↑</a>
+        <span>Game Note · guides personnels</span>
+        <a href={readerMode ? "/" : "#guides"}>Retour à la bibliothèque ↑</a>
       </footer>
     </main>
   );

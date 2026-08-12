@@ -308,60 +308,6 @@ button {
   gap: 12px;
 }
 
-.topbar-route-code {
-  display: inline-grid;
-  grid-template-columns: auto auto;
-  align-items: center;
-  gap: 10px;
-  margin-left: auto;
-  padding-left: 16px;
-  border-left: 1px solid var(--line);
-  color: var(--route-ink);
-}
-
-.topbar-route-code span {
-  font-size: 0.53rem;
-  font-weight: 900;
-  letter-spacing: 0.15em;
-}
-
-.topbar-route-code strong {
-  padding: 6px 7px;
-  border: 1px dashed color-mix(in srgb, var(--route-ink) 55%, var(--line));
-  border-radius: 4px;
-  color: var(--navy);
-  font-size: 0.55rem;
-  letter-spacing: 0.1em;
-}
-
-.topbar-status {
-  display: inline-flex;
-  align-items: center;
-  gap: 8px;
-  color: var(--muted);
-  font-size: 0.65rem;
-  font-weight: 700;
-  white-space: nowrap;
-}
-
-.topbar-status > span:last-child {
-  letter-spacing: 0.04em;
-  text-transform: uppercase;
-}
-
-.status-dot {
-  width: 8px;
-  height: 8px;
-  border-radius: 50%;
-  background: #7dac7a;
-  box-shadow: 0 0 0 5px rgba(125, 172, 122, 0.14);
-}
-
-.status-dot-offline {
-  background: var(--coral);
-  box-shadow: 0 0 0 5px color-mix(in srgb, var(--coral) 16%, transparent);
-}
-
 .topbar-action {
   display: inline-flex;
   min-height: 38px;
@@ -473,44 +419,6 @@ button {
   color: var(--navy);
 }
 
-.hero {
-  position: relative;
-  isolation: isolate;
-  display: grid;
-  grid-template-columns: minmax(0, 1.08fr) minmax(350px, 0.92fr);
-  align-items: center;
-  gap: clamp(46px, 9vw, 126px);
-  min-height: 690px;
-  padding-block: 88px 102px;
-}
-
-.hero::before {
-  position: absolute;
-  top: 38px;
-  right: 0;
-  color: color-mix(in srgb, var(--route-ink) 62%, transparent);
-  content: "FIELD NOTE // 01";
-  font-size: 0.56rem;
-  font-weight: 900;
-  letter-spacing: 0.18em;
-  opacity: 0.7;
-}
-
-.hero::after {
-  position: absolute;
-  right: 5%;
-  bottom: 73px;
-  width: 180px;
-  border-top: 1px dashed color-mix(in srgb, var(--route-ink) 60%, transparent);
-  content: "";
-  opacity: 0.65;
-}
-
-.hero > * {
-  position: relative;
-  z-index: 1;
-}
-
 .kicker {
   display: flex;
   flex-wrap: wrap;
@@ -528,41 +436,6 @@ button {
   margin-right: 7px;
   color: var(--route-ink);
   content: "/";
-}
-
-.hero h1 {
-  max-width: 720px;
-  margin: 0;
-  color: var(--navy);
-  font-size: clamp(4.1rem, 8.3vw, 8rem);
-  font-weight: 900;
-  letter-spacing: -0.095em;
-  line-height: 0.86;
-}
-
-.hero h1 em {
-  color: var(--coral);
-  font-family: Georgia, "Times New Roman", serif;
-  font-size: 0.91em;
-  font-style: italic;
-  font-weight: 400;
-  letter-spacing: -0.09em;
-}
-
-.hero-intro {
-  max-width: 545px;
-  margin: 34px 0 0;
-  color: var(--muted);
-  font-size: 1.02rem;
-  line-height: 1.75;
-}
-
-.hero-actions {
-  display: flex;
-  flex-wrap: wrap;
-  align-items: center;
-  gap: 14px;
-  margin-top: 34px;
 }
 
 .button {
