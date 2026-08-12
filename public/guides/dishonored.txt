@@ -1,129 +1,1245 @@
 DISHONORED
-GUIDE CHRONOLOGIQUE 100 % STEAM - SANS SPOILER
+GUIDE CHRONOLOGIQUE COMPLET - 100 % STEAM - SANS SPOILER
 
-Version de travail : 10 aout 2026
+Version editoriale : 12 aout 2026
+Plateforme : Steam
+AppID : 205100
+Perimetre : campagne, routes Low/High Chaos, Ghost, Clean Hands, pouvoirs,
+collectibles, quetes secondaires, The Knife of Dunwall, The Brigmore Witches
+et Dunwall City Trials.
 
-Ce parcours couvre les 80 succes Steam de l'AppID 205100 : campagne,
-chaos, run sans meurtre, run fantome, pouvoirs, run sans pouvoirs, quetes,
-runes, charmes, objets, Knife of Dunwall, Brigmore Witches et Dunwall City
-Trials. Les DLC et leurs defis sont signales separement.
+PROMESSE DE LA FICHE
 
-OBJECTIF
+Cette fiche est une vraie route de completion. Elle ne se contente pas de
+recopier les succes : chaque mission donne l'ordre de progression, les
+detours utiles, les emplacements de collectibles, les fenetres manquables,
+les sauvegardes de securite et la validation de sortie.
+
+Le guide reste sans spoiler narratif. Les noms de missions, de zones, de
+personnages et de succes sont utilises comme reperes pratiques. Aucun
+retournement, aucune fin et aucune consequence narrative ne sont racontees.
+
+OBJECTIFS DE COMPLETION
 
 [ ] 80/80 succes Steam.
-[ ] Campagne basse et haute chaos.
-[ ] Ghost/Clean Hands, Low Chaos, marche sans pouvoirs et succes d'actions.
-[ ] Runes, bone charms, peintures, lettres, pieces et collectibles.
-[ ] Knife of Dunwall, Brigmore Witches et City Trials.
+[ ] Une partie Low Chaos sans meurtre et sans detection.
+[ ] Une partie High Chaos pour les succes de combat et les variantes.
+[ ] La partie sans pouvoir achete, avec Blink uniquement.
+[ ] Les runes, les bone charms, les 11 peintures de Sokolov et les 5 plans
+    principaux utiles aux achats.
+[ ] Toutes les quetes de Granny Rags et Slackjaw, avec sauvegarde pour obtenir
+    les deux succes incompatibles.
+[ ] The Knife of Dunwall : High Chaos, Low Chaos, sans meurtre, sans alerte,
+    faveurs et actions speciales.
+[ ] The Brigmore Witches : High Chaos, Low Chaos, sans meurtre, sans alerte,
+    8 faveurs minimum et 10 000 pieces en Low Chaos.
+[ ] Dunwall City Trials : dix epreuves, dix poupees d'Emily et trois etoiles
+    en Normal et Expert.
 
 GARDE-FOUS ABSOLUS
 
-- Fais deux parcours de campagne : Low Chaos sans tuer et Ghost, puis High
-  Chaos avec combats et choix alternatifs. Ne mélange pas les sauvegardes.
-- Pour Clean Hands/Ghost, ne tue personne, ne declenche pas d'alarme et
-  utilise les sauvegardes manuelles avant chaque zone. Les morts accidentelles
-  et les gardes inconscients doivent etre controles.
-- Le succes sans achat de pouvoirs autorise Blink mais pas les pouvoirs ou
-  ameliorations surnaturelles. Fais-le dans une run dediee.
-- Les collectibles restent accessibles en fin de campagne, mais les succes
-  de fenetre et les routes de quete demandent une sauvegarde avant chaque
-  mission.
-- Aucun passage ne revele une mort, une identite, une fin, un retournement ou
-  une consequence narrative.
+- Travaille avec quatre sauvegardes manuelles : une sauvegarde de mission,
+  une avant chaque cible ou choix, une avant chaque objectif secondaire et une
+  juste avant la sortie de zone.
+- A la fin de chaque mission, ouvre le bilan. Pour la route Ghost, les lignes
+  de detection et de victimes doivent rester valides. Si le bilan est mauvais,
+  recharge la sauvegarde de mission avant de poursuivre.
+- Un corps inconscient n'est pas une victime, mais il peut mourir d'une chute,
+  d'un incendie, de l'eau, d'un essaim de rats, d'un mur de lumiere ou d'une
+  explosion. Pose chaque corps sur une surface sure et seche.
+- Pour Clean Hands, ne tue personne, y compris les civils, les ennemis
+  inconscients qui tombent et les victimes indirectes.
+- Pour Ghost et Shadow, une jauge de detection pleine ou une alarme active
+  suffit a compromettre la mission. Recharge immediatement.
+- Pour Mostly Flesh and Steel, ne depense aucune rune dans un pouvoir ou une
+  amelioration surnaturelle. Blink niveau 1 est la seule exception autorisee.
+  Les upgrades d'armes et d'equipement restent autorises.
+- Les bone charms sont aleatoires dans la campagne principale : 35 points de
+  spawn existent mais une partie n'en affiche qu'une partie. L'objectif Steam
+  Occultist ne demande que 10 charms. Suis les emplacements fixes et utilise
+  le Coeur pour verifier la zone.
+- Les codes de coffre et de combinaison peuvent changer de partie. Le guide
+  indique la methode et le lieu de l'indice, pas un code universel.
+- La campagne et les DLC utilisent des sauvegardes separees. Ne recharge pas
+  un ancien fichier apres avoir termine un DLC si tu veux conserver les
+  importations de Chaos et d'argent.
+- Les objectifs de Granny Rags et Slackjaw sont une fenetre manquable. Fais
+  une sauvegarde avant leur confrontation dans The Flooded District.
+- Dunwall City Trials est une liste de defis independants. Les succes ne
+  demandent pas de les integrer a la campagne.
 
-MISSABLES A SECURISER
+ROUTE GLOBALE RECOMMANDEE
 
-- Low/High Chaos, Clean Hands, Ghost, pouvoirs, runes, bone charms, peintures,
-  quetes de mission, objectifs d'assassinat non lethal et choix de DLC.
+RUN A - LOW CHAOS, GHOST, CLEAN HANDS, MOSTLY FLESH AND STEEL
+
+1. Nouvelle partie en difficulte confortable.
+2. Ne tue personne et ne te fais jamais reperer apres le prologue.
+3. Achete uniquement Blink, puis conserve toutes les runes.
+4. Fais les objectifs non lethaux des cibles principales.
+5. Fais Granny Rags et Slackjaw sans tuer leurs factions, puis sauvegarde
+   avant la decision finale dans The Flooded District.
+6. Collecte les peintures, les plans et au moins 10 bone charms.
+7. Termine la campagne avec les systemes de securite desactives.
+8. Cette run valide normalement Clean Hands, Ghost, Shadow, Just Dark Enough,
+   Faceless, Specter, Surgical et Mostly Flesh and Steel.
+
+RUN B - HIGH CHAOS ET ACTIONS
+
+1. Lance une nouvelle partie ou recharge une sauvegarde avant la campagne.
+2. Tue les cibles et ennemis necessaires, sans chercher Ghost/Clean Hands.
+3. Fais les actions de combat, les kills indirects et les variantes lethales.
+4. Termine en High Chaos pour Dunwall in Chaos.
+5. Rejoue ou charge des missions pour les actions ponctuelles si necessaire.
+6. Les objectifs de Granny Rags et Slackjaw se font ici avec deux sauvegardes
+   afin d'obtenir Gentleman Caller et Street Conspiracy.
+
+RUN C - DLC DAUD
+
+1. The Knife of Dunwall en Low Chaos, sans meurtre et sans detection.
+2. Recharge le debut du DLC pour le High Chaos, les actions de Daud et les
+   faveurs restantes.
+3. The Brigmore Witches en Low Chaos avec 10 000 pieces conservees.
+4. Recharge le debut du DLC pour High Chaos et les 8 faveurs minimum.
+5. Ne melange pas les runs Cleanest Hands et All Come To Ruin.
+
+RUN D - DUNWALL CITY TRIALS
+
+1. Recupere les dix poupees d'Emily, une dans chaque epreuve.
+2. Apprends chaque carte en Normal avant de viser Expert.
+3. Fais les succes specifiques, puis toutes les etoiles.
+4. Le dernier 3 etoiles Expert debloque normalement Void Star.
 
 ORDRE DE PARTIE
 
-1. Low Chaos/Ghost avec collecte et quetes.
-2. Reprises de missions pour les actions et non-lethal.
-3. High Chaos et pouvoirs.
-4. Knife of Dunwall, Brigmore Witches.
-5. Dunwall City Trials.
+CAMPAGNE PRINCIPALE
+01. Prologue - Retour a Dunwall
+02. Coldridge Prison - Evasion
+03. Hound Pits Pub - Interlude et pouvoirs
+04. High Overseer Campbell
+05. Hound Pits Pub - Interlude des Pleureurs
+06. House of Pleasure
+07. Hound Pits Pub - Interlude de la maitresse
+08. The Royal Physician
+09. Hound Pits Pub - Interrogation
+10. Lady Boyle's Last Party
+11. Hound Pits Pub - Le mouvement final
+12. Return to the Tower
+13. Hound Pits Pub - Celebration
+14. The Flooded District
+15. The Loyalists
+16. The Light at the End
 
-MISSION 1 - INTRODUCTION ET EVASION
+THE KNIFE OF DUNWALL
+17. A Captain of Industry
+18. The Surge
+19. The Legal District
 
-- En run Ghost, apprends les routes de garde, les cachettes, les toits et les
-  conduits. Eteins les lampes et utilise Blink uniquement pour te deplacer.
-- Ramasse les premieres runes et bone charms, lis les lettres et inspecte les
-  pieces secondaires. Ne laisse pas un ennemi inconscient dans l'eau ou sur
-  un rebord dangereux.
-- En run High Chaos, valide un combat ouvert, une execution, une diversion
-  et un lancer d'objet. Garde la sauvegarde Low Chaos intacte.
-
-MISSIONS 2 A 4 - QUARTIERS ET CIBLES
-
-- Avant l'objectif principal, lis la carte de mission et repere les runes,
-  bone charms, peintures, coffres et pieces de monnaie.
-- Pour les succes non lethaux, parle aux donneurs de quete, collecte les
-  indices et termine la solution alternative sans tuer la cible.
-- Pour les succes techniques, recharge au debut de mission : possession,
-  chute, mur de lumiere, arbalete, sommeil, rats et assassinat aerien.
-- Termine une mission sans etre alerte, puis une mission avec 5 ennemis a la
-  fois. Ces deux objectifs ne se combinent pas obligatoirement.
-
-MISSIONS 5 A 7 - RETOURS ET COMPLEXITE
-
-- Les zones revisitees ont de nouveaux collectibles. Parcours les toits,
-  egouts, maisons et postes de securite avant la sortie.
-- Achete uniquement les pouvoirs autorises par la run en cours. Les runes
-  depensees peuvent empecher la run sans pouvoir si tu utilises la mauvaise
-  sauvegarde.
-- Pour le chaos, observe le niveau affiche apres chaque mission. Recharge si
-  une mort non souhaitee ou une consequence de combat modifie la route.
-
-MISSIONS 8 A 9 - DERNIER TIERS
-
-- Fais la liste des collectibles avant les sequences de fin de mission. Les
-  objets de quete et les peintures sont plus faciles a noter au menu.
-- Ghost/Clean Hands : finis la mission sans meurtre et sans detection,
-  controle les statistiques et conserve la sauvegarde de sortie.
-- High Chaos : utilise les pouvoirs, les armes et les actions de combat pour
-  les succes de chaos, mais ne remplace pas le fichier Low Chaos.
-
-FIN DE CAMPAGNE ET CLEANUP
-
-- Apres la campagne, utilise la Selection de mission pour refaire les
-  objectifs, objets et succes techniques. Le nombre de runes et bone charms
-  se controle par la sauvegarde.
-- Pour le succes sans achat de pouvoir, reprends depuis une nouvelle partie
-  avec Blink uniquement. Ne prends pas de rune dans le menu de pouvoir si
-  elle compte comme depensee pour la condition.
-- Les records de la campagne et le 100 % de collectibles doivent etre
-  verifies dans chaque mission, pas seulement sur la carte globale.
-
-KNIFE OF DUNWALL ET BRIGMORE WITCHES
-
-- Joue Knife of Dunwall puis Brigmore Witches avec collecte, quetes et choix.
-  Les deux DLC partagent certains compteurs mais ont leurs propres missions.
-- Fais une route Low Chaos/non lethal et une route High Chaos si les succes
-  de DLC le demandent. Sauvegarde avant les pouvoirs et les contrats.
-- Ramasse runes, bone charms, journaux et objets de contrat. Controle les
-  succes propres aux assassins, aux pouvoirs et aux executions.
+THE BRIGMORE WITCHES
+20. Choosing Your Mark
+21. A Stay of Execution for Lizzy
+22. The Dead Eels
+23. Delilah's Masterwork
 
 DUNWALL CITY TRIALS
+24. Mystery Foe
+25. Burglar
+26. Back Alley Brawl
+27. Assassin's Run
+28. Oil Drop
+29. Bend Time Massacre
+30. Kill Chain
+31. Bonfires
+32. Train Runner
+33. Kill Cascade
 
-- Termine d'abord les epreuves de tutoriel, puis attaque les cartes de
-  combat, furtivite et vitesse.
-- Les scores demandent de memoriser la route, le bonus de temps et les
-  conditions de chaque carte. Fais une run de reconnaissance avant le score.
-- Pour Assassin's Run et les headshots, equipe la meilleure sensibilite,
-  garde les checkpoints et ne force pas un combo rate.
+COLLECTIBLES : REGLES DE SUIVI
+
+- Runes : elles servent aux pouvoirs. Pour la run Mostly Flesh and Steel,
+  ramasse-les mais ne les depense pas.
+- Bone charms : utilise le Coeur. Les points ci-dessous donnent les chemins
+  fixes ; le trait du charm peut varier.
+- Peintures : il y en a 11 dans la campagne principale. Elles rapportent des
+  pieces et comptent pour Art Dealer.
+- Plans : Lens Magnification, Sokolov's Formula, Folded Galvani Resin,
+  Spiked Grenade Housing et Small Scale Combustion Refinement.
+- Faveurs : les acheter compte pour les succes de DLC. L'argent depense ne
+  doit pas etre confondu avec l'argent conserve pour Enough Coin to Disappear.
+- Bilan : les objets ramasses apparaissent dans le resultat de mission. Fais
+  une capture ou coche la fiche avant de quitter.
+
+FICHE DE SUIVI DES PEINTURES
+
+[ ] 01 - High Overseer Campbell : salle secrete du bureau, ouverte par le
+    bouton sur le buste de l'Office of the High Overseer.
+[ ] 02 - House of Pleasure : appartement de l'Art Dealer, coffre du dernier
+    etage ; recupere la combinaison pendant la quete de Slackjaw.
+[ ] 03 - House of Pleasure : appartement de l'Art Dealer, piece du dernier
+    etage, derriere la porte qui donne sur le couloir.
+[ ] 04 - House of Pleasure : appartement de l'Art Dealer, deuxieme etage,
+    dans la grande piece ou deux hommes observent le tableau.
+[ ] 05 - The Royal Physician : maison de Sokolov, rez-de-chaussee, au centre
+    de la grande piece.
+[ ] 06 - Lady Boyle's Last Party : etage des chambres, dans l'une des trois
+    chambres des soeurs ; la chambre varie selon la partie.
+[ ] 07 - Lady Boyle's Last Party : etage des chambres, salle centrale avec
+    vitrines, au milieu de la piece.
+[ ] 08 - Return to the Tower : balcon proche de la chambre du Lord Regent,
+    puis passage par la cheminee ; tableau au-dessus du foyer.
+[ ] 09 - The Flooded District : depuis la chaine vers la base de Daud, monte
+    sur les toits et atteins le balcon lateral.
+[ ] 10 - The Flooded District : base de Daud, apres la porte et la chaine ;
+    ne descends pas tout de suite, saute vers la salle intermediaire.
+[ ] 11 - The Flooded District : chambre de Granny Rags, accessible apres avoir
+    realise les quetes de Granny et Slackjaw.
+
+FICHE DE SUIVI DES PLANS
+
+[ ] Lens Magnification : acheter a Griff apres l'avoir sauve pres de la
+    Distillerie. Une autre occasion existe dans House of Pleasure.
+[ ] Sokolov's Formula : ouverture au-dessus de l'entree de la boutique de
+    Griff ; alternative dans la cave de Gateward Tunnel.
+[ ] Folded Galvani Resin : premier entrepot de The Royal Physician, sur le
+    bureau pres du chariot ; alternative dans le coffre de Daud.
+[ ] Spiked Grenade Housing : poste de garde a l'entree de Boyle Estate ;
+    alternative dans Gateward Tunnel, dans le batiment des debris.
+[ ] Small Scale Combustion Refinement : bureau de General Tobias dans Return
+    to the Tower ; alternative dans le wagon de la gare de Central Rudshore.
+
+01 - PROLOGUE ET COLDRIDGE PRISON
+
+OBJECTIF DE MISSION
+
+Revenir a Dunwall, recuperer l'equipement et sortir de Coldridge. Cette partie
+sert de tutoriel et de premier test de furtivite.
+
+ROUTE LOW CHAOS / GHOST
+
+[ ] Dans la cellule, lis la lettre, prends la bouteille et attends le moment
+    ou le garde quitte son axe.
+[ ] Recupere la cle, la lame et les outils sans tuer le garde.
+[ ] Utilise les conduits, les hauteurs et les zones d'ombre. Ne cours pas dans
+    les lignes de vue.
+[ ] Dans la zone d'evasion, neutralise les gardes avec etouffement ou passe
+    sans les toucher. Eloigne les corps des rails, de l'eau et des rats.
+[ ] Rejoins le contact de sortie puis traverse les egouts sans detection.
+[ ] Fais une sauvegarde juste avant la porte finale et verifie le bilan.
+
+ROUTE HIGH CHAOS / ACTIONS
+
+[ ] Fais une sauvegarde avant la premiere rencontre.
+[ ] Pour The Escapist, attire cinq poursuivants dans une meme zone, cours en
+    cercle sans les tuer et sans quitter la carte, puis casse la poursuite.
+[ ] Pour Vanished, garde une sauvegarde de la route furtive : ce succes se
+    valide en sortant de la prison et des egouts sans detection.
+[ ] Pour This Is Mine, recupere ton equipement dans la zone de stockage.
+[ ] Ne cherche pas a cumuler The Escapist et Vanished dans la meme tentative si
+    la poursuite rend la sortie instable.
+
+OBJECTIFS DE SORTIE
+
+[ ] Le succes Dishonored tombe a la fin des missions d'introduction.
+[ ] Le bilan ne doit afficher aucune mort pour la run A.
+[ ] La sauvegarde de sortie est conservee comme point de depart de la campagne.
+
+02 - HOUND PITS PUB : INTRODUCTION
+
+[ ] Parle aux Loyalists, active l'atelier de Piero et remplis la machine de
+    whale oil.
+[ ] Achete les carreaux ou carreaux soporifiques qui correspondent a ta run.
+[ ] Recupere la rune vendue par Piero quand tu as 500 pieces.
+[ ] Apres le don de Blink, suis le Coeur vers le rivage et ramasse la rune.
+[ ] Dans les egouts sous le pub, apres la mission Campbell, ramasse les deux
+    runes : l'une dans le bureau, l'autre derriere la grille sous l'eau.
+[ ] Apres The Royal Physician et avant de dormir, parle a Cecilia, prends la
+    cle sous une couchette et ouvre l'Abandoned Apartment pour le bone charm.
+[ ] Pour Mostly Flesh and Steel, ne depense pas les runes et n'achete aucun
+    pouvoir sauf Blink niveau 1.
+[ ] Pour Gentleman Caller et Street Conspiracy, ne valide pas encore la
+    confrontation finale de Granny et Slackjaw : elle vient plus tard.
+
+03 - HIGH OVERSEER CAMPBELL
+
+OBJECTIF DE MISSION
+
+Atteindre l'Office of the High Overseer, traiter Campbell, proteger Curnow et
+ouvrir les branches de quetes secondaires.
+
+ROUTE PRINCIPALE SANS SPOILER
+
+[ ] Depuis le point de depart, utilise le chemin haut vers le pont. Derriere la
+    grille ou les gardes jettent les corps se trouve un bone charm.
+[ ] Passe la premiere Wall of Light par les toits ou par le passage lateral.
+[ ] Sauve Griff dans l'allee : neutralise les deux membres de gang, puis
+    monte dans le batiment par le trou du plafond.
+[ ] Si tu veux Lens Magnification, achete-le a Griff apres son sauvetage.
+[ ] Rejoins Granny Rags a droite de la rue principale.
+
+QUETES DE GRANNY RAGS - FENETRE MANQUABLE
+
+[ ] Quete 1, Gentlemen Callers : retire les trois voyous devant sa porte.
+[ ] Quete 2 : trouve les entrailles de rat infecte dans la piece secrete de
+    Galvani. Le livre declencheur est dans la bibliotheque.
+[ ] Quete 3 n'est pas dans cette mission. Elle sera ouverte seulement si les
+    deux quetes de Granny et les deux quetes de Slackjaw sont terminees.
+[ ] Ramasse la rune offerte par Granny apres chaque etape. Le succes
+    Gentleman Caller ne se valide qu'apres la derniere etape du Flooded
+    District et la recuperation de la recompense.
+
+CAMPBELL : ROUTE LOW CHAOS ET POETIC JUSTICE
+
+[ ] Localise le capitaine Curnow et sauvegarde avant la salle de reunion.
+[ ] Neutralise les gardes par carreaux soporifiques ou etouffement.
+[ ] Empeche Campbell de tuer Curnow en deplacant ou neutralisant la cible au
+    bon moment.
+[ ] Recupere la Heretical Brand dans la salle secrete de l'Office.
+[ ] Marque Campbell au lieu de le tuer. Cela valide Mercy is the Mark.
+[ ] Pour Poetic Justice, utilise les solutions non lethales sur toutes les
+    cibles principales de la campagne. Ne choisis pas une solution lethal
+    pendant la run A.
+
+CAMPBELL : ROUTE HIGH CHAOS ET ACTIONS
+
+[ ] Elimine Campbell pour Excommunication.
+[ ] Pour Wall of Sparks, attire un ennemi vers un Wall of Light puis
+    desactive ou rewire le systeme seulement apres le positionnement.
+[ ] Pour Cleaner, engage cinq ennemis en meme temps puis fais-les tous
+    disparaitre sans en laisser un vivant.
+[ ] Pour Rogue, compte dix eliminations d'ennemis totalement inconscients de
+    ta presence ; les assassinats furtifs sont les plus fiables.
+[ ] Pour Faceless et Specter, recharge la route A : ils demandent une mission
+    sans detection, avec le nombre de victimes correspondant.
+
+COLLECTIBLES ET EMPLACEMENTS
+
+RUNES
+[ ] Outsider Shrine au bout du chemin de droite apres la premiere zone.
+[ ] Recompense de la premiere quete de Granny Rags.
+[ ] Recompense de la deuxieme quete de Granny Rags.
+[ ] Remorque apres la deuxieme Wall of Light, sur la gauche.
+[ ] Salle secrete de l'Office, dans la vitrine.
+[ ] Meeting Room, au-dessus du foyer.
+[ ] Back Yard, dans le Workshop, sur une table.
+
+BONE CHARMS
+[ ] Pont du depart, derriere la grille des corps.
+[ ] Batiment de Griff, au deuxieme etage, apres le trou du plafond.
+[ ] Distillerie, poutre au-dessus de la salle des tonneaux ; chemin de la
+    deuxieme quete de Granny.
+[ ] Back Yard, batiment du fond, pres du corps ; ouvrir avec la valve ou par
+    l'entree boarded.
+[ ] Back Yard, batiment lateral ; entre par les conduits, desactive le piege
+    et utilise l'etau pour liberer le charm.
+
+PEINTURE ET PLAN
+[ ] Peinture : salle secrete de l'Office, derriere le mur active par le buste.
+[ ] Plan : Lens Magnification chez Griff ou Sokolov's Formula au-dessus de
+    l'entree de sa boutique.
+
+SORTIE DE MISSION
+
+[ ] Ramasse l'equipement de Campbell avant de partir.
+[ ] Ecran de resultat : aucune detection et aucune victime pour Ghost/Clean
+    Hands.
+[ ] Conserve une sauvegarde apres le bilan.
+
+04 - INTERLUDE DES PLEUREURS
+
+[ ] Si tu vises Low Chaos, descends dans les egouts sans tuer les deux
+    Pleureurs.
+[ ] Ramasse les deux runes sous le Hound Pits Pub.
+[ ] Ne laisse pas un corps inconscient dans l'eau.
+[ ] Le sommeil avant House of Pleasure ouvre la suite de la campagne.
+
+05 - HOUSE OF PLEASURE
+
+OBJECTIF DE MISSION
+
+Entrer dans le Golden Cat, retrouver Emily et obtenir les informations de
+Crowley. Cette mission contient les trois peintures de l'appartement de l'Art
+Dealer, les quetes de Slackjaw et plusieurs choix manquables.
+
+ENTREE ET DISTILLERIE
+
+[ ] A la sortie du bateau, monte puis rejoins Slackjaw a la Distillerie.
+[ ] Pour Low Chaos, ne repands pas de poison dans le stock. Travaille avec les
+    objectifs qui donnent des neutralisations non lethales.
+[ ] Pour la premiere quete de Slackjaw, retrouve Crowley dans Galvani's
+    Offices et ramene l'information demandee.
+[ ] Pour Street Conspiracy, termine les deux quetes de Slackjaw, puis garde
+    une sauvegarde avant la confrontation finale du Flooded District.
+[ ] Les deux premiers objectifs de Slackjaw doivent etre faits avant de quitter
+    la mission.
+
+GOLDEN CAT ET EMILY
+
+[ ] Atteins le Golden Cat par les toits ou les conduits.
+[ ] Localise Emily et ouvre sa sortie sure.
+[ ] Pour Child Care, retrouve Emily.
+[ ] Pour Well Mannered, complete Lady Boyle's Last Party sans perturber la
+    fete ; ce succes se fait dans la mission suivante.
+[ ] Pour les freres Pendleton, utilise la solution non lethale pendant la run A.
+[ ] Pour An Unfortunate Accident, conserve une sauvegarde de la mission
+    suivante et utilise le piege a vapeur sur Morgan Pendleton pendant la run
+    d'actions.
+
+ART DEALER : PEINTURES, COFFRE ET RUNES
+
+[ ] Trouve l'Art Dealer dans le Golden Cat et fais avancer l'interrogatoire.
+[ ] Note la combinaison du coffre : elle est generee par la partie et se lit
+    sur l'indice fourni par l'Art Dealer.
+[ ] Ouvre d'abord le coffre de l'appartement avant de remettre la combinaison
+    a Slackjaw. C'est la condition de The Art of the Steal.
+[ ] Les trois peintures sont dans l'appartement : coffre du dernier etage,
+    piece du dernier etage et grande piece du deuxieme etage.
+[ ] Le safe contient aussi une rune. Elle est manquable si tu n'obtiens pas
+    la combinaison ou si tu donnes l'information trop tot.
+
+COLLECTIBLES ET EMPLACEMENTS
+
+RUNES
+[ ] Galvani's Offices, laboratoire secret ouvert par le livre de la
+    bibliotheque.
+[ ] Safe de l'Art Dealer, combinaison obtenue pendant la quete de Slackjaw.
+[ ] Batiment a droite de l'escalier de l'entree du Golden Cat, deuxieme etage.
+[ ] Deuxieme etage du bathhouse, au-dessus de la table derriere les portes
+    doubles.
+[ ] Dernier etage du Golden Cat, piece de la courtisane proche d'Emily.
+
+BONE CHARMS
+[ ] Distillerie, piece verrouillee a gauche de l'entree ; ouvre le battant avec
+    le levier puis Blink vers la cle.
+[ ] Balcon le plus haut des pieces des assassins, au-dessus de la distillerie.
+[ ] Piece de Granny Rags, sur le poele, dans l'allee des Pleureurs.
+[ ] Captain's Chair Hotel, a cote du matelas, cle obtenue de Slackjaw.
+[ ] Golden Cat, au-dessus de la cheminee de la piece ouverte avec la Master
+    Key de Madam Prudence.
+
+PEINTURES
+[ ] Art Dealer, coffre du dernier etage.
+[ ] Art Dealer, piece du dernier etage.
+[ ] Art Dealer, grande piece du deuxieme etage.
+
+SOLUTION NON LETALE DE LA MISSION
+
+[ ] Neutralise les freres Pendleton par la solution de Slackjaw ou la solution
+    non lethale equivalent, sans tuer le personnel.
+[ ] Libere Emily, puis ramene-la au point de sortie.
+[ ] Ne tue ni civil ni cible secondaire dans la run A.
+[ ] Pour Food Chain, effectue une elimination d'assassin pendant la run B.
+[ ] Pour Street Conspiracy, verifie que les deux etapes de Slackjaw sont
+    cochees avant de quitter la mission.
+
+06 - INTERLUDE DE LA MAITRESSE
+
+[ ] Parle a Callista au pub pour ouvrir la recherche d'Emily.
+[ ] Pour la rune bonus, retrouve Emily dans sa cachette et parle-lui.
+[ ] Si tu as complete le duel de Lord Shaw pendant Lady Boyle, recupere la
+    rune remise par Pendleton.
+[ ] N'oublie pas que le bone charm de l'Abandoned Apartment n'est accessible
+    qu'avant de dormir apres The Royal Physician.
+
+07 - THE ROYAL PHYSICIAN
+
+OBJECTIF DE MISSION
+
+Atteindre la maison de Sokolov, recuperer Sokolov et traverser Kaldwin's
+Bridge. Cette mission contient la cinquieme peinture et plusieurs runes.
+
+PROGRESSION
+
+[ ] Depuis le point de depart, passe les entrepots par les hauteurs.
+[ ] Ramasse le plan Folded Galvani Resin sur le bureau pres du chariot.
+[ ] Dans Drawbridge Way, explore le toit et les passerelles plutot que la rue.
+[ ] Pour le coffre de Pratchett, observe les trois peintures de sa maison et
+    reconstitue la combinaison. Le code est variable ; la methode est fixe.
+[ ] Atteins Kaldwin's Bridge et monte jusqu'au point le plus eleve accessible.
+[ ] Le sommet du pont valide King of the World.
+[ ] Entre chez Sokolov. En Low Chaos, utilise les chemins lateraux et les
+    carreaux soporifiques.
+[ ] Capture Sokolov et ramene-le au bateau.
+
+COLLECTIBLES
+
+RUNES
+[ ] Drawbridge Way, salle accessible par une chaine, sur la table.
+[ ] Coffre de Pratchett au dernier etage, combinaison deduite des peintures.
+[ ] Shrine sur le balcon au-dessus de la maison de Pratchett.
+[ ] Midrow Substation, sur la table apres la premiere Wall of Light.
+[ ] Maison de Sokolov, sur la table pres de lui.
+
+BONE CHARMS
+[ ] Zone avant la deuxieme grande zone : ouvre la vanne du sluice et traverse
+    sous le pont.
+[ ] Midrow Substation : au sous-sol de la maison avec la femme qui appelle,
+    pres du corps et du livre.
+[ ] Derniere zone : depuis l'allee de droite, monte sur les toits et entre
+    dans la piece du balcon le plus haut.
+
+PEINTURE
+
+[ ] Maison de Sokolov, rez-de-chaussee, au centre de la grande salle. C'est la
+    peinture 05/11.
+
+SUCCES ET ACTIONS
+
+[ ] Capturing Genius and Madness : termine la mission Bridge et capture
+    Sokolov.
+[ ] King of the World : atteins le point culminant de Kaldwin's Bridge.
+[ ] Alive Without Breath : garde ce succes pour une sauvegarde High Chaos avec
+    Possession sur un poisson ; la tentative se fait hors de la run A.
+[ ] Surgical : du debut de la campagne jusqu'a la fin de cette mission, garde
+    le compteur de victimes sous 10.
+[ ] Pour Mostly Flesh and Steel, ne depense toujours aucune rune.
+
+08 - LADY BOYLE'S LAST PARTY
+
+OBJECTIF DE MISSION
+
+Entrer a la fete, identifier la bonne soeur Boyle et resoudre la mission
+selon la route de ta partie.
+
+ENTREE ET OPTIONALS
+
+[ ] Recupere l'invitation, puis explore le poste de garde : le plan Spiked
+    Grenade Housing est dans la zone.
+[ ] Dans la rue avant le manoir, visite le batiment a gauche pour le bone
+    charm, puis le batiment de l'autre cote pour le second.
+[ ] Pour le duel Lord Shaw, prends la quete optionnelle et gagne sans alerter
+    la fete. Pendleton donne ensuite une rune.
+[ ] Utilise une sauvegarde avant d'entrer au manoir si tu veux tester les
+    variantes sans refaire toute l'approche.
+
+BOYLE ESTATE
+
+[ ] Entre dans la fete sans frapper les invites.
+[ ] Observe les descriptions, les vetements et les zones des trois soeurs
+    avant de choisir la cible.
+[ ] Pour Well Mannered, ne declenche pas de combat, ne tue personne et ne
+    detruis pas la fete.
+[ ] Pour Poetic Justice, applique la solution non lethale a la cible.
+[ ] Pour la peinture, monte par la cage d'escalier laterale et inspecte les
+    chambres ornees ; l'une des chambres contient la peinture aleatoire.
+[ ] La deuxieme peinture est dans la piece centrale aux vitrines.
+[ ] Pour la rune du coffre de sous-sol, recupere la cle dans la chambre
+    correspondante puis descends dans le basement vault.
+[ ] Pour Lights Out, conserve une sauvegarde de sortie : le succes est en
+    mission 9, mais les depenses de rewire tools se gerent maintenant.
+
+COLLECTIBLES
+
+RUNES
+[ ] Batiment de rue a gauche, meme piece que le Shrine.
+[ ] Eau a l'oppose du bateau de Samuel, pres de l'escalier.
+[ ] Basement Vault de Boyle Estate, cle dans une chambre aleatoire.
+
+BONE CHARMS
+[ ] Batiment de gauche en debut de mission, pres du corps dans la piece du
+    Pleureur.
+[ ] Batiment de l'autre cote de la passerelle, au troisieme etage, a cote des
+    deux whale oil tanks.
+
+PEINTURES
+[ ] Une chambre des trois soeurs ; le placement varie selon la partie.
+[ ] Piece centrale de l'etage avec les vitrines.
+
+SORTIE
+
+[ ] Libere Emily et quitte le manoir avec Samuel.
+[ ] Dans la run A, le bilan doit etre sans detection et sans victime.
+[ ] Dans la run B, garde une sauvegarde avant le choix final pour An
+    Unfortunate Accident et les variantes de cibles.
+
+09 - RETURN TO THE TOWER
+
+OBJECTIF DE MISSION
+
+Atteindre le Lord Regent dans la tour, recuperer les preuves et preparer la
+suite de la campagne.
+
+PROGRESSION LOW CHAOS
+
+[ ] Dans le water lock, traverse les engrenages par les ouvertures laterales.
+[ ] Le bone charm est pres d'un corps dans la partie basse du water lock.
+[ ] Dans la grande cour, utilise les toits pour eviter le Tallboy.
+[ ] Monte jusqu'au sommet de la tour. Le Lord Regent peut etre traite par la
+    route lethale ou par la route politique.
+[ ] Pour Political Suicide, recupere les preuves et expose les crimes du Lord
+    Regent afin de provoquer son arrestation.
+[ ] Pour Regicide, elimine Hiram Burrows dans la run B.
+[ ] Ne depense pas de rune surnaturelle dans la run Mostly Flesh and Steel.
+
+COLLECTIBLES
+
+RUNES
+[ ] Water lock, apres les engrenages, derriere l'une des ouvertures.
+[ ] Dortoir de la cour, sous le lit de la couchette centrale.
+[ ] Coffre de la chambre du Lord Regent.
+[ ] Le jeu peut compter un point de rune dans la zone de la tour selon le
+    chemin choisi ; suis le Coeur et le bilan de mission.
+
+BONE CHARM
+
+[ ] Tour, deuxieme etage, secret derriere le foyer : active le luminaire mural
+    puis monte sur le meuble.
+
+PEINTURE ET PLAN
+
+[ ] Peinture : piece adjacente a la chambre du Lord Regent, accessible par la
+    cheminee du balcon.
+[ ] Plan Small Scale Combustion Refinement : bureau de General Tobias.
+
+SUCCES
+
+[ ] Political Suicide : expose les crimes et declenche l'arrestation.
+[ ] Regicide : succes High Chaos, elimine Hiram Burrows.
+[ ] Lights Out n'est pas encore valide ; garde tes rewire tools pour Kingsparrow.
+
+10 - THE FLOODED DISTRICT
+
+OBJECTIF DE MISSION
+
+Recuperer l'equipement, traverser les zones inondees, gerer la confrontation
+de Granny Rags et Slackjaw, puis quitter les egouts.
+
+ROUTE PRINCIPALE
+
+[ ] Apres la chute initiale, cherche ton equipement et utilise les hauteurs
+    plutot que les rues inondees.
+[ ] Quand tu atteins la chaine vers la base de Daud, explore la zone avant de
+    monter.
+[ ] Recupere la rune dans les buissons pres du batiment de l'equipement.
+[ ] Dans Central Rudshore, recupere le bone charm dans le wagon renverse au
+    fond de la zone, derriere la grande porte grillee.
+[ ] Entre dans la base de Daud. Pour Ghost, evite les assassins et ne les
+    tue pas ; pour la run B, prepare les actions de combat.
+[ ] Ramasse la cle de Daud. Le bone charm de Daud se vole ou se recupere sur
+    lui selon ta route.
+[ ] Dans Gateward Tunnel, passe par les balcons et les toits.
+[ ] Dans les egouts, le coffre pres des Pleureurs utilise la combinaison 528.
+[ ] Dans la derniere salle aux River Krusts, plonge derriere la grille pour le
+    bone charm sous l'eau.
+
+CONFRONTATION GRANNY RAGS / SLACKJAW - SAUVEGARDE OBLIGATOIRE
+
+[ ] Avant de parler au personnage qui bloque la route, fais une sauvegarde.
+[ ] Route Gentleman Caller : aide Granny Rags jusqu'au bout, valide sa
+    derniere tache et recupere sa rune finale.
+[ ] Recharge la sauvegarde.
+[ ] Route Street Conspiracy : aide Slackjaw dans la resolution opposee et
+    recupere sa recompense.
+[ ] Les deux succes sont incompatibles sur la meme sauvegarde. Ils peuvent
+    etre obtenus avec la meme partie en rechargeant cette sauvegarde.
+[ ] La peinture de la chambre de Granny exige que les deux chaines de quetes
+    aient ete realisees avant la confrontation.
+
+COLLECTIBLES
+
+RUNES
+[ ] Greaves Refinery, dans les buissons pres du batiment de l'equipement.
+[ ] Central Rudshore, au pied de la chaine apres la base de Daud.
+[ ] Gateward Tunnel, toit le plus haut entre les deux batiments relies.
+[ ] Chambre de Granny, derriere la confrontation, sur le Shrine.
+[ ] Vieux port et egouts, sous les passerelles de la zone des Pleureurs ou des
+    survivants.
+
+BONE CHARMS
+[ ] Premiere zone, apres la chaine de la base, dans le batiment a l'escalier.
+[ ] Greaves Refinery, sous la passerelle brisee.
+[ ] Base de Daud, sur Daud ou dans son inventaire.
+[ ] Central Rudshore, wagon renverse au fond de la zone.
+[ ] Gateward Tunnel, au sol pres des rats.
+[ ] Old Port District, batiment a gauche apres les escaliers, sur le bureau.
+[ ] Egouts, coffre de combinaison 528.
+[ ] Egouts finaux, derriere la grille dans l'eau.
+
+PEINTURES
+
+[ ] Balcon au-dessus de la zone proche de la chaine vers Daud.
+[ ] Base de Daud, zone intermediaire pres de la chaine descendante.
+[ ] Chambre de Granny Rags, au-dessus du lit ; exige les deux chaines de
+    quetes.
+
+PLAN
+
+[ ] Gateward Tunnel, cave pres de la sortie : Sokolov's Formula ou Spiked
+    Grenade Housing selon les objets deja acquis.
+[ ] Daud's locked chest, apres avoir recupere la cle : Folded Galvani Resin
+    ou plan alternatif.
+
+SUCCES DE MISSION
+
+[ ] Creepy Crawly : termine la chaine de Granny Rags et accede a son repaire.
+[ ] Gentleman Caller : valide les trois missions de Granny et recupere la
+    rune finale.
+[ ] Street Conspiracy : valide les etapes de Slackjaw et sa resolution.
+[ ] Alive Without Breath : reviens ici seulement pour une tentative Possession
+    sur un poisson si tu ne l'as pas deja obtenu.
+[ ] La fin de mission ouvre The Loyalists.
+
+11 - THE LOYALISTS
+
+OBJECTIF DE MISSION
+
+Retourner au Hound Pits, recuperer les informations et traverser l'infiltration
+du pub.
+
+[ ] Parle a Cecilia et prends la cle sur le crochet.
+[ ] Utilise la fenetre et les toits pour eviter les gardes et les Tallboys.
+[ ] Dans la piece proche de l'entree, inspecte la poubelle pour le plan.
+[ ] Explore l'atelier de Piero en passant par le toit. La rune est sur la table
+    du deuxieme etage.
+[ ] Pour Gangs of Dunwall, fais cette action dans The Knife of Dunwall, pas
+    dans la campagne principale : le nom apparait plus bas.
+[ ] Pour Ghost/Shadow, la phase d'interlude compte. Ne te fais pas reperer
+    entre deux missions.
+
+COLLECTIBLES
+
+[ ] Plan dans la poubelle de la piece d'entree.
+[ ] Rune dans l'atelier de Piero, accessible par le toit et la fenetre.
+[ ] Verifie le bilan avant de parler a Samuel.
+
+12 - THE LIGHT AT THE END
+
+OBJECTIF DE MISSION
+
+Rejoindre Kingsparrow Island et finir la campagne selon le niveau de Chaos
+obtenu.
+
+ROUTE LOW CHAOS
+
+[ ] Desactive les systemes de securite avant de traverser l'ile.
+[ ] Utilise les drains et les ouvertures laterales plutot que les portes
+    surveillees.
+[ ] Pour Long Live the Empress, protege Emily jusqu'au point final.
+[ ] Pour Just Dark Enough, termine avec un niveau de Chaos bas.
+[ ] Pour Resolution, termine la campagne.
+
+LIGHTS OUT : CINQ SYSTEMES A DESACTIVER
+
+[ ] Wall of Light de l'entree portuaire : retire le tank ou utilise un rewire.
+[ ] Wall of Light de l'entree cote plage : meme procedure.
+[ ] Arc pylon de la plage : desactive le tank ou rewire.
+[ ] Arc pylon de la passerelle vers le phare.
+[ ] Watchtower de la plage : desactive le systeme si tu peux l'atteindre.
+[ ] Sixieme option selon le Chaos : Wall of Light de la cour en Low Chaos ou
+    roue/generateur du phare en High Chaos.
+[ ] Desactive au moins cinq systemes dans la meme partie. Le succes n'est pas
+    cumulatif entre plusieurs sauvegardes.
+[ ] Garde un rewire tool pour la derniere installation si tu n'as pas Blink
+    niveau 2.
+
+COLLECTIBLE
+
+[ ] Drainage de Gatehouse : ouvre la vanne et ramasse la rune dans la petite
+    piece entre les deux drains.
+
+FIN DE CAMPAGNE
+
+[ ] Long Live the Empress : protege Emily.
+[ ] Dunwall in Chaos : recharge ou termine la run High Chaos.
+[ ] Just Dark Enough : termine la run Low Chaos.
+[ ] Clean Hands : le bilan de toute la campagne doit confirmer zero meurtre.
+[ ] Ghost : aucune detection et aucune victime hors cibles autorisees selon la
+    version du succes ; par securite, vise zero detection et zero meurtre.
+[ ] Shadow : aucune detection apres le prologue.
+[ ] Mostly Flesh and Steel : aucune rune depensee hors Blink niveau 1.
+[ ] Resolution : campagne terminee.
+
+ROUTE DES ACTIONS ET SUCCES DE LA CAMPAGNE
+
+Cette section sert au nettoyage apres les deux runs. Les actions sont mieux
+faites sur une sauvegarde High Chaos, loin de la run Clean Hands.
+
+[ ] Rogue : tue dix ennemis qui ne savent pas que tu es la. Utilise les ruelles
+    et les hauteurs, puis verifie le compteur.
+[ ] Cleaner : provoque un combat de cinq ennemis et elimine-les tous.
+[ ] Wall of Sparks : attire une cible vers un Wall of Light.
+[ ] Razor Rain : fais cinq drop assassinations ; le succes est cumulatif sur
+    la partie.
+[ ] Speed of Darkness : enchaine un Blink sur au moins 30 metres en moins
+    d'une seconde, idealement depuis un toit vers une corniche.
+[ ] Manipulator : fais tuer cinq allies par leurs propres allies. Les combats
+    entre factions et la possession sont plus fiables que les explosions.
+[ ] Alive Without Breath : possede un poisson et reste dans sa forme pendant
+    la plus grande partie de trois minutes.
+[ ] Big Boy : tue un Tallboy avec l'epee uniquement ; n'utilise ni pistolet,
+    ni pouvoir offensif, ni gadget.
+[ ] Surgical : entre la premiere mission et la fin de Kaldwin's Bridge, reste
+    sous dix victimes.
+[ ] The Art of the Steal : ouvre d'abord le coffre de l'Art Dealer, puis donne
+    la combinaison a Slackjaw.
+[ ] An Unfortunate Accident : dans House of Pleasure, puis dans la zone des
+    Pendleton, utilise la vapeur sur Morgan.
+[ ] Well Mannered : termine Lady Boyle's Last Party sans perturber la fete.
+[ ] Thief : pickpocket des objets pour un total de 200 pieces.
+[ ] Merchant of Disorder : achete quinze upgrades d'equipement chez Piero.
+[ ] Poetic Justice : applique toutes les solutions non lethales aux cibles
+    principales ; fais une sauvegarde par mission.
+[ ] Long Live the Empress : protege Emily a la toute fin.
+[ ] Excommunication et Regicide : a faire dans la run High Chaos.
+[ ] Political Suicide : choisis la route qui expose les crimes du Lord Regent.
+[ ] Child Care : retrouve Emily dans House of Pleasure.
+[ ] Capturing Genius and Madness : capture Sokolov dans The Royal Physician.
+[ ] This Is Mine : recupere l'equipement au debut du Flooded District.
+[ ] Faceless : une mission complete sans detection apres Coldridge.
+[ ] Specter : une mission complete sans detection et avec moins de cinq morts.
+[ ] The Escapist : cinq poursuivants a la fois, aucun meurtre, sans quitter la
+    carte.
+[ ] Vanished : sortie de prison et des egouts sans detection.
+[ ] Food Chain : assassine un assassin pendant la run d'action.
+[ ] Mercy is the Mark : marque Campbell au lieu de le tuer.
+[ ] Creepy Crawly : va jusqu'au bout de la quete de Granny Rags.
+[ ] Gentleman Caller : valide toutes les quetes de Granny Rags.
+[ ] Street Conspiracy : valide la chaine de Slackjaw.
+[ ] Lights Out : cinq systemes de Kingsparrow dans la meme partie.
+
+THE KNIFE OF DUNWALL : REGLES DU DLC
+
+- Daud possede ses propres pouvoirs, gadgets, recrues et upgrades. Les
+  pouvoirs de Corvo ne sont pas importes.
+- Les faveurs sont achetees au debut de chaque mission. Lis chaque contrat
+  avant de depenser les pieces.
+- Pour Cleaner Hands et Whisper Ways, ne tue personne et ne declenche aucune
+  alerte pendant les trois missions.
+- Pour Well Connected, achete toutes les faveurs du DLC. Fais cette run avec
+  une sauvegarde riche en pieces.
+- Pour No Regrets, termine le DLC en High Chaos.
+- Pour Redemptive Path, termine le DLC en Low Chaos.
+- Les actions de Daud sont independantes du bilan de la campagne principale.
+
+13 - A CAPTAIN OF INDUSTRY
+
+OBJECTIF
+
+Entrer dans Rothwild Slaughterhouse, obtenir les informations demandees et
+sortir avec le niveau de Chaos choisi.
+
+ROUTE LOW CHAOS / SANS ALERTE
+
+[ ] Achete les faveurs qui donnent un acces propre et une information sur les
+    lieux ; note leur cout pour Well Connected.
+[ ] Utilise Blink, les conduits et les passerelles du slaughterhouse.
+[ ] Garde les travailleurs inconscients a distance des machines.
+[ ] Obtiens les informations de Rothwild sans tuer de personnel.
+[ ] Explore les chambres de stockage et la zone du whale pour runes, charms
+    et plans.
+[ ] Avant la sortie, verifie le bilan puis conserve la sauvegarde.
+
+ACTIONS ET COLLECTIBLES
+
+[ ] Pour Just Business, obtiens l'information necessaire de Rothwild.
+[ ] Pour Message from the Empress, conserve le point de sauvegarde de
+    l'approche de la statue ; le drop assassination se fait dans le DLC.
+[ ] Pour Rats and Ashes, utilise une Arc Mine sur un rat afin qu'elle provoque
+    une mort. Fais-le hors de la run Cleaner Hands.
+[ ] Pour Back Home, ramasse une grenade vivante et utilise-la sur l'attaquant.
+[ ] Pour Inhabitant, possede des corps successifs en conservant le temps total.
+[ ] Note les emplacements de rune/charme avec le Coeur avant de sortir.
+
+14 - THE SURGE
+
+OBJECTIF
+
+Traverser le secteur transforme, suivre la route de Daud et gerer les zones
+de gardes, de Pleureurs et d'ennemis surnaturels.
+
+[ ] Choisis les faveurs avant l'infiltration.
+[ ] Explore les batiments lateraux avant la progression principale.
+[ ] Utilise les coins de toit, fenetres et sous-sols pour une route Ghost.
+[ ] Pour Whisper Ways, recharge des qu'une alerte est active.
+[ ] Pour Cleaner Hands, evite les kills indirects : explosions, rats, chutes,
+    machines et equipements pieges.
+[ ] Pour Harm's Way, prepare une sauvegarde High Chaos et provoque cinq
+    suicides non intentionnels avec l'environnement ou Pull.
+[ ] Pour Wall of Flesh, souleve un ennemi avec Pull puis garde-le entre Daud et
+    un tir ou une attaque. Le succes exige que l'ennemi serve de bouclier.
+[ ] Pour Tempest, utilise le ralentissement du temps et six kills dans la meme
+    seconde. Ce nettoyage ne doit pas etre fait en Low Chaos.
+
+COLLECTIBLES
+
+[ ] Inspecte chaque shrine, atelier et zone en hauteur avec le Coeur.
+[ ] Les runes et bone charms des DLC ne sont pas necessaires a un succes de
+    collecte global, mais ils financent les pouvoirs et les upgrades.
+[ ] Achete les faveurs restantes avant la sortie si Well Connected est actif.
+
+15 - THE LEGAL DISTRICT
+
+OBJECTIF
+
+Finir The Knife of Dunwall, obtenir le niveau de Chaos cible et valider les
+succes de route.
+
+[ ] Explore les bureaux et les toits avant de te rendre a l'objectif final.
+[ ] Pour Message from the Empress, monte au sommet de la statue de l'Empress
+    puis fais un drop assassination valide.
+[ ] Pour Hornets' Nest, aligne quatre ennemis et tue-les avec le crossbow en
+    moins d'une seconde. Fais une sauvegarde High Chaos.
+[ ] Pour Versatile, utilise les armes et gadgets offensifs qui manquent encore.
+[ ] Pour Well Connected, achete toutes les faveurs avant la fin.
+[ ] Pour Cleaner Hands et Whisper Ways, verifie le bilan des trois missions.
+[ ] Pour No Regrets, termine en High Chaos.
+[ ] Pour Redemptive Path, recharge la run Low Chaos et termine sans meurtre.
+
+CHECKPOINT THE KNIFE OF DUNWALL
+
+[ ] No Regrets.
+[ ] Redemptive Path.
+[ ] Well Connected.
+[ ] Tempest.
+[ ] Hornets' Nest.
+[ ] Cleaner Hands.
+[ ] Whisper Ways.
+[ ] Back Home.
+[ ] Inhabitant.
+[ ] Message from the Empress.
+[ ] Wall of Flesh.
+[ ] Harm's Way.
+[ ] Rats and Ashes.
+[ ] Versatile si les armes de campagne etaient incompletees.
+
+THE BRIGMORE WITCHES : PREPARATION
+
+- Ce DLC reprend les decisions de The Knife of Dunwall : conserve les
+  sauvegardes et l'argent du run choisi.
+- Pour Changed Ways, vise Low Chaos.
+- Pour All Come To Ruin, vise High Chaos.
+- Pour Cleanest Hands et Silence is Golden, zero meurtre et zero alerte.
+- Pour Deal Maker, achete au moins huit faveurs.
+- Pour Enough Coin to Disappear, arrive a la fin en Low Chaos avec 10 000
+  pieces. Evite les achats inutiles et fouille toutes les zones.
+- La mission de transition Choosing Your Mark sert a choisir les faveurs et le
+  chemin. Elle ne doit pas etre traitee comme une mission de combat.
+
+16 - CHOOSING YOUR MARK
+
+[ ] Ecoute le briefing, prends les runes disponibles dans la base et inspecte
+    le coffre de Daud.
+[ ] Achats de depart : prends les faveurs compatibles avec Low Chaos si tu
+    vises Cleanest Hands/Silence is Golden.
+[ ] Pour Deal Maker, note les huit achats et garde assez d'argent pour les
+    achats de fin.
+[ ] Sur la route 10 000 pieces, ne depense que les upgrades indispensables.
+[ ] Conserve une sauvegarde avant de lancer A Stay of Execution for Lizzy.
+
+17 - A STAY OF EXECUTION FOR LIZZY
+
+OBJECTIF
+
+Entrer dans Coldridge Prison, liberer Lizzy Stride et preparer la traverser
+vers les Dead Eels.
+
+ROUTE SANS ALERTE
+
+[ ] Achete la faveur Overseer Daud si tu veux entrer sous deguisement.
+[ ] Maintiens le deguisement sans provoquer les gardes et sans laisser de
+    preuve dans les zones surveillees.
+[ ] Explore la salle d'interrogatoire et lis l'audiograph de la sorciere.
+[ ] Arrete l'execution du garde qui a aide Corvo si tu veux les informations
+    optionnelles.
+[ ] Libere Lizzy, puis quitte Coldridge par les hauteurs.
+[ ] Pour une run Low Chaos, n'utilise aucun kill environnemental.
+
+COLLECTIBLES ET CHECKPOINTS
+
+[ ] Deux runes : sol de la riviere drainee et bureau de la salle
+    d'interrogatoire.
+[ ] Bone charms : zone de prison, pieces laterales et chemin des gardes.
+[ ] Charme corrompu : inspecte les cellules et les couloirs de service.
+[ ] Breakout : libere Lizzy Stride.
+[ ] Verifie le bilan avant de partir.
+
+18 - THE DEAD EELS
+
+OBJECTIF
+
+Traverser Drapers Ward, gerer les gangs et preparer l'acces a Brigmore.
+
+[ ] Choisis les faveurs avant de quitter la base.
+[ ] Explore les canaux, la boutique du Dressmaker et les appartements.
+[ ] Pour l'objectif de la ceremonie de mariage de Granny, decide ta route avant
+    d'entrer dans la zone finale.
+[ ] La rune de la boutique du Dressmaker se trouve sur le mur en face de
+    l'entree.
+[ ] La rune de l'appartement du mecanicien est une recompense de l'objectif
+    Recreate Granny's Wedding.
+[ ] Une rune est accessible par le tunnel sous-marin pres du Shrine.
+[ ] Une autre est dans la zone des Pleureurs sur les docks.
+[ ] Dans Textile Mill, cherche Dry Storage pour la rune.
+[ ] Dans les egouts de Drapers Ward, suis le Shrine de la ventilation.
+[ ] Pour Cleanest Hands/Silence is Golden, tous les combats doivent etre
+    evites ou neutralises sans meurtre.
+
+19 - DELILAH'S MASTERWORK
+
+OBJECTIF
+
+Traverser Brigmore Manor, recuperer les informations utiles et terminer la
+chaine du DLC.
+
+[ ] La rune principale se trouve sur le toit du petit batiment de l'exterieur.
+[ ] Inspecte le cimetiere, les serres, les sous-sols et les ateliers avant la
+    progression finale.
+[ ] Utilise les ouvertures en hauteur et les passages de service.
+[ ] Pour Enough Coin to Disappear, ne depense pas les 10 000 pieces avant la
+    fin et verifie le total au resultat.
+[ ] Pour Changed Ways, conserve Low Chaos.
+[ ] Pour All Come To Ruin, recharge la run High Chaos.
+[ ] Pour Cleanest Hands et Silence is Golden, refais le DLC depuis un debut
+    propre si une victime ou une alerte apparait.
+[ ] Une fois la fin validee, conserve les deux sauvegardes de Chaos.
+
+CHECKPOINT THE BRIGMORE WITCHES
+
+[ ] Changed Ways.
+[ ] All Come To Ruin.
+[ ] Deal Maker : au moins huit faveurs achetees.
+[ ] Cleanest Hands : zero meurtre dans le DLC.
+[ ] Silence is Golden : zero alerte dans le DLC.
+[ ] Enough Coin to Disappear : 10 000 pieces en Low Chaos a la fin.
+
+DUNWALL CITY TRIALS : METHODE COMPLETE
+
+REGLES
+
+- Chaque epreuve existe en Normal et Expert. Apprends les itineraire avant de
+  viser les trois etoiles.
+- Une poupee d'Emily existe dans chaque epreuve. Elle ne doit etre ramassee
+  qu'une fois, mais fais une sauvegarde jusqu'a l'enregistrement du compteur.
+- Les classements demandent vitesse, precision, multiplicateurs ou absence
+  d'erreur selon la carte.
+- Natural Talent interdit les pouvoirs surnaturels actifs dans Mystery Foe.
+- Void Star demande trois etoiles sur toutes les epreuves Normal et Expert.
+
+20 - MYSTERY FOE
+
+[ ] Ramasse les quatre indices en utilisant seulement les deplacements et les
+    outils autorises.
+[ ] Identifie la bonne cible a partir des indices, sans gaspiller le temps.
+[ ] Pour Natural Talent, n'active aucun pouvoir surnaturel.
+[ ] Poupee d'Emily : chambre arriere, dans les buissons au-dessus des rochers.
+[ ] Pour trois etoiles, apprends les routes courtes entre les quatre zones et
+    reserve tes flacons pour les derniers indices.
+
+21 - BURGLAR
+
+[ ] Apprends les alarmes, les serrures et la boucle de retour avant Expert.
+[ ] Pour Rare Collector, lance Burglar en Expert et ramasse toutes les
+    figurines collectibles de la carte.
+[ ] Poupee d'Emily : salle secrete du troisieme etage, ouverte avec la fausse
+    lampe.
+[ ] Pour trois etoiles, memorise la combinaison des portes et ne reviens pas
+    sur tes pas.
+
+22 - BACK ALLEY BRAWL
+
+[ ] Atteins la vague 13.
+[ ] Pour By My Hand Alone, chaque combattant doit mourir de ta main ; aucune
+    chute, aucun piege, aucun allié et aucun effet secondaire.
+[ ] Pour trois etoiles, conserve les soins et exploite les angles de la zone.
+[ ] Poupee d'Emily : en hauteur sur la grue ou la poulie au-dessus de la rue.
+[ ] Si une vague est ratee, recommence la carte plutot que de cumuler une
+    tentative incomplete.
+
+23 - ASSASSIN'S RUN
+
+[ ] Utilise le crossbow et les lignes de tir predefinies.
+[ ] Pour Headhunter, 100 % de precision et uniquement des headshots.
+[ ] Pour trois etoiles, ne tire jamais sur un membre ou une surface.
+[ ] Poupee d'Emily : au-dessus de la bibliotheque dans la troisieme salle.
+[ ] Fais une tentative d'entrainement sans viser le succes, puis une tentative
+    propre en Expert.
+
+24 - OIL DROP
+
+[ ] Identifie les reservoirs et les cibles avant d'allumer le premier.
+[ ] Enchaine les explosions sans te faire prendre par le temps.
+[ ] Poupee d'Emily : dans les buissons a droite du parcours.
+[ ] Pour trois etoiles, memorise les points de tir et n'utilise pas les
+    detours de securite.
+
+25 - BEND TIME MASSACRE
+
+[ ] Travaille les vagues avec le ralentissement du temps et les multiplicateurs.
+[ ] Poupee d'Emily : extremite de la plateforme flottante la plus haute vers
+    l'arriere de la carte.
+[ ] Pour Time Management, termine Chain Kill ou Bend Time Massacre sans rater
+    une vague, bonus compris.
+[ ] Pour trois etoiles, garde une utilisation du pouvoir pour la vague finale.
+
+26 - KILL CHAIN
+
+[ ] Enchaine les kills dans le meme multiplicateur et ne casse pas la chaine.
+[ ] Explore le passage sous l'arene pour la poupee.
+[ ] Poupee d'Emily : espace sous l'arene principale, au nord-est, pres des
+    rochers et des arrets de train.
+[ ] Pour Time Management, une tentative parfaite de cette carte convient aussi.
+
+27 - BONFIRES
+
+[ ] Apprends les sauts speciaux et les plateformes de la carte.
+[ ] Pour Daredevil, execute toutes les combinaisons de sauts speciales dans
+    une seule manche.
+[ ] Poupee d'Emily : ile flottante en hauteur, dans l'arbre au-dessus de la
+    zone de depart.
+[ ] Pour trois etoiles, utilise sprint, double saut et Blink uniquement quand
+    l'atterrissage est garanti.
+
+28 - TRAIN RUNNER
+
+[ ] Atteins la station avant l'arrivee du train.
+[ ] Pour Assassin Vs. Machine, termine la carte avant l'arrivee du train.
+[ ] Poupee d'Emily : derriere le tableau dans la premiere salle violette avant
+    la porte verrouillee.
+[ ] Pour trois etoiles, memorise les plateformes et utilise les Blink courts
+    plutot qu'un long saut risque.
+
+29 - KILL CASCADE
+
+[ ] Prepare la chute finale et les cibles avant de lancer le compte a rebours.
+[ ] Pour Long Way Down, effectue un drop assassination d'au moins 150 metres.
+[ ] Poupee d'Emily : poste de garde abandonne dans la zone de la cible finale,
+    avant la chute.
+[ ] Pour trois etoiles, garde les pouvoirs et les soins pour le dernier
+    enchainement.
+
+DUNWALL CITY TRIALS : CHECKLIST DE VALIDATION
+
+[ ] Mystery Foe : trois etoiles Normal et Expert.
+[ ] Burglar : trois etoiles Normal et Expert, figurines Expert.
+[ ] Back Alley Brawl : vague 13 et kills personnels.
+[ ] Assassin's Run : precision 100 % en headshots.
+[ ] Oil Drop : trois etoiles Normal et Expert.
+[ ] Bend Time Massacre : toutes les vagues sans echec.
+[ ] Kill Chain : trois etoiles Normal et Expert.
+[ ] Bonfires : tous les sauts speciaux dans une manche.
+[ ] Train Runner : arrivee avant le train.
+[ ] Kill Cascade : drop assassination de 150 metres.
+[ ] Les dix poupees d'Emily sont cochees.
+[ ] Toutes les cartes Normal ont trois etoiles.
+[ ] Toutes les cartes Expert ont trois etoiles.
+[ ] Void Star est valide.
+
+TECHNIQUES RAPIDES POUR LES SUCCES DIFFICILES
+
+[ ] Hornets' Nest : utilise une sauvegarde dans une zone avec quatre ennemis
+    regroupes ; equipe les carreaux classiques et vise les tetes.
+[ ] Tempest : ralentis le temps, regroupe six ennemis, puis execute les kills
+    dans la meme fenetre.
+[ ] Versatile : cree une sauvegarde High Chaos et fais au moins un kill avec
+    l'epee, le pistolet, le crossbow, la grenade, la Springrazor, la Sticky
+    Grenade et un autre gadget offensif disponible.
+[ ] Wall of Sparks : pose un ennemi inconscient devant la ligne d'effet,
+    recharge si la machine tue une autre cible ou si un civil est touche.
+[ ] Manipulator : fais en sorte que des factions opposees s'affrontent et
+    provoque cinq morts d'alliés par leurs propres allies.
+[ ] Alive Without Breath : le poisson doit rester possede presque trois
+    minutes ; utilise une sauvegarde dans une zone sure et chronometre la
+    possession.
+[ ] Razor Rain : un drop assassination est valide seulement si la mort vient
+    de la chute et non d'un tir ou d'un autre piege.
+[ ] The Escapist : attire les cinq poursuivants, garde-les dans la carte et
+    casse la ligne de vue sans tuer.
+[ ] Lights Out : les cinq systemes doivent etre desactives dans la meme
+    partie ; ne compte pas les simples alarmes.
+[ ] Clean Hands : les kills indirects sont les pieges les plus frequents.
+[ ] Ghost/Shadow : les ecrans de bilan sont la reference, pas le simple fait
+    d'avoir evite une alarme sonore.
 
 CHECKLIST STEAM FINALE - 80/80
 
-[ ] Campagne Low Chaos, Ghost et Clean Hands.
-[ ] Campagne High Chaos et succes de pouvoirs/combat.
-[ ] Runes, bone charms, peintures, lettres, pieces et quetes.
-[ ] Run sans pouvoirs sauf Blink.
-[ ] Knife of Dunwall et Brigmore Witches.
-[ ] Dunwall City Trials et scores.
-[ ] Verification finale du profil Steam : 80/80.
+- [ ] Dishonored — Complete the Intro missions.
+- [ ] Excommunication — Eliminate High Overseer Campbell.
+- [ ] Occultist — Collect 10 bone charms.
+- [ ] Child Care — Find Emily Kaldwin.
+- [ ] Rogue — Assassinate 10 unaware enemies.
+- [ ] Bodyguard — Protect Captain Curnow during High Overseer Campbell.
+- [ ] Capturing Genius and Madness — Complete the Bridge mission.
+- [ ] Cleaner — Fight with 5 enemies at once, without any of them surviving.
+- [ ] This Is Mine — Recover your belongings.
+- [ ] Resolution — Complete the game.
+- [ ] Long Live the Empress — Protect Emily at the end of the campaign.
+- [ ] Food Chain — Assassinate an assassin.
+- [ ] Wall of Sparks — Kill an enemy using a Wall of Light.
+- [ ] Political Suicide — Expose the Lord Regent's crimes and bring about his arrest.
+- [ ] Faceless — Complete one mission after Coldridge Prison without alerting anyone.
+- [ ] Thief — Pickpocket items worth a total of 200 coins.
+- [ ] Merchant of Disorder — Acquire 15 equipment upgrades.
+- [ ] Creepy Crawly — Complete the Granny Rags quest chain.
+- [ ] Mercy is the Mark — Brand Campbell instead of killing him.
+- [ ] Well Mannered — Complete Lady Boyle's Last Party without disrupting the party.
+- [ ] The Escapist — Elude 5 pursuers at once without killing them or leaving the map.
+- [ ] Regicide — Assassinate Hiram Burrows.
+- [ ] Specter — Complete a mission without alerting anyone and with fewer than 5 kills.
+- [ ] Dunwall in Chaos — Complete the game in High Chaos.
+- [ ] Just Dark Enough — Complete the game in Low Chaos.
+- [ ] Razor Rain — Kill 5 characters with Drop Assassination.
+- [ ] Speed of Darkness — Travel 30 meters in less than 1 second.
+- [ ] Manipulator — Make others kill 5 of their own allies.
+- [ ] Alive Without Breath — Stay in possession of others for most of a 3 minute period.
+- [ ] Street Conspiracy — Complete the Slackjaw and Granny Rags conflict route.
+- [ ] Big Boy — Kill a Tallboy with only your sword.
+- [ ] Vanished — Escape Coldridge Prison and the sewers without being detected.
+- [ ] King of the World — Reach the highest point of Kaldwin's Bridge.
+- [ ] Poetic Justice — Resolve the key targets with non-lethal options.
+- [ ] Surgical — Play from the first mission through Kaldwin's Bridge killing fewer than 10 characters.
+- [ ] The Art of the Steal — Open the Art Dealer's safe before giving Slackjaw the combination.
+- [ ] An Unfortunate Accident — Kill Morgan Pendleton with the steam room.
+- [ ] Just Business — Get the information you need from the Rothwild Slaughterhouse.
+- [ ] Missing Pieces — Meet Thalia Timsh, the Barrister's Niece.
+- [ ] Breakout — Break Lizzy Stride out of Coldridge Prison.
+- [ ] Stone Cold Heart — Speak with the statue of Delilah Copperspoon in Timsh's estate.
+- [ ] Parting Shot — Deliver or attempt the killing blow on Corvo.
+- [ ] Gangs of Dunwall — Restore the Undine to working condition.
+- [ ] Lights Out — Deactivate at least 5 security systems on Kingsparrow Island.
+- [ ] Gentleman Caller — Complete all the Granny Rags side missions.
+- [ ] No Regrets — Complete The Knife of Dunwall in High Chaos.
+- [ ] Redemptive Path — Complete The Knife of Dunwall in Low Chaos.
+- [ ] Changed Ways — Complete The Brigmore Witches in Low Chaos.
+- [ ] Clean Hands — Complete the main game without killing anyone.
+- [ ] Well Connected — Purchase all of the Favors in The Knife of Dunwall.
+- [ ] Shadow — Complete all missions after the prologue without alerting anyone.
+- [ ] All Come To Ruin — Complete The Brigmore Witches in High Chaos.
+- [ ] Deal Maker — Purchase at least 8 favors in The Brigmore Witches.
+- [ ] Tempest — Kill 6 enemies in less than 1 second.
+- [ ] Art Dealer — Collect all the Sokolov paintings.
+- [ ] Ghost — Complete all missions after the prologue, alerting no one or killing no one but key targets.
+- [ ] Hornets' Nest — Kill 4 enemies in less than 1 second using the crossbow.
+- [ ] Cleaner Hands — Complete The Knife of Dunwall without killing anyone.
+- [ ] Whisper Ways — Complete The Knife of Dunwall without alerting anyone.
+- [ ] Cleanest Hands — Complete The Brigmore Witches without killing anyone.
+- [ ] Mostly Flesh and Steel — Finish the game without purchasing powers or enhancements besides Blink.
+- [ ] Versatile — Kill characters with each weapon and offensive gadget.
+- [ ] Silence is Golden — Complete The Brigmore Witches without alerting anyone.
+- [ ] Back Home — Grab a live grenade and use it to kill an attacker.
+- [ ] Inhabitant — Stay in possession of others for most of a 3 minute period.
+- [ ] Message from the Empress — Perform a drop assassination from atop the Empress statue in The Knife of Dunwall.
+- [ ] Wall of Flesh — Use an enemy lifted with Pull as a shield.
+- [ ] Harm's Way — Cause 5 unintentional suicides.
+- [ ] Assassin Vs. Machine — Complete Train Runner before the train arrives at the station.
+- [ ] Rats and Ashes — Attach an arc mine to a rat, resulting in a kill.
+- [ ] Enough Coin to Disappear — Survive The Brigmore Witches in Low Chaos with 10,000 coins.
+- [ ] Long Way Down — Perform a drop assassination of at least 150 meters in Kill Cascade.
+- [ ] Natural Talent — Finish Mystery Foe without using active supernatural powers.
+- [ ] Mrs Pilsen's Remorse — Find Emily's doll hidden in each of the 10 challenges.
+- [ ] By My Hand Alone — Get to Wave 13 in Back Alley Brawl killing all combatants personally.
+- [ ] Rare Collector — Find all collectible figurines in Burglar on Expert.
+- [ ] Headhunter — Complete Assassin's Run with 100% accuracy using only headshots.
+- [ ] Time Management — Finish Chain Kill or Bend Time Massacre without failing any wave, including bonuses.
+- [ ] Void Star — Complete all Normal and Expert challenges with a 3-Star rating.
+- [ ] Daredevil — In Bonfires, perform all the special combination jumps in 1 round.
 
-REGLE ANTI-SPOILER
+VERIFICATION FINALE
 
-Les numeros de mission et types de run servent a organiser les sauvegardes.
-Les fins, morts, identites, trahisons et consequences ne sont pas decrites.
+[ ] 80/80 cases cochees dans le jeu Steam.
+[ ] Bilan de chaque mission controle pour les runs sans meurtre et sans
+    detection.
+[ ] Campagne Low Chaos terminee.
+[ ] Campagne High Chaos terminee.
+[ ] Knife of Dunwall Low/High Chaos termines.
+[ ] Brigmore Witches Low/High Chaos termines.
+[ ] 10 poupees, 10 figurines Expert et toutes les etoiles City Trials.
+[ ] Aucune sauvegarde de travail non validee.
+[ ] Le guide est termine uniquement quand le profil Steam confirme 80 succes.
+
