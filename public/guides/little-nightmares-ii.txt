@@ -1,87 +1,1069 @@
 LITTLE NIGHTMARES II
-GUIDE CHRONOLOGIQUE 100 % STEAM - SANS SPOILER
+FICHE PREMIUM - GUIDE CHRONOLOGIQUE 100 % STEAM
+SANS SPOILER NARRATIF
 
-Version de travail : 10 aout 2026
+Version de travail : 12 aout 2026
+Jeu Steam : Little Nightmares II
+AppID : 860510
+35 succes Steam
 
-Ce parcours couvre les 35 succes Steam de l'AppID 860510 : cinq chapitres,
-chapeaux, glitches, actions contextuelles et objets secondaires. Les noms de
-zones servent uniquement de reperes ; aucune revelation narrative n'est
-donnee.
+Cette fiche suit les cinq chapitres dans l'ordre et indique les actions
+exactes pour terminer le jeu, obtenir les 18 Glitching Remains, les 8
+chapeaux caches dans les chapitres, le chapeau de fin et les 35 succes
+Steam.
 
-OBJECTIF
+Les objets bonus du DLC Nome's Attic et le chapeau de precommande ne sont
+pas necessaires pour les succes Steam de la version de base. Ils sont
+signales a part pour eviter de les confondre avec les 9 chapeaux requis :
+8 chapeaux de chapitre + 1 chapeau obtenu en terminant le jeu.
 
-[ ] 35/35 succes Steam.
-[ ] Chapitres Wilderness, School, Hospital, Pale City et Signal Tower.
-[ ] Tous les chapeaux et glitches a collecter.
-[ ] Toutes les actions contextuelles et les succes de chapitre.
+Le guide est sans spoiler narratif. Les noms des chapitres, des ennemis,
+des lieux et des succes sont utilises uniquement comme reperes pratiques.
 
-GARDE-FOUS ET MISSABLES
+======================================================================
+01. REGLES DE ROUTE ET GARDE-FOUS
+======================================================================
 
-- Les chapeaux et glitches sont les principaux missables. Fouille chaque
-  ecran lateral avant de franchir une porte de chargement.
-- Utilise une sauvegarde de chapitre avant les actions uniques : canard,
-  ballon, casquette, jouet, trou, cage, projectile et interaction musicale.
-- Les chapitres peuvent etre rejoues depuis la selection. Termine d'abord une
-  run de progression sans te precipiter, puis nettoie les collectes.
-- Le guide reste sans spoiler : les objectifs sont decrits par action ou zone,
-  jamais par leur consequence narrative.
+OBJECTIF 100 %
 
-ORDRE CHRONOLOGIQUE
+- Terminer Wilderness, School, Hospital, Pale City et Signal Tower.
+- Ramasser 18 Glitching Remains : 4 + 6 + 4 + 4.
+- Ramasser les 8 chapeaux caches dans les quatre premiers chapitres.
+- Terminer le jeu pour obtenir le neuvieme chapeau requis.
+- Obtenir chaque succes contextuel et chaque succes de chapitre.
+- Faire apparaitre Primetime Content Consumer apres les 34 autres.
 
-1. WILDERNESS
+MISSABLES ET REJOUABILITE
 
-- Explore les bois et cabanes avant de suivre le chemin principal. Valide
-  Foraged, True Colours, Fair Prey, Hunger et les chapeaux de la zone.
-- Pour Evasive Prey, conserve une save avant la sequence de poursuite. Pour
-  In The Palm Of My Hand, realise l'interaction avec l'animal requis.
-- Verifie les glitches dans les cabanes, derriere les arbres et dans les
-  chemins qui semblent sans issue.
+- Les succes contextuels sont manquables pendant la sequence concernee.
+- Les chapeaux et les Glitching Remains restent recuperables avec la
+  selection de chapitre.
+- Les objets collectes sont conserves entre les replays ; la selection de
+  chapitre sert au nettoyage, pas a effacer la progression globale.
+- Une mort annule uniquement les succes lies a une sequence sans mort en
+  cours. Pour Evasive prey, recommence tout le chapitre 1 depuis son debut.
+- Pour les actions uniques, fais l'action avant de franchir le prochain
+  checkpoint ou la prochaine porte de chargement.
 
-2. SCHOOL
+ORDRE DE TRAVAIL LE PLUS SUR
 
-- Fouille les salles de classe, couloirs et casiers avant chaque sortie.
-  Valide Schooled, Twenty-Six, Bully of Bullies, Referee! et les chapeaux.
-- Les succes de ballon, casquette, trou et jouet demandent une save au debut
-  de leur salle. Rejoue la scene si l'objet quitte l'ecran.
-- Note chaque glitch avant de quitter le chapitre. La collection est plus
-  simple avec une pause apres chaque salle secondaire.
+1. Fais une premiere partie en suivant les collectes et les actions
+   contextuelles de cette fiche.
+2. Termine chaque chapitre avec son compteur de Glitching Remains controle.
+3. Termine le jeu pour debloquer le chapeau final.
+4. Utilise la selection de chapitre uniquement pour les cases restantes.
+5. Si Primetime Content Consumer ne se declenche pas, quitte au menu
+   principal puis relance le jeu apres la derniere validation.
 
-3. HOSPITAL
+REGLE AVANT CHAQUE ZONE SECONDAIRE
 
-- Parcours les chambres, ascenseurs et salles de soin en fouillant les
-  embranchements. Valide Hospitalised, Medicine Ball, First do no harm,
-  Objection, Sick Kids et les interactions de jouet.
-- Pour les actions de projectile et de cage, sauvegarde avant la premiere
-  tentative. Les checkpoints peuvent placer l'objet dans une position moins
-  pratique.
-- Termine les chapeaux et glitches avant l'ascenseur de sortie.
+- [ ] Regarder l'arriere-plan avant de sauter vers la sortie.
+- [ ] Ouvrir les tiroirs, casiers, boites et portes utilisables.
+- [ ] Verifier les niches, les conduits et les dessous de meubles.
+- [ ] Ramasser l'objet avant de resoudre le puzzle qui ferme la salle.
+- [ ] Attendre le pop-up du succes avant de passer a l'ecran suivant.
 
-4. PALE CITY
+======================================================================
+02. COMPRENDRE LES OBJETS A COLLECTER
+======================================================================
 
-- Fouille les appartements, toits, boutiques et salles de cinema. Valide
-  Post Industrial, Popcorn, Mono Tones, How Do I Look? et les collectes.
-- Les objectifs de transmission, ballon et casquette se font dans leurs
-  pieces dediees. Ne cours pas vers l'ecran suivant sans verifier les coins.
-- Utilise la selection de chapitre pour nettoyer No More Remains, Wild Kids,
-  Pale Kids et les derniers chapeaux/glitches.
+GLITCHING REMAINS
 
-5. SIGNAL TOWER ET NETTOYAGE
+- Ce sont des silhouettes statiques flottant dans des salles secondaires.
+- Approche-toi et maintiens l'interaction pour les absorber.
+- Ils sont persistants : un objet ramasse reste valide pendant les replays.
+- Les compteurs par chapitre se lisent dans la selection de chapitre.
+- Objectif : 4 dans Wilderness, 6 dans School, 4 dans Hospital, 4 dans
+  Pale City. Signal Tower n'en contient pas.
 
-- Termine le dernier chapitre pour Paled, Signal interruption, ...And Stay
-  Dead! et Primetime Content Consumer.
-- Reviens ensuite dans chaque chapitre avec la checklist : Foraged, True
-  Colours, Schooled, Twenty-Six, Hospitalised, Paled, Signal interruption,
-  Mono Tones, Half hat, Far Ahead et les actions contextuelles.
-- Le menu des chapitres confirme le nettoyage ; compare les 35 cases Steam
-  avant de considerer le parcours fini.
+CHAPEAUX REQUIS
 
-CHECKLIST 35/35
+- Wilderness : chapeau de raton laveur dans la maison.
+- Wilderness : chapeau de pluie dans la cage suspendue.
+- School : chapeau de ballon dans la benne du terrain de jeu.
+- School : chapeau de boite de conserve dans la bibliotheque.
+- Hospital : chapeau d'ours en peluche dans la salle des jouets.
+- Hospital : chapeau de bandages dans la morgue.
+- Pale City : chapeau de postier dans le secteur du courrier.
+- Pale City : casquette plate dans le magasin.
+- Fin du jeu : chapeau du Thin Man, obtenu apres la completion.
 
-[ ] Progression des cinq chapitres.
-[ ] Chapeaux et glitches dans Wilderness, School, Hospital, Pale City et la
-    derniere zone.
-[ ] Actions : canard, ballon, casquette, jouets, cinema, trous, cages,
-    transmission et interactions musicales.
-[ ] 35/35 succes Steam.
+Le sac en papier de depart est deja disponible. Le chapeau du Nome est lie
+au DLC et ne compte pas pour Far Ahead dans le jeu de base. Le chapeau
+Mokujin depend d'une offre de precommande et ne compte pas non plus.
 
-FIN DU GUIDE - SANS SPOILER
+EQUIPEMENT ET ACTIONS
+
+- Les chapeaux se changent dans le menu Pause. Equipe le bon chapeau avant
+  de declencher une action liee a un succes.
+- L'interaction avec Six est souvent necessaire pour les sauts, les
+  ascenseurs et certaines portes.
+- Les televisions deviennent un moyen de traversal dans Pale City :
+  allume-les avec la telecommande, puis entre dans l'ecran quand le trajet
+  est aligne.
+- Les objets lourds, boites, chariots et jouets restent parfois necessaires
+  plusieurs ecrans : ne les abandonne pas avant la validation de la salle.
+
+======================================================================
+03. CHRONOLOGIE GENERALE
+======================================================================
+
+CHAPITRE 01 - WILDERNESS
+
+Collectes : 4 Glitching Remains, 2 chapeaux.
+Succes de progression : Foraged.
+Succes contextuels : Evasive prey, What's in the box?!, Fair Prey,
+In The Palm Of My Hand, Wild Kids.
+
+CHAPITRE 02 - SCHOOL
+
+Collectes : 6 Glitching Remains, 2 chapeaux.
+Succes de progression : Schooled, True Colours.
+Succes contextuels : Twenty-Six, Referee!, Fly Free, Bully of Bullies,
+Merciful feat, Mono Tones, School Kids.
+
+CHAPITRE 03 - HOSPITAL
+
+Collectes : 4 Glitching Remains, 2 chapeaux.
+Succes de progression : Hospitalised.
+Succes contextuels : Hunger, X Best Friends, Toys Are For Kids,
+...And Stay Dead!, Medicine ball, Popcorn, Objection, First do no harm,
+Sick Kids.
+
+CHAPITRE 04 - PALE CITY
+
+Collectes : 4 Glitching Remains, 2 chapeaux.
+Succes de progression : Paled.
+Succes contextuels : Post Industrial, Unladylike, Pale Kids,
+No More Remains.
+
+CHAPITRE 05 - SIGNAL TOWER
+
+Collectes : aucun Glitching Remain de chapitre, aucun chapeau cache.
+Succes de progression : Signal interruption.
+Nettoyage final : How Do I Look?, Far Ahead, Primetime Content Consumer.
+
+======================================================================
+04. CHAPITRE 01 - WILDERNESS
+======================================================================
+
+COMPTEUR DE FIN DE CHAPITRE
+
+- Glitching Remains : 4/4.
+- Chapeaux : 2/2.
+- Succes specifiques : 5, plus Foraged.
+
+DEPART ET PREMIER CHEMIN
+
+1. Avance vers la droite jusqu'a la zone de bois avec les pieges.
+2. Le sol couvert de feuilles cache des pieges a ours. Ne cours pas a
+   l'aveugle : utilise un baton pour tester les tas de feuilles.
+3. Les pommes de pin servent aussi de projectiles de verification. Lance-les
+   dans les feuilles avant de traverser.
+4. Quand un piege est declenche, ne le franchis pas trop vite : attends que
+   les dents soient completement ouvertes.
+5. Garde un oeil sur les passages en contrebas : ils menent au premier
+   Glitching Remain.
+
+GLITCHING REMAIN 01/18 - SOUS LE PONT CASSE
+
+- Atteins le pont en bois effondre.
+- Descends au lieu de remonter tout de suite sur les planches.
+- Une fois au sol, va vers l'avant-plan puis vers la droite.
+- Entre dans le petit tunnel/cave sous le pont.
+- Le Glitching Remain est au bout de cette salle secondaire.
+
+ROUTE DES PIEGES ET GLITCHING REMAIN 02/18
+
+1. Approche la zone du tronc creux bloque par un piege a ours.
+2. Arrache le baton plante dans le piege deja ferme.
+3. Transporte-le jusqu'au piege suivant et frappe-le pour le neutraliser.
+4. Glisse dans le tronc.
+5. Des que tu es passe, fais demi-tour et rampe sous le tronc au lieu de
+   continuer vers l'avant.
+6. La petite cave cachee contient le deuxieme Glitching Remain.
+
+ARRIVEE A LA MAISON
+
+1. Continue jusqu'a la maison du chasseur.
+2. Entre dans la cuisine et suis le couloir.
+3. Avant d'ouvrir la porte de sortie, reviens vers l'avant-plan et prends la
+   piece de gauche.
+
+CHAPEAU 01/09 - RATON LAVEUR
+
+- Dans la maison, apres avoir quitte la cuisine, prends le couloir vers
+  l'avant-plan.
+- Entre dans la piece situee a gauche.
+- Le chapeau est pose au milieu du tapis.
+- Equipe-le immediatement depuis le menu Pause si tu veux enchainer Fair
+  Prey sans risque d'oubli.
+
+SUCCES WHAT'S IN THE BOX?!
+
+- Dans la cuisine de la maison, approche le refrigerateur.
+- Ouvre sa porte avant de continuer la recherche de la cle.
+- Attends la validation Steam avant de quitter la cuisine.
+
+ATTIC, CLE ET NOME'S ATTIC DLC
+
+1. Monte a l'etage et cherche la cle dans la piece du grenier.
+2. La commode et les tiroirs servent de marches : tire celui qui bloque
+   l'acces, puis utilise-le pour monter.
+3. Si le DLC Nome's Attic est installe, le Nome bonus apparait dans cette
+   zone. Suis-le pour le chapeau optionnel ; cette detour ne compte pas dans
+   les 35 succes de la version de base.
+4. Pour la route principale, ramene la cle a la porte verrouillee.
+
+SORTIE DE LA MAISON ET GLITCHING REMAIN 03/18
+
+- Apres la sortie, avance jusqu'a la petite dependance/toilettes.
+- Demande a Six de te faire la courte elevation.
+- Ouvre la porte de la dependance.
+- Le Glitching Remain est a l'interieur.
+
+SUCCES EVASIVE PREY
+
+- Cette condition commence au debut du chapitre et se termine quand tu
+  atteins la maison du chasseur.
+- Une mort par piege, tronc, chute ou poursuite annule la tentative.
+- La route fiable est : tester chaque feuille au baton ou a la pomme de pin,
+  ne jamais sauter sur un tas non verifie et utiliser les cachettes pendant
+  les poursuites.
+- Si tu meurs, relance le chapitre depuis son debut, pas depuis un checkpoint.
+
+SUCCES FAIR PREY
+
+- Equipe le chapeau de raton laveur avant la sequence finale de la maison.
+- Garde-le pendant toute la poursuite du chasseur.
+- Ne change pas de chapeau avant que le chasseur soit vaincu.
+- La validation doit arriver a la fin de la sequence ; si elle n'apparait
+  pas, rejoue le dernier segment avec le chapeau equipe.
+
+TRAVERSEE DU PONT
+
+1. Rejoins Six apres la poursuite.
+2. Appelle-la pour qu'elle atteigne le bord du pont.
+3. Cours et agrippe sa main pour franchir l'espace.
+4. Apres le saut, ne poursuis pas encore la sortie : les cages empilees
+   cachent le deuxieme chapeau du chapitre.
+
+CHAPEAU 02/09 - CHAPEAU DE PLUIE
+
+- Apres le pont aide par Six, repere une pile de cages et une cage suspendue.
+- Grimpe sur les cages empilees.
+- Saute sur la cage suspendue.
+- Grimpe dessus et saute plusieurs fois pour la faire tomber.
+- Ramasse le chapeau de pluie dans la cage ouverte.
+
+SUCCES IN THE PALM OF MY HAND
+
+- A partir du moment ou Six peut prendre ta main, maintiens l'interaction
+  de main pendant environ six minutes au total.
+- La progression est cumulative. Fais-le dans les zones calmes, entre deux
+  puzzles, sans avancer pendant que l'interaction est active.
+- Si le succes n'apparait pas tout de suite, continue a tenir la main de Six
+  lors des passages suivants : il n'est pas lie a une seule salle.
+
+GLITCHING REMAIN 04/18 - PLAGE ET TELEVISION
+
+- Vers la fin du chapitre, utilise la porte flottante comme embarcation.
+- Apres la traversee, ne monte pas directement vers la television.
+- Va vers la plage et inspecte le bord pres de la TV.
+- Le dernier Glitching Remain de Wilderness est pose sur le rivage.
+
+SUCCES WILD KIDS
+
+- Il se debloque en ramassant les quatre Glitching Remains de Wilderness.
+- Controle la selection de chapitre : le compteur doit afficher 4/4.
+
+SUCCES FORAGED
+
+- Termine le chapitre 1.
+- Il est lie a la progression et ne demande pas une action secondaire.
+
+VERIFICATION WILDERNESS
+
+- [ ] Glitching Remain 01 : sous le pont casse.
+- [ ] Glitching Remain 02 : cave sous le tronc creux.
+- [ ] Glitching Remain 03 : dependance/toilettes.
+- [ ] Glitching Remain 04 : plage pres de la television.
+- [ ] Chapeau raton laveur : maison, piece a gauche du couloir.
+- [ ] Chapeau de pluie : cage suspendue apres le pont.
+- [ ] What's in the box?! : refrigerateur ouvert.
+- [ ] Evasive prey : maison atteinte sans mourir.
+- [ ] Fair Prey : chapeau raton laveur conserve jusqu'au chasseur.
+- [ ] In The Palm Of My Hand : main tenue six minutes cumulées.
+- [ ] Wild Kids : 4/4 Glitching Remains.
+- [ ] Foraged : chapitre termine.
+
+======================================================================
+05. CHAPITRE 02 - SCHOOL
+======================================================================
+
+COMPTEUR DE FIN DE CHAPITRE
+
+- Glitching Remains : 6/6.
+- Chapeaux : 2/2.
+- Succes specifiques : 8, plus Schooled et True Colours.
+
+ARRIVEE ET PREMIER GLITCHING REMAIN
+
+1. Avance dans les rues jusqu'aux televisions.
+2. Pousse la television au bord de la plateforme pour permettre a Six de
+   monter et de te rejoindre.
+3. Apres le passage ou Six t'aide a traverser l'escalier effondre, reviens
+   vers l'endroit ou elle est arrivee.
+4. Le Glitching Remain est dans cette salle de retour.
+
+GLITCHING REMAIN 05/18 - PREMIERE ZONE DE LA SCHOOL
+
+- Apres le puzzle de television et le saut aide par Six, reviens en arriere
+  avant de progresser vers la cour.
+- Inspecte le petit espace situe derriere le point d'arrivee de Six.
+- Ramasse le premier Glitching Remain de School.
+
+COUR DE RECREATION
+
+1. Approche l'entree principale de l'ecole.
+2. Ne monte pas encore vers la corde : fouille la cour.
+3. Au fond de la cour, pres d'un velo, se trouve le Glitching Remain suivant.
+
+GLITCHING REMAIN 06/18 - VELO
+
+- Dans la cour, avance vers l'arriere-plan.
+- Le Glitching Remain est a cote du velo.
+
+CHAPEAU 03/09 - BALLON
+
+- Depuis la cour, va vers l'entree principale verrouillee.
+- Saute sur la benne situee a cote des marches.
+- Ramasse le chapeau de ballon.
+- Equipe-le avant d'aller au but.
+
+SUCCES REFEREE!
+
+- Avec le chapeau de ballon equipe, traverse les deux poteaux du but de la
+  cour.
+- Le ballon sur la tete est obligatoire : traverser le but sans l'equiper ne
+  valide pas la case.
+- Fais l'action avant de grimper vers l'interieur de l'ecole.
+
+PAPIER AVION ET SUCCES FLY FREE
+
+1. Entre dans l'ecole et avance jusqu'a la piece avec les lits superposes.
+2. Ramasse l'avion en papier pose au sol.
+3. Reviens a la fenetre par laquelle tu es entre dans l'ecole.
+4. Lance l'avion vers l'exterieur.
+5. Attends le pop-up avant de retourner a la route.
+
+SEPARATION ET GLITCHING REMAIN 07/18
+
+- Apres la separation avec Six, traverse la salle avec les deux premiers
+  bullies.
+- Dans la piece du deuxieme bully, grimpe par la porte cassee.
+- Tu arrives dans un couloir de casiers.
+- Le Glitching Remain est a l'interieur du troisieme casier.
+
+SUCCES BULLY OF BULLIES
+
+- Dans la salle de classe ou la poursuite commence, laisse les bullies te
+  suivre jusqu'a la grande bibliotheque/meuble.
+- Monte sur le meuble et fais tomber la bibliotheque sur au moins trois
+  bullies regroupes.
+- Le positionnement est essentiel : attire-les sous la zone de chute avant
+  de saisir le point d'appui.
+- Si les ennemis se dispersent, recharge le checkpoint avant la poursuite.
+
+SUCCES MERCIFUL FEAT
+
+- Dans la piece ou un bully est attache et dessine au sol, ne le tue pas.
+- Prends le tuyau, provoque son attaque puis cours vers la porte a droite.
+- Utilise le tuyau pour casser la porte sans revenir frapper le bully.
+- Quitte la zone sans le tuer. Le succes se valide apres la progression.
+
+CHAPEAU 04/09 - BOITE DE CONSERVE
+
+- Apres la zone de poursuite de la classe, arrive a la bibliotheque.
+- Utilise l'echelle mobile.
+- Ne la pousse pas jusqu'a l'extreme droite : place-la au niveau de la
+  bibliotheque intermediaire.
+- Grimpe sur l'echelle puis sur l'etagere pour ramasser le chapeau.
+
+BIBLIOTHEQUE ET CASIERS
+
+1. Continue jusqu'a la salle de reception et son grand escalier.
+2. Sur le cote gauche de l'escalier, inspecte la balustrade brisee.
+
+GLITCHING REMAIN 08/18 - GRAND ESCALIER
+
+- Dans la reception apres la bibliotheque, prends la gauche du grand
+  escalier.
+- Le Glitching Remain se trouve pres de la balustrade brisee.
+
+PUZZLE D'ECHECS - SOLUTION COMPLETE
+
+1. Dans la salle d'echecs, avance vers le tableau avec le dessin d'oeil.
+2. Saute et tire le bas du tableau pour reveler le schema.
+3. Recupere le sommet de la Reine sur la piece situee a droite de la salle.
+4. Place temporairement ce sommet sur la piece en haut a gauche du plateau
+   pour atteindre la table et prendre le sommet du Roi.
+5. Recupere le sommet de la Tour sur la piece situee a l'exterieur de la
+   salle, pres de la porte.
+6. Configuration finale : Reine en haut a gauche, Roi au centre, Tour a
+   droite. La case en bas a gauche reste vide.
+7. Une fois la lumiere allumee, utilise la Tour comme marche pour atteindre
+   la lampe et tire-la.
+8. Prends la cle dans la petite salle ouverte et redescends ouvrir la porte.
+
+PIANO ET SUCCES MONO TONES
+
+- Atteins la salle du piano apres le puzzle d'echecs.
+- Marche sur les touches du piano et continue a avancer dessus jusqu'a la
+  validation.
+- Ne saute pas hors du piano trop vite : le succes demande plusieurs touches.
+
+GLITCHING REMAIN 09/18 - GARDE-MANGER
+
+- Apres avoir ouvert la porte du bas de l'escalier et rejoint le couloir
+  carrele, descends les marches.
+- Deplace le chariot pour entrer dans le garde-manger.
+- Le Glitching Remain est pose sur le haut du congelateur.
+
+SUCCES TWENTY-SIX
+
+- Avec Six a portee de voix, utilise l'appel 26 fois au total.
+- La progression est cumulative. Le debut de School est un bon endroit pour
+  rester immobile et repeter l'appel.
+- Attends le son de validation avant de reprendre la route.
+
+GLITCHING REMAIN 10/18 - SORTIE DE LA SCHOOL
+
+- Apres avoir quitte le batiment, avance jusqu'a la zone de rue avec le
+  bateau en papier.
+- Devant l'allee effondree, inspecte le bord de la rue.
+- Ramasse le Glitching Remain avant de continuer vers l'exterieur.
+
+SUCCES TRUE COLOURS
+
+- Poursuis la route apres la School.
+- Le succes se debloque quand Six enfile son impermeable jaune.
+- Aucun objet optionnel ne doit etre fait a cet instant ; attends le pop-up.
+
+SUCCES SCHOOL KIDS
+
+- Il se debloque avec les six Glitching Remains de School.
+- Selection de chapitre : compteur attendu 6/6.
+
+SUCCES SCHOOLED
+
+- Termine le chapitre 2.
+
+VERIFICATION SCHOOL
+
+- [ ] Glitching Remain 05 : retour du premier puzzle TV.
+- [ ] Glitching Remain 06 : cour, pres du velo.
+- [ ] Glitching Remain 07 : troisieme casier.
+- [ ] Glitching Remain 08 : balustrade du grand escalier.
+- [ ] Glitching Remain 09 : garde-manger, haut du congelateur.
+- [ ] Glitching Remain 10 : allee effondree, bateau en papier.
+- [ ] Chapeau ballon : benne de la cour.
+- [ ] Chapeau boite de conserve : bibliotheque, echelle mobile.
+- [ ] Referee! : but traverse avec le chapeau ballon.
+- [ ] Fly Free : avion lance par la fenetre d'entree.
+- [ ] Bully of Bullies : au moins trois bullies sous la bibliotheque.
+- [ ] Merciful feat : bully attache laisse en vie.
+- [ ] Mono Tones : touches du piano traversees.
+- [ ] Twenty-Six : Six appelee 26 fois.
+- [ ] School Kids : compteur 6/6.
+- [ ] True Colours : impermeable de Six.
+- [ ] Schooled : chapitre termine.
+
+======================================================================
+06. CHAPITRE 03 - HOSPITAL
+======================================================================
+
+COMPTEUR DE FIN DE CHAPITRE
+
+- Glitching Remains : 4/4.
+- Chapeaux : 2/2.
+- Succes specifiques : 10, plus Hospitalised.
+
+ARRIVEE ET VENDING MACHINE
+
+1. Apres le passage television, avance dans la grande salle de l'hopital.
+2. Prends le couloir ouvert au rez-de-chaussee.
+3. Repere le distributeur automatique.
+
+SUCCES HUNGER
+
+- Active le distributeur plusieurs fois.
+- Continue jusqu'a ce qu'il ne sorte plus aucun snack.
+- La validation se fait au sixieme snack environ ; continue d'appuyer si le
+  compteur n'est pas encore apparu.
+
+PREMIER GLITCHING REMAIN 11/18
+
+- Dans la premiere salle de soin ou tu recuperes la lampe, inspecte le fond
+  de la piece.
+- Le Glitching Remain est derriere la salle, a l'ecart du couloir principal.
+
+PUZZLE DES FUSIBLES ET ASCENSEUR
+
+1. Avance vers la zone des lits suspendus.
+2. Recupere le premier fusible et porte-le au boitier de droite.
+3. Passe par la porte ouverte et entre dans l'ascenseur qui chute.
+4. Quand l'ascenseur descend, ouvre la trappe et rampe dans le conduit.
+5. Rejoins la salle de la chaise electrique.
+6. Grimpe au fond et tire le levier pour faire sortir le second fusible.
+7. Attrape le fusible et lance-le par l'ouverture de la grille.
+8. Six le recuperera et le posera a l'exterieur.
+9. Retourne chercher le premier fusible, puis depose les deux dans
+   l'alimentation de l'ascenseur.
+10. Tire le levier et descends.
+
+PUZZLE DES RAYONS X
+
+1. Dans la salle des rayons X, active la machine avec son interrupteur.
+2. Dans la salle de jeu attenante, prends le gros ours en peluche.
+3. Amene les ours un par un devant la machine pour trouver celui qui contient
+   la cle.
+4. Une fois l'ours identifie, porte-le dans l'ascenseur qui descend au four.
+
+SUCCES X BEST FRIENDS
+
+- Avant de bruler l'ours, active la machine a rayons X.
+- Place-toi avec Six derriere l'ecran.
+- Tiens la main de Six pendant que vos silhouettes apparaissent sur la radio.
+- Attends la validation avant de quitter la salle.
+
+CHAPEAU 05/09 - OURS EN PELUCHE
+
+- Dans la salle de jeu a droite des rayons X, cherche l'etagere de jouets
+  situee au fond a droite.
+- Utilise le tabouret pour grimper sur l'armoire.
+- Ramasse le chapeau en forme de tete d'ours.
+- Equipe-le dans le menu Pause avant de bruler l'ours.
+
+SUCCES TOYS ARE FOR KIDS
+
+- Equipe le chapeau d'ours.
+- Prends l'un des ours et descends avec lui au four.
+- Depose l'ours dans le four et tire le levier.
+- Ne change pas de chapeau avant la validation.
+
+PROGRESSION APRES L'OURS
+
+- Apres avoir recupere la cle du four, remonte dans la salle superieure.
+- Poursuis le couloir jusqu'a la sequence des mains.
+- Apres le premier passage, inspecte la salle secondaire avant de continuer.
+- Le Glitching Remain se trouve dans ce secteur.
+
+MAIN ET SUCCES ...AND STAY DEAD!
+
+1. Rejoins la morgue et prends le tuyau.
+2. Frappe la main qui attaque jusqu'a sa chute.
+3. Une fois la main immobile, frappe-la encore trois fois.
+4. Ne quitte pas la piece avant la validation.
+
+POPCORN
+
+- Dans la zone de l'hopital, avant la sequence finale de la morgue, cherche
+  l'epi de mais pose dans une salle secondaire.
+- Porte-le jusqu'au four.
+- Place le mais dans le four et active la cuisson.
+- Entre ensuite dans le four pour valider Popcorn.
+
+OBJECTION
+
+- Dans la salle avec le lit et le lavabo, ramasse le morceau de fromage.
+- Reviens vers le couloir des mains.
+- Cherche l'ouverture basse derriere la porte/les grilles, dans le secteur
+  qui ressemble a un trou de rat.
+- Jette le fromage dans le trou ; ne tombe pas toi-meme dedans.
+
+GLITCHING REMAIN 12/18 - COULOIR AUX PROTHESES
+
+- Apres la cle obtenue dans l'ours et le passage vers le couloir aux cages de
+  protheses, tourne a gauche depuis la porte d'entree.
+- Avance jusqu'au bout du couloir.
+- Le Glitching Remain est au fond.
+
+GLITCHING REMAIN 13/18 - CHAMBRE AVEC LIT ET TOILETTES
+
+- Apres une poursuite de patients, tombe dans la petite salle avec un lit et
+  des toilettes.
+- Sors puis passe par le trou dans les barreaux a droite.
+- Entre dans la piece ouverte : le Glitching Remain est a l'interieur.
+
+MEDICINE BALL
+
+- Apres la derniere grande poursuite de patients, arrive dans la salle avec
+  la chaise electrique.
+- Cherche la balle au sol.
+- Prends-la et porte-la vers le couloir ou les mains/mannequins sont regroupes.
+- Lance la balle pour qu'ils l'attrapent et la renvoient.
+
+CHAPEAU 06/09 - BANDAGES
+
+- Apres le docteur, tombe dans la morgue et commence la recherche de la cle.
+- Repere le meuble bas situe pres de la table d'examen, du cote du lavabo.
+- Ouvre le compartiment inferieur.
+- Ramasse le chapeau de bandages.
+
+GLITCHING REMAIN 14/18 - SALLE DE DOUCHE
+
+- Apres le couloir rempli de mains qui essaient d'attraper Mono, entre dans
+  la salle de douche.
+- Deplace la caisse situee au fond.
+- Rampe par le conduit derriere la caisse.
+- Le Glitching Remain est au bout de ce conduit.
+
+POURSUITE DU DOCTEUR
+
+1. Quand la poursuite commence, cours vers la droite.
+2. Utilise les lits et les meubles comme couvertures ; ne reste pas au
+   centre du couloir.
+3. Dans la zone du four, entre rapidement dans la structure.
+4. Passe par la trappe du four pour sortir de l'autre cote.
+5. Lorsque tu as le choix de tirer le levier, ne le tire pas si tu vises First
+   do no harm.
+
+SUCCES FIRST DO NO HARM
+
+- Enferme le docteur dans le four.
+- Ne tire pas le levier d'incineration.
+- Laisse-le dans le four et pars par l'ascenseur.
+- Le succes se valide en quittant la zone sans le bruler.
+- Si tu as tire le levier par erreur, rejoue le chapitre 3 depuis la
+  selection et refais la sequence finale.
+
+SUCCES SICK KIDS
+
+- Il se debloque en ramassant les quatre Glitching Remains du chapitre.
+- Selection de chapitre : compteur attendu 4/4.
+
+SUCCES HOSPITALISED
+
+- Termine le chapitre 3.
+
+VERIFICATION HOSPITAL
+
+- [ ] Glitching Remain 11 : fond de la premiere salle avec la lampe.
+- [ ] Glitching Remain 12 : couloir gauche aux cages de protheses.
+- [ ] Glitching Remain 13 : piece ouverte apres le trou des barreaux.
+- [ ] Glitching Remain 14 : conduit de la salle de douche.
+- [ ] Chapeau ours : etagere de la salle de jeu.
+- [ ] Chapeau bandages : compartiment bas de la morgue.
+- [ ] Hunger : distributeur vide.
+- [ ] X Best Friends : mains tenues devant la radio.
+- [ ] Toys Are For Kids : ours brule avec le chapeau d'ours.
+- [ ] ...And Stay Dead! : main frappee trois fois apres sa mort.
+- [ ] Medicine ball : balle lancee aux mannequins.
+- [ ] Popcorn : mais cuit puis four traverse.
+- [ ] Objection : fromage jete dans le trou.
+- [ ] First do no harm : docteur non incinere.
+- [ ] Sick Kids : compteur 4/4.
+- [ ] Hospitalised : chapitre termine.
+
+NOTE DE CONTROLE
+
+Le compteur de collecte de ce chapitre est bien 4 Glitching Remains. Les
+quatre reperes sont enumeres ci-dessous de maniere operationnelle :
+
+- Reste 12 : salle de la lampe, fond.
+- Reste 13 : salle secondaire apres l'ascenseur/fusibles.
+- Reste 14 : couloir des cages de protheses.
+- Reste 15 : piece ouverte apres le trou dans les barreaux.
+- Reste 16 : conduit de la douche.
+
+La numerotation globale de cette fiche sert au suivi de la route ; l'ecran
+de selection de chapitre fait foi pour le compteur local. Si ton menu affiche
+4/4, la collecte du chapitre est complete.
+
+======================================================================
+07. CHAPITRE 04 - PALE CITY
+======================================================================
+
+COMPTEUR DE FIN DE CHAPITRE
+
+- Glitching Remains : 4/4.
+- Chapeaux : 2/2.
+- Succes specifiques : 4, plus Paled et No More Remains.
+
+SORTIE DE L'HOPITAL ET GLITCHING REMAIN 15/18
+
+1. Rejoins les rues apres la sortie de l'hopital.
+2. Cherche la bouche d'egout dans la rue.
+3. Descends dans les egouts avant d'utiliser la television de la rue.
+4. Le Glitching Remain est dans le conduit.
+
+RUES, TELEVISION ET ASCENSEUR VERROUILLE
+
+1. Avance jusqu'au premier immeuble avec une television.
+2. Allume l'ecran et utilise-le pour atteindre le niveau superieur.
+3. Suis les planches, la lampe suspendue et les conduits d'air.
+4. Dans l'immeuble suivant, avance jusqu'a l'ascenseur.
+5. Deplace la boite sous le levier exterieur pour pouvoir l'atteindre.
+6. Active l'ascenseur, allume la TV interieure et monte.
+7. Pour ne pas rester bloque par la grille, saute vers la plateforme
+   superieure pendant le mouvement.
+8. Ouvre le tiroir du bureau et recupere la cle.
+9. Utilise la cle sur la grille de l'ascenseur.
+10. Rejoins Six puis fais redescendre l'ascenseur.
+
+GLITCHING REMAIN 16/18 - FIN DU PREMIER IMMEUBLE
+
+- Apres l'ascenseur et avant la sortie definitive du batiment, cherche la
+  boite situee a l'extremite de la piece superieure.
+- Deplace-la pour reveler le passage etroit.
+- Rampe dans la petite salle : le Glitching Remain est a l'interieur.
+
+GLITCHING REMAIN 17/18 - TROISIEME DU CHAPITRE
+
+- Apres le deuxieme repere, sors sur le toit.
+- Passe par la fenetre sous la veranda en bois.
+- Entre dans le petit abri rempli de cages.
+- Le Glitching Remain est a l'interieur.
+
+TELECOMMANDE
+
+1. Apres les premiers immeubles, recupere la telecommande devant la TV.
+2. Elle remplace la lampe dans la roue d'outils.
+3. Allume la TV de gauche et utilise-la pour gagner l'etage superieur.
+4. Repere le chariot sous l'eboulement et pousse-le vers le centre avant de
+   poursuivre : il servira au passage du courrier.
+
+CHAPEAU 07/09 - POSTIER
+
+- Dans le secteur du bureau de poste, descends vers la zone remplie de
+  lettres.
+- Au premier espace avec une television legerement surelevee, ne saute pas
+  le trou vers la sortie.
+- Tombe dans la partie gauche et cherche la petite ouverture.
+- Suis le conduit jusqu'a la salle du chapeau de postier.
+- Equipe-le avant de livrer le colis.
+
+SUCCES POST INDUSTRIAL
+
+- Porte le chapeau de postier.
+- Dans la zone du courrier, recupere le colis dans la valise.
+- Transporte-le jusqu'a la porte de livraison correspondante.
+- Depose le colis devant la porte avec la fente.
+- Le chapeau est obligatoire pour la validation.
+
+TRAVERSEE DU COURRIER
+
+1. Utilise le chariot pour franchir le grand trou.
+2. Allume la TV pour te replacer dans la zone des colis.
+3. Utilise la lampe suspendue pour te balancer.
+4. Passe par le comptoir, les caisses et le crochet.
+5. Glisse avec le cintre jusqu'a l'immeuble suivant.
+
+GLITCHING REMAIN 18/18 - QUATRIEME DU CHAPITRE
+
+- Apres le chapeau de postier, reprends le toit et traverse vers le batiment
+  oppose.
+- Entre par la fenetre suivante.
+- Le dernier Glitching Remain du chapitre se trouve dans cette piece.
+- Controle l'ecran de selection : Pale City doit afficher 4/4.
+
+APPARTEMENT ET UNLADYLIKE
+
+1. Dans l'appartement, allume la TV suspendue a l'exterieur de la fenetre.
+2. Eteins la TV regardee par la spectatrice pour la faire se deplacer.
+3. Lorsqu'elle quitte sa position, rallume la TV exterieure.
+4. Utilise-la pour traverser.
+5. Sur le toit suivant, rejoins la statue de dame.
+
+SUCCES UNLADYLIKE
+
+- Frappe et casse la statue de dame.
+- L'action doit etre faite avant de quitter l'appartement/terrasse.
+- Si la statue est deja detruite dans une sauvegarde de chapitre, recharge
+  le chapitre depuis son debut.
+
+ELECTRICITE ET PASSAGE DE L'EAU
+
+1. Dans la piece avec le spectateur qui frappe une porte, retire les planches.
+2. Des que le passage est ouvert, cours au levier.
+3. Active l'electricite quand le spectateur marche dans l'eau.
+4. Coupe le courant apres sa chute pour traverser sans danger.
+
+SECOND PUZZLE D'ASCENSEUR ET TV
+
+1. Allume la TV pres de la sortie puis descends par la chute a ordures.
+2. Dans les debris, pousse la boite pour atteindre le levier.
+3. Entre dans l'ascenseur, allume la TV interieure et monte.
+4. Quand l'ascenseur arrive, tire le levier puis passe rapidement par la
+   television pour atteindre la position exterieure.
+5. Saute sur le toit de l'ascenseur et franchis l'ouverture du niveau
+   intermediaire.
+6. Pousse la boite et entre dans le conduit.
+
+CHAPEAU 08/09 - CASQUETTE PLATE
+
+- Dans le magasin avec l'eau electrifiee, ne pousse pas le chariot dans la
+  pente tout de suite.
+- Deplace-le vers l'etagere proche de la fenetre d'entree.
+- Grimpe sur le chariot puis sur l'etagere.
+- Ramasse la casquette plate.
+- Ce chapeau n'est pas necessaire a Post Industrial, mais il est necessaire
+  pour Far Ahead.
+
+SORTIE DU MAGASIN
+
+1. Utilise les toilettes comme appui pour passer au-dessus de l'eau.
+2. Dans la salle suivante, eteins la TV pour attirer le spectateur.
+3. Reviens vers la salle d'eau et reste sur les appuis secs.
+4. Le spectateur se dirige vers la TV et tombe dans l'eau electrifiee.
+5. Le courant coupe, utilise le tabouret pour ouvrir la porte.
+6. Rejoins le toit et poursuis jusqu'au passage vers la tour.
+
+SUCCES PALED
+
+- Termine le chapitre 4.
+
+SUCCES PALE KIDS
+
+- Il se debloque avec les quatre Glitching Remains de Pale City.
+
+SUCCES NO MORE REMAINS
+
+- Il se debloque apres les 18 Glitching Remains des chapitres 1 a 4.
+- Controle les menus : 4/4 Wilderness, 6/6 School, 4/4 Hospital et 4/4
+  Pale City.
+- Si la validation manque malgré les compteurs, reviens au menu principal
+  puis relance la sauvegarde avant de poursuivre.
+
+VERIFICATION PALE CITY
+
+- [ ] Glitching Remain 15 : egouts, bouche d'egout de la rue.
+- [ ] Glitching Remain 16 : piece cachee derriere une boite.
+- [ ] Glitching Remain 17 : abri de cages sous la veranda.
+- [ ] Glitching Remain 18 : fenetre de l'immeuble apres le courrier.
+- [ ] Chapeau postier : conduit du secteur des lettres.
+- [ ] Casquette plate : magasin, etagere pres de la fenetre.
+- [ ] Post Industrial : colis livre avec le chapeau de postier.
+- [ ] Unladylike : statue de dame brisee.
+- [ ] Pale Kids : compteur 4/4.
+- [ ] Paled : chapitre termine.
+- [ ] No More Remains : compteur global 18/18.
+
+NOTE SUR LES COMPTEURS
+
+La numerotation globale ci-dessus suit les 18 collectes de la route, tandis
+que les menus de chapitres affichent 4/4 pour Pale City. Si un menu affiche
+un compteur different, utilise ce compteur local pour retrouver le chapitre
+et repars du premier repere non valide.
+
+======================================================================
+08. CHAPITRE 05 - SIGNAL TOWER
+======================================================================
+
+OBJECTIF DU CHAPITRE
+
+- Terminer les puzzles de televisions et de portes.
+- Traverser la tour sans chercher de collecte secondaire.
+- Obtenir Signal interruption.
+- Recuperer le chapeau final a la fin.
+
+ENTREE DE LA TOUR
+
+1. Utilise les televisions pour suivre le signal d'un ecran a l'autre.
+2. Dans une boucle de portes, ne choisis pas au hasard : observe la direction
+   du signal et utilise la TV qui te renvoie vers la porte suivante.
+3. Quand une porte te ramene a l'ecran de depart, change d'angle et prends
+   la porte dont la position correspond a la TV allumee.
+4. Avance quand Six est presente et attends qu'elle atteigne le point
+   d'interaction avant de traverser.
+
+PUZZLE DES PORTES
+
+- Place-toi devant la porte avec le signal le plus stable.
+- Entre dans la salle, puis utilise la TV pour te repositionner.
+- Si la porte te renvoie au meme couloir, reviens au point central et prends
+  la branche opposee.
+- Le bon chemin est celui qui rapproche progressivement Mono de la source du
+  signal, pas celui qui ramene vers le hall.
+
+PUZZLE DE L'ASCENSEUR
+
+1. Utilise le levier pour appeler l'ascenseur.
+2. Place-toi sur le toit ou dans la cabine selon la position demandee par le
+   puzzle.
+3. Active la TV de la cabine pour franchir l'espace.
+4. Quand la cabine est entre deux niveaux, saute sur le rebord praticable.
+5. Continue par les conduits jusqu'a la salle suivante.
+
+SEQUENCE FINALE
+
+- Suis les televisions qui restent actives.
+- Utilise la telecommande sans la changer d'outil.
+- Lorsqu'un mur ou une masse ferme le passage, cherche l'ecran actif plutot
+  que de frapper la structure.
+- Les interactions de la derniere zone sont lineaires : il n'y a aucun
+  chapeau cache ni Glitching Remain a detourner.
+
+SUCCES SIGNAL INTERRUPTION
+
+- Termine Signal Tower et la campagne.
+- Le succes est lie a la fin du chapitre, pas a une condition de collecte.
+
+CHAPEAU 09/09 - CHAPEAU FINAL
+
+- Termine le jeu.
+- Le chapeau final est ajoute a l'inventaire apres la completion.
+- Reviens au menu Pause ou a la selection de chapitre et equipe-le.
+
+SUCCES HOW DO I LOOK?
+
+- Apres avoir obtenu le chapeau final, equipe-le dans le menu.
+- Si la validation ne se declenche pas dans l'ecran de fin, recharge un
+  chapitre et equipe le chapeau depuis l'inventaire.
+
+SUCCES FAR AHEAD
+
+- Il faut les 8 chapeaux caches des chapitres 1 a 4 et le chapeau final.
+- Le sac en papier de depart, le chapeau du Nome et le chapeau Mokujin ne
+  sont pas requis.
+- Les compteurs d'objets peuvent demander un retour au menu principal pour
+  actualiser la validation.
+
+======================================================================
+09. NETTOYAGE FINAL PAR SELECTION DE CHAPITRE
+======================================================================
+
+ORDRE DE NETTOYAGE
+
+1. Wilderness : Evasive prey et Fair Prey si necessaire.
+2. School : Referee!, Fly Free, Bully of Bullies, Merciful feat,
+   Mono Tones et Twenty-Six.
+3. Hospital : Hunger, X Best Friends, Toys Are For Kids, ...And Stay Dead!,
+   Medicine ball, Popcorn, Objection et First do no harm.
+4. Pale City : Post Industrial et Unladylike.
+5. Rejoue uniquement les chapitres dont le compteur de collectes est
+   incomplet.
+6. Termine par How Do I Look? et Primetime Content Consumer.
+
+SAUVEGARDES A REFAIRE EN PRIORITE
+
+- Evasive prey : chapitre 1 depuis le debut, aucune mort jusqu'a la maison.
+- Fair Prey : chapeau raton laveur equipe jusqu'a la fin de la poursuite.
+- Merciful feat : bully attache laisse en vie.
+- First do no harm : docteur enferme mais levier d'incineration non tire.
+- Post Industrial : chapeau de postier equipe au moment de livrer.
+- Far Ahead : les 9 chapeaux requis, dont celui de fin.
+
+======================================================================
+10. LISTE COMPLETE DES 35 SUCCES STEAM
+======================================================================
+
+SUCCES DE CHAPITRE
+
+- Foraged : terminer Wilderness.
+- Schooled : terminer School.
+- Hospitalised : terminer Hospital.
+- Paled : terminer Pale City.
+- Signal interruption : terminer Signal Tower.
+
+SUCCES DE COLLECTE
+
+- Wild Kids : 4 Glitching Remains de Wilderness.
+- School Kids : 6 Glitching Remains de School.
+- Sick Kids : 4 Glitching Remains de Hospital.
+- Pale Kids : 4 Glitching Remains de Pale City.
+- No More Remains : les 18 Glitching Remains.
+- Half hat : obtenir la moitie des chapeaux requis.
+- Far Ahead : obtenir les 8 chapeaux caches et le chapeau final.
+
+SUCCES CONTEXTUELS
+
+- What's in the box?! : ouvrir le refrigerateur de la maison.
+- Evasive prey : atteindre la maison sans mourir dans la premiere section.
+- Fair Prey : vaincre le chasseur avec le chapeau de raton laveur.
+- Twenty-Six : appeler Six 26 fois.
+- Referee! : traverser le but avec le chapeau de ballon.
+- Fly Free : lancer l'avion en papier par la fenetre.
+- Bully of Bullies : faire tomber la bibliotheque sur les bullies.
+- Merciful feat : laisser le bully attache en vie.
+- Mono Tones : marcher sur les touches du piano.
+- Hunger : vider le distributeur.
+- X Best Friends : tenir la main de Six devant la radio.
+- Toys Are For Kids : bruler l'ours avec le chapeau d'ours.
+- ...And Stay Dead! : frapper la main trois fois apres sa mort.
+- Medicine ball : lancer la balle aux mannequins.
+- Popcorn : cuire le mais puis entrer dans le four.
+- Objection : jeter le fromage dans le trou.
+- First do no harm : ne pas incinerer le docteur.
+- Post Industrial : livrer le colis avec le chapeau de postier.
+- Unladylike : casser la statue de dame.
+- In The Palm Of My Hand : tenir la main de Six environ six minutes.
+- True Colours : voir Six enfiler son impermeable jaune.
+- How Do I Look? : equiper le chapeau final.
+
+======================================================================
+CHECKLIST STEAM FINALE - 35/35
+======================================================================
+
+- [ ] 01. Foraged - terminer Wilderness.
+- [ ] 02. True Colours - voir Six enfiler son impermeable jaune.
+- [ ] 03. Schooled - terminer School.
+- [ ] 04. Twenty-Six - appeler Six 26 fois.
+- [ ] 05. Hospitalised - terminer Hospital.
+- [ ] 06. Paled - terminer Pale City.
+- [ ] 07. Signal interruption - terminer Signal Tower.
+- [ ] 08. ...And Stay Dead! - frapper la main trois fois apres sa mort.
+- [ ] 09. What's in the box?! - ouvrir le refrigerateur.
+- [ ] 10. Mono Tones - marcher sur les touches du piano.
+- [ ] 11. Half hat - obtenir la moitie des chapeaux requis.
+- [ ] 12. Evasive prey - atteindre la maison sans mourir.
+- [ ] 13. Fair Prey - vaincre le chasseur avec le chapeau de raton laveur.
+- [ ] 14. Hunger - vider le distributeur.
+- [ ] 15. In The Palm Of My Hand - tenir la main de Six six minutes.
+- [ ] 16. Toys Are For Kids - bruler l'ours avec le chapeau d'ours.
+- [ ] 17. How Do I Look? - equiper le chapeau final.
+- [ ] 18. Bully of Bullies - faire tomber la bibliotheque sur les bullies.
+- [ ] 19. Medicine ball - lancer la balle aux mannequins.
+- [ ] 20. Merciful feat - laisser le bully attache en vie.
+- [ ] 21. Post Industrial - livrer le colis avec le chapeau de postier.
+- [ ] 22. Unladylike - casser la statue de dame.
+- [ ] 23. Wild Kids - obtenir les 4 Glitching Remains de Wilderness.
+- [ ] 24. Referee! - traverser le but avec le chapeau de ballon.
+- [ ] 25. School Kids - obtenir les 6 Glitching Remains de School.
+- [ ] 26. Sick Kids - obtenir les 4 Glitching Remains de Hospital.
+- [ ] 27. First do no harm - ne pas incinerer le docteur.
+- [ ] 28. Objection - jeter le fromage dans le trou.
+- [ ] 29. Fly Free - lancer l'avion en papier.
+- [ ] 30. Pale Kids - obtenir les 4 Glitching Remains de Pale City.
+- [ ] 31. Far Ahead - obtenir les 9 chapeaux requis.
+- [ ] 32. Popcorn - cuire le mais puis entrer dans le four.
+- [ ] 33. No More Remains - obtenir les 18 Glitching Remains.
+- [ ] 34. X Best Friends - tenir la main de Six devant la radio.
+- [ ] 35. Primetime Content Consumer - obtenir tous les autres succes.
+
+VERIFICATION FINALE
+
+- [ ] Wilderness : 4/4 Glitching Remains, 2/2 chapeaux.
+- [ ] School : 6/6 Glitching Remains, 2/2 chapeaux.
+- [ ] Hospital : 4/4 Glitching Remains, 2/2 chapeaux.
+- [ ] Pale City : 4/4 Glitching Remains, 2/2 chapeaux.
+- [ ] Chapeau final obtenu apres Signal Tower.
+- [ ] Steam affiche 35 succes sur 35.
+- [ ] Le jeu est termine sans DLC obligatoire.
+- [ ] Aucun spoiler narratif n'est necessaire pour suivre cette fiche.
+
+SOURCES DE CONTROLE
+
+- Liste officielle Steam des 35 succes :
+  https://steamcommunity.com/stats/860510/achievements
+- Guide Steam 100 % et timestamps de controle :
+  https://steamcommunity.com/sharedfiles/filedetails/?id=2394156503
+- Guide de reperage des 18 Glitching Remains et chapeaux :
+  https://attackofthefanboy.com/guides/little-nightmares-ii-all-hat-and-glitching-remains-locations/
+- Guide de chapeaux et conditions Far Ahead :
+  https://www.nme.com/guides/little-nightmares-ii-guide-how-to-find-all-eight-hats-in-the-game-2884378
+- Guide de puzzles et solutions de l'ecole/hopital :
+  https://gameranx.com/features/id/217050/article/little-nightmares-2-how-to-solve-every-major-puzzle-all-solutions-guide/
+
+FIN DE LA FICHE - LITTLE NIGHTMARES II 100 % STEAM
