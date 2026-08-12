@@ -673,297 +673,419 @@ PARTIE III - COSTA DEL SOL, GOLD SAUCER ET NIBELHEIM
 
 19. COSTA DEL SOL
 
-Route : visite la plage et la ville avant d'entrer dans l'hôtel. Descends dans
-la cave de la maison de vacances pour récupérer les objets, puis reprends la
-route vers Mt. Corel.
+Route : après l'arrivée automatique, visite la ville, puis entre dans la maison
+reliée au pont avant de partir vers Mt. Corel. Les scènes de personnages sur la
+plage sont facultatives et ne changent pas le parcours Steam.
 
-Coffres et objets :
+Objets et achats :
 
-- Plage, côté droit : Fire Ring, derrière les cabines, avant d'entrer dans la
-  ville.
-- Maison de vacances, sous-sol : Power Source et Motor Drive dans les salles
-  latérales ; inspecte aussi le coffre derrière l'escalier.
-- Boutique d'armes : achète Carbon Bangles et une arme pour Barret si elle est
-  encore supérieure à son équipement actuel.
+- [COFFRE] Sous-sol de la maison reliée au pont : Fire Ring, Power Source et
+  Motor Drive, l'arme de Tifa. Prends les trois avant de remonter.
+- Boutique d'armes : Platinum Bangle est disponible dans le bar au sud-ouest ;
+  son double gain d'AP compense sa défense plus faible pendant la prochaine
+  partie du parcours.
+- Plage : aucun coffre unique ne doit être recherché ; le prochain détour utile
+  se trouve dans Mt. Corel.
 
 AVANT DE SORTIR
 
-- Fire Ring, Power Source, Motor Drive et les achats de la boutique sont
-  contrôlés avant la sortie de Costa del Sol.
-- La sauvegarde PRINCIPALE est faite avant de remonter vers Mt. Corel.
+- [COFFRE] Fire Ring, Power Source et Motor Drive sont contrôlés dans le sous-sol.
+- Platinum Bangle est acheté si tu veux une croissance d'AP rapide et la
+  sauvegarde PRINCIPALE est faite avant la montagne.
 
 20. MT. COREL ET NORTH COREL
 
-Route : traverse la montagne par le chemin du rail, puis poursuis le groupe
-vers North Corel. Pendant l'alerte du train, active les commandes rapidement et
-interagis avec chaque wagon avant la fin de la séquence.
+Route de collecte : avance jusqu'au point de sauvegarde des rails, puis traite
+les deux chutes avant d'actionner la cabine. Quand Cloud tombe, ne valide pas
+immédiatement : maintiens la direction indiquée et tape la touche d'action pour
+remonter vers l'objet.
 
-Coffres et objets :
+Objets et équipements :
 
-- Entrée de Mt. Corel : Star Pendant dans le premier détour à gauche.
-- Tunnel de rails, niveau inférieur : Transform Materia dans l'alcôve derrière
-  la passerelle, puis remonte par l'échelle centrale.
-- Maison de North Corel : W Machine Gun dans la pièce de Barret ; prends-le
-  avant de quitter le village.
-- Chemin de la montagne : Wizard Staff au fond de la grotte latérale, avant la
-  sortie vers le Gold Saucer.
-- Train de North Corel, premier wagon : actionne le levier pour accélérer.
-  Contrôle les objets de chaque wagon avant de sauter dans le dernier.
+- [COFFRE] Première chute, direction gauche : Wizard Staff pour Aeris.
+- [COFFRE] Deuxième chute, direction droite : Star Pendant. Au bout du chemin
+  supérieur, prends W Machine Gun pour Barret.
+- [COFFRE] Rails après la cabine : Turbo Ether et Transform Materia ; prends le
+  chemin supérieur avant le chemin inférieur.
+- [COFFRE] Nid au-dessus de la paroi grillagée : choisis « Take the treasure »
+  pour dix Phoenix Downs, puis bats le Cockatolis.
+- [COFFRE] Détour ferroviaire après l'abaissement du pont : Tent, Mind Source et
+  Power Source dans la salle latérale.
+- [MANQUABLE] Bomb sur les grands ponts : vole plusieurs Right Arms si tu veux
+  faciliter Battle Square ; l'objet n'est pas un succès mais reste utile.
+- North Corel, tente à l'est : Ether dans le pot au nord-est.
+- North Corel, boutique ouest : Force Stealer si la récompense de parade n'a pas
+  été choisie ; la boutique basse vend aussi Transform Materia.
 
-Enemy Skill : autour des plages, rencontre Beachplug et apprends Big Guard avec
-Manipulate. Elle est l'une des compétences les plus utiles pour les combats de
-fin, mais ne l'utilise pas comme preuve d'un succès avant de vérifier le menu.
+Enemy Skills et détour avant Gold Saucer :
 
-AVANT DE SORTIR
-
-- Star Pendant, Transform, W Machine Gun, Wizard Staff et les objets du train
-  sont contrôlés avant l'accès au Gold Saucer.
-- Big Guard est confirmée dans Enemy Skill et la sauvegarde AVANT MISSABLE est
-  faite avant la séquence du train de North Corel.
-
-21. GOLD SAUCER ET COREl PRISON
-
-Route : achète un pass, visite Wonder Square, Speed Square, Battle Square et
-Chocobo Square, puis suis l'équipe vers Corel Prison. Pendant la première visite,
-fais au moins un combat de Battle Square pour le succès dédié.
-
-Objets et matérias :
-
-- Wonder Square : Ramuh Materia, dans la zone de la salle des machines après
-  la séquence avec le Chocobo ; prends-la avant de quitter la salle.
-- Battle Square : conserve tes GP et BP. N'achète pas Omnislash avant d'avoir
-  vérifié que l'objet est bien disponible dans ta version.
-- Speed Square : vise 5000 points ou plus pour Flayer pendant une session de
-  nettoyage ; le résultat est nécessaire au contenu complet, pas à un succès
-  de l'histoire.
-- Corel Prison, maison de l'homme au chien : visite les pièces et ouvre les
-  coffres derrière les cloisons.
-- Corel Prison, zone du désert : contrôle les deux angles derrière les
-  carcasses de véhicules avant d'aller au prochain duel.
-
-Battle Square : déclenche un combat, puis fais une sauvegarde séparée. Les BP
-servent à Omnislash et à Final Attack plus tard ; ne les dépense pas en objets
-ordinaires avant d'avoir atteint la récompense souhaitée.
+- [MANQUABLE] Harpy dans un combat de Chocobo sur les traces à l'est du désert :
+  apprends Aqualung sur Enemy Skill.
+- [MANQUABLE] Beachplug sur la plage au sud de Costa del Sol : utilise Manipulate
+  pour apprendre Big Guard.
 
 AVANT DE SORTIR
 
-- Ramuh, le combat Battle Square et les objets des maisons et carcasses de Corel
-  Prison sont vérifiés avant le duel suivant.
-- Les GP et BP sont conservés dans la sauvegarde dédiée GOLD SAUCER.
+- [COFFRE] Wizard Staff, Star Pendant, W Machine Gun, Turbo Ether, Transform,
+  dix Phoenix Downs, Tent, Mind Source, Power Source et Ether sont contrôlés.
+- [MANQUABLE] Aqualung et Big Guard sont visibles dans la même Enemy Skill
+  Materia ; les Right Arms sont stockés si tu prévois Battle Square.
+- La sauvegarde AVANT MISSABLE est faite avant l'arrivée au Gold Saucer.
+
+21. GOLD SAUCER, BATTLE SQUARE ET COREL PRISON
+
+Gold Saucer : achète le pass temporaire, puis lis le panneau de Turtle's
+Paradise dans Ghost Square, à gauche de l'hôtel : c'est le flyer n°3. À Wonder
+Square, Cait Sith rejoint l'équipe avec Manipulate et Transform Materia. Pour le
+pass permanent, obtiens 300 GP au mini-jeu ou achète-le à l'entrée pour 30 000
+gils.
+
+Mini-jeux et objets à ne pas confondre :
+
+- [COFFRE] G-Bike : 10 000 points donnent Speed Source. Ce n'est pas un succès
+  de la version Steam 2013, mais la récompense compte pour la collection.
+- [MANQUABLE] Speed Square, roller coaster : 5 000 points ou plus donnent
+  Umbrella pour Aeris. C'est la seule fenêtre normale du disque 1 ; fais une
+  sauvegarde avant l'essai si tu veux conserver l'arme.
+- [SUCCES] Battle Square : lance au moins un combat pour le succès Battle Square.
+  Les BP sont perdus dès que tu quittes la salle, donc échange-les avant de
+  sortir.
+- [COFFRE] Récompenses initiales de Battle Square à prévoir pour Materia
+  Overlord : Fury Ring, Enemy Lure, Pre-Emptive et Speed Plus ; Champion Belt
+  devient disponible à 40 960 BP. Après une série complète de huit combats,
+  parle à l'employée pour Sprint Shoes.
+
+Corel Prison : après les scènes, soigne-toi gratuitement dans la cabine du
+camion et sauvegarde avant le désert. Les zones générales de la prison ne
+contiennent pas de coffre unique ; le contenu important est dans le junkyard et
+la salle des jockeys.
+
+- [MANQUABLE] Junkyard : vole Platinum Bangle sur Death Claw et apprends Laser
+  avec Enemy Skill. Manipulate rend l'apprentissage fiable.
+- [BOSS] Dyne : contrôle Silver Armlet après la victoire.
+- [MANQUABLE] Salle des jockeys : dès que Cloud reprend le contrôle, ramasse
+  Ramuh Materia au sol près du mur nord, avant de gagner une course. La salle
+  devient inaccessible après la course gagnée.
+- Gagne une course pour obtenir le Buggy et ouvrir les routes de carte libre.
+
+AVANT DE SORTIR
+
+- [COFFRE] Flyer n°3, Manipulate, Transform, Speed Source, les récompenses
+  Battle Square, Platinum Bangle, Silver Armlet et Ramuh sont contrôlés.
+- [MANQUABLE] Umbrella, Laser et la récompense Ramuh sont notés avant la course ;
+  la sauvegarde GOLD SAUCER est conservée séparément.
 
 22. BUGGY, GONGAGA ET COSMO CANYON
 
-Route : après Dyne et la course de Chocobo, récupère le buggy. Utilise-le pour
-visiter Gongaga avant Cosmo Canyon, puis reviens sur la carte si un détour est
-nécessaire.
+Détours avec le Buggy : ne le gare pas directement contre Cosmo Canyon ; un
+contact trop proche peut le casser et fermer la fenêtre de la bataille n°5 de
+Fort Condor.
 
-Coffres et objets :
+- [MANQUABLE] Junon/Fort Condor : Manipule Zemzelett pour apprendre White Wind.
+- [MANQUABLE] Grotte au nord-est de Junon, de l'autre côté de la rivière : fais
+  terminer le compteur de combats par un nombre impair pour obtenir Mythril.
+  C'est le Mythril nécessaire à Great Gospel ; un nombre pair donne Bolt Ring,
+  et 00 ne donne rien.
+- Fort Condor, bataille n°4 : gagne pour Megalixir.
 
-- Gongaga, réacteur : Titan Materia à l'extérieur du réacteur, au sol entre les
-  deux branches ; ramasse-la avant de parler au groupe.
-- Gongaga, camp : Deathblow Materia dans la maison du marchand, après avoir
-  inspecté la zone de droite.
-- Gongaga, route sud : Fairy Tale, arme d'Aeris, dans le coffre près du chemin
-  rocheux.
-- Cosmo Canyon, boutique d'armes : Gravity Materia et armures ; achète une
-  troisième armure à croissance normale pour le futur grind.
-- Cosmo Canyon, observatoire : visite Bugenhagen, inspecte les deux couloirs
-  latéraux et prends les objets avant de redescendre.
-- Cave of the Gi : Fairy Ring, Added Effect Materia et X-Potion dans les
-  embranchements hors de la route principale. Chaque coffre est avant la salle
-  du boss ; ne prends pas la sortie centrale sans les trois contrôles.
+Gongaga, dans l'ordre :
+
+- [BOSS] Reno et Rude : bats les deux avant leur fuite pour obtenir Fairy Tale
+  sur Reno et X-Potion sur Rude.
+- [COFFRE] Réacteur : fouille le sol sombre à droite de la bifurcation où
+  l'ennemi est apparu pour Titan Materia.
+- Boutique ouest : Mystify et Time Materia ; achète une copie de chaque.
+- [COFFRE] Auberge au nord-ouest : X-Potion. Maison la plus au nord : White
+  M-Phone pour Cait Sith. Sur l'écran de jungle à l'ouest, Deathblow Materia.
+- [MANQUABLE] Forêts autour de Gongaga : Touch Me peut utiliser Frog Song sur
+  Enemy Skill.
+
+Cosmo Canyon et Cave of the Gi :
+
+- [COFFRE] Auberge au nord du feu de camp : lis Turtle's Paradise n°5 et prends
+  Elixir dans la chambre ouest.
+- [COFFRE] À côté de la boutique d'armes : lis Turtle's Paradise n°4.
+- Boutique de matérias : achète HP Plus et MP Plus ; la boutique d'armes fournit
+  les améliorations utiles sans objet unique au sol.
+- Fort Condor, bataille n°5 : avant de descendre dans la grotte, gagne pour cinq
+  Hi-Potions.
+- [MANQUABLE] Gi Spector ou Sneaky Step : apprends Death Sentence.
+- [COFFRE] Cave of the Gi : Added Effect dans la salle de glu ; Black M-Phone et
+  Ether dans la salle suivante ; X-Potion dans la deuxième entrée des toiles ;
+  Fairy Ring dans la branche suivante ; Turbo Ether au nord avant le boss.
+- [BOSS] Gi Nattak : Wizer Staff tombe après le combat. Après la scène, prends
+  Gravity Materia et contrôle Seraph Comb quand Red XIII rejoint l'équipe.
+- Fort Condor, bataille n°6 : gagne ensuite pour cinq Hi-Potions.
 
 AVANT DE SORTIR
 
-- Titan, Deathblow, Fairy Tale, Gravity, Fairy Ring, Added Effect et X-Potion
-  sont contrôlés avant la sortie de Cave of the Gi.
-- La sauvegarde BOSS est conservée avant la salle finale et la sauvegarde
-  PRINCIPALE est faite à Cosmo Canyon.
+- [COFFRE] White Wind, Mythril, Megalixir, Fairy Tale, X-Potion, Titan,
+  Deathblow, Frog Song, les deux flyers, Elixir, HP Plus, MP Plus, Added Effect,
+  Black M-Phone, Ether, Fairy Ring, Turbo Ether, Wizer Staff, Gravity et Seraph
+  Comb sont contrôlés.
+- [MANQUABLE] Le Mythril est réservé à Great Gospel ; Death Sentence et White
+  Wind sont dans la même Enemy Skill Materia que les compétences précédentes.
+- La sauvegarde BOSS est faite avant Gi Nattak et la sauvegarde PRINCIPALE après
+  le retour de Red XIII.
 
 23. NIBELHEIM ET MANOIR SHINRA
 
-Route : entre dans Nibelheim, visite les maisons, puis le manoir. Le manoir
-contient deux routes : le coffre-fort pour Vincent et la bibliothèque secrète.
-Fais les deux avant la sortie.
+Route : visite d'abord les maisons de Nibelheim, puis le manoir. Les hommes en
+cape noire quittent parfois la pièce après leur récompense : vérifie chaque
+maison avant d'entrer dans le manoir.
 
-Coffres et objets :
+Objets de Nibelheim :
 
-- Nibelheim, maison du fond : Elixir auprès du personnage en robe, après avoir
-  parlé à tous les habitants.
-- Manoir, rez-de-chaussée : Silver M-phone dans la salle ouest ; vérifie le
-  coffre près des escaliers.
-- Manoir, étage : Twin Viper dans la salle de droite ; Magic Source dans la
-  salle de gauche.
-- Manoir, bibliothèque : lis l'indice du coffre-fort. La combinaison est
-  saisie avec les directions et les secondes exactes ; ne dépasse pas un
-  nombre en tournant.
-- Coffre-fort : saisis 36 à droite, 10 à gauche, 59 à droite puis 97 à droite.
-  Arrête chaque rotation exactement sur le nombre indiqué, ouvre le coffre,
-  bats Lost Number et prends Odin Materia sur le sol.
-- Passage souterrain : prends Basement Key, puis ouvre la porte de la cellule
-  et parle à Vincent. Vérifie qu'il est disponible dans le menu avant de sortir.
+- [COFFRE] Maison à gauche en entrant : parle à l'homme en cape noire au fond
+  pour Luck Source.
+- [COFFRE] Maison suivante : parle à l'homme en cape noire pour Elixir.
+- [COFFRE] Maison de Tifa : Turbo Ether à l'arrière et Platinum Fist à l'étage.
+- [COFFRE] Dernière maison : Luck Source auprès du dernier homme en cape noire.
 
-Utilise Galian Beast dans le premier combat de Vincent pour son succès. Termine
-la première limite de Vincent dès qu'il rejoint l'équipe.
+Manoir Shinra, ordre sûr :
+
+- [MANQUABLE] Jersey, ennemi flottant avec des balances : laisse-le à ses PV
+  maximum pour apprendre ???? sur Enemy Skill.
+- [COFFRE] Rez-de-chaussée, salle ouest : Silver M-phone pour Cait Sith.
+- [COFFRE] Rez-de-chaussée, salle nord-est : Twin Viper pour Yuffie.
+- [COFFRE] Étage, salle ouest : Enemy Launcher pour Barret. Salle est : Magic
+  Source, puis inspecte le mur pour ouvrir le passage secret.
+- [COFFRE] Bibliothèque souterraine : Destruct Materia après la scène.
+- [MANQUABLE] Coffre-fort de la salle ouest du 2e étage : saisis 36 à droite,
+  10 à gauche, 59 à droite puis 97 à droite. Ne dépasse jamais un nombre en
+  tournant. La victoire contre Lost Number donne Cosmo Memory ; récupère aussi
+  Odin Materia et Basement Key dans la zone du coffre.
+- [COFFRE] Sous-sol : ouvre la cellule avec Basement Key, parle à Vincent et
+  vérifie son recrutement avant de quitter le manoir.
+
+La sauvegarde du coffre-fort doit être séparée : une erreur de rotation impose
+de recharger avant la validation du dernier nombre. Galian Beast sera utilisée
+dans un combat immédiatement après le recrutement pour son succès.
 
 AVANT DE SORTIR
 
-- Les objets du manoir, le code du coffre-fort, Odin Materia, Basement Key et
-  Vincent sont tous contrôlés avant de quitter Nibelheim.
-- Galian Beast est utilisée et son succès est vérifié ; la sauvegarde AVANT
-  MISSABLE est conservée avec Vincent recruté.
+- [COFFRE] Les quatre récompenses de Nibelheim, Silver M-phone, Twin Viper,
+  Enemy Launcher, Magic Source, Destruct, Cosmo Memory, Odin et Basement Key
+  sont contrôlés.
+- [MANQUABLE] ???? est apprise sur Jersey ; Vincent est dans l'équipe et la
+  sauvegarde AVANT MISSABLE est conservée.
 
-24. MT. NIBEL ET ROCKET TOWN
+24. MT. NIBEL, MATERIA KEEPER ET ROCKET TOWN
 
-Coffres de Mt. Nibel, dans le sens de la progression :
+Mt. Nibel, dans le sens de la progression :
 
-- Premier bassin : Rune Blade dans le coffre de la corniche basse.
-- Conduites rouges : Powersoul près de la passerelle étroite.
-- Salle des tuyaux : Plus Barrette sur la plateforme arrière.
-- Embranchement de la cascade : Elemental Materia au sol, derrière le chemin
-  qui descend vers les tuyaux.
-- Chemin de la Materia Keeper : Rune Armlet et Turbo Ether dans les deux
-  coffres avant l'arène.
-- Après Materia Keeper : redescends par l'ouverture cachée à gauche, puis prends
-  Elixir dans la salle inférieure avant de remonter.
+- [COFFRE] Premier coffre après l'entrée : Rune Blade pour Cloud.
+- [COFFRE] Avant le pont de corde, détour en hauteur : Plus Barrette pour Red
+  XIII.
+- [COFFRE] Salle des cinq conduites : glisse par le tuyau n°2 pour Powersoul,
+  puis par le n°4 pour All Materia.
+- [COFFRE] Première grotte : Elixir dans le passage qui remonte vers le nord.
+- [COFFRE] Deuxième grotte : Elemental Materia dans le petit bassin d'eau.
+- [COFFRE] Troisième grotte : Sniper CR pour Vincent au nord-est.
+- [MANQUABLE] Avant le combat, équipe Enemy Skill. Materia Keeper utilise Trine
+  après Cure2, sous la moitié de ses PV ; apprends-la avant de l'achever.
+- [BOSS] Materia Keeper laisse Jem Ring. Après la victoire, prends Counter
+  Attack Materia à l'endroit du boss puis redescends par le passage secret pour
+  récupérer l'Elixir restant si tu ne l'as pas pris.
 
 Rocket Town :
 
-- Boutique d'armes : Drill Arm pour Barret, Dragon Lance pour Cid et Carbon
-  Bangle. Achète au moins l'arme de Cid si tes gils le permettent.
-- Maison de Cid : Yoshiyuki dans la caisse au fond de l'atelier.
-- Plateforme du Tiny Bronco : Power Source et le coffre latéral avant de parler
-  à Palmer.
-- Après la scène, récupère Cid et utilise Boost Jump dans le premier combat où
-  sa limite est chargée.
+- Boutique de matérias : achète Barrier et Exit ; la boutique d'objets permet de
+  compléter les soins et les Tranquilizers.
+- [MANQUABLE] Parle deux fois au vieil homme devant la boutique, inspecte la
+  fusée et récupère Yoshiyuki. Ne quitte pas la ville sans l'arme.
+- [COFFRE] Maison à l'est : Power Source. Maison au nord-est : Drill Arm pour
+  Barret.
+- Fort Condor, bataille n°7 : après la scène du Tiny Bronco, gagne pour Superball
+  de Yuffie. C'est la dernière récompense d'arme unique de Fort Condor.
+- [BOSS] Palmer : contrôle Edincoat après le combat. Cid rejoint l'équipe et le
+  Tiny Bronco permet d'atteindre les plages et les rivières peu profondes.
 
 AVANT DE SORTIR
 
-- Les objets de Mt. Nibel, Yoshiyuki, Power Source et le coffre du Tiny Bronco
-  sont contrôlés avant la scène de Palmer.
-- Cid est recruté, Boost Jump est utilisé et la sauvegarde PRINCIPALE est faite
-  avant le retour vers le Gold Saucer.
+- [COFFRE] Rune Blade, Plus Barrette, Powersoul, All, Elixir, Elemental, Sniper
+  CR, Counter Attack, Power Source, Drill Arm et Yoshiyuki sont contrôlés.
+- [MANQUABLE] Trine, ???? et Yoshiyuki sont validés ; Cid, Superball et Edincoat
+  sont notés dans la sauvegarde PRINCIPALE.
 
 25. KEYSTONE, GOLD SAUCER ET TEMPLE OF THE ANCIENTS
 
-Route : reviens au Gold Saucer, obtiens la Keystone par la séquence de Battle
-Square, puis prends le chemin vers Temple of the Ancients. Fais une sauvegarde
-avant l'entrée du temple : les objets et les matérias du donjon ne doivent pas
-être laissés derrière.
+Gold Saucer : reviens à Battle Square, sauvegarde avant la série obligatoire et
+termine les huit combats si tu veux les récompenses maximales. Une victoire
+complète donne Protect Vest et Choco Feather ; n'utilise pas Smoke Bomb au
+dernier combat si tu veux Choco Feather. Après les scènes, prends Elixir dans le
+placard cylindrique de la chambre de Cloud. Fort Condor, bataille n°9 donne
+trois Turbo Ethers.
 
-Temple of the Ancients, objets :
+Temple of the Ancients : c'est un donjon à passage unique. Sauvegarde à
+l'entrée et traite les objets dans cet ordre :
 
-- Première salle de couloirs : Trident dans le coffre de la branche basse.
-- Salle des horloges : positionne l'aiguille sur les salles latérales et ouvre
-  chaque porte accessible avant de régler la route principale.
-- Chambre des pièges roulants : prends Ribbon dans le coffre derrière la
-  seconde rangée de pierres, puis reviens au centre.
-- Salle des escaliers : Princess Guard dans le coffre du niveau supérieur.
-- Salle du couloir descendant : Nail Bat pour Cloud au bout du chemin sans
-  porte, avant le boss du secteur.
-- Salle des peintures : Morph Materia au sol après avoir terminé l'énigme.
-- Chambre de la clock room : prends la materia Bahamut dans la salle indiquée
-  par le cadran, puis vérifie son apparition dans le menu.
+- [COFFRE] Première route : Trident pour Cid, puis Mind Source et Silver Rifle
+  pour Vincent dans la salle du marchand.
+- [COFFRE] Route sud : Turbo Ether, Rocket Punch pour Barret et Luck Plus
+  Materia sur la longue liane.
+- [MANQUABLE] Salle des rochers roulants : Morph Materia se trouve sur le trajet
+  avant la sortie de l'énigme.
+- [COFFRE] Salle de l'horloge : IV donne Princess Guard, V Ribbon, VII Trumpet
+  Shell et VIII Megalixir. Fais tomber Cloud avec la grande aiguille pour
+  atteindre Nail Bat, puis reviens dans la salle.
+- [COFFRE] Énigme des portes : après avoir trouvé le passage, ouvre la porte du
+  niveau intermédiaire pour Work Glove de Tifa.
+- [BOSS] Red Dragon : contrôle Dragon Armlet et ramasse Bahamut Materia après
+  la victoire. Bahamut est définitivement ratable si tu quittes la salle sans
+  la sphère.
+- [BOSS] Demons Gate : prépare une résistance à Earth et contrôle Gigas Armlet
+  après le combat. Vérifie l'équipement d'Aeris avant la transition suivante.
 
-Après la sortie du Temple, ne supprime pas la sauvegarde du début du disque 2.
-Elle sert de point de retour pour les dernières limites et le Gold Chocobo.
+Le temple se termine par une transition irréversible. Garde une sauvegarde du
+début du disque 2 et n'enregistre pas par-dessus la sauvegarde de la zone tant
+que Morph, Bahamut et les récompenses de l'horloge ne sont pas contrôlés.
 
 AVANT DE SORTIR
 
-- Trident, Ribbon, Princess Guard, Nail Bat, Morph, Bahamut et les objets des
-  salles d'horloge sont contrôlés avant la sortie du Temple.
-- La sauvegarde du début du disque 2 est conservée, et une sauvegarde BOSS est
-  faite avant la transition vers la partie suivante.
+- [COFFRE] Protect Vest, Choco Feather, Elixir de la chambre, trois Turbo Ethers,
+  Trident, Mind Source, Silver Rifle, Turbo Ether, Rocket Punch, Luck Plus,
+  Morph, Princess Guard, Ribbon, Trumpet Shell, Megalixir, Nail Bat, Work Glove,
+  Dragon Armlet et Bahamut sont contrôlés.
+- [MANQUABLE] Morph, Bahamut et les objets du Temple sont validés avant la
+  transition ; la sauvegarde du début du disque 2 est conservée.
 
 PARTIE IV - FIN DU PREMIER DISQUE ET DÉBUT DU SECOND
 
-26. BONE VILLAGE ET CITY OF THE ANCIENTS
+26. BONE VILLAGE, SLEEPING FOREST ET CITY OF THE ANCIENTS
 
-Bone Village :
+Avant de creuser, gagne la bataille n°10 de Fort Condor pour cinq X-Potions.
+Dans Bone Village, le premier creusement obligatoire est Lunar Harp : choisis
+la recherche, place le point dans la partie haute juste à gauche de la fumée,
+puis vérifie le coffre le lendemain. Si le coffre ne donne pas Lunar Harp,
+recommence sans quitter le village.
 
-- Parle au chef de fouille et place les ouvriers sur le niveau supérieur.
-- Creuse Lunar Harp sur l'emplacement marqué, puis récupère les coffres issus
-  de la fouille : Buntline, Megalixir, Mop ou Turbo Ether selon le résultat.
-- Après le retour de Cloud à Mideel, reviens creuser Key to Sector 5. Cette clé
-  ouvre l'ancien secteur et la route de nettoyage de Midgar.
+Fouilles utiles après Lunar Harp :
 
-Sleeping Forest : prends Kjata Materia dans la première clairière où la sphère
-se déplace entre les arbres. Si elle n'apparaît pas, quitte l'écran puis
-reviens avant de continuer.
+- [COFFRE] Fouille « Good treasure », site 2 : Buntline pour Vincent.
+- [COFFRE] Fouille « Good treasure », site 3 : Megalixir.
+- [COFFRE] Fouille « Good treasure », site 4 : Mop pour Cid.
+- Les sites de trésor normal donnent des Ether, Turbo Ether et Elixir
+  répétables. Les objets de rattrapage Phoenix, Bahamut ZERO et W-Item
+  n'apparaissent que si leur récupération principale a été manquée.
+- Après le retour de Cloud à Mideel, reviens creuser Key to Sector 5 dans les
+  sites de trésor normal ; elle ouvre le nettoyage de Midgar au disque 2.
+
+Sleeping Forest : sur le deuxième écran, prends Kujata Materia si elle n'a pas
+encore été ramassée. Sur le troisième écran, récupère Water Ring avant le tronc.
+Dans la forêt du tronc, vole ou gagne Dazers sur Boundfat ; garde-en au moins un
+pour la préparation de Ruby Weapon.
 
 City of the Ancients :
 
-- Maison nord : Aurora Armlet dans le coffre du rez-de-chaussée.
-- Maison centrale : Guard Source dans la chambre latérale.
-- Passage des escaliers : Comet Materia au sol après le second écran.
-- Temple des maisons : Enemy Skill et Megalixir dans les coffres latéraux ;
-  vérifie les deux avant d'entrer dans la zone finale de la ville.
+- [COFFRE] Maison ouest avec le point de sauvegarde : Magic Source.
+- [COFFRE] Maison au nord, après les escaliers : Aurora Armlet.
+- [COFFRE] Première maison à l'est : Guard Source. Deuxième maison à l'est :
+  Elixir et troisième Enemy Skill Materia derrière le lit supérieur ; repose-toi
+  ici pour débloquer la suite.
+- [COFFRE] Chemin nord, en haut de la rampe translucide : Comet Materia.
+- Fort Condor, bataille n°11 : cinq X-Potions après la forêt. Bataille n°12 :
+  cinq X-Potions avant la salle finale de la Cité.
+- [BOSS] Jenova*LIFE : contrôle Wizard Bracelet après la victoire.
 
 AVANT DE SORTIR
 
-- Lunar Harp, les récompenses de fouille, Kjata, Aurora Armlet, Guard Source,
-  Comet, Enemy Skill et Megalixir sont contrôlés avant la zone finale.
-- Key to Sector 5 est notée comme nettoyage ultérieur et la sauvegarde AVANT
-  MISSABLE est conservée avant Great Glacier.
+- [COFFRE] Lunar Harp, Buntline, Megalixir, Mop, Kujata, Water Ring, Dazers,
+  Magic Source, Aurora Armlet, Guard Source, Elixir, troisième Enemy Skill,
+  Comet, les deux récompenses Fort Condor et Wizard Bracelet sont contrôlés.
+- [MANQUABLE] La sauvegarde AVANT MISSABLE est conservée avant la zone finale ;
+  Key to Sector 5 est notée pour le nettoyage du disque 2.
 
-27. GREAT GLACIER ET GAIA'S CLIFF
+27. RETOUR À LA CITÉ, ICICLE INN, GREAT GLACIER ET GAEA'S CLIFF
 
-À l'arrivée dans Icicle Area, parle au personnage du village pour obtenir
-Snowboard. Prends Glacier Map sur le mur de la maison avant de partir.
+Début du disque 2 : gagne la bataille n°13 de Fort Condor pour trois Elixirs,
+puis reviens à la Cité des Anciens par le nouveau chemin nord-est :
 
-Great Glacier, route de collecte :
+- [COFFRE] Tourne autour de la coquille par la gauche pour Viper Halberd.
+- [COFFRE] Dans la grotte, deuxième fissure puis gauche : Bolt Armlet ; à droite
+  de cette fissure : Hypnocrown, puis Megalixir en remontant.
+- [COFFRE] Longue échelle ouest : Magic Plus Materia, puis Power Source dans la
+  grotte supérieure.
 
-- Premier écran enneigé : Potion et Tincture près du chemin balisé.
-- Carrefour de la rivière gelée : Added Cut Materia dans la branche gauche.
-- Maison enneigée : Alexander Materia après avoir obtenu les réponses de la
-  source chaude et parlé au personnage de la zone.
-- Champ de neige central : All Materia sur la corniche qui nécessite de
-  revenir depuis l'écran supérieur.
-- Forêt enneigée : Safety Bit et Mind Source près du bord de l'écran.
-- Dernier écran avant Gaia's Cliff : Fire Armlet, puis sauvegarde sur le point
-  avant l'escalade.
+Icicle Inn :
 
-Ne marche pas en rond après le repère de température : si Cloud tombe, la
-route recommence dans une zone précédente. Utilise les repères de direction de
-la fiche et ouvre les objets avant chaque retour au chalet.
+- [COFFRE] Maison à droite : prends Glacier Map au mur, puis Hero Drink et
+  Vaccine dans la même maison.
+- [COFFRE] Auberge, étage : X-Potion dans le coin gauche.
+- [COFFRE] Maison nord-ouest : Turbo Ether en bas de l'escalier.
+- Maison centrale : prends Snowboard auprès de l'enfant. Sauvegarde avant de
+  parler au guide nord pour lancer la descente.
 
-Gaia's Cliff : prends Enhance Sword, Viper Halberd, Enhance Armlet, Ribbon et
-Elixir dans les corniches et les grottes latérales. Les deux Ribbons sont à
-conserver : un sert aux combats de fin, l'autre à la route de nettoyage.
+Great Glacier : choisis droite puis gauche aux deux embranchements du
+Snowboard ; tu arrives près du pin isolé, repère 7. La zone fonctionne avec un
+compteur de pas et Cloud finit par rejoindre le chalet de Holzoff : ne recharge
+pas en pensant avoir perdu la route, utilise le retour par le chalet.
+
+- [COFFRE] Depuis le pin, va au sud jusqu'au lac gelé et prends Potion sur la
+  glace. Rejoins ensuite la zone de glace repère 5.
+- [COFFRE] Puzzle de glace : depuis le bloc de départ, fais N, O, S, O, N, E,
+  N, N, N, O, S, E, E, N pour Safety Bit. Pour revenir, fais O, S, E, E, S, O,
+  S, E, S, O.
+- [COFFRE] Forêt dense au sud-ouest du lac : Mind Source au nord.
+- [COFFRE] Depuis cette forêt, pars à l'ouest puis vers la grotte enneigée :
+  Elixir.
+- [COFFRE] Après le passage par le chalet, rejoins le grand champ enneigé et
+  prends All Materia dans la grotte centrale.
+- [COFFRE] Retourne au pin, pars à l'est puis au carrefour à quatre branches ;
+  sur la branche nord-est, Added Cut Materia.
+- Source chaude : touche l'eau dans le bassin gauche, puis rejoins le champ
+  enneigé et la grotte au nord-est. La créature des neiges donne Alexander
+  Materia après le combat ; vole Circlet avant de l'achever.
+
+Gaia's Cliff : maintiens la température au-dessus de 26 degrés en martelant la
+touche d'action. Équipe Ribbon avant les rencontres extérieures.
+
+- [MANQUABLE] Malboro dehors : apprends Bad Breath sur Enemy Skill.
+- [MANQUABLE] Stilva dans les grottes : apprends Magic Breath et, si besoin,
+  Trine. C'est la dernière fenêtre de Trine avant le nettoyage du disque 3.
+- [COFFRE] Première grotte, passage nord puis sud-ouest : Javelin pour Cid.
+  Reviens légèrement en arrière et traverse le mur sud-est caché pour Ribbon.
+- [COFFRE] Après le rocher déplacé : Elixir, puis dans la salle des stalactites
+  Fire Armlet à droite et Megalixir à gauche. Fais tomber les quatre stalactites
+  avant de descendre, puis récupère Speed Source dans la salle de départ.
+- [COFFRE] Après la piscine de soin : Enhance Sword pour Cloud.
+- [BOSS] Schizo : vole Protect Ring sur la tête droite et contrôle Dragon Fang
+  sur la tête gauche. La piscine précédente est un point de sauvegarde et de
+  soin idéal avant le combat.
 
 AVANT DE SORTIR
 
-- Snowboard, Glacier Map, Added Cut, Alexander, All, Safety Bit, Mind Source,
-  Fire Armlet, les objets de Gaia's Cliff et les deux Ribbons sont contrôlés.
-- La sauvegarde BOSS est faite avant l'escalade et la sauvegarde PRINCIPALE est
-  renouvelée avant Whirlwind Maze.
+- [COFFRE] Trois Elixirs, Viper Halberd, Bolt Armlet, Hypnocrown, Megalixir,
+  Magic Plus, Power Source, Glacier Map, Hero Drink, Vaccine, X-Potion, Turbo
+  Ether, Potion, Safety Bit, Mind Source, Elixir, All, Added Cut, Alexander,
+  Circlet, Javelin, Ribbon, Fire Armlet, Megalixir, Speed Source et Enhance
+  Sword sont contrôlés.
+- [MANQUABLE] Bad Breath, Magic Breath et Trine sont visibles dans Enemy Skill ;
+  la sauvegarde BOSS est conservée avant Schizo.
 
 28. WHIRLWIND MAZE
 
-Route : dans les courants d'air, avance seulement quand le flux retombe. Les
-coffres apparaissent sur les plateformes où Cloud doit se baisser ; contrôle
-chaque embranchement avant la tente de repos.
+Ce donjon est à passage unique. Dans la pente d'entrée, vole Gigas Armlet sur
+Gigas avant de continuer ; conserve aussi une sauvegarde avant les vents.
 
-Objets et matérias :
+- [MANQUABLE] Neo Bahamut Materia est posée au sol avant le point de sauvegarde.
+- [COFFRE] Après le point de sauvegarde, inspecte les corps en cape pour
+  Hi-Potion et Ether.
+- [COFFRE] Descente en lacets : Kaiser Knuckle pour Tifa.
+- [BOSS] Jenova*DEATH : contrôle Reflect Ring après le combat.
+- [COFFRE] Après les scènes, prends MP Turbo Materia puis Poison Ring avant le
+  prochain mur de vent. Ne traverse pas la zone suivante sans ces deux objets.
 
-- Premier embranchement : Neo Bahamut Materia au sol dans la zone lumineuse.
-- Plateforme haute : MP Turbo Materia derrière le pilier, avant le point de
-  sauvegarde.
-- Couloir de rochers : Enhance Sword ou Guard Source selon la salle ; ouvre
-  tous les coffres avant de redescendre.
-- Dernier camp : Elixir et Megalixir dans les deux coffres à droite de la
-  tente.
-
-Avant de déclencher la sortie, équipe Enemy Skill, conserve la sauvegarde et
-vérifie que Bahamut et Neo Bahamut sont dans le menu. La suite lance la partie
-centrale du disque 2 et déplace la route vers Junon.
+Prépare Fire, Restore et Enemy Skill avant Jenova*DEATH. Le passage vers la
+partie suivante lance l'événement de fin de disque : crée une sauvegarde
+séparée et vérifie que Bahamut et Neo Bahamut sont dans le menu.
 
 AVANT DE SORTIR
 
-- Neo Bahamut, MP Turbo, la récompense de la branche et les deux coffres du
-  dernier camp sont contrôlés avant la sortie.
-- Bahamut et Neo Bahamut sont visibles dans le menu ; la sauvegarde du début du
-  disque 2 reste disponible en cas d'oubli.
+- [COFFRE] Gigas Armlet, Neo Bahamut, Hi-Potion, Ether, Kaiser Knuckle, Reflect
+  Ring, MP Turbo et Poison Ring sont contrôlés.
+- [MANQUABLE] La sauvegarde de fin de disque est conservée avec Trine, Bad
+  Breath, Magic Breath, Bahamut et Neo Bahamut déjà validés.
 
 29. JUNON, MIDEEL ET LA PREMIÈRE VISITE DU HIGHWIND
 

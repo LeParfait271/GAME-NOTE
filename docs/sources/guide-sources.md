@@ -210,6 +210,9 @@ conditions difficiles ; elles ne justifient jamais une copie mot a mot.
   infiltration de la Shinra recoupes avec une FAQ objets et un walkthrough.
 - Mise a jour : Kalm, Chocobo Ranch, Enemy Skills precoces, Mythril Mines,
   Fort Condor, Junon et Cargo Ship recoupes avec le walkthrough RPG Site.
+- Mise a jour : Costa del Sol, Mt. Corel, Gold Saucer, Corel Prison, Gongaga,
+  Cosmo Canyon, Nibelheim, Temple, Bone Village, Great Glacier et Whirlwind
+  Maze recoupes avec le walkthrough RPG Site et les tables d'objets associees.
 
 ## FINAL FANTASY IX
 

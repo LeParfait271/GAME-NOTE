@@ -156,6 +156,18 @@ mise à jour est refusé, même si le code ou la fiche fonctionne.
 - Limite restante : Costa del Sol jusqu'à la Northern Cave doit encore être
   repris avec le même niveau de précision avant de considérer la fiche complète.
 
+### Lot FFVII — Costa del Sol jusqu'à la fin du disque 1
+
+- Périmètre livré : Costa del Sol, Mt. Corel, Gold Saucer, Corel Prison, Gongaga,
+  Cosmo Canyon, Nibelheim, Mt. Nibel, Rocket Town, Temple of the Ancients, Bone
+  Village, City of the Ancients, Great Glacier, Gaea's Cliff et Whirlwind Maze.
+- Méthode ajoutée : les fouilles, mini-jeux, branches de donjons et récompenses
+  de boss sont inscrits dans l'ordre avec leur fenêtre de sauvegarde ; les
+  objets de rattrapage et les équipements uniques restent distingués des
+  succès Steam.
+- Limite restante : le disque 2, le raid de Midgar et le nettoyage final doivent
+  encore être relus au même niveau avant le statut complet.
+
 ## Seuil de profondeur Game Note
 
 Une fiche ne peut plus être considérée comme complète parce qu'elle contient

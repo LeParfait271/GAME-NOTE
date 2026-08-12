@@ -26,6 +26,10 @@ Ce fichier fixe la méthode minimale avant toute modification visible du site.
     barème, la récompense exacte et la possibilité de la récupérer plus tard.
     Les équipements volables sur un ennemi et les matérias posées au sol sont
     contrôlés comme des objets, même lorsqu'ils ne débloquent aucun succès.
+11. Pour les donjons à passage unique de FFVII, donner l'ordre des branches,
+    les objets de retour et le point de sauvegarde avant le boss. Une route ne
+    peut pas être déclarée complète si elle décrit seulement l'objectif de la
+    zone sans traiter les récompenses de ses énigmes et de ses combats.
 
 Toute nouvelle règle durable doit être ajoutée à GAME_NOTE_RULES.md et
 transformée en validation automatique quand c'est possible.

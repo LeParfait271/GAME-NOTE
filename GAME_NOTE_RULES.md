@@ -50,6 +50,11 @@ statique Cloudflare Pages.
   posée au sol doivent être vérifiés même s'ils ne sont pas liés à Steam ; le
   guide doit dire clairement si l'objet est unique, achetable plus tard ou
   facultatif.
+- Les donjons FFVII à passage unique doivent avoir un ordre de branches, un
+  contrôle d'énigme et un point de sauvegarde avant le boss. Les objets obtenus
+  par une interaction, une chute, une fouille ou un combat doivent figurer dans
+  le checkpoint de la zone ; une liste de noms sans emplacement concret ne
+  passe pas le seuil de profondeur.
 - Pour la phase actuelle, les repères visuels sont activés uniquement sur
   `final-fantasy-vii-2013`. `[COFFRE]` couvre tous les objets à récupérer
   (coffres, matérias, collectibles et récompenses) ; les marqueurs
