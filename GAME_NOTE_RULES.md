@@ -14,6 +14,8 @@ statique Cloudflare Pages.
   catalogue sans preuve et sans demande explicite.
 - Documenter toute convention nouvelle et ajouter un contrôle automatisé
   lorsqu'elle est vérifiable.
+- Après chaque modification du dépôt, créer un commit Git local décrivant le
+  lot réalisé ; ne jamais pousser automatiquement vers GitHub.
 - Ne pas versionner de secret, de clé privée, de fichier .env ou d'artefact
   local.
 
@@ -29,6 +31,9 @@ statique Cloudflare Pages.
 - Un guide actif doit conserver une route chronologique, son périmètre Steam,
   ses alertes missables et sa règle anti-spoiler. Les guides spéciaux peuvent
   documenter explicitement l'absence de succès Steam.
+- Les repères `[COFFRE]`, `[MATERIA]`, `[OBJET]`, `[SAUVEGARDE]`, `[MANQUABLE]`,
+  `[SUCCES]` et `[BOSS]` sont réservés aux lignes actionnables et doivent
+  rester cohérents avec la légende du lecteur.
 - Les textes ne doivent pas contenir de caractère de remplacement UTF-8 (�),
   de contenu vide ou de doublon d'identifiant.
 - Les nouvelles cartes doivent garder un nom accessible pour chaque bouton et

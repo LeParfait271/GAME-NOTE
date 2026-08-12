@@ -137,6 +137,36 @@ doit passer `scripts/audit-guide-quality.mjs` et sa relecture manuelle :
 - une fiche trop courte ou trop générique reste `draft`/`research`, même si le
   contrôle structurel historique passe.
 
+## Repères visuels du lecteur premium
+
+Les fichiers TXT restent la source hors ligne et doivent rester lisibles sans
+le site. Les repères visuels ajoutés par le lecteur servent uniquement à
+accélérer le balayage d'une route : ils ne remplacent jamais un emplacement,
+une quantité, une condition ou une consigne écrite.
+
+Le lecteur reconnaît ces marqueurs explicites lorsqu'ils sont placés au tout
+début de la ligne, avant le tiret ou la case à cocher :
+
+- `[COFFRE]` : coffre, récompense ou butin à relever ;
+- `[MATERIA]` : matéria, compétence ou amélioration assimilée ;
+- `[OBJET]` : objet important, interaction ou collectible ;
+- `[SAUVEGARDE]` : sauvegarde manuelle conseillée ;
+- `[MANQUABLE]` : action à faire avant une fenêtre qui se ferme ;
+- `[SUCCES]` : objectif Steam ou étape directement liée ;
+- `[BOSS]` : boss ou combat clé.
+
+Exemple : `[COFFRE] - Dans la salle nord, ouvrir le coffre avant de prendre
+l'ascenseur.` Les marqueurs peuvent être combinés, par exemple
+`[MANQUABLE] [SAUVEGARDE]`. Le lecteur retire la syntaxe du texte affiché,
+expose une légende accessible et rend les repères recherchables.
+
+Le lecteur déduit aussi automatiquement les repères évidents dans les titres,
+sous-titres, puces et cases à cocher existants. Cette déduction est un filet de
+sécurité pour les fiches déjà rédigées ; pour toute nouvelle information
+critique, le marqueur explicite reste préférable. Ne pas baliser chaque phrase
+qui cite un mot : une icône doit signaler une action concrète et utile à ce
+moment précis de la route.
+
 ## États autorisés
 
 - `planned` : jeu retenu, recherche non commencée ;
