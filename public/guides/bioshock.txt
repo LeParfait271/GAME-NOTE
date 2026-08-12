@@ -1,206 +1,828 @@
 BIOSHOCK
-GUIDE SPECIAL CHRONOLOGIQUE - SANS SPOILER
+FICHE PREMIUM — GUIDE CHRONOLOGIQUE 100 % STEAM DISPONIBLE — SANS SPOILER
 
-Version de travail : 11 aout 2026
+Version vérifiée : 12 août 2026
+AppID Steam : 7670
+Total contrôlé : 0 succès Steam
 
-Ce guide vise l'edition Steam originale AppID 7670, a distinguer de BioShock
-Remastered AppID 409710. L'edition originale ne propose pas de succes Steam :
-il n'existe donc pas de 100 % Steam sur ce jeu. Le parcours couvre la campagne,
-les 122 Audio Diaries, les 12 Power to the People et les recherches, plasmids,
-tonics et Little Sisters utiles a une partie complete. Aucun element de fin,
-identite, retournement ou consequence narrative n'est revele.
+Cette fiche concerne BioShock original, AppID 7670. Il ne faut pas le
+confondre avec BioShock Remastered, AppID 409710, qui possède une liste de
+succès différente. Sur l'édition originale, il n'existe pas de succès Steam :
+le 100 % Steam est donc un périmètre vide, indiqué honnêtement ci-dessous.
 
-OBJECTIF REEL
+Le 100 % de contenu de cette fiche couvre la campagne, les 122 Audio Diaries,
+les 12 stations Power to the People, les 21 Little Sisters, la recherche photo,
+les plasmides et tonics structurants, les codes utiles et les zones
+nettoyables. Les noms de journaux et de lieux servent de repères ; aucune
+identité, aucun retournement, aucune fin ni conséquence de choix n'est
+expliqué.
 
-[ ] Campagne complete dans l'ordre des niveaux.
-[ ] 122/122 Audio Diaries.
-[ ] 12/12 Power to the People.
-[ ] Recherche de chaque famille d'ennemis.
-[ ] Plasmids et tonics utiles recuperes ou achetes.
-[ ] Little Sisters toutes traitees selon la decision choisie.
-[ ] 0/0 succes Steam : l'AppID 7670 n'a pas de liste Steam.
+00 — STATUT STEAM ET OBJECTIF RÉEL
+
+PÉRIMÈTRE STEAM
+
+- [ ] 0/0 succès Steam : l'AppID 7670 n'expose pas de liste de succès.
+- Les objectifs Historian, Weapon Specialist, Little Sister Savior et autres
+  listes de la version console ne doivent pas être attribués à Steam.
+- Les journaux et les stations restent néanmoins suivis comme contenu à
+  100 %, car ce sont les éléments réellement ratables ou vérifiables dans la
+  partie.
+
+OBJECTIF DE LA PARTIE COMPLÈTE
+
+- [ ] Campagne terminée dans l'ordre.
+- [ ] 122/122 Audio Diaries.
+- [ ] 12/12 Power to the People.
+- [ ] 21/21 Little Sisters traitées, en choisissant Rescue ou Harvest de façon
+  cohérente avec ta sauvegarde.
+- [ ] Recherche photo des familles d'ennemis et des cibles mécaniques suivie
+  dans le menu Research.
+- [ ] Plasmides, tonics, slots et améliorations d'armes vérifiés.
+- [ ] 0/0 succès Steam confirmé dans le client.
+
+01 — ORDRE DE ROUTE ET GARDE-FOUS
+
+ORDRE CHRONOLOGIQUE
+
+1. Lighthouse / Welcome to Rapture.
+2. Medical Pavilion.
+3. Neptune's Bounty.
+4. Smuggler's Hideout.
+5. Arcadia.
+6. Farmer's Market.
+7. Retour Arcadia.
+8. Fort Frolic.
+9. Hephaestus.
+10. Rapture Central Control.
+11. Olympus Heights.
+12. Apollo Square.
+13. Point Prometheus.
+14. Proving Grounds, puis la dernière zone de campagne.
 
 MISSABLES ABSOLUS
 
-- Welcome to Rapture est la seule premiere zone fermee apres sa sortie. Avant
-  de prendre la bathysphere vers Medical Pavilion, prends les deux diaries :
-  [ ] New Year's Eve Alone ; [ ] Hole in the Bathroom Wall.
-- Rapture Central Control ne peut pas etre revisite. Avant de quitter la zone,
-  prends les trois diaries : [ ] The Vita Chamber ; [ ] Mind Control Test ;
-  [ ] Baby Status.
-- Ne quitte jamais Proving Grounds avant d'avoir verifie le compteur de
-  diaries de Point Prometheus et l'inventaire complet. Fais une sauvegarde
-  manuelle avant le passage final.
-- Les autres niveaux restent revisitable via la Metro, mais un nettoyage
-  tardif est plus long : utilise le compteur de chaque zone apres sa sortie.
+- Welcome to Rapture est la seule première zone définitivement fermée après
+  la transition. Prends les journaux 01 et 02 avant d'entrer dans la
+  bathysphère vers Medical Pavilion.
+- Rapture Central Control ne se revisite pas. Prends les journaux 99, 100 et
+  101 avant d'avancer vers la zone suivante.
+- Dans Fort Frolic, conserve une sauvegarde avant la résolution de la galerie
+  de Sander Cohen. La station Power to the People 09 demande que sa chambre
+  reste accessible ; le journal 78 apparaît après la progression de sa
+  galerie.
+- L'état des Little Sisters est visible dans le menu de pause. Une zone
+  quittée avec un compteur incomplet doit être nettoyée avant de continuer.
+- Le jeu permet le voyage rapide par bathysphère dans la plupart des zones,
+  mais revenir tardivement est toujours plus long. Suis la liste par zone
+  ci-dessous plutôt que de compter sur un nettoyage final.
 
-COMPTEUR DES DIARIES PAR ZONE
+AVANT CHAQUE TRANSITION
 
-[ ] Welcome to Rapture 2
-[ ] Medical Pavilion 17
-[ ] Neptune's Bounty 19
-[ ] Smuggler's Hideout 3
-[ ] Arcadia 17
-[ ] Farmer's Market 8
-[ ] Fort Frolic 15
-[ ] Hephaestus 17
-[ ] Rapture Central Control 3
-[ ] Olympus Heights 6
-[ ] Apollo Square 6
-[ ] Point Prometheus 9
-[ ] Total 122
+- Ouvre le menu Audio Diaries et vérifie le total de la zone.
+- Vérifie le compteur Little Sisters de la zone.
+- Vérifie la station Power to the People si la zone en contient une.
+- Fais une sauvegarde manuelle avant les zones signalées comme manquables.
+- Pour une route sans spoiler, lis uniquement les noms et les lieux ; les
+  descriptions restent volontairement fonctionnelles.
+
+COMPTEURS PAR ZONE
+
+- [ ] Welcome to Rapture : 2 journaux.
+- [ ] Medical Pavilion : 17 journaux, 2 Little Sisters.
+- [ ] Neptune's Bounty : 19 journaux, 1 station, 3 Little Sisters.
+- [ ] Smuggler's Hideout : 3 journaux.
+- [ ] Arcadia : 17 journaux, 1 station, 2 Little Sisters.
+- [ ] Farmer's Market : 8 journaux, 1 station, 1 Little Sister.
+- [ ] Fort Frolic : 15 journaux, 2 stations, 3 Little Sisters.
+- [ ] Hephaestus : 17 journaux, 2 stations, 3 Little Sisters.
+- [ ] Rapture Central Control : 3 journaux, aucun retour.
+- [ ] Olympus Heights : 6 journaux, 2 stations, 2 Little Sisters.
+- [ ] Apollo Square : 6 journaux, 1 station, 2 Little Sisters.
+- [ ] Point Prometheus : 9 journaux, 2 stations, 3 Little Sisters.
+- [ ] Total : 122 journaux, 12 stations, 21 Little Sisters.
+
+02 — PRÉPARATION ET MÉTHODE DE COLLECTE
+
+AUDIO DIARIES
+
+- Les journaux sont enregistrés dès leur ramassage ; laisse la lecture se
+  terminer si tu veux éviter de perdre le fil, mais elle n'est pas nécessaire
+  à la validation du compteur.
+- Dans le menu Audio Diaries, les entrées sont regroupées par niveau. Si le
+  total de la zone ne correspond pas à la fiche, cherche par titre plutôt que
+  de reprendre tous les cadavres.
+- Les journaux posés sur un cadavre se récupèrent en fouillant le corps. Les
+  autres sont sur bureaux, tables, comptoirs, caisses, murs ou sols.
+- Le numéro de cette fiche est un numéro de route, pas toujours le numéro
+  affiché dans le menu de la version remastered.
+
+RECHERCHE PHOTO
+
+- Récupère la Research Camera dans Neptune's Bounty dès que la route l'offre.
+- Photographie une nouvelle famille avant de la vaincre quand c'est possible,
+  puis complète la barre de recherche sur les rencontres suivantes.
+- Les familles à suivre sont les variantes de Splicers, les Little Sisters,
+  les Big Daddies, les tourelles, les caméras et les robots de sécurité.
+- Consulte le menu Research après chaque zone : les bonus de dégâts et de
+  résistance sont plus utiles que de conserver les pellicules.
+
+LITTLE SISTERS
+
+- Il y en a 21 : Medical Pavilion 2, Neptune's Bounty 3, Arcadia 2,
+  Farmer's Market 1, Fort Frolic 3, Hephaestus 3, Olympus Heights 2,
+  Apollo Square 2 et Point Prometheus 3.
+- Welcome to Rapture, Smuggler's Hideout, Central Control, Proving Grounds
+  et la zone finale n'en comptent pas.
+- Chaque sœur est liée à un Big Daddy ou à un événement de zone. Élimine le
+  protecteur, approche la sœur, puis choisis Rescue ou Harvest.
+- Pour la route la plus simple à contrôler, choisis la même option pour les
+  21 et note le total après chaque niveau. Les deux choix sont documentés
+  sans détailler leurs conséquences narratives.
+
+CODES UTILES
+
+- Neptune's Bounty, chambre 7 de Fighting McDonagh's : 7533.
+- Hephaestus, bureau de Kyburz : 0126.
+- D'autres verrous se contournent par piratage ou exploration ; ne quitte pas
+  une zone uniquement parce qu'un code n'est pas encore connu.
+
+03 — LIGHTHOUSE / WELCOME TO RAPTURE
 
 ROUTE CHRONOLOGIQUE
 
-01 - LIGHTHOUSE / WELCOME TO RAPTURE
+- Traverse le phare, prends la bathysphère et rejoins le Welcome Center.
+- Explore Kashmir Restaurant avant d'ouvrir la transition vers Medical
+  Pavilion.
+- Dans la salle de danse en contrebas, prends le journal 01 sur la table
+  près de la grande statue.
+- Dans les sanitaires, entre dans la partie Dames et prends le journal 02
+  près des débris au fond.
+- Termine la rencontre obligatoire de la zone et vérifie 2/2 avant de monter
+  dans la bathysphère.
 
-- Suis le parcours d'introduction jusqu'a la bathysphere.
-- Dans le Kashmir Restaurant, prends les deux diaries missables avant toute
-  sortie : la table sous la statue puis les sanitaires.
-- Recupere Electro Bolt et garde une sauvegarde avant de prendre la
-  bathysphere.
-- [ ] Zone 2/2 ; [ ] sauvegarde verifiee.
+AUDIO DIARIES 01 À 02
 
-02 - MEDICAL PAVILION
+- [ ] 01 — New Year's Eve Alone — Kashmir Restaurant, niveau inférieur,
+  table à droite après l'escalier et le panneau Dancing Downstairs.
+- [ ] 02 — Hole In Bathroom Wall — Kashmir Restaurant, sanitaires Dames,
+  contre le mur derrière les débris.
 
-- Fais le tour Foyer, Emergency Access, Medical Pavilion et Surgery avant de
-  poursuivre.
-- Ecoute ou ramasse chaque diary avant de quitter une aile, surtout ceux sur
-  les bureaux, murs et cadavres.
-- Recupere Incinerate! puis Telekinesis ; utilise Telekinesis sur les objets
-  hors de portee au lieu de laisser une cache inaccessible.
-- [ ] 17/17 diaries ; [ ] Little Sisters de la zone ; [ ] recherche commencee.
+CHECKPOINT DE SORTIE
 
-03 - NEPTUNE'S BOUNTY
+- [ ] 2/2 journaux.
+- [ ] Sauvegarde effectuée avant la bathysphère.
+- [ ] Aucun élément de cette zone laissé derrière.
 
-- Explore Upper Wharf, Lower Wharf, Freezer et Smuggler's Cave dans cet ordre.
-- La premiere Power to the People est dans Freezer Bottom Floor, avant la
-  sortie vers la grotte. [ ] 1/12.
-- Fais la recherche photo de chaque nouvelle famille d'ennemis avant de
-  quitter la zone ; les bonus de rang facilitent les parties difficiles.
-- [ ] 19/19 diaries ; [ ] 1/12 upgrades ; [ ] quotas de recherche notes.
+04 — MEDICAL PAVILION
 
-04 - SMUGGLER'S HIDEOUT
+ROUTE CHRONOLOGIQUE
 
-- Explore les quais, le stockage et la salle de controle avant de revenir au
-  metro. Les trois diaries de cette courte zone sont faciles a laisser dans
-  les pieces laterales.
-- [ ] 3/3 diaries ; [ ] Little Sisters ; [ ] retour au metro.
+- Commence par le Foyer et la réception, puis Emergency Access.
+- Fais la boucle Surgery avant de revenir vers les galeries dentaires et
+  Eternal Flame.
+- Récupère les plasmides de progression dès qu'ils sont proposés ; ils servent
+  à ouvrir les portes gelées et à atteindre les journaux hors du chemin.
+- Le premier Big Daddy déjà présent permet de commencer le suivi des Little
+  Sisters. Vérifie 2/2 dans le menu avant la transition.
+- Termine le niveau avec 17/17 Audio Diaries.
 
-05 - ARCADIA
+AUDIO DIARIES 03 À 19
 
-- Suis Tea Garden, Lower Rolling Hills, Waterfall Grotto et les laboratoires.
-- Power to the People [ ] 2/12 : Tree Farm, sur le trajet vers Farmer's
+- [ ] 03 — Released Today — Foyer de Medical Pavilion, comptoir de réception.
+- [ ] 04 — ADAM Changes — Emergency Access, bureau avec machine à écrire.
+- [ ] 05 — Higher Standards — première zone au-delà du Foyer, près du lit
+  d'hôpital et de l'inscription Above All Do No Harm.
+- [ ] 06 — Parasite — même secteur, bureau en face de la tourelle fixe.
+- [ ] 07 — Limits of Imagination — mur du secteur, près de l'indication
+  Funeral Services.
+- [ ] 08 — Love For Science — petit renfoncement voisin, sur le coffre sous
+  l'affiche de plasmide.
+- [ ] 09 — Vandalism — salle remplie d'eau, chaise près de la machine Circus
+  of Values.
+- [ ] 10 — Freezing Pipes — même salle, en bas des escaliers près de la porte
+  prise dans la glace.
+- [ ] 11 — Surgery's Picasso — Eternal Flame, présentoir d'image à gauche de
+  l'entrée.
+- [ ] 12 — Enrage Trial — toilettes de Kure-All, au sol près du meuble.
+- [ ] 13 — Useless Experiments — au sol près de la porte vers Dandy Dental.
+- [ ] 14 — Testing Telekinesis — Dandy Dental, derrière l'accueil, première
+  pièce à gauche.
+- [ ] 15 — Plasmids Are The Paint — bloc opératoire de Painless Dental,
+  table à droite.
+- [ ] 16 — Symmetry — après le passage dégagé par le plasmide, à droite du
+  cadavre dans le fauteuil roulant.
+- [ ] 17 — Aphrodite Walking — première salle latérale du couloir suivant,
+  sur le meuble près de la table opératoire.
+- [ ] 18 — Not What She Wanted — fouille du corps dans la salle de chirurgie
+  après la rencontre de la zone.
+- [ ] 19 — Gatherer Vulnerability — au sol devant le Gatherer's Garden,
+  après la première Little Sister rencontrée.
+
+OBJECTIFS DE ZONE
+
+- [ ] 17/17 Audio Diaries.
+- [ ] 2/2 Little Sisters.
+- [ ] Recherche des premiers Splicers et de la première tourelle.
+- [ ] Tous les plasmides de progression utilisés au moins une fois.
+
+05 — NEPTUNE'S BOUNTY
+
+ROUTE CHRONOLOGIQUE
+
+- Explore Lower Wharf, Fontaine Fisheries, Upper Wharf, Jet Postal et
+  Fighting McDonagh's Tavern avant le passage vers Smuggler's Hideout.
+- Récupère la Research Camera dans Upper Wharf et commence immédiatement les
+  photos de Splicers, Big Daddies et tourelles.
+- Dans Freezer Bottom Floor, prends la station Power to the People 01 avant de
+  quitter la zone.
+- Termine les trois Little Sisters et vérifie le compteur avant d'entrer dans
+  Smuggler's Hideout.
+- Les journaux 37 et 38 utilisent respectivement la chambre 7 et le sous-sol
+  de la taverne : garde-les pour la fin du nettoyage de Neptune.
+
+AUDIO DIARIES 20 À 38
+
+- [ ] 20 — Bathysphere Keys — Lower Wharf, sous le quai opposé à l'arrivée,
+  près de l'emplacement de tourelle.
+- [ ] 21 — Timmy H. Interrogation — Fontaine Fisheries, section inondée sous
+  les escaliers de Circus of Values, derrière la porte à code ou piratable.
+- [ ] 22 — Fontaine Must Go — Fontaine Fisheries, passage sous la grille,
+  au bout de l'alcôve accessible par un trou.
+- [ ] 23 — Finding the Sea Slug — Upper Wharf, table en face de l'entrée.
+- [ ] 24 — Masha Come Home — Upper Wharf, à gauche vers la chute d'eau,
+  au sol près du trou dans le mur.
+- [ ] 25 — Picked Up Timmy H. — cadavre près du journal 24, dans Upper Wharf.
+- [ ] 26 — Watch Fontaine — Upper Wharf, près d'une machine Circus of Values.
+- [ ] 27 — Have My Badge — zone derrière la porte à cadenas, dans le conduit
+  à gauche de la tourelle.
+- [ ] 28 — ADAM Discovery — depuis la salle de la caméra, passe par la fenêtre
+  vers l'auvent ; le journal est dans la caisse en contrebas à droite.
+- [ ] 29 — Eden Leaking — Upper Wharf, sous le panneau Fighting McDonagh's
+  Tavern, près du Lockbox.
+- [ ] 30 — Fontaine's Smugglers — banc sur le chemin vers Jet Postal.
+- [ ] 31 — Death Penalty in Rapture — Jet Postal, table immédiatement à gauche.
+- [ ] 32 — Meeting Ryan — zone d'eau près de la taverne, dans l'ouverture basse
+  du mur à droite.
+- [ ] 33 — Smuggling Ring — Fighting McDonagh's Tavern, table de la salle
+  principale en face de l'entrée.
+- [ ] 34 — Working Late Again — même salle, table ronde près des fenêtres.
+- [ ] 35 — Rapture Changing — sous-sol de la taverne, porte derrière le bar
+  ouverte avec Electro Bolt, table à droite.
+- [ ] 36 — Arresting Fontaine — chambre 6 de la taverne, ouvre la porte avec
+  Electro Bolt et fouille le sol près du cadavre.
+- [ ] 37 — Saw Masha Today — chambre 7 de la taverne, code 7533.
+- [ ] 38 — Putting the Screws On — Freezer Bottom Floor, à gauche de la
+  station d'amélioration, table près du coffre.
+
+POWER TO THE PEOPLE 01
+
+- [ ] 01/12 — Freezer, Bottom Floor, après la zone de Peach Wilkins.
+
+OBJECTIFS DE ZONE
+
+- [ ] 19/19 Audio Diaries.
+- [ ] 3/3 Little Sisters.
+- [ ] Research Camera récupérée et utilisée.
+- [ ] [ ] 1/12 station d'arme.
+
+06 — SMUGGLER'S HIDEOUT
+
+ROUTE CHRONOLOGIQUE
+
+- Suis Storage Cage, Ledge Path et Control Room jusqu'au quai de sortie vers
+  Arcadia.
+- Casse le cadenas de la petite pièce latérale près du chemin après la Control
+  Room pour le journal 40.
+- Le journal 41 est sur le chemin de la sortie, près du départ de la rampe.
+- Cette zone ne contient aucune Little Sister ni station Power to the People.
+
+AUDIO DIARIES 39 À 41
+
+- [ ] 39 — Meeting Fontaine — Storage Cage, contre les caisses face à la
+  rampe vers Ledge Path.
+- [ ] 40 — Kraut Scientist — après la Control Room, pièce derrière la porte
+  à cadenas sur la droite de la passerelle.
+- [ ] 41 — Offered A Deal — près d'une caisse à la base de la rampe qui mène
+  à Arcadia.
+
+CHECKPOINT DE SORTIE
+
+- [ ] 3/3 journaux.
+- [ ] Aucune Little Sister dans cette zone.
+- [ ] Transition vers Arcadia seulement après le compteur 41/41 global.
+
+07 — ARCADIA
+
+ROUTE CHRONOLOGIQUE
+
+- Explore Tea Garden, Waterfall Grotto, Rolling Hills, Langford Laboratories
+  et Tree Farm.
+- Dans Waterfall Grotto, utilise Electro Bolt sur la commande de la porte pour
+  atteindre le journal 49.
+- Dans Langford Laboratories, prends les journaux sur le bureau, le cadavre
+  et le coffre mural avant de poursuivre l'objectif de zone.
+- La station Power to the People 02 se trouve dans Tree Farm, sous l'arche
+  portant l'indication Farmer's Market.
+- Traite les deux Little Sisters d'Arcadia, puis passe à Farmer's Market.
+
+AUDIO DIARIES 42 À 57
+
+- [ ] 42 — Seeing Ghosts — Tea Garden, pelouse près des chaises et de la table
+  après le chemin de pierre.
+- [ ] 43 — Big Night Out — Tea Garden, au sol près du banc dans la zone
+  voisine.
+- [ ] 44 — Mass Producing ADAM — Tea Garden, pelouse près des chaises le long
+  du chemin.
+- [ ] 45 — Arcadia Closed — bâtiment à deux étages de Tea Garden, table près
+  de la Gene Bank.
+- [ ] 46 — The Market is Patient — Waterfall Grotto, banc près de l'entrée.
+- [ ] 47 — Offer A Better Product — Waterfall Grotto, au bout de la passerelle
+  vers la roue hydraulique, sur le bloc de ciment.
+- [ ] 48 — Early Tests Promising — Waterfall Grotto, caisse près du journal 47.
+- [ ] 49 — Heroes and Criminals — Waterfall Grotto, en haut des escaliers de
+  la roue, derrière la porte ouverte avec Electro Bolt.
+- [ ] 50 — Shouldn't Have Come — Rolling Hills, banc près de la tourelle RPG.
+- [ ] 51 — The Saturnine — Rolling Hills, bas des escaliers près du panneau
+  Langford Laboratories, au bord de la grotte.
+- [ ] 52 — What Won't They Steal? — Langford Laboratories, à droite du bureau
+  de l'accueil.
+- [ ] 53 — Teaching An Old Hound — Langford Laboratories, salle à droite de
+  l'accueil, table à gauche.
+- [ ] 54 — Lazarus Vector — corps de Julie Langford dans le laboratoire.
+- [ ] 55 — Lazarus Vector Formula — chambre de Julie Langford, dans le coffre
+  mural.
+- [ ] 56 — Arcadia and Oxygen — Tree Farm, contre la caisse située en face de
+  l'entrée.
+- [ ] 57 — Maternal Instinct — Tree Farm, haut des escaliers vers Farmer's
   Market.
-- Ne valide pas la sortie vers Farmer's Market avant d'avoir fouille les
-  cavernes, les bureaux, les salles de recherche et les rebords.
-- Reviens au metro apres la resolution de l'objectif botanique pour prendre le
-  diary de la station quand il apparait.
-- [ ] 17/17 diaries ; [ ] 2/12 upgrades.
 
-06 - FARMER'S MARKET
+POWER TO THE PEOPLE 02
 
-- Visite Winery, Market et les caves ; les huit diaries sont repartis entre
-  l'allee, les entrepots et la cave basse.
-- Power to the People [ ] 3/12 : Winery, dans la cave pres de la station
+- [ ] 02/12 — Tree Farm, sous l'arche indiquant Farmer's Market, mur à gauche.
+
+OBJECTIFS DE ZONE
+
+- [ ] 16 journaux dans Arcadia avant le départ vers le marché.
+- [ ] 2/2 Little Sisters.
+- [ ] [ ] 2/12 stations cumulées.
+
+08 — FARMER'S MARKET
+
+ROUTE CHRONOLOGIQUE
+
+- Parcours Market, Worley Winery, Winery Basement et Silverwing Apiary.
+- Dans Market, visite d'abord les comptoirs et l'entrée de l'Apiary, puis les
+  caves et les zones Employees Only.
+- Dans Winery Basement, récupère la station Power to the People 03 près de
   U-Invent.
-- Termine les achats de munitions et de composants avant le retour a Arcadia.
-- [ ] 8/8 diaries ; [ ] 3/12 upgrades.
+- Il n'y a qu'une Little Sister dans Farmer's Market ; confirme son compteur
+  avant de repartir.
+- Le journal 66 se prend au retour dans Arcadia : ne le compte pas comme une
+  entrée manquante du marché.
 
-07 - FORT FROLIC
+AUDIO DIARIES 58 À 65
 
-- Fais les quatre objectifs d'oeuvre dans l'ordre donne par le niveau et
-  fouille chaque galerie avant de prendre la bathysphere.
-- Power to the People [ ] 4/12 : Le Marquis d'Epoque, niveau bas du Cocktail
-  Lounge. [ ] 5/12 : Sinclair Spirits, derriere le comptoir a interrupteur.
-- Pour garder l'acces a la chambre bonus, ne ferme pas la ligne optionnelle
-  avant d'avoir verifie le compartiment et la station d'upgrade.
-- [ ] 15/15 diaries ; [ ] 5/12 upgrades.
+- [ ] 58 — Bee Enzyme — entrée de Farmer's Market, au sol près du Pneumo Tube.
+- [ ] 59 — First Encounter — Market, derrière le comptoir de paiement, près
+  du cadavre de Rosie.
+- [ ] 60 — Hatred — Market, table avec lampe près du journal 59.
+- [ ] 61 — Desperate Times — Market, haut des escaliers à droite du comptoir,
+  dans le crawlspace derrière la porte.
+- [ ] 62 — Water In Wine — Market, haut des marches près du panneau Worley
+  Winery.
+- [ ] 63 — ADAM Explained — Silverwing Apiary, comptoir de l'entrée.
+- [ ] 64 — Functional Children — Worley Winery, table sur le côté droit.
+- [ ] 65 — Pulling Together — zone Employees Only, table au bout avant le
+  panneau Worley Winery.
 
-08 - HEPHAESTUS
+POWER TO THE PEOPLE 03
 
-- Parcours les ateliers, Heat Loss Monitoring et Core en inspectant les
-  cadavres, bureaux, postes de controle et passerelles.
-- Power to the People [ ] 6/12 : Hephaestus Core, face au Gatherer's Garden.
-  [ ] 7/12 : bureau de Kyburz, a gauche du bureau.
-- Regroupe les recherches sur les ennemis mecaniques et les grosses cibles
-  avant la sortie vers Central Control.
-- [ ] 17/17 diaries ; [ ] 7/12 upgrades.
+- [ ] 03/12 — Winery Basement, bas de l'escalier près de U-Invent.
 
-09 - RAPTURE CENTRAL CONTROL
+OBJECTIFS DE ZONE
 
-- Zone sans retour : fais une sauvegarde avant l'entree.
-- Dans la salle de controle, prends The Vita Chamber ; apres le crawlspace,
-  prends Mind Control Test et Baby Status avant de continuer.
-- [ ] 3/3 diaries missables ; [ ] 7/12 upgrades ; [ ] total diaries 101/122.
+- [ ] 8/8 journaux du Farmer's Market.
+- [ ] 1/1 Little Sister.
+- [ ] [ ] 3/12 stations cumulées.
 
-10 - OLYMPUS HEIGHTS
+09 — RETOUR ARCADIA
 
-- Parcours Mercury Suites et les appartements avant d'utiliser les ascenseurs
-  de sortie.
-- Power to the People [ ] 8/12 : Mercury Suites, sur la tour d'ascenseur.
-  [ ] 9/12 : chambre de Cohen, accessible seulement si la porte reste
-  disponible ; ouvre-la avant de quitter la zone.
-- [ ] 6/6 diaries ; [ ] 9/12 upgrades ; [ ] total 107/122.
+ROUTE CHRONOLOGIQUE
 
-11 - APOLLO SQUARE
+- Reviens vers la station de bathysphère de l'entrée d'Arcadia.
+- Sur le chemin de la bathysphère, prends le banc près de l'accès de retour :
+  c'est le journal 66, souvent oublié parce qu'il apparaît après le marché.
+- Vérifie le compteur Arcadia à 17/17 avant d'entrer dans Fort Frolic.
 
-- Explore les appartements, les bureaux et les pieces de service avant la
-  transition vers Point Prometheus.
-- Power to the People [ ] 10/12 : quartier general d'Atlas, etage inferieur
-  accessible depuis l'etage superieur.
-- [ ] 6/6 diaries ; [ ] 10/12 upgrades ; [ ] total 113/122.
+AUDIO DIARY 66
 
-12 - POINT PROMETHEUS
+- [ ] 66 — The Great Chain — entrée de la zone de bathysphère d'Arcadia,
+  banc à droite en revenant du marché.
 
-- Cherche les neuf derniers diaries dans les laboratoires, salles d'analyse,
-  bureaux et zones de fabrication.
-- Power to the People [ ] 11/12 : Atrium, derriere le premier cadavre de Big
-  Daddy. [ ] 12/12 : Optimized Eugenics, au fond apres les tourelles.
-- Termine ici les recherches restantes, les plasmids, les tonics et les
-  Little Sisters. Ne prends pas le depart vers Proving Grounds avant d'avoir
-  valide [ ] 122/122 diaries et [ ] 12/12 upgrades.
+10 — FORT FROLIC
 
-13 - PROVING GROUNDS / FIN DE CAMPAGNE
+ROUTE CHRONOLOGIQUE
 
-- Fais la derniere verification de l'inventaire avant de traverser la zone.
-- Termine la campagne, puis utilise la sauvegarde de secours pour les choix
-  de collecte ou d'equipement si tu veux comparer une autre resolution.
-- [ ] Campagne complete ; [ ] 122/122 ; [ ] 12/12.
+- Suis l'Atrium, Fleet Hall Theatre, Poseidon Plaza et Southern Mall.
+- Fais les objectifs de galerie dans l'ordre du niveau, mais fouille chaque
+  côté avant de franchir la porte de transition.
+- Le journal 78 dépend de la progression de la galerie de Cohen. Garde une
+  sauvegarde avant de fermer cette partie du niveau.
+- Power to the People 04 est dans Le Marquis d'Epoque et la station 05 se
+  cache derrière le comptoir de Sinclair Spirits.
+- Traite les trois Little Sisters puis confirme 15/15 journaux.
 
-RECHERCHE, PLASMIDS ET TONICS
+AUDIO DIARIES 67 À 81
 
-- Prends une photo de chaque famille des la premiere rencontre, puis utilise
-  les combats suivants pour atteindre le rang maximal de recherche.
-- Les familles a surveiller incluent Thuggish, Leadhead, Spider, Houdini et
-  Nitro Splicers, ainsi que Bouncer, Rosie, Little Sister et les cibles
-  mecaniques. Le menu de recherche fait foi pour les cases manquantes.
-- Achete les slots plutot que de garder tout l'ADAM : le nettoyage des tonics
-  et des plasmids est plus simple si chaque Gatherer's Garden est utilise.
-- Pour la partie sans harvest, conserve toutes les Little Sisters ; pour une
-  partie orientee ressources, choisis une decision coherente et note-la dans
-  la sauvegarde. Les deux routes sont separees des succes Steam sur cet AppID.
+- [ ] 67 — Stood Up Again — sommet des escaliers de l'Atrium, avant Fleet
+  Hall Theatre.
+- [ ] 68 — Musical Insult — réserve à l'étage de Fleet Hall, au sol près de
+  la guitare.
+- [ ] 69 — The Iceman Cometh — pris dans la glace du Frozen Tunnel de Poseidon
+  Plaza, sur le chemin vers Martin Finnegan.
+- [ ] 70 — Ryan's Stableboy — Rapture Records, sous le comptoir à gauche de
+  l'entrée.
+- [ ] 71 — Pregnancy — Eve's Garden, sous le lit dans la chambre accessible
+  par le couloir de la scène.
+- [ ] 72 — It's All Grift — Eve's Garden, comptoir du bar au premier niveau.
+- [ ] 73 — The Doubters — Cohen's Collection, deuxième étage de l'Atrium,
+  petite table près de l'exposition.
+- [ ] 74 — Come To The Record Store — Southern Mall, tabouret à droite de
+  l'entrée.
+- [ ] 75 — The Wild Bunny — Sophia Salon, placard derrière la caisse, près du
+  piano.
+- [ ] 76 — Artists' Feud — Cocktail Lounge, comptoir du bar.
+- [ ] 77 — Fancy Cigarettes — Le Marquis d'Epoque, niveau inférieur sous la
+  passerelle, près d'un cadavre.
+- [ ] 78 — Requiem For Andrew Ryan — salle de projection de Fleet Hall, depuis
+  la réserve de Musical Insult, après la progression de la galerie.
+- [ ] 79 — Fontaine's Army — Sir Prize, caisse à gauche des escaliers.
+- [ ] 80 — Guns Blazing — Robertson's Tobaccoria, table en face de l'entrée.
+- [ ] 81 — Bump Culpepper? — Pharaoh's Fortune, table de billard du deuxième
+  niveau.
 
-CHECKLIST FINALE
+POWER TO THE PEOPLE 04 ET 05
 
-[ ] Welcome to Rapture 2/2.
-[ ] Medical Pavilion 17/17.
-[ ] Neptune's Bounty 19/19.
-[ ] Smuggler's Hideout 3/3.
-[ ] Arcadia 17/17.
-[ ] Farmer's Market 8/8.
-[ ] Fort Frolic 15/15.
-[ ] Hephaestus 17/17.
-[ ] Rapture Central Control 3/3.
-[ ] Olympus Heights 6/6.
-[ ] Apollo Square 6/6.
-[ ] Point Prometheus 9/9.
-[ ] Total 122/122 Audio Diaries.
-[ ] Total 12/12 Power to the People.
-[ ] Recherche et inventaire verifies.
-[ ] Campagne terminee.
-[ ] 0/0 succes Steam : objectif non disponible sur l'AppID 7670.
+- [ ] 04/12 — Southern Mall, Le Marquis d'Epoque, niveau inférieur sous la
+  passerelle, près du cadavre et du journal 77.
+- [ ] 05/12 — Poseidon Plaza, Sinclair Spirits, active l'interrupteur sur le
+  côté du comptoir puis passe derrière la chute d'eau.
 
-Sources de verification : page Steam de BioShock AppID 7670, manuel BioShock,
-liste des 122 Audio Diaries et liste des 12 Power to the People. Les lieux et
-conditions sont reformules et le guide reste volontairement sans spoiler.
+OBJECTIFS DE ZONE
+
+- [ ] 15/15 journaux.
+- [ ] 3/3 Little Sisters.
+- [ ] 5/12 stations cumulées.
+- [ ] Sauvegarde de sécurité conservée avant la galerie de Cohen.
+
+11 — HEPHAESTUS
+
+ROUTE CHRONOLOGIQUE
+
+- Traverse Ryan Industries, Heat Loss Monitoring, Workshops et Hephaestus
+  Core.
+- Fouille d'abord les cadavres et les bureaux autour de la porte de Heat Loss,
+  puis poursuis vers les ateliers.
+- Le bureau de Kyburz est ouvert avec le code 0126. La station 07 est à
+  gauche de son bureau ; ne la confonds pas avec le journal 96.
+- La station 06 se trouve dans Hephaestus Core, en face du Gatherer's Garden.
+- Termine les trois Little Sisters avant la transition vers Central Control.
+
+AUDIO DIARIES 82 À 98
+
+- [ ] 82 — Ryan Takes F Futuristics — Ryan Industries, caisse près de Circus
+  of Values.
+- [ ] 83 — Scoping The Gate — salle suivante, sol près de la machine Circus
+  of Values.
+- [ ] 84 — Stopping Ryan — dehors devant le bureau, premier cadavre à droite.
+- [ ] 85 — Going To Heat Loss — même zone, quatrième cadavre à droite.
+- [ ] 86 — A Man Or A Parasite — avant le bureau, porte en haut des escaliers
+  à droite du buste, bureau intérieur.
+- [ ] 87 — Fontaine's Legacy — Hephaestus Core, bout de la passerelle près de
+  la Vita-Chamber.
+- [ ] 88 — Getting a Break — Heat Monitoring, bureau de Pablo.
+- [ ] 89 — Assassin — Hephaestus Core, près du Gatherer's Garden.
+- [ ] 90 — Kyburz Door Code — Heat Loss Monitoring, coin éloigné de la
+  deuxième salle.
+- [ ] 91 — Genetic Arms Race — Heat Loss Monitoring, bureau près du générateur
+  dans la partie basse inondée.
+- [ ] 92 — Impossible Anywhere Else — devant la porte Heat Loss, descends à
+  droite vers la passerelle basse, bureau.
+- [ ] 93 — Running Short On R-34s — classeur renversé juste devant la porte
+  des Workshops.
+- [ ] 94 — Device Almost Finished — Workshops, bureau au bas des escaliers
+  en face d'Ammo Bandito.
+- [ ] 95 — The Dream — Workshops, cadavre près de la station de soins au
+  niveau inférieur.
+- [ ] 96 — Great Chain Moves Slowly — bureau du fond de Kyburz, code 0126.
+- [ ] 97 — Assembling The Bomb — Workshops, au-delà du crawlspace, table en
+  face de l'EMP Bomb Casing.
+- [ ] 98 — Market Maintenance Code — sous l'escalier près du bureau de Kyburz,
+  accès par le crawlspace latéral.
+
+POWER TO THE PEOPLE 06 ET 07
+
+- [ ] 06/12 — Hephaestus Core, mur en face du Gatherer's Garden.
+- [ ] 07/12 — Kyburz's Office, à gauche du bureau, après l'ouverture par 0126.
+
+OBJECTIFS DE ZONE
+
+- [ ] 17/17 journaux.
+- [ ] 3/3 Little Sisters.
+- [ ] [ ] 7/12 stations cumulées.
+- [ ] Recherche des tourelles et des robots de sécurité mise à jour.
+
+12 — RAPTURE CENTRAL CONTROL
+
+ROUTE SANS RETOUR
+
+- Fais une sauvegarde manuelle avant d'entrer dans la zone.
+- Prends le journal 99 sur le bureau près de la Vita-Chamber avant la salle
+  principale.
+- Dans la pièce avant la porte suivante, prends les journaux 100 et 101 sur
+  la longue table sous les photos et les articles.
+- Vérifie 3/3 immédiatement. Central Control ne se revisite pas dans la route
+  normale et ne contient ni Little Sister ni station d'arme.
+
+AUDIO DIARIES 99 À 101
+
+- [ ] 99 — The Vita-Chamber — bureau à gauche de l'entrée de la Control Room,
+  près d'une Vita-Chamber.
+- [ ] 100 — Mind Control Test — longue table de la pièce avant la suite,
+  sous les photos et coupures.
+- [ ] 101 — Baby Status — même longue table, à côté du journal 100.
+
+CHECKPOINT DE SORTIE
+
+- [ ] 3/3 journaux.
+- [ ] Total global 101/122.
+- [ ] Sauvegarde conservée avant la transition.
+
+13 — OLYMPUS HEIGHTS
+
+ROUTE CHRONOLOGIQUE
+
+- Explore Bistro Square puis Mercury Suites et les appartements accessibles.
+- Prends les journaux des appartements avant d'utiliser la tour d'ascenseur
+  pour la sortie.
+- Power to the People 08 est fixé sur la tour d'ascenseur. La station 09 se
+  trouve dans Cohen's Quarters si la porte est encore accessible ; ne détruis
+  pas cette possibilité avant la vérification.
+- Traite les deux Little Sisters et vérifie 6/6 journaux.
+
+AUDIO DIARIES 102 À 107
+
+- [ ] 102 — Mozart of Genetics — Bistro Square, comptoir dès l'entrée.
+- [ ] 103 — Artist Woman — appartement de A. Culpepper, table basse du salon.
+- [ ] 104 — Fontaine's Human Jukebox — appartement de Suchong, derrière les
+  gravats dans la pièce à gauche du vestibule.
+- [ ] 105 — Mind Control Device — appartement de Suchong, bureau au fond de
+  la zone inondée, près du tonic Clever Inventor.
+- [ ] 106 — Fontaine's Breakup — Mercury Suites, caisse près de U-Invent au
+  troisième étage.
+- [ ] 107 — Sad Saps — appartement de Fontaine, vestibule puis pièce à droite,
+  table basse.
+
+POWER TO THE PEOPLE 08 ET 09
+
+- [ ] 08/12 — Mercury Suites, sur la tour d'ascenseur, côté opposé aux portes.
+- [ ] 09/12 — Cohen's Quarters, mur à gauche du lit, seulement si l'accès à
+  la chambre est resté disponible.
+
+OBJECTIFS DE ZONE
+
+- [ ] 6/6 journaux.
+- [ ] 2/2 Little Sisters.
+- [ ] [ ] 9/12 stations cumulées.
+
+14 — APOLLO SQUARE
+
+ROUTE CHRONOLOGIQUE
+
+- Explore la rue initiale, Artemis Suites, Fontaine's Home for the Poor et
+  Atlas' Headquarters.
+- Récupère les journaux dans les gravats, les appartements et les bureaux
+  avant de prendre les escaliers vers le niveau supérieur.
+- La station 10 se trouve dans Atlas' Headquarters, sur le niveau inférieur.
+- Traite les deux Little Sisters, puis quitte la zone avec 6/6 journaux.
+
+AUDIO DIARIES 108 À 113
+
+- [ ] 108 — What's Happening Here? — zone initiale, gravats près de Circus of
+  Values.
+- [ ] 109 — Atlas Lives — bout de la rue, au sol près du Gatherer's Garden.
+- [ ] 110 — Protection Bond — Artemis Suites, appartement de Suchong, dans
+  le bureau au sol.
+- [ ] 111 — Meeting Atlas — Fontaine's Home for the Poor, à droite de
+  l'entrée, dans le Steamer Trunk.
+- [ ] 112 — The Longest Con — Home for the Poor, niveau 4 d'Atlas' HQ,
+  bureau près du tonic.
+- [ ] 113 — Today's Raid — même niveau, cadavre sur le bureau brisé.
+
+POWER TO THE PEOPLE 10
+
+- [ ] 10/12 — Atlas' Headquarters, descends depuis le cinquième niveau vers
+  l'étage inférieur ; mur à droite du cadavre.
+
+OBJECTIFS DE ZONE
+
+- [ ] 6/6 journaux.
+- [ ] 2/2 Little Sisters.
+- [ ] [ ] 10/12 stations cumulées.
+
+15 — POINT PROMETHEUS
+
+ROUTE CHRONOLOGIQUE
+
+- Traverse l'Atrium, Optimized Eugenics, Little Wonders Education Facility et
+  Fallsafe Armored Escorts.
+- Récupère les journaux des salles de cours et de recherche avant de prendre
+  les équipements nécessaires à la progression.
+- La station 11 est dans l'Atrium derrière le premier cadavre de Big Daddy.
+- La station 12 est dans Optimized Eugenics, au-delà des tourelles, dans la
+  salle d'analyse.
+- Traite les trois dernières Little Sisters et ne passe pas à Proving Grounds
+  avant d'avoir 122/122 et 12/12.
+
+AUDIO DIARIES 114 À 122
+
+- [ ] 114 — Changing Employers — deuxième étage, pièce avec la porte prise
+  dans la glace, en face de Circus of Values.
+- [ ] 115 — Extra Munitions — Optimized Eugenics, Plasmid Prototyping, sol
+  près de la tourelle RPG au bas des escaliers.
+- [ ] 116 — Marketing Gold — Test Subject Storage, machine contre le mur à
+  droite après l'entrée.
+- [ ] 117 — Why Just Girls? — Little Wonders Education Facility, première
+  salle à gauche, dernier bureau du côté gauche.
+- [ ] 118 — Missing Boots — Fallsafe Armored Escorts, Candidate Conversation,
+  table au fond.
+- [ ] 119 — Protecting Little One — Fallsafe Armored Escorts, Suit Assembly,
+  classeur près du bureau au deuxième étage.
+- [ ] 120 — Mistakes — Suit Assembly, étage supérieur, machine près de la Gene
+  Bank.
+- [ ] 121 — Protector Smell — Suit Assembly, machine de la salle ouest au
+  deuxième étage.
+- [ ] 122 — Cheap Son Of A Bitch — Suit Assembly, fais fondre la glace de la
+  réserve avec Incinerate ; table à droite en entrant.
+
+POWER TO THE PEOPLE 11 ET 12
+
+- [ ] 11/12 — Atrium, mur derrière le premier cadavre de Big Daddy visible au
+  début de la zone.
+- [ ] 12/12 — Optimized Eugenics, salle d'analyse au fond après les tourelles.
+
+OBJECTIFS DE ZONE
+
+- [ ] 9/9 journaux.
+- [ ] 3/3 Little Sisters.
+- [ ] 12/12 stations Power to the People.
+- [ ] 122/122 Audio Diaries avant la transition.
+
+16 — PROVING GROUNDS ET DERNIÈRE ZONE
+
+PROVING GROUNDS
+
+- Il n'y a pas de journal, de station Power to the People ni de Little Sister
+  à compter dans cette zone.
+- Vérifie les compteurs 122/122, 12/12 et 21/21 avant de partir.
+- Garde une sauvegarde de sécurité avant la dernière séquence. Le guide ne
+  décrit pas le résultat des choix ni la fin.
+
+DERNIÈRE VÉRIFICATION
+
+- [ ] Campagne terminée.
+- [ ] 122/122 Audio Diaries.
+- [ ] 12/12 stations.
+- [ ] 21/21 Little Sisters.
+- [ ] Recherche consultée une dernière fois.
+
+17 — POWER TO THE PEOPLE : INDEX COMPLET
+
+- [ ] 01 — Neptune's Bounty, Freezer Bottom Floor, après Peach Wilkins.
+- [ ] 02 — Arcadia, Tree Farm, sous l'arche vers Farmer's Market.
+- [ ] 03 — Farmer's Market, Winery Basement, près de U-Invent.
+- [ ] 04 — Fort Frolic, Southern Mall, Le Marquis d'Epoque, niveau inférieur.
+- [ ] 05 — Fort Frolic, Poseidon Plaza, Sinclair Spirits, derrière le comptoir
+  après l'interrupteur.
+- [ ] 06 — Hephaestus Core, mur en face du Gatherer's Garden.
+- [ ] 07 — Hephaestus, Kyburz's Office, à gauche du bureau.
+- [ ] 08 — Olympus Heights, Mercury Suites, côté de la tour d'ascenseur.
+- [ ] 09 — Olympus Heights, Cohen's Quarters, mur à gauche du lit si l'accès
+  est encore ouvert.
+- [ ] 10 — Apollo Square, Atlas' Headquarters, étage inférieur.
+- [ ] 11 — Point Prometheus, Atrium, mur derrière le premier cadavre de Big
+  Daddy.
+- [ ] 12 — Point Prometheus, Optimized Eugenics, salle d'analyse au fond.
+
+18 — PLASMIDES, TONICS ET INVENTAIRE
+
+PROGRESSION DES PLASMIDES
+
+- Prends Electro Bolt en premier : il ouvre les portes et neutralise l'eau.
+- Incinerate permet de fondre la glace, notamment dans Medical Pavilion et
+  Point Prometheus.
+- Telekinesis sert aux objets hors de portée et à plusieurs caches de zones.
+- Winter Blast, Enrage, Security Bullseye, Hypnotize Big Daddy et les autres
+  plasmides s'obtiennent par Gatherer's Garden ou exploration. Ne dépense pas
+  tout l'ADAM avant d'avoir acheté les slots nécessaires.
+- Chaque Gatherer's Garden est une occasion de vérifier les emplacements de
+  plasmides et de tonic slots. Le menu Gene Bank permet de changer le build
+  sans perdre les achats.
+
+TONICS
+
+- Garde au moins un slot physique pour une amélioration de déplacement ou de
+  survie, un slot d'ingénieur pour le piratage et un slot de combat pour les
+  dégâts ou la recherche.
+- Hacker et Security Expert facilitent les tourelles et les caméras ; Wrench
+  Lurker et Medical Expert facilitent les premières zones ; les tonics de
+  recherche prennent de la valeur après la Research Camera.
+- Les tonics peuvent être remplacés dans une Gene Bank. Ne relance pas une
+  partie parce qu'un tonic n'a pas été équipé immédiatement.
+
+ARMES ET MUNITIONS
+
+- Utilise la clé anglaise pour les ennemis isolés, le pistolet pour les cibles
+  fragiles et le fusil à pompe pour les espaces courts.
+- Conserve les munitions spéciales pour les Big Daddies, les tourelles et les
+  zones de transition.
+- Les stations Power to the People sont les seules améliorations d'armes
+  comptées par cette fiche ; les choix d'amélioration ne sont pas réversibles,
+  alors spécialise-les selon ton arme préférée.
+
+19 — CHECKLIST FINALE 100 % CONTENU
+
+CAMPAGNE
+
+- [ ] Welcome to Rapture terminé.
+- [ ] Medical Pavilion terminé.
+- [ ] Neptune's Bounty terminé.
+- [ ] Smuggler's Hideout terminé.
+- [ ] Arcadia terminé.
+- [ ] Farmer's Market terminé.
+- [ ] Retour Arcadia terminé.
+- [ ] Fort Frolic terminé.
+- [ ] Hephaestus terminé.
+- [ ] Rapture Central Control terminé.
+- [ ] Olympus Heights terminé.
+- [ ] Apollo Square terminé.
+- [ ] Point Prometheus terminé.
+- [ ] Proving Grounds terminé.
+- [ ] Dernière zone terminée.
+
+AUDIO DIARIES
+
+- [ ] Welcome to Rapture 2/2.
+- [ ] Medical Pavilion 17/17.
+- [ ] Neptune's Bounty 19/19.
+- [ ] Smuggler's Hideout 3/3.
+- [ ] Arcadia 17/17, journal 66 inclus au retour.
+- [ ] Farmer's Market 8/8.
+- [ ] Fort Frolic 15/15.
+- [ ] Hephaestus 17/17.
+- [ ] Rapture Central Control 3/3.
+- [ ] Olympus Heights 6/6.
+- [ ] Apollo Square 6/6.
+- [ ] Point Prometheus 9/9.
+- [ ] Total 122/122.
+
+COLLECTE ET PROGRESSION
+
+- [ ] Power to the People 01 à 03.
+- [ ] Power to the People 04 à 05.
+- [ ] Power to the People 06 à 07.
+- [ ] Power to the People 08 à 09.
+- [ ] Power to the People 10.
+- [ ] Power to the People 11 à 12.
+- [ ] Total 12/12 stations.
+- [ ] Medical Pavilion 2/2 Little Sisters.
+- [ ] Neptune's Bounty 3/3 Little Sisters.
+- [ ] Arcadia 2/2 Little Sisters.
+- [ ] Farmer's Market 1/1 Little Sister.
+- [ ] Fort Frolic 3/3 Little Sisters.
+- [ ] Hephaestus 3/3 Little Sisters.
+- [ ] Olympus Heights 2/2 Little Sisters.
+- [ ] Apollo Square 2/2 Little Sisters.
+- [ ] Point Prometheus 3/3 Little Sisters.
+- [ ] Total 21/21 Little Sisters.
+- [ ] Research Camera utilisée sur les familles rencontrées.
+- [ ] Plasmides, tonics, slots et Gene Banks vérifiés.
+- [ ] 0/0 succès Steam : aucune liste sur l'AppID 7670.
+
+VERIFICATION FINALE
+
+- L'AppID contrôlé est 7670 et non BioShock Remastered 409710.
+- Les deux journaux de Welcome to Rapture ont été pris avant la bathysphère.
+- Les trois journaux de Rapture Central Control ont été pris avant la sortie.
+- Le compteur global Audio Diaries indique 122/122.
+- Le compteur Power to the People indique 12/12.
+- Le compteur Little Sisters indique 21/21.
+- Les décisions Rescue ou Harvest sont notées dans la sauvegarde et ne sont
+  pas mélangées avec une autre route.
+- L'absence de succès Steam est confirmée par le périmètre de l'AppID ; les
+  trophées Xbox et PlayStation ne sont pas comptés comme objectifs Steam.
+
+Sources de vérification : fiche Steam de BioShock AppID 7670, liste des 122
+Audio Diaries, index des 12 stations Power to the People et compteur des 21
+Little Sisters. Les emplacements sont reformulés pour une route française,
+chronologique et sans révélation narrative.
