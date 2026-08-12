@@ -1078,6 +1078,37 @@ button {
   letter-spacing: 0.04em;
 }
 
+.reader-cover-facts {
+  display: grid;
+  max-width: 520px;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 8px;
+  margin-top: 20px;
+}
+
+.reader-cover-facts div {
+  display: grid;
+  gap: 3px;
+  padding: 10px 11px;
+  border: 1px solid color-mix(in srgb, var(--line) 82%, var(--coral));
+  border-radius: 10px;
+  background: color-mix(in srgb, var(--paper) 45%, transparent);
+}
+
+.reader-cover-facts strong {
+  color: var(--navy);
+  font-size: 0.92rem;
+  letter-spacing: -0.04em;
+}
+
+.reader-cover-facts span {
+  color: var(--muted);
+  font-size: 0.54rem;
+  font-weight: 900;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+}
+
 .reader-cover-alert {
   display: flex;
   align-items: flex-start;
