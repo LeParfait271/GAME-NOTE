@@ -1,128 +1,1392 @@
 PORTAL 2
-GUIDE CHRONOLOGIQUE 100 % STEAM - SANS SPOILER
+GUIDE CHRONOLOGIQUE COMPLET - 100 % STEAM - SANS SPOILER
 
-Version de travail : 10 aout 2026
+Version editoriale : 12 aout 2026
+Plateforme cible : Steam - 51 succes
+Format : parcours solo integral, route cooperative integrale, solutions de salles,
+actions uniques, sauvegardes de securite et checklist finale individuelle.
 
-Ce parcours couvre les 51 succes Steam de l'AppID 620 : campagne solo et
-campagne cooperative en ligne. Les succes coop sont regroupes par parcours
-pour eviter de perdre les gestes, cubes, cameras, portraits et contraintes de
-temps. Aucun passage ne revele la fin, l'identite d'un personnage ou un
-retournement.
+PROMESSE DE CE GUIDE
 
-OBJECTIF
+Ce document est une vraie route de jeu. Il ne se contente pas de recopier la
+liste Steam : chaque zone indique quoi faire, dans quel ordre, avec quel cube,
+quelle surface et quelle sortie. Les actions qui peuvent etre oubliees sont
+placees dans leur salle naturelle, puis rappelees dans la checklist finale.
 
-[ ] 51/51 succes Steam.
-[ ] Campagne solo complete avec objets et salles secondaires.
-[ ] Cinq parcours cooperatifs complets.
-[ ] Actions uniques, gestes, objets caches et contraintes de cubes.
-[ ] Une seconde personne disponible pour la coop et Professor Portal.
+Le guide decrit les mecanismes et les emplacements sans raconter les scenes,
+les revelations, les identites ni la conclusion. Si une action impose de voir
+une reponse ou un ecran, seul le nom de la salle est donne.
+
+OBJECTIF 100 %
+
+- Campagne solo terminee en suivant les neuf chapitres.
+- 18 succes solo obtenus, dont les actions uniques et les contraintes de temps.
+- Campagne cooperative terminee dans les cinq parcours d'origine.
+- 33 succes cooperatifs obtenus, y compris les gestes, les morts controlees,
+  les cubes caches, les contraintes de portails et les parcours sans mort.
+- 51 succes Steam coches individuellement a la fin.
+- Toutes les salles pouvant etre rejouees sont traitees sans dependance a un
+  guide externe ou a une simple liste de noms.
+
+ROUTE OPTIMALE EN UNE VUE
+
+1. Faire le solo dans l'ordre, avec les actions de chapitre au moment indique.
+2. Dans le chapitre 8, faire You Made Your Point avant de resoudre la premiere
+   salle, puis casser les onze ecrans de la route Smash TV.
+3. En coop, jouer les cinq parcours dans l'ordre : etalonnage, Team Building,
+   Mass and Velocity, Hard-Light Surfaces, Excursion Funnels, Mobility Gels.
+4. Faire les gestes et les succes de manipulation pendant les salles conseillees.
+5. Rejouer l'etalonnage avec une personne Steam qui n'a jamais joue a la coop,
+   une fois toute la coop terminee, pour Professor Portal.
+6. Utiliser la checklist finale comme preuve de 51/51, pas les seuls succes de
+   fin de parcours qui peuvent etre obtenus en plusieurs sessions.
 
 GARDE-FOUS ABSOLUS
 
-- Ne commence pas la coop avec un partenaire qui a deja valide les chambres si
-  tu veux Professor Portal : finis d'abord les parcours, puis joue le Cours
-  d'etalonnage avec un ami Steam qui n'a jamais joue a la coop.
-- Fais une sauvegarde ou note la chambre avant les actions uniques : Drop Box,
-  Preservation of Mass, No Hard Feelings, Pturretdactyl, Schrodinger's Catch,
-  Portrait of a Lady, Ship Overboard et Final Transmission.
-- En coop, les succes de gestes, embrassades, pierre-feuille-ciseaux et morts
-  se font dans des sessions dediees. Ne ferme pas la session avant le pop-up.
-- Les succes de cours demandent de terminer toutes les chambres. La liste
-  Steam reste la source finale si une chambre a ete quittee trop tot.
+- Ne lance pas la campagne coop avec le seul objectif de traverser vite : les
+  succes de salle se conservent, mais les gestes et actions doivent etre valides
+  pendant qu'un partenaire est present.
+- Pour chaque action unique, creer une sauvegarde de debut de salle ou noter le
+  numero de la chambre avant de toucher au bouton de sortie.
+- Dans les salles avec un cube dans le vide, ne pas laisser le cube tomber avant
+  d'avoir obtenu le succes vise. Une mort ou un cube perdu impose souvent de
+  recommencer la chambre entiere.
+- Les succes de temps se font avec le compteur de la salle, pas avec une montre.
+  Rejouer la chambre depuis son debut si le premier essai est trop lent.
+- En coop, annoncer les actions avec le ping de compte a rebours : il compense
+  mieux le decalage que le simple decompte vocal.
+- Pour Still Alive, toute mort de l'un des deux joueurs annule la tentative du
+  parcours : recommencer le Course 04 depuis la premiere chambre.
+- Pour Iron Grip et Talent Show, si le cube tombe dans le goo, quitter la salle
+  et la relancer completement. Ne pas poursuivre en esperant un rattrapage.
+- Pour Professor Portal, le partenaire doit etre dans ta liste d'amis Steam et
+  n'avoir jamais termine la coop. Le matchmaking avec un inconnu ne suffit pas.
+- Pour les chambres cooperatives, Blue et Orange sont interchangeables : les
+  lettres indiquent seulement le role, pas une obligation de couleur.
 
-MISSABLES A SECURISER
+PREPARATION ET CONTROLES
 
-- Missables principaux : You Made Your Point, Preservation of Mass, Drop Box,
-  No Hard Feelings, Pturretdactyl, Schrodinger's Catch, Portrait of a Lady,
-  Ship Overboard, Final Transmission, gestes, cubes et objectifs de temps.
-  Les cours peuvent etre rejoues, mais une sauvegarde de chambre est plus
-  sure que de compter sur un checkpoint.
+- Le bouton de ping sert a montrer une surface, un bouton, une sortie ou a
+  lancer un compte a rebours. L'utiliser avant chaque action synchronisee.
+- Les portails ne se posent que sur des surfaces blanches ou explicitement
+  converties. Si un tir refuse une surface, chercher le panneau voisin plutot
+  que forcer l'angle.
+- Un rayon laser doit toucher soit un relais, soit un recepteur, soit un objet
+  pivot. Regler d'abord le cube, puis les portails qui transportent le rayon.
+- Un pont de lumiere est une surface : il peut bloquer une tourelle, porter un
+  joueur, servir de mur pour un portail ou etre retire sous un partenaire.
+- Un entonnoir d'excursion transporte joueurs et objets. Modifier un seul
+  portail a la fois et attendre de voir la direction avant de deplacer l'autre.
+- Le gel bleu fait rebondir, le gel orange donne de la vitesse et le gel blanc
+  rend une surface portalable. L'eau efface les gels.
+- Quand une solution demande un cube, poser le cube sur le bouton seulement
+  apres avoir verifie la salle : certains succes exigent de le lancer, de le
+  porter ou de le conserver en l'air.
 
-ORDRE DE PARTIE SOLO
+MISSABLES ET FENETRES DE SECURITE
 
-1. REVEIL ET PREMIERS TESTS
+- Chapitre 2, Test Chamber 06 : Drop Box, Pturretdactyl et Final Transmission.
+- Chapitre 2, Test Chamber 07 : Preservation of Mass, avant de quitter la salle.
+- Chapitre 3, Test Chamber 10 : Overclocker, a faire au premier passage si
+  possible, ou a rejouer depuis le selecteur de chambre.
+- Chapitre 4, Test Chamber 22 : Good Listener, prendre le pont propose avant
+  de continuer la route normale.
+- Chapitre 5, zone des tourelles : No Hard Feelings puis Scanned Alone.
+- Chapitre 6 : Vertically Unchallenged, les six portes vitrifees, Ship Overboard,
+  Tater Tote et Schrodinger's Catch.
+- Chapitre 7 : White Out et Portrait of a Lady entre les chambres Beta 01 et 02.
+- Chapitre 8 : You Made Your Point dans Wheatley 01-A, Smash TV sur les salles
+  01 a 06 puis 11, 12 et 15, et Tunnel of Funnel dans la 15.
+- Chapitre 9 : Pit Boss dans la salle 17, avant d'accepter la sortie normale.
+- Coop : gestes, cameras des cinq parcours, portes de la salle 3 Hard-Light,
+  cube cache du Course 04, Iron Grip, Talent Show et Still Alive.
 
-- Termine les chambres d'initiation pour Wake Up Call et Undiscouraged.
-  Explore les salles de maintenance et ouvre les caisses secondaires.
-- Recupere les objets de chapitre, surveille les portes vitrifies et active
-  les interactions facultatives. Ne laisse pas les ecrans et radios sans
-  verification.
+SAUVEGARDES CONSEILLEES
 
-2. RETOUR AUX TESTS ET GELS
+- Avant le bouton de la Test Chamber 06 du chapitre 2.
+- Avant le bouton de la Test Chamber 07 du chapitre 2.
+- Avant l'entree de la Test Chamber 10 du chapitre 3.
+- Avant d'entrer dans le laboratoire des tourelles du chapitre 5.
+- Avant la premiere porte vitrifee du chapitre 6.
+- Avant la salle Alpha 03 et avant la boite suspendue de la salle Alpha 05.
+- Au debut de Wheatley 01-A, avant toute pression du bouton.
+- Au debut de Wheatley 05, 06, 11, 12 et 15 pour refaire Smash TV proprement.
+- Au debut de chaque salle coop qui porte un succes de cube ou de temps.
 
-- Valide Bridge Over Troubling Water, Vertically Unchallenged, Stranger Than
-  Friction, White Out, Tunnel of Funnel et Tater Tote au fil des tests.
-- Fais une sauvegarde avant les chambres ou un cube peut etre perdu. Utilise
-  ces saves pour Drop Box, No Hard Feelings, Scanned Alone et Pturretdactyl.
-- Inspecte les portes d'anciennes chambres, le portrait cache, le bateau et
-  les signaux secondaires avant la sortie de chaque grande zone.
+======================================================================
+CHAPITRE 1 - THE COURTESY CALL
+======================================================================
 
-3. DERNIERS TESTS SOLO
+ZONE 1 - RELAXATION ET PREMIER REVEIL
 
-- Termine SaBOTour, Stalemate Associate, Dual Pit Experiment, The Part Where
-  He Kills You et Lunacy dans l'ordre du jeu.
-- Pour Preservation of Mass, suis la route dediee de la chambre indiquee par
-  le succes. Pour You Made Your Point, sauvegarde avant le premier test du
-  chapitre requis et refuse de le resoudre une fois.
-- Termine le solo puis recharge les sauvegardes pour Door Prize, Smash TV,
-  Good Listener, Portrait of a Lady, Ship Overboard et Final Transmission.
+1. Suivre les instructions a l'ecran et attendre la fin du reveil.
+2. Repondre a la porte quand elle s'ouvre, puis suivre le parcours guide.
+3. Dans la chambre de repos, ne pas chercher de bouton cache : le chemin est
+   lineaire et les portes s'ouvrent apres les consignes.
+4. Rejoindre la salle de test ancienne par le couloir et la plateforme mobile.
+5. Le succes Wake Up Call tombe automatiquement a la fin de cette sequence.
 
-ORDRE DE PARTIE COOPERATIVE
+ZONE 2 - OLD TEST CHAMBER 00
 
-1. COURS D'ETALONNAGE ET TRAVAIL EN BINOME
+1. Utiliser le portail fourni pour traverser le premier espace.
+2. Dans la salle avec un cube, poser le portail sous le cube, entrer dedans,
+   puis deposer le cube sur le bouton au sol.
+3. Traverser la porte et placer le portail sur le mur incliné indique par le
+   jeu pour remonter d'un niveau.
+4. Reutiliser le meme principe sur les plateformes suspendues : portail au sol,
+   portail sur la paroi haute, puis traverser.
+5. Quand un mur casse, viser la paroi blanche visible derriere la fenetre et
+   entrer dans le portail au lieu de chercher un escalier.
 
-- Commence par le cours d'etalonnage pour High Five. Fais tous les gestes de
-  ton plein gre dans une session dediee pour Gesticul-8.
-- Termine le parcours Team Building pour Team Building. Fais Air Show,
-  Rock Portal Scissors et Friends List With Benefits avant de continuer.
+ZONE 3 - OLD TEST CHAMBERS 01 A 05
 
-2. MASSE ET VITESSE
+1. Dans chaque petite salle, poser le portail d'arrivee sur la paroi de sortie,
+   puis utiliser le portail au sol pour prendre de la hauteur.
+2. Pour les salles avec bouton et cube, faire passer le cube par le portail,
+   poser le cube, puis revenir par le meme axe.
+3. Quand le sol manque, chercher un panneau de beton au plafond ou sur le mur
+   lateral. Les panneaux sont volontairement visibles depuis le bord.
+4. Suivre le trajet de Wheatley jusqu'aux chambres anciennes suivantes.
 
-- Termine toutes les chambres du parcours pour Confidence Building.
-- Fais Iron Grip en ne perdant jamais le cube de la chambre demandee, puis
-  Triple Crown en reussissant les trois chambres sous la limite. Fais
-  Schrodinger's Catch et Party of Three dans les salles indiquees.
+ZONE 4 - OLD TEST CHAMBERS 07 ET 08
 
-3. SURFACES DE LUMIERE
+1. Portaliser le mur situe derriere la zone d'arrivee et traverser vers Wheatley.
+2. Quand il devient saisissable, le prendre, le brancher dans la prise, puis
+   le reprendre quand la porte est ouverte.
+3. Ignorer la tourelle oracle dans cette premiere rencontre : elle sera liee a
+   un succes dans le chapitre 5. Ne pas perdre de temps a la detruire.
+4. Continuer vers la salle qui reprend l'ancienne arene finale.
 
-- Termine toutes les chambres pour Bridge Building. Realise Can't Touch This,
-  Four Ring Circus et Portal Conservation Society avec les sauvegardes de
-  debut de chambre.
-- Sauvegarde avant la chambre du cube peint et avant les gestes : un partenaire
-  peut annuler l'essai sans le vouloir.
+ZONE 5 - ANCIENNE SALLE FINALE ET INCINERATEUR
 
-4. ENTONNOIRS D'EXCURSION
+1. Entrer dans la salle en passant le corps mecanique au sol par la droite.
+2. Descendre les escaliers jusqu'a la prise et brancher Wheatley.
+3. Le succes You Monster tombe automatiquement apres cette etape.
+4. Dans l'incinerateur, recuperer le pistolet a deux portails.
+5. Remonter l'ancienne salle dans le sens inverse : portail sur le mur haut,
+   puis portail sur les panneaux inclines, puis passage par la fenetre brisee.
+6. Passer le panneau portant le numero de la salle et prendre l'ascenseur.
 
-- Termine le parcours pour Obstacle Building. Fais Asking for Trouble devant
-  une camera dans chacun des cinq parcours et utilise les gestes requis.
-- Valide Narbacular Drop et Empty Gesture dans une session d'actions dediees,
-  puis recommence la chambre si le partenaire tombe trop tot.
+CONTROLE CHAPITRE 1
 
-5. GEL ET FIN DE COOP
+- Aucun objet a collectionner ne conditionne Steam dans ce chapitre.
+- Wake Up Call et You Monster sont automatiques.
+- Ne pas utiliser la tourelle oracle comme si elle etait un objectif ici.
 
-- Termine le dernier parcours pour You Saved Science. Fais Talent Show sans
-  perdre le cube de la chambre demandee et Still Alive sans mort dans le cours
-  requis.
-- Quand tous les cours sont termines, rejoue le Cours d'etalonnage avec un
-  debutant pour Professor Portal. Fais aussi les derniers gestes si necessaire.
+======================================================================
+CHAPITRE 2 - THE COLD BOOT
+======================================================================
 
-CHECKLIST 51/51
+TEST CHAMBER 01 - PREMIER RAYON LASER
 
-[ ] Solo : Wake Up Call, You Monster, Undiscouraged, SaBOTour, Stalemate
-    Associate, Tater Tote, Vertically Unchallenged, Stranger Than Friction,
-    White Out, Dual Pit Experiment, Tunnel of Funnel, Scanned Alone, The Part
-    Where He Kills You et Lunacy.
-[ ] Solo actions : No Hard Feelings, Drop Box, Good Listener, Preservation of
-    Mass, Portrait of a Lady, Ship Overboard, Pturretdactyl, Pit Boss, Door
-    Prize, Schrodinger's Catch, You Made Your Point, Smash TV et Final
-    Transmission.
-[ ] Coop cours : Team Building, Confidence Building, Bridge Building,
-    Obstacle Building et You Saved Science.
-[ ] Coop actions : High Five, Air Show, Gesticul-8, Can't Touch This, Rock
-    Portal Scissors, Asking for Trouble, Four Ring Circus, Professor Portal,
-    Narbacular Drop, Empty Gesture, Friends List With Benefits, Overclocker,
-    Iron Grip, Party of Three, Triple Crown, Portal Conservation Society,
-    Talent Show et Still Alive.
-[ ] Les 51 cases Steam sont cochees.
+1. Traverser jusqu'a l'ascenseur de victoire dans l'eau peu profonde.
+2. Apres l'installation du rayon, poser un portail sur le panneau au sol sous
+   l'emetteur.
+3. Placer l'autre portail sur la faible marque rouge au plafond a gauche.
+4. Le rayon atteint le recepteur et l'ascenseur monte.
+5. Sortir : Undiscouraged est automatique.
+
+TEST CHAMBER 02 - LASER STAIRS
+
+1. Poser un portail sous le cube pivot de l'autre cote de la barriere.
+2. Poser le second portail sur une surface accessible de ton cote.
+3. Recuperer le cube et l'orienter dans le rayon pour viser le recepteur.
+4. Monter par les marches deployees.
+5. En haut, poser un portail au sol et un autre sous le cube pivot pour le faire
+   osciller entre les deux positions.
+6. Attraper le cube au passage et le poser sur le bouton de sortie.
+
+TEST CHAMBER 03 - DUAL LASERS
+
+1. Rejoindre la plateforme gauche avec un portail au sol.
+2. Poser un portail sous le recepteur du plafond, puis l'autre sur le point
+   frappe par le rayon superieur.
+3. Recuperer le cube pivot et le placer dans le second rayon afin d'activer le
+   recepteur oppose.
+4. Traverser la porte ouverte et redescendre.
+5. Une ouverture dans un angle contient une salle cachee facultative ; elle ne
+   conditionne pas Steam et peut etre ignoree pour rester sans detour.
+
+TEST CHAMBER 04 - LASER OVER GOO
+
+1. Poser un portail bleu sur le panneau central de gauche.
+2. Placer l'autre sur le point d'impact du rayon afin de lancer la plateforme.
+3. Quand la plateforme arrive au bouton oppose, deplacer le portail pour stopper
+   le rayon et traverser.
+4. Presser le bouton et recuperer le cube qui tombe.
+5. Poser le cube au centre de la plateforme, hors du rayon, puis remettre le
+   portail pour la faire repartir.
+6. Quand le cube coupe le rayon, contourner le cube et le retirer du faisceau.
+7. Atteindre la porte avec le cube et poser le cube sur le bouton de sortie.
+
+TEST CHAMBER 05 - LASER CAGE
+
+1. Mettre le rayon sur le premier recepteur pour relever le premier obstacle.
+2. Passer sous celui-ci et se placer sur la plateforme au-dessus du goo.
+3. Regler le rayon sur le recepteur central, puis monter sur l'elevateur mobile.
+4. Quand l'elevateur depasse le second obstacle, viser le recepteur de droite.
+5. Passer dessous, déplacer le portail vers le panneau de sortie et rejoindre
+   le cube.
+6. Remettre le rayon sur le recepteur gauche, laisser le cube, puis traverser.
+
+TEST CHAMBER 06 - AERIAL FAITH PLATES
+
+PREPARATION
+
+1. Faire une sauvegarde au debut de la salle.
+2. Identifier l'emetteur de plaques de propulsion, le distributeur de cubes,
+   le bouton de sortie et la petite ouverture de maintenance.
+3. Les trois succes de cette salle se font avant la sortie : ne pas poser le
+   cube sur le bouton tant que les actions ci-dessous ne sont pas validees.
+
+DROP BOX - METHODE PRINCIPALE
+
+1. Creer un portail sous le cube quand il apparait au-dessus de la plaque.
+2. Creer l'autre portail directement sur ou au-dessus du bouton de sortie.
+3. Laisser le cube traverser et tomber sur le bouton sans le toucher.
+4. Si le cube touche un mur ou si tu le portes, recharger la sauvegarde et
+   recommencer. Le succes demande que le cube soit pose sans contact direct.
+
+PTURRETDACTYL - METHODE DU CHAPITRE 2
+
+1. Attendre la zone ou une tourelle defective arrive parmi les rebuts.
+2. La saisir sans la jeter dans le goo.
+3. La poser sur la plaque de propulsion, dans l'axe qui l'envoie vers le vide.
+4. Laisser la plaque lancer la tourelle puis attendre le pop-up.
+5. Si la tourelle ne part pas dans l'axe, recharger avant de terminer la salle.
+6. Une autre chance existe dans la Test Chamber 15 du chapitre 3, mais ne pas
+   compter dessus pour une route propre.
+
+FINAL TRANSMISSION - SIGNAL CACHE
+
+1. Chercher la petite radio dans les rebuts du conduit d'appareillage vital.
+2. La garder avec soi jusqu'a la zone de la plaque aerienne.
+3. Utiliser les panneaux inclines et deux portails pour faire passer la radio
+   dans l'ouverture de maintenance situee hors de la route principale.
+4. La radio doit entrer dans le renfoncement de Rat Man, pas seulement tomber
+   dans le goo ou rester sur la plateforme.
+5. Attendre le signal et le succes avant de poser le cube de sortie.
+
+SORTIE ET VERIFICATION DE LA SALLE 06
+
+1. Apres les trois actions, utiliser les portails pour placer le cube sur le
+   bouton de sortie.
+2. Franchir la porte, puis prendre l'ascenseur de chargement.
+3. Dans la salle suivante, conserver une sauvegarde mentale du numero : Test
+   Chamber 07 est la derniere fenetre pour Preservation of Mass.
+
+TEST CHAMBER 07 - PRESERVATION OF MASS
+
+1. Resoudre la salle normalement jusqu'au cube et a l'ascenseur de sortie.
+2. Porter le cube jusqu'a la plateforme proche de l'ascenseur.
+3. Avant de franchir la porte, placer un portail sur la surface accessible de
+   l'autre cote de la porte de sortie.
+4. Placer le second portail au sol, sur la surface de depart.
+5. Passer par le portail avec le cube et faire entrer le cube dans la zone de
+   sortie de facon a provoquer sa disparition par le filtre.
+6. Le succes Preservation of Mass doit apparaitre avant que tu resous la salle.
+7. Recharger si le cube est simplement pose sur le bouton sans passer la limite.
+
+TEST CHAMBERS 08 ET 09 - RAYON ET PONT
+
+1. Diriger le rayon dans le relais pour former l'escalier.
+2. Utiliser le cube pivot dans le faisceau pour ouvrir la barriere suivante.
+3. Pour le pont, placer un portail au point d'impact du pont et l'autre sur la
+   paroi opposee afin de traverser le goo.
+4. Quand un cube tombe du distributeur, maintenir le pont sous le cube avant de
+   le recuperer.
+5. Deposer le cube sur le bouton, puis remettre le pont vers la sortie.
+
+TEST CHAMBER 10 - RICOCHET / OVERCLOCKER
+
+1. Faire la sauvegarde avant la salle et lancer un essai chronometre.
+2. Poser le portail haut au-dessus de l'entree et le portail bas dans le puits.
+3. Tomber dans le puits, recuperer le cube sur la plateforme, puis utiliser la
+   plaque de propulsion pour atteindre la plateforme du rayon.
+4. Mettre le cube dans le rayon afin de baisser la premiere barriere.
+5. Poser le portail sur le mur de beton devant soi.
+6. Prendre la plaque, passer la premiere barriere, puis la seconde en utilisant
+   le meme axe de propulsion.
+7. Sur la plateforme finale, demander un cube pivot avec le bouton.
+8. Remplacer le cube normal dans le rayon par le pivot et viser le recepteur.
+9. Pendant le dernier vol, lancer le cube normal vers le bouton de sortie afin
+   qu'il l'active pendant l'atterrissage.
+10. Objectif : moins de 70 secondes. Si l'essai est lent, recharger et refaire
+    la salle complete. Overclocker est conserve des que le temps est valide.
+
+TEST CHAMBER 11 - PREMIER PONT DE LUMIERE
+
+1. Poser un portail bleu au point ou le pont frappe le mur.
+2. Poser le second sur le mur de l'autre cote du gouffre et traverser.
+3. Appuyer sur le bouton pour lancer les cubes.
+4. Deplacer le portail du pont vers le passage sans sol, puis vers les deux
+   panneaux du coude : le pont doit passer sous le distributeur.
+5. Recuperer un cube sur le pont.
+6. Reorienter le pont vers l'alcove du bouton, entrer par le portail et poser
+   le cube.
+7. Refaire un pont direct vers la sortie. Bridge Over Troubling Water tombe
+   en terminant cette premiere epreuve de pont.
+
+TEST CHAMBER 12 - BRIDGE THE GAP
+
+1. Atteindre le pont haut avec un portail sur la paroi de beton.
+2. Prolonger le pont jusqu'au distributeur en remplacant le portail d'arrivee.
+3. Appuyer sur le bouton et verifier que le cube tombe sur le pont.
+4. Avancer avec le cube, puis retirer le pont sous le cube pour le faire tomber
+   dans l'alcove de sortie.
+5. Placer le cube sur le bouton et franchir la porte.
+
+TEST CHAMBER 13 - TURRET INTRO / CHANCE DE SECOURS DROP BOX
+
+1. Neutraliser la premiere tourelle en la ramassant par-derriere.
+2. Pour la seconde, placer un portail derriere elle depuis le mur voisin.
+3. Pour la troisieme, placer directement un portail sous son support.
+4. Derriere la vitre, placer un portail au plafond au-dessus de chaque tourelle
+   et un portail sous le cube : laisser tomber les cubes sans les toucher pour
+   obtenir Drop Box si ce n'est pas deja fait.
+5. Dans la salle suivante, poser le cube sur le bouton, portaliser derriere les
+   tourelles et passer rapidement.
+
+TEST CHAMBER 14 A 17 - LASER ET TURRETTES
+
+1. Utiliser les plaques de propulsion pour passer les tourelles derriere la
+   vitre, puis poser le cube sur le bouton.
+2. Dans Laser vs Turret, mettre le rayon sous le portail et le laser detruit les
+   tourelles du couloir.
+3. Recuperer le cube pivot, viser les tourelles restantes, puis aligner le
+   faisceau sur le recepteur de sortie.
+4. Dans Pull the Rug, retirer le cube du rayon, le poser sur le pont puis faire
+   monter l'elevateur en supprimant le pont au bon moment.
+5. Continuer jusqu'a l'ascenseur et au chapitre suivant.
+
+CONTROLE CHAPITRE 2
+
+- Undiscouraged obtenu en TC01.
+- Drop Box, Pturretdactyl et Final Transmission traites en TC06.
+- Preservation of Mass traite en TC07.
+- Overclocker reserve pour TC10.
+- Bridge Over Troubling Water obtenu en TC11.
+
+======================================================================
+CHAPITRE 3 - THE RETURN
+======================================================================
+
+TEST CHAMBER 18 - COLUMN BLOCKER
+
+1. Utiliser le pont de lumiere comme couverture contre la tourelle.
+2. Placer le portail sous les cubes pivots quand les distributeurs s'ouvrent.
+3. Poser un cube dans le rayon pour activer deux relais.
+4. Prendre l'autre cube, viser la tourelle pendant une courte fenetre, puis
+   remettre le cube dans le rayon.
+5. Faire passer le faisceau par les deux derniers relais jusqu'au recepteur.
+6. Traverser le pont nouvellement aligne.
+
+TEST CHAMBER 19 - LASER CHAINING
+
+1. Recuperer les cubes pivots sur les deux plateformes avec un portail au plafond.
+2. Utiliser le cube le plus bas pour porter le rayon vers le premier relais.
+3. Faire passer les cubes dans les alcoves en changeant un seul portail a la fois.
+4. Quand les trois relais sont actifs, utiliser la plaque de propulsion pour
+   atteindre le recepteur et la sortie.
+
+TEST CHAMBERS 20 ET 21 - TURRET ET PISTONS
+
+1. Dans la zone de tourelles, rester sous la couverture du pont jusqu'a la
+   plateforme opposee.
+2. Utiliser un portail sous le cube, puis le bouton pour fermer la vitre.
+3. Placer le cube sur le bouton, traverser et neutraliser les tourelles par
+   portail ou en passant par leur dos.
+4. Dans la zone des pistons, utiliser les plateformes concretes pour monter.
+5. Passer entre les pistons quand ils remontent, sans courir dans l'axe central.
+
+TEST CHAMBER 22 - BRIDGE INTRO
+
+1. Ne pas suivre automatiquement la route proposee par la salle : le succes
+   Good Listener exige de prendre le pont vers la Test Chamber 22.
+2. Entrer dans la chambre 22 et attendre la validation du succes.
+3. Revenir ensuite au point de depart et continuer sur le pont oppose. La scene
+   de la salle est volontairement trompeuse, mais elle n'empeche pas la route.
+
+FIN DE CHAPITRE 3
+
+1. Traverser les catwalks et rejoindre l'ascenseur apres la salle du pont.
+2. Le succes Good Listener est unique : ne pas quitter la zone avant son pop-up.
+
+CONTROLE CHAPITRE 3
+
+- Overclocker doit etre obtenu en TC10 en 70 secondes ou moins.
+- Good Listener est valide en TC22 avant la route d'evasion.
+- Les salles 13 et 15 du chapitre 2/3 donnent des secondes chances a Drop Box
+  et Pturretdactyl : les noter si le premier passage a ete rate.
+
+======================================================================
+CHAPITRE 4 - THE SURPRISE
+======================================================================
+
+TEST CHAMBER 23 - SORTIE DES COLONNES
+
+1. Utiliser la couverture du pont pour ne pas rester dans la ligne de tir.
+2. Recuperer les deux cubes pivots et les placer dans l'alcove du rayon.
+3. Un cube doit activer deux relais ; l'autre sert a detruire la tourelle puis a
+   aligner le dernier relais.
+4. Former un pont depuis le point d'impact du pont haut vers la porte.
+
+TEST CHAMBER 24 - CHAINE DE LASERS
+
+1. Descendre chercher les cubes pivots avec le portail au plafond.
+2. Placer le premier cube sur la plaque de propulsion afin de le recuperer.
+3. Mettre les trois cubes dans les relais en utilisant les murs de chaque cote.
+4. Une fois le recepteur actif, faire la plaque, puis franchir la porte.
+
+ZONE D'EVASION
+
+1. Suivre les indications de Wheatley et traverser les anciennes salles sans
+   chercher un nouveau objet de collection.
+2. Quand le rayon lumineux disparait, courir sur le catwalk jusqu'a la zone de
+   tubes pneumatiques.
+3. La tourelle oracle n'est plus a saisir ici : elle sera visee au chapitre 5.
+4. Continuer jusqu'a la salle ou trois tourelles sont deployees.
+
+CONTROLE CHAPITRE 4
+
+- SaBOTour tombe automatiquement pendant l'evasion.
+- Good Listener a ete fait au chapitre 3, dans la salle 22.
+- Aucune autre case Steam ne demande une action unique dans ce chapitre.
+
+======================================================================
+CHAPITRE 5 - THE ESCAPE
+======================================================================
+
+ZONE DE FABRICATION DES TURRETTES
+
+1. Traverser la porte entrouverte avec un portail.
+2. Suivre la lampe de Wheatley dans le noir, puis monter sur le convoyeur.
+3. Se tenir sur la plaque metallique juste avant les lasers de decoupe.
+4. Passer quand les lasers se deplacent vers toi et rejoindre le catwalk gauche.
+5. Aux impasses, attendre que les murs soient eclaires puis poser un portail sur
+   chaque panneau indique.
+6. Descendre sur les caisses, suivre les tubes et entrer par la porte ronde.
+
+TURRET TESTING AREA - NO HARD FEELINGS
+
+1. Poser un portail bleu dans la salle de commande avant de partir sur le tapis.
+2. Poser l'autre portail sur le mur au-dessus du tapis et traverser.
+3. Avant le four, monter sur la plateforme metallique a droite.
+4. Suivre les conduites jusqu'au second tapis et marcher a contre-sens.
+5. Quand une tourelle defective dit qu'elle est differente, la saisir.
+6. Conserver la tourelle en main jusqu'a l'apparition du succes No Hard Feelings.
+7. La reposer ensuite hors du convoyeur pour ne pas la perdre dans l'incinerateur.
+
+FIRING RANGE ET SCANNED ALONE
+
+1. Dans le stand de tir, utiliser un portail sur la cible et un autre derriere
+   la ligne de tourelles, puis traverser vite.
+2. Dans la salle de scan, observer la tourelle modele dans le poste de commande.
+3. Attendre une tourelle defective devant l'incinerateur et la recuperer.
+4. Entrer dans le poste de commande quand la vitre est ouverte.
+5. Retirer la tourelle modele, la poser a l'ecart, puis entrer seul dans le
+   cercle de scan ou elle se trouvait.
+6. Attendre le balayage complet : Scanned Alone est valide ici.
+7. Placer ensuite la tourelle defective dans le scan pour continuer la route.
+
+SORTIE DE LA FABRIQUE
+
+1. Rejoindre la porte ronde, puis traverser le couloir des batteries.
+2. Suivre les indications jusqu'au transfert de commande et a la chute vers
+   l'ancienne installation.
+3. Le chapitre suivant commence apres l'ascenseur de maintenance.
+
+CONTROLE CHAPITRE 5
+
+- No Hard Feelings : tourelle defective saisie sur le convoyeur.
+- Scanned Alone : joueur scanne a la place de la tourelle modele.
+- Ne pas confondre la tourelle oracle du chapitre 1 et celle du convoyeur.
+
+======================================================================
+CHAPITRE 6 - THE FALL
+======================================================================
+
+ZONE DES POMPES ET DES SPHERES DE TEST
+
+1. Traverser les catwalks, ouvrir la grande porte avec les deux boutons a
+   actionner rapidement via un portail.
+2. Rejoindre la station Alpha et utiliser les panneaux de beton pour atteindre
+   la plateforme haute.
+3. Passer la premiere porte vitrifee avant d'entrer dans les salles de gel.
+
+ALPHA TEST CHAMBERS 01 ET 02
+
+1. Dans la premiere salle, rebondir sur le gel bleu jusqu'a la plateforme du
+   bouton.
+2. Appuyer sur le bouton, recuperer le cube, traverser le gel et poser le cube
+   sur le bouton de sortie.
+3. Dans la seconde salle, monter sur le gel, poser un portail sur le mur proche
+   et un autre au-dessus du portique mobile.
+4. Monter sur le portique, attendre qu'il arrive sous l'alcove du cube et
+   recuperer le cube.
+5. Revenir par le gel, portaliser vers la plateforme du bouton et poser le cube.
+6. Utiliser le panneau retourne pour traverser le filtre et rejoindre la sortie.
+
+ALPHA TEST CHAMBER 03 - VERTICALLY UNCHALLENGED
+
+1. Faire une sauvegarde au debut de la salle.
+2. Portaliser jusqu'au niveau 1 et viser le distributeur de gel bleu.
+3. Appuyer sur le bouton, puis marcher sur le gel pour rebondir vers le niveau 2.
+4. Peindre un chemin de gel bleu sur le sol bas en deplacant le portail sous la
+   goutte, puis en changeant le portail de position avant l'impact.
+5. Le chemin doit permettre de rebondir vers le niveau 2 puis a travers le filtre.
+6. Sur la plateforme haute, placer un portail sur le panneau incline.
+7. Mettre le portail bas au niveau 0 et sauter dedans pour etre projete vers la
+   plaque bleue et la sortie.
+8. Vertically Unchallenged tombe automatiquement en fin de salle.
+
+ALPHA TEST CHAMBER 04 - EAU ET GEL
+
+1. Teleporter la goutte de gel sous le bouton derriere la grille.
+2. Rebonds sur le gel, appuyer sur le bouton en l'air et couper le jet d'eau.
+3. Profiter de la courte fenetre pour franchir la zone lavee et atteindre la
+   plateforme suivante.
+4. Dans la zone haute, peindre la paroi avec le gel, puis rebondir vers la
+   plateforme de sortie.
+
+ALPHA TEST CHAMBER 05 - SCHRODINGER'S CATCH
+
+1. Faire une sauvegarde avant la boite de verre suspendue.
+2. Poser un portail au plafond au-dessus de la boite.
+3. Poser l'autre sous la goutte de gel bleu pour faire entrer le gel dans la
+   boite et la mettre en mouvement.
+4. Quand la boite casse, attraper le cube bleu avant qu'il ne touche le sol.
+5. Le succes demande la capture en vol : si le cube tombe, recharger la salle.
+6. Poser ensuite le cube sur le bouton et continuer vers les pompes.
+
+PUMP STATION ALPHA ET SIX PORTES VITRIFEES
+
+1. Remonter par les catwalks avec le gel et traverser le filtre superieur.
+2. Arriver dans le hall des portes vitrifees : c'est la premiere moitie de Door
+   Prize.
+3. Inspecter les trois portes metalliques du hall, une par une, avec le bouton
+   d'interaction. Attendre l'animation courte avant de passer a la suivante.
+4. Continuer vers la zone Beta. Les trois autres portes sont dans la zone de
+   test Beta, sur le parcours des anciens laboratoires.
+5. Inspecter les trois portes Beta avant de prendre l'ascenseur vers les gels.
+6. Door Prize est valide apres la sixieme porte inspectee.
+
+SHIP OVERBOARD
+
+1. Dans la zone des portes vitrifees, reperer la porte ouverte et endommagee qui
+   donne sur une petite zone de quai.
+2. Entrer dans le quai au lieu de suivre la sortie principale.
+3. Aller jusqu'au fond, passer les bouees et la zone d'amarrage, puis regarder
+   le bateau hors de la salle de test.
+4. Attendre la validation de Ship Overboard avant de revenir a la route.
+
+TATER TOTE
+
+1. Revenir a la salle de commande ou la batterie de pomme de terre est visible.
+2. Ouvrir la cabine de verre, recuperer l'objet et le garder en main.
+3. Suivre le chemin jusqu'a l'ascenseur et attendre le succes Tater Tote.
+4. Ne pas le jeter dans le goo et ne pas le laisser sur un bouton secondaire.
+
+CONTROLE CHAPITRE 6
+
+- Vertically Unchallenged : Alpha 03.
+- Schrodinger's Catch : Alpha 05, cube bleu attrape en vol.
+- Door Prize : trois portes dans le hall, trois dans la zone Beta.
+- Ship Overboard : quai cache derriere la porte endommagee.
+- Tater Tote : objet transporte depuis la cabine de commande.
+
+======================================================================
+CHAPITRE 7 - THE REUNION
+======================================================================
+
+GAMMA TEST CHAMBER 01 - WHITE OUT
+
+1. Atteindre la station Gamma en portalant sur les panneaux haut de la salle.
+2. Activer les trois leviers de la salle de commande.
+3. Quand le gel blanc apparait, placer un portail sous la fuite et l'autre sur
+   la surface a peindre pour rendre la passerelle utilisable.
+4. Passer les pistons en utilisant le gel orange comme piste de vitesse.
+5. Dans la zone du stylo, accumuler du gel blanc sur une surface exterieure,
+   puis sortir par le portail.
+6. Peindre les piliers face a face jusqu'au catwalk haut.
+7. Placer un portail sur la plaque inclinee blanchie et un autre au sol, puis
+   sauter dedans pour rejoindre la sortie.
+8. White Out tombe automatiquement a la fin de la premiere salle Gamma.
+
+GAMMA TEST CHAMBERS 02 ET 03
+
+1. Utiliser le gel bleu et les portails de la station pour monter les colonnes.
+2. Pour les pistes de gel, toujours peindre une zone complete avant de tenter
+   le saut : une petite tache ne donne pas assez de vitesse.
+3. Utiliser les grilles pour viser les fuites blanches et les panneaux du plafond.
+4. Monter jusqu'a l'ascenseur qui ouvre la route vers les salles Beta.
+
+BETA TEST CHAMBER 01 - PROPULSION
+
+1. Suivre la piste orange jusqu'a la plateforme haute.
+2. Poser un portail au bout de la piste et l'autre sur le panneau incline pour
+   transformer la vitesse en lancement.
+3. Utiliser la conversion blanche pour rendre portalables les murs de la salle.
+
+PORTRAIT OF A LADY - ZONE ENTRE BETA 01 ET BETA 02
+
+1. Apres la sortie de Beta 01, ne pas prendre immediatement la porte de Beta 02.
+2. Dans le couloir court, regarder derriere le filtre et reperer l'espace haut
+   visible par une ouverture.
+3. Portaliser sur les panneaux du mur de droite pour entrer dans la petite
+   salle d'observation cachee.
+4. Regarder le portrait pose dans cette salle jusqu'a l'apparition de Portrait
+   of a Lady.
+5. Revenir dans le couloir par les memes portails et entrer dans Beta 02.
+
+BETA TEST CHAMBER 02
+
+1. Utiliser les panneaux inclines et la piste orange pour franchir le filtre.
+2. Quand la salle demande de changer la direction du gel, deplacer le portail
+   d'arrivee plutot que le portail sous la fuite.
+3. Atteindre le bouton, poser le cube puis utiliser la passerelle vers la sortie.
+
+BETA TEST CHAMBER 03 - STRANGER THAN FRICTION
+
+1. Poser un portail sous la fuite de gel orange.
+2. Poser l'autre sur la surface inclinee qui vise la plateforme d'arrivee.
+3. Appuyer sur le bouton pour peindre la piste, puis faire un long sprint sans
+   toucher le filtre avant le lancement.
+4. Utiliser la vitesse pour atteindre le panneau haut et la salle suivante.
+5. Stranger Than Friction est valide a la fin de cette premiere vraie salle de
+   propulsion.
+
+POMPE ET ASCENSEUR DE SORTIE
+
+1. Monter par les catwalks avec les trois gels : bleu pour rebondir, orange pour
+   courir, blanc pour ouvrir de nouvelles surfaces.
+2. Dans la salle des conduites, utiliser la grille pour envoyer le gel dans le
+   ventilateur et peindre le plafond.
+3. Portaliser jusqu'a la petite pompe, regarder le panneau demande et appuyer
+   sur le bouton rouge.
+4. Monter avec l'ascenseur de maintenance et rejoindre l'ascenseur de sortie.
+
+CONTROLE CHAPITRE 7
+
+- White Out : Gamma Test Chamber 01.
+- Portrait of a Lady : salle d'observation entre Beta 01 et Beta 02.
+- Stranger Than Friction : Beta Test Chamber 03.
+- Tater Tote doit avoir ete valide au chapitre 6 avant de quitter la zone Beta.
+
+======================================================================
+CHAPITRE 8 - THE ITCH
+======================================================================
+
+REGLE SMASH TV
+
+Les quatre premiers ecrans du chapitre ne peuvent pas etre casses. A partir de
+Wheatley Test Chamber 01-B, chaque ecran rencontre sur la route peut l'etre.
+La route ci-dessous casse exactement les onze ecrans necessaires, dans l'ordre.
+
+FRANKENTURRET TEST ET WHEATLEY 01-A
+
+1. Traverser l'observation, portaliser par la paroi cassee et prendre l'ascenseur.
+2. Dans la salle pleine de tourelles-robots, porter une tourelle sur le bouton.
+3. Entrer dans Wheatley 01-A et faire une sauvegarde avant le bouton.
+4. Pour You Made Your Point, ne toucher a rien apres la demande de resolution.
+5. Attendre la fin du dialogue et le pop-up. Ne pas appuyer sur le bouton avant.
+6. Appuyer ensuite sur le bouton : le cube est lance sur le bouton oppose et la
+   porte s'ouvre. Cette action valide aussi Drop Box si elle ne l'a pas ete.
+7. Refaire exactement la salle une seconde fois quand elle est reproposee.
+8. Dual Pit Experiment tombe automatiquement apres la seconde resolution.
+
+WHEATLEY 01-B - SMASH TV 1/11
+
+1. Entrer dans l'entonnoir et placer le portail sur le panneau a damier ou il
+   s'arrete.
+2. Placer l'autre portail au-dessus de la salle d'observation.
+3. Recuperer le cube-robot transporte par l'entonnoir.
+4. Mettre le cube entre deux portails verticaux pour le faire tomber en boucle.
+5. Deplacer le portail haut face a l'ecran : le cube le percute.
+6. Replacer le portail sous l'entonnoir, poser le cube dans l'entonnoir et
+   attendre qu'il ouvre la sortie.
+
+WHEATLEY TEST CHAMBER 02 - SMASH TV 2/11
+
+1. Monter dans l'entonnoir jusqu'a la plateforme haute.
+2. Reorienter l'entonnoir vers le distributeur, faire tomber la tourelle-robot,
+   puis la monter au-dessus du damier.
+3. Placer le portail haut face a l'ecran et couper l'entonnoir : le cube est
+   projete dans l'ecran.
+4. Refaire la trajectoire pour obtenir un nouveau cube et ouvrir la sortie.
+
+WHEATLEY TEST CHAMBER 03 - SMASH TV 3/11
+
+1. Activer l'entonnoir avec les portails du plafond et de la paroi gauche.
+2. Faire descendre une tourelle-robot dans l'entonnoir.
+3. Deplacer le portail vers la paroi face a la plateforme pour la recuperer.
+4. Couper l'entonnoir devant l'ecran et lancer le cube dedans.
+5. Placer ensuite le cube dans l'entonnoir pour pousser le bouton de sortie.
+
+WHEATLEY TEST CHAMBER 04 - SMASH TV 4/11
+
+1. Orienter l'entonnoir au-dessus de la plateforme.
+2. Attraper une tourelle-robot en vol et la deposer sur la plaque de propulsion.
+3. Utiliser la plaque pour envoyer le cube vers l'ecran de la salle.
+4. Reprendre le cube avec l'entonnoir et continuer.
+
+WHEATLEY TEST CHAMBER 05 - SMASH TV 5 ET 6/11
+
+1. Se lancer dans l'entonnoir depuis la plaque pour atteindre le plafond.
+2. Reorienter le portail vers le premier ecran lateral et faire passer le cube.
+3. Refaire apparaitre un cube, placer le portail sur le panneau incline oppose
+   a la sortie et viser le second ecran.
+4. Poser le cube sur le bouton de sortie quand les deux ecrans sont casses.
+
+WHEATLEY TEST CHAMBER 06 - SMASH TV 7/11
+
+1. La plaque de propulsion permet de casser directement l'ecran visible devant
+   la trajectoire : marcher dessus.
+2. Utiliser le pont de lumiere pour bloquer les tourelles et recuperer la
+   tourelle-robot.
+3. Poser le cube sur le bouton et sortir par la passerelle.
+
+WHEATLEY TEST CHAMBER 11 - SMASH TV 8/11
+
+1. Utiliser l'entonnoir pour recuperer la tourelle sur la plateforme haute.
+2. Dans le puits, poser la tourelle dans le rayon pour couper l'entonnoir.
+3. Recuperer le cube pivot et l'orienter vers un panneau portalable.
+4. Faire passer le rayon dans le portail puis face a l'ecran de Wheatley.
+5. Maintenir l'angle jusqu'a la destruction de l'ecran.
+6. Remettre ensuite le cube pivot pour activer l'elevateur et la sortie.
+
+WHEATLEY TEST CHAMBER 12 - SMASH TV 9/11
+
+1. Monter sur l'elevateur mobile avec le rayon et les deux panneaux marques.
+2. Desactiver le champ laser en changeant le portail superieur au moment ou la
+   plateforme traverse la zone dangereuse.
+3. Faire tomber le cube pivot sur la plateforme et le transporter de l'autre cote.
+4. Orienter le rayon vers l'ecran pour casser le neuvieme moniteur.
+5. Refaire la traversée avec le cube pivot et le placer sur le recepteur de sortie.
+
+WHEATLEY TEST CHAMBER 15 - SMASH TV 10/11 ET TUNNEL OF FUNNEL
+
+1. Appuyer sur le bouton et faire tomber la tourelle-robot sur la plateforme.
+2. Poser un portail au plafond au-dessus de l'entonnoir et l'autre sous le cube.
+3. Activer l'entonnoir, puis le reorienter sous la plateforme pour recuperer le
+   cube.
+4. Pour Smash TV 10/11, placer le portail haut au-dessus de l'entree et sauter
+   dans l'entonnoir : la projection casse l'ecran.
+5. Poser le cube dans le bouton de la petite alcove derriere la vitre.
+6. Faire passer le gel orange dans l'entonnoir, couper l'entonnoir au-dessus de
+   la rampe pour former une piste au sol.
+7. Placer un portail derriere le filtre, courir sur la piste et sauter dans
+   l'entonnoir qui traverse le tunnel.
+8. Tunnel of Funnel tombe a l'arrivee sur la plateforme de sortie.
+
+WHEATLEY TEST CHAMBER 16
+
+1. Utiliser le gel blanc pour franchir le couloir detruit.
+2. Faire passer le gel bleu dans l'entonnoir et le deposer sur la petite plateforme.
+3. Rebondir vers les boutons, puis placer le cube sur le bouton final.
+4. Utiliser le pont et le gel pour atteindre la sortie sans revenir vers les
+   tourelles.
+
+FIN DU CHAPITRE 8
+
+1. Traverser les couloirs de gel et la salle de maintenance.
+2. La route saute certaines salles numerotees : ce n'est pas une erreur, la
+   construction de Wheatley les rend volontairement inaccessibles.
+3. Prendre l'ascenseur vers le dernier chapitre avec onze ecrans detruits.
+
+CONTROLE CHAPITRE 8
+
+- You Made Your Point fait avant de resoudre Wheatley 01-A.
+- Dual Pit Experiment valide apres avoir resolu 01-A deux fois.
+- Smash TV : ecrans 1 a 4 dans 01-B a 05, ecran 7 dans 06, ecran 8 dans 11,
+  ecran 9 dans 12, ecran 10 dans 15 et ecran 11 dans la derniere trajectoire.
+- Tunnel of Funnel valide dans la Test Chamber 15.
+
+======================================================================
+CHAPITRE 9 - THE PART WHERE HE KILLS YOU
+======================================================================
+
+WHEATLEY TEST CHAMBERS 17 ET 18
+
+1. Entrer dans la salle 17 et suivre le pont de lumiere jusqu'au cube.
+2. Reorienter le pont avec un portail pour atteindre le rayon.
+3. Retirer le cube du faisceau, le poser sur le pont puis faire monter
+   l'elevateur sous le bouton.
+4. Retirer le pont au moment ou l'elevateur est sous le cube : le cube tombe
+   sur le bouton et ouvre la sortie.
+5. Continuer sur les plateformes de gel et les panneaux de lancement.
+
+PIT BOSS - TEST CHAMBER 17
+
+1. Faire une sauvegarde au debut de la zone finale.
+2. Quand la salle te demande d'entrer dans le puits, le faire volontairement.
+3. Attendre la validation de Pit Boss avant de continuer.
+4. Si tu as saute au mauvais moment et que le succes ne s'affiche pas, recharger
+   le debut de la salle et accepter la demande directement.
+
+COMBAT FINAL ET SUCCES AUTOMATIQUES
+
+1. Utiliser les plaques de propulsion pour atteindre les surfaces blanches.
+2. Renvoyer les projectiles vers le mecanisme avec les portails et les panneaux.
+3. Pour chaque phase, attendre que la zone de contact soit visible avant de
+   lancer le projectile : un tir dans le vide ne progresse pas.
+4. Recuperer les coeurs demandés un par un et les brancher sur les prises.
+5. Quand le bouton de blocage est protege, passer par la grille avec un portail.
+6. Dans la derniere salle, viser la surface circulaire claire quand le jeu le
+   demande. Le succes The Part Where He Kills You est automatique dans sa phase.
+7. Le succes Lunacy tombe automatiquement a la conclusion de la campagne.
+
+CONTROLE SOLO FINAL
+
+- Les 18 succes solo doivent etre visibles avant de lancer la coop.
+- Les actions possiblement ratees se rejouent depuis le selecteur de chapitre :
+  TC06, TC07, TC10, TC22, laboratoire des tourelles, Alpha 03/05, Beta 01/02,
+  Wheatley 01-A, 05, 06, 11, 12 et 15, puis Test Chamber 17.
+
+======================================================================
+COOP - PREPARATION ET ORDRE COMPLET
+======================================================================
+
+REGLES DE PARTENARIAT
+
+1. Jouer avec un ami Steam et une communication vocale si possible.
+2. Garder Blue et Orange dans les memes roles pendant une premiere lecture.
+3. Utiliser le compte a rebours pour les boutons simultanes, les plaques et les
+   cubes lances.
+4. Faire les succes uniques avant de valider le disque de fin de parcours.
+5. Un parcours peut etre termine en plusieurs sessions : les succes de cours
+   restent acquis, mais Still Alive impose une tentative sans mort du debut a la fin.
+
+GESTES A DEBLOQUER ET A REFAIRE
+
+Les huit gestes de base a executer volontairement sont : vague, high five, rire,
+pierre-feuille-ciseaux, accolade, danse, provocation et feu de joie. Un geste
+automatique montre qu'il est debloque mais ne compte pas pour Gesticul-8 : le
+refaire depuis la roue des gestes. Le geste aerien se declenche directement avec
+le bouton de geste pendant une chute ou un entonnoir.
+
+CALIBRATION COURSE - TUTORIEL
+
+1. Faire la vague via la roue des gestes.
+2. Choisir l'animal ou l'element avec le ping, puis observer le choix du partenaire.
+3. Indiquer le panneau incline au-dessus du pistolet pour obtenir le premier
+   portail, puis viser le panneau voisin pour ouvrir le passage.
+4. Prendre le pistolet, franchir la porte, portaliser vers la plateforme haute.
+5. Appuyer sur les deux boutons a tour de role pour ouvrir la porte commune.
+6. Dans la salle de verre, placer deux portails de part et d'autre de la vitre
+   pour que le partenaire puisse passer.
+7. Appuyer sur le distributeur, lancer le cube a travers l'ouverture et le
+   recuperer de l'autre cote.
+8. Placer le cube dans le receptacle, puis utiliser les plateformes qui montent.
+9. Rejoindre la porte double : le high five automatique valide High Five.
+10. Faire Air Show pendant le long passage aerien : chaque joueur fait deux
+    gestes aeriens avant de toucher le sol.
+
+GESTES GENERAUX A FAIRE DES QUE POSSIBLE
+
+1. A la premiere chambre qui debloque les gestes avances, refaire chaque geste
+   nouvellement apparu depuis la roue.
+2. A la chambre Team Building 04, jouer a pierre-feuille-ciseaux jusqu'a trois
+   victoires consecutives. Un nul ne casse pas la serie ; une defaite la remet
+   a zero.
+3. Pour Narbacular Drop, poser un portail sous le partenaire pendant qu'il
+   execute un geste et le faire tomber dans le portail.
+4. Pour Empty Gesture, creer un pont au-dessus du goo, faire gesticuler le
+   partenaire, puis retirer le portail qui porte le pont.
+5. Pour Friends List With Benefits, faire une accolade a trois amis Steam
+   differents. Un inconnu du matchmaking ne compte pas.
+
+======================================================================
+COOP COURSE 01 - TEAM BUILDING
+======================================================================
+
+CHAMBER 01 - DOORS
+
+1. Blue appuie sur le bouton central.
+2. Orange pose un portail sur le panneau de l'alcove et traverse la porte.
+3. Blue se place sur le second bouton.
+4. Orange sort, pose le second portail sur le panneau de droite et Blue traverse.
+5. Avant le disque de fin, faire une camera pour Asking for Trouble si c'est la
+   premiere camera du parcours : geste quand la lumiere de la camera s'allume.
+
+CHAMBER 02 - BUTTONS
+
+1. Blue portalise au-dessus du petit fosse de goo et rejoint la porte.
+2. Orange appuie sur le bouton d'ouverture.
+3. Dans la salle suivante, chacun se place sur une plateforme haute.
+4. Utiliser un compte a rebours pour presser les deux boutons hauts puis les
+   deux boutons bas dans la meme fenetre.
+5. Recuperer la balle et la mettre dans le receptacle.
+
+CHAMBER 03 - LASERS
+
+1. Blue prend le cube pivot et redirige le rayon vers le relais de l'alcove.
+2. Orange place ses portails pour faire passer le rayon par le second relais.
+3. Dans la salle des tourelles, Orange appuie sur le bouton derriere la vitre.
+4. Blue vise les tourelles avec le rayon, puis place le faisceau sur les deux
+   panneaux voisins.
+5. Orange portalise le couloir de verre ; Blue place les deux portails sur les
+   panneaux pour activer le relais et les marches.
+
+CHAMBER 04 - RAT MAZE
+
+1. Le geste pierre-feuille-ciseaux se debloque ici. Le refaire volontairement.
+2. Avant la solution, jouer a trois victoires consecutives pour Rock Portal
+   Scissors.
+3. Blue met un portail a l'entree du labyrinthe et un autre au debut du parcours.
+4. Orange utilise le bouton bas pour descendre les blocs.
+5. Blue descend dans le trou, pose un portail au sol et se place au bout du tunnel.
+6. Orange remonte les blocs, Blue attrape le cube pivot et revient par le portail.
+7. Replacer le cube dans le rayon afin d'activer le relais au-dessus de la sortie.
+
+CHAMBER 05 - LASER CRUSHER
+
+1. Blue tient le cube dans le rayon et releve le premier concasseur.
+2. Orange passe sous le concasseur vers la plateforme de goo.
+3. Blue vise le recepteur central ; Orange se teleporte sur l'elevateur mobile.
+4. Quand l'elevateur depasse le concasseur, viser le recepteur droit.
+5. Orange passe sous le concasseur, pose un portail vers la sortie et Blue le rejoint.
+
+SCANNER / DISC DE FIN
+
+1. Portaliser vers le bureau au-dessus du vide.
+2. Tirer les deux interrupteurs avec un compte a rebours.
+3. Tirer un portail a travers la porte avant qu'elle se referme.
+4. Recuperer le disque et le placer dans le lecteur.
+5. Team Building tombe apres le disque.
+
+ACTION CAMERA COURSE 01
+
+- Faire la danse devant la camera de la porte double avant le disque.
+- Cette validation compte pour Asking for Trouble, une seule fois par parcours.
+- Faire une accolade si le geste est disponible ; elle compte seulement si le
+  partenaire est un ami distinct pour Friends List With Benefits.
+
+======================================================================
+COOP COURSE 02 - MASS AND VELOCITY
+======================================================================
+
+CHAMBER 01 - FLINGS
+
+1. Blue rejoint la plateforme haute ; Orange place les portails sur le panneau
+   oppose et au sol.
+2. Chacun traverse le portail au sol pour etre projete vers la plateforme basse.
+3. Refaire la configuration de l'autre cote pour atteindre les boutons.
+4. Presser les deux boutons, recuperer la balle et la mettre dans le receptacle.
+
+CHAMBER 02 - INFINIFLING
+
+1. Blue entre dans l'alcove du filtre.
+2. Orange place les deux portails verticalement pour faire tomber Blue en boucle.
+3. Appuyer sur le bouton qui deplace le mur, puis placer le portail d'arrivee sur
+   le panneau incline pour lancer Blue de l'autre cote du goo.
+4. Inverser les roles pour faire passer Orange.
+5. Temps conseille pour Triple Crown : viser moins de 60 secondes.
+
+CHAMBER 03 - TEAM RETRIEVAL
+
+1. Blue entre dans l'alcove ; Orange lance son partenaire par les portails.
+2. Orange appuie sur le bouton pour lever les plateformes.
+3. Blue recupere la balle et la tient assez haut pour la passer a Orange.
+4. Orange la met dans le receptacle.
+5. Faire un essai rapide : cette chambre peut compter pour Triple Crown.
+
+CHAMBER 04 - VERTICAL FLINGS / FOUR RING CIRCUS
+
+1. Orange met Blue en chute infinie entre deux portails verticaux.
+2. Blue presse les deux boutons pendant ses oscillations.
+3. Quand quatre balles apparaissent, en prendre une et la poser dans le receptacle.
+4. Pour Four Ring Circus, Blue reste en chute entre ses deux portails.
+5. Orange pose son propre portail sur le sol, attend que Blue soit entre dans ses
+   deux portails, puis remplace rapidement un portail de Blue par le second sien.
+6. Blue doit entrer dans quatre portails differents sans toucher le sol.
+7. Refaire la chambre si Blue atterrit ou si un portail est remplace trop tot.
+
+CHAMBER 05 - CATAPULTS
+
+1. Placer un portail sur le panneau incline et un autre au-dessus de la plaque.
+2. Chacun prend la plaque pour franchir le filtre.
+3. Utiliser le portail superieur et le panneau incline pour se lancer vers la
+   plateforme de la porte double.
+
+CHAMBER 06 - IRON GRIP
+
+1. Utiliser les plaques de propulsion pour rejoindre les deux plateformes.
+2. Dans la salle suivante, Blue vise le panneau au-dessus de la plateforme.
+3. Orange appuie sur le distributeur au moment ou Blue est lance.
+4. Blue doit attraper le cube pivot au vol, le conserver en main et atterrir avec.
+5. Refaire la plaque avec le cube, puis le poser dans le receptacle.
+6. Si le cube tombe dans le goo, recommencer la chambre depuis son selecteur.
+7. Iron Grip tombe quand la porte s'ouvre avec le cube conserve.
+
+CHAMBER 07 - FLING CRUSHERS
+
+1. Synchroniser les deux plaques et boutons avec le ping compte a rebours.
+2. Orange tient le cube pivot dans le rayon pour lever l'elevateur de Blue.
+3. Blue se lance dans le bouton qui desactive les concasseurs.
+4. Orange pose le cube sur la plaque, puis tous deux courent vers la porte.
+
+THE BLUEPRINTS - INDUSTRIAL FAN
+
+1. Blue utilise le panneau 01 et Orange le panneau 02 pour lancer Blue sur le bouton.
+2. Au troisieme signal, Orange se lance et attrape le cube pivot.
+3. Orienter le cube pour couper le ventilateur.
+4. Blue traverse le ventilateur, puis les deux interrupteurs sont tires ensemble.
+5. Inserer le disque : Confidence Building tombe a la fin du Course 02.
+
+TRIPLE CROWN - PLAN DE TEMPS
+
+- Les chambres 02, 03 et 04 sont la combinaison la plus stable pour passer sous
+  60 secondes chacune.
+- Le jeu conserve le meilleur temps de chaque chambre : les trois temps ne sont
+  pas obliges d'etre realises dans la meme session.
+- Revenir au Hub si le chronometre depasse 60 secondes, puis relancer seulement
+  la chambre concernee.
+
+======================================================================
+COOP COURSE 03 - HARD-LIGHT SURFACES
+======================================================================
+
+CHAMBER 01 - COOPERATIVE BRIDGES
+
+1. Blue etend le pont au-dessus du goo, puis les deux traversent.
+2. Deplacer le portail pour orienter le pont vers le bouton.
+3. Orange traverse et appuie sur le distributeur de balle.
+4. Blue place le pont au-dessus de la plaque ; Orange apporte la balle.
+5. Faire tomber le pont sous Blue pendant un geste pour Empty Gesture, puis
+   refaire la chambre sans cette action si vous voulez eviter une mort.
+
+CHAMBER 02 - BRIDGE SWAP
+
+1. Blue etend le pont dans le couloir.
+2. Orange pose un portail sur le panneau lateral.
+3. Blue remplace son portail pour faire passer Orange par le pont et le portail.
+4. Orange pose le portail final, puis les deux franchissent la porte double.
+
+CHAMBER 03 - FLING BLOCK / PORTAL CONSERVATION SOCIETY
+
+1. Faire une sauvegarde de chambre et compter les tirs : cinq placements au total.
+2. Blue : portail bleu au point d'impact du pont, portail violet sur le panneau
+   frontal, puis traverser vers l'emetteur.
+3. Blue se placer sur l'emetteur et poser le portail violet sur les panneaux haut
+   pour amener le pont sous le distributeur.
+4. Orange appuyer sur le bouton ; Blue attraper la balle et traverser.
+5. Poser la balle dans le receptacle, attendre que les deux soient en securite.
+6. Orange placer un portail au point d'impact, puis son second a la limite exacte
+   entre les panneaux du plafond au-dessus de la plaque.
+7. Blue utiliser la plaque pour se faire rebondir dans l'alcove de sortie.
+8. Orange suivre exactement la meme trajectoire.
+9. Le compteur doit rester a cinq portails places dans la chambre. Si un tir est
+   rate, recommencer depuis le selecteur avant la sortie.
+
+CHAMBER 04 - CATAPULT BLOCK
+
+1. Blue place le pont sous la trajectoire de la plaque.
+2. Orange se lance ; Blue place un pont sous Orange a l'apex.
+3. Orange traverse, Blue retire puis remet le pont au moment du second lancement.
+4. Rejoindre la plateforme par le pont incline.
+
+CHAMBER 05 - BRIDGE FLING
+
+1. Utiliser les plaques pour atteindre le pont et le panneau bas.
+2. Blue se lance, pose un pont sous lui, puis Orange le rejoint.
+3. Deplacer le pont perpendiculairement pour atteindre l'alcove.
+4. Dans la salle des deux filtres, chaque joueur se lance de son cote, puis
+   repositionne les portails pour que l'autre traverse.
+5. Refaire le trajet en sens inverse pour rejoindre la porte finale.
+
+CHAMBER 06 - TURRET WALLS / CAN'T TOUCH THIS
+
+1. Blue etend le pont devant les tourelles.
+2. Orange place ses portails pour rejoindre l'autre cote.
+3. Devant la tourelle bloquee par le pont, danser dans sa ligne de tir : Can't
+   Touch This peut etre valide par chaque joueur separement.
+4. Deplacer ensuite le pont pour couvrir la seconde ligne de tir.
+5. Recuperer la balle, la poser dans le receptacle et sortir.
+
+CHAMBER 07 - TURRET ASSASSIN
+
+1. Blue protege Orange derriere la vitre avec un pont.
+2. Orange franchit la plaque sans se faire tirer dessus.
+3. Blue place un portail sur le panneau bas pour bloquer les tourelles.
+4. Dans la seconde salle, Orange lance les cubes par les portails pour detruire
+   chaque paire de tourelles.
+5. Utiliser le cube pour maintenir le panneau haut et rejoindre la porte.
+
+CHAMBER 08 - SECURITY CODE / BRIDGE TESTING
+
+1. Passer une balle a travers le filtre sans toucher le filtre avec le cube.
+2. Mettre la balle dans l'alcove laser pour ouvrir la porte.
+3. Faire rebondir les balles sur le pont de lumiere jusqu'au second receptacle.
+4. Tirer les deux interrupteurs ensemble.
+5. Dans la derniere salle, placer les portails marques 1 et 2 pour lancer les
+   deux joueurs vers la plateforme finale.
+6. Le geste d'accolade se debloque a l'arrivee : le refaire manuellement si
+   Gesticul-8 n'est pas encore valide.
+7. Mettre le disque dans le lecteur : Bridge Building tombe a la fin du Course 03.
+
+======================================================================
+COOP COURSE 04 - EXCURSION FUNNELS
+======================================================================
+
+CHAMBER 01 - COOPERATIVE FUNNELS
+
+1. Blue place un portail au point d'impact de l'entonnoir et Orange rejoint le
+   flux ; Blue saute a sa suite.
+2. Orange reoriente l'entonnoir vers le bouton du fond.
+3. Blue atterrit sur la plateforme levee, traverse la porte et replace le portail
+   pour amener Orange a la porte double.
+
+CHAMBER 02 - FUNNEL DRILL
+
+1. Blue maintient le bouton qui ouvre le mur et reoriente l'entonnoir a travers
+   le filtre.
+2. Orange prend la plaque, recupere la balle et la place dans le flux.
+3. Replacer les portails afin que la balle coupe le laser du receptacle.
+
+CHAMBER 03 - FUNNEL CATCH
+
+1. Blue entre dans l'entonnoir et vise le panneau incline.
+2. Orange maintient le bouton qui baisse la barriere.
+3. Blue change le portail pour tomber dans le flux horizontal.
+4. Orange remplace immediatement le portail haut pour prolonger l'entonnoir.
+5. Blue attrape le cube, le depose sur le bouton et rejoint la porte.
+
+CHAMBER 04 - CRUSHERS ET TURRETS
+
+1. Alterner les portails pour faire avancer le partenaire entre les concasseurs.
+2. Utiliser le bouton pour inverser le flux et le maintenir a cote, jamais sous
+   le concasseur.
+3. A la zone des tourelles, deplacer le pont pour les faire tomber, puis porter
+   le cube vers le receptacle.
+4. Pour Still Alive, aucun joueur ne doit mourir dans cette salle ni dans les
+   suivantes.
+
+CHAMBER 05 - TURRET WAREHOUSE
+
+1. Utiliser le pont comme bouclier devant la ligne de tourelles.
+2. Faire circuler les deux joueurs dans l'entonnoir, puis placer le bouclier sur
+   la nouvelle ligne.
+3. Monter sur les plaques et franchir le filtre.
+
+CHAMBER 06 - PARTY OF THREE
+
+1. Avancer dans l'entonnoir en restant tres proches l'un de l'autre.
+2. Bloquer la chaine de tourelles avec le pont de lumiere.
+3. Quand le petit passage sombre apparait a droite de l'office, placer le portail
+   pour rediriger l'entonnoir dans ce passage.
+4. Dans le couloir, regarder a gauche : le mur s'ouvre sur un Companion Cube.
+5. Les deux joueurs doivent voir le cube pour obtenir Party of Three.
+6. La suite de la trajectoire peut tuer un joueur : c'est sans consequence pour
+   Party of Three, mais faire cette salle dans une autre tentative pour Still Alive.
+
+CHAMBER 07 - FIN DU COURSE 04
+
+1. Sortir de l'entonnoir devant l'office et trouver le disque sur un bureau.
+2. Inserer le disque dans le lecteur.
+3. Obstacle Building tombe a la fin du Course 04.
+4. Pour Still Alive, recommencer le Course 04 depuis la premiere chambre si une
+   mort a eu lieu. Ne pas utiliser la tentative Party of Three pour ce succes.
+
+STILL ALIVE - ROUTE SANS MORT
+
+- Faire une premiere lecture d'entrainement du Course 04.
+- Rejouer les chambres 01 a 07 avec un partenaire connu.
+- Ne pas tenter Party of Three dans cette session : la trajectoire du cube cache
+  se termine par une zone dangereuse.
+- Eviter les sauts individuels : rester dans le flux et utiliser les portails
+  comme l'indique la route ci-dessus.
+- Le succes tombe avec le disque de la derniere chambre si aucun des deux n'est
+  mort depuis le debut du parcours.
+
+======================================================================
+COOP COURSE 05 - MOBILITY GELS
+======================================================================
+
+CHAMBER 01 - REPULSION JUMPS
+
+1. Blue baisse les ascenseurs avec le bouton.
+2. Orange rejoint le bouton haut, fait tomber le gel bleu et rebondit sur
+   l'ascenseur bas.
+3. Blue relache le bouton pour monter Orange.
+4. Inverser les roles sur la seconde plateforme, puis rejoindre la porte double.
+
+CHAMBER 02 - DOUBLE BOUNCE
+
+1. Blue envoie le gel bleu au sol a travers le portail incline.
+2. Orange rebondit au-dessus du filtre gauche et place le flux sur les plateformes.
+3. Blue remplit la plateforme de gel, puis Orange fait tomber le gel sur la
+   plateforme opposee.
+4. Rebondir sur les deux plateformes et rejoindre l'entonnoir de sortie.
+
+CHAMBER 03 - BRIDGE REPULSION
+
+1. Blue etend le pont sous le distributeur de gel.
+2. Orange appuie sur le bouton, puis rebondit vers la plateforme de sortie.
+3. Dans la seconde salle, chaque joueur etend le pont de son cote du filtre.
+4. Faire tomber le gel sur le pont, puis rebondir l'un vers l'autre.
+
+CHAMBER 04 - WALL REPULSION
+
+1. Peindre les deux plaques verticales avec le gel bleu.
+2. Blue rebondit entre les plaques jusqu'a la plateforme haute.
+3. Orange utilise le portail au sol pour rejoindre Blue.
+4. Dans la salle suivante, repeter le principe avec le pont, le gel bleu et les
+   plaques suspendues pour atteindre l'ascenseur final.
+
+CHAMBER 05 - PROPULSION CRUSHERS
+
+1. Blue peint une piste orange dans la rampe.
+2. Orange court jusqu'a la plateforme superieure.
+3. Utiliser le compte a rebours pour faire passer le joueur au milieu des
+   concasseurs et atteindre le cube.
+4. Attraper le cube, le ramener au bouton et ouvrir la porte.
+
+CHAMBER 06 - BRIDGE CATCH / TALENT SHOW
+
+1. Faire une sauvegarde de chambre.
+2. Blue appuie sur le bouton pour faire apparaitre le cube pivot.
+3. Les deux joueurs se placent devant les plaques et utilisent un compte a rebours.
+4. Orange garde le cube et le rayon aligne le pont de lumiere.
+5. Blue avance sur le pont ; Orange coupe puis retablit le rayon pour faire
+   tomber Blue sur la plateforme suivante.
+6. Refaire apparaitre un cube et repeter le lancement.
+7. Pour Talent Show, le joueur qui court sur la piste orange doit attraper le
+   cube pivot a la premiere tentative et ne jamais le perdre ensuite.
+8. Si le cube tombe, relancer toute la chambre. La validation se fait a la porte.
+
+CHAMBER 07 - DOUBLE LIFT
+
+1. Blue se lance dans le puits et entre dans l'entonnoir.
+2. Blue appuie sur le bouton au passage et attrape le cube qui tombe.
+3. Orange inverse l'entonnoir au bon moment pour eviter le goo.
+4. Utiliser le cube pivot pour detruire les tourelles et activer le recepteur.
+5. Orange transfere la balle dans l'entonnoir ; Blue la recupere de l'autre cote.
+6. Orienter le rayon pour faire monter les deux ascenseurs.
+
+CHAMBER 08 - VAULT ENTRANCE
+
+1. Franchir le filtre et poser les portails pour envoyer le gel orange sur la piste.
+2. Utiliser le gel bleu pour rebondir jusqu'a la porte double.
+3. Faire tomber le cube dans le couloir incline en le peignant avec le gel.
+4. Synchroniser les deux boutons : les plateformes 1, 2 et 3 montent l'une apres
+   l'autre quand le cube coupe les lasers.
+5. Recuperer le gel bleu dans l'entonnoir, puis le déposer au bout de la piste.
+6. Courir sur l'orange, rebondir sur le bleu et atteindre la porte du vault.
+7. A la serrure finale, faire un geste duo ou deux gestes solo pour ouvrir.
+8. You Saved Science tombe a la fin des cinq parcours d'origine.
+
+CONTROLE COOP FINAL
+
+- Team Building, Confidence Building, Bridge Building, Obstacle Building et
+  You Saved Science sont valides.
+- Iron Grip est valide sans cube perdu en Mass and Velocity 06.
+- Portal Conservation Society est valide avec cinq placements dans Hard-Light 03.
+- Party of Three est valide dans Excursion Funnels 06.
+- Talent Show est valide sans perte du cube en Mobility Gels 06.
+- Still Alive est valide apres un Course 04 sans aucune mort.
+
+======================================================================
+SUCCES D'ACTIONS - ROUTE DE RATTRAPAGE
+======================================================================
+
+1. Air Show : dans la calibration ou un long entonnoir, faire deux gestes aeriens
+   avant de toucher le sol.
+2. Asking for Trouble : faire un geste devant la camera d'une porte dans chacun
+   des cinq cours principaux, pas dans la calibration.
+3. Can't Touch This : danser devant une tourelle bloquee par un pont, chaque
+   joueur peut le valider de son cote.
+4. Empty Gesture : retirer le pont sous un partenaire qui gesticule au-dessus du
+   goo ; refaire ensuite la chambre pour les succes sans mort.
+5. Four Ring Circus : Course 02, Chamber 04, entrer dans quatre portails sans sol.
+6. Friends List With Benefits : enlacer trois amis Steam differents.
+7. Gesticul-8 : refaire volontairement les huit gestes debloques, pas les gestes
+   automatiques de demonstration.
+8. Narbacular Drop : placer un portail sous le partenaire pendant son geste et
+   provoquer sa chute dans le portail.
+9. Professor Portal : apres You Saved Science, calibration avec un ami debutant.
+10. Rock Portal Scissors : trois victoires consecutives, les nuls ne cassent pas
+    la serie mais une defaite la remet a zero.
+
+======================================================================
+CHECKLIST STEAM FINALE - 51/51
+======================================================================
+
+- [ ] Wake Up Call — Survivre au remplacement manuel.
+- [ ] You Monster — Reunir GLaDOS.
+- [ ] Undiscouraged — Terminer le premier test au rayon de decouragement thermique.
+- [ ] High Five — Celebrer la reussite de l'etalonnage cooperatif.
+- [ ] Bridge Over Troubling Water — Terminer le premier test au pont de lumiere.
+- [ ] Team Building — Terminer toutes les chambres du parcours Team Building.
+- [ ] SaBOTour — S'evader.
+- [ ] Stalemate Associate — Presser le bouton.
+- [ ] Vertically Unchallenged — Maitriser le gel de repulsion.
+- [ ] Tater Tote — Transporter la science vers l'avant.
+- [ ] Confidence Building — Terminer toutes les chambres du parcours Mass and Velocity.
+- [ ] Stranger Than Friction — Maitriser le gel de propulsion.
+- [ ] White Out — Terminer le premier test au gel de conversion.
+- [ ] Dual Pit Experiment — Faire deux fois le meme test.
+- [ ] Tunnel of Funnel — Maitriser l'entonnoir d'excursion.
+- [ ] Scanned Alone — Se tenir dans un detecteur de tourelles defectueux.
+- [ ] The Part Where He Kills You — Atteindre cette partie.
+- [ ] Lunacy — Terminer l'ultime sequence de la campagne solo.
+- [ ] Air Show — Executer deux gestes aeriens avant de toucher le sol en coop.
+- [ ] Bridge Building — Terminer toutes les chambres du parcours Hard-Light Surfaces.
+- [ ] No Hard Feelings — Sauver une tourelle de la redemption.
+- [ ] Drop Box — Poser un cube sur un bouton sans toucher le cube.
+- [ ] Good Listener — Suivre le conseil d'evasion de GLaDOS.
+- [ ] Gesticul-8 — Executer volontairement les huit gestes en coop.
+- [ ] Obstacle Building — Terminer toutes les chambres du parcours Excursion Funnels.
+- [ ] Preservation of Mass — Enfreindre les regles dans la Test Chamber 07.
+- [ ] You Saved Science — Terminer toutes les chambres des cinq parcours coop.
+- [ ] Portrait of a Lady — Trouver le portrait cache.
+- [ ] Ship Overboard — Decouvrir l'experience manquante.
+- [ ] Can't Touch This — Danser devant une tourelle bloquee par un pont en coop.
+- [ ] Rock Portal Scissors — Gagner trois parties consecutives de pierre-feuille-ciseaux.
+- [ ] Asking for Trouble — Provoquer GLaDOS devant une camera dans les cinq parcours.
+- [ ] Pturretdactyl — Lancer une tourelle avec une plaque de propulsion.
+- [ ] Pit Boss — Montrer au puits qui commande.
+- [ ] Door Prize — Examiner les six portes de chambres vitrifees.
+- [ ] Schrodinger's Catch — Attraper une boite peinte en bleu avant sa chute.
+- [ ] Four Ring Circus — Entrer dans quatre portails differents sans toucher le sol.
+- [ ] You Made Your Point — Refuser de resoudre le premier test du chapitre 8.
+- [ ] Professor Portal — Refaire l'etalonnage avec un ami qui n'a jamais joue a la coop.
+- [ ] Narbacular Drop — Placer un portail sous un partenaire pendant son geste.
+- [ ] Final Transmission — Trouver le signal cache dans un repaire de Rat Man.
+- [ ] Empty Gesture — Faire tomber un partenaire gesticulant dans le goo.
+- [ ] Friends List With Benefits — Enlacer trois amis Steam differents en coop.
+- [ ] Overclocker — Terminer la Test Chamber 10 en 70 secondes.
+- [ ] Smash TV — Casser onze ecrans de chambres de test.
+- [ ] Iron Grip — Ne jamais perdre un cube dans la Chamber 6 de Mass and Velocity.
+- [ ] Party of Three — Trouver le Companion Cube cache en coop.
+- [ ] Triple Crown — Resoudre trois chambres de Mass and Velocity en moins de 60 secondes.
+- [ ] Portal Conservation Society — Finir Hard-Light Surfaces Chamber 3 en cinq portails.
+- [ ] Talent Show — Ne jamais perdre un cube dans Mobility Gels Chamber 6.
+- [ ] Still Alive — Finir le Course 04 sans mort pour aucun des deux joueurs.
+
+VERIFICATION FINALE
+
+1. Ouvrir la page Steam des succes et verifier 51 cases, pas seulement le compteur.
+2. Rejouer les salles indiquees dans la section Missables si une case manque.
+3. Pour une case cooperative, verifier le profil des deux joueurs : certains
+   succes se declenchent pour chaque joueur separément.
+4. Pour une case de temps, regarder le record de la salle dans le selecteur.
+5. Pour Portal Conservation Society, compter les placements dans la salle et
+   non les tirs de test hors de la salle.
+6. Pour Still Alive, refaire le Course 04 complet : un succes apparu en cours
+   de route ne remplace pas la validation de fin de parcours.
+7. Le guide est termine quand les 51 lignes ci-dessus sont cochees et que la
+   page Steam affiche 51/51.
+
+SOURCES DE CONTROLE
+
+- Liste officielle des succes Steam :
+  https://steamcommunity.com/stats/Portal2/achievements
+- Guide de reference des chambres et des routes :
+  https://steamcommunity.com/sharedfiles/filedetails/?id=2496110126
+- Wiki des conditions de succes :
+  https://www.theportalwiki.com/wiki/Obtaining_Portal_2_achievements
+- Parcours alternatif de verification :
+  https://www.trueachievements.com/game/Portal-2/walkthrough
 
 FIN DU GUIDE - SANS SPOILER
