@@ -177,9 +177,20 @@ mise à jour est refusé, même si le code ou la fiche fonctionne.
 - Méthode ajoutée : une séquence vide est déclarée vide ; les objets de Mideel
   sont séparés par condition ; chaque Huge Materia possède son propre contrôle
   de mini-jeu, vol, code, récompense annexe et sauvegarde de reprise.
-- Limite restante : la relecture détaillée des sections Highwind de nettoyage,
-  Gelnika, Ancient Forest, raid de Midgar et Northern Cave reste à faire avant
-  le statut complet de la fiche FFVII.
+- Limite restante : la relecture finale des compteurs, sources et sorties Pages
+  doit encore être exécutée avant le commit de validation de la fiche FFVII.
+
+### Lot FFVII — Highwind, nettoyage 100 % et Northern Cave
+
+- Sections 33 à 44 : limites de niveau 4 avec seuils, élevage et quatre grottes,
+  Gelnika, Ancient Forest, raid de Midgar, Battle Square, 83 matérias,
+  24 Enemy Skills sur une copie, Weapons, AP/gils et les trois branches de la
+  Northern Cave.
+- Contrôles ajoutés : 83/83 types présents, 79 maîtrisés, quatre exceptions,
+  Pandora's Box au premier Dragon Zombie, Final Attack, niveau 99, 99 999 999
+  gils et retour à la surface avant la fin.
+- Limite restante : validation ciblée de cette version, des compteurs, des
+  sources et de la construction Pages avant le commit local.
 
 ## Seuil de profondeur Game Note
 

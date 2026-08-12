@@ -60,6 +60,10 @@ statique Cloudflare Pages.
   boutiques, le chocobo blanc, la clé et l'Elixir sont des contrôles séparés.
   Pour une Huge Materia, la fiche doit distinguer la mission, le combat direct,
   le butin volé, le code, la récompense annexe et la condition de rattrapage.
+- Pour FFVII Steam, Materia Overlord est un contrôle séparé du simple inventaire :
+  la fiche compte 83 types, 79 maîtrisables, les quatre exceptions à conserver,
+  une Enemy Skill complète de 24 compétences et l'interdiction de convertir une
+  copie MASTER avant le succès.
 - Pour la phase actuelle, les repères visuels sont activés uniquement sur
   `final-fantasy-vii-2013`. `[COFFRE]` couvre tous les objets à récupérer
   (coffres, matérias, collectibles et récompenses) ; les marqueurs

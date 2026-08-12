@@ -36,6 +36,12 @@ Ce fichier fixe la méthode minimale avant toute modification visible du site.
     les Huge Materia, séparer la récompense du mini-jeu, le combat direct, le
     butin volé et le code de la séquence ; un résultat partiel ne passe jamais
     pour une route 100 %.
+13. Pour la checklist Materia Overlord de FFVII Steam, compter les 83 types
+    distincts, conserver les quatre exceptions non maîtrisables dans
+    l'inventaire, remplir les 24 compétences sur une même Enemy Skill et ne
+    jamais convertir les copies MASTER dans une Huge Materia avant le succès.
+    La Northern Cave doit décrire les trois branches et le retour sûr au
+    Highwind.
 
 Toute nouvelle règle durable doit être ajoutée à GAME_NOTE_RULES.md et
 transformée en validation automatique quand c'est possible.

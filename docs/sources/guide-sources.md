@@ -223,6 +223,19 @@ conditions difficiles ; elles ne justifient jamais une copie mot a mot.
   https://gamefaqs.gamespot.com/ps/197341-final-fantasy-vii/faqs/71240/missable-item-walkthrough
   https://gamefaqs.gamespot.com/ps/197341-final-fantasy-vii/faqs/71240/junon-huge-materia
   https://gamefaqs.gamespot.com/ps/197341-final-fantasy-vii/faqs/71240/the-final-huge-materia
+- Mise a jour : Highwind, limites de niveau 4, elevage de chocobos, quatre
+  grottes de materias, Gelnika, Ancient Forest, raid de Midgar, Battle Square,
+  Weapons, Materia Overlord et les trois branches de Northern Cave recoupes avec
+  les pages de parcours dediees et la liste Steam officielle.
+- References de ce lot :
+  https://gamefaqs.gamespot.com/ps/197341-final-fantasy-vii/faqs/71240/limit-breaks
+  https://gamefaqs.gamespot.com/ps/197341-final-fantasy-vii/faqs/71240/gold-saucer
+  https://gamefaqs.gamespot.com/ps/197341-final-fantasy-vii/faqs/71240/sunken-gelnika
+  https://gamefaqs.gamespot.com/ps/197341-final-fantasy-vii/faqs/71240/ancient-forest
+  https://gamefaqs.gamespot.com/ps/197341-final-fantasy-vii/faqs/71240/northern-crater
+  https://gamefaqs.gamespot.com/ps/197341-final-fantasy-vii/faqs/71240/materia
+  https://gamefaqs.gamespot.com/ps/197341-final-fantasy-vii/faqs/71240/enemy-skills
+  https://steamcommunity.com/sharedfiles/filedetails/?id=180660361
 
 ## FINAL FANTASY IX
 
