@@ -2955,8 +2955,6 @@ const normalizeCatalogText = (value: string) =>
     .replace(/[\u0300-\u036f]/g, "")
     .toLocaleLowerCase("fr");
 
-type Theme = "light" | "dark";
-
 type CatalogFilter = "all" | "steam" | "coop" | "dlc" | "offline";
 
 const CATALOG_FILTERS: Array<{ id: CatalogFilter; label: string }> = [
@@ -2979,27 +2977,6 @@ const catalogLetters = Array.from(
     ),
   ),
 ).sort((left, right) => left.localeCompare(right, "fr"));
-
-type StoredPreferences = {
-  theme?: Theme;
-};
-
-const PREFERENCES_KEY = "game-note-preferences";
-
-function readStoredPreferences(): StoredPreferences {
-  if (typeof window === "undefined") {
-    return {};
-  }
-
-  try {
-    const value = JSON.parse(
-      window.localStorage.getItem(PREFERENCES_KEY) ?? "{}",
-    );
-    return value && typeof value === "object" ? value : {};
-  } catch {
-    return {};
-  }
-}
 
 function openReader(
   id: string,
@@ -3037,11 +3014,10 @@ export default function Home() {
   const [catalogFilter, setCatalogFilter] = useState<CatalogFilter>("all");
   const [catalogLetter, setCatalogLetter] = useState("");
   const [catalogLimit, setCatalogLimit] = useState(24);
-  const [theme, setTheme] = useState<Theme>("light");
   const [isOnline, setIsOnline] = useState(true);
   const [readerMode, setReaderMode] = useState(false);
   const [invalidGuideId, setInvalidGuideId] = useState<string | null>(null);
-  const [preferencesReady, setPreferencesReady] = useState(false);
+  const [initialStateReady, setInitialStateReady] = useState(false);
   const catalogSearchRef = useRef<HTMLInputElement>(null);
   const guideSearchRef = useRef<HTMLInputElement>(null);
 
@@ -3093,26 +3069,15 @@ export default function Home() {
   const effectiveCatalogLimit = catalogLimit;
   const displayedGuides = visibleGuides.slice(0, effectiveCatalogLimit);
 
-  // These values come from browser-only storage and must hydrate after the static shell mounts.
+  // These values come from the browser and must hydrate after the static shell mounts.
   /* eslint-disable react-hooks/set-state-in-effect */
   useEffect(() => {
-    const storedPreferences = readStoredPreferences();
-    const storedTheme =
-      storedPreferences.theme === "dark" || storedPreferences.theme === "light"
-        ? storedPreferences.theme
-        : undefined;
-    const preferredTheme =
-      storedTheme ??
-      (window.matchMedia?.("(prefers-color-scheme: dark)")?.matches
-        ? "dark"
-        : "light");
     const url = new URL(window.location.href);
     const requestedGuide = url.searchParams.get("guide");
     const requestedSearch = url.searchParams.get("q");
     const requestedFilter = url.searchParams.get("filter") as CatalogFilter | null;
     const requestedLetter = url.searchParams.get("letter")?.toUpperCase() ?? "";
     const validRequestedGuide = guides.find((guide) => guide.id === requestedGuide);
-    setTheme(preferredTheme);
     setCatalogSearch(requestedSearch ?? "");
     setCatalogFilter(
       requestedFilter && CATALOG_FILTERS.some((filter) => filter.id === requestedFilter)
@@ -3137,7 +3102,7 @@ export default function Home() {
       window.history.replaceState(null, "", url);
     }
     setIsOnline(window.navigator.onLine);
-    setPreferencesReady(true);
+    setInitialStateReady(true);
 
     const handlePopState = () => {
       const nextUrl = new URL(window.location.href);
@@ -3168,25 +3133,7 @@ export default function Home() {
   /* eslint-enable react-hooks/set-state-in-effect */
 
   useEffect(() => {
-    document.documentElement.dataset.theme = theme;
-    document.documentElement.style.colorScheme = theme;
-
-    if (!preferencesReady) {
-      return;
-    }
-
-    try {
-      window.localStorage.setItem(
-        PREFERENCES_KEY,
-        JSON.stringify({ theme }),
-      );
-    } catch {
-      // Local storage can be disabled in private browsing.
-    }
-  }, [preferencesReady, theme]);
-
-  useEffect(() => {
-    if (!preferencesReady || readerMode) return;
+    if (!initialStateReady || readerMode) return;
     const url = new URL(window.location.href);
     if (catalogSearch) url.searchParams.set("q", catalogSearch);
     else url.searchParams.delete("q");
@@ -3195,7 +3142,7 @@ export default function Home() {
     if (catalogLetter) url.searchParams.set("letter", catalogLetter);
     else url.searchParams.delete("letter");
     window.history.replaceState(window.history.state, "", url);
-  }, [catalogFilter, catalogLetter, catalogSearch, preferencesReady, readerMode]);
+  }, [catalogFilter, catalogLetter, catalogSearch, initialStateReady, readerMode]);
 
   useEffect(() => {
     const updateOnlineState = () => setIsOnline(window.navigator.onLine);
@@ -3246,10 +3193,6 @@ export default function Home() {
     return () => window.removeEventListener("keydown", handleKeyboardShortcut);
   }, []);
 
-  const toggleTheme = () => {
-    setTheme((current) => (current === "dark" ? "light" : "dark"));
-  };
-
   const handleOpenReader = (id: string) => {
     openReader(
       id,
@@ -3297,7 +3240,7 @@ export default function Home() {
 
   return (
     <main
-      className={"site-shell theme-" + theme + (readerMode ? " is-reader-mode" : "")}
+      className={"site-shell" + (readerMode ? " is-reader-mode" : "")}
       id="main-content"
       tabIndex={-1}
     >
@@ -3332,25 +3275,6 @@ export default function Home() {
             <small>carnet de route · sans détour</small>
           </span>
         </a>
-
-        <div className="topbar-actions">
-          <button
-            className="topbar-action"
-            type="button"
-            aria-label={
-              theme === "dark"
-                ? "Activer le thème clair"
-                : "Activer le thème sombre"
-            }
-            title="Changer le thème"
-            onClick={toggleTheme}
-          >
-            <span aria-hidden="true">{theme === "dark" ? "☼" : "☾"}</span>
-            <span className="topbar-action-label">
-              {theme === "dark" ? "jour" : "nuit"}
-            </span>
-          </button>
-        </div>
 
       </header>
 
