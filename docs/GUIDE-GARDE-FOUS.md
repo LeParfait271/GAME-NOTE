@@ -121,6 +121,19 @@ texte du guide est rédigé de façon originale et pratique.
 - [ ] le build du site passe avant le commit ;
 - [ ] le commit indique le ou les guides réellement contrôlés.
 
+## Commit et mise à jour du workflow — obligatoire
+
+Chaque commit, y compris un commit d'interface, de correction technique ou de
+contenu FFVII, doit contenir une mise à jour coordonnée de ces trois fichiers :
+
+1. `A_LIRE_EN_PREMIER.md` : règle opérationnelle à appliquer au prochain lot ;
+2. `GAME_NOTE_RULES.md` : règle permanente ou contrôle à ne pas oublier ;
+3. `docs/GUIDE-GARDE-FOUS.md` : méthode détaillée, périmètre ou limite.
+
+La mise à jour doit être utile et liée au lot : périmètre touché, validation
+réalisée, risque restant ou décision de méthode. Un commit sans cette triple
+mise à jour est refusé, même si le code ou la fiche fonctionne.
+
 ## Seuil de profondeur Game Note
 
 Une fiche ne peut plus être considérée comme complète parce qu'elle contient

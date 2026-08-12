@@ -10,6 +10,11 @@ Ce fichier fixe la méthode minimale avant toute modification visible du site.
 5. Après une modification visible, lancer npm run build, puis npm run preflight.
 6. Après chaque lot modifié, créer un commit local vérifiable. Ne pas déployer
    ni pousser automatiquement vers GitHub.
+7. Chaque commit doit aussi mettre à jour le workflow et les garde-fous dans
+   `A_LIRE_EN_PREMIER.md`, `GAME_NOTE_RULES.md` et
+   `docs/GUIDE-GARDE-FOUS.md`. La note doit refléter le lot livré, ses
+   validations et sa limite éventuelle ; un simple changement cosmétique est
+   interdit.
 
 Toute nouvelle règle durable doit être ajoutée à GAME_NOTE_RULES.md et
 transformée en validation automatique quand c'est possible.

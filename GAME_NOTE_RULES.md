@@ -16,6 +16,11 @@ statique Cloudflare Pages.
   lorsqu'elle est vérifiable.
 - Après chaque modification du dépôt, créer un commit Git local décrivant le
   lot réalisé ; ne jamais pousser automatiquement vers GitHub.
+- Aucun commit n'est complet sans une mise à jour coordonnée du workflow et des
+  garde-fous dans `A_LIRE_EN_PREMIER.md`, `GAME_NOTE_RULES.md` et
+  `docs/GUIDE-GARDE-FOUS.md`. Cette mise à jour doit résumer le périmètre, les
+  contrôles exécutés et les limites restantes du lot ; elle ne doit pas être
+  une simple modification vide destinée à satisfaire la règle.
 - Ne pas versionner de secret, de clé privée, de fichier .env ou d'artefact
   local.
 
