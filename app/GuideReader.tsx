@@ -129,6 +129,7 @@ const parseGuide = (text: string): GuideBlock[] => {
 
     const headingText = line.replace(/^\d+(?:\.\d+)*[.)]\s+/, "").trim();
     const numberedHeading = /^\d+(?:\.\d+)*[.)]\s+/.test(line);
+    const majorNumberedHeading = /^\d{2,}(?:\.\d+)*[.)]\s+/.test(line);
     const heading =
       numberedHeading || isUppercaseHeading(line) || isNamedHeading(line);
 
@@ -144,7 +145,7 @@ const parseGuide = (text: string): GuideBlock[] => {
       }
       blocks.push({
         id: makeBlockId(line, blocks.length),
-        kind: numberedHeading ? "subheading" : "heading",
+        kind: numberedHeading && !majorNumberedHeading ? "subheading" : "heading",
         text: numberedHeading
           ? `${line.match(/^\d+(?:\.\d+)*[.)]/)?.[0] ?? ""} ${headingText}`
           : line,
@@ -281,6 +282,7 @@ export default function GuideReader({
   const completed = checklist.filter(
     (block) => block.checkIndex !== undefined && checked[block.checkIndex],
   ).length;
+  const majorSectionCount = outline.filter((block) => block.kind === "heading").length;
   const toggleCheck = (index: number) => {
     setChecked((current) => {
       const next = { ...current, [index]: !current[index] };
@@ -357,6 +359,20 @@ export default function GuideReader({
               <span key={item}>{item}</span>
             ))}
           </div>
+          <div className="reader-cover-facts" aria-label="Repères de la fiche">
+            <div>
+              <strong>{majorSectionCount || "—"}</strong>
+              <span>sections</span>
+            </div>
+            <div>
+              <strong>{checklist.length || "—"}</strong>
+              <span>objectifs Steam</span>
+            </div>
+            <div>
+              <strong>100 %</strong>
+              <span>route suivie</span>
+            </div>
+          </div>
         </div>
         <div className="reader-cover-alert">
           <span className="reader-alert-mark" aria-hidden="true">!</span>
@@ -370,6 +386,7 @@ export default function GuideReader({
 
       <div className="reader-tools">
         <div className="reader-tools-copy">
+          <span className="reader-tool-kicker">FICHE ACTIVE</span>
           <label htmlFor="guide-search">Rechercher dans la soluce</label>
         </div>
         <div className="search-wrap">
@@ -398,7 +415,7 @@ export default function GuideReader({
           {query
             ? `${matchingBlocks.length} résultat${matchingBlocks.length > 1 ? "s" : ""}`
             : checklist.length
-              ? `${checklist.length} repères à cocher`
+              ? `${completed}/${checklist.length} objectifs Steam cochés`
               : "Lecture complète"}
         </span>
         {query && visibleMatchIndexes.length > 0 ? (
@@ -445,21 +462,41 @@ export default function GuideReader({
             </div>
             <div className="reader-progress-card">
               <div className="progress-heading">
-                <span>PROGRESSION</span>
+                <span>OBJECTIFS STEAM</span>
                 <strong>{completed}/{checklist.length}</strong>
               </div>
-              <div className="progress-track" aria-hidden="true">
+              <div
+                className="progress-track"
+                role="progressbar"
+                aria-label="Progression des objectifs Steam"
+                aria-valuemin={0}
+                aria-valuemax={checklist.length}
+                aria-valuenow={completed}
+              >
                 <span style={{ width: `${checklist.length ? (completed / checklist.length) * 100 : 0}%` }} />
               </div>
-              <p>Les cases cochées restent privées sur cet appareil.</p>
+              <p>Les objectifs cochés restent privés sur cet appareil.</p>
               {completed > 0 ? <button className="reader-reset" type="button" onClick={resetChecklist}>Réinitialiser la trace</button> : null}
             </div>
             <a className="reader-download" href={`/guides/${selected.file}`} download>
-              Télécharger la soluce TXT <span aria-hidden="true">↓</span>
+              Fiche hors ligne <span aria-hidden="true">↓</span>
             </a>
+            <p className="reader-sidebar-note">Version texte disponible pour jouer sans connexion.</p>
           </aside>
 
           <article className="reader-document" aria-label={`Soluce ${selected.title}`}>
+            <header className="reader-document-intro">
+              <div>
+                <p className="document-kicker">FEUILLE DE ROUTE INTERACTIVE</p>
+                <h2>Le parcours, au bon moment</h2>
+                <p>Lis les repères dans l'ordre, utilise le sommaire pour revenir à une zone et coche les objectifs Steam à la fin.</p>
+              </div>
+              <div className="reader-document-seal" aria-label={`${checklist.length || 0} objectifs Steam suivis`}>
+                <span>STEAM</span>
+                <strong>{checklist.length ? `${checklist.length}/` : "—"}</strong>
+                <small>objectifs</small>
+              </div>
+            </header>
             {query && visibleBlocks.length === 0 ? (
               <div className="reader-empty-search">
                 Aucun bloc ne contient « {search} ». Essaie un autre repère.
@@ -505,6 +542,10 @@ export default function GuideReader({
                 return <p className="guide-paragraph" key={block.id} ref={(element) => { resultRefs.current[visibleIndex] = element; }}>{highlighted}</p>;
               });
             })()}
+            <footer className="reader-document-footer">
+              <span>FIN DE FICHE · {selected.title}</span>
+              <a href={`/guides/${selected.file}`} download>Télécharger la copie hors ligne ↓</a>
+            </footer>
           </article>
         </div>
       )}
