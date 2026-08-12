@@ -1087,123 +1087,270 @@ AVANT DE SORTIR
 - [MANQUABLE] La sauvegarde de fin de disque est conservée avec Trine, Bad
   Breath, Magic Breath, Bahamut et Neo Bahamut déjà validés.
 
-29. JUNON, MIDEEL ET LA PREMIÈRE VISITE DU HIGHWIND
+29. RETOUR À JUNON, HIGHWIND ET MIDEEL
 
-À Junon, traverse le secteur militaire et récupère les objets dans les
-couloirs avant la sortie. Le succès Diamond Weapon demande seulement la
-victoire correspondante ; il sera obtenu bien plus tard, mais note cette zone
-pour le futur retour.
+Évasion de Junon : cette séquence ne contient aucun coffre, aucune matéria ni
+aucune récompense unique. Ne perds pas de temps à chercher un objet dans les
+couloirs : suis la route, puis parle à Red XIII, Barret, Cid et au pilote dans
+le cockpit du Highwind. Va ensuite dans l'Operation Room pour former l'équipe ;
+le membre de l'équipage peut soigner et sauvegarder. Retourne enfin au pilote
+pour reprendre le contrôle du vaisseau.
 
-Mideel :
+Avant de lancer l'étape suivante, fais la tournée obligatoire du Highwind :
 
-- Boutique d'objets : achète Contain Materia quand elle devient disponible
-  auprès du personnage concerné.
-- Maison de l'homme et du chocobo blanc : donne les légumes et inspecte la
-  plume pour recevoir une Materia optionnelle.
-- Maison de l'ancien : Elixir dans la pièce, avant le prochain événement de
-  la route.
+- [COFFRE] Fort Condor : réalise la dernière bataille facultative disponible
+  ici. Elle constitue la 14e victoire de terrain si tu as suivi la route et
+  donne trois Elixirs. La bataille obligatoire de la Huge Materia sera traitée
+  séparément ; ne confonds pas les deux récompenses.
+- [COFFRE] Nibelheim, maison de Tifa : joue le piano et récupère Elemental
+  Materia seulement si tu as choisi « Jammed on it » pendant le flashback de
+  Kalm. C'est la seconde moitié de cette récompense conditionnelle.
+- [COFFRE] Cosmo Canyon, arrière-boutique de l'Item Shop : Elixir, Magic Source
+  et Full Cure Materia. Monte par l'échelle à droite du feu de camp.
+- [COFFRE] Rocket Town, Weapon Shop : Fourth Bracelet dans le coffre.
+- [COFFRE] Rocket Town, Item Shop : Guard Source.
+- [COFFRE] Maison isolée au nord du continent enneigé : parle au chocobo vert
+  pour obtenir la quatrième Enemy Skill Materia. Contrôle-la immédiatement dans
+  le menu ; elle est indispensable pour une route complète des Enemy Skills.
 
-Après la première séquence de Mideel, fais une sauvegarde séparée. Le jeu ouvre
-la carte de nettoyage, mais la route des Huge Materia doit être terminée avant
-la séquence finale du disque 2.
+Mideel, première visite : atterris près du village et ne va pas encore au nord,
+car l'approche du chien au centre déclenche la séquence suivante.
+
+- [MANQUABLE] Dans l'Item Shop, la Materia Shop et la Weapon Shop, parle à la
+  cliente énergique et affiche l'inventaire de chaque boutique. Ces trois
+  visites débloquent leurs boutiques de remplacement après la destruction de
+  Mideel ; une boutique oubliée ne rouvrira pas correctement.
+- [COFFRE] Item Shop : donne un Mimett Green au chocobo blanc puis gratte-le
+  derrière les oreilles pour obtenir Contain Materia. Les légumes s'achètent au
+  Chocobo Ranch ; le jeu peut afficher un nom de traduction différent.
+- [MANQUABLE] Weapon Shop : examine d'abord la porte verrouillée au fond.
+  Sors, traverse le pont vers l'Accessory Shop et ramasse au sol le « Beat-up
+  Useless Old Key » près de l'homme. Retourne à la porte, utilise la clé et
+  choisis la réponse du bas, « dire la vérité », pour recevoir Curse Ring.
+  Cette copie est perdue quand Cloud revient dans l'équipe si elle n'a pas été
+  prise maintenant.
+- [COFFRE] Maison centrale de Mideel : prends l'Elixir posé sur le lit avant
+  d'approcher le chien et de verrouiller la séquence.
+
+Approche ensuite le chien au centre. Pendant le combat scripté contre Ultimate
+Weapon, tu ne peux pas conclure le combat : soigne-toi et vole Curse Ring si tu
+  veux la seconde copie. Quand Cid devient le chef, retourne dans l'Operation
+Room pour former l'équipe et équipe Steal ainsi qu'une Enemy Skill avant de
+reprendre la route des Huge Materia. Au retour à Mideel, l'Elixir de la maison
+centrale reste le contrôle de la zone : ne le compte pas deux fois.
 
 AVANT DE SORTIR
 
-- Les objets des couloirs de Junon, Contain, la récompense du chocobo blanc et
-  l'Elixir de la maison de l'ancien sont contrôlés.
-- La sauvegarde AVANT MISSABLE est séparée avant de lancer la route des Huge
-  Materia ; ne l'écrase pas avec une sauvegarde de déplacement.
+- [MANQUABLE] Les trois boutiques de Mideel ont été consultées, Contain,
+  Curse Ring et l'Elixir sont dans l'inventaire ; une seconde Curse Ring peut
+  être volée à Ultimate Weapon pendant le combat scripté.
+- [COFFRE] Elemental, Full Cure, Fourth Bracelet, Guard Source et les trois
+  Elixirs/Source de Cosmo Canyon sont contrôlés ; la quatrième Enemy Skill est
+  visible dans le menu.
+- [SAUVEGARDE] Conserve la sauvegarde AVANT MISSABLE avant de lancer la route
+  des Huge Materia. Les deux missions initiales peuvent être faites dans un
+  ordre différent ; cette fiche choisit North Corel puis Fort Condor.
 
-30. WUTAI ET LA TOUR DES CINQ DIEUX
+30. WUTAI : MATÉRIAS VOLÉES, DA-CHAO ET PAGODE
 
-Ce détour est recommandé immédiatement après l'accès au Highwind et à la carte
-libre, avant les Huge Materia.
+Fais ce détour après avoir repris le Highwind et récupéré la quatrième Enemy
+Skill de la maison enneigée, avant les Huge Materia. La quête est disponible
+sur les disques 1 et 2, mais plus au disque 3. Yuffie doit avoir été recrutée.
+Atterris sur la plage au sud-ouest du continent de Wutai, puis traverse la zone
+montagneuse jusqu'à la ville. Pendant la perte temporaire des matérias, utilise
+les armes sans emplacement ou les meilleurs équipements disponibles ; ce n'est
+pas un bug de sauvegarde.
 
-Route : entre à Wutai, récupère les membres du groupe et parcours les maisons.
-Dans la pagode, utilise Yuffie seule et garde une sauvegarde avant chaque
-étage.
+Avant d'entrer en ville, profite des rencontres de la région si tu veux fermer
+les derniers contrôles de compétences :
 
-Coffres et objets :
+- [MANQUABLE] Herbe de Wutai : avec Manipulate, fais utiliser Magic Hammer par
+  Razor Weed.
+- [MANQUABLE] Plage de Wutai : avec Manipulate, fais utiliser Death Force par
+  Adamantaimai. Vole aussi Adaman Bangle si tu veux plusieurs exemplaires de
+  cette armure ; ce n'est pas une récompense Steam unique.
 
-- Wutai, maison d'Yuffie : récupère Magic Shuriken dans le coffre caché derrière
-  les cloisons et fouille le sous-sol après l'ouverture de la route.
-- Wutai, boutique d'armes : Dragon Lance et Razor Ring ; achète les deux si tu
-  veux garder chaque arme dans l'inventaire.
-- Da-Chao : Leviathan Scales dans le coffre du quai inférieur. Ramasse-les
-  avant la sortie de la grotte.
-- Da-Chao, branche haute : Oritsuru dans le coffre du passage supérieur.
-- Pagode : après le dernier combat, All Creation apparaît comme récompense de
-  Yuffie ; utilise ensuite sa limite et vérifie All Creation dans son menu.
+Ville de Wutai, dans cet ordre :
 
-La séquence de Wutai peut remplacer temporairement les matérias du groupe.
-Rééquipe Enemy Skill et Restore avant de repartir.
+- [COFFRE] Item Shop : ouvre le coffre pour MP Absorb Materia ; Yuffie la vole
+  pendant la séquence, puis elle revient avec les autres matérias à la fin de
+  la quête.
+- [COFFRE] Grande maison d'Yuffie : dans la salle de repos, traverse le mur
+  ouest près du drap pour trouver Magic Shuriken.
+- [COFFRE] Même maison : dans la première pièce rencontrée en suivant le
+  couloir, inspecte le faux mur pour ouvrir le passage vers Hairpin.
+- Lis Turtle's Paradise Flyer #6 dans le sous-sol quand la route le rend
+  accessible. Les six flyers sont nécessaires à la récompense de la tortue.
+- Suis les scènes, retrouve Yuffie dans la maison à l'est puis libère l'équipe
+  avec l'interrupteur. Dans le passage secret ouvert par la cloche de la place,
+  [COFFRE] prends Swift Bolt et Elixir.
+
+Da-Chao :
+
+- [COFFRE] À la fourche, prends Dragoon Lance dans la grotte du nord avant de
+  partir vers le combat.
+- [BOSS] Prépare Yuffie et ses objets de soin : Rapps ne laisse pas lancer de
+  matérias pendant cette séquence si elles ont été volées, mais les objets et
+  les limites restent disponibles. La victoire donne Peace Ring.
+- Après les scènes, descends sous la maison d'Yuffie et prends [COFFRE] HP
+  Absorb Materia. La Weapon Shop est maintenant ouverte ; les achats sont
+  récupérables plus tard, ils ne doivent pas être classés comme missables.
+
+Pagode des Cinq Dieux : elle est maintenant ouverte, mais ne lance pas le
+cinquième combat avant d'avoir les quatre Enemy Skill Materia équipées sur des
+personnages différents ou sur la même copie selon ton plan. Godo est la dernière
+occasion d'apprendre Trine ; une fois le combat terminé, cette fenêtre est
+fermée définitivement.
+
+- [SAUVEGARDE] Yuffie est seule : sauvegarde et soigne-la entre chaque étage.
+- [BOSS] Gorkii donne X-Potion ; [BOSS] Shake donne Turbo Ether ; [BOSS] Checkov
+  donne Ice Ring ; [BOSS] Staniv donne Elixir.
+- [MANQUABLE] Au sommet, équipe au moins une Enemy Skill sans Trine, laisse
+  Godo utiliser Trine, puis gagne le combat. Il donne All Creation, qui apprend
+  la limite de niveau 4 de Yuffie, puis la scène donne Leviathan Materia.
+- [SUCCÈS] Utilise ensuite Greased Lightning avec Yuffie et contrôle All
+  Creation dans son menu.
 
 AVANT DE SORTIR
 
-- Magic Shuriken, Leviathan Scales, Oritsuru et All Creation sont contrôlés dans
-  l'inventaire avant de quitter Wutai.
-- La limite de Yuffie et son succès sont utilisés, puis une sauvegarde dédiée
-  est conservée avant de reprendre les Huge Materia.
+- [COFFRE] MP Absorb, Magic Shuriken, Hairpin, Swift Bolt, Elixir, Dragoon
+  Lance, Peace Ring, HP Absorb, les quatre récompenses de la Pagode, All
+  Creation et Leviathan sont contrôlés.
+- [MANQUABLE] Magic Hammer, Death Force et Trine sont visibles dans les Enemy
+  Skills ; Godo n'a été vaincu qu'après l'obtention des quatre copies utiles.
+- [SUCCÈS] Yuffie est recrutée, Greased Lightning est utilisé et sa limite de
+  niveau 4 est apprise.
 
 PARTIE V - HUGE MATERIA, ARMES ET LIMITES
 
-31. FORT CONDOR ET NORTH COREL : PREMIÈRE HUGE MATERIA
+31. NORTH COREL ET FORT CONDOR : DEUX HUGE MATERIA
 
-Fort Condor : monte au sommet, parle au commandant et lance la bataille de
-défense. Place les unités rapides sur les deux couloirs, laisse les ennemis
-entrer dans la portée des canons et bats le boss de vague. Après la victoire,
-parle au commandant une deuxième fois et prends la Huge Materia.
+Les deux premières missions sont disponibles dans l'ordre de ton choix. Cette
+route fait North Corel puis Fort Condor pour obtenir les deux récompenses avec
+une seule sauvegarde AVANT MISSABLE conservée.
 
-North Corel :
+North Corel, train de la Huge Materia :
 
-- Sauvegarde avant de parler au chef du train.
-- Monte dans la locomotive et utilise les commandes en alternant accélération
-  et frein dès que le jeu les affiche.
-- À l'arrivée, retourne au village et récupère la Huge Materia dans le wagon
-  arrêté. Si le train atteint le village, la récompense est conservée ; sinon
-  recharge la sauvegarde AVANT MISSABLE.
+- [SAUVEGARDE] Avant d'entrer dans la zone, équipe Steal sur un personnage et
+  une Enemy Skill sur un autre. Magic Breath ou Aqualung accélère les combats
+  de train.
+- Entre par North Corel, sors par le nord, franchis le grand pont puis suis les
+  rails jusqu'au réacteur. Bats les deux Attack Squad à l'entrée et monte dans
+  ton train quand la poursuite commence.
+- Pendant les dix minutes, alterne rapidement Haut puis Menu pour rattraper le
+  train. Les cinq combats sont, dans l'ordre : Gas Ducter ; deux Gas Ducter ;
+  Wolfmeister ; Eagle Gun ; Attack Squad dans la locomotive.
+- [MANQUABLE] Avant le combat Eagle Gun, équipe Steal et vole Warrior Bangle.
+  C'est la seule occasion fiable d'obtenir cette armure.
+- Dans la cabine, maintiens les deux commandes simultanées : sur PC Steam,
+  Haut + Menu puis Bas + Annuler ; si une troisième validation apparaît,
+  répète Bas + Annuler après la fin du message. Ne martèle pas les touches avant
+  que le jeu ait terminé chaque instruction.
+- [MANQUABLE] Si le train atteint North Corel, recharge AVANT MISSABLE. La Huge
+  Materia et Ultima deviennent alors incomplètes pour cette partie ; le village
+  peut vendre Ultima, mais cela ne répare pas la collecte 100 %.
+- [COFFRE] Après l'arrêt réussi, récupère la Huge Materia au village, puis
+  prends Ultima Materia dans la récompense centrale. Repose-toi et parle à la
+  femme au chapeau vert dans la maison de Barret pour obtenir Catastrophe.
+- [SUCCÈS] Utilise Catastrophe avec Barret et contrôle la première Huge Materia.
 
-AVANT DE SORTIR
+Fort Condor, bataille obligatoire de la Huge Materia :
 
-- La défense de Fort Condor est gagnée et la Huge Materia de North Corel est
-  obtenue sans écraser la sauvegarde AVANT MISSABLE.
-- La sauvegarde PRINCIPALE est faite après le retour au village, avec le compteur
-  des Huge Materia noté à 1/4.
-
-32. SOUS-MARIN ET ROCKET TOWN : DEUXIÈME ET TROISIÈME HUGE MATERIA
-
-Underwater Reactor :
-
-- Avant de monter dans le sous-marin, prends Leviathan Scales dans le coffre du
-  quai inférieur.
-- Dans la zone des soldats, vole Shinra Alpha et ouvre le coffre de la salle
-  arrière pour Scimitar.
-- Termine la mission du sous-marin et coule le sous-marin rouge ; la séquence
-  ouvre la route du sous-marin pour le nettoyage et la Huge Materia.
-
-Avec le sous-marin :
-
-- Reviens au quai du Reactor et récupère l'objet oublié si tu ne l'as pas fait.
-- Cherche l'épave du Gelnika dans la zone sous-marine ; elle sera détaillée
-  dans la section nettoyage.
-- Va au sous-marin rouge, récupère la Huge Materia dans la cabine et note-la
-  comme 2/4.
-
-Rocket Town :
-
-- Monte à bord du rocket, descends vers la cabine de contrôle et saisis le
-  code de la séquence. Si le code est raté, recharge la sauvegarde précédente.
-- Récupère la Huge Materia dans le compartiment central.
-- Reviens à Cosmo Canyon avec les quatre Huge Materia et examine la Materia
-  rouge, puis la bleue, la verte et la jaune. La bleue donne Bahamut Zero ;
-  vérifie le succès et la Materia avant de quitter le village.
+- Monte au sommet et parle au commandant pour lancer la bataille finale. Pour
+  la collecte maximale, ne gagne pas avec tes unités : laisse un ennemi
+  atteindre la cabane au sommet afin de déclencher le combat direct contre CMD.
+  Grand Horn.
+- [BOSS] Gagne ce combat direct pour recevoir Imperial Guard. Si tu gagnes la
+  bataille avec tes unités, la Huge Materia reste récupérable mais Imperial
+  Guard est perdu ; si tu perds le combat direct, Fort Condor et la récompense
+  sont définitivement fermés.
+- [COFFRE] Après la victoire, sors et prends Phoenix Materia à l'extérieur,
+  puis parle au vieil homme assis à la table pour la Huge Materia de Fort
+  Condor. Note cette récompense comme 2/4.
 
 AVANT DE SORTIR
 
-- Leviathan Scales, Shinra Alpha, Scimitar et la Huge Materia du sous-marin sont
-  contrôlés avant de quitter le quai.
-- Les quatre Huge Materia sont remises à Cosmo Canyon, Bahamut Zero est dans le
-  menu et le succès est vérifié avant la sauvegarde PRINCIPALE.
+- [COFFRE] Warrior Bangle, Huge Materia de North Corel, Ultima, Catastrophe,
+  Imperial Guard, Phoenix et Huge Materia de Fort Condor sont contrôlés.
+- [MANQUABLE] Le train a été arrêté et CMD. Grand Horn a été vaincu en combat
+  direct ; la sauvegarde PRINCIPALE est faite avec deux Huge Materia sur quatre.
+
+32. UNDERWATER REACTOR, SOUS-MARIN ET ROCKET TOWN
+
+Underwater Reactor : paie 10 Gil au garde de l'ascenseur de Junon, prends le
+long couloir gris vers le sud et sauvegarde au point prévu avant de descendre.
+Équipe Steal, Morph, Lightning et au moins une Enemy Skill.
+
+- Dans le tunnel sous-marin, [MANQUABLE] utilise L4 Suicide puis Morph sur un
+  Ghost Ship pour le transformer en Guide Book. Cet objet sert plus tard au
+  voyageur de Kalm et peut être perdu si tu ne le fais pas ici.
+- [COFFRE] Dans les couloirs de soldats, vole Shinra Alpha à Underwater MP si
+  l'occasion se présente. Cette armure a une autre fenêtre au raid de Midgar,
+  mais la prendre ici sécurise la route.
+- [BOSS] Carry Armor est faible à Lightning. Garde les trois personnages à
+  pleine vie, détruis rapidement les bras s'ils emprisonnent un allié et
+  contrôle God's Hand après la victoire.
+- [MANQUABLE] Après le boss, ne monte pas immédiatement la rampe du sous-marin.
+  Sur le quai, va d'abord à gauche pour Battle Trumpet, puis longe le quai
+  inférieur vers la droite pour Scimitar et Leviathan Scales. Ces trois objets
+  ne sont plus récupérables après le départ.
+- Sur le chemin de la rampe, les Submarine Crew peuvent encore laisser tomber
+  Shinra Beta si tu n'en as pas pris sur le Cargo Ship. Sauvegarde avant de
+  monter dans le sous-marin.
+
+Sous-marin :
+
+- Dans la séquence de chasse, vise le sous-marin rouge et détruis-le avec les
+  missiles. Utilise la caméra pour rester derrière lui et évite les tirs qui
+  font couler ton appareil.
+- [MANQUABLE] Recharge si la chasse est perdue : le sous-marin reste récupérable
+  mais la Huge Materia est perdue pour cette sauvegarde.
+- Après la victoire, plonge au sud-ouest de Junon, près des îles méridionales,
+  et examine l'épave rouge pour [COFFRE] Huge Materia de l'Underwater Reactor.
+  Note cette récompense comme 3/4.
+- Avec le sous-marin, tu peux maintenant visiter le Sunken Gelnika et la grotte
+  de Vincent ; garde leurs itinéraires complets pour les sections de nettoyage.
+- [COFFRE] Avec Leviathan Scales, retourne à Da-Chao et examine le feu dans la
+  grotte : prends Oritsuru et Steal as Well Materia. Sans les écailles, ces deux
+  objets sont perdus.
+
+Rocket Town, dernière Huge Materia :
+
+- [COFFRE] Avant de monter, vérifie Fourth Bracelet dans la Weapon Shop et
+  Guard Source dans l'Item Shop si tu ne les as pas déjà pris.
+- Monte vers le rocket avec Cid. [MANQUABLE] Équipe Steal avant la rencontre
+  contre Rude et vole Ziedrich ; les Attack Squad de la même séquence peuvent
+  aussi donner 8-inch Cannon. Contrôle Cid, Cloud et le troisième membre avant
+  de monter à bord.
+- Dans le rocket, suis le chemin jusqu'au compartiment central puis rejoins la
+  cabine de contrôle. [MANQUABLE] Sur le boîtier de la Huge Materia, entre le
+  code PC : OK, Switch, Cancel, Cancel. Une mauvaise première tentative lance
+  un compte à rebours de trois minutes ; recharge immédiatement si tu échoues.
+- [COFFRE] Récupère la Huge Materia de Rocket Town et note-la comme 4/4. Après
+  le retour au Highwind, reparle trois fois au vieil homme qui regardait le
+  rocket pour recevoir Venus Gospel, l'arme finale de Cid.
+
+Cosmo Canyon et les quatre Huge Materia :
+
+- Retourne à l'observatoire de Bugenhagen avec les quatre Huge Materia. La
+  bleue ne donne Bahamut Zero que si Bahamut et Neo Bahamut sont déjà dans le
+  menu ; examine-la en premier pour vérifier la condition.
+- Les Huge Materia verte, jaune et rouge servent aussi aux Master Magic, Master
+  Command et Master Summon lorsque les familles concernées sont maîtrisées.
+  Ne consomme pas une copie unique avant le contrôle de Materia Overlord.
+- [SUCCÈS] Bahamut Zero est dans le menu et son succès est visible avant de
+  quitter Cosmo Canyon.
+
+AVANT DE SORTIR
+
+- [MANQUABLE] Leviathan Scales, Guide Book, Shinra Alpha, Battle Trumpet,
+  Scimitar, Oritsuru, Steal as Well, Ziedrich, 8-inch Cannon et Venus Gospel
+  sont contrôlés selon les objectifs de collecte ; les quatre Huge Materia sont
+  dans l'inventaire.
+- [BOSS] God's Hand et le butin volé de Rude sont vérifiés ; la chasse du
+  sous-marin rouge est réussie et la sauvegarde PRINCIPALE est conservée.
+- [SUCCÈS] Bahamut Zero est obtenu dans Cosmo Canyon ; la route passe à 4/4
+  Huge Materia avant de commencer le nettoyage du Highwind.
 
 33. HIGHWIND, LIMITES ET ARMES OPTIONNELLES
 

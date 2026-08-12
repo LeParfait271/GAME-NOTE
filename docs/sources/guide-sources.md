@@ -213,6 +213,16 @@ conditions difficiles ; elles ne justifient jamais une copie mot a mot.
 - Mise a jour : Costa del Sol, Mt. Corel, Gold Saucer, Corel Prison, Gongaga,
   Cosmo Canyon, Nibelheim, Temple, Bone Village, Great Glacier et Whirlwind
   Maze recoupes avec le walkthrough RPG Site et les tables d'objets associees.
+- Mise a jour : Junon/Mideel, Wutai et Pagode recoupes avec les pages Wutai,
+  Pagoda et Mideel de la FAQ GameFAQs ; les quatre missions Huge Materia,
+  leurs codes, recompenses, vols et conditions de rattrapage sont recoupes avec
+  RPG Site et les pages Corel, Fort Condor, Junon et Rocket Town.
+- References de ce lot :
+  https://gamefaqs.gamespot.com/ps/197341-final-fantasy-vii/faqs/71240/wutai
+  https://gamefaqs.gamespot.com/ps/197341-final-fantasy-vii/faqs/71240/pagoda-sidequest
+  https://gamefaqs.gamespot.com/ps/197341-final-fantasy-vii/faqs/71240/missable-item-walkthrough
+  https://gamefaqs.gamespot.com/ps/197341-final-fantasy-vii/faqs/71240/junon-huge-materia
+  https://gamefaqs.gamespot.com/ps/197341-final-fantasy-vii/faqs/71240/the-final-huge-materia
 
 ## FINAL FANTASY IX
 

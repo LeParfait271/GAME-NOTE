@@ -30,6 +30,12 @@ Ce fichier fixe la méthode minimale avant toute modification visible du site.
     les objets de retour et le point de sauvegarde avant le boss. Une route ne
     peut pas être déclarée complète si elle décrit seulement l'objectif de la
     zone sans traiter les récompenses de ses énigmes et de ses combats.
+12. Pour les séquences FFVII sans butin, l'indiquer explicitement afin de ne
+    pas inventer des coffres. Pour Mideel, les boutiques conditionnelles, le
+    chocobo blanc et la porte verrouillée sont des contrôles distincts. Pour
+    les Huge Materia, séparer la récompense du mini-jeu, le combat direct, le
+    butin volé et le code de la séquence ; un résultat partiel ne passe jamais
+    pour une route 100 %.
 
 Toute nouvelle règle durable doit être ajoutée à GAME_NOTE_RULES.md et
 transformée en validation automatique quand c'est possible.

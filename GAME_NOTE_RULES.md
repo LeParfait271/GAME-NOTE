@@ -55,6 +55,11 @@ statique Cloudflare Pages.
   par une interaction, une chute, une fouille ou un combat doivent figurer dans
   le checkpoint de la zone ; une liste de noms sans emplacement concret ne
   passe pas le seuil de profondeur.
+- Une séquence FFVII sans objet doit être signalée comme telle : elle ne doit
+  pas recevoir de faux coffres pour remplir une fiche. À Mideel, les trois
+  boutiques, le chocobo blanc, la clé et l'Elixir sont des contrôles séparés.
+  Pour une Huge Materia, la fiche doit distinguer la mission, le combat direct,
+  le butin volé, le code, la récompense annexe et la condition de rattrapage.
 - Pour la phase actuelle, les repères visuels sont activés uniquement sur
   `final-fantasy-vii-2013`. `[COFFRE]` couvre tous les objets à récupérer
   (coffres, matérias, collectibles et récompenses) ; les marqueurs

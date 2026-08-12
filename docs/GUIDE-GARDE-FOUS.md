@@ -168,6 +168,19 @@ mise à jour est refusé, même si le code ou la fiche fonctionne.
 - Limite restante : le disque 2, le raid de Midgar et le nettoyage final doivent
   encore être relus au même niveau avant le statut complet.
 
+### Lot FFVII — Junon, Mideel, Wutai et les Huge Materia
+
+- Périmètre livré : évasion de Junon sans faux butin, tournée du Highwind,
+  boutiques conditionnelles et objets manquables de Mideel, quête complète de
+  Wutai/Pagode, train de North Corel, bataille directe de Fort Condor, sous-marin
+  et Rocket Town.
+- Méthode ajoutée : une séquence vide est déclarée vide ; les objets de Mideel
+  sont séparés par condition ; chaque Huge Materia possède son propre contrôle
+  de mini-jeu, vol, code, récompense annexe et sauvegarde de reprise.
+- Limite restante : la relecture détaillée des sections Highwind de nettoyage,
+  Gelnika, Ancient Forest, raid de Midgar et Northern Cave reste à faire avant
+  le statut complet de la fiche FFVII.
+
 ## Seuil de profondeur Game Note
 
 Une fiche ne peut plus être considérée comme complète parce qu'elle contient
