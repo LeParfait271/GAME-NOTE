@@ -1,269 +1,1102 @@
 BIOSHOCK 2
-GUIDE CHRONOLOGIQUE 100 % STEAM - SANS SPOILER
+GUIDE CHRONOLOGIQUE 100 % STEAM - FICHE COMPLETE SANS SPOILER
 
-Version de travail : 11 aout 2026
+Version de travail : 12 aout 2026
 
-Ce guide couvre l'edition Steam originale AppID 8850 et ses 68 succes. Elle
-inclut la campagne solo, Protector Trials, Minerva's Den et les modes
-multijoueur ; ne pas la confondre avec BioShock 2 Remastered AppID 409720,
-qui possede un autre compteur. Les zones, objectifs et noms de succes sont
-des reperes de route. Aucune mort, identite, trahison, fin ou consequence
-narrative n'est devoilee.
+FICHE RAPIDE
 
-OBJECTIF
+- Jeu controle : BioShock 2 original Steam, AppID 8850.
+- Total controle : 68 succes Steam.
+- Contenu couvert : campagne principale, 14 Power to the People, tous les
+  journaux audio reperes, recherche, Little Sisters, Protector Trials,
+  Minerva's Den et multijoueur.
+- Edition a ne pas melanger avec BioShock 2 Remastered, AppID 409720 : les
+  fichiers de sauvegarde, le compteur et les executables ne sont pas les
+  memes.
+- Route conseillee : une partie de collecte puis une partie de difficulte si
+  tu veux valider les deux succes de difficulte sans te mettre en danger.
+- Spoilers : aucun nom de fin, aucune identite, aucune consequence narrative
+  et aucun resultat de decision n'est revele. Les noms des zones, des objets,
+  des journaux et des succes sont conserves pour rendre la route suivable.
 
-[ ] 68/68 succes Steam.
-[ ] Campagne principale complete.
-[ ] 100 Audio Diaries dans la campagne, puis nettoyage des recherches.
-[ ] Toutes les Little Sisters traitees et les personnages optionnels epargnes
-    pour Savior.
-[ ] Toutes les armes Power to the People et tous les plasmids.
-[ ] Protector Trials : etoiles, rang A, ADAM et bonus trials.
-[ ] Minerva's Den : campagne, 10 vacuum bots, Little Sisters et Spitfire.
-[ ] Multijoueur et cartes DLC separes de la route solo.
+CE QUE SIGNIFIE 100 % ICI
 
-GARDE-FOUS ET RUNS
+[ ] 68/68 succes de la fiche Steam.
+[ ] Campagne principale terminee.
+[ ] 12 Little Sisters de la campagne traitees et les trois personnages de
+    decision epargnes pour Savior.
+[ ] Recherche complete sur les 9 sujets de Rapture.
+[ ] Au moins 100 journaux audio ; le registre ci-dessous donne les 129
+    reperes de campagne couramment utilises par les guides PC. Certains
+    compteurs de guides affichent 128 selon l'edition et la convention de
+    comptage ; le seuil Steam officiel reste 100.
+[ ] 14 Power to the People trouves et utilises.
+[ ] Les 11 plasmids de base obtenus, tous les slots plasmid ameliores et un
+    plasmid monte au niveau 3.
+[ ] Protector Trials : 36 etoiles, rang A, 50 % d'ADAM, un trial parfait et
+    tous les bonus trials.
+[ ] Minerva's Den : campagne, 6 Little Sisters, 10 Vacuum Bots et Spitfire.
+[ ] Multijoueur : rang 40, cartes standard, cartes DLC, six nouvelles cartes
+    et objectifs de parties non privees.
 
-- MISSABLES : les recherches, Little Sisters, stations et gates de difficulte
-  sont controles avant chaque changement de zone.
-- Run 1 conseillee : Normal ou Hard, Vita-Chambers activees, sauvetage de
-  toutes les Little Sisters, recherche de chaque sujet et collecte des diaries.
-- Run 2 conseillee : Hardest difficulty avec Vita-Chambers desactivees pour
-  Against All Odds et Big Brass Balls. Fais des sauvegardes manuelles, mais ne
-  laisse pas le personnage mourir.
-- Pour Savior, epargne Grace, Stanley et Gil et sauve toutes les Little
-  Sisters. Cette decision est a faire dans les zones concernees ; ne pars pas
-  du principe qu'un nettoyage de fin reparera une decision deja validee.
-- Chaque fois qu'un Big Sister est annonce, sauvegarde avant le combat et
-  conserve un espace de soin pour Unbreakable et Grand Daddy.
-- La recherche, les diaries et les weapon upgrades sont plus fiables si tu
-  nettoies la zone avant de prendre le train ou la transition de niveau.
+GARDE-FOUS DE ROUTE
+
+- MISSABLES : les journaux, Little Sisters, recherches et stations sont
+  controles avant chaque transition ; cette fiche indique la derniere fenetre
+  sure pour chacun.
+- Fais une sauvegarde manuelle au debut de chaque zone et une autre avant la
+  porte de depart, le train, l'ascenseur ou toute transition definitive.
+- Le menu Pause affiche le nombre de Little Sisters encore disponibles dans
+  la zone. Ne pars jamais tant que le compteur n'est pas a zero.
+- Les 14 stations Power to the People sont uniques et la plupart ne sont plus
+  accessibles apres le depart du niveau. Le registre de cette fiche sert de
+  feuille de pointage, pas de simple rappel.
+- Les journaux audio, les recherches et les rencontres de Big Daddy sont a
+  faire avant de prendre le train ou de valider la sortie. Si tu as un doute,
+  recharge la sauvegarde de debut de zone.
+- Pour Savior : sauve chacune des 12 Little Sisters de la campagne et epargne
+  Grace, Stanley et Gil. Une sauvegarde avant chaque decision permet de
+  verifier le resultat sans refaire toute la partie.
+- Pour Grand Daddy : conserve au moins trois combats de Big Daddy propres.
+  Le succes demande trois victoires sans mourir pendant le combat, pas trois
+  victoires consecutives.
+- Pour Unbreakable : le combat contre une Big Sister doit etre gagne sans
+  mourir. En cas de mort, recharge avant l'apparition ; ne compte pas sur une
+  chambre de vita.
+- Pour Big Brass Balls : desactive les Vita-Chambers dans les options avant
+  de commencer la run dediee. Une mort n'est pas un simple rechargement pour
+  ce suivi : recharge une sauvegarde manuelle avant la mort.
+- Pour Against All Odds : termine la campagne en difficulte la plus elevee.
+  Ce succes est distinct de Big Brass Balls.
+- Pour la collecte, n'utilise pas New Game Plus : les compteurs de Little
+  Sisters et certains succes de route ne sont pas une base fiable en NG+.
+
+RUNS RECOMMANDEES
+
+RUN A - COLLECTE ET SAVIOR
+
+- Difficulte Normal ou Hard, Vita-Chambers activees.
+- Sauve toutes les Little Sisters et epargne Grace, Stanley et Gil.
+- Fais chaque photo de recherche au premier contact, puis varie armes,
+  plasmids et attaques pour remplir les pistes au lieu de farmer en fin de
+  partie.
+- Ramasse chaque journal du registre, chaque station et chaque Vacuum Bot.
+- Fais les succes de hacks, pieges, ADAM, plasmids et armes sur cette run.
+
+RUN B - DIFFICULTE
+
+- Difficulte la plus elevee, Vita-Chambers desactivees.
+- N'ouvre pas de chambre de vita et ne valide pas un combat apres une mort.
+- Les collectibles ne sont pas obligatoires sur cette run si la Run A est
+  validee. Garde toutefois une sauvegarde au debut de chaque zone.
+
+NETTOYAGE HORS CAMPAGNE
+
+- Protector Trials et Minerva's Den sont des modes solo separes.
+- Le multijoueur exige une partie non privee pour les succes concernes. Une
+  partie privee avec un ami ne valide pas ces conditions ; organise les
+  cartes et les objectifs avec une session publique ou un partenaire dans un
+  salon public.
 
 ROUTE CHRONOLOGIQUE - CAMPAGNE PRINCIPALE
 
-01 - ADONIS LUXURY RESORT
+01. ADONIS LUXURY RESORT
 
-- Apprends Distance Hacker, prends la camera de recherche et photographie la
-  premiere famille d'ennemis avant de quitter le secteur.
-- Fais le premier Gather avec la Little Sister, puis protege-la sans laisser
-  tomber la barre d'ADAM. [ ] Protector ; [ ] Master Protector si une manche
-  parfaite se presente.
-- Achète un slot au premier Gatherer's Garden : [ ] Bought a Slot.
-- [ ] Upgraded a Weapon des que la premiere Power to the People est trouvee.
-- Verifie [ ] first research ; [ ] first audio diary ; [ ] Little Sister.
+OBJECTIF DE SORTIE
 
-02 - ATLANTIC EXPRESS / RYAN AMUSEMENTS
+- Suis l'introduction jusqu'au premier plasmid Electro Bolt et apprends le
+  piratage a distance des qu'il est disponible : [ ] Distance Hacker.
+- Fais la premiere rencontre de recherche avec la Research Camera avant de
+  finir le Splicer : [ ] First Research.
+- Dans le grand bassin, nettoie les couloirs lateraux avant de suivre la
+  sortie. Le seul objectif Little Sister utile ici est celui impose par le
+  tutoriel ; traite-le et verifie le menu avant de quitter.
+- Pour la premiere defense ADAM, pose les pieges avant de lancer la recolte.
+  Une recolte sans degat et sans ennemi atteint la soeur donne une premiere
+  chance a [ ] Master Protector.
+- Achete un slot plasmid ou tonic au premier Gatherer's Garden : [ ] Bought a
+  Slot. Economise l'ADAM si tu vises Max Plasmid Slots.
+- Le journal A01 a A07 est dans la zone. Utilise le registre plus bas et
+  marque chaque entree avant la porte de sortie.
 
-- Dans Atlantic Express, pirate une camera, une tourelle, un distributeur et
-  un coffre afin d'avancer Prolific Hacker et les compteurs de hack a distance.
-- Dans Ryan Amusements, rejoins Sinclair, adopte puis traite chaque Little
-  Sister avant la sortie du parc.
-- [ ] Sinclair's Solution ; [ ] Adopted a Little Sister ; [ ] First Research.
-- Commence le compteur de Big Daddies sans mourir : [ ] Grand Daddy 1/3.
-- Ne quitte pas un secteur avec un diary ou une Power to the People non note.
+RECHERCHE ET RESSOURCES
 
-03 - PAUPER'S DROP
+- Photographier le premier sujet avant de le tuer est plus important que de
+  gagner quelques munitions.
+- Hacke au moins une camera, un coffre et une porte si elles se presentent.
+  Pour Prolific Hacker, il faudra au total les huit familles de machines.
+- Ne quitte pas le resort avec une entree du registre A manquante.
 
-- Explore Fishbowl Diner, Marlene's Flower Emporium, Little Eden et les
-  appartements avant de suivre la route principale.
-- [ ] Confronted Grace : sauvegarde juste avant la decision et choisis la
-  route de sauvegarde pour Savior.
-- Fais au moins un Gather sans aucun dommage pour viser Master Protector.
-- Utilise Hack Tool a distance sur les machines faciles et conserve les
-  tourelles piratees pour Look at You, Hacker.
-- [ ] Big Spender : depense progressivement 2 000 dollars dans les vending
-  machines ; n'attends pas la fin avec un inventaire plein.
+DERNIER CONTROLE AVANT TRANSITION
 
-04 - SIREN ALLEY
+[ ] Distance Hacker.
+[ ] First Research.
+[ ] Bought a Slot.
+[ ] A01-A07.
+[ ] Defense ADAM terminee.
+[ ] Sauvegarde manuelle avant la transition.
 
-- Fais le tour de Mermaid Lounge, Pumping Station et Church avant de suivre
-  l'objectif ; les diaries sont souvent sur les bancs, pres des Gene Banks et
-  derriere les portes laterales.
-- Termine la recherche de chaque nouveau type de Splicer avec plusieurs armes
-  et plasmids, pas seulement avec le meme tir.
-- [ ] Defeated the Preacher ; [ ] Fully Upgraded a Plasmid ; [ ] One Research
-  Track si le rang est deja disponible.
-- Fais le premier objectif sans Vita-Chamber dans la run dediee si tu veux
-  avancer Big Brass Balls sans attendre la fin.
+02. ATLANTIC EXPRESS DEPOT
 
-05 - DIONYSUS PARK
+OBJECTIF DE SORTIE
 
-- Avant toute transition, nettoie les galeries, les bureaux et le stockage.
-- [ ] Nose for News : explore le secteur annexe et lis l'objectif associe
-  quand il est disponible.
-- Traite toutes les Little Sisters et verifie [ ] Dealt with Every Little
-  Sister pour la zone.
-- Photographier les ennemis avant de les achever accelere Research Master.
+- Recupere Telekinesis et utilise-le sur un projectile ennemi des qu'une
+  occasion sure se presente. Tue un ennemi avec son propre projectile pour
+  [ ] Counterattack ; une bouteille ou un debris lance n'est pas la methode
+  la plus fiable.
+- Hacke a distance toutes les machines rencontrees : cameras, tourelles,
+  bots, coffres et portes. Compte les hacks dans le menu si tu vises [ ]
+  Master Hacker, 30 machines a distance.
+- Dans l'atelier et la station, nettoie les bureaux lateraux avant de monter
+  dans le train. Il n'y a pas de Little Sister de campagne a traiter ici,
+  mais des journaux sont definitivement perdables au depart.
+- Recherche chaque nouveau Splicer avant de le laisser disparaitre. Ne
+  gaspille pas les munitions de recherche sur un sujet deja termine.
 
-06 - FONTAINE FUTURISTICS
+JOURNAUX ET CHECKPOINTS
 
-- Fais les salles de production, le hall et les bureaux en revenant au debut
-  apres chaque coupure de securite.
-- [ ] Found Lamb's Hideout : progression de zone.
-- [ ] All Weapon Upgrades : verifie chaque Power to the People avant de
-  prendre le depart vers Persephone.
-- [ ] All Plasmids : achete ou trouve les 11 types de plasmid de base avant le
-  depart final, en gardant de l'ADAM pour les slots.
+- Ramasse B01-B08 dans l'ordre du registre. B08 est le dernier controle avant
+  de quitter la zone de train.
+- Le succes [ ] Protector se valide pendant la defense de la gare. Pose des
+  pieges dans les goulets, garde une ligne de vue sur les ennemis et recharge
+  la sauvegarde si tu rates la defense.
 
-07 - OUTER PERSEPHONE
+DERNIER CONTROLE AVANT TRANSITION
 
-- Nettoie les cellules, les bureaux et les ateliers. Conserve un slot de
-  sauvegarde avant les rencontres de decision.
-- [ ] Lancer Killer : elimine un Lancer Big Daddy.
-- [ ] Savior : Little Sisters toutes sauvees, Grace, Stanley et Gil epargnes.
-- [ ] Rapture Historian : vise au moins 100 Audio Diaries avant la sortie ;
-  le compteur se verifie dans le menu, pas seulement dans les zones.
+[ ] Telekinesis obtenue.
+[ ] Une porte, un coffre et une machine de soin hackes.
+[ ] B01-B08.
+[ ] Protector.
+[ ] 30 hacks a distance a poursuivre, pas necessairement atteints ici.
 
-08 - INNER PERSEPHONE / SORTIE
+03. RYAN AMUSEMENTS
 
-- Termine la campagne, verifie [ ] Escape et la decision finale sans abandonner
-  de diary dans les pieces secondaires.
-- Pour la run sans Vita-Chambers, reviens a la sauvegarde Hardest et termine
-  sans utiliser une chambre. [ ] Big Brass Balls ; [ ] Against All Odds.
-- [ ] Heading to the Surface ; [ ] Escape ; [ ] 100 diaries minimum.
+LIGNE DE ROUTE
 
-MINERVA'S DEN - DLC SOLO
+- Rejoins Sinclair et obtiens [ ] Sinclair's Solution.
+- Dans la zone de securite, fais le premier upgrade a la station P2P-01 avant
+  de poursuivre. La station est dans le couloir au-dela de l'horloge
+  renversee, en face de la fenetre de la mitrailleuse.
+- Fais [ ] 9-Irony en rendant hommage au fondateur dans la zone prevue ;
+  l'interaction se fait avec le club de golf, pas avec un distributeur.
+- Obtiens Incinerate au Gatherer's Garden, puis achete un plasmid manquant si
+  tu suis la liste des 11 types.
+- Adopte la premiere Little Sister : [ ] Adopted a Little Sister. Elle te
+  conduit aux deux cadavres ADAM ; protege-la, puis ramene-la a une vent.
+- Pour Savior, choisis Save a la vent. Pour Dealt with Every Little Sister,
+  le choix Save ou Harvest fonctionne, mais ne quitte pas sans traiter cette
+  soeur.
+- Le ride Journey to the Surface est une longue boucle. Fais le nettoyage
+  dans l'ordre : Hall of Future, Gift Shop, ride, salle de maintenance, puis
+  retour vers la sortie.
 
-Cette campagne est separee de l'histoire principale et peut etre lancee apres
-la campagne. Elle contient six succes Steam.
+POWER TO THE PEOPLE
 
-09 - MINERVA'S DEN
+- P2P-01 : zone Security, couloir au-dela de l'horloge renversee, en face de
+  la fenetre de la mitrailleuse.
+- P2P-02 : fin de Journey to the Surface, apres le dernier decor du ride ;
+  entre dans Ride Maintenance / Light Storage par la porte a gauche du decor
+  familial. La station est a l'interieur.
 
-- [ ] Login : atteindre Central Computing Operations.
-- Fouille chaque piece et detruis les Vacuum Bots visibles avant de franchir
-  la porte suivante. [ ] 1 a 5/10 selon le compteur.
-- [ ] ADAM Addict : traite toutes les Little Sisters de Minerva's Den.
+LITTLE SISTER ET RECHERCHE
 
-10 - OPERATIONS
+- Il n'y a qu'une Little Sister de campagne dans Ryan Amusements. Le combat
+  du Big Daddy est une bonne occasion pour [ ] Grand Daddy 1/3 et pour
+  photographier le Big Daddy avant de l'achever.
+- Ramasse C01-C19. C06 et C07 sont dans le ride ; C12-C14 se trouvent dans
+  les pieces de maintenance. Le journal C19 est dans la porte ouverte apres
+  le retour du train : prends-le avant de monter.
+- Dans la zone du parc, recherche Splicer, Big Daddy et camera. Pour Look at
+  You, Hacker, garde une tourelle piratee en vie assez longtemps pour obtenir
+  des kills.
 
-- Prends les diaries, le weapon upgrade et les Vacuum Bots avant l'ascenseur.
-- [ ] 6 a 9/10 Vacuum Bots.
-- Dans la salle du jeu Spitfire, fais une sauvegarde manuelle puis vise 9 999
-  points avec les bonus de ligne : [ ] High Score.
-- [ ] Root Access Granted.
+DERNIER CONTROLE AVANT TRAIN
 
-11 - THE THINKER / CENTRAL COMPUTING
+[ ] Sinclair's Solution.
+[ ] Adopted a Little Sister et choix Savior marque.
+[ ] P2P-01 et P2P-02.
+[ ] 9-Irony.
+[ ] C01-C19.
+[ ] Recherche de chaque nouveau sujet.
 
-- Avant le depart, verifie [ ] 10/10 Vacuum Bots ; apres le depart, certains
-  ne sont plus accessibles.
-- Termine les objectifs de la zone : [ ] Garbage Collection ; [ ] Logout ;
-  [ ] SUDO.
+04. PAUPER'S DROP
+
+LIGNE DE ROUTE
+
+- Explore Fishbowl Diner, Marlene's Flower Emporium, Hamilton, Skid Row,
+  Limbo Room et Sinclair Deluxe avant de suivre le chemin de sortie.
+- Le compteur de Little Sisters de la zone doit etre a 0. Il y en a 2 dans la
+  campagne standard : tue chaque Big Daddy, adopte la soeur, fais les deux
+  recoltes si tu vises Master Gatherer, puis retourne a une vent.
+- Fais tes premieres vraies defenses a pieges. Pose Trap Rivets et mini
+  tourelles autour du cadavre avant de lancer la recolte. Les 30 kills de [ ]
+  Trap Master peuvent etre construits progressivement ainsi.
+- Fais [ ] Confronted Grace, puis epargne Grace pour Savior. Sauvegarde juste
+  avant la confrontation afin de verifier la decision.
+- Utilise un combat de Brute Splicer pour faire progresser Counterattack avec
+  Telekinesis si ce n'est pas deja fait. Photographier le Brute avant le
+  premier kill est obligatoire pour une recherche propre.
+- Depense progressivement 2 000 dollars dans les distributeurs : [ ] Big
+  Spender. Les achats de munitions et de soins comptent ; ne garde pas tout
+  l'argent jusqu'a la fin.
+
+POWER TO THE PEOPLE
+
+- P2P-03 : deuxieme etage de Hamilton, dans le couloir pres d'El Ammo
+  Bandito, a proximite du passage couvert par une bache bleue.
+- P2P-04 : arriere de Skid Row, Limbo Room, derriere la scene dans la piece
+  laterale.
+- P2P-05 : secteur Sinclair Deluxe, apres l'acces a l'hotel ; traverse le
+  trou dans le couloir et prends la station pres de la bache bleue, plutot
+  que de suivre directement l'escalier principal.
+
+HACKS ET RECHERCHE
+
+- Les huit types a hacker au moins une fois sont : First Aid Station, Circus
+  of Values, El Ammo Bandito, Security Camera, Turret, Security Bot, coffre
+  et porte verrouillee. Fais-les a distance chaque fois que le tir du Hack
+  Tool est possible.
+- Les coffres et portes ne sont pas des journaux : controle les deux listes
+  separement.
+- Continue les photos du Brute, du Leadhead, du Houdini et du Big Daddy.
+
+DERNIER CONTROLE AVANT TRANSITION
+
+[ ] 2/2 Little Sisters traitees.
+[ ] Grace epargnee pour Savior.
+[ ] P2P-03, P2P-04, P2P-05.
+[ ] D01-D21.
+[ ] Les huit types de machines hackes au moins une fois.
+[ ] Brute recherche avant son dernier passage.
+
+05. SIREN ALLEY
+
+LIGNE DE ROUTE
+
+- Nettoie Mermaid Lounge, Pink Pearl, Plaza Hedone, Green Grocery, Orphanage
+  et Pump Control Substation 5 avant de traverser l'eglise.
+- Le compteur de Little Sisters de la zone doit etre a 0 : il y en a 3 dans
+  la route standard. Pour une recolte parfaite, prepare chaque zone avec
+  pieges, munitions et tourelles avant d'installer la soeur.
+- Achete ou recupere Insect Swarm, Scout et Security Command. Avec la liste
+  des 11 plasmids, marque chaque type une seule fois ; les niveaux 2 et 3 ne
+  sont pas necessaires pour All Plasmids.
+- Termine le combat de Simon Wales et la progression de la zone. [ ]
+  Defeated the Preacher se valide ici.
+- Fais au moins une recolte parfaite pour [ ] Master Protector. La salle de
+  la station, les couloirs de Mermaid Lounge et les portes de Pump Control
+  sont de bons points de defense.
+
+POWER TO THE PEOPLE
+
+- P2P-06 : Mermaid Lounge, monte a l'etage, hacke la porte a distance, puis
+  tombe par le trou du plancher dans la piece suivante.
+- P2P-07 : juste avant Pump Control Station 5, dans la piece attenante au
+  Gene Bank, avant la descente vers l'eglise.
+
+RECHERCHE ET SUCCES
+
+- Fais une piste de recherche complete sur un sujet au choix pour [ ] One
+  Research Track. Le Leadhead est facile a photographier souvent, mais varie
+  les attaques pour terminer rapidement.
+- Utilise Security Command sur des ennemis et laisse tes bots pirates tuer
+  50 ennemis au total pour [ ] Look at You, Hacker.
+- Ramasse E01-E20. Le journal E20 est dans l'autel principal, avant de
+  declencher la transition de la zone.
+
+DERNIER CONTROLE AVANT TRANSITION
+
+[ ] 3/3 Little Sisters traitees.
+[ ] P2P-06 et P2P-07.
+[ ] Insect Swarm, Scout et Security Command obtenus.
+[ ] Defeated the Preacher.
+[ ] One Research Track.
+[ ] E01-E20.
+
+06. DIONYSUS PARK
+
+LIGNE DE ROUTE
+
+- Fais un tour complet des galeries, du carousel, du Triton Theater, du
+  J. Fischer Gallery et du stockage avant de vider le parc.
+- Le compteur de Little Sisters de la zone doit etre a 0 : il y en a 3 dans
+  la campagne standard. Ne suis pas uniquement la fleche : la troisieme
+  rencontre se trouve dans la partie theatre/galerie.
+- [ ] Nose for News se valide en decouvrant le secret du parc. Suis l'objectif
+  de zone jusqu'au bout puis fouille la salle secondaire avant la sortie.
+- Recherche Houdini, Brute, Big Daddy et Security. Le Research Camera est
+  encore plus rentable sur les attaques speciales des Houdini.
+- Continue les pieges jusqu'a 30 ennemis pour [ ] Trap Master. Un ennemi
+  touche par une arme apres un piege ne doit pas etre compte comme un kill de
+  piege pour la route la plus sure.
+
+POWER TO THE PEOPLE
+
+- P2P-08 : salle derriere la porte a code 1080, pres du premier secteur de
+  stockage ; le code vient du journal de la zone.
+- P2P-09 : sur le chemin du train, dans le passage qui rejoint la sortie.
+  Fais-la avant d'activer le depart.
+
+DERNIER CONTROLE AVANT TRANSITION
+
+[ ] 3/3 Little Sisters traitees.
+[ ] Nose for News.
+[ ] P2P-08 et P2P-09.
+[ ] F01-F15.
+[ ] Recherche des sujets de la zone.
+[ ] 30 kills de pieges si le compteur est pret.
+
+07. FONTAINE FUTURISTICS
+
+LIGNE DE ROUTE
+
+- Nettoie le hall d'accueil, le Plasmid Showroom, le Marketing Department,
+  les laboratoires ADAM et les Holding Cells avant d'ouvrir la route finale.
+- Desactive les quatre relais de securite puis reviens dans les pieces
+  nouvellement ouvertes. La premiere station P2P-10 est alors accessible.
+- Apres le retour du courant, ouvre la piece du bas des Holding Cells par le
+  panneau hacke depuis la fenetre brisee : c'est la station P2P-11.
+- Le compteur de Little Sisters de la zone doit etre a 0 : il y en a 3 dans
+  la campagne standard. Termine les trois avant l'ascenseur vers Persephone.
+- Fais [ ] Lancer Killer pendant le premier Lancer Big Daddy. Recherche-le
+  avant de le tuer et garde une sauvegarde si le combat est dangereux.
+- [ ] Found Lamb's Hideout se valide en ouvrant l'acces cache a la fin de la
+  zone. Ne pars pas avec des journaux ou des sujets non photographies.
+
+POWER TO THE PEOPLE
+
+- P2P-10 : apres la destruction des relais et l'acces a la zone de securite
+  deverrouillee. Elle est sur la route principale du retour.
+- P2P-11 : apres le retour de l'eclairage, en bas des Holding Cells ; hacke
+  la porte par la fenetre brisee depuis la piece voisine.
+
+PLASMIDS ET RECHERCHE
+
+- Complete la liste des 11 plasmids avant de prendre le train : Electro Bolt,
+  Telekinesis, Incinerate!, Winter Blast, Cyclone Trap, Decoy, Hypnotize,
+  Insect Swarm, Scout, Security Command et Summon Eleanor.
+- Achete un plasmid ou une evolution niveau 3 selon ton budget. Pour [ ] Fully
+  Upgraded a Plasmid, le niveau 3 d'un seul plasmid suffit ; Hypnotize ou
+  Insect Swarm sont de bons choix de controle, mais le choix est libre.
+- Fais les dernieres photos de Big Daddy, Brute, Alpha, Security et Big
+  Sister avant leur derniere apparition. Pour [ ] Research Master, chaque
+  sujet doit avoir sa piste complete, pas seulement une photo.
+
+DERNIER CONTROLE AVANT ASCENSEUR
+
+[ ] 3/3 Little Sisters traitees.
+[ ] P2P-10 et P2P-11.
+[ ] 11 plasmids de base.
+[ ] Lancer Killer.
+[ ] Found Lamb's Hideout.
+[ ] G01-G17.
+[ ] Recherche de tous les sujets rencontres.
+
+08. OUTER PERSEPHONE
+
+LIGNE DE ROUTE
+
+- Fais le tour des salles d'examen, des bureaux, de la cellule d'Eleanor et
+  des couloirs avant de prendre le nouvel objectif.
+- Cette zone ne donne pas de nouvelle Little Sister de campagne a adopter ;
+  verifie que le compteur general des 12 soeurs est deja complet avant
+  l'arrivee ici.
+- P2P-12 est sur la route principale, contre le mur gauche en allant vers les
+  Examination Rooms. Prends-la avant le bureau de Lamb.
+- Obtiens le plasmid Summon Eleanor pour terminer la liste des 11 types si ce
+  n'est pas deja fait.
+- Recherche les deux Big Sisters de la zone avant leur dernier combat. Pour
+  [ ] Unbreakable, recharge avant leur apparition si tu meurs.
+- Ramasse H01-H05 avant de passer au bloc interieur.
+
+POWER TO THE PEOPLE
+
+- P2P-12 : mur gauche du couloir vers les Examination Rooms, juste avant les
+  cellules et les bureaux. Elle est visible mais facile a depasser en suivant
+  la fleche.
+
+DECISIONS ET FIN DE COLLECTE
+
+- Les pieces d'equipement pour Eleanor sont dans les salles laterales. Fais
+  le tour des pieces avant de les remettre.
+- La decision de Gil intervient plus tard dans la route globale : garde une
+  sauvegarde et choisis l'option qui preserve Savior.
+- Le registre H01-H05 est court, mais les cinq entrees sont definitivement
+  perdables en quittant Outer Persephone.
+
+DERNIER CONTROLE AVANT INNER PERSEPHONE
+
+[ ] P2P-12.
+[ ] Summon Eleanor / All Plasmids.
+[ ] H01-H05.
+[ ] Recherche Big Sister avancee.
+[ ] 12/12 Little Sisters de campagne deja traitees.
+
+09. INNER PERSEPHONE
+
+LIGNE DE ROUTE
+
+- Explore Security Checkpoint A, les Cell Blocks, la cafetaria, Recreational
+  Therapy, Intensive Therapy, Administration et l'Infirmary avant de suivre
+  la route de sortie.
+- Il n'y a pas de nouvelle Little Sister a adopter ici. Les compteurs de la
+  campagne doivent etre finalises avant ce bloc.
+- P2P-13 se trouve dans la salle ou Sinclair est retenu ; reviens regarder
+  derriere toi apres avoir obtenu l'acces, ou utilise la route laterale par
+  les sanitaires, Incinerate et Hack Dart.
+- P2P-14 est apres Ward B, dans la salle de la tourelle-fusee / Quarantine
+  Area. Fais-la avant le dernier ascenseur.
+- Ramasse I01-I17. Les journaux des cellules et de l'infirmerie sont les plus
+  souvent oublies : ouvre chaque cellule laterale et inspecte les trous dans
+  les murs.
+- Termine la campagne pour [ ] Reunion, [ ] Heading to the Surface et [ ]
+  Escape. Aucun resultat narratif n'est decrit ici.
+
+POWER TO THE PEOPLE
+
+- P2P-13 : salle de detention de Sinclair ; apres l'ouverture de l'acces,
+  regarde le mur arriere. Si la porte semble fermee, passe par les sanitaires,
+  Incinerate le bloc de glace et hacke le panneau.
+- P2P-14 : apres Ward B, dans la salle avec la rocket turret, cote
+  Quarantine Area. Utilise la fenetre et le Hack Tool si la porte est rouge.
+
+FIN DE CAMPAGNE
+
+- Avant la derniere transition, confirme les 14 stations, 12 Little Sisters,
+  100 journaux, toutes les pistes de recherche et les decisions Savior.
+- Pour la run de difficulte, termine la campagne en difficulte maximale et
+  sans Vita-Chambers pour valider [ ] Against All Odds et [ ] Big Brass Balls.
+
+DERNIER CONTROLE CAMPAGNE
+
+[ ] P2P-13 et P2P-14.
+[ ] I01-I17.
+[ ] 14/14 Power to the People.
+[ ] 12/12 Little Sisters traitees.
+[ ] Savior.
+[ ] Rapture Historian.
+[ ] Reunion.
+[ ] Heading to the Surface.
+[ ] Escape.
+
+REGISTRE COMPLET DES JOURNAUX AUDIO
+
+Le seuil Steam est de 100 journaux. La route ci-dessous donne les reperes de
+campagne par zone, dans un ordre de parcours. Marque chaque entree au moment
+ou tu la prends. Les noms sont la cle de recherche dans le menu, les lieux
+sont le vrai repere de route.
+
+ADONIS LUXURY RESORT - A01 A A07
+
+- A01 - Attention Workers! : grande salle de la piscine, pres du generateur
+  qui crepite, sur le cote gauche.
+- A02 - Fitness : steam room verrouillee ; le code est inscrit sur la vitre.
+- A03 - To My Daughter : apres le retour du courant, dans l'arriere-salle des
+  toilettes des femmes.
+- A04 - Return : salle avec bassin et pont decoratif, au coin de l'affiche
+  Best and Brightest, sur un banc.
+- A05 - They Called It Rapture : juste avant la salle de la Little Sister,
+  passe par la porte marquee Rapture Metro ; au sol, pres des ours en peluche.
+- A06 - Generation : apres le premier combat de Big Sister, dans le grand
+  foyer, au coin du bar.
+- A07 - Escape from Rapture : premier passage exterieur sous-marin, a gauche,
+  pres du bathysphere echoue et des corps.
+
+ATLANTIC EXPRESS - B01 A B08
+
+- B01 - The Great Chain Rattles : premiere grande gare avec le wagon qui
+  tombe ; porte Train Workshop a gauche, sur le bureau.
+- B02 - Mr. Tape Recorder : apres Telekinesis, reviens vers le point de depart
+  pres du grand ventilateur et attire-le avec Telekinesis.
+- B03 - Just a Fad : balcon superieur avec bouteilles de gaz, sur le bureau.
+- B04 - What Happened to the People? : deuxieme grande gare, a droite du
+  train, monte les escaliers pres du matelas.
+- B05 - Ryan vs Lamb: Reality : arriere de la cafetaria, au-dela de la
+  cuisine, dans le stockage sombre avec les vitres vers l'eau.
+- B06 - Know the Beast : apres avoir retire la cle de la machinerie, prends
+  les petits couloirs a gauche vers la salle des engrenages.
+- B07 - Improving on Suchong's Work : apres l'ascenseur, salle de Trap Rivets;
+  monte au Manager's Office, sur un classeur.
+- B08 - The Situation : apres la rencontre de Tenenbaum et du groupe de
+  Splicers, sur les bancs avant de quitter le train.
+
+RYAN AMUSEMENTS - C01 A C19
+
+- C01 - Eleanor's Progress : autel avec bougies et inscription We Will Be
+  Reborn, en sortant de la gare vers le parc.
+- C02 - The Old Sheepdog : sous-sol de la securite, avant le piratage a
+  distance par la fenetre brisee vers le ticket du parc.
+- C03 - Volunteer : Rapture Museum, sous le banc entre Gift Shop et Hall of
+  Future.
+- C04 - Eat Dog : dans le meme wagon de vente que le tonic Drill Power.
+- C05 - Child and Guardian : pres des vitres eloignees du El Dorado Lounge,
+  a l'endroit de la premiere rencontre Big Daddy.
+- C06 - You, Me, and 1959 : salle Ride Maintenance a gauche avant Journey to
+  the Surface.
+- C07 - Escape Plan : au sol pres du deuxieme cadavre de recolte.
+- C08 - Lamb the Problem, Sinclair the Solution : en face de C07, derriere
+  les caisses, pres de la machine EVE et du .50 cal, derriere l'eau qui tombe.
+- C09 - Truth is in the Body : avant le second robot Andrew Ryan, prends
+  l'escalier vers les balcons et cherche l'etabli.
+- C10 - Deterioration : stockage avec les immenses mains mecaniques ; monte
+  par la main centrale jusqu'au balcon.
+- C11 - Working for Sinclair : salle d'eau contenant P2P-02, dans la piece a
+  droite de la machine de munitions.
+- C12 - Doctor Lamb : fin de Journey to the Surface, passage de maintenance
+  sous la camera pres de Bot Shutdown ; casse la porte boarded.
+- C13 - Efficacy : fin du ride, scene du petit phare ; porte a gauche derriere
+  les gravats.
+- C14 - Dating Tip : porte juste avant Journey to the Surface, accessible
+  apres l'ouverture des portes de maintenance.
+- C15 - A Father's Love : milieu du Hall of Future, pres de la Vita-Chamber.
+- C16 - Cutting Corners : arriere du Gift Shop, pres du coffre.
+- C17 - Rapture is Deliverance : toilettes Dames du Gift Shop, porte verouillee
+  a l'Electro Bolt.
+- C18 - Disappeared : debut de la zone glacee ; utilise Incinerate sur la
+  glace.
+- C19 - Wooden Nickels : apres le depart de Sinclair et l'essaim de Splicers,
+  porte nouvellement ouverte a gauche de la porte gelee ; prends-le avant le
+  depart en train.
+
+PAUPER'S DROP - D01 A D21
+
+- D01 - Ryan vs Lamb: Religious Rights : Marlene's Flower Emporium.
+- D02 - Better Times with Lamb : plafond de Flower Emporium ; monte depuis
+  le toit de Fishbowl Diner.
+- D03 - Wrong Side of the Tracks : bureau avant de Sinclair Deluxe, avant les
+  gravats du Brute.
+- D04 - The End of the Line : autel improvise a Prentice Mills, grande zone
+  Downtown avec le train renverse.
+- D05 - Clinic Code at the Fishbowl : dehors, sous l'entree de Fontaine
+  Clinics, a cote du panneau de code.
+- D06 - Camera in Hock : bureau de R. Flanagan, deuxieme etage de Hamilton.
+- D07 - Arrangements : apres le dernier etage de Hamilton, sur la route du
+  Pawn Shop, autel de Little Sister avec papillons bleus.
+- D08 - Therapy With Grace 1 : avant de tomber par le toit du Pawn Shop pour
+  prendre la camera, traverse la passerelle vers Luxury Rooms.
+- D09 - Blood and Lamb : magasin Books de Skid Row ; porte accessible par le
+  trou dans Pharmacy.
+- D10 - Mole : couloir entre Pharmacy/Books et Limbo Room, pres du Big Daddy
+  mort et du feu.
+- D11 - Sunday Services : appartements superieurs de Skid Row, pres d'un
+  cadavre de recolte et d'un tourne-disque.
+- D12 - Pauper's Drop : piece cachee au-dessus de Pharmacy ; passe par la
+  passerelle en bois depuis les appartements de Skid Row.
+- D13 - Closing the Limbo Room : dressing room de Grace.
+- D14 - A Gift From Lamb : salle de bain de Sinclair Deluxe, chambre 106,
+  premier palier.
+- D15 - Profit Coming, Profit Going : avant le deuxieme palier, pres de la
+  rampe et de l'etage au-dessus du cadavre sacrifie.
+- D16 - Where Has Harry Gone? : appartement Sinclair Deluxe avec coffre et
+  tourelle, deuxieme palier.
+- D17 - The Butterfly : avant le troisieme palier, dans la piece aux
+  papillons bleus.
+- D18 - What A Snap : balcon du troisieme palier, en face de la porte de
+  Grace.
+- D19 - Barbarism : sous le lit d'Eleanor dans l'appartement de Grace.
+- D20 - Failing Lamb : sur le lit de Grace.
+- D21 - Field Trial #1 : pendant l'evacuation, apres le Brute Splicer dans la
+  zone Fishbowl ; fouille son corps.
+
+SIREN ALLEY - E01 A E20
+
+- E01 - A Silent God : entree de Little Eden Plaza, a gauche du tableau du
+  crash d'avion.
+- E02 - Misbehaving : comptoir du Poisoned Apple ; passe par le toit et les
+  escaliers.
+- E03 - The Rumbler : toilettes de Mermaid Lounge, sous la glace.
+- E04 - Plasmid Shipment : etage superieur de Mermaid Lounge, table pres des
+  machines a sous.
+- E05 - Farther to Fall : a cote de P2P-06 ; monte et utilise le Hack Dart par
+  la fenetre pour tomber dans le trou.
+- E06 - Father Simon Wales : bureau du premier etage de Pink Pearl.
+- E07 - Double Standard : deuxieme etage de Pink Pearl, salle centrale avec
+  lit, corps et lumiere violette.
+- E08 - Wales an Wales : bureau de Daniel Wales au dernier etage de Pink
+  Pearl, pres du trou.
+- E09 - The Date is the Code : fouille le corps de Daniel Wales.
+- E10 - Lamb's Salvation : dehors, devant l'entree de Plaza Hedone.
+- E11 - The Pair Bond Mechanism : Plaza Hedone, pres de la porte de
+  l'Orphanage, entre Gatherer's Garden et camera.
+- E12 - Bury Her Memory : deuxieme etage nord-ouest de Plaza Hedone, dans la
+  piece avec bureau et refrigerateur.
+- E13 - The Requirements of Utopia : boucle au niveau du sol, allee laterale
+  vers l'egout plein d'eau, apres le tonic Vending Expert.
+- E14 - An Empty Niche : laboratoire de plasmid clandestin, interrupteur
+  visible dans Green Grocery, puis arriere-salle avec cuves.
+- E15 - Lamb's Operation : repaire des contrebandiers au-dessus de Green
+  Grocery, apres la tourelle et la porte d'acier.
+- E16 - My Name is Eleanor : dernier lit du dortoir de l'Orphanage.
+- E17 - Shackled to the Great Chain : Pump Control Substation 5, bureau
+  verrouille au nord-ouest ; hacke la porte par la grille.
+- E18 - Guidance of Lamb : autel de bougies avant le temple, sous les tableaux
+  de mains.
+- E19 - Therapy with Grace 2 : dernier couloir avant l'eglise de Father Wales,
+  porte a gauche vers le bureau de Lamb et P2P-07, sur le classeur.
+- E20 - The Creed of the Faithful : autel principal de l'eglise de Father
+  Wales, avant la mise en eau.
+
+DIONYSUS PARK - F01 A F15
+
+- F01 - Patronage : premiere salle Houdini avec statues couvertes, pres de la
+  sortie est.
+- F02 - A Gift From Billy : apres les escaliers de la premiere salle de
+  statues, redescends par l'autre escalier ; dans les gravats.
+- F03 - Lamb's Time is Over : porte ouverte avec le code de Billy, salle avec
+  rose et P2P-08.
+- F04 - Lamb's Idea of Art : salle apres l'escalier gele et avant le carousel,
+  aux pieds de la statue.
+- F05 - Lost and Found : au centre du carousel.
+- F06 - Lamb Flouts the System : promenade voutee entre les trois espaces
+  artistiques, sous la poubelle tombee pres de la statue centrale.
+- F07 - Learning Poker : sous-sol de Triton Theater, lounge derriere la porte
+  hackee.
+- F08 - Growing Up : Triton Theater, route vers Projection Booth, gravats en
+  face de la porte.
+- F09 - A Spy : bord du balcon du theatre.
+- F10 - A Secular Saint : porte a gauche de l'ecran du theatre, au bout du
+  couloir.
+- F11 - The Voice of the Self : sur le piano du Piano Bar.
+- F12 - Falling Into Place : Imago Gallery gelee, pres de la vent de Little
+  Sister ; fais fondre la glace.
+- F13 - Gotta Keep It Together : arriere de J. Fischer Gallery, pres du tonic
+  Drill Specialist.
+- F14 - Dionysus Park's Weakness : premiere salle de Basement Storage, en
+  haut des escaliers, pres de la porte inondee.
+- F15 - A Plan : fin du niveau, cabine de securite nouvellement ouverte avec
+  Stanley Poole.
+
+FONTAINE FUTURISTICS - G01 A G17
+
+- G01 - Alone at Last : premiere porte de la zone, immediatement a gauche.
+- G02 - Agnus Dei : dans la route de mot de passe et d'acces indiquee par Gil.
+- G03 - Means of Control : apres le verrouillage du bureau de securite par
+  Alex, sur le sofa de la porte nouvellement ouverte, pres du corps Fired.
+- G04 - Prototype : entree du Plasmid Showroom ; ouvre le trou vers le corps
+  et le code, puis accede a la piece.
+- G05 - Life After Sisterhood : tour du deuxieme etage, pres de la vent de
+  Little Sister et de l'escalier central.
+- G06 - A New Cognitive Model : Plasmid Presentation Room, trou dans le mur
+  du deuxieme etage.
+- G07 - Source of Volunteers : Marketing Department, salle inondee et
+  electrique a gauche, sur le bureau immerge.
+- G08 - Goodbye to Fontaine : bureau de Frank Fontaine ; tourne la tete de
+  sanglier pour reveler le coffre cache et le journal.
+- G09 - Abort the Experiment : Plasmid Lab apres la securite, table a gauche
+  avec casque et journal.
+- G10 - Solving for X : sous le disjoncteur dans la salle du reservoir de Gil.
+- G11 - Gil's Place in the Plan : a cote du Gatherer's Garden dans la salle
+  des cuves.
+- G12 - Outlived Usefulness : cote Pacification Chamber, salle d'observation
+  au-dessus du pupitre de controle.
+- G13 - Goodbye, Dr. Alexander : Holding Cells, sous la vent de Little Sister
+  en bas a gauche.
+- G14 - Big Sister : Holding Cells, Surveillance Office verrouille pres de la
+  station P2P-11.
+- G15 - Betrayal : cellule gelee au nord-ouest des Holding Cells ; passe par
+  la cellule nord-est et utilise Incinerate entre les barreaux.
+- G16 - Meltzer's Choice : fouille le corps du Big Daddy dans Holding Cells.
+- G17 - The People's Daughter : utilise la cle genetique a Oxy-Fill pour
+  ouvrir la route vers le repaire, puis prends le couloir de l'ascenseur.
+
+OUTER PERSEPHONE - H01 A H05
+
+- H01 - Selling Ryan Short : avant Control Room et la cellule d'Eleanor,
+  salles d'examen avec fauteuils et ecrans.
+- H02 - Withholding Visitation : apres le levier dans le bureau de Lamb,
+  couloir au-dela des bibliotheques, sur la chaise avant les escaliers.
+- H03 - Blessing in Disguise : sous-marin jouet a gauche de la statue rouge
+  de Dr. Alexander.
+- H04 - Behind Mother's Back : meme bureau que le casque Big Sister destine
+  a Eleanor.
+- H05 - Freeing Father : derriere le lit d'Eleanor pendant la collecte des
+  trois pieces de combinaison, avant de les lui remettre.
+
+INNER PERSEPHONE - I01 A I17
+
+- I01 - Out With the Old... : Security Checkpoint A, meme salle que le panneau
+  hacke ; fais demi-tour avant Prisoner Admittance.
+- I02 - The Definition of Despair : table de la cafetaria pres de la fenetre.
+- I03 - First Two Digits : toilettes superieures de Cell Block D.
+- I04 - A Trade : cellule de Cell Block D a cote de la tourelle.
+- I05 - No More Hope Left : cadavre suspendu de Cell Block B, accessible par
+  le trou de Cell Block C.
+- I06 - A Generous Offer : Block A, premiere cellule a gauche, corps dans le
+  trou du mur.
+- I07 - Last Two Digits : zone basse de Holding, cellule sombre de Cell Block
+  South Quad, pres du trou lumineux.
+- I08 - Magic Sauce : tour de securite verrouillee avec Sinclair.
+- I09 - Legs, Mouths, Arms, and Eyes : Recreational Therapy, corps sur le
+  sofa derriere le tableau de Splicer.
+- I10 - A Simple Question : Intensive Therapy, pres de la chaise electrique.
+- I11 - Destructive Learning : Therapy, porte au-dessus de la cascade avant
+  Pediatric Ward.
+- I12 - Sacrifices : Therapy, Administration Office, premiere porte, meubles
+  blancs.
+- I13 - A Stratagem for Sinclair : bas des Administration Offices, a gauche
+  des tubes Pneumo.
+- I14 - Such Freedom : Infirmary Ward A, derniere piece a gauche du long
+  couloir.
+- I15 - My Prison : Infirmary Quarantine, piece avec P2P-13 ; interrupteur
+  sur la colonne qui libere les Alphas.
+- I16 - They Feel Pain : Infirmary Surgery, salle sombre avec les radiographies.
+- I17 - Alleviating Pain : Infirmary Autopsy, table de drainage derriere le
+  medecin suspendu.
+
+POWER TO THE PEOPLE - REGISTRE DES 14 STATIONS
+
+- P2P-01 : Ryan Amusements, securite, couloir au-dela de l'horloge.
+- P2P-02 : Ryan Amusements, Ride Maintenance / Light Storage, fin du ride.
+- P2P-03 : Pauper's Drop, Hamilton, deuxieme etage, pres d'El Ammo Bandito.
+- P2P-04 : Pauper's Drop, arriere de Limbo Room, piece derriere la scene.
+- P2P-05 : Pauper's Drop, Sinclair Deluxe, couloir a la bache bleue.
+- P2P-06 : Siren Alley, Mermaid Lounge, porte hackee a l'etage et trou du
+  plancher.
+- P2P-07 : Siren Alley, Pump Control Station 5, piece du Gene Bank avant la
+  descente.
+- P2P-08 : Dionysus Park, porte a code 1080, salle de rose et de stockage.
+- P2P-09 : Dionysus Park, passage de la sortie vers le train.
+- P2P-10 : Fontaine Futuristics, salle de securite apres les relais.
+- P2P-11 : Fontaine Futuristics, bas des Holding Cells, porte hackee depuis
+  la fenetre brisee.
+- P2P-12 : Outer Persephone, mur gauche vers Examination Rooms.
+- P2P-13 : Inner Persephone, salle de detention de Sinclair, acces arriere.
+- P2P-14 : Inner Persephone, Quarantine Area, salle de la rocket turret.
+
+Les 14 stations donnent 14 upgrades, mais il existe davantage d'ameliorations
+possibles que de stations. Pour [ ] All Weapon Upgrades, il faut trouver les
+14 stations, pas acheter toutes les branches de toutes les armes. Pour Fully
+Upgraded a Weapon, investis trois fois dans une meme arme ; la troisieme
+amelioration exige les deux precedentes de cette arme.
+
+LITTLE SISTERS ET ADAM
+
+CAMPAGNE PRINCIPALE
+
+- Ryan Amusements : 1.
+- Pauper's Drop : 2.
+- Siren Alley : 3.
+- Dionysus Park : 3.
+- Fontaine Futuristics : 3.
+- Total de route standard : 12 Little Sisters. Les bugs d'apparition et les
+  soeurs de demonstration ne comptent pas dans ce total.
+- Le menu de pause montre les soeurs encore disponibles de la zone. Les
+  icones permettent de distinguer une soeur non traitee d'une soeur deja
+  sauvee ou recoltee.
+- Pour Master Gatherer, adopte chaque soeur, fais les deux cadavres ADAM,
+  puis retourne a la vent. Le succes exige 600 ADAM rassemble avec les
+  Little Sisters, pas simplement 600 ADAM possedes.
+- Pour Master Protector, mets des pieges avant chaque recolte, coupe les
+  angles d'attaque avec les portes et finis les ennemis avant qu'ils touchent
+  la petite soeur. Recharge si la barre de recolte subit un degat.
+- Pour Savior, choisis Save a chaque vent et epargne Grace, Stanley et Gil.
+
+MINERVA'S DEN
+
+- Il y a 6 Little Sisters dans le DLC : 3 dans Minerva's Den et 3 dans
+  Operations. Traite les 3 de la premiere zone avant de passer a Operations ;
+  la zone ne se revisite pas de maniere fiable.
+- Si une soeur n'apparait pas, marche dans les differentes pieces et suis le
+  Big Daddy Lancer jusqu'a une vent. Le menu du niveau sert de compteur.
+- Le choix Save ou Harvest est libre pour [ ] ADAM Addict, mais chaque soeur
+  doit etre resolue.
+
+PLASMIDS, HACKS ET RECHERCHE
+
+11 PLASMIDS DE BASE
+
+- Electro Bolt : cadeau de progression a Adonis Luxury Resort.
+- Telekinesis : cadeau de progression a Atlantic Express.
+- Incinerate! : disponible a Ryan Amusements.
+- Winter Blast : Gatherer's Garden a partir de Pauper's Drop.
+- Cyclone Trap : Gatherer's Garden a partir de Pauper's Drop.
+- Decoy : Gatherer's Garden a partir de Pauper's Drop.
+- Hypnotize : dans Pauper's Drop et/ou Gatherer's Garden.
+- Insect Swarm : Gatherer's Garden a partir de Siren Alley.
+- Scout : Gatherer's Garden a partir de Siren Alley.
+- Security Command : cadeau et/ou achat a Siren Alley.
+- Summon Eleanor : cadeau de progression a Persephone.
+- Un seul niveau de chaque type suffit pour [ ] All Plasmids. Trois niveaux
+  d'un seul plasmid donnent [ ] Fully Upgraded a Plasmid.
+
+PROLIFIC HACKER
+
+- Hacke au moins une fois chacun des huit types : First Aid Station, Circus
+  of Values, El Ammo Bandito, Security Camera, Turret, Security Bot, coffre
+  et porte verrouillee.
+- Fais les hacks avant de casser ou d'ouvrir les machines. Le succes accepte
+  un hack direct ou le Hack Tool, mais les hacks a distance sont necessaires
+  pour Master Hacker.
+- Pour atteindre 30 hacks a distance sans farmer : hacke chaque camera,
+  chaque bot, chaque turret, chaque distributeur et chaque porte possible sur
+  la route. Si le compteur est court, utilise les machines de Ryan Amusements
+  et Pauper's Drop en gardant une sauvegarde avant les combats.
+
+RESEARCH MASTER
+
+- Les 9 pistes a completer sont celles du menu Research. Fais une photo avant
+  le premier kill de chaque nouveau sujet.
+- Pour monter une piste, combine attaques d'arme, plasmids, attaques
+  speciales et kills de fin de combat. Une seule attaque repetee remplit
+  beaucoup plus lentement la barre.
+- Sujets a surveiller : Thuggish Splicer, Leadhead Splicer, Houdini Splicer,
+  Spider Splicer, Brute Splicer, Big Daddy, Big Sister, Security et Little
+  Sister.
+- Ne tue pas le premier Brute, Lancer ou Big Sister sans une photo si la
+  recherche correspondante n'est pas terminee. Le menu Research est la seule
+  validation fiable, pas le nombre de photos ramassees.
 
 PROTECTOR TRIALS - DLC SOLO
 
-- Les six cartes sont : The Adonis Baths, Atlantic Express Train Upkeep,
-  Pauper's Drop Market, Simon Wales' Church, Folly of Dionysus et Persephone
-  Cell Block F.
-- Fais une premiere passe pour apprendre les points d'apparition, une seconde
-  pour les 100 % d'ADAM, puis le nettoyage des bonus.
-- [ ] Litmus Test : 6 etoiles.
-- [ ] Acid Test : 18 etoiles.
-- [ ] Trial By Fire : 36 etoiles.
-- [ ] Get a Bigger Bucket : 50 % de l'ADAM total.
-- [ ] Perfect Protector : 100 % de l'ADAM sur un seul trial.
-- [ ] Enemy of the Family : rang A sur tous les Protector Trials.
-- [ ] Guardian Angel : tous les bonus trials.
-- [ ] Two-Bit Heroics : premier trial non prive, si tu fais aussi la partie
-  multijoueur dans la meme session.
+Les six cartes sont : The Adonis Baths, Atlantic Express Train Station,
+Pauper's Drop Market, Simon Wales' Church, Folly of Dionysus et Persephone
+Cell Block F. Chaque carte propose trois trials principaux ; les bonus trials
+se debloquent en progressant dans les etoiles.
 
-MULTIJOUEUR ET CARTES DLC
+METHODE DE NETTOYAGE
 
-- Ces succes ne se remplacent pas par la campagne solo. Prepare une session
-  dediee, verifie que le matchmaking est accessible et utilise un partenaire
-  pour les objectifs de carte et de rang.
-- Premiere session : [ ] Unnatural Selection ; [ ] Welcome to Rapture ;
-  [ ] Proving Grounds ; [ ] Two-Bit Heroics.
-- Big Daddy / Little Sister : [ ] Disgusting Frankenstein ; [ ] "Mr. Bubbles--
-  No!" ; [ ] Mother Goose.
-- Rang : [ ] Parasite (rang 10) ; [ ] Little Moth (rang 20) ; [ ] Skin Job
-  (rang 30) ; [ ] Choose the Impossible (rang 40).
-- Cartes : [ ] Man About Town, une partie sur chaque carte standard ;
-  [ ] Aqua Incognita, une partie sur chaque carte DLC ; [ ] Territorial,
-  victoire sur chacune des six nouvelles cartes.
-- [ ] Reincarnation : utilise Rebirth pour repartir sur une nouvelle vie.
+- Passe 1 : apprends la route du cadavre, les apparitions et les angles de
+  defense. Pose les pieges avant le debut de la recolte.
+- Passe 2 : vise 100 % d'ADAM dans un trial pour [ ] Perfect Protector.
+  Reste pres de la Little Sister, mais garde une route de repli vers la
+  machine de munitions.
+- Passe 3 : recommence les trials avec un rang A. Utilise les plasmids de
+  controle, les Trap Rivets et les mini-tourelles plutot que de poursuivre un
+  ennemi hors de la zone.
+- Les objectifs de score sont cumulatifs dans le menu du DLC : [ ] Litmus
+  Test a 6 etoiles, [ ] Acid Test a 18, [ ] Trial By Fire a 36.
+- Rassemble au moins 50 % de l'ADAM disponible sur l'ensemble des trials pour
+  [ ] Get a Bigger Bucket.
+- Termine tous les bonus trials pour [ ] Guardian Angel et obtient le rang A
+  sur tous les trials principaux pour [ ] Enemy of the Family.
 
-CHECKLIST FINALE DES 68 SUCCES
+CHECKLIST TRIALS
 
-01 [ ] Daddy's Home
-02 [ ] Distance Hacker
-03 [ ] Protector
-04 [ ] Upgraded a Weapon
-05 [ ] Adopted a Little Sister
-06 [ ] Sinclair's Solution
-07 [ ] Prolific Hacker
-08 [ ] First Research
-09 [ ] Bought a Slot
-10 [ ] Unbreakable
-11 [ ] Confronted Grace
-12 [ ] Big Spender
-13 [ ] Fully Upgraded a Weapon
-14 [ ] Defeated the Preacher
-15 [ ] Grand Daddy
-16 [ ] Nose for News
-17 [ ] Fully Upgraded a Plasmid
-18 [ ] Found Lamb's Hideout
-19 [ ] Reunion
-20 [ ] Heading to the Surface
-21 [ ] Escape
-22 [ ] Master Gatherer
-23 [ ] Dealt with Every Little Sister
-24 [ ] Master Hacker
-25 [ ] Look at You, Hacker
-26 [ ] Max Plasmid Slots
-27 [ ] Trap Master
-28 [ ] Counterattack
-29 [ ] One Research Track
-30 [ ] Master Protector
-31 [ ] Savior
-32 [ ] Rapture Historian
-33 [ ] Lancer Killer
-34 [ ] Big Brass Balls
-35 [ ] All Weapon Upgrades
-36 [ ] Login
-37 [ ] Root Access Granted
-38 [ ] Logout
-39 [ ] SUDO
-40 [ ] All Plasmids
-41 [ ] ADAM Addict
-42 [ ] Unnatural Selection
-43 [ ] Welcome to Rapture
-44 [ ] Against All Odds
-45 [ ] 9-Irony
-46 [ ] Research Master
-47 [ ] Garbage Collection
-48 [ ] Proving Grounds
-49 [ ] Disgusting Frankenstein
-50 [ ] Litmus Test
-51 [ ] "Mr. Bubbles-- No!"
-52 [ ] Perfect Protector
-53 [ ] Acid Test
-54 [ ] Two-Bit Heroics
-55 [ ] Trial By Fire
-56 [ ] Get a Bigger Bucket
-57 [ ] High Score
-58 [ ] Parasite
-59 [ ] Enemy of the Family
-60 [ ] Guardian Angel
-61 [ ] Mother Goose
-62 [ ] Little Moth
-63 [ ] Man About Town
-64 [ ] Aqua Incognita
-65 [ ] Skin Job
-66 [ ] Choose the Impossible
-67 [ ] Territorial
-68 [ ] Reincarnation
+[ ] The Adonis Baths nettoye.
+[ ] Atlantic Express Train Station nettoye.
+[ ] Pauper's Drop Market nettoye.
+[ ] Simon Wales' Church nettoye.
+[ ] Folly of Dionysus nettoye.
+[ ] Persephone Cell Block F nettoye.
+[ ] Perfect Protector.
+[ ] Litmus Test.
+[ ] Acid Test.
+[ ] Trial By Fire.
+[ ] Get a Bigger Bucket.
+[ ] Enemy of the Family.
+[ ] Guardian Angel.
 
-VALIDATION FINALE
+MINERVA'S DEN - DLC SOLO
 
-[ ] Campagne : compteur de zones nettoye.
-[ ] 100 Audio Diaries minimum.
-[ ] Recherche de tous les sujets terminee.
-[ ] 10/10 Vacuum Bots et Spitfire 9 999.
-[ ] Protector Trials nettoyes.
-[ ] 68/68 succes Steam.
-[ ] Mode en ligne et DLC verifies separement.
+La campagne du DLC est separee de la campagne principale. Elle contient 8
+succes Steam et ses compteurs ne se melangent pas avec ceux de la campagne.
 
-Sources de verification : pages Steam officielles de BioShock 2 AppID 8850,
-liste officielle des 68 succes, annonce Valve du contenu Steam, manuel PC et
-guides de zones/collectibles. Les conditions sont reformulees et le guide
-reste sans spoiler.
+10 VACUUM BOTS
+
+MINERVA'S DEN - AVANT OPERATIONS
+
+- V01 : chemin vers le bureau de Porter dans l'Executive Wing de Rapture
+  Central Computing, juste apres le Gatherer's Garden.
+- V02 : arriere du Demonstration Stage de McClendon Robotics, derriere la
+  cloture de l'exposition.
+- V03 : piece laterale a droite des McClendon Robotics Workshops ; casse le
+  vent, entre dans la salle cachee et cherche le coin.
+- V04 : New Accounts / Air-Tite Archives, porte au bout du couloir a cote de
+  la tourelle.
+- V05 : Corporate Offices de Rapture Central Computing ; utilise Gravity Well
+  apres la porte verrouillee, puis entre dans le petit bureau a droite.
+- Controle obligatoire : V01-V05 et 3/3 Little Sisters avant l'ascenseur vers
+  Operations. Les portes de retour ne sont pas fiables.
+
+OPERATIONS - APRES L'ASCENSEUR
+
+- V06 : apres l'entree de Programming, salle de stockage a gauche ; utilise
+  Electro Bolt sur l'interrupteur.
+- V07 : grande salle ouest de Programming, porte arriere, escaliers a gauche,
+  au bout de la passerelle.
+- V08 : route vers Core Access, escaliers a gauche du Gatherer's Garden,
+  sous le pont, contre le mur gauche.
+- V09 : a l'arrivee de l'ascenseur vers Maintenance, directement devant les
+  portes.
+- V10 : route vers Climate Control, escaliers pres du Gene Bank, piece en
+  haut puis escaliers descendants.
+- Detruis les dix bots avant la fin de la zone pour [ ] Garbage Collection.
+
+ROUTE DU DLC
+
+- Minerva's Den : [ ] Login en atteignant Rapture Central Computing
+  Operations. Fais V01-V05, traite les 3 Little Sisters, puis ramasse les
+  journaux et les ressources avant l'ascenseur.
+- Operations : fais V06-V10, traite les 3 Little Sisters, puis atteins
+  Computer Core Access pour [ ] Root Access Granted.
+- Dans le mini-jeu Spitfire, fais une sauvegarde manuelle avant la tentative.
+  Utilise les lignes longues, les multiplicateurs et les bonus sans prendre
+  de risque inutile ; 9 999 points donnent [ ] High Score.
+- Termine l'acces au Thinker et le controle du systeme pour [ ] SUDO, puis
+  quitte Minerva's Den pour [ ] Logout.
+
+CHECKLIST MINERVA
+
+[ ] Login.
+[ ] Root Access Granted.
+[ ] SUDO.
+[ ] Logout.
+[ ] 6/6 Little Sisters traitees.
+[ ] 10/10 Vacuum Bots.
+[ ] High Score, 9 999 points.
+
+MULTIJOUEUR - ROUTE DES 15 SUCCES
+
+Le multijoueur de BioShock 2 a ses propres rangs et cartes. Les descriptions
+Steam precisent non-private pour les parties, kills, victoires et cartes.
+Lance une session publique et note le nom de chaque carte terminee. Une partie
+privee peut servir a t'entrainer, mais ne remplace pas la condition du succes.
+
+PREMIERE SESSION
+
+- [ ] Unnatural Selection : premier kill dans une partie non privee.
+- [ ] Welcome to Rapture : premiere partie non privee terminee.
+- [ ] Proving Grounds : premiere victoire non privee.
+- [ ] Two-Bit Heroics : premier trial non prive en multijoueur.
+
+BIG DADDY ET LITTLE SISTER
+
+- [ ] Disgusting Frankenstein : deviens Big Daddy pour la premiere fois dans
+  une partie non privee.
+- [ ] Mr. Bubbles-- No! : elimine ton premier Big Daddy dans une partie non
+  privee.
+- [ ] Mother Goose : sauve ta premiere Little Sister dans une partie non
+  privee.
+
+RANGS
+
+- [ ] Parasite : rang 10.
+- [ ] Little Moth : rang 20.
+- [ ] Skin Job : rang 30.
+- [ ] Choose the Impossible : rang 40.
+- [ ] Reincarnation : utilise Rebirth apres avoir atteint le rang requis.
+
+CARTES
+
+- [ ] Man About Town : joue au moins une partie non privee sur chaque carte
+  multijoueur standard. Marque la carte dans le lobby avant le lancement.
+- [ ] Aqua Incognita : joue au moins une partie non privee sur chaque carte
+  DLC. Les cartes du DLC Rapture Metro ne sont pas remplacees par une carte
+  standard portant le meme nom.
+- [ ] Territorial : gagne une partie non privee sur chacune des six nouvelles
+  cartes. Une simple presence dans la partie ne suffit pas : il faut gagner.
+
+CONSEILS DE SESSION
+
+- Commence par un mode qui permet le trial et le porteur Little Sister, puis
+  enchaine les cartes manquantes dans le meme mode pour limiter les temps de
+  chargement.
+- Note separement : partie jouee, partie terminee, victoire, kill Big Daddy,
+  sauvetage Little Sister et carte. Un seul match peut valider plusieurs
+  lignes, mais pas une carte qui n'a pas ete chargee.
+- Les rangs 10, 20, 30 et 40 sont cumulatifs. Le boost de XP ne remplace pas
+  une partie non privee pour les succes de carte.
+
+CHECKLIST FINALE - 68 SUCCES STEAM
+
+- [ ] 01 - Daddy's Home
+- [ ] 02 - Distance Hacker
+- [ ] 03 - Protector
+- [ ] 04 - Upgraded a Weapon
+- [ ] 05 - Adopted a Little Sister
+- [ ] 06 - Sinclair's Solution
+- [ ] 07 - Prolific Hacker
+- [ ] 08 - First Research
+- [ ] 09 - Bought a Slot
+- [ ] 10 - Unbreakable
+- [ ] 11 - Confronted Grace
+- [ ] 12 - Big Spender
+- [ ] 13 - Fully Upgraded a Weapon
+- [ ] 14 - Defeated the Preacher
+- [ ] 15 - Grand Daddy
+- [ ] 16 - Nose for News
+- [ ] 17 - Fully Upgraded a Plasmid
+- [ ] 18 - Found Lamb's Hideout
+- [ ] 19 - Reunion
+- [ ] 20 - Heading to the Surface
+- [ ] 21 - Escape
+- [ ] 22 - Master Gatherer
+- [ ] 23 - Dealt with Every Little Sister
+- [ ] 24 - Master Hacker
+- [ ] 25 - Look at You, Hacker
+- [ ] 26 - Max Plasmid Slots
+- [ ] 27 - Trap Master
+- [ ] 28 - Counterattack
+- [ ] 29 - One Research Track
+- [ ] 30 - Master Protector
+- [ ] 31 - Savior
+- [ ] 32 - Rapture Historian
+- [ ] 33 - Lancer Killer
+- [ ] 34 - Big Brass Balls
+- [ ] 35 - All Weapon Upgrades
+- [ ] 36 - Login
+- [ ] 37 - Root Access Granted
+- [ ] 38 - Logout
+- [ ] 39 - SUDO
+- [ ] 40 - All Plasmids
+- [ ] 41 - ADAM Addict
+- [ ] 42 - Unnatural Selection
+- [ ] 43 - Welcome to Rapture
+- [ ] 44 - Against All Odds
+- [ ] 45 - 9-Irony
+- [ ] 46 - Research Master
+- [ ] 47 - Garbage Collection
+- [ ] 48 - Proving Grounds
+- [ ] 49 - Disgusting Frankenstein
+- [ ] 50 - Litmus Test
+- [ ] 51 - "Mr. Bubbles-- No!"
+- [ ] 52 - Perfect Protector
+- [ ] 53 - Acid Test
+- [ ] 54 - Two-Bit Heroics
+- [ ] 55 - Trial By Fire
+- [ ] 56 - Get a Bigger Bucket
+- [ ] 57 - High Score
+- [ ] 58 - Parasite
+- [ ] 59 - Enemy of the Family
+- [ ] 60 - Guardian Angel
+- [ ] 61 - Mother Goose
+- [ ] 62 - Little Moth
+- [ ] 63 - Man About Town
+- [ ] 64 - Aqua Incognita
+- [ ] 65 - Skin Job
+- [ ] 66 - Choose the Impossible
+- [ ] 67 - Territorial
+- [ ] 68 - Reincarnation
+
+VERIFICATION FINALE
+
+[ ] Le compteur Steam affiche 68/68.
+[ ] La campagne affiche 12/12 Little Sisters traitees.
+[ ] Savior est obtenu avec les trois personnages epargnes.
+[ ] Le compteur Research confirme les 9 pistes terminees.
+[ ] Le journal audio Steam affiche au moins 100.
+[ ] Le registre Audio Diaries affiche A01-A07, B01-B08, C01-C19,
+    D01-D21, E01-E20, F01-F15, G01-G17, H01-H05 et I01-I17.
+[ ] P2P-01 a P2P-14 sont tous marques.
+[ ] Protector Trials : 36 etoiles, rang A et bonus trials.
+[ ] Minerva : 6 Little Sisters, 10 Vacuum Bots, High Score.
+[ ] Multijoueur : rang 40 et trois familles de cartes validees.
+
+SOURCES DE VERIFICATION
+
+- Steam, page officielle des succes de BioShock 2 AppID 8850 :
+  https://steamcommunity.com/stats/8850/achievements
+- Steam, fiche officielle BioShock 2 AppID 8850 :
+  https://store.steampowered.com/app/8850/BioShock_2/
+- PowerPyx, repartition des journaux et des stations :
+  https://www.powerpyx.com/guides/bioshock_2.html
+- GamesRadar, emplacements des journaux audio :
+  https://www.gamesradar.com/bioshock-2-audio-diary-guide/
+- GamesRadar, emplacements des 14 Power to the People :
+  https://www.gamesradar.com/bioshock-2-power-to-the-people-weapon-upgrade-guide/
+- Manuel PC de BioShock 2, regles de gameplay et machines :
+  https://cdn.akamai.steamstatic.com/steam/apps/8850/manuals/BIOSHOCK%202%20G4W%20MANUAL%20ENG.pdf
+
+Les sources ont servi a recouper les noms Steam, les compteurs, la route des
+collectibles et les emplacements. Le texte est reformule pour rester lisible,
+chronologique et sans spoiler.
