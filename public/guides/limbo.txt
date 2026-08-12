@@ -1,167 +1,679 @@
 LIMBO
-GUIDE CHRONOLOGIQUE 100 % STEAM - SANS SPOILER
+FICHE PREMIUM - GUIDE CHRONOLOGIQUE 100 % STEAM
+SANS SPOILER NARRATIF
 
-Version de travail : 11 aout 2026
+Version de travail : 12 aout 2026
+Jeu Steam : LIMBO
+AppID : 48000
+13 succes Steam
 
-Ce parcours couvre les 13 succes Steam et les 13 oeufs caches. Il reste
-volontairement descriptif : les reperes de salles et d'objets servent a
-naviguer, sans reveler d'identite, de mort, de fin ou de retournement.
+Cette fiche couvre la campagne PC/Steam, les 10 oeufs caches qui donnent
+les succes d'exploration, le niveau secret de DING! et la run speciale de
+No Point in Dying.
+
+Le guide reste sans spoiler narratif : les lieux, mecanismes, dangers et
+noms de succes servent uniquement a avancer. Aucun detail d'interpretation,
+d'identite ou de fin n'est explique.
+
+======================================================================
+01. REGLES DE 100 % ET GARDE-FOUS
+======================================================================
 
 OBJECTIF
 
-[ ] 13/13 succes Steam.
-[ ] 13 oeufs caches valides.
-[ ] DING! fait seulement apres les douze autres oeufs.
-[ ] No Point in Dying fait sur une run separee, en une seule session, avec
-    cinq morts maximum.
+- Terminer les 39 chapitres de la campagne Steam.
+- Ramasser les 10 oeufs d'exploration.
+- Terminer le niveau secret debloque par les 10 oeufs.
+- Obtenir les 13 succes Steam.
+- Faire No Point in Dying sur une run dediee avec 5 morts maximum.
 
-GARDE-FOUS ET MISSABLES
+IMPORTANT : 10 OEUFS, PAS 13
 
-- Fais une sauvegarde ou note le chapitre avant chaque puzzle a mecanisme.
-  La selection de chapitre permet de revenir sur un oeuf oublie.
-- Explore toujours le petit detour avant d'actionner l'objet qui ouvre le
-  chemin principal. Beaucoup d'oeufs sont places derriere la solution
-  evidente, pas devant elle.
-- DING! ne se valide pas simplement en finissant l'histoire : il faut avoir
-  valide les douze premiers oeufs, puis refaire le detour sombre indique a la
-  fin du parcours.
-- Pour No Point in Dying, ne cherche pas les oeufs. Lance une partie neuve,
-  garde les checkpoints en tete et recommence toute la run si le compteur de
-  morts depasse cinq.
+- Les succes Wrong Way, Altitude is Attitude, It's Stuck, Urban Exploration,
+  Alone in the Dark, Climbing the Cog, Backtracking, Guided by Sparks,
+  Under Ground et Going Up correspondent aux 10 oeufs caches.
+- Where Credit is Due est le succes de fin de campagne.
+- DING! correspond au niveau secret accessible apres les 10 oeufs.
+- No Point in Dying correspond a une run complete avec cinq morts ou moins.
 
-ORDRE CHRONOLOGIQUE DES OEufs
+MISSABLES ET REJOUABILITE
 
-1. WRONG WAY
+- La selection de chapitre permet de nettoyer un oeuf oublie.
+- Un oeuf ramasse reste valide pour la sauvegarde globale.
+- Les checkpoints sont automatiques. Quand un puzzle est rate, recharge le
+  checkpoint ou le chapitre au lieu de continuer dans une mauvaise position.
+- DING! n'apparait qu'apres les 10 oeufs. L'entree est dans le chapitre 26.
+- No Point in Dying doit etre fait en une seule session. La pause est
+  autorisee, mais ne quitte pas la partie et ne depasse pas cinq morts.
 
-- Des le debut, avance un court moment vers la droite pour reperer le chemin.
-- Reviens ensuite completement vers la gauche et va jusqu'au bout de l'ecran.
-- Le detour valide Wrong Way avant de reprendre la progression normale.
+ORDRE RECOMMANDE
 
-2. ALTITUDE IS ATTITUDE
+1. Premiere partie : suis les chapitres et ramasse les 10 oeufs.
+2. Termine la campagne pour Where Credit is Due.
+3. Reviens au chapitre 26 et termine le niveau secret pour DING!.
+4. Lance une nouvelle partie dediee a No Point in Dying.
 
-- Dans la section de foret ou une caisse sert a atteindre une corde, pousse
-  la caisse sous la corde puis grimpe dans l'arbre.
-- Depuis la branche, saute vers la gauche pour attraper la corde masquee.
-- Balance-toi jusqu'a la branche superieure et suis le petit passage vers
-  l'oeuf. Reviens par le meme chemin avant de continuer.
+REGLES DE SURVIE
 
-3. IT'S STUCK
+- Avant un saut, observe la distance et la vitesse du mecanisme.
+- Beaucoup de pieges se reinitialisent apres un checkpoint : ne compte pas
+  une ancienne tentative comme une solution.
+- Les caisses, cordes, leviers, interrupteurs et plateformes sont souvent
+  reutilises. Ne les pousse pas hors de l'ecran avant d'avoir controle le
+  detour.
+- Pour No Point in Dying, n'essaie pas de collecter les oeufs si cela
+  t'expose a des morts supplementaires. Les oeufs peuvent etre faits avant.
 
-- Apres la sequence du parasite et la longue zone d'eau, laisse le tuyau
-  flotter puis tire-le vers la droite.
-- Quand le passage semble termine, saute vers la gauche et attrape la corde
-  peu visible au bord de l'ecran.
-- Fais tomber l'oeuf, puis reprends le tuyau et la route principale.
+======================================================================
+02. COMMANDES ET LECTURE DES PUZZLES
+======================================================================
 
-4. URBAN EXPLORATION
+COMMANDES UTILES
 
-- Dans la zone urbaine avec l'ascenseur et la caisse lourde, utilise la caisse
-  pour atteindre la corde au-dessus du conduit.
-- Grimpe par le detour superieur, passe autour du tuyau et prends l'oeuf.
-- Ne declenche pas la suite de l'ascenseur avant d'avoir verifie l'angle
-  gauche de la salle.
+- Gauche/droite : deplacement.
+- Saut : franchir un trou, saisir une corde ou rebondir sur un objet.
+- Interaction : tirer, pousser, saisir, grimper ou activer.
+- Maintenir l'interaction : tirer une caisse, une corde ou un levier.
 
-5. ALONE IN THE DARK
+METHODE UNIVERSELLE
 
-- Dans la section avec l'arthropode, avance jusqu'au passage bas puis redescends
-  l'echelle au lieu de suivre immediatement la sortie.
-- Pars vers la droite dans l'obscurite. Le chemin est volontairement discret :
-  reste au sol jusqu'a l'oeuf.
-- Reviens a l'echelle et continue sans chercher de nouvel embranchement.
+1. Identifie ce qui peut etre pousse.
+2. Identifie ce qui peut etre tire.
+3. Repere la hauteur de la prochaine plateforme.
+4. Cherche la relation entre l'objet mobile et le mecanisme.
+5. Fais un seul changement a la fois puis observe son effet.
 
-6. CLIMBING THE COG
+DEPLACEMENTS A RISQUE
 
-- Dans la grande zone a engrenage, resous le puzzle jusqu'a atteindre le levier.
-- Ne tire pas encore le levier.
-- Saute vers le bord droit de l'engrenage et grimpe sur ses dents pour
-  rejoindre l'oeuf cache. Actionne ensuite le levier et poursuis.
+- Un objet flottant peut couler si tu restes trop longtemps dessus.
+- Une scie ou une roue se declenche souvent avec un delai : ne cours pas
+  apres le premier mouvement, attends le cycle suivant.
+- Sur une corde, monte ou descends avant de te balancer ; le saut doit partir
+  d'un angle stable.
+- Dans les zones de gravite inversee, les memes commandes restent valables,
+  mais les plafonds deviennent des sols et les chutes deviennent des sauts.
 
-7. BACKTRACKING
+======================================================================
+03. CAMPAGNE - FORET ET PREMIERS MECANISMES
+======================================================================
 
-- Dans la section des caisses et du broyeur, attends d'avoir franchi le
-  premier passage avec le parasite.
-- Utilise les caisses pour remonter vers le chemin de retour et grimpe
-  jusqu'au niveau superieur.
-- L'oeuf est au bout de ce retour, au-dessus de la zone de transport.
+CHAPITRE 01 - AWAKENING
 
-8. GUIDED BY SPARKS
+1. Au reveil, va d'abord vers la gauche au lieu de prendre le chemin
+   principal.
+2. Avance jusqu'au bout de l'ecran et marche sur l'oeuf lumineux.
+3. Reviens vers la droite pour reprendre la route.
+4. Saute le petit creux, puis tire la caisse vers le bord.
+5. Utilise la caisse pour atteindre la corde.
 
-- Dans la zone de courant electrique, pousse la caisse jusqu'a la paroi qui
-  produit les etincelles.
-- Utilise la caisse comme appui et contourne la paroi par le haut.
-- Recupere l'oeuf avant de remettre la caisse sur le trajet principal.
+OEUF 01/10 - WRONG WAY
 
-9. UNDER GROUND
+- Il est au tout debut, dans le detour completement a gauche.
+- Marche dessus pour obtenir Wrong Way.
+- Reviens ensuite a droite ; ne recommence pas le debut du niveau.
 
-- Apres l'ascenseur qui monte, descends vers la petite plateforme inferieure.
-- Saute vers la droite et attrape la chaine de l'ascenseur pendant son
-  passage. Descends avec elle jusqu'au niveau bas.
-- Longe le detour et valide l'oeuf, puis remonte par l'ascenseur.
+CHAPITRE 02 - LAKE PASSAGE
 
-10. GOING UP
+1. Descends la corde jusqu'a la palette.
+2. Saute vers le bord et traverse le tunnel.
+3. Monte dans la petite embarcation.
+4. A l'autre rive, tire l'embarcation jusqu'au rocher.
+5. Utilise-la comme marche pour monter.
+6. Grimpe au tronc et attrape la corde suspendue.
+7. Balance-toi vers la plateforme suivante.
 
-- Dans la zone du changement de gravite, active le commutateur puis laisse
-  le personnage monter avec l'inversion.
-- Cherche la poche haute qui n'est pas dans l'axe du trajet principal.
-- Tire la petite plateforme vers la bonne position, atteins l'oeuf et reviens
-  avant de poursuivre vers le commutateur suivant.
+CHAPITRE 03 - BEAR TRAPS
 
-11. WHERE CREDIT IS DUE
+1. Avance prudemment dans les feuilles.
+2. Observe le piege avant chaque saut.
+3. Utilise les troncs et les rebords pour eviter les pieges au sol.
+4. Quand un piege doit etre retourne, saisis-le par le cote sur.
+5. Ne cours pas sur la ligne de feuilles suivante avant que le cycle soit
+   termine.
 
-- Termine la progression principale jusqu'a l'ecran de credits.
-- Le succes est lie a la perseverance : laisse la sequence de fin se
-  terminer et verifie Steam avant de fermer le jeu.
+CHAPITRE 04 - DEATHLY ROCK
 
-12. DING!
+1. Saute sur le tronc incline.
+2. Des que le rocher descend, reviens a gauche sur la plateforme surelevee.
+3. Attends que le rocher s'arrete puis saute par-dessus.
+4. Dans la zone d'eau, tire la caisse vers la gauche sous la corde.
+5. Utilise la corde pour atteindre les branches.
 
-- Verifie d'abord que les onze oeufs precedents sont valides dans la liste
-  Steam et que tous les oeufs caches du parcours sont faits.
-- Rejoue le chapitre de la zone sombre associee a Alone in the Dark.
-- Reprends le chemin cache dans l'obscurite : une ouverture supplementaire
-  devient accessible quand le compteur d'oeufs est complet.
-- Termine le petit parcours secret jusqu'au gong. Si le succes ne tombe pas,
-  quitte le chapitre, verifie les douze validations et recharge-le.
+OEUF 02/10 - ALTITUDE IS ATTITUDE
 
-13. NO POINT IN DYING - RUN DEDIEE
+- Apres avoir pousse le tronc casse dans l'eau, ne redescends pas tout de
+  suite.
+- Depuis la branche ou le tronc a ete pousse, cours vers la gauche.
+- Attrape la corde difficile a voir derriere l'arbre.
+- Balance-toi jusqu'a la plateforme superieure.
+- Avance vers l'oeuf puis reviens au niveau de la caisse.
 
-- Lance une nouvelle partie sans selection de chapitre.
-- Termine le jeu en une seule session avec cinq morts ou moins. Les morts
-  comptees par le jeu, y compris celles dues a un echec de puzzle, entrent
-  dans le compteur.
-- Utilise les checkpoints pour apprendre un passage, mais ne force pas une
-  run de collecte en parallele. Si tu depasses cinq morts, recommence la
-  session depuis le debut.
+CHAPITRE 05 - THE SPIDER
 
-CHECKLIST DES SUCCES
+1. Attire la grande araignee vers les pieges de la zone.
+2. Utilise le rocher et les distances pour la faire avancer sans rester sous
+   ses pattes.
+3. Quand une patte est immobilisee par le piege, approche et interagis avec
+   elle.
+4. Recommence jusqu'a ce que le passage soit libre.
 
-[ ] Altitude is Attitude - oeuf 2.
-[ ] Wrong Way - detour initial vers la gauche.
-[ ] Where Credit is Due - credits de fin.
-[ ] Alone in the Dark - oeuf 5.
-[ ] Guided by Sparks - oeuf 8.
-[ ] Backtracking - oeuf 7.
-[ ] Urban Exploration - oeuf 4.
-[ ] Under Ground - oeuf 9.
-[ ] Going Up - oeuf 10.
-[ ] It's Stuck - oeuf 3.
-[ ] Climbing the Cog - oeuf 6.
-[ ] DING! - parcours secret apres les autres oeufs.
-[ ] No Point in Dying - run complete, cinq morts maximum.
+CHAPITRE 06 - SPIDER'S LAIR
 
-VERIFICATION 100 %
+1. Utilise les troncs et les plateformes pour fuir.
+2. Quand l'araignee bloque un passage, fais-la avancer vers le mecanisme
+   suivant au lieu de sauter au hasard.
+3. Les cordes permettent de gagner du temps : attrape-les des que l'angle
+   est stable.
 
-- [ ] Les 13 succes apparaissent dans Steam.
-- [ ] Les oeufs 1 a 10 sont confirmes avant la tentative de DING!.
-- [ ] La run No Point in Dying a ete faite a part et en une seule session.
-- [ ] La selection de chapitre n'a servi qu'au nettoyage, pas a la run
-    No Point in Dying.
-- [ ] Aucun detail d'histoire, d'identite ou d'issue narrative n'est revele.
+CHAPITRE 07 - INTERWOVENED ESCAPE
+
+1. Saute les fosses de pieges.
+2. Utilise les cadavres/petits obstacles comme indicateurs de la zone sure.
+3. Quand un piege est attache a une corde, declenche-le puis attends son
+   retour avant de passer.
+
+CHAPITRE 08 - PILLARS OF PAIN
+
+1. Descends entre les piliers sans toucher les pointes.
+2. Observe l'espace libre entre deux cycles.
+3. Pour le passage avec le tronc, pousse-le dans la bonne direction puis
+   utilise sa hauteur pour franchir la paroi.
+
+CHAPITRE 09 - FLAMING ROLL
+
+1. Fais rouler le tronc ou la caisse devant toi pour absorber les pieges.
+2. Ne reste pas derriere l'objet quand il atteint le bord.
+3. Saute au moment ou le passage est ouvert et continue jusqu'au checkpoint.
+
+CHAPITRE 10 - UNMERCIFUL VILLAGE
+
+1. Evite les pieges de la zone habitee en utilisant les plateformes hautes.
+2. Pour le mecanisme au sol, attends que le danger soit passe avant de tirer
+   la caisse.
+3. Si une corde est trop courte, rapproche d'abord la caisse puis recommence
+   le balancement.
+
+CHAPITRE 11 - SPIDER'S REVENGE
+
+1. Quand la grande araignee revient, cours vers le tronc.
+2. Pousse le tronc dans l'eau et utilise-le comme marche.
+3. Laisse l'araignee s'approcher du piege puis declenche l'interaction.
+4. Traverse rapidement apres l'ouverture du passage.
+
+CHAPITRE 12 - CAGED VICTIM
+
+1. Utilise les caisses et les cordes pour atteindre la cage.
+2. Ne saute pas dans la zone basse avant d'avoir repere la sortie.
+3. Fais tomber la caisse a l'endroit qui permet de monter dans la cage.
+
+CHAPITRE 13 - ZOMBIFIED BAIT
+
+1. Approche l'enfant attire par le mecanisme avec prudence.
+2. Utilise le corps/objet mobile pour bloquer le piege.
+3. Ne te precipite pas dans les pointes apres avoir passe le premier obstacle.
+
+CHAPITRE 14 - KILLER DARTS
+
+1. Les flechettes partent a intervalle regulier.
+2. Utilise la caisse comme bouclier mobile.
+3. Avance avec elle, arrete-la avant la prochaine ligne de tir puis franchis
+   le dernier espace en sautant.
+
+CHAPITRE 15 - DOUBLE GATES
+
+1. Ouvre la premiere grille avec le levier.
+2. Tire la caisse jusqu'au mecanisme de la seconde.
+3. Place-toi de façon a ne pas refermer la premiere grille avant le retour.
+4. Traverse les deux portes dans le meme cycle.
+
+======================================================================
+04. CAMPAGNE - PARASITE, EAU ET HOTEL
+======================================================================
+
+CHAPITRE 16 - THE PARASITE
+
+1. Avance jusqu'au parasite qui s'accroche a la tete.
+2. Quand le controle de direction est inverse, ne lutte pas contre le
+   mouvement : utilise les objets et les rebonds pour atteindre la sortie.
+3. Oriente le personnage vers les plateformes en observant sa trajectoire.
+
+CHAPITRE 17 - RAIN MACHINE
+
+1. Utilise le mecanisme de pluie pour modifier la hauteur de l'eau.
+2. Tire le levier, attends que le niveau monte, puis prends la plateforme
+   flottante.
+3. Pour le passage vertical, monte avant de retablir le niveau normal.
+
+CHAPITRE 18 - IN THE FLOODING CHAMBERS
+
+1. Fais monter l'eau suffisamment pour atteindre le premier rebord.
+2. Utilise la caisse comme flotteur.
+3. Quand l'eau descend, recupere la caisse et replace-la sous la corde.
+4. Le bon ordre est : monter, saisir la corde, redescendre, puis pousser la
+   caisse vers la sortie.
+
+CHAPITRE 19 - WORM'S COMMAND
+
+1. Apres avoir perdu le parasite, reviens dans la salle d'eau.
+2. Tire le tuyau flottant vers la droite jusqu'a ce qu'il depasse juste du
+   bord de la plateforme.
+3. Saute sur le tuyau puis cours vers la gauche.
+4. Attrape la corde partiellement masquee.
+5. L'oeuf tombe du tuyau : ramasse-le avant de reprendre la route.
+
+OEUF 03/10 - IT'S STUCK
+
+- Il est dans la section d'eau apres le parasite.
+- Le tuyau doit rester assez proche du bord pour servir de plateforme.
+- Le saut vers la corde invisible se fait vers la gauche depuis le tuyau.
+- Quand l'oeuf tombe, il peut atterrir sur le tuyau : ne le laisse pas
+  repartir avec le courant.
+
+CHAPITRE 20 - ROOFTOPS
+
+1. Utilise les caisses pour gagner les toits.
+2. Quand une plateforme est trop basse, deplace la caisse avant de monter.
+3. Pour les chutes, avance au bord et saute seulement apres avoir repere la
+   plateforme suivante.
+
+CHAPITRE 21 - ELECTRIC LETTERS
+
+1. Le panneau HOTEL est electrique quand ses lettres sont allumees.
+2. Attends que la lettre H s'eteigne, puis saute sur H et O.
+3. Descends entre H et O pour saisir le cable.
+4. Balance-toi jusqu'a l'interrupteur de droite et coupe le courant.
+5. Reviens par le cable, grimpe le tuyau et passe par E puis L.
+6. Quand la derniere lettre tourne, saute sur la fleche et cours vers la
+   plateforme superieure.
+
+CHAPITRE 22 - DOWN THE GLASS
+
+1. Descends sur le grand dôme de verre.
+2. Utilise la caisse et les rebonds pour eviter les lames.
+3. Si le sol se brise, avance sans revenir vers la zone precedente.
+4. Prends la corde au dernier moment pour atteindre le toit.
+
+CHAPITRE 23 - SAW FOR THE ZOMBIE
+
+1. Utilise le personnage immobile comme appui/poids selon le mecanisme.
+2. Tire la caisse sous la scie.
+3. Fais passer la scie a travers la caisse, puis utilise le passage ouvert.
+4. Pour la plateforme qui se balance, attends le retour vers le centre avant
+   de sauter.
+
+CHAPITRE 24 - UPWARD ELEVATION
+
+1. Dans la salle d'ascenseur, pousse la caisse au niveau superieur.
+2. Active l'interrupteur pour descendre la plateforme.
+3. Monte sur la caisse et saute sur le toit de l'ascenseur.
+4. Pendant la montee, attrape la corde a gauche.
+5. L'oeuf tombe depuis le conduit : redescends et va le chercher a droite.
+
+OEUF 04/10 - URBAN EXPLORATION
+
+- Il se trouve dans la salle avec l'ascenseur et la caisse lourde.
+- Fais monter la caisse au deuxieme niveau.
+- Abaisse la plateforme, remonte-la et monte sur le toit de l'ascenseur.
+- Attrape la corde a gauche pendant la montee.
+- Reviens au sol et ramasse l'oeuf apparu sur la droite.
+
+CHAPITRE 25 - IMPASSIBLE SAW
+
+1. Utilise les caisses pour franchir la scie circulaire.
+2. La caisse doit etre poussee assez loin pour creer un tremplin, mais pas
+   dans la lame avant que tu sois pret.
+3. Saute sur la caisse, puis sur la plateforme avant le retour de la scie.
+
+OEUF 05/10 - ALONE IN THE DARK
+
+- Charge le chapitre 25 depuis la selection.
+- Descends l'echelle jusqu'a la zone sombre inferieure au lieu de remonter
+  vers la sortie.
+- Avance a droite dans l'obscurite.
+- Quand tu entends les pas entrer dans l'eau, saute immediatement vers la
+  droite pour saisir la plateforme.
+- Monte puis avance jusqu'a l'oeuf.
+- Reviens a l'echelle et reprends le chemin principal.
+
+CHAPITRE 26 - THE BUG
+
+1. Descends dans la mare et approche doucement l'insecte volant.
+2. Evite les mouvements brusques : il s'envole si tu cours trop vite.
+3. Quand il s'approche, saute et agrippe-toi a ses pattes.
+4. Il te transporte sur la plateforme superieure.
+5. Utilise la caisse et le levier pour relancer l'engrenage.
+
+NOTE DING!
+
+- Le meme chapitre contient l'entree du niveau secret, mais elle reste fermee
+  tant que les 10 oeufs ne sont pas valides.
+- Dans la campagne normale, poursuis vers la droite apres l'insecte.
+
+======================================================================
+05. CAMPAGNE - COGS ET PREMIERE USINE
+======================================================================
+
+CHAPITRE 27 - FACTORY WORLD
+
+1. Pousse la caisse jusqu'au grand engrenage.
+2. Monte sur la plateforme du levier.
+3. Avant d'actionner le levier, inspecte le cote droit du grand engrenage.
+
+OEUF 06/10 - CLIMBING THE COG
+
+- Ne tire pas le levier de la plateforme.
+- Saute directement vers les dents du grand engrenage.
+- Fais le tour de l'engrenage par le cote droit.
+- L'oeuf se trouve de l'autre cote.
+- Ramasse-le, puis reviens tirer le levier.
+
+CHAPITRE 28 - SHIFTED INDUSTRY
+
+1. Utilise l'engrenage pour atteindre la plateforme suivante.
+2. Les caisses doivent etre placees sous les rebords, pas au milieu de la
+   machine.
+3. Quand un interrupteur change la direction, attends l'arret complet avant
+   de sauter.
+
+CHAPITRE 29 - BOULDER BY GRAVITY
+
+1. Active la gravite avec le commutateur.
+2. Utilise la caisse pour te proteger du rocher.
+3. Laisse le rocher casser l'obstacle puis saute sur la plateforme libre.
+4. Reviens chercher la caisse si elle est necessaire au prochain rebord.
+
+CHAPITRE 30 - DANGEROUS CONVEYORS
+
+1. Avance sur les convoyeurs en restant sur le cote sur.
+2. Apres le parasite, utilise la caisse pour atteindre la levre du broyeur.
+3. Attends que le broyeur remonte.
+4. Saute sur son cote, monte avec lui puis saute vers l'echelle.
+5. En haut, suis le passage vers la droite.
+
+OEUF 07/10 - BACKTRACKING
+
+- Apres le parasite, arrive devant les convoyeurs et le broyeur.
+- Depuis le troisieme convoyeur, attends que le broyeur descende.
+- Utilise une caisse pour saisir le rebord droit du broyeur.
+- Monte, saute a gauche et attends qu'il redescende.
+- Accroche le cote gauche, remonte puis saute vers l'echelle suspendue.
+- Grimpe jusqu'au passage superieur et suis-le vers la droite.
+- Ecrase l'oeuf sur le trajet.
+
+CHAPITRE 31 - TO THE PERILOUS RAIL
+
+1. Utilise les rails et les caisses pour franchir la zone de convoyage.
+2. Si une caisse part trop loin, attends le cycle suivant plutot que de
+   sauter a sa suite.
+3. Garde toujours une caisse proche du bord pour les plateformes hautes.
+
+CHAPITRE 32 - DARK ROTATION
+
+1. Fais tourner la salle avec le mecanisme de rotation.
+2. Place la caisse sous le mur electrique a droite.
+3. Pousse-la contre la paroi.
+4. Monte sur la caisse puis saute vers la gauche sur la plateforme invisible.
+5. Depuis cette plateforme, saute au-dessus du mur electrique.
+
+OEUF 08/10 - GUIDED BY SPARKS
+
+- Il est juste apres le puzzle de rotation, devant la paroi electrifiee.
+- La caisse doit etre contre cette paroi.
+- Utilise-la comme marche pour atteindre la plateforme cachee a gauche.
+- Monte au-dessus du mur et avance vers l'oeuf.
+- Reviens sans laisser la caisse bloquer le trajet principal.
+
+CHAPITRE 33 - MACHINE GUNS
+
+1. Les tourelles tirent dans une ligne fixe.
+2. Utilise les caisses comme couverture mobile.
+3. Avance lorsque la trajectoire de tir vient de passer.
+4. Pour la salle verticale, monte par les rebords et laisse la tourelle
+   detruire les obstacles qui bloquent le passage.
+
+======================================================================
+06. CAMPAGNE - GRAVITE ET FIN DE L'USINE
+======================================================================
+
+CHAPITRE 34 - GRAVITATIONAL CHANGES
+
+1. Active le commutateur de gravite.
+2. Laisse la caisse rejoindre le plafond.
+3. Utilise-la comme plateforme pour atteindre le rebord inverse.
+4. Reviens au commutateur seulement apres avoir franchi la zone de lames.
+
+OEUF 09/10 - UNDER GROUND
+
+- Lorsque tu arrives a l'ascenseur, active-le puis grimpe sur le rebord.
+- Descends le long de la chaine au lieu de monter directement.
+- Continue jusqu'au bas du puits.
+- L'oeuf se trouve dans le detour inferieur.
+- Remonte par la chaine puis reprends l'ascenseur.
+
+CHAPITRE 35 - MAGNETIZED BLOCKS
+
+1. Utilise les blocs magnetises comme contrepoids.
+2. Fais monter un bloc sous le rebord, puis active la gravite.
+3. Quand les blocs sont au plafond, utilise-les pour changer de cote.
+4. Ne remets pas la gravite normale avant d'avoir franchi la scie.
+
+CHAPITRE 36 - LEVITATED SWING
+
+1. Place la caisse au point de balancement.
+2. Active l'interrupteur pour inverser la gravite.
+3. Balance-toi avec la plateforme suspendue.
+4. Reviens sur le sol normal au moment ou la sortie est alignee.
+
+CHAPITRE 37 - SIDE OF THE WORLD
+
+1. Utilise les panneaux de gravite pour parcourir le plafond puis le mur.
+2. Les chutes vers le haut demandent le meme timing qu'un saut normal :
+   pars au bord et attends la bonne vitesse.
+3. Pour le passage de lames, active la gravite juste avant le mouvement de
+   la plateforme.
+
+CHAPITRE 38 - TIMED GRAVITY CHANGES
+
+1. Active le panneau pour inverser la gravite.
+2. Une caisse apparait sur le plafond : utilise-la pour revenir vers
+   l'entree de la salle.
+3. Sors puis laisse la gravite t'emmener vers la zone haute.
+4. Sur le mur gauche, tire la poignee cachee avant que le cycle ne change.
+5. L'oeuf apparait dans la niche.
+
+OEUF 10/10 - GOING UP
+
+- Dans la salle de gravite, inverse le panneau et amene la caisse au plafond.
+- Reviens vers l'entree avec la caisse comme marche.
+- Sors de la salle et monte par la chute vers la zone haute.
+- Cours vers le mur gauche.
+- Tire la poignee cachee pour faire apparaitre l'oeuf.
+- Ramasse-le avant de redescendre.
+
+CHAPITRE 39 - THE FINAL GLASS
+
+1. Poursuis vers la droite apres le dernier puzzle de gravite.
+2. Utilise les plateformes et les panneaux restants sans chercher de detour :
+   il n'y a pas d'oeuf supplementaire dans cette section.
+3. Franchis le dernier passage de verre et laisse la sequence finale aller
+   jusqu'aux credits.
+
+SUCCES WHERE CREDIT IS DUE
+
+- Termine la campagne et laisse les credits se lancer.
+- Le succes se valide sur la fin de la progression, pas avec les oeufs.
+- Si Steam tarde, reviens au menu principal apres les credits.
+
+======================================================================
+07. NIVEAU SECRET - DING!
+======================================================================
+
+CONDITION D'ACCES
+
+- Les 10 oeufs doivent avoir ete ramasses.
+- Les 10 succes d'oeuf doivent apparaitre dans Steam.
+- Charge le chapitre 26, celui dont l'icone montre l'insecte volant.
+
+ENTREE DU NIVEAU SECRET
+
+1. Depuis le debut du chapitre 26, descends la longue echelle a gauche.
+2. En bas, pars vers la droite dans la grotte sombre.
+3. Continue au-dela du passage qui semble se terminer.
+4. Saute pour franchir la petite levre invisible.
+5. Rejoins la zone des dix bougies.
+6. La porte qui etait fermee est maintenant ouverte.
+7. Entre pour lancer le niveau secret.
+
+REGLES DE LA ZONE SOMBRE
+
+- Monte le volume : les sons signalent les murs, les caisses et les pieges.
+- Observe les yeux du personnage : ils restent souvent le meilleur indicateur.
+- Les zones eclairees montrent le cycle d'un piege ; apres la demonstration,
+  le meme cycle continue dans le noir.
+- Avance par petits pas et saute uniquement apres avoir entendu le mecanisme.
+- Quand un mur invisible est atteint, recule d'un pas avant de sauter :
+  beaucoup de passages demandent un saut depuis le bord exact.
+
+ETAGE 01
+
+1. Avance vers la petite fosse eclairee.
+2. Descends puis saute au-dessus du mecanisme au sol.
+3. Utilise la plateforme invisible du cote oppose.
+4. La caisse et la tourelle s'entendent avant de se voir : attends le tir,
+   puis traverse.
+
+ETAGE 02
+
+1. Grimpe la structure en utilisant les rebords.
+2. Les coups de mecanisme indiquent le moment ou la plateforme est stable.
+3. Saute sur la caisse, puis utilise-la pour atteindre la marche superieure.
+4. Dans le noir, ne cours pas : le second piege se declenche rapidement.
+
+ETAGE 03
+
+1. Les zones eclairees repetent le schema trois fois.
+2. Memorise la hauteur du premier obstacle.
+3. Reproduis le meme rythme dans les deux zones noires suivantes.
+4. Pour la corde, attrape-la depuis le bord et descends avant de te balancer.
+
+ETAGE 04
+
+1. Pousse la caisse jusqu'au mur.
+2. Monte dessus et saute vers la plateforme que tu entends au-dessus.
+3. Attends que la lame passe avant de traverser le couloir.
+4. Utilise le son du choc pour savoir quand le chemin est libre.
+
+SORTIE ET DING!
+
+- Continue jusqu'a la derniere salle du parcours sombre.
+- Le passage se termine par une interaction sonore reconnaissable.
+- Va jusqu'au bout sans revenir a la porte d'entree.
+- Le succes DING! se valide a la fin du niveau secret.
+
+======================================================================
+08. RUN NO POINT IN DYING
+======================================================================
+
+OBJECTIF
+
+- Terminer LIMBO en une seule session avec cinq morts ou moins.
+- Les morts de piege, de chute, de noyade, d'electrocution et de mecanisme
+  comptent.
+- La pause est autorisee. La selection de chapitre et le retour au menu
+  interrompent la run.
+
+PREPARATION
+
+- Fais d'abord la campagne et DING! pour connaitre les timings.
+- Lance une nouvelle partie depuis le menu principal.
+- N'essaie pas de collecter les oeufs pendant cette run si tu n'es pas
+  parfaitement a l'aise avec les detours.
+- Compte les morts dans tes notes. A cinq, la run est encore valide ; a six,
+  recommence.
+
+ROUTE DE SURVIE
+
+1. Foret : teste les pieges avec les objets et ne saute jamais dans des
+   feuilles non verifiees.
+2. Araignee : attends chaque patte et ne force pas une interaction.
+3. Eau : garde l'objet flottant contre la plateforme avant de sauter.
+4. Parasite : observe la direction imposee avant d'accelerer.
+5. Usine : laisse les broyeurs finir leur cycle avant de monter.
+6. Gravite : change de sol uniquement quand la caisse est alignee.
+7. Fin : garde un rythme lent sur les derniers sauts ; le checkpoint est
+   proche mais une mort tardive annule toute la session.
+
+RECUPERATION APRES UNE MORT
+
+- Si tu es a 0-5 morts, continue calmement.
+- Ne redemarre pas la session par reflexe apres une seule erreur.
+- Si le jeu compte une mort que tu n'avais pas note, considere le total
+  affiche par ta session comme la reference.
+- Si tu atteins 6 morts, recommence depuis le menu principal.
+
+======================================================================
+09. CHECKLIST DE COLLECTE
+======================================================================
+
+LES 10 OEUFS
+
+- [ ] Oeuf 01 : debut du jeu, detour complet a gauche.
+- [ ] Oeuf 02 : corde cachee apres le tronc et la caisse dans la foret.
+- [ ] Oeuf 03 : tuyau flottant et corde cachee apres le parasite.
+- [ ] Oeuf 04 : ascenseur, corde a gauche et oeuf a droite.
+- [ ] Oeuf 05 : zone sombre sous l'echelle du chapitre 25.
+- [ ] Oeuf 06 : grand engrenage, sans tirer le levier.
+- [ ] Oeuf 07 : broyeur et echelle superieure apres le parasite.
+- [ ] Oeuf 08 : caisse contre la paroi electrifiee apres la rotation.
+- [ ] Oeuf 09 : chaine sous l'ascenseur, detour tout en bas.
+- [ ] Oeuf 10 : gravite inversee, poignee cachee sur le mur gauche.
+
+CONTROLES AVANT DING!
+
+- [ ] Les 10 succes d'oeuf sont visibles dans Steam.
+- [ ] L'oeuf 10 a ete confirme avant de charger le chapitre 26.
+- [ ] Les dix bougies sont allumees dans la zone sombre.
+- [ ] La porte du niveau secret est ouverte.
+- [ ] Le niveau secret a ete termine.
+
+======================================================================
+CHECKLIST STEAM FINALE - 13/13
+======================================================================
+
+- [ ] 01. Wrong Way - marcher sur l'oeuf du detour initial a gauche.
+- [ ] 02. Altitude is Attitude - ramasser l'oeuf de la corde cachee.
+- [ ] 03. Where Credit is Due - terminer la campagne et les credits.
+- [ ] 04. Alone in the Dark - ramasser l'oeuf dans la zone sombre.
+- [ ] 05. Guided by Sparks - ramasser l'oeuf apres la rotation.
+- [ ] 06. Backtracking - ramasser l'oeuf du broyeur.
+- [ ] 07. Urban Exploration - ramasser l'oeuf de l'ascenseur.
+- [ ] 08. Under Ground - ramasser l'oeuf sous l'ascenseur.
+- [ ] 09. Going Up - ramasser l'oeuf de la gravite.
+- [ ] 10. It's Stuck - ramasser l'oeuf du tuyau flottant.
+- [ ] 11. Climbing the Cog - ramasser l'oeuf du grand engrenage.
+- [ ] 12. DING! - terminer le niveau secret dans l'obscurite.
+- [ ] 13. No Point in Dying - finir en une session avec cinq morts maximum.
+
+VERIFICATION FINALE
+
+- [ ] 10/10 oeufs confirmes.
+- [ ] 39 chapitres de campagne traverses.
+- [ ] Where Credit is Due obtenu.
+- [ ] DING! obtenu apres l'ouverture du niveau secret.
+- [ ] No Point in Dying obtenu sur une session dediee.
+- [ ] Steam affiche 13 succes sur 13.
+- [ ] Le guide reste sans spoiler narratif.
 
 SOURCES DE CONTROLE
 
-- Steam, liste officielle des 13 succes :
-  https://steamcommunity.com/stats/48000/achievements
-- Guide Steam de reperage des oeufs :
-  https://steamcommunity.com/sharedfiles/filedetails/?id=2948922082
+- Liste officielle Steam des 13 succes :
+  https://steamcommunity.com/stats/48000/achievements/
+- Guide de reperage des 10 oeufs :
+  https://www.gamerguides.com/limbo/guide/collectible-locations/hidden-eggs/achievementtrophy-related-eggs
+- Walkthrough de campagne et chapitre secret :
+  https://www.gamerguides.com/limbo/guide/walkthrough/campaign-walkthrough/introduction
+  https://www.gamerguides.com/limbo/guide/walkthrough/campaign-walkthrough/secret-level-ps3pc-exclusive
+- Guide Steam de la zone DING! :
+  https://steamcommunity.com/sharedfiles/filedetails/?id=113463434
 
-FIN DU GUIDE - SANS SPOILER
+FIN DE LA FICHE - LIMBO 100 % STEAM
