@@ -938,11 +938,6 @@ button {
   font-weight: 900;
 }
 
-.reader-tools-hint {
-  color: var(--muted);
-  font-size: 0.59rem;
-}
-
 .result-count {
   color: var(--muted);
   font-size: 0.62rem;

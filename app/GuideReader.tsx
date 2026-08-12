@@ -371,7 +371,6 @@ export default function GuideReader({
       <div className="reader-tools">
         <div className="reader-tools-copy">
           <label htmlFor="guide-search">Rechercher dans la soluce</label>
-          <span className="reader-tools-hint">Touche / pour chercher un repère</span>
         </div>
         <div className="search-wrap">
           <span aria-hidden="true">⌕</span>

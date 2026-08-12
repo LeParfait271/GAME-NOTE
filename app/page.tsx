@@ -3342,7 +3342,7 @@ export default function Home() {
             ) : null}
           </div>
           <span className="catalog-count" aria-live="polite">
-            {visibleGuides.length} route{visibleGuides.length > 1 ? "s" : ""} sur {guides.length}
+            {visibleGuides.length} soluce{visibleGuides.length > 1 ? "s" : ""} sur {guides.length}
           </span>
         </div>
 
@@ -3446,29 +3446,6 @@ export default function Home() {
           onBack={goToLibrary}
         />
       </section> : null}
-
-      <nav className="mobile-bottom-nav" aria-label="Navigation mobile">
-        <a href={readerMode ? "/" : "#guides"}>
-          <span aria-hidden="true">⌂</span>
-          <small>Bibliothèque</small>
-        </a>
-        <a href={readerMode ? "/#guides" : `/?guide=${selected.id}`} onClick={(event) => { if (!readerMode) { event.preventDefault(); handleOpenReader(selected.id); } }}>
-          <span aria-hidden="true">▤</span>
-          <small>Lire</small>
-        </a>
-        <button
-          type="button"
-          aria-label={
-            theme === "dark"
-              ? "Activer le thème clair"
-              : "Activer le thème sombre"
-          }
-          onClick={toggleTheme}
-        >
-          <span aria-hidden="true">{theme === "dark" ? "☼" : "☾"}</span>
-          <small>{theme === "dark" ? "Jour" : "Nuit"}</small>
-        </button>
-      </nav>
 
       <footer className="site-footer">
         <span>Game Note · guides personnels</span>

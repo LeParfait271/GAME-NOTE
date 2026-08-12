@@ -314,7 +314,6 @@ for (const fragment of [
   "aria-keyshortcuts",
   "application/ld+json",
   "guide-card-open",
-  "mobile-bottom-nav",
   "normalizeCatalogText",
 ]) {
   if (!page.includes(fragment)) fail("app/page.tsx: garde-fou UI absent (" + fragment + ").");
@@ -427,7 +426,6 @@ if (await exists("dist/client/index.html")) {
     "application/ld+json",
     'rel="manifest"',
     'rel="canonical"',
-    'class="mobile-bottom-nav"',
     'class="guide-card-open"',
   ]) {
     if (!indexHtml.includes(fragment)) {
