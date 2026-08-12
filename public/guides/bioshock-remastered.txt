@@ -1,112 +1,937 @@
 BIOSHOCK REMASTERED
-GUIDE CHRONOLOGIQUE 100 % STEAM - SANS SPOILER
+GUIDE CHRONOLOGIQUE COMPLET - 100 % STEAM - SANS SPOILER
 
-Version de travail : 10 aout 2026
+Version editoriale : 12 aout 2026
+Plateforme : Steam - AppID 409710
+Succes : 65/65
+Contenu inclus : campagne, recherches, journaux audio, Little Sisters,
+inventions, tonics, 12 stations Power to the People et 3 Challenge Rooms.
 
-Ce parcours couvre les 65 succes Steam de l'AppID 409710 : campagne,
-recherche, journaux, petites soeurs, inventions, upgrades et Challenge Rooms.
-Les choix de route sont signales sans reveler de mort, d'identite, de fin ou
-de retournement.
+PROMESSE DE LA FICHE
 
-OBJECTIF
+Cette fiche est une route de jeu, pas une simple liste d'objectifs. Chaque
+quartier indique le chemin, les salles laterales a fouiller, les journaux audio
+par numero et emplacement, les stations d'upgrade, les Little Sisters, les
+recherches et les actions de succes. Les noms Steam sont conserves dans la
+checklist finale parce qu'ils sont necessaires pour verifier 65/65.
 
-[ ] 65/65 succes Steam.
-[ ] Campagne dans l'ordre avec toutes les recherches et journaux.
-[ ] Petites soeurs toutes secourues sur la run principale.
-[ ] Route dediee difficile/sans Vita-Chamber et route de repli pour les deux
-    choix de fin.
-[ ] The 'I' in Team, A Shocking Turn of Events et Worlds of Hurt.
+Le texte reste sans spoiler narratif : il ne raconte ni identite, ni mort, ni
+retournement ni fin. Les boss et les zones sont uniquement des reperes de route.
 
-GARDE-FOUS ET MISSABLES
+OBJECTIF 100 %
 
-- Sauvegarde avant chaque niveau, avant Fort Frolic et avant les choix de fin.
-  Les petites soeurs, les journaux, la chambre de Cohen et certains objectifs
-  d'action ne doivent pas etre laisses au hasard.
-- Fais une run normale de collecte en secourant toutes les petites soeurs.
-  Garde une save avant une recolte eventuelle pour les essais necessaires,
-  sans melanger les compteurs.
-- Recherche chaque famille d'ennemi avant sa disparition de zone. Prends des
-  photos avec la camera des que possible et complete les pistes, pas seulement
-  la photo unique demandee.
-- Pour Seriously Good at This, Brass Balls et les objectifs de difficulte,
-  utilise une run dediee avec les sauvegardes automatiques desactivees selon
-  ta configuration. La route normale reste la run de collecte.
+- Terminer la campagne avec les 122 journaux audio.
+- Traiter les 21 Little Sisters sans en oublier une.
+- Atteindre la recherche maximale de toutes les familles utiles, y compris les
+  machines de securite qui n'ont pas leur propre succes.
+- Trouver les 12 stations Power to the People et toutes les ameliorations d'armes.
+- Acheter tous les slots des quatre pistes et reunir 53 tonics.
+- Inventer les six types de munitions et au moins 100 objets.
+- Terminer les trois Challenge Rooms avec leurs roses et contraintes.
+- Valider les deux routes de difficulte sans Vita-Chamber sur des sauvegardes
+  dediees, sans contaminer la run de collecte.
 
-ORDRE CHRONOLOGIQUE
+ORDRE OPTIMAL DES RUNS
 
-1. WELCOME TO RAPTURE / MEDICAL PAVILION
+1. Run principale de collecte : Survivor si tu es a l'aise, sinon difficulte
+   normale avec tous les journaux, recherches et Little Sisters secourues.
+2. A la fin de la run principale, conserver une sauvegarde avant le dernier
+   combat pour les succes de fin et le choix de secours.
+3. Run dediee Survivor sans Vita-Chamber pour I Chose the Impossible et A Man
+   Chooses, ou une seule run Survivor propre si tu veux cumuler.
+4. Run dediee Hard sans Vita-Chamber pour Brass Balls si elle n'est pas deja
+   validee sur la run Survivor.
+5. Challenge Rooms : exploration et roses, puis expert/pacifiste/temps.
 
-- Valide les premiers succes de niveau, le premier hack, le premier plasmide,
-  la machine de soin et les premieres machines piratees.
-- Prends les journaux audio, photographie les ennemis et fouille chaque salle
-  laterale avant d'utiliser le bathysphere suivant.
-- Ne depense pas toutes les ressources : il faut inventer des munitions et
-  atteindre 100 inventions sur la campagne. Conserve les composants rares.
+MISSABLES ET GARDE-FOUS ABSOLUS
 
-2. NEPTUNE'S BOUNTY / SMUGGLER'S HIDEOUT
+- Desactiver les Vita-Chambers dans Options > Gameplay avant la run dediee.
+- Ne jamais remplacer une sauvegarde importante : creer un nouveau slot a chaque
+  entree de niveau. La version remastered peut mal reagir aux longues sessions
+  et aux sauvegardes ecrasees.
+- Dans Fort Frolic, laisser Cohen en vie jusqu'a Olympus Heights. C'est la
+  condition de Found Cohen's Room, Irony et la station cachee.
+- Ne recolter aucune Little Sister sur la run Little Sister Savior. Le choix
+  est definitif pour cette run.
+- Photographier chaque ennemi avant de le detruire, surtout Nitro Splicer,
+  Bouncer, Rosie, cameras, tourelles et bots.
+- Les machines de securite sont finies dans une zone : rechercher d'abord,
+  detruire ou pirater ensuite.
+- Ne pas quitter un niveau avant d'avoir verifie le compteur des journaux et le
+  nombre de Little Sisters indique dans la section correspondante.
+- Pour les Challenge Rooms, faire une run lente de cartographie avant toute
+  tentative chronometree.
 
-- Termine la recherche des premiers ennemis et pirate au moins un bot, une
-  tourelle, une camera, une machine de vente et un coffre.
-- Les petites soeurs peuvent etre secourues apres la recolte du protecteur.
-  Note chaque petite soeur et chaque journal sur la carte avant la sortie.
-- Ameliore les armes des que les stations Power to the People apparaissent,
-  mais planifie les 12 ameliorations avant le dernier niveau.
+SAUVEGARDES DE REFERENCE
 
-3. ARCADIA / FARMER'S MARKET
+1. Entree de Medical Pavilion, avant le premier hack.
+2. Entree de Neptune's Bounty, avant la camera de recherche.
+3. Entree de Arcadia, avant la quete de la rose.
+4. Entree de Fort Frolic, avant les machines a sous.
+5. Avant de rendre le dernier portrait de Cohen.
+6. Entree de Hephaestus, avant la collecte des composants de bombe.
+7. Entree de Olympus Heights, avant les suites Mercury.
+8. Avant la porte de Point Prometheus.
+9. Avant le dernier ascenseur de Proving Grounds.
+10. Avant chaque tentative de Challenge Room.
 
-- Fouille les jardins, serres, caves et salles de vente. Les pistes de
-  recherche et les journaux se completent mieux avant l'ascenseur suivant.
-- Fabrique des objets regulierement et pirate les machines de chaque zone.
-  L'objectif Avid Inventor demande du volume, pas une recette particuliere.
-- Si une petite soeur n'est plus presente sur la carte, recharge la save du
-  niveau avant le depart et verifie le compteur.
+SYSTEMES A MAITRISER
 
-4. FORT FROLIC
+- Electro Bolt + cle : immobilise une cible ou un dispositif dans l'eau.
+- Incinerate : degivre les portes, tuyaux et caches de glace.
+- Telekinesis : deplace les objets, attrape les projectiles et resout les
+  conduites ou les caches en hauteur.
+- Winter Blast : immobilise temporairement une cible, mais peut empecher un
+  cadavre de rester recuperable ; l'utiliser avec precaution sur les Big Daddies.
+- Camera : chaque photo reussie ajoute de la recherche ; viser une action ou une
+  pose variee donne davantage de points.
+- Piratage : toujours chercher un chemin bleu vers la sortie avant de valider.
+  Les cases d'alarme ou de surcharge ne sont pas obligatoires si le chemin est
+  deja bon.
+- Gene Bank : changer de plasmides et de tonics en securite.
+- Gatherer's Garden : acheter ADAM, slots et tonics ; conserver une reserve
+  jusqu'aux slots des quatre pistes.
 
-- Fais une sauvegarde avant d'entrer dans le quartier. Complete les objectifs
-  de galerie, les portraits, les journaux et la chambre optionnelle sans
-  interrompre la sequence de collecte.
-- Ne tue pas le resident optionnel avant d'avoir valide Found Cohen's Room et
-  les elements de la salle. Les rechargements sont preferables a une erreur.
-- Termine les quatre upgrades disponibles dans l'ensemble de la campagne en
-  les repartissant avant le point de non-retour.
+RECHERCHE - ROUTE COMPLETE
 
-5. HEPHAESTUS / OLYMPUS HEIGHTS / APOLLO SQUARE
+Familles a maximiser pour Research PhD :
 
-- Continue les recherches et les petites soeurs. Achete les slots de plasmide
-  et fortifiant au fur et a mesure, puis remplis une piste complete et toutes
-  les pistes pour Maxed One Track/Maxed All Tracks.
-- Pirate chaque categorie de machine et invente les types de munitions. Les
-  cameras et tourelles des secteurs techniques sont de bons sujets de photo.
-- Sauvegarde avant les zones de transition et verifie les journaux avant de
-  quitter la zone basse.
+- Leadhead Splicer : des Medical Pavilion a Neptune's Bounty.
+- Thuggish Splicer : Medical Pavilion, Arcadia et Farmer's Market.
+- Spider Splicer : Neptune's Bounty et Fort Frolic.
+- Houdini Splicer : Arcadia, Fort Frolic et Olympus Heights.
+- Nitro Splicer : Fort Frolic puis Point Prometheus ; ne pas attendre la fin.
+- Bouncer : les premiers Big Daddies et les arenas de recherche.
+- Rosie : Neptune's Bounty, Farmer's Market et Point Prometheus.
+- Little Sister : photographier la fille apres le combat du Big Daddy, avant
+  de la sauver.
+- Security Bot : garder un bot pirate ou attirer des bots par une camera.
+- Security Turret : les salles de securite et Challenge Rooms.
+- Security Camera : les couloirs de Medical Pavilion, Arcadia et Fort Frolic.
 
-6. POINT PROMETHEUS / PROVING GROUNDS / FIN DE CAMPAGNE
+Methode efficace : equiper Photographer's Eye des que possible, prendre les
+photos de face puis pendant une attaque, et alterner les cibles. Pour les bots,
+pirater une camera, laisser arriver les renforts, puis photographier les bots
+avant de les detruire. Les ennemis communs reapparaissent ; les machines et
+certaines familles rares ne doivent pas etre detruites avant la recherche.
 
-- Termine les recherches restantes, les journaux et les petites soeurs avant
-  de lancer le dernier objectif. Le compteur Dealt with every Little Sister
-  doit etre controle.
-- Fais une save avant la derniere sequence pour choisir la route de fin sans
-  perdre ta run de collecte. Valide les succes de fin puis recharge si besoin.
-- Rejoue la campagne en difficulte requise avec une sauvegarde dediee pour les
-  objectifs sans Vita-Chamber et sans aide. Ne sacrifie pas la run principale.
+LITTLE SISTERS - COMPTEUR DE ROUTE
 
-7. CHALLENGE ROOMS
+- Medical Pavilion : 2.
+- Neptune's Bounty : 3, soit 5 cumulees.
+- Arcadia : 2, soit 7 cumulees.
+- Farmer's Market : 1, soit 8 cumulees.
+- Fort Frolic : 1, soit 9 cumulees.
+- Hephaestus : 5, soit 14 cumulees.
+- Olympus Heights et Apollo Square : 4, soit 18 cumulees.
+- Point Prometheus : 3, soit 21 cumulees.
 
-- The 'I' in Team : rescousse, roses, temps limite et route sans detruire les
-  tourelles. Fais d'abord un parcours d'exploration, puis l'essai Expert et
-  enfin le Pacifist.
-- A Shocking Turn of Events : charge la roue neuf fois, ramasse les roses et
-  realise l'essai Expert. Note les emplacements avant de viser le temps.
-- Worlds of Hurt : fais une route d'apprentissage, puis la rescousse Expert,
-  Collector et Tough Guy. Garde une sauvegarde au debut de l'epreuve.
+Pour chaque rencontre : trouver le Big Daddy, le photographier, le vaincre,
+photographier la Little Sister, puis la secourir. Le compteur de la zone se
+verifie aupres des conduits de Little Sisters et dans le menu de progression.
+Une fille peut etre secourue plus tard dans le meme niveau, mais jamais apres
+une transition si le niveau n'est plus accessible.
 
-CHECKLIST 65/65
+POWER TO THE PEOPLE - 12 STATIONS
 
-[ ] Niveaux, recherches, journaux, hacks, inventions, machines et plasmides.
-[ ] Toutes les petites soeurs secourues et tous les upgrades d'armes.
-[ ] Cohen, jackpot, fin et difficultes verifiees.
-[ ] The 'I' in Team, A Shocking Turn of Events et Worlds of Hurt complets.
-[ ] 65/65 succes Steam.
+1. Neptune's Bounty : sous-sol du freezer de Peach Wilkins.
+2. Arcadia : Tree Farm, apres l'escalier vers Farmer's Market.
+3. Farmer's Market : sous-sol de Worley's Winery, petite salle inondee.
+4. Fort Frolic : sous-sol de Sinclair Spirits.
+5. Fort Frolic : sous-sol de Le Marquis D'Epoque, Southern Mall.
+6. Hephaestus : Heat Loss Monitoring, en face du Gatherer's Garden.
+7. Hephaestus : bureau de Kyburz, derriere la porte codee.
+8. Olympus Heights : hall de Mercury Suites, derriere la colonne de l'ascenseur.
+9. Olympus Heights : chambre secrete de Cohen, si Cohen est reste en vie.
+10. Apollo Square : cinquieme etage d'Atlas Headquarters.
+11. Point Prometheus : Main Hall, apres le corps de Rosie.
+12. Point Prometheus : fond d'Eugenic Analysis, Optimized Eugenics.
+
+Repartition conseillee des upgrades : prioriser le fusil a pompe, puis la
+mitrailleuse, le lance-grenades, l'arbalete, le lance-flammes et enfin le
+pistolet si necessaire. Pour Weapon Specialist, aucune station ne doit etre
+ratee ; garder une sauvegarde avant les deux stations liees a Cohen.
+
+INVENTIONS ET MUNITIONS
+
+Les six types d'armes a inventer sont :
+
+- Armor-Piercing Auto Rounds.
+- Exploding Buck.
+- Antipersonnel Pistol Rounds.
+- Heat-Seeking RPG.
+- Trap Bolt.
+- Electric Gel.
+
+Les trois premiers sont disponibles a Farmer's Market/Arcadia. Les trois
+derniers apparaissent a Fort Frolic. A chaque U-Invent, fabriquer les recettes
+disponibles quand les composants sont excedentaires. Pour Avid Inventor, ne pas
+attendre le dernier niveau : les objets craftes s'additionnent jusqu'a 100.
+
+TONICS ET SLOTS
+
+- Quatre pistes sont a remplir : Plasmid, Physical, Engineering et Combat.
+- Acheter les quatre slots plasmides en priorite si tu vises Maxed One Track.
+- Acheter les slots Physical, Engineering et Combat avant Hephaestus pour
+  Maxed All Tracks.
+- Les tonics de recherche et les recompenses de Tenenbaum comptent pour Tonic
+  Collector ; acheter ou fabriquer les 53 tonics plutot que conserver tout l'ADAM.
+- Les trois tonics U-Invent se fabriquent avec glue, enzymes et hypos vides ;
+  les recettes restent disponibles dans les machines deja visitees.
+
+======================================================================
+CHAPITRE 1 - WELCOME TO RAPTURE
+======================================================================
+
+ARRIVEE ET PREMIER PARCOURS
+
+1. Suivre le couloir de la bathysphere et prendre le plasmide Electro Bolt.
+2. Dans la zone de l'eau, attendre l'ennemi pres du bassin et lancer Electro
+   Bolt dans l'eau : Toaster in the Tub est valide sur cette premiere occasion.
+3. Recuperer le pistolet dans la zone suivante, puis fouiller les corps et les
+   caisses avant de monter.
+4. Entrer dans Kashmir Restaurant et descendre dans la partie inondee.
+5. Journal audio 1 : table de la zone inondee pres de la statue.
+6. Remonter et entrer dans les toilettes Dames.
+7. Journal audio 2 : tas de gravats au fond des toilettes.
+8. Prendre la bathysphere vers Medical Pavilion. Completed Welcome to Rapture
+   tombe a la transition.
+
+CONTROLE DU NIVEAU
+
+- Journaux : 2/122.
+- Little Sisters : 0/21.
+- Succes : Toaster in the Tub, Completed Welcome to Rapture.
+- Ne pas depenser les premiers dollars dans les machines avant Medical Pavilion.
+
+======================================================================
+CHAPITRE 2 - MEDICAL PAVILION
+======================================================================
+
+FOYER ET PREMIERS HACKS
+
+1. Entrer dans le Foyer et prendre le Journal 3 sur le bureau d'accueil sous
+   l'escalier, pres des fleurs violettes.
+2. A droite du Circus of Values, pirater le Security Bot qui bloque Emergency
+   Access : One Successful Hack et Hacked a Security Bot.
+3. Pirater le Circus of Values du Foyer : Hacked a Vending Machine.
+4. Dans Emergency Access, prendre le Journal 4 sur le bureau eclaire.
+5. Apres la porte, prendre le Journal 5 pres de la civière ensanglantee.
+6. Pirater la tourelle du couloir avec Electro Bolt : Hacked a Turret.
+7. Journal 6 : bureau de reception face a la tourelle, sous le panneau de famille.
+8. Journal 7 : coffre sous l'affiche des plasmides, pres de la Health Station.
+9. Journal 8 : porte gelee de Twilight Fields, a cote du panneau Medical Pavilion.
+10. Journal 9 : petite salle inondee avec deux distributeurs, sur une chaise.
+
+CREMATORIUM ET TWILIGHT FIELDS
+
+1. Descendre vers Dental Services et prendre le Journal 10 sur le monticule gele.
+2. Dans Eternal Flame Crematorium, prendre le Journal 11 sous le portrait.
+3. Pirater la premiere Security Camera de la salle : Hacked a Security Camera.
+4. Bruler le corps sur la table du four et recuperer le tonic Hacker's Delight.
+5. Prendre Incinerate, puis degeler la porte de Twilight Fields.
+6. Dans Twilight Fields, pirater le coffre derriere la tourelle : Hacked a Safe.
+7. Journal 12 : Kure-All, salle tiled, a cote de la table chirurgicale.
+8. Recuperer Wrench Jockey dans le conduit ventile de Kure-All.
+9. Journal 13 : devant Dandy Dental, au bord de la zone basse.
+10. Journal 14 : salle de test Telekinesis de Dandy Dental.
+11. Prendre Telekinesis dans cette meme salle.
+12. Journal 15 et Speedy Hacker : bureau de Painless Dental apres la fenetre.
+
+STEINMAN, PREMIERES LITTLE SISTERS ET RECHERCHE
+
+1. Suivre la passerelle d'Aesthetic Ideals et utiliser Telekinesis sur les gravats.
+2. Journal 16 : derriere les gravats dans le Surgical Foyer.
+3. Prendre Static Discharge dans le couloir suivant.
+4. Journal 17 : premier cabinet de la piece laterale avec la table d'operation.
+5. Photographier Steinman et les splicers avant de les eliminer.
+6. Vaincre Steinman : utiliser la tourelle piratee et revenir dans le couloir si
+   la sante baisse.
+7. Journal 18 : sur le patient pres de la table apres la rencontre.
+8. Traiter les deux Little Sisters du niveau : Big Daddy, photo de la fille,
+   puis sauvetage pour conserver Little Sister Savior.
+9. Journal 19 : au sol devant le Gatherer's Garden active apres le sauvetage.
+10. Acheter Armored Shell et EVE Link si l'ADAM le permet.
+11. Quitter vers Neptune's Bounty avec le compteur Medical 2/21.
+
+CONTROLE MEDICAL
+
+- Journaux : 3 a 19.
+- Little Sisters : 2.
+- Recherche prioritaire : Leadhead, Thuggish, Security Bot, Camera, Turret,
+  Little Sister et Bouncer.
+- Succes : One Successful Hack, Hacked a Security Bot, Hacked a Vending Machine,
+  Hacked a Turret, Hacked a Security Camera, Hacked a Safe, Defeated Steinman.
+
+======================================================================
+CHAPITRE 3 - NEPTUNE'S BOUNTY
+======================================================================
+
+LOWER WHARF
+
+1. Descendre dans la boue et prendre Medical Expert dans la zone centrale.
+2. Journal 20 : sous la passerelle du Lower Wharf, derriere la tourelle.
+3. Journal 21 : sous-sol inonde avant Fontaine Fisheries, porte a pirater ou
+   code 5380.
+4. Obtenir la quete de la Research Camera et passer par le conduit pres de la
+   station Gene Bank.
+5. Journal 22 : jonction du conduit ouvert a droite.
+
+UPPER WHARF ET RESEARCH CAMERA
+
+1. Journal 23 : table juste devant l'entree de Upper Wharf.
+2. Journal 24 : au sol pres du conduit de Little Sister dans la piece suivante.
+3. Journal 25 : corps du Splicer a cote du meme conduit.
+4. Journal 26 : pres du Circus of Values apres la grille deverrouillee.
+5. Journal 27 : conduit derriere les tourelles, bureau au fond a gauche.
+6. Recuperer la Research Camera et photographier le Spider Splicer de la salle.
+7. Faire une photo de tres haute qualite : Quality Research Photo.
+8. Journal 28 : caisse entre deux convoyeurs apres la fenetre cassee.
+9. Journal 29 : derriere les tuyaux qui fuient juste apres la porte.
+10. Journal 30 : sous la Security Camera du tunnel vitree.
+
+JET POSTAL ET FIGHTING MCDONAGH'S
+
+1. Journal 31 : table a gauche de Jet Postal.
+2. Journal 32 : conduit dans la zone inondee de Fighting McDonagh's Tavern.
+3. Journal 33 : table sous le panneau 123 Beer.
+4. Journal 34 : table pres de l'escalier vers l'etage.
+5. Journal 35 : derriere la porte ouverte avec Electro Bolt, au fond.
+6. Journal 36 : Room 6, pres du corps enchaine.
+7. Journal 37 : Room 7, sur le lit avec deux corps ; code 7533 si besoin.
+8. Shorten Alarms se trouve derriere l'affiche Jasmine Joelene dans Room 7.
+9. Pirater chaque machine avant de la detruire pour atteindre 50 hacks cumules.
+
+FONTAINE FISHERIES ET PEACH WILKINS
+
+1. Rechercher les Spider Splicers en continu jusqu'au niveau maximal de la piste.
+2. Traiter les trois Little Sisters de Neptune avant la sortie.
+3. Dans le freezer de Peach, utiliser Incinerate sur les portes gelee.
+4. Vaincre Peach Wilkins et recuperer les composants dans son sous-sol.
+5. Power to the People 1 : sous-sol du freezer, directement face a l'escalier.
+6. Journal 38 : caisse a gauche de la station, dans le freezer.
+7. Upgraded a Weapon tombe avec la premiere station.
+8. Fouiller Storage Cave et le chemin vers Smuggler's Hideout avant la transition.
+
+SMUGGLER'S HIDEOUT
+
+1. Journal 39 : appuye contre les caisses a droite d'une tourelle.
+2. Journal 40 : petite piece derriere la porte cadenassee en bas des escaliers.
+3. Journal 41 : pres de la caisse renversee avant le pont vers Arcadia.
+4. Nettoyer les machines, photographier les bots et Rosie avant le depart.
+
+CONTROLE NEPTUNE
+
+- Journaux : 20 a 41.
+- Little Sisters : 3 dans Neptune, compteur cumule 5/21.
+- Succes : Researched a Splicer, Quality Research Photo, Defeated Peach,
+  Upgraded a Weapon, Skilled Hacker, Fully Researched a Leadhead Splicer.
+- Station : Neptune #1.
+
+======================================================================
+CHAPITRE 4 - ARCADIA ET SMUGGLER'S HIDEOUT
+======================================================================
+
+TEA GARDEN ET ARCADIA GLENS
+
+1. Journal 42 : Tea Garden, a gauche du pont vers Arcadia Glens.
+2. Journal 43 : banc de l'Arcadia Glens, apres l'entree.
+3. Journal 44 : meme piece, coin droit pres de la chaise doree.
+4. Journal 45 : etage superieur de Tea Garden, salle du Houdini Splicer.
+5. Photographier Thuggish, Houdini et les bots dans les couloirs.
+6. Rechercher les Houdini jusqu'au niveau 2, puis 4 pour Natural Camouflage.
+
+WATERFALL GROTTO ET ROLLING HILLS
+
+1. Journal 46 : banc sous le panneau Waterfall Grotto.
+2. Journal 47 : piece ouverte avec Electro Bolt, sous l'affiche Who Is Atlas.
+3. Journal 48 : bloc de beton dans la zone inondee du premier niveau.
+4. Journal 49 : caisse pres de la roue a eau.
+5. Journal 50 : banc sous le panneau Rolling Hills, apres la tourelle RPG.
+6. Quand le gaz est traite et la zone s'ouvre, Journal 51 : caverne aux deux
+   mannequins en feu, juste avant l'escalier vers la tourelle RPG.
+7. Security Evasion : zone d'entree de Waterfall Grotto, pres des splicers.
+8. Hacking Expert : bureau de l'accueil du laboratoire de Langford.
+9. Journal 52 : sol pres du classeur derriere le meme bureau.
+10. Journal 53 : table de la salle suivante, a gauche pres des plantes.
+
+TREE FARM, SAMPLE ET FORET
+
+1. Prendre le sample de rose et l'envoyer par le Pneumo a Langford.
+2. Journal 54 : laboratoire, salle de traitement, proche du panneau de dosage.
+3. Journal 55 : salle de controle, pres de la console secondaire.
+4. Fabriquer les trois premieres munitions a la U-Invent : Armor-Piercing Auto
+   Rounds, Exploding Buck et Antipersonnel Pistol Rounds.
+5. Journal 56 : Tree Farm, escalier du fond pres des sacs d'engrais.
+6. Power to the People 2 : Tree Farm, juste a gauche de l'escalier vers Farmer's.
+7. Completer une seconde upgrade sur la meme arme pour One Fully Upgraded Weapon.
+8. Journal 57 : haut du dernier escalier, devant la billetterie.
+9. Inserer le Lazarus Vector dans la commande de brumisation.
+10. Survivre aux trois vagues et obtenir Restored the Forest.
+11. Traiter les deux Little Sisters d'Arcadia : compteur cumule 7/21.
+
+CONTROLE ARCADIA
+
+- Journaux : 42 a 57.
+- Little Sisters : 2.
+- Stations : Arcadia #2.
+- Succes : Fully Researched a Thuggish Splicer, Fully Researched a Houdini
+  Splicer, Restored the Forest, One Fully Upgraded Weapon.
+
+======================================================================
+CHAPITRE 5 - FARMER'S MARKET
+======================================================================
+
+ENTREE ET MARKET
+
+1. Journal 58 : devant l'entree de Farmer's Market, a cote du Pneumo.
+2. Journal 59 : kiosk Paddon Meats, a gauche de la vitrine, face a la camera.
+3. EVE Link 2 : niveau bas pres du Circus of Values.
+4. Journal 60 : salle Employees Only, devant le Rosie mort.
+5. Journal 61 : meme salle, coin inonde pres de la lampe.
+6. Journal 62 : etage Employees Only, conduit derriere le mur du fond.
+7. Journal 63 : devant les portes vers Winery et Silverwing Apiary.
+8. Journal 64 : comptoir de reception de Silverwing Apiary.
+9. Journal 65 : table du lounge de Worley's Winery.
+
+WINERY ET CRAFT
+
+1. Farm the ingredients dans les caisses et sur les splicers.
+2. U-Invent : fabriquer les trois munitions du premier groupe si ce n'est pas
+   deja fait.
+3. Power to the People 3 : sous-sol inonde de Worley's Winery.
+4. Photographer's Eye : petite shack au fond du sous-sol, pres du lit.
+5. Traiter la Little Sister de Farmer's Market : compteur 8/21.
+6. Completer les photos de Security Cameras et Security Bots avant de partir.
+
+CONTROLE FARMER'S MARKET
+
+- Journaux : 58 a 65.
+- Little Sisters : 1.
+- Station : Farmer's Market #3.
+- Recettes finales de munitions : les trois premieres doivent etre inventees
+  avant ou pendant ce niveau ; les trois dernieres attendent Fort Frolic.
+
+======================================================================
+CHAPITRE 6 - FORT FROLIC
+======================================================================
+
+GARDE-FOU COHEN
+
+Ne tue pas Cohen quand il apparait dans l'Atrium. Termine sa commande de
+portraits, recupere les journaux et laisse-le quitter la scene. Cette decision
+preserve la chambre personnelle de Cohen et la station Power to the People
+cachee d'Olympus Heights.
+
+ATRium ET FLEET HALL
+
+1. Sauvegarder devant les deux machines a sous pres de l'entree.
+2. Faire tourner les machines jusqu'au jackpot : Lucky Winner. Recharger si
+   l'argent manque.
+3. Journal 67 : debris pres de l'arche de Fleet Hall.
+4. Journal 68 : piece de stockage a droite de la camera du theatre, pres de la
+   guitare.
+5. Craft Booze Hound a la U-Invent avec glue, enzymes et hypos vides.
+6. Inventer Heat-Seeking RPG, Trap Bolt et Electric Gel : Ammo Inventor.
+7. Prendre Alarm Expert dans la zone de projection, en sautant depuis les
+   cabines si la porte directe est verrouillee.
+
+POSEIDON PLAZA ET RECHERCHE
+
+1. Journal 69 : arriere-salle de Cohen's Collection, pres du merlot.
+2. Journal 70 : mur de Poseidon Plaza, pres du corps gele au plafond.
+3. Vaincre Martin Finnegan et prendre Frozen Field sur son corps.
+4. Finir la recherche Spider Splicer et photographier le Bouncer : Prolific
+   Photographer tombe si tous les groupes ont deja ete photographies.
+5. Journal 71 : caisse a droite du bar de Sir Prize.
+6. Journal 72 : table de billard au deuxieme etage de Pharaoh's Fortune.
+7. Journal 73 : sous le comptoir de reception de Rapture Records.
+8. Journal 74 : table d'entree de Robertson's Tobaccoria, code 7774 si besoin.
+9. Journal 75 : chambre du fond d'Eve's Garden, sous le lit.
+10. Journal 76 : comptoir du bar d'Eve's Garden.
+
+UPGRADES ET MASTERPIECE
+
+1. Power to the People 4 : sous-sol de Sinclair Spirits, bouton derriere le bar.
+2. Acheter ou recuperer Extra Nutrition 2 et Hacker's Delight 2 si composants.
+3. Power to the People 5 : sous-sol de Le Marquis D'Epoque, pres des cigares.
+4. Journal 80 : sol devant la station dans Le Marquis D'Epoque.
+5. Journal 77 : Southern Mall, tabouret face au Circus of Values.
+6. Journal 78 : placard du fond de Sophia Salon.
+7. Journal 79 : comptoir du Cocktail Lounge.
+8. Completer les quatre portraits de Cohen et les rendre seulement apres avoir
+   pris Journal 77 et verifie la station.
+9. Completed Cohen's Masterpiece tombe au dernier portrait.
+10. Medical Expert 2 et Electric Flesh sont dans l'Atrium et la salle de projection.
+11. Journal 81 : salle de projection, sur la table a droite de l'etagere.
+12. Acheter le quatrieme slot plasmide, puis les slots tonic restants de la zone.
+13. Maxed One Track tombe quand une piste est complete.
+
+LITTLE SISTER ET COMPTEUR
+
+- Traiter la Little Sister de Fort Frolic apres les portraits.
+- Compteur cumule attendu : 9/21.
+- Le niveau comporte plusieurs combats de Big Daddies : photographier Bouncer,
+  Rosie et la Little Sister avant de les secourir.
+
+======================================================================
+CHAPITRE 7 - HEPHAESTUS
+======================================================================
+
+AVANT LA BOMBE EMP
+
+Deux Wire Clusters sont poses sur des corps ; les deux autres doivent etre
+recuperes sur des Bouncers vaincus. Ne vide pas le niveau de ses Big Daddies
+avant d'avoir obtenu Journal 97 et la recette de l'EMP Bomb.
+
+CORE ET HEAT LOSS MONITORING
+
+1. Journal 82 : caisse pres du Circus of Values sous la banniere No Gods or Kings.
+2. Journal 83 : pres du second Circus of Values, apres le virage gauche.
+3. Journal 84 : corps lumineux juste apres le disjoncteur de l'Office de Ryan.
+4. Journal 85 : troisieme pilier apres le corps precedent.
+5. Journal 86 : petit bureau a gauche, en haut des marches.
+6. Frozen Field 2 : meme bureau que le Journal 86.
+7. Journal 87 : chaise face a la Vita-Chamber, en haut de l'escalier.
+8. Journal 88 : classeur renverse sous la camera, devant Workshops.
+9. Journal 89 : bas du Hephaestus Core, bureau face au Circus of Values.
+10. Power to the People 6 : Heat Loss Monitoring, en face du Gatherer's Garden.
+11. Mettre la deuxieme upgrade sur la meme arme si possible.
+12. Journal 90 : juste a gauche du Gatherer's Garden dans le Core.
+
+WORKSHOPS ET KYBURZ
+
+1. Journal 91 : Heat Loss Monitoring, coin droit pres de l'Ionic Gel.
+2. Journal 92 : niveau bas, bureau pres du tonic et de la zone electrique.
+3. Security Evasion 2 : a cote du Journal 92.
+4. Journal 93 : balcon du niveau bas oppose, bureau a gauche.
+5. Fabriquer Bloodlust si les composants sont disponibles.
+6. Journal 94 : bureau de Workshops, pres du Gene Bank.
+7. Journal 95 : crawlspace cache sous l'escalier, entre tourelle et terminal.
+8. Journal 96 : corps devant la Health Station.
+9. Journal 97 : table dans le crawlspace du fond, pres du tonic Damage Research.
+10. Recuperer le code de Kyburz et les quatre Wire Clusters.
+11. Journal 98 : bureau de Kyburz, code 0126, derriere les fils pieges.
+12. Power to the People 7 : bureau de Kyburz, face au Journal 98.
+13. Assembler la bombe avec nitroglycerine, gel ionique, wire clusters et
+    composants demandes par la mission.
+14. Shorten Alarms 2 : chemin vers le placement de la bombe, apres l'ascenseur.
+15. Activer la bombe et quitter Hephaestus par le passage vers Central Control.
+
+LITTLE SISTERS ET SLOTS
+
+- Traiter les cinq Little Sisters de Hephaestus apres avoir collecte les composants.
+- Compteur cumule : 14/21.
+- Acheter les quatre slots des pistes Physical, Engineering et Combat a ce stade
+  si l'ADAM le permet : Maxed All Tracks demande les 16 slots.
+- Research PhD : Bouncer et Security Bot doivent etre presque termines ici.
+
+======================================================================
+CHAPITRE 8 - RAPTURE CENTRAL CONTROL, OLYMPUS HEIGHTS ET APOLLO SQUARE
+======================================================================
+
+RAPTURE CENTRAL CONTROL
+
+1. Journal 99 : table pres de la Vita-Chamber en entrant dans Control Room.
+2. Journal 100 : table sous la zone de controle apres le conduit.
+3. Journal 101 : meme table, a cote du Journal 100.
+4. Vaincre Andrew Ryan pour Defeated Andrew Ryan.
+5. Avant la transition, verifier les recherches restantes des machines.
+
+OLYMPUS HEIGHTS - MERCURY SUITES
+
+1. Journal 102 : comptoir du Bistro, face a la sortie avec tourelle.
+2. Power to the People 8 : derriere la colonne de l'ascenseur du hall.
+3. Finir la recherche Nitro Splicer ici si elle manque.
+4. Journal 103 : suite de Suchong, couloir gauche, derriere les gravats.
+5. Journal 104 : zone inondee de Suchong, bureau pres du tonic Clever Inventor.
+6. Journal 105 : suite d'Anna Culpepper, petite table apres le foyer.
+7. Ne pas quitter Mercury Suites avant Cohen.
+8. Si Cohen est vivant, entrer dans sa suite, vaincre les ennemis presents puis
+   prendre une photo de son corps : Irony.
+9. Monter dans sa chambre personnelle : Found Cohen's Room.
+10. Power to the People 9 : chambre secrete de Cohen.
+11. Journal 106 : troisieme etage, face a l'U-Invent ; le code de l'ascenseur
+    de Fontaine est 5744.
+12. Journal 107 : appartement, table basse pres de l'etagere a cigares.
+13. Electric Flesh 2 : meme suite que l'objet de Lot 192.
+
+APOLLO SQUARE - PREMIERE PARTIE
+
+1. Lot 192 change periodiquement le plasmide actif : garder une sauvegarde et
+   utiliser une arme pendant les phases de cycle.
+2. Journal 108 : entree d'Apollo Square, pres du Circus of Values a gauche.
+3. Journal 109 : grande salle des potences, pres du Gatherer's Garden et d'une caisse.
+4. Medical Expert 3 : Artemis Suites, Free Clinic, salle de bain centrale.
+5. Journal 110 : bureau de Suchong, au sol pres de la scene de la salle.
+6. Trouver le second elixir de Lot 192 dans la Free Clinic : Broke Fontaine's
+   Mind Control tombe quand l'effet est supprime.
+
+COMPTEUR ET CONTROLE
+
+- Journaux : 99 a 110.
+- Compteur attendu : 18/21 Little Sisters a la fin d'Apollo Square partie I.
+- Stations : Olympus #8 et #9.
+- Succes : Defeated Andrew Ryan, Irony, Found Cohen's Room, Broke Fontaine's
+  Mind Control, Fully Researched Nitro Splicer, Research PhD si les machines
+  sont completes.
+
+======================================================================
+CHAPITRE 9 - APOLLO SQUARE PARTIE II ET POINT PROMETHEUS
+======================================================================
+
+APOLLO SQUARE PARTIE II
+
+1. Avant l'ascenseur principal, aller dans Fontaine's Center for the Poor.
+2. Journal 111 : shack de ferraille a droite, dans le coffre pres du corps.
+3. Monter jusqu'au cinquieme etage d'Atlas Headquarters.
+4. Power to the People 10 : escalier sous la Security Camera.
+5. Journal 112 : bureau pres du tonic Focused Hacker 2.
+6. Journal 113 : corps en face du Journal 112.
+7. Faire la deuxieme upgrade de la cinquieme arme pour Five Fully Upgraded Weapons.
+8. Prolific Inventor : cadeau de Tenenbaum apres la 18e Little Sister, si toutes
+   les filles precedentes ont ete secourues.
+
+POINT PROMETHEUS - MAIN HALL
+
+1. Power to the People 11 : Main Hall, apres le corps de Rosie, sur la gauche.
+2. Little Wonders Education Facility : pirater les deux tourelles apres la
+   fenetre et atteindre Autopsy.
+3. Safecracker 2 : bureau du fond d'Autopsy, pres de la fiole de pheromones.
+4. Journal 114 : etage haut de Education Facility, couloir au-dessus des cellules
+   1-4, bureau eloigne avec ours en peluche.
+5. Damage Research 2 : Mendel Family Library, pres du Big Daddy Boots.
+
+OPTIMIZED EUGENICS
+
+1. Journal 115 : porte gelee face au Circus of Values, a degeler avec Incinerate.
+2. Alarm Expert 2 : Live Subject Testing, classeur du fond pres de la Voicebox.
+3. Journal 116 : Plasmid Prototyping, derriere la tourelle RPG en bas des marches.
+4. Power to the People 12 : fond d'Eugenic Analysis.
+5. Mettre les deux upgrades restantes pour Weapon Specialist : toutes les armes
+   doivent avoir leurs deux ameliorations au total.
+6. Journal 117 : Test Subject Storage, terminal a droite de l'entree.
+
+SUIT ASSEMBLY ET TRANSFORMATION
+
+1. Journal 118 : Candidate Conversion, bureau du fond pres du coffre.
+2. Journal 119 : porte gelee de Suit Assembly, sous la passerelle, table a droite.
+3. Journal 120 : escalier a gauche de Candidate Conversion, terminal face aux bureaux.
+4. Journal 121 : passerelle superieure, terminal pres du Gene Bank.
+5. Journal 122 : passerelle parallele, classeur a cote des deux bureaux.
+6. Historian tombe avec le 122e journal.
+7. Hacker's Delight 3 : Candidate Induction, table du fond pres des casques Rosie.
+8. Recuperer les bottes, la combinaison, le casque, la modification vocale et
+   trois fioles de pheromones.
+9. Devenir Big Daddy pour Became a Big Daddy.
+10. Traiter les trois dernieres Little Sisters : compteur 21/21.
+11. Dealt with every Little Sister tombe a la derniere interaction.
+12. Acheter Human Inferno 2 si Tonic Collector n'est pas deja valide.
+
+======================================================================
+CHAPITRE 10 - PROVING GROUNDS ET FIN DE CAMPAGNE
+======================================================================
+
+PROVING GROUNDS
+
+1. Il n'y a pas de journal ni de station Power to the People a manquer ici.
+2. Escorter la Little Sister, ouvrir les caches et recuperer l'ADAM quand elle
+   s'arrete.
+3. Avant l'ascenseur final, acheter munitions, soins, EVE et tonics de soin.
+4. Equiper Electro Bolt, Enrage ou une combinaison de controle et de degats.
+5. Faire une sauvegarde dediee avant la salle du boss.
+
+DIFFICULTE ET VITA-CHAMBER
+
+- Seriously Good at This : terminer sur la difficulte la plus haute, sans
+  baisser la difficulte pendant la run.
+- A Man Chooses : terminer sur Survivor.
+- I Chose the Impossible : terminer sur Survivor sans utiliser de Vita-Chamber.
+- Brass Balls : terminer sur Hard sans Vita-Chamber.
+- Pour une run propre, regler la difficulte avant de commencer et desactiver les
+  Vita-Chambers dans Options. Ne pas se fier a un simple rechargement apres mort.
+- Si tu fais deux runs, la premiere sert a la collecte et la seconde aux quatre
+  objectifs de difficulte. Le New Game Plus conserve les recherches, journaux,
+  plasmides et upgrades deja acquis, mais verifier les objets reaffiches.
+
+COMBAT FINAL ET FIN
+
+1. Utiliser les armes a distance et les plasmides de controle sur les ouvertures.
+2. Recuperer les quatre fioles avec l'aiguille de Little Sister quand l'occasion
+   se presente, sans depenser toutes les munitions d'un seul type.
+3. Vaincre Atlas : Defeated Atlas.
+4. Garder une sauvegarde avant la toute derniere interaction afin de verifier
+   la route de fin souhaitee sans refaire les niveaux.
+5. La route de secours pour A Man Chooses/I Chose the Impossible doit etre
+   validee dans les conditions de difficulte et Vita-Chamber de la run dediee.
+
+======================================================================
+JOURNAUX AUDIO - INDEX COMPLET PAR ZONE
+======================================================================
+
+Cet index permet de controler le compteur sans relire les titres des journaux.
+Les numeros sont ceux du menu de la version Remastered.
+
+- Welcome to Rapture : 1-2.
+- Medical Pavilion : 3-19.
+- Neptune's Bounty : 20-38.
+- Smuggler's Hideout : 39-41.
+- Arcadia, premier passage et retour : 42-57.
+- Farmer's Market : 58-65.
+- Bathysphere de sortie d'Arcadia : 66, a droite sur le banc de la station.
+- Fort Frolic : 67-81.
+- Hephaestus : 82-98.
+- Rapture Central Control : 99-101.
+- Olympus Heights : 102-107.
+- Apollo Square : 108-113.
+- Point Prometheus : 114-122.
+
+Controle des compteurs de sortie :
+
+- Medical Pavilion : 19 journaux.
+- Arcadia complete : 57 journaux.
+- Fort Frolic complete : 81 journaux.
+- Hephaestus complete : 98 journaux.
+- Apollo Square partie I : 110 journaux.
+- Point Prometheus : 122 journaux.
+
+Si un journal apparait dans le mauvais onglet, comparer le numero global et non
+le classement du niveau : Farmer's Market 60 peut parfois etre range dans
+Neptune's Bounty, ce qui ne bloque pas Historian.
+
+======================================================================
+CHALLENGE ROOM 1 - THE 'I' IN TEAM
+======================================================================
+
+ROUTE DE CARTOGRAPHIE ET QUATRE ROSES
+
+1. Au depart, monter l'escalier gauche ; Rose 1 est sur le bureau face a la
+   Vita-Chamber dans la salle suivante.
+2. Recuperer Target Dummy en traversant les caisses d'invention.
+3. Utiliser Target Dummy pour passer les tourelles et atteindre Winter Blast.
+4. Geler le Bouncer a mi-chemin entre la Rose suspendue et la plateforme, puis
+   sauter sur son dos gele : Rose 2.
+5. Le coffre de composants isole contient le Brass Tube ; fabriquer l'outil de hack.
+6. Pirater la commande de porte droite.
+7. Faire tirer les tourelles RPG sur le Big Daddy avec Target Dummy, sans geler
+   son corps au moment de la mort pour pouvoir le fouiller.
+8. Rose 3 : dans la zone de tir, apres la mort du Big Daddy, sur la plateforme
+   rendue accessible par la commande de droite.
+9. Retourner dans la salle de plaques de pression, attirer le Big Daddy sur la
+   plaque et le geler.
+10. Rose 4 : panneau qui se leve sous la plateforme isolee, pres des fenetres.
+11. Sauver la Little Sister apres les quatre roses : The 'I' in Team - Collector
+    et Rescuer.
+
+TROIS MINUTES ET PACIFISTE
+
+1. Courir vers Target Dummy en ouvrant les cinq caisses de composants.
+2. Sauvegarder avant les poutres sous les tourelles RPG.
+3. Tirer le mannequin au centre des poutres pour attirer les tirs loin des
+   tourelles mitrailleuses.
+4. Prendre Winter Blast, revenir a la salle de la Little Sister et recuperer le
+   Brass Tube.
+5. Fabriquer l'outil, pirater la porte droite et sauvegarder avant le combat.
+6. Placer le mannequin pres d'une porte, hors de la ligne des tourelles.
+7. Sauver la Little Sister avant 3:00 sans detruire une seule tourelle mitrailleuse.
+8. Les deux succes The 'I' in Team - Expert et Pacifist se valident sur cette
+   tentative si les conditions sont respectees.
+
+======================================================================
+CHALLENGE ROOM 2 - A SHOCKING TURN OF EVENTS
+======================================================================
+
+ROUTE DE CARTOGRAPHIE ET DIX ROSES
+
+1. Au depart, activer le levier de bathysphere jusqu'a la mort pour reapparaitre
+   pres du fusil a pompe et entrer dans le Grand Carnival.
+2. Rose 1 : sommet de l'ascenseur du balcon gauche.
+3. Rose 2 : petite salle sur le cote droit, proche du bas de la cage d'ascenseur.
+4. Caisse 1 : au bas de cette salle, alcool pres de Static Discharge.
+5. Tirer le Splicer de Rapture Records puis celui des toilettes vers le bouton
+   pour obtenir les trois premieres charges du Ferris Wheel.
+6. Caisse 2 : toilettes, a gauche en entrant.
+7. Rose 3 : haut du grand panneau pres des toilettes.
+8. Caisse 3 : entree de Rapture Records, a gauche.
+9. Rose 4 : derriere la grille gauche de Rapture Records.
+10. Caisse 4 et Rose 5 : entree du Grand Carnival et conduit de Little Sister.
+11. Prendre Telekinesis, puis le Crossbow dans la boutique aux ours.
+12. Caisse 5 : derriere le coffre electrique dans la boutique aux ours.
+13. Rose 6 : embraser un objet, le porter jusqu'au tuyau gele de Cold Storage.
+14. Caisse 6 : sous l'escalier de Cold Storage.
+15. Rose 7 : tonneau droit du stand aux trois tonneaux.
+16. Rose 8 : ballon blanc inferieur droit de la boutique aux six ballons,
+    toucher le ballon avec un crochet de Spider Splicer.
+17. Caisse 7 : derriere la statue des deux ours ; prendre aussi le Chemical Thrower.
+18. Zimmerman Chardonnay : code 1951. Attirer le Splicer vers le bouton.
+19. Rose 9 : engrenage qui tombe pres du generateur apres la septieme charge.
+20. Caisse 8 : centre de Zimmerman Chardonnay.
+21. Rose 10 : sommet du lustre de Zimmerman Chardonnay.
+
+NEUF CHARGES DU FERRIS WHEEL
+
+- Charge 1 : Electric Buck sur le bouton.
+- Charges 2 et 3 : deux Thuggish Splicers, un pres de Rapture Records et un
+  dans les toilettes, attires jusqu'au bouton.
+- Charge 4 : Splicer de Zimmerman Chardonnay avec le code 1951.
+- Charges 5 a 7 : Trap Bolts et Electric Buck sur le panneau bleu foudre ;
+  attendre que le bouton cesse d'etre electrifie avant chaque tir.
+- Charges 8 et 9 : fabriquer Electric Gel et Trap Bolt a la U-Invent avec les
+  huit caisses, puis les appliquer au bouton.
+- Sauver la Little Sister : Rescuer, Collector et Master Electrician.
+
+TENTATIVE EXPERT
+
+1. Objectif : sauver la Little Sister en moins de 4:00.
+2. Prendre Shotgun, Trap Bolt et Static Discharge en moins de 50 secondes.
+3. Obtenir trois charges avec Electric Buck et les deux Splicers avant 1:40.
+4. Prendre Telekinesis, le Crossbow et le Trap Bolt de la boutique aux ours.
+5. Code 1951, attirer le Splicer et poser deux Trap Bolts sur le bouton.
+6. Sauver avant 4:00 : A Shocking Turn of Events - Expert.
+
+======================================================================
+CHALLENGE ROOM 3 - WORLDS OF HURT
+======================================================================
+
+REGLE TOUGH GUY
+
+Pour Tough Guy, jouer en Medium ou plus avec uniquement plasmides, tonics,
+marteau et appareil photo. Ne ramasser ni revolver ni arme a feu pendant la
+tentative. Rechercher les ennemis depuis la vitre avant chaque arene.
+
+HUIT ARENES ET HUIT ROSES
+
+1. Single Splicer : Rose 1 entre les montants de la colonne centrale, cote mine
+   marine et deux ventilateurs.
+2. Single Big Daddy : electrocuter le Bouncer dans le bassin ; Rose 2 dans le
+   coin sous le sol effondre, a droite du pilier vu depuis le bassin.
+3. Houdini Splicers : vaincre au combo Electro Bolt + marteau ; Rose 3 sous la
+   plateforme, derriere le panneau de bois, accessible par le saut pres de la
+   Health Station.
+4. Spider Splicers : rechercher depuis la vitre, puis vaincre au combo ; Rose 4
+   sous le banc de droite, pres de la station Power to the People.
+5. Security Turret Maze : pirater les 11 tourelles, utiliser le Big Daddy pour
+   les detruire ; Rose 5 derriere le piston gauche pres du couloir central.
+6. All Kinds of Enemies : utiliser la tourelle piratee contre le Bouncer ; Rose 6
+   derriere les sacs de sable, au fond a gauche du tunnel de Little Sister.
+7. Security Bots : photographier et pirater deux bots, puis attirer le Bouncer
+   sur eux ; Rose 7 sous la glace a droite du panneau de fermeture des bots.
+8. All Kinds of Big Daddies : faire combattre les Big Daddies entre eux, utiliser
+   Enrage si disponible ; Rose 8 derriere la planche cassee apres le premier banc.
+9. Apres les huit arenes, survivre a l'assaut du lobby, vaincre le dernier
+   Bouncer et sauver la Little Sister sous la cloche de verre.
+10. Rescuer, Collector et Tough Guy sont valides en terminant cette route.
+
+QUINZE MINUTES THUNDERDOME
+
+- 0:00-0:31 : Single Splicer au marteau.
+- 0:32-1:20 : Bouncer dans le bassin, carreaux incendiaires/crossbow.
+- 1:21-2:44 : Security Bots, ignorer les bots et aller au Bouncer.
+- 2:45-4:55 : Security Turret Maze, piratage rapide ou carreaux incendiaires.
+- 4:56-7:05 : Houdini Splicers, combo Electro Bolt + marteau.
+- 7:06-9:23 : All Kinds of Enemies, recherche rapide puis crossbow sur Bouncer.
+- 9:23-10:47 : Spider Splicers, combinaisons rapides au sol.
+- 10:48-12:30 : All Kinds of Big Daddies, Enrage sur Elite Rosie et combats
+  croises pour economiser les munitions.
+- 12:31-15:00 : assaut du lobby, Bouncer final, ouverture de la cloche et
+  sauvetage. Chaque arene doit etre sauvegardee si le temps est bon ; recharger
+  si un segment depasse la fenetre ci-dessus.
+- Worlds of Hurt - Expert tombe si la Little Sister est sauvee avant 15:00,
+  en Medium ou plus.
+
+======================================================================
+CHECKLIST STEAM FINALE - 65/65
+======================================================================
+
+- [ ] Toaster in the Tub — Electrocuter un ennemi dans l'eau.
+- [ ] Completed Welcome to Rapture — Terminer le niveau Welcome to Rapture.
+- [ ] One Successful Hack — Reussir au moins un piratage.
+- [ ] Hacked a Security Bot — Pirater un Security Bot.
+- [ ] Hacked a Vending Machine — Pirater un distributeur.
+- [ ] Hacked a Turret — Pirater une tourelle.
+- [ ] Hacked a Safe — Pirater un coffre-fort.
+- [ ] Defeated Dr. Steinman — Vaincre Steinman.
+- [ ] Hacked a Security Camera — Pirater une camera de securite.
+- [ ] Bought One Slot — Acheter un slot de plasmide ou de tonic.
+- [ ] Researched a Splicer — Prendre une photo de recherche d'un Splicer.
+- [ ] Quality Research Photo — Prendre une photo de recherche de qualite maximale.
+- [ ] Defeated Peach Wilkins — Vaincre Peach Wilkins.
+- [ ] Upgraded a Weapon — Acheter une premiere amelioration d'arme.
+- [ ] Basic Inventer — Inventer au moins un objet.
+- [ ] Restored the Forest — Restaurer la foret d'Arcadia.
+- [ ] One Fully Upgraded Weapon — Ameliorer completement une arme.
+- [ ] Skilled Hacker — Reussir 50 piratages.
+- [ ] Completed Cohen's Masterpiece — Terminer le chef-d'oeuvre de Cohen.
+- [ ] Maxed One Track — Acheter tous les slots d'une piste.
+- [ ] Defeated Andrew Ryan — Vaincre Andrew Ryan.
+- [ ] Two Fully Upgraded Weapons — Ameliorer completement deux armes.
+- [ ] Broke Fontaine's Mind Control — Briser le controle mental de Fontaine.
+- [ ] Became a Big Daddy — Devenir un Big Daddy.
+- [ ] Defeated Atlas — Vaincre Atlas.
+- [ ] Three Fully Upgraded Weapons — Ameliorer completement trois armes.
+- [ ] Little Sister Savior — Terminer le jeu sans recolter de Little Sister.
+- [ ] Four Fully Upgraded Weapons — Ameliorer completement quatre armes.
+- [ ] Dealt with every Little Sister — Traiter les 21 Little Sisters.
+- [ ] Maxed All Tracks — Acheter tous les slots des quatre pistes.
+- [ ] Tonic Collector — Collecter ou inventer 53 tonics.
+- [ ] Fully Researched a Leadhead Splicer — Maximiser la recherche Leadhead.
+- [ ] Ammo Inventor — Inventer tous les types de munitions.
+- [ ] Fully Researched a Thuggish Splicer — Maximiser la recherche Thuggish.
+- [ ] Fully Researched a Spider Splicer — Maximiser la recherche Spider.
+- [ ] Prolific Photographer — Photographier chaque groupe de recherche.
+- [ ] Five Fully Upgraded Weapons — Ameliorer completement cinq armes.
+- [ ] Fully Researched a Houdini Splicer — Maximiser la recherche Houdini.
+- [ ] Irony — Photographier le corps de Cohen.
+- [ ] Fully Researched a Rosie — Maximiser la recherche Rosie.
+- [ ] Found Cohen's Room — Entrer dans la chambre personnelle de Cohen.
+- [ ] Fully Researched a Little Sister — Maximiser la recherche Little Sister.
+- [ ] Fully Researched a Nitro Splicer — Maximiser la recherche Nitro.
+- [ ] Fully Researched a Bouncer — Maximiser la recherche Bouncer.
+- [ ] Seriously Good at This — Terminer le jeu dans la difficulte maximale.
+- [ ] Weapon Specialist — Acheter toutes les ameliorations de toutes les armes.
+- [ ] Lucky Winner — Gagner le jackpot d'une machine a sous.
+- [ ] Avid Inventor — Inventer au moins 100 objets.
+- [ ] “The ‘I’ in Team” - Rescuer — Sauver la Little Sister du Challenge Room.
+- [ ] Research PhD — Maximiser toute la recherche possible.
+- [ ] “A Shocking Turn of Events” - Rescuer — Sauver la Little Sister du Challenge Room.
+- [ ] A Man Chooses — Terminer en difficulte Survivor.
+- [ ] Brass Balls — Terminer en Hard sans Vita-Chamber.
+- [ ] “Worlds of Hurt” - Rescuer — Sauver la Little Sister du Challenge Room.
+- [ ] “The ‘I’ in Team” – Expert — Sauver la Little Sister en moins de 3:00.
+- [ ] Historian — Trouver les 122 journaux audio.
+- [ ] I Chose the Impossible — Terminer en Survivor sans Vita-Chamber.
+- [ ] “The ‘I’ in Team” – Collector — Trouver les quatre roses.
+- [ ] “The ‘I’ in Team” – Pacifist — Sauver la Little Sister sans detruire de tourelle mitrailleuse.
+- [ ] “A Shocking Turn of Events” – Collector — Trouver les dix roses.
+- [ ] “A Shocking Turn of Events” – Expert — Sauver la Little Sister en moins de 4:00.
+- [ ] “A Shocking Turn of Events” – Master Electrician — Charger la roue neuf fois.
+- [ ] “Worlds of Hurt” – Collector — Trouver les huit roses.
+- [ ] “Worlds of Hurt” – Expert — Sauver la Little Sister en moins de 15:00 en Medium ou plus.
+- [ ] “Worlds of Hurt” – Tough Guy — Sauver la Little Sister avec plasmides, tonics, marteau et camera.
+
+VERIFICATION FINALE
+
+1. Compteur de journaux : 122/122.
+2. Compteur de Little Sisters : 21/21 ; aucune recolte sur la run Savior.
+3. Compteur de recherche : toutes les familles, machines et Little Sisters maxees.
+4. Stations Power to the People : 12/12 ; six armes completement ameliorees.
+5. Slots : les quatre pistes completees ; Tonic Collector valide.
+6. Inventions : six types de munitions et 100 objets.
+7. Difficulte : A Man Chooses, I Chose the Impossible et Brass Balls verifiees.
+8. Challenge Rooms : quatre succes de The 'I' in Team, quatre de A Shocking
+   Turn of Events et quatre de Worlds of Hurt.
+9. Page Steam : 65/65.
+
+SOURCES DE CONTROLE
+
+- Liste officielle des 65 succes Steam :
+  https://steamcommunity.com/stats/409710/achievements
+- Guide de reperage des journaux, tonics, stations et challenges utilise pour
+  recouper les emplacements :
+  https://steamcommunity.com/sharedfiles/filedetails/?id=2228423965
+- Reference des trois Challenge Rooms :
+  https://bioshock.fandom.com/wiki/Challenge_Rooms
+- Walkthrough complementaire par niveau :
+  https://strategywiki.org/wiki/BioShock/Table_of_Contents
 
 FIN DU GUIDE - SANS SPOILER
