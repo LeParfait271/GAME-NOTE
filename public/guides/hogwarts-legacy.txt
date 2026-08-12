@@ -1,227 +1,886 @@
 HOGWARTS LEGACY
-GUIDE CHRONOLOGIQUE 100 % STEAM - SANS SPOILER
+FICHE PREMIUM CHRONOLOGIQUE - 100 % STEAM - SANS SPOILER
 
-Version de travail : 10 aout 2026
+Version editoriale : 12 aout 2026
+Plateforme : Steam
+AppID : 990080
 
-Ce parcours couvre les 45 succes Steam de l'AppID 990080 : progression,
-sorts, talents, collections, pages du guide, Merlin, Demiguise, coffres,
-arenes, animaux, plantes, potions, missions secondaires et les quatre
-succes lies aux maisons. Aucun succes online n'est requis.
+PROMESSE DE LA FICHE
 
-OBJECTIF
+Cette fiche organise Hogwarts Legacy comme une vraie feuille de route :
+progression principale, missions secondaires, quatre maisons, sorts, combat,
+collections, cartes, coffres, defis et nettoyage final. Elle explique aussi
+les pieges qui font perdre une conjuration ou obligent a refaire une mini-route.
+
+Les noms de quetes, de zones, de maisons, d'objets et de succes servent de
+reperes. Aucun retournement, aucun secret de scenario, aucune identite,
+aucune mort et aucune fin ne sont decrits.
+
+PERIMETRE STEAM COMPLET
 
 [ ] 45/45 succes Steam.
-[ ] Campagne et niveau 40.
-[ ] Toutes les missions principales et secondaires.
-[ ] Sorts, talents, equipement, potions, plantes et animaux.
-[ ] Merlin, Demiguise, coffres, pages, arenes et donjons.
-[ ] Toutes les collections et les combats demandes.
-[ ] Un passage dans chaque maison jusqu'a la quete de la carte.
+[ ] Campagne terminee jusqu'a The House Cup.
+[ ] Niveau 40 et tous les points de talent depenses.
+[ ] Tous les sorts, y compris les sorts optionnels utiles au controle.
+[ ] Collections : 603 elements de collection.
+[ ] 10 outils, 69 ennemis, 89 apparences, 150 pages Revelio.
+[ ] 13 betes, 75 traits, 42 manches de baguette, 140 conjurations.
+[ ] 16 ingredients et 13 balais.
+[ ] 168 coffres de collection.
+[ ] 83 Floo Flames.
+[ ] 95 epreuves de Merlin.
+[ ] 32 groupes de ballons.
+[ ] 33 statues de Demiguise.
+[ ] 2 arenes de combat obligatoires.
+[ ] 5 donjons Cairn.
+[ ] 12 types de plantes, 6 potions et 12 types de betes a reproduire.
+[ ] Toutes les missions secondaires et les trois series de compagnons.
+[ ] Quatre mini-routes de maisons jusqu'a la Chambre de la Carte.
+
+IMPORTANT : DEUX OBJECTIFS DIFFERENTS
+
+Le succes Steam Collector's Edition demande de completer la page Collections,
+pas forcement de ramasser les 236 pages du guide de terrain. Pour une fiche
+vraiment 100 % du jeu, cette soluce vise les 236 pages, les 603 collections,
+les 95 Merlin et tous les compteurs de carte.
+
+Les coffres ordinaires donnant seulement de l'or, une potion ou de l'equipement
+aleatoire ne sont pas tous obligatoires pour Collector's Edition. Les 168
+coffres de collection, eux, sont obligatoires et sont identifies dans le
+registre.
+
+LECTURE RAPIDE
+
+1. Suis la ROUTE CHRONOLOGIQUE.
+2. Fais chaque devoir de professeur des qu'il apparait.
+3. Apprends les sorts, puis ouvre les portes et coffres bloques.
+4. Reviens en nettoyage quand Alohomora III, le balai, les plantes et les
+   sorts de combat sont disponibles.
+5. Releve les coffres de collection par categorie, pas seulement par icone.
+6. Termine toutes les missions secondaires avant The House Cup.
+7. Fais les trois mini-routes de maisons restantes jusqu'a Jackdaw's Rest.
+8. Termine le checklist Steam final, 45 cases exactes.
+
+PLAN DE PARTIE RECOMMANDE
+
+PARTIE PRINCIPALE
+
+- Choisis la maison que tu veux vraiment jouer : elle servira a la sauvegarde
+  principale et a toute la progression de campagne.
+- Termine l'histoire, les devoirs, les compagnons, la salle sur demande et le
+  nettoyage libre avant de chercher le niveau 40.
+- Ne depense pas tout ton or en equipement aleatoire : les graines, recettes,
+  plantes et objets des marchands sont plus utiles pour Collection.
+- Conserve un emplacement manuel avant chaque achat de marchand important et
+  avant les coffres de collection de camp de bandits.
+
+MINI-ROUTES DES MAISONS
+
+- Les quatre succes de maison se valident pendant Jackdaw's Rest, au moment
+  d'atteindre la Map Chamber.
+- Une sauvegarde principale ne peut valider qu'une maison.
+- Apres avoir obtenu le succes de la maison principale, cree trois nouveaux
+  personnages et avance jusqu'a Jackdaw's Rest avec les trois maisons restantes.
+- Les mini-routes ne demandent pas de refaire la campagne complete : saute les
+  dialogues, cours vers les objectifs et arrete-toi immediatement apres la
+  validation de la Map Chamber.
+- Ordre conseille : maison principale, Hufflepuff, Gryffindor, Ravenclaw,
+  Slytherin. L'ordre n'a aucun effet sur les succes.
 
 GARDE-FOUS ABSOLUS
 
-- Les 45 succes sont hors ligne. Le contenu cosmetique du pack Dark Arts
-  n'est pas necessaire pour ce total Steam.
-- Choisis une maison pour ta vraie partie, mais fais les trois autres petites
-  routes de maison jusqu'a Jackdaw's Rest. Ce sont quatre sauvegardes ou
-  personnages differents, pas quatre campagnes completes.
-- N'utilise pas la selection de quete pour les collections de ta partie
-  principale. Garde un seul fichier de sauvegarde et fais les compteurs sur
-  cette partie ; la carte et les collections y restent coherentes.
-- Les lieux non accessibles au debut se nettoient avec les sorts et outils
-  obtenus plus tard. Marque-les dans une liste plutot que de tourner en rond.
-- Aucun nom de personnage, mort, identite, boss, fin ou retournement n'est
-  revele. Les noms de quetes sont utilises seulement pour l'ordre.
+- Aucun collectible de monde ouvert n'est definitivement manquable. Le
+  nettoyage post-game reste possible dans les zones utiles.
+- Les quatre maisons sont l'exception : une seule maison par sauvegarde
+  atteint son succes exclusif.
+- Demiguise : les statues ne sont recuperables qu'a la nuit et apres The
+  Caretaker's Lunar Lament. Passe l'heure dans la carte si une statue reste
+  opaque.
+- Alohomora III est indispensable pour les portes de niveau 3. Ne conclus pas
+  qu'un coffre est bugue avant d'avoir rendu assez de statues a Gladwin Moon.
+- Papillons : accepte Follow the Butterflies a Hogsmeade et termine-la tout
+  de suite. Ne suis pas un autre groupe de papillons avant d'avoir ouvert le
+  coffre de cette mission : cela peut laisser une conjuration inaccessible.
+- Coffres de camp de bandits : si le coffre donne une recompense de trait qui
+  ne se credite pas, recharge l'autosave avant d'ouvrir le coffre.
+- Chaque recompense de palier de Challenge doit etre reclamee manuellement
+  dans le menu. Un palier termine mais non reclame ne complete pas Collection.
+- Les 95 Merlin Trials exigent des feuilles de Mallowsweet. Fais pousser une
+  reserve dans la Room of Requirement avant la grande boucle de nettoyage.
+- Les sorts sont parfois livres par les Assignments, pas seulement par
+  l'histoire. Termine chaque devoir avant de conclure que Spell Master bloque.
 
-MISSABLES ET FENETRES
+MISSIONS ET FENETRES A SURVEILLER
 
-- The Auror's Apprentice, The Gryffindor in the Graveyard, The Wise Owl et
-  The Toast of the Town sont les quatre succes manquables sur une sauvegarde :
-  chacun demande une maison differente jusqu'a Jackdaw's Rest.
-- Avant de commencer chaque mini-route de maison, cree une sauvegarde separee
-  et note le nom de la maison choisie. Ne supprime pas la premiere partie.
-- Les autres succes peuvent etre nettoyes apres la campagne, y compris les
-  collections, les combats, les missions secondaires et le niveau 40.
-- Pour Finishing Touches, utilise Ancient Magic sur chaque famille d'ennemi
-  rencontree. Valide les types pendant la campagne au lieu d'esperer les
-  retrouver tous en post-jeu.
-- Pour Spilled Milk, garde Flipendo equipe et retourne voir des vaches lorsque
-  le sort est disponible. Le compteur demande dix renversements.
+- Les quetes de Sebastian peuvent apprendre les trois malefices impardonnables.
+  Pour un checklist sans ambiguite, apprends-les quand les choix apparaissent.
+- Les series de Natty, Poppy et Deek restent faisables apres l'histoire.
+- Les quetes de maison, elles, doivent etre faites sur quatre sauvegardes.
+- The House Cup est le dernier jalon de l'histoire : termine les missions
+  secondaires, les collections et le niveau 40 avant de le lancer si tu veux
+  voir le 100 % se fermer proprement.
+- Les combats d'ennemis rares ne sont pas tous necessaires pour Finishing
+  Touches si tu suis la methode d'utilisation d'Ancient Magic sur chaque
+  nouveau type rencontre.
 
-ORDRE DE PARTIE RECOMMANDE
+TABLEAU DES COLLECTIONS
 
-1. Partie principale avec une maison choisie, quetes et exploration.
-2. Outils de collecte : Revelio, Alohomora, balai, Room of Requirement.
-3. Nettoyage de la carte, collections, Merlin et missions secondaires.
-4. Niveau 40, talents, combats et derniers types d'ennemis.
-5. Trois mini-routes de maisons supplementaires jusqu'a Jackdaw's Rest.
-6. Verification Steam des 45 succes.
+- Tools : 10.
+- Enemies : 69.
+- Appearances : 89.
+- Revelio Pages : 150.
+- Beasts : 13.
+- Traits : 75.
+- Wand Handles : 42.
+- Conjurations : 140.
+- Ingredients : 16.
+- Brooms : 13.
+- Collection Chests : 168.
+- Total de la page Collection : 603.
 
-DEBUT - ARRIVEE ET PREMIERS SORTS
+COMPTEURS DE MONDE
 
-- Termine le tutoriel et active les Flammes de cheminee des que tu en vois.
-  Le voyage rapide facilite le nettoyage de chaque region.
-- Apprends tous les sorts de cours et de missions. Quand un nouveau sort
-  arrive, teste-le sur un groupe d'ennemis et depense un premier point de
-  talent des que le menu est disponible.
-- Dans Hogwarts, lance Revelio dans chaque salle, couloir et escalier.
-  Les pages du guide sont prioritaires : elles donnent de l'experience et
-  alimentent la collection.
-- Ouvre les coffres visibles, suis les papillons jusqu'au tresor et note les
-  coffres verrouilles. Ne force pas les portes tant qu'Alohomora n'est pas
-  disponible.
-- Dans les premiers combats, fais varier les combos et lance Ancient Magic
-  sur les familles ennemies. Evite de rester sur un seul sort.
+- Floo Flames : 83.
+- Merlin Trials : 95.
+- Balloon Sets : 32.
+- Demiguise Statues : 33, dont 3 donnees pendant la quete de Gladwin.
+- Battle Arenas : 2 obligatoires. Dark Arts Battle Arena reste facultative.
+- Cairn Dungeons : 5.
+- Astronomy Tables : 15.
+- Landing Platforms : 20.
+- Ancient Magic Hotspots : 20.
+- Hogwarts Secrets : 3.
+- Infamous Foes : 18.
+- Butterfly Chests : 15.
+- Field Guide Pages : 236 pour la fouille complete, environ 180 suffisent
+  pour les recompenses de collection.
+- House Tokens de Daedalian Keys : 16.
 
-PREMIER CHOIX DE MAISON ET MINI-ROUTE SPECIFIQUE
+ROUTE CHRONOLOGIQUE
 
-- Choisis librement ta maison pour la partie principale. Une fois la route
-  de la maison lancee, suis la quete principale jusqu'a Jackdaw's Rest.
-- A la fin de cette route, laisse le succes de maison se valider, puis
-  reviens a ta sauvegarde principale pour continuer la campagne.
-- Apres la vraie partie, recommence trois personnages tres rapides, un pour
-  chacune des maisons absentes. Termine uniquement les cours, la rencontre
-  de maison, la route de la carte et Jackdaw's Rest.
-- Checklist des quatre noms : The Auror's Apprentice, The Gryffindor in the
-  Graveyard, The Wise Owl et The Toast of the Town. Ne te fie pas au nom de
-  ta sauvegarde : verifie la maison dans l'ecran de selection.
+CHAPITRE 1 - INTRODUCTION ET TRI
 
-HOGWARTS - PREMIER PASSAGE COMPLET
+[ ] Termine The Path to Hogwarts.
+[ ] Passe la Sorting Ceremony et choisis ta maison principale.
+[ ] Apprends Revelio, Lumos, Accio, Levioso et les sorts de base.
+[ ] Dans Hogwarts, ouvre le menu Collections pour voir les categories vides.
+[ ] Ramasse les pages Revelio accessibles autour du Grand Staircase, du Great
+    Hall, de la Library Annex et de la Bell Tower Wing.
+[ ] N'essaie pas de forcer les coffres de serrure avant Alohomora.
+[ ] Pour The Sort Who Makes an Entrance, laisse la ceremonie se terminer.
+[ ] Pour First Class Student, assiste a ta premiere classe.
 
-- Fais les cours et les quetes principales disponibles avant de partir dans
-  les hameaux. Chaque nouveau sort ouvre des pages, puzzles et coffres.
-- Explore les ailes du chateau avec Revelio. Cherche les pages volantes,
-  braseros, statues, tableaux, miroirs et puzzles au fur et a mesure.
-- Des que les talents sont ouverts, depense cinq points puis vise une
-  branche complete. Garde les points suivants pour acheter tous les talents.
-- Fais les enigmes des portes et les coffres de maison au passage. Pour les
-  coffres aux yeux, utilise la furtivite quand elle est disponible.
-- Monte sur le point le plus haut du chateau avec les outils de traversal et
-  la quete qui ouvre la zone. Valide Room with a View sans quitter la partie.
+CHAPITRE 2 - HOGSMEADE ET LES PREMIERS SORTS
 
-REGION EXTERIEURE ET PREMIERS HAMEAUX
+[ ] Termine Welcome to Hogsmeade.
+[ ] Utilise Ancient Magic plusieurs fois sur des ennemis apres le tutoriel :
+    A Keen Sense of Spell peut parfois attendre une deuxieme ou troisieme
+    utilisation, meme si le premier lancer etait pendant l'apprentissage.
+[ ] Explore les commerces et achete un objet a un marchand pour Asking Price.
+[ ] Achete la graine de Mandrake chez Dogweed and Deathcap des que possible.
+[ ] Garde la graine et fais pousser des mandragores dans la Room of Requirement.
+[ ] Commence a accumuler les pages Revelio de Hogsmeade sans chercher encore
+    les portes Alohomora II et III.
+[ ] Repere Follow the Butterflies, mais accepte et termine cette mission avant
+    tout autre groupe de papillons.
+[ ] Apprends les potions et reserve des ingredients pour les six recettes.
+[ ] Controle le premier coffre de collection de Hogsmeade et sa categorie.
 
-- Active toutes les Flammes de cheminee, ouvre les coffres, lance Revelio
-  dans les hameaux et accepte toutes les missions secondaires.
-- Quand les papillons apparaissent sur la carte, suis-les jusqu'au coffre.
-  Fais au moins une chasse aux papillons pendant la campagne.
-- Termine les premiers defis de Merlin et depense les emplacements
-  d'equipement debloques. Ameliore une piece, puis trois fois la meme piece.
-- Lance les arenes de combat et utilise des combinaisons de sorts. Une arene
-  n'a pas besoin d'etre faite avant la fin, mais la faire tot entraine les
-  compteurs d'ennemis.
-- Fais les premiers elevages et plantes dans la Room of Requirement des que
-  les installations sont disponibles. Chaque type doit etre cultive et
-  chaque type de bete doit etre eleve pour les succes.
+CHAPITRE 3 - HOGWARTS, DEVOIRS ET COMBAT
 
-SORTS, TALENTS ET COMBAT
+[ ] Termine Charms Class et Defence Against the Dark Arts Class.
+[ ] Termine les premiers devoirs qui apprennent Incendio, Depulso, Descendo,
+    Flipendo, Confringo, Diffindo et les autres sorts.
+[ ] Achete 5 points de talent apres l'ouverture du menu des talents pour
+    A Talent for Spending.
+[ ] Apprends Disillusionment et Petrificus Totalus dans Secrets of the
+    Restricted Section.
+[ ] Commence Ends Petrify the Means : utilise Petrificus Totalus sur 50
+    ennemis differents ou repetes en furtivite.
+[ ] Fais une sauvegarde avant les portes de maison et les coffres de puzzle.
+[ ] Ouvre les Daedalian Keys quand la quete apparait et recupere les 16 tokens.
+[ ] Ne depense pas les tokens avant d'avoir ouvert le coffre de maison associe.
+[ ] Active les Floo Flames du chateau en passant par chaque aile.
+[ ] Fais Revelio dans les salles, couloirs, ponts et tours : les pages de
+    Revelio forment une collection separee des pages volees ou en papillon.
 
-- Apprends tous les sorts demandes par les cours, les assignments et les
-  relations. Les trois malefices impardonnables ne sont pas necessaires pour
-  The Spell Master, mais garde les quetes de relations jusqu'a leur fin.
-- Depense tous les points de talent avant la fin. Le niveau 40 et les
-  challenges donnent assez d'experience si tu explores sans rusher.
-- Pour The Ends Petrify the Means, utilise Petrificus Totalus sur 50 ennemis
-  en approche furtive. Les camps avec plusieurs cibles sont les plus fiables.
-- Pour The Root of the Problem, utilise une mandragore sur dix types
-  d'ennemis differents. Plante-les dans la Room of Requirement et stocke-les.
-- Pour Finishing Touches, fais une liste de chaque famille d'ennemi et
-  utilise Ancient Magic une fois sur chacune. Les ennemis uniques de quete
-  doivent etre notes pendant leur rencontre.
-- Pour Raising Expectations, garde un groupe d'ennemis faible, augmente le
-  combo sans te faire toucher et atteins 100. L'arene est un endroit sur.
-- Pour Spilled Milk, renverse une vache dix fois avec Flipendo, sans tuer
-  l'animal et en comptant les notifications.
+CHAPITRE 4 - PREMIERE BOUCLE DE CAMPAGNE
 
-ROOM OF REQUIREMENT
+[ ] Termine Welcome to Hogsmeade et les combats de troll pour Troll with the
+    Punches.
+[ ] Termine The Map Chamber et conserve une sauvegarde de maison avant
+    Jackdaw's Rest si tu veux utiliser cette sauvegarde pour un autre test.
+[ ] Termine Jackdaw's Rest dans la maison principale : le succes de la maison
+    se valide en atteignant la Map Chamber.
+[ ] Ouvre la Room of Requirement avec The Room of Requirement.
+[ ] Place une table de plantes, une station de potions et un Enchanted Loom.
+[ ] Ameliore un objet une fois pour Loom for Improvement.
+[ ] Ameliore le meme objet trois fois pour Third Time's a Charm.
+[ ] Cultive toutes les plantes requises : dictame, mauve douce, mandragore,
+    choux mordants, tentacules venimeuses, figuier, fluxweed et shrivelfig.
+[ ] Brasse les six potions : Wiggenweld, Edurus, Maxima, Focus, Thunderbrew
+    et Invisibility.
+[ ] Capture les especes dans les vivariums des que le Nab-Sack est obtenu.
+[ ] Reproduis chaque type de bete avec les enclos d'elevage de Deek.
 
-- Debloque les tables de pots, les pots de plantes, le composteur et les
-  vivariums. Fais pousser chaque type de plante et brasse chaque type de
-  potion au moins une fois.
-- Capture puis eleve toutes les especes de bete. Une seule variation de
-  couleur ne compte pas comme une nouvelle espece.
-- Recupere les materiaux dans les vivariums, ameliore l'equipement et remplis
-  les emplacements de traits. Les collections se ferment plus vite avec ce
-  circuit qu'avec l'achat aveugle chez les marchands.
-- Apprends a identifier les objets de collection de la Room. Les pages,
-  recettes, sorts et objets cosmetiques sont tous a consulter dans le menu.
+CHAPITRE 5 - DEVOIRS ET SORTS
 
-MERLIN, DEMIGUISE ET ALOHOMORA
+[ ] Fais les Assignments dans l'ordre d'apparition du journal.
+[ ] Termine les devoirs de Garlick pour Wingardium Leviosa, Flipendo et les
+    plantes de combat.
+[ ] Termine les devoirs de Kogawa pour les sorts de controle du balai.
+[ ] Termine les devoirs de Sharp pour les potions de combat.
+[ ] Termine les devoirs de Ronen, Hecat, Howin, Onai et Binns.
+[ ] Termine les devoirs de Natsai et de Sebastian quand ils se debloquent.
+[ ] Apprends les malefices optionnels de la ligne de Sebastian pour fermer la
+    liste de sorts sans dependance a un choix.
+[ ] Ouvre l'onglet Spell Collection et verifie chaque emplacement.
+[ ] Pour Spell Master, controle que chaque case est creditee, pas seulement
+    que le sort apparait dans la roue.
 
-- Fais les epreuves de Merlin en revenant avec le sort ou la plante adaptee.
-  Complete tous les paliers pour Merlin's Beard!.
-- Apprends les niveaux d'Alohomora et reviens ouvrir les portes et coffres.
-  La collecte des statues de Demiguise est liee a la nuit : passe le temps
-  avant de chercher une statue dans une zone.
-- Fais un tour nocturne de Hogwarts, des villages et des regions exterieures.
-  Les statues Demiguise deja ramassees ne reapparaissent pas.
-- Controle la carte par region, pas seulement la carte globale. Un pourcentage
-  bloque vient souvent d'un coffre de camp, d'une grotte ou d'un donjon.
+CHAPITRE 6 - RELATIONS ET ROOM OF REQUIREMENT
 
-MISSIONS SECONDAIRES ET ARENES
+DEEK - RISING FROM THE ASHES
 
-- Accepte chaque mission secondaire, y compris les missions de relation. Le
-  succes The Good Samaritan demande de toutes les terminer.
-- Utilise le journal de quetes pour ne pas oublier une mission disponible
-  dans un hameau avant de partir pour la prochaine zone.
-- Decouvre et termine tous les donjons Cairn. Les grottes facultatives et les
-  arenes de combat sont a faire avant le nettoyage final de la carte.
-- Fais toutes les arenes de combat. Les victoires comptent meme si tu changes
-  de difficulte, mais garde une liste des arenas deja terminees.
-- Termine les challenges de combat, exploration, quetes, collections et
-  Room of Requirement. Chaque palier debloque parfois un objet de collection.
+[ ] The Plight of the House-Elf.
+[ ] Foal of the Dead.
+[ ] Phoenix Rising.
+[ ] Capture, soigne et place des betes dans les vivariums.
+[ ] Termine la serie de Deek pour Rising From the Ashes.
 
-COLLECTIONS ET FIN DE CAMPAGNE
+POPPY SWEETING - BEAST FRIENDS
 
-- Pour Collector's Edition, ouvre l'onglet Collections et ferme chaque
-  categorie : sorts, traits, recettes, meubles, montures, apparences,
-  objets de quete et objets obtenus dans les coffres.
-- La carte doit etre recoupee avec les pages du guide, les coffres de
-  collection, les coffres de camp, les coffres aux yeux, les papillons,
-  les Demiguise, les Merlin et les donjons.
-- Termine la campagne principale puis le contenu de fin de jeu. Ne lance pas
-  la derniere ceremonie tant que les missions secondaires et les collections
-  manquables de ta partie ne sont pas relues.
-- Atteins le niveau 40, depense tous les talents et confirme les quatre
-  categories de challenges. Le post-jeu reste adapte aux derniers combats.
+[ ] A Dragon Debrief.
+[ ] Poached Egg.
+[ ] Surprise Meeting.
+[ ] The Centaur and the Stone.
+[ ] It's in the Stars.
+[ ] A Bird in the Hand.
+[ ] Poppy Blooms.
+[ ] Termine les 5 donjons Cairn lies a la progression :
+    Collector's Cave, Moonstone Garden et les zones associees.
+[ ] Termine la serie pour Beast Friends.
 
-CHECKLIST DES 45 SUCCES
+SEBASTIAN SALLOW - A SALLOW GRAVE
 
-[ ] Sortie, premiers cours et progression principale.
-[ ] Troll avec le Punches et combo de 100.
-[ ] Tous les sorts.
-[ ] 5 points de talent puis tous les points.
-[ ] Une piece amelioree puis la meme trois fois.
-[ ] Papillons, tresor et collections.
-[ ] Tous les niveaux d'un challenge.
-[ ] Toutes les missions principales et The House Cup.
-[ ] Tous les talents de combat, de furtivite et de Room of Requirement.
-[ ] 50 Petrificus Totalus.
-[ ] 10 types d'ennemis touches par une mandragore.
-[ ] Ancient Magic sur chaque famille d'ennemis.
-[ ] Potions : chaque type brasse.
-[ ] Plantes : chaque type cultive.
-[ ] Animaux : chaque type eleve.
-[ ] Toutes les pages du guide et toutes les collections.
-[ ] Toutes les statues Demiguise et tous les niveaux d'Alohomora.
-[ ] Toutes les epreuves de Merlin.
-[ ] Tous les donjons Cairn et toutes les arenes.
-[ ] Toutes les missions secondaires.
-[ ] Niveau 40.
-[ ] The Auror's Apprentice.
-[ ] The Gryffindor in the Graveyard.
-[ ] The Wise Owl.
-[ ] The Toast of the Town.
+[ ] In the Shadow of the Bloodline.
+[ ] In the Shadow of the Study.
+[ ] In the Shadow of Discovery.
+[ ] In the Shadow of Time.
+[ ] In the Shadow of Hope.
+[ ] In the Shadow of the Relic.
+[ ] In the Shadow of Fate.
+[ ] In the Shadow of Friendship.
+[ ] Apprends Crucio, Imperio et Avada Kedavra lorsque les choix apparaissent.
+[ ] Entre dans Feldcroft Catacomb pendant In the Shadow of Time.
+[ ] Termine la serie pour A Sallow Grave.
 
-VERIFICATION FINALE - 45/45
+NATSAI ONAI - THE AVENGING GAZELLE
 
-[ ] Sauvegarde principale : histoire, quetes, collections et carte.
-[ ] Combat, sorts, talents, plantes, potions et animaux.
-[ ] Trois mini-routes de maisons supplementaires.
-[ ] Profil Steam : 45/45 succes.
+[ ] The Lost Child.
+[ ] Mum's the Word.
+[ ] A Basis for Blackmail.
+[ ] Grief and Vengeance.
+[ ] Finding Focus.
+[ ] Harlow's Last Stand.
+[ ] Acting on Instinct.
+[ ] Fais la derniere mission apres les prerequis de campagne.
+[ ] Termine la serie pour The Avenging Gazelle.
+
+CHAPITRE 7 - MANDRAKES, COMBOS ET ANCIENT MAGIC
+
+[ ] Stun 10 types d'ennemis differents avec une Mandrake pour The Root of the
+    Problem. Les camps de bandits permettent de faire plusieurs types d'un coup.
+[ ] Utilise Petrificus Totalus 50 fois pour Ends Petrify the Means.
+[ ] Garde un grand camp intact et fais monter un combo a 100 sans subir de
+    degats. Evite les coups critiques trop rapides, bloque ou esquive entre
+    chaque attaque pour Raising Expectations.
+[ ] Utilise Ancient Magic sur chaque nouveau type d'ennemi. La collection
+    Enemy donne 69 types, mais le succes se valide avec le suivi interne des
+    types requis : ne laisse jamais un nouveau type sans lancer.
+[ ] Fais les duels de combat des que les objectifs apparaissent dans Challenges.
+[ ] Termine les arenas de combat obligatoires pour Rise to the Challenges.
+
+CHAPITRE 8 - CAMPAGNE AVANCEE ET CARTE DU MONDE
+
+[ ] Termine The Helm of Urtkot et entre dans Collector's Cave.
+[ ] Termine les Trials de Charles Rookwood et Niamh Fitzgerald.
+[ ] Termine Fire and Vice et valide The Defender of Dragons.
+[ ] Termine San Bakar's Trial et valide Grappling with a Graphorn.
+[ ] Consulte la carte du monde apres l'ouverture de la cote sud.
+[ ] Active les Floo Flames avant de chercher les collectibles.
+[ ] Achete le balai le plus performant disponible et lance les courses
+    d'Imelda quand Flight Test apparait.
+[ ] Termine les trois courses demandees : Irondale, South Coast Course et
+    Hogwarts Quidditch Pitch, pour Flight the Good Flight.
+[ ] Termine les missions qui debloquent les derniers sorts avant le nettoyage.
+[ ] Ne lance pas The House Cup avant le controle de niveau et de collection.
+
+CHAPITRE 9 - HOUSE CUP ET FIN DE CAMPAGNE
+
+[ ] Controle les missions principales restantes.
+[ ] Controle les lignes Natty, Poppy, Sebastian et Deek.
+[ ] Controle les competences, l'equipement, les potions et les plantes.
+[ ] Termine The House Cup pour The Seeker of Knowledge.
+[ ] Laisse la sauvegarde revenir au monde ouvert.
+[ ] Atteins le niveau 40 par quetes, defis, ennemis, pages et explorations.
+[ ] Depense tous les points de talent pour Savvy Spender.
+[ ] Fais le nettoyage des portes et coffres maintenant que tous les sorts sont
+    acquis.
+
+REGISTRE DES CINQ DONJONS CAIRN
+
+[ ] Collector's Cave : entre pendant The Helm of Urtkot.
+[ ] Dale Family Tomb : Hogwarts Valley, a l'est de Brocburrow.
+[ ] Feldcroft Catacomb : entre pendant In the Shadow of Time.
+[ ] Moonstone Garden : entre pendant The Centaur and the Stone.
+[ ] Tomb of Treachery : Poidsear Coast, sous le pont au nord.
+[ ] Entre dans chacun des cinq donjons, meme si la quete semble deja terminee.
+[ ] Verifie The Intrepid Explorer apres le cinquieme entree.
+
+REGISTRE DES ARENAS
+
+[ ] North Ford Bog Battle Arena.
+[ ] Feldcroft Battle Arena.
+[ ] Dark Arts Battle Arena : facultative pour les 45 succes de la version
+    standard, mais fais-la si tu veux fermer tous les combats du monde.
+[ ] Termine les vagues de chaque arene et laisse l'ecran de recompense se fermer.
+
+REGISTRE DES 95 MERLIN TRIALS
+
+PREPARATION
+
+[ ] Termine Trials of Merlin pour activer les epreuves.
+[ ] Plante une grande reserve de Mallowsweet dans la Room of Requirement.
+[ ] Utilise Revelio a cheval ou en balai pour faire apparaitre les icones.
+[ ] Dans Challenges, reclame chaque palier 2, 8, 18, 32 et 52.
+[ ] Les types de solution sont :
+    - pyres : Confringo sur les braseros ;
+    - rochers : Wingardium Leviosa jusqu'aux socles ;
+    - cubes : Flipendo pour aligner les symboles ;
+    - spheres : Basic Cast sur les groupes de pierres ;
+    - piliers : Confringo sur les colonnes ;
+    - lucioles : Lumos pour guider les essaims ;
+    - reparo : Reparo sur les colonnes ;
+    - pierres de saut : franchir tous les blocs sans toucher le sol.
+
+COMPTEURS PAR REGION
+
+[ ] South Hogwarts Region : 15, dont la premiere de la quete.
+[ ] North Ford Bog : 4.
+[ ] Forbidden Forest : 3.
+[ ] Hogsmeade Valley : 5.
+[ ] North Hogwarts Region : 5.
+[ ] Hogwarts Valley : 16.
+[ ] Feldcroft Region : 16.
+[ ] South Sea Bog : 2.
+[ ] Poidsear Coast : 10.
+[ ] Marunweem Lake : 4.
+[ ] Manor Cape : 5.
+[ ] Cragcroftshire : 5.
+[ ] Clagmar Coast : 5.
+[ ] Total carte : 95/95.
+
+BOUCLE RAPIDE PAR REGION
+
+[ ] South Hogwarts : fais les 15 icones en partant de Lower Hogsfield et en
+    remontant vers le chateau.
+[ ] North Ford Bog : boucle du marais vers Pitt-Upon-Ford.
+[ ] Forbidden Forest : parcours des clairieres et des collines autour des Floo.
+[ ] Hogsmeade Valley : boucle des hamlets et des routes de montagne.
+[ ] North Hogwarts : suis les hauteurs, puis les rives.
+[ ] Hogwarts Valley : fais la vallee par l'ouest, les ruines et Brocburrow.
+[ ] Feldcroft : fais les falaises, Feldcroft, Catacomb et les cotes.
+[ ] South Sea Bog : nettoie la rive et la zone de marais.
+[ ] Poidsear Coast : route cotiere, Tomb of Treachery puis hautes falaises.
+[ ] Marunweem Lake : lac, hameaux et falaises.
+[ ] Manor Cape : ruines, cote et hauts plateaux.
+[ ] Cragcroftshire : routes de mine et collines autour de Cragcroft.
+[ ] Clagmar Coast : boucle finale de la cote et des ruines.
+
+REGISTRE DES DEMIGUISE
+
+[ ] Les 3 premieres statues sont liees a The Caretaker's Lunar Lament.
+[ ] Hogwarts : 10 statues nocturnes.
+[ ] Hogsmeade : 9 statues nocturnes.
+[ ] World Map : 11 statues nocturnes.
+[ ] Passe la carte a la nuit avant chaque boucle.
+[ ] Alohomora I : portes simples, donnees par la quete.
+[ ] Alohomora II : rendre assez de lunes a Gladwin Moon.
+[ ] Alohomora III : rendre le palier suivant puis ouvrir les portes finales.
+[ ] Controle la carte : toutes les zones indiquent 33/33.
+
+REGISTRE DES BALLOONS
+
+[ ] 32 groupes de ballons, 5 ballons par groupe.
+[ ] Fais-les au balai, en suivant les lignes de couleur sur la carte.
+[ ] Un groupe peut apparaitre gris tant que la zone n'est pas survolee.
+[ ] Apres chaque groupe, ouvre Challenges pour reclamer la recompense de balai.
+[ ] Controle les collections Brooms et les apparences associees.
+
+REGISTRE DES FLOO FLAMES
+
+[ ] Hogwarts : toutes les ailes, salles et tours.
+[ ] Hogsmeade : chaque rue, maison accessible et sortie du village.
+[ ] Highlands nord : North Ford Bog, Forbidden Forest, North Hogwarts.
+[ ] Highlands centre : Hogsmeade Valley, Hogwarts Valley, Feldcroft.
+[ ] Highlands sud : South Sea Bog, Poidsear Coast, Marunweem Lake.
+[ ] Cote finale : Manor Cape, Cragcroftshire, Clagmar Coast.
+[ ] Total : 83/83 vertes sur la carte.
+
+INDEX DE LA ROUTE PRINCIPALE
+
+Le journal peut afficher les missions dans un ordre légèrement different
+selon les devoirs et les activites deja faites. La sequence ci-dessous est
+l'ordre de controle : ne passe a la ligne suivante qu'apres avoir verifie
+les sorties, sorts et recompenses indiquees dans le chapitre correspondant.
+
+[ ] 01. The Path to Hogwarts.
+[ ] 02. Welcome to Hogwarts.
+[ ] 03. Charms Class.
+[ ] 04. Defence Against the Dark Arts Class.
+[ ] 05. Weasley After Class.
+[ ] 06. Professor Ronen's Assignment.
+[ ] 07. Welcome to Hogsmeade.
+[ ] 08. The Locket's Secret.
+[ ] 09. Professor Hecat's Assignment 1.
+[ ] 10. Crossed Wands: Round 1.
+[ ] 11. Crossed Wands: Round 2.
+[ ] 12. Spell Combination Practice 1.
+[ ] 13. Secrets of the Restricted Section.
+[ ] 14. Tomes and Tribulations.
+[ ] 15. Herbology Class.
+[ ] 16. Potions Class.
+[ ] 17. The Girl from Uagadou.
+[ ] 18. Trials of Merlin.
+[ ] 19. Route de maison : Ollivander's Heirloom (Ravenclaw), The Hunt for the
+    Missing Pages (Gryffindor), Prisoner of Love (Hufflepuff) ou Scrope's Last
+    Hope (Slytherin).
+[ ] 20. Professor Hecat's Assignment 2.
+[ ] 21. Jackdaw's Rest.
+[ ] 22. Flying Class.
+[ ] 23. In the Shadow of the Undercroft.
+[ ] 24. The Room of Requirement.
+[ ] 25. The Map Chamber.
+[ ] 26. Percival Rackham's Trial.
+[ ] 27. Beasts Class.
+[ ] 28. The Caretaker's Lunar Lament.
+[ ] 29. The Helm of Urtkot.
+[ ] 30. In the Shadow of the Estate.
+[ ] 31. The Elf, The Nab-Sack, and the Loom.
+[ ] 32. Astronomy Class.
+[ ] 33. Professor Garlick's Assignment 1.
+[ ] 34. The High Keep.
+[ ] 35. Back on the Path.
+[ ] 36. Charles Rookwood's Trial.
+[ ] 37. Fire and Vice.
+[ ] 38. Professor Weasley's Assignment.
+[ ] 39. In the Shadow of the Mine.
+[ ] 40. It's All Gobbledegook.
+[ ] 41. The Headmistress Speaks.
+[ ] 42. The Polyjuice Plot.
+[ ] 43. Niamh Fitzgerald's Trial.
+[ ] 44. In the Shadow of the Mountain.
+[ ] 45. Lodgok's Loyalty.
+[ ] 46. San Bakar's Trial.
+[ ] 47. Wand Mastery.
+[ ] 48. The Final Repository.
+[ ] 49. Weasley's Watchful Eye.
+[ ] 50. The House Cup.
+
+NOTE SUR LE COMPTEUR : le journal regroupe certains devoirs et missions
+obligatoires dans les chapitres de la campagne. Le parcours comporte donc
+plus de libelles que le compteur interne des "Main Quests". Le but ici est
+de ne rien oublier, pas de forcer un total artificiel.
+
+REGISTRE DES 57 MISSIONS SECONDAIRES STEAM
+
+Ces 57 missions alimentent The Good Samaritan. Les missions de relation, les
+devoirs et les quatre missions de maison sont controlees dans leurs registres
+separes. Sur PC, Minding Your Own Business n'est pas une mission Steam a
+ajouter au total : elle reste une exclusivite console dans les listes qui la
+mentionnent.
+
+HOGWARTS CASTLE
+
+[ ] 01. 'Beeting a Curse'.
+[ ] 02. 'Dissending' for Sweets.
+[ ] 03. 'Mer-Ky' Depths.
+[ ] 04. All's Well That Ends Bell.
+[ ] 05. Cache in the Castle.
+[ ] 06. Crossed Wands: Round 1.
+[ ] 07. Crossed Wands: Round 2.
+[ ] 08. Crossed Wands: Round 3.
+[ ] 09. Flying off the Shelves.
+[ ] 10. Foal of the Dead.
+[ ] 11. Gobs of Gobstones.
+[ ] 12. History of Magic Class.
+[ ] 13. Interior Decorating.
+[ ] 14. Like a Moth to a Frame.
+[ ] 15. Phoenix Rising.
+[ ] 16. Portrait in a Pickle.
+[ ] 17. Spell Combination Practice 1.
+[ ] 18. Spell Combination Practice 2.
+[ ] 19. Summoner's Court: Match 1.
+[ ] 20. Summoner's Court: Match 2.
+[ ] 21. Summoner's Court: Match 3.
+[ ] 22. Summoner's Court: Match 4.
+[ ] 23. Summoner's Court: Match 5.
+[ ] 24. The Daedalian Keys.
+[ ] 25. The Hall of Herodiana.
+[ ] 26. The Man Behind the Moons.
+[ ] 27. The Plight of the House-Elf.
+[ ] 28. The Tale of Rowland Oakes.
+[ ] 29. Venomous Valour.
+
+HOGSMEADE ET VALLEE DE HOGSMEADE
+
+[ ] 30. Follow the Butterflies.
+[ ] 31. A Demanding Delivery.
+[ ] 32. Flight Test.
+[ ] 33. Sweeping the Competition.
+[ ] 34. The Sky is the Limit.
+[ ] 35. Venomous Revenge.
+[ ] 36. A Friend in Deed.
+[ ] 37. Take the Biscuit.
+[ ] 38. Spot Removal.
+[ ] 39. Tangled Web.
+[ ] 40. The Unique Unicorn.
+[ ] 41. Breaking Camp.
+[ ] 42. Brother's Keeper.
+[ ] 43. Ghost of our Love.
+
+SUD ET CENTRE DE LA CARTE
+
+[ ] 44. Absconder Encounter.
+[ ] 45. Carted Away.
+[ ] 46. The Lost Astrolabe.
+[ ] 47. Well, Well, Well.
+[ ] 48. Kidnapped Cabbage.
+[ ] 49. Troll Control.
+[ ] 50. E-Vase-Ive Manoeuvre.
+[ ] 51. A Thief in the Night.
+
+COTE SUD ET MANOR CAPE
+
+[ ] 52. The Hippogriff Marks The Spot.
+[ ] 53. Birds of a Feather.
+[ ] 54. Cursed Tomb Treasure.
+[ ] 55. Solved by the Bell.
+[ ] 56. Rescuing Rococo.
+[ ] 57. Sacking Selwyn.
+
+CONTROLE DES MISSIONS SECONDAIRES
+
+[ ] Le compteur du journal affiche 57/57.
+[ ] Sacking Selwyn : retourner voir la donneuse de mission apres la cible,
+    sinon le compteur de defi peut ne pas se mettre a jour.
+[ ] Well, Well, Well : parler au puits puis revenir au point indique par la
+    carte ; cette mission est souvent absente de la carte.
+[ ] Summoner's Court : revenir cinq fois au terrain, jusqu'au Match 5.
+[ ] The Unique Unicorn : capturer la licorne demandee puis terminer la remise.
+[ ] The Hippogriff Marks The Spot : prendre la carte dans le camp de Poidsear
+    avant de parcourir les ruines.
+[ ] Chaque mission terminee apparait dans Quetes > terminees.
+
+REGISTRE DES 12 DEVOIRS
+
+[ ] Madam Kogawa's Assignment 1.
+[ ] Madam Kogawa's Assignment 2.
+[ ] Professor Garlick's Assignment 1.
+[ ] Professor Garlick's Assignment 2.
+[ ] Professor Hecat's Assignment 1.
+[ ] Professor Hecat's Assignment 2.
+[ ] Professor Howin's Assignment.
+[ ] Professor Onai's Assignment.
+[ ] Professor Sharp's Assignment 1.
+[ ] Professor Sharp's Assignment 2.
+[ ] Professor Ronen's Assignment.
+[ ] Professor Weasley's Assignment.
+
+CONTROLE DES SORTS
+
+[ ] Apres chaque devoir, retourner voir le professeur et apprendre le sort.
+[ ] Accio, Depulso, Descendo et Flipendo.
+[ ] Incendio, Confringo, Bombarda et Diffindo.
+[ ] Levioso, Arresto Momentum, Glacius et Transformation.
+[ ] Lumos, Reparo, Disillusionment et Wingardium Leviosa.
+[ ] Expelliarmus, Protego, Stupefy et Petrificus Totalus.
+[ ] Ancient Magic et Ancient Magic Throw.
+[ ] Crucio, Imperio et Avada Kedavra : accepter l'apprentissage dans la
+    serie de Sebastian, ou garder une sauvegarde avant la decision.
+[ ] Les malefices impardonnables ne sont pas necessaires pour les quatre
+    succes de maisons, mais ils sont inclus dans le registre de completude.
+[ ] Verification : Collections > Sorts, aucune case vide.
+
+REGISTRE DES 24 MISSIONS DE RELATION
+
+SEBASTIAN SALLOW - A SALLOW GRAVE
+
+[ ] In the Shadow of the Bloodline.
+[ ] In the Shadow of the Study.
+[ ] In the Shadow of Discovery.
+[ ] In the Shadow of Time.
+[ ] In the Shadow of Distance.
+[ ] In the Shadow of Hope.
+[ ] In the Shadow of the Relic.
+[ ] In the Shadow of Fate.
+[ ] In the Shadow of Friendship.
+[ ] Quand une mission propose d'apprendre un sort, le prendre si l'objectif
+    est une collection complete ; sinon le sort reste recuperable plus tard
+    par la suite de Sebastian.
+
+NATSAI ONAI - THE AVENGING GAZELLE
+
+[ ] The Lost Child.
+[ ] Mum's the Word.
+[ ] A Basis for Blackmail.
+[ ] Grief and Vengeance.
+[ ] Finding Focus.
+[ ] Harlow's Last Stand.
+[ ] Acting On Instinct.
+[ ] Faire avancer la suite uniquement quand la nouvelle lettre apparait dans
+    la boite aux lettres et que la mission est visible dans le journal.
+
+POPPY SWEETING - BEAST FRIENDS
+
+[ ] A Dragon Debrief.
+[ ] Poached Egg.
+[ ] The Poachers' House Call.
+[ ] Surprise Meeting.
+[ ] The Centaur and the Stone.
+[ ] It's in the Stars.
+[ ] A Bird in the Hand.
+[ ] Poppy Blooms.
+
+DEEK - RISING FROM THE ASHES
+
+[ ] The Plight of the House-Elf.
+[ ] Foal of the Dead.
+[ ] Phoenix Rising.
+[ ] Debloquer chaque Vivarium avant de lancer la capture et la reproduction.
+
+REGISTRE DES 603 ELEMENTS DE COLLECTION
+
+Le compteur Collector's Edition doit finir a 603/603. Il ne suffit pas de
+remplir les recompenses de defis : les coffres de collection et les pages
+Revelio alimentent des sous-compteurs differents.
+
+[ ] Tools : 10/10.
+[ ] Enemies : 69/69.
+[ ] Appearances : 89/89.
+[ ] Revelio Pages : 150/150 dans Collections.
+[ ] Beasts : 13/13.
+[ ] Traits : 75/75.
+[ ] Wand Handles : 42/42.
+[ ] Conjurations : 140/140.
+[ ] Ingredients : 16/16.
+[ ] Brooms : 13/13.
+[ ] Collection Chests : 168/168.
+
+REPARTITION PRATIQUE DES 168 COFFRES DE COLLECTION
+
+[ ] Hogwarts : 22 conjurations.
+[ ] Hamlets du monde : 22 conjurations.
+[ ] Sous-zones et donjons : 25 conjurations.
+[ ] Vivariums : 12 conjurations, soit 3 par Vivarium.
+[ ] Camps de bandits : 50 traits.
+[ ] Coffres de monde : 37 manches de baguette.
+[ ] Total de controle : 22 + 22 + 25 + 12 + 50 + 37 = 168.
+
+BOUCLE PAR ZONE POUR NE PAS PERDRE UN COFFRE
+
+1. Ouvrir la carte de la zone et poser le filtre Collection Chests.
+2. Prendre les coffres des hameaux, puis ceux des camps de bandits.
+3. Entrer dans chaque tombe, cave, ruine et donjon marque par le compteur.
+4. Terminer les coffres de puzzle, les coffres a oeil et les coffres de maison
+   quand ils sont sur le chemin ; ils ne remplacent pas les coffres de
+   collection mais leurs recompenses peuvent alimenter les apparences.
+5. Revenir dans chaque Vivarium avec Revelio : trois coffres par enclos.
+6. Si un coffre de camp ne donne pas de trait, ne pas continuer la boucle :
+   recharger la sauvegarde, rouvrir le coffre et verifier Collections > Traits.
+7. Refaire la boucle jusqu'a ce que le compteur regional et le compteur
+   global concordent.
+
+PAGES, DEFIS ET RECOMPENSES
+
+[ ] 236 pages de Guide de terrain ramassees pour la completude d'exploration.
+[ ] Les 150 pages Revelio sont toutes validees dans Collections.
+[ ] 15 tables d'astronomie.
+[ ] 20 plateformes d'atterrissage.
+[ ] 20 points chauds de magie ancienne.
+[ ] 3 secrets de Hogwarts.
+[ ] 18 ennemis Infamous Foes.
+[ ] Les 24 categories de defis sont terminees.
+[ ] Ouvrir Challenges apres chaque palier et reclamer manuellement chaque
+    recompense : une recompense non reclamee reste la cause la plus frequente
+    d'un compteur de collections bloque.
+[ ] 16 jetons de maison, tous rendus dans les armoires de la salle commune.
+[ ] 15 groupes de papillons, avec le registre deja controle dans la section
+    MISSIONS ET FENETRES A SURVEILLER.
+
+REGISTRE COMBAT ET PROGRESSION
+
+[ ] Atteindre le niveau 40 avant le dernier nettoyage.
+[ ] Depenser 5 points de talent pour A Talent for Spending.
+[ ] Depenser tous les points de talent pour Savvy Spender.
+[ ] Utiliser Petrificus Totalus sur 50 ennemis.
+[ ] Utiliser Mandrake sur 10 types d'ennemis distincts.
+[ ] Construire un combo de 100 coups dans une arene ou un camp durable.
+[ ] Lancer Ancient Magic sur chaque famille d'ennemis ; conserver une liste
+    des nouvelles silhouettes au lieu de compter les eliminations.
+[ ] Equiper une piece de gear avec une amelioration.
+[ ] Ameliorer une piece de gear trois fois.
+[ ] Flipendo sur des vaches 10 fois au total.
+[ ] Faire les trois epreuves de balai d'Imelda et battre les temps.
+[ ] Faire les deux arenes obligatoires : Battle Arena de North Ford Bog et
+    Battle Arena de Feldcroft.
+[ ] Les trois arenes Dark Arts du pack sont du bonus et ne remplacent pas les
+    deux arenes standard pour le succes Steam.
+
+PLANTES, POTIONS, BETES ET SALLE SUR DEMANDE
+
+[ ] Faire pousser les 8 types requis : Dittany, Fluxweed, Knotgrass,
+    Mallowsweet, Mandrake, Shrivelfig, Chinese Chomping Cabbage et Venomous
+    Tentacula.
+[ ] Pour la collection totale, enregistrer aussi les plantes restantes dans
+    Collections > Ingredients.
+[ ] Brasser Wiggenweld, Edurus, Maxima, Invisibility, Focus et Thunderbrew.
+[ ] Garder en permanence une reserve de Mallowsweet pour les epreuves de
+    Merlin ; acheter les graines a The Magic Neep.
+[ ] Acheter les tables de rempotage avec grands pots a Tomes and Scrolls.
+[ ] Capturer et reproduire 12 types : Diricawl, Fwooper, Giant Purple Toad,
+    Graphorn, Hippogriff, Jobberknoll, Kneazle, Mooncalf, Niffler, Phoenix,
+    Thestral et Unicorn.
+[ ] Laisser au moins un male et une femelle de chaque type dans les Vivariums.
+[ ] Nourrir et brosser chaque espece pour les recompenses de la salle.
+[ ] Recuperer les ressources produites, puis ouvrir Collections > Beasts pour
+    controler les silhouettes et Collections > Conjurations pour les objets.
+
+LES QUATRE MINI-ROUTES DE MAISONS
+
+La route principale ne permet de voir la Chambre de la Carte qu'avec une
+maison par sauvegarde. Il faut donc quatre debuts de partie ; inutile de
+refaire toute la campagne.
+
+ROUTE 1 - GRYFFINDOR
+
+[ ] Creer une nouvelle sauvegarde et choisir Gryffindor au tri.
+[ ] Suivre la campagne jusqu'a Jackdaw's Rest.
+[ ] Terminer The Hunt for the Missing Pages.
+[ ] Entrer dans la Chambre de la Carte et laisser le succes se debloquer.
+[ ] Noter la sauvegarde comme GRYFFINDOR TERMINEE, puis revenir a la sauvegarde
+    principale pour la suite du 100 %.
+
+ROUTE 2 - HUFFLEPUFF
+
+[ ] Nouvelle sauvegarde, choisir Hufflepuff.
+[ ] Atteindre Jackdaw's Rest.
+[ ] Terminer Prisoner of Love.
+[ ] Entrer dans la Chambre de la Carte.
+[ ] Noter la sauvegarde comme HUFFLEPUFF TERMINEE.
+
+ROUTE 3 - RAVENCLAW
+
+[ ] Nouvelle sauvegarde, choisir Ravenclaw.
+[ ] Atteindre Jackdaw's Rest.
+[ ] Terminer Ollivander's Heirloom.
+[ ] Entrer dans la Chambre de la Carte.
+[ ] Noter la sauvegarde comme RAVENCLAW TERMINEE.
+
+ROUTE 4 - SLYTHERIN
+
+[ ] Nouvelle sauvegarde, choisir Slytherin.
+[ ] Atteindre Jackdaw's Rest.
+[ ] Terminer Scrope's Last Hope.
+[ ] Entrer dans la Chambre de la Carte.
+[ ] Noter la sauvegarde comme SLYTHERIN TERMINEE.
+
+NETTOYAGE FINAL CHRONOLOGIQUE
+
+[ ] Finir The House Cup dans la sauvegarde principale.
+[ ] Faire la carte du monde region par region, du nord vers le sud.
+[ ] Dans chaque region : Floo Flames, coffres, Merlin, ballons, tables,
+    plateformes, points chauds, ennemis Infamous et pages.
+[ ] Faire les quetes grises restantes, puis les relations et Deek.
+[ ] Finir Demiguise uniquement de nuit et rendre les lunes a Gladwin Moon.
+[ ] Ouvrir tous les coffres de collection des Vivariums en dernier.
+[ ] Revenir a chaque vendeur et verifier les recettes, graines et balais.
+[ ] Ouvrir Collections et Challenges, reclamer toutes les recompenses.
+[ ] Lancer la checklist Steam finale ci-dessous seulement quand les compteurs
+    du jeu sont eux aussi au maximum.
+
+CHECKLIST STEAM FINALE - 45/45
+
+- [ ] The Sort Who Makes an Entrance — terminer l'introduction et le tri.
+- [ ] First Class Student — assister a son premier cours.
+- [ ] Troll with the Punches — survivre a l'attaque du troll a Hogsmeade.
+- [ ] A Keen Sense of Spell — invoquer Ancient Magic pour la premiere fois.
+- [ ] A Talent for Spending — depenser 5 points de talent.
+- [ ] That's a Keeper — rencontrer Charles Rookwood dans la Chambre de la Carte.
+- [ ] Loom for Improvement — ameliorer une piece d'equipement.
+- [ ] Followed the Butterflies — suivre les papillons jusqu'au tresor.
+- [ ] Challenge Accepted — terminer tous les paliers d'un defi.
+- [ ] The Defender of Dragons — terminer Fire and Vice.
+- [ ] Coasting Along — atteindre Poidsear Coast.
+- [ ] The Spell Master — apprendre tous les sorts.
+- [ ] The Hallowed Hero — manier une Reliquaire des Trois Freres.
+- [ ] The One Who Mastered Memories — voir toutes les pensees dans la pensine.
+- [ ] Grappling with a Graphorn — terminer San Bakar's Trial.
+- [ ] Raising Expectations — atteindre un combo de 100.
+- [ ] The Hero of Hogwarts — terminer The Final Repository.
+- [ ] Rising From the Ashes — terminer la serie de quetes de Deek.
+- [ ] The Toast of the Town — trouver la Chambre de la Carte en Slytherin.
+- [ ] Flight the Good Flight — battre les trois temps des epreuves de balai.
+- [ ] The Root of the Problem — etourdir 10 types d'ennemis avec Mandrake.
+- [ ] A Sallow Grave — terminer la serie de quetes de Sebastian.
+- [ ] The Wise Owl — trouver la Chambre de la Carte en Ravenclaw.
+- [ ] The Gryffindor in the Graveyard — trouver la Chambre de la Carte en Gryffindor.
+- [ ] Third Time's a Charm — ameliorer une piece d'equipement trois fois.
+- [ ] The Avenging Gazelle — terminer la serie de quetes de Natsai.
+- [ ] Beast Friends — terminer la serie de quetes de Poppy.
+- [ ] The Ends Petrify the Means — vaincre 50 ennemis avec Petrificus Totalus.
+- [ ] Going Through the Potions — brasser les 6 types de potions.
+- [ ] The Seeker of Knowledge — gagner la House Cup.
+- [ ] Put Down Roots — faire pousser les 8 types de plantes requis.
+- [ ] Room with a View — atteindre le bureau superieur du directeur.
+- [ ] The Auror's Apprentice — trouver la Chambre de la Carte en Hufflepuff.
+- [ ] The Intrepid Explorer — decouvrir les 5 donjons Cairn.
+- [ ] Floo Around the World — debloquer les 83 Floo Flames.
+- [ ] Rise to the Challenges — vaincre des ennemis dans les 2 arenes standard.
+- [ ] Spilled Milk — retourner Flipendo contre des vaches 10 fois.
+- [ ] A Forte for Achievement — atteindre le niveau 40.
+- [ ] Savvy Spender — depenser tous les points de talent.
+- [ ] Demiguise Dread — trouver les 33 statues de Demiguise.
+- [ ] The Good Samaritan — terminer les 57 missions secondaires.
+- [ ] Finishing Touches — utiliser Ancient Magic sur chaque type d'ennemi.
+- [ ] Merlin's Beard! — terminer les 95 epreuves de Merlin.
+- [ ] The Nature of the Beast — reproduire tous les types de betes requis.
+- [ ] Collector's Edition — terminer les 603 elements de collection.
+
+VERIFICATION FINALE
+
+[ ] Steam affiche 45/45 succes.
+[ ] Le journal affiche 57/57 missions secondaires, sans confondre les missions
+    de relation avec ce compteur.
+[ ] Les trois succes de relations, Rising From the Ashes, A Sallow Grave,
+    The Avenging Gazelle et Beast Friends, sont debloques.
+[ ] Les quatre succes de maison sont debloques sur quatre sauvegardes.
+[ ] Collections affiche 603/603, avec Traits, Conjurations et Wand Handles
+    controles separement.
+[ ] Collections > Revelio Pages affiche 150/150 ; l'exploration affiche les
+    236 pages si l'objectif est le 100 % de la carte et pas seulement Steam.
+[ ] Les compteurs de carte affichent 83 Floo Flames, 95 Merlin Trials,
+    32 Balloon Sets, 33 Demiguise, 20 Ancient Magic Hotspots, 20 Landing
+    Platforms et 15 Astronomy Tables.
+[ ] Les deux Battle Arenas et les cinq Cairn Dungeons sont termines.
+[ ] Aucun coffre de collection ne reste dans les quatre Vivariums.
+[ ] Toutes les recompenses Challenges ont ete reclamees.
+[ ] Une sauvegarde manuelle finale est conservee avant toute nouvelle partie.
 
 REGLE ANTI-SPOILER
 
-Les maisons, zones, outils et types de collectibles servent uniquement a
-ordonner la progression. Aucun evenement narratif, boss, identite, mort, fin
-ou consequence n'est decrit.
+La fiche donne uniquement les noms des missions, zones, recompenses et actions
+necessaires. Elle ne revele ni identite, ni choix narratif, ni boss, ni issue.
+Pour les missions a choix, garder une sauvegarde avant le dialogue et choisir
+la ligne voulue ; aucun choix de dialogue n'est requis pour le 100 % Steam.
