@@ -15,6 +15,9 @@ Ce fichier fixe la méthode minimale avant toute modification visible du site.
    `docs/GUIDE-GARDE-FOUS.md`. La note doit refléter le lot livré, ses
    validations et sa limite éventuelle ; un simple changement cosmétique est
    interdit.
+8. Pour le lot FFVII en cours, le format de référence est une route par zone
+   avec un bloc `AVANT DE SORTIR` : objets, succès, équipement et sauvegarde
+   doivent y être contrôlés avant chaque transition importante.
 
 Toute nouvelle règle durable doit être ajoutée à GAME_NOTE_RULES.md et
 transformée en validation automatique quand c'est possible.

@@ -15,6 +15,8 @@ COMMENT LIRE LA FICHE
 
 - « Avant de sortir » signifie que le contrôle doit être fait avant de changer
   d'écran ou de déclencher la transition indiquée.
+- Chaque bloc `AVANT DE SORTIR` est un checkpoint court : vérifie les objets,
+  les succès, l'équipement et la sauvegarde indiqués avant de poursuivre.
 - « Coffre » désigne aussi les sacs et les objets posés au sol quand le jeu ne
   les affiche pas comme une boîte classique.
 - Les consommables ordinaires sont listés par zone et par repère visuel ; les
@@ -30,7 +32,7 @@ OBJECTIF DE LA PARTIE
 
 - Terminer l'histoire et obtenir End of Part I, End of Part II et End of Game.
 - Recruter Yuffie et Vincent, puis utiliser leur première limite.
-- Obtenir les huit dernières limites et les succès associés.
+- Obtenir les neuf dernières limites et les succès associés.
 - Obtenir Bahamut Zero, Knights of the Round et un Gold Chocobo.
 - Vaincre Diamond Weapon, Ultimate Weapon, Emerald Weapon et Ruby Weapon.
 - Atteindre le niveau 99 et 99 999 999 gils.
@@ -114,6 +116,13 @@ Cloud ou Barret se remplir et utilise une première limite avant de sortir.
 Shot pendant les combats de la zone ; ne quitte pas Midgar sans avoir utilisé
 sa limite si elle est chargée.
 
+AVANT DE SORTIR
+
+- Restore est dans le menu, Assault Gun est équipée sur Barret et la sauvegarde
+  PRINCIPALE est faite après l'évacuation du réacteur.
+- Les succès Won 1st battle et Braver sont apparus ; Big Shot est utilisé si la
+  jauge de Barret était disponible.
+
 2. SECTOR 8 ET TRAIN
 
 Route : après la sortie du réacteur, achète la fleur à la vendeuse de Sector 8.
@@ -133,6 +142,13 @@ Coffres et objets :
 
 Le choix de dialogue dans le train n'est pas lié à un succès Steam. Pour une
 route sans détour, parle à Jessie une deuxième fois, puis descends au quai.
+
+AVANT DE SORTIR
+
+- La Potion de Sector 8 est prise et la scène de Jessie dans le dernier wagon
+  est terminée avant de quitter le train.
+- La sauvegarde PRINCIPALE est mise à jour à Sector 7 ; aucun dialogue du train
+  n'est traité comme un succès manquable.
 
 3. SECTOR 7 : TUTORIELS ET PREMIÈRES LIMITES
 
@@ -156,6 +172,12 @@ Coffres et objets :
 Utilise Beat Rush dès que Tifa rejoint l'équipe. Avant de monter dans le train,
 ouvre le menu Limites et vérifie Braver, Big Shot et Beat Rush.
 
+AVANT DE SORTIR
+
+- All Materia, Ether et les achats prévus sont contrôlés dans l'inventaire.
+- Les succès Beat Rush et les premières limites déjà disponibles sont vérifiés
+  dans Steam avant la sauvegarde PRINCIPALE.
+
 4. TRAIN ET SECTOR 4
 
 Route : monte dans le train avec Barret et Tifa. Quand l'alarme commence, cours
@@ -170,6 +192,12 @@ Contrôle de trajet :
   permettent. Les ennemis mécaniques du réacteur y sont vulnérables.
 - Charge la limite de Tifa dans les combats ordinaires, puis utilise-la avant
   l'ascenseur du réacteur 5.
+
+AVANT DE SORTIR
+
+- Les deux plateformes de sortie et les wagons accessibles ont été contrôlés.
+- Lightning est équipée sur les trois personnages et Beat Rush est validé
+  avant l'ascenseur du réacteur 5.
 
 5. NO. 5 REACTOR
 
@@ -193,6 +221,12 @@ Coffres et objets :
 Après Air Buster, remonte vers la sortie, soigne l'équipe et conserve une
 sauvegarde avant l'ascenseur. La victoire ouvre la route vers Sector 5.
 
+AVANT DE SORTIR
+
+- Ether, Potion, Tent et la Materia du cœur du réacteur sont dans l'inventaire.
+- La sauvegarde BOSS est faite avant Air Buster et la sauvegarde PRINCIPALE est
+  renouvelée après la victoire.
+
 6. SECTOR 5, ÉGLISE ET MAISON D'AERIS
 
 Route : après l'arrivée dans l'église, parle à Aeris, pousse les tonneaux selon
@@ -212,6 +246,13 @@ Coffres et objets :
 
 Healing Wind se valide avec la première limite d'Aeris. Charge-la dans les
 combats du secteur 5 avant de passer au marché.
+
+AVANT DE SORTIR
+
+- Les objets posés dans l'église, le jardin et les pièces de la maison d'Aeris
+  sont contrôlés avant l'étage des enfants.
+- Healing Wind est utilisée et son succès est vérifié avant l'entrée dans
+  Sector 6.
 
 7. SECTOR 6 ET WALL MARKET
 
@@ -241,6 +282,13 @@ La meilleure route de costume est Diamond Tiara + Blonde Wig + Sexy Cologne +
 Lingerie. Aucun des succès Steam ne demande une note parfaite, mais cette route
 évite une seconde visite pour les objets de collection.
 
+AVANT DE SORTIR
+
+- Les coupons, Membership Card et les quatre éléments du costume sont contrôlés
+  dans l'inventaire avant la demeure de Don Corneo.
+- La route de costume choisie est notée dans la sauvegarde PRINCIPALE avant les
+  égouts ; aucune récompense n'est recherchée après la transition.
+
 8. ÉGOUTS ET TRAIN GRAVEYARD
 
 Route : après la séquence de Wall Market, bats Aps avec Fire et les limites,
@@ -266,6 +314,13 @@ Fais apprendre Matra Magic à Enemy Skill sur les Custom Sweeper autour de
 Midgar si cela n'a pas été fait avant. Dans le Train Graveyard, apprends
 Tranquilizer uniquement si l'ennemi utilise la compétence sur le porteur.
 
+AVANT DE SORTIR
+
+- Steal Materia, les objets des wagons et les deux objets de la dernière
+  plateforme sont vérifiés avant le pilier du secteur 7.
+- Matra Magic est dans Enemy Skill si elle a été visée ; la sauvegarde AVANT
+  MISSABLE est conservée avant la montée vers le pilier.
+
 9. SECTOR 7 PLATE ET PREMIÈRE PARTIE
 
 Route : monte vers le pilier, bats les groupes de défense et garde une
@@ -280,6 +335,13 @@ Contrôles avant le point de non-retour de Midgar :
   la Shinra Building si elle n'est pas chargée avant le départ.
 - Fais une sauvegarde séparée avant de prendre l'entrée principale de Shinra
   Building ; les objets de l'infiltration sont regroupés plus bas.
+
+AVANT DE SORTIR
+
+- Les limites de Cloud, Barret, Tifa, Aeris et Red XIII sont utilisées dès que
+  leurs personnages et leurs jauges le permettent.
+- La sauvegarde AVANT MISSABLE est faite avant l'entrée de Shinra Building et
+  le retour vers Sector 7 n'est plus utilisé comme plan de secours.
 
 10. SHINRA BUILDING : DU 1er AU 59e ÉTAGE
 
@@ -298,6 +360,13 @@ Objets et salles :
 - 60e étage : traverse la salle en te cachant derrière les statues. Si un
   combat est déclenché, termine-le plutôt que de recharger ; aucun coffre n'est
   placé dans cette salle.
+
+AVANT DE SORTIR
+
+- Le panneau Turtle's Paradise, l'Elixir de l'escalier et Keycard 60 sont
+  contrôlés avant la traversée du 60e étage.
+- La route d'infiltration choisie est terminée sans écraser la sauvegarde
+  AVANT MISSABLE.
 
 11. SHINRA BUILDING : 63e À 68e ÉTAGE
 
@@ -329,6 +398,13 @@ de monter pour sauvegarder et ouvrir la salle des casiers.
 Skill Materia dans la zone accessible après la séquence de Sample:HO512. Monte
 ensuite vers la sortie et vérifie que les deux matérias sont dans le menu.
 
+AVANT DE SORTIR
+
+- Star Pendant, Four Slots, All, les cinq Midgar Parts, Poison et Enemy Skill
+  sont contrôlés avant la sortie du bâtiment.
+- La sauvegarde BOSS est créée avant la série d'affrontements de l'évasion et
+  la sauvegarde PRINCIPALE est renouvelée après l'obtention de Keycard 66.
+
 12. ÉVASION DE MIDGAR
 
 Route : après la libération, équipe Cloud, Aeris et Tifa avec Restore, Lightning
@@ -346,6 +422,13 @@ Objets :
 
 End of Part I se valide après la sortie de Midgar. Fais une copie de la
 sauvegarde juste après le succès.
+
+AVANT DE SORTIR
+
+- Les cellules, le garage et les objets accessibles avant la voiture sont
+  vérifiés ; W-Item et Missing Score ne concernent pas encore cette zone.
+- End of Part I est apparu, puis une copie de la sauvegarde est conservée avant
+  Kalm. Le fichier AVANT MISSABLE n'est pas remplacé.
 
 PARTIE II - KALM, JUNON ET LE CARGO
 
@@ -366,6 +449,13 @@ Sur la carte entre Midgar et Kalm, équipe Enemy Skill sur Cloud et apprends
 Matra Magic à Custom Sweeper. Ne quitte pas la zone sans une copie de cette
 compétence dans le menu Enemy Skill.
 
+AVANT DE SORTIR
+
+- PHS, le coffre de la maison nord-ouest et le petit coffre derrière le
+  comptoir sont contrôlés avant de reprendre la carte du monde.
+- Matra Magic est confirmée dans Enemy Skill et les achats de Kalm sont faits
+  avant la route du ranch.
+
 14. CHOCOBO RANCH ET MARAIS
 
 Route : va au Chocobo Ranch, parle au Chocobo dans l'enclos et réponds « Wark »
@@ -383,6 +473,13 @@ Le détour du ranch n'est pas un succès séparé, mais Choco/Mog et les Enemy
 Skills simplifient Materia Overlord. Fais une sauvegarde avant la traversée du
 marais ; tu peux contourner le Midgar Zolom sur le bord supérieur en utilisant
 un Chocobo.
+
+AVANT DE SORTIR
+
+- Choco/Mog Materia, Chocobo Lure et les légumes nécessaires sont contrôlés
+  avant la traversée du marais.
+- L4 Suicide est apprise si l'occasion s'est présentée ; la sauvegarde AVANT
+  MISSABLE est faite avant la route de Junon.
 
 15. MYTHRIL MINES ET FORT CONDOR
 
@@ -409,6 +506,13 @@ bataille. Gagne la défense pour recevoir la récompense ; la Huge Materia
 arrivera dans une séquence séparée au disque 2, mais la route de Fort Condor
 doit être commencée maintenant.
 
+AVANT DE SORTIR
+
+- Long Range Materia, Ether, Tent, Ether, Mind Source et Magic Comb sont
+  contrôlés dans l'ordre de la traversée des mines.
+- La première défense de Fort Condor est lancée et la sauvegarde PRINCIPALE est
+  faite avant de repartir vers Lower Junon.
+
 16. LOWER JUNON
 
 Route : descends dans le village, achète les armures et va vers la plage.
@@ -424,6 +528,13 @@ Coffres et objets :
   est au sol près de l'escalier, pas dans un coffre.
 - Plage : contrôle la bordure droite et le quai avant de repartir ; les objets
   de soin posés près des rochers sont faciles à masquer par le décor.
+
+AVANT DE SORTIR
+
+- Shiva Materia et les objets de la plage sont dans l'inventaire avant le
+  passage par le dauphin.
+- Les armures de Junon sont achetées si nécessaire et la sauvegarde BOSS est
+  conservée avant la plage.
 
 17. UPPER JUNON ET PARADE
 
@@ -446,6 +557,13 @@ Après la parade, prends une sauvegarde avant l'ascenseur et vérifie la Materia
 Enemy Skill. La séquence du président n'est pas liée à un choix narratif pour
 les succès.
 
+AVANT DE SORTIR
+
+- Shinra uniform, Enemy Skill et la récompense de parade obtenue sont notés
+  avant de reprendre l'ascenseur.
+- Les coffres latéraux sont ouverts et la sauvegarde PRINCIPALE est faite avant
+  l'accès au Cargo Ship.
+
 18. CARGO SHIP
 
 Route : sur le pont, parle aux soldats qui sont les membres de ton équipe,
@@ -465,6 +583,12 @@ Coffres et matérias, dans l'ordre :
 Avant d'entrer dans le combat final du cargo, équipe Steal sur un personnage et
 Enemy Skill sur un autre. Après la victoire, ne revends pas All ni Ifrit.
 
+AVANT DE SORTIR
+
+- Ether, All, Ifrit et Wind Slash sont contrôlés avant le combat final du cargo.
+- Steal et Enemy Skill sont équipées, la sauvegarde BOSS est conservée et All
+  comme Ifrit restent dans l'inventaire après la victoire.
+
 PARTIE III - COSTA DEL SOL, GOLD SAUCER ET NIBELHEIM
 
 19. COSTA DEL SOL
@@ -481,6 +605,12 @@ Coffres et objets :
   latérales ; inspecte aussi le coffre derrière l'escalier.
 - Boutique d'armes : achète Carbon Bangles et une arme pour Barret si elle est
   encore supérieure à son équipement actuel.
+
+AVANT DE SORTIR
+
+- Fire Ring, Power Source, Motor Drive et les achats de la boutique sont
+  contrôlés avant la sortie de Costa del Sol.
+- La sauvegarde PRINCIPALE est faite avant de remonter vers Mt. Corel.
 
 20. MT. COREL ET NORTH COREL
 
@@ -503,6 +633,13 @@ Coffres et objets :
 Enemy Skill : autour des plages, rencontre Beachplug et apprends Big Guard avec
 Manipulate. Elle est l'une des compétences les plus utiles pour les combats de
 fin, mais ne l'utilise pas comme preuve d'un succès avant de vérifier le menu.
+
+AVANT DE SORTIR
+
+- Star Pendant, Transform, W Machine Gun, Wizard Staff et les objets du train
+  sont contrôlés avant l'accès au Gold Saucer.
+- Big Guard est confirmée dans Enemy Skill et la sauvegarde AVANT MISSABLE est
+  faite avant la séquence du train de North Corel.
 
 21. GOLD SAUCER ET COREl PRISON
 
@@ -528,6 +665,12 @@ Battle Square : déclenche un combat, puis fais une sauvegarde séparée. Les BP
 servent à Omnislash et à Final Attack plus tard ; ne les dépense pas en objets
 ordinaires avant d'avoir atteint la récompense souhaitée.
 
+AVANT DE SORTIR
+
+- Ramuh, le combat Battle Square et les objets des maisons et carcasses de Corel
+  Prison sont vérifiés avant le duel suivant.
+- Les GP et BP sont conservés dans la sauvegarde dédiée GOLD SAUCER.
+
 22. BUGGY, GONGAGA ET COSMO CANYON
 
 Route : après Dyne et la course de Chocobo, récupère le buggy. Utilise-le pour
@@ -549,6 +692,13 @@ Coffres et objets :
 - Cave of the Gi : Fairy Ring, Added Effect Materia et X-Potion dans les
   embranchements hors de la route principale. Chaque coffre est avant la salle
   du boss ; ne prends pas la sortie centrale sans les trois contrôles.
+
+AVANT DE SORTIR
+
+- Titan, Deathblow, Fairy Tale, Gravity, Fairy Ring, Added Effect et X-Potion
+  sont contrôlés avant la sortie de Cave of the Gi.
+- La sauvegarde BOSS est conservée avant la salle finale et la sauvegarde
+  PRINCIPALE est faite à Cosmo Canyon.
 
 23. NIBELHEIM ET MANOIR SHINRA
 
@@ -576,6 +726,13 @@ Coffres et objets :
 Utilise Galian Beast dans le premier combat de Vincent pour son succès. Termine
 la première limite de Vincent dès qu'il rejoint l'équipe.
 
+AVANT DE SORTIR
+
+- Les objets du manoir, le code du coffre-fort, Odin Materia, Basement Key et
+  Vincent sont tous contrôlés avant de quitter Nibelheim.
+- Galian Beast est utilisée et son succès est vérifié ; la sauvegarde AVANT
+  MISSABLE est conservée avec Vincent recruté.
+
 24. MT. NIBEL ET ROCKET TOWN
 
 Coffres de Mt. Nibel, dans le sens de la progression :
@@ -599,6 +756,13 @@ Rocket Town :
   à Palmer.
 - Après la scène, récupère Cid et utilise Boost Jump dans le premier combat où
   sa limite est chargée.
+
+AVANT DE SORTIR
+
+- Les objets de Mt. Nibel, Yoshiyuki, Power Source et le coffre du Tiny Bronco
+  sont contrôlés avant la scène de Palmer.
+- Cid est recruté, Boost Jump est utilisé et la sauvegarde PRINCIPALE est faite
+  avant le retour vers le Gold Saucer.
 
 25. KEYSTONE, GOLD SAUCER ET TEMPLE OF THE ANCIENTS
 
@@ -624,6 +788,13 @@ Temple of the Ancients, objets :
 Après la sortie du Temple, ne supprime pas la sauvegarde du début du disque 2.
 Elle sert de point de retour pour les dernières limites et le Gold Chocobo.
 
+AVANT DE SORTIR
+
+- Trident, Ribbon, Princess Guard, Nail Bat, Morph, Bahamut et les objets des
+  salles d'horloge sont contrôlés avant la sortie du Temple.
+- La sauvegarde du début du disque 2 est conservée, et une sauvegarde BOSS est
+  faite avant la transition vers la partie suivante.
+
 PARTIE IV - FIN DU PREMIER DISQUE ET DÉBUT DU SECOND
 
 26. BONE VILLAGE ET CITY OF THE ANCIENTS
@@ -647,6 +818,13 @@ City of the Ancients :
 - Passage des escaliers : Comet Materia au sol après le second écran.
 - Temple des maisons : Enemy Skill et Megalixir dans les coffres latéraux ;
   vérifie les deux avant d'entrer dans la zone finale de la ville.
+
+AVANT DE SORTIR
+
+- Lunar Harp, les récompenses de fouille, Kjata, Aurora Armlet, Guard Source,
+  Comet, Enemy Skill et Megalixir sont contrôlés avant la zone finale.
+- Key to Sector 5 est notée comme nettoyage ultérieur et la sauvegarde AVANT
+  MISSABLE est conservée avant Great Glacier.
 
 27. GREAT GLACIER ET GAIA'S CLIFF
 
@@ -673,6 +851,13 @@ Gaia's Cliff : prends Enhance Sword, Viper Halberd, Enhance Armlet, Ribbon et
 Elixir dans les corniches et les grottes latérales. Les deux Ribbons sont à
 conserver : un sert aux combats de fin, l'autre à la route de nettoyage.
 
+AVANT DE SORTIR
+
+- Snowboard, Glacier Map, Added Cut, Alexander, All, Safety Bit, Mind Source,
+  Fire Armlet, les objets de Gaia's Cliff et les deux Ribbons sont contrôlés.
+- La sauvegarde BOSS est faite avant l'escalade et la sauvegarde PRINCIPALE est
+  renouvelée avant Whirlwind Maze.
+
 28. WHIRLWIND MAZE
 
 Route : dans les courants d'air, avance seulement quand le flux retombe. Les
@@ -693,6 +878,13 @@ Avant de déclencher la sortie, équipe Enemy Skill, conserve la sauvegarde et
 vérifie que Bahamut et Neo Bahamut sont dans le menu. La suite lance la partie
 centrale du disque 2 et déplace la route vers Junon.
 
+AVANT DE SORTIR
+
+- Neo Bahamut, MP Turbo, la récompense de la branche et les deux coffres du
+  dernier camp sont contrôlés avant la sortie.
+- Bahamut et Neo Bahamut sont visibles dans le menu ; la sauvegarde du début du
+  disque 2 reste disponible en cas d'oubli.
+
 29. JUNON, MIDEEL ET LA PREMIÈRE VISITE DU HIGHWIND
 
 À Junon, traverse le secteur militaire et récupère les objets dans les
@@ -712,6 +904,13 @@ Mideel :
 Après la première séquence de Mideel, fais une sauvegarde séparée. Le jeu ouvre
 la carte de nettoyage, mais la route des Huge Materia doit être terminée avant
 la séquence finale du disque 2.
+
+AVANT DE SORTIR
+
+- Les objets des couloirs de Junon, Contain, la récompense du chocobo blanc et
+  l'Elixir de la maison de l'ancien sont contrôlés.
+- La sauvegarde AVANT MISSABLE est séparée avant de lancer la route des Huge
+  Materia ; ne l'écrase pas avec une sauvegarde de déplacement.
 
 30. WUTAI ET LA TOUR DES CINQ DIEUX
 
@@ -737,6 +936,13 @@ Coffres et objets :
 La séquence de Wutai peut remplacer temporairement les matérias du groupe.
 Rééquipe Enemy Skill et Restore avant de repartir.
 
+AVANT DE SORTIR
+
+- Magic Shuriken, Leviathan Scales, Oritsuru et All Creation sont contrôlés dans
+  l'inventaire avant de quitter Wutai.
+- La limite de Yuffie et son succès sont utilisés, puis une sauvegarde dédiée
+  est conservée avant de reprendre les Huge Materia.
+
 PARTIE V - HUGE MATERIA, ARMES ET LIMITES
 
 31. FORT CONDOR ET NORTH COREL : PREMIÈRE HUGE MATERIA
@@ -754,6 +960,13 @@ North Corel :
 - À l'arrivée, retourne au village et récupère la Huge Materia dans le wagon
   arrêté. Si le train atteint le village, la récompense est conservée ; sinon
   recharge la sauvegarde AVANT MISSABLE.
+
+AVANT DE SORTIR
+
+- La défense de Fort Condor est gagnée et la Huge Materia de North Corel est
+  obtenue sans écraser la sauvegarde AVANT MISSABLE.
+- La sauvegarde PRINCIPALE est faite après le retour au village, avec le compteur
+  des Huge Materia noté à 1/4.
 
 32. SOUS-MARIN ET ROCKET TOWN : DEUXIÈME ET TROISIÈME HUGE MATERIA
 
@@ -783,6 +996,13 @@ Rocket Town :
   rouge, puis la bleue, la verte et la jaune. La bleue donne Bahamut Zero ;
   vérifie le succès et la Materia avant de quitter le village.
 
+AVANT DE SORTIR
+
+- Leviathan Scales, Shinra Alpha, Scimitar et la Huge Materia du sous-marin sont
+  contrôlés avant de quitter le quai.
+- Les quatre Huge Materia sont remises à Cosmo Canyon, Bahamut Zero est dans le
+  menu et le succès est vérifié avant la sauvegarde PRINCIPALE.
+
 33. HIGHWIND, LIMITES ET ARMES OPTIONNELLES
 
 Après le retour du Highwind, fais les limites dans cet ordre pour éviter les
@@ -808,6 +1028,13 @@ Objets de dernières limites :
   puis coffre de l'étage supérieur ; cette limite doit être obtenue avant la
   transition qui retire l'accès normal à la zone.
 
+AVANT DE SORTIR
+
+- Les neuf limites de niveau 4, Great Gospel et les premières limites des
+  personnages concernés sont utilisés et vérifiés dans Steam.
+- Les récompenses Omnislash, Catastrophe, Cosmo Memory, Chaos, Final Heaven,
+  All Creation et Highwind sont notées avant le nettoyage final.
+
 34. TOUTES LES MATÉRIAS DE LA CARTE LIBRE
 
 Cette tournée se fait après les Huge Materia et avant le grind final.
@@ -823,6 +1050,13 @@ Cette tournée se fait après les Huge Materia et avant le grind final.
   of the Round avec le Gold Chocobo.
 - Ancient Forest : récupère Slash-All, Typhon Materia, Minerva Band, Apocalypse,
   Elixir et Spring Gun Clip dans les écrans détaillés ci-dessous.
+
+AVANT DE SORTIR
+
+- Contain, Quadra Magic, Mime, HP<->MP, Knights of the Round et les objets de
+  l'Ancient Forest sont contrôlés dans le menu et l'inventaire.
+- Les grottes de matérias sont visitées avec le bon type de Chocobo et la
+  sauvegarde de nettoyage est renouvelée avant le grind.
 
 35. ELEVAGE DE CHOCOBOS ET GOLD CHOCOBO
 
@@ -844,6 +1078,13 @@ Le succès Gold Chocobo tombe quand le type doré est obtenu. Knights of the Rou
 tombe quand la Materia est ramassée ; équipe-la seulement après avoir sauvegardé
 si tu veux conserver une sauvegarde propre avant le grind AP.
 
+AVANT DE SORTIR
+
+- Le Gold Chocobo est visible dans l'écurie et sa sauvegarde dédiée est conservée
+  avant l'accouplement suivant.
+- Knights of the Round est ramassée, son succès est vérifié et la sauvegarde
+  NETTOYAGE est renouvelée avant le Gelnika.
+
 36. SUNKEN GELNIKA ET ANCIENNE FORÊT
 
 Sunken Gelnika, dans l'ordre des salles :
@@ -864,6 +1105,13 @@ Ancient Forest :
 - Branche de la cascade : Minerva Band et Elixir dans les deux coffres.
 - Dernier écran : Spring Gun Clip près du tronc, avant la sortie.
 
+AVANT DE SORTIR
+
+- Les coffres du Sunken Gelnika, Double Cut, Hades, Conformer, les armes et les
+  objets de l'Ancient Forest sont contrôlés avant de remonter.
+- La sauvegarde NETTOYAGE est faite après les deux zones et avant le raid de
+  Midgar.
+
 37. MIDGAR RAID ET W-ITEM
 
 Avant de lancer le raid, équipe Barret dans l'équipe active, Enemy Skill sur un
@@ -882,6 +1130,13 @@ personnage et Steal sur un second.
 Diamond Weapon se débloque dans la route de l'attaque sur Midgar. Après la
 victoire, fais une sauvegarde et ne pars pas directement au donjon final : il
 reste les matérias, les armes, le niveau 99 et les deux armes optionnelles.
+
+AVANT DE SORTIR
+
+- W-Item, Grow Lance, Missing Score et les objets du tunnel sont contrôlés avant
+  les combats de Hojo, avec Barret dans l'équipe pour Missing Score.
+- Diamond Weapon est vaincue, son succès est vérifié et la sauvegarde NETTOYAGE
+  est conservée avant la Northern Cave.
 
 PARTIE VI - NETTOYAGE 100 %
 
@@ -912,6 +1167,13 @@ ou triple croissance. Ne transforme pas une Materia au maximum avant d'avoir
 vérifié qu'il s'agit bien d'une copie excédentaire quand la route indique une
 Materia unique.
 
+AVANT DE SORTIR
+
+- La liste des matérias est comparée au menu sans compter une Materia restée
+  dans une sauvegarde secondaire.
+- Une copie de sécurité est faite avant le grind AP et les matérias uniques ne
+  sont ni vendues ni transformées par erreur.
+
 39. BATTLE SQUARE, FINAL ATTACK ET OMNISLASH
 
 - Fais une sauvegarde dans le Gold Saucer avant de commencer.
@@ -920,6 +1182,13 @@ Materia unique.
   fois que nécessaire pour les objets complémentaires.
 - Équipe Final Attack + Phoenix sur un personnage avant Emerald Weapon et
   Master Materia ; conserve une copie séparée si tu veux l'utiliser ailleurs.
+
+AVANT DE SORTIR
+
+- Omnislash, Final Attack et les BP restants sont contrôlés dans la sauvegarde
+  GOLD SAUCER avant de quitter le Battle Square.
+- Final Attack + Phoenix est préparée sur une sauvegarde séparée, sans écraser
+  la sauvegarde de nettoyage.
 
 40. LEVEL 99 ET 99 999 999 GILS
 
@@ -936,6 +1205,13 @@ Pour Master of Gil :
   menu avant de quitter la zone ;
 - le succès demande 99 999 999 gils, pas simplement un million.
 
+AVANT DE SORTIR
+
+- Le personnage niveau 99 et le montant exact de 99 999 999 gils sont confirmés
+  dans les menus avant de cocher les deux succès correspondants.
+- Les boosters ne sont utilisés qu'après les contrôles de limites, Enemy Skill
+  et matérias nécessaires à la route.
+
 41. ULTIMATE WEAPON, EMERALD WEAPON ET RUBY WEAPON
 
 Ultimate Weapon : lance la rencontre depuis la carte libre, poursuis-la avec
@@ -951,6 +1227,13 @@ Ruby Weapon : bats Emerald d'abord pour disposer de son équipement et de ses
 récompenses. Entre avec une équipe de deux personnages si la stratégie les
 remplace par les tentacules ; garde les limites et les soins pour la phase
 finale. Vérifie Ruby Weapon dès la victoire.
+
+AVANT DE SORTIR
+
+- Ultimate Weapon, Emerald Weapon et Ruby Weapon sont vaincues dans cet ordre,
+  et chaque succès est vérifié avant le combat suivant.
+- La sauvegarde BOSS est conservée avec Final Attack + Phoenix, Ribbon et les
+  soins contrôlés avant de lancer la Northern Cave.
 
 42. NORTHERN CAVE : DERNIÈRES SALLES ET COFFRES
 
@@ -975,13 +1258,20 @@ Quand tu as terminé les coffres, remonte à la surface au lieu de lancer la
 séquence finale. C'est le dernier moment propre pour sauvegarder avec les armes,
 les matérias, les gils et les succès contrôlés.
 
+AVANT DE SORTIR
+
+- Save Crystal, Guard Source, Megalixir, Magic Counter, Counter, HP Absorb,
+  Shield et Megaelixir sont contrôlés avant d'approcher la sortie finale.
+- La sauvegarde de dernière vérification est faite à la surface ; ne déclenche
+  pas la fin tant que la checklist et les menus ne sont pas comparés.
+
 43. DERNIÈRE SAUVEGARDE
 
 La sauvegarde finale doit afficher :
 
 - les 36 succès Steam ;
 - Yuffie, Vincent, leurs premières limites et leurs dernières limites ;
-- les huit dernières limites, Great Gospel incluse ;
+- les neuf dernières limites, Great Gospel incluse ;
 - Gold Chocobo, Knights of the Round et Bahamut Zero ;
 - Diamond Weapon, Ultimate Weapon, Emerald Weapon et Ruby Weapon ;
 - un personnage niveau 99 et 99 999 999 gils ;
@@ -1031,7 +1321,7 @@ CHECKLIST STEAM FINALE - 36/36
 VERIFICATION FINALE SANS SPOILER
 
 - Le compteur Steam affiche 36/36 et chaque intitulé de la checklist est validé.
-- Le menu Limites confirme les huit limites de niveau 4 et les premières limites
+- Le menu Limites confirme les neuf limites de niveau 4 et les premières limites
   des neuf personnages jouables.
 - Le menu Materia confirme Bahamut Zero, Knights of the Round et les matérias
   maîtrisées. Aucun type n'est seulement présent dans une sauvegarde secondaire.

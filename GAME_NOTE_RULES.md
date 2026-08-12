@@ -36,6 +36,9 @@ statique Cloudflare Pages.
 - Un guide actif doit conserver une route chronologique, son périmètre Steam,
   ses alertes missables et sa règle anti-spoiler. Les guides spéciaux peuvent
   documenter explicitement l'absence de succès Steam.
+- La fiche FFVII de référence doit conserver une route par zone et un bloc
+  `AVANT DE SORTIR` pour chaque étape importante ; ce bloc reste court et ne
+  remplace pas les emplacements détaillés des objets.
 - Pour la phase actuelle, les repères visuels sont activés uniquement sur
   `final-fantasy-vii-2013`. `[COFFRE]` couvre tous les objets à récupérer
   (coffres, matérias, collectibles et récompenses) ; les marqueurs

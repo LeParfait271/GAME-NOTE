@@ -185,6 +185,12 @@ icônes restent réservées aux alertes de sauvegarde, de missable, de succès e
 de boss. Une icône doit signaler une action concrète et utile à ce moment précis
 de la route.
 
+Le format maître de la fiche FFVII ajoute un bloc `AVANT DE SORTIR` à chaque
+étape importante. Il doit confirmer uniquement les éléments déjà décrits dans
+la zone : objets et coffres, succès, équipement utile et sauvegarde. Il ne doit
+pas devenir une seconde soluce répétitive ; une zone sans enjeu supplémentaire
+reste un checkpoint de deux lignes maximum.
+
 ## États autorisés
 
 - `planned` : jeu retenu, recherche non commencée ;
