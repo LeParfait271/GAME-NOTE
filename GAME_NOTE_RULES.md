@@ -463,3 +463,10 @@ contrôle de la fiche concernée.
 - Les coffres gardés par un élite restent séparés des fiches de boss et du
   compteur 454 : le type de rencontre ne doit pas être changé pour remplir une
   checklist.
+
+### Précision des repères de coffres OT0 — 13 août 2026
+
+- Les directions, salles, étages et gardiens sont ajoutés uniquement quand ils
+  sont recoupés par une source de zone ou une route indépendante.
+- Le validateur protège les identifiants enrichis contre le retour au libellé
+  générique « aucun repère additionnel ».

@@ -297,3 +297,25 @@ fonction précise.
   récits secondaires possèdent encore leur emplacement dans la route, mais pas
   tous une fiche tactique dédiée. Le guide reste archivé tant que ces combats
   secondaires et les 454 lignes ne sont pas relus zone par zone.
+
+## Passe de contrôle 10 — repères d'écran pour la première boucle de trésors
+
+- Les entrées #004, #009, #011, #013 à #015, #017, #019, #022, #023, #026,
+  #027, #034, #036, #038, #041, #043 à #046, #049 et #059 à #065 possèdent
+  maintenant un repère directionnel ou spatial exploitable dans le TXT.
+- Le repère est conservé dans la ligne `[COFFRE]` elle-même : zone, sous-zone,
+  section, moment de récupération, puis chemin court ou pièce exacte. Il reste
+  compatible avec la checklist 454/454 et ne crée aucun coffre supplémentaire.
+- Le cas #036 a été recoupé avec une route indépendante : depuis l'entrée de
+  Serpent's Burrow, descendre au sud puis prendre le nord à l'embranchement.
+  Le coffre gardé par l'élite reste séparé de ce repère et le registre conserve
+  l'ordre des coffres de la zone.
+- Sources de repérage recoupées pour cette passe :
+  - https://game8.co/games/Octopath-Traveler-0/archives/570985
+  - https://game8.co/games/Octopath-Traveler-0/archives/571027
+  - https://game8.co/games/Octopath-Traveler-0/archives/571028
+  - https://www.neoseeker.com/octopath-traveler-0/Serpent%27s_Burrow
+  - https://octopathtraveler0.com/treasures
+- Limite conservée : les autres lignes qui disent encore « aucun repère
+  additionnel » restent volontairement non enrichies tant qu'une direction ou
+  une capture de carte n'a pas été recoupée. OT0 reste archivé et invisible.

@@ -278,6 +278,22 @@ if (octopathZeroDraft) {
   if (!mapIndexSection.includes("https://game8.jp/octopathtraveler0/746437")) {
     fail(octopathZeroDraftPath + ": index étendu Game8 des cartes OT0 absent.");
   }
+  const enrichedTreasureIds = [
+    "#004", "#009", "#011", "#013", "#014", "#015", "#017", "#019",
+    "#022", "#023", "#026", "#027", "#034", "#036", "#038", "#041",
+    "#043", "#044", "#045", "#046", "#049", "#059", "#060", "#061",
+    "#062", "#063", "#064", "#065",
+  ];
+  for (const enrichedTreasureId of enrichedTreasureIds) {
+    const treasureLine = octopathZeroDraft
+      .split(/\r?\n/)
+      .find((line) => line.includes(`${enrichedTreasureId} —`));
+    if (!treasureLine || treasureLine.includes("aucun repère additionnel")) {
+      fail(
+        `${octopathZeroDraftPath}: repère de coffre enrichi absent ou redevenu générique (${enrichedTreasureId}).`,
+      );
+    }
+  }
   const bossDossierHeading = "FICHES BOSS — PRÉPARATION, FAIBLESSES ET MÉCANIQUES";
   if (!octopathZeroDraft.includes(bossDossierHeading)) {
     fail(octopathZeroDraftPath + ": dossier opérationnel des boss OT0 absent.");

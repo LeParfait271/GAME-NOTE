@@ -124,3 +124,14 @@ traité comme une récompense d'action et non comme un coffre supplémentaire.
   stratégie.
 - La passe reste éditoriale : la publication attend encore la relecture des
   gardiens élites, des zones et des 454 entrées dans une sauvegarde réelle.
+
+### Passe de contrôle 10 — repères de coffres OT0
+
+- Une première boucle de 27 lignes numérotées possède désormais un repère de
+  salle, de direction, d'étage ou de gardien lorsqu'il est confirmé par une
+  source de zone.
+- Le validateur contrôle ces identifiants enrichis et bloque le retour silencieux
+  au texte générique « aucun repère additionnel ».
+- Cette amélioration ne rend pas OT0 publiable : les lignes restantes, les
+  cartes, les élites et la relecture en jeu restent à auditer avant toute mise en
+  visibilité.

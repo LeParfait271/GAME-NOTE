@@ -1844,52 +1844,52 @@ numérotées #001 à #454 comptent dans ce registre et évitent un double compta
 [COFFRE] [MANQUABLE] [ ] #001 — 300L — Woodlands / Wishvale — Prologue — maison du protagoniste, MANQUABLE
 [COFFRE] [MANQUABLE] [ ] #002 — Healing Grape — Woodlands / Wishvale — Prologue — MANQUABLE
 [COFFRE] [MANQUABLE] [ ] #003 — Olive of Life — Woodlands / Wishvale — Prologue — MANQUABLE
-[COFFRE] [ ] #004 — Fire Soulstone — Woodlands / Wishvale Trail — Prologue — emplacement de la section ; aucun repère additionnel dans la base
+[COFFRE] [ ] #004 — Fire Soulstone — Woodlands / Wishvale Trail — Prologue — près de l'entrée du village, sur le chemin principal
 [COFFRE] [ ] #005 — Buckler — Woodlands / Cerulean Caverns — Prologue — emplacement de la section ; aucun repère additionnel dans la base
 [COFFRE] [MANQUABLE] [ ] #006 — Nourishing Nut — Woodlands / Wishvale — Prologue — point de collecte de nuit, MANQUABLE
 [COFFRE] [ ] #007 — Eerie Statue — Woodlands / Wishvale Trail — Prologue — cabane de Nomos
 [COFFRE] [ ] #008 — Nourishing Nut (L) — Woodlands / Valore Trail — Exploration — coffre bleu verrouillé
-[COFFRE] [ ] #009 — Olive of Life — Woodlands / Valore Trail — Exploration — emplacement de la section ; aucun repère additionnel dans la base
+[COFFRE] [ ] #009 — Olive of Life — Woodlands / Valore Trail — Exploration — suis le chemin vers l'ouest ; coffre près de l'entrée d'une autre zone
 [COFFRE] [ ] #010 — Inspiriting Plum — Woodlands / Valore — Exploration — auberge, étage 2
-[COFFRE] [ ] #011 — Iron Dagger — Woodlands / Valore — Exploration — emplacement de la section ; aucun repère additionnel dans la base
+[COFFRE] [ ] #011 — Iron Dagger — Woodlands / Valore — Exploration — étagères de la maison du maire de Valore Trail
 [COFFRE] [ ] #012 — Knock Out Mastery — Woodlands / Valore: Main Boulevard — Exploration — coffre bleu verrouillé
-[COFFRE] [ ] #013 — Ice Soulstone — Frostlands / West Emberglow Wilds — Exploration — emplacement de la section ; aucun repère additionnel dans la base
-[COFFRE] [ ] #014 — Inspiriting Plum — Frostlands / Emberglow Wilds — Exploration — emplacement de la section ; aucun repère additionnel dans la base
-[COFFRE] [ ] #015 — 340L — Frostlands / Emberglow Wilds — Exploration — emplacement de la section ; aucun repère additionnel dans la base
+[COFFRE] [ ] #013 — Ice Soulstone — Frostlands / West Emberglow Wilds — Exploration — suis le sentier vers le sud-est
+[COFFRE] [ ] #014 — Inspiriting Plum — Frostlands / Emberglow Wilds — Exploration — au nord-est du monument de sauvegarde, avant North Theatropolis Plains
+[COFFRE] [ ] #015 — 340L — Frostlands / Emberglow Wilds — Exploration — au nord-est du monument de sauvegarde, avant North Theatropolis Plains
 [COFFRE] [ ] #016 — Frost Axe — Frostlands / Emberglow Wilds — Exploration — coffre bleu verrouillé
-[COFFRE] [ ] #017 — Protective Earring — Frostlands / West Emberglow Wilds — Exploration — emplacement de la section ; aucun repère additionnel dans la base
+[COFFRE] [ ] #017 — Protective Earring — Frostlands / West Emberglow Wilds — Exploration — suis le sentier vers la partie sud-ouest
 [COFFRE] [ ] #018 — Invigorating Nut (L) — Frostlands / Emberglow — Exploration — coffre bleu verrouillé, auberge, étage 2
-[COFFRE] [ ] #019 — Invigorating Nut — Frostlands / Emberglow — Exploration — emplacement de la section ; aucun repère additionnel dans la base
+[COFFRE] [ ] #019 — Invigorating Nut — Frostlands / Emberglow — Exploration — deuxième étage de l'auberge
 [COFFRE] [ ] #020 — Healing Grape — Frostlands / Emberglow: East District — Exploration — emplacement de la section ; aucun repère additionnel dans la base
 [COFFRE] [ ] #021 — Battle Music Score II — Frostlands / Emberglow: East District — Exploration — point de collecte dans la maison de Velnorte
-[COFFRE] [ ] #022 — Bottle of Poison Dust — Flatlands / North Theatropolis Plains — Exploration — emplacement de la section ; aucun repère additionnel dans la base
-[COFFRE] [ ] #023 — 480L — Flatlands / North Theatropolis Plains — Exploration — emplacement de la section ; aucun repère additionnel dans la base
+[COFFRE] [ ] #022 — Bottle of Poison Dust — Flatlands / North Theatropolis Plains — Exploration — coffre au nord de la zone
+[COFFRE] [ ] #023 — 480L — Flatlands / North Theatropolis Plains — Exploration — côté est, près d'une bûche et de la maison abandonnée
 [COFFRE] [ ] #024 — Cheap Whiskey — Flatlands / North Theatropolis Plains — Exploration — point de collecte à l'intérieur de la cabane
 [COFFRE] [ ] #025 — Prosperity Charm — Flatlands / Theatropolis Plains — Exploration — coffre bleu verrouillé
-[COFFRE] [ ] #026 — Olive of Life — Flatlands / Theatropolis Plains — Exploration — emplacement de la section ; aucun repère additionnel dans la base
-[COFFRE] [ ] #027 — Energizing Pomegranate — Flatlands / Theatropolis Plains — Exploration — emplacement de la section ; aucun repère additionnel dans la base
+[COFFRE] [ ] #026 — Olive of Life — Flatlands / Theatropolis Plains — Exploration — extrémité nord, à gauche avant l'entrée de Knights Ardante Garrison
+[COFFRE] [ ] #027 — Energizing Pomegranate — Flatlands / Theatropolis Plains — Exploration — extrémité nord, à droite avant l'entrée de Knights Ardante Garrison
 [COFFRE] [ ] #028 — Herb of Healing — Flatlands / Theatropolis — Exploration — auberge, étage 2
 [COFFRE] [ ] #029 — Letter Fragment — Flatlands / Theatropolis — Exploration — point de collecte dans la bibliothèque
 [COFFRE] [ ] #030 — Commander's Shield — Flatlands / Theatropolis — Exploration — coffre bleu verrouillé
 [COFFRE] [ ] #031 — Ordinary Hat — Flatlands / Amphitheatre: Entrance — Exploration — emplacement de la section ; aucun repère additionnel dans la base
 [COFFRE] [ ] #032 — Inspiriting Plum — Frostlands / Snowshard Grotto — Kindlers 1 — emplacement de la section ; aucun repère additionnel dans la base
 [COFFRE] [ ] #033 — More Rare Monsters Mastery — Frostlands / Snowshard Grotto — Kindlers 1 — coffre bleu verrouillé
-[COFFRE] [ ] #034 — Herb of Vitality — Frostlands / Snowshard Grotto — Kindlers 1 — emplacement de la section ; aucun repère additionnel dans la base
+[COFFRE] [ ] #034 — Herb of Vitality — Frostlands / Snowshard Grotto — Kindlers 1 — coffre au nord-ouest de la zone
 [COFFRE] [ ] #035 — Giant Bow — Frostlands / Snowshard Grotto — Kindlers 1 — gardé par Menacing Frostwing Serpent
-[COFFRE] [ ] #036 — Olive of Life — Flatlands / Serpent's Burrow — More exploring — emplacement de la section ; aucun repère additionnel dans la base
+[COFFRE] [ ] #036 — Olive of Life — Flatlands / Serpent's Burrow — More exploring — depuis l'entrée, va au sud puis prends le nord à l'embranchement
 [COFFRE] [ ] #037 — Monster Magnet Mastery — Flatlands / Serpent's Burrow — More exploring — coffre bleu verrouillé
-[COFFRE] [ ] #038 — Leather Helm — Flatlands / Serpent's Burrow — More exploring — emplacement de la section ; aucun repère additionnel dans la base
+[COFFRE] [ ] #038 — Leather Helm — Flatlands / Serpent's Burrow — More exploring — branche sud-ouest, après le passage gardé par l'Ettin Asp
 [COFFRE] [ ] #039 — Crested Key — Flatlands / Serpent's Burrow — More exploring — point de collecte près de l'Ettin Asp — uniquement si l'objet n'a pas été choisi au départ
 [COFFRE] [ ] #040 — Stinging Dagger — Flatlands / Serpent's Burrow — More exploring — gardé par Menacing Ettin Asp
-[COFFRE] [ ] #041 — Energizing Pomegranate — Flatlands / Serpent's Burrow — More exploring — emplacement de la section ; aucun repère additionnel dans la base
+[COFFRE] [ ] #041 — Energizing Pomegranate — Flatlands / Serpent's Burrow — More exploring — branche nord après le centre, par le petit passage
 [COFFRE] [ ] #042 — Light Soulstone — Woodlands / Path to Herminia's Manse — Master of Wealth 1 — emplacement de la section ; aucun repère additionnel dans la base
-[COFFRE] [ ] #043 — Healing Grape — Woodlands / Path to Herminia's Manse — Master of Wealth 1 — emplacement de la section ; aucun repère additionnel dans la base
-[COFFRE] [ ] #044 — Bottle of Sleeping Dust — Woodlands / Path to Herminia's Manse — Master of Wealth 1 — emplacement de la section ; aucun repère additionnel dans la base
-[COFFRE] [ ] #045 — Leather Hat — Woodlands / Herminia's Manse: Entrance — Master of Wealth 1 — emplacement de la section ; aucun repère additionnel dans la base
-[COFFRE] [ ] #046 — Sprightly Earring — Woodlands / Herminia's Manse: Entrance — Master of Wealth 1 — emplacement de la section ; aucun repère additionnel dans la base
+[COFFRE] [ ] #043 — Healing Grape — Woodlands / Path to Herminia's Manse — Master of Wealth 1 — au sud-est du monument de sauvegarde
+[COFFRE] [ ] #044 — Bottle of Sleeping Dust — Woodlands / Path to Herminia's Manse — Master of Wealth 1 — au sud-ouest du monument de sauvegarde
+[COFFRE] [ ] #045 — Leather Hat — Woodlands / Herminia's Manse: Entrance — Master of Wealth 1 — extrémité sud-ouest de la zone
+[COFFRE] [ ] #046 — Sprightly Earring — Woodlands / Herminia's Manse: Entrance — Master of Wealth 1 — côté ouest, à l'extérieur de l'entrée du manoir
 [COFFRE] [ ] #047 — Dagger Dance Mastery — Woodlands / Herminia's Manse: Entrance — Master of Wealth 1 — gardé par Menacing Demon Deer
 [COFFRE] [ ] #048 — 1000L — Woodlands / Herminia's Manse: Entrance — Master of Wealth 1 — emplacement de la section ; aucun repère additionnel dans la base
-[COFFRE] [ ] #049 — Herb of Clamor — Woodlands / Herminia's Manse: Entrance — Master of Wealth 1 — emplacement de la section ; aucun repère additionnel dans la base
+[COFFRE] [ ] #049 — Herb of Clamor — Woodlands / Herminia's Manse: Entrance — Master of Wealth 1 — chemin ouest, coffre gardé par Menacing Demon Deer
 [COFFRE] [ ] #050 — Olive of Life — Frostlands / Emberglow Laboratory: Entrance — Master of Power 1 — emplacement de la section ; aucun repère additionnel dans la base
 [COFFRE] [ ] #051 — Linen Robe — Frostlands / Emberglow Laboratory: Entrance — Master of Power 1 — gardé par Menacing Ice Lizardman IV
 [COFFRE] [ ] #052 — Wind Soulstone — Frostlands / Emberglow Laboratory: Entrance — Master of Power 1 — emplacement de la section ; aucun repère additionnel dans la base
@@ -1899,13 +1899,13 @@ numérotées #001 à #454 comptent dans ce registre et évitent un double compta
 [COFFRE] [ ] #056 — Battle Music Score V — Frostlands / Emberglow Laboratory — Master of Power 1 — point de collecte près du tome de sauvegarde
 [COFFRE] [ ] #057 — Energizing Pomegranate — Frostlands / Emberglow Laboratory — Master of Power 1 — emplacement de la section ; aucun repère additionnel dans la base
 [COFFRE] [ ] #058 — Bolstering Break Mastery — Frostlands / Emberglow Laboratory — Master of Power 1 — gardé par Menacing Senior Fellow I
-[COFFRE] [ ] #059 — Healing Grape — Flatlands / Amphitheatre: Rehearsal Room — Master of Fame 1 — emplacement de la section ; aucun repère additionnel dans la base
-[COFFRE] [ ] #060 — Thunder Soulstone — Flatlands / Amphitheatre: Rehearsal Room — Master of Fame 1 — emplacement de la section ; aucun repère additionnel dans la base
-[COFFRE] [ ] #061 — Buckler — Flatlands / Amphitheatre: Rehearsal Room — Master of Fame 1 — emplacement de la section ; aucun repère additionnel dans la base
-[COFFRE] [ ] #062 — 250L — Flatlands / Amphitheatre: Rehearsal Room — Master of Fame 1 — emplacement de la section ; aucun repère additionnel dans la base
-[COFFRE] [ ] #063 — Double Slam Mastery — Flatlands / Amphitheatre: Dressing Room — Master of Fame 1 — gardé par Menacing Thespian (Leader)
-[COFFRE] [ ] #064 — Olive of Life — Flatlands / Amphitheatre: Dressing Room — Master of Fame 1 — emplacement de la section ; aucun repère additionnel dans la base
-[COFFRE] [ ] #065 — Stimulating Earring — Flatlands / Amphitheatre: Dressing Room — Master of Fame 1 — emplacement de la section ; aucun repère additionnel dans la base
+[COFFRE] [ ] #059 — Healing Grape — Flatlands / Amphitheatre: Rehearsal Room — Master of Fame 1 — au sud du monument de sauvegarde
+[COFFRE] [ ] #060 — Thunder Soulstone — Flatlands / Amphitheatre: Rehearsal Room — Master of Fame 1 — rez-de-chaussée, près de l'escalier
+[COFFRE] [ ] #061 — Buckler — Flatlands / Amphitheatre: Rehearsal Room — Master of Fame 1 — rez-de-chaussée, au sud du couloir de droite
+[COFFRE] [ ] #062 — 250L — Flatlands / Amphitheatre: Rehearsal Room — Master of Fame 1 — côté droit du couloir vers la section intérieure
+[COFFRE] [ ] #063 — Double Slam Mastery — Flatlands / Amphitheatre: Dressing Room — Master of Fame 1 — pièce la plus à gauche de la section intérieure, gardé par Menacing Thespian (Leader)
+[COFFRE] [ ] #064 — Olive of Life — Flatlands / Amphitheatre: Dressing Room — Master of Fame 1 — première pièce à droite dans la section intérieure
+[COFFRE] [ ] #065 — Stimulating Earring — Flatlands / Amphitheatre: Dressing Room — Master of Fame 1 — deuxième pièce à gauche dans la section intérieure
 [COFFRE] [ ] #066 — Invigorating Nut — Frostlands / Snowbloom Ruins — Master of Wealth 2 — emplacement de la section ; aucun repère additionnel dans la base
 [COFFRE] [ ] #067 — Ice Soulstone — Frostlands / Snowbloom Ruins — Master of Wealth 2 — emplacement de la section ; aucun repère additionnel dans la base
 [COFFRE] [ ] #068 — Round Shield — Frostlands / Snowbloom Ruins — Master of Wealth 2 — emplacement de la section ; aucun repère additionnel dans la base

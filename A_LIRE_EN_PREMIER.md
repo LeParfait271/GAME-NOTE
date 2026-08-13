@@ -251,3 +251,10 @@ transformée en validation automatique quand c'est possible.
   comme « utilise les faiblesses » ne suffit plus pour un boss principal.
 - Les fiches de combat ne gonflent pas les compteurs 454/454 ou 37/37 ; le
   validateur vérifie leur présence et plusieurs renvois depuis la route.
+
+### Passe de contrôle 9 — repères de coffres OT0
+
+- Une première boucle de 27 lignes numérotées possède désormais un repère de
+  salle, de direction, d'étage ou de gardien lorsqu'il est confirmé par une
+  source de zone.
+- Les lignes restantes sans repère confirmé restent explicitement à enrichir

@@ -638,3 +638,10 @@ une mise à jour qui change les succès ou le contenu, le guide repasse en
 - La matrice OT0 garde les URLs Game8 et Neoseeker utilisées pour cette passe et
   conserve le statut archive/invisible tant que les élites et les zones ne sont
   pas relus écran par écran.
+
+### Passe de contrôle 10 — repères de coffres OT0
+
+- Le registre conserve 454 lignes, mais 27 premières entrées disposent désormais
+  d'un repère de progression plus précis que la simple sous-zone.
+- Chaque repère est séparé de la preuve de complétude : une direction sourcée
+  facilite le parcours, sans valider les autres coffres de la zone.
