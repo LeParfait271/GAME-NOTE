@@ -107,6 +107,7 @@ const requiredSourceFiles = [
   "A_LIRE_EN_PREMIER.md",
   "GAME_NOTE_RULES.md",
   "app/page.tsx",
+  "app/site-version.ts",
   "app/GuideReader.tsx",
   "app/layout.tsx",
   "app/globals.css",
@@ -119,6 +120,8 @@ const requiredSourceFiles = [
   "public/robots.txt",
   "public/service-worker.js",
   "public/sitemap.xml",
+  ".githooks/pre-commit",
+  "scripts/bump-site-version.mjs",
   "wrangler.toml",
   "docs/guide-catalog.json",
   "docs/site-guardrails.md",
@@ -133,6 +136,7 @@ for (const file of requiredSourceFiles) {
 }
 
 const page = await readText("app/page.tsx");
+const siteVersionSource = await readText("app/site-version.ts");
 const reader = await readText("app/GuideReader.tsx");
 const layout = await readText("app/layout.tsx");
 const stylesheet = await readText("app/globals.css");
@@ -147,6 +151,22 @@ const packageJson = await readJson("package.json");
 const manifest = await readJson("public/manifest.json");
 const catalog = await readJson("docs/guide-catalog.json");
 const steamAudit = await readJson("docs/steam-audit.json");
+
+const siteVersionMatch = siteVersionSource.match(
+  /export const SITE_VERSION = "(\d+)\.(\d{2})";/,
+);
+const siteVersion = siteVersionMatch
+  ? `${siteVersionMatch[1]}.${siteVersionMatch[2]}`
+  : null;
+if (!siteVersion) {
+  fail("app/site-version.ts: format attendu X.YY absent.");
+}
+if (!page.includes("SITE_VERSION")) {
+  fail("app/page.tsx: version du site absente du pied de page.");
+}
+if (packageJson?.scripts?.["version:bump"] !== "node scripts/bump-site-version.mjs") {
+  fail("package.json: script version:bump absent ou incohérent.");
+}
 
 const guideBlockMatch = page.match(
   /const guides\s*:\s*Guide\[\]\s*=\s*\[([\s\S]*?)\n\];/,
@@ -419,6 +439,25 @@ if (await exists("dist/client/index.html")) {
   const outputHeaders = await readText("dist/client/_headers");
   const outputRedirects = await readText("dist/client/_redirects");
   if (indexHtml.includes("\uFFFD")) fail("dist/client/index.html: UTF-8 corrompu.");
+  if (siteVersion) {
+    let versionPublished = indexHtml.includes(`v${siteVersion}`);
+    if (!versionPublished) {
+      const staticFiles = await walk("dist/client/_next/static");
+      for (const file of staticFiles.filter((entry) => entry.endsWith(".js"))) {
+        const staticSource = await readText(join("dist/client/_next/static", file));
+        if (
+          staticSource.includes("Game Note · guides personnels · v") &&
+          staticSource.includes(siteVersion)
+        ) {
+          versionPublished = true;
+          break;
+        }
+      }
+    }
+    if (!versionPublished) {
+      fail("dist/client: version du site absente de la sortie hydratée.");
+    }
+  }
   for (const fragment of [
     '<html lang="fr"',
     'id="main-content"',

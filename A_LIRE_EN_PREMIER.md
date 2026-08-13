@@ -80,6 +80,11 @@ Ce fichier fixe la méthode minimale avant toute modification visible du site.
     dépendance à une animation : le titre, l'index et l'accès à la bibliothèque
     doivent rester utilisables au clavier et sur petit écran. Les artworks
     distants doivent conserver un visuel local de repli.
+23. La version éditoriale affichée du site est centralisée dans
+    `app/site-version.ts` au format `X.YY`. Chaque commit doit l'augmenter de
+    `0.01` ; le hook `.githooks/pre-commit` le fait automatiquement et ajoute
+    le fichier à l'index. Ne pas utiliser `--no-verify` pour contourner cette
+    règle ; si le hook est absent, réactiver `core.hooksPath` avant de commit.
 
 Toute nouvelle règle durable doit être ajoutée à GAME_NOTE_RULES.md et
 transformée en validation automatique quand c'est possible.

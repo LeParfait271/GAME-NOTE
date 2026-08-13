@@ -173,6 +173,18 @@ Un compte rendu doit indiquer les fichiers touchés, les validations passées,
 les vérifications non réalisées, les risques restants et la configuration
 Cloudflare attendue. Aucun commit, push ou déploiement n'est implicite.
 
+## Version éditoriale et commits
+
+La version visible de Game Note est la constante `SITE_VERSION` de
+`app/site-version.ts`, au format `X.YY`. Un commit livré doit toujours faire
+progresser cette valeur de `0.01`, y compris un commit technique, de contenu ou
+de garde-fous. Le hook versionné `.githooks/pre-commit` exécute
+`scripts/bump-site-version.mjs` puis ajoute la version modifiée au commit ; la
+configuration locale doit pointer vers `.githooks` avec `core.hooksPath`.
+Le contrôle de site refuse une constante absente, mal formée ou non affichée
+dans la sortie Pages. Un contournement par `--no-verify` n'est acceptable que
+pour diagnostiquer un blocage, jamais pour livrer une modification.
+
 ## Lot interface immersive Game Note - 13 aout 2026
 
 - L'accueil peut utiliser une composition plein écran, une image de route et

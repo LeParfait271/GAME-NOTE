@@ -1,0 +1,19 @@
+#!/bin/sh
+set -eu
+
+ROOT=$(git rev-parse --show-toplevel)
+cd "$ROOT"
+
+if [ -n "${GAME_NOTE_NODE:-}" ] && [ -f "$GAME_NOTE_NODE" ]; then
+  NODE_BIN="$GAME_NOTE_NODE"
+elif [ -f "C:/Users/kokom/.cache/codex-runtimes/codex-primary-runtime/dependencies/node/bin/node.exe" ]; then
+  NODE_BIN="C:/Users/kokom/.cache/codex-runtimes/codex-primary-runtime/dependencies/node/bin/node.exe"
+elif command -v node >/dev/null 2>&1; then
+  NODE_BIN=node
+else
+  echo "Game Note : Node.js est nécessaire pour incrémenter la version du site." >&2
+  exit 1
+fi
+
+"$NODE_BIN" scripts/bump-site-version.mjs
+git add app/site-version.ts

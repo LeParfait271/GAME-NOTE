@@ -21,7 +21,8 @@
     "validate:pages": "node scripts/validate-pages-output.mjs",
     "preflight": "node scripts/preflight-pages.mjs",
     "preflight:strict": "node scripts/preflight-pages.mjs --strict-catalog",
-    "db:generate": "drizzle-kit generate"
+    "db:generate": "drizzle-kit generate",
+    "version:bump": "node scripts/bump-site-version.mjs"
   },
   "dependencies": {
     "drizzle-orm": "0.45.2",

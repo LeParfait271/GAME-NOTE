@@ -347,3 +347,18 @@ une mise à jour qui change les succès ou le contenu, le guide repasse en
 - Limite : le lot ne remplace pas les artworks Steam et ne modifie pas le
   contenu des guides ; une revue visuelle manuelle sur appareils reels reste
   a refaire lors d'une prochaine passe de responsive.
+
+### Version éditoriale — règle ajoutée le 13 août 2026
+
+- Source unique : `app/site-version.ts`, affichée dans le pied de page au
+  format `X.YY` ; la présente livraison initialise le suivi à `1.00` avant
+  l'incrément automatique du commit.
+- Règle : chaque commit doit augmenter la version du site de `0.01`, sans
+  exception pour une correction technique ou une simple mise à jour de
+  méthode. Le hook versionné `.githooks/pre-commit` applique l'incrément et
+  ajoute le fichier avant la création du commit.
+- Contrôles : `scripts/validate-site-guardrails.mjs` vérifie le format, le
+  script d'incrément et la présence de la version dans `dist/client/index.html`.
+- Limite : la configuration `core.hooksPath=.githooks` est locale au clone et
+  doit être réactivée après un nouveau clone ; un commit sans hook doit être
+  bloqué ou corrigé avant livraison.

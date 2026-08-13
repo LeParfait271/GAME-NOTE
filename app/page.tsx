@@ -2,6 +2,7 @@
 
 import { useEffect, useMemo, useRef, useState } from "react";
 import GuideReader from "./GuideReader";
+import { SITE_VERSION } from "./site-version";
 
 type Guide = {
   id: string;
@@ -3600,7 +3601,7 @@ export default function Home() {
       </section> : null}
 
       <footer className="site-footer">
-        <span>Game Note · guides personnels</span>
+        <span>Game Note · guides personnels · v{SITE_VERSION}</span>
         <a href={readerMode ? "/" : "#guides"}>Retour à la bibliothèque ↑</a>
       </footer>
     </main>
