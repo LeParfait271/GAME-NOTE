@@ -455,6 +455,18 @@ comme OT0, restent hors publication jusqu'à leur validation éditoriale.
 - Le contrôle couvre l'entrée, le hero, la bibliothèque, le lecteur, le clavier,
   le mobile, puis lint, build, preflight et smoke.
 
+### Refonte lisibilité des guides — 13 août 2026
+
+- Toute refonte du lecteur conserve les TXT et leur ordre : aucune suppression de
+  texte ne peut servir de correction visuelle.
+- Les lignes numérotées `1.` à `99.` sont des étapes compactes, pas des titres de
+  chapitre. Le compteur de grandes sections et le sommaire ne doivent pas gonfler
+  à cause du nombre de l'étape.
+- Le document de route reste la première surface de lecture sur mobile ; le
+  sommaire détaillé est repliable et la recherche reste disponible avant lui.
+- Le contrôle visuel doit couvrir au minimum un écran desktop et un écran mobile,
+  puis vérifier le build, le lint, le préflight et les smoke tests.
+
 ### Contrôle de précision des boss OT0 — 13 août 2026
 
 - Une fiche OT0 complète doit fournir une préparation, les faiblesses par

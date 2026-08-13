@@ -246,6 +246,17 @@ transformée en validation automatique quand c'est possible.
 - Le bouton de reprise et une entrée de l'historique doivent ouvrir la même
   fiche que la bibliothèque, sans créer une navigation parallèle.
 
+### Audit de lisibilité des fiches — 13 août 2026
+
+- Le texte source des guides ne doit pas être supprimé pour résoudre un problème
+  d'interface : la refonte agit sur le parseur et la présentation uniquement.
+- Une ligne numérotée de parcours reste une étape dans le document, même si son
+  numéro comporte deux chiffres ; elle ne doit pas devenir un faux chapitre.
+- Le sommaire expose les sections utiles, tandis que les étapes détaillées restent
+  lisibles dans la route complète et accessibles par la recherche.
+- Sur mobile, la fiche commence par le contenu ; le sommaire devient repliable
+  et ne doit pas repousser la première étape sous plusieurs écrans de navigation.
+
 ### Passe de contrôle 8 — fiches boss OT0
 
 - La route OT0 renvoie maintenant les combats importants vers 31 fiches

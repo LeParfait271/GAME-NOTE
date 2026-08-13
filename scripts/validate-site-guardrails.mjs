@@ -445,6 +445,25 @@ if ((reader.match(/className="reader-cover"/g) ?? []).length !== 1 ||
     (reader.match(/className="reader-layout"/g) ?? []).length !== 1) {
   fail("app/GuideReader.tsx: fiche premium ou mise en page du lecteur absente ou dupliquée.");
 }
+for (const fragment of [
+  'kind: "heading" | "subheading" | "step"',
+  'className="guide-step"',
+  "reader-outline-toggle",
+  "reader-outline-card",
+]) {
+  if (!reader.includes(fragment)) {
+    fail("app/GuideReader.tsx: refonte de lisibilité absente (" + fragment + ").");
+  }
+}
+for (const fragment of [
+  ".guide-step",
+  ".reader-outline-card:not(.is-open) .reader-outline",
+  ".site-shell.is-reader-mode .reader-document {",
+]) {
+  if (!stylesheet.includes(fragment)) {
+    fail("app/globals.css: garde-fou responsive du lecteur absent (" + fragment + ").");
+  }
+}
 if ((page.match(/export default function Home/g) ?? []).length !== 1) {
   fail("app/page.tsx: export Home absent ou dupliqué.");
 }

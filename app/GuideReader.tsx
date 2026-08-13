@@ -51,7 +51,7 @@ const GUIDE_COLLECTIBLE_HEADING =
 
 type GuideBlock = {
   id: string;
-  kind: "heading" | "subheading" | "paragraph" | "bullet" | "check";
+  kind: "heading" | "subheading" | "step" | "paragraph" | "bullet" | "check";
   text: string;
   checkIndex?: number;
   checkScope?: "steam" | "route";
@@ -314,15 +314,15 @@ const parseGuide = (text: string, markersEnabled: boolean): GuideBlock[] => {
 
     const headingText = line.replace(/^\d+(?:\.\d+)*[.)]\s+/, "").trim();
     const numberedHeading = /^\d+(?:\.\d+)*[.)]\s+/.test(line);
-    const majorNumberedHeading = /^\d{2,}(?:\.\d+)*[.)]\s+/.test(line);
+    const numberedSection = numberedHeading && /^(?:acte|chapitre|partie|episode|épisode|route|prologue|epilogue|épilogue|annexe|fin|post-game|dlc)\b/i.test(headingText);
     const collectibleHeading = GUIDE_COLLECTIBLE_HEADING.test(line);
     const heading =
-      numberedHeading ||
+      numberedSection ||
       isUppercaseHeading(line) ||
       isNamedHeading(line) ||
       collectibleHeading;
 
-    if (heading && line.length <= 120) {
+    if ((heading || numberedHeading) && line.length <= 120) {
       flushParagraph();
       if (/(?:checklist|liste complète|liste complete)/i.test(line)) {
         finalChecklistMode = true;
@@ -332,7 +332,7 @@ const parseGuide = (text: string, markersEnabled: boolean): GuideBlock[] => {
       ) {
         finalChecklistMode = false;
       }
-      const kind = numberedHeading && !majorNumberedHeading ? "subheading" : "heading";
+      const kind = numberedHeading && !numberedSection ? "step" : "heading";
       const value = numberedHeading
         ? `${line.match(/^\d+(?:\.\d+)*[.)]/)?.[0] ?? ""} ${headingText}`
         : line;
@@ -346,7 +346,7 @@ const parseGuide = (text: string, markersEnabled: boolean): GuideBlock[] => {
       continue;
     }
 
-    if (lastStructuredKind === "bullet" || lastStructuredKind === "check") {
+    if (lastStructuredKind === "bullet" || lastStructuredKind === "check" || lastStructuredKind === "step") {
       const previous = blocks[blocks.length - 1];
       if (previous?.kind === lastStructuredKind) {
         previous.text = `${previous.text} ${line}`.replace(/\s+/g, " ").trim();
@@ -404,6 +404,13 @@ const formatText = (text: string) =>
     .replace(/\*\*(.+?)\*\*/g, "$1")
     .replace(/`(.+?)`/g, "$1");
 
+const splitGuideStep = (value: string) => {
+  const match = value.match(/^(\d+(?:\.\d+)*[.)])\s+(.+)$/);
+  return match
+    ? { number: match[1], text: match[2] }
+    : { number: "→", text: value };
+};
+
 export default function GuideReader({
   selected,
   previousGuide,
@@ -423,6 +430,7 @@ export default function GuideReader({
   const [readingProgress, setReadingProgress] = useState(0);
   const [savedReadingProgress, setSavedReadingProgress] = useState(0);
   const [activeSearchResult, setActiveSearchResult] = useState(0);
+  const [outlineOpen, setOutlineOpen] = useState(false);
   const resultRefs = useRef<Array<HTMLElement | null>>([]);
 
   /* eslint-disable react-hooks/set-state-in-effect */
@@ -774,8 +782,18 @@ export default function GuideReader({
       ) : (
         <div className="reader-layout">
           <aside className="reader-sidebar" aria-label="Sommaire de la fiche">
-            <div className="reader-sidebar-card">
-              <p className="sidebar-kicker">SOMMAIRE</p>
+            <div className={`reader-sidebar-card reader-outline-card${outlineOpen ? " is-open" : ""}`}>
+              <p className="sidebar-kicker reader-outline-title">SOMMAIRE</p>
+              <button
+                className="reader-outline-toggle"
+                type="button"
+                aria-expanded={outlineOpen}
+                onClick={() => setOutlineOpen((current) => !current)}
+              >
+                <span>SOMMAIRE</span>
+                <span>{outline.length} sections</span>
+                <strong aria-hidden="true">{outlineOpen ? "−" : "+"}</strong>
+              </button>
               <nav className="reader-outline">
                 {outline.length > 0 ? (
                   outline.map((block) => (
@@ -822,7 +840,7 @@ export default function GuideReader({
               <div>
                 <p className="document-kicker">FEUILLE DE ROUTE INTERACTIVE</p>
                 <h2>Le parcours, au bon moment</h2>
-                <p>Lis les repères dans l&apos;ordre, utilise le sommaire pour revenir à une zone et coche les objectifs Steam à la fin.</p>
+                <p>Commence par le premier titre, avance dans l&apos;ordre et utilise le sommaire pour revenir rapidement à une zone.</p>
                 {markerKinds.length > 0 ? (
                   <div className="guide-marker-legend" aria-label="Légende des repères">
                     <span className="guide-marker-legend-title">REPÈRES</span>
@@ -866,6 +884,15 @@ export default function GuideReader({
                 }
                 if (block.kind === "subheading") {
                   return <h4 className="guide-subheading" id={block.id} key={block.id} ref={(element) => { resultRefs.current[visibleIndex] = element; }}><span className="guide-subheading-content"><GuideMarkerRow markers={block.markers} /><span>{highlighted}</span></span></h4>;
+                }
+                if (block.kind === "step") {
+                  const step = splitGuideStep(block.text);
+                  return (
+                    <div className="guide-step" id={block.id} key={block.id} ref={(element) => { resultRefs.current[visibleIndex] = element; }}>
+                      <span className="guide-step-index" aria-hidden="true">{step.number}</span>
+                      <p className="guide-step-copy"><GuideMarkerRow markers={block.markers} />{renderHighlightedText(step.text)}</p>
+                    </div>
+                  );
                 }
                 if (block.kind === "bullet") {
                   return <p className="guide-bullet" key={block.id} ref={(element) => { resultRefs.current[visibleIndex] = element; }}><span className="guide-bullet-arrow" aria-hidden="true">→</span><span className="guide-bullet-copy"><GuideMarkerRow markers={block.markers} />{highlighted}</span></p>;

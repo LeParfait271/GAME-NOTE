@@ -624,6 +624,20 @@ une mise à jour qui change les succès ou le contenu, le guide repasse en
 - Le contrôle couvre l'accueil, la bibliothèque, le lecteur, le clavier, le
   mobile et les validations de livraison.
 
+## Audit visuel des fiches - lisibilité et hiérarchie - 13 août 2026
+
+- La refonte du lecteur ne touche pas aux TXT : elle modifie uniquement la
+  classification visuelle, la hiérarchie des titres et l'ordre des panneaux.
+- Les étapes numérotées, y compris `10.` et suivantes, utilisent un repère compact
+  `guide-step` ; elles ne doivent plus produire de faux grands chapitres.
+- Le sommaire ne liste que les sections et sous-sections utiles. Les étapes restent
+  présentes dans le corps, avec leurs marqueurs, leur texte et leurs ancres.
+- Sur mobile, le corps de la fiche passe avant la colonne de navigation et le
+  sommaire est repliable ; aucune perte de recherche, checklist, téléchargement ou
+  progression n'est autorisée.
+- La validation attendue compare les volumes de blocs avant/après, contrôle zéro
+  débordement horizontal et couvre desktop, tablette étroite et mobile.
+
 ### Passe de contrôle 9 — fiches de combat OT0
 
 - Le TXT conserve désormais un dossier de 31 fiches boss reliées à la route par

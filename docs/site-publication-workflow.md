@@ -195,3 +195,16 @@ traité comme une récompense d'action et non comme un coffre supplémentaire.
   à une seule soluce ; le retour doit laisser toutes les cartes et la recherche
   disponibles.
 - Le smoke test vérifie la séparation entre `heroGuides` et l'historique local.
+
+## Refonte lecteur - audit de lisibilité - 13 août 2026
+
+- Le TXT reste la source éditoriale intacte ; la passe ne supprime ni étape, ni
+  coffre, ni succès, ni paragraphe. Seule la couche de lecture est refondue.
+- Le parseur distingue désormais les vrais titres des étapes numérotées : `10.`
+  ne peut plus être rendu comme un chapitre géant uniquement parce qu'il contient
+  deux chiffres.
+- Le sommaire conserve les sections navigables, tandis que chaque étape reste
+  dans le corps avec son numéro, son texte, ses marqueurs et son ancre.
+- Le mobile place le document avant la navigation secondaire et replie le sommaire
+  jusqu'à ouverture explicite. Les captures et mesures doivent contrôler cette
+  hiérarchie avant le build, le préflight et le commit unique.

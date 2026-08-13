@@ -52,6 +52,9 @@ test("le shell statique conserve les repères accessibles", () => {
   assert.match(pageSource, /dataset\.fallbackApplied/);
   assert.match(readerSource, /dataset\.fallbackApplied/);
   assert.match(readerSource, /className="reader-neighbors"/);
+  assert.match(readerSource, /reader-outline-toggle/);
+  assert.match(readerSource, /className="guide-step"/);
+  assert.match(readerSource, /kind: "heading" \| "subheading" \| "step"/);
   assert.match(readerSource, /position A–Z/);
   assert.match(readerSource, /game-note-reading-/);
   assert.match(readerSource, /className="reader-resume"/);
