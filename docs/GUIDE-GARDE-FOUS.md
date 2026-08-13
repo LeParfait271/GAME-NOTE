@@ -286,6 +286,12 @@ case isolée. Les suites de `[ ]` séparées par des phrases dans un seul
 paragraphe sont interdites : elles empêchent le lecteur de rendre les repères,
 la recherche et le suivi utilisables.
 
+Le lecteur doit toutefois savoir récupérer les anciennes cases de contrôle
+présentes dans les annexes : il les sépare visuellement et les conserve dans le
+suivi local. Le compteur de succès Steam reste limité aux cases de la checklist
+finale ; les relations, matérias, compétences et autres collections gardent un
+suivi distinct.
+
 Exemple : `[COFFRE] - Dans la salle nord, ouvrir le coffre avant de prendre
 l'ascenseur.` Les marqueurs peuvent être combinés, par exemple
 `[MANQUABLE] [SAUVEGARDE]`. Le lecteur retire la syntaxe du texte affiché,

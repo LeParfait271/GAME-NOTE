@@ -98,6 +98,10 @@ statique Cloudflare Pages.
   correspondantes. Le contenu doit rester découpé en une action par ligne :
   une suite de cases ou d'actions dans un paragraphe est refusée, même si le
   TXT reste techniquement lisible.
+- Dans ces deux fiches premium, une case `[ ]` d'annexe ou de contrôle de route
+  devient un suivi local distinct ; plusieurs cases sur une même ligne doivent
+  être séparées au rendu. Seules les cases placées dans la checklist Steam
+  alimentent le compteur des succès.
 - Les textes ne doivent pas contenir de caractère de remplacement UTF-8 (�),
   de contenu vide ou de doublon d'identifiant.
 - Les nouvelles cartes doivent garder un nom accessible pour chaque bouton et

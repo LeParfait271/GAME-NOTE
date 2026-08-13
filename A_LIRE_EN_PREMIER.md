@@ -64,6 +64,10 @@ Ce fichier fixe la méthode minimale avant toute modification visible du site.
 18. Le format visuel validé sur FFVII est aussi obligatoire pour Expedition 33 :
     activer les mêmes repères dans le lecteur, garder une action par ligne et
     contrôler le rendu réel de la fiche avant de déclarer la réécriture terminée.
+19. Les cases de contrôle placées dans une annexe premium doivent être rendues
+    interactives séparément, y compris lorsqu'une ancienne ligne en contient
+    plusieurs. Elles alimentent le suivi local sans modifier le total des
+    succès Steam.
 
 Toute nouvelle règle durable doit être ajoutée à GAME_NOTE_RULES.md et
 transformée en validation automatique quand c'est possible.

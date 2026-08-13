@@ -52,6 +52,7 @@ type GuideBlock = {
   kind: "heading" | "subheading" | "paragraph" | "bullet" | "check";
   text: string;
   checkIndex?: number;
+  checkScope?: "steam" | "route";
   markers?: GuideMarkerKind[];
 };
 
@@ -129,6 +130,23 @@ const extractGuideMarkers = (value: string) => {
     line: match[2].trim(),
     markers: uniqueGuideMarkers(markers),
   };
+};
+
+const splitInlineChecklistLine = (value: string) => {
+  const firstCheck = value.search(/\[\s*\]\s+/);
+  if (firstCheck < 0) return [value];
+
+  const prefix = value
+    .slice(0, firstCheck)
+    .replace(/^\s*-\s*$/, "")
+    .trim();
+  const checks = value
+    .slice(firstCheck)
+    .split(/\s+(?=\[\s*\]\s+)/)
+    .map((part) => part.replace(/[;]\s*$/, "").trim())
+    .filter(Boolean);
+
+  return prefix ? [prefix, ...checks] : checks;
 };
 
 const inferGuideMarkers = (
@@ -210,6 +228,7 @@ const parseGuide = (text: string, markersEnabled: boolean): GuideBlock[] => {
     value: string,
     explicitMarkers: GuideMarkerKind[] = [],
     blockCheckIndex?: number,
+    blockCheckScope?: "steam" | "route",
   ) => {
     const markers = markersEnabled
       ? uniqueGuideMarkers([
@@ -222,6 +241,7 @@ const parseGuide = (text: string, markersEnabled: boolean): GuideBlock[] => {
       kind,
       text: value,
       ...(blockCheckIndex === undefined ? {} : { checkIndex: blockCheckIndex }),
+      ...(blockCheckScope === undefined ? {} : { checkScope: blockCheckScope }),
       ...(markers.length ? { markers } : {}),
     });
   };
@@ -239,7 +259,9 @@ const parseGuide = (text: string, markersEnabled: boolean): GuideBlock[] => {
     paragraphMarkers = [];
   };
 
-  for (const rawLine of lines) {
+  const sourceLines = markersEnabled ? lines.flatMap(splitInlineChecklistLine) : lines;
+
+  for (const rawLine of sourceLines) {
     const extracted = markersEnabled
       ? extractGuideMarkers(rawLine.trim())
       : { line: rawLine.trim(), markers: [] as GuideMarkerKind[] };
@@ -266,9 +288,15 @@ const parseGuide = (text: string, markersEnabled: boolean): GuideBlock[] => {
     }
 
     const checklist = line.match(/^(?:[-*]\s*)?\[\s*\]\s+(.+)$/);
-    if (checklist && finalChecklistMode) {
+    if (checklist && (finalChecklistMode || markersEnabled)) {
       flushParagraph();
-      pushBlock("check", checklist[1].trim(), lineMarkers, checkIndex++);
+      pushBlock(
+        "check",
+        checklist[1].trim(),
+        lineMarkers,
+        checkIndex++,
+        finalChecklistMode ? "steam" : "route",
+      );
       lastStructuredKind = "check";
       continue;
     }
@@ -479,7 +507,7 @@ export default function GuideReader({
     [guideText, markersEnabled],
   );
   const checklist = useMemo(
-    () => blocks.filter((block) => block.kind === "check"),
+    () => blocks.filter((block) => block.kind === "check" && block.checkScope === "steam"),
     [blocks],
   );
   const query = normalizeGuideText(search.trim());
