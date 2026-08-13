@@ -417,6 +417,15 @@ contrôle de la fiche concernée.
 - Chaque récit secondaire doit garder son déclencheur, son trajet et sa
   récompense dans le TXT ; le compteur 57 ne remplace pas la procédure.
 
+### Contrôle coffres bleus OT0 — 13 août 2026
+
+- Le guide doit isoler les 44 coffres bleus dans une checklist de rattrapage
+  ordonnée, sans les compter une seconde fois dans les 454 entrées canoniques.
+- Le prérequis doit être explicite : Église de Wishvale construite et rang 3
+  atteint après Kindlers of the Flame 5.
+- Chaque ligne bleue doit conserver son identifiant du registre et sa zone ;
+  un simple total « 44 coffres bleus » sans correspondance est refusé.
+
 ### Audit interface personnelle — 13 août 2026
 
 - L'accueil ne présente pas de badges « nouveau », « fondateur » ou équivalent,
@@ -424,5 +433,7 @@ contrôle de la fiche concernée.
   flottant qui ressemble à une publicité.
 - Le service worker reste actif et met à jour l'application automatiquement ;
   les messages hors ligne et les erreurs de route restent des statuts utiles.
+- Le hero peut afficher le dernier guide réellement ouvert en rouge et un
+  historique local de cinq guides maximum en jaune, dans l'ordre d'utilisation.
 - Le contrôle couvre l'entrée, le hero, la bibliothèque, le lecteur, le clavier,
   le mobile, puis lint, build, preflight et smoke.

@@ -208,6 +208,16 @@ transformée en validation automatique quand c'est possible.
   fragment d'Atlasdam est une récompense d'Entreat auprès du Cat of Graceful
   Bearing, pas une ligne de coffre.
 
+### Passe de contrôle 5 — coffres bleus OT0
+
+- Le TXT possède maintenant une checklist séparée de 44 coffres bleus, reliée
+  aux numéros du registre 454/454 et organisée par ordre de rattrapage.
+- La checklist rappelle le vrai déblocage : construire l'Église de Wishvale,
+  puis la monter au rang 3 après Kindlers of the Flame 5.
+- Une checklist secondaire ne doit jamais gonfler le compteur canonique : les
+  454 lignes numérotées restent l'autorité, tandis que les rappels de route
+  servent uniquement à jouer et à vérifier.
+
 ### Passe de contrôle 5 — interface personnelle
 
 - L'accueil ne doit pas afficher de badge promotionnel, de bouton d'installation
@@ -215,3 +225,5 @@ transformée en validation automatique quand c'est possible.
   utiles restent accessibles par la navigation normale et le menu du navigateur.
 - Les statuts hors ligne, erreurs de route et marqueurs de contenu restent
   autorisés lorsqu'ils décrivent réellement l'état ou la fiche consultée.
+- Le hero peut afficher le dernier guide réellement ouvert en rouge et un
+  historique local de cinq guides maximum en jaune, dans l'ordre d'utilisation.

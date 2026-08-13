@@ -50,7 +50,7 @@ les conditions et les repères avant rédaction originale en français.
 | --- | ---: | --- | --- |
 | Succès Steam | 37 | Steam officiel | Reporter les 37 une seule fois dans la checklist finale. |
 | Personnages jouables | 36 | Base OT0 + liste de recrutement | Vérifier le statut de chaque recrue et distinguer temporaire/permament. |
-| Coffres répertoriés | 454 | Base OT0 | Replacer chaque coffre par zone et écran ; contrôler les coffres bleus séparément. |
+| Coffres répertoriés | 454, dont 44 bleus | Base OT0 + Game8 | Replacer chaque coffre par zone et écran ; contrôler les coffres bleus séparément. |
 | Jobs | 8 | Base OT0 | Indiquer obtention, compétences et emplacement dans la route. |
 | Compétences et skills | 473 entrées de base | Base OT0 | Distinguer compétences de job, maîtrises, compétences de résident et objets. |
 | PNJ | 723 entrées de base | Base OT0 | Ne retenir dans le guide que les interactions utiles : quête, objet, info, invitation, combat ou recrutement. |
@@ -162,6 +162,8 @@ fonction précise.
 - [ ] chaque récit secondaire de la liste NGB replacé dans la chronologie ;
 - [ ] 36 personnages vérifiés avec condition, lieu, étape et statut ;
 - [ ] 454 coffres et coffres bleus rapprochés de la route ;
+- [ ] 44 coffres bleus regroupés dans une checklist de rattrapage, avec leur
+  numéro canonique et le prérequis de l'Église rang 3 ;
 - [ ] 37 succès reliés à une étape ou au nettoyage final ;
 - [ ] fenêtres de recrutement et points de non-retour confirmés ;
 - [ ] contradictions résolues dans cette matrice ;
@@ -231,3 +233,15 @@ fonction précise.
 - `Unnatural Tremors` est inclus dans le registre et contrôlé séparément, tandis
   que `The Hidden Isle` et `The Sage Beckons` ferment la route post-game et la
   condition d'Isla.
+
+## Passe de contrôle 6 — coffres bleus et route de rattrapage
+
+- Le TXT contient désormais une checklist dédiée de 44 coffres bleus, ordonnée
+  par progression et reliée aux identifiants du registre canonique.
+- La condition d'ouverture est explicitée : construire l'Église de Wishvale
+  puis l'améliorer au rang 3 ; les coffres bleus restent séparés des coffres
+  ordinaires, des points de collecte et des récompenses de Path Action.
+- Game8 fournit la condition d'ouverture et les emplacements illustrés des
+  coffres bleus ; la base OT0 fournit le rapprochement nom/zone/sous-zone.
+  Cette passe améliore la navigation, mais le guide reste archivé tant que la
+  relecture écran par écran de chaque zone n'est pas terminée.

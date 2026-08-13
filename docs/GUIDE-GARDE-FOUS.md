@@ -544,6 +544,15 @@ une mise à jour qui change les succès ou le contenu, le guide repasse en
 - Les 57 fiches secondaires doivent donner une fenêtre d'accès, un lieu, une
   action ou un combat et une récompense ; un simple catalogue de noms ne suffit
   plus pour passer le contrôle éditorial.
+
+### Contrôle des coffres bleus OT0
+
+- Le TXT doit présenter une checklist dédiée de 44 coffres bleus, reliée aux
+  numéros du registre 454/454 et ordonnée pour le retour de nettoyage.
+- La condition d'ouverture doit être donnée sans approximation : Église de
+  Wishvale construite puis améliorée au rang 3 après Kindlers of the Flame 5.
+- Les rappels bleus ne doivent pas créer de faux trésors supplémentaires ; le
+  compteur automatique reste fondé uniquement sur les 454 lignes numérotées.
 ## Lot scène d'entrée et archive monumentale - 13 août 2026
 
 - L'entrée présente une carte, une typographie géante et un lien direct avant
@@ -593,6 +602,8 @@ une mise à jour qui change les succès ou le contenu, le guide repasse en
   sans statistiques de vitrine dans le hero.
 - Le bandeau de slogans et le bouton PWA flottant disparaissent de l'accueil ;
   le service worker continue de fonctionner silencieusement.
+- Le dernier guide ouvert est le point de reprise rouge ; l'historique jaune
+  reste local à l'appareil, ordonné par utilisation et limité à cinq fiches.
 - Les statuts hors ligne et les erreurs de route restent conservés car ils
   décrivent l'état réel de l'application.
 - Le contrôle couvre l'accueil, la bibliothèque, le lecteur, le clavier, le

@@ -91,3 +91,11 @@ et Unnatural Tremors. Tant que ces compteurs éditoriaux ne sont pas relus, le f
 reste hors catalogue et hors publication.
 Les cinq fragments de lettre doivent eux aussi être localisables, avec Atlasdam
 traité comme une récompense d'action et non comme un coffre supplémentaire.
+
+### Passe de contrôle 6 — coffres bleus OT0
+
+- La fiche OT0 conserve une checklist de 44 coffres bleus, avec identifiants du
+  registre et ordre de rattrapage après l'Église de Wishvale rang 3.
+- Cette checklist facilite la navigation mais ne change pas la publication :
+  OT0 reste archivé, invisible et absent du cache offline tant que la revue
+  écran par écran n'est pas terminée.

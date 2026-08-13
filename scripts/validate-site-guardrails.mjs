@@ -246,6 +246,27 @@ if (octopathZeroDraft) {
       fail(`${octopathZeroDraftPath}: fragment de lettre ou emplacement de contrôle absent (${requiredFragment}).`);
     }
   }
+  const blueChestHeading = "COFFRES BLEUS \u2014 DÉBLOCAGE ET RATTRAPAGE (44/44)";
+  const blueChestSection = octopathZeroDraft.split(blueChestHeading)[1]?.split("OBJECTIF DE PARTIE")[0] ?? "";
+  const blueChestChecks = [...blueChestSection.matchAll(/^- \[ \] \[COFFRE\] \[BLEU\] #\d{3} \u2014/gm)];
+  if (blueChestChecks.length !== 44) {
+    fail(
+      octopathZeroDraftPath + ": la checklist des coffres bleus doit contenir exactement 44 cases (actuel : " + blueChestChecks.length + ").",
+    );
+  }
+  const requiredBlueChestIds = [
+    "#008", "#012", "#016", "#018", "#025", "#030", "#033", "#037",
+    "#094", "#120", "#123", "#145", "#146", "#175", "#176", "#192",
+    "#196", "#202", "#206", "#209", "#222", "#232", "#278", "#290",
+    "#292", "#303", "#308", "#315", "#325", "#327", "#331", "#343",
+    "#347", "#352", "#358", "#375", "#386", "#392", "#403", "#409",
+    "#424", "#426", "#446", "#454",
+  ];
+  for (const requiredBlueChestId of requiredBlueChestIds) {
+    if (!blueChestSection.includes(requiredBlueChestId + " \u2014")) {
+      fail(octopathZeroDraftPath + ": coffre bleu requis absent (" + requiredBlueChestId + ").");
+    }
+  }
 }
 
 const guideBlockMatch = page.match(
