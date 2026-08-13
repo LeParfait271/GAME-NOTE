@@ -210,7 +210,7 @@ transformée en validation automatique quand c'est possible.
 ### Passe de contrôle 5 — interface personnelle
 
 - L'accueil ne doit pas afficher de badge promotionnel, de bouton d'installation
-  flottant ou de bandeau de slogans ; les fonctions utiles restent accessibles
-  par la navigation normale et le menu du navigateur.
+  flottant, de bandeau de slogans ou de statistiques décoratives ; les fonctions
+  utiles restent accessibles par la navigation normale et le menu du navigateur.
 - Les statuts hors ligne, erreurs de route et marqueurs de contenu restent
   autorisés lorsqu'ils décrivent réellement l'état ou la fiche consultée.

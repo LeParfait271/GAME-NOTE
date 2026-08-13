@@ -586,7 +586,8 @@ une mise à jour qui change les succès ou le contenu, le guide repasse en
 ## Audit interface personnelle - 13 août 2026
 
 - Les cartes ne montrent plus de badges éditoriaux assimilables à une mise en
-  avant commerciale ; les titres, compteurs et types de route restent visibles.
+  avant commerciale ; les titres, compteurs et types de route restent visibles,
+  sans statistiques de vitrine dans le hero.
 - Le bandeau de slogans et le bouton PWA flottant disparaissent de l'accueil ;
   le service worker continue de fonctionner silencieusement.
 - Les statuts hors ligne et les erreurs de route restent conservés car ils

@@ -417,8 +417,8 @@ contrôle de la fiche concernée.
 ### Audit interface personnelle — 13 août 2026
 
 - L'accueil ne présente pas de badges « nouveau », « fondateur » ou équivalent,
-  de bandeau animé de slogans, ni de bouton PWA flottant qui ressemble à une
-  publicité.
+  de bandeau animé de slogans, de statistiques décoratives, ni de bouton PWA
+  flottant qui ressemble à une publicité.
 - Le service worker reste actif et met à jour l'application automatiquement ;
   les messages hors ligne et les erreurs de route restent des statuts utiles.
 - Le contrôle couvre l'entrée, le hero, la bibliothèque, le lecteur, le clavier,

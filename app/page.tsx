@@ -3458,25 +3458,20 @@ export default function Home() {
         <div className="portfolio-hero-topline">
           <span>GAME NOTE / FIELD MANUAL</span>
           <span>CHRONOLOGICAL GUIDES / FR</span>
-          <span>NO ACCOUNT / NO DETOUR</span>
+          <span>PERSONAL ARCHIVE / 2026</span>
         </div>
         <div className="portfolio-hero-grid">
           <div className="portfolio-hero-copy">
             <p className="hero-kicker"><span>GAME NOTE</span><span>ARCHIVE 2026</span></p>
             <h1 id="hero-title">Une partie.<br /><em>Une route.</em><br /><span>Pas un oubli.</span></h1>
             <p className="hero-intro">
-              Des guides chronologiques pour les jeux qui méritent mieux qu&apos;un onglet ouvert au hasard.
+              Mes notes chronologiques, mes repères de succès et les étapes à ne pas rater.
             </p>
             <div className="hero-actions">
               <a className="hero-link hero-link-primary" href="#guides">Ouvrir l&apos;index <span aria-hidden="true">↓</span></a>
               <button className="hero-link hero-link-secondary" type="button" onClick={() => handleOpenReader(heroActive.id)}>
-                Lire la route à la une <span aria-hidden="true">↗</span>
+                Lire la fiche <span aria-hidden="true">↗</span>
               </button>
-            </div>
-            <div className="hero-stats" aria-label="Statistiques Game Note">
-              <div><strong>{siteGuides.length}</strong><span>guides actifs</span></div>
-              <div><strong>100%</strong><span>lecture locale</span></div>
-              <div><strong>01</strong><span>repère à la fois</span></div>
             </div>
           </div>
 
@@ -3496,7 +3491,7 @@ export default function Home() {
               />
               <span className="hero-focus-grid" aria-hidden="true" />
               <div className="hero-focus-caption">
-                <p>ROUTE À LA UNE / {String(siteGuides.indexOf(heroActive) + 1).padStart(2, "0")}</p>
+                <p>ROUTE / {String(siteGuides.indexOf(heroActive) + 1).padStart(2, "0")}</p>
                 <h2>{heroActive.title}</h2>
                 <span>{heroActive.eyebrow} / {heroActive.count}</span>
               </div>
@@ -3505,7 +3500,7 @@ export default function Home() {
           </article>
 
           <div className="hero-index">
-            <div className="hero-index-heading"><span>INDEX / SÉLECTION</span><span>{String(heroGuides.length).padStart(2, "0")} / {String(siteGuides.length).padStart(2, "0")}</span></div>
+            <div className="hero-index-heading"><span>INDEX / ROUTES</span><span>{String(heroGuides.length).padStart(2, "0")} / {String(siteGuides.length).padStart(2, "0")}</span></div>
             <ol>
               {heroGuides.map((guide, index) => (
                 <li key={guide.id}>
@@ -3528,12 +3523,6 @@ export default function Home() {
         </div>
         <a className="hero-scroll" href="#guides"><span>SCROLL / INDEX</span><span className="hero-scroll-line" aria-hidden="true" /></a>
       </section>
-      <div className="route-marquee" aria-hidden="true">
-        <div className="route-marquee-track">
-          <span>CHRONOLOGICAL ROUTES</span><i>✦</i><span>MISSABLES BEFORE THE POINT OF NO RETURN</span><i>✦</i><span>STEAM 100 % / LOCAL FIRST</span><i>✦</i>
-          <span>CHRONOLOGICAL ROUTES</span><i>✦</i><span>MISSABLES BEFORE THE POINT OF NO RETURN</span><i>✦</i><span>STEAM 100 % / LOCAL FIRST</span><i>✦</i>
-        </div>
-      </div>
       <section ref={libraryRef} className="section-block library-page reveal-section" id="guides">
         <div className="section-heading">
           <div>
@@ -3637,7 +3626,6 @@ export default function Home() {
                 >
                   <div className="card-top">
                     <span className="card-index">{String(catalogPosition).padStart(2, "0")}</span>
-                    <span className="card-tag">{guide.tag}</span>
                   </div>
                   <button
                     className="guide-card-open"
