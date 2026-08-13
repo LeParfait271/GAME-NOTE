@@ -77,7 +77,7 @@ const normalizeGuideText = (value: string) =>
     .toLocaleLowerCase("fr");
 
 const guideHeaderUrl = (appId: number) =>
-  `https://cdn.akamai.steamstatic.com/steam/apps/${appId}/header.jpg`;
+  `https://cdn.akamai.steamstatic.com/steam/apps/${appId}/header_2x.jpg`;
 
 const makeBlockId = (text: string, index: number) => {
   const slug = normalizeGuideText(text)
@@ -632,8 +632,11 @@ export default function GuideReader({
           <img
             src={selected.artworkUrl ?? guideHeaderUrl(selected.steamAppId)}
             alt={`Illustration officielle de ${selected.title}`}
-            width={460}
-            height={215}
+            width={920}
+            height={430}
+            onError={(event) => {
+              event.currentTarget.src = "/images/cards/game-note-card-route.png";
+            }}
           />
           <span className={`reader-cover-accent reader-cover-accent-${selected.accent}`} />
         </div>

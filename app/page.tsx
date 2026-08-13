@@ -2953,7 +2953,7 @@ const SITE_VISIBLE_GUIDE_IDS = new Set(["expedition-33", "octopath"]);
 const siteGuides = guides.filter((guide) => SITE_VISIBLE_GUIDE_IDS.has(guide.id));
 
 const steamHeaderUrl = (appId: number) =>
-  `https://cdn.akamai.steamstatic.com/steam/apps/${appId}/header.jpg`;
+  `https://cdn.akamai.steamstatic.com/steam/apps/${appId}/header_2x.jpg`;
 
 const steamPortraitUrl = (appId: number) =>
   `https://cdn.akamai.steamstatic.com/steam/apps/${appId}/library_600x900_2x.jpg`;
@@ -3692,8 +3692,8 @@ export default function Home() {
                       <img
                         src={guide.artworkUrl ?? steamHeaderUrl(guide.steamAppId)}
                         alt={`Illustration officielle de ${guide.title}`}
-                        width={460}
-                        height={215}
+                        width={920}
+                        height={430}
                         loading="lazy"
                         decoding="async"
                       />

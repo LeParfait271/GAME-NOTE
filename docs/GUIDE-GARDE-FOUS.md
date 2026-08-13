@@ -668,3 +668,5 @@ une mise à jour qui change les succès ou le contenu, le guide repasse en
   coffres bleus.
 - Les chemins de Gray Grotto distinguent l'élite, le monument et le cul-de-sac.
 - Le lot reste archive/invisible tant que Geist Canyon et les zones restantes ne
+
+- La couverture des fiches actives est contrôlée en 16/9 sur desktop et mobile ; la source 2x et le repli local doivent rester fonctionnels.

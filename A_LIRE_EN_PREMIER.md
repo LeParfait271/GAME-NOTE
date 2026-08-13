@@ -281,3 +281,5 @@ transformée en validation automatique quand c'est possible.
   rester liés à la zone exacte et à la séquence de route correspondante.
 - Les élites ne sont jamais absorbés dans un repère de coffre ordinaire.
 - Geist Canyon reste déclaré comme lot à recouper.
+
+- Les fiches de soluce utilisent une source panoramique haute définition en 16/9, avec un repli local si elle échoue.

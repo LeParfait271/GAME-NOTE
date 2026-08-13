@@ -448,7 +448,7 @@ button {
 .reader-cover-art::after {
   position: absolute;
   inset: 0;
-  background: linear-gradient(145deg, rgba(7, 25, 34, 0.05), rgba(7, 25, 34, 0.78));
+  background: linear-gradient(145deg, rgba(7, 25, 34, 0.02), rgba(7, 25, 34, 0.46));
   content: "";
   pointer-events: none;
 }
@@ -1179,7 +1179,7 @@ button.reader-neighbor:focus-visible {
 }
 
 .reader-cover-art img {
-  opacity: 0.82;
+  opacity: 1;
 }
 
 .reader-cover-accent {
@@ -2811,13 +2811,15 @@ button.reader-neighbor:focus-visible {
   }
 
   .site-shell.is-reader-mode .reader-cover-art {
-    min-height: 352px;
+    align-self: start;
+    aspect-ratio: 16 / 9;
+    min-height: 0;
     height: auto;
   }
 
   .site-shell.is-reader-mode .reader-cover-art img {
-    opacity: 0.9;
-    filter: saturate(0.88) contrast(1.05);
+    opacity: 1;
+    filter: saturate(0.94) contrast(1.04) brightness(0.98);
   }
 
   .site-shell.is-reader-mode .reader-cover-copy {
@@ -3135,7 +3137,9 @@ button.reader-neighbor:focus-visible {
   }
 
   .site-shell.is-reader-mode .reader-cover-art {
-    height: 205px;
+    aspect-ratio: 16 / 9;
+    min-height: 0;
+    height: auto;
   }
 
   .site-shell.is-reader-mode .reader-cover-copy {

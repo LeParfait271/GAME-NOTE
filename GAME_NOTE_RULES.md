@@ -493,3 +493,5 @@ contrôle de la fiche concernée.
   Gray Grotto, Gray Grotto: Depths et South Cragspear Pass.
 - Un chemin recoupé ne vaut pas validation de toutes les entrées de la zone.
 - Geist Canyon reste une dette explicite jusqu'à sa relecture dédiée.
+
+- Les fiches de soluce utilisent une source panoramique haute définition en 16/9, avec un repli local si elle échoue.
