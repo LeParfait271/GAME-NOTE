@@ -477,3 +477,10 @@ contrôle de la fiche concernée.
   une pente, un escalier ou un élite ; le vocabulaire suit la source recoupée.
 - Une direction ajoutée ne transforme jamais une zone partiellement documentée
   en zone contrôlée écran par écran.
+
+### Coastlands et mer OT0 — 13 août 2026
+
+- Les chemins de Coastlands doivent distinguer North Rippletide Coast,
+  Rippletide Coast, Isle of Orsa et Isle of Orsa: Depths.
+- Les coffres de mer (#133 à #138) restent à recouper avec une source dédiée ;
+  une sous-zone ne suffit pas à justifier une direction.

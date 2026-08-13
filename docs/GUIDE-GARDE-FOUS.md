@@ -652,3 +652,10 @@ une mise à jour qui change les succès ou le contenu, le guide repasse en
   aides de navigation et non des validations automatiques de carte.
 - Les nouveaux repères sont protégés contre un retour silencieux au texte
   générique et les élites gardent leur propre contrôle tactique.
+
+### Passe de contrôle 12 — Coastlands OT0
+
+- Les repères de plage, de maison, de grotte et d'embranchement sont ajoutés
+  sans modifier le compteur de 454 trésors.
+- Les coffres en mer restent une dette déclarée tant qu'une fiche de navigation
+  dédiée n'a pas été recoupée.

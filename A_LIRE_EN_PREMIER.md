@@ -265,3 +265,10 @@ transformée en validation automatique quand c'est possible.
   complète de zone ; les deux ne partagent jamais le même statut.
 - Les nouveaux repères de salle, d'étage, de pente et de gardien sont protégés
   par le validateur et restent exclus des compteurs 454/454.
+
+### Passe de contrôle 11 — Coastlands OT0
+
+- Les plages, maisons, grottes, embranchements et élites peuvent servir de
+  repères seulement quand ils sont confirmés par une fiche de zone ou de route.
+- Les coffres en mer et les sections non sourcées restent signalés séparément.
+- La progression du registre ne doit jamais être résumée par le seul compteur.

@@ -145,3 +145,11 @@ traité comme une récompense d'action et non comme un coffre supplémentaire.
   route de Tytos.
 - Le statut archive/invisible reste obligatoire : les lignes encore génériques
   et la relecture réelle des zones ne sont pas remplacées par ces progrès.
+
+### Passe de contrôle 12 — Coastlands OT0
+
+- Dix lignes du finale Coastlands disposent désormais d'un repère de plage,
+  d'entrée, de grotte, d'embranchement ou d'élite.
+- Le dossier continue de signaler séparément les coffres bleus et les coffres en
+  mer ; aucun chemin n'est inventé pour les lignes #133 à #138.
+- OT0 reste archivé et invisible pendant la poursuite de la couverture des zones.

@@ -341,3 +341,21 @@ fonction précise.
 - Limite conservée : #076, #099, #103 et les autres lignes encore génériques
   restent explicitement à recouper. Le compteur 454/454 ne vaut pas preuve
   d'une relecture écran par écran.
+
+## Passe de contrôle 12 — Coastlands et Isle of Orsa
+
+- Dix lignes supplémentaires (#117 à #121, #127 à #132, hors #120 déjà bleu)
+  possèdent maintenant un chemin ou un repère de salle ; la matrice contrôlée
+  atteint 62 lignes enrichies.
+- North Rippletide Coast et Rippletide Coast indiquent désormais le monument,
+  les maisons, la plage, l'arbre, l'entrée et le tas de roues. Isle of Orsa et
+  ses Depths distinguent la grotte, la zone circulaire, les embranchements et
+  l'élite Menacing Cetus Maximus.
+- Recoupement principal :
+  - https://game8.co/games/Octopath-Traveler-0/archives/571032
+  - https://www.neoseeker.com/octopath-traveler-0/Isle_of_Orsa
+  - https://www.neoseeker.com/octopath-traveler-0/Isle_of_Orsa_Depths
+  - https://octopathtraveler0.com/treasures
+- Limite conservée : les coffres de Rippletide même et les coffres de mer
+  (#133 à #138) restent à repérer avec une source dédiée ; aucune direction n'a
+  été déduite de la seule sous-zone.
