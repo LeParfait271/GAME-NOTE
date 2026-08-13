@@ -4386,6 +4386,10 @@ button.reader-neighbor:focus-visible {
 }
 
 @media screen and (max-width: 680px) {
+  .reveal-section {
+    transition-duration: 420ms, 520ms;
+  }
+
   .hero-route-trace,
   .hero-route-node,
   .hero-crosshair,

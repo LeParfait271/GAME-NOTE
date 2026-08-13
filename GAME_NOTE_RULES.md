@@ -498,3 +498,13 @@ comme OT0, restent hors publication jusqu'à leur validation éditoriale.
   d'erreur si le repli lui-meme echoue.
 - Le smoke test verifie la source compatible et la presence du repli avant le
   commit d'un lot visuel.
+
+## Passe visuelle mobile — reveal de bibliothèque
+
+- Sous 680 px, le reveal de la bibliothèque utilise une durée plus courte afin
+  que le premier défilement ne masque pas temporairement les cartes et les
+  filtres sous une opacité trop basse.
+- Le changement reste limité à la transition d'interface ; les données, les
+  compteurs, le lecteur et les replis d'images restent inchangés.
+- Le contrôle couvre 320/390 px, le desktop, le clavier, le mouvement réduit,
+  l'absence de débordement, lint, build, preflight et smoke tests.

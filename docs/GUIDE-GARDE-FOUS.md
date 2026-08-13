@@ -677,3 +677,12 @@ une mise à jour qui change les succès ou le contenu, le guide repasse en
   `public/images/cards/game-note-card-route.png` dans la carte et le lecteur;
   le second echec ne relance pas la boucle.
 - Le smoke test controle la source compatible et les replis avant le commit.
+
+## Passe visuelle mobile — reveal de bibliothèque
+
+- Le reveal de la bibliothèque est raccourci sous 680 px pour éviter une zone
+  presque noire lors du premier défilement vers les filtres et les fiches.
+- La transition reste facultative et décorative : `prefers-reduced-motion`
+  conserve un affichage immédiat, sans modifier le contenu ni les compteurs.
+- La vérification attendue couvre 320/390 px, desktop, clavier, absence de
+  débordement, lint, build, preflight et smoke tests avant le commit local.

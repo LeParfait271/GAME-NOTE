@@ -285,3 +285,13 @@ transformée en validation automatique quand c'est possible.
   `public/images/cards/game-note-card-route.png`, avec un garde contre la boucle
   d'erreur si le repli lui-meme echoue.
 - Le smoke test doit conserver ces deux controles avant tout commit visuel.
+
+### Passe visuelle mobile — reveal de bibliothèque
+
+- Le reveal de la bibliothèque est raccourci sous 680 px : le premier défilement
+  ne doit pas laisser les fiches presque invisibles pendant près d'une seconde.
+- Le contrôle reste décoratif : le contenu, les cartes et les actions restent
+  présents sans animation réduite et la règle `prefers-reduced-motion` conserve
+  l'affichage immédiat.
+- La passe ne touche ni aux guides, ni aux compteurs, ni au lecteur ; elle doit
+  être validée par les rendus 320/390 px, le build, le preflight et les smoke tests.
