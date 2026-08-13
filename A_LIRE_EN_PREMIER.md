@@ -172,3 +172,20 @@ transformée en validation automatique quand c'est possible.
   les partitions et la checklist des 37 succès.
 - Il reste volontairement invisible et non publié : le registre détaillé des
   454 trésors doit encore être ajouté et vérifié avant tout raccordement.
+
+### Passe de rédaction 2 — registre OT0
+
+- L'appendice OT0 contient désormais les 454 entrées numérotées, sans supprimer
+  les rappels placés dans la route.
+- Le validateur contrôle que le brouillon, s'il existe, conserve exactement
+  454 lignes de registre et 37 cases dans sa checklist Steam finale.
+- Le catalogue reste `research` et la publication temporaire ne change pas.
+
+### Passe de contrôle 3 — clés ornées OT0
+
+- Les huit clés ornées sont désormais toutes nommées et localisées dans le TXT ;
+  la Bow Crest est indiquée dans le coffre d'East Cyphlo Banks.
+- Aucun emplacement provisoire ou « huitième clé à compléter » ne doit rester
+  dans une fiche déclarée exhaustive.
+- Cette passe corrige le registre sans rendre le guide visible ni le déclarer
+  `reviewed`.

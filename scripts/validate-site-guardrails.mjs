@@ -147,6 +147,10 @@ const layout = await readText("app/layout.tsx");
 const stylesheet = await readText("app/globals.css");
 const serviceWorkerSource = await readText("public/service-worker.js");
 const octopathGuide = await readText("public/guides/octopath-traveler-1.txt");
+const octopathZeroDraftPath = "public/guides/octopath-traveler-0.txt";
+const octopathZeroDraft = await exists(octopathZeroDraftPath)
+  ? await readText(octopathZeroDraftPath)
+  : "";
 const headers = await readText("public/_headers");
 const redirects = await readText("public/_redirects");
 const robots = await readText("public/robots.txt");
@@ -199,6 +203,24 @@ for (const required of ["734/734", "152/152", "101/101", "381/381", "DOSSIER PRE
 }
 if (/sans spoiler/i.test(octopathGuide)) {
   fail("public/guides/octopath-traveler-1.txt: l'ancienne politique sans spoiler est encore annoncée.");
+}
+if (octopathZeroDraft) {
+  const treasureAppendixEntries = [
+    ...octopathZeroDraft.matchAll(/^(?:\[COFFRE\] \[ \]|\[COFFRE\] \[MANQUABLE\] \[ \]) #\d{3} —/gm),
+  ];
+  if (treasureAppendixEntries.length !== 454) {
+    fail(
+      `${octopathZeroDraftPath}: le registre numéroté doit contenir exactement 454 trésors (actuel : ${treasureAppendixEntries.length}).`,
+    );
+  }
+  const finalSteamChecklist = octopathZeroDraft.split("CHECKLIST FINALE DES SUCCÈS STEAM")[1] ?? "";
+  const finalSteamChecklistOnly = finalSteamChecklist.split("CONTRÔLE AVANT PUBLICATION")[0] ?? "";
+  const steamChecks = [...finalSteamChecklistOnly.matchAll(/^- \[ \] .+$/gm)];
+  if (steamChecks.length !== 37) {
+    fail(
+      `${octopathZeroDraftPath}: la checklist finale OT0 doit contenir exactement 37 succès (actuel : ${steamChecks.length}).`,
+    );
+  }
 }
 
 const guideBlockMatch = page.match(

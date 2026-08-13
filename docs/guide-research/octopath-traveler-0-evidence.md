@@ -131,7 +131,7 @@ marquées `[SUCCÈS]` uniquement lorsque le déclenchement aura été confirmé.
 | Fins | RPG Site et Neoseeker distinguent une fin standard et une fin véritable ; une source secondaire évoque une troisième issue sans procédure concordante. | Le guide documentera les deux routes confirmées et le système de reprise sur sauvegarde claire ; aucune troisième fin ne sera promise sans preuve. |
 | Missables | Des retours joueurs parlent d'un 100 % en une partie ; les pages de recrutement avertissent de conditions de chaîne et de réponses d'invitation. | Prévenir toutes les fenêtres de recrutement et sauvegarder avant les décisions, même si les succès semblent rattrapables. Le statut « aucun missable » reste à confirmer par une route complète. |
 | Musiques | 40 partitions sont listées ; le succès demande 30. | Le guide place les 40, mais le contrôle Steam reste 30/30. |
-| Coffres | La base compte 454 coffres, mais la route n'est pas encore reconstruite écran par écran. | Aucun compteur de coffres ne sera affiché comme validé avant la fusion route + base + contrôle en jeu. |
+| Coffres | La base compte 454 coffres ; l'appendice du TXT les reprend désormais, mais la route n'est pas encore reconstruite écran par écran pour chaque ligne. | Le compteur 454/454 est contrôlé par le validateur ; le statut éditorial reste en revue tant que le rapprochement route + base n'est pas relu. |
 
 ## Structure obligatoire du TXT final
 
@@ -178,3 +178,25 @@ fonction précise.
   contrôle éditorial ; elles ne remplacent pas l'appendice 454/454.
 - La fiche n'est pas référencée comme `full-guide`, n'a pas de carte dédiée et
   n'est pas dans `docs/site-publication.json`.
+
+## Passe de rédaction 2 — registre des trésors intégré
+
+- Le TXT contient maintenant un appendice numéroté `#001` à `#454`, avec une
+  ligne `[COFFRE]` par entrée, la zone, la sous-zone, la section et la note de
+  condition lorsqu'elle existe.
+- Les rappels de la route et les 454 lignes numérotées sont séparés pour ne pas
+  gonfler artificiellement le compteur ; le validateur contrôle désormais les
+  454 entrées et les 37 cases de la checklist finale si le brouillon OT0 existe.
+- Les quatre entrées signalées manquables par la base restent marquées dans le
+  TXT ; elles devront être recoupées avec les pages de route avant le passage à
+  `reviewed`.
+
+## Passe de contrôle 3 — clés ornées corrigées
+
+- La liste des huit clés ornées est maintenant explicite : Dagger, Sword, Axe,
+  Tome, Fan, Spear, Staff et Bow.
+- La Bow Crest est replacée dans le coffre d'East Cyphlo Banks ; la ligne
+  « huitième clé à compléter » a été supprimée pour ne pas laisser de faux
+  emplacement dans une soluce présentée comme exhaustive.
+- Le registre reste archivé et invisible. Cette correction de contenu ne vaut
+  pas encore validation `reviewed` de toute la route ni publication.

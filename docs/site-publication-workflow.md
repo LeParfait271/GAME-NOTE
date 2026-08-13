@@ -75,3 +75,12 @@ Le premier TXT OT0 peut être relu dans `public/guides/` pendant sa construction
 mais il reste hors catalogue tant que la matrice et l'appendice 454/454 ne sont
 pas validés. Il ne doit donc pas être copié dans `dist/client/guides`, ajouté au
 service worker ou accessible par un paramètre `guide`.
+
+Le contrôle local accepte ce brouillon uniquement avec ses 454 entrées
+numérotées et sa checklist Steam à 37 cases ; cela ne l'autorise toujours pas
+à devenir une fiche visible.
+
+La passe éditoriale suivante doit aussi conserver les huit clés ornées avec
+leurs vrais types et emplacements. La Bow Crest est à East Cyphlo Banks ; un
+placeholder dans ce bloc bloque la revue `reviewed`, même si le compteur 454/454
+est correct.

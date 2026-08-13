@@ -377,3 +377,19 @@ contrôle de la fiche concernée.
 - La première passe OT0 couvre la route et les registres ciblés, mais le seuil
   100 % reste bloqué jusqu'à l'intégration vérifiée des 454 trésors, avec zone,
   sous-zone, section et condition pour chaque entrée.
+
+### Registre OT0 — contrôle automatique — 13 août 2026
+
+- Si le brouillon `public/guides/octopath-traveler-0.txt` est présent, il doit
+  contenir exactement 454 entrées numérotées `[COFFRE]` et exactement 37 cases
+  dans la checklist Steam finale.
+- Les rappels de coffres dans la route sont autorisés et ne comptent pas dans
+  ce contrôle ; l'appendice numéroté est l'autorité du compteur 454/454.
+
+### Contrôle de précision des clés OT0 — 13 août 2026
+
+- Le bloc des clés ornées doit citer les huit types : Dagger, Sword, Axe, Tome,
+  Fan, Spear, Staff et Bow.
+- Une formule générique comme « huitième clé à compléter » est interdite dans
+  un brouillon présenté comme complet ; l'emplacement de la Bow Crest doit être
+  East Cyphlo Banks.

@@ -1081,11 +1081,10 @@ REGISTRES D'ÉQUIPEMENTS UNIQUES
 [COFFRE] [ ] Crested Key Tome — coffre est de Sweltering Cave via Berecain Pass.
 [COFFRE] [ ] Crested Key Fan — Entreat l'explorateur près de l'auberge de
   Sufrataljah.
-[COFFRE] [ ] Crested Key Polearm — point bleu sur l'île de l'Outersea Est.
+[COFFRE] [ ] Crested Key Spear — point bleu sur l'île de l'Outersea Est.
 [COFFRE] [ ] Crested Key Staff — Entreat le Harbor Black Market Merchant au
   nord des marchés de Grandport.
-[COFFRE] [ ] Huitième clé ornée — compléter The Eight Sacred Treasures et
-  vérifier l'entrée manquante dans le menu des trésors avant la fin.
+[COFFRE] [ ] Crested Key Bow — coffre de East Cyphlo Banks, dans les Riverlands.
 [COFFRE] [ ] Trésors sacrés : Storm Blade, Deathclaw Dagger, Tempest Spear,
   Spirit Axe, Moonlit Bow, Evenfall Fan, Solaris Tome et Staff of Discipline.
 
@@ -1215,3 +1214,468 @@ CONTRÔLE AVANT PUBLICATION
 - [ ] Les fins standard et véritable sont jouables depuis la sauvegarde claire.
 - [ ] Le fichier passe la relecture manuelle, l'audit de profondeur, le build,
   le préflight strict et les smoke tests avant de quitter l'archive.
+
+================================================================
+REGISTRE COMPLET DES 454 TRÉSORS — SOURCE RECOMPOSÉE
+================================================================
+Chaque ligne est un contrôle indépendant. La section et la note donnent la
+sous-zone, le moment de récupération et la condition utile. Les entrées
+marquées MANQUABLE doivent être vérifiées avant de quitter la section.
+Source de contrôle de la table : https://octopathtraveler0.com/treasures
+Les rappels `[COFFRE]` de la route servent à naviguer ; seules les entrées
+numérotées #001 à #454 comptent dans ce registre et évitent un double comptage.
+
+[COFFRE] [MANQUABLE] [ ] #001 — 300L — Woodlands / Wishvale — Prologue — maison du protagoniste, MANQUABLE
+[COFFRE] [MANQUABLE] [ ] #002 — Healing Grape — Woodlands / Wishvale — Prologue — MANQUABLE
+[COFFRE] [MANQUABLE] [ ] #003 — Olive of Life — Woodlands / Wishvale — Prologue — MANQUABLE
+[COFFRE] [ ] #004 — Fire Soulstone — Woodlands / Wishvale Trail — Prologue — emplacement de la section ; aucun repère additionnel dans la base
+[COFFRE] [ ] #005 — Buckler — Woodlands / Cerulean Caverns — Prologue — emplacement de la section ; aucun repère additionnel dans la base
+[COFFRE] [MANQUABLE] [ ] #006 — Nourishing Nut — Woodlands / Wishvale — Prologue — point de collecte de nuit, MANQUABLE
+[COFFRE] [ ] #007 — Eerie Statue — Woodlands / Wishvale Trail — Prologue — cabane de Nomos
+[COFFRE] [ ] #008 — Nourishing Nut (L) — Woodlands / Valore Trail — Exploration — coffre bleu verrouillé
+[COFFRE] [ ] #009 — Olive of Life — Woodlands / Valore Trail — Exploration — emplacement de la section ; aucun repère additionnel dans la base
+[COFFRE] [ ] #010 — Inspiriting Plum — Woodlands / Valore — Exploration — auberge, étage 2
+[COFFRE] [ ] #011 — Iron Dagger — Woodlands / Valore — Exploration — emplacement de la section ; aucun repère additionnel dans la base
+[COFFRE] [ ] #012 — Knock Out Mastery — Woodlands / Valore: Main Boulevard — Exploration — coffre bleu verrouillé
+[COFFRE] [ ] #013 — Ice Soulstone — Frostlands / West Emberglow Wilds — Exploration — emplacement de la section ; aucun repère additionnel dans la base
+[COFFRE] [ ] #014 — Inspiriting Plum — Frostlands / Emberglow Wilds — Exploration — emplacement de la section ; aucun repère additionnel dans la base
+[COFFRE] [ ] #015 — 340L — Frostlands / Emberglow Wilds — Exploration — emplacement de la section ; aucun repère additionnel dans la base
+[COFFRE] [ ] #016 — Frost Axe — Frostlands / Emberglow Wilds — Exploration — coffre bleu verrouillé
+[COFFRE] [ ] #017 — Protective Earring — Frostlands / West Emberglow Wilds — Exploration — emplacement de la section ; aucun repère additionnel dans la base
+[COFFRE] [ ] #018 — Invigorating Nut (L) — Frostlands / Emberglow — Exploration — coffre bleu verrouillé, auberge, étage 2
+[COFFRE] [ ] #019 — Invigorating Nut — Frostlands / Emberglow — Exploration — emplacement de la section ; aucun repère additionnel dans la base
+[COFFRE] [ ] #020 — Healing Grape — Frostlands / Emberglow: East District — Exploration — emplacement de la section ; aucun repère additionnel dans la base
+[COFFRE] [ ] #021 — Battle Music Score II — Frostlands / Emberglow: East District — Exploration — point de collecte dans la maison de Velnorte
+[COFFRE] [ ] #022 — Bottle of Poison Dust — Flatlands / North Theatropolis Plains — Exploration — emplacement de la section ; aucun repère additionnel dans la base
+[COFFRE] [ ] #023 — 480L — Flatlands / North Theatropolis Plains — Exploration — emplacement de la section ; aucun repère additionnel dans la base
+[COFFRE] [ ] #024 — Cheap Whiskey — Flatlands / North Theatropolis Plains — Exploration — point de collecte à l'intérieur de la cabane
+[COFFRE] [ ] #025 — Prosperity Charm — Flatlands / Theatropolis Plains — Exploration — coffre bleu verrouillé
+[COFFRE] [ ] #026 — Olive of Life — Flatlands / Theatropolis Plains — Exploration — emplacement de la section ; aucun repère additionnel dans la base
+[COFFRE] [ ] #027 — Energizing Pomegranate — Flatlands / Theatropolis Plains — Exploration — emplacement de la section ; aucun repère additionnel dans la base
+[COFFRE] [ ] #028 — Herb of Healing — Flatlands / Theatropolis — Exploration — auberge, étage 2
+[COFFRE] [ ] #029 — Letter Fragment — Flatlands / Theatropolis — Exploration — point de collecte dans la bibliothèque
+[COFFRE] [ ] #030 — Commander's Shield — Flatlands / Theatropolis — Exploration — coffre bleu verrouillé
+[COFFRE] [ ] #031 — Ordinary Hat — Flatlands / Amphitheatre: Entrance — Exploration — emplacement de la section ; aucun repère additionnel dans la base
+[COFFRE] [ ] #032 — Inspiriting Plum — Frostlands / Snowshard Grotto — Kindlers 1 — emplacement de la section ; aucun repère additionnel dans la base
+[COFFRE] [ ] #033 — More Rare Monsters Mastery — Frostlands / Snowshard Grotto — Kindlers 1 — coffre bleu verrouillé
+[COFFRE] [ ] #034 — Herb of Vitality — Frostlands / Snowshard Grotto — Kindlers 1 — emplacement de la section ; aucun repère additionnel dans la base
+[COFFRE] [ ] #035 — Giant Bow — Frostlands / Snowshard Grotto — Kindlers 1 — gardé par Menacing Frostwing Serpent
+[COFFRE] [ ] #036 — Olive of Life — Flatlands / Serpent's Burrow — More exploring — emplacement de la section ; aucun repère additionnel dans la base
+[COFFRE] [ ] #037 — Monster Magnet Mastery — Flatlands / Serpent's Burrow — More exploring — coffre bleu verrouillé
+[COFFRE] [ ] #038 — Leather Helm — Flatlands / Serpent's Burrow — More exploring — emplacement de la section ; aucun repère additionnel dans la base
+[COFFRE] [ ] #039 — Crested Key — Flatlands / Serpent's Burrow — More exploring — point de collecte près de l'Ettin Asp — uniquement si l'objet n'a pas été choisi au départ
+[COFFRE] [ ] #040 — Stinging Dagger — Flatlands / Serpent's Burrow — More exploring — gardé par Menacing Ettin Asp
+[COFFRE] [ ] #041 — Energizing Pomegranate — Flatlands / Serpent's Burrow — More exploring — emplacement de la section ; aucun repère additionnel dans la base
+[COFFRE] [ ] #042 — Light Soulstone — Woodlands / Path to Herminia's Manse — Master of Wealth 1 — emplacement de la section ; aucun repère additionnel dans la base
+[COFFRE] [ ] #043 — Healing Grape — Woodlands / Path to Herminia's Manse — Master of Wealth 1 — emplacement de la section ; aucun repère additionnel dans la base
+[COFFRE] [ ] #044 — Bottle of Sleeping Dust — Woodlands / Path to Herminia's Manse — Master of Wealth 1 — emplacement de la section ; aucun repère additionnel dans la base
+[COFFRE] [ ] #045 — Leather Hat — Woodlands / Herminia's Manse: Entrance — Master of Wealth 1 — emplacement de la section ; aucun repère additionnel dans la base
+[COFFRE] [ ] #046 — Sprightly Earring — Woodlands / Herminia's Manse: Entrance — Master of Wealth 1 — emplacement de la section ; aucun repère additionnel dans la base
+[COFFRE] [ ] #047 — Dagger Dance Mastery — Woodlands / Herminia's Manse: Entrance — Master of Wealth 1 — gardé par Menacing Demon Deer
+[COFFRE] [ ] #048 — 1000L — Woodlands / Herminia's Manse: Entrance — Master of Wealth 1 — emplacement de la section ; aucun repère additionnel dans la base
+[COFFRE] [ ] #049 — Herb of Clamor — Woodlands / Herminia's Manse: Entrance — Master of Wealth 1 — emplacement de la section ; aucun repère additionnel dans la base
+[COFFRE] [ ] #050 — Olive of Life — Frostlands / Emberglow Laboratory: Entrance — Master of Power 1 — emplacement de la section ; aucun repère additionnel dans la base
+[COFFRE] [ ] #051 — Linen Robe — Frostlands / Emberglow Laboratory: Entrance — Master of Power 1 — gardé par Menacing Ice Lizardman IV
+[COFFRE] [ ] #052 — Wind Soulstone — Frostlands / Emberglow Laboratory: Entrance — Master of Power 1 — emplacement de la section ; aucun repère additionnel dans la base
+[COFFRE] [ ] #053 — Herb of Mending — Frostlands / Emberglow Laboratory — Master of Power 1 — emplacement de la section ; aucun repère additionnel dans la base
+[COFFRE] [ ] #054 — Empowering Earring — Frostlands / Emberglow Laboratory — Master of Power 1 — emplacement de la section ; aucun repère additionnel dans la base
+[COFFRE] [ ] #055 — 800L — Frostlands / Emberglow Laboratory — Master of Power 1 — emplacement de la section ; aucun repère additionnel dans la base
+[COFFRE] [ ] #056 — Battle Music Score V — Frostlands / Emberglow Laboratory — Master of Power 1 — point de collecte près du tome de sauvegarde
+[COFFRE] [ ] #057 — Energizing Pomegranate — Frostlands / Emberglow Laboratory — Master of Power 1 — emplacement de la section ; aucun repère additionnel dans la base
+[COFFRE] [ ] #058 — Bolstering Break Mastery — Frostlands / Emberglow Laboratory — Master of Power 1 — gardé par Menacing Senior Fellow I
+[COFFRE] [ ] #059 — Healing Grape — Flatlands / Amphitheatre: Rehearsal Room — Master of Fame 1 — emplacement de la section ; aucun repère additionnel dans la base
+[COFFRE] [ ] #060 — Thunder Soulstone — Flatlands / Amphitheatre: Rehearsal Room — Master of Fame 1 — emplacement de la section ; aucun repère additionnel dans la base
+[COFFRE] [ ] #061 — Buckler — Flatlands / Amphitheatre: Rehearsal Room — Master of Fame 1 — emplacement de la section ; aucun repère additionnel dans la base
+[COFFRE] [ ] #062 — 250L — Flatlands / Amphitheatre: Rehearsal Room — Master of Fame 1 — emplacement de la section ; aucun repère additionnel dans la base
+[COFFRE] [ ] #063 — Double Slam Mastery — Flatlands / Amphitheatre: Dressing Room — Master of Fame 1 — gardé par Menacing Thespian (Leader)
+[COFFRE] [ ] #064 — Olive of Life — Flatlands / Amphitheatre: Dressing Room — Master of Fame 1 — emplacement de la section ; aucun repère additionnel dans la base
+[COFFRE] [ ] #065 — Stimulating Earring — Flatlands / Amphitheatre: Dressing Room — Master of Fame 1 — emplacement de la section ; aucun repère additionnel dans la base
+[COFFRE] [ ] #066 — Invigorating Nut — Frostlands / Snowbloom Ruins — Master of Wealth 2 — emplacement de la section ; aucun repère additionnel dans la base
+[COFFRE] [ ] #067 — Ice Soulstone — Frostlands / Snowbloom Ruins — Master of Wealth 2 — emplacement de la section ; aucun repère additionnel dans la base
+[COFFRE] [ ] #068 — Round Shield — Frostlands / Snowbloom Ruins — Master of Wealth 2 — emplacement de la section ; aucun repère additionnel dans la base
+[COFFRE] [ ] #069 — 1100L — Frostlands / Subterranean Snow Ruins — Master of Wealth 2 — emplacement de la section ; aucun repère additionnel dans la base
+[COFFRE] [ ] #070 — Spear Sweep Mastery — Frostlands / Subterranean Snow Ruins — Master of Wealth 2 — gardé par Menacing Accursed Armor
+[COFFRE] [ ] #071 — Herb of Vigor — Frostlands / Subterranean Snow Ruins — Master of Wealth 2 — emplacement de la section ; aucun repère additionnel dans la base
+[COFFRE] [ ] #072 — Alchemy Tome — Flatlands / Knights Ardante Garrison — Master of Power 2 — gardé par Menacing Wind Elemental
+[COFFRE] [ ] #073 — War Axe — Flatlands / Knights Ardante Garrison — Master of Power 2 — emplacement de la section ; aucun repère additionnel dans la base
+[COFFRE] [ ] #074 — Fortifying Nut — Flatlands / Knights Ardante Garrison — Master of Power 2 — emplacement de la section ; aucun repère additionnel dans la base
+[COFFRE] [ ] #075 — Inspiriting Plum (M) — Flatlands / Knights Ardante Garrison — Master of Power 2 — emplacement de la section ; aucun repère additionnel dans la base
+[COFFRE] [ ] #076 — Herb of Healing — Frostlands / Emberglow Slopes — Master of Power 2 — emplacement de la section ; aucun repère additionnel dans la base
+[COFFRE] [ ] #077 — Swirling Arc Mastery — Frostlands / Emberglow Slopes — Master of Power 2 — gardé par Menacing Frost Bear
+[COFFRE] [ ] #078 — Critical Nut — Frostlands / Emberglow Slopes — Master of Power 2 — emplacement de la section ; aucun repère additionnel dans la base
+[COFFRE] [ ] #079 — Light Staff — Woodlands / Auguste's Villa: Entrance — Master of Fame 2 — emplacement de la section ; aucun repère additionnel dans la base
+[COFFRE] [ ] #080 — Shadow Soulstone — Woodlands / Auguste's Villa: Entrance — Master of Fame 2 — emplacement de la section ; aucun repère additionnel dans la base
+[COFFRE] [ ] #081 — Olive of Life — Woodlands / Auguste's Villa: Entrance — Master of Fame 2 — emplacement de la section ; aucun repère additionnel dans la base
+[COFFRE] [ ] #082 — Healing Grape Bunch — Woodlands / Auguste's Villa: Entrance — Master of Fame 2 — emplacement de la section ; aucun repère additionnel dans la base
+[COFFRE] [ ] #083 — Invigorate and Inspire Mastery — Woodlands / Auguste's Villa — Master of Fame 2 — gardé par Menacing Guard Dog
+[COFFRE] [ ] #084 — Nourishing Nut — Woodlands / Auguste's Villa — Master of Fame 2 — emplacement de la section ; aucun repère additionnel dans la base
+[COFFRE] [ ] #085 — Round Shield — Woodlands / Auguste's Villa — Master of Fame 2 — emplacement de la section ; aucun repère additionnel dans la base
+[COFFRE] [ ] #086 — Bottle of Numbing Dust — Woodlands / Auguste's Villa — Master of Fame 2 — emplacement de la section ; aucun repère additionnel dans la base
+[COFFRE] [ ] #087 — Battle Music Score III — Woodlands / Auguste's Villa — Master of Fame 2 — point de collecte près du point de sauvegarde
+[COFFRE] [ ] #088 — Battle Music Score VIII — Woodlands / Auguste's Villa — Master of Fame 2 — point de collecte près du point de sauvegarde
+[COFFRE] [ ] #089 — Ancient Necklace — Woodlands / Auguste's Villa — Master of Fame 2 — emplacement de la section ; aucun repère additionnel dans la base
+[COFFRE] [ ] #090 — Inspiriting Plume Basket — Woodlands / Herminia's Manse — Master of Wealth 3 — emplacement de la section ; aucun repère additionnel dans la base
+[COFFRE] [ ] #091 — Iron Fan — Woodlands / Herminia's Manse — Master of Wealth 3 — gardé par Herminia's Mighty Soldier II
+[COFFRE] [ ] #092 — Inspiriting Plum Basket — Woodlands / Herminia's Manse: Cellars — Master of Wealth 3 — emplacement de la section ; aucun repère additionnel dans la base
+[COFFRE] [ ] #093 — Nocturne of Icy Slumber Mastery — Woodlands / Herminia's Manse: Cellars — Master of Wealth 3 — gardé par Menacing Sticky Slug
+[COFFRE] [ ] #094 — Enfeebling Amulet — Woodlands / Herminia's Manse: Cellars — Master of Wealth 3 — coffre bleu verrouillé
+[COFFRE] [ ] #095 — Magic Nut — Woodlands / Herminia's Manse: Cellars — Master of Wealth 3 — emplacement de la section ; aucun repère additionnel dans la base
+[COFFRE] [ ] #096 — 900L — Woodlands / Herminia's Manse: Cellars — Master of Wealth 3 — emplacement de la section ; aucun repère additionnel dans la base
+[COFFRE] [ ] #097 — "Master of Wealth" Music Score — Woodlands / Valore — Master of Wealth 3 — point de collecte dans la maison du Major
+[COFFRE] [ ] #098 — Feather Sabre — Frostlands / Ceremonial Square — Master of Power 3 — emplacement de la section ; aucun repère additionnel dans la base
+[COFFRE] [ ] #099 — 1000L — Frostlands / Ceremonial Square — Master of Power 3 — emplacement de la section ; aucun repère additionnel dans la base
+[COFFRE] [ ] #100 — Empowering Cuffs — Frostlands / Ceremonial Square — Master of Power 3 — emplacement de la section ; aucun repère additionnel dans la base
+[COFFRE] [ ] #101 — Fire Soulstone (M) — Frostlands / Ceremonial Square — Master of Power 3 — emplacement de la section ; aucun repère additionnel dans la base
+[COFFRE] [ ] #102 — Energizing Pomegranate (M) — Frostlands / Cathedral of Tytos — Master of Power 3 — emplacement de la section ; aucun repère additionnel dans la base
+[COFFRE] [ ] #103 — Traditional Dancer Garb — Frostlands / Cathedral of Tytos — Master of Power 3 — emplacement de la section ; aucun repère additionnel dans la base
+[COFFRE] [ ] #104 — Herb of Vitality — Frostlands / Cathedral of Tytos — Master of Power 3 — emplacement de la section ; aucun repère additionnel dans la base
+[COFFRE] [ ] #105 — Resilient Stance Mastery — Frostlands / Cathedral of Tytos — Master of Power 3 — emplacement de la section ; aucun repère additionnel dans la base
+[COFFRE] [ ] #106 — Rinyuu's Stew Recipe — Frostlands / Emberglow: East District — Master of Power 3 — point de collecte dans la maison de Velnorte
+[COFFRE] [ ] #107 — Resistant Nut — Flatlands / Amphitheatre: Backstage — Master of Fame 3 — emplacement de la section ; aucun repère additionnel dans la base
+[COFFRE] [ ] #108 — Critical Cuffs — Flatlands / Amphitheatre: Backstage — Master of Fame 3 — gardé par Menacing Thespian (Ruffian)
+[COFFRE] [ ] #109 — Bottle of Sanguine Dust — Flatlands / Amphitheatre: Backstage — Master of Fame 3 — emplacement de la section ; aucun repère additionnel dans la base
+[COFFRE] [ ] #110 — Inspiriting Plum (M) — Flatlands / Amphitheatre: Backstage — Master of Fame 3 — emplacement de la section ; aucun repère additionnel dans la base
+[COFFRE] [ ] #111 — Bronze Helm — Flatlands / Amphitheatre: Backstage — Master of Fame 3 — emplacement de la section ; aucun repère additionnel dans la base
+[COFFRE] [ ] #112 — 700L — Flatlands / Amphitheatre: Underground — Master of Fame 3 — emplacement de la section ; aucun repère additionnel dans la base
+[COFFRE] [ ] #113 — Bronze Vest — Flatlands / Amphitheatre: Underground — Master of Fame 3 — emplacement de la section ; aucun repère additionnel dans la base
+[COFFRE] [ ] #114 — Share SP Mastery — Flatlands / Amphitheatre: Underground — Master of Fame 3 — gardé par Menacing Thespian (Guard)
+[COFFRE] [ ] #115 — Magic Nut — Flatlands / Amphitheatre: Underground — Master of Fame 3 — emplacement de la section ; aucun repère additionnel dans la base
+[COFFRE] [ ] #116 — "Master of Fame" Music Score — Flatlands / Amphitheatre: Entrance — Master of Fame 3 — point de collecte près de la réceptionniste
+[COFFRE] [ ] #117 — Thunder Soulstone (M) — Coastlands / North Rippletide Coast — Finale — emplacement de la section ; aucun repère additionnel dans la base
+[COFFRE] [ ] #118 — Wind Amulet — Coastlands / North Rippletide Coast — Finale — emplacement de la section ; aucun repère additionnel dans la base
+[COFFRE] [ ] #119 — War Spear — Coastlands / Rippletide Coast — Finale — emplacement de la section ; aucun repère additionnel dans la base
+[COFFRE] [ ] #120 — Foreign Ring — Coastlands / Rippletide Coast — Finale — coffre bleu verrouillé
+[COFFRE] [ ] #121 — Olive of Life — Coastlands / Rippletide Coast — Finale — emplacement de la section ; aucun repère additionnel dans la base
+[COFFRE] [ ] #122 — Energizing Pomegranate — Coastlands / Rippletide — Finale — auberge, étage 2
+[COFFRE] [ ] #123 — Virulent Fog Mastery — Coastlands / Rippletide — Finale — coffre bleu verrouillé
+[COFFRE] [ ] #124 — Wind Soulstone — Coastlands / Rippletide — Finale — emplacement de la section ; aucun repère additionnel dans la base
+[COFFRE] [ ] #125 — Antidote Stone — Coastlands / Rippletide — Finale — emplacement de la section ; aucun repère additionnel dans la base
+[COFFRE] [ ] #126 — Battle Music Score VI — Coastlands / Rippletide — Finale — point de collecte dans la maison de Tressa
+[COFFRE] [ ] #127 — Olive of Life (M) — Coastlands / Isle of Orsa — Finale — emplacement de la section ; aucun repère additionnel dans la base
+[COFFRE] [ ] #128 — Bottle of Poison Dust — Coastlands / Isle of Orsa — Finale — emplacement de la section ; aucun repère additionnel dans la base
+[COFFRE] [ ] #129 — Resistant Nut — Coastlands / Isle of Orsa — Finale — emplacement de la section ; aucun repère additionnel dans la base
+[COFFRE] [ ] #130 — Evasive Shield — Coastlands / Isle of Orsa: Depths — Finale — gardé par Menacing Cetus Maximus
+[COFFRE] [ ] #131 — Ice Amulet — Coastlands / Isle of Orsa: Depths — Finale — emplacement de la section ; aucun repère additionnel dans la base
+[COFFRE] [ ] #132 — Refreshing Jam — Coastlands / Isle of Orsa: Depths — Finale — emplacement de la section ; aucun repère additionnel dans la base
+[COFFRE] [ ] #133 — Ice Soulstone (L) — Coastlands / Middlesea — On the Sea — emplacement de la section ; aucun repère additionnel dans la base
+[COFFRE] [ ] #134 — Heavy Blade — Coastlands / Middlesea — On the Sea — gardé par Menacing Barnacle Tortoise
+[COFFRE] [ ] #135 — Octopath Rolls — Coastlands / Middlesea — On the Sea — emplacement de la section ; aucun repère additionnel dans la base
+[COFFRE] [ ] #136 — Poison Breath Mastery — Coastlands / Middlesea — On the Sea — emplacement de la section ; aucun repère additionnel dans la base
+[COFFRE] [ ] #137 — Sandstorm Spear — Coastlands / Middlesea — On the Sea — emplacement de la section ; aucun repère additionnel dans la base
+[COFFRE] [ ] #138 — 25000L — Coastlands / Middlesea — On the Sea — emplacement de la section ; aucun repère additionnel dans la base
+[COFFRE] [ ] #139 — Befuddling Dagger — Woodlands / West Valore Trail — Master of All 1 — emplacement de la section ; aucun repère additionnel dans la base
+[COFFRE] [ ] #140 — Herb of Light — Woodlands / West Valore Trail — Master of All 1 — emplacement de la section ; aucun repère additionnel dans la base
+[COFFRE] [ ] #141 — Slippery Nut — Woodlands / West Valore Trail — Master of All 1 — emplacement de la section ; aucun repère additionnel dans la base
+[COFFRE] [ ] #142 — Light Soulstone — Woodlands / West Valore Trail — Master of All 1 — emplacement de la section ; aucun repère additionnel dans la base
+[COFFRE] [ ] #143 — Lightning Amulet — Cliftlands / Cragspear Pass — Master of All 1 — emplacement de la section ; aucun repère additionnel dans la base
+[COFFRE] [ ] #144 — Thunder Soulstone (M) — Cliftlands / Cragspear Pass — Master of All 1 — emplacement de la section ; aucun repère additionnel dans la base
+[COFFRE] [ ] #145 — Song of Booming Thunder Mastery — Cliftlands / Cragspear Pass — Master of All 1 — coffre bleu verrouillé
+[COFFRE] [ ] #146 — High House Shield — Cliftlands / Cragspear — Master of All 1 — coffre bleu verrouillé
+[COFFRE] [ ] #147 — Battle Music Score V — Cliftlands / Cragspear — Master of All 1 — point de collecte dans la maison à l'est de l'entrée
+[COFFRE] [ ] #148 — Spirit Tome — Cliftlands / Cragspear — Master of All 1 — emplacement de la section ; aucun repère additionnel dans la base
+[COFFRE] [ ] #149 — Exquisite Silverwork — Cliftlands / Cragspear — Master of All 1 — emplacement de la section ; aucun repère additionnel dans la base
+[COFFRE] [ ] #150 — Inspiriting Plum (M) — Cliftlands / Cragspear: Slums — Master of All 1 — emplacement de la section ; aucun repère additionnel dans la base
+[COFFRE] [ ] #151 — Fortitude Mastery — Cliftlands / Cragspear: Slums — Master of All 1 — emplacement de la section ; aucun repère additionnel dans la base
+[COFFRE] [ ] #152 — Calming Stone — Cliftlands / Cragspear: Slums — Master of All 1 — emplacement de la section ; aucun repère additionnel dans la base
+[COFFRE] [ ] #153 — Nourishing Nut (M) — Cliftlands / Cragspear: Slums — Master of All 1 — emplacement de la section ; aucun repère additionnel dans la base
+[COFFRE] [ ] #154 — Energizing Pomegranate (M) — Cliftlands / Gray Grotto — Master of All 1 — emplacement de la section ; aucun repère additionnel dans la base
+[COFFRE] [ ] #155 — Shadow Soulstone (M) — Cliftlands / Gray Grotto — Master of All 1 — emplacement de la section ; aucun repère additionnel dans la base
+[COFFRE] [ ] #156 — Fire Amulet — Cliftlands / Gray Grotto — Master of All 1 — emplacement de la section ; aucun repère additionnel dans la base
+[COFFRE] [ ] #157 — Saintly Tiara — Cliftlands / Gray Grotto — Master of All 1 — emplacement de la section ; aucun repère additionnel dans la base
+[COFFRE] [ ] #158 — Refreshing Jam — Cliftlands / Gray Grotto: Depths — Master of All 1 — emplacement de la section ; aucun repère additionnel dans la base
+[COFFRE] [ ] #159 — 5000L — Cliftlands / Gray Grotto: Depths — Master of All 1 — emplacement de la section ; aucun repère additionnel dans la base
+[COFFRE] [ ] #160 — Noxious Spider Axe — Cliftlands / Gray Grotto: Depths — Master of All 1 — gardé par Menacing Lightning Elemental
+[COFFRE] [ ] #161 — Iron Armor — Cliftlands / Gray Grotto: Depths — Master of All 1 — emplacement de la section ; aucun repère additionnel dans la base
+[COFFRE] [ ] #162 — Fortifying Nut (M) — Cliftlands / South Cragspear Pass — Master of All 2 — emplacement de la section ; aucun repère additionnel dans la base
+[COFFRE] [ ] #163 — Energizing Pomegranate (M) — Cliftlands / South Cragspear Pass — Master of All 2 — emplacement de la section ; aucun repère additionnel dans la base
+[COFFRE] [ ] #164 — Chakra Band — Cliftlands / South Cragspear Pass — Master of All 2 — emplacement de la section ; aucun repère additionnel dans la base
+[COFFRE] [ ] #165 — Spinning Axe Mastery — Cliftlands / Geist Canyon: South — Master of All 2 — emplacement de la section ; aucun repère additionnel dans la base
+[COFFRE] [ ] #166 — Healing Grape Bunch — Cliftlands / Geist Canyon: South — Master of All 2 — emplacement de la section ; aucun repère additionnel dans la base
+[COFFRE] [ ] #167 — Herb of Healing — Cliftlands / Geist Canyon: South — Master of All 2 — emplacement de la section ; aucun repère additionnel dans la base
+[COFFRE] [ ] #168 — Lapis Rod — Cliftlands / Geist Canyon: South — Master of All 2 — emplacement de la section ; aucun repère additionnel dans la base
+[COFFRE] [ ] #169 — Almighty Olive — Cliftlands / Geist Canyon — Master of All 2 — gardé par Menacing Carmine Eagle
+[COFFRE] [ ] #170 — Plate Shield — Cliftlands / Geist Canyon — Master of All 2 — emplacement de la section ; aucun repère additionnel dans la base
+[COFFRE] [ ] #171 — Resistant Nut (M) — Cliftlands / Geist Canyon — Master of All 2 — emplacement de la section ; aucun repère additionnel dans la base
+[COFFRE] [ ] #172 — Stimulating Cuffs — Riverlands / Clearbrook Traverse — Master of All 3 — emplacement de la section ; aucun repère additionnel dans la base
+[COFFRE] [ ] #173 — Magic Nut (M) — Riverlands / Clearbrook Traverse — Master of All 3 — emplacement de la section ; aucun repère additionnel dans la base
+[COFFRE] [ ] #174 — Bottle of Sleeping Dust — Riverlands / Clearbrook Traverse — Master of All 3 — emplacement de la section ; aucun repère additionnel dans la base
+[COFFRE] [ ] #175 — Alluring Ribbon — Riverlands / Clearbrook Traverse — Master of All 3 — coffre bleu verrouillé
+[COFFRE] [ ] #176 — Drifting Dagger — Riverlands / Clearbrook — Master of All 3 — coffre bleu verrouillé
+[COFFRE] [ ] #177 — Slippery Nut (M) — Riverlands / Clearbrook — Master of All 3 — emplacement de la section ; aucun repère additionnel dans la base
+[COFFRE] [ ] #178 — Battle Music Score VII — Riverlands / Clearbrook — Master of All 3 — point de collecte dans la maison de Zeph
+[COFFRE] [ ] #179 — Revitalizing Jam — Riverlands / Clearbrook — Master of All 3 — emplacement de la section ; aucun repère additionnel dans la base
+[COFFRE] [ ] #180 — Light Soulstone — Riverlands / Path to Waterpool Caves — Master of All 3 — emplacement de la section ; aucun repère additionnel dans la base
+[COFFRE] [ ] #181 — Plum Blossom Fan — Riverlands / Path to Waterpool Caves — Master of All 3 — emplacement de la section ; aucun repère additionnel dans la base
+[COFFRE] [ ] #182 — 7500L — Riverlands / Path to Waterpool Caves — Master of All 3 — emplacement de la section ; aucun repère additionnel dans la base
+[COFFRE] [ ] #183 — Inspiriting Plum Basket — Riverlands / Waterpool Caves — Master of All 3 — emplacement de la section ; aucun repère additionnel dans la base
+[COFFRE] [ ] #184 — Energizing Pomegranate — Riverlands / Waterpool Caves — Master of All 3 — emplacement de la section ; aucun repère additionnel dans la base
+[COFFRE] [ ] #185 — Letter Fragment — Riverlands / Waterpool Caves — Master of All 3 — point de collecte près de l'extrémité nord-est
+[COFFRE] [ ] #186 — Stat Swap Mastery — Riverlands / Waterpool Caves — Master of All 3 — gardé par Menacing Master Thief II
+[COFFRE] [ ] #187 — Gold Hairpiece — Riverlands / Waterpool Caves — Master of All 3 — emplacement de la section ; aucun repère additionnel dans la base
+[COFFRE] [ ] #188 — Energizing Pomegranate (L) — Riverlands / East Clearbrook Traverse — Kindlers 3 — emplacement de la section ; aucun repère additionnel dans la base
+[COFFRE] [ ] #189 — Wind Soulstone (M) — Riverlands / East Clearbrook Traverse — Kindlers 3 — emplacement de la section ; aucun repère additionnel dans la base
+[COFFRE] [ ] #190 — Enlightening Necklace — Riverlands / East Clearbrook Traverse — Kindlers 3 — emplacement de la section ; aucun repère additionnel dans la base
+[COFFRE] [ ] #191 — Inspiriting Plum (M) — Sunlands / Sunshade Sands — Kindlers 3 — emplacement de la section ; aucun repère additionnel dans la base
+[COFFRE] [ ] #192 — Primeval Robe — Sunlands / Sunshade Sands — Kindlers 3 — coffre bleu verrouillé
+[COFFRE] [ ] #193 — Silver-Filled Pouch — Sunlands / Sunshade Sands — Kindlers 3 — emplacement de la section ; aucun repère additionnel dans la base
+[COFFRE] [ ] #194 — Fire Soulstone (M) — Sunlands / Sunshade — Kindlers 3 — Inn
+[COFFRE] [ ] #195 — Invigorating Nut (M) — Sunlands / Sunshade — Kindlers 3 — emplacement de la section ; aucun repère additionnel dans la base
+[COFFRE] [ ] #196 — Little Crow — Sunlands / Sunshade — Kindlers 3 — coffre bleu verrouillé
+[COFFRE] [ ] #197 — Energizing Pomegranate — Sunlands / Eastern Sunshade Sands — Kindlers 3 — emplacement de la section ; aucun repère additionnel dans la base
+[COFFRE] [ ] #198 — Critical Cuffs — Sunlands / Eastern Sunshade Sands — Kindlers 3 — emplacement de la section ; aucun repère additionnel dans la base
+[COFFRE] [ ] #199 — Bottle of Numbing Dust — Sunlands / Finesand Ruins — Kindlers 3 — emplacement de la section ; aucun repère additionnel dans la base
+[COFFRE] [ ] #200 — Stalwart Aura Mastery — Sunlands / Finesand Ruins — Kindlers 3 — gardé par Menacing Desert Worm
+[COFFRE] [ ] #201 — Wind Soulstone (M) — Sunlands / Finesand Ruins — Kindlers 3 — emplacement de la section ; aucun repère additionnel dans la base
+[COFFRE] [ ] #202 — Wild Knives Mastery — Sunlands / Finesand Ruins — Kindlers 3 — coffre bleu verrouillé
+[COFFRE] [ ] #203 — Stronger Strikes Mastery — Sunlands / Finesand Ruins — Kindlers 3 — emplacement de la section ; aucun repère additionnel dans la base
+[COFFRE] [ ] #204 — Vivid Woven Wool — Sunlands / Finesand Ruins — Kindlers 3 — emplacement de la section ; aucun repère additionnel dans la base
+[COFFRE] [ ] #205 — Light Nut (M) — Highlands / Shepherd's Rock Pass — Kindling 5 — emplacement de la section ; aucun repère additionnel dans la base
+[COFFRE] [ ] #206 — EXP Augmentor — Highlands / Shepherd's Rock Pass — Kindling 5 — coffre bleu verrouillé
+[COFFRE] [ ] #207 — Preventative Measures Mastery — Highlands / Shepherd's Rock Pass — Kindling 5 — emplacement de la section ; aucun repère additionnel dans la base
+[COFFRE] [ ] #208 — Healing Grape Bunch — Highlands / Shepherd's Rock — Kindling 5 — emplacement de la section ; aucun repère additionnel dans la base
+[COFFRE] [ ] #209 — Almighty Olive x2 — Highlands / Shepherd's Rock — Kindling 5 — coffre bleu verrouillé
+[COFFRE] [ ] #210 — Tune of the Tempest Mastery — Highlands / Shepherd's Rock — Kindling 5 — emplacement de la section ; aucun repère additionnel dans la base
+[COFFRE] [ ] #211 — Reinvigorating Jam — Highlands / Shepherd's Rock: Castle Square — Kindling 5 — emplacement de la section ; aucun repère additionnel dans la base
+[COFFRE] [ ] #212 — Ice Soulstone (M) — Highlands / Shepherd's Rock: Castle Square — Kindling 5 — emplacement de la section ; aucun repère additionnel dans la base
+[COFFRE] [ ] #213 — Freshly Shorn Fleece — Highlands / Shepherd's Rock: Castle Square — Kindling 5 — point de collecte dans le jardin arrière de la maison ouest
+[COFFRE] [ ] #214 — Freshly Shorn Fleece — Highlands / Shepherd's Rock: Castle Square — Kindling 5 — point de collecte dans le jardin arrière de la maison ouest
+[COFFRE] [ ] #215 — Traveling Music Score VIII — Highlands / Shepherd's Rock: Castle Square — Kindling 5 — point de collecte dans la maison nord-ouest
+[COFFRE] [ ] #216 — Herb of Vitality — Highlands / Shepherd's Rock: Castle Square — Kindling 5 — emplacement de la section ; aucun repère additionnel dans la base
+[COFFRE] [ ] #217 — Sprightly Cuffs — Highlands / North Shepherd's Rock Pass — Kindling 5 — emplacement de la section ; aucun repère additionnel dans la base
+[COFFRE] [ ] #218 — Herb of Clamor — Highlands / North Shepherd's Rock Pass — Kindling 5 — emplacement de la section ; aucun repère additionnel dans la base
+[COFFRE] [ ] #219 — Resistant Nut (M) — Frostlands / Flamesgrace Wilds — Kindlers 4 — emplacement de la section ; aucun repère additionnel dans la base
+[COFFRE] [ ] #220 — Tattered Sacred Shield — Frostlands / Flamesgrace Wilds — Kindlers 4 — emplacement de la section ; aucun repère additionnel dans la base
+[COFFRE] [ ] #221 — Ice Soulstone (M) — Frostlands / Flamesgrace Wilds — Kindlers 4 — emplacement de la section ; aucun repère additionnel dans la base
+[COFFRE] [ ] #222 — Reinvigorating Jam x2 — Frostlands / Flamesgrace Wilds — Kindlers 4 — coffre bleu verrouillé
+[COFFRE] [ ] #223 — Unerring Cuffs — Frostlands / Flamesgrace Wilds — Kindlers 4 — emplacement de la section ; aucun repère additionnel dans la base
+[COFFRE] [ ] #224 — Light Soulstone (M) — Frostlands / Flamesgrace — Kindlers 4 — auberge, étage 2
+[COFFRE] [ ] #225 — Bottle of Blinding Dust — Frostlands / Flamesgrace — Kindlers 4 — emplacement de la section ; aucun repère additionnel dans la base
+[COFFRE] [ ] #226 — Light Nut (M) — Frostlands / Flamesgrace — Kindlers 4 — emplacement de la section ; aucun repère additionnel dans la base
+[COFFRE] [ ] #227 — Traveling Music Score II — Frostlands / Flamesgrace Cathedral: Entrance — Kindlers 4 — point de collecte dans la maison est
+[COFFRE] [ ] #228 — Energizing Pomegranate (L) — Frostlands / Flamesgrace Cathedral: Entrance — Kindlers 4 — emplacement de la section ; aucun repère additionnel dans la base
+[COFFRE] [ ] #229 — Olive of Life (M) — Frostlands / Flamesgrace Cathedral — Kindlers 4 — emplacement de la section ; aucun repère additionnel dans la base
+[COFFRE] [ ] #230 — Virtuous Light Mastery — Frostlands / Flamesgrace Cathedral — Kindlers 4 — emplacement de la section ; aucun repère additionnel dans la base
+[COFFRE] [ ] #231 — Healing Grape Bunch — Frostlands / Flamesgrace Cathedral — Kindlers 4 — emplacement de la section ; aucun repère additionnel dans la base
+[COFFRE] [ ] #232 — Elder's Circlet — Frostlands / Flamesgrace Cathedral — Kindlers 4 — coffre bleu verrouillé
+[COFFRE] [ ] #233 — Refreshing Jam — Frostlands / Path to the Flamebearer's Shrine — Kindlers 5 — emplacement de la section ; aucun repère additionnel dans la base
+[COFFRE] [ ] #234 — Yaya's Hairpin — Woodlands / Wishvale — Kindlers 5 — point de collecte près de l'église
+[COFFRE] [ ] #235 — Divine Halo — Frostlands / Path to the Flamebearer's Shrine — Kindlers 5 — emplacement de la section ; aucun repère additionnel dans la base
+[COFFRE] [ ] #236 — Letter Fragment — Woodlands / Path to Herminia's Manse — Kindlers 5 — point de collecte derrière le monstre de l'arène
+[COFFRE] [ ] #237 — Shadow Soulstone (M) — Highlands / Valley of Death: East — Master of All 5 — emplacement de la section ; aucun repère additionnel dans la base
+[COFFRE] [ ] #238 — Octopath Rolls — Highlands / Valley of Death: East — Master of All 5 — emplacement de la section ; aucun repère additionnel dans la base
+[COFFRE] [ ] #239 — Cat's Eye — Highlands / Valley of Death: East — Master of All 5 — emplacement de la section ; aucun repère additionnel dans la base
+[COFFRE] [ ] #240 — Lady's Tiara — Highlands / Valley of Death: East — Master of All 5 — emplacement de la section ; aucun repère additionnel dans la base
+[COFFRE] [ ] #241 — Herb of Fortification — Highlands / Valley of Death — Master of All 5 — emplacement de la section ; aucun repère additionnel dans la base
+[COFFRE] [ ] #242 — Almighty Soulstone — Highlands / Valley of Death — Master of All 5 — emplacement de la section ; aucun repère additionnel dans la base
+[COFFRE] [ ] #243 — Repeated Bash Mastery — Highlands / Valley of Death — Master of All 5 — gardé par Menacing Highland Ratking I
+[COFFRE] [ ] #244 — Swordbreaker — Highlands / Valley of Death — Master of All 5 — emplacement de la section ; aucun repère additionnel dans la base
+[COFFRE] [ ] #245 — Herb of Mending — Highlands / Valley of Death: West — Master of All 5 — emplacement de la section ; aucun repère additionnel dans la base
+[COFFRE] [ ] #246 — Protective Cuffs — Highlands / Valley of Death: West — Master of All 5 — emplacement de la section ; aucun repère additionnel dans la base
+[COFFRE] [ ] #247 — Olive of Life (M) — Highlands / Valley of Death: West — Master of All 5 — emplacement de la section ; aucun repère additionnel dans la base
+[COFFRE] [ ] #248 — Sunlands Spear — Highlands / Valley of Death: West — Master of All 5 — emplacement de la section ; aucun repère additionnel dans la base
+[COFFRE] [ ] #249 — 10000L — Riverlands / Stillwater Subterrane — Master of All 7 — emplacement de la section ; aucun repère additionnel dans la base
+[COFFRE] [ ] #250 — Scarlet Stone of Protection — Riverlands / Stillwater Subterrane — Master of All 7 — emplacement de la section ; aucun repère additionnel dans la base
+[COFFRE] [ ] #251 — Energizing Pomegranate (M) — Riverlands / Stillwater Subterrane — Master of All 7 — emplacement de la section ; aucun repère additionnel dans la base
+[COFFRE] [ ] #252 — Dark Strike Mastery — Riverlands / Stillwater Subterrane — Master of All 7 — emplacement de la section ; aucun repère additionnel dans la base
+[COFFRE] [ ] #253 — Inspiriting Plum Basket — Riverlands / Castle Riven — Master of All 7 — emplacement de la section ; aucun repère additionnel dans la base
+[COFFRE] [ ] #254 — Secrets of Sleep: Volume II — Riverlands / Castle Riven — Master of All 7 — gardé par Menacing Guardian Mk.II
+[COFFRE] [ ] #255 — Spiked Armor — Riverlands / Castle Riven — Master of All 7 — emplacement de la section ; aucun repère additionnel dans la base
+[COFFRE] [ ] #256 — Thunder Soulstone (M) — Riverlands / Castle Riven — Master of All 7 — emplacement de la section ; aucun repère additionnel dans la base
+[COFFRE] [ ] #257 — Revitalizing Jam — Cliftlands / Road to Castle Edoras — Master of All 8 — emplacement de la section ; aucun repère additionnel dans la base
+[COFFRE] [ ] #258 — Swiftbolt Mastery — Cliftlands / Road to Castle Edoras — Master of All 8 — gardé par Menacing Dreadwing
+[COFFRE] [ ] #259 — Shadow Soulstone (M) — Cliftlands / Road to Castle Edoras — Master of All 8 — emplacement de la section ; aucun repère additionnel dans la base
+[COFFRE] [ ] #260 — Blazon of Protection — Cliftlands / Castle Edoras — Master of All 8 — emplacement de la section ; aucun repère additionnel dans la base
+[COFFRE] [ ] #261 — Energizing Pomegranate (M) — Cliftlands / Castle Edoras — Master of All 8 — emplacement de la section ; aucun repère additionnel dans la base
+[COFFRE] [ ] #262 — Healing Grape Bunch — Cliftlands / Castle Edoras — Master of All 8 — emplacement de la section ; aucun repère additionnel dans la base
+[COFFRE] [ ] #263 — Herb of Vitality — Cliftlands / Castle Edoras — Master of All 8 — emplacement de la section ; aucun repère additionnel dans la base
+[COFFRE] [ ] #264 — Hellish Flame Mastery — Cliftlands / Castle Edoras — Master of All 8 — emplacement de la section ; aucun repère additionnel dans la base
+[COFFRE] [ ] #265 — Refreshing Jam — Cliftlands / Castle Edoras: Upper Floor — Master of All 8 — emplacement de la section ; aucun repère additionnel dans la base
+[COFFRE] [ ] #266 — Hasty Helm — Cliftlands / Castle Edoras: Upper Floor — Master of All 8 — emplacement de la section ; aucun repère additionnel dans la base
+[COFFRE] [ ] #267 — Exotic Fan — Cliftlands / Castle Edoras: Upper Floor — Master of All 8 — gardé par Edoras Defender of Fame
+[COFFRE] [ ] #268 — Herb of Clamor — Cliftlands / Castle Edoras: Upper Floor — Master of All 8 — emplacement de la section ; aucun repère additionnel dans la base
+[COFFRE] [ ] #269 — Proof of Valor — Cliftlands / Castle Edoras: Princess's Chambers — Master of All 8 — point de collecte dans les appartements de la princesse
+[COFFRE] [ ] #270 — Large Goldwork — Cliftlands / Castle Edoras: Throne Room — Master of All 8 — point de collecte dans la salle du trésor
+[COFFRE] [ ] #271 — Light Soulstone (L) — Cliftlands / Castle Edoras: Throne Room — Master of All 8 — point de collecte dans la salle du trésor
+[COFFRE] [ ] #272 — Fortifying Nut (L) — Cliftlands / Castle Edoras: Throne Room — Master of All 8 — point de collecte dans la salle du trésor
+[COFFRE] [ ] #273 — Dark Amulet — Cliftlands / Castle Edoras: Throne Room — Master of All 8 — point de collecte dans la salle du trésor
+[COFFRE] [ ] #274 — Energizing Pomegranate (L) — Cliftlands / Castle Edoras: Throne Room — Master of All 8 — point de collecte dans la salle du trésor
+[COFFRE] [ ] #275 — Giant Goldwork — Cliftlands / Castle Edoras: Throne Room — Master of All 8 — point de collecte dans la salle du trésor
+[COFFRE] [ ] #276 — Silver-Filled Pouch — Cliftlands / Castle Edoras: Throne Room — Master of All 8 — point de collecte dans la salle du trésor
+[COFFRE] [ ] #277 — Battle Music Score I — Woodlands / Wishvale — Exploring — à l'intérieur du musée
+[COFFRE] [ ] #278 — Trick Staff — Highlands / Cavern of Mists — Exploring — coffre bleu verrouillé
+[COFFRE] [ ] #279 — Invigorating Nut (M) — Highlands / Cavern of Mists — Exploring — emplacement de la section ; aucun repère additionnel dans la base
+[COFFRE] [ ] #280 — 10000L — Highlands / Cavern of Mists — Exploring — emplacement de la section ; aucun repère additionnel dans la base
+[COFFRE] [ ] #281 — Evasive Maneuvers — Highlands / Cavern of Mists — Exploring — gardé par Menacing Woolly Spider
+[COFFRE] [ ] #282 — Battle Music Score IV — Highlands / Cavern of Mists — Exploring — point de collecte au nord-ouest
+[COFFRE] [ ] #283 — Dark Amulet — Highlands / Cavern of Mists — Exploring — Jade Ring
+[COFFRE] [ ] #284 — Octopath Rolls — Coastlands / Man-Eating Miser's Hideout — Exploring — emplacement de la section ; aucun repère additionnel dans la base
+[COFFRE] [ ] #285 — Magic Nut (L) — Coastlands / Man-Eating Miser's Hideout — Exploring — emplacement de la section ; aucun repère additionnel dans la base
+[COFFRE] [ ] #286 — "Master of All" Music Score — Cliftlands / Cragspear — Finale — point de collecte dans la maison la plus à l'est
+[COFFRE] [ ] #287 — Healing Grape Bunch — Woodlands / Victors Hollow Trail — Bestower of Wealth 1 — emplacement de la section ; aucun repère additionnel dans la base
+[COFFRE] [ ] #288 — Elemental Shield — Woodlands / Victors Hollow Trail — Bestower of Wealth 1 — emplacement de la section ; aucun repère additionnel dans la base
+[COFFRE] [ ] #289 — Bouquet of Hollowlilies — Woodlands / Victors Hollow Trail — Bestower of Wealth 1 — point de collecte sur le côté est
+[COFFRE] [ ] #290 — Heavy Bone Spear — Woodlands / Victors Hollow Trail — Bestower of Wealth 1 — coffre bleu verrouillé
+[COFFRE] [ ] #291 — Light Amulet — Woodlands / Victors Hollow Trail — Bestower of Wealth 1 — emplacement de la section ; aucun repère additionnel dans la base
+[COFFRE] [ ] #292 — Exotic Garb — Woodlands / Victors Hollow — Bestower of Wealth 1 — coffre bleu verrouillé
+[COFFRE] [ ] #293 — Herb of Vitality — Woodlands / Victors Hollow — Bestower of Wealth 1 — auberge, étage 2
+[COFFRE] [ ] #294 — Fortifying Stone — Woodlands / Victors Hollow: Arena Gate — Bestower of Wealth 1 — emplacement de la section ; aucun repère additionnel dans la base
+[COFFRE] [ ] #295 — Traveling Music Score I — Woodlands / Victors Hollow: Arena Gate — Bestower of Wealth 1 — point de collecte près du coffre précédent
+[COFFRE] [ ] #296 — Energizing Pomegranate (M) — Woodlands / Arena — Bestower of Wealth 1 — emplacement de la section ; aucun repère additionnel dans la base
+[COFFRE] [ ] #297 — Inspiriting Plum (M) — Woodlands / Arena — Bestower of Wealth 1 — emplacement de la section ; aucun repère additionnel dans la base
+[COFFRE] [ ] #298 — Slippery Nut (M) — Woodlands / Victors Hollow: Old Quarter — Bestower of Wealth 1 — emplacement de la section ; aucun repère additionnel dans la base
+[COFFRE] [ ] #299 — Curious Antiques — Woodlands / Victors Hollow: Old Quarter — Bestower of Wealth 1 — emplacement de la section ; aucun repère additionnel dans la base
+[COFFRE] [ ] #300 — Sprightly Bracelet — Woodlands / Subterranean Arena — Bestower of Wealth 1 — emplacement de la section ; aucun repère additionnel dans la base
+[COFFRE] [ ] #301 — Energizing Pomegranate — Woodlands / Subterranean Arena — Bestower of Wealth 1 — emplacement de la section ; aucun repère additionnel dans la base
+[COFFRE] [ ] #302 — Arrow Volley Mastery — Woodlands / Subterranean Arena — Bestower of Wealth 1 — gardé par Menacing Combatant (Warrior)
+[COFFRE] [ ] #303 — Formidable Stance Mastery — Woodlands / Subterranean Arena — Bestower of Wealth 1 — coffre bleu verrouillé
+[COFFRE] [ ] #304 — Inspiriting Plum Basket — Woodlands / Subterranean Arena — Bestower of Wealth 1 — emplacement de la section ; aucun repère additionnel dans la base
+[COFFRE] [ ] #305 — Enchanted Axe — Woodlands / Subterranean Arena — Bestower of Wealth 1 — emplacement de la section ; aucun repère additionnel dans la base
+[COFFRE] [ ] #306 — Arena Music Score I — Woodlands / Leopaldi's Estate — Bestower of Wealth 1 — emplacement de la section ; aucun repère additionnel dans la base
+[COFFRE] [ ] #307 — Olive of Life (M) — Woodlands / Great Tree's Tears — Exploring — emplacement de la section ; aucun repère additionnel dans la base
+[COFFRE] [ ] #308 — Windblast Mastery — Woodlands / Great Tree's Tears — Exploring — gardé par Menacing Icky Slug; coffre bleu verrouillé
+[COFFRE] [ ] #309 — Herb of Valor — Woodlands / Great Tree's Tears — Exploring — emplacement de la section ; aucun repère additionnel dans la base
+[COFFRE] [ ] #310 — Refreshing Jam — Woodlands / Great Tree's Tears — Exploring — emplacement de la section ; aucun repère additionnel dans la base
+[COFFRE] [ ] #311 — Arena Medal — Woodlands / Great Tree's Tears — Exploring — (uniquement pendant la quête A Complete Collection ?)
+[COFFRE] [ ] #312 — Wind Soulstone (L) — Riverlands / Donescu Traverse — Bestower of Power 1 — emplacement de la section ; aucun repère additionnel dans la base
+[COFFRE] [ ] #313 — Fortifying Nut (M) — Riverlands / Donescu Traverse — Bestower of Power 1 — emplacement de la section ; aucun repère additionnel dans la base
+[COFFRE] [ ] #314 — Critical Necklace — Riverlands / Donescu — Bestower of Power 1 — emplacement de la section ; aucun repère additionnel dans la base
+[COFFRE] [ ] #315 — Rapid Bow — Riverlands / Donescu — Bestower of Power 1 — auberge, étage 2; coffre bleu verrouillé
+[COFFRE] [ ] #316 — Traveling Music Score VI — Riverlands / Donescu — Bestower of Power 1 — point de collecte dans une maison au sud
+[COFFRE] [ ] #317 — Tumultuous Tome Toss Mastery — Riverlands / Donescu — Bestower of Power 1 — emplacement de la section ; aucun repère additionnel dans la base
+[COFFRE] [ ] #318 — Old Tome — Riverlands / Donescu — Bestower of Power 1 — emplacement de la section ; aucun repère additionnel dans la base
+[COFFRE] [ ] #319 — Magic Nut (M) — Riverlands / East Cyphlo Banks — Bestower of Power 1 — emplacement de la section ; aucun repère additionnel dans la base
+[COFFRE] [ ] #320 — Rejuvenating Jam — Riverlands / East Cyphlo Banks — Bestower of Power 1 — emplacement de la section ; aucun repère additionnel dans la base
+[COFFRE] [ ] #321 — Crested Key — Riverlands / East Cyphlo Banks — Bestower of Power 1 — emplacement de la section ; aucun repère additionnel dans la base
+[COFFRE] [ ] #322 — Articulate Stone — Riverlands / East Cyphlo Banks — Bestower of Power 1 — gardé par Menacing River Froggen II
+[COFFRE] [ ] #323 — Wind Soulstone (L) — Riverlands / Cyphlo Banks — Bestower of Power 1 — emplacement de la section ; aucun repère additionnel dans la base
+[COFFRE] [ ] #324 — 18000L — Riverlands / Cyphlo Banks — Bestower of Power 1 — emplacement de la section ; aucun repère additionnel dans la base
+[COFFRE] [ ] #325 — Shadowsage Necklace — Riverlands / Cyphlo Banks — Bestower of Power 1 — coffre bleu verrouillé
+[COFFRE] [ ] #326 — Resilient Stance Mastery — Riverlands / Cyphlo Banks — Bestower of Power 1 — gardé par Mighty Slayer Bug
+[COFFRE] [ ] #327 — The Days of Donescu — Riverlands / Donescu Traverse — Bestower of Power 1 — coffre bleu verrouillé ; après Bestower of Power 1
+[COFFRE] [ ] #328 — Herb of Awakening — Riverlands / Misty Falls — Exploring — emplacement de la section ; aucun repère additionnel dans la base
+[COFFRE] [ ] #329 — Olive of Life (L) — Riverlands / Misty Falls — Exploring — emplacement de la section ; aucun repère additionnel dans la base
+[COFFRE] [ ] #330 — 12000L — Riverlands / Misty Falls — Exploring — emplacement de la section ; aucun repère additionnel dans la base
+[COFFRE] [ ] #331 — Last Stand Mastery — Riverlands / Misty Falls — Exploring — gardé par ; coffre bleu verrouillé
+[COFFRE] [ ] #332 — Olive of Life (M) — Frostlands / Cathedral of Tytos: Entrance — Bestower of Fame 1 — emplacement de la section ; aucun repère additionnel dans la base
+[COFFRE] [ ] #333 — Wakeful Stone — Frostlands / Cathedral of Tytos: Entrance — Bestower of Fame 1 — emplacement de la section ; aucun repère additionnel dans la base
+[COFFRE] [ ] #334 — "Master of Power" Music Score — Frostlands / Cathedral of Tytos — Bestower of Fame 1 — point de collecte dans la salle est du rez-de-chaussée
+[COFFRE] [ ] #335 — Refreshing Jam — Frostlands / Cathedral of Tytos — Bestower of Fame 1 — emplacement de la section ; aucun repère additionnel dans la base
+[COFFRE] [ ] #336 — Arcane Shot Mastery — Frostlands / Cathedral of Tytos — Bestower of Fame 1 — emplacement de la section ; aucun repère additionnel dans la base
+[COFFRE] [ ] #337 — Octopath Rolls — Frostlands / Cathedral of Tytos: Underground — Bestower of Fame 1 — emplacement de la section ; aucun repère additionnel dans la base
+[COFFRE] [ ] #338 — Fire Soulstone (L) — Frostlands / Cathedral of Tytos: Underground — Bestower of Fame 1 — emplacement de la section ; aucun repère additionnel dans la base
+[COFFRE] [ ] #339 — Elemental Hat — Frostlands / Cathedral of Tytos: Underground — Bestower of Fame 1 — emplacement de la section ; aucun repère additionnel dans la base
+[COFFRE] [ ] #340 — Bright Stone — Frostlands / Cathedral of Tytos: Underground — Bestower of Fame 1 — emplacement de la section ; aucun repère additionnel dans la base
+[COFFRE] [ ] #341 — Energizing Pomegranate (L) — Frostlands / Cathedral of Tytos: Underground — Bestower of Fame 1 — emplacement de la section ; aucun repère additionnel dans la base
+[COFFRE] [ ] #342 — Herb of Awakening — Frostlands / Emberglow Laboratory: Inner Chambers — Bestower of Fame 1 — emplacement de la section ; aucun repère additionnel dans la base
+[COFFRE] [ ] #343 — Stream of Arrows Mastery — Frostlands / Emberglow Laboratory: Inner Chambers — Bestower of Fame 1 — coffre bleu verrouillé
+[COFFRE] [ ] #344 — Boosting Break Mastery — Frostlands / Emberglow Laboratory: Inner Chambers — Bestower of Fame 1 — gardé par Menacing Test Subject (Big Beast)
+[COFFRE] [ ] #345 — Olive of Life (L) — Frostlands / Emberglow Laboratory: Inner Chambers — Bestower of Fame 1 — emplacement de la section ; aucun repère additionnel dans la base
+[COFFRE] [ ] #346 — White Wolf Scarf — Frostlands / Emberglow Laboratory: Inner Chambers — Bestower of Fame 1 — emplacement de la section ; aucun repère additionnel dans la base
+[COFFRE] [ ] #347 — Brooch of Resolution — Sunlands / Sufrataljah Sands — Bestower of Wealth 2 — coffre bleu verrouillé
+[COFFRE] [ ] #348 — Critical Nut (M) — Sunlands / Sufrataljah Sands — Bestower of Wealth 2 — emplacement de la section ; aucun repère additionnel dans la base
+[COFFRE] [ ] #349 — Old Painting — Sunlands / Sufrataljah Sands — Bestower of Wealth 2 — emplacement de la section ; aucun repère additionnel dans la base
+[COFFRE] [ ] #350 — Healing Grape Bunch — Sunlands / Sufrataljah — Bestower of Wealth 2 — auberge, étage 2
+[COFFRE] [ ] #351 — Inspiriting Plum (M) — Sunlands / Sufrataljah — Bestower of Wealth 2 — emplacement de la section ; aucun repère additionnel dans la base
+[COFFRE] [ ] #352 — Rejuvenating Jam — Sunlands / Sufrataljah — Bestower of Wealth 2 — coffre bleu verrouillé
+[COFFRE] [ ] #353 — Invigorating Stone — Sunlands / Sufrataljah: Palace Entrance — Bestower of Wealth 2 — emplacement de la section ; aucun repère additionnel dans la base
+[COFFRE] [ ] #354 — Herb of Vitality — Sunlands / Sufrataljah: Palace Entrance — Bestower of Wealth 2 — emplacement de la section ; aucun repère additionnel dans la base
+[COFFRE] [ ] #355 — Herb of Vitality — Sunlands / Sufrataljah: Palace — Bestower of Wealth 2 — emplacement de la section ; aucun repère additionnel dans la base
+[COFFRE] [ ] #356 — Bottle of Poison Dust — Sunlands / Sufrataljah: Palace — Bestower of Wealth 2 — emplacement de la section ; aucun repère additionnel dans la base
+[COFFRE] [ ] #357 — Elemental Ward — Sunlands / Sufrataljah: Palace — Bestower of Wealth 2 — emplacement de la section ; aucun repère additionnel dans la base
+[COFFRE] [ ] #358 — Abating Orb Mastery — Sunlands / Sufrataljah: Palace — Bestower of Wealth 2 — coffre bleu verrouillé
+[COFFRE] [ ] #359 — Superior Wine — Sunlands / Sufrataljah: Palace — Bestower of Wealth 2 — emplacement de la section ; aucun repère additionnel dans la base
+[COFFRE] [ ] #360 — Invigorating Nut (L) — Sunlands / Sufrataljah: Palace - Upper Floor — Bestower of Wealth 2 — emplacement de la section ; aucun repère additionnel dans la base
+[COFFRE] [ ] #361 — Olive of Life (M) — Sunlands / Sufrataljah: Palace - Upper Floor — Bestower of Wealth 2 — emplacement de la section ; aucun repère additionnel dans la base
+[COFFRE] [ ] #362 — Light Soulstone (L) — Sunlands / Sufrataljah: Palace - Upper Floor — Bestower of Wealth 2 — emplacement de la section ; aucun repère additionnel dans la base
+[COFFRE] [ ] #363 — Reaper's Blade — Sunlands / Sufrataljah: Palace - Upper Floor — Bestower of Wealth 2 — gardé par Menacing Gold Wind Curator
+[COFFRE] [ ] #364 — 18000L — Sunlands / Sufrataljah: Palace - Upper Floor — Bestower of Wealth 2 — emplacement de la section ; aucun repère additionnel dans la base
+[COFFRE] [ ] #365 — Traveling Music Score VII — Sunlands / Sufrataljah: Palace - Upper Floor — Bestower of Wealth 2 — point de collecte dans la bibliothèque
+[COFFRE] [ ] #366 — Utsusemi Dance Mastery — Coastlands / Outersea — Bestower of Power 2 — gardé par Menacing Electric Catfish
+[COFFRE] [ ] #367 — Elemental Bow — Coastlands / Outersea — Bestower of Power 2 — emplacement de la section ; aucun repère additionnel dans la base
+[COFFRE] [ ] #368 — Ice Soulstone (XL) — Coastlands / Outersea — Bestower of Power 2 — emplacement de la section ; aucun repère additionnel dans la base
+[COFFRE] [ ] #369 — Revitalizing Jam — Coastlands / Outersea — Bestower of Power 2 — emplacement de la section ; aucun repère additionnel dans la base
+[COFFRE] [ ] #370 — Olive of Life (L) — Coastlands / Outersea — Bestower of Power 2 — emplacement de la section ; aucun repère additionnel dans la base
+[COFFRE] [ ] #371 — Gaolbreaker — Coastlands / Outersea — Bestower of Power 2 — emplacement de la section ; aucun repère additionnel dans la base
+[COFFRE] [ ] #372 — Energizing Pomegranate (L) — Coastlands / Outersea — Bestower of Power 2 — emplacement de la section ; aucun repère additionnel dans la base
+[COFFRE] [ ] #373 — Elemental Hatchet — Coastlands / Shipwreck Island — Bestower of Power 2 — gardé par Menacing Ice Remnant Mk.II
+[COFFRE] [ ] #374 — Blizzard Amulet — Coastlands / Shipwreck Island — Bestower of Power 2 — emplacement de la section ; aucun repère additionnel dans la base
+[COFFRE] [ ] #375 — Sun Shield — Coastlands / Grandport Coast — Bestower of Power 2 — coffre bleu verrouillé
+[COFFRE] [ ] #376 — Sharp Nut (M) — Coastlands / Grandport Coast — Bestower of Power 2 — emplacement de la section ; aucun repère additionnel dans la base
+[COFFRE] [ ] #377 — Grand Helm — Coastlands / Grandport Coast — Bestower of Power 2 — emplacement de la section ; aucun repère additionnel dans la base
+[COFFRE] [ ] #378 — Ice Soulstone (L) — Coastlands / Grandport Coast — Bestower of Power 2 — emplacement de la section ; aucun repère additionnel dans la base
+[COFFRE] [ ] #379 — Traveling Music Score IV — Coastlands / Grandport — Bestower of Power 2 — point de collecte au 2e étage de l'auberge
+[COFFRE] [ ] #380 — Ancient Model Ship — Coastlands / Grandport — Bestower of Power 2 — emplacement de la section ; aucun repère additionnel dans la base
+[COFFRE] [ ] #381 — Fire Soulstone (L) — Coastlands / Grandport Markets — Bestower of Power 2 — emplacement de la section ; aucun repère additionnel dans la base
+[COFFRE] [ ] #382 — Unerring Necklace — Coastlands / Grandport Markets — Bestower of Power 2 — emplacement de la section ; aucun repère additionnel dans la base
+[COFFRE] [ ] #383 — Red Apple — Coastlands / Grandport Markets — Bestower of Power 2 — emplacement de la section ; aucun repère additionnel dans la base
+[COFFRE] [ ] #384 — Refreshing Jam — Coastlands / Grandport Bazaar — Bestower of Power 2 — emplacement de la section ; aucun repère additionnel dans la base
+[COFFRE] [ ] #385 — 25000L — Coastlands / Grandport Bazaar — Bestower of Power 2 — emplacement de la section ; aucun repère additionnel dans la base
+[COFFRE] [ ] #386 — Rock Cleaver — Coastlands / Grandport Bazaar — Bestower of Power 2 — coffre bleu verrouillé
+[COFFRE] [ ] #387 — Nourishing Nut (L) — Coastlands / Grandport: Estate Entrance — Bestower of Power 2 — emplacement de la section ; aucun repère additionnel dans la base
+[COFFRE] [ ] #388 — Herb of Vitality — Coastlands / Grandport Sewers — Bestower of Power 2 — emplacement de la section ; aucun repère additionnel dans la base
+[COFFRE] [ ] #389 — Protective Bracelet — Coastlands / Grandport Sewers — Bestower of Power 2 — emplacement de la section ; aucun repère additionnel dans la base
+[COFFRE] [ ] #390 — Thunder Soulstone (L) — Coastlands / Grandport Sewers — Bestower of Power 2 — emplacement de la section ; aucun repère additionnel dans la base
+[COFFRE] [ ] #391 — Huntress's Longbow — Coastlands / Grandport Sewers: Depths — Bestower of Power 2 — gardé par Menacing Cleaving Armor
+[COFFRE] [ ] #392 — Reaper's Blade Mastery — Coastlands / Grandport Sewers: Depths — Bestower of Power 2 — coffre bleu verrouillé
+[COFFRE] [ ] #393 — Elemental Light Armor — Coastlands / Grandport Sewers: Depths — Bestower of Power 2 — emplacement de la section ; aucun repère additionnel dans la base
+[COFFRE] [ ] #394 — Critical Nut (L) — Coastlands / Grandport Sewers: Depths — Bestower of Power 2 — emplacement de la section ; aucun repère additionnel dans la base
+[COFFRE] [ ] #395 — Inspiriting Plum Basket — Coastlands / Grandport Sewers: Depths — Bestower of Power 2 — emplacement de la section ; aucun repère additionnel dans la base
+[COFFRE] [ ] #396 — Light Nut (M) — Flatlands / West Theatropolis Plains — Bestower of Fame 2 — emplacement de la section ; aucun repère additionnel dans la base
+[COFFRE] [ ] #397 — Suprprise Attack Mastery — Flatlands / West Theatropolis Plains — Bestower of Fame 2 — emplacement de la section ; aucun repère additionnel dans la base
+[COFFRE] [ ] #398 — Congealing Stone — Flatlands / West Theatropolis Plains — Bestower of Fame 2 — emplacement de la section ; aucun repère additionnel dans la base
+[COFFRE] [ ] #399 — Light Soulstone (L) — Flatlands / West Theatropolis Plains — Bestower of Fame 2 — emplacement de la section ; aucun repère additionnel dans la base
+[COFFRE] [ ] #400 — Thunder Soulstone (L) — Flatlands / Atlasdam Flats — Bestower of Fame 2 — emplacement de la section ; aucun repère additionnel dans la base
+[COFFRE] [ ] #401 — Bottle of Numbing Dust — Flatlands / Atlasdam Flats — Bestower of Fame 2 — emplacement de la section ; aucun repère additionnel dans la base
+[COFFRE] [ ] #402 — Grand Vest — Flatlands / Atlasdam Flats — Bestower of Fame 2 — emplacement de la section ; aucun repère additionnel dans la base
+[COFFRE] [ ] #403 — Crescent Sabre — Flatlands / Atlasdam Flats — Bestower of Fame 2 — coffre bleu verrouillé
+[COFFRE] [ ] #404 — Magic Nut (M) — Flatlands / Atlasdam — Bestower of Fame 2 — auberge, étage 2
+[COFFRE] [ ] #405 — Traveling Music Score III — Flatlands / Atlasdam Palace Gate — Bestower of Fame 2 — point de collecte dans la bibliothèque
+[COFFRE] [ ] #406 — Resistant Nut (M) — Flatlands / Royal Academy of Atlasdam — Bestower of Fame 2 — emplacement de la section ; aucun repère additionnel dans la base
+[COFFRE] [ ] #407 — Mighty Belt — Flatlands / Atlasdam Palace — Bestower of Fame 2 — emplacement de la section ; aucun repère additionnel dans la base
+[COFFRE] [ ] #408 — 20000L — Flatlands / Atlasdam Palace — Bestower of Fame 2 — emplacement de la section ; aucun repère additionnel dans la base
+[COFFRE] [ ] #409 — Hand-Sewn Gloves — Flatlands / Atlasdam Palace — Bestower of Fame 2 — coffre bleu verrouillé
+[COFFRE] [ ] #410 — Nourishing Nut (M) — Flatlands / Atlasdam Palace — Bestower of Fame 2 — emplacement de la section ; aucun repère additionnel dans la base
+[COFFRE] [ ] #411 — Fur Coat — Flatlands / Royal Academy of Atlasdam — Bestower of Fame 2 — Yvon's Office
+[COFFRE] [ ] #412 — Illusionist's Staff — Frostlands / Valley of the Flame — Bestower of Fame 2 — emplacement de la section ; aucun repère additionnel dans la base
+[COFFRE] [ ] #413 — Ice Fog Mastery — Frostlands / Valley of the Flame — Bestower of Fame 2 — gardé par Menacing Cait (Snow)
+[COFFRE] [ ] #414 — Stimulating Bracelet — Frostlands / Valley of the Flame — Bestower of Fame 2 — emplacement de la section ; aucun repère additionnel dans la base
+[COFFRE] [ ] #415 — Tough Nut (L) — Frostlands / Valley of the Flame — Bestower of Fame 2 — emplacement de la section ; aucun repère additionnel dans la base
+[COFFRE] [ ] #416 — Bottle of Sanguine Dust — Frostlands / Valley of the Flame — Bestower of Fame 2 — emplacement de la section ; aucun repère additionnel dans la base
+[COFFRE] [ ] #417 — Olive of Life (L) — Frostlands / Path to the Cave of Origin — Bestower of Fame 2 — emplacement de la section ; aucun repère additionnel dans la base
+[COFFRE] [ ] #418 — Ice Soulstone (L) — Frostlands / Path to the Cave of Origin — Bestower of Fame 2 — emplacement de la section ; aucun repère additionnel dans la base
+[COFFRE] [ ] #419 — Energizing Pomegranate (M) — Frostlands / Path to the Cave of Origin — Bestower of Fame 2 — emplacement de la section ; aucun repère additionnel dans la base
+[COFFRE] [ ] #420 — Invigorating Nut (M) — Frostlands / Cave of Origin — Bestower of Fame 2 — emplacement de la section ; aucun repère additionnel dans la base
+[COFFRE] [ ] #421 — Energizing Pomegranate — Frostlands / Cave of Origin — Bestower of Fame 2 — emplacement de la section ; aucun repère additionnel dans la base
+[COFFRE] [ ] #422 — Ruthless Assault Mastery — Frostlands / Cave of Origin — Bestower of Fame 2 — emplacement de la section ; aucun repère additionnel dans la base
+[COFFRE] [ ] #423 — Tower Shield — Frostlands / Cave of Origin — Bestower of Fame 2 — emplacement de la section ; aucun repère additionnel dans la base
+[COFFRE] [ ] #424 — Reaping Thrash Mastery — Frostlands / Cave of Origin — Bestower of Fame 2 — gardé par Mighty Ice Lizardman VI; coffre bleu verrouillé
+[COFFRE] [ ] #425 — Energizing Pomegranate (L) — Woodlands / Herminia's Former Manse — Bestower of Wealth 3 — emplacement de la section ; aucun repère additionnel dans la base
+[COFFRE] [ ] #426 — Arcane Healing Mastery — Woodlands / Herminia's Former Manse — Bestower of Wealth 3 — gardé par Menacing Master Thief III; coffre bleu verrouillé
+[COFFRE] [ ] #427 — Enlightening Bracelet — Sunlands / Eternal Quicksand — Bestower of Wealth 3 — emplacement de la section ; aucun repère additionnel dans la base
+[COFFRE] [ ] #428 — Slippery Nut (L) — Sunlands / Eternal Quicksand — Bestower of Wealth 3 — emplacement de la section ; aucun repère additionnel dans la base
+[COFFRE] [ ] #429 — Wind Soulstone (L) — Sunlands / Eternal Quicksand — Bestower of Wealth 3 — emplacement de la section ; aucun repère additionnel dans la base
+[COFFRE] [ ] #430 — 20000L — Sunlands / Golden Palace: Upper Floor — Bestower of Wealth 3 — point de collecte près de la porte
+[COFFRE] [ ] #431 — 30000L — Sunlands / Golden Palace: Upper Floor — Bestower of Wealth 3 — point de collecte près de la porte
+[COFFRE] [ ] #432 — Shadow Soulstone (L) — Sunlands / Golden Palace: Upper Floor — Bestower of Wealth 3 — emplacement de la section ; aucun repère additionnel dans la base
+[COFFRE] [ ] #433 — Doombreaker — Sunlands / Golden Palace: Upper Floor — Bestower of Wealth 3 — gardé par Menacing Ivory Revenant
+[COFFRE] [ ] #434 — Energizing Pomegranate (M) — Sunlands / Golden Palace: Upper Floor — Bestower of Wealth 3 — emplacement de la section ; aucun repère additionnel dans la base
+[COFFRE] [ ] #435 — Empowering Bracelet — Sunlands / Golden Palace: Upper Floor — Bestower of Wealth 3 — emplacement de la section ; aucun repère additionnel dans la base
+[COFFRE] [ ] #436 — 50000L — Sunlands / Golden Palace: Upper Floor — Bestower of Wealth 3 — point de collecte sur le chemin nord-est
+[COFFRE] [ ] #437 — Gold Nugget — Sunlands / Golden Palace: Middle Floor — Bestower of Wealth 3 — emplacement de la section ; aucun repère additionnel dans la base
+[COFFRE] [ ] #438 — Commemorative Coin — Sunlands / Golden Palace: Middle Floor — Bestower of Wealth 3 — emplacement de la section ; aucun repère additionnel dans la base
+[COFFRE] [ ] #439 — Nourishing Nut (L) — Sunlands / Golden Palace: Middle Floor — Bestower of Wealth 3 — emplacement de la section ; aucun repère additionnel dans la base
+[COFFRE] [ ] #440 — Enchanted Circlet — Sunlands / Golden Palace: Middle Floor — Bestower of Wealth 3 — gardé par un combat événementiel
+[COFFRE] [ ] #441 — Thunder Soulstone (L) — Sunlands / Golden Palace: Lower Floor — Bestower of Wealth 3 — emplacement de la section ; aucun repère additionnel dans la base
+[COFFRE] [ ] #442 — Magus Glaive — Sunlands / Golden Palace: Lower Floor — Bestower of Wealth 3 — gardé par un combat événementiel
+[COFFRE] [ ] #443 — Elemental Heavy Armor — Sunlands / Golden Palace: Lower Floor — Bestower of Wealth 3 — gardé par Menacing Gold Revenant
+[COFFRE] [ ] #444 — Light Nut (L) — Sunlands / Golden Palace: Lower Floor — Bestower of Wealth 3 — emplacement de la section ; aucun repère additionnel dans la base
+[COFFRE] [ ] #445 — Letter Fragment — Sunlands / Golden Palace: Lower Floor — Bestower of Wealth 3 — point de collecte dans le passage sud-est — uniquement si l'objet n'a pas été choisi au départ
+[COFFRE] [ ] #446 — Celebration of the Arts Mastery — Sunlands / Golden Palace: Lower Floor — Bestower of Wealth 3 — coffre bleu verrouillé
+[COFFRE] [ ] #447 — SP Cleansing Stone — Sunlands / Golden Palace: Lower Floor — Bestower of Wealth 3 — gardé par un combat événementiel
+[COFFRE] [ ] #448 — Rejuvenating Jam — Sunlands / Golden Palace: Lower Floor — Bestower of Wealth 3 — gardé par un combat événementiel
+[COFFRE] [ ] #449 — Azure Flamestone — Sunlands / Silver Spring — Bestower of Wealth 3 — point de collecte à gauche
+[COFFRE] [ ] #450 — 7000L — Sunlands / Silver Spring — Bestower of Wealth 3 — point de collecte à droite
+[COFFRE] [ ] #451 — 6000L — Sunlands / Silver Spring — Bestower of Wealth 3 — point de collecte tout à droite
+[COFFRE] [ ] #452 — 30000L — Sunlands / Silver Spring — Bestower of Wealth 3 — point de collecte derrière le boss
+[COFFRE] [ ] #453 — Repeated Bash Mastery — Coastlands / Isle of Sages — Visiting Isle of Sages — emplacement de la section ; aucun repère additionnel dans la base
+[COFFRE] [ ] #454 — Angel Sabre — Coastlands / Isle of Sages — Visiting Isle of Sages — coffre bleu verrouillé

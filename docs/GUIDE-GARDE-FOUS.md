@@ -522,6 +522,16 @@ une mise à jour qui change les succès ou le contenu, le guide repasse en
 - Toute ligne de trésor doit devenir un contrôle `[COFFRE]` distinct avec zone,
   sous-zone, section ou condition ; un compteur global sans emplacement est
   refusé, même si le nombre annoncé est correct.
+- Le validateur vérifie maintenant, lorsque le brouillon OT0 existe, les 454
+  entrées numérotées et les 37 cases Steam finales. Les rappels de route sont
+  conservés mais ne sont pas comptés comme des trésors supplémentaires.
+
+### Contrôle de précision — clés ornées OT0
+
+- La passe éditoriale exige huit clés nommées, sans placeholder : Dagger, Sword,
+  Axe, Tome, Fan, Spear, Staff et Bow.
+- La Bow Crest doit être raccordée à East Cyphlo Banks. Ce contrôle reste
+  distinct du compteur automatique 454/454 et ne rend pas le guide publiable.
 ## Lot scène d'entrée et archive monumentale - 13 août 2026
 
 - L'entrée présente une carte, une typographie géante et un lien direct avant
