@@ -478,6 +478,10 @@ for (const fragment of [
   'kind: "heading" | "subheading" | "step"',
   "const headingLevel = markdownHeading[1].length",
   "const visibleBlocks = blocks.filter",
+  "type GuideOutlineGroup =",
+  "const buildGuideOutlineGroups =",
+  'className="reader-outline-major"',
+  'className="reader-outline-details"',
   'className="guide-step"',
   "reader-outline-toggle",
   "reader-outline-card",
@@ -486,8 +490,14 @@ for (const fragment of [
     fail("app/GuideReader.tsx: refonte de lisibilité absente (" + fragment + ").");
   }
 }
+if (reader.includes("outline.map(")) {
+  fail("app/GuideReader.tsx: le sommaire est redevenu une liste plate.");
+}
 for (const fragment of [
   ".guide-step",
+  ".reader-outline-group",
+  ".reader-outline-major",
+  ".reader-outline-details",
   ".reader-outline-card:not(.is-open) .reader-outline",
   ".site-shell.is-reader-mode .reader-document {",
 ]) {

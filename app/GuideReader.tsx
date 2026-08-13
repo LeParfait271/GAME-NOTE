@@ -59,6 +59,14 @@ type GuideBlock = {
   markers?: GuideMarkerKind[];
 };
 
+type GuideOutlineGroup = {
+  id: string;
+  label: string;
+  anchor?: GuideBlock;
+  items: GuideBlock[];
+  synthetic?: boolean;
+};
+
 type GuideReaderProps = {
   selected: ReaderGuide;
   previousGuide?: ReaderGuide;
@@ -103,6 +111,11 @@ const isNamedHeading = (value: string) =>
   !/:/.test(value) &&
   /^(?:partie|chapitre|acte|épisode|episode|route|ordre|objectif|garde-fous|garde fous|missables|conditions|checklist|vérification|verification|nettoyage|préparation|preparation|prologue|épilogue|epilogue|campagne|post-game|post game|dlc|succès|succes|fin|sources)\b/i.test(
     value,
+  );
+
+const isMajorGuideHeading = (value: string) =>
+  /^(?:route chronologique|prologue|acte\s+\d|fin de l'acte|post-game|post game|verso's drafts|annexe|objectif 100 %|verification croisee|compteurs retenus|comment lire|objectifs de la partie|compteurs a garder|sauvegardes et alertes|precautions importantes|regles de combat|route de nettoyage|lumiere, fin|choix de fin|checklist finale|nettoyage final|the journey for the dawn)\b/i.test(
+    normalizeGuideText(value).replace(/^\[[^\]]+\]\s*/, ""),
   );
 
 const uniqueGuideMarkers = (markers: GuideMarkerKind[]) =>
@@ -344,7 +357,11 @@ const parseGuide = (text: string, markersEnabled: boolean): GuideBlock[] => {
       ) {
         finalChecklistMode = false;
       }
-      const kind = numberedHeading && !numberedSection ? "step" : "heading";
+      const kind = numberedHeading && !numberedSection
+        ? "step"
+        : numberedSection || isMajorGuideHeading(line)
+          ? "heading"
+          : "subheading";
       const value = numberedHeading
         ? `${line.match(/^\d+(?:\.\d+)*[.)]/)?.[0] ?? ""} ${headingText}`
         : line;
@@ -354,12 +371,10 @@ const parseGuide = (text: string, markersEnabled: boolean): GuideBlock[] => {
         lineMarkers,
         undefined,
         undefined,
-        kind === "heading" ? 2 : undefined,
+        kind === "step" ? undefined : blocks.length < 2 ? 1 : kind === "heading" ? 2 : 3,
       );
-      if (kind === "heading") {
-        sectionMarker = markersEnabled && GUIDE_COLLECTIBLE_HEADING.test(normalizeGuideText(line))
-          ? "chest"
-          : undefined;
+      if (kind === "heading" || kind === "subheading") {
+        sectionMarker = markersEnabled && collectibleHeading ? "chest" : undefined;
       }
       lastStructuredKind = undefined;
       continue;
@@ -462,6 +477,62 @@ const splitGuideStep = (value: string) => {
     : { number: "→", text: value };
 };
 
+const getGuideOutlineGroupLabel = (value: string) => {
+  const clean = formatText(value).replace(/^\[[^\]]+\]\s*/, "").trim();
+  const dashPrefix = clean.match(/^(.{3,42}?)\s+(?:-|\u2013|\u2014)\s+/u)?.[1]?.trim();
+  if (dashPrefix) return dashPrefix;
+  const colonPrefix = clean.match(/^(.{3,42}?):\s+/)?.[1]?.trim();
+  if (colonPrefix) return colonPrefix;
+  return clean.length > 42 ? `${clean.slice(0, 39).trimEnd()}\u2026` : clean;
+};
+
+const buildGuideOutlineGroups = (blocks: GuideBlock[]) => {
+  const headings = blocks.filter(
+    (block) =>
+      (block.kind === "heading" || block.kind === "subheading") &&
+      (block.headingLevel ?? (block.kind === "heading" ? 2 : 3)) > 1,
+  );
+  const groups: GuideOutlineGroup[] = [];
+  let currentGroup: GuideOutlineGroup | undefined;
+
+  for (const block of headings) {
+    if (block.kind === "heading") {
+      currentGroup = {
+        id: block.id,
+        label: block.text,
+        anchor: block,
+        items: [],
+      };
+      groups.push(currentGroup);
+      continue;
+    }
+
+    if (currentGroup) {
+      currentGroup.items.push(block);
+      continue;
+    }
+
+    const label = getGuideOutlineGroupLabel(block.text);
+    let syntheticGroup = groups.find(
+      (group) => group.synthetic && group.label === label,
+    );
+    if (!syntheticGroup) {
+      syntheticGroup = {
+        id: `outline-${normalizeGuideText(label)
+          .replace(/[^a-z0-9]+/g, "-")
+          .replace(/^-|-$/g, "")}`,
+        label,
+        items: [],
+        synthetic: true,
+      };
+      groups.push(syntheticGroup);
+    }
+    syntheticGroup.items.push(block);
+  }
+
+  return groups;
+};
+
 export default function GuideReader({
   selected,
   previousGuide,
@@ -482,6 +553,7 @@ export default function GuideReader({
   const [savedReadingProgress, setSavedReadingProgress] = useState(0);
   const [activeSearchResult, setActiveSearchResult] = useState(0);
   const [outlineOpen, setOutlineOpen] = useState(false);
+  const [outlineGroupsOpen, setOutlineGroupsOpen] = useState<Record<string, boolean>>({});
   const resultRefs = useRef<Array<HTMLElement | null>>([]);
 
   /* eslint-disable react-hooks/set-state-in-effect */
@@ -490,6 +562,7 @@ export default function GuideReader({
     const savedProgress = readReadingProgress(selected.file);
     setReadingProgress(savedProgress);
     setSavedReadingProgress(savedProgress);
+    setOutlineGroupsOpen({});
   }, [selected.file]);
 
   useEffect(() => {
@@ -607,12 +680,10 @@ export default function GuideReader({
       .filter((index) => index >= 0),
     [query, visibleBlocks],
   );
-  const outline = useMemo(
-    () =>
-      blocks.filter(
-        (block) => block.kind === "heading" || block.kind === "subheading",
-      ),
-    [blocks],
+  const outlineGroups = useMemo(() => buildGuideOutlineGroups(blocks), [blocks]);
+  const outlineEntryCount = useMemo(
+    () => outlineGroups.reduce((count, group) => count + (group.anchor ? 1 : 0) + group.items.length, 0),
+    [outlineGroups],
   );
   const markerKinds = useMemo(
     () => uniqueGuideMarkers(blocks.flatMap((block) => block.markers ?? [])),
@@ -621,7 +692,7 @@ export default function GuideReader({
   const completed = checklist.filter(
     (block) => block.checkIndex !== undefined && checked[block.checkIndex],
   ).length;
-  const majorSectionCount = outline.filter((block) => block.kind === "heading").length;
+  const majorSectionCount = outlineGroups.length;
   const toggleCheck = (index: number) => {
     setChecked((current) => {
       const next = { ...current, [index]: !current[index] };
@@ -842,20 +913,59 @@ export default function GuideReader({
                 onClick={() => setOutlineOpen((current) => !current)}
               >
                 <span>SOMMAIRE</span>
-                <span>{outline.length} sections</span>
+                <span>{outlineGroups.length} sections · {outlineEntryCount} repères</span>
                 <strong aria-hidden="true">{outlineOpen ? "−" : "+"}</strong>
               </button>
               <nav className="reader-outline">
-                {outline.length > 0 ? (
-                  outline.map((block) => (
-                    <a
-                      className={block.kind === "subheading" ? "is-subheading" : ""}
-                      href={`#${block.id}`}
-                      key={block.id}
+                {outlineGroups.length > 0 ? (
+                  outlineGroups.map((group, groupIndex) => (
+                    <section
+                      className={`reader-outline-group${group.synthetic ? " is-generated" : ""}`}
+                      key={group.id}
                     >
-                      <GuideMarkerRow markers={block.markers} />
-                      {formatText(block.text)}
-                    </a>
+                      {group.anchor ? (
+                        <a className="reader-outline-major" href={`#${group.anchor.id}`}>
+                          <span className="reader-outline-major-index" aria-hidden="true">
+                            {String(groupIndex + 1).padStart(2, "0")}
+                          </span>
+                          <span className="reader-outline-major-copy">
+                            <GuideMarkerRow markers={group.anchor.markers} />
+                            <span>{formatText(group.anchor.text)}</span>
+                          </span>
+                        </a>
+                      ) : (
+                        <div className="reader-outline-group-heading">
+                          <GuideMarkerRow markers={group.items[0]?.markers} />
+                          <span>{formatText(group.label)}</span>
+                          <span className="reader-outline-group-count">{group.items.length} zones</span>
+                        </div>
+                      )}
+                      {group.items.length > 0 ? (
+                        <details
+                          className="reader-outline-details"
+                          open={outlineGroupsOpen[group.id] ?? (groupIndex === 0 || group.items.length <= 4)}
+                          onToggle={(event) => {
+                            setOutlineGroupsOpen((current) => ({
+                              ...current,
+                              [group.id]: event.currentTarget.open,
+                            }));
+                          }}
+                        >
+                          <summary>
+                            <span>{group.synthetic ? "Voir les zones" : "Sous-sections"}</span>
+                            <span>{group.items.length}</span>
+                          </summary>
+                          <div className="reader-outline-items">
+                            {group.items.map((item) => (
+                              <a className="reader-outline-item" href={`#${item.id}`} key={item.id}>
+                                <GuideMarkerRow markers={item.markers} />
+                                <span>{formatText(item.text)}</span>
+                              </a>
+                            ))}
+                          </div>
+                        </details>
+                      ) : null}
+                    </section>
                   ))
                 ) : (
                   <span className="reader-outline-empty">Le sommaire sera enrichi avec la prochaine révision.</span>

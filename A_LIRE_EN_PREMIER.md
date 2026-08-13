@@ -317,3 +317,12 @@ transformée en validation automatique quand c'est possible.
   est masque dans l'interface ; aucune ligne du TXT source n'est supprimee.
 - Le validateur strict bloque tout guide visible qui introduit un titre Markdown
   sans contenu exploitable. Ce controle est obligatoire avant le commit final.
+
+### Sommaire hierarchique - 14 aout 2026
+
+- Le sommaire ne doit plus afficher une liste plate de titres : les sections
+  principales restent visibles et leurs sous-sections sont repliees.
+- Les guides sans chapitres explicites doivent etre regroupes par famille
+  lisible, par exemple par region pour les zones d'Octopath Traveler II.
+- Les etapes, coffres et objectifs restent dans le corps du guide ; le sommaire
+  ne doit pas les supprimer ni les transformer en faux chapitres.

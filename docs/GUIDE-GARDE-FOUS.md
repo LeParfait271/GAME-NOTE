@@ -711,3 +711,13 @@ une mise à jour qui change les succès ou le contenu, le guide repasse en
   (paragraphe, puce, case, ou etape). Le contenu source reste inchange.
 - Le validateur strict examine chaque TXT visible et signale le fichier ainsi
   que les premiers titres vides ; ce controle bloque la publication.
+
+## Sommaire hierarchique - 14 aout 2026
+
+- Le garde-fou exige la presence du modele `GuideOutlineGroup` et interdit le
+  retour a un `outline.map` plat.
+- Chaque fiche visible doit conserver une navigation a deux niveaux : groupe
+  principal puis sous-sections repliables ; les guides sans sections majeures
+  utilisent un regroupement stable par prefixe de zone.
+- Le controle couvre le desktop, le mobile, le clavier, le build, le preflight,
+  le lint et les smoke tests avant le commit local.

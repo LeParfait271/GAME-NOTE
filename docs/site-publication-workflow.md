@@ -217,3 +217,12 @@ traité comme une récompense d'action et non comme un coffre supplémentaire.
   apparaitre dans le sommaire ; le TXT reste la source intacte.
 - Le strict guardrail des guides visibles est lance avec le build, le preflight,
   l'audit qualite et les smoke tests avant l'unique commit de cloture.
+
+## Sommaire hierarchique - 14 aout 2026
+
+- Une refonte du lecteur doit verifier la hierarchie reelle de chaque guide
+  visible : sections, sous-sections, zones et etapes ne sont pas interchangeables.
+- Les groupes longs sont repliables, leurs compteurs restent lisibles et chaque
+  entree conserve une ancre vers le contenu exact.
+- Le lot se ferme par validation du catalogue, build, preflight, audit qualite,
+  lint et smoke tests, puis un unique commit local ; aucun push automatique.

@@ -531,3 +531,12 @@ comme OT0, restent hors publication jusqu'à leur validation éditoriale.
   toucher au TXT, aux coffres, aux succes ou aux etapes.
 - Le garde-fou strict inspecte les guides visibles et refuse tout titre Markdown
   vide avant le build et le commit unique.
+
+### Sommaire hierarchique - 14 aout 2026
+
+- Le lecteur construit maintenant des groupes de navigation au lieu d'exposer
+  toutes les sous-sections au meme niveau.
+- Les grandes sections sont ancrees, les details sont accessibles dans des
+  panneaux repliables, et les longues fiches restent parcourables au clavier.
+- OT2 est regroupe par region et les titres de combat d'Expedition 33 restent
+  des sous-sections ; aucun TXT source n'est rearrange ou ampute.
