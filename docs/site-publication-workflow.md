@@ -186,3 +186,12 @@ traité comme une récompense d'action et non comme un coffre supplémentaire.
   build, preflight strict, audit qualité, smoke tests, verification du diff,
   puis un unique commit local. La publication suit ce même commit ; aucun push
   n'est déduit de la reconstruction.
+
+## Correctif retour bibliothèque - 13 août 2026
+
+- Le dernier guide ouvert reste le point de reprise visuel, mais l'index du hero
+  est toujours construit depuis les guides publiés.
+- Une mémoire locale contenant une seule fiche ne doit jamais réduire l'accueil
+  à une seule soluce ; le retour doit laisser toutes les cartes et la recherche
+  disponibles.
+- Le smoke test vérifie la séparation entre `heroGuides` et l'historique local.

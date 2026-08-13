@@ -46,6 +46,7 @@ test("le shell statique conserve les repères accessibles", () => {
   assert.match(pageSource, /className="catalog-index"/);
   assert.match(pageSource, /searchParams\.set\("letter", catalogLetter\)/);
   assert.match(pageSource, /const effectiveCatalogLimit = catalogLimit/);
+  assert.match(pageSource, /const heroGuides = siteGuides;/);
   assert.match(pageSource, /disabled={!availableCatalogLetters\.has\(letter\)}/);
   assert.match(pageSource, /steam\/apps\/\$\{appId\}\/header\.jpg/);
   assert.match(pageSource, /dataset\.fallbackApplied/);

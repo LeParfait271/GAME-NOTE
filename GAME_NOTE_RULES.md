@@ -448,6 +448,8 @@ comme OT0, restent hors publication jusqu'à leur validation éditoriale.
   les messages hors ligne et les erreurs de route restent des statuts utiles.
 - Le hero peut afficher le dernier guide réellement ouvert en rouge et un
   historique local de cinq guides maximum en jaune, dans l'ordre d'utilisation.
+- L'index du hero doit conserver toutes les routes publiées ; l'historique local
+  sert au point de reprise et ne peut pas réduire la bibliothèque à une seule fiche.
 - Le bouton de reprise et une entrée de l'historique doivent ouvrir la même
   fiche que la bibliothèque, sans créer une navigation parallèle.
 - Le contrôle couvre l'entrée, le hero, la bibliothèque, le lecteur, le clavier,

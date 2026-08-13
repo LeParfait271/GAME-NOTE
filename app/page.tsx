@@ -3074,7 +3074,9 @@ export default function Home() {
     .filter((guide): guide is Guide => Boolean(guide));
   const hasGuideHistory = recentGuides.length > 0;
   const heroActive = recentGuides[0] ?? siteGuides[0];
-  const heroGuides = (hasGuideHistory ? recentGuides : siteGuides).slice(0, GUIDE_HISTORY_LIMIT);
+  // L'historique indique le point de reprise, mais ne doit jamais masquer les
+  // autres routes publiées quand on revient au catalogue.
+  const heroGuides = siteGuides;
   const handleHeroPointerMove = (event: PointerEvent<HTMLElement>) => {
     if (event.pointerType === "touch") return;
 
@@ -3557,8 +3559,8 @@ export default function Home() {
             </p>
           </article>
 
-          <div className={"hero-index" + (hasGuideHistory ? " hero-index-history" : "")}>
-            <div className="hero-index-heading"><span>{hasGuideHistory ? "HISTORIQUE LOCAL" : "INDEX / ROUTES"}</span><span>{String(heroGuides.length).padStart(2, "0")} / {hasGuideHistory ? String(GUIDE_HISTORY_LIMIT).padStart(2, "0") : String(siteGuides.length).padStart(2, "0")}</span></div>
+          <div className="hero-index">
+            <div className="hero-index-heading"><span>INDEX / ROUTES</span><span>{String(heroGuides.length).padStart(2, "0")} / {String(siteGuides.length).padStart(2, "0")}</span></div>
             <ol>
               {heroGuides.map((guide, index) => (
                 <li key={guide.id}>
