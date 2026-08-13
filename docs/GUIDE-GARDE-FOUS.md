@@ -562,3 +562,14 @@ une mise à jour qui change les succès ou le contenu, le guide repasse en
   l'introduction ou l'action principale.
 - Le contrôle couvre la capture desktop, le mobile, le clavier, le mouvement
   réduit et l'absence de débordement avant les tests de livraison.
+
+## Audit visuel bibliothèque et contraste hero - 13 août 2026
+
+- La bibliothèque active ne laisse plus une troisième colonne vide lorsque deux
+  fiches seulement sont visibles ; les cartes occupent deux colonnes équilibrées.
+- Le panneau éditorial du hero est élargi et la carte centrale reste le point
+  focal avec une image légèrement plus lisible.
+- Le contrôle couvre entrée, hero, bibliothèque, pied de page, mouvement réduit,
+  débordement horizontal et validations de livraison.
+- Ce lot ne modifie aucun contenu de guide, compteur Steam ou comportement du
+  lecteur.

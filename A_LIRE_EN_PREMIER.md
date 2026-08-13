@@ -152,6 +152,10 @@ transformée en validation automatique quand c'est possible.
 37. Sur desktop, le hero conserve une seule action primaire : l'index réel porte
     la sélection des routes et les actions secondaires ne doivent pas recréer
     une deuxième colonne concurrente.
+38. La bibliothèque doit adapter sa grille au nombre de fiches visibles : deux
+    fiches actives occupent deux colonnes équilibrées, tandis qu'une recherche
+    longue conserve la grille catalogue prévue. Aucun état ne doit laisser une
+    colonne vide qui rapetisse inutilement les cartes.
 
 ### Lot de recherche OCTOPATH TRAVELER 0 — 13 août 2026
 

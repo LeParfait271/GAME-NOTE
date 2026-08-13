@@ -354,6 +354,17 @@ contrôle de la fiche concernée.
 - Le contrôle attendu couvre les collisions à 1280 px, le mobile, le clavier,
   le mouvement réduit et les validations de livraison.
 
+## Audit visuel bibliothèque et contraste hero - 13 août 2026
+
+- Bibliothèque : lorsque deux fiches ou moins sont visibles, la grille passe en
+  deux colonnes équilibrées afin d'éviter une troisième colonne vide.
+- Hero : le panneau éditorial gagne de la largeur et l'image centrale reçoit un
+  contraste légèrement plus lumineux, sans changer le contenu ni les compteurs.
+- Contrôle attendu : vérifier l'entrée, le hero, la bibliothèque, le pied de
+  page, le mode mouvement réduit, puis lint, build, preflight et smoke.
+- Limite : aucun guide, texte éditorial, compteur Steam ou comportement lecteur
+  n'est modifié.
+
 ### Recherche OCTOPATH TRAVELER 0 — 13 août 2026
 
 - Une entrée `research` de `docs/guide-rebuild-queue.json` doit pointer vers sa

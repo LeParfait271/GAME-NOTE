@@ -3627,7 +3627,7 @@ export default function Home() {
         </div>
 
         {visibleGuides.length > 0 ? (
-          <div className="guide-grid">
+          <div className={"guide-grid" + (displayedGuides.length <= 2 ? " guide-grid-compact" : "")}>
             {displayedGuides.map((guide) => {
               const catalogPosition = visibleGuides.findIndex((item) => item.id === guide.id) + 1;
               return (

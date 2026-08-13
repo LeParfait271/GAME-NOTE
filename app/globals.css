@@ -5005,7 +5005,7 @@ button.reader-neighbor:focus-visible {
 
   .portfolio-hero-copy {
     top: 26%;
-    width: min(20vw, 255px);
+    width: min(24vw, 300px);
   }
 
   .portfolio-hero-copy h1 {
@@ -5050,6 +5050,10 @@ button.reader-neighbor:focus-visible {
     transform: perspective(900px) rotateX(var(--tilt-y)) rotateY(var(--tilt-x)) rotate(1deg);
   }
 
+  .hero-focus-art {
+    filter: saturate(0.82) contrast(1.08) brightness(0.78);
+  }
+
   .hero-focus-frame:hover,
   .hero-focus:focus-within .hero-focus-frame {
     box-shadow: 7px 9px 0 rgba(239, 108, 83, 0.48), 0 30px 82px rgba(0, 0, 0, 0.44);
@@ -5064,6 +5068,12 @@ button.reader-neighbor:focus-visible {
 
   .hero-index {
     top: 72%;
-    width: min(20vw, 255px);
+    width: min(24vw, 300px);
+  }
+}
+
+@media screen and (min-width: 961px) {
+  .guide-grid-compact {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
   }
 }
