@@ -470,3 +470,10 @@ contrôle de la fiche concernée.
   sont recoupés par une source de zone ou une route indépendante.
 - Le validateur protège les identifiants enrichis contre le retour au libellé
   générique « aucun repère additionnel ».
+
+### Deuxième boucle de précision des coffres OT0 — 13 août 2026
+
+- Les repères de progression peuvent décrire un étage, une pièce, une maison,
+  une pente, un escalier ou un élite ; le vocabulaire suit la source recoupée.
+- Une direction ajoutée ne transforme jamais une zone partiellement documentée
+  en zone contrôlée écran par écran.

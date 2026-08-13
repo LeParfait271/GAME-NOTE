@@ -645,3 +645,10 @@ une mise à jour qui change les succès ou le contenu, le guide repasse en
   d'un repère de progression plus précis que la simple sous-zone.
 - Chaque repère est séparé de la preuve de complétude : une direction sourcée
   facilite le parcours, sans valider les autres coffres de la zone.
+
+### Passe de contrôle 11 — deuxième boucle de repères OT0
+
+- Le registre conserve son compteur 454 ; les lignes enrichies restent des
+  aides de navigation et non des validations automatiques de carte.
+- Les nouveaux repères sont protégés contre un retour silencieux au texte
+  générique et les élites gardent leur propre contrôle tactique.

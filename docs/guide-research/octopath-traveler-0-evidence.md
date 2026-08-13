@@ -319,3 +319,25 @@ fonction précise.
 - Limite conservée : les autres lignes qui disent encore « aucun repère
   additionnel » restent volontairement non enrichies tant qu'une direction ou
   une capture de carte n'a pas été recoupée. OT0 reste archivé et invisible.
+
+## Passe de contrôle 11 — deuxième boucle de repères de trésors
+
+- La matrice passe à 52 lignes enrichies : Snowbloom/Subterranean Snow Ruins,
+  Knights Ardante Garrison, Emberglow Slopes, Auguste's Villa et les premières
+  salles de Ceremonial Square/Cathedral of Tytos rejoignent la première boucle.
+- Les fiches indiquent maintenant, selon le cas, un côté de carte, un étage, une
+  pièce, une maison, une pente, un escalier ou l'élite qui garde le coffre. Les
+  lignes #070 et #071 distinguent bien le coffre libre du coffre gardé par
+  Menacing Accursed Armor ; même règle pour #083 et Menacing Guard Dog.
+- Les repères #081 et #082 suivent l'ordre de la route de quête d'Auguste
+  (chemin gauche puis chemin droit devant la villa) ; cette précision est
+  conservée comme repère de progression, pas comme un nouveau comptage.
+- Sources de zone et de route recoupées pour cette passe :
+  - https://game8.co/games/Octopath-Traveler-0/archives/571027
+  - https://game8.co/games/Octopath-Traveler-0/archives/571028
+  - https://game8.co/games/Octopath-Traveler-0/archives/570985
+  - https://game8.co/games/Octopath-Traveler-0/archives/569506
+  - https://game8.co/games/Octopath-Traveler-0/archives/568873
+- Limite conservée : #076, #099, #103 et les autres lignes encore génériques
+  restent explicitement à recouper. Le compteur 454/454 ne vaut pas preuve
+  d'une relecture écran par écran.

@@ -1909,27 +1909,27 @@ numérotées #001 à #454 comptent dans ce registre et évitent un double compta
 [COFFRE] [ ] #066 — Invigorating Nut — Frostlands / Snowbloom Ruins — Master of Wealth 2 — emplacement de la section ; aucun repère additionnel dans la base
 [COFFRE] [ ] #067 — Ice Soulstone — Frostlands / Snowbloom Ruins — Master of Wealth 2 — emplacement de la section ; aucun repère additionnel dans la base
 [COFFRE] [ ] #068 — Round Shield — Frostlands / Snowbloom Ruins — Master of Wealth 2 — emplacement de la section ; aucun repère additionnel dans la base
-[COFFRE] [ ] #069 — 1100L — Frostlands / Subterranean Snow Ruins — Master of Wealth 2 — emplacement de la section ; aucun repère additionnel dans la base
-[COFFRE] [ ] #070 — Spear Sweep Mastery — Frostlands / Subterranean Snow Ruins — Master of Wealth 2 — gardé par Menacing Accursed Armor
-[COFFRE] [ ] #071 — Herb of Vigor — Frostlands / Subterranean Snow Ruins — Master of Wealth 2 — emplacement de la section ; aucun repère additionnel dans la base
-[COFFRE] [ ] #072 — Alchemy Tome — Flatlands / Knights Ardante Garrison — Master of Power 2 — gardé par Menacing Wind Elemental
-[COFFRE] [ ] #073 — War Axe — Flatlands / Knights Ardante Garrison — Master of Power 2 — emplacement de la section ; aucun repère additionnel dans la base
-[COFFRE] [ ] #074 — Fortifying Nut — Flatlands / Knights Ardante Garrison — Master of Power 2 — emplacement de la section ; aucun repère additionnel dans la base
-[COFFRE] [ ] #075 — Inspiriting Plum (M) — Flatlands / Knights Ardante Garrison — Master of Power 2 — emplacement de la section ; aucun repère additionnel dans la base
+[COFFRE] [ ] #069 — 1100L — Frostlands / Subterranean Snow Ruins — Master of Wealth 2 — depuis le monument de sauvegarde, va au nord de la zone puis prends l'est à l'embranchement
+[COFFRE] [ ] #070 — Spear Sweep Mastery — Frostlands / Subterranean Snow Ruins — Master of Wealth 2 — depuis l'entrée, va à l'ouest puis au nord et suis le chemin
+[COFFRE] [ ] #071 — Herb of Vigor — Frostlands / Subterranean Snow Ruins — Master of Wealth 2 — chemin nord-ouest, coffre gardé par Menacing Accursed Armor
+[COFFRE] [ ] #072 — Alchemy Tome — Flatlands / Knights Ardante Garrison — Master of Power 2 — extrémité nord-ouest, gardé par Menacing Wind Elemental
+[COFFRE] [ ] #073 — War Axe — Flatlands / Knights Ardante Garrison — Master of Power 2 — extrémité nord-est de la carte
+[COFFRE] [ ] #074 — Fortifying Nut — Flatlands / Knights Ardante Garrison — Master of Power 2 — extrémité nord-est, sous une petite pente
+[COFFRE] [ ] #075 — Inspiriting Plum (M) — Flatlands / Knights Ardante Garrison — Master of Power 2 — extrémité sud-est, sous une pente
 [COFFRE] [ ] #076 — Herb of Healing — Frostlands / Emberglow Slopes — Master of Power 2 — emplacement de la section ; aucun repère additionnel dans la base
-[COFFRE] [ ] #077 — Swirling Arc Mastery — Frostlands / Emberglow Slopes — Master of Power 2 — gardé par Menacing Frost Bear
-[COFFRE] [ ] #078 — Critical Nut — Frostlands / Emberglow Slopes — Master of Power 2 — emplacement de la section ; aucun repère additionnel dans la base
-[COFFRE] [ ] #079 — Light Staff — Woodlands / Auguste's Villa: Entrance — Master of Fame 2 — emplacement de la section ; aucun repère additionnel dans la base
-[COFFRE] [ ] #080 — Shadow Soulstone — Woodlands / Auguste's Villa: Entrance — Master of Fame 2 — emplacement de la section ; aucun repère additionnel dans la base
-[COFFRE] [ ] #081 — Olive of Life — Woodlands / Auguste's Villa: Entrance — Master of Fame 2 — emplacement de la section ; aucun repère additionnel dans la base
-[COFFRE] [ ] #082 — Healing Grape Bunch — Woodlands / Auguste's Villa: Entrance — Master of Fame 2 — emplacement de la section ; aucun repère additionnel dans la base
-[COFFRE] [ ] #083 — Invigorate and Inspire Mastery — Woodlands / Auguste's Villa — Master of Fame 2 — gardé par Menacing Guard Dog
-[COFFRE] [ ] #084 — Nourishing Nut — Woodlands / Auguste's Villa — Master of Fame 2 — emplacement de la section ; aucun repère additionnel dans la base
-[COFFRE] [ ] #085 — Round Shield — Woodlands / Auguste's Villa — Master of Fame 2 — emplacement de la section ; aucun repère additionnel dans la base
-[COFFRE] [ ] #086 — Bottle of Numbing Dust — Woodlands / Auguste's Villa — Master of Fame 2 — emplacement de la section ; aucun repère additionnel dans la base
+[COFFRE] [ ] #077 — Swirling Arc Mastery — Frostlands / Emberglow Slopes — Master of Power 2 — côté ouest de la carte depuis l'entrée d'Emberglow
+[COFFRE] [ ] #078 — Critical Nut — Frostlands / Emberglow Slopes — Master of Power 2 — extrémité nord-est, gardé par Menacing Frost Bear
+[COFFRE] [ ] #079 — Light Staff — Woodlands / Auguste's Villa: Entrance — Master of Fame 2 — petit chemin à droite de la première scène de l'entrée
+[COFFRE] [ ] #080 — Shadow Soulstone — Woodlands / Auguste's Villa: Entrance — Master of Fame 2 — côté droit, avant les escaliers vers la villa
+[COFFRE] [ ] #081 — Olive of Life — Woodlands / Auguste's Villa: Entrance — Master of Fame 2 — chemin de gauche juste devant la villa
+[COFFRE] [ ] #082 — Healing Grape Bunch — Woodlands / Auguste's Villa: Entrance — Master of Fame 2 — chemin de droite juste devant l'entrée de la villa
+[COFFRE] [ ] #083 — Invigorate and Inspire Mastery — Woodlands / Auguste's Villa — Master of Fame 2 — cuisine, gardé par Menacing Guard Dog
+[COFFRE] [ ] #084 — Nourishing Nut — Woodlands / Auguste's Villa — Master of Fame 2 — deuxième étage, pièce avec deux statues devant l'entrée
+[COFFRE] [ ] #085 — Round Shield — Woodlands / Auguste's Villa — Master of Fame 2 — première petite pièce de la section intérieure
+[COFFRE] [ ] #086 — Bottle of Numbing Dust — Woodlands / Auguste's Villa — Master of Fame 2 — pièce derrière l'emplacement de Francesca pendant la scène
 [COFFRE] [ ] #087 — Battle Music Score III — Woodlands / Auguste's Villa — Master of Fame 2 — point de collecte près du point de sauvegarde
 [COFFRE] [ ] #088 — Battle Music Score VIII — Woodlands / Auguste's Villa — Master of Fame 2 — point de collecte près du point de sauvegarde
-[COFFRE] [ ] #089 — Ancient Necklace — Woodlands / Auguste's Villa — Master of Fame 2 — emplacement de la section ; aucun repère additionnel dans la base
+[COFFRE] [ ] #089 — Ancient Necklace — Woodlands / Auguste's Villa — Master of Fame 2 — bibliothèque près du monument de sauvegarde, à côté de l'escalier
 [COFFRE] [ ] #090 — Inspiriting Plume Basket — Woodlands / Herminia's Manse — Master of Wealth 3 — emplacement de la section ; aucun repère additionnel dans la base
 [COFFRE] [ ] #091 — Iron Fan — Woodlands / Herminia's Manse — Master of Wealth 3 — gardé par Herminia's Mighty Soldier II
 [COFFRE] [ ] #092 — Inspiriting Plum Basket — Woodlands / Herminia's Manse: Cellars — Master of Wealth 3 — emplacement de la section ; aucun repère additionnel dans la base
@@ -1938,14 +1938,14 @@ numérotées #001 à #454 comptent dans ce registre et évitent un double compta
 [COFFRE] [ ] #095 — Magic Nut — Woodlands / Herminia's Manse: Cellars — Master of Wealth 3 — emplacement de la section ; aucun repère additionnel dans la base
 [COFFRE] [ ] #096 — 900L — Woodlands / Herminia's Manse: Cellars — Master of Wealth 3 — emplacement de la section ; aucun repère additionnel dans la base
 [COFFRE] [ ] #097 — "Master of Wealth" Music Score — Woodlands / Valore — Master of Wealth 3 — point de collecte dans la maison du Major
-[COFFRE] [ ] #098 — Feather Sabre — Frostlands / Ceremonial Square — Master of Power 3 — emplacement de la section ; aucun repère additionnel dans la base
+[COFFRE] [ ] #098 — Feather Sabre — Frostlands / Ceremonial Square — Master of Power 3 — maison à l'extrémité nord-ouest de la zone
 [COFFRE] [ ] #099 — 1000L — Frostlands / Ceremonial Square — Master of Power 3 — emplacement de la section ; aucun repère additionnel dans la base
-[COFFRE] [ ] #100 — Empowering Cuffs — Frostlands / Ceremonial Square — Master of Power 3 — emplacement de la section ; aucun repère additionnel dans la base
-[COFFRE] [ ] #101 — Fire Soulstone (M) — Frostlands / Ceremonial Square — Master of Power 3 — emplacement de la section ; aucun repère additionnel dans la base
-[COFFRE] [ ] #102 — Energizing Pomegranate (M) — Frostlands / Cathedral of Tytos — Master of Power 3 — emplacement de la section ; aucun repère additionnel dans la base
+[COFFRE] [ ] #100 — Empowering Cuffs — Frostlands / Ceremonial Square — Master of Power 3 — deuxième maison à l'est du monument de sauvegarde
+[COFFRE] [ ] #101 — Fire Soulstone (M) — Frostlands / Ceremonial Square — Master of Power 3 — maison à l'extrémité nord-est, troisième maison sur la gauche
+[COFFRE] [ ] #102 — Energizing Pomegranate (M) — Frostlands / Cathedral of Tytos — Master of Power 3 — maison à l'ouest du monument de sauvegarde, celle de droite
 [COFFRE] [ ] #103 — Traditional Dancer Garb — Frostlands / Cathedral of Tytos — Master of Power 3 — emplacement de la section ; aucun repère additionnel dans la base
-[COFFRE] [ ] #104 — Herb of Vitality — Frostlands / Cathedral of Tytos — Master of Power 3 — emplacement de la section ; aucun repère additionnel dans la base
-[COFFRE] [ ] #105 — Resilient Stance Mastery — Frostlands / Cathedral of Tytos — Master of Power 3 — emplacement de la section ; aucun repère additionnel dans la base
+[COFFRE] [ ] #104 — Herb of Vitality — Frostlands / Cathedral of Tytos — Master of Power 3 — salle à l'ouest au premier étage
+[COFFRE] [ ] #105 — Resilient Stance Mastery — Frostlands / Cathedral of Tytos — Master of Power 3 — pièce près de l'escalier au deuxième étage
 [COFFRE] [ ] #106 — Rinyuu's Stew Recipe — Frostlands / Emberglow: East District — Master of Power 3 — point de collecte dans la maison de Velnorte
 [COFFRE] [ ] #107 — Resistant Nut — Flatlands / Amphitheatre: Backstage — Master of Fame 3 — emplacement de la section ; aucun repère additionnel dans la base
 [COFFRE] [ ] #108 — Critical Cuffs — Flatlands / Amphitheatre: Backstage — Master of Fame 3 — gardé par Menacing Thespian (Ruffian)

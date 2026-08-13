@@ -135,3 +135,13 @@ traité comme une récompense d'action et non comme un coffre supplémentaire.
 - Cette amélioration ne rend pas OT0 publiable : les lignes restantes, les
   cartes, les élites et la relecture en jeu restent à auditer avant toute mise en
   visibilité.
+
+### Passe de contrôle 11 — deuxième boucle de repères OT0
+
+- Le registre compte maintenant 52 lignes enrichies par une direction, une salle,
+  un étage, un côté de carte ou un gardien sourcé.
+- Les nouveaux repères couvrent notamment Snowbloom/Subterranean Snow Ruins,
+  Knights Ardante Garrison, Emberglow Slopes, Auguste's Villa et le début de la
+  route de Tytos.
+- Le statut archive/invisible reste obligatoire : les lignes encore génériques
+  et la relecture réelle des zones ne sont pas remplacées par ces progrès.

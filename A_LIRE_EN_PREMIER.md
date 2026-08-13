@@ -258,3 +258,10 @@ transformée en validation automatique quand c'est possible.
   salle, de direction, d'étage ou de gardien lorsqu'il est confirmé par une
   source de zone.
 - Les lignes restantes sans repère confirmé restent explicitement à enrichir
+
+### Passe de contrôle 10 — deuxième boucle de repères OT0
+
+- Le registre doit distinguer un repère de progression sourcé d'une validation
+  complète de zone ; les deux ne partagent jamais le même statut.
+- Les nouveaux repères de salle, d'étage, de pente et de gardien sont protégés
+  par le validateur et restent exclus des compteurs 454/454.
