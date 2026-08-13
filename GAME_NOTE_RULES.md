@@ -491,3 +491,13 @@ contrôle de la fiche concernée.
   les placeholders et le retour de la mention `SANS SPOILER` sur cette fiche.
 - La version et les garde-fous suivent le commit final unique de la passe ; le
   travail reste local tant qu'aucune demande de push n'est faite.
+
+## Passe visuelle — cartes Steam resilientes
+
+- Les cartes actives utilisent la source Steam panoramique compatible `header.jpg`;
+  `header_2x.jpg` ne doit pas etre suppose disponible pour chaque jeu du catalogue.
+- Chaque image externe du catalogue et du lecteur possede un repli local vers
+  `public/images/cards/game-note-card-route.png`, avec un garde contre la boucle
+  d'erreur si le repli lui-meme echoue.
+- Le smoke test verifie la source compatible et la presence du repli avant le
+  commit d'un lot visuel.

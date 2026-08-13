@@ -672,3 +672,12 @@ une mise à jour qui change les succès ou le contenu, le guide repasse en
 - La passe se clôt par une validation globale et un seul commit local. Le bump
   de version, le workflow et les garde-fous sont inclus dans ce commit final,
   sans push automatique.
+
+## Passe visuelle — cartes Steam resilientes
+
+- Les cartes actives utilisent `header.jpg`, plus largement disponible que
+  `header_2x.jpg` pour les anciens jeux Steam.
+- Une erreur de chargement d'une image externe bascule une seule fois vers
+  `public/images/cards/game-note-card-route.png` dans la carte et le lecteur;
+  le second echec ne relance pas la boucle.
+- Le smoke test controle la source compatible et les replis avant le commit.

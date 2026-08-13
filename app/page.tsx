@@ -2953,7 +2953,7 @@ const SITE_VISIBLE_GUIDE_IDS = new Set(["expedition-33", "octopath"]);
 const siteGuides = guides.filter((guide) => SITE_VISIBLE_GUIDE_IDS.has(guide.id));
 
 const steamHeaderUrl = (appId: number) =>
-  `https://cdn.akamai.steamstatic.com/steam/apps/${appId}/header_2x.jpg`;
+  `https://cdn.akamai.steamstatic.com/steam/apps/${appId}/header.jpg`;
 
 const steamPortraitUrl = (appId: number) =>
   `https://cdn.akamai.steamstatic.com/steam/apps/${appId}/library_600x900_2x.jpg`;
@@ -3538,7 +3538,10 @@ export default function Home() {
                 width={600}
                 height={900}
                 onError={(event) => {
-                  event.currentTarget.src = "/images/cards/game-note-card-route.png";
+                  const image = event.currentTarget;
+                  if (image.dataset.fallbackApplied === "true") return;
+                  image.dataset.fallbackApplied = "true";
+                  image.src = "/images/cards/game-note-card-route.png";
                 }}
               />
               <span className="hero-focus-status">{hasGuideHistory ? "DERNIER GUIDE" : "POINT DE DÉPART"}</span>
@@ -3695,6 +3698,12 @@ export default function Home() {
                         height={430}
                         loading="lazy"
                         decoding="async"
+                        onError={(event) => {
+                          const image = event.currentTarget;
+                          if (image.dataset.fallbackApplied === "true") return;
+                          image.dataset.fallbackApplied = "true";
+                          image.src = "/images/cards/game-note-card-route.png";
+                        }}
                       />
                     </div>
                     <div className="card-copy">

@@ -278,3 +278,12 @@ transformée en validation automatique quand c'est possible.
   la passe.
 - Le lot se ferme par build, validation stricte, preflight, audit et smoke tests,
   puis un seul commit local final ; aucun push n'est implicite.
+
+### Passe visuelle — cartes Steam resilientes
+
+- Les cartes actives utilisent la source Steam panoramique compatible `header.jpg`;
+  `header_2x.jpg` ne doit pas etre suppose disponible pour chaque jeu du catalogue.
+- Chaque image externe du catalogue et du lecteur possede un repli local vers
+  `public/images/cards/game-note-card-route.png`, avec un garde contre la boucle
+  d'erreur si le repli lui-meme echoue.
+- Le smoke test doit conserver ces deux controles avant tout commit visuel.

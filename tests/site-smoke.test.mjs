@@ -47,6 +47,9 @@ test("le shell statique conserve les repères accessibles", () => {
   assert.match(pageSource, /searchParams\.set\("letter", catalogLetter\)/);
   assert.match(pageSource, /const effectiveCatalogLimit = catalogLimit/);
   assert.match(pageSource, /disabled={!availableCatalogLetters\.has\(letter\)}/);
+  assert.match(pageSource, /steam\/apps\/\$\{appId\}\/header\.jpg/);
+  assert.match(pageSource, /dataset\.fallbackApplied/);
+  assert.match(readerSource, /dataset\.fallbackApplied/);
   assert.match(readerSource, /className="reader-neighbors"/);
   assert.match(readerSource, /position A–Z/);
   assert.match(readerSource, /game-note-reading-/);
