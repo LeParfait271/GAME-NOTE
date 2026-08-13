@@ -188,8 +188,29 @@ transformée en validation automatique quand c'est possible.
 ### Passe de contrôle 3 — clés ornées OT0
 
 - Les huit clés ornées sont désormais toutes nommées et localisées dans le TXT ;
-  la Bow Crest est indiquée dans le coffre d'East Cyphlo Banks.
+  la Polearm/Spear Crest est sur l'île de l'Outersea Est et la Bow Crest dans
+  le coffre d'East Cyphlo Banks.
 - Aucun emplacement provisoire ou « huitième clé à compléter » ne doit rester
   dans une fiche déclarée exhaustive.
 - Cette passe corrige le registre sans rendre le guide visible ni le déclarer
   `reviewed`.
+
+### Passe de contrôle 4 — roster et récits OT0
+
+- Le TXT conserve 36 cases de personnages et 56 cases de récits secondaires ;
+  la route détaille désormais les recrutements qui étaient simplement nommés.
+- Les contrôles obligatoires incluent Tressa, H'aanit, Goodwin, Elrica, Carinda,
+  Tatloch, `The Monster Arena` et `Greatest Expectations`.
+- Le fichier reste une archive de travail : aucune carte, URL ou entrée de
+  publication ne doit être créée à cette étape.
+- Les cinq fragments de lettre doivent rester séparés du compteur 454 : le
+  fragment d'Atlasdam est une récompense d'Entreat auprès du Cat of Graceful
+  Bearing, pas une ligne de coffre.
+
+### Passe de contrôle 5 — interface personnelle
+
+- L'accueil ne doit pas afficher de badge promotionnel, de bouton d'installation
+  flottant ou de bandeau de slogans ; les fonctions utiles restent accessibles
+  par la navigation normale et le menu du navigateur.
+- Les statuts hors ligne, erreurs de route et marqueurs de contenu restent
+  autorisés lorsqu'ils décrivent réellement l'état ou la fiche consultée.

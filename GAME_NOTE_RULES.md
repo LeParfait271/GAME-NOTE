@@ -400,7 +400,26 @@ contrôle de la fiche concernée.
 ### Contrôle de précision des clés OT0 — 13 août 2026
 
 - Le bloc des clés ornées doit citer les huit types : Dagger, Sword, Axe, Tome,
-  Fan, Spear, Staff et Bow.
+  Fan, Polearm/Spear, Staff et Bow.
 - Une formule générique comme « huitième clé à compléter » est interdite dans
   un brouillon présenté comme complet ; l'emplacement de la Bow Crest doit être
   East Cyphlo Banks.
+
+### Contrôle roster et side stories OT0 — 13 août 2026
+
+- Un brouillon OT0 doit compter exactement 36 personnages et 56 récits
+  secondaires ; un simple total global sans noms contrôlables est insuffisant.
+- Les entrées `An Encounter with H'aanit`, `The Monster Arena` et `Greatest
+  Expectations` sont obligatoires dans le registre secondaire.
+- Les cinq Letter Fragments doivent être contrôlables par lieu ; une récompense
+  d'action à Atlasdam ne doit pas être inventée comme un coffre numéroté.
+
+### Audit interface personnelle — 13 août 2026
+
+- L'accueil ne présente pas de badges « nouveau », « fondateur » ou équivalent,
+  de bandeau animé de slogans, ni de bouton PWA flottant qui ressemble à une
+  publicité.
+- Le service worker reste actif et met à jour l'application automatiquement ;
+  les messages hors ligne et les erreurs de route restent des statuts utiles.
+- Le contrôle couvre l'entrée, le hero, la bibliothèque, le lecteur, le clavier,
+  le mobile, puis lint, build, preflight et smoke.

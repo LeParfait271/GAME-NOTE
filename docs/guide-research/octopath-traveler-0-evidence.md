@@ -194,9 +194,22 @@ fonction précise.
 ## Passe de contrôle 3 — clés ornées corrigées
 
 - La liste des huit clés ornées est maintenant explicite : Dagger, Sword, Axe,
-  Tome, Fan, Spear, Staff et Bow.
+  Tome, Fan, Polearm (Spear Crest), Staff et Bow.
 - La Bow Crest est replacée dans le coffre d'East Cyphlo Banks ; la ligne
   « huitième clé à compléter » a été supprimée pour ne pas laisser de faux
   emplacement dans une soluce présentée comme exhaustive.
 - Le registre reste archivé et invisible. Cette correction de contenu ne vaut
   pas encore validation `reviewed` de toute la route ni publication.
+
+## Passe de contrôle 4 — roster et quêtes secondaires
+
+- Le registre du TXT recense maintenant les 36 personnages dans un ordre de
+  recrutement jouable, avec Tressa, H'aanit, Ophilia, Alfyn, Goodwin, Elrica,
+  Carinda et Tatloch replacés sur leurs vrais arcs.
+- La checklist secondaire contient 56 entrées, dont `An Encounter with H'aanit`,
+  `The Monster Arena` et `Greatest Expectations`, qui manquaient au brouillon.
+- Le garde-fou vérifie les seuils 36/56 ainsi que la présence de ces entrées avant
+  qu'une passe `reviewed` puisse être envisagée.
+- Les cinq fragments de lettre sont maintenant distingués du registre de coffres :
+  Theatropolis, Waterpool Caves, Atlasdam, Path to Herminia's Manse et Golden
+  Palace, avec l'alternative Belonging documentée.

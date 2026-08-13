@@ -221,6 +221,30 @@ if (octopathZeroDraft) {
       `${octopathZeroDraftPath}: la checklist finale OT0 doit contenir exactement 37 succès (actuel : ${steamChecks.length}).`,
     );
   }
+  const characterSection = octopathZeroDraft.split("36 PERSONNAGES JOUABLES")[1]?.split("RÉCITS SECONDAIRES À COCHER")[0] ?? "";
+  const characterChecks = [...characterSection.matchAll(/^- \[ \] \d{2} .+$/gm)];
+  if (characterChecks.length !== 36) {
+    fail(
+      `${octopathZeroDraftPath}: le registre des personnages doit contenir exactement 36 cases (actuel : ${characterChecks.length}).`,
+    );
+  }
+  const sideStorySection = octopathZeroDraft.split("RÉCITS SECONDAIRES À COCHER DANS L'ORDRE D'APPARITION")[1]?.split("BESTOWER OF WEALTH")[0] ?? "";
+  const sideStoryChecks = [...sideStorySection.matchAll(/^- \[ \] .+$/gm)];
+  if (sideStoryChecks.length !== 56) {
+    fail(
+      `${octopathZeroDraftPath}: le registre des récits secondaires doit contenir exactement 56 cases (actuel : ${sideStoryChecks.length}).`,
+    );
+  }
+  for (const requiredSideStory of ["An Encounter with H'aanit", "The Monster Arena", "Greatest Expectations"]) {
+    if (!sideStorySection.includes(requiredSideStory)) {
+      fail(`${octopathZeroDraftPath}: récit secondaire requis absent (${requiredSideStory}).`);
+    }
+  }
+  for (const requiredFragment of ["Theatropolis", "Waterpool Caves", "Cat of Graceful Bearing", "Path to Herminia's Manse", "Golden Palace"]) {
+    if (!octopathZeroDraft.includes(requiredFragment)) {
+      fail(`${octopathZeroDraftPath}: fragment de lettre ou emplacement de contrôle absent (${requiredFragment}).`);
+    }
+  }
 }
 
 const guideBlockMatch = page.match(

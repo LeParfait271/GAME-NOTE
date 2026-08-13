@@ -529,9 +529,18 @@ une mise à jour qui change les succès ou le contenu, le guide repasse en
 ### Contrôle de précision — clés ornées OT0
 
 - La passe éditoriale exige huit clés nommées, sans placeholder : Dagger, Sword,
-  Axe, Tome, Fan, Spear, Staff et Bow.
+  Axe, Tome, Fan, Polearm/Spear, Staff et Bow.
 - La Bow Crest doit être raccordée à East Cyphlo Banks. Ce contrôle reste
   distinct du compteur automatique 454/454 et ne rend pas le guide publiable.
+
+### Contrôle roster et récits secondaires OT0
+
+- Le validateur contrôle 36 fiches de personnages et 56 récits secondaires dans
+  le brouillon OT0, en plus des 454 trésors et 37 succès Steam.
+- Les omissions de `An Encounter with H'aanit`, `The Monster Arena` ou
+  `Greatest Expectations` bloquent la passe de contrôle.
+- Le contrôle exige aussi les cinq zones de fragments, dont le Cat of Graceful
+  Bearing à Atlasdam, sans l'ajouter artificiellement aux 454 trésors.
 ## Lot scène d'entrée et archive monumentale - 13 août 2026
 
 - L'entrée présente une carte, une typographie géante et un lien direct avant
@@ -573,3 +582,14 @@ une mise à jour qui change les succès ou le contenu, le guide repasse en
   débordement horizontal et validations de livraison.
 - Ce lot ne modifie aucun contenu de guide, compteur Steam ou comportement du
   lecteur.
+
+## Audit interface personnelle - 13 août 2026
+
+- Les cartes ne montrent plus de badges éditoriaux assimilables à une mise en
+  avant commerciale ; les titres, compteurs et types de route restent visibles.
+- Le bandeau de slogans et le bouton PWA flottant disparaissent de l'accueil ;
+  le service worker continue de fonctionner silencieusement.
+- Les statuts hors ligne et les erreurs de route restent conservés car ils
+  décrivent l'état réel de l'application.
+- Le contrôle couvre l'accueil, la bibliothèque, le lecteur, le clavier, le
+  mobile et les validations de livraison.

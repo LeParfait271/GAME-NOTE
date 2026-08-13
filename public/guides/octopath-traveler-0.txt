@@ -281,6 +281,8 @@ CHAPITRE 2 — THE YOUNG BOY BASIL
   l'objectif de quête.
 - [ ] Invite Margot à Wishvale.
 - [ ] Ramène Margot et Basil à Wishvale et poursuis la reconstruction.
+- [ ] À Rippletide, lance la rencontre de Tressa dès que Kindlers 2 l'ouvre,
+  termine sa livraison et remporte le combat demandé pour la recruter.
 [COFFRE] [ ] Valore, inn 2F — Inspiriting Plum.
 [COFFRE] [ ] Valore: Main Boulevard, coffre bleu — Knock Out Mastery.
 [COFFRE] [ ] Path to Herminia's Manse — Light Soulstone, Healing Grape et
@@ -292,6 +294,22 @@ TOUR DES RECRUTEMENTS APRÈS LE PROLOGUE
 
 Ce détour se fait avant les trois arcs Master. Il évite de revenir dans les
 premières villes et rend immédiatement disponibles les compétences de route.
+
+5 FRAGMENTS DE LETTRE — CONTRÔLE DE ROUTE
+
+- [ ] Theatropolis : point bleu dans la bibliothèque, #029.
+- [ ] Waterpool Caves : point bleu vers l'extrémité nord-est pendant Master of
+  All 3, #185.
+- [ ] Atlasdam : utilise Entreat sur le Cat of Graceful Bearing après avoir
+  débloqué le bonus Animal Whisperer du Sacred Flame Dais ; ce fragment est une
+  récompense d'action et n'a pas de numéro de coffre.
+- [ ] Path to Herminia's Manse : point de collecte derrière le monstre d'élite,
+  #236 ; ne pars pas sans le vérifier.
+- [ ] Golden Palace, Lower Floor : #445 pendant Bestower of Wealth 3. Le
+  fragment peut aussi être choisi comme Belonging au départ ; dans ce cas, la
+  ligne #445 ne réapparaît pas.
+- [ ] Quand les cinq sont réunis, le jeu forme la Secret Invitation : utilise-la
+  sur l'Isle of Sages pour terminer la rencontre d'Isla.
 
 - [ ] Celsus — Valore : parle-lui dans la ville et réponds à ses questions.
 - [ ] Macy — Emberglow : aide-la à soigner l'enfant malade.
@@ -322,8 +340,8 @@ CHAPITRE 1 — THE COVETOUS WITCH
   Dagger Dance Mastery, 1000 feuilles et Herb of Clamor.
 [BOSS] [ ] Traverse l'entrée et brise Menacing Demon Deer pour obtenir
   Dagger Dance Mastery si le coffre gardé est encore fermé.
-[SUCCES] [ ] Ring of the Prince of Thieves tombe après Auguste/Herminia selon
-  le chapitre correspondant ; ne quitte pas le chapitre sans vérifier l'anneau.
+- [ ] Ne valide pas encore Ring of the Prince of Thieves ici : son acquisition
+  est contrôlée dans Master of Fame, chapitre 3, après la route d'Auguste.
 
 CHAPITRE 2 — A FLOWER BLOOMS
 
@@ -525,6 +543,9 @@ CHAPITRE 1 — KING PARDIS III
   Axe gardée, Iron Armor et Fortifying Nut M.
 - [ ] Termine le premier combat de l'arc et recrute les personnages affichés
   par la quête.
+- [ ] Après le chapitre, contrôle les Slums de Cragspear : l'événement d'Elrica
+  y ajoute une présence temporaire ; ne confonds pas cette étape avec son
+  recrutement définitif.
 
 CHAPITRE 2 — GENERAL MAHREZ
 
@@ -539,6 +560,9 @@ CHAPITRE 2 — GENERAL MAHREZ
   Axe avant la sortie.
 [BOSS] [ ] Bats Mahrez en cassant les renforts avant le chef et garde une
   suppression d'altération pour les debuffs.
+- [ ] Quand Wishvale est au niveau 6 et que Kindlers 5 est terminé, rejoins le
+  Path to Waterpool Caves. Aide Alfyn à récupérer Snowgrass dans Flamesgrace
+  Wilds puis soigne sa mère pour le recruter.
 
 CHAPITRE 3 — CHARLES THE TRAVELER
 
@@ -555,6 +579,9 @@ CHAPITRE 3 — CHARLES THE TRAVELER
   Letter Fragment, Stat Swap Mastery gardée, Gold Hairpiece et Energizing
   Pomegranate L.
 - [ ] Recrute Therion et les autres voyageurs dont les récits se débloquent.
+- [ ] À Sunshade, lance la rencontre de Primrose, bats Rosso puis recrute-la.
+- [ ] À Cragspear, rejoins Gray Grotto, bats Dreige et termine la rencontre de
+  Therion ; il est disponible après la progression du chapitre 2.
 [MANQUABLE] [ ] Termine An Encounter with Olberic à Shepherds Rock dès que
   la quête apparaît ; ce recrutement est requis avant plusieurs contrôles de
   fin d'arc.
@@ -585,9 +612,11 @@ CHAPITRE 5 — EL THE SWORDSMAN
   Freshly Shorn Fleece dans le jardin ouest, Traveling Music Score VIII dans la
   maison nord-ouest et Herb of Vitality.
 [COFFRE] [ ] North Shepherds Rock Pass — Sprightly Cuffs et Herb of Clamor.
-- [ ] Recrute Olberic via An Encounter with Olberic.
-[BOSS] [ ] Termine El the Swordsman et vérifie le recrutement d'Olberic avant
-  d'avancer.
+[BOSS] [ ] Termine El the Swordsman ; l'Encounter d'Olberic appartient à la
+  finale de Master of All, après Trial of the Ring, pas à ce chapitre.
+- [ ] Quand Wishvale atteint le niveau requis par Kindlers, visite l'île de la
+  mer intérieure, donne Ratatouille à Goodwin puis utilise Inquire pour le
+  recruter.
 
 CHAPITRE 6 — PRINCESS ELRICA
 
@@ -601,6 +630,8 @@ CHAPITRE 6 — PRINCESS ELRICA
 [COFFRE] [ ] Valley of Death: West — Herb of Mending, Protective Cuffs, Olive
   of Life M et Sunlands Spear.
 - [ ] Termine la quête de Princess Elrica et contrôle son statut temporaire.
+- [ ] Si l'étape temporaire d'Elrica n'a pas été cochée au chapitre 1, reviens
+  aux Slums de Cragspear avant de continuer ; elle n'est pas une recrue finale.
 - [ ] Lance The Rarest of Eggs à Cragspear après ce chapitre.
 
 CHAPITRE 7 — PRINCESS ALAUNE
@@ -650,51 +681,71 @@ registre simple et obtenir `[SUCCÈS] The Summoned`.
 
 36 PERSONNAGES JOUABLES
 
-- [ ] 01 Protagonist — création au prologue.
-- [ ] 02 Stia — construire le Workshop à Wishvale.
-- [ ] 03 Phenn — Kindlers 1, Snowshard Grotto, puis retour à Wishvale.
-- [ ] 04 Laurana — Kindlers 5, Flamesgrace, vaincre Emerald Direwolf.
-- [ ] 05 Celsus — Valore après le prologue, répondre à ses questions.
-- [ ] 06 Macy — Emberglow après le prologue, soigner l'enfant malade.
-- [ ] 07 Alexia — Theatropolis, obtenir un Letter Fragment puis Entreat.
-- [ ] 08 Viator — Valore avec une Crested Key.
-- [ ] 09 Ludo — Kindlers 3, Sunshade puis Finesand Ruins.
-- [ ] 10 Carinda — Bestower of Power 1, Donescu, mission de secours.
-- [ ] 11 Pius — Cragspear, accompagner le voyage vers la tombe.
-- [ ] 12 Saoirse — Master of Fame 3, performance dans l'Amphitheatre.
-- [ ] 13 Xerc — Bestower of Power 3, aider contre l'Immoral Noble à Grandport.
-- [ ] 14 Delitia — Master of Power 2, la vaincre à Emberglow puis rechercher
-  son frère.
-- [ ] 15 Esperre — Bestower of Wealth 2/3, vaincre Colossal Blightant à
-  Sufrataljah Sands.
-- [ ] 16 Goodwin — Shipwreck Island, lui donner Ratatouille puis Inquire après
-  Queen Orsa et Wishvale niveau 6.
-- [ ] 17 Reime — Bestower of Wealth 3, la vaincre dans l'arène de Victors
-  Hollow.
-- [ ] 18 Heidne — Kindlers 5 + Master of All 3, terminer sa chaîne de récits.
-- [ ] 19 Ophilia — récit secondaire déverrouillé après Bestower of Fame 2 et
-  Kindlers 5, à Flamesgrace.
-- [ ] 20 Tressa — récit secondaire de recrutement dans la route Coastlands.
-- [ ] 21 Cyrus — récit secondaire de recrutement après les chapitres requis.
-- [ ] 22 Olberic — Shepherds Rock, An Encounter with Olberic.
-- [ ] 23 Primrose — récit secondaire de recrutement après le déblocage de la
-  route Fame.
-- [ ] 24 Alfyn — Path to Waterpool Caves, An Encounter with Alfyn.
-- [ ] 25 Therion — Cragspear après Master of All 2.
-- [ ] 26 H'aanit — récit secondaire de recrutement après l'ouverture de la
-  route des Highlands.
-- [ ] 27 Bargello — Bestower of All 1.
-- [ ] 28 Alaune — Bestower of All 3.
-- [ ] 29 Richard — Bestower of All 1.
-- [ ] 30 Solon — Bestower of All 5.
-- [ ] 31 Eltrix — Bestower of All 5.
-- [ ] 32 Rondo — Bestower of All 4.
-- [ ] 33 Isla — réunir les cinq Letter Fragments et terminer les conditions de
-  l'Isle of Sages.
-- [ ] 34 Sazantos — présence temporaire pendant Trial of the Ring et la route
-  Bestower of All.
-- [ ] 35 Elrica — présence temporaire dans Master of All 6.
-- [ ] 36 Tatloch — Bestower of Power 3.
+- [ ] 01 Protagonist — création au prologue, à Wishvale.
+- [ ] 02 Stia — terminer le prologue puis construire le Workshop à Wishvale.
+- [ ] 03 Celsus — Valore après le prologue, répondre correctement à ses
+  questions.
+- [ ] 04 Macy — Emberglow après le prologue, aider à soigner l'enfant malade.
+- [ ] 05 Alexia — Theatropolis, obtenir un Letter Fragment puis utiliser
+  Entreat.
+- [ ] 06 Viator — Valore, montrer une Crested Key ; #039 du registre si elle
+  n'a pas été choisie comme Belonging.
+- [ ] 07 Pius — Cragspear, terminer son voyage jusqu'à la tombe de la mère du
+  protagoniste.
+- [ ] 08 Phenn — Kindlers 1, le retrouver dans Snowshard Grotto puis revenir
+  à Wishvale pour conclure son recrutement.
+- [ ] 09 Tressa — Kindlers 2, Rippletide, terminer sa livraison et le combat
+  de sa rencontre.
+- [ ] 10 Ludo — Kindlers 3, Sunshade puis Finesand Ruins ; reconstruire la
+  Shop à Wishvale.
+- [ ] 11 Laurana — Kindlers 4/5, Flamesgrace puis Emerald Direwolf ; elle
+  rejoint l'équipe après la séquence de la Church.
+- [ ] 12 Delitia — après Master of Power 2, la vaincre à Emberglow puis
+  accepter la recherche de son frère.
+- [ ] 13 Esperre — Bestower of Wealth 2/3, Sufrataljah Sands, vaincre le
+  Colossal Blightant.
+- [ ] 14 Reime — après Bestower of Wealth 3, Victors Hollow, remporter son
+  combat d'arène de niveau élevé.
+- [ ] 15 H'aanit — Bestower of Wealth, Victors Hollow, terminer sa chasse et
+  l'Encounter qui suit.
+- [ ] 16 Ophilia — après les chapitres 2 de Wealth, Power et Fame, Flamesgrace,
+  vaincre Edwin puis la recruter.
+- [ ] 17 Saoirse — Master of Fame 3, Theatropolis Amphitheatre, réussir sa
+  performance.
+- [ ] 18 Cyrus — Bestower of Fame 3, près d'Atlasdam, vaincre le Gluttonous
+  Salamander.
+- [ ] 19 Xerc — Bestower of Power 3, Grandport, aider contre l'Immoral Noble.
+- [ ] 20 Goodwin — Master of All 5 et Wishvale suffisamment reconstruite,
+  Shipwreck Island, donner Ratatouille puis utiliser Inquire.
+- [ ] 21 Alfyn — Kindlers 5 + Master of All 2 et Wishvale niveau 6, Path to
+  Waterpool Caves, récupérer Snowgrass et soigner sa mère.
+- [ ] 22 Primrose — Master of All 3, Sunshade, vaincre Rosso pendant sa
+  rencontre.
+- [ ] 23 Therion — après Master of All 2, Cragspear/Gray Grotto, vaincre Dreige
+  puis terminer son Encounter.
+- [ ] 24 Elrica — présence temporaire après Master of All 1, dans les Slums de
+  Cragspear ; contrôler cette étape avant de poursuivre.
+- [ ] 25 Bargello — Bestower of All 1, rejoindre Valore et terminer la
+  séquence qui le fait entrer dans l'équipe.
+- [ ] 26 Richard — Bestower of All 1, progression automatique de la route,
+  contrôler son ajout après les scènes de Castle Edoras.
+- [ ] 27 Alaune — Bestower of All 3, recrutement automatique après son chapitre.
+- [ ] 28 Carinda — finale de Bestower of All, Donescu, terminer la mission de
+  secours ; la condition d'accès dépend de Bestower of Power 1.
+- [ ] 29 Heidne — Kindlers 5 + Master of All 3, navigation débloquée, terminer
+  One's True Worth puis Heidne and the Man-Eating Miser et sa rencontre finale.
+- [ ] 30 Olberic — finale de Bestower of All, Shepherds Rock, démarrer An
+  Encounter with Olberic après Trial of the Ring puis vaincre le faux Olberic.
+- [ ] 31 Rondo — Bestower of All 4, recrutement automatique à la fin du
+  chapitre.
+- [ ] 32 Tatloch — Bestower of All 4, contrôler son recrutement à la fin de sa
+  séquence ; ne pas le rattacher à Bestower of Power 3.
+- [ ] 33 Solon — Bestower of All 5, recrutement automatique après le chapitre.
+- [ ] 34 Eltrix — Bestower of All 5, recrutement automatique après le chapitre.
+- [ ] 35 Sazantos — Trial of the Ring, présence temporaire après les trois arcs
+  Bestower et le combat de Wishvale Trail.
+- [ ] 36 Isla — réunir les cinq Letter Fragments, obtenir la Secret Invitation
+  et la recruter sur l'Isle of Sages après les finales requises.
 
 RÉCITS SECONDAIRES À COCHER DANS L'ORDRE D'APPARITION
 
@@ -720,6 +771,8 @@ RÉCITS SECONDAIRES À COCHER DANS L'ORDRE D'APPARITION
 - [ ] An Encounter with Esperre.
 - [ ] An Encounter with Goodwin.
 - [ ] An Encounter with Macy.
+- [ ] An Encounter with H'aanit — Victors Hollow : Z'aanta, Great Tree's Tears,
+  sangliers puis Ivory Shadow ; recrute H'aanit.
 - [ ] An Encounter with Olberic.
 - [ ] An Encounter with Ophilia.
 - [ ] An Encounter with Pius.
@@ -734,7 +787,7 @@ RÉCITS SECONDAIRES À COCHER DANS L'ORDRE D'APPARITION
 - [ ] Books Overdue.
 - [ ] Donescu's Successor.
 - [ ] Fetching Soulstones.
-- [ ] Great Expectations.
+- [ ] Greatest Expectations.
 - [ ] Heidne and the Man-Eating Miser.
 - [ ] In Search of What Remains.
 - [ ] One's True Worth.
@@ -744,6 +797,8 @@ RÉCITS SECONDAIRES À COCHER DANS L'ORDRE D'APPARITION
 - [ ] The Freezing Cold.
 - [ ] The Hidden Isle.
 - [ ] The Last Cask.
+- [ ] The Monster Arena — Wishvale : construis l'arène, capture la cible de la
+  quête et vérifie le bâtiment avant les combats de post-game.
 - [ ] The Missing Brother.
 - [ ] The Queen Orsa.
 - [ ] The Rarest of Eggs.
@@ -778,6 +833,9 @@ CHAPITRE 1 — THE HAVE-NOT
   Basket et Enchanted Axe.
 [COFFRE] [ ] Leopaldi's Estate — Arena Music Score I.
 - [ ] Termine l'arène et récupère le morceau associé.
+- [ ] Retourne à Victors Hollow, entre dans la taverne et parle à Z'aanta pour
+  lancer An Encounter with H'aanit. Suis-la jusqu'à Great Tree's Tears, bats
+  les sangliers puis l'Ivory Shadow : H'aanit rejoint l'équipe à la fin.
 
 CHAPITRE 2 — FOOL'S GOLD
 
@@ -789,6 +847,8 @@ CHAPITRE 2 — FOOL'S GOLD
   Mastery et Old Tome.
 [BOSS] [ ] Continue vers East Cyphlo Banks et contrôle les sauvegardes avant
   l'arc suivant.
+- [ ] Après le chapitre, va à Sufrataljah Sands et bats le Colossal Blightant
+  dans la rencontre d'Esperre ; recrute-la avant de reprendre les trois arcs.
 
 CHAPITRE 3 — OSKHA THE TRADER
 
@@ -797,6 +857,8 @@ CHAPITRE 3 — OSKHA THE TRADER
   et Last Stand Mastery gardée/bleue.
 - [ ] Retourne à Donescu et termine la route d'Oskha.
 [SUCCES] [ ] Ring of the Trader est contrôlé après l'arc Wealth.
+- [ ] Reviens à Victors Hollow, lance la rencontre d'arène de Reime et gagne le
+  combat de niveau élevé pour la recruter.
 
 ================================================================
 BESTOWER OF POWER — PROLOGUE ET CHAPITRES 1 À 3
@@ -805,8 +867,6 @@ BESTOWER OF POWER — PROLOGUE ET CHAPITRES 1 À 3
 PROLOGUE — EMPRESS FROM ABROAD
 
 - [ ] Reviens à Cragspear, parle à Lebrandt et suis les émissaires étrangers.
-- [ ] Recrute Carinda après Bestower of Power 1 dès que sa mission de secours
-  est disponible à Donescu.
 
 CHAPITRE 1 — THE ONE THAT LAYS WASTE
 
@@ -831,8 +891,6 @@ CHAPITRE 2 — TO PROTECT WHAT IS DEAR
 [SUCCES] [ ] Setting Sail tombe dès que le navire devient utilisable.
 [MANQUABLE] [ ] Garde les cinq Letter Fragments : le navire ouvre les routes
   de mer et la voie vers Isle of Sages.
-- [ ] Recrute Xerc à Grandport après le combat contre Immoral Noble et son
-  Lackey.
 
 CHAPITRE 3 — TATLOCH THE LADY OF GRACE
 
@@ -853,6 +911,8 @@ CHAPITRE 3 — TATLOCH THE LADY OF GRACE
   Basket.
 - [ ] Termine la route de Tatloch et contrôle `[SUCCÈS] Ring of the Lady of
   Grace`.
+- [ ] Après le chapitre, retrouve Xerc à Grandport, aide-le contre l'Immoral
+  Noble et recrute-le.
 
 ================================================================
 BESTOWER OF FAME — PROLOGUE ET CHAPITRES 1 À 3
@@ -873,6 +933,8 @@ CHAPITRE 1 — A NEW GOD
   Grand Vest et Crescent Sabre bleu.
 [COFFRE] [ ] Atlasdam — Magic Nut M à l'auberge 2F et Traveling Music Score
   III dans la bibliothèque/Palace Gate.
+- [COFFRE] [ ] Atlasdam — Letter Fragment auprès du Cat of Graceful Bearing :
+  débloque Animal Whisperer au Sacred Flame Dais puis utilise Entreat.
 - [ ] Explore Cathedral of Tytos: Entrance et l'Underground.
 [COFFRE] [ ] Cathedral of Tytos: Entrance — Olive of Life M et Wakeful Stone.
 [COFFRE] [ ] Cathedral of Tytos — Master of Power Music, Refreshing Jam et
@@ -891,6 +953,8 @@ CHAPITRE 2 — SACRED ASHES
   Ruthless Assault Mastery, Tower Shield et Reaping Thrash Mastery gardée/bleue.
 - [ ] Termine les scènes d'Atlasdam, puis active les rencontres de recrutement
   d'Ophilia et de Cyrus quand les conditions apparaissent.
+- [ ] Après Bestower of Fame 2, va à Flamesgrace Cathedral, suis Ophilia dans
+  les Wilds et bats Edwin : Ophilia rejoint l'équipe.
 
 CHAPITRE 3 — CERAPHINA THE CHARITABLE
 
@@ -911,6 +975,8 @@ CHAPITRE 3 — CERAPHINA THE CHARITABLE
   Rejuvenating Jam.
 [COFFRE] [ ] Silver Spring — Azure Flamestone, 7000, 6000 et 30000 feuilles.
 - [ ] Termine Ceraphina et contrôle `[SUCCÈS] Ring of the Charitable`.
+- [ ] Après le chapitre, retrouve Cyrus près d'Atlasdam et bats le Gluttonous
+  Salamander pour le recruter.
 
 ================================================================
 BESTOWER OF ALL — PROLOGUE À LA FIN STANDARD
@@ -922,6 +988,8 @@ PROLOGUE — THE BLACK FLAME
 - [ ] Va à Isle of Orsa et rejoins l'autel.
 - [ ] Parle aux Ringmaidens et explore la zone avant de déclencher le départ.
 - [ ] Garde une sauvegarde avant la transition vers Hell.
+- [ ] Si Bestower of Power 1 est terminé, contrôle Donescu pendant cette route
+  pour la mission de secours de Carinda ; elle rejoint au terme de la finale.
 
 CHAPITRE 1 — BETWEEN LIFE AND DEATH
 
@@ -931,6 +999,8 @@ CHAPITRE 1 — BETWEEN LIFE AND DEATH
   maisons et les conditions de l'arc.
 [BOSS] [ ] Prépare une équipe de niveau élevé avec protection contre les
   altérations et dégâts de lumière.
+- [ ] Contrôle Valore et Castle Edoras après les scènes du chapitre pour Bargello
+  et Richard ; tous deux sont des recrutements de Bestower of All 1.
 
 CHAPITRE 2 — HILL OF THE DEAD
 
@@ -960,6 +1030,8 @@ CHAPITRE 5 — THE GATE OF FINIS
 - [ ] Entre dans Gate of Finis et vérifie les consommables avant les corridors.
 [BOSS] [ ] Bats les gardiens avec un groupe de huit et une rotation de
   supports ; ne dépense pas les ultimes ressources avant le point de repos.
+- [ ] À la fin du chapitre, contrôle Cragspear pour Solon et Eltrix ; ils
+  rejoignent après la résolution de leur séquence.
 
 CHAPITRE 6 — PRECIPICE OF LOSS
 
@@ -984,6 +1056,8 @@ CHAPITRE 8 — AT JOURNEY'S END
   dérouler sans revenir au sanctuaire.
 - [ ] Termine le combat de Bestower of All.
 [SUCCES] [ ] Champion of the Continent tombe sur la fin standard.
+- [ ] Après Trial of the Ring et avant la dernière reprise, termine An Encounter
+  with Olberic à Shepherds Rock et le recrutement final d'Heidne à Wishvale.
 
 ================================================================
 FIN VÉRITABLE ET POST-GAME
@@ -1081,7 +1155,8 @@ REGISTRES D'ÉQUIPEMENTS UNIQUES
 [COFFRE] [ ] Crested Key Tome — coffre est de Sweltering Cave via Berecain Pass.
 [COFFRE] [ ] Crested Key Fan — Entreat l'explorateur près de l'auberge de
   Sufrataljah.
-[COFFRE] [ ] Crested Key Spear — point bleu sur l'île de l'Outersea Est.
+[COFFRE] [ ] Crested Key Polearm (Spear Crest) — point bleu sur l'île de
+  l'Outersea Est.
 [COFFRE] [ ] Crested Key Staff — Entreat le Harbor Black Market Merchant au
   nord des marchés de Grandport.
 [COFFRE] [ ] Crested Key Bow — coffre de East Cyphlo Banks, dans les Riverlands.
