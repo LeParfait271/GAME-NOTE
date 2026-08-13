@@ -222,3 +222,16 @@ contrôle de la fiche concernée.
   puis relancer lint, build, preflight et les smoke tests avant le commit.
 - Limite : la lumiere suit le pointeur uniquement sur une surface compatible ;
   aucun effet ne doit etre considere comme une dependance du contenu hors ligne.
+
+## Lot accueil simplifie et logo recentre - 13 aout 2026
+
+- Perimetre : suppression du bloc de presentation Route / Lecture / Archive et
+  de ses liens morts ; le hero, l'index et la bibliotheque restent en place.
+- Composition : le logo Game Note devient le point focal centre de la barre
+  d'accueil, avec une taille augmentee et un ajustement dedie au mobile.
+- Garde-fou : aucun contenu de guide, artwork source ou controle de lecteur ne
+  doit etre supprime avec cette section decorative.
+- Controle attendu : verifier l'absence d'ancre `#method`, le centrage reel du
+  logo, le rendu mobile, puis relancer lint, build, preflight et smoke tests.
+- Limite : le centrage concerne l'accueil ; la barre du mode lecture conserve
+  sa logique de navigation existante.

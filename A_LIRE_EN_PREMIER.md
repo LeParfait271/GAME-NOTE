@@ -98,3 +98,6 @@ transformée en validation automatique quand c'est possible.
     grain, la lumière, le scan et les transitions ne doivent jamais remplacer
     le titre, l'index, les boutons ou l'information de route. Tester aussi
     `prefers-reduced-motion`, le clavier et le petit écran avant de les livrer.
+25. Si une section de présentation est retirée de l'accueil, supprimer aussi
+    ses liens de navigation et ses styles orphelins. Le logo principal doit
+    rester centré, lisible et proportionné sur desktop comme sur mobile.

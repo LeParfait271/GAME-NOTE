@@ -365,6 +365,20 @@ une mise à jour qui change les succès ou le contenu, le guide repasse en
 - Limite : l'effet de lumiere est une amelioration d'ambiance, pas un signal
   fonctionnel ; la page doit rester lisible si aucun mouvement n'est affiche.
 
+## Lot accueil simplifie et logo recentre - 13 aout 2026
+
+- Perimetre : retirer les trois cartes de methode visibles sous le hero, ainsi
+  que leur ancre et leurs styles devenus inutiles.
+- Navigation : le lien de defilement du hero revient vers la bibliotheque afin
+  qu'aucun appel vers `#method` ne reste apres la suppression.
+- Identite : la marque Game Note est placee au centre de la topbar d'accueil,
+  agrandie sur desktop et redimensionnee sur mobile sans modifier le mode
+  lecteur.
+- Validation : relire le hero, la jonction avec la bibliotheque et le breakpoint
+  mobile en localhost, puis lancer lint, build, preflight et smoke tests.
+- Limite : les images des anciennes cartes restent disponibles comme assets,
+  mais ne sont plus rendues par l'accueil.
+
 ### Version éditoriale — règle ajoutée le 13 août 2026
 
 - Source unique : `app/site-version.ts`, affichée dans le pied de page au

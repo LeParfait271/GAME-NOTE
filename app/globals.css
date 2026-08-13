@@ -3208,15 +3208,44 @@ button.reader-neighbor:focus-visible {
   position: absolute;
   top: 0;
   left: 50%;
+  display: grid;
   width: min(1240px, calc(100% - 56px));
+  min-height: 112px;
+  grid-template-columns: minmax(0, 1fr) auto minmax(0, 1fr);
+  justify-content: initial;
+  gap: 18px;
   border-bottom-color: rgba(243, 237, 224, 0.2);
   background: transparent;
   color: var(--hero-cream);
   transform: translateX(-50%);
 }
 
+.site-shell:not(.is-reader-mode) .brand {
+  grid-column: 2;
+  justify-self: center;
+  align-items: center;
+  gap: 16px;
+}
+
+.site-shell:not(.is-reader-mode) .brand-content {
+  align-items: center;
+  gap: 5px;
+}
+
+.site-shell:not(.is-reader-mode) .brand-symbol {
+  width: 58px;
+  height: 58px;
+  flex-basis: 58px;
+}
+
+.site-shell:not(.is-reader-mode) .brand-logo {
+  height: clamp(64px, 6vw, 86px);
+  max-width: min(330px, 35vw);
+}
+
 .site-shell:not(.is-reader-mode) .brand small {
   color: var(--hero-muted);
+  text-align: center;
 }
 
 .topbar-nav {
@@ -3228,6 +3257,11 @@ button.reader-neighbor:focus-visible {
   font-size: 0.61rem;
   letter-spacing: 0.08em;
   text-transform: uppercase;
+}
+
+.site-shell:not(.is-reader-mode) .topbar-nav {
+  grid-column: 3;
+  justify-self: end;
 }
 
 .topbar-nav a {
@@ -3527,9 +3561,7 @@ button.reader-neighbor:focus-visible {
 .hero-kicker,
 .hero-index-heading,
 .hero-focus-caption p,
-.hero-scroll,
-.manifesto-card-copy p,
-.manifesto-strip p {
+.hero-scroll {
   font-family: var(--hero-mono);
   font-size: 0.59rem;
   letter-spacing: 0.13em;
@@ -3971,99 +4003,6 @@ button.reader-neighbor:focus-visible {
   animation: hero-pulse 1.8s ease-in-out infinite;
 }
 
-.manifesto-grid {
-  display: grid;
-  width: min(1240px, calc(100% - 56px));
-  grid-template-columns: repeat(2, minmax(0, 1fr));
-  gap: 16px;
-  margin: 0 auto;
-  padding: 70px 0 20px;
-}
-
-.manifesto-card,
-.manifesto-strip {
-  overflow: hidden;
-  border: 1px solid var(--line);
-  border-radius: 16px 16px 16px 4px;
-  background: var(--card);
-}
-
-.manifesto-card {
-  display: grid;
-  grid-template-columns: minmax(130px, 0.78fr) minmax(0, 1.22fr);
-  min-height: 220px;
-}
-
-.manifesto-card-art,
-.manifesto-strip-art {
-  overflow: hidden;
-  background: var(--hero-deep);
-}
-
-.manifesto-card-art img,
-.manifesto-strip-art img {
-  display: block;
-  width: 100%;
-  height: 100%;
-  object-fit: cover;
-  filter: saturate(0.76) contrast(1.08);
-  transition: transform 360ms var(--expo-out), filter 360ms ease;
-}
-
-.manifesto-card:hover img,
-.manifesto-card:focus-within img,
-.manifesto-strip:hover img {
-  filter: saturate(1) contrast(1.08);
-  transform: scale(1.05);
-}
-
-.manifesto-card-copy {
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-  padding: 26px;
-}
-
-.manifesto-card-copy p,
-.manifesto-strip p {
-  margin: 0 0 14px;
-  color: var(--coral);
-}
-
-.manifesto-card-copy h2 {
-  max-width: 9ch;
-  margin: 0;
-  color: var(--navy);
-  font-size: clamp(1.55rem, 2.8vw, 2.4rem);
-  letter-spacing: -0.07em;
-  line-height: 0.96;
-}
-
-.manifesto-card-copy span,
-.manifesto-strip span {
-  max-width: 29ch;
-  margin-top: 17px;
-  color: var(--muted);
-  font-family: var(--hero-mono);
-  font-size: 0.63rem;
-  line-height: 1.65;
-}
-
-.manifesto-strip {
-  display: grid;
-  grid-column: 1 / -1;
-  grid-template-columns: minmax(0, 1.7fr) minmax(230px, 0.8fr);
-  min-height: 138px;
-  border-color: color-mix(in srgb, var(--coral) 35%, var(--line));
-}
-
-.manifesto-strip > div:last-child {
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-  padding: 24px 28px;
-}
-
 .section-block {
   padding-top: 100px;
 }
@@ -4180,7 +4119,31 @@ button.reader-neighbor:focus-visible {
 
   .site-shell:not(.is-reader-mode) .topbar {
     width: calc(100% - 30px);
-    min-height: 70px;
+    min-height: 92px;
+    grid-template-columns: minmax(0, 1fr) auto minmax(0, 1fr);
+  }
+
+  .site-shell:not(.is-reader-mode) .brand {
+    gap: 9px;
+  }
+
+  .site-shell:not(.is-reader-mode) .brand-content {
+    gap: 2px;
+  }
+
+  .site-shell:not(.is-reader-mode) .brand-symbol {
+    width: 46px;
+    height: 46px;
+    flex-basis: 46px;
+  }
+
+  .site-shell:not(.is-reader-mode) .brand-logo {
+    height: 56px;
+    max-width: 210px;
+  }
+
+  .site-shell:not(.is-reader-mode) .brand small {
+    font-size: 0.47rem;
   }
 
   .topbar-nav {
@@ -4261,45 +4224,6 @@ button.reader-neighbor:focus-visible {
 
   .hero-scroll-line {
     width: 30px;
-  }
-
-  .manifesto-grid {
-    width: calc(100% - 30px);
-    grid-template-columns: 1fr;
-    gap: 12px;
-    padding-top: 44px;
-  }
-
-  .manifesto-card {
-    grid-template-columns: minmax(112px, 0.76fr) minmax(0, 1.24fr);
-    min-height: 190px;
-  }
-
-  .manifesto-card-copy {
-    padding: 20px;
-  }
-
-  .manifesto-card-copy h2 {
-    font-size: 1.7rem;
-  }
-
-  .manifesto-card-copy span,
-  .manifesto-strip span {
-    font-size: 0.57rem;
-  }
-
-  .manifesto-strip {
-    display: block;
-  }
-
-  .manifesto-strip-art,
-  .manifesto-strip-art img {
-    min-height: 100px;
-    height: 100px;
-  }
-
-  .manifesto-strip > div:last-child {
-    padding: 20px;
   }
 
   .section-block {

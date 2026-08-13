@@ -3305,7 +3305,6 @@ export default function Home() {
         {!readerMode ? (
           <nav className="topbar-nav" aria-label="Navigation principale">
             <a href="#guides">Index <span>{siteGuides.length}</span></a>
-            <a href="#method">Méthode</a>
             <span className="topbar-status">Archive locale / 2026</span>
           </nav>
         ) : (
@@ -3431,31 +3430,7 @@ export default function Home() {
             <a className="hero-index-more" href="#guides">Voir les {siteGuides.length} routes <span aria-hidden="true">→</span></a>
           </div>
         </div>
-        <a className="hero-scroll" href="#method"><span>SCROLL / MÉTHODE</span><span className="hero-scroll-line" aria-hidden="true" /></a>
-      </section>
-
-      <section className="manifesto-grid" id="method" aria-label="Les repères Game Note">
-        <article className="manifesto-card manifesto-card-main">
-          <div className="manifesto-card-art">
-            {/* eslint-disable-next-line @next/next/no-img-element */}
-            <img src="/images/cards/game-note-card-route.png" alt="Carte illustrée d'une route balisée" width={1536} height={1024} loading="lazy" decoding="async" />
-          </div>
-          <div className="manifesto-card-copy"><p>01 / ROUTE</p><h2>Le fil avant le bruit.</h2><span>Une progression lisible, les bons détours et le bon repère au bon moment.</span></div>
-        </article>
-        <article className="manifesto-card">
-          <div className="manifesto-card-art">
-            {/* eslint-disable-next-line @next/next/no-img-element */}
-            <img src="/images/cards/game-note-card-spoiler-safe.png" alt="Carnet protégé par un marqueur corail" width={1536} height={1024} loading="lazy" decoding="async" />
-          </div>
-          <div className="manifesto-card-copy"><p>02 / LECTURE</p><h2>Juste ce qu&apos;il faut.</h2><span>Les informations utiles au moment utile, sans transformer la découverte en liste froide.</span></div>
-        </article>
-        <article className="manifesto-strip">
-          <div className="manifesto-strip-art">
-            {/* eslint-disable-next-line @next/next/no-img-element */}
-            <img src="/images/banners/game-note-banner-archive.png" alt="Archive illustrée Game Note" width={1920} height={640} loading="lazy" decoding="async" />
-          </div>
-          <div><p>THE ARCHIVE / GAME NOTE</p><span>Un carnet de route personnel, pensé pour rester calme, précis et toujours à portée de main.</span></div>
-        </article>
+        <a className="hero-scroll" href="#guides"><span>SCROLL / INDEX</span><span className="hero-scroll-line" aria-hidden="true" /></a>
       </section>
       <section className="section-block library-page" id="guides">
         <div className="section-heading">
