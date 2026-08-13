@@ -226,7 +226,9 @@ conditions difficiles ; elles ne justifient jamais une copie mot a mot.
 - Points verifies : 55 succes, 49 journaux, 33 disques, 10 quetes de Nevrons,
   9 Gestrals perdus, 5 jeux gestral, 46 competences de Monoco, 35 relations,
   Mime du prologue, Vieille Cle, Lettre a Maelle, Blanche/Noire et les deux
-  choix de fin.
+  choix de fin. Les anciennes pages qui annoncent 44 competences de Monoco
+  sont considerees comme incompletes ; la liste GameFAQs mise a jour et le
+  recoupement Monster-Soluce confirment 46.
 
 ## FINAL FANTASY VII (2013)
 

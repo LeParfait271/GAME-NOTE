@@ -126,6 +126,7 @@ const requiredSourceFiles = [
   "docs/guide-catalog.json",
   "docs/site-publication.json",
   "docs/site-publication-workflow.md",
+  "docs/guide-research/expedition-33-evidence.md",
   "docs/site-guardrails.md",
   "docs/steam-audit.json",
   "scripts/preflight-pages.mjs",

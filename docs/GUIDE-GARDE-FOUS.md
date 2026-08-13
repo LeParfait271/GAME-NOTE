@@ -403,6 +403,19 @@ une mise à jour qui change les succès ou le contenu, le guide repasse en
   sources, une validation de contenu et une modification explicite de cette
   liste.
 
+## Lot Expedition 33 - première fiche reconstruite par matrice - 13 aout 2026
+
+- La fiche active doit être accompagnée de
+  `docs/guide-research/expedition-33-evidence.md`.
+- La matrice doit distinguer la source officielle des sources de route, les
+  listes de collectibles, les listes de compétences et les pages de rattrapage.
+- Toute contradiction de compteur doit être écrite puis tranchée avant de
+  modifier le TXT ; pour Monoco, la valeur actuelle retenue est 46 et non 44.
+- La validation porte sur les 55 succès, les 49 journaux, les 33 disques, les
+  10 Nevrons, les 9 Gestrals, les 5 jeux, les 46 compétences et les 35 scènes.
+- La prochaine fiche doit reprendre cette structure et ajouter ses propres
+  preuves, sans copier le texte d'Expedition 33.
+
 ### Version éditoriale — règle ajoutée le 13 août 2026
 
 - Source unique : `app/site-version.ts`, affichée dans le pied de page au

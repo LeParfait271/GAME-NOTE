@@ -108,3 +108,6 @@ transformée en validation automatique quand c'est possible.
     est la source de publication temporaire : seuls Expedition 33 et Octopath
     Traveler 1 doivent être copiés dans `dist/client` et le cache hors-ligne.
     Les autres TXT restent conservés mais ne doivent pas sortir du build.
+27. Pour une nouvelle fiche reconstruite, conserver la matrice de sources et le
+    registre des contradictions avec le TXT. Les compteurs retenus doivent être
+    justifiés par au moins deux sources indépendantes avant publication.

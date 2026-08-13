@@ -13,6 +13,36 @@ evitent une partie a refaire. Le contenu gratuit Verso's Drafts est traite
 dans le post-game ; il n'ajoute pas de succes Steam a la liste des 55.
 
 ================================================================
+VERIFICATION CROISEE DE LA FICHE
+================================================================
+
+Cette route a ete recomposee apres lecture croisee de cinq familles de sources :
+la liste Steam officielle, une roadmap des missables, des guides de cartes et
+collectibles, des listes independantes de competences/quetes, puis des pages de
+rattrapage et de mise a jour. Les sources et les contradictions resolues sont
+conservees dans `docs/guide-research/expedition-33-evidence.md`.
+
+COMPTEURS RETENUS APRES RECROISEMENT
+
+- 55 succes Steam ;
+- 49 journaux ; 33 disques uniques ; 10 quetes de Nevrons ;
+- 9 Gestrals perdus ; 5 jeux gestral ; 46 competences de Monoco ;
+- 35 interactions de relations.
+
+Attention : certaines anciennes pages annoncent 44 competences de Monoco.
+Les listes mises a jour qui enumerent les competences retiennent 46 ; c'est le
+compteur utilise ici. La route decrit aussi les variantes de rattrapage pour
+les pieds de Monoco et ne considere pas une simple rencontre comme une
+validation : le personnage doit etre present quand l'ennemi tombe.
+
+Dans cette fiche, `[COFFRE]` signale un objet ou une recompense a ramasser,
+`[SAUVEGARDE]` une archive conseillee, `[MANQUABLE]` une fenetre a fermer,
+`[SUCCES]` un objectif Steam et `[BOSS]` un combat dont la preparation merite
+une attention particuliere. Les objets ordinaires ne sont pas gonfles en faux
+compteurs : seuls les objets qui servent au 55/55 ou au nettoyage pratique sont
+expliques.
+
+================================================================
 COMMENT LIRE LA SOLUCE
 ================================================================
 
@@ -60,14 +90,14 @@ COMPTEURS A GARDER A COTE DU JEU
 SAUVEGARDES ET ALERTES MANQUABLES
 ================================================================
 
-EMPLACEMENTS CONSEILLES
+EMPLACEMENTS CONSEILLES [SAUVEGARDE]
 
 - S1 PRINCIPALE : progression courante.
 - S2 ZONE : avant chaque boss, chaque Axon et chaque zone a chemins multiples.
 - S3 MISSABLE : conserve-la jusqu'a la verification du prochain compteur.
 - S4 FIN : avant le rang 7 de Maelle et avant le choix final.
 
-ALERTE 1 - MIME ET DISQUE LUMIERE DU PROLOGUE
+[MANQUABLE] ALERTE 1 - MIME ET DISQUE LUMIERE DU PROLOGUE
 
 Dans Lumiere, avant de lancer le depart de l'expedition, va vers le port puis
 a droite vers la scene des danseuses. Dans l'alcove avec l'echafaudage, examine
@@ -75,7 +105,7 @@ le Mime et bats-le avec Gustave. Tu obtiens le succes A Peculiar Encounter et
 le disque Lumiere. La seconde copie du disque dans le donjon final ne remplace
 pas cette fenetre si tu rates aussi Lettre a Maelle.
 
-ALERTE 2 - VIEILLE CLE ET JOURNAL FRACTURE SURVIVOR
+[MANQUABLE] ALERTE 2 - VIEILLE CLE ET JOURNAL FRACTURE SURVIVOR
 
 Obtiens les trois jetons du festival :
 
@@ -90,7 +120,7 @@ dans Old Lumiere. Si tu veux conserver un jeton pour la boulangerie en Nouvelle
 Partie +, fais-le sur une autre sauvegarde : le 100 % de cette partie garde la
 Vieille Cle.
 
-ALERTE 3 - DISQUE LETTRE A MAELLE
+[MANQUABLE] ALERTE 3 - DISQUE LETTRE A MAELLE
 
 Apres le premier Axon vaincu, retourne immediatement au camp avant de lancer
 le second. Au feu de camp, choisis Check up on the others et termine la scene
@@ -98,7 +128,7 @@ avec Maelle. Le disque Lettre a Maelle apparait a la fin. Si tu ne le fais pas
 et que le disque du Mime manque aussi, la partie peut rester bloquee a 32
 disques uniques.
 
-ALERTE 4 - RELATION DE MAELLE
+[MANQUABLE] ALERTE 4 - RELATION DE MAELLE
 
 Apres la quete de Maelle et le rang 6, la derniere scene du rang 7 pose le
 choix Truth/Lie. Choisis Truth. Lie bloque le succes Maelle et l'attaque

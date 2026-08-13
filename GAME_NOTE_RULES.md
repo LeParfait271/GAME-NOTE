@@ -261,3 +261,15 @@ contrôle de la fiche concernée.
   l'archive source.
 - Limite : cette règle masque les anciennes fiches sans les supprimer ; leur
   réactivation exige une nouvelle vérification éditoriale et un commit dédié.
+
+## Lot Expedition 33 - reconstruction par matrice - 13 aout 2026
+
+- La fiche doit conserver une matrice dans `docs/guide-research/` : sources
+  lues, rôle de chaque source, compteurs retenus et contradictions résolues.
+- Une page ancienne qui donne un compteur différent n'est pas fusionnée sans
+  preuve : la valeur retenue doit être confirmée par une seconde source récente
+  ou par le compteur du jeu.
+- Les zones chronologiques, les annexes de collectibles et la checklist Steam
+  restent séparées pour que le lecteur sache ce qu'il coche.
+- Limite : ce lot traite le jeu de base et le contenu gratuit séparément ; il
+  ne transforme pas un objet de confort en exigence artificielle du 55/55.
