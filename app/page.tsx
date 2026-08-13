@@ -2947,6 +2947,11 @@ const guides: Guide[] = [
   },
 ];
 
+// Les autres fiches restent archivées dans les sources, mais ne sont pas
+// publiées dans l'index tant que leur réécriture premium n'est pas validée.
+const SITE_VISIBLE_GUIDE_IDS = new Set(["expedition-33", "octopath"]);
+const siteGuides = guides.filter((guide) => SITE_VISIBLE_GUIDE_IDS.has(guide.id));
+
 const steamHeaderUrl = (appId: number) =>
   `https://cdn.akamai.steamstatic.com/steam/apps/${appId}/header.jpg`;
 
@@ -2973,7 +2978,7 @@ const sortGuidesAlphabetically = (items: Guide[]) =>
 
 const catalogLetters = Array.from(
   new Set(
-    sortGuidesAlphabetically(guides).map((guide) =>
+    sortGuidesAlphabetically(siteGuides).map((guide) =>
       normalizeCatalogText(guide.title).charAt(0).toUpperCase(),
     ),
   ),
@@ -3009,7 +3014,7 @@ function openReader(
 }
 
 export default function Home() {
-  const [selectedId, setSelectedId] = useState(guides[0].id);
+  const [selectedId, setSelectedId] = useState(siteGuides[0].id);
   const [search, setSearch] = useState("");
   const [catalogSearch, setCatalogSearch] = useState("");
   const [catalogFilter, setCatalogFilter] = useState<CatalogFilter>("all");
@@ -3019,13 +3024,13 @@ export default function Home() {
   const [readerMode, setReaderMode] = useState(false);
   const [invalidGuideId, setInvalidGuideId] = useState<string | null>(null);
   const [initialStateReady, setInitialStateReady] = useState(false);
-  const [heroActiveId, setHeroActiveId] = useState(guides[0].id);
+  const [heroActiveId, setHeroActiveId] = useState(siteGuides[0].id);
   const catalogSearchRef = useRef<HTMLInputElement>(null);
   const guideSearchRef = useRef<HTMLInputElement>(null);
 
-  const selected = guides.find((guide) => guide.id === selectedId) ?? guides[0];
-  const heroActive = guides.find((guide) => guide.id === heroActiveId) ?? guides[0];
-  const heroGuides = guides.slice(0, 7);
+  const selected = siteGuides.find((guide) => guide.id === selectedId) ?? siteGuides[0];
+  const heroActive = siteGuides.find((guide) => guide.id === heroActiveId) ?? siteGuides[0];
+  const heroGuides = siteGuides.slice(0, 7);
   const handleHeroPointerMove = (event: PointerEvent<HTMLElement>) => {
     if (event.pointerType === "touch") return;
 
@@ -3040,14 +3045,14 @@ export default function Home() {
     event.currentTarget.style.setProperty("--pointer-x", "50%");
     event.currentTarget.style.setProperty("--pointer-y", "46%");
   };
-  const alphabeticalGuides = useMemo(() => sortGuidesAlphabetically(guides), []);
+  const alphabeticalGuides = useMemo(() => sortGuidesAlphabetically(siteGuides), []);
   const selectedIndex = alphabeticalGuides.findIndex((guide) => guide.id === selected.id);
   const previousGuide = selectedIndex > 0 ? alphabeticalGuides[selectedIndex - 1] : undefined;
   const nextGuide = selectedIndex >= 0 ? alphabeticalGuides[selectedIndex + 1] : undefined;
   const catalogMatches = useMemo(() => {
     const query = normalizeCatalogText(catalogSearch.trim());
 
-    return guides
+    return siteGuides
       .filter((guide) => {
         const searchableText = [
           guide.title,
@@ -3095,7 +3100,7 @@ export default function Home() {
     const requestedSearch = url.searchParams.get("q");
     const requestedFilter = url.searchParams.get("filter") as CatalogFilter | null;
     const requestedLetter = url.searchParams.get("letter")?.toUpperCase() ?? "";
-    const validRequestedGuide = guides.find((guide) => guide.id === requestedGuide);
+    const validRequestedGuide = siteGuides.find((guide) => guide.id === requestedGuide);
     setCatalogSearch(requestedSearch ?? "");
     setCatalogFilter(
       requestedFilter && CATALOG_FILTERS.some((filter) => filter.id === requestedFilter)
@@ -3124,7 +3129,7 @@ export default function Home() {
 
     const handlePopState = () => {
       const nextUrl = new URL(window.location.href);
-      const nextGuide = guides.find((guide) => guide.id === nextUrl.searchParams.get("guide"));
+      const nextGuide = siteGuides.find((guide) => guide.id === nextUrl.searchParams.get("guide"));
       setCatalogSearch(nextUrl.searchParams.get("q") ?? "");
       const nextFilter = nextUrl.searchParams.get("filter") as CatalogFilter | null;
       const nextLetter = nextUrl.searchParams.get("letter")?.toUpperCase() ?? "";
@@ -3299,7 +3304,7 @@ export default function Home() {
         </a>
         {!readerMode ? (
           <nav className="topbar-nav" aria-label="Navigation principale">
-            <a href="#guides">Index <span>{guides.length}</span></a>
+            <a href="#guides">Index <span>{siteGuides.length}</span></a>
             <a href="#method">Méthode</a>
             <span className="topbar-status">Archive locale / 2026</span>
           </nav>
@@ -3374,7 +3379,7 @@ export default function Home() {
               </button>
             </div>
             <div className="hero-stats" aria-label="Statistiques Game Note">
-              <div><strong>{guides.length}</strong><span>guides archivés</span></div>
+              <div><strong>{siteGuides.length}</strong><span>guides actifs</span></div>
               <div><strong>100%</strong><span>lecture locale</span></div>
               <div><strong>01</strong><span>repère à la fois</span></div>
             </div>
@@ -3396,7 +3401,7 @@ export default function Home() {
               />
               <span className="hero-focus-grid" aria-hidden="true" />
               <div className="hero-focus-caption">
-                <p>ROUTE À LA UNE / {String(guides.indexOf(heroActive) + 1).padStart(2, "0")}</p>
+                <p>ROUTE À LA UNE / {String(siteGuides.indexOf(heroActive) + 1).padStart(2, "0")}</p>
                 <h2>{heroActive.title}</h2>
                 <span>{heroActive.eyebrow} / {heroActive.count}</span>
               </div>
@@ -3405,7 +3410,7 @@ export default function Home() {
           </article>
 
           <div className="hero-index">
-            <div className="hero-index-heading"><span>INDEX / SÉLECTION</span><span>{String(heroGuides.length).padStart(2, "0")} / {String(guides.length).padStart(2, "0")}</span></div>
+            <div className="hero-index-heading"><span>INDEX / SÉLECTION</span><span>{String(heroGuides.length).padStart(2, "0")} / {String(siteGuides.length).padStart(2, "0")}</span></div>
             <ol>
               {heroGuides.map((guide, index) => (
                 <li key={guide.id}>
@@ -3423,7 +3428,7 @@ export default function Home() {
                 </li>
               ))}
             </ol>
-            <a className="hero-index-more" href="#guides">Voir les {guides.length} routes <span aria-hidden="true">→</span></a>
+            <a className="hero-index-more" href="#guides">Voir les {siteGuides.length} routes <span aria-hidden="true">→</span></a>
           </div>
         </div>
         <a className="hero-scroll" href="#method"><span>SCROLL / MÉTHODE</span><span className="hero-scroll-line" aria-hidden="true" /></a>
@@ -3488,7 +3493,7 @@ export default function Home() {
             ) : null}
           </div>
           <span className="catalog-count" aria-live="polite">
-            <strong>{visibleGuides.length}</strong> soluce{visibleGuides.length > 1 ? "s" : ""} sur {guides.length}
+            <strong>{visibleGuides.length}</strong> soluce{visibleGuides.length > 1 ? "s" : ""} sur {siteGuides.length}
             <em>A–Z</em>
           </span>
         </div>
@@ -3601,7 +3606,7 @@ export default function Home() {
               type="button"
               onClick={resetCatalog}
             >
-              Afficher les {guides.length} guides
+              Afficher les {siteGuides.length} guides
             </button>
           </div>
         )}

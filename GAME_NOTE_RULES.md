@@ -185,6 +185,17 @@ Le contrôle de site refuse une constante absente, mal formée ou non affichée
 dans la sortie Pages. Un contournement par `--no-verify` n'est acceptable que
 pour diagnostiquer un blocage, jamais pour livrer une modification.
 
+## Publication temporaire des fiches en réécriture
+
+Pendant la refonte de la méthode, le site ne publie que les deux références
+actives définies par `SITE_VISIBLE_GUIDE_IDS` dans `app/page.tsx` :
+`expedition-33` et `octopath` (Octopath Traveler 1). Les autres cartes, catalogues et TXT
+ne sont pas supprimés : ils restent conservés pour les futures réécritures,
+mais ne doivent pas être accessibles depuis l'index, la recherche, les boutons
+précédents/suivants ou le paramètre `guide` de l'URL. Toute réactivation devra
+être décidée après audit complet de la nouvelle méthode et accompagnée d'un
+contrôle de la fiche concernée.
+
 ## Lot interface immersive Game Note - 13 aout 2026
 
 - L'accueil peut utiliser une composition plein écran, une image de route et

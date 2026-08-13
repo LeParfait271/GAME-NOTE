@@ -379,3 +379,18 @@ une mise à jour qui change les succès ou le contenu, le guide repasse en
 - Limite : la configuration `core.hooksPath=.githooks` est locale au clone et
   doit être réactivée après un nouveau clone ; un commit sans hook doit être
   bloqué ou corrigé avant livraison.
+
+### Publication temporaire — Expedition 33 et Octopath Traveler 1
+
+- Décision : les anciennes soluces sont mises de côté pendant la refonte. Les
+  fichiers TXT et les données de catalogue sont conservés dans le dépôt, mais
+  l'interface ne publie temporairement que `expedition-33` et
+  `octopath` (Octopath Traveler 1).
+- Contrôle : `SITE_VISIBLE_GUIDE_IDS` pilote l'accueil, la recherche, les
+  filtres, la navigation entre fiches et les ouvertures par URL. Le garde-fou
+  vérifie que la sortie Pages ne contient exactement que deux cartes visibles.
+- Méthode : ces deux fiches sont les premiers guides reconstruits avec cinq
+  familles de sources, une matrice d'informations, une résolution des
+  contradictions et un audit final route/objets/succès.
+- Limite : aucune ancienne fiche ne doit être remise en ligne sur simple
+  demande de catalogue ; elle repasse par la nouvelle méthode avant publication.

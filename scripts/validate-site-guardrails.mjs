@@ -167,6 +167,15 @@ if (!page.includes("SITE_VERSION")) {
 if (packageJson?.scripts?.["version:bump"] !== "node scripts/bump-site-version.mjs") {
   fail("package.json: script version:bump absent ou incohérent.");
 }
+const siteVisibilityMatch = page.match(
+  /const SITE_VISIBLE_GUIDE_IDS = new Set\(\[([\s\S]*?)\]\);/,
+);
+const siteVisibleIds = siteVisibilityMatch
+  ? [...siteVisibilityMatch[1].matchAll(/"([^"]+)"/g)].map((match) => match[1])
+  : [];
+if (JSON.stringify(siteVisibleIds) !== JSON.stringify(["expedition-33", "octopath"])) {
+  fail("app/page.tsx: la publication temporaire doit rester limitée aux deux guides cibles.");
+}
 
 const guideBlockMatch = page.match(
   /const guides\s*:\s*Guide\[\]\s*=\s*\[([\s\S]*?)\n\];/,
@@ -457,6 +466,16 @@ if (await exists("dist/client/index.html")) {
     if (!versionPublished) {
       fail("dist/client: version du site absente de la sortie hydratée.");
     }
+  }
+  const visibleCardCount = (indexHtml.match(/class="guide-card-open"/g) ?? []).length;
+  if (visibleCardCount !== siteVisibleIds.length) {
+    fail(
+      "dist/client/index.html: " +
+        visibleCardCount +
+        " cartes visibles au lieu de " +
+        siteVisibleIds.length +
+        ".",
+    );
   }
   for (const fragment of [
     '<html lang="fr"',

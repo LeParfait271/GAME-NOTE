@@ -85,6 +85,11 @@ Ce fichier fixe la méthode minimale avant toute modification visible du site.
     `0.01` ; le hook `.githooks/pre-commit` le fait automatiquement et ajoute
     le fichier à l'index. Ne pas utiliser `--no-verify` pour contourner cette
     règle ; si le hook est absent, réactiver `core.hooksPath` avant de commit.
+24. Jusqu'à validation de la nouvelle méthode, la publication du site est
+    volontairement limitée à `expedition-33` et `octopath` (Octopath Traveler 1) via
+    `SITE_VISIBLE_GUIDE_IDS`. Les autres fiches et leurs TXT sont conservés
+    dans l'archive du dépôt, mais ne doivent apparaître ni dans l'index, ni
+    dans la recherche, ni dans les liens de navigation, ni par URL directe.
 
 Toute nouvelle règle durable doit être ajoutée à GAME_NOTE_RULES.md et
 transformée en validation automatique quand c'est possible.
