@@ -3270,10 +3270,13 @@ button.reader-neighbor:focus-visible {
 
 .portfolio-hero {
   position: relative;
+  isolation: isolate;
   min-height: 100svh;
   overflow: hidden;
   background: var(--hero-deep);
   color: var(--hero-cream);
+  --pointer-x: 50%;
+  --pointer-y: 46%;
 }
 
 .portfolio-hero::before {
@@ -3281,6 +3284,7 @@ button.reader-neighbor:focus-visible {
   inset: 0;
   z-index: 1;
   background:
+    radial-gradient(circle at var(--pointer-x) var(--pointer-y), rgba(239, 108, 83, 0.12), transparent 20rem),
     linear-gradient(90deg, rgba(5, 12, 16, 0.72), transparent 48%, rgba(5, 12, 16, 0.72)),
     linear-gradient(0deg, rgba(5, 12, 16, 0.86), transparent 35%, rgba(5, 12, 16, 0.42));
   content: "";
@@ -3329,6 +3333,151 @@ button.reader-neighbor:focus-visible {
   opacity: 0.72;
 }
 
+.hero-effects {
+  position: absolute;
+  inset: 0;
+  z-index: 2;
+  overflow: hidden;
+  pointer-events: none;
+}
+
+.hero-spotlight {
+  position: absolute;
+  top: var(--pointer-y);
+  left: var(--pointer-x);
+  width: min(38vw, 560px);
+  aspect-ratio: 1;
+  border-radius: 50%;
+  background: radial-gradient(circle, rgba(239, 108, 83, 0.17), transparent 66%);
+  filter: blur(10px);
+  opacity: 0.8;
+  transform: translate(-50%, -50%);
+  transition: left 180ms ease-out, top 180ms ease-out;
+}
+
+.hero-film-grain {
+  position: absolute;
+  inset: -50%;
+  background-image: radial-gradient(rgba(243, 237, 224, 0.22) 0.55px, transparent 0.7px);
+  background-size: 5px 5px;
+  mix-blend-mode: screen;
+  opacity: 0.11;
+  transform: rotate(7deg);
+  animation: hero-grain 0.34s steps(2) infinite;
+}
+
+.hero-scan-beam {
+  position: absolute;
+  top: -20%;
+  bottom: -20%;
+  left: 15%;
+  width: 1px;
+  background: linear-gradient(180deg, transparent, rgba(239, 108, 83, 0.8), transparent);
+  box-shadow: 0 0 24px rgba(239, 108, 83, 0.45);
+  opacity: 0.6;
+  animation: hero-scan 9s ease-in-out infinite;
+}
+
+.hero-route-trace {
+  position: absolute;
+  top: 15%;
+  right: 17%;
+  width: min(30vw, 420px);
+  height: 60%;
+  border: 1px solid rgba(239, 108, 83, 0.42);
+  border-color: rgba(239, 108, 83, 0.42) rgba(243, 237, 224, 0.18) transparent transparent;
+  border-radius: 50% 50% 45% 12%;
+  opacity: 0.42;
+  transform: rotate(-22deg) skewY(7deg);
+  animation: hero-route-float 12s ease-in-out infinite alternate;
+}
+
+.hero-route-node {
+  position: absolute;
+  width: 11px;
+  height: 11px;
+  border: 1px solid var(--hero-orange);
+  border-radius: 50%;
+  box-shadow: 0 0 0 5px rgba(239, 108, 83, 0.08), 0 0 24px rgba(239, 108, 83, 0.45);
+  animation: hero-node-pulse 2.8s ease-in-out infinite;
+}
+
+.hero-route-node-one {
+  top: 22%;
+  right: 34%;
+}
+
+.hero-route-node-two {
+  right: 23%;
+  bottom: 25%;
+  animation-delay: -1.3s;
+}
+
+.hero-crosshair {
+  position: absolute;
+  width: 58px;
+  height: 58px;
+  border: 1px solid rgba(243, 237, 224, 0.28);
+  border-radius: 50%;
+  opacity: 0.6;
+  animation: hero-crosshair-float 10s ease-in-out infinite alternate;
+}
+
+.hero-crosshair::before,
+.hero-crosshair::after {
+  position: absolute;
+  background: rgba(243, 237, 224, 0.45);
+  content: "";
+}
+
+.hero-crosshair::before {
+  top: 50%;
+  right: -13px;
+  left: -13px;
+  height: 1px;
+}
+
+.hero-crosshair::after {
+  top: -13px;
+  bottom: -13px;
+  left: 50%;
+  width: 1px;
+}
+
+.hero-crosshair-one {
+  top: 18%;
+  left: 43%;
+}
+
+.hero-crosshair-two {
+  right: 8%;
+  bottom: 17%;
+  width: 36px;
+  height: 36px;
+  animation-delay: -4s;
+}
+
+.hero-telemetry {
+  position: absolute;
+  color: rgba(243, 237, 224, 0.48);
+  font-family: var(--hero-mono);
+  font-size: 0.48rem;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  writing-mode: vertical-rl;
+}
+
+.hero-telemetry-top {
+  top: 25%;
+  left: 18px;
+}
+
+.hero-telemetry-bottom {
+  right: 18px;
+  bottom: 25%;
+  color: rgba(239, 108, 83, 0.66);
+}
+
 .portfolio-hero-topline,
 .portfolio-hero-grid,
 .hero-scroll {
@@ -3348,6 +3497,7 @@ button.reader-neighbor:focus-visible {
   font-size: 0.58rem;
   letter-spacing: 0.1em;
   text-transform: uppercase;
+  animation: hero-reveal-down 900ms var(--expo-out) both;
 }
 
 .portfolio-hero-topline span:first-child {
@@ -3371,6 +3521,7 @@ button.reader-neighbor:focus-visible {
 
 .portfolio-hero-copy {
   max-width: 620px;
+  animation: hero-reveal-up 900ms 100ms var(--expo-out) both;
 }
 
 .hero-kicker,
@@ -3519,10 +3670,12 @@ button.reader-neighbor:focus-visible {
   align-self: center;
   width: min(100%, 280px);
   justify-self: center;
+  animation: hero-focus-in 1000ms 220ms var(--expo-out) both;
 }
 
 .hero-focus-frame {
   position: relative;
+  isolation: isolate;
   aspect-ratio: 0.76;
   overflow: hidden;
   border: 1px solid rgba(243, 237, 224, 0.54);
@@ -3532,19 +3685,48 @@ button.reader-neighbor:focus-visible {
   transition: transform 300ms var(--expo-out), box-shadow 300ms var(--expo-out);
 }
 
+.hero-focus-frame::before {
+  position: absolute;
+  inset: -30%;
+  z-index: 2;
+  background: linear-gradient(105deg, transparent 43%, rgba(243, 237, 224, 0.38) 50%, transparent 57%);
+  content: "";
+  opacity: 0;
+  transform: translateX(-62%) rotate(8deg);
+  transition: opacity 200ms ease, transform 650ms var(--expo-out);
+}
+
+.hero-focus-frame::after {
+  position: absolute;
+  inset: 13px;
+  z-index: 3;
+  border: 1px solid rgba(243, 237, 224, 0.26);
+  content: "";
+  pointer-events: none;
+}
+
 .hero-focus-frame:hover,
 .hero-focus:focus-within .hero-focus-frame {
   box-shadow: 8px 10px 0 rgba(239, 108, 83, 0.55), 0 30px 90px rgba(0, 0, 0, 0.42);
   transform: rotate(0deg) translateY(-7px);
 }
 
+.hero-focus-frame:hover::before,
+.hero-focus:focus-within .hero-focus-frame::before {
+  opacity: 1;
+  transform: translateX(62%) rotate(8deg);
+}
+
 .hero-focus-art {
+  position: relative;
+  z-index: 0;
   display: block;
   width: 100%;
   height: 100%;
   object-fit: cover;
   filter: saturate(0.72) contrast(1.08) brightness(0.72);
   transition: filter 300ms ease, transform 500ms var(--expo-out);
+  animation: hero-art-in 650ms var(--expo-out) both;
 }
 
 .hero-focus-frame:hover .hero-focus-art,
@@ -3556,6 +3738,7 @@ button.reader-neighbor:focus-visible {
 .hero-focus-grid {
   position: absolute;
   inset: 0;
+  z-index: 1;
   background:
     linear-gradient(to right, rgba(243, 237, 224, 0.12) 1px, transparent 1px),
     linear-gradient(to bottom, rgba(243, 237, 224, 0.12) 1px, transparent 1px),
@@ -3569,6 +3752,7 @@ button.reader-neighbor:focus-visible {
   right: 18px;
   bottom: 17px;
   left: 18px;
+  z-index: 4;
   color: var(--hero-cream);
 }
 
@@ -3610,6 +3794,7 @@ button.reader-neighbor:focus-visible {
 .hero-index {
   align-self: center;
   min-width: 0;
+  animation: hero-reveal-up 900ms 320ms var(--expo-out) both;
 }
 
 .hero-index-heading {
@@ -3636,6 +3821,7 @@ button.reader-neighbor:focus-visible {
 }
 
 .hero-index button {
+  position: relative;
   display: grid;
   width: 100%;
   grid-template-columns: 30px minmax(0, 1fr) 18px;
@@ -3645,8 +3831,32 @@ button.reader-neighbor:focus-visible {
   background: transparent;
   color: var(--hero-cream);
   cursor: pointer;
+  overflow: hidden;
   text-align: left;
   transition: padding 180ms ease, color 180ms ease;
+}
+
+.hero-index button::before {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  width: 2px;
+  background: var(--hero-orange);
+  content: "";
+  transform: scaleY(0);
+  transform-origin: bottom;
+  transition: transform 220ms var(--expo-out);
+}
+
+.hero-index button::after {
+  position: absolute;
+  inset: 0;
+  background: linear-gradient(90deg, rgba(239, 108, 83, 0.13), transparent 60%);
+  content: "";
+  opacity: 0;
+  transform: translateX(-18%);
+  transition: opacity 220ms ease, transform 320ms var(--expo-out);
 }
 
 .hero-index button:hover,
@@ -3655,6 +3865,24 @@ button.reader-neighbor:focus-visible {
   padding-right: 8px;
   padding-left: 8px;
   color: var(--hero-orange);
+}
+
+.hero-index button:hover::before,
+.hero-index button:focus-visible::before,
+.hero-index button.is-active::before {
+  transform: scaleY(1);
+}
+
+.hero-index button:hover::after,
+.hero-index button:focus-visible::after,
+.hero-index button.is-active::after {
+  opacity: 1;
+  transform: translateX(0);
+}
+
+.hero-index button > * {
+  position: relative;
+  z-index: 1;
 }
 
 .hero-index-number {
@@ -3850,9 +4078,67 @@ button.reader-neighbor:focus-visible {
   50% { opacity: 1; transform: scaleX(1); }
 }
 
+@keyframes hero-reveal-down {
+  from { opacity: 0; transform: translateY(-18px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+
+@keyframes hero-reveal-up {
+  from { opacity: 0; transform: translateY(28px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+
+@keyframes hero-focus-in {
+  from { opacity: 0; transform: translateY(34px) rotate(7deg) scale(0.94); }
+  to { opacity: 1; transform: translateY(0) rotate(2.2deg) scale(1); }
+}
+
+@keyframes hero-art-in {
+  from { opacity: 0; transform: scale(1.14); }
+  to { opacity: 1; transform: scale(1); }
+}
+
+@keyframes hero-grain {
+  0% { transform: translate3d(-2%, -1%, 0) rotate(7deg); }
+  50% { transform: translate3d(1%, 2%, 0) rotate(7deg); }
+  100% { transform: translate3d(2%, -2%, 0) rotate(7deg); }
+}
+
+@keyframes hero-scan {
+  0%, 14% { left: 8%; opacity: 0; }
+  24% { opacity: 0.6; }
+  76% { opacity: 0.6; }
+  86%, 100% { left: 92%; opacity: 0; }
+}
+
+@keyframes hero-route-float {
+  from { transform: rotate(-22deg) skewY(7deg) translate3d(-8px, 4px, 0); }
+  to { transform: rotate(-18deg) skewY(7deg) translate3d(8px, -7px, 0); }
+}
+
+@keyframes hero-node-pulse {
+  0%, 100% { box-shadow: 0 0 0 5px rgba(239, 108, 83, 0.08), 0 0 24px rgba(239, 108, 83, 0.35); }
+  50% { box-shadow: 0 0 0 9px rgba(239, 108, 83, 0.03), 0 0 34px rgba(239, 108, 83, 0.72); }
+}
+
+@keyframes hero-crosshair-float {
+  from { transform: translate3d(-5px, 4px, 0) rotate(-5deg); }
+  to { transform: translate3d(8px, -7px, 0) rotate(7deg); }
+}
+
 @media (prefers-reduced-motion: reduce) {
   .portfolio-hero-media img,
-  .hero-scroll-line {
+  .hero-scroll-line,
+  .hero-film-grain,
+  .hero-scan-beam,
+  .hero-route-trace,
+  .hero-route-node,
+  .hero-crosshair,
+  .portfolio-hero-topline,
+  .portfolio-hero-copy,
+  .hero-focus,
+  .hero-focus-art,
+  .hero-index {
     animation: none;
   }
 }
@@ -3880,6 +4166,18 @@ button.reader-neighbor:focus-visible {
 }
 
 @media screen and (max-width: 680px) {
+  .hero-route-trace,
+  .hero-route-node,
+  .hero-crosshair,
+  .hero-telemetry {
+    display: none;
+  }
+
+  .hero-spotlight {
+    width: 24rem;
+    opacity: 0.5;
+  }
+
   .site-shell:not(.is-reader-mode) .topbar {
     width: calc(100% - 30px);
     min-height: 70px;

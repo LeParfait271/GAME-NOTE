@@ -1,6 +1,6 @@
 "use client";
 
-import { useEffect, useMemo, useRef, useState } from "react";
+import { type PointerEvent, useEffect, useMemo, useRef, useState } from "react";
 import GuideReader from "./GuideReader";
 import { SITE_VERSION } from "./site-version";
 
@@ -3026,6 +3026,20 @@ export default function Home() {
   const selected = guides.find((guide) => guide.id === selectedId) ?? guides[0];
   const heroActive = guides.find((guide) => guide.id === heroActiveId) ?? guides[0];
   const heroGuides = guides.slice(0, 7);
+  const handleHeroPointerMove = (event: PointerEvent<HTMLElement>) => {
+    if (event.pointerType === "touch") return;
+
+    const bounds = event.currentTarget.getBoundingClientRect();
+    const x = ((event.clientX - bounds.left) / bounds.width) * 100;
+    const y = ((event.clientY - bounds.top) / bounds.height) * 100;
+
+    event.currentTarget.style.setProperty("--pointer-x", `${x}%`);
+    event.currentTarget.style.setProperty("--pointer-y", `${y}%`);
+  };
+  const handleHeroPointerLeave = (event: PointerEvent<HTMLElement>) => {
+    event.currentTarget.style.setProperty("--pointer-x", "50%");
+    event.currentTarget.style.setProperty("--pointer-y", "46%");
+  };
   const alphabeticalGuides = useMemo(() => sortGuidesAlphabetically(guides), []);
   const selectedIndex = alphabeticalGuides.findIndex((guide) => guide.id === selected.id);
   const previousGuide = selectedIndex > 0 ? alphabeticalGuides[selectedIndex - 1] : undefined;
@@ -3312,7 +3326,12 @@ export default function Home() {
       ) : null}
 
       {!readerMode ? <>
-      <section className="portfolio-hero" aria-labelledby="hero-title">
+      <section
+        className="portfolio-hero"
+        aria-labelledby="hero-title"
+        onPointerMove={handleHeroPointerMove}
+        onPointerLeave={handleHeroPointerLeave}
+      >
         <div className="portfolio-hero-media" aria-hidden="true">
           {/* eslint-disable-next-line @next/next/no-img-element */}
           <img
@@ -3323,6 +3342,18 @@ export default function Home() {
             fetchPriority="high"
           />
           <span className="portfolio-hero-wash" />
+        </div>
+        <div className="hero-effects" aria-hidden="true">
+          <span className="hero-spotlight" />
+          <span className="hero-film-grain" />
+          <span className="hero-scan-beam" />
+          <span className="hero-route-trace" />
+          <span className="hero-route-node hero-route-node-one" />
+          <span className="hero-route-node hero-route-node-two" />
+          <span className="hero-crosshair hero-crosshair-one" />
+          <span className="hero-crosshair hero-crosshair-two" />
+          <span className="hero-telemetry hero-telemetry-top">ROUTE SYSTEM / 186</span>
+          <span className="hero-telemetry hero-telemetry-bottom">SIGNAL / LOCAL ARCHIVE</span>
         </div>
         <div className="portfolio-hero-topline">
           <span>GAME NOTE / FIELD MANUAL</span>
@@ -3354,6 +3385,7 @@ export default function Home() {
               {/* eslint-disable-next-line @next/next/no-img-element */}
               <img
                 className="hero-focus-art"
+                key={heroActive.id}
                 src={heroActive.artworkUrl ?? steamHeaderUrl(heroActive.steamAppId)}
                 alt={`Illustration de la route ${heroActive.title}`}
                 width={460}

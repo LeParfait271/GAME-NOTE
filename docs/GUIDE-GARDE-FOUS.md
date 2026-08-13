@@ -348,6 +348,23 @@ une mise à jour qui change les succès ou le contenu, le guide repasse en
   contenu des guides ; une revue visuelle manuelle sur appareils reels reste
   a refaire lors d'une prochaine passe de responsive.
 
+## Lot effets immersifs de l'accueil - 13 aout 2026
+
+- Perimetre : enrichir le premier ecran sans toucher aux donnees des guides ni
+  au lecteur de soluces.
+- Composition : la couche d'effets ajoute une lumiere reactive au pointeur, un
+  grain discret, un faisceau de scan, une trace de route, deux reperes de visee
+  et des transitions d'entree/changement d'artwork.
+- Interaction : l'index conserve ses boutons et son focus clavier ; son etat
+  actif expose la meme route que l'action souris, avec un repli visuel local
+  pour les artworks Steam.
+- Accessibilite : les effets sont decoratifs, desactives ou neutralises par
+  `prefers-reduced-motion`, et ne masquent jamais titre, index ou CTA.
+- Validation : la passe doit etre relue en localhost sur grand et petit ecran,
+  puis controlee par lint, build, preflight et smoke tests avant commit.
+- Limite : l'effet de lumiere est une amelioration d'ambiance, pas un signal
+  fonctionnel ; la page doit rester lisible si aucun mouvement n'est affiche.
+
 ### Version éditoriale — règle ajoutée le 13 août 2026
 
 - Source unique : `app/site-version.ts`, affichée dans le pied de page au

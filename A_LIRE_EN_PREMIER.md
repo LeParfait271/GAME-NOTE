@@ -88,3 +88,8 @@ Ce fichier fixe la méthode minimale avant toute modification visible du site.
 
 Toute nouvelle règle durable doit être ajoutée à GAME_NOTE_RULES.md et
 transformée en validation automatique quand c'est possible.
+
+24. Les effets de l'accueil immersif sont des améliorations progressives : le
+    grain, la lumière, le scan et les transitions ne doivent jamais remplacer
+    le titre, l'index, les boutons ou l'information de route. Tester aussi
+    `prefers-reduced-motion`, le clavier et le petit écran avant de les livrer.

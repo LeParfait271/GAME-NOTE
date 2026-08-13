@@ -196,3 +196,18 @@ pour diagnostiquer un blocage, jamais pour livrer une modification.
   repli afin de ne pas rendre l'accueil vide hors ligne ou sur reseau lent.
 - Un lot d'interface doit repasser par lint, build, preflight et smoke tests
   avant le commit ; la sortie Pages et le cache hors ligne restent controles.
+
+## Lot effets immersifs de l'accueil - 13 aout 2026
+
+- Perimetre : profondeur visuelle du hero uniquement ; les guides, le catalogue,
+  la recherche, le mode lecteur et les donnees existantes restent inchanges.
+- Effets ajoutes : lumiere reactive au pointeur, grain anime, faisceau de scan,
+  reperes de route, entree progressive, transition d'artwork et etat actif de
+  l'index renforce.
+- Garde-fou : chaque effet reste decoratif et non bloquant ; l'information et
+  les controles restent presents lorsque les animations sont reduites, au
+  clavier ou sur petit ecran.
+- Controle attendu : verifier le rendu reel en localhost sur desktop et mobile,
+  puis relancer lint, build, preflight et les smoke tests avant le commit.
+- Limite : la lumiere suit le pointeur uniquement sur une surface compatible ;
+  aucun effet ne doit etre considere comme une dependance du contenu hors ligne.
