@@ -444,9 +444,6 @@ contrôle de la fiche concernée.
   les messages hors ligne et les erreurs de route restent des statuts utiles.
 - Le hero peut afficher le dernier guide réellement ouvert en rouge et un
   historique local de cinq guides maximum en jaune, dans l'ordre d'utilisation.
-- La reprise depuis le hero doit rester une ouverture locale, sans modifier les repères du guide.
-- Le bouton de reprise et une entrée de l'historique doivent ouvrir la même
-  fiche que la bibliothèque, sans créer une navigation parallèle.
 - Le contrôle couvre l'entrée, le hero, la bibliothèque, le lecteur, le clavier,
   le mobile, puis lint, build, preflight et smoke.
 ### Couverture cartographique étendue OT0 — 13 août 2026
@@ -455,3 +452,14 @@ contrôle de la fiche concernée.
   des 37 cartes directes.
 - Les deux niveaux de source doivent rester distincts : un lien aide à naviguer,
   mais ne prouve pas qu'un écran a été relu ou qu'un coffre a été ouvert.
+
+### Contrôle de précision des boss OT0 — 13 août 2026
+
+- Une fiche OT0 complète doit fournir une préparation, les faiblesses par
+  phase, la mécanique qui tue ou bloque le groupe, l'ordre des cibles et le
+  point de reprise lorsqu'ils sont établis par les sources.
+- Les combats principaux de la route doivent renvoyer vers le dossier boss du
+  TXT ; la liste de succès seule ne constitue pas une solution jouable.
+- Les coffres gardés par un élite restent séparés des fiches de boss et du
+  compteur 454 : le type de rencontre ne doit pas être changé pour remplir une
+  checklist.

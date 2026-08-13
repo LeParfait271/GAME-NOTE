@@ -196,6 +196,353 @@ COMBAT ET PROGRESSION
   pas huit personnages simplement recrutés.
 
 ================================================================
+FICHES BOSS — PRÉPARATION, FAIBLESSES ET MÉCANIQUES
+================================================================
+
+Cette section complète la route : elle ne remplace pas les coffres ni les
+étapes de quête. Les faiblesses sont données dans l'ordre où les guides de
+combat les révèlent ; une flèche indique un changement de set après un break
+ou une phase. Quand le jeu masque une faiblesse, utilise Analyze plutôt que de
+dépenser plusieurs tours au hasard. Une fiche n'est cochée qu'après le combat
+et après l'ouverture du coffre gardé lorsqu'il y en a un.
+
+RÈGLE COMMUNE AVANT UN BOSS
+
+- [ ] Archive manuellement devant le point de sauvegarde ou la porte.
+- [ ] Place au moins un soigneur et un personnage capable de restaurer les HP
+  de la rangée de réserve ; avec huit voyageurs, alterne les rangées au lieu
+  de laisser un personnage faible au premier plan.
+- [ ] Garde des BP pour casser une attaque chargée. Un boss qui brille ou
+  affiche un compte à rebours doit être brisé avant son tour dangereux.
+- [ ] Prépare les remèdes du statut annoncé dans la fiche : Herb of Valor pour
+  Terror/Dread, Herb of Vigor pour Paralysis et Inspiriting Plum pour les
+  combats qui drainent les SP.
+- [ ] Après un break, dépense le boost sur la faiblesse encore ouverte ; ne
+  consomme pas tous les BP sur une attaque qui ne touche pas les boucliers.
+
+FICHES B-01 À B-04 — PROLOGUE ET KINDLERS
+
+B-01 — EMERALD DIREWOLF — CERULEAN CAVERNS
+
+- Faiblesses : Sword, Bow.
+- Plan : Phenn utilise Repeated Shot pour retirer plusieurs boucliers ; Stia
+  reste en soutien avec First Aid. L'objectif est de briser rapidement, puis de
+  lancer le meilleur coup boosté disponible pendant l'étourdissement.
+- Contrôle : ne quitte pas la caverne sans la sauvegarde de boss ni le coffre
+  Azure Flamestone. Le second Emerald Direwolf est une autre fiche, avec un
+  set de faiblesses plus large.
+
+B-02 — SPIKED SKINK — SNOWSHARD GROTTO
+
+- Faiblesses : Sword, Dagger, Bow, Tome, Lightning.
+- Plan : concentre toute l'équipe sur un Skink à la fois ; les attaques de zone
+  ne sont intéressantes que si elles cassent au moins un bouclier par cible.
+  Stia soigne dès qu'un personnage tombe sous la moitié de ses HP.
+- Contrôle : le combat n'est pas le coffre bleu du Frostwing Serpent ; coche
+  séparément le coffre gardé par l'élite et son Giant Bow.
+
+B-03 — LIZARDMEN LEADER — FINESAND RUINS
+
+- Faiblesses : Sword, Bow, Staff, Ice, Dark.
+- Plan : bats d'abord les trois Desert Lizardking I, puis le Leader et ses deux
+  renforts. Réduis sa vitesse si possible et garde des Herbs of Healing pour le
+  Poison ; un break sur le chef avant les renforts rallonge inutilement le
+  combat.
+- Contrôle : vérifie le coffre bleu Wild Knives Mastery et le coffre de Stronger
+  Strikes avant de quitter les ruines.
+
+B-04 — EMERALD DIREWOLF, SECOND FIGHT — PATH TO THE FLAMEBEARER'S SHRINE
+
+- Faiblesses : Sword, Bow, Staff, Wind, Ice, Dark.
+- Plan : garde les attaques élémentaires pour les tours où les armes ne sont
+  pas disponibles, renforce la défense élémentaire et fais tourner Stia ou un
+  second soigneur. Utilise le boost uniquement après le break.
+- Contrôle : le combat clôt Kindlers 5 ; rapporte ensuite l'Azure Flamestone et
+  améliore la Church au rang 3 avant la tournée des coffres bleus.
+
+FICHES B-05 À B-13 — LES TROIS MASTERS
+
+B-05 — CAPTAIN TRISTAN — MASTER OF WEALTH 1
+
+- Faiblesses : Fire, Dark ; 9 boucliers. Récompense : Old Armor.
+- Plan : élimine les deux Mercenaries en premier. Quand Tristan utilise Takes
+  Aim, garde une attaque multi-hit ou des BP pour briser ses boucliers avant le
+  tir chargé.
+- Préparation : vise au moins le niveau 10 et plus de trois voyageurs ; retourne
+  à Valore pour acheter des soins si le combat est déclenché trop tôt.
+
+B-06 — SONIA — MASTER OF WEALTH 2
+
+- Faiblesses : Lightning, Wind ; 15 boucliers. Récompense : HP Thief Mastery.
+- Plan : elle frappe plusieurs fois et pose Paralysis. Emporte des Herbs of
+  Vigor ; place un personnage paralysé en arrière pour le protéger et le
+  remplacer plutôt que de perdre un tour de break.
+- Contrôle : la zone reste accessible après l'échec ; tu peux sortir, recruter,
+  monter le groupe et revenir sans perdre le chapitre.
+
+B-07 — LADY HERMINIA / HERMINIA THE HUNTRESS — MASTER OF WEALTH 3
+
+- Première forme : Lady Herminia est faible aux Dagger, Axe, Tome, Lightning et
+  Dark. La Lady-In-Waiting est faible aux Axe, Bow, Staff, Fan et Wind.
+- Deuxième forme : Herminia the Huntress conserve Dagger, Axe, Tome, Lightning
+  et Dark ; ses boucliers augmentent après chaque récupération. Récompense :
+  Radiant Arrow Mastery.
+- Plan : brise Herminia en priorité ; la guérison de la Lady-In-Waiting est
+  faible. Quand les Manifestations of Mental Decay apparaissent, détruis-les
+  avant la fin de leur compte à rebours. Si une manifestation utilise
+  All-Attack Counter Stance, ne l'attaque pas jusqu'à la fin de l'effet ; si
+  Herminia est presque vaincue, termine-la pour mettre fin au combat.
+- Contrôle : la victoire débloque Draefendi's Rage et Ring of the Huntress.
+
+B-08 — AL THE SERVANT — MASTER OF POWER 1
+
+- Faiblesses : Sword, Dagger, Axe, Staff, Wind, Light ; 8 boucliers. Récompense :
+  Protective Earring.
+- Plan : prévois deux soigneurs ou un soigneur et une réserve complète. Wild
+  Ebony Claw peut toucher plusieurs fois la même cible ; garde les HP hauts et
+  des Olives of Life. Velnorte fournit buffs et soins : profite de ses tours au
+  lieu de jouer uniquement offensif.
+
+B-09 — JURGEN — MASTER OF POWER 2
+
+- Faiblesses : Sword, Axe, Bow, Tome, Dark.
+- Plan : bats les Scarlet Wings avant Jurgen, puis exploite les multi-hits. Si
+  la pression monte, Aelfric's Favor permet de reprendre le contrôle du tour ;
+  ne laisse pas le chef agir avec ses renforts.
+
+B-10 — SNOW YAKS — MASTER OF POWER 3
+
+- Faiblesses : Sword, Axe, Fire, Light.
+- Plan : sauvegarde avant le chasseur. Concentre les huit voyageurs sur un Yak,
+  ou utilise une zone seulement si elle ne retarde pas le premier break. Prépare
+  une guérison de Silence et alterne les rangées pendant les charges.
+
+B-11 — COMMANDER TYTOS / TYTOS THE THUNDERBLADE
+
+- Faiblesses : Wind, Light ; 17 boucliers pour Commander Tytos, puis 19/21/25
+  pour les phases de Tytos. Récompense : Brutal Sweep Mastery.
+- Plan : remplis les rangées de réserve, achète plusieurs Herbs of Valor et
+  garde des BP pour les breaks. Rule by Fear inflige Terror et empêche le gain
+  de BP ; soigne ce statut sur les personnages qui cassent.
+- Phase 2 : Tytos pose une barrière qui retire 1 BP par tour aux personnages de
+  la première rangée. Les personnages restés en arrière continuent à charger :
+  échange-les au moment du multi-hit, brise la barrière avec les faiblesses
+  Wind/Light, puis lance les attaques boostées.
+
+B-12 — AIDES ET FRANCESCA — MASTER OF FAME 1-2
+
+- Aide Vanguard : Ice, Dark ; Aide Rearguard : Light, Dark. Les deux ont peu de
+  boucliers : concentre le feu sur une cible ou utilise Duskfall pour toucher
+  les deux.
+- Francesca the Actress : Sword, Dagger, Bow, Tome, Lightning, Fire ;
+  récompense Song of Nightfall Mastery. Accuracy Down et Phys. Atk. Down
+  réduisent sa pression ; elle peut drainer les SP avec Song of a Broken Soul,
+  donc emporte des Inspiriting Plums.
+- Contrôle : les deux Battle Music Scores de la villa sont un contrôle de
+  trésor séparé, pas un objectif de boss.
+
+B-13 — AUGUSTE THE PLAYWRIGHT / PRINCE OF THIEVES
+
+- Première forme : Sword, Polearm, Axe, Ice, Dark ; 13 boucliers. Fatal
+  Sentence tue la cible au terme de six tours : brise Auguste avant la fin du
+  compteur.
+- Deuxième forme : Auguste change de set dans l'ordre Ice/Dark, Lightning/Light,
+  Lightning/Fire, puis Wind/Fire. La Ruinous Rancor reste faible à Ice/Dark.
+- Plan : détruis ou brise la Ruinous Rancor dès son apparition pour supprimer
+  sa zone dangereuse ; Alexia et Duskblight touchent les deux cibles. Utilise
+  Analyze après chaque changement de faiblesse, puis casse le boss avant
+  Ire of the Prince of Thieves.
+- Contrôle : la victoire donne Ring of the Prince of Thieves ; ne confonds pas
+  ce combat avec le coffre de la bibliothèque.
+
+FICHES B-14 À B-19 — MASTER OF ALL
+
+B-14 — M'SUHI THE VIPER — MASTER OF ALL 2
+
+- Faiblesses par phase : Fire/Light, puis Lightning/Ice, puis Wind/Light.
+- Plan : conserve au moins une source de chaque élément dans les deux rangées,
+  puis casse les renforts avec une attaque de zone avant de vider le bouclier de
+  M'suhi. N'engage pas la discussion avec le général sans sauvegarde : la scène
+  lance immédiatement le combat.
+
+B-15 — CERRO THE EMISSARY — MASTER OF ALL 4
+
+- Faiblesses : Polearm, Axe, Fan, Fire, Dark.
+- Plan : prévois une solution contre Paralysis et baisse son attaque physique.
+  Les attaques de Fan/Fire sont utiles pour casser sans épuiser les BP des
+  personnages réservés aux soins.
+
+B-16 — GONZALEZ ET GENERAL KRAUSER — MASTER OF ALL 5
+
+- Gonzalez : Sword, Dagger, Tome, Wind, Ice. Ram repousse une cible en arrière.
+  Quand sa vie baisse, War Cry augmente son attaque et ses boucliers passent à
+  19 : garde un Donate BP ou un gros multi-hit pour le casser immédiatement.
+- General Krauser dans Valley of Death : Lightning/Dark ; ses subordonnés sont
+  faibles à Wind/Fire. Dans la rencontre de la porte, Krauser répond aussi aux
+  Sword, Axe, Fan, Lightning et Dark.
+- Plan : tue les deux subordonnés en premier ; ils peuvent empêcher les attaques
+  de faiblesse sur Krauser. Phys. Atk. Down rend les deux rencontres beaucoup
+  plus sûres.
+
+B-17 — GONSKA THE JESTER — MASTER OF ALL 7
+
+- Faiblesses : Ice, Light ; récompense Arcane Explosion Mastery.
+- Plan : Bewitchment pose No Switch pendant trois tours. Garde donc une source
+  d'Ice/Light dans chaque rangée, maintiens les HP hauts et ne déplace pas ton
+  unique soigneur au premier plan avant le break.
+
+B-18 — KING PARDIS III / PARDIS THE SCHOLARKING / MASTER OF ALL
+
+- Préparation : bats les trois Edoras Defenders avant la salle du trône et
+  stocke des Herbs of Valor : les attaques de Pardis infligent Dread et bloquent
+  le gain de BP.
+- Sets de King Pardis III : Ice/Light, puis Fire/Light, puis Ice/Light.
+- Sets de Pardis the Scholarking : Ice/Light, Fire/Light, Ice/Light,
+  Lightning/Light, puis Wind/Light.
+- Sets de Master of All : Ice/Light, Fire/Light, Wind/Ice/Light,
+  Lightning/Fire/Light, puis Wind/Light.
+- Plan : équipe au moins une source de Light et une source Ice/Fire/Wind dans
+  chaque rangée. Ne vide pas tous les BP sur la première forme : la vraie
+  séquence est un combat en trois formes et la dernière demande encore des
+  breaks après le changement de boucliers.
+
+B-19 — RING-SEALED BEAST / SAZANTOS
+
+- [ ] Archive avant Wishvale Trail. Les combats de Sazantos arrivent après la
+  scène de scellement et ne doivent pas être lancés avec des rangées affaiblies.
+- [ ] Utilise les trois anneaux obtenus comme repères de progression, garde les
+  soins de groupe pour Transcendent Light et remplace immédiatement un soutien
+  touché par plusieurs attaques aléatoires.
+- [ ] Après la victoire, vérifie les trois anneaux et la présence temporaire de
+  Sazantos avant de commencer Master of All.
+
+FICHES B-20 À B-24 — BESTOWER OF WEALTH, POWER ET FAME
+
+B-20 — CAPTAIN NA'GU — BESTOWER OF POWER 1
+
+- Faiblesses : Sword, Bow, Fan, Lightning, Wind, Ice, Fire, Light, Dark.
+- Plan : les neuf types sont ouverts, donc choisis les attaques multi-hit les
+  moins coûteuses et élimine les Cavalries avec une zone. Le but est d'éviter
+  plusieurs attaques physiques simultanées, pas de conserver un élément précis.
+
+B-21 — PELAGIA / TATLOCH — BESTOWER OF POWER 2-3
+
+- Pelagia : Dagger, Staff, Tome, Ice. Suis manuellement les boucliers au lieu de
+  supposer qu'une attaque de zone touche toujours la faiblesse active.
+- Empress Tatloch sur le navire : Polearm, Axe, Staff, Lightning ; bats d'abord
+  Maa'fa the Black Panther.
+- Tatloch : Sword, Polearm, Tome, Lightning, Fire. Brise-la pour interrompre
+  Life Absorption, puis soigne le Poison avec Herbs of Healing. Récompense de
+  route : Ring of the Lady of Grace.
+
+B-22 — MONSTER (MAN/WOMAN) ET MONARIS — BESTOWER OF FAME 1
+
+- Monster Man : Dagger, Bow, Staff, Fire, Light. Monster Woman : Sword,
+  Polearm, Tome, Ice, Light. Concentre les dégâts sur Woman en premier, puis
+  conserve les buffs/debuffs pour Monaris.
+- Monaris the Monstrous : Sword, Axe, Fan, Lightning, Dark. Brise avant la fin
+  du compte à rebours ; prépare Aelfric's Favor contre Silence.
+- Contrôle : le combat de l'Inner Chambers est une séquence à deux cibles puis
+  Monaris ; garde SP et consommables pour le troisième combat.
+
+B-23 — TOWERING IDOL / CERAPHINA
+
+- Le Towering Idol interdit l'usage de la magie pendant son combat : équipe des
+  attaques d'armes, des soins d'objet et des passifs de survie avant l'entrée.
+- Après le combat, soigne et sauvegarde avant Ceraphina. Ne dépense pas les
+  dernières ressources du donjon sur l'élite précédente ; la rencontre finale
+  de Fame arrive immédiatement après la zone.
+
+B-24 — OSKHA THE HAVE-NOT / OSKHA THE TRADER — BESTOWER OF WEALTH 3
+
+- Première partie : exploite les faiblesses affichées par Analyze et interrompt
+  les charges ; Bargello apporte un soutien de rangée mais ne remplace pas un
+  soigneur.
+- Seconde partie : Thou shall have not... pose Stillness Field et bloque les
+  compétences jusqu'au break. Fais casser la cible avec les attaques gratuites,
+  puis réactive les compétences dès que le champ disparaît.
+- Plan : garde une réserve de BP pour la reprise après chaque break ; un tour
+  d'attaque sans compétence est souvent préférable à un soin manqué.
+
+FICHES B-25 À B-31 — BESTOWER OF ALL ET POST-GAME
+
+B-25 — FALLEN MAHREZ — BESTOWER OF ALL 1
+
+- Faiblesse : Wind. Sauvegarde avant d'atteindre l'extrémité nord de Hell Geist
+  Canyon : Signa invoque le boss dès la scène. Débuffe l'attaque physique et
+  garde une source de Wind dans chaque rangée.
+
+B-26 — CURSED COMMANDER TYTOS — GATE OF FINIS
+
+- Faiblesses : Polearm, Bow, Tome, Ice, Light ; 25 boucliers.
+- Plan : brise immédiatement pour empêcher la boucle de Terror et conserve des
+  soins pour les personnages de la première rangée. C'est un nouveau combat,
+  pas la reprise de la fiche B-11 : recompose l'équipe après les corridors.
+
+B-27 — CURSED LADY HERMINIA / FALLEN FRANCESCA / CURSED MASTER AUGUSTE
+
+- Cursed Lady Herminia : Dagger, Axe, Tome, Lightning, Wind ; brise avant
+  Mindrot Powder.
+- Fallen Francesca : Polearm, Bow, Fan, Lightning, Fire ; utilise des attaques
+  multi-hit et évite de gaspiller les BP sur une cible hors faiblesse.
+- Cursed Master Auguste : Sword, Bow, Fan, Ice, Light. Cure les altérations et
+  casse-le avant le compteur de mort ; ces trois combats se suivent dans les
+  dominions, donc soigne entre les salles et archive avant le dernier.
+
+B-28 — SAZANTOS, SIGN(A) ET CARDINAL TERAGRAF
+
+- Signa est faible à Sword, Polearm, Axe, Ice, Light ; la briser retire la
+  protection qui couvre Sazantos.
+- Sazantos est faible à Polearm, Fan, Lightning, Ice, Light. Cardinal Teragraf
+  répond à Sword, Fire et Dark.
+- Plan : ne force pas la phase de Sazantos tant que Signa est debout. Garde une
+  attaque de Light/Ice pour les breaks et une solution de soin de rangée pour
+  les attaques aléatoires.
+
+B-29 — LES TROIS SACRED BEASTS ET SAINT SAZANTOS
+
+- Sacred Beast of the Seas : Polearm, Axe, Lightning, Dark.
+- Sacred Beast of the Sands : Sword, Dagger, Fire, Dark.
+- Sacred Beast of the Skies : Polearm, Bow, Ice, Dark.
+- Saint Sazantos : Polearm, Bow, Staff, Lightning, Wind, Ice. La route enchaîne
+  les combats : garde des BP sur les premiers beasts et soigne avant de passer
+  au boss suivant. Dans ses modes Light/Dark, alterne défense et break au lieu
+  de maintenir la même rangée sous ses attaques aléatoires.
+
+B-30 — BESTOWER OF ALL — FIN STANDARD
+
+- Déroulement : détruis les trois anneaux Prince of Thieves, Thunderblade et
+  Huntress, puis le Ring of the Scholarking, puis le dernier ensemble d'anneaux,
+  avant les formes de Sazantos/Bestower of All. Les anneaux posent Poison,
+  Sleep ou Paralysis ; priorise Prince of Thieves lorsqu'il prépare Mass Fatal
+  Sentence.
+- Faiblesses utiles des anneaux : Prince of Thieves Wind/Ice/Light ; Thunderblade
+  Wind/Ice/Light/Dark ; Huntress Wind/Ice/Light. Le boss final change de set :
+  Ice/Light/Dark, puis Wind/Ice/Light, puis Wind/Ice/Light/Dark, puis
+  Lightning/Fire.
+- Plan : garde Xerc, Cyrus, Delitia ou le protagoniste Scholar pour Ice/Light,
+  et une source de Dark. Le boss peut lancer Re-creation à 9 999 dégâts sur la
+  première rangée s'il accumule son BP : casse avant la fin du compte à rebours.
+- Dernière phase : vers 30 % de vie, Divine Abyss/The Void déclenche une mort
+  scénarisée ; le groupe est ensuite restauré et buffé. Utilise alors tous les
+  BP, ultimes et attaques multi-hit pour retirer les 24 boucliers restants et
+  terminer le combat. Récompense : Champion of the Continent.
+
+B-31 — AELFRIC, OR'GALDERA ET AMATSUKAMI NO OROCHI — NETTOYAGE FINAL
+
+- Aelfric the Flamebringer : Polearm, Dagger, Bow, Fan, Dark. Ignore Great
+  Flame, brise Aelfric avant ses reprises et prépare un groupe capable de
+  supporter deux résurrections.
+- Or'galdera : Sword, Axe, Tome, Ice, Light. Équipe les deux compositions et un
+  soigneur dans chacune ; ne lance pas le combat sans une sauvegarde de reprise.
+- Amatsukami no Orochi : Sword, Tome, Ice, Light. Brise le corps pour éviter
+  l'attaque de mise à mort et réserve Light/Dark pour les orbes dont les
+  faiblesses changent. La victoire donne Dragonslayer et le Heavenly Jewel.
+- Après la fin véritable, lis le livre de la Garden of Sin, ouvre Cove of
+  Clouds depuis Skies of Vanity et construis le Strange House avant de valider
+  la dernière boucle de nettoyage.
+
+================================================================
 PROLOGUE — FLAMES OF RESTORATION
 ================================================================
 
@@ -236,8 +583,8 @@ CERULEAN CAVERNS
 [COFFRE] [ ] Cerulean Caverns — Azure Flamestone — prendre la pierre avant
   le combat.
 [SAUVEGARDE] [ ] Sauvegarde devant la zone du boss.
-[BOSS] [ ] Emerald Direwolf — soigne avec Stia, brise avec les faiblesses
-  disponibles et utilise le boost au tour où ses boucliers tombent.
+[BOSS] [ ] Emerald Direwolf — voir fiche B-01 ; soigne avec Stia, brise avec
+  les faiblesses Sword/Bow et booste au tour où ses boucliers tombent.
 - [ ] Retourne à Wishvale et rends l'Azure Flamestone à Stia.
 - [ ] Repose-toi chez toi pour clôturer le prologue.
 
@@ -348,8 +695,8 @@ CHAPITRE 1 — THE HUNTER PHENN
 [COFFRE] [ ] Snowshard Grotto, coffre bleu — More Rare Monsters Mastery.
 [COFFRE] [ ] Snowshard Grotto — Herb of Vitality.
 [COFFRE] [ ] Snowshard Grotto, ennemi menaçant Frostwing Serpent — Giant Bow.
-[BOSS] [ ] Vaincs Menacing Frostwing Serpent après avoir contrôlé ses
-  résistances et sa fenêtre de break.
+[BOSS] [ ] Termine les Spiked Skinks (voir fiche B-02), puis reviens ouvrir le
+  coffre gardé par Menacing Frostwing Serpent avant de quitter la grotte.
 - [ ] Reviens à Wishvale et parle à Phenn pour le recruter définitivement.
 - [ ] Construis la maison suivante pour ouvrir le chapitre 2.
 
@@ -446,8 +793,8 @@ CHAPITRE 3 — HERMINIA THE HUNTRESS
 [COFFRE] [ ] Herminia's Manse: Cellars — Inspiriting Plum Basket, Nocturne of
   Icy Slumber Mastery, Enfeebling Amulet bleu, Magic Nut et 900 feuilles.
 [COFFRE] [ ] Valore, maison du Major — Music Score Master of Wealth.
-[BOSS] [ ] Termine le combat d'Herminia en cassant ses boucliers avant les
-  attaques de zone ; conserve une réponse aux altérations.
+[BOSS] [ ] Termine Herminia (voir fiche B-07) en cassant ses boucliers avant les
+  attaques de zone ; détruis les Manifestations sans frapper une contre-garde.
 [SUCCES] [ ] Obtiens Ring of the Huntress.
 [COFFRE] [ ] Snowshard Grotto et Serpent's Burrow — contrôle les coffres de
   retour avant de passer au chapitre suivant.
@@ -464,8 +811,8 @@ CHAPITRE 1 — THE SCARLET TYRANT
 [COFFRE] [ ] Emberglow Laboratory — Herb of Mending, Empowering Earring,
   800 feuilles, Battle Music Score V près du tome de sauvegarde, Energizing
   Pomegranate et Bolstering Break Mastery gardée.
-[BOSS] [ ] Prépare un soigneur et des attaques de glace/ténèbres pour les
-  ennemis du laboratoire ; casse les gardes avant le lancement de leurs buffs.
+[BOSS] [ ] Termine Al the Servant (voir fiche B-08) ; garde deux soigneurs ou
+  une rangée de réserve contre Wild Ebony Claw.
 [SUCCES] [ ] Obtiens Ring of the Thunderblade à la fin de Tytos.
 
 CHAPITRE 2 — A DREAM OF SNOW
@@ -488,8 +835,8 @@ CHAPITRE 3 — TYTOS THE THUNDERBLADE
   Dancer Garb, Herb of Vitality et Resilient Stance Mastery.
 [COFFRE] [ ] Emberglow East District — Rinyuu's Stew Recipe et Battle Music
   Score II dans la maison de Velnorte.
-[BOSS] [ ] Maintiens la vitesse de l'équipe et garde des soins de groupe ;
-  Ring of the Thunderblade devient accessible après cette route.
+[BOSS] [ ] Termine Commander Tytos (voir fiche B-11) ; garde des soins de groupe,
+  des Herbs of Valor et des BP pour la barrière qui draine la rangée avant.
 [COFFRE] [ ] Cathedral of Tytos, premier étage à droite — Master of Power
   Music Score après la progression Bestower correspondante.
 
@@ -516,8 +863,9 @@ CHAPITRE 2 — FIT FOR A TRAGEDY
 [COFFRE] [ ] Auguste's Villa — Invigorate and Inspire Mastery gardée,
   Nourishing Nut, Round Shield, Bottle of Numbing Dust, Battle Music Score III,
   Battle Music Score VIII et Ancient Necklace.
-[BOSS] [ ] Contrôle les deux salles de bibliothèque : les deux partitions
-  Battle Music sont dans les pièces nord-est, chacune sur une étagère.
+[COFFRE] [ ] Contrôle les deux salles de bibliothèque : les deux partitions
+  Battle Music sont dans les pièces nord-est, chacune sur une étagère ; ce
+  contrôle d'objet est séparé du combat des Aides.
 - [ ] Termine la route d'Auguste et recrute Saoirse quand son invitation à
   Theatropolis devient disponible au chapitre 3.
 
@@ -545,8 +893,9 @@ KINDLERS 3 — THE MERCHANT LUDO
 - [ ] Va dans Eastern Sunshade Sands et entre dans Finesand Ruins.
 [COFFRE] [ ] Finesand Ruins — Bottle of Numbing Dust, Wind Soulstone M,
   Wild Knives Mastery bleu, Stronger Strikes Mastery et Vivid Woven Wool.
-[BOSS] [ ] Bats les trois Desert Lizardking I, puis le Lizardmen Leader avec
-  ses deux renforts ; la faiblesse du chef inclut Wind/Dark et il inflige Poison.
+[BOSS] [ ] Bats les trois Desert Lizardking I, puis le Lizardmen Leader (voir
+  fiche B-03) avec ses deux renforts ; ses faiblesses sont Sword/Bow/Staff/Ice/
+  Dark et il inflige Poison.
 - [ ] Recrute Ludo dans Wishvale et active la Shop.
 
 KINDLERS 4 — THE CLERIC LAURANA
@@ -574,8 +923,8 @@ KINDLERS 5 — THE PROTAGONIST
 - [ ] Traverse Cerulean Caverns vers Path to the Flamebearer's Shrine.
 [COFFRE] [ ] Path to the Flamebearer's Shrine — Refreshing Jam et Divine
   Halo.
-[BOSS] [ ] Emerald Direwolf — faiblesses Wind, Ice et Dark ; garde Stia ou
-  un autre soigneur pour les tours où le boss concentre ses dégâts.
+[BOSS] [ ] Emerald Direwolf (voir fiche B-04) — faiblesses Sword/Bow/Staff/
+  Wind/Ice/Dark ; garde Stia ou un autre soigneur pour les tours concentrés.
 - [ ] Remets l'Azure Flamestone à Laurana à Wishvale.
 [SUCCES] [ ] A New Church et Kindler of the Flame sont contrôlés.
 - [ ] Améliore la Church au niveau 3 et ouvre les coffres bleus de retour.
@@ -592,7 +941,8 @@ RINGS SEALED AWAY
 - [ ] Retourne à Wishvale et parle à Stia.
 - [ ] Va dans Wishvale Trail et parle à Sazantos.
 [SAUVEGARDE] [ ] Archive avant le combat de Sazantos.
-[BOSS] [ ] Bats Sazantos et garde les soins de groupe pour Transcendent Light.
+[BOSS] [ ] Bats Sazantos (voir fiche B-19) et garde les soins de groupe pour
+  Transcendent Light.
 - [ ] Choisis n'importe quelle réponse lors de la décision de sceller les trois
   anneaux ; la décision ne bloque pas la route des succès.
 - [ ] Sazantos rejoint temporairement le groupe.
@@ -644,8 +994,8 @@ CHAPITRE 2 — GENERAL MAHREZ
   Nut M.
 [COFFRE] [ ] Gray Grotto Depths — contrôle du coffre bleu et du Noxious Spider
   Axe avant la sortie.
-[BOSS] [ ] Bats Mahrez en cassant les renforts avant le chef et garde une
-  suppression d'altération pour les debuffs.
+[BOSS] [ ] Bats M'suhi the Viper (voir fiche B-14) en cassant les renforts
+  avant le chef et garde une source de chaque set élémentaire.
 - [ ] Quand Wishvale est au niveau 6 et que Kindlers 5 est terminé, rejoins le
   Path to Waterpool Caves. Aide Alfyn à récupérer Snowgrass dans Flamesgrace
   Wilds puis soigne sa mère pour le recruter.
@@ -684,8 +1034,8 @@ CHAPITRE 4 — WISE KING SOLON
 [COFFRE] [ ] Finesand Ruins — Numbing Dust, Stalwart Aura Mastery gardée,
   Wind Soulstone M, Wild Knives Mastery bleu, Stronger Strikes Mastery et Vivid
   Woven Wool.
-[BOSS] [ ] Termine la séquence de Solon avec un groupe capable de briser
-  plusieurs types de boucliers en un tour.
+[BOSS] [ ] Termine Cerro the Emissary (voir fiche B-15) avec un groupe capable
+  de briser plusieurs types de boucliers en un tour et de soigner Paralysis.
 
 CHAPITRE 5 — EL THE SWORDSMAN
 
@@ -698,8 +1048,8 @@ CHAPITRE 5 — EL THE SWORDSMAN
   Freshly Shorn Fleece dans le jardin ouest, Traveling Music Score VIII dans la
   maison nord-ouest et Herb of Vitality.
 [COFFRE] [ ] North Shepherds Rock Pass — Sprightly Cuffs et Herb of Clamor.
-[BOSS] [ ] Termine El the Swordsman ; l'Encounter d'Olberic appartient à la
-  finale de Master of All, après Trial of the Ring, pas à ce chapitre.
+[BOSS] [ ] Termine Gonzalez puis General Krauser (voir fiche B-16) ; l'Encounter
+  d'Olberic appartient à la finale de Master of All, après Trial of the Ring.
 - [ ] Quand Wishvale atteint le niveau requis par Kindlers, visite l'île de la
   mer intérieure, donne Ratatouille à Goodwin puis utilise Inquire pour le
   recruter.
@@ -728,7 +1078,8 @@ CHAPITRE 7 — PRINCESS ALAUNE
 [COFFRE] [ ] Castle Riven — Inspiriting Plum Basket, Secrets of Sleep Volume
   II gardé, Spiked Armor, Thunder Soulstone M et Revitalizing Jam.
 - [ ] Termine la séquence d'Alaune et les événements de Clearbrook.
-[BOSS] [ ] Conserve une attaque de lumière et une réponse aux altérations.
+[BOSS] [ ] Termine Gonska the Jester (voir fiche B-17) ; conserve Ice/Light dans
+  les deux rangées et une réponse aux altérations.
 
 CHAPITRE 8 — PARDIS THE SCHOLARKING
 
@@ -1099,8 +1450,9 @@ CHAPITRE 1 — BETWEEN LIFE AND DEATH
   et Hell Geist Canyon.
 [COFFRE] [ ] Hell Cragspear — Intense Battle Music Score II/IV selon les
   maisons et les conditions de l'arc.
-[BOSS] [ ] Prépare une équipe de niveau élevé avec protection contre les
-  altérations et dégâts de lumière.
+[BOSS] [ ] Termine Fallen Mahrez (voir fiche B-25) ; prépare une équipe de
+  niveau élevé avec Wind, protection contre les altérations et sauvegarde avant
+  l'invocation de Signa.
 - [ ] Contrôle Valore et Castle Edoras après les scènes du chapitre pour Bargello
   et Richard ; tous deux sont des recrutements de Bestower of All 1.
 
@@ -1117,8 +1469,9 @@ CHAPITRE 3 — CASTLE OF THE HOLLOW QUEEN
 
 - [ ] Traverse Castle of the Hollow Queen puis Hell Castle Edoras.
 - [ ] Recrute Bargello et Alaune lorsque les scènes les ajoutent au groupe.
-[BOSS] [ ] Garde des attaques sur plusieurs faiblesses pour la reine et ses
-  phases de renfort.
+[BOSS] [ ] Termine Cursed Princess Elrica ; garde des attaques sur plusieurs
+  faiblesses pour la reine et ses phases de renfort, puis soigne avant la route
+  suivante.
 
 CHAPITRE 4 — A NATION FROZEN IN TIME
 
@@ -1130,16 +1483,17 @@ CHAPITRE 4 — A NATION FROZEN IN TIME
 CHAPITRE 5 — THE GATE OF FINIS
 
 - [ ] Entre dans Gate of Finis et vérifie les consommables avant les corridors.
-[BOSS] [ ] Bats les gardiens avec un groupe de huit et une rotation de
-  supports ; ne dépense pas les ultimes ressources avant le point de repos.
+[BOSS] [ ] Bats Cursed Commander Tytos (voir fiche B-26) avec un groupe de huit
+  et une rotation de supports ; ne dépense pas les ultimes ressources avant le
+  point de repos.
 - [ ] À la fin du chapitre, contrôle Cragspear pour Solon et Eltrix ; ils
   rejoignent après la résolution de leur séquence.
 
 CHAPITRE 6 — PRECIPICE OF LOSS
 
 - [ ] Traverse Corridors of Contrition, Precipice of Loss et Bridge Beyond.
-[BOSS] [ ] Termine Crimson River Traverse et garde une sauvegarde avant la
-  dernière série de combats.
+[BOSS] [ ] Termine les trois combats de Crimson River Traverse (voir fiche B-27)
+  et garde une sauvegarde avant la dernière série de combats.
 [COFFRE] [ ] Les objets de Gate of Finis et de Hell sont reportés dans le
   registre post-game, avec les partitions et les points de collecte par salle.
 
@@ -1147,7 +1501,8 @@ CHAPITRE 7 — SAZANTOS
 
 - [ ] Traverse Cathedral of Ash et Sanctum.
 [SAUVEGARDE] [ ] Sauvegarde avant la séquence de Sazantos.
-[BOSS] [ ] Termine les phases de Sazantos, puis le combat de fin de chapitre.
+[BOSS] [ ] Termine Sazantos, Signa et Cardinal Teragraf (voir fiche B-28), puis
+  le combat de fin de chapitre ; Signa doit tomber avant Sazantos.
 - [ ] Sazantos devient la dernière recrue temporaire de la route.
 
 CHAPITRE 8 — AT JOURNEY'S END
@@ -1173,7 +1528,8 @@ ROUTE DE LA FIN VÉRITABLE
 - [ ] Interagis avec la flamme bleue et bats le boss optionnel.
 - [ ] Récupère l'anneau renforcé.
 - [ ] Va dans la maison enneigée et utilise Illuminate sur les trois PNJ.
-[BOSS] [ ] Termine la route alternative et le combat de fin véritable.
+[BOSS] [ ] Termine Aelfric puis la route alternative et le combat de fin
+  véritable (voir fiche B-31).
 [SUCCES] [ ] Traveler from Zero tombe à la fin véritable.
 - [ ] Le piédestal bleu de la sauvegarde claire permet de reprendre les choix
   sans recommencer toute la partie.
@@ -1186,7 +1542,8 @@ ISLE OF SAGES ET AMATSUKAMI NO OROCHI
 [COFFRE] [ ] Isle of Sages — Angel Sabre dans le coffre bleu.
 - [ ] Depuis Skies of Vanity, rejoins Cove of Clouds.
 [COFFRE] [ ] Cove of Clouds — Floating Stone, trésor légendaire.
-[BOSS] [ ] Bats Amatsukami no Orochi.
+[BOSS] [ ] Bats Amatsukami no Orochi (voir fiche B-31) après avoir contrôlé les
+  orbes et la sauvegarde de reprise.
 [SUCCES] [ ] Dragonslayer tombe après le combat.
 - [ ] Récupère le Heavenly Jewel et ouvre Tavern of Nil via Strange House.
 

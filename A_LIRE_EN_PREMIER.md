@@ -236,12 +236,18 @@ transformée en validation automatique quand c'est possible.
   autorisés lorsqu'ils décrivent réellement l'état ou la fiche consultée.
 - Le hero peut afficher le dernier guide réellement ouvert en rouge et un
   historique local de cinq guides maximum en jaune, dans l'ordre d'utilisation.
-- La reprise depuis le hero doit rester une ouverture locale, sans modifier les repères du guide.
-- Le bouton de reprise et une entrée de l'historique doivent ouvrir la même
-  fiche que la bibliothèque, sans créer une navigation parallèle.
 ### Passe de contrôle 7 — couverture cartographique étendue
 
 - L'index direct de 37 cartes est complété par l'index Game8 des zones et
   donjons non présents dans la première sélection.
 - Le guide doit signaler cette différence et ne jamais transformer un lien
   cartographique en validation écran par écran.
+
+### Passe de contrôle 8 — fiches boss OT0
+
+- La route OT0 renvoie maintenant les combats importants vers 31 fiches
+  opérationnelles : faiblesses, phases, statuts, ordre des cibles et reprise.
+- Une faiblesse dynamique doit rester écrite par phase ; une phrase générique
+  comme « utilise les faiblesses » ne suffit plus pour un boss principal.
+- Les fiches de combat ne gonflent pas les compteurs 454/454 ou 37/37 ; le
+  validateur vérifie leur présence et plusieurs renvois depuis la route.

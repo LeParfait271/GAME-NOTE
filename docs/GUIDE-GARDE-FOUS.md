@@ -612,9 +612,6 @@ une mise à jour qui change les succès ou le contenu, le guide repasse en
   le service worker continue de fonctionner silencieusement.
 - Le dernier guide ouvert est le point de reprise rouge ; l'historique jaune
   reste local à l'appareil, ordonné par utilisation et limité à cinq fiches.
-- La reprise depuis le hero ne doit pas réinitialiser la progression locale du lecteur.
-- Le point de reprise et chaque ligne historique réutilisent l'ouverture
-  normale de la bibliothèque afin de conserver la progression du lecteur.
 - Les statuts hors ligne et les erreurs de route restent conservés car ils
   décrivent l'état réel de l'application.
 - Le contrôle couvre l'accueil, la bibliothèque, le lecteur, le clavier, le
@@ -625,3 +622,19 @@ une mise à jour qui change les succès ou le contenu, le guide repasse en
   mais doit rester présenté comme une source de navigation externe.
 - Le guide doit distinguer lien cartographique, repère de base et contrôle
   réellement vérifié en jeu.
+
+### Passe de contrôle 9 — fiches de combat OT0
+
+- Le TXT conserve désormais un dossier de 31 fiches boss reliées à la route par
+  des références `B-xx` ; chaque fiche distingue faiblesse fixe, faiblesse de
+  phase, statut dangereux, ordre des cibles et récompense quand elle est
+  vérifiée.
+- Le dossier est une aide de jeu et ne remplace ni le registre des 454 trésors,
+  ni les 44 coffres bleus, ni les 37 succès. Ces compteurs restent contrôlés par
+  leurs sections et leurs validations dédiées.
+- Les rencontres dont la source donne des sets dynamiques doivent conserver la
+  séquence complète ou renvoyer à Analyze ; une faiblesse relevée dans une seule
+  phase ne peut pas être généralisée au combat entier.
+- La matrice OT0 garde les URLs Game8 et Neoseeker utilisées pour cette passe et
+  conserve le statut archive/invisible tant que les élites et les zones ne sont
+  pas relus écran par écran.

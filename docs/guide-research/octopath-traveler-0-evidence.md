@@ -264,3 +264,36 @@ fonction précise.
 - Le guide distingue les cartes directement liées et l'index étendu : cette
   séparation évite de présenter une simple liste de liens comme une vérification
   écran par écran.
+
+## Passe de contrôle 9 — fiches de combat opérationnelles
+
+- Le TXT reçoit un dossier séparé de 31 fiches boss : préparation, faiblesses,
+  changements de phase, statut dangereux, ordre des cibles, récompense ou
+  point de sauvegarde quand l'information est vérifiable.
+- Les fiches ne gonflent ni le compteur des 454 trésors ni les 37 succès ; les
+  rappels de route renvoient vers elles avec `voir fiche B-xx` afin de garder la
+  progression chronologique utilisable pendant le jeu.
+- Les sets de faiblesses dynamiques sont écrits avec une flèche ou une liste de
+  phases ; la règle de rédaction interdit de présenter une faiblesse de première
+  phase comme permanente. Analyze reste conseillé lorsque la source ne donne
+  pas un ordre stable.
+- Recoupement principal : liste des boss et élites Game8, fiches Game8 de
+  Herminia, Sonia, Tytos, Auguste, Gonska, Gonzalez, Pardis et Bestower of All,
+  puis walkthrough Neoseeker pour la séquence finale, le super-boss et les
+  restrictions post-game.
+- Sources lues pour cette passe :
+  - https://game8.co/games/Octopath-Traveler-0/archives/568842
+  - https://game8.co/games/Octopath-Traveler-0/archives/569792
+  - https://game8.co/games/Octopath-Traveler-0/archives/569476
+  - https://game8.co/games/Octopath-Traveler-0/archives/569704
+  - https://game8.co/games/Octopath-Traveler-0/archives/569795
+  - https://game8.co/games/Octopath-Traveler-0/archives/570982
+  - https://game8.co/games/Octopath-Traveler-0/archives/570962
+  - https://game8.co/games/Octopath-Traveler-0/archives/570317
+  - https://game8.co/games/Octopath-Traveler-0/archives/573549
+  - https://www.neoseeker.com/octopath-traveler-0/Altar_of_Heavenly_Peals
+  - https://www.neoseeker.com/octopath-traveler-0/How_to_unlock_the_Super_Boss
+- Limite conservée : les gardiens élites de coffres et certaines rencontres de
+  récits secondaires possèdent encore leur emplacement dans la route, mais pas
+  tous une fiche tactique dédiée. Le guide reste archivé tant que ces combats
+  secondaires et les 454 lignes ne sont pas relus zone par zone.

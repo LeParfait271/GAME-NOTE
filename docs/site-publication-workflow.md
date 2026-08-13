@@ -113,3 +113,14 @@ traité comme une récompense d'action et non comme un coffre supplémentaire.
   Game8 des cartes, sans modifier le statut archive et invisible d'OT0.
 - Cette source externe aide à retrouver une salle, mais ne remplace pas la
   vérification éditoriale avant une future publication.
+
+### Passe de contrôle 9 — combat OT0
+
+- Le brouillon OT0 contient un dossier de 31 fiches de boss avec des renvois
+  depuis la route principale ; cette couche améliore la jouabilité sans rendre
+  le fichier visible ni l'ajouter au cache offline.
+- Le validateur exige le dossier, plusieurs renvois et les fiches structurantes
+  de la campagne. Les compteurs de contenu restent indépendants des lignes de
+  stratégie.
+- La passe reste éditoriale : la publication attend encore la relecture des
+  gardiens élites, des zones et des 454 entrées dans une sauvegarde réelle.

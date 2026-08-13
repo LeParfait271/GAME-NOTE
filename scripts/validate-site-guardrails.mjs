@@ -278,6 +278,27 @@ if (octopathZeroDraft) {
   if (!mapIndexSection.includes("https://game8.jp/octopathtraveler0/746437")) {
     fail(octopathZeroDraftPath + ": index étendu Game8 des cartes OT0 absent.");
   }
+  const bossDossierHeading = "FICHES BOSS — PRÉPARATION, FAIBLESSES ET MÉCANIQUES";
+  if (!octopathZeroDraft.includes(bossDossierHeading)) {
+    fail(octopathZeroDraftPath + ": dossier opérationnel des boss OT0 absent.");
+  }
+  for (const requiredBossEntry of [
+    "B-01 — EMERALD DIREWOLF",
+    "B-07 — LADY HERMINIA",
+    "B-11 — COMMANDER TYTOS",
+    "B-13 — AUGUSTE THE PLAYWRIGHT",
+    "B-18 — KING PARDIS III",
+    "B-30 — BESTOWER OF ALL",
+    "B-31 — AELFRIC, OR'GALDERA ET AMATSUKAMI NO OROCHI",
+  ]) {
+    if (!octopathZeroDraft.includes(requiredBossEntry)) {
+      fail(octopathZeroDraftPath + ": fiche boss requise absente (" + requiredBossEntry + ").");
+    }
+  }
+  const bossRouteReferences = [...octopathZeroDraft.matchAll(/\(voir fiche B-\d{2}\)/g)];
+  if (bossRouteReferences.length < 10) {
+    fail(octopathZeroDraftPath + ": les combats de la route doivent renvoyer vers au moins 10 fiches boss.");
+  }
 }
 
 const guideBlockMatch = page.match(
