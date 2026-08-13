@@ -486,3 +486,10 @@ contrôle de la fiche concernée.
   une sous-zone ne suffit pas à justifier une direction.
 
 - Les visuels portrait du hero utilisent une source adaptée au ratio de la carte et ne reçoivent pas de quadrillage superposé.
+
+### Cliftlands et Gray Grotto OT0 — 13 août 2026
+
+- La route doit conserver l'ordre West Valore Trail, Cragspear Pass, Cragspear,
+  Gray Grotto, Gray Grotto: Depths et South Cragspear Pass.
+- Un chemin recoupé ne vaut pas validation de toutes les entrées de la zone.
+- Geist Canyon reste une dette explicite jusqu'à sa relecture dédiée.

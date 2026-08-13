@@ -153,3 +153,11 @@ traité comme une récompense d'action et non comme un coffre supplémentaire.
 - Le dossier continue de signaler séparément les coffres bleus et les coffres en
   mer ; aucun chemin n'est inventé pour les lignes #133 à #138.
 - OT0 reste archivé et invisible pendant la poursuite de la couverture des zones.
+
+### Passe de contrôle 13 — Cliftlands OT0
+
+- Vingt-trois lignes de la première traversée de Cliftlands sont désormais
+  navigables par fourche, pente, maison, pont, monument, cul-de-sac ou élite.
+- Les coffres bleus et les lignes déjà documentées restent séparés du nouveau
+  lot ; le registre 454 ne change pas.
+- Geist Canyon et les sections non sourcées restent à auditer avant publication.

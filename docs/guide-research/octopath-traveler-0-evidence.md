@@ -359,3 +359,22 @@ fonction précise.
 - Limite conservée : les coffres de Rippletide même et les coffres de mer
   (#133 à #138) restent à repérer avec une source dédiée ; aucune direction n'a
   été déduite de la seule sous-zone.
+
+## Passe de contrôle 13 — Cliftlands et première traversée de Cragspear
+
+- Vingt-trois lignes supplémentaires (#139 à #164, hors coffres bleus et lignes
+  déjà détaillées) reçoivent un repère de fourche, pente, pont, maison, forge,
+  monument, cul-de-sac ou élite. Le total protégé monte à 85 lignes enrichies.
+- La séquence suit le chemin réel : West Valore Trail, Cragspear Pass,
+  Cragspear/Slums, Gray Grotto, Gray Grotto: Depths puis South Cragspear Pass.
+  Les coffres #160 et #161 restent liés à l'ordre « élite puis sauvegarde ».
+- Sources recoupées :
+  - https://game8.co/games/Octopath-Traveler-0/archives/570827
+  - https://www.neoseeker.com/octopath-traveler-0/West_Valore_Trail
+  - https://www.neoseeker.com/octopath-traveler-0/Cragspear_Pass
+  - https://www.neoseeker.com/octopath-traveler-0/Cragspear
+  - https://www.neoseeker.com/octopath-traveler-0/Gray_Grotto
+  - https://www.neoseeker.com/octopath-traveler-0/Gray_Grotto_Depths
+  - https://www.neoseeker.com/octopath-traveler-0/South_Cragspear_Pass
+- Limite conservée : Geist Canyon (#165 à #171) attend sa fiche de zone dédiée ;
+  aucune direction n'est déduite du seul ordre de la matrice.

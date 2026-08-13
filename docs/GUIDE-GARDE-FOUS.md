@@ -661,3 +661,10 @@ une mise à jour qui change les succès ou le contenu, le guide repasse en
   dédiée n'a pas été recoupée.
 
 - Le focus portrait utilise une source 2x adaptée et aucune grille décorative ne se superpose à son illustration.
+
+### Passe de contrôle 13 — Cliftlands OT0
+
+- Les 23 nouveaux repères de Cliftlands restent séparés du registre 454 et des
+  coffres bleus.
+- Les chemins de Gray Grotto distinguent l'élite, le monument et le cul-de-sac.
+- Le lot reste archive/invisible tant que Geist Canyon et les zones restantes ne
