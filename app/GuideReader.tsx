@@ -945,9 +945,12 @@ export default function GuideReader({
                           className="reader-outline-details"
                           open={outlineGroupsOpen[group.id] ?? (groupIndex === 0 || group.items.length <= 4)}
                           onToggle={(event) => {
+                            // React peut invalider l evenement avant l execution du
+                            // callback de mise a jour ; lire `open` immediatement.
+                            const isOpen = event.currentTarget.open;
                             setOutlineGroupsOpen((current) => ({
                               ...current,
-                              [group.id]: event.currentTarget.open,
+                              [group.id]: isOpen,
                             }));
                           }}
                         >

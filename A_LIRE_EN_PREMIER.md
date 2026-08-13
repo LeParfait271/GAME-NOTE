@@ -335,3 +335,12 @@ transformée en validation automatique quand c'est possible.
   fichiers modifies ; le lien ne change pas.
 - Le controle avant commit confirme que le raccourci, le port 3000 et le script
   `preview:local` restent presents.
+
+### Correctif lecteur Cloudflare - 14 aout 2026
+
+- Tester aussi une URL directe `/?guide=...` : le catalogue peut fonctionner
+  alors que le lecteur plante au montage.
+- Dans un callback `onToggle`, capturer `event.currentTarget.open` avant de
+  passer dans le setter React ; ne jamais relire l evenement dans son updater.
+- Une page Cloudflare qui affiche "This page couldnt load" avec une erreur
+  `null.open` indique cette regression du lecteur, pas un TXT absent.

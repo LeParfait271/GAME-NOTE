@@ -234,3 +234,13 @@ traité comme une récompense d'action et non comme un coffre supplémentaire.
 - L'adresse et le port sont fixes afin de garder un favori navigateur permanent.
 - Le build, le preflight, l'audit, le lint et les smoke tests restent obligatoires
   ; le serveur local ne les remplace pas.
+
+## Regression lecteur Cloudflare - 14 aout 2026
+
+- Une verification de publication doit tester l'accueil et une URL directe de
+  fiche, par exemple `/?guide=octopath`.
+- Le lecteur capture `event.currentTarget.open` avant le setter React ; un
+  `event.currentTarget.open` lu dans l'updater peut devenir `null.open` et faire
+  tomber toute la page avec l'ecran "This page couldnt load".
+- Cette correction est couverte par le validateur source, les smoke tests et le
+  test local avant le commit final. Les TXT et leur copie Pages restent inchanges.

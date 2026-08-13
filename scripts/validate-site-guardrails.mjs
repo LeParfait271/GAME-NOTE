@@ -503,6 +503,13 @@ for (const fragment of [
 if (reader.includes("outline.map(")) {
   fail("app/GuideReader.tsx: le sommaire est redevenu une liste plate.");
 }
+if (!reader.includes("const isOpen = event.currentTarget.open;") ||
+    !reader.includes("[group.id]: isOpen,")) {
+  fail("app/GuideReader.tsx: l etat du sommaire doit etre capture avant la mise a jour React.");
+}
+if (/setOutlineGroupsOpen\(\(current\) => \(\{[\s\S]{0,400}event\.currentTarget\.open/.test(reader)) {
+  fail("app/GuideReader.tsx: event.currentTarget.open est lu trop tard dans le setter du sommaire.");
+}
 for (const fragment of [
   ".guide-step",
   ".reader-outline-group",

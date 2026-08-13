@@ -730,3 +730,13 @@ une mise à jour qui change les succès ou le contenu, le guide repasse en
   d'entree local bloque la validation.
 - Le serveur local est une aide de verification et ne constitue pas une
   publication distante.
+
+## Correctif lecteur - etat du sommaire - 14 aout 2026
+
+- Une verification de lecteur doit ouvrir au moins une fiche via `?guide=...`,
+  pas seulement charger la bibliotheque.
+- Le handler `onToggle` du sommaire capture `event.currentTarget.open` avant
+  l'appel au setter React. Cette valeur ne doit jamais etre relue dans la
+  fonction updater, car l evenement peut deja avoir un `currentTarget` nul.
+- Le validateur de garde-fous et le smoke test exigent la capture locale et
+  refusent le motif dangereux ; une erreur `null.open` bloque toute publication.

@@ -549,3 +549,12 @@ comme OT0, restent hors publication jusqu'à leur validation éditoriale.
   equivalent est `preview:local`.
 - Cet acces local ne remplace pas le build ni le preflight et ne declenche aucun
   push Cloudflare automatiquement.
+
+### Correctif etat du sommaire - 14 aout 2026
+
+- Toute interaction `details`/`onToggle` doit lire les proprietes DOM de
+  `event.currentTarget` dans le corps immediat du handler.
+- Le setter React ne doit recevoir que la valeur capturee ; conserver
+  `event.currentTarget` dans l updater peut produire `Cannot read properties of
+  null (reading 'open')` en local comme sur Cloudflare.
+- Le smoke test et le guardrail source bloquent le retour de cette regression.
