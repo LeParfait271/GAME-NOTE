@@ -379,6 +379,30 @@ une mise à jour qui change les succès ou le contenu, le guide repasse en
 - Limite : les images des anciennes cartes restent disponibles comme assets,
   mais ne sont plus rendues par l'accueil.
 
+## Lot identite du pied de page - 13 aout 2026
+
+- Perimetre : afficher en bas du site `Game Note © 2026.`, la description
+  personnelle des soluces Steam 100 %, l'autonomie Android 5+ et la signature
+  de developpement MaruChiwa.
+- Mise en page : le bloc d'identite reste a gauche, le retour bibliotheque a
+  droite sur grand ecran, puis s'empile proprement sur mobile.
+- Version : la valeur locale `vX.YY` reste visible en petit repere editorial ;
+  elle ne remplace pas le texte d'identite demande.
+- Validation : controler le footer reel en localhost et dans la sortie Pages,
+  puis lancer lint, build, preflight et smoke tests avant le commit.
+- Limite : aucun changement de contenu ou de navigation du lecteur n'est inclus.
+
+## Sortie Pages limitée au lot en refonte - 13 aout 2026
+
+- La publication temporaire est définie dans `docs/site-publication.json`.
+- `public/guides/` reste l'archive complète, mais `dist/client/guides/` ne doit
+  contenir que `expedition-33.txt` et `octopath-traveler-1.txt`.
+- Le service worker ne doit précacher que ces deux guides ; une ancienne URL ne
+  doit pas être introduite par le cache hors-ligne.
+- Toute réactivation d'une autre fiche passe par une nouvelle matrice de
+  sources, une validation de contenu et une modification explicite de cette
+  liste.
+
 ### Version éditoriale — règle ajoutée le 13 août 2026
 
 - Source unique : `app/site-version.ts`, affichée dans le pied de page au

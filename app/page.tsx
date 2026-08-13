@@ -3613,7 +3613,12 @@ export default function Home() {
       </section> : null}
 
       <footer className="site-footer">
-        <span>Game Note · guides personnels · v{SITE_VERSION}</span>
+        <div className="site-footer-copy">
+          <p className="site-footer-title">Game Note © 2026.</p>
+          <p>Carnet personnel de soluces et succès Steam 100 %.</p>
+          <p>Site et application autonome Android 5+<br />développée par MaruChiwa.</p>
+          <p className="site-footer-version">ÉDITION LOCALE / v{SITE_VERSION}</p>
+        </div>
         <a href={readerMode ? "/" : "#guides"}>Retour à la bibliothèque ↑</a>
       </footer>
     </main>

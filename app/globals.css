@@ -1902,14 +1902,45 @@ button.reader-neighbor:focus-visible {
 }
 
 .site-footer {
-  display: flex;
-  align-items: center;
-  justify-content: space-between;
-  gap: 22px;
-  padding-block: 27px 42px;
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) auto;
+  align-items: end;
+  gap: 28px;
+  padding-block: 34px 48px;
   border-top: 1px solid var(--line);
   color: var(--muted);
   font-size: 0.66rem;
+}
+
+.site-footer-copy {
+  display: grid;
+  max-width: 620px;
+  gap: 6px;
+}
+
+.site-footer-copy p {
+  margin: 0;
+  line-height: 1.55;
+}
+
+.site-footer-title {
+  color: var(--navy);
+  font-size: 0.9rem;
+  font-weight: 900;
+  letter-spacing: -0.02em;
+}
+
+.site-footer-copy p:not(.site-footer-title):not(.site-footer-version) {
+  color: var(--muted);
+}
+
+.site-footer-version {
+  margin-top: 4px !important;
+  color: var(--coral);
+  font-family: var(--hero-mono);
+  font-size: 0.52rem;
+  font-weight: 900;
+  letter-spacing: 0.12em;
 }
 
 .site-footer > a {
@@ -2184,8 +2215,13 @@ button.reader-neighbor:focus-visible {
 
   .site-footer {
     align-items: flex-start;
-    flex-direction: column;
+    grid-template-columns: 1fr;
+    gap: 20px;
     padding-bottom: 42px;
+  }
+
+  .site-footer > a {
+    justify-self: start;
   }
 
   .offline-banner {

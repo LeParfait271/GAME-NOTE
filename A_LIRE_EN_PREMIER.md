@@ -101,3 +101,10 @@ transformée en validation automatique quand c'est possible.
 25. Si une section de présentation est retirée de l'accueil, supprimer aussi
     ses liens de navigation et ses styles orphelins. Le logo principal doit
     rester centré, lisible et proportionné sur desktop comme sur mobile.
+26. Le pied de page doit présenter l'identité Game Note, sa description,
+    l'autonomie Android 5+ et la signature MaruChiwa dans une hiérarchie lisible
+    sur desktop comme sur mobile ; la version locale reste discrète mais visible.
+26. Tant que le lot de refonte est en cours, la liste `docs/site-publication.json`
+    est la source de publication temporaire : seuls Expedition 33 et Octopath
+    Traveler 1 doivent être copiés dans `dist/client` et le cache hors-ligne.
+    Les autres TXT restent conservés mais ne doivent pas sortir du build.

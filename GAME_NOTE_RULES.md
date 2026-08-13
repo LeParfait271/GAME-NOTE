@@ -235,3 +235,29 @@ contrôle de la fiche concernée.
   logo, le rendu mobile, puis relancer lint, build, preflight et smoke tests.
 - Limite : le centrage concerne l'accueil ; la barre du mode lecture conserve
   sa logique de navigation existante.
+
+## Lot identite du pied de page - 13 aout 2026
+
+- Perimetre : remplacer la ligne technique du footer par l'identite demandee,
+  la description de Game Note, la compatibilite Android 5+ et la signature
+  MaruChiwa.
+- Composition : le footer est une grille courte sur desktop et une pile lisible
+  sur mobile ; le retour a la bibliotheque reste une action separee.
+- Garde-fou : la version `SITE_VERSION` reste affichee de facon discrete afin
+  que le controle de version du site continue de fonctionner.
+- Controle attendu : verifier la presence du texte dans la sortie Pages et le
+  rendu en bas de page, puis relancer lint, build, preflight et smoke tests.
+- Limite : ce lot ne modifie ni le lecteur de soluce ni les donnees de catalogue.
+
+## Publication temporaire des deux guides en refonte - 13 aout 2026
+
+- Source unique : `docs/site-publication.json` contient les deux identifiants et
+  les deux TXT réellement publiés pendant la refonte.
+- Protection : `prepare-pages-output.mjs` retire de `dist/client/guides` les
+  anciennes fiches conservées dans `public/guides`, puis prépare uniquement ces
+  deux URL dans le service worker.
+- Contrôle : `validate-pages-output.mjs` et `validate-site-guardrails.mjs`
+  vérifient la sortie publiée contre cette liste, jamais contre la totalité de
+  l'archive source.
+- Limite : cette règle masque les anciennes fiches sans les supprimer ; leur
+  réactivation exige une nouvelle vérification éditoriale et un commit dédié.
