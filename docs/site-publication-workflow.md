@@ -208,3 +208,12 @@ traité comme une récompense d'action et non comme un coffre supplémentaire.
 - Le mobile place le document avant la navigation secondaire et replie le sommaire
   jusqu'à ouverture explicite. Les captures et mesures doivent contrôler cette
   hiérarchie avant le build, le préflight et le commit unique.
+
+## Correctif lecteur - sequences vides - 14 aout 2026
+
+- Toute passe de lecteur doit verifier que les niveaux `#`, `##` et `###` ne
+  sont pas aplatis en une seule hierarchie visuelle.
+- Un titre sans contenu descendant ne doit ni produire une sequence vide ni
+  apparaitre dans le sommaire ; le TXT reste la source intacte.
+- Le strict guardrail des guides visibles est lance avec le build, le preflight,
+  l'audit qualite et les smoke tests avant l'unique commit de cloture.

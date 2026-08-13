@@ -103,6 +103,35 @@ function htmlText(value) {
     .trim();
 }
 
+function findEmptyMarkdownHeadings(text) {
+  const lines = text.replace(/\r\n/g, "\n").split("\n");
+  const headings = lines
+    .map((line, index) => {
+      const match = line.trim().match(/^(#{1,3})\s+(.+)$/);
+      return match
+        ? { index, level: match[1].length, title: match[2].trim() }
+        : null;
+    })
+    .filter(Boolean);
+  const empty = [];
+
+  for (const heading of headings) {
+    let hasBody = false;
+    for (let index = heading.index + 1; index < lines.length; index += 1) {
+      const line = lines[index].trim();
+      const nextHeading = line.match(/^(#{1,3})\s+(.+)$/);
+      if (nextHeading && nextHeading[1].length <= heading.level) break;
+      if (line && !/^[-=_]{6,}$/.test(line)) {
+        hasBody = true;
+        break;
+      }
+    }
+    if (!hasBody) empty.push(heading.title);
+  }
+
+  return empty;
+}
+
 const requiredSourceFiles = [
   "A_LIRE_EN_PREMIER.md",
   "GAME_NOTE_RULES.md",
@@ -447,6 +476,8 @@ if ((reader.match(/className="reader-cover"/g) ?? []).length !== 1 ||
 }
 for (const fragment of [
   'kind: "heading" | "subheading" | "step"',
+  "const headingLevel = markdownHeading[1].length",
+  "const visibleBlocks = blocks.filter",
   'className="guide-step"',
   "reader-outline-toggle",
   "reader-outline-card",
@@ -462,6 +493,15 @@ for (const fragment of [
 ]) {
   if (!stylesheet.includes(fragment)) {
     fail("app/globals.css: garde-fou responsive du lecteur absent (" + fragment + ").");
+  }
+}
+for (const file of publication?.visibleGuideFiles ?? []) {
+  const source = await readText(`public/guides/${file}`);
+  const emptyHeadings = findEmptyMarkdownHeadings(source);
+  if (emptyHeadings.length > 0) {
+    fail(
+      `public/guides/${file}: titre(s) Markdown sans contenu (${emptyHeadings.slice(0, 3).join(" | ")}${emptyHeadings.length > 3 ? " | ..." : ""}).`,
+    );
   }
 }
 if ((page.match(/export default function Home/g) ?? []).length !== 1) {

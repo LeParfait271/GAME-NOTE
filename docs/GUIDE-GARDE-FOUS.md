@@ -702,3 +702,12 @@ une mise à jour qui change les succès ou le contenu, le guide repasse en
   conserve un affichage immédiat, sans modifier le contenu ni les compteurs.
 - La vérification attendue couvre 320/390 px, desktop, clavier, absence de
   débordement, lint, build, preflight et smoke tests avant le commit local.
+
+## Correctif titres et sequences vides - 14 aout 2026
+
+- Le lecteur conserve le niveau des titres Markdown : `#`/`##` structurent les
+  sections et `###` devient un sous-titre lisible.
+- Le parseur filtre uniquement les titres qui n'ont aucun contenu descendant
+  (paragraphe, puce, case, ou etape). Le contenu source reste inchange.
+- Le validateur strict examine chaque TXT visible et signale le fichier ainsi
+  que les premiers titres vides ; ce controle bloque la publication.

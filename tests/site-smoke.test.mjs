@@ -55,6 +55,8 @@ test("le shell statique conserve les repères accessibles", () => {
   assert.match(readerSource, /reader-outline-toggle/);
   assert.match(readerSource, /className="guide-step"/);
   assert.match(readerSource, /kind: "heading" \| "subheading" \| "step"/);
+  assert.match(readerSource, /const headingLevel = markdownHeading\[1\]\.length/);
+  assert.match(readerSource, /const visibleBlocks = blocks\.filter/);
   assert.match(readerSource, /position A–Z/);
   assert.match(readerSource, /game-note-reading-/);
   assert.match(readerSource, /className="reader-resume"/);

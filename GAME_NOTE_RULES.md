@@ -522,3 +522,12 @@ comme OT0, restent hors publication jusqu'à leur validation éditoriale.
   compteurs, le lecteur et les replis d'images restent inchangés.
 - Le contrôle couvre 320/390 px, le desktop, le clavier, le mouvement réduit,
   l'absence de débordement, lint, build, preflight et smoke tests.
+
+### Correctif sequences vides - 14 aout 2026
+
+- Le parseur ne transforme plus les titres `###` des guides en cartes de
+  sequence geantes ; la hierarchie du document est respectee.
+- Les titres reellement sans contenu sont exclus du rendu et du sommaire, sans
+  toucher au TXT, aux coffres, aux succes ou aux etapes.
+- Le garde-fou strict inspecte les guides visibles et refuse tout titre Markdown
+  vide avant le build et le commit unique.

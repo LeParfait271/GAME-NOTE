@@ -308,3 +308,12 @@ transformée en validation automatique quand c'est possible.
   l'affichage immédiat.
 - La passe ne touche ni aux guides, ni aux compteurs, ni au lecteur ; elle doit
   être validée par les rendus 320/390 px, le build, le preflight et les smoke tests.
+
+### Correctif sequences vides - 14 aout 2026
+
+- Les niveaux Markdown sont conserves par le lecteur : `#` et `##` sont des
+  sections, `###` est un sous-titre, et une ligne numerotee reste une etape.
+- Un titre sans paragraphe, objectif, puce ou etape avant la prochaine section
+  est masque dans l'interface ; aucune ligne du TXT source n'est supprimee.
+- Le validateur strict bloque tout guide visible qui introduit un titre Markdown
+  sans contenu exploitable. Ce controle est obligatoire avant le commit final.

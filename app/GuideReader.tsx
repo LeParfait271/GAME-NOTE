@@ -53,6 +53,7 @@ type GuideBlock = {
   id: string;
   kind: "heading" | "subheading" | "step" | "paragraph" | "bullet" | "check";
   text: string;
+  headingLevel?: number;
   checkIndex?: number;
   checkScope?: "steam" | "route";
   markers?: GuideMarkerKind[];
@@ -232,6 +233,7 @@ const parseGuide = (text: string, markersEnabled: boolean): GuideBlock[] => {
     explicitMarkers: GuideMarkerKind[] = [],
     blockCheckIndex?: number,
     blockCheckScope?: "steam" | "route",
+    blockHeadingLevel?: number,
   ) => {
     const markers = markersEnabled
       ? uniqueGuideMarkers([
@@ -243,6 +245,7 @@ const parseGuide = (text: string, markersEnabled: boolean): GuideBlock[] => {
       id: makeBlockId(value, blocks.length),
       kind,
       text: value,
+      ...(blockHeadingLevel === undefined ? {} : { headingLevel: blockHeadingLevel }),
       ...(blockCheckIndex === undefined ? {} : { checkIndex: blockCheckIndex }),
       ...(blockCheckScope === undefined ? {} : { checkScope: blockCheckScope }),
       ...(markers.length ? { markers } : {}),
@@ -282,10 +285,19 @@ const parseGuide = (text: string, markersEnabled: boolean): GuideBlock[] => {
       lastStructuredKind = undefined;
     }
 
-    const markdownHeading = line.match(/^#{1,3}\s+(.+)$/);
+    const markdownHeading = line.match(/^(#{1,3})\s+(.+)$/);
     if (markdownHeading) {
       flushParagraph();
-      pushBlock("heading", markdownHeading[1].trim(), lineMarkers);
+      const headingLevel = markdownHeading[1].length;
+      const headingKind = headingLevel >= 3 ? "subheading" : "heading";
+      pushBlock(
+        headingKind,
+        markdownHeading[2].trim(),
+        lineMarkers,
+        undefined,
+        undefined,
+        headingLevel,
+      );
       lastStructuredKind = undefined;
       continue;
     }
@@ -336,7 +348,14 @@ const parseGuide = (text: string, markersEnabled: boolean): GuideBlock[] => {
       const value = numberedHeading
         ? `${line.match(/^\d+(?:\.\d+)*[.)]/)?.[0] ?? ""} ${headingText}`
         : line;
-      pushBlock(kind, value, lineMarkers);
+      pushBlock(
+        kind,
+        value,
+        lineMarkers,
+        undefined,
+        undefined,
+        kind === "heading" ? 2 : undefined,
+      );
       if (kind === "heading") {
         sectionMarker = markersEnabled && GUIDE_COLLECTIBLE_HEADING.test(normalizeGuideText(line))
           ? "chest"
@@ -367,7 +386,39 @@ const parseGuide = (text: string, markersEnabled: boolean): GuideBlock[] => {
   }
 
   flushParagraph();
-  return blocks;
+
+  const bodyKinds = new Set<GuideBlock["kind"]>([
+    "paragraph",
+    "bullet",
+    "check",
+    "step",
+  ]);
+  const visibleBlocks = blocks.filter((block, index) => {
+    if (block.kind !== "heading" && block.kind !== "subheading") {
+      return true;
+    }
+
+    const level = block.headingLevel ?? (block.kind === "heading" ? 2 : 3);
+    for (let cursor = index + 1; cursor < blocks.length; cursor += 1) {
+      const next = blocks[cursor];
+      if (next.kind === "heading" || next.kind === "subheading") {
+        const nextLevel = next.headingLevel ?? (next.kind === "heading" ? 2 : 3);
+        if (nextLevel <= level) {
+          break;
+        }
+      }
+      if (bodyKinds.has(next.kind)) {
+        return true;
+      }
+    }
+
+    return false;
+  });
+
+  return visibleBlocks.map((block, index) => ({
+    ...block,
+    id: makeBlockId(block.text, index),
+  }));
 };
 
 const readChecklist = (guideId: string): Record<number, boolean> => {
