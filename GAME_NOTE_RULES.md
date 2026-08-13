@@ -274,6 +274,21 @@ contrôle de la fiche concernée.
 - Limite : ce lot traite le jeu de base et le contenu gratuit séparément ; il
   ne transforme pas un objet de confort en exigence artificielle du 55/55.
 
+## Lot Octopath Traveler 1 - reconstruction complete - 13 aout 2026
+
+- Toute fiche qui annonce 100 % doit intégrer ses inventaires dans le TXT :
+  emplacement concret, contenu, condition et point de contrôle. Un simple
+  renvoi vers une carte ou un tableur est refusé.
+- Octopath Traveler 1 conserve les compteurs indépendants 88/88, 734, 152,
+  101 et 381. Les boss uniques et le bonus du Herald de Lord Ciaran restent
+  séparés des compteurs qui ne les incluent pas.
+- Avant chaque commit de ce lot, relire la matrice Octopath, vérifier l'écart
+  du PDF à 721 coffres et confirmer que la checklist actuelle à 734 reste
+  l'autorité du guide.
+- Les spoilers sont autorisés pour les solutions : une contrainte anti-spoiler
+  ne doit jamais supprimer une identité, une conséquence, une faiblesse, un
+  objet manquable ou un emplacement nécessaire au 100 %.
+
 ## Lot effets cinetiques de l'accueil - 13 aout 2026
 
 - Direction : les calques de profondeur, la typographie fantome, les orbites et

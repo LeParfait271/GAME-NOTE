@@ -230,6 +230,36 @@ conditions difficiles ; elles ne justifient jamais une copie mot a mot.
   sont considerees comme incompletes ; la liste GameFAQs mise a jour et le
   recoupement Monster-Soluce confirment 46.
 
+## OCTOPATH TRAVELER 1
+
+- Steam, fiche officielle et 88 succes :
+  https://store.steampowered.com/app/921570/OCTOPATH_TRAVELER/
+- Liste officielle des 88 succes :
+  https://steamcommunity.com/stats/921570/achievements
+- Guide Steam chronologique utilise pour les fenetres, les chapitres et le
+  nettoyage :
+  https://steamcommunity.com/sharedfiles/filedetails/?id=3612226658
+- Carte Steam de controle des zones, coffres, sanctuaires et recits annexes :
+  https://steamcommunity.com/sharedfiles/filedetails/?id=3729484643
+- Guide Steam des objets manquables :
+  https://steamcommunity.com/sharedfiles/filedetails/?id=1796269606
+- Tableur public de completion (734 coffres, objets, quetes et ennemis) :
+  https://steamcommunity.com/sharedfiles/filedetails/?id=2309451625
+- PDF de reperes de coffres, utilise comme source de directions mais pas comme
+  compteur final :
+  https://sullla.com/Octopath/Octopath_Traveler_COMBINED.pdf
+- Solutions des 101 recits annexes :
+  https://www.jeuxvideo.com/wikis-soluce-astuces/887725/liste-et-guide-des-quetes-annexes.htm
+- Listes specialisees pour objets caches, ennemis et quetes :
+  https://www.trueachievements.com/game/Octopath-Traveler/walkthrough/43
+  https://www.trueachievements.com/game/Octopath-Traveler/walkthrough/44
+  https://www.trueachievements.com/game/Octopath-Traveler/walkthrough/45
+- Points verifies : 88 succes, 32 chapitres, 101 recits, 12 sanctuaires,
+  734 coffres, 152 objets caches, 381 entrees Strategist, quatre ennemis
+  manquables, un coffre manquable (Bone) et les objets a conserver pour
+  Collector. Le PDF ancien ne contient que 721 lignes de coffres : il reste
+  une source de reperes, jamais l'autorite du total.
+
 ## FINAL FANTASY VII (2013)
 
 - Steam, liste officielle des 36 succes :

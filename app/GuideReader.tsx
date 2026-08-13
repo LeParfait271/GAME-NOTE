@@ -43,6 +43,7 @@ const GUIDE_MARKER_TOKENS =
 const GUIDE_MARKER_GUIDE_IDS = new Set([
   "final-fantasy-vii-2013",
   "expedition-33",
+  "octopath",
 ]);
 const GUIDE_COLLECTIBLE_HEADING =
   /^(?:coffres?|objets?|items?|materias?|collectibles?|recompenses?|journaux?|disques?|armes?|pictos?|gestrals?|competences?|capacites?|mimes?|petanks?)\b.*:\s*$/i;

@@ -111,7 +111,21 @@ transformée en validation automatique quand c'est possible.
 27. Pour une nouvelle fiche reconstruite, conserver la matrice de sources et le
     registre des contradictions avec le TXT. Les compteurs retenus doivent être
     justifiés par au moins deux sources indépendantes avant publication.
-28. Les effets ajoutés à l'accueil doivent former une seule direction visuelle :
+29. Pour Octopath Traveler 1, la checklist actuelle à 734 coffres est l'autorité
+    du total ; le PDF à 721 lignes ne sert qu'à récupérer des directions quand
+    la zone et l'ordre concordent. Les 734 lignes doivent rester dans le TXT.
+30. Une fiche complète intègre les solutions des 101 récits, les 152 objets
+    cachés avec leurs PNJ, les 381 entrées de Strategist et le registre
+    Collector ; « consulte une carte » ou « fais toutes les quêtes » est refusé.
+31. Les spoilers sont autorisés lorsqu'une solution complète est demandée : ne
+    pas cacher les identités, choix, conséquences, boss ou conditions du 100 %.
+32. Les marqueurs premium sont activés pour Octopath : `[COFFRE]` couvre le
+    coffre et tout objet à récupérer, `[MANQUABLE]`, `[SUCCES]`, `[BOSS]` et
+    `[SAUVEGARDE]` restent réservés à leur action précise.
+33. La matrice Octopath doit être relue avant chaque commit de contenu et les
+    garde-fous doivent enregistrer le compteur, la contradiction résolue et la
+    validation du lot.
+34. Les effets ajoutés à l'accueil doivent former une seule direction visuelle :
     profondeur, orbites, grain, scan, parallaxe et bandeau cinétique restent
     décoratifs, ne doivent pas gêner la lecture et doivent respecter
     `prefers-reduced-motion`, le clavier et le petit écran.

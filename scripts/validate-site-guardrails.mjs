@@ -127,6 +127,7 @@ const requiredSourceFiles = [
   "docs/site-publication.json",
   "docs/site-publication-workflow.md",
   "docs/guide-research/expedition-33-evidence.md",
+  "docs/guide-research/octopath-traveler-1-evidence.md",
   "docs/site-guardrails.md",
   "docs/steam-audit.json",
   "scripts/preflight-pages.mjs",
@@ -144,6 +145,7 @@ const reader = await readText("app/GuideReader.tsx");
 const layout = await readText("app/layout.tsx");
 const stylesheet = await readText("app/globals.css");
 const serviceWorkerSource = await readText("public/service-worker.js");
+const octopathGuide = await readText("public/guides/octopath-traveler-1.txt");
 const headers = await readText("public/_headers");
 const redirects = await readText("public/_redirects");
 const robots = await readText("public/robots.txt");
@@ -184,6 +186,17 @@ if (JSON.stringify(siteVisibleIds) !== JSON.stringify(["expedition-33", "octopat
 if (JSON.stringify(publication?.visibleGuideIds) !== JSON.stringify(["expedition-33", "octopath"]) ||
     JSON.stringify(publication?.visibleGuideFiles) !== JSON.stringify(["expedition-33.txt", "octopath-traveler-1.txt"])) {
   fail("docs/site-publication.json: liste temporaire incoherente.");
+}
+if (!reader.includes('"octopath"')) {
+  fail("app/GuideReader.tsx: les marqueurs premium Octopath sont désactivés.");
+}
+for (const required of ["734/734", "152/152", "101/101", "381/381", "DOSSIER PREMIUM"]) {
+  if (!octopathGuide.includes(required)) {
+    fail(`public/guides/octopath-traveler-1.txt: registre Octopath incomplet (${required} absent).`);
+  }
+}
+if (/sans spoiler/i.test(octopathGuide)) {
+  fail("public/guides/octopath-traveler-1.txt: l'ancienne politique sans spoiler est encore annoncée.");
 }
 
 const guideBlockMatch = page.match(

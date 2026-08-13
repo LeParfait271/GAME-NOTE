@@ -9,9 +9,19 @@ const catalog = JSON.parse(
 const steamAudit = JSON.parse(
   await readFile(join(ROOT, "docs", "steam-audit.json"), "utf8"),
 );
+const publication = JSON.parse(
+  await readFile(join(ROOT, "docs", "site-publication.json"), "utf8"),
+);
+const visibleGuideIds = new Set(publication.visibleGuideIds ?? []);
+const visibleGuideFiles = new Set(
+  (publication.visibleGuideFiles ?? []).map((file) => file.split("/").at(-1)),
+);
 
 const active = catalog.entries.filter(
-  (entry) => entry.scope === "full-guide" || entry.scope === "special",
+  (entry) =>
+    visibleGuideIds.has(entry.id) ||
+    (typeof entry.file === "string" &&
+      visibleGuideFiles.has(entry.file.split("/").at(-1))),
 );
 const auditById = new Map(steamAudit.games.map((game) => [game.id, game]));
 const results = [];

@@ -25,3 +25,19 @@ publication temporaire.
 Les controles automatises associes sont `validate-pages-output.mjs` et
 `validate-site-guardrails.mjs`. Le hook de commit augmente la version du site
 de 0,01 a chaque commit, sans pousser automatiquement vers le depot distant.
+
+## Controle editorial Octopath Traveler 1
+
+Le guide actif Octopath conserve sa matrice dans
+`docs/guide-research/octopath-traveler-1-evidence.md`. Avant chaque commit de
+contenu, verifier les cinq familles de sources, les divergences du PDF ancien
+et les compteurs 88/88, 734, 152, 101 et 381.
+
+Le contrôle strict de profondeur suit la même liste temporaire : les archives
+invisibles ne bloquent pas la reconstruction du lot actif, mais elles restent
+conservées et devront repasser ce contrôle lors de leur réactivation.
+
+Le TXT contient les registres eux-memes : coffres par zone et contenu, objets
+caches par PNJ, solutions et recompenses des recits, entrees Strategist et
+inventaire Collector. Une sortie qui ne contient qu'une liste de succes ou un
+lien externe est refusee. Les spoilers sont autorises pour cette fiche.

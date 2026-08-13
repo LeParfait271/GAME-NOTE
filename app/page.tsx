@@ -208,10 +208,10 @@ const guides: Guide[] = [
     accent: "gold",
     tag: "Guide fondateur",
     description:
-      "Les chapitres dans un ordre confortable, les personnages, les quêtes secondaires, les boss et les succès.",
+      "Les huit routes, les 101 récits annexes, les 734 coffres, les objets cachés, les ennemis et les succès.",
     highlight:
-      "À surveiller : les quêtes secondaires et les combats optionnels à faire avant la fin.",
-    meta: ["Route chronologique", "100 % Steam", "Sans spoiler"],
+      "À surveiller : Bone, Zeph, Meryl, Bale, le Crest-bearing Swindler et les quatre ennemis manquables.",
+    meta: ["88/88 Steam", "734 coffres / 152 objets cachés", "Spoilers autorisés"],
   },
   {
     id: "octopath-2",

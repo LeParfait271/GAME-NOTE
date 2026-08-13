@@ -446,6 +446,27 @@ une mise à jour qui change les succès ou le contenu, le guide repasse en
 - Limite : aucune ancienne fiche ne doit être remise en ligne sur simple
   demande de catalogue ; elle repasse par la nouvelle méthode avant publication.
 
+### Lot Octopath Traveler 1 - matrice complète le 13 août 2026
+
+- La fiche Octopath est reconstruite avec cinq familles de sources et sa
+  matrice est conservée dans `docs/guide-research/octopath-traveler-1-evidence.md`.
+- Le seuil éditorial est concret : 734 coffres avec contenu et repère, 152
+  objets cachés avec PNJ, 101 récits avec solution et récompense, puis 381
+  entrées Strategist avec zone et boucliers. Une simple liste ou un lien vers
+  un tableur ne valide plus la fiche.
+- L'ancien PDF à 721 coffres fournit des directions, jamais le compteur final.
+  Les divergences de zones, de niveaux ou de noms restent écrites dans la
+  matrice avant d'être résolues.
+- Les quatre ennemis manquables, Bone, Zeph, Meryl, Bale et le
+  Crest-bearing Swindler doivent apparaître avant leur fenêtre de fermeture.
+  Le bonus du Herald de Lord Ciaran reste séparé du 152 officiel.
+- Le lecteur premium active les marqueurs pour `octopath`. Un seul pictogramme
+  `[COFFRE]` couvre les coffres et les objets à récupérer ; les autres
+  marqueurs gardent leur sens sauvegarde, manquable, succès ou boss.
+- Contrôle avant chaque commit : route, annexes A à F, compteur 88/88,
+  absence de « sans spoiler », build Pages, sortie limitée aux deux guides
+  actifs et mise à jour coordonnée des garde-fous.
+
 ### Lot effets cinétiques de l'accueil - 13 août 2026
 
 - Les nouveaux calques (mot vertical, orbites, parallaxe, lumière du pointeur,
