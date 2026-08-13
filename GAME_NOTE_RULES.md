@@ -368,3 +368,12 @@ contrôle de la fiche concernée.
   être inscrite dans la matrice avant d'entrer dans le TXT ; aucune hypothèse
   de missable ou de troisième fin ne devient une instruction sans seconde
   preuve.
+
+### Passe de rédaction OT0 — route archivée — 13 août 2026
+
+- Un TXT de travail peut exister dans `public/guides/` sans être une fiche
+  publiée : tant que le catalogue reste `planned`/`research`, le fichier doit
+  rester absent de `docs/site-publication.json`, de l'index et du cache offline.
+- La première passe OT0 couvre la route et les registres ciblés, mais le seuil
+  100 % reste bloqué jusqu'à l'intégration vérifiée des 454 trésors, avec zone,
+  sous-zone, section et condition pour chaque entrée.

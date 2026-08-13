@@ -511,6 +511,17 @@ une mise à jour qui change les succès ou le contenu, le guide repasse en
   ne soit transformée en faux missable.
 - `validate-site-guardrails.mjs` exige maintenant `evidenceFile` pour toute
   entrée en `research` et vérifie que le fichier existe avant le commit.
+
+## Passe de rédaction OT0 — route archivée — 13 août 2026
+
+- Le TXT de travail est conservé dans l'archive sans carte et sans publication
+  temporaire. Sa présence ne change pas la liste visible des deux guides.
+- La route couvre prologue, reconstruction, arcs Master/Bestower, recrutements,
+  fins, post-game, partitions et équipements uniques ; elle ne passe pas encore
+  le seuil final tant que l'appendice des 454 trésors n'est pas intégré.
+- Toute ligne de trésor doit devenir un contrôle `[COFFRE]` distinct avec zone,
+  sous-zone, section ou condition ; un compteur global sans emplacement est
+  refusé, même si le nombre annoncé est correct.
 ## Lot scène d'entrée et archive monumentale - 13 août 2026
 
 - L'entrée présente une carte, une typographie géante et un lien direct avant

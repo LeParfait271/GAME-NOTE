@@ -1,0 +1,1217 @@
+OCTOPATH TRAVELER 0
+GUIDE CHRONOLOGIQUE COMPLET - 100 % STEAM - SPOILERS COMPLETS
+
+Version de travail : 13 août 2026
+AppID Steam : 3014320
+Périmètre : campagne complète, Wishvale, tous les arcs Bestower, recrues,
+quêtes secondaires, trésors, coffres bleus, musiques, fins et 37 succès Steam.
+Contenu online ou DLC : aucun contenu de ce type n'est compté dans ce guide.
+
+Cette fiche assume les révélations. Les identités, les fins, les conditions de
+recrutement, les boss, les récompenses et les conséquences utiles au 100 % sont
+indiqués directement. Le guide reste archivé tant que le registre des trésors
+et l'audit final ne sont pas terminés.
+
+================================================================
+CONTRÔLE DE LA FICHE
+================================================================
+
+La route est reconstruite à partir de cinq piliers : walkthrough Neoseeker,
+guides spécialisés Game8, récits secondaires NightlyGamingBinge, base de
+données Octopath Traveler 0 et listes de fin de jeu RPG Site. Steam et Square
+Enix servent d'autorités pour l'identité du jeu, les systèmes et les succès.
+La matrice complète est conservée dans `docs/guide-research/octopath-traveler-0-evidence.md`.
+
+COMPTEURS À ATTEINDRE
+
+- 37/37 succès Steam.
+- 36/36 personnages jouables, protagoniste compris.
+- 454/454 trésors répertoriés, coffres bleus et points de collecte compris.
+- 40/40 partitions musicales ; le succès ne demande que 30/40.
+- 11/11 trésors légendaires.
+- 9/9 équipements Battle-Tested.
+- 8/8 clés ornées et trésors sacrés.
+- 9/9 armes Forbidden.
+- 5/5 fragments de lettre.
+- Wishvale au niveau maximal, musée, arène des monstres, église, dais et
+  Strange House construits.
+- Tous les récits secondaires et toutes les zones post-game terminés.
+
+LÉGENDE DES REPÈRES
+
+`[COFFRE]` marque chaque trésor ou objet récupérable dans le registre.
+`[MANQUABLE]` signale une fenêtre de recrutement, d'objet ou de décision.
+`[SAUVEGARDE]` indique une archive de sécurité à conserver.
+`[SUCCÈS]` concerne une case Steam.
+`[BOSS]` signale un combat qui mérite une préparation précise.
+
+Les cases des zones suivent la route. Les seules cases qui alimentent le
+compteur Steam sont celles de la section finale consacrée aux 37 succès.
+
+================================================================
+OBJECTIF DE PARTIE ET ORDRE CONSEILLÉ
+================================================================
+
+L'histoire est structurée autour de la reconstruction de Wishvale, des trois
+anneaux des Maîtres, puis des arcs Bestower. Les trois routes Master peuvent
+être abordées dans un autre ordre ; l'ordre ci-dessous limite les allers-retours
+et débloque tôt les recrues et les installations.
+
+1. Prologue et première reconstruction de Wishvale.
+2. Kindlers of the Flame, chapitres 1 et 2.
+3. Recrues disponibles après le prologue et premier tour des villes.
+4. Master of Wealth 1, Master of Power 1, Master of Fame 1.
+5. Kindlers of the Flame 3, puis Master of Wealth 2, Master of Power 2 et
+   Master of Fame 2.
+6. Kindlers of the Flame 4 et 5, puis les chapitres 3 des trois Masters.
+7. Rings Sealed Away.
+8. Master of All, chapitres 1 à 8 et Trial of the Ring.
+9. Recrutements et récits secondaires débloqués par Master of All.
+10. Bestower of Wealth, Power et Fame, dans l'ordre Wealth, Power, Fame.
+11. Bestower of All, fin standard, puis fin véritable sur la sauvegarde claire.
+12. Nettoyage post-game : trésors, musiques, équipement, arène, Isle of Sages,
+    Tavern of Nil, quêtes et dernier succès.
+
+================================================================
+PRÉPARATION ET SYSTÈMES
+================================================================
+
+AVANT DE COMMENCER
+
+- [ ] Active les sauvegardes automatiques, mais garde aussi une sauvegarde
+  manuelle avant chaque boss et chaque nouvelle branche de quête.
+- [ ] Choisis l'apparence et le job initial du protagoniste selon ton style ;
+  les autres jobs et les changements de compétences seront disponibles plus
+  tard.
+- [ ] Si le choix de Belonging propose une Crested Key, la prendre réduit les
+  détours pour Viator ; si elle n'est pas choisie, une autre clé est récupérable
+  plus tard.
+- [ ] Si le choix propose un Letter Fragment, le prendre accélère Isla ; les
+  quatre autres fragments restent récupérables pendant la route.
+- [ ] Apprends à alterner Break, Boost et défense ; les boss de haut niveau
+  punissent les tours où les boucliers ne sont pas exploités.
+- [ ] Utilise les Path Actions sur chaque PNJ important avant de quitter une
+  ville : Inquire, Entreat, Purchase, Steal, Contend, Guide et Invite servent
+  aux quêtes, aux habitants et aux registres.
+
+COMBAT ET PROGRESSION
+
+- [ ] Brise un adversaire dès le début d'une rencontre pour obtenir
+  `[SUCCÈS] First Break`.
+- [ ] Utilise un Max Boost sur une compétence offensive pour obtenir
+  `[SUCCÈS] Max Boost`.
+- [ ] Monte les compétences de job et les compétences de maîtrise plutôt que
+  de garder les JP inutilisés.
+- [ ] Garde un soigneur et une réponse aux altérations dans chaque groupe.
+- [ ] Équipe les passifs d'expérience, de JP et de rencontres quand tu fais le
+  nettoyage ; ils ne sont pas nécessaires pour la route principale.
+- [ ] Fais tourner les 36 personnages dans le Training Ground dès qu'il est
+  disponible ; le succès Octopath Battler demande un groupe de huit au combat,
+  pas huit personnages simplement recrutés.
+
+================================================================
+PROLOGUE — FLAMES OF RESTORATION
+================================================================
+
+WISHVALE — PREMIER PASSAGE
+
+- [ ] Suis Stia dans les ruines de Wishvale et ouvre le menu de reconstruction.
+- [ ] Construis le Workshop avec Stia.
+- [ ] Invite Tyme après l'objectif de reconstruction.
+- [ ] Construis la maison de Tyme, puis installe-le dedans.
+- [ ] Déclenche la scène de restauration et récupère l'accès au Hub.
+- [ ] Construis une première structure pour obtenir `[SUCCÈS] The First
+  Construction`.
+- [ ] Invite un résident supplémentaire pour obtenir `[SUCCÈS] The First
+  Invitation`.
+- [ ] Construis le Tavern and Hub dès que l'objectif le permet pour obtenir
+  `[SUCCÈS] The Tavern and Hub`.
+[COFFRE] [ ] Wishvale, maison du protagoniste — 300 feuilles — objet de
+  prologue à prendre avant la transition.
+[COFFRE] [ ] Wishvale — Healing Grape — objet de prologue.
+[COFFRE] [ ] Wishvale — Olive of Life — objet de prologue.
+[COFFRE] [ ] Wishvale, point de collecte de nuit — Nourishing Nut — fenêtre
+  de prologue à vérifier avant la reconstruction suivante.
+
+WISHVALE TRAIL
+
+- [ ] Quitte Wishvale par le sud et traverse Wishvale Trail.
+[COFFRE] [ ] Wishvale Trail — Fire Soulstone — premier passage.
+[COFFRE] [ ] Wishvale Trail, cabane de Nomos — Eerie Statue — entrer dans la
+  cabane avant de poursuivre vers les cavernes.
+- [ ] Parle à Nomos dans sa cabane à l'est ; son aide ouvre l'accès aux
+  Cerulean Caverns.
+
+CERULEAN CAVERNS
+
+[COFFRE] [ ] Cerulean Caverns — Buckler — premier passage dans la caverne.
+- [ ] Avance jusqu'à la zone lumineuse et rencontre Phenn dans la séquence du
+  prologue ; il s'agit de sa présence temporaire avant son recrutement durable.
+[COFFRE] [ ] Cerulean Caverns — Azure Flamestone — prendre la pierre avant
+  le combat.
+[SAUVEGARDE] [ ] Sauvegarde devant la zone du boss.
+[BOSS] [ ] Emerald Direwolf — soigne avec Stia, brise avec les faiblesses
+  disponibles et utilise le boost au tour où ses boucliers tombent.
+- [ ] Retourne à Wishvale et rends l'Azure Flamestone à Stia.
+- [ ] Repose-toi chez toi pour clôturer le prologue.
+
+FIN DU PROLOGUE — CONTRÔLE
+
+- [ ] Le Workshop est construit.
+- [ ] Stia est recrutée.
+- [ ] Le Hub est opérationnel.
+- [ ] Une maison et un résident supplémentaire sont installés.
+- [ ] Les cinq trésors de prologue sont contrôlés dans le registre.
+
+================================================================
+WISHVALE — RECONSTRUCTION CHRONOLOGIQUE
+================================================================
+
+La ville est un parcours parallèle obligatoire. Chaque fois qu'un objectif de
+construction apparaît, termine-le avant de relancer l'histoire : les habitants,
+les installations et les amitiés débloquent des objets, des compétences et des
+succès. Les emplacements peuvent être déplacés plus tard ; ne gaspille pas les
+matériaux rares dans des décorations avant les bâtiments utiles.
+
+NIVEAU 2 — RESTORATION BEGINS
+
+- [ ] Cuisine un plat dans le Tavern and Hub.
+- [ ] Atteins au moins cinq résidents, en comptant le protagoniste, Stia,
+  Phenn et les habitants déjà imposés par la route.
+- [ ] Construis une maison supplémentaire.
+- [ ] Nettoie les gravats à l'ouest du Hub.
+- [ ] Parle à Phenn devant le Hub pour ouvrir Kindlers of the Flame 2.
+
+NIVEAU 3 — FARM ET TRAINING
+
+- [ ] Construis les Fields dès que le projet apparaît.
+- [ ] Construis le Ranch lorsque la place est ouverte.
+[SUCCES] [ ] Freshly Grown Vegetables tombe lorsque les champs sont construits.
+- [ ] Ouvre le Training Ground dès son déblocage et utilise-le pour les recrues
+  laissées en retrait.
+- [ ] Invite au moins un PNJ dont l'influence améliore la production de la
+  ville plutôt que de remplir les logements au hasard.
+
+NIVEAU 4 — SHOP ET RECRUTEMENTS
+
+- [ ] Atteins le niveau 4 avec les bâtiments, les habitants et les objectifs
+  de Rekindling the Flame Pt. 3.
+- [ ] Construis ou active la Shop après le recrutement de Ludo.
+[SUCCES] [ ] A Dependable Merchant tombe quand la boutique est construite.
+- [ ] Utilise la boutique pour acheter les matériaux de reconstruction avant
+  les objets de confort.
+- [ ] Conserve les ressources nécessaires au Museum, à l'Arena et au Strange
+  House ; ces bâtiments n'arrivent pas tous au même moment.
+
+NIVEAU 5 — CHURCH ET FLAME DAIS
+
+- [ ] Termine Kindlers of the Flame 4 et recrute Laurana.
+- [ ] Construis la Church avec Metal, Stone et Healing Grape Bunch.
+- [ ] Construis le Sacred Flame Dais quand le projet se débloque.
+[SUCCES] [ ] A New Church tombe à la construction de l'église.
+[SUCCES] [ ] Kindler of the Flame tombe à la construction du dais.
+- [ ] Lance Rekindling the Flame Pt. 5 lorsque Shepherds Rock devient
+  accessible.
+- [ ] Améliore la Church au niveau 3 avant la première grande tournée des
+  coffres bleus ; cette amélioration ouvre leur ouverture.
+
+NIVEAUX 6 À MAXIMUM
+
+- [ ] Construis le Monster Arena au niveau 6 avec Quality Metal, Quality Stone
+  et Monster Trap.
+[SUCCES] [ ] Overwhelming Zeal tombe à la construction de l'arène.
+- [ ] Construis le Museum avec 30 Quality Cloth, 20 Quality Stone et un
+  Musician's Instrument.
+- [ ] Récupère le Musician's Instrument auprès de l'ancien marchand de
+  Shepherds Rock si tu ne l'as pas déjà obtenu.
+[SUCCES] [ ] A Treasure Trove of Knowledge tombe à la construction du musée.
+- [ ] Dépose les 40 partitions au Museum ; le menu compte 30 pour Music
+  Aficionado, mais le registre de ce guide vise 40/40.
+- [ ] Construis le Strange House avec 30 Quality Lumber, 20 Quality Metal et
+  une Strange Key.
+- [ ] Utilise le Strange House pour ouvrir Tavern of Nil en post-game.
+- [ ] Fais progresser les bâtiments, les habitants et les décorations jusqu'au
+  niveau maximal.
+[SUCCES] [ ] For the Future of Wishvale tombe au niveau de ville maximal.
+
+RÉSIDENTS ET AMITIÉ
+
+- [ ] Invite chaque personnage jouable dès que sa quête est terminée.
+- [ ] Invite des PNJ dont l'action fournit Lumber, Stone, Cloth, Metal,
+  Quality Materials, nourriture et objets rares.
+- [ ] Débloque l'amitié avec la Church, puis monte une relation jusqu'au
+  maximum pour `[SUCCÈS] A Special Kinship`.
+- [ ] Affecte les résidents aux bâtiments avec le bonus adapté ; l'affectation
+  peut être modifiée, donc ne bloque pas la route sur un choix esthétique.
+[COFFRE] [ ] Wishvale Museum — Battle Music Score I — disponible après la
+  construction du musée.
+[COFFRE] [ ] Wishvale — Yaya's Hairpin — point de collecte près de l'église
+  pendant Kindlers of the Flame 5.
+
+================================================================
+KINDLERS OF THE FLAME — CHAPITRES 1 ET 2
+================================================================
+
+CHAPITRE 1 — THE HUNTER PHENN
+
+- [ ] Parle à Stia dans le Workshop.
+- [ ] Va dans West Emberglow Wilds, au sud-est de Wishvale.
+- [ ] Entre dans la grotte au nord-ouest de la zone.
+- [ ] Avance dans Snowshard Grotto jusqu'au secteur nord-est.
+[COFFRE] [ ] Snowshard Grotto — Inspiriting Plum.
+[COFFRE] [ ] Snowshard Grotto, coffre bleu — More Rare Monsters Mastery.
+[COFFRE] [ ] Snowshard Grotto — Herb of Vitality.
+[COFFRE] [ ] Snowshard Grotto, ennemi menaçant Frostwing Serpent — Giant Bow.
+[BOSS] [ ] Vaincs Menacing Frostwing Serpent après avoir contrôlé ses
+  résistances et sa fenêtre de break.
+- [ ] Reviens à Wishvale et parle à Phenn pour le recruter définitivement.
+- [ ] Construis la maison suivante pour ouvrir le chapitre 2.
+
+CHAPITRE 2 — THE YOUNG BOY BASIL
+
+- [ ] Atteins le niveau 2 de Wishvale.
+- [ ] Termine la cuisine, installe cinq résidents et nettoie les gravats à
+  l'ouest du Hub.
+- [ ] Parle à Phenn devant le Hub.
+- [ ] Va à Valore: Main Boulevard et entre dans l'église.
+- [ ] Parle à la femme qui donne les informations sur Margot.
+- [ ] Va sur Path to Herminia's Manse, au sud de Valore.
+- [ ] Cherche Margot dans l'angle nord-ouest de la route.
+- [ ] Inquire Margot avant de tenter Invite ; sa réussite est garantie pendant
+  l'objectif de quête.
+- [ ] Invite Margot à Wishvale.
+- [ ] Ramène Margot et Basil à Wishvale et poursuis la reconstruction.
+[COFFRE] [ ] Valore, inn 2F — Inspiriting Plum.
+[COFFRE] [ ] Valore: Main Boulevard, coffre bleu — Knock Out Mastery.
+[COFFRE] [ ] Path to Herminia's Manse — Light Soulstone, Healing Grape et
+  Bottle of Sleeping Dust.
+
+================================================================
+TOUR DES RECRUTEMENTS APRÈS LE PROLOGUE
+================================================================
+
+Ce détour se fait avant les trois arcs Master. Il évite de revenir dans les
+premières villes et rend immédiatement disponibles les compétences de route.
+
+- [ ] Celsus — Valore : parle-lui dans la ville et réponds à ses questions.
+- [ ] Macy — Emberglow : aide-la à soigner l'enfant malade.
+- [ ] Alexia — Theatropolis : obtiens un Letter Fragment, puis utilise Entreat.
+- [ ] Viator — Valore : garde une Crested Key dans l'inventaire, puis parle-lui.
+- [ ] Pius — Cragspear : accompagne-le jusqu'à la tombe de la mère du
+  protagoniste.
+[COFFRE] [ ] Valore Trail — Nourishing Nut L, dans le coffre bleu.
+[COFFRE] [ ] Valore Trail — Olive of Life.
+[COFFRE] [ ] Emberglow Wilds — Inspiriting Plum, 340 feuilles et Frost Axe
+  dans le coffre bleu.
+[COFFRE] [ ] West Emberglow Wilds — Ice Soulstone et Protective Earring.
+[COFFRE] [ ] Theatropolis Plains — Bottle of Poison Dust, 480 feuilles,
+  Cheap Whiskey, Prosperity Charm bleu, Olive of Life et Energizing Pomegranate.
+[COFFRE] [ ] Theatropolis — Herb of Healing à l'auberge, Letter Fragment à
+  la bibliothèque et Commander's Shield bleu.
+
+================================================================
+MASTER OF WEALTH — CHAPITRES 1 À 3
+================================================================
+
+CHAPITRE 1 — THE COVETOUS WITCH
+
+- [ ] Depuis Valore, suis la Valore Trail jusqu'à Herminia's Manse.
+[COFFRE] [ ] Path to Herminia's Manse — Light Soulstone, Healing Grape,
+  Bottle of Sleeping Dust.
+[COFFRE] [ ] Herminia's Manse: Entrance — Leather Hat, Sprightly Earring,
+  Dagger Dance Mastery, 1000 feuilles et Herb of Clamor.
+[BOSS] [ ] Traverse l'entrée et brise Menacing Demon Deer pour obtenir
+  Dagger Dance Mastery si le coffre gardé est encore fermé.
+[SUCCES] [ ] Ring of the Prince of Thieves tombe après Auguste/Herminia selon
+  le chapitre correspondant ; ne quitte pas le chapitre sans vérifier l'anneau.
+
+CHAPITRE 2 — A FLOWER BLOOMS
+
+- [ ] Depuis les premières routes, rejoins Snowbloom Ruins.
+[COFFRE] [ ] Snowbloom Ruins — Invigorating Nut, Ice Soulstone et Round Shield.
+- [ ] Entre dans Subterranean Snow Ruins.
+[COFFRE] [ ] Subterranean Snow Ruins — 1100 feuilles, Spear Sweep Mastery
+  gardée par Menacing Accursed Armor et Herb of Vigor.
+- [ ] Ouvre tous les coffres bleus accessibles ; les autres seront revisités
+  après l'amélioration de Church.
+
+CHAPITRE 3 — HERMINIA THE HUNTRESS
+
+- [ ] Reviens à Herminia's Manse quand la quête devient active.
+[COFFRE] [ ] Herminia's Manse — Inspiriting Plum Basket et Iron Fan gardé.
+[COFFRE] [ ] Herminia's Manse: Cellars — Inspiriting Plum Basket, Nocturne of
+  Icy Slumber Mastery, Enfeebling Amulet bleu, Magic Nut et 900 feuilles.
+[COFFRE] [ ] Valore, maison du Major — Music Score Master of Wealth.
+[BOSS] [ ] Termine le combat d'Herminia en cassant ses boucliers avant les
+  attaques de zone ; conserve une réponse aux altérations.
+[SUCCES] [ ] Obtiens Ring of the Huntress.
+[COFFRE] [ ] Snowshard Grotto et Serpent's Burrow — contrôle les coffres de
+  retour avant de passer au chapitre suivant.
+
+================================================================
+MASTER OF POWER — CHAPITRES 1 À 3
+================================================================
+
+CHAPITRE 1 — THE SCARLET TYRANT
+
+- [ ] Rejoins Emberglow Laboratory Entrance.
+[COFFRE] [ ] Emberglow Laboratory: Entrance — Olive of Life, Linen Robe
+  gardée, Wind Soulstone.
+[COFFRE] [ ] Emberglow Laboratory — Herb of Mending, Empowering Earring,
+  800 feuilles, Battle Music Score V près du tome de sauvegarde, Energizing
+  Pomegranate et Bolstering Break Mastery gardée.
+[BOSS] [ ] Prépare un soigneur et des attaques de glace/ténèbres pour les
+  ennemis du laboratoire ; casse les gardes avant le lancement de leurs buffs.
+[SUCCES] [ ] Obtiens Ring of the Thunderblade à la fin de Tytos.
+
+CHAPITRE 2 — A DREAM OF SNOW
+
+- [ ] Traverse Knights Ardante Garrison.
+[COFFRE] [ ] Knights Ardante Garrison — Alchemy Tome gardé par Menacing Wind
+  Elemental, War Axe, Fortifying Nut et Inspiriting Plum M.
+[COFFRE] [ ] Emberglow Slopes — Herb of Healing, Swirling Arc Mastery gardée
+  par Menacing Frost Bear et Critical Nut.
+- [ ] Termine la séquence de Basil et de Delitia avant de quitter Emberglow.
+- [ ] Recrute Delitia : provoque-la à Emberglow, gagne le combat et accepte la
+  recherche de son frère.
+
+CHAPITRE 3 — TYTOS THE THUNDERBLADE
+
+- [ ] Entre dans Ceremonial Square puis Cathedral of Tytos.
+[COFFRE] [ ] Ceremonial Square — Feather Sabre, 1000 feuilles, Empowering
+  Cuffs et Fire Soulstone M.
+[COFFRE] [ ] Cathedral of Tytos — Energizing Pomegranate M, Traditional
+  Dancer Garb, Herb of Vitality et Resilient Stance Mastery.
+[COFFRE] [ ] Emberglow East District — Rinyuu's Stew Recipe et Battle Music
+  Score II dans la maison de Velnorte.
+[BOSS] [ ] Maintiens la vitesse de l'équipe et garde des soins de groupe ;
+  Ring of the Thunderblade devient accessible après cette route.
+[COFFRE] [ ] Cathedral of Tytos, premier étage à droite — Master of Power
+  Music Score après la progression Bestower correspondante.
+
+================================================================
+MASTER OF FAME — CHAPITRES 1 À 3
+================================================================
+
+CHAPITRE 1 — THE GENIUS PLAYWRIGHT
+
+- [ ] Va à Theatropolis puis entre dans l'Amphitheatre.
+[COFFRE] [ ] Amphitheatre: Entrance — Ordinary Hat.
+[COFFRE] [ ] Rehearsal Room — Healing Grape, Thunder Soulstone, Buckler et
+  250 feuilles.
+[COFFRE] [ ] Dressing Room — Double Slam Mastery gardée par Menacing Thespian
+  Leader, Olive of Life et Stimulating Earring.
+- [ ] Fais les scènes du dramaturge et prépare le retour dans les salles
+  verrouillées.
+
+CHAPITRE 2 — FIT FOR A TRAGEDY
+
+- [ ] Entre dans Auguste's Villa: Entrance.
+[COFFRE] [ ] Villa Entrance — Light Staff, Shadow Soulstone, Olive of Life,
+  Healing Grape Bunch.
+[COFFRE] [ ] Auguste's Villa — Invigorate and Inspire Mastery gardée,
+  Nourishing Nut, Round Shield, Bottle of Numbing Dust, Battle Music Score III,
+  Battle Music Score VIII et Ancient Necklace.
+[BOSS] [ ] Contrôle les deux salles de bibliothèque : les deux partitions
+  Battle Music sont dans les pièces nord-est, chacune sur une étagère.
+- [ ] Termine la route d'Auguste et recrute Saoirse quand son invitation à
+  Theatropolis devient disponible au chapitre 3.
+
+CHAPITRE 3 — AUGUSTE, PRINCE OF THIEVES
+
+- [ ] Reviens à l'Amphitheatre après le déblocage du chapitre.
+[COFFRE] [ ] Backstage — Resistant Nut, Critical Cuffs gardés, Bottle of
+  Sanguine Dust, Inspiriting Plum M, Bronze Helm et 700 feuilles.
+[COFFRE] [ ] Amphitheatre Underground — Bronze Vest, Share SP Mastery gardée,
+  Magic Nut et Master of Fame Music Score à l'entrée.
+- [ ] Recrute Saoirse : rencontre-la dans l'Amphitheatre et réponds correctement
+  aux prompts de danse.
+- [ ] Termine le combat d'Auguste et récupère l'anneau associé à l'arc.
+[SUCCES] [ ] Ring of the Prince of Thieves est contrôlé dans la liste finale.
+
+================================================================
+KINDLERS 3 À 5 ET FIN DES TROIS MASTERS
+================================================================
+
+KINDLERS 3 — THE MERCHANT LUDO
+
+- [ ] Atteins le niveau 4 de Wishvale.
+- [ ] Nettoie le premier passage de gravats et parle à Margot près de l'entrée.
+- [ ] Va à Sunshade et interroge les marchands à droite de l'entrée.
+- [ ] Va dans Eastern Sunshade Sands et entre dans Finesand Ruins.
+[COFFRE] [ ] Finesand Ruins — Bottle of Numbing Dust, Wind Soulstone M,
+  Wild Knives Mastery bleu, Stronger Strikes Mastery et Vivid Woven Wool.
+[BOSS] [ ] Bats les trois Desert Lizardking I, puis le Lizardmen Leader avec
+  ses deux renforts ; la faiblesse du chef inclut Wind/Dark et il inflige Poison.
+- [ ] Recrute Ludo dans Wishvale et active la Shop.
+
+KINDLERS 4 — THE CLERIC LAURANA
+
+- [ ] Atteins la moitié des objectifs de Wishvale Restored au niveau 5.
+- [ ] Parle à Ludo dans le village.
+- [ ] Va à Flamesgrace Cathedral et parle à Laurana.
+- [ ] Ramène Laurana à Wishvale.
+- [ ] Ramasse trois Quality Stone dans Flamesgrace Wilds.
+- [ ] Rapporte les trois pierres à Stia dans le Workshop.
+- [ ] Construis la Church.
+[COFFRE] [ ] Flamesgrace Wilds — Resistant Nut M, Tattered Sacred Shield,
+  Ice Soulstone M, Reinvigorating Jam x2 bleu et Unerring Cuffs.
+[COFFRE] [ ] Flamesgrace — Light Soulstone M et Light Nut M à l'auberge,
+  Bottle of Blinding Dust.
+[COFFRE] [ ] Flamesgrace Cathedral — Traveling Music Score II dans la maison
+  est, Energizing Pomegranate L, Olive of Life M, Virtuous Light Mastery,
+  Healing Grape Bunch et Elder's Circlet bleu.
+
+KINDLERS 5 — THE PROTAGONIST
+
+- [ ] Lis la lettre de Laurana sur l'autel de la Church.
+- [ ] Va vers la sortie de Wishvale pour déclencher la piste.
+- [ ] Retourne dans la cabane de Nomos à l'est de Wishvale Trail.
+- [ ] Traverse Cerulean Caverns vers Path to the Flamebearer's Shrine.
+[COFFRE] [ ] Path to the Flamebearer's Shrine — Refreshing Jam et Divine
+  Halo.
+[BOSS] [ ] Emerald Direwolf — faiblesses Wind, Ice et Dark ; garde Stia ou
+  un autre soigneur pour les tours où le boss concentre ses dégâts.
+- [ ] Remets l'Azure Flamestone à Laurana à Wishvale.
+[SUCCES] [ ] A New Church et Kindler of the Flame sont contrôlés.
+- [ ] Améliore la Church au niveau 3 et ouvre les coffres bleus de retour.
+
+================================================================
+RINGS SEALED AWAY
+================================================================
+
+- [ ] Termine les trois arcs Master et vérifie les trois anneaux : Aelfric,
+  Brand et Draefendi.
+[SUCCES] [ ] Ring of the Flamebringer — anneau d'Aelfric.
+[SUCCES] [ ] Ring of the Thunderblade — anneau de Brand.
+[SUCCES] [ ] Ring of the Huntress — anneau de Draefendi.
+- [ ] Retourne à Wishvale et parle à Stia.
+- [ ] Va dans Wishvale Trail et parle à Sazantos.
+[SAUVEGARDE] [ ] Archive avant le combat de Sazantos.
+[BOSS] [ ] Bats Sazantos et garde les soins de groupe pour Transcendent Light.
+- [ ] Choisis n'importe quelle réponse lors de la décision de sceller les trois
+  anneaux ; la décision ne bloque pas la route des succès.
+- [ ] Sazantos rejoint temporairement le groupe.
+- [ ] Rejoins Rippletide par Theatropolis si la ville n'est pas encore ouverte.
+- [ ] Dans Wishvale Church, lis la note laissée par Laurana sur l'autel.
+- [ ] Retourne chez Nomos et rejoins la sortie est des cavernes.
+- [ ] Va au centre de la zone pour déclencher la rencontre de Laurana.
+- [ ] Retourne à Wishvale après le combat et reprends la reconstruction avant
+  de démarrer Master of All.
+
+================================================================
+MASTER OF ALL — CHAPITRES 1 À 8
+================================================================
+
+Avant chaque chapitre, fais le tour des villes nouvellement ouvertes, invite
+les habitants et contrôle les coffres bleus. Les lieux ci-dessous sont l'ordre
+de route conseillé, pas une interdiction de revenir en arrière.
+
+CHAPITRE 1 — KING PARDIS III
+
+- [ ] Va à Cragspear et parle à Lebrandt pour lancer la quête.
+- [ ] Traverse West Valore Trail puis Cragspear Pass.
+[COFFRE] [ ] West Valore Trail — Befuddling Dagger, Herb of Light, Slippery
+  Nut et Light Soulstone.
+[COFFRE] [ ] Cragspear Pass — Lightning Amulet, Thunder Soulstone M et Song
+  of Booming Thunder Mastery bleu.
+[COFFRE] [ ] Cragspear — High House Shield bleu, Battle Music Score V dans
+  la maison à l'est, Spirit Tome et Exquisite Silverwork.
+[COFFRE] [ ] Cragspear: Slums — Inspiriting Plum M, Fortitude Mastery,
+  Calming Stone et Nourishing Nut M.
+- [ ] Explore Gray Grotto et son secteur Depths.
+[COFFRE] [ ] Gray Grotto — Energizing Pomegranate M, Shadow Soulstone M,
+  Fire Amulet, Saintly Tiara, Refreshing Jam, 5000 feuilles, Noxious Spider
+  Axe gardée, Iron Armor et Fortifying Nut M.
+- [ ] Termine le premier combat de l'arc et recrute les personnages affichés
+  par la quête.
+
+CHAPITRE 2 — GENERAL MAHREZ
+
+- [ ] Traverse South Cragspear Pass puis Geist Canyon.
+[COFFRE] [ ] South Cragspear Pass — Fortifying Nut M, Energizing Pomegranate
+  M et Chakra Band.
+[COFFRE] [ ] Geist Canyon: South — Spinning Axe Mastery, Healing Grape Bunch,
+  Herb of Healing et Lapis Rod.
+[COFFRE] [ ] Geist Canyon — Almighty Olive gardée, Plate Shield et Resistant
+  Nut M.
+[COFFRE] [ ] Gray Grotto Depths — contrôle du coffre bleu et du Noxious Spider
+  Axe avant la sortie.
+[BOSS] [ ] Bats Mahrez en cassant les renforts avant le chef et garde une
+  suppression d'altération pour les debuffs.
+
+CHAPITRE 3 — CHARLES THE TRAVELER
+
+- [ ] Traverse Clearbrook Traverse et entre à Clearbrook.
+[COFFRE] [ ] Clearbrook Traverse — Stimulating Cuffs, Magic Nut M et Bottle
+  of Sleeping Dust.
+[COFFRE] [ ] Clearbrook — Alluring Ribbon bleu, Drifting Dagger bleu,
+  Slippery Nut M, Battle Music Score VII dans la maison de Zeph et Revitalizing
+  Jam.
+- [ ] Va à Path to Waterpool Caves.
+[COFFRE] [ ] Path to Waterpool Caves — Light Soulstone, Plum Blossom Fan et
+  7500 feuilles.
+[COFFRE] [ ] Waterpool Caves — Inspiriting Plum Basket, Energizing Pomegranate,
+  Letter Fragment, Stat Swap Mastery gardée, Gold Hairpiece et Energizing
+  Pomegranate L.
+- [ ] Recrute Therion et les autres voyageurs dont les récits se débloquent.
+[MANQUABLE] [ ] Termine An Encounter with Olberic à Shepherds Rock dès que
+  la quête apparaît ; ce recrutement est requis avant plusieurs contrôles de
+  fin d'arc.
+
+CHAPITRE 4 — WISE KING SOLON
+
+- [ ] Traverse East Clearbrook Traverse vers Sunshade Sands.
+[COFFRE] [ ] East Clearbrook Traverse — Energizing Pomegranate L, Wind
+  Soulstone M et Enlightening Necklace.
+[COFFRE] [ ] Sunshade Sands — Inspiriting Plum M, Primeval Robe bleu et
+  Silver-Filled Pouch.
+[COFFRE] [ ] Sunshade — Fire Soulstone M à l'auberge, Invigorating Nut M et
+  Little Crow bleu.
+[COFFRE] [ ] Finesand Ruins — Numbing Dust, Stalwart Aura Mastery gardée,
+  Wind Soulstone M, Wild Knives Mastery bleu, Stronger Strikes Mastery et Vivid
+  Woven Wool.
+[BOSS] [ ] Termine la séquence de Solon avec un groupe capable de briser
+  plusieurs types de boucliers en un tour.
+
+CHAPITRE 5 — EL THE SWORDSMAN
+
+- [ ] Va à Shepherds Rock par North Shepherds Rock Pass.
+[COFFRE] [ ] Shepherds Rock Pass — Light Nut M, EXP Augmentor bleu et
+  Preventative Measures Mastery.
+[COFFRE] [ ] Shepherds Rock — Healing Grape Bunch, Almighty Olive x2 bleu
+  et Tune of the Tempest Mastery.
+[COFFRE] [ ] Castle Square — Reinvigorating Jam, Ice Soulstone M, deux
+  Freshly Shorn Fleece dans le jardin ouest, Traveling Music Score VIII dans la
+  maison nord-ouest et Herb of Vitality.
+[COFFRE] [ ] North Shepherds Rock Pass — Sprightly Cuffs et Herb of Clamor.
+- [ ] Recrute Olberic via An Encounter with Olberic.
+[BOSS] [ ] Termine El the Swordsman et vérifie le recrutement d'Olberic avant
+  d'avancer.
+
+CHAPITRE 6 — PRINCESS ELRICA
+
+- [ ] Nettoie les coffres bleus des zones déjà parcourues après l'amélioration
+  de Church.
+- [ ] Traverse Valley of Death: East.
+[COFFRE] [ ] Valley of Death: East — Shadow Soulstone M, Octopath Rolls,
+  Cat's Eye et Lady's Tiara.
+[COFFRE] [ ] Valley of Death — Herb of Fortification, Almighty Soulstone,
+  Repeated Bash Mastery gardée et Swordbreaker.
+[COFFRE] [ ] Valley of Death: West — Herb of Mending, Protective Cuffs, Olive
+  of Life M et Sunlands Spear.
+- [ ] Termine la quête de Princess Elrica et contrôle son statut temporaire.
+- [ ] Lance The Rarest of Eggs à Cragspear après ce chapitre.
+
+CHAPITRE 7 — PRINCESS ALAUNE
+
+- [ ] Traverse Stillwater Subterrane.
+[COFFRE] [ ] Stillwater Subterrane — 10000 feuilles, Scarlet Stone of
+  Protection, Energizing Pomegranate M et Dark Strike Mastery.
+[COFFRE] [ ] Castle Riven — Inspiriting Plum Basket, Secrets of Sleep Volume
+  II gardé, Spiked Armor, Thunder Soulstone M et Revitalizing Jam.
+- [ ] Termine la séquence d'Alaune et les événements de Clearbrook.
+[BOSS] [ ] Conserve une attaque de lumière et une réponse aux altérations.
+
+CHAPITRE 8 — PARDIS THE SCHOLARKING
+
+- [ ] Traverse Road to Castle Edoras.
+[COFFRE] [ ] Road to Castle Edoras — Revitalizing Jam, Swiftbolt Mastery
+  gardée et Shadow Soulstone M.
+- [ ] Entre dans Castle Edoras.
+[COFFRE] [ ] Castle Edoras — Blazon of Protection, Energizing Pomegranate M,
+  Healing Grape Bunch, Herb of Vitality et Hellish Flame Mastery.
+[COFFRE] [ ] Castle Edoras: Upper Floor — Refreshing Jam, Hasty Helm, Exotic
+  Fan gardé et Herb of Clamor.
+[COFFRE] [ ] Princess's Chambers — Proof of Valor au point de collecte.
+[COFFRE] [ ] Throne Room — Large Goldwork, Light Soulstone L, Fortifying Nut
+  L, Dark Amulet, Energizing Pomegranate L, Giant Goldwork et Silver-Filled
+  Pouch ; tous les objets sont dans la salle du trésor.
+- [ ] Termine Pardis the Scholarking.
+[COFFRE] [ ] Cragspear, maison nord-est — Master of All Music Score après le
+  chapitre 8.
+[SUCCES] [ ] Job Master devient possible après l'obtention de tous les jobs.
+
+TRIAL OF THE RING
+
+- [ ] Prépare une équipe complète de huit, des soins de groupe et des attaques
+  sur plusieurs faiblesses.
+[SAUVEGARDE] [ ] Garde une archive avant Trial of the Ring.
+- [ ] Termine le combat final de l'arc et récupère le contrôle du monde.
+- [ ] Fais le tour de Wishvale et des quêtes de recrutements avant les Bestower.
+
+================================================================
+RECRUTEMENTS ET RÉCITS SECONDAIRES — ROUTE DE RATTRAPAGE
+================================================================
+
+Les recrues ne doivent pas être refusées. Une invitation peut être reportée,
+mais accepte chaque personnage dès que son récit est visible pour garder un
+registre simple et obtenir `[SUCCÈS] The Summoned`.
+
+36 PERSONNAGES JOUABLES
+
+- [ ] 01 Protagonist — création au prologue.
+- [ ] 02 Stia — construire le Workshop à Wishvale.
+- [ ] 03 Phenn — Kindlers 1, Snowshard Grotto, puis retour à Wishvale.
+- [ ] 04 Laurana — Kindlers 5, Flamesgrace, vaincre Emerald Direwolf.
+- [ ] 05 Celsus — Valore après le prologue, répondre à ses questions.
+- [ ] 06 Macy — Emberglow après le prologue, soigner l'enfant malade.
+- [ ] 07 Alexia — Theatropolis, obtenir un Letter Fragment puis Entreat.
+- [ ] 08 Viator — Valore avec une Crested Key.
+- [ ] 09 Ludo — Kindlers 3, Sunshade puis Finesand Ruins.
+- [ ] 10 Carinda — Bestower of Power 1, Donescu, mission de secours.
+- [ ] 11 Pius — Cragspear, accompagner le voyage vers la tombe.
+- [ ] 12 Saoirse — Master of Fame 3, performance dans l'Amphitheatre.
+- [ ] 13 Xerc — Bestower of Power 3, aider contre l'Immoral Noble à Grandport.
+- [ ] 14 Delitia — Master of Power 2, la vaincre à Emberglow puis rechercher
+  son frère.
+- [ ] 15 Esperre — Bestower of Wealth 2/3, vaincre Colossal Blightant à
+  Sufrataljah Sands.
+- [ ] 16 Goodwin — Shipwreck Island, lui donner Ratatouille puis Inquire après
+  Queen Orsa et Wishvale niveau 6.
+- [ ] 17 Reime — Bestower of Wealth 3, la vaincre dans l'arène de Victors
+  Hollow.
+- [ ] 18 Heidne — Kindlers 5 + Master of All 3, terminer sa chaîne de récits.
+- [ ] 19 Ophilia — récit secondaire déverrouillé après Bestower of Fame 2 et
+  Kindlers 5, à Flamesgrace.
+- [ ] 20 Tressa — récit secondaire de recrutement dans la route Coastlands.
+- [ ] 21 Cyrus — récit secondaire de recrutement après les chapitres requis.
+- [ ] 22 Olberic — Shepherds Rock, An Encounter with Olberic.
+- [ ] 23 Primrose — récit secondaire de recrutement après le déblocage de la
+  route Fame.
+- [ ] 24 Alfyn — Path to Waterpool Caves, An Encounter with Alfyn.
+- [ ] 25 Therion — Cragspear après Master of All 2.
+- [ ] 26 H'aanit — récit secondaire de recrutement après l'ouverture de la
+  route des Highlands.
+- [ ] 27 Bargello — Bestower of All 1.
+- [ ] 28 Alaune — Bestower of All 3.
+- [ ] 29 Richard — Bestower of All 1.
+- [ ] 30 Solon — Bestower of All 5.
+- [ ] 31 Eltrix — Bestower of All 5.
+- [ ] 32 Rondo — Bestower of All 4.
+- [ ] 33 Isla — réunir les cinq Letter Fragments et terminer les conditions de
+  l'Isle of Sages.
+- [ ] 34 Sazantos — présence temporaire pendant Trial of the Ring et la route
+  Bestower of All.
+- [ ] 35 Elrica — présence temporaire dans Master of All 6.
+- [ ] 36 Tatloch — Bestower of Power 3.
+
+RÉCITS SECONDAIRES À COCHER DANS L'ORDRE D'APPARITION
+
+- [ ] Rekindling the Flame Pt. 1 — première maison et première invitation.
+- [ ] Rekindling the Flame Pt. 2 — débloquer la ferme et les installations.
+- [ ] Rekindling the Flame Pt. 3 — ouvrir le commerce.
+- [ ] Rekindling the Flame Pt. 4 — préparer la Church.
+- [ ] Rekindling the Flame Pt. 5 — progresser à Shepherds Rock.
+- [ ] A Clan's Pride.
+- [ ] A Complete Collection.
+- [ ] A Father's Love.
+- [ ] A Long-Lost Love.
+- [ ] A Stubborn Master.
+- [ ] A Unique Figurine.
+- [ ] Alpaca Roundup.
+- [ ] An Assistant Like No Other.
+- [ ] An Encounter with Alexia.
+- [ ] An Encounter with Alfyn.
+- [ ] An Encounter with Carinda.
+- [ ] An Encounter with Celsus.
+- [ ] An Encounter with Cyrus.
+- [ ] An Encounter with Delitia.
+- [ ] An Encounter with Esperre.
+- [ ] An Encounter with Goodwin.
+- [ ] An Encounter with Macy.
+- [ ] An Encounter with Olberic.
+- [ ] An Encounter with Ophilia.
+- [ ] An Encounter with Pius.
+- [ ] An Encounter with Primrose.
+- [ ] An Encounter with Reime.
+- [ ] An Encounter with Saoirse.
+- [ ] An Encounter with Therion.
+- [ ] An Encounter with Tressa.
+- [ ] An Encounter with Viator.
+- [ ] An Encounter with Xerc.
+- [ ] An Un-Fur-gettable Reunion.
+- [ ] Books Overdue.
+- [ ] Donescu's Successor.
+- [ ] Fetching Soulstones.
+- [ ] Great Expectations.
+- [ ] Heidne and the Man-Eating Miser.
+- [ ] In Search of What Remains.
+- [ ] One's True Worth.
+- [ ] The Big 'Un.
+- [ ] The Blade of the Weak.
+- [ ] The Eight Sacred Treasures.
+- [ ] The Freezing Cold.
+- [ ] The Hidden Isle.
+- [ ] The Last Cask.
+- [ ] The Missing Brother.
+- [ ] The Queen Orsa.
+- [ ] The Rarest of Eggs.
+- [ ] The Sage Beckons.
+- [ ] Ticket Woes.
+- [ ] To Lift the Town's Spirits.
+- [ ] Truth of the Departed.
+- [ ] What Remains of the Black Scarlet.
+
+================================================================
+BESTOWER OF WEALTH — PROLOGUE ET CHAPITRES 1 À 3
+================================================================
+
+PROLOGUE — THE WITCH'S FORTUNE
+
+- [ ] Après Master of All, parle aux habitants de Wishvale et active le
+  prologue Bestower of Wealth.
+- [ ] Fais le tour de Victors Hollow et ouvre les zones de l'Arena Gate.
+- [ ] Recrute Reime quand sa quête d'arène apparaît.
+
+CHAPITRE 1 — THE HAVE-NOT
+
+- [ ] Traverse Victors Hollow Trail et entre dans Victors Hollow.
+[COFFRE] [ ] Victors Hollow Trail — Healing Grape Bunch, Elemental Shield,
+  Bouquet of Hollowlilies, Heavy Bone Spear bleu et Light Amulet.
+[COFFRE] [ ] Victors Hollow — Exotic Garb bleu et Herb of Vitality à l'auberge.
+[COFFRE] [ ] Arena Gate — Fortifying Stone et Traveling Music Score I dans
+  la petite maison au nord-ouest.
+[COFFRE] [ ] Old Quarter — Slippery Nut M et Curious Antiques.
+[COFFRE] [ ] Subterranean Arena — Sprightly Bracelet, Energizing Pomegranate,
+  Arrow Volley Mastery gardée, Formidable Stance Mastery bleu, Inspiriting Plum
+  Basket et Enchanted Axe.
+[COFFRE] [ ] Leopaldi's Estate — Arena Music Score I.
+- [ ] Termine l'arène et récupère le morceau associé.
+
+CHAPITRE 2 — FOOL'S GOLD
+
+- [ ] Traverse Donescu Traverse puis entre à Donescu.
+[COFFRE] [ ] Donescu Traverse — Wind Soulstone L, Fortifying Nut M et The
+  Days of Donescu dans le coffre bleu après Bestower of Power 1.
+[COFFRE] [ ] Donescu — Critical Necklace, Rapid Bow à l'auberge et coffre
+  bleu, Traveling Music Score VI dans la maison sud, Tumultuous Tome Toss
+  Mastery et Old Tome.
+[BOSS] [ ] Continue vers East Cyphlo Banks et contrôle les sauvegardes avant
+  l'arc suivant.
+
+CHAPITRE 3 — OSKHA THE TRADER
+
+- [ ] Explore Misty Falls après le chapitre.
+[COFFRE] [ ] Misty Falls — Herb of Awakening, Olive of Life L, 12000 feuilles
+  et Last Stand Mastery gardée/bleue.
+- [ ] Retourne à Donescu et termine la route d'Oskha.
+[SUCCES] [ ] Ring of the Trader est contrôlé après l'arc Wealth.
+
+================================================================
+BESTOWER OF POWER — PROLOGUE ET CHAPITRES 1 À 3
+================================================================
+
+PROLOGUE — EMPRESS FROM ABROAD
+
+- [ ] Reviens à Cragspear, parle à Lebrandt et suis les émissaires étrangers.
+- [ ] Recrute Carinda après Bestower of Power 1 dès que sa mission de secours
+  est disponible à Donescu.
+
+CHAPITRE 1 — THE ONE THAT LAYS WASTE
+
+- [ ] Traverse East Cyphlo Banks et Cyphlo Banks.
+[COFFRE] [ ] East Cyphlo Banks — Magic Nut M, Rejuvenating Jam, Crested Key
+  et Articulate Stone gardée par Menacing River Froggen II.
+[COFFRE] [ ] Cyphlo Banks — Wind Soulstone L, 18000 feuilles, Shadowsage
+  Necklace bleu et Resilient Stance Mastery gardée.
+[COFFRE] [ ] Donescu Traverse — The Days of Donescu bleu après le chapitre.
+- [ ] Termine l'arc et contrôle la clé si elle n'a pas été choisie au départ.
+
+CHAPITRE 2 — TO PROTECT WHAT IS DEAR
+
+- [ ] Traverse Outersea depuis les routes maritimes.
+[COFFRE] [ ] Outersea — Utsusemi Dance Mastery gardée, Elemental Bow, Ice
+  Soulstone XL, Revitalizing Jam, Olive of Life L, Gaolbreaker et Energizing
+  Pomegranate L.
+[COFFRE] [ ] Shipwreck Island — Elemental Hatchet gardée et Blizzard Amulet.
+- [ ] Termine Queen Orsa pour ouvrir le navire : parle à Marjim, paie 80000
+  feuilles ou recrute le Skilled Shipwright à Emberglow, recrute Chiara à
+  Cragspear, puis reviens à Marjim pour le nommer capitaine.
+[SUCCES] [ ] Setting Sail tombe dès que le navire devient utilisable.
+[MANQUABLE] [ ] Garde les cinq Letter Fragments : le navire ouvre les routes
+  de mer et la voie vers Isle of Sages.
+- [ ] Recrute Xerc à Grandport après le combat contre Immoral Noble et son
+  Lackey.
+
+CHAPITRE 3 — TATLOCH THE LADY OF GRACE
+
+- [ ] Traverse Grandport Coast et entre à Grandport.
+[COFFRE] [ ] Grandport Coast — Sun Shield bleu, Sharp Nut M, Grand Helm et
+  Ice Soulstone L.
+[COFFRE] [ ] Grandport — Traveling Music Score IV dans l'auberge 2F et
+  Ancient Model Ship dans la maison centrale.
+[COFFRE] [ ] Grandport Markets — Fire Soulstone L, Unerring Necklace et Red
+  Apple.
+[COFFRE] [ ] Grandport Bazaar — Refreshing Jam, 25000 feuilles et Rock
+  Cleaver bleu.
+[COFFRE] [ ] Grandport Estate Entrance — Nourishing Nut L.
+[COFFRE] [ ] Grandport Sewers — Herb of Vitality, Protective Bracelet et
+  Thunder Soulstone L.
+[COFFRE] [ ] Grandport Sewers: Depths — Huntress's Longbow gardée, Reaper's
+  Blade Mastery bleu, Elemental Light Armor, Critical Nut L et Inspiriting Plum
+  Basket.
+- [ ] Termine la route de Tatloch et contrôle `[SUCCÈS] Ring of the Lady of
+  Grace`.
+
+================================================================
+BESTOWER OF FAME — PROLOGUE ET CHAPITRES 1 À 3
+================================================================
+
+PROLOGUE — THE SHADOW APOSTATE
+
+- [ ] Rejoins Theatropolis et active la route de Fame.
+- [ ] Recrute Saoirse si la performance de l'Amphitheatre n'est pas encore
+  faite.
+
+CHAPITRE 1 — A NEW GOD
+
+- [ ] Traverse West Theatropolis Plains et Atlasdam Flats.
+[COFFRE] [ ] West Theatropolis Plains — Light Nut M, Surprise Attack Mastery,
+  Congealing Stone et Light Soulstone L.
+[COFFRE] [ ] Atlasdam Flats — Thunder Soulstone L, Bottle of Numbing Dust,
+  Grand Vest et Crescent Sabre bleu.
+[COFFRE] [ ] Atlasdam — Magic Nut M à l'auberge 2F et Traveling Music Score
+  III dans la bibliothèque/Palace Gate.
+- [ ] Explore Cathedral of Tytos: Entrance et l'Underground.
+[COFFRE] [ ] Cathedral of Tytos: Entrance — Olive of Life M et Wakeful Stone.
+[COFFRE] [ ] Cathedral of Tytos — Master of Power Music, Refreshing Jam et
+  Arcane Shot Mastery.
+[COFFRE] [ ] Cathedral Underground — Octopath Rolls, Fire Soulstone L,
+  Elemental Hat, Bright Stone et Energizing Pomegranate L.
+
+CHAPITRE 2 — SACRED ASHES
+
+- [ ] Traverse Valley of the Flame puis Path to Cave of Origin.
+[COFFRE] [ ] Valley of the Flame — Illusionist's Staff, Ice Fog Mastery
+  gardée/bleue, Stimulating Bracelet, Tough Nut L et Bottle of Sanguine Dust.
+[COFFRE] [ ] Path to Cave of Origin — Olive of Life L, Ice Soulstone L et
+  Energizing Pomegranate M.
+[COFFRE] [ ] Cave of Origin — Invigorating Nut M, Energizing Pomegranate,
+  Ruthless Assault Mastery, Tower Shield et Reaping Thrash Mastery gardée/bleue.
+- [ ] Termine les scènes d'Atlasdam, puis active les rencontres de recrutement
+  d'Ophilia et de Cyrus quand les conditions apparaissent.
+
+CHAPITRE 3 — CERAPHINA THE CHARITABLE
+
+- [ ] Traverse Berecain Pass Base, Berecain Pass et Berecain.
+[COFFRE] [ ] Herminia's Former Manse — Energizing Pomegranate L et Arcane
+  Healing Mastery gardée/bleue.
+[COFFRE] [ ] Eternal Quicksand — Enlightening Bracelet, Slippery Nut L et
+  Wind Soulstone L.
+- [ ] Entre dans Golden Palace.
+[COFFRE] [ ] Golden Palace: Upper Floor — 20000, 30000 et 50000 feuilles,
+  Shadow Soulstone L, Doombreaker gardée, Energizing Pomegranate M et
+  Empowering Bracelet.
+[COFFRE] [ ] Golden Palace: Middle Floor — Gold Nugget, Commemorative Coin,
+  Nourishing Nut L et Enchanted Circlet gardée par un combat d'événement.
+[COFFRE] [ ] Golden Palace: Lower Floor — Thunder Soulstone L, Magus Glaive,
+  Elemental Heavy Armor gardée, Light Nut L, Letter Fragment si non choisi au
+  départ, Celebration of the Arts Mastery bleu, SP Cleansing Stone et
+  Rejuvenating Jam.
+[COFFRE] [ ] Silver Spring — Azure Flamestone, 7000, 6000 et 30000 feuilles.
+- [ ] Termine Ceraphina et contrôle `[SUCCÈS] Ring of the Charitable`.
+
+================================================================
+BESTOWER OF ALL — PROLOGUE À LA FIN STANDARD
+================================================================
+
+PROLOGUE — THE BLACK FLAME
+
+- [ ] Après les trois arcs Bestower, retourne à Wishvale et parle à Stia.
+- [ ] Va à Isle of Orsa et rejoins l'autel.
+- [ ] Parle aux Ringmaidens et explore la zone avant de déclencher le départ.
+- [ ] Garde une sauvegarde avant la transition vers Hell.
+
+CHAPITRE 1 — BETWEEN LIFE AND DEATH
+
+- [ ] Traverse Hell Cragspear, Hell Cragspear Pass, Hell South Cragspear Pass
+  et Hell Geist Canyon.
+[COFFRE] [ ] Hell Cragspear — Intense Battle Music Score II/IV selon les
+  maisons et les conditions de l'arc.
+[BOSS] [ ] Prépare une équipe de niveau élevé avec protection contre les
+  altérations et dégâts de lumière.
+
+CHAPITRE 2 — HILL OF THE DEAD
+
+- [ ] Traverse Hell Valore, Hell Valore Forest et Hell Path to White Grape Hill.
+[COFFRE] [ ] Cavern of Mists, accessible par North Shepherds Rock Pass — Trick
+  Staff bleu, Invigorating Nut M, 10000 feuilles, Evasive Maneuvers gardée,
+  Battle Music Score IV et Dark Amulet.
+[COFFRE] [ ] Man-Eating Miser's Hideout — Octopath Rolls et Magic Nut L.
+- [ ] Termine la route et contrôle les conditions de Heidne.
+
+CHAPITRE 3 — CASTLE OF THE HOLLOW QUEEN
+
+- [ ] Traverse Castle of the Hollow Queen puis Hell Castle Edoras.
+- [ ] Recrute Bargello et Alaune lorsque les scènes les ajoutent au groupe.
+[BOSS] [ ] Garde des attaques sur plusieurs faiblesses pour la reine et ses
+  phases de renfort.
+
+CHAPITRE 4 — A NATION FROZEN IN TIME
+
+- [ ] Traverse Hell Hornburg Pass, Hell Hornburg et Hell Hornburg Castle.
+[COFFRE] [ ] Hell Hornburg Castle — Bestower of All Music Score I dans la
+  première salle ouest puis à l'étage selon l'embranchement.
+- [ ] Recrute Rondo et Tatloch si leur séquence est active.
+
+CHAPITRE 5 — THE GATE OF FINIS
+
+- [ ] Entre dans Gate of Finis et vérifie les consommables avant les corridors.
+[BOSS] [ ] Bats les gardiens avec un groupe de huit et une rotation de
+  supports ; ne dépense pas les ultimes ressources avant le point de repos.
+
+CHAPITRE 6 — PRECIPICE OF LOSS
+
+- [ ] Traverse Corridors of Contrition, Precipice of Loss et Bridge Beyond.
+[BOSS] [ ] Termine Crimson River Traverse et garde une sauvegarde avant la
+  dernière série de combats.
+[COFFRE] [ ] Les objets de Gate of Finis et de Hell sont reportés dans le
+  registre post-game, avec les partitions et les points de collecte par salle.
+
+CHAPITRE 7 — SAZANTOS
+
+- [ ] Traverse Cathedral of Ash et Sanctum.
+[SAUVEGARDE] [ ] Sauvegarde avant la séquence de Sazantos.
+[BOSS] [ ] Termine les phases de Sazantos, puis le combat de fin de chapitre.
+- [ ] Sazantos devient la dernière recrue temporaire de la route.
+
+CHAPITRE 8 — AT JOURNEY'S END
+
+- [ ] Avance jusqu'à la maison isolée dans la neige.
+[SAUVEGARDE] [ ] Fais une sauvegarde claire avant d'entrer dans la maison.
+- [ ] Pour la fin standard, entre dans la maison et laisse la séquence se
+  dérouler sans revenir au sanctuaire.
+- [ ] Termine le combat de Bestower of All.
+[SUCCES] [ ] Champion of the Continent tombe sur la fin standard.
+
+================================================================
+FIN VÉRITABLE ET POST-GAME
+================================================================
+
+ROUTE DE LA FIN VÉRITABLE
+
+- [ ] Depuis la sauvegarde claire, ne retourne pas immédiatement dans la
+  maison enneigée.
+- [ ] Retourne à Flamebearer's Shrine: Sanctum.
+- [ ] Interagis avec la flamme bleue et bats le boss optionnel.
+- [ ] Récupère l'anneau renforcé.
+- [ ] Va dans la maison enneigée et utilise Illuminate sur les trois PNJ.
+[BOSS] [ ] Termine la route alternative et le combat de fin véritable.
+[SUCCES] [ ] Traveler from Zero tombe à la fin véritable.
+- [ ] Le piédestal bleu de la sauvegarde claire permet de reprendre les choix
+  sans recommencer toute la partie.
+
+ISLE OF SAGES ET AMATSUKAMI NO OROCHI
+
+- [ ] Réunis les cinq Letter Fragments.
+- [ ] Ouvre la route vers Isle of Sages avec le navire.
+[COFFRE] [ ] Isle of Sages — Repeated Bash Mastery.
+[COFFRE] [ ] Isle of Sages — Angel Sabre dans le coffre bleu.
+- [ ] Depuis Skies of Vanity, rejoins Cove of Clouds.
+[COFFRE] [ ] Cove of Clouds — Floating Stone, trésor légendaire.
+[BOSS] [ ] Bats Amatsukami no Orochi.
+[SUCCES] [ ] Dragonslayer tombe après le combat.
+- [ ] Récupère le Heavenly Jewel et ouvre Tavern of Nil via Strange House.
+
+TAVERN OF NIL ET MONSTER ARENA
+
+- [ ] Construis le Strange House à Wishvale.
+- [ ] Entre dans Tavern of Nil.
+[COFFRE] [ ] Tavern of Nil — Intense Battle Music Score I.
+[COFFRE] [ ] Tavern of Nil — Arena Music Score II, Unmarked Isle Music
+  Score et Creational Music Score via les Path Actions des personnages sur la
+  scène.
+- [ ] Affronte Reime et Sultravi dans Monster Arena.
+- [ ] Recrute Reime si ce n'est pas déjà fait.
+[SUCCES] [ ] Overwhelming Zeal est déjà obtenu à la construction ; le
+  post-game sert à terminer les combats de l'arène.
+
+================================================================
+REGISTRES D'ÉQUIPEMENTS UNIQUES
+================================================================
+
+11 TRÉSORS LÉGENDAIRES
+
+[COFFRE] [ ] The Days of Donescu — coffre bleu de Donescu Traverse après
+  Bestower of Power 1.
+[COFFRE] [ ] Valiant Winged Lion Statue — échange à la boutique de Wishvale
+  avec l'objet de commerce venant d'Atlasdam.
+[COFFRE] [ ] Overflowing Golden Chalice — achat auprès du marchand en bons
+  termes avec l'église de Cathedral of Tytos pendant/après Bestower of Fame 1.
+[COFFRE] [ ] Cat God's Statue — drop du Menacing Gold Revenant dans Golden
+  Palace Upper Floors.
+[COFFRE] [ ] Noble Horned Beast Statue — échange rare depuis Victors Hollow.
+[COFFRE] [ ] Blessed Sheep Stuffed Toy — Entreat l'ancien chef du troupeau à
+  Shepherds Rock avec Animal Whisperer.
+[COFFRE] [ ] Great Pirate Arcangelo's Helm — capture Battle-worn Shark pour
+  l'arène de Wishvale.
+[COFFRE] [ ] Brave Warrior's Pot — Contend le Capital Guard à l'entrée de
+  Cragspear.
+[COFFRE] [ ] Timebend Crystal — point bleu à l'est du chemin central de Hell
+  Hornburg Castle.
+[COFFRE] [ ] Floating Stone — coffre de Cove of Clouds après le post-game.
+[COFFRE] [ ] Ancient Model Ship — coffre de la maison centrale de Grandport.
+[SUCCES] [ ] Treasures of Legend tombe avec les onze objets.
+
+9 ÉQUIPEMENTS BATTLE-TESTED
+
+[COFFRE] [ ] Battle-Tested Axe — Great Architect, Valore Main Boulevard.
+[COFFRE] [ ] Battle-Tested Bow — Tottering Old Man, Emberglow East District.
+[COFFRE] [ ] Battle-Worn Tome — Master of Books, bibliothèque de Theatropolis.
+[COFFRE] [ ] Battle-Tested Spear — Energetic Old Woman, maison est de
+  Rippletide.
+[COFFRE] [ ] Battle-Tested Dagger — Powerful Pauper, Cragspear Slums.
+[COFFRE] [ ] Battle-Tested Staff — Reflective Grandma, Clearbrook Graveyard.
+[COFFRE] [ ] Battle-Tested Fan — Sandcat Dancer, nord-ouest de Sunshade.
+[COFFRE] [ ] Battle-Tested Blade — Former Warrior, Castle Square de
+  Shepherds Rock.
+[COFFRE] [ ] Battle-Tested Shield — échange dans la boutique de Wishvale ;
+  recrute le Harbor Black Market Merchant à Grandport, le Desert Labor
+  Supervisor à Sufrataljah ou la Grumpy Old Woman à Berecain avec les plats et
+  conditions indiqués par leur quête.
+[SUCCES] [ ] Battle-Tested Gear tombe avec les neuf pièces.
+
+8 CLÉS ORNÉES ET TRÉSORS SACRÉS
+
+[COFFRE] [ ] Crested Key Dagger — choix de Belonging possible au départ.
+[COFFRE] [ ] Crested Key Sword — Viator à Valore quand une autre clé est déjà
+  possédée.
+[COFFRE] [ ] Crested Key Axe — Young Antique Dealer à Victors Hollow.
+[COFFRE] [ ] Crested Key Tome — coffre est de Sweltering Cave via Berecain Pass.
+[COFFRE] [ ] Crested Key Fan — Entreat l'explorateur près de l'auberge de
+  Sufrataljah.
+[COFFRE] [ ] Crested Key Polearm — point bleu sur l'île de l'Outersea Est.
+[COFFRE] [ ] Crested Key Staff — Entreat le Harbor Black Market Merchant au
+  nord des marchés de Grandport.
+[COFFRE] [ ] Huitième clé ornée — compléter The Eight Sacred Treasures et
+  vérifier l'entrée manquante dans le menu des trésors avant la fin.
+[COFFRE] [ ] Trésors sacrés : Storm Blade, Deathclaw Dagger, Tempest Spear,
+  Spirit Axe, Moonlit Bow, Evenfall Fan, Solaris Tome et Staff of Discipline.
+
+9 ARMES FORBIDDEN
+
+[COFFRE] [ ] Forbidden Axe — acheter au Doddering Mercenary de Donescu.
+[COFFRE] [ ] Forbidden Blade — acheter à l'Edoras Minister dans la salle du
+  trône de Castle Edoras.
+[COFFRE] [ ] Forbidden Dagger — acheter à la Taciturn Housewife de Sufrataljah.
+[COFFRE] [ ] Forbidden Fan — Entreat l'Once-Famous Actress d'Atlasdam.
+[COFFRE] [ ] Forbidden Greatbow — Entreat l'Old Storyteller de Victors Hollow
+  Old Quarter.
+[COFFRE] [ ] Forbidden Shield — Entreat le Harbor Black Market Merchant de
+  Grandport Markets.
+[COFFRE] [ ] Forbidden Spear — acheter au Sea-Gazing Graybeard de Grandport
+  Markets.
+[COFFRE] [ ] Forbidden Staff — Entreat le Berecain Village Chief.
+[COFFRE] [ ] Forbidden Tome — Entreat le Muttering Codger de Flamesgrace.
+[SUCCES] [ ] Job Master est contrôlé quand tous les jobs secondaires sont
+  obtenus ; les armes Forbidden restent le registre d'équipement complet.
+
+================================================================
+40 PARTITIONS MUSICALES
+================================================================
+
+Le succès Music Aficionado demande 30 partitions, mais le guide vise les 40.
+Les partitions post-game et celles du Tavern of Nil restent obligatoires pour
+le registre complet.
+
+- [ ] 01 Master of Wealth — maison sud-ouest de Valore après Wealth 3.
+- [ ] 02 Master of Power — salle nord-est de Cathedral of Tytos après Power 3.
+- [ ] 03 Master of Fame — comptoir d'entrée de l'Amphitheatre après Fame 3.
+- [ ] 04 Master of All — maison nord-est de Cragspear après Master of All 8.
+- [ ] 05 Bestower of Wealth — bibliothèque de Sufrataljah Palace après Wealth 3.
+- [ ] 06 Bestower of Power — maison sud-est de Donescu après Power 3.
+- [ ] 07 Bestower of Fame — maison nord-est de Berecain après Fame 3.
+- [ ] 08 Bestower of All I — pièce ouest de Hell Hornburg Castle après la route.
+- [ ] 09 Bestower of All II — bâtiment nord-est d'Agapea.
+- [ ] 10 Traveling I — maison de Victors Hollow Arena Gate.
+- [ ] 11 Traveling II — maison est de Flamesgrace.
+- [ ] 12 Traveling III — maison ouest d'Atlasdam Palace Gate.
+- [ ] 13 Traveling IV — étage 2 de l'auberge de Grandport.
+- [ ] 14 Traveling V — maison est de Cragspear.
+- [ ] 15 Traveling VI — maison sud de Donescu.
+- [ ] 16 Traveling VII — bibliothèque de Sufrataljah Palace après Wealth 2.
+- [ ] 17 Traveling VIII — maison ouest de Shepherds Rock.
+- [ ] 18 Battle I — Wishvale Museum.
+- [ ] 19 Battle II — maison nord-ouest d'Emberglow East District.
+- [ ] 20 Battle III — bibliothèque nord-est 1 d'Auguste's Villa.
+- [ ] 21 Battle IV — point bleu nord-ouest de Cavern of Mists.
+- [ ] 22 Battle V — étagère près du point de sauvegarde d'Emberglow Laboratory.
+- [ ] 23 Battle VI — maison de Tressa à Rippletide.
+- [ ] 24 Battle VII — maison centrale de Clearbrook.
+- [ ] 25 Battle VIII — bibliothèque nord-est 2 d'Auguste's Villa.
+- [ ] 26 Intense Battle I — Tavern of Nil après le boss post-game.
+- [ ] 27 Intense Battle II — maison sud de Hell Cragspear.
+- [ ] 28 Intense Battle III — bibliothèque d'Atlasdam.
+- [ ] 29 Intense Battle IV — maison nord-est de Hell Cragspear.
+- [ ] 30 Hell Battle — maison nord-ouest de Hell Valore.
+- [ ] 31 The Heavens Battle — maison sud-est d'Agapea après Hidden Isle.
+- [ ] 32 Arena I — Leopaldi's Estate après Bestower of Wealth 1.
+- [ ] 33 Arena II — Path Action de Rugis Surra dans Tavern of Nil.
+- [ ] 34 Wishvale — récompense liée au Museum et sa progression.
+- [ ] 35 Unmarked Isle — Path Action de Delan Poe dans Tavern of Nil.
+- [ ] 36 Guardians of Light — maison sud du premier écran de Hell Valore.
+- [ ] 37 Maidens' Isle — maison nord-ouest d'Agapea.
+- [ ] 38 Introductory — Museum après les onze trésors légendaires.
+- [ ] 39 Creational — Path Action de Myano Wincy dans Tavern of Nil.
+- [ ] 40 The Final Music Score — Museum après les onze trésors légendaires.
+[SUCCES] [ ] Music Aficionado — atteindre 30 partitions dans le menu.
+
+================================================================
+CHECKLIST FINALE DES SUCCÈS STEAM — 37/37
+================================================================
+
+- [ ] First Break — briser un ennemi pour la première fois.
+- [ ] Max Boost — utiliser le boost maximal pour la première fois.
+- [ ] Ring of the Flamebringer — obtenir l'anneau d'Aelfric.
+- [ ] A New Skill — apprendre une compétence pour la première fois.
+- [ ] The First Invitation — inviter un premier habitant à Wishvale.
+- [ ] The First Construction — construire la première structure.
+- [ ] The Tavern and Hub — construire le Tavern and Hub.
+- [ ] Freshly Grown Vegetables — construire les Fields.
+- [ ] Octopath Battler — combattre avec huit voyageurs.
+- [ ] Ring of the Thunderblade — obtenir l'anneau de Brand.
+- [ ] Ring of the Prince of Thieves — obtenir l'anneau d'Aeber.
+- [ ] Ring of the Huntress — obtenir l'anneau de Draefendi.
+- [ ] A Dependable Merchant — construire la Shop.
+- [ ] Setting Sail — sécuriser le navire.
+- [ ] Hard Hitter — infliger au moins 9999 dégâts.
+- [ ] Informed Adventurer — obtenir des informations auprès de 200 habitants.
+- [ ] A New Church — construire la Church.
+- [ ] Kindler of the Flame — construire le Sacred Flame Dais.
+- [ ] Ring of the Scholarking — obtenir l'anneau d'Alephan.
+- [ ] A Treasure Trove of Knowledge — construire le Museum.
+- [ ] Overwhelming Zeal — construire le Monster Arena.
+- [ ] A Special Kinship — atteindre l'affinité maximale avec un compagnon.
+- [ ] For the Future of Wishvale — atteindre le niveau maximal de Wishvale.
+- [ ] Job Master — obtenir tous les jobs secondaires.
+- [ ] Ring of the Trader — obtenir l'anneau de Bifelgan.
+- [ ] Ring of the Lady of Grace — obtenir l'anneau de Sealticge.
+- [ ] Ring of the Charitable — obtenir l'anneau de Dohter.
+- [ ] The Door to Hell — atteindre Hell.
+- [ ] Champion of the Continent — terminer la fin standard.
+- [ ] The Summoned — s'allier avec tous les voyageurs requis.
+- [ ] Traveler from Zero — terminer la fin véritable.
+- [ ] Master of Orsterra — visiter toutes les localités comptées.
+- [ ] Battle-Tested Gear — obtenir les neuf équipements Battle-Tested.
+- [ ] Music Aficionado — obtenir 30 partitions.
+- [ ] Dragonslayer — vaincre Amatsukami no Orochi.
+- [ ] Treasures of Legend — obtenir les onze trésors légendaires.
+- [ ] A Story All Your Own — débloquer les 36 autres succès.
+
+================================================================
+CONTRÔLE AVANT PUBLICATION
+================================================================
+
+- [ ] Le registre complet des 454 trésors est présent après cette route.
+- [ ] Chaque coffre indique la zone, la sous-zone, la section et la condition.
+- [ ] Les coffres bleus sont séparés des objets gardés et des points de collecte.
+- [ ] Les cinq fragments de lettre sont localisés et reliés à Isla.
+- [ ] Les 36 personnages ont une condition de recrutement vérifiée.
+- [ ] Les 40 partitions ont une zone et une condition.
+- [ ] Les 11 trésors légendaires, 9 Battle-Tested, 8 sacrés et 9 Forbidden sont
+  reliés à une étape de route.
+- [ ] Les descriptions des 37 succès Steam sont uniques et alignées sur Steam.
+- [ ] Les fins standard et véritable sont jouables depuis la sauvegarde claire.
+- [ ] Le fichier passe la relecture manuelle, l'audit de profondeur, le build,
+  le préflight strict et les smoke tests avant de quitter l'archive.

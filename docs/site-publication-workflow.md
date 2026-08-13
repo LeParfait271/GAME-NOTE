@@ -68,3 +68,10 @@ validateur verifie le lien `evidenceFile` de la queue ; passer l'entree en
 La publication temporaire reste inchangée : seuls Expedition 33 et Octopath
 Traveler 1 sont visibles, et les modifications d'interface déjà présentes
 dans le dépôt ne doivent pas être mélangées à ce lot éditorial.
+
+## Passe de rédaction OT0 — archive non publiée
+
+Le premier TXT OT0 peut être relu dans `public/guides/` pendant sa construction,
+mais il reste hors catalogue tant que la matrice et l'appendice 454/454 ne sont
+pas validés. Il ne doit donc pas être copié dans `dist/client/guides`, ajouté au
+service worker ou accessible par un paramètre `guide`.

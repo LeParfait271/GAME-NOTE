@@ -165,3 +165,16 @@ fonction précise.
 - [ ] fenêtres de recrutement et points de non-retour confirmés ;
 - [ ] contradictions résolues dans cette matrice ;
 - [ ] TXT complet rédigé et relu avant passage à `draft`, puis `reviewed`.
+
+## Passe de rédaction 1 — route et registres ciblés
+
+- Une première version archivée du TXT contient la route du prologue à la fin
+  véritable, les étapes de reconstruction de Wishvale, les 36 recrutements, les
+  récits secondaires, les 40 partitions, les équipements uniques et les 37
+  succès.
+- Cette version reste volontairement incomplète : le registre linéaire des 454
+  trésors doit encore être fusionné avec la route et contrôlé entrée par entrée.
+- Les lignes de trésors déjà présentes dans la route sont des points de
+  contrôle éditorial ; elles ne remplacent pas l'appendice 454/454.
+- La fiche n'est pas référencée comme `full-guide`, n'a pas de carte dédiée et
+  n'est pas dans `docs/site-publication.json`.

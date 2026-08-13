@@ -164,3 +164,11 @@ transformée en validation automatique quand c'est possible.
 - Le guide ne sera pas déclaré complet tant que les 37 succès, les recrues,
   les coffres, les fins et les fenêtres de recrutement n'auront pas été
   replacés dans une route chronologique concrète.
+
+### Passe de rédaction 1 — route OT0 archivée
+
+- Le TXT de travail existe désormais dans l'archive avec la route du prologue
+  à la fin véritable, Wishvale, les recrutements, les quêtes, les équipements,
+  les partitions et la checklist des 37 succès.
+- Il reste volontairement invisible et non publié : le registre détaillé des
+  454 trésors doit encore être ajouté et vérifié avant tout raccordement.
