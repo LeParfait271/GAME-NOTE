@@ -175,67 +175,6 @@ button {
   object-fit: cover;
 }
 
-.visual-hero {
-  position: relative;
-  display: flex;
-  width: min(1240px, calc(100% - 56px));
-  min-height: clamp(300px, 34vw, 430px);
-  align-items: center;
-  margin: 22px auto 0;
-  overflow: hidden;
-  border: 1px solid color-mix(in srgb, var(--feature-text) 18%, var(--line));
-  border-radius: 24px 24px 24px 6px;
-  background-color: var(--feature-ink);
-  background-image:
-    linear-gradient(90deg, rgba(7, 18, 25, 0.94) 0%, rgba(7, 18, 25, 0.78) 38%, rgba(7, 18, 25, 0.12) 82%),
-    url("/images/banners/game-note-hero-ink-route.png");
-  background-position: center;
-  background-size: cover;
-  box-shadow: var(--shadow);
-}
-
-.visual-hero-copy {
-  position: relative;
-  z-index: 1;
-  max-width: 680px;
-  padding: clamp(32px, 5vw, 72px);
-}
-
-.visual-hero-kicker {
-  margin: 0 0 15px;
-  color: var(--coral);
-  font-size: 0.65rem;
-  font-weight: 900;
-  letter-spacing: 0.2em;
-}
-
-.visual-hero h1 {
-  max-width: 520px;
-  margin: 0;
-  color: var(--feature-text);
-  font-size: clamp(2.5rem, 5.4vw, 5.1rem);
-  letter-spacing: -0.08em;
-  line-height: 0.92;
-}
-
-.visual-hero h1 em {
-  display: block;
-  color: var(--coral);
-  font-style: normal;
-}
-
-.visual-hero-copy > p:not(.visual-hero-kicker) {
-  max-width: 390px;
-  margin: 22px 0 26px;
-  color: color-mix(in srgb, var(--feature-text) 78%, transparent);
-  font-size: 0.84rem;
-  line-height: 1.7;
-}
-
-.visual-hero-action {
-  gap: 16px;
-}
-
 .visual-notes {
   display: grid;
   width: min(1240px, calc(100% - 56px));
@@ -537,6 +476,7 @@ button {
   margin-bottom: 37px;
 }
 
+.section-heading h1,
 .section-heading h2 {
   margin: 0;
   color: var(--navy);
@@ -1147,7 +1087,7 @@ button.reader-neighbor:focus-visible {
   top: 91px;
   z-index: 18;
   display: grid;
-  grid-template-columns: minmax(178px, 0.45fr) minmax(280px, 1.3fr) auto auto;
+  grid-template-columns: minmax(178px, 0.45fr) minmax(280px, 1.3fr) auto auto auto;
   align-items: center;
   gap: 15px;
   margin: 22px 0 17px;
@@ -1181,6 +1121,14 @@ button.reader-neighbor:focus-visible {
   color: var(--muted);
   font-size: 0.62rem;
   font-weight: 800;
+  white-space: nowrap;
+}
+
+.reader-reading-status {
+  color: var(--muted);
+  font-size: 0.58rem;
+  font-weight: 900;
+  letter-spacing: 0.05em;
   white-space: nowrap;
 }
 
@@ -1346,6 +1294,34 @@ button.reader-neighbor:focus-visible {
   font-weight: 900;
   letter-spacing: 0.08em;
   text-transform: uppercase;
+}
+
+.reader-resume {
+  display: inline-flex;
+  width: fit-content;
+  align-items: center;
+  gap: 9px;
+  margin-top: 16px;
+  padding: 0;
+  border: 0;
+  background: transparent;
+  color: var(--navy);
+  cursor: pointer;
+  font-size: 0.65rem;
+  font-weight: 900;
+  letter-spacing: 0.04em;
+  text-align: left;
+}
+
+.reader-resume span {
+  color: var(--coral);
+  font-size: 0.58rem;
+  letter-spacing: 0.08em;
+}
+
+.reader-resume:hover,
+.reader-resume:focus-visible {
+  color: var(--coral);
 }
 
 .reader-cover-alert {
@@ -2015,17 +1991,6 @@ button.reader-neighbor:focus-visible {
     max-width: 42vw;
   }
 
-  .visual-hero {
-    min-height: 430px;
-    align-items: flex-start;
-    background-position: 66% center;
-  }
-
-  .visual-hero-copy {
-    max-width: 100%;
-    padding: 34px 26px;
-  }
-
   .section-block,
   .reader-section {
     padding-block: 58px 88px;
@@ -2041,6 +2006,7 @@ button.reader-neighbor:focus-visible {
     gap: 22px;
   }
 
+  .section-heading h1,
   .section-heading h2 {
     font-size: 3rem;
   }
@@ -2460,29 +2426,8 @@ button.reader-neighbor:focus-visible {
     box-shadow: none;
   }
 
-  .visual-hero {
-    min-height: 390px;
-    margin-top: 30px;
-    border-radius: 20px 20px 20px 5px;
-    background-image:
-      linear-gradient(90deg, rgba(5, 15, 21, 0.96) 0%, rgba(5, 15, 21, 0.82) 42%, rgba(5, 15, 21, 0.16) 82%),
-      url("/images/banners/game-note-hero-ink-route.png");
-    box-shadow: var(--shadow);
-  }
-
-  .visual-hero-copy {
-    max-width: 620px;
-    padding: 54px;
-  }
-
-  .visual-hero h1 {
-    max-width: 560px;
-    font-size: clamp(2.8rem, 5.2vw, 4.9rem);
-    line-height: 0.94;
-  }
-
   .section-block {
-    padding-block: 88px 120px;
+    padding-block: 42px 96px;
   }
 
   .section-heading {
@@ -2490,6 +2435,7 @@ button.reader-neighbor:focus-visible {
     margin-bottom: 30px;
   }
 
+  .section-heading h1,
   .section-heading h2 {
     font-size: clamp(2.7rem, 5vw, 4.35rem);
   }
@@ -2663,10 +2609,6 @@ button.reader-neighbor:focus-visible {
 }
 
 @media screen and (max-width: 960px) {
-  .visual-hero {
-    min-height: 360px;
-  }
-
   .reader-cover {
     grid-template-columns: minmax(210px, 0.65fr) minmax(0, 1.35fr);
   }
@@ -2680,27 +2622,6 @@ button.reader-neighbor:focus-visible {
   .brand-logo {
     height: 44px;
     max-width: 185px;
-  }
-
-  .visual-hero {
-    min-height: 360px;
-    margin-top: 20px;
-    border-radius: 16px 16px 16px 4px;
-    background-position: 70% center;
-  }
-
-  .visual-hero-copy {
-    padding: 34px 24px;
-  }
-
-  .visual-hero h1 {
-    max-width: 300px;
-    font-size: clamp(2.45rem, 12vw, 3.25rem);
-  }
-
-  .visual-hero-copy > p:not(.visual-hero-kicker) {
-    max-width: 280px;
-    margin-block: 18px 24px;
   }
 
   .visual-notes {
@@ -2749,7 +2670,7 @@ button.reader-neighbor:focus-visible {
   }
 
   .section-block {
-    padding-block: 72px 92px;
+    padding-block: 36px 80px;
   }
 
   .section-heading {
@@ -2757,6 +2678,7 @@ button.reader-neighbor:focus-visible {
     margin-bottom: 24px;
   }
 
+  .section-heading h1,
   .section-heading h2 {
     font-size: clamp(2.55rem, 13vw, 3.25rem);
   }
@@ -2927,7 +2849,7 @@ button.reader-neighbor:focus-visible {
 
   .site-shell.is-reader-mode .reader-tools {
     top: 72px;
-    grid-template-columns: minmax(178px, 0.42fr) minmax(300px, 1.65fr) auto auto;
+    grid-template-columns: minmax(178px, 0.42fr) minmax(300px, 1.65fr) auto auto auto;
     gap: 18px;
     margin: 36px 0 38px;
     padding: 12px 0;

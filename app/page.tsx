@@ -3300,20 +3300,6 @@ export default function Home() {
       ) : null}
 
       {!readerMode ? <>
-      <section className="visual-hero" aria-labelledby="visual-hero-title">
-        <div className="visual-hero-copy">
-          <p className="visual-hero-kicker">GAME NOTE / ARCHIVE</p>
-          <h1 id="visual-hero-title">
-            Le bon repère <em>au bon moment.</em>
-          </h1>
-          <p>
-            Des routes chronologiques, lisibles et sans spoiler pour avancer sans perdre le fil.
-          </p>
-          <a className="button button-primary visual-hero-action" href="#guides">
-            Ouvrir la bibliothèque <span aria-hidden="true">↓</span>
-          </a>
-        </div>
-      </section>
       <section className="visual-notes" aria-label="Les repères Game Note">
         <article className="visual-note visual-note-route">
           <div className="visual-note-art">
@@ -3370,11 +3356,10 @@ export default function Home() {
         </article>
       </section>
       <section className="section-block library-page" id="guides">
-
         <div className="section-heading">
           <div>
             <p className="kicker"><span>GAME NOTE</span><span>BIBLIOTHÈQUE</span></p>
-            <h2>Mes soluces.</h2>
+            <h1>Mes soluces.</h1>
           </div>
           <p>
             Recherche un jeu, ouvre sa soluce et avance dans le bon ordre.
