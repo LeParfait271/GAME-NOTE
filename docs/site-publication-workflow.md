@@ -99,3 +99,10 @@ traité comme une récompense d'action et non comme un coffre supplémentaire.
 - Cette checklist facilite la navigation mais ne change pas la publication :
   OT0 reste archivé, invisible et absent du cache offline tant que la revue
   écran par écran n'est pas terminée.
+
+### Passe de contrôle 7 — index cartographique OT0
+
+- La fiche conserve un index de 37 cartes de zones avec les URLs de la source,
+  pour aider à retrouver les coffres dont le texte ne donne pas de direction.
+- L'index ne rend pas OT0 publiable à lui seul : les zones non couvertes et la
+  relecture écran par écran restent explicitement hors du seuil final.

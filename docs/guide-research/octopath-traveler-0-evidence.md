@@ -245,3 +245,13 @@ fonction précise.
   coffres bleus ; la base OT0 fournit le rapprochement nom/zone/sous-zone.
   Cette passe améliore la navigation, mais le guide reste archivé tant que la
   relecture écran par écran de chaque zone n'est pas terminée.
+
+## Passe de contrôle 7 — index cartographique
+
+- Le TXT ajoute un index de 37 cartes de zones, avec les URLs directes de la
+  base OT0 et un regroupement par région.
+- Cet index sert de repère visuel pour les 308 lignes dont la base ne donne pas
+  de direction textuelle supplémentaire ; il ne remplace ni le registre
+  numéroté ni la relecture en jeu.
+- Les zones non couvertes par les 37 cartes restent explicitement signalées :
+  aucune direction n'est inventée pour combler un manque de source.

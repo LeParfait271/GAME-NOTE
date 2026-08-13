@@ -267,6 +267,14 @@ if (octopathZeroDraft) {
       fail(octopathZeroDraftPath + ": coffre bleu requis absent (" + requiredBlueChestId + ").");
     }
   }
+  const mapIndexHeading = "CARTES DE RATTRAPAGE \u2014 37 CARTES DE ZONE";
+  const mapIndexSection = octopathZeroDraft.split(mapIndexHeading)[1]?.split("REGISTRE COMPLET DES 454 TRÉSORS")[0] ?? "";
+  const mapLinks = [...mapIndexSection.matchAll(/^- \[CARTE\] .+https:\/\/octopathtraveler0\.com\/images\/maps\/.+\.png$/gm)];
+  if (mapLinks.length !== 37) {
+    fail(
+      octopathZeroDraftPath + ": l'index cartographique OT0 doit contenir exactement 37 cartes (actuel : " + mapLinks.length + ").",
+    );
+  }
 }
 
 const guideBlockMatch = page.match(

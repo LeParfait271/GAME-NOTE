@@ -426,6 +426,15 @@ contrôle de la fiche concernée.
 - Chaque ligne bleue doit conserver son identifiant du registre et sa zone ;
   un simple total « 44 coffres bleus » sans correspondance est refusé.
 
+### Contrôle cartographique OT0 — 13 août 2026
+
+- Le brouillon doit conserver un index de 37 cartes de zones avant le registre
+  des 454 trésors, avec des URLs de source vérifiables.
+- L'index doit servir de repère visuel pour les lignes sans direction détaillée,
+  mais il ne peut pas être compté comme un coffre ni remplacer la relecture.
+- Les zones sans carte source doivent rester signalées ; une direction inventée
+  pour atteindre un faux niveau de complétude est interdite.
+
 ### Audit interface personnelle — 13 août 2026
 
 - L'accueil ne présente pas de badges « nouveau », « fondateur » ou équivalent,

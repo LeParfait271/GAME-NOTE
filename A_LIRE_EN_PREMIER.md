@@ -218,6 +218,15 @@ transformée en validation automatique quand c'est possible.
   454 lignes numérotées restent l'autorité, tandis que les rappels de route
   servent uniquement à jouer et à vérifier.
 
+### Passe de contrôle 6 — cartes de zones OT0
+
+- Le guide comporte désormais un index de 37 cartes de zones, placé juste
+  avant le registre des 454 trésors.
+- Les cartes servent à retrouver visuellement les coffres lorsque la base ne
+  fournit pas de direction textuelle ; aucune position ne doit être inventée.
+- Les cartes et les rappels restent distincts des lignes numérotées : ils
+  améliorent la navigation sans modifier les compteurs de contenu.
+
 ### Passe de contrôle 5 — interface personnelle
 
 - L'accueil ne doit pas afficher de badge promotionnel, de bouton d'installation

@@ -553,6 +553,14 @@ une mise à jour qui change les succès ou le contenu, le guide repasse en
   Wishvale construite puis améliorée au rang 3 après Kindlers of the Flame 5.
 - Les rappels bleus ne doivent pas créer de faux trésors supplémentaires ; le
   compteur automatique reste fondé uniquement sur les 454 lignes numérotées.
+
+### Contrôle cartographique OT0
+
+- Le TXT doit contenir un index de 37 cartes de zones avant le registre
+  numéroté, avec des liens de source complets et un regroupement lisible.
+- Une carte peut compléter un manque de direction textuelle, mais elle ne
+  transforme pas une zone non vérifiée en zone validée et ne remplace pas la
+  relecture écran par écran.
 ## Lot scène d'entrée et archive monumentale - 13 août 2026
 
 - L'entrée présente une carte, une typographie géante et un lien direct avant

@@ -1393,6 +1393,85 @@ CONTRÔLE AVANT PUBLICATION
   le préflight strict et les smoke tests avant de quitter l'archive.
 
 ================================================================
+================================================================
+CARTES DE RATTRAPAGE — 37 CARTES DE ZONE
+================================================================
+
+Les lignes [CARTE] ouvrent une carte de zone externe qui sert de repère visuel
+pour les coffres et les objets. Elles complètent le registre : elles ne
+remplacent jamais une ligne [COFFRE] et ne changent pas le compteur 454/454.
+Quand une ligne du registre dit qu'aucun repère additionnel n'est fourni,
+commence par ouvrir la carte de sa sous-zone, puis balaie les embranchements
+et les pièces avant de prendre la sortie. Les cartes sont regroupées par région
+et proviennent de la page Maps de la base OT0.
+
+WOODLANDS
+
+- [CARTE] Wishvale & Nearby — https://octopathtraveler0.com/images/maps/wishvale-region.png
+- [CARTE] Valore Trail — https://octopathtraveler0.com/images/maps/valore-trail.png
+- [CARTE] Valore — https://octopathtraveler0.com/images/maps/valore.png
+- [CARTE] Outer Herminia's Manse — https://octopathtraveler0.com/images/maps/path-to-herminia.png
+- [CARTE] Auguste's Villa: Entrance — https://octopathtraveler0.com/images/maps/augustes-villa-entrance.png
+- [CARTE] Auguste's Villa — https://octopathtraveler0.com/images/maps/augustes-villa.png
+- [CARTE] Herminia's Manse — https://octopathtraveler0.com/images/maps/herminias-manse.png
+
+FROSTLANDS
+
+- [CARTE] Emberglow Wilds — https://octopathtraveler0.com/images/maps/emberglow-wilds.png
+- [CARTE] Snowshard Grotto — https://octopathtraveler0.com/images/maps/snowshard-grotto.png
+- [CARTE] Emberglow — https://octopathtraveler0.com/images/maps/emberglow.png
+- [CARTE] Emberglow Laboratory — https://octopathtraveler0.com/images/maps/emberglow-laboratory.png
+- [CARTE] Snowbloom & Subterranean Ruins — https://octopathtraveler0.com/images/maps/snowbloom-subterranean-ruins.png
+- [CARTE] Emberglow Slopes — https://octopathtraveler0.com/images/maps/emberglow-slopes.png
+- [CARTE] Ceremonial Square — https://octopathtraveler0.com/images/maps/ceremonial-square.png
+- [CARTE] Cathedral of Tytos — https://octopathtraveler0.com/images/maps/cathedral-of-tytos.png
+
+FLATLANDS
+
+- [CARTE] Theatropolis Plains — https://octopathtraveler0.com/images/maps/theatropolis-plains.png
+- [CARTE] Serpent's Burrow — https://octopathtraveler0.com/images/maps/serpents-burrow.png
+- [CARTE] Theatropolis — https://octopathtraveler0.com/images/maps/theatropolis.png
+- [CARTE] Amphitheatre Side Rooms — https://octopathtraveler0.com/images/maps/amphitheatre-side-rooms.png
+- [CARTE] Knights Ardante Garrison — https://octopathtraveler0.com/images/maps/knights-ardante-garrison.png
+- [CARTE] Amphitheatre: Backstage — https://octopathtraveler0.com/images/maps/amphitheatre-backstage.png
+
+COASTLANDS
+
+- [CARTE] Rippletide Coast — https://octopathtraveler0.com/images/maps/rippletide-coast.png
+- [CARTE] Rippletide — https://octopathtraveler0.com/images/maps/rippletide.png
+- [CARTE] Isle of Orsa — https://octopathtraveler0.com/images/maps/isle-of-orsa.png
+
+CLIFTLANDS
+
+- [CARTE] Cragspear Pass — https://octopathtraveler0.com/images/maps/cragspear-pass.png
+- [CARTE] Cragspear — https://octopathtraveler0.com/images/maps/cragspear.png
+- [CARTE] Gray Grotto — https://octopathtraveler0.com/images/maps/gray-grotto.png
+- [CARTE] Geist Canyon — https://octopathtraveler0.com/images/maps/geist-canyon.png
+
+RIVERLANDS
+
+- [CARTE] Clearbrook Traverse — https://octopathtraveler0.com/images/maps/clearbrook-traverse.png
+- [CARTE] Clearbrook — https://octopathtraveler0.com/images/maps/clearbrook.png
+- [CARTE] Waterpool Caves — https://octopathtraveler0.com/images/maps/waterpool-caves.png
+
+SUNLANDS
+
+- [CARTE] Sunshade Sands — https://octopathtraveler0.com/images/maps/sunshade-sands.png
+- [CARTE] Sunshade — https://octopathtraveler0.com/images/maps/sunshade.png
+- [CARTE] Finesand Ruins — https://octopathtraveler0.com/images/maps/finesand-ruins.png
+
+HIGHLANDS
+
+- [CARTE] Shepherd's Rock Pass — https://octopathtraveler0.com/images/maps/shepherds-rock-pass.png
+- [CARTE] Shepherd's Rock — https://octopathtraveler0.com/images/maps/shepherds-rock.png
+- [CARTE] Valley of Death — https://octopathtraveler0.com/images/maps/valley-of-death.png
+
+Les cartes ne couvrent pas toutes les salles de donjon du registre. Pour une
+zone absente de cet index, le nom exact de la sous-zone et la section du coffre
+restent la référence, complétés par la mini-carte en jeu et les guides de zone
+recoupés dans la matrice de recherche.
+
+================================================================
 REGISTRE COMPLET DES 454 TRÉSORS — SOURCE RECOMPOSÉE
 ================================================================
 Chaque ligne est un contrôle indépendant. La section et la note donnent la
