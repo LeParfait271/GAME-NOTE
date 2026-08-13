@@ -3027,6 +3027,8 @@ export default function Home() {
   const [heroActiveId, setHeroActiveId] = useState(siteGuides[0].id);
   const catalogSearchRef = useRef<HTMLInputElement>(null);
   const guideSearchRef = useRef<HTMLInputElement>(null);
+  const pageProgressRef = useRef<HTMLSpanElement>(null);
+  const libraryRef = useRef<HTMLElement>(null);
 
   const selected = siteGuides.find((guide) => guide.id === selectedId) ?? siteGuides[0];
   const heroActive = siteGuides.find((guide) => guide.id === heroActiveId) ?? siteGuides[0];
@@ -3040,10 +3042,18 @@ export default function Home() {
 
     event.currentTarget.style.setProperty("--pointer-x", `${x}%`);
     event.currentTarget.style.setProperty("--pointer-y", `${y}%`);
+    event.currentTarget.style.setProperty("--tilt-x", `${((x - 50) / 50) * 6}deg`);
+    event.currentTarget.style.setProperty("--tilt-y", `${((46 - y) / 54) * 5}deg`);
+    event.currentTarget.style.setProperty("--parallax-x", `${((x - 50) / 50) * 1.4}%`);
+    event.currentTarget.style.setProperty("--parallax-y", `${((y - 46) / 54) * 1.1}%`);
   };
   const handleHeroPointerLeave = (event: PointerEvent<HTMLElement>) => {
     event.currentTarget.style.setProperty("--pointer-x", "50%");
     event.currentTarget.style.setProperty("--pointer-y", "46%");
+    event.currentTarget.style.setProperty("--tilt-x", "0deg");
+    event.currentTarget.style.setProperty("--tilt-y", "0deg");
+    event.currentTarget.style.setProperty("--parallax-x", "0%");
+    event.currentTarget.style.setProperty("--parallax-y", "0%");
   };
   const alphabeticalGuides = useMemo(() => sortGuidesAlphabetically(siteGuides), []);
   const selectedIndex = alphabeticalGuides.findIndex((guide) => guide.id === selected.id);
@@ -3178,6 +3188,57 @@ export default function Home() {
   }, []);
 
   useEffect(() => {
+    const progress = pageProgressRef.current;
+    const library = libraryRef.current;
+    const hero = document.querySelector<HTMLElement>(".portfolio-hero");
+    if (!progress) return;
+
+    const updateProgress = () => {
+      const scrollableHeight = document.documentElement.scrollHeight - window.innerHeight;
+      const amount = scrollableHeight > 0 ? (window.scrollY / scrollableHeight) * 100 : 0;
+      progress.style.setProperty("--progress", `${Math.min(100, Math.max(0, amount))}%`);
+      if (hero) {
+        const heroScrollableHeight = Math.max(1, hero.offsetHeight - window.innerHeight);
+        const heroAmount = Math.min(1, Math.max(0, -hero.getBoundingClientRect().top / heroScrollableHeight));
+        hero.style.setProperty("--hero-scroll-shift", `${heroAmount * -46}px`);
+        hero.style.setProperty("--hero-orbit-shift", `${heroAmount * 30}px`);
+      }
+    };
+    let frame = 0;
+    const handleScroll = () => {
+      window.cancelAnimationFrame(frame);
+      frame = window.requestAnimationFrame(updateProgress);
+    };
+
+    updateProgress();
+    window.addEventListener("scroll", handleScroll, { passive: true });
+    window.addEventListener("resize", handleScroll);
+
+    let observer: IntersectionObserver | undefined;
+    if (library && "IntersectionObserver" in window) {
+      observer = new IntersectionObserver(
+        ([entry]) => {
+          if (entry.isIntersecting) {
+            library.classList.add("is-in-view");
+            observer?.disconnect();
+          }
+        },
+        { threshold: 0.14 },
+      );
+      observer.observe(library);
+    } else {
+      library?.classList.add("is-in-view");
+    }
+
+    return () => {
+      window.cancelAnimationFrame(frame);
+      window.removeEventListener("scroll", handleScroll);
+      window.removeEventListener("resize", handleScroll);
+      observer?.disconnect();
+    };
+  }, []);
+
+  useEffect(() => {
     const handleKeyboardShortcut = (event: KeyboardEvent) => {
       const target = event.target;
       const isTyping =
@@ -3267,6 +3328,7 @@ export default function Home() {
       id="main-content"
       tabIndex={-1}
     >
+      <span ref={pageProgressRef} className="page-progress" aria-hidden="true" />
       <script
         type="application/ld+json"
         dangerouslySetInnerHTML={{
@@ -3348,7 +3410,11 @@ export default function Home() {
           <span className="portfolio-hero-wash" />
         </div>
         <div className="hero-effects" aria-hidden="true">
+          <span className="hero-vertical-word">ROUTE</span>
+          <span className="hero-orbit hero-orbit-one" />
+          <span className="hero-orbit hero-orbit-two" />
           <span className="hero-spotlight" />
+          <span className="hero-pointer-ring" />
           <span className="hero-film-grain" />
           <span className="hero-scan-beam" />
           <span className="hero-route-trace" />
@@ -3432,7 +3498,13 @@ export default function Home() {
         </div>
         <a className="hero-scroll" href="#guides"><span>SCROLL / INDEX</span><span className="hero-scroll-line" aria-hidden="true" /></a>
       </section>
-      <section className="section-block library-page" id="guides">
+      <div className="route-marquee" aria-hidden="true">
+        <div className="route-marquee-track">
+          <span>CHRONOLOGICAL ROUTES</span><i>✦</i><span>MISSABLES BEFORE THE POINT OF NO RETURN</span><i>✦</i><span>STEAM 100 % / LOCAL FIRST</span><i>✦</i>
+          <span>CHRONOLOGICAL ROUTES</span><i>✦</i><span>MISSABLES BEFORE THE POINT OF NO RETURN</span><i>✦</i><span>STEAM 100 % / LOCAL FIRST</span><i>✦</i>
+        </div>
+      </div>
+      <section ref={libraryRef} className="section-block library-page reveal-section" id="guides">
         <div className="section-heading">
           <div>
             <p className="kicker"><span>GAME NOTE</span><span>BIBLIOTHÈQUE</span></p>

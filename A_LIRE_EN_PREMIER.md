@@ -111,3 +111,7 @@ transformée en validation automatique quand c'est possible.
 27. Pour une nouvelle fiche reconstruite, conserver la matrice de sources et le
     registre des contradictions avec le TXT. Les compteurs retenus doivent être
     justifiés par au moins deux sources indépendantes avant publication.
+28. Les effets ajoutés à l'accueil doivent former une seule direction visuelle :
+    profondeur, orbites, grain, scan, parallaxe et bandeau cinétique restent
+    décoratifs, ne doivent pas gêner la lecture et doivent respecter
+    `prefers-reduced-motion`, le clavier et le petit écran.

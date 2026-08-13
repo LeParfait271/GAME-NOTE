@@ -445,3 +445,15 @@ une mise à jour qui change les succès ou le contenu, le guide repasse en
   contradictions et un audit final route/objets/succès.
 - Limite : aucune ancienne fiche ne doit être remise en ligne sur simple
   demande de catalogue ; elle repasse par la nouvelle méthode avant publication.
+
+### Lot effets cinétiques de l'accueil - 13 août 2026
+
+- Les nouveaux calques (mot vertical, orbites, parallaxe, lumière du pointeur,
+  progression et bandeau) sont décoratifs et restent derrière le contenu
+  utilisable.
+- Le titre, l'index, les boutons et la bibliothèque doivent rester lisibles
+  sans animation ; le mode `prefers-reduced-motion` neutralise les mouvements.
+- Le contrôle visuel couvre desktop et mobile, avec vérification du scroll, du
+  clavier, de l'absence de débordement horizontal et des tests de livraison.
+- Ce lot n'autorise aucune modification des textes de guides, du lecteur ou
+  des compteurs de succès.

@@ -273,3 +273,19 @@ contrôle de la fiche concernée.
   restent séparées pour que le lecteur sache ce qu'il coche.
 - Limite : ce lot traite le jeu de base et le contenu gratuit séparément ; il
   ne transforme pas un objet de confort en exigence artificielle du 55/55.
+
+## Lot effets cinetiques de l'accueil - 13 aout 2026
+
+- Direction : les calques de profondeur, la typographie fantome, les orbites et
+  le bandeau defilant prolongent la carte, le quadrillage et la route sans
+  ajouter de contenu editorial cache.
+- Interaction : le pointeur peut deplacer la lumiere, la parallaxe et la carte
+  a la une ; le scroll peut deplacer les reperes decoratifs, mais aucun de ces
+  effets ne doit conditionner l'acces a l'index ou a une soluce.
+- Accessibilite : `prefers-reduced-motion` coupe les animations et les reveals,
+  le mode mobile evite tout debordement horizontal et les calques restent
+  `aria-hidden`.
+- Controle attendu : verifier le premier ecran, le scroll vers la bibliotheque,
+  le mobile, le clavier et les sorties lint, build, preflight et smoke tests.
+- Limite : ce lot ne modifie ni les fiches, ni le lecteur, ni les donnees de
+  progression Steam.
