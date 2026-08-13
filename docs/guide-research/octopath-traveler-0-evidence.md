@@ -255,3 +255,12 @@ fonction précise.
   numéroté ni la relecture en jeu.
 - Les zones non couvertes par les 37 cartes restent explicitement signalées :
   aucune direction n'est inventée pour combler un manque de source.
+
+## Passe de contrôle 8 — couverture cartographique étendue
+
+- L'index direct de 37 cartes OT0 est maintenant complété par l'index des zones
+  Game8, qui fournit les pages de cartes des routes, villes et donjons absents
+  de la première sélection.
+- Le guide distingue les cartes directement liées et l'index étendu : cette
+  séparation évite de présenter une simple liste de liens comme une vérification
+  écran par écran.

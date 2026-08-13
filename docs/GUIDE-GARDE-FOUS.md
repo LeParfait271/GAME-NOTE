@@ -616,3 +616,9 @@ une mise à jour qui change les succès ou le contenu, le guide repasse en
   décrivent l'état réel de l'application.
 - Le contrôle couvre l'accueil, la bibliothèque, le lecteur, le clavier, le
   mobile et les validations de livraison.
+### Couverture cartographique étendue OT0
+
+- L'index Game8 des zones et donjons peut compléter les 37 cartes directes,
+  mais doit rester présenté comme une source de navigation externe.
+- Le guide doit distinguer lien cartographique, repère de base et contrôle
+  réellement vérifié en jeu.

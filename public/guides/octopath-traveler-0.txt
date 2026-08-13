@@ -1404,6 +1404,8 @@ Quand une ligne du registre dit qu'aucun repère additionnel n'est fourni,
 commence par ouvrir la carte de sa sous-zone, puis balaie les embranchements
 et les pièces avant de prendre la sortie. Les cartes sont regroupées par région
 et proviennent de la page Maps de la base OT0.
+Index étendu des cartes de zones et des salles de donjon :
+https://game8.jp/octopathtraveler0/746437
 
 WOODLANDS
 
@@ -1466,10 +1468,11 @@ HIGHLANDS
 - [CARTE] Shepherd's Rock — https://octopathtraveler0.com/images/maps/shepherds-rock.png
 - [CARTE] Valley of Death — https://octopathtraveler0.com/images/maps/valley-of-death.png
 
-Les cartes ne couvrent pas toutes les salles de donjon du registre. Pour une
-zone absente de cet index, le nom exact de la sous-zone et la section du coffre
-restent la référence, complétés par la mini-carte en jeu et les guides de zone
-recoupés dans la matrice de recherche.
+Les 37 cartes directes ci-dessus ne couvrent pas toutes les salles de donjon du
+registre. Pour une zone absente, ouvre l'index étendu Game8, puis utilise le nom
+exact de la sous-zone et la section du coffre comme contrôle dans le jeu. La
+mini-carte et les guides de zone recoupés dans la matrice restent la référence
+complémentaire ; aucune direction n'est inventée.
 
 ================================================================
 REGISTRE COMPLET DES 454 TRÉSORS — SOURCE RECOMPOSÉE

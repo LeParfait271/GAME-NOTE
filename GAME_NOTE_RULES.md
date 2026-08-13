@@ -446,3 +446,9 @@ contrôle de la fiche concernée.
   historique local de cinq guides maximum en jaune, dans l'ordre d'utilisation.
 - Le contrôle couvre l'entrée, le hero, la bibliothèque, le lecteur, le clavier,
   le mobile, puis lint, build, preflight et smoke.
+### Couverture cartographique étendue OT0 — 13 août 2026
+
+- Le guide peut renvoyer vers l'index Game8 des cartes pour les zones absentes
+  des 37 cartes directes.
+- Les deux niveaux de source doivent rester distincts : un lien aide à naviguer,
+  mais ne prouve pas qu'un écran a été relu ou qu'un coffre a été ouvert.

@@ -275,6 +275,9 @@ if (octopathZeroDraft) {
       octopathZeroDraftPath + ": l'index cartographique OT0 doit contenir exactement 37 cartes (actuel : " + mapLinks.length + ").",
     );
   }
+  if (!mapIndexSection.includes("https://game8.jp/octopathtraveler0/746437")) {
+    fail(octopathZeroDraftPath + ": index étendu Game8 des cartes OT0 absent.");
+  }
 }
 
 const guideBlockMatch = page.match(

@@ -106,3 +106,10 @@ traité comme une récompense d'action et non comme un coffre supplémentaire.
   pour aider à retrouver les coffres dont le texte ne donne pas de direction.
 - L'index ne rend pas OT0 publiable à lui seul : les zones non couvertes et la
   relecture écran par écran restent explicitement hors du seuil final.
+
+### Passe de contrôle 8 — index étendu OT0
+
+- Les zones absentes des 37 cartes directes renvoient désormais vers l'index
+  Game8 des cartes, sans modifier le statut archive et invisible d'OT0.
+- Cette source externe aide à retrouver une salle, mais ne remplace pas la
+  vérification éditoriale avant une future publication.

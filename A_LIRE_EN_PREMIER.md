@@ -236,3 +236,9 @@ transformée en validation automatique quand c'est possible.
   autorisés lorsqu'ils décrivent réellement l'état ou la fiche consultée.
 - Le hero peut afficher le dernier guide réellement ouvert en rouge et un
   historique local de cinq guides maximum en jaune, dans l'ordre d'utilisation.
+### Passe de contrôle 7 — couverture cartographique étendue
+
+- L'index direct de 37 cartes est complété par l'index Game8 des zones et
+  donjons non présents dans la première sélection.
+- Le guide doit signaler cette différence et ne jamais transformer un lien
+  cartographique en validation écran par écran.
