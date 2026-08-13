@@ -94,6 +94,18 @@ Ce fichier fixe la méthode minimale avant toute modification visible du site.
 Toute nouvelle règle durable doit être ajoutée à GAME_NOTE_RULES.md et
 transformée en validation automatique quand c'est possible.
 
+### Lot catalogue Steam ajouté le 13 août 2026
+
+- La capture Steam est suivie dans `docs/guide-rebuild-queue.json` : deux
+  références actives, neuf guides d'archive à reconstruire et cinq exclusions.
+- OCTOPATH TRAVELER 0 est seulement planifié pour l'instant : AppID 3014320,
+  37 succès Steam, fiche de recherche créée, aucun TXT de façade ni carte
+  visible.
+- Les guides déjà présents dans `public/guides/` restent hors publication tant
+  qu'ils n'ont pas repassé la méthode des cinq sources et le contrôle complet.
+- Contrôle avant commit : cohérence queue/catalogue/audit, publication toujours
+  limitée à Expedition 33 et Octopath 1, puis build, preflight et tests.
+
 24. Les effets de l'accueil immersif sont des améliorations progressives : le
     grain, la lumière, le scan et les transitions ne doivent jamais remplacer
     le titre, l'index, les boutons ou l'information de route. Tester aussi

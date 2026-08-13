@@ -11,6 +11,11 @@ doit toutefois pas etre copie dans `dist/client/guides/`, ajoute au service
 worker, ou rendu accessible par l'index tant qu'il n'est pas dans la liste de
 publication temporaire.
 
+La file editoriale `docs/guide-rebuild-queue.json` est distincte de la liste de
+publication. Elle enregistre les deux references actives, les fiches a refaire
+et les exclusions issues de la capture Steam. Ajouter un jeu dans cette file ne
+cree donc ni carte visible, ni URL publique, ni promesse de guide termine.
+
 ## Controle a chaque commit
 
 1. La liste des identifiants de `app/page.tsx` doit correspondre a la liste
@@ -41,3 +46,13 @@ Le TXT contient les registres eux-memes : coffres par zone et contenu, objets
 caches par PNJ, solutions et recompenses des recits, entrees Strategist et
 inventaire Collector. Une sortie qui ne contient qu'une liste de succes ou un
 lien externe est refusee. Les spoilers sont autorises pour cette fiche.
+
+## Lot catalogue Steam — 13 aout 2026
+
+- Les titres a route chronologique de la capture sont conserves dans la file de
+  reconstruction ; les anciens TXT restent archives et invisibles.
+- OCTOPATH TRAVELER 0 est ajoute comme `planned` avec son AppID et ses 37
+  succes, mais sans faux TXT avant la matrice de sources.
+- Dota Underlords, Rocket League, Dota 2, Brotato et FINAL FANTASY VII EVER
+  CRISIS restent `excluded` : aucune modification de masquage ne doit les faire
+  reapparaitre comme soluces classiques.

@@ -304,3 +304,18 @@ contrôle de la fiche concernée.
   le mobile, le clavier et les sorties lint, build, preflight et smoke tests.
 - Limite : ce lot ne modifie ni les fiches, ni le lecteur, ni les donnees de
   progression Steam.
+
+## File de reconstruction issue de la bibliotheque Steam
+
+- `docs/guide-rebuild-queue.json` est la source editoriale des lots a refaire ;
+  elle ne vaut jamais autorisation de publication.
+- Une entree `active` doit correspondre a la publication temporaire ; une entree
+  `queued` reste dans l'archive jusqu'a sa nouvelle matrice de sources ; une
+  entree `excluded` doit conserver la justification qui empeche une soluce
+  chronologique classique.
+- Un nouveau jeu planifie doit d'abord avoir son AppID, son nombre de succes et
+  sa fiche de recherche. Aucun TXT court ou carte visible ne doit servir de
+  placeholder.
+- Pour la capture du 13 aout 2026, OCTOPATH TRAVELER 0 est planifie (3014320,
+  37 succes) ; Dota Underlords, Rocket League, Dota 2, Brotato et FINAL FANTASY
+  VII EVER CRISIS restent exclus.

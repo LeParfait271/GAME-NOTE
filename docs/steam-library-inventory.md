@@ -248,6 +248,8 @@ soluce chronologique classique n'apporterait rien.
 ### Final Fantasy et RPG proches
 
 - FINAL FANTASY RESONANCE — hold jusqu'à la sortie annoncée du 22 octobre 2026 ; AppID 3259780, guide et total de succès à figer après sortie
+- OCTOPATH TRAVELER 0 — AppID 3014320, 37 succès Steam ; route, ville, objets,
+  missables et succès à auditer avant rédaction
 
 ## Soluces spéciales sans succès Steam à vérifier (`special`)
 

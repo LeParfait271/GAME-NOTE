@@ -478,3 +478,20 @@ une mise à jour qui change les succès ou le contenu, le guide repasse en
   clavier, de l'absence de débordement horizontal et des tests de livraison.
 - Ce lot n'autorise aucune modification des textes de guides, du lecteur ou
   des compteurs de succès.
+
+## Lot catalogue Steam — 13 août 2026
+
+- La capture de bibliothèque est enregistrée dans
+  `docs/guide-rebuild-queue.json`, séparément de `docs/site-publication.json`.
+  Une entrée de queue n'est ni une carte visible ni une URL publiée.
+- Les deux références actives restent Expedition 33 et Octopath Traveler 1 ;
+  les neuf autres titres à route chronologique de la capture restent archivés
+  jusqu'à leur reconstruction par matrice.
+- OCTOPATH TRAVELER 0 est ajouté en `planned` avec l'AppID 3014320 et 37 succès
+  Steam. La fiche de recherche documente ce qui est confirmé et ce qui doit
+  encore être recoupé ; aucun guide incomplet ne doit être publié.
+- Dota Underlords, Rocket League, Dota 2, Brotato et FINAL FANTASY VII EVER
+  CRISIS restent exclus et doivent rester absents de la file des guides actifs.
+- Le contrôle de commit vérifie la cohérence de la file avec le catalogue, les
+  audits Steam et la publication temporaire, puis conserve le bump de version
+  `0.01` et le commit local obligatoire.

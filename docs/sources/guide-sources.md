@@ -4,6 +4,15 @@ Date de lecture de cette feuille : 10 aout 2026. Les liens sont des pistes de
 verification, pas du texte a recopier. Chaque TXT est redige de nouveau pour
 Game Note et conserve uniquement les informations necessaires a la route.
 
+## OCTOPATH TRAVELER 0 — recherche initiale
+
+- Steam, fiche officielle :
+  https://store.steampowered.com/app/3014320/OCTOPATH_TRAVELER_0/
+- Points verifies le 13 aout 2026 : AppID 3014320, 37 succes Steam, campagne
+  solo, creation de personnage et reconstruction de ville.
+- Limite : la seconde source de route et la liste detaillee des conditions de
+  succes restent a comparer avant toute redaction ou publication.
+
 ## GRIS
 
 - Steam, fiche des succes : https://steamcommunity.com/stats/683320/achievements

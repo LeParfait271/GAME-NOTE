@@ -126,6 +126,7 @@ const requiredSourceFiles = [
   "docs/guide-catalog.json",
   "docs/site-publication.json",
   "docs/site-publication-workflow.md",
+  "docs/guide-rebuild-queue.json",
   "docs/guide-research/expedition-33-evidence.md",
   "docs/guide-research/octopath-traveler-1-evidence.md",
   "docs/site-guardrails.md",
@@ -156,6 +157,7 @@ const packageJson = await readJson("package.json");
 const manifest = await readJson("public/manifest.json");
 const catalog = await readJson("docs/guide-catalog.json");
 const publication = await readJson("docs/site-publication.json");
+const guideQueue = await readJson("docs/guide-rebuild-queue.json");
 const steamAudit = await readJson("docs/steam-audit.json");
 
 const siteVersionMatch = siteVersionSource.match(
@@ -264,6 +266,49 @@ for (const entry of auditEntries) {
     fail("docs/steam-audit.json: id dupliqué " + entry.id + ".");
   } else {
     auditById.set(entry.id, entry);
+  }
+}
+
+const queueGroups = ["active", "queued", "excluded"];
+for (const group of queueGroups) {
+  if (!Array.isArray(guideQueue?.[group])) {
+    fail("docs/guide-rebuild-queue.json: groupe absent ou invalide " + group + ".");
+  }
+}
+const queueActive = Array.isArray(guideQueue?.active) ? guideQueue.active : [];
+const queueQueued = Array.isArray(guideQueue?.queued) ? guideQueue.queued : [];
+const queueExcluded = Array.isArray(guideQueue?.excluded) ? guideQueue.excluded : [];
+unique(
+  [...queueActive, ...queueQueued, ...queueExcluded].map((entry) => entry?.id),
+  "docs/guide-rebuild-queue.json ids",
+);
+for (const entry of [...queueActive, ...queueQueued, ...queueExcluded]) {
+  if (!entry?.id || typeof entry.id !== "string") {
+    fail("docs/guide-rebuild-queue.json: entrée sans id.");
+  }
+}
+for (const entry of queueActive) {
+  const catalogEntry = catalogById.get(entry?.id);
+  const siteId = entry?.siteId ?? entry?.id;
+  if (!catalogEntry) fail("docs/guide-rebuild-queue.json: actif absent du catalogue " + entry?.id + ".");
+  if (!(publication?.visibleGuideIds ?? []).includes(siteId)) {
+    fail("docs/guide-rebuild-queue.json: actif absent de la publication " + siteId + ".");
+  }
+}
+for (const entry of queueQueued) {
+  const catalogEntry = catalogById.get(entry?.id);
+  if (!catalogEntry) fail("docs/guide-rebuild-queue.json: queue absente du catalogue " + entry?.id + ".");
+  if (catalogEntry?.scope === "excluded") {
+    fail("docs/guide-rebuild-queue.json: entrée exclue présente dans queued " + entry?.id + ".");
+  }
+  if ((publication?.visibleGuideIds ?? []).includes(entry?.id)) {
+    fail("docs/guide-rebuild-queue.json: entrée queued visible " + entry?.id + ".");
+  }
+}
+for (const entry of queueExcluded) {
+  const catalogEntry = catalogById.get(entry?.id);
+  if (!catalogEntry || catalogEntry.scope !== "excluded") {
+    fail("docs/guide-rebuild-queue.json: exclusion incohérente " + entry?.id + ".");
   }
 }
 
