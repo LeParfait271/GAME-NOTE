@@ -2976,6 +2976,41 @@ const sortGuidesAlphabetically = (items: Guide[]) =>
     left.title.localeCompare(right.title, "fr", { sensitivity: "base" }),
   );
 
+const GUIDE_HISTORY_STORAGE_KEY = "game-note-guide-history";
+const GUIDE_HISTORY_LIMIT = 5;
+
+const readGuideHistory = (): string[] => {
+  if (typeof window === "undefined") {
+    return [];
+  }
+
+  try {
+    const value = JSON.parse(window.localStorage.getItem(GUIDE_HISTORY_STORAGE_KEY) ?? "[]");
+    if (!Array.isArray(value)) return [];
+    return value
+      .filter((id): id is string => typeof id === "string")
+      .filter((id, index, ids) => ids.indexOf(id) === index)
+      .slice(0, GUIDE_HISTORY_LIMIT);
+  } catch {
+    return [];
+  }
+};
+
+const rememberGuideUse = (id: string): string[] => {
+  const next = [id, ...readGuideHistory().filter((guideId) => guideId !== id)].slice(
+    0,
+    GUIDE_HISTORY_LIMIT,
+  );
+
+  try {
+    window.localStorage.setItem(GUIDE_HISTORY_STORAGE_KEY, JSON.stringify(next));
+  } catch {
+    // La navigation reste utilisable si le stockage local est indisponible.
+  }
+
+  return next;
+};
+
 const catalogLetters = Array.from(
   new Set(
     sortGuidesAlphabetically(siteGuides).map((guide) =>
@@ -3024,15 +3059,19 @@ export default function Home() {
   const [readerMode, setReaderMode] = useState(false);
   const [invalidGuideId, setInvalidGuideId] = useState<string | null>(null);
   const [initialStateReady, setInitialStateReady] = useState(false);
-  const [heroActiveId, setHeroActiveId] = useState(siteGuides[0].id);
+  const [guideHistoryIds, setGuideHistoryIds] = useState<string[]>([]);
   const catalogSearchRef = useRef<HTMLInputElement>(null);
   const guideSearchRef = useRef<HTMLInputElement>(null);
   const pageProgressRef = useRef<HTMLSpanElement>(null);
   const libraryRef = useRef<HTMLElement>(null);
 
   const selected = siteGuides.find((guide) => guide.id === selectedId) ?? siteGuides[0];
-  const heroActive = siteGuides.find((guide) => guide.id === heroActiveId) ?? siteGuides[0];
-  const heroGuides = siteGuides.slice(0, 7);
+  const recentGuides = guideHistoryIds
+    .map((id) => siteGuides.find((guide) => guide.id === id))
+    .filter((guide): guide is Guide => Boolean(guide));
+  const hasGuideHistory = recentGuides.length > 0;
+  const heroActive = recentGuides[0] ?? siteGuides[0];
+  const heroGuides = (hasGuideHistory ? recentGuides : siteGuides).slice(0, GUIDE_HISTORY_LIMIT);
   const handleHeroPointerMove = (event: PointerEvent<HTMLElement>) => {
     if (event.pointerType === "touch") return;
 
@@ -3101,6 +3140,9 @@ export default function Home() {
   );
   const effectiveCatalogLimit = catalogLimit;
   const displayedGuides = visibleGuides.slice(0, effectiveCatalogLimit);
+  const rememberCurrentGuide = (id: string) => {
+    setGuideHistoryIds(rememberGuideUse(id));
+  };
 
   // These values come from the browser and must hydrate after the static shell mounts.
   /* eslint-disable react-hooks/set-state-in-effect */
@@ -3111,6 +3153,7 @@ export default function Home() {
     const requestedFilter = url.searchParams.get("filter") as CatalogFilter | null;
     const requestedLetter = url.searchParams.get("letter")?.toUpperCase() ?? "";
     const validRequestedGuide = siteGuides.find((guide) => guide.id === requestedGuide);
+    setGuideHistoryIds(readGuideHistory());
     setCatalogSearch(requestedSearch ?? "");
     setCatalogFilter(
       requestedFilter && CATALOG_FILTERS.some((filter) => filter.id === requestedFilter)
@@ -3119,6 +3162,7 @@ export default function Home() {
     );
     setCatalogLetter(catalogLetters.includes(requestedLetter) ? requestedLetter : "");
     if (validRequestedGuide) {
+      rememberCurrentGuide(validRequestedGuide.id);
       setSelectedId(validRequestedGuide.id);
       setReaderMode(true);
       window.history.replaceState(
@@ -3150,6 +3194,7 @@ export default function Home() {
       );
       setCatalogLetter(catalogLetters.includes(nextLetter) ? nextLetter : "");
       if (nextGuide) {
+        rememberCurrentGuide(nextGuide.id);
         setSelectedId(nextGuide.id);
         setInvalidGuideId(null);
         setReaderMode(true);
@@ -3278,6 +3323,7 @@ export default function Home() {
   }, []);
 
   const handleOpenReader = (id: string) => {
+    rememberCurrentGuide(id);
     openReader(
       id,
       setSelectedId,
@@ -3468,14 +3514,17 @@ export default function Home() {
               Mes notes chronologiques, mes repères de succès et les étapes à ne pas rater.
             </p>
             <div className="hero-actions">
-              <a className="hero-link hero-link-primary" href="#guides">Ouvrir l&apos;index <span aria-hidden="true">↓</span></a>
-              <button className="hero-link hero-link-secondary" type="button" onClick={() => handleOpenReader(heroActive.id)}>
-                Lire la fiche <span aria-hidden="true">↗</span>
+              <button className="hero-link hero-link-primary" type="button" onClick={() => handleOpenReader(heroActive.id)}>
+                {hasGuideHistory ? "Reprendre la route" : "Ouvrir la première route"} <span aria-hidden="true">↗</span>
               </button>
+              <a className="hero-link hero-link-secondary" href="#guides">Voir la bibliothèque <span aria-hidden="true">↓</span></a>
             </div>
           </div>
 
-          <article className={"hero-focus hero-focus-" + heroActive.accent}>
+          <article
+            className={"hero-focus hero-focus-last-used hero-focus-" + heroActive.accent}
+            aria-label={hasGuideHistory ? `Dernier guide utilisé : ${heroActive.title}` : `Point de départ : ${heroActive.title}`}
+          >
             <div className="hero-focus-frame">
               {/* eslint-disable-next-line @next/next/no-img-element */}
               <img
@@ -3490,17 +3539,22 @@ export default function Home() {
                 }}
               />
               <span className="hero-focus-grid" aria-hidden="true" />
+              <span className="hero-focus-status">{hasGuideHistory ? "DERNIER GUIDE" : "POINT DE DÉPART"}</span>
               <div className="hero-focus-caption">
-                <p>ROUTE / {String(siteGuides.indexOf(heroActive) + 1).padStart(2, "0")}</p>
+                <p>{hasGuideHistory ? "REPRENDRE / DERNIÈRE ROUTE" : `ROUTE / ${String(siteGuides.indexOf(heroActive) + 1).padStart(2, "0")}`}</p>
                 <h2>{heroActive.title}</h2>
                 <span>{heroActive.eyebrow} / {heroActive.count}</span>
               </div>
             </div>
-            <p className="hero-focus-note">Une fiche, un ordre, une sauvegarde de moins à regretter.</p>
+            <p className="hero-focus-note">
+              {hasGuideHistory
+                ? "Dernière fiche ouverte sur cet appareil. La lecture propose de reprendre à la dernière position enregistrée."
+                : "Ouvre une fiche : elle deviendra ton point de reprise local."}
+            </p>
           </article>
 
-          <div className="hero-index">
-            <div className="hero-index-heading"><span>INDEX / ROUTES</span><span>{String(heroGuides.length).padStart(2, "0")} / {String(siteGuides.length).padStart(2, "0")}</span></div>
+          <div className={"hero-index" + (hasGuideHistory ? " hero-index-history" : "")}>
+            <div className="hero-index-heading"><span>{hasGuideHistory ? "HISTORIQUE LOCAL" : "INDEX / ROUTES"}</span><span>{String(heroGuides.length).padStart(2, "0")} / {hasGuideHistory ? String(GUIDE_HISTORY_LIMIT).padStart(2, "0") : String(siteGuides.length).padStart(2, "0")}</span></div>
             <ol>
               {heroGuides.map((guide, index) => (
                 <li key={guide.id}>
@@ -3508,8 +3562,6 @@ export default function Home() {
                     className={heroActive.id === guide.id ? "is-active" : ""}
                     type="button"
                     onClick={() => handleOpenReader(guide.id)}
-                    onFocus={() => setHeroActiveId(guide.id)}
-                    onMouseEnter={() => setHeroActiveId(guide.id)}
                   >
                     <span className="hero-index-number">{String(index + 1).padStart(2, "0")}</span>
                     <span className="hero-index-copy"><strong>{guide.title}</strong><small>{guide.eyebrow} / {guide.count}</small></span>

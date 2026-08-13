@@ -3963,6 +3963,26 @@ button.reader-neighbor:focus-visible {
   pointer-events: none;
 }
 
+.hero-focus-status {
+  position: absolute;
+  top: 18px;
+  left: 18px;
+  z-index: 4;
+  padding: 7px 9px;
+  border: 1px solid var(--hero-orange);
+  background: rgba(10, 20, 26, 0.78);
+  color: var(--hero-orange);
+  font-family: var(--hero-mono);
+  font-size: 0.49rem;
+  letter-spacing: 0.1em;
+  line-height: 1;
+  text-transform: uppercase;
+}
+
+.hero-focus-last-used .hero-focus-frame {
+  border-color: color-mix(in srgb, var(--hero-orange) 78%, var(--hero-cream));
+}
+
 .hero-focus-caption {
   position: absolute;
   right: 18px;
@@ -4166,6 +4186,36 @@ button.reader-neighbor:focus-visible {
 .hero-index-more:hover,
 .hero-index-more:focus-visible {
   color: var(--hero-orange);
+}
+
+.hero-index-history .hero-index-heading {
+  border-color: color-mix(in srgb, var(--gold) 48%, var(--hero-line));
+}
+
+.hero-index-history .hero-index-heading span:first-child,
+.hero-index-history .hero-index-number,
+.hero-index-history .hero-index-arrow {
+  color: var(--gold);
+}
+
+.hero-index-history li {
+  border-color: rgba(240, 191, 100, 0.32);
+}
+
+.hero-index-history button::before {
+  background: var(--gold);
+}
+
+.hero-index-history button::after {
+  background: linear-gradient(90deg, rgba(240, 191, 100, 0.16), transparent 60%);
+}
+
+.hero-index-history button:hover,
+.hero-index-history button:focus-visible,
+.hero-index-history button.is-active,
+.hero-index-history .hero-index-more:hover,
+.hero-index-history .hero-index-more:focus-visible {
+  color: var(--gold);
 }
 
 .hero-scroll {

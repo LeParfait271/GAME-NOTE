@@ -236,6 +236,7 @@ transformée en validation automatique quand c'est possible.
   autorisés lorsqu'ils décrivent réellement l'état ou la fiche consultée.
 - Le hero peut afficher le dernier guide réellement ouvert en rouge et un
   historique local de cinq guides maximum en jaune, dans l'ordre d'utilisation.
+- La reprise depuis le hero doit rester une ouverture locale, sans modifier les repères du guide.
 - Le bouton de reprise et une entrée de l'historique doivent ouvrir la même
   fiche que la bibliothèque, sans créer une navigation parallèle.
 ### Passe de contrôle 7 — couverture cartographique étendue

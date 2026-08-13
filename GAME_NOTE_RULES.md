@@ -444,6 +444,7 @@ contrôle de la fiche concernée.
   les messages hors ligne et les erreurs de route restent des statuts utiles.
 - Le hero peut afficher le dernier guide réellement ouvert en rouge et un
   historique local de cinq guides maximum en jaune, dans l'ordre d'utilisation.
+- La reprise depuis le hero doit rester une ouverture locale, sans modifier les repères du guide.
 - Le bouton de reprise et une entrée de l'historique doivent ouvrir la même
   fiche que la bibliothèque, sans créer une navigation parallèle.
 - Le contrôle couvre l'entrée, le hero, la bibliothèque, le lecteur, le clavier,
