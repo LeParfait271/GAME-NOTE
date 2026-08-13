@@ -3940,27 +3940,16 @@ button.reader-neighbor:focus-visible {
   width: 100%;
   height: 100%;
   object-fit: cover;
-  filter: saturate(0.72) contrast(1.08) brightness(0.72);
+  object-position: center;
+  filter: saturate(0.9) contrast(1.04) brightness(0.88);
   transition: filter 300ms ease, transform 500ms var(--expo-out);
   animation: hero-art-in 650ms var(--expo-out) both;
 }
 
 .hero-focus-frame:hover .hero-focus-art,
 .hero-focus:focus-within .hero-focus-art {
-  filter: saturate(1) contrast(1.08) brightness(0.82);
-  transform: scale(1.06);
-}
-
-.hero-focus-grid {
-  position: absolute;
-  inset: 0;
-  z-index: 1;
-  background:
-    linear-gradient(to right, rgba(243, 237, 224, 0.12) 1px, transparent 1px),
-    linear-gradient(to bottom, rgba(243, 237, 224, 0.12) 1px, transparent 1px),
-    linear-gradient(0deg, rgba(5, 12, 16, 0.85), transparent 60%);
-  background-size: 33.333% 33.333%;
-  pointer-events: none;
+  filter: saturate(1) contrast(1.06) brightness(0.95);
+  transform: scale(1.02);
 }
 
 .hero-focus-status {
@@ -5101,7 +5090,7 @@ button.reader-neighbor:focus-visible {
   }
 
   .hero-focus-art {
-    filter: saturate(0.82) contrast(1.08) brightness(0.78);
+    filter: saturate(0.92) contrast(1.04) brightness(0.9);
   }
 
   .hero-focus-frame:hover,

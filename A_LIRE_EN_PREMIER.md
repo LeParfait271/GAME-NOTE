@@ -272,3 +272,5 @@ transformée en validation automatique quand c'est possible.
   repères seulement quand ils sont confirmés par une fiche de zone ou de route.
 - Les coffres en mer et les sections non sourcées restent signalés séparément.
 - La progression du registre ne doit jamais être résumée par le seul compteur.
+
+- Les visuels portrait du hero utilisent une source adaptée au ratio de la carte et ne reçoivent pas de quadrillage superposé.

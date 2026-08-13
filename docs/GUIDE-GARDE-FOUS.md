@@ -659,3 +659,5 @@ une mise à jour qui change les succès ou le contenu, le guide repasse en
   sans modifier le compteur de 454 trésors.
 - Les coffres en mer restent une dette déclarée tant qu'une fiche de navigation
   dédiée n'a pas été recoupée.
+
+- Le focus portrait utilise une source 2x adaptée et aucune grille décorative ne se superpose à son illustration.

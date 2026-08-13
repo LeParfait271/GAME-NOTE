@@ -484,3 +484,5 @@ contrôle de la fiche concernée.
   Rippletide Coast, Isle of Orsa et Isle of Orsa: Depths.
 - Les coffres de mer (#133 à #138) restent à recouper avec une source dédiée ;
   une sous-zone ne suffit pas à justifier une direction.
+
+- Les visuels portrait du hero utilisent une source adaptée au ratio de la carte et ne reçoivent pas de quadrillage superposé.

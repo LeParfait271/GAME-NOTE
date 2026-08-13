@@ -2955,6 +2955,9 @@ const siteGuides = guides.filter((guide) => SITE_VISIBLE_GUIDE_IDS.has(guide.id)
 const steamHeaderUrl = (appId: number) =>
   `https://cdn.akamai.steamstatic.com/steam/apps/${appId}/header.jpg`;
 
+const steamPortraitUrl = (appId: number) =>
+  `https://cdn.akamai.steamstatic.com/steam/apps/${appId}/library_600x900_2x.jpg`;
+
 const normalizeCatalogText = (value: string) =>
   value
     .normalize("NFD")
@@ -3530,15 +3533,14 @@ export default function Home() {
               <img
                 className="hero-focus-art"
                 key={heroActive.id}
-                src={heroActive.artworkUrl ?? steamHeaderUrl(heroActive.steamAppId)}
+                src={heroActive.artworkUrl ?? steamPortraitUrl(heroActive.steamAppId)}
                 alt={`Illustration de la route ${heroActive.title}`}
-                width={460}
-                height={215}
+                width={600}
+                height={900}
                 onError={(event) => {
                   event.currentTarget.src = "/images/cards/game-note-card-route.png";
                 }}
               />
-              <span className="hero-focus-grid" aria-hidden="true" />
               <span className="hero-focus-status">{hasGuideHistory ? "DERNIER GUIDE" : "POINT DE DÉPART"}</span>
               <div className="hero-focus-caption">
                 <p>{hasGuideHistory ? "REPRENDRE / DERNIÈRE ROUTE" : `ROUTE / ${String(siteGuides.indexOf(heroActive) + 1).padStart(2, "0")}`}</p>
