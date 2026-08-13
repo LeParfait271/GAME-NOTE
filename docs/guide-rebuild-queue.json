@@ -6,7 +6,7 @@
     { "id": "octopath-traveler-1", "siteId": "octopath", "state": "visible-reference" }
   ],
   "queued": [
-    { "id": "octopath-traveler-0", "state": "planned", "priority": 1, "note": "Nouveau titre : auditer la route, la ville, les objets, les missables et les 37 succès Steam." },
+    { "id": "octopath-traveler-0", "state": "research", "priority": 1, "evidenceFile": "docs/guide-research/octopath-traveler-0-evidence.md", "note": "Matrice en cours : cinq piliers de sources, route, ville, objets, recrutements, fins et les 37 succès Steam." },
     { "id": "final-fantasy-xvi", "state": "archive-rebuild", "priority": 2, "note": "Refaire avec la campagne, les quêtes, les objets, les DLC et les 69 succès Steam." },
     { "id": "live-a-live", "state": "archive-rebuild", "priority": 3, "note": "Refaire avec les scénarios, les chapitres finaux, les objets et les 48 succès Steam." },
     { "id": "octopath-traveler-2", "state": "archive-rebuild", "priority": 4, "note": "Refaire avec les huit routes, les Crossed Paths, les coffres et les 33 succès Steam." },

@@ -51,8 +51,20 @@ lien externe est refusee. Les spoilers sont autorises pour cette fiche.
 
 - Les titres a route chronologique de la capture sont conserves dans la file de
   reconstruction ; les anciens TXT restent archives et invisibles.
-- OCTOPATH TRAVELER 0 est ajoute comme `planned` avec son AppID et ses 37
-  succes, mais sans faux TXT avant la matrice de sources.
+- OCTOPATH TRAVELER 0 est passe en `research` avec son AppID, ses 37 succes et
+  `docs/guide-research/octopath-traveler-0-evidence.md`, mais sans faux TXT,
+  carte ou URL avant la validation de la matrice.
 - Dota Underlords, Rocket League, Dota 2, Brotato et FINAL FANTASY VII EVER
   CRISIS restent `excluded` : aucune modification de masquage ne doit les faire
   reapparaitre comme soluces classiques.
+
+## Controle editorial OCTOPATH TRAVELER 0
+
+La matrice OT0 doit conserver les cinq piliers de recherche, les compteurs
+provisoires et les contradictions avant le premier fichier de soluce. Le
+validateur verifie le lien `evidenceFile` de la queue ; passer l'entree en
+`research` sans matrice est donc une erreur de livraison.
+
+La publication temporaire reste inchangée : seuls Expedition 33 et Octopath
+Traveler 1 sont visibles, et les modifications d'interface déjà présentes
+dans le dépôt ne doivent pas être mélangées à ce lot éditorial.

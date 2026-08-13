@@ -333,3 +333,29 @@ contrôle de la fiche concernée.
   desktop, le mobile sans débordement, puis lint, build, preflight et smoke.
 - Limite : ce lot ne modifie ni les textes des guides, ni leurs compteurs, ni
   la navigation du lecteur.
+
+## Lot nettoyage de composition du hero - 13 août 2026
+
+- Hiérarchie : l'image de route est le point focal ; la typographie d'archive
+  reste secondaire et le panneau éditorial conserve une largeur respirante.
+- Effets : orbites, grain, scan et repère pointeur restent décoratifs et sont
+  abaissés en contraste pour ne pas concurrencer le titre, la carte ou l'index.
+- Contrôle attendu : vérifier desktop et mobile, le mode mouvement réduit,
+  l'absence de collision visuelle et les validations lint, build, preflight et
+  smoke.
+- Limite : ce lot ne modifie ni les guides, ni leurs compteurs, ni le lecteur.
+
+### Recherche OCTOPATH TRAVELER 0 — 13 août 2026
+
+- Une entrée `research` de `docs/guide-rebuild-queue.json` doit pointer vers sa
+  matrice de sources avec `evidenceFile` ; le validateur bloque une matrice
+  absente avant toute rédaction publiée.
+- La matrice OT0 retient cinq piliers éditoriaux indépendants et sépare les
+  compteurs Steam des compteurs de contenu : 37 succès, 36 recrues de travail,
+  454 coffres de base, 40 musiques, 11 trésors légendaires, 9 Battle-Tested,
+  8 trésors sacrés et 9 armes Forbidden. Les valeurs de base restent à
+  confirmer par la route et ne sont pas affichées comme acquises.
+- Une divergence entre une fiche de route, une base de données et Steam doit
+  être inscrite dans la matrice avant d'entrer dans le TXT ; aucune hypothèse
+  de missable ou de troisième fin ne devient une instruction sans seconde
+  preuve.

@@ -145,3 +145,19 @@ transformée en validation automatique quand c'est possible.
     elle doit rester courte, non bloquante et fournir un accès direct à l'index.
     En mouvement réduit, l'entrée est supprimée et le contenu principal doit
     être immédiatement visible.
+36. La composition du hero doit conserver une hiérarchie lisible : un seul point
+    focal, un décor typographique secondaire et un panneau d'actions respirant.
+    Les couches d'effet restent sous le contenu et ne doivent jamais provoquer
+    de collision visuelle entre la carte, le titre et l'index.
+
+### Lot de recherche OCTOPATH TRAVELER 0 — 13 août 2026
+
+- La fiche passe de `planned` à `research` avec sa matrice dans
+  `docs/guide-research/octopath-traveler-0-evidence.md` ; cela ne crée ni TXT,
+  ni carte, ni URL visible.
+- La méthode utilise cinq piliers distincts : route Neoseeker, guides
+  spécialisés Game8, récits NightlyGamingBinge, base d'objets OT0 et guides de
+  fin de jeu RPG Site, avec Steam et Square Enix comme autorités de contrôle.
+- Le guide ne sera pas déclaré complet tant que les 37 succès, les recrues,
+  les coffres, les fins et les fenêtres de recrutement n'auront pas été
+  replacés dans une route chronologique concrète.

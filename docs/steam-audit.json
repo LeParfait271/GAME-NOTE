@@ -2,7 +2,7 @@
   "checkedAt": "2026-08-11",
   "sourcePolicy": "Steam store page first; achievement conditions still require a second source during each guide audit.",
   "games": [
-    { "id": "octopath-traveler-0", "appId": 3014320, "steamAchievements": 37, "guideType": "100-steam-planned", "source": "https://store.steampowered.com/app/3014320/OCTOPATH_TRAVELER_0/" },
+    { "id": "octopath-traveler-0", "appId": 3014320, "steamAchievements": 37, "guideType": "100-steam-research", "source": "https://store.steampowered.com/app/3014320/OCTOPATH_TRAVELER_0/" },
     { "id": "octopath-traveler-1", "appId": 921570, "steamAchievements": 88, "guideType": "100-steam", "source": "https://store.steampowered.com/app/921570/OCTOPATH_TRAVELER/" },
     { "id": "octopath-traveler-2", "appId": 1971650, "steamAchievements": 33, "guideType": "100-steam", "source": "https://store.steampowered.com/app/1971650/OCTOPATH_TRAVELER_II/" },
     { "id": "final-fantasy-iv-the-after-years", "appId": 346830, "steamAchievements": 50, "guideType": "100-steam", "source": "https://store.steampowered.com/app/346830/FINAL_FANTASY_IV_THE_AFTER_YEARS/" },

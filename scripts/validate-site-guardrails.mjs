@@ -304,6 +304,13 @@ for (const entry of queueQueued) {
   if ((publication?.visibleGuideIds ?? []).includes(entry?.id)) {
     fail("docs/guide-rebuild-queue.json: entrée queued visible " + entry?.id + ".");
   }
+  if (entry?.state === "research") {
+    if (!entry?.evidenceFile || typeof entry.evidenceFile !== "string") {
+      fail("docs/guide-rebuild-queue.json: entrée research sans evidenceFile " + entry?.id + ".");
+    } else if (!(await exists(entry.evidenceFile))) {
+      fail("docs/guide-rebuild-queue.json: matrice absente pour " + entry?.id + " (" + entry.evidenceFile + ").");
+    }
+  }
 }
 for (const entry of queueExcluded) {
   const catalogEntry = catalogById.get(entry?.id);

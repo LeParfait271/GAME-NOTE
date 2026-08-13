@@ -495,6 +495,22 @@ une mise à jour qui change les succès ou le contenu, le guide repasse en
 - Le contrôle de commit vérifie la cohérence de la file avec le catalogue, les
   audits Steam et la publication temporaire, puis conserve le bump de version
   `0.01` et le commit local obligatoire.
+
+## Lot recherche OCTOPATH TRAVELER 0 — 13 août 2026
+
+- `octopath-traveler-0` passe en `research` et possède désormais une matrice
+  persistante. Le TXT et la carte restent interdits tant que cette matrice ne
+  passe pas en état validé.
+- Les cinq piliers sont : Neoseeker pour la route, Game8 pour les chapitres et
+  systèmes, NightlyGamingBinge pour les récits, la base OT0 pour les registres
+  et RPG Site pour le post-game et les équipements uniques. Steam et Square
+  Enix restent les autorités de contrôle des compteurs et des fonctions.
+- La recherche distingue les 37 succès du reste des compteurs. Elle conserve
+  les contradictions sur les 36 personnages, les 454 coffres, les deux fins,
+  les musiques 40/30 et les fenêtres de recrutement afin qu'aucune hypothèse
+  ne soit transformée en faux missable.
+- `validate-site-guardrails.mjs` exige maintenant `evidenceFile` pour toute
+  entrée en `research` et vérifie que le fichier existe avant le commit.
 ## Lot scène d'entrée et archive monumentale - 13 août 2026
 
 - L'entrée présente une carte, une typographie géante et un lien direct avant
@@ -506,3 +522,13 @@ une mise à jour qui change les succès ou le contenu, le guide repasse en
   l'absence de débordement et le mode `prefers-reduced-motion`.
 - Aucun contenu éditorial de guide, compteur Steam ou comportement du lecteur
   n'est inclus dans ce lot visuel.
+
+## Lot nettoyage de composition du hero - 13 août 2026
+
+- La carte centrale est le point focal. Le mur d'archive n'affiche que deux
+  repères secondaires et reste limité à une zone qui ne recouvre pas la carte.
+- Le titre, les actions et l'index gardent des espaces distincts ; les effets
+  sont abaissés en contraste et restent `aria-hidden`.
+- Le contrôle couvre desktop, mobile, clavier, mouvement réduit et absence de
+  débordement horizontal, puis lint, build, preflight et smoke.
+- Ce lot ne touche pas au contenu des guides, aux compteurs Steam ou au lecteur.

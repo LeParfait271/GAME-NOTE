@@ -3,7 +3,7 @@
   "language": "fr",
   "guidePolicy": "chronological-100-steam-spoilers-allowed",
   "entries": [
-    { "id": "octopath-traveler-0", "title": "OCTOPATH TRAVELER 0", "scope": "planned", "status": "planned", "file": null, "reason": "Nouveau guide à auditer : route complète, construction de ville, missables et 37 succès Steam à recouper avant rédaction." },
+    { "id": "octopath-traveler-0", "title": "OCTOPATH TRAVELER 0", "scope": "planned", "status": "research", "file": null, "reason": "Matrice de cinq piliers en cours : route complète, construction de ville, recrutements, objets, fins et 37 succès Steam à recouper avant rédaction." },
     { "id": "octopath-traveler-1", "title": "Octopath Traveler", "scope": "full-guide", "status": "published", "file": "public/guides/octopath-traveler-1.txt" },
     { "id": "octopath-traveler-2", "title": "Octopath Traveler II", "scope": "full-guide", "status": "published", "file": "public/guides/octopath-traveler-2.txt" },
     { "id": "final-fantasy-iv-the-after-years", "title": "FINAL FANTASY IV: THE AFTER YEARS", "scope": "full-guide", "status": "published", "file": "public/guides/final-fantasy-iv-the-after-years.txt" },
