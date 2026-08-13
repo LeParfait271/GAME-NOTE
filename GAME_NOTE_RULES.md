@@ -172,3 +172,15 @@ produit. En cas d'échec, corriger la cause puis relancer toute la boucle.
 Un compte rendu doit indiquer les fichiers touchés, les validations passées,
 les vérifications non réalisées, les risques restants et la configuration
 Cloudflare attendue. Aucun commit, push ou déploiement n'est implicite.
+
+## Lot interface immersive Game Note - 13 aout 2026
+
+- L'accueil peut utiliser une composition plein écran, une image de route et
+  une indexation interactive, mais le titre, l'index et l'acces a la
+  bibliotheque doivent rester lisibles sans animation.
+- Les changements d'etat au survol doivent avoir un equivalent clavier et
+  conserver un vrai bouton ou lien accessible pour ouvrir chaque guide.
+- Les illustrations de couverture distantes doivent avoir un visuel local de
+  repli afin de ne pas rendre l'accueil vide hors ligne ou sur reseau lent.
+- Un lot d'interface doit repasser par lint, build, preflight et smoke tests
+  avant le commit ; la sortie Pages et le cache hors ligne restent controles.

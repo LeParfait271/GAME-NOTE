@@ -76,6 +76,10 @@ Ce fichier fixe la méthode minimale avant toute modification visible du site.
     de zone, de village ou de personnage ne suffit pas pour une icône d'objet.
     Vérifier le sommaire et quelques étapes après chaque extension du vocabulaire
     de collecte.
+22. Pour l'accueil immersif de Game Note, garder un premier écran lisible sans
+    dépendance à une animation : le titre, l'index et l'accès à la bibliothèque
+    doivent rester utilisables au clavier et sur petit écran. Les artworks
+    distants doivent conserver un visuel local de repli.
 
 Toute nouvelle règle durable doit être ajoutée à GAME_NOTE_RULES.md et
 transformée en validation automatique quand c'est possible.

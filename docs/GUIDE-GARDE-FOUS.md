@@ -335,3 +335,15 @@ reste un checkpoint de deux lignes maximum.
 Un guide ne passe à `published` qu'après le contrôle strict. Si le jeu reçoit
 une mise à jour qui change les succès ou le contenu, le guide repasse en
 `research` et sa date de vérification est mise à jour.
+
+## Lot interface immersive Game Note - 13 aout 2026
+
+- Perimetre : accueil, index de selection et blocs de methode ; le catalogue,
+  la recherche, les filtres et le lecteur restent sur leurs donnees existantes.
+- Methode : image de route en fond, typographie editoriale, focus de guide et
+  navigation par index ; chaque bouton ouvre la meme route que la carte.
+- Controle : lint, build Pages, preflight et six smoke tests passent ; le
+  repli local de l'artwork est conserve pour les couvertures distantes.
+- Limite : le lot ne remplace pas les artworks Steam et ne modifie pas le
+  contenu des guides ; une revue visuelle manuelle sur appareils reels reste
+  a refaire lors d'une prochaine passe de responsive.

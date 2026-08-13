@@ -3018,10 +3018,13 @@ export default function Home() {
   const [readerMode, setReaderMode] = useState(false);
   const [invalidGuideId, setInvalidGuideId] = useState<string | null>(null);
   const [initialStateReady, setInitialStateReady] = useState(false);
+  const [heroActiveId, setHeroActiveId] = useState(guides[0].id);
   const catalogSearchRef = useRef<HTMLInputElement>(null);
   const guideSearchRef = useRef<HTMLInputElement>(null);
 
   const selected = guides.find((guide) => guide.id === selectedId) ?? guides[0];
+  const heroActive = guides.find((guide) => guide.id === heroActiveId) ?? guides[0];
+  const heroGuides = guides.slice(0, 7);
   const alphabeticalGuides = useMemo(() => sortGuidesAlphabetically(guides), []);
   const selectedIndex = alphabeticalGuides.findIndex((guide) => guide.id === selected.id);
   const previousGuide = selectedIndex > 0 ? alphabeticalGuides[selectedIndex - 1] : undefined;
@@ -3279,7 +3282,15 @@ export default function Home() {
             <small>carnet de route · sans détour</small>
           </span>
         </a>
-
+        {!readerMode ? (
+          <nav className="topbar-nav" aria-label="Navigation principale">
+            <a href="#guides">Index <span>{guides.length}</span></a>
+            <a href="#method">Méthode</a>
+            <span className="topbar-status">Archive locale / 2026</span>
+          </nav>
+        ) : (
+          <span className="topbar-reader-mark">Mode lecture / {selected.title}</span>
+        )}
       </header>
 
       {!isOnline ? (
@@ -3300,59 +3311,112 @@ export default function Home() {
       ) : null}
 
       {!readerMode ? <>
-      <section className="visual-notes" aria-label="Les repères Game Note">
-        <article className="visual-note visual-note-route">
-          <div className="visual-note-art">
+      <section className="portfolio-hero" aria-labelledby="hero-title">
+        <div className="portfolio-hero-media" aria-hidden="true">
+          {/* eslint-disable-next-line @next/next/no-img-element */}
+          <img
+            src="/images/banners/game-note-hero-ink-route.png"
+            alt=""
+            width={2400}
+            height={1350}
+            fetchPriority="high"
+          />
+          <span className="portfolio-hero-wash" />
+        </div>
+        <div className="portfolio-hero-topline">
+          <span>GAME NOTE / FIELD MANUAL</span>
+          <span>CHRONOLOGICAL GUIDES / FR</span>
+          <span>NO ACCOUNT / NO DETOUR</span>
+        </div>
+        <div className="portfolio-hero-grid">
+          <div className="portfolio-hero-copy">
+            <p className="hero-kicker"><span>GAME NOTE</span><span>ARCHIVE 2026</span></p>
+            <h1 id="hero-title">Une partie.<br /><em>Une route.</em><br /><span>Pas un oubli.</span></h1>
+            <p className="hero-intro">
+              Des guides chronologiques pour les jeux qui méritent mieux qu&apos;un onglet ouvert au hasard.
+            </p>
+            <div className="hero-actions">
+              <a className="hero-link hero-link-primary" href="#guides">Ouvrir l&apos;index <span aria-hidden="true">↓</span></a>
+              <button className="hero-link hero-link-secondary" type="button" onClick={() => handleOpenReader(heroActive.id)}>
+                Lire la route à la une <span aria-hidden="true">↗</span>
+              </button>
+            </div>
+            <div className="hero-stats" aria-label="Statistiques Game Note">
+              <div><strong>{guides.length}</strong><span>guides archivés</span></div>
+              <div><strong>100%</strong><span>lecture locale</span></div>
+              <div><strong>01</strong><span>repère à la fois</span></div>
+            </div>
+          </div>
+
+          <article className={"hero-focus hero-focus-" + heroActive.accent}>
+            <div className="hero-focus-frame">
+              {/* eslint-disable-next-line @next/next/no-img-element */}
+              <img
+                className="hero-focus-art"
+                src={heroActive.artworkUrl ?? steamHeaderUrl(heroActive.steamAppId)}
+                alt={`Illustration de la route ${heroActive.title}`}
+                width={460}
+                height={215}
+                onError={(event) => {
+                  event.currentTarget.src = "/images/cards/game-note-card-route.png";
+                }}
+              />
+              <span className="hero-focus-grid" aria-hidden="true" />
+              <div className="hero-focus-caption">
+                <p>ROUTE À LA UNE / {String(guides.indexOf(heroActive) + 1).padStart(2, "0")}</p>
+                <h2>{heroActive.title}</h2>
+                <span>{heroActive.eyebrow} / {heroActive.count}</span>
+              </div>
+            </div>
+            <p className="hero-focus-note">Une fiche, un ordre, une sauvegarde de moins à regretter.</p>
+          </article>
+
+          <div className="hero-index">
+            <div className="hero-index-heading"><span>INDEX / SÉLECTION</span><span>{String(heroGuides.length).padStart(2, "0")} / {String(guides.length).padStart(2, "0")}</span></div>
+            <ol>
+              {heroGuides.map((guide, index) => (
+                <li key={guide.id}>
+                  <button
+                    className={heroActive.id === guide.id ? "is-active" : ""}
+                    type="button"
+                    onClick={() => handleOpenReader(guide.id)}
+                    onFocus={() => setHeroActiveId(guide.id)}
+                    onMouseEnter={() => setHeroActiveId(guide.id)}
+                  >
+                    <span className="hero-index-number">{String(index + 1).padStart(2, "0")}</span>
+                    <span className="hero-index-copy"><strong>{guide.title}</strong><small>{guide.eyebrow} / {guide.count}</small></span>
+                    <span className="hero-index-arrow" aria-hidden="true">↗</span>
+                  </button>
+                </li>
+              ))}
+            </ol>
+            <a className="hero-index-more" href="#guides">Voir les {guides.length} routes <span aria-hidden="true">→</span></a>
+          </div>
+        </div>
+        <a className="hero-scroll" href="#method"><span>SCROLL / MÉTHODE</span><span className="hero-scroll-line" aria-hidden="true" /></a>
+      </section>
+
+      <section className="manifesto-grid" id="method" aria-label="Les repères Game Note">
+        <article className="manifesto-card manifesto-card-main">
+          <div className="manifesto-card-art">
             {/* eslint-disable-next-line @next/next/no-img-element */}
-            <img
-              src="/images/cards/game-note-card-route.png"
-              alt="Illustration abstraite d'une route balisée dans un carnet sombre"
-              width={1536}
-              height={1024}
-              loading="lazy"
-              decoding="async"
-            />
+            <img src="/images/cards/game-note-card-route.png" alt="Carte illustrée d'une route balisée" width={1536} height={1024} loading="lazy" decoding="async" />
           </div>
-          <div className="visual-note-copy">
-            <p className="visual-note-kicker">01 / ROUTE</p>
-            <h2>Le fil avant le bruit.</h2>
-            <p>Une progression lisible, les bons détours et les repères qui évitent de revenir en arrière.</p>
-          </div>
+          <div className="manifesto-card-copy"><p>01 / ROUTE</p><h2>Le fil avant le bruit.</h2><span>Une progression lisible, les bons détours et le bon repère au bon moment.</span></div>
         </article>
-        <article className="visual-note visual-note-spoiler">
-          <div className="visual-note-art">
+        <article className="manifesto-card">
+          <div className="manifesto-card-art">
             {/* eslint-disable-next-line @next/next/no-img-element */}
-            <img
-              src="/images/cards/game-note-card-spoiler-safe.png"
-              alt="Illustration abstraite d'une page de carnet protégée par un repère corail"
-              width={1536}
-              height={1024}
-              loading="lazy"
-              decoding="async"
-            />
+            <img src="/images/cards/game-note-card-spoiler-safe.png" alt="Carnet protégé par un marqueur corail" width={1536} height={1024} loading="lazy" decoding="async" />
           </div>
-          <div className="visual-note-copy">
-            <p className="visual-note-kicker">02 / SANS SPOILER</p>
-            <h2>Lire juste ce qu&apos;il faut.</h2>
-            <p>Les informations utiles au moment utile, sans transformer la découverte en liste à cocher.</p>
-          </div>
+          <div className="manifesto-card-copy"><p>02 / LECTURE</p><h2>Juste ce qu&apos;il faut.</h2><span>Les informations utiles au moment utile, sans transformer la découverte en liste froide.</span></div>
         </article>
-        <article className="visual-note-banner">
-          <div className="visual-note-banner-art">
+        <article className="manifesto-strip">
+          <div className="manifesto-strip-art">
             {/* eslint-disable-next-line @next/next/no-img-element */}
-            <img
-              src="/images/banners/game-note-banner-archive.png"
-              alt="Bandeau illustré de l'archive Game Note"
-              width={1920}
-              height={640}
-              loading="lazy"
-              decoding="async"
-            />
+            <img src="/images/banners/game-note-banner-archive.png" alt="Archive illustrée Game Note" width={1920} height={640} loading="lazy" decoding="async" />
           </div>
-          <div className="visual-note-banner-copy">
-            <p className="visual-note-kicker">THE ARCHIVE / GAME NOTE</p>
-            <p>Un carnet de route personnel, pensé pour rester calme, précis et toujours à portée de main.</p>
-          </div>
+          <div><p>THE ARCHIVE / GAME NOTE</p><span>Un carnet de route personnel, pensé pour rester calme, précis et toujours à portée de main.</span></div>
         </article>
       </section>
       <section className="section-block library-page" id="guides">
