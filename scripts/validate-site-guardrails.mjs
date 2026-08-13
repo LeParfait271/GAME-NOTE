@@ -129,6 +129,7 @@ const requiredSourceFiles = [
   "docs/guide-rebuild-queue.json",
   "docs/guide-research/expedition-33-evidence.md",
   "docs/guide-research/octopath-traveler-1-evidence.md",
+  "docs/guide-research/octopath-traveler-2-evidence.md",
   "docs/site-guardrails.md",
   "docs/steam-audit.json",
   "scripts/preflight-pages.mjs",
@@ -150,6 +151,10 @@ const octopathGuide = await readText("public/guides/octopath-traveler-1.txt");
 const octopathZeroDraftPath = "public/guides/octopath-traveler-0.txt";
 const octopathZeroDraft = await exists(octopathZeroDraftPath)
   ? await readText(octopathZeroDraftPath)
+  : "";
+const octopathTwoGuidePath = "public/guides/octopath-traveler-2.txt";
+const octopathTwoGuide = await exists(octopathTwoGuidePath)
+  ? await readText(octopathTwoGuidePath)
   : "";
 const headers = await readText("public/_headers");
 const redirects = await readText("public/_redirects");
@@ -330,6 +335,85 @@ if (octopathZeroDraft) {
   const bossRouteReferences = [...octopathZeroDraft.matchAll(/\(voir fiche B-\d{2}\)/g)];
   if (bossRouteReferences.length < 10) {
     fail(octopathZeroDraftPath + ": les combats de la route doivent renvoyer vers au moins 10 fiches boss.");
+  }
+}
+
+if (octopathTwoGuide) {
+  const octopathTwoLines = octopathTwoGuide.split(/\r?\n/);
+  const chestEntries = [...octopathTwoGuide.matchAll(/^\[COFFRE\] \[ \] #(\d{3}) - /gm)]
+    .map((match) => Number(match[1]));
+  const hiddenEntries = [...octopathTwoGuide.matchAll(/^\[COFFRE\] \[ \] H(\d{3}) - /gm)]
+    .map((match) => Number(match[1]));
+  const expectedRange = (values, total) =>
+    values.length === total &&
+    new Set(values).size === total &&
+    values.every((value) => value >= 1 && value <= total);
+  if (!expectedRange(chestEntries, 632)) {
+    fail(octopathTwoGuidePath + ": le registre doit contenir exactement les coffres #001 a #632 sans doublon.");
+  }
+  if (!expectedRange(hiddenEntries, 237)) {
+    fail(octopathTwoGuidePath + ": le registre doit contenir exactement les objets caches H001 a H237 sans doublon.");
+  }
+  const incompleteChestRows = octopathTwoLines
+    .filter((line) => /^\[COFFRE\] \[ \] #\d{3} - /.test(line))
+    .filter((line) => !/Emplacement : .+ \/ coffre \d+\/\d+\.$/.test(line));
+  if (incompleteChestRows.length > 0) {
+    fail(octopathTwoGuidePath + ": " + incompleteChestRows.length + " ligne(s) de coffre sans emplacement local exploitable.");
+  }
+  const incompleteHiddenRows = octopathTwoLines
+    .filter((line) => /^\[COFFRE\] \[ \] H\d{3} - /.test(line))
+    .filter((line) => !/Objet cache : .+ \/ repere \d+\/\d+ de la sous-zone\.$/.test(line));
+  if (incompleteHiddenRows.length > 0) {
+    fail(octopathTwoGuidePath + ": " + incompleteHiddenRows.length + " ligne(s) d'objet cache sans repere de sous-zone exploitable.");
+  }
+  const sideStorySection = octopathTwoGuide
+    .split("PHASE 4 - 67 SIDE STORIES, PAR REGION")[1]
+    ?.split("PHASE 5 - 30 GRAMOPHONE RECORDS")[0] ?? "";
+  const sideStoryChecks = [...sideStorySection.matchAll(/^- \[ \] .+$/gm)];
+  if (sideStoryChecks.length !== 67) {
+    fail(octopathTwoGuidePath + ": la route doit contenir exactement 67 Side Stories (actuel : " + sideStoryChecks.length + ").");
+  }
+  const recordSection = octopathTwoGuide
+    .split("PHASE 5 - 30 GRAMOPHONE RECORDS")[1]
+    ?.split("PHASE 6 - BATTLE-TESTED GEAR")[0] ?? "";
+  const recordChecks = [...recordSection.matchAll(/^- \[ \] Record \d{2} (?:-|—) /gm)];
+  if (recordChecks.length !== 30) {
+    fail(octopathTwoGuidePath + ": la playlist doit contenir exactement 30 Records (actuel : " + recordChecks.length + ").");
+  }
+  const battleTestedSection = octopathTwoGuide
+    .split("PHASE 6 - BATTLE-TESTED GEAR")[1]
+    ?.split("PHASE 7 - ZONES, DONJONS ET COFFRES IMPORTANTS")[0] ?? "";
+  const battleTestedChecks = [...battleTestedSection.matchAll(/^- \[ \] Battle-Tested .+$/gm)];
+  if (battleTestedChecks.length !== 7) {
+    fail(octopathTwoGuidePath + ": le registre Battle-Tested doit contenir exactement 7 pieces (actuel : " + battleTestedChecks.length + ").");
+  }
+  const finalSteamSection = octopathTwoGuide
+    .split("CHECKLIST FINALE - 33/33 SUCCES STEAM")[1]
+    ?.split("VERIFICATION FINALE")[0] ?? "";
+  const finalSteamChecks = [...finalSteamSection.matchAll(/^\[ \] \d{2} - /gm)];
+  if (finalSteamChecks.length !== 33) {
+    fail(octopathTwoGuidePath + ": la checklist finale doit contenir exactement 33 succes Steam (actuel : " + finalSteamChecks.length + ").");
+  }
+  for (const requiredFragment of [
+    "632/632 COFFRES",
+    "237/237 OBJETS CACHES",
+    "30/30 RECORDS",
+    "16/16 EX SKILLS",
+    "7/7 BATTLE-TESTED",
+    "67/67 SIDE STORIES",
+    "69 repères de carte",
+    "ANNEXE A - REGISTRE INTEGRAL DES 632 COFFRES",
+    "ANNEXE B - REGISTRE DES 237 OBJETS CACHES",
+  ]) {
+    if (!octopathTwoGuide.includes(requiredFragment)) {
+      fail(octopathTwoGuidePath + ": fragment de completion OT2 absent (" + requiredFragment + ").");
+    }
+  }
+  if (/SANS SPOILER|tokens truncated|aucun repère additionnel/i.test(octopathTwoGuide)) {
+    fail(octopathTwoGuidePath + ": ancienne politique ou placeholder de registre detecte.");
+  }
+  if (!(await exists("docs/guide-research/octopath-traveler-2-evidence.md"))) {
+    fail("docs/guide-research/octopath-traveler-2-evidence.md: matrice de preuve OT2 absente.");
   }
 }
 

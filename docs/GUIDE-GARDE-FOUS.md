@@ -654,4 +654,21 @@ une mise à jour qui change les succès ou le contenu, le guide repasse en
   sans push automatique ; le bump de version et les garde-fous suivent ce même
   commit final.
 
-- Les couvertures portrait du hero ne doublonnent pas leur titre avec une légende superposée ; le nom reste accessible dans l’index et la fiche.
+## Passe OT2 — matrice, registres et publication protégée
+
+- Le guide `octopath-traveler-2` est traité comme un brouillon archive : son
+  TXT peut être enrichi sans le rendre visible ni l'ajouter au cache offline.
+- La matrice de preuve recoupe Steam, les Side Stories, les cartes de zones, les
+  walkthroughs et la table d'inventaire. Elle impose 33 succès, 67 récits,
+  30 Records, 7 Battle-Tested, 16 EX Skills et 69 lieux.
+- Le registre canonique contient exactement 632 lignes `[COFFRE]` `#001` à
+  `#632`, avec région, sous-zone, contenu et position locale. Les 237 objets
+  cachés `H001` à `H237` sont une seconde couche et ne sont jamais additionnés
+  aux coffres.
+- Une ligne manquante, dupliquée, tronquée ou réduite à un emplacement vague
+  fait échouer la validation. Le compteur seul ne vaut pas solution.
+- Les icônes de coffre sont activées pour l'identifiant OT2 dans le lecteur ;
+  cette couche d'interface ne modifie aucun compteur éditorial.
+- La passe se clôt par une validation globale et un seul commit local. Le bump
+  de version, le workflow et les garde-fous sont inclus dans ce commit final,
+  sans push automatique.

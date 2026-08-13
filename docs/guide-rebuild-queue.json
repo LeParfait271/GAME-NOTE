@@ -9,7 +9,7 @@
     { "id": "octopath-traveler-0", "state": "research", "priority": 1, "evidenceFile": "docs/guide-research/octopath-traveler-0-evidence.md", "note": "Matrice en cours : cinq piliers de sources, route, ville, objets, recrutements, fins et les 37 succès Steam." },
     { "id": "final-fantasy-xvi", "state": "archive-rebuild", "priority": 2, "note": "Refaire avec la campagne, les quêtes, les objets, les DLC et les 69 succès Steam." },
     { "id": "live-a-live", "state": "archive-rebuild", "priority": 3, "note": "Refaire avec les scénarios, les chapitres finaux, les objets et les 48 succès Steam." },
-    { "id": "octopath-traveler-2", "state": "archive-rebuild", "priority": 4, "note": "Refaire avec les huit routes, les Crossed Paths, les coffres et les 33 succès Steam." },
+    { "id": "octopath-traveler-2", "state": "archive-rebuild", "priority": 4, "evidenceFile": "docs/guide-research/octopath-traveler-2-evidence.md", "note": "Refaire avec les huit routes, les Crossed Paths, les 67 Side Stories, les 632 coffres, les 237 objets caches et les 33 succès Steam." },
     { "id": "final-fantasy-iv-the-after-years", "state": "archive-rebuild", "priority": 5, "note": "Refaire avec l'ordre des contes, les épisodes, les objets et les 50 succès Steam." },
     { "id": "divided-reigns", "state": "archive-rebuild", "priority": 6, "note": "Refaire avec la route RPG, les quêtes, les objets et les 40 succès Steam." },
     { "id": "final-fantasy-type-0-hd", "state": "archive-rebuild", "priority": 7, "note": "Refaire avec les chapitres, les événements temporels, les objets et les 49 succès Steam." },

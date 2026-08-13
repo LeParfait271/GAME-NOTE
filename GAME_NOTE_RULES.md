@@ -478,4 +478,16 @@ contrôle de la fiche concernée.
   push n'est implicite et aucune version ne doit être déclarée livrée avant les
   validations de publication.
 
-- Le hero ne répète pas le titre déjà imprimé dans une couverture : l’index et la fiche portent le nom, l’image reste lisible.
+### Lot OT2 — contrôle de complétude
+
+- Octopath Traveler II reste hors visibilité publique tant que le lot n'est pas
+  relu et validé ; ne pas modifier la liste temporaire des deux fiches visibles.
+- Le seuil de contenu est contrôlable : 33 succès Steam, 67 Side Stories,
+  30 Records, 7 Battle-Tested, 16 EX Skills, 632 coffres et 237 objets caches.
+- Chaque coffre du registre porte `[COFFRE]`, un identifiant `#001`-`#632`, une
+  région, une sous-zone, un contenu et un numéro local. Les objets caches sont
+  `H001`-`H237` et ne gonflent jamais le compteur des coffres.
+- Le validateur strict bloque les doublons, les trous, les lignes tronquées,
+  les placeholders et le retour de la mention `SANS SPOILER` sur cette fiche.
+- La version et les garde-fous suivent le commit final unique de la passe ; le
+  travail reste local tant qu'aucune demande de push n'est faite.

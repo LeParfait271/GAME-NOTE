@@ -171,3 +171,17 @@ traité comme une récompense d'action et non comme un coffre supplémentaire.
   pas transformées en preuve de test écran par écran.
 - Le lot n'est clôturé qu'après build, préflight strict, audits et smoke tests.
   Les changements sont regroupés dans un seul commit local final, sans push.
+
+## Lot OT2 — archive de travail et seuil de publication
+
+- `octopath-traveler-2` reste dans la file de reconstruction et hors de
+  `docs/site-publication.json` tant que la fiche n'a pas passé sa relecture.
+- Le contrôle de contenu impose 33 succès Steam, 67 Side Stories, 30 Records,
+  7 Battle-Tested, 16 EX Skills, 69 lieux, 632 coffres et 237 objets caches.
+- Les lignes `[COFFRE]` `#001`-`#632` et `H001`-`H237` sont comptées par des
+  registres indépendants. Elles doivent rester localisables par région et
+  sous-zone ; un compteur global ne suffit pas.
+- Le pipeline de clôture est : validation stricte du catalogue et des guides,
+  build, preflight strict, audit qualité, smoke tests, verification du diff,
+  puis un unique commit local. La version `0.01` est bumpée par ce commit.
+- Aucune publication ni push n'est déduit de cette reconstruction.

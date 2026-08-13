@@ -264,4 +264,17 @@ transformée en validation automatique quand c'est possible.
 - Avant toute visibilité, lancer le validateur strict, le build, le préflight et
   les smoke tests ; le commit final est unique pour cette passe et reste local.
 
-- Le hero ne répète pas le titre déjà imprimé dans une couverture : l’index et la fiche portent le nom, l’image reste lisible.
+### Passe OT2 — registre complet avant publication
+
+- Le brouillon Octopath Traveler II reste archive et invisible : `docs/site-publication.json`
+  ne doit pas recevoir `octopath-traveler-2` pendant cette passe.
+- Le TXT doit conserver une route 33/33 Steam, 67 Side Stories, 30 Records,
+  7 Battle-Tested, 16 EX Skills, 632 coffres et 237 objets caches.
+- Les 632 coffres utilisent `[COFFRE]` avec `#001` a `#632` ; les 237 objets
+  caches utilisent le meme repere visuel mais le compteur `H001` a `H237`.
+  Les deux registres restent independants des succes Steam.
+- La matrice de preuve OT2 doit rester dans `docs/guide-research/` et citer les
+  cinq piliers de recoupement ; une ligne tronquee ou sans emplacement bloque
+  la passe.
+- Le lot se ferme par build, validation stricte, preflight, audit et smoke tests,
+  puis un seul commit local final ; aucun push n'est implicite.

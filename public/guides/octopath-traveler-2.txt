@@ -1,14 +1,15 @@
 OCTOPATH TRAVELER II
-GUIDE CHRONOLOGIQUE 100 % STEAM - 33 SUCCES STEAM - SANS SPOILER
+GUIDE CHRONOLOGIQUE 100 % STEAM - 33 SUCCES STEAM - SPOILERS COMPLETS
 
-Version de travail : 11 aout 2026
+Version de travail : 13 aout 2026
 AppID Steam : 1971650
 
 Ce guide sert de route de jeu complete, pas seulement de liste de trophees.
-Les noms anglais sont conserves lorsqu'ils correspondent aux menus Steam ou au
-journal du jeu. Aucun twist, aucune identite cachee et aucun detail de fin
-n'est revele. Les noms de villes, de donjons, de boss et de quetes sont
-necessaires pour retrouver le bon marqueur.
+Les spoilers sont acceptes : les noms de boss, les conditions de fin, les
+identites et les solutions exactes sont donnes lorsqu'ils sont necessaires au
+100 %. Les noms anglais sont conserves lorsqu'ils correspondent aux menus
+Steam ou au journal du jeu. Le registre des coffres et des objets est separe
+des compteurs Steam pour eviter de confondre completion du jeu et succes.
 
 OBJECTIF 100 %
 ============
@@ -24,6 +25,8 @@ La sauvegarde principale doit terminer avec :
 - les 16 EX Skills, soit 8 obtenues par les histoires et 8 dans les autels ;
 - les 7 Battle-Tested pieces of equipment ;
 - les 30 Gramophone Records ;
+- les 632 coffres repertories et les 237 objets caches de la matrice de controle
+  (collection complete, independante des succes Steam) ;
 - toutes les zones, autels, ports, iles et donjons optionnels visites ;
 - les Learned Skills de Hikari utiles a la progression ;
 - Gate to the Netherworld vaincu, puis l'epilogue termine.
@@ -58,6 +61,12 @@ Dans chaque route et chaque donjon :
   Adventurer ;
 - alterne les voyageurs pour atteindre 100 Out Cold sans devoir farmer a la
   toute fin.
+
+Le mode de lecture premium est le suivant : les lignes marquees `[COFFRE]`
+constituent le registre unique des objets a ramasser. Les numeros `#001` a
+`#632` sont les coffres ; les numeros `H001` a `H237` sont les objets caches.
+Chaque ligne donne la region et la sous-zone exactes. Le compteur 632 ne doit
+jamais etre gonfle par un objet cache, une recompense de quete ou un doublon.
 
 SAUVEGARDES ET ORDRE GENERAL
 ============================
@@ -333,7 +342,7 @@ OSVALD - 5 CHAPITRES
 
 Apres Osvald Chapter 5, termine Alpione's Next Chapter lorsque Ochette est
 aussi terminee. L'action d'information de Castti permet de trouver l'indice
-du marchand sans spoiler.
+du marchand sans reveler le contenu de la scene avant la recherche.
 
 THRONE - 4 CHAPITRES, AVEC DEUX ROUTES AU CHAPITRE 2 ET 3
 -----------------------------------------------------------
@@ -483,11 +492,11 @@ OSVALD + PARTITIO
 PHASE 4 - 67 SIDE STORIES, PAR REGION
 =====================================
 
-Le journal doit afficher zero Side Story active. Le premier objectif,
-The Traveler's Bag, apparait dans la region du premier personnage choisi :
-fais-le immediatement. Les 66 autres sont fixes. Pour chaque ligne, la methode
-indiquee est la solution la plus fiable ; les variantes de Path Action sont
-equivalentes sauf indication contraire.
+Le journal doit afficher zero Side Story active. Le compteur de 67 inclut
+The Traveler's Bag, qui apparait dans la region du premier personnage choisi,
+et 66 autres récits fixes. Fais le sac immediatement ; pour chaque ligne,
+la methode indiquee est la solution la plus fiable. Les variantes de Path
+Action sont equivalentes sauf indication contraire.
 
 TOTO'HAHA - 9 AVEC THE TRAVELER'S BAG
 --------------------------------------
@@ -572,9 +581,6 @@ WILDLANDS - 8 SIDE STORIES
   boss de la zone et retrouve la fille.
 - [ ] Alpione's Next Chapter, Gravell : apres Ochette, Inquire le marchand
   sur la chasse et rapporte l'information.
-- [ ] The Cave Monster est parfois lance en entrant dans Unfinished Tunnel :
-  si le journal ne l'affiche pas, sors puis rentre avec la quete active.
-
 BRIGHTLANDS - 9 SIDE STORIES
 -----------------------------
 
@@ -672,30 +678,42 @@ succes Worth the Detour ne tombe pas, les erreurs les plus courantes sont :
 PHASE 5 - 30 GRAMOPHONE RECORDS
 ===============================
 
-Le Gramophone se trouve dans les tavernes. Les Records sont des objets
-collectionnables, pas seulement des musiques audibles. Le total a confirmer est
-30/30.
+Le Gramophone se trouve dans les tavernes. Les Records sont des objets a
+acheter ou a obtenir par Path Action ; la playlist doit afficher 30/30. Les
+numeros ci-dessous sont individuels pour que le nettoyage ne repose pas sur
+des groupes de morceaux.
 
-- [ ] Records 1 a 3 : recompense des trois etapes de The Scent of Commerce
-  a Winterbloom.
-- [ ] Record 4 : boutique d'objets de Beastling Village, 3 000 leaves.
-- [ ] Record 5 : boutique de Canalbrine, 3 000 leaves.
-- [ ] Record 6 : boutique de New Delsta, 3 000 leaves.
-- [ ] Record 7 : boutique de Cape Cold, 3 000 leaves.
-- [ ] Record 8 : boutique d'Oresrush, 3 000 leaves.
-- [ ] Record 9 : boutique de Cropdale, 3 000 leaves.
-- [ ] Record 10 : boutique de Flamechurch, 3 000 leaves.
-- [ ] Record 11 : boutique de Ryu, 3 000 leaves.
-- [ ] Records 12 a 15 : Music Merchant de Rogue Island ; jour sur les
-  escaliers, nuit dans la taverne.
-- [ ] Records 16 et 17 : Musician devant le sanctuaire de Merry Hills.
-- [ ] Records 18 a 24 : Department Store de Wellgrove, 3 000 leaves chacun.
-- [ ] Records 25 et 26 : boutique d'Oresrush, 3 000 leaves chacun.
-- [ ] Record 27 : boutique de Cropdale.
-- [ ] Record 28 : boutique de New Delsta.
-- [ ] Record 29 : Gil dans la grande taverne de New Delsta Backstreets.
-- [ ] Record 30 : apres By the Light of the Heart Act 2, Yomi en haut de
-  l'escalier ouest de Ku.
+- [ ] Record 01 — recompense de The Scent of Commerce: Winterbloom.
+- [ ] Record 02 — recompense de The Scent of Commerce: Winterbloom.
+- [ ] Record 03 — recompense de The Scent of Commerce: Winterbloom.
+- [ ] Record 04 — boutique d'objets de Beasting Village, 3 000 leaves.
+- [ ] Record 05 — boutique d'objets de Canalbrine, 3 000 leaves.
+- [ ] Record 06 — boutique d'objets de New Delsta, 3 000 leaves.
+- [ ] Record 07 — boutique d'objets de Cape Cold, 3 000 leaves.
+- [ ] Record 08 — boutique d'objets d'Oresrush, 3 000 leaves.
+- [ ] Record 09 — boutique d'objets de Cropdale, 3 000 leaves.
+- [ ] Record 10 — boutique d'objets de Flamechurch, 3 000 leaves.
+- [ ] Record 11 — boutique d'objets de Ryu, 3 000 leaves.
+- [ ] Record 12 — Music Merchant de Rogue Island, sur les escaliers de jour.
+- [ ] Record 13 — Music Merchant de Rogue Island, sur les escaliers de jour.
+- [ ] Record 14 — Music Merchant de Rogue Island, a la taverne de nuit.
+- [ ] Record 15 — Music Merchant de Rogue Island, a la taverne de nuit.
+- [ ] Record 16 — Musician devant le sanctuaire de Merry Hills.
+- [ ] Record 17 — Musician devant le sanctuaire de Merry Hills.
+- [ ] Record 18 — Department Store de Wellgrove, 3 000 leaves.
+- [ ] Record 19 — Department Store de Wellgrove, 3 000 leaves.
+- [ ] Record 20 — Department Store de Wellgrove, 3 000 leaves.
+- [ ] Record 21 — Department Store de Wellgrove, 3 000 leaves.
+- [ ] Record 22 — Department Store de Wellgrove, 3 000 leaves.
+- [ ] Record 23 — Department Store de Wellgrove, 3 000 leaves.
+- [ ] Record 24 — Department Store de Wellgrove, 3 000 leaves.
+- [ ] Record 25 — boutique d'objets d'Oresrush, 3 000 leaves.
+- [ ] Record 26 — boutique d'objets d'Oresrush, 3 000 leaves.
+- [ ] Record 27 — boutique d'objets de Cropdale, 3 000 leaves.
+- [ ] Record 28 — boutique d'objets de New Delsta, 3 000 leaves.
+- [ ] Record 29 — Gil, grande taverne des Backstreets de New Delsta.
+- [ ] Record 30 — Yomi, sommet de l'escalier ouest de Ku, apres By the Light
+  of the Heart Act 2.
 
 PHASE 6 - BATTLE-TESTED GEAR
 =============================
@@ -726,6 +744,18 @@ PHASE 7 - ZONES, DONJONS ET COFFRES IMPORTANTS
 
 Il n'existe pas de succes pour ouvrir chaque coffre, mais un 100 % propre
 demande de vider les zones. La methode ci-dessous evite de refaire les routes.
+
+Le registre integral ci-dessous suit la matrice de 195 sous-zones. Pour chaque
+sous-zone, pars du point d'entree ou du point de sauvegarde, ouvre les branches
+mortes avant de reprendre l'embranchement principal, puis controle le total
+affiche dans la sous-zone. Les coffres rouges, les gardiens et les conditions
+speciales sont conserves dans le libelle de l'objet ou dans la note de route.
+
+Pour `Master of Solistia`, controle aussi les 69 repères de carte :
+Belleramée 1-8, Grands-Pics 9-16, Hinoeuma 17-23, Landes-de-neige 24-31,
+Moultports 32-39, Océan séparé 40-46, Terres Lumière 47-56, Terres Sauvages
+57-63 et Toto Haha 64-69. Les ports, les autels et les îles maritimes sont
+les oublis les plus frequents.
 
 PREMIERE COURONNE
 -----------------
@@ -802,6 +832,9 @@ Avant de lancer The Journey for the Dawn, verifie :
 - les 7 Battle-Tested equipment sont obtenus ;
 - les 8 jobs secondaires et les 4 jobs avances sont ouverts ;
 - les 16 EX Skills apparaissent dans les menus correspondants ;
+- les 632 lignes `#001`-`#632` du registre des coffres sont cochees ;
+- les 237 lignes `H001`-`H237` des objets caches sont cochees si tu vises la
+  collection exhaustive, meme si elles ne sont pas requises par Steam ;
 - la carte n'a plus de lieu non visite ;
 - la sauvegarde S4 est bien differente de la sauvegarde principale.
 
@@ -895,6 +928,1794 @@ New Game+ n'est pas requis pour les 33 succes. Il ne faut pas le lancer avant
 d'avoir garde la sauvegarde 100 % et termine l'epilogue. Les choix de
 personnage de depart et les route locks de debut recommencent a zero.
 
+ANNEXE A - REGISTRE INTEGRAL DES 632 COFFRES
+===============================================
+
+Cette annexe est le registre canonique des coffres : une ligne correspond a
+un coffre distinct, meme lorsque deux coffres contiennent le meme objet.
+L'emplacement est donne au niveau region / sous-zone, puis l'ordre d'ouverture
+dans la sous-zone. Utilise la route de controle de l'entete avant de cocher.
+Les numeros sont stables et ne comptent ni les objets caches H001-H237, ni
+les recompenses de quete, ni les objets obtenus par Path Action.
+
+### Winterlands - Frigid Isle: Prison (2 Chest) (2 coffres)
+Contexte : Osvald - Chapter 1&2 (can return to island after completing Osvald's story).
+Itineraire de controle : Depuis l'entree de la sous-zone, ouvrir d'abord les embranchements et les etages lateraux, puis revenir au dernier point de sauvegarde avant la sortie.
+[COFFRE] [ ] #001 - Bottle of Blinding Dust - Emplacement : Winterlands / Frigid Isle: Prison (2 Chest) / coffre 1/2.
+[COFFRE] [ ] #002 - Inspiriting Plum - Emplacement : Winterlands / Frigid Isle: Prison (2 Chest) / coffre 2/2.
+
+### Winterlands - Prison: Underground Passage (5 Chest) (5 coffres)
+Contexte : Osvald - Chapter 1&2 (can return to island after completing Osvald's story).
+Itineraire de controle : Depuis l'entree de la sous-zone, ouvrir d'abord les embranchements et les etages lateraux, puis revenir au dernier point de sauvegarde avant la sortie.
+[COFFRE] [ ] #003 - Healing Grape - Emplacement : Winterlands / Prison: Underground Passage (5 Chest) / coffre 1/5.
+[COFFRE] [ ] #004 - Inspiriting Plum - Emplacement : Winterlands / Prison: Underground Passage (5 Chest) / coffre 2/5.
+[COFFRE] [ ] #005 - Sinner's Staff - Emplacement : Winterlands / Prison: Underground Passage (5 Chest) / coffre 3/5.
+[COFFRE] [ ] #006 - Olive of Life - Emplacement : Winterlands / Prison: Underground Passage (5 Chest) / coffre 4/5.
+[COFFRE] [ ] #007 - Ancient Necklace - Emplacement : Winterlands / Prison: Underground Passage (5 Chest) / coffre 5/5.
+
+### Winterlands - Frigit Isle: Entrance (1 Chest) (1 coffre)
+Contexte : Osvald - Chapter 1&2 (can return to island after completing Osvald's story).
+Itineraire de controle : Depuis le point d'entree ou de sauvegarde, vider les branches mortes avant de reprendre l'axe principal et de quitter la sous-zone.
+[COFFRE] [ ] #008 - Healing Grape - Emplacement : Winterlands / Frigit Isle: Entrance (1 Chest) / coffre 1/1.
+
+### Winterlands - Frigit Isle: Anchorage (3 Chest) (3 coffres)
+Contexte : Osvald - Chapter 1&2 (can return to island after completing Osvald's story).
+Itineraire de controle : Depuis le point d'entree ou de sauvegarde, vider les branches mortes avant de reprendre l'axe principal et de quitter la sous-zone.
+[COFFRE] [ ] #009 - Magic Nut - Emplacement : Winterlands / Frigit Isle: Anchorage (3 Chest) / coffre 1/3.
+[COFFRE] [ ] #010 - Inspiriting Plum - Emplacement : Winterlands / Frigit Isle: Anchorage (3 Chest) / coffre 2/3.
+[COFFRE] [ ] #011 - Ice Soulstone - Emplacement : Winterlands / Frigit Isle: Anchorage (3 Chest) / coffre 3/3.
+
+### Winterlands - Cape Cold (2 coffres)
+Contexte : Tier 1: Cape Cold.
+Itineraire de controle : Depuis le point d'entree ou de sauvegarde, vider les branches mortes avant de reprendre l'axe principal et de quitter la sous-zone.
+[COFFRE] [ ] #012 - $2,000 - Emplacement : Winterlands / Cape Cold / coffre 1/2.
+[COFFRE] [ ] #013 - Energizing Pomegranate - Emplacement : Winterlands / Cape Cold / coffre 2/2.
+
+### Winterlands - Southern Cape Cold Snow (4 coffres)
+Contexte : Tier 1: Cape Cold.
+Itineraire de controle : Depuis le point d'entree ou de sauvegarde, vider les branches mortes avant de reprendre l'axe principal et de quitter la sous-zone.
+[COFFRE] [ ] #014 - Empowering Lychee - Emplacement : Winterlands / Southern Cape Cold Snow / coffre 1/4.
+[COFFRE] [ ] #015 - Inspiriting Plum (M) - Emplacement : Winterlands / Southern Cape Cold Snow / coffre 2/4.
+[COFFRE] [ ] #016 - Olive of Life (M) - Emplacement : Winterlands / Southern Cape Cold Snow / coffre 3/4.
+[COFFRE] [ ] #017 - Pilgrim's Robe - Emplacement : Winterlands / Southern Cape Cold Snow / coffre 4/4.
+
+### Winterlands - Eastern Cape Cold Snow (4 coffres)
+Contexte : Tier 1: Cape Cold.
+Itineraire de controle : Depuis le point d'entree ou de sauvegarde, vider les branches mortes avant de reprendre l'axe principal et de quitter la sous-zone.
+[COFFRE] [ ] #018 - $600 - Emplacement : Winterlands / Eastern Cape Cold Snow / coffre 1/4.
+[COFFRE] [ ] #019 - Needle Dagger - Emplacement : Winterlands / Eastern Cape Cold Snow / coffre 2/4.
+[COFFRE] [ ] #020 - Ice Soulstone - Emplacement : Winterlands / Eastern Cape Cold Snow / coffre 3/4.
+[COFFRE] [ ] #021 - Fur Cap - Emplacement : Winterlands / Eastern Cape Cold Snow / coffre 4/4.
+
+### Winterlands - Ruffians's Hideout (5 coffres)
+Contexte : Tier 1: Cape Cold.
+Itineraire de controle : Depuis le point d'entree ou de sauvegarde, vider les branches mortes avant de reprendre l'axe principal et de quitter la sous-zone.
+[COFFRE] [ ] #022 - Bottle of Blinding Dust - Emplacement : Winterlands / Ruffians's Hideout / coffre 1/5.
+[COFFRE] [ ] #023 - $1,000 - Emplacement : Winterlands / Ruffians's Hideout / coffre 2/5.
+[COFFRE] [ ] #024 - Heretic's Greatsword - Emplacement : Winterlands / Ruffians's Hideout / coffre 3/5.
+[COFFRE] [ ] #025 - Olive of Life (M) - Emplacement : Winterlands / Ruffians's Hideout / coffre 4/5.
+[COFFRE] [ ] #026 - Wind Robe (Fight: Ruffian Leader) - Emplacement : Winterlands / Ruffians's Hideout / coffre 5/5.
+
+### Winterlands - Winterbloom (5 Chest) (5 coffres)
+Contexte : Tier 2: Winterbloom.
+Itineraire de controle : Depuis le point d'entree ou de sauvegarde, vider les branches mortes avant de reprendre l'axe principal et de quitter la sous-zone.
+[COFFRE] [ ] #027 - Stregthening Serum - Emplacement : Winterlands / Winterbloom (5 Chest) / coffre 1/5.
+[COFFRE] [ ] #028 - Old Armor (Guarded: Thoughtful Father 3*) - Emplacement : Winterlands / Winterbloom (5 Chest) / coffre 2/5.
+[COFFRE] [ ] #029 - Healing Grape (Guarded: Thoughtful Father 3*) - Emplacement : Winterlands / Winterbloom (5 Chest) / coffre 3/5.
+[COFFRE] [ ] #030 - 150$ (Guarded: Thoughtful Father 3*) - Emplacement : Winterlands / Winterbloom (5 Chest) / coffre 4/5.
+[COFFRE] [ ] #031 - Ice Soulstone (M) - Emplacement : Winterlands / Winterbloom (5 Chest) / coffre 5/5.
+
+### Winterlands - Winterbloom: Thieves' Quarter (1 Chest) (1 coffre)
+Contexte : Tier 2: Winterbloom.
+Itineraire de controle : Depuis le point d'entree ou de sauvegarde, vider les branches mortes avant de reprendre l'axe principal et de quitter la sous-zone.
+[COFFRE] [ ] #032 - Empowering Lychee (M) - Emplacement : Winterlands / Winterbloom: Thieves' Quarter (1 Chest) / coffre 1/1.
+
+### Winterlands - Western Winterbloom Snows (3 Chest) (3 coffres)
+Contexte : Tier 2: Winterbloom.
+Itineraire de controle : Depuis le point d'entree ou de sauvegarde, vider les branches mortes avant de reprendre l'axe principal et de quitter la sous-zone.
+[COFFRE] [ ] #033 - Falcon Ring - Emplacement : Winterlands / Western Winterbloom Snows (3 Chest) / coffre 1/3.
+[COFFRE] [ ] #034 - Ice Soulstone (M) - Emplacement : Winterlands / Western Winterbloom Snows (3 Chest) / coffre 2/3.
+[COFFRE] [ ] #035 - Diffusing Serum - Emplacement : Winterlands / Western Winterbloom Snows (3 Chest) / coffre 3/3.
+
+### Winterlands - Snowhares' Den (5 Chest) (5 coffres)
+Contexte : Tier 2: Winterbloom.
+Itineraire de controle : Depuis l'entree de la sous-zone, ouvrir d'abord les embranchements et les etages lateraux, puis revenir au dernier point de sauvegarde avant la sortie.
+[COFFRE] [ ] #036 - Healing Grape (M) - Emplacement : Winterlands / Snowhares' Den (5 Chest) / coffre 1/5.
+[COFFRE] [ ] #037 - Inspiriting Plum (M) - Emplacement : Winterlands / Snowhares' Den (5 Chest) / coffre 2/5.
+[COFFRE] [ ] #038 - Empowering Bracelet - Emplacement : Winterlands / Snowhares' Den (5 Chest) / coffre 3/5.
+[COFFRE] [ ] #039 - Shadow Soulstone (M) - Emplacement : Winterlands / Snowhares' Den (5 Chest) / coffre 4/5.
+[COFFRE] [ ] #040 - Quartz Dagger - Emplacement : Winterlands / Snowhares' Den (5 Chest) / coffre 5/5.
+
+### Winterlands - Stormhail (2 Chest) (2 coffres)
+Contexte : Tier 3: Stormhail.
+Itineraire de controle : Depuis le point d'entree ou de sauvegarde, vider les branches mortes avant de reprendre l'axe principal et de quitter la sous-zone.
+[COFFRE] [ ] #041 - Knight's Armor - Emplacement : Winterlands / Stormhail (2 Chest) / coffre 1/2.
+[COFFRE] [ ] #042 - Inspiriting Plum Basket - Emplacement : Winterlands / Stormhail (2 Chest) / coffre 2/2.
+
+### Winterlands - Stormhail: Sacred Guard Headquarters (3 Chest) (3 coffres)
+Contexte : Tier 3: Stormhail.
+Itineraire de controle : Depuis l'entree de la sous-zone, ouvrir d'abord les embranchements et les etages lateraux, puis revenir au dernier point de sauvegarde avant la sortie.
+[COFFRE] [ ] #043 - Flayer's Admonishment (Guarded: Sanctum Knight 7*) - Emplacement : Winterlands / Stormhail: Sacred Guard Headquarters (3 Chest) / coffre 1/3.
+[COFFRE] [ ] #044 - Energizing Pomegranate - Emplacement : Winterlands / Stormhail: Sacred Guard Headquarters (3 Chest) / coffre 2/3.
+[COFFRE] [ ] #045 - Light Soulstone (L) - Emplacement : Winterlands / Stormhail: Sacred Guard Headquarters (3 Chest) / coffre 3/3.
+
+### Winterlands - Southern Stormhail Snows (5 Chest) (5 coffres)
+Contexte : Tier 3: Stormhail.
+Itineraire de controle : Depuis le point d'entree ou de sauvegarde, vider les branches mortes avant de reprendre l'axe principal et de quitter la sous-zone.
+[COFFRE] [ ] #046 - $15,000 - Emplacement : Winterlands / Southern Stormhail Snows (5 Chest) / coffre 1/5.
+[COFFRE] [ ] #047 - Raging Beast - Emplacement : Winterlands / Southern Stormhail Snows (5 Chest) / coffre 2/5.
+[COFFRE] [ ] #048 - Ice Soulstone (L) - Emplacement : Winterlands / Southern Stormhail Snows (5 Chest) / coffre 3/5.
+[COFFRE] [ ] #049 - Lightning Armor - Emplacement : Winterlands / Southern Stormhail Snows (5 Chest) / coffre 4/5.
+[COFFRE] [ ] #050 - Herb of Revival - Emplacement : Winterlands / Southern Stormhail Snows (5 Chest) / coffre 5/5.
+
+### Winterlands - Beneath the Wall (1 Chest) (1 coffre)
+Contexte : Tier 3: Stormhail.
+Itineraire de controle : Depuis le point d'entree ou de sauvegarde, vider les branches mortes avant de reprendre l'axe principal et de quitter la sous-zone.
+[COFFRE] [ ] #051 - Stone - Emplacement : Winterlands / Beneath the Wall (1 Chest) / coffre 1/1.
+
+### Winterlands - Infernal Castle (6 Chest) (6 coffres)
+Contexte : Tier 3: Stormhail.
+Itineraire de controle : Depuis l'entree de la sous-zone, ouvrir d'abord les embranchements et les etages lateraux, puis revenir au dernier point de sauvegarde avant la sortie.
+[COFFRE] [ ] #052 - Inspiriting Plum Basket - Emplacement : Winterlands / Infernal Castle (6 Chest) / coffre 1/6.
+[COFFRE] [ ] #053 - Blizzard Amulet - Emplacement : Winterlands / Infernal Castle (6 Chest) / coffre 2/6.
+[COFFRE] [ ] #054 - Energizing Pomegranate (M) - Emplacement : Winterlands / Infernal Castle (6 Chest) / coffre 3/6.
+[COFFRE] [ ] #055 - Lost Tribe's Staff - Emplacement : Winterlands / Infernal Castle (6 Chest) / coffre 4/6.
+[COFFRE] [ ] #056 - Serpent Slayer - Emplacement : Winterlands / Infernal Castle (6 Chest) / coffre 5/6.
+[COFFRE] [ ] #057 - Stone of Truth (Behind Dreadwolf) - Emplacement : Winterlands / Infernal Castle (6 Chest) / coffre 6/6.
+
+### Winterlands - Sacred Peak Altahe (4 Chest) (4 coffres)
+Contexte : Tier 3: Stormhail.
+Itineraire de controle : Depuis le point d'entree ou de sauvegarde, vider les branches mortes avant de reprendre l'axe principal et de quitter la sous-zone.
+[COFFRE] [ ] #058 - Reinforcing Jam - Emplacement : Winterlands / Sacred Peak Altahe (4 Chest) / coffre 1/4.
+[COFFRE] [ ] #059 - Ice Amulet - Emplacement : Winterlands / Sacred Peak Altahe (4 Chest) / coffre 2/4.
+[COFFRE] [ ] #060 - Ice Soulstone (L) - Emplacement : Winterlands / Sacred Peak Altahe (4 Chest) / coffre 3/4.
+[COFFRE] [ ] #061 - Absolute Zero Bow - Emplacement : Winterlands / Sacred Peak Altahe (4 Chest) / coffre 4/4.
+
+### Winterlands - Forbidden Shrine (5 Chest) (5 coffres)
+Contexte : Tier 3: Stormhail.
+Itineraire de controle : Depuis l'entree de la sous-zone, ouvrir d'abord les embranchements et les etages lateraux, puis revenir au dernier point de sauvegarde avant la sortie.
+[COFFRE] [ ] #062 - Gleaming Amulet - Emplacement : Winterlands / Forbidden Shrine (5 Chest) / coffre 1/5.
+[COFFRE] [ ] #063 - Olive of Life (M) - Emplacement : Winterlands / Forbidden Shrine (5 Chest) / coffre 2/5.
+[COFFRE] [ ] #064 - Healing Grape (M) - Emplacement : Winterlands / Forbidden Shrine (5 Chest) / coffre 3/5.
+[COFFRE] [ ] #065 - $15,000 - Emplacement : Winterlands / Forbidden Shrine (5 Chest) / coffre 4/5.
+[COFFRE] [ ] #066 - Magic Breaker - Emplacement : Winterlands / Forbidden Shrine (5 Chest) / coffre 5/5.
+
+### Winterlands - Stormhail: Castle Mei (2 Chest) (2 coffres)
+Contexte : Tier 3: Stormhail.
+Itineraire de controle : Depuis l'entree de la sous-zone, ouvrir d'abord les embranchements et les etages lateraux, puis revenir au dernier point de sauvegarde avant la sortie.
+[COFFRE] [ ] #067 - Thunder Soulstone (M) - Emplacement : Winterlands / Stormhail: Castle Mei (2 Chest) / coffre 1/2.
+[COFFRE] [ ] #068 - $16,000 - Emplacement : Winterlands / Stormhail: Castle Mei (2 Chest) / coffre 2/2.
+
+### Winterlands - Castle Mei: East Tower (5 Chest) (5 coffres)
+Contexte : Tier 3: Stormhail.
+Itineraire de controle : Depuis l'entree de la sous-zone, ouvrir d'abord les embranchements et les etages lateraux, puis revenir au dernier point de sauvegarde avant la sortie.
+[COFFRE] [ ] #069 - Herb of Serenity - Emplacement : Winterlands / Castle Mei: East Tower (5 Chest) / coffre 1/5.
+[COFFRE] [ ] #070 - Thunder Soulstone (L) - Emplacement : Winterlands / Castle Mei: East Tower (5 Chest) / coffre 2/5.
+[COFFRE] [ ] #071 - Healing Grape (M) - Emplacement : Winterlands / Castle Mei: East Tower (5 Chest) / coffre 3/5.
+[COFFRE] [ ] #072 - Nightmare Glaive - Emplacement : Winterlands / Castle Mei: East Tower (5 Chest) / coffre 4/5.
+[COFFRE] [ ] #073 - Thunderstorm Amulet - Emplacement : Winterlands / Castle Mei: East Tower (5 Chest) / coffre 5/5.
+
+### Crestlands - Flamechurch (3 Chest) (3 coffres)
+Contexte : Tier 1: Flamechurch.
+Itineraire de controle : Depuis le point d'entree ou de sauvegarde, vider les branches mortes avant de reprendre l'axe principal et de quitter la sous-zone.
+[COFFRE] [ ] #074 - $400 - Emplacement : Crestlands / Flamechurch (3 Chest) / coffre 1/3.
+[COFFRE] [ ] #075 - Guard's Shield (Guarded: Soldier 3*) - Emplacement : Crestlands / Flamechurch (3 Chest) / coffre 2/3.
+[COFFRE] [ ] #076 - Healing Grape (Guarded: Soldier 3*) - Emplacement : Crestlands / Flamechurch (3 Chest) / coffre 3/3.
+
+### Crestlands - Eastern Flamechurch Pass (4 Chest) (4 coffres)
+Contexte : Tier 1: Flamechurch.
+Itineraire de controle : Depuis le point d'entree ou de sauvegarde, vider les branches mortes avant de reprendre l'axe principal et de quitter la sous-zone.
+[COFFRE] [ ] #077 - Fur Armor - Emplacement : Crestlands / Eastern Flamechurch Pass (4 Chest) / coffre 1/4.
+[COFFRE] [ ] #078 - Slumber Sage - Emplacement : Crestlands / Eastern Flamechurch Pass (4 Chest) / coffre 2/4.
+[COFFRE] [ ] #079 - Energizing Pomegranate - Emplacement : Crestlands / Eastern Flamechurch Pass (4 Chest) / coffre 3/4.
+[COFFRE] [ ] #080 - Fire Soulstone - Emplacement : Crestlands / Eastern Flamechurch Pass (4 Chest) / coffre 4/4.
+
+### Crestlands - Flamechurch Pilgrims' Way (4 Chest) (4 coffres)
+Contexte : Tier 1: Flamechurch.
+Itineraire de controle : Depuis le point d'entree ou de sauvegarde, vider les branches mortes avant de reprendre l'axe principal et de quitter la sous-zone.
+[COFFRE] [ ] #081 - Inspiriting Plum - Emplacement : Crestlands / Flamechurch Pilgrims' Way (4 Chest) / coffre 1/4.
+[COFFRE] [ ] #082 - Healing Grape - Emplacement : Crestlands / Flamechurch Pilgrims' Way (4 Chest) / coffre 2/4.
+[COFFRE] [ ] #083 - Tough Nut - Emplacement : Crestlands / Flamechurch Pilgrims' Way (4 Chest) / coffre 3/4.
+[COFFRE] [ ] #084 - Stimulating Ring - Emplacement : Crestlands / Flamechurch Pilgrims' Way (4 Chest) / coffre 4/4.
+
+### Crestlands - Flamechurch: Cathedral Entrance (1 Chest) (1 coffre)
+Contexte : Tier 1: Flamechurch.
+Itineraire de controle : Depuis le point d'entree ou de sauvegarde, vider les branches mortes avant de reprendre l'axe principal et de quitter la sous-zone.
+[COFFRE] [ ] #085 - Shadow Soulstone - Emplacement : Crestlands / Flamechurch: Cathedral Entrance (1 Chest) / coffre 1/1.
+
+### Crestlands - Flamechurch: Cathedral (2 Chest) (2 coffres)
+Contexte : Tier 1: Flamechurch.
+Itineraire de controle : Depuis le point d'entree ou de sauvegarde, vider les branches mortes avant de reprendre l'axe principal et de quitter la sous-zone.
+[COFFRE] [ ] #086 - Olive of Life - Emplacement : Crestlands / Flamechurch: Cathedral (2 Chest) / coffre 1/2.
+[COFFRE] [ ] #087 - Light Soulstone - Emplacement : Crestlands / Flamechurch: Cathedral (2 Chest) / coffre 2/2.
+
+### Crestlands - Crossed Paths - Temenos & Throné Part I (1 coffre)
+Contexte : Tier 1: Flamechurch.
+Itineraire de controle : Depuis le point d'entree ou de sauvegarde, vider les branches mortes avant de reprendre l'axe principal et de quitter la sous-zone.
+[COFFRE] [ ] #088 - Angel's Ring - Emplacement : Crestlands / Crossed Paths - Temenos & Throné Part I / coffre 1/1.
+
+### Crestlands - Cathedral Cellars (3 Chest) (3 coffres)
+Contexte : Tier 1: Flamechurch.
+Itineraire de controle : Depuis l'entree de la sous-zone, ouvrir d'abord les embranchements et les etages lateraux, puis revenir au dernier point de sauvegarde avant la sortie.
+[COFFRE] [ ] #089 - Light Soulstone - Emplacement : Crestlands / Cathedral Cellars (3 Chest) / coffre 1/3.
+[COFFRE] [ ] #090 - Inspiriting Plum - Emplacement : Crestlands / Cathedral Cellars (3 Chest) / coffre 2/3.
+[COFFRE] [ ] #091 - Pilgrim Rod - Emplacement : Crestlands / Cathedral Cellars (3 Chest) / coffre 3/3.
+
+### Crestlands - Montwise (2 Chest) (2 coffres)
+Contexte : Tier 2: Montwise.
+Itineraire de controle : Depuis le point d'entree ou de sauvegarde, vider les branches mortes avant de reprendre l'axe principal et de quitter la sous-zone.
+[COFFRE] [ ] #092 - Engagement Bow (Guarded: Former Champion 6*) - Emplacement : Crestlands / Montwise (2 Chest) / coffre 1/2.
+[COFFRE] [ ] #093 - Feather Mantle - Emplacement : Crestlands / Montwise (2 Chest) / coffre 2/2.
+
+### Crestlands - Montwise: Library (1 Chest) (1 coffre)
+Contexte : Tier 2: Montwise.
+Itineraire de controle : Depuis le point d'entree ou de sauvegarde, vider les branches mortes avant de reprendre l'axe principal et de quitter la sous-zone.
+[COFFRE] [ ] #094 - Lapis Rod - Emplacement : Crestlands / Montwise: Library (1 Chest) / coffre 1/1.
+
+### Crestlands - Hikari - Chapter 2 (1 coffre)
+Contexte : Tier 2: Montwise.
+Itineraire de controle : Depuis le point d'entree ou de sauvegarde, vider les branches mortes avant de reprendre l'axe principal et de quitter la sous-zone.
+[COFFRE] [ ] #095 - Bottle of Blinding Dust - Emplacement : Crestlands / Hikari - Chapter 2 / coffre 1/1.
+
+### Crestlands - Borderfall (4 Chest) (4 coffres)
+Contexte : Tier 2: Montwise.
+Itineraire de controle : Depuis le point d'entree ou de sauvegarde, vider les branches mortes avant de reprendre l'axe principal et de quitter la sous-zone.
+[COFFRE] [ ] #096 - Inspiriting Plum (M) - Emplacement : Crestlands / Borderfall (4 Chest) / coffre 1/4.
+[COFFRE] [ ] #097 - Shadow Bow - Emplacement : Crestlands / Borderfall (4 Chest) / coffre 2/4.
+[COFFRE] [ ] #098 - Thunder Soulstone (M) - Emplacement : Crestlands / Borderfall (4 Chest) / coffre 3/4.
+[COFFRE] [ ] #099 - Empowering Lychee - Emplacement : Crestlands / Borderfall (4 Chest) / coffre 4/4.
+
+### Crestlands - Western Montwise Pass (3 Chest) (3 coffres)
+Contexte : Tier 2: Montwise.
+Itineraire de controle : Depuis l'entree ou le point de sauvegarde, vider les branches mortes avant de reprendre l'axe principal et de quitter la sous-zone.
+[COFFRE] [ ] #100 - Gelid Helm - Emplacement : Crestlands / Western Montwise Pass (3 Chest) / coffre 1/3.
+[COFFRE] [ ] #101 - $800 - Emplacement : Crestlands / Western Montwise Pass (3 Chest) / coffre 2/3.
+[COFFRE] [ ] #102 - Energizing Pomegranate (M) - Emplacement : Crestlands / Western Montwise Pass (3 Chest) / coffre 3/3.
+
+### Crestlands - Seat of the Water Sprite (7 Chest) (7 coffres)
+Contexte : Tier 2: Montwise.
+Itineraire de controle : Depuis l'entree ou le point de sauvegarde, vider les branches mortes avant de reprendre l'axe principal et de quitter la sous-zone.
+[COFFRE] [ ] #103 - Enlightening Bracelet - Emplacement : Crestlands / Seat of the Water Sprite (7 Chest) / coffre 1/7.
+[COFFRE] [ ] #104 - Inspiriting Plum Basket - Emplacement : Crestlands / Seat of the Water Sprite (7 Chest) / coffre 2/7.
+[COFFRE] [ ] #105 - $10,000 - Emplacement : Crestlands / Seat of the Water Sprite (7 Chest) / coffre 3/7.
+[COFFRE] [ ] #106 - Olive of Life (M) - Emplacement : Crestlands / Seat of the Water Sprite (7 Chest) / coffre 4/7.
+[COFFRE] [ ] #107 - Blessing in Disguise - Emplacement : Crestlands / Seat of the Water Sprite (7 Chest) / coffre 5/7.
+[COFFRE] [ ] #108 - Energizing Pomegranate (L) - Emplacement : Crestlands / Seat of the Water Sprite (7 Chest) / coffre 6/7.
+[COFFRE] [ ] #109 - Rusty Staff - Emplacement : Crestlands / Seat of the Water Sprite (7 Chest) / coffre 7/7.
+
+### Crestlands - Northern Montwise Pass (8 Chest) (8 coffres)
+Contexte : Tier 2: Montwise.
+Itineraire de controle : Depuis l'entree ou le point de sauvegarde, vider les branches mortes avant de reprendre l'axe principal et de quitter la sous-zone.
+[COFFRE] [ ] #110 - Healing Grape (M) - Emplacement : Crestlands / Northern Montwise Pass (8 Chest) / coffre 1/8.
+[COFFRE] [ ] #111 - Gold Dust - Emplacement : Crestlands / Northern Montwise Pass (8 Chest) / coffre 2/8.
+[COFFRE] [ ] #112 - Large Silver Ore - Emplacement : Crestlands / Northern Montwise Pass (8 Chest) / coffre 3/8.
+[COFFRE] [ ] #113 - Gold Dust - Emplacement : Crestlands / Northern Montwise Pass (8 Chest) / coffre 4/8.
+[COFFRE] [ ] #114 - Slumber Sage - Emplacement : Crestlands / Northern Montwise Pass (8 Chest) / coffre 5/8.
+[COFFRE] [ ] #115 - Shadow Soulstone (M) - Emplacement : Crestlands / Northern Montwise Pass (8 Chest) / coffre 6/8.
+[COFFRE] [ ] #116 - Large Silver Ore - Emplacement : Crestlands / Northern Montwise Pass (8 Chest) / coffre 7/8.
+[COFFRE] [ ] #117 - Unerring Necklace - Emplacement : Crestlands / Northern Montwise Pass (8 Chest) / coffre 8/8.
+
+### Crestlands - Abandoned Traverse (4 Chest) (4 coffres)
+Contexte : Tier 2: Montwise.
+Itineraire de controle : Depuis l'entree ou le point de sauvegarde, vider les branches mortes avant de reprendre l'axe principal et de quitter la sous-zone.
+[COFFRE] [ ] #118 - Bottle of Poison Dust - Emplacement : Crestlands / Abandoned Traverse (4 Chest) / coffre 1/4.
+[COFFRE] [ ] #119 - Energizing Pomegranate - Emplacement : Crestlands / Abandoned Traverse (4 Chest) / coffre 2/4.
+[COFFRE] [ ] #120 - Guardian Amulet - Emplacement : Crestlands / Abandoned Traverse (4 Chest) / coffre 3/4.
+[COFFRE] [ ] #121 - Ice Soulstone (M) - Emplacement : Crestlands / Abandoned Traverse (4 Chest) / coffre 4/4.
+
+### Crestlands - Abandoned Church (4 Chest) (4 coffres)
+Contexte : Tier 2: Montwise.
+Itineraire de controle : Depuis l'entree ou le point de sauvegarde, vider les branches mortes avant de reprendre l'axe principal et de quitter la sous-zone.
+[COFFRE] [ ] #122 - Healing Grape Bunch - Emplacement : Crestlands / Abandoned Church (4 Chest) / coffre 1/4.
+[COFFRE] [ ] #123 - Black Dagger - Emplacement : Crestlands / Abandoned Church (4 Chest) / coffre 2/4.
+[COFFRE] [ ] #124 - Inspiriting Plum Backet - Emplacement : Crestlands / Abandoned Church (4 Chest) / coffre 3/4.
+[COFFRE] [ ] #125 - Olive of Life (M) - Emplacement : Crestlands / Abandoned Church (4 Chest) / coffre 4/4.
+
+### Crestlands - Forsaken Graveyard (5 Chest) (5 coffres)
+Contexte : Tier 2: Montwise.
+Itineraire de controle : Depuis l'entree ou le point de sauvegarde, vider les branches mortes avant de reprendre l'axe principal et de quitter la sous-zone.
+[COFFRE] [ ] #126 - Grail of Life - Emplacement : Crestlands / Forsaken Graveyard (5 Chest) / coffre 1/5.
+[COFFRE] [ ] #127 - Vivifying Stone - Emplacement : Crestlands / Forsaken Graveyard (5 Chest) / coffre 2/5.
+[COFFRE] [ ] #128 - Dark Slasher - Emplacement : Crestlands / Forsaken Graveyard (5 Chest) / coffre 3/5.
+[COFFRE] [ ] #129 - Fire Soulstone (L) - Emplacement : Crestlands / Forsaken Graveyard (5 Chest) / coffre 4/5.
+[COFFRE] [ ] #130 - Forbidden Blade (Fight: Devourer of Dreams) - Emplacement : Crestlands / Forsaken Graveyard (5 Chest) / coffre 5/5.
+
+### Crestlands - Osvald - Chapter 3 (0 coffre)
+Contexte : Tier 2: Montwise.
+Itineraire de controle : Depuis l'entree ou le point de sauvegarde, vider les branches mortes avant de reprendre l'axe principal et de quitter la sous-zone.
+
+### Crestlands - Underground Laboratory (4 Chest) (4 coffres)
+Contexte : Tier 2: Montwise.
+Itineraire de controle : Depuis l'entree, ouvrir d'abord les embranchements et les etages lateraux, puis revenir au dernier point de sauvegarde avant la sortie.
+[COFFRE] [ ] #131 - $14,000 - Emplacement : Crestlands / Underground Laboratory (4 Chest) / coffre 1/4.
+[COFFRE] [ ] #132 - Bottled Nightmares - Emplacement : Crestlands / Underground Laboratory (4 Chest) / coffre 2/4.
+[COFFRE] [ ] #133 - Bottled Nightmares - Emplacement : Crestlands / Underground Laboratory (4 Chest) / coffre 3/4.
+[COFFRE] [ ] #134 - Fire Soulstone (L) - Emplacement : Crestlands / Underground Laboratory (4 Chest) / coffre 4/4.
+
+### Crestlands - Merry Hills (2 Chest) (2 coffres)
+Contexte : Tier 3: Merry Hills.
+Itineraire de controle : Depuis l'entree ou le point de sauvegarde, vider les branches mortes avant de reprendre l'axe principal et de quitter la sous-zone.
+[COFFRE] [ ] #135 - Empowering Lychee (L) - Emplacement : Crestlands / Merry Hills (2 Chest) / coffre 1/2.
+[COFFRE] [ ] #136 - Herb of Clamor - Emplacement : Crestlands / Merry Hills (2 Chest) / coffre 2/2.
+
+### Crestlands - Merry Hills: Shrine Entrance (2 Chest) (2 coffres)
+Contexte : Tier 3: Merry Hills.
+Itineraire de controle : Depuis l'entree, ouvrir d'abord les embranchements et les etages lateraux, puis revenir au dernier point de sauvegarde avant la sortie.
+[COFFRE] [ ] #137 - $2,700 - Emplacement : Crestlands / Merry Hills: Shrine Entrance (2 Chest) / coffre 1/2.
+[COFFRE] [ ] #138 - Empowering Necklace - Emplacement : Crestlands / Merry Hills: Shrine Entrance (2 Chest) / coffre 2/2.
+
+### Crestlands - Western Merry Hills Pass (4 Chest) (4 coffres)
+Contexte : Tier 3: Merry Hills.
+Itineraire de controle : Depuis l'entree ou le point de sauvegarde, vider les branches mortes avant de reprendre l'axe principal et de quitter la sous-zone.
+[COFFRE] [ ] #139 - Healing Grape (M) - Emplacement : Crestlands / Western Merry Hills Pass (4 Chest) / coffre 1/4.
+[COFFRE] [ ] #140 - Sun Shield - Emplacement : Crestlands / Western Merry Hills Pass (4 Chest) / coffre 2/4.
+[COFFRE] [ ] #141 - Herb of Awakening - Emplacement : Crestlands / Western Merry Hills Pass (4 Chest) / coffre 3/4.
+[COFFRE] [ ] #142 - Herb of Serenity - Emplacement : Crestlands / Western Merry Hills Pass (4 Chest) / coffre 4/4.
+
+### Crestlands - Agnea - Chapter 5 (0 coffre)
+Contexte : Tier 3: Merry Hills.
+Itineraire de controle : Depuis l'entree ou le point de sauvegarde, vider les branches mortes avant de reprendre l'axe principal et de quitter la sous-zone.
+
+### Crestlands - Shrine of Ul'sterra (4 Chest) (4 coffres)
+Contexte : Tier 3: Merry Hills.
+Itineraire de controle : Depuis l'entree, ouvrir d'abord les embranchements et les etages lateraux, puis revenir au dernier point de sauvegarde avant la sortie.
+[COFFRE] [ ] #143 - Refreshing Jam - Emplacement : Crestlands / Shrine of Ul'sterra (4 Chest) / coffre 1/4.
+[COFFRE] [ ] #144 - Elemental Augmentor - Emplacement : Crestlands / Shrine of Ul'sterra (4 Chest) / coffre 2/4.
+[COFFRE] [ ] #145 - Resplendent Costume - Emplacement : Crestlands / Shrine of Ul'sterra (4 Chest) / coffre 3/4.
+[COFFRE] [ ] #146 - Bloodstained Knife - Emplacement : Crestlands / Shrine of Ul'sterra (4 Chest) / coffre 4/4.
+
+### Crestlands - Stage of the Moon and Sun (1 Chest) (1 coffre)
+Contexte : Tier 3: Merry Hills.
+Itineraire de controle : Depuis l'entree ou le point de sauvegarde, vider les branches mortes avant de reprendre l'axe principal et de quitter la sous-zone.
+[COFFRE] [ ] #147 - $24,000 - Emplacement : Crestlands / Stage of the Moon and Sun (1 Chest) / coffre 1/1.
+
+### Brightlands - New Delsta (2 Chest) (2 coffres)
+Contexte : Tier 1: New Delsta.
+Itineraire de controle : Depuis l'entree ou le point de sauvegarde, vider les branches mortes avant de reprendre l'axe principal et de quitter la sous-zone.
+[COFFRE] [ ] #148 - Healing Grape - Emplacement : Brightlands / New Delsta (2 Chest) / coffre 1/2.
+[COFFRE] [ ] #149 - Energizing Pomegranate - Emplacement : Brightlands / New Delsta (2 Chest) / coffre 2/2.
+
+### Brightlands - New Delsta: Backstreets (3 Chest) (3 coffres)
+Contexte : Tier 1: New Delsta.
+Itineraire de controle : Depuis l'entree ou le point de sauvegarde, vider les branches mortes avant de reprendre l'axe principal et de quitter la sous-zone.
+[COFFRE] [ ] #150 - Inspiriting Plum - Emplacement : Brightlands / New Delsta: Backstreets (3 Chest) / coffre 1/3.
+[COFFRE] [ ] #151 - Dagger (Guarded: Guard 4*) - Emplacement : Brightlands / New Delsta: Backstreets (3 Chest) / coffre 2/3.
+[COFFRE] [ ] #152 - Critical Nut - Emplacement : Brightlands / New Delsta: Backstreets (3 Chest) / coffre 3/3.
+
+### Brightlands - New Delsta: Game Parlor (3 Chest) (3 coffres)
+Contexte : Tier 1: New Delsta.
+Itineraire de controle : Depuis l'entree ou le point de sauvegarde, vider les branches mortes avant de reprendre l'axe principal et de quitter la sous-zone.
+[COFFRE] [ ] #153 - $40 000 (Guarded: Safe Keeper 8*) - Emplacement : Brightlands / New Delsta: Game Parlor (3 Chest) / coffre 1/3.
+[COFFRE] [ ] #154 - Physical Belt (Guarded: Safe Keeper 8*) - Emplacement : Brightlands / New Delsta: Game Parlor (3 Chest) / coffre 2/3.
+[COFFRE] [ ] #155 - Forbidden Dagger (Guarded: Safe Keeper 8*) - Emplacement : Brightlands / New Delsta: Game Parlor (3 Chest) / coffre 3/3.
+
+### Brightlands - Eastern New Delsta Highroad (3 Chest) (3 coffres)
+Contexte : Tier 1: New Delsta.
+Itineraire de controle : Depuis l'entree ou le point de sauvegarde, vider les branches mortes avant de reprendre l'axe principal et de quitter la sous-zone.
+[COFFRE] [ ] #156 - Iron Blade - Emplacement : Brightlands / Eastern New Delsta Highroad (3 Chest) / coffre 1/3.
+[COFFRE] [ ] #157 - Healing Grape (M) - Emplacement : Brightlands / Eastern New Delsta Highroad (3 Chest) / coffre 2/3.
+[COFFRE] [ ] #158 - $700 - Emplacement : Brightlands / Eastern New Delsta Highroad (3 Chest) / coffre 3/3.
+
+### Brightlands - New Delsta Flats (3 Chest) (3 coffres)
+Contexte : Tier 1: New Delsta.
+Itineraire de controle : Depuis l'entree ou le point de sauvegarde, vider les branches mortes avant de reprendre l'axe principal et de quitter la sous-zone.
+[COFFRE] [ ] #159 - Energizing Pomegranate - Emplacement : Brightlands / New Delsta Flats (3 Chest) / coffre 1/3.
+[COFFRE] [ ] #160 - Herb of Serenity - Emplacement : Brightlands / New Delsta Flats (3 Chest) / coffre 2/3.
+[COFFRE] [ ] #161 - Kite Shield - Emplacement : Brightlands / New Delsta Flats (3 Chest) / coffre 3/3.
+
+### Brightlands - New Delsta Harbor: Anchorage (2 Chest) (2 coffres)
+Contexte : Tier 1: New Delsta.
+Itineraire de controle : Depuis l'entree ou le point de sauvegarde, vider les branches mortes avant de reprendre l'axe principal et de quitter la sous-zone.
+[COFFRE] [ ] #162 - Slumber Sage - Emplacement : Brightlands / New Delsta Harbor: Anchorage (2 Chest) / coffre 1/2.
+[COFFRE] [ ] #163 - Bottle of Poison Dust - Emplacement : Brightlands / New Delsta Harbor: Anchorage (2 Chest) / coffre 2/2.
+
+### Brightlands - Western Clockbank Highroad (3 Chest) (3 coffres)
+Contexte : Tier 1: New Delsta.
+Itineraire de controle : Depuis l'entree ou le point de sauvegarde, vider les branches mortes avant de reprendre l'axe principal et de quitter la sous-zone.
+[COFFRE] [ ] #164 - Inspiriting Plum Basket - Emplacement : Brightlands / Western Clockbank Highroad (3 Chest) / coffre 1/3.
+[COFFRE] [ ] #165 - Feathered Hat - Emplacement : Brightlands / Western Clockbank Highroad (3 Chest) / coffre 2/3.
+[COFFRE] [ ] #166 - Herb of Clarity - Emplacement : Brightlands / Western Clockbank Highroad (3 Chest) / coffre 3/3.
+
+### Brightlands - Abandoned Waterway (7 Chest) (7 coffres)
+Contexte : Tier 1: New Delsta.
+Itineraire de controle : Depuis l'entree, ouvrir d'abord les embranchements et les etages lateraux, puis revenir au dernier point de sauvegarde avant la sortie.
+[COFFRE] [ ] #167 - Wriggling Root - Emplacement : Brightlands / Abandoned Waterway (7 Chest) / coffre 1/7.
+[COFFRE] [ ] #168 - Herb Elixir - Emplacement : Brightlands / Abandoned Waterway (7 Chest) / coffre 2/7.
+[COFFRE] [ ] #169 - Wriggling Root - Emplacement : Brightlands / Abandoned Waterway (7 Chest) / coffre 3/7.
+[COFFRE] [ ] #170 - $8,000 - Emplacement : Brightlands / Abandoned Waterway (7 Chest) / coffre 4/7.
+[COFFRE] [ ] #171 - Antidote Stone - Emplacement : Brightlands / Abandoned Waterway (7 Chest) / coffre 5/7.
+[COFFRE] [ ] #172 - Wriggling Root - Emplacement : Brightlands / Abandoned Waterway (7 Chest) / coffre 6/7.
+[COFFRE] [ ] #173 - Frost Axe (Fight: Carnivorous Plant) - Emplacement : Brightlands / Abandoned Waterway (7 Chest) / coffre 7/7.
+
+### Brightlands - Sunken Maw (4 Chest) (4 coffres)
+Contexte : Tier 1: New Delsta.
+Itineraire de controle : Depuis l'entree, ouvrir d'abord les embranchements et les etages lateraux, puis revenir au dernier point de sauvegarde avant la sortie.
+[COFFRE] [ ] #174 - Inspiriting Plum (M) - Emplacement : Brightlands / Sunken Maw (4 Chest) / coffre 1/4.
+[COFFRE] [ ] #175 - Shield of Serenity - Emplacement : Brightlands / Sunken Maw (4 Chest) / coffre 2/4.
+[COFFRE] [ ] #176 - Quartz Rod - Emplacement : Brightlands / Sunken Maw (4 Chest) / coffre 3/4.
+[COFFRE] [ ] #177 - $13,500 - Emplacement : Brightlands / Sunken Maw (4 Chest) / coffre 4/4.
+
+### Brightlands - Underground Waterway (2 Chest) (2 coffres)
+Contexte : Tier 1: New Delsta.
+Itineraire de controle : Depuis l'entree, ouvrir d'abord les embranchements et les etages lateraux, puis revenir au dernier point de sauvegarde avant la sortie.
+[COFFRE] [ ] #178 - Healing Grape - Emplacement : Brightlands / Underground Waterway (2 Chest) / coffre 1/2.
+[COFFRE] [ ] #179 - Protective Ring - Emplacement : Brightlands / Underground Waterway (2 Chest) / coffre 2/2.
+
+### Brightlands - Diamante's Estate (4 Chest) (4 coffres)
+Contexte : Tier 1: New Delsta.
+Itineraire de controle : Depuis l'entree, ouvrir d'abord les embranchements et les etages lateraux, puis revenir au dernier point de sauvegarde avant la sortie.
+[COFFRE] [ ] #180 - $1,200 - Emplacement : Brightlands / Diamante's Estate (4 Chest) / coffre 1/4.
+[COFFRE] [ ] #181 - Shadow Soulstone - Emplacement : Brightlands / Diamante's Estate (4 Chest) / coffre 2/4.
+[COFFRE] [ ] #182 - Long Sword - Emplacement : Brightlands / Diamante's Estate (4 Chest) / coffre 3/4.
+[COFFRE] [ ] #183 - Inspiriting Plum - Emplacement : Brightlands / Diamante's Estate (4 Chest) / coffre 4/4.
+
+### Brightlands - Agnea - Chapter 2 (0 coffre)
+Contexte : Tier 1: New Delsta.
+Itineraire de controle : Depuis l'entree ou le point de sauvegarde, vider les branches mortes avant de reprendre l'axe principal et de quitter la sous-zone.
+
+### Brightlands - Theater: Backstage (5 Chest) (5 coffres)
+Contexte : Tier 1: New Delsta.
+Itineraire de controle : Depuis l'entree, ouvrir d'abord les embranchements et les etages lateraux, puis revenir au dernier point de sauvegarde avant la sortie.
+[COFFRE] [ ] #184 - Refreshing Jam - Emplacement : Brightlands / Theater: Backstage (5 Chest) / coffre 1/5.
+[COFFRE] [ ] #185 - Lightning Amulet - Emplacement : Brightlands / Theater: Backstage (5 Chest) / coffre 2/5.
+[COFFRE] [ ] #186 - Simple Costume - Emplacement : Brightlands / Theater: Backstage (5 Chest) / coffre 3/5.
+[COFFRE] [ ] #187 - Falcon Knife - Emplacement : Brightlands / Theater: Backstage (5 Chest) / coffre 4/5.
+[COFFRE] [ ] #188 - Healing Grape (M) - Emplacement : Brightlands / Theater: Backstage (5 Chest) / coffre 5/5.
+
+### Brightlands - Clockbank (4 Chest) (4 coffres)
+Contexte : Tier 2: Clockbank.
+Itineraire de controle : Depuis l'entree ou le point de sauvegarde, vider les branches mortes avant de reprendre l'axe principal et de quitter la sous-zone.
+[COFFRE] [ ] #189 - Bottle of Sleeping Dust - Emplacement : Brightlands / Clockbank (4 Chest) / coffre 1/4.
+[COFFRE] [ ] #190 - Pointed Hat - Emplacement : Brightlands / Clockbank (4 Chest) / coffre 2/4.
+[COFFRE] [ ] #191 - Inspiriting Plum (M) - Emplacement : Brightlands / Clockbank (4 Chest) / coffre 3/4.
+[COFFRE] [ ] #192 - Crested Greatshield - Emplacement : Brightlands / Clockbank (4 Chest) / coffre 4/4.
+
+### Brightlands - Clockbank: Industrial District (2 Chest) (2 coffres)
+Contexte : Tier 2: Clockbank.
+Itineraire de controle : Depuis l'entree ou le point de sauvegarde, vider les branches mortes avant de reprendre l'axe principal et de quitter la sous-zone.
+[COFFRE] [ ] #193 - Healing Grape Bunch - Emplacement : Brightlands / Clockbank: Industrial District (2 Chest) / coffre 1/2.
+[COFFRE] [ ] #194 - Slashing Glaive (locked behind Partitio ch.2) - Emplacement : Brightlands / Clockbank: Industrial District (2 Chest) / coffre 2/2.
+
+### Brightlands - Southern Clockbank Highroad (4 Chest) (4 coffres)
+Contexte : Tier 2: Clockbank.
+Itineraire de controle : Depuis l'entree ou le point de sauvegarde, vider les branches mortes avant de reprendre l'axe principal et de quitter la sous-zone.
+[COFFRE] [ ] #195 - Light Soulstone (M) - Emplacement : Brightlands / Southern Clockbank Highroad (4 Chest) / coffre 1/4.
+[COFFRE] [ ] #196 - Energizing Pomegranate (M) - Emplacement : Brightlands / Southern Clockbank Highroad (4 Chest) / coffre 2/4.
+[COFFRE] [ ] #197 - $6,300 - Emplacement : Brightlands / Southern Clockbank Highroad (4 Chest) / coffre 3/4.
+[COFFRE] [ ] #198 - Mirage Bow - Emplacement : Brightlands / Southern Clockbank Highroad (4 Chest) / coffre 4/4.
+
+### Brightlands - Mount Liphia (6 Chest) (6 coffres)
+Contexte : Tier 2: Clockbank.
+Itineraire de controle : Depuis l'entree ou le point de sauvegarde, vider les branches mortes avant de reprendre l'axe principal et de quitter la sous-zone.
+[COFFRE] [ ] #199 - Diffusing Serum - Emplacement : Brightlands / Mount Liphia (6 Chest) / coffre 1/6.
+[COFFRE] [ ] #200 - Olive of Life (L) - Emplacement : Brightlands / Mount Liphia (6 Chest) / coffre 2/6.
+[COFFRE] [ ] #201 - Energizing Pomegranate - Emplacement : Brightlands / Mount Liphia (6 Chest) / coffre 3/6.
+[COFFRE] [ ] #202 - $12,500 - Emplacement : Brightlands / Mount Liphia (6 Chest) / coffre 4/6.
+[COFFRE] [ ] #203 - Elemental Ward - Emplacement : Brightlands / Mount Liphia (6 Chest) / coffre 5/6.
+[COFFRE] [ ] #204 - Inspiriting Plum Basket - Emplacement : Brightlands / Mount Liphia (6 Chest) / coffre 6/6.
+
+### Brightlands - Old Clock Tower (2 Chest) (2 coffres)
+Contexte : Tier 2: Clockbank.
+Itineraire de controle : Depuis l'entree, ouvrir d'abord les embranchements et les etages lateraux, puis revenir au dernier point de sauvegarde avant la sortie.
+[COFFRE] [ ] #205 - Inferno Amulet - Emplacement : Brightlands / Old Clock Tower (2 Chest) / coffre 1/2.
+[COFFRE] [ ] #206 - Seraphim Spear - Emplacement : Brightlands / Old Clock Tower (2 Chest) / coffre 2/2.
+
+### Brightlands - The Roque Company: Factory (3 Chest) (3 coffres)
+Contexte : Tier 2: Clockbank.
+Itineraire de controle : Depuis l'entree, ouvrir d'abord les embranchements et les etages lateraux, puis revenir au dernier point de sauvegarde avant la sortie.
+[COFFRE] [ ] #207 - Empowering Lychee (M) - Emplacement : Brightlands / The Roque Company: Factory (3 Chest) / coffre 1/3.
+[COFFRE] [ ] #208 - $7,000 - Emplacement : Brightlands / The Roque Company: Factory (3 Chest) / coffre 2/3.
+[COFFRE] [ ] #209 - Prosperity Charm - Emplacement : Brightlands / The Roque Company: Factory (3 Chest) / coffre 3/3.
+
+### Brightlands - Lostseed (2 Chest) (2 coffres)
+Contexte : Tier 3: Lostseed.
+Itineraire de controle : Depuis l'entree, ouvrir d'abord les embranchements et les etages lateraux, puis revenir au dernier point de sauvegarde avant la sortie.
+[COFFRE] [ ] #210 - Reinforcing Jam - Emplacement : Brightlands / Lostseed (2 Chest) / coffre 1/2.
+[COFFRE] [ ] #211 - Cursed Helm (Guarded: Hollow Vessel, move at dawn) - Emplacement : Brightlands / Lostseed (2 Chest) / coffre 2/2.
+
+### Brightlands - Deserted Highroad (4 Chest) (4 coffres)
+Contexte : Tier 3: Lostseed.
+Itineraire de controle : Depuis l'entree ou le point de sauvegarde, vider les branches mortes avant de reprendre l'axe principal et de quitter la sous-zone.
+[COFFRE] [ ] #212 - Dragon Mail - Emplacement : Brightlands / Deserted Highroad (4 Chest) / coffre 1/4.
+[COFFRE] [ ] #213 - Slumber Sage - Emplacement : Brightlands / Deserted Highroad (4 Chest) / coffre 2/4.
+[COFFRE] [ ] #214 - Energizing Pomegranate (M) - Emplacement : Brightlands / Deserted Highroad (4 Chest) / coffre 3/4.
+[COFFRE] [ ] #215 - Olive of Life (L) - Emplacement : Brightlands / Deserted Highroad (4 Chest) / coffre 4/4.
+
+### Brightlands - Lostseed Castle (4 Chest) (4 coffres)
+Contexte : Tier 3: Lostseed.
+Itineraire de controle : Depuis l'entree, ouvrir d'abord les embranchements et les etages lateraux, puis revenir au dernier point de sauvegarde avant la sortie.
+[COFFRE] [ ] #216 - Empowering Lychee (M) - Emplacement : Brightlands / Lostseed Castle (4 Chest) / coffre 1/4.
+[COFFRE] [ ] #217 - Shadow Soulstone (L) - Emplacement : Brightlands / Lostseed Castle (4 Chest) / coffre 2/4.
+[COFFRE] [ ] #218 - Sprightly Necklace - Emplacement : Brightlands / Lostseed Castle (4 Chest) / coffre 3/4.
+[COFFRE] [ ] #219 - Herb Elixir - Emplacement : Brightlands / Lostseed Castle (4 Chest) / coffre 4/4.
+
+### Brightlands - Lostseed Castle: Upper Level (5 Chest) (5 coffres)
+Contexte : Tier 3: Lostseed.
+Itineraire de controle : Depuis l'entree, ouvrir d'abord les embranchements et les etages lateraux, puis revenir au dernier point de sauvegarde avant la sortie.
+[COFFRE] [ ] #220 - Ruinous Dagger - Emplacement : Brightlands / Lostseed Castle: Upper Level (5 Chest) / coffre 1/5.
+[COFFRE] [ ] #221 - $27,500 - Emplacement : Brightlands / Lostseed Castle: Upper Level (5 Chest) / coffre 2/5.
+[COFFRE] [ ] #222 - Energizing Pomegranate (L) - Emplacement : Brightlands / Lostseed Castle: Upper Level (5 Chest) / coffre 3/5.
+[COFFRE] [ ] #223 - Revitalizing Jam - Emplacement : Brightlands / Lostseed Castle: Upper Level (5 Chest) / coffre 4/5.
+[COFFRE] [ ] #224 - Light Soulstone (M) - Emplacement : Brightlands / Lostseed Castle: Upper Level (5 Chest) / coffre 5/5.
+
+### Toto'haha - Beasting Village (5 coffres)
+Contexte : Tier 1: Beasting Village.
+Itineraire de controle : Depuis l'entree ou le point de sauvegarde, vider les branches mortes avant de reprendre l'axe principal et de quitter la sous-zone.
+[COFFRE] [ ] #225 - Giant Bow (Guarded: Villager 2*) - Emplacement : Toto'haha / Beasting Village / coffre 1/5.
+[COFFRE] [ ] #226 - $1,800 - Emplacement : Toto'haha / Beasting Village / coffre 2/5.
+[COFFRE] [ ] #227 - Resistant Nut (L) (Guarded: Beastling 6*) - Emplacement : Toto'haha / Beasting Village / coffre 3/5.
+[COFFRE] [ ] #228 - Perfect Jerky (Guarded: Beastling 6*) - Emplacement : Toto'haha / Beasting Village / coffre 4/5.
+[COFFRE] [ ] #229 - Reinforcing Jam (Guarded: Beastling 6*) - Emplacement : Toto'haha / Beasting Village / coffre 5/5.
+
+### Toto'haha - North Beasting Traverse (4 coffres)
+Contexte : Tier 1: Beasting Village.
+Itineraire de controle : Depuis l'entree ou le point de sauvegarde, vider les branches mortes avant de reprendre l'axe principal et de quitter la sous-zone.
+[COFFRE] [ ] #230 - War Axe - Emplacement : Toto'haha / North Beasting Traverse / coffre 1/4.
+[COFFRE] [ ] #231 - Wind Soulstone - Emplacement : Toto'haha / North Beasting Traverse / coffre 2/4.
+[COFFRE] [ ] #232 - Empowering Lychee - Emplacement : Toto'haha / North Beasting Traverse / coffre 3/4.
+[COFFRE] [ ] #233 - Inspiriting Plum (M) - Emplacement : Toto'haha / North Beasting Traverse / coffre 4/4.
+
+### Toto'haha - Beasting Bay: Anchorage (2 coffres)
+Contexte : Tier 1: Beasting Village.
+Itineraire de controle : Depuis l'entree ou le point de sauvegarde, vider les branches mortes avant de reprendre l'axe principal et de quitter la sous-zone.
+[COFFRE] [ ] #234 - Slumber Sage - Emplacement : Toto'haha / Beasting Bay: Anchorage / coffre 1/2.
+[COFFRE] [ ] #235 - Healing Grape (M) - Emplacement : Toto'haha / Beasting Bay: Anchorage / coffre 2/2.
+
+### Toto'haha - Cavern of Waves (8 coffres)
+Contexte : Tier 1: Beasting Village.
+Itineraire de controle : Depuis l'entree, ouvrir d'abord les embranchements et les etages lateraux, puis revenir au dernier point de sauvegarde avant la sortie.
+[COFFRE] [ ] #236 - Healing Grape Bunch - Emplacement : Toto'haha / Cavern of Waves / coffre 1/8.
+[COFFRE] [ ] #237 - Olive of Life (L) - Emplacement : Toto'haha / Cavern of Waves / coffre 2/8.
+[COFFRE] [ ] #238 - JP Augmentor - Emplacement : Toto'haha / Cavern of Waves / coffre 3/8.
+[COFFRE] [ ] #239 - Raging Beast - Emplacement : Toto'haha / Cavern of Waves / coffre 4/8.
+[COFFRE] [ ] #240 - Ruinous Relic - Emplacement : Toto'haha / Cavern of Waves / coffre 5/8.
+[COFFRE] [ ] #241 - Ruinous Relic - Emplacement : Toto'haha / Cavern of Waves / coffre 6/8.
+[COFFRE] [ ] #242 - Ruinous Relic - Emplacement : Toto'haha / Cavern of Waves / coffre 7/8.
+[COFFRE] [ ] #243 - Salted Seafood - Emplacement : Toto'haha / Cavern of Waves / coffre 8/8.
+
+### Toto'haha - Path to the Tombs of the Wardenbeasts (3 coffres)
+Contexte : Tier 1: Beasting Village.
+Itineraire de controle : Depuis l'entree, ouvrir d'abord les embranchements et les etages lateraux, puis revenir au dernier point de sauvegarde avant la sortie.
+[COFFRE] [ ] #244 - Unerring Ring - Emplacement : Toto'haha / Path to the Tombs of the Wardenbeasts / coffre 1/3.
+[COFFRE] [ ] #245 - Inspiriting Plum - Emplacement : Toto'haha / Path to the Tombs of the Wardenbeasts / coffre 2/3.
+[COFFRE] [ ] #246 - Jerky - Emplacement : Toto'haha / Path to the Tombs of the Wardenbeasts / coffre 3/3.
+
+### Toto'haha - Tombs of the Wardenbeasts (3 coffres)
+Contexte : Tier 1: Beasting Village.
+Itineraire de controle : Depuis l'entree, ouvrir d'abord les embranchements et les etages lateraux, puis revenir au dernier point de sauvegarde avant la sortie.
+[COFFRE] [ ] #247 - Composite Bow - Emplacement : Toto'haha / Tombs of the Wardenbeasts / coffre 1/3.
+[COFFRE] [ ] #248 - Bone - Emplacement : Toto'haha / Tombs of the Wardenbeasts / coffre 2/3.
+[COFFRE] [ ] #249 - Sharp Nut - Emplacement : Toto'haha / Tombs of the Wardenbeasts / coffre 3/3.
+
+### Toto'haha - Verdant Wood (1 coffre)
+Contexte : Tier 1: Beasting Village.
+Itineraire de controle : Depuis l'entree ou le point de sauvegarde, vider les branches mortes avant de reprendre l'axe principal et de quitter la sous-zone.
+[COFFRE] [ ] #250 - Energizing Pomegranate (L) - Emplacement : Toto'haha / Verdant Wood / coffre 1/1.
+
+### Toto'haha - Stormy Cape (4 coffres)
+Contexte : Tier 1: Beasting Village.
+Itineraire de controle : Depuis l'entree ou le point de sauvegarde, vider les branches mortes avant de reprendre l'axe principal et de quitter la sous-zone.
+[COFFRE] [ ] #251 - Axe of the Conqueror - Emplacement : Toto'haha / Stormy Cape / coffre 1/4.
+[COFFRE] [ ] #252 - Revitalizing Jam - Emplacement : Toto'haha / Stormy Cape / coffre 2/4.
+[COFFRE] [ ] #253 - Tornado Bow - Emplacement : Toto'haha / Stormy Cape / coffre 3/4.
+[COFFRE] [ ] #254 - Empowering Lychee (L) - Emplacement : Toto'haha / Stormy Cape / coffre 4/4.
+
+### Toto'haha - Tropu'hopu (4 coffres)
+Contexte : Tier 2: Tropu'hopu.
+Itineraire de controle : Depuis l'entree ou le point de sauvegarde, vider les branches mortes avant de reprendre l'axe principal et de quitter la sous-zone.
+[COFFRE] [ ] #255 - Energizing Pomegranate (M) - Emplacement : Toto'haha / Tropu'hopu / coffre 1/4.
+
+[COFFRE] [ ] #256 - Cait Powder (Guarded: Cat Connoisseur 6*) - Emplacement : Toto'haha / Tropu'hopu / coffre 2/4.
+[COFFRE] [ ] #257 - Pretty Pearl (Guarded: Islander 5*) - Emplacement : Toto'haha / Tropu'hopu / coffre 3/4.
+[COFFRE] [ ] #258 - Skull Helm (Guarded: Islander 5*) - Emplacement : Toto'haha / Tropu'hopu / coffre 4/4.
+
+### Toto'haha - Tropu'hopu: Shipyard (1 coffre)
+Contexte : Tier 2: Tropu'hopu.
+Itineraire de controle : Depuis l'entree, ouvrir d'abord les embranchements et les etages lateraux, puis revenir au dernier point de sauvegarde avant la sortie.
+[COFFRE] [ ] #259 - Empowering Lychee (M) - Emplacement : Toto'haha / Tropu'hopu: Shipyard / coffre 1/1.
+
+### Toto'haha - Tropu'hopu: Floating Theater (1 coffre)
+Contexte : Tier 2: Tropu'hopu.
+Itineraire de controle : Depuis l'entree ou le point de sauvegarde, vider les branches mortes avant de reprendre l'axe principal et de quitter la sous-zone.
+[COFFRE] [ ] #260 - Inspiriting Plum (M) - Emplacement : Toto'haha / Tropu'hopu: Floating Theater / coffre 1/1.
+
+### Toto'haha - Western Tropu'hopu Traverse (5 coffres)
+Contexte : Tier 2: Tropu'hopu.
+Itineraire de controle : Depuis l'entree ou le point de sauvegarde, vider les branches mortes avant de reprendre l'axe principal et de quitter la sous-zone.
+[COFFRE] [ ] #261 - Empowering Lychee - Emplacement : Toto'haha / Western Tropu'hopu Traverse / coffre 1/5.
+[COFFRE] [ ] #262 - Healing Grape Bunch - Emplacement : Toto'haha / Western Tropu'hopu Traverse / coffre 2/5.
+[COFFRE] [ ] #263 - Light Soulstone (M) - Emplacement : Toto'haha / Western Tropu'hopu Traverse / coffre 3/5.
+[COFFRE] [ ] #264 - Quality Jerky - Emplacement : Toto'haha / Western Tropu'hopu Traverse / coffre 4/5.
+[COFFRE] [ ] #265 - Sprightly Bracelet - Emplacement : Toto'haha / Western Tropu'hopu Traverse / coffre 5/5.
+
+### Toto'haha - Nameless Village (6 coffres)
+Contexte : Tier 3: Nameless Village.
+Itineraire de controle : Depuis l'entree ou le point de sauvegarde, vider les branches mortes avant de reprendre l'axe principal et de quitter la sous-zone.
+[COFFRE] [ ] #266 - Mythical Horn (Guarded: Beastling 8*) - Emplacement : Toto'haha / Nameless Village / coffre 1/6.
+[COFFRE] [ ] #267 - Salted Seafood - Emplacement : Toto'haha / Nameless Village / coffre 2/6.
+[COFFRE] [ ] #268 - Bottle of Befuddling Dust - Emplacement : Toto'haha / Nameless Village / coffre 3/6.
+[COFFRE] [ ] #269 - Forbidden Bow (Guarded: Beastling 7*) - Emplacement : Toto'haha / Nameless Village / coffre 4/6.
+[COFFRE] [ ] #270 - Stimulating Necklace - Emplacement : Toto'haha / Nameless Village / coffre 5/6.
+[COFFRE] [ ] #271 - Empowering Lychee (M) - Emplacement : Toto'haha / Nameless Village / coffre 6/6.
+
+### Toto'haha - Southern Nameless Village Traverse (4 coffres)
+Contexte : Tier 3: Nameless Village.
+Itineraire de controle : Depuis l'entree ou le point de sauvegarde, vider les branches mortes avant de reprendre l'axe principal et de quitter la sous-zone.
+[COFFRE] [ ] #272 - Wind Soulstone (L) - Emplacement : Toto'haha / Southern Nameless Village Traverse / coffre 1/4.
+[COFFRE] [ ] #273 - Mental Belt - Emplacement : Toto'haha / Southern Nameless Village Traverse / coffre 2/4.
+[COFFRE] [ ] #274 - Superior Jerky - Emplacement : Toto'haha / Southern Nameless Village Traverse / coffre 3/4.
+[COFFRE] [ ] #275 - Herb of Serenity - Emplacement : Toto'haha / Southern Nameless Village Traverse / coffre 4/4.
+
+### Toto'haha - Sinking Ruins (6 coffres)
+Contexte : Tier 3: Nameless Village.
+Itineraire de controle : Depuis l'entree, ouvrir d'abord les embranchements et les etages lateraux, puis revenir au dernier point de sauvegarde avant la sortie.
+[COFFRE] [ ] #276 - Perfect Jerky - Emplacement : Toto'haha / Sinking Ruins / coffre 1/6.
+[COFFRE] [ ] #277 - Articulate Stone - Emplacement : Toto'haha / Sinking Ruins / coffre 2/6.
+[COFFRE] [ ] #278 - Herb-of-Grace Bud - Emplacement : Toto'haha / Sinking Ruins / coffre 3/6.
+[COFFRE] [ ] #279 - $30,000 - Emplacement : Toto'haha / Sinking Ruins / coffre 4/6.
+[COFFRE] [ ] #280 - Sea God's Spear - Emplacement : Toto'haha / Sinking Ruins / coffre 5/6.
+[COFFRE] [ ] #281 - Rusty Bow (Fight: Behemoth) - Emplacement : Toto'haha / Sinking Ruins / coffre 6/6.
+
+### Toto'haha - Temenos - Chapter 4 (0 coffre)
+Contexte : Tier 3: Nameless Village.
+Itineraire de controle : Depuis l'entree ou le point de sauvegarde, vider les branches mortes avant de reprendre l'axe principal et de quitter la sous-zone.
+
+### Toto'haha - Wandering Wood (5 coffres)
+Contexte : Tier 3: Nameless Village.
+Itineraire de controle : Depuis l'entree ou le point de sauvegarde, vider les branches mortes avant de reprendre l'axe principal et de quitter la sous-zone.
+[COFFRE] [ ] #282 - Antique Ceremonial Mask - Emplacement : Toto'haha / Wandering Wood / coffre 1/5.
+[COFFRE] [ ] #283 - Inspiriting Plum (M) - Emplacement : Toto'haha / Wandering Wood / coffre 2/5.
+[COFFRE] [ ] #284 - $28,000 - Emplacement : Toto'haha / Wandering Wood / coffre 3/5.
+[COFFRE] [ ] #285 - Healing Grape Bunch - Emplacement : Toto'haha / Wandering Wood / coffre 4/5.
+[COFFRE] [ ] #286 - Light Soulstone (L) - Emplacement : Toto'haha / Wandering Wood / coffre 5/5.
+
+### Toto'haha - Rifted Rock (3 coffres)
+Contexte : Tier 3: Nameless Village.
+Itineraire de controle : Depuis l'entree ou le point de sauvegarde, vider les branches mortes avant de reprendre l'axe principal et de quitter la sous-zone.
+[COFFRE] [ ] #287 - Revitalizing Jam - Emplacement : Toto'haha / Rifted Rock / coffre 1/3.
+[COFFRE] [ ] #288 - Hallowed Rod - Emplacement : Toto'haha / Rifted Rock / coffre 2/3.
+[COFFRE] [ ] #289 - Void Amulet - Emplacement : Toto'haha / Rifted Rock / coffre 3/3.
+
+### Harborlands - Canalbrine (3 coffres)
+Contexte : Tier 1: Canalbrine.
+Itineraire de controle : Depuis l'entree ou le point de sauvegarde, vider les branches mortes avant de reprendre l'axe principal et de quitter la sous-zone.
+[COFFRE] [ ] #290 - Resistant Nut - Emplacement : Harborlands / Canalbrine / coffre 1/3.
+[COFFRE] [ ] #291 - Slumber Sage - Emplacement : Harborlands / Canalbrine / coffre 2/3.
+[COFFRE] [ ] #292 - Woodcutter's Great Axe (Guarded: Town Lighthouse Keeper 3*, before sidequest) - Emplacement : Harborlands / Canalbrine / coffre 3/3.
+
+### Harborlands - Western Canalbrine Coast (6 coffres)
+Contexte : Tier 1: Canalbrine.
+Itineraire de controle : Depuis l'entree ou le point de sauvegarde, vider les branches mortes avant de reprendre l'axe principal et de quitter la sous-zone.
+[COFFRE] [ ] #293 - Healing Grape (M) - Emplacement : Harborlands / Western Canalbrine Coast / coffre 1/6.
+[COFFRE] [ ] #294 - Herb of Serenity - Emplacement : Harborlands / Western Canalbrine Coast / coffre 2/6.
+[COFFRE] [ ] #295 - Traveler's Bow - Emplacement : Harborlands / Western Canalbrine Coast / coffre 3/6.
+[COFFRE] [ ] #296 - Inspiriting Plum (M) - Emplacement : Harborlands / Western Canalbrine Coast / coffre 4/6.
+[COFFRE] [ ] #297 - $1,500 - Emplacement : Harborlands / Western Canalbrine Coast / coffre 5/6.
+[COFFRE] [ ] #298 - Sticky Flower - Emplacement : Harborlands / Western Canalbrine Coast / coffre 6/6.
+
+### Harborlands - Canalbrine Bridge (6 coffres)
+Contexte : Tier 1: Canalbrine.
+Itineraire de controle : Depuis l'entree ou le point de sauvegarde, vider les branches mortes avant de reprendre l'axe principal et de quitter la sous-zone.
+[COFFRE] [ ] #299 - Cleansing Leaf - Emplacement : Harborlands / Canalbrine Bridge / coffre 1/6.
+[COFFRE] [ ] #300 - Ice Soulstone - Emplacement : Harborlands / Canalbrine Bridge / coffre 2/6.
+[COFFRE] [ ] #301 - Refreshing Jam - Emplacement : Harborlands / Canalbrine Bridge / coffre 3/6.
+[COFFRE] [ ] #302 - Silver Sword - Emplacement : Harborlands / Canalbrine Bridge / coffre 4/6.
+[COFFRE] [ ] #303 - Lance - Emplacement : Harborlands / Canalbrine Bridge / coffre 5/6.
+[COFFRE] [ ] #304 - Healing Grape Bunch - Emplacement : Harborlands / Canalbrine Bridge / coffre 6/6.
+
+### Harborlands - Lair of the Usurper (7 coffres)
+Contexte : Tier 1: Canalbrine.
+Itineraire de controle : Depuis l'entree ou le point de sauvegarde, vider les branches mortes avant de reprendre l'axe principal et de quitter la sous-zone.
+[COFFRE] [ ] #305 - Bottle of Sleeping Dust - Emplacement : Harborlands / Lair of the Usurper / coffre 1/7.
+[COFFRE] [ ] #306 - Thunder Mace - Emplacement : Harborlands / Lair of the Usurper / coffre 2/7.
+[COFFRE] [ ] #307 - Olive of Life (M) - Emplacement : Harborlands / Lair of the Usurper / coffre 3/7.
+[COFFRE] [ ] #308 - Grail of Life - Emplacement : Harborlands / Lair of the Usurper / coffre 4/7.
+[COFFRE] [ ] #309 - $6,500 - Emplacement : Harborlands / Lair of the Usurper / coffre 5/7.
+[COFFRE] [ ] #310 - Weathered Treasure Shield - Emplacement : Harborlands / Lair of the Usurper / coffre 6/7.
+[COFFRE] [ ] #311 - Empowering Lychee (L) - Emplacement : Harborlands / Lair of the Usurper / coffre 7/7.
+
+### Harborlands - Canalbrine: Path to the Water Source (6 coffres)
+Contexte : Tier 1: Canalbrine.
+Itineraire de controle : Depuis l'entree ou le point de sauvegarde, vider les branches mortes avant de reprendre l'axe principal et de quitter la sous-zone.
+[COFFRE] [ ] #312 - Darkdelion - Emplacement : Harborlands / Canalbrine: Path to the Water Source / coffre 1/6.
+[COFFRE] [ ] #313 - Empowering Ring - Emplacement : Harborlands / Canalbrine: Path to the Water Source / coffre 2/6.
+[COFFRE] [ ] #314 - Plum Leaf - Emplacement : Harborlands / Canalbrine: Path to the Water Source / coffre 3/6.
+[COFFRE] [ ] #315 - Grape Leaf - Emplacement : Harborlands / Canalbrine: Path to the Water Source / coffre 4/6.
+[COFFRE] [ ] #316 - Guard's Helm - Emplacement : Harborlands / Canalbrine: Path to the Water Source / coffre 5/6.
+[COFFRE] [ ] #317 - Herb of Healing - Emplacement : Harborlands / Canalbrine: Path to the Water Source / coffre 6/6.
+
+### Harborlands - Canalbrine: Water Source (4 coffres)
+Contexte : Tier 1: Canalbrine.
+Itineraire de controle : Depuis l'entree ou le point de sauvegarde, vider les branches mortes avant de reprendre l'axe principal et de quitter la sous-zone.
+[COFFRE] [ ] #318 - Diffusing Serum - Emplacement : Harborlands / Canalbrine: Water Source / coffre 1/4.
+[COFFRE] [ ] #319 - Cleansing Leaf - Emplacement : Harborlands / Canalbrine: Water Source / coffre 2/4.
+[COFFRE] [ ] #320 - Old Armor - Emplacement : Harborlands / Canalbrine: Water Source / coffre 3/4.
+[COFFRE] [ ] #321 - Herb of Healing - Emplacement : Harborlands / Canalbrine: Water Source / coffre 4/4.
+
+### Harborlands - Temenos - Chapter 2 (0 coffre)
+Contexte : Tier 1: Canalbrine.
+Itineraire de controle : Depuis l'entree ou le point de sauvegarde, vider les branches mortes avant de reprendre l'axe principal et de quitter la sous-zone.
+
+### Harborlands - Sacred Guard Ship (5 coffres)
+Contexte : Tier 1: Canalbrine.
+Itineraire de controle : Depuis l'entree, ouvrir d'abord les embranchements et les etages lateraux, puis revenir au dernier point de sauvegarde avant la sortie.
+[COFFRE] [ ] #322 - Mace - Emplacement : Harborlands / Sacred Guard Ship / coffre 1/5.
+[COFFRE] [ ] #323 - Inspiriting Plum (M) - Emplacement : Harborlands / Sacred Guard Ship / coffre 2/5.
+[COFFRE] [ ] #324 - $5,600 - Emplacement : Harborlands / Sacred Guard Ship / coffre 3/5.
+[COFFRE] [ ] #325 - Dark Amulet - Emplacement : Harborlands / Sacred Guard Ship / coffre 4/5.
+[COFFRE] [ ] #326 - Empowering Lychee (M) - Emplacement : Harborlands / Sacred Guard Ship / coffre 5/5.
+
+### Harborlands - Conning Creek (2 coffres)
+Contexte : Tier 2: Conning Creek.
+Itineraire de controle : Depuis l'entree ou le point de sauvegarde, vider les branches mortes avant de reprendre l'axe principal et de quitter la sous-zone.
+[COFFRE] [ ] #327 - Bottle of Befuddling Dust - Emplacement : Harborlands / Conning Creek / coffre 1/2.
+[COFFRE] [ ] #328 - Blazon of Protection (Guarded: Guard 4*) - Emplacement : Harborlands / Conning Creek / coffre 2/2.
+
+### Harborlands - Conning Creek: Outskirts (2 coffres)
+Contexte : Tier 2: Conning Creek.
+Itineraire de controle : Depuis l'entree ou le point de sauvegarde, vider les branches mortes avant de reprendre l'axe principal et de quitter la sous-zone.
+[COFFRE] [ ] #329 - Inspiriting Plum (M) (Osvald chapter 3) - Emplacement : Harborlands / Conning Creek: Outskirts / coffre 1/2.
+[COFFRE] [ ] #330 - Fire Soulstone (M) (Osvald chapter 3) - Emplacement : Harborlands / Conning Creek: Outskirts / coffre 2/2.
+
+### Harborlands - Conning Creek: Harbor (1 coffre)
+Contexte : Tier 2: Conning Creek.
+Itineraire de controle : Depuis l'entree ou le point de sauvegarde, vider les branches mortes avant de reprendre l'axe principal et de quitter la sous-zone.
+[COFFRE] [ ] #331 - Rainbow Glass Bottle - Emplacement : Harborlands / Conning Creek: Harbor / coffre 1/1.
+
+### Harborlands - Northern Conning Creek Coast (4 coffres)
+Contexte : Tier 2: Conning Creek.
+Itineraire de controle : Depuis l'entree ou le point de sauvegarde, vider les branches mortes avant de reprendre l'axe principal et de quitter la sous-zone.
+[COFFRE] [ ] #332 - Energizing Pomegranate - Emplacement : Harborlands / Northern Conning Creek Coast / coffre 1/4.
+[COFFRE] [ ] #333 - Matching Trident (Guarded: Waiting Woman 5*) - Emplacement : Harborlands / Northern Conning Creek Coast / coffre 2/4.
+[COFFRE] [ ] #334 - Wind Sousltone (M) - Emplacement : Harborlands / Northern Conning Creek Coast / coffre 3/4.
+[COFFRE] [ ] #335 - Helmcleaver - Emplacement : Harborlands / Northern Conning Creek Coast / coffre 4/4.
+
+### Harborlands - Western Conning Creek Coast (4 coffres)
+Contexte : Tier 2: Conning Creek.
+Itineraire de controle : Depuis l'entree ou le point de sauvegarde, vider les branches mortes avant de reprendre l'axe principal et de quitter la sous-zone.
+[COFFRE] [ ] #336 - Empowering Lychee - Emplacement : Harborlands / Western Conning Creek Coast / coffre 1/4.
+[COFFRE] [ ] #337 - Unerring Bracelet - Emplacement : Harborlands / Western Conning Creek Coast / coffre 2/4.
+[COFFRE] [ ] #338 - Slumber Sage - Emplacement : Harborlands / Western Conning Creek Coast / coffre 3/4.
+[COFFRE] [ ] #339 - Energizing Pomegranate - Emplacement : Harborlands / Western Conning Creek Coast / coffre 4/4.
+
+### Harborlands - Cavern of the Moon and Sun (3 coffres)
+Contexte : Tier 2: Conning Creek.
+Itineraire de controle : Depuis l'entree, ouvrir d'abord les embranchements et les etages lateraux, puis revenir au dernier point de sauvegarde avant la sortie.
+[COFFRE] [ ] #340 - $2,400 - Emplacement : Harborlands / Cavern of the Moon and Sun / coffre 1/3.
+[COFFRE] [ ] #341 - Mighty Belt - Emplacement : Harborlands / Cavern of the Moon and Sun / coffre 2/3.
+[COFFRE] [ ] #342 - Light Soulstone (L) - Emplacement : Harborlands / Cavern of the Moon and Sun / coffre 3/3.
+
+### Harborlands - Ochette - Chapter 2: Cateracta's Route (0 coffre)
+Contexte : Tier 2: Conning Creek.
+Itineraire de controle : Depuis l'entree ou le point de sauvegarde, vider les branches mortes avant de reprendre l'axe principal et de quitter la sous-zone.
+
+### Harborlands - Cavern of the Sea God (4 coffres)
+Contexte : Tier 2: Conning Creek.
+Itineraire de controle : Depuis l'entree, ouvrir d'abord les embranchements et les etages lateraux, puis revenir au dernier point de sauvegarde avant la sortie.
+[COFFRE] [ ] #343 - Empowering Lychee (M) - Emplacement : Harborlands / Cavern of the Sea God / coffre 1/4.
+[COFFRE] [ ] #344 - Rabbit Shield - Emplacement : Harborlands / Cavern of the Sea God / coffre 2/4.
+[COFFRE] [ ] #345 - Healing Grape Bunch - Emplacement : Harborlands / Cavern of the Sea God / coffre 3/4.
+[COFFRE] [ ] #346 - $6,000 - Emplacement : Harborlands / Cavern of the Sea God / coffre 4/4.
+
+### Harborlands - Osvald - Chapter 3 (0 coffre)
+Contexte : Tier 2: Conning Creek.
+Itineraire de controle : Depuis l'entree ou le point de sauvegarde, vider les branches mortes avant de reprendre l'axe principal et de quitter la sous-zone.
+
+### Harborlands - Guard Outpost (5 coffres)
+Contexte : Tier 2: Conning Creek.
+Itineraire de controle : Depuis l'entree ou le point de sauvegarde, vider les branches mortes avant de reprendre l'axe principal et de quitter la sous-zone.
+[COFFRE] [ ] #347 - Fire Soulstone - Emplacement : Harborlands / Guard Outpost / coffre 1/5.
+[COFFRE] [ ] #348 - Guard's Armor - Emplacement : Harborlands / Guard Outpost / coffre 2/5.
+[COFFRE] [ ] #349 - Empowering Lychee (M) - Emplacement : Harborlands / Guard Outpost / coffre 3/5.
+[COFFRE] [ ] #350 - Guard's Hat - Emplacement : Harborlands / Guard Outpost / coffre 4/5.
+[COFFRE] [ ] #351 - $7,200 - Emplacement : Harborlands / Guard Outpost / coffre 5/5.
+
+### Harborlands - Roque Island (2 coffres)
+Contexte : Tier 3: Roque Island.
+Itineraire de controle : Depuis l'entree ou le point de sauvegarde, vider les branches mortes avant de reprendre l'axe principal et de quitter la sous-zone.
+[COFFRE] [ ] #352 - Herb of Healing - Emplacement : Harborlands / Roque Island / coffre 1/2.
+[COFFRE] [ ] #353 - Energizing Pomegranate (L) - Emplacement : Harborlands / Roque Island / coffre 2/2.
+
+### Harborlands - Guarded by "Guard" (8*) (6 coffres)
+Contexte : Tier 3: Roque Island.
+Itineraire de controle : Depuis l'entree ou le point de sauvegarde, vider les branches mortes avant de reprendre l'axe principal et de quitter la sous-zone.
+[COFFRE] [ ] #354 - Empowering Lychee (L) - Emplacement : Harborlands / Guarded by "Guard" (8*) / coffre 1/6.
+[COFFRE] [ ] #355 - $39,800 - Emplacement : Harborlands / Guarded by "Guard" (8*) / coffre 2/6.
+[COFFRE] [ ] #356 - Rejuvenating Jam - Emplacement : Harborlands / Guarded by "Guard" (8*) / coffre 3/6.
+[COFFRE] [ ] #357 - Rejuvenating Jam - Emplacement : Harborlands / Guarded by "Guard" (8*) / coffre 4/6.
+[COFFRE] [ ] #358 - Rejuvenating Jam - Emplacement : Harborlands / Guarded by "Guard" (8*) / coffre 5/6.
+[COFFRE] [ ] #359 - Magic Nut (L) - Emplacement : Harborlands / Guarded by "Guard" (8*) / coffre 6/6.
+
+### Harborlands - Roque Island: Headquarters (1 coffre)
+Contexte : Tier 3: Roque Island.
+Itineraire de controle : Depuis l'entree, ouvrir d'abord les embranchements et les etages lateraux, puis revenir au dernier point de sauvegarde avant la sortie.
+[COFFRE] [ ] #360 - Critical Bracelet - Emplacement : Harborlands / Roque Island: Headquarters / coffre 1/1.
+
+### Harborlands - Roque Island: Anchorage (3 coffres)
+Contexte : Tier 3: Roque Island.
+Itineraire de controle : Depuis l'entree ou le point de sauvegarde, vider les branches mortes avant de reprendre l'axe principal et de quitter la sous-zone.
+[COFFRE] [ ] #361 - $22,000 - Emplacement : Harborlands / Roque Island: Anchorage / coffre 1/3.
+[COFFRE] [ ] #362 - Enlightening Necklace - Emplacement : Harborlands / Roque Island: Anchorage / coffre 2/3.
+[COFFRE] [ ] #363 - Healing Grape Bunch - Emplacement : Harborlands / Roque Island: Anchorage / coffre 3/3.
+
+### Harborlands - Partitio - Chapter 4 (0 coffre)
+Contexte : Tier 3: Roque Island.
+Itineraire de controle : Depuis l'entree ou le point de sauvegarde, vider les branches mortes avant de reprendre l'axe principal et de quitter la sous-zone.
+
+### Harborlands - The Roque Company: West Tower (4 coffres)
+Contexte : Tier 3: Roque Island.
+Itineraire de controle : Depuis l'entree, ouvrir d'abord les embranchements et les etages lateraux, puis revenir au dernier point de sauvegarde avant la sortie.
+[COFFRE] [ ] #364 - Inspiriting Plum Basket - Emplacement : Harborlands / The Roque Company: West Tower / coffre 1/4.
+[COFFRE] [ ] #365 - Empowering Lychee (L) - Emplacement : Harborlands / The Roque Company: West Tower / coffre 2/4.
+[COFFRE] [ ] #366 - Fire Soulstone (L) - Emplacement : Harborlands / The Roque Company: West Tower / coffre 3/4.
+[COFFRE] [ ] #367 - Venom Lance - Emplacement : Harborlands / The Roque Company: West Tower / coffre 4/4.
+
+### Harborlands - The Roque Company: East Tower (6 coffres)
+Contexte : Tier 3: Roque Island.
+Itineraire de controle : Depuis l'entree, ouvrir d'abord les embranchements et les etages lateraux, puis revenir au dernier point de sauvegarde avant la sortie.
+[COFFRE] [ ] #368 - $24,500 - Emplacement : Harborlands / The Roque Company: East Tower / coffre 1/6.
+[COFFRE] [ ] #369 - Large Silver Ore - Emplacement : Harborlands / The Roque Company: East Tower / coffre 2/6.
+[COFFRE] [ ] #370 - Olive of Life (L) - Emplacement : Harborlands / The Roque Company: East Tower / coffre 3/6.
+[COFFRE] [ ] #371 - Aged Wine - Emplacement : Harborlands / The Roque Company: East Tower / coffre 4/6.
+[COFFRE] [ ] #372 - Mechanical Bow - Emplacement : Harborlands / The Roque Company: East Tower / coffre 5/6.
+[COFFRE] [ ] #373 - Refreshing Jam - Emplacement : Harborlands / The Roque Company: East Tower / coffre 6/6.
+
+### Hinoeuma - Ryu (1 coffre)
+Contexte : Tier 1: Ryu.
+Itineraire de controle : Depuis l'entree ou le point de sauvegarde, vider les branches mortes avant de reprendre l'axe principal et de quitter la sous-zone.
+[COFFRE] [ ] #374 - Empowering Lychee - Emplacement : Hinoeuma / Ryu / coffre 1/1.
+
+### Hinoeuma - Northern Ryu Sands (3 coffres)
+Contexte : Tier 1: Ryu.
+Itineraire de controle : Depuis l'entree ou le point de sauvegarde, vider les branches mortes avant de reprendre l'axe principal et de quitter la sous-zone.
+[COFFRE] [ ] #375 - Bottle of Befuddling Dust - Emplacement : Hinoeuma / Northern Ryu Sands / coffre 1/3.
+[COFFRE] [ ] #376 - Bone Spear - Emplacement : Hinoeuma / Northern Ryu Sands / coffre 2/3.
+[COFFRE] [ ] #377 - Diffusing Serum - Emplacement : Hinoeuma / Northern Ryu Sands / coffre 3/3.
+
+### Hinoeuma - Sai (2 coffres)
+Contexte : Tier 2: Sai.
+Itineraire de controle : Depuis l'entree ou le point de sauvegarde, vider les branches mortes avant de reprendre l'axe principal et de quitter la sous-zone.
+[COFFRE] [ ] #378 - Inspiriting Plum (M) - Emplacement : Hinoeuma / Sai / coffre 1/2.
+[COFFRE] [ ] #379 - Wind Soulstone (M) - Emplacement : Hinoeuma / Sai / coffre 2/2.
+
+### Hinoeuma - Sai: East District (5 coffres)
+Contexte : Tier 2: Sai.
+Itineraire de controle : Depuis l'entree ou le point de sauvegarde, vider les branches mortes avant de reprendre l'axe principal et de quitter la sous-zone.
+[COFFRE] [ ] #380 - Herb of Revival - Emplacement : Hinoeuma / Sai: East District / coffre 1/5.
+[COFFRE] [ ] #381 - Tattered Dress (Guarded: Caretaker 6*) - Emplacement : Hinoeuma / Sai: East District / coffre 2/5.
+[COFFRE] [ ] #382 - Tattered Shoes (Guarded: Caretaker 6*) - Emplacement : Hinoeuma / Sai: East District / coffre 3/5.
+[COFFRE] [ ] #383 - Battle Hatchet (Sidequest: Plans from a Ruined Nation) - Emplacement : Hinoeuma / Sai: East District / coffre 4/5.
+[COFFRE] [ ] #384 - Refined Sword (Sidequest: Plans from a Ruined Nation) - Emplacement : Hinoeuma / Sai: East District / coffre 5/5.
+
+### Hinoeuma - Southern Sai Sands (4 coffres)
+Contexte : Tier 2: Sai.
+Itineraire de controle : Depuis l'entree ou le point de sauvegarde, vider les branches mortes avant de reprendre l'axe principal et de quitter la sous-zone.
+[COFFRE] [ ] #385 - Herb of Light - Emplacement : Hinoeuma / Southern Sai Sands / coffre 1/4.
+[COFFRE] [ ] #386 - $6,200 - Emplacement : Hinoeuma / Southern Sai Sands / coffre 2/4.
+[COFFRE] [ ] #387 - Energizing Pomegranate (M) - Emplacement : Hinoeuma / Southern Sai Sands / coffre 3/4.
+[COFFRE] [ ] #388 - Inspiriting Plum Basket - Emplacement : Hinoeuma / Southern Sai Sands / coffre 4/4.
+
+### Hinoeuma - Eastern Sai Sands (4 coffres)
+Contexte : Tier 2: Sai.
+Itineraire de controle : Depuis l'entree ou le point de sauvegarde, vider les branches mortes avant de reprendre l'axe principal et de quitter la sous-zone.
+[COFFRE] [ ] #389 - Healing Grape Bunch - Emplacement : Hinoeuma / Eastern Sai Sands / coffre 1/4.
+[COFFRE] [ ] #390 - Fire Soulstone (M) - Emplacement : Hinoeuma / Eastern Sai Sands / coffre 2/4.
+[COFFRE] [ ] #391 - War Glaive - Emplacement : Hinoeuma / Eastern Sai Sands / coffre 3/4.
+[COFFRE] [ ] #392 - Empowering Lychee (M) - Emplacement : Hinoeuma / Eastern Sai Sands / coffre 4/4.
+
+### Hinoeuma - Western Sai Sands (3 coffres)
+Contexte : Tier 2: Sai.
+Itineraire de controle : Depuis l'entree ou le point de sauvegarde, vider les branches mortes avant de reprendre l'axe principal et de quitter la sous-zone.
+[COFFRE] [ ] #393 - Olive of Life (L) - Emplacement : Hinoeuma / Western Sai Sands / coffre 1/3.
+[COFFRE] [ ] #394 - Iron Shield - Emplacement : Hinoeuma / Western Sai Sands / coffre 2/3.
+[COFFRE] [ ] #395 - Reinforcing Jam - Emplacement : Hinoeuma / Western Sai Sands / coffre 3/3.
+
+### Hinoeuma - Quicksand Gaol (5 coffres)
+Contexte : Tier 2: Sai.
+Itineraire de controle : Depuis l'entree, ouvrir d'abord les embranchements et les etages lateraux, puis revenir au dernier point de sauvegarde avant la sortie.
+[COFFRE] [ ] #396 - Reinforcing Jam - Emplacement : Hinoeuma / Quicksand Gaol / coffre 1/5.
+[COFFRE] [ ] #397 - Wind Soulstone (L) - Emplacement : Hinoeuma / Quicksand Gaol / coffre 2/5.
+[COFFRE] [ ] #398 - Bright Stone - Emplacement : Hinoeuma / Quicksand Gaol / coffre 3/5.
+[COFFRE] [ ] #399 - Scorched Bone Spear - Emplacement : Hinoeuma / Quicksand Gaol / coffre 4/5.
+[COFFRE] [ ] #400 - Rusty Axe (Fight: Lord of the Sands) - Emplacement : Hinoeuma / Quicksand Gaol / coffre 5/5.
+
+### Hinoeuma - Dragonridge (4 coffres)
+Contexte : Tier 2: Sai.
+Itineraire de controle : Depuis l'entree ou le point de sauvegarde, vider les branches mortes avant de reprendre l'axe principal et de quitter la sous-zone.
+[COFFRE] [ ] #401 - Wind Whisperer - Emplacement : Hinoeuma / Dragonridge / coffre 1/4.
+[COFFRE] [ ] #402 - Empowering Lychee - Emplacement : Hinoeuma / Dragonridge / coffre 2/4.
+[COFFRE] [ ] #403 - Inspiriting Plum Basket - Emplacement : Hinoeuma / Dragonridge / coffre 3/4.
+[COFFRE] [ ] #404 - Tempest Amulet - Emplacement : Hinoeuma / Dragonridge / coffre 4/4.
+
+### Hinoeuma - Decaying Temple (5 coffres)
+Contexte : Tier 2: Sai.
+Itineraire de controle : Depuis l'entree, ouvrir d'abord les embranchements et les etages lateraux, puis revenir au dernier point de sauvegarde avant la sortie.
+[COFFRE] [ ] #405 - Bottle of Sleeping Dust - Emplacement : Hinoeuma / Decaying Temple / coffre 1/5.
+[COFFRE] [ ] #406 - Energizing Pomegranate (M) - Emplacement : Hinoeuma / Decaying Temple / coffre 2/5.
+[COFFRE] [ ] #407 - $20,000 - Emplacement : Hinoeuma / Decaying Temple / coffre 3/5.
+[COFFRE] [ ] #408 - Fire Dragon's Glaive - Emplacement : Hinoeuma / Decaying Temple / coffre 4/5.
+[COFFRE] [ ] #409 - Sniper's Bow - Emplacement : Hinoeuma / Decaying Temple / coffre 5/5.
+
+### Hinoeuma - Castti - Chapter 2 (Sai Route) (0 coffre)
+Contexte : Tier 2: Sai.
+Itineraire de controle : Depuis l'entree ou le point de sauvegarde, vider les branches mortes avant de reprendre l'axe principal et de quitter la sous-zone.
+
+### Hinoeuma - Sandflow Pass (6 coffres)
+Contexte : Tier 2: Sai.
+Itineraire de controle : Depuis l'entree ou le point de sauvegarde, vider les branches mortes avant de reprendre l'axe principal et de quitter la sous-zone.
+[COFFRE] [ ] #410 - Quartz Blade (Guarded: Soldier 4*) - Emplacement : Hinoeuma / Sandflow Pass / coffre 1/6.
+[COFFRE] [ ] #411 - Steel Lance (Guarded: Soldier 4*) - Emplacement : Hinoeuma / Sandflow Pass / coffre 2/6.
+[COFFRE] [ ] #412 - Bone Mail (Guarded: Soldier 4*) - Emplacement : Hinoeuma / Sandflow Pass / coffre 3/6.
+[COFFRE] [ ] #413 - Empowering Lychee (M) - Emplacement : Hinoeuma / Sandflow Pass / coffre 4/6.
+[COFFRE] [ ] #414 - Stimulating Bracelet - Emplacement : Hinoeuma / Sandflow Pass / coffre 5/6.
+[COFFRE] [ ] #415 - Strengthening Serum - Emplacement : Hinoeuma / Sandflow Pass / coffre 6/6.
+
+### Hinoeuma - Old Campsite (1 coffre)
+Contexte : Tier 2: Sai.
+Itineraire de controle : Depuis l'entree ou le point de sauvegarde, vider les branches mortes avant de reprendre l'axe principal et de quitter la sous-zone.
+[COFFRE] [ ] #416 - Dual Flower - Emplacement : Hinoeuma / Old Campsite / coffre 1/1.
+
+### Hinoeuma - Sand Lion's Den (4 coffres)
+Contexte : Tier 2: Sai.
+Itineraire de controle : Depuis l'entree, ouvrir d'abord les embranchements et les etages lateraux, puis revenir au dernier point de sauvegarde avant la sortie.
+[COFFRE] [ ] #417 - Olive of Life (L) - Emplacement : Hinoeuma / Sand Lion's Den / coffre 1/4.
+[COFFRE] [ ] #418 - Healing Grape Bunch - Emplacement : Hinoeuma / Sand Lion's Den / coffre 2/4.
+[COFFRE] [ ] #419 - Poisoned Hatchet - Emplacement : Hinoeuma / Sand Lion's Den / coffre 3/4.
+[COFFRE] [ ] #420 - Diffusing Serum - Emplacement : Hinoeuma / Sand Lion's Den / coffre 4/4.
+
+### Hinoeuma - Eastern Ku Sands (5 coffres)
+Contexte : Tier 3: Ku.
+Itineraire de controle : Depuis l'entree ou le point de sauvegarde, vider les branches mortes avant de reprendre l'axe principal et de quitter la sous-zone.
+[COFFRE] [ ] #421 - Thunder Soulstone (L) - Emplacement : Hinoeuma / Eastern Ku Sands / coffre 1/5.
+[COFFRE] [ ] #422 - Energizing Pomegranate (L) - Emplacement : Hinoeuma / Eastern Ku Sands / coffre 2/5.
+[COFFRE] [ ] #423 - Firestarter - Emplacement : Hinoeuma / Eastern Ku Sands / coffre 3/5.
+[COFFRE] [ ] #424 - Slumber Sage - Emplacement : Hinoeuma / Eastern Ku Sands / coffre 4/5.
+[COFFRE] [ ] #425 - Healing Grape Bunch - Emplacement : Hinoeuma / Eastern Ku Sands / coffre 5/5.
+
+### Hinoeuma - Tranquil Grotto (4 coffres)
+Contexte : Tier 3: Ku.
+Itineraire de controle : Depuis l'entree ou le point de sauvegarde, vider les branches mortes avant de reprendre l'axe principal et de quitter la sous-zone.
+[COFFRE] [ ] #426 - Olive of Life (L) - Emplacement : Hinoeuma / Tranquil Grotto / coffre 1/4.
+[COFFRE] [ ] #427 - Mysterious Dagger - Emplacement : Hinoeuma / Tranquil Grotto / coffre 2/4.
+[COFFRE] [ ] #428 - Reinforcing Jam - Emplacement : Hinoeuma / Tranquil Grotto / coffre 3/4.
+[COFFRE] [ ] #429 - $25,000 - Emplacement : Hinoeuma / Tranquil Grotto / coffre 4/4.
+
+### Hinoeuma - Hikari - Chapter 1 - 5 (0 coffre)
+Contexte : Hikari - Chapter 1.
+Itineraire de controle : Depuis l'entree ou le point de sauvegarde, vider les branches mortes avant de reprendre l'axe principal et de quitter la sous-zone.
+
+### Hinoeuma - Ku: Castle Town (2 coffres)
+Contexte : Hikari - Chapter 1.
+Itineraire de controle : Depuis l'entree, ouvrir d'abord les embranchements et les etages lateraux, puis revenir au dernier point de sauvegarde avant la sortie.
+[COFFRE] [ ] #430 - Healing Grape - Emplacement : Hinoeuma / Ku: Castle Town / coffre 1/2.
+[COFFRE] [ ] #431 - Inspiriting Plum - Emplacement : Hinoeuma / Ku: Castle Town / coffre 2/2.
+
+### Hinoeuma - Castle Ku: Entrance (2 coffres)
+Contexte : Hikari - Chapter 1.
+Itineraire de controle : Depuis l'entree, ouvrir d'abord les embranchements et les etages lateraux, puis revenir au dernier point de sauvegarde avant la sortie.
+[COFFRE] [ ] #432 - $1,600 - Emplacement : Hinoeuma / Castle Ku: Entrance / coffre 1/2.
+[COFFRE] [ ] #433 - Critical Ring - Emplacement : Hinoeuma / Castle Ku: Entrance / coffre 2/2.
+
+### Hinoeuma - Castle Ku (3 coffres)
+Contexte : Hikari - Chapter 1.
+Itineraire de controle : Depuis l'entree, ouvrir d'abord les embranchements et les etages lateraux, puis revenir au dernier point de sauvegarde avant la sortie.
+[COFFRE] [ ] #434 - Thunder Soulstone - Emplacement : Hinoeuma / Castle Ku / coffre 1/3.
+[COFFRE] [ ] #435 - Fortifying Nut - Emplacement : Hinoeuma / Castle Ku / coffre 2/3.
+[COFFRE] [ ] #436 - Healing Grape - Emplacement : Hinoeuma / Castle Ku / coffre 3/3.
+
+### Hinoeuma - Southern Ku Sands (4 coffres)
+Contexte : Hikari - Chapter 1.
+Itineraire de controle : Depuis l'entree ou le point de sauvegarde, vider les branches mortes avant de reprendre l'axe principal et de quitter la sous-zone.
+[COFFRE] [ ] #437 - Energizing Pomegranate - Emplacement : Hinoeuma / Southern Ku Sands / coffre 1/4.
+[COFFRE] [ ] #438 - Fire Soulstone - Emplacement : Hinoeuma / Southern Ku Sands / coffre 2/4.
+[COFFRE] [ ] #439 - Herb of Light - Emplacement : Hinoeuma / Southern Ku Sands / coffre 3/4.
+[COFFRE] [ ] #440 - Inspiriting Plum - Emplacement : Hinoeuma / Southern Ku Sands / coffre 4/4.
+
+### Leaflands - Cropdale (2 coffres)
+Contexte : Tier 1: Cropdale.
+Itineraire de controle : Depuis l'entree ou le point de sauvegarde, vider les branches mortes avant de reprendre l'axe principal et de quitter la sous-zone.
+[COFFRE] [ ] #441 - Healing Grape - Emplacement : Leaflands / Cropdale / coffre 1/2.
+[COFFRE] [ ] #442 - Olive of Life - Emplacement : Leaflands / Cropdale / coffre 2/2.
+
+### Leaflands - Eastern Cropdale Trail (4 coffres)
+Contexte : Tier 1: Cropdale.
+Itineraire de controle : Depuis l'entree ou le point de sauvegarde, vider les branches mortes avant de reprendre l'axe principal et de quitter la sous-zone.
+[COFFRE] [ ] #443 - Slumber Sage - Emplacement : Leaflands / Eastern Cropdale Trail / coffre 1/4.
+[COFFRE] [ ] #444 - $1,600 - Emplacement : Leaflands / Eastern Cropdale Trail / coffre 2/4.
+[COFFRE] [ ] #445 - Empowering Lychee - Emplacement : Leaflands / Eastern Cropdale Trail / coffre 3/4.
+[COFFRE] [ ] #446 - Round Shield - Emplacement : Leaflands / Eastern Cropdale Trail / coffre 4/4.
+
+### Leaflands - Southern Cropdale Trail (3 coffres)
+Contexte : Tier 1: Cropdale.
+Itineraire de controle : Depuis l'entree ou le point de sauvegarde, vider les branches mortes avant de reprendre l'axe principal et de quitter la sous-zone.
+[COFFRE] [ ] #447 - Healing Grape (M) - Emplacement : Leaflands / Southern Cropdale Trail / coffre 1/3.
+[COFFRE] [ ] #448 - Festival Garland - Emplacement : Leaflands / Southern Cropdale Trail / coffre 2/3.
+[COFFRE] [ ] #449 - Wind Amulet - Emplacement : Leaflands / Southern Cropdale Trail / coffre 3/3.
+
+### Leaflands - Starfall Spring (5 coffres)
+Contexte : Tier 1: Cropdale.
+Itineraire de controle : Depuis l'entree ou le point de sauvegarde, vider les branches mortes avant de reprendre l'axe principal et de quitter la sous-zone.
+[COFFRE] [ ] #450 - Bottle of Sleeping Dust - Emplacement : Leaflands / Starfall Spring / coffre 1/5.
+[COFFRE] [ ] #451 - Shadow Soulstone - Emplacement : Leaflands / Starfall Spring / coffre 2/5.
+[COFFRE] [ ] #452 - Wakeful Stone - Emplacement : Leaflands / Starfall Spring / coffre 3/5.
+[COFFRE] [ ] #453 - $6,000 - Emplacement : Leaflands / Starfall Spring / coffre 4/5.
+[COFFRE] [ ] #454 - High Priest's Amulet (Fight: Monarch) - Emplacement : Leaflands / Starfall Spring / coffre 5/5.
+
+### Leaflands - Forest Path (3 coffres)
+Contexte : Tier 1: Cropdale.
+Itineraire de controle : Depuis l'entree ou le point de sauvegarde, vider les branches mortes avant de reprendre l'axe principal et de quitter la sous-zone.
+[COFFRE] [ ] #455 - Healing Grape - Emplacement : Leaflands / Forest Path / coffre 1/3.
+[COFFRE] [ ] #456 - Wind Soulstone - Emplacement : Leaflands / Forest Path / coffre 2/3.
+[COFFRE] [ ] #457 - Fur Armor - Emplacement : Leaflands / Forest Path / coffre 3/3.
+
+### Leaflands - Festival Grounds (1 coffre)
+Contexte : Tier 1: Cropdale.
+Itineraire de controle : Depuis l'entree ou le point de sauvegarde, vider les branches mortes avant de reprendre l'axe principal et de quitter la sous-zone.
+[COFFRE] [ ] #458 - $500 - Emplacement : Leaflands / Festival Grounds / coffre 1/1.
+
+### Leaflands - Veil of Trees (5 coffres)
+Contexte : Tier 1: Cropdale.
+Itineraire de controle : Depuis l'entree ou le point de sauvegarde, vider les branches mortes avant de reprendre l'axe principal et de quitter la sous-zone.
+[COFFRE] [ ] #459 - Sprightly Ring - Emplacement : Leaflands / Veil of Trees / coffre 1/5.
+[COFFRE] [ ] #460 - Healing Grape - Emplacement : Leaflands / Veil of Trees / coffre 2/5.
+[COFFRE] [ ] #461 - Inspiriting Plum - Emplacement : Leaflands / Veil of Trees / coffre 3/5.
+[COFFRE] [ ] #462 - Slippery Nut - Emplacement : Leaflands / Veil of Trees / coffre 4/5.
+[COFFRE] [ ] #463 - Olive of Life - Emplacement : Leaflands / Veil of Trees / coffre 5/5.
+
+### Leaflands - Animal Trail (1 coffre)
+Contexte : Tier 1: Cropdale.
+Itineraire de controle : Depuis l'entree ou le point de sauvegarde, vider les branches mortes avant de reprendre l'axe principal et de quitter la sous-zone.
+[COFFRE] [ ] #464 - Herb of Serenity - Emplacement : Leaflands / Animal Trail / coffre 1/1.
+
+### Leaflands - Wellgrove (1 coffre)
+Contexte : Tier 2: Wellgrove.
+Itineraire de controle : Depuis l'entree ou le point de sauvegarde, vider les branches mortes avant de reprendre l'axe principal et de quitter la sous-zone.
+[COFFRE] [ ] #465 - Soldier's Bow - Emplacement : Leaflands / Wellgrove / coffre 1/1.
+
+### Leaflands - Wellgrove: Alrond's Estate (2 coffres)
+Contexte : Tier 2: Wellgrove.
+Itineraire de controle : Depuis l'entree, ouvrir d'abord les embranchements et les etages lateraux, puis revenir au dernier point de sauvegarde avant la sortie.
+[COFFRE] [ ] #466 - Empowering Lychee (L) - Emplacement : Leaflands / Wellgrove: Alrond's Estate / coffre 1/2.
+[COFFRE] [ ] #467 - Nimble Mantle - Emplacement : Leaflands / Wellgrove: Alrond's Estate / coffre 2/2.
+
+### Leaflands - Northern Wellgrove Trail (5 coffres)
+Contexte : Tier 2: Wellgrove.
+Itineraire de controle : Depuis l'entree ou le point de sauvegarde, vider les branches mortes avant de reprendre l'axe principal et de quitter la sous-zone.
+[COFFRE] [ ] #468 - Wind Soulstone (M) - Emplacement : Leaflands / Northern Wellgrove Trail / coffre 1/5.
+[COFFRE] [ ] #469 - Guard's Shield - Emplacement : Leaflands / Northern Wellgrove Trail / coffre 2/5.
+[COFFRE] [ ] #470 - Energizing Pomegranate (L) - Emplacement : Leaflands / Northern Wellgrove Trail / coffre 3/5.
+[COFFRE] [ ] #471 - Olive of Life (M) - Emplacement : Leaflands / Northern Wellgrove Trail / coffre 4/5.
+[COFFRE] [ ] #472 - Magic Eater - Emplacement : Leaflands / Northern Wellgrove Trail / coffre 5/5.
+
+### Leaflands - Eastern Wellgrove Trail (5 coffres)
+Contexte : Tier 2: Wellgrove.
+Itineraire de controle : Depuis l'entree ou le point de sauvegarde, vider les branches mortes avant de reprendre l'axe principal et de quitter la sous-zone.
+[COFFRE] [ ] #473 - Magus Knife - Emplacement : Leaflands / Eastern Wellgrove Trail / coffre 1/5.
+[COFFRE] [ ] #474 - Refreshing Jam - Emplacement : Leaflands / Eastern Wellgrove Trail / coffre 2/5.
+[COFFRE] [ ] #475 - Fire Soulstone (M) - Emplacement : Leaflands / Eastern Wellgrove Trail / coffre 3/5.
+[COFFRE] [ ] #476 - $7,200 - Emplacement : Leaflands / Eastern Wellgrove Trail / coffre 4/5.
+[COFFRE] [ ] #477 - Empowering Lychee (L) - Emplacement : Leaflands / Eastern Wellgrove Trail / coffre 5/5.
+
+### Leaflands - Secret Forest (4 coffres)
+Contexte : Tier 2: Wellgrove.
+Itineraire de controle : Depuis l'entree ou le point de sauvegarde, vider les branches mortes avant de reprendre l'axe principal et de quitter la sous-zone.
+[COFFRE] [ ] #478 - Light Amulet - Emplacement : Leaflands / Secret Forest / coffre 1/4.
+[COFFRE] [ ] #479 - Little Crow - Emplacement : Leaflands / Secret Forest / coffre 2/4.
+[COFFRE] [ ] #480 - $10,000 - Emplacement : Leaflands / Secret Forest / coffre 3/4.
+[COFFRE] [ ] #481 - Refreshing Jam - Emplacement : Leaflands / Secret Forest / coffre 4/4.
+
+### Leaflands - Road to Mother's Garden (5 coffres)
+Contexte : Tier 2: Wellgrove.
+Itineraire de controle : Depuis l'entree, ouvrir d'abord les embranchements et les etages lateraux, puis revenir au dernier point de sauvegarde avant la sortie.
+[COFFRE] [ ] #482 - Herb of Valor - Emplacement : Leaflands / Road to Mother's Garden / coffre 1/5.
+[COFFRE] [ ] #483 - Stinging Dagger - Emplacement : Leaflands / Road to Mother's Garden / coffre 2/5.
+[COFFRE] [ ] #484 - Inspiriting Plum (M) - Emplacement : Leaflands / Road to Mother's Garden / coffre 3/5.
+[COFFRE] [ ] #485 - Silent Bandana - Emplacement : Leaflands / Road to Mother's Garden / coffre 4/5.
+[COFFRE] [ ] #486 - Empowering Lychee (L) - Emplacement : Leaflands / Road to Mother's Garden / coffre 5/5.
+
+### Leaflands - Throné - Chapter 3: Mother's Route (0 coffre)
+Contexte : Tier 2: Wellgrove.
+Itineraire de controle : Depuis l'entree ou le point de sauvegarde, vider les branches mortes avant de reprendre l'axe principal et de quitter la sous-zone.
+
+### Leaflands - Mother's Garden (5 coffres)
+Contexte : Tier 2: Wellgrove.
+Itineraire de controle : Depuis l'entree, ouvrir d'abord les embranchements et les etages lateraux, puis revenir au dernier point de sauvegarde avant la sortie.
+[COFFRE] [ ] #487 - Healing Grape Bunch - Emplacement : Leaflands / Mother's Garden / coffre 1/5.
+[COFFRE] [ ] #488 - Calming Stone - Emplacement : Leaflands / Mother's Garden / coffre 2/5.
+[COFFRE] [ ] #489 - Horned Helm - Emplacement : Leaflands / Mother's Garden / coffre 3/5.
+[COFFRE] [ ] #490 - $13,000 - Emplacement : Leaflands / Mother's Garden / coffre 4/5.
+[COFFRE] [ ] #491 - Refreshing Jam - Emplacement : Leaflands / Mother's Garden / coffre 5/5.
+
+### Leaflands - TImberain (1 coffre)
+Contexte : Tier 3: Timberain.
+Itineraire de controle : Depuis l'entree ou le point de sauvegarde, vider les branches mortes avant de reprendre l'axe principal et de quitter la sous-zone.
+[COFFRE] [ ] #492 - Protective Necklace - Emplacement : Leaflands / TImberain / coffre 1/1.
+
+### Leaflands - TImberain Castle: Town Square (2 coffres)
+Contexte : Tier 3: Timberain.
+Itineraire de controle : Depuis l'entree, ouvrir d'abord les embranchements et les etages lateraux, puis revenir au dernier point de sauvegarde avant la sortie.
+[COFFRE] [ ] #493 - Wind Soulstone (L) - Emplacement : Leaflands / TImberain Castle: Town Square / coffre 1/2.
+[COFFRE] [ ] #494 - Rusty Polearm (Guarded: Elderly Soldier 8*) - Emplacement : Leaflands / TImberain Castle: Town Square / coffre 2/2.
+
+### Leaflands - Southern Timberain Trail (4 coffres)
+Contexte : Tier 3: Timberain.
+Itineraire de controle : Depuis l'entree ou le point de sauvegarde, vider les branches mortes avant de reprendre l'axe principal et de quitter la sous-zone.
+[COFFRE] [ ] #495 - Refreshing Jam - Emplacement : Leaflands / Southern Timberain Trail / coffre 1/4.
+[COFFRE] [ ] #496 - Hypno Sword - Emplacement : Leaflands / Southern Timberain Trail / coffre 2/4.
+[COFFRE] [ ] #497 - Energizing Pomegranate (M) - Emplacement : Leaflands / Southern Timberain Trail / coffre 3/4.
+[COFFRE] [ ] #498 - $3,000 - Emplacement : Leaflands / Southern Timberain Trail / coffre 4/4.
+
+### Leaflands - House Wellows Manor (4 coffres)
+Contexte : Tier 3: Timberain.
+Itineraire de controle : Depuis l'entree ou le point de sauvegarde, vider les branches mortes avant de reprendre l'axe principal et de quitter la sous-zone.
+[COFFRE] [ ] #499 - Olive of Life (L) - Emplacement : Leaflands / House Wellows Manor / coffre 1/4.
+[COFFRE] [ ] #500 - Cursed Armor - Emplacement : Leaflands / House Wellows Manor / coffre 2/4.
+[COFFRE] [ ] #501 - Healing Grape Bunch - Emplacement : Leaflands / House Wellows Manor / coffre 3/4.
+[COFFRE] [ ] #502 - Forbidden Axe - Emplacement : Leaflands / House Wellows Manor / coffre 4/4.
+
+### Leaflands - Castti - Chapter 4 (0 coffre)
+Contexte : Tier 3: Timberain.
+Itineraire de controle : Depuis l'entree ou le point de sauvegarde, vider les branches mortes avant de reprendre l'axe principal et de quitter la sous-zone.
+
+### Leaflands - Timberain Castle (4 coffres)
+Contexte : Tier 3: Timberain.
+Itineraire de controle : Depuis l'entree, ouvrir d'abord les embranchements et les etages lateraux, puis revenir au dernier point de sauvegarde avant la sortie.
+[COFFRE] [ ] #503 - Diffusing Serum - Emplacement : Leaflands / Timberain Castle / coffre 1/4.
+[COFFRE] [ ] #504 - Herb Elixir - Emplacement : Leaflands / Timberain Castle / coffre 2/4.
+[COFFRE] [ ] #505 - Cleaver of Destruction - Emplacement : Leaflands / Timberain Castle / coffre 3/4.
+[COFFRE] [ ] #506 - Dreamy Flower - Emplacement : Leaflands / Timberain Castle / coffre 4/4.
+
+[COFFRE] [ ] #507 - Mage's Robe - Emplacement : Leaflands / Timberain Castle: Roof / coffre 1/5.
+[COFFRE] [ ] #508 - $23,000 - Emplacement : Leaflands / Timberain Castle: Roof / coffre 2/5.
+[COFFRE] [ ] #509 - Dragon's Helm - Emplacement : Leaflands / Timberain Castle: Roof / coffre 3/5.
+[COFFRE] [ ] #510 - Energizing Pomegranate (L) - Emplacement : Leaflands / Timberain Castle: Roof / coffre 4/5.
+[COFFRE] [ ] #511 - Strengthening Serum - Emplacement : Leaflands / Timberain Castle: Roof / coffre 5/5.
+
+### Wildlands - Oresrush (2 coffres)
+Contexte : Tier 1: Oresrush.
+Itineraire de controle : Depuis le point d'entree ou de sauvegarde, vider les branches mortes avant de reprendre l'axe principal et de quitter la sous-zone.
+[COFFRE] [ ] #512 - Light Coin Pouch - Emplacement : Wildlands / Oresrush / coffre 1/2.
+[COFFRE] [ ] #513 - Light Nut - Emplacement : Wildlands / Oresrush / coffre 2/2.
+
+### Wildlands - Oresrush: Foundry (1 coffre)
+Contexte : Tier 1: Oresrush.
+Itineraire de controle : Depuis le point d'entree ou de sauvegarde, vider les branches mortes avant de reprendre l'axe principal et de quitter la sous-zone.
+[COFFRE] [ ] #514 - Stocked Goods (Guarded: Boorish Merchant 2*) - Emplacement : Wildlands / Oresrush: Foundry / coffre 1/1.
+
+### Wildlands - Southern Oresrush (4 coffres)
+Contexte : Tier 1: Oresrush.
+Itineraire de controle : Depuis le point d'entree ou de sauvegarde, vider les branches mortes avant de reprendre l'axe principal et de quitter la sous-zone.
+[COFFRE] [ ] #515 - $2,000 - Emplacement : Wildlands / Southern Oresrush / coffre 1/4.
+[COFFRE] [ ] #516 - Herb of Valor - Emplacement : Wildlands / Southern Oresrush / coffre 2/4.
+[COFFRE] [ ] #517 - Nameless Sword - Emplacement : Wildlands / Southern Oresrush / coffre 3/4.
+[COFFRE] [ ] #518 - Thunder Soulstone - Emplacement : Wildlands / Southern Oresrush / coffre 4/4.
+
+### Wildlands - Crackridge Harbor: Anchorage (3 coffres)
+Contexte : Tier 1: Oresrush.
+Itineraire de controle : Depuis le point d'entree ou de sauvegarde, vider les branches mortes avant de reprendre l'axe principal et de quitter la sous-zone.
+[COFFRE] [ ] #519 - Healing Grape (M) - Emplacement : Wildlands / Crackridge Harbor: Anchorage / coffre 1/3.
+[COFFRE] [ ] #520 - Kukri - Emplacement : Wildlands / Crackridge Harbor: Anchorage / coffre 2/3.
+[COFFRE] [ ] #521 - Bottle of Poison Dust - Emplacement : Wildlands / Crackridge Harbor: Anchorage / coffre 3/3.
+
+### Wildlands - Abandoned Silver Mine (4 coffres)
+Contexte : Tier 1: Oresrush.
+Itineraire de controle : Depuis le point d'entree ou de sauvegarde, vider les branches mortes avant de reprendre l'axe principal et de quitter la sous-zone.
+[COFFRE] [ ] #522 - $500 - Emplacement : Wildlands / Abandoned Silver Mine / coffre 1/4.
+[COFFRE] [ ] #523 - Enlightening Ring - Emplacement : Wildlands / Abandoned Silver Mine / coffre 2/4.
+[COFFRE] [ ] #524 - Light Soulstone - Emplacement : Wildlands / Abandoned Silver Mine / coffre 3/4.
+[COFFRE] [ ] #525 - Inspiriting Plum - Emplacement : Wildlands / Abandoned Silver Mine / coffre 4/4.
+
+### Wildlands - Giff's Manse (4 coffres)
+Contexte : Tier 1: Oresrush.
+Itineraire de controle : Depuis l'entree de la sous-zone, ouvrir d'abord les embranchements et les etages lateraux, puis revenir au dernier point de sauvegarde avant la sortie.
+[COFFRE] [ ] #526 - Healing Grape - Emplacement : Wildlands / Giff's Manse / coffre 1/4.
+[COFFRE] [ ] #527 - Small Silver Ore - Emplacement : Wildlands / Giff's Manse / coffre 2/4.
+[COFFRE] [ ] #528 - Bronze Shield - Emplacement : Wildlands / Giff's Manse / coffre 3/4.
+[COFFRE] [ ] #529 - Leather Helm - Emplacement : Wildlands / Giff's Manse / coffre 4/4.
+
+### Wildlands - Silver Mine (Partitio Chapter 1) (1 coffre)
+Contexte : Tier 1: Oresrush.
+Itineraire de controle : Depuis le point d'entree ou de sauvegarde, vider les branches mortes avant de reprendre l'axe principal et de quitter la sous-zone.
+[COFFRE] [ ] #530 - Healing Grape - Emplacement : Wildlands / Silver Mine (Partitio Chapter 1) / coffre 1/1.
+
+### Wildlands - Crackridge (2 coffres)
+Contexte : Tier 2: Crackridge.
+Itineraire de controle : Depuis le point d'entree ou de sauvegarde, vider les branches mortes avant de reprendre l'axe principal et de quitter la sous-zone.
+[COFFRE] [ ] #531 - Olive of Life (M) - Emplacement : Wildlands / Crackridge / coffre 1/2.
+[COFFRE] [ ] #532 - From the Far Reaches of Hell (Guarded: Scholar 6*) - Emplacement : Wildlands / Crackridge / coffre 2/2.
+
+### Wildlands - Southern Crackridge Wilds (4 coffres)
+Contexte : Tier 2: Crackridge.
+Itineraire de controle : Depuis le point d'entree ou de sauvegarde, vider les branches mortes avant de reprendre l'axe principal et de quitter la sous-zone.
+[COFFRE] [ ] #533 - Empowering Lychee - Emplacement : Wildlands / Southern Crackridge Wilds / coffre 1/4.
+[COFFRE] [ ] #534 - Herb of Clamor - Emplacement : Wildlands / Southern Crackridge Wilds / coffre 2/4.
+[COFFRE] [ ] #535 - $6,400 - Emplacement : Wildlands / Southern Crackridge Wilds / coffre 3/4.
+[COFFRE] [ ] #536 - Shadow Soulstone (M) - Emplacement : Wildlands / Southern Crackridge Wilds / coffre 4/4.
+
+### Wildlands - Western Crackridge Wilds (6 coffres)
+Contexte : Tier 2: Crackridge.
+Itineraire de controle : Depuis le point d'entree ou de sauvegarde, vider les branches mortes avant de reprendre l'axe principal et de quitter la sous-zone.
+[COFFRE] [ ] #537 - Inspiriting Plum Basket - Emplacement : Wildlands / Western Crackridge Wilds / coffre 1/6.
+[COFFRE] [ ] #538 - Olive of Life - Emplacement : Wildlands / Western Crackridge Wilds / coffre 2/6.
+[COFFRE] [ ] #539 - Headgear - Emplacement : Wildlands / Western Crackridge Wilds / coffre 3/6.
+[COFFRE] [ ] #540 - Bone Mail - Emplacement : Wildlands / Western Crackridge Wilds / coffre 4/6.
+[COFFRE] [ ] #541 - $8,500 - Emplacement : Wildlands / Western Crackridge Wilds / coffre 5/6.
+[COFFRE] [ ] #542 - Thunder Soulstone (M) - Emplacement : Wildlands / Western Crackridge Wilds / coffre 6/6.
+
+### Wildlands - Unfinished Tunnel (8 coffres)
+Contexte : Tier 2: Crackridge.
+Itineraire de controle : Depuis l'entree de la sous-zone, ouvrir d'abord les embranchements et les etages lateraux, puis revenir au dernier point de sauvegarde avant la sortie.
+[COFFRE] [ ] #543 - $2,100 - Emplacement : Wildlands / Unfinished Tunnel / coffre 1/8.
+[COFFRE] [ ] #544 - Revitalizing Jam - Emplacement : Wildlands / Unfinished Tunnel / coffre 2/8.
+[COFFRE] [ ] #545 - Olive of Life (M) - Emplacement : Wildlands / Unfinished Tunnel / coffre 3/8.
+[COFFRE] [ ] #546 - Natural Magnetite - Emplacement : Wildlands / Unfinished Tunnel / coffre 4/8.
+[COFFRE] [ ] #547 - Clarity Stone - Emplacement : Wildlands / Unfinished Tunnel / coffre 5/8.
+[COFFRE] [ ] #548 - $13,500 - Emplacement : Wildlands / Unfinished Tunnel / coffre 6/8.
+[COFFRE] [ ] #549 - Herb Elixir - Emplacement : Wildlands / Unfinished Tunnel / coffre 7/8.
+[COFFRE] [ ] #550 - Enfeebling Amulet - Emplacement : Wildlands / Unfinished Tunnel / coffre 8/8.
+
+### Wildlands - Abandoned Road (3 coffres)
+Contexte : Tier 2: Crackridge.
+Itineraire de controle : Depuis le point d'entree ou de sauvegarde, vider les branches mortes avant de reprendre l'axe principal et de quitter la sous-zone.
+[COFFRE] [ ] #551 - Healing Grape (M) - Emplacement : Wildlands / Abandoned Road / coffre 1/3.
+[COFFRE] [ ] #552 - $9,200 - Emplacement : Wildlands / Abandoned Road / coffre 2/3.
+[COFFRE] [ ] #553 - Bottled Nightmares - Emplacement : Wildlands / Abandoned Road / coffre 3/3.
+
+### Wildlands - Fellsun Ruins (3 coffres)
+Contexte : Tier 2: Crackridge.
+Itineraire de controle : Depuis l'entree de la sous-zone, ouvrir d'abord les embranchements et les etages lateraux, puis revenir au dernier point de sauvegarde avant la sortie.
+[COFFRE] [ ] #554 - Energizing Pomegranate (L) - Emplacement : Wildlands / Fellsun Ruins / coffre 1/3.
+[COFFRE] [ ] #555 - Elemental Robe - Emplacement : Wildlands / Fellsun Ruins / coffre 2/3.
+[COFFRE] [ ] #556 - Jade Staff - Emplacement : Wildlands / Fellsun Ruins / coffre 3/3.
+
+### Wildlands - Path to the Bed of the Titan (4 coffres)
+Contexte : Tier 2: Crackridge.
+Itineraire de controle : Depuis le point d'entree ou de sauvegarde, vider les branches mortes avant de reprendre l'axe principal et de quitter la sous-zone.
+[COFFRE] [ ] #557 - Energizing Pomegranate (M) - Emplacement : Wildlands / Path to the Bed of the Titan / coffre 1/4.
+[COFFRE] [ ] #558 - Protective Bracelet - Emplacement : Wildlands / Path to the Bed of the Titan / coffre 2/4.
+[COFFRE] [ ] #559 - Knight's Greatbow - Emplacement : Wildlands / Path to the Bed of the Titan / coffre 3/4.
+[COFFRE] [ ] #560 - Fire Amulet - Emplacement : Wildlands / Path to the Bed of the Titan / coffre 4/4.
+
+### Wildlands - Gravell (1 coffre)
+Contexte : Tier 3: Gravell.
+Itineraire de controle : Depuis le point d'entree ou de sauvegarde, vider les branches mortes avant de reprendre l'axe principal et de quitter la sous-zone.
+[COFFRE] [ ] #561 - Quartz Shield - Emplacement : Wildlands / Gravell / coffre 1/1.
+
+### Wildlands - Western Gravell Wilds (6 coffres)
+Contexte : Tier 3: Gravell.
+Itineraire de controle : Depuis le point d'entree ou de sauvegarde, vider les branches mortes avant de reprendre l'axe principal et de quitter la sous-zone.
+[COFFRE] [ ] #562 - Energizing Pomegranate (L) - Emplacement : Wildlands / Western Gravell Wilds / coffre 1/6.
+[COFFRE] [ ] #563 - Bottle of Blinding Dust - Emplacement : Wildlands / Western Gravell Wilds / coffre 2/6.
+[COFFRE] [ ] #564 - Thunder Soulstone (L) - Emplacement : Wildlands / Western Gravell Wilds / coffre 3/6.
+[COFFRE] [ ] #565 - Herb of Serenity - Emplacement : Wildlands / Western Gravell Wilds / coffre 4/6.
+[COFFRE] [ ] #566 - Starsplitter - Emplacement : Wildlands / Western Gravell Wilds / coffre 5/6.
+[COFFRE] [ ] #567 - $23,500 - Emplacement : Wildlands / Western Gravell Wilds / coffre 6/6.
+
+### Wildlands - Path to the Duskruin Shrine (3 coffres)
+Contexte : Tier 3: Gravell.
+Itineraire de controle : Depuis l'entree de la sous-zone, ouvrir d'abord les embranchements et les etages lateraux, puis revenir au dernier point de sauvegarde avant la sortie.
+[COFFRE] [ ] #568 - Healing Grape Bunch - Emplacement : Wildlands / Path to the Duskruin Shrine / coffre 1/3.
+[COFFRE] [ ] #569 - Antique Coat - Emplacement : Wildlands / Path to the Duskruin Shrine / coffre 2/3.
+[COFFRE] [ ] #570 - Energizing Pomegranate (M) - Emplacement : Wildlands / Path to the Duskruin Shrine / coffre 3/3.
+
+### Wildlands - Ivory Ravine (4 coffres)
+Contexte : Tier 3: Gravell.
+Itineraire de controle : Depuis le point d'entree ou de sauvegarde, vider les branches mortes avant de reprendre l'axe principal et de quitter la sous-zone.
+[COFFRE] [ ] #571 - Lost Tribe's Axe - Emplacement : Wildlands / Ivory Ravine / coffre 1/4.
+[COFFRE] [ ] #572 - Bottle of Befuddling Dust - Emplacement : Wildlands / Ivory Ravine / coffre 2/4.
+[COFFRE] [ ] #573 - Evening Mist - Emplacement : Wildlands / Ivory Ravine / coffre 3/4.
+[COFFRE] [ ] #574 - Giant's Club - Emplacement : Wildlands / Ivory Ravine / coffre 4/4.
+
+### Wildlands - Duskruin Shrine (4 coffres)
+Contexte : Tier 3: Gravell.
+Itineraire de controle : Depuis l'entree de la sous-zone, ouvrir d'abord les embranchements et les etages lateraux, puis revenir au dernier point de sauvegarde avant la sortie.
+[COFFRE] [ ] #575 - Olive of Life (L) - Emplacement : Wildlands / Duskruin Shrine / coffre 1/4.
+[COFFRE] [ ] #576 - Critical Necklace - Emplacement : Wildlands / Duskruin Shrine / coffre 2/4.
+[COFFRE] [ ] #577 - Ice Sousltone (L) - Emplacement : Wildlands / Duskruin Shrine / coffre 3/4.
+[COFFRE] [ ] #578 - $25,000 - Emplacement : Wildlands / Duskruin Shrine / coffre 4/4.
+
+### Wildlands - Duskruin Shrine: Depths (4 coffres)
+Contexte : Tier 3: Gravell.
+Itineraire de controle : Depuis l'entree de la sous-zone, ouvrir d'abord les embranchements et les etages lateraux, puis revenir au dernier point de sauvegarde avant la sortie.
+[COFFRE] [ ] #579 - Empowering Lychee (L) - Emplacement : Wildlands / Duskruin Shrine: Depths / coffre 1/4.
+[COFFRE] [ ] #580 - Abyssal Rod - Emplacement : Wildlands / Duskruin Shrine: Depths / coffre 2/4.
+[COFFRE] [ ] #581 - Healing Grape Bunch - Emplacement : Wildlands / Duskruin Shrine: Depths / coffre 3/4.
+[COFFRE] [ ] #582 - Shadow Soulstone (L) - Emplacement : Wildlands / Duskruin Shrine: Depths / coffre 4/4.
+
+### Sundering Sea - On the Water (15 coffres)
+Contexte : Tier 3: Gravell.
+Itineraire de controle : Depuis le point d'entree ou de sauvegarde, vider les branches mortes avant de reprendre l'axe principal et de quitter la sous-zone.
+[COFFRE] [ ] #583 - Fortune Wand - Emplacement : Sundering Sea / On the Water / coffre 1/15.
+[COFFRE] [ ] #584 - Diffusing Serum - Emplacement : Sundering Sea / On the Water / coffre 2/15.
+[COFFRE] [ ] #585 - Double Tomahawk - Emplacement : Sundering Sea / On the Water / coffre 3/15.
+[COFFRE] [ ] #586 - Gimmick Goggles - Emplacement : Sundering Sea / On the Water / coffre 4/15.
+[COFFRE] [ ] #587 - Beastly Scarf - Emplacement : Sundering Sea / On the Water / coffre 5/15.
+[COFFRE] [ ] #588 - Sunken Gold Statue - Emplacement : Sundering Sea / On the Water / coffre 6/15.
+[COFFRE] [ ] #589 - Olive of Life (L) - Emplacement : Sundering Sea / On the Water / coffre 7/15.
+[COFFRE] [ ] #590 - Platinum Shield - Emplacement : Sundering Sea / On the Water / coffre 8/15.
+[COFFRE] [ ] #591 - Invigorating Nut (L) - Emplacement : Sundering Sea / On the Water / coffre 9/15.
+[COFFRE] [ ] #592 - Gold Nugget - Emplacement : Sundering Sea / On the Water / coffre 10/15.
+[COFFRE] [ ] #593 - Exp Augmentor - Emplacement : Sundering Sea / On the Water / coffre 11/15.
+[COFFRE] [ ] #594 - Dual Leaf - Emplacement : Sundering Sea / On the Water / coffre 12/15.
+[COFFRE] [ ] #595 - Strengthening Serum - Emplacement : Sundering Sea / On the Water / coffre 13/15.
+[COFFRE] [ ] #596 - $20,000 - Emplacement : Sundering Sea / On the Water / coffre 14/15.
+[COFFRE] [ ] #597 - Reinforcing Jam - Emplacement : Sundering Sea / On the Water / coffre 15/15.
+
+### Sundering Sea - Behind Scourge of the Sea mini-boss (5 coffres)
+Contexte : Tier 3: Gravell.
+Itineraire de controle : Depuis le point d'entree ou de sauvegarde, vider les branches mortes avant de reprendre l'axe principal et de quitter la sous-zone.
+[COFFRE] [ ] #598 - Leviathan Greatbow - Emplacement : Sundering Sea / Behind Scourge of the Sea mini-boss / coffre 1/5.
+[COFFRE] [ ] #599 - Herb of Serenity - Emplacement : Sundering Sea / Behind Scourge of the Sea mini-boss / coffre 2/5.
+[COFFRE] [ ] #600 - Inspiriting Plum Basket - Emplacement : Sundering Sea / Behind Scourge of the Sea mini-boss / coffre 3/5.
+[COFFRE] [ ] #601 - Sublime Ornamental Armor - Emplacement : Sundering Sea / Behind Scourge of the Sea mini-boss / coffre 4/5.
+[COFFRE] [ ] #602 - Dual Flower - Emplacement : Sundering Sea / Behind Scourge of the Sea mini-boss / coffre 5/5.
+
+### Sundering Sea - Lighthouse Island (2 coffres)
+Contexte : Tier 3: Gravell.
+Itineraire de controle : Depuis le point d'entree ou de sauvegarde, vider les branches mortes avant de reprendre l'axe principal et de quitter la sous-zone.
+[COFFRE] [ ] #603 - Octopuff Pot - Emplacement : Sundering Sea / Lighthouse Island / coffre 1/2.
+[COFFRE] [ ] #604 - $12,000 - Emplacement : Sundering Sea / Lighthouse Island / coffre 2/2.
+
+### Sundering Sea - Nameless Isle (4 coffres)
+Contexte : Tier 3: Gravell.
+Itineraire de controle : Depuis le point d'entree ou de sauvegarde, vider les branches mortes avant de reprendre l'axe principal et de quitter la sous-zone.
+[COFFRE] [ ] #605 - Conscious Stone - Emplacement : Sundering Sea / Nameless Isle / coffre 1/4.
+[COFFRE] [ ] #606 - Healing Grape Bunch - Emplacement : Sundering Sea / Nameless Isle / coffre 2/4.
+[COFFRE] [ ] #607 - Quartz Axe - Emplacement : Sundering Sea / Nameless Isle / coffre 3/4.
+[COFFRE] [ ] #608 - Finisher's Claws - Emplacement : Sundering Sea / Nameless Isle / coffre 4/4.
+
+### Sundering Sea - Shipwreck of the Empress (6 coffres)
+Contexte : Tier 3: Gravell.
+Itineraire de controle : Depuis l'entree de la sous-zone, ouvrir d'abord les embranchements et les etages lateraux, puis revenir au dernier point de sauvegarde avant la sortie.
+[COFFRE] [ ] #609 - Inspiriting Plum Basket - Emplacement : Sundering Sea / Shipwreck of the Empress / coffre 1/6.
+[COFFRE] [ ] #610 - Lost Tribe's Spear - Emplacement : Sundering Sea / Shipwreck of the Empress / coffre 2/6.
+[COFFRE] [ ] #611 - Thunder Soulstone (L) - Emplacement : Sundering Sea / Shipwreck of the Empress / coffre 3/6.
+[COFFRE] [ ] #612 - Cursed Shield - Emplacement : Sundering Sea / Shipwreck of the Empress / coffre 4/6.
+[COFFRE] [ ] #613 - Master Thief's Sapphire Stone - Emplacement : Sundering Sea / Shipwreck of the Empress / coffre 5/6.
+[COFFRE] [ ] #614 - Rusty Dagger - Emplacement : Sundering Sea / Shipwreck of the Empress / coffre 6/6.
+
+### Sundering Sea - Curious Nest (1 coffre)
+Contexte : Tier 3: Gravell.
+Itineraire de controle : Depuis le point d'entree ou de sauvegarde, vider les branches mortes avant de reprendre l'axe principal et de quitter la sous-zone.
+[COFFRE] [ ] #615 - Herb of Serenity - Emplacement : Sundering Sea / Curious Nest / coffre 1/1.
+
+### Sundering Sea - Behind Tyrannodrake (5 coffres)
+Contexte : Tier 3: Gravell.
+Itineraire de controle : Depuis le point d'entree ou de sauvegarde, vider les branches mortes avant de reprendre l'axe principal et de quitter la sous-zone.
+[COFFRE] [ ] #616 - Lost Tribe's Bow - Emplacement : Sundering Sea / Behind Tyrannodrake / coffre 1/5.
+[COFFRE] [ ] #617 - Decaying Dragon's Essence - Emplacement : Sundering Sea / Behind Tyrannodrake / coffre 2/5.
+[COFFRE] [ ] #618 - Fang of Ferocity - Emplacement : Sundering Sea / Behind Tyrannodrake / coffre 3/5.
+[COFFRE] [ ] #619 - Tornado Glaive - Emplacement : Sundering Sea / Behind Tyrannodrake / coffre 4/5.
+[COFFRE] [ ] #620 - Decaying Dragon's Essence - Emplacement : Sundering Sea / Behind Tyrannodrake / coffre 5/5.
+
+### Sundering Sea - The Lost Isle (7 coffres)
+Contexte : Tier 3: Gravell.
+Itineraire de controle : Depuis le point d'entree ou de sauvegarde, vider les branches mortes avant de reprendre l'axe principal et de quitter la sous-zone.
+[COFFRE] [ ] #621 - Ancient Cursed Talisman - Emplacement : Sundering Sea / The Lost Isle / coffre 1/7.
+[COFFRE] [ ] #622 - Ancient Cursed Talisman - Emplacement : Sundering Sea / The Lost Isle / coffre 2/7.
+[COFFRE] [ ] #623 - Blessing in Disguise - Emplacement : Sundering Sea / The Lost Isle / coffre 3/7.
+[COFFRE] [ ] #624 - Ancient Cursed Talisman - Emplacement : Sundering Sea / The Lost Isle / coffre 4/7.
+[COFFRE] [ ] #625 - Ancient Cursed Talisman - Emplacement : Sundering Sea / The Lost Isle / coffre 5/7.
+[COFFRE] [ ] #626 - Great Sage's Staff - Emplacement : Sundering Sea / The Lost Isle / coffre 6/7.
+[COFFRE] [ ] #627 - Lost Tribe's Dagger - Emplacement : Sundering Sea / The Lost Isle / coffre 7/7.
+
+### Sundering Sea - ??? (Gate of Finis) (5 coffres)
+Contexte : Tier 3: Gravell.
+Itineraire de controle : Depuis le point d'entree ou de sauvegarde, vider les branches mortes avant de reprendre l'axe principal et de quitter la sous-zone.
+[COFFRE] [ ] #628 - Herb-of-Grace Bud - Emplacement : Sundering Sea / ??? (Gate of Finis) / coffre 1/5.
+[COFFRE] [ ] #629 - Herb-of-Grace Bud - Emplacement : Sundering Sea / ??? (Gate of Finis) / coffre 2/5.
+[COFFRE] [ ] #630 - Herb-of-Grace Bud - Emplacement : Sundering Sea / ??? (Gate of Finis) / coffre 3/5.
+[COFFRE] [ ] #631 - Skystone - Emplacement : Sundering Sea / ??? (Gate of Finis) / coffre 4/5.
+[COFFRE] [ ] #632 - Dragon's Scarf - Emplacement : Sundering Sea / ??? (Gate of Finis) / coffre 5/5.
+
+CONTROLE ANNEXE A : 632/632 coffres - compteur independant des succes Steam.
+ANNEXE B - REGISTRE DES 237 OBJETS CACHES
+==========================================
+
+Cette annexe suit les objets caches de la matrice de controle. Le repere
+region / sous-zone est volontairement separe du compteur des coffres : un
+objet cache ne devient jamais un coffre supplementaire. Les lignes H001-H237
+servent a cocher la collection exhaustive et a revenir dans la bonne zone.
+
++### Winterlands - Frigid Isle: Yard (2 objets caches)
+Contexte : Osvald - Chapter 1&2 (can return to island after completing Osvald's story).
+[COFFRE] [ ] H001 - Refreshing Jam - Objet cache : Winterlands / Frigid Isle: Yard / repere 1/2 de la sous-zone.
+[COFFRE] [ ] H002 - Wheat Bread - Objet cache : Winterlands / Frigid Isle: Yard / repere 2/2 de la sous-zone.
+
+### Winterlands - Frigid Isle: Prison (1 objet cache)
+Contexte : Osvald - Chapter 1&2 (can return to island after completing Osvald's story).
+[COFFRE] [ ] H003 - Tough Nut - Objet cache : Winterlands / Frigid Isle: Prison / repere 1/1 de la sous-zone.
+
+### Winterlands - Cape Cold (4 objets caches)
+Contexte : Tier 1: Cape Cold.
+[COFFRE] [ ] H004 - War Glaive - Objet cache : Winterlands / Cape Cold / repere 1/4 de la sous-zone.
+[COFFRE] [ ] H005 - Lily of the Light - Objet cache : Winterlands / Cape Cold / repere 2/4 de la sous-zone.
+[COFFRE] [ ] H006 - Magic Nut - Objet cache : Winterlands / Cape Cold / repere 3/4 de la sous-zone.
+[COFFRE] [ ] H007 - Energizing Pomegranate - Objet cache : Winterlands / Cape Cold / repere 4/4 de la sous-zone.
+
+### Winterlands - Winterbloom (6 objets caches)
+Contexte : Tier 2: Winterbloom.
+[COFFRE] [ ] H008 - Pomegranate Leaf - Objet cache : Winterlands / Winterbloom / repere 1/6 de la sous-zone.
+[COFFRE] [ ] H009 - Beast Liver - Objet cache : Winterlands / Winterbloom / repere 2/6 de la sous-zone.
+[COFFRE] [ ] H010 - Herb of Healing - Objet cache : Winterlands / Winterbloom / repere 3/6 de la sous-zone.
+[COFFRE] [ ] H011 - Silver Sword - Objet cache : Winterlands / Winterbloom / repere 4/6 de la sous-zone.
+[COFFRE] [ ] H012 - Revitalizing Jam - Objet cache : Winterlands / Winterbloom / repere 5/6 de la sous-zone.
+[COFFRE] [ ] H013 - Stone - Objet cache : Winterlands / Winterbloom / repere 6/6 de la sous-zone.
+
+### Winterlands - Winterbloom: Thieves' Quarter (4 objets caches)
+Contexte : Tier 2: Winterbloom.
+[COFFRE] [ ] H014 - Light Nut - Objet cache : Winterlands / Winterbloom: Thieves' Quarter / repere 1/4 de la sous-zone.
+[COFFRE] [ ] H015 - Spiked Shield - Objet cache : Winterlands / Winterbloom: Thieves' Quarter / repere 2/4 de la sous-zone.
+[COFFRE] [ ] H016 - Fumbling Flower - Objet cache : Winterlands / Winterbloom: Thieves' Quarter / repere 3/4 de la sous-zone.
+[COFFRE] [ ] H017 - Wakeful Stone - Objet cache : Winterlands / Winterbloom: Thieves' Quarter / repere 4/4 de la sous-zone.
+
+### Winterlands - Stormhail (7 objets caches)
+Contexte : Tier 3: Stormhail.
+[COFFRE] [ ] H018 - Knight's Armor - Objet cache : Winterlands / Stormhail / repere 1/7 de la sous-zone.
+[COFFRE] [ ] H019 - Sharp Nut (L) - Objet cache : Winterlands / Stormhail / repere 2/7 de la sous-zone.
+[COFFRE] [ ] H020 - Inspiriting Plum - Objet cache : Winterlands / Stormhail / repere 3/7 de la sous-zone.
+[COFFRE] [ ] H021 - Light Coin Pouch - Objet cache : Winterlands / Stormhail / repere 4/7 de la sous-zone.
+[COFFRE] [ ] H022 - Fire Soulstone - Objet cache : Winterlands / Stormhail / repere 5/7 de la sous-zone.
+[COFFRE] [ ] H023 - Expert's Bow - Objet cache : Winterlands / Stormhail / repere 6/7 de la sous-zone.
+[COFFRE] [ ] H024 - Olive of Life (L) - Objet cache : Winterlands / Stormhail / repere 7/7 de la sous-zone.
+
+### Winterlands - Stormhail: Sacred Guard Headquarters (3 objets caches)
+Contexte : Tier 3: Stormhail.
+[COFFRE] [ ] H025 - Strengthening Serum - Objet cache : Winterlands / Stormhail: Sacred Guard Headquarters / repere 1/3 de la sous-zone.
+[COFFRE] [ ] H026 - Lightning Amulet - Objet cache : Winterlands / Stormhail: Sacred Guard Headquarters / repere 2/3 de la sous-zone.
+[COFFRE] [ ] H027 - Antique Coin - Objet cache : Winterlands / Stormhail: Sacred Guard Headquarters / repere 3/3 de la sous-zone.
+
+### Winterlands - Stormhail: Castle Mei (2 objets caches)
+Contexte : Tier 3: Stormhail.
+[COFFRE] [ ] H028 - Bottle of Befuddling Dust - Objet cache : Winterlands / Stormhail: Castle Mei / repere 1/2 de la sous-zone.
+[COFFRE] [ ] H029 - Herb of Awakening - Objet cache : Winterlands / Stormhail: Castle Mei / repere 2/2 de la sous-zone.
+
+### Crestlands - Flamechurch (7 objets caches)
+Contexte : Tier 1: Flamechurch.
+[COFFRE] [ ] H030 - Warding Leaf - Objet cache : Crestlands / Flamechurch / repere 1/7 de la sous-zone.
+[COFFRE] [ ] H031 - Aged Wine - Objet cache : Crestlands / Flamechurch / repere 2/7 de la sous-zone.
+[COFFRE] [ ] H032 - Fumbling Flower - Objet cache : Crestlands / Flamechurch / repere 3/7 de la sous-zone.
+[COFFRE] [ ] H033 - Energizing Pomegranate (M) - Objet cache : Crestlands / Flamechurch / repere 4/7 de la sous-zone.
+[COFFRE] [ ] H034 - Feathered Hat - Objet cache : Crestlands / Flamechurch / repere 5/7 de la sous-zone.
+[COFFRE] [ ] H035 - Tree Nut - Objet cache : Crestlands / Flamechurch / repere 6/7 de la sous-zone.
+[COFFRE] [ ] H036 - Herb of Clamor - Objet cache : Crestlands / Flamechurch / repere 7/7 de la sous-zone.
+
+### Crestlands - Flamechurch: Cathedral Entrance (3 objets caches)
+Contexte : Tier 1: Flamechurch.
+[COFFRE] [ ] H037 - Candy - Objet cache : Crestlands / Flamechurch: Cathedral Entrance / repere 1/3 de la sous-zone.
+[COFFRE] [ ] H038 - Resistant Nut - Objet cache : Crestlands / Flamechurch: Cathedral Entrance / repere 2/3 de la sous-zone.
+[COFFRE] [ ] H039 - Fire Soulstone (M) - Objet cache : Crestlands / Flamechurch: Cathedral Entrance / repere 3/3 de la sous-zone.
+
+### Crestlands - Flamechurch: Cathedral (2 objets caches)
+Contexte : Tier 1: Flamechurch.
+[COFFRE] [ ] H040 - Herb of Light - Objet cache : Crestlands / Flamechurch: Cathedral / repere 1/2 de la sous-zone.
+[COFFRE] [ ] H041 - Buckler - Objet cache : Crestlands / Flamechurch: Cathedral / repere 2/2 de la sous-zone.
+
+### Crestlands - Montwise (5 objets caches)
+Contexte : Tier 2: Montwise.
+[COFFRE] [ ] H042 - Crested Greatshield - Objet cache : Crestlands / Montwise / repere 1/5 de la sous-zone.
+[COFFRE] [ ] H043 - Heavy Book - Objet cache : Crestlands / Montwise / repere 2/5 de la sous-zone.
+[COFFRE] [ ] H044 - Wind Soulstone (L) - Objet cache : Crestlands / Montwise / repere 3/5 de la sous-zone.
+[COFFRE] [ ] H045 - Stimulating Earring (Guarded by Former Champion) - Objet cache : Crestlands / Montwise / repere 4/5 de la sous-zone.
+[COFFRE] [ ] H046 - Blusterbloom - Objet cache : Crestlands / Montwise / repere 5/5 de la sous-zone.
+
+### Crestlands - Montwise: Library (3 objets caches)
+Contexte : Tier 2: Montwise.
+[COFFRE] [ ] H047 - Olive of Life (L) - Objet cache : Crestlands / Montwise: Library / repere 1/3 de la sous-zone.
+[COFFRE] [ ] H048 - Superior Jerky - Objet cache : Crestlands / Montwise: Library / repere 2/3 de la sous-zone.
+[COFFRE] [ ] H049 - Fur Robe - Objet cache : Crestlands / Montwise: Library / repere 3/3 de la sous-zone.
+
+### Crestlands - Montwise: Underground Arena (2 objets caches)
+Contexte : Tier 2: Montwise.
+[COFFRE] [ ] H050 - Energizing Pomegranate (M) - Objet cache : Crestlands / Montwise: Underground Arena / repere 1/2 de la sous-zone.
+[COFFRE] [ ] H051 - Sharp Nut - Objet cache : Crestlands / Montwise: Underground Arena / repere 2/2 de la sous-zone.
+
+### Crestlands - Merry Hills (7 objets caches)
+Contexte : Tier 3: Merry Hills.
+[COFFRE] [ ] H052 - Slippery Nut - Objet cache : Crestlands / Merry Hills / repere 1/7 de la sous-zone.
+[COFFRE] [ ] H053 - Articulate Stone - Objet cache : Crestlands / Merry Hills / repere 2/7 de la sous-zone.
+[COFFRE] [ ] H054 - Whimsical Leaf - Objet cache : Crestlands / Merry Hills / repere 3/7 de la sous-zone.
+[COFFRE] [ ] H055 - Sticky Flower - Objet cache : Crestlands / Merry Hills / repere 4/7 de la sous-zone.
+[COFFRE] [ ] H056 - Herb of Healing - Objet cache : Crestlands / Merry Hills / repere 5/7 de la sous-zone.
+[COFFRE] [ ] H057 - Red Apple - Objet cache : Crestlands / Merry Hills / repere 6/7 de la sous-zone.
+[COFFRE] [ ] H058 - Forgotten Hat - Objet cache : Crestlands / Merry Hills / repere 7/7 de la sous-zone.
+
+### Crestlands - Merry Hills: Shrine Entrance (8 objets caches)
+Contexte : Tier 3: Merry Hills.
+[COFFRE] [ ] H059 - Handkerchief - Objet cache : Crestlands / Merry Hills: Shrine Entrance / repere 1/8 de la sous-zone.
+[COFFRE] [ ] H060 - Ornate Costume - Objet cache : Crestlands / Merry Hills: Shrine Entrance / repere 2/8 de la sous-zone.
+[COFFRE] [ ] H061 - Herb of Clarity - Objet cache : Crestlands / Merry Hills: Shrine Entrance / repere 3/8 de la sous-zone.
+[COFFRE] [ ] H062 - Healing Grape (M) - Objet cache : Crestlands / Merry Hills: Shrine Entrance / repere 4/8 de la sous-zone.
+[COFFRE] [ ] H063 - Bronze Knife - Objet cache : Crestlands / Merry Hills: Shrine Entrance / repere 5/8 de la sous-zone.
+[COFFRE] [ ] H064 - Energizing Pomegranate (L) - Objet cache : Crestlands / Merry Hills: Shrine Entrance / repere 6/8 de la sous-zone.
+[COFFRE] [ ] H065 - Sprightly Earring - Objet cache : Crestlands / Merry Hills: Shrine Entrance / repere 7/8 de la sous-zone.
+[COFFRE] [ ] H066 - Olive of Life - Objet cache : Crestlands / Merry Hills: Shrine Entrance / repere 8/8 de la sous-zone.
+
+### Brightlands - New Delsta (8 objets caches)
+Contexte : Tier 1: New Delsta.
+[COFFRE] [ ] H067 - Spear - Objet cache : Brightlands / New Delsta / repere 1/8 de la sous-zone.
+[COFFRE] [ ] H068 - Forget-Me-Do - Objet cache : Brightlands / New Delsta / repere 2/8 de la sous-zone.
+[COFFRE] [ ] H069 - Spirit Scimitar - Objet cache : Brightlands / New Delsta / repere 3/8 de la sous-zone.
+[COFFRE] [ ] H070 - Refreshing Jam - Objet cache : Brightlands / New Delsta / repere 4/8 de la sous-zone.
+[COFFRE] [ ] H071 - Bottle of Poison Dust - Objet cache : Brightlands / New Delsta / repere 5/8 de la sous-zone.
+[COFFRE] [ ] H072 - Gold Ring - Objet cache : Brightlands / New Delsta / repere 6/8 de la sous-zone.
+[COFFRE] [ ] H073 - Herb of Clarity (after starting Agnea's Chapter 2) - Objet cache : Brightlands / New Delsta / repere 7/8 de la sous-zone.
+[COFFRE] [ ] H074 - Traveler's Mantle - Objet cache : Brightlands / New Delsta / repere 8/8 de la sous-zone.
+
+### Brightlands - New Delsta: Backstreets (4 objets caches)
+Contexte : Tier 1: New Delsta.
+[COFFRE] [ ] H075 - Herb of Awakening - Objet cache : Brightlands / New Delsta: Backstreets / repere 1/4 de la sous-zone.
+[COFFRE] [ ] H076 - Needle Dagger - Objet cache : Brightlands / New Delsta: Backstreets / repere 2/4 de la sous-zone.
+[COFFRE] [ ] H077 - Diffusing Serum - Objet cache : Brightlands / New Delsta: Backstreets / repere 3/4 de la sous-zone.
+[COFFRE] [ ] H078 - Unerring Earring - Objet cache : Brightlands / New Delsta: Backstreets / repere 4/4 de la sous-zone.
+
+### Brightlands - New Delsta: Game Parlor (3 objets caches)
+Contexte : Tier 1: New Delsta.
+[COFFRE] [ ] H079 - Olive of Life - Objet cache : Brightlands / New Delsta: Game Parlor / repere 1/3 de la sous-zone.
+[COFFRE] [ ] H080 - Inspiriting Plum - Objet cache : Brightlands / New Delsta: Game Parlor / repere 2/3 de la sous-zone.
+[COFFRE] [ ] H081 - Fire Soulstone - Objet cache : Brightlands / New Delsta: Game Parlor / repere 3/3 de la sous-zone.
+
+### Brightlands - Clockbank (5 objets caches)
+Contexte : Tier 2: Clockbank.
+[COFFRE] [ ] H082 - Invigorating Nut - Objet cache : Brightlands / Clockbank / repere 1/5 de la sous-zone.
+[COFFRE] [ ] H083 - Light Coin Pouch - Objet cache : Brightlands / Clockbank / repere 2/5 de la sous-zone.
+[COFFRE] [ ] H084 - Elemental Robe - Objet cache : Brightlands / Clockbank / repere 3/5 de la sous-zone.
+[COFFRE] [ ] H085 - Herb of Revival - Objet cache : Brightlands / Clockbank / repere 4/5 de la sous-zone.
+[COFFRE] [ ] H086 - Calming Stone - Objet cache : Brightlands / Clockbank / repere 5/5 de la sous-zone.
+
+### Brightlands - Clockbank: Industrial District (7 objets caches)
+Contexte : Tier 2: Clockbank.
+[COFFRE] [ ] H087 - Pomegranate Leaf - Objet cache : Brightlands / Clockbank: Industrial District / repere 1/7 de la sous-zone.
+[COFFRE] [ ] H088 - Bottle of Blinding Dust - Objet cache : Brightlands / Clockbank: Industrial District / repere 2/7 de la sous-zone.
+[COFFRE] [ ] H089 - Swordbreaker - Objet cache : Brightlands / Clockbank: Industrial District / repere 3/7 de la sous-zone.
+[COFFRE] [ ] H090 - Herb of Clamor - Objet cache : Brightlands / Clockbank: Industrial District / repere 4/7 de la sous-zone.
+[COFFRE] [ ] H091 - Shadow Soulstone (L) - Objet cache : Brightlands / Clockbank: Industrial District / repere 5/7 de la sous-zone.
+[COFFRE] [ ] H092 - Heavy Coin Pouch - Objet cache : Brightlands / Clockbank: Industrial District / repere 6/7 de la sous-zone.
+[COFFRE] [ ] H093 - Herb of Light - Objet cache : Brightlands / Clockbank: Industrial District / repere 7/7 de la sous-zone.
+
+### Brightlands - Abandoned Village (2 objets caches)
+Contexte : Tier 2: Clockbank.
+[COFFRE] [ ] H094 - Protective Earring - Objet cache : Brightlands / Abandoned Village / repere 1/2 de la sous-zone.
+[COFFRE] [ ] H095 - Diffusing Serum - Objet cache : Brightlands / Abandoned Village / repere 2/2 de la sous-zone.
+
+### Brightlands - Lostseed (5 objets caches)
+Contexte : Tier 3: Lostseed.
+[COFFRE] [ ] H096 - Herb of Revival - Objet cache : Brightlands / Lostseed / repere 1/5 de la sous-zone.
+[COFFRE] [ ] H097 - Dual Flower - Objet cache : Brightlands / Lostseed / repere 2/5 de la sous-zone.
+[COFFRE] [ ] H098 - Old Cloth - Objet cache : Brightlands / Lostseed / repere 3/5 de la sous-zone.
+[COFFRE] [ ] H099 - Dazzling Artwork - Objet cache : Brightlands / Lostseed / repere 4/5 de la sous-zone.
+[COFFRE] [ ] H100 - Ancient Staff - Objet cache : Brightlands / Lostseed / repere 5/5 de la sous-zone.
+
+### Toto'haha - Beasting Village (7 objets caches)
+Contexte : Tier 1: Beasting Village.
+[COFFRE] [ ] H101 - Leather Buckler - Objet cache : Toto'haha / Beasting Village / repere 1/7 de la sous-zone.
+[COFFRE] [ ] H102 - Herb of Awakening - Objet cache : Toto'haha / Beasting Village / repere 2/7 de la sous-zone.
+[COFFRE] [ ] H103 - Sprightly Ring - Objet cache : Toto'haha / Beasting Village / repere 3/7 de la sous-zone.
+[COFFRE] [ ] H104 - Quality Jerky - Objet cache : Toto'haha / Beasting Village / repere 4/7 de la sous-zone.
+[COFFRE] [ ] H105 - Stone - Objet cache : Toto'haha / Beasting Village / repere 5/7 de la sous-zone.
+[COFFRE] [ ] H106 - Healing Grape - Objet cache : Toto'haha / Beasting Village / repere 6/7 de la sous-zone.
+[COFFRE] [ ] H107 - Bottle of Poison Dust - Objet cache : Toto'haha / Beasting Village / repere 7/7 de la sous-zone.
+
+### Toto'haha - Tropu'hopu (7 objets caches)
+Contexte : Tier 2: Tropu'hopu.
+[COFFRE] [ ] H108 - Nourishing Nut (M) - Objet cache : Toto'haha / Tropu'hopu / repere 1/7 de la sous-zone.
+[COFFRE] [ ] H109 - Vivid Jewel - Objet cache : Toto'haha / Tropu'hopu / repere 2/7 de la sous-zone.
+[COFFRE] [ ] H110 - Pretty Pearl - Objet cache : Toto'haha / Tropu'hopu / repere 3/7 de la sous-zone.
+[COFFRE] [ ] H111 - Rare Stone - Objet cache : Toto'haha / Tropu'hopu / repere 4/7 de la sous-zone.
+[COFFRE] [ ] H112 - Handaxe - Objet cache : Toto'haha / Tropu'hopu / repere 5/7 de la sous-zone.
+[COFFRE] [ ] H113 - Inspiriting Plum Basket - Objet cache : Toto'haha / Tropu'hopu / repere 6/7 de la sous-zone.
+[COFFRE] [ ] H114 - Dreamy Flower - Objet cache : Toto'haha / Tropu'hopu / repere 7/7 de la sous-zone.
+
+### Toto'haha - Tropu'hopu: Floating Theater (3 objets caches)
+Contexte : Tier 2: Tropu'hopu.
+[COFFRE] [ ] H115 - Herb of Clarity - Objet cache : Toto'haha / Tropu'hopu: Floating Theater / repere 1/3 de la sous-zone.
+[COFFRE] [ ] H116 - Fool's Leaf - Objet cache : Toto'haha / Tropu'hopu: Floating Theater / repere 2/3 de la sous-zone.
+[COFFRE] [ ] H117 - Diffusing Serum - Objet cache : Toto'haha / Tropu'hopu: Floating Theater / repere 3/3 de la sous-zone.
+
+### Toto'haha - Nameless Village (5 objets caches)
+Contexte : Tier 3: Nameless Village.
+[COFFRE] [ ] H118 - Octopath Bowl - Objet cache : Toto'haha / Nameless Village / repere 1/5 de la sous-zone.
+[COFFRE] [ ] H119 - Wind soulstone (M) - Objet cache : Toto'haha / Nameless Village / repere 2/5 de la sous-zone.
+[COFFRE] [ ] H120 - Bone - Objet cache : Toto'haha / Nameless Village / repere 3/5 de la sous-zone.
+
+
++### Toto'haha - Nameless Village (5 objets caches)
+Contexte : Tier 3: Nameless Village.
+[COFFRE] [ ] H121 - Sharp Nut (M) - Objet cache : Toto'haha / Nameless Village / repere 4/5 de la sous-zone.
+[COFFRE] [ ] H122 - Warding Leaf - Objet cache : Toto'haha / Nameless Village / repere 5/5 de la sous-zone.
+
+### Harborlands - Canalbrine (5 objets caches)
+Contexte : Tier 1: Canalbrine.
+[COFFRE] [ ] H123 - Slumber Sage - Objet cache : Harborlands / Canalbrine / repere 1/5 de la sous-zone.
+[COFFRE] [ ] H124 - Inspiriting Plum - Objet cache : Harborlands / Canalbrine / repere 2/5 de la sous-zone.
+[COFFRE] [ ] H125 - Darkdelion - Objet cache : Harborlands / Canalbrine / repere 3/5 de la sous-zone.
+[COFFRE] [ ] H126 - Grape Leaf (Locked behind Temenos ch.2) - Objet cache : Harborlands / Canalbrine / repere 4/5 de la sous-zone.
+[COFFRE] [ ] H127 - Iron Axe - Objet cache : Harborlands / Canalbrine / repere 5/5 de la sous-zone.
+
+### Harborlands - Conning Creek (7 objets caches)
+Contexte : Tier 2: Conning Creek.
+[COFFRE] [ ] H128 - Iron Shield - Objet cache : Harborlands / Conning Creek / repere 1/7 de la sous-zone.
+[COFFRE] [ ] H129 - Olive of Life (M) - Objet cache : Harborlands / Conning Creek / repere 2/7 de la sous-zone.
+[COFFRE] [ ] H130 - War Glaive - Objet cache : Harborlands / Conning Creek / repere 3/7 de la sous-zone.
+[COFFRE] [ ] H131 - Gold Pocket Watch - Objet cache : Harborlands / Conning Creek / repere 4/7 de la sous-zone.
+[COFFRE] [ ] H132 - Grape Leaf - Objet cache : Harborlands / Conning Creek / repere 5/7 de la sous-zone.
+[COFFRE] [ ] H133 - Inspiriting Plum (M) - Objet cache : Harborlands / Conning Creek / repere 6/7 de la sous-zone.
+[COFFRE] [ ] H134 - Critical Ring - Objet cache : Harborlands / Conning Creek / repere 7/7 de la sous-zone.
+
+### Harborlands - Conning Creek: Harbor (2 objets caches)
+Contexte : Tier 2: Conning Creek.
+[COFFRE] [ ] H135 - Tough Nut (M) - Objet cache : Harborlands / Conning Creek: Harbor / repere 1/2 de la sous-zone.
+[COFFRE] [ ] H136 - Thunder Soulstone (Locked behind Ochette ch.2) - Objet cache : Harborlands / Conning Creek: Harbor / repere 2/2 de la sous-zone.
+
+### Harborlands - Roque Island (5 objets caches)
+Contexte : Tier 3: Roque Island.
+[COFFRE] [ ] H137 - Scrap Iron - Objet cache : Harborlands / Roque Island / repere 1/5 de la sous-zone.
+[COFFRE] [ ] H138 - Critical Nut (L) - Objet cache : Harborlands / Roque Island / repere 2/5 de la sous-zone.
+[COFFRE] [ ] H139 - Shadow Soulstone - Objet cache : Harborlands / Roque Island / repere 3/5 de la sous-zone.
+[COFFRE] [ ] H140 - Empowering Necklace - Objet cache : Harborlands / Roque Island / repere 4/5 de la sous-zone.
+[COFFRE] [ ] H141 - Empowering Lychee - Objet cache : Harborlands / Roque Island / repere 5/5 de la sous-zone.
+
+### Harborlands - Roque Island: Anchorage (4 objets caches)
+Contexte : Tier 3: Roque Island.
+[COFFRE] [ ] H142 - Bottle of Poison Dust - Objet cache : Harborlands / Roque Island: Anchorage / repere 1/4 de la sous-zone.
+[COFFRE] [ ] H143 - Herb of Healing - Objet cache : Harborlands / Roque Island: Anchorage / repere 2/4 de la sous-zone.
+[COFFRE] [ ] H144 - Enfeebling Flower - Objet cache : Harborlands / Roque Island: Anchorage / repere 3/4 de la sous-zone.
+[COFFRE] [ ] H145 - Olive of Life (M) - Objet cache : Harborlands / Roque Island: Anchorage / repere 4/4 de la sous-zone.
+
+### Hinoeuma - Ryu (5 objets caches)
+Contexte : Tier 1: Ryu.
+[COFFRE] [ ] H146 - Broadsword - Objet cache : Hinoeuma / Ryu / repere 1/5 de la sous-zone.
+[COFFRE] [ ] H147 - Empowering Lychee - Objet cache : Hinoeuma / Ryu / repere 2/5 de la sous-zone.
+[COFFRE] [ ] H148 - Rare Stone - Objet cache : Hinoeuma / Ryu / repere 3/5 de la sous-zone.
+[COFFRE] [ ] H149 - Plum Leaf - Objet cache : Hinoeuma / Ryu / repere 4/5 de la sous-zone.
+[COFFRE] [ ] H150 - Fortifying Nut - Objet cache : Hinoeuma / Ryu / repere 5/5 de la sous-zone.
+
+### Hinoeuma - Sai (5 objets caches)
+Contexte : Tier 2: Sai.
+[COFFRE] [ ] H151 - Healing Grape (M) - Objet cache : Hinoeuma / Sai / repere 1/5 de la sous-zone.
+[COFFRE] [ ] H152 - Olive of Life (M) - Objet cache : Hinoeuma / Sai / repere 2/5 de la sous-zone.
+[COFFRE] [ ] H153 - Herb of Light - Objet cache : Hinoeuma / Sai / repere 3/5 de la sous-zone.
+[COFFRE] [ ] H154 - Grape Leaf - Objet cache : Hinoeuma / Sai / repere 4/5 de la sous-zone.
+[COFFRE] [ ] H155 - Strong Axe - Objet cache : Hinoeuma / Sai / repere 5/5 de la sous-zone.
+
+### Hinoeuma - Sai: East District (7 objets caches)
+Contexte : Tier 2: Sai.
+[COFFRE] [ ] H156 - Antique Coin (sidequest: Plans from a Ruined Nation) - Objet cache : Hinoeuma / Sai: East District / repere 1/7 de la sous-zone.
+[COFFRE] [ ] H157 - Tough Nut - Objet cache : Hinoeuma / Sai: East District / repere 2/7 de la sous-zone.
+[COFFRE] [ ] H158 - Stuffed Toy - Objet cache : Hinoeuma / Sai: East District / repere 3/7 de la sous-zone.
+[COFFRE] [ ] H159 - Energizing Pomegrnate (L) - Objet cache : Hinoeuma / Sai: East District / repere 4/7 de la sous-zone.
+[COFFRE] [ ] H160 - Glass Marble - Objet cache : Hinoeuma / Sai: East District / repere 5/7 de la sous-zone.
+[COFFRE] [ ] H161 - Inspiriting Plum (M) - Objet cache : Hinoeuma / Sai: East District / repere 6/7 de la sous-zone.
+[COFFRE] [ ] H162 - Dancer's Journal (not from NPC) - Objet cache : Hinoeuma / Sai: East District / repere 7/7 de la sous-zone.
+
+### Hinoeuma - Hikari - Chapter 1 (4 objets caches)
+Contexte : Hikari - Chapter 1.
+[COFFRE] [ ] H163 - Critical Ring - Objet cache : Hinoeuma / Hikari - Chapter 1 / repere 1/4 de la sous-zone.
+[COFFRE] [ ] H164 - Candy - Objet cache : Hinoeuma / Hikari - Chapter 1 / repere 2/4 de la sous-zone.
+[COFFRE] [ ] H165 - Herb of Light - Objet cache : Hinoeuma / Hikari - Chapter 1 / repere 3/4 de la sous-zone.
+[COFFRE] [ ] H166 - Healing Grape - Objet cache : Hinoeuma / Hikari - Chapter 1 / repere 4/4 de la sous-zone.
+
+### Hinoeuma - Hikari - Chapter 5 (7 objets caches)
+Contexte : Hikari - Chapter 1.
+[COFFRE] [ ] H167 - Hairbrush - Objet cache : Hinoeuma / Hikari - Chapter 5 / repere 1/7 de la sous-zone.
+[COFFRE] [ ] H168 - Protective Necklace - Objet cache : Hinoeuma / Hikari - Chapter 5 / repere 2/7 de la sous-zone.
+[COFFRE] [ ] H169 - Olive of Life (L) - Objet cache : Hinoeuma / Hikari - Chapter 5 / repere 3/7 de la sous-zone.
+[COFFRE] [ ] H170 - Herb of Valor - Objet cache : Hinoeuma / Hikari - Chapter 5 / repere 4/7 de la sous-zone.
+[COFFRE] [ ] H171 - Resistant Nut (L) - Objet cache : Hinoeuma / Hikari - Chapter 5 / repere 5/7 de la sous-zone.
+[COFFRE] [ ] H172 - Slumber Sage - Objet cache : Hinoeuma / Hikari - Chapter 5 / repere 6/7 de la sous-zone.
+[COFFRE] [ ] H173 - Mighty Leaf - Objet cache : Hinoeuma / Hikari - Chapter 5 / repere 7/7 de la sous-zone.
+
+### Hinoeuma - Castle Ku: Entrance (4 objets caches)
+Contexte : Hikari - Chapter 1.
+[COFFRE] [ ] H174 - Energizing Pomegranate - Objet cache : Hinoeuma / Castle Ku: Entrance / repere 1/4 de la sous-zone.
+[COFFRE] [ ] H175 - Introduction to Trade - Objet cache : Hinoeuma / Castle Ku: Entrance / repere 2/4 de la sous-zone.
+[COFFRE] [ ] H176 - Copper Breastplate - Objet cache : Hinoeuma / Castle Ku: Entrance / repere 3/4 de la sous-zone.
+[COFFRE] [ ] H177 - Stuffed Toy - Objet cache : Hinoeuma / Castle Ku: Entrance / repere 4/4 de la sous-zone.
+
+### Hinoeuma - Castle Ku (4 objets caches)
+Contexte : Hikari - Chapter 5.
+[COFFRE] [ ] H178 - Healing Grape Bunch - Objet cache : Hinoeuma / Castle Ku / repere 1/4 de la sous-zone.
+[COFFRE] [ ] H179 - Strengthening Serum - Objet cache : Hinoeuma / Castle Ku / repere 2/4 de la sous-zone.
+[COFFRE] [ ] H180 - Bottle of Blinding Dust - Objet cache : Hinoeuma / Castle Ku / repere 3/4 de la sous-zone.
+[COFFRE] [ ] H181 - Mighty Leaf - Objet cache : Hinoeuma / Castle Ku / repere 4/4 de la sous-zone.
+
+### Leaflands - Cropdale (4 objets caches)
+Contexte : Tier 1: Cropdale.
+[COFFRE] [ ] H182 - Critical Nut (M) - Objet cache : Leaflands / Cropdale / repere 1/4 de la sous-zone.
+[COFFRE] [ ] H183 - Tree Nut - Objet cache : Leaflands / Cropdale / repere 2/4 de la sous-zone.
+[COFFRE] [ ] H184 - Festival Garland - Objet cache : Leaflands / Cropdale / repere 3/4 de la sous-zone.
+[COFFRE] [ ] H185 - Rare Stone - Objet cache : Leaflands / Cropdale / repere 4/4 de la sous-zone.
+
+### Leaflands - Forest Path (1 objets caches)
+Contexte : Tier 1: Cropdale.
+[COFFRE] [ ] H186 - Crop Tapestry Pattern - Objet cache : Leaflands / Forest Path / repere 1/1 de la sous-zone.
+
+### Leaflands - Wellgrove (8 objets caches)
+Contexte : Tier 2: Wellgrove.
+[COFFRE] [ ] H187 - Empowering Lychee - Objet cache : Leaflands / Wellgrove / repere 1/8 de la sous-zone.
+[COFFRE] [ ] H188 - Glass Marble - Objet cache : Leaflands / Wellgrove / repere 2/8 de la sous-zone.
+[COFFRE] [ ] H189 - Wind Soulstone - Objet cache : Leaflands / Wellgrove / repere 3/8 de la sous-zone.
+[COFFRE] [ ] H190 - Invigorating Nut (L) - Objet cache : Leaflands / Wellgrove / repere 4/8 de la sous-zone.
+[COFFRE] [ ] H191 - Falcon Coat - Objet cache : Leaflands / Wellgrove / repere 5/8 de la sous-zone.
+[COFFRE] [ ] H192 - Curious Antique - Objet cache : Leaflands / Wellgrove / repere 6/8 de la sous-zone.
+[COFFRE] [ ] H193 - Strengthening Serum - Objet cache : Leaflands / Wellgrove / repere 7/8 de la sous-zone.
+[COFFRE] [ ] H194 - Slippery Nut - Objet cache : Leaflands / Wellgrove / repere 8/8 de la sous-zone.
+
+### Leaflands - Wellgrove: Departmentstore (6 objets caches)
+Contexte : Tier 2: Wellgrove.
+[COFFRE] [ ] H195 - Rotten Meat - Objet cache : Leaflands / Wellgrove: Departmentstore / repere 1/6 de la sous-zone.
+[COFFRE] [ ] H196 - Enlightening Bracelet - Objet cache : Leaflands / Wellgrove: Departmentstore / repere 2/6 de la sous-zone.
+[COFFRE] [ ] H197 - Healing Grape Bunch - Objet cache : Leaflands / Wellgrove: Departmentstore / repere 3/6 de la sous-zone.
+[COFFRE] [ ] H198 - Platinum Helm - Objet cache : Leaflands / Wellgrove: Departmentstore / repere 4/6 de la sous-zone.
+[COFFRE] [ ] H199 - Empowering Lychee (M) - Objet cache : Leaflands / Wellgrove: Departmentstore / repere 5/6 de la sous-zone.
+[COFFRE] [ ] H200 - Heavy Bone Spear - Objet cache : Leaflands / Wellgrove: Departmentstore / repere 6/6 de la sous-zone.
+
+### Leaflands - Mother's Garden: Orphanage (4 objets caches)
+Contexte : Tier 2: Wellgrove.
+[COFFRE] [ ] H201 - Bottle of Befuddling Dust - Objet cache : Leaflands / Mother's Garden: Orphanage / repere 1/4 de la sous-zone.
+[COFFRE] [ ] H202 - Stuffed Toy - Objet cache : Leaflands / Mother's Garden: Orphanage / repere 2/4 de la sous-zone.
+[COFFRE] [ ] H203 - Bottle of Sleeping Dust - Objet cache : Leaflands / Mother's Garden: Orphanage / repere 3/4 de la sous-zone.
+[COFFRE] [ ] H204 - Diffusing Serum - Objet cache : Leaflands / Mother's Garden: Orphanage / repere 4/4 de la sous-zone.
+
+### Leaflands - Timberain (9 objets caches)
+Contexte : Tier 3: Timberain.
+[COFFRE] [ ] H205 - Inspiriting Plum Basket - Objet cache : Leaflands / Timberain / repere 1/9 de la sous-zone.
+[COFFRE] [ ] H206 - Conscious Stone - Objet cache : Leaflands / Timberain / repere 2/9 de la sous-zone.
+[COFFRE] [ ] H207 - Thick Tome - Objet cache : Leaflands / Timberain / repere 3/9 de la sous-zone.
+[COFFRE] [ ] H208 - Azure Sun Sword - Objet cache : Leaflands / Timberain / repere 4/9 de la sous-zone.
+[COFFRE] [ ] H209 - Heavy Coin Pouch - Objet cache : Leaflands / Timberain / repere 5/9 de la sous-zone.
+[COFFRE] [ ] H210 - Herb of Clamor - Objet cache : Leaflands / Timberain / repere 6/9 de la sous-zone.
+[COFFRE] [ ] H211 - Light Nut - Objet cache : Leaflands / Timberain / repere 7/9 de la sous-zone.
+[COFFRE] [ ] H212 - Cleansing Leaf - Objet cache : Leaflands / Timberain / repere 8/9 de la sous-zone.
+[COFFRE] [ ] H213 - Starlight Hat - Objet cache : Leaflands / Timberain / repere 9/9 de la sous-zone.
+
+### Leaflands - Timberain Castle: Town Square (4 objets caches)
+Contexte : Tier 3: Timberain.
+[COFFRE] [ ] H214 - Curious Antique - Objet cache : Leaflands / Timberain Castle: Town Square / repere 1/4 de la sous-zone.
+[COFFRE] [ ] H215 - Magic Nut (M) - Objet cache : Leaflands / Timberain Castle: Town Square / repere 2/4 de la sous-zone.
+[COFFRE] [ ] H216 - Gold Nugget - Objet cache : Leaflands / Timberain Castle: Town Square / repere 3/4 de la sous-zone.
+[COFFRE] [ ] H217 - Great Blade - Objet cache : Leaflands / Timberain Castle: Town Square / repere 4/4 de la sous-zone.
+
+### Leaflands - Southern Timberain Trail (2 objets caches)
+Contexte : Tier 3: Timberain.
+[COFFRE] [ ] H218 - Stolen Sword (Sidequest: Proof of Justice) - Objet cache : Leaflands / Southern Timberain Trail / repere 1/2 de la sous-zone.
+[COFFRE] [ ] H219 - Worn Journal (Sidequest: A Mysterious Box) - Objet cache : Leaflands / Southern Timberain Trail / repere 2/2 de la sous-zone.
+
+### Wildlands - Oresrush (3 objets caches)
+Contexte : Tier 1: Oresrush.
+[COFFRE] [ ] H220 - Olive of Life - Objet cache : Wildlands / Oresrush / repere 1/3 de la sous-zone.
+[COFFRE] [ ] H221 - Candy - Objet cache : Wildlands / Oresrush / repere 2/3 de la sous-zone.
+[COFFRE] [ ] H222 - Empowering Ring - Objet cache : Wildlands / Oresrush / repere 3/3 de la sous-zone.
+
+### Wildlands - Oresrush: Foundry (2 objets caches)
+Contexte : Tier 1: Oresrush.
+[COFFRE] [ ] H223 - Shortbow - Objet cache : Wildlands / Oresrush: Foundry / repere 1/2 de la sous-zone.
+[COFFRE] [ ] H224 - Heavy Coin Pouch - Objet cache : Wildlands / Oresrush: Foundry / repere 2/2 de la sous-zone.
+
+### Wildlands - Crackridge (7 objets caches)
+Contexte : Tier 2: Crackridge.
+[COFFRE] [ ] H225 - Silver Shield - Objet cache : Wildlands / Crackridge / repere 1/7 de la sous-zone.
+[COFFRE] [ ] H226 - Darkdelion - Objet cache : Wildlands / Crackridge / repere 2/7 de la sous-zone.
+[COFFRE] [ ] H227 - Bottle of Sleeping Dust - Objet cache : Wildlands / Crackridge / repere 3/7 de la sous-zone.
+[COFFRE] [ ] H228 - Steel Bow - Objet cache : Wildlands / Crackridge / repere 4/7 de la sous-zone.
+[COFFRE] [ ] H229 - Stone - Objet cache : Wildlands / Crackridge / repere 5/7 de la sous-zone.
+[COFFRE] [ ] H230 - Fire Soulstone (L) - Objet cache : Wildlands / Crackridge / repere 6/7 de la sous-zone.
+[COFFRE] [ ] H231 - Fortifying Nut (M) - Objet cache : Wildlands / Crackridge / repere 7/7 de la sous-zone.
+
+### Wildlands - Gravell (5 objets caches)
+Contexte : Tier 3: Gravell.
+[COFFRE] [ ] H232 - Empowering Lychee (L) - Objet cache : Wildlands / Gravell / repere 1/5 de la sous-zone.
+[COFFRE] [ ] H233 - Heavy Blade - Objet cache : Wildlands / Gravell / repere 2/5 de la sous-zone.
+[COFFRE] [ ] H234 - Magic Nut (M) - Objet cache : Wildlands / Gravell / repere 3/5 de la sous-zone.
+[COFFRE] [ ] H235 - Herb of Valor - Objet cache : Wildlands / Gravell / repere 4/5 de la sous-zone.
+[COFFRE] [ ] H236 - Enfeebling Flower - Objet cache : Wildlands / Gravell / repere 5/5 de la sous-zone.
+
+### Wildlands - Western Gravell Wilds (1 objets caches)
+Contexte : Tier 3: Gravell.
+[COFFRE] [ ] H237 - Sunshadow Staff - Objet cache : Wildlands / Western Gravell Wilds / repere 1/1 de la sous-zone.
+
+CONTROLE ANNEXE B : 237/237 objets caches - compteur independant des succes Steam.
+
 SOURCES DE VERIFICATION
 =======================
 
@@ -910,6 +2731,12 @@ SOURCES DE VERIFICATION
   https://gamerjournalist.com/all-gramophone-record-locations-in-octopath-traveler-2/
 - Battle-Tested equipment :
   https://www.neoseeker.com/octopath-traveler-ii/walkthrough/All_Battle-Tested_Equipment_Locations
+- Matrice de controle communautaire des 632 coffres, 237 objets caches et
+  compteurs de completion :
+  https://docs.google.com/spreadsheets/d/1ujgl9WjfhevFsHI_IoRyUeRygv8fX3PXRT9-v1EO42c/edit?usp=sharing
+- Cartes, zones, autels, ports et 69 repères de lieux :
+  https://www.rpgsoluce.com/soluces/ps5/octopath-traveler-2/monde/zones.htm
 
 FIN DU GUIDE - CONTROLE ATTENDU : 33/33 SUCCES, 67/67 SIDE STORIES,
-30/30 RECORDS, 16/16 EX SKILLS, 7/7 BATTLE-TESTED, CARTE COMPLETE.
+30/30 RECORDS, 16/16 EX SKILLS, 7/7 BATTLE-TESTED, 632/632 COFFRES,
+237/237 OBJETS CACHES, CARTE COMPLETE.
