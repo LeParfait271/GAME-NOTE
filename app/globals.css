@@ -4943,3 +4943,127 @@ button.reader-neighbor:focus-visible {
     font-size: 0.48rem;
   }
 }
+
+/* Composition cleanup: preserve the editorial mood without stacking every signal at full volume. */
+@media screen and (min-width: 981px) {
+  .hero-effects {
+    opacity: 0.62;
+  }
+
+  .hero-vertical-word {
+    opacity: 0.055;
+  }
+
+  .hero-orbit {
+    opacity: 0.48;
+  }
+
+  .hero-spotlight {
+    opacity: 0.48;
+  }
+
+  .hero-pointer-ring,
+  .hero-route-trace,
+  .hero-route-node,
+  .hero-crosshair {
+    opacity: 0.28;
+  }
+
+  .hero-scan-beam {
+    opacity: 0.22;
+  }
+
+  .hero-archive-wall {
+    top: 25%;
+    bottom: 21%;
+    width: min(33vw, 430px);
+    opacity: 0.2;
+  }
+
+  .hero-archive-wall-track {
+    gap: 0.3rem;
+    animation-duration: 24s;
+  }
+
+  .hero-archive-wall span {
+    max-width: 100%;
+    font-size: clamp(2.8rem, 4.15vw, 5rem);
+    letter-spacing: -0.075em;
+    line-height: 0.84;
+    white-space: normal;
+    text-shadow: none;
+  }
+
+  .hero-archive-wall span:nth-child(n + 3) {
+    display: none;
+  }
+
+  .hero-archive-wall span:nth-child(2) {
+    color: transparent;
+    -webkit-text-stroke: 1px rgba(243, 237, 224, 0.66);
+  }
+
+  .portfolio-hero-copy {
+    top: 26%;
+    width: min(20vw, 255px);
+  }
+
+  .portfolio-hero-copy h1 {
+    max-width: 12ch;
+    font-size: clamp(1.7rem, 2.55vw, 3.15rem);
+    letter-spacing: -0.045em;
+    line-height: 0.9;
+  }
+
+  .hero-intro {
+    max-width: 29ch;
+    margin-top: 27px;
+    font-size: 0.6rem;
+    line-height: 1.72;
+  }
+
+  .hero-actions {
+    gap: 15px;
+    margin-top: 25px;
+  }
+
+  .hero-link-secondary {
+    display: none;
+  }
+
+  .hero-stats {
+    display: none;
+  }
+
+  .hero-stats strong {
+    font-size: 1.05rem;
+  }
+
+  .hero-focus {
+    top: 21%;
+    width: min(23vw, 300px);
+  }
+
+  .hero-focus-frame {
+    height: min(61vh, 480px);
+    box-shadow: 12px 15px 0 rgba(239, 108, 83, 0.38), 0 28px 78px rgba(0, 0, 0, 0.4);
+    transform: perspective(900px) rotateX(var(--tilt-y)) rotateY(var(--tilt-x)) rotate(1deg);
+  }
+
+  .hero-focus-frame:hover,
+  .hero-focus:focus-within .hero-focus-frame {
+    box-shadow: 7px 9px 0 rgba(239, 108, 83, 0.48), 0 30px 82px rgba(0, 0, 0, 0.44);
+    transform: perspective(900px) rotateX(var(--tilt-y)) rotateY(var(--tilt-x)) rotate(0deg) translateY(-5px);
+  }
+
+  .hero-focus-note {
+    max-width: 24ch;
+    margin-top: 16px;
+    margin-left: 8px;
+  }
+
+  .hero-index {
+    top: 72%;
+    width: min(20vw, 255px);
+  }
+}

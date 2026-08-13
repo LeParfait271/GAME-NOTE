@@ -149,6 +149,9 @@ transformée en validation automatique quand c'est possible.
     focal, un décor typographique secondaire et un panneau d'actions respirant.
     Les couches d'effet restent sous le contenu et ne doivent jamais provoquer
     de collision visuelle entre la carte, le titre et l'index.
+37. Sur desktop, le hero conserve une seule action primaire : l'index réel porte
+    la sélection des routes et les actions secondaires ne doivent pas recréer
+    une deuxième colonne concurrente.
 
 ### Lot de recherche OCTOPATH TRAVELER 0 — 13 août 2026
 

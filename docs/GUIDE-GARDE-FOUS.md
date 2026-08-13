@@ -532,3 +532,12 @@ une mise à jour qui change les succès ou le contenu, le guide repasse en
 - Le contrôle couvre desktop, mobile, clavier, mouvement réduit et absence de
   débordement horizontal, puis lint, build, preflight et smoke.
 - Ce lot ne touche pas au contenu des guides, aux compteurs Steam ou au lecteur.
+
+## Ajustement final de hiérarchie desktop - 13 août 2026
+
+- Une seule action primaire est visible dans le hero desktop ; les routes
+  restent accessibles par l'index réel et par l'appel principal.
+- La carte ne recouvre pas la ligne de navigation et l'index ne recouvre pas
+  l'introduction ou l'action principale.
+- Le contrôle couvre la capture desktop, le mobile, le clavier, le mouvement
+  réduit et l'absence de débordement avant les tests de livraison.

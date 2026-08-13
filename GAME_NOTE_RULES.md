@@ -345,6 +345,15 @@ contrôle de la fiche concernée.
   smoke.
 - Limite : ce lot ne modifie ni les guides, ni leurs compteurs, ni le lecteur.
 
+## Ajustement final de hiérarchie desktop - 13 août 2026
+
+- Le hero ne présente qu'une action primaire visible sur desktop ; l'index réel
+  reste la seconde porte d'entrée vers les routes.
+- La carte centrale reste sous la ligne de navigation et le panneau d'index est
+  séparé du texte d'introduction par un espace mesurable.
+- Le contrôle attendu couvre les collisions à 1280 px, le mobile, le clavier,
+  le mouvement réduit et les validations de livraison.
+
 ### Recherche OCTOPATH TRAVELER 0 — 13 août 2026
 
 - Une entrée `research` de `docs/guide-rebuild-queue.json` doit pointer vers sa
