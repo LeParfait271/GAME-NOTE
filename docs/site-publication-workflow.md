@@ -244,3 +244,12 @@ traité comme une récompense d'action et non comme un coffre supplémentaire.
   tomber toute la page avec l'ecran "This page couldnt load".
 - Cette correction est couverte par le validateur source, les smoke tests et le
   test local avant le commit final. Les TXT et leur copie Pages restent inchanges.
+
+## Regle active de livraison - commit et push
+
+- Pour chaque demande de modification terminee : validations obligatoires,
+  commit unique, puis push sur la branche de travail.
+- Les questions, pauses, diagnostics en lecture seule et taches bloquees ne
+  creent ni commit vide ni push.
+- Une ancienne URL de preview Cloudflare reste immuable ; le push declenche une
+  nouvelle publication lorsque l integration GitHub est active.

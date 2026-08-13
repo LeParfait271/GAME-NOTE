@@ -740,3 +740,11 @@ une mise à jour qui change les succès ou le contenu, le guide repasse en
   fonction updater, car l evenement peut deja avoir un `currentTarget` nul.
 - Le validateur de garde-fous et le smoke test exigent la capture locale et
   refusent le motif dangereux ; une erreur `null.open` bloque toute publication.
+
+## Regle active de livraison - commit et push
+
+- Toute modification terminee est validee, committee puis poussee sur la
+  branche de travail avant de cloturer la demande.
+- Une demande en lecture seule, une pause ou un blocage externe ne declenche ni
+  commit vide ni push.
+- Cette regle remplace les anciennes mentions de commit local sans push.

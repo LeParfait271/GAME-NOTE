@@ -558,3 +558,11 @@ comme OT0, restent hors publication jusqu'à leur validation éditoriale.
   `event.currentTarget` dans l updater peut produire `Cannot read properties of
   null (reading 'open')` en local comme sur Cloudflare.
 - Le smoke test et le guardrail source bloquent le retour de cette regression.
+
+### Regle active de livraison - commit et push
+
+- Toute demande de modification terminee suit l ordre : validations, commit,
+  puis push sur la branche de travail.
+- Aucun commit vide ni push pour une question, une pause, une lecture seule ou
+  une tache bloquee.
+- Cette regle remplace les anciennes mentions de livraison restant locale.

@@ -344,3 +344,11 @@ transformée en validation automatique quand c'est possible.
   passer dans le setter React ; ne jamais relire l evenement dans son updater.
 - Une page Cloudflare qui affiche "This page couldnt load" avec une erreur
   `null.open` indique cette regression du lecteur, pas un TXT absent.
+
+### Regle active de livraison - commit et push
+
+- Pour chaque demande qui modifie le site et qui est terminee, lancer les
+  validations, creer le commit puis pousser sur la branche de travail.
+- Une question, une pause, un diagnostic en lecture seule ou une tache bloquee
+  ne cree ni commit vide ni push.
+- Cette regle remplace les anciennes mentions de livraison restant locale.
