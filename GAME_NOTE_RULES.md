@@ -82,6 +82,15 @@ statique Cloudflare Pages.
   transformés en faux missables. Les révélations d'histoire, les identités,
   les fins et les conséquences de choix sont permises lorsque la fiche est
   explicitement demandée avec spoilers.
+- La fiche Expedition 33 doit conserver ses annexes de localisation avec la
+  route : chaque journal, disque, quête de Nevron, Gestral perdu, jeu gestral
+  et compétence de Monoco doit avoir un repère ou une condition. Le contrôle
+  final doit compter exactement 55 cases Steam et ne doit pas absorber les
+  compteurs de collection dans une seule liste générique.
+- Le build Pages Windows peut terminer Vinext par une assertion `UV_HANDLE_CLOSING`
+  dont le numéro de ligne varie selon Node. `scripts/build-pages.mjs` ne peut
+  tolérer ce signal que si la sortie statique existe, puis doit encore préparer
+  et valider `dist/client` ; une sortie présente seule ne vaut pas validation.
 - Pour la phase actuelle, les repères visuels sont activés uniquement sur
   `final-fantasy-vii-2013`. `[COFFRE]` couvre tous les objets à récupérer
   (coffres, matérias, collectibles et récompenses) ; les marqueurs

@@ -53,6 +53,14 @@ Ce fichier fixe la méthode minimale avant toute modification visible du site.
     anti-spoiler. Pour Expedition 33, la route doit donc pouvoir nommer les
     révélations utiles au 100 %, tout en les plaçant dans l'ordre de jeu et en
     séparant clairement les fenêtres manquables, le post-game et les choix.
+16. Pour Expedition 33, ne valider la fiche qu'après comparaison croisée des
+    compteurs 55/55, 49 journaux, 33 disques, 10 quêtes de Névrons, 9 Gestrals,
+    5 jeux gestral, 46 compétences de Monoco et 35 interactions de relation.
+    La checklist Steam et les annexes de localisation sont deux contrôles
+    distincts : une liste de noms sans route concrète ne suffit pas.
+17. Sur Windows, une assertion post-build `UV_HANDLE_CLOSING` n'est tolérée que
+    si `dist/client/index.html` existe et que les validations Pages poursuivent
+    leur exécution. Le numéro de ligne de l'assertion peut varier selon Node.
 
 Toute nouvelle règle durable doit être ajoutée à GAME_NOTE_RULES.md et
 transformée en validation automatique quand c'est possible.

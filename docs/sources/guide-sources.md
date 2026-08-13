@@ -197,6 +197,37 @@ conditions difficiles ; elles ne justifient jamais une copie mot a mot.
 - Points verifies : 12 stages, actions de decor, combos, rangs, Arcade,
   personnages, All Clear, Survival, mouvements alternatifs et 8 succes DLC.
 
+## CLAIR OBSCUR: EXPEDITION 33
+
+- Steam, liste officielle des 55 succes, AppID 1903340 :
+  https://steamcommunity.com/stats/1903340/achievements
+- Feuille de route Steam recoupee pour missables, succes et ordre general :
+  https://www.powerpyx.com/clair-obscur-expedition-33-trophy-guide-roadmap/
+- Guide Steam de reference pour cartes, zones et compteurs :
+  https://steamcommunity.com/sharedfiles/filedetails?id=3469875590
+- Quetes de Nevrons, solutions et recompenses :
+  https://www.rpgsite.net/guide/17263-clair-obscur-expedition-33-all-nevron-quests
+- Journaux, ordre chronologique et emplacements :
+  https://www.gamerguides.com/clair-obscur-expedition-33/guide/collectibles/journals/all-journal-locations
+- Disques musicaux, fenetres du Mime et Lettre a Maelle :
+  https://www.gamerguides.com/clair-obscur-expedition-33/guide/collectibles/music-records/all-music-record-locations
+- Competences de Monoco et lieux des 46 ennemis :
+  https://www.neoseeker.com/clair-obscur-expedition-33/Monoco_Skills
+- Mimes et recompenses cosmetiques :
+  https://www.neoseeker.com/clair-obscur-expedition-33/Mime_Locations
+- Jeux gestral, seuils de victoire et recompenses :
+  https://www.powerpyx.com/clair-obscur-expedition-33-gestral-games-locations-guide/
+- Emplacements et solutions des cinq plages gestral :
+  https://gamefaqs.gamespot.com/ps5/469495-clair-obscur-expedition-33/faqs/82352/gestral-beaches
+- Relations, quetes de rang 6 et choix Truth de Maelle :
+  https://www.pcgamesn.com/clair-obscur-expedition-33/romance-relationships
+- Reponses du quiz d'Antoine et jetons du prologue :
+  https://www.pcgamer.com/games/rpg/clair-obscur-expedition-33-antoine-answers/
+- Points verifies : 55 succes, 49 journaux, 33 disques, 10 quetes de Nevrons,
+  9 Gestrals perdus, 5 jeux gestral, 46 competences de Monoco, 35 relations,
+  Mime du prologue, Vieille Cle, Lettre a Maelle, Blanche/Noire et les deux
+  choix de fin.
+
 ## FINAL FANTASY VII (2013)
 
 - Steam, liste officielle des 36 succes :

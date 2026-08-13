@@ -34,7 +34,7 @@ try {
   outputExists = false;
 }
 
-const knownWindowsAssertion = /Assertion failed:[\s\S]*UV_HANDLE_CLOSING[\s\S]*async\.c, line 76/;
+const knownWindowsAssertion = /Assertion failed:[\s\S]*UV_HANDLE_CLOSING[\s\S]*async\.c, line \d+/;
 const toleratedPostBuildExit = process.platform === "win32"
   && outputExists
   && knownWindowsAssertion.test(result.output);

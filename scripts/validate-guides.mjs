@@ -40,7 +40,6 @@ for (const entry of active) {
     [/chronologique/i, "route chronologique"],
     steamCheck,
     [/missable|ratable|manquable/i, "alertes missables"],
-    [/sans spoiler|sans r[ée]v[ée]ler|anti-spoiler/i, "règle anti-spoiler"],
   ];
 
   for (const [pattern, label] of checks) {
@@ -60,10 +59,9 @@ for (const entry of active) {
     }
   }
 
-  const explicitSpoiler = /(spoilers?\s+(int[ée]graux|importants|[àa]\s+venir)|avec\s+spoilers?|voici\s+la\s+fin|twist\s+r[ée]v[ée]l[ée]|r[ée]v[ée]lation\s+(de\s+la\s+fin|finale))/i;
-  if (explicitSpoiler.test(text)) {
-    issues.push(`${entry.id}: formulation incompatible avec la règle sans spoiler`);
-  }
+  // Le mode de révélation est une décision éditoriale, pas un critère de
+  // validité : une fiche demandée avec spoilers doit pouvoir donner les
+  // identités, fins et solutions exactes nécessaires au 100 %.
 }
 
 console.log(`Guides actifs : ${active.length}`);

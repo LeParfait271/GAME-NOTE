@@ -148,9 +148,27 @@ mise à jour est refusé, même si le code ou la fiche fonctionne.
 - Compteurs à contrôler : 55 succès Steam, 49 journaux, 33 disques, 10 quêtes
   de Névrons, 9 Gestrals perdus, 5 jeux de Gestrals, 46 compétences de Monoco
   et 35 rangs de relations.
-- Limite de cette passe : cette décision met à jour la méthode ; la fiche
-  Expedition 33 doit encore être réécrite, recoupée et validée avant d'être
-  considérée comme complète.
+- Livraison de cette passe : la fiche contient une route de 1 785 lignes par
+  actes et zones, les choix finaux, les fenêtres manquables et les procédures
+  de rattrapage, puis des annexes séparées pour les compteurs 49/33/10/9/5/46
+  et 35. La liste finale conserve exactement 55 cases Steam.
+- Contrôle de méthode : les journaux et disques sont donnés dans l'ordre avec
+  écran ou repère ; Monoco possède les 46 ennemis/compétences ; les cinq jeux
+  gestral donnent leurs lieux, seuils et récompenses ; les relations et le
+  choix Truth de Maelle sont séparés des succès de collection.
+- Contrôle technique ajouté : `validate-guides.mjs` ne rejette plus les spoilers
+  et ne demande plus une formule « sans spoiler » ; il contrôle désormais la
+  route, le périmètre Steam et les fenêtres manquables, quel que soit le mode
+  de révélation choisi pour la fiche.
+- Contrôle build Windows ajouté : l'assertion post-build `UV_HANDLE_CLOSING` est
+  tolérée quel que soit son numéro de ligne uniquement si `dist/client/index.html`
+  existe et que la préparation/validation Pages termine réellement.
+- Validation de cette passe : guide strict, préflight strict, build Pages et
+  smoke tests 6/6 passent ; la fiche ne prétend pas compter chaque consommable
+  banal ou chaque Picto facultatif comme un succès Steam.
+- Dette hors périmètre : l'audit global de profondeur signale encore des fiches
+  historiques à réécrire, mais Expedition 33 atteint le nouveau seuil et n'est
+  pas mélangée à ce chantier.
 
 ### Lot FFVII du 12 août 2026
 
