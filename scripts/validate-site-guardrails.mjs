@@ -124,6 +124,8 @@ const requiredSourceFiles = [
   "scripts/bump-site-version.mjs",
   "wrangler.toml",
   "docs/guide-catalog.json",
+  "docs/site-publication.json",
+  "docs/site-publication-workflow.md",
   "docs/site-guardrails.md",
   "docs/steam-audit.json",
   "scripts/preflight-pages.mjs",
@@ -150,6 +152,7 @@ const wrangler = await readText("wrangler.toml");
 const packageJson = await readJson("package.json");
 const manifest = await readJson("public/manifest.json");
 const catalog = await readJson("docs/guide-catalog.json");
+const publication = await readJson("docs/site-publication.json");
 const steamAudit = await readJson("docs/steam-audit.json");
 
 const siteVersionMatch = siteVersionSource.match(
@@ -175,6 +178,11 @@ const siteVisibleIds = siteVisibilityMatch
   : [];
 if (JSON.stringify(siteVisibleIds) !== JSON.stringify(["expedition-33", "octopath"])) {
   fail("app/page.tsx: la publication temporaire doit rester limitée aux deux guides cibles.");
+}
+
+if (JSON.stringify(publication?.visibleGuideIds) !== JSON.stringify(["expedition-33", "octopath"]) ||
+    JSON.stringify(publication?.visibleGuideFiles) !== JSON.stringify(["expedition-33.txt", "octopath-traveler-1.txt"])) {
+  fail("docs/site-publication.json: liste temporaire incoherente.");
 }
 
 const guideBlockMatch = page.match(
@@ -449,7 +457,8 @@ if (await exists("dist/client/index.html")) {
   const outputRedirects = await readText("dist/client/_redirects");
   if (indexHtml.includes("\uFFFD")) fail("dist/client/index.html: UTF-8 corrompu.");
   if (siteVersion) {
-    let versionPublished = indexHtml.includes(`v${siteVersion}`);
+    let versionPublished = indexHtml.includes(`v${siteVersion}`) ||
+      (indexHtml.includes("site-footer-version") && indexHtml.includes(siteVersion));
     if (!versionPublished) {
       const staticFiles = await walk("dist/client/_next/static");
       for (const file of staticFiles.filter((entry) => entry.endsWith(".js"))) {
@@ -504,7 +513,7 @@ if (await exists("dist/client/index.html")) {
     }
   }
   const outputGuideNames = await filesIn("dist/client/guides");
-  const sourceGuideNames = await filesIn("public/guides");
+  const sourceGuideNames = publication?.visibleGuideFiles ?? [];
   if (JSON.stringify(outputGuideNames) !== JSON.stringify(sourceGuideNames)) {
     fail("dist/client/guides: parité TXT source/sortie rompue.");
   }

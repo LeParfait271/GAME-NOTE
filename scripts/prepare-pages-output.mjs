@@ -1,5 +1,5 @@
 import { createHash } from "node:crypto";
-import { readdir, readFile, writeFile } from "node:fs/promises";
+import { readdir, readFile, unlink, writeFile } from "node:fs/promises";
 import { fileURLToPath } from "node:url";
 import { join, resolve } from "node:path";
 
@@ -7,13 +7,26 @@ const ROOT = resolve(fileURLToPath(new URL("..", import.meta.url)));
 const GUIDE_DIR = join(ROOT, "public", "guides");
 const OUTPUT_DIR = join(ROOT, "dist", "client");
 const OUTPUT_SERVICE_WORKER = join(OUTPUT_DIR, "service-worker.js");
+const publication = JSON.parse(await readFile(join(ROOT, "docs", "site-publication.json"), "utf8"));
+const publishedGuideNames = publication.visibleGuideFiles;
 
-const guideNames = (await readdir(GUIDE_DIR, { withFileTypes: true }))
+const sourceGuideNames = (await readdir(GUIDE_DIR, { withFileTypes: true }))
   .filter((entry) => entry.isFile() && entry.name.toLowerCase().endsWith(".txt"))
   .map((entry) => entry.name)
   .sort((left, right) => left.localeCompare(right));
+for (const name of publishedGuideNames) {
+  if (!sourceGuideNames.includes(name)) throw new Error(`Guide publie absent de public/guides : ${name}`);
+}
+const guideNames = [...publishedGuideNames];
 
 if (guideNames.length === 0) throw new Error("Aucun guide TXT n'est disponible pour la sortie Pages.");
+
+const outputGuideDir = join(OUTPUT_DIR, "guides");
+for (const entry of await readdir(outputGuideDir, { withFileTypes: true })) {
+  if (entry.isFile() && entry.name.toLowerCase().endsWith(".txt") && !guideNames.includes(entry.name)) {
+    await unlink(join(outputGuideDir, entry.name));
+  }
+}
 
 const guideUrls = guideNames.map((name) => `/guides/${name}`);
 const indexHtml = await readFile(join(OUTPUT_DIR, "index.html"), "utf8");
