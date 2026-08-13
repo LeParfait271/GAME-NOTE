@@ -227,6 +227,13 @@ transformée en validation automatique quand c'est possible.
 - Les cartes et les rappels restent distincts des lignes numérotées : ils
   améliorent la navigation sans modifier les compteurs de contenu.
 
+### Passe de contrôle 7 — couverture cartographique étendue
+
+- L'index direct de 37 cartes est complété par l'index Game8 des zones et
+  donjons non présents dans la première sélection.
+- Le guide doit signaler cette différence et ne jamais transformer un lien
+  cartographique en validation écran par écran.
+
 ### Passe de contrôle 5 — interface personnelle
 
 - L'accueil ne doit pas afficher de badge promotionnel, de bouton d'installation
@@ -236,12 +243,8 @@ transformée en validation automatique quand c'est possible.
   autorisés lorsqu'ils décrivent réellement l'état ou la fiche consultée.
 - Le hero peut afficher le dernier guide réellement ouvert en rouge et un
   historique local de cinq guides maximum en jaune, dans l'ordre d'utilisation.
-### Passe de contrôle 7 — couverture cartographique étendue
-
-- L'index direct de 37 cartes est complété par l'index Game8 des zones et
-  donjons non présents dans la première sélection.
-- Le guide doit signaler cette différence et ne jamais transformer un lien
-  cartographique en validation écran par écran.
+- Le bouton de reprise et une entrée de l'historique doivent ouvrir la même
+  fiche que la bibliothèque, sans créer une navigation parallèle.
 
 ### Passe de contrôle 8 — fiches boss OT0
 
@@ -252,34 +255,11 @@ transformée en validation automatique quand c'est possible.
 - Les fiches de combat ne gonflent pas les compteurs 454/454 ou 37/37 ; le
   validateur vérifie leur présence et plusieurs renvois depuis la route.
 
-### Passe de contrôle 9 — repères de coffres OT0
+### Passe de contrôle 14 — registre OT0 navigable
 
-- Une première boucle de 27 lignes numérotées possède désormais un repère de
-  salle, de direction, d'étage ou de gardien lorsqu'il est confirmé par une
-  source de zone.
-- Les lignes restantes sans repère confirmé restent explicitement à enrichir
-
-### Passe de contrôle 10 — deuxième boucle de repères OT0
-
-- Le registre doit distinguer un repère de progression sourcé d'une validation
-  complète de zone ; les deux ne partagent jamais le même statut.
-- Les nouveaux repères de salle, d'étage, de pente et de gardien sont protégés
-  par le validateur et restent exclus des compteurs 454/454.
-
-### Passe de contrôle 11 — Coastlands OT0
-
-- Les plages, maisons, grottes, embranchements et élites peuvent servir de
-  repères seulement quand ils sont confirmés par une fiche de zone ou de route.
-- Les coffres en mer et les sections non sourcées restent signalés séparément.
-- La progression du registre ne doit jamais être résumée par le seul compteur.
-
-- Les visuels portrait du hero utilisent une source adaptée au ratio de la carte et ne reçoivent pas de quadrillage superposé.
-
-### Passe de contrôle 12 — Cliftlands OT0
-
-- Les repères de fourche, pente, pont, maison, monument et cul-de-sac doivent
-  rester liés à la zone exacte et à la séquence de route correspondante.
-- Les élites ne sont jamais absorbés dans un repère de coffre ordinaire.
-- Geist Canyon reste déclaré comme lot à recouper.
-
-- Les fiches de soluce utilisent une source panoramique haute définition en 16/9, avec un repli local si elle échoue.
+- Les 454 lignes `[COFFRE]` disposent maintenant d'un repère de route, de salle,
+  d'étage, de gardien ou de collecte ; le texte générique est interdit.
+- Le registre, la checklist des 44 coffres bleus et les fiches boss restent trois
+  couches distinctes : aucun repère ne doit créer un doublon dans les compteurs.
+- Avant toute visibilité, lancer le validateur strict, le build, le préflight et
+  les smoke tests ; le commit final est unique pour cette passe et reste local.

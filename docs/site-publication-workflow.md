@@ -161,3 +161,13 @@ traité comme une récompense d'action et non comme un coffre supplémentaire.
 - Les coffres bleus et les lignes déjà documentées restent séparés du nouveau
   lot ; le registre 454 ne change pas.
 - Geist Canyon et les sections non sourcées restent à auditer avant publication.
+
+## Passe de contrôle 14 — clôture éditoriale du registre OT0
+
+- Les 454 entrées du TXT portent maintenant un repère de route, de pièce,
+  d'étage, de gardien ou de collecte ; le placeholder de repère est interdit.
+- Le compteur 454/454 reste indépendant des 44 coffres bleus, des 31 fiches
+  boss et des 37 succès Steam. Les cartes restent des aides visuelles et ne sont
+  pas transformées en preuve de test écran par écran.
+- Le lot n'est clôturé qu'après build, préflight strict, audits et smoke tests.
+  Les changements sont regroupés dans un seul commit local final, sans push.

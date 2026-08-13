@@ -378,3 +378,29 @@ fonction précise.
   - https://www.neoseeker.com/octopath-traveler-0/South_Cragspear_Pass
 - Limite conservée : Geist Canyon (#165 à #171) attend sa fiche de zone dédiée ;
   aucune direction n'est déduite du seul ordre de la matrice.
+
+## Passe de contrôle 14 — registre OT0 sans lignes génériques
+
+- Les dernières zones de Cliftlands, Riverlands, Coastlands, Flatlands,
+  Frostlands, Woodlands et Sunlands ont été recoupées avec les fiches de route
+  Neoseeker, les cartes Game8 et la base OT0 : les 454 lignes numérotées portent
+  maintenant un repère de chemin, de salle, d'étage, de gardien ou de collecte.
+- Le contrôle automatique bloque désormais toute ligne numérotée qui reviendrait
+  au libellé « aucun repère additionnel », en plus du contrôle 454/454, des 44
+  coffres bleus et des 37 succès Steam.
+- Les repères restent des aides de navigation sourcées : ils ne prétendent pas
+  constituer une preuve de test écran par écran dans une sauvegarde réelle. Les
+  élites, les coffres bleus et les objets de collecte conservent leurs statuts
+  propres afin d'éviter un faux double comptage.
+- Sources principales de cette passe :
+  - https://www.neoseeker.com/octopath-traveler-0/Cerulean_Caverns
+  - https://www.neoseeker.com/octopath-traveler-0/Emberglow
+  - https://www.neoseeker.com/octopath-traveler-0/Middlesea
+  - https://www.neoseeker.com/octopath-traveler-0/Geist_Canyon_South
+  - https://www.neoseeker.com/octopath-traveler-0/Geist_Canyon
+  - https://www.neoseeker.com/octopath-traveler-0/Clearbrook_Traverse
+  - https://www.neoseeker.com/octopath-traveler-0/Clearbrook
+  - https://www.neoseeker.com/octopath-traveler-0/Waterpool_Caves
+  - https://www.neoseeker.com/octopath-traveler-0/Outersea
+  - https://www.neoseeker.com/octopath-traveler-0/Golden_Palace
+  - https://octopathtraveler0.com/treasures

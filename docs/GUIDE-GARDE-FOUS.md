@@ -561,6 +561,13 @@ une mise à jour qui change les succès ou le contenu, le guide repasse en
 - Une carte peut compléter un manque de direction textuelle, mais elle ne
   transforme pas une zone non vérifiée en zone validée et ne remplace pas la
   relecture écran par écran.
+
+### Couverture cartographique étendue OT0
+
+- L'index Game8 des zones et donjons peut compléter les 37 cartes directes,
+  mais doit rester présenté comme une source de navigation externe.
+- Le guide doit distinguer lien cartographique, repère de base et contrôle
+  réellement vérifié en jeu.
 ## Lot scène d'entrée et archive monumentale - 13 août 2026
 
 - L'entrée présente une carte, une typographie géante et un lien direct avant
@@ -612,16 +619,12 @@ une mise à jour qui change les succès ou le contenu, le guide repasse en
   le service worker continue de fonctionner silencieusement.
 - Le dernier guide ouvert est le point de reprise rouge ; l'historique jaune
   reste local à l'appareil, ordonné par utilisation et limité à cinq fiches.
+- Le point de reprise et chaque ligne historique réutilisent l'ouverture
+  normale de la bibliothèque afin de conserver la progression du lecteur.
 - Les statuts hors ligne et les erreurs de route restent conservés car ils
   décrivent l'état réel de l'application.
 - Le contrôle couvre l'accueil, la bibliothèque, le lecteur, le clavier, le
   mobile et les validations de livraison.
-### Couverture cartographique étendue OT0
-
-- L'index Game8 des zones et donjons peut compléter les 37 cartes directes,
-  mais doit rester présenté comme une source de navigation externe.
-- Le guide doit distinguer lien cartographique, repère de base et contrôle
-  réellement vérifié en jeu.
 
 ### Passe de contrôle 9 — fiches de combat OT0
 
@@ -639,34 +642,14 @@ une mise à jour qui change les succès ou le contenu, le guide repasse en
   conserve le statut archive/invisible tant que les élites et les zones ne sont
   pas relus écran par écran.
 
-### Passe de contrôle 10 — repères de coffres OT0
+## Passe de contrôle 14 — OT0, repères de trésors consolidés
 
-- Le registre conserve 454 lignes, mais 27 premières entrées disposent désormais
-  d'un repère de progression plus précis que la simple sous-zone.
-- Chaque repère est séparé de la preuve de complétude : une direction sourcée
-  facilite le parcours, sans valider les autres coffres de la zone.
-
-### Passe de contrôle 11 — deuxième boucle de repères OT0
-
-- Le registre conserve son compteur 454 ; les lignes enrichies restent des
-  aides de navigation et non des validations automatiques de carte.
-- Les nouveaux repères sont protégés contre un retour silencieux au texte
-  générique et les élites gardent leur propre contrôle tactique.
-
-### Passe de contrôle 12 — Coastlands OT0
-
-- Les repères de plage, de maison, de grotte et d'embranchement sont ajoutés
-  sans modifier le compteur de 454 trésors.
-- Les coffres en mer restent une dette déclarée tant qu'une fiche de navigation
-  dédiée n'a pas été recoupée.
-
-- Le focus portrait utilise une source 2x adaptée et aucune grille décorative ne se superpose à son illustration.
-
-### Passe de contrôle 13 — Cliftlands OT0
-
-- Les 23 nouveaux repères de Cliftlands restent séparés du registre 454 et des
-  coffres bleus.
-- Les chemins de Gray Grotto distinguent l'élite, le monument et le cul-de-sac.
-- Le lot reste archive/invisible tant que Geist Canyon et les zones restantes ne
-
-- La couverture des fiches actives est contrôlée en 16/9 sur desktop et mobile ; la source 2x et le repli local doivent rester fonctionnels.
+- Les 454 lignes du registre ont désormais un repère de navigation ou une
+  condition explicite ; le libellé générique « aucun repère additionnel » est
+  bloqué par le validateur.
+- Une direction issue d'une source reste une aide de parcours, pas une preuve de
+  test en jeu. Les coffres bleus, les élites, les collectes et les boss gardent
+  leurs contrôles séparés pour éviter les faux 100 %.
+- La clôture de ce lot impose une validation globale puis un seul commit local,
+  sans push automatique ; le bump de version et les garde-fous suivent ce même
+  commit final.

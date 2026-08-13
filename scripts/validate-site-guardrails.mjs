@@ -213,6 +213,15 @@ if (octopathZeroDraft) {
       `${octopathZeroDraftPath}: le registre numéroté doit contenir exactement 454 trésors (actuel : ${treasureAppendixEntries.length}).`,
     );
   }
+  const genericTreasureRows = octopathZeroDraft
+    .split(/\r?\n/)
+    .filter((line) => /^\[COFFRE\](?: \[MANQUABLE\])? \[ \] #\d{3} —/.test(line))
+    .filter((line) => line.includes("aucun repère additionnel"));
+  if (genericTreasureRows.length > 0) {
+    fail(
+      `${octopathZeroDraftPath}: le registre contient encore ${genericTreasureRows.length} ligne(s) de coffre sans repère exploitable.`,
+    );
+  }
   const finalSteamChecklist = octopathZeroDraft.split("CHECKLIST FINALE DES SUCCÈS STEAM")[1] ?? "";
   const finalSteamChecklistOnly = finalSteamChecklist.split("CONTRÔLE AVANT PUBLICATION")[0] ?? "";
   const steamChecks = [...finalSteamChecklistOnly.matchAll(/^- \[ \] .+$/gm)];

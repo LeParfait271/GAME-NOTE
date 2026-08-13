@@ -435,6 +435,13 @@ contrôle de la fiche concernée.
 - Les zones sans carte source doivent rester signalées ; une direction inventée
   pour atteindre un faux niveau de complétude est interdite.
 
+### Couverture cartographique étendue OT0 — 13 août 2026
+
+- Le guide peut renvoyer vers l'index Game8 des cartes pour les zones absentes
+  des 37 cartes directes.
+- Les deux niveaux de source doivent rester distincts : un lien aide à naviguer,
+  mais ne prouve pas qu'un écran a été relu ou qu'un coffre a été ouvert.
+
 ### Audit interface personnelle — 13 août 2026
 
 - L'accueil ne présente pas de badges « nouveau », « fondateur » ou équivalent,
@@ -444,14 +451,10 @@ contrôle de la fiche concernée.
   les messages hors ligne et les erreurs de route restent des statuts utiles.
 - Le hero peut afficher le dernier guide réellement ouvert en rouge et un
   historique local de cinq guides maximum en jaune, dans l'ordre d'utilisation.
+- Le bouton de reprise et une entrée de l'historique doivent ouvrir la même
+  fiche que la bibliothèque, sans créer une navigation parallèle.
 - Le contrôle couvre l'entrée, le hero, la bibliothèque, le lecteur, le clavier,
   le mobile, puis lint, build, preflight et smoke.
-### Couverture cartographique étendue OT0 — 13 août 2026
-
-- Le guide peut renvoyer vers l'index Game8 des cartes pour les zones absentes
-  des 37 cartes directes.
-- Les deux niveaux de source doivent rester distincts : un lien aide à naviguer,
-  mais ne prouve pas qu'un écran a été relu ou qu'un coffre a été ouvert.
 
 ### Contrôle de précision des boss OT0 — 13 août 2026
 
@@ -464,34 +467,13 @@ contrôle de la fiche concernée.
   compteur 454 : le type de rencontre ne doit pas être changé pour remplir une
   checklist.
 
-### Précision des repères de coffres OT0 — 13 août 2026
+### Registre OT0 sans lignes génériques — 13 août 2026
 
-- Les directions, salles, étages et gardiens sont ajoutés uniquement quand ils
-  sont recoupés par une source de zone ou une route indépendante.
-- Le validateur protège les identifiants enrichis contre le retour au libellé
-  générique « aucun repère additionnel ».
-
-### Deuxième boucle de précision des coffres OT0 — 13 août 2026
-
-- Les repères de progression peuvent décrire un étage, une pièce, une maison,
-  une pente, un escalier ou un élite ; le vocabulaire suit la source recoupée.
-- Une direction ajoutée ne transforme jamais une zone partiellement documentée
-  en zone contrôlée écran par écran.
-
-### Coastlands et mer OT0 — 13 août 2026
-
-- Les chemins de Coastlands doivent distinguer North Rippletide Coast,
-  Rippletide Coast, Isle of Orsa et Isle of Orsa: Depths.
-- Les coffres de mer (#133 à #138) restent à recouper avec une source dédiée ;
-  une sous-zone ne suffit pas à justifier une direction.
-
-- Les visuels portrait du hero utilisent une source adaptée au ratio de la carte et ne reçoivent pas de quadrillage superposé.
-
-### Cliftlands et Gray Grotto OT0 — 13 août 2026
-
-- La route doit conserver l'ordre West Valore Trail, Cragspear Pass, Cragspear,
-  Gray Grotto, Gray Grotto: Depths et South Cragspear Pass.
-- Un chemin recoupé ne vaut pas validation de toutes les entrées de la zone.
-- Geist Canyon reste une dette explicite jusqu'à sa relecture dédiée.
-
-- Les fiches de soluce utilisent une source panoramique haute définition en 16/9, avec un repli local si elle échoue.
+- Les 454 entrées numérotées doivent conserver un repère exploitable : chemin,
+  salle, étage, gardien, point de collecte ou condition d'ouverture.
+- Le validateur bloque toute ligne `[COFFRE]` qui reviendrait à « aucun repère
+  additionnel » ; une carte externe complète la navigation mais ne remplace pas
+  la précision textuelle ni la vérification finale.
+- Cette passe se clôt par une seule validation et un seul commit local ; aucun
+  push n'est implicite et aucune version ne doit être déclarée livrée avant les
+  validations de publication.
