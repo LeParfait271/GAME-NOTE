@@ -72,6 +72,10 @@ Ce fichier fixe la méthode minimale avant toute modification visible du site.
     sous-titre, description, alerte et badges doivent décrire le bon jeu et le
     bon mode de révélation. Un ancien texte « sans spoiler » ou un résumé d'un
     autre jeu invalide la livraison même si le TXT est correct.
+21. Les icônes déduites automatiquement doivent rester contextuelles : un nom
+    de zone, de village ou de personnage ne suffit pas pour une icône d'objet.
+    Vérifier le sommaire et quelques étapes après chaque extension du vocabulaire
+    de collecte.
 
 Toute nouvelle règle durable doit être ajoutée à GAME_NOTE_RULES.md et
 transformée en validation automatique quand c'est possible.

@@ -106,6 +106,10 @@ statique Cloudflare Pages.
   périmètre, spoilers, compteurs, missables et description doivent parler du
   même jeu. Une carte qui conserve un résumé d'un autre jeu ou « sans spoiler »
   pour une fiche à révélations autorisées est un défaut de publication.
+- L'inférence `[COFFRE]` doit être contextuelle : elle peut marquer une ligne qui
+  donne un journal, disque, arme, Picto, récompense ou collectible, mais pas un
+  simple titre de zone comme `Gestral Village`. Toute extension du vocabulaire
+  doit être relue dans le sommaire et dans le premier écran de route.
 - Les textes ne doivent pas contenir de caractère de remplacement UTF-8 (�),
   de contenu vide ou de doublon d'identifiant.
 - Les nouvelles cartes doivent garder un nom accessible pour chaque bouton et

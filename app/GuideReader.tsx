@@ -162,8 +162,9 @@ const inferGuideMarkers = (
   const markers: GuideMarkerKind[] = [];
   const negatedCollectible = /(?:aucun|aucune|pas de|sans|n['’]y a pas).*(?:coffre|objet|materia|collectible|recompense)/.test(normalized);
   const collectibleMention = /\b(?:coffres?|objets?|items?|materias?|collectibles?|recompenses?|journaux?|disques?|armes?|pictos?|teintures?|jetons?|coiffures?|tenues?|gestrals?|competences?|capacites?|mimes?|petanks?|records?|butins?|recompense)\b/.test(normalized);
+  const headingCollectibleMention = /\b(?:coffres?|objets?|items?|materias?|collectibles?|recompenses?|journaux?|disques?|armes?|pictos?|teintures?|jetons?|coiffures?|tenues?|competences?|capacites?|records?|butins?|gestrals?\s+(?:perdus?|lost))\b/.test(normalized);
 
-  if (sectionMarker === "chest" || (!negatedCollectible && collectibleMention)) {
+  if (sectionMarker === "chest" || (!negatedCollectible && (kind === "heading" || kind === "subheading" ? headingCollectibleMention : collectibleMention))) {
     markers.push("chest");
   }
   if (/\b(?:sauvegarde|sauvegarder|save)\b/.test(normalized)) {

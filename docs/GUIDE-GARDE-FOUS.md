@@ -311,6 +311,11 @@ nom de l'objet. Les autres icônes restent réservées aux alertes de sauvegarde
 de missable, de succès et de boss. Une icône doit signaler une action concrète
 et utile à ce moment précis de la route.
 
+L'inférence automatique ne doit pas marquer les lieux par accident : `Gestral
+Village`, `Monoco's Station` ou un nom de personnage seul ne sont pas des objets.
+Les termes de collecte restent autorisés sur une puce qui décrit effectivement
+un journal, un disque, une arme, une récompense ou un autre objet à contrôler.
+
 Le format maître de la fiche FFVII ajoute un bloc `AVANT DE SORTIR` à chaque
 étape importante. Il doit confirmer uniquement les éléments déjà décrits dans
 la zone : objets et coffres, succès, équipement utile et sauvegarde. Il ne doit
