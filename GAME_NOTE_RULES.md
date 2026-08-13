@@ -540,3 +540,12 @@ comme OT0, restent hors publication jusqu'à leur validation éditoriale.
   panneaux repliables, et les longues fiches restent parcourables au clavier.
 - OT2 est regroupe par region et les titres de combat d'Expedition 33 restent
   des sous-sections ; aucun TXT source n'est rearrange ou ampute.
+
+### Acces local de verification - 14 aout 2026
+
+- Toute modification de l'interface doit rester verifiable sur l'adresse fixe
+  `http://localhost:3000/`.
+- Le point d'entree utilisateur est `APERCU_LOCAL.cmd` ; le script npm
+  equivalent est `preview:local`.
+- Cet acces local ne remplace pas le build ni le preflight et ne declenche aucun
+  push Cloudflare automatiquement.

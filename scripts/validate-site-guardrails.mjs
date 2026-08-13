@@ -133,6 +133,7 @@ function findEmptyMarkdownHeadings(text) {
 }
 
 const requiredSourceFiles = [
+  "APERCU_LOCAL.cmd",
   "A_LIRE_EN_PREMIER.md",
   "GAME_NOTE_RULES.md",
   "app/page.tsx",
@@ -173,6 +174,7 @@ for (const file of requiredSourceFiles) {
 const page = await readText("app/page.tsx");
 const siteVersionSource = await readText("app/site-version.ts");
 const reader = await readText("app/GuideReader.tsx");
+const localPreview = await readText("APERCU_LOCAL.cmd");
 const layout = await readText("app/layout.tsx");
 const stylesheet = await readText("app/globals.css");
 const serviceWorkerSource = await readText("public/service-worker.js");
@@ -212,6 +214,14 @@ if (!page.includes("SITE_VERSION")) {
 }
 if (packageJson?.scripts?.["version:bump"] !== "node scripts/bump-site-version.mjs") {
   fail("package.json: script version:bump absent ou incohérent.");
+}
+if (packageJson?.scripts?.["preview:local"] !== "vinext dev --host 127.0.0.1 --port 3000") {
+  fail("package.json: script preview:local absent ou incohérent.");
+}
+for (const fragment of ["http://localhost:3000/", "--port 3000", "vinext\\dist\\cli.js"]) {
+  if (!localPreview.includes(fragment)) {
+    fail("APERCU_LOCAL.cmd: accès local incomplet (" + fragment + ").");
+  }
 }
 const siteVisibilityMatch = page.match(
   /const SITE_VISIBLE_GUIDE_IDS = new Set\(\[([\s\S]*?)\]\);/,

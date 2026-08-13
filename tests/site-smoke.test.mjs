@@ -29,6 +29,8 @@ const stripHtml = (value) =>
 const index = await read("dist/client/index.html");
 const pageSource = await read("app/page.tsx");
 const readerSource = await read("app/GuideReader.tsx");
+const packageJson = JSON.parse(await read("package.json"));
+const localPreview = await read("APERCU_LOCAL.cmd");
 const serviceWorker = await read("dist/client/service-worker.js");
 const headers = await read("dist/client/_headers");
 const redirects = await read("dist/client/_redirects");
@@ -67,6 +69,8 @@ test("le shell statique conserve les repères accessibles", () => {
   assert.match(readerSource, /className="reader-resume"/);
   assert.doesNotMatch(index, /favorite-toggle|Afficher les guides favoris|Favoris \(/i);
   assert.doesNotMatch(index, /hero-feature|route-console|method-section|mobile-bottom-nav/);
+  assert.equal(packageJson.scripts["preview:local"], "vinext dev --host 127.0.0.1 --port 3000");
+  assert.match(localPreview, /http:\/\/localhost:3000\//);
   assert.match(index, /aria-keyshortcuts="Control\+K Meta\+K"/);
   assert.match(readerSource, /aria-keyshortcuts="\/"/);
   assert.doesNotMatch(index, /\uFFFD/);

@@ -7,6 +7,7 @@
   },
   "scripts": {
     "dev": "vinext dev",
+    "preview:local": "vinext dev --host 127.0.0.1 --port 3000",
     "build": "node scripts/build-pages.mjs",
     "deploy": "npm run build && wrangler pages deploy dist/client",
     "start": "vinext start",

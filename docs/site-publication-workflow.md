@@ -226,3 +226,11 @@ traité comme une récompense d'action et non comme un coffre supplémentaire.
   entree conserve une ancre vers le contenu exact.
 - Le lot se ferme par validation du catalogue, build, preflight, audit qualite,
   lint et smoke tests, puis un unique commit local ; aucun push automatique.
+
+## Acces local apres chaque commit - 14 aout 2026
+
+- Apres chaque commit d'interface, ouvrir `APERCU_LOCAL.cmd` et controler la
+  version sur `http://localhost:3000/` avant toute publication Cloudflare.
+- L'adresse et le port sont fixes afin de garder un favori navigateur permanent.
+- Le build, le preflight, l'audit, le lint et les smoke tests restent obligatoires
+  ; le serveur local ne les remplace pas.

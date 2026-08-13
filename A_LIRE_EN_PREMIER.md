@@ -326,3 +326,12 @@ transformée en validation automatique quand c'est possible.
   lisible, par exemple par region pour les zones d'Octopath Traveler II.
 - Les etapes, coffres et objectifs restent dans le corps du guide ; le sommaire
   ne doit pas les supprimer ni les transformer en faux chapitres.
+
+### Acces local de verification - 14 aout 2026
+
+- Pour verifier la version en cours, double-cliquer `APERCU_LOCAL.cmd` puis
+  ouvrir `http://localhost:3000/`.
+- Le serveur de developpement reste ouvert pendant les commits et recharge les
+  fichiers modifies ; le lien ne change pas.
+- Le controle avant commit confirme que le raccourci, le port 3000 et le script
+  `preview:local` restent presents.

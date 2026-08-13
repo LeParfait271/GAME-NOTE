@@ -721,3 +721,12 @@ une mise à jour qui change les succès ou le contenu, le guide repasse en
   utilisent un regroupement stable par prefixe de zone.
 - Le controle couvre le desktop, le mobile, le clavier, le build, le preflight,
   le lint et les smoke tests avant le commit local.
+
+## Acces local de verification - 14 aout 2026
+
+- Le depot doit conserver `APERCU_LOCAL.cmd`, le script `preview:local` et le
+  port fixe 3000 pour permettre une verification rapide apres chaque commit.
+- Le garde-fou verifie l'URL locale et l'appel Vinext ; une suppression du point
+  d'entree local bloque la validation.
+- Le serveur local est une aide de verification et ne constitue pas une
+  publication distante.
