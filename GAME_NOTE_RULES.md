@@ -91,11 +91,13 @@ statique Cloudflare Pages.
   dont le numéro de ligne varie selon Node. `scripts/build-pages.mjs` ne peut
   tolérer ce signal que si la sortie statique existe, puis doit encore préparer
   et valider `dist/client` ; une sortie présente seule ne vaut pas validation.
-- Pour la phase actuelle, les repères visuels sont activés uniquement sur
-  `final-fantasy-vii-2013`. `[COFFRE]` couvre tous les objets à récupérer
-  (coffres, matérias, collectibles et récompenses) ; les marqueurs
-  `[SAUVEGARDE]`, `[MANQUABLE]`, `[SUCCES]` et `[BOSS]` restent réservés aux
-  alertes correspondantes.
+- Les repères visuels validés sont activés sur `final-fantasy-vii-2013` et
+  `expedition-33`. `[COFFRE]` couvre tous les objets à récupérer (coffres,
+  matérias, collectibles et récompenses) ; les marqueurs `[SAUVEGARDE]`,
+  `[MANQUABLE]`, `[SUCCES]` et `[BOSS]` restent réservés aux alertes
+  correspondantes. Le contenu doit rester découpé en une action par ligne :
+  une suite de cases ou d'actions dans un paragraphe est refusée, même si le
+  TXT reste techniquement lisible.
 - Les textes ne doivent pas contenir de caractère de remplacement UTF-8 (�),
   de contenu vide ou de doublon d'identifiant.
 - Les nouvelles cartes doivent garder un nom accessible pour chaque bouton et

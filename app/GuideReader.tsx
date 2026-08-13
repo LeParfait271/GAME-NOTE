@@ -40,9 +40,12 @@ const GUIDE_MARKERS: Record<GuideMarkerKind, GuideMarkerDefinition> = {
 const GUIDE_MARKER_TOKENS =
   /^\s*((?:\[(?:COFFRE|SAUVEGARDE|MANQUABLE|SUCCES|BOSS)\]\s*)+)(.*)$/i;
 
-const GUIDE_MARKER_GUIDE_ID = "final-fantasy-vii-2013";
+const GUIDE_MARKER_GUIDE_IDS = new Set([
+  "final-fantasy-vii-2013",
+  "expedition-33",
+]);
 const GUIDE_COLLECTIBLE_HEADING =
-  /^(?:coffres?|objets?|items?|materias?|collectibles?|recompenses?)\b.*:\s*$/i;
+  /^(?:coffres?|objets?|items?|materias?|collectibles?|recompenses?|journaux?|disques?|armes?|pictos?|gestrals?|competences?|capacites?|mimes?|petanks?)\b.*:\s*$/i;
 
 type GuideBlock = {
   id: string;
@@ -140,7 +143,7 @@ const inferGuideMarkers = (
   const normalized = normalizeGuideText(text);
   const markers: GuideMarkerKind[] = [];
   const negatedCollectible = /(?:aucun|aucune|pas de|sans|n['’]y a pas).*(?:coffre|objet|materia|collectible|recompense)/.test(normalized);
-  const collectibleMention = /\b(?:coffres?|objets?|items?|materias?|collectibles?|recompenses?)\b/.test(normalized);
+  const collectibleMention = /\b(?:coffres?|objets?|items?|materias?|collectibles?|recompenses?|journaux?|disques?|armes?|pictos?|teintures?|jetons?|coiffures?|tenues?|gestrals?|competences?|capacites?|mimes?|petanks?|records?|butins?|recompense)\b/.test(normalized);
 
   if (sectionMarker === "chest" || (!negatedCollectible && collectibleMention)) {
     markers.push("chest");
@@ -470,7 +473,7 @@ export default function GuideReader({
     };
   }, [error, loading, selected.file]);
 
-  const markersEnabled = selected.id === GUIDE_MARKER_GUIDE_ID;
+  const markersEnabled = GUIDE_MARKER_GUIDE_IDS.has(selected.id);
   const blocks = useMemo(
     () => parseGuide(guideText, markersEnabled),
     [guideText, markersEnabled],

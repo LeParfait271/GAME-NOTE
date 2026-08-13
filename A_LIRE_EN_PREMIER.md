@@ -61,6 +61,9 @@ Ce fichier fixe la méthode minimale avant toute modification visible du site.
 17. Sur Windows, une assertion post-build `UV_HANDLE_CLOSING` n'est tolérée que
     si `dist/client/index.html` existe et que les validations Pages poursuivent
     leur exécution. Le numéro de ligne de l'assertion peut varier selon Node.
+18. Le format visuel validé sur FFVII est aussi obligatoire pour Expedition 33 :
+    activer les mêmes repères dans le lecteur, garder une action par ligne et
+    contrôler le rendu réel de la fiche avant de déclarer la réécriture terminée.
 
 Toute nouvelle règle durable doit être ajoutée à GAME_NOTE_RULES.md et
 transformée en validation automatique quand c'est possible.

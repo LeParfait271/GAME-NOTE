@@ -262,9 +262,9 @@ doit passer `scripts/audit-guide-quality.mjs` et sa relecture manuelle :
 
 ## Repères visuels du lecteur premium
 
-Pour la phase actuelle, ces repères sont activés uniquement sur la fiche
-`final-fantasy-vii-2013`. Aucune autre soluce ne doit être reclassée ou
-enrichie visuellement sans demande explicite.
+Pour le lot premium en cours, ces repères sont activés sur les fiches
+`final-fantasy-vii-2013` et `expedition-33`. Une autre soluce ne doit pas être
+reclassée ou enrichie visuellement sans demande explicite.
 
 Les fichiers TXT restent la source hors ligne et doivent rester lisibles sans
 le site. Les repères visuels ajoutés par le lecteur servent uniquement à
@@ -281,6 +281,11 @@ début de la ligne, avant le tiret ou la case à cocher :
 - `[SUCCES]` : objectif Steam ou étape directement liée ;
 - `[BOSS]` : boss ou combat clé.
 
+Une étape de route doit rester une ligne structurée, sous forme de puce ou de
+case isolée. Les suites de `[ ]` séparées par des phrases dans un seul
+paragraphe sont interdites : elles empêchent le lecteur de rendre les repères,
+la recherche et le suivi utilisables.
+
 Exemple : `[COFFRE] - Dans la salle nord, ouvrir le coffre avant de prendre
 l'ascenseur.` Les marqueurs peuvent être combinés, par exemple
 `[MANQUABLE] [SAUVEGARDE]`. Le lecteur retire la syntaxe du texte affiché,
@@ -288,12 +293,12 @@ expose une légende accessible et rend les repères recherchables.
 
 Le lecteur déduit aussi automatiquement les repères évidents dans les titres,
 sous-titres, puces et cases à cocher existants. Cette déduction est un filet de
-sécurité pour la fiche FFVII ; pour toute nouvelle information critique, le
-marqueur explicite reste préférable. Un seul pictogramme couvre les objets à
-trouver : ne pas multiplier les icônes selon le nom de l'objet. Les autres
-icônes restent réservées aux alertes de sauvegarde, de missable, de succès et
-de boss. Une icône doit signaler une action concrète et utile à ce moment précis
-de la route.
+sécurité pour les fiches FFVII et Expedition 33 ; pour toute nouvelle
+information critique, le marqueur explicite reste préférable. Un seul
+pictogramme couvre les objets à trouver : ne pas multiplier les icônes selon le
+nom de l'objet. Les autres icônes restent réservées aux alertes de sauvegarde,
+de missable, de succès et de boss. Une icône doit signaler une action concrète
+et utile à ce moment précis de la route.
 
 Le format maître de la fiche FFVII ajoute un bloc `AVANT DE SORTIR` à chaque
 étape importante. Il doit confirmer uniquement les éléments déjà décrits dans
