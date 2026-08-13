@@ -612,6 +612,8 @@ une mise à jour qui change les succès ou le contenu, le guide repasse en
   le service worker continue de fonctionner silencieusement.
 - Le dernier guide ouvert est le point de reprise rouge ; l'historique jaune
   reste local à l'appareil, ordonné par utilisation et limité à cinq fiches.
+- Le point de reprise et chaque ligne historique réutilisent l'ouverture
+  normale de la bibliothèque afin de conserver la progression du lecteur.
 - Les statuts hors ligne et les erreurs de route restent conservés car ils
   décrivent l'état réel de l'application.
 - Le contrôle couvre l'accueil, la bibliothèque, le lecteur, le clavier, le

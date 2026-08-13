@@ -444,6 +444,8 @@ contrôle de la fiche concernée.
   les messages hors ligne et les erreurs de route restent des statuts utiles.
 - Le hero peut afficher le dernier guide réellement ouvert en rouge et un
   historique local de cinq guides maximum en jaune, dans l'ordre d'utilisation.
+- Le bouton de reprise et une entrée de l'historique doivent ouvrir la même
+  fiche que la bibliothèque, sans créer une navigation parallèle.
 - Le contrôle couvre l'entrée, le hero, la bibliothèque, le lecteur, le clavier,
   le mobile, puis lint, build, preflight et smoke.
 ### Couverture cartographique étendue OT0 — 13 août 2026
