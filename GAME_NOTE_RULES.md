@@ -319,3 +319,17 @@ contrôle de la fiche concernée.
 - Pour la capture du 13 aout 2026, OCTOPATH TRAVELER 0 est planifie (3014320,
   37 succes) ; Dota Underlords, Rocket League, Dota 2, Brotato et FINAL FANTASY
   VII EVER CRISIS restent exclus.
+## Lot scène d'entrée et archive monumentale - 13 août 2026
+
+- Ouverture : l'accueil commence par une carte d'entrée courte, une typographie
+  géante et un accès `Entrer` avant de révéler l'archive interactive.
+- Composition : la liste monumentale, l'image centrale et les repères latéraux
+  servent une scène éditoriale unique ; ils ne remplacent pas l'index réel ni
+  les boutons de lecture.
+- Accessibilité : l'overlay disparaît automatiquement, reste non bloquant et
+  `prefers-reduced-motion` le supprime entièrement ; le lien d'entrée doit
+  rester utilisable au clavier.
+- Contrôle attendu : vérifier l'entrée et sa révélation, le premier écran
+  desktop, le mobile sans débordement, puis lint, build, preflight et smoke.
+- Limite : ce lot ne modifie ni les textes des guides, ni leurs compteurs, ni
+  la navigation du lecteur.

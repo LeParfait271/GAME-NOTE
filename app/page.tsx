@@ -3398,6 +3398,24 @@ export default function Home() {
         onPointerMove={handleHeroPointerMove}
         onPointerLeave={handleHeroPointerLeave}
       >
+        <div className="hero-entry" aria-label="Entrée dans l'archive Game Note">
+          <div className="hero-entry-meta"><span>GAME NOTE</span><span>ARCHIVE / 2026</span></div>
+          <div className="hero-entry-title" aria-hidden="true">
+            <span>PERSONAL</span>
+            <span>ROUTE</span>
+            <span>ARCHIVE</span>
+          </div>
+          <div className="hero-entry-card">
+            {/* eslint-disable-next-line @next/next/no-img-element */}
+            <img src="/images/cards/game-note-card-route.png" alt="" width={900} height={900} />
+            <a className="hero-entry-link" href="#guides">Entrer <span aria-hidden="true">↗</span></a>
+          </div>
+          <div className="hero-entry-side">
+            <span>CHRONOLOGICAL GUIDES</span>
+            <span>STEAM / OFFLINE / FR</span>
+          </div>
+          <span className="hero-entry-counter">01 / 01</span>
+        </div>
         <div className="portfolio-hero-media" aria-hidden="true">
           {/* eslint-disable-next-line @next/next/no-img-element */}
           <img
@@ -3424,6 +3442,18 @@ export default function Home() {
           <span className="hero-crosshair hero-crosshair-two" />
           <span className="hero-telemetry hero-telemetry-top">ROUTE SYSTEM / 186</span>
           <span className="hero-telemetry hero-telemetry-bottom">SIGNAL / LOCAL ARCHIVE</span>
+        </div>
+        <div className="hero-archive-wall" aria-hidden="true">
+          <div className="hero-archive-wall-track">
+            <span>EXPEDITION 33</span>
+            <span>OCTOPATH TRAVELER</span>
+            <span>ROUTE CHRONOLOGIQUE</span>
+            <span>55 SUCCÈS / 100 % STEAM</span>
+            <span>MISSABLES / JOURNAUX / DISQUES</span>
+            <span>EXPEDITION 33</span>
+            <span>OCTOPATH TRAVELER</span>
+            <span>ROUTE CHRONOLOGIQUE</span>
+          </div>
         </div>
         <div className="portfolio-hero-topline">
           <span>GAME NOTE / FIELD MANUAL</span>

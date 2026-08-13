@@ -495,3 +495,14 @@ une mise à jour qui change les succès ou le contenu, le guide repasse en
 - Le contrôle de commit vérifie la cohérence de la file avec le catalogue, les
   audits Steam et la publication temporaire, puis conserve le bump de version
   `0.01` et le commit local obligatoire.
+## Lot scène d'entrée et archive monumentale - 13 août 2026
+
+- L'entrée présente une carte, une typographie géante et un lien direct avant
+  la révélation de l'accueil ; elle ne doit pas devenir un écran obligatoire.
+- La scène principale conserve le titre, l'index, les actions et l'image de
+  route sous forme de contenu réel, avec les grands textes décoratifs en
+  `aria-hidden`.
+- Le contrôle couvre le délai d'entrée, la révélation, le clavier, le mobile,
+  l'absence de débordement et le mode `prefers-reduced-motion`.
+- Aucun contenu éditorial de guide, compteur Steam ou comportement du lecteur
+  n'est inclus dans ce lot visuel.

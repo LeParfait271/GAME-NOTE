@@ -141,3 +141,7 @@ transformée en validation automatique quand c'est possible.
     profondeur, orbites, grain, scan, parallaxe et bandeau cinétique restent
     décoratifs, ne doivent pas gêner la lecture et doivent respecter
     `prefers-reduced-motion`, le clavier et le petit écran.
+35. Une séquence d'entrée peut mettre en scène l'archive avant le hero, mais
+    elle doit rester courte, non bloquante et fournir un accès direct à l'index.
+    En mouvement réduit, l'entrée est supprimée et le contenu principal doit
+    être immédiatement visible.
