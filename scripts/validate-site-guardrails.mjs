@@ -221,21 +221,22 @@ if (octopathZeroDraft) {
       `${octopathZeroDraftPath}: la checklist finale OT0 doit contenir exactement 37 succès (actuel : ${steamChecks.length}).`,
     );
   }
-  const characterSection = octopathZeroDraft.split("36 PERSONNAGES JOUABLES")[1]?.split("RÉCITS SECONDAIRES À COCHER")[0] ?? "";
+  const sideStoryHeading = "RÉCITS SECONDAIRES — ROUTE CHRONOLOGIQUE (57/57)";
+  const characterSection = octopathZeroDraft.split("36 PERSONNAGES JOUABLES")[1]?.split(sideStoryHeading)[0] ?? "";
   const characterChecks = [...characterSection.matchAll(/^- \[ \] \d{2} .+$/gm)];
   if (characterChecks.length !== 36) {
     fail(
       `${octopathZeroDraftPath}: le registre des personnages doit contenir exactement 36 cases (actuel : ${characterChecks.length}).`,
     );
   }
-  const sideStorySection = octopathZeroDraft.split("RÉCITS SECONDAIRES À COCHER DANS L'ORDRE D'APPARITION")[1]?.split("BESTOWER OF WEALTH")[0] ?? "";
+  const sideStorySection = octopathZeroDraft.split(sideStoryHeading)[1]?.split("BESTOWER OF WEALTH")[0] ?? "";
   const sideStoryChecks = [...sideStorySection.matchAll(/^- \[ \] .+$/gm)];
-  if (sideStoryChecks.length !== 56) {
+  if (sideStoryChecks.length !== 57) {
     fail(
-      `${octopathZeroDraftPath}: le registre des récits secondaires doit contenir exactement 56 cases (actuel : ${sideStoryChecks.length}).`,
+      `${octopathZeroDraftPath}: le registre des récits secondaires doit contenir exactement 57 cases (actuel : ${sideStoryChecks.length}).`,
     );
   }
-  for (const requiredSideStory of ["An Encounter with H'aanit", "The Monster Arena", "Greatest Expectations"]) {
+  for (const requiredSideStory of ["An Encounter with H'aanit", "The Monster Arena", "Greatest Expectations", "Unnatural Tremors"]) {
     if (!sideStorySection.includes(requiredSideStory)) {
       fail(`${octopathZeroDraftPath}: récit secondaire requis absent (${requiredSideStory}).`);
     }

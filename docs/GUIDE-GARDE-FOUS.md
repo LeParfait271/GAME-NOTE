@@ -535,12 +535,15 @@ une mise à jour qui change les succès ou le contenu, le guide repasse en
 
 ### Contrôle roster et récits secondaires OT0
 
-- Le validateur contrôle 36 fiches de personnages et 56 récits secondaires dans
+- Le validateur contrôle 36 fiches de personnages et 57 récits secondaires dans
   le brouillon OT0, en plus des 454 trésors et 37 succès Steam.
 - Les omissions de `An Encounter with H'aanit`, `The Monster Arena` ou
-  `Greatest Expectations` bloquent la passe de contrôle.
+  `Greatest Expectations` ou `Unnatural Tremors` bloquent la passe de contrôle.
 - Le contrôle exige aussi les cinq zones de fragments, dont le Cat of Graceful
   Bearing à Atlasdam, sans l'ajouter artificiellement aux 454 trésors.
+- Les 57 fiches secondaires doivent donner une fenêtre d'accès, un lieu, une
+  action ou un combat et une récompense ; un simple catalogue de noms ne suffit
+  plus pour passer le contrôle éditorial.
 ## Lot scène d'entrée et archive monumentale - 13 août 2026
 
 - L'entrée présente une carte, une typographie géante et un lien direct avant

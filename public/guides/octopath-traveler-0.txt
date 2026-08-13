@@ -33,6 +33,7 @@ COMPTEURS À ATTEINDRE
 - 8/8 clés ornées et trésors sacrés.
 - 9/9 armes Forbidden.
 - 5/5 fragments de lettre.
+- 57/57 récits secondaires et fiches de quêtes optionnelles.
 - Wishvale au niveau maximal, musée, arène des monstres, église, dais et
   Strange House construits.
 - Tous les récits secondaires et toutes les zones post-game terminés.
@@ -747,66 +748,82 @@ registre simple et obtenir `[SUCCÈS] The Summoned`.
 - [ ] 36 Isla — réunir les cinq Letter Fragments, obtenir la Secret Invitation
   et la recruter sur l'Isle of Sages après les finales requises.
 
-RÉCITS SECONDAIRES À COCHER DANS L'ORDRE D'APPARITION
+RÉCITS SECONDAIRES — ROUTE CHRONOLOGIQUE (57/57)
 
-- [ ] Rekindling the Flame Pt. 1 — première maison et première invitation.
-- [ ] Rekindling the Flame Pt. 2 — débloquer la ferme et les installations.
-- [ ] Rekindling the Flame Pt. 3 — ouvrir le commerce.
-- [ ] Rekindling the Flame Pt. 4 — préparer la Church.
-- [ ] Rekindling the Flame Pt. 5 — progresser à Shepherds Rock.
-- [ ] A Clan's Pride.
-- [ ] A Complete Collection.
-- [ ] A Father's Love.
-- [ ] A Long-Lost Love.
-- [ ] A Stubborn Master.
-- [ ] A Unique Figurine.
-- [ ] Alpaca Roundup.
-- [ ] An Assistant Like No Other.
-- [ ] An Encounter with Alexia.
-- [ ] An Encounter with Alfyn.
-- [ ] An Encounter with Carinda.
-- [ ] An Encounter with Celsus.
-- [ ] An Encounter with Cyrus.
-- [ ] An Encounter with Delitia.
-- [ ] An Encounter with Esperre.
-- [ ] An Encounter with Goodwin.
-- [ ] An Encounter with Macy.
-- [ ] An Encounter with H'aanit — Victors Hollow : Z'aanta, Great Tree's Tears,
-  sangliers puis Ivory Shadow ; recrute H'aanit.
-- [ ] An Encounter with Olberic.
-- [ ] An Encounter with Ophilia.
-- [ ] An Encounter with Pius.
-- [ ] An Encounter with Primrose.
-- [ ] An Encounter with Reime.
-- [ ] An Encounter with Saoirse.
-- [ ] An Encounter with Therion.
-- [ ] An Encounter with Tressa.
-- [ ] An Encounter with Viator.
-- [ ] An Encounter with Xerc.
-- [ ] An Un-Fur-gettable Reunion.
-- [ ] Books Overdue.
-- [ ] Donescu's Successor.
-- [ ] Fetching Soulstones.
-- [ ] Greatest Expectations.
-- [ ] Heidne and the Man-Eating Miser.
-- [ ] In Search of What Remains.
-- [ ] One's True Worth.
-- [ ] The Big 'Un.
-- [ ] The Blade of the Weak.
-- [ ] The Eight Sacred Treasures.
-- [ ] The Freezing Cold.
-- [ ] The Hidden Isle.
-- [ ] The Last Cask.
-- [ ] The Monster Arena — Wishvale : construis l'arène, capture la cible de la
-  quête et vérifie le bâtiment avant les combats de post-game.
-- [ ] The Missing Brother.
-- [ ] The Queen Orsa.
-- [ ] The Rarest of Eggs.
-- [ ] The Sage Beckons.
-- [ ] Ticket Woes.
-- [ ] To Lift the Town's Spirits.
-- [ ] Truth of the Departed.
-- [ ] What Remains of the Black Scarlet.
+Cette route classe les récits par fenêtre d'accès, pas par ordre alphabétique.
+Quand deux fiches sont dans le même bloc, fais-les pendant le même passage dans
+la région. Les récompenses de recrutement comptent pour `[SUCCÈS] The Summoned` ;
+les récompenses marquées `[COFFRE]` sont des objets de route, pas des lignes
+supplémentaires du registre numéroté des 454 trésors.
+
+PHASE 1 — PROLOGUE, PREMIÈRES VILLES ET KINDLERS 1-2
+
+- [ ] 01 — Rekindling the Flame Pt. 1 — Après le prologue, parle à Stia à Wishvale, va dans la maison de North Theatropolis Plains, utilise Inquire puis Invite sur Tyme, reviens, dégage les gravats à l'ouest de l'atelier et construis sa maison. `[COFFRE]` Fouille le meuble de sa maison pour Cheap Whiskey. Récompense : construction de Wishvale débloquée.
+- [ ] 02 — An Encounter with Celsus — Après le prologue, parle à Celsus dans la taverne de Valore. Choisis l'option de recrutement (la réponse « To seek renewal » fonctionne), puis invite-le. Récompense : Celsus rejoint l'équipe et Wishvale.
+- [ ] 03 — An Encounter with Macy — Dans l'auberge d'Emberglow, accompagne Macy dans la maison centrale du quartier est, achète Herb of Fortification à la boutique pour 30 feuilles et rapporte-le-lui. Confirme son invitation. Récompense : Macy rejoint l'équipe et Wishvale.
+- [ ] 04 — An Encounter with Alexia — Dans la bibliothèque de Theatropolis, récupère `[COFFRE]` Letter Fragment sur l'étagère ouest, puis utilise Entreat sur Alexia avec le fragment. Récompense : Alexia rejoint l'équipe et le fragment est enregistré.
+- [ ] 05 — An Encounter with Viator — Dans la taverne de Valore, parle au PNJ en vert avec une Crested Key dans l'inventaire. Si tu n'as pas choisi la clé au départ, achète-en une au Young Antique Dealer de Victors Hollow. Viator remet la Crested Key (Sword) et rejoint l'équipe.
+- [ ] 06 — An Encounter with Pius — Parle à Pius devant l'église de Cragspear, puis rejoins le cimetière à l'est de Wishvale et invite-le pendant la scène. Récompense : Pius rejoint l'équipe et Wishvale.
+- [ ] 07 — Rekindling the Flame Pt. 2 — Pendant Path to Self-Sustainability, va à Rippletide, parle au résident à l'ouest de la taverne, construis une grande maison à Wishvale (10 Lumber, 10 Stone, 10 Cloth), puis Inquire/Invite Illian et Olive. Place-les ensemble dans la grande maison. Récompense : progression du développement de Wishvale.
+- [ ] 08 — A Stubborn Master — À l'arrivée à Rippletide, parle au chef dans la taverne. À Theatropolis, Inquire puis Hire le Young Man près de l'entrée ; ramène-le au chef/pêcheur. Récompenses : Rainbow Shell Charm et Quality Whiskey.
+- [ ] 09 — An Encounter with Tressa — À Rippletide, parle à Olneo à l'est, puis à Theatropolis : shopkeeper en vert à l'ouest de la sortie est, shopkeeper au sud-ouest de l'auberge, retour au premier. Bats Acdam et son membre, puis entre dans la maison Colzione à Rippletide. `[COFFRE]` Tressalad Recipe. Récompense : Tressa rejoint l'équipe et Wishvale.
+- [ ] 10 — The Last Cask — Après Master of Wealth 1, parle au fabricant de brandy dans le quartier principal de Valore. À Theatropolis, Inquire puis Hire le Liquor Connoisseur dans la taverne ; ramène-le au fabricant. Récompenses : 1 500 feuilles et progression de Wealth.
+
+PHASE 2 — MASTER/WEALTH/POWER/FAME ET PREMIÈRES RECRUES AVANCÉES
+
+- [ ] 11 — An Encounter with H'aanit — Après Bestower of Wealth 1, parle à l'homme dans la taverne de Victors Hollow. Traverse Victors Hollow Trail vers Great Tree's Tears : bats Wild Boar au sud-est, puis Ivory Shadow au centre-est. Récompense : H'aanit rejoint l'équipe et Wishvale.
+- [ ] 12 — A Complete Collection — Après Bestower of Wealth 1, parle au collectionneur à Victors Hollow: Arena Gate. Entreat l'Arena Medal au Blank-Eyed Gladiator de l'Old Quarter, rends la copie au collectionneur, reparle au gladiateur, puis prends la vraie médaille au point bleu à l'est de Great Tree's Tears. Récompenses : 20 000 feuilles et Collector's Hat.
+- [ ] 13 — An Encounter with Delitia — Après Master of Power 2, utilise Contend sur Delitia devant la taverne d'Emberglow. Bats-la, puis accepte de chercher son frère. Récompense : Delitia rejoint l'équipe et Wishvale.
+- [ ] 14 — An Encounter with Cyrus — Après Bestower of Fame 2, bats Gluttonous Salamander au sud-ouest d'Atlasdam Flats. Va à la Royal Academy, salle est du deuxième étage, repose-toi à l'auberge, reparle à Cyrus puis retourne dans l'angle sud-ouest des Flats. Récompense : Cyrus rejoint l'équipe et Wishvale.
+- [ ] 15 — The Missing Brother — Après Bestower of Fame 2, parle à la personne devant l'auberge d'Atlasdam. Écoute la piste à la taverne, parle au PNJ devant l'auberge de Flamesgrace puis à la femme à l'étage, et rejoins Donescu. Suis Fortis dans East Cyphlo Banks et bats les trois Detof Clan Pursuers. `[COFFRE]` Finisher's Claws et Cat's Eye.
+- [ ] 16 — Books Overdue — Dans la bibliothèque d'Atlasdam Palace Gate, parle à Mercedes. Récupère Healing Hot Springs auprès du Hot Springs Enthusiast à Berecain, The King and the Golden Dust auprès du Kindly Millionaire à Sufrataljah, puis Adrift in the Vast River dans la maison sud-est de Donescu et le point brillant au sud-est de Misty Falls. Récompenses : 16 000 feuilles et Librarian's Amulet.
+- [ ] 17 — An Encounter with Saoirse — Après Bestower of Fame 3, entre dans l'Amphitheatre de Theatropolis et choisis exactement : « Lightly as a kingfisher », « Gaily as a baleful bloom », « Fiercely as a fungold ». Récompense : Saoirse rejoint l'équipe et Wishvale.
+- [ ] 18 — Ticket Woes — Après Bestower of Fame 3, parle à la femme près du mémorial d'Auguste. Dans North Theatropolis Plains, Inquire le Man Who Lost His Ticket au sud-ouest, puis prends `[COFFRE]` Memorial Play Ticket dans l'angle sud-ouest de Serpent's Burrow. Récompense : 3 500 feuilles.
+- [ ] 19 — What Remains of the Black Scarlet — Après Bestower of Fame 3 et le recrutement de Pius, parle au donneur de quête à Flamesgrace. Va au sommet de Path to the Cave of Origin et bats les soldats Black Scarlet. Récompense : Commemorative Coin.
+- [ ] 20 — An Encounter with Xerc — Après Bestower of Power 2, parle à Xerc dans le Grandport Bazaar et paie 10 000 feuilles. Suis Athessa vers Grandport: Estate Entrance et bats Immoral Noble et ses deux hommes. `[COFFRE]` Rainbow Soulstone. Récompense : Xerc rejoint l'équipe et Wishvale.
+- [ ] 21 — An Assistant Like No Other — Après Bestower of Power 3, parle à la femme au deuxième étage de l'auberge d'Atlasdam. Dans Atlasdam Flats, au sud, bats trois Light Elementals ; rapporte lettre et matériaux, puis retourne dans les Flats pour sauver Athessa et bats Immoral Scholar et ses deux assistants. Récompenses : 22 000 feuilles et Assistant's Amulet.
+- [ ] 22 — An Encounter with Esperre — Après Bestower of Wealth 2, parle à Esperre près du coffre bleu de Sufrataljah Sands. Va à l'est, perds volontairement le premier combat contre Colossal Blightant, reviens au même endroit et bats-le réellement. Récompense : Esperre rejoint l'équipe et Wishvale.
+- [ ] 23 — The Freezing Cold — Après Master of Power 3, parle à la fille dans Emberglow: East District. Inquire l'homme près de la boutique d'objets à Valore, Hire-le, puis ramène-le à Emberglow. Récompense : Bronze-Filled Pouch.
+- [ ] 24 — An Encounter with Ophilia — Quand Wealth, Power et Fame 2 sont terminés, parle à Ophilia à l'entrée de la cathédrale de Flamesgrace. Sors vers les Wilds, parle à Edwin au nord, bats Edwin et son subordonné, puis recrute Ophilia. Récompense : Ophilia rejoint l'équipe et Wishvale.
+- [ ] 25 — The Big 'Un — Après Waterpool Caves, parle au pêcheur dans Clearbrook Traverse. Achète trois Shrimp à la Cloudy-Eyed Fisherwoman de Clearbrook (300 feuilles chacun, 150 après marchandage), donne-les au pêcheur et bats The Big 'Un. `[COFFRE]` Master Harpoon.
+- [ ] 26 — An Encounter with Alfyn — Quand Kindlers 5 et Master of All 2 sont terminés et Wishvale est au niveau 6, traverse Path to Waterpool Caves puis Clearbrook. Accompagne Alfyn à Flamesgrace Wilds, bats Frost Bear, Hoary Howler et Winter Wanderweed, rapporte Snowgrass Root à sa maison de Clearbrook. Récompense : Alfyn rejoint l'équipe et Wishvale.
+- [ ] 27 — An Encounter with Therion — Après Master of All 2, parle au marchand près de la statue à Cragspear, achète le Prince of Thieves Necklace pour 1 000 feuilles, traverse Cragspear Pass vers Gray Grotto et bats Dreige et ses sbires. Retourne à la taverne de Cragspear pour l'inviter. Récompense : Therion rejoint l'équipe et Wishvale.
+- [ ] 28 — An Encounter with Primrose — Après Master of All 4, utilise Inquire sur Primrose dans la taverne de Sunshade, parle à Pierro dans le repaire de Valore, puis retourne à Sunshade. Bats Rosso (faiblesses Sword, Axe, Staff, Lightning, Wind) et invite Primrose. Récompense : Primrose rejoint l'équipe et Wishvale.
+- [ ] 29 — The Rarest of Eggs — Après Master of All 6, parle au gourmand dans la maison à l'est de la boutique de Cragspear. Hire l'Artistic Chef dans la taverne, ramène-le, puis Hire le Fastidious Cook à l'étage de l'auberge sans renvoyer le premier ; rapporte les deux. `[COFFRE]` Good-Luck Omelette Recipe et Catsip.
+- [ ] 30 — Rekindling the Flame Pt. 3 — Pendant To Enrich the Town, trouve Lutus sur le pont de Cragspear. Inquire puis Contend le marchand corrompu dans la taverne, parle à Master Benno, récupère l'Antique Jewelry Box en affrontant de nouveau le marchand, échange-la contre le pendentif, puis Inquire/Invite Lutus et place-le à Wishvale. `[COFFRE]` Profite du même passage pour acheter la Cow au Disagreeable Merchant et prendre la Carrot Seed.
+- [ ] 31 — Rekindling the Flame Pt. 4 — Après Master of All 3 et la construction du Shop, parle au voyageur dans la boutique de Wishvale. Va voir Zeph à Clearbrook, puis obtiens Avinea : achat au Collector of Rare Items de Sunshade (20 000 feuilles, 10 000 après marchandage) ou achat d'Apinea au Peddler of Diverse Goods de Shepherds Rock pour faire apparaître Avinea à Cavern of Mists. Donne l'herbe à Zeph, puis Inquire/Invite Lila et Jasper et loge-les à Wishvale.
+- [ ] 32 — Rekindling the Flame Pt. 5 — Après Pt. 4, parle à Carabell dans sa maison avec l'enclos à moutons de Shepherds Rock. Va sauver Karan dans le sud-ouest de Shepherds Rock Pass, parle à Olive à Wishvale, cuisine le plat préféré choisi à la création au Hub, puis Invite Karan et Carabell et place-les dans une maison. Récompense : progression de Wishvale.
+- [ ] 33 — Fetching Soulstones — Dans Flamesgrace Wilds, parle au Knight Ardante à l'est. Vole ou bats Flame Remnant Mk.II à Finesand Ruins jusqu'à obtenir trois Fire Soulstones, puis rapporte-les. `[COFFRE]` Ward of the Knight Ardante et Cat's Eye.
+- [ ] 34 — An Encounter with Reime — Après Bestower of Wealth 3, parle à Delvecchio dans l'Old Quarter de Victors Hollow, bats Giant Gator et Spiked Skink, puis les deux manches de l'arène et enfin Reime. Utilise Parry de Viator pour neutraliser ses contres. Récompense : Reime rejoint l'équipe et Wishvale.
+- [ ] 35 — An Encounter with Olberic — Après Master of All et Kindlers 5, parle à Ivan dans la maison nord-est de Shepherds Rock. Inquire Ivan, suis le passage vers Shepherds Rock Pass, parle à l'Unbending Blade, reviens au garde masqué, puis affronte Imposter Olberic dans un duel contrôlé par Olberic. Récompense : Olberic rejoint l'équipe et Wishvale.
+- [ ] 36 — Alpaca Roundup — Après Master of All 8, parle à l'éleveur à gauche de la fontaine de Shepherds Rock. Capture les trois alpacas dans Shepherds Rock Pass ; le troisième déclenche `[BOSS]` Mighty Managarmr. Rapporte-les à l'éleveur. `[COFFRE]` Savage Claw Mastery, 14 000 feuilles et Amulet of the Nomad.
+- [ ] 37 — The Monster Arena — Construis le Museum puis l'arène à Wishvale (niveau de ville 6 conseillé), obtiens un Monster Trap auprès du PNJ de la taverne de Flamesgrace et capture Gigantes près de l'entrée de Path to Waterpool Caves. Ramène-le à Adrian. Après l'ouverture, capture aussi Man-Eating Flora à Path to Herminia's Manse pour faire apparaître le cinquième Letter Fragment. Récompense : bâtiment Monster Arena et `[COFFRE]` Letter Fragment.
+- [ ] 38 — Unnatural Tremors — Après la finale des trois arcs Master, parle au PNJ au sud-ouest de Berecain. À Atlasdam Palace Gate, recrute l'Enthusiastic Geologist près de la bibliothèque, rapporte-le à Berecain, puis bats Ruler of the Sands dans Sweltering Cave. Récompense : 25 000 feuilles.
+
+PHASE 3 — NAVIGATION, POST-MASTER ET RECRUES DE MER
+
+- [ ] 39 — The Queen Orsa — Après les trois finales Master, parle à Marjim sur les quais de Rippletide. Inquire le PNJ du quai, écoute la piste du shipwright dans la taverne, recrute l'ancien à gauche de la boutique d'Emberglow, rapporte-le à Marjim, puis Inquire Marjim. À Cragspear, Inquire puis Hire la femme aux cheveux orange au nord, et retourne à Rippletide. Récompense : le navire Queen Orsa et l'exploration maritime ; Invite ensuite Marjim et Chiara à Wishvale.
+- [ ] 40 — The Eight Sacred Treasures — Après Queen Orsa et le recrutement de Viator, ouvre la porte de l'Isle of Heroes Past. Dans la tour, bats Warbringer's Phantom, ouvre les huit emplacements avec Dagger, Sword, Axe, Tome, Fan, Polearm, Staff et Bow Crest, puis examine la statue centrale. Récompense : Storm Blade, Deathclaw Dagger, Tempest Spear, Spirit Axe, Moonlit Bow, Evenfall Fan, Solaris Tome et Staff of Discipline.
+- [ ] 41 — An Un-Fur-gettable Reunion — Après Power 2 et le déblocage d'Animal Whisperer, recrute le chat sur le quai sud de Grandport, puis va au Desert Island de l'Outersea. Inquire l'Animal-Loving Sailor et parle-lui avec le chat comme Helper. `[COFFRE]` Sailor's Charm et Cat's Eye.
+- [ ] 42 — The Blade of the Weak — Après Power 3 et le recrutement de Viator, parle au donneur de quête sur le quai de Rippletide, va à Isle in the Middlesea et bats Former Edoras Captain et deux Former Edoras Soldiers. À Cragspear, parle à Chief Vassal Krauser sur le pont nord-ouest. Récompense : Gold-Filled Pouch.
+- [ ] 43 — In Search of What Remains — Pendant Bestower of All 4, débarque au Sunken Ship. Traverse tout le navire, ouvre le coffre noir et or et bats `[BOSS]` Abysmal One. `[COFFRE]` Fan of the Dragon Princess et Jewel Bag.
+- [ ] 44 — An Encounter with Goodwin — Après Queen Orsa, Master of All 5 et Wishvale niveau 6, débarque à Shipwreck Island et Inquire Goodwin deux fois. Pour Ratatouille, prends le livre auprès du Capable Culinarian d'Atlasdam ou achète le plat ; recette : 2 Onion, 2 Paprika, 2 Tomato et 1 Garlic. Donne le plat et invite Goodwin. Récompense : Goodwin rejoint l'équipe et Wishvale.
+- [ ] 45 — An Encounter with Carinda — Après Power 1, parle à l'homme encapuchonné près du point de sauvegarde de Donescu. Prends la Donescia au point bleu de Donescu Traverse, rapporte-la, achète les Apothecary's Tools à Zeph de Clearbrook (4 500 feuilles, 9 000 sans remise), sauve le convoi à East Clearbrook Traverse et invite Carinda à Donescu. Récompense : Carinda rejoint l'équipe et Wishvale.
+- [ ] 46 — To Lift the Town's Spirits — Après Power 3, avec Goodwin et Saoirse recrutés, parle au garçon devant la taverne de Donescu. Passe par la taverne de Wishvale, puis recrute Rilie l'actrice près du mémorial de Theatropolis et Milos le dramaturge dans l'Amphitheatre. Ramène les deux Helpers à Donescu. `[COFFRE]` Blissful Amulet et Cat's Eye.
+
+PHASE 4 — BESTOWER OF ALL, FIN DE CAMPAGNE ET NETTOYAGE
+
+- [ ] 47 — One's True Worth — Dans Sunshade Sands, parle au donneur de quête, va à Finesand Ruins au nord-est et bats les deux Slave Traders. Après la scène de l'auberge de Sunshade, va à Wishvale et bats Heidne lors de la rencontre imposée. Récompense : deux Silver-Filled Pouches.
+- [ ] 48 — Heidne and the Man-Eating Miser — Après One's True Worth, parle à Roneth sur Wishvale Trail. Sur le navire, navigue sous le pont vers Man-Eating Miser's Hideout, bats les hommes de main puis `[BOSS]` Vaughner the Man-Eating Miser, libère les esclaves et reviens parler à Roneth. Récompense : Heidne rejoint l'équipe et Wishvale.
+- [ ] 49 — Greatest Expectations — Après Bestower of Fame 2 et un niveau d'affinité 2 avec Alexia, lance la quête à Wishvale. À Berecain, parle au PNJ de droite dans la taverne et achète Crimson Stone à l'orphelin, puis va au Forbidden Temple: Lower Floor, salle nord, et bats les deux Forbidden Magic Guardians. `[COFFRE]` Bernstein Records et Commemorative Coin.
+- [ ] 50 — A Unique Figurine — Achète Bisque Salamander Figure au Corporate Scion dans la taverne de Sunshade, puis confirme la quête auprès de lui. À Clearbrook, Inquire le Bewildered Angler dans la taverne, recrute-le comme Helper et ramène-le à Sunshade. Récompense : 12 000 feuilles.
+- [ ] 51 — A Clan's Pride — Après Bestower of All 1, parle à Macy près de l'entrée de Sunshade. Dans Eastern Sunshade Sands, rejoins l'Asul Elder à l'est, cuisine Rejuvenating Seafood Saute au Hub, donne-la-lui et accepte la décision de Macy. Récompense : Cat's Eye.
+- [ ] 52 — Truth of the Departed — Après Bestower of All 1, parle à la femme à l'ouest de Cragspear: Slums. Dans Hell: Cragspear — Slums, Inquire puis Contend le Burned Man devant la maison ouest ; rapporte son histoire à la donneuse. Récompense : Commemorative Coin.
+- [ ] 53 — Donescu's Successor — Après Bestower of All 1, parle à l'homme à l'entrée de Castle Edoras. À Donescu, parle à l'oncle de Carinda ; dans Cragspear: Slums, Inquire Ensio au sud-est ; à Donescu, Recruit Kalle dans la maison à l'ouest de la boutique. Ramène Kalle à Ensio puis reviens devant le château. `[COFFRE]` Superior Wine.
+- [ ] 54 — A Long-Lost Love — Quand Wishvale atteint le niveau 7, parle à Lutus dans la boutique. À Shepherds Rock, visite l'infirmerie à l'est de l'église puis les gardes à la sortie sud-est ; dans Cavern of Mists, va au nord-est et bats les trois voleurs. `[COFFRE]` Charm of Compassion et deux Silver-Filled Pouches.
+- [ ] 55 — A Father's Love — Après Bestower of All 2, parle à l'homme à l'ouest de Path to Herminia's Manse. Dans Hell: Valore Forest, bats le Wounded Syndicate Member à l'ouest avec Contend, puis reviens parler au jeune chasseur. `[COFFRE]` Platinum Coin.
+- [ ] 56 — The Hidden Isle — Pendant Bestower of All 8, lis le livre au sol dans Skies of Vanity. Va à Isle of Orsa: Depths puis Underground Altar, parle aux quatre jeunes femmes, traverse Agapea et parle au Shrinekeeper Ataraxia. Reviens ensuite au Flamebringer's Shrine pour le second trial : bats Aelfric et Great Flame en trois phases (Dagger/Dark reste une faiblesse utile). Récompense : puissance du Flamebringer's Ring augmentée, condition de la fin véritable.
+- [ ] 57 — The Sage Beckons — Après les cinq fragments, interagis avec la porte de l'Isle of Sages. Le registre doit contenir Theatropolis #029, Waterpool Caves #185, Atlasdam via Cat of Graceful Bearing, Path to Herminia's Manse #236 après Man-Eating Flora et Golden Palace Lower Floor #445 (ou le fragment choisi comme Belonging). Le jeu forme Secret Invitation ; traverse l'île jusqu'au nord-est et parle à Isla. Récompense : Isla rejoint l'équipe et Wishvale.
 
 ================================================================
 BESTOWER OF WEALTH — PROLOGUE ET CHAPITRES 1 À 3

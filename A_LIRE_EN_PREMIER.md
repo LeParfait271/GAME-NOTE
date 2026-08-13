@@ -197,10 +197,11 @@ transformée en validation automatique quand c'est possible.
 
 ### Passe de contrôle 4 — roster et récits OT0
 
-- Le TXT conserve 36 cases de personnages et 56 cases de récits secondaires ;
-  la route détaille désormais les recrutements qui étaient simplement nommés.
+- Le TXT conserve 36 cases de personnages et 57 cases de récits secondaires ;
+  chaque fiche indique désormais sa fenêtre, son trajet et sa récompense au lieu
+  d'un simple nom.
 - Les contrôles obligatoires incluent Tressa, H'aanit, Goodwin, Elrica, Carinda,
-  Tatloch, `The Monster Arena` et `Greatest Expectations`.
+  Tatloch, `The Monster Arena`, `Greatest Expectations` et `Unnatural Tremors`.
 - Le fichier reste une archive de travail : aucune carte, URL ou entrée de
   publication ne doit être créée à cette étape.
 - Les cinq fragments de lettre doivent rester séparés du compteur 454 : le

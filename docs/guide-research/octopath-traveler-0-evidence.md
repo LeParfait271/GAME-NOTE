@@ -56,6 +56,7 @@ les conditions et les repères avant rédaction originale en français.
 | PNJ | 723 entrées de base | Base OT0 | Ne retenir dans le guide que les interactions utiles : quête, objet, info, invitation, combat ou recrutement. |
 | Recettes | 44 | Base OT0 | Ajouter les recettes requises par les trophées, quêtes ou améliorations ; pas de remplissage gratuit. |
 | Musiques | 40 | Neoseeker / guides de collecte | Le succès demande 30 ; placer les 40 pour permettre un rattrapage propre. |
+| Récits secondaires | 57 | Game8 / NightlyGamingBinge / Neoseeker | Conserver une fiche par quête avec déclencheur, trajet, combat ou action et récompense. |
 | Trésors légendaires | 11 | RPG Site | Liste détaillée à intégrer dans le post-game et le musée. |
 | Équipement Battle-Tested | 9 | RPG Site | Le bouclier passe par la boutique de Wishvale et doit avoir sa procédure dédiée. |
 | Trésors sacrés / clés ornées | 8 | RPG Site | Relier chaque clé à l'arme ou au trésor correspondant. |
@@ -206,10 +207,27 @@ fonction précise.
 - Le registre du TXT recense maintenant les 36 personnages dans un ordre de
   recrutement jouable, avec Tressa, H'aanit, Ophilia, Alfyn, Goodwin, Elrica,
   Carinda et Tatloch replacés sur leurs vrais arcs.
-- La checklist secondaire contient 56 entrées, dont `An Encounter with H'aanit`,
-  `The Monster Arena` et `Greatest Expectations`, qui manquaient au brouillon.
-- Le garde-fou vérifie les seuils 36/56 ainsi que la présence de ces entrées avant
+- La checklist secondaire contient maintenant 57 entrées, dont `An Encounter
+  with H'aanit`, `The Monster Arena`, `Greatest Expectations` et `Unnatural
+  Tremors`, qui manquaient au brouillon.
+- Le garde-fou vérifie les seuils 36/57 ainsi que la présence de ces entrées avant
   qu'une passe `reviewed` puisse être envisagée.
+- La liste a été réécrite dans un ordre de disponibilité : chaque fiche conserve
+  son déclencheur, les actions exactes, les combats utiles et la récompense ;
+  les récits `Hidden Isle` et `Sage Beckons` restent dans le nettoyage final car
+  ils conditionnent la fin véritable et Isla.
 - Les cinq fragments de lettre sont maintenant distingués du registre de coffres :
   Theatropolis, Waterpool Caves, Atlasdam, Path to Herminia's Manse et Golden
   Palace, avec l'alternative Belonging documentée.
+
+## Passe de contrôle 5 — fiches secondaires détaillées
+
+- Les 57 récits optionnels sont maintenant dans une route de disponibilité, avec
+  un déclencheur ou une condition de progression explicite pour éviter les
+  allers-retours arbitraires.
+- Chaque fiche doit conserver au minimum le lieu de départ, les actions de
+  trajet, le combat ou l'objet demandé quand il y en a un, et la récompense ;
+  une ligne de nom seule ne passe plus le contrôle éditorial.
+- `Unnatural Tremors` est inclus dans le registre et contrôlé séparément, tandis
+  que `The Hidden Isle` et `The Sage Beckons` ferment la route post-game et la
+  condition d'Isla.

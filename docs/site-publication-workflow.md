@@ -85,9 +85,9 @@ leurs vrais types et emplacements. La Bow Crest est à East Cyphlo Banks ; un
 placeholder dans ce bloc bloque la revue `reviewed`, même si le compteur 454/454
 est correct.
 
-La même règle s'applique au roster : le TXT doit conserver 36 personnages et 56
-récits secondaires nommés, dont H'aanit, The Monster Arena et Greatest
-Expectations. Tant que ces compteurs éditoriaux ne sont pas relus, le fichier
+La même règle s'applique au roster : le TXT doit conserver 36 personnages et 57
+récits secondaires nommés, dont H'aanit, The Monster Arena, Greatest Expectations
+et Unnatural Tremors. Tant que ces compteurs éditoriaux ne sont pas relus, le fichier
 reste hors catalogue et hors publication.
 Les cinq fragments de lettre doivent eux aussi être localisables, avec Atlasdam
 traité comme une récompense d'action et non comme un coffre supplémentaire.

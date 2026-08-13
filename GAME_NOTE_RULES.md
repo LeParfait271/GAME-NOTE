@@ -407,12 +407,15 @@ contrôle de la fiche concernée.
 
 ### Contrôle roster et side stories OT0 — 13 août 2026
 
-- Un brouillon OT0 doit compter exactement 36 personnages et 56 récits
+- Un brouillon OT0 doit compter exactement 36 personnages et 57 récits
   secondaires ; un simple total global sans noms contrôlables est insuffisant.
 - Les entrées `An Encounter with H'aanit`, `The Monster Arena` et `Greatest
-  Expectations` sont obligatoires dans le registre secondaire.
+  Expectations`, ainsi que `Unnatural Tremors`, sont obligatoires dans le
+  registre secondaire.
 - Les cinq Letter Fragments doivent être contrôlables par lieu ; une récompense
   d'action à Atlasdam ne doit pas être inventée comme un coffre numéroté.
+- Chaque récit secondaire doit garder son déclencheur, son trajet et sa
+  récompense dans le TXT ; le compteur 57 ne remplace pas la procédure.
 
 ### Audit interface personnelle — 13 août 2026
 
