@@ -3,8 +3,9 @@
 ## Regle active
 
 Pendant la reconstruction des guides, `docs/site-publication.json` est la
-source unique du lot visible. Il contient les deux identifiants et les deux
-fichiers actuellement autorises : Expedition 33 et Octopath Traveler 1.
+source unique du lot visible. Il contient actuellement trois identifiants et
+trois fichiers autorises : Expedition 33, Octopath Traveler 1 et Octopath
+Traveler II.
 
 `public/guides/` reste l'archive de travail complete. Un fichier archive ne
 doit toutefois pas etre copie dans `dist/client/guides/`, ajoute au service
@@ -12,7 +13,7 @@ worker, ou rendu accessible par l'index tant qu'il n'est pas dans la liste de
 publication temporaire.
 
 La file editoriale `docs/guide-rebuild-queue.json` est distincte de la liste de
-publication. Elle enregistre les deux references actives, les fiches a refaire
+publication. Elle enregistre les trois references actives, les fiches a refaire
 et les exclusions issues de la capture Steam. Ajouter un jeu dans cette file ne
 cree donc ni carte visible, ni URL publique, ni promesse de guide termine.
 
@@ -51,9 +52,9 @@ lien externe est refusee. Les spoilers sont autorises pour cette fiche.
 
 - Les titres a route chronologique de la capture sont conserves dans la file de
   reconstruction ; les anciens TXT restent archives et invisibles.
-- OCTOPATH TRAVELER 0 est passe en `research` avec son AppID, ses 37 succes et
-  `docs/guide-research/octopath-traveler-0-evidence.md`, mais sans faux TXT,
-  carte ou URL avant la validation de la matrice.
+- OCTOPATH TRAVELER 0 reste en `research` avec son AppID, ses 37 succes et
+  `docs/guide-research/octopath-traveler-0-evidence.md` ; son TXT de travail
+  reste hors publication tant que la matrice n'est pas validée.
 - Dota Underlords, Rocket League, Dota 2, Brotato et FINAL FANTASY VII EVER
   CRISIS restent `excluded` : aucune modification de masquage ne doit les faire
   reapparaitre comme soluces classiques.
@@ -65,9 +66,9 @@ provisoires et les contradictions avant le premier fichier de soluce. Le
 validateur verifie le lien `evidenceFile` de la queue ; passer l'entree en
 `research` sans matrice est donc une erreur de livraison.
 
-La publication temporaire reste inchangée : seuls Expedition 33 et Octopath
-Traveler 1 sont visibles, et les modifications d'interface déjà présentes
-dans le dépôt ne doivent pas être mélangées à ce lot éditorial.
+La publication active comprend Expedition 33, Octopath Traveler 1 et Octopath
+Traveler II. OT0 reste hors publication tant que sa matrice le classe en
+`research`.
 
 ## Passe de rédaction OT0 — archive non publiée
 
@@ -172,10 +173,10 @@ traité comme une récompense d'action et non comme un coffre supplémentaire.
 - Le lot n'est clôturé qu'après build, préflight strict, audits et smoke tests.
   Les changements sont regroupés dans un seul commit local final, sans push.
 
-## Lot OT2 — archive de travail et seuil de publication
+## Lot OT2 — fiche reconstruite et publication active
 
-- `octopath-traveler-2` reste dans la file de reconstruction et hors de
-  `docs/site-publication.json` tant que la fiche n'a pas passé sa relecture.
+- `octopath-traveler-2` est désormais dans `active`, avec la carte `octopath-2`
+  dans `app/page.tsx` et son TXT dans `docs/site-publication.json`.
 - Le contrôle de contenu impose 33 succès Steam, 67 Side Stories, 30 Records,
   7 Battle-Tested, 16 EX Skills, 69 lieux, 632 coffres et 237 objets caches.
 - Les lignes `[COFFRE]` `#001`-`#632` et `H001`-`H237` sont comptées par des
@@ -183,5 +184,5 @@ traité comme une récompense d'action et non comme un coffre supplémentaire.
   sous-zone ; un compteur global ne suffit pas.
 - Le pipeline de clôture est : validation stricte du catalogue et des guides,
   build, preflight strict, audit qualité, smoke tests, verification du diff,
-  puis un unique commit local. La version `0.01` est bumpée par ce commit.
-- Aucune publication ni push n'est déduit de cette reconstruction.
+  puis un unique commit local. La publication suit ce même commit ; aucun push
+  n'est déduit de la reconstruction.

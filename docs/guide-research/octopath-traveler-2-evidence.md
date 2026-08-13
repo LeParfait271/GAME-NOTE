@@ -2,9 +2,9 @@
 
 Passe de reconstruction : 13 août 2026
 
-Ce fichier documente les contrôles utilisés pour la fiche cachée
-`public/guides/octopath-traveler-2.txt`. Il ne constitue pas une nouvelle
-fiche publique et ne modifie pas `docs/site-publication.json`.
+Ce fichier documente les contrôles utilisés pour la fiche publiée
+`public/guides/octopath-traveler-2.txt`. Il accompagne la carte `octopath-2`
+et la publication du TXT dans `docs/site-publication.json`.
 
 ## Périmètre contrôlé
 
@@ -59,6 +59,5 @@ Le validateur strict doit refuser la passe si :
 - les registres de 67 Side Stories, 30 Records, 7 Battle-Tested, 33 succès ou
   69 lieux ne correspondent plus à leurs sections.
 
-La fiche reste masquée jusqu'à la relecture éditoriale finale. Le commit de
-cette passe est unique et local ; aucun push ni changement de publication n'est
-implicite.
+La fiche reste soumise à ses contrôles de contenu après publication. Le commit
+de cette passe est unique et local ; aucun push distant n'est implicite.

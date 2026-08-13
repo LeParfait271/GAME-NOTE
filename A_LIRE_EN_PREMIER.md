@@ -85,26 +85,25 @@ Ce fichier fixe la méthode minimale avant toute modification visible du site.
     `0.01` ; le hook `.githooks/pre-commit` le fait automatiquement et ajoute
     le fichier à l'index. Ne pas utiliser `--no-verify` pour contourner cette
     règle ; si le hook est absent, réactiver `core.hooksPath` avant de commit.
-24. Jusqu'à validation de la nouvelle méthode, la publication du site est
-    volontairement limitée à `expedition-33` et `octopath` (Octopath Traveler 1) via
-    `SITE_VISIBLE_GUIDE_IDS`. Les autres fiches et leurs TXT sont conservés
-    dans l'archive du dépôt, mais ne doivent apparaître ni dans l'index, ni
-    dans la recherche, ni dans les liens de navigation, ni par URL directe.
+24. La publication du site suit `docs/site-publication.json` et `SITE_VISIBLE_GUIDE_IDS`.
+    Toute soluce reconstruite et validée doit être ajoutée aux deux listes et
+    devenir accessible dans l'index, la recherche, la navigation et le cache hors-ligne.
+    Les brouillons explicitement en recherche, comme OT0, restent signalés comme tels.
 
 Toute nouvelle règle durable doit être ajoutée à GAME_NOTE_RULES.md et
 transformée en validation automatique quand c'est possible.
 
 ### Lot catalogue Steam ajouté le 13 août 2026
 
-- La capture Steam est suivie dans `docs/guide-rebuild-queue.json` : deux
-  références actives, neuf guides d'archive à reconstruire et cinq exclusions.
-- OCTOPATH TRAVELER 0 est seulement planifié pour l'instant : AppID 3014320,
-  37 succès Steam, fiche de recherche créée, aucun TXT de façade ni carte
-  visible.
+- La capture Steam est suivie dans `docs/guide-rebuild-queue.json` : trois
+  références actives, huit guides d'archive à reconstruire et cinq exclusions.
+- OCTOPATH TRAVELER 0 reste en `research` pour l'instant : AppID 3014320,
+  37 succès Steam et TXT de travail présents, mais aucune carte ni URL
+  publique tant que la matrice n'est pas déclarée validée.
 - Les guides déjà présents dans `public/guides/` restent hors publication tant
   qu'ils n'ont pas repassé la méthode des cinq sources et le contrôle complet.
-- Contrôle avant commit : cohérence queue/catalogue/audit, publication toujours
-  limitée à Expedition 33 et Octopath 1, puis build, preflight et tests.
+- Contrôle avant commit : cohérence queue/catalogue/audit, publication synchronisée
+  avec les soluces reconstruites validées, puis build, preflight et tests.
 
 24. Les effets de l'accueil immersif sont des améliorations progressives : le
     grain, la lumière, le scan et les transitions ne doivent jamais remplacer
@@ -116,10 +115,9 @@ transformée en validation automatique quand c'est possible.
 26. Le pied de page doit présenter l'identité Game Note, sa description,
     l'autonomie Android 5+ et la signature MaruChiwa dans une hiérarchie lisible
     sur desktop comme sur mobile ; la version locale reste discrète mais visible.
-26. Tant que le lot de refonte est en cours, la liste `docs/site-publication.json`
-    est la source de publication temporaire : seuls Expedition 33 et Octopath
-    Traveler 1 doivent être copiés dans `dist/client` et le cache hors-ligne.
-    Les autres TXT restent conservés mais ne doivent pas sortir du build.
+26. La liste `docs/site-publication.json` est la source de publication : les TXT
+    des soluces reconstruites et validées doivent être copiés dans `dist/client`
+    et le cache hors-ligne. Les brouillons encore en recherche restent exclus.
 27. Pour une nouvelle fiche reconstruite, conserver la matrice de sources et le
     registre des contradictions avec le TXT. Les compteurs retenus doivent être
     justifiés par au moins deux sources indépendantes avant publication.
@@ -264,10 +262,10 @@ transformée en validation automatique quand c'est possible.
 - Avant toute visibilité, lancer le validateur strict, le build, le préflight et
   les smoke tests ; le commit final est unique pour cette passe et reste local.
 
-### Passe OT2 — registre complet avant publication
+### Passe OT2 — registre complet et publication
 
-- Le brouillon Octopath Traveler II reste archive et invisible : `docs/site-publication.json`
-  ne doit pas recevoir `octopath-traveler-2` pendant cette passe.
+- Octopath Traveler II est une soluce reconstruite : `octopath-2` et
+  `octopath-traveler-2.txt` doivent figurer dans la publication visible.
 - Le TXT doit conserver une route 33/33 Steam, 67 Side Stories, 30 Records,
   7 Battle-Tested, 16 EX Skills, 632 coffres et 237 objets caches.
 - Les 632 coffres utilisent `[COFFRE]` avec `#001` a `#632` ; les 237 objets

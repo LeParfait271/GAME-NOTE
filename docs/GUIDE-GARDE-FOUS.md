@@ -392,16 +392,15 @@ une mise à jour qui change les succès ou le contenu, le guide repasse en
   puis lancer lint, build, preflight et smoke tests avant le commit.
 - Limite : aucun changement de contenu ou de navigation du lecteur n'est inclus.
 
-## Sortie Pages limitée au lot en refonte - 13 aout 2026
+## Sortie Pages des guides validés - 13 aout 2026
 
 - La publication temporaire est définie dans `docs/site-publication.json`.
 - `public/guides/` reste l'archive complète, mais `dist/client/guides/` ne doit
-  contenir que `expedition-33.txt` et `octopath-traveler-1.txt`.
-- Le service worker ne doit précacher que ces deux guides ; une ancienne URL ne
+  contenir que les TXT listés dans `visibleGuideFiles`.
+- Le service worker ne doit précacher que ces guides ; une ancienne URL ne
   doit pas être introduite par le cache hors-ligne.
-- Toute réactivation d'une autre fiche passe par une nouvelle matrice de
-  sources, une validation de contenu et une modification explicite de cette
-  liste.
+- Toute soluce reconstruite et validée doit recevoir une carte, un identifiant
+  visible et une entrée explicite dans cette liste.
 
 ## Lot Expedition 33 - première fiche reconstruite par matrice - 13 aout 2026
 
@@ -431,20 +430,17 @@ une mise à jour qui change les succès ou le contenu, le guide repasse en
   doit être réactivée après un nouveau clone ; un commit sans hook doit être
   bloqué ou corrigé avant livraison.
 
-### Publication temporaire — Expedition 33 et Octopath Traveler 1
+### Publication des guides reconstruits
 
-- Décision : les anciennes soluces sont mises de côté pendant la refonte. Les
-  fichiers TXT et les données de catalogue sont conservés dans le dépôt, mais
-  l'interface ne publie temporairement que `expedition-33` et
-  `octopath` (Octopath Traveler 1).
+- Décision : toute soluce reconstruite et validée est ajoutée à
+  `docs/site-publication.json`, à `SITE_VISIBLE_GUIDE_IDS` et au cache hors-ligne.
+  Les brouillons explicitement en recherche restent exclus et sont signalés
+  comme tels.
 - Contrôle : `SITE_VISIBLE_GUIDE_IDS` pilote l'accueil, la recherche, les
   filtres, la navigation entre fiches et les ouvertures par URL. Le garde-fou
-  vérifie que la sortie Pages ne contient exactement que deux cartes visibles.
-- Méthode : ces deux fiches sont les premiers guides reconstruits avec cinq
-  familles de sources, une matrice d'informations, une résolution des
-  contradictions et un audit final route/objets/succès.
-- Limite : aucune ancienne fiche ne doit être remise en ligne sur simple
-  demande de catalogue ; elle repasse par la nouvelle méthode avant publication.
+  vérifie que la sortie Pages correspond exactement aux listes de publication.
+- État livré : Expedition 33, Octopath Traveler 1 et Octopath Traveler II sont
+  les trois fiches visibles ; OT0 reste un brouillon `research` non publié.
 
 ### Lot Octopath Traveler 1 - matrice complète le 13 août 2026
 
@@ -464,7 +460,7 @@ une mise à jour qui change les succès ou le contenu, le guide repasse en
   `[COFFRE]` couvre les coffres et les objets à récupérer ; les autres
   marqueurs gardent leur sens sauvegarde, manquable, succès ou boss.
 - Contrôle avant chaque commit : route, annexes A à F, compteur 88/88,
-  absence de « sans spoiler », build Pages, sortie limitée aux deux guides
+  absence de « sans spoiler », build Pages, sortie limitée aux guides validés
   actifs et mise à jour coordonnée des garde-fous.
 
 ### Lot effets cinétiques de l'accueil - 13 août 2026
@@ -484,10 +480,10 @@ une mise à jour qui change les succès ou le contenu, le guide repasse en
 - La capture de bibliothèque est enregistrée dans
   `docs/guide-rebuild-queue.json`, séparément de `docs/site-publication.json`.
   Une entrée de queue n'est ni une carte visible ni une URL publiée.
-- Les deux références actives restent Expedition 33 et Octopath Traveler 1 ;
-  les neuf autres titres à route chronologique de la capture restent archivés
-  jusqu'à leur reconstruction par matrice.
-- OCTOPATH TRAVELER 0 est ajouté en `planned` avec l'AppID 3014320 et 37 succès
+- Les trois références actives sont Expedition 33, Octopath Traveler 1 et
+  Octopath Traveler II ; les autres titres restent archivés jusqu'à leur
+  reconstruction par matrice.
+- OCTOPATH TRAVELER 0 reste en `research` avec l'AppID 3014320 et 37 succès
   Steam. La fiche de recherche documente ce qui est confirmé et ce qui doit
   encore être recoupé ; aucun guide incomplet ne doit être publié.
 - Dota Underlords, Rocket League, Dota 2, Brotato et FINAL FANTASY VII EVER
@@ -515,7 +511,7 @@ une mise à jour qui change les succès ou le contenu, le guide repasse en
 ## Passe de rédaction OT0 — route archivée — 13 août 2026
 
 - Le TXT de travail est conservé dans l'archive sans carte et sans publication
-  temporaire. Sa présence ne change pas la liste visible des deux guides.
+  temporaire. Sa présence ne change pas la liste visible des trois guides.
 - La route couvre prologue, reconstruction, arcs Master/Bestower, recrutements,
   fins, post-game, partitions et équipements uniques ; elle ne passe pas encore
   le seuil final tant que l'appendice des 454 trésors n'est pas intégré.
@@ -654,10 +650,10 @@ une mise à jour qui change les succès ou le contenu, le guide repasse en
   sans push automatique ; le bump de version et les garde-fous suivent ce même
   commit final.
 
-## Passe OT2 — matrice, registres et publication protégée
+## Passe OT2 — matrice, registres et publication
 
-- Le guide `octopath-traveler-2` est traité comme un brouillon archive : son
-  TXT peut être enrichi sans le rendre visible ni l'ajouter au cache offline.
+- Le guide `octopath-traveler-2` est désormais une fiche visible : son TXT est
+  présent dans `docs/site-publication.json`, l'index et le cache offline.
 - La matrice de preuve recoupe Steam, les Side Stories, les cartes de zones, les
   walkthroughs et la table d'inventaire. Elle impose 33 succès, 67 récits,
   30 Records, 7 Battle-Tested, 16 EX Skills et 69 lieux.

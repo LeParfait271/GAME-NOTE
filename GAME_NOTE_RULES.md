@@ -185,16 +185,13 @@ Le contrôle de site refuse une constante absente, mal formée ou non affichée
 dans la sortie Pages. Un contournement par `--no-verify` n'est acceptable que
 pour diagnostiquer un blocage, jamais pour livrer une modification.
 
-## Publication temporaire des fiches en réécriture
+## Publication des fiches reconstruites
 
-Pendant la refonte de la méthode, le site ne publie que les deux références
-actives définies par `SITE_VISIBLE_GUIDE_IDS` dans `app/page.tsx` :
-`expedition-33` et `octopath` (Octopath Traveler 1). Les autres cartes, catalogues et TXT
-ne sont pas supprimés : ils restent conservés pour les futures réécritures,
-mais ne doivent pas être accessibles depuis l'index, la recherche, les boutons
-précédents/suivants ou le paramètre `guide` de l'URL. Toute réactivation devra
-être décidée après audit complet de la nouvelle méthode et accompagnée d'un
-contrôle de la fiche concernée.
+`docs/site-publication.json` et `SITE_VISIBLE_GUIDE_IDS` doivent rester synchronisés.
+Toute soluce reconstruite et validée est ajoutée à ces deux listes, puis devient
+accessible depuis l'index, la recherche, les boutons précédents/suivants, l'URL
+du guide et le cache hors-ligne. Seuls les brouillons explicitement en recherche,
+comme OT0, restent hors publication jusqu'à leur validation éditoriale.
 
 ## Lot interface immersive Game Note - 13 aout 2026
 
@@ -249,13 +246,13 @@ contrôle de la fiche concernée.
   rendu en bas de page, puis relancer lint, build, preflight et smoke tests.
 - Limite : ce lot ne modifie ni le lecteur de soluce ni les donnees de catalogue.
 
-## Publication temporaire des deux guides en refonte - 13 aout 2026
+## Publication des guides reconstruits - 13 aout 2026
 
-- Source unique : `docs/site-publication.json` contient les deux identifiants et
-  les deux TXT réellement publiés pendant la refonte.
+- Source unique : `docs/site-publication.json` contient les identifiants et les
+  TXT réellement publiés après validation.
 - Protection : `prepare-pages-output.mjs` retire de `dist/client/guides` les
-  anciennes fiches conservées dans `public/guides`, puis prépare uniquement ces
-  deux URL dans le service worker.
+  anciennes fiches conservées dans `public/guides`, puis prépare uniquement les
+  URL validées dans le service worker.
 - Contrôle : `validate-pages-output.mjs` et `validate-site-guardrails.mjs`
   vérifient la sortie publiée contre cette liste, jamais contre la totalité de
   l'archive source.
@@ -478,10 +475,10 @@ contrôle de la fiche concernée.
   push n'est implicite et aucune version ne doit être déclarée livrée avant les
   validations de publication.
 
-### Lot OT2 — contrôle de complétude
+### Lot OT2 — contrôle de complétude et publication
 
-- Octopath Traveler II reste hors visibilité publique tant que le lot n'est pas
-  relu et validé ; ne pas modifier la liste temporaire des deux fiches visibles.
+- Octopath Traveler II est ajouté à la publication visible après sa reconstruction
+  et ses contrôles de contenu ; il ne doit pas être laissé dans la file `queued`.
 - Le seuil de contenu est contrôlable : 33 succès Steam, 67 Side Stories,
   30 Records, 7 Battle-Tested, 16 EX Skills, 632 coffres et 237 objets caches.
 - Chaque coffre du registre porte `[COFFRE]`, un identifiant `#001`-`#632`, une

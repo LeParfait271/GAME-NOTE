@@ -190,16 +190,16 @@ const siteVisibilityMatch = page.match(
 const siteVisibleIds = siteVisibilityMatch
   ? [...siteVisibilityMatch[1].matchAll(/"([^"]+)"/g)].map((match) => match[1])
   : [];
-if (JSON.stringify(siteVisibleIds) !== JSON.stringify(["expedition-33", "octopath"])) {
-  fail("app/page.tsx: la publication temporaire doit rester limitée aux deux guides cibles.");
+if (JSON.stringify(siteVisibleIds) !== JSON.stringify(publication?.visibleGuideIds ?? [])) {
+  fail("app/page.tsx: les guides visibles ne correspondent pas à docs/site-publication.json.");
 }
 
-if (JSON.stringify(publication?.visibleGuideIds) !== JSON.stringify(["expedition-33", "octopath"]) ||
-    JSON.stringify(publication?.visibleGuideFiles) !== JSON.stringify(["expedition-33.txt", "octopath-traveler-1.txt"])) {
-  fail("docs/site-publication.json: liste temporaire incoherente.");
+if (!Array.isArray(publication?.visibleGuideIds) || !Array.isArray(publication?.visibleGuideFiles) ||
+    publication.visibleGuideIds.length !== publication.visibleGuideFiles.length) {
+  fail("docs/site-publication.json: identifiants et fichiers visibles désynchronisés.");
 }
-if (!reader.includes('"octopath"')) {
-  fail("app/GuideReader.tsx: les marqueurs premium Octopath sont désactivés.");
+if (!reader.includes('"octopath"') || !reader.includes('"octopath-traveler-2"')) {
+  fail("app/GuideReader.tsx: les marqueurs premium Octopath actifs sont désactivés.");
 }
 for (const required of ["734/734", "152/152", "101/101", "381/381", "DOSSIER PREMIUM"]) {
   if (!octopathGuide.includes(required)) {
