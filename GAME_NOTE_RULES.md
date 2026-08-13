@@ -102,6 +102,10 @@ statique Cloudflare Pages.
   devient un suivi local distinct ; plusieurs cases sur une même ligne doivent
   être séparées au rendu. Seules les cases placées dans la checklist Steam
   alimentent le compteur des succès.
+- La carte catalogue d'un guide premium doit rester synchronisée avec son TXT :
+  périmètre, spoilers, compteurs, missables et description doivent parler du
+  même jeu. Une carte qui conserve un résumé d'un autre jeu ou « sans spoiler »
+  pour une fiche à révélations autorisées est un défaut de publication.
 - Les textes ne doivent pas contenir de caractère de remplacement UTF-8 (�),
   de contenu vide ou de doublon d'identifiant.
 - Les nouvelles cartes doivent garder un nom accessible pour chaque bouton et

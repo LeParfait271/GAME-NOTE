@@ -25,16 +25,16 @@ const guides: Guide[] = [
     steamAppId: 1903340,
     title: "Expedition 33",
     eyebrow: "Clair Obscur",
-    subtitle: "La route complète, sans révéler l’histoire.",
+    subtitle: "Route chronologique complète, spoilers autorisés et 55 succès Steam.",
     count: "55 succès",
     file: "expedition-33.txt",
     accent: "coral",
     tag: "Nouveau guide",
     description:
-      "Actions des 12 stages, combos, All Clear, bornes rétro, Arcade et Survival.",
+      "Route par actes, missables, choix finaux, journaux, disques, Nevrons et nettoyage 100 %.",
     highlight:
-      "À surveiller : les campagnes solo par personnage et les mouvements alternatifs du DLC.",
-    meta: ["55/55 Steam", "Mr. X Nightmare", "Sans spoiler"],
+      "À surveiller : le Mime et le disque du prologue, la Vieille Clé, Lettre à Maelle et Truth.",
+    meta: ["55/55 Steam", "49 journaux / 33 disques", "Spoilers autorisés"],
   },
   {
     id: "final-fantasy-vii-2013",

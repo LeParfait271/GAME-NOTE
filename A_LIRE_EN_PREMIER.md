@@ -68,6 +68,10 @@ Ce fichier fixe la méthode minimale avant toute modification visible du site.
     interactives séparément, y compris lorsqu'une ancienne ligne en contient
     plusieurs. Elles alimentent le suivi local sans modifier le total des
     succès Steam.
+20. Après une réécriture de guide, relire aussi sa carte catalogue : titre,
+    sous-titre, description, alerte et badges doivent décrire le bon jeu et le
+    bon mode de révélation. Un ancien texte « sans spoiler » ou un résumé d'un
+    autre jeu invalide la livraison même si le TXT est correct.
 
 Toute nouvelle règle durable doit être ajoutée à GAME_NOTE_RULES.md et
 transformée en validation automatique quand c'est possible.

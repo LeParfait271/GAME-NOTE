@@ -292,6 +292,11 @@ suivi local. Le compteur de succès Steam reste limité aux cases de la checklis
 finale ; les relations, matérias, compétences et autres collections gardent un
 suivi distinct.
 
+La carte de catalogue doit être relue avec le TXT après chaque réécriture : elle
+doit annoncer les bons compteurs, le bon niveau de révélation et les vrais
+missables du jeu. Pour Expedition 33, toute mention résiduelle de « sans
+spoiler », de stages, d'Arcade ou d'un autre périmètre est une erreur de fiche.
+
 Exemple : `[COFFRE] - Dans la salle nord, ouvrir le coffre avant de prendre
 l'ascenseur.` Les marqueurs peuvent être combinés, par exemple
 `[MANQUABLE] [SAUVEGARDE]`. Le lecteur retire la syntaxe du texte affiché,
