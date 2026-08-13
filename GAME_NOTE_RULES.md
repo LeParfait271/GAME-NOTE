@@ -477,3 +477,5 @@ contrôle de la fiche concernée.
 - Cette passe se clôt par une seule validation et un seul commit local ; aucun
   push n'est implicite et aucune version ne doit être déclarée livrée avant les
   validations de publication.
+
+- Le hero ne répète pas le titre déjà imprimé dans une couverture : l’index et la fiche portent le nom, l’image reste lisible.

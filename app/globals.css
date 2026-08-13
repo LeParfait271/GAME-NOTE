@@ -3991,16 +3991,6 @@ button.reader-neighbor:focus-visible {
   font-size: 0.51rem;
 }
 
-.hero-focus-caption h2 {
-  max-width: 10ch;
-  margin: 0;
-  font-family: var(--hero-display);
-  font-size: clamp(1.8rem, 3vw, 2.8rem);
-  letter-spacing: -0.06em;
-  line-height: 0.88;
-  text-transform: uppercase;
-}
-
 .hero-focus-caption > span {
   display: block;
   margin-top: 11px;
@@ -4700,10 +4690,6 @@ button.reader-neighbor:focus-visible {
     max-width: 23ch;
     margin-top: 18px;
     font-size: 0.55rem;
-  }
-
-  .hero-focus-caption h2 {
-    font-size: clamp(2rem, 3.3vw, 3.5rem);
   }
 
   .hero-index {

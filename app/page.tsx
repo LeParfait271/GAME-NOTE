@@ -3544,7 +3544,6 @@ export default function Home() {
               <span className="hero-focus-status">{hasGuideHistory ? "DERNIER GUIDE" : "POINT DE DÉPART"}</span>
               <div className="hero-focus-caption">
                 <p>{hasGuideHistory ? "REPRENDRE / DERNIÈRE ROUTE" : `ROUTE / ${String(siteGuides.indexOf(heroActive) + 1).padStart(2, "0")}`}</p>
-                <h2>{heroActive.title}</h2>
                 <span>{heroActive.eyebrow} / {heroActive.count}</span>
               </div>
             </div>

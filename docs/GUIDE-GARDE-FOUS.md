@@ -653,3 +653,5 @@ une mise à jour qui change les succès ou le contenu, le guide repasse en
 - La clôture de ce lot impose une validation globale puis un seul commit local,
   sans push automatique ; le bump de version et les garde-fous suivent ce même
   commit final.
+
+- Les couvertures portrait du hero ne doublonnent pas leur titre avec une légende superposée ; le nom reste accessible dans l’index et la fiche.

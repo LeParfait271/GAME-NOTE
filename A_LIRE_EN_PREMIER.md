@@ -263,3 +263,5 @@ transformée en validation automatique quand c'est possible.
   couches distinctes : aucun repère ne doit créer un doublon dans les compteurs.
 - Avant toute visibilité, lancer le validateur strict, le build, le préflight et
   les smoke tests ; le commit final est unique pour cette passe et reste local.
+
+- Le hero ne répète pas le titre déjà imprimé dans une couverture : l’index et la fiche portent le nom, l’image reste lisible.
