@@ -909,6 +909,15 @@ validation ou reste seulement local.
   puis ratio, chargement des images, visibilite de l alerte, build, preflight,
   audit qualite, lint et smoke tests.
 
+## Garde-fou - identite des dossiers et recherche lisible - 14 aout 2026
+
+- La route jouable reste coral, le panneau preparatoire est or et les dossiers
+  de reference sont bleus ; aucun de ces styles ne doit se substituer au TXT.
+- Chaque resultat de recherche est presente dans un bloc visuel separe, en
+  conservant l ordre et le contenu du bloc source.
+- La verification couvre les ouvertures et fermetures des panneaux, une
+  recherche a plusieurs resultats, desktop, 390 px et l absence de debordement.
+
 ## Garde-fou - rythme des sequences et sommaire mobile - 14 aout 2026
 
 - Le rail de chaque sequence reste identifiable pendant le défilement avec son

@@ -395,6 +395,17 @@ Le travail ne se limite pas a noter une intention :
   chargement de chaque artwork, lire le titre et l alerte, puis lancer build,
   preflight, audit qualite, lint et smoke tests.
 
+## Workflow de lecture - dossiers distincts et recherche - 14 aout 2026
+
+- La route reste la seule surface de progression : preparatoire et reference
+  sont des panneaux annexes, identifies respectivement par l or et le bleu.
+- Une recherche multi-resultats doit rester scannable, avec un bloc par resultat
+  et le meme ordre que dans le TXT ; aucune donnee n est retiree pour alleger
+  l affichage.
+- Avant publication, ouvrir et fermer les deux panneaux, lancer une recherche
+  a plusieurs resultats, verifier desktop et 390 px, puis confirmer build,
+  preflight, audit qualite, lint et smoke tests.
+
 ## Workflow de lecture - rythme et sommaire mobile - 14 aout 2026
 
 - Une fiche longue doit conserver un repère de sequence pendant le defilement :

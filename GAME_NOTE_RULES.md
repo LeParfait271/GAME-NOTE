@@ -742,3 +742,15 @@ annexes, si un controle obligatoire echoue ou si le commit n est pas pousse.
 - Controle obligatoire : faire defiler une fiche longue sur desktop et 390 px,
   verifier le rail actif, ouvrir le sommaire mobile, tester un tableau et une
   recherche, puis relancer toutes les validations avant commit et push.
+
+### Regle active - separation des dossiers et de la recherche - 14 aout 2026
+
+- La route jouable conserve son accent coral ; `AVANT DE COMMENCER` adopte un
+  repere or et `DOSSIERS DE REFERENCE` un repere bleu. Cette difference doit
+  rester visible ouvert comme ferme, sans modifier le texte des guides.
+- Une recherche qui renvoie plusieurs blocs doit les afficher comme des cartes
+  distinctes, dans l ordre du TXT, afin de supprimer le mur de texte sans
+  supprimer, fusionner ou reclasser une information.
+- Controle obligatoire : ouvrir et fermer les deux dossiers, lancer une
+  recherche a plusieurs resultats, verifier desktop, mobile 390 px et absence
+  de debordement avant build, commit, push et deploiement.

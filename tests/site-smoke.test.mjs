@@ -74,6 +74,9 @@ test("le shell statique conserve les repères accessibles", () => {
   assert.match(readerStylesheet, /\.reader-cover\.reader-cover \.reader-cover-alert/);
   assert.match(readerStylesheet, /\.guide-sequence-card\.guide-sequence-card \.guide-sequence-card-meta/);
   assert.match(readerStylesheet, /\.guide-sequence-card\.guide-sequence-card \.guide-bullet/);
+  assert.match(readerStylesheet, /\.guide-prelude-panel > summary/);
+  assert.match(readerStylesheet, /\.guide-reference-panel > summary/);
+  assert.match(readerStylesheet, /\.guide-search-results > \.guide-paragraph/);
   assert.match(readerStylesheet, /text-wrap: pretty/);
   assert.match(readerStylesheet, /position: static;\s+order: 1;/);
   assert.match(readerSource, /type GuideHeadingRole =/);

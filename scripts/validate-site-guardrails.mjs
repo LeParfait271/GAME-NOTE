@@ -264,6 +264,9 @@ for (const marker of [
   ".reader-cover.reader-cover .reader-cover-alert",
   ".guide-sequence-card.guide-sequence-card .guide-sequence-card-meta",
   ".guide-sequence-card.guide-sequence-card .guide-bullet",
+  ".guide-prelude-panel > summary",
+  ".guide-reference-panel > summary",
+  ".guide-search-results > .guide-paragraph",
   "text-wrap: pretty",
   "position: static;\n    order: 1;",
 ]) {
