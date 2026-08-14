@@ -493,6 +493,10 @@ for (const fragment of [
   'className="reader-outline-major"',
   'className="reader-outline-details"',
   'className="guide-step"',
+  "type GuideTableData =",
+  "const parseGuideTableRow =",
+  'className="guide-table-wrap"',
+  "data-label={header}",
   "reader-outline-toggle",
   "reader-outline-card",
 ]) {
@@ -517,6 +521,8 @@ for (const fragment of [
   ".reader-outline-details",
   ".reader-outline-card:not(.is-open) .reader-outline",
   ".site-shell.is-reader-mode .reader-document {",
+  ".site-shell.is-reader-mode .guide-table-wrap",
+  ".site-shell.is-reader-mode .guide-table",
 ]) {
   if (!stylesheet.includes(fragment)) {
     fail("app/globals.css: garde-fou responsive du lecteur absent (" + fragment + ").");

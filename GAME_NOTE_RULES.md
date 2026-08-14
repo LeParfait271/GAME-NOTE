@@ -566,3 +566,14 @@ comme OT0, restent hors publication jusqu'à leur validation éditoriale.
 - Aucun commit vide ni push pour une question, une pause, une lecture seule ou
   une tache bloquee.
 - Cette regle remplace les anciennes mentions de livraison restant locale.
+
+### Regle active - rendu des tableaux de soluce
+
+- Le parseur doit conserver les blocs de tableau Markdown comme donnees
+  structurees (`headers` et `rows`) et le lecteur doit les afficher en colonnes.
+- Le rendu mobile passe en cartes etiquetees ; une solution ne doit jamais
+  transformer une matrice de moments, actions, objets ou risques en bloc de
+  texte unique.
+- Toute modification du parseur ou du style de fiche verifie au minimum OT1,
+  le desktop, 390 px, la recherche dans une cellule et le maintien exact des
+  TXT sources.

@@ -5508,3 +5508,154 @@ button.reader-neighbor:focus-visible {
     padding-left: 6px;
   }
 }
+
+/* Les tableaux markdown restent des tableaux : lecture en colonnes sur desktop,
+   cartes etiquetees sur mobile pour eviter les paragraphes illisibles. */
+.site-shell.is-reader-mode .guide-table-wrap {
+  width: 100%;
+  max-width: 900px;
+  margin: 28px 0 34px;
+  scroll-margin-top: 156px;
+  overflow-x: auto;
+  border: 1px solid color-mix(in srgb, var(--route-ink) 18%, var(--line));
+  border-radius: 16px;
+  background: color-mix(in srgb, var(--card) 94%, var(--route-ink));
+  box-shadow: 0 16px 34px color-mix(in srgb, var(--route-ink) 8%, transparent);
+  -webkit-overflow-scrolling: touch;
+}
+
+.site-shell.is-reader-mode .guide-table {
+  width: 100%;
+  min-width: 680px;
+  border-collapse: separate;
+  border-spacing: 0;
+  color: var(--navy);
+  font-size: 0.86rem;
+  line-height: 1.58;
+  table-layout: auto;
+}
+
+.site-shell.is-reader-mode .guide-table caption {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  overflow: hidden;
+  clip: rect(0 0 0 0);
+  clip-path: inset(50%);
+  white-space: nowrap;
+}
+
+.site-shell.is-reader-mode .guide-table th {
+  padding: 13px 15px;
+  border-bottom: 1px solid color-mix(in srgb, var(--coral) 35%, var(--line));
+  background: color-mix(in srgb, var(--coral) 8%, var(--card));
+  color: var(--coral);
+  font-size: 0.61rem;
+  font-weight: 900;
+  letter-spacing: 0.1em;
+  line-height: 1.35;
+  text-align: left;
+  text-transform: uppercase;
+  vertical-align: bottom;
+}
+
+.site-shell.is-reader-mode .guide-table th + th,
+.site-shell.is-reader-mode .guide-table td + td {
+  border-left: 1px solid color-mix(in srgb, var(--route-ink) 11%, var(--line));
+}
+
+.site-shell.is-reader-mode .guide-table td {
+  padding: 14px 15px;
+  border-top: 1px solid color-mix(in srgb, var(--route-ink) 11%, var(--line));
+  overflow-wrap: anywhere;
+  vertical-align: top;
+}
+
+.site-shell.is-reader-mode .guide-table tbody tr:first-child td {
+  border-top: 0;
+}
+
+.site-shell.is-reader-mode .guide-table tbody tr:nth-child(even) {
+  background: color-mix(in srgb, var(--route-ink) 3%, transparent);
+}
+
+.site-shell.is-reader-mode .guide-table tbody tr:hover {
+  background: color-mix(in srgb, var(--coral) 6%, transparent);
+}
+
+@media screen and (max-width: 760px) {
+  .site-shell.is-reader-mode .guide-table-wrap {
+    scroll-margin-top: 86px;
+    overflow: visible;
+    border: 0;
+    border-radius: 0;
+    background: transparent;
+    box-shadow: none;
+  }
+
+  .site-shell.is-reader-mode .guide-table,
+  .site-shell.is-reader-mode .guide-table tbody,
+  .site-shell.is-reader-mode .guide-table tr,
+  .site-shell.is-reader-mode .guide-table td {
+    display: block;
+    width: 100%;
+    min-width: 0;
+  }
+
+  .site-shell.is-reader-mode .guide-table {
+    font-size: 0.88rem;
+  }
+
+  .site-shell.is-reader-mode .guide-table thead {
+    position: absolute;
+    width: 1px;
+    height: 1px;
+    overflow: hidden;
+    clip: rect(0 0 0 0);
+    clip-path: inset(50%);
+    white-space: nowrap;
+  }
+
+  .site-shell.is-reader-mode .guide-table tbody {
+    display: grid;
+    gap: 12px;
+  }
+
+  .site-shell.is-reader-mode .guide-table tr {
+    overflow: hidden;
+    border: 1px solid color-mix(in srgb, var(--route-ink) 17%, var(--line));
+    border-left: 3px solid var(--coral);
+    border-radius: 13px;
+    background: color-mix(in srgb, var(--card) 96%, var(--route-ink));
+    box-shadow: 0 10px 22px color-mix(in srgb, var(--route-ink) 6%, transparent);
+  }
+
+  .site-shell.is-reader-mode .guide-table td,
+  .site-shell.is-reader-mode .guide-table th {
+    display: grid;
+    grid-template-columns: minmax(92px, 38%) minmax(0, 1fr);
+    gap: 12px;
+    padding: 11px 13px;
+    border: 0;
+    border-top: 1px solid color-mix(in srgb, var(--route-ink) 11%, var(--line));
+  }
+
+  .site-shell.is-reader-mode .guide-table td:first-child {
+    border-top: 0;
+  }
+
+  .site-shell.is-reader-mode .guide-table td::before {
+    content: attr(data-label);
+    color: var(--coral);
+    font-size: 0.58rem;
+    font-weight: 900;
+    letter-spacing: 0.08em;
+    line-height: 1.35;
+    text-transform: uppercase;
+  }
+
+  .site-shell.is-reader-mode .guide-table tbody tr:nth-child(even),
+  .site-shell.is-reader-mode .guide-table tbody tr:hover {
+    background: color-mix(in srgb, var(--card) 96%, var(--route-ink));
+  }
+}

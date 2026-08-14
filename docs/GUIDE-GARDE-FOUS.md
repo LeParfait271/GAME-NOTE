@@ -748,3 +748,13 @@ une mise à jour qui change les succès ou le contenu, le guide repasse en
 - Une demande en lecture seule, une pause ou un blocage externe ne declenche ni
   commit vide ni push.
 - Cette regle remplace les anciennes mentions de commit local sans push.
+
+## Correctif rendu des tableaux - 14 aout 2026
+
+- Le garde-fou exige un type de donnees de tableau, un parseur de ligne et un
+  conteneur `guide-table-wrap` dans le lecteur.
+- Les tableaux Markdown des guides visibles sont controlés sans modification
+  du TXT ; sur mobile, les cellules doivent porter le nom de leur colonne pour
+  rester comprehensibles dans une carte verticale.
+- Le lot est valide par build, preflight strict, audit qualite, lint, smoke tests
+  et inspection reelle d une fiche avant le commit puis le push.

@@ -253,3 +253,13 @@ traité comme une récompense d'action et non comme un coffre supplémentaire.
   creent ni commit vide ni push.
 - Une ancienne URL de preview Cloudflare reste immuable ; le push declenche une
   nouvelle publication lorsque l integration GitHub est active.
+
+## Rendu lisible des tableaux - 14 aout 2026
+
+- Les tableaux presents dans un TXT sont une structure de lecture, pas du texte
+  a concatener : le lecteur conserve leurs en-tetes et chacune de leurs lignes.
+- Le desktop affiche des colonnes et le mobile des cartes etiquetees ; cette
+  adaptation ne supprime aucune information et n ecrit jamais dans le TXT.
+- Avant publication, verifier une fiche qui contient effectivement un tableau,
+  notamment `/?guide=octopath`, a 390 px et sur desktop, puis relancer la chaine
+  complete de validations avant le commit et le push.

@@ -49,14 +49,20 @@ const GUIDE_MARKER_GUIDE_IDS = new Set([
 const GUIDE_COLLECTIBLE_HEADING =
   /^(?:coffres?|objets?|items?|materias?|collectibles?|recompenses?|journaux?|disques?|armes?|pictos?|gestrals?|competences?|capacites?|mimes?|petanks?)\b.*:\s*$/i;
 
+type GuideTableData = {
+  headers: string[];
+  rows: string[][];
+};
+
 type GuideBlock = {
   id: string;
-  kind: "heading" | "subheading" | "step" | "paragraph" | "bullet" | "check";
+  kind: "heading" | "subheading" | "step" | "paragraph" | "bullet" | "check" | "table";
   text: string;
   headingLevel?: number;
   checkIndex?: number;
   checkScope?: "steam" | "route";
   markers?: GuideMarkerKind[];
+  table?: GuideTableData;
 };
 
 type GuideOutlineGroup = {
@@ -165,6 +171,28 @@ const splitInlineChecklistLine = (value: string) => {
   return prefix ? [prefix, ...checks] : checks;
 };
 
+const parseGuideTableRow = (value: string): string[] | null => {
+  const trimmed = value.trim();
+  if (!trimmed.includes("|")) {
+    return null;
+  }
+
+  const cells = trimmed
+    .replace(/^\|/, "")
+    .replace(/\|$/, "")
+    .split("|")
+    .map((cell) => cell.trim());
+  return cells.length >= 2 && cells.some(Boolean) ? cells : null;
+};
+
+const isGuideTableDivider = (value: string) => {
+  const cells = parseGuideTableRow(value);
+  return Boolean(
+    cells?.length &&
+      cells.every((cell) => /^:?-{3,}:?$/.test(cell.replace(/\s/g, ""))),
+  );
+};
+
 const inferGuideMarkers = (
   text: string,
   kind: GuideBlock["kind"],
@@ -247,6 +275,7 @@ const parseGuide = (text: string, markersEnabled: boolean): GuideBlock[] => {
     blockCheckIndex?: number,
     blockCheckScope?: "steam" | "route",
     blockHeadingLevel?: number,
+    blockTable?: GuideTableData,
   ) => {
     const markers = markersEnabled
       ? uniqueGuideMarkers([
@@ -262,6 +291,7 @@ const parseGuide = (text: string, markersEnabled: boolean): GuideBlock[] => {
       ...(blockCheckIndex === undefined ? {} : { checkIndex: blockCheckIndex }),
       ...(blockCheckScope === undefined ? {} : { checkScope: blockCheckScope }),
       ...(markers.length ? { markers } : {}),
+      ...(blockTable === undefined ? {} : { table: blockTable }),
     });
   };
 
@@ -279,13 +309,56 @@ const parseGuide = (text: string, markersEnabled: boolean): GuideBlock[] => {
   };
 
   const sourceLines = markersEnabled ? lines.flatMap(splitInlineChecklistLine) : lines;
+  let tableHeader: string[] | undefined;
+  let tableRows: string[][] = [];
+  let tableMarkers: GuideMarkerKind[] = [];
 
-  for (const rawLine of sourceLines) {
+  const flushTable = () => {
+    if (tableHeader && tableRows.length > 0) {
+      const table = { headers: tableHeader, rows: tableRows };
+      pushBlock(
+        "table",
+        [table.headers, ...table.rows].flat().join(" | "),
+        tableMarkers,
+        undefined,
+        undefined,
+        undefined,
+        table,
+      );
+    }
+    tableHeader = undefined;
+    tableRows = [];
+    tableMarkers = [];
+  };
+
+  for (let lineIndex = 0; lineIndex < sourceLines.length; lineIndex += 1) {
+    const rawLine = sourceLines[lineIndex];
     const extracted = markersEnabled
       ? extractGuideMarkers(rawLine.trim())
       : { line: rawLine.trim(), markers: [] as GuideMarkerKind[] };
     const line = extracted.line;
     const lineMarkers = extracted.markers;
+
+    const tableRow = parseGuideTableRow(line);
+    if (tableHeader) {
+      if (tableRow && !isGuideTableDivider(line)) {
+        tableRows.push(tableRow);
+        tableMarkers = uniqueGuideMarkers([...tableMarkers, ...lineMarkers]);
+        continue;
+      }
+      flushTable();
+    }
+
+    const nextLine = sourceLines[lineIndex + 1]?.trim() ?? "";
+    if (tableRow && isGuideTableDivider(nextLine)) {
+      flushParagraph();
+      tableHeader = tableRow;
+      tableRows = [];
+      tableMarkers = lineMarkers;
+      lineIndex += 1;
+      lastStructuredKind = undefined;
+      continue;
+    }
 
     if (!line || /^[-=_]{6,}$/.test(line)) {
       flushParagraph();
@@ -400,6 +473,7 @@ const parseGuide = (text: string, markersEnabled: boolean): GuideBlock[] => {
     lastStructuredKind = undefined;
   }
 
+  flushTable();
   flushParagraph();
 
   const bodyKinds = new Set<GuideBlock["kind"]>([
@@ -407,6 +481,7 @@ const parseGuide = (text: string, markersEnabled: boolean): GuideBlock[] => {
     "bullet",
     "check",
     "step",
+    "table",
   ]);
   const visibleBlocks = blocks.filter((block, index) => {
     if (block.kind !== "heading" && block.kind !== "subheading") {
@@ -1073,6 +1148,44 @@ export default function GuideReader({
                       <span className="guide-check-box" aria-hidden="true" />
                       <span className="guide-check-copy"><GuideMarkerRow markers={block.markers} />{highlighted}</span>
                     </label>
+                  );
+                }
+                if (block.kind === "table" && block.table) {
+                  const columnCount = Math.max(
+                    block.table.headers.length,
+                    ...block.table.rows.map((row) => row.length),
+                  );
+                  const headers = Array.from(
+                    { length: columnCount },
+                    (_, index) => block.table?.headers[index] ?? `Colonne ${index + 1}`,
+                  );
+                  return (
+                    <div
+                      className="guide-table-wrap"
+                      id={block.id}
+                      key={block.id}
+                      ref={(element) => { resultRefs.current[visibleIndex] = element; }}
+                    >
+                      <table className="guide-table">
+                        <caption className="sr-only">{headers.join(" · ")}</caption>
+                        <thead>
+                          <tr>
+                            {headers.map((header, index) => <th key={`${block.id}-header-${index}`} scope="col">{renderHighlightedText(header)}</th>)}
+                          </tr>
+                        </thead>
+                        <tbody>
+                          {block.table.rows.map((row, rowIndex) => (
+                            <tr key={`${block.id}-row-${rowIndex}`}>
+                              {headers.map((header, cellIndex) => (
+                                <td data-label={header} key={`${block.id}-cell-${rowIndex}-${cellIndex}`}>
+                                  {renderHighlightedText(row[cellIndex] ?? "")}
+                                </td>
+                              ))}
+                            </tr>
+                          ))}
+                        </tbody>
+                      </table>
+                    </div>
                   );
                 }
                 return <p className="guide-paragraph" key={block.id} ref={(element) => { resultRefs.current[visibleIndex] = element; }}><GuideMarkerRow markers={block.markers} />{highlighted}</p>;

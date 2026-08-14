@@ -352,3 +352,14 @@ transformée en validation automatique quand c'est possible.
 - Une question, une pause, un diagnostic en lecture seule ou une tache bloquee
   ne cree ni commit vide ni push.
 - Cette regle remplace les anciennes mentions de livraison restant locale.
+
+### Correctif lecture des tableaux - 14 aout 2026
+
+- Une ligne Markdown `| ... | ... |` est rendue comme un vrai tableau dans le
+  lecteur, jamais comme un paragraphe continu ; le TXT original reste intact.
+- Sur mobile, chaque ligne devient une carte avec le nom de chaque colonne afin
+  que les moments, actions et risques restent lisibles sans zoom ni balayage
+  horizontal obligatoire.
+- Le controle visuel doit ouvrir la fiche Octopath Traveler sur ordinateur et
+  sur une largeur mobile de 390 px, puis confirmer qu il existe un tableau
+  rendu, sans perte de cellule, avant build, commit et push.
