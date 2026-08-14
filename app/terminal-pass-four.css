@@ -258,7 +258,10 @@
 /* Le lecteur reprend le meme langage : une barre de signal, des rails lime et
    des blocs de lecture plus proches d'un systeme que d'un article classique. */
 .site-shell.is-reader-mode .topbar {
-  position: fixed;
+  /* L en-tete accompagne la fiche au lieu de masquer les lignes pendant le
+     defilement d une longue soluce. L espace reserve du reader-section garde
+     le bandeau lisible a l ouverture, puis le laisse sortir naturellement. */
+  position: absolute;
 }
 
 .site-shell.is-reader-mode .topbar::before {
@@ -284,7 +287,8 @@
 }
 
 .site-shell.is-reader-mode .reader-tools {
-  position: sticky;
+  position: static;
+  top: auto;
   overflow: hidden;
 }
 

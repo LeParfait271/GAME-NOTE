@@ -588,13 +588,20 @@
   }
 
   .site-shell.is-reader-mode .reader-tools-copy {
-    grid-column: 1;
+    grid-column: 1 / -1;
     min-width: 0;
   }
 
   .site-shell.is-reader-mode .reader-current-route {
-    grid-column: 2;
+    grid-column: 1 / -1;
     min-width: 0;
+  }
+
+  .site-shell.is-reader-mode .reader-current-route strong {
+    overflow: visible;
+    text-overflow: clip;
+    white-space: normal;
+    overflow-wrap: anywhere;
   }
 
   .site-shell.is-reader-mode .reader-tools > .search-wrap,
