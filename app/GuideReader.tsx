@@ -1323,7 +1323,9 @@ export default function GuideReader({
                           <span className="guide-heading-meta">
                             {(() => {
                               const count = routeOutlineGroups.find((group) => group.anchor?.id === block.id)?.items.length ?? 0;
-                              return `${count} sous-section${count > 1 ? "s" : ""} à vérifier`;
+                              return count > 0
+                                ? `${count} repère${count > 1 ? "s" : ""} détaillé${count > 1 ? "s" : ""}`
+                                : "Étape directe";
                             })()}
                           </span>
                         ) : null}
@@ -1453,7 +1455,7 @@ export default function GuideReader({
                         <span className="guide-lane-summary-copy">
                           <span className="guide-lane-kicker">AVANT DE COMMENCER</span>
                           <strong>Règles, alertes et sauvegardes</strong>
-                          <small>Les repères indispensables avant la première séquence</small>
+                          <small>Missables, combats clés et sauvegardes avant d&apos;avancer</small>
                         </span>
                         <span className="guide-lane-summary-action">Ouvrir <b aria-hidden="true">+</b></span>
                       </summary>
@@ -1479,7 +1481,7 @@ export default function GuideReader({
                         <span className="guide-lane-summary-copy">
                           <span className="guide-lane-kicker">DOSSIERS DE RÉFÉRENCE</span>
                           <strong>Checklists, inventaires et contrôles</strong>
-                          <small>À consulter quand tu veux sécuriser ou nettoyer ta partie</small>
+                          <small>Registres complets et procédures de rattrapage</small>
                         </span>
                         <span className="guide-lane-summary-action">Ouvrir <b aria-hidden="true">+</b></span>
                       </summary>
