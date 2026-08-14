@@ -1,0 +1,376 @@
+/*
+ * Terminal pass five: extend the visual language into the system layer.
+ * The content remains unchanged; this pass adds the quiet rails, module
+ * framing and control-surface details that make the archive feel designed as
+ * one instrument from homepage to long-form reader.
+ */
+
+.site-shell:not(.is-reader-mode) .library-page {
+  overflow: hidden;
+  isolation: isolate;
+  background:
+    linear-gradient(90deg, rgba(6, 45, 45, 0.035) 1px, transparent 1px),
+    linear-gradient(rgba(6, 45, 45, 0.035) 1px, transparent 1px),
+    var(--terminal-surface);
+  background-size: 84px 84px, 84px 84px, auto;
+}
+
+.site-shell:not(.is-reader-mode) .library-page::after {
+  position: absolute;
+  top: 68px;
+  right: 0;
+  bottom: 0;
+  z-index: 0;
+  width: clamp(72px, 11vw, 164px);
+  border-left: 1px solid rgba(6, 45, 45, 0.11);
+  background:
+    linear-gradient(180deg, rgba(185, 255, 0, 0.16), transparent 22%),
+    repeating-linear-gradient(180deg, rgba(6, 45, 45, 0.05) 0 1px, transparent 1px 20px);
+  content: "";
+  opacity: 0.72;
+  pointer-events: none;
+}
+
+.site-shell:not(.is-reader-mode) .library-page .section-heading {
+  position: relative;
+  max-width: 1060px;
+  margin-bottom: 67px;
+}
+
+.site-shell:not(.is-reader-mode) .library-page .section-heading > div::before {
+  display: block;
+  margin-bottom: 16px;
+  color: #6f8f00;
+  content: "ARCHIVE / ROUTE INDEX";
+  font-family: var(--hero-mono);
+  font-size: 0.52rem;
+  font-weight: 800;
+  letter-spacing: 0.2em;
+  line-height: 1;
+}
+
+.site-shell:not(.is-reader-mode) .library-page .section-heading > p {
+  position: relative;
+  max-width: 47ch;
+  padding-top: 19px;
+}
+
+.site-shell:not(.is-reader-mode) .library-page .section-heading > p::before {
+  position: absolute;
+  top: 0;
+  left: 50%;
+  width: 118px;
+  height: 1px;
+  background: rgba(6, 45, 45, 0.16);
+  content: "";
+  transform: translateX(-50%);
+}
+
+.site-shell:not(.is-reader-mode) .library-tools {
+  padding: 18px 22px;
+  border-radius: 14px 14px 4px 14px;
+  box-shadow: 0 20px 42px rgba(6, 45, 45, 0.09), inset 0 1px 0 rgba(255, 255, 255, 0.82);
+}
+
+.site-shell:not(.is-reader-mode) .library-tools::before {
+  position: absolute;
+  top: -8px;
+  left: 18px;
+  padding: 0 8px;
+  background: var(--terminal-surface);
+  color: #6f8f00;
+  content: "CONTROL DECK";
+  font-family: var(--hero-mono);
+  font-size: 0.48rem;
+  font-weight: 800;
+  letter-spacing: 0.17em;
+}
+
+.site-shell:not(.is-reader-mode) .library-tools::after {
+  position: absolute;
+  top: 14px;
+  right: 17px;
+  width: 6px;
+  height: 6px;
+  border: 1px solid #6f8f00;
+  border-radius: 50%;
+  background: var(--terminal-lime);
+  box-shadow: 0 0 0 4px rgba(185, 255, 0, 0.13), 0 0 15px rgba(185, 255, 0, 0.42);
+  content: "";
+}
+
+.site-shell:not(.is-reader-mode) .catalog-index {
+  position: relative;
+}
+
+.site-shell:not(.is-reader-mode) .catalog-index::after {
+  position: absolute;
+  top: -1px;
+  right: 0;
+  width: 46px;
+  height: 1px;
+  background: var(--terminal-lime);
+  box-shadow: 0 0 13px rgba(185, 255, 0, 0.34);
+  content: "";
+}
+
+.site-shell:not(.is-reader-mode) .guide-grid {
+  position: relative;
+  padding-top: 27px;
+  border-top: 1px solid rgba(6, 45, 45, 0.15);
+}
+
+.site-shell:not(.is-reader-mode) .guide-grid::before,
+.site-shell:not(.is-reader-mode) .guide-grid::after {
+  position: absolute;
+  top: -8px;
+  padding: 0 8px;
+  background: var(--terminal-surface);
+  color: #6f8f00;
+  font-family: var(--hero-mono);
+  font-size: 0.48rem;
+  font-weight: 800;
+  letter-spacing: 0.16em;
+  line-height: 1;
+}
+
+.site-shell:not(.is-reader-mode) .guide-grid::before {
+  left: 17px;
+  content: "ROUTE MODULES";
+}
+
+.site-shell:not(.is-reader-mode) .guide-grid::after {
+  right: 17px;
+  color: rgba(6, 45, 45, 0.42);
+  content: "LIVE / LOCAL";
+}
+
+.site-shell:not(.is-reader-mode) .guide-card {
+  border-radius: 14px 14px 4px 14px;
+  box-shadow: 0 15px 34px rgba(6, 45, 45, 0.08), inset 0 1px 0 rgba(255, 255, 255, 0.8);
+}
+
+.site-shell:not(.is-reader-mode) .guide-card .card-copy {
+  padding-inline: 7px;
+}
+
+.site-shell:not(.is-reader-mode) .guide-card .card-meta {
+  padding-top: 15px;
+}
+
+.site-shell:not(.is-reader-mode) .guide-card .card-link {
+  min-height: 31px;
+  margin-top: 16px;
+  padding-top: 11px;
+  border-top-color: rgba(6, 45, 45, 0.18);
+}
+
+.site-shell:not(.is-reader-mode) .library-more {
+  position: relative;
+  padding-top: 24px;
+  border-top: 1px solid rgba(6, 45, 45, 0.14);
+}
+
+.site-shell:not(.is-reader-mode) .library-more::before {
+  position: absolute;
+  top: -7px;
+  left: 50%;
+  padding: 0 8px;
+  background: var(--terminal-surface);
+  color: #6f8f00;
+  content: "EXTEND ARCHIVE";
+  font-family: var(--hero-mono);
+  font-size: 0.48rem;
+  font-weight: 800;
+  letter-spacing: 0.16em;
+  transform: translateX(-50%);
+}
+
+.site-shell:not(.is-reader-mode) .site-footer {
+  position: relative;
+  overflow: hidden;
+  isolation: isolate;
+  border-top: 1px solid rgba(247, 250, 246, 0.16);
+  background:
+    linear-gradient(90deg, rgba(185, 255, 0, 0.045) 1px, transparent 1px),
+    linear-gradient(rgba(185, 255, 0, 0.045) 1px, transparent 1px),
+    var(--terminal-deep);
+  background-size: 84px 84px, 84px 84px, auto;
+}
+
+.site-shell:not(.is-reader-mode) .site-footer::before {
+  position: absolute;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  width: min(34vw, 420px);
+  border-left: 1px solid rgba(185, 255, 0, 0.16);
+  background: repeating-linear-gradient(180deg, rgba(247, 250, 246, 0.07) 0 1px, transparent 1px 22px);
+  content: "";
+  opacity: 0.55;
+  pointer-events: none;
+}
+
+.site-shell:not(.is-reader-mode) .site-footer::after {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: min(34vw, 420px);
+  height: 3px;
+  background: var(--terminal-lime);
+  box-shadow: 0 0 18px rgba(185, 255, 0, 0.35);
+  content: "";
+}
+
+.site-shell:not(.is-reader-mode) .site-footer-copy,
+.site-shell:not(.is-reader-mode) .site-footer > a {
+  position: relative;
+  z-index: 1;
+}
+
+.site-shell:not(.is-reader-mode) .site-footer-copy {
+  max-width: 680px;
+}
+
+.site-shell:not(.is-reader-mode) .site-footer > a {
+  display: inline-flex;
+  min-height: 42px;
+  align-items: center;
+  padding: 0 15px;
+  border: 1px solid rgba(185, 255, 0, 0.42);
+  border-radius: 8px 8px 2px 8px;
+  background: rgba(185, 255, 0, 0.07);
+  font-family: var(--hero-mono);
+  font-size: 0.57rem;
+  letter-spacing: 0.09em;
+  text-transform: uppercase;
+  transition: background 180ms ease, border-color 180ms ease, color 180ms ease, transform 180ms ease;
+}
+
+.site-shell:not(.is-reader-mode) .site-footer > a:hover,
+.site-shell:not(.is-reader-mode) .site-footer > a:focus-visible {
+  border-color: var(--terminal-lime);
+  background: var(--terminal-lime);
+  color: var(--terminal-ink);
+  transform: translateY(-2px);
+}
+
+.site-shell.is-reader-mode .reader-section {
+  position: relative;
+  isolation: isolate;
+}
+
+.site-shell.is-reader-mode .reader-section::before {
+  position: absolute;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  z-index: 0;
+  width: clamp(72px, 11vw, 164px);
+  border-left: 1px solid rgba(185, 255, 0, 0.12);
+  background: repeating-linear-gradient(180deg, rgba(247, 250, 246, 0.045) 0 1px, transparent 1px 24px);
+  content: "";
+  pointer-events: none;
+}
+
+.site-shell.is-reader-mode .reader-section > * {
+  position: relative;
+  z-index: 1;
+}
+
+.site-shell.is-reader-mode .reader-sidebar {
+  position: sticky;
+  padding-left: 14px;
+  border-left: 1px solid rgba(185, 255, 0, 0.2);
+}
+
+.site-shell.is-reader-mode .reader-sidebar-card,
+.site-shell.is-reader-mode .reader-progress-card {
+  position: relative;
+  box-shadow: 0 14px 30px rgba(0, 0, 0, 0.16);
+}
+
+.site-shell.is-reader-mode .reader-sidebar-card::before,
+.site-shell.is-reader-mode .reader-progress-card::before {
+  position: absolute;
+  top: -1px;
+  left: 15px;
+  width: 32px;
+  height: 2px;
+  background: var(--terminal-lime);
+  box-shadow: 0 0 12px rgba(185, 255, 0, 0.34);
+  content: "";
+}
+
+.site-shell.is-reader-mode .reader-document {
+  position: relative;
+  border-radius: 14px 14px 3px 14px;
+  box-shadow: 0 24px 62px rgba(0, 0, 0, 0.24), 0 0 0 1px rgba(185, 255, 0, 0.06);
+}
+
+.site-shell.is-reader-mode .reader-document::before {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 26%;
+  height: 3px;
+  background: var(--terminal-lime);
+  box-shadow: 0 0 15px rgba(185, 255, 0, 0.34);
+  content: "";
+}
+
+@media screen and (max-width: 1040px) {
+  .site-shell.is-reader-mode .reader-sidebar {
+    padding-left: 0;
+    border-left: 0;
+  }
+}
+
+@media screen and (max-width: 760px) {
+  .site-shell:not(.is-reader-mode) .library-page {
+    background-size: 58px 58px, 58px 58px, auto;
+  }
+
+  .site-shell:not(.is-reader-mode) .library-page::after,
+  .site-shell.is-reader-mode .reader-section::before,
+  .site-shell:not(.is-reader-mode) .site-footer::before {
+    display: none;
+  }
+
+  .site-shell:not(.is-reader-mode) .library-page .section-heading > div::before {
+    margin-bottom: 13px;
+    font-size: 0.47rem;
+  }
+
+  .site-shell:not(.is-reader-mode) .library-tools {
+    padding: 16px 14px;
+  }
+
+  .site-shell:not(.is-reader-mode) .library-tools::after {
+    top: 12px;
+    right: 13px;
+  }
+
+  .site-shell:not(.is-reader-mode) .guide-grid {
+    padding-top: 24px;
+  }
+
+  .site-shell:not(.is-reader-mode) .guide-grid::before {
+    left: 9px;
+  }
+
+  .site-shell:not(.is-reader-mode) .guide-grid::after {
+    right: 9px;
+  }
+
+  .site-shell:not(.is-reader-mode) .site-footer > a {
+    justify-content: center;
+    width: 100%;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .site-shell:not(.is-reader-mode) .site-footer > a {
+    transition: none;
+  }
+}

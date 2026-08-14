@@ -2,6 +2,7 @@ import type { Metadata } from "next";
 import "./globals.css";
 import "./terminal-pass-three.css";
 import "./terminal-pass-four.css";
+import "./terminal-pass-five.css";
 import PwaRegister from "./pwa-register";
 
 export const metadata: Metadata = {
