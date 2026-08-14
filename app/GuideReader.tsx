@@ -102,6 +102,9 @@ const normalizeGuideText = (value: string) =>
 const guideCapsuleUrl = (appId: number) =>
   `https://cdn.akamai.steamstatic.com/steam/apps/${appId}/capsule_616x353.jpg`;
 
+const guideHeroUrl = (appId: number) =>
+  `https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/${appId}/library_hero.jpg`;
+
 const makeBlockId = (text: string, index: number) => {
   const slug = normalizeGuideText(text)
     .replace(/[^a-z0-9]+/g, "-")
@@ -1047,15 +1050,23 @@ export default function GuideReader({
         <div className="reader-cover-art">
           {/* eslint-disable-next-line @next/next/no-img-element */}
           <img
-            src={selected.artworkUrl ?? guideCapsuleUrl(selected.steamAppId)}
+            src={selected.artworkUrl ?? guideHeroUrl(selected.steamAppId)}
             alt={`Illustration officielle de ${selected.title}`}
-            width={920}
-            height={430}
+            width={1920}
+            height={620}
+            loading="eager"
+            decoding="async"
+            fetchPriority="high"
             onError={(event) => {
               const image = event.currentTarget;
-              if (image.dataset.fallbackApplied === "true") return;
-              image.dataset.fallbackApplied = "true";
-              image.src = "/images/cards/game-note-card-route.png";
+              if (image.dataset.fallbackApplied === "capsule") {
+                image.dataset.fallbackApplied = "local";
+                image.src = "/images/cards/game-note-card-route.png";
+                return;
+              }
+              if (image.dataset.fallbackApplied === "local") return;
+              image.dataset.fallbackApplied = "capsule";
+              image.src = guideCapsuleUrl(selected.steamAppId);
             }}
           />
           <span className={`reader-cover-accent reader-cover-accent-${selected.accent}`} />

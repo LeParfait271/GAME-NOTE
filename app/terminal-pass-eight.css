@@ -4,6 +4,9 @@
 .site-shell:not(.is-reader-mode) .hero-pointer-ring { animation: terminal-target-pulse 3.8s ease-out infinite; }
 .site-shell:not(.is-reader-mode) .hero-focus-status { animation: terminal-signal-pulse 4.2s ease-in-out infinite; }
 .site-shell:not(.is-reader-mode) .hero-index button.is-active .hero-index-arrow { animation: terminal-line-pulse 1.8s ease-in-out infinite; }
+.site-shell:not(.is-reader-mode) .hero-index { filter: opacity(0.84); }
+.site-shell:not(.is-reader-mode) .reveal-section { opacity: 0.18; transform: translateY(22px); transition: opacity 560ms ease, transform 680ms var(--expo-out); }
+.site-shell:not(.is-reader-mode) .reveal-section.is-in-view { opacity: 1; transform: none; }
 
 .site-shell:not(.is-reader-mode) .library-tools { animation: terminal-grid-drift 12s linear infinite; }
 .site-shell:not(.is-reader-mode) .guide-card .card-artwork::before { animation: terminal-signal-pulse 3.4s ease-in-out infinite; }
@@ -37,6 +40,8 @@
   .site-shell:not(.is-reader-mode) .hero-telemetry { display: none; }
   .site-shell:not(.is-reader-mode) .hero-pointer-ring { width: 82px; }
   .site-shell.is-reader-mode .reader-cover-art img { animation-duration: 24s; }
+  .site-shell.is-reader-mode .topbar-reader-mark { max-width: 60%; font-size: 0.52rem; }
+  .site-shell.is-reader-mode .reader-cover-facts span { font-size: 0.58rem; }
 }
 
 @media (prefers-reduced-motion: reduce) {
