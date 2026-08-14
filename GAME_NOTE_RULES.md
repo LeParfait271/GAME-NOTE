@@ -859,6 +859,15 @@ annexes, si un controle obligatoire echoue ou si le commit n est pas pousse.
 - Controle obligatoire sur 390, 768 et 1280 px, puis build, preflight, audit
   qualite, lint, smoke, commit, push et deploiement.
 
+### Regle active - finition visuelle editoriale - 15 aout 2026
+
+- La couche Terminal existante peut renforcer les rails, cadres, ombres et etats
+  actifs, sans ajouter de contenu fonctionnel ni de surcharge decorative.
+- Le rendu doit rester lisible sur 390, 768 et 1440 px, avec une attention
+  particuliere au hero, a l index actif, aux cartes et a la couverture du lecteur.
+- Toute transition de cette couche doit etre neutralisee par
+  `prefers-reduced-motion`.
+
 ### Regle active - filtres de bibliotheque lisibles sur mobile - 14 aout 2026
 
 - Sous 760 px, les filtres de bibliotheque doivent revenir a la ligne pour que

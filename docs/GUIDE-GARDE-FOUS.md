@@ -1035,6 +1035,15 @@ validation ou reste seulement local.
 - Le controle mesure la premiere vue, les cibles, le focus, le debordement et la
   console sur 390, 768 et 1280 px avant les validations completes.
 
+## Garde-fou - finition visuelle editoriale - 15 aout 2026
+
+- La couche Terminal existante reste une couche de finition : profondeur, cadres
+  et etats actifs uniquement ; aucun contenu fonctionnel ne doit y etre ajoute.
+- Le controle couvre le hero, le header, l index actif, la bibliotheque et la
+  couverture du lecteur sur 390, 768 et 1440 px.
+- Les transitions et effets de cette couche sont neutralises avec
+  `prefers-reduced-motion`.
+
 ## Garde-fou - filtres de bibliotheque lisibles sur mobile - 14 aout 2026
 
 - Sous 760 px, `.library-filters` revient a la ligne et garde chaque bouton

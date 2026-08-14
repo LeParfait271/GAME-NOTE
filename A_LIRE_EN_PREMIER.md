@@ -558,3 +558,12 @@ annexes sont melangees, si un controle echoue ou si le commit reste local.
   n ajoutent aucun contenu et sont neutralises avec `prefers-reduced-motion`.
 - Controle livre sur 390, 768 et 1280 px : premiere vue, focus, absence de
   recouvrement et debordement avant toute publication.
+
+### Finition visuelle editoriale - 15 aout 2026
+
+- La couche Terminal existante renforce la profondeur du header, l etat actif de
+  l index, les cartes de bibliotheque et le cadre de couverture du lecteur.
+- Ces reglages ne doivent pas ajouter de contenu fonctionnel ni modifier le flux
+  de lecture ; les transitions restent coupees en mouvement reduit.
+- Controle cible : header, hero, index actif, recherche, cartes et couverture sur
+  390, 768 et 1440 px.
