@@ -669,3 +669,13 @@ annexes, si un controle obligatoire echoue ou si le commit n est pas pousse.
 - Une recherche filtre temporairement les blocs dans l ordre du TXT et doit
   laisser toutes les donnees accessibles. Controle obligatoire desktop, mobile
   390 px et absence de debordement avant commit.
+
+### Regle active - retour vers la bibliotheque - 14 aout 2026
+
+- Retourner depuis une fiche doit rendre les cartes, les filtres et la recherche
+  effectivement visibles ; un DOM rempli mais a `opacity: 0` est une regression.
+- Toute animation de revelation liee a la bibliotheque doit suivre le cycle de
+  vie du mode lecture, car la bibliotheque est retiree puis remontee entre deux
+  ouvertures de fiche.
+- Tester fiche -> retour -> fiche, puis le bouton precedent du navigateur,
+  avant build final, commit, push et deploiement.

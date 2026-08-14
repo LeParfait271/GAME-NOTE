@@ -3286,7 +3286,7 @@ export default function Home() {
       window.removeEventListener("resize", handleScroll);
       observer?.disconnect();
     };
-  }, []);
+  }, [readerMode]);
 
   useEffect(() => {
     const handleKeyboardShortcut = (event: KeyboardEvent) => {

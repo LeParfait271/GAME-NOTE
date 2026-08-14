@@ -251,6 +251,16 @@ for (const marker of [".guide-lane-details", ".guide-route-lane", ".guide-refere
     fail(`app/globals.css: style de hierarchie absent (${marker}).`);
   }
 }
+for (const marker of [
+  "const library = libraryRef.current;",
+  "observer.observe(library);",
+  "library.classList.add(\"is-in-view\")",
+  "}, [readerMode]);",
+]) {
+  if (!page.includes(marker)) {
+    fail(`app/page.tsx: retour vers la bibliotheque non protege (${marker}).`);
+  }
+}
 
 const siteVersionMatch = siteVersionSource.match(
   /export const SITE_VERSION = "(\d+)\.(\d{2})";/,

@@ -106,6 +106,13 @@ test("les cartes et les boutons ont un contenu utilisable", () => {
   }
 });
 
+test("le retour d une fiche reactive la bibliotheque", () => {
+  assert.match(pageSource, /const library = libraryRef\.current;/);
+  assert.match(pageSource, /observer\.observe\(library\);/);
+  assert.match(pageSource, /library\.classList\.add\("is-in-view"\)/);
+  assert.match(pageSource, /\}, \[readerMode\]\);/);
+});
+
 test("les champs de recherche ont un label", () => {
   const inputs = [...index.matchAll(/<input\b[^>]*\bid="([^"]+)"/g)].map(
     (match) => match[1],

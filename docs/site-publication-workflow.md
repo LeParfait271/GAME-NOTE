@@ -354,3 +354,13 @@ Le travail ne se limite pas a noter une intention :
 - La verification finale ouvre une fiche reelle sur desktop et 390 px, controle
   les deux panneaux, une recherche, le sommaire, l absence de sequence vide et
   l absence de debordement avant le commit, le push et le deploiement.
+
+## Workflow de navigation - retour fiable - 14 aout 2026
+
+- Toute modification du lecteur doit tester le cycle fiche -> `Toutes les
+  soluces` -> bibliotheque -> fiche suivante.
+- Le test mesure la visibilite effective de la bibliotheque apres retour :
+  cartes presentes, section `#guides` affichee, opacite active et scroll amene
+  au sommaire. Compter les elements dans le DOM ne valide pas le rendu.
+- Le bouton precedent du navigateur doit produire le meme resultat et conserver
+  les filtres, la recherche et la lettre A-Z quand ils etaient actifs.

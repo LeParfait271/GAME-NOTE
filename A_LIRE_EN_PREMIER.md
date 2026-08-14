@@ -452,3 +452,13 @@ annexes sont melangees, si un controle echoue ou si le commit reste local.
   source, sans supprimer ni reclasser une information du TXT.
 - Toute refonte de lecture doit etre verifiee sur une fiche reelle en desktop,
   a 390 px, sans debordement, avec les panneaux repliables et la recherche.
+
+### Regle active - retour fiche vers bibliotheque - 14 aout 2026
+
+- Le bouton `Toutes les soluces` doit remonter vers une bibliotheque visible,
+  avec ses cartes, filtres et recherche ; la presence du HTML ne suffit pas.
+- Comme la bibliotheque est demontee en mode lecture, son effet de revelation
+  doit se reactiver au retour. Le controle verifie l opacite finale et la
+  classe `is-in-view`, pas seulement le nombre de cartes dans le DOM.
+- Le parcours fiche -> retour -> fiche et le bouton precedent du navigateur
+  doivent etre testes avant chaque publication.

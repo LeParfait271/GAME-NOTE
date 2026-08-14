@@ -850,3 +850,14 @@ validation ou reste seulement local.
 - Le garde-fou visuel exige une fiche reelle controlee sur desktop et 390 px,
   avec route lisible, panneaux repliables, recherche fonctionnelle et aucun
   debordement horizontal.
+
+## Garde-fou - retour fiche vers bibliotheque - 14 aout 2026
+
+- Le retour doit afficher une bibliotheque utilisable, pas seulement conserver
+  les cartes dans le DOM : `#guides` doit etre visible et son opacite doit etre
+  superieure a zero.
+- Le cycle de vie de l effet `IntersectionObserver` doit etre reactive quand
+  `readerMode` remonte ou demonte la bibliotheque ; le marqueur est controle par
+  `validate-site-guardrails.mjs` et `site-smoke.test.mjs`.
+- La verification locale couvre fiche -> retour -> fiche et le bouton precedent
+  du navigateur, avec controle des cartes, du sommaire et du debordement.
