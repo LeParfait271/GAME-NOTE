@@ -1,0 +1,366 @@
+/*
+ * Terminal pass seven: instrumentation.
+ * The archive and reader now share the same diagnostic surfaces: fine grids,
+ * state rails and restrained scan lines. Everything stays decorative and
+ * content-free so the technical language never competes with the guide.
+ */
+
+.site-shell:not(.is-reader-mode):not(.is-page-scrolled) .topbar,
+.site-shell:not(.is-reader-mode).is-page-scrolled .topbar,
+.site-shell.is-reader-mode .topbar {
+  background-image:
+    linear-gradient(90deg, rgba(185, 255, 0, 0.035) 1px, transparent 1px),
+    linear-gradient(180deg, rgba(247, 250, 246, 0.045) 1px, transparent 1px);
+  background-size: 36px 100%, 100% 9px;
+}
+
+.site-shell:not(.is-reader-mode) .library-tools {
+  background-image:
+    linear-gradient(90deg, rgba(6, 45, 45, 0.055) 1px, transparent 1px),
+    linear-gradient(180deg, rgba(6, 45, 45, 0.035) 1px, transparent 1px);
+  background-size: 44px 100%, 100% 12px;
+  box-shadow:
+    0 20px 42px rgba(6, 45, 45, 0.09),
+    inset 0 1px 0 rgba(255, 255, 255, 0.82),
+    inset 0 -1px 0 rgba(6, 45, 45, 0.08);
+}
+
+.site-shell:not(.is-reader-mode) .library-tools > label {
+  font-family: var(--hero-mono);
+  letter-spacing: 0.08em;
+}
+
+.site-shell:not(.is-reader-mode) .library-tools > label::before {
+  animation: terminal-ready-pulse 3.4s ease-in-out infinite;
+}
+
+.site-shell:not(.is-reader-mode) .library-filters button {
+  background-image: repeating-linear-gradient(90deg, rgba(6, 45, 45, 0.035) 0 1px, transparent 1px 13px);
+  box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.48);
+}
+
+.site-shell:not(.is-reader-mode) .library-filters button:is(:hover, :focus-visible, [aria-pressed="true"]) {
+  box-shadow: inset 0 0 0 1px color-mix(in srgb, var(--terminal-lime) 34%, transparent), 0 0 16px rgba(185, 255, 0, 0.1);
+}
+
+.site-shell:not(.is-reader-mode) .guide-grid {
+  background-image: repeating-linear-gradient(90deg, transparent 0 47px, rgba(6, 45, 45, 0.045) 47px 48px);
+  background-size: 48px 100%;
+}
+
+.site-shell:not(.is-reader-mode) .guide-card {
+  isolation: isolate;
+  transition: border-color 180ms ease, box-shadow 180ms ease, transform 180ms var(--expo-out);
+}
+
+.site-shell:not(.is-reader-mode) .guide-card::before {
+  background:
+    linear-gradient(90deg, var(--card-accent) 0 28%, transparent 28% 68%, color-mix(in srgb, var(--card-accent) 45%, transparent) 68% 69%, transparent 69% 100%),
+    repeating-linear-gradient(90deg, transparent 0 5px, color-mix(in srgb, var(--card-accent) 28%, transparent) 5px 6px);
+  background-size: 100% 100%, 100% 1px;
+  background-position: 0 0, 0 100%;
+  background-repeat: no-repeat;
+}
+
+.site-shell:not(.is-reader-mode) .guide-card .card-top {
+  position: relative;
+  justify-content: space-between;
+  border-bottom: 1px solid color-mix(in srgb, var(--card-accent) 18%, var(--line));
+  font-family: var(--hero-mono);
+}
+
+.site-shell:not(.is-reader-mode) .guide-card .card-top::after {
+  width: 43px;
+  height: 4px;
+  background: repeating-linear-gradient(90deg, var(--card-accent) 0 4px, transparent 4px 8px);
+  content: "";
+  opacity: 0.44;
+}
+
+.site-shell:not(.is-reader-mode) .guide-card .card-copy {
+  position: relative;
+}
+
+.site-shell:not(.is-reader-mode) .guide-card .card-copy::before {
+  position: absolute;
+  top: 0;
+  bottom: 4px;
+  left: -1px;
+  width: 1px;
+  background: linear-gradient(var(--card-accent), transparent 76%);
+  content: "";
+  opacity: 0.42;
+}
+
+.site-shell:not(.is-reader-mode) .guide-card .card-meta span {
+  background-image: repeating-linear-gradient(135deg, transparent 0 5px, color-mix(in srgb, var(--card-accent) 7%, transparent) 5px 6px);
+  box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.34);
+}
+
+.site-shell:not(.is-reader-mode) .guide-card .card-link {
+  position: relative;
+  background-image: linear-gradient(90deg, color-mix(in srgb, var(--card-accent) 55%, transparent) 0 22%, transparent 22% 100%);
+  background-position: 0 100%;
+  background-repeat: no-repeat;
+  background-size: 100% 1px;
+  font-family: var(--hero-mono);
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+}
+
+.site-shell.is-reader-mode .reader-sidebar-card,
+.site-shell.is-reader-mode .reader-progress-card {
+  background-image:
+    linear-gradient(90deg, rgba(247, 250, 246, 0.045) 1px, transparent 1px),
+    linear-gradient(180deg, rgba(247, 250, 246, 0.035) 1px, transparent 1px);
+  background-size: 42px 100%, 100% 12px;
+  box-shadow:
+    0 14px 30px rgba(0, 0, 0, 0.16),
+    inset 0 1px 0 rgba(247, 250, 246, 0.08);
+}
+
+.site-shell.is-reader-mode .sidebar-kicker,
+.site-shell.is-reader-mode .progress-heading {
+  font-family: var(--hero-mono);
+}
+
+.site-shell.is-reader-mode .reader-outline a {
+  position: relative;
+  background-image: linear-gradient(90deg, transparent, rgba(185, 255, 0, 0.08));
+  background-position: -100% 0;
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+}
+
+.site-shell.is-reader-mode .reader-outline a::after {
+  position: absolute;
+  top: 50%;
+  right: 8px;
+  width: 22px;
+  height: 1px;
+  background: repeating-linear-gradient(90deg, var(--terminal-lime) 0 3px, transparent 3px 6px);
+  content: "";
+  opacity: 0;
+  transform: translateY(-50%);
+  transition: opacity 160ms ease, width 160ms ease;
+}
+
+.site-shell.is-reader-mode .reader-outline a:is(:hover, :focus-visible) {
+  background-position: 0 0;
+}
+
+.site-shell.is-reader-mode .reader-outline a:is(:hover, :focus-visible)::after {
+  width: 34px;
+  opacity: 0.74;
+}
+
+.site-shell.is-reader-mode .reader-document {
+  background-image:
+    repeating-linear-gradient(90deg, transparent 0 51px, color-mix(in srgb, var(--route-ink) 5%, transparent) 51px 52px),
+    linear-gradient(to bottom, color-mix(in srgb, var(--route-ink) 5%, transparent) 1px, transparent 1px);
+  background-size: 52px 100%, 100% 32px;
+}
+
+.site-shell.is-reader-mode .reader-document-intro {
+  position: relative;
+  background-image: linear-gradient(90deg, color-mix(in srgb, var(--coral) 7%, transparent), transparent 54%);
+  background-position: 0 100%;
+  background-repeat: no-repeat;
+  background-size: 100% 1px;
+}
+
+.site-shell.is-reader-mode .reader-document-seal {
+  animation: terminal-seal-signal 4.8s ease-in-out infinite;
+}
+
+.site-shell.is-reader-mode .guide-lane-header {
+  position: relative;
+  overflow: hidden;
+  background-image:
+    linear-gradient(110deg, color-mix(in srgb, var(--coral) 8%, var(--card)), var(--card) 72%),
+    repeating-linear-gradient(90deg, transparent 0 45px, color-mix(in srgb, var(--coral) 9%, transparent) 45px 46px);
+  background-size: 100% 100%, 46px 100%;
+}
+
+.site-shell.is-reader-mode .guide-route-lane .guide-lane-header {
+  background-image:
+    linear-gradient(110deg, color-mix(in srgb, var(--coral) 8%, var(--card)), var(--card) 72%),
+    repeating-linear-gradient(90deg, transparent 0 45px, color-mix(in srgb, var(--coral) 9%, transparent) 45px 46px);
+  background-size: 100% 100%, 46px 100%;
+}
+
+.site-shell.is-reader-mode .guide-lane-header::after {
+  position: absolute;
+  right: 28px;
+  bottom: 0;
+  left: 28px;
+  height: 1px;
+  background: linear-gradient(90deg, var(--coral) 0 18%, transparent 18% 64%, color-mix(in srgb, var(--coral) 35%, transparent) 64% 65%, transparent 65% 100%);
+  content: "";
+  transform-origin: left;
+  animation: terminal-lane-scan 5.6s ease-in-out infinite;
+}
+
+.site-shell.is-reader-mode .guide-lane-count {
+  position: relative;
+  overflow: hidden;
+  background-image:
+    linear-gradient(135deg, color-mix(in srgb, var(--coral) 10%, var(--card)), transparent 70%),
+    repeating-linear-gradient(90deg, transparent 0 11px, color-mix(in srgb, var(--coral) 10%, transparent) 11px 12px);
+  background-size: 100% 100%, 12px 100%;
+  box-shadow: inset 0 1px 0 color-mix(in srgb, var(--paper) 32%, transparent), 0 0 18px color-mix(in srgb, var(--coral) 8%, transparent);
+}
+
+.site-shell.is-reader-mode .guide-lane-count::after {
+  position: absolute;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  height: 2px;
+  background: var(--coral);
+  content: "";
+  opacity: 0.62;
+  transform-origin: left;
+  animation: terminal-count-meter 3.8s ease-in-out infinite;
+}
+
+.site-shell.is-reader-mode .guide-lane-content {
+  background-image: linear-gradient(90deg, transparent 0 27px, color-mix(in srgb, var(--route-ink) 4%, transparent) 27px 28px, transparent 28px 100%);
+  background-size: 56px 100%;
+}
+
+.site-shell.is-reader-mode .guide-sequence-card.guide-sequence-card {
+  background-image:
+    repeating-linear-gradient(90deg, transparent 0 51px, color-mix(in srgb, var(--route-ink) 4%, transparent) 51px 52px),
+    linear-gradient(115deg, color-mix(in srgb, var(--route-ink) 5%, var(--card)), var(--card) 42%);
+  background-size: 52px 100%, auto;
+}
+
+.site-shell.is-reader-mode .guide-route-lane .guide-sequence-card.guide-sequence-card {
+  background-image:
+    repeating-linear-gradient(90deg, transparent 0 51px, color-mix(in srgb, var(--route-ink) 4%, transparent) 51px 52px),
+    linear-gradient(115deg, color-mix(in srgb, var(--route-ink) 5%, var(--card)), var(--card) 42%);
+  background-size: 52px 100%, auto;
+}
+
+/* The reader layout is component-scoped and injected after the global pass;
+   the repeated hook keeps the instrumentation above its compact-card state. */
+.site-shell.is-reader-mode .guide-route-lane .guide-sequence-card.guide-sequence-card.guide-sequence-card {
+  background-image:
+    repeating-linear-gradient(90deg, transparent 0 51px, color-mix(in srgb, var(--route-ink) 4%, transparent) 51px 52px),
+    linear-gradient(115deg, color-mix(in srgb, var(--route-ink) 5%, var(--card)), var(--card) 42%);
+  background-size: 52px 100%, auto;
+}
+
+.site-shell.is-reader-mode .guide-sequence-card-meta {
+  position: relative;
+  overflow: hidden;
+  background-image: repeating-linear-gradient(90deg, transparent 0 35px, color-mix(in srgb, var(--route-ink) 7%, transparent) 35px 36px);
+  background-size: 36px 100%;
+}
+
+.site-shell.is-reader-mode .guide-route-lane .guide-sequence-card.guide-sequence-card .guide-sequence-card-meta {
+  background-image: repeating-linear-gradient(90deg, transparent 0 35px, color-mix(in srgb, var(--route-ink) 7%, transparent) 35px 36px);
+  background-size: 36px 100%;
+}
+
+.site-shell.is-reader-mode .guide-route-lane .guide-sequence-card.guide-sequence-card.guide-sequence-card .guide-sequence-card-meta {
+  background-image: repeating-linear-gradient(90deg, transparent 0 35px, color-mix(in srgb, var(--route-ink) 7%, transparent) 35px 36px);
+  background-size: 36px 100%;
+}
+
+.site-shell.is-reader-mode .guide-sequence-card-meta::after {
+  position: absolute;
+  right: 0;
+  bottom: -1px;
+  left: 0;
+  height: 1px;
+  background: linear-gradient(90deg, var(--coral) 0 14%, transparent 14% 72%, color-mix(in srgb, var(--coral) 38%, transparent) 72% 73%, transparent 73% 100%);
+  content: "";
+  animation: terminal-meta-scan 4.8s ease-in-out infinite;
+}
+
+.site-shell.is-reader-mode .guide-sequence-card .guide-subheading {
+  background-image:
+    linear-gradient(90deg, color-mix(in srgb, var(--coral) 8%, var(--card)), color-mix(in srgb, var(--route-ink) 4%, var(--card)) 72%, transparent),
+    repeating-linear-gradient(90deg, transparent 0 39px, color-mix(in srgb, var(--coral) 7%, transparent) 39px 40px);
+  background-size: 100% 100%, 40px 100%;
+}
+
+.site-shell.is-reader-mode .guide-route-lane .guide-sequence-card.guide-sequence-card .guide-subheading {
+  background-image:
+    linear-gradient(90deg, color-mix(in srgb, var(--coral) 8%, var(--card)), color-mix(in srgb, var(--route-ink) 4%, var(--card)) 72%, transparent),
+    repeating-linear-gradient(90deg, transparent 0 39px, color-mix(in srgb, var(--coral) 7%, transparent) 39px 40px);
+  background-size: 100% 100%, 40px 100%;
+}
+
+@media (hover: hover) {
+  .site-shell:not(.is-reader-mode) .guide-card:is(:hover, :focus-within) .card-copy::before {
+    box-shadow: 0 0 13px color-mix(in srgb, var(--card-accent) 56%, transparent);
+    opacity: 0.82;
+  }
+}
+
+@media screen and (max-width: 760px) {
+  .site-shell:not(.is-reader-mode) .guide-grid {
+    background-size: 40px 100%;
+  }
+
+  .site-shell:not(.is-reader-mode) .guide-card .card-top::after {
+    width: 29px;
+  }
+
+  .site-shell.is-reader-mode .guide-lane-header::after {
+    right: 17px;
+    left: 17px;
+  }
+
+  .site-shell.is-reader-mode .guide-lane-content {
+    background-size: 42px 100%;
+  }
+
+  .site-shell.is-reader-mode .reader-document {
+    background-size: 42px 100%, 100% 30px;
+  }
+}
+
+@keyframes terminal-ready-pulse {
+  0%, 100% { box-shadow: 0 0 0 0 rgba(185, 255, 0, 0); opacity: 0.72; }
+  50% { box-shadow: 0 0 0 5px rgba(185, 255, 0, 0.09); opacity: 1; }
+}
+
+@keyframes terminal-seal-signal {
+  0%, 100% { box-shadow: 0 0 0 0 color-mix(in srgb, var(--coral) 0%, transparent); }
+  50% { box-shadow: 0 0 0 5px color-mix(in srgb, var(--coral) 10%, transparent); }
+}
+
+@keyframes terminal-lane-scan {
+  0%, 18% { opacity: 0.44; transform: scaleX(0.38); }
+  52% { opacity: 1; transform: scaleX(1); }
+  80%, 100% { opacity: 0.48; transform: scaleX(0.62); }
+}
+
+@keyframes terminal-count-meter {
+  0%, 100% { transform: scaleX(0.34); opacity: 0.48; }
+  50% { transform: scaleX(0.86); opacity: 1; }
+}
+
+@keyframes terminal-meta-scan {
+  0%, 20% { transform: translateX(-8%); opacity: 0.5; }
+  55% { transform: translateX(8%); opacity: 1; }
+  85%, 100% { transform: translateX(0); opacity: 0.58; }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .site-shell:not(.is-reader-mode) .library-tools > label::before,
+  .site-shell.is-reader-mode .reader-document-seal,
+  .site-shell.is-reader-mode .guide-lane-header::after,
+  .site-shell.is-reader-mode .guide-lane-count::after,
+  .site-shell.is-reader-mode .guide-sequence-card-meta::after {
+    animation: none;
+  }
+
+  .site-shell.is-reader-mode .reader-outline a {
+    transition: none;
+  }
+}
