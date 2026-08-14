@@ -3241,12 +3241,14 @@ export default function Home() {
     const progress = pageProgressRef.current;
     const library = libraryRef.current;
     const hero = document.querySelector<HTMLElement>(".portfolio-hero");
+    const shell = document.querySelector<HTMLElement>(".site-shell");
     if (!progress) return;
 
     const updateProgress = () => {
       const scrollableHeight = document.documentElement.scrollHeight - window.innerHeight;
       const amount = scrollableHeight > 0 ? (window.scrollY / scrollableHeight) * 100 : 0;
       progress.style.setProperty("--progress", `${Math.min(100, Math.max(0, amount))}%`);
+      shell?.classList.toggle("is-page-scrolled", window.scrollY > 36);
       if (hero) {
         const heroScrollableHeight = Math.max(1, hero.offsetHeight - window.innerHeight);
         const heroAmount = Math.min(1, Math.max(0, -hero.getBoundingClientRect().top / heroScrollableHeight));
@@ -3285,6 +3287,7 @@ export default function Home() {
       window.removeEventListener("scroll", handleScroll);
       window.removeEventListener("resize", handleScroll);
       observer?.disconnect();
+      shell?.classList.remove("is-page-scrolled");
     };
   }, [readerMode]);
 

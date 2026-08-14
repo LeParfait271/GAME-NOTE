@@ -1,0 +1,76 @@
+/* Troisième passe Terminal : la navigation réagit au passage du hero vers
+   l'archive et la bibliothèque gagne les mêmes repères éditoriaux. */
+.site-shell:not(.is-reader-mode) .topbar {
+  transition:
+    background 220ms ease,
+    border-color 220ms ease,
+    box-shadow 220ms ease,
+    color 220ms ease;
+}
+
+.site-shell:not(.is-reader-mode):not(.is-page-scrolled) .topbar {
+  border-color: rgba(6, 45, 45, 0.14);
+  background: rgba(247, 250, 246, 0.84);
+  box-shadow: 0 18px 46px rgba(6, 45, 45, 0.14);
+}
+
+.site-shell:not(.is-reader-mode):not(.is-page-scrolled) .brand-content::after {
+  color: var(--terminal-ink);
+}
+
+.site-shell:not(.is-reader-mode):not(.is-page-scrolled) .topbar-nav {
+  color: rgba(6, 45, 45, 0.74);
+}
+
+.site-shell:not(.is-reader-mode):not(.is-page-scrolled) .topbar-nav a:hover,
+.site-shell:not(.is-reader-mode):not(.is-page-scrolled) .topbar-nav a:focus-visible {
+  background: rgba(185, 255, 0, 0.3);
+  color: var(--terminal-ink);
+}
+
+.site-shell:not(.is-reader-mode):not(.is-page-scrolled) .topbar-status {
+  border-left-color: rgba(6, 45, 45, 0.16);
+  color: rgba(6, 45, 45, 0.54);
+}
+
+.site-shell:not(.is-reader-mode) .section-heading {
+  position: relative;
+}
+
+.site-shell:not(.is-reader-mode) .section-heading::after {
+  display: block;
+  width: 74px;
+  height: 2px;
+  margin: 28px auto 0;
+  background: var(--terminal-lime);
+  box-shadow: 0 0 18px rgba(185, 255, 0, 0.28);
+  content: "";
+}
+
+.site-shell:not(.is-reader-mode) .library-page::after {
+  position: absolute;
+  top: 0;
+  right: max(28px, calc((100vw - 1180px) / 2));
+  left: max(28px, calc((100vw - 1180px) / 2));
+  height: 2px;
+  background: linear-gradient(90deg, var(--terminal-lime) 0 18%, transparent 18% 100%);
+  content: "";
+  opacity: 0.82;
+  pointer-events: none;
+}
+
+@media screen and (max-width: 760px) {
+  .site-shell:not(.is-reader-mode):not(.is-page-scrolled) .topbar {
+    background: rgba(247, 250, 246, 0.9);
+  }
+
+  .site-shell:not(.is-reader-mode) .section-heading::after {
+    margin-top: 22px;
+  }
+
+  .site-shell:not(.is-reader-mode) .library-page::after {
+    right: 14px;
+    left: 14px;
+    background: linear-gradient(90deg, var(--terminal-lime) 0 34%, transparent 34% 100%);
+  }
+}
