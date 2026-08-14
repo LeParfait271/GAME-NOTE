@@ -6853,3 +6853,181 @@ button.reader-neighbor:focus-visible {
     bottom: 9px;
   }
 }
+
+/* Seconde passe Terminal : le lecteur reprend le même système d'exploitation
+   visuel que l'index, sans modifier la hiérarchie ni le contenu des fiches. */
+.site-shell.is-reader-mode {
+  --terminal-ink: #f7faf6;
+  --terminal-deep: #041919;
+  --terminal-surface: #0b1115;
+  --terminal-surface-soft: #16232a;
+  --terminal-lime: #b9ff00;
+  --terminal-line: rgba(247, 250, 246, 0.16);
+  color-scheme: dark;
+  background-color: var(--terminal-deep);
+  background-image:
+    linear-gradient(to right, rgba(185, 255, 0, 0.045) 1px, transparent 1px),
+    linear-gradient(to bottom, rgba(185, 255, 0, 0.045) 1px, transparent 1px);
+  background-size: 88px 88px;
+  color: var(--terminal-ink);
+}
+
+.site-shell.is-reader-mode .topbar {
+  position: fixed;
+  top: 32px;
+  left: 50%;
+  z-index: 70;
+  width: min(944px, calc(100% - 48px));
+  min-height: 64px;
+  margin: 0;
+  padding: 8px 12px 8px 16px;
+  border: 1px solid rgba(247, 250, 246, 0.18);
+  border-radius: 13px;
+  background: rgba(4, 25, 25, 0.86);
+  box-shadow: 0 18px 46px rgba(0, 0, 0, 0.28);
+  backdrop-filter: blur(24px) saturate(1.1);
+  transform: translateX(-50%);
+}
+
+.site-shell.is-reader-mode .brand {
+  min-width: 0;
+  gap: 9px;
+}
+
+.site-shell.is-reader-mode .brand-symbol {
+  flex-basis: 34px;
+  width: 34px;
+  height: 34px;
+  border: 0;
+  border-radius: 7px;
+  background: #f7faf6;
+  box-shadow: none;
+}
+
+.site-shell.is-reader-mode .brand-symbol img {
+  padding: 4px;
+}
+
+.site-shell.is-reader-mode .brand-content {
+  display: block;
+}
+
+.site-shell.is-reader-mode .brand-logo,
+.site-shell.is-reader-mode .brand small {
+  display: none;
+}
+
+.site-shell.is-reader-mode .brand-content::after {
+  display: block;
+  color: #f7faf6;
+  content: "Game Note";
+  font-family: var(--hero-display);
+  font-size: 1.08rem;
+  font-weight: 600;
+  letter-spacing: -0.07em;
+  line-height: 1;
+}
+
+.site-shell.is-reader-mode .topbar-reader-mark {
+  margin-left: auto;
+  color: var(--terminal-lime);
+  font-family: var(--hero-mono);
+  font-size: 0.57rem;
+  letter-spacing: 0.09em;
+  text-transform: uppercase;
+}
+
+.site-shell.is-reader-mode .reader-section {
+  padding-block: 124px 126px;
+}
+
+.site-shell.is-reader-mode .reader-tools {
+  border: 1px solid rgba(185, 255, 0, 0.2);
+  border-radius: 12px;
+  background: rgba(4, 25, 25, 0.9);
+  box-shadow: 0 18px 42px rgba(0, 0, 0, 0.24);
+}
+
+.site-shell.is-reader-mode .reader-tools-copy,
+.site-shell.is-reader-mode .reader-reading-status,
+.site-shell.is-reader-mode .reader-current-route strong {
+  color: var(--terminal-lime);
+}
+
+.site-shell.is-reader-mode .reader-current-route,
+.site-shell.is-reader-mode .reader-tools .search-wrap {
+  border-color: rgba(185, 255, 0, 0.24);
+}
+
+.site-shell.is-reader-mode .reader-cover::before {
+  background: linear-gradient(90deg, var(--terminal-lime) 0 24%, transparent 24% 100%);
+}
+
+.site-shell.is-reader-mode .reader-cover-alert {
+  border-top-color: rgba(185, 255, 0, 0.28);
+  background: linear-gradient(90deg, rgba(185, 255, 0, 0.08), var(--card));
+}
+
+.site-shell.is-reader-mode .reader-outline-major:hover,
+.site-shell.is-reader-mode .reader-outline-major:focus-visible,
+.site-shell.is-reader-mode .reader-outline-item:hover,
+.site-shell.is-reader-mode .reader-outline-item:focus-visible {
+  border-color: rgba(185, 255, 0, 0.42);
+  background: rgba(185, 255, 0, 0.08);
+}
+
+.site-shell.is-reader-mode .reader-outline-group.is-active .reader-outline-major,
+.site-shell.is-reader-mode .reader-outline-item.is-active {
+  border-left-color: var(--terminal-lime);
+  background: rgba(185, 255, 0, 0.1);
+}
+
+.site-shell.is-reader-mode .reader-outline-group.is-active .reader-outline-major-index {
+  border-color: rgba(185, 255, 0, 0.72);
+  background: rgba(185, 255, 0, 0.16);
+  color: var(--terminal-lime);
+}
+
+.site-shell.is-reader-mode .guide-sequence-card.guide-sequence-card {
+  border-top-color: var(--terminal-lime);
+}
+
+.site-shell.is-reader-mode .guide-sequence-card.guide-sequence-card.is-current {
+  box-shadow: 0 18px 46px rgba(0, 0, 0, 0.24), 0 0 0 1px rgba(185, 255, 0, 0.2);
+}
+
+.site-shell.is-reader-mode .guide-heading-row-route::before {
+  background: linear-gradient(var(--terminal-lime), transparent);
+}
+
+@media screen and (max-width: 760px) {
+  .site-shell.is-reader-mode .topbar {
+    top: 12px;
+    width: calc(100% - 24px);
+    min-height: 56px;
+    padding: 7px 10px;
+  }
+
+  .site-shell.is-reader-mode .brand-symbol {
+    flex-basis: 30px;
+    width: 30px;
+    height: 30px;
+  }
+
+  .site-shell.is-reader-mode .brand-content::after {
+    font-size: 0.9rem;
+  }
+
+  .site-shell.is-reader-mode .topbar-reader-mark {
+    max-width: 48%;
+    overflow: hidden;
+    font-size: 0.48rem;
+    text-align: right;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+  }
+
+  .site-shell.is-reader-mode .reader-section {
+    padding-block-start: 92px;
+  }
+}
