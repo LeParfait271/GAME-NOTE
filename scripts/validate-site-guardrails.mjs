@@ -672,6 +672,10 @@ for (const fragment of [
   ".site-shell.is-reader-mode .reader-document {",
   ".site-shell.is-reader-mode .guide-table-wrap",
   ".site-shell.is-reader-mode .guide-table",
+  "Garde-fou mobile : aucun bloc de route ne doit depasser la largeur utile.",
+  ".site-shell.is-reader-mode .guide-lane-content",
+  ".site-shell.is-reader-mode .guide-step-copy",
+  "overflow-wrap: anywhere;",
 ]) {
   if (!stylesheet.includes(fragment)) {
     fail("app/globals.css: garde-fou responsive du lecteur absent (" + fragment + ").");

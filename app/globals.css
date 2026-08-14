@@ -6299,6 +6299,33 @@ button.reader-neighbor:focus-visible {
     padding-block: 11px;
   }
 
+  /* Garde-fou mobile : aucun bloc de route ne doit depasser la largeur utile. */
+  .site-shell.is-reader-mode .guide-lane-content,
+  .site-shell.is-reader-mode .guide-route-sequence-list,
+  .site-shell.is-reader-mode .guide-sequence-card,
+  .site-shell.is-reader-mode .guide-heading-row,
+  .site-shell.is-reader-mode .guide-heading-copy,
+  .site-shell.is-reader-mode .guide-subheading,
+  .site-shell.is-reader-mode .guide-subheading-content,
+  .site-shell.is-reader-mode .guide-paragraph,
+  .site-shell.is-reader-mode .guide-bullet,
+  .site-shell.is-reader-mode .guide-check,
+  .site-shell.is-reader-mode .guide-step,
+  .site-shell.is-reader-mode .guide-step-copy {
+    box-sizing: border-box;
+    min-width: 0;
+    max-width: 100%;
+  }
+
+  .site-shell.is-reader-mode .guide-heading,
+  .site-shell.is-reader-mode .guide-subheading-content > *,
+  .site-shell.is-reader-mode .guide-paragraph,
+  .site-shell.is-reader-mode .guide-bullet,
+  .site-shell.is-reader-mode .guide-check,
+  .site-shell.is-reader-mode .guide-step-copy {
+    overflow-wrap: anywhere;
+  }
+
   .site-shell.is-reader-mode .guide-step-index {
     min-height: 26px;
     padding-inline: 3px;

@@ -526,3 +526,16 @@ annexes sont melangees, si un controle echoue ou si le commit reste local.
 - Controle livre sur 681, 768, 800, 980, 390 et 320 px, puis sur desktop :
   collisions, titres longs, tableaux, recherche, ancres, clavier, absence de
   debordement, build, preflight strict, audit qualite, lint et smoke tests.
+
+### Passe visuelle - contenu des etapes mobiles a largeur extreme - 14 aout 2026
+
+- La largeur utile doit etre respectee dans tous les panneaux du lecteur, y
+  compris `AVANT DE COMMENCER`, `PARCOURS CHRONOLOGIQUE` et `DOSSIERS DE
+  REFERENCE` ; une etape ou un libelle long ne peut pas depasser sa carte puis
+  etre coupe au bord droit.
+- Sous 760 px, les lignes, titres, sous-titres, paragraphes, listes, cases et
+  etapes gardent `min-width: 0`, `max-width: 100%` et une coupure de secours pour
+  les mots longs. Le correctif reste CSS et ne modifie aucun TXT ni compteur.
+- Controle livre sur Expedition 33, OT1 et OT2 a 320, 390, 768 et 1280 px,
+  plus une largeur extreme reproduisant la capture ; mesurer les descendants,
+  puis build, preflight strict, audit qualite, lint et smoke tests.

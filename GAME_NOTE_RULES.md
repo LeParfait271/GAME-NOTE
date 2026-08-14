@@ -827,6 +827,18 @@ annexes, si un controle obligatoire echoue ou si le commit n est pas pousse.
   titres longs, tableaux, recherche, ancres, clavier et debordement, puis
   build, preflight strict, audit qualite, lint, smoke, commit et push.
 
+### Regle active - confinement des etapes dans les panneaux mobiles - 14 aout 2026
+
+- Les panneaux `AVANT DE COMMENCER`, `PARCOURS CHRONOLOGIQUE` et `DOSSIERS DE
+  REFERENCE` doivent conserver chaque etape dans leur largeur utile ; aucun
+  libelle long ne peut depasser la carte puis disparaitre au bord droit.
+- Sous 760 px, les conteneurs de lecture et leurs textes imposent `min-width: 0`
+  et `max-width: 100%`, avec `overflow-wrap: anywhere` pour les mots longs. Ce
+  garde-fou ne retire ni ne recompose aucune ligne des guides.
+- Controle obligatoire sur Expedition 33, OT1 et OT2 a 320, 390, 768 et 1280 px,
+  ainsi que sur la largeur extreme de la capture ; mesurer les largeurs internes,
+  puis build, preflight, audit qualite, lint, smoke, commit, push et deploiement.
+
 ### Regle active - filtres de bibliotheque lisibles sur mobile - 14 aout 2026
 
 - Sous 760 px, les filtres de bibliotheque doivent revenir a la ligne pour que

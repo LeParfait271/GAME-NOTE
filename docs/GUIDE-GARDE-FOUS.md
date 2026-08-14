@@ -1001,6 +1001,20 @@ validation ou reste seulement local.
   puis build, preflight strict, audit qualite, lint et smoke tests avant le
   commit, le push et le deploiement.
 
+## Garde-fou - confinement du contenu des panneaux mobiles - 14 aout 2026
+
+- Les panneaux de lecture `AVANT DE COMMENCER`, `PARCOURS CHRONOLOGIQUE` et
+  `DOSSIERS DE REFERENCE` partagent le meme garde-fou de largeur ; une etape,
+  un titre ou un libelle long ne doit jamais sortir de sa carte et etre coupe.
+- Sous 760 px, `.guide-lane-content`, `.guide-route-sequence-list`,
+  `.guide-sequence-card`, les blocs de texte et `.guide-step-copy` doivent
+  rester a `min-width: 0` et `max-width: 100%`; `overflow-wrap: anywhere` gere
+  les tokens longs sans enlever le texte source.
+- Le controle couvre Expedition 33, OT1 et OT2 a 320, 390, 768 et 1280 px,
+  plus une largeur extreme reproduisant la capture. Il mesure les descendants,
+  le debordement du document et les erreurs console avant build, preflight,
+  audit qualite, lint, smoke, commit, push et deploiement.
+
 ## Garde-fou - filtres de bibliotheque lisibles sur mobile - 14 aout 2026
 
 - Sous 760 px, `.library-filters` revient a la ligne et garde chaque bouton

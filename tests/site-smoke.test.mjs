@@ -30,6 +30,7 @@ const index = await read("dist/client/index.html");
 const pageSource = await read("app/page.tsx");
 const readerSource = await read("app/GuideReader.tsx");
 const readerStylesheet = await read("app/guide-reader-layout.css");
+const readerGlobalStylesheet = await read("app/globals.css");
 const terminalStyles = await read("app/terminal-pass-four.css");
 const packageJson = JSON.parse(await read("package.json"));
 const localPreview = await read("APERCU_LOCAL.cmd");
@@ -86,6 +87,10 @@ test("le shell statique conserve les repères accessibles", () => {
   assert.match(readerStylesheet, /grid-template-columns: minmax\(0, 1fr\) minmax\(0, 1fr\)/);
   assert.match(readerStylesheet, /padding-inline: 10px/);
   assert.match(readerStylesheet, /text-wrap: pretty/);
+  assert.match(readerGlobalStylesheet, /Garde-fou mobile : aucun bloc de route ne doit depasser la largeur utile\./);
+  assert.match(readerGlobalStylesheet, /\.site-shell\.is-reader-mode \.guide-lane-content/);
+  assert.match(readerGlobalStylesheet, /\.site-shell\.is-reader-mode \.guide-step-copy/);
+  assert.match(readerGlobalStylesheet, /overflow-wrap: anywhere/);
   assert.match(readerStylesheet, /position: static;\s+order: [12];/);
   assert.match(terminalStyles, /@media screen and \(min-width: 1440px\)/);
   assert.match(terminalStyles, /transform: translateX\(-50%\);/);
