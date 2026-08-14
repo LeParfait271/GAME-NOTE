@@ -350,6 +350,45 @@
   }
 }
 
+@media screen and (min-width: 681px) and (max-width: 980px) {
+  /* A tablet still has room for the copy and the focus card, but not for the
+     desktop three-column grid. Keep the route index under the card instead of
+     compressing the headline into a one-word column. */
+  .site-shell:not(.is-reader-mode) .portfolio-hero-grid {
+    grid-template-columns: minmax(0, 1fr) minmax(220px, 0.78fr);
+    grid-template-rows: auto auto;
+  }
+
+  .site-shell:not(.is-reader-mode) .portfolio-hero-copy {
+    grid-column: 1;
+    grid-row: 1;
+    width: auto;
+  }
+
+  .site-shell:not(.is-reader-mode) .hero-focus {
+    grid-column: 2;
+    grid-row: 1;
+    justify-self: center;
+    width: min(32vw, 280px);
+  }
+
+  .site-shell:not(.is-reader-mode) .hero-index {
+    grid-column: 2;
+    grid-row: 2;
+    justify-self: stretch;
+    width: auto;
+  }
+}
+
+@media screen and (max-width: 340px) {
+  /* Classic scrollbars consume part of a 320 px viewport on desktop. Keep the
+     shell inside the usable width so the fixed chrome is never clipped. */
+  html,
+  body {
+    min-width: 0;
+  }
+}
+
 @media screen and (max-width: 760px) {
   .site-shell:not(.is-reader-mode) .portfolio-hero-topline {
     width: calc(100% - 30px);

@@ -514,3 +514,15 @@ annexes sont melangees, si un controle echoue ou si le commit reste local.
 - Controle livre sur 390 px et 320 px : chaque filtre est lisible et la page
   ne deborde pas horizontalement, puis build, preflight strict, audit qualite,
   lint et smoke tests.
+
+### Passe visuelle - tablette et largeur utile a 320 px - 14 aout 2026
+
+- Entre 681 et 980 px, le hero de l accueil utilise deux colonnes utiles : le
+  titre a gauche, la fiche a droite et l index sous la fiche. Une tablette ne
+  doit jamais comprimer le titre desktop en colonne de mots.
+- A 320 px, la largeur minimale globale cede devant la largeur utilisable quand
+  une barre de defilement classique prend sa place ; le chrome fixe ne doit pas
+  etre rogne sur le bord droit.
+- Controle livre sur 681, 768, 800, 980, 390 et 320 px, puis sur desktop :
+  collisions, titres longs, tableaux, recherche, ancres, clavier, absence de
+  debordement, build, preflight strict, audit qualite, lint et smoke tests.

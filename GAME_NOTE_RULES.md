@@ -815,6 +815,18 @@ annexes, si un controle obligatoire echoue ou si le commit n est pas pousse.
   verifier la barre, le titre d une sous-section, une liste et une case, puis
   relancer build, preflight, audit qualite, lint et smoke avant commit et push.
 
+### Regle active - hero tablette et largeur minimale - 14 aout 2026
+
+- Entre 681 et 980 px, `.portfolio-hero-grid` doit utiliser deux colonnes utiles
+  : copie a gauche, fiche a droite et index sous la fiche. Le titre ne doit pas
+  devenir une colonne de mots par compression de la grille desktop.
+- Sous 340 px, `html` et `body` doivent pouvoir revenir a une largeur minimale
+  nulle afin qu un viewport de 320 px avec barre classique ne coupe pas le
+  bandeau ni le bord droit du contenu.
+- Controle obligatoire sur 681, 768, 800, 980, 390 et 320 px : collisions,
+  titres longs, tableaux, recherche, ancres, clavier et debordement, puis
+  build, preflight strict, audit qualite, lint, smoke, commit et push.
+
 ### Regle active - filtres de bibliotheque lisibles sur mobile - 14 aout 2026
 
 - Sous 760 px, les filtres de bibliotheque doivent revenir a la ligne pour que

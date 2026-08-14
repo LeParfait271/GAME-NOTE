@@ -988,6 +988,19 @@ validation ou reste seulement local.
   debordement horizontal, puis build, preflight, audit qualite, lint et smoke
   tests avant commit, push et deploiement.
 
+## Garde-fou - composition tablette et largeur utile a 320 px - 14 aout 2026
+
+- Entre 681 et 980 px, `.portfolio-hero-grid` passe en deux colonnes : copie a
+  gauche, `.hero-focus` a droite et `.hero-index` sous la fiche. Une collision
+  ou une colonne de titre comprimee fait echouer la passe visuelle.
+- Sous 340 px, `html` et `body` peuvent abandonner la largeur minimale de 320 px
+  pour tenir compte de la barre de defilement classique ; aucun bord fixe ne
+  doit etre coupe dans un viewport de 320 px.
+- Le controle couvre 681, 768, 800, 980, 390 et 320 px, les titres longs, les
+  tableaux, la recherche, les ancres, le clavier et l absence de debordement,
+  puis build, preflight strict, audit qualite, lint et smoke tests avant le
+  commit, le push et le deploiement.
+
 ## Garde-fou - filtres de bibliotheque lisibles sur mobile - 14 aout 2026
 
 - Sous 760 px, `.library-filters` revient a la ligne et garde chaque bouton

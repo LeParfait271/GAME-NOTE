@@ -297,6 +297,23 @@ for (const marker of [
   }
 }
 for (const marker of [
+  "@media screen and (min-width: 681px) and (max-width: 980px)",
+  "grid-template-columns: minmax(0, 1fr) minmax(220px, 0.78fr);",
+  "grid-template-rows: auto auto;",
+]) {
+  if (!terminalStyles.includes(marker)) {
+    fail(`app/terminal-pass-four.css: composition tablette absente (${marker}).`);
+  }
+}
+for (const marker of [
+  "@media screen and (max-width: 340px)",
+  "min-width: 0;",
+]) {
+  if (!terminalStyles.includes(marker)) {
+    fail(`app/terminal-pass-four.css: largeur utile a 320 px absente (${marker}).`);
+  }
+}
+for (const marker of [
   "const library = libraryRef.current;",
   "observer.observe(library);",
   "library.classList.add(\"is-in-view\")",
