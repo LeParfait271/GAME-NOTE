@@ -263,3 +263,12 @@ traité comme une récompense d'action et non comme un coffre supplémentaire.
 - Avant publication, verifier une fiche qui contient effectivement un tableau,
   notamment `/?guide=octopath`, a 390 px et sur desktop, puis relancer la chaine
   complete de validations avant le commit et le push.
+
+## Semantique du parcours - 14 aout 2026
+
+- Avant de publier une refonte du lecteur, verifier que les sequences ne
+  regroupent que la route jouable et que le titre du guide ne compte pas.
+- Les informations annexes restent dans la meme fiche, mais apparaissent dans
+  une categorie distincte de dossiers de reference du sommaire.
+- Le controle final doit confirmer cette separation sur OT1, OT2 et Expedition
+  33, puis build, preflight, audit, lint, smoke tests, commit et push.

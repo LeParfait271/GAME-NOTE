@@ -363,3 +363,14 @@ transformée en validation automatique quand c'est possible.
 - Le controle visuel doit ouvrir la fiche Octopath Traveler sur ordinateur et
   sur une largeur mobile de 390 px, puis confirmer qu il existe un tableau
   rendu, sans perte de cellule, avant build, commit et push.
+
+### Separation du parcours et des dossiers - 14 aout 2026
+
+- Une sequence correspond uniquement a une partie jouable de la route : Route,
+  Phase, Acte, Prologue, Chapitre ou Post-game.
+- Les legendes, alertes, regles, compteurs, checklists, registres, inventaires
+  et annexes restent accessibles, mais sont etiquetes comme dossiers de
+  reference et ne gonflent plus le compteur de sequences.
+- Le sommaire doit toujours afficher deux zones distinctes : parcours
+  chronologique puis dossiers de reference ; le titre de la fiche n est jamais
+  une sequence.

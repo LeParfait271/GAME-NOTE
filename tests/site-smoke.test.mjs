@@ -61,6 +61,12 @@ test("le shell statique conserve les repères accessibles", () => {
   assert.match(readerSource, /const parseGuideTableRow =/);
   assert.match(readerSource, /className="guide-table-wrap"/);
   assert.match(readerSource, /data-label=\{header\}/);
+  assert.match(readerSource, /type GuideHeadingRole =/);
+  assert.match(readerSource, /const getGuideHeadingRole =/);
+  assert.match(readerSource, /const routeOutlineGroups = useMemo/);
+  assert.match(readerSource, /const referenceOutlineGroups = useMemo/);
+  assert.match(readerSource, /className="reader-outline-category"/);
+  assert.match(readerSource, /guide-heading-row-\$\{headingRole\}/);
   assert.match(readerSource, /const headingLevel = markdownHeading\[1\]\.length/);
   assert.match(readerSource, /const visibleBlocks = blocks\.filter/);
   assert.match(readerSource, /type GuideOutlineGroup =/);

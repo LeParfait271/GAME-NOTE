@@ -758,3 +758,13 @@ une mise à jour qui change les succès ou le contenu, le guide repasse en
   rester comprehensibles dans une carte verticale.
 - Le lot est valide par build, preflight strict, audit qualite, lint, smoke tests
   et inspection reelle d une fiche avant le commit puis le push.
+
+## Separation des sequences - 14 aout 2026
+
+- Le garde-fou exige la classification `title`/`route`/`reference` avant le
+  rendu des grands titres.
+- Seuls les blocs `route` peuvent produire `SEQUENCE XX` et compter dans la
+  route ; les alertes, regles, checklists, registres et annexes restent des
+  dossiers de reference.
+- Le smoke test et l audit visuel couvrent OT1, OT2 et Expedition 33, avec les
+  deux categories du sommaire et sans debordement mobile.

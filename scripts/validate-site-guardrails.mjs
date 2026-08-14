@@ -497,6 +497,12 @@ for (const fragment of [
   "const parseGuideTableRow =",
   'className="guide-table-wrap"',
   "data-label={header}",
+  "type GuideHeadingRole =",
+  "const getGuideHeadingRole =",
+  "const routeOutlineGroups = useMemo",
+  "const referenceOutlineGroups = useMemo",
+  'className="reader-outline-category"',
+  "guide-heading-row-${headingRole}",
   "reader-outline-toggle",
   "reader-outline-card",
 ]) {

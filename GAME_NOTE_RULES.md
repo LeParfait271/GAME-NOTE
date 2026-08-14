@@ -577,3 +577,13 @@ comme OT0, restent hors publication jusqu'à leur validation éditoriale.
 - Toute modification du parseur ou du style de fiche verifie au minimum OT1,
   le desktop, 390 px, la recherche dans une cellule et le maintien exact des
   TXT sources.
+
+### Regle active - sequences strictement jouables
+
+- Le role d un titre doit etre classe avant son rendu : `title`, `route` ou
+  `reference` ; le titre et les dossiers ne sont jamais numerotes comme une
+  sequence.
+- Les grands titres de la route jouable sont les seuls a recevoir un numero
+  `SEQUENCE XX` et a alimenter le compteur visible de sequences.
+- Le sommaire separe `PARCOURS CHRONOLOGIQUE` et `DOSSIERS DE REFERENCE`, sans
+  recopier ni deplacer une ligne du TXT.

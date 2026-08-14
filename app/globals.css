@@ -5509,6 +5509,68 @@ button.reader-neighbor:focus-visible {
   }
 }
 
+/* Le sommaire separe le parcours jouable des dossiers de reference. */
+.site-shell.is-reader-mode .reader-outline-category {
+  margin: 16px 8px 7px;
+  color: var(--coral);
+  font-size: 0.57rem;
+  font-weight: 900;
+  letter-spacing: 0.12em;
+  line-height: 1.3;
+  text-transform: uppercase;
+}
+
+.site-shell.is-reader-mode .reader-outline-category-reference {
+  margin-top: 24px;
+  color: var(--muted);
+}
+
+.site-shell.is-reader-mode .reader-outline-group-reference .reader-outline-major {
+  border-left-color: color-mix(in srgb, var(--route-ink) 24%, var(--line));
+}
+
+.site-shell.is-reader-mode .reader-outline-group-reference .reader-outline-major-index {
+  border-color: color-mix(in srgb, var(--route-ink) 30%, var(--line));
+  background: color-mix(in srgb, var(--route-ink) 6%, var(--card));
+  color: var(--muted);
+}
+
+.site-shell.is-reader-mode .guide-heading-row-reference {
+  margin-top: 40px;
+  padding-top: 20px;
+  border-top: 1px solid color-mix(in srgb, var(--route-ink) 18%, var(--line));
+}
+
+.site-shell.is-reader-mode .guide-heading-row-reference .guide-heading-eyebrow {
+  color: var(--muted);
+}
+
+.site-shell.is-reader-mode .guide-heading-row-reference .guide-heading-index,
+.site-shell.is-reader-mode .guide-heading-row-title .guide-heading-index {
+  border-color: color-mix(in srgb, var(--route-ink) 28%, var(--line));
+  background: color-mix(in srgb, var(--route-ink) 6%, var(--card));
+  color: var(--muted);
+}
+
+.site-shell.is-reader-mode .guide-heading-row-title {
+  margin-top: 24px;
+}
+
+.site-shell.is-reader-mode .guide-heading-row-title .guide-heading-eyebrow {
+  color: var(--muted);
+}
+
+@media screen and (max-width: 760px) {
+  .site-shell.is-reader-mode .reader-outline-category {
+    margin-top: 13px;
+  }
+
+  .site-shell.is-reader-mode .guide-heading-row-reference {
+    margin-top: 32px;
+    padding-top: 16px;
+  }
+}
+
 /* Les tableaux markdown restent des tableaux : lecture en colonnes sur desktop,
    cartes etiquetees sur mobile pour eviter les paragraphes illisibles. */
 .site-shell.is-reader-mode .guide-table-wrap {
