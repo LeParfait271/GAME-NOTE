@@ -395,6 +395,24 @@
     margin-bottom: 14px;
   }
 
+  /* Keep every library filter readable on narrow screens instead of hiding
+     the last label behind a scrollbar-free horizontal rail. */
+  .site-shell:not(.is-reader-mode) .library-filters {
+    align-items: flex-start;
+    flex-wrap: wrap;
+    overflow-x: visible;
+    row-gap: 8px;
+  }
+
+  .site-shell:not(.is-reader-mode) .library-filters > span {
+    flex: 0 0 100%;
+  }
+
+  .site-shell:not(.is-reader-mode) .library-filters > div {
+    flex: 1 1 100%;
+    flex-wrap: wrap;
+  }
+
   .site-shell:not(.is-reader-mode) .guide-card:is(:hover, :focus-within) {
     transform: translateY(-3px);
   }

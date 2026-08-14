@@ -506,3 +506,11 @@ annexes sont melangees, si un controle echoue ou si le commit reste local.
 - Controle livre sur 1280, 1440 et 1920 px, puis a 390 px : titre, carte,
   index, animation d entree, absence de debordement, build, preflight strict,
   audit qualite, lint et smoke tests.
+
+### Passe visuelle - filtres mobiles lisibles - 14 aout 2026
+
+- Sous 760 px, les filtres de bibliotheque passent sur plusieurs lignes utiles
+  au lieu de tronquer le dernier libelle dans une barre horizontale masquee.
+- Controle livre sur 390 px et 320 px : chaque filtre est lisible et la page
+  ne deborde pas horizontalement, puis build, preflight strict, audit qualite,
+  lint et smoke tests.

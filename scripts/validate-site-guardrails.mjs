@@ -289,6 +289,8 @@ for (const marker of [
   "width: min(38vw, 430px)",
   "font-size: clamp(4.4rem, 5.5vw, 6.6rem)",
   "left: 52%;",
+  "overflow-x: visible;",
+  "flex: 1 1 100%;",
 ]) {
   if (!terminalStyles.includes(marker)) {
     fail(`app/terminal-pass-four.css: composition desktop large absente (${marker}).`);

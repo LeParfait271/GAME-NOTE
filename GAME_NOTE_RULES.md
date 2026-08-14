@@ -814,3 +814,12 @@ annexes, si un controle obligatoire echoue ou si le commit n est pas pousse.
 - Controle obligatoire : mesurer la largeur du corps et de la sequence a 390 px,
   verifier la barre, le titre d une sous-section, une liste et une case, puis
   relancer build, preflight, audit qualite, lint et smoke avant commit et push.
+
+### Regle active - filtres de bibliotheque lisibles sur mobile - 14 aout 2026
+
+- Sous 760 px, les filtres de bibliotheque doivent revenir a la ligne pour que
+  chaque libelle reste entierement visible ; une barre de defilement masquee ne
+  doit pas cacher un choix utilisable.
+- Controle obligatoire sur 390 px et 320 px : mesurer la rangée, verifier les
+  cinq filtres et l absence de debordement horizontal avant build, commit, push
+  et deploiement.

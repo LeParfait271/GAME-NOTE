@@ -92,6 +92,8 @@ test("le shell statique conserve les repères accessibles", () => {
   assert.match(terminalStyles, /width: min\(38vw, 430px\)/);
   assert.match(terminalStyles, /font-size: clamp\(4\.4rem, 5\.5vw, 6\.6rem\)/);
   assert.match(terminalStyles, /left: 52%;/);
+  assert.match(terminalStyles, /overflow-x: visible;/);
+  assert.match(terminalStyles, /flex: 1 1 100%;/);
   assert.match(readerSource, /type GuideHeadingRole =/);
   assert.match(readerSource, /const getGuideHeadingRole =/);
   assert.match(readerSource, /const routeOutlineGroups = useMemo/);

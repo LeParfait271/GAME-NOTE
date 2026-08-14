@@ -987,3 +987,11 @@ validation ou reste seulement local.
 - Le controle couvre 1280, 1440, 1920 et 390 px, l animation d entree, le
   debordement horizontal, puis build, preflight, audit qualite, lint et smoke
   tests avant commit, push et deploiement.
+
+## Garde-fou - filtres de bibliotheque lisibles sur mobile - 14 aout 2026
+
+- Sous 760 px, `.library-filters` revient a la ligne et garde chaque bouton
+  entierement visible ; aucun choix ne doit dependre d une barre horizontale
+  masquee.
+- Le controle couvre 390 px et 320 px, les cinq libelles, le debordement
+  horizontal, puis build, preflight strict, audit qualite, lint et smoke tests.
