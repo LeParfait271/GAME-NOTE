@@ -7049,7 +7049,7 @@ button.reader-neighbor:focus-visible {
   }
 
   .site-shell.is-reader-mode .topbar-reader-mark {
-    max-width: 48%;
+    max-width: 56%;
     overflow: hidden;
     font-size: 0.48rem;
     text-align: right;
