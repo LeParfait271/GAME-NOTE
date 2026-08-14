@@ -240,6 +240,7 @@
 .site-shell.is-reader-mode .reader-cover.reader-cover .reader-cover-copy > p:not(.kicker) {
   max-width: 610px;
   color: rgba(255, 250, 245, 0.76);
+  text-wrap: pretty;
 }
 
 .site-shell.is-reader-mode .reader-cover.reader-cover .reader-badges span {
@@ -325,9 +326,14 @@
     gap: 28px;
   }
 
+  .site-shell.is-reader-mode .reader-document {
+    order: 1;
+  }
+
   .site-shell.is-reader-mode .reader-sidebar {
     position: static;
     top: auto;
+    order: 2;
   }
 }
 
@@ -513,6 +519,83 @@
   .site-shell.is-reader-mode .guide-sequence-card.guide-sequence-card .guide-bullet {
     margin-block: 6px;
     padding: 9px 10px 9px 8px;
+  }
+}
+
+/* Tablettes : les colonnes larges deviennent des fiches etiquetees avant
+   d etre coupees par la colonne de lecture ou de demander un balayage lateral. */
+@media screen and (max-width: 1040px) and (min-width: 761px) {
+  .site-shell.is-reader-mode .guide-table-wrap {
+    overflow: visible;
+    border: 0;
+    border-radius: 0;
+    background: transparent;
+    box-shadow: none;
+  }
+
+  .site-shell.is-reader-mode .guide-table,
+  .site-shell.is-reader-mode .guide-table tbody,
+  .site-shell.is-reader-mode .guide-table tr,
+  .site-shell.is-reader-mode .guide-table td {
+    display: block;
+    width: 100%;
+    min-width: 0;
+  }
+
+  .site-shell.is-reader-mode .guide-table {
+    font-size: 0.88rem;
+  }
+
+  .site-shell.is-reader-mode .guide-table thead {
+    position: absolute;
+    width: 1px;
+    height: 1px;
+    overflow: hidden;
+    clip: rect(0 0 0 0);
+    clip-path: inset(50%);
+    white-space: nowrap;
+  }
+
+  .site-shell.is-reader-mode .guide-table tbody {
+    display: grid;
+    gap: 12px;
+  }
+
+  .site-shell.is-reader-mode .guide-table tr {
+    overflow: hidden;
+    border: 1px solid color-mix(in srgb, var(--route-ink) 17%, var(--line));
+    border-left: 3px solid var(--coral);
+    border-radius: 13px;
+    background: color-mix(in srgb, var(--card) 96%, var(--route-ink));
+    box-shadow: 0 10px 22px color-mix(in srgb, var(--route-ink) 6%, transparent);
+  }
+
+  .site-shell.is-reader-mode .guide-table td {
+    display: grid;
+    grid-template-columns: minmax(112px, 34%) minmax(0, 1fr);
+    gap: 12px;
+    padding: 11px 13px;
+    border: 0;
+    border-top: 1px solid color-mix(in srgb, var(--route-ink) 11%, var(--line));
+  }
+
+  .site-shell.is-reader-mode .guide-table td:first-child {
+    border-top: 0;
+  }
+
+  .site-shell.is-reader-mode .guide-table td::before {
+    content: attr(data-label);
+    color: var(--coral);
+    font-size: 0.58rem;
+    font-weight: 900;
+    letter-spacing: 0.08em;
+    line-height: 1.35;
+    text-transform: uppercase;
+  }
+
+  .site-shell.is-reader-mode .guide-table tbody tr:nth-child(even),
+  .site-shell.is-reader-mode .guide-table tbody tr:hover {
+    background: color-mix(in srgb, var(--card) 96%, var(--route-ink));
   }
 }
 
