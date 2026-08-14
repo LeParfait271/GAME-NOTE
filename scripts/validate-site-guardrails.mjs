@@ -262,6 +262,10 @@ for (const marker of [
   "aspect-ratio: 16 / 9",
   ".reader-cover.reader-cover .reader-cover-art",
   ".reader-cover.reader-cover .reader-cover-alert",
+  ".guide-sequence-card.guide-sequence-card .guide-sequence-card-meta",
+  ".guide-sequence-card.guide-sequence-card .guide-bullet",
+  "text-wrap: pretty",
+  "position: static;\n    order: 1;",
 ]) {
   if (!stylesheet.includes(marker)) {
     fail(`app/globals.css: style de hierarchie absent (${marker}).`);

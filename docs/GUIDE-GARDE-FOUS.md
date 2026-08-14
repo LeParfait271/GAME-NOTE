@@ -908,3 +908,16 @@ validation ou reste seulement local.
 - La verification controle Expedition 33, OT1 et OT2 sur desktop et 390 px,
   puis ratio, chargement des images, visibilite de l alerte, build, preflight,
   audit qualite, lint et smoke tests.
+
+## Garde-fou - rythme des sequences et sommaire mobile - 14 aout 2026
+
+- Le rail de chaque sequence reste identifiable pendant le défilement avec son
+  numéro, sa route et ses sous-sections ; il ne remplace pas le sommaire.
+- Paragraphes, listes, cases, étapes et tableaux utilisent des traitements
+  visuels distincts pour éviter le mur de texte, sans supprimer ni réécrire le
+  contenu du TXT.
+- Sous 760 px, le sommaire est placé avant le document, fermé par défaut et
+  accessible depuis un contrôle clairement étiqueté ; la route reste intacte.
+- La vérification couvre une fiche longue, une sous-section, une liste, un
+  tableau, le sommaire ouvert puis fermé, desktop, 390 px et l absence de
+  debordement horizontal avant le commit.

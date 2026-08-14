@@ -394,3 +394,14 @@ Le travail ne se limite pas a noter une intention :
   `/?guide=octopath-2` sur desktop puis 390 px ; mesurer le ratio, confirmer le
   chargement de chaque artwork, lire le titre et l alerte, puis lancer build,
   preflight, audit qualite, lint et smoke tests.
+
+## Workflow de lecture - rythme et sommaire mobile - 14 aout 2026
+
+- Une fiche longue doit conserver un repère de sequence pendant le defilement :
+  route, numero et sous-sections restent visibles sans modifier le TXT.
+- Les paragraphes, listes, cases, étapes et tableaux reçoivent chacun un
+  traitement de lecture adapté ; aucune information n est fusionnée ou retirée
+  pour obtenir une interface plus courte.
+- Sur mobile, placer le sommaire replié avant le document, vérifier son ouverture
+  et sa fermeture, puis contrôler une recherche, une sequence longue, un tableau,
+  le ratio de page et l absence de debordement sur les trois fiches.

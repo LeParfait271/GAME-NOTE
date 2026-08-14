@@ -728,3 +728,17 @@ annexes, si un controle obligatoire echoue ou si le commit n est pas pousse.
 - Controle obligatoire sur Expedition 33, OT1 et OT2 : ratio de la cover,
   image chargee, titre lisible, alerte complete, desktop, 390 px, puis build,
   preflight, audit qualite, lint et smoke tests.
+
+### Regle active - rythme de lecture des sequences - 14 aout 2026
+
+- Chaque sequence conserve un rail d orientation visible pendant la lecture :
+  son numero, sa route et son nombre de sous-sections restent identifiables.
+- Les sous-sections, paragraphes, listes, cases et tableaux doivent avoir des
+  densites visuelles distinctes ; cette hiérarchie ne supprime, ne fusionne et
+  ne réécrit aucune ligne du TXT.
+- Sur mobile, le sommaire replié précède le document afin de rester accessible
+  avant le long parcours ; il ne doit pas s ouvrir automatiquement ni masquer
+  la route jouable.
+- Controle obligatoire : faire defiler une fiche longue sur desktop et 390 px,
+  verifier le rail actif, ouvrir le sommaire mobile, tester un tableau et une
+  recherche, puis relancer toutes les validations avant commit et push.
