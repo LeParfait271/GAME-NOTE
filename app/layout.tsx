@@ -3,6 +3,7 @@ import "./globals.css";
 import "./terminal-pass-three.css";
 import "./terminal-pass-four.css";
 import "./terminal-pass-five.css";
+import "./terminal-pass-six.css";
 import PwaRegister from "./pwa-register";
 
 export const metadata: Metadata = {
