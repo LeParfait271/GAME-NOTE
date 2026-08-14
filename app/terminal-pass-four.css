@@ -1,0 +1,393 @@
+/* Quatrieme passe Terminal : davantage de rails editoriaux, de modules et de
+   mouvement, sans ajouter de contenu fictif ni modifier les images sources. */
+
+.site-shell:not(.is-reader-mode) .portfolio-hero {
+  isolation: isolate;
+}
+
+.site-shell:not(.is-reader-mode) .portfolio-hero-topline {
+  width: min(1180px, calc(100% - 60px));
+  padding-top: 116px;
+  letter-spacing: 0.14em;
+}
+
+.site-shell:not(.is-reader-mode) .portfolio-hero-topline span {
+  position: relative;
+}
+
+.site-shell:not(.is-reader-mode) .portfolio-hero-topline span::after {
+  display: inline-block;
+  width: 5px;
+  height: 5px;
+  margin-left: 9px;
+  border: 1px solid currentColor;
+  border-radius: 50%;
+  content: "";
+  vertical-align: 1px;
+}
+
+.site-shell:not(.is-reader-mode) .portfolio-hero-grid {
+  width: min(1180px, calc(100% - 60px));
+  grid-template-columns: minmax(0, 1.08fr) minmax(220px, 0.54fr) minmax(300px, 0.78fr);
+  gap: clamp(30px, 4.5vw, 66px);
+}
+
+@media screen and (min-width: 981px) {
+  .site-shell:not(.is-reader-mode) .hero-index {
+    padding-left: 19px;
+    border-left: 1px solid rgba(247, 250, 246, 0.22);
+  }
+
+  .site-shell:not(.is-reader-mode) .hero-index-heading {
+    margin-left: -19px;
+    padding-left: 19px;
+  }
+}
+
+.site-shell:not(.is-reader-mode) .hero-index-heading {
+  padding-bottom: 15px;
+  border-bottom-color: rgba(247, 250, 246, 0.3);
+}
+
+.site-shell:not(.is-reader-mode) .hero-index li {
+  border-bottom-color: rgba(247, 250, 246, 0.2);
+}
+
+.site-shell:not(.is-reader-mode) .hero-index button {
+  min-height: 61px;
+  padding-block: 17px;
+}
+
+.site-shell:not(.is-reader-mode) .hero-index button:hover,
+.site-shell:not(.is-reader-mode) .hero-index button:focus-visible,
+.site-shell:not(.is-reader-mode) .hero-index button.is-active {
+  background: linear-gradient(90deg, rgba(185, 255, 0, 0.13), transparent 74%);
+}
+
+.site-shell:not(.is-reader-mode) .hero-index button::before {
+  width: 3px;
+  box-shadow: 0 0 14px rgba(185, 255, 0, 0.56);
+}
+
+.site-shell:not(.is-reader-mode) .hero-index-number {
+  align-self: start;
+  padding-top: 2px;
+  color: rgba(247, 250, 246, 0.5);
+  font-size: 0.5rem;
+  letter-spacing: 0.12em;
+}
+
+.site-shell:not(.is-reader-mode) .hero-index-copy {
+  gap: 7px;
+}
+
+.site-shell:not(.is-reader-mode) .hero-index-copy small {
+  color: rgba(247, 250, 246, 0.58);
+  letter-spacing: 0.07em;
+}
+
+.site-shell:not(.is-reader-mode) .hero-index-more {
+  padding-top: 2px;
+  border-top: 1px solid rgba(247, 250, 246, 0.2);
+}
+
+.site-shell:not(.is-reader-mode) .hero-focus-note {
+  position: relative;
+  padding-left: 13px;
+}
+
+.site-shell:not(.is-reader-mode) .hero-focus-note::before {
+  position: absolute;
+  top: 0.38em;
+  bottom: 0.38em;
+  left: 0;
+  width: 2px;
+  background: var(--terminal-lime);
+  box-shadow: 0 0 10px rgba(185, 255, 0, 0.42);
+  content: "";
+}
+
+.site-shell:not(.is-reader-mode) .hero-scroll {
+  right: max(30px, calc((100vw - 1180px) / 2));
+  padding-left: 13px;
+  border-left: 1px solid rgba(247, 250, 246, 0.28);
+}
+
+.site-shell:not(.is-reader-mode) .hero-scroll::before {
+  color: rgba(247, 250, 246, 0.38);
+  content: "00 / ";
+}
+
+.site-shell:not(.is-reader-mode) .library-page {
+  scroll-margin-top: 96px;
+}
+
+.site-shell:not(.is-reader-mode) .library-page .section-heading {
+  margin-bottom: 62px;
+}
+
+.site-shell:not(.is-reader-mode) .library-page .section-heading h1 {
+  position: relative;
+}
+
+.site-shell:not(.is-reader-mode) .library-page .section-heading h1::before {
+  display: block;
+  width: 42px;
+  height: 2px;
+  margin: 0 auto 18px;
+  background: var(--terminal-lime);
+  box-shadow: 0 0 18px rgba(185, 255, 0, 0.28);
+  content: "";
+}
+
+.site-shell:not(.is-reader-mode) .library-tools {
+  border-radius: 5px 14px 14px 14px;
+}
+
+.site-shell:not(.is-reader-mode) .catalog-index,
+.site-shell:not(.is-reader-mode) .library-filters {
+  border-color: rgba(6, 45, 45, 0.14);
+}
+
+.site-shell:not(.is-reader-mode) .guide-card {
+  border-radius: 14px 14px 4px 14px;
+  background: linear-gradient(140deg, rgba(255, 255, 255, 0.76), #edf1ee 82%);
+  box-shadow: 0 12px 30px rgba(6, 45, 45, 0.08);
+  transition: border-color 220ms ease, box-shadow 220ms ease, transform 220ms ease, background 220ms ease;
+}
+
+.site-shell:not(.is-reader-mode) .guide-card::before {
+  right: 0;
+  left: 0;
+  height: 3px;
+  background: linear-gradient(90deg, var(--terminal-lime) 0 32%, transparent 32% 100%);
+}
+
+.site-shell:not(.is-reader-mode) .guide-card:is(:hover, :focus-within) {
+  border-color: rgba(111, 143, 0, 0.48);
+  background: #f8faf7;
+  box-shadow: 0 24px 52px rgba(6, 45, 45, 0.15);
+  transform: translateY(-7px);
+}
+
+.site-shell:not(.is-reader-mode) .guide-card .card-artwork {
+  border-radius: 8px 8px 3px 8px;
+}
+
+.site-shell:not(.is-reader-mode) .guide-card .card-artwork::before {
+  position: absolute;
+  top: 9px;
+  right: 9px;
+  z-index: 1;
+  width: 7px;
+  height: 7px;
+  border: 1px solid var(--terminal-lime);
+  border-radius: 50%;
+  background: rgba(4, 25, 25, 0.62);
+  content: "";
+}
+
+.site-shell:not(.is-reader-mode) .guide-card .card-artwork img {
+  transition: transform 500ms cubic-bezier(0.2, 0.8, 0.2, 1), filter 300ms ease;
+}
+
+.site-shell:not(.is-reader-mode) .guide-card:is(:hover, :focus-within) .card-artwork img {
+  filter: saturate(1.08) contrast(1.04);
+  transform: scale(1.055);
+}
+
+.site-shell:not(.is-reader-mode) .guide-card .card-link {
+  padding-top: 14px;
+  border-top-color: rgba(6, 45, 45, 0.17);
+  font-family: var(--hero-mono);
+  font-size: 0.58rem;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+}
+
+.site-shell:not(.is-reader-mode) .library-page.is-in-view .guide-card {
+  animation: terminal-card-boot 700ms var(--expo-out) both;
+}
+
+.site-shell:not(.is-reader-mode) .library-page.is-in-view .guide-card:nth-child(2) {
+  animation-delay: 90ms;
+}
+
+.site-shell:not(.is-reader-mode) .library-page.is-in-view .guide-card:nth-child(3) {
+  animation-delay: 180ms;
+}
+
+@keyframes terminal-card-boot {
+  from {
+    opacity: 0.12;
+    transform: translateY(24px);
+  }
+
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+/* Le lecteur reprend le meme langage : une barre de signal, des rails lime et
+   des blocs de lecture plus proches d'un systeme que d'un article classique. */
+.site-shell.is-reader-mode .topbar {
+  position: fixed;
+}
+
+.site-shell.is-reader-mode .topbar::before {
+  position: absolute;
+  top: -1px;
+  left: -1px;
+  width: 25%;
+  height: 2px;
+  border-radius: 13px 0 0 0;
+  background: var(--terminal-lime);
+  box-shadow: 0 0 14px rgba(185, 255, 0, 0.46);
+  content: "";
+}
+
+.site-shell.is-reader-mode .reader-cover {
+  border-radius: 17px 17px 3px 17px;
+  box-shadow: 0 24px 58px rgba(0, 0, 0, 0.3);
+}
+
+.site-shell.is-reader-mode .reader-cover-copy :is(h1, h2) {
+  font-weight: 600;
+  letter-spacing: -0.085em;
+}
+
+.site-shell.is-reader-mode .reader-tools {
+  position: sticky;
+  overflow: hidden;
+}
+
+.site-shell.is-reader-mode .reader-tools::before {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 22%;
+  height: 2px;
+  background: var(--terminal-lime);
+  box-shadow: 0 0 14px rgba(185, 255, 0, 0.35);
+  content: "";
+}
+
+.site-shell.is-reader-mode .reader-sidebar-card,
+.site-shell.is-reader-mode .reader-progress-card {
+  border-radius: 12px 12px 3px 12px;
+}
+
+.site-shell.is-reader-mode .reader-document-intro {
+  position: relative;
+  padding-bottom: 29px;
+  border-bottom-color: rgba(185, 255, 0, 0.24);
+}
+
+.site-shell.is-reader-mode .reader-document-intro::after {
+  position: absolute;
+  right: 0;
+  bottom: -1px;
+  width: 96px;
+  height: 2px;
+  background: var(--terminal-lime);
+  box-shadow: 0 0 14px rgba(185, 255, 0, 0.38);
+  content: "";
+}
+
+.site-shell.is-reader-mode .guide-sequence-card.guide-sequence-card {
+  border-left: 2px solid rgba(185, 255, 0, 0.3);
+  border-radius: 0 14px 14px 14px;
+}
+
+.site-shell.is-reader-mode .guide-sequence-card.guide-sequence-card.is-current {
+  border-left-color: var(--terminal-lime);
+  box-shadow: inset 4px 0 0 rgba(185, 255, 0, 0.16), 0 18px 46px rgba(0, 0, 0, 0.24), 0 0 0 1px rgba(185, 255, 0, 0.2);
+}
+
+.site-shell.is-reader-mode .guide-sequence-card.guide-sequence-card .guide-sequence-card-meta {
+  border-radius: 0 14px 0 0;
+}
+
+.site-shell.is-reader-mode .guide-heading-row-route .guide-heading-index {
+  border-radius: 4px 4px 4px 1px;
+}
+
+@media screen and (max-width: 980px) {
+  .site-shell:not(.is-reader-mode) .portfolio-hero-topline,
+  .site-shell:not(.is-reader-mode) .portfolio-hero-grid {
+    width: min(100% - 40px, 760px);
+  }
+}
+
+@media screen and (max-width: 760px) {
+  .site-shell:not(.is-reader-mode) .portfolio-hero-topline {
+    width: calc(100% - 30px);
+    padding-top: 92px;
+  }
+
+  .site-shell:not(.is-reader-mode) .portfolio-hero-grid {
+    width: calc(100% - 30px);
+    min-height: 0;
+    grid-template-columns: 1fr;
+    gap: 45px;
+    padding: 48px 0 84px;
+  }
+
+  .site-shell:not(.is-reader-mode) .hero-focus {
+    justify-self: center;
+  }
+
+  .site-shell:not(.is-reader-mode) .portfolio-hero-topline span::after {
+    width: 4px;
+    height: 4px;
+    margin-left: 6px;
+  }
+
+  .site-shell:not(.is-reader-mode) .hero-index {
+    padding-top: 18px;
+    border-top: 1px solid rgba(247, 250, 246, 0.22);
+  }
+
+  .site-shell:not(.is-reader-mode) .hero-index-heading {
+    padding-bottom: 12px;
+  }
+
+  .site-shell:not(.is-reader-mode) .hero-scroll {
+    right: 18px;
+  }
+
+  .site-shell:not(.is-reader-mode) .library-page .section-heading {
+    margin-bottom: 44px;
+  }
+
+  .site-shell:not(.is-reader-mode) .library-page .section-heading h1::before {
+    margin-bottom: 14px;
+  }
+
+  .site-shell:not(.is-reader-mode) .guide-card:is(:hover, :focus-within) {
+    transform: translateY(-3px);
+  }
+
+  .site-shell.is-reader-mode .reader-document-intro {
+    padding-bottom: 22px;
+  }
+
+  .site-shell.is-reader-mode .reader-document-intro::after {
+    width: 64px;
+  }
+
+  .site-shell.is-reader-mode .guide-sequence-card.guide-sequence-card {
+    border-radius: 0 11px 11px 11px;
+  }
+
+  .site-shell.is-reader-mode .guide-sequence-card.guide-sequence-card .guide-sequence-card-meta {
+    border-radius: 0 11px 0 0;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .site-shell:not(.is-reader-mode) .library-page.is-in-view .guide-card {
+    animation: none;
+  }
+}
