@@ -426,7 +426,7 @@
   position: static;
   top: auto;
   z-index: auto;
-  border-radius: 17px 17px 0 0;
+  border-radius: 0 14px 0 0;
   background: color-mix(in srgb, var(--card) 94%, var(--route-ink));
   box-shadow: 0 8px 18px color-mix(in srgb, var(--route-ink) 9%, transparent);
   backdrop-filter: blur(12px) saturate(1.08);
@@ -507,7 +507,7 @@
 
   .site-shell.is-reader-mode .guide-sequence-card.guide-sequence-card .guide-sequence-card-meta {
     top: 75px;
-    border-radius: 13px 13px 0 0;
+    border-radius: 0 11px 0 0;
   }
 
   .site-shell.is-reader-mode .guide-sequence-card.guide-sequence-card .guide-subheading {

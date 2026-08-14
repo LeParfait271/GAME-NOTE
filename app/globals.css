@@ -169,6 +169,10 @@
   background: color-mix(in srgb, var(--card) 98%, var(--coral));
 }
 
+.site-shell.is-reader-mode .guide-route-lane .guide-lane-content {
+  padding-top: 14px;
+}
+
 .site-shell.is-reader-mode .guide-route-lane .guide-lane-header {
   border-top: 2px solid var(--coral);
   background: linear-gradient(110deg, color-mix(in srgb, var(--coral) 8%, var(--card)), var(--card));

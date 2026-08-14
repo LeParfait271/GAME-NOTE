@@ -195,7 +195,7 @@
   bottom: 0;
   left: 28px;
   height: 1px;
-  background: linear-gradient(90deg, var(--coral) 0 18%, transparent 18% 64%, color-mix(in srgb, var(--coral) 35%, transparent) 64% 65%, transparent 65% 100%);
+  background: color-mix(in srgb, var(--coral) 22%, transparent);
   content: "";
   transform-origin: left;
   animation: terminal-lane-scan 5.6s ease-in-out infinite;
