@@ -406,6 +406,16 @@ Le travail ne se limite pas a noter une intention :
   a plusieurs resultats, verifier desktop et 390 px, puis confirmer build,
   preflight, audit qualite, lint et smoke tests.
 
+## Workflow de lecture - etapes numerotees et cartes compactes - 14 aout 2026
+
+- Les etapes numerotees doivent conserver le role de la route active lors du
+  parsing ; une fiche ne doit jamais afficher une sequence vide par perte de
+  blocs.
+- Les cartes vraiment courtes peuvent etre resserrees par une classe compacte,
+  sans retirer leur titre ni leur unique contenu.
+- Avant publication, controler Expedition 33 sur trois zones a etapes numerotees,
+  desktop et 390 px, puis relancer les validations completes.
+
 ## Workflow de lecture - rythme et sommaire mobile - 14 aout 2026
 
 - Une fiche longue doit conserver un repère de sequence pendant le defilement :

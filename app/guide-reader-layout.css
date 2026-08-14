@@ -372,6 +372,19 @@
   scroll-margin-top: 158px;
 }
 
+.site-shell.is-reader-mode .guide-sequence-card.guide-sequence-card.is-compact {
+  padding-bottom: 19px;
+  background: linear-gradient(115deg, color-mix(in srgb, var(--route-ink) 7%, var(--card)), var(--card) 58%);
+}
+
+.site-shell.is-reader-mode .guide-sequence-card.guide-sequence-card.is-compact .guide-heading-row-route {
+  margin-bottom: 9px;
+}
+
+.site-shell.is-reader-mode .guide-sequence-card.guide-sequence-card.is-compact .guide-paragraph:last-child {
+  margin-bottom: 0;
+}
+
 .site-shell.is-reader-mode .guide-sequence-card.guide-sequence-card .guide-sequence-card-meta {
   position: sticky;
   top: 151px;
@@ -446,6 +459,10 @@
 @media screen and (max-width: 760px) {
   .site-shell.is-reader-mode .guide-sequence-card.guide-sequence-card {
     scroll-margin-top: 86px;
+  }
+
+  .site-shell.is-reader-mode .guide-sequence-card.guide-sequence-card.is-compact {
+    padding-bottom: 15px;
   }
 
   .site-shell.is-reader-mode .guide-sequence-card.guide-sequence-card .guide-sequence-card-meta {

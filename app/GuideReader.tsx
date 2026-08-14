@@ -478,12 +478,14 @@ const parseGuide = (text: string, markersEnabled: boolean): GuideBlock[] => {
       flushParagraph();
       const isDocumentTitle = blocks.length === 0;
       const provisionalHeadingLevel = isDocumentTitle ? 1 : blocks.length < 2 ? 1 : 2;
-      const headingRole = getGuideHeadingRole(
-        line,
-        provisionalHeadingLevel,
-        currentHeadingRole,
-        isDocumentTitle,
-      );
+      const headingRole = numberedHeading && !numberedSection
+        ? currentHeadingRole
+        : getGuideHeadingRole(
+            line,
+            provisionalHeadingLevel,
+            currentHeadingRole,
+            isDocumentTitle,
+          );
       if (/(?:checklist|liste complète|liste complete)/i.test(line)) {
         finalChecklistMode = true;
       } else if (
@@ -1398,6 +1400,10 @@ export default function GuideReader({
                     const subSectionCount = sequence.filter(
                       (block) => block.kind === "subheading",
                     ).length;
+                    const sequenceBodyCount = sequence.filter(
+                      (block) => block.kind !== "heading" && block.kind !== "subheading",
+                    ).length;
+                    const isCompactSequence = sequenceBodyCount <= 1;
                     const sequenceLabel = `${String(sequenceIndex + 1).padStart(2, "0")} / ${String(routeSequences.length).padStart(2, "0")}`;
                     const sequenceMeta = subSectionCount > 0
                       ? `${subSectionCount} sous-section${subSectionCount > 1 ? "s" : ""}`
@@ -1407,7 +1413,7 @@ export default function GuideReader({
 
                     return (
                       <section
-                        className={`guide-sequence-card${isCurrentSequence ? " is-current" : ""}`}
+                        className={`guide-sequence-card${isCurrentSequence ? " is-current" : ""}${isCompactSequence ? " is-compact" : ""}`}
                         aria-labelledby={anchor?.id}
                         data-sequence-index={sequenceLabel}
                         key={anchor?.id ?? `sequence-${sequenceIndex}`}

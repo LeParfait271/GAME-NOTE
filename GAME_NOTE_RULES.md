@@ -757,3 +757,13 @@ annexes, si un controle obligatoire echoue ou si le commit n est pas pousse.
 - Controle obligatoire : ouvrir et fermer les deux dossiers, lancer une
   recherche a plusieurs resultats, verifier desktop, mobile 390 px et absence
   de debordement avant build, commit, push et deploiement.
+
+### Regle active - etapes numerotees toujours visibles - 14 aout 2026
+
+- Les lignes numerotees d une route (`1.`, `2.`, etc.) heritent du parcours
+  courant ; elles ne doivent jamais basculer dans les dossiers de reference.
+- Une sequence courte peut etre resserree visuellement, mais son titre et
+  chaque etape du TXT restent rendus et accessibles.
+- Controle obligatoire sur Expedition 33 : verifier Spring Meadows, Flying
+  Waters et Stone Wave Cliffs, puis confirmer le nombre d etapes visibles avant
+  build, commit, push et deploiement.

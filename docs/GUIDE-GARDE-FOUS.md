@@ -920,6 +920,15 @@ validation ou reste seulement local.
 - La verification couvre les ouvertures et fermetures des panneaux, une
   recherche a plusieurs resultats, desktop, 390 px et l absence de debordement.
 
+## Garde-fou - etapes numerotees du parcours - 14 aout 2026
+
+- Les blocs `step` numerotes heritent de la section active et restent dans la
+  route ; ils ne peuvent pas disparaitre lors du decoupage des dossiers.
+- La classe compacte ne concerne que les sequences avec au plus un bloc de
+  contenu et ne masque jamais une etape, un coffre, un objet ou un succes.
+- Le controle visuel verifie Expedition 33 sur Spring Meadows, Flying Waters
+  et Stone Wave Cliffs, desktop et 390 px, avec le texte des etapes present.
+
 ## Garde-fou - rythme des sequences et sommaire mobile - 14 aout 2026
 
 - Le rail de chaque sequence reste identifiable pendant le défilement avec son
