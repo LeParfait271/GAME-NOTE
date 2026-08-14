@@ -656,3 +656,16 @@ fichier touche :
 Un commit est bloque si une demande est seulement notee, si une source ou un
 intitule Steam francais n est pas verifie, si une sequence melange route et
 annexes, si un controle obligatoire echoue ou si le commit n est pas pousse.
+
+### Regle active - hierarchie de lecture des soluces - 14 aout 2026
+
+- Le titre du guide n est jamais une sequence et ne doit pas etre duplique
+  dans le document de lecture.
+- La zone principale est `PARCOURS CHRONOLOGIQUE` : elle contient uniquement
+  les actions jouables et leurs objets, alertes ou succes au bon endroit.
+- Les explications generales, alertes globales, sauvegardes, compteurs,
+  inventaires et checklists sont des dossiers repliables `AVANT DE COMMENCER`
+  ou `DOSSIERS DE REFERENCE`, jamais des etapes melangees a la route.
+- Une recherche filtre temporairement les blocs dans l ordre du TXT et doit
+  laisser toutes les donnees accessibles. Controle obligatoire desktop, mobile
+  390 px et absence de debordement avant commit.

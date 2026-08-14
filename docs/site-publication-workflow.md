@@ -340,3 +340,17 @@ Le travail ne se limite pas a noter une intention :
 - La version du site augmente de `0.01` au commit. Apres une modification
   terminee : commit unique puis push. Les questions, pauses, diagnostics en
   lecture seule et blocages externes ne produisent ni commit vide ni push.
+
+## Workflow de lecture - route nette et annexes repliables - 14 aout 2026
+
+- Avant publication, verifier que la couverture porte le titre une seule fois
+  et que le corps commence par une hierarchie de lecture claire.
+- La route jouable reste ouverte et centrale. Les regles, alertes globales,
+  sauvegardes, inventaires, compteurs et checklists sont regroupes dans
+  `AVANT DE COMMENCER` ou `DOSSIERS DE REFERENCE`, fermes par defaut.
+- La recherche doit retrouver tous les blocs du TXT dans leur ordre source,
+  meme lorsqu elle traverse plusieurs dossiers ; aucune information editoriale
+  ne peut etre retiree pour simplifier l interface.
+- La verification finale ouvre une fiche reelle sur desktop et 390 px, controle
+  les deux panneaux, une recherche, le sommaire, l absence de sequence vide et
+  l absence de debordement avant le commit, le push et le deploiement.

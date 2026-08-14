@@ -63,6 +63,7 @@ type GuideBlock = {
   text: string;
   headingLevel?: number;
   headingRole?: GuideHeadingRole;
+  sectionRole?: GuideSectionRole;
   checkIndex?: number;
   checkScope?: "steam" | "route";
   markers?: GuideMarkerKind[];
@@ -318,12 +319,18 @@ const parseGuide = (text: string, markersEnabled: boolean): GuideBlock[] => {
           ...inferGuideMarkers(value, kind, sectionMarker),
         ])
       : [];
+    const sectionRole = blockHeadingRole === "title"
+      ? undefined
+      : blockHeadingRole === "route" || blockHeadingRole === "reference"
+        ? blockHeadingRole
+        : currentHeadingRole;
     blocks.push({
       id: makeBlockId(value, blocks.length),
       kind,
       text: value,
       ...(blockHeadingLevel === undefined ? {} : { headingLevel: blockHeadingLevel }),
       ...(blockHeadingRole === undefined ? {} : { headingRole: blockHeadingRole }),
+      ...(sectionRole === undefined ? {} : { sectionRole }),
       ...(blockCheckIndex === undefined ? {} : { checkIndex: blockCheckIndex }),
       ...(blockCheckScope === undefined ? {} : { checkScope: blockCheckScope }),
       ...(markers.length ? { markers } : {}),
@@ -669,6 +676,25 @@ const buildGuideOutlineGroups = (blocks: GuideBlock[]) => {
   return groups;
 };
 
+const splitGuideLanes = (blocks: GuideBlock[]) => {
+  const isRouteBlock = (block: GuideBlock) =>
+    block.sectionRole === "route" || block.headingRole === "route";
+  const firstRouteIndex = blocks.findIndex(isRouteBlock);
+  if (firstRouteIndex < 0) {
+    return {
+      prelude: blocks,
+      route: [] as GuideBlock[],
+      reference: [] as GuideBlock[],
+    };
+  }
+
+  return {
+    prelude: blocks.slice(0, firstRouteIndex),
+    route: blocks.filter(isRouteBlock),
+    reference: blocks.slice(firstRouteIndex).filter((block) => !isRouteBlock(block)),
+  };
+};
+
 export default function GuideReader({
   selected,
   previousGuide,
@@ -810,12 +836,13 @@ export default function GuideReader({
 
     return blocks.filter((_, index) => contextIndexes.has(index));
   }, [blocks, query]);
-  const visibleMatchIndexes = useMemo(
-    () => visibleBlocks
-      .map((block, index) => (query && normalizeGuideText(getGuideSearchText(block)).includes(query) ? index : -1))
-      .filter((index) => index >= 0),
-    [query, visibleBlocks],
-  );
+  const guideLanes = splitGuideLanes(blocks);
+  const displayBlocks = query
+    ? visibleBlocks
+    : [...guideLanes.prelude, ...guideLanes.route, ...guideLanes.reference];
+  const visibleMatchIndexes = displayBlocks
+    .map((block, index) => (query && normalizeGuideText(getGuideSearchText(block)).includes(query) ? index : -1))
+    .filter((index) => index >= 0);
   const outlineGroups = useMemo(() => buildGuideOutlineGroups(blocks), [blocks]);
   const routeOutlineGroups = useMemo(
     () => outlineGroups.filter((group) => group.role === "route"),
@@ -1170,14 +1197,19 @@ export default function GuideReader({
                 <small>objectifs</small>
               </div>
             </header>
-            {query && visibleBlocks.length === 0 ? (
+            {query && displayBlocks.length === 0 ? (
               <div className="reader-empty-search">
                 Aucun bloc ne contient « {search} ». Essaie un autre repère.
               </div>
             ) : null}
             {(() => {
+              const displayIndexById = new Map(displayBlocks.map((block, index) => [block.id, index]));
               let visibleHeadingNumber = 0;
-              return visibleBlocks.map((block, visibleIndex) => {
+              const renderBlock = (block: GuideBlock) => {
+                const visibleIndex = displayIndexById.get(block.id) ?? 0;
+                if (block.headingRole === "title") {
+                  return null;
+                }
                 const highlighted = renderHighlightedText(block.text);
                 if (block.kind === "heading") {
                   const headingRole = block.headingRole ?? "reference";
@@ -1275,7 +1307,56 @@ export default function GuideReader({
                   );
                 }
                 return <p className="guide-paragraph" key={block.id} ref={(element) => { resultRefs.current[visibleIndex] = element; }}><GuideMarkerRow markers={block.markers} />{highlighted}</p>;
-              });
+              };
+              const renderBlocks = (items: GuideBlock[]) => items.map(renderBlock);
+
+              if (query) {
+                return <div className="guide-search-results">{renderBlocks(displayBlocks)}</div>;
+              }
+
+              return (
+                <>
+                  {guideLanes.prelude.length > 0 ? (
+                    <details className="guide-lane-details guide-prelude-panel">
+                      <summary>
+                        <span className="guide-lane-summary-copy">
+                          <span className="guide-lane-kicker">AVANT DE COMMENCER</span>
+                          <strong>Règles, alertes et sauvegardes</strong>
+                          <small>Les repères indispensables avant la première séquence</small>
+                        </span>
+                        <span className="guide-lane-summary-action">Ouvrir <b aria-hidden="true">+</b></span>
+                      </summary>
+                      <div className="guide-lane-content">{renderBlocks(guideLanes.prelude)}</div>
+                    </details>
+                  ) : null}
+                  {guideLanes.route.length > 0 ? (
+                    <section className="guide-lane guide-route-lane" aria-labelledby="guide-route-lane-title">
+                      <header className="guide-lane-header">
+                        <div>
+                          <p className="guide-lane-kicker">PARCOURS CHRONOLOGIQUE</p>
+                          <h3 id="guide-route-lane-title">La route, étape par étape</h3>
+                          <p>Avance dans l&apos;ordre. Les alertes et les collections restent dans les dossiers séparés.</p>
+                        </div>
+                        <strong className="guide-lane-count">{routeOutlineGroups.length}<span>séquences</span></strong>
+                      </header>
+                      <div className="guide-lane-content">{renderBlocks(guideLanes.route)}</div>
+                    </section>
+                  ) : null}
+                  {guideLanes.reference.length > 0 ? (
+                    <details className="guide-lane-details guide-reference-panel">
+                      <summary>
+                        <span className="guide-lane-summary-copy">
+                          <span className="guide-lane-kicker">DOSSIERS DE RÉFÉRENCE</span>
+                          <strong>Checklists, inventaires et contrôles</strong>
+                          <small>À consulter quand tu veux sécuriser ou nettoyer ta partie</small>
+                        </span>
+                        <span className="guide-lane-summary-action">Ouvrir <b aria-hidden="true">+</b></span>
+                      </summary>
+                      <div className="guide-lane-content">{renderBlocks(guideLanes.reference)}</div>
+                    </details>
+                  ) : null}
+                </>
+              );
             })()}
             <footer className="reader-document-footer">
               <span>FIN DE FICHE · {selected.title}</span>

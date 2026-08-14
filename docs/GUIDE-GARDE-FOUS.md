@@ -837,3 +837,16 @@ liee au type de fichier :
 Le garde-fou refuse un commit qui transforme une demande en simple note, omet un
 element, invente un nom de succes, melange route et annexes, masque un echec de
 validation ou reste seulement local.
+
+## Garde-fou - lecture claire des soluces - 14 aout 2026
+
+- Le titre de la fiche ne compte pas comme sequence et ne peut pas etre rendu
+  une seconde fois dans le corps du guide.
+- Le lecteur doit exposer une route visible et chronologique, puis isoler les
+  informations preparatoires et les annexes dans deux panneaux repliables.
+- Les dossiers ne doivent jamais perdre le texte du TXT : ils changent la
+  presentation, pas le contenu. La recherche conserve l ordre d origine et
+  permet de retrouver les blocs filtres.
+- Le garde-fou visuel exige une fiche reelle controlee sur desktop et 390 px,
+  avec route lisible, panneaux repliables, recherche fonctionnelle et aucun
+  debordement horizontal.

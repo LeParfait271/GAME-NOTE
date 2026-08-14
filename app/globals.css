@@ -23,6 +23,236 @@
   --expo-out: cubic-bezier(0.16, 1, 0.3, 1);
 }
 
+/* Refonte de lecture : la route reste visible, les annexes deviennent des
+   dossiers repliables au lieu de se mélanger au parcours. */
+.site-shell.is-reader-mode .reader-document {
+  background-image: none;
+}
+
+.site-shell.is-reader-mode .guide-lane,
+.site-shell.is-reader-mode .guide-lane-details {
+  width: 100%;
+  margin-top: 22px;
+  overflow: hidden;
+  border: 1px solid color-mix(in srgb, var(--route-ink) 18%, var(--line));
+  border-radius: 18px;
+  background: color-mix(in srgb, var(--card) 96%, var(--route-ink));
+  box-shadow: 0 14px 32px color-mix(in srgb, var(--route-ink) 6%, transparent);
+}
+
+.site-shell.is-reader-mode .guide-lane-header,
+.site-shell.is-reader-mode .guide-lane-details > summary {
+  display: flex;
+  min-width: 0;
+  align-items: center;
+  justify-content: space-between;
+  gap: 22px;
+  padding: 23px 28px;
+  border-bottom: 1px solid color-mix(in srgb, var(--route-ink) 15%, var(--line));
+  background: color-mix(in srgb, var(--route-ink) 5%, var(--card));
+}
+
+.site-shell.is-reader-mode .guide-lane-header > div,
+.site-shell.is-reader-mode .guide-lane-summary-copy {
+  display: grid;
+  min-width: 0;
+  gap: 5px;
+}
+
+.site-shell.is-reader-mode .guide-lane-kicker {
+  color: var(--coral);
+  font-size: 0.55rem;
+  font-weight: 900;
+  letter-spacing: 0.15em;
+  line-height: 1.2;
+  text-transform: uppercase;
+}
+
+.site-shell.is-reader-mode .guide-lane-header h3,
+.site-shell.is-reader-mode .guide-lane-summary-copy strong {
+  margin: 0;
+  color: var(--navy);
+  font-size: clamp(1.15rem, 2vw, 1.55rem);
+  letter-spacing: -0.045em;
+  line-height: 1.08;
+}
+
+.site-shell.is-reader-mode .guide-lane-header p:last-child,
+.site-shell.is-reader-mode .guide-lane-summary-copy small {
+  margin: 1px 0 0;
+  color: var(--muted);
+  font-size: 0.72rem;
+  line-height: 1.5;
+}
+
+.site-shell.is-reader-mode .guide-lane-count {
+  display: grid;
+  min-width: 73px;
+  flex: 0 0 auto;
+  justify-items: center;
+  padding: 9px 11px;
+  border: 1px solid color-mix(in srgb, var(--coral) 42%, var(--line));
+  border-radius: 10px 10px 10px 3px;
+  color: var(--coral);
+  font-size: 1.2rem;
+  line-height: 1;
+}
+
+.site-shell.is-reader-mode .guide-lane-count span {
+  margin-top: 5px;
+  color: var(--muted);
+  font-size: 0.49rem;
+  font-weight: 900;
+  letter-spacing: 0.09em;
+  text-transform: uppercase;
+}
+
+.site-shell.is-reader-mode .guide-lane-content {
+  min-width: 0;
+  padding: 0 28px 28px;
+}
+
+.site-shell.is-reader-mode .guide-lane-details > summary {
+  border-bottom: 0;
+  cursor: pointer;
+  list-style: none;
+}
+
+.site-shell.is-reader-mode .guide-lane-details > summary::-webkit-details-marker {
+  display: none;
+}
+
+.site-shell.is-reader-mode .guide-lane-details > summary:hover,
+.site-shell.is-reader-mode .guide-lane-details > summary:focus-visible {
+  background: color-mix(in srgb, var(--coral) 7%, var(--card));
+}
+
+.site-shell.is-reader-mode .guide-lane-summary-action {
+  display: inline-flex;
+  flex: 0 0 auto;
+  align-items: center;
+  gap: 8px;
+  color: var(--coral);
+  font-size: 0.6rem;
+  font-weight: 900;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+}
+
+.site-shell.is-reader-mode .guide-lane-summary-action b {
+  display: grid;
+  width: 25px;
+  height: 25px;
+  place-items: center;
+  border: 1px solid color-mix(in srgb, var(--coral) 45%, var(--line));
+  border-radius: 50%;
+  font-size: 1rem;
+  font-weight: 500;
+  line-height: 1;
+}
+
+.site-shell.is-reader-mode .guide-lane-details[open] > summary {
+  border-bottom: 1px solid color-mix(in srgb, var(--route-ink) 15%, var(--line));
+}
+
+.site-shell.is-reader-mode .guide-lane-details[open] .guide-lane-summary-action b {
+  font-size: 0;
+}
+
+.site-shell.is-reader-mode .guide-lane-details[open] .guide-lane-summary-action b::after {
+  content: "−";
+  font-size: 1rem;
+}
+
+.site-shell.is-reader-mode .guide-route-lane {
+  border-color: color-mix(in srgb, var(--coral) 26%, var(--line));
+  background: color-mix(in srgb, var(--card) 98%, var(--coral));
+}
+
+.site-shell.is-reader-mode .guide-route-lane .guide-lane-header {
+  border-top: 2px solid var(--coral);
+  background: linear-gradient(110deg, color-mix(in srgb, var(--coral) 8%, var(--card)), var(--card));
+}
+
+.site-shell.is-reader-mode .guide-route-lane .guide-heading-row {
+  margin-top: 31px;
+}
+
+.site-shell.is-reader-mode .guide-route-lane .guide-heading-row:first-child {
+  margin-top: 20px;
+}
+
+.site-shell.is-reader-mode .guide-route-lane .guide-heading-row-route .guide-heading-index {
+  background: color-mix(in srgb, var(--coral) 11%, var(--card));
+}
+
+.site-shell.is-reader-mode .guide-prelude-panel,
+.site-shell.is-reader-mode .guide-reference-panel {
+  background: color-mix(in srgb, var(--route-ink) 3%, var(--card));
+}
+
+.site-shell.is-reader-mode .guide-prelude-panel .guide-lane-content,
+.site-shell.is-reader-mode .guide-reference-panel .guide-lane-content {
+  padding-top: 3px;
+}
+
+.site-shell.is-reader-mode .guide-prelude-panel .guide-heading-row,
+.site-shell.is-reader-mode .guide-reference-panel .guide-heading-row {
+  margin-top: 28px;
+}
+
+.site-shell.is-reader-mode .guide-prelude-panel .guide-heading-row:first-child,
+.site-shell.is-reader-mode .guide-reference-panel .guide-heading-row:first-child {
+  margin-top: 18px;
+}
+
+.site-shell.is-reader-mode .guide-prelude-panel .guide-heading,
+.site-shell.is-reader-mode .guide-reference-panel .guide-heading {
+  font-size: clamp(1.3rem, 2vw, 1.8rem);
+}
+
+.site-shell.is-reader-mode .guide-search-results {
+  min-width: 0;
+}
+
+@media screen and (max-width: 760px) {
+  .site-shell.is-reader-mode .guide-lane-header,
+  .site-shell.is-reader-mode .guide-lane-details > summary {
+    align-items: flex-start;
+    gap: 14px;
+    padding: 18px 17px;
+  }
+
+  .site-shell.is-reader-mode .guide-lane-header h3,
+  .site-shell.is-reader-mode .guide-lane-summary-copy strong {
+    font-size: 1.18rem;
+  }
+
+  .site-shell.is-reader-mode .guide-lane-header p:last-child,
+  .site-shell.is-reader-mode .guide-lane-summary-copy small {
+    font-size: 0.68rem;
+  }
+
+  .site-shell.is-reader-mode .guide-lane-count {
+    min-width: 62px;
+    padding-inline: 8px;
+    font-size: 1rem;
+  }
+
+  .site-shell.is-reader-mode .guide-lane-content {
+    padding: 0 17px 21px;
+  }
+
+  .site-shell.is-reader-mode .guide-lane-summary-action {
+    gap: 5px;
+    font-size: 0.52rem;
+  }
+
+  .site-shell.is-reader-mode .guide-route-lane .guide-heading-row {
+    margin-top: 28px;
+  }
+}
+
 * {
   box-sizing: border-box;
 }

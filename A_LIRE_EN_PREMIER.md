@@ -440,3 +440,15 @@ Chaque commit de modification applique cette methode complete :
 Un commit est refuse si une demande est seulement notee, si une information
 utile disparait, si une preuve ou un nom Steam francais manque, si route et
 annexes sont melangees, si un controle echoue ou si le commit reste local.
+
+### Regle active - lecteur de soluce lisible - 14 aout 2026
+
+- Le titre de la fiche est affiche une seule fois dans la couverture ; il ne
+  doit pas reapparaitre comme une fausse sequence dans le corps du guide.
+- Le lecteur affiche la route jouable dans `PARCOURS CHRONOLOGIQUE`. Les
+  regles, alertes, sauvegardes, compteurs, inventaires et checklists restent
+  dans `AVANT DE COMMENCER` ou `DOSSIERS DE REFERENCE`, repliables par defaut.
+- La recherche peut afficher tous les blocs correspondants dans leur ordre
+  source, sans supprimer ni reclasser une information du TXT.
+- Toute refonte de lecture doit etre verifiee sur une fiche reelle en desktop,
+  a 390 px, sans debordement, avec les panneaux repliables et la recherche.

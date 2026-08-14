@@ -233,6 +233,25 @@ for (const file of commitProtocolDocuments) {
   }
 }
 
+const readerLayoutMarkers = [
+  "guideLanes",
+  "guide-lane-details",
+  "guide-prelude-panel",
+  "guide-route-lane",
+  "guide-reference-panel",
+  "guide-search-results",
+];
+for (const marker of readerLayoutMarkers) {
+  if (!reader.includes(marker)) {
+    fail(`app/GuideReader.tsx: hierarchie de lecture absente (${marker}).`);
+  }
+}
+for (const marker of [".guide-lane-details", ".guide-route-lane", ".guide-reference-panel"]) {
+  if (!stylesheet.includes(marker)) {
+    fail(`app/globals.css: style de hierarchie absent (${marker}).`);
+  }
+}
+
 const siteVersionMatch = siteVersionSource.match(
   /export const SITE_VERSION = "(\d+)\.(\d{2})";/,
 );
