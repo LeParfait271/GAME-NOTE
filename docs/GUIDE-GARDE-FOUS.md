@@ -1015,6 +1015,15 @@ validation ou reste seulement local.
   le debordement du document et les erreurs console avant build, preflight,
   audit qualite, lint, smoke, commit, push et deploiement.
 
+## Garde-fou - gouttiere des fleches des puces - 14 aout 2026
+
+- Sous 960 px, `.guide-bullet-arrow` doit conserver une gouttiere de 25 px
+  avant `.guide-bullet-copy`; le repere ne peut pas recouvrir un marqueur ou le
+  premier caractere de la ligne.
+- Le controle mesure les puces avec et sans `.guide-marker-row` a largeur
+  extreme, 320, 390 et 768 px, puis verifie l absence de debordement et les
+  validations completes avant commit, push et deploiement.
+
 ## Garde-fou - filtres de bibliotheque lisibles sur mobile - 14 aout 2026
 
 - Sous 760 px, `.library-filters` revient a la ligne et garde chaque bouton

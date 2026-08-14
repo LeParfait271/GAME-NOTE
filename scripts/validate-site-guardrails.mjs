@@ -275,6 +275,10 @@ for (const marker of [
   "grid-template-columns: minmax(0, 1fr) minmax(0, 1fr)",
   "padding-inline: 10px",
   "text-wrap: pretty",
+  "Garde-fou fleche mobile et tablette : la gouttiere reste distincte du contenu.",
+  "Garde-fou fleche : la gouttiere reste distincte du contenu a toutes les largeurs.",
+  "@media screen and (max-width: 960px)",
+  "padding-left: 25px;",
 ]) {
   if (!stylesheet.includes(marker)) {
     fail(`app/globals.css: style de hierarchie absent (${marker}).`);

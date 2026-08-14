@@ -87,6 +87,10 @@ test("le shell statique conserve les repères accessibles", () => {
   assert.match(readerStylesheet, /grid-template-columns: minmax\(0, 1fr\) minmax\(0, 1fr\)/);
   assert.match(readerStylesheet, /padding-inline: 10px/);
   assert.match(readerStylesheet, /text-wrap: pretty/);
+  assert.match(readerStylesheet, /Garde-fou fleche mobile et tablette : la gouttiere reste distincte du contenu\./);
+  assert.match(readerStylesheet, /Garde-fou fleche : la gouttiere reste distincte du contenu a toutes les largeurs\./);
+  assert.match(readerStylesheet, /@media screen and \(max-width: 960px\)/);
+  assert.match(readerStylesheet, /padding-left: 25px;/);
   assert.match(readerGlobalStylesheet, /Garde-fou mobile : aucun bloc de route ne doit depasser la largeur utile\./);
   assert.match(readerGlobalStylesheet, /\.site-shell\.is-reader-mode \.guide-lane-content/);
   assert.match(readerGlobalStylesheet, /\.site-shell\.is-reader-mode \.guide-step-copy/);

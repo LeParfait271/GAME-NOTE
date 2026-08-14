@@ -539,3 +539,10 @@ annexes sont melangees, si un controle echoue ou si le commit reste local.
 - Controle livre sur Expedition 33, OT1 et OT2 a 320, 390, 768 et 1280 px,
   plus une largeur extreme reproduisant la capture ; mesurer les descendants,
   puis build, preflight strict, audit qualite, lint et smoke tests.
+
+### Correctif visuel - gouttiere des fleches mobiles - 14 aout 2026
+
+- Les fleches `→` des puces restent dans une gouttiere distincte du marqueur et
+  du texte, y compris dans une largeur tablette inferieure ou egale a 960 px.
+- Le controle doit mesurer l espace fleche-contenu et verifier les lignes avec
+  et sans marqueur dans Expedition 33, OT1 et OT2, avant toute publication.

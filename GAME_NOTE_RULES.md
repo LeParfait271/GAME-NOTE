@@ -839,6 +839,14 @@ annexes, si un controle obligatoire echoue ou si le commit n est pas pousse.
   ainsi que sur la largeur extreme de la capture ; mesurer les largeurs internes,
   puis build, preflight, audit qualite, lint, smoke, commit, push et deploiement.
 
+### Regle active - gouttiere des fleches dans les puces - 14 aout 2026
+
+- Une fleche `→` ne doit jamais chevaucher un marqueur `▣`, `●` ou le debut du
+  texte ; la gouttiere reste reservee au repere sur mobile et tablette.
+- Controle obligatoire sur les lignes Expedition 33 avec et sans marqueur, a
+  largeur extreme, 320, 390 et 768 px, puis build, preflight, audit qualite,
+  lint, smoke, commit, push et deploiement.
+
 ### Regle active - filtres de bibliotheque lisibles sur mobile - 14 aout 2026
 
 - Sous 760 px, les filtres de bibliotheque doivent revenir a la ligne pour que
