@@ -1,0 +1,131 @@
+/* Cartes de sequence : la route reste lineaire, mais chaque etape possede un
+   conteneur visuel stable pour eviter l effet de long mur de texte. */
+.site-shell.is-reader-mode .guide-route-sequence-list {
+  display: grid;
+  gap: 18px;
+}
+
+.site-shell.is-reader-mode .guide-sequence-card {
+  position: relative;
+  min-width: 0;
+  overflow: hidden;
+  padding: 0 22px 28px;
+  border: 1px solid color-mix(in srgb, var(--route-ink) 22%, var(--line));
+  border-radius: 18px;
+  background:
+    linear-gradient(115deg, color-mix(in srgb, var(--route-ink) 5%, var(--card)), var(--card) 42%),
+    var(--card);
+  box-shadow: 0 12px 28px color-mix(in srgb, var(--route-ink) 7%, transparent);
+}
+
+.site-shell.is-reader-mode .guide-sequence-card::after {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  width: 2px;
+  content: "";
+  background: linear-gradient(var(--route-ink), transparent 78%);
+  opacity: 0.75;
+}
+
+.site-shell.is-reader-mode .guide-sequence-card.is-current {
+  border-color: color-mix(in srgb, var(--coral) 48%, var(--line));
+  box-shadow:
+    0 0 0 1px color-mix(in srgb, var(--coral) 10%, transparent),
+    0 16px 34px color-mix(in srgb, var(--coral) 9%, transparent);
+}
+
+.site-shell.is-reader-mode .guide-sequence-card.is-current::after {
+  background: linear-gradient(var(--coral), transparent 80%);
+  opacity: 1;
+}
+
+.site-shell.is-reader-mode .guide-sequence-card-meta {
+  display: flex;
+  min-width: 0;
+  align-items: center;
+  justify-content: space-between;
+  gap: 15px;
+  margin: 0 -22px;
+  padding: 10px 22px 9px;
+  border-bottom: 1px solid color-mix(in srgb, var(--route-ink) 17%, var(--line));
+  background: color-mix(in srgb, var(--route-ink) 5%, var(--card));
+}
+
+.site-shell.is-reader-mode .guide-sequence-card-meta span {
+  min-width: 0;
+  overflow: hidden;
+  color: var(--muted);
+  font-size: 0.52rem;
+  font-weight: 900;
+  letter-spacing: 0.1em;
+  line-height: 1.3;
+  text-overflow: ellipsis;
+  text-transform: uppercase;
+  white-space: nowrap;
+}
+
+.site-shell.is-reader-mode .guide-sequence-card-meta span:first-child {
+  color: var(--coral);
+}
+
+.site-shell.is-reader-mode .guide-sequence-card .guide-heading-row-route {
+  margin-top: 22px;
+  padding-top: 0;
+  border-top: 0;
+}
+
+.site-shell.is-reader-mode .guide-sequence-card .guide-heading-row-route::before {
+  top: 0;
+  bottom: 9px;
+  left: -23px;
+}
+
+.site-shell.is-reader-mode .guide-sequence-card .guide-heading {
+  max-width: 700px;
+}
+
+.site-shell.is-reader-mode .guide-sequence-card .guide-paragraph,
+.site-shell.is-reader-mode .guide-sequence-card .guide-bullet,
+.site-shell.is-reader-mode .guide-sequence-card .guide-check,
+.site-shell.is-reader-mode .guide-sequence-card .guide-step {
+  max-width: 780px;
+}
+
+.site-shell.is-reader-mode .guide-sequence-card .guide-table-wrap {
+  max-width: 100%;
+}
+
+.site-shell.is-reader-mode .guide-sequence-card > :last-child {
+  margin-bottom: 0;
+}
+
+@media screen and (max-width: 760px) {
+  .site-shell.is-reader-mode .guide-route-sequence-list {
+    gap: 13px;
+  }
+
+  .site-shell.is-reader-mode .guide-sequence-card {
+    padding: 0 15px 22px;
+    border-radius: 14px;
+  }
+
+  .site-shell.is-reader-mode .guide-sequence-card-meta {
+    gap: 10px;
+    margin-inline: -15px;
+    padding: 9px 15px 8px;
+  }
+
+  .site-shell.is-reader-mode .guide-sequence-card-meta span {
+    font-size: 0.48rem;
+  }
+
+  .site-shell.is-reader-mode .guide-sequence-card .guide-heading-row-route {
+    margin-top: 20px;
+  }
+
+  .site-shell.is-reader-mode .guide-sequence-card .guide-heading-row-route::before {
+    left: -16px;
+  }
+}

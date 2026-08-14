@@ -1,6 +1,7 @@
 "use client";
 
 import { useEffect, useMemo, useRef, useState, type RefObject } from "react";
+import "./guide-reader-layout.css";
 
 type ReaderGuide = {
   id: string;
@@ -695,6 +696,29 @@ const splitGuideLanes = (blocks: GuideBlock[]) => {
   };
 };
 
+const splitRouteSequences = (blocks: GuideBlock[]) => {
+  const sequences: GuideBlock[][] = [];
+  let current: GuideBlock[] = [];
+
+  for (const block of blocks) {
+    if (
+      current.length > 0 &&
+      block.kind === "heading" &&
+      block.headingRole === "route"
+    ) {
+      sequences.push(current);
+      current = [];
+    }
+    current.push(block);
+  }
+
+  if (current.length > 0) {
+    sequences.push(current);
+  }
+
+  return sequences;
+};
+
 export default function GuideReader({
   selected,
   previousGuide,
@@ -1363,6 +1387,41 @@ export default function GuideReader({
                 }
                 return <p className="guide-paragraph" key={block.id} ref={(element) => { resultRefs.current[visibleIndex] = element; }}><GuideMarkerRow markers={block.markers} />{highlighted}</p>;
               };
+              const renderFlatBlocks = (items: GuideBlock[]) => items.map(renderBlock);
+              const routeSequences = splitRouteSequences(guideLanes.route);
+              const renderRouteSequences = () => (
+                <div className="guide-route-sequence-list">
+                  {routeSequences.map((sequence, sequenceIndex) => {
+                    const anchor = sequence.find(
+                      (block) => block.kind === "heading" && block.headingRole === "route",
+                    );
+                    const subSectionCount = sequence.filter(
+                      (block) => block.kind === "subheading",
+                    ).length;
+                    const sequenceLabel = `${String(sequenceIndex + 1).padStart(2, "0")} / ${String(routeSequences.length).padStart(2, "0")}`;
+                    const sequenceMeta = subSectionCount > 0
+                      ? `${subSectionCount} sous-section${subSectionCount > 1 ? "s" : ""}`
+                      : "étape directe";
+                    const isCurrentSequence = anchor?.id === activeRouteId
+                      || (!activeRouteId && sequenceIndex === 0);
+
+                    return (
+                      <section
+                        className={`guide-sequence-card${isCurrentSequence ? " is-current" : ""}`}
+                        aria-labelledby={anchor?.id}
+                        data-sequence-index={sequenceLabel}
+                        key={anchor?.id ?? `sequence-${sequenceIndex}`}
+                      >
+                        <div className="guide-sequence-card-meta" aria-hidden="true">
+                          <span>ROUTE {sequenceLabel}</span>
+                          <span>{sequenceMeta}</span>
+                        </div>
+                        {renderFlatBlocks(sequence)}
+                      </section>
+                    );
+                  })}
+                </div>
+              );
               const renderBlocks = (items: GuideBlock[]) => items.map(renderBlock);
 
               if (query) {
@@ -1394,7 +1453,7 @@ export default function GuideReader({
                         </div>
                         <strong className="guide-lane-count">{routeOutlineGroups.length}<span>séquences</span></strong>
                       </header>
-                      <div className="guide-lane-content">{renderBlocks(guideLanes.route)}</div>
+                      <div className="guide-lane-content">{renderRouteSequences()}</div>
                     </section>
                   ) : null}
                   {guideLanes.reference.length > 0 ? (

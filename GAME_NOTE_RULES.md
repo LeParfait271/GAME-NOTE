@@ -682,9 +682,30 @@ annexes, si un controle obligatoire echoue ou si le commit n est pas pousse.
 
 ### Regle active - orientation de lecture
 
+- La route est presentee sous forme de cartes visuelles correspondant aux
+  grands titres `route`, tout en conservant l ordre et l integralite du TXT.
+- Une carte active peut etre accentuee par la position de lecture, mais cette
+  couche d interface ne doit jamais inventer une etape ni transformer une
+  annexe en sequence.
+- Toute modification du rendu verifie une fiche longue, un tableau, la
+  recherche, le desktop et le mobile 390 px avant le commit et le push.
+
 - Le lecteur doit toujours donner un contexte de position : sequence en cours,
   position dans le parcours et sous-section active quand elle est identifiable.
 - Le sommaire est interactif et doit refleter la position reelle, avec une
   distinction visuelle entre sequence active et sous-section active.
 - Les metadonnees de mise en page peuvent compter les sous-sections, mais ne
   remplacent jamais les instructions, objets, coffres ou conditions du TXT.
+
+### Regle active - direction visuelle de la homepage - 14 aout 2026
+
+- La homepage peut reprendre une reference visuelle externe uniquement en
+  conservant l identite Game Note, les trois guides visibles et les controles
+  de navigation reels.
+- Le lot actuel utilise une navigation en capsule, un hero sombre, un accent
+  vert fluorescent, une surface de bibliotheque claire, une grille discrete et
+  des cartes a decoupe editoriale ; ces effets ne remplacent jamais le titre,
+  l index, la recherche ou le lien d ouverture d une fiche.
+- Toute modification de ce type doit etre verifiee sur desktop et 390 px,
+  avec controle de largeur de page, clavier, mouvement reduit, build,
+  preflight, audit qualite, lint et smoke tests avant commit puis push.

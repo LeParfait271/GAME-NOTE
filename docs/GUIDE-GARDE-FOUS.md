@@ -864,6 +864,14 @@ validation ou reste seulement local.
 
 ## Garde-fou - orientation active du lecteur - 14 aout 2026
 
+- La route jouable doit etre decoupee en cartes de sequence distinctes, sans
+  creer de sequence artificielle ni supprimer un bloc du TXT.
+- La carte active doit suivre `activeRouteId` et rester secondaire par rapport
+  au titre, au sommaire et au texte reel de la fiche.
+- Les cartes, les tableaux, les sous-sections et les marqueurs doivent rester
+  lisibles sur desktop et a 390 px, sans debordement horizontal ni mur de texte
+  impossible a parcourir.
+
 - La barre de lecture doit exposer la sequence en cours ou a suivre et sa
   position ; le sommaire doit porter `aria-current` sur les reperes actifs.
 - La sous-section active est surlignee quand elle est visible dans la route.
@@ -871,3 +879,14 @@ validation ou reste seulement local.
   de contenu a la place du TXT.
 - Le garde-fou controle les marqueurs React et CSS de cette orientation, puis
   la verification locale doit observer un changement de sequence au scroll.
+
+## Garde-fou - homepage inspiree d une direction terminal - 14 aout 2026
+
+- La reference de style est traduite en motifs reutilisables : capsule fixe,
+  hero sombre, accent vert fluorescent, surface claire, grille technique et
+  cartes editoriales ; aucune donnee de guide n est remplacee par un decor.
+- Le controle local couvre le premier ecran, l acces a l index, la recherche,
+  les filtres, les cartes et le pied de page sur desktop et 390 px. Le lecteur
+  conserve sa presentation et doit rester controle sur une fiche reelle.
+- Le lot est livre seulement apres build, preflight, audit qualite, lint,
+  smoke tests et verification de l absence de debordement horizontal.

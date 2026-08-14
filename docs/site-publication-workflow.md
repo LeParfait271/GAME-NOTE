@@ -367,6 +367,14 @@ Le travail ne se limite pas a noter une intention :
 
 ## Workflow de lecture - orientation continue - 14 aout 2026
 
+- Chaque sequence de la route est rendue dans une carte visuelle distincte ;
+  les blocs du TXT restent dans leur ordre et leur contenu n est pas reecrit.
+- La carte correspondant a la position reelle du lecteur recoit un accent
+  visuel ; cette indication aide a se reperer sans remplacer le sommaire.
+- La verification finale controle au moins une sequence courte, une sequence
+  avec sous-sections, un tableau, la recherche et le rendu 390 px avant build,
+  commit, push et deploiement.
+
 - Sur une fiche longue, verifier que la barre fixe affiche la sequence en cours
   ou a suivre et sa position dans le parcours.
 - Faire defiler au moins deux sequences et controler que le sommaire change de

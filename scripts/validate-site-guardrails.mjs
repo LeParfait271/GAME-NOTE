@@ -141,6 +141,7 @@ const requiredSourceFiles = [
   "app/GuideReader.tsx",
   "app/layout.tsx",
   "app/globals.css",
+  "app/guide-reader-layout.css",
   "app/pwa-register.tsx",
   "next.config.ts",
   "package.json",
@@ -176,7 +177,7 @@ const siteVersionSource = await readText("app/site-version.ts");
 const reader = await readText("app/GuideReader.tsx");
 const localPreview = await readText("APERCU_LOCAL.cmd");
 const layout = await readText("app/layout.tsx");
-const stylesheet = await readText("app/globals.css");
+const stylesheet = `${await readText("app/globals.css")}\n${await readText("app/guide-reader-layout.css")}`;
 const serviceWorkerSource = await readText("public/service-worker.js");
 const octopathGuide = await readText("public/guides/octopath-traveler-1.txt");
 const octopathZeroDraftPath = "public/guides/octopath-traveler-0.txt";
@@ -238,6 +239,10 @@ const readerLayoutMarkers = [
   "guide-lane-details",
   "guide-prelude-panel",
   "guide-route-lane",
+  "splitRouteSequences",
+  "guide-route-sequence-list",
+  "guide-sequence-card",
+  "guide-sequence-card-meta",
   "guide-reference-panel",
   "guide-search-results",
 ];
@@ -246,7 +251,14 @@ for (const marker of readerLayoutMarkers) {
     fail(`app/GuideReader.tsx: hierarchie de lecture absente (${marker}).`);
   }
 }
-for (const marker of [".guide-lane-details", ".guide-route-lane", ".guide-reference-panel"]) {
+for (const marker of [
+  ".guide-lane-details",
+  ".guide-route-lane",
+  ".guide-route-sequence-list",
+  ".guide-sequence-card.is-current",
+  ".guide-sequence-card-meta",
+  ".guide-reference-panel",
+]) {
   if (!stylesheet.includes(marker)) {
     fail(`app/globals.css: style de hierarchie absent (${marker}).`);
   }

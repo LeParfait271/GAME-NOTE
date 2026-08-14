@@ -29,6 +29,7 @@ const stripHtml = (value) =>
 const index = await read("dist/client/index.html");
 const pageSource = await read("app/page.tsx");
 const readerSource = await read("app/GuideReader.tsx");
+const readerStylesheet = await read("app/guide-reader-layout.css");
 const packageJson = JSON.parse(await read("package.json"));
 const localPreview = await read("APERCU_LOCAL.cmd");
 const serviceWorker = await read("dist/client/service-worker.js");
@@ -61,6 +62,12 @@ test("le shell statique conserve les repères accessibles", () => {
   assert.match(readerSource, /const parseGuideTableRow =/);
   assert.match(readerSource, /className="guide-table-wrap"/);
   assert.match(readerSource, /data-label=\{header\}/);
+  assert.match(readerSource, /const splitRouteSequences =/);
+  assert.match(readerSource, /className="guide-route-sequence-list"/);
+  assert.match(readerSource, /className=\{`guide-sequence-card/);
+  assert.match(readerSource, /className="guide-sequence-card-meta"/);
+  assert.match(readerSource, /import "\.\/guide-reader-layout\.css"/);
+  assert.match(readerStylesheet, /\.guide-sequence-card\.is-current/);
   assert.match(readerSource, /type GuideHeadingRole =/);
   assert.match(readerSource, /const getGuideHeadingRole =/);
   assert.match(readerSource, /const routeOutlineGroups = useMemo/);
