@@ -880,11 +880,15 @@ validation ou reste seulement local.
 - Le garde-fou controle les marqueurs React et CSS de cette orientation, puis
   la verification locale doit observer un changement de sequence au scroll.
 
+
 ## Garde-fou - homepage inspiree d une direction terminal - 14 aout 2026
 
 - La reference de style est traduite en motifs reutilisables : capsule fixe,
   hero sombre, accent vert fluorescent, surface claire, grille technique et
   cartes editoriales ; aucune donnee de guide n est remplacee par un decor.
+- La passe active reste limitee a `app/globals.css` et ne change ni le TXT,
+  ni le catalogue, ni le rendu structurel du lecteur ; toute extension doit
+  repasser le controle de perimetre.
 - Le controle local couvre le premier ecran, l acces a l index, la recherche,
   les filtres, les cartes et le pied de page sur desktop et 390 px. Le lecteur
   conserve sa presentation et doit rester controle sur une fiche reelle.

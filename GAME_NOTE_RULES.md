@@ -697,11 +697,15 @@ annexes, si un controle obligatoire echoue ou si le commit n est pas pousse.
 - Les metadonnees de mise en page peuvent compter les sous-sections, mais ne
   remplacent jamais les instructions, objets, coffres ou conditions du TXT.
 
+
 ### Regle active - direction visuelle de la homepage - 14 aout 2026
 
 - La homepage peut reprendre une reference visuelle externe uniquement en
   conservant l identite Game Note, les trois guides visibles et les controles
   de navigation reels.
+- La passe de cette date est portee par `app/globals.css` et conserve le
+  lecteur de fiche hors de la surface de la homepage ; le controle local doit
+  confirmer ce perimetre avant toute publication.
 - Le lot actuel utilise une navigation en capsule, un hero sombre, un accent
   vert fluorescent, une surface de bibliotheque claire, une grille discrete et
   des cartes a decoupe editoriale ; ces effets ne remplacent jamais le titre,

@@ -471,3 +471,16 @@ annexes sont melangees, si un controle echoue ou si le commit reste local.
   le lecteur avance ; un sommaire seulement decoratif ne suffit pas.
 - Chaque sequence jouable affiche un repere compact du nombre de sous-sections
   a verifier, sans dupliquer ni raccourcir le texte source.
+
+### Passe visuelle - direction terminal pour l accueil - 14 aout 2026
+
+- L accueil conserve les donnees, la recherche, les filtres, les cartes et le
+  lecteur ; seule la presentation de la homepage adopte une capsule de
+  navigation flottante, un hero sombre cinematographique, une action vert
+  fluorescent et une bibliotheque claire a grille editoriale.
+- Les effets et la grande typographie restent decoratifs : le titre, l index,
+  l entree de la bibliotheque et l acces clavier doivent rester utilisables
+  sans animation et sur petit ecran.
+- Toute passe visuelle verifie le rendu reel desktop et 390 px, le debordement
+  de page, le build, le preflight, le lint et les smoke tests ; la direction ne
+  s applique pas au lecteur sombre sans controle specifique de fiche.
