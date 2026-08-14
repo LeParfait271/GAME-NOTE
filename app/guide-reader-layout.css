@@ -291,7 +291,13 @@
   color: #ff9b86;
 }
 
-@media screen and (max-width: 1020px) and (min-width: 761px) {
+@media screen and (max-width: 1120px) and (min-width: 761px) {
+  .site-shell.is-reader-mode .reader-cover.reader-cover {
+    width: 100%;
+    aspect-ratio: auto;
+    min-height: clamp(520px, 78vw, 600px);
+  }
+
   .site-shell.is-reader-mode .reader-cover.reader-cover .reader-cover-copy {
     width: min(70%, 700px);
     padding-inline: clamp(27px, 4vw, 48px);
@@ -299,6 +305,29 @@
 
   .site-shell.is-reader-mode .reader-cover.reader-cover .reader-cover-copy :is(h1, h2) {
     font-size: clamp(2.8rem, 5.4vw, 4.6rem);
+  }
+}
+
+@media screen and (max-width: 1040px) and (min-width: 761px) {
+  .site-shell.is-reader-mode .reader-sidebar {
+    width: 100%;
+    grid-template-columns: 1fr;
+  }
+
+  .site-shell.is-reader-mode .reader-outline {
+    max-height: 300px;
+  }
+}
+
+@media screen and (max-width: 820px) and (min-width: 761px) {
+  .site-shell.is-reader-mode .reader-layout {
+    grid-template-columns: 1fr;
+    gap: 28px;
+  }
+
+  .site-shell.is-reader-mode .reader-sidebar {
+    position: static;
+    top: auto;
   }
 }
 
@@ -386,9 +415,9 @@
 }
 
 .site-shell.is-reader-mode .guide-sequence-card.guide-sequence-card .guide-sequence-card-meta {
-  position: sticky;
-  top: 194px;
-  z-index: 7;
+  position: static;
+  top: auto;
+  z-index: auto;
   border-radius: 17px 17px 0 0;
   background: color-mix(in srgb, var(--card) 94%, var(--route-ink));
   box-shadow: 0 8px 18px color-mix(in srgb, var(--route-ink) 9%, transparent);
