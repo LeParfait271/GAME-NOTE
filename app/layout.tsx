@@ -5,6 +5,7 @@ import "./terminal-pass-four.css";
 import "./terminal-pass-five.css";
 import "./terminal-pass-six.css";
 import "./terminal-pass-seven.css";
+import "./terminal-pass-eight.css";
 import PwaRegister from "./pwa-register";
 
 export const metadata: Metadata = {

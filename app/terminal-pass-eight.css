@@ -1,0 +1,60 @@
+/* Terminal pass eight: kinetic telemetry. */
+
+.site-shell:not(.is-reader-mode) .hero-effects { opacity: 0.58; }
+.site-shell:not(.is-reader-mode) .hero-pointer-ring { animation: terminal-target-pulse 3.8s ease-out infinite; }
+.site-shell:not(.is-reader-mode) .hero-focus-status { animation: terminal-signal-pulse 4.2s ease-in-out infinite; }
+.site-shell:not(.is-reader-mode) .hero-index button.is-active .hero-index-arrow { animation: terminal-line-pulse 1.8s ease-in-out infinite; }
+
+.site-shell:not(.is-reader-mode) .library-tools { animation: terminal-grid-drift 12s linear infinite; }
+.site-shell:not(.is-reader-mode) .guide-card .card-artwork::before { animation: terminal-signal-pulse 3.4s ease-in-out infinite; }
+.site-shell:not(.is-reader-mode) .guide-card:nth-child(2) .card-artwork::before { animation-delay: -1.1s; }
+.site-shell:not(.is-reader-mode) .guide-card:nth-child(3) .card-artwork::before { animation-delay: -2.2s; }
+.site-shell:not(.is-reader-mode) .guide-card .card-artwork::after { animation: terminal-artwork-scan 8.5s ease-in-out infinite; }
+.site-shell:not(.is-reader-mode) .guide-card:nth-child(2) .card-artwork::after { animation-delay: -2.8s; }
+.site-shell:not(.is-reader-mode) .guide-card:nth-child(3) .card-artwork::after { animation-delay: -5.6s; }
+.site-shell:not(.is-reader-mode) .catalog-search-wrap:focus-within { animation: terminal-signal-pulse 1.8s ease-in-out infinite; }
+
+.site-shell.is-reader-mode .reader-cover::before { animation: terminal-document-rail 4.8s ease-in-out infinite; }
+.site-shell.is-reader-mode .reader-cover-art::after { animation: terminal-cover-pulse 6s ease-in-out infinite, terminal-cover-sweep 10s ease-in-out infinite; }
+.site-shell.is-reader-mode .reader-tools { background-image: linear-gradient(90deg, rgba(185, 255, 0, 0.045) 1px, transparent 1px), linear-gradient(180deg, rgba(247, 250, 246, 0.035) 1px, transparent 1px); background-size: 38px 100%, 100% 10px; animation: terminal-grid-drift 11s linear infinite; }
+.site-shell.is-reader-mode .reader-reading-status { animation: terminal-signal-pulse 3.2s ease-in-out infinite; }
+.site-shell.is-reader-mode .reader-document { animation: terminal-reader-grid-drift 28s linear infinite; }
+.site-shell.is-reader-mode .reader-outline-group.is-active > .reader-outline-major,
+.site-shell.is-reader-mode .reader-outline-item.is-active { animation: terminal-current-glow 3.6s ease-in-out infinite; }
+.site-shell.is-reader-mode .guide-route-lane .guide-heading-row-route .guide-heading-index { animation: terminal-signal-pulse 4.2s ease-in-out infinite; }
+.site-shell.is-reader-mode .progress-track { background-image: repeating-linear-gradient(90deg, transparent 0 15px, rgba(255, 250, 245, 0.08) 15px 16px); background-size: 16px 100%; animation: terminal-grid-drift 8s linear infinite; }
+
+@media (hover: hover) {
+  .site-shell:not(.is-reader-mode) .guide-card:is(:hover, :focus-within) .card-artwork::after { animation-play-state: paused; background-position: 0 0, -32% 0; }
+}
+
+@keyframes terminal-target-pulse { 0%, 100% { opacity: 0.48; transform: translate(-50%, -50%) scale(0.92); } 48% { opacity: 0.82; transform: translate(-50%, -50%) scale(1); } 76% { opacity: 0.42; transform: translate(-50%, -50%) scale(1.12); } }
+@keyframes terminal-artwork-scan { 0%, 18% { background-position: 0 0, 140% 0; } 52%, 100% { background-position: 0 0, -32% 0; } }
+@keyframes terminal-cover-sweep { 0%, 20% { background-position: 0 0, 135% 0; } 56%, 100% { background-position: 0 0, -32% 0; } }
+@keyframes terminal-reader-grid-drift { from { background-position: 0 0, 0 0; } to { background-position: 52px 0, 0 32px; } }
+
+@media screen and (max-width: 760px) {
+  .site-shell:not(.is-reader-mode) .hero-telemetry { display: none; }
+  .site-shell:not(.is-reader-mode) .hero-pointer-ring { width: 82px; }
+  .site-shell.is-reader-mode .reader-cover-art img { animation-duration: 24s; }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .site-shell:not(.is-reader-mode) .hero-effects,
+  .site-shell:not(.is-reader-mode) .hero-pointer-ring,
+  .site-shell:not(.is-reader-mode) .hero-focus-status,
+  .site-shell:not(.is-reader-mode) .hero-index button.is-active .hero-index-arrow,
+  .site-shell:not(.is-reader-mode) .library-tools,
+  .site-shell:not(.is-reader-mode) .guide-card .card-artwork::before,
+  .site-shell:not(.is-reader-mode) .guide-card .card-artwork::after,
+  .site-shell:not(.is-reader-mode) .catalog-search-wrap:focus-within,
+  .site-shell.is-reader-mode .reader-cover::before,
+  .site-shell.is-reader-mode .reader-cover-art::after,
+  .site-shell.is-reader-mode .reader-tools,
+  .site-shell.is-reader-mode .reader-reading-status,
+  .site-shell.is-reader-mode .reader-document,
+  .site-shell.is-reader-mode .reader-outline-group.is-active > .reader-outline-major,
+  .site-shell.is-reader-mode .reader-outline-item.is-active,
+  .site-shell.is-reader-mode .guide-route-lane .guide-heading-row-route .guide-heading-index,
+  .site-shell.is-reader-mode .progress-track { animation: none !important; }
+}
