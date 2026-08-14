@@ -546,3 +546,15 @@ annexes sont melangees, si un controle echoue ou si le commit reste local.
   du texte, y compris dans une largeur tablette inferieure ou egale a 960 px.
 - Le controle doit mesurer l espace fleche-contenu et verifier les lignes avec
   et sans marqueur dans Expedition 33, OT1 et OT2, avant toute publication.
+
+### Optimisation visuelle - premiere vue et actions tactiles - 14 aout 2026
+
+- La couverture du lecteur commence avec une marge courte sous la barre fixe :
+  96 px sur desktop et 76 px sous 760 px, pour afficher plus vite le contenu
+  utile sans recouvrir la barre.
+- Les actions `Toutes les soluces` et `Reprendre la lecture` gardent une cible
+  tactile d au moins 40 px sur mobile et restent lisibles sur desktop.
+- Les signaux cinetiques de `terminal-pass-eight.css` restent decoratifs,
+  n ajoutent aucun contenu et sont neutralises avec `prefers-reduced-motion`.
+- Controle livre sur 390, 768 et 1280 px : premiere vue, focus, absence de
+  recouvrement et debordement avant toute publication.

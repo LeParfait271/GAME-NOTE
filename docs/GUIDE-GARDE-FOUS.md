@@ -1024,6 +1024,17 @@ validation ou reste seulement local.
   extreme, 320, 390 et 768 px, puis verifie l absence de debordement et les
   validations completes avant commit, push et deploiement.
 
+## Garde-fou - premiere vue et cibles tactiles du lecteur - 14 aout 2026
+
+- La couverture du lecteur doit laisser 96 px sous la barre fixe sur desktop et
+  76 px sous 760 px ; aucune action ne doit etre recouverte par le chrome fixe.
+- Les boutons `.reader-backlink` et `.reader-resume` gardent une hauteur
+  minimale de 40 px sur mobile et une surface contrastee sur l artwork.
+- `terminal-pass-eight.css` ne fournit que des signaux decoratifs ; ses
+  animations doivent etre neutralisees par `prefers-reduced-motion`.
+- Le controle mesure la premiere vue, les cibles, le focus, le debordement et la
+  console sur 390, 768 et 1280 px avant les validations completes.
+
 ## Garde-fou - filtres de bibliotheque lisibles sur mobile - 14 aout 2026
 
 - Sous 760 px, `.library-filters` revient a la ligne et garde chaque bouton

@@ -765,3 +765,31 @@
 .site-shell.is-reader-mode .guide-bullet {
   padding-left: 25px;
 }
+
+/* Optimisation visuelle : reduire la marge morte et renforcer les actions du lecteur. */
+.site-shell.is-reader-mode .reader-section {
+  padding-block-start: 96px;
+}
+
+.site-shell.is-reader-mode .reader-cover.reader-cover .reader-backlink,
+.site-shell.is-reader-mode .reader-cover.reader-cover .reader-resume {
+  min-height: 36px;
+  box-sizing: border-box;
+  padding: 7px 11px;
+  border: 1px solid rgba(255, 250, 245, 0.2);
+  border-radius: 999px;
+  background: rgba(4, 13, 20, 0.52);
+  line-height: 1.15;
+}
+
+@media screen and (max-width: 760px) {
+  .site-shell.is-reader-mode .reader-section {
+    padding-block-start: 76px;
+  }
+
+  .site-shell.is-reader-mode .reader-cover.reader-cover .reader-backlink,
+  .site-shell.is-reader-mode .reader-cover.reader-cover .reader-resume {
+    min-height: 40px;
+    padding: 8px 12px;
+  }
+}

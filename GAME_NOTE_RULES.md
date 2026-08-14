@@ -847,6 +847,18 @@ annexes, si un controle obligatoire echoue ou si le commit n est pas pousse.
   largeur extreme, 320, 390 et 768 px, puis build, preflight, audit qualite,
   lint, smoke, commit, push et deploiement.
 
+### Regle active - premiere vue et cibles tactiles du lecteur - 14 aout 2026
+
+- La barre fixe du lecteur doit rester separee de la couverture par une marge
+  utile, sans gaspiller la premiere vue : 96 px sur desktop et 76 px sous 760 px.
+- `Toutes les soluces` et `Reprendre la lecture` doivent conserver une cible
+  tactile d au moins 40 px sur mobile, avec un contraste visible sur l artwork.
+- Les animations de `terminal-pass-eight.css` restent decoratives, ne doivent
+  pas modifier le flux de lecture et doivent etre coupees en mode mouvement
+  reduit.
+- Controle obligatoire sur 390, 768 et 1280 px, puis build, preflight, audit
+  qualite, lint, smoke, commit, push et deploiement.
+
 ### Regle active - filtres de bibliotheque lisibles sur mobile - 14 aout 2026
 
 - Sous 760 px, les filtres de bibliotheque doivent revenir a la ligne pour que

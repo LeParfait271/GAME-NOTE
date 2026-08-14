@@ -29,9 +29,11 @@ const stripHtml = (value) =>
 const index = await read("dist/client/index.html");
 const pageSource = await read("app/page.tsx");
 const readerSource = await read("app/GuideReader.tsx");
+const layoutSource = await read("app/layout.tsx");
 const readerStylesheet = await read("app/guide-reader-layout.css");
 const readerGlobalStylesheet = await read("app/globals.css");
 const terminalStyles = await read("app/terminal-pass-four.css");
+const terminalPassEightStyles = await read("app/terminal-pass-eight.css");
 const packageJson = JSON.parse(await read("package.json"));
 const localPreview = await read("APERCU_LOCAL.cmd");
 const serviceWorker = await read("dist/client/service-worker.js");
@@ -60,6 +62,10 @@ test("le shell statique conserve les repères accessibles", () => {
   assert.match(readerSource, /className="reader-neighbors"/);
   assert.match(readerSource, /reader-outline-toggle/);
   assert.match(readerSource, /className="guide-step"/);
+  assert.match(layoutSource, /import "\.\/terminal-pass-eight\.css"/);
+  assert.match(terminalPassEightStyles, /Terminal pass eight: kinetic telemetry/);
+  assert.match(terminalPassEightStyles, /\.site-shell\.is-reader-mode \.reader-cover-art img/);
+  assert.match(terminalPassEightStyles, /prefers-reduced-motion: reduce/);
   assert.match(readerSource, /kind: "heading" \| "subheading" \| "step"/);
   assert.match(readerSource, /type GuideTableData =/);
   assert.match(readerSource, /const parseGuideTableRow =/);
@@ -91,6 +97,10 @@ test("le shell statique conserve les repères accessibles", () => {
   assert.match(readerStylesheet, /Garde-fou fleche : la gouttiere reste distincte du contenu a toutes les largeurs\./);
   assert.match(readerStylesheet, /@media screen and \(max-width: 960px\)/);
   assert.match(readerStylesheet, /padding-left: 25px;/);
+  assert.match(readerStylesheet, /Optimisation visuelle : reduire la marge morte et renforcer les actions du lecteur\./);
+  assert.match(readerStylesheet, /padding-block-start: 96px;/);
+  assert.match(readerStylesheet, /padding-block-start: 76px;/);
+  assert.match(readerStylesheet, /min-height: 40px;/);
   assert.match(readerGlobalStylesheet, /Garde-fou mobile : aucun bloc de route ne doit depasser la largeur utile\./);
   assert.match(readerGlobalStylesheet, /\.site-shell\.is-reader-mode \.guide-lane-content/);
   assert.match(readerGlobalStylesheet, /\.site-shell\.is-reader-mode \.guide-step-copy/);

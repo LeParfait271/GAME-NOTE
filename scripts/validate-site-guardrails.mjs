@@ -143,6 +143,7 @@ const requiredSourceFiles = [
   "app/globals.css",
   "app/guide-reader-layout.css",
   "app/terminal-pass-four.css",
+  "app/terminal-pass-eight.css",
   "app/pwa-register.tsx",
   "next.config.ts",
   "package.json",
@@ -180,6 +181,7 @@ const localPreview = await readText("APERCU_LOCAL.cmd");
 const layout = await readText("app/layout.tsx");
 const stylesheet = `${await readText("app/globals.css")}\n${await readText("app/guide-reader-layout.css")}`;
 const terminalStyles = await readText("app/terminal-pass-four.css");
+const terminalPassEightStyles = await readText("app/terminal-pass-eight.css");
 const serviceWorkerSource = await readText("public/service-worker.js");
 const octopathGuide = await readText("public/guides/octopath-traveler-1.txt");
 const octopathZeroDraftPath = "public/guides/octopath-traveler-0.txt";
@@ -279,6 +281,10 @@ for (const marker of [
   "Garde-fou fleche : la gouttiere reste distincte du contenu a toutes les largeurs.",
   "@media screen and (max-width: 960px)",
   "padding-left: 25px;",
+  "Optimisation visuelle : reduire la marge morte et renforcer les actions du lecteur.",
+  "padding-block-start: 96px;",
+  "padding-block-start: 76px;",
+  "min-height: 40px;",
 ]) {
   if (!stylesheet.includes(marker)) {
     fail(`app/globals.css: style de hierarchie absent (${marker}).`);
@@ -286,6 +292,16 @@ for (const marker of [
 }
 if (!/position:\s*static;\s*order:\s*[12];/.test(stylesheet)) {
   fail("app/globals.css + app/guide-reader-layout.css: hierarchie mobile absente.");
+}
+for (const marker of [
+  "Terminal pass eight: kinetic telemetry",
+  ".site-shell.is-reader-mode .reader-cover-art img",
+  ".site-shell.is-reader-mode .reader-document",
+  "@media (prefers-reduced-motion: reduce)",
+]) {
+  if (!terminalPassEightStyles.includes(marker)) {
+    fail(`app/terminal-pass-eight.css: instrumentation visuelle absente (${marker}).`);
+  }
 }
 for (const marker of [
   "@media screen and (min-width: 1440px)",
@@ -926,6 +942,9 @@ for (const [file, text] of sourceTextChecks) {
 
 if (!layout.includes('<html lang="fr"')) {
   fail("app/layout.tsx: lang=fr absent.");
+}
+if (!layout.includes('import "./terminal-pass-eight.css"')) {
+  fail("app/layout.tsx: terminal-pass-eight.css absent.");
 }
 for (const fragment of [
   "skip-link",
