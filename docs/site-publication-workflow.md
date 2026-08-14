@@ -435,3 +435,18 @@ Le travail ne se limite pas a noter une intention :
 - Sur mobile, placer le sommaire replié avant le document, vérifier son ouverture
   et sa fermeture, puis contrôler une recherche, une sequence longue, un tableau,
   le ratio de page et l absence de debordement sur les trois fiches.
+
+## Workflow de lecture - barre mobile compacte et largeur utile - 14 aout 2026
+
+- A 390 px, placer l identite de la fiche et la route active sur la meme ligne
+  de lecture lorsque l espace le permet ; la recherche reste une ligne pleine et
+  les etats restent separes et lisibles. La barre reste dans le flux mobile et
+  ne doit jamais recouvrir le debut du document.
+- Reduire les marges internes des conteneurs de la route sans toucher au TXT,
+  afin que les titres, listes, cases, coffres et objets ne soient pas enfermes
+  dans une colonne trop etroite.
+- Sur desktop, verifier que le rail de metadonnees et les ancres de sequence
+  arrivent sous la barre de lecture, jamais dessous ou derriere celle-ci.
+- Avant publication, verifier largeur du corps, largeur de la sequence,
+  absence de debordement, barre de recherche, sous-section, liste et case sur
+  390 px, puis lancer build, preflight, audit qualite, lint et smoke tests.

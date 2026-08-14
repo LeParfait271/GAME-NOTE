@@ -270,6 +270,8 @@ for (const marker of [
   ".guide-reference-panel > summary",
   ".guide-search-results > .guide-paragraph",
   "top: 112px",
+  "grid-template-columns: minmax(0, 1fr) minmax(0, 1fr)",
+  "padding-inline: 10px",
   "text-wrap: pretty",
   "position: static;\n    order: 1;",
 ]) {

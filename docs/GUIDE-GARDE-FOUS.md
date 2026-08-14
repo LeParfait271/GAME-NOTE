@@ -950,3 +950,18 @@ validation ou reste seulement local.
 - La vérification couvre une fiche longue, une sous-section, une liste, un
   tableau, le sommaire ouvert puis fermé, desktop, 390 px et l absence de
   debordement horizontal avant le commit.
+
+## Garde-fou - barre mobile compacte et largeur utile - 14 aout 2026
+
+- Sous 760 px, la barre de lecture place l identite de la fiche et la route
+  active sur deux colonnes, avec la recherche et les indicateurs conserves dans
+  des zones lisibles et accessibles ; elle reste dans le flux pour ne pas
+  recouvrir le debut d un panneau ou d une sequence.
+- La route jouable doit utiliser la largeur disponible apres ses conteneurs :
+  aucune sous-section ne doit devenir une colonne inutilement etroite, et le
+  TXT reste integralement present et dans son ordre.
+- Sur desktop, les metadonnees de sequence et les ancres de sous-section restent
+  sous la barre de lecture ; elles ne peuvent pas etre masquées par un rail
+  sticky concurrent.
+- Le controle couvre 390 px, largeur du corps, largeur de la carte, titre de
+  sous-section, liste, case, absence de debordement et validations completes.

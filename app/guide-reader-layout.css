@@ -369,7 +369,7 @@
 
 .site-shell.is-reader-mode .guide-sequence-card.guide-sequence-card {
   overflow: visible;
-  scroll-margin-top: 158px;
+  scroll-margin-top: 205px;
 }
 
 .site-shell.is-reader-mode .guide-sequence-card.guide-sequence-card.is-compact {
@@ -387,7 +387,7 @@
 
 .site-shell.is-reader-mode .guide-sequence-card.guide-sequence-card .guide-sequence-card-meta {
   position: sticky;
-  top: 151px;
+  top: 194px;
   z-index: 7;
   border-radius: 17px 17px 0 0;
   background: color-mix(in srgb, var(--card) 94%, var(--route-ink));
@@ -410,7 +410,7 @@
   border-radius: 0 10px 10px 0;
   background: linear-gradient(90deg, color-mix(in srgb, var(--coral) 8%, var(--card)), color-mix(in srgb, var(--route-ink) 4%, var(--card)) 72%, transparent);
   box-shadow: inset 0 1px 0 color-mix(in srgb, var(--paper) 22%, transparent);
-  scroll-margin-top: 202px;
+  scroll-margin-top: 218px;
 }
 
 .site-shell.is-reader-mode .guide-sequence-card.guide-sequence-card .guide-paragraph {
@@ -573,5 +573,63 @@
   .site-shell.is-reader-mode .guide-search-results > .guide-check,
   .site-shell.is-reader-mode .guide-search-results > .guide-step {
     padding: 11px 12px;
+  }
+}
+
+/* Passe mobile : la barre d outils reste scannable et la route recupere une
+   largeur utile correcte sans retirer une ligne du guide. */
+@media screen and (max-width: 760px) {
+  .site-shell.is-reader-mode .reader-tools {
+    position: static;
+    top: auto;
+    grid-template-columns: minmax(0, 1fr) minmax(0, 1fr);
+    gap: 8px 10px;
+    padding: 10px;
+  }
+
+  .site-shell.is-reader-mode .reader-tools-copy {
+    grid-column: 1;
+    min-width: 0;
+  }
+
+  .site-shell.is-reader-mode .reader-current-route {
+    grid-column: 2;
+    min-width: 0;
+  }
+
+  .site-shell.is-reader-mode .reader-tools > .search-wrap,
+  .site-shell.is-reader-mode .reader-tools > .reader-search-nav {
+    grid-column: 1 / -1;
+  }
+
+  .site-shell.is-reader-mode .reader-tools > .result-count {
+    grid-column: 1;
+    justify-self: start;
+  }
+
+  .site-shell.is-reader-mode .reader-tools > .reader-reading-status {
+    grid-column: 2;
+    justify-self: end;
+  }
+
+  .site-shell.is-reader-mode .reader-document {
+    padding-inline: 12px;
+  }
+
+  .site-shell.is-reader-mode .guide-route-lane .guide-lane-content {
+    padding-inline: 10px;
+  }
+
+  .site-shell.is-reader-mode .guide-route-lane .guide-sequence-card {
+    padding-inline: 12px;
+  }
+
+  .site-shell.is-reader-mode .guide-route-lane .guide-sequence-card-meta {
+    margin-inline: -12px;
+    padding-inline: 12px;
+  }
+
+  .site-shell.is-reader-mode .guide-route-lane .guide-heading-row-route::before {
+    left: -13px;
   }
 }

@@ -779,3 +779,19 @@ annexes, si un controle obligatoire echoue ou si le commit n est pas pousse.
 - Controle obligatoire : ouvrir une sequence depuis le sommaire, faire defiler
   jusqu a la barre, verifier l absence de recouvrement desktop et 390 px avant
   build, commit, push et deploiement.
+
+### Regle active - barre mobile compacte et largeur utile - 14 aout 2026
+
+- Sous 760 px, la barre de lecture regroupe l identite de la fiche et la route
+  en cours sur une grille a deux colonnes, puis garde la recherche et les etats
+  accessibles sur des lignes distinctes ; elle reste dans le flux et ne masque
+  jamais le debut d un panneau ou d une sequence.
+- La route jouable doit exploiter la largeur disponible : la fiche ne doit pas
+  devenir une colonne etroite par l empilement des conteneurs, et aucun texte du
+  TXT ne peut etre retire, fusionne ou tronque pour gagner cette largeur.
+- Sur desktop, le rail de metadonnees d une sequence reste sous la barre de
+  lecture, avec un espace lisible ; les ancres de route et de sous-section
+  doivent arriver sous les deux zones fixes.
+- Controle obligatoire : mesurer la largeur du corps et de la sequence a 390 px,
+  verifier la barre, le titre d une sous-section, une liste et une case, puis
+  relancer build, preflight, audit qualite, lint et smoke avant commit et push.
