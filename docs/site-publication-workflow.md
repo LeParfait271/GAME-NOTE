@@ -381,3 +381,16 @@ Le travail ne se limite pas a noter une intention :
   surbrillance sur la sequence et la sous-section correspondantes.
 - Verifier desktop et 390 px, ainsi que la recherche : les repères d orientation
   ne doivent ni deborder, ni masquer le texte, ni modifier l ordre editorial.
+
+## Workflow de lecture - cover 16/9 pleine largeur - 14 aout 2026
+
+- La cover de chaque fiche utilise l artwork comme fond plein cadre en `16 / 9`.
+  Le titre, le descriptif, les compteurs, les badges et la reprise sont rendus
+  au-dessus de l image dans une zone contrastee ; l alerte reste en bandeau
+  complet.
+- Le rendu mobile garde le fond plein cadre, adapte la hauteur au contenu et
+  conserve `object-fit: cover`, sans texte coupe ni debordement horizontal.
+- Avant publication, ouvrir `/?guide=expedition-33`, `/?guide=octopath` et
+  `/?guide=octopath-2` sur desktop puis 390 px ; mesurer le ratio, confirmer le
+  chargement de chaque artwork, lire le titre et l alerte, puis lancer build,
+  preflight, audit qualite, lint et smoke tests.

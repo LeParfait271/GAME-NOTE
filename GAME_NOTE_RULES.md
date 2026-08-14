@@ -713,3 +713,18 @@ annexes, si un controle obligatoire echoue ou si le commit n est pas pousse.
 - Toute modification de ce type doit etre verifiee sur desktop et 390 px,
   avec controle de largeur de page, clavier, mouvement reduit, build,
   preflight, audit qualite, lint et smoke tests avant commit puis push.
+
+### Regle active - covers du lecteur en 16/9 - 14 aout 2026
+
+- Chaque cover de fiche affiche l artwork sur toute la largeur de la surface
+  lecteur en `16 / 9` ; une image ne doit plus etre enfermee dans une demi-
+  colonne a cote du titre.
+- Le titre, le descriptif, les compteurs, les badges et le bouton de reprise
+  sont superposes dans une zone de contraste lisible ; l alerte pleine largeur
+  reste visible sans recouvrir les informations essentielles.
+- Le mobile conserve le meme artwork plein fond avec une hauteur de contenu
+  adaptee ; l image garde `object-fit: cover`, les textes ne sont pas coupes et
+  le document ne deborde pas horizontalement.
+- Controle obligatoire sur Expedition 33, OT1 et OT2 : ratio de la cover,
+  image chargee, titre lisible, alerte complete, desktop, 390 px, puis build,
+  preflight, audit qualite, lint et smoke tests.

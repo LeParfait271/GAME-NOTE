@@ -258,6 +258,10 @@ for (const marker of [
   ".guide-sequence-card.is-current",
   ".guide-sequence-card-meta",
   ".guide-reference-panel",
+  ".reader-cover.reader-cover",
+  "aspect-ratio: 16 / 9",
+  ".reader-cover.reader-cover .reader-cover-art",
+  ".reader-cover.reader-cover .reader-cover-alert",
 ]) {
   if (!stylesheet.includes(marker)) {
     fail(`app/globals.css: style de hierarchie absent (${marker}).`);

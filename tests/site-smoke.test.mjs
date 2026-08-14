@@ -68,6 +68,10 @@ test("le shell statique conserve les repères accessibles", () => {
   assert.match(readerSource, /className="guide-sequence-card-meta"/);
   assert.match(readerSource, /import "\.\/guide-reader-layout\.css"/);
   assert.match(readerStylesheet, /\.guide-sequence-card\.is-current/);
+  assert.match(readerStylesheet, /\.reader-cover\.reader-cover/);
+  assert.match(readerStylesheet, /aspect-ratio: 16 \/ 9/);
+  assert.match(readerStylesheet, /\.reader-cover\.reader-cover \.reader-cover-art/);
+  assert.match(readerStylesheet, /\.reader-cover\.reader-cover \.reader-cover-alert/);
   assert.match(readerSource, /type GuideHeadingRole =/);
   assert.match(readerSource, /const getGuideHeadingRole =/);
   assert.match(readerSource, /const routeOutlineGroups = useMemo/);

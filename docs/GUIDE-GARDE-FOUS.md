@@ -894,3 +894,17 @@ validation ou reste seulement local.
   conserve sa presentation et doit rester controle sur une fiche reelle.
 - Le lot est livre seulement apres build, preflight, audit qualite, lint,
   smoke tests et verification de l absence de debordement horizontal.
+
+## Garde-fou - covers pleine largeur 16/9 - 14 aout 2026
+
+- Dans une fiche, l artwork doit couvrir toute la cover en ratio `16 / 9` ;
+  aucune mise en page ne doit reduire l image a une colonne laterale.
+- Le texte de la fiche est superpose dans un degrade de contraste stable, avec
+  un titre, une description, les compteurs, les badges et la reprise lisibles.
+  L alerte reste une bande pleine largeur et ne doit pas masquer le contenu.
+- Sous 760 px, le fond reste plein cadre mais la hauteur peut s adapter au
+  contenu ; l image reste en `object-fit: cover` et aucun debordement horizontal
+  n est accepte.
+- La verification controle Expedition 33, OT1 et OT2 sur desktop et 390 px,
+  puis ratio, chargement des images, visibilite de l alerte, build, preflight,
+  audit qualite, lint et smoke tests.
