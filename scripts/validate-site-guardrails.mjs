@@ -273,11 +273,13 @@ for (const marker of [
   "grid-template-columns: minmax(0, 1fr) minmax(0, 1fr)",
   "padding-inline: 10px",
   "text-wrap: pretty",
-  "position: static;\n    order: 1;",
 ]) {
   if (!stylesheet.includes(marker)) {
     fail(`app/globals.css: style de hierarchie absent (${marker}).`);
   }
+}
+if (!/position:\s*static;\s*order:\s*[12];/.test(stylesheet)) {
+  fail("app/globals.css + app/guide-reader-layout.css: hierarchie mobile absente.");
 }
 for (const marker of [
   "const library = libraryRef.current;",

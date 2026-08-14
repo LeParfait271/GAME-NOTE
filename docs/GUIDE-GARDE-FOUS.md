@@ -965,3 +965,14 @@ validation ou reste seulement local.
   sticky concurrent.
 - Le controle couvre 390 px, largeur du corps, largeur de la carte, titre de
   sous-section, liste, case, absence de debordement et validations completes.
+
+## Garde-fou - largeur des panneaux mobiles - 14 aout 2026
+
+- Sous 760 px, le lecteur force `.reader-layout` et `.reader-sidebar` a
+  s etirer sur la largeur utile ; un sommaire replie ne doit pas produire une
+  colonne vide a droite.
+- Le controle verifie une hierarchie mobile explicite, le sommaire ferme puis
+  ouvert, une fiche reelle, la recherche, une ancre de route et l absence de
+  debordement horizontal.
+- La cloture exige ensuite build, preflight strict, audit qualite, lint et
+  smoke tests avant commit, push et deploiement.

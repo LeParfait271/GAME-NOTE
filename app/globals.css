@@ -6190,6 +6190,7 @@ button.reader-neighbor:focus-visible {
     display: flex;
     flex-direction: column;
     gap: 22px;
+    align-items: stretch;
   }
 
   .site-shell.is-reader-mode .reader-document {
@@ -6199,6 +6200,7 @@ button.reader-neighbor:focus-visible {
 
   .site-shell.is-reader-mode .reader-sidebar {
     order: 2;
+    width: 100%;
   }
 
   .site-shell.is-reader-mode .reader-outline-title {

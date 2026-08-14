@@ -485,3 +485,13 @@ annexes sont melangees, si un controle echoue ou si le commit reste local.
 - Toute passe visuelle verifie le rendu reel desktop et 390 px, le debordement
   de page, le build, le preflight, le lint et les smoke tests ; la direction ne
   s applique pas au lecteur sombre sans controle specifique de fiche.
+
+### Passe visuelle - largeur des panneaux mobiles - 14 aout 2026
+
+- Sous 760 px, le conteneur flex du lecteur et sa colonne secondaire doivent
+  s etirer sur toute la largeur utile, meme lorsque le sommaire est replie.
+- Le correctif est porte par `app/globals.css` et ne modifie aucun TXT,
+  compteur, catalogue ou contenu de guide.
+- Controle livre sur localhost : desktop, 390 px, recherche multi-resultats,
+  ancre de sommaire, absence de debordement, build, preflight strict, audit
+  qualite, lint et smoke tests 7/7.

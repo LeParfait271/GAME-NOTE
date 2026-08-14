@@ -715,6 +715,16 @@ annexes, si un controle obligatoire echoue ou si le commit n est pas pousse.
   avec controle de largeur de page, clavier, mouvement reduit, build,
   preflight, audit qualite, lint et smoke tests avant commit puis push.
 
+### Regle active - largeur des panneaux du lecteur mobile - 14 aout 2026
+
+- Sous 760 px, `.reader-layout` et `.reader-sidebar` doivent utiliser toute la
+  largeur disponible ; le sommaire ferme ne peut pas laisser une colonne vide.
+- Le garde-fou et le smoke test verifient une hierarchie mobile explicite sans
+  figer inutilement l ordre editorial d un lot deja en cours.
+- Controle obligatoire : fiche reelle a 390 px, sommaire ferme puis ouvert,
+  recherche multi-resultats, ancre de route, absence de debordement, build,
+  preflight strict, audit qualite, lint et smoke tests avant commit et push.
+
 ### Regle active - covers du lecteur en 16/9 - 14 aout 2026
 
 - Chaque cover de fiche affiche l artwork sur toute la largeur de la surface

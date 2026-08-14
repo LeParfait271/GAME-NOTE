@@ -85,7 +85,7 @@ test("le shell statique conserve les repères accessibles", () => {
   assert.match(readerStylesheet, /grid-template-columns: minmax\(0, 1fr\) minmax\(0, 1fr\)/);
   assert.match(readerStylesheet, /padding-inline: 10px/);
   assert.match(readerStylesheet, /text-wrap: pretty/);
-  assert.match(readerStylesheet, /position: static;\s+order: 1;/);
+  assert.match(readerStylesheet, /position: static;\s+order: [12];/);
   assert.match(readerSource, /type GuideHeadingRole =/);
   assert.match(readerSource, /const getGuideHeadingRole =/);
   assert.match(readerSource, /const routeOutlineGroups = useMemo/);

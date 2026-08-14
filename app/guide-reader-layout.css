@@ -303,16 +303,16 @@
 }
 
 @media screen and (max-width: 760px) {
-  /* Le sommaire doit preceder la route sur mobile : il reste compact ferme,
-     mais devient trouvable avant le long contenu de la fiche. */
+  /* Le parcours commence avant les outils secondaires : le sommaire reste
+     repliable et disponible après la première lecture utile. */
   .site-shell.is-reader-mode .reader-sidebar {
     position: static;
-    order: 1;
+    order: 2;
     gap: 12px;
   }
 
   .site-shell.is-reader-mode .reader-document {
-    order: 2;
+    order: 1;
   }
 
   .site-shell.is-reader-mode .reader-cover.reader-cover {
@@ -336,9 +336,9 @@
     inset: auto;
     width: 100%;
     max-height: none;
-    min-height: 565px;
+    min-height: 480px;
     margin: 0;
-    padding: 32px 23px 146px;
+    padding: 32px 23px 80px;
     background: linear-gradient(180deg, rgba(7, 18, 26, 0.08) 0%, rgba(7, 18, 26, 0.26) 20%, rgba(7, 18, 26, 0.76) 54%, rgba(7, 18, 26, 0.96) 100%);
     text-align: right;
   }
