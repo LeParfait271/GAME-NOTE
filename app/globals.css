@@ -3293,8 +3293,9 @@ button.reader-neighbor:focus-visible {
 
   .site-shell.is-reader-mode .guide-bullet-arrow {
     position: absolute;
-    top: 0;
+    top: 50%;
     left: 0;
+    transform: translateY(-50%);
   }
 
   .site-shell.is-reader-mode .guide-check {

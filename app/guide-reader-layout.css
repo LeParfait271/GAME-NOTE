@@ -468,10 +468,6 @@
   text-wrap: pretty;
 }
 
-.site-shell.is-reader-mode .guide-sequence-card.guide-sequence-card .guide-bullet-arrow {
-  padding-top: 1px;
-}
-
 @media screen and (max-width: 960px) {
   /* Garde-fou fleche mobile et tablette : la gouttiere reste distincte du contenu. */
   .site-shell.is-reader-mode .guide-sequence-card.guide-sequence-card .guide-bullet {
