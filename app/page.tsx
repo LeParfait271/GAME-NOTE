@@ -297,7 +297,7 @@ const guides: Guide[] = [
     id: "breath-of-fire-iv",
     steamAppId: 4249150,
     artworkUrl:
-      "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4249150/426a889a2d4ec776dc4d87530dadd659ffa393a6/header.jpg?t=1784878197",
+      "https://cdn.akamai.steamstatic.com/steam/apps/4249150/capsule_616x353.jpg",
     title: "Breath of Fire IV",
     eyebrow: "Capcom",
     subtitle: "La campagne complète et le contenu optionnel, sans faux succès.",
@@ -2952,8 +2952,8 @@ const guides: Guide[] = [
 const SITE_VISIBLE_GUIDE_IDS = new Set(["expedition-33", "octopath", "octopath-2"]);
 const siteGuides = guides.filter((guide) => SITE_VISIBLE_GUIDE_IDS.has(guide.id));
 
-const steamHeaderUrl = (appId: number) =>
-  `https://cdn.akamai.steamstatic.com/steam/apps/${appId}/header.jpg`;
+const steamCapsuleUrl = (appId: number) =>
+  `https://cdn.akamai.steamstatic.com/steam/apps/${appId}/capsule_616x353.jpg`;
 
 const steamPortraitUrl = (appId: number) =>
   `https://cdn.akamai.steamstatic.com/steam/apps/${appId}/library_600x900_2x.jpg`;
@@ -3694,7 +3694,7 @@ export default function Home() {
                     <div className="card-artwork">
                       {/* eslint-disable-next-line @next/next/no-img-element */}
                       <img
-                        src={guide.artworkUrl ?? steamHeaderUrl(guide.steamAppId)}
+                        src={guide.artworkUrl ?? steamCapsuleUrl(guide.steamAppId)}
                         alt={`Illustration officielle de ${guide.title}`}
                         width={920}
                         height={430}

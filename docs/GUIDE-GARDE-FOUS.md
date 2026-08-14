@@ -686,8 +686,8 @@ une mise à jour qui change les succès ou le contenu, le guide repasse en
 
 ## Passe visuelle — cartes Steam resilientes
 
-- Les cartes actives utilisent `header.jpg`, plus largement disponible que
-  `header_2x.jpg` pour les anciens jeux Steam.
+- Les cartes actives et les couvertures du lecteur utilisent
+  `capsule_616x353.jpg`, plus nette que `header.jpg` lorsqu elle est agrandie.
 - Une erreur de chargement d'une image externe bascule une seule fois vers
   `public/images/cards/game-note-card-route.png` dans la carte et le lecteur;
   le second echec ne relance pas la boucle.
@@ -899,9 +899,11 @@ validation ou reste seulement local.
 
 - Dans une fiche, l artwork doit couvrir toute la cover en ratio `16 / 9` ;
   aucune mise en page ne doit reduire l image a une colonne laterale.
-- Le texte de la fiche est superpose dans un degrade de contraste stable, avec
-  un titre, une description, les compteurs, les badges et la reprise lisibles.
+- Le texte de la fiche est superpose en bas a droite dans un degrade de contraste
+  stable, avec un titre, une description, les compteurs, les badges et la reprise lisibles.
   L alerte reste une bande pleine largeur et ne doit pas masquer le contenu.
+- Les images Steam automatiques utilisent `capsule_616x353.jpg` dans la carte et
+  le lecteur afin d eviter l agrandissement flou du `header.jpg` 460 px.
 - Sous 760 px, le fond reste plein cadre mais la hauteur peut s adapter au
   contenu ; l image reste en `object-fit: cover` et aucun debordement horizontal
   n est accepte.

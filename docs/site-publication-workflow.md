@@ -385,9 +385,9 @@ Le travail ne se limite pas a noter une intention :
 ## Workflow de lecture - cover 16/9 pleine largeur - 14 aout 2026
 
 - La cover de chaque fiche utilise l artwork comme fond plein cadre en `16 / 9`.
-  Le titre, le descriptif, les compteurs, les badges et la reprise sont rendus
-  au-dessus de l image dans une zone contrastee ; l alerte reste en bandeau
-  complet.
+  Les images Steam automatiques proviennent de `capsule_616x353.jpg`. Le titre,
+  le descriptif, les compteurs, les badges et la reprise sont ancrés en bas a
+  droite dans une zone contrastee ; l alerte reste en bandeau complet.
 - Le rendu mobile garde le fond plein cadre, adapte la hauteur au contenu et
   conserve `object-fit: cover`, sans texte coupe ni debordement horizontal.
 - Avant publication, ouvrir `/?guide=expedition-33`, `/?guide=octopath` et

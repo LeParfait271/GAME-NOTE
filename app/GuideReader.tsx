@@ -99,8 +99,8 @@ const normalizeGuideText = (value: string) =>
     .replace(/[\u0300-\u036f]/g, "")
     .toLocaleLowerCase("fr");
 
-const guideHeaderUrl = (appId: number) =>
-  `https://cdn.akamai.steamstatic.com/steam/apps/${appId}/header.jpg`;
+const guideCapsuleUrl = (appId: number) =>
+  `https://cdn.akamai.steamstatic.com/steam/apps/${appId}/capsule_616x353.jpg`;
 
 const makeBlockId = (text: string, index: number) => {
   const slug = normalizeGuideText(text)
@@ -1045,7 +1045,7 @@ export default function GuideReader({
         <div className="reader-cover-art">
           {/* eslint-disable-next-line @next/next/no-img-element */}
           <img
-            src={selected.artworkUrl ?? guideHeaderUrl(selected.steamAppId)}
+            src={selected.artworkUrl ?? guideCapsuleUrl(selected.steamAppId)}
             alt={`Illustration officielle de ${selected.title}`}
             width={920}
             height={430}

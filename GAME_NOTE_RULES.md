@@ -508,8 +508,9 @@ comme OT0, restent hors publication jusqu'à leur validation éditoriale.
 
 ## Passe visuelle — cartes Steam resilientes
 
-- Les cartes actives utilisent la source Steam panoramique compatible `header.jpg`;
-  `header_2x.jpg` ne doit pas etre suppose disponible pour chaque jeu du catalogue.
+- Les cartes actives et les couvertures du lecteur utilisent la source Steam
+  `capsule_616x353.jpg`, plus definie que `header.jpg` pour les surfaces larges;
+  aucune variante `_2x` ne doit etre supposee disponible pour chaque jeu.
 - Chaque image externe du catalogue et du lecteur possede un repli local vers
   `public/images/cards/game-note-card-route.png`, avec un garde contre la boucle
   d'erreur si le repli lui-meme echoue.
@@ -720,8 +721,10 @@ annexes, si un controle obligatoire echoue ou si le commit n est pas pousse.
   lecteur en `16 / 9` ; une image ne doit plus etre enfermee dans une demi-
   colonne a cote du titre.
 - Le titre, le descriptif, les compteurs, les badges et le bouton de reprise
-  sont superposes dans une zone de contraste lisible ; l alerte pleine largeur
-  reste visible sans recouvrir les informations essentielles.
+  sont superposes en bas a droite dans une zone de contraste lisible ; l alerte
+  pleine largeur reste visible sans recouvrir les informations essentielles.
+- Les images Steam automatiques utilisent `capsule_616x353.jpg` dans la carte et
+  le lecteur afin d eviter l agrandissement flou du `header.jpg` 460 px.
 - Le mobile conserve le meme artwork plein fond avec une hauteur de contenu
   adaptee ; l image garde `object-fit: cover`, les textes ne sont pas coupes et
   le document ne deborde pas horizontalement.
