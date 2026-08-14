@@ -29,7 +29,7 @@ La sauvegarde principale doit terminer avec :
   (collection complete, independante des succes Steam) ;
 - toutes les zones, autels, ports, iles et donjons optionnels visites ;
 - les Learned Skills de Hikari utiles a la progression ;
-- Gate to the Netherworld vaincu, puis l'epilogue termine.
+- **Porte vers un autre monde** obtenu, puis l'epilogue termine.
 
 Le jeu ne possede pas de succes strictement manquable. En revanche, le dernier
 chapitre verrouille temporairement les Side Stories, les actions de jour et
@@ -59,7 +59,7 @@ Dans chaque route et chaque donjon :
 - ne vends pas les objets uniques avant la verification finale ;
 - laisse Osvald dans l'equipe assez souvent pour avancer vers Informed
   Adventurer ;
-- alterne les voyageurs pour atteindre 100 Out Cold sans devoir farmer a la
+- alterne les voyageurs pour atteindre **Évanouissements par centaine** sans devoir farmer a la
   toute fin.
 
 Le mode de lecture premium est le suivant : les lignes marquees `[COFFRE]`
@@ -108,7 +108,7 @@ HIKARI - KU - CHAPTER 1 - NIVEAU 1
 - Joue de jour puis de nuit avant de quitter Ku : la ville est verrouillee
   pendant une partie de l'histoire et certains PNJ changent de place.
 - Ne quitte pas la region sans valider le premier niveau de Hikari et
-  l'action qui declenche The Journey Begins.
+  l'action qui declenche **Départ**.
 
 CASTTI - CANALBRINE - CHAPTER 1 - NIVEAU 1
 ------------------------------------------
@@ -184,12 +184,12 @@ AGNEA - CROPDALE - CHAPTER 1 - NIVEAU 1
 CONTROLE APRES LES HUIT CHAPITRES 1
 -----------------------------------
 
-- [ ] First Break : briser un ennemi.
-- [ ] Max Boost : utiliser un boost maximal.
-- [ ] The Journey Begins : lancer une histoire.
-- [ ] A New Skill : apprendre une competence.
-- [ ] Eight Travelers : recruter les huit voyageurs.
-- [ ] Setting Sail : prendre le ferry des que la route maritime est ouverte.
+- [ ] **Première faille** : briser un ennemi.
+- [ ] **Exaltation maximum !** : utiliser un boost maximal.
+- [ ] **Départ** : lancer une histoire.
+- [ ] **Une nouvelle aptitude** : apprendre une competence.
+- [ ] **Les huit compagnons** : recruter les huit voyageurs.
+- [ ] **Embarquement !** : prendre le ferry des que la route maritime est ouverte.
 - [ ] 100 informations commencees : Osvald, Castti, Temenos et Hikari ont
   chacun utilise leur action d'information.
 - [ ] La Side Story The Traveler's Bag du journal est terminee.
@@ -210,7 +210,7 @@ JOBS SECONDAIRES - LES 8 GUILDES
 - Hunter : Western Tropu'hopu Traverse, Toto'haha.
 
 Chaque guilde donne une licence. Les licences supplementaires demandent des
-competences deja apprises dans le job. Pour Job Master, une licence de chaque
+competences deja apprises dans le job. Pour **Champion des classes secondaires**, une licence de chaque
 job suffit ; pour le 100 %, apprends ensuite toutes les competences et toutes
 les Divine Skills.
 
@@ -336,7 +336,7 @@ OSVALD - 5 CHAPITRES
 - Chapter 3 - Montwise, niveau 18 : utilise Scrutinize sur les cibles du
   laboratoire et ouvre les salles laterales avant le boss.
 - Chapter 4 - Montwise, niveau 36 : nettoie la zone de recherche et profite
-  d'Osvald pour faire progresser Informed Adventurer.
+  d'Osvald pour faire progresser **Bien informé**.
 - Chapter 5 - Gravell, niveau 45 : termine la poursuite, puis reviens a
   Gravell pour A Genius Inventor, Reaching for the Stars et The Missing Girl.
 
@@ -355,7 +355,7 @@ THRONE - 4 CHAPITRES, AVEC DEUX ROUTES AU CHAPITRE 2 ET 3
   obligatoires ; termine les deux avant les chapitres 3.
 - Chapter 3: Mother - Wellgrove, niveau 31 : fais la route vers Lostseed.
 - Chapter 3: Father - Montwise, niveau 31 : termine la deuxieme branche puis
-  fais The Detective and His Assistant quand l'icone apparait.
+  fais **Le détective et son assistante** quand l'icone apparait.
 - Chapter 4 - New Delsta, niveau 45 : sauvegarde avant le dernier passage,
   nettoie Lostseed et recupere ensuite Mira and the Elderly Guard's Next
   Chapter a Wellgrove.
@@ -378,7 +378,7 @@ TEMENOS - 4 CHAPITRES
 - Chapter 4 - Nameless Village, niveau 45 : fais Shirlutto's Next Chapter
   apres l'histoire et recupere Battle-Tested Axe aupres de Shirlutto.
 
-Pour le succes Informed Adventurer, utilise Inquire de maniere reguliere. Ne
+Pour le succes **Bien informé**, utilise Inquire de maniere reguliere. Ne
 force pas Coerce sur les PNJ importants sans sauvegarde.
 
 OCHETTE - 3 CHAPITRES, LE CHAPITRE 2 A TROIS ROUTES
@@ -456,7 +456,7 @@ paire avant le chapitre final.
 AGNEA + HIKARI
 --------------
 
-- Act 1 : By the Light of the Heart, Ryu. Conditions : Agnea Chapter 2 et
+- Act 1 : **La lueur du cœur**, Ryu. Conditions : Agnea Chapter 2 et
   Hikari Chapter 2.
 - Act 2 : Ku, apres Hikari Chapter 5 et Agnea Chapter 5.
 - Apres l'acte 2, retourne a Ku de nuit et prends le Record final aupres de
@@ -465,7 +465,7 @@ AGNEA + HIKARI
 CASTTI + OCHETTE
 ----------------
 
-- Act 1 : A Peaceful Little Forest, Cropdale. Conditions : Castti Chapter 2
+- Act 1 : **Une petite forêt paisible**, Cropdale. Conditions : Castti Chapter 2
   et Ochette Chapter 2.
 - Act 2 : Cropdale, apres Castti Chapter 4 et Ochette Chapter 3.
 - Fais le tour de Cropdale apres l'acte 2 : plusieurs dialogues et objets
@@ -474,7 +474,7 @@ CASTTI + OCHETTE
 TEMENOS + THRONE
 ----------------
 
-- Act 1 : The Detective and His Assistant, Flamechurch. Conditions :
+- Act 1 : **Le détective et son assistante**, Flamechurch. Conditions :
   Temenos Chapter 2 et Throné Chapter 2.
 - Act 2 : Canalbrine, apres leurs histoires completes.
 - Fais Laila's Next Chapter et Shirlutto's Next Chapter avant de fermer le
@@ -483,7 +483,7 @@ TEMENOS + THRONE
 OSVALD + PARTITIO
 -----------------
 
-- Act 1 : Mysteries of the Night Sky, New Delsta. Conditions : Osvald
+- Act 1 : **Secrets du ciel nocturne**, New Delsta. Conditions : Osvald
   Chapter 2 et Partitio Chapter 2.
 - Act 2 : Montwise, apres Osvald Chapter 5 et Partitio Chapter 4.
 - Termine les trois etapes de The Scent of Commerce avant l'acte 2 pour
@@ -665,7 +665,7 @@ CONTROLE DES 67 SIDE STORIES
 ----------------------------
 
 Le total doit etre 67 : The Traveler's Bag + 66 Side Stories fixes. Si le
-succes Worth the Detour ne tombe pas, les erreurs les plus courantes sont :
+succes **Ça vaut le détour** ne tombe pas, les erreurs les plus courantes sont :
 
 - A Gate Between Worlds non lance parce que les deux livres de Montwise ne
   sont pas termines ;
@@ -751,7 +751,7 @@ mortes avant de reprendre l'embranchement principal, puis controle le total
 affiche dans la sous-zone. Les coffres rouges, les gardiens et les conditions
 speciales sont conserves dans le libelle de l'objet ou dans la note de route.
 
-Pour `Master of Solistia`, controle aussi les 69 repères de carte :
+Pour **Expert de Solistia**, controle aussi les 69 repères de carte :
 Belleramée 1-8, Grands-Pics 9-16, Hinoeuma 17-23, Landes-de-neige 24-31,
 Moultports 32-39, Océan séparé 40-46, Terres Lumière 47-56, Terres Sauvages
 57-63 et Toto Haha 64-69. Les ports, les autels et les îles maritimes sont
@@ -813,10 +813,10 @@ Apres l'achat du bateau, marque comme visitees les zones suivantes :
 - Seat of the Water Sprite, pour Rusty Staff ;
 - Quicksand Gaol, pour Rusty Axe ;
 - Five-Tiered Tower, pour Conjurer ;
-- ??? / A Gate Between Worlds, pour Gate to the Netherworld.
+- ??? / A Gate Between Worlds, pour **Porte vers un autre monde**.
 
-Sur la carte du monde, chaque icone de lieu doit avoir ete visitee. Si Master
-of Solistia ne tombe pas, compare d'abord les ports de bateau, les autels et
+Sur la carte du monde, chaque icone de lieu doit avoir ete visitee. Si **Expert
+de Solistia** ne tombe pas, compare d'abord les ports de bateau, les autels et
 les grottes derriere les cascades : ils sont les trois oublis les plus courants.
 
 PHASE 8 - PREPARATION DU CHAPITRE FINAL
@@ -852,12 +852,12 @@ THE JOURNEY FOR THE DAWN, PUIS L'EPILOGUE
 4. Termine le combat final avec une equipe de huit voyageurs : prepare deux
    groupes, une source de soin de zone, une source de BP et des protections
    contre les alterations d'etat.
-5. Confirme Dawn Breaks.
+5. Confirme **L'aube**.
 6. Apres le retour en ville, lance l'Epilogue au meme endroit. Ne quitte pas
    la sequence avant les credits pour obtenir Octopath Traveler.
 7. Apres les credits, reprends les voyageurs, retourne au ??? et termine
-   Gate to the Netherworld. Cette etape debloque l'accessoire de nettoyage et
-   le succes correspondant.
+   **Porte vers un autre monde**. Cette etape debloque l'accessoire de nettoyage et
+   le succes **Porte vers un autre monde**.
 
 Le chapitre final n'est pas un endroit pour farmer les Side Stories : elles
 doivent etre a zero avant l'etape 1.
@@ -865,60 +865,63 @@ doivent etre a zero avant l'etape 1.
 CHECKLIST FINALE - 33/33 SUCCES STEAM
 ====================================
 
-[ ] 01 - First Break — Briser un ennemi pour la premiere fois.
-[ ] 02 - Max Boost — Agir avec le boost maximal.
-[ ] 03 - The Journey Begins — Commencer un voyage.
-[ ] 04 - A New Skill — Apprendre une competence.
-[ ] 05 - Setting Sail — Prendre le ferry vers une nouvelle terre.
-[ ] 06 - Eight Travelers — Recruter les huit voyageurs.
-[ ] 07 - Master of Your Craft — Apprendre une Divine Skill de job.
-[ ] 08 - Informed Adventurer — Obtenir des informations de 100 habitants.
-[ ] 09 - Hard Hitter — Infliger au moins 9 999 points de degats.
-[ ] 10 - The Collar Removed — Terminer l'histoire de Throné.
-[ ] 11 - Clear Skies — Terminer l'histoire de Hikari.
-[ ] 12 - Protector of the Island — Terminer l'histoire d'Ochette.
-[ ] 13 - An Answer, a Journey — Terminer l'histoire d'Osvald.
-[ ] 14 - The Road to Prosperity — Terminer l'histoire de Partitio.
-[ ] 15 - Eir's Apothecaries — Terminer l'histoire de Castti.
-[ ] 16 - The Truth Lies in the Flame — Terminer l'histoire de Temenos.
-[ ] 17 - Agnea the Star — Terminer l'histoire d'Agnea.
-[ ] 18 - The Detective and His Assistant — Terminer le Crossed Path Temenos/Throné.
-[ ] 19 - By the Light of the Heart — Terminer le Crossed Path Agnea/Hikari.
-[ ] 20 - A Peaceful Little Forest — Terminer le Crossed Path Castti/Ochette.
-[ ] 21 - Mysteries of the Night Sky — Terminer le Crossed Path Osvald/Partitio.
-[ ] 22 - Job Master — Apprendre les huit jobs secondaires.
-[ ] 23 - EX Skill Master — Apprendre les 16 EX Skills.
-[ ] 24 - Dawn Breaks — Ramener l'aube au monde.
+Les intitulés sont ceux de la liste Steam française officielle. Les conditions
+restent expliquées en français pour faciliter le suivi de la route.
+
+[ ] 01 - Première faille — Briser un ennemi pour la premiere fois.
+[ ] 02 - Exaltation maximum ! — Agir avec le boost maximal.
+[ ] 03 - Départ — Commencer un voyage.
+[ ] 04 - Une nouvelle aptitude — Apprendre une competence.
+[ ] 05 - Embarquement ! — Prendre le ferry vers une nouvelle terre.
+[ ] 06 - Les huit compagnons — Recruter les huit voyageurs.
+[ ] 07 - Voie maîtrisée — Apprendre une Divine Skill de job.
+[ ] 08 - Bien informé — Obtenir des informations de 100 habitants.
+[ ] 09 - Attaque surpuissante — Infliger au moins 9 999 points de degats.
+[ ] 10 - Le collier retiré — Terminer l'histoire de Throné.
+[ ] 11 - Un ciel sans nuage — Terminer l'histoire de Hikari.
+[ ] 12 - La gardienne de l'île — Terminer l'histoire d'Ochette.
+[ ] 13 - La réponse — Terminer l'histoire d'Osvald.
+[ ] 14 - En route vers la prospérité — Terminer l'histoire de Partitio.
+[ ] 15 - L'Ordre des Eiriens — Terminer l'histoire de Castti.
+[ ] 16 - La vérité dans la Flamme — Terminer l'histoire de Temenos.
+[ ] 17 - Agnéa la vedette — Terminer l'histoire d'Agnea.
+[ ] 18 - Le détective et son assistante — Terminer le Crossed Path Temenos/Throné.
+[ ] 19 - La lueur du cœur — Terminer le Crossed Path Agnea/Hikari.
+[ ] 20 - Une petite forêt paisible — Terminer le Crossed Path Castti/Ochette.
+[ ] 21 - Secrets du ciel nocturne — Terminer le Crossed Path Osvald/Partitio.
+[ ] 22 - Champion des classes secondaires — Apprendre les huit jobs secondaires.
+[ ] 23 - Collectionneur d'aptitudes spéciales — Apprendre les 16 EX Skills.
+[ ] 24 - L'aube — Ramener l'aube au monde.
 [ ] 25 - Octopath Traveler — Atteindre la conclusion du voyage.
-[ ] 26 - Octopath Traveler...? — Terminer la sequence cachee de nettoyage.
-[ ] 27 - Battle-Tested Gear — Obtenir les sept pieces Battle-Tested.
-[ ] 28 - Gate to the Netherworld — Vaincre la menace du Netherworld.
-[ ] 29 - Master of Solistia — Visiter tous les lieux de la carte.
-[ ] 30 - Record Collector — Obtenir les 30 Gramophone Records.
-[ ] 31 - 100 Out Cold — Assommer 100 habitants.
-[ ] 32 - Worth the Detour — Terminer les 67 Side Stories.
-[ ] 33 - A Story All Your Own — Debloquer tous les autres succes.
+[ ] 26 - Quadripath Traveler — Terminer la sequence cachee de nettoyage.
+[ ] 27 - Équipement historique — Obtenir les sept pieces Battle-Tested.
+[ ] 28 - Porte vers un autre monde — Vaincre la menace du Netherworld.
+[ ] 29 - Expert de Solistia — Visiter tous les lieux de la carte.
+[ ] 30 - Discophile — Obtenir les 30 Gramophone Records.
+[ ] 31 - Évanouissements par centaine — Assommer 100 habitants.
+[ ] 32 - Ça vaut le détour — Terminer les 67 Side Stories.
+[ ] 33 - Une histoire bien à vous — Debloquer tous les autres succes.
 
 VERIFICATION FINALE
 ====================
 
 Si un succes manque :
 
-- First Break, Max Boost, A New Skill : refais l'action dans un combat
+- Première faille, Exaltation maximum !, Une nouvelle aptitude : refais l'action dans un combat
   aleatoire, pas dans une scene uniquement scriptée.
-- Informed Adventurer : alterne Osvald et Castti dans les villes, puis
+- Bien informé : alterne Osvald et Castti dans les villes, puis
   controle le compteur d'informations du menu.
-- 100 Out Cold : change de jour/nuit, assomme des habitants de faible niveau
+- Évanouissements par centaine : change de jour/nuit, assomme des habitants de faible niveau
   et laisse le compteur augmenter avant de changer de region.
-- Job Master : verifie les licences, pas seulement les icones de guildes.
-- EX Skill Master : les autels exigent le personnage correspondant dans
+- Champion des classes secondaires : verifie les licences, pas seulement les icones de guildes.
+- Collectionneur d'aptitudes spéciales : les autels exigent le personnage correspondant dans
   l'equipe ; les huit EX de fin d'histoire ne s'achetent pas.
-- Battle-Tested Gear : utilise les porteurs garantis, pas le drop aleatoire.
-- Master of Solistia : revisite les ports, les autels, les iles et les donjons
+- Équipement historique : utilise les porteurs garantis, pas le drop aleatoire.
+- Expert de Solistia : revisite les ports, les autels, les iles et les donjons
   maritimes.
-- Record Collector : compare les numeros 1-30, pas seulement les titres visibles
+- Discophile : compare les numeros 1-30, pas seulement les titres visibles
   dans une taverne.
-- Worth the Detour : le journal doit afficher les 67 Side Stories fermees ;
+- Ça vaut le détour : le journal doit afficher les 67 Side Stories fermees ;
   A Gate Between Worlds est la verification finale la plus fiable.
 
 NEW GAME +
@@ -2719,8 +2722,8 @@ CONTROLE ANNEXE B : 237/237 objets caches - compteur independant des succes Stea
 SOURCES DE VERIFICATION
 =======================
 
-- Steam, liste officielle des 33 succes :
-  https://steamcommunity.com/stats/1971650/achievements
+- Steam, liste officielle française des 33 succes :
+  https://steamcommunity.com/stats/1971650/achievements?l=french
 - RPG Site, liste et solutions des 67 Side Stories :
   https://www.rpgsite.net/feature/13868-octopath-traveler-ii-side-quests-guide-walkthrough-for-all-side-stories
 - RPG Soluce, chapitres, niveaux et prerequis :

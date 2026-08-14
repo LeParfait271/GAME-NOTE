@@ -104,8 +104,8 @@ statique Cloudflare Pages.
   alimentent le compteur des succès.
 - La carte catalogue d'un guide premium doit rester synchronisée avec son TXT :
   périmètre, spoilers, compteurs, missables et description doivent parler du
-  même jeu. Une carte qui conserve un résumé d'un autre jeu ou « sans spoiler »
-  pour une fiche à révélations autorisées est un défaut de publication.
+ même jeu. Une carte qui conserve un résumé d'un autre jeu ou un mode de
+  révélation incompatible avec le TXT est un défaut de publication.
 - L'inférence `[COFFRE]` doit être contextuelle : elle peut marquer une ligne qui
   donne un journal, disque, arme, Picto, récompense ou collectible, mais pas un
   simple titre de zone comme `Gestral Village`. Toute extension du vocabulaire
@@ -282,7 +282,8 @@ comme OT0, restent hors publication jusqu'à leur validation éditoriale.
 - Avant chaque commit de ce lot, relire la matrice Octopath, vérifier l'écart
   du PDF à 721 coffres et confirmer que la checklist actuelle à 734 reste
   l'autorité du guide.
-- Les spoilers sont autorisés pour les solutions : une contrainte anti-spoiler
+- Les spoilers sont autorisés pour les solutions : une contrainte de
+  dissimulation narrative
   ne doit jamais supprimer une identité, une conséquence, une faiblesse, un
   objet manquable ou un emplacement nécessaire au 100 %.
 
@@ -499,7 +500,8 @@ comme OT0, restent hors publication jusqu'à leur validation éditoriale.
   région, une sous-zone, un contenu et un numéro local. Les objets caches sont
   `H001`-`H237` et ne gonflent jamais le compteur des coffres.
 - Le validateur strict bloque les doublons, les trous, les lignes tronquées,
-  les placeholders et le retour de la mention `SANS SPOILER` sur cette fiche.
+  les placeholders et le retour d'une politique de révélation incompatible sur
+  cette fiche.
 - La version et les garde-fous suivent le commit final unique de la passe ; le
   travail reste local tant qu'aucune demande de push n'est faite.
 
@@ -587,3 +589,42 @@ comme OT0, restent hors publication jusqu'à leur validation éditoriale.
   `SEQUENCE XX` et a alimenter le compteur visible de sequences.
 - Le sommaire separe `PARCOURS CHRONOLOGIQUE` et `DOSSIERS DE REFERENCE`, sans
   recopier ni deplacer une ligne du TXT.
+
+### Regle active - toujours ajouter et tracer - 14 aout 2026
+
+- Tout ajout demande est integre a sa vraie destination : source TXT, fiche,
+  catalogue, file `active`/`queued`/`excluded`, registre, composant et rendu
+  visible. Une note de travail seule ne valide pas l ajout.
+- Aucun element demande n est supprime par raccourci. Un element non verifie
+  reste conserve avec un statut clair (`planned`, `research`, `archive-rebuild`
+  ou `hold`) jusqu a sa verification ou sa publication.
+- Sortir une ancienne soluce de l accueil ne l efface pas : publication visible,
+  archive et planification restent trois etats controles independamment.
+
+### Regle active - fiche complete et sources fiables
+
+- Chaque guide vise une route chronologique exhaustive 100 % jeu + succes
+  Steam, avec spoilers autorises et toutes les informations utiles : route,
+  solutions, lieux, coffres, objets, missables, quetes, combats, fins et
+  conditions de rattrapage.
+- La redaction commence par la lecture croisee d au moins cinq familles de
+  sources. Les preuves, les divergences et les choix retenus sont conserves
+  dans une matrice ; le resultat est redige avec nos propres formulations.
+- Les noms de succes ne sont jamais des traductions de fortune. Ils sont
+  verifies sur la page Steam `l=french` et compares au registre
+  `docs/steam-achievements-fr.json`, qui doit couvrir chaque guide visible.
+- Le TXT reste exhaustif. Le lecteur peut ajouter une structure premium,
+  des tableaux, des cartes, des dossiers et des icones `[COFFRE]`, mais ne doit
+  supprimer aucune information ni fabriquer des dizaines d icones inutiles.
+- Les sequences contiennent uniquement les actions de la route jouable ; les
+  checklists, alertes, compteurs, inventaires et annexes restent des dossiers
+  de reference clairement separes dans le sommaire.
+
+### Regle active - verification et livraison
+
+- Chaque modification se termine par validation catalogue + guides, build,
+  preflight strict, audit qualite, lint, smoke tests, controle local desktop et
+  mobile, puis verification du diff.
+- Chaque commit de modification bump la version du site de `0.01`, committe
+  puis pousse la livraison terminee. Les questions, pauses, diagnostics en
+  lecture seule et blocages externes ne creent ni commit vide ni push.

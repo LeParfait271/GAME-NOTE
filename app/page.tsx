@@ -227,7 +227,7 @@ const guides: Guide[] = [
       "Chapitres, Crossed Paths, jobs avancés, équipements Battle-Tested et nettoyage final.",
     highlight:
       "À surveiller : les actions de ville, les jobs avancés et le boss optionnel final.",
-    meta: ["33/33 Steam", "8 voyageurs", "Sans spoiler"],
+    meta: ["33/33 Steam", "8 voyageurs", "Spoilers autorisés"],
   },
   {
     id: "after-years",

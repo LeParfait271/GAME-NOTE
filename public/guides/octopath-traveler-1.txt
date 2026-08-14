@@ -28,8 +28,8 @@ La sauvegarde principale doit finir avec :
 
 Il faut prévoir **une seconde sauvegarde courte** pour les deux succès suivants :
 
-- **Lone Traveler** : terminer l’histoire du personnage de départ sans recruter personne ;
-- **Fleetfoot** : terminer cette même histoire en moins de huit heures environ.
+- **Voyageur solitaire** : terminer l’histoire du personnage de départ sans recruter personne ;
+- **Pied léger** : terminer cette même histoire en moins de huit heures environ.
 
 Ces deux succès se font très bien ensemble avec **Tressa**, sans toucher à la sauvegarde principale. Steam conserve les succès déjà obtenus, même si cette seconde partie est abandonnée après les crédits.
 
@@ -39,8 +39,8 @@ Commence avec **Cyrus**.
 
 Il reste obligatoire dans l’équipe jusqu’à son chapitre 4, mais c’est le meilleur départ pour une partie 100 % :
 
-- **Scruter** révèle les objets cachés et permet de remplir rapidement *Eagle-Eyed* ;
-- **Étudier l’ennemi** révèle les faiblesses et sécurise *Strategist* ;
+- **Scruter** révèle les objets cachés et permet de remplir rapidement *Œil de lynx* ;
+- **Étudier l’ennemi** révèle les faiblesses et sécurise *Stratège* ;
 - ses attaques élémentaires couvrent très bien le début du jeu.
 
 Évite de commencer avec H’aanit pendant la partie principale : son chapitre 1 contient un PNJ temporaire avec un objet caché. Ce dernier ne semble pas indispensable au succès, mais une partie qui vise le 100 % littéral doit le récupérer avec Cyrus déjà disponible.
@@ -57,7 +57,7 @@ Il reste obligatoire dans l’équipe jusqu’à son chapitre 4, mais c’est le
 6. dans les combats, utilise **Étudier l’ennemi** sur chaque nouveau type jusqu’à remplir toutes ses faiblesses ;
 7. avant de quitter un donjon, vérifie le coffre de fin, les embranchements et le mini-plan.
 
-Pour *Collector*, l’inventaire n’est pas une liste de collection : un objet consommé reste toutefois validé. Par prudence, garde les équipements uniques et les objets clés jusqu’à l’obtention du succès.
+Pour *Collectionneur*, l’inventaire n’est pas une liste de collection : un objet consommé reste toutefois validé. Par prudence, garde les équipements uniques et les objets clés jusqu’à l’obtention du succès.
 
 ## Les alertes qui évitent une nouvelle partie
 
@@ -70,13 +70,13 @@ Pour *Collector*, l’inventaire n’est pas une liste de collection : un objet 
 | Chapitre 2 de Thérion à Noblecour | Scruter tous les PNJ de l’entrée avant de conclure le chapitre | Objet temporaire de PNJ |
 | Avant le récit « The Price of Vengeance » | À Duskbarrow, scruter le **Crest-bearing Swindler** | Objet caché **Old Coin** ; le PNJ disparaît après le duel |
 | Dès le début du chapitre 3 d’Olberic | À Bonne-Source, scruter Bale et son garde dans la caserne | Objets cachés **Heavy Coin Pouch** |
-| Chapitre 3 de Cyrus | Dans la fosse de Yvon’s Birthplace, ouvrir le coffre contenant **Bone** avant d’attendre | Unique coffre manquable de *Treasure Hunter* |
+| Chapitre 3 de Cyrus | Dans la fosse de Yvon’s Birthplace, ouvrir le coffre contenant **Bone** avant d’attendre | Unique coffre manquable de *Chasseur de trésors* |
 | Chapitre 3 de Primrose | Voler au moins une fois l’**Obsidian Garb** à un Obsidian Officer pendant le combat | Objet d’équipement difficile à récupérer ensuite |
-| Avant les sixième chapitres 2–4 | Sur Moonstruck Coast / West Goldshore Coast, analyser **Sea Birdian IV** et **Buccaneer I** à danger ≤31 | Faiblesses requises par *Strategist* |
+| Avant les sixième chapitres 2–4 | Sur Moonstruck Coast / West Goldshore Coast, analyser **Sea Birdian IV** et **Buccaneer I** à danger ≤31 | Faiblesses requises par *Stratège* |
 | Après « Arianna Again (I) » et avant (II) | Sur Trail to the Whitewood, scruter le Traveler et récupérer son objet caché | Objet caché **Inspiriting Plum (M)** |
-| Après le boss du chapitre 4 de Cyrus | Dans la bibliothèque, scruter les deux livres ordinaires avant le tome central | Objet clé **Original Tome** pour *Collector* |
+| Après le boss du chapitre 4 de Cyrus | Dans la bibliothèque, scruter les deux livres ordinaires avant le tome central | Objet clé **Original Tome** pour *Collectionneur* |
 
-Les quatre objets cachés qui comptent réellement pour *Eagle-Eyed* et qui sont les plus souvent ratés sont ceux de **Zeph**, **Meryl**, **Bale** et du **Crest-bearing Swindler**. Récupère quand même les autres objets temporaires de la table pour obtenir un inventaire complet.
+Les quatre objets cachés qui comptent réellement pour *Œil de lynx* et qui sont les plus souvent ratés sont ceux de **Zeph**, **Meryl**, **Bale** et du **Crest-bearing Swindler**. Récupère quand même les autres objets temporaires de la table pour obtenir un inventaire complet.
 
 ## Sauvegardes de sécurité
 
@@ -100,11 +100,11 @@ Crée une troisième sauvegarde juste avant :
 
 Termine le chapitre 1 de Cyrus dans les souterrains de l’académie. Pendant le tutoriel :
 
-- utilise **Scruter** sur le premier PNJ disponible pour débloquer *In the Know* ;
+- utilise **Scruter** sur le premier PNJ disponible pour débloquer *Scrutateur* ;
 - utilise **Étudier l’ennemi** sur chaque famille de monstre ;
-- fuis au moins une fois pour *Better Safe Than Sorry* ;
-- lance une attaque au niveau de boost 4 pour *Ultimate Power* ;
-- combats dix ennemis pour *Novice Scrapper*.
+- fuis au moins une fois pour *Prudence est mère de sûreté* ;
+- lance une attaque au niveau de boost 4 pour *Puissance ultime* ;
+- combats dix ennemis pour *Pugiliste novice*.
 
 Avant de quitter Atlasdam, ouvre les coffres du palais et de la porte du palais, puis scrute tous les PNJ. Dans les boutiques, achète au moins un objet et, dès que Thérion sera recruté, reviens ouvrir les coffres violets.
 
@@ -123,7 +123,7 @@ Avant de quitter Rippletide :
 - scrute tous les PNJ et ouvre tous les coffres accessibles ;
 - utilise **Collecte** avec Tressa dans les combats pour constituer une réserve de feuilles.
 
-Tu débloques ici les premiers succès de progression liés à l’histoire de Tressa et, si tu ne l’as pas déjà fait, *Bargain Hunter* en achetant un objet.
+Tu débloques ici les premiers succès de progression liés à l’histoire de Tressa et, si tu ne l’as pas déjà fait, *Chineur averti* en achetant un objet.
 
 ### 0.3 Recrutement de Thérion — Bolderfall
 
@@ -147,7 +147,7 @@ Termine le chapitre 1 d’Alfyn dans la Grotte de Rhiyo. Dès que le chapitre es
 3. termine **Meryl, Lost then Found (I)** ;
 4. termine **For Want of Fish** et **A Sweet Reunion**.
 
-Cette étape protège à la fois *Eagle-Eyed* et *Collector*. Les changements de position de Meryl et de Zeph sont liés aux chapitres et aux récits annexes, pas à une simple visite de la ville.
+Cette étape protège à la fois *Œil de lynx* et *Collectionneur*. Les changements de position de Meryl et de Zeph sont liés aux chapitres et aux récits annexes, pas à une simple visite de la ville.
 
 ### 0.5 Recrutement de Primrose — Sunshade
 
@@ -161,7 +161,7 @@ Scrute ou questionne tous les habitants avant d’utiliser un duel pour une quê
 
 ### 0.6 Recrutement d’Olberic — Cobbleston
 
-Termine le chapitre 1 d’Olberic au repaire des brigands. Dès qu’Olberic est disponible, obtiens le succès **Training** : défie tous les villageois de Cobbleston au moins une fois et gagne chaque duel nécessaire.
+Termine le chapitre 1 d’Olberic au repaire des brigands. Dès qu’Olberic est disponible, obtiens le succès **Entraînement** : défie tous les villageois de Cobbleston au moins une fois et gagne chaque duel nécessaire.
 
 Termine aussi :
 
@@ -191,7 +191,7 @@ Termine le chapitre 1 d’Ophilia dans la Grotte des Origines. À Flamesgrace, t
 - **The Slumbering Giant** ;
 - **Sir Miles, Servant of the Flame (I)**.
 
-À la fin du premier circuit, les huit voyageurs sont recrutés et les succès *Setting Out* sont normalement tous obtenus. Vérifie la liste Steam avant de continuer : il doit rester les succès de chapitres, de jobs et de complétion.
+À la fin du premier circuit, les huit voyageurs sont recrutés et les huit succès **Départ** sont normalement tous obtenus. Vérifie la liste Steam avant de continuer : il doit rester les succès de chapitres, de jobs et de complétion.
 
 ---
 
@@ -226,7 +226,7 @@ Profite de cette boucle pour :
 - ouvrir tous les coffres des deux côtes ;
 - scruter tous les habitants ;
 - terminer **In Search of Father (II)** si **In Search of Father (I)** est déjà fait ;
-- obtenir le succès *Strategist* plus tard sans dépendre d’un combat devenu inaccessible.
+- obtenir le succès *Stratège* plus tard sans dépendre d’un combat devenu inaccessible.
 
 ---
 
@@ -236,10 +236,10 @@ Fais les chapitres dans cet ordre. Il conserve les niveaux dans une fourchette r
 
 | Étape | Voyageur | Ville / donjon | Boss ou combat final | Succès à surveiller |
 |---:|---|---|---|---|
-| 2.1 | Cyrus | Quarrycrest — Sewers | Gideon | *Traces of the Tome* commence après ses indices |
+| 2.1 | Cyrus | Quarrycrest — Sewers | Gideon | *Sur les traces du livre* commence après ses indices |
 | 2.2 | Tressa | Quarrycrest — Morlock’s Manse | Omar | continue **In Search of Father (I)** à Noblecourt après Kit |
 | 2.3 | Thérion | Noblecourt — Orlick’s Manse | Orlick | pendant ce chapitre, scrute tous les PNJ de l’entrée |
-| 2.4 | Primrose | Stillsnow — Obsidian Parlor | Rufus | fais **Setting Out** dès qu’il apparaît |
+| 2.4 | Primrose | Stillsnow — Obsidian Parlor | Rufus | fais le **Départ – Vengeance** dès qu’il apparaît |
 | 2.5 | Ophilia | Saintsbridge — The Murkwood | Hróðvitnir | fais les récits de Riverlands disponibles |
 | 2.6 | Alfyn | Goldshore — Caves of Azure | Vanessa | vérifie les côtes si tu n’as pas encore les deux ennemis rares |
 | 2.7 | Olberic | Victors Hollow — Arena | Gustav | complète le tournoi jusqu’au bout |
@@ -290,7 +290,7 @@ Après les huit chapitres 2, fais une grande boucle de nettoyage avant les chapi
 - **Loch of the Lost King** ;
 - les caves optionnelles signalées sur la carte du monde.
 
-Pour chaque donjon : ouvre tous les coffres, y compris le violet, puis analyse chaque famille de monstre avec Cyrus. Certains boss optionnels peuvent être revus : analyse leurs faiblesses avant de les vaincre, même si une liste de suivi indique qu’ils ne sont pas indispensables à *Strategist*.
+Pour chaque donjon : ouvre tous les coffres, y compris le violet, puis analyse chaque famille de monstre avec Cyrus. Certains boss optionnels peuvent être revus : analyse leurs faiblesses avant de les vaincre, même si une liste de suivi indique qu’ils ne sont pas indispensables à *Stratège*.
 
 Ne cherche pas encore à battre les quatre gardiens de jobs avancés si ton équipe est juste. Ils sont de niveau 50 environ et seront beaucoup plus simples après les chapitres 3 et les meilleurs équipements de Grandport, Northreach et Riverford.
 
@@ -360,7 +360,7 @@ Termine le chapitre 4 d’Ophilia à Wispermill. Puis fais :
 
 Termine le chapitre 4 d’Olberic à Riverford. Une fois le chapitre d’Ophilia également terminé, complète **Back with Bale** à Wellspring en scrutant l’évêque Donovan à Goldshore.
 
-Le succès **To Protect Those in Need** tombe à la fin de l’histoire d’Olberic.
+Le succès **Éternel protecteur** tombe à la fin de l’histoire d’Olberic.
 
 ### 5.4 Alfyn IV
 
@@ -371,7 +371,7 @@ Termine le chapitre 4 d’Alfyn à Orewell. Ensuite :
 - récupère la lettre de Zeph, apporte-la à Mercedes dans la bibliothèque d’Atlasdam ;
 - termine **Zeph and Mercedes (II)** en ramenant la lettre de Mercedes à Zeph.
 
-Le succès de l’histoire d’Alfyn est **His Hero’s Words**.
+Le succès de l’histoire d’Alfyn est **Les paroles de son héros**.
 
 ### 5.5 Tressa IV
 
@@ -382,13 +382,13 @@ Termine le chapitre 4 de Tressa à Grandport. Puis complète :
 - **Keeping Up with the Wyndhams** ;
 - **Princess Mary, Redux** si le récit est encore en attente.
 
-Tu obtiens **The Next Chapter** à la fin de l’histoire de Tressa.
+Tu obtiens **Le chapitre suivant** à la fin de l’histoire de Tressa.
 
 ### 5.6 Thérion IV
 
 Termine le chapitre 4 de Thérion à Northreach. Ensuite, termine **Mikk and Makk Make Good** si tu ne l’avais pas fait après le chapitre 2 de Tressa/Thérion, puis **Heathcote’s Hijinks** à Bolderfall.
 
-Tu obtiens **A Wanderer’s Life** à la fin de l’histoire de Thérion.
+Tu obtiens **Une vie de vagabond** à la fin de l’histoire de Thérion.
 
 ### 5.7 Cyrus IV — à faire avec méthode
 
@@ -400,7 +400,7 @@ Termine le chapitre 4 de Cyrus à Duskbarrow et les Ruins of Eld. Après le boss
 4. scrute ensuite **From the Far Reaches of Hell** ;
 5. vérifie que **Original Tome** est bien dans les objets clés.
 
-Si le tome original n’apparaît pas, recharge la sauvegarde créée juste après le boss et refais les trois interactions dans cet ordre. Le succès de l’histoire est **For the Future’s Sake**.
+Si le tome original n’apparaît pas, recharge la sauvegarde créée juste après le boss et refais les trois interactions dans cet ordre. Le succès de l’histoire est **Pour les générations futures**.
 
 ### 5.8 Dernier balayage des récits de chapitre 4
 
@@ -440,12 +440,12 @@ Ordre conseillé : **Starseer**, **Runelord**, **Sorcerer**, puis **Warmaster**.
 
 Les succès attendus sont :
 
-- *Dreisang’s Wisdom*, puis *Dreisang’s Spell* ;
-- *Balogar’s Wisdom*, puis *Balogar’s Blade* ;
-- *Steorra’s Wisdom*, puis *Steorra’s Prophecy* ;
-- *Winnehild’s Wisdom*, puis *Winnehild’s Battle Cry*.
+- *Sagesse de Drysang*, puis *Sortilège de Drysang* ;
+- *Sagesse de Balogar*, puis *Lame de Balogar* ;
+- *Sagesse de Stéorra*, puis *Prophétie de Stéorra* ;
+- *Sagesse de Winnehild*, puis *Pugnacité de Winnehild*.
 
-Quand les huit jobs secondaires et les quatre jobs avancés sont maîtrisés, vérifie **Skillful** et **Full Support**. Il ne suffit pas de débloquer un job : toutes les compétences doivent être achetées.
+Quand les huit jobs secondaires et les quatre jobs avancés sont maîtrisés, vérifie **Fort apte** et **Soutien sans faille**. Il ne suffit pas de débloquer un job : toutes les compétences doivent être achetées.
 
 ---
 
@@ -530,9 +530,9 @@ Après leur destruction, le corps principal de Galdera devient vulnérable à :
 - Glace ;
 - Lumière.
 
-Brise-le, applique les bonus de dégâts, puis utilise une compétence divine de Warmaster boostée. **Surpassing Power** permet de dépasser 9 999 dégâts ; avec un personnage bien équipé, une attaque peut atteindre 99 999 et débloquer **The Strongest Sojourner**.
+Brise-le, applique les bonus de dégâts, puis utilise une compétence divine de Warmaster boostée. **Surpassing Power** permet de dépasser 9 999 dégâts ; avec un personnage bien équipé, une attaque peut atteindre 99 999 et débloquer **Poids lourd**.
 
-La victoire termine **At Journey’s End**, donne **Closure** et récompense le **Spurning Ribbon**. Elle doit faire apparaître **A Story All Your Own** si tous les autres succès sont déjà acquis.
+La victoire termine **At Journey’s End**, donne **Une page tournée** et récompense le **Spurning Ribbon**. Elle doit faire apparaître **Une histoire bien à vous** si tous les autres succès sont déjà acquis.
 
 ---
 
@@ -717,113 +717,113 @@ Les noms français peuvent différer selon la langue d’affichage. Le nom de la
 
 ## CHECKLIST FINALE - 88/88 SUCCES STEAM
 
-Les noms sont ceux de la page Steam ; les descriptions sont condensées en français. Coche chaque ligne au moment où elle apparaît.
+Les intitulés sont ceux de la liste Steam française officielle ; les descriptions sont condensées en français. Coche chaque ligne au moment où elle apparaît.
 
 ### Début de partie et actions spéciales
 
-- [ ] **Novice Scrapper** — gagner 10 combats.
-- [ ] **Ultimate Power** — utiliser un boost de niveau 4.
-- [ ] **Better Safe Than Sorry** — fuir un combat.
-- [ ] **In the Know** — scruter quelqu’un pour la première fois.
-- [ ] **Sticky-Fingered** — voler un objet pour la première fois.
-- [ ] **Lead the Way** — guider quelqu’un pour la première fois.
-- [ ] **Start Something** — provoquer un combat pour la première fois.
-- [ ] **Bargain Hunter** — acheter un objet pour la première fois.
-- [ ] **A New Challenger** — défier quelqu’un pour la première fois.
-- [ ] **Irresistible** — séduire quelqu’un pour la première fois.
-- [ ] **Tell Me More** — questionner quelqu’un pour la première fois.
-- [ ] **Fighter** — gagner 100 combats.
-- [ ] **Brawler** — gagner 200 combats.
-- [ ] **Traveler** — jouer plus de 10 heures.
-- [ ] **Seasoned Traveler** — jouer plus de 50 heures.
-- [ ] **Renowned Traveler** — jouer plus de 100 heures.
+- [ ] **Pugiliste novice** — gagner 10 combats.
+- [ ] **Puissance ultime** — utiliser un boost de niveau 4.
+- [ ] **Prudence est mère de sûreté** — fuir un combat.
+- [ ] **Scrutateur** — scruter quelqu’un pour la première fois.
+- [ ] **Pickpocket** — voler un objet pour la première fois.
+- [ ] **Guide** — guider quelqu’un pour la première fois.
+- [ ] **Provocateur** — provoquer un combat pour la première fois.
+- [ ] **Chineur averti** — acheter un objet pour la première fois.
+- [ ] **Un nouveau compétiteur** — défier quelqu’un pour la première fois.
+- [ ] **Irrésistible** — séduire quelqu’un pour la première fois.
+- [ ] **Dites-m'en plus** — questionner quelqu’un pour la première fois.
+- [ ] **Combattant** — gagner 100 combats.
+- [ ] **Bagarreur** — gagner 200 combats.
+- [ ] **Voyageur** — jouer plus de 10 heures.
+- [ ] **Voyageur chevronné** — jouer plus de 50 heures.
+- [ ] **Voyageur de renom** — jouer plus de 100 heures.
 
 ### Départs et progression des histoires
 
-- [ ] **Setting Out – Freedom** — commencer l’histoire de Thérion.
-- [ ] **Setting Out – The Search for Truth** — commencer l’histoire de Cyrus.
-- [ ] **Setting Out – For Master** — commencer l’histoire d’H’aanit.
-- [ ] **Setting Out – The Kindling** — commencer l’histoire d’Ophilia.
-- [ ] **Setting Out – In Search of Treasure** — commencer l’histoire de Tressa.
-- [ ] **Setting Out – Renewed Purpose** — commencer l’histoire d’Olberic.
-- [ ] **Setting Out – Revenge** — commencer l’histoire de Primrose.
-- [ ] **Setting Out – Healing** — commencer l’histoire d’Alfyn.
-- [ ] **Chasing the Dragonstones** — progresser dans l’histoire de Thérion après Orlick.
-- [ ] **The Merchants’ Fair** — progresser dans l’histoire de Tressa après Morlock.
-- [ ] **Traces of the Tome** — avancer dans l’enquête de Cyrus avec Odette.
-- [ ] **Gentle Guidance** — aider trois enfants pour Ophilia.
-- [ ] **Faith Shall Be Your Shield** — vaincre Rufus pour Primrose.
-- [ ] **Reasons for Wielding** — gagner le tournoi d’Olberic et partir vers le désert.
-- [ ] **Chasing Master’s Footprints** — retrouver la piste de Z’aanta avec H’aanit.
-- [ ] **The Quack** — démasquer Vanessa avec Alfyn.
-- [ ] **The Twin Blades of Hornburg** — progresser dans l’histoire d’Olberic après Erhardt.
-- [ ] **“Partner”** — obtenir puis perdre la pierre émeraude avec Thérion.
-- [ ] **The Most Precious Treasure** — progresser dans l’histoire de Tressa après Leon.
-- [ ] **Life’s Worth** — atteindre le tournant de l’histoire d’Alfyn.
-- [ ] **The Savior** — secourir l’enfant dans l’histoire d’Ophilia.
-- [ ] **The Demonic Headmaster** — vaincre Yvon avec Cyrus.
-- [ ] **Dragon Hunting** — vaincre le dragon avec H’aanit.
-- [ ] **A Familiar Place** — vaincre Albus avec Primrose.
-- [ ] **A Wanderer’s Life** — récupérer les deux pierres de Thérion.
-- [ ] **For the Future’s Sake** — terminer le chapitre 4 de Cyrus.
-- [ ] **A Hill to Remember** — terminer le chapitre 4 d’Ophilia.
-- [ ] **To Protect Those in Need** — terminer le chapitre 4 d’Olberic.
-- [ ] **The Next Chapter** — terminer le chapitre 4 de Tressa.
-- [ ] **A Vow Fulfilled** — terminer le chapitre 4 de Primrose.
-- [ ] **Master and Prentice** — terminer le chapitre 4 d’H’aanit.
-- [ ] **His Hero’s Words** — terminer le chapitre 4 d’Alfyn.
+- [ ] **Départ - Liberté** — commencer l’histoire de Thérion.
+- [ ] **Départ – À la recherche de la vérité** — commencer l’histoire de Cyrus.
+- [ ] **Départ – Pour le maître** — commencer l’histoire d’H’aanit.
+- [ ] **Départ – L'Attisement** — commencer l’histoire d’Ophilia.
+- [ ] **Départ - En quête de trésors** — commencer l’histoire de Tressa.
+- [ ] **Départ – Une détermination renouvelée** — commencer l’histoire d’Olberic.
+- [ ] **Départ – Vengeance** — commencer l’histoire de Primrose.
+- [ ] **Départ – Guérison** — commencer l’histoire d’Alfyn.
+- [ ] **À la recherche des pierres draconiques** — progresser dans l’histoire de Thérion après Orlick.
+- [ ] **La Foire marchande** — progresser dans l’histoire de Tressa après Morlock.
+- [ ] **Sur les traces du livre** — avancer dans l’enquête de Cyrus avec Odette.
+- [ ] **Conseils bienveillants** — aider trois enfants pour Ophilia.
+- [ ] **La foi est ton bouclier** — vaincre Rufus pour Primrose.
+- [ ] **Une raison de se battre** — gagner le tournoi d’Olberic et partir vers le désert.
+- [ ] **Sur les traces du maître** — retrouver la piste de Z’aanta avec H’aanit.
+- [ ] **Le charlatan** — démasquer Vanessa avec Alfyn.
+- [ ] **Les lames jumelles de Cornebourg** — progresser dans l’histoire d’Olberic après Erhardt.
+- [ ] **« Associé »** — obtenir puis perdre la pierre émeraude avec Thérion.
+- [ ] **Le plus précieux des trésors** — progresser dans l’histoire de Tressa après Leon.
+- [ ] **La valeur de la vie** — atteindre le tournant de l’histoire d’Alfyn.
+- [ ] **Le Sauveur** — secourir l’enfant dans l’histoire d’Ophilia.
+- [ ] **Le directeur diabolique** — vaincre Yvon avec Cyrus.
+- [ ] **Chasse au dragon** — vaincre le dragon avec H’aanit.
+- [ ] **Un lieu familier** — vaincre Albus avec Primrose.
+- [ ] **Une vie de vagabond** — récupérer les deux pierres de Thérion.
+- [ ] **Pour les générations futures** — terminer le chapitre 4 de Cyrus.
+- [ ] **Leur endroit préféré** — terminer le chapitre 4 d’Ophilia.
+- [ ] **Éternel protecteur** — terminer le chapitre 4 d’Olberic.
+- [ ] **Le chapitre suivant** — terminer le chapitre 4 de Tressa.
+- [ ] **Une promesse réalisée** — terminer le chapitre 4 de Primrose.
+- [ ] **Maître et apprentie** — terminer le chapitre 4 d’H’aanit.
+- [ ] **Les paroles de son héros** — terminer le chapitre 4 d’Alfyn.
 
 ### Jobs
 
-- [ ] **Brand’s Wisdom** — débloquer le job secondaire Guerrier.
-- [ ] **Aeber’s Wisdom** — débloquer le job secondaire Voleur.
-- [ ] **Draefendi’s Wisdom** — débloquer le job secondaire Chasseur.
-- [ ] **Alephan’s Wisdom** — débloquer le job secondaire Érudit.
-- [ ] **Dohter’s Wisdom** — débloquer le job secondaire Apothicaire.
-- [ ] **Aelfric’s Wisdom** — débloquer le job secondaire Clerc.
-- [ ] **Sealticge’s Wisdom** — débloquer le job secondaire Danseur.
-- [ ] **Bifelgan’s Wisdom** — débloquer le job secondaire Marchand.
-- [ ] **Alephan’s Enlightenment** — maîtriser le job Érudit.
-- [ ] **Aeber’s Reckoning** — maîtriser le job Voleur.
-- [ ] **Aelfric’s Auspices** — maîtriser le job Clerc.
-- [ ] **Brand’s Thunder** — maîtriser le job Guerrier.
-- [ ] **Draefendi’s Rage** — maîtriser le job Chasseur.
-- [ ] **Bifelgan’s Bounty** — maîtriser le job Marchand.
-- [ ] **Sealticge’s Seduction** — maîtriser le job Danseur.
-- [ ] **Dohter’s Charity** — maîtriser le job Apothicaire.
-- [ ] **Dreisang’s Wisdom** — débloquer le Sorcier.
-- [ ] **Balogar’s Wisdom** — débloquer le Runelord.
-- [ ] **Steorra’s Wisdom** — débloquer le Starseer.
-- [ ] **Winnehild’s Wisdom** — débloquer le Warmaster.
-- [ ] **Dreisang’s Spell** — maîtriser le Sorcier.
-- [ ] **Balogar’s Blade** — maîtriser le Runelord.
-- [ ] **Steorra’s Prophecy** — maîtriser le Starseer.
-- [ ] **Winnehild’s Battle Cry** — maîtriser le Warmaster.
-- [ ] **Full Support** — apprendre toutes les compétences de soutien.
-- [ ] **Skillful** — apprendre toutes les compétences actives.
+- [ ] **Sagesse de Brand** — débloquer le job secondaire Guerrier.
+- [ ] **Sagesse d'Aeber** — débloquer le job secondaire Voleur.
+- [ ] **Sagesse de Draefendi** — débloquer le job secondaire Chasseur.
+- [ ] **Sagesse d'Aléphan** — débloquer le job secondaire Érudit.
+- [ ] **Sagesse de Dohter** — débloquer le job secondaire Apothicaire.
+- [ ] **Sagesse d'Aelfric** — débloquer le job secondaire Clerc.
+- [ ] **Sagesse de Sealticge** — débloquer le job secondaire Danseur.
+- [ ] **Sagesse de Bifelgan** — débloquer le job secondaire Marchand.
+- [ ] **Révélation d'Aléphan** — maîtriser le job Érudit.
+- [ ] **Jugement d'Aeber** — maîtriser le job Voleur.
+- [ ] **Auspices d'Aelfric** — maîtriser le job Clerc.
+- [ ] **Tonnerre de Brand** — maîtriser le job Guerrier.
+- [ ] **Rage de Draefendi** — maîtriser le job Chasseur.
+- [ ] **Largesse de Bifelgan** — maîtriser le job Marchand.
+- [ ] **Charme de Sealticge** — maîtriser le job Danseur.
+- [ ] **Charité de Dohter** — maîtriser le job Apothicaire.
+- [ ] **Sagesse de Drysang** — débloquer le Sorcier.
+- [ ] **Sagesse de Balogar** — débloquer le Runelord.
+- [ ] **Sagesse de Stéorra** — débloquer le Starseer.
+- [ ] **Sagesse de Winnehild** — débloquer le Warmaster.
+- [ ] **Sortilège de Drysang** — maîtriser le Sorcier.
+- [ ] **Lame de Balogar** — maîtriser le Runelord.
+- [ ] **Prophétie de Stéorra** — maîtriser le Starseer.
+- [ ] **Pugnacité de Winnehild** — maîtriser le Warmaster.
+- [ ] **Soutien sans faille** — apprendre toutes les compétences de soutien.
+- [ ] **Fort apte** — apprendre toutes les compétences actives.
 
 ### Complétion
 
-- [ ] **Moneybags** — obtenir 80 000 feuilles.
-- [ ] **Millionaire** — obtenir 1 000 000 de feuilles.
-- [ ] **Training** — défier tous les villageois de Cobbleston.
-- [ ] **Worth the Detour** — terminer les 101 récits annexes.
-- [ ] **Master of Orsterra** — visiter tous les lieux de la carte.
-- [ ] **Eagle-Eyed** — trouver tous les objets cachés.
-- [ ] **Treasure Hunter** — ouvrir les 734 coffres.
-- [ ] **Collector** — acquérir chaque objet.
-- [ ] **Strategist** — découvrir toutes les faiblesses ennemies.
-- [ ] **The Strongest Sojourner** — infliger les dégâts maximum.
-- [ ] **Closure** — vaincre Galdera et sceller la Porte de Finis.
-- [ ] **Fleetfoot** — terminer l’histoire de départ sous la limite de temps.
-- [ ] **Lone Traveler** — terminer l’histoire de départ sans recruter d’autre voyageur.
-- [ ] **A Story All Your Own** — débloquer les 87 autres succès.
+- [ ] **Plein aux as** — obtenir 80 000 feuilles.
+- [ ] **Millionnaire** — obtenir 1 000 000 de feuilles.
+- [ ] **Entraînement** — défier tous les villageois de Cobbleston.
+- [ ] **Ça vaut le détour** — terminer les 101 récits annexes.
+- [ ] **Maître d'Orsterra** — visiter tous les lieux de la carte.
+- [ ] **Œil de lynx** — trouver tous les objets cachés.
+- [ ] **Chasseur de trésors** — ouvrir les 734 coffres.
+- [ ] **Collectionneur** — acquérir chaque objet.
+- [ ] **Stratège** — découvrir toutes les faiblesses ennemies.
+- [ ] **Poids lourd** — infliger les dégâts maximum.
+- [ ] **Une page tournée** — vaincre Galdera et sceller la Porte de Finis.
+- [ ] **Pied léger** — terminer l’histoire de départ sous la limite de temps.
+- [ ] **Voyageur solitaire** — terminer l’histoire de départ sans recruter d’autre voyageur.
+- [ ] **Une histoire bien à vous** — débloquer les 87 autres succès.
 
 ---
 
 VERIFICATION FINALE - CONTROLE DES COLLECTIONS
 
-### Treasure Hunter — les 734 coffres
+### Chasseur de trésors — les 734 coffres
 
 Compte les coffres par zone, pas seulement par donjon. Les coffres violets nécessitent Thérion. Le coffre de **Bone** dans la fosse de Yvon’s Birthplace est le seul qui peut disparaître définitivement.
 
@@ -834,13 +834,13 @@ Si le succès ne tombe pas après le 734e coffre, recharge la dernière archive 
 - les coffres des donjons d’histoire revisités après le boss ;
 - Yvon’s Birthplace, avant toute autre vérification.
 
-### Eagle-Eyed — les 152 objets cachés
+### Œil de lynx — les 152 objets cachés
 
 Un objet caché apparaît dans le mini-plan après **Scruter/Questionner** le bon PNJ. Chaque ville doit être entièrement scrutée, puis revisitée lorsque le chapitre ou le récit d’un voyageur change l’emplacement des habitants.
 
 Les objets temporaires de la table des alertes sont à faire même si certaines listes indiquent qu’ils ne sont pas indispensables au succès.
 
-### Collector — chaque objet
+### Collectionneur — chaque objet
 
 Pour éviter le dernier objet introuvable :
 
@@ -853,7 +853,7 @@ Pour éviter le dernier objet introuvable :
 
 Les objets des marchands, les objets volés, les objets cachés, les coffres, les récompenses de récits et les objets clés peuvent tous entrer dans le suivi de collecte.
 
-### Strategist — toutes les faiblesses
+### Stratège — toutes les faiblesses
 
 La méthode la plus sûre est de garder Cyrus dans l’équipe à chaque nouvelle zone :
 
@@ -865,7 +865,7 @@ La méthode la plus sûre est de garder Cyrus dans l’équipe à chaque nouvell
 
 Les variantes numérotées ne partagent pas automatiquement leurs faiblesses : **Sea Birdian I** et **Sea Birdian IV**, par exemple, doivent être traités comme deux entrées différentes.
 
-### The Strongest Sojourner
+### Poids lourd
 
 Méthode fiable :
 
@@ -873,13 +873,13 @@ Méthode fiable :
 2. équipe **Surpassing Power**, **BP Eater**, **Physical Prowess** et **Fortitude** ;
 3. place-le à bas PV pour profiter de Fortitude, sans le laisser mourir ;
 4. casse un boss avec une défense physique réduite ;
-5. utilise **Winnehild’s Battle Cry** au niveau de boost maximal.
+5. utilise **Pugnacité de Winnehild** au niveau de boost maximal.
 
 Le nombre à viser est 99 999 dégâts sur une seule frappe ou une seule séquence comptabilisée par le jeu.
 
 ---
 
-## Seconde sauvegarde — Lone Traveler + Fleetfoot
+## Seconde sauvegarde — Voyageur solitaire + Pied léger
 
 Crée une nouvelle partie et choisis **Tressa**. Cette sauvegarde ne sert pas à la collection.
 
@@ -904,7 +904,7 @@ Crée une nouvelle partie et choisis **Tressa**. Cette sauvegarde ne sert pas à
 8. fais Tressa IV à Grandport ;
 9. regarde les crédits jusqu’au déblocage des deux succès.
 
-Après le quatrième chapitre de Tressa, *Fleetfoot* puis *Lone Traveler* doivent apparaître. Si *Lone Traveler* n’apparaît pas, cela signifie qu’un autre voyageur a été recruté sur cette sauvegarde : recommence avec une partie neuve, sans utiliser les marqueurs de recrutement.
+Après le quatrième chapitre de Tressa, *Pied léger* puis *Voyageur solitaire* doivent apparaître. Si *Voyageur solitaire* n’apparaît pas, cela signifie qu’un autre voyageur a été recruté sur cette sauvegarde : recommence avec une partie neuve, sans utiliser les marqueurs de recrutement.
 
 ---
 
@@ -920,7 +920,7 @@ Cette annexe est la matrice de controle integree a la soluce. Elle vient du reco
 - **12/12** sanctuaires : 8 jobs secondaires et 4 jobs avances.
 - `[COFFRE]` **734/734** coffres ; les coffres violets exigent Therion.
 - `[COFFRE]` **152/152** objets caches valides par Scruter/Questionner.
-- **381/381** entrees de Strategist : 371 ennemis normaux + 10 mini-boss.
+- **381/381** entrees de Stratège : 371 ennemis normaux + 10 mini-boss.
 - `[BOSS]` Galdera vaincu a la Porte de Finis.
 
 ### A - Coffres : registre integral 734/734
@@ -2371,7 +2371,7 @@ Cette liste sert au rattrapage des declenchements places dans les Routes 0 a 4. 
 - [ ] **A Cub with No Name** - PNJ : Fearful Mother. Solution : Solution 1 - Guide / Allure: Beastmaster (Bolderfall) and bring him to Fearful Mother / Solution 2 - Scrutinize / Inquire: How to Train a Tiger from Scholar of Beasts (S'warkii).
 - [ ] [COFFRE] Recompense de **A Cub with No Name** : 7 000 feuilles / Beastly Scarf.
 
-### D - Strategist : 381 ennemis a analyser
+### D - Stratège : 381 ennemis a analyser
 
 Avec Cyrus, utilise Etudier l ennemi des la premiere rencontre et revele toutes les faiblesses. Les variantes numerotees sont distinctes. Les quatre ennemis manquables doivent etre analyses avant que leur zone ne change ; les mini-boss reapparaissent ensuite comme rencontres normales.
 
@@ -2759,7 +2759,7 @@ Avec Cyrus, utilise Etudier l ennemi des la premiere rencontre et revele toutes 
 
 #### Boss et ennemis uniques - registre separe
 
-Ils ne sont pas inclus dans les 381 lignes de Strategist, mais ils doivent -tre vaincus pour le nettoyage complet, les jobs avanc-s, les r-cits ou Galdera.
+Ils ne sont pas inclus dans les 381 lignes de Stratège, mais ils doivent -tre vaincus pour le nettoyage complet, les jobs avanc-s, les r-cits ou Galdera.
 - [ ] [BOSS] **Guardian of the First Flame** - Cave of Origin (1-4-7-11).
 - [ ] [BOSS] **Dark Wisp** - Cave of Origin (1-4-7-11).
 - [ ] [BOSS] **Russell** - Subterranean Study (1-4-7-11).
@@ -2856,7 +2856,7 @@ Ils ne sont pas inclus dans les 381 lignes de Strategist, mais ils doivent -tre 
 - [ ] [BOSS] **Devourer of Men** - Forest of No Return (48).
 - [ ] [BOSS] **Deadly Spore** - Forest of No Return (48).
 
-### E - Collector : inventaire de controle
+### E - Collectionneur : inventaire de controle
 
 Le succes demande d avoir obtenu chaque objet au moins une fois. Achete les nouvelles marchandises, vole les equipements des PNJ importants, prends les recompenses et conserve les objets uniques.
 
@@ -3877,14 +3877,14 @@ Le succes demande d avoir obtenu chaque objet au moins une fois. Achete les nouv
 
 ### F - Controle final avant de declarer le 100 %
 
-- [ ] [SUCCES] 88/88 succ-s Steam, dont Lone Traveler + Fleetfoot sur une sauvegarde courte s-par-e.
+- [ ] [SUCCES] 88/88 succ-s Steam, dont Voyageur solitaire + Pied léger sur une sauvegarde courte s-par-e.
 - [ ] [COFFRE] 734/734 coffres, dont Bone dans Yvon-s Birthplace avant le chapitre 3 de Cyrus.
 - [ ] [COFFRE] 152/152 objets caches, plus le bonus temporaire du h-raut de Lord Ciaran si l-on vise l-inventaire litt-ral.
 - [ ] 101/101 r-cits annexes et toutes les r-compenses encaiss-es.
 - [ ] 12/12 sanctuaires, huit jobs secondaires et quatre jobs avanc-s ma-tris-s.
-- [ ] 381/381 entr-es Strategist, avec Meep, Cactus Roller, Sea Birdian IV et Buccaneer I trait-s avant leur fen-tre.
+- [ ] 381/381 entr-es Stratège, avec Meep, Cactus Roller, Sea Birdian IV et Buccaneer I trait-s avant leur fen-tre.
 - [ ] [BOSS] Tous les donjons optionnels et Galdera termin-s.
-- [ ] [SAUVEGARDE] La sauvegarde principale et la sauvegarde Lone Traveler/Fleetfoot sont archiv-es s-par-ment.
+- [ ] [SAUVEGARDE] La sauvegarde principale et la sauvegarde Voyageur solitaire/Pied léger sont archiv-es s-par-ment.
 
 ---
 
@@ -3902,7 +3902,7 @@ Le succes demande d avoir obtenu chaque objet au moins une fois. Achete les nouv
 
 ## Sources de vérification et outil de suivi
 
-- [Liste officielle des 88 succès Steam](https://steamcommunity.com/stats/921570/achievements)
+- [Liste officielle française des 88 succès Steam](https://steamcommunity.com/stats/921570/achievements?l=french)
 - [Guide chronologique communautaire utilisé pour recouper les coffres et les points manquables](https://steamcommunity.com/sharedfiles/filedetails/?id=3612226658)
 - [Carte interactive avec zones, coffres, sanctuaires, monstres et 101 récits annexes](https://steamcommunity.com/sharedfiles/filedetails/?id=3729484643)
 - [Liste française des récits annexes et de leurs solutions](https://www.jeuxvideo.com/wikis-soluce-astuces/887725/liste-et-guide-des-quetes-annexes.htm)

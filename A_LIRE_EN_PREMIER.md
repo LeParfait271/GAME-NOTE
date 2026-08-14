@@ -50,7 +50,7 @@ Ce fichier fixe la méthode minimale avant toute modification visible du site.
 15. Les spoilers sont autorisés lorsqu'ils sont explicitement demandés par le
     propriétaire du projet : ne pas sacrifier une condition, une identité, une
     fin, une conséquence ou une solution exacte pour préserver une politique
-    anti-spoiler. Pour Expedition 33, la route doit donc pouvoir nommer les
+     de dissimulation. Pour Expedition 33, la route doit donc pouvoir nommer les
     révélations utiles au 100 %, tout en les plaçant dans l'ordre de jeu et en
     séparant clairement les fenêtres manquables, le post-game et les choix.
 16. Pour Expedition 33, ne valider la fiche qu'après comparaison croisée des
@@ -70,8 +70,8 @@ Ce fichier fixe la méthode minimale avant toute modification visible du site.
     succès Steam.
 20. Après une réécriture de guide, relire aussi sa carte catalogue : titre,
     sous-titre, description, alerte et badges doivent décrire le bon jeu et le
-    bon mode de révélation. Un ancien texte « sans spoiler » ou un résumé d'un
-    autre jeu invalide la livraison même si le TXT est correct.
+    bon mode de révélation. Une ancienne promesse incompatible ou un résumé
+    d'un autre jeu invalide la livraison même si le TXT est correct.
 21. Les icônes déduites automatiquement doivent rester contextuelles : un nom
     de zone, de village ou de personnage ne suffit pas pour une icône d'objet.
     Vérifier le sommaire et quelques étapes après chaque extension du vocabulaire
@@ -374,3 +374,45 @@ transformée en validation automatique quand c'est possible.
 - Le sommaire doit toujours afficher deux zones distinctes : parcours
   chronologique puis dossiers de reference ; le titre de la fiche n est jamais
   une sequence.
+
+### Regle active - toujours integrer les demandes - 14 aout 2026
+
+- Toute demande d ajout est une tache de production : jeu, guide, succes,
+  coffre, objet, icone, annexe, registre ou correction doit etre integre dans
+  la bonne source, le catalogue, la file de travail et l interface concernee.
+  Une mention dans une note ou un commentaire ne compte jamais comme ajout.
+- Rien de demande ne doit disparaitre par omission silencieuse. Si un element
+  n est pas encore verifie, il reste present avec un statut explicite
+  `planned`, `research`, `archive-rebuild` ou `hold`, jamais efface.
+- Les anciennes fiches peuvent etre sorties de la publication visible sur
+  demande, mais elles restent preservees dans les sources et leur statut
+  archive/visible est controle separement.
+
+### Regle active - methode editoriale complete
+
+- Une soluce est une route chronologique 100 % du jeu et des succes Steam,
+  avec spoilers autorises : conditions, lieux, coffres, objets, missables,
+  quetes, combats, fins et solutions necessaires doivent etre exploitables.
+- Avant d ecrire, recouper au moins cinq familles de sources independantes,
+  conserver une matrice de preuves, signaler les contradictions et ne jamais
+  recopier aveuglement une soluce.
+- Les noms de succes utilisent la liste Steam officielle dans la langue
+  francaise quand elle existe. Aucun nom ne doit etre traduit litteralement ou
+  invente ; le registre `docs/steam-achievements-fr.json` et le garde-fou
+  source doivent correspondre ligne par ligne.
+- Le TXT reste la source editoriale complete. La presentation premium peut
+  structurer les etapes, tableaux, coffres et dossiers, mais ne supprime ni
+  texte, ni objet, ni succes, ni preuve. `[COFFRE]` suffit pour les coffres et
+  objets a trouver ; les icones restent utiles et limitees.
+- Une sequence ne contient que la route jouable. Les compteurs, alertes,
+  checklists, registres et autres informations annexes vont dans les dossiers
+  de reference du sommaire.
+
+### Regle active - cloture obligatoire
+
+- Avant chaque modification terminee : validation des sources et du catalogue,
+  build, preflight strict, audit qualite, lint, smoke tests, controle local
+  desktop/mobile et verification du diff.
+- La version publique augmente de 0.01 au commit. Toute modification terminee
+  est committee puis poussee ; une question, une pause ou une lecture seule ne
+  cree ni commit vide ni push.

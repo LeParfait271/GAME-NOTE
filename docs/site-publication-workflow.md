@@ -272,3 +272,46 @@ traité comme une récompense d'action et non comme un coffre supplémentaire.
   une categorie distincte de dossiers de reference du sommaire.
 - Le controle final doit confirmer cette separation sur OT1, OT2 et Expedition
   33, puis build, preflight, audit, lint, smoke tests, commit et push.
+
+## Workflow canonique - toujours integrer les demandes - 14 aout 2026
+
+Toute demande utilisateur devient une tache suivie jusqu a sa vraie destination.
+Le travail ne se limite pas a noter une intention :
+
+- un nouveau jeu est ajoute au catalogue et a la queue avec son statut ;
+- un guide est ajoute a son TXT, sa fiche, ses registres, ses donnees de
+  publication et son rendu ;
+- un succes, coffre, objet, icone, annexe ou correction est integre a la source
+  et verifie dans l interface ;
+- si l element n est pas encore verifie, il reste present en `planned`,
+  `research`, `archive-rebuild` ou `hold`, jamais efface par omission ;
+- une fiche retiree de l accueil reste preservee dans l archive et ne redevient
+  visible qu apres une cloture complete.
+
+## Workflow editorial - soluce premium complete
+
+1. Fixer le perimetre : route chronologique exhaustive, 100 % du jeu et des
+   succes Steam, spoilers autorises, contenus optionnels et conditions de
+   rattrapage.
+2. Lire au moins cinq familles de sources independantes, conserver une matrice
+   de preuves, resoudre les contradictions et rediger une route originale.
+3. Relever les noms de succes sur la page Steam francaise officielle. Les
+   intitulés sont conserves sans traduction litterale dans
+   `docs/steam-achievements-fr.json`, puis compares ligne par ligne au TXT.
+4. Structurer la fiche sans perte : sequences pour la route jouable uniquement,
+   dossiers de reference pour alertes, checklists, compteurs, registres et
+   inventaires ; `[COFFRE]` est le marqueur commun des coffres et objets a
+   trouver.
+5. Controler la completude des lieux, coffres, objets, quetes, missables,
+   combats, solutions, fins et succes. Un compteur sans emplacement ni
+   condition exploitable ne vaut pas une soluce complete.
+
+## Workflow technique de cloture
+
+- Lancer validation catalogue + guides, build, preflight strict, audit qualite,
+  lint, smoke tests et controle du diff.
+- Ouvrir `APERCU_LOCAL.cmd` et verifier la fiche sur desktop et mobile, ainsi
+  que les URL directes `?guide=...`.
+- La version du site augmente de `0.01` au commit. Apres une modification
+  terminee : commit unique puis push. Les questions, pauses, diagnostics en
+  lecture seule et blocages externes ne produisent ni commit vide ni push.

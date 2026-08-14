@@ -63,12 +63,12 @@ COMMENT LIRE LA SOLUCE
 OBJECTIFS DE LA PARTIE
 
 - 55/55 succes Steam.
-- 49/49 journaux pour Follow The Trail.
-- 33/33 disques pour Connoisseur.
-- 10/10 quetes de Nevrons pour Aiding the Enemy, avec recompense reclamee.
+- 49/49 journaux pour **Suivre la piste**.
+- 33/33 disques pour **Connaisseur**.
+- 10/10 quetes de Nevrons pour **Aider l'ennemi**, avec recompense reclamee.
 - 9/9 Gestrals perdus et Paint Break.
 - 5/5 jeux gestral et leurs recompenses.
-- 46/46 competences de Monoco pour Feet Collection.
+- 46/46 competences de Monoco pour **Collection de pieds**.
 - 35/35 interactions de relation, puis rang 7 avec Lune, Maelle, Sciel,
   Esquie et Monoco.
 - toutes les zones optionnelles qui portent un succes ou un objet unique ;
@@ -101,7 +101,7 @@ EMPLACEMENTS CONSEILLES [SAUVEGARDE]
 
 Dans Lumiere, avant de lancer le depart de l'expedition, va vers le port puis
 a droite vers la scene des danseuses. Dans l'alcove avec l'echafaudage, examine
-le Mime et bats-le avec Gustave. Tu obtiens le succes A Peculiar Encounter et
+le Mime et bats-le avec Gustave. Tu obtiens le succes **Une rencontre insolite** et
 le disque Lumiere. La seconde copie du disque dans le donjon final ne remplace
 pas cette fenetre si tu rates aussi Lettre a Maelle.
 
@@ -153,19 +153,19 @@ PRECAUTIONS IMPORTANTES MAIS RECUPERABLES
 REGLES DE COMBAT POUR NE PAS RATER LES SUCCES
 ================================================================
 
-OVERCHARGE
+SURCHARGE (COMPÉTENCE OVERCHARGE)
 
 Avec Gustave, remplis la jauge a 10/10. Utilise Overcharge sur une cible dont
 la barre de Break peut etre videe par le coup. Si la cible meurt avant le Break,
 recharge S2 et recommence contre un ennemi plus resistant.
 
-PERFECT FLOW
+RYTHME PARFAIT
 
 Avec Lune, choisis une cible qui survivra quatre tours. A chaque tour, genere
 une Stain, puis consomme une Stain avec l'action suivante. Une cible de boss
 ou un ennemi isole est preferable a un petit groupe qui meurt trop vite.
 
-SYNERGY
+SYNERGIE
 
 Marque un ennemi avec n'importe quel membre, fais passer Maelle en Virtuose,
 puis utilise Percee sur la cible marquee. Le coup doit etre lance pendant
@@ -177,25 +177,25 @@ Avec Sciel, accumule Sun et Moon Charges pour entrer en Twilight. Pose assez
 de Foretell sur une seule cible, puis consomme 20 Foretell pendant Twilight.
 Une cible de boss avec beaucoup de vie evite que le compteur soit interrompu.
 
-WHEEL CONTROL
+CONTRÔLE DE LA ROUE
 
 Avec Monoco, equipe des competences des quatre types de masque. A chaque tour,
 utilise une competence dont la couleur correspond a la zone de la roue
 surbrillee. L'emplacement Almighty renforce n'importe quelle competence.
 Fais-le quatre tours de suite dans un combat contre une cible resistante.
 
-PROFESSIONAL
+PROFESSIONNEL
 
 Sauvegarde avant un boss que tu maitrises. Le Chromatic Lancelier ou le Glaise
 de Yellow Harvest sont de bonnes cibles : aucun membre ne doit perdre de vie,
 y compris par une attaque de statut. Si le succes ne tombe pas, recharge et
 choisis un boss dont le jeu reconnait clairement la categorie boss.
 
-WEAPON MASTERY ET NIVEAUX
+MAÎTRISE D'ARME ET NIVEAUX
 
-Ameliore une arme des que le Conservateur est disponible pour Weapon Upgrade.
+Ameliore une arme des que le Conservateur est disponible pour **Amélioration d'arme**.
 Garde les catalyseurs parfaits et grandioses pour l'arme que tu veux finir.
-Pour Weapon Mastery, monte une arme jusqu'a son niveau maximal ; les niveaux
+Pour **Maîtrise d'arme**, monte une arme jusqu'a son niveau maximal ; les niveaux
 de l'arme et du personnage sont independants.
 
 ================================================================
@@ -214,7 +214,7 @@ Avant de parler a Emma pour partir :
 - Depense tes trois jetons pour la Vieille Cle, le Weird Picto et la coiffure
   de Gustave. Priorite absolue a la Vieille Cle.
 - Utilise une attaque qui brise un ennemi pendant les combats du prologue si
-  Time to Spill Some Ink ne s'est pas declenche.
+  **Il est temps de faire couler de l'encre** ne s'est pas declenche.
 - Fais une sauvegarde S3 avant le depart.
 
 Le depart declenche automatiquement Lumiere. Le premier combat du prologue
@@ -222,7 +222,7 @@ sert aussi de tutoriel pour esquive, parade, visee libre et Break.
 
 AVANT DE SORTIR - PROLOGUE
 
-- Mime vaincu : succes A Peculiar Encounter.
+- Mime vaincu : succes **Une rencontre insolite**.
 - Disque Lumiere obtenu.
 - Vieille Cle, Weird Picto et coiffure controles.
 - Jeton restant note sur la sauvegarde, ou les trois recompenses obtenues.
@@ -264,7 +264,7 @@ AVANT DE SORTIR - SPRING MEADOWS
 - Jar aide et recompense recue.
 - Mime de Spring Meadows vaincu si tu veux les cosmetiques.
 - Pictos et teintures des chemins lateraux controles.
-- Succes Spring Meadows obtenu en quittant la zone.
+- Succes **Vallons fleuris** obtenu en quittant la zone.
 
 ACTE 1 - FLYING WATERS
 
@@ -290,9 +290,9 @@ Route de la zone :
 
 Le premier camp apres les premieres zones permet :
 
-- d'ameliorer une arme : Weapon Upgrade ;
+- d'ameliorer une arme : **Amélioration d'arme** ;
 - de depenser une Lumina : Lumina ;
-- de choisir Check up on the others au feu : scene Curious ;
+- de choisir Check up on the others au feu : scene **Curieux** ;
 - d'equiper les premiers Pictos en Lumina apres les avoir internalises.
 
 AVANT DE SORTIR - FLYING WATERS
@@ -303,7 +303,7 @@ AVANT DE SORTIR - FLYING WATERS
 - Mime et cages accessibles controles.
 - Linen and Cotton et Nocturne pour un masque de tristesse verifies dans
   le Manoir, ou retour planifie si l'entree n'est pas encore ouverte.
-- Flying Waters obtenu dans Steam.
+- **Océan suspendu** obtenu dans Steam.
 
 ACTE 1 - THE SMALL BOURGEON ET PREMIERE BOUCLE DE LA CARTE
 
@@ -377,7 +377,7 @@ AVANT DE SORTIR - ANCIENT SANCTUARY
 - Mime de la zone vaincu si cosmetiques souhaites.
 - Paint Cage, Breaker, Energy Tint Shard et Stun Boost controles.
 - Ultimate Sakapatate vaincu.
-- Ancient Sanctuary obtenu.
+- **Sanctuaire ancien** obtenu.
 
 ACTE 1 - GESTRAL VILLAGE
 
@@ -402,7 +402,7 @@ trop eleves.
 AVANT DE SORTIR - GESTRAL VILLAGE
 
 - Expedition 52 : 5/49.
-- Succes Gestral Village obtenu.
+- Succes **Village de Gestrals** obtenu.
 - Medalum conseille recupere avec Maelle.
 - Berrami visite et paliers de journaux controles.
 - Sciel recrutee, relation disponible au camp.
@@ -431,7 +431,7 @@ AVANT DE SORTIR - ESQUIE'S NEST
 - Expedition 66 : 6/49.
 - Mime de la caverne vaincu si cosmetiques souhaites.
 - Karatom ferme et tenue Pure obtenue.
-- Esquie's Nest et Legend obtenus.
+- **Nid d'Esquie** et **Légende** obtenus.
 
 ACTE 1 - YELLOW HARVEST ET LES ZONES DE RETOUR
 
@@ -444,7 +444,7 @@ Yellow Harvest :
 - Derriere Expedition 44, rampe dans l'ouverture de la falaise pour le Mime :
   il donne la coiffure Braid de Maelle.
 - Le Glaise optionnel de Yellow Harvest est une bonne tentative pour
-  Professional. Sauvegarde avant le combat et aucun degat ne doit toucher
+  **Professionnel**. Sauvegarde avant le combat et aucun degat ne doit toucher
   l'equipe.
 - The Crows sera nettoye en Acte 2 ; marque la sortie pour le retour.
 
@@ -469,7 +469,7 @@ AVANT DE SORTIR - YELLOW HARVEST
 - Expedition 44, 38 et 59 : 7/49, 8/49, 9/49.
 - Mime de Harvester's Hollow vaincu.
 - Expedition 45 : 16/49, si Crushing Caverns est deja ouverte.
-- Glaise tente pour Professional ou sauvegarde de retour creee.
+- Glaise tente pour **Professionnel** ou sauvegarde de retour creee.
 - Benisseur et Recovery controles.
 
 ACTE 1 - WORLD MAP AVANT STONE WAVE CLIFFS
@@ -520,15 +520,15 @@ AVANT DE SORTIR - STONE WAVE CLIFFS
 - Quete Hexga et Auto Shell terminees.
 - Lost Gestral 2/9 controle.
 - Disque Gustave et Gestral Beach 2 notes pour le retour.
-- Stone Wave Cliffs obtenu.
+- **Falaises de Rochevague** obtenu.
 
 FIN DE L'ACTE 1 - TRANSITION DE GUSTAVE
 
 Avant de lancer la derniere sequence de l'Acte 1 :
 
 - Fais S2.
-- Termine Overcharge avec Gustave a 10/10 et Break sur une cible resistante.
-- Verifie Weapon Upgrade, Lumina, Curious et Perfect Flow.
+- Termine Overcharge avec Gustave a 10/10 et Break sur une cible resistante pour **Surcharge**.
+- Verifie **Amélioration d'arme**, Lumina, Curieux et **Rythme parfait**.
 - Fais la quete de Karatom et les activites qui exigent encore Gustave.
 
 La transition de l'Acte 1 est le point ou la composition jouable change. La
@@ -566,7 +566,7 @@ AVANT DE SORTIR - FORGOTTEN BATTLEFIELD
 
 - Expedition 41 et 57 : 18/49 et 19/49.
 - Petank et Pictos des tranchees controles.
-- Forgotten Battlefield obtenu.
+- **Terres oubliées** obtenu.
 
 ACTE 2 - STONE QUARRY ET TROUBADOUR
 
@@ -583,12 +583,12 @@ Dans Stone Quarry, a l'est de Forgotten Battlefield :
 ACTE 2 - MONOCO'S STATION
 
 - Expedition 65 se trouve vers la sortie nord-est de la station.
-- Termine la sequence et recrute Monoco. Le succes Expedition 33 se debloque
+- Termine la sequence et recrute Monoco. Le succes **Expédition 33** se debloque
   lorsque tous les membres sont reunis.
 - Garde Monoco dans les trois places de depart apres son recrutement. Il doit
   etre present a la fin du combat pour apprendre le pied du nouvel ennemi.
 - Apres le boss Stalact, prends le temps de faire le tutoriel des Gradient
-  Charges ; il sert a Wheel Control.
+  Charges ; il sert a **Contrôle de la roue**.
 - Sur la carte au sud de la station, le marchand Strabami vend Lost Voice.
 - Le Lost Gestral 4 est a l'est de la station, pres des arbres verts et de la
   base de la zone enneigee.
@@ -599,7 +599,7 @@ AVANT DE SORTIR - MONOCO'S STATION
 
 - Expedition 48, 65 et 47 controles : 20/49, 21/49 et 23/49.
 - Monoco recrute et reste dans l'equipe active.
-- Stalact vaincu, Monoco's Station obtenu.
+- Stalact vaincu, **Gare de Monoco** obtenue.
 - Lost Voice achete.
 - Lost Gestral 4/9 controle.
 
@@ -625,7 +625,7 @@ Ordre obligatoire :
 9. Ouvre les cages et les Pictos accessibles avant de vaincre Renoir.
 
 La confrontation avec Renoir ferme l'histoire de Old Lumiere et donne le
-succes Old Lumiere. Apres le combat, fais le retour nord avant de repartir.
+succes **Vieille Lumière**. Apres le combat, fais le retour nord avant de repartir.
 
 AVANT DE SORTIR - OLD LUMIERE
 
@@ -691,7 +691,7 @@ Controle avant l'Axon :
 - le disque Verso est au gramophone ;
 - le Mime de Visages est vaincu depuis Joy Vale : Baguette de Verso et coiffure.
 
-Vaincs ensuite le premier Axon de la route conseillee. C'est First Axon si
+Vaincs ensuite le premier Axon de la route conseillee. C'est **Premier Axon** si
 Visages est fait avant Sirene. Retourne au camp immediatement pour Lettre a
 Maelle avant toute autre zone.
 
@@ -734,7 +734,7 @@ AVANT DE SORTIR - SIRENE
 - Expedition 55 et 67 : 36/49 et 37/49.
 - Mime et Petank controles.
 - Competences de Monoco des ennemis rencontres notees.
-- Second Axon vaincu.
+- **Second Axon** vaincu.
 
 ACTE 2 - THE MONOLITH
 
@@ -755,8 +755,8 @@ Dans l'entree :
 - L'Ultimate Sakapatate de Tainted Sanctuary est une source fiable pour
   Sakapatate Fire avec Monoco.
 
-Bats Renoir dans le Monolith, puis la Paintress. Les succes Monolith et
-Paintress se declenchent dans cette sequence. Garde S2 avant la Paintress.
+Bats Renoir dans le Monolith, puis la Paintress. Les succes **Monolithe** et
+**Peintresse** se declenchent dans cette sequence. Garde S2 avant la Paintress.
 
 La revelation de route est directe : le combat contre la Paintress ne termine
 pas le jeu. Le retour a Lumiere lance l'Acte 3 et le controle de Maelle.
@@ -767,7 +767,7 @@ AVANT DE SORTIR - MONOLITHE
 - Expedition 70 : 39/49.
 - L'Amour d'une Mere obtenu.
 - Mime de Tainted Cliffs controle.
-- Monolith puis Paintress obtenus.
+- **Monolithe** puis **Peintresse** obtenus.
 - Paint Break, si obtenu avec les Gestrals, utilise sur toutes les cages
   accessibles lors d'un retour.
 
@@ -864,7 +864,7 @@ ACTE 3 - THE FOUNTAIN
 - Laisse les Nevrons aides en vie jusqu'a sa recompense pour obtenir
   100 Colour of Lumina.
 - Parle a Blanche/Noire jusqu'a epuiser le dialogue.
-- Aiding the Enemy tombe apres la dixieme quete, pas simplement apres avoir
+- **Aider l'ennemi** tombe apres la dixieme quete, pas simplement apres avoir
   rencontre dix Nevrons.
 
 ACTE 3 - RELATIONS ET CAMP
@@ -904,7 +904,7 @@ ACTE 3 - LUMIERE
 - Le disque Lumiere de cette zone est une seconde copie : prends-la meme si
   le Mime du prologue a deja donne l'original.
 - Explore les quais et les rues avant de suivre l'objectif principal.
-- Le succes Back to Lumiere apparait au retour.
+- Le succes **Retour à Lumière** apparait au retour.
 
 Avant le combat final :
 
@@ -914,7 +914,7 @@ Avant le combat final :
   fin ;
 - termine les cinq relations ;
 - fais le choix Truth de Maelle si ce n'est pas deja fait ;
-- garde au moins une arme prete pour Weapon Mastery.
+- garde au moins une arme prete pour **Maîtrise d'arme**.
 
 CHOIX DE FIN
 
@@ -925,11 +925,11 @@ Le choix de personnage final oppose les deux resolutions :
 - Choisis Verso pour la resolution ou il accepte la fin de son histoire et
   detruit la Toile ; l'epilogue et la musique changent.
 
-Les deux voies donnent The End. Pour voir les deux sans refaire toute la
+Les deux voies donnent **Fin**. Pour voir les deux sans refaire toute la
 partie, recharge S4 ou une sauvegarde juste avant le choix final. La route
 Steam n'exige qu'une fin, mais une soluce complete conserve les deux.
 
-Apres The End, choisis de continuer la partie au dernier point de repos au lieu
+Apres **Fin**, choisis de continuer la partie au dernier point de repos au lieu
 de lancer une Nouvelle Partie +.
 
 ================================================================
@@ -938,13 +938,13 @@ POST-GAME - ZONES ET BOSS OPTIONNELS
 
 ENDLESS TOWER
 
-- Les 33 combats sont repartis en epreuves ; termine-les tous pour “Endless”.
+- Les 33 combats sont repartis en epreuves ; termine-les tous pour **« Éternelle »**.
 - Le disque Clea est obtenu apres le dernier combat.
 - Equipe Monoco dans les combats qui peuvent apprendre Duallist, Creation,
   Sakapatate Fire et les variantes tardives.
 - Les stages 1-3, 7-1, 7-3, 8-3, 11-2 et les epreuves de type Tainted servent
   de rattrapage pour plusieurs pieds.
-- Les recompenses de catalyseurs servent a Weapon Mastery et au farm de niveau.
+- Les recompenses de catalyseurs servent a **Maîtrise d'arme** et au farm de niveau.
 
 FLYING MANOR
 
@@ -956,7 +956,7 @@ FLYING MANOR
   Earthquakes selon les ennemis rencontres.
 - Descends l'ascenseur vers Goblu, puis prends l'ascenseur derriere la statue
   de Portier et la corde du chemin de droite pour le Mime.
-- Bats Clea pour le succes Clea, le disque/loot associe et les catalyseurs.
+- Bats Clea pour le succes **Clea**, le disque/loot associe et les catalyseurs.
 - Apres Clea, parle au jeune garcon pour les cosmetiques disponibles.
 - La capacite Grosse Tete peut etre apprise dans cette zone meme si l'ennemi
   de la carte du monde a deja disparu.
@@ -967,7 +967,7 @@ RENOIR'S DRAFTS
   regarde a droite dans la zone ouverte pour Endless Light.
 - Avance jusqu'a Simon. Bats Simon.
 - Ramasse le journal Simon a l'endroit ou il etait assis : 49/49.
-- La victoire donne Peace At Last.
+- La victoire donne **Enfin la paix**.
 - Les ennemis Creation, Aberration, Clair, Obscur et les variantes du Manoir
   finissent plusieurs competences de Monoco.
 
@@ -986,7 +986,7 @@ PAINTING WORKSHOP
 - Fais les trois ateliers, un par entree.
 - Ramasse Light of the Beast, Shape of the Beast et Heart of the Beast.
 - Place les trois objets sur la statue de l'atelier.
-- Bats le boss qui apparait pour Noir et Blanc.
+- Bats le boss qui apparait pour **Noir et blanc**.
 - Le Lampmaster de l'atelier peut donner Lampmaster Light a Monoco.
 
 DARK GESTRAL ARENA
@@ -1000,11 +1000,11 @@ DARK GESTRAL ARENA
 WHITE SANDS, ISLE OF EYES ET ZONES DU CONTINENT
 
 - White Sands : recupere le disque Aline en terrain ouvert.
-- Au-dessus de White Sands, bats Serpenphare : À On.
-- Au sud de Blades' Graveyard, bats Sprong : Sprong.
+- Au-dessus de White Sands, bats Serpenphare : **À on**.
+- Au sud de Blades' Graveyard, bats Sprong : **Sprong**.
 - Isle of Eyes : casse les trois yeux, puis bats le combat chromatique.
 - Chromatic Petank : sauvegarde avant le combat et bats le Petank chromatique
-  pour Carreau Parfait.
+  pour **Carreau parfait**.
 - Crimson Forest : reviens retirer les trois epees si tu ne l'as pas fait.
 - Dark Shores, The Fountain et les iles accessibles : termine les combats,
   marchands et Pictos avant la verification finale.
@@ -1034,10 +1034,10 @@ SI FOLLOW THE TRAIL MANQUE
 5. Simon : Renoir's Drafts apres le combat.
 6. Les journaux de carte du monde : 40, 43, 47, 62, 64, 84, Julie et Verso.
 
-SI CONNOISSEUR MANQUE
+SI **CONNAISSEUR** MANQUE
 
 1. Verifie Lumiere du Mime.
-2. Verifie Lettre a Maelle apres First Axon.
+2. Verifie Lettre a Maelle apres **Premier Axon**.
 3. Verifie les trois disques de relation Lune, Sciel et Monoco.
 4. Verifie les marchands Blabary, Strabami, Rederi et le marchand de Sacred
    River.
@@ -1045,7 +1045,7 @@ SI CONNOISSEUR MANQUE
 6. Ecoute le gramophone apres chaque retour au camp : une acquisition non
    enregistree apparait parfois apres un changement de zone.
 
-SI FEET COLLECTION MANQUE
+SI **COLLECTION DE PIEDS** MANQUE
 
 - Monoco doit etre dans l'equipe de depart quand l'ennemi meurt.
 - Un ennemi normal et sa version Chromatic comptent comme le meme type.
@@ -1239,7 +1239,7 @@ suivant pour voir toutes les recompenses.
 - Capacite : vol.
 - Recompense : Pro Retreat Picto.
 
-Controle final : le compteur Lost Gestrals monte a 9/9 apres le neuvieme
+Controle final : le compteur **Les Gestrals Perdus** monte a 9/9 apres le neuvieme
 sauvetage, mais le succes peut demander un changement de zone. Reviens au camp,
 ouvre le menu de Sastro, puis voyage une fois.
 
@@ -1298,7 +1298,7 @@ Jeu 5 - CLIMBING WALL
   rejoins le centre seulement pour la derniere montee.
 - Recompense : Swimsuit de Maelle.
 - Controle : parle a Grandis au sommet. Si les quatre jeux precedents sont
-  valides, Gestral Games apparait apres ce dernier.
+  valides, **Les jeux des Gestrals** apparait apres ce dernier.
 
 ================================================================
 ANNEXE D - RELATIONS ET 35 INTERACTIONS
@@ -1354,7 +1354,7 @@ ESQUIE
 [ ] Esquie 6 - quete de Francois : rapporte le rocher de remplacement, bats
     Francois et recupere Urrie. Debloque Underwater.
 [ ] Esquie 7 - attaque Gradient 3 de Verso, Angel's Eyes, et succes Esquie.
-    Plane, Train, and Submarine exige aussi Rough Terrain, Water, Coral, Fly
+     **Avion, train et sous-marin** exige aussi Rough Terrain, Water, Coral, Fly
     et Underwater.
 
 MONOCO
@@ -1369,9 +1369,9 @@ MONOCO
 
 CURIOSITE DE CAMP
 
-Curious demande une scene optionnelle, pas un rang de relation precis. La
+**Curieux** demande une scene optionnelle, pas un rang de relation precis. La
 scene Check up on the others apres les premieres zones est la methode la plus
-sure. Une scene de rang ne remplace pas forcement Curious si la case n'est pas
+sure. Une scene de rang ne remplace pas forcement **Curieux** si la case n'est pas
 tombee : verifie les deux.
 
 ================================================================
@@ -1379,7 +1379,7 @@ ANNEXE E - MIMES ET COSMETIQUES
 ================================================================
 
 Les Mimes ne sont pas un compteur Steam global. Le Mime du prologue, lui, est
-obligatoire pour le succes A Peculiar Encounter et le disque Lumiere.
+obligatoire pour le succes **Une rencontre insolite** et le disque Lumiere.
 
 1. Prologue - Lumiere : port, scene des danseuses, alcove avec echafaudage.
    Recompense : disque Lumiere.
@@ -1634,19 +1634,19 @@ PETANKS DE ZONE
   Lumina x5.
 - Flying Manor : les variantes jaunes donnent des recompenses de catalyseur.
 - Chromatic Petank, au nord-est de Lumiere : sauvegarde puis bats-le pour
-  Carreau Parfait.
+  **Carreau parfait**.
 
 COMBATS LIES DIRECTEMENT AUX SUCCES
 
-- Glaise : Yellow Harvest, bon candidat pour Professional.
-- Sprong : mer au sud de Blades' Graveyard, succes Sprong.
-- Serpenphare : ciel au-dessus de White Sands, succes À On.
-- Clea : Flying Manor, succes Clea.
-- Simon : Renoir's Drafts, succes Peace At Last.
-- Painting Workshop : trois objets, statue, boss revele, succes Noir et Blanc.
-- Endless Tower : 33 combats, succes “Endless”.
+- Glaise : Yellow Harvest, bon candidat pour **Professionnel**.
+- Sprong : mer au sud de Blades' Graveyard, succes **Sprong**.
+- Serpenphare : ciel au-dessus de White Sands, succes **À on**.
+- Clea : Flying Manor, succes **Clea**.
+- Simon : Renoir's Drafts, succes **Enfin la paix**.
+- Painting Workshop : trois objets, statue, boss revele, succes **Noir et blanc**.
+- Endless Tower : 33 combats, succes **« Éternelle »**.
 - Golgra : Gestral Village ou Dark Gestral Arena, optional.
-- Chromatic Petank : succes Carreau Parfait.
+- Chromatic Petank : succes **Carreau parfait**.
 - La Paintress, Renoir et les Axons sont deja couverts dans la route principale.
 
 OUTILS DE NETTOYAGE
@@ -1699,71 +1699,72 @@ ACTE 3 ET POST-GAME
 - Swimsuit de Monoco et de Maelle : Gestral Beaches 3 et 5.
 - Sidaro : Golgra vaincu avec Monoco.
 - Les armes de Clea, Simon, Painting Workshop et les Chromatic bosses sont
-  des recompenses de nettoyage et alimentent Weapon Mastery.
+  des recompenses de nettoyage et alimentent **Maîtrise d'arme**.
 
 ================================================================
 ================================================================
 CHECKLIST FINALE - 55/55 SUCCES STEAM
 ================================================================
 
-Les intitules sont conserves dans l'ordre de la liste Steam. Les descriptions
-ci-dessous donnent la condition exacte, meme quand elle revele l'histoire.
+Les intitulés sont ceux de la liste Steam française officielle et sont conservés
+dans l'ordre de cette liste. Les descriptions ci-dessous donnent la condition
+exacte, même quand elle révèle l'histoire.
 
 [ ] 01 Lumière - terminer le prologue et embarquer pour l'expedition.
-[ ] 02 Time to Spill Some Ink - briser un ennemi.
-[ ] 03 Overcharge - avec Gustave, briser un ennemi avec Overcharge charge a fond.
-[ ] 04 Spring Meadows - terminer Spring Meadows.
-[ ] 05 Paint Cage - briser une cage de peinture.
-[ ] 06 Flying Waters - terminer Flying Waters.
-[ ] 07 Weapon Upgrade - ameliorer une arme une fois.
+[ ] 02 Il est temps de faire couler de l'encre - briser un ennemi.
+[ ] 03 Surcharge - avec Gustave, briser un ennemi avec Overcharge charge a fond.
+[ ] 04 Vallons fleuris - terminer Spring Meadows.
+[ ] 05 Sphère de peinture - briser une cage de peinture.
+[ ] 06 Océan suspendu - terminer Flying Waters.
+[ ] 07 Amélioration d'arme - ameliorer une arme une fois.
 [ ] 08 Lumina - consommer un point de Lumina.
-[ ] 09 Curious - voir une scene optionnelle au camp.
-[ ] 10 Ancient Sanctuary - terminer Ancient Sanctuary.
-[ ] 11 Gestral Village - terminer Gestral Village.
-[ ] 12 Esquie's Nest - terminer Esquie's Nest.
-[ ] 13 Legend - debloquer Esquie.
-[ ] 14 Stone Wave Cliffs - terminer Stone Wave Cliffs.
-[ ] 15 Forgotten Battlefield - terminer Forgotten Battlefield.
-[ ] 16 Expedition 33 - debloquer tous les personnages jouables.
-[ ] 17 Monoco's Station - terminer Monoco's Station.
+[ ] 09 Curieux - voir une scene optionnelle au camp.
+[ ] 10 Sanctuaire ancien - terminer Ancient Sanctuary.
+[ ] 11 Village de Gestrals - terminer Gestral Village.
+[ ] 12 Nid d'Esquie - terminer Esquie's Nest.
+[ ] 13 Légende - debloquer Esquie.
+[ ] 14 Falaises de Rochevague - terminer Stone Wave Cliffs.
+[ ] 15 Terres oubliées - terminer Forgotten Battlefield.
+[ ] 16 Expédition 33 - debloquer tous les personnages jouables.
+[ ] 17 Gare de Monoco - terminer Monoco's Station.
 [ ] 18 Perfection - avec Verso, atteindre le rang S de Perfection.
-[ ] 19 Old Lumière - terminer Old Lumiere.
-[ ] 20 Expeditioner - atteindre le niveau 33.
-[ ] 21 First Axon - vaincre le premier Axon.
+[ ] 19 Vieille Lumière - terminer Old Lumiere.
+[ ] 20 Membre de l'expédition - atteindre le niveau 33.
+[ ] 21 Premier Axon - vaincre le premier Axon.
 [ ] 22 Second Axon - vaincre le second Axon.
-[ ] 23 Professional - vaincre un boss sans subir de degats.
-[ ] 24 Monolith - atteindre le Monolith.
-[ ] 25 Perfect Flow - consommer des Stains quatre tours de suite avec Lune.
-[ ] 26 Paintress - vaincre la Paintress.
-[ ] 27 Back to Lumière - retourner a Lumiere.
-[ ] 28 A Peculiar Encounter - vaincre le Mime de Lumiere.
-[ ] 29 Synergy - lancer Percee sur une cible marquee pendant Virtuose.
-[ ] 30 The End - atteindre la fin de l'histoire.
+[ ] 23 Professionnel - vaincre un boss sans subir de degats.
+[ ] 24 Monolithe - atteindre le Monolith.
+[ ] 25 Rythme parfait - consommer des Stains quatre tours de suite avec Lune.
+[ ] 26 Peintresse - vaincre la Paintress.
+[ ] 27 Retour à Lumière - retourner a Lumiere.
+[ ] 28 Une rencontre insolite - vaincre le Mime de Lumiere.
+[ ] 29 Synergie - lancer Percee sur une cible marquee pendant Virtuose.
+[ ] 30 Fin - atteindre la fin de l'histoire.
 [ ] 31 Maximisation - consommer 20 Foretell sur une cible pendant Twilight.
-[ ] 32 Plane, Train, and Submarine - decouvrir toutes les capacites d'Esquie.
-[ ] 33 Trailbreaker - atteindre le niveau 66.
+[ ] 32 Avion, train et sous-marin - decouvrir toutes les capacites d'Esquie.
+[ ] 33 Explorateur - atteindre le niveau 66.
 [ ] 34 Sciel - atteindre le rang 7 de relation avec Sciel.
 [ ] 35 Sprong - vaincre Sprong.
 [ ] 36 Esquie - atteindre le rang 7 de relation avec Esquie.
 [ ] 37 Lune - atteindre le rang 7 de relation avec Lune.
 [ ] 38 Maelle - atteindre le rang 7 et choisir Truth a la derniere scene.
 [ ] 39 Monoco - atteindre le rang 7 de relation avec Monoco.
-[ ] 40 Chroma Proficiency - utiliser une attaque Gradient de niveau 3.
-[ ] 41 Wheel Control - lancer quatre competences Monoco renforcees a la suite.
-[ ] 42 À On - vaincre Serpenphare.
-[ ] 43 Weapon Mastery - ameliorer une arme jusqu'a son niveau maximal.
-[ ] 44 Carreau Parfait - vaincre le Petank chromatique.
+[ ] 40 Maîtrise de la chroma - utiliser une attaque Gradient de niveau 3.
+[ ] 41 Contrôle de la roue - lancer quatre competences Monoco renforcees a la suite.
+[ ] 42 À on - vaincre Serpenphare.
+[ ] 43 Maîtrise d'arme - ameliorer une arme jusqu'a son niveau maximal.
+[ ] 44 Carreau parfait - vaincre le Petank chromatique.
 [ ] 45 Clea - vaincre Clea.
-[ ] 46 Noir et Blanc - resoudre le mystere de Painting Workshop.
-[ ] 47 “Endless” - terminer les 33 combats de l'Endless Tower.
-[ ] 48 Peace At Last - vaincre Simon.
-[ ] 49 Lost Gestrals - retrouver les neuf Gestrals perdus.
-[ ] 50 Gestral Games - gagner les cinq jeux gestral.
-[ ] 51 Feet Collection - obtenir les 46 competences de Monoco.
-[ ] 52 Aiding the Enemy - terminer les dix quetes de Nevrons.
-[ ] 53 Survivor - atteindre le niveau 99.
-[ ] 54 Follow The Trail - trouver les 49 journaux.
-[ ] 55 Connoisseur - trouver les 33 disques musicaux.
+[ ] 46 Noir et blanc - resoudre le mystere de Painting Workshop.
+[ ] 47 « Éternelle » - terminer les 33 combats de l'Endless Tower.
+[ ] 48 Enfin la paix - vaincre Simon.
+[ ] 49 Les Gestrals Perdus - retrouver les neuf Gestrals perdus.
+[ ] 50 Les jeux des Gestrals - gagner les cinq jeux gestral.
+[ ] 51 Collection de pieds - obtenir les 46 competences de Monoco.
+[ ] 52 Aider l'ennemi - terminer les dix quetes de Nevrons.
+[ ] 53 Survivant - atteindre le niveau 99.
+[ ] 54 Suivre la piste - trouver les 49 journaux.
+[ ] 55 Connaisseur - trouver les 33 disques musicaux.
 
 ================================================================
 VERIFICATION FINALE
@@ -1793,8 +1794,8 @@ compteur que la sauvegarde principale pouvait encore recuperer.
 
 SOURCES DE VERIFICATION
 
-- Liste officielle Steam des 55 succes :
-  https://steamcommunity.com/stats/1903340/achievements
+- Liste officielle française Steam des 55 succes :
+  https://steamcommunity.com/stats/1903340/achievements?l=french
 - Guide Steam recoupe des missables, cartes et collections :
   https://steamcommunity.com/sharedfiles/filedetails?id=3469875590
 - Feuille de route et points manquables :

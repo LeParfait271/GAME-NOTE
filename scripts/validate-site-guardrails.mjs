@@ -199,6 +199,7 @@ const catalog = await readJson("docs/guide-catalog.json");
 const publication = await readJson("docs/site-publication.json");
 const guideQueue = await readJson("docs/guide-rebuild-queue.json");
 const steamAudit = await readJson("docs/steam-audit.json");
+const steamAchievementsFr = await readJson("docs/steam-achievements-fr.json");
 
 const siteVersionMatch = siteVersionSource.match(
   /export const SITE_VERSION = "(\d+)\.(\d{2})";/,
@@ -541,6 +542,56 @@ for (const file of publication?.visibleGuideFiles ?? []) {
     fail(
       `public/guides/${file}: titre(s) Markdown sans contenu (${emptyHeadings.slice(0, 3).join(" | ")}${emptyHeadings.length > 3 ? " | ..." : ""}).`,
     );
+  }
+}
+
+function extractSteamAchievementNames(source, format) {
+  const start = source.indexOf("CHECKLIST FINALE");
+  const end = source.indexOf("VERIFICATION FINALE", start);
+  const checklist = source.slice(start >= 0 ? start : 0, end >= 0 ? end : source.length);
+  const patterns = {
+    "bold-name": /^- \[ \] \*\*(.+?)\*\* —/gm,
+    "numbered-dash-name": /^\[ \] \d+ - (.+?) —/gm,
+    "numbered-space-name": /^\[ \] \d+ (.+?) - /gm,
+  };
+  const pattern = patterns[format];
+  if (!pattern) return [];
+  return [...checklist.matchAll(pattern)].map((match) => match[1]);
+}
+
+const achievementRegistry = Array.isArray(steamAchievementsFr?.guides)
+  ? steamAchievementsFr.guides
+  : [];
+if (achievementRegistry.length !== (publication?.visibleGuideFiles ?? []).length) {
+  fail(
+    "docs/steam-achievements-fr.json: le registre français doit couvrir exactement chaque fiche visible.",
+  );
+}
+for (const entry of achievementRegistry) {
+  if (!entry?.id || !entry?.file || !entry?.appid || !entry?.source?.includes("?l=french")) {
+    fail("docs/steam-achievements-fr.json: entrée incomplète ou source non française " + (entry?.id ?? "inconnue") + ".");
+    continue;
+  }
+  const registryFilename = String(entry.file).replace(/^public\/guides\//, "");
+  if (!(publication?.visibleGuideFiles ?? []).includes(registryFilename)) {
+    fail("docs/steam-achievements-fr.json: fiche non visible ou fichier différent " + entry.file + ".");
+    continue;
+  }
+  const source = await readText(entry.file);
+  const actualNames = extractSteamAchievementNames(source, entry.format);
+  const expectedNames = Array.isArray(entry.names) ? entry.names : [];
+  if (actualNames.length !== expectedNames.length) {
+    fail(
+      `${entry.file}: nombre de noms français différent du registre (${actualNames.length}/${expectedNames.length}).`,
+    );
+    continue;
+  }
+  for (let index = 0; index < expectedNames.length; index += 1) {
+    if (actualNames[index] !== expectedNames[index]) {
+      fail(
+        `${entry.file}: intitulé Steam français ${index + 1} incorrect (${JSON.stringify(actualNames[index])} au lieu de ${JSON.stringify(expectedNames[index])}).`,
+      );
+    }
   }
 }
 if ((page.match(/export default function Home/g) ?? []).length !== 1) {

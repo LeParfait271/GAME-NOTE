@@ -29,8 +29,8 @@ Les révélations doivent néanmoins rester utiles : elles sont placées dans
 l'ordre de jeu, annoncées par un titre clair quand elles changent la route et
 séparées des alertes de missable. Une phrase narrative ne remplace jamais un
 emplacement, une condition, une récompense ou une sauvegarde. Si le propriétaire
-redemande une version sans spoiler, cette décision doit être inscrite comme
-limite du lot concerné plutôt que supposée pour tous les guides.
+ Le niveau de révélation est fixé par le lot ; pour Game Note, la règle active
+ est l'exhaustivité avec spoilers autorisés, sans masquer une information utile.
 
 Chaque fichier TXT doit fournir, dans cet ordre :
 
@@ -157,7 +157,7 @@ mise à jour est refusé, même si le code ou la fiche fonctionne.
   gestral donnent leurs lieux, seuils et récompenses ; les relations et le
   choix Truth de Maelle sont séparés des succès de collection.
 - Contrôle technique ajouté : `validate-guides.mjs` ne rejette plus les spoilers
-  et ne demande plus une formule « sans spoiler » ; il contrôle désormais la
+  et ne demande plus une formule de non-révélation ; il contrôle désormais la
   route, le périmètre Steam et les fenêtres manquables, quel que soit le mode
   de révélation choisi pour la fiche.
 - Contrôle build Windows ajouté : l'assertion post-build `UV_HANDLE_CLOSING` est
@@ -295,7 +295,7 @@ suivi distinct.
 La carte de catalogue doit être relue avec le TXT après chaque réécriture : elle
 doit annoncer les bons compteurs, le bon niveau de révélation et les vrais
 missables du jeu. Pour Expedition 33, toute mention résiduelle de « sans
-spoiler », de stages, d'Arcade ou d'un autre périmètre est une erreur de fiche.
+ de stages, d'Arcade ou d'un autre périmètre est une erreur de fiche.
 
 Exemple : `[COFFRE] - Dans la salle nord, ouvrir le coffre avant de prendre
 l'ascenseur.` Les marqueurs peuvent être combinés, par exemple
@@ -460,7 +460,7 @@ une mise à jour qui change les succès ou le contenu, le guide repasse en
   `[COFFRE]` couvre les coffres et les objets à récupérer ; les autres
   marqueurs gardent leur sens sauvegarde, manquable, succès ou boss.
 - Contrôle avant chaque commit : route, annexes A à F, compteur 88/88,
-  absence de « sans spoiler », build Pages, sortie limitée aux guides validés
+  spoilers cohérents avec le lot, build Pages, sortie limitée aux guides validés
   actifs et mise à jour coordonnée des garde-fous.
 
 ### Lot effets cinétiques de l'accueil - 13 août 2026
@@ -768,3 +768,48 @@ une mise à jour qui change les succès ou le contenu, le guide repasse en
   dossiers de reference.
 - Le smoke test et l audit visuel couvrent OT1, OT2 et Expedition 33, avec les
   deux categories du sommaire et sans debordement mobile.
+
+## Garde-fou - toute demande doit etre ajoutee - 14 aout 2026
+
+- Toute demande d ajout doit laisser une trace dans la source appropriee et
+  dans le flux de publication : jeu, guide, succes, objet, coffre, annexe,
+  icone, catalogue, queue et rendu utilisateur selon le cas.
+- Le controle echoue si un element demande est seulement cite dans une note,
+  ou si une entree `queued`/`planned` disparait sans transition explicite.
+  Aucune suppression par omission silencieuse n est autorisee.
+- Une ancienne fiche peut etre invisible, mais elle doit rester preservee et
+  etiquetee archive, planned, queued ou visible ; ces etats ne sont pas
+  interchangeables.
+
+## Garde-fou - noms Steam francais verifies - 14 aout 2026
+
+- Chaque guide visible avec succes Steam doit avoir une entree dans
+  `docs/steam-achievements-fr.json`, avec AppID, source Steam `?l=french`,
+  fichier, format et liste complete dans l ordre de la checklist publiee.
+- Le validateur compare chaque intitulé du TXT au registre : nombre, ordre,
+  accents, ponctuation et capitalisation. Un nom anglais, une traduction
+  litterale ou un intitulé invente bloque la publication.
+- Les conditions et descriptions peuvent rester redigees en francais pour la
+  route, mais le nom affiche doit etre l intitulé officiel francais de Steam.
+
+## Garde-fou - methode de soluce complete
+
+- La preuve minimale est une lecture croisee de cinq familles de sources,
+  avec matrice des divergences et compteurs retenus avant rédaction.
+- Le contenu attendu couvre la route chronologique, les solutions, lieux,
+  coffres, objets, missables, quetes, combats, fins, rattrapages et succes ;
+  spoilers autorises et aucune information utile masquee.
+- Le TXT ne doit perdre aucune ligne utile. Les sequences ne regroupent que la
+  route jouable ; les annexes, alertes, registres, compteurs et checklists sont
+  des dossiers de reference distincts.
+- `[COFFRE]` est l icone editoriale commune des coffres et objets a trouver ;
+  le lecteur peut proposer des icones premium, mais la collection reste
+  volontairement limitee et coherente.
+
+## Garde-fou - cloture de chaque modification
+
+- Le lot est controle par catalogue, guides, build, preflight strict, audit
+  qualite, lint, smoke tests, inspection locale desktop/mobile et diff final.
+- Le hook augmente la version du site de `0.01` au commit. Une modification
+  terminee est committee puis poussee ; une question, une pause, une lecture
+  seule ou un blocage externe ne cree ni commit vide ni push.
