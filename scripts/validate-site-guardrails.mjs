@@ -142,6 +142,7 @@ const requiredSourceFiles = [
   "app/layout.tsx",
   "app/globals.css",
   "app/guide-reader-layout.css",
+  "app/terminal-pass-four.css",
   "app/pwa-register.tsx",
   "next.config.ts",
   "package.json",
@@ -178,6 +179,7 @@ const reader = await readText("app/GuideReader.tsx");
 const localPreview = await readText("APERCU_LOCAL.cmd");
 const layout = await readText("app/layout.tsx");
 const stylesheet = `${await readText("app/globals.css")}\n${await readText("app/guide-reader-layout.css")}`;
+const terminalStyles = await readText("app/terminal-pass-four.css");
 const serviceWorkerSource = await readText("public/service-worker.js");
 const octopathGuide = await readText("public/guides/octopath-traveler-1.txt");
 const octopathZeroDraftPath = "public/guides/octopath-traveler-0.txt";
@@ -280,6 +282,17 @@ for (const marker of [
 }
 if (!/position:\s*static;\s*order:\s*[12];/.test(stylesheet)) {
   fail("app/globals.css + app/guide-reader-layout.css: hierarchie mobile absente.");
+}
+for (const marker of [
+  "@media screen and (min-width: 1440px)",
+  "transform: translateX(-50%);",
+  "width: min(38vw, 430px)",
+  "font-size: clamp(4.4rem, 5.5vw, 6.6rem)",
+  "left: 52%;",
+]) {
+  if (!terminalStyles.includes(marker)) {
+    fail(`app/terminal-pass-four.css: composition desktop large absente (${marker}).`);
+  }
 }
 for (const marker of [
   "const library = libraryRef.current;",

@@ -976,3 +976,14 @@ validation ou reste seulement local.
   debordement horizontal.
 - La cloture exige ensuite build, preflight strict, audit qualite, lint et
   smoke tests avant commit, push et deploiement.
+
+## Garde-fou - composition desktop large du home - 14 aout 2026
+
+- A partir de 1440 px, la scene d accueil recentre `.portfolio-hero-grid` et
+  separe le titre, `.hero-focus` et `.hero-index` ; aucune collision visuelle
+  entre ces trois zones n est acceptee.
+- La typographie du titre se resserre dans cette largeur et la carte focale
+  reste dans sa colonne ; le decor typographique reste secondaire.
+- Le controle couvre 1280, 1440, 1920 et 390 px, l animation d entree, le
+  debordement horizontal, puis build, preflight, audit qualite, lint et smoke
+  tests avant commit, push et deploiement.

@@ -495,3 +495,14 @@ annexes sont melangees, si un controle echoue ou si le commit reste local.
 - Controle livre sur localhost : desktop, 390 px, recherche multi-resultats,
   ancre de sommaire, absence de debordement, build, preflight strict, audit
   qualite, lint et smoke tests 7/7.
+
+### Passe visuelle - composition desktop large - 14 aout 2026
+
+- A partir de 1440 px, la scene d accueil recentre sa largeur utile et separe
+  le titre, la carte focale et l index ; aucune de ces zones ne doit se
+  recouvrir.
+- Le correctif reste limite a `app/terminal-pass-four.css` et ne modifie ni
+  les TXT, ni les compteurs, ni le catalogue, ni la structure du lecteur.
+- Controle livre sur 1280, 1440 et 1920 px, puis a 390 px : titre, carte,
+  index, animation d entree, absence de debordement, build, preflight strict,
+  audit qualite, lint et smoke tests.

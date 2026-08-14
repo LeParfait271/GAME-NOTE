@@ -725,6 +725,15 @@ annexes, si un controle obligatoire echoue ou si le commit n est pas pousse.
   recherche multi-resultats, ancre de route, absence de debordement, build,
   preflight strict, audit qualite, lint et smoke tests avant commit et push.
 
+### Regle active - composition desktop large du home - 14 aout 2026
+
+- A partir de 1440 px, `.portfolio-hero-grid` doit rester centree et garder
+  trois zones distinctes : titre, carte focale et index des routes.
+- La carte focale ne peut recouvrir ni le titre ni l index ; la typographie
+  doit se resserrer au besoin pour conserver cette respiration.
+- Le garde-fou verifie les marqueurs de `app/terminal-pass-four.css` ; le
+  controle visuel couvre 1280, 1440, 1920 et 390 px avant build, commit et push.
+
 ### Regle active - covers du lecteur en 16/9 - 14 aout 2026
 
 - Chaque cover de fiche affiche l artwork sur toute la largeur de la surface

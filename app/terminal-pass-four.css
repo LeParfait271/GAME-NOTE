@@ -32,6 +32,32 @@
   gap: clamp(30px, 4.5vw, 66px);
 }
 
+@media screen and (min-width: 1440px) {
+  /* Keep the wide archive stage centered and its three reading zones separate. */
+  .site-shell:not(.is-reader-mode) .portfolio-hero-grid {
+    left: 50%;
+    transform: translateX(-50%);
+  }
+
+  .site-shell:not(.is-reader-mode) .portfolio-hero-copy {
+    right: auto;
+    left: 0;
+    width: min(38vw, 430px);
+  }
+
+  .site-shell:not(.is-reader-mode) .portfolio-hero-copy h1 {
+    font-size: clamp(4.4rem, 5.5vw, 6.6rem);
+  }
+
+  .site-shell:not(.is-reader-mode) .hero-focus {
+    left: 52%;
+  }
+
+  .site-shell:not(.is-reader-mode) .hero-index {
+    right: 0;
+  }
+}
+
 @media screen and (min-width: 981px) {
   .site-shell:not(.is-reader-mode) .hero-index {
     padding-left: 19px;
