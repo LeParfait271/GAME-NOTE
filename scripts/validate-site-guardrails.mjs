@@ -269,6 +269,7 @@ for (const marker of [
   ".guide-prelude-panel > summary",
   ".guide-reference-panel > summary",
   ".guide-search-results > .guide-paragraph",
+  "top: 112px",
   "text-wrap: pretty",
   "position: static;\n    order: 1;",
 ]) {

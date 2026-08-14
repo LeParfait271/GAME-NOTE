@@ -929,6 +929,15 @@ validation ou reste seulement local.
 - Le controle visuel verifie Expedition 33 sur Spring Meadows, Flying Waters
   et Stone Wave Cliffs, desktop et 390 px, avec le texte des etapes present.
 
+## Garde-fou - bandeau terminal et barre de lecture - 14 aout 2026
+
+- Le bandeau fixe du lecteur et la barre de recherche/progression doivent avoir
+  deux zones distinctes ; aucun controle ne peut etre masque par le bandeau.
+- L offset desktop de `.reader-tools` doit depasser la hauteur du bandeau ; le
+  comportement mobile doit rester dans le flux, sans zone morte supplementaire.
+- Le controle visuel couvre une sequence ouverte depuis le sommaire, desktop,
+  390 px, clavier et absence de debordement horizontal.
+
 ## Garde-fou - rythme des sequences et sommaire mobile - 14 aout 2026
 
 - Le rail de chaque sequence reste identifiable pendant le défilement avec son

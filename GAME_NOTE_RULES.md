@@ -767,3 +767,15 @@ annexes, si un controle obligatoire echoue ou si le commit n est pas pousse.
 - Controle obligatoire sur Expedition 33 : verifier Spring Meadows, Flying
   Waters et Stone Wave Cliffs, puis confirmer le nombre d etapes visibles avant
   build, commit, push et deploiement.
+
+### Regle active - barre de lecture sans recouvrement - 14 aout 2026
+
+- Le bandeau terminal fixe du lecteur doit laisser un espace net au-dessus de
+  la barre de recherche et de progression ; aucun texte ou controle ne peut
+  passer dessous au defilement.
+- Sur desktop, la barre de lecture reste sous le bandeau avec un offset
+  superieur a sa hauteur ; sur mobile, elle redevient dans le flux et ne doit
+  pas creer de vide artificiel.
+- Controle obligatoire : ouvrir une sequence depuis le sommaire, faire defiler
+  jusqu a la barre, verifier l absence de recouvrement desktop et 390 px avant
+  build, commit, push et deploiement.

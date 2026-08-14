@@ -6942,6 +6942,7 @@ button.reader-neighbor:focus-visible {
 }
 
 .site-shell.is-reader-mode .reader-tools {
+  top: 112px;
   border: 1px solid rgba(185, 255, 0, 0.2);
   border-radius: 12px;
   background: rgba(4, 25, 25, 0.9);

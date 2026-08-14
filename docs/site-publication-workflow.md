@@ -416,6 +416,15 @@ Le travail ne se limite pas a noter une intention :
 - Avant publication, controler Expedition 33 sur trois zones a etapes numerotees,
   desktop et 390 px, puis relancer les validations completes.
 
+## Workflow de lecture - bandeau fixe et outils lisibles - 14 aout 2026
+
+- Apres toute modification du bandeau terminal, ouvrir une route depuis le
+  sommaire et verifier que les outils de lecture restent entierement visibles.
+- Le desktop utilise un offset de barre superieur a la hauteur du bandeau ; le
+  mobile conserve les outils dans le flux et ne doit pas ajouter de recouvrement.
+- La publication est autorisee seulement apres le controle desktop, 390 px,
+  clavier, largeur de page, build, preflight, audit qualite, lint et smoke tests.
+
 ## Workflow de lecture - rythme et sommaire mobile - 14 aout 2026
 
 - Une fiche longue doit conserver un repère de sequence pendant le defilement :
