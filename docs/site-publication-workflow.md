@@ -30,7 +30,33 @@ cree donc ni carte visible, ni URL publique, ni promesse de guide termine.
 
 Les controles automatises associes sont `validate-pages-output.mjs` et
 `validate-site-guardrails.mjs`. Le hook de commit augmente la version du site
-de 0,01 a chaque commit, sans pousser automatiquement vers le depot distant.
+de 0,01 a chaque commit ; une modification terminee est ensuite poussee.
+
+## Protocole canonique applique a chaque commit - 14 aout 2026
+
+Chaque commit de modification reprend l ordre suivant :
+
+1. cadrer la demande, lire les regles, verifier le statut et proteger les
+   changements deja presents ;
+2. integrer chaque ajout et chaque demande dans sa destination reelle et conserver un statut
+   explicite pour tout element encore en recherche ;
+3. pour chaque soluce, croiser cinq familles de sources minimum, resoudre les
+   divergences, rediger une route originale exhaustive et utiliser les vrais
+   noms francais Steam ;
+4. garder les sequences limitees a la route jouable, separer les annexes dans
+   les dossiers de reference, conserver le TXT et marquer les coffres/objets
+   avec `[COFFRE]` ;
+5. lancer validation catalogue + guides, garde-fous, build, preflight strict,
+   audit qualite, lint, smoke tests et diff ; verifier ensuite la fiche sur
+   desktop, mobile et par URL directe ;
+6. confirmer la version `+0.01`, le contenu staged et le perimetre, creer un
+   commit unique, pousser la branche et deployer le meme commit si le site est
+   concerne.
+
+Une modification n est pas consideree comme terminee si elle est seulement
+notee, si un ajout disparait, si une preuve manque, si une sequence contient des
+annexes ou si le commit reste local. Les questions, pauses et audits en lecture
+seule ne creent pas de commit.
 
 ## Controle editorial Octopath Traveler 1
 
@@ -171,7 +197,7 @@ traité comme une récompense d'action et non comme un coffre supplémentaire.
   boss et des 37 succès Steam. Les cartes restent des aides visuelles et ne sont
   pas transformées en preuve de test écran par écran.
 - Le lot n'est clôturé qu'après build, préflight strict, audits et smoke tests.
-  Les changements sont regroupés dans un seul commit local final, sans push.
+  Les changements sont regroupés dans un seul commit final poussé.
 
 ## Lot OT2 — fiche reconstruite et publication active
 
@@ -184,8 +210,7 @@ traité comme une récompense d'action et non comme un coffre supplémentaire.
   sous-zone ; un compteur global ne suffit pas.
 - Le pipeline de clôture est : validation stricte du catalogue et des guides,
   build, preflight strict, audit qualité, smoke tests, verification du diff,
-  puis un unique commit local. La publication suit ce même commit ; aucun push
-  n'est déduit de la reconstruction.
+  puis un unique commit poussé. La publication suit ce même commit.
 
 ## Correctif retour bibliothèque - 13 août 2026
 
@@ -225,7 +250,7 @@ traité comme une récompense d'action et non comme un coffre supplémentaire.
 - Les groupes longs sont repliables, leurs compteurs restent lisibles et chaque
   entree conserve une ancre vers le contenu exact.
 - Le lot se ferme par validation du catalogue, build, preflight, audit qualite,
-  lint et smoke tests, puis un unique commit local ; aucun push automatique.
+  lint et smoke tests, puis un unique commit poussé.
 
 ## Acces local apres chaque commit - 14 aout 2026
 

@@ -7,10 +7,11 @@ Ce fichier fixe la méthode minimale avant toute modification visible du site.
 3. Préserver les ajouts de soluces dans public/guides/ et les catalogues dans
    docs/. Ne jamais restaurer ces fichiers depuis Git sans demande explicite.
 4. Modifier les sources (app/, public/, scripts/), jamais dist/client/ à la main.
-5. Après une modification visible, lancer npm run build, puis npm run preflight.
-6. Après chaque lot modifié, créer un commit local vérifiable. Ne pas déployer
-   ni pousser automatiquement vers GitHub.
-7. Chaque commit doit aussi mettre à jour le workflow et les garde-fous dans
+5. Toute modification suit le protocole de clôture détaillé plus bas :
+   validation, contrôle local, commit, push et publication si le site est touché.
+6. Après chaque lot modifié, créer un commit vérifiable puis pousser la branche
+   de travail. Une question, une pause ou une lecture seule ne crée aucun commit.
+7. Chaque commit de modification doit aussi mettre à jour le workflow et les garde-fous dans
    `A_LIRE_EN_PREMIER.md`, `GAME_NOTE_RULES.md` et
    `docs/GUIDE-GARDE-FOUS.md`. La note doit refléter le lot livré, ses
    validations et sa limite éventuelle ; un simple changement cosmétique est
@@ -273,7 +274,7 @@ transformée en validation automatique quand c'est possible.
 - Le registre, la checklist des 44 coffres bleus et les fiches boss restent trois
   couches distinctes : aucun repère ne doit créer un doublon dans les compteurs.
 - Avant toute visibilité, lancer le validateur strict, le build, le préflight et
-  les smoke tests ; le commit final est unique pour cette passe et reste local.
+  les smoke tests ; le commit final est unique pour cette passe, puis poussé.
 
 ### Passe OT2 — registre complet et publication
 
@@ -288,7 +289,7 @@ transformée en validation automatique quand c'est possible.
   cinq piliers de recoupement ; une ligne tronquee ou sans emplacement bloque
   la passe.
 - Le lot se ferme par build, validation stricte, preflight, audit et smoke tests,
-  puis un seul commit local final ; aucun push n'est implicite.
+  puis un seul commit final poussé sur la branche de travail.
 
 ### Passe visuelle — cartes Steam resilientes
 
@@ -416,3 +417,26 @@ transformée en validation automatique quand c'est possible.
 - La version publique augmente de 0.01 au commit. Toute modification terminee
   est committee puis poussee ; une question, une pause ou une lecture seule ne
   cree ni commit vide ni push.
+
+### Protocole maitre obligatoire a chaque commit - 14 aout 2026
+
+Chaque commit de modification applique cette methode complete :
+
+1. cadrer la demande, lire les regles, verifier le statut et proteger les
+   changements existants ;
+2. toujours integrer chaque ajout dans sa vraie destination et tracer avec un
+   statut explicite tout element encore en recherche ;
+3. pour une soluce, croiser cinq familles de sources minimum, conserver la
+   matrice, rediger une route exhaustive 100 % jeu + Steam et utiliser les noms
+   officiels francais de Steam ;
+4. conserver le TXT, separer les sequences jouables des dossiers de reference
+   et utiliser `[COFFRE]` pour les coffres et objets a trouver ;
+5. lancer validation catalogue + guides, garde-fous, build, preflight strict,
+   audit qualite, lint, smoke tests, diff et verification locale desktop/mobile ;
+6. controler la version `+0.01`, le contenu staged et le perimetre, creer un
+   commit unique, pousser la branche et deployer ce meme commit si le site est
+   touche.
+
+Un commit est refuse si une demande est seulement notee, si une information
+utile disparait, si une preuve ou un nom Steam francais manque, si route et
+annexes sont melangees, si un controle echoue ou si le commit reste local.

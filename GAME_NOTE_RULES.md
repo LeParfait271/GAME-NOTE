@@ -14,8 +14,8 @@ statique Cloudflare Pages.
   catalogue sans preuve et sans demande explicite.
 - Documenter toute convention nouvelle et ajouter un contrôle automatisé
   lorsqu'elle est vérifiable.
-- Après chaque modification du dépôt, créer un commit Git local décrivant le
-  lot réalisé ; ne jamais pousser automatiquement vers GitHub.
+- Après chaque modification du dépôt, appliquer le protocole de clôture, créer
+  un commit Git décrivant le lot réalisé, puis pousser la branche de travail.
 - Aucun commit n'est complet sans une mise à jour coordonnée du workflow et des
   garde-fous dans `A_LIRE_EN_PREMIER.md`, `GAME_NOTE_RULES.md` et
   `docs/GUIDE-GARDE-FOUS.md`. Cette mise à jour doit résumer le périmètre, les
@@ -486,9 +486,9 @@ comme OT0, restent hors publication jusqu'à leur validation éditoriale.
 - Le validateur bloque toute ligne `[COFFRE]` qui reviendrait à « aucun repère
   additionnel » ; une carte externe complète la navigation mais ne remplace pas
   la précision textuelle ni la vérification finale.
-- Cette passe se clôt par une seule validation et un seul commit local ; aucun
-  push n'est implicite et aucune version ne doit être déclarée livrée avant les
-  validations de publication.
+- Cette passe se clôt par une validation complète, un commit unique puis le
+  push ; aucune version ne doit être déclarée livrée avant les validations de
+  publication.
 
 ### Lot OT2 — contrôle de complétude et publication
 
@@ -503,7 +503,8 @@ comme OT0, restent hors publication jusqu'à leur validation éditoriale.
   les placeholders et le retour d'une politique de révélation incompatible sur
   cette fiche.
 - La version et les garde-fous suivent le commit final unique de la passe ; le
-  travail reste local tant qu'aucune demande de push n'est faite.
+  branche poussée et, si le site est touché, la publication doivent pointer sur
+  ce même commit.
 
 ## Passe visuelle — cartes Steam resilientes
 
@@ -628,3 +629,30 @@ comme OT0, restent hors publication jusqu'à leur validation éditoriale.
 - Chaque commit de modification bump la version du site de `0.01`, committe
   puis pousse la livraison terminee. Les questions, pauses, diagnostics en
   lecture seule et blocages externes ne creent ni commit vide ni push.
+
+### Protocole obligatoire a chaque commit - methode complete - 14 aout 2026
+
+Tout commit de modification doit appliquer la meme methode, quel que soit le
+fichier touche :
+
+1. Cadrer la demande et verifier `git status`, le diff existant et la portee
+   exacte ; ne jamais ecraser une modification concurrente.
+2. Integrer chaque ajout et chaque demande a sa vraie destination : source TXT, fiche, catalogue,
+   queue, registre, composant et rendu selon le cas. Une mention dans une note
+   ne compte pas ; tout element non verifie reste trace avec un statut explicite.
+3. Pour une soluce, croiser au moins cinq familles de sources, conserver les
+   divergences dans la matrice et rediger une route exhaustive 100 % jeu + Steam.
+   Les succes affichent les noms officiels Steam francais, jamais une traduction
+   inventee ; les coffres et objets utilisent `[COFFRE]` sans multiplier les icones.
+4. Separer la route jouable des dossiers de reference. Ne supprimer aucune
+   information utile du TXT ; les sequences ne contiennent pas les annexes.
+5. Executer les controles adaptes au lot, et pour tout lot site ou guide :
+   validation catalogue + guides, garde-fous, build, preflight strict, audit
+   qualite, lint, smoke tests, diff, puis verification locale desktop/mobile.
+6. Verifier la version `+0.01`, le contenu staged, le message du commit et
+   l absence de fichiers hors perimetre ; creer un commit unique et pousser la
+   branche. Si le site est touche, enregistrer puis deployer le meme commit.
+
+Un commit est bloque si une demande est seulement notee, si une source ou un
+intitule Steam francais n est pas verifie, si une sequence melange route et
+annexes, si un controle obligatoire echoue ou si le commit n est pas pousse.

@@ -201,6 +201,38 @@ const guideQueue = await readJson("docs/guide-rebuild-queue.json");
 const steamAudit = await readJson("docs/steam-audit.json");
 const steamAchievementsFr = await readJson("docs/steam-achievements-fr.json");
 
+function normalizePolicyText(value) {
+  return String(value)
+    .toLowerCase()
+    .normalize("NFD")
+    .replace(/[\u0300-\u036f]/g, "")
+    .replace(/\s+/g, " ");
+}
+
+const commitProtocolDocuments = [
+  "A_LIRE_EN_PREMIER.md",
+  "GAME_NOTE_RULES.md",
+  "docs/GUIDE-GARDE-FOUS.md",
+  "docs/site-publication-workflow.md",
+];
+const commitProtocolMarkers = [
+  "a chaque commit",
+  "integrer chaque ajout",
+  "cinq familles de sources",
+  "validation catalogue",
+  "version `+0.01`",
+  "commit unique",
+  "pousser la branche",
+];
+for (const file of commitProtocolDocuments) {
+  const policyText = normalizePolicyText(await readText(file));
+  for (const marker of commitProtocolMarkers) {
+    if (!policyText.includes(marker)) {
+      fail(`${file}: protocole obligatoire incomplet, marqueur absent: ${marker}.`);
+    }
+  }
+}
+
 const siteVersionMatch = siteVersionSource.match(
   /export const SITE_VERSION = "(\d+)\.(\d{2})";/,
 );

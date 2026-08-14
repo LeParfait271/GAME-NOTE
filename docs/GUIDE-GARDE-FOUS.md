@@ -226,7 +226,8 @@ mise à jour est refusé, même si le code ou la fiche fonctionne.
   Pandora's Box au premier Dragon Zombie, Final Attack, niveau 99, 99 999 999
   gils et retour à la surface avant la fin.
 - Limite restante : l'audit final doit encore confirmer les occurrences de route
-  de chaque type et Enemy Skill, puis la construction Pages avant le commit local.
+  de chaque type et Enemy Skill, puis la construction Pages avant le commit et
+  le push.
 
 ### Lot FFVII — audit croisé des matérias et Enemy Skills
 
@@ -237,7 +238,7 @@ mise à jour est refusé, même si le code ou la fiche fonctionne.
 - Contrôle de cohérence : le nom du type affiché dans le catalogue est aligné
   sur la route, notamment Kjata, Typhoon, Flame Thrower et Goblin Punch.
 - Limite restante : validation ciblée de cette passe, construction Pages et
-  commit local avec les trois fichiers de garde-fous.
+  commit puis push avec les trois fichiers de garde-fous.
 
 ## Seuil de profondeur Game Note
 
@@ -490,7 +491,7 @@ une mise à jour qui change les succès ou le contenu, le guide repasse en
   CRISIS restent exclus et doivent rester absents de la file des guides actifs.
 - Le contrôle de commit vérifie la cohérence de la file avec le catalogue, les
   audits Steam et la publication temporaire, puis conserve le bump de version
-  `0.01` et le commit local obligatoire.
+  `0.01` et le commit poussé obligatoire.
 
 ## Lot recherche OCTOPATH TRAVELER 0 — 13 août 2026
 
@@ -662,9 +663,8 @@ une mise à jour qui change les succès ou le contenu, le guide repasse en
 - Une direction issue d'une source reste une aide de parcours, pas une preuve de
   test en jeu. Les coffres bleus, les élites, les collectes et les boss gardent
   leurs contrôles séparés pour éviter les faux 100 %.
-- La clôture de ce lot impose une validation globale puis un seul commit local,
-  sans push automatique ; le bump de version et les garde-fous suivent ce même
-  commit final.
+- La clôture de ce lot impose une validation globale puis un seul commit poussé ;
+  le bump de version et les garde-fous suivent ce même commit final.
 
 ## Passe OT2 — matrice, registres et publication
 
@@ -681,9 +681,8 @@ une mise à jour qui change les succès ou le contenu, le guide repasse en
   fait échouer la validation. Le compteur seul ne vaut pas solution.
 - Les icônes de coffre sont activées pour l'identifiant OT2 dans le lecteur ;
   cette couche d'interface ne modifie aucun compteur éditorial.
-- La passe se clôt par une validation globale et un seul commit local. Le bump
-  de version, le workflow et les garde-fous sont inclus dans ce commit final,
-  sans push automatique.
+- La passe se clôt par une validation globale et un seul commit poussé. Le bump
+  de version, le workflow et les garde-fous sont inclus dans ce commit final.
 
 ## Passe visuelle — cartes Steam resilientes
 
@@ -701,7 +700,8 @@ une mise à jour qui change les succès ou le contenu, le guide repasse en
 - La transition reste facultative et décorative : `prefers-reduced-motion`
   conserve un affichage immédiat, sans modifier le contenu ni les compteurs.
 - La vérification attendue couvre 320/390 px, desktop, clavier, absence de
-  débordement, lint, build, preflight et smoke tests avant le commit local.
+  débordement, lint, build, preflight et smoke tests avant le commit puis le
+  push.
 
 ## Correctif titres et sequences vides - 14 aout 2026
 
@@ -720,7 +720,7 @@ une mise à jour qui change les succès ou le contenu, le guide repasse en
   principal puis sous-sections repliables ; les guides sans sections majeures
   utilisent un regroupement stable par prefixe de zone.
 - Le controle couvre le desktop, le mobile, le clavier, le build, le preflight,
-  le lint et les smoke tests avant le commit local.
+  le lint et les smoke tests avant le commit puis le push.
 
 ## Acces local de verification - 14 aout 2026
 
@@ -813,3 +813,27 @@ une mise à jour qui change les succès ou le contenu, le guide repasse en
 - Le hook augmente la version du site de `0.01` au commit. Une modification
   terminee est committee puis poussee ; une question, une pause, une lecture
   seule ou un blocage externe ne cree ni commit vide ni push.
+
+## Garde-fou - protocole obligatoire a chaque commit - 14 aout 2026
+
+Chaque commit de modification doit suivre cette chaine complete, sans exception
+liee au type de fichier :
+
+1. cadrage de la demande, `git status`, diff initial et protection des travaux
+   existants ;
+2. integrer chaque ajout dans la source, le catalogue, la queue,
+   les registres, les composants et le rendu concernes ;
+3. pour une soluce, lecture croisee d au moins cinq familles de sources, matrice
+   des divergences, route exhaustive 100 % jeu + Steam, noms officiels Steam
+   francais et `[COFFRE]` pour les objets a trouver ;
+4. separation stricte entre sequences jouables et dossiers de reference, sans
+   perte d information du TXT ;
+5. validation catalogue + guides, garde-fous, build, preflight strict, audit
+   qualite, lint, smoke tests, diff final et verification locale desktop/mobile ;
+6. controle de la version `+0.01`, du perimetre staged et du commit unique,
+   puis pousser la branche. Si le site est modifie, le meme commit doit etre
+   enregistre et deploye.
+
+Le garde-fou refuse un commit qui transforme une demande en simple note, omet un
+element, invente un nom de succes, melange route et annexes, masque un echec de
+validation ou reste seulement local.
