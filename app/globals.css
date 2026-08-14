@@ -5951,3 +5951,152 @@ button.reader-neighbor:focus-visible {
     background: color-mix(in srgb, var(--card) 96%, var(--route-ink));
   }
 }
+
+/* Orientation premium : le lecteur indique la sequence en cours et renforce
+   les reperes du sommaire sans changer le contenu editorial. */
+.site-shell.is-reader-mode .reader-current-route {
+  display: grid;
+  min-width: 0;
+  grid-template-columns: auto minmax(0, 1fr) auto;
+  align-items: center;
+  gap: 8px;
+  min-height: 34px;
+  padding: 5px 9px;
+  border-left: 2px solid var(--coral);
+  border-radius: 0 8px 8px 0;
+  background: color-mix(in srgb, var(--coral) 7%, var(--paper-deep));
+}
+
+.site-shell.is-reader-mode .reader-current-route-kicker {
+  color: var(--coral);
+  font-size: 0.48rem;
+  font-weight: 900;
+  letter-spacing: 0.12em;
+  white-space: nowrap;
+}
+
+.site-shell.is-reader-mode .reader-current-route strong {
+  min-width: 0;
+  overflow: hidden;
+  color: var(--navy);
+  font-size: 0.63rem;
+  line-height: 1.25;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.site-shell.is-reader-mode .reader-current-route > span:last-child {
+  color: var(--muted);
+  font-size: 0.55rem;
+  font-weight: 900;
+  letter-spacing: 0.05em;
+  white-space: nowrap;
+}
+
+.site-shell.is-reader-mode .reader-outline-group.is-active .reader-outline-major {
+  border-left-color: var(--coral);
+  background: color-mix(in srgb, var(--coral) 10%, var(--card));
+  color: var(--navy);
+}
+
+.site-shell.is-reader-mode .reader-outline-group.is-active .reader-outline-major-index {
+  border-color: color-mix(in srgb, var(--coral) 72%, var(--line));
+  background: color-mix(in srgb, var(--coral) 16%, var(--card));
+  color: var(--coral);
+}
+
+.site-shell.is-reader-mode .reader-outline-item.is-active {
+  border-left-color: var(--coral);
+  background: color-mix(in srgb, var(--coral) 7%, var(--card));
+  color: var(--navy);
+}
+
+.site-shell.is-reader-mode .guide-heading-row-route {
+  position: relative;
+  border-top-color: color-mix(in srgb, var(--coral) 32%, var(--line));
+}
+
+.site-shell.is-reader-mode .guide-heading-row-route::before {
+  position: absolute;
+  top: 0;
+  bottom: 13px;
+  left: -1px;
+  width: 2px;
+  content: "";
+  background: linear-gradient(var(--coral), transparent);
+}
+
+.site-shell.is-reader-mode .guide-heading-meta {
+  display: inline-flex;
+  width: fit-content;
+  margin-top: 9px;
+  padding: 4px 7px;
+  border: 1px solid color-mix(in srgb, var(--route-ink) 24%, var(--line));
+  border-radius: 5px;
+  color: var(--muted);
+  font-size: 0.52rem;
+  font-weight: 800;
+  letter-spacing: 0.06em;
+  line-height: 1.2;
+  text-transform: uppercase;
+}
+
+@media screen and (min-width: 961px) {
+  .site-shell.is-reader-mode .reader-tools {
+    grid-template-columns: minmax(150px, 0.42fr) minmax(175px, 0.8fr) minmax(280px, 1.55fr) auto auto auto;
+  }
+
+  .site-shell.is-reader-mode .reader-tools-copy {
+    grid-column: 1;
+  }
+
+  .site-shell.is-reader-mode .reader-current-route {
+    grid-column: 2;
+  }
+
+  .site-shell.is-reader-mode .reader-tools > .search-wrap {
+    grid-column: 3;
+  }
+
+  .site-shell.is-reader-mode .reader-tools > .result-count {
+    grid-column: 4;
+  }
+
+  .site-shell.is-reader-mode .reader-tools > .reader-reading-status {
+    grid-column: 5;
+  }
+
+  .site-shell.is-reader-mode .reader-tools > .reader-search-nav {
+    grid-column: 6;
+  }
+}
+
+@media screen and (max-width: 960px) and (min-width: 761px) {
+  .site-shell.is-reader-mode .reader-tools {
+    grid-template-columns: minmax(145px, 0.8fr) minmax(180px, 1.2fr) auto;
+  }
+
+  .site-shell.is-reader-mode .reader-tools > .search-wrap {
+    grid-column: 1 / -1;
+  }
+}
+
+@media screen and (max-width: 760px) {
+  .site-shell.is-reader-mode .reader-current-route {
+    min-height: 38px;
+    padding: 7px 9px;
+  }
+
+  .site-shell.is-reader-mode .reader-current-route strong {
+    font-size: 0.65rem;
+  }
+
+  .site-shell.is-reader-mode .guide-heading-meta {
+    margin-top: 7px;
+    font-size: 0.48rem;
+  }
+
+  .site-shell.is-reader-mode .guide-heading-row-route::before {
+    bottom: 9px;
+  }
+}

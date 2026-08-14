@@ -714,6 +714,8 @@ export default function GuideReader({
   const [readingProgress, setReadingProgress] = useState(0);
   const [savedReadingProgress, setSavedReadingProgress] = useState(0);
   const [activeSearchResult, setActiveSearchResult] = useState(0);
+  const [activeOutlineId, setActiveOutlineId] = useState("");
+  const [activeRouteId, setActiveRouteId] = useState("");
   const [outlineOpen, setOutlineOpen] = useState(false);
   const [outlineGroupsOpen, setOutlineGroupsOpen] = useState<Record<string, boolean>>({});
   const resultRefs = useRef<Array<HTMLElement | null>>([]);
@@ -724,6 +726,8 @@ export default function GuideReader({
     const savedProgress = readReadingProgress(selected.file);
     setReadingProgress(savedProgress);
     setSavedReadingProgress(savedProgress);
+    setActiveOutlineId("");
+    setActiveRouteId("");
     setOutlineGroupsOpen({});
   }, [selected.file]);
 
@@ -769,6 +773,28 @@ export default function GuideReader({
         ? Math.min(1, Math.max(0, window.scrollY / maximumScroll))
         : 0;
       setReadingProgress(nextProgress);
+      const routeHeadings = Array.from(
+        document.querySelectorAll<HTMLElement>(".guide-route-lane .guide-heading-row-route"),
+      );
+      const outlineTargets = Array.from(
+        document.querySelectorAll<HTMLElement>(
+          ".guide-route-lane .guide-heading-row-route, .guide-route-lane .guide-subheading",
+        ),
+      );
+      const nextOutlineTarget = outlineTargets.reduce<HTMLElement | undefined>(
+        (current, target) =>
+          target.getBoundingClientRect().top <= 190 ? target : current,
+        outlineTargets[0],
+      );
+      const nextOutlineId = nextOutlineTarget?.id ?? "";
+      setActiveOutlineId((current) => current === nextOutlineId ? current : nextOutlineId);
+      const nextRouteHeading = routeHeadings.reduce<HTMLElement | undefined>(
+        (current, heading) =>
+          heading.getBoundingClientRect().top <= 190 ? heading : current,
+        routeHeadings[0],
+      );
+      const nextRouteId = nextRouteHeading?.id ?? "";
+      setActiveRouteId((current) => current === nextRouteId ? current : nextRouteId);
       try {
         if (nextProgress > 0.02) {
           setSavedReadingProgress(nextProgress);
@@ -852,6 +878,11 @@ export default function GuideReader({
     () => outlineGroups.filter((group) => group.role === "reference"),
     [outlineGroups],
   );
+  const activeRouteIndex = routeOutlineGroups.findIndex(
+    (group) => group.anchor?.id === activeRouteId,
+  );
+  const currentRouteIndex = activeRouteIndex >= 0 ? activeRouteIndex : routeOutlineGroups.length > 0 ? 0 : -1;
+  const currentRouteGroup = currentRouteIndex >= 0 ? routeOutlineGroups[currentRouteIndex] : undefined;
   const markerKinds = useMemo(
     () => uniqueGuideMarkers(blocks.flatMap((block) => block.markers ?? [])),
     [blocks],
@@ -924,11 +955,15 @@ export default function GuideReader({
 
   const renderOutlineGroup = (group: GuideOutlineGroup, groupIndex: number) => (
     <section
-      className={`reader-outline-group reader-outline-group-${group.role}${group.synthetic ? " is-generated" : ""}`}
+      className={`reader-outline-group reader-outline-group-${group.role}${group.synthetic ? " is-generated" : ""}${group.anchor?.id === activeRouteId ? " is-active" : ""}`}
       key={group.id}
     >
       {group.anchor ? (
-        <a className="reader-outline-major" href={`#${group.anchor.id}`}>
+        <a
+          className="reader-outline-major"
+          href={`#${group.anchor.id}`}
+          aria-current={group.anchor.id === activeRouteId ? "step" : undefined}
+        >
           <span className="reader-outline-major-index" aria-hidden="true">
             {String(groupIndex + 1).padStart(2, "0")}
           </span>
@@ -964,7 +999,12 @@ export default function GuideReader({
           </summary>
           <div className="reader-outline-items">
             {group.items.map((item) => (
-              <a className="reader-outline-item" href={`#${item.id}`} key={item.id}>
+              <a
+                className={`reader-outline-item${item.id === activeOutlineId ? " is-active" : ""}`}
+                href={`#${item.id}`}
+                key={item.id}
+                aria-current={item.id === activeOutlineId ? "location" : undefined}
+              >
                 <GuideMarkerRow markers={item.markers} />
                 <span>{formatText(item.text)}</span>
               </a>
@@ -1068,6 +1108,13 @@ export default function GuideReader({
           <span className="reader-tool-kicker">FICHE ACTIVE</span>
           <label htmlFor="guide-search">Rechercher dans la soluce</label>
         </div>
+        {!query && currentRouteGroup?.anchor ? (
+          <div className="reader-current-route" aria-live="polite">
+            <span className="reader-current-route-kicker">{activeRouteId ? "EN COURS" : "À SUIVRE"}</span>
+            <strong>{formatText(currentRouteGroup.anchor.text)}</strong>
+            <span>{String(currentRouteIndex + 1).padStart(2, "0")} / {routeOutlineGroups.length}</span>
+          </div>
+        ) : null}
         <div className="search-wrap">
           <span aria-hidden="true">⌕</span>
           <input
@@ -1235,6 +1282,14 @@ export default function GuideReader({
                         <p className="guide-heading-eyebrow">{headingLabel}</p>
                         <GuideMarkerRow markers={block.markers} />
                         <h3 className="guide-heading">{highlighted}</h3>
+                        {isRouteHeading && routeOutlineGroups.find((group) => group.anchor?.id === block.id) ? (
+                          <span className="guide-heading-meta">
+                            {(() => {
+                              const count = routeOutlineGroups.find((group) => group.anchor?.id === block.id)?.items.length ?? 0;
+                              return `${count} sous-section${count > 1 ? "s" : ""} à vérifier`;
+                            })()}
+                          </span>
+                        ) : null}
                       </div>
                     </div>
                   );

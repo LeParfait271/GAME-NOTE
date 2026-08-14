@@ -462,3 +462,12 @@ annexes sont melangees, si un controle echoue ou si le commit reste local.
   classe `is-in-view`, pas seulement le nombre de cartes dans le DOM.
 - Le parcours fiche -> retour -> fiche et le bouton precedent du navigateur
   doivent etre testes avant chaque publication.
+
+### Regle active - orientation pendant la lecture - 14 aout 2026
+
+- La barre fixe doit indiquer la sequence en cours ou la prochaine a suivre,
+  avec sa position dans le parcours.
+- Le sommaire doit surligner la sequence active et la sous-section active quand
+  le lecteur avance ; un sommaire seulement decoratif ne suffit pas.
+- Chaque sequence jouable affiche un repere compact du nombre de sous-sections
+  a verifier, sans dupliquer ni raccourcir le texte source.

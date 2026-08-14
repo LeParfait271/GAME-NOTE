@@ -679,3 +679,12 @@ annexes, si un controle obligatoire echoue ou si le commit n est pas pousse.
   ouvertures de fiche.
 - Tester fiche -> retour -> fiche, puis le bouton precedent du navigateur,
   avant build final, commit, push et deploiement.
+
+### Regle active - orientation de lecture
+
+- Le lecteur doit toujours donner un contexte de position : sequence en cours,
+  position dans le parcours et sous-section active quand elle est identifiable.
+- Le sommaire est interactif et doit refleter la position reelle, avec une
+  distinction visuelle entre sequence active et sous-section active.
+- Les metadonnees de mise en page peuvent compter les sous-sections, mais ne
+  remplacent jamais les instructions, objets, coffres ou conditions du TXT.

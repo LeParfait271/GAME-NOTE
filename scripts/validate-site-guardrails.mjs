@@ -261,6 +261,25 @@ for (const marker of [
     fail(`app/page.tsx: retour vers la bibliotheque non protege (${marker}).`);
   }
 }
+for (const marker of [
+  "activeRouteId",
+  "activeOutlineId",
+  "reader-current-route",
+  "guide-heading-meta",
+]) {
+  if (!reader.includes(marker)) {
+    fail(`app/GuideReader.tsx: orientation de lecture absente (${marker}).`);
+  }
+}
+for (const marker of [
+  ".reader-current-route",
+  ".reader-outline-item.is-active",
+  ".guide-heading-meta",
+]) {
+  if (!stylesheet.includes(marker)) {
+    fail(`app/globals.css: style d orientation absent (${marker}).`);
+  }
+}
 
 const siteVersionMatch = siteVersionSource.match(
   /export const SITE_VERSION = "(\d+)\.(\d{2})";/,

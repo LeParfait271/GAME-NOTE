@@ -73,6 +73,11 @@ test("le shell statique conserve les repères accessibles", () => {
   assert.match(readerSource, /const buildGuideOutlineGroups =/);
   assert.match(readerSource, /className="reader-outline-major"/);
   assert.match(readerSource, /className="reader-outline-details"/);
+  assert.match(readerSource, /activeRouteId/);
+  assert.match(readerSource, /activeOutlineId/);
+  assert.match(readerSource, /className="reader-current-route"/);
+  assert.match(readerSource, /guide-heading-meta/);
+  assert.match(readerSource, /aria-current=\{item\.id === activeOutlineId/);
   assert.match(readerSource, /const isOpen = event\.currentTarget\.open;/);
   assert.match(readerSource, /\[group\.id\]: isOpen,/);
   assert.doesNotMatch(

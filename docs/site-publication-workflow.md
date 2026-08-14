@@ -364,3 +364,12 @@ Le travail ne se limite pas a noter une intention :
   au sommaire. Compter les elements dans le DOM ne valide pas le rendu.
 - Le bouton precedent du navigateur doit produire le meme resultat et conserver
   les filtres, la recherche et la lettre A-Z quand ils etaient actifs.
+
+## Workflow de lecture - orientation continue - 14 aout 2026
+
+- Sur une fiche longue, verifier que la barre fixe affiche la sequence en cours
+  ou a suivre et sa position dans le parcours.
+- Faire defiler au moins deux sequences et controler que le sommaire change de
+  surbrillance sur la sequence et la sous-section correspondantes.
+- Verifier desktop et 390 px, ainsi que la recherche : les repères d orientation
+  ne doivent ni deborder, ni masquer le texte, ni modifier l ordre editorial.

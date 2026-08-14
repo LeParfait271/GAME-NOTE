@@ -861,3 +861,13 @@ validation ou reste seulement local.
   `validate-site-guardrails.mjs` et `site-smoke.test.mjs`.
 - La verification locale couvre fiche -> retour -> fiche et le bouton precedent
   du navigateur, avec controle des cartes, du sommaire et du debordement.
+
+## Garde-fou - orientation active du lecteur - 14 aout 2026
+
+- La barre de lecture doit exposer la sequence en cours ou a suivre et sa
+  position ; le sommaire doit porter `aria-current` sur les reperes actifs.
+- La sous-section active est surlignee quand elle est visible dans la route.
+  Les compteurs de sous-sections sont des aides visuelles, jamais une source
+  de contenu a la place du TXT.
+- Le garde-fou controle les marqueurs React et CSS de cette orientation, puis
+  la verification locale doit observer un changement de sequence au scroll.
