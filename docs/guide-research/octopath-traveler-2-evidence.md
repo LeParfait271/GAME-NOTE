@@ -1,6 +1,6 @@
 # Matrice de preuve — Octopath Traveler II
 
-Passe de reconstruction : 13 août 2026
+Passe de reconstruction : 15 août 2026
 
 Ce fichier documente les contrôles utilisés pour la fiche publiée
 `public/guides/octopath-traveler-2.txt`. Il accompagne la carte `octopath-2`
@@ -10,7 +10,8 @@ et la publication du TXT dans `docs/site-publication.json`.
 
 - 33 succès Steam officiels.
 - 8 histoires individuelles, 4 Crossed Paths en 2 actes, et le chapitre final.
-- 67 Side Stories, dont `The Traveler's Bag` et `A Gate Between Worlds`.
+- 67 Side Stories : The Traveler's Bag, 65 Side Stories preparatoires fixes et
+  A Gate Between Worlds apres les credits.
 - 30 Gramophone Records.
 - 7 pièces Battle-Tested.
 - 16 EX Skills, 8 jobs secondaires, 4 jobs avancés.
@@ -59,5 +60,7 @@ Le validateur strict doit refuser la passe si :
 - les registres de 67 Side Stories, 30 Records, 7 Battle-Tested, 33 succès ou
   69 lieux ne correspondent plus à leurs sections.
 
-La fiche reste soumise à ses contrôles de contenu après publication. Le commit
-de cette passe est unique et local ; aucun push distant n'est implicite.
+La fiche reste soumise à ses contrôles de contenu après publication. La passe
+groupée se clôt par un commit unique puis un push immédiat après les validations.
+La publication reste une étape séparée et ne doit exposer que les trois fiches
+actives ; Octopath 0 demeure archivé.

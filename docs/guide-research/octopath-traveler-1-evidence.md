@@ -1,6 +1,6 @@
 # Matrice de recherche — Octopath Traveler 1
 
-Date de recoupement : 13 août 2026  
+Date de recoupement : 15 août 2026
 Périmètre : jeu de base PC/Steam, spoilers autorisés, route chronologique et
 100 % des succès Steam.
 
@@ -85,8 +85,9 @@ récompenses de récits sont tous couverts par la route ou l'annexe Collector.
 - Le catalogue annonce 88/88, 734 coffres, 152 objets cachés et les spoilers
   autorisés ; l'ancienne mention « sans spoiler » est interdite pour cette
   fiche.
-- `docs/site-publication.json` reste limité à Expedition 33 et Octopath 1 ;
-  les anciennes fiches restent dans l'archive et invisibles sur le site.
+- `docs/site-publication.json` expose désormais les trois fiches actives :
+  Expedition 33, Octopath 1 et Octopath 2. Octopath 0 reste la fiche de
+  recherche archivée et invisible.
 
 ## Sources
 

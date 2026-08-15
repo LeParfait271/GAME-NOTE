@@ -29,6 +29,95 @@ const results = [];
 const count = (text, pattern) => (text.match(pattern) ?? []).length;
 const hasAny = (text, patterns) => patterns.some((pattern) => pattern.test(text));
 
+const hasContiguousIds = (text, pattern, last) => {
+  const ids = new Set(
+    [...text.matchAll(pattern)].map((match) => Number.parseInt(match[1], 10)),
+  );
+  if (ids.size !== last) return false;
+  for (let id = 1; id <= last; id += 1) {
+    if (!ids.has(id)) return false;
+  }
+  return true;
+};
+
+const specificIssues = (id, text) => {
+  const issues = [];
+  const requireAny = (label, patterns) => {
+    if (!hasAny(text, patterns)) issues.push(label);
+  };
+
+  if (id === "expedition-33") {
+    [
+      ["compteur Steam 55/55 absent", [/55\/55 succes Steam/i]],
+      ["compteur journaux 49/49 absent", [/49\/49 journaux/i]],
+      ["compteur disques 33/33 absent", [/33\/33 disques/i]],
+      ["compteur Nevrons 10/10 absent", [/10\/10 quetes de Nevrons/i]],
+      ["compteur Gestrals 9/9 absent", [/9\/9 Gestrals/i]],
+      ["compteur jeux gestral 5/5 absent", [/5\/5 jeux gestral/i]],
+      ["compteur Monoco 46/46 absent", [/46\/46 competences de Monoco/i]],
+      ["compteur relations 35/35 absent", [/35\/35 interactions/i]],
+      ["reponse Antoine incomplete", [/quiz d'Antoine, avec les reponses 67, Expedition Zero/i]],
+      ["controle prologue absent", [/AVANT DE SORTIR - PROLOGUE/i]],
+      ["choix de fin absent", [/CHOIX DE FIN/i]],
+      ["post-game absent", [/POST-GAME/i]],
+    ].forEach(([label, patterns]) => requireAny(label, patterns));
+  }
+
+  if (id === "octopath-traveler-1") {
+    [
+      ["compteur Steam 88/88 absent", [/88\/88 succes Steam/i]],
+      ["compteur coffres 734/734 absent", [/734\/734 coffres/i]],
+      ["compteur objets caches 152/152 absent", [/152\/152 objets/i]],
+      ["compteur recits 101/101 absent", [/101\/101 recits|101\/101 récits/i]],
+      ["compteur Strategiste 381/381 absent", [/381\/381\*{0,2}\s*entrees|381\/381\*{0,2}\s*entrées/i]],
+      ["alerte seconde sauvegarde absente", [/Seconde sauvegarde/i]],
+      ["controle Galdera absent", [/Galdera/i]],
+      ["controle Original Tome absent", [/Original Tome/i]],
+    ].forEach(([label, patterns]) => requireAny(label, patterns));
+  }
+
+  if (id === "octopath-traveler-2") {
+    [
+      ["compteur Steam 33/33 absent", [/33\/33 succes Steam/i]],
+      ["compteur Side Stories 67 absent", [/67 Side Stories/i]],
+      ["compteur Records 30 absent", [/30 Records/i]],
+      ["compteur Battle-Tested 7 absent", [/7 Battle-Tested/i]],
+      ["compteur EX Skills 16 absent", [/16 EX Skills/i]],
+      ["The Traveler's Bag absent", [/The Traveler's Bag/i]],
+      ["A Gate Between Worlds absent", [/A Gate Between Worlds/i]],
+      ["The Journey for the Dawn absent", [/The Journey for the Dawn/i]],
+    ].forEach(([label, patterns]) => requireAny(label, patterns));
+
+    if (!hasContiguousIds(text, /#(\d{3})\b/g, 632)) {
+      issues.push("registre coffres #001-#632 incomplet");
+    }
+    if (!hasContiguousIds(text, /H(\d{3})\b/g, 237)) {
+      issues.push("registre objets caches H001-H237 incomplet");
+    }
+
+    const finalPhaseStart = text.indexOf("PHASE 8 - PREPARATION DU CHAPITRE FINAL");
+    const finalPhase = finalPhaseStart >= 0 ? text.slice(finalPhaseStart) : "";
+    if (
+      !/66 Side Stories[\s\S]*A Gate Between Worlds[\s\S]*THE JOURNEY FOR THE DAWN[\s\S]*credits/i.test(
+        finalPhase,
+      )
+    ) {
+      issues.push("ordre final 66 Side Stories -> A Gate -> credits absent");
+    }
+    if (!/The Traveler's Bag[\s\S]*65 Side Stories preparatoires fixes[\s\S]*A Gate Between Worlds/i.test(text)) {
+      issues.push("decompte OT2 67 = sac + 65 preparatoires + A Gate absent");
+    }
+    if (/Traveler's Bag et 66 autres recits fixes/i.test(text)) {
+      issues.push("ancien decompte OT2 contradictoire detecte");
+    }
+    if (/(?:SANS SPOILER|aucun rep[eè]re additionnel|\bTODO\b|\bTBD\b)/i.test(text)) {
+      issues.push("placeholder ou ancienne fiche detecte");
+    }
+  }
+
+  return issues;
+};
+
 const isHeadingLike = (line) => {
   const trimmed = line.trim();
   if (!trimmed) return false;
@@ -86,6 +175,8 @@ for (const entry of active) {
     /\b(?:zone|salle|donjon|chapitre|mission|niveau|secteur|coffre|tresor|objet|materia|collectible|quete|ville|village|temple|foret|grotte|cave|room|map)\b/gi,
   );
   const issues = [];
+
+  issues.push(...specificIssues(entry.id, text));
 
   if (lines.length < 180) issues.push("fiche courte");
   if (routeHeadings < 3) issues.push("route trop peu decoupee");

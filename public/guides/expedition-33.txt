@@ -1,7 +1,7 @@
 CLAIR OBSCUR: EXPEDITION 33
 GUIDE CHRONOLOGIQUE COMPLET - 100 % STEAM - SPOILERS COMPLETS AUTORISES
 
-Version verifiee : 13 aout 2026
+Version verifiee : 15 aout 2026
 AppID Steam : 1903340
 Perimetre : jeu principal, 55 succes Steam, contenu gratuit disponible dans la
 version PC actuelle. Aucun succes online, cooperatif ou DLC payant n'est
@@ -41,6 +41,23 @@ Dans cette fiche, `[COFFRE]` signale un objet ou une recompense a ramasser,
 une attention particuliere. Les objets ordinaires ne sont pas gonfles en faux
 compteurs : seuls les objets qui servent au 55/55 ou au nettoyage pratique sont
 expliques.
+
+AUDIT FINAL DU LOT - 15 AOUT 2026
+=================================
+
+- Les reponses du quiz d'Antoine restent **67**, **Expedition Zero**, puis une
+  capacite deja internalisee apres utilisation d'un Picto en combat.
+- Avant S4, traite les 49 journaux, les 33 disques, les 10 quetes de Nevrons,
+  les 9 Gestrals perdus, les 5 jeux gestral, les 46 competences de Monoco et
+  les 35 interactions de relations. Les rattrapages de Simon, Unknown 3 et
+  certains disques sont reserves au post-game lorsqu'ils restent verrouilles.
+- Pour une competence de Monoco, Monoco doit etre dans l'equipe active au moment
+  ou l'ennemi tombe ; une simple rencontre ne valide pas le pied.
+- Pour les Nevrons, garde les aides en vie jusqu'a la recompense de Blanche et
+  Noire ; Chalier est le cas a battre selon la route.
+- L'ordre de fermeture est : CHOIX DE FIN, continuer la partie apres **Fin**,
+  puis POST-GAME et enfin la CHECKLIST FINALE. Le contenu gratuit Verso's Drafts
+  reste separe des 55 succes Steam.
 
 ================================================================
 COMMENT LIRE LA SOLUCE

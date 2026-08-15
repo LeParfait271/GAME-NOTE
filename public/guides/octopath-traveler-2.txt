@@ -1,7 +1,7 @@
 OCTOPATH TRAVELER II
 GUIDE CHRONOLOGIQUE 100 % STEAM - 33 SUCCES STEAM - SPOILERS COMPLETS
 
-Version de travail : 15 aout 2026
+Version verifiee : 15 aout 2026
 AppID Steam : 1971650
 
 Ce guide sert de route de jeu complete, pas seulement de liste de trophees.
@@ -35,7 +35,24 @@ Le jeu ne possede pas de succes strictement manquable. En revanche, le dernier
 chapitre verrouille temporairement les Side Stories, les actions de jour et
 une partie du nettoyage. C'est pourquoi ce guide impose le nettoyage des 66
 Side Stories preparatoires avant de lancer The Journey for the Dawn ; la 67e,
-A Gate Between Worlds, se fait apres les credits.
+A Gate Between Worlds, se fait apres les credits. Cette 67e exige les huit
+histoires individuelles, The Traveler's Bag, Procuring Peculiar Tomes et From
+the Far Reaches of Hell.
+
+AUDIT FINAL DU LOT - 15 AOUT 2026
+=================================
+
+- Le total reel est **67** : The Traveler's Bag, **65 Side Stories
+  preparatoires fixes**, puis A Gate Between Worlds. Le sac n'ajoute donc pas
+  une 68e quete et A Gate ne doit pas etre cochee avant les credits.
+- L'ordre de securite est : terminer les 66 quetes preparatoires, faire S4,
+  lancer The Journey for the Dawn, terminer l'epilogue, puis revenir au ???
+  pour A Gate Between Worlds.
+- Les 30 Records, les 7 Battle-Tested, les 16 EX Skills, les 632 coffres et les
+  237 objets caches sont des registres distincts : un objet cache ne gonfle pas
+  le compteur des coffres et aucun des deux ne remplace un succes Steam.
+- Le chapitre final ne sert pas de zone de rattrapage : si une Side Story
+  preparatoire reste active, reporte le lancement et corrige-la dans le journal.
 
 REGLES DE LECTURE
 ==================
@@ -94,7 +111,7 @@ Ordre conseille pour la partie principale :
    Worlds.
 
 Le niveau indique est un repere de confort, pas une obligation. Le materiel
-et les faiblesses compte davantage que cinq niveaux supplementaires.
+et les faiblesses comptent davantage que cinq niveaux supplementaires.
 
 PHASE 0 - RECRUTEMENT ET CHAPITRES 1
 =====================================
@@ -506,7 +523,8 @@ PHASE 4 - 67 SIDE STORIES, PAR REGION
 =====================================
 
 Le journal doit afficher zero Side Story active. Le compteur de 67 inclut The
-Traveler's Bag et 66 autres recits fixes. Fais le sac immediatement ; pour chaque ligne,
+Traveler's Bag, 65 recits preparatoires fixes et A Gate Between Worlds. Fais le
+sac immediatement ; pour chaque ligne,
 la methode indiquee est la solution la plus fiable. Les variantes de Path
 Action sont equivalentes sauf indication contraire.
 
@@ -677,7 +695,8 @@ HINOEUMA - 7 SIDE STORIES
 CONTROLE DES 67 SIDE STORIES
 ----------------------------
 
-Le total doit etre 67 : The Traveler's Bag + 66 Side Stories fixes. Si le
+Le total doit etre 67 : The Traveler's Bag + 65 Side Stories preparatoires fixes
+et A Gate Between Worlds. Si le
 succes **Ça vaut le détour** ne tombe pas, les erreurs les plus courantes sont :
 
 - A Gate Between Worlds non lance parce que les deux livres de Montwise ne

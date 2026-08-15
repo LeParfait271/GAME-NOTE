@@ -567,3 +567,15 @@ annexes sont melangees, si un controle echoue ou si le commit reste local.
   de lecture ; les transitions restent coupees en mouvement reduit.
 - Controle cible : header, hero, index actif, recherche, cartes et couverture sur
   390, 768 et 1440 px.
+
+### Lot audit final des trois guides - 15 aout 2026
+
+- La passe groupée porte uniquement sur Expedition 33, Octopath Traveler 1 et
+  Octopath Traveler 2. Octopath Traveler 0 reste une recherche archivee.
+- Controle les compteurs Steam 55/55, 88/88 et 33/33, puis les matrices propres
+  a chaque jeu : collections Expedition, 734/152 et 101/381 pour OT1, 67/30/7/16
+  et les registres 632/237 pour OT2.
+- Pour OT2, le verrou final est obligatoire : 66 Side Stories preparatoires,
+  S4, The Journey for the Dawn, epilogue, puis A Gate Between Worlds.
+- Apres l audit visuel sur 390, 768, 1280 et 1440 px, lancer build, preflight,
+  audit strict, lint et smoke tests avant le commit, le push et le deploiement.

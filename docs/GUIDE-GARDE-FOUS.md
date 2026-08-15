@@ -1051,3 +1051,19 @@ validation ou reste seulement local.
   masquee.
 - Le controle couvre 390 px et 320 px, les cinq libelles, le debordement
   horizontal, puis build, preflight strict, audit qualite, lint et smoke tests.
+
+## Garde-fou - audit final groupe des trois guides - 15 aout 2026
+
+- Le lot visible est exactement Expedition 33, Octopath Traveler 1 et Octopath
+  Traveler 2. Octopath Traveler 0 reste archive, non visible et hors de cette
+  certification.
+- Le controle strict doit retrouver 55, 88 et 33 succes Steam, puis les
+  compteurs de collecte Expedition 49/33/10/9/5/46/35, OT1 734/152/101/381 et
+  OT2 67/30/7/16 avec les registres distincts 632/237.
+- Pour OT2, le parcours de fin est impose : 66 Side Stories preparatoires,
+  sauvegarde S4, The Journey for the Dawn, epilogue, puis A Gate Between Worlds
+  apres les credits. Une ligne A Gate ne doit jamais etre comptee comme une
+  68e Side Story.
+- Le lot doit passer l audit visuel reel a 390, 768, 1280 et 1440 px, puis le
+  build, le preflight strict, l audit qualite, le lint, les smoke tests, le
+  commit, le push et le deploiement.

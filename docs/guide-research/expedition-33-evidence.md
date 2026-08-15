@@ -1,6 +1,6 @@
 # Matrice de vérification — Clair Obscur: Expedition 33
 
-Date de contrôle : 13 août 2026
+Date de contrôle : 15 août 2026
 Plateforme : PC / Steam
 AppID : 1903340
 Périmètre : jeu de base, 55 succès Steam, contenu gratuit traité séparément.

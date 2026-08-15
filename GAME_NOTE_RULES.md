@@ -876,3 +876,18 @@ annexes, si un controle obligatoire echoue ou si le commit n est pas pousse.
 - Controle obligatoire sur 390 px et 320 px : mesurer la rangée, verifier les
   cinq filtres et l absence de debordement horizontal avant build, commit, push
   et deploiement.
+
+### Regle active - certification groupee des trois guides - 15 aout 2026
+
+- Une passe de finition groupée doit couvrir Expedition 33, Octopath Traveler 1
+  et Octopath Traveler 2 ensemble ; OT0 reste hors publication tant que sa
+  recherche n est pas terminee.
+- Les compteurs Steam attendus sont 55, 88 et 33. Les compteurs pratiques
+  restent separes : Expedition 49/33/10/9/5/46/35, OT1 734/152/101/381 et OT2
+  67/30/7/16 avec les registres 632/237.
+- OT2 ne peut etre declare termine qu apres les 66 Side Stories preparatoires,
+  S4, le chapitre final, l epilogue et A Gate Between Worlds apres les credits.
+- Toute declaration de 100 % doit rester bornee a ces matrices verifiees ; elle
+  ne transforme pas une liste communautaire en source officielle. La passe se
+  termine par build, preflight, audit strict, lint, smoke, commit, push et
+  deploiement.

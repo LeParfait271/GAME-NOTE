@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-08-11",
+  "checkedAt": "2026-08-15",
   "sourcePolicy": "Steam store page first; achievement conditions still require a second source during each guide audit.",
   "games": [
     { "id": "octopath-traveler-0", "appId": 3014320, "steamAchievements": 37, "guideType": "100-steam-research", "source": "https://store.steampowered.com/app/3014320/OCTOPATH_TRAVELER_0/" },
