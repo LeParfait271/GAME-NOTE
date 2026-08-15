@@ -159,7 +159,7 @@ const getGuideHeadingRole = (
   if (isGuideRouteHeading(value)) {
     return "route";
   }
-  return headingLevel <= 2 ? "reference" : currentRole;
+  return currentRole === "route" ? "route" : "reference";
 };
 
 const uniqueGuideMarkers = (markers: GuideMarkerKind[]) =>

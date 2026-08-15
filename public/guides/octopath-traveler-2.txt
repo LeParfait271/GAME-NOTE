@@ -1,7 +1,7 @@
 OCTOPATH TRAVELER II
 GUIDE CHRONOLOGIQUE 100 % STEAM - 33 SUCCES STEAM - SPOILERS COMPLETS
 
-Version de travail : 13 aout 2026
+Version de travail : 15 aout 2026
 AppID Steam : 1971650
 
 Ce guide sert de route de jeu complete, pas seulement de liste de trophees.
@@ -33,8 +33,9 @@ La sauvegarde principale doit terminer avec :
 
 Le jeu ne possede pas de succes strictement manquable. En revanche, le dernier
 chapitre verrouille temporairement les Side Stories, les actions de jour et
-une partie du nettoyage. C'est pourquoi ce guide impose un nettoyage complet
-avant de lancer The Journey for the Dawn.
+une partie du nettoyage. C'est pourquoi ce guide impose le nettoyage des 66
+Side Stories preparatoires avant de lancer The Journey for the Dawn ; la 67e,
+A Gate Between Worlds, se fait apres les credits.
 
 REGLES DE LECTURE
 ==================
@@ -86,11 +87,11 @@ Ordre conseille pour la partie principale :
 4. ouvre le bateau avec les trois etapes de The Scent of Commerce ;
 5. fais les chapitres 4 et les chapitres finaux individuels ;
 6. termine les quatre Crossed Paths, leurs deux actes ;
-7. nettoie les 67 Side Stories, les 30 Records, les 7 Battle-Tested et
-   toutes les zones ;
+7. nettoie les 66 Side Stories preparatoires, les 30 Records, les 7 Battle-Tested
+   et toutes les zones ;
 8. sauvegarde en S4, puis lance The Journey for the Dawn ;
-9. termine l'epilogue, puis va battre le boss optionnel de Gate to the
-   Netherworld.
+9. termine l'epilogue, puis va battre le boss optionnel de A Gate Between
+   Worlds.
 
 Le niveau indique est un repere de confort, pas une obligation. Le materiel
 et les faiblesses compte davantage que cinq niveaux supplementaires.
@@ -143,10 +144,10 @@ TEMENOS - FLAMECHURCH - CHAPTER 1 - NIVEAU 1
 - Fais une premiere visite a Borderfall : l'autel de Temenos est accessible
   avant la fin de son histoire.
 
-OCHETTE - BEASTLING VILLAGE - CHAPTER 1 - NIVEAU 1
+OCHETTE - BEASTING VILLAGE - CHAPTER 1 - NIVEAU 1
 -------------------------------------------------
 
-- Termine le chapitre d'Ochette dans Beastling Village.
+- Termine le chapitre d'Ochette dans Beasting Village.
 - Choisis Akala ou Mahina selon ton style ; les deux voies permettent les
   succes. La voie choisie change certaines captures et le combat final
   d'Ochette, pas le nombre de succes.
@@ -159,7 +160,8 @@ PARTITIO - ORESRUSH - CHAPTER 1 - NIVEAU 1
 
 - Termine Oresrush et le premier objectif commercial.
 - Fais les trois etapes de The Scent of Commerce des qu'elles deviennent
-  disponibles ; les deux premieres donnent deja des Records.
+  disponibles : Tropu'hopu donne le bateau, Sai donne le manuscrit et
+  Winterbloom donne trois Records.
 - Ne depense pas toutes tes feuilles : garde 100 000 feuilles pour le bateau
   de Tropu'hopu et les achats de nettoyage.
 
@@ -239,16 +241,22 @@ de toucher la statue. Les huit autres EX Skills sont obtenues en terminant les
 histoires individuelles ; retourne dans le menu Skills pour confirmer les
 seize icones.
 
-INVENTOR - 7 INVENTIONS ET DIVINE SKILL
-----------------------------------------
+INVENTOR - 7 COMPETENCES ET DIVINE SKILL
+-----------------------------------------
 
-Va dans la maison d'Arkar sur Eastern New Delsta Highroad. Les materiaux sont :
+Va dans la maison d'Arkar sur Eastern New Delsta Highroad pour obtenir le job.
+Deux competences sont disponibles immediatement :
+
+- Changeable Catapult : attaque tous les ennemis avec le type d'arme choisi.
+- Springy Boots : fait agir un allie en premier pendant plusieurs tours.
+
+Les cinq inventions suivantes demandent les materiaux indiques :
 
 - Critical Scope : Unerring Earring, boutique d'armes de New Delsta ; Critical
   Earring, boutique d'armes de Canalbrine.
 - Elemental Bomb Bottle : Fire, Ice et Thunder Soulstone du Black Market de
   New Delsta Flats ; Rainbow Glass Bottle du coffre de Conning Creek: Harbor.
-- Tin Horn : Empowering Lychee du coffre de North Beastling Traverse ; Tin Toy
+- Tin Horn : Empowering Lychee du coffre de North Beasting Traverse ; Tin Toy
   du marchand du Department Store de Wellgrove ; Mythical Horn du coffre de
   Nameless Village.
 - Hastening Hammer : Soldier's Bow de la boutique de Clockbank Industrial
@@ -258,11 +266,15 @@ Va dans la maison d'Arkar sur Eastern New Delsta Highroad. Les materiaux sont :
   Industrial District ; Ancient Cog du Factory Worker de Roque Island ;
   Natural Magnetite du coffre d'Unfinished Tunnel, Southern Crackridge Wilds.
 
-Les deux dernieres inventions se debloquent en recuperant les trois composants
-de leur ligne. Apprends ensuite la Divine Skill d'Inventor avec les autres
-jobs pour finir le nettoyage des competences.
+Chaque objet doit etre apporte a la vitrine correspondante chez Arkar. Les
+inventions sont utilisables une fois gratuitement par combat ; apres
+utilisation, il faut attendre leur reconstruction ou utiliser Hastening Hammer
+pour reduire ce delai.
 
-ARMASMASTER - LES 6 ARMES ROUILLEES
+Une fois les sept competences apprises, apprends All-Purpose Tool : c'est la
+Divine Skill d'Inventor qui commence la fabrication de toutes les inventions.
+
+ARMSMASTER - LES 6 ARMES ROUILLEES
 ------------------------------------
 
 Donne une premiere arme rouillee a Porta, la forgeronne de Gravell, pour
@@ -281,12 +293,13 @@ Chaque arme reforgee devient une Divine Weapon et debloque une competence
 Armsmaster. Equipe l'arme correspondante pour tester la competence ; une arme
 seule ne suffit pas a l'activer.
 
-ARCanist ET CONJURER
+ARCANIST ET CONJURER
 --------------------
 
-- Arcanist : termine les trois parties de The Scent of Commerce a
-  Tropu'hopu, achete le bateau, bats le gardien du whirlpool puis atteins
-  The Lost Isle. La nuit, suis la trace lumineuse jusqu'au maitre de l'Arcanist.
+- Arcanist : termine les trois parties de The Scent of Commerce : Tropu'hopu
+  pour le bateau, Sai pour le manuscrit et Winterbloom pour le Gramophone.
+  Apres avoir vaincu le gardien du whirlpool et atteint The Lost Isle, parle
+  au maitre de l'Arcanist.
 - Conjurer : termine Hikari's story, ouvre la Five-Tiered Tower a Ku et bats
   les cinq epreuves. Sauvegarde entre chaque etape : la tour ne permet pas de
   recuperer librement avant la fin.
@@ -384,13 +397,13 @@ force pas Coerce sur les PNJ importants sans sauvegarde.
 OCHETTE - 3 CHAPITRES, LE CHAPITRE 2 A TROIS ROUTES
 ---------------------------------------------------
 
-- Chapter 1 - Beastling Village, niveau 1 : termine la route du village.
+- Chapter 1 - Beasting Village, niveau 1 : termine la route du village.
 - Chapter 2: Cateracta - Beasting Bay, niveau 15.
 - Chapter 2: Tera - Crackridge, niveau 29.
 - Chapter 2: Glacis - Stormhail, niveau 37.
 - Fais les trois routes du chapitre 2 avant Chapter 3 ; leur ordre ne change
   pas la validation.
-- Chapter 3 - Beastling Village, niveau 45 : parcours Summit of Strife,
+- Chapter 3 - Beasting Village, niveau 45 : parcours Summit of Strife,
   Verdant Wood, Stormy Cape et Moonview Cliff. Les combats ne se fuient pas
   pendant la sequence finale ; garde les soins de groupe.
 
@@ -403,13 +416,13 @@ PARTITIO - 4 CHAPITRES
 
 - Chapter 1 - Oresrush, niveau 1 : termine la ville et le premier achat.
 - Chapter 2 - Clockbank, niveau 18 : poursuis la technologie du train,
-  fouille Clockbank Industrial District et ouvre The Scent of Commerce:
-  Clockbank.
+  fouille Clockbank Industrial District et termine les objectifs du chapitre.
 - Chapter 3 - Wellgrove, niveau 35 : termine la partie du grand magasin et
   achete les materiaux d'Inventor disponibles de nuit.
-- Chapter 4 - Roque Island, niveau 45 : termine l'ile, recupere Battle-Tested
-  Staff aupres de Roque et acheve The Scent of Commerce: Tropu'hopu si le
-  bateau n'est pas encore construit.
+- Chapter 4 - Roque Island, niveau 45 : termine l'ile et recupere
+  Battle-Tested Staff aupres de Roque. Si le bateau n'est pas encore construit,
+  retourne a Tropu'hopu pour la partie bateau de The Scent of Commerce ; les
+  parties Sai et Winterbloom se font separement.
 
 Le bateau coute 100 000 feuilles. Ne le lance pas avec un portefeuille vide :
 les 30 Records et plusieurs pieces d'equipement arrivent juste apres.
@@ -428,8 +441,8 @@ AGNEA - 5 CHAPITRES
 - Chapter 5 - Merry Hills, niveau 45 : termine la derniere representation,
   puis recupere Battle-Tested Shield aupres de Veronica a New Delsta.
 
-Apres Agnea Chapter 5 et Temenos Chapter 5 equivalent, fais Laila's Next
-Chapter a Merry Hills. Termine-le avant l'acte 2 du Crossed Path Agnea/Temenos.
+Apres Agnea Chapter 5 et Temenos Chapter 4, fais Laila's Next Chapter a Merry
+Hills. Termine-le avant l'acte 2 du Crossed Path Agnea/Temenos.
 
 CASTTI - 4 CHAPITRES, DEUX DESTINATIONS AU CHAPITRE 2
 -------------------------------------------------------
@@ -492,9 +505,8 @@ OSVALD + PARTITIO
 PHASE 4 - 67 SIDE STORIES, PAR REGION
 =====================================
 
-Le journal doit afficher zero Side Story active. Le compteur de 67 inclut
-The Traveler's Bag, qui apparait dans la region du premier personnage choisi,
-et 66 autres récits fixes. Fais le sac immediatement ; pour chaque ligne,
+Le journal doit afficher zero Side Story active. Le compteur de 67 inclut The
+Traveler's Bag et 66 autres recits fixes. Fais le sac immediatement ; pour chaque ligne,
 la methode indiquee est la solution la plus fiable. Les variantes de Path
 Action sont equivalentes sauf indication contraire.
 
@@ -503,9 +515,9 @@ TOTO'HAHA - 9 AVEC THE TRAVELER'S BAG
 
 - [ ] The Traveler's Bag : dans la region de depart, rattrape le voleur
   indique par Al et rapporte le sac.
-- [ ] Building Bridges, Beastling Village : Steal l'amulette de la jeune
+- [ ] Building Bridges, Beasting Village : Steal l'amulette de la jeune
   Beastling a l'ouest, puis remets-la au garcon.
-- [ ] Culinary Cunning, Beastling Village : Scrutinize le vendeur de
+- [ ] Culinary Cunning, Beasting Village : Scrutinize le vendeur de
   Tropu'hopu Floating Theater pour la recette, puis rapporte-la.
 - [ ] Pearl Hunt, Tropu'hopu : Allure le Beastling de l'est pour obtenir
   Pretty Pearl et la rapporter.
@@ -514,12 +526,13 @@ TOTO'HAHA - 9 AVEC THE TRAVELER'S BAG
 - [ ] Stage Actors, Tropu'hopu Floating Theater : Challenge le Stage Director
   et gagne le combat.
 - [ ] Ghormf!, Nameless Village : Guide ou Allure le Beastling jusqu'au
-  Beastling Village et parle a son correspondant.
+  Beasting Village et parle a son correspondant.
 - [ ] Shirlutto's Next Chapter, Nameless Village : rapporte Lute de Sai,
   Paper Play de Flamechurch et History Book de Montwise.
 - [ ] A Gate Between Worlds, ??? : termine The Traveler's Bag, Procuring
   Peculiar Tomes et From the Far Reaches of Hell, puis bats la menace du
-  donjon. Fais cette ligne apres toutes les histoires.
+  donjon. C'est la 67e et derniere Side Story : garde-la pour l'apres-credits,
+  car l'ile redevient ??? pendant The Journey for the Dawn.
 
 WINTERLANDS - 8 SIDE STORIES
 -----------------------------
@@ -564,7 +577,7 @@ LEAFLANDS - 10 SIDE STORIES
 - [ ] Proof of Justice, Timberain : ramasse l'arme au bord du lac au sud,
   interroge la Dour Elderly Woman dans New Delsta Backstreets, puis reviens.
 
-WILDLANDS - 8 SIDE STORIES
+WILDLANDS - 7 SIDE STORIES
 ---------------------------
 
 - [ ] Stolen Goods, Oresrush : assomme le gardien de la maison au nord et
@@ -639,8 +652,8 @@ HARBORLANDS - 8 SIDE STORIES
 - [ ] A Young Girl's Wish, Conning Creek : realise les trois souhaits de la
   fille, dont la rencontre d'un musicien et d'un voyageur.
 - [ ] Lady Clarissa's Next Chapter, Conning Creek Outskirts : apres Osvald
-  et Ochette, Guide Clarissa jusqu'a Beastling Village.
-- [ ] Floyd and Thurston's Next Chapter, Rogue Island : apres Partitio,
+  et Ochette, Guide Clarissa jusqu'a Beasting Village.
+- [ ] Floyd and Thurston's Next Chapter, Roque Island : apres Partitio,
   assomme Floyd puis retourne parler a Thurston.
 
 HINOEUMA - 7 SIDE STORIES
@@ -694,10 +707,10 @@ des groupes de morceaux.
 - [ ] Record 09 — boutique d'objets de Cropdale, 3 000 leaves.
 - [ ] Record 10 — boutique d'objets de Flamechurch, 3 000 leaves.
 - [ ] Record 11 — boutique d'objets de Ryu, 3 000 leaves.
-- [ ] Record 12 — Music Merchant de Rogue Island, sur les escaliers de jour.
-- [ ] Record 13 — Music Merchant de Rogue Island, sur les escaliers de jour.
-- [ ] Record 14 — Music Merchant de Rogue Island, a la taverne de nuit.
-- [ ] Record 15 — Music Merchant de Rogue Island, a la taverne de nuit.
+- [ ] Record 12 — Music Merchant de Roque Island, sur les escaliers de jour.
+- [ ] Record 13 — Music Merchant de Roque Island, sur les escaliers de jour.
+- [ ] Record 14 — Music Merchant de Roque Island, a la taverne de nuit.
+- [ ] Record 15 — Music Merchant de Roque Island, a la taverne de nuit.
 - [ ] Record 16 — Musician devant le sanctuaire de Merry Hills.
 - [ ] Record 17 — Musician devant le sanctuaire de Merry Hills.
 - [ ] Record 18 — Department Store de Wellgrove, 3 000 leaves.
@@ -728,7 +741,7 @@ combat est tres faible et sert uniquement a fabriquer des doubles.
   Chapter 4 et Melia's Next Chapter.
 - [ ] Battle-Tested Axe : Shirlutto au nord de Nameless Village, apres Temenos
   Chapter 4.
-- [ ] Battle-Tested Bow : Cohazeh a l'est de Beastling Village, apres Ochette
+- [ ] Battle-Tested Bow : Cohazeh a l'est de Beasting Village, apres Ochette
   Chapter 3.
 - [ ] Battle-Tested Staff : Roque devant la maison de Partitio a Oresrush,
   apres Partitio Chapter 4.
@@ -791,7 +804,7 @@ DEUXIEME COURONNE
   chambres laterales du chateau.
 - Tropu'hopu, Floating Theater et Western Tropu'hopu Traverse : Stage
   Actors, guild Hunter, autel d'Ochette.
-- Beastling Village, North Beastling Traverse et Nameless Village : Shirlutto,
+- Beasting Village, North Beasting Traverse et Nameless Village : Shirlutto,
   Mythical Horn, autel Hunter et Side Stories beastlings.
 
 ZONES MARITIMES ET OPTIONNELLES
@@ -827,7 +840,8 @@ Avant de lancer The Journey for the Dawn, verifie :
 - les 8 histoires individuelles sont terminees ;
 - les 4 Crossed Paths ont leurs actes 1 et 2 ;
 - The Scent of Commerce est terminee ;
-- les 67 Side Stories sont terminees ;
+- les 66 Side Stories disponibles avant le chapitre final sont terminees ;
+  A Gate Between Worlds reste volontairement pour l'apres-credits ;
 - les 30 Records sont dans l'inventaire ;
 - les 7 Battle-Tested equipment sont obtenus ;
 - les 8 jobs secondaires et les 4 jobs avances sont ouverts ;
@@ -859,8 +873,9 @@ THE JOURNEY FOR THE DAWN, PUIS L'EPILOGUE
    **Porte vers un autre monde**. Cette etape debloque l'accessoire de nettoyage et
    le succes **Porte vers un autre monde**.
 
-Le chapitre final n'est pas un endroit pour farmer les Side Stories : elles
-doivent etre a zero avant l'etape 1.
+Le chapitre final n'est pas un endroit pour farmer les Side Stories : les 66
+Side Stories preparatoires doivent etre a zero avant l'etape 1. Termine A Gate
+Between Worlds seulement apres les credits.
 
 CHECKLIST FINALE - 33/33 SUCCES STEAM
 ====================================
@@ -1670,7 +1685,7 @@ Contexte : Tier 2: Conning Creek.
 Itineraire de controle : Depuis l'entree ou le point de sauvegarde, vider les branches mortes avant de reprendre l'axe principal et de quitter la sous-zone.
 [COFFRE] [ ] #332 - Energizing Pomegranate - Emplacement : Harborlands / Northern Conning Creek Coast / coffre 1/4.
 [COFFRE] [ ] #333 - Matching Trident (Guarded: Waiting Woman 5*) - Emplacement : Harborlands / Northern Conning Creek Coast / coffre 2/4.
-[COFFRE] [ ] #334 - Wind Sousltone (M) - Emplacement : Harborlands / Northern Conning Creek Coast / coffre 3/4.
+[COFFRE] [ ] #334 - Wind Soulstone (M) - Emplacement : Harborlands / Northern Conning Creek Coast / coffre 3/4.
 [COFFRE] [ ] #335 - Helmcleaver - Emplacement : Harborlands / Northern Conning Creek Coast / coffre 4/4.
 
 ### Harborlands - Western Conning Creek Coast (4 coffres)
@@ -2029,16 +2044,16 @@ Itineraire de controle : Depuis l'entree, ouvrir d'abord les embranchements et l
 [COFFRE] [ ] #490 - $13,000 - Emplacement : Leaflands / Mother's Garden / coffre 4/5.
 [COFFRE] [ ] #491 - Refreshing Jam - Emplacement : Leaflands / Mother's Garden / coffre 5/5.
 
-### Leaflands - TImberain (1 coffre)
+### Leaflands - Timberain (1 coffre)
 Contexte : Tier 3: Timberain.
 Itineraire de controle : Depuis l'entree ou le point de sauvegarde, vider les branches mortes avant de reprendre l'axe principal et de quitter la sous-zone.
-[COFFRE] [ ] #492 - Protective Necklace - Emplacement : Leaflands / TImberain / coffre 1/1.
+[COFFRE] [ ] #492 - Protective Necklace - Emplacement : Leaflands / Timberain / coffre 1/1.
 
-### Leaflands - TImberain Castle: Town Square (2 coffres)
+### Leaflands - Timberain Castle: Town Square (2 coffres)
 Contexte : Tier 3: Timberain.
 Itineraire de controle : Depuis l'entree, ouvrir d'abord les embranchements et les etages lateraux, puis revenir au dernier point de sauvegarde avant la sortie.
-[COFFRE] [ ] #493 - Wind Soulstone (L) - Emplacement : Leaflands / TImberain Castle: Town Square / coffre 1/2.
-[COFFRE] [ ] #494 - Rusty Polearm (Guarded: Elderly Soldier 8*) - Emplacement : Leaflands / TImberain Castle: Town Square / coffre 2/2.
+[COFFRE] [ ] #493 - Wind Soulstone (L) - Emplacement : Leaflands / Timberain Castle: Town Square / coffre 1/2.
+[COFFRE] [ ] #494 - Rusty Polearm (Guarded: Elderly Soldier 8*) - Emplacement : Leaflands / Timberain Castle: Town Square / coffre 2/2.
 
 ### Leaflands - Southern Timberain Trail (4 coffres)
 Contexte : Tier 3: Timberain.
@@ -2214,7 +2229,7 @@ Contexte : Tier 3: Gravell.
 Itineraire de controle : Depuis l'entree de la sous-zone, ouvrir d'abord les embranchements et les etages lateraux, puis revenir au dernier point de sauvegarde avant la sortie.
 [COFFRE] [ ] #575 - Olive of Life (L) - Emplacement : Wildlands / Duskruin Shrine / coffre 1/4.
 [COFFRE] [ ] #576 - Critical Necklace - Emplacement : Wildlands / Duskruin Shrine / coffre 2/4.
-[COFFRE] [ ] #577 - Ice Sousltone (L) - Emplacement : Wildlands / Duskruin Shrine / coffre 3/4.
+[COFFRE] [ ] #577 - Ice Soulstone (L) - Emplacement : Wildlands / Duskruin Shrine / coffre 3/4.
 [COFFRE] [ ] #578 - $25,000 - Emplacement : Wildlands / Duskruin Shrine / coffre 4/4.
 
 ### Wildlands - Duskruin Shrine: Depths (4 coffres)
@@ -2586,7 +2601,7 @@ Contexte : Tier 2: Sai.
 [COFFRE] [ ] H156 - Antique Coin (sidequest: Plans from a Ruined Nation) - Objet cache : Hinoeuma / Sai: East District / repere 1/7 de la sous-zone.
 [COFFRE] [ ] H157 - Tough Nut - Objet cache : Hinoeuma / Sai: East District / repere 2/7 de la sous-zone.
 [COFFRE] [ ] H158 - Stuffed Toy - Objet cache : Hinoeuma / Sai: East District / repere 3/7 de la sous-zone.
-[COFFRE] [ ] H159 - Energizing Pomegrnate (L) - Objet cache : Hinoeuma / Sai: East District / repere 4/7 de la sous-zone.
+[COFFRE] [ ] H159 - Energizing Pomegranate (L) - Objet cache : Hinoeuma / Sai: East District / repere 4/7 de la sous-zone.
 [COFFRE] [ ] H160 - Glass Marble - Objet cache : Hinoeuma / Sai: East District / repere 5/7 de la sous-zone.
 [COFFRE] [ ] H161 - Inspiriting Plum (M) - Objet cache : Hinoeuma / Sai: East District / repere 6/7 de la sous-zone.
 [COFFRE] [ ] H162 - Dancer's Journal (not from NPC) - Objet cache : Hinoeuma / Sai: East District / repere 7/7 de la sous-zone.
@@ -2644,14 +2659,14 @@ Contexte : Tier 2: Wellgrove.
 [COFFRE] [ ] H193 - Strengthening Serum - Objet cache : Leaflands / Wellgrove / repere 7/8 de la sous-zone.
 [COFFRE] [ ] H194 - Slippery Nut - Objet cache : Leaflands / Wellgrove / repere 8/8 de la sous-zone.
 
-### Leaflands - Wellgrove: Departmentstore (6 objets caches)
+### Leaflands - Wellgrove: Department Store (6 objets caches)
 Contexte : Tier 2: Wellgrove.
-[COFFRE] [ ] H195 - Rotten Meat - Objet cache : Leaflands / Wellgrove: Departmentstore / repere 1/6 de la sous-zone.
-[COFFRE] [ ] H196 - Enlightening Bracelet - Objet cache : Leaflands / Wellgrove: Departmentstore / repere 2/6 de la sous-zone.
-[COFFRE] [ ] H197 - Healing Grape Bunch - Objet cache : Leaflands / Wellgrove: Departmentstore / repere 3/6 de la sous-zone.
-[COFFRE] [ ] H198 - Platinum Helm - Objet cache : Leaflands / Wellgrove: Departmentstore / repere 4/6 de la sous-zone.
-[COFFRE] [ ] H199 - Empowering Lychee (M) - Objet cache : Leaflands / Wellgrove: Departmentstore / repere 5/6 de la sous-zone.
-[COFFRE] [ ] H200 - Heavy Bone Spear - Objet cache : Leaflands / Wellgrove: Departmentstore / repere 6/6 de la sous-zone.
+[COFFRE] [ ] H195 - Rotten Meat - Objet cache : Leaflands / Wellgrove: Department Store / repere 1/6 de la sous-zone.
+[COFFRE] [ ] H196 - Enlightening Bracelet - Objet cache : Leaflands / Wellgrove: Department Store / repere 2/6 de la sous-zone.
+[COFFRE] [ ] H197 - Healing Grape Bunch - Objet cache : Leaflands / Wellgrove: Department Store / repere 3/6 de la sous-zone.
+[COFFRE] [ ] H198 - Platinum Helm - Objet cache : Leaflands / Wellgrove: Department Store / repere 4/6 de la sous-zone.
+[COFFRE] [ ] H199 - Empowering Lychee (M) - Objet cache : Leaflands / Wellgrove: Department Store / repere 5/6 de la sous-zone.
+[COFFRE] [ ] H200 - Heavy Bone Spear - Objet cache : Leaflands / Wellgrove: Department Store / repere 6/6 de la sous-zone.
 
 ### Leaflands - Mother's Garden: Orphanage (4 objets caches)
 Contexte : Tier 2: Wellgrove.
