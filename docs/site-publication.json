@@ -1,13 +1,9 @@
 {
   "mode": "temporary-rebuild",
   "visibleGuideIds": [
-    "expedition-33",
-    "octopath",
-    "octopath-2"
+    "octopath"
   ],
   "visibleGuideFiles": [
-    "expedition-33.txt",
-    "octopath-traveler-1.txt",
-    "octopath-traveler-2.txt"
+    "octopath-traveler-1.txt"
   ]
 }

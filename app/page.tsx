@@ -2949,7 +2949,7 @@ const guides: Guide[] = [
 
 // Les autres fiches restent archivées dans les sources, mais ne sont pas
 // publiées dans l'index tant que leur réécriture premium n'est pas validée.
-const SITE_VISIBLE_GUIDE_IDS = new Set(["expedition-33", "octopath", "octopath-2"]);
+const SITE_VISIBLE_GUIDE_IDS = new Set(["octopath"]);
 const siteGuides = guides.filter((guide) => SITE_VISIBLE_GUIDE_IDS.has(guide.id));
 
 const steamCapsuleUrl = (appId: number) =>

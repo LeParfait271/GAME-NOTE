@@ -591,3 +591,11 @@ annexes sont melangees, si un controle echoue ou si le commit reste local.
   source est signalée comme telle dans la soluce.
 - Limite : Node.js absent sur le poste, donc validate/lint/build pas exécutés ;
   contrôle fait avec un équivalent PowerShell.
+
+## Lot 2026-11-11 (2) — publication limitée à Octopath Traveler 1
+
+- Seule `octopath-traveler-1.txt` reste visible : Expedition 33 et Octopath 2
+  sont repassées en file `research` en attendant la même validation des succès.
+- `npm run check:achievements` contrôle le placement des succès officiels.
+- Validations passées : validate:site, validate:guides:strict, audit:guides,
+  lint, build et test (7/7).

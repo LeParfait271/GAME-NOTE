@@ -3,8 +3,9 @@
 // Usage : node scripts/check-achievements.mjs [jeu...]
 import { readFileSync, readdirSync } from "node:fs";
 import { join } from "node:path";
+import { fileURLToPath } from "node:url";
 
-const root = new URL("..", import.meta.url).pathname.replace(/^\/(\w:)/, "$1");
+const root = fileURLToPath(new URL("..", import.meta.url));
 const dataDir = join(root, "data", "achievements");
 const games = process.argv.slice(2).length
   ? process.argv.slice(2)
