@@ -140,10 +140,8 @@ const requiredSourceFiles = [
   "app/site-version.ts",
   "app/GuideReader.tsx",
   "app/layout.tsx",
-  "app/globals.css",
-  "app/guide-reader-layout.css",
-  "app/terminal-pass-four.css",
-  "app/terminal-pass-eight.css",
+  "app/journal.css",
+  "app/journal-reader.css",
   "app/pwa-register.tsx",
   "next.config.ts",
   "package.json",
@@ -179,9 +177,7 @@ const siteVersionSource = await readText("app/site-version.ts");
 const reader = await readText("app/GuideReader.tsx");
 const localPreview = await readText("APERCU_LOCAL.cmd");
 const layout = await readText("app/layout.tsx");
-const stylesheet = `${await readText("app/globals.css")}\n${await readText("app/guide-reader-layout.css")}`;
-const terminalStyles = await readText("app/terminal-pass-four.css");
-const terminalPassEightStyles = await readText("app/terminal-pass-eight.css");
+const stylesheet = `${await readText("app/journal.css")}\n${await readText("app/journal-reader.css")}`;
 const serviceWorkerSource = await readText("public/service-worker.js");
 const octopathGuide = await readText("public/guides/octopath-traveler-1.txt");
 const octopathZeroDraftPath = "public/guides/octopath-traveler-0.txt";
@@ -256,82 +252,40 @@ for (const marker of readerLayoutMarkers) {
     fail(`app/GuideReader.tsx: hierarchie de lecture absente (${marker}).`);
   }
 }
+// Design « carnet sombre » : une seule couche de style, lisible, sans débordement mobile.
 for (const marker of [
+  "--ink: #15120e;",
+  "--gold: #d4b06a;",
+  "--font-title: \"Fraunces\"",
   ".guide-lane-details",
   ".guide-route-lane",
   ".guide-route-sequence-list",
   ".guide-sequence-card.is-current",
-  ".guide-sequence-card.guide-sequence-card.is-compact",
   ".guide-sequence-card-meta",
   ".guide-reference-panel",
-  ".reader-cover.reader-cover",
-  "aspect-ratio: 16 / 9",
-  ".reader-cover.reader-cover .reader-cover-art",
-  ".reader-cover.reader-cover .reader-cover-alert",
-  ".guide-sequence-card.guide-sequence-card .guide-sequence-card-meta",
-  ".guide-sequence-card.guide-sequence-card .guide-bullet",
   ".guide-prelude-panel > summary",
   ".guide-reference-panel > summary",
-  ".guide-search-results > .guide-paragraph",
-  "top: 112px",
-  "grid-template-columns: minmax(0, 1fr) minmax(0, 1fr)",
-  "padding-inline: 10px",
+  ".reader-cover-art",
+  ".reader-cover-alert",
+  ".guide-marker-success",
+  ".guide-marker-missable",
+  "font-size: 17px; line-height: 1.7;",
+  "overflow-wrap: anywhere;",
   "text-wrap: pretty",
-  "Garde-fou fleche mobile et tablette : la gouttiere reste distincte du contenu.",
-  "Garde-fou fleche : la gouttiere reste distincte du contenu a toutes les largeurs.",
   "@media screen and (max-width: 960px)",
-  "padding-left: 25px;",
-  "Optimisation visuelle : reduire la marge morte et renforcer les actions du lecteur.",
-  "padding-block-start: 96px;",
-  "padding-block-start: 76px;",
-  "min-height: 40px;",
-]) {
-  if (!stylesheet.includes(marker)) {
-    fail(`app/globals.css: style de hierarchie absent (${marker}).`);
-  }
-}
-if (!/position:\s*static;\s*order:\s*[12];/.test(stylesheet)) {
-  fail("app/globals.css + app/guide-reader-layout.css: hierarchie mobile absente.");
-}
-for (const marker of [
-  "Terminal pass eight: kinetic telemetry",
-  ".site-shell.is-reader-mode .reader-cover-art img",
-  ".site-shell.is-reader-mode .reader-document",
+  "@media screen and (max-width: 640px)",
+  "td[data-label]::before",
   "@media (prefers-reduced-motion: reduce)",
 ]) {
-  if (!terminalPassEightStyles.includes(marker)) {
-    fail(`app/terminal-pass-eight.css: instrumentation visuelle absente (${marker}).`);
+  if (!stylesheet.includes(marker)) {
+    fail(`app/journal*.css: style du design carnet absent (${marker}).`);
   }
 }
-for (const marker of [
-  "@media screen and (min-width: 1440px)",
-  "transform: translateX(-50%);",
-  "width: min(38vw, 430px)",
-  "font-size: clamp(4.4rem, 5.5vw, 6.6rem)",
-  "left: 52%;",
-  "overflow-x: visible;",
-  "flex: 1 1 100%;",
-]) {
-  if (!terminalStyles.includes(marker)) {
-    fail(`app/terminal-pass-four.css: composition desktop large absente (${marker}).`);
-  }
+if (!/position:\s*static;[^}]*order:\s*[12];/.test(stylesheet)) {
+  fail("app/journal-reader.css: hierarchie mobile du lecteur absente.");
 }
-for (const marker of [
-  "@media screen and (min-width: 681px) and (max-width: 980px)",
-  "grid-template-columns: minmax(0, 1fr) minmax(220px, 0.78fr);",
-  "grid-template-rows: auto auto;",
-]) {
-  if (!terminalStyles.includes(marker)) {
-    fail(`app/terminal-pass-four.css: composition tablette absente (${marker}).`);
-  }
-}
-for (const marker of [
-  "@media screen and (max-width: 340px)",
-  "min-width: 0;",
-]) {
-  if (!terminalStyles.includes(marker)) {
-    fail(`app/terminal-pass-four.css: largeur utile a 320 px absente (${marker}).`);
-  }
+if (/terminal-pass|globals\.css/.test(layout)) {
+  fail("app/layout.tsx: une ancienne couche de style terminal est revenue.");
 }
 for (const marker of [
   "const library = libraryRef.current;",
@@ -689,16 +643,13 @@ for (const fragment of [
   ".reader-outline-major",
   ".reader-outline-details",
   ".reader-outline-card:not(.is-open) .reader-outline",
-  ".site-shell.is-reader-mode .reader-document {",
-  ".site-shell.is-reader-mode .guide-table-wrap",
-  ".site-shell.is-reader-mode .guide-table",
-  "Garde-fou mobile : aucun bloc de route ne doit depasser la largeur utile.",
-  ".site-shell.is-reader-mode .guide-lane-content",
-  ".site-shell.is-reader-mode .guide-step-copy",
-  "overflow-wrap: anywhere;",
+  ".guide-table-wrap",
+  ".guide-table",
+  ".guide-lane-content",
+  ".guide-step-copy",
 ]) {
   if (!stylesheet.includes(fragment)) {
-    fail("app/globals.css: garde-fou responsive du lecteur absent (" + fragment + ").");
+    fail("app/journal-reader.css: garde-fou responsive du lecteur absent (" + fragment + ").");
   }
 }
 for (const file of publication?.visibleGuideFiles ?? []) {
@@ -931,7 +882,7 @@ if (pendingCards.length > 0) {
 const sourceTextChecks = [
   ["app/page.tsx", page],
   ["app/layout.tsx", layout],
-  ["app/globals.css", stylesheet],
+  ["app/journal*.css", stylesheet],
   ["public/service-worker.js", serviceWorkerSource],
   ["public/_headers", headers],
   ["public/_redirects", redirects],
@@ -943,8 +894,8 @@ for (const [file, text] of sourceTextChecks) {
 if (!layout.includes('<html lang="fr"')) {
   fail("app/layout.tsx: lang=fr absent.");
 }
-if (!layout.includes('import "./terminal-pass-eight.css"')) {
-  fail("app/layout.tsx: terminal-pass-eight.css absent.");
+if (!layout.includes('import "./journal.css"')) {
+  fail("app/layout.tsx: journal.css absent.");
 }
 for (const fragment of [
   "skip-link",

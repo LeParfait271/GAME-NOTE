@@ -1,6 +1,6 @@
 "use client";
 
-import { type PointerEvent, useEffect, useMemo, useRef, useState } from "react";
+import { useEffect, useMemo, useRef, useState } from "react";
 import GuideReader from "./GuideReader";
 import { SITE_VERSION } from "./site-version";
 
@@ -2952,9 +2952,6 @@ const guides: Guide[] = [
 const SITE_VISIBLE_GUIDE_IDS = new Set(["octopath"]);
 const siteGuides = guides.filter((guide) => SITE_VISIBLE_GUIDE_IDS.has(guide.id));
 
-const steamCapsuleUrl = (appId: number) =>
-  `https://cdn.akamai.steamstatic.com/steam/apps/${appId}/capsule_616x353.jpg`;
-
 const steamPortraitUrl = (appId: number) =>
   `https://cdn.akamai.steamstatic.com/steam/apps/${appId}/library_600x900_2x.jpg`;
 
@@ -3074,31 +3071,6 @@ export default function Home() {
     .filter((guide): guide is Guide => Boolean(guide));
   const hasGuideHistory = recentGuides.length > 0;
   const heroActive = recentGuides[0] ?? siteGuides[0];
-  // L'historique indique le point de reprise, mais ne doit jamais masquer les
-  // autres routes publiées quand on revient au catalogue.
-  const heroGuides = siteGuides;
-  const handleHeroPointerMove = (event: PointerEvent<HTMLElement>) => {
-    if (event.pointerType === "touch") return;
-
-    const bounds = event.currentTarget.getBoundingClientRect();
-    const x = ((event.clientX - bounds.left) / bounds.width) * 100;
-    const y = ((event.clientY - bounds.top) / bounds.height) * 100;
-
-    event.currentTarget.style.setProperty("--pointer-x", `${x}%`);
-    event.currentTarget.style.setProperty("--pointer-y", `${y}%`);
-    event.currentTarget.style.setProperty("--tilt-x", `${((x - 50) / 50) * 6}deg`);
-    event.currentTarget.style.setProperty("--tilt-y", `${((46 - y) / 54) * 5}deg`);
-    event.currentTarget.style.setProperty("--parallax-x", `${((x - 50) / 50) * 1.4}%`);
-    event.currentTarget.style.setProperty("--parallax-y", `${((y - 46) / 54) * 1.1}%`);
-  };
-  const handleHeroPointerLeave = (event: PointerEvent<HTMLElement>) => {
-    event.currentTarget.style.setProperty("--pointer-x", "50%");
-    event.currentTarget.style.setProperty("--pointer-y", "46%");
-    event.currentTarget.style.setProperty("--tilt-x", "0deg");
-    event.currentTarget.style.setProperty("--tilt-y", "0deg");
-    event.currentTarget.style.setProperty("--parallax-x", "0%");
-    event.currentTarget.style.setProperty("--parallax-y", "0%");
-  };
   const alphabeticalGuides = useMemo(() => sortGuidesAlphabetically(siteGuides), []);
   const selectedIndex = alphabeticalGuides.findIndex((guide) => guide.id === selected.id);
   const previousGuide = selectedIndex > 0 ? alphabeticalGuides[selectedIndex - 1] : undefined;
@@ -3240,7 +3212,6 @@ export default function Home() {
   useEffect(() => {
     const progress = pageProgressRef.current;
     const library = libraryRef.current;
-    const hero = document.querySelector<HTMLElement>(".portfolio-hero");
     const shell = document.querySelector<HTMLElement>(".site-shell");
     if (!progress) return;
 
@@ -3249,12 +3220,6 @@ export default function Home() {
       const amount = scrollableHeight > 0 ? (window.scrollY / scrollableHeight) * 100 : 0;
       progress.style.setProperty("--progress", `${Math.min(100, Math.max(0, amount))}%`);
       shell?.classList.toggle("is-page-scrolled", window.scrollY > 36);
-      if (hero) {
-        const heroScrollableHeight = Math.max(1, hero.offsetHeight - window.innerHeight);
-        const heroAmount = Math.min(1, Math.max(0, -hero.getBoundingClientRect().top / heroScrollableHeight));
-        hero.style.setProperty("--hero-scroll-shift", `${heroAmount * -46}px`);
-        hero.style.setProperty("--hero-orbit-shift", `${heroAmount * 30}px`);
-      }
     };
     let frame = 0;
     const handleScroll = () => {
@@ -3402,42 +3367,28 @@ export default function Home() {
       </a>
       <header className="topbar">
         <a className="brand" href={readerMode ? "/" : "#guides"} aria-label="Game Note, bibliothèque">
-          <span className="brand-symbol" aria-hidden="true">
-            {/* eslint-disable-next-line @next/next/no-img-element */}
-            <img src="/images/logo/game-note-symbol-route.png" alt="" width={1254} height={1254} />
-          </span>
-          <span className="brand-content">
-            {/* eslint-disable-next-line @next/next/no-img-element */}
-            <img
-              className="brand-logo"
-              src="/images/logo/game-note-logo-ink-script-header.png"
-              alt=""
-              width={1536}
-              height={540}
-            />
-            <small>carnet de route · sans détour</small>
-          </span>
+          Game <span>Note</span>
         </a>
-        {!readerMode ? (
-          <nav className="topbar-nav" aria-label="Navigation principale">
-            <a href="#guides">Index <span>{siteGuides.length}</span></a>
-            <span className="topbar-status">Archive locale / 2026</span>
-          </nav>
+        {readerMode ? (
+          <button className="topbar-back" type="button" onClick={goToLibrary}>
+            ← Bibliothèque
+          </button>
         ) : (
-          <span className="topbar-reader-mark">Mode lecture / {selected.title}</span>
+          <a className="topbar-search" href="#guides" onClick={() => catalogSearchRef.current?.focus()}>
+            <span aria-hidden="true">⌕</span> Rechercher
+          </a>
         )}
       </header>
 
       {!isOnline ? (
         <div className="offline-banner" role="status" aria-live="polite">
-          <span aria-hidden="true">●</span>
           Hors ligne : les fiches déjà ouvertes restent accessibles.
         </div>
       ) : null}
 
       {invalidGuideId && !readerMode ? (
         <div className="route-error" role="alert">
-          <strong>Cette route n’existe pas encore.</strong>
+          <strong>Cette soluce n’existe pas encore.</strong>
           <span>Le guide demandé n’a pas été trouvé dans la bibliothèque.</span>
           <button className="button button-outline" type="button" onClick={clearInvalidGuide}>
             Afficher la bibliothèque
@@ -3446,153 +3397,19 @@ export default function Home() {
       ) : null}
 
       {!readerMode ? <>
-      <section
-        className="portfolio-hero"
-        aria-labelledby="hero-title"
-        onPointerMove={handleHeroPointerMove}
-        onPointerLeave={handleHeroPointerLeave}
-      >
-        <div className="hero-entry" aria-label="Entrée dans l'archive Game Note">
-          <div className="hero-entry-meta"><span>GAME NOTE</span><span>ARCHIVE / 2026</span></div>
-          <div className="hero-entry-title" aria-hidden="true">
-            <span>PERSONAL</span>
-            <span>ROUTE</span>
-            <span>ARCHIVE</span>
-          </div>
-          <div className="hero-entry-card">
-            {/* eslint-disable-next-line @next/next/no-img-element */}
-            <img src="/images/cards/game-note-card-route.png" alt="" width={900} height={900} />
-            <a className="hero-entry-link" href="#guides">Entrer <span aria-hidden="true">↗</span></a>
-          </div>
-          <div className="hero-entry-side">
-            <span>CHRONOLOGICAL GUIDES</span>
-            <span>STEAM / OFFLINE / FR</span>
-          </div>
-          <span className="hero-entry-counter">01 / 01</span>
-        </div>
-        <div className="portfolio-hero-media" aria-hidden="true">
-          {/* eslint-disable-next-line @next/next/no-img-element */}
-          <img
-            src="/images/banners/game-note-hero-ink-route.png"
-            alt=""
-            width={2400}
-            height={1350}
-            fetchPriority="high"
-          />
-          <span className="portfolio-hero-wash" />
-        </div>
-        <div className="hero-effects" aria-hidden="true">
-          <span className="hero-vertical-word">ROUTE</span>
-          <span className="hero-orbit hero-orbit-one" />
-          <span className="hero-orbit hero-orbit-two" />
-          <span className="hero-spotlight" />
-          <span className="hero-pointer-ring" />
-          <span className="hero-film-grain" />
-          <span className="hero-scan-beam" />
-          <span className="hero-route-trace" />
-          <span className="hero-route-node hero-route-node-one" />
-          <span className="hero-route-node hero-route-node-two" />
-          <span className="hero-crosshair hero-crosshair-one" />
-          <span className="hero-crosshair hero-crosshair-two" />
-          <span className="hero-telemetry hero-telemetry-top">ROUTE SYSTEM / 186</span>
-          <span className="hero-telemetry hero-telemetry-bottom">SIGNAL / LOCAL ARCHIVE</span>
-        </div>
-        <div className="hero-archive-wall" aria-hidden="true">
-          <div className="hero-archive-wall-track">
-            <span>EXPEDITION 33</span>
-            <span>OCTOPATH TRAVELER</span>
-            <span>ROUTE CHRONOLOGIQUE</span>
-            <span>55 SUCCÈS / 100 % STEAM</span>
-            <span>MISSABLES / JOURNAUX / DISQUES</span>
-            <span>EXPEDITION 33</span>
-            <span>OCTOPATH TRAVELER</span>
-            <span>ROUTE CHRONOLOGIQUE</span>
-          </div>
-        </div>
-        <div className="portfolio-hero-topline">
-          <span>GAME NOTE / FIELD MANUAL</span>
-          <span>CHRONOLOGICAL GUIDES / FR</span>
-          <span>PERSONAL ARCHIVE / 2026</span>
-        </div>
-        <div className="portfolio-hero-grid">
-          <div className="portfolio-hero-copy">
-            <p className="hero-kicker"><span>GAME NOTE</span><span>ARCHIVE 2026</span></p>
-            <h1 id="hero-title">Une partie.<br /><em>Une route.</em><br /><span>Pas un oubli.</span></h1>
-            <p className="hero-intro">
-              Mes notes chronologiques, mes repères de succès et les étapes à ne pas rater.
-            </p>
-            <div className="hero-actions">
-              <button className="hero-link hero-link-primary" type="button" onClick={() => handleOpenReader(heroActive.id)}>
-                {hasGuideHistory ? "Reprendre la route" : "Ouvrir la première route"} <span aria-hidden="true">↗</span>
-              </button>
-              <a className="hero-link hero-link-secondary" href="#guides">Voir la bibliothèque <span aria-hidden="true">↓</span></a>
-            </div>
-          </div>
-
-          <article
-            className={"hero-focus hero-focus-last-used hero-focus-" + heroActive.accent}
-            aria-label={hasGuideHistory ? `Dernier guide utilisé : ${heroActive.title}` : `Point de départ : ${heroActive.title}`}
-          >
-            <div className="hero-focus-frame">
-              {/* eslint-disable-next-line @next/next/no-img-element */}
-              <img
-                className="hero-focus-art"
-                key={heroActive.id}
-                src={heroActive.artworkUrl ?? steamPortraitUrl(heroActive.steamAppId)}
-                alt={`Illustration de la route ${heroActive.title}`}
-                width={600}
-                height={900}
-                onError={(event) => {
-                  const image = event.currentTarget;
-                  if (image.dataset.fallbackApplied === "true") return;
-                  image.dataset.fallbackApplied = "true";
-                  image.src = "/images/cards/game-note-card-route.png";
-                }}
-              />
-              <span className="hero-focus-status">{hasGuideHistory ? "DERNIER GUIDE" : "POINT DE DÉPART"}</span>
-              <div className="hero-focus-caption">
-                <p>{hasGuideHistory ? "REPRENDRE / DERNIÈRE ROUTE" : `ROUTE / ${String(siteGuides.indexOf(heroActive) + 1).padStart(2, "0")}`}</p>
-                <span>{heroActive.eyebrow} / {heroActive.count}</span>
-              </div>
-            </div>
-            <p className="hero-focus-note">
-              {hasGuideHistory
-                ? "Dernière fiche ouverte sur cet appareil. La lecture propose de reprendre à la dernière position enregistrée."
-                : "Ouvre une fiche : elle deviendra ton point de reprise local."}
-            </p>
-          </article>
-
-          <div className="hero-index">
-            <div className="hero-index-heading"><span>INDEX / ROUTES</span><span>{String(heroGuides.length).padStart(2, "0")} / {String(siteGuides.length).padStart(2, "0")}</span></div>
-            <ol>
-              {heroGuides.map((guide, index) => (
-                <li key={guide.id}>
-                  <button
-                    className={heroActive.id === guide.id ? "is-active" : ""}
-                    type="button"
-                    onClick={() => handleOpenReader(guide.id)}
-                  >
-                    <span className="hero-index-number">{String(index + 1).padStart(2, "0")}</span>
-                    <span className="hero-index-copy"><strong>{guide.title}</strong><small>{guide.eyebrow} / {guide.count}</small></span>
-                    <span className="hero-index-arrow" aria-hidden="true">↗</span>
-                  </button>
-                </li>
-              ))}
-            </ol>
-            <a className="hero-index-more" href="#guides">Voir les {siteGuides.length} routes <span aria-hidden="true">→</span></a>
-          </div>
-        </div>
-        <a className="hero-scroll" href="#guides"><span>SCROLL / INDEX</span><span className="hero-scroll-line" aria-hidden="true" /></a>
+      <section className="hero" aria-labelledby="hero-title">
+        <h1 id="hero-title">Une partie, une route,<br /><em>pas un oubli.</em></h1>
+        <p className="hero-intro">
+          Des soluces chronologiques où chaque succès Steam tombe au bon moment.
+        </p>
+        <button className="button button-primary" type="button" onClick={() => handleOpenReader(heroActive.id)}>
+          {hasGuideHistory ? `Reprendre ${heroActive.title}` : `Ouvrir ${heroActive.title}`}
+        </button>
       </section>
       <section ref={libraryRef} className="section-block library-page reveal-section" id="guides">
         <div className="section-heading">
-          <div>
-            <p className="kicker"><span>GAME NOTE</span><span>BIBLIOTHÈQUE</span></p>
-            <h1>Mes soluces.</h1>
-          </div>
-          <p>
-            Recherche un jeu, ouvre sa soluce et avance dans le bon ordre.
-          </p>
+          <h2>Bibliothèque</h2>
+          <p>Ouvre une soluce et avance dans le bon ordre.</p>
         </div>
 
         <div className="library-tools">
@@ -3621,12 +3438,11 @@ export default function Home() {
           </div>
           <span className="catalog-count" aria-live="polite">
             <strong>{visibleGuides.length}</strong> soluce{visibleGuides.length > 1 ? "s" : ""} sur {siteGuides.length}
-            <em>A–Z</em>
           </span>
         </div>
 
+        {siteGuides.length > 6 ? <>
         <nav className="catalog-index" aria-label="Index alphabétique des soluces">
-          <span className="catalog-index-label">INDEX</span>
           <button
             className={!catalogLetter ? "is-active" : ""}
             type="button"
@@ -3651,7 +3467,6 @@ export default function Home() {
         </nav>
 
         <div className="library-filters" aria-label="Filtrer les soluces">
-          <span>FILTRER</span>
           <div role="group" aria-label="Filtres de bibliothèque">
             {CATALOG_FILTERS.map((filter) => (
               <button
@@ -3675,19 +3490,16 @@ export default function Home() {
             </button>
           ) : null}
         </div>
+        </> : null}
 
         {visibleGuides.length > 0 ? (
           <div className={"guide-grid" + (displayedGuides.length <= 2 ? " guide-grid-compact" : "")}>
             {displayedGuides.map((guide) => {
-              const catalogPosition = visibleGuides.findIndex((item) => item.id === guide.id) + 1;
               return (
                 <article
                   className={"guide-card guide-card-" + guide.accent}
                   key={guide.id}
                 >
-                  <div className="card-top">
-                    <span className="card-index">{String(catalogPosition).padStart(2, "0")}</span>
-                  </div>
                   <button
                     className="guide-card-open"
                     type="button"
@@ -3697,10 +3509,10 @@ export default function Home() {
                     <div className="card-artwork">
                       {/* eslint-disable-next-line @next/next/no-img-element */}
                       <img
-                        src={guide.artworkUrl ?? steamCapsuleUrl(guide.steamAppId)}
+                        src={guide.artworkUrl ?? steamPortraitUrl(guide.steamAppId)}
                         alt={`Illustration officielle de ${guide.title}`}
-                        width={920}
-                        height={430}
+                        width={600}
+                        height={900}
                         loading="lazy"
                         decoding="async"
                         onError={(event) => {
@@ -3774,7 +3586,7 @@ export default function Home() {
           <p className="site-footer-title">Game Note © 2026.</p>
           <p>Carnet personnel de soluces et succès Steam 100 %.</p>
           <p>Site et application autonome Android 5+<br />développée par MaruChiwa.</p>
-          <p className="site-footer-version">ÉDITION LOCALE / v{SITE_VERSION}</p>
+          <p className="site-footer-version">Version {SITE_VERSION}</p>
         </div>
         <a href={readerMode ? "/" : "#guides"}>Retour à la bibliothèque ↑</a>
       </footer>

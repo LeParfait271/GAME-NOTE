@@ -1,7 +1,7 @@
 "use client";
 
-import { useEffect, useMemo, useRef, useState, type RefObject } from "react";
-import "./guide-reader-layout.css";
+import { useEffect, useMemo, useRef, useState, type ReactNode, type RefObject } from "react";
+import "./journal-reader.css";
 
 type ReaderGuide = {
   id: string;
@@ -38,8 +38,10 @@ const GUIDE_MARKERS: Record<GuideMarkerKind, GuideMarkerDefinition> = {
   boss: { label: "Boss ou combat clé", symbol: "⚔" },
 };
 
+// Un repère peut suivre une puce ou un numéro (« - `[SUCCES]` … », « 2. [MANQUABLE] … »)
+// et être entouré de backticks Markdown.
 const GUIDE_MARKER_TOKENS =
-  /^\s*((?:\[(?:COFFRE|SAUVEGARDE|MANQUABLE|SUCCES|BOSS)\]\s*)+)(.*)$/i;
+  /^(\s*(?:[-*]\s+|\d+[.)]\s+|\[\s*\]\s+)?)((?:`?\[(?:COFFRE|SAUVEGARDE|MANQUABLE|SUCCES|BOSS)\]`?\s*)+)(.*)$/i;
 
 const GUIDE_MARKER_GUIDE_IDS = new Set([
   "final-fantasy-vii-2013",
@@ -171,7 +173,7 @@ const extractGuideMarkers = (value: string) => {
     return { line: value, markers: [] as GuideMarkerKind[] };
   }
 
-  const markers = (match[1].match(/\[(?:COFFRE|SAUVEGARDE|MANQUABLE|SUCCES|BOSS)\]/gi) ?? []).map((token) => {
+  const markers = (match[2].match(/\[(?:COFFRE|SAUVEGARDE|MANQUABLE|SUCCES|BOSS)\]/gi) ?? []).map((token) => {
     switch (token.slice(1, -1).toUpperCase()) {
       case "COFFRE":
         return "chest" as const;
@@ -187,7 +189,7 @@ const extractGuideMarkers = (value: string) => {
   });
 
   return {
-    line: match[2].trim(),
+    line: `${match[1].trim()} ${match[3].trim()}`.trim(),
     markers: uniqueGuideMarkers(markers),
   };
 };
@@ -610,11 +612,37 @@ const readReadingProgress = (guideId: string) => {
   }
 };
 
+// Repères placés au milieu d'une ligne (cellules de tableau) : on garde le sens
+// sous forme de symbole au lieu d'afficher la balise brute.
+const INLINE_MARKER_SYMBOLS: Record<string, string> = {
+  COFFRE: "▣",
+  SAUVEGARDE: "●",
+  MANQUABLE: "⚠",
+  SUCCES: "★",
+  BOSS: "⚔",
+};
+const replaceInlineMarkers = (text: string) =>
+  text.replace(/`?\[(COFFRE|SAUVEGARDE|MANQUABLE|SUCCES|BOSS)\]`?/gi, (_, token: string) => INLINE_MARKER_SYMBOLS[token.toUpperCase()]);
+
 const formatText = (text: string) =>
-  text
+  replaceInlineMarkers(text)
     .replace(/^\*\*(.+)\*\*$/, "$1")
     .replace(/\*\*(.+?)\*\*/g, "$1")
+    .replace(/(^|[\s(«])\*([^*\s][^*]*?)\*(?=[\s).,;:!?»]|$)/g, "$1$2")
     .replace(/`(.+?)`/g, "$1");
+
+// Rend le gras (**nom**) et l'italique (*nom*) Markdown pour que les noms de
+// succès, objets et boss ressortent dans la lecture.
+const formatInline = (text: string): ReactNode => {
+  const clean = replaceInlineMarkers(text).replace(/`(.+?)`/g, "$1");
+  const parts = clean.split(/(\*\*.+?\*\*|(?:^|(?<=[\s(«]))\*[^*\s][^*]*?\*(?=[\s).,;:!?»]|$))/g);
+  if (parts.length === 1) return clean;
+  return parts.map((part, index) => {
+    if (part.startsWith("**") && part.endsWith("**") && part.length > 4) return <strong key={index}>{part.slice(2, -2)}</strong>;
+    if (part.startsWith("*") && part.endsWith("*") && part.length > 2) return <em key={index}>{part.slice(1, -1)}</em>;
+    return part;
+  });
+};
 
 const splitGuideStep = (value: string) => {
   const match = value.match(/^(\d+(?:\.\d+)*[.)])\s+(.+)$/);
@@ -960,10 +988,10 @@ export default function GuideReader({
   };
 
   const renderHighlightedText = (value: string) => {
-    if (!query) return formatText(value);
+    if (!query) return formatInline(value);
     const normalizedValue = normalizeGuideText(value);
     const start = normalizedValue.indexOf(query);
-    if (start < 0) return formatText(value);
+    if (start < 0) return formatInline(value);
     let normalizedCursor = 0;
     let valueStart = -1;
     let valueEnd = -1;
@@ -978,7 +1006,7 @@ export default function GuideReader({
         }
       }
     }
-    if (valueStart < 0 || valueEnd < 0) return formatText(value);
+    if (valueStart < 0 || valueEnd < 0) return formatInline(value);
     return <>{formatText(value.slice(0, valueStart))}<mark>{formatText(value.slice(valueStart, valueEnd))}</mark>{formatText(value.slice(valueEnd))}</>;
   };
 

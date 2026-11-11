@@ -1,11 +1,12 @@
 import type { Metadata } from "next";
-import "./globals.css";
-import "./terminal-pass-three.css";
-import "./terminal-pass-four.css";
-import "./terminal-pass-five.css";
-import "./terminal-pass-six.css";
-import "./terminal-pass-seven.css";
-import "./terminal-pass-eight.css";
+// Polices servies depuis le site (la CSP interdit les CDN de polices).
+import "@fontsource/fraunces/latin-400.css";
+import "@fontsource/fraunces/latin-400-italic.css";
+import "@fontsource/fraunces/latin-500.css";
+import "@fontsource/inter/latin-400.css";
+import "@fontsource/inter/latin-500.css";
+import "@fontsource/inter/latin-600.css";
+import "./journal.css";
 import PwaRegister from "./pwa-register";
 
 export const metadata: Metadata = {

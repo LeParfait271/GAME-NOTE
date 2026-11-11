@@ -599,3 +599,18 @@ annexes sont melangees, si un controle echoue ou si le commit reste local.
 - `npm run check:achievements` contrôle le placement des succès officiels.
 - Validations passées : validate:site, validate:guides:strict, audit:guides,
   lint, build et test (7/7).
+
+## Lot 2026-11-11 (3) — design « carnet de voyage sombre »
+
+- Le style tient en deux fichiers : `app/journal.css` (palette, accueil) et
+  `app/journal-reader.css` (lecteur). `globals.css`, `guide-reader-layout.css`
+  et les six couches `terminal-pass-*` sont supprimées : ne jamais réempiler
+  une nouvelle couche, modifier ces deux fichiers.
+- Polices Fraunces (titres) et Inter (texte) servies localement via
+  @fontsource : la CSP interdit les CDN de polices.
+- Lecteur : texte 17 px, gras/italique Markdown rendus, `[SUCCES]` en encadré
+  doré et `[MANQUABLE]` en encadré brique, y compris après une puce ou entre
+  backticks ; tableaux empilés en fiches sur mobile.
+- Garde-fous et tests réécrits pour vérifier le nouveau design au lieu des
+  valeurs CSS terminal. Validations : lint, build, validate:site,
+  validate:guides:strict, audit:guides, test (8/8), check:achievements 88/88.
