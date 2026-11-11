@@ -579,3 +579,15 @@ annexes sont melangees, si un controle echoue ou si le commit reste local.
   S4, The Journey for the Dawn, epilogue, puis A Gate Between Worlds.
 - Apres l audit visuel sur 390, 768, 1280 et 1440 px, lancer build, preflight,
   audit strict, lint et smoke tests avant le commit, le push et le deploiement.
+
+## Lot 2026-11-11 — succès Steam sourcés (Octopath Traveler 1)
+
+- La liste officielle des succès est stockée dans `data/achievements/<jeu>.json`,
+  relevée sur la page publique Steam (88 pour Octopath Traveler 1).
+- `scripts/check-achievements.mjs` vérifie que chaque succès officiel est cité
+  dans la route, avant la CHECKLIST FINALE : Octopath 1 passe de 34/88 à 88/88.
+- Les points manquables ajoutés ont été croisés avec plusieurs sources web
+  (SegmentNext, Steam, Gamer Guides) ; une information venant d'une seule
+  source est signalée comme telle dans la soluce.
+- Limite : Node.js absent sur le poste, donc validate/lint/build pas exécutés ;
+  contrôle fait avec un équivalent PowerShell.

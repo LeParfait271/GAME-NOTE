@@ -1067,3 +1067,15 @@ validation ou reste seulement local.
 - Le lot doit passer l audit visuel reel a 390, 768, 1280 et 1440 px, puis le
   build, le preflight strict, l audit qualite, le lint, les smoke tests, le
   commit, le push et le deploiement.
+
+## Lot 2026-11-11 — succès Steam sourcés (Octopath Traveler 1)
+
+- La liste officielle des succès est stockée dans `data/achievements/<jeu>.json`,
+  relevée sur la page publique Steam (88 pour Octopath Traveler 1).
+- `scripts/check-achievements.mjs` vérifie que chaque succès officiel est cité
+  dans la route, avant la CHECKLIST FINALE : Octopath 1 passe de 34/88 à 88/88.
+- Les points manquables ajoutés ont été croisés avec plusieurs sources web
+  (SegmentNext, Steam, Gamer Guides) ; une information venant d'une seule
+  source est signalée comme telle dans la soluce.
+- Limite : Node.js absent sur le poste, donc validate/lint/build pas exécutés ;
+  contrôle fait avec un équivalent PowerShell.
